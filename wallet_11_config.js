@@ -1,1 +1,1 @@
-var mnemonic = "work loan retreat any enforce script vibrant course bonus aim develop idea";
+var mnemonic = "number solar bid engage radar twin between knife mother beauty entire record";

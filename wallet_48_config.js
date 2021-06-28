@@ -1,1 +1,1 @@
-var mnemonic = "together pizza direct isolate gift tomorrow mad dog spawn laptop phone spoon";
+var mnemonic = "sorry enroll since dream put rhythm ill undo junior picnic chest begin";

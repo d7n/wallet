@@ -1,1 +1,1 @@
-var mnemonic = "eye lesson coil before unknown tunnel normal hospital kite chef print tone";
+var mnemonic = "switch elephant mother antenna mushroom please income worry simple inch require wagon";

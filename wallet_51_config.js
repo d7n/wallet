@@ -1,1 +1,1 @@
-var mnemonic = "ugly hard wage shrimp connect guitar merit snack crawl execute entry innocent";
+var mnemonic = "near shy force final cream note account permit fortune certain mechanic assume";

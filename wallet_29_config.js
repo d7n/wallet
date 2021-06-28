@@ -1,1 +1,1 @@
-var mnemonic = "near sheriff chicken chalk junior prize number where fun merit room civil";
+var mnemonic = "guess carry transfer custom spoon noise feature village wreck diary clown invite";

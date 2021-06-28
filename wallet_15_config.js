@@ -1,1 +1,1 @@
-var mnemonic = "toilet yellow december coach velvet square gather ramp sting hello grace seven";
+var mnemonic = "wonder raven pyramid bachelor edge two armor desert approve champion chalk endless";

@@ -1,1 +1,1 @@
-var mnemonic = "finish light slow saddle dismiss normal range champion short chunk sibling this";
+var mnemonic = "van amateur hybrid daughter cheap switch city online taste hazard cement ugly";

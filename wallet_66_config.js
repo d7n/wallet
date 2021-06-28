@@ -1,1 +1,1 @@
-var mnemonic = "column record mouse moment problem lamp primary kiwi dwarf depart real immense";
+var mnemonic = "motion distance fire enforce sunset middle imitate federal garlic embark genius bright";

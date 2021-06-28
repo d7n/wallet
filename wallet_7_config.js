@@ -1,1 +1,1 @@
-var mnemonic = "happy enlist party health tomato waste involve net comic stove vanish whip";
+var mnemonic = "ridge coyote breeze seed visual shadow mystery cargo say wave draw fantasy";

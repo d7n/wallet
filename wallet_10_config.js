@@ -1,1 +1,1 @@
-var mnemonic = "earth cram camera donate rebuild winter circle cart labor vault provide jacket";
+var mnemonic = "ready entire raccoon fiscal flame improve wool notable transfer glimpse lab alley";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce help worth program stereo soup govern simple caution author lucky circle";
+var mnemonic = "unique brush brisk fence submit veteran horror more cloth tip axis major";

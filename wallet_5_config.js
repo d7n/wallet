@@ -1,1 +1,1 @@
-var mnemonic = "spawn fish brain minimum pill tell skull choose code load bird this";
+var mnemonic = "dentist burst broken child inquiry undo vault outdoor reject square mango eyebrow";

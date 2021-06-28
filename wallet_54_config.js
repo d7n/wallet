@@ -1,1 +1,1 @@
-var mnemonic = "boost ketchup lab veteran tower amazing course deny jacket dash hill swim";
+var mnemonic = "post play now recipe recycle brick aware ocean script adjust deer waste";

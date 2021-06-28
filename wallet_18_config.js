@@ -1,1 +1,1 @@
-var mnemonic = "distance derive paper shed grocery prepare verb actor slow laugh pizza govern";
+var mnemonic = "news race harsh card squirrel orbit husband liberty cousin cage bird bird";

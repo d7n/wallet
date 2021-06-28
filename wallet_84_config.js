@@ -1,1 +1,1 @@
-var mnemonic = "kitten artefact unable stomach random blouse edge welcome boost wave bind embark";
+var mnemonic = "deer isolate absorb december above security joke vague caution morning involve royal";

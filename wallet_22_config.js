@@ -1,1 +1,1 @@
-var mnemonic = "pulp much tool tail lemon town unlock copy green once salt fish";
+var mnemonic = "argue traffic wall run canal sweet twist kite gaze uniform climb thank";

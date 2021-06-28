@@ -1,1 +1,1 @@
-var mnemonic = "sleep such chef because seat coyote miracle hockey deer trade output kind";
+var mnemonic = "scissors tired height veteran excite club follow stock home crane material pave";

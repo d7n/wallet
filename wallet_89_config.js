@@ -1,1 +1,1 @@
-var mnemonic = "grid snack silk indicate gospel cotton caught mushroom play rare robust neutral";
+var mnemonic = "access please save staff total mule weird bamboo birth doll fatigue beyond";

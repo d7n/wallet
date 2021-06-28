@@ -1,1 +1,1 @@
-var mnemonic = "message they fade inquiry project ritual alone celery dial desk worry fork";
+var mnemonic = "moon cup object act super table robot cactus celery skull weird desk";

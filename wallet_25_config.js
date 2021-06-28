@@ -1,1 +1,1 @@
-var mnemonic = "chapter tongue student orchard surge pig subject initial follow divorce certain amateur";
+var mnemonic = "brother dragon brown divert paddle vicious twice news head brisk alcohol rude";

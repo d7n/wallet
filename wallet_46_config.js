@@ -1,1 +1,1 @@
-var mnemonic = "nest fat damp monster dinosaur deputy vanish idea fly planet possible animal";
+var mnemonic = "decide discover cancel wrist battle misery myth card pond avoid way lion";

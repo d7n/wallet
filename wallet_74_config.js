@@ -1,1 +1,1 @@
-var mnemonic = "grief trophy coast sponsor exact tourist narrow timber warfare victory admit hundred";
+var mnemonic = "bachelor animal bright happy fame divorce smile vote circle poem donor primary";

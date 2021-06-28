@@ -1,1 +1,1 @@
-var mnemonic = "cloth day ready timber system amazing oven direct pizza blame faint wood";
+var mnemonic = "soda kind siege capable egg steak body execute usual orchard frog danger";

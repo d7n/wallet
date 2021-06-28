@@ -1,1 +1,1 @@
-var mnemonic = "now earn talk ribbon extend promote grant include pride habit fly fire";
+var mnemonic = "core salute nest gap song upset airport ripple profit issue exist way";

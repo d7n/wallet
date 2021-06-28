@@ -1,1 +1,1 @@
-var mnemonic = "pottery law honey between aerobic insane mistake farm sudden safe stand ordinary";
+var mnemonic = "short lobster mixed picture virtual hollow near era local life unfair hope";

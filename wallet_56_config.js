@@ -1,1 +1,1 @@
-var mnemonic = "organ mutual satoshi level cave blame moral mass crystal clump tuna horse";
+var mnemonic = "model machine merge aunt argue print attract fire produce crucial goat angry";

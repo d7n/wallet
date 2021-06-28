@@ -1,1 +1,1 @@
-var mnemonic = "glare long expire broom hint tomato family fatal fold beauty bacon crack";
+var mnemonic = "helmet trend lemon plastic bag dirt lunch bring practice obtain rude series";

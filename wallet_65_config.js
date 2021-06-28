@@ -1,1 +1,1 @@
-var mnemonic = "push story quiz rally moral opera rug renew answer refuse rally frost";
+var mnemonic = "old pulse miracle silk visa satoshi wisdom height buffalo purchase often shallow";

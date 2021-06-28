@@ -1,1 +1,1 @@
-var mnemonic = "bitter summer display divorce join advice transfer trip solve seat clown name";
+var mnemonic = "onion sock know ecology jeans gym famous trash grow despair maid garden";

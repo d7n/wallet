@@ -1,1 +1,1 @@
-var mnemonic = "spirit deputy lounge pink appear concert hair lecture galaxy learn crew accident";
+var mnemonic = "movie fresh one mobile foam blur entry slide airport ten soft few";

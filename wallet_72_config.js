@@ -1,1 +1,1 @@
-var mnemonic = "menu demise gift churn ocean vital faculty giggle spider shrimp scene suggest";
+var mnemonic = "clown board knock glimpse vessel nice bonus wheel pilot maze embark envelope";

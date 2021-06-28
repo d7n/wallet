@@ -1,1 +1,1 @@
-var mnemonic = "outer team wire document nose repair earth book notice ball diary height";
+var mnemonic = "dune fold swap weapon deposit festival lumber spoil stadium slide cinnamon welcome";

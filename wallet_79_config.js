@@ -1,1 +1,1 @@
-var mnemonic = "below kiss picture moon sand tilt practice essay screen diesel nothing soon";
+var mnemonic = "slow stove birth disease squeeze mansion jar excite chair question sleep text";

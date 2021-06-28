@@ -1,1 +1,1 @@
-var mnemonic = "veteran purchase street head wife online absent business cost swift onion robust";
+var mnemonic = "wealth mean farm antique snap burden ocean escape initial convince toss salad";

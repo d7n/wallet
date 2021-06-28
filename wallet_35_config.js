@@ -1,1 +1,1 @@
-var mnemonic = "glance embrace sibling choose animal safe purchase genre evil cargo work advice";
+var mnemonic = "promote inherit rubber miracle organ super promote again boil fee judge trophy";

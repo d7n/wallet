@@ -1,1 +1,1 @@
-var mnemonic = "predict photo spy century analyst clerk side injury movie april ordinary cook";
+var mnemonic = "ranch immune captain sentence fold torch eagle lamp oven crop hedgehog bid";

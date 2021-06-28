@@ -1,1 +1,1 @@
-var mnemonic = "assume pulp ivory fossil uncle mass find lucky occur afraid moon awake";
+var mnemonic = "celery ocean logic fever top silly advice better float prevent hair survey";

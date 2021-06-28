@@ -1,1 +1,1 @@
-var mnemonic = "intact system mad relief twice scale hood twelve victory clock twenty current";
+var mnemonic = "trip first omit enemy harbor please season addict crew favorite catalog ginger";

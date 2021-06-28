@@ -1,1 +1,1 @@
-var mnemonic = "cross habit rival fetch seek sweet ensure depth aisle race present faith";
+var mnemonic = "energy dove van example today problem pony leg together recipe forum inside";

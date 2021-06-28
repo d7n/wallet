@@ -1,1 +1,1 @@
-var mnemonic = "upset time snack alone lion boring club march system sauce crowd wet";
+var mnemonic = "sure foil clarify love novel use obvious believe orphan age fall hawk";

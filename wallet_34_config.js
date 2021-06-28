@@ -1,1 +1,1 @@
-var mnemonic = "involve debris clever siren swarm clap client olympic pluck cotton uncover huge";
+var mnemonic = "setup inch figure aim model subway scrub lazy body north sport yard";

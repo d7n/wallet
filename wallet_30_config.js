@@ -1,1 +1,1 @@
-var mnemonic = "broccoli melt orange glow erase ankle girl hammer install season bubble royal";
+var mnemonic = "piece crucial kite pudding child lecture buyer turtle illness weapon bright elegant";

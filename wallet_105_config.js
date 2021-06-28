@@ -1,1 +1,1 @@
-var mnemonic = "level creek toast motion quick piano metal winter lottery rival raw gap";
+var mnemonic = "leaf twin riot eight vote honey stove limit urge primary food benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct artist demand bean twist tone weasel coffee portion surprise drive volume";
+var mnemonic = "envelope feel bone often moon vicious evidence wear vintage current labor raven";

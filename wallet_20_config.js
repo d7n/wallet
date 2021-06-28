@@ -1,1 +1,1 @@
-var mnemonic = "rebel opera scheme warm penalty swamp token rice average height possible castle";
+var mnemonic = "dance glide reunion ice venture reveal scare olympic few erupt fence humor";

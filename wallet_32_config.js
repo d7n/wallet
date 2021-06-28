@@ -1,1 +1,1 @@
-var mnemonic = "special alpha tooth begin six multiply thumb fault reveal lens country poem";
+var mnemonic = "ghost attack uncover reopen spell cover off bring bachelor inherit dash rubber";

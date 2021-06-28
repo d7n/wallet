@@ -1,1 +1,1 @@
-var mnemonic = "define film dizzy raise gather tank slide area fun flush early must";
+var mnemonic = "reward swear acoustic comfort smoke question obey piano slogan found legend pattern";

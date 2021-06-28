@@ -1,1 +1,1 @@
-var mnemonic = "hazard eye away climb vacant vanish carpet blur furnace warfare assist cigar";
+var mnemonic = "whisper asthma science allow boil okay strike trap slender smoke pipe shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid employ invest nasty echo frown kingdom crush print buzz stove palace";
+var mnemonic = "web off busy garden decorate legend once game stone zebra teach carry";

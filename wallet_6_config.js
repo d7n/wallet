@@ -1,1 +1,1 @@
-var mnemonic = "plunge unaware salmon vault piece boil bicycle section drastic siege trial frequent";
+var mnemonic = "employ nest erupt cabbage assume visit calm act chair east warm lizard";

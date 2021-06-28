@@ -1,1 +1,1 @@
-var mnemonic = "rapid notable spoon cluster spare unfair secret action absurd shield charge mixture";
+var mnemonic = "unfair knife hollow harsh crop have borrow minute culture midnight kick find";

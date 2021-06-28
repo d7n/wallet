@@ -1,1 +1,1 @@
-var mnemonic = "neither trumpet stove occur puppy maze refuse trumpet buyer ancient sorry kind";
+var mnemonic = "until cruise owner toast kit banana bread brother fiber crew special remain";

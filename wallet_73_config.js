@@ -1,1 +1,1 @@
-var mnemonic = "buyer two palm unknown salt perfect summer dad render cook tortoise tube";
+var mnemonic = "able joke mango field provide need large maid brisk radar dice snake";

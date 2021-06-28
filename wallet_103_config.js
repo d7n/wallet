@@ -1,1 +1,1 @@
-var mnemonic = "level nasty seven salute glow urge isolate slogan neutral visit anger orient";
+var mnemonic = "acid wagon deny pink exchange spoon couch skull decorate drip swim sock";

@@ -1,1 +1,1 @@
-var mnemonic = "gas pear circle symptom oval ten picture myth alcohol lab aunt tattoo";
+var mnemonic = "shell essay deputy coconut sheriff mail peanut nominee slight like drift pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "wait endorse hockey property shock company right emerge only magnet liar arch";
+var mnemonic = "borrow baby produce suggest cruise orbit siren output soda almost toward busy";

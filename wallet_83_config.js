@@ -1,1 +1,1 @@
-var mnemonic = "opera alarm twin crazy work upper novel prosper soon phrase angry tenant";
+var mnemonic = "opinion carbon shallow swing family sweet merge trash control sauce clay flush";

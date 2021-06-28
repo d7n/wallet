@@ -1,1 +1,1 @@
-var mnemonic = "ginger sauce minute east spike dinosaur pigeon rural middle ribbon movie rude";
+var mnemonic = "vicious other room anchor mammal minimum decline cricket drastic royal hip taste";

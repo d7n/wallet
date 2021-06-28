@@ -1,1 +1,1 @@
-var mnemonic = "pyramid luxury miss pet fiction frown forum quick fever pride exchange dust";
+var mnemonic = "ahead cat observe range picture century proof defense anxiety gossip dizzy over";

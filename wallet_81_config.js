@@ -1,1 +1,1 @@
-var mnemonic = "rebuild output endless project maximum lake section gesture crunch rapid camp toast";
+var mnemonic = "moon give level general choose slot legal size thumb earn bone nuclear";

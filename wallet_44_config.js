@@ -1,1 +1,1 @@
-var mnemonic = "vacant tip visual master depth tumble gospel blood whisper cancel blood bamboo";
+var mnemonic = "purity picnic rib cliff evil curtain insane right faith produce antenna vacant";

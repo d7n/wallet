@@ -1,1 +1,1 @@
-var mnemonic = "ugly mix hub fog cross violin message mail best fluid plastic valid";
+var mnemonic = "song chase cloud oyster sight coyote turkey rate debris this also chase";

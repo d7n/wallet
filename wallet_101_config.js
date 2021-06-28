@@ -1,1 +1,1 @@
-var mnemonic = "session giant strong please portion double mushroom estate nut filter avocado nominee";
+var mnemonic = "found test expect hello breeze crouch hope pair ill slim fence valve";

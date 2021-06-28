@@ -1,1 +1,1 @@
-var mnemonic = "mechanic bread oven august famous problem always crater spirit palace eight asset";
+var mnemonic = "cancel flip physical bleak fiber deal hire tennis host flat oyster sphere";

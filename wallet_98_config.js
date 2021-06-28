@@ -1,1 +1,1 @@
-var mnemonic = "true vocal all just seat grain group file mention sea uncover cycle";
+var mnemonic = "thunder sea popular life focus claw upset tiny twin weapon giant kiss";

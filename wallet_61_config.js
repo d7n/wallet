@@ -1,1 +1,1 @@
-var mnemonic = "mad eternal pulse pipe develop chuckle obvious confirm damage abandon foot column";
+var mnemonic = "endorse issue era teach speak equal bus opinion muscle coast candy dress";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel web end spread clown pen reduce voyage damage update card pigeon";
+var mnemonic = "diagram abstract leisure news brass liberty replace crystal trap river purse seven";

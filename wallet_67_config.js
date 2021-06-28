@@ -1,1 +1,1 @@
-var mnemonic = "base space embark joke silly wing giggle scheme captain simple toilet make";
+var mnemonic = "depend strategy wise field alert bracket car renew voice alone thunder mix";

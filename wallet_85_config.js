@@ -1,1 +1,1 @@
-var mnemonic = "reveal game party antenna essence century example reward wide black flip used";
+var mnemonic = "glide expire try walnut inquiry denial ginger artefact boy swear pause employ";

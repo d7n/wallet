@@ -1,1 +1,1 @@
-var mnemonic = "blur eagle finish bounce sunny trophy polar matrix click silver utility stove";
+var mnemonic = "harvest half mango hour limit transfer sketch exit half exchange embark foot";

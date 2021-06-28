@@ -1,1 +1,1 @@
-var mnemonic = "cube razor real punch keen ensure course resemble relief topple carry broken";
+var mnemonic = "hub alone glimpse alcohol fat drift culture evil idea erode candy slender";

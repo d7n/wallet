@@ -1,1 +1,1 @@
-var mnemonic = "bird van apart oval mother prison face buffalo found zone dream noble";
+var mnemonic = "region sun spray canoe point prevent ozone profit kangaroo swarm evoke menu";

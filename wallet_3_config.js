@@ -1,1 +1,1 @@
-var mnemonic = "tape option symptom ankle divorce phone visit will swallow dilemma safe copper";
+var mnemonic = "hamster slow record pitch hedgehog gaze air chef chalk strategy pool area";

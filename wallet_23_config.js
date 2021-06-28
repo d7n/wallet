@@ -1,1 +1,1 @@
-var mnemonic = "record beef bachelor audit never champion settle green assist gather tonight cream";
+var mnemonic = "spice genuine initial exist private because high awkward tooth hero tortoise coin";

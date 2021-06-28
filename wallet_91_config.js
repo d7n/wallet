@@ -1,1 +1,1 @@
-var mnemonic = "violin find select panic people cinnamon such rally debris soap tissue amazing";
+var mnemonic = "thrive hedgehog mother awake perfect base stadium join cry begin valley busy";

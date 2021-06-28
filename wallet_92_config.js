@@ -1,1 +1,1 @@
-var mnemonic = "endless dose tool undo boat save weapon exist bonus dish betray perfect";
+var mnemonic = "solution bright cactus deposit globe dawn north output sting million crash wire";

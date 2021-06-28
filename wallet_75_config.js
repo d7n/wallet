@@ -1,1 +1,1 @@
-var mnemonic = "cream exercise tennis egg warfare sketch squirrel engine music ginger update enemy";
+var mnemonic = "grant legal powder isolate virus cruel pond raise code charge feel reveal";

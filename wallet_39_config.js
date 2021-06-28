@@ -1,1 +1,1 @@
-var mnemonic = "uncle primary want win belt indoor season patch adapt lottery tiny high";
+var mnemonic = "vital melt interest total rose confirm issue angle route vote possible area";

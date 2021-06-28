@@ -1,1 +1,1 @@
-var mnemonic = "movie truly nasty left build noble mule column salmon view churn life";
+var mnemonic = "arrest subject fury animal ticket buyer squirrel awful sock water trim all";

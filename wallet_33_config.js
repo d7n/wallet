@@ -1,1 +1,1 @@
-var mnemonic = "drive heavy sword genre light mandate brand solid occur mouse truck unique";
+var mnemonic = "crucial hair camp ice tattoo private need pause enter item rude private";
