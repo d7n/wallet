@@ -1,1 +1,1 @@
-var mnemonic = "casual about glow sign scout actor believe couple divide perfect galaxy spoon";
+var mnemonic = "network resemble tent crack truly pig vocal assume puppy require increase hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "about puppy coil ceiling journey quality master silk where course cabin cost";
+var mnemonic = "put mandate supreme under unveil ice such ketchup possible knee rebuild glove";

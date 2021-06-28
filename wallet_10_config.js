@@ -1,1 +1,1 @@
-var mnemonic = "cheap burst ask crazy ancient burger force mom wagon pass turn ketchup";
+var mnemonic = "impose duty direct few stand deal response one lemon scene prosper jewel";

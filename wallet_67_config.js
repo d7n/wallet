@@ -1,1 +1,1 @@
-var mnemonic = "space ahead account improve merge cushion chest reward forget violin team kind";
+var mnemonic = "dial goddess force boat exhaust viable festival unique glue exotic unveil evoke";

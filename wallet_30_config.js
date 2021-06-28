@@ -1,1 +1,1 @@
-var mnemonic = "giraffe purse purchase quantum pledge text learn couple vendor motion drama side";
+var mnemonic = "throw grid member clump fall marble day fork noise into island advice";

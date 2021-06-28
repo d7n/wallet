@@ -1,1 +1,1 @@
-var mnemonic = "subway exchange frown expose lava awesome devote elite piano twin fault rapid";
+var mnemonic = "globe crawl animal camera wash edit seven quality huge episode away pumpkin";

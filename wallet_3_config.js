@@ -1,1 +1,1 @@
-var mnemonic = "spider used rule orbit example journey canyon laptop cake gorilla local foil";
+var mnemonic = "left million buddy arrest day permit know decline novel work game program";

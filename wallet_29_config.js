@@ -1,1 +1,1 @@
-var mnemonic = "draw confirm dumb apple ordinary middle body actor solve drift peasant sport";
+var mnemonic = "despair lesson please oven tip damage police fog embody annual live violin";

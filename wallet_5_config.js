@@ -1,1 +1,1 @@
-var mnemonic = "sure birth atom mind lawsuit runway glory barrel chat dynamic crime venture";
+var mnemonic = "pencil surge fiber dragon tonight course stomach grit thank enough staff cook";

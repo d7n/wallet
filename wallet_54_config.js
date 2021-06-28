@@ -1,1 +1,1 @@
-var mnemonic = "leg special kit erupt crater suggest slow speed purity fun aware oxygen";
+var mnemonic = "fish must carpet diamond shock tip cheap gauge rather rough across hour";

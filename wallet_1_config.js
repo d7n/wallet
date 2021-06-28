@@ -1,1 +1,1 @@
-var mnemonic = "grain offer swap angle vacuum honey endless lucky salad brain point innocent";
+var mnemonic = "blouse slide sense rebuild alarm refuse dad raccoon myth circle favorite reopen";

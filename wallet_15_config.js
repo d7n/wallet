@@ -1,1 +1,1 @@
-var mnemonic = "dirt claw best clinic comfort kitchen call breeze loan toy flip relax";
+var mnemonic = "purse crystal drastic twenty evidence garden stairs copper charge riot mixture robot";

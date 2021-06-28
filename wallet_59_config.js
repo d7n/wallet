@@ -1,1 +1,1 @@
-var mnemonic = "mystery refuse crazy champion filter erase into father grain tag diary jealous";
+var mnemonic = "resist flee file vote farm emotion token silk essay glimpse wonder rebuild";

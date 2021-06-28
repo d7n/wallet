@@ -1,1 +1,1 @@
-var mnemonic = "chat orient cannon radio word tiger glide flip lazy broom alien catch";
+var mnemonic = "rude neither ribbon innocent embark scrap expire bag arrest describe donate anger";

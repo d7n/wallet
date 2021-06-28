@@ -1,1 +1,1 @@
-var mnemonic = "cloth fit age kangaroo amazing banner country fan stool diet maid bachelor";
+var mnemonic = "deny merry ankle plunge raise right grow bus dove bronze pyramid play";

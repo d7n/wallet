@@ -1,1 +1,1 @@
-var mnemonic = "peace when bid voyage explain camp tackle excite timber amazing tackle age";
+var mnemonic = "convince fantasy hamster snack laugh lizard play empower smile duty laugh want";

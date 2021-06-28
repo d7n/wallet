@@ -1,1 +1,1 @@
-var mnemonic = "supply laugh tackle despair push birth moment grocery gain soda glimpse planet";
+var mnemonic = "bench this bird trial aunt tooth oval radar treat collect push morning";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap shaft high frog panda cross shrimp bench spare moral slice logic";
+var mnemonic = "wink rescue flush large tissue unaware bounce swear render topic salmon anchor";

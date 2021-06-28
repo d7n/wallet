@@ -1,1 +1,1 @@
-var mnemonic = "rhythm myth tribe coral harsh federal lend quality raccoon then glass isolate";
+var mnemonic = "school liberty fortune visa decade capital bachelor super foot tuition asset zero";

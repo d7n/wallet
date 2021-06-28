@@ -1,1 +1,1 @@
-var mnemonic = "tube kingdom neglect stamp fashion easily strike donkey sock burst ridge what";
+var mnemonic = "boss chapter mean give stock sport direct muscle guess top hip element";

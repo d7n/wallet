@@ -1,1 +1,1 @@
-var mnemonic = "dry beef steel mule narrow wealth vicious gold lottery live bottom cover";
+var mnemonic = "speak sister sight inch degree poverty evidence keen crush state admit help";

@@ -1,1 +1,1 @@
-var mnemonic = "snap clutch thrive face engine stumble neglect token hint jelly private quality";
+var mnemonic = "risk romance crystal join ill tonight wolf river then kick remove gorilla";

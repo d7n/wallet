@@ -1,1 +1,1 @@
-var mnemonic = "wear kingdom surprise narrow tape stamp recipe decide tide artefact pigeon now";
+var mnemonic = "voice accident door sea cannon struggle armed south sketch season cube purse";

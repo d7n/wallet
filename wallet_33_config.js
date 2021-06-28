@@ -1,1 +1,1 @@
-var mnemonic = "angle leopard boy public perfect learn unique hair emotion long hard scheme";
+var mnemonic = "machine lunar swap birth ocean upset essence shop aim caution hamster essence";

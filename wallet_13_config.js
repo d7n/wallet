@@ -1,1 +1,1 @@
-var mnemonic = "easy faculty allow rely initial library food potato ecology avocado tower twenty";
+var mnemonic = "twelve anchor cruel device chase true welcome pill ordinary aspect rescue since";

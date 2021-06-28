@@ -1,1 +1,1 @@
-var mnemonic = "sail belt cook below trap mixed game crew upon stem arena century";
+var mnemonic = "roast estate surface slender supreme soul buffalo sphere suggest hat saddle genius";

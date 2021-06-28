@@ -1,1 +1,1 @@
-var mnemonic = "dawn record carpet okay goat fashion evoke bless oil rocket clap cabbage";
+var mnemonic = "access flock stable speak join eagle mobile wage nose only affair lend";

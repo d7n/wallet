@@ -1,1 +1,1 @@
-var mnemonic = "guide gaze share ahead install admit stomach sibling aerobic umbrella eagle rack";
+var mnemonic = "hint chunk equal alien toast marine copy basket reform napkin road describe";

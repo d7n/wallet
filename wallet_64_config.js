@@ -1,1 +1,1 @@
-var mnemonic = "welcome caught bone island subject width debris index beauty volcano delay aunt";
+var mnemonic = "quantum minor jacket urge skull hand celery poverty argue wisdom wear bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "media stay project jungle enrich sand ghost custom female best coin left";
+var mnemonic = "brisk library flush penalty obey sponsor fiber kingdom prize lens water burger";

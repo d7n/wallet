@@ -1,1 +1,1 @@
-var mnemonic = "coin indicate code afford sibling oak tone figure popular crouch keep current";
+var mnemonic = "harvest rose jar plug judge pass tragic check cherry lunch popular giggle";

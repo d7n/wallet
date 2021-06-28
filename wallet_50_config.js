@@ -1,1 +1,1 @@
-var mnemonic = "jaguar exclude powder argue spider obvious parent legend remind electric oil quarter";
+var mnemonic = "proud mistake emerge rail divide shield grace merry caution chief guide garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "firm style vibrant argue stay bamboo pencil drift engage gorilla local snake";
+var mnemonic = "capable special reduce clap alley wise carpet please sibling grunt fatigue robust";

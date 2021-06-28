@@ -1,1 +1,1 @@
-var mnemonic = "anger magnet staff upset only adjust chief group fitness wedding vocal egg";
+var mnemonic = "primary example return lock crater social family rescue torch baby exchange drill";

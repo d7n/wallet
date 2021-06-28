@@ -1,1 +1,1 @@
-var mnemonic = "hood omit meadow risk kidney any arch life access truth pencil margin";
+var mnemonic = "curious custom large coyote voice august scissors order prison soon left race";

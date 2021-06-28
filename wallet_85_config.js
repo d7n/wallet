@@ -1,1 +1,1 @@
-var mnemonic = "axis young desert oval chicken little venue cheese choice result cool hurt";
+var mnemonic = "between minute accuse stairs property donate charge basket exist destroy pony trade";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain defy sing lesson betray host invite find skin room sorry need";
+var mnemonic = "tray goddess come spray festival noble ice cluster transfer wisdom tube brown";

@@ -1,1 +1,1 @@
-var mnemonic = "learn insect trend ugly point deny thank leisure confirm owner argue end";
+var mnemonic = "kit nominee heart toy ensure error antenna fall few swift remind dice";

@@ -1,1 +1,1 @@
-var mnemonic = "corn shove toe bachelor forget barely universe text guard shrimp bubble glad";
+var mnemonic = "tragic into wash sibling scheme slide taste hat exact double museum please";

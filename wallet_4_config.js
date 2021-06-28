@@ -1,1 +1,1 @@
-var mnemonic = "symptom zebra paper skull club glow flash notable fortune diesel transfer motion";
+var mnemonic = "bird renew toy giraffe wreck guide execute push sample cereal mistake deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "two primary quality adult size beyond disorder acid merit consider wave shrug";
+var mnemonic = "abandon cover submit creek guide wink buffalo inquiry sun ostrich day chalk";

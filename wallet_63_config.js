@@ -1,1 +1,1 @@
-var mnemonic = "annual between visit clump promote venture chimney unfair hunt right list usual";
+var mnemonic = "lounge outside clump matrix involve tree street such unfair melt audit ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "neck tackle core monkey inherit obtain cousin chapter response style rural odor";
+var mnemonic = "object safe naive nut amused taxi cream merge impact monkey choose disorder";

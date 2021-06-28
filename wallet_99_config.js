@@ -1,1 +1,1 @@
-var mnemonic = "soccer voice wrap live rule clown visit control mule flight exist oppose";
+var mnemonic = "mansion enable slab security ginger owner gesture round galaxy local impulse same";

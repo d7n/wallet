@@ -1,1 +1,1 @@
-var mnemonic = "coach they average logic game chalk rifle own write thrive orange captain";
+var mnemonic = "fury eagle jar rich coach surprise used bag private length prosper chest";

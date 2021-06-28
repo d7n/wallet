@@ -1,1 +1,1 @@
-var mnemonic = "raise trip stove flight kingdom organ proud fatal impact wink awkward twist";
+var mnemonic = "evolve apple always follow gospel churn under live mimic equip tragic collect";

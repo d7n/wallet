@@ -1,1 +1,1 @@
-var mnemonic = "flight essence caution resemble odor draw swamp shrimp number fence female pen";
+var mnemonic = "rice logic fitness miracle forward find panel earn boil exile snake hundred";

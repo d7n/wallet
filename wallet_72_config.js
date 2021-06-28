@@ -1,1 +1,1 @@
-var mnemonic = "often olive cabbage opinion deal memory win stand bunker market lunar lunch";
+var mnemonic = "ahead convince dance there purity tomato own execute wrestle ride answer october";

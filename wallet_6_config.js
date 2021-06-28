@@ -1,1 +1,1 @@
-var mnemonic = "sound rude magnet local sentence nominee among leave thumb action ocean army";
+var mnemonic = "column start omit tunnel life today giraffe explain cattle beyond canal easy";

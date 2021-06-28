@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow yellow hurry dinner cigar flame radio caught mule seat arrest hurdle";
+var mnemonic = "arctic edit sketch august connect blind venture boost toe eight wage clown";

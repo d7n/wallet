@@ -1,1 +1,1 @@
-var mnemonic = "rigid impulse physical ketchup ten survey fix hen pole range monkey milk";
+var mnemonic = "retire now rail always goose rare long barrel fire volume next mention";

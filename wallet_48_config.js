@@ -1,1 +1,1 @@
-var mnemonic = "weekend inflict drop stick raven episode never number pause motion chef once";
+var mnemonic = "bread object lock country carry muscle police inside sting cancel repair width";

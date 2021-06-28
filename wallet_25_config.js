@@ -1,1 +1,1 @@
-var mnemonic = "special ahead ill feed coin tip grant fun swing sea nest local";
+var mnemonic = "priority steak damage ill horn into engine trash manage action trip obvious";

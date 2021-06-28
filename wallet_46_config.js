@@ -1,1 +1,1 @@
-var mnemonic = "gold code person sand clown wreck trigger kid front also sponsor pistol";
+var mnemonic = "erase top satoshi soda economy click drill circle gasp strategy success unusual";

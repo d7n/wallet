@@ -1,1 +1,1 @@
-var mnemonic = "dinner nerve tomorrow scissors pelican surround before rapid enter nose six hand";
+var mnemonic = "dry foam order example cabin concert emotion autumn index possible color author";

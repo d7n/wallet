@@ -1,1 +1,1 @@
-var mnemonic = "reunion coil orchard tide assume blush dismiss together donkey curve grief vessel";
+var mnemonic = "fade large anchor agent silver spoon leader noise donor refuse trial uncle";

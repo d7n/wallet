@@ -1,1 +1,1 @@
-var mnemonic = "pulp hub glow chapter soldier issue guess dish bullet genuine above suspect";
+var mnemonic = "universe mixture device avoid child crawl diesel seminar three iron soap puppy";

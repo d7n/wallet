@@ -1,1 +1,1 @@
-var mnemonic = "wolf inner grain sorry warrior emerge meat voice chicken hen debate film";
+var mnemonic = "hello remain dream occur youth swear movie husband middle lens wave south";

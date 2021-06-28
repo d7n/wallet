@@ -1,1 +1,1 @@
-var mnemonic = "link nature just wrestle scale stand clerk chair payment across vital gather";
+var mnemonic = "drink sorry liberty purpose shuffle later tobacco empty soccer alien luxury news";

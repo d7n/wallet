@@ -1,1 +1,1 @@
-var mnemonic = "educate delay actual apology remove town rally jeans cage often toe chapter";
+var mnemonic = "tissue olympic veteran slight pact include choice dignity purse august earn rack";

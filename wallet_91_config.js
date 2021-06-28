@@ -1,1 +1,1 @@
-var mnemonic = "enrich monitor home regret sun eagle eager unlock kid rib pet whale";
+var mnemonic = "subject night palace turn game deny sad teach vintage rug payment gorilla";

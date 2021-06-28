@@ -1,1 +1,1 @@
-var mnemonic = "alter vivid staff bag major found cream border ethics lock before few";
+var mnemonic = "witness fence method hammer wait plate mass life hotel dust post erode";

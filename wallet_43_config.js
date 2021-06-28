@@ -1,1 +1,1 @@
-var mnemonic = "humor segment input sadness dentist mixed topic inhale fashion pact group trophy";
+var mnemonic = "girl movie divorce old dynamic hurdle ecology neck club birth success camera";

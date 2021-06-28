@@ -1,1 +1,1 @@
-var mnemonic = "unable convince shallow attract mimic dice spider imitate shrimp life noble saddle";
+var mnemonic = "caution sword grunt weekend boring copy pretty hero ugly protect copper immense";

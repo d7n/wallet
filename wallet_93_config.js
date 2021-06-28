@@ -1,1 +1,1 @@
-var mnemonic = "strong tobacco seat behave hockey attend dash chicken surround hub brain mask";
+var mnemonic = "brother project include solar media one ranch square stay fun piano confirm";

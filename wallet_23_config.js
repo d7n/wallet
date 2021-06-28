@@ -1,1 +1,1 @@
-var mnemonic = "candy toy write double height neither wagon define pave topic flower lottery";
+var mnemonic = "fat discover huge enforce unable mountain tent card dismiss coach beef meat";

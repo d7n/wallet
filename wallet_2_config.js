@@ -1,1 +1,1 @@
-var mnemonic = "beach vicious side purse silent crisp wire bird flush hidden find appear";
+var mnemonic = "exhibit exit drip load pause street guard clean save wear nose main";

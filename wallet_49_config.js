@@ -1,1 +1,1 @@
-var mnemonic = "lumber word around already alcohol icon inflict leaf demise zoo run seminar";
+var mnemonic = "pipe position bring unlock twist lake text mom magic unaware interest cheese";

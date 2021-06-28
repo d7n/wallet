@@ -1,1 +1,1 @@
-var mnemonic = "label daring timber oyster skull include top connect opinion right mushroom frown";
+var mnemonic = "pole shop same gentle neglect since spot dash bachelor sea include fuel";

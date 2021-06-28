@@ -1,1 +1,1 @@
-var mnemonic = "favorite layer history normal over glove disease theme opinion number raccoon strike";
+var mnemonic = "island emerge deliver radar extend snow bacon remove unveil dentist pond initial";

@@ -1,1 +1,1 @@
-var mnemonic = "civil true cement north round paper cross segment illegal sausage capable chronic";
+var mnemonic = "battle differ special require hammer rely arrive dizzy utility palace parade blouse";

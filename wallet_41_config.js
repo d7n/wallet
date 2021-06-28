@@ -1,1 +1,1 @@
-var mnemonic = "oval comic notable amount body jacket narrow pilot buddy rent cram permit";
+var mnemonic = "sign tide letter either lens piano brisk gift cherry upon caught usual";

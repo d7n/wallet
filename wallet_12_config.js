@@ -1,1 +1,1 @@
-var mnemonic = "tuna abandon welcome paper measure curious laugh enroll tobacco once park era";
+var mnemonic = "message reward amazing category sound canal away social number enlist myself shove";

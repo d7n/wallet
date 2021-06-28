@@ -1,1 +1,1 @@
-var mnemonic = "permit goat arena photo equip tower comic portion try torch clip double";
+var mnemonic = "nephew cause chalk casual wish into screen gift vital grow feature enlist";

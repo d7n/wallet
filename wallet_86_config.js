@@ -1,1 +1,1 @@
-var mnemonic = "loyal faint wisdom public agent picture cash reduce math library dish hero";
+var mnemonic = "multiply air lazy spread fetch monitor license trip twelve cancel bridge local";

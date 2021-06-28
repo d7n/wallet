@@ -1,1 +1,1 @@
-var mnemonic = "control shuffle loud glide ignore blanket leader style bench language beef retreat";
+var mnemonic = "laundry tourist private sentence tennis defense size bar scrub example foster suggest";

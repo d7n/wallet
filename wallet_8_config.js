@@ -1,1 +1,1 @@
-var mnemonic = "rescue zebra inner helmet shallow blue mushroom sweet obvious year brush shadow";
+var mnemonic = "sauce random tone spring puzzle layer bridge wall silver hawk loop artist";

@@ -1,1 +1,1 @@
-var mnemonic = "merit solid know behave lemon dismiss deer few april liar runway project";
+var mnemonic = "answer side month approve behave jazz empower dune bleak page expect tongue";

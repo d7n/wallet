@@ -1,1 +1,1 @@
-var mnemonic = "afford assault alien identify select myself mandate auction promote charge suspect observe";
+var mnemonic = "elevator project swap wedding rug change distance explain blind prepare rather hobby";

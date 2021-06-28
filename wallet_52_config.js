@@ -1,1 +1,1 @@
-var mnemonic = "canal resemble exhaust float route town romance surge lottery various drift hotel";
+var mnemonic = "wasp grace either spray stick swing inside belt shoulder allow force absorb";

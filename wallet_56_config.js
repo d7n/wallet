@@ -1,1 +1,1 @@
-var mnemonic = "miracle upset body faint hair rough garage version try domain sail fly";
+var mnemonic = "news lesson occur step puzzle feature dust client elevator judge miracle business";

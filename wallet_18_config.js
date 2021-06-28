@@ -1,1 +1,1 @@
-var mnemonic = "disorder charge hello various struggle property similar mass skill cat comfort reveal";
+var mnemonic = "shell allow taxi ozone cross soda save forget found recipe timber mother";

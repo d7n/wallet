@@ -1,1 +1,1 @@
-var mnemonic = "waste yard royal bread expand seven sell where expire tenant special slice";
+var mnemonic = "sponsor iron injury move side short exist spoil hollow reunion bunker weasel";

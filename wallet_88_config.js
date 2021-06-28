@@ -1,1 +1,1 @@
-var mnemonic = "swarm floor thank hello release gas crumble flight fringe cage amount garbage";
+var mnemonic = "cousin hill exercise west ensure limit park balcony custom similar recall shield";
