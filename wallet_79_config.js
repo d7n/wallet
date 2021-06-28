@@ -1,1 +1,1 @@
-var mnemonic = "flock october stem license silk turkey pet offer net zero speak insane";
+var mnemonic = "link pattern rely begin immune fall spell depend fiber original dawn ignore";

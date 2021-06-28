@@ -1,1 +1,1 @@
-var mnemonic = "offer endless option nurse drama weather arm giraffe accident below middle use";
+var mnemonic = "shy engage scout path chicken photo angry fetch steel diamond thunder radio";

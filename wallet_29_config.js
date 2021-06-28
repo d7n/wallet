@@ -1,1 +1,1 @@
-var mnemonic = "idea candy solar hurdle render express key license stairs next pact label";
+var mnemonic = "virus tube head razor weird theme guilt awake loop tonight beach that";

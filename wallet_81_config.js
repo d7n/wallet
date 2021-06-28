@@ -1,1 +1,1 @@
-var mnemonic = "middle slice palace magic choose clinic snack ice flash aspect solar multiply";
+var mnemonic = "swear funny fiction grass forget trigger sunset hockey budget chapter joke pepper";

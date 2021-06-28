@@ -1,1 +1,1 @@
-var mnemonic = "prison venue mention infant display labor table beauty pulp clay future cave";
+var mnemonic = "liar life vacant emerge step waste clever grape energy learn month add";

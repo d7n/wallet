@@ -1,1 +1,1 @@
-var mnemonic = "heavy expire sea abandon pulp session begin assault actual fold capital napkin";
+var mnemonic = "involve lonely achieve diamond grit diet climb loan chalk giant pill violin";

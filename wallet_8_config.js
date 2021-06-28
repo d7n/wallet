@@ -1,1 +1,1 @@
-var mnemonic = "credit pizza consider because mule mention aerobic dirt movie future boost giggle";
+var mnemonic = "ice fresh general eyebrow taxi diamond print reason toilet whisper gravity demise";

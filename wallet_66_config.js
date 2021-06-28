@@ -1,1 +1,1 @@
-var mnemonic = "champion sweet deal trial tobacco blanket clerk shrimp sniff current kiss gift";
+var mnemonic = "turn sock theme glimpse cost random helmet parent segment cable fall pitch";

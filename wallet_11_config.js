@@ -1,1 +1,1 @@
-var mnemonic = "senior daring embody surface exotic angle bitter inhale trophy future alone general";
+var mnemonic = "burger engine original crunch upgrade zone coach spare logic toward fortune joy";

@@ -1,1 +1,1 @@
-var mnemonic = "air duck supply voyage plate town wood dream estate slam half goat";
+var mnemonic = "slush autumn cable health shallow blossom fit dash person lab citizen monkey";

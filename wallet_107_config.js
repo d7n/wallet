@@ -1,1 +1,1 @@
-var mnemonic = "common blue crop zone wasp pledge quick story health tenant neutral hybrid";
+var mnemonic = "turtle denial tuna wrist note cage panther merit spray ketchup climb proof";

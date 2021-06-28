@@ -1,1 +1,1 @@
-var mnemonic = "volcano snow limb trim they impact awkward crop chat clump depart security";
+var mnemonic = "crack stay pulp memory also road artwork gadget outdoor doll easy exhaust";

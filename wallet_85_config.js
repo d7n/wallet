@@ -1,1 +1,1 @@
-var mnemonic = "rural other crouch elite cry shop eagle treat fancy surprise exchange loop";
+var mnemonic = "crush story crumble sniff stumble already rack close oxygen memory blush cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness doctor warrior exhaust town destroy burger cross arm puzzle capital deputy";
+var mnemonic = "verify negative before keen gap mushroom admit junk try language merit stock";

@@ -1,1 +1,1 @@
-var mnemonic = "trim glue kidney bean turtle toilet law jelly cliff memory ice pony";
+var mnemonic = "clown that mechanic common joke gadget music museum visit increase rich enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "forget cabin case slab merge brush damage slot hill blame fun cluster";
+var mnemonic = "diagram humble wolf husband rabbit ordinary visa scrap bleak piano reward dynamic";

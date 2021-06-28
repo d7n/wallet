@@ -1,1 +1,1 @@
-var mnemonic = "defy bulk credit side mad hold gown animal auction shoot oyster marriage";
+var mnemonic = "miss champion super fetch verb spin access bamboo crew volcano found toward";

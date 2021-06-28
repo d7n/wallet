@@ -1,1 +1,1 @@
-var mnemonic = "crime food weapon mad open stone point win tree steel eternal adapt";
+var mnemonic = "monitor bronze client crater misery puzzle chunk stem pudding phone two roast";

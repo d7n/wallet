@@ -1,1 +1,1 @@
-var mnemonic = "erosion today sniff fragile among camera combine kidney chat image theme curtain";
+var mnemonic = "cricket hundred remain toward inhale used immense crystal oil addict into torch";

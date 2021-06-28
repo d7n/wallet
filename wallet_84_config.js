@@ -1,1 +1,1 @@
-var mnemonic = "force awkward enforce struggle humor amount relax asset chicken pupil match require";
+var mnemonic = "island demise online decade eagle razor physical adapt left retreat increase tennis";

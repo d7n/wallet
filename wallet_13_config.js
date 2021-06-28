@@ -1,1 +1,1 @@
-var mnemonic = "bronze surface general switch creek able wash nephew then dog joke loan";
+var mnemonic = "sad fee doctor mimic paddle brave salon dirt pigeon reflect tunnel deer";

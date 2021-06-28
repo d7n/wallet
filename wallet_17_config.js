@@ -1,1 +1,1 @@
-var mnemonic = "script grab theme clever life certain awkward anxiety access code only injury";
+var mnemonic = "estate round sport tomato blur menu artefact orphan snow soup utility refuse";

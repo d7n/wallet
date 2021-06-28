@@ -1,1 +1,1 @@
-var mnemonic = "warm cake build marine faculty blanket cradle wide mask ancient spirit weird";
+var mnemonic = "gossip fiction glue grass drift sponsor keep wolf load toast mistake trouble";

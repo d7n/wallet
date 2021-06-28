@@ -1,1 +1,1 @@
-var mnemonic = "solution boring orchard filter smile truck deal garment solid clutch party boring";
+var mnemonic = "behind domain zone twice bronze must object possible goddess short empower napkin";

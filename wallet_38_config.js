@@ -1,1 +1,1 @@
-var mnemonic = "prison oil radar swallow regular bundle faculty swamp opera diamond real common";
+var mnemonic = "exit black crowd attract west blood notice match current double truth divorce";

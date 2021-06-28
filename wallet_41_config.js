@@ -1,1 +1,1 @@
-var mnemonic = "penalty human modify blossom hotel dragon traffic wall seed caught rhythm hen";
+var mnemonic = "apart chronic world similar wide like often feel canoe inspire toy true";

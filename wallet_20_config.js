@@ -1,1 +1,1 @@
-var mnemonic = "delay later guilt verify roof silver uncle finger retreat joy enact mushroom";
+var mnemonic = "need lift speed road evidence second soda season oppose carry help tower";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel concert ghost ramp wage bunker unhappy acid text urge trophy profit";
+var mnemonic = "jealous slight picture ethics track correct eye skill smart desert crazy often";

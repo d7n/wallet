@@ -1,1 +1,1 @@
-var mnemonic = "biology pilot country urban begin luxury parent output enhance tiny session limit";
+var mnemonic = "inflict gym insect now lucky city episode unveil vacant extra point employ";

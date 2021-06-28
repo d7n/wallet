@@ -1,1 +1,1 @@
-var mnemonic = "cradle kiwi kiwi produce buzz penalty basic black purchase carbon prison emotion";
+var mnemonic = "advice stomach split enforce gravity rich consider unable urban inherit calm symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "know treat laundry say party lounge sudden nature lens usage gas custom";
+var mnemonic = "comfort false age dune local ivory seven perfect toast spend rigid sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "aim hurdle arctic mesh because idea volume target foot tenant cake barely";
+var mnemonic = "deal hamster business pledge hope squeeze author fit fade artefact deputy fence";

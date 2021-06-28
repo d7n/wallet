@@ -1,1 +1,1 @@
-var mnemonic = "surface proof actress will liar list erase dice hundred north electric ten";
+var mnemonic = "morning tattoo day jump alert clay seminar already excite shell flower boring";

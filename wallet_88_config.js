@@ -1,1 +1,1 @@
-var mnemonic = "mom actor way useless host meat universe obey relax apple energy swap";
+var mnemonic = "kite lunar run estate captain climb congress shiver arrest honey empty obtain";

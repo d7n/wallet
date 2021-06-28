@@ -1,1 +1,1 @@
-var mnemonic = "hint only alcohol swarm eye good achieve december angle urban school shop";
+var mnemonic = "curtain return ski program cable provide health either glimpse switch solution gather";

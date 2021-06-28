@@ -1,1 +1,1 @@
-var mnemonic = "easily dove claim sad snack possible bargain identify famous truck museum scene";
+var mnemonic = "tide fiction mansion then twelve observe wall gift portion ivory much exit";

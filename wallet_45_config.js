@@ -1,1 +1,1 @@
-var mnemonic = "slide oven kite stage bid tuition rural achieve bomb infant million nurse";
+var mnemonic = "crouch come enter grief cloud sick reward shed blame turtle jeans flame";

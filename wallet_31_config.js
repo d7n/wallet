@@ -1,1 +1,1 @@
-var mnemonic = "base frog uncover seven envelope magic grid toddler veteran scrap talk mixed";
+var mnemonic = "veteran crumble forest anchor giant warm order leg hub slice legend drum";

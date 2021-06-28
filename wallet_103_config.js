@@ -1,1 +1,1 @@
-var mnemonic = "consider invite cable shallow school sand stand foam bus hair base hedgehog";
+var mnemonic = "beach ill depth repair stomach job switch couch genius elite digital drink";

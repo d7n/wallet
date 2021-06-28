@@ -1,1 +1,1 @@
-var mnemonic = "screen client soon youth gas peanut tomato dress mutual family budget media";
+var mnemonic = "gasp resource holiday blame flag gorilla warfare alarm brand bread casino vote";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma chapter banner increase faculty debris patch target budget sense blush earth";
+var mnemonic = "best august young library whip praise solution camp section tribe until domain";

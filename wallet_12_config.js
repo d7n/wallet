@@ -1,1 +1,1 @@
-var mnemonic = "advice burst cluster phone wool book borrow scatter fee round dwarf city";
+var mnemonic = "series robot must view core trial flush talent door federal toast fuel";

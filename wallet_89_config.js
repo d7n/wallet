@@ -1,1 +1,1 @@
-var mnemonic = "hub unhappy any dust since raccoon silk session prison sphere minimum purchase";
+var mnemonic = "frog fiber blind follow kind before anchor member more company nuclear reject";

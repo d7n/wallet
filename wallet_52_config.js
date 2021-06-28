@@ -1,1 +1,1 @@
-var mnemonic = "peasant catch artwork close level lawsuit apart game across round acquire second";
+var mnemonic = "sample rare select wear brass find before since auction vicious health interest";

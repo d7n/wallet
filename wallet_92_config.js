@@ -1,1 +1,1 @@
-var mnemonic = "rate scan water expire glimpse success dragon delay midnight security toward dose";
+var mnemonic = "boring stone advice expose guess rural ladder quantum flame hope lemon gift";

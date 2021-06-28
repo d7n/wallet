@@ -1,1 +1,1 @@
-var mnemonic = "admit leader lucky result figure impact curtain magic gallery shop infant dog";
+var mnemonic = "museum ignore fat ready crisp thank acquire program gate jaguar exhaust drill";

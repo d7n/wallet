@@ -1,1 +1,1 @@
-var mnemonic = "shift casino half belt fresh crouch ozone inside deal retire immense jealous";
+var mnemonic = "clarify leg fury dial grace purchase light harsh rival mansion pilot stuff";

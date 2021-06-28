@@ -1,1 +1,1 @@
-var mnemonic = "remind child cage aspect antenna outdoor once salon gift sea discover planet";
+var mnemonic = "whisper apology curious trophy bone vibrant suggest hamster dry sphere label lend";

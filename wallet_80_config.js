@@ -1,1 +1,1 @@
-var mnemonic = "length hard tent rebel pilot nephew ladder exit occur comfort glow tree";
+var mnemonic = "chunk mirror jeans metal vault input cherry town slush special zero elegant";

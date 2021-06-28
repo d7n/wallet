@@ -1,1 +1,1 @@
-var mnemonic = "virtual wing unlock weather crazy squirrel mail false camera into naive praise";
+var mnemonic = "dirt inflict ecology type pipe elegant merge category rice absurd cigar people";

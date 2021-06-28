@@ -1,1 +1,1 @@
-var mnemonic = "decide horror window force pepper pink require brave shoulder toast pole maximum";
+var mnemonic = "early cupboard aware three mountain bamboo movie predict model alone light elbow";

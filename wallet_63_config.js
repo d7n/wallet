@@ -1,1 +1,1 @@
-var mnemonic = "air frost canal now fun adjust adult tackle holiday betray cloth control";
+var mnemonic = "ready grunt final squeeze high rubber mystery bracket expand enhance sort dial";

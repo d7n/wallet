@@ -1,1 +1,1 @@
-var mnemonic = "smart chuckle woman man holiday father run large reopen dwarf minimum issue";
+var mnemonic = "idea embark party layer service east predict chalk tip coyote wing pepper";

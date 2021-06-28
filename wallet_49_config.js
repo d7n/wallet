@@ -1,1 +1,1 @@
-var mnemonic = "produce sleep virus color regular jelly frozen library column injury badge grain";
+var mnemonic = "leader grocery item foam actor crisp youth once number minor unit indoor";

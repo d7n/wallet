@@ -1,1 +1,1 @@
-var mnemonic = "pond cancel cushion pluck two alert pave rural ask harvest own aunt";
+var mnemonic = "news pink soup amateur quiz inspire impact milk avoid quote march barrel";

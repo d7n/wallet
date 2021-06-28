@@ -1,1 +1,1 @@
-var mnemonic = "virtual menu rally aisle spider abstract disorder observe sea safe say bacon";
+var mnemonic = "build recipe silver exercise stable theory injury avocado alert isolate city cancel";

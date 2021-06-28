@@ -1,1 +1,1 @@
-var mnemonic = "visa tomato bring mango lucky fantasy torch door remind aware you dinosaur";
+var mnemonic = "romance image access what put rare puzzle sunny mandate reduce pizza name";

@@ -1,1 +1,1 @@
-var mnemonic = "kite adult coast soul better actual brother dinner cereal blur reform mirror";
+var mnemonic = "matrix casual own coach metal patrol tunnel hover clock behind middle estate";

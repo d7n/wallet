@@ -1,1 +1,1 @@
-var mnemonic = "recall youth economy bounce warrior juice curve into silk scout century share";
+var mnemonic = "humor path paper tobacco rural body portion cage october great box element";

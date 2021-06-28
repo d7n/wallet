@@ -1,1 +1,1 @@
-var mnemonic = "option arena treat sorry conduct wolf alert intact cute boss timber almost";
+var mnemonic = "coach correct south time raw mandate repair recycle blood pony else increase";

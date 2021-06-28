@@ -1,1 +1,1 @@
-var mnemonic = "vocal hope cat draw auto bracket civil trumpet engine home huge enter";
+var mnemonic = "image coconut charge census scrub face acquire suggest diagram throw improve spin";

@@ -1,1 +1,1 @@
-var mnemonic = "wife banner sound sudden cactus wink loop tray race sense degree device";
+var mnemonic = "unfair spice gadget permit permit slot alien indoor few lonely spatial busy";

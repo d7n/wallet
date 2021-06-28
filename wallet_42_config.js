@@ -1,1 +1,1 @@
-var mnemonic = "unable talk disease maximum isolate cheap view habit popular draw pass brisk";
+var mnemonic = "error nice sock issue tilt spider cricket derive lemon elegant catalog dog";

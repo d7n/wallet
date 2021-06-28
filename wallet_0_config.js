@@ -1,1 +1,1 @@
-var mnemonic = "depend sick clay floor swing tray concert alpha taste anxiety sea book";
+var mnemonic = "inflict sick police paddle test stable public rude remind kit couch upper";

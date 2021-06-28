@@ -1,1 +1,1 @@
-var mnemonic = "dream please wheel fashion there humble favorite glue include devote trick wreck";
+var mnemonic = "answer museum finger sand diet cabin scorpion laundry member direct isolate lunch";

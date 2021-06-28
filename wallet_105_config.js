@@ -1,1 +1,1 @@
-var mnemonic = "chief era ozone will motion glimpse used law dance response shaft expire";
+var mnemonic = "imitate parade recall narrow matter outer slim ostrich pudding switch action whip";

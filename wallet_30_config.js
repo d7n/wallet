@@ -1,1 +1,1 @@
-var mnemonic = "glide crucial man quantum alone now curtain giggle pumpkin spice quiz skin";
+var mnemonic = "input cause bronze october body tornado teach entire clog faint spell ring";

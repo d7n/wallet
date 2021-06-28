@@ -1,1 +1,1 @@
-var mnemonic = "sail ready school fresh faculty paddle clip piece office flat fix north";
+var mnemonic = "garlic select beauty cricket rule flee flight match comic happy settle write";

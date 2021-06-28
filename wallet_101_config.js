@@ -1,1 +1,1 @@
-var mnemonic = "sign involve fiction film edge thrive great recycle talk wave image toy";
+var mnemonic = "budget switch holiday jar art injury flame satisfy occur night tip remain";

@@ -1,1 +1,1 @@
-var mnemonic = "rely clinic popular rare air float heart behind close whisper parade truck";
+var mnemonic = "strike have bar position fragile few mention often thank market visit burst";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo project tattoo roast assault sick cupboard tribe coin proof fix climb";
+var mnemonic = "crunch stage fade claw recall sunset banana reunion biology family come life";

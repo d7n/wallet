@@ -1,1 +1,1 @@
-var mnemonic = "source sad road ball carbon canvas penalty south coach fault pool casual";
+var mnemonic = "crumble tissue cook rough trick exhaust invest antique combine health lumber peanut";

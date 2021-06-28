@@ -1,1 +1,1 @@
-var mnemonic = "manual rice victory fetch behave warm wisdom wave million air vast grace";
+var mnemonic = "lizard muscle profit subject fiscal lucky whisper run fall record shy drill";

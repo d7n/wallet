@@ -1,1 +1,1 @@
-var mnemonic = "expose broccoli adjust initial know service wheat any situate expand enter cry";
+var mnemonic = "open position miss robot result obey fine enter isolate polar phrase south";

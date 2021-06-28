@@ -1,1 +1,1 @@
-var mnemonic = "legend nasty acquire assist they uncover gesture advice hover ostrich frost assault";
+var mnemonic = "damage leave hungry lesson travel flag easy push orbit wire faith finger";

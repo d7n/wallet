@@ -1,1 +1,1 @@
-var mnemonic = "manual foot lottery spin include trust hunt visit bomb spray unique cushion";
+var mnemonic = "paddle margin involve runway grunt venue icon what employ govern naive gun";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp space penalty ranch predict extend nothing news drive wrap ribbon north";
+var mnemonic = "ankle menu enroll shoulder angle oval demise fatal dolphin quality rice outdoor";

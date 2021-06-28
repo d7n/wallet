@@ -1,1 +1,1 @@
-var mnemonic = "artist eyebrow planet choose morning endless citizen around become adapt magic security";
+var mnemonic = "roast stone profit stay rubber marriage tone bean chicken eager salt legend";

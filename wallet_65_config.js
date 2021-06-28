@@ -1,1 +1,1 @@
-var mnemonic = "canal chalk stumble swim inside leaf chicken member physical soup fetch patch";
+var mnemonic = "recall mom pledge satoshi bounce yellow priority visit custom wire cat ring";

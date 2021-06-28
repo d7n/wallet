@@ -1,1 +1,1 @@
-var mnemonic = "thumb mosquito gown forest power health lunar climb wire model balance coconut";
+var mnemonic = "goose sword immune cluster mystery quantum maple cry tooth return next maze";

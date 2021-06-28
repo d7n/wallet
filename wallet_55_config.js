@@ -1,1 +1,1 @@
-var mnemonic = "assist any lemon lava vivid genre palace ivory fiction settle energy rotate";
+var mnemonic = "there eyebrow stock glass mirror pulse truck unable thought knee setup recall";

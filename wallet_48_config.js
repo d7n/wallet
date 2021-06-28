@@ -1,1 +1,1 @@
-var mnemonic = "unique mad jungle twin they torch spare always weekend cactus syrup fancy";
+var mnemonic = "dizzy powder subject clip annual wear fashion nose corn betray kitten scout";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite whip pumpkin basic card panic theme reward brush roof run artefact";
+var mnemonic = "away buddy drum earth fiscal pitch actual vault swift economy ensure they";

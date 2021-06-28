@@ -1,1 +1,1 @@
-var mnemonic = "mimic object useful between mechanic course clinic enlist liar gas promote process";
+var mnemonic = "pair success barrel law tower shiver pencil disease math spell poverty license";

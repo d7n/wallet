@@ -1,1 +1,1 @@
-var mnemonic = "wheat much tooth tower biology deny lemon bicycle bulb web like marble";
+var mnemonic = "spring link there grab else phrase picnic unique liberty pilot design square";

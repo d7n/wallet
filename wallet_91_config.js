@@ -1,1 +1,1 @@
-var mnemonic = "throw monster antique rice fortune culture maze kit maximum twin still fringe";
+var mnemonic = "harsh health six tag jacket thunder cake shrimp fan already audit over";

@@ -1,1 +1,1 @@
-var mnemonic = "result lava silk lake fossil genre seminar globe broccoli remind kid label";
+var mnemonic = "grass emotion avocado aim shy laugh vicious motor erode melody awkward hurry";

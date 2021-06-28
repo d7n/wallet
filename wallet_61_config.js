@@ -1,1 +1,1 @@
-var mnemonic = "change long mistake palace color expect run raw mean peasant ignore rubber";
+var mnemonic = "vacuum upper beach riot vendor flash virtual crunch drop trumpet front boring";

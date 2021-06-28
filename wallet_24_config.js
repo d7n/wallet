@@ -1,1 +1,1 @@
-var mnemonic = "fashion december powder glimpse gun truly ride hero ugly skull captain transfer";
+var mnemonic = "equip sunny maze clown monster nation kiwi visual gauge romance thrive velvet";

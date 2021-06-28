@@ -1,1 +1,1 @@
-var mnemonic = "employ budget style title imitate melt armed imitate unaware adjust glimpse fluid";
+var mnemonic = "chalk parrot denial bag quiz jewel plunge game ensure prize general since";

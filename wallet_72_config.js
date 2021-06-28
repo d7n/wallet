@@ -1,1 +1,1 @@
-var mnemonic = "inner little suit valve before kite season phrase learn coconut teach fossil";
+var mnemonic = "damp want sentence angry kid shuffle front sunset share material bottom silent";

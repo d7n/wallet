@@ -1,1 +1,1 @@
-var mnemonic = "visit seminar test grow thing glimpse loan unfold cage multiply sponsor ancient";
+var mnemonic = "area leopard cheap brick cheap ridge job buzz oil split salon sweet";

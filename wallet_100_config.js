@@ -1,1 +1,1 @@
-var mnemonic = "cat umbrella special solution ensure blame indicate rubber negative maze reflect valve";
+var mnemonic = "grit winter hobby baby menu rug debris motor current search athlete world";

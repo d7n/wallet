@@ -1,1 +1,1 @@
-var mnemonic = "dirt wheat problem perfect limb chalk knock six cream observe satoshi ordinary";
+var mnemonic = "mule cost motor brother just gown jazz mail broccoli mention hotel crunch";

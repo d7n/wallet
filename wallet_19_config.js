@@ -1,1 +1,1 @@
-var mnemonic = "awful concert chef canvas shove spray primary shoulder cradle wage neck sound";
+var mnemonic = "rug super liquid hamster forest tobacco shell sponsor welcome once monkey swarm";
