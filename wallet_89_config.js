@@ -1,1 +1,1 @@
-var mnemonic = "roast estate surface slender supreme soul buffalo sphere suggest hat saddle genius";
+var mnemonic = "motion neck near rival crunch radar coil nuclear couple sting defy man";

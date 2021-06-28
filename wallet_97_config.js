@@ -1,1 +1,1 @@
-var mnemonic = "sponsor iron injury move side short exist spoil hollow reunion bunker weasel";
+var mnemonic = "raw ball stumble model faith entire dizzy brush early oblige enough menu";

@@ -1,1 +1,1 @@
-var mnemonic = "bird renew toy giraffe wreck guide execute push sample cereal mistake deputy";
+var mnemonic = "outer very believe split goat rebuild raven juice mixed defense federal define";

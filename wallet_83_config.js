@@ -1,1 +1,1 @@
-var mnemonic = "dry foam order example cabin concert emotion autumn index possible color author";
+var mnemonic = "notable ask mask model panic myth clarify oyster habit subway spoon ripple";

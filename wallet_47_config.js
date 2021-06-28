@@ -1,1 +1,1 @@
-var mnemonic = "laundry tourist private sentence tennis defense size bar scrub example foster suggest";
+var mnemonic = "swear bargain pulp silk spin yellow empower pave sudden awesome attack negative";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp grace either spray stick swing inside belt shoulder allow force absorb";
+var mnemonic = "carbon neutral orbit vintage include recycle diagram input track beef render regular";

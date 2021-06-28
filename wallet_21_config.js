@@ -1,1 +1,1 @@
-var mnemonic = "retire now rail always goose rare long barrel fire volume next mention";
+var mnemonic = "barrel burden gauge reduce lend pond excuse crucial they economy coyote parrot";

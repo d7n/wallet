@@ -1,1 +1,1 @@
-var mnemonic = "network resemble tent crack truly pig vocal assume puppy require increase hedgehog";
+var mnemonic = "zoo clutch abstract puppy future mountain dust loop monster steak panel weather";

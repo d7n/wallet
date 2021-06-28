@@ -1,1 +1,1 @@
-var mnemonic = "fine antique cup cigar vault cost intact secret manual update all long";
+var mnemonic = "first option explain suffer forward flash under raven raven predict like exclude";

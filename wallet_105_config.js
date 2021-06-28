@@ -1,1 +1,1 @@
-var mnemonic = "gorilla march illegal glue scissors decade tray brave ahead spy siege other";
+var mnemonic = "ugly disease sock banana demise fork angry celery cradle please tree asset";

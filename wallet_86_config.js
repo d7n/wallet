@@ -1,1 +1,1 @@
-var mnemonic = "multiply air lazy spread fetch monitor license trip twelve cancel bridge local";
+var mnemonic = "wage crystal dragon captain charge video pair prepare fat sketch idea swap";

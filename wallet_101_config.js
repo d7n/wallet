@@ -1,1 +1,1 @@
-var mnemonic = "window kit patient bone attract pear arena almost reunion buffalo hour ask";
+var mnemonic = "draw drink illegal earn bomb total monkey cute real excite congress arena";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion enable slab security ginger owner gesture round galaxy local impulse same";
+var mnemonic = "large text labor quiz injury fork power friend visual nice during industry";

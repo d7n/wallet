@@ -1,1 +1,1 @@
-var mnemonic = "caution sword grunt weekend boring copy pretty hero ugly protect copper immense";
+var mnemonic = "satoshi grape fetch ten enable budget paper desk boost stamp coral love";

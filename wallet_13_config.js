@@ -1,1 +1,1 @@
-var mnemonic = "twelve anchor cruel device chase true welcome pill ordinary aspect rescue since";
+var mnemonic = "slab soon town situate receive wolf seven host short tent dolphin inquiry";

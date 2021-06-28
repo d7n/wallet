@@ -1,1 +1,1 @@
-var mnemonic = "island emerge deliver radar extend snow bacon remove unveil dentist pond initial";
+var mnemonic = "snake flee hope require subway provide protect fitness base pact theme rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe position bring unlock twist lake text mom magic unaware interest cheese";
+var mnemonic = "parrot clock tackle differ ribbon script morning trouble flip adult soft evoke";

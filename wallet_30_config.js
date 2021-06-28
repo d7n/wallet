@@ -1,1 +1,1 @@
-var mnemonic = "throw grid member clump fall marble day fork noise into island advice";
+var mnemonic = "arrow tool hidden glue fossil tuition ribbon thunder cause use better image";

@@ -1,1 +1,1 @@
-var mnemonic = "ability sight virus version other tobacco online inmate ghost clown strategy arena";
+var mnemonic = "now potato fiscal always update resemble echo finger ring invite honey erupt";

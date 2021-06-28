@@ -1,1 +1,1 @@
-var mnemonic = "priority steak damage ill horn into engine trash manage action trip obvious";
+var mnemonic = "abstract slush outdoor cover gift guess wool repair document mirror base sword";

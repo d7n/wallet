@@ -1,1 +1,1 @@
-var mnemonic = "evolve apple always follow gospel churn under live mimic equip tragic collect";
+var mnemonic = "crystal gloom subject dad gather useless shop better increase artefact adult tree";

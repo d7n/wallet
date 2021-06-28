@@ -1,1 +1,1 @@
-var mnemonic = "answer side month approve behave jazz empower dune bleak page expect tongue";
+var mnemonic = "return antenna slender once inject ahead tape select level mean stuff obscure";

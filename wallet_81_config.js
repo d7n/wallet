@@ -1,1 +1,1 @@
-var mnemonic = "sell person inmate sunset myth strong improve group clever exhibit human tunnel";
+var mnemonic = "flock myself car render myself voyage drum thunder split patient list blame";

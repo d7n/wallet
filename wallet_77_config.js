@@ -1,1 +1,1 @@
-var mnemonic = "witness fence method hammer wait plate mass life hotel dust post erode";
+var mnemonic = "wedding chat perfect tuition ride wish practice fan math scare cabin solution";

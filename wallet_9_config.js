@@ -1,1 +1,1 @@
-var mnemonic = "light arrive cloud nation slender wedding eager warfare head document lucky dad";
+var mnemonic = "believe usage traffic goose peasant tennis reward demand cave lens empty three";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead convince dance there purity tomato own execute wrestle ride answer october";
+var mnemonic = "shrimp property carbon canvas middle long frozen action civil resist secret switch";

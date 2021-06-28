@@ -1,1 +1,1 @@
-var mnemonic = "rice logic fitness miracle forward find panel earn boil exile snake hundred";
+var mnemonic = "labor gallery artefact heart element broccoli assault fragile evolve dinner wonder brand";

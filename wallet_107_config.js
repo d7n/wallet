@@ -1,1 +1,1 @@
-var mnemonic = "pole shop same gentle neglect since spot dash bachelor sea include fuel";
+var mnemonic = "velvet boy coyote primary chair crater claw panda mean chief neutral bulb";

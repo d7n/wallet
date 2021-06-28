@@ -1,1 +1,1 @@
-var mnemonic = "arctic edit sketch august connect blind venture boost toe eight wage clown";
+var mnemonic = "talent nose umbrella dinner exist fence income during pilot boil knee find";

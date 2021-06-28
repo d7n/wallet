@@ -1,1 +1,1 @@
-var mnemonic = "object safe naive nut amused taxi cream merge impact monkey choose disorder";
+var mnemonic = "liar desk repeat strong music tail boss dash miracle control park brisk";

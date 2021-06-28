@@ -1,1 +1,1 @@
-var mnemonic = "proud mistake emerge rail divide shield grace merry caution chief guide garlic";
+var mnemonic = "scene repeat brick era dinner refuse inquiry announce season portion album interest";

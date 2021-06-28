@@ -1,1 +1,1 @@
-var mnemonic = "tissue olympic veteran slight pact include choice dignity purse august earn rack";
+var mnemonic = "boy nice express struggle toy shrimp habit large cinnamon struggle potato manual";

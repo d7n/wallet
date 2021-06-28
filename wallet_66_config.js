@@ -1,1 +1,1 @@
-var mnemonic = "nephew cause chalk casual wish into screen gift vital grow feature enlist";
+var mnemonic = "honey language elder oval brand sketch quality planet slight universe shaft age";

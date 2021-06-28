@@ -1,1 +1,1 @@
-var mnemonic = "column start omit tunnel life today giraffe explain cattle beyond canal easy";
+var mnemonic = "void screen control lend this defy simple token time laugh scorpion table";

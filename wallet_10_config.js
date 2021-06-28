@@ -1,1 +1,1 @@
-var mnemonic = "impose duty direct few stand deal response one lemon scene prosper jewel";
+var mnemonic = "nature busy dynamic hundred fiction bacon metal scissors glow maple napkin find";

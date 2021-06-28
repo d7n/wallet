@@ -1,1 +1,1 @@
-var mnemonic = "fish must carpet diamond shock tip cheap gauge rather rough across hour";
+var mnemonic = "edit neither paper fitness need kid cover legal photo fetch wrap tourist";

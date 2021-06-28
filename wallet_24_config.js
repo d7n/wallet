@@ -1,1 +1,1 @@
-var mnemonic = "fury eagle jar rich coach surprise used bag private length prosper chest";
+var mnemonic = "glad meadow almost detect six endless zero frost vault clay swear common";

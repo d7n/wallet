@@ -1,1 +1,1 @@
-var mnemonic = "session fatal save island hedgehog ivory tube rack blood invite nose common";
+var mnemonic = "patrol isolate return patrol maximum hospital educate debris art regular pact nephew";

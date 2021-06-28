@@ -1,1 +1,1 @@
-var mnemonic = "rifle month bitter impulse tired like lizard can beauty hold seek lucky";
+var mnemonic = "logic quality panel cram crop debris hand shadow setup awkward vacuum forward";

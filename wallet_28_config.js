@@ -1,1 +1,1 @@
-var mnemonic = "voice accident door sea cannon struggle armed south sketch season cube purse";
+var mnemonic = "salt speak soup melt drift today net spirit acquire supply effort nice";

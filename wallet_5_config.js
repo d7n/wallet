@@ -1,1 +1,1 @@
-var mnemonic = "pencil surge fiber dragon tonight course stomach grit thank enough staff cook";
+var mnemonic = "lyrics notice embark outer exclude either patient curtain guard outer choose predict";

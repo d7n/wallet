@@ -1,1 +1,1 @@
-var mnemonic = "dove junk actual toddler raccoon normal tape erupt setup blade civil allow";
+var mnemonic = "portion author path erupt trial horse smart keen ketchup into donate news";

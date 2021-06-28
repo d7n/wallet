@@ -1,1 +1,1 @@
-var mnemonic = "food mechanic advance assault pelican galaxy census course bacon glare apple clerk";
+var mnemonic = "interest avoid document battle pelican adapt insect twelve parade dutch wool receive";

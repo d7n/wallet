@@ -1,1 +1,1 @@
-var mnemonic = "despair lesson please oven tip damage police fog embody annual live violin";
+var mnemonic = "sign invite recipe trial arctic piano knee soldier holiday enable critic network";

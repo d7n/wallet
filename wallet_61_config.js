@@ -1,1 +1,1 @@
-var mnemonic = "put mandate supreme under unveil ice such ketchup possible knee rebuild glove";
+var mnemonic = "royal cage jealous better lucky brush unknown swing asset upgrade acquire during";

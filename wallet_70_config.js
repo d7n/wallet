@@ -1,1 +1,1 @@
-var mnemonic = "wink rescue flush large tissue unaware bounce swear render topic salmon anchor";
+var mnemonic = "student measure release scatter grit unique clarify urge lesson pig upset useless";

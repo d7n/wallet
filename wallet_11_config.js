@@ -1,1 +1,1 @@
-var mnemonic = "debris tiny member advice erosion fantasy deputy kit similar smoke exist sheriff";
+var mnemonic = "morning used library very ignore health cloud scatter noise seek swap meat";

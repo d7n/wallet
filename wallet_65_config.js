@@ -1,1 +1,1 @@
-var mnemonic = "item smoke awkward subject floor denial dynamic fluid acoustic sorry fork roof";
+var mnemonic = "pudding oil buzz around anxiety junior scissors chaos arctic spatial sausage notable";

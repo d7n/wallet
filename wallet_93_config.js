@@ -1,1 +1,1 @@
-var mnemonic = "brother project include solar media one ranch square stay fun piano confirm";
+var mnemonic = "minute carbon increase ready nephew menu pitch found saddle north half science";

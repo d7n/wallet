@@ -1,1 +1,1 @@
-var mnemonic = "brisk library flush penalty obey sponsor fiber kingdom prize lens water burger";
+var mnemonic = "vibrant liar grocery champion hole tell learn safe slide series ranch bind";

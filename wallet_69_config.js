@@ -1,1 +1,1 @@
-var mnemonic = "speak sister sight inch degree poverty evidence keen crush state admit help";
+var mnemonic = "ghost assault episode enjoy key album near payment cinnamon laundry butter company";

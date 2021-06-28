@@ -1,1 +1,1 @@
-var mnemonic = "chicken donor short dice sauce destroy lazy weather hen mosquito sock web";
+var mnemonic = "ring patrol final antenna voice lock fork winner plug trim digital you";

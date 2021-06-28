@@ -1,1 +1,1 @@
-var mnemonic = "despair tortoise clarify promote tobacco rich wash rabbit useless worth input road";
+var mnemonic = "hill toward choose wave property edit echo reunion boss pioneer they cat";

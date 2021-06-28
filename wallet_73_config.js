@@ -1,1 +1,1 @@
-var mnemonic = "there alone naive truth present point concert flock general same fantasy staff";
+var mnemonic = "upon cigar practice evidence uncover tilt car usage remember bread match upset";

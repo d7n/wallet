@@ -1,1 +1,1 @@
-var mnemonic = "fish actor swear churn arm stone twin frog ancient easily dish pill";
+var mnemonic = "boss horror tray mind virus brain hammer possible siege action estate please";

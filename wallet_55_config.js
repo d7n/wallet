@@ -1,1 +1,1 @@
-var mnemonic = "unusual song display wedding old ghost twelve say spatial proud flower rough";
+var mnemonic = "crisp grass toast rubber hover shadow room robot plate team pink race";

@@ -1,1 +1,1 @@
-var mnemonic = "bench this bird trial aunt tooth oval radar treat collect push morning";
+var mnemonic = "express course grape giant basket chimney pond illness core year okay helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "fat discover huge enforce unable mountain tent card dismiss coach beef meat";
+var mnemonic = "release media impulse betray history ball rabbit harsh evolve mystery annual index";

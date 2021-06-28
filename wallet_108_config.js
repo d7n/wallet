@@ -1,1 +1,1 @@
-var mnemonic = "bar absurd month puppy plastic favorite giant base loop swarm raccoon finger";
+var mnemonic = "large legend donkey sister test heavy autumn riot uncle reward file hover";

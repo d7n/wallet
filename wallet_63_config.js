@@ -1,1 +1,1 @@
-var mnemonic = "lounge outside clump matrix involve tree street such unfair melt audit ribbon";
+var mnemonic = "water weapon prefer audit penalty daring clean settle anchor enroll drill quantum";

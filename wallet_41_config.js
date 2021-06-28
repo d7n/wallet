@@ -1,1 +1,1 @@
-var mnemonic = "sign tide letter either lens piano brisk gift cherry upon caught usual";
+var mnemonic = "forest mosquito second peanut arch junior fuel citizen coil inject spirit brown";

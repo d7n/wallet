@@ -1,1 +1,1 @@
-var mnemonic = "quantum minor jacket urge skull hand celery poverty argue wisdom wear bulb";
+var mnemonic = "replace argue mango lyrics forest visit ribbon february gather novel huge walk";

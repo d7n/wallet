@@ -1,1 +1,1 @@
-var mnemonic = "security romance maple cram connect tank extend cube among bicycle extra cabin";
+var mnemonic = "chimney shiver pilot flush giant elephant venture dentist tone invest funny floor";

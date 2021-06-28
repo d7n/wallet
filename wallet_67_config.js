@@ -1,1 +1,1 @@
-var mnemonic = "dial goddess force boat exhaust viable festival unique glue exotic unveil evoke";
+var mnemonic = "wagon avocado venture awkward kick almost harsh web quit runway snap razor";

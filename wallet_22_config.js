@@ -1,1 +1,1 @@
-var mnemonic = "crazy dumb guitar relax task polar rubber sugar fitness plate abandon trumpet";
+var mnemonic = "seven brown audit mandate hope away admit multiply trend wish junior system";

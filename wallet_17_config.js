@@ -1,1 +1,1 @@
-var mnemonic = "convince fantasy hamster snack laugh lizard play empower smile duty laugh want";
+var mnemonic = "away shaft receive ill grit grunt snap volcano spoil climb trophy dream";

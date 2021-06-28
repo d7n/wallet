@@ -1,1 +1,1 @@
-var mnemonic = "glow replace under sell magnet camp junior omit wasp side until tomato";
+var mnemonic = "seek balcony river bright cable crop pair festival indicate hobby benefit number";

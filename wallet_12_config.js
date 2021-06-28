@@ -1,1 +1,1 @@
-var mnemonic = "message reward amazing category sound canal away social number enlist myself shove";
+var mnemonic = "notable draw imitate wise purse tennis fitness will ketchup security install gadget";

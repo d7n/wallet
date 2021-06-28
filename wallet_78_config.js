@@ -1,1 +1,1 @@
-var mnemonic = "globe crawl animal camera wash edit seven quality huge episode away pumpkin";
+var mnemonic = "damp vicious track season clutch phrase neutral explain puppy pass census dream";

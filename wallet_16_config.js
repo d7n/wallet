@@ -1,1 +1,1 @@
-var mnemonic = "abandon cover submit creek guide wink buffalo inquiry sun ostrich day chalk";
+var mnemonic = "wide enact flame glow bubble cheap broken good bone lonely refuse vanish";

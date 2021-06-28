@@ -1,1 +1,1 @@
-var mnemonic = "curious custom large coyote voice august scissors order prison soon left race";
+var mnemonic = "labor sorry stable regret betray talk sniff spot spoil outdoor buffalo wrong";

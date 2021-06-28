@@ -1,1 +1,1 @@
-var mnemonic = "drink sorry liberty purpose shuffle later tobacco empty soccer alien luxury news";
+var mnemonic = "shrimp lunar clump cash remove spend direct bread opera accident way one";

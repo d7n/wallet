@@ -1,1 +1,1 @@
-var mnemonic = "cousin hill exercise west ensure limit park balcony custom similar recall shield";
+var mnemonic = "pill humble purpose one three beyond acoustic season crystal destroy drip moral";

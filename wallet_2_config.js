@@ -1,1 +1,1 @@
-var mnemonic = "exhibit exit drip load pause street guard clean save wear nose main";
+var mnemonic = "advice panel immune panel kangaroo matrix umbrella forest canal bulk reduce virus";

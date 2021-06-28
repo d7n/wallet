@@ -1,1 +1,1 @@
-var mnemonic = "between minute accuse stairs property donate charge basket exist destroy pony trade";
+var mnemonic = "glass fringe harbor response leisure smooth rotate peace diary fancy loyal basic";

@@ -1,1 +1,1 @@
-var mnemonic = "deny merry ankle plunge raise right grow bus dove bronze pyramid play";
+var mnemonic = "lens cool such elevator man easy right visual renew ecology meadow maze";

@@ -1,1 +1,1 @@
-var mnemonic = "boss chapter mean give stock sport direct muscle guess top hip element";
+var mnemonic = "impact harbor jungle elevator mountain oil ability blossom tackle hungry young squirrel";

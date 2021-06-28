@@ -1,1 +1,1 @@
-var mnemonic = "mean basic diesel assault banana pause carry put stay anxiety forum arrest";
+var mnemonic = "weapon luggage will eyebrow hotel matrix demise lion girl ability inmate produce";

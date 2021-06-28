@@ -1,1 +1,1 @@
-var mnemonic = "kit nominee heart toy ensure error antenna fall few swift remind dice";
+var mnemonic = "spare alley goddess skin own allow spread catch number biology domain abandon";

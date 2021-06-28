@@ -1,1 +1,1 @@
-var mnemonic = "subject night palace turn game deny sad teach vintage rug payment gorilla";
+var mnemonic = "burger away tobacco plunge slow enact else share milk cave chair parrot";

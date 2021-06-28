@@ -1,1 +1,1 @@
-var mnemonic = "sauce random tone spring puzzle layer bridge wall silver hawk loop artist";
+var mnemonic = "pink leader position laugh group hammer age catch crime level swarm adapt";

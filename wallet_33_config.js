@@ -1,1 +1,1 @@
-var mnemonic = "machine lunar swap birth ocean upset essence shop aim caution hamster essence";
+var mnemonic = "expose what stock bean cycle fabric note exhibit stick situate candy list";

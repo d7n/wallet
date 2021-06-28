@@ -1,1 +1,1 @@
-var mnemonic = "resist flee file vote farm emotion token silk essay glimpse wonder rebuild";
+var mnemonic = "volume salt know rotate shoot fire what innocent dial learn praise traffic";

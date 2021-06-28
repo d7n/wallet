@@ -1,1 +1,1 @@
-var mnemonic = "tragic into wash sibling scheme slide taste hat exact double museum please";
+var mnemonic = "pull grocery bundle divide ladder rude wise onion same stay skill aunt";

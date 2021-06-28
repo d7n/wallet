@@ -1,1 +1,1 @@
-var mnemonic = "elevator project swap wedding rug change distance explain blind prepare rather hobby";
+var mnemonic = "supreme just pattern include depend blouse vote device project film wheel pattern";

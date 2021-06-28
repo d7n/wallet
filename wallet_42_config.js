@@ -1,1 +1,1 @@
-var mnemonic = "harvest rose jar plug judge pass tragic check cherry lunch popular giggle";
+var mnemonic = "glare dignity noble kiwi tattoo basket letter oyster solar hair hair round";

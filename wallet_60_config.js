@@ -1,1 +1,1 @@
-var mnemonic = "universe mixture device avoid child crawl diesel seminar three iron soap puppy";
+var mnemonic = "art anger reopen vacant trumpet buffalo airport holiday undo effort quiz mind";

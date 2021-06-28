@@ -1,1 +1,1 @@
-var mnemonic = "upset dentist else wise fish remove saddle bridge fan record phone flat";
+var mnemonic = "dial urban resource tonight output grace report palm fee where labor afford";

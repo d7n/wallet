@@ -1,1 +1,1 @@
-var mnemonic = "hello remain dream occur youth swear movie husband middle lens wave south";
+var mnemonic = "cruise arrange shy alarm insect ball ranch wood shine actual horror turkey";

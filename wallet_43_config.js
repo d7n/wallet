@@ -1,1 +1,1 @@
-var mnemonic = "girl movie divorce old dynamic hurdle ecology neck club birth success camera";
+var mnemonic = "cash fun immune taxi estate master business slender sadness uniform lend correct";

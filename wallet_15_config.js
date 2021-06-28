@@ -1,1 +1,1 @@
-var mnemonic = "purse crystal drastic twenty evidence garden stairs copper charge riot mixture robot";
+var mnemonic = "mesh collect negative shiver barrel often charge tobacco apology limit gravity clever";

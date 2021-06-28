@@ -1,1 +1,1 @@
-var mnemonic = "blouse slide sense rebuild alarm refuse dad raccoon myth circle favorite reopen";
+var mnemonic = "since scissors sail goat nominee junior father east demand knee wife tag";

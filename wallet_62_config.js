@@ -1,1 +1,1 @@
-var mnemonic = "primary example return lock crater social family rescue torch baby exchange drill";
+var mnemonic = "luxury elevator region issue old vote guide daughter large wide spring hybrid";
