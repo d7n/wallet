@@ -1,1 +1,1 @@
-var mnemonic = "sea deal pumpkin fence dilemma track depart clay sad fashion huge fold";
+var mnemonic = "elite flat absorb beef rapid prepare junk ice baby tribe harvest mirror";

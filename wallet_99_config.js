@@ -1,1 +1,1 @@
-var mnemonic = "unable oyster people front fan theory shadow guitar smooth need original path";
+var mnemonic = "month sad plastic foster soup accuse public oyster three pretty radar vast";

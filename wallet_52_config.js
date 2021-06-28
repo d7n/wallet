@@ -1,1 +1,1 @@
-var mnemonic = "decorate narrow carbon toward palm exact spider certain place wall hood proof";
+var mnemonic = "alone toss refuse dismiss reason coconut rack into lunar sell false street";

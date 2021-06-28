@@ -1,1 +1,1 @@
-var mnemonic = "south clean mixture angle prison slot toilet figure aunt again lava floor";
+var mnemonic = "topple speed shine quantum senior wild trumpet office siege draw attend outer";

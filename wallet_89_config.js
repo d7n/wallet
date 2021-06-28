@@ -1,1 +1,1 @@
-var mnemonic = "lounge sustain general leg kit embark lyrics voyage mimic ethics upon ozone";
+var mnemonic = "mobile shaft bounce banner such away guilt exercise usage cabin fashion quote";

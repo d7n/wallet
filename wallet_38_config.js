@@ -1,1 +1,1 @@
-var mnemonic = "elevator dance private wear tiger stamp winter shoulder impulse ranch radio riot";
+var mnemonic = "boat cause amateur broccoli devote can twist document core certain science basket";

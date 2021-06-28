@@ -1,1 +1,1 @@
-var mnemonic = "dignity avocado inside upper short cliff arrow enhance reflect trip shock also";
+var mnemonic = "gather peace lyrics gloom frost flip nothing music citizen bacon deal midnight";

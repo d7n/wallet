@@ -1,1 +1,1 @@
-var mnemonic = "pattern aim scatter math enroll tomorrow veteran spell maid tired rookie robust";
+var mnemonic = "rib scale this gorilla critic hair vague dilemma eye gather gaze garlic";

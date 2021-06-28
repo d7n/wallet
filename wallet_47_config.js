@@ -1,1 +1,1 @@
-var mnemonic = "exercise exhaust flee vacuum trade chair segment dust about able physical roast";
+var mnemonic = "orient dance surface reject know popular cheap train usual pyramid pass grace";

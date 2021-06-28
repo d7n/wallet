@@ -1,1 +1,1 @@
-var mnemonic = "sword leader poet fault hawk erupt absurd brisk fat sting border approve";
+var mnemonic = "oven brave text neck damage toss orphan estate alley reflect dilemma fold";

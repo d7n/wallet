@@ -1,1 +1,1 @@
-var mnemonic = "arctic blade year stadium deposit warrior shallow clog bench utility play address";
+var mnemonic = "approve satoshi ethics wall avoid enact table tissue wheel pause tissue absurd";

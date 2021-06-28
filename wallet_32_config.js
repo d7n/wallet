@@ -1,1 +1,1 @@
-var mnemonic = "solve delay load pond parent huge gas eyebrow enable swamp spike female";
+var mnemonic = "scissors pull strategy view speed blast topple cart recipe melt easily room";

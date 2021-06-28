@@ -1,1 +1,1 @@
-var mnemonic = "visa apart stove ritual private talk turkey seminar pet hawk minute glow";
+var mnemonic = "elbow tree omit buddy reveal public panic keep now fine piece worry";

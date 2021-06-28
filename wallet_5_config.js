@@ -1,1 +1,1 @@
-var mnemonic = "minimum erase real kind actual bread garage just into derive trick solve";
+var mnemonic = "feed critic fury travel express guitar miracle theory vessel flush member blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "level cage luxury athlete forward couch panel swing muscle guide bubble embrace";
+var mnemonic = "pig rack turn metal strategy input evidence crazy salmon income park aim";

@@ -1,1 +1,1 @@
-var mnemonic = "slab flash patrol again day anchor host argue old cancel couch harbor";
+var mnemonic = "fall fatal vicious size canoe balance little popular ethics plate abstract climb";

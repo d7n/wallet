@@ -1,1 +1,1 @@
-var mnemonic = "noodle happy blossom pelican scale vendor begin other print bulk strong fantasy";
+var mnemonic = "walnut man endorse jewel bulb certain crumble supreme velvet next weird setup";

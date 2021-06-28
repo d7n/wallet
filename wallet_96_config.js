@@ -1,1 +1,1 @@
-var mnemonic = "tiny income club axis menu file discover high excess online east question";
+var mnemonic = "demand first fuel cloth seven awesome already comic local tree fuel cricket";

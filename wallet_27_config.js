@@ -1,1 +1,1 @@
-var mnemonic = "fit gallery solid vital move raccoon buffalo glare conduct food supreme squirrel";
+var mnemonic = "total estate peasant robot alert field lava involve basket erupt rubber dice";

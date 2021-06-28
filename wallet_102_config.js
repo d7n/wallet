@@ -1,1 +1,1 @@
-var mnemonic = "certain goddess update hard tongue cattle people nest two badge miracle collect";
+var mnemonic = "fitness anxiety lamp oxygen quiz reveal essay resource need door spoon cherry";

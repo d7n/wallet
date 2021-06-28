@@ -1,1 +1,1 @@
-var mnemonic = "harsh wage real oyster slab fix nominee choose vehicle vibrant payment auto";
+var mnemonic = "empower snow cotton defense rapid appear recipe protect plate auction side ride";

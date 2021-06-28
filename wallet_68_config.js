@@ -1,1 +1,1 @@
-var mnemonic = "mushroom promote narrow fuel glow length patient illegal network execute find ten";
+var mnemonic = "title task short tube remember minor much teach pride fatigue olympic flash";

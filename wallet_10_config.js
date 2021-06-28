@@ -1,1 +1,1 @@
-var mnemonic = "phrase valley grief vendor hub refuse unlock gentle broccoli timber cycle pledge";
+var mnemonic = "empower swarm impose pulp stay energy actual gospel peace method kangaroo october";

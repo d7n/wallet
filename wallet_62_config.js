@@ -1,1 +1,1 @@
-var mnemonic = "social version grape armed pride enforce brave flush swarm urban half attend";
+var mnemonic = "metal bless keep spell educate wash board stomach correct chunk scheme top";

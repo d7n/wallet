@@ -1,1 +1,1 @@
-var mnemonic = "spawn design message kid boil image field antenna gravity breeze crime crawl";
+var mnemonic = "piece swallow obvious ankle clip control oval pottery vehicle leopard girl make";

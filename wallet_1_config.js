@@ -1,1 +1,1 @@
-var mnemonic = "choice patient wine crawl word pluck lumber defense reveal resist become suggest";
+var mnemonic = "essay subway will old clever photo hair report become awesome neglect camera";

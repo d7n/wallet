@@ -1,1 +1,1 @@
-var mnemonic = "potato wrestle crew lawn way veteran clog culture excuse false screen early";
+var mnemonic = "sniff amazing elder void normal name cigar leisure industry sibling distance metal";

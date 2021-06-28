@@ -1,1 +1,1 @@
-var mnemonic = "novel club giraffe engage creek surprise hazard swear analyst romance hip fog";
+var mnemonic = "build similar cradle boil battle hill crowd grunt enemy north hawk autumn";

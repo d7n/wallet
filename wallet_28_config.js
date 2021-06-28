@@ -1,1 +1,1 @@
-var mnemonic = "output pause catch latin tube priority know private slush car make venue";
+var mnemonic = "knee humble picture immune wool beef charge pole stick bitter margin exact";

@@ -1,1 +1,1 @@
-var mnemonic = "road snack phone country fit ring game glide hair member rule online";
+var mnemonic = "language sadness olympic biology just excite finish siege when dad hamster field";

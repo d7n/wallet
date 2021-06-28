@@ -1,1 +1,1 @@
-var mnemonic = "few legend assume emotion search shove device purchase ritual mixture steel remember";
+var mnemonic = "ensure visa penalty fish gaze soon child space fun endless thumb asthma";

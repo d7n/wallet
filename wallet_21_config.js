@@ -1,1 +1,1 @@
-var mnemonic = "exotic planet useless joke dismiss laugh vocal author later position ribbon wage";
+var mnemonic = "dirt milk shuffle sphere kid glance lens problem chronic intact maple cost";

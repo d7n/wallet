@@ -1,1 +1,1 @@
-var mnemonic = "assist special grant diesel silk dose oppose creek label detail clock clock";
+var mnemonic = "firm meat weasel dinosaur false fashion logic defense piano find chunk crisp";

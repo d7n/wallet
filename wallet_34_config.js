@@ -1,1 +1,1 @@
-var mnemonic = "phone way oil flip celery tobacco raw honey doll deer clown grit";
+var mnemonic = "vanish cube kick myth bring liar obscure virtual pipe arrest wrist happy";

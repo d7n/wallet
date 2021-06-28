@@ -1,1 +1,1 @@
-var mnemonic = "quote dove person bulk now gasp position champion real later alcohol misery";
+var mnemonic = "frog equal stumble pencil wheel girl bicycle shell follow analyst report enter";

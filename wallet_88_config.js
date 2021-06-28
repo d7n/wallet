@@ -1,1 +1,1 @@
-var mnemonic = "onion object resource timber spot gasp twist record fiscal flower become robot";
+var mnemonic = "tenant hungry eager nose illness shield sunset gossip rapid spell boat clever";

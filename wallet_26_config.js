@@ -1,1 +1,1 @@
-var mnemonic = "vault various witness often boy benefit erupt gaze effort razor round parade";
+var mnemonic = "shield quick divorce labor receive release roast girl north clerk crazy exclude";

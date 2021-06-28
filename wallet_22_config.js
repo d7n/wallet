@@ -1,1 +1,1 @@
-var mnemonic = "season return bicycle only drama shell glimpse divide vital travel upset purity";
+var mnemonic = "office era where loyal wage cart chimney great imitate inform rain portion";

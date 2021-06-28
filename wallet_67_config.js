@@ -1,1 +1,1 @@
-var mnemonic = "auto banner lamp sad loud culture rigid huge resource concert bind glue";
+var mnemonic = "combine risk carbon claim circle crater write sadness normal mother verb hub";

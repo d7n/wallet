@@ -1,1 +1,1 @@
-var mnemonic = "side ability since rule hard breeze tray blossom music illness range suggest";
+var mnemonic = "family decorate endless ugly flame brand pizza beauty firm certain february whip";

@@ -1,1 +1,1 @@
-var mnemonic = "naive wrap retreat canyon window alert century decorate answer detect mean pigeon";
+var mnemonic = "punch solve round mango mixed next pottery december reduce leaf famous elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "slow solution heart man zebra worth arctic soup when employ behave north";
+var mnemonic = "behind uniform loud actual sample humor detect early frost pulse stereo usage";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss million jar disease maze coconut skate cool pizza anxiety outer result";
+var mnemonic = "ocean smart bamboo critic useless old hurdle depth quiz soldier pyramid stairs";

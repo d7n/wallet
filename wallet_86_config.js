@@ -1,1 +1,1 @@
-var mnemonic = "educate awesome abuse wheat robot surface dove group accuse panda width alien";
+var mnemonic = "space crop correct kidney seminar pony angle system deal admit final spoil";

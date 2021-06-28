@@ -1,1 +1,1 @@
-var mnemonic = "wife love chalk rely fire volcano biology number giraffe access creek wide";
+var mnemonic = "evolve dish prosper someone menu into dress useless icon student day cube";

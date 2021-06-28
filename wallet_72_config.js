@@ -1,1 +1,1 @@
-var mnemonic = "indoor balcony grid cash shine install inquiry because cross process fork gossip";
+var mnemonic = "refuse sorry word edge train april arch cabin blind sweet moon truck";

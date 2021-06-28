@@ -1,1 +1,1 @@
-var mnemonic = "wing average enforce gate laugh cancel salmon multiply property hunt spell art";
+var mnemonic = "panther club little correct mouse dream initial energy symbol ridge observe mix";

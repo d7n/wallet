@@ -1,1 +1,1 @@
-var mnemonic = "shadow crumble know bracket verify category submit ozone rib crouch spatial visa";
+var mnemonic = "decline boat student spot rely easy angry genuine viable taste gas cement";

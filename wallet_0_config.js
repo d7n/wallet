@@ -1,1 +1,1 @@
-var mnemonic = "range genius remain sail radar marriage wool permit staff artwork razor vintage";
+var mnemonic = "lawsuit area feature chef hold industry inquiry kidney mad front permit involve";

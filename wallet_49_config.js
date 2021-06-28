@@ -1,1 +1,1 @@
-var mnemonic = "spike hood sunny fish prison exhibit blast zebra riot indicate merry onion";
+var mnemonic = "charge adult donor limit step life deliver gown replace couple engage arch";

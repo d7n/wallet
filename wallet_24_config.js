@@ -1,1 +1,1 @@
-var mnemonic = "bracket coin mimic among come vacant insect brand kiwi arrest awkward quarter";
+var mnemonic = "cover grape bacon honey spawn art eagle busy fun upon medal health";

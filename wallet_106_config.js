@@ -1,1 +1,1 @@
-var mnemonic = "broken fancy globe loan index nerve blood remain company devote mix gadget";
+var mnemonic = "domain wet pistol lazy family ladder vault buddy fun dentist salute they";

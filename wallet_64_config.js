@@ -1,1 +1,1 @@
-var mnemonic = "choice woman fat assist payment choose rotate stadium amount olympic conduct strong";
+var mnemonic = "round limb wink example chronic easily modify sunny daughter hurt style tower";

@@ -1,1 +1,1 @@
-var mnemonic = "army occur hotel legal job afford time universe expire draft wrap fragile";
+var mnemonic = "wink believe toss cash into length news problem genuine desk toilet rug";

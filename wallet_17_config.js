@@ -1,1 +1,1 @@
-var mnemonic = "accident dinner solve program above worth era monkey width spread hobby earth";
+var mnemonic = "alone sea nuclear agree much lab thing twenty forward bomb wreck little";

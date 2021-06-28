@@ -1,1 +1,1 @@
-var mnemonic = "undo act vivid road rotate junior matrix never audit slab distance cloud";
+var mnemonic = "garage crawl now cousin pelican giraffe legal wrap social solar clinic buzz";

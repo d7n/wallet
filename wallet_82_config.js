@@ -1,1 +1,1 @@
-var mnemonic = "host skull hammer answer reduce inside lunar arrest risk erosion service invest";
+var mnemonic = "dry share license hint tunnel journey exit spy year cost miss predict";

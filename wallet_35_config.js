@@ -1,1 +1,1 @@
-var mnemonic = "jacket blue slogan turtle valley cinnamon donkey silk raw tragic way symbol";
+var mnemonic = "insect artwork slow gallery decide essence mandate group ice ladder anxiety reflect";

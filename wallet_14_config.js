@@ -1,1 +1,1 @@
-var mnemonic = "sustain illness cigar holiday hazard rookie renew ecology dynamic fatal fury garbage";
+var mnemonic = "pave make just raccoon extend author grid bracket cliff settle satoshi truck";

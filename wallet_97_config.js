@@ -1,1 +1,1 @@
-var mnemonic = "guess illness enroll soda video boy eight call cover cancel parent minute";
+var mnemonic = "tunnel return wasp erupt cheap remind ticket tragic inspire chalk conduct uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "elder much flash guilt course beyond kind hip design divorce coconut light";
+var mnemonic = "illness pupil neutral rude error poet climb health color detail gold tourist";

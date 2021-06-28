@@ -1,1 +1,1 @@
-var mnemonic = "capital town repair rug upon drama yard over duty girl display glimpse";
+var mnemonic = "alpha dove discover laugh nation dish plunge trial way flight moment slow";

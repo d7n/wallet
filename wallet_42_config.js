@@ -1,1 +1,1 @@
-var mnemonic = "slab cave true narrow glue box suspect shuffle idle gate original duty";
+var mnemonic = "oil warrior throw slow eager forget virtual wedding enforce speak sample debris";

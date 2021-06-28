@@ -1,1 +1,1 @@
-var mnemonic = "jungle clog scale seek indicate usage car enrich juice document fine misery";
+var mnemonic = "check cousin bitter inform toddler round again because stable humor thought rapid";

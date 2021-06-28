@@ -1,1 +1,1 @@
-var mnemonic = "grain table trip asthma cave keep behave stand flag spider nest prize";
+var mnemonic = "add message garbage analyst adjust mass cage involve mention hybrid give angry";

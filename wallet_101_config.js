@@ -1,1 +1,1 @@
-var mnemonic = "august change join stay door excess resist great destroy mountain language alpha";
+var mnemonic = "caught friend country gym gap penalty regret year author empower wage magic";

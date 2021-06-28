@@ -1,1 +1,1 @@
-var mnemonic = "wrist cloud body garment adult adjust gain turkey draw right fan laundry";
+var mnemonic = "senior crouch beach fuel artwork catch arrive connect trick ticket artist moon";

@@ -1,1 +1,1 @@
-var mnemonic = "chief claim above priority way analyst cliff crucial napkin daring lens angry";
+var mnemonic = "session cinnamon vapor blind alcohol scene paper warrior sugar outer grow local";

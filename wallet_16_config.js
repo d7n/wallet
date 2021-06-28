@@ -1,1 +1,1 @@
-var mnemonic = "absurd horror friend dwarf depth twice shine arrive torch material imitate dust";
+var mnemonic = "lesson gaze stamp holiday idle two tail depth indoor idle lend erase";

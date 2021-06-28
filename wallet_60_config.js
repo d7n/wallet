@@ -1,1 +1,1 @@
-var mnemonic = "glimpse pulse scissors prefer hammer powder lawsuit wife save wrist start fury";
+var mnemonic = "angle seminar slam toast kind stereo run excess napkin video dash project";

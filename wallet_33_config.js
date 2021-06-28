@@ -1,1 +1,1 @@
-var mnemonic = "vote typical busy humor evolve logic energy adult tiny brother team portion";
+var mnemonic = "unique merit shuffle mercy bottom skate camp snack parent alone truth insane";

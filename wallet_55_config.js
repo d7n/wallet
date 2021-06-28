@@ -1,1 +1,1 @@
-var mnemonic = "detail balance right define category busy smile present soft skull latin mouse";
+var mnemonic = "disorder spring digital method island morning report maple used husband day sample";

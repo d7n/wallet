@@ -1,1 +1,1 @@
-var mnemonic = "drink solid enemy afford dismiss hen panther relax hill tiny clap violin";
+var mnemonic = "pretty wheat danger idle merge staff where utility hood bring noble raise";

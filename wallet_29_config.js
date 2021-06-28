@@ -1,1 +1,1 @@
-var mnemonic = "mercy toe offer ladder work wagon confirm thunder resemble hat action odor";
+var mnemonic = "pelican catalog copy broken chalk picnic aisle skill pear crouch drive blood";

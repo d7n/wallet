@@ -1,1 +1,1 @@
-var mnemonic = "february embrace slam buddy exercise decorate reform crash farm sugar myself negative";
+var mnemonic = "gather party sell yellow glare work whip giggle danger sunny manual satisfy";

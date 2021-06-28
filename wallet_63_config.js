@@ -1,1 +1,1 @@
-var mnemonic = "window champion repeat over author leisure clown venue fluid neck fluid book";
+var mnemonic = "desk virtual neck parade bar carry sell system fatigue inch toss basket";

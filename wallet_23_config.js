@@ -1,1 +1,1 @@
-var mnemonic = "hamster coach broom find sibling follow buffalo huge gadget mechanic effort ship";
+var mnemonic = "tube saddle entry wisdom hundred taxi glide process nothing mystery select glide";

@@ -1,1 +1,1 @@
-var mnemonic = "insane accident fat canal power mass guess spare pipe face slice organ";
+var mnemonic = "pull depart drink convince bamboo reason fury lesson knife enlist perfect always";

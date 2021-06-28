@@ -1,1 +1,1 @@
-var mnemonic = "subject cave soldier royal home lyrics alcohol daughter thrive journey inform duck";
+var mnemonic = "tribe fix evil rose person bitter notice suggest ecology try will vessel";

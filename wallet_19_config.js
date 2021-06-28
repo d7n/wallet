@@ -1,1 +1,1 @@
-var mnemonic = "patch adjust mushroom repair scare viable twin nut frame demise visa liquid";
+var mnemonic = "unknown crowd client favorite talent inject exotic alone museum chapter success over";

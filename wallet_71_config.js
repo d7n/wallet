@@ -1,1 +1,1 @@
-var mnemonic = "motion gesture notable forward pear wheel praise still route trust true fortune";
+var mnemonic = "topic hybrid vendor steak imitate hover analyst royal circle creek agent dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive result oven nerve depart poverty mix ball dial park unknown tree";
+var mnemonic = "lunch degree clump rabbit alley depend glare grain chief six fatal region";

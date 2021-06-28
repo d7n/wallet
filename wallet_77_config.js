@@ -1,1 +1,1 @@
-var mnemonic = "blanket actress advice extra dial armor bubble observe wire collect pause bacon";
+var mnemonic = "sting mix nose book elite clerk deal duck cloth right dwarf gun";

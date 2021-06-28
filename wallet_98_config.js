@@ -1,1 +1,1 @@
-var mnemonic = "tail spare chunk parent pizza wonder lunar inject awful tackle elite blanket";
+var mnemonic = "retire exchange rack sunset century glimpse talent crater teach lesson estate raw";

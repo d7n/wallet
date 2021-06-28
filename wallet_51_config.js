@@ -1,1 +1,1 @@
-var mnemonic = "venture narrow canvas laptop blush sick bulk turtle unit analyst awkward issue";
+var mnemonic = "boil saddle coffee reveal width easy disorder alter item inside hobby laptop";

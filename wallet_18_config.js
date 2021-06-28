@@ -1,1 +1,1 @@
-var mnemonic = "rent bleak short filter tide oppose course pipe midnight melt buffalo suffer";
+var mnemonic = "stable outer boost battle firm fly heart friend chapter evolve shock source";

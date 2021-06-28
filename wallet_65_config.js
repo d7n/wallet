@@ -1,1 +1,1 @@
-var mnemonic = "effort imitate taxi during gas clutch cake clump you attend erase robot";
+var mnemonic = "crystal area cancel promote slice tourist galaxy elegant antique garlic milk hat";

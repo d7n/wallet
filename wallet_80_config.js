@@ -1,1 +1,1 @@
-var mnemonic = "tissue example vibrant pink firm flavor police stand void sister give team";
+var mnemonic = "young peace people worry answer imitate radar runway afford please guard spread";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm visit protect smooth lens rookie destroy gaze protect half dawn quality";
+var mnemonic = "wave barely blouse milk describe amused desk happy before rival price use";

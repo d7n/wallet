@@ -1,1 +1,1 @@
-var mnemonic = "carbon stomach clay tonight allow verb zoo speak squeeze mail jar force";
+var mnemonic = "initial zebra core amateur debate ginger weather summer allow rally order shoulder";

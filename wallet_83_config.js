@@ -1,1 +1,1 @@
-var mnemonic = "coffee spot bring settle invite runway broken typical stool barrel motion sniff";
+var mnemonic = "museum economy mammal frost oak quantum whale hospital buffalo genuine cement shift";

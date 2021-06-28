@@ -1,1 +1,1 @@
-var mnemonic = "acoustic rally mix slow spice praise stick spread chest moment rocket slide";
+var mnemonic = "record need length cloth jewel frequent mimic general nephew wedding exotic harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "guide picnic slim tattoo rug brick slice usual vacuum control any eagle";
+var mnemonic = "love vintage route fantasy prosper entire rigid cage tongue endorse surface tourist";
