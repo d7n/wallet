@@ -1,1 +1,1 @@
-var mnemonic = "flush radio silk dentist tumble time extra area ugly decade donate sight";
+var mnemonic = "strong news dentist shift enter drama banner borrow trick moment artwork first";

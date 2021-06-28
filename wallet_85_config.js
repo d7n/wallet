@@ -1,1 +1,1 @@
-var mnemonic = "army donate uphold foam script put silent december furnace method write valve";
+var mnemonic = "survey shoot install erosion leaf casual curious concert scare enroll village sister";

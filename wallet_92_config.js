@@ -1,1 +1,1 @@
-var mnemonic = "once lab task rigid click cook film expose cash lava panda toy";
+var mnemonic = "february home example unfold weather scissors crazy great fatal hair power staff";

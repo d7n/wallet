@@ -1,1 +1,1 @@
-var mnemonic = "priority tiger shiver pear oxygen huge science link dignity like clump ginger";
+var mnemonic = "food image appear alcohol analyst topple away effort excite tray idle olympic";

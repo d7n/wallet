@@ -1,1 +1,1 @@
-var mnemonic = "brisk salad slogan leave cave mobile acoustic awesome anchor toward hill prize";
+var mnemonic = "pair age hint accident airport nerve invite hand neutral major census able";

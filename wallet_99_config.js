@@ -1,1 +1,1 @@
-var mnemonic = "release program cement wrap clinic forest mandate cigar actor promote toast energy";
+var mnemonic = "health deny usage foster heavy canoe dream border siege vintage spirit gravity";

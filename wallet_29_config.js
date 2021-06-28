@@ -1,1 +1,1 @@
-var mnemonic = "canyon spirit involve engage foil fox demand clip spy number exile local";
+var mnemonic = "forum around scissors regret onion other welcome very country life brave verb";

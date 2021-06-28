@@ -1,1 +1,1 @@
-var mnemonic = "exercise whale describe way tongue over horror blood upset report hip local";
+var mnemonic = "embark unlock harvest blind eternal display skirt stool color avoid wedding under";

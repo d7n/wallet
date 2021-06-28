@@ -1,1 +1,1 @@
-var mnemonic = "popular grunt excess jazz ridge lift tunnel latin rescue spoil pond south";
+var mnemonic = "hover author burger spike also install talent market more rain have misery";

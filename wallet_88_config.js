@@ -1,1 +1,1 @@
-var mnemonic = "remain earth imitate bracket just royal sustain sadness tilt arena hero trip";
+var mnemonic = "citizen just mail food daring protect giggle pool law tuna script learn";

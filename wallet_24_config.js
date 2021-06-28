@@ -1,1 +1,1 @@
-var mnemonic = "below matter breeze south evolve obey depth siren decade remember include control";
+var mnemonic = "bachelor outer repeat ski trial market loop brick report trash shed endless";

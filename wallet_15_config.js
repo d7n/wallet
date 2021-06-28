@@ -1,1 +1,1 @@
-var mnemonic = "phrase sea below wood voice purse civil suspect language later foot gasp";
+var mnemonic = "tent target match win pull ridge around dinner correct dismiss brush dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "people firm lab benefit race legal eager answer sugar peanut steak pupil";
+var mnemonic = "alarm change sea kid sting object anchor monkey cliff dutch sad near";

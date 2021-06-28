@@ -1,1 +1,1 @@
-var mnemonic = "can explain open main smile example dolphin eager woman embody glow mother";
+var mnemonic = "whip spider arrow scan parade board twist order gadget erase glance make";

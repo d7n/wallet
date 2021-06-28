@@ -1,1 +1,1 @@
-var mnemonic = "road reduce private bottom impulse virtual poet tongue end embrace planet figure";
+var mnemonic = "afford wealth egg room mail firm inch deer leopard federal color certain";

@@ -1,1 +1,1 @@
-var mnemonic = "found question exotic pledge robust eight suspect kick voice time cube jacket";
+var mnemonic = "rude derive lyrics visual destroy bird general case image enemy student palm";

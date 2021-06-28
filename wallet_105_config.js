@@ -1,1 +1,1 @@
-var mnemonic = "dwarf twice lottery august acquire length water wasp pledge broken soda vault";
+var mnemonic = "ranch mixture dismiss lucky card brother exist believe argue window reform crime";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess hand narrow crumble chuckle vault viable decide project smoke truck honey";
+var mnemonic = "profit submit question exclude neither repeat train abuse spend repeat leaf category";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch travel confirm valid farm supply barrel among ginger dash urge fury";
+var mnemonic = "field common meat license decline business side spray science job finish across";

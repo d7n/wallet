@@ -1,1 +1,1 @@
-var mnemonic = "outside live stool hundred frown swarm expect tuition demand castle draft rug";
+var mnemonic = "novel attend fish diet rack mercy confirm own veteran comfort celery economy";

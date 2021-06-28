@@ -1,1 +1,1 @@
-var mnemonic = "position before cave island comfort tomorrow forest letter grape symptom pluck naive";
+var mnemonic = "wedding able smoke conduct inch alone satoshi bounce remind during love foot";

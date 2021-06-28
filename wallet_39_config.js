@@ -1,1 +1,1 @@
-var mnemonic = "know soldier century beach theme silver tattoo fever camera once divorce initial";
+var mnemonic = "artwork sad pride desert misery game material scorpion laugh gate dizzy good";

@@ -1,1 +1,1 @@
-var mnemonic = "essence leisure little tunnel cabin cruise vast pull domain hen cloud worth";
+var mnemonic = "relief cheap stable purchase exile toast power swift praise smoke borrow mask";

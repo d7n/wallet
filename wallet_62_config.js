@@ -1,1 +1,1 @@
-var mnemonic = "attend improve cage lamp rough atom save repeat resemble tell stereo garden";
+var mnemonic = "flee rose outdoor twist gather obey rent blue speak fade sense iron";

@@ -1,1 +1,1 @@
-var mnemonic = "what improve wrap jelly yellow dinosaur cheap bunker hawk detect cricket vivid";
+var mnemonic = "van shoulder health dinner correct quote alley brand core toe similar affair";

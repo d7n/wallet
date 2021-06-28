@@ -1,1 +1,1 @@
-var mnemonic = "unit better real tumble nerve cricket lawsuit tag upgrade affair endorse bargain";
+var mnemonic = "rule conduct path hunt parent apology actual session upset monitor visual manage";

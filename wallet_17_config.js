@@ -1,1 +1,1 @@
-var mnemonic = "tuition float blood age deal risk price drip destroy jelly reunion monkey";
+var mnemonic = "brick planet oven chef wreck bus penalty finger leaf spell actress valley";

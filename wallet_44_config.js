@@ -1,1 +1,1 @@
-var mnemonic = "arrange file office cereal balcony loan wagon scorpion offer problem flame force";
+var mnemonic = "autumn sample mouse marine option flag menu mango sunny nerve bottom reform";

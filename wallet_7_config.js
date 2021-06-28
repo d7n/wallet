@@ -1,1 +1,1 @@
-var mnemonic = "true script shop erase step twin float burst buyer chalk suggest unique";
+var mnemonic = "slice cream plug spy manage enact mansion town casual timber climb bar";

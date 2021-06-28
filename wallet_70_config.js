@@ -1,1 +1,1 @@
-var mnemonic = "napkin fruit gaze melt cactus two color youth perfect response bleak chest";
+var mnemonic = "hundred bid skate notice advice virus six basket cool vessel ozone waste";

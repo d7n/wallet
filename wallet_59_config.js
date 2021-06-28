@@ -1,1 +1,1 @@
-var mnemonic = "opera desk mask nuclear convince medal husband minimum squeeze sorry fun famous";
+var mnemonic = "clean floor great stand like prize harbor erosion praise silk asthma more";

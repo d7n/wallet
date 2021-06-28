@@ -1,1 +1,1 @@
-var mnemonic = "beach unit skate erode cliff enrich raw unveil advice can under shrug";
+var mnemonic = "net fuel picture doll knock mountain harvest alien match grid sudden behind";

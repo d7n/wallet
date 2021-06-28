@@ -1,1 +1,1 @@
-var mnemonic = "legal swap tower innocent hazard stool citizen discover eternal peanut poem stand";
+var mnemonic = "vote present filter sail win kiss point smoke unaware flip grief cherry";

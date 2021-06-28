@@ -1,1 +1,1 @@
-var mnemonic = "seat mansion another foster pear fossil hole wait hen orbit food share";
+var mnemonic = "cry dial primary attitude board vapor assault spider afraid hour salt sibling";

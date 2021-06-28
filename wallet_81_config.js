@@ -1,1 +1,1 @@
-var mnemonic = "grow length spring tone message panda work rent merge leaf notice fly";
+var mnemonic = "blossom carpet receive must retire open today record ice winner spatial dentist";

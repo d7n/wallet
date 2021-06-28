@@ -1,1 +1,1 @@
-var mnemonic = "phone broccoli arrive diagram squirrel vast bless movie patrol alcohol bracket local";
+var mnemonic = "best still choice benefit bicycle idea assume jungle pluck vanish modify cruise";

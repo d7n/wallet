@@ -1,1 +1,1 @@
-var mnemonic = "inner foot home spy drop pen demand outdoor wagon accuse valley kick";
+var mnemonic = "noble manage wave prize expand shoe fee travel ostrich liquid leisure cloud";

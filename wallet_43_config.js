@@ -1,1 +1,1 @@
-var mnemonic = "assist quick put room utility source nice rack cause fortune lake cube";
+var mnemonic = "shove army demise giggle adjust bomb cliff effort orient hard bag sense";

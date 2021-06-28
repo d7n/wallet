@@ -1,1 +1,1 @@
-var mnemonic = "balcony carry fox noble noble trash glare coyote attend multiply gather sea";
+var mnemonic = "test romance tunnel economy defense faint brass leopard copper indicate depth orient";

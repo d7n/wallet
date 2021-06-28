@@ -1,1 +1,1 @@
-var mnemonic = "find north bench much ramp scan travel unable drop forward name entire";
+var mnemonic = "cry spot harbor marine recipe sausage science firm aerobic pilot floor health";

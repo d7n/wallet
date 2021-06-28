@@ -1,1 +1,1 @@
-var mnemonic = "family animal shove charge wise essay delay model weird enough flush find";
+var mnemonic = "suit visa when toward infant attend hood crash umbrella crunch erupt merit";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle jaguar next element iron rough sphere like random key worth govern";
+var mnemonic = "scan aim defense square love awkward oval remember spatial ginger country cradle";

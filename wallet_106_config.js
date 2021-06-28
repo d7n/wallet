@@ -1,1 +1,1 @@
-var mnemonic = "venture mosquito boy rival critic universe anxiety turkey surround code garbage virus";
+var mnemonic = "violin drill device reform spin crater dream early please vanish minor very";

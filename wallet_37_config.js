@@ -1,1 +1,1 @@
-var mnemonic = "cabin image dove net flee relax face just fork apology violin copper";
+var mnemonic = "seat gap frequent inch lab alley correct grit vault train hunt wise";

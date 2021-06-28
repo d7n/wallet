@@ -1,1 +1,1 @@
-var mnemonic = "frozen illness alpha seat coconut always mosquito hurt brisk blanket shop crew";
+var mnemonic = "mimic sadness thing color black endorse love bleak axis shaft hard doll";

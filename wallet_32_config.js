@@ -1,1 +1,1 @@
-var mnemonic = "rapid panel regular upset vote grant annual twist volcano label cart minute";
+var mnemonic = "reason govern gown develop card ahead library machine about olive ten eternal";

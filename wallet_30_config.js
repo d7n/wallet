@@ -1,1 +1,1 @@
-var mnemonic = "fine acid badge slim pipe quiz verb cherry clip couch skate armed";
+var mnemonic = "street viable boring leg rare blanket educate disorder six afford cancel kind";

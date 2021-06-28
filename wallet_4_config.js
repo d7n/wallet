@@ -1,1 +1,1 @@
-var mnemonic = "monster canyon tragic food benefit unable ginger admit cool desk rifle popular";
+var mnemonic = "green feature dismiss theme breeze bag casino eyebrow perfect major sausage donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise lesson essence river art century mixture sudden expand guitar drama donor";
+var mnemonic = "thought morning hint fiber angry member what host soup borrow cloth fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "knife moral cannon rare harsh fancy west foam share will ability increase";
+var mnemonic = "flush left mind female bomb around oak face choose explain evidence slush";

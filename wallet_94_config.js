@@ -1,1 +1,1 @@
-var mnemonic = "always ancient mandate hard bronze fix holiday bid cereal kit crisp dream";
+var mnemonic = "misery burger aunt twice mango neck term decade poverty tunnel cloth decade";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle gauge genius begin video dust sadness sort all buffalo remind abuse";
+var mnemonic = "victory sport replace next satisfy step shop mobile sunset stomach nuclear make";

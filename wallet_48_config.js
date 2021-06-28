@@ -1,1 +1,1 @@
-var mnemonic = "share stamp remind minor town clock thumb smooth supply process blast adapt";
+var mnemonic = "output hello mouse original rural disease liar chicken loyal health become angle";

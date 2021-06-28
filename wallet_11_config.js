@@ -1,1 +1,1 @@
-var mnemonic = "oyster soldier erode timber saddle cradle cover renew flee vocal swear grace";
+var mnemonic = "slogan canvas student estate dream people flame know problem unknown clever balcony";

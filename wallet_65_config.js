@@ -1,1 +1,1 @@
-var mnemonic = "core where grocery east two dune diesel cup scrap rice cover shallow";
+var mnemonic = "alert marine gaze coconut nerve female debate recall diagram thought barrel chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "weird cave amused odor ski anger degree try oven palm wonder dizzy";
+var mnemonic = "pencil infant sweet hint image grab walk arrow piece sorry sing inch";

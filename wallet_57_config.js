@@ -1,1 +1,1 @@
-var mnemonic = "inject fringe fog denial seek reunion brave voice glow concert item sea";
+var mnemonic = "beyond canyon enhance kind unaware pigeon only come symptom scissors basic decorate";

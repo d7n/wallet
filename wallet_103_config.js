@@ -1,1 +1,1 @@
-var mnemonic = "goose planet news version thought plunge fun large kid illegal task candy";
+var mnemonic = "electric receive hope face sing rose salon can remove squirrel initial luxury";

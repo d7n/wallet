@@ -1,1 +1,1 @@
-var mnemonic = "priority subject inner cause faculty surge math raw alpha luxury connect slot";
+var mnemonic = "object rifle canal census upon metal hurdle shuffle decade rebel mix sand";

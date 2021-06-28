@@ -1,1 +1,1 @@
-var mnemonic = "toy resemble lesson million divert feel tube glad fatal amused twice galaxy";
+var mnemonic = "install acoustic police method clog debate degree legend galaxy cruise grief unique";

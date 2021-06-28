@@ -1,1 +1,1 @@
-var mnemonic = "work symbol budget green since select jungle supreme denial grape earth valid";
+var mnemonic = "history chalk one awful tent strike notable luggage benefit plunge like unlock";

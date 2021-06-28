@@ -1,1 +1,1 @@
-var mnemonic = "fix okay tired bleak tuition toilet visa melody stool turtle entry hover";
+var mnemonic = "normal banner success damage snap inhale clarify fiscal vibrant robust knee custom";

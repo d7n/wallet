@@ -1,1 +1,1 @@
-var mnemonic = "finger march crime bacon neck know uncle board suit toddler floor shine";
+var mnemonic = "dash canal cable furnace cross tool alley misery answer glare sibling anxiety";

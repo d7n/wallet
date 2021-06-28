@@ -1,1 +1,1 @@
-var mnemonic = "voyage theme suffer orchard shell math save chunk lonely alien cream dinosaur";
+var mnemonic = "cancel tube fruit bottom develop federal episode success rug demise explain clean";

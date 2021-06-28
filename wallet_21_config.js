@@ -1,1 +1,1 @@
-var mnemonic = "split result knife issue film hat burst silent swing rally wood uncover";
+var mnemonic = "knee nuclear essay current buddy across move agree limb egg lumber worry";

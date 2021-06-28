@@ -1,1 +1,1 @@
-var mnemonic = "clay someone zero era morning tobacco core hard amazing virtual gentle hurdle";
+var mnemonic = "debate organ plastic again loud reopen reward smart someone nuclear action poet";

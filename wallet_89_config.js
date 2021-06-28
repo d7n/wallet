@@ -1,1 +1,1 @@
-var mnemonic = "organ famous wire garage cluster invite giggle zone sing travel evil blast";
+var mnemonic = "spin ankle sword total speed canvas demise attack happy cost year brand";

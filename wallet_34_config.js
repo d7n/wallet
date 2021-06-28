@@ -1,1 +1,1 @@
-var mnemonic = "awesome crunch chicken note rib wild make trumpet wage recipe panic science";
+var mnemonic = "card chapter tuition carry junior smooth pioneer upset core print digital clump";

@@ -1,1 +1,1 @@
-var mnemonic = "betray cause olive primary job sponsor organ basic slam school fee tattoo";
+var mnemonic = "bonus they point forget knee today era gown giant stamp bag forget";

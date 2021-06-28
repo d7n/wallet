@@ -1,1 +1,1 @@
-var mnemonic = "live tower wasp online forward account trade judge bread virtual enemy diary";
+var mnemonic = "dismiss ancient smoke photo danger market acoustic ten present blind wheel example";

@@ -1,1 +1,1 @@
-var mnemonic = "olive behind feature eight evil digital west extra staff differ discover upper";
+var mnemonic = "topic rough caution resist below lend defy sudden chuckle pair final dinosaur";

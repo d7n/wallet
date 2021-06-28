@@ -1,1 +1,1 @@
-var mnemonic = "trophy cherry loud garbage jaguar salt earth define lucky prevent hint neutral";
+var mnemonic = "system staff engine vanish march school tomorrow aim album vehicle clay artwork";

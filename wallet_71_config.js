@@ -1,1 +1,1 @@
-var mnemonic = "focus antenna renew awful kingdom setup basket devote sniff then you shadow";
+var mnemonic = "script picnic sad rude august track stomach quote world wife vague wisdom";

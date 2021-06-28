@@ -1,1 +1,1 @@
-var mnemonic = "turn cable hobby junk wage culture bundle size session ankle ability must";
+var mnemonic = "aim end law equal like verify assault volume stand title diet clutch";

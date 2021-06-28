@@ -1,1 +1,1 @@
-var mnemonic = "wage loud front ginger correct impose agree spread rack slide web hospital";
+var mnemonic = "dutch fold cherry enter law just reveal skull vital chalk magnet scan";

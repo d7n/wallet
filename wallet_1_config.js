@@ -1,1 +1,1 @@
-var mnemonic = "pepper pass mobile office smile favorite advance tag belt crane bus prefer";
+var mnemonic = "language lava outside tooth embark pen bunker soap era bar pumpkin toddler";

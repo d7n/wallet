@@ -1,1 +1,1 @@
-var mnemonic = "silver absent sustain buzz knock sentence current infant civil dismiss rely wink";
+var mnemonic = "century welcome student delay moon notable list upper gift math liberty disorder";

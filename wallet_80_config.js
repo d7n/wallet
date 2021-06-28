@@ -1,1 +1,1 @@
-var mnemonic = "patch announce sign lonely snack barely pink only turn fall lucky photo";
+var mnemonic = "point nothing vapor sketch pattern check rice clog eager message repeat clap";

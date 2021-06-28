@@ -1,1 +1,1 @@
-var mnemonic = "possible fitness toss spawn scare radar broom bicycle seat lonely uncover afraid";
+var mnemonic = "saddle network vibrant enjoy ladder pact slow clean drop worth motion say";

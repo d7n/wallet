@@ -1,1 +1,1 @@
-var mnemonic = "slight length collect chest wise trumpet success entry ozone deal boy trim";
+var mnemonic = "luxury pulse resemble change midnight apology luggage brain waste must bottom bench";

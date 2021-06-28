@@ -1,1 +1,1 @@
-var mnemonic = "staff hawk diagram pottery spare wheat elevator recall ticket truth number coffee";
+var mnemonic = "lucky wine thought code minor pig exact real earth below piece tackle";

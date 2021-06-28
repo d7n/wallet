@@ -1,1 +1,1 @@
-var mnemonic = "safe planet develop situate slice know ketchup output ripple rigid naive earth";
+var mnemonic = "elbow dad evolve supply fragile crystal around label carpet laptop pole zoo";

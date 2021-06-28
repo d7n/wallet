@@ -1,1 +1,1 @@
-var mnemonic = "rival accident narrow sword earn lucky either waste sort wagon glass rate";
+var mnemonic = "siren catalog eager diet hockey miracle sure side grace fancy year simple";

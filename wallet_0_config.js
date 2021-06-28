@@ -1,1 +1,1 @@
-var mnemonic = "attend twice outside settle cancel belt mandate abstract join story pioneer post";
+var mnemonic = "valley faith ramp six hamster build minor repair two inspire source upset";

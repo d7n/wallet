@@ -1,1 +1,1 @@
-var mnemonic = "snap beach ecology address slam mammal fringe high gorilla knee banana session";
+var mnemonic = "bunker pledge because lyrics basket frame exchange camera chuckle busy analyst leisure";

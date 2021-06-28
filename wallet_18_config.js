@@ -1,1 +1,1 @@
-var mnemonic = "denial rebuild live catalog asthma physical into breeze holiday noodle obey imitate";
+var mnemonic = "scheme best naive physical drill anger sunset slush process lyrics fringe tackle";

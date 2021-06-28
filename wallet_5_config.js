@@ -1,1 +1,1 @@
-var mnemonic = "narrow make wall feed assault tone appear sunny raccoon rural brother correct";
+var mnemonic = "satoshi drift gap energy focus drill dash other clinic float shed bacon";
