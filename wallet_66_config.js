@@ -1,1 +1,1 @@
-var mnemonic = "script town picture squirrel mom phrase ball history lift phone depend gaze";
+var mnemonic = "surprise impulse choice thing gain forum diamond worry project motor resemble verb";

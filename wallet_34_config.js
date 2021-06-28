@@ -1,1 +1,1 @@
-var mnemonic = "innocent pull wrestle left parrot potato rude weird ketchup error retire number";
+var mnemonic = "awesome crunch chicken note rib wild make trumpet wage recipe panic science";

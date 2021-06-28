@@ -1,1 +1,1 @@
-var mnemonic = "only nurse grape merry garage option mule because festival expect divert card";
+var mnemonic = "grow length spring tone message panda work rent merge leaf notice fly";

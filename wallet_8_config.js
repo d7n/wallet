@@ -1,1 +1,1 @@
-var mnemonic = "actor list index attend snap receive road chaos breeze amazing coral gate";
+var mnemonic = "apple virtual pioneer duty gym acoustic various rigid nurse polar cake case";

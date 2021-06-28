@@ -1,1 +1,1 @@
-var mnemonic = "stick fiction attract scrap help trick clap water exit useful acoustic smile";
+var mnemonic = "know soldier century beach theme silver tattoo fever camera once divorce initial";

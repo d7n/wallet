@@ -1,1 +1,1 @@
-var mnemonic = "because public hill damp owner card main dad soon inhale amateur eight";
+var mnemonic = "can explain open main smile example dolphin eager woman embody glow mother";

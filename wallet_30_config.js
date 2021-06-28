@@ -1,1 +1,1 @@
-var mnemonic = "coast rubber latin kit defy note hybrid dynamic acoustic panther payment easily";
+var mnemonic = "fine acid badge slim pipe quiz verb cherry clip couch skate armed";

@@ -1,1 +1,1 @@
-var mnemonic = "note regular please elder load scene wrong neck egg knee decade plug";
+var mnemonic = "assist quick put room utility source nice rack cause fortune lake cube";

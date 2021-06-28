@@ -1,1 +1,1 @@
-var mnemonic = "bag between public exchange drink goddess latin neither truly own journey praise";
+var mnemonic = "weird cave amused odor ski anger degree try oven palm wonder dizzy";

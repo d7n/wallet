@@ -1,1 +1,1 @@
-var mnemonic = "must second insect leisure allow scissors first junior ski design acquire remove";
+var mnemonic = "seat mansion another foster pear fossil hole wait hen orbit food share";

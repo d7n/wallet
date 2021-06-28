@@ -1,1 +1,1 @@
-var mnemonic = "dynamic impose sample sample desert secret bird sing shoe figure genuine term";
+var mnemonic = "found question exotic pledge robust eight suspect kick voice time cube jacket";

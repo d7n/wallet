@@ -1,1 +1,1 @@
-var mnemonic = "raise injury romance legend key play fade crime trade blush swamp question";
+var mnemonic = "core where grocery east two dune diesel cup scrap rice cover shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe jazz creek rug side media dish gloom liberty control pigeon buzz";
+var mnemonic = "turn cable hobby junk wage culture bundle size session ankle ability must";

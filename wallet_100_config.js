@@ -1,1 +1,1 @@
-var mnemonic = "eight pilot vocal about half worth come universe interest bid gravity mandate";
+var mnemonic = "dutch travel confirm valid farm supply barrel among ginger dash urge fury";

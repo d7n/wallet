@@ -1,1 +1,1 @@
-var mnemonic = "pull laundry another under pig syrup skate middle gun aware below utility";
+var mnemonic = "arrange file office cereal balcony loan wagon scorpion offer problem flame force";

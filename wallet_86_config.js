@@ -1,1 +1,1 @@
-var mnemonic = "wave rack moment quote lens grain auction ramp child mosquito autumn wisdom";
+var mnemonic = "position before cave island comfort tomorrow forest letter grape symptom pluck naive";

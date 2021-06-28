@@ -1,1 +1,1 @@
-var mnemonic = "acquire impulse check joy critic good barrel ability enrich deny enter portion";
+var mnemonic = "organ famous wire garage cluster invite giggle zone sing travel evil blast";

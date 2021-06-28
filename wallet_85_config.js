@@ -1,1 +1,1 @@
-var mnemonic = "silk deputy lake tube demise phone news switch bargain vocal remove grain";
+var mnemonic = "army donate uphold foam script put silent december furnace method write valve";

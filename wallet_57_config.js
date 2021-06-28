@@ -1,1 +1,1 @@
-var mnemonic = "clay differ scan sugar dose soda avocado damp session devote marine salmon";
+var mnemonic = "inject fringe fog denial seek reunion brave voice glow concert item sea";

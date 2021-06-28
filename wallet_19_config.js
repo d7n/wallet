@@ -1,1 +1,1 @@
-var mnemonic = "wrestle vanish arm three mention usage tide million always flat gentle wedding";
+var mnemonic = "rude jealous dune embark vicious slab primary timber relief scale engage crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "torch deny motor rabbit pattern make october garbage garage barely sunny denial";
+var mnemonic = "copy front canyon table layer exchange vault age face small obscure consider";

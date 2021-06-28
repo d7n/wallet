@@ -1,1 +1,1 @@
-var mnemonic = "kitchen blast struggle crumble kingdom purity jelly flush valve jump legal taste";
+var mnemonic = "below matter breeze south evolve obey depth siren decade remember include control";

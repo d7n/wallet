@@ -1,1 +1,1 @@
-var mnemonic = "mammal scare donor boat portion praise ramp audit clay castle umbrella destroy";
+var mnemonic = "beach unit skate erode cliff enrich raw unveil advice can under shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "world lesson shuffle simple finger federal depart morning buyer point high blouse";
+var mnemonic = "true script shop erase step twin float burst buyer chalk suggest unique";

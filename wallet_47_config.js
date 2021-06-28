@@ -1,1 +1,1 @@
-var mnemonic = "render border suit aspect canvas night genre custom wish voyage room teach";
+var mnemonic = "safe planet develop situate slice know ketchup output ripple rigid naive earth";

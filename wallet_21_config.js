@@ -1,1 +1,1 @@
-var mnemonic = "change fortune network blue coast filter rural aspect discover torch bulb vessel";
+var mnemonic = "split result knife issue film hat burst silent swing rally wood uncover";

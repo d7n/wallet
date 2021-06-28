@@ -1,1 +1,1 @@
-var mnemonic = "luxury wonder long twelve element rib sun leopard drama mother glide army";
+var mnemonic = "ride also sibling inner ticket sunset radar hour math neglect upset where";

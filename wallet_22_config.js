@@ -1,1 +1,1 @@
-var mnemonic = "super foster cause symbol wood cabin scrub harbor wide express goddess firm";
+var mnemonic = "nephew share inherit icon battle expand throw split dirt neither sing theme";

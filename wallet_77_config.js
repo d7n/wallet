@@ -1,1 +1,1 @@
-var mnemonic = "grunt example dice teach mind beef rough clutch endorse luggage much donor";
+var mnemonic = "silver absent sustain buzz knock sentence current infant civil dismiss rely wink";

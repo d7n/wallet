@@ -1,1 +1,1 @@
-var mnemonic = "stereo various satoshi skin ugly panther creek vanish away dizzy west require";
+var mnemonic = "attend twice outside settle cancel belt mandate abstract join story pioneer post";

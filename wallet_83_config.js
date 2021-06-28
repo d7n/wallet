@@ -1,1 +1,1 @@
-var mnemonic = "poet utility napkin crunch tired nasty curious rookie journey such flame soft";
+var mnemonic = "staff hawk diagram pottery spare wheat elevator recall ticket truth number coffee";

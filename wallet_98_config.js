@@ -1,1 +1,1 @@
-var mnemonic = "strategy fitness input mutual secret narrow piece across talent reward behave august";
+var mnemonic = "live tower wasp online forward account trade judge bread virtual enemy diary";

@@ -1,1 +1,1 @@
-var mnemonic = "gym awkward ginger absent female magnet matter captain pool door soul evil";
+var mnemonic = "attend improve cage lamp rough atom save repeat resemble tell stereo garden";

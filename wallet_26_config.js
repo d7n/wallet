@@ -1,1 +1,1 @@
-var mnemonic = "swarm fold atom reduce sister spot nest exist tree leisure town choose";
+var mnemonic = "balcony carry fox noble noble trash glare coyote attend multiply gather sea";

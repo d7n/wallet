@@ -1,1 +1,1 @@
-var mnemonic = "assault link shrimp twenty trial predict camera quote dad magnet monkey upon";
+var mnemonic = "family animal shove charge wise essay delay model weird enough flush find";

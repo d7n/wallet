@@ -1,1 +1,1 @@
-var mnemonic = "sorry shove pet visit winner glass erode response budget robot there maximum";
+var mnemonic = "sting theory legal flash loyal devote garlic sketch bench candy wheel fiscal";

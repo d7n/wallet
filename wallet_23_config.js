@@ -1,1 +1,1 @@
-var mnemonic = "increase salad pool angry kiwi fever shuffle radar panda fan dance giant";
+var mnemonic = "unit better real tumble nerve cricket lawsuit tag upgrade affair endorse bargain";

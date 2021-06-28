@@ -1,1 +1,1 @@
-var mnemonic = "pelican airport fiction gravity illness pottery attack left account disagree crash merit";
+var mnemonic = "voyage theme suffer orchard shell math save chunk lonely alien cream dinosaur";

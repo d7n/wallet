@@ -1,1 +1,1 @@
-var mnemonic = "razor loop struggle april proof expand actual drift hood saddle element chaos";
+var mnemonic = "remain earth imitate bracket just royal sustain sadness tilt arena hero trip";

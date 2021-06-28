@@ -1,1 +1,1 @@
-var mnemonic = "retire labor throw absurd traffic chuckle female guess wonder address polar perfect";
+var mnemonic = "priority subject inner cause faculty surge math raw alpha luxury connect slot";

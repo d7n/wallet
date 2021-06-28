@@ -1,1 +1,1 @@
-var mnemonic = "april shaft have high analyst tiger kitten mirror sponsor alley hollow crouch";
+var mnemonic = "what improve wrap jelly yellow dinosaur cheap bunker hawk detect cricket vivid";

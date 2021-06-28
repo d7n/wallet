@@ -1,1 +1,1 @@
-var mnemonic = "chapter neutral retreat aware assist furnace analyst jewel box range snake keep";
+var mnemonic = "inner foot home spy drop pen demand outdoor wagon accuse valley kick";

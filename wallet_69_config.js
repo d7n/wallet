@@ -1,1 +1,1 @@
-var mnemonic = "habit shrimp swim dream attitude employ humble lab vague frown vendor country";
+var mnemonic = "possible fitness toss spawn scare radar broom bicycle seat lonely uncover afraid";

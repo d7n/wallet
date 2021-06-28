@@ -1,1 +1,1 @@
-var mnemonic = "glide clerk leader sleep unveil finger sense few joke situate stumble vague";
+var mnemonic = "work symbol budget green since select jungle supreme denial grape earth valid";

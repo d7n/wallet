@@ -1,1 +1,1 @@
-var mnemonic = "common truth either funny asset alarm secret crouch victory rely zebra bind";
+var mnemonic = "cruise lesson essence river art century mixture sudden expand guitar drama donor";

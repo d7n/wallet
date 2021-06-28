@@ -1,1 +1,1 @@
-var mnemonic = "combine wife device sport mistake senior kite disagree model episode excuse slogan";
+var mnemonic = "slight length collect chest wise trumpet success entry ozone deal boy trim";

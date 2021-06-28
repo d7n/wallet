@@ -1,1 +1,1 @@
-var mnemonic = "fault news panel legal gallery board knife paddle pulse measure cargo wrist";
+var mnemonic = "canyon spirit involve engage foil fox demand clip spy number exile local";

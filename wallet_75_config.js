@@ -1,1 +1,1 @@
-var mnemonic = "base club foster spoil stumble snow body renew medal first arrow night";
+var mnemonic = "outside live stool hundred frown swarm expect tuition demand castle draft rug";

@@ -1,1 +1,1 @@
-var mnemonic = "hand tape super since frown erase hobby outer public wine lottery dwarf";
+var mnemonic = "goddess hand narrow crumble chuckle vault viable decide project smoke truck honey";

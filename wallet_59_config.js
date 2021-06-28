@@ -1,1 +1,1 @@
-var mnemonic = "boy forget weird access seat limit tobacco bracket dice lemon inject alarm";
+var mnemonic = "opera desk mask nuclear convince medal husband minimum squeeze sorry fun famous";

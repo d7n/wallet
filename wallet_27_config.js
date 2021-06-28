@@ -1,1 +1,1 @@
-var mnemonic = "lava ozone wear usage belt stool demise month pizza slam language share";
+var mnemonic = "road reduce private bottom impulse virtual poet tongue end embrace planet figure";

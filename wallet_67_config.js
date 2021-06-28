@@ -1,1 +1,1 @@
-var mnemonic = "express web nuclear problem divorce observe victory fish hotel grab tired sketch";
+var mnemonic = "exercise whale describe way tongue over horror blood upset report hip local";

@@ -1,1 +1,1 @@
-var mnemonic = "frog valley ring lift exchange since industry salute solution mixed accuse balance";
+var mnemonic = "trophy cherry loud garbage jaguar salt earth define lucky prevent hint neutral";

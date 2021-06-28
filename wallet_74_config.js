@@ -1,1 +1,1 @@
-var mnemonic = "symptom drip timber session service truly gun apart universe cousin unfair any";
+var mnemonic = "ring prize warm permit broccoli slam prefer december top moon simple taste";

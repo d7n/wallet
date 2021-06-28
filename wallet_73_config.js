@@ -1,1 +1,1 @@
-var mnemonic = "party sibling trim critic feature key unfold blanket view infant muffin bicycle";
+var mnemonic = "popular grunt excess jazz ridge lift tunnel latin rescue spoil pond south";

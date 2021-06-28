@@ -1,1 +1,1 @@
-var mnemonic = "gasp soccer leaf poem write garbage young method spike grape pig border";
+var mnemonic = "december segment flush sort juice wall arrive input build warm cube dignity";

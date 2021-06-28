@@ -1,1 +1,1 @@
-var mnemonic = "square gallery canvas sphere spirit slide east exact actual random foster daughter";
+var mnemonic = "toy resemble lesson million divert feel tube glad fatal amused twice galaxy";

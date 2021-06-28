@@ -1,1 +1,1 @@
-var mnemonic = "maple human ramp venue soap ability supply annual mule summer easily romance";
+var mnemonic = "narrow make wall feed assault tone appear sunny raccoon rural brother correct";

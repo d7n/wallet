@@ -1,1 +1,1 @@
-var mnemonic = "kitten fuel carpet flag local genre company chief leader resist speak film";
+var mnemonic = "hotel island connect garage divide evolve chat stand style agree imitate dignity";

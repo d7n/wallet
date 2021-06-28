@@ -1,1 +1,1 @@
-var mnemonic = "quality garbage poet say silent rail among face setup jump bulk river";
+var mnemonic = "frozen illness alpha seat coconut always mosquito hurt brisk blanket shop crew";

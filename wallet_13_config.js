@@ -1,1 +1,1 @@
-var mnemonic = "fiction song wage arrow wait brain nerve absurd engine sword dilemma tomato";
+var mnemonic = "replace world high actual only candy act middle prepare vote judge know";

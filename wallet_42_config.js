@@ -1,1 +1,1 @@
-var mnemonic = "awful virus torch unique appear gate stove come foam obscure shoe broken";
+var mnemonic = "knife moral cannon rare harsh fancy west foam share will ability increase";

@@ -1,1 +1,1 @@
-var mnemonic = "noise merry drastic mule damp whale squeeze supply mask title wild poet";
+var mnemonic = "legal swap tower innocent hazard stool citizen discover eternal peanut poem stand";

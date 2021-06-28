@@ -1,1 +1,1 @@
-var mnemonic = "ramp plastic tilt old hub change net borrow more valve frequent once";
+var mnemonic = "cabin image dove net flee relax face just fork apology violin copper";

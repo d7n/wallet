@@ -1,1 +1,1 @@
-var mnemonic = "way mosquito pioneer ignore farm always cream record pupil finish duck captain";
+var mnemonic = "find north bench much ramp scan travel unable drop forward name entire";

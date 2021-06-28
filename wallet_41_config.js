@@ -1,1 +1,1 @@
-var mnemonic = "coast critic other puzzle demise six hire pool upset ramp addict mass";
+var mnemonic = "flush radio silk dentist tumble time extra area ugly decade donate sight";

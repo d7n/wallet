@@ -1,1 +1,1 @@
-var mnemonic = "woman course sustain ready hub project ritual calm estate reason hidden ginger";
+var mnemonic = "monster canyon tragic food benefit unable ginger admit cool desk rifle popular";

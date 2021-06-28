@@ -1,1 +1,1 @@
-var mnemonic = "myself giraffe two rookie among hero nature artwork dad harbor whip final";
+var mnemonic = "release program cement wrap clinic forest mandate cigar actor promote toast energy";

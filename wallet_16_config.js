@@ -1,1 +1,1 @@
-var mnemonic = "since drip win light brick obey pen staff lobster green wrong evoke";
+var mnemonic = "fix okay tired bleak tuition toilet visa melody stool turtle entry hover";

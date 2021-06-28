@@ -1,1 +1,1 @@
-var mnemonic = "siege into penalty erase attitude bulk green define lab nominee reduce today";
+var mnemonic = "focus antenna renew awful kingdom setup basket devote sniff then you shadow";

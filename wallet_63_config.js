@@ -1,1 +1,1 @@
-var mnemonic = "express wash code steak attend emotion very gown fatigue proud loud useless";
+var mnemonic = "people firm lab benefit race legal eager answer sugar peanut steak pupil";

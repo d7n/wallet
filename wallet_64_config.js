@@ -1,1 +1,1 @@
-var mnemonic = "neither move vanish travel diary field expect stamp seek panel enlist home";
+var mnemonic = "crew feature combine brick swift text wasp snow caution isolate silver disagree";

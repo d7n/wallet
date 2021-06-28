@@ -1,1 +1,1 @@
-var mnemonic = "ritual vocal test usual wolf high crawl universe myth great reflect churn";
+var mnemonic = "phone broccoli arrive diagram squirrel vast bless movie patrol alcohol bracket local";

@@ -1,1 +1,1 @@
-var mnemonic = "toe because drum wonder silent cook escape amused squeeze convince stove weekend";
+var mnemonic = "olive behind feature eight evil digital west extra staff differ discover upper";

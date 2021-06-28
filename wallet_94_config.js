@@ -1,1 +1,1 @@
-var mnemonic = "rough fancy truck surface video tobacco announce change material grape grocery rain";
+var mnemonic = "always ancient mandate hard bronze fix holiday bid cereal kit crisp dream";

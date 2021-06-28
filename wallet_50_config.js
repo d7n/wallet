@@ -1,1 +1,1 @@
-var mnemonic = "fix shrug found digital short vocal pond tongue group auction mosquito quit";
+var mnemonic = "priority tiger shiver pear oxygen huge science link dignity like clump ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "apology van thumb control exchange million mercy quote plunge limit person height";
+var mnemonic = "blast come please surprise dignity window prevent pitch wagon stumble boat pulse";

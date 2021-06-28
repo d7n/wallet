@@ -1,1 +1,1 @@
-var mnemonic = "test tell public pen jeans budget slice sustain exit stem embrace mechanic";
+var mnemonic = "clay someone zero era morning tobacco core hard amazing virtual gentle hurdle";

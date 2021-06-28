@@ -1,1 +1,1 @@
-var mnemonic = "region fold trip desert same three spend timber bounce burst erode curve";
+var mnemonic = "share stamp remind minor town clock thumb smooth supply process blast adapt";

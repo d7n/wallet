@@ -1,1 +1,1 @@
-var mnemonic = "abuse post please december resource response acquire scatter someone evil similar deputy";
+var mnemonic = "oyster soldier erode timber saddle cradle cover renew flee vocal swear grace";

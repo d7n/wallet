@@ -1,1 +1,1 @@
-var mnemonic = "pyramid rural pink truck thumb cliff slight autumn iron debate prison penalty";
+var mnemonic = "denial rebuild live catalog asthma physical into breeze holiday noodle obey imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster solid awful brass profit bind ticket filter sock plastic update mercy";
+var mnemonic = "winter merry wedding giant blush panel doll cave eager crime crowd left";

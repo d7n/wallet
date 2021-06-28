@@ -1,1 +1,1 @@
-var mnemonic = "near jar fly nerve evolve peanut chaos ice actress tell deputy live";
+var mnemonic = "essence leisure little tunnel cabin cruise vast pull domain hen cloud worth";

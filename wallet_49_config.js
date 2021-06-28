@@ -1,1 +1,1 @@
-var mnemonic = "travel garage dream lottery snow now garden enrich turn crisp lobster lake";
+var mnemonic = "rival accident narrow sword earn lucky either waste sort wagon glass rate";

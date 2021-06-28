@@ -1,1 +1,1 @@
-var mnemonic = "limit rabbit luggage require first clerk hello solution forward rather hand glimpse";
+var mnemonic = "hope toy kangaroo film grunt grid latin icon swarm payment maple affair";

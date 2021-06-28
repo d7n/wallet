@@ -1,1 +1,1 @@
-var mnemonic = "wet mistake until cycle chef company beef ask trade craft deputy crowd";
+var mnemonic = "pepper pass mobile office smile favorite advance tag belt crane bus prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "excess slam loud victory smoke chef wolf climb color leave goat grunt";
+var mnemonic = "goose planet news version thought plunge fun large kid illegal task candy";
