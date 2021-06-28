@@ -1,1 +1,1 @@
-var mnemonic = "churn inch column season bulb order bread fee portion intact present below";
+var mnemonic = "hip country height drift steel dust help upset despair mansion neck rich";

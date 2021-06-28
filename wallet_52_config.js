@@ -1,1 +1,1 @@
-var mnemonic = "zone cereal canal refuse joke drill order borrow develop wrap renew hour";
+var mnemonic = "vanish cash tenant alert canvas eyebrow bird face estate exotic hurdle barely";

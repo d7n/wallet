@@ -1,1 +1,1 @@
-var mnemonic = "goat total donkey give original slush check digital friend please taxi spoil";
+var mnemonic = "dignity situate nominee wing salt mixed window reflect poverty claim void tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "until fence roast evil hawk scorpion web already feel wrong limb retire";
+var mnemonic = "result gold flame tuition into roast fatal below recipe draft unveil pizza";

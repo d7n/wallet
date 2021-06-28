@@ -1,1 +1,1 @@
-var mnemonic = "seminar wedding popular dice success excite market trip exact ginger cat boil";
+var mnemonic = "goose asset announce false shy nurse adapt urban major cupboard guilt menu";

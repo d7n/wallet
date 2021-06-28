@@ -1,1 +1,1 @@
-var mnemonic = "hockey winter panda ask rough print violin route canvas proud rain entry";
+var mnemonic = "negative exchange easy all follow gallery used awake develop wrong sudden pizza";

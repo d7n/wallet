@@ -1,1 +1,1 @@
-var mnemonic = "duck sphere year tank benefit proud wisdom embrace label million fiscal kiwi";
+var mnemonic = "peace aunt orange oblige profit quick cave artefact essay oblige lunar allow";

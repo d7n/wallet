@@ -1,1 +1,1 @@
-var mnemonic = "aunt social empty evolve improve stick until square zebra exile attract moment";
+var mnemonic = "shell sell vanish film disorder capital truly solve ill enact come final";

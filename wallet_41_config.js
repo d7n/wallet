@@ -1,1 +1,1 @@
-var mnemonic = "account light village trumpet sugar link poem junior seminar supply worry farm";
+var mnemonic = "tumble tone siren river deposit great antenna violin uniform magnet festival normal";

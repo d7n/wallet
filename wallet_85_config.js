@@ -1,1 +1,1 @@
-var mnemonic = "fix width cloud pair correct meadow expose romance left detail mimic struggle";
+var mnemonic = "course mother brain simple upon sentence ramp shrimp grit during mystery nerve";

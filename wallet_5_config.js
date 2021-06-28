@@ -1,1 +1,1 @@
-var mnemonic = "hurry great brass peanut sword win luggage element wing cup square long";
+var mnemonic = "desert shed dizzy pull nut pulse armed library share long figure ivory";

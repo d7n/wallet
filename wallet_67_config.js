@@ -1,1 +1,1 @@
-var mnemonic = "fine peasant noodle local tide common fancy staff flash eternal inflict strike";
+var mnemonic = "story boost trial thunder renew flight display front immune odor cost lobster";

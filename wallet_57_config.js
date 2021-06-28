@@ -1,1 +1,1 @@
-var mnemonic = "ugly farm ice bullet tail fatigue wave submit siren fluid hazard tuition";
+var mnemonic = "dignity festival federal fix swim smile script divert bulb ordinary spend intact";

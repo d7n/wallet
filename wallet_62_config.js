@@ -1,1 +1,1 @@
-var mnemonic = "basket bounce choice ill relax this foster faith enable garden since whale";
+var mnemonic = "wild artwork violin raccoon range sponsor square bargain ignore coyote leader bean";

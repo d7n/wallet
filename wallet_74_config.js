@@ -1,1 +1,1 @@
-var mnemonic = "penalty benefit assault shift another biology oppose income wild garage erode again";
+var mnemonic = "alpha myself vocal margin manual abuse project expire broom sting normal second";

@@ -1,1 +1,1 @@
-var mnemonic = "regular tornado snap because poet stumble tragic material leaf setup husband basket";
+var mnemonic = "parent story cradle say damp claim confirm flavor struggle imitate lady hobby";

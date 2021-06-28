@@ -1,1 +1,1 @@
-var mnemonic = "hat because buyer high usage task daring bid bar coyote west hover";
+var mnemonic = "traffic recycle strong heart pottery track anxiety avoid split second asset door";

@@ -1,1 +1,1 @@
-var mnemonic = "clump crowd vehicle easily kick embark fold hurt table mention snack alone";
+var mnemonic = "history myself remember aspect range load practice label six skirt build leopard";

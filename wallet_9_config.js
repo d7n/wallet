@@ -1,1 +1,1 @@
-var mnemonic = "viable love puppy frame yard solid volcano diesel dog ankle melody web";
+var mnemonic = "then cheap orange leg valve gloom call produce address banana slam artist";

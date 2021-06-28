@@ -1,1 +1,1 @@
-var mnemonic = "lunar vote air invite forest latin grid boring shaft orphan typical identify";
+var mnemonic = "layer hobby shell hawk attract earth turkey trade oxygen love zebra novel";

@@ -1,1 +1,1 @@
-var mnemonic = "ten victory scale muscle inner truth coin shove pigeon can virtual luxury";
+var mnemonic = "edit erode melody issue hurt mesh laugh prefer joy rate coil ritual";

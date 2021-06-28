@@ -1,1 +1,1 @@
-var mnemonic = "lonely like room move mango gift observe double drop result order fog";
+var mnemonic = "excess journey holiday grocery tribe inmate film situate milk famous recipe traffic";

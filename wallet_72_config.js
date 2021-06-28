@@ -1,1 +1,1 @@
-var mnemonic = "gorilla topic flat swear grace toy curtain table update sentence lunar wall";
+var mnemonic = "sibling legend address maximum pink energy gasp canvas spare toss slam pencil";

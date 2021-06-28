@@ -1,1 +1,1 @@
-var mnemonic = "fall work flat join sick crime excuse turtle photo during subway minor";
+var mnemonic = "crash embody all stamp mother member dad angry tape catch ankle recycle";

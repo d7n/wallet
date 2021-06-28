@@ -1,1 +1,1 @@
-var mnemonic = "segment agent track scorpion lion garage install much tonight motion half brain";
+var mnemonic = "stay wish science stool profit recipe second accident ready buyer lift analyst";

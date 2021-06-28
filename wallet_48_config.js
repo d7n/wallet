@@ -1,1 +1,1 @@
-var mnemonic = "spray hunt hawk purchase soccer shrug cliff enroll cook heavy ethics private";
+var mnemonic = "neck monitor crater vanish creek boost outside smile because hybrid either agree";

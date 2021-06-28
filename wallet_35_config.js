@@ -1,1 +1,1 @@
-var mnemonic = "kick primary chaos electric lucky liar thrive engine stamp stumble comic curtain";
+var mnemonic = "insect guide desk hospital profit miracle hamster humble clutch quarter awkward tornado";

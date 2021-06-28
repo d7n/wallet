@@ -1,1 +1,1 @@
-var mnemonic = "capital bulk palace salt nurse sword olympic impulse grunt mention trade list";
+var mnemonic = "random obey capital tell ring leader electric neither obscure mass marine excuse";

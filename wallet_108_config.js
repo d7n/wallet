@@ -1,1 +1,1 @@
-var mnemonic = "wreck tool rely liar warm flock crawl theme erase chair unable diesel";
+var mnemonic = "drama champion tobacco inmate moon demand day wait trap argue combine busy";

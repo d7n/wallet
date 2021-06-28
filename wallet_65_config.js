@@ -1,1 +1,1 @@
-var mnemonic = "token thunder bird split aerobic pulp top expose celery alarm city recycle";
+var mnemonic = "discover mad claim lens warfare vote slight skirt reform pool million debris";

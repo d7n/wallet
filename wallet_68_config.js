@@ -1,1 +1,1 @@
-var mnemonic = "guard wonder hello bring robot test weapon carpet inform purse attack kangaroo";
+var mnemonic = "diagram step project concert twist math truly outside airport casual mention explain";

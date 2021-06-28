@@ -1,1 +1,1 @@
-var mnemonic = "puzzle idea wall wide easily nerve fault potato attend develop sudden shed";
+var mnemonic = "early beef mountain comfort invest vast anxiety attract broccoli steak loud exhibit";

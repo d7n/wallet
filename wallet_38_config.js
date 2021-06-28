@@ -1,1 +1,1 @@
-var mnemonic = "student twist soccer ridge violin craft tortoise silver scrub surface biology kind";
+var mnemonic = "private indoor head clarify catalog hockey fantasy fold range receive session leave";

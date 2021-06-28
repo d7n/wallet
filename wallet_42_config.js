@@ -1,1 +1,1 @@
-var mnemonic = "ribbon secret drastic stamp clever cabin cycle senior artefact goat sample clip";
+var mnemonic = "chalk poverty version near fiction fork duty deputy garbage width embody large";

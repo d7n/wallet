@@ -1,1 +1,1 @@
-var mnemonic = "way mind pizza normal sort bracket service decide tennis system cruel tape";
+var mnemonic = "exercise egg cart taxi tourist use stand knee current drum cycle expand";

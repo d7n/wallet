@@ -1,1 +1,1 @@
-var mnemonic = "join force seek whip cool reduce ice island calm provide apology atom";
+var mnemonic = "puzzle marriage random defy super powder piece remain sight inform reward inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "pear burden letter moment awkward mad before fuel front razor wonder habit";
+var mnemonic = "will apart stuff weasel sword endorse recipe law electric stone siege gown";

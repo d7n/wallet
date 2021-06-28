@@ -1,1 +1,1 @@
-var mnemonic = "length expand lady load rescue board timber boost pattern syrup reveal tongue";
+var mnemonic = "music indicate wrong beauty announce tonight diet tree age urge ridge model";

@@ -1,1 +1,1 @@
-var mnemonic = "leg chronic loan dash daring aim inner art gorilla eager spell meadow";
+var mnemonic = "slab amused faith update prize milk doctor blind glide sail helmet faint";

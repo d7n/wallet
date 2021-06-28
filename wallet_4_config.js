@@ -1,1 +1,1 @@
-var mnemonic = "only accident day endorse aim biology carry borrow okay boss husband burden";
+var mnemonic = "cake control element plunge climb sweet announce victory ethics blind file bag";

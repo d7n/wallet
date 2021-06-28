@@ -1,1 +1,1 @@
-var mnemonic = "sure pipe artist bullet ceiling laugh risk potato novel foot cancel answer";
+var mnemonic = "uncle velvet flag guide strategy october example resource federal girl move surprise";

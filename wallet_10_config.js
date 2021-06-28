@@ -1,1 +1,1 @@
-var mnemonic = "make tonight spatial obvious filter say obey boost tortoise cheap ride unfold";
+var mnemonic = "volcano trigger betray general couch rib emerge club that design hidden arrange";

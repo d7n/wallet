@@ -1,1 +1,1 @@
-var mnemonic = "gold monkey material rack defense body sea dial express humble attack acoustic";
+var mnemonic = "brisk boring math piano silk sport mutual record jewel special forget ivory";

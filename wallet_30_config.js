@@ -1,1 +1,1 @@
-var mnemonic = "sail melody picture group ugly curious usual athlete zoo face pretty airport";
+var mnemonic = "swamp unknown struggle palace domain target update ship puppy cliff domain extend";

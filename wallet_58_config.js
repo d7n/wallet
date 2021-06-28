@@ -1,1 +1,1 @@
-var mnemonic = "toss page fossil style avocado mango rural solve scene crash glass swift";
+var mnemonic = "spawn mixture pride canoe endless column warm any off venue dial code";

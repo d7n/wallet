@@ -1,1 +1,1 @@
-var mnemonic = "tilt piece salon cloud behave cigar glove detect range until ring rescue";
+var mnemonic = "yellow slide total saddle first mom rabbit pond differ increase kiss rain";

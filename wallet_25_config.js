@@ -1,1 +1,1 @@
-var mnemonic = "brick almost steel swallow shoe deal usual potato gold stem thing clown";
+var mnemonic = "chat goat foam iron fox nose skin fatigue fossil twenty burger loud";

@@ -1,1 +1,1 @@
-var mnemonic = "grape praise hand resemble lawn ribbon basic faculty case squirrel survey flee";
+var mnemonic = "citizen total normal trim hobby grass element bike lab will weekend action";

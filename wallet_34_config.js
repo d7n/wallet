@@ -1,1 +1,1 @@
-var mnemonic = "achieve ripple purchase slender stage stamp poverty rescue crush devote thank spoon";
+var mnemonic = "afford laptop giraffe project garlic master ability pilot situate office black bleak";

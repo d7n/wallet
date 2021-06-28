@@ -1,1 +1,1 @@
-var mnemonic = "above half defy heavy rifle clarify live object goddess sell soon involve";
+var mnemonic = "acquire race trade humor scene blade tilt situate involve cash fog fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "detail hammer very vocal shaft false search fiscal tobacco dilemma blast garbage";
+var mnemonic = "bunker rookie volume cliff indicate warrior possible light lake weasel bench small";

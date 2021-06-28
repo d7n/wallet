@@ -1,1 +1,1 @@
-var mnemonic = "raven sibling theme monster nation water half bulb result coral decorate almost";
+var mnemonic = "torch escape coil upon device always donate demand salad roast author cricket";

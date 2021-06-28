@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon depart depart allow february ugly execute equip card replace core lion";
+var mnemonic = "paddle window excess abuse tunnel tattoo story travel drift such age video";

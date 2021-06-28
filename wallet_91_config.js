@@ -1,1 +1,1 @@
-var mnemonic = "youth announce fragile never always famous unfair taste gloom fever grain worth";
+var mnemonic = "degree noodle ability kiwi kiss unfair phrase aunt invest agent viable inside";

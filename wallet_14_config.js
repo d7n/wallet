@@ -1,1 +1,1 @@
-var mnemonic = "off female term dog canyon humor swing thing sudden cover planet best";
+var mnemonic = "business vocal south embark cause tribe velvet color balance doll increase rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "sick quote vendor spy cruise discover they hammer know mother organ type";
+var mnemonic = "inflict measure stone security organ eyebrow story help oxygen wedding improve basic";

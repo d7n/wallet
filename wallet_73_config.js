@@ -1,1 +1,1 @@
-var mnemonic = "outer consider card hobby genuine chimney filter proud initial toward cheese verb";
+var mnemonic = "add label harvest like attack cousin slab ginger december marriage mystery captain";

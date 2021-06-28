@@ -1,1 +1,1 @@
-var mnemonic = "best shed life topple brain catalog pipe safe loop vault cycle boring";
+var mnemonic = "surprise fold usage noble goat reject opinion detect receive crop upgrade good";

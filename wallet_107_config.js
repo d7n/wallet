@@ -1,1 +1,1 @@
-var mnemonic = "agree very obey reveal balance clay cereal again seed cloth outside stuff";
+var mnemonic = "amateur possible bamboo ecology panther rocket rural equal model half antique rail";

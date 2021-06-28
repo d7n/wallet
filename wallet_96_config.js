@@ -1,1 +1,1 @@
-var mnemonic = "rare flat put swim coffee slice grain salmon blast donate capable lazy";
+var mnemonic = "domain still luggage torch attract final long deputy cereal interest rabbit project";

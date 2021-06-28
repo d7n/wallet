@@ -1,1 +1,1 @@
-var mnemonic = "section spot cake outdoor sell bird idea else bread endless flower clap";
+var mnemonic = "twenty coffee rose decorate apart security later confirm camera walk panda truck";

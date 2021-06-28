@@ -1,1 +1,1 @@
-var mnemonic = "party finish memory custom cool deposit pond dune dumb innocent village donate";
+var mnemonic = "salute powder keep bacon crime tortoise wool panther stem soap runway chair";

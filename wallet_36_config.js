@@ -1,1 +1,1 @@
-var mnemonic = "poet wood hawk shine laugh thumb keen expect ethics desert dumb mail";
+var mnemonic = "dance rubber lyrics thumb mom tragic satoshi maid galaxy rude excuse huge";

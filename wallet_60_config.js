@@ -1,1 +1,1 @@
-var mnemonic = "daring pyramid fancy assume catch stove item divorce maximum cause soup ramp";
+var mnemonic = "gather unlock offer typical job faculty concert home response fancy arrange hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "happy oval avoid beef elevator chaos lazy answer hurt trap day cushion";
+var mnemonic = "link metal mechanic egg mixture village melody practice addict increase permit siege";

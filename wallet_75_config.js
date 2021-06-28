@@ -1,1 +1,1 @@
-var mnemonic = "measure resemble card fashion match usual sustain ramp reason giant eye hammer";
+var mnemonic = "few first van connect clinic wheat script spawn boil copper seminar flip";

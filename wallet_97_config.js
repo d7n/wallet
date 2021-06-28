@@ -1,1 +1,1 @@
-var mnemonic = "baby gallery fan thrive vast skate pond mixture sail recipe spice gaze";
+var mnemonic = "casino viable valid distance economy inflict between gasp scheme appear vessel index";

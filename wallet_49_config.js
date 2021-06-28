@@ -1,1 +1,1 @@
-var mnemonic = "disease split inner column suffer razor endless resemble blossom stove scrub decide";
+var mnemonic = "athlete fork bicycle pistol danger evolve ensure oak pill peace gown direct";

@@ -1,1 +1,1 @@
-var mnemonic = "truth excuse advice tattoo peasant rubber flash load hungry muffin control boss";
+var mnemonic = "pause brother stone then sentence awful replace private risk dove song reveal";

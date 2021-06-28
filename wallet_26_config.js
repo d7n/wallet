@@ -1,1 +1,1 @@
-var mnemonic = "glow slow practice found neglect seat speak settle grocery glad weird fault";
+var mnemonic = "vault room jewel affair balcony awake repair brick name poverty consider glory";

@@ -1,1 +1,1 @@
-var mnemonic = "provide device square finger senior leader milk blur ticket suspect phone follow";
+var mnemonic = "question harsh harsh ankle auto great weekend local leopard family reduce cinnamon";

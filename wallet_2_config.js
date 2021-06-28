@@ -1,1 +1,1 @@
-var mnemonic = "great gravity crumble surround never void almost battle person stumble adapt sentence";
+var mnemonic = "oil buddy hawk slice hurdle borrow wasp bridge wheat cement input uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "similar wedding affair name local school else vivid audit filter smart express";
+var mnemonic = "order tide gold either lab pyramid admit maze rail turkey proud erupt";

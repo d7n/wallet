@@ -1,1 +1,1 @@
-var mnemonic = "bronze argue moral pig dash party favorite carry item garage hammer tree";
+var mnemonic = "romance mirror upon isolate army leg dilemma holiday alien coral usage pepper";

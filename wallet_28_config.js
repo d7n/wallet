@@ -1,1 +1,1 @@
-var mnemonic = "glad faint sorry october reward labor helmet runway expire together trumpet rhythm";
+var mnemonic = "castle mean thunder boring hover person ship dose favorite trend inherit pattern";

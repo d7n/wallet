@@ -1,1 +1,1 @@
-var mnemonic = "post space undo cabin rebuild rifle wrestle priority luggage friend rubber obey";
+var mnemonic = "alone panel husband tube april pepper royal maple duty wrestle auto habit";

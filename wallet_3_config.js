@@ -1,1 +1,1 @@
-var mnemonic = "very hard real digital when hidden there hobby truly spy flip satoshi";
+var mnemonic = "exchange angry hold museum whale angry shoulder category divide medal tennis produce";

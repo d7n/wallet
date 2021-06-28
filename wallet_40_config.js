@@ -1,1 +1,1 @@
-var mnemonic = "hybrid dry parade donor plate output diesel cream seek under cover flee";
+var mnemonic = "talk purpose exercise abandon album offer page diesel stone solid awesome wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "spell almost loan balcony salmon wrestle that accuse salad tortoise furnace come";
+var mnemonic = "afraid raccoon warrior food skin crop short firm blanket visa gift glory";

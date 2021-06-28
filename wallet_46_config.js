@@ -1,1 +1,1 @@
-var mnemonic = "twenty captain expand gravity sample state shadow lonely cotton bracket divorce coin";
+var mnemonic = "song traffic segment purchase ignore trial chimney kit velvet soccer install miracle";

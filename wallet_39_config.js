@@ -1,1 +1,1 @@
-var mnemonic = "enlist sister episode already glide head budget embark buzz orbit net fragile";
+var mnemonic = "myth silent child jelly element hill chapter review cushion romance wrap jewel";
