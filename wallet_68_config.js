@@ -1,1 +1,1 @@
-var mnemonic = "brave hour beach figure rapid stay jump window buffalo join pony pioneer";
+var mnemonic = "reunion coil orchard tide assume blush dismiss together donkey curve grief vessel";

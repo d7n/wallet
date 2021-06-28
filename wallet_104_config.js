@@ -1,1 +1,1 @@
-var mnemonic = "can slab sound mass impulse hood anger vacant gold echo joy robot";
+var mnemonic = "afford assault alien identify select myself mandate auction promote charge suspect observe";

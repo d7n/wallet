@@ -1,1 +1,1 @@
-var mnemonic = "moral earth exchange delay course expose forest custom vapor memory topple jungle";
+var mnemonic = "alter vivid staff bag major found cream border ethics lock before few";

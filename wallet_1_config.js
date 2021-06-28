@@ -1,1 +1,1 @@
-var mnemonic = "car deer ghost barely have access bachelor breeze jewel sun trial edit";
+var mnemonic = "grain offer swap angle vacuum honey endless lucky salad brain point innocent";

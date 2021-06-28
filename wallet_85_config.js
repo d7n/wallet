@@ -1,1 +1,1 @@
-var mnemonic = "federal million wonder south turtle ladder host snap carpet acoustic disagree forum";
+var mnemonic = "axis young desert oval chicken little venue cheese choice result cool hurt";

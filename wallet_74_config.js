@@ -1,1 +1,1 @@
-var mnemonic = "pear apart doctor craft dolphin push gossip above maze zero plunge gap";
+var mnemonic = "piano iron weapon oven viable crystal oppose erupt direct subject purity view";

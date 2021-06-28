@@ -1,1 +1,1 @@
-var mnemonic = "luggage word quarter weather attack bid column middle fetch lab dwarf excite";
+var mnemonic = "wear kingdom surprise narrow tape stamp recipe decide tide artefact pigeon now";

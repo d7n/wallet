@@ -1,1 +1,1 @@
-var mnemonic = "jar sock floor guard chronic prison illegal tree energy spawn mansion wreck";
+var mnemonic = "tuna abandon welcome paper measure curious laugh enroll tobacco once park era";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel involve dinosaur enforce profit high behind tell vast flight keen tobacco";
+var mnemonic = "also bench cigar matrix speak enter afford obtain month episode venture barely";

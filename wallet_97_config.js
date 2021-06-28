@@ -1,1 +1,1 @@
-var mnemonic = "acquire stumble asthma huge hawk reform turn fatal render want actor area";
+var mnemonic = "waste yard royal bread expand seven sell where expire tenant special slice";

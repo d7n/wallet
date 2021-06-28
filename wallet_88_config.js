@@ -1,1 +1,1 @@
-var mnemonic = "toilet edit fragile arrow term aware emerge crush follow permit attack kick";
+var mnemonic = "swarm floor thank hello release gas crumble flight fringe cage amount garbage";

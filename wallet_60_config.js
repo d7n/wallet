@@ -1,1 +1,1 @@
-var mnemonic = "vintage analyst hungry follow foot fine beyond clock video deer tone couch";
+var mnemonic = "pulp hub glow chapter soldier issue guess dish bullet genuine above suspect";

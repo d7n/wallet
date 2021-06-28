@@ -1,1 +1,1 @@
-var mnemonic = "pave mandate barrel rug usual pledge scout common sheriff orbit boring decorate";
+var mnemonic = "angle leopard boy public perfect learn unique hair emotion long hard scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "crack segment wish local bitter leave parrot warm crouch want never drama";
+var mnemonic = "disorder charge hello various struggle property similar mass skill cat comfort reveal";

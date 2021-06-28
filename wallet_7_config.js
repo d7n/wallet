@@ -1,1 +1,1 @@
-var mnemonic = "brother settle theme swear animal lab chair mean excite wood pioneer van";
+var mnemonic = "raise trip stove flight kingdom organ proud fatal impact wink awkward twist";

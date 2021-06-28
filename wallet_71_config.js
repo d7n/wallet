@@ -1,1 +1,1 @@
-var mnemonic = "medal holiday force chuckle rich planet coral kiwi prefer frequent song prefer";
+var mnemonic = "dawn record carpet okay goat fashion evoke bless oil rocket clap cabbage";

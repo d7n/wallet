@@ -1,1 +1,1 @@
-var mnemonic = "picture cigar simple asset palm used parrot can armed loop evil enact";
+var mnemonic = "favorite layer history normal over glove disease theme opinion number raccoon strike";

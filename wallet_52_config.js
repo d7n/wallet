@@ -1,1 +1,1 @@
-var mnemonic = "panther wink memory control monster rescue either plate champion route pipe weapon";
+var mnemonic = "canal resemble exhaust float route town romance surge lottery various drift hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "expire spend quit differ dragon figure document razor mirror actress stone length";
+var mnemonic = "rhythm myth tribe coral harsh federal lend quality raccoon then glass isolate";

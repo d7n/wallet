@@ -1,1 +1,1 @@
-var mnemonic = "blush keep claim infant puppy mother media reason kitchen august month affair";
+var mnemonic = "coach they average logic game chalk rifle own write thrive orange captain";

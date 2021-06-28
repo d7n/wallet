@@ -1,1 +1,1 @@
-var mnemonic = "then motion scene phone mask indoor grow high artefact eagle dust style";
+var mnemonic = "eyebrow yellow hurry dinner cigar flame radio caught mule seat arrest hurdle";

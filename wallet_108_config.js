@@ -1,1 +1,1 @@
-var mnemonic = "sponsor shiver reflect ostrich bean scorpion certain borrow ancient exact hamster table";
+var mnemonic = "dentist celery damp diet tower faint runway destroy enrich canyon explain good";

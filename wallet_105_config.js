@@ -1,1 +1,1 @@
-var mnemonic = "curve session cliff volume layer inhale all apology pull siege laptop update";
+var mnemonic = "need news bomb matrix vicious market bus kiwi confirm gap income brown";

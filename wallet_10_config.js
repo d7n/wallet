@@ -1,1 +1,1 @@
-var mnemonic = "lounge canvas bubble never mimic cake riot picnic photo dilemma fragile chaos";
+var mnemonic = "cheap burst ask crazy ancient burger force mom wagon pass turn ketchup";

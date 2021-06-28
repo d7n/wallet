@@ -1,1 +1,1 @@
-var mnemonic = "spell faith fiction grant seed theme minimum stone car devote term portion";
+var mnemonic = "drift minor often tree fabric remind team kiss general foam icon genre";

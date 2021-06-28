@@ -1,1 +1,1 @@
-var mnemonic = "invest bike vital write liar remain fitness clarify accuse field lemon nominee";
+var mnemonic = "sound rude magnet local sentence nominee among leave thumb action ocean army";

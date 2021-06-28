@@ -1,1 +1,1 @@
-var mnemonic = "grain advance sustain process nasty oval canvas champion fly pizza bean ask";
+var mnemonic = "soccer voice wrap live rule clown visit control mule flight exist oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy tortoise deputy skirt piano swift crisp absurd people manual govern best";
+var mnemonic = "doll thought critic ranch minor over absent coconut gospel parade blouse apology";

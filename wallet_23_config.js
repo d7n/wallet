@@ -1,1 +1,1 @@
-var mnemonic = "burger album grit child club ripple link drive present witness network science";
+var mnemonic = "candy toy write double height neither wagon define pave topic flower lottery";

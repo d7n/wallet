@@ -1,1 +1,1 @@
-var mnemonic = "photo heavy proud script surround coin insane solve market neither stock argue";
+var mnemonic = "rescue zebra inner helmet shallow blue mushroom sweet obvious year brush shadow";

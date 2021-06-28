@@ -1,1 +1,1 @@
-var mnemonic = "unfair forest strong doctor fish among gas sing soap size dream stomach";
+var mnemonic = "tenant wheel cry level notable avoid barrel unaware sell silver protect belt";

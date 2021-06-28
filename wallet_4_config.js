@@ -1,1 +1,1 @@
-var mnemonic = "gloom occur situate trash all focus online art lens enforce strike post";
+var mnemonic = "symptom zebra paper skull club glow flash notable fortune diesel transfer motion";

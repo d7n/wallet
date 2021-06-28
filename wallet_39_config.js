@@ -1,1 +1,1 @@
-var mnemonic = "winter pledge swear inch drill hybrid property penalty hungry run almost easy";
+var mnemonic = "media stay project jungle enrich sand ghost custom female best coin left";

@@ -1,1 +1,1 @@
-var mnemonic = "tent argue prison endless cheap parent draw quote valid mention ship ill";
+var mnemonic = "unique jeans hedgehog forget normal year corn frost trap summer scare ancient";

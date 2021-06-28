@@ -1,1 +1,1 @@
-var mnemonic = "pull wool ribbon that team phone illegal age test one club lift";
+var mnemonic = "two primary quality adult size beyond disorder acid merit consider wave shrug";

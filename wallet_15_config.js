@@ -1,1 +1,1 @@
-var mnemonic = "deliver dirt fortune museum crouch pass aspect ring alcohol bracket noble brass";
+var mnemonic = "dirt claw best clinic comfort kitchen call breeze loan toy flip relax";

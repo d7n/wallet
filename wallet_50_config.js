@@ -1,1 +1,1 @@
-var mnemonic = "goat hobby delay point cabin empty glow wear crowd mystery glow board";
+var mnemonic = "jaguar exclude powder argue spider obvious parent legend remind electric oil quarter";

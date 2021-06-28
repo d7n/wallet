@@ -1,1 +1,1 @@
-var mnemonic = "once narrow nature panda gift turtle early kit banner episode play daring";
+var mnemonic = "catch release town tool ribbon soon invite bounce leg vacuum civil among";

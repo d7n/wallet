@@ -1,1 +1,1 @@
-var mnemonic = "high toddler regular liquid alien roof again exclude sting page february first";
+var mnemonic = "weekend inflict drop stick raven episode never number pause motion chef once";

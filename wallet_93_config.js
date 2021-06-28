@@ -1,1 +1,1 @@
-var mnemonic = "desk cigar because blue code such culture bitter ceiling taxi final transfer";
+var mnemonic = "strong tobacco seat behave hockey attend dash chicken surround hub brain mask";

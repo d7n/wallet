@@ -1,1 +1,1 @@
-var mnemonic = "symbol devote deliver auto sense result you rose life lucky comfort banner";
+var mnemonic = "gold code person sand clown wreck trigger kid front also sponsor pistol";

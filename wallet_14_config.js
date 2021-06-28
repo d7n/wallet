@@ -1,1 +1,1 @@
-var mnemonic = "amount member gauge power mouse village next leopard flock humor bargain web";
+var mnemonic = "neck tackle core monkey inherit obtain cousin chapter response style rural odor";

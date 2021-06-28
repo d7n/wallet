@@ -1,1 +1,1 @@
-var mnemonic = "six tired collect symptom gravity brand legend cluster potato woman donate maximum";
+var mnemonic = "tube kingdom neglect stamp fashion easily strike donkey sock burst ridge what";

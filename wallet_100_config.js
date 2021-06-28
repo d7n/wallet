@@ -1,1 +1,1 @@
-var mnemonic = "submit rice rather leader try peace express teach nation bus weasel elevator";
+var mnemonic = "supply laugh tackle despair push birth moment grocery gain soda glimpse planet";

@@ -1,1 +1,1 @@
-var mnemonic = "also sweet tower invite cloud include tomorrow pledge slice use regular craft";
+var mnemonic = "educate delay actual apology remove town rally jeans cage often toe chapter";

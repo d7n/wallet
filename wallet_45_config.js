@@ -1,1 +1,1 @@
-var mnemonic = "girl mammal box plug awful cliff thought fire course joy mosquito radio";
+var mnemonic = "silk spell stay arctic burger banner arena december earn basket educate wide";

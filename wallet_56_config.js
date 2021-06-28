@@ -1,1 +1,1 @@
-var mnemonic = "return about frequent feed panda cannon click local deputy solve planet library";
+var mnemonic = "miracle upset body faint hair rough garage version try domain sail fly";

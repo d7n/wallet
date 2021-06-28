@@ -1,1 +1,1 @@
-var mnemonic = "puppy fruit rookie real crime spice animal fire swap region invest kick";
+var mnemonic = "special ahead ill feed coin tip grant fun swing sea nest local";

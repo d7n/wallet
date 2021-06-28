@@ -1,1 +1,1 @@
-var mnemonic = "dice enemy leave neglect quarter daughter verify unique demise flash gather human";
+var mnemonic = "annual between visit clump promote venture chimney unfair hunt right list usual";

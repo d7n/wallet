@@ -1,1 +1,1 @@
-var mnemonic = "exclude antique game oak verify hard shed later cabin defense dirt decorate";
+var mnemonic = "casual about glow sign scout actor believe couple divide perfect galaxy spoon";

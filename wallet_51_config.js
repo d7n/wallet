@@ -1,1 +1,1 @@
-var mnemonic = "frequent wash summer dutch hockey fire rain snack tail umbrella body gown";
+var mnemonic = "civil true cement north round paper cross segment illegal sausage capable chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry else toast vault aunt boost flight actual speak obvious kick metal";
+var mnemonic = "boring essence afford gossip elevator buyer donate actual teach trim work auction";

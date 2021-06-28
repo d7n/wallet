@@ -1,1 +1,1 @@
-var mnemonic = "play useless random tent sure phone ready casual already ketchup toast upon";
+var mnemonic = "wolf inner grain sorry warrior emerge meat voice chicken hen debate film";

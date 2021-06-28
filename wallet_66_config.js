@@ -1,1 +1,1 @@
-var mnemonic = "stove receive zoo alone metal anger mutual ticket box history mutual invite";
+var mnemonic = "permit goat arena photo equip tower comic portion try torch clip double";

@@ -1,1 +1,1 @@
-var mnemonic = "keep steel festival attack note lizard action utility genuine rule hole employ";
+var mnemonic = "leg special kit erupt crater suggest slow speed purity fun aware oxygen";

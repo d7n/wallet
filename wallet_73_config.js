@@ -1,1 +1,1 @@
-var mnemonic = "silver toast tornado cram regular series head suffer laptop rug shop feel";
+var mnemonic = "today vintage survey daring damage leopard mixture frame access club royal warm";

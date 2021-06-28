@@ -1,1 +1,1 @@
-var mnemonic = "debate egg flight jaguar hold guitar soul ankle token cheap picture robust";
+var mnemonic = "easy faculty allow rely initial library food potato ecology avocado tower twenty";

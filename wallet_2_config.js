@@ -1,1 +1,1 @@
-var mnemonic = "bless scan feel gas diet joy together faith betray jeans uncover jungle";
+var mnemonic = "beach vicious side purse silent crisp wire bird flush hidden find appear";

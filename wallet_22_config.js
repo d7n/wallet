@@ -1,1 +1,1 @@
-var mnemonic = "unit want witness middle merit city cycle van grape tumble people switch";
+var mnemonic = "uncover rigid enjoy voice interest normal labor stone inquiry cricket goose admit";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp property ladder pretty latin unfold auction shrimp travel pool auto orchard";
+var mnemonic = "sure birth atom mind lawsuit runway glory barrel chat dynamic crime venture";

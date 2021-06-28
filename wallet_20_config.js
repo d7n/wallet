@@ -1,1 +1,1 @@
-var mnemonic = "topic hollow friend mass scare oblige cheese disease earn february wolf faculty";
+var mnemonic = "flight essence caution resemble odor draw swamp shrimp number fence female pen";

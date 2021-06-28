@@ -1,1 +1,1 @@
-var mnemonic = "crash envelope cactus warrior neutral oven fuel average stay size comic coyote";
+var mnemonic = "draw confirm dumb apple ordinary middle body actor solve drift peasant sport";

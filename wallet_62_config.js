@@ -1,1 +1,1 @@
-var mnemonic = "quantum process breeze apart black only style tomato beach fiction that animal";
+var mnemonic = "anger magnet staff upset only adjust chief group fitness wedding vocal egg";

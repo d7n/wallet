@@ -1,1 +1,1 @@
-var mnemonic = "subway swap outside lucky father arena solution educate input put expect help";
+var mnemonic = "bargain defy sing lesson betray host invite find skin room sorry need";

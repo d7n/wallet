@@ -1,1 +1,1 @@
-var mnemonic = "marine manual episode core elbow fence nose era fiction okay satisfy service";
+var mnemonic = "often olive cabbage opinion deal memory win stand bunker market lunar lunch";

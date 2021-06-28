@@ -1,1 +1,1 @@
-var mnemonic = "dance edit boy debate discover frost vital length theme heart good clever";
+var mnemonic = "coin indicate code afford sibling oak tone figure popular crouch keep current";

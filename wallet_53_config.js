@@ -1,1 +1,1 @@
-var mnemonic = "plastic present birth wood slam skill tenant cactus need address quote beach";
+var mnemonic = "link nature just wrestle scale stand clerk chair payment across vital gather";

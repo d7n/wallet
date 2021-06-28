@@ -1,1 +1,1 @@
-var mnemonic = "right creek client myth return modify taxi tape castle moral cram diesel";
+var mnemonic = "rookie track across hover wedding public clay prevent staff patrol heavy hair";

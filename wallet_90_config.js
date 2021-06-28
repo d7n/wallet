@@ -1,1 +1,1 @@
-var mnemonic = "snow arrest someone oyster right quantum mystery hello monitor leopard aerobic illness";
+var mnemonic = "harsh bonus festival extend radar connect alarm rocket achieve choice wisdom stick";

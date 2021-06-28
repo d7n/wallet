@@ -1,1 +1,1 @@
-var mnemonic = "west stomach whale upon cement section garment enact scatter coach subject erosion";
+var mnemonic = "amount repeat alpha print coffee nominee inquiry degree come crop ketchup mountain";

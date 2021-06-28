@@ -1,1 +1,1 @@
-var mnemonic = "dance rule diesel heart child harsh easily head strong size sand clog";
+var mnemonic = "dry beef steel mule narrow wealth vicious gold lottery live bottom cover";

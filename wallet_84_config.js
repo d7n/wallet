@@ -1,1 +1,1 @@
-var mnemonic = "crystal noise boss surround extra undo amount walnut network food this quit";
+var mnemonic = "chat orient cannon radio word tiger glide flip lazy broom alien catch";

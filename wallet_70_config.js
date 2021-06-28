@@ -1,1 +1,1 @@
-var mnemonic = "hundred kid brain warrior horn knee vanish screen top violin hover chaos";
+var mnemonic = "wrap shaft high frog panda cross shrimp bench spare moral slice logic";

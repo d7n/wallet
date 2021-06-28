@@ -1,1 +1,1 @@
-var mnemonic = "uphold crash gentle vanish nation eye churn gown slide entry grape aunt";
+var mnemonic = "merit solid know behave lemon dismiss deer few april liar runway project";

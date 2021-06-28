@@ -1,1 +1,1 @@
-var mnemonic = "urban armed deer lawsuit dinner pact stay predict toast lunch tennis hurdle";
+var mnemonic = "guide gaze share ahead install admit stomach sibling aerobic umbrella eagle rack";

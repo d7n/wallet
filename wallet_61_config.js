@@ -1,1 +1,1 @@
-var mnemonic = "farm reform farm fragile tobacco nurse drama excess spirit under such once";
+var mnemonic = "about puppy coil ceiling journey quality master silk where course cabin cost";

@@ -1,1 +1,1 @@
-var mnemonic = "wash swamp job manual rail marble strong follow wire into dinosaur tray";
+var mnemonic = "peace when bid voyage explain camp tackle excite timber amazing tackle age";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious various echo among during gate ceiling thought suit width drastic present";
+var mnemonic = "corn shove toe bachelor forget barely universe text guard shrimp bubble glad";

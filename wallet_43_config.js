@@ -1,1 +1,1 @@
-var mnemonic = "sheriff faculty busy valid merry brass vocal shed room link tide upon";
+var mnemonic = "humor segment input sadness dentist mixed topic inhale fashion pact group trophy";

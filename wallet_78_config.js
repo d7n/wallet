@@ -1,1 +1,1 @@
-var mnemonic = "feature domain cigar crucial pond sick clip riot praise manage violin ribbon";
+var mnemonic = "subway exchange frown expose lava awesome devote elite piano twin fault rapid";

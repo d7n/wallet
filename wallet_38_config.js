@@ -1,1 +1,1 @@
-var mnemonic = "ahead impose become pave face shield actor fault manual click chef deputy";
+var mnemonic = "learn insect trend ugly point deny thank leisure confirm owner argue end";

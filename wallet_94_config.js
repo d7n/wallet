@@ -1,1 +1,1 @@
-var mnemonic = "similar stand swift harbor visual exchange offer involve tail still expand winner";
+var mnemonic = "cloth fit age kangaroo amazing banner country fan stool diet maid bachelor";

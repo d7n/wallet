@@ -1,1 +1,1 @@
-var mnemonic = "fiscal sign used sound cannon sock occur blossom fragile olive gap tide";
+var mnemonic = "loyal faint wisdom public agent picture cash reduce math library dish hero";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet veteran breeze purpose hunt pave mushroom stock mansion orphan shrug peace";
+var mnemonic = "oval comic notable amount body jacket narrow pilot buddy rent cram permit";

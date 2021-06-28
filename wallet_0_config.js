@@ -1,1 +1,1 @@
-var mnemonic = "tourist slogan gate eight finish year aware amazing road aim crazy film";
+var mnemonic = "access process host used spatial dwarf sample gather ten crawl search egg";
