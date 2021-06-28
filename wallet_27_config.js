@@ -1,1 +1,1 @@
-var mnemonic = "muffin peasant food space mask puppy segment culture truck noodle beef ball";
+var mnemonic = "kite girl arrange remember trick purchase tip pottery fun offer hamster ladder";

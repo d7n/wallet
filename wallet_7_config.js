@@ -1,1 +1,1 @@
-var mnemonic = "inner choice awake capital into earth virtual century able charge box doctor";
+var mnemonic = "bleak ecology hand dinner road eight salt pig forget raise outdoor thank";

@@ -1,1 +1,1 @@
-var mnemonic = "manage fashion achieve faint hunt brief novel robot enter tooth control ask";
+var mnemonic = "title club hole shadow axis jewel snack luggage paddle cry indicate kitten";

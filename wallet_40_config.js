@@ -1,1 +1,1 @@
-var mnemonic = "artwork giggle pretty game child inspire try corn friend win number describe";
+var mnemonic = "silent swim eager soldier farm ostrich father cruise gloom captain range obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury connect dance renew forget pyramid angry tragic loyal legend bullet kitten";
+var mnemonic = "steak cube much load scale undo flip leave artwork coil cement river";

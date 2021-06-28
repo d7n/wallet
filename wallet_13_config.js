@@ -1,1 +1,1 @@
-var mnemonic = "fork wire interest defy abandon assault gym usual possible where open quantum";
+var mnemonic = "couch oven upset raven powder fantasy mask reduce drop fog luxury either";

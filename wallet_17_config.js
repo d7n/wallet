@@ -1,1 +1,1 @@
-var mnemonic = "olympic walnut give govern method doctor twelve fiber hire quiz mad submit";
+var mnemonic = "erase hungry upper camera grocery craft crew man web high devote device";

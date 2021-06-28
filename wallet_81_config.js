@@ -1,1 +1,1 @@
-var mnemonic = "piece scrap bind rifle truth slice pool earth top chalk imitate about";
+var mnemonic = "dress pig burst coffee annual crash craft exhaust crumble camp brain exile";

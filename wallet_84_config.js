@@ -1,1 +1,1 @@
-var mnemonic = "lyrics broken donkey dawn disease truck lift wet seed require battle shift";
+var mnemonic = "immune charge release delay unlock coffee share seed cement boring ozone verb";

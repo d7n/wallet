@@ -1,1 +1,1 @@
-var mnemonic = "flame kangaroo target orient bless expect buzz manual depart repeat now real";
+var mnemonic = "ride spray know morning this end finish swing alpha title prevent wedding";

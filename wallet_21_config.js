@@ -1,1 +1,1 @@
-var mnemonic = "amateur lunar reform bonus face coast zoo stumble laundry ordinary night aisle";
+var mnemonic = "absent lazy hover false slice stone easily vote dune resemble draw north";

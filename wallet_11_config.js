@@ -1,1 +1,1 @@
-var mnemonic = "crack lottery stumble april pottery critic use party spend exist ghost occur";
+var mnemonic = "ignore giggle skull tribe project globe spend cycle demise ghost angle auction";

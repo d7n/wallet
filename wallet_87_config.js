@@ -1,1 +1,1 @@
-var mnemonic = "fade trust junk lumber myth worth office domain trigger swallow night aisle";
+var mnemonic = "concert maple sell garage coach visit ostrich super error rack paper lucky";

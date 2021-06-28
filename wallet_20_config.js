@@ -1,1 +1,1 @@
-var mnemonic = "yard network seminar arch enjoy jazz dutch love utility paddle devote tired";
+var mnemonic = "unique normal file grunt question struggle meadow ugly exhaust waste steak legend";

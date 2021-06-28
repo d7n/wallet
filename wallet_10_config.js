@@ -1,1 +1,1 @@
-var mnemonic = "zoo tissue cinnamon enhance orange clump soon dose dose kitchen sick tooth";
+var mnemonic = "social night tired alert toss sea electric chase crash prevent cliff ankle";

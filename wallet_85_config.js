@@ -1,1 +1,1 @@
-var mnemonic = "whisper symptom risk inflict tip mountain shoe onion garage autumn differ run";
+var mnemonic = "garlic hour place report notice skull casino distance ball trash all dawn";

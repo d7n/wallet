@@ -1,1 +1,1 @@
-var mnemonic = "fiber river donkey decrease again control ship idea orchard curve sphere uncover";
+var mnemonic = "hawk eye pact adjust kite income embark blouse then quiz unit half";

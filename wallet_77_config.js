@@ -1,1 +1,1 @@
-var mnemonic = "unable crawl spring word amateur film december hint away puppy near night";
+var mnemonic = "fall stand theory know shoulder oval ocean rebuild sweet fresh become guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "century expand either absurd gasp nose network cruise found afford kingdom cruel";
+var mnemonic = "volcano hood possible skate detect maid swarm lend gaze lizard surprise voice";

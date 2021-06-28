@@ -1,1 +1,1 @@
-var mnemonic = "visa attract era expand correct debate autumn hole ring injury clean grocery";
+var mnemonic = "health egg hazard train salon inherit brave brief taste tiger category favorite";

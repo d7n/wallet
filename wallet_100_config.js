@@ -1,1 +1,1 @@
-var mnemonic = "discover live icon royal shield beauty toddler soccer reform song expect famous";
+var mnemonic = "attract fade test monster spot flag social cereal rate token daughter remind";

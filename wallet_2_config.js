@@ -1,1 +1,1 @@
-var mnemonic = "sick ribbon maze autumn replace belt phrase okay attend tent vivid novel";
+var mnemonic = "security fatal know view vacant together raven robust cost estate then gravity";

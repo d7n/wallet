@@ -1,1 +1,1 @@
-var mnemonic = "once cup accuse captain install baby country adapt penalty discover fence bargain";
+var mnemonic = "bubble orphan attitude wrong mammal eagle tackle slide foster bean trumpet uncover";

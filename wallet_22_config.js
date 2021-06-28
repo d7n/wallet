@@ -1,1 +1,1 @@
-var mnemonic = "admit clip rival turkey blossom street drive swarm tonight patch myself beyond";
+var mnemonic = "amazing palace diary digital disagree unusual cattle mean nut place hospital glide";

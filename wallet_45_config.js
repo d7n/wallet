@@ -1,1 +1,1 @@
-var mnemonic = "chalk illness veteran nation pioneer mask meadow ketchup uniform relief valve hire";
+var mnemonic = "sniff sleep current nurse domain opera box head sponsor fit electric skate";

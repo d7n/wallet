@@ -1,1 +1,1 @@
-var mnemonic = "arm lock will close scheme aunt job alter lens rude attack reform";
+var mnemonic = "couple flight alien fruit lesson supreme employ panic bless approve spy lesson";

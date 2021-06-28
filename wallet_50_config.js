@@ -1,1 +1,1 @@
-var mnemonic = "ostrich dial author apology hamster butter view decade credit reunion forum cross";
+var mnemonic = "bleak door rough volcano spread impulse bracket holiday mosquito casino yard cool";

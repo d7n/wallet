@@ -1,1 +1,1 @@
-var mnemonic = "vocal reflect green eight eager neck salute risk wheat void unit choice";
+var mnemonic = "just drama effort anchor bulb horse shoe life oxygen loyal evil explain";

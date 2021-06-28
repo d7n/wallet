@@ -1,1 +1,1 @@
-var mnemonic = "spice believe habit tiger hybrid rookie total chaos glow zone sail rotate";
+var mnemonic = "sense gossip nation dumb upgrade mobile same attack steel veteran educate hen";

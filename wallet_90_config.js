@@ -1,1 +1,1 @@
-var mnemonic = "soda conduct fever menu core correct burst dignity gym fall bring deal";
+var mnemonic = "describe obey cash mountain nature ginger boss deposit weather forest already energy";

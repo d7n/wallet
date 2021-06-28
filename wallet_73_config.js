@@ -1,1 +1,1 @@
-var mnemonic = "device dash mother firm magic parrot real lens myself inch carbon company";
+var mnemonic = "timber relax song select rely wave snake life helmet swing pipe crack";

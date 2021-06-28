@@ -1,1 +1,1 @@
-var mnemonic = "year habit nation allow gift warrior inner warrior marine acquire detail elegant";
+var mnemonic = "hurdle uniform parent cable cricket fashion lyrics render awesome clay gospel online";

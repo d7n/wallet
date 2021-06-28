@@ -1,1 +1,1 @@
-var mnemonic = "moon trouble faint source gauge dilemma surround grass hybrid paper ceiling space";
+var mnemonic = "crouch curtain fog thank adult spare sunny frame crouch evil movie hub";

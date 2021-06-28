@@ -1,1 +1,1 @@
-var mnemonic = "essence enroll calm mango issue east bench account video arrive choice what";
+var mnemonic = "wrestle kid witness miracle energy decorate nation model man peasant smile flush";

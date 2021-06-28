@@ -1,1 +1,1 @@
-var mnemonic = "trouble cool slogan husband master ill length dirt build sibling panel unveil";
+var mnemonic = "will royal blood super source element jelly open version stool nose clutch";

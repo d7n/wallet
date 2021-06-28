@@ -1,1 +1,1 @@
-var mnemonic = "task actor client choice water cup trust later wire property slide fluid";
+var mnemonic = "alone canal hollow seed train invest already cruise situate coin jaguar negative";

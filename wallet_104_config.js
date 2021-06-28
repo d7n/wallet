@@ -1,1 +1,1 @@
-var mnemonic = "drill matter august output twist access video morning subway credit carbon rescue";
+var mnemonic = "entire powder giant screen view shoot curtain cattle record kiwi claw element";

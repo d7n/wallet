@@ -1,1 +1,1 @@
-var mnemonic = "gym buffalo inmate oblige mercy clog core wave pen pole piano upset";
+var mnemonic = "urban lake buyer various injury shadow source ball execute bitter pigeon slim";

@@ -1,1 +1,1 @@
-var mnemonic = "rice shoot kitchen edit swarm globe olive sunny ship ugly leader believe";
+var mnemonic = "almost mercy organ drum mother sting grant million toddler fancy sunset fall";

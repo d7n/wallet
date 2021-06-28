@@ -1,1 +1,1 @@
-var mnemonic = "excite ignore tip toy minimum decline simple jazz whip kid flower resource";
+var mnemonic = "broom mystery airport grain inquiry scare home consider cabbage never assume light";

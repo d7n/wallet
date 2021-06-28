@@ -1,1 +1,1 @@
-var mnemonic = "adapt budget sell neutral adapt snow dad resist follow govern cake assault";
+var mnemonic = "cargo deposit stand core wild web olive slide lamp snack state forum";

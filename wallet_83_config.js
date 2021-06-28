@@ -1,1 +1,1 @@
-var mnemonic = "force tape toast coffee odor antenna vibrant about leg chief start reunion";
+var mnemonic = "tennis venture walnut clinic word rely prosper utility modify define suggest goat";

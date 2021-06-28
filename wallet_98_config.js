@@ -1,1 +1,1 @@
-var mnemonic = "begin insane cushion weasel able educate cattle sting earn discover jelly squeeze";
+var mnemonic = "attend valve skin kiss season mouse tone swear ready illness oppose spring";

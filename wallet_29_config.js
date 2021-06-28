@@ -1,1 +1,1 @@
-var mnemonic = "truth lumber knock tray harvest power diesel dose snow picnic chief about";
+var mnemonic = "legal profit garlic recall design disease rough fish purse off clay quarter";

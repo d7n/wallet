@@ -1,1 +1,1 @@
-var mnemonic = "rain struggle subject outdoor wash naive math victory gospel bracket rain vacuum";
+var mnemonic = "shield session breeze phone fix scissors tool enforce upper chimney small lecture";

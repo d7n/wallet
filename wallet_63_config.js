@@ -1,1 +1,1 @@
-var mnemonic = "miracle tide thought fruit approve juice tourist okay marriage knife hazard brass";
+var mnemonic = "ocean lava escape base wash avocado bonus cruel payment own social bleak";

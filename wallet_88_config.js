@@ -1,1 +1,1 @@
-var mnemonic = "egg satisfy fury today session bar large paper right humble number organ";
+var mnemonic = "music primary praise cabbage reflect cradle monster build bottom tomorrow bargain prison";

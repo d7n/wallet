@@ -1,1 +1,1 @@
-var mnemonic = "denial caught cluster album envelope soldier tool genuine general barrel stereo seek";
+var mnemonic = "polar reveal idea fluid situate drive clock common toddler fragile film like";

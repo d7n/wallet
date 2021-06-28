@@ -1,1 +1,1 @@
-var mnemonic = "ski matter cancel rough over repeat onion cradle dust super transfer surprise";
+var mnemonic = "nerve together shuffle race approve idea bar depth glad busy remove month";

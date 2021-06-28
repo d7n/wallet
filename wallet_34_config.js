@@ -1,1 +1,1 @@
-var mnemonic = "radio scissors bitter rapid season violin catch exhibit exotic film nothing box";
+var mnemonic = "web flush churn leader cousin crunch fiction dune bubble damage leave oxygen";

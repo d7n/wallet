@@ -1,1 +1,1 @@
-var mnemonic = "clinic fragile visa connect crazy artwork elbow police clever cancel unknown put";
+var mnemonic = "dilemma bulk legend grain index enough history citizen appear other size parrot";

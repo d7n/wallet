@@ -1,1 +1,1 @@
-var mnemonic = "silk prosper intact sentence indoor bone right enrich salt suffer lecture exist";
+var mnemonic = "foil sponsor true draft frown balance nasty vapor kind claim fan stove";

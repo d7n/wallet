@@ -1,1 +1,1 @@
-var mnemonic = "slot figure sting elevator input memory swim bus chunk clap shoot anxiety";
+var mnemonic = "clown security feed visa parent agree best soccer border aunt eternal canvas";

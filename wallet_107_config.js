@@ -1,1 +1,1 @@
-var mnemonic = "raise sell jewel stage seed prevent cigar alpha hip input upon conduct";
+var mnemonic = "jewel shop plastic announce clinic travel churn taste blanket appear attend fantasy";

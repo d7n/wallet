@@ -1,1 +1,1 @@
-var mnemonic = "subject enable trouble family across truth spray vicious blouse normal pink mind";
+var mnemonic = "version trouble describe truly obscure shove unfold page merge depth verb balcony";

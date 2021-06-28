@@ -1,1 +1,1 @@
-var mnemonic = "educate unveil grape damage solid huge blast fabric drive shield response change";
+var mnemonic = "place ceiling element food idle arm solar almost salt rice ramp digital";

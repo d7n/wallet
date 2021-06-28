@@ -1,1 +1,1 @@
-var mnemonic = "wet borrow spoil gauge virus canal defense ripple pumpkin shine track thumb";
+var mnemonic = "under squirrel torch win pioneer nice rally update brother unique shed staff";

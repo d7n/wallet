@@ -1,1 +1,1 @@
-var mnemonic = "find peasant double burger shrug drop program coral trumpet common direct pulse";
+var mnemonic = "notice easily height found normal deal wash elder blind found width mail";

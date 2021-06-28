@@ -1,1 +1,1 @@
-var mnemonic = "spray upgrade turtle reveal physical ticket pottery miss east picture great pattern";
+var mnemonic = "clump pause aisle glide jewel gain learn orphan then social play glad";

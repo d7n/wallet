@@ -1,1 +1,1 @@
-var mnemonic = "buddy axis solid pause hub spray mule music honey crouch ability practice";
+var mnemonic = "hurt wash city genre quarter help husband fabric because suffer choose illegal";

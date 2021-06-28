@@ -1,1 +1,1 @@
-var mnemonic = "injury gossip stumble grow wait miss worry grit kind trap plug machine";
+var mnemonic = "mimic advance patch key wrap awake type loud pledge carbon adapt near";

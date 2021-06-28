@@ -1,1 +1,1 @@
-var mnemonic = "behind document merit ripple canoe flush during vague parent gap hold nation";
+var mnemonic = "absorb ugly crucial desk staff shift increase pool hotel wrist photo explain";

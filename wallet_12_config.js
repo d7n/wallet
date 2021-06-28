@@ -1,1 +1,1 @@
-var mnemonic = "snack charge begin renew sustain bachelor ordinary diamond bid limit banner alarm";
+var mnemonic = "explain common twist outer erosion endorse cement invest never crack zoo forum";

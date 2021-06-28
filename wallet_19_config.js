@@ -1,1 +1,1 @@
-var mnemonic = "clinic food winner stadium congress peace shoot truck noise depend mosquito guilt";
+var mnemonic = "globe coast local prosper cotton type dust tool undo renew mad blouse";

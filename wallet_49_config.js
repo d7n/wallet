@@ -1,1 +1,1 @@
-var mnemonic = "pact captain super truth glimpse one mirror duck cactus resist shrimp about";
+var mnemonic = "spot vanish warfare welcome rib despair pulse matter rifle satisfy physical tribe";

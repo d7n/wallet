@@ -1,1 +1,1 @@
-var mnemonic = "random hope travel van winner spray build exercise tuna since mango fish";
+var mnemonic = "bronze endorse casual anchor various salute basic tide onion fork donor ancient";

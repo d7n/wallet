@@ -1,1 +1,1 @@
-var mnemonic = "fuel level discover genius brief motor rabbit history baby kick enroll mixture";
+var mnemonic = "security upon trigger cliff before raccoon blossom defense good absent critic auction";

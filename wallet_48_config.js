@@ -1,1 +1,1 @@
-var mnemonic = "armed dutch snow predict dumb need ancient file ship length frost corn";
+var mnemonic = "caution car vague cinnamon adapt type decrease unique notice all degree note";

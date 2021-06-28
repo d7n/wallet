@@ -1,1 +1,1 @@
-var mnemonic = "mammal lobster minor adjust tip link parent hello plunge burst useless hazard";
+var mnemonic = "dune try master rescue reflect shuffle true mass west cigar seminar proud";

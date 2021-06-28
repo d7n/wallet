@@ -1,1 +1,1 @@
-var mnemonic = "final second space yard enjoy orient exit orient leaf idea wagon marine";
+var mnemonic = "october ill burst wing husband project boss poverty safe cost employ actor";

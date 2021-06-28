@@ -1,1 +1,1 @@
-var mnemonic = "man oxygen gossip rookie rough blouse control mechanic food approve arrive section";
+var mnemonic = "steak marriage small syrup fold decrease else coffee element moral opera rich";

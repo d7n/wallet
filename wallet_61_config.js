@@ -1,1 +1,1 @@
-var mnemonic = "much win like heart easy yellow acid bronze adult unveil firm present";
+var mnemonic = "nothing brick patient head behave version laundry forward vague mention pigeon accident";

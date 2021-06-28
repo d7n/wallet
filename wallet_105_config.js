@@ -1,1 +1,1 @@
-var mnemonic = "expect afford grow before flush luggage lunar rebel bike borrow drop security";
+var mnemonic = "pencil case wire token coffee rack radar humor release leaf two polar";

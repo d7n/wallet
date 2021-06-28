@@ -1,1 +1,1 @@
-var mnemonic = "cheese fuel gossip warfare amateur road tray lizard hockey drop witness wisdom";
+var mnemonic = "reward desert divide normal fine ship cause drip giggle agent grocery have";

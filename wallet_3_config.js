@@ -1,1 +1,1 @@
-var mnemonic = "climb kitten motion glove measure size wrong shell finish code inside space";
+var mnemonic = "earth treat refuse elevator weather ill vibrant coffee siege again happy spread";

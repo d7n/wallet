@@ -1,1 +1,1 @@
-var mnemonic = "admit gap topple butter mountain upgrade aspect hand jump celery tennis similar";
+var mnemonic = "traffic eye silver lend audit inside section vibrant silver frequent winner eagle";

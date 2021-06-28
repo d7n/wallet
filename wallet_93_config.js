@@ -1,1 +1,1 @@
-var mnemonic = "weather beach safe oppose always live appear unhappy wage fluid leave grief";
+var mnemonic = "danger picnic solar lonely insect nephew ability inject link resist cross equip";

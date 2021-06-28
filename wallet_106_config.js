@@ -1,1 +1,1 @@
-var mnemonic = "mixed fetch prosper mango clarify wonder loan pact afraid south rely noble";
+var mnemonic = "during crystal bag forest mirror science what cause army prevent ten era";

@@ -1,1 +1,1 @@
-var mnemonic = "across cereal conduct sleep elder edit together nerve cupboard hybrid gasp company";
+var mnemonic = "cradle recall street hill quality soul have among inmate excess portion mean";

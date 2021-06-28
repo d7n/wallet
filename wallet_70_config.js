@@ -1,1 +1,1 @@
-var mnemonic = "lottery discover message pigeon design master dash best void sphere quality mass";
+var mnemonic = "impose faith wish burger toddler age decade huge cable strategy celery hunt";

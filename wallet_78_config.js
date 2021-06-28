@@ -1,1 +1,1 @@
-var mnemonic = "heart raise jaguar planet wall page raven sphere adjust skirt surround flight";
+var mnemonic = "disorder arrive pet august spike author supply age choose shift acquire thank";

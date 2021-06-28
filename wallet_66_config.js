@@ -1,1 +1,1 @@
-var mnemonic = "wheel vendor adapt buzz amused youth green liar tell broken knife already";
+var mnemonic = "oil please story tongue sea bus alley barrel display remain crystal cricket";

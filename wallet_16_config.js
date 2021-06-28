@@ -1,1 +1,1 @@
-var mnemonic = "shrug yellow bread trim above casual transfer cause lens leave lizard cabin";
+var mnemonic = "option kiwi recall clutch remain fossil proof rural dance noodle limb length";

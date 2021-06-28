@@ -1,1 +1,1 @@
-var mnemonic = "medal shrug shrimp mammal mimic hurt episode oxygen collect stem flash dance";
+var mnemonic = "trumpet tobacco purity survey silk leave frequent hood regret eight video soon";

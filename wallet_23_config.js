@@ -1,1 +1,1 @@
-var mnemonic = "drama often just winner where dirt limb play poem tip receive admit";
+var mnemonic = "timber truly pretty because actress race satoshi absorb simple note plug picnic";

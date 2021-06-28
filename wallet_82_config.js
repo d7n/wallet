@@ -1,1 +1,1 @@
-var mnemonic = "sugar notable peasant lock fox select flag measure double best hollow portion";
+var mnemonic = "also april casino adapt peasant struggle spray front lawn worry convince lumber";

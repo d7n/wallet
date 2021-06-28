@@ -1,1 +1,1 @@
-var mnemonic = "elder worth nothing slow universe black photo ball pass prison general trap";
+var mnemonic = "acoustic noise hazard tomato swing hobby lift history answer update slot main";

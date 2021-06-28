@@ -1,1 +1,1 @@
-var mnemonic = "offer tip drop hover pledge smart tail ship scissors soup tower kitten";
+var mnemonic = "reject crunch senior energy search mention ball country planet hundred curve romance";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve embark reform easy maximum night collect enrich ethics hire advice plunge";
+var mnemonic = "small moment excite rather decorate forget radar pipe excuse carpet same pigeon";

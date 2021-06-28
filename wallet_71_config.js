@@ -1,1 +1,1 @@
-var mnemonic = "company vital prison foster fortune carpet entire canyon issue category thank autumn";
+var mnemonic = "dose hazard invest congress ancient clinic brisk spawn gold invite fall host";

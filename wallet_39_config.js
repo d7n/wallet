@@ -1,1 +1,1 @@
-var mnemonic = "retreat sibling fence bonus gap food obvious poverty dilemma vacuum hurt neck";
+var mnemonic = "decorate pink equip frog upon shrimp dial wheat mouse note noise desert";

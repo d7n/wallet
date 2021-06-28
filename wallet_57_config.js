@@ -1,1 +1,1 @@
-var mnemonic = "then unaware hedgehog neck fish embrace seven cousin lend iron retreat excite";
+var mnemonic = "pyramid cash auction alert hockey feature vote grid art carry best connect";

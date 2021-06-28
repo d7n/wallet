@@ -1,1 +1,1 @@
-var mnemonic = "train update human tag guard forest supreme horror nasty dragon stamp rose";
+var mnemonic = "bind long loud chase pioneer siege bonus property extend increase decrease model";
