@@ -1,1 +1,1 @@
-var mnemonic = "couch oven upset raven powder fantasy mask reduce drop fog luxury either";
+var mnemonic = "tenant all gaze shrimp prefer save elephant anger buffalo dolphin subway naive";

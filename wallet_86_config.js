@@ -1,1 +1,1 @@
-var mnemonic = "trumpet tobacco purity survey silk leave frequent hood regret eight video soon";
+var mnemonic = "whip example obtain raccoon margin dolphin keen puzzle use caution purity mask";

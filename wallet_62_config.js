@@ -1,1 +1,1 @@
-var mnemonic = "foil sponsor true draft frown balance nasty vapor kind claim fan stove";
+var mnemonic = "cattle hand police planet spin business ginger remove armor pave slam couple";

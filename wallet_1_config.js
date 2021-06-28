@@ -1,1 +1,1 @@
-var mnemonic = "polar reveal idea fluid situate drive clock common toddler fragile film like";
+var mnemonic = "until adjust birth menu power permit answer hill arrange power swarm grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "ride spray know morning this end finish swing alpha title prevent wedding";
+var mnemonic = "quote paddle domain group total history exact rather soul alarm hospital funny";

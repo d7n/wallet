@@ -1,1 +1,1 @@
-var mnemonic = "urban lake buyer various injury shadow source ball execute bitter pigeon slim";
+var mnemonic = "finish glove hunt dismiss raise kid hill frame execute valve sound balance";

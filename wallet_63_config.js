@@ -1,1 +1,1 @@
-var mnemonic = "ocean lava escape base wash avocado bonus cruel payment own social bleak";
+var mnemonic = "similar anxiety axis dance small mixed since assume stay flip busy plate";

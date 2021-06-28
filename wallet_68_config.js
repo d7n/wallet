@@ -1,1 +1,1 @@
-var mnemonic = "volcano hood possible skate detect maid swarm lend gaze lizard surprise voice";
+var mnemonic = "later shaft permit electric category multiply sense sketch corn guitar theme wood";

@@ -1,1 +1,1 @@
-var mnemonic = "option kiwi recall clutch remain fossil proof rural dance noodle limb length";
+var mnemonic = "certain royal demand build grab ghost quit banner brave short recall nest";

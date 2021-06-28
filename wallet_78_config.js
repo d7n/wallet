@@ -1,1 +1,1 @@
-var mnemonic = "disorder arrive pet august spike author supply age choose shift acquire thank";
+var mnemonic = "bracket clutch health circle youth hub portion garment struggle absorb head flush";

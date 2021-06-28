@@ -1,1 +1,1 @@
-var mnemonic = "immune charge release delay unlock coffee share seed cement boring ozone verb";
+var mnemonic = "topic goat oxygen finger denial consider aisle atom cupboard tuna host city";

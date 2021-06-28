@@ -1,1 +1,1 @@
-var mnemonic = "social night tired alert toss sea electric chase crash prevent cliff ankle";
+var mnemonic = "receive tank mention enough rose critic fluid approve remain helmet paper deal";

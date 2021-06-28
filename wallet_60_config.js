@@ -1,1 +1,1 @@
-var mnemonic = "hurt wash city genre quarter help husband fabric because suffer choose illegal";
+var mnemonic = "park nut elephant differ decrease inform frozen dove effort elbow wave dad";

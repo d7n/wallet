@@ -1,1 +1,1 @@
-var mnemonic = "small moment excite rather decorate forget radar pipe excuse carpet same pigeon";
+var mnemonic = "salon direct couple toss any daughter glory harvest man defy parade marine";

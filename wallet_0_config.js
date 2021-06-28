@@ -1,1 +1,1 @@
-var mnemonic = "hawk eye pact adjust kite income embark blouse then quiz unit half";
+var mnemonic = "wheel cradle fame boss leaf abstract push chuckle olive silly illegal whip";

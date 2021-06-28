@@ -1,1 +1,1 @@
-var mnemonic = "cradle recall street hill quality soul have among inmate excess portion mean";
+var mnemonic = "refuse antique quit license enter syrup blind zoo lake body autumn antenna";

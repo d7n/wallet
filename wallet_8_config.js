@@ -1,1 +1,1 @@
-var mnemonic = "dilemma bulk legend grain index enough history citizen appear other size parrot";
+var mnemonic = "wait canvas coach churn filter glare alone advance odor denial valley miss";

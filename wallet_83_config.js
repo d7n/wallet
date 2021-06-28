@@ -1,1 +1,1 @@
-var mnemonic = "tennis venture walnut clinic word rely prosper utility modify define suggest goat";
+var mnemonic = "ticket fatal radar fade firm comfort step burden gun knee noise other";

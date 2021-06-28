@@ -1,1 +1,1 @@
-var mnemonic = "traffic eye silver lend audit inside section vibrant silver frequent winner eagle";
+var mnemonic = "grocery large believe age frozen calm skin lawsuit share vanish iron injury";

@@ -1,1 +1,1 @@
-var mnemonic = "under squirrel torch win pioneer nice rally update brother unique shed staff";
+var mnemonic = "tenant craft grow inmate return clay squeeze bless want sell pair toddler";

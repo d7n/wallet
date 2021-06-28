@@ -1,1 +1,1 @@
-var mnemonic = "sense gossip nation dumb upgrade mobile same attack steel veteran educate hen";
+var mnemonic = "thunder decrease second utility clutch jar find property regret orphan action dirt";

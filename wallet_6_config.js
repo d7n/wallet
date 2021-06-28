@@ -1,1 +1,1 @@
-var mnemonic = "mimic advance patch key wrap awake type loud pledge carbon adapt near";
+var mnemonic = "salute lounge barely patrol balcony recall limit refuse lottery section scheme fine";

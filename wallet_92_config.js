@@ -1,1 +1,1 @@
-var mnemonic = "weather phrase earn urban estate tornado aware eight parade there always paddle";
+var mnemonic = "flee napkin earth develop heavy number page caught jungle biology exile doctor";

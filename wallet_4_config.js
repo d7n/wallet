@@ -1,1 +1,1 @@
-var mnemonic = "grace prize used hair quantum valve leaf solution sign inform chimney repeat";
+var mnemonic = "flag rabbit prepare pond lonely brand tooth inhale worry penalty daring awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "erase hungry upper camera grocery craft crew man web high devote device";
+var mnemonic = "present expand there rally valid junk magic input cloud balance absorb original";

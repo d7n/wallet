@@ -1,1 +1,1 @@
-var mnemonic = "bleak ecology hand dinner road eight salt pig forget raise outdoor thank";
+var mnemonic = "lemon below question total estate teach object fun prefer drastic pony brave";

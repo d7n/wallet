@@ -1,1 +1,1 @@
-var mnemonic = "will royal blood super source element jelly open version stool nose clutch";
+var mnemonic = "evil mask wrestle drill poverty result buffalo noble boring source country border";

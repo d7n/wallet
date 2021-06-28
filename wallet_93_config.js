@@ -1,1 +1,1 @@
-var mnemonic = "danger picnic solar lonely insect nephew ability inject link resist cross equip";
+var mnemonic = "eager fatigue sunny demise best orient final swim correct science bronze used";

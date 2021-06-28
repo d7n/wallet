@@ -1,1 +1,1 @@
-var mnemonic = "roof gun home alarm annual mass asthma half can amused seed salmon";
+var mnemonic = "balance asset upset grunt side nuclear holiday garden address crunch object member";

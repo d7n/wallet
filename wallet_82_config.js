@@ -1,1 +1,1 @@
-var mnemonic = "also april casino adapt peasant struggle spray front lawn worry convince lumber";
+var mnemonic = "together swarm noise nut rebuild sun neck alcohol oak riot check system";

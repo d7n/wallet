@@ -1,1 +1,1 @@
-var mnemonic = "version trouble describe truly obscure shove unfold page merge depth verb balcony";
+var mnemonic = "ski spy fame future object sketch mom bamboo traffic drop place waste";

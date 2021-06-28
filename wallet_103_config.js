@@ -1,1 +1,1 @@
-var mnemonic = "hurdle uniform parent cable cricket fashion lyrics render awesome clay gospel online";
+var mnemonic = "athlete doctor rice network build pear noise gaze sun acoustic airport expand";

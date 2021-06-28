@@ -1,1 +1,1 @@
-var mnemonic = "bubble orphan attitude wrong mammal eagle tackle slide foster bean trumpet uncover";
+var mnemonic = "trumpet panic quit dance recycle guard fiscal reunion invest assault afford slush";

@@ -1,1 +1,1 @@
-var mnemonic = "caution car vague cinnamon adapt type decrease unique notice all degree note";
+var mnemonic = "expire illegal pelican shuffle season gorilla opinion avoid crunch believe width case";

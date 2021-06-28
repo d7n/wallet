@@ -1,1 +1,1 @@
-var mnemonic = "shield session breeze phone fix scissors tool enforce upper chimney small lecture";
+var mnemonic = "scene olive win absent leisure rib alley jacket reopen army crush useful";

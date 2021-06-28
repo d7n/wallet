@@ -1,1 +1,1 @@
-var mnemonic = "notice easily height found normal deal wash elder blind found width mail";
+var mnemonic = "huge lemon portion mirror twelve boring holiday cattle word group parent safe";

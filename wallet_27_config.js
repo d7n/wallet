@@ -1,1 +1,1 @@
-var mnemonic = "kite girl arrange remember trick purchase tip pottery fun offer hamster ladder";
+var mnemonic = "invest swift derive vocal velvet zoo minute outdoor marble junior metal sorry";

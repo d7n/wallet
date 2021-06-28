@@ -1,1 +1,1 @@
-var mnemonic = "impose faith wish burger toddler age decade huge cable strategy celery hunt";
+var mnemonic = "early add crew essence sweet pact weird riot fresh common useless purchase";

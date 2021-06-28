@@ -1,1 +1,1 @@
-var mnemonic = "bronze endorse casual anchor various salute basic tide onion fork donor ancient";
+var mnemonic = "length powder document squirrel dutch spoil kit chief design humble steel daughter";

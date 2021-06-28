@@ -1,1 +1,1 @@
-var mnemonic = "dish funny crack gesture walnut lounge olympic credit party decorate intact flame";
+var mnemonic = "quote bachelor tiger medal engine bulk throw bullet gym antenna banana civil";

@@ -1,1 +1,1 @@
-var mnemonic = "describe obey cash mountain nature ginger boss deposit weather forest already energy";
+var mnemonic = "retreat dream quarter salmon margin donkey dismiss coach market stem vicious blast";

@@ -1,1 +1,1 @@
-var mnemonic = "announce ancient they patrol canyon dance spot survey valve metal use place";
+var mnemonic = "safe this notable autumn next actual antique lamp alien utility rural town";

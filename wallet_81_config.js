@@ -1,1 +1,1 @@
-var mnemonic = "dress pig burst coffee annual crash craft exhaust crumble camp brain exile";
+var mnemonic = "tail bitter mistake lizard spoon project cactus bring marble assault transfer million";

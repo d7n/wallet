@@ -1,1 +1,1 @@
-var mnemonic = "story share opera poverty album arena middle seminar palace allow rubber rural";
+var mnemonic = "hobby visa gospel reject cargo time rice obtain name rifle token twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "web settle lesson pen cloud hold aspect lawn media retire carpet civil";
+var mnemonic = "gallery chat skull since tuition olympic idea foil capable used wedding stove";

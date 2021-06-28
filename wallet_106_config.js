@@ -1,1 +1,1 @@
-var mnemonic = "during crystal bag forest mirror science what cause army prevent ten era";
+var mnemonic = "uphold always frog toddler salad mind nurse flavor cover cradle purchase half";

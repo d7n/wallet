@@ -1,1 +1,1 @@
-var mnemonic = "boat junk uncle nest cage size kitten general pony pencil typical clean";
+var mnemonic = "festival buffalo near federal actual pear blur oak pact couch sense tree";

@@ -1,1 +1,1 @@
-var mnemonic = "attract fade test monster spot flag social cereal rate token daughter remind";
+var mnemonic = "nurse forum rotate rail drop ticket easy mass human sentence toast screen";

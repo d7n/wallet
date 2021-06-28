@@ -1,1 +1,1 @@
-var mnemonic = "iron chunk anger vault zero defy horse skirt elder sock neutral domain";
+var mnemonic = "enlist exhaust angle rookie fitness pigeon put original remain scene book middle";

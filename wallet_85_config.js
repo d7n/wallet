@@ -1,1 +1,1 @@
-var mnemonic = "garlic hour place report notice skull casino distance ball trash all dawn";
+var mnemonic = "panther diet lottery blue jelly butter ankle glimpse hair mad inform equip";

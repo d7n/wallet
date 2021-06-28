@@ -1,1 +1,1 @@
-var mnemonic = "explain common twist outer erosion endorse cement invest never crack zoo forum";
+var mnemonic = "hundred couple drama ghost wide egg suffer reward gas waste bleak grocery";

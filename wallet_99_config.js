@@ -1,1 +1,1 @@
-var mnemonic = "task bamboo tuition aware broom limit delay hazard kitchen drama scorpion pride";
+var mnemonic = "inform entire urge gorilla surge year master keep avocado recycle transfer define";

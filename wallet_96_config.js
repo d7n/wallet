@@ -1,1 +1,1 @@
-var mnemonic = "person evoke pottery boil warfare sun cheese armor judge differ speak december";
+var mnemonic = "lyrics group topic excite member accuse law trust under true sugar fence";

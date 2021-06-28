@@ -1,1 +1,1 @@
-var mnemonic = "just drama effort anchor bulb horse shoe life oxygen loyal evil explain";
+var mnemonic = "version lawsuit slot child poverty jazz language patch virtual thought evolve small";

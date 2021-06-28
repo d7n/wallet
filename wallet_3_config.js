@@ -1,1 +1,1 @@
-var mnemonic = "earth treat refuse elevator weather ill vibrant coffee siege again happy spread";
+var mnemonic = "satisfy borrow bracket sign spin calm lens radio grant devote history simple";

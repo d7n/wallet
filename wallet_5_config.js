@@ -1,1 +1,1 @@
-var mnemonic = "health egg hazard train salon inherit brave brief taste tiger category favorite";
+var mnemonic = "ugly faculty salon fly control aunt estate follow chat usual tortoise motion";

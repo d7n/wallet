@@ -1,1 +1,1 @@
-var mnemonic = "legal profit garlic recall design disease rough fish purse off clay quarter";
+var mnemonic = "sad buddy rifle artist scan noble conduct spell lazy spread apple knife";

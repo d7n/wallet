@@ -1,1 +1,1 @@
-var mnemonic = "concert maple sell garage coach visit ostrich super error rack paper lucky";
+var mnemonic = "vanish august disagree stove often task short search dash suit inherit leaf";

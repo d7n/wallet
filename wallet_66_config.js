@@ -1,1 +1,1 @@
-var mnemonic = "oil please story tongue sea bus alley barrel display remain crystal cricket";
+var mnemonic = "grow claw drill remove bullet crush champion remind lava direct matrix faint";

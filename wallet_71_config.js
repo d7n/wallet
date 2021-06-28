@@ -1,1 +1,1 @@
-var mnemonic = "dose hazard invest congress ancient clinic brisk spawn gold invite fall host";
+var mnemonic = "unlock range grass myth muscle armor garage picnic lunar region crew comic";

@@ -1,1 +1,1 @@
-var mnemonic = "bind long loud chase pioneer siege bonus property extend increase decrease model";
+var mnemonic = "panda smile lobster define gorilla either breeze swap debris expose tent world";

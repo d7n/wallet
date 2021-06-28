@@ -1,1 +1,1 @@
-var mnemonic = "clown security feed visa parent agree best soccer border aunt eternal canvas";
+var mnemonic = "plate fiscal nice alarm chat diary quote fold flavor ghost nation confirm";

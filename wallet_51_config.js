@@ -1,1 +1,1 @@
-var mnemonic = "steak cube much load scale undo flip leave artwork coil cement river";
+var mnemonic = "coffee broken wheel rude useful spider congress dynamic price jaguar nuclear level";

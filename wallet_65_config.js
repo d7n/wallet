@@ -1,1 +1,1 @@
-var mnemonic = "security upon trigger cliff before raccoon blossom defense good absent critic auction";
+var mnemonic = "lounge another liquid need duck never between family sound impact claw dream";

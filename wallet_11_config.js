@@ -1,1 +1,1 @@
-var mnemonic = "ignore giggle skull tribe project globe spend cycle demise ghost angle auction";
+var mnemonic = "topic rug tip excite this silver position glass include tomato wave away";

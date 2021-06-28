@@ -1,1 +1,1 @@
-var mnemonic = "reward desert divide normal fine ship cause drip giggle agent grocery have";
+var mnemonic = "strike goddess viable style cross monitor knock gossip evoke glimpse sunny march";

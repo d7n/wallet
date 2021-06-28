@@ -1,1 +1,1 @@
-var mnemonic = "fall stand theory know shoulder oval ocean rebuild sweet fresh become guilt";
+var mnemonic = "wonder camera obvious service tuna thrive video empty illegal light wear day";

@@ -1,1 +1,1 @@
-var mnemonic = "attend valve skin kiss season mouse tone swear ready illness oppose spring";
+var mnemonic = "submit pond slot curve ghost cancel cruel rotate plug chalk quantum office";

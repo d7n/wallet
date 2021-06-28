@@ -1,1 +1,1 @@
-var mnemonic = "amazing palace diary digital disagree unusual cattle mean nut place hospital glide";
+var mnemonic = "document thought unable fade paddle home verify syrup jacket salt minimum bulk";

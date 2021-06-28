@@ -1,1 +1,1 @@
-var mnemonic = "reduce jealous wedding arrest bitter wing pen sort short heart spawn struggle";
+var mnemonic = "seven affair glass midnight bring neutral rib father border endorse dry friend";

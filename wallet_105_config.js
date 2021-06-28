@@ -1,1 +1,1 @@
-var mnemonic = "pencil case wire token coffee rack radar humor release leaf two polar";
+var mnemonic = "canvas settle eternal sand apple fun kiwi tomato city want brief tiger";

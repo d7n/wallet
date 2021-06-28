@@ -1,1 +1,1 @@
-var mnemonic = "crouch curtain fog thank adult spare sunny frame crouch evil movie hub";
+var mnemonic = "zero purpose hen guess nothing gloom run enrich rent observe idle hazard";

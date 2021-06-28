@@ -1,1 +1,1 @@
-var mnemonic = "timber relax song select rely wave snake life helmet swing pipe crack";
+var mnemonic = "orange recipe drastic blanket guard chuckle achieve charge visit guard control invest";

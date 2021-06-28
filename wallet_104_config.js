@@ -1,1 +1,1 @@
-var mnemonic = "entire powder giant screen view shoot curtain cattle record kiwi claw element";
+var mnemonic = "wolf onion install flavor gossip plunge library similar citizen cage scale usage";

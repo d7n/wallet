@@ -1,1 +1,1 @@
-var mnemonic = "timber truly pretty because actress race satoshi absorb simple note plug picnic";
+var mnemonic = "throw lesson enough pave acoustic blue truly balcony hole embark strong outer";

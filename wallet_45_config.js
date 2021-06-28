@@ -1,1 +1,1 @@
-var mnemonic = "sniff sleep current nurse domain opera box head sponsor fit electric skate";
+var mnemonic = "loud coast mistake foster beef sample unusual surface news banana parade scan";

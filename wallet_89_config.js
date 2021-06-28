@@ -1,1 +1,1 @@
-var mnemonic = "steak marriage small syrup fold decrease else coffee element moral opera rich";
+var mnemonic = "coin spoil evolve web symbol oil miracle hobby denial dinner goddess panic";

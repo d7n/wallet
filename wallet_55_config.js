@@ -1,1 +1,1 @@
-var mnemonic = "cargo deposit stand core wild web olive slide lamp snack state forum";
+var mnemonic = "worth grocery guess truly between blade carry enlist remain useless season hockey";

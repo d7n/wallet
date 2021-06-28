@@ -1,1 +1,1 @@
-var mnemonic = "wrestle kid witness miracle energy decorate nation model man peasant smile flush";
+var mnemonic = "cabbage mad firm artefact toilet sword patient flash quantum fork small banana";

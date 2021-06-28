@@ -1,1 +1,1 @@
-var mnemonic = "nothing brick patient head behave version laundry forward vague mention pigeon accident";
+var mnemonic = "mutual vacuum quarter episode spoon circle spider there luxury churn panic genuine";

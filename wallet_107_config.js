@@ -1,1 +1,1 @@
-var mnemonic = "jewel shop plastic announce clinic travel churn taste blanket appear attend fantasy";
+var mnemonic = "oppose mass comic differ evoke situate shrug lawsuit identify possible warrior blade";

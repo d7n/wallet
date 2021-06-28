@@ -1,1 +1,1 @@
-var mnemonic = "want gesture between all stock slice any way kick pause minute silent";
+var mnemonic = "hotel consider expand glue unfold truth safe scare zone craft abstract suggest";

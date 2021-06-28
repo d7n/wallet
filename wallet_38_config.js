@@ -1,1 +1,1 @@
-var mnemonic = "place ceiling element food idle arm solar almost salt rice ramp digital";
+var mnemonic = "fruit industry aware bounce poet sample fruit drive nominee armor pill stone";

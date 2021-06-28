@@ -1,1 +1,1 @@
-var mnemonic = "pupil vibrant buzz device dry pumpkin artefact lunar cruise kitten short vendor";
+var mnemonic = "border captain sing illegal little regular virtual hybrid enforce inherit boss blossom";

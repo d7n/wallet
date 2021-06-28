@@ -1,1 +1,1 @@
-var mnemonic = "security fatal know view vacant together raven robust cost estate then gravity";
+var mnemonic = "again close eternal submit pet crash basic narrow jealous tobacco view simple";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb ugly crucial desk staff shift increase pool hotel wrist photo explain";
+var mnemonic = "filter exercise palace maple tragic intact farm dizzy eye diagram butter useful";

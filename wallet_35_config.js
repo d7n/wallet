@@ -1,1 +1,1 @@
-var mnemonic = "debate void canvas moral wheat lift design trumpet else session trend recipe";
+var mnemonic = "vacant soul balcony history caution fantasy unlock effort critic notable surround slice";

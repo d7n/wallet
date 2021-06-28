@@ -1,1 +1,1 @@
-var mnemonic = "silent swim eager soldier farm ostrich father cruise gloom captain range obscure";
+var mnemonic = "put wheat weasel embody analyst unable spread zebra gate reject void syrup";

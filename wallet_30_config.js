@@ -1,1 +1,1 @@
-var mnemonic = "alone canal hollow seed train invest already cruise situate coin jaguar negative";
+var mnemonic = "drama ribbon immune you mother ice panel fantasy friend elegant rough first";

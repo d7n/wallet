@@ -1,1 +1,1 @@
-var mnemonic = "absent lazy hover false slice stone easily vote dune resemble draw north";
+var mnemonic = "faculty mass blossom flight wait disorder cake voice era diagram bomb tail";

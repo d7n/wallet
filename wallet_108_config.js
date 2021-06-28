@@ -1,1 +1,1 @@
-var mnemonic = "broom mystery airport grain inquiry scare home consider cabbage never assume light";
+var mnemonic = "actor anger iron height talk much charge gas measure census start broken";

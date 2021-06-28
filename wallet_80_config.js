@@ -1,1 +1,1 @@
-var mnemonic = "reject crunch senior energy search mention ball country planet hundred curve romance";
+var mnemonic = "desk resource ride dice sorry belt acoustic sight spread tennis abuse kid";

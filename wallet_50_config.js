@@ -1,1 +1,1 @@
-var mnemonic = "bleak door rough volcano spread impulse bracket holiday mosquito casino yard cool";
+var mnemonic = "city gain crash because decorate tank glue eternal seek prize wage tip";

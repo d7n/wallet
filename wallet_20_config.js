@@ -1,1 +1,1 @@
-var mnemonic = "unique normal file grunt question struggle meadow ugly exhaust waste steak legend";
+var mnemonic = "system hint slim brand remove bullet fantasy gift leaf opinion knock assault";

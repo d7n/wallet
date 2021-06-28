@@ -1,1 +1,1 @@
-var mnemonic = "music primary praise cabbage reflect cradle monster build bottom tomorrow bargain prison";
+var mnemonic = "note young fade lottery purchase fish trial margin clump mesh airport crane";

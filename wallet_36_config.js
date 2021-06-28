@@ -1,1 +1,1 @@
-var mnemonic = "couple flight alien fruit lesson supreme employ panic bless approve spy lesson";
+var mnemonic = "pill again crystal quiz acquire cram floor limb coil arctic mountain middle";

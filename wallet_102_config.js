@@ -1,1 +1,1 @@
-var mnemonic = "almost mercy organ drum mother sting grant million toddler fancy sunset fall";
+var mnemonic = "force artwork vibrant rhythm fee youth acquire erase move neglect home solid";

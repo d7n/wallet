@@ -1,1 +1,1 @@
-var mnemonic = "web flush churn leader cousin crunch fiction dune bubble damage leave oxygen";
+var mnemonic = "test hedgehog patient cave mule garden there route illness pilot timber subway";
