@@ -1,1 +1,1 @@
-var mnemonic = "coffee repair nuclear sponsor unfair verb struggle acquire tissue engine zebra wrist";
+var mnemonic = "another shoulder town evolve area flight green dolphin rookie final slush old";

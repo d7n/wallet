@@ -1,1 +1,1 @@
-var mnemonic = "quick body oak anchor fatal random knife exclude genius mistake quote grief";
+var mnemonic = "boy forget weird access seat limit tobacco bracket dice lemon inject alarm";

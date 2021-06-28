@@ -1,1 +1,1 @@
-var mnemonic = "cabin veteran program angle strong plate entire melody face curtain family ceiling";
+var mnemonic = "gym awkward ginger absent female magnet matter captain pool door soul evil";

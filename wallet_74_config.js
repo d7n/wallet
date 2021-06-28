@@ -1,1 +1,1 @@
-var mnemonic = "defense observe seek hen public beach brick timber donkey have picnic frozen";
+var mnemonic = "symptom drip timber session service truly gun apart universe cousin unfair any";

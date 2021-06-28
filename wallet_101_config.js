@@ -1,1 +1,1 @@
-var mnemonic = "move fall point gesture wrestle enter ordinary also offer news train taxi";
+var mnemonic = "mango click wage rabbit heart tape gospel unfair scheme achieve tower gain";

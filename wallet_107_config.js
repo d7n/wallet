@@ -1,1 +1,1 @@
-var mnemonic = "crouch dawn harsh sail fiscal solve offer open fade message toy now";
+var mnemonic = "combine wife device sport mistake senior kite disagree model episode excuse slogan";

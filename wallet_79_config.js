@@ -1,1 +1,1 @@
-var mnemonic = "father recipe cluster armor focus woman limit retire shell wood shove donate";
+var mnemonic = "bunker crop flip oppose sister crazy double cram quote surface obey document";

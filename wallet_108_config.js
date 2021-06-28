@@ -1,1 +1,1 @@
-var mnemonic = "lecture captain magnet remain depth casual panel play suggest turn pen range";
+var mnemonic = "foam tank proud bless attend search rough produce reopen tissue member slim";

@@ -1,1 +1,1 @@
-var mnemonic = "glove large sister acoustic salute job detail help rude distance process loop";
+var mnemonic = "script town picture squirrel mom phrase ball history lift phone depend gaze";

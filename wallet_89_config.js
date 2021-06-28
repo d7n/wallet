@@ -1,1 +1,1 @@
-var mnemonic = "genius just coconut injury undo movie multiply evoke tone frequent turn swim";
+var mnemonic = "acquire impulse check joy critic good barrel ability enrich deny enter portion";

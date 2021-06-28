@@ -1,1 +1,1 @@
-var mnemonic = "learn pass border loud era brave check fit guide frequent jazz empower";
+var mnemonic = "raise injury romance legend key play fade crime trade blush swamp question";

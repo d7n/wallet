@@ -1,1 +1,1 @@
-var mnemonic = "elegant leave step scene cable popular vessel document virus scene mimic life";
+var mnemonic = "must second insect leisure allow scissors first junior ski design acquire remove";

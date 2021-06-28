@@ -1,1 +1,1 @@
-var mnemonic = "foam gain dwarf estate can park write amused vault pen vessel lava";
+var mnemonic = "super foster cause symbol wood cabin scrub harbor wide express goddess firm";

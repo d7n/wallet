@@ -1,1 +1,1 @@
-var mnemonic = "energy rabbit pyramid giraffe flock update piano general include chaos horn alter";
+var mnemonic = "frog valley ring lift exchange since industry salute solution mixed accuse balance";

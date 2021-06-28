@@ -1,1 +1,1 @@
-var mnemonic = "clean noise nephew sudden doll surge slot shield fly pyramid device certain";
+var mnemonic = "exchange sad cause flat receive dawn leaf echo lava lecture local sail";

@@ -1,1 +1,1 @@
-var mnemonic = "photo core report reform treat parade cattle goose invite indoor attack fancy";
+var mnemonic = "noise merry drastic mule damp whale squeeze supply mask title wild poet";

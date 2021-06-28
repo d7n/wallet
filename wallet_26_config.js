@@ -1,1 +1,1 @@
-var mnemonic = "helmet later scale there mask coyote surprise east panda boy ride axis";
+var mnemonic = "swarm fold atom reduce sister spot nest exist tree leisure town choose";

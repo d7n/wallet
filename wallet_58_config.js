@@ -1,1 +1,1 @@
-var mnemonic = "eagle frown copy hold jar valve camera there sand spray indicate turkey";
+var mnemonic = "torch deny motor rabbit pattern make october garbage garage barely sunny denial";

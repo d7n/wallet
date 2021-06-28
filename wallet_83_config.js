@@ -1,1 +1,1 @@
-var mnemonic = "blind expect expose earth cotton episode cousin cat hotel copper one emerge";
+var mnemonic = "poet utility napkin crunch tired nasty curious rookie journey such flame soft";

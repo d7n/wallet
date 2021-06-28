@@ -1,1 +1,1 @@
-var mnemonic = "bird impose arena bamboo bamboo forward color clarify kiwi shock print divide";
+var mnemonic = "render border suit aspect canvas night genre custom wish voyage room teach";

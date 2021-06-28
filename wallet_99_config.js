@@ -1,1 +1,1 @@
-var mnemonic = "mouse arrest length monster fly stool more drop exercise faith always pig";
+var mnemonic = "myself giraffe two rookie among hero nature artwork dad harbor whip final";

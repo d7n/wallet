@@ -1,1 +1,1 @@
-var mnemonic = "supply sting orchard short fever jaguar demand acquire envelope section roof luxury";
+var mnemonic = "clay differ scan sugar dose soda avocado damp session devote marine salmon";

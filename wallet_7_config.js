@@ -1,1 +1,1 @@
-var mnemonic = "strike fan soft behave memory trust talent weather evidence pledge dizzy economy";
+var mnemonic = "world lesson shuffle simple finger federal depart morning buyer point high blouse";

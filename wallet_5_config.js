@@ -1,1 +1,1 @@
-var mnemonic = "trophy sound submit quote purpose slab dilemma tired cause rifle immense verb";
+var mnemonic = "maple human ramp venue soap ability supply annual mule summer easily romance";

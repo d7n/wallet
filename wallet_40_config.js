@@ -1,1 +1,1 @@
-var mnemonic = "mushroom inner pass office business tomato sweet shuffle dinner stick enlist attend";
+var mnemonic = "humor breeze hurdle size gas you climb vicious minor glide parent cram";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious lens brother leg bone unfold color baby wrestle toward baby shove";
+var mnemonic = "stick fiction attract scrap help trick clap water exit useful acoustic smile";

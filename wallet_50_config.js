@@ -1,1 +1,1 @@
-var mnemonic = "rough mango screen dress skirt affair turn hedgehog hundred rural salt spice";
+var mnemonic = "fix shrug found digital short vocal pond tongue group auction mosquito quit";

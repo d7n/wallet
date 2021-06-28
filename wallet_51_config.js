@@ -1,1 +1,1 @@
-var mnemonic = "situate afraid affair pulse arrow jacket equip pave edge grace profit empty";
+var mnemonic = "giant ensure illegal release recipe state word calm priority brisk south abstract";

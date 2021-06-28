@@ -1,1 +1,1 @@
-var mnemonic = "absurd crisp gather result dog attend toilet author tiny achieve oval foster";
+var mnemonic = "cattle body double come bus glide exclude elevator primary observe rubber unknown";

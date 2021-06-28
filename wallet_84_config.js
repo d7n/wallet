@@ -1,1 +1,1 @@
-var mnemonic = "cause twenty uniform solution crawl seat device soul mesh october pole comfort";
+var mnemonic = "assault link shrimp twenty trial predict camera quote dad magnet monkey upon";

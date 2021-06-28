@@ -1,1 +1,1 @@
-var mnemonic = "crouch dash auto park swamp trend ecology month main wood urge summer";
+var mnemonic = "only nurse grape merry garage option mule because festival expect divert card";

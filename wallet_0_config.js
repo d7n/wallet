@@ -1,1 +1,1 @@
-var mnemonic = "clock stand pull jar best pond shop south army battle tilt media";
+var mnemonic = "stereo various satoshi skin ugly panther creek vanish away dizzy west require";

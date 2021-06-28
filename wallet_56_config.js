@@ -1,1 +1,1 @@
-var mnemonic = "soap inject miss hobby marriage spoon talk gorilla nerve thank impact panther";
+var mnemonic = "search summer debate recycle spare quality wedding eight history excuse enhance forward";

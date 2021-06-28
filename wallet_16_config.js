@@ -1,1 +1,1 @@
-var mnemonic = "mansion unique bulb almost pulp own gym thunder scissors chuckle thumb seven";
+var mnemonic = "since drip win light brick obey pen staff lobster green wrong evoke";

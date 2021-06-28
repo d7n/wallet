@@ -1,1 +1,1 @@
-var mnemonic = "globe asthma wing program alien turn inside similar penalty income invite festival";
+var mnemonic = "habit shrimp swim dream attitude employ humble lab vague frown vendor country";

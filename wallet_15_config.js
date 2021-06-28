@@ -1,1 +1,1 @@
-var mnemonic = "will exist creek famous gloom movie square shy bracket retire short puzzle";
+var mnemonic = "total another dune reflect craft fever indoor fortune force unfair comfort resemble";

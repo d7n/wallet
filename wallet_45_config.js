@@ -1,1 +1,1 @@
-var mnemonic = "access congress tape travel stand tower fresh glad hundred broken argue exhibit";
+var mnemonic = "luxury wonder long twelve element rib sun leopard drama mother glide army";

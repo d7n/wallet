@@ -1,1 +1,1 @@
-var mnemonic = "dinner column boss nephew toward service icon pumpkin fence truth fresh inherit";
+var mnemonic = "siege into penalty erase attitude bulk green define lab nominee reduce today";

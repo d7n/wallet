@@ -1,1 +1,1 @@
-var mnemonic = "lottery apart alone craft foil arena bitter just curious leave danger avocado";
+var mnemonic = "year employ scan jaguar choose custom verify act cliff shoe achieve alter";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon useless worry ribbon priority usual prepare cricket sister prison olympic discover";
+var mnemonic = "limit rabbit luggage require first clerk hello solution forward rather hand glimpse";

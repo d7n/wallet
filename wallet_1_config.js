@@ -1,1 +1,1 @@
-var mnemonic = "enable depend category sponsor region stone beach impose report poem sell egg";
+var mnemonic = "wet mistake until cycle chef company beef ask trade craft deputy crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut state saddle balcony tobacco twelve frog code stock loud prize zoo";
+var mnemonic = "ritual vocal test usual wolf high crawl universe myth great reflect churn";

@@ -1,1 +1,1 @@
-var mnemonic = "chat merry carpet pill acoustic lunar badge tree educate diagram know topic";
+var mnemonic = "retire labor throw absurd traffic chuckle female guess wonder address polar perfect";

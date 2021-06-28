@@ -1,1 +1,1 @@
-var mnemonic = "width blame dignity lend sport stem fence cluster bleak clip upon swamp";
+var mnemonic = "lava ozone wear usage belt stool demise month pizza slam language share";

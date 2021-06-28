@@ -1,1 +1,1 @@
-var mnemonic = "elegant lounge practice oil room bacon dwarf solve spider enemy finish chunk";
+var mnemonic = "express web nuclear problem divorce observe victory fish hotel grab tired sketch";

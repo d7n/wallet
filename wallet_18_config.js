@@ -1,1 +1,1 @@
-var mnemonic = "gesture unlock fitness innocent happy immune merge color silent parent welcome tide";
+var mnemonic = "pyramid rural pink truck thumb cliff slight autumn iron debate prison penalty";

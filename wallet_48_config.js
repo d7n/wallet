@@ -1,1 +1,1 @@
-var mnemonic = "result turn federal future orient bundle repeat purpose laundry rice twin attend";
+var mnemonic = "region fold trip desert same three spend timber bounce burst erode curve";

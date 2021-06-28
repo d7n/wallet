@@ -1,1 +1,1 @@
-var mnemonic = "mention festival fatigue thank better square hood mass marriage wheel model brave";
+var mnemonic = "endless address desert like execute coin wealth minor frame nature teach mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "snack sing group penalty clump island cereal equal gate maximum regret arrest";
+var mnemonic = "result around raven either iron smooth logic miracle south erase alter cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic can crater smooth cat bicycle bike chief inspire music cook quiz";
+var mnemonic = "fiction song wage arrow wait brain nerve absurd engine sword dilemma tomato";

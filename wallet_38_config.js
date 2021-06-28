@@ -1,1 +1,1 @@
-var mnemonic = "parrot better equal fiscal embark radar love unhappy airport finger season mansion";
+var mnemonic = "sorry shove pet visit winner glass erode response budget robot there maximum";

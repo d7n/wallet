@@ -1,1 +1,1 @@
-var mnemonic = "educate mammal ensure join stand become pyramid swamp soon quick able stage";
+var mnemonic = "apology van thumb control exchange million mercy quote plunge limit person height";

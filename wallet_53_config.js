@@ -1,1 +1,1 @@
-var mnemonic = "office early vague inner sea frequent recycle quick satoshi blood idea velvet";
+var mnemonic = "test tell public pen jeans budget slice sustain exit stem embrace mechanic";

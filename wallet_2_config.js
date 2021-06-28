@@ -1,1 +1,1 @@
-var mnemonic = "subject picnic worry truly clog midnight stuff ripple volume clown master artwork";
+var mnemonic = "common truth either funny asset alarm secret crouch victory rely zebra bind";

@@ -1,1 +1,1 @@
-var mnemonic = "silver volcano winter wide minute glory math casual scan primary warfare blue";
+var mnemonic = "gasp soccer leaf poem write garbage young method spike grape pig border";

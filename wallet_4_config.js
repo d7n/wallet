@@ -1,1 +1,1 @@
-var mnemonic = "rhythm visit toddler scale fire gauge emotion pudding story tortoise siren soul";
+var mnemonic = "woman course sustain ready hub project ritual calm estate reason hidden ginger";

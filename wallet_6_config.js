@@ -1,1 +1,1 @@
-var mnemonic = "priority mad when pass question armor section dream actress ahead make spring";
+var mnemonic = "bag between public exchange drink goddess latin neither truly own journey praise";

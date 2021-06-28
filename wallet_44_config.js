@@ -1,1 +1,1 @@
-var mnemonic = "arena degree minor panda trigger estate matter sun taste useless throw symptom";
+var mnemonic = "pull laundry another under pig syrup skate middle gun aware below utility";

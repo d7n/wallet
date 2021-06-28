@@ -1,1 +1,1 @@
-var mnemonic = "ridge denial decrease limit crater cool giraffe rug dignity light rigid lucky";
+var mnemonic = "use run list problem tissue sugar choose dress receive result flower error";

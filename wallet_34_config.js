@@ -1,1 +1,1 @@
-var mnemonic = "slim alley carbon october pencil fever survey rack frown blue top depart";
+var mnemonic = "innocent pull wrestle left parrot potato rude weird ketchup error retire number";

@@ -1,1 +1,1 @@
-var mnemonic = "tail accident arm detect better kingdom domain large suffer develop doll win";
+var mnemonic = "hand tape super since frown erase hobby outer public wine lottery dwarf";

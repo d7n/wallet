@@ -1,1 +1,1 @@
-var mnemonic = "wink damp pull skate asthma quiz local chimney neck remind hidden close";
+var mnemonic = "party sibling trim critic feature key unfold blanket view infant muffin bicycle";

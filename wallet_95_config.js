@@ -1,1 +1,1 @@
-var mnemonic = "lizard table denial lonely dry woman square response ozone chronic derive crime";
+var mnemonic = "april shaft have high analyst tiger kitten mirror sponsor alley hollow crouch";

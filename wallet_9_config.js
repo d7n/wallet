@@ -1,1 +1,1 @@
-var mnemonic = "pond acid dinner peasant boil oyster jealous bring rose route midnight primary";
+var mnemonic = "dynamic impose sample sample desert secret bird sing shoe figure genuine term";

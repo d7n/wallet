@@ -1,1 +1,1 @@
-var mnemonic = "eight urge lizard valve kidney toe melody box bean book normal material";
+var mnemonic = "excess slam loud victory smoke chef wolf climb color leave goat grunt";

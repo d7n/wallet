@@ -1,1 +1,1 @@
-var mnemonic = "vacant obtain end shiver regular bunker gasp rookie shaft unlock amount dynamic";
+var mnemonic = "increase salad pool angry kiwi fever shuffle radar panda fan dance giant";

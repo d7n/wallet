@@ -1,1 +1,1 @@
-var mnemonic = "when arrive drill warfare any cup lock figure bargain ribbon hero lucky";
+var mnemonic = "actor list index attend snap receive road chaos breeze amazing coral gate";

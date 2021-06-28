@@ -1,1 +1,1 @@
-var mnemonic = "kidney chuckle humble client bamboo excite certain eternal desert hip isolate tool";
+var mnemonic = "rough fancy truck surface video tobacco announce change material grape grocery rain";

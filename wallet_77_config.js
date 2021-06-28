@@ -1,1 +1,1 @@
-var mnemonic = "decline sorry garbage another first tag must brain undo comfort glimpse symptom";
+var mnemonic = "grunt example dice teach mind beef rough clutch endorse luggage much donor";

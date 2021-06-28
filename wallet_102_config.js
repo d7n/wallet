@@ -1,1 +1,1 @@
-var mnemonic = "aspect same disorder fun lens just real shuffle tail ignore humble body";
+var mnemonic = "glide clerk leader sleep unveil finger sense few joke situate stumble vague";

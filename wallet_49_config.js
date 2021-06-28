@@ -1,1 +1,1 @@
-var mnemonic = "hill danger cradle dream cheap deer fancy clutch write creek fall what";
+var mnemonic = "travel garage dream lottery snow now garden enrich turn crisp lobster lake";

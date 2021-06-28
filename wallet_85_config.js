@@ -1,1 +1,1 @@
-var mnemonic = "raise father govern toilet nuclear connect manage shadow nurse taste act come";
+var mnemonic = "silk deputy lake tube demise phone news switch bargain vocal remove grain";

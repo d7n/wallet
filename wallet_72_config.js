@@ -1,1 +1,1 @@
-var mnemonic = "protect hammer ozone pudding dinosaur domain fossil biology claim title prison into";
+var mnemonic = "oil aunt surprise blue edit helmet aim task feature dash cherry whip";

@@ -1,1 +1,1 @@
-var mnemonic = "size end divorce target sausage assist vanish autumn west assume mass busy";
+var mnemonic = "near jar fly nerve evolve peanut chaos ice actress tell deputy live";

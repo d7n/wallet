@@ -1,1 +1,1 @@
-var mnemonic = "venture over fiction jar pet pear leopard talk invite glove olive access";
+var mnemonic = "mammal scare donor boat portion praise ramp audit clay castle umbrella destroy";

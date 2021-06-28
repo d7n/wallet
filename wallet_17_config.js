@@ -1,1 +1,1 @@
-var mnemonic = "primary napkin picture toss awesome winter paddle tell soap cabin answer infant";
+var mnemonic = "recycle awful illness tool wedding fold rent cradle invest length canyon good";

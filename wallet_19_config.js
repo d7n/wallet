@@ -1,1 +1,1 @@
-var mnemonic = "setup soccer human jewel effort also hero monitor coconut clog style cheese";
+var mnemonic = "wrestle vanish arm three mention usage tide million always flat gentle wedding";

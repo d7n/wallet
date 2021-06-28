@@ -1,1 +1,1 @@
-var mnemonic = "chunk sell today mixed memory boring require jealous link project always nothing";
+var mnemonic = "lobster solid awful brass profit bind ticket filter sock plastic update mercy";

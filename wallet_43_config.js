@@ -1,1 +1,1 @@
-var mnemonic = "cute milk online keen tumble renew common top phone volcano normal scan";
+var mnemonic = "note regular please elder load scene wrong neck egg knee decade plug";

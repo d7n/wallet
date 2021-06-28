@@ -1,1 +1,1 @@
-var mnemonic = "below window all stock layer subject opera bind inside siege step response";
+var mnemonic = "abuse post please december resource response acquire scatter someone evil similar deputy";

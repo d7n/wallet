@@ -1,1 +1,1 @@
-var mnemonic = "remember right wood indoor hair jar other evolve liquid group else nurse";
+var mnemonic = "awful virus torch unique appear gate stove come foam obscure shoe broken";

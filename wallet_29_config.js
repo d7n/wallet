@@ -1,1 +1,1 @@
-var mnemonic = "earth nest beach valley wife wood embrace dignity want silent flight rug";
+var mnemonic = "fault news panel legal gallery board knife paddle pulse measure cargo wrist";

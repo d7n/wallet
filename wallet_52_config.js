@@ -1,1 +1,1 @@
-var mnemonic = "trust member jeans receive surprise click sock early rhythm hill nature bronze";
+var mnemonic = "tribe jazz creek rug side media dish gloom liberty control pigeon buzz";

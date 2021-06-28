@@ -1,1 +1,1 @@
-var mnemonic = "emotion gasp second common episode carpet clerk repair essay myth extend capable";
+var mnemonic = "eight pilot vocal about half worth come universe interest bid gravity mandate";

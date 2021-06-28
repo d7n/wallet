@@ -1,1 +1,1 @@
-var mnemonic = "gravity enroll laugh expose legend lecture photo list topple struggle metal alter";
+var mnemonic = "quality garbage poet say silent rail among face setup jump bulk river";
