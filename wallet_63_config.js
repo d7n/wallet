@@ -1,1 +1,1 @@
-var mnemonic = "field jacket viable auction shock similar error copper this sport present like";
+var mnemonic = "learn blame vicious stone lab sport wheel fatal act unlock future check";

@@ -1,1 +1,1 @@
-var mnemonic = "regret can sail negative lyrics bag hero water host lumber ring steak";
+var mnemonic = "immune video hamster token sugar actor sign pulse twenty tank subway spoon";

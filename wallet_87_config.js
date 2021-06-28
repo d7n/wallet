@@ -1,1 +1,1 @@
-var mnemonic = "cage crouch spend favorite swift body hungry occur loyal shadow stove exhaust";
+var mnemonic = "spawn can flee topic atom special siege earth infant baby sight note";

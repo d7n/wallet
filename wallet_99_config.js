@@ -1,1 +1,1 @@
-var mnemonic = "alien upset wet shaft museum teach rice sun system fitness riot leg";
+var mnemonic = "favorite balcony subject asset want quality caught sphere endless harsh buzz joy";

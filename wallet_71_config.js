@@ -1,1 +1,1 @@
-var mnemonic = "claim train cart rookie find orient clog sleep hold moral hybrid begin";
+var mnemonic = "senior hand patient flat health retire heavy roast high accident tourist gasp";

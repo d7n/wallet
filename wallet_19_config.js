@@ -1,1 +1,1 @@
-var mnemonic = "tattoo cave affair brief crop latin tissue believe siege dragon market rural";
+var mnemonic = "cabin uncle castle lens raise oblige build flavor salad honey denial misery";

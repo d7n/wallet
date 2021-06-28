@@ -1,1 +1,1 @@
-var mnemonic = "despair brick bulb bulb wide middle skin autumn kid pelican nest change";
+var mnemonic = "manual combine add second digital sunset noble stamp mammal unaware vapor express";

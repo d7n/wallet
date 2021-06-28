@@ -1,1 +1,1 @@
-var mnemonic = "lounge knife skin square move brown gloom myth town sustain provide atom";
+var mnemonic = "increase visual street team online friend isolate enrich flag huge usage wink";

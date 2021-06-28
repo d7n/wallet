@@ -1,1 +1,1 @@
-var mnemonic = "tackle surround lazy urban lab total popular tent original author pelican boring";
+var mnemonic = "gaze real paddle palace remind famous horn siren wear grit corn tag";

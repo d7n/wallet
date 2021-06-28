@@ -1,1 +1,1 @@
-var mnemonic = "region dose combine cactus zone scout cube grunt traffic size shift struggle";
+var mnemonic = "exit kangaroo amazing knife rude lunar happy polar man tattoo heavy advice";

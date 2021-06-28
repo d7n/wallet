@@ -1,1 +1,1 @@
-var mnemonic = "remember shoulder jewel satoshi approve eye wagon voyage feature photo obtain sustain";
+var mnemonic = "hole silly want lady torch evoke pilot onion cancel boil immense solid";

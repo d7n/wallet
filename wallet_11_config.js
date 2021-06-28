@@ -1,1 +1,1 @@
-var mnemonic = "spray mirror artwork siege teach violin visit hungry diagram peanut phone bring";
+var mnemonic = "decorate shine boost talent maze turn blossom echo ability where mutual forum";

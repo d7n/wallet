@@ -1,1 +1,1 @@
-var mnemonic = "off brother march envelope goat remain safe impose corn leopard burst wise";
+var mnemonic = "devote sound piece image cabbage weird twist help beach frequent flame this";

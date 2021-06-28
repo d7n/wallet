@@ -1,1 +1,1 @@
-var mnemonic = "tone board wave you exclude glass dentist helmet seven anxiety humble spy";
+var mnemonic = "battle canvas rail guilt fresh hero fault medal wagon draft message divert";

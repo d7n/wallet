@@ -1,1 +1,1 @@
-var mnemonic = "chase three merge summer burst patch depth winter round taxi business faculty";
+var mnemonic = "filter sell dad fresh cigar moment various column invest switch give object";

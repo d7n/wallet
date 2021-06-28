@@ -1,1 +1,1 @@
-var mnemonic = "deposit great feature track test oven unfair mean common welcome human castle";
+var mnemonic = "aim tumble rough gallery mercy dish license tragic buffalo oak appear figure";

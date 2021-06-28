@@ -1,1 +1,1 @@
-var mnemonic = "behind field robust volume between deal verb despair fluid uncover elbow predict";
+var mnemonic = "song rate van viable brown rabbit father twenty wing dust snow rail";

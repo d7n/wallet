@@ -1,1 +1,1 @@
-var mnemonic = "screen enlist draw picnic genius junior rent angle help live yard thank";
+var mnemonic = "speed goose width unfold kangaroo toy leopard salad army remind media consider";

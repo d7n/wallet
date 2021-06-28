@@ -1,1 +1,1 @@
-var mnemonic = "diagram outdoor remember elegant solid light mesh walk virtual coast weird salmon";
+var mnemonic = "sock dial promote naive barrel polar control poem april mesh cannon crumble";

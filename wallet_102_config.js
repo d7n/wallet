@@ -1,1 +1,1 @@
-var mnemonic = "what near degree upper guard zone blanket label alert drama water caution";
+var mnemonic = "clay liberty choice stove oven enjoy float thumb mobile cradle correct stool";

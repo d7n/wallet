@@ -1,1 +1,1 @@
-var mnemonic = "lens claim bag benefit chair audit pave actress knife boil supply duty";
+var mnemonic = "hotel dawn ice salt violin prosper myth just divert salad attitude fee";

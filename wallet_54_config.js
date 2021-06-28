@@ -1,1 +1,1 @@
-var mnemonic = "steak coin tip chunk huge diet hair father clay expect invite whip";
+var mnemonic = "under coconut frog salute picnic glide apple script inside parent mixed medal";

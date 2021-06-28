@@ -1,1 +1,1 @@
-var mnemonic = "alpha health essay great foam pen tornado large eagle syrup hip enroll";
+var mnemonic = "thunder rocket harsh access bullet dismiss morning toast layer that voyage this";

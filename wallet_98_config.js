@@ -1,1 +1,1 @@
-var mnemonic = "bonus diary mercy valid hub kit hawk zoo pool sister blossom very";
+var mnemonic = "wash around journey cupboard wink catch bunker catch carpet useless hunt country";

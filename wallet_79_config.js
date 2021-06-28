@@ -1,1 +1,1 @@
-var mnemonic = "sample ready bar trim virus music spy daring rescue unable under relax";
+var mnemonic = "youth away alter smoke foil brave tragic duck brave donkey siren learn";

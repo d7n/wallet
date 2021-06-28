@@ -1,1 +1,1 @@
-var mnemonic = "poet since trick grid toward barely cost canvas cheap slot trust hunt";
+var mnemonic = "equal plastic gown column skate acoustic silk head gadget modify radio trip";

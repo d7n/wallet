@@ -1,1 +1,1 @@
-var mnemonic = "idle scrap artefact popular degree zone reject jacket write bundle slogan afraid";
+var mnemonic = "dance bullet combine wedding jeans outer arrest myth grant defy already usage";

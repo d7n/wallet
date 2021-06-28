@@ -1,1 +1,1 @@
-var mnemonic = "organ child employ long issue depend card office table satisfy pumpkin devote";
+var mnemonic = "apple team scan atom roof orbit company extra hello world lift never";

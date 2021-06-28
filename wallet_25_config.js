@@ -1,1 +1,1 @@
-var mnemonic = "dune letter vote rival glue shuffle fire hand drop drama rack remain";
+var mnemonic = "employ repair tribe axis girl despair kitchen antenna settle lyrics sphere cost";

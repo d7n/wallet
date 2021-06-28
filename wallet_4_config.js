@@ -1,1 +1,1 @@
-var mnemonic = "blind twice cricket spoon shift tent mind convince energy myself van swim";
+var mnemonic = "future purchase chalk reason fantasy thing organ tenant state friend torch lottery";

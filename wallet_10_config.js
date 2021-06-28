@@ -1,1 +1,1 @@
-var mnemonic = "tennis fat model cabin around basket drama pen supply barrel upset claw";
+var mnemonic = "embrace hood recipe you congress ice decorate force error chat trap odor";

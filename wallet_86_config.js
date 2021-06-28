@@ -1,1 +1,1 @@
-var mnemonic = "retire side cluster use remember usual impact observe north inject drift second";
+var mnemonic = "error slow cupboard used alley tonight clip garlic young stairs poem brisk";

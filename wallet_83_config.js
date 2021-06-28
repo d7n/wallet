@@ -1,1 +1,1 @@
-var mnemonic = "entry faculty route usage quarter arena sample lift mutual fault light kid";
+var mnemonic = "attend word fortune put bike edit you liar muffin cattle cheese glory";

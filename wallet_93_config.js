@@ -1,1 +1,1 @@
-var mnemonic = "robust alien winter circle trap since end border category setup wet cat";
+var mnemonic = "will language vibrant flush tortoise clown eternal ship access promote floor cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "smile settle pair dash gallery edit focus bacon easy finger room garbage";
+var mnemonic = "enact smart dice south inquiry saddle error marine between buffalo siege lamp";

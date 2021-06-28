@@ -1,1 +1,1 @@
-var mnemonic = "benefit purse issue tongue clip buyer unhappy thumb deny cargo birth theory";
+var mnemonic = "meat egg weekend diary trend filter recycle main wolf burst distance shield";

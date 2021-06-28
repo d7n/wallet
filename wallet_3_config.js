@@ -1,1 +1,1 @@
-var mnemonic = "flag ready cup keep book rabbit exotic sister govern behave spell champion";
+var mnemonic = "lion sure royal able stairs notable mix anchor pool sure gossip swarm";

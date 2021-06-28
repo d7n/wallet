@@ -1,1 +1,1 @@
-var mnemonic = "ticket reduce fatigue clock tenant scheme mail vacant stage interest hat album";
+var mnemonic = "drastic rhythm connect sword spin gun eye lonely machine elephant response citizen";

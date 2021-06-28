@@ -1,1 +1,1 @@
-var mnemonic = "tent priority media mad token aerobic shoot gloom invite divide desert opera";
+var mnemonic = "aunt jewel match enable sausage book recall tennis alone fancy edit monster";

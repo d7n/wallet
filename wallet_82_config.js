@@ -1,1 +1,1 @@
-var mnemonic = "derive salute apart grace cupboard syrup asthma float inflict view intact slide";
+var mnemonic = "elevator normal because angle book oyster system script liquid park weird swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon shaft song goddess tone price ranch defy domain pioneer apart betray";
+var mnemonic = "chef aerobic stereo lady burden face scheme silent age never frog broom";

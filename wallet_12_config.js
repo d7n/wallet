@@ -1,1 +1,1 @@
-var mnemonic = "squirrel long response innocent element keen rubber receive develop canoe same frog";
+var mnemonic = "act naive oven shy anger miracle critic actor lend small expand canal";

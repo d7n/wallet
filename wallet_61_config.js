@@ -1,1 +1,1 @@
-var mnemonic = "deposit lumber fire strategy rich wrestle squirrel below social garment poet extend";
+var mnemonic = "dentist purpose plunge illness wall couch quit follow title together swarm decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "despair green grunt during play market extra crash romance nasty measure job";
+var mnemonic = "seven coral next real fence scrap daring supreme immune hundred online mask";

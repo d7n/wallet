@@ -1,1 +1,1 @@
-var mnemonic = "piece save multiply response leave admit exist congress lonely nature boss image";
+var mnemonic = "elegant tunnel dinosaur parent cheese metal life inhale scheme afraid pact cross";

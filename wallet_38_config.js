@@ -1,1 +1,1 @@
-var mnemonic = "typical chest indicate organ tattoo topple federal senior upgrade only cement license";
+var mnemonic = "true actor alcohol tell senior blouse black insane claw hockey hidden canvas";

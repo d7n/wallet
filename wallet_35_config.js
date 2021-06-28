@@ -1,1 +1,1 @@
-var mnemonic = "document proof shadow aware meadow defense labor shed insect wire shy blur";
+var mnemonic = "victory viable bomb journey runway human deal never pony target quiz price";

@@ -1,1 +1,1 @@
-var mnemonic = "quit tell defense brown chunk emerge uphold garage figure stand tenant mercy";
+var mnemonic = "happy permit fever advance success physical depth sugar tomato ostrich demise neither";

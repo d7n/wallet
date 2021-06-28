@@ -1,1 +1,1 @@
-var mnemonic = "attack combine design stay dentist furnace seven ship mass arena cigar maple";
+var mnemonic = "produce toward bundle clean upper job yard oyster leader shaft meadow inside";

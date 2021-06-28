@@ -1,1 +1,1 @@
-var mnemonic = "announce mean fold lunch regular moment gorilla kingdom exit chef snack climb";
+var mnemonic = "inch control render sing share caught space estate nasty lonely mobile owner";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey glory canal crane shell execute pattern predict chimney space major suit";
+var mnemonic = "hope ceiling disagree invite silly black announce type dial addict vintage inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "gas harbor dune yard under amateur exercise moment mistake minimum twenty fiction";
+var mnemonic = "ship copy breeze curious odor genuine shell twice bottom universe funny lazy";

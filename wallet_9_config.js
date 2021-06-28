@@ -1,1 +1,1 @@
-var mnemonic = "absent shuffle since decrease life begin rice peasant ahead wet never elegant";
+var mnemonic = "length caught view style turtle coin soldier core spray tell claim swear";

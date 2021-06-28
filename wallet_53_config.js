@@ -1,1 +1,1 @@
-var mnemonic = "elbow park kingdom rabbit tuition heavy settle project fault repair kangaroo daring";
+var mnemonic = "fence guitar over vicious sudden clump mansion taste such conduct divorce genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage always vague fish cycle aunt pudding kick neither lake boy flower";
+var mnemonic = "around flag pudding puzzle boring desert flash outdoor glory you hat sunny";

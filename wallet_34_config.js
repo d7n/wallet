@@ -1,1 +1,1 @@
-var mnemonic = "stand earn unaware open stuff cricket east because jump home help layer";
+var mnemonic = "convince buzz confirm core more brick gauge pyramid hat vacant expire say";

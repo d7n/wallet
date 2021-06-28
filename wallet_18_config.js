@@ -1,1 +1,1 @@
-var mnemonic = "fruit south like public behind neither visual design excess clay blue wife";
+var mnemonic = "document trick assault harvest nose spare media conduct morning clump fiber drop";

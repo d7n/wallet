@@ -1,1 +1,1 @@
-var mnemonic = "friend pipe neither iron vault urge never screen example street joke margin";
+var mnemonic = "swarm such sell magic start correct section bus plastic prison parrot image";

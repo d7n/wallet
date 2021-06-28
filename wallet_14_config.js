@@ -1,1 +1,1 @@
-var mnemonic = "alpha pond jazz acquire problem attitude glow laptop fortune prison vicious dance";
+var mnemonic = "phrase earth imitate shoulder much exit patient marriage bitter blanket minor consider";

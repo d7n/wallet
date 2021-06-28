@@ -1,1 +1,1 @@
-var mnemonic = "dice poverty bus tree target castle wrist defy tongue seek thought slow";
+var mnemonic = "comfort throw tank raven exercise protect example drastic foster student pioneer wine";

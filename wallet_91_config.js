@@ -1,1 +1,1 @@
-var mnemonic = "local runway book divert cement reason rib stumble promote armor fuel tunnel";
+var mnemonic = "clutch repeat scorpion soldier pencil priority job frame nature virus glare walnut";

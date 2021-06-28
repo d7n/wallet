@@ -1,1 +1,1 @@
-var mnemonic = "thrive drive vicious finish earn rubber eight maze snack pink combine pilot";
+var mnemonic = "monster pilot improve used wait infant chef actual steel ski link purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "usage cinnamon scale myth vanish excite melt stand man judge social slim";
+var mnemonic = "awkward cabbage erase help present segment rather priority model relief present leave";

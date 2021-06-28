@@ -1,1 +1,1 @@
-var mnemonic = "popular you gesture rebel dinner flock lab head unveil absorb obvious push";
+var mnemonic = "grunt trip six people open rally motor staff diet walk mouse badge";

@@ -1,1 +1,1 @@
-var mnemonic = "target clap describe weird dance involve casino double law pig girl state";
+var mnemonic = "lizard brief utility artefact element catch bubble game key crouch napkin tattoo";

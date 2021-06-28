@@ -1,1 +1,1 @@
-var mnemonic = "trend slab car captain sponsor risk street under chase rival wagon cradle";
+var mnemonic = "recall eight torch giggle frog asthma never symbol float judge chair famous";

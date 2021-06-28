@@ -1,1 +1,1 @@
-var mnemonic = "height response flavor better grain orbit trophy hammer then view genius name";
+var mnemonic = "sail upon stool hero problem market insect bounce arrest shed emerge tattoo";

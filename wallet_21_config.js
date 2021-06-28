@@ -1,1 +1,1 @@
-var mnemonic = "dad dust broken nurse garbage rigid supply rule deliver spawn tomato ski";
+var mnemonic = "bonus around busy dad capital noodle drastic any barely vessel convince power";

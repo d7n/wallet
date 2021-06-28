@@ -1,1 +1,1 @@
-var mnemonic = "industry attract affair palace wolf clinic fork carpet abandon blouse fan grief";
+var mnemonic = "fame process duck include verify clever hurdle sleep scan fire sword orchard";

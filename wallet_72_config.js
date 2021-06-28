@@ -1,1 +1,1 @@
-var mnemonic = "wrap mule citizen come act siren slush remove bulk cross rain hover";
+var mnemonic = "venue snack ladder young fix knock relief mix praise left squirrel around";

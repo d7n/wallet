@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin resource north wear praise juice tail rain rose crime pottery romance";
+var mnemonic = "brave rule control cash sell crane library race taxi forget waste sister";

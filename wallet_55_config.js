@@ -1,1 +1,1 @@
-var mnemonic = "exit also thumb burger barely obvious lift blossom swift moral success thumb";
+var mnemonic = "faculty canal canoe veteran industry camera insane spell struggle family adapt foster";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor dragon carry surround camp tiger artwork false tiger head manage mind";
+var mnemonic = "resource fish book secret exercise image cluster emerge earn vendor sugar skin";

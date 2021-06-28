@@ -1,1 +1,1 @@
-var mnemonic = "cram turn frozen swarm dwarf canal scheme isolate stock fiscal trade message";
+var mnemonic = "beauty much turtle bulk maid inmate public issue zoo wrap know yard";

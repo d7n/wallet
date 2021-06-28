@@ -1,1 +1,1 @@
-var mnemonic = "arrow tribe hood leopard tackle grid enhance pluck estate amateur tilt color";
+var mnemonic = "thank knock fruit tuna regret solve secret oppose butter room twist magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid garage spawn thrive staff rare own release hedgehog dilemma scheme fatal";
+var mnemonic = "toe provide hunt indicate notable vicious become fit quality tribe ridge sell";

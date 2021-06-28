@@ -1,1 +1,1 @@
-var mnemonic = "first dial honey clay program quick fan endless inner garden pear tonight";
+var mnemonic = "gasp infant clip pyramid shift client obvious hard ankle unlock fluid donkey";

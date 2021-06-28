@@ -1,1 +1,1 @@
-var mnemonic = "risk boat define crush glove hamster raise mouse army behind brick pink";
+var mnemonic = "edit link gorilla album sphere quote knee angry twelve middle pitch planet";

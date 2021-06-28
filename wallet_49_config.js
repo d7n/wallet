@@ -1,1 +1,1 @@
-var mnemonic = "brief wild walk chicken arena cloud zebra right prefer abandon gentle inch";
+var mnemonic = "saddle million wall cat design abstract diamond cool stereo obtain genre cable";

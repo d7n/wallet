@@ -1,1 +1,1 @@
-var mnemonic = "since amount luxury rapid stadium hunt used baby myself then garlic symbol";
+var mnemonic = "lake castle become run near answer mountain nerve swamp phone witness skull";

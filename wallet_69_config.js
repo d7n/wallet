@@ -1,1 +1,1 @@
-var mnemonic = "embody biology size frost shallow cancel slice nose wide runway original crumble";
+var mnemonic = "index major treat biology fragile urge rapid fit noise toddler taxi siege";

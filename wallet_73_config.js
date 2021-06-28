@@ -1,1 +1,1 @@
-var mnemonic = "phrase flavor remember hidden tower asset current debris era gold crumble garlic";
+var mnemonic = "volume myself loop inject ticket glare busy claw kingdom window nerve puppy";

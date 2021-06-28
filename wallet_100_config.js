@@ -1,1 +1,1 @@
-var mnemonic = "vacuum observe curtain mobile add lyrics toe home dynamic album asset panda";
+var mnemonic = "cliff upgrade when brave cancel mango bright attitude kite pledge swap spice";

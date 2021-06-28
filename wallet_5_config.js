@@ -1,1 +1,1 @@
-var mnemonic = "motion riot basic crime dolphin merge accuse there remember quote own chapter";
+var mnemonic = "tuna seven penalty faith govern cute armor sand nuclear loan drum rapid";

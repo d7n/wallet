@@ -1,1 +1,1 @@
-var mnemonic = "dignity payment candy bargain input present agree perfect citizen island fringe robot";
+var mnemonic = "silent corn security turn panther upper certain cube caution sing mouse raw";

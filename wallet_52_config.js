@@ -1,1 +1,1 @@
-var mnemonic = "danger guilt primary dream energy velvet then hybrid into chief lecture home";
+var mnemonic = "under tide payment learn tunnel edit power weasel half final moment east";

@@ -1,1 +1,1 @@
-var mnemonic = "note across solid pulse spirit blush night cruel demand card cook online";
+var mnemonic = "only rocket decide excite picnic adult saddle salt sausage dawn kangaroo oblige";

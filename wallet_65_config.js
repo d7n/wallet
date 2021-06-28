@@ -1,1 +1,1 @@
-var mnemonic = "that client wealth rapid second trigger earn vibrant step legend army more";
+var mnemonic = "pink symptom frequent throw cute agree chunk retire nurse acid elbow favorite";

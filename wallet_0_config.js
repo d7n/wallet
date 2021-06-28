@@ -1,1 +1,1 @@
-var mnemonic = "special apart urban sample cream million earn coffee foil crack logic salad";
+var mnemonic = "bottom exercise embody pepper nothing iron dragon march wear coyote cabin stairs";

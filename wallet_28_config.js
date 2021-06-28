@@ -1,1 +1,1 @@
-var mnemonic = "sweet mandate blush sense warm ready veteran keen grape update dove oval";
+var mnemonic = "shaft believe noise else arch erode federal diagram runway sick thank squirrel";

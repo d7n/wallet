@@ -1,1 +1,1 @@
-var mnemonic = "round suspect have lesson rescue panda drip quote winter depart exact amused";
+var mnemonic = "setup magic hover chase kit random witness derive unusual daring bid name";
