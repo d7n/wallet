@@ -1,1 +1,1 @@
-var mnemonic = "memory approve brisk elder message plastic romance theme army stick yellow coffee";
+var mnemonic = "tornado renew toward bottom wish field today hour prefer farm actress oval";

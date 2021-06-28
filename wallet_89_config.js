@@ -1,1 +1,1 @@
-var mnemonic = "alcohol radar round salt work february calm manual path pull fee later";
+var mnemonic = "emerge wide clap sheriff battle decide service thought feature bullet until clay";

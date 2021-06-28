@@ -1,1 +1,1 @@
-var mnemonic = "settle train arrow speed belt coyote kitchen civil person prevent soda despair";
+var mnemonic = "garbage nasty flat remove lottery common hamster parrot energy notice plate gorilla";

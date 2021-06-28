@@ -1,1 +1,1 @@
-var mnemonic = "season legend spirit rain fabric end amused goose poem face acquire rice";
+var mnemonic = "amount ranch knee utility judge typical verify duty foil kid muffin reveal";

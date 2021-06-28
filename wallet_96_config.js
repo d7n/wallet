@@ -1,1 +1,1 @@
-var mnemonic = "utility range tunnel include sell advice wise derive civil barely bleak dog";
+var mnemonic = "leisure maximum jealous fortune banana asset identify slush foster capital lemon car";

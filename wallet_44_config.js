@@ -1,1 +1,1 @@
-var mnemonic = "harvest fantasy album shoe decade tunnel crystal main update flavor nuclear segment";
+var mnemonic = "wrap essence toward tuition shine air drama sport simple garment keen south";

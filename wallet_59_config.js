@@ -1,1 +1,1 @@
-var mnemonic = "glide coral motor rookie coral vessel dice prevent tank picture judge squeeze";
+var mnemonic = "broom lemon enact drama smile misery can adult result hold couch soap";

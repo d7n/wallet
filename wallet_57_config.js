@@ -1,1 +1,1 @@
-var mnemonic = "wreck possible mesh snack scare burst earth ivory clutch wage engine chapter";
+var mnemonic = "life blossom lunar column simple deposit giant length there idea certain daring";

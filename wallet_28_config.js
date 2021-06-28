@@ -1,1 +1,1 @@
-var mnemonic = "detect nuclear swift across race skate mystery ride sauce crystal corn rigid";
+var mnemonic = "fold flat bus topic civil force curtain start heavy vacant source family";

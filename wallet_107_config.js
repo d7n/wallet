@@ -1,1 +1,1 @@
-var mnemonic = "near trigger resemble evil home used fold feel around path fantasy wasp";
+var mnemonic = "coyote present kiwi behind drink cream charge inform leisure receive hungry hole";

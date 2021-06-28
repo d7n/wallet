@@ -1,1 +1,1 @@
-var mnemonic = "december special urban dolphin spoon casino camp special goat cable report agree";
+var mnemonic = "peace leopard coyote sausage dirt output talent pudding salad hobby orbit range";

@@ -1,1 +1,1 @@
-var mnemonic = "certain acoustic craft adult height sad color thought draw coast ball pond";
+var mnemonic = "hard mandate shoe butter want pass barely object genuine mansion vote hub";

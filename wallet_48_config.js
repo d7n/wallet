@@ -1,1 +1,1 @@
-var mnemonic = "vanish amazing brown kiwi misery any add equip boil merge hair source";
+var mnemonic = "humor hello list advance lake scorpion limb orphan sort rebel mix wrist";

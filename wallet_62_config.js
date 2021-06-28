@@ -1,1 +1,1 @@
-var mnemonic = "oak tornado sketch plastic mammal story island phone foster rude accuse vote";
+var mnemonic = "square news arrange cycle member market finish example civil same offer secret";

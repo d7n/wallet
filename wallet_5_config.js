@@ -1,1 +1,1 @@
-var mnemonic = "fan verify parent drink purpose town fun soon smooth aisle doctor peace";
+var mnemonic = "captain educate friend deal piece average rural assume endorse shoulder become dirt";

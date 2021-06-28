@@ -1,1 +1,1 @@
-var mnemonic = "sentence immune under road rubber correct recall talk issue next broccoli frown";
+var mnemonic = "again kid resist jacket build shop unusual moment vehicle pencil nominee wing";

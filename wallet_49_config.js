@@ -1,1 +1,1 @@
-var mnemonic = "almost hockey people tennis hub second clutch arrest artist romance coconut outside";
+var mnemonic = "pig black dizzy prosper split inside repair zebra swap abuse capable fossil";

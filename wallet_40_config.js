@@ -1,1 +1,1 @@
-var mnemonic = "spawn auction crush load result rapid hip melody dune humble power frequent";
+var mnemonic = "spider thrive dad trick run toddler field opinion tiger daring health citizen";

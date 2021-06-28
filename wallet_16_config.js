@@ -1,1 +1,1 @@
-var mnemonic = "dice pulse green build deposit garage oxygen among roast raw theme ripple";
+var mnemonic = "crop across squirrel first proud endless busy case east guide face item";

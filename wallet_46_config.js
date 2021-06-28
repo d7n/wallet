@@ -1,1 +1,1 @@
-var mnemonic = "hope consider middle act ritual twelve ice antique puzzle faint thought thumb";
+var mnemonic = "gun rapid parent summer blame view claw myself item van analyst maze";

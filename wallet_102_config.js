@@ -1,1 +1,1 @@
-var mnemonic = "circle envelope car trigger derive reopen dignity dose omit layer discover assume";
+var mnemonic = "maze topic crumble hair advice vehicle fiscal unit trip main army fence";

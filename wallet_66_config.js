@@ -1,1 +1,1 @@
-var mnemonic = "fabric chapter around card feed hobby solution usage swim grid scare wrestle";
+var mnemonic = "agree hedgehog dinosaur arrive capital present exhibit usage today copy manage brother";

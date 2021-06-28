@@ -1,1 +1,1 @@
-var mnemonic = "gadget party hamster hungry egg surface diary canyon decide frog magnet welcome";
+var mnemonic = "duck hurt tube laptop clerk winter swamp crouch pioneer explain lucky legend";

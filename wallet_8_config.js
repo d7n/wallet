@@ -1,1 +1,1 @@
-var mnemonic = "tooth soldier unfair pear have general armor ramp gap truly mask play";
+var mnemonic = "vast frog cage glass genius remove refuse memory buzz suit smoke meat";

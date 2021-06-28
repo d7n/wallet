@@ -1,1 +1,1 @@
-var mnemonic = "grass team nose party giggle candy excite oppose cupboard outer water amazing";
+var mnemonic = "film dentist beach wasp omit tray stem reward sock border float runway";

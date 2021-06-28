@@ -1,1 +1,1 @@
-var mnemonic = "apple plastic plunge school coyote angle penalty memory wild top kitten tell";
+var mnemonic = "fun exhaust usual motor tip license spray hidden box process fuel luggage";

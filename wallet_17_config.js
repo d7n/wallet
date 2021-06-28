@@ -1,1 +1,1 @@
-var mnemonic = "bundle exhibit sketch divide surge symbol black afraid perfect busy grab method";
+var mnemonic = "detail ceiling flip few display forest act moon middle flame fix level";

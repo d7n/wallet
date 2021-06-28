@@ -1,1 +1,1 @@
-var mnemonic = "firm boy jump script era moment range couch tissue senior unusual kite";
+var mnemonic = "guide basket awkward fade shed immense aunt film member smoke stem space";

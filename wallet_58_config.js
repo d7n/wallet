@@ -1,1 +1,1 @@
-var mnemonic = "inch wave pledge vicious dance wrist emerge scout rely play door explain";
+var mnemonic = "friend ski village price slender gun depth gallery athlete desk fix holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "little tell try acquire way slight future middle capital about drill topple";
+var mnemonic = "length ahead more miss room arch movie history someone wrong hold hotel";

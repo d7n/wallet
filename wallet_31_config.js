@@ -1,1 +1,1 @@
-var mnemonic = "jungle awkward obey pen cat thumb bomb hen near raccoon fiction damage";
+var mnemonic = "lumber modify wrap kingdom direct dust empty purse wealth oppose ticket subject";

@@ -1,1 +1,1 @@
-var mnemonic = "material feature capable ethics vanish poverty arrest winner escape trade resource annual";
+var mnemonic = "upper battle neither survey tackle main flower slogan fly alpha deal exile";

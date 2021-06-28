@@ -1,1 +1,1 @@
-var mnemonic = "two rule child arch thing jump powder elephant orchard display cliff lens";
+var mnemonic = "valid pair logic diagram damage drama toe parade slam smooth mammal source";

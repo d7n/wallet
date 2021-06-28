@@ -1,1 +1,1 @@
-var mnemonic = "parent fog sick labor galaxy scrub vague crane remove erupt tumble focus";
+var mnemonic = "custom easily extend melt keep history bulb child bomb observe pelican yard";

@@ -1,1 +1,1 @@
-var mnemonic = "render feel wish indicate cube wife off near robust wine village rice";
+var mnemonic = "quantum hammer guitar rent tuna tobacco success entire figure express silk check";

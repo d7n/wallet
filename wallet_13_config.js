@@ -1,1 +1,1 @@
-var mnemonic = "dynamic attitude visit bounce chalk update addict notable electric intact next odor";
+var mnemonic = "begin deliver tissue movie market coin sponsor output dragon crowd crouch pass";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi crush risk tongue unhappy august sting vital stomach weird enact breeze";
+var mnemonic = "pass wood harvest element decade flee wisdom play garden tomorrow cross prize";

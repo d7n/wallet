@@ -1,1 +1,1 @@
-var mnemonic = "nuclear define knock silver side blur reunion rack pen spare lobster river";
+var mnemonic = "hard latin supply inner force lyrics hotel inform dad cabin heart solid";

@@ -1,1 +1,1 @@
-var mnemonic = "north cross miracle rebel inquiry glass exhaust door behave impose faculty census";
+var mnemonic = "inner run tent child market harbor front mention tennis holiday slogan produce";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium spike visit depend clock limit shock what pipe treat athlete since";
+var mnemonic = "require clock timber brass taxi load woman base yard joy talent electric";

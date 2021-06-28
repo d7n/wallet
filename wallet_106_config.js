@@ -1,1 +1,1 @@
-var mnemonic = "picture sad zoo bring castle cloth industry patient middle slim scatter can";
+var mnemonic = "clerk swift frown deer cigar crime advance company focus arrow expect neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "atom rural upper best real infant desk relief brisk scan nice media";
+var mnemonic = "regular hammer type rabbit seed hen planet black derive stand scale agree";

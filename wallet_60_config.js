@@ -1,1 +1,1 @@
-var mnemonic = "issue slogan hobby tomorrow south truly identify pledge mountain moon giggle spoon";
+var mnemonic = "hint slush umbrella news foster pencil quiz degree still wish lock deputy";

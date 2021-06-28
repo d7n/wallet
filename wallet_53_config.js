@@ -1,1 +1,1 @@
-var mnemonic = "flip vote stuff soup merge draft bird citizen deposit frown example axis";
+var mnemonic = "skin drama turtle miss cream athlete unable junk brave mail vast ridge";

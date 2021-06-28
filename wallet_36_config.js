@@ -1,1 +1,1 @@
-var mnemonic = "enough pizza plate express peasant young broccoli habit license aunt law soap";
+var mnemonic = "summer pilot basket magnet consider brown cluster nuclear lecture earn banner core";

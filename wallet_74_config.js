@@ -1,1 +1,1 @@
-var mnemonic = "danger genius august until nurse nerve antenna cinnamon divert trigger jar scan";
+var mnemonic = "blade runway journey color lawn glad vacant kitchen carpet detail payment enforce";

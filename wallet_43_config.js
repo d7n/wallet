@@ -1,1 +1,1 @@
-var mnemonic = "check rebel van gospel cup tongue mansion matter equip cousin damp guitar";
+var mnemonic = "profit wet drink always wise predict force lion obey salmon plastic buddy";

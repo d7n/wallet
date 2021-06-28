@@ -1,1 +1,1 @@
-var mnemonic = "evil water gallery robust drink stool execute grit long link price genuine";
+var mnemonic = "twice unusual piece family whisper top busy rather phrase exhibit reflect reject";

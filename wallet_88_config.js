@@ -1,1 +1,1 @@
-var mnemonic = "spell fabric drill clog trial salad wagon fog cost announce fossil interest";
+var mnemonic = "spread torch property labor seven predict left focus spin estate alpha army";

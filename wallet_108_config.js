@@ -1,1 +1,1 @@
-var mnemonic = "laugh other crisp seminar despair about interest abandon shed surge tunnel submit";
+var mnemonic = "alert tomorrow column share trouble whip speak impact plate fantasy tide pattern";

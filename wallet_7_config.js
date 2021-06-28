@@ -1,1 +1,1 @@
-var mnemonic = "edge system inner curve diary wife okay physical feature claim bundle daughter";
+var mnemonic = "quote wink muscle broccoli chicken axis confirm february session uniform anchor address";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic spin fame cricket sniff post game chapter embrace convince crime priority";
+var mnemonic = "switch chicken color antique seven rule borrow train winner digital movie pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "intact clog cheap sound chair device retire equip pyramid follow dragon click";
+var mnemonic = "vivid shoulder clean rhythm copy van mask frame surge engine ride bench";

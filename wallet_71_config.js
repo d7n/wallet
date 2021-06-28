@@ -1,1 +1,1 @@
-var mnemonic = "talent nice sample soup target liberty century panic comic video become brand";
+var mnemonic = "fabric robot night pitch toast letter bacon mosquito depend sport radio topple";

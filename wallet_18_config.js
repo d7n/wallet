@@ -1,1 +1,1 @@
-var mnemonic = "later layer paper coconut lift put surround envelope attitude bullet vivid tone";
+var mnemonic = "toilet attitude pink bag junk salmon pool final donor apple tip horn";

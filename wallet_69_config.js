@@ -1,1 +1,1 @@
-var mnemonic = "deal ordinary title news swim call shuffle social pink embark behave glare";
+var mnemonic = "fetch say mixture dream radar affair door spike sustain hunt dinosaur diesel";

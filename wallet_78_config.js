@@ -1,1 +1,1 @@
-var mnemonic = "soda urge ahead fame unlock neck bunker acid drink enjoy possible estate";
+var mnemonic = "fortune abandon mystery must prize hamster ugly choice afraid duty spray ritual";

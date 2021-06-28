@@ -1,1 +1,1 @@
-var mnemonic = "limit citizen royal marble window skill shallow finger front vibrant gold then";
+var mnemonic = "genre stamp swear romance cruise easily diesel solve exhibit robust rapid exist";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff report rain risk skirt chef pole wolf group shine truth category";
+var mnemonic = "cage wedding dad inmate visual ankle era salon wide column mountain mechanic";

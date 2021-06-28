@@ -1,1 +1,1 @@
-var mnemonic = "try chimney stick claim mirror warm motion explain host leopard return energy";
+var mnemonic = "frame access high virtual just bracket embody robust crew truth side dice";

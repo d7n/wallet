@@ -1,1 +1,1 @@
-var mnemonic = "owner actor stem smile sun water oxygen hour off bargain base punch";
+var mnemonic = "school spread merit anxiety level nurse satoshi flip acid two bench impose";

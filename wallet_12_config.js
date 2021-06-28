@@ -1,1 +1,1 @@
-var mnemonic = "entry trap mad country vacant decrease mixture found glide cushion stock meadow";
+var mnemonic = "grocery multiply expose pyramid emerge shoulder there leg debate web wife happy";

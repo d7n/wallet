@@ -1,1 +1,1 @@
-var mnemonic = "rebuild bulk turkey clarify plastic peasant trick property champion proud gas jewel";
+var mnemonic = "false summer ketchup enjoy action donate public various bronze april enjoy anchor";

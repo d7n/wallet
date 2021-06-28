@@ -1,1 +1,1 @@
-var mnemonic = "honey position life fragile shiver head catalog birth voyage sun ability dial";
+var mnemonic = "eight core major vicious hello differ wreck that glue slush silly amateur";

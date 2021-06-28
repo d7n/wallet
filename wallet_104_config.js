@@ -1,1 +1,1 @@
-var mnemonic = "neck sort bless total safe swing enroll stuff habit next ring depart";
+var mnemonic = "wool lava load naive proof science mechanic filter tent point card drastic";

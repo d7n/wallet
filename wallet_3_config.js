@@ -1,1 +1,1 @@
-var mnemonic = "ginger minimum pill tower shadow venue quality together orbit trip valley dance";
+var mnemonic = "trick rib chest area six tomato about runway adapt space icon survey";

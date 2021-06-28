@@ -1,1 +1,1 @@
-var mnemonic = "prefer finger intact husband wink water test thunder decade wrist minor police";
+var mnemonic = "way eight victory pumpkin maid double salute solar aware prize wage chapter";

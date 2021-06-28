@@ -1,1 +1,1 @@
-var mnemonic = "put heart festival profit century voyage april upper dad winter puzzle aware";
+var mnemonic = "peanut ball east cushion notice skull laugh term pause anger actual taxi";

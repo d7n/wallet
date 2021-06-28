@@ -1,1 +1,1 @@
-var mnemonic = "trophy tube horror theme antique supply trust burger book various embark thing";
+var mnemonic = "fancy twin tank simple umbrella ask work joy bless true filter day";

@@ -1,1 +1,1 @@
-var mnemonic = "balance refuse switch wheel canal hover lion journey planet arctic busy curious";
+var mnemonic = "surface card fault there walk scout hungry spike screen knife around valve";

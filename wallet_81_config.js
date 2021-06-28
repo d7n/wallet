@@ -1,1 +1,1 @@
-var mnemonic = "visit crumble puppy kitten banana current office rebel primary flip width fall";
+var mnemonic = "slight orange dolphin joy network neck dream kick degree screen elder trophy";

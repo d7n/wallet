@@ -1,1 +1,1 @@
-var mnemonic = "infant assume raccoon ring coast screen top item fog struggle pioneer under";
+var mnemonic = "tower oil drill subject pioneer pioneer blue primary final error alert patient";

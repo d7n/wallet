@@ -1,1 +1,1 @@
-var mnemonic = "erosion broccoli foam ahead inner ball much carry glass lawsuit maximum elegant";
+var mnemonic = "celery again keep problem lemon poem vivid sunny mix rapid expand govern";

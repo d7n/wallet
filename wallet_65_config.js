@@ -1,1 +1,1 @@
-var mnemonic = "sugar lobster dragon globe acoustic coil foster blur heavy annual marriage any";
+var mnemonic = "obtain limit picnic soda arctic tree simple cheese hair series one bundle";

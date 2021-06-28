@@ -1,1 +1,1 @@
-var mnemonic = "sugar staff mirror unique indicate airport shoot tag chest uphold baby same";
+var mnemonic = "title nerve energy lawn lend purchase teach glare kick bulb tourist window";

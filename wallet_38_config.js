@@ -1,1 +1,1 @@
-var mnemonic = "lottery section color scan nasty cup decline rude punch elder derive quit";
+var mnemonic = "kind fat size smooth music interest neutral fabric puzzle salmon horn boss";

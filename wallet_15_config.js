@@ -1,1 +1,1 @@
-var mnemonic = "drama morning father object tobacco chair butter mountain evolve foot remember coconut";
+var mnemonic = "season filter humble damp choose fury spice business police clay mail quick";

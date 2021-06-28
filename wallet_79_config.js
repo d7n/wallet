@@ -1,1 +1,1 @@
-var mnemonic = "help suit hollow seven patch three onion expire real film dry deputy";
+var mnemonic = "basket chest ostrich weasel apology mushroom screen theory fault runway permit monkey";

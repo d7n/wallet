@@ -1,1 +1,1 @@
-var mnemonic = "manage pumpkin blame faith cruel divide kid lion try path canyon question";
+var mnemonic = "page reopen birth hedgehog rookie clutch day neck wise congress hope settle";

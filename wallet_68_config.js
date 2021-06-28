@@ -1,1 +1,1 @@
-var mnemonic = "shy lamp host immense excuse wrist vapor net prize measure rack work";
+var mnemonic = "mercy core error verify almost vast three arrow scare shiver trophy sorry";

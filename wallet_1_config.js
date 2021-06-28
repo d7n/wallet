@@ -1,1 +1,1 @@
-var mnemonic = "inform grief opinion sail drill mixture present erosion able danger logic that";
+var mnemonic = "around fringe salmon mutual crunch settle relief version private much elite iron";

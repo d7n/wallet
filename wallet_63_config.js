@@ -1,1 +1,1 @@
-var mnemonic = "grace lava save blur fatigue pen chair fade panda love live scorpion";
+var mnemonic = "knife jump order slot shrimp entire panic piece unaware noble verify skirt";

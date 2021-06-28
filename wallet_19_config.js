@@ -1,1 +1,1 @@
-var mnemonic = "rare hundred barely slush tissue clever bracket wild check review oval snake";
+var mnemonic = "sight teach jealous custom damage blue reform turtle return coach joy dream";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness cactus few north edge lottery fall paper salute push dash color";
+var mnemonic = "seminar aware thumb elbow crew seven pair glimpse manual sibling broom laugh";

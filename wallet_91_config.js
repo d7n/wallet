@@ -1,1 +1,1 @@
-var mnemonic = "shiver subway force educate area scrub dumb goat myself loud cruise mouse";
+var mnemonic = "razor race game annual shallow since dawn member lumber under like identify";

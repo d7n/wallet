@@ -1,1 +1,1 @@
-var mnemonic = "track program alcohol question notice witness tattoo gown usage produce stomach exercise";
+var mnemonic = "much absent chunk float creek fly empty shrimp eager strategy ice mansion";

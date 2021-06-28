@@ -1,1 +1,1 @@
-var mnemonic = "almost cloth stairs about system yellow long foam mix curve will blush";
+var mnemonic = "upper entire stuff surge provide maid boss tortoise reason deliver goat marble";

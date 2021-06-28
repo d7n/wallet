@@ -1,1 +1,1 @@
-var mnemonic = "cool knife rate test collect coach save disease mosquito diesel anger produce";
+var mnemonic = "swallow dolphin diary spike civil edit enforce evoke top stove tenant monitor";

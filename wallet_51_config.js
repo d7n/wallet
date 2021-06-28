@@ -1,1 +1,1 @@
-var mnemonic = "fever parade frequent trash vapor nominee pill meat shell cash want silly";
+var mnemonic = "among giant diagram aspect soul will raise manage cube analyst act total";

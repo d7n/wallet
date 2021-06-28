@@ -1,1 +1,1 @@
-var mnemonic = "duck door six trial rubber cereal true cake chief planet wood jeans";
+var mnemonic = "ramp ostrich error soon shaft cupboard actual hurry immense faculty kangaroo verify";

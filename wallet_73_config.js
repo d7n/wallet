@@ -1,1 +1,1 @@
-var mnemonic = "fashion special issue earth tissue kit cash filter pool elegant charge seven";
+var mnemonic = "rice mean industry candy project latin video kitten humble animal endorse wild";

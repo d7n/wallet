@@ -1,1 +1,1 @@
-var mnemonic = "size lumber link kidney mouse eagle foam hungry margin heart inmate narrow";
+var mnemonic = "display summer place universe where scissors method local common fatal liar snake";

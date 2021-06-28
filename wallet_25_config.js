@@ -1,1 +1,1 @@
-var mnemonic = "possible hotel like monkey frequent pipe grape conduct kiss open tomorrow polar";
+var mnemonic = "spring velvet tragic laugh recipe east absurd odor mother motor network ozone";
