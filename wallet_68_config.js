@@ -1,1 +1,1 @@
-var mnemonic = "cash drip street trick security sight father material myself naive happy fox";
+var mnemonic = "brave hour beach figure rapid stay jump window buffalo join pony pioneer";

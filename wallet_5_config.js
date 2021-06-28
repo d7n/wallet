@@ -1,1 +1,1 @@
-var mnemonic = "bracket exchange scrub harbor unaware emerge cup that alter echo syrup exercise";
+var mnemonic = "shrimp property ladder pretty latin unfold auction shrimp travel pool auto orchard";

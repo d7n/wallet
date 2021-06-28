@@ -1,1 +1,1 @@
-var mnemonic = "derive egg size canvas rice night visa lazy usual mixture hello spoon";
+var mnemonic = "submit rice rather leader try peace express teach nation bus weasel elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "forest maze document cupboard tag denial wise hollow churn match diagram into";
+var mnemonic = "girl mammal box plug awful cliff thought fire course joy mosquito radio";

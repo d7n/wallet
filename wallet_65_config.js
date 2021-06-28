@@ -1,1 +1,1 @@
-var mnemonic = "sick another gun tide invite limit picnic broken dinosaur marriage guard genre";
+var mnemonic = "cost sibling regular script vacuum window camp head monster special company fine";

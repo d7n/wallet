@@ -1,1 +1,1 @@
-var mnemonic = "ask chief skin clump poverty east case repeat emerge collect discover tortoise";
+var mnemonic = "grain advance sustain process nasty oval canvas champion fly pizza bean ask";

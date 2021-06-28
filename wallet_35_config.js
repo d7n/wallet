@@ -1,1 +1,1 @@
-var mnemonic = "put attack ride strong ceiling dumb library okay pattern school protect have";
+var mnemonic = "uphold crash gentle vanish nation eye churn gown slide entry grape aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "mean edge view mail brand mimic skin host arch system ancient unit";
+var mnemonic = "salute story pupil vicious race bright theory click absent quantum urban close";

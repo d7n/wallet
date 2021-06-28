@@ -1,1 +1,1 @@
-var mnemonic = "desk such tackle liar oak thunder lottery ice parade veteran swing soon";
+var mnemonic = "also sweet tower invite cloud include tomorrow pledge slice use regular craft";

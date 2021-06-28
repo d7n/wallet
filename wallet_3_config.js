@@ -1,1 +1,1 @@
-var mnemonic = "duty faith you border wrong couch august symbol radio odor whisper select";
+var mnemonic = "collect gift version kangaroo faculty model bicycle concert gasp resemble junk cactus";

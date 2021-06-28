@@ -1,1 +1,1 @@
-var mnemonic = "midnight liquid shell nominee lazy feel surprise click unhappy prize couple utility";
+var mnemonic = "keep steel festival attack note lizard action utility genuine rule hole employ";

@@ -1,1 +1,1 @@
-var mnemonic = "once assault coach poem shell depth test misery answer between side pitch";
+var mnemonic = "frequent wash summer dutch hockey fire rain snack tail umbrella body gown";

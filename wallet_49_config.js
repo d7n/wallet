@@ -1,1 +1,1 @@
-var mnemonic = "monkey embody library scout hand raw crowd object food lecture naive achieve";
+var mnemonic = "twist camera jump chapter process cover citizen deposit december loan hawk mad";

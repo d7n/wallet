@@ -1,1 +1,1 @@
-var mnemonic = "comic van problem brave produce snap when breeze step empty merry chalk";
+var mnemonic = "toilet edit fragile arrow term aware emerge crush follow permit attack kick";

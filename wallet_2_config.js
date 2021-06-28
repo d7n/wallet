@@ -1,1 +1,1 @@
-var mnemonic = "goddess airport market vicious inherit observe treat swap powder patch amused scrub";
+var mnemonic = "bless scan feel gas diet joy together faith betray jeans uncover jungle";

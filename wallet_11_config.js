@@ -1,1 +1,1 @@
-var mnemonic = "world bleak spice rail acoustic arctic tobacco velvet world tower duck castle";
+var mnemonic = "quiz visual top success hill auto title bring kangaroo symptom follow image";

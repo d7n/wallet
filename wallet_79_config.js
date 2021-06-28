@@ -1,1 +1,1 @@
-var mnemonic = "nice traffic middle case raccoon drink act crater drastic pluck oak enact";
+var mnemonic = "warrior coach cinnamon swear betray emerge almost room above slot cruel slush";

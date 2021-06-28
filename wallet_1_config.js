@@ -1,1 +1,1 @@
-var mnemonic = "adapt devote surface tree reform slide seminar absurd priority share yard chicken";
+var mnemonic = "car deer ghost barely have access bachelor breeze jewel sun trial edit";

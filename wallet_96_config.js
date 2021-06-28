@@ -1,1 +1,1 @@
-var mnemonic = "noodle cost segment toe adapt bottom scrub fork possible foil salmon destroy";
+var mnemonic = "unfair forest strong doctor fish among gas sing soap size dream stomach";

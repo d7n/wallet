@@ -1,1 +1,1 @@
-var mnemonic = "slow work panda inherit silver squeeze outdoor result clutch dust live option";
+var mnemonic = "puppy fruit rookie real crime spice animal fire swap region invest kick";

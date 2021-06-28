@@ -1,1 +1,1 @@
-var mnemonic = "kiss swallow heavy alcohol diet steak board near carpet jacket strong illness";
+var mnemonic = "pear apart doctor craft dolphin push gossip above maze zero plunge gap";

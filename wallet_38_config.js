@@ -1,1 +1,1 @@
-var mnemonic = "success enter brass flight wheat rule music impact baby head frozen bar";
+var mnemonic = "ahead impose become pave face shield actor fault manual click chef deputy";

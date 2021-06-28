@@ -1,1 +1,1 @@
-var mnemonic = "retire kind prize vast before group high isolate sunny thought inmate cluster";
+var mnemonic = "expire spend quit differ dragon figure document razor mirror actress stone length";

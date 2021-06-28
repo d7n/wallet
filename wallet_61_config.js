@@ -1,1 +1,1 @@
-var mnemonic = "chicken eyebrow double used hood matter blush catch blue crime gas neutral";
+var mnemonic = "farm reform farm fragile tobacco nurse drama excess spirit under such once";

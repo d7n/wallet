@@ -1,1 +1,1 @@
-var mnemonic = "inflict rural ordinary copy tragic tomorrow lecture short now spy decrease list";
+var mnemonic = "high toddler regular liquid alien roof again exclude sting page february first";

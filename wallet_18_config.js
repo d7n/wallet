@@ -1,1 +1,1 @@
-var mnemonic = "stone page plate mass away replace asset allow giraffe mountain wrap same";
+var mnemonic = "crack segment wish local bitter leave parrot warm crouch want never drama";

@@ -1,1 +1,1 @@
-var mnemonic = "diary price dash chalk use toddler valley wear reopen hotel swarm worth";
+var mnemonic = "rubber enjoy boil panic dumb game lava ramp approve abuse science lemon";

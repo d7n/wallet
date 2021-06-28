@@ -1,1 +1,1 @@
-var mnemonic = "degree worry gift lift grass urban festival theory float before icon total";
+var mnemonic = "volume result fee arrow verb security trial sad install diamond decline bike";

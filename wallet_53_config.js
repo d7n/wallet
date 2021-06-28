@@ -1,1 +1,1 @@
-var mnemonic = "inform trick myself goose remember strike view claw obscure worry spatial tuna";
+var mnemonic = "plastic present birth wood slam skill tenant cactus need address quote beach";

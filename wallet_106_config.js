@@ -1,1 +1,1 @@
-var mnemonic = "also begin quality smile mask cute ritual demise lawsuit mansion help trap";
+var mnemonic = "spell faith fiction grant seed theme minimum stone car devote term portion";

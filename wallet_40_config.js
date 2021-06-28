@@ -1,1 +1,1 @@
-var mnemonic = "knock destroy crowd reflect head labor emotion mention abuse mule canoe hope";
+var mnemonic = "west stomach whale upon cement section garment enact scatter coach subject erosion";

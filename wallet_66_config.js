@@ -1,1 +1,1 @@
-var mnemonic = "joy clutch math tuna impulse gospel ankle glide mixture myself lawn slice";
+var mnemonic = "stove receive zoo alone metal anger mutual ticket box history mutual invite";

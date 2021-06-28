@@ -1,1 +1,1 @@
-var mnemonic = "legend day orbit inmate pink hedgehog avoid trumpet advice two siege obvious";
+var mnemonic = "laundry else toast vault aunt boost flight actual speak obvious kick metal";

@@ -1,1 +1,1 @@
-var mnemonic = "air tribe artist ignore category orient equal copper ostrich pear claw gas";
+var mnemonic = "panther wink memory control monster rescue either plate champion route pipe weapon";

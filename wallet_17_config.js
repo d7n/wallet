@@ -1,1 +1,1 @@
-var mnemonic = "media crane mutual enemy parent farm door young length sick public rapid";
+var mnemonic = "wash swamp job manual rail marble strong follow wire into dinosaur tray";

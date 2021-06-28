@@ -1,1 +1,1 @@
-var mnemonic = "farm swamp vapor chair rescue shuffle valid element chef scorpion draft enter";
+var mnemonic = "feature domain cigar crucial pond sick clip riot praise manage violin ribbon";

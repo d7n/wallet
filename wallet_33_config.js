@@ -1,1 +1,1 @@
-var mnemonic = "urban seed more sniff message sweet stomach curious zone neglect effort inflict";
+var mnemonic = "pave mandate barrel rug usual pledge scout common sheriff orbit boring decorate";

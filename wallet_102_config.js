@@ -1,1 +1,1 @@
-var mnemonic = "junk find neglect canoe only cage spin utility drastic ribbon when oyster";
+var mnemonic = "song iron silent disagree ring morning grace habit vacuum purpose relief mind";

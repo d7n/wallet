@@ -1,1 +1,1 @@
-var mnemonic = "choose course metal onion rose assist veteran wrist kangaroo attitude artist hero";
+var mnemonic = "deliver dirt fortune museum crouch pass aspect ring alcohol bracket noble brass";

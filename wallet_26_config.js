@@ -1,1 +1,1 @@
-var mnemonic = "exchange stereo interest cool lobster purchase present mountain modify payment claw tide";
+var mnemonic = "nerve neglect cloud stay ugly off tattoo obey comfort endless cupboard student";

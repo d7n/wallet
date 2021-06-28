@@ -1,1 +1,1 @@
-var mnemonic = "suffer dragon picture other core result hire cruise deny egg fever embrace";
+var mnemonic = "brother settle theme swear animal lab chair mean excite wood pioneer van";

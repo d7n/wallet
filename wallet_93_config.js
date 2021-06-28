@@ -1,1 +1,1 @@
-var mnemonic = "rack music sting lyrics goddess reject trash moral normal delay nothing wife";
+var mnemonic = "desk cigar because blue code such culture bitter ceiling taxi final transfer";

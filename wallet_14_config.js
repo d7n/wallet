@@ -1,1 +1,1 @@
-var mnemonic = "elephant total library script type unfold squirrel paper viable forward museum casual";
+var mnemonic = "amount member gauge power mouse village next leopard flock humor bargain web";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol bubble swim rookie strong betray action midnight twelve artist trash canal";
+var mnemonic = "topic hollow friend mass scare oblige cheese disease earn february wolf faculty";

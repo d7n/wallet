@@ -1,1 +1,1 @@
-var mnemonic = "lecture will appear quiz thunder inform palm nuclear bench aware cereal embark";
+var mnemonic = "room message hurry defy economy coast subject heavy option marble ice message";

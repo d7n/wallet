@@ -1,1 +1,1 @@
-var mnemonic = "daring enhance tornado absorb minor rookie denial soft detail crew upon live";
+var mnemonic = "crystal noise boss surround extra undo amount walnut network food this quit";

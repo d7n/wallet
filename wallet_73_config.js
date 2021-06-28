@@ -1,1 +1,1 @@
-var mnemonic = "jazz pass palm maze afford dignity betray quick left lecture claw chat";
+var mnemonic = "silver toast tornado cram regular series head suffer laptop rug shop feel";

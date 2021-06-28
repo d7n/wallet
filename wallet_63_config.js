@@ -1,1 +1,1 @@
-var mnemonic = "inflict lamp crash table you reflect slot rotate february garden retire stay";
+var mnemonic = "dice enemy leave neglect quarter daughter verify unique demise flash gather human";

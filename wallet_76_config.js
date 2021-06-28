@@ -1,1 +1,1 @@
-var mnemonic = "over before ask main monkey tank lamp man enroll labor swim rib";
+var mnemonic = "tent argue prison endless cheap parent draw quote valid mention ship ill";

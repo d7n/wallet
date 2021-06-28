@@ -1,1 +1,1 @@
-var mnemonic = "together enlist thrive hub direct half silk buyer salute valve obscure document";
+var mnemonic = "echo two dune bike brain inmate cycle subway paper unfair remain host";

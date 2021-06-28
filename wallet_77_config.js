@@ -1,1 +1,1 @@
-var mnemonic = "funny expand oil urban ketchup mountain broom badge need habit drill drink";
+var mnemonic = "moral earth exchange delay course expose forest custom vapor memory topple jungle";

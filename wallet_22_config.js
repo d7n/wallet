@@ -1,1 +1,1 @@
-var mnemonic = "usual okay bargain mass need attend giraffe clinic spike meat tired dumb";
+var mnemonic = "unit want witness middle merit city cycle van grape tumble people switch";

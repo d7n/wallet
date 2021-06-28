@@ -1,1 +1,1 @@
-var mnemonic = "crime debris tag three possible fortune heavy gather various any shoe original";
+var mnemonic = "area minute gossip reduce add vague spoon range wild combine rhythm artist";

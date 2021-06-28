@@ -1,1 +1,1 @@
-var mnemonic = "height still buffalo sketch knee skill slow select pair shine spice sustain";
+var mnemonic = "picture cigar simple asset palm used parrot can armed loop evil enact";

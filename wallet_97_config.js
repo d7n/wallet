@@ -1,1 +1,1 @@
-var mnemonic = "female render flip shallow ankle develop trip rail year number flip blossom";
+var mnemonic = "acquire stumble asthma huge hawk reform turn fatal render want actor area";

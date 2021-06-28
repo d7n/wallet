@@ -1,1 +1,1 @@
-var mnemonic = "butter harvest toy decline early section treat unknown endorse energy hedgehog mind";
+var mnemonic = "vintage analyst hungry follow foot fine beyond clock video deer tone couch";

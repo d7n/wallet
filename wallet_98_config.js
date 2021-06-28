@@ -1,1 +1,1 @@
-var mnemonic = "online describe salad alien draft cram sniff health chase rent imitate stick";
+var mnemonic = "clog space resemble expose strike donate bamboo all ice shadow enact science";

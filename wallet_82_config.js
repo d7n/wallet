@@ -1,1 +1,1 @@
-var mnemonic = "oval sleep casual oak file fetch rent shadow juice hope yellow vast";
+var mnemonic = "six tired collect symptom gravity brand legend cluster potato woman donate maximum";

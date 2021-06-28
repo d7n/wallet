@@ -1,1 +1,1 @@
-var mnemonic = "mesh cover task wash wasp wrap van ability glue sock coast amazing";
+var mnemonic = "federal million wonder south turtle ladder host snap carpet acoustic disagree forum";

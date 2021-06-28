@@ -1,1 +1,1 @@
-var mnemonic = "medal animal disagree rare wrap zebra book control slice cargo worth tide";
+var mnemonic = "invest bike vital write liar remain fitness clarify accuse field lemon nominee";

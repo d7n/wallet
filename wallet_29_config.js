@@ -1,1 +1,1 @@
-var mnemonic = "empty busy voyage scan hunt foot banner buyer output plunge pill butter";
+var mnemonic = "crash envelope cactus warrior neutral oven fuel average stay size comic coyote";

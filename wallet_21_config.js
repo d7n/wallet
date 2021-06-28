@@ -1,1 +1,1 @@
-var mnemonic = "body rubber deer material scrub security issue blue frequent struggle humble acoustic";
+var mnemonic = "silly scissors gasp album eternal stone hole leader weather loyal ordinary vibrant";

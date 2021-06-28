@@ -1,1 +1,1 @@
-var mnemonic = "lesson rose club infant danger under detail warrior wisdom gaze pumpkin spider";
+var mnemonic = "save hard aerobic draw firm someone vote hospital nasty argue library click";

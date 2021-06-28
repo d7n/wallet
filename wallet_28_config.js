@@ -1,1 +1,1 @@
-var mnemonic = "argue library gadget swear canal expose dress roast draw nominee height nephew";
+var mnemonic = "luggage word quarter weather attack bid column middle fetch lab dwarf excite";

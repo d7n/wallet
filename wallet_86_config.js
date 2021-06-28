@@ -1,1 +1,1 @@
-var mnemonic = "notice rival sibling nerve grit steel arm wagon elevator oval eight crawl";
+var mnemonic = "fiscal sign used sound cannon sock occur blossom fragile olive gap tide";

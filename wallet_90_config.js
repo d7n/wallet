@@ -1,1 +1,1 @@
-var mnemonic = "feel oppose trick year crystal word light bachelor embody symptom edge clinic";
+var mnemonic = "snow arrest someone oyster right quantum mystery hello monitor leopard aerobic illness";

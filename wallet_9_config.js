@@ -1,1 +1,1 @@
-var mnemonic = "dice feel coil forward same stem appear victory robot lottery resource goat";
+var mnemonic = "buddy tortoise deputy skirt piano swift crisp absurd people manual govern best";

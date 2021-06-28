@@ -1,1 +1,1 @@
-var mnemonic = "govern raccoon rare moral crystal warfare wife grid home beauty gold jungle";
+var mnemonic = "tourist slogan gate eight finish year aware amazing road aim crazy film";

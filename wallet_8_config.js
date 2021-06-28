@@ -1,1 +1,1 @@
-var mnemonic = "shadow erosion lonely crucial impulse lawsuit shine debate letter actress goddess few";
+var mnemonic = "photo heavy proud script surround coin insane solve market neither stock argue";

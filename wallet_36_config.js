@@ -1,1 +1,1 @@
-var mnemonic = "gain wagon blossom derive decade decline analyst recall survey december ceiling other";
+var mnemonic = "subway swap outside lucky father arena solution educate input put expect help";

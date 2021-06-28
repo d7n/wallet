@@ -1,1 +1,1 @@
-var mnemonic = "position draft habit tide steak web explain earn train small spoil thank";
+var mnemonic = "goat hobby delay point cabin empty glow wear crowd mystery glow board";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram vivid lecture warm large sail cube rely whisper lobster favorite slow";
+var mnemonic = "similar stand swift harbor visual exchange offer involve tail still expand winner";

@@ -1,1 +1,1 @@
-var mnemonic = "false detect female scrub exit mom always room aim govern glow canal";
+var mnemonic = "dance rule diesel heart child harsh easily head strong size sand clog";

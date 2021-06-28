@@ -1,1 +1,1 @@
-var mnemonic = "nurse dynamic skirt bullet culture math similar frog check auction forest remove";
+var mnemonic = "marine manual episode core elbow fence nose era fiction okay satisfy service";

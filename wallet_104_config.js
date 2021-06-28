@@ -1,1 +1,1 @@
-var mnemonic = "degree move lens tone glory coral muscle pull glow human fox festival";
+var mnemonic = "can slab sound mass impulse hood anger vacant gold echo joy robot";

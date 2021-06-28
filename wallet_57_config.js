@@ -1,1 +1,1 @@
-var mnemonic = "snap aerobic liquid glow elevator ostrich want rather output silly switch abstract";
+var mnemonic = "play useless random tent sure phone ready casual already ketchup toast upon";

@@ -1,1 +1,1 @@
-var mnemonic = "deny possible filter pass amused clean timber unusual cousin march wish learn";
+var mnemonic = "blush keep claim infant puppy mother media reason kitchen august month affair";

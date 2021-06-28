@@ -1,1 +1,1 @@
-var mnemonic = "escape mobile drift message local hold demise eye regret salute moment feel";
+var mnemonic = "cancel involve dinosaur enforce profit high behind tell vast flight keen tobacco";

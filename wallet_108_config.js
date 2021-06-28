@@ -1,1 +1,1 @@
-var mnemonic = "ginger valid amazing march push snack video wheel champion timber grace will";
+var mnemonic = "sponsor shiver reflect ostrich bean scorpion certain borrow ancient exact hamster table";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort spirit muffin image capable shell narrow suffer flock picture sound nasty";
+var mnemonic = "gloom occur situate trash all focus online art lens enforce strike post";

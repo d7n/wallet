@@ -1,1 +1,1 @@
-var mnemonic = "tenant above another woman hazard harvest stamp tomato segment guess success acquire";
+var mnemonic = "burger album grit child club ripple link drive present witness network science";

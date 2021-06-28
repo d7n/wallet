@@ -1,1 +1,1 @@
-var mnemonic = "dinner inflict jar rescue absorb grid team road proof hope renew output";
+var mnemonic = "medal holiday force chuckle rich planet coral kiwi prefer frequent song prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "awake boat hard consider estate target recycle edit license rally media avoid";
+var mnemonic = "vicious various echo among during gate ceiling thought suit width drastic present";

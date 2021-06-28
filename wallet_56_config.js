@@ -1,1 +1,1 @@
-var mnemonic = "raw reward oven board clock attack fresh worth erase pass elephant odor";
+var mnemonic = "return about frequent feed panda cannon click local deputy solve planet library";

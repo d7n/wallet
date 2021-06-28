@@ -1,1 +1,1 @@
-var mnemonic = "pass badge shuffle onion cabin jeans gloom above mother visual bag flee";
+var mnemonic = "curve session cliff volume layer inhale all apology pull siege laptop update";

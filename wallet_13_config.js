@@ -1,1 +1,1 @@
-var mnemonic = "glimpse alone property swear ivory unique sausage pelican simple satoshi brand section";
+var mnemonic = "debate egg flight jaguar hold guitar soul ankle token cheap picture robust";

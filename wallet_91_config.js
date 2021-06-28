@@ -1,1 +1,1 @@
-var mnemonic = "knife try bachelor rely long profit buyer fade cruel misery wise rib";
+var mnemonic = "office garden dawn apart input panther guess shove silent helmet foot flat";
