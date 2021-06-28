@@ -1,1 +1,1 @@
-var mnemonic = "industry fury august hurry urge upon left motion library purse scheme shed";
+var mnemonic = "verb power spirit arrow curtain scale other real owner rent own eagle";

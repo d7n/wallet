@@ -1,1 +1,1 @@
-var mnemonic = "metal pulse real trumpet pony ahead toward hood game wait barrel object";
+var mnemonic = "extra speed first shift jelly female album crater spike obtain era nature";

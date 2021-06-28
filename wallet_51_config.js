@@ -1,1 +1,1 @@
-var mnemonic = "isolate street abandon cactus pact merge left jungle tail disorder horse arrive";
+var mnemonic = "race crisp shoulder novel bottom cake judge basket leopard voyage broom grow";

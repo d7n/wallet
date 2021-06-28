@@ -1,1 +1,1 @@
-var mnemonic = "sorry journey minimum okay swarm fun quick climb cheap three hope vocal";
+var mnemonic = "remember afford jelly insect assist boy uncover egg reform panic brown decide";

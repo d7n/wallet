@@ -1,1 +1,1 @@
-var mnemonic = "casino quantum poet else smart slogan stomach company squirrel silly adult develop";
+var mnemonic = "tennis youth enforce flock glad nest other hover moment theme ketchup scorpion";

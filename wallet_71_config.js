@@ -1,1 +1,1 @@
-var mnemonic = "jelly issue risk initial above primary opinion shock cute fiscal immune pulse";
+var mnemonic = "lunch denial cruel entry spider capital hover park warrior danger subway vault";

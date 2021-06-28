@@ -1,1 +1,1 @@
-var mnemonic = "faculty neglect blame spike story evoke female champion hope add pluck right";
+var mnemonic = "napkin accident major athlete actor public slight mimic puppy force audit hood";

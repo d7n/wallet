@@ -1,1 +1,1 @@
-var mnemonic = "picnic need buyer brief rate ketchup oven include town token fantasy olive";
+var mnemonic = "ghost pass coyote curtain process ladder toward muffin year olympic daring borrow";

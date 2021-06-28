@@ -1,1 +1,1 @@
-var mnemonic = "ask blast artist obtain walnut belt wire luxury hover elevator glad exile";
+var mnemonic = "client canyon now own slush object chunk mother quit army wing uniform";

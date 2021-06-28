@@ -1,1 +1,1 @@
-var mnemonic = "always autumn deer wing pottery cement spatial lucky obtain around fresh rain";
+var mnemonic = "spike deposit agree dutch escape earn trick focus one party method ticket";

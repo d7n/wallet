@@ -1,1 +1,1 @@
-var mnemonic = "omit core clump soon analyst hand inhale country oxygen truly film depend";
+var mnemonic = "true strategy better vapor daring crumble early nerve video begin minor outside";

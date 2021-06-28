@@ -1,1 +1,1 @@
-var mnemonic = "chest trick process penalty smooth soda undo gesture fork palace twenty reward";
+var mnemonic = "lady relax borrow talk render destroy parade fury rent prevent audit captain";

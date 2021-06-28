@@ -1,1 +1,1 @@
-var mnemonic = "dumb grit opinion yard warfare wealth hard shallow cake steel ticket fluid";
+var mnemonic = "library sustain used decrease grape voice used mix cement exchange soup live";

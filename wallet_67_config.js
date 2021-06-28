@@ -1,1 +1,1 @@
-var mnemonic = "mosquito move zone kangaroo artwork cross kitchen claim cost brand alert educate";
+var mnemonic = "tower lemon destroy vacant boss abuse large episode stuff razor pottery liberty";

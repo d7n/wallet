@@ -1,1 +1,1 @@
-var mnemonic = "acid cancel dog crane visual relax drop lend nominee ghost hobby divorce";
+var mnemonic = "garlic resource bounce device enable cart city argue step smooth civil census";

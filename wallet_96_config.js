@@ -1,1 +1,1 @@
-var mnemonic = "cram add version mule matter oppose stove feed elephant donor prevent pitch";
+var mnemonic = "way master file race extend repeat false cream stumble shoot oyster lawsuit";

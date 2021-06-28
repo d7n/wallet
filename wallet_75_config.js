@@ -1,1 +1,1 @@
-var mnemonic = "apple cinnamon stable crowd hold category body hazard direct width perfect wing";
+var mnemonic = "soccer because decrease arrange cruise cradle better oven crater fee reduce vacant";

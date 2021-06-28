@@ -1,1 +1,1 @@
-var mnemonic = "theory lamp sibling movie ensure few burst remove sadness news canvas spread";
+var mnemonic = "sugar faculty decline grocery decrease obscure bid fetch describe rebuild estate outdoor";

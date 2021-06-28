@@ -1,1 +1,1 @@
-var mnemonic = "around silly essence cream plug series have link flip city galaxy focus";
+var mnemonic = "segment space wink army leopard shrimp sudden february error pipe produce farm";

@@ -1,1 +1,1 @@
-var mnemonic = "other over drill express wolf where stomach left when steel ahead undo";
+var mnemonic = "wagon impact aspect image universe airport bomb tiny path develop follow october";

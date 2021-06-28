@@ -1,1 +1,1 @@
-var mnemonic = "wing sentence inhale mango humble child crane fortune stay stamp must glide";
+var mnemonic = "life solve erosion domain captain tide modify tongue elephant taste clump night";

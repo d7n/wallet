@@ -1,1 +1,1 @@
-var mnemonic = "lonely host increase universe pole east gain service spring advice bird illness";
+var mnemonic = "achieve eye jump viable drink kid century next vital menu fabric torch";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle laundry zero front scout real flash artist garden buzz assume cherry";
+var mnemonic = "discover pigeon release kingdom wait oak then creek elegant license skin dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "link hole piano badge border alpha cupboard tooth beauty ten glide loop";
+var mnemonic = "layer stay wall endless arrow raise seminar river lounge test subject theme";

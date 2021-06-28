@@ -1,1 +1,1 @@
-var mnemonic = "myself defy verify fat age often pen cherry cable valve clip finger";
+var mnemonic = "prize maximum plunge sleep theory robot advance word uphold become vivid symptom";

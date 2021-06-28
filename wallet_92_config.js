@@ -1,1 +1,1 @@
-var mnemonic = "wage either aware grunt source canyon antique need romance inflict ramp grace";
+var mnemonic = "agent useless audit cherry coyote foot edit wheel absurd grab reject misery";

@@ -1,1 +1,1 @@
-var mnemonic = "humor ensure topple total supply tennis state nut inherit work three spread";
+var mnemonic = "pupil tone coffee goose author destroy glory delay correct bus deliver hockey";

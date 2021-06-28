@@ -1,1 +1,1 @@
-var mnemonic = "reunion cargo team miss parade mammal stay cage arrange cage chair cloth";
+var mnemonic = "sad choose cover meadow powder race enforce excess exile erase vicious flag";

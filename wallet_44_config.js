@@ -1,1 +1,1 @@
-var mnemonic = "awful member practice chronic refuse gold vital fix pluck film viable method";
+var mnemonic = "symptom crazy shield treat lobster pull merit almost maid melody express tenant";

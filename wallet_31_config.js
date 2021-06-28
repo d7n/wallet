@@ -1,1 +1,1 @@
-var mnemonic = "weapon island gas matrix unable road shine accident pull hard economy clump";
+var mnemonic = "penalty imitate path hurdle peanut rookie erosion cage ivory act myth october";

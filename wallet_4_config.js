@@ -1,1 +1,1 @@
-var mnemonic = "safe child glare chalk tell yard hammer under canvas deputy evolve attitude";
+var mnemonic = "zoo analyst run similar lizard illegal explain quiz stadium cotton limit gasp";

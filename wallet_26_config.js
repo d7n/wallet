@@ -1,1 +1,1 @@
-var mnemonic = "wife deal hollow disease home latin canoe behave carbon tell bright change";
+var mnemonic = "sorry wet thought coconut sudden liberty cotton comic ring leopard soccer cool";

@@ -1,1 +1,1 @@
-var mnemonic = "acid royal rabbit weapon frog since stay duck hair portion globe crumble";
+var mnemonic = "child design park small local knife crash exercise bring casual onion act";

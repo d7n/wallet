@@ -1,1 +1,1 @@
-var mnemonic = "pink chase dust rice weasel artist invest youth field fossil scale pair";
+var mnemonic = "want illness hen caught town document version fatal sorry price warrior bike";

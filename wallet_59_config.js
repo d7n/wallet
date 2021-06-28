@@ -1,1 +1,1 @@
-var mnemonic = "wing gate arctic approve reveal skull talent track obscure bench level lunar";
+var mnemonic = "dune spring sick ranch ski tail baby traffic aware observe follow hair";

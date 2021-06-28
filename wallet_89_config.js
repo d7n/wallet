@@ -1,1 +1,1 @@
-var mnemonic = "dolphin tourist recipe faint neglect grunt humble innocent kangaroo damage prison bubble";
+var mnemonic = "trash bridge inform lemon setup tortoise social tobacco judge dish giant couple";

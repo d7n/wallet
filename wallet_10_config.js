@@ -1,1 +1,1 @@
-var mnemonic = "trick final glow song found very dinosaur range nest since lab emotion";
+var mnemonic = "insect impose subject suspect farm zebra thrive acoustic nurse ribbon mushroom orbit";

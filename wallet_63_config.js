@@ -1,1 +1,1 @@
-var mnemonic = "fortune raven spoil weather earn proof wise cabbage vehicle shuffle snake lobster";
+var mnemonic = "lift spin ship lazy airport glow shield avocado spring stem glove share";

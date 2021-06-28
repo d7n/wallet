@@ -1,1 +1,1 @@
-var mnemonic = "select assist envelope mountain mystery chase forum this wing orange artefact garment";
+var mnemonic = "pupil evoke task among road person chest evil maple menu flee scene";

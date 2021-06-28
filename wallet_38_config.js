@@ -1,1 +1,1 @@
-var mnemonic = "fat service multiply risk service dress swamp labor dynamic large almost dismiss";
+var mnemonic = "border rent address apple edit worth attend glove moon voyage library pool";

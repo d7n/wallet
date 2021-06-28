@@ -1,1 +1,1 @@
-var mnemonic = "jacket meat shoulder table sugar fancy float stereo damp column gather bless";
+var mnemonic = "crop display lift opinion issue tired bean immune rookie young fan exercise";

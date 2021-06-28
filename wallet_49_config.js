@@ -1,1 +1,1 @@
-var mnemonic = "daring pole mass summer clinic jump doctor inside finger smooth bird panda";
+var mnemonic = "once army style original relief ocean ladder spot element carbon doll airport";

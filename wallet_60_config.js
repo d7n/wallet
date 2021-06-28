@@ -1,1 +1,1 @@
-var mnemonic = "fork broccoli finger range park news duty anxiety fruit result rug minor";
+var mnemonic = "dizzy spy arrow elephant slide exercise lecture hint access social minimum east";

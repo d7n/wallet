@@ -1,1 +1,1 @@
-var mnemonic = "crowd orphan episode theory mystery connect scrap town suffer fragile obey cement";
+var mnemonic = "merry lyrics grape near vault tower vote moment caught vast become neglect";

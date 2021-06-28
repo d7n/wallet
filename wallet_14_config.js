@@ -1,1 +1,1 @@
-var mnemonic = "cute chimney gallery december chronic educate crawl that tiger omit veteran cinnamon";
+var mnemonic = "swift saddle client labor gadget stage neglect media marine caught inner isolate";

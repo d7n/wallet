@@ -1,1 +1,1 @@
-var mnemonic = "carry regret scale waste segment announce excite pizza plunge path echo firm";
+var mnemonic = "sound celery saddle modify expect wrap next polar dumb retreat clean fire";

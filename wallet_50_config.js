@@ -1,1 +1,1 @@
-var mnemonic = "bind child ignore calm injury uniform buyer palace indoor ship cannon rigid";
+var mnemonic = "material oppose season language wait inherit setup excuse enemy tired organ trouble";

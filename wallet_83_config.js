@@ -1,1 +1,1 @@
-var mnemonic = "jaguar alien artefact alcohol art month nest peasant meadow chat silly sound";
+var mnemonic = "room force pluck title general degree latin portion display payment usage pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "pink force regular rent mass clump fan camera agent cage rifle suit";
+var mnemonic = "valley mountain panda super horn decide inmate badge glow lend hold tiny";

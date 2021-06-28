@@ -1,1 +1,1 @@
-var mnemonic = "gospel chunk balance token robust april aerobic injury phrase copy catch element";
+var mnemonic = "hope poet kitchen believe grid tell million often know wreck rose noise";

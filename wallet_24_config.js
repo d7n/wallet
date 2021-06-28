@@ -1,1 +1,1 @@
-var mnemonic = "someone cream tuition city trophy vapor valid brush shine border trade solid";
+var mnemonic = "brass charge attend doll picnic near mistake feel pole shove news giant";

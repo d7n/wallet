@@ -1,1 +1,1 @@
-var mnemonic = "short neck craft arctic happy shine donate buyer feed unlock stay person";
+var mnemonic = "crunch mimic aspect will poverty fortune recycle seed october play topic book";

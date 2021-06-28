@@ -1,1 +1,1 @@
-var mnemonic = "strategy document brush mobile junior sad loyal list goose west tragic memory";
+var mnemonic = "letter rent high wolf patient erupt engage glove harsh casino lamp candy";

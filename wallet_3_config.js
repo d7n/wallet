@@ -1,1 +1,1 @@
-var mnemonic = "duck parrot lake kidney top pool silk art program around marriage dismiss";
+var mnemonic = "plastic urban little hospital already fatigue juice eye deny museum host answer";

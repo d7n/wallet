@@ -1,1 +1,1 @@
-var mnemonic = "into buzz lobster chaos raw disease picture grit west obvious shed donor";
+var mnemonic = "purchase start total mad catalog now maze settle typical onion very bitter";

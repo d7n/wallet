@@ -1,1 +1,1 @@
-var mnemonic = "room lyrics rebuild frozen bonus polar bachelor again name taxi person crew";
+var mnemonic = "damp obey scheme menu just stove unhappy hire must near blur essence";

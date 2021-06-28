@@ -1,1 +1,1 @@
-var mnemonic = "gym pull output suit evolve trust blush into pilot keen chase polar";
+var mnemonic = "purchase elder huge pig setup much renew since cloud village parrot front";

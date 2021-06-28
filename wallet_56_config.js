@@ -1,1 +1,1 @@
-var mnemonic = "subject legal easy fee abandon material rare custom chapter time cool pool";
+var mnemonic = "napkin arrow town nature ozone render renew ribbon general minor valid retire";

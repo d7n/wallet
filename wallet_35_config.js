@@ -1,1 +1,1 @@
-var mnemonic = "water dentist corn razor resemble electric crisp canoe stand enroll warfare secret";
+var mnemonic = "reveal tired raven night flush puppy under april congress usual insane twice";

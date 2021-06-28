@@ -1,1 +1,1 @@
-var mnemonic = "tomato actor shuffle outside budget token ceiling inform rose spring vanish ceiling";
+var mnemonic = "perfect melody grab awake symbol slow radio present forward push argue evidence";

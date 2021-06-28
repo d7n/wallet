@@ -1,1 +1,1 @@
-var mnemonic = "truly maple alien all stairs enjoy title warm luxury resemble minor arm";
+var mnemonic = "reunion balcony swallow armor jar virtual rent mail about weather world brain";

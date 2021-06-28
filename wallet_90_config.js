@@ -1,1 +1,1 @@
-var mnemonic = "picnic verb pizza dress canoe two uncle concert empty leaf youth rural";
+var mnemonic = "riot leader control resource absent hamster monkey seminar quantum cook code tragic";

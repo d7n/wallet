@@ -1,1 +1,1 @@
-var mnemonic = "peace street spell amused agree object immense lazy happy fashion oppose liberty";
+var mnemonic = "scheme ritual domain choice lake digital swing bless sphere leg winter ankle";

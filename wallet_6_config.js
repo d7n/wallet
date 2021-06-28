@@ -1,1 +1,1 @@
-var mnemonic = "tube acquire rigid palace erosion angle ball object welcome huge combine unknown";
+var mnemonic = "turtle marriage ice bleak indoor alarm eternal concert disease core web vicious";

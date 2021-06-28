@@ -1,1 +1,1 @@
-var mnemonic = "rack tomato push share quit artwork shrug canoe scrap insect table radio";
+var mnemonic = "lava sea hurt monster episode juice citizen spoil eyebrow gap forest inform";

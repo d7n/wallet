@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo siren soap faculty course year urban whale festival inflict attract smooth";
+var mnemonic = "lady deer garage check hungry hub bulb host ritual charge blur glad";

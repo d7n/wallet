@@ -1,1 +1,1 @@
-var mnemonic = "inside maid lounge this engage taxi ladder grace paddle oppose wheel mix";
+var mnemonic = "capital brief valve toy bacon rule gesture seek super shine guilt spread";

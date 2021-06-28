@@ -1,1 +1,1 @@
-var mnemonic = "that taste hand auto tool coin elevator crouch horse gift awesome payment";
+var mnemonic = "heavy voyage because conduct husband ribbon island need keep enough strategy great";

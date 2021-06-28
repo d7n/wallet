@@ -1,1 +1,1 @@
-var mnemonic = "soft cube metal into day jungle panther allow gentle morning crumble feel";
+var mnemonic = "friend rotate punch monkey collect clap debris manual draw pave plastic plate";

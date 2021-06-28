@@ -1,1 +1,1 @@
-var mnemonic = "decade squeeze over lobster spring garment bargain trim hurdle family dignity behind";
+var mnemonic = "merry total bounce drift elevator real core impact course target combine trap";

@@ -1,1 +1,1 @@
-var mnemonic = "witness canyon usual camera fancy ancient soon exact dose fatal spoil split";
+var mnemonic = "giggle learn dentist clog always rather damage shine gesture chunk hurdle high";

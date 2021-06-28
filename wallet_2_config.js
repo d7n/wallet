@@ -1,1 +1,1 @@
-var mnemonic = "ginger mad obtain citizen raw boss tell two faint describe soup cupboard";
+var mnemonic = "toddler clown view return million key frost solution congress cotton try where";

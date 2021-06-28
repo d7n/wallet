@@ -1,1 +1,1 @@
-var mnemonic = "type truth mirror priority action assume pledge point they already champion life";
+var mnemonic = "room enjoy surprise armed defense isolate option deer wing air great object";

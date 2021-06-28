@@ -1,1 +1,1 @@
-var mnemonic = "attract offer breeze syrup subway method correct true demise truth first grocery";
+var mnemonic = "twenty champion cargo fiber output volume initial much actress shoot typical joke";

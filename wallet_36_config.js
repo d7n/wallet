@@ -1,1 +1,1 @@
-var mnemonic = "know ten recycle knock end task waste sibling maximum session response order";
+var mnemonic = "foster skull room label obey dice wink cat theme around scissors decrease";

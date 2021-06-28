@@ -1,1 +1,1 @@
-var mnemonic = "pilot labor effort summer spirit notice mom cloth churn penalty lawsuit left";
+var mnemonic = "shaft repeat wash among next clay faith exchange defy unique child shrug";

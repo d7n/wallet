@@ -1,1 +1,1 @@
-var mnemonic = "return object claim sniff wool mosquito hurdle universe climb column never universe";
+var mnemonic = "powder illness hollow average gold cross across milk render dash south genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing nose assault prison multiply razor occur insect simple coffee holiday lab";
+var mnemonic = "agent wrap inch attend twin day place sure ceiling kid jeans secret";

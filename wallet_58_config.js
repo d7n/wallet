@@ -1,1 +1,1 @@
-var mnemonic = "army embark marble season tide crack strike advance hover just goat bless";
+var mnemonic = "era expire two debris guess thrive fault oval all snack media laundry";

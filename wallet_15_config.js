@@ -1,1 +1,1 @@
-var mnemonic = "crystal object cheap jaguar cup whip digital since today yard divert start";
+var mnemonic = "core gentle leg snap absurd door mushroom episode lottery vocal outside voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "patch ceiling exist tragic rapid treat foster erosion exhibit tiger lecture virtual";
+var mnemonic = "orchard marble lava almost market laptop lab field airport tide material staff";

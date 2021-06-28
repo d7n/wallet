@@ -1,1 +1,1 @@
-var mnemonic = "moment vibrant advice upgrade cube rescue because silk grass loop pistol canal";
+var mnemonic = "episode club divorce off shoot camp garment rate trim unaware water circle";

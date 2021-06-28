@@ -1,1 +1,1 @@
-var mnemonic = "include file broccoli charge draft digital labor oxygen hour barrel abandon marble";
+var mnemonic = "giant close crisp primary ladder garbage also claw matter hill cricket shiver";

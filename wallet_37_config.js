@@ -1,1 +1,1 @@
-var mnemonic = "risk zoo fantasy scissors syrup success cliff vacuum illness emerge property witness";
+var mnemonic = "tiger furnace vanish region employ friend diagram force caught steak fantasy sound";

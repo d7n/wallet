@@ -1,1 +1,1 @@
-var mnemonic = "chief box kiwi reduce once gallery elbow just essence raw myth punch";
+var mnemonic = "cotton fuel feed cement avocado frame lift wrist document effort talk author";

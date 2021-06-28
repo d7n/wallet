@@ -1,1 +1,1 @@
-var mnemonic = "below basket nuclear rice gym curious color sun medal render survey equip";
+var mnemonic = "thunder possible trick obey aware belt book bulb lottery dune arm father";
