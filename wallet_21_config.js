@@ -1,1 +1,1 @@
-var mnemonic = "faculty mass blossom flight wait disorder cake voice era diagram bomb tail";
+var mnemonic = "state display canvas parrot glide brother improve hungry divide clinic dizzy slogan";

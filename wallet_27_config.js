@@ -1,1 +1,1 @@
-var mnemonic = "invest swift derive vocal velvet zoo minute outdoor marble junior metal sorry";
+var mnemonic = "artist dial wild soft fruit camp chef rival popular solution add naive";

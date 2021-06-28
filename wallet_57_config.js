@@ -1,1 +1,1 @@
-var mnemonic = "opera piece bamboo improve pulp analyst bless cool door hub modify engage";
+var mnemonic = "tuna invite wet walk right december various tube series give region master";

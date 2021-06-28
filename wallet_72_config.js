@@ -1,1 +1,1 @@
-var mnemonic = "scene olive win absent leisure rib alley jacket reopen army crush useful";
+var mnemonic = "march ugly skull around park topic chronic over paddle steel copper six";

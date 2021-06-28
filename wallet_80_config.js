@@ -1,1 +1,1 @@
-var mnemonic = "desk resource ride dice sorry belt acoustic sight spread tennis abuse kid";
+var mnemonic = "blanket marriage tip excite bunker action popular problem worry resist tumble apart";

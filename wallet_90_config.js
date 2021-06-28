@@ -1,1 +1,1 @@
-var mnemonic = "retreat dream quarter salmon margin donkey dismiss coach market stem vicious blast";
+var mnemonic = "pumpkin young minor property scout note few bargain wash health wisdom pattern";

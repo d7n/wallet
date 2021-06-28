@@ -1,1 +1,1 @@
-var mnemonic = "worth grocery guess truly between blade carry enlist remain useless season hockey";
+var mnemonic = "feed damage cliff dial material merit hill fringe scissors result wet verify";

@@ -1,1 +1,1 @@
-var mnemonic = "receive tank mention enough rose critic fluid approve remain helmet paper deal";
+var mnemonic = "hill wreck more volcano solve member vacuum object certain balcony wrap jewel";

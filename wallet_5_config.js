@@ -1,1 +1,1 @@
-var mnemonic = "ugly faculty salon fly control aunt estate follow chat usual tortoise motion";
+var mnemonic = "tackle omit rally hazard toss force winter poverty stock three wink volume";

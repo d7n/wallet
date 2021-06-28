@@ -1,1 +1,1 @@
-var mnemonic = "quote bachelor tiger medal engine bulk throw bullet gym antenna banana civil";
+var mnemonic = "balance useless trick into moment manual news sock quarter favorite resemble major";

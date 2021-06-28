@@ -1,1 +1,1 @@
-var mnemonic = "thunder decrease second utility clutch jar find property regret orphan action dirt";
+var mnemonic = "stand slender pattern armor clutch credit wet lock reveal achieve worth level";

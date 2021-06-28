@@ -1,1 +1,1 @@
-var mnemonic = "canvas settle eternal sand apple fun kiwi tomato city want brief tiger";
+var mnemonic = "surround buyer license spend good trash position comic earn account another nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "salute lounge barely patrol balcony recall limit refuse lottery section scheme fine";
+var mnemonic = "daughter ice owner month net pottery remember arm alpha peasant aunt robust";

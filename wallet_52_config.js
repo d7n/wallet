@@ -1,1 +1,1 @@
-var mnemonic = "cabbage mad firm artefact toilet sword patient flash quantum fork small banana";
+var mnemonic = "awful round undo rare slim walk parrot shiver silver erode woman secret";

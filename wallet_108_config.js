@@ -1,1 +1,1 @@
-var mnemonic = "actor anger iron height talk much charge gas measure census start broken";
+var mnemonic = "ocean reduce meadow noble source thought habit episode series episode enroll boost";

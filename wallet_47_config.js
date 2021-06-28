@@ -1,1 +1,1 @@
-var mnemonic = "panda smile lobster define gorilla either breeze swap debris expose tent world";
+var mnemonic = "knee blade bleak antique about marine describe peace swim tornado stem raise";

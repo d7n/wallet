@@ -1,1 +1,1 @@
-var mnemonic = "tenant craft grow inmate return clay squeeze bless want sell pair toddler";
+var mnemonic = "essay fan since pass auction drill unknown canoe army abuse news drastic";

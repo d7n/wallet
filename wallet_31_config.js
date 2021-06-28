@@ -1,1 +1,1 @@
-var mnemonic = "strike goddess viable style cross monitor knock gossip evoke glimpse sunny march";
+var mnemonic = "champion drink unhappy pitch soft trumpet moment reduce lift cement cart rely";

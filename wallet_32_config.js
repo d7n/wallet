@@ -1,1 +1,1 @@
-var mnemonic = "quote paddle domain group total history exact rather soul alarm hospital funny";
+var mnemonic = "horror property impose expire vicious puzzle inherit sheriff antenna now chat duck";

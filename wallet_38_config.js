@@ -1,1 +1,1 @@
-var mnemonic = "fruit industry aware bounce poet sample fruit drive nominee armor pill stone";
+var mnemonic = "logic palm palm bridge item broom program velvet garment category flight brief";

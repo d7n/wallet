@@ -1,1 +1,1 @@
-var mnemonic = "length powder document squirrel dutch spoil kit chief design humble steel daughter";
+var mnemonic = "sense flower tunnel spread begin result liberty voice follow sausage proud question";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant soul balcony history caution fantasy unlock effort critic notable surround slice";
+var mnemonic = "pig solution scan outdoor dog melody swear curious frozen novel excite style";

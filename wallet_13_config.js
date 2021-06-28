@@ -1,1 +1,1 @@
-var mnemonic = "tenant all gaze shrimp prefer save elephant anger buffalo dolphin subway naive";
+var mnemonic = "welcome parent fortune coyote post flash before friend swear genre response weasel";

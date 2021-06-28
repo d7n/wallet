@@ -1,1 +1,1 @@
-var mnemonic = "cattle hand police planet spin business ginger remove armor pave slam couple";
+var mnemonic = "group labor crouch regret torch hard empower later brass runway burger hen";

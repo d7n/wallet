@@ -1,1 +1,1 @@
-var mnemonic = "expire illegal pelican shuffle season gorilla opinion avoid crunch believe width case";
+var mnemonic = "urge banana grape steel situate novel acoustic castle ecology clean sword mother";

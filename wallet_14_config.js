@@ -1,1 +1,1 @@
-var mnemonic = "gallery chat skull since tuition olympic idea foil capable used wedding stove";
+var mnemonic = "apart glance exist rubber mobile rural dragon soup cactus history scale hazard";

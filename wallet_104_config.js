@@ -1,1 +1,1 @@
-var mnemonic = "wolf onion install flavor gossip plunge library similar citizen cage scale usage";
+var mnemonic = "disagree enlist brave danger width ramp iron member arctic one tongue hill";

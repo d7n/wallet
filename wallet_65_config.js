@@ -1,1 +1,1 @@
-var mnemonic = "lounge another liquid need duck never between family sound impact claw dream";
+var mnemonic = "extra lucky pigeon silk ask palm note tragic eye volcano together feel";

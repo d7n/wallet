@@ -1,1 +1,1 @@
-var mnemonic = "walnut general amount engage leg luggage problem relief favorite twenty rebuild manual";
+var mnemonic = "alarm weapon volume plate rude whale initial soda together speak govern decorate";

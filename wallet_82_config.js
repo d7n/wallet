@@ -1,1 +1,1 @@
-var mnemonic = "together swarm noise nut rebuild sun neck alcohol oak riot check system";
+var mnemonic = "patient load cousin return beyond goose balance breeze angle kid there search";

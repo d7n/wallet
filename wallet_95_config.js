@@ -1,1 +1,1 @@
-var mnemonic = "festival buffalo near federal actual pear blur oak pact couch sense tree";
+var mnemonic = "toward crowd unfold position when avocado luxury upgrade reopen addict fabric birth";

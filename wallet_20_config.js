@@ -1,1 +1,1 @@
-var mnemonic = "system hint slim brand remove bullet fantasy gift leaf opinion knock assault";
+var mnemonic = "decade favorite crash nerve pulse inform speed mixture firm leader myself cliff";

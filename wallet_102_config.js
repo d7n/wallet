@@ -1,1 +1,1 @@
-var mnemonic = "force artwork vibrant rhythm fee youth acquire erase move neglect home solid";
+var mnemonic = "student will finger actor scene black valve mix fine immense regret erosion";

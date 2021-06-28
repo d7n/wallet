@@ -1,1 +1,1 @@
-var mnemonic = "sad buddy rifle artist scan noble conduct spell lazy spread apple knife";
+var mnemonic = "labor fatigue dish select iron mention ensure adult notable script salt journey";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon below question total estate teach object fun prefer drastic pony brave";
+var mnemonic = "total spot solve field girl air harsh patient police elite mobile liquid";

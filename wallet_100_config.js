@@ -1,1 +1,1 @@
-var mnemonic = "nurse forum rotate rail drop ticket easy mass human sentence toast screen";
+var mnemonic = "turkey noodle define maid guilt curtain slot copy token custom electric hat";

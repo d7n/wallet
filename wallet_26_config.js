@@ -1,1 +1,1 @@
-var mnemonic = "huge lemon portion mirror twelve boring holiday cattle word group parent safe";
+var mnemonic = "argue oyster match document ginger deputy dutch author sign coin hip pigeon";

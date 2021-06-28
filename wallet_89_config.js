@@ -1,1 +1,1 @@
-var mnemonic = "coin spoil evolve web symbol oil miracle hobby denial dinner goddess panic";
+var mnemonic = "ostrich health field volcano burst bulk twist dune teach inherit lift tunnel";

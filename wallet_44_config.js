@@ -1,1 +1,1 @@
-var mnemonic = "border captain sing illegal little regular virtual hybrid enforce inherit boss blossom";
+var mnemonic = "milk disease summer fee pair pond velvet wisdom escape dinosaur scare fetch";

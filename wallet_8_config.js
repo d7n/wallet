@@ -1,1 +1,1 @@
-var mnemonic = "wait canvas coach churn filter glare alone advance odor denial valley miss";
+var mnemonic = "tomorrow clever record fossil utility anchor slot item ostrich brother sphere hello";

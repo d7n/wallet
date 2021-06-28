@@ -1,1 +1,1 @@
-var mnemonic = "ice flush runway mesh tissue impulse legend burst edit double thumb donate";
+var mnemonic = "vapor solve day tortoise cart own beach vapor jewel hurdle horror admit";

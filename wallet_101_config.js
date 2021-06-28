@@ -1,1 +1,1 @@
-var mnemonic = "plate fiscal nice alarm chat diary quote fold flavor ghost nation confirm";
+var mnemonic = "own weather between wrist donkey rescue tail paddle cube hurdle deer year";

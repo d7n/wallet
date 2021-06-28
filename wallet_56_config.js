@@ -1,1 +1,1 @@
-var mnemonic = "safe this notable autumn next actual antique lamp alien utility rural town";
+var mnemonic = "face pigeon goddess disagree roast giant arrest ostrich hammer patch gold thumb";

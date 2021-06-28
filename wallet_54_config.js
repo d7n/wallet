@@ -1,1 +1,1 @@
-var mnemonic = "evil mask wrestle drill poverty result buffalo noble boring source country border";
+var mnemonic = "alpha laundry seat talent next electric razor funny hazard vivid source attend";

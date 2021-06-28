@@ -1,1 +1,1 @@
-var mnemonic = "satisfy borrow bracket sign spin calm lens radio grant devote history simple";
+var mnemonic = "sleep between erode actor symbol security segment planet input deny labor badge";

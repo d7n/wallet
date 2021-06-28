@@ -1,1 +1,1 @@
-var mnemonic = "park nut elephant differ decrease inform frozen dove effort elbow wave dad";
+var mnemonic = "mask slice garbage describe deal tube hamster sister increase claim thought already";

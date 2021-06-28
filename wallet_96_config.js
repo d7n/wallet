@@ -1,1 +1,1 @@
-var mnemonic = "lyrics group topic excite member accuse law trust under true sugar fence";
+var mnemonic = "planet wave core visit great extra cement useful three write step safe";

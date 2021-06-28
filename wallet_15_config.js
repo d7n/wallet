@@ -1,1 +1,1 @@
-var mnemonic = "refuse antique quit license enter syrup blind zoo lake body autumn antenna";
+var mnemonic = "check upset short wheel salad denial affair catch round owner assist risk";

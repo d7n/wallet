@@ -1,1 +1,1 @@
-var mnemonic = "arrange virus digital tell bulk lawn girl sleep garment ketchup bulk tunnel";
+var mnemonic = "prize amazing segment flame artist begin argue among fresh settle palm squeeze";

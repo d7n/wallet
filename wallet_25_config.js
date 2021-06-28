@@ -1,1 +1,1 @@
-var mnemonic = "candy relief lobster road core ecology begin repeat connect dismiss sustain more";
+var mnemonic = "lens riot quote gloom axis cruel stamp wrap today volume bulk aware";

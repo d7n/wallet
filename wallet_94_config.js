@@ -1,1 +1,1 @@
-var mnemonic = "enlist exhaust angle rookie fitness pigeon put original remain scene book middle";
+var mnemonic = "juice talent industry emotion body hover maid clump save bless tumble ancient";

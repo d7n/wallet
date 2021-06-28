@@ -1,1 +1,1 @@
-var mnemonic = "problem arrest account method service gift habit patch royal code square unveil";
+var mnemonic = "rabbit excite choose frown pluck noble approve explain wrap sunset lesson thumb";

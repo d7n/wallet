@@ -1,1 +1,1 @@
-var mnemonic = "balance asset upset grunt side nuclear holiday garden address crunch object member";
+var mnemonic = "sunny device ancient simple flame marriage salt debris false plug steel upon";

@@ -1,1 +1,1 @@
-var mnemonic = "sight poet donate charge barrel avoid decrease midnight domain table august dentist";
+var mnemonic = "blue play icon wash steak reason media spell fabric hope air weapon";

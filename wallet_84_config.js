@@ -1,1 +1,1 @@
-var mnemonic = "topic goat oxygen finger denial consider aisle atom cupboard tuna host city";
+var mnemonic = "practice inspire family fragile world bid layer stand check table recall ball";

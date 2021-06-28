@@ -1,1 +1,1 @@
-var mnemonic = "alley pulp harbor wasp blossom daughter acid volcano find sadness vessel join";
+var mnemonic = "mansion decade connect auto wheel burden quarter leisure swap grit regret lobster";

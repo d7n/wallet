@@ -1,1 +1,1 @@
-var mnemonic = "until adjust birth menu power permit answer hill arrange power swarm grunt";
+var mnemonic = "kangaroo because scissors keep what foam region neutral oblige brush celery panther";

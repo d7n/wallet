@@ -1,1 +1,1 @@
-var mnemonic = "trumpet panic quit dance recycle guard fiscal reunion invest assault afford slush";
+var mnemonic = "anchor drift lobster never define clay deny tuna task purity pigeon follow";

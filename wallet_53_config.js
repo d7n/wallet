@@ -1,1 +1,1 @@
-var mnemonic = "seven affair glass midnight bring neutral rib father border endorse dry friend";
+var mnemonic = "trick hire project chair flight impact grow rose pizza ask return asset";

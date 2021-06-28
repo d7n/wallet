@@ -1,1 +1,1 @@
-var mnemonic = "hobby visa gospel reject cargo time rice obtain name rifle token twelve";
+var mnemonic = "remain wave trick acquire victory spy rural submit measure impulse decide analyst";

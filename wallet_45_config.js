@@ -1,1 +1,1 @@
-var mnemonic = "loud coast mistake foster beef sample unusual surface news banana parade scan";
+var mnemonic = "noodle win dynamic green oppose wagon weather actual betray inmate toss benefit";

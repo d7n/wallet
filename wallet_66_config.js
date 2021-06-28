@@ -1,1 +1,1 @@
-var mnemonic = "grow claw drill remove bullet crush champion remind lava direct matrix faint";
+var mnemonic = "decade cross drum clog steak cherry ranch eagle cinnamon era pull october";

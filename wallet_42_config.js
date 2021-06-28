@@ -1,1 +1,1 @@
-var mnemonic = "filter exercise palace maple tragic intact farm dizzy eye diagram butter useful";
+var mnemonic = "manual matrix will super harbor slide early nation employ rate have misery";

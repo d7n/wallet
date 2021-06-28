@@ -1,1 +1,1 @@
-var mnemonic = "whip example obtain raccoon margin dolphin keen puzzle use caution purity mask";
+var mnemonic = "destroy balcony essay rent among cloth amount join hope inject abandon shove";

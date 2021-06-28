@@ -1,1 +1,1 @@
-var mnemonic = "uphold always frog toddler salad mind nurse flavor cover cradle purchase half";
+var mnemonic = "spin wild there scare approve intact trouble local oyster item rude pledge";

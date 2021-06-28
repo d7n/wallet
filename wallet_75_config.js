@@ -1,1 +1,1 @@
-var mnemonic = "zero purpose hen guess nothing gloom run enrich rent observe idle hazard";
+var mnemonic = "talk proud fruit member tray cake carpet law actress toss sauce rifle";

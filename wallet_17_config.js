@@ -1,1 +1,1 @@
-var mnemonic = "present expand there rally valid junk magic input cloud balance absorb original";
+var mnemonic = "chimney cat little butter slow able debate upper romance pupil risk near";

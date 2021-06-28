@@ -1,1 +1,1 @@
-var mnemonic = "version lawsuit slot child poverty jazz language patch virtual thought evolve small";
+var mnemonic = "prize veteran razor tool bean indicate impact tooth latin aisle demise wolf";

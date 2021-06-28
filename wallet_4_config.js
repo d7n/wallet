@@ -1,1 +1,1 @@
-var mnemonic = "flag rabbit prepare pond lonely brand tooth inhale worry penalty daring awesome";
+var mnemonic = "tattoo kitchen float believe culture original tray lemon hurry wise tube glimpse";

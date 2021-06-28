@@ -1,1 +1,1 @@
-var mnemonic = "oppose mass comic differ evoke situate shrug lawsuit identify possible warrior blade";
+var mnemonic = "piano earn frown south fluid scout icon ticket state dolphin sphere casino";

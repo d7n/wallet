@@ -1,1 +1,1 @@
-var mnemonic = "topic rug tip excite this silver position glass include tomato wave away";
+var mnemonic = "fruit coffee large gorilla near skate correct rebel drink million next theory";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual vacuum quarter episode spoon circle spider there luxury churn panic genuine";
+var mnemonic = "blast oblige shop kiwi party kind struggle embrace great home pill bicycle";

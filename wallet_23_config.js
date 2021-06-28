@@ -1,1 +1,1 @@
-var mnemonic = "throw lesson enough pave acoustic blue truly balcony hole embark strong outer";
+var mnemonic = "type tennis find plate outer occur shock grief skate antenna verify secret";

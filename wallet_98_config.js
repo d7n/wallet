@@ -1,1 +1,1 @@
-var mnemonic = "submit pond slot curve ghost cancel cruel rotate plug chalk quantum office";
+var mnemonic = "mail broccoli patient basket quality phrase problem jelly empower bronze abuse few";

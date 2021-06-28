@@ -1,1 +1,1 @@
-var mnemonic = "city gain crash because decorate tank glue eternal seek prize wage tip";
+var mnemonic = "energy cloth cook priority trust caution payment ride immune slice joke negative";

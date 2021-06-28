@@ -1,1 +1,1 @@
-var mnemonic = "bracket clutch health circle youth hub portion garment struggle absorb head flush";
+var mnemonic = "gallery until library auction addict silent path blush model teach someone hockey";

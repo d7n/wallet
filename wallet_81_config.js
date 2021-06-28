@@ -1,1 +1,1 @@
-var mnemonic = "tail bitter mistake lizard spoon project cactus bring marble assault transfer million";
+var mnemonic = "spare notable office auto aware opera universe coach into regret galaxy able";

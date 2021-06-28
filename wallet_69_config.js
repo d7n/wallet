@@ -1,1 +1,1 @@
-var mnemonic = "grocery large believe age frozen calm skin lawsuit share vanish iron injury";
+var mnemonic = "endorse decade sudden diesel stumble diary sugar farm topic fabric fluid someone";

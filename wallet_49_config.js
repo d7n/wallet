@@ -1,1 +1,1 @@
-var mnemonic = "pole impulse hurry engine fox drift maple immune burden guard acid access";
+var mnemonic = "success lemon fan wait detail script lift exit voice banner swamp grace";

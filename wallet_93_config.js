@@ -1,1 +1,1 @@
-var mnemonic = "eager fatigue sunny demise best orient final swim correct science bronze used";
+var mnemonic = "mouse allow require shuffle choose equip cheap fury sleep fever silk next";

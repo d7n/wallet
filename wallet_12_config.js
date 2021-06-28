@@ -1,1 +1,1 @@
-var mnemonic = "hundred couple drama ghost wide egg suffer reward gas waste bleak grocery";
+var mnemonic = "duty village bind minimum rocket guard prison utility shield left afraid song";

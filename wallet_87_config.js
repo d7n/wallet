@@ -1,1 +1,1 @@
-var mnemonic = "vanish august disagree stove often task short search dash suit inherit leaf";
+var mnemonic = "try glance setup agent tooth boil palace census quality chalk earn polar";

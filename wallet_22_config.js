@@ -1,1 +1,1 @@
-var mnemonic = "document thought unable fade paddle home verify syrup jacket salt minimum bulk";
+var mnemonic = "menu vendor much inject eagle wheel project bone firm repeat attract exit";

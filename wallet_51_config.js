@@ -1,1 +1,1 @@
-var mnemonic = "coffee broken wheel rude useful spider congress dynamic price jaguar nuclear level";
+var mnemonic = "aunt oil dizzy place example visa gym palm canal ill cost cattle";

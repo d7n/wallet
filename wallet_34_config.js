@@ -1,1 +1,1 @@
-var mnemonic = "test hedgehog patient cave mule garden there route illness pilot timber subway";
+var mnemonic = "beyond inflict jump custom way pilot document about purse reward faint apple";

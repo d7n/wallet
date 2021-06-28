@@ -1,1 +1,1 @@
-var mnemonic = "wonder camera obvious service tuna thrive video empty illegal light wear day";
+var mnemonic = "chair submit kiss chalk fence word road guilt apart awake bounce fly";

@@ -1,1 +1,1 @@
-var mnemonic = "flee napkin earth develop heavy number page caught jungle biology exile doctor";
+var mnemonic = "promote follow over water dignity jelly lunar lunch eye loop problem swim";
