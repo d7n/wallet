@@ -1,1 +1,1 @@
-var mnemonic = "else velvet spin crew breeze cost normal now chest divide umbrella cycle";
+var mnemonic = "crowd magic decorate gaze elevator situate throw present short panther bind feature";

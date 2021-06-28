@@ -1,1 +1,1 @@
-var mnemonic = "leg average swarm exact giggle crazy identify blush shiver test choice slim";
+var mnemonic = "reject cinnamon catalog erosion journey rival slush normal sheriff duty about another";

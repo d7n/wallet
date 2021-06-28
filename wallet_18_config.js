@@ -1,1 +1,1 @@
-var mnemonic = "once cherry cradle episode sentence yellow marble pulp ask strike trust tongue";
+var mnemonic = "van notice valve diesel swarm wheel super diesel chase task they amount";

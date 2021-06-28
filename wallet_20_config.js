@@ -1,1 +1,1 @@
-var mnemonic = "they misery fiscal water subject client domain coach spoil chef seven erode";
+var mnemonic = "nature law word awkward vibrant pupil concert correct mesh program drink before";

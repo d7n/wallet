@@ -1,1 +1,1 @@
-var mnemonic = "kick shield mistake cheap rack betray bridge mean identify muscle adult penalty";
+var mnemonic = "hunt glad coast sad adult knee camera pelican rude bench excite elevator";

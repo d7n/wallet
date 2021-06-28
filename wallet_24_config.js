@@ -1,1 +1,1 @@
-var mnemonic = "choice muffin south escape cradle learn blossom regret tube coin clever window";
+var mnemonic = "keen federal battle liquid nuclear cliff rescue agree error demise album barely";

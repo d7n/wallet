@@ -1,1 +1,1 @@
-var mnemonic = "tenant tongue minute rose gadget diary casual inform warrior dry two mobile";
+var mnemonic = "dune tone kidney learn kitchen eagle view item ill brother toddler forest";

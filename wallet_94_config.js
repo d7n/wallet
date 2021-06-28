@@ -1,1 +1,1 @@
-var mnemonic = "nothing example parrot canal acquire actress exercise horse cube biology organ favorite";
+var mnemonic = "check hazard amateur dutch mirror awake apple antenna pear coffee exotic wage";

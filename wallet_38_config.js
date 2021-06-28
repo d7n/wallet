@@ -1,1 +1,1 @@
-var mnemonic = "vicious letter gun legend wide rice hunt tackle ship eye oyster situate";
+var mnemonic = "enemy biology pool forget black shallow foil hybrid bottom velvet quantum shine";

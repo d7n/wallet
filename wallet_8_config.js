@@ -1,1 +1,1 @@
-var mnemonic = "arrange morning path grid chronic bread hidden before abstract blast bargain cricket";
+var mnemonic = "device parade amateur magnet promote dawn couch census lock topic wing case";

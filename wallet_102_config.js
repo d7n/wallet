@@ -1,1 +1,1 @@
-var mnemonic = "author clean change stable unfair imitate client diagram wash debate wheat blouse";
+var mnemonic = "attitude urge raven trick noodle media seminar nuclear sign trip picture teach";

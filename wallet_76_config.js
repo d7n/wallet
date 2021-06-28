@@ -1,1 +1,1 @@
-var mnemonic = "empty market armor pride tilt hen race pause devote glove soup tomorrow";
+var mnemonic = "west donkey tobacco extend bachelor hurt test model squirrel buyer wonder beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "kit click shop violin kangaroo pencil shell copy place edit toilet about";
+var mnemonic = "phrase grow always step future ivory sister ensure kangaroo rare camera hole";

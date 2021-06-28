@@ -1,1 +1,1 @@
-var mnemonic = "shop multiply thought hundred can vehicle kitten wisdom return guess expand meadow";
+var mnemonic = "yard security equal input resist practice apology music dice easy upgrade cool";

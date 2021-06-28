@@ -1,1 +1,1 @@
-var mnemonic = "mesh cost speak pitch display thrive young trap kiss legal slush school";
+var mnemonic = "book erase balance wage pledge isolate argue best expand repeat lake digital";

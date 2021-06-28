@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon motion tackle tunnel dose rule traffic distance club involve vacant answer";
+var mnemonic = "decide boring debris remember thank shiver fold genius asset fresh believe aerobic";

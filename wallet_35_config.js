@@ -1,1 +1,1 @@
-var mnemonic = "admit citizen field session have feel clap gap ivory vehicle embark document";
+var mnemonic = "spike shine insane swap trim jazz copy crumble coffee april stamp small";

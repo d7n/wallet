@@ -1,1 +1,1 @@
-var mnemonic = "skin rookie subject puppy debris lobster income copy wreck setup victory symptom";
+var mnemonic = "deputy paddle hover learn raccoon theory lady clip enroll viable quantum genre";

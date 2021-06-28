@@ -1,1 +1,1 @@
-var mnemonic = "program become hip matter virtual maid fine advance february host focus quarter";
+var mnemonic = "siege below aisle ranch spring buyer number ride ozone cheese reopen pledge";

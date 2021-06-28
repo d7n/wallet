@@ -1,1 +1,1 @@
-var mnemonic = "rack people puzzle anger again thunder beauty hair own lens problem tortoise";
+var mnemonic = "brother tunnel clinic wise rely reward over day blind mix decide throw";

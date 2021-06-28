@@ -1,1 +1,1 @@
-var mnemonic = "music bless monster during satoshi impact marble tattoo exact play boil aisle";
+var mnemonic = "rib miss vacuum limb main intact team rigid square main just zone";

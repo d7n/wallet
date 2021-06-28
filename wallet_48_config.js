@@ -1,1 +1,1 @@
-var mnemonic = "staff wing game cloud jewel detail craft wood ill latin region loop";
+var mnemonic = "cushion can private smile soccer absurd flavor helmet dirt filter horn silver";

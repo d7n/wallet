@@ -1,1 +1,1 @@
-var mnemonic = "thought pair real suggest mansion prefer rough nephew afraid sound salon able";
+var mnemonic = "find critic party excite case produce script logic board fruit warrior culture";

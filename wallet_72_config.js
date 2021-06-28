@@ -1,1 +1,1 @@
-var mnemonic = "dose person paddle group cheap climb weapon depend radar head govern sweet";
+var mnemonic = "sad dinner august toilet also fever merry visual small magnet tone net";

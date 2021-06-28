@@ -1,1 +1,1 @@
-var mnemonic = "cliff nut orange hawk scale aerobic item snow switch zero thunder enough";
+var mnemonic = "zebra mercy fan crowd laptop happy civil diagram lemon oven peanut dress";

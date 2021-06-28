@@ -1,1 +1,1 @@
-var mnemonic = "clump seven game soup reward alley diesel stumble twice doll giggle unfold";
+var mnemonic = "tonight sketch place neck fuel purse draft bless course lobster train ignore";

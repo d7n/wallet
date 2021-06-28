@@ -1,1 +1,1 @@
-var mnemonic = "mimic civil void curious give setup riot replace net hire quiz basket";
+var mnemonic = "aim hybrid ginger amateur easily song frost slam welcome meat margin remove";

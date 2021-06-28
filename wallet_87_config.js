@@ -1,1 +1,1 @@
-var mnemonic = "wrap ten bird gold vapor wear monkey anchor animal private theme palm";
+var mnemonic = "cause assault monkey item mom top region sustain season visual woman neutral";

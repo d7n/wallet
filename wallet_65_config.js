@@ -1,1 +1,1 @@
-var mnemonic = "develop display worth timber else polar evolve cactus link tortoise toward sell";
+var mnemonic = "thunder dirt harvest trouble custom fiction guide recipe region make upgrade horn";

@@ -1,1 +1,1 @@
-var mnemonic = "clean surprise letter skull celery rare cake parrot box napkin model delay";
+var mnemonic = "peanut physical scissors decrease ice sponsor vault arrow gesture sudden own leg";

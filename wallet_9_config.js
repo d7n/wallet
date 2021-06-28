@@ -1,1 +1,1 @@
-var mnemonic = "kite puzzle stick stock mass dune endless loan spot glance tray analyst";
+var mnemonic = "emerge convince crush evolve fork pony buyer hip unit arrest park defense";

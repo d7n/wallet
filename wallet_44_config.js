@@ -1,1 +1,1 @@
-var mnemonic = "slush fetch kit hamster buffalo design stomach hamster ride excess fuel fever";
+var mnemonic = "menu setup tip silk shallow surface one sight hospital extend recipe donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "print match art nation vast arrive stove animal thought divorce attract used";
+var mnemonic = "into identify turn tragic clock misery lounge aspect scissors number clean tonight";

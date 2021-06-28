@@ -1,1 +1,1 @@
-var mnemonic = "tag luxury thought flip discover tattoo shallow lizard penalty winner snake glimpse";
+var mnemonic = "napkin parade expect traffic solve bar poet flat wrestle young clerk main";

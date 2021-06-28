@@ -1,1 +1,1 @@
-var mnemonic = "one divorce sting endless canal duck write story tomato radar air alpha";
+var mnemonic = "rice level alone soul umbrella social filter since forget cotton enroll thrive";

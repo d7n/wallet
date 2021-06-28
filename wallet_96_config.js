@@ -1,1 +1,1 @@
-var mnemonic = "scheme provide lake holiday pilot behave sentence quiz struggle chief charge wait";
+var mnemonic = "truck acid opinion never coral same bamboo now what stock seat execute";

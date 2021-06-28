@@ -1,1 +1,1 @@
-var mnemonic = "field inhale fun life cake market safe decide giggle symbol chief viable";
+var mnemonic = "wear save expose oak power detail shrug adult surprise gorilla vocal please";

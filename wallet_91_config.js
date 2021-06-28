@@ -1,1 +1,1 @@
-var mnemonic = "quarter response say wait sell advice genuine toddler subway friend genre column";
+var mnemonic = "adjust action future fork loyal love seminar stock topic people agent vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "night refuse venue actual own garden fabric cricket cheese spread thumb turtle";
+var mnemonic = "oval lamp arena client concert learn blade sting hungry electric art buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "pink rebel evidence pioneer else sand vivid stadium oyster captain spring furnace";
+var mnemonic = "liberty flavor group magic cereal ten original what tape poverty suffer assume";

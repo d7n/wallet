@@ -1,1 +1,1 @@
-var mnemonic = "piece hard jelly glare hungry link void can couple success outside caught";
+var mnemonic = "level repeat cave snack enroll snap disorder repeat try solid sound same";

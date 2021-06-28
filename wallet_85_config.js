@@ -1,1 +1,1 @@
-var mnemonic = "romance parrot decade coffee outside object season universe emerge burger open aisle";
+var mnemonic = "pottery assist evidence subject duty neither luggage carry alpha shift invite empower";

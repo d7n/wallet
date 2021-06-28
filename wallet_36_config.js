@@ -1,1 +1,1 @@
-var mnemonic = "fix fiber secret mean beyond inhale ensure idle avoid clay return first";
+var mnemonic = "lesson ice rate resemble grunt certain ethics wasp lucky arch electric much";

@@ -1,1 +1,1 @@
-var mnemonic = "border jeans design firm video denial shy grape base spatial host couch";
+var mnemonic = "push pottery hurt remove open embark meadow ridge hurdle theory brain bomb";

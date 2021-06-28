@@ -1,1 +1,1 @@
-var mnemonic = "sight file scatter baby census income evoke portion chuckle various token mesh";
+var mnemonic = "farm now brand life level approve vanish swallow equal mother hurdle thumb";

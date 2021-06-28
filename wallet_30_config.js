@@ -1,1 +1,1 @@
-var mnemonic = "bunker pumpkin soldier body chase car surround hub empty zero draw under";
+var mnemonic = "bike enemy fragile vast essence veteran lion bonus join simple dynamic actual";

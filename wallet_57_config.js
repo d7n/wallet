@@ -1,1 +1,1 @@
-var mnemonic = "spy shuffle exile duty soccer document address dinosaur exhaust guess skirt zero";
+var mnemonic = "tell seminar bunker nominee maid tell remember strike quarter feed invite lesson";

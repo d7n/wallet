@@ -1,1 +1,1 @@
-var mnemonic = "autumn payment swim wreck jazz boss acoustic eternal bicycle lab control crowd";
+var mnemonic = "rigid note laugh circle average else shadow program solar fresh enroll nut";

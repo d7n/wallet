@@ -1,1 +1,1 @@
-var mnemonic = "roast stay truck palm talent junk enhance kiwi cycle destroy chronic moment";
+var mnemonic = "insane say large join warrior toddler tragic inhale budget action mesh final";

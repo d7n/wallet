@@ -1,1 +1,1 @@
-var mnemonic = "adapt away identify enrich dawn myth icon midnight damp butter turtle wedding";
+var mnemonic = "review echo giggle club laptop attend apart flavor purse rotate again witness";

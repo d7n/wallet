@@ -1,1 +1,1 @@
-var mnemonic = "auto image drink history item bracket someone industry moral rookie sort tattoo";
+var mnemonic = "dash magic soda pencil soap color bullet buddy knife gauge gloom section";

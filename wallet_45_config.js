@@ -1,1 +1,1 @@
-var mnemonic = "ten dry soda song deny butter barrel skin diamond day woman mad";
+var mnemonic = "boat injury quality arctic sunny mansion stay inject empty layer toast glance";

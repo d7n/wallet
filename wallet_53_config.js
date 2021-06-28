@@ -1,1 +1,1 @@
-var mnemonic = "december typical news avocado cabbage blue spirit gate youth labor acid useless";
+var mnemonic = "hungry among will payment develop group sunny target infant aunt click ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "deal message gesture board crater topic add clay net dice tunnel ripple";
+var mnemonic = "glass enable insect clinic monitor table because cruise blade mobile popular toast";

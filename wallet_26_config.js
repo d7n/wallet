@@ -1,1 +1,1 @@
-var mnemonic = "angle surround same fashion tongue pool saddle lounge hamster jewel ladder census";
+var mnemonic = "water crane gesture crowd fox cake prevent mosquito must oppose fire damp";

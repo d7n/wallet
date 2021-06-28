@@ -1,1 +1,1 @@
-var mnemonic = "upgrade series envelope unit romance cycle run broom edge worry submit violin";
+var mnemonic = "clump salmon amateur tip recycle final favorite three chronic valve bronze bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "region credit spell across tribe enemy ball crystal dignity pulse submit can";
+var mnemonic = "idea smile document attitude grab hedgehog fork casino sleep sun keen oil";

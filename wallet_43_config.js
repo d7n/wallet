@@ -1,1 +1,1 @@
-var mnemonic = "iron fiscal time opinion glance simple mansion skate bind cement elevator field";
+var mnemonic = "quiz urban frame meat fringe admit install primary wait awful damp trash";

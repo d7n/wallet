@@ -1,1 +1,1 @@
-var mnemonic = "gap ski upper timber shift proof promote ribbon floor fantasy project blind";
+var mnemonic = "fabric spoil nothing napkin vicious rent describe thing equal sing foam aerobic";

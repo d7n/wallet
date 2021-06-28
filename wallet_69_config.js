@@ -1,1 +1,1 @@
-var mnemonic = "script mandate vacant armed urge then earth concert topple slot crush elegant";
+var mnemonic = "indoor into word effort garlic slam surprise town radar parrot permit loan";

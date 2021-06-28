@@ -1,1 +1,1 @@
-var mnemonic = "speak amateur improve other cereal favorite silver oval situate tourist barrel foam";
+var mnemonic = "humble mass rifle dizzy idle idle few level second pet evidence rifle";

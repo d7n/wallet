@@ -1,1 +1,1 @@
-var mnemonic = "border hundred attitude tell name journey salute submit lamp fly kitchen gate";
+var mnemonic = "jacket great better lyrics virus talent spare organ corn young rug connect";

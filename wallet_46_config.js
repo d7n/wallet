@@ -1,1 +1,1 @@
-var mnemonic = "worth soccer learn siege pattern desk century oblige spend stamp cause connect";
+var mnemonic = "twelve win neck summer leaf before double clump anchor curtain gauge capital";

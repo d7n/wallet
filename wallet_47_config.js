@@ -1,1 +1,1 @@
-var mnemonic = "fitness sample soul fly giant two atom lonely tool obvious rude scan";
+var mnemonic = "hurt bicycle debate symptom state bargain torch chest diamond hello street release";

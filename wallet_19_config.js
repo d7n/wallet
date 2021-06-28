@@ -1,1 +1,1 @@
-var mnemonic = "coil march intact mansion call lottery lawn fiber flavor aim throw index";
+var mnemonic = "add arrest luxury witness park nurse jump glow athlete world sense depth";

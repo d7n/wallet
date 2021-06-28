@@ -1,1 +1,1 @@
-var mnemonic = "glare ready resource minute travel inch amused hero mystery flush silk rack";
+var mnemonic = "reunion earn entire brain oblige mimic garden birth gap economy castle citizen";

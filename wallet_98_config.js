@@ -1,1 +1,1 @@
-var mnemonic = "pudding dolphin pretty gold obscure spell slam inject shoe easy marriage diet";
+var mnemonic = "define bid pass educate blossom bullet any destroy arrive evidence general useful";

@@ -1,1 +1,1 @@
-var mnemonic = "wild execute produce lava friend size donkey matrix tiny scrap broken trap";
+var mnemonic = "amateur use rebel radio issue struggle print awake radio boost photo angry";

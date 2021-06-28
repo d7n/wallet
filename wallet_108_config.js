@@ -1,1 +1,1 @@
-var mnemonic = "toilet hurdle kid fish kidney patrol inject fortune toe achieve bundle mixed";
+var mnemonic = "rescue fox boss original raccoon elegant clump near ocean what token forest";

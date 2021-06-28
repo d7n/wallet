@@ -1,1 +1,1 @@
-var mnemonic = "hungry arctic stadium clay calm steak void evolve trumpet extend volume oval";
+var mnemonic = "weasel upper disease clay shock health raccoon jaguar noise tent roast exit";

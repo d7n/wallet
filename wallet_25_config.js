@@ -1,1 +1,1 @@
-var mnemonic = "patient try keen quick ozone speed train traffic bubble fade civil recycle";
+var mnemonic = "grunt doctor silly music tumble invest horse also tongue bargain heart burger";

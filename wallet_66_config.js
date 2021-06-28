@@ -1,1 +1,1 @@
-var mnemonic = "tumble tongue ranch mountain latin column obey depth chef erase slight front";
+var mnemonic = "industry kite walnut fame add unlock round become involve toss vacuum disagree";

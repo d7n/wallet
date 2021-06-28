@@ -1,1 +1,1 @@
-var mnemonic = "input arrive leaf cricket million spread senior magnet gospel lawn bulk space";
+var mnemonic = "box gospel shine brave street ozone effort tattoo occur appear violin forget";

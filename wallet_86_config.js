@@ -1,1 +1,1 @@
-var mnemonic = "song truck lens access hidden stereo daughter donor slogan slender ivory skull";
+var mnemonic = "unfair mechanic matter poverty logic casino tone peace column right unique sock";

@@ -1,1 +1,1 @@
-var mnemonic = "enable jar submit oxygen assault roof voyage toast task tray industry clog";
+var mnemonic = "already test indicate alert vast please diesel jewel breeze pass stay purse";

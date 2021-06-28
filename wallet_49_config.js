@@ -1,1 +1,1 @@
-var mnemonic = "ankle runway stuff trip under shrug gorilla raven garage clip common pyramid";
+var mnemonic = "occur census tired long nurse thrive post novel horror indicate kingdom swing";

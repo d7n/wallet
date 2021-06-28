@@ -1,1 +1,1 @@
-var mnemonic = "segment post napkin certain burst limb peanut fork correct boring whale cherry";
+var mnemonic = "alpha dress before ride box universe picture west train hospital forum secret";

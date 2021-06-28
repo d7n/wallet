@@ -1,1 +1,1 @@
-var mnemonic = "room neglect receive wash future lava board amount height orange media carpet";
+var mnemonic = "hamster burger bone afford stage eye skull onion dismiss fatigue become three";

@@ -1,1 +1,1 @@
-var mnemonic = "cry mesh arrange eye inform amount defense poem damage liar trouble spirit";
+var mnemonic = "artefact drop weather network attack knife help story mule behind stuff foster";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect target where gun seven peanut anchor abuse occur olympic airport scale";
+var mnemonic = "zoo toddler liberty brass rug thank sad human behave ensure jump beyond";

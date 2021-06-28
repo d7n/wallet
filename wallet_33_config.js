@@ -1,1 +1,1 @@
-var mnemonic = "urban spare sample join stamp fringe midnight inmate join immune repair slim";
+var mnemonic = "panther mom weird anxiety poet will dizzy motor clog eagle essence attitude";

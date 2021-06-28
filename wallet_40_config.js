@@ -1,1 +1,1 @@
-var mnemonic = "average champion tide noise actual crush vacant capable text muffin pear suffer";
+var mnemonic = "answer wood inspire fish quarter oblige approve credit pigeon roast confirm pupil";

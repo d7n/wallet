@@ -1,1 +1,1 @@
-var mnemonic = "bid chimney hedgehog lobster friend reveal multiply pigeon vendor job cycle yard";
+var mnemonic = "drip indoor salute give rotate glance beef suffer exist modify gas worth";

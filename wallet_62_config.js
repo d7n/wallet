@@ -1,1 +1,1 @@
-var mnemonic = "attend match memory achieve water hand imitate cement lunar place elegant edit";
+var mnemonic = "country flip soup section frame subject hunt unlock skirt lake ahead average";

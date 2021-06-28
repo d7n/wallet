@@ -1,1 +1,1 @@
-var mnemonic = "airport coil bullet render catch picture spike shop pink tattoo side ivory";
+var mnemonic = "main guess dish happy extra tail result course quit galaxy razor decade";

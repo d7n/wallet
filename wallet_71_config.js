@@ -1,1 +1,1 @@
-var mnemonic = "grid crystal wait box govern kiss hood lion void illegal that outside";
+var mnemonic = "ribbon improve real mercy alcohol silly bachelor warfare raise finish share unfold";

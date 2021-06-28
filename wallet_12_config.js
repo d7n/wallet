@@ -1,1 +1,1 @@
-var mnemonic = "thrive awesome shoe clerk monster divorce helmet refuse type flat flag mutual";
+var mnemonic = "enrich review mistake uncle slow heavy educate nation buzz rib creek bike";

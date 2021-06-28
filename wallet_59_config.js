@@ -1,1 +1,1 @@
-var mnemonic = "obvious swamp torch receive order detail math nurse link public dry ship";
+var mnemonic = "input rule space welcome pulp worth glimpse earn hospital nasty east vast";

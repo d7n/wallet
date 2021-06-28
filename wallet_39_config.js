@@ -1,1 +1,1 @@
-var mnemonic = "sense monster fine birth choose tornado tone insect misery double fish wine";
+var mnemonic = "second exit resemble marine caught plunge wrist payment marine consider erase ask";

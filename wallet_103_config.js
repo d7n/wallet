@@ -1,1 +1,1 @@
-var mnemonic = "label way home stock cube actual tool text august shiver pair critic";
+var mnemonic = "flush wish industry celery federal machine timber toward artefact tail talk dream";

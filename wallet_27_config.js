@@ -1,1 +1,1 @@
-var mnemonic = "satoshi logic ivory embody atom consider vehicle until panel fat annual marine";
+var mnemonic = "abstract vintage news index usage dinosaur cinnamon royal child six zero slush";

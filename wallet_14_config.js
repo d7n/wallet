@@ -1,1 +1,1 @@
-var mnemonic = "item glad hollow marine memory never inherit long unfold slender dry father";
+var mnemonic = "coffee source mom chapter impact stone seven piece select clump fade fatal";

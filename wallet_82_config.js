@@ -1,1 +1,1 @@
-var mnemonic = "first short always you aim kiwi kingdom hockey lunch sphere primary either";
+var mnemonic = "inherit quantum weasel tooth river scout swap erosion car symptom material transfer";

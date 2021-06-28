@@ -1,1 +1,1 @@
-var mnemonic = "column visual isolate view piece soon dry shy better surround measure double";
+var mnemonic = "boat moral essay reform network update tourist salt hamster mind equip comic";
