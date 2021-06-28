@@ -1,1 +1,1 @@
-var mnemonic = "promote follow over water dignity jelly lunar lunch eye loop problem swim";
+var mnemonic = "drop loud finger always brand market smooth squirrel effort pottery only veteran";

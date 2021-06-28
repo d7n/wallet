@@ -1,1 +1,1 @@
-var mnemonic = "success lemon fan wait detail script lift exit voice banner swamp grace";
+var mnemonic = "fish human earn daughter lottery object volume offer harsh alter treat sense";

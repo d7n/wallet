@@ -1,1 +1,1 @@
-var mnemonic = "manual matrix will super harbor slide early nation employ rate have misery";
+var mnemonic = "path merit muffin tired pencil glory display industry dismiss decline isolate husband";

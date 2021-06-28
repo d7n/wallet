@@ -1,1 +1,1 @@
-var mnemonic = "patient load cousin return beyond goose balance breeze angle kid there search";
+var mnemonic = "radio false steel shift avoid holiday enroll resist slim cabin blast issue";

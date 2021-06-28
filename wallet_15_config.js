@@ -1,1 +1,1 @@
-var mnemonic = "check upset short wheel salad denial affair catch round owner assist risk";
+var mnemonic = "effort begin van antenna garlic ostrich luxury second today ketchup simple vintage";

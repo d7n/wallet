@@ -1,1 +1,1 @@
-var mnemonic = "group labor crouch regret torch hard empower later brass runway burger hen";
+var mnemonic = "apart daring select grace magnet shiver grain improve involve puzzle cram eyebrow";

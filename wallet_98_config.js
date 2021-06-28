@@ -1,1 +1,1 @@
-var mnemonic = "mail broccoli patient basket quality phrase problem jelly empower bronze abuse few";
+var mnemonic = "print load medal anxiety method surprise physical lobster since brush claw bicycle";

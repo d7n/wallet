@@ -1,1 +1,1 @@
-var mnemonic = "gallery until library auction addict silent path blush model teach someone hockey";
+var mnemonic = "help hawk depth december sting april sort cable wine consider spoil crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse decade sudden diesel stumble diary sugar farm topic fabric fluid someone";
+var mnemonic = "action secret parrot saddle artist wink page excess manage early inflict cause";

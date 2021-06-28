@@ -1,1 +1,1 @@
-var mnemonic = "alpha laundry seat talent next electric razor funny hazard vivid source attend";
+var mnemonic = "affair fever tail bring spin story still wife swap stand noise admit";

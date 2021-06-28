@@ -1,1 +1,1 @@
-var mnemonic = "asset address bomb rubber bracket prison tortoise icon brass sign another suspect";
+var mnemonic = "dog ladder seek color truly potato neutral double place forget hour forget";

@@ -1,1 +1,1 @@
-var mnemonic = "decade cross drum clog steak cherry ranch eagle cinnamon era pull october";
+var mnemonic = "assume joke guard together local vocal choice program ride kingdom elder radio";

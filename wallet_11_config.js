@@ -1,1 +1,1 @@
-var mnemonic = "fruit coffee large gorilla near skate correct rebel drink million next theory";
+var mnemonic = "kidney cover asset reason sadness husband idle village attitude muffin write august";

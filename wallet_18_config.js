@@ -1,1 +1,1 @@
-var mnemonic = "alarm weapon volume plate rude whale initial soda together speak govern decorate";
+var mnemonic = "skill theme biology machine crater cat bleak long moral rigid dynamic wisdom";

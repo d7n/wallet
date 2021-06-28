@@ -1,1 +1,1 @@
-var mnemonic = "chair submit kiss chalk fence word road guilt apart awake bounce fly";
+var mnemonic = "segment lottery plastic nut exist purpose raw awful hip net skin smooth";

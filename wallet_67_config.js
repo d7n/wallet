@@ -1,1 +1,1 @@
-var mnemonic = "sunny device ancient simple flame marriage salt debris false plug steel upon";
+var mnemonic = "write menu elegant leave spin minor few snow ordinary attend poem unknown";

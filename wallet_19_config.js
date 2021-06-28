@@ -1,1 +1,1 @@
-var mnemonic = "blue play icon wash steak reason media spell fabric hope air weapon";
+var mnemonic = "reward various unlock course write account skull ready wealth scare warfare nurse";

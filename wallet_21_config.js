@@ -1,1 +1,1 @@
-var mnemonic = "state display canvas parrot glide brother improve hungry divide clinic dizzy slogan";
+var mnemonic = "common sustain return thrive custom immune awful breeze awkward sauce simple either";

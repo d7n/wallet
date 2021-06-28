@@ -1,1 +1,1 @@
-var mnemonic = "own weather between wrist donkey rescue tail paddle cube hurdle deer year";
+var mnemonic = "baby essay tree right credit hollow bike luggage bread slice advice exclude";

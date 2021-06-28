@@ -1,1 +1,1 @@
-var mnemonic = "destroy balcony essay rent among cloth amount join hope inject abandon shove";
+var mnemonic = "object fabric demand long chimney tomorrow festival topic scorpion shaft guess quantum";

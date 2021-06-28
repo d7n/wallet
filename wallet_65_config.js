@@ -1,1 +1,1 @@
-var mnemonic = "extra lucky pigeon silk ask palm note tragic eye volcano together feel";
+var mnemonic = "around token fatal kingdom control enemy vicious script drift behind taste slide";

@@ -1,1 +1,1 @@
-var mnemonic = "try glance setup agent tooth boil palace census quality chalk earn polar";
+var mnemonic = "blush flee such loop afford pig lounge market ensure resist blossom love";

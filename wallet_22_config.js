@@ -1,1 +1,1 @@
-var mnemonic = "menu vendor much inject eagle wheel project bone firm repeat attract exit";
+var mnemonic = "nominee vintage select search lonely wine employ settle unknown expire great sand";

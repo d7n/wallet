@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo because scissors keep what foam region neutral oblige brush celery panther";
+var mnemonic = "vital ask engage wagon forward stove gallery naive parrot shift ticket dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "face pigeon goddess disagree roast giant arrest ostrich hammer patch gold thumb";
+var mnemonic = "debate wine surprise invite cute wolf august night brave canoe game upgrade";

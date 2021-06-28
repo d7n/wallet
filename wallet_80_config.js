@@ -1,1 +1,1 @@
-var mnemonic = "blanket marriage tip excite bunker action popular problem worry resist tumble apart";
+var mnemonic = "example glare female nominee panel kiss merit shift find cram toilet mimic";

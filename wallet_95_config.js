@@ -1,1 +1,1 @@
-var mnemonic = "toward crowd unfold position when avocado luxury upgrade reopen addict fabric birth";
+var mnemonic = "swing catch multiply lucky trophy helmet blame fall laptop pole piano report";

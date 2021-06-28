@@ -1,1 +1,1 @@
-var mnemonic = "total spot solve field girl air harsh patient police elite mobile liquid";
+var mnemonic = "unknown cry mother distance canyon void fury shove balance tunnel jar daring";

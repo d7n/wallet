@@ -1,1 +1,1 @@
-var mnemonic = "artist dial wild soft fruit camp chef rival popular solution add naive";
+var mnemonic = "elbow wine harvest hotel learn head attract roof wood glance depth ivory";

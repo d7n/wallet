@@ -1,1 +1,1 @@
-var mnemonic = "urge banana grape steel situate novel acoustic castle ecology clean sword mother";
+var mnemonic = "hire elephant cloth green tower talk veteran woman century guide employ learn";

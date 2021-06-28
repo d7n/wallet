@@ -1,1 +1,1 @@
-var mnemonic = "argue oyster match document ginger deputy dutch author sign coin hip pigeon";
+var mnemonic = "toss soup aisle fog zero evidence old bomb vital squeeze panel coffee";

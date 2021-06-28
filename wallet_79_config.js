@@ -1,1 +1,1 @@
-var mnemonic = "anchor drift lobster never define clay deny tuna task purity pigeon follow";
+var mnemonic = "hip panther twist admit discover bargain arrest buddy write load exercise sheriff";

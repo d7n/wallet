@@ -1,1 +1,1 @@
-var mnemonic = "shrug bitter ladder canvas puppy sun affair stereo salute crane group have";
+var mnemonic = "dose grace admit satisfy random network bundle ready emerge harvest estate admit";

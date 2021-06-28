@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow clever record fossil utility anchor slot item ostrich brother sphere hello";
+var mnemonic = "regret music time awkward tired equip junk vehicle clever sample recall pigeon";

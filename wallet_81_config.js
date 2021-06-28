@@ -1,1 +1,1 @@
-var mnemonic = "spare notable office auto aware opera universe coach into regret galaxy able";
+var mnemonic = "bean spider equip warfare food dial core fiction potato dismiss smoke alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "feed damage cliff dial material merit hill fringe scissors result wet verify";
+var mnemonic = "enforce eye riot visit relax imitate shy piano announce before sadness sad";

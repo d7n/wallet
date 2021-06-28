@@ -1,1 +1,1 @@
-var mnemonic = "tuna invite wet walk right december various tube series give region master";
+var mnemonic = "verify hurt decorate hospital aerobic steak problem edge fold trim predict burger";

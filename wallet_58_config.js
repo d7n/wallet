@@ -1,1 +1,1 @@
-var mnemonic = "remain wave trick acquire victory spy rural submit measure impulse decide analyst";
+var mnemonic = "bunker begin amused stumble wave normal race chuckle crazy soap wrong ready";

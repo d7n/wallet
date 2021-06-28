@@ -1,1 +1,1 @@
-var mnemonic = "mansion decade connect auto wheel burden quarter leisure swap grit regret lobster";
+var mnemonic = "swallow lesson priority forget legal debris leader clinic shy cube gun eager";

@@ -1,1 +1,1 @@
-var mnemonic = "surround buyer license spend good trash position comic earn account another nuclear";
+var mnemonic = "supreme inner inject catch fire shoe van luxury sort member shove urban";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse allow require shuffle choose equip cheap fury sleep fever silk next";
+var mnemonic = "gas subject find test copper cage regret proud parade clever jaguar kind";

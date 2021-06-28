@@ -1,1 +1,1 @@
-var mnemonic = "icon claw sudden they fame learn outdoor field punch okay salt cruel";
+var mnemonic = "deny grow will curtain very head rice legal simple fit prevent mercy";

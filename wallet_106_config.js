@@ -1,1 +1,1 @@
-var mnemonic = "spin wild there scare approve intact trouble local oyster item rude pledge";
+var mnemonic = "consider friend major ask disorder away give three drum hobby pigeon when";

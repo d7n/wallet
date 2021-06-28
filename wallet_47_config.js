@@ -1,1 +1,1 @@
-var mnemonic = "knee blade bleak antique about marine describe peace swim tornado stem raise";
+var mnemonic = "keen parent enroll coral voice matrix breeze scare lizard reunion tail pretty";

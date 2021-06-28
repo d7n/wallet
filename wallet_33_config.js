@@ -1,1 +1,1 @@
-var mnemonic = "ancient donkey nut mushroom three please service faculty link garage kiss parent";
+var mnemonic = "street stomach burden loyal skin casual allow stuff sword corn fever rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "prize veteran razor tool bean indicate impact tooth latin aisle demise wolf";
+var mnemonic = "melody hockey million holiday music drift decade very drastic song patch connect";

@@ -1,1 +1,1 @@
-var mnemonic = "juice talent industry emotion body hover maid clump save bless tumble ancient";
+var mnemonic = "build skull fitness food involve hotel dream bubble deputy silk unique beyond";

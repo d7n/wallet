@@ -1,1 +1,1 @@
-var mnemonic = "planet wave core visit great extra cement useful three write step safe";
+var mnemonic = "paper goddess autumn lecture moment infant seek jar universe output sentence right";

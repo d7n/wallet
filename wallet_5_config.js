@@ -1,1 +1,1 @@
-var mnemonic = "tackle omit rally hazard toss force winter poverty stock three wink volume";
+var mnemonic = "void piece maid what ceiling current during vehicle awkward taxi orchard torch";

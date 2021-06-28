@@ -1,1 +1,1 @@
-var mnemonic = "practice inspire family fragile world bid layer stand check table recall ball";
+var mnemonic = "neck fantasy eager strike method resist famous picnic plastic dismiss cotton shoulder";

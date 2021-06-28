@@ -1,1 +1,1 @@
-var mnemonic = "ostrich health field volcano burst bulk twist dune teach inherit lift tunnel";
+var mnemonic = "link wine rocket syrup vast cricket hurdle alpha caution begin flight enjoy";

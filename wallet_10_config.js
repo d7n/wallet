@@ -1,1 +1,1 @@
-var mnemonic = "hill wreck more volcano solve member vacuum object certain balcony wrap jewel";
+var mnemonic = "expose crop town prize basket upset author segment guilt pattern wink ask";

@@ -1,1 +1,1 @@
-var mnemonic = "prize amazing segment flame artist begin argue among fresh settle palm squeeze";
+var mnemonic = "depend limit ripple three position exist issue brand icon tip flush soda";

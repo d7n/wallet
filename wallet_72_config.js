@@ -1,1 +1,1 @@
-var mnemonic = "march ugly skull around park topic chronic over paddle steel copper six";
+var mnemonic = "squeeze unlock alarm baby member purpose immune royal priority artefact network empower";

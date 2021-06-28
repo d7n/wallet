@@ -1,1 +1,1 @@
-var mnemonic = "have garbage repair sniff zero dog pen harvest salon icon glance omit";
+var mnemonic = "blossom juice usage mushroom erase salad diet sleep trophy allow margin choose";

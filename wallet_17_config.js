@@ -1,1 +1,1 @@
-var mnemonic = "chimney cat little butter slow able debate upper romance pupil risk near";
+var mnemonic = "force length act category bundle mushroom subway extend bomb law tent debate";

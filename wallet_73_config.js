@@ -1,1 +1,1 @@
-var mnemonic = "defy chase lottery flight spawn verify they eternal such bachelor genius rug";
+var mnemonic = "market crazy jealous gain easily annual visa system car gallery pool begin";

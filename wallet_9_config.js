@@ -1,1 +1,1 @@
-var mnemonic = "sense flower tunnel spread begin result liberty voice follow sausage proud question";
+var mnemonic = "pulp angle rack organ notable violin bachelor stuff office armed boost humor";

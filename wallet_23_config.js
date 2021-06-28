@@ -1,1 +1,1 @@
-var mnemonic = "type tennis find plate outer occur shock grief skate antenna verify secret";
+var mnemonic = "alone ostrich carbon leopard prize view south more silly trouble scale sugar";

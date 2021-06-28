@@ -1,1 +1,1 @@
-var mnemonic = "aunt oil dizzy place example visa gym palm canal ill cost cattle";
+var mnemonic = "narrow monkey cluster purse hawk sell quit three lake busy floor load";

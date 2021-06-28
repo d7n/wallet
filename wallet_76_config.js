@@ -1,1 +1,1 @@
-var mnemonic = "rabbit excite choose frown pluck noble approve explain wrap sunset lesson thumb";
+var mnemonic = "verb shove dial run shiver banana woman screen fossil entire reflect kite";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep between erode actor symbol security segment planet input deny labor badge";
+var mnemonic = "venue mouse salad spoil cost portion wasp assist rigid dynamic rally liberty";

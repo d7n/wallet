@@ -1,1 +1,1 @@
-var mnemonic = "turkey noodle define maid guilt curtain slot copy token custom electric hat";
+var mnemonic = "camera movie approve hurdle maximum lab mushroom response seat pistol boost cart";

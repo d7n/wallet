@@ -1,1 +1,1 @@
-var mnemonic = "lawn nest lawsuit purchase because roof practice immense allow toast beach silly";
+var mnemonic = "mean alley market huge wreck coil aisle diamond excuse crash romance modify";

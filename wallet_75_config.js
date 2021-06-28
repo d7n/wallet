@@ -1,1 +1,1 @@
-var mnemonic = "talk proud fruit member tray cake carpet law actress toss sauce rifle";
+var mnemonic = "appear ancient phrase hurry afford health web language raccoon fat real smoke";

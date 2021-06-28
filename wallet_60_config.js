@@ -1,1 +1,1 @@
-var mnemonic = "mask slice garbage describe deal tube hamster sister increase claim thought already";
+var mnemonic = "gown dice actress champion thumb spin stomach outside glow suggest usual grunt";

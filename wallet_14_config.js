@@ -1,1 +1,1 @@
-var mnemonic = "apart glance exist rubber mobile rural dragon soup cactus history scale hazard";
+var mnemonic = "find keen differ warfare submit quiz hundred inner vague second output lunar";

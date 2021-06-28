@@ -1,1 +1,1 @@
-var mnemonic = "clog faint viable vacuum frost rain change check dune dance amused fuel";
+var mnemonic = "abuse sound ketchup faculty envelope pull inch pilot upset spell balance approve";

@@ -1,1 +1,1 @@
-var mnemonic = "trick hire project chair flight impact grow rose pizza ask return asset";
+var mnemonic = "elder cannon lab monkey account kangaroo prize gym black step joke scheme";

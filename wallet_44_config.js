@@ -1,1 +1,1 @@
-var mnemonic = "milk disease summer fee pair pond velvet wisdom escape dinosaur scare fetch";
+var mnemonic = "despair toward couple wash wire explain dust trumpet reveal plunge pizza order";

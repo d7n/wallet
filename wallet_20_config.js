@@ -1,1 +1,1 @@
-var mnemonic = "decade favorite crash nerve pulse inform speed mixture firm leader myself cliff";
+var mnemonic = "comfort fold science bless pool shrimp top next idea develop hub fade";

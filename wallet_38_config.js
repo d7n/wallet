@@ -1,1 +1,1 @@
-var mnemonic = "logic palm palm bridge item broom program velvet garment category flight brief";
+var mnemonic = "what birth able visual enforce practice current lift royal hood gloom business";

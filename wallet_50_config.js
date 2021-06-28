@@ -1,1 +1,1 @@
-var mnemonic = "energy cloth cook priority trust caution payment ride immune slice joke negative";
+var mnemonic = "dirt gospel bridge amateur winter sick scan hurdle position knee track enrich";

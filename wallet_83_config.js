@@ -1,1 +1,1 @@
-var mnemonic = "crew obey glance hurry obscure language liberty drum entire brisk despair right";
+var mnemonic = "palace weather truth satoshi sell fame purity visa denial bundle like swim";

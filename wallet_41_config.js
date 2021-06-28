@@ -1,1 +1,1 @@
-var mnemonic = "essay fan since pass auction drill unknown canoe army abuse news drastic";
+var mnemonic = "grass morning split drift alarm anchor only screen bonus lumber small track";

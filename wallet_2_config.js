@@ -1,1 +1,1 @@
-var mnemonic = "various resist trap medal wet enhance wise tired unfair tree general include";
+var mnemonic = "laptop wrist faith satisfy section punch thank figure august south rice another";

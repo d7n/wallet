@@ -1,1 +1,1 @@
-var mnemonic = "warm poem opera easily couch sail little option dinosaur civil style position";
+var mnemonic = "smile clutch protect indoor floor prevent foot inside saddle humble reject noise";

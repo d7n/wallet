@@ -1,1 +1,1 @@
-var mnemonic = "garlic slam dolphin media play pole sausage jungle iron unknown wagon ugly";
+var mnemonic = "north always uniform marine message under ignore common motor disorder pole neither";

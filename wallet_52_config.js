@@ -1,1 +1,1 @@
-var mnemonic = "awful round undo rare slim walk parrot shiver silver erode woman secret";
+var mnemonic = "secret slot flame crouch exchange second poem defense wisdom explain innocent pact";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo giraffe pyramid travel average level salon risk curve crowd chicken entry";
+var mnemonic = "stereo sense pigeon double rally produce gesture poet leg friend mansion upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome parent fortune coyote post flash before friend swear genre response weasel";
+var mnemonic = "assault goat general unknown favorite help trick sand cricket tower toddler notable";

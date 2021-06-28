@@ -1,1 +1,1 @@
-var mnemonic = "jar little upset wall spread culture steak end sketch write negative park";
+var mnemonic = "laundry chair shell then hour install day runway original party animal ugly";

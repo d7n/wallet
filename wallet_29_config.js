@@ -1,1 +1,1 @@
-var mnemonic = "labor fatigue dish select iron mention ensure adult notable script salt journey";
+var mnemonic = "weird enrich decide someone math exchange garden disorder chief vital lonely velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "horror property impose expire vicious puzzle inherit sheriff antenna now chat duck";
+var mnemonic = "energy air aisle rubber exit puzzle seat razor hurdle pull west still";

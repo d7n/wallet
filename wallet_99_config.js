@@ -1,1 +1,1 @@
-var mnemonic = "praise brush snap mistake dizzy thumb hat power renew autumn then list";
+var mnemonic = "cannon lab forum olympic walk frost vote level rough over fringe scan";

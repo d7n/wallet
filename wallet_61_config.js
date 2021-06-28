@@ -1,1 +1,1 @@
-var mnemonic = "blast oblige shop kiwi party kind struggle embrace great home pill bicycle";
+var mnemonic = "squeeze sand benefit love senior style slow time syrup grab solid clever";

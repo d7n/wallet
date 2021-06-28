@@ -1,1 +1,1 @@
-var mnemonic = "pig solution scan outdoor dog melody swear curious frozen novel excite style";
+var mnemonic = "cage panic marriage sweet market shop normal little gap shop special another";

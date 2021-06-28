@@ -1,1 +1,1 @@
-var mnemonic = "duty village bind minimum rocket guard prison utility shield left afraid song";
+var mnemonic = "note together inquiry hand defy denial pet royal farm surge arena wide";

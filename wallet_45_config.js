@@ -1,1 +1,1 @@
-var mnemonic = "noodle win dynamic green oppose wagon weather actual betray inmate toss benefit";
+var mnemonic = "symptom square symbol pipe brave fabric fancy leader wrap pear royal uphold";

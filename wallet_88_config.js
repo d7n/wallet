@@ -1,1 +1,1 @@
-var mnemonic = "few whisper sentence stadium exhibit must tortoise repair print effort cycle surprise";
+var mnemonic = "trim oxygen tilt coast hold possible gadget artwork rebel segment parrot attract";

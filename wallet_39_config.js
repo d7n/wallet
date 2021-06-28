@@ -1,1 +1,1 @@
-var mnemonic = "vapor solve day tortoise cart own beach vapor jewel hurdle horror admit";
+var mnemonic = "intact fault lawsuit absurd proof pond uniform fox tomorrow course cattle assist";

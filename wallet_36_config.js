@@ -1,1 +1,1 @@
-var mnemonic = "luxury trigger valley off limb fix brown surface mystery nest love laptop";
+var mnemonic = "finger blood ice error donate allow despair myself board joke loud kite";

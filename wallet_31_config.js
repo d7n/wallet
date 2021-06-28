@@ -1,1 +1,1 @@
-var mnemonic = "champion drink unhappy pitch soft trumpet moment reduce lift cement cart rely";
+var mnemonic = "bless equal decrease party memory trade sing derive shadow comic cargo buzz";

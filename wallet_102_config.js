@@ -1,1 +1,1 @@
-var mnemonic = "student will finger actor scene black valve mix fine immense regret erosion";
+var mnemonic = "sense fever renew ability lesson noodle review bread august federal orphan step";

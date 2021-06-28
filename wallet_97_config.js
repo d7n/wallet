@@ -1,1 +1,1 @@
-var mnemonic = "stand slender pattern armor clutch credit wet lock reveal achieve worth level";
+var mnemonic = "derive lock prosper install steel dream velvet mushroom merge lobster purpose return";

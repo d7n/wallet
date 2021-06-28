@@ -1,1 +1,1 @@
-var mnemonic = "ocean reduce meadow noble source thought habit episode series episode enroll boost";
+var mnemonic = "axis tiny legend neither grape treat skill actual nature wrap horn pave";
