@@ -1,1 +1,1 @@
-var mnemonic = "orchard idea biology mix call below vessel mask angry agent antique feel";
+var mnemonic = "confirm agent belt armor federal key ripple about green laugh label purpose";

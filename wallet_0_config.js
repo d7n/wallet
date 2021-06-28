@@ -1,1 +1,1 @@
-var mnemonic = "can grief student brass mosquito side drink rigid pyramid brick ocean demand";
+var mnemonic = "pottery focus accident cargo mistake erupt perfect cat ugly practice report sadness";

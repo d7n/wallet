@@ -1,1 +1,1 @@
-var mnemonic = "helmet cluster unable simple first winner drip sorry vacuum glance caution carry";
+var mnemonic = "car sweet radio adult swim humble dutch swarm rocket antique doll taxi";

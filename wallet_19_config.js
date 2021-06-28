@@ -1,1 +1,1 @@
-var mnemonic = "start thought short slice crystal impose better wool fever essay expand lawsuit";
+var mnemonic = "crash ripple claim step rib evolve surround glove must kitchen unhappy camp";

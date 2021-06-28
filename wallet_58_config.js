@@ -1,1 +1,1 @@
-var mnemonic = "brother earth rhythm uncle analyst brown mimic nurse census tourist guilt elevator";
+var mnemonic = "race output hollow topic transfer south demise physical cloud uphold rough because";

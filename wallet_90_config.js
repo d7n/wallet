@@ -1,1 +1,1 @@
-var mnemonic = "real useful spoil neck swamp record leader vessel rude daring senior swamp";
+var mnemonic = "damage hour segment van quick detail hurt blue syrup program diamond drastic";

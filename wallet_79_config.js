@@ -1,1 +1,1 @@
-var mnemonic = "awkward glow unusual winter reward stool annual coral garden inspire purse disagree";
+var mnemonic = "love virus dish fit orient ramp reason thought sister moment dutch noble";

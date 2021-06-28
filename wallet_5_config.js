@@ -1,1 +1,1 @@
-var mnemonic = "rookie champion slam machine lunar filter robot panther noise leopard pencil decline";
+var mnemonic = "coin alley denial enhance apart code genius they safe muffin clown mule";

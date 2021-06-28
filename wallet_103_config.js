@@ -1,1 +1,1 @@
-var mnemonic = "deer vote alien boss caution cherry base birth grain energy safe sail";
+var mnemonic = "play affair sense green goose favorite penalty front pulse film regret member";

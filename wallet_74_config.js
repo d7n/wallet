@@ -1,1 +1,1 @@
-var mnemonic = "slim spider reflect spring foil bleak matter holiday canal certain suggest still";
+var mnemonic = "next horse april mix mosquito middle lawsuit kingdom machine spoil trumpet increase";

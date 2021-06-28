@@ -1,1 +1,1 @@
-var mnemonic = "border frame tunnel tree birth then clip luxury ring aunt pet trial";
+var mnemonic = "behave shaft frown card ready label bronze never twenty owner excess fly";

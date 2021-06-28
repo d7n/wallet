@@ -1,1 +1,1 @@
-var mnemonic = "wage spin plug choice kingdom reunion betray wait delay evidence arrest coin";
+var mnemonic = "harbor rookie dog delay swing gossip endorse script exotic sea design vapor";

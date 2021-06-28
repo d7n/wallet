@@ -1,1 +1,1 @@
-var mnemonic = "diary mango juice decline box cry sight boat kit sun height harvest";
+var mnemonic = "burst used please road magic visit capable analyst zoo witness spice popular";

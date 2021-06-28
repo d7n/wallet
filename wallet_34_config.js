@@ -1,1 +1,1 @@
-var mnemonic = "sense dune swim borrow smile jungle slab design glad luggage oven until";
+var mnemonic = "stamp wagon salon table arctic chaos vapor company twelve east erase genre";

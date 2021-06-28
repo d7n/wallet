@@ -1,1 +1,1 @@
-var mnemonic = "banner model regret silk reopen episode draw shoe immune session frost shaft";
+var mnemonic = "clip stuff bicycle fan plunge stool cupboard analyst setup elegant cook news";

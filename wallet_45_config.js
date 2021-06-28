@@ -1,1 +1,1 @@
-var mnemonic = "purpose jar faculty dream motion mistake hint stairs bring marble forest want";
+var mnemonic = "pretty wait repeat tool rely bullet angle sphere caught present betray muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "twist sing close achieve logic anchor midnight dad pigeon leg style call";
+var mnemonic = "blast legal dolphin gain gorilla kingdom anxiety city bus ten gesture parent";

@@ -1,1 +1,1 @@
-var mnemonic = "call flame cute truly cup employ pond lecture mirror rude country nuclear";
+var mnemonic = "skirt fit dog drip sudden still thank raven trust heavy marine wedding";

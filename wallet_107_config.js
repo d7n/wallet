@@ -1,1 +1,1 @@
-var mnemonic = "hunt always wisdom summer sick fatigue announce license copy infant depend retire";
+var mnemonic = "mammal zone jungle popular budget radio dentist pitch envelope rare powder sand";

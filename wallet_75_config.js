@@ -1,1 +1,1 @@
-var mnemonic = "slab prize excess judge pull grief once twist deposit tube hill include";
+var mnemonic = "home insane garden pledge term memory crystal connect member awesome panther enrich";

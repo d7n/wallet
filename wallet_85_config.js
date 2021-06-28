@@ -1,1 +1,1 @@
-var mnemonic = "rescue tank short ivory grunt fat easy mixed answer more disorder near";
+var mnemonic = "renew funny problem bind crowd knife mention illness ramp goose mind suggest";

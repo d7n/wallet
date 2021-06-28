@@ -1,1 +1,1 @@
-var mnemonic = "faint hidden run garbage spread issue spin width enrich matter master ignore";
+var mnemonic = "burger favorite elite route survey zero february skull cloth write shoe oblige";

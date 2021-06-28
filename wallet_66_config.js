@@ -1,1 +1,1 @@
-var mnemonic = "draw minute fiber people diet divert more glide chapter ten couch cruise";
+var mnemonic = "suffer cross impose match horse grab gorilla notice brush tobacco mosquito list";

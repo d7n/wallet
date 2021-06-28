@@ -1,1 +1,1 @@
-var mnemonic = "hard danger leave milk tell duty copy glare company display chuckle cat";
+var mnemonic = "fruit suggest daughter round bleak session into lend random inspire pole doll";

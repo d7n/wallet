@@ -1,1 +1,1 @@
-var mnemonic = "grape pact whisper whale gesture radio vocal blind upset grant romance apart";
+var mnemonic = "across deliver dress snap deny gauge merry swap cry inspire waste moment";

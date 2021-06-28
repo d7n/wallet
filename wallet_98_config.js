@@ -1,1 +1,1 @@
-var mnemonic = "west gorilla diagram tunnel victory yard hurdle stamp fat insect tilt trust";
+var mnemonic = "vessel energy donate box increase beef loop lobster liberty lawsuit harbor habit";

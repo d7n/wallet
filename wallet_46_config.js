@@ -1,1 +1,1 @@
-var mnemonic = "puzzle random image buffalo hat debate crystal note save ticket unhappy loop";
+var mnemonic = "mother fitness slight hold afraid path child suit critic faint mesh certain";

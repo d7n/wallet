@@ -1,1 +1,1 @@
-var mnemonic = "shoe boost very defy fame utility matrix want rural awesome visit twelve";
+var mnemonic = "observe spirit hip brass teach tobacco valve choose protect fox gaze coffee";

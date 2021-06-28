@@ -1,1 +1,1 @@
-var mnemonic = "wink banana walk sting sheriff ostrich among predict auction much midnight man";
+var mnemonic = "sunset message clever kiss mixed cry expect poverty want awful once letter";

@@ -1,1 +1,1 @@
-var mnemonic = "high system yellow wool vintage rule faculty cat season syrup pond pluck";
+var mnemonic = "plug return seven impact opera violin crumble pluck immune cage fruit sample";

@@ -1,1 +1,1 @@
-var mnemonic = "admit ridge sand weasel topic yellow arm pass very manage elevator vanish";
+var mnemonic = "rebuild drop planet domain arctic shine damage brown soft plug divorce salad";

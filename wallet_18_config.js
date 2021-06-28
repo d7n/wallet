@@ -1,1 +1,1 @@
-var mnemonic = "snap brief stable depart essence vocal include false fresh gloom enter occur";
+var mnemonic = "sword swallow digital pair kitten chapter slide summer cricket girl drive patrol";

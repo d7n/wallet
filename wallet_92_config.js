@@ -1,1 +1,1 @@
-var mnemonic = "velvet essay student expand embrace student again employ neither bless tree easy";
+var mnemonic = "icon theory ticket oak creek rural attack sort cluster devote rhythm account";

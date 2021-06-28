@@ -1,1 +1,1 @@
-var mnemonic = "modify dose zero cube copper wool other evolve poem same able brand";
+var mnemonic = "stock raise energy stand champion rotate flush gain canvas leisure review movie";

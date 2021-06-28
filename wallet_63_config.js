@@ -1,1 +1,1 @@
-var mnemonic = "drama dolphin love lava beach void more snack merry save dial check";
+var mnemonic = "enhance mesh stairs trick face goose trade replace govern cake float issue";

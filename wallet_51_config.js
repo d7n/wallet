@@ -1,1 +1,1 @@
-var mnemonic = "symptom point couch tornado enact simple door tumble tube laptop theme silent";
+var mnemonic = "snake wisdom entry glue castle agent essence ice ranch mosquito easy olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "feature brother manual impulse festival alcohol cattle sound cigar supply type piece";
+var mnemonic = "sad brave desert civil vacant matter round ignore gold item panel couple";

@@ -1,1 +1,1 @@
-var mnemonic = "remain stumble once eye burden unaware have seed enable equip doll dynamic";
+var mnemonic = "dumb frozen code angle sudden dignity early pulp student merit dog wave";

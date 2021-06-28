@@ -1,1 +1,1 @@
-var mnemonic = "mango width return winter antenna obscure bag hole salt brand old switch";
+var mnemonic = "reform pilot barely machine whale imitate chair potato banner topple appear eagle";

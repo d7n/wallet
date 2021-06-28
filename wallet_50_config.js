@@ -1,1 +1,1 @@
-var mnemonic = "layer section sunset dream chair chase square inquiry latin expose avoid become";
+var mnemonic = "crop gallery ankle response morning spider power math high amount water lock";

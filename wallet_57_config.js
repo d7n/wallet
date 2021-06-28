@@ -1,1 +1,1 @@
-var mnemonic = "hybrid crumble fever faint disease essence then piano kingdom eager expand exile";
+var mnemonic = "vendor empty girl prefer coyote ostrich fluid song present canyon breeze label";

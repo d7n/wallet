@@ -1,1 +1,1 @@
-var mnemonic = "agent blood toss advance exist dawn romance magic idle humor repeat hazard";
+var mnemonic = "card spoon check obscure shell hotel tongue please stomach rigid girl expose";

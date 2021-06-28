@@ -1,1 +1,1 @@
-var mnemonic = "pass relax pioneer earn magic west safe mutual napkin glass wagon pupil";
+var mnemonic = "flip panel arrest curve share plastic produce high live erase across response";

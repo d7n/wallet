@@ -1,1 +1,1 @@
-var mnemonic = "mixture poem cheap found abuse junk admit tissue juice hero fine slam";
+var mnemonic = "aisle excuse fitness fabric zero trick viable rescue matrix still diagram author";

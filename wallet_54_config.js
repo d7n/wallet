@@ -1,1 +1,1 @@
-var mnemonic = "vague movie dog minute kite bird harvest grit observe pepper young gate";
+var mnemonic = "caught tip sure salt reward turn boat walk miracle bachelor veteran south";

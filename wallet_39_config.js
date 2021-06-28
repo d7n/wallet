@@ -1,1 +1,1 @@
-var mnemonic = "turtle panic jacket lava all crack process buzz traffic cupboard gospel liar";
+var mnemonic = "doll wasp desk select eager damp tray core damage equal margin trend";

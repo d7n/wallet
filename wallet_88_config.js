@@ -1,1 +1,1 @@
-var mnemonic = "coffee doctor flight stick deposit next hotel ticket light patch pitch honey";
+var mnemonic = "suggest birth safe retire glad boost slim can picture chicken bid betray";

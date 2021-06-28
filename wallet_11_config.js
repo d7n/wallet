@@ -1,1 +1,1 @@
-var mnemonic = "later victory visit speed blouse close athlete project holiday heart roof vessel";
+var mnemonic = "joke accuse debate funny sudden clinic board company lucky wrong before staff";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry helmet kingdom raise inspire weather income salt famous victory coffee shock";
+var mnemonic = "focus actor ensure betray impulse quality column attack slice degree phrase together";

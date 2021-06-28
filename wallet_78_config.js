@@ -1,1 +1,1 @@
-var mnemonic = "favorite old industry lucky spray quarter funny weapon frequent notable exit moral";
+var mnemonic = "sight emotion rebuild cross hurdle answer auction sense diagram bicycle exist wedding";

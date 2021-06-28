@@ -1,1 +1,1 @@
-var mnemonic = "draft keen gadget marine tribe stomach abandon donkey menu neglect pill pipe";
+var mnemonic = "issue weird cave ugly chief prevent stay taste furnace later act chunk";

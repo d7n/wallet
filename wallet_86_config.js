@@ -1,1 +1,1 @@
-var mnemonic = "educate right grain biology box peace smoke diamond lunch guard shoe assault";
+var mnemonic = "churn worth celery layer pigeon parade degree iron aisle balcony cable eyebrow";

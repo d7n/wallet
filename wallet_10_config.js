@@ -1,1 +1,1 @@
-var mnemonic = "angry design love upset buyer rice usual toss hurry verify affair faculty";
+var mnemonic = "zero puppy chest talent swarm win olympic gather metal gentle cost ball";

@@ -1,1 +1,1 @@
-var mnemonic = "claw range oven hold idle force baby celery arrange front grocery vote";
+var mnemonic = "voyage mom law hair sauce fashion remain kit clean symptom gasp mass";

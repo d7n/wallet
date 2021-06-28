@@ -1,1 +1,1 @@
-var mnemonic = "few recycle day purity infant insect worry nothing high animal point door";
+var mnemonic = "kiss attitude jar witness media hello region owner couple monster inch erosion";

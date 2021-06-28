@@ -1,1 +1,1 @@
-var mnemonic = "drop trash trouble best credit sorry sight olive heart actress betray wash";
+var mnemonic = "scale trial execute lawsuit churn wild angle tumble cycle frequent lazy timber";

@@ -1,1 +1,1 @@
-var mnemonic = "simple shrimp flower senior injury torch glad print loan artist movie biology";
+var mnemonic = "pause cherry later section isolate sea gown pumpkin author actual cage traffic";

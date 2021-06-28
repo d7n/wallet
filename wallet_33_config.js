@@ -1,1 +1,1 @@
-var mnemonic = "frequent sauce rack trap salmon slush feed supply hub wet outdoor iron";
+var mnemonic = "urban rich indoor typical service excess soccer story laugh absorb vintage valid";

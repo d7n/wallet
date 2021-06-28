@@ -1,1 +1,1 @@
-var mnemonic = "mean canal absorb manual potato slogan siege gospel ring trigger income fortune";
+var mnemonic = "session boy nominee awful cruise always end ask fox bubble cube stereo";

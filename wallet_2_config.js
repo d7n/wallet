@@ -1,1 +1,1 @@
-var mnemonic = "orbit noodle slogan correct together hen nation method laptop small circle shock";
+var mnemonic = "oak pen scheme mandate execute original snow hello differ end tray pistol";

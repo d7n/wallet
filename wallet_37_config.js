@@ -1,1 +1,1 @@
-var mnemonic = "cup puppy barely spy iron betray key rocket universe steak pumpkin grain";
+var mnemonic = "theory join marine aerobic lesson curve dirt noble climb frequent cruel long";

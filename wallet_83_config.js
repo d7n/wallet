@@ -1,1 +1,1 @@
-var mnemonic = "pond page motion nest wrestle maze job tiny letter daring industry raw";
+var mnemonic = "stove vacuum problem globe ball fragile another utility girl illegal tissue health";

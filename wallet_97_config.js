@@ -1,1 +1,1 @@
-var mnemonic = "picnic polar minor mirror now able final violin this eager lyrics deputy";
+var mnemonic = "discover bright top tiny away road category hair enroll jeans awkward glare";

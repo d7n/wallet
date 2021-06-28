@@ -1,1 +1,1 @@
-var mnemonic = "kitten echo blossom fat trigger timber choose fiscal voyage raven wasp business";
+var mnemonic = "eyebrow engage taxi invest stone over scare bleak apart inmate talk job";

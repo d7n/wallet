@@ -1,1 +1,1 @@
-var mnemonic = "cloud leave palace forum jaguar drastic eager kitten come miracle they renew";
+var mnemonic = "leg betray unknown doctor stamp bless surge sample budget medal drift hood";

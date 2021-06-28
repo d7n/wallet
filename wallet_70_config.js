@@ -1,1 +1,1 @@
-var mnemonic = "swamp wise range grass extra pizza anger idea ivory joy excuse tired";
+var mnemonic = "add recycle ethics swap credit grace crowd fantasy globe critic media grief";

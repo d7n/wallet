@@ -1,1 +1,1 @@
-var mnemonic = "banana lesson exact thrive paddle near way diesel begin dish spider fortune";
+var mnemonic = "fame ask leader child pizza census void aspect build horn country dignity";

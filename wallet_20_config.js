@@ -1,1 +1,1 @@
-var mnemonic = "love there sample appear sick athlete dish latin nurse bonus idle forum";
+var mnemonic = "until raccoon tunnel wing unit range decline excite elder figure potato mixture";

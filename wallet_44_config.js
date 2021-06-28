@@ -1,1 +1,1 @@
-var mnemonic = "carry suit logic limb normal final canvas choose file lawsuit subway shield";
+var mnemonic = "pride stove arrest popular dragon crowd donor jacket piano way swallow club";

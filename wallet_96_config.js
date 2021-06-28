@@ -1,1 +1,1 @@
-var mnemonic = "grace bacon pattern stairs coconut author size blush order fan rifle employ";
+var mnemonic = "type toast marriage can cruel alcohol away trend two car know depend";

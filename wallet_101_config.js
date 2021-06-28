@@ -1,1 +1,1 @@
-var mnemonic = "fault update jar exact smoke opinion owner wild gather odor hair ticket";
+var mnemonic = "race someone blouse seminar mule favorite marble fiber oyster lady loud field";

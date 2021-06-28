@@ -1,1 +1,1 @@
-var mnemonic = "subway long monitor skull dish regular any wisdom use fitness erosion cloud";
+var mnemonic = "ensure reveal foster two cup strong oppose quiz ridge roof nasty cluster";

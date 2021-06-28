@@ -1,1 +1,1 @@
-var mnemonic = "talent horse cave thrive daughter novel daring theory panel nut strong champion";
+var mnemonic = "vanish common door wife talk vacuum vapor correct paddle elder taxi evidence";

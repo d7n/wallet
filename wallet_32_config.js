@@ -1,1 +1,1 @@
-var mnemonic = "mimic return reject because marble virus enlist wrong comfort genuine assume scatter";
+var mnemonic = "cheese afraid dolphin quiz trophy camera practice announce wonder joy novel vicious";

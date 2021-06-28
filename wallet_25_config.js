@@ -1,1 +1,1 @@
-var mnemonic = "device net economy neglect cute spy solid daring hunt develop joy birth";
+var mnemonic = "jeans industry brand neck lake layer crane grid element item mutual machine";

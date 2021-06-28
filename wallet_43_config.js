@@ -1,1 +1,1 @@
-var mnemonic = "current select furnace length refuse runway clinic youth explain dentist velvet staff";
+var mnemonic = "timber beach liquid easily guilt hen awful anxiety tobacco ready report ramp";

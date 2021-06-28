@@ -1,1 +1,1 @@
-var mnemonic = "luxury arrange prevent original dutch moon fiscal parrot library vintage margin debris";
+var mnemonic = "report tape scrub giggle useful novel artwork illegal anger tent rural science";

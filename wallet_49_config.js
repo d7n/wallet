@@ -1,1 +1,1 @@
-var mnemonic = "transfer sponsor soul stamp verify crop human section globe antenna usage buffalo";
+var mnemonic = "assault gesture tail disorder loud notable vapor lazy peasant exhibit antique mobile";

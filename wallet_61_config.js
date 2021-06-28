@@ -1,1 +1,1 @@
-var mnemonic = "evolve where life chat amazing offer tube beef diamond frown usual danger";
+var mnemonic = "twelve culture orchard canoe stand puppy reveal april detect welcome dress awake";

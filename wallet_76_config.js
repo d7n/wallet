@@ -1,1 +1,1 @@
-var mnemonic = "unaware detect medal forward climb tumble arm snack adapt speed flight nasty";
+var mnemonic = "clutch awake shock point ribbon balance flame evoke nephew second hurry oak";

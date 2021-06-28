@@ -1,1 +1,1 @@
-var mnemonic = "cloth affair pigeon permit scare mule physical pretty file expire casino web";
+var mnemonic = "very favorite follow pottery embody coyote humor tiger sing fancy police case";

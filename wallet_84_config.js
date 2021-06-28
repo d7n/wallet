@@ -1,1 +1,1 @@
-var mnemonic = "solar arctic guess elite device matter forget such december slice unable crisp";
+var mnemonic = "cruel insect away danger three fatal cash host crumble tail fetch buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "entire skin noodle fluid emotion estate give elegant peanut knock acquire garbage";
+var mnemonic = "ahead kiss tomato angle nature open toward car appear combine peace gate";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing fault fish illness sauce toast album surge bicycle patrol engine voyage";
+var mnemonic = "train decline album victory unlock inner uphold alley crouch nature young stick";

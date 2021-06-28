@@ -1,1 +1,1 @@
-var mnemonic = "wall stomach ketchup alley garment dress derive vicious valid try attitude girl";
+var mnemonic = "secret cheese pizza stomach case improve situate carry oven rebel kiss business";

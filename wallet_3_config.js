@@ -1,1 +1,1 @@
-var mnemonic = "ill record void blouse diagram bike gauge exit insect shoot sugar control";
+var mnemonic = "upgrade year hurdle resource spatial razor absorb night depart type staff duty";

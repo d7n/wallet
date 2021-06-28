@@ -1,1 +1,1 @@
-var mnemonic = "ball deny test logic obey artefact tuna large measure master vast weasel";
+var mnemonic = "undo sorry song gun champion kitchen nerve ten easy slogan neck gaze";

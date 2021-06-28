@@ -1,1 +1,1 @@
-var mnemonic = "acoustic pink notable change resource corn weasel unusual now hip amused arrive";
+var mnemonic = "science travel twelve work rare abstract rhythm wolf garment barely arm slow";

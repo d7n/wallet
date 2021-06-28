@@ -1,1 +1,1 @@
-var mnemonic = "suspect cute someone alert trumpet claw music short disease water letter hero";
+var mnemonic = "domain curious man rival cabin unaware gun pair submit check wood relief";
