@@ -1,1 +1,1 @@
-var mnemonic = "volcano trigger betray general couch rib emerge club that design hidden arrange";
+var mnemonic = "easily dove claim sad snack possible bargain identify famous truck museum scene";

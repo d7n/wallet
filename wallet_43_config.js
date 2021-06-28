@@ -1,1 +1,1 @@
-var mnemonic = "glimpse slight offer term jazz confirm mosquito large twin shaft ancient oil";
+var mnemonic = "rebel matter advice alien away rhythm coffee spawn error trust what soup";

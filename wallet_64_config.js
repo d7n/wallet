@@ -1,1 +1,1 @@
-var mnemonic = "brisk boring math piano silk sport mutual record jewel special forget ivory";
+var mnemonic = "screen client soon youth gas peanut tomato dress mutual family budget media";

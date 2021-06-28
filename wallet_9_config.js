@@ -1,1 +1,1 @@
-var mnemonic = "then cheap orange leg valve gloom call produce address banana slam artist";
+var mnemonic = "october clinic empower dismiss tonight float hazard ceiling bunker often chat grain";

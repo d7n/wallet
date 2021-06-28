@@ -1,1 +1,1 @@
-var mnemonic = "alpha myself vocal margin manual abuse project expire broom sting normal second";
+var mnemonic = "solution boring orchard filter smile truck deal garment solid clutch party boring";

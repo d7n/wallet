@@ -1,1 +1,1 @@
-var mnemonic = "music indicate wrong beauty announce tonight diet tree age urge ridge model";
+var mnemonic = "biology pilot country urban begin luxury parent output enhance tiny session limit";

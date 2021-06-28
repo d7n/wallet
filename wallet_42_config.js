@@ -1,1 +1,1 @@
-var mnemonic = "chalk poverty version near fiction fork duty deputy garbage width embody large";
+var mnemonic = "unable talk disease maximum isolate cheap view habit popular draw pass brisk";

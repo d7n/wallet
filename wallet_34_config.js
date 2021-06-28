@@ -1,1 +1,1 @@
-var mnemonic = "afford laptop giraffe project garlic master ability pilot situate office black bleak";
+var mnemonic = "fence royal sight employ eager early film very acoustic slice path thumb";

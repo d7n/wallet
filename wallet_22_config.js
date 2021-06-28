@@ -1,1 +1,1 @@
-var mnemonic = "yellow slide total saddle first mom rabbit pond differ increase kiss rain";
+var mnemonic = "violin illness issue obvious unfair estate bitter tackle hero letter awake question";

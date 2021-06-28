@@ -1,1 +1,1 @@
-var mnemonic = "negative exchange easy all follow gallery used awake develop wrong sudden pizza";
+var mnemonic = "offer endless option nurse drama weather arm giraffe accident below middle use";

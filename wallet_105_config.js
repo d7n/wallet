@@ -1,1 +1,1 @@
-var mnemonic = "tilt palm issue pumpkin baby physical only roast cement chaos horn session";
+var mnemonic = "chief era ozone will motion glimpse used law dance response shaft expire";

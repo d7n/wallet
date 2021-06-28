@@ -1,1 +1,1 @@
-var mnemonic = "insect guide desk hospital profit miracle hamster humble clutch quarter awkward tornado";
+var mnemonic = "wife banner sound sudden cactus wink loop tray race sense degree device";

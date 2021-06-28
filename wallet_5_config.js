@@ -1,1 +1,1 @@
-var mnemonic = "desert shed dizzy pull nut pulse armed library share long figure ivory";
+var mnemonic = "heavy expire sea abandon pulp session begin assault actual fold capital napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "edit erode melody issue hurt mesh laugh prefer joy rate coil ritual";
+var mnemonic = "sign involve fiction film edge thrive great recycle talk wave image toy";

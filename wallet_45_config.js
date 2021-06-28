@@ -1,1 +1,1 @@
-var mnemonic = "slender attitude industry recycle police play milk wreck limb salon fold afraid";
+var mnemonic = "slide oven kite stage bid tuition rural achieve bomb infant million nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "wine message attack hurry estate scale coast despair sentence gold caution swallow";
+var mnemonic = "champion sweet deal trial tobacco blanket clerk shrimp sniff current kiss gift";

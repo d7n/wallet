@@ -1,1 +1,1 @@
-var mnemonic = "peace hire zone first rug fault great hotel major suggest infant cute";
+var mnemonic = "expose broccoli adjust initial know service wheat any situate expand enter cry";

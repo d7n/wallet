@@ -1,1 +1,1 @@
-var mnemonic = "random obey capital tell ring leader electric neither obscure mass marine excuse";
+var mnemonic = "assist any lemon lava vivid genre palace ivory fiction settle energy rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "link metal mechanic egg mixture village melody practice addict increase permit siege";
+var mnemonic = "aim hurdle arctic mesh because idea volume target foot tenant cake barely";

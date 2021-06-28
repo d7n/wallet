@@ -1,1 +1,1 @@
-var mnemonic = "traffic recycle strong heart pottery track anxiety avoid split second asset door";
+var mnemonic = "dream please wheel fashion there humble favorite glue include devote trick wreck";

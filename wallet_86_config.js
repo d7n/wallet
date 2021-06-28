@@ -1,1 +1,1 @@
-var mnemonic = "exercise egg cart taxi tourist use stand knee current drum cycle expand";
+var mnemonic = "legend nasty acquire assist they uncover gesture advice hover ostrich frost assault";

@@ -1,1 +1,1 @@
-var mnemonic = "private indoor head clarify catalog hockey fantasy fold range receive session leave";
+var mnemonic = "prison oil radar swallow regular bundle faculty swamp opera diamond real common";

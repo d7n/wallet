@@ -1,1 +1,1 @@
-var mnemonic = "few first van connect clinic wheat script spawn boil copper seminar flip";
+var mnemonic = "wild light horror during screen sibling dress minimum minor rude muscle latin";

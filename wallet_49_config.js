@@ -1,1 +1,1 @@
-var mnemonic = "athlete fork bicycle pistol danger evolve ensure oak pill peace gown direct";
+var mnemonic = "produce sleep virus color regular jelly frozen library column injury badge grain";

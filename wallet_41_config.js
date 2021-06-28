@@ -1,1 +1,1 @@
-var mnemonic = "tumble tone siren river deposit great antenna violin uniform magnet festival normal";
+var mnemonic = "penalty human modify blossom hotel dragon traffic wall seed caught rhythm hen";

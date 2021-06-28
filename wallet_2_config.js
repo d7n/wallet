@@ -1,1 +1,1 @@
-var mnemonic = "oil buddy hawk slice hurdle borrow wasp bridge wheat cement input uncle";
+var mnemonic = "asthma chapter banner increase faculty debris patch target budget sense blush earth";

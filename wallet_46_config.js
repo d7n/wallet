@@ -1,1 +1,1 @@
-var mnemonic = "song traffic segment purchase ignore trial chimney kit velvet soccer install miracle";
+var mnemonic = "prison venue mention infant display labor table beauty pulp clay future cave";

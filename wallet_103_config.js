@@ -1,1 +1,1 @@
-var mnemonic = "shell sell vanish film disorder capital truly solve ill enact come final";
+var mnemonic = "consider invite cable shallow school sand stand foam bus hair base hedgehog";

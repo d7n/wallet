@@ -1,1 +1,1 @@
-var mnemonic = "paddle window excess abuse tunnel tattoo story travel drift such age video";
+var mnemonic = "idea candy solar hurdle render express key license stairs next pact label";

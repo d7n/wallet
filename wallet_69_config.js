@@ -1,1 +1,1 @@
-var mnemonic = "remain boil lock pact narrow company feature garbage video mandate ride blast";
+var mnemonic = "volcano snow limb trim they impact awkward crop chat clump depart security";

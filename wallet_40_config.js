@@ -1,1 +1,1 @@
-var mnemonic = "talk purpose exercise abandon album offer page diesel stone solid awesome wedding";
+var mnemonic = "vocal hope cat draw auto bracket civil trumpet engine home huge enter";

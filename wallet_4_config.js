@@ -1,1 +1,1 @@
-var mnemonic = "cake control element plunge climb sweet announce victory ethics blind file bag";
+var mnemonic = "manual rice victory fetch behave warm wisdom wave million air vast grace";

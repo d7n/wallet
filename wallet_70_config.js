@@ -1,1 +1,1 @@
-var mnemonic = "order tide gold either lab pyramid admit maze rail turkey proud erupt";
+var mnemonic = "eternal afraid battle vibrant sing wreck tower hunt canal crystal pair stool";

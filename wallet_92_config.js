@@ -1,1 +1,1 @@
-var mnemonic = "dignity situate nominee wing salt mixed window reflect poverty claim void tomato";
+var mnemonic = "rate scan water expire glimpse success dragon delay midnight security toward dose";

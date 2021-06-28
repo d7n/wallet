@@ -1,1 +1,1 @@
-var mnemonic = "drama champion tobacco inmate moon demand day wait trap argue combine busy";
+var mnemonic = "smart chuckle woman man holiday father run large reopen dwarf minimum issue";

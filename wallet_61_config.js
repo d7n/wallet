@@ -1,1 +1,1 @@
-var mnemonic = "hip country height drift steel dust help upset despair mansion neck rich";
+var mnemonic = "change long mistake palace color expect run raw mean peasant ignore rubber";

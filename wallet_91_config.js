@@ -1,1 +1,1 @@
-var mnemonic = "degree noodle ability kiwi kiss unfair phrase aunt invest agent viable inside";
+var mnemonic = "throw monster antique rice fortune culture maze kit maximum twin still fringe";

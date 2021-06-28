@@ -1,1 +1,1 @@
-var mnemonic = "acquire race trade humor scene blade tilt situate involve cash fog fringe";
+var mnemonic = "wheat much tooth tower biology deny lemon bicycle bulb web like marble";

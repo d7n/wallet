@@ -1,1 +1,1 @@
-var mnemonic = "normal umbrella celery slab genuine three attitude bread plunge aware forget impose";
+var mnemonic = "visit seminar test grow thing glimpse loan unfold cage multiply sponsor ancient";

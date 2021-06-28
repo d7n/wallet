@@ -1,1 +1,1 @@
-var mnemonic = "cause nominee clip close wear shy input penalty cover file evil because";
+var mnemonic = "favorite whip pumpkin basic card panic theme reward brush roof run artefact";

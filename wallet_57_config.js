@@ -1,1 +1,1 @@
-var mnemonic = "dignity festival federal fix swim smile script divert bulb ordinary spend intact";
+var mnemonic = "cradle kiwi kiwi produce buzz penalty basic black purchase carbon prison emotion";

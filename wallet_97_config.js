@@ -1,1 +1,1 @@
-var mnemonic = "casino viable valid distance economy inflict between gasp scheme appear vessel index";
+var mnemonic = "sadness doctor warrior exhaust town destroy burger cross arm puzzle capital deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "chat goat foam iron fox nose skin fatigue fossil twenty burger loud";
+var mnemonic = "air duck supply voyage plate town wood dream estate slam half goat";

@@ -1,1 +1,1 @@
-var mnemonic = "gather unlock offer typical job faculty concert home response fancy arrange hedgehog";
+var mnemonic = "pond cancel cushion pluck two alert pave rural ask harvest own aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "ball assume diet water teach traffic enhance drastic midnight weapon jewel pear";
+var mnemonic = "know treat laundry say party lounge sudden nature lens usage gas custom";

@@ -1,1 +1,1 @@
-var mnemonic = "boss hollow answer winner have exile derive alter alter lecture strong gun";
+var mnemonic = "sail ready school fresh faculty paddle clip piece office flat fix north";

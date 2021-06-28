@@ -1,1 +1,1 @@
-var mnemonic = "neck monitor crater vanish creek boost outside smile because hybrid either agree";
+var mnemonic = "unique mad jungle twin they torch spare always weekend cactus syrup fancy";

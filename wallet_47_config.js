@@ -1,1 +1,1 @@
-var mnemonic = "arrange vessel sting loud gauge fortune this next member mind input what";
+var mnemonic = "visa tomato bring mango lucky fantasy torch door remind aware you dinosaur";

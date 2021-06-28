@@ -1,1 +1,1 @@
-var mnemonic = "alone panel husband tube april pepper royal maple duty wrestle auto habit";
+var mnemonic = "hint only alcohol swarm eye good achieve december angle urban school shop";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish cash tenant alert canvas eyebrow bird face estate exotic hurdle barely";
+var mnemonic = "peasant catch artwork close level lawsuit apart game across round acquire second";

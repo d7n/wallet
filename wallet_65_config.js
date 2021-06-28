@@ -1,1 +1,1 @@
-var mnemonic = "discover mad claim lens warfare vote slight skirt reform pool million debris";
+var mnemonic = "canal chalk stumble swim inside leaf chicken member physical soup fetch patch";

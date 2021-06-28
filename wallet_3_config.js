@@ -1,1 +1,1 @@
-var mnemonic = "exchange angry hold museum whale angry shoulder category divide medal tennis produce";
+var mnemonic = "virtual menu rally aisle spider abstract disorder observe sea safe say bacon";

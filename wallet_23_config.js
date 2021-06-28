@@ -1,1 +1,1 @@
-var mnemonic = "mom alley increase flavor puppy wide size math rose enhance recycle lend";
+var mnemonic = "ski taxi cereal monitor beach extend borrow fashion then canoe swim increase";

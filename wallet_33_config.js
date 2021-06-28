@@ -1,1 +1,1 @@
-var mnemonic = "crash embody all stamp mother member dad angry tape catch ankle recycle";
+var mnemonic = "artist eyebrow planet choose morning endless citizen around become adapt magic security";

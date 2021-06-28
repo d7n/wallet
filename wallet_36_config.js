@@ -1,1 +1,1 @@
-var mnemonic = "dance rubber lyrics thumb mom tragic satoshi maid galaxy rude excuse huge";
+var mnemonic = "thumb mosquito gown forest power health lunar climb wire model balance coconut";

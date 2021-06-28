@@ -1,1 +1,1 @@
-var mnemonic = "swamp unknown struggle palace domain target update ship puppy cliff domain extend";
+var mnemonic = "glide crucial man quantum alone now curtain giggle pumpkin spice quiz skin";

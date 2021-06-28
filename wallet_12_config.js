@@ -1,1 +1,1 @@
-var mnemonic = "camp goose early spirit devote comic trophy fire buyer gadget urban unique";
+var mnemonic = "advice burst cluster phone wool book borrow scatter fee round dwarf city";

@@ -1,1 +1,1 @@
-var mnemonic = "dove oval bus throw ritual merge seek face fun mixed off very";
+var mnemonic = "virtual wing unlock weather crazy squirrel mail false camera into naive praise";

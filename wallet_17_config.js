@@ -1,1 +1,1 @@
-var mnemonic = "twenty coffee rose decorate apart security later confirm camera walk panda truck";
+var mnemonic = "script grab theme clever life certain awkward anxiety access code only injury";

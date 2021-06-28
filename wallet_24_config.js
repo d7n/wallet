@@ -1,1 +1,1 @@
-var mnemonic = "question harsh harsh ankle auto great weekend local leopard family reduce cinnamon";
+var mnemonic = "fashion december powder glimpse gun truly ride hero ugly skull captain transfer";

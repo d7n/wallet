@@ -1,1 +1,1 @@
-var mnemonic = "surprise fold usage noble goat reject opinion detect receive crop upgrade good";
+var mnemonic = "weasel concert ghost ramp wage bunker unhappy acid text urge trophy profit";

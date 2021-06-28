@@ -1,1 +1,1 @@
-var mnemonic = "detect pottery prefer fine repeat maid spot clinic recipe theory humor lonely";
+var mnemonic = "credit pizza consider because mule mention aerobic dirt movie future boost giggle";

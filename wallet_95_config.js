@@ -1,1 +1,1 @@
-var mnemonic = "early beef mountain comfort invest vast anxiety attract broccoli steak loud exhibit";
+var mnemonic = "recall youth economy bounce warrior juice curve into silk scout century share";

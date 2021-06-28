@@ -1,1 +1,1 @@
-var mnemonic = "yard review pulse you ostrich screen frown lottery breeze dad fan high";
+var mnemonic = "decide horror window force pepper pink require brave shoulder toast pole maximum";

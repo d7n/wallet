@@ -1,1 +1,1 @@
-var mnemonic = "salute powder keep bacon crime tortoise wool panther stem soap runway chair";
+var mnemonic = "dirt wheat problem perfect limb chalk knock six cream observe satoshi ordinary";

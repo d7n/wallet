@@ -1,1 +1,1 @@
-var mnemonic = "spawn mixture pride canoe endless column warm any off venue dial code";
+var mnemonic = "crime food weapon mad open stone point win tree steel eternal adapt";

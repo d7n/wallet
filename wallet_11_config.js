@@ -1,1 +1,1 @@
-var mnemonic = "afraid raccoon warrior food skin crop short firm blanket visa gift glory";
+var mnemonic = "senior daring embody surface exotic angle bitter inhale trophy future alone general";

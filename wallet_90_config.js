@@ -1,1 +1,1 @@
-var mnemonic = "slab amused faith update prize milk doctor blind glide sail helmet faint";
+var mnemonic = "surface proof actress will liar list erase dice hundred north electric ten";

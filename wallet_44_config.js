@@ -1,1 +1,1 @@
-var mnemonic = "inflict measure stone security organ eyebrow story help oxygen wedding improve basic";
+var mnemonic = "service figure inquiry another release garlic foil edit trash patrol wash barely";

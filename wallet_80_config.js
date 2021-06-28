@@ -1,1 +1,1 @@
-var mnemonic = "layer hobby shell hawk attract earth turkey trade oxygen love zebra novel";
+var mnemonic = "length hard tent rebel pilot nephew ladder exit occur comfort glow tree";

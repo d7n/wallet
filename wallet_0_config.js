@@ -1,1 +1,1 @@
-var mnemonic = "bunker rookie volume cliff indicate warrior possible light lake weasel bench small";
+var mnemonic = "depend sick clay floor swing tray concert alpha taste anxiety sea book";

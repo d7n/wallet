@@ -1,1 +1,1 @@
-var mnemonic = "history myself remember aspect range load practice label six skirt build leopard";
+var mnemonic = "stereo project tattoo roast assault sick cupboard tribe coin proof fix climb";

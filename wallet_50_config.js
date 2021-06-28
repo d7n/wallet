@@ -1,1 +1,1 @@
-var mnemonic = "pipe dizzy soldier stable amazing negative direct sea immune lend deposit kit";
+var mnemonic = "govern boat twenty sun fossil orchard twist assist rifle broken reveal agent";

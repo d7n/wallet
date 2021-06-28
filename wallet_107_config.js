@@ -1,1 +1,1 @@
-var mnemonic = "amateur possible bamboo ecology panther rocket rural equal model half antique rail";
+var mnemonic = "common blue crop zone wasp pledge quick story health tenant neutral hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle velvet flag guide strategy october example resource federal girl move surprise";
+var mnemonic = "middle slice palace magic choose clinic snack ice flash aspect solar multiply";

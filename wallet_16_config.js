@@ -1,1 +1,1 @@
-var mnemonic = "will apart stuff weasel sword endorse recipe law electric stone siege gown";
+var mnemonic = "manual foot lottery spin include trust hunt visit bomb spray unique cushion";

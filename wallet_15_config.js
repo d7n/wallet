@@ -1,1 +1,1 @@
-var mnemonic = "excess journey holiday grocery tribe inmate film situate milk famous recipe traffic";
+var mnemonic = "result lava silk lake fossil genre seminar globe broccoli remind kid label";

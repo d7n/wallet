@@ -1,1 +1,1 @@
-var mnemonic = "castle mean thunder boring hover person ship dose favorite trend inherit pattern";
+var mnemonic = "defy bulk credit side mad hold gown animal auction shoot oyster marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain purpose achieve unfair helmet kangaroo member hedgehog uncover apple wrap patrol";
+var mnemonic = "option arena treat sorry conduct wolf alert intact cute boss timber almost";

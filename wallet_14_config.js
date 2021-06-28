@@ -1,1 +1,1 @@
-var mnemonic = "business vocal south embark cause tribe velvet color balance doll increase rebuild";
+var mnemonic = "another current animal kick oblige cat vital true young foil brush spatial";

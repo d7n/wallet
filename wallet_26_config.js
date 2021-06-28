@@ -1,1 +1,1 @@
-var mnemonic = "vault room jewel affair balcony awake repair brick name poverty consider glory";
+var mnemonic = "trim glue kidney bean turtle toilet law jelly cliff memory ice pony";

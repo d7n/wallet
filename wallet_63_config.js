@@ -1,1 +1,1 @@
-var mnemonic = "pause brother stone then sentence awful replace private risk dove song reveal";
+var mnemonic = "air frost canal now fun adjust adult tackle holiday betray cloth control";

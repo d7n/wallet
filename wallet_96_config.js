@@ -1,1 +1,1 @@
-var mnemonic = "domain still luggage torch attract final long deputy cereal interest rabbit project";
+var mnemonic = "source sad road ball carbon canvas penalty south coach fault pool casual";

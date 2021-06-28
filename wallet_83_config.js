@@ -1,1 +1,1 @@
-var mnemonic = "cart near hat burst wealth agree universe wrestle middle code coyote club";
+var mnemonic = "soap swap solve gown mother sea ball melt wolf mesh worry click";

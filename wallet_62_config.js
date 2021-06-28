@@ -1,1 +1,1 @@
-var mnemonic = "wild artwork violin raccoon range sponsor square bargain ignore coyote leader bean";
+var mnemonic = "tunnel judge federal club steak nurse final wish clock emotion test silly";

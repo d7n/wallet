@@ -1,1 +1,1 @@
-var mnemonic = "sibling legend address maximum pink energy gasp canvas spare toss slam pencil";
+var mnemonic = "inner little suit valve before kite season phrase learn coconut teach fossil";

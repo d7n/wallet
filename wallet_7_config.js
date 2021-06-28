@@ -1,1 +1,1 @@
-var mnemonic = "torch escape coil upon device always donate demand salad roast author cricket";
+var mnemonic = "forget cabin case slab merge brush damage slot hill blame fun cluster";
