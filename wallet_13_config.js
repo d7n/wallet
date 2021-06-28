@@ -1,1 +1,1 @@
-var mnemonic = "hope ceiling disagree invite silly black announce type dial addict vintage inmate";
+var mnemonic = "panel cupboard wonder unit animal isolate kite vague leopard puppy method skirt";

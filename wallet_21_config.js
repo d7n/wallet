@@ -1,1 +1,1 @@
-var mnemonic = "bonus around busy dad capital noodle drastic any barely vessel convince power";
+var mnemonic = "smoke upper charge test crater hurt sea demand cable online model step";

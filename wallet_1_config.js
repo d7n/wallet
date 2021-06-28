@@ -1,1 +1,1 @@
-var mnemonic = "lake castle become run near answer mountain nerve swamp phone witness skull";
+var mnemonic = "debate voice menu fluid tooth tribe spring congress manage retreat tail market";

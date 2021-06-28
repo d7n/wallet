@@ -1,1 +1,1 @@
-var mnemonic = "swarm such sell magic start correct section bus plastic prison parrot image";
+var mnemonic = "admit night cargo enforce video vocal warrior apple strike busy cheap nature";

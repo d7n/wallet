@@ -1,1 +1,1 @@
-var mnemonic = "silent corn security turn panther upper certain cube caution sing mouse raw";
+var mnemonic = "baby equip music outside jazz upgrade deputy magic deer wish version copper";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic rhythm connect sword spin gun eye lonely machine elephant response citizen";
+var mnemonic = "gain destroy surface become actor distance resemble gentle beef glove asthma fox";

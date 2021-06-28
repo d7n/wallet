@@ -1,1 +1,1 @@
-var mnemonic = "fence guitar over vicious sudden clump mansion taste such conduct divorce genuine";
+var mnemonic = "venture fiscal sniff affair jar ceiling spread mind fiber hockey random sun";

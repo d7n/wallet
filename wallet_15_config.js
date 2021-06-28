@@ -1,1 +1,1 @@
-var mnemonic = "shy imitate clump night cloud diet song misery cereal vacuum cabbage phone";
+var mnemonic = "atom method reflect call tired bus piece asthma collect strategy save novel";

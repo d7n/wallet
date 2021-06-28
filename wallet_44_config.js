@@ -1,1 +1,1 @@
-var mnemonic = "setup magic hover chase kit random witness derive unusual daring bid name";
+var mnemonic = "crawl talent web enjoy output awful soul define sponsor access defy emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "sock dial promote naive barrel polar control poem april mesh cannon crumble";
+var mnemonic = "vibrant will crash muscle exit ski legend plug beach manual barely question";

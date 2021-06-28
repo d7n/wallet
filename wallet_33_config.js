@@ -1,1 +1,1 @@
-var mnemonic = "resource fish book secret exercise image cluster emerge earn vendor sugar skin";
+var mnemonic = "thumb suspect hockey mimic switch office lounge soldier spread present topic solar";

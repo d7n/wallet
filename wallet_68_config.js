@@ -1,1 +1,1 @@
-var mnemonic = "manual combine add second digital sunset noble stamp mammal unaware vapor express";
+var mnemonic = "feature owner level choice lawsuit now enlist earn often strike above slab";

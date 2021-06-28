@@ -1,1 +1,1 @@
-var mnemonic = "around flag pudding puzzle boring desert flash outdoor glory you hat sunny";
+var mnemonic = "mention margin enact purse wife chest win grant cash rebuild alien visit";

@@ -1,1 +1,1 @@
-var mnemonic = "equal plastic gown column skate acoustic silk head gadget modify radio trip";
+var mnemonic = "merry depend rigid release cancel ginger divide endorse pigeon glimpse bike fluid";

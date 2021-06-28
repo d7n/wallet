@@ -1,1 +1,1 @@
-var mnemonic = "aim tumble rough gallery mercy dish license tragic buffalo oak appear figure";
+var mnemonic = "awkward pact harsh motion lunch royal dawn pole vault rubber violin away";

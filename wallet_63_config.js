@@ -1,1 +1,1 @@
-var mnemonic = "learn blame vicious stone lab sport wheel fatal act unlock future check";
+var mnemonic = "coast van zebra open promote spirit habit fix vehicle pumpkin nice loop";

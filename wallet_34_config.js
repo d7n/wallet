@@ -1,1 +1,1 @@
-var mnemonic = "convince buzz confirm core more brick gauge pyramid hat vacant expire say";
+var mnemonic = "move brother opinion banana escape shiver arrow orphan squeeze rack jump north";

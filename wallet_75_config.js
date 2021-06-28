@@ -1,1 +1,1 @@
-var mnemonic = "lizard brief utility artefact element catch bubble game key crouch napkin tattoo";
+var mnemonic = "swear runway pencil pizza dust tomorrow setup layer rice floor great hour";

@@ -1,1 +1,1 @@
-var mnemonic = "future purchase chalk reason fantasy thing organ tenant state friend torch lottery";
+var mnemonic = "field elevator practice robust robot key olive basic judge twenty strike ranch";

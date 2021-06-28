@@ -1,1 +1,1 @@
-var mnemonic = "spawn can flee topic atom special siege earth infant baby sight note";
+var mnemonic = "enforce man cattle chimney fatal bridge vague catch zero hockey swing pencil";

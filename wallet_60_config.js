@@ -1,1 +1,1 @@
-var mnemonic = "apple team scan atom roof orbit company extra hello world lift never";
+var mnemonic = "lady warm enter sunset garbage option label shop art affair erode accuse";

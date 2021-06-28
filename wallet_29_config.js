@@ -1,1 +1,1 @@
-var mnemonic = "battle canvas rail guilt fresh hero fault medal wagon draft message divert";
+var mnemonic = "armed safe dust view lizard gesture where salon clarify hen method lady";

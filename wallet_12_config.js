@@ -1,1 +1,1 @@
-var mnemonic = "act naive oven shy anger miracle critic actor lend small expand canal";
+var mnemonic = "anxiety before parrot enable dial sunny coach bar local mom protect dawn";

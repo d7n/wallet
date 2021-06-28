@@ -1,1 +1,1 @@
-var mnemonic = "fame process duck include verify clever hurdle sleep scan fire sword orchard";
+var mnemonic = "chaos net walnut then weekend large share chair patient drive damage vendor";

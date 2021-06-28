@@ -1,1 +1,1 @@
-var mnemonic = "ship copy breeze curious odor genuine shell twice bottom universe funny lazy";
+var mnemonic = "when proof net yard excite angle blanket radar jelly dog recycle quote";

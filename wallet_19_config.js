@@ -1,1 +1,1 @@
-var mnemonic = "cabin uncle castle lens raise oblige build flavor salad honey denial misery";
+var mnemonic = "scrub curve fresh speed country world pudding adjust journey banana debris ill";

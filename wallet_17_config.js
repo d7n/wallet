@@ -1,1 +1,1 @@
-var mnemonic = "gaze real paddle palace remind famous horn siren wear grit corn tag";
+var mnemonic = "faculty knife guide dress ahead forget dumb all ski legend above leisure";

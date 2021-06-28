@@ -1,1 +1,1 @@
-var mnemonic = "shaft believe noise else arch erode federal diagram runway sick thank squirrel";
+var mnemonic = "direct alpha journey canvas team bus magic family pen sing brisk absorb";

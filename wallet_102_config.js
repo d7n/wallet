@@ -1,1 +1,1 @@
-var mnemonic = "clay liberty choice stove oven enjoy float thumb mobile cradle correct stool";
+var mnemonic = "gown deliver raccoon wear special intact body cube expire salon endless balance";

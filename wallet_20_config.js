@@ -1,1 +1,1 @@
-var mnemonic = "seven coral next real fence scrap daring supreme immune hundred online mask";
+var mnemonic = "evolve wall april disorder pair leg amused aspect solve ketchup rent final";

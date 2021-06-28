@@ -1,1 +1,1 @@
-var mnemonic = "dance bullet combine wedding jeans outer arrest myth grant defy already usage";
+var mnemonic = "kitten syrup unfold material outside seat raw sibling include vault belt fiber";

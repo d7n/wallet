@@ -1,1 +1,1 @@
-var mnemonic = "employ repair tribe axis girl despair kitchen antenna settle lyrics sphere cost";
+var mnemonic = "sock tragic seat switch entire build vapor urge dog undo glance similar";

@@ -1,1 +1,1 @@
-var mnemonic = "bone toilet endorse glue dismiss grass sentence ankle notice client various vessel";
+var mnemonic = "dilemma horn discover speed frequent task poem fog found pact food river";

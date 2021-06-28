@@ -1,1 +1,1 @@
-var mnemonic = "faculty canal canoe veteran industry camera insane spell struggle family adapt foster";
+var mnemonic = "pepper bird make pact surge blast load joy you crane shadow proud";

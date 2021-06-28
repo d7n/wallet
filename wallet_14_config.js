@@ -1,1 +1,1 @@
-var mnemonic = "phrase earth imitate shoulder much exit patient marriage bitter blanket minor consider";
+var mnemonic = "acid vital smile bullet bounce mountain net seed perfect cupboard sunset pause";

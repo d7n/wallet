@@ -1,1 +1,1 @@
-var mnemonic = "above educate duck upgrade room labor grape wall access laugh song airport";
+var mnemonic = "cross drink soda ripple suggest clip sight cruel manage afraid enrich gas";

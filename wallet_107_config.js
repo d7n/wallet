@@ -1,1 +1,1 @@
-var mnemonic = "immune video hamster token sugar actor sign pulse twenty tank subway spoon";
+var mnemonic = "multiply annual bronze adjust option sleep frequent unhappy lemon cook blouse coyote";

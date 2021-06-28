@@ -1,1 +1,1 @@
-var mnemonic = "dentist purpose plunge illness wall couch quit follow title together swarm decrease";
+var mnemonic = "wealth float flock neither fold call mix pool seek eye correct relief";

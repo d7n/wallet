@@ -1,1 +1,1 @@
-var mnemonic = "song rate van viable brown rabbit father twenty wing dust snow rail";
+var mnemonic = "nasty panel change seven chunk quality century wasp hollow betray ozone tank";

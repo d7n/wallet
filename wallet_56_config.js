@@ -1,1 +1,1 @@
-var mnemonic = "enact smart dice south inquiry saddle error marine between buffalo siege lamp";
+var mnemonic = "lady sheriff onion empty ethics cart luggage typical six crouch wear lunch";

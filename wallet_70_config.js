@@ -1,1 +1,1 @@
-var mnemonic = "happy permit fever advance success physical depth sugar tomato ostrich demise neither";
+var mnemonic = "detect tell merry include matrix cost drip liberty kiwi kingdom elephant select";

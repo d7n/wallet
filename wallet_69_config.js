@@ -1,1 +1,1 @@
-var mnemonic = "index major treat biology fragile urge rapid fit noise toddler taxi siege";
+var mnemonic = "visa vault economy toddler talent rib soldier search essay illness velvet trap";

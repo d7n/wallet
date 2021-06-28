@@ -1,1 +1,1 @@
-var mnemonic = "pole wedding execute match argue finger defy apple basic miss eyebrow indoor";
+var mnemonic = "leopard cabbage eight icon cradle enact pen trick wish exile tennis segment";

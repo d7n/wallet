@@ -1,1 +1,1 @@
-var mnemonic = "base swarm project crater deer arch federal execute entire captain soft about";
+var mnemonic = "damage photo pond section clap great blouse behave hand scrap apple scissors";

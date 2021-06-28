@@ -1,1 +1,1 @@
-var mnemonic = "document trick assault harvest nose spare media conduct morning clump fiber drop";
+var mnemonic = "gallery inject train critic possible aspect fiction forum world tell neck fault";

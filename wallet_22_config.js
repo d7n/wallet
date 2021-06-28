@@ -1,1 +1,1 @@
-var mnemonic = "fuel trip outer pudding staff slight play situate cricket wrist gather indicate";
+var mnemonic = "exotic arena vibrant settle orange list remind moon host ill curtain chef";

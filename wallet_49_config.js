@@ -1,1 +1,1 @@
-var mnemonic = "saddle million wall cat design abstract diamond cool stereo obtain genre cable";
+var mnemonic = "tooth embody car keep lizard mail display course great mad require into";

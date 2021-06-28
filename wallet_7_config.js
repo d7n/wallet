@@ -1,1 +1,1 @@
-var mnemonic = "inch control render sing share caught space estate nasty lonely mobile owner";
+var mnemonic = "ozone friend combine anxiety live gauge knee flight spice cart galaxy major";

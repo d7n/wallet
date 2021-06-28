@@ -1,1 +1,1 @@
-var mnemonic = "sail upon stool hero problem market insect bounce arrest shed emerge tattoo";
+var mnemonic = "alien torch genius also today keep report old motor enact drama address";

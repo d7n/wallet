@@ -1,1 +1,1 @@
-var mnemonic = "toe provide hunt indicate notable vicious become fit quality tribe ridge sell";
+var mnemonic = "subject spawn emerge cup switch solid move harvest bar find embark meat";

@@ -1,1 +1,1 @@
-var mnemonic = "recall eight torch giggle frog asthma never symbol float judge chair famous";
+var mnemonic = "motor angle width question zero expand pelican girl blur gorilla marriage exhibit";

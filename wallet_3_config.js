@@ -1,1 +1,1 @@
-var mnemonic = "lion sure royal able stairs notable mix anchor pool sure gossip swarm";
+var mnemonic = "maid genuine erase common wrong twin entire lottery harbor race mechanic gravity";

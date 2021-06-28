@@ -1,1 +1,1 @@
-var mnemonic = "meat egg weekend diary trend filter recycle main wolf burst distance shield";
+var mnemonic = "wear fence shine rude photo only good abuse noodle side wing canal";

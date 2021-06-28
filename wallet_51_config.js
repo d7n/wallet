@@ -1,1 +1,1 @@
-var mnemonic = "hole silly want lady torch evoke pilot onion cancel boil immense solid";
+var mnemonic = "add false concert today curve cigar verify daring shift riot pepper wrong";

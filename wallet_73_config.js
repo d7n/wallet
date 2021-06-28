@@ -1,1 +1,1 @@
-var mnemonic = "volume myself loop inject ticket glare busy claw kingdom window nerve puppy";
+var mnemonic = "decorate melt absent what drip hand theory stairs also idle calm tilt";

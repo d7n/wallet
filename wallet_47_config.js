@@ -1,1 +1,1 @@
-var mnemonic = "speed goose width unfold kangaroo toy leopard salad army remind media consider";
+var mnemonic = "alert verb yellow nut announce fence discover minimum table divide seven wing";

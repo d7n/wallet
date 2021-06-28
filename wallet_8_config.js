@@ -1,1 +1,1 @@
-var mnemonic = "gasp infant clip pyramid shift client obvious hard ankle unlock fluid donkey";
+var mnemonic = "panda hospital siege receive interest main liar baby toe jungle among vital";

@@ -1,1 +1,1 @@
-var mnemonic = "brave rule control cash sell crane library race taxi forget waste sister";
+var mnemonic = "dust ability object later vacant kangaroo unique garlic ten fabric buyer valid";

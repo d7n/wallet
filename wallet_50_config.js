@@ -1,1 +1,1 @@
-var mnemonic = "wild jazz mesh excess blur embrace magnet between often joy sheriff attitude";
+var mnemonic = "achieve master win name awkward twenty usual seat exile ramp tray brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "will language vibrant flush tortoise clown eternal ship access promote floor cruel";
+var mnemonic = "label girl ill wheat hollow pink warfare crystal foil brother aware gym";

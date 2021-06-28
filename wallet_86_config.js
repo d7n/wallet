@@ -1,1 +1,1 @@
-var mnemonic = "error slow cupboard used alley tonight clip garlic young stairs poem brisk";
+var mnemonic = "flush glue barely sound toe reform plate pudding rifle evoke march civil";

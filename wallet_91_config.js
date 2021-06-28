@@ -1,1 +1,1 @@
-var mnemonic = "clutch repeat scorpion soldier pencil priority job frame nature virus glare walnut";
+var mnemonic = "cage bottom trim skill habit hood grow tourist flash repair churn arena";

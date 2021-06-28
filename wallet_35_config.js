@@ -1,1 +1,1 @@
-var mnemonic = "victory viable bomb journey runway human deal never pony target quiz price";
+var mnemonic = "pumpkin pony cause time public choose quote affair session write middle local";

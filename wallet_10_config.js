@@ -1,1 +1,1 @@
-var mnemonic = "embrace hood recipe you congress ice decorate force error chat trap odor";
+var mnemonic = "napkin quantum silver symptom assist admit combine pyramid apple object cruise oil";

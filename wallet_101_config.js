@@ -1,1 +1,1 @@
-var mnemonic = "only rocket decide excite picnic adult saddle salt sausage dawn kangaroo oblige";
+var mnemonic = "voyage turkey virus fever donkey daughter can keen execute you buddy drop";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator normal because angle book oyster system script liquid park weird swamp";
+var mnemonic = "sign rookie digital hamster pretty judge ask kitten alone spare gravity glad";

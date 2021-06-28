@@ -1,1 +1,1 @@
-var mnemonic = "senior hand patient flat health retire heavy roast high accident tourist gasp";
+var mnemonic = "curve always vehicle oblige meat submit vast leaf profit heavy record tower";

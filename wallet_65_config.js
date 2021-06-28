@@ -1,1 +1,1 @@
-var mnemonic = "pink symptom frequent throw cute agree chunk retire nurse acid elbow favorite";
+var mnemonic = "upset double banner response festival reunion wrong jaguar major duck tiger maximum";

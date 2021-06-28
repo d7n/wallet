@@ -1,1 +1,1 @@
-var mnemonic = "pledge arrange require caught combine motion area throw fame rocket artwork build";
+var mnemonic = "someone airport upon tag system ceiling kitchen grunt achieve learn welcome tape";

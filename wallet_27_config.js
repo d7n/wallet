@@ -1,1 +1,1 @@
-var mnemonic = "grunt trip six people open rally motor staff diet walk mouse badge";
+var mnemonic = "orchard casino insect stomach butter supreme bottom future piece tent remain frog";

@@ -1,1 +1,1 @@
-var mnemonic = "filter sell dad fresh cigar moment various column invest switch give object";
+var mnemonic = "link hover wrap tell west winner squirrel want vault screen merge step";

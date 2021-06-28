@@ -1,1 +1,1 @@
-var mnemonic = "edit link gorilla album sphere quote knee angry twelve middle pitch planet";
+var mnemonic = "behave crazy kitten hill wrong put muffin head stumble pill deputy blind";

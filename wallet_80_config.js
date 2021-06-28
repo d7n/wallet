@@ -1,1 +1,1 @@
-var mnemonic = "devote sound piece image cabbage weird twist help beach frequent flame this";
+var mnemonic = "surface double hero slam method alert turtle wish humble gallery fog doll";

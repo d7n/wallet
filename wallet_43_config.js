@@ -1,1 +1,1 @@
-var mnemonic = "awkward cabbage erase help present segment rather priority model relief present leave";
+var mnemonic = "fit dwarf thing kiss enact index idle spend leader buddy quote wasp";

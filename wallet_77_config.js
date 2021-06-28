@@ -1,1 +1,1 @@
-var mnemonic = "romance pioneer like view ball flag loop bless rifle such history prefer";
+var mnemonic = "hollow deliver thumb barrel slide focus submit vapor resemble follow rifle method";

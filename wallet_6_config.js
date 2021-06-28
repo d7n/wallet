@@ -1,1 +1,1 @@
-var mnemonic = "mansion sentence guide side safe hold measure enrich balance clown improve often";
+var mnemonic = "rocket blade token bring display jelly rapid supply grace mistake alarm devote";

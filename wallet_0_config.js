@@ -1,1 +1,1 @@
-var mnemonic = "bottom exercise embody pepper nothing iron dragon march wear coyote cabin stairs";
+var mnemonic = "sponsor tide sheriff empower place squirrel gospel proof black diesel fabric glance";

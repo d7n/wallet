@@ -1,1 +1,1 @@
-var mnemonic = "thank knock fruit tuna regret solve secret oppose butter room twist magnet";
+var mnemonic = "plate blush odor fine library blind pigeon ethics burden crime artwork coil";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder rocket harsh access bullet dismiss morning toast layer that voyage this";
+var mnemonic = "mechanic equip salt include approve memory daughter pledge ocean around isolate mom";

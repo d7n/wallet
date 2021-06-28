@@ -1,1 +1,1 @@
-var mnemonic = "mix force joy close hazard minimum ship squeeze ski thumb economy robust";
+var mnemonic = "tower birth crater equip carpet labor cost hungry process civil maple wet";

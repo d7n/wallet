@@ -1,1 +1,1 @@
-var mnemonic = "venue snack ladder young fix knock relief mix praise left squirrel around";
+var mnemonic = "pave truly avocado dismiss number victory math gift join scrap tunnel ill";

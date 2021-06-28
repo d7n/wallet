@@ -1,1 +1,1 @@
-var mnemonic = "tuna seven penalty faith govern cute armor sand nuclear loan drum rapid";
+var mnemonic = "fish parade clap dynamic blast wagon joke cart garment match very soccer";

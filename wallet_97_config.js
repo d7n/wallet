@@ -1,1 +1,1 @@
-var mnemonic = "chef aerobic stereo lady burden face scheme silent age never frog broom";
+var mnemonic = "heavy poverty begin minimum snow fix judge job kangaroo across lunch worry";

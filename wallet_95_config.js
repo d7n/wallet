@@ -1,1 +1,1 @@
-var mnemonic = "execute grain segment spin autumn rabbit write tornado catalog verb become reward";
+var mnemonic = "tongue rebuild spoon swear silly grape behind brave spare myself stumble gift";

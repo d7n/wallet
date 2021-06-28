@@ -1,1 +1,1 @@
-var mnemonic = "exit kangaroo amazing knife rude lunar happy polar man tattoo heavy advice";
+var mnemonic = "toss record gentle north afford crazy gym pencil increase chat impose hole";

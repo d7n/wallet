@@ -1,1 +1,1 @@
-var mnemonic = "beauty much turtle bulk maid inmate public issue zoo wrap know yard";
+var mnemonic = "scorpion error regret seat clock avoid involve impose victory level offer village";

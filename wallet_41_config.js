@@ -1,1 +1,1 @@
-var mnemonic = "produce toward bundle clean upper job yard oyster leader shaft meadow inside";
+var mnemonic = "expire doctor reopen husband art mad rug quote phrase cloud wolf treat";

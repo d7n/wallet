@@ -1,1 +1,1 @@
-var mnemonic = "youth away alter smoke foil brave tragic duck brave donkey siren learn";
+var mnemonic = "indoor orient bronze defy march destroy stomach salad actual hero coral glass";
