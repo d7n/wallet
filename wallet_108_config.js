@@ -1,1 +1,1 @@
-var mnemonic = "horn penalty adapt auto area three peanut zoo credit faith van smoke";
+var mnemonic = "depart into segment follow pull theory fashion crater bleak audit giggle ball";

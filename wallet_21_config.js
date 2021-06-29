@@ -1,1 +1,1 @@
-var mnemonic = "tent gauge connect stage method flush resource chunk grab pelican glare parade";
+var mnemonic = "rifle arctic decrease dinosaur proof road fold stadium success you remind monster";

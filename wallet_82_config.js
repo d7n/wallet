@@ -1,1 +1,1 @@
-var mnemonic = "ramp exchange author law era chat gaze economy grab mansion leave icon";
+var mnemonic = "comic mention permit tribe diesel time cement country east blush story trend";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen hawk title nose nurse donkey intact green ski rug pause word";
+var mnemonic = "embody flush artefact clay age poverty bracket ecology actress coil stumble entire";

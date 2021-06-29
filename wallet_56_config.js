@@ -1,1 +1,1 @@
-var mnemonic = "length hero length elegant journey shadow maximum link bullet govern sea million";
+var mnemonic = "combine mushroom have nuclear input guitar spice team bind rent diet normal";

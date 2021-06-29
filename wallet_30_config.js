@@ -1,1 +1,1 @@
-var mnemonic = "unable pitch shoot tray amazing genre secret sure inspire build step merit";
+var mnemonic = "gauge dinosaur material that relax announce valley scissors nephew model donate hover";

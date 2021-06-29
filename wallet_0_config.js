@@ -1,1 +1,1 @@
-var mnemonic = "shove heart benefit possible off hollow lab olympic indicate pudding mask slice";
+var mnemonic = "zebra exchange feature force section unaware neck clump bachelor squirrel sister mosquito";

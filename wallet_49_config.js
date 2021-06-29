@@ -1,1 +1,1 @@
-var mnemonic = "attack adult addict vast ticket quantum sample genuine frown nuclear obvious tragic";
+var mnemonic = "apart render social prefer ahead gain dignity risk gold lumber wonder grape";

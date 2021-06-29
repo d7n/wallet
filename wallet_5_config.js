@@ -1,1 +1,1 @@
-var mnemonic = "mistake boost window oval present original cabbage oak month cube cable advice";
+var mnemonic = "review page alcohol husband engine accuse like find hybrid letter pipe garlic";

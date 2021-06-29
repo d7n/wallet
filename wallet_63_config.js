@@ -1,1 +1,1 @@
-var mnemonic = "trash turn ladder empty tragic gospel century siren hire bread stem another";
+var mnemonic = "nerve usual envelope drill way breeze whale video yard insane clip exotic";

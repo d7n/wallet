@@ -1,1 +1,1 @@
-var mnemonic = "allow page anxiety anger alcohol offer tide lift canoe panther palace middle";
+var mnemonic = "earn spoil deer hair where junk pattern keen tilt beauty sibling bike";

@@ -1,1 +1,1 @@
-var mnemonic = "copy walk mix chair comfort benefit scissors bamboo clean enable future achieve";
+var mnemonic = "verify spoon measure put october ignore garment quick asset raw park pear";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace apple track differ naive barely play meadow regret roast raccoon doll";
+var mnemonic = "guess object sustain will faith equip clock knock chief garden safe invest";

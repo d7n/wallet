@@ -1,1 +1,1 @@
-var mnemonic = "liquid swallow leaf badge lecture draft gallery stove copy visa enact alley";
+var mnemonic = "void force erupt pizza salon slight round pink despair now kiwi switch";

@@ -1,1 +1,1 @@
-var mnemonic = "electric polar faint bulb list jungle intact impact chaos cement maple giant";
+var mnemonic = "service adult gain lecture critic proof east noise whale club nerve hobby";

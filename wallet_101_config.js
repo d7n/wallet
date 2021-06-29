@@ -1,1 +1,1 @@
-var mnemonic = "off good valley faith boss warm snack east twelve liberty license margin";
+var mnemonic = "expect knee case crop property step gaze hedgehog fog click rule addict";

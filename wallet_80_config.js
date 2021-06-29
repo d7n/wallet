@@ -1,1 +1,1 @@
-var mnemonic = "inhale caught erupt prefer atom onion sting mandate bench inside another sheriff";
+var mnemonic = "used twenty electric city air outer fashion indoor staff laundry nominee state";

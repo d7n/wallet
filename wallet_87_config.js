@@ -1,1 +1,1 @@
-var mnemonic = "child grass spare alley quote casual habit sweet first twin lab memory";
+var mnemonic = "ordinary symbol blood palace title carpet excuse traffic exhibit royal action garlic";

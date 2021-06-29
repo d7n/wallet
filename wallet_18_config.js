@@ -1,1 +1,1 @@
-var mnemonic = "tide verb edit venture heart side sniff transfer that token unveil repair";
+var mnemonic = "reveal worth fork hidden syrup burger grid canoe eager stove patch tackle";

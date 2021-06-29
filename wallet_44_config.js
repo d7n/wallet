@@ -1,1 +1,1 @@
-var mnemonic = "main celery close borrow word adjust jump lazy spike uphold flip injury";
+var mnemonic = "acquire neither tide fashion shoot live absorb join bundle item athlete jewel";

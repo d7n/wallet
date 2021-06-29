@@ -1,1 +1,1 @@
-var mnemonic = "earn size agree elevator scheme erode champion popular method hill parent visual";
+var mnemonic = "tomorrow jar grace census approve rate basic file spike believe fashion sentence";

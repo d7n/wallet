@@ -1,1 +1,1 @@
-var mnemonic = "document radar what else gift turkey way coffee lawsuit grocery island engine";
+var mnemonic = "helmet trim crawl record velvet entry avoid organ make rural pulse chef";

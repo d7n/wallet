@@ -1,1 +1,1 @@
-var mnemonic = "average narrow nation hint come capable define trophy scrub bid again original";
+var mnemonic = "wise treat velvet gap theory shift draw deer frozen odor episode wolf";

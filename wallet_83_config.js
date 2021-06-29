@@ -1,1 +1,1 @@
-var mnemonic = "repeat village provide ensure trade album program camp mosquito valid release empty";
+var mnemonic = "baby strike tenant bean beach father acoustic laugh roast special nature bomb";

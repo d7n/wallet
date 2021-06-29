@@ -1,1 +1,1 @@
-var mnemonic = "shell satoshi rely mind season enhance where gather ocean ugly exotic faint";
+var mnemonic = "auto carry dust nose judge veteran dose devote client basic jump peanut";

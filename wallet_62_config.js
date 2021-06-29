@@ -1,1 +1,1 @@
-var mnemonic = "like rough broccoli agent duck universe cream sell alert weapon globe era";
+var mnemonic = "across fence surge slide consider pond oil lazy output power habit motion";

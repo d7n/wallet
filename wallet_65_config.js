@@ -1,1 +1,1 @@
-var mnemonic = "emerge pottery immune assault cement wool witness oblige admit proof elbow noodle";
+var mnemonic = "warrior emerge settle barely party era doll monster clean disorder party inch";

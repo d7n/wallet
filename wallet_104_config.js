@@ -1,1 +1,1 @@
-var mnemonic = "museum acquire way labor head damp right train soon juice spice library";
+var mnemonic = "seek divert walnut swim scheme dish fruit scrub cabin forward clinic hunt";

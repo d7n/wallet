@@ -1,1 +1,1 @@
-var mnemonic = "paddle awake calm anxiety produce robust dune film profit moon yellow erosion";
+var mnemonic = "fee inmate stuff grocery dress napkin gesture drastic offer nasty neither enact";

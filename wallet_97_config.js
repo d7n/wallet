@@ -1,1 +1,1 @@
-var mnemonic = "subject staff habit oppose gravity stamp churn achieve delay snow senior citizen";
+var mnemonic = "sphere all cruel message always flame wrong elbow board pupil surge churn";

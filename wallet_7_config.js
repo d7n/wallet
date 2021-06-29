@@ -1,1 +1,1 @@
-var mnemonic = "milk swallow mobile filter infant impose kingdom sorry flash satoshi buffalo maple";
+var mnemonic = "little holiday cycle huge second drift volcano phone mistake wrong coffee hold";

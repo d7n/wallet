@@ -1,1 +1,1 @@
-var mnemonic = "hybrid sudden recycle cram disease onion damage goat pelican once consider play";
+var mnemonic = "beef ramp century novel venture conduct myth priority fox can imitate arch";

@@ -1,1 +1,1 @@
-var mnemonic = "immune police measure actual employ shadow achieve noodle remember sort admit icon";
+var mnemonic = "spy twist tool range pen congress purity assist select lion caught economy";

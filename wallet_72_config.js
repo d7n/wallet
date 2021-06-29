@@ -1,1 +1,1 @@
-var mnemonic = "more cook crawl say praise remain clap zebra sand ceiling cute raw";
+var mnemonic = "year zone short turkey model sun obey hospital mention mean spare primary";

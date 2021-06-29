@@ -1,1 +1,1 @@
-var mnemonic = "short lab giggle already scan velvet rent wolf giraffe neither buyer antique";
+var mnemonic = "age vivid equal error impact juice life energy faculty video divide liquid";

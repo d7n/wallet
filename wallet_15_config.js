@@ -1,1 +1,1 @@
-var mnemonic = "afraid pencil boat detect region frozen destroy inflict canoe couch coconut document";
+var mnemonic = "guide burden simple symbol network rent urge wrestle tumble garment milk depend";

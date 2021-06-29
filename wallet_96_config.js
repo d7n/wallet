@@ -1,1 +1,1 @@
-var mnemonic = "figure six gallery gather cat cotton country manage neglect worry cinnamon curious";
+var mnemonic = "write pond merry ice cluster please number twist wife silver bind slight";

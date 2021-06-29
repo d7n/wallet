@@ -1,1 +1,1 @@
-var mnemonic = "gorilla choose sure adjust disease box alter unique route infant knee kind";
+var mnemonic = "cheese word tumble tomorrow stage hour proud oak great toward coral science";

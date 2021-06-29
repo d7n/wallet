@@ -1,1 +1,1 @@
-var mnemonic = "believe hospital crunch churn genre panda capable relief sunny error reveal divert";
+var mnemonic = "tape enrich arm ten act umbrella average monitor file reward curve item";

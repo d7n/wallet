@@ -1,1 +1,1 @@
-var mnemonic = "genuine fossil useless avocado flame either love owner chase way merge poet";
+var mnemonic = "better buffalo find able raven vault very during swear replace figure feature";

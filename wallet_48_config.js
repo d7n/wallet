@@ -1,1 +1,1 @@
-var mnemonic = "insane earth pony cigar mechanic skate review crowd flag scale dentist private";
+var mnemonic = "sight owner material act loyal sport bronze rifle fence medal draw bid";

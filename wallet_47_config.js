@@ -1,1 +1,1 @@
-var mnemonic = "category gap abuse play slim genius view such royal run ivory hedgehog";
+var mnemonic = "divorce improve security eight exercise add jaguar ability excuse hair spawn frozen";

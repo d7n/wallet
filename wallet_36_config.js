@@ -1,1 +1,1 @@
-var mnemonic = "sure rib cloud test rude super recipe trial toss usual visit depend";
+var mnemonic = "crystal youth obvious sand sort bless rebuild dentist mammal mix lecture fancy";

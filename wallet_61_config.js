@@ -1,1 +1,1 @@
-var mnemonic = "delay sample guard ozone unveil damage room toy manual wealth news silk";
+var mnemonic = "boring design screen bright fossil immense cereal exist sadness label confirm alcohol";

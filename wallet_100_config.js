@@ -1,1 +1,1 @@
-var mnemonic = "model solve fox cash balance battle force payment moral copy omit story";
+var mnemonic = "miracle fix pear image drop actress then oven pony drum huge idle";

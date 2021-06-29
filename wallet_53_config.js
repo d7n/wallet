@@ -1,1 +1,1 @@
-var mnemonic = "pretty noodle ranch three ramp sheriff dose plastic antenna post city purchase";
+var mnemonic = "stamp express inch habit pole zone force taste major kiss scrub debate";

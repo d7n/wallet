@@ -1,1 +1,1 @@
-var mnemonic = "muscle name diesel praise know know nose pole suit senior arch aspect";
+var mnemonic = "expand educate apple remember old april update immune common gauge gentle holiday";

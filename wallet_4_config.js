@@ -1,1 +1,1 @@
-var mnemonic = "this fossil laptop puzzle brother usage nice grace crater garden clever present";
+var mnemonic = "dynamic giggle medal dilemma snap board aspect glove equal pigeon sniff rail";

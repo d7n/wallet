@@ -1,1 +1,1 @@
-var mnemonic = "payment donor switch glare follow visual glance kick gauge carbon sweet multiply";
+var mnemonic = "child recall snow open rain earn wedding end else invest float sock";

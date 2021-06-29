@@ -1,1 +1,1 @@
-var mnemonic = "inflict usual gravity thank select permit guitar universe path leisure glass flash";
+var mnemonic = "assume relax fat tackle draft harbor allow consider tone twice faint there";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch health theme elephant tourist arrange pact ranch deer cruel fox foster";
+var mnemonic = "seat alter accuse apple champion girl occur world scorpion lock combine throw";

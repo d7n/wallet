@@ -1,1 +1,1 @@
-var mnemonic = "goat name secret depend estate gorilla holiday sister phrase clinic siren leader";
+var mnemonic = "short scare husband they canal tide shoulder mansion fatal obvious salad dice";

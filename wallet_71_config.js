@@ -1,1 +1,1 @@
-var mnemonic = "swear deal skate rebuild inmate twin primary rice wood liar dog ivory";
+var mnemonic = "adjust diary crack under expire illness cook hand banana over race diagram";

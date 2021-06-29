@@ -1,1 +1,1 @@
-var mnemonic = "hockey knife inquiry holiday slogan cage merry trouble ability dose ball carpet";
+var mnemonic = "announce hollow anger crunch meat gown aerobic fury primary pelican gospel home";

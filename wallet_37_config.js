@@ -1,1 +1,1 @@
-var mnemonic = "rib fork harsh slide party olive dragon laugh bread join token easy";
+var mnemonic = "stomach debris hero cost glide city ball inspire useful group weasel chicken";

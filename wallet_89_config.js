@@ -1,1 +1,1 @@
-var mnemonic = "garlic situate shift cry verb original confirm dirt group spin tiger width";
+var mnemonic = "clever category nature relax dash echo image dirt cage decrease accuse lottery";

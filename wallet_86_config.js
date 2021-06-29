@@ -1,1 +1,1 @@
-var mnemonic = "police tenant young beyond area cable normal banana tag giggle loyal under";
+var mnemonic = "utility conduct suspect bunker maple wave never episode envelope exclude swing deny";

@@ -1,1 +1,1 @@
-var mnemonic = "able upon owner author clay approve buddy whale friend rely crane link";
+var mnemonic = "edit myself fall summer type mistake scan ivory talent bulk seven trim";

@@ -1,1 +1,1 @@
-var mnemonic = "system pattern tomato right cable mom funny rigid illegal winner general slow";
+var mnemonic = "siren keep tail woman display twelve wet police mechanic normal marble tag";

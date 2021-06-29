@@ -1,1 +1,1 @@
-var mnemonic = "need jewel image across exact enable humble brother diary festival timber wise";
+var mnemonic = "decide globe myself differ enforce hockey mouse review parrot build essence pause";

@@ -1,1 +1,1 @@
-var mnemonic = "soap pottery report honey avocado tip rural wrap monkey loyal detect gift";
+var mnemonic = "cage famous core ritual sea uniform cancel episode bullet almost run paddle";

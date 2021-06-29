@@ -1,1 +1,1 @@
-var mnemonic = "among accuse tip wreck library mammal wear steel frequent hollow reopen reduce";
+var mnemonic = "home scrub tray inflict way toward base view liquid fold enforce grunt";

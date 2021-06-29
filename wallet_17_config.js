@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow raw collect hope loop hunt coconut express pluck mansion letter utility";
+var mnemonic = "another taxi summer sudden coin hill asthma repeat teach march census biology";

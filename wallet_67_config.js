@@ -1,1 +1,1 @@
-var mnemonic = "social sugar trial response soft giggle awful able buddy release pledge soup";
+var mnemonic = "waste board across spoon setup denial broken idea library adapt mother blanket";

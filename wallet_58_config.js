@@ -1,1 +1,1 @@
-var mnemonic = "heart follow impose skull distance wife picture critic sea inflict post rent";
+var mnemonic = "click record expand cradle kiwi early piece child crack cactus mule response";

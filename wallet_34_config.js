@@ -1,1 +1,1 @@
-var mnemonic = "volume claim chronic hybrid calm satisfy devote scale rural position twice clever";
+var mnemonic = "wall job enrich pitch start moral gadget exclude image nation grow middle";

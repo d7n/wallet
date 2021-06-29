@@ -1,1 +1,1 @@
-var mnemonic = "junior badge during anger usage reject alert lyrics common upset shrimp enemy";
+var mnemonic = "eight glove spoil toward grunt trumpet begin soda trust shift hen type";

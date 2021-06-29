@@ -1,1 +1,1 @@
-var mnemonic = "peasant mixture mountain chase actress lottery angle curtain forum clever embark blush";
+var mnemonic = "prepare jealous dynamic check casino kit enact rifle elephant green grain love";

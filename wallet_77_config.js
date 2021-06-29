@@ -1,1 +1,1 @@
-var mnemonic = "room blossom earth mutual flip hotel road economy inmate settle scan clay";
+var mnemonic = "brush exhaust maximum follow camera vicious wonder churn glad machine absurd pear";

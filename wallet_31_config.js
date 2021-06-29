@@ -1,1 +1,1 @@
-var mnemonic = "ethics clarify under blouse husband purse coffee alley narrow join athlete gadget";
+var mnemonic = "buzz uphold foot lounge monkey behind hazard burger foil quality burden village";

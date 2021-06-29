@@ -1,1 +1,1 @@
-var mnemonic = "network oxygen couple before roast glory source omit ski kiss fee refuse";
+var mnemonic = "inch maid champion wolf ghost park general elevator jungle above head nature";

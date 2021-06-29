@@ -1,1 +1,1 @@
-var mnemonic = "viable tattoo under dutch state fox shoulder enroll hope lend furnace bubble";
+var mnemonic = "vanish toe govern web hover gentle busy scissors snake machine aunt wear";

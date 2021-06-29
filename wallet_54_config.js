@@ -1,1 +1,1 @@
-var mnemonic = "tuna monkey donor quick cattle warm basket wrist virus thing gentle uncover";
+var mnemonic = "lesson solution party rifle about airport concert short stone spice pumpkin clerk";

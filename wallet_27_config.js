@@ -1,1 +1,1 @@
-var mnemonic = "famous hat fish service faith hollow cupboard thing master corn news matter";
+var mnemonic = "camp veteran lift dentist night figure photo twin post snake attitude possible";

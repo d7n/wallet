@@ -1,1 +1,1 @@
-var mnemonic = "vocal rough hurdle retreat prison race phone embrace arctic kingdom spread pink";
+var mnemonic = "mom comfort dawn medal muffin add hole brave cake like weasel rough";

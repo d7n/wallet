@@ -1,1 +1,1 @@
-var mnemonic = "high crater alien barely unique mammal exhaust velvet ring solid cup plastic";
+var mnemonic = "critic brass trash typical kingdom embark affair repair judge sail lunch era";

@@ -1,1 +1,1 @@
-var mnemonic = "feel wrap fresh gospel debate devote start dirt song segment project replace";
+var mnemonic = "rough agent fatal know analyst thought foil dice army insect amateur manage";

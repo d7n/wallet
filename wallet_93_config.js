@@ -1,1 +1,1 @@
-var mnemonic = "extra denial few enough area item surface position orchard mixture hybrid major";
+var mnemonic = "farm develop trap outside warfare agree decrease gesture cable possible rice hen";

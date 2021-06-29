@@ -1,1 +1,1 @@
-var mnemonic = "push affair object inch knee cotton champion claim stove friend rich coin";
+var mnemonic = "enroll spy category skull year favorite price brief fiscal aspect era name";

@@ -1,1 +1,1 @@
-var mnemonic = "metal leisure scare black miss cluster emotion erosion seminar inside lawsuit motion";
+var mnemonic = "coconut hip picture live camera helmet wire urban save crack away car";

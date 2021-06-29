@@ -1,1 +1,1 @@
-var mnemonic = "ginger total trouble defy original arch wreck hard faint traffic hill drama";
+var mnemonic = "engage witness occur early expire chapter knock lumber pupil horror side renew";

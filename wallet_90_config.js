@@ -1,1 +1,1 @@
-var mnemonic = "idea loan ride rose promote genuine brisk monster dry away duty quarter";
+var mnemonic = "noise sheriff layer slice secret pilot flame youth knock street kiwi essay";

@@ -1,1 +1,1 @@
-var mnemonic = "couch sorry antique enforce wave adult raven lonely uncover neutral jungle toddler";
+var mnemonic = "half squeeze wrong copper answer image dwarf north latin spare sketch cherry";

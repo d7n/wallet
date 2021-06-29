@@ -1,1 +1,1 @@
-var mnemonic = "arrest ripple oak ivory when gold labor shiver pink dish circle effort";
+var mnemonic = "badge luxury prevent theme canvas chef invite drip illegal method unaware bulb";

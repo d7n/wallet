@@ -1,1 +1,1 @@
-var mnemonic = "man ramp foot dumb sausage spell bomb fix sphere marriage hospital crush";
+var mnemonic = "luggage sample slim small spell erase gasp ethics mind drop cause diary";

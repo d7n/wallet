@@ -1,1 +1,1 @@
-var mnemonic = "brain connect artist photo stable over traffic vocal balcony business kick elite";
+var mnemonic = "clay fault force movie drama soldier silk ball left awkward expose shop";

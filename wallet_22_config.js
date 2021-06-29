@@ -1,1 +1,1 @@
-var mnemonic = "congress plate client people orient hub dune plastic result bachelor train filter";
+var mnemonic = "friend myth shell spawn crisp shop net autumn action inmate link brain";

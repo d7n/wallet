@@ -1,1 +1,1 @@
-var mnemonic = "neck over engine dynamic bag stone reveal humor misery equip popular job";
+var mnemonic = "air defy ten claim noise cover venue horse hill rent smoke balance";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile glass impose child erase fat twelve unable assist drink local ramp";
+var mnemonic = "hotel visual punch stuff brisk bonus quarter arena target multiply skirt cancel";
