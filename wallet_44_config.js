@@ -1,1 +1,1 @@
-var mnemonic = "drill latin track mango olympic faith calm bleak weather action lyrics have";
+var mnemonic = "cousin spatial reject stand crazy swamp universe acoustic install below core oil";

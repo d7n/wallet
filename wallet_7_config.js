@@ -1,1 +1,1 @@
-var mnemonic = "album page wonder side eye warrior toy company cool survey unit void";
+var mnemonic = "fruit already evil erupt school moment yellow door laugh glory alert ostrich";

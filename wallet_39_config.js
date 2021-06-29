@@ -1,1 +1,1 @@
-var mnemonic = "match hire physical master buzz method pond loyal observe bicycle squeeze paddle";
+var mnemonic = "seat bleak crash cable squeeze fancy stairs ecology verb feature gas dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat age invite grow float lava pave super blame whip stem couch";
+var mnemonic = "armed life unhappy index wife bike hope enough lock remember leg lounge";

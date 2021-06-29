@@ -1,1 +1,1 @@
-var mnemonic = "clock melt network torch abuse common body aisle never hire alarm tattoo";
+var mnemonic = "repeat unknown right bike muffin quick chair often quality evolve discover camp";

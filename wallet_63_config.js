@@ -1,1 +1,1 @@
-var mnemonic = "often celery priority obey witness theory identify trim sign title auction cash";
+var mnemonic = "blue ahead armed nasty fun depart mind clump practice wink sister deputy";

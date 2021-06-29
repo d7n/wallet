@@ -1,1 +1,1 @@
-var mnemonic = "lunar omit kit inform erosion wheat grain better mass diamond tip armed";
+var mnemonic = "potato saddle armor art record kingdom luggage tragic bamboo sister marine mountain";

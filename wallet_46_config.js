@@ -1,1 +1,1 @@
-var mnemonic = "beef wear sound ripple gloom execute pulse foot census middle retreat whip";
+var mnemonic = "ranch oxygen scale own innocent setup chunk ridge liberty isolate hero monitor";

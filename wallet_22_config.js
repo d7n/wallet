@@ -1,1 +1,1 @@
-var mnemonic = "defense quality hello tomato horn movie type diamond enroll concert keep require";
+var mnemonic = "cloud oven pride inform start rare escape maze extra amateur myself thumb";

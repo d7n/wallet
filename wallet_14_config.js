@@ -1,1 +1,1 @@
-var mnemonic = "shoulder brave ship evidence list short scissors script weapon pool glue rice";
+var mnemonic = "swing three sound antenna wild midnight loyal agent loud spend envelope nose";

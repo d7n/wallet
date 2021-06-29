@@ -1,1 +1,1 @@
-var mnemonic = "forward remind matrix vault team region novel entry burst love fragile waste";
+var mnemonic = "turkey situate cart huge alter salon raw vacuum today velvet divide manual";

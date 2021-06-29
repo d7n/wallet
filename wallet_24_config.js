@@ -1,1 +1,1 @@
-var mnemonic = "display capital plug rate text wash gown very indicate mechanic evidence hand";
+var mnemonic = "below later rabbit portion purchase guess original two tube gate crush push";

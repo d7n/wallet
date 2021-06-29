@@ -1,1 +1,1 @@
-var mnemonic = "found vote lizard evoke cross three tray dose work dawn drum energy";
+var mnemonic = "above detail aim trim impact fortune elbow doctor steak cover human better";

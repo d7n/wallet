@@ -1,1 +1,1 @@
-var mnemonic = "paddle print wink useless quarter drop acid question treat cake monster despair";
+var mnemonic = "busy humor chef spin regret random update clarify best dice use cost";

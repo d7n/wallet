@@ -1,1 +1,1 @@
-var mnemonic = "dizzy sudden cheap device name teach unveil alley husband price era kangaroo";
+var mnemonic = "carpet crush fault umbrella midnight prevent keep dinner another blade grief payment";

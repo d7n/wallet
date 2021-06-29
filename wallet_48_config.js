@@ -1,1 +1,1 @@
-var mnemonic = "forget isolate among reunion announce want gym flag know sample point frown";
+var mnemonic = "mirror wet extend exchange crumble this garden random token spot gown beyond";

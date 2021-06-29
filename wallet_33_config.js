@@ -1,1 +1,1 @@
-var mnemonic = "dog require age what fly stomach category hat produce lend need wasp";
+var mnemonic = "perfect crew help fashion eager large jar frost exist illness wire ethics";

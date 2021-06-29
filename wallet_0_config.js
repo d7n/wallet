@@ -1,1 +1,1 @@
-var mnemonic = "elephant ketchup crack industry produce boring memory frown bomb erosion armed pear";
+var mnemonic = "large session crime globe rocket chunk have brain rail plunge announce forest";

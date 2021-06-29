@@ -1,1 +1,1 @@
-var mnemonic = "unfold reason gather record rabbit iron behind melt art help ring remain";
+var mnemonic = "era useful ketchup crew strike rally flat around artwork episode clinic know";

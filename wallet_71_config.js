@@ -1,1 +1,1 @@
-var mnemonic = "blood rule tenant sniff drastic silent below divert analyst bachelor cement what";
+var mnemonic = "spirit silk sense detail conduct recycle angry life deer provide stomach pencil";

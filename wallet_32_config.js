@@ -1,1 +1,1 @@
-var mnemonic = "garden gorilla fabric patient final skin old sniff moral popular inspire report";
+var mnemonic = "essay gate sun toy leaf buffalo fragile rude tenant tip arctic genre";

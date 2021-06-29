@@ -1,1 +1,1 @@
-var mnemonic = "embark hungry off inner plug roof garbage spirit vague dove supreme squirrel";
+var mnemonic = "fiber member trick sample region shop whip tree cupboard knock smart discover";

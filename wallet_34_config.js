@@ -1,1 +1,1 @@
-var mnemonic = "sport crop plunge toast vendor crowd action basket usual hockey obey game";
+var mnemonic = "crash transfer night tragic awake palm venue grunt find happy mosquito spirit";

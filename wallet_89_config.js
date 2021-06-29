@@ -1,1 +1,1 @@
-var mnemonic = "evoke local motor pyramid casino hazard surface boss forum dignity section common";
+var mnemonic = "merit actual obtain gather direct moral order royal spring differ margin that";

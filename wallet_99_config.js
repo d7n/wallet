@@ -1,1 +1,1 @@
-var mnemonic = "ecology spray airport scrap crop slim ignore uphold margin idle word rebel";
+var mnemonic = "attend dinner rabbit stereo industry salon scare subway clean coach flee black";

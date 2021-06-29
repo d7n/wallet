@@ -1,1 +1,1 @@
-var mnemonic = "hour genius frozen scheme museum deposit monitor faith blood found correct assault";
+var mnemonic = "art lift source casino amused cinnamon private famous brick ribbon leopard faculty";

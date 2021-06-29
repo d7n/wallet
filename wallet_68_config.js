@@ -1,1 +1,1 @@
-var mnemonic = "witness crisp estate staff ancient outer million scissors mammal coffee glow idea";
+var mnemonic = "hedgehog thrive better calm color retreat smile shrimp today thrive brief month";

@@ -1,1 +1,1 @@
-var mnemonic = "palm regular client confirm trade actual expand reform behave few doctor day";
+var mnemonic = "notable stool polar romance napkin slush coast about truck ski floor diary";

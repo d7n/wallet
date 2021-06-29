@@ -1,1 +1,1 @@
-var mnemonic = "one receive dress you holiday cover coin observe stone pottery focus detail";
+var mnemonic = "agent mansion alone assault accident scissors base peanut heavy trend icon silver";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip answer clever cigar pioneer inspire buyer author oval reveal crucial pen";
+var mnemonic = "cruel congress slam castle cargo mango clay clock flip episode iron pool";

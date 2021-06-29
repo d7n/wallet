@@ -1,1 +1,1 @@
-var mnemonic = "shoe wagon exercise margin atom link round child web raccoon flee north";
+var mnemonic = "bind upper divorce pigeon utility cat enroll blood oppose social favorite dress";

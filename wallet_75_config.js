@@ -1,1 +1,1 @@
-var mnemonic = "arrow seminar session swim shield jazz zone already ivory shed sadness usage";
+var mnemonic = "scatter bomb diesel eyebrow pond today erupt chunk episode figure rent usual";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal march quit lion profit crop tragic arrest any guess dance have";
+var mnemonic = "odor drastic subway manual oil nerve warm sausage fault large radar original";

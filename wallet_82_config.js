@@ -1,1 +1,1 @@
-var mnemonic = "movie possible discover rotate stand world lonely aware together high glass dirt";
+var mnemonic = "palm stuff dad brain summer tuna key jewel extra crystal wire permit";

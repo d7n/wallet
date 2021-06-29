@@ -1,1 +1,1 @@
-var mnemonic = "cereal promote able trick cloud cool mesh indoor arena medal fix around";
+var mnemonic = "rack word isolate young kind bounce pizza faint main tray soon trial";

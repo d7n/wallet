@@ -1,1 +1,1 @@
-var mnemonic = "impose main apology trumpet expect blame agree nut moon thumb lottery glare";
+var mnemonic = "upon elbow crowd arrange rose lizard clog method leave together soda chunk";

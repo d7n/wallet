@@ -1,1 +1,1 @@
-var mnemonic = "unusual crucial portion enrich weird image tank guitar badge mammal ride scare";
+var mnemonic = "wrestle fat foster warrior spy figure device print secret sister heart remove";

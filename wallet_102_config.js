@@ -1,1 +1,1 @@
-var mnemonic = "purity horn soap almost rotate can expose surprise average agent near voice";
+var mnemonic = "genius middle actor remember brown extra horn target system kind unlock barely";

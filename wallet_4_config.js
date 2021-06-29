@@ -1,1 +1,1 @@
-var mnemonic = "trouble mutual stomach until burst lumber hello never gasp desert this sentence";
+var mnemonic = "guess elephant roof sing broccoli verify bone unfair weekend burger slam hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat mixed useless elegant spoon confirm erase crystal sketch bubble cross parade";
+var mnemonic = "inform second slot galaxy share smart rifle morning wasp message cross update";

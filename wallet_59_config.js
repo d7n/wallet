@@ -1,1 +1,1 @@
-var mnemonic = "civil squirrel other birth climb sail velvet object coffee truth tape peace";
+var mnemonic = "idle visa praise attitude consider humble boil dirt vote resource genuine slab";

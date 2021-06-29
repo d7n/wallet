@@ -1,1 +1,1 @@
-var mnemonic = "network faculty absent gift predict plastic diagram hazard image skin frequent shoe";
+var mnemonic = "connect divorce nothing asset couch license actual kick pattern caution long tongue";

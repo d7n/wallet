@@ -1,1 +1,1 @@
-var mnemonic = "frequent sport pretty afraid tree kiwi apology fresh gesture fruit home detail";
+var mnemonic = "helmet brisk angry reunion garment chase little column ready phrase pigeon jeans";

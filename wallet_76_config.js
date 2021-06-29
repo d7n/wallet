@@ -1,1 +1,1 @@
-var mnemonic = "error receive skate manual worth fame client peace quit unfair pepper blouse";
+var mnemonic = "this spice slab ten open pepper rebel media ask diet short cave";

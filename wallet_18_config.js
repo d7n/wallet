@@ -1,1 +1,1 @@
-var mnemonic = "balcony toilet various south bar arm want brush embrace there face tunnel";
+var mnemonic = "powder federal wise tank cloth soda unknown rose combine modify honey tourist";

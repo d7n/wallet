@@ -1,1 +1,1 @@
-var mnemonic = "cage west material shed dutch phone dream keep slam nominee rent eternal";
+var mnemonic = "copy brisk carbon bundle six crime foam genuine task usage trip hurry";

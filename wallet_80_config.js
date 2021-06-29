@@ -1,1 +1,1 @@
-var mnemonic = "grief heavy puzzle lazy surge banner wood wisdom sudden stadium program deer";
+var mnemonic = "rose control announce planet chronic metal guilt such hello journey absurd text";

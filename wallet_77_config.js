@@ -1,1 +1,1 @@
-var mnemonic = "picture cushion lazy basket solve business benefit heart aerobic spy magic jacket";
+var mnemonic = "renew have glory setup afraid thrive try talk special demise trick balance";

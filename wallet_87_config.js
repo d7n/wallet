@@ -1,1 +1,1 @@
-var mnemonic = "polar object snap rotate culture scorpion corn spoon day lava love yellow";
+var mnemonic = "maid already asset attitude tell exchange result circle behave promote slice correct";

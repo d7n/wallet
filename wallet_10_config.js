@@ -1,1 +1,1 @@
-var mnemonic = "picture brand scrub small assault squeeze bulk runway wasp voice layer speak";
+var mnemonic = "collect cook lawsuit same barely unable comic please umbrella kid fortune stairs";

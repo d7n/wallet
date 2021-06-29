@@ -1,1 +1,1 @@
-var mnemonic = "island video stand twice right brand awake innocent lens rent forget dawn";
+var mnemonic = "enroll item police unfold combine mail eight smooth write fever nasty fetch";

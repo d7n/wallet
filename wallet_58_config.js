@@ -1,1 +1,1 @@
-var mnemonic = "route sad educate danger depth device foil before scene waste pink draw";
+var mnemonic = "mobile jazz image window coil coach swim annual hungry disease olympic situate";

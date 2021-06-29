@@ -1,1 +1,1 @@
-var mnemonic = "august else venture mule memory chest bus banner brand cost evolve begin";
+var mnemonic = "hungry rather anchor tired detect viable expire virtual attitude very wood attack";

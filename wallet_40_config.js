@@ -1,1 +1,1 @@
-var mnemonic = "invite betray web reject mirror quick long crisp sun trap nest soup";
+var mnemonic = "mosquito settle erode broom camera wonder divorce leaf razor cereal kiss sketch";

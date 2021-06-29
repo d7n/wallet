@@ -1,1 +1,1 @@
-var mnemonic = "repair puppy drive surround manual major fault unfold aunt ramp void agree";
+var mnemonic = "win major concert boil joke danger leader tide try retreat chalk young";

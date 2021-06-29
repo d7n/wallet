@@ -1,1 +1,1 @@
-var mnemonic = "topic label siege seat rate snack winter chunk bus guard public apple";
+var mnemonic = "target convince frost gift wrap boring mimic spike private hire traffic cloth";

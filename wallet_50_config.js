@@ -1,1 +1,1 @@
-var mnemonic = "erase correct artwork flame clutch sea food super zebra mansion design egg";
+var mnemonic = "jazz canyon clip roast dinosaur pitch virus envelope combine measure nice flee";

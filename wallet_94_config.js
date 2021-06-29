@@ -1,1 +1,1 @@
-var mnemonic = "donor magic cake drip gauge fuel tomorrow riot cart angle tonight vote";
+var mnemonic = "delay gravity mandate imitate napkin emotion midnight picnic borrow uphold traffic ginger";

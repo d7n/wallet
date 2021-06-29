@@ -1,1 +1,1 @@
-var mnemonic = "harbor rare help float pen arch cigar degree food response blur sense";
+var mnemonic = "suffer useful glass cheese swamp list dance middle pizza step discover club";

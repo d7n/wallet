@@ -1,1 +1,1 @@
-var mnemonic = "gold road network bid globe spray finish major mass accident crime hard";
+var mnemonic = "rice civil gather toward benefit march become grain soft culture river open";

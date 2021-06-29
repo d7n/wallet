@@ -1,1 +1,1 @@
-var mnemonic = "fantasy expose response input elbow cute filter claw smooth clarify scene rebel";
+var mnemonic = "rate vicious camp wall subject dolphin civil use nest casual sentence lady";

@@ -1,1 +1,1 @@
-var mnemonic = "woman school bachelor narrow green evolve unusual wine sword ability deer monitor";
+var mnemonic = "figure pulse estate remind myself first connect note portion jealous day market";

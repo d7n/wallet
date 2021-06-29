@@ -1,1 +1,1 @@
-var mnemonic = "reform grain lion heavy prevent basic recycle chronic write grab lamp trial";
+var mnemonic = "vacuum oil police slogan cycle hedgehog demand toast prison syrup fashion enact";

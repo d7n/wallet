@@ -1,1 +1,1 @@
-var mnemonic = "step escape crack release file credit collect chicken tomorrow protect embrace damp";
+var mnemonic = "often bird reunion chimney mistake damage black fault suspect exchange garage tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur strike idea want month idea duck perfect purity insane rebel blind";
+var mnemonic = "describe control because maple torch express arrest hope glow record exhaust orbit";

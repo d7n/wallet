@@ -1,1 +1,1 @@
-var mnemonic = "exit motor odor renew segment lunar typical analyst search surprise void erase";
+var mnemonic = "reopen captain wood injury soldier aunt foil shoulder keep ghost relax group";

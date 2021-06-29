@@ -1,1 +1,1 @@
-var mnemonic = "icon twin feature bag acquire casual put flock melody awesome solid infant";
+var mnemonic = "other giggle strong scan truly size attract inflict phone brief tackle record";

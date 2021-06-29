@@ -1,1 +1,1 @@
-var mnemonic = "art achieve pumpkin rude legal nerve alien bargain bulb trade slam book";
+var mnemonic = "olive shine fall capital idea eye ill update other high motion wolf";

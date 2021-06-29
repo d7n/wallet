@@ -1,1 +1,1 @@
-var mnemonic = "gossip security icon blast burst talent mercy curtain cannon since wear world";
+var mnemonic = "steel ahead yellow kit digital lady rug sample crack spice word junior";

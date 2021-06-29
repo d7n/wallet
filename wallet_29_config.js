@@ -1,1 +1,1 @@
-var mnemonic = "illness close curve purity frost explain cycle axis defy frost fix olympic";
+var mnemonic = "light despair hammer inmate utility dog news double fatal hover visual true";

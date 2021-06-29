@@ -1,1 +1,1 @@
-var mnemonic = "genuine number special pilot arrow sorry unit flame assume govern catalog cave";
+var mnemonic = "worth abstract chest report carpet social night useless panel chair burden future";

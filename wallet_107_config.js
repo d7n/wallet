@@ -1,1 +1,1 @@
-var mnemonic = "grape release attract vendor pencil fish hawk success glue spirit afraid idea";
+var mnemonic = "birth acid pave security group master floor emotion topic enjoy destroy legend";

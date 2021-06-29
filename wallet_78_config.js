@@ -1,1 +1,1 @@
-var mnemonic = "gentle federal design tank remove violin maple liar exist main awake caution";
+var mnemonic = "hip little receive forest nasty laptop husband guilt bulb potato electric rookie";

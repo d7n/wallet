@@ -1,1 +1,1 @@
-var mnemonic = "female summer crouch once pluck bacon card struggle act foot pizza recycle";
+var mnemonic = "answer upon approve screen winner aware sleep panel impose roast embody cliff";

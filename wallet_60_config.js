@@ -1,1 +1,1 @@
-var mnemonic = "cycle they salmon kiwi swift jump high install scrap frozen abstract output";
+var mnemonic = "hen already twin demand purity hint razor either embrace next plug large";

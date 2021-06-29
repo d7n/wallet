@@ -1,1 +1,1 @@
-var mnemonic = "trade nothing young employ gown funny evidence square actor vessel erosion vintage";
+var mnemonic = "ten bean drama tenant clog warfare pilot fun chef clerk fitness total";

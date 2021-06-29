@@ -1,1 +1,1 @@
-var mnemonic = "buzz morning try fitness guilt horse raccoon extend table main like legend";
+var mnemonic = "spell glare upon wash shield upon index option filter coyote eager high";

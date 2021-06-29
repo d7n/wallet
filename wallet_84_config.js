@@ -1,1 +1,1 @@
-var mnemonic = "circle spread face large nut kiwi yellow catalog still feature private edit";
+var mnemonic = "more already digital very isolate endless argue soap midnight busy refuse stuff";

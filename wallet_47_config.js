@@ -1,1 +1,1 @@
-var mnemonic = "embark island index reunion include calm picnic thrive thunder exhaust dish steel";
+var mnemonic = "lava quality tortoise learn list flip frame beyond trophy present token atom";

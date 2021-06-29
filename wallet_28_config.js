@@ -1,1 +1,1 @@
-var mnemonic = "donkey front winter hungry immense coral piece sleep vault piece day surge";
+var mnemonic = "end embody salon gift blame exercise limb trim total puzzle sea olympic";

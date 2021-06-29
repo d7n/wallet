@@ -1,1 +1,1 @@
-var mnemonic = "distance chair clock midnight favorite judge run enlist bounce midnight pluck brush";
+var mnemonic = "stand east banana cargo beef under metal naive file gorilla canoe twice";

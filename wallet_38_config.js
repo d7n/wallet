@@ -1,1 +1,1 @@
-var mnemonic = "judge toilet session tube syrup rough kitten hungry casino twelve suit confirm";
+var mnemonic = "asthma best theory filter shoot loyal spell require start aisle decline calm";

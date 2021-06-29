@@ -1,1 +1,1 @@
-var mnemonic = "fresh planet useless antenna spin quote hole labor sample spell camp razor";
+var mnemonic = "radio ocean topple melody video captain giant pilot paddle garden shift imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "use fork satisfy better wage web just click health word judge strike";
+var mnemonic = "subway hero bring install ask lamp pioneer wage heart solve media slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "private this style loop imitate hill drum there spare salon push sustain";
+var mnemonic = "reason call you bachelor unit can evoke derive horn margin damp cage";

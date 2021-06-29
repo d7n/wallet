@@ -1,1 +1,1 @@
-var mnemonic = "weird image off city angle position keen steak circle bronze settle hybrid";
+var mnemonic = "input scene flower lazy foil music ritual category fiber rifle mystery debris";

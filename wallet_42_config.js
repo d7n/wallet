@@ -1,1 +1,1 @@
-var mnemonic = "upper innocent course item fury donate fatigue alpha pizza journey quick three";
+var mnemonic = "tragic enough awful cost nation strike must disease process oval exotic present";

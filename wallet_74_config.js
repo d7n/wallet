@@ -1,1 +1,1 @@
-var mnemonic = "mix expect original nerve keep vacuum question upset lazy candy hungry upset";
+var mnemonic = "scissors sail broccoli there initial chef remove soon because mad pulse indoor";

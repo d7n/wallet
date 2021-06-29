@@ -1,1 +1,1 @@
-var mnemonic = "cram hybrid evolve infant dash major salute village cement boring summer also";
+var mnemonic = "distance equip auction reunion unlock spring broccoli woman spend oppose music leg";
