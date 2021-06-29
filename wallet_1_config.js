@@ -1,1 +1,1 @@
-var mnemonic = "inquiry physical ship slab oblige device organ improve damage scan message click";
+var mnemonic = "choose leaf fruit put globe vessel athlete skill soccer labor quit rich";

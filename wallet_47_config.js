@@ -1,1 +1,1 @@
-var mnemonic = "ribbon message save wire february once artist engine throw bundle mix pitch";
+var mnemonic = "mail blood together burden physical inform squirrel tone entire mutual aerobic jar";

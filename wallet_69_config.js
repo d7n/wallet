@@ -1,1 +1,1 @@
-var mnemonic = "cake duty grape express alert funny expire vehicle resist avoid horn stumble";
+var mnemonic = "hood appear lab lunar more sorry load breeze fresh improve odor gauge";

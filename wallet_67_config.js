@@ -1,1 +1,1 @@
-var mnemonic = "alien medal thrive envelope alcohol ginger raise pigeon december garden wool merry";
+var mnemonic = "defy garage bind hurry romance toy vehicle puppy lawn term rebel mansion";

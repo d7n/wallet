@@ -1,1 +1,1 @@
-var mnemonic = "cluster daring shaft trial wood devote goose anger cloth aisle caught dash";
+var mnemonic = "egg torch pudding icon barely comic safe vicious until fire roast dumb";

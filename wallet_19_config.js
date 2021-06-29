@@ -1,1 +1,1 @@
-var mnemonic = "nation welcome live hawk entry love arrange season item stuff stable lamp";
+var mnemonic = "return captain tape catch spatial opinion exhibit eternal main extra attract humor";

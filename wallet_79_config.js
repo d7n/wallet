@@ -1,1 +1,1 @@
-var mnemonic = "amateur dune ivory response slush smile inner resemble false coil claim basic";
+var mnemonic = "shell measure risk print alley purse clap lyrics mobile recycle believe small";

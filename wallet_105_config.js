@@ -1,1 +1,1 @@
-var mnemonic = "version eight scrap front march science tornado puzzle mystery million scrap pulse";
+var mnemonic = "warm awake between tilt delay token salon torch opinion review wild evidence";

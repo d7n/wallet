@@ -1,1 +1,1 @@
-var mnemonic = "option perfect riot cricket force body joke impulse language boss garment behave";
+var mnemonic = "tree ring grape horse seed become clog wing album deposit erase sweet";

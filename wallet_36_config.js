@@ -1,1 +1,1 @@
-var mnemonic = "hand bench reform victory syrup camp truck because bread glance unfair shine";
+var mnemonic = "region fury ten extra chest note urban thought service total century shine";

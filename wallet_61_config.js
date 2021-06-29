@@ -1,1 +1,1 @@
-var mnemonic = "ranch april fine member woman immune purity margin income category coast old";
+var mnemonic = "okay glimpse sentence relax grow liberty winner report galaxy build clean involve";

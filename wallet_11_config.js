@@ -1,1 +1,1 @@
-var mnemonic = "pilot salad about injury middle puppy music sadness morning develop plate focus";
+var mnemonic = "gift rose odor guide real sibling pyramid rebuild powder subject blue miss";

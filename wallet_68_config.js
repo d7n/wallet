@@ -1,1 +1,1 @@
-var mnemonic = "derive conduct cotton melt exclude clerk three salute endorse rebuild guilt jeans";
+var mnemonic = "husband drill gas dial ripple game way castle soft volcano comic modify";

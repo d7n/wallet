@@ -1,1 +1,1 @@
-var mnemonic = "modify flame goat alpha woman bundle surge ketchup senior voice soft intact";
+var mnemonic = "echo property lunch child habit off unaware chuckle labor public retire lava";

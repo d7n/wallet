@@ -1,1 +1,1 @@
-var mnemonic = "tell midnight speak major consider detail embody script wage spoil tomorrow tiny";
+var mnemonic = "lab crazy police undo spy salon rack kite near gauge wheel have";

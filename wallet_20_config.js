@@ -1,1 +1,1 @@
-var mnemonic = "rigid salad wink expose pioneer dragon lend stereo venue guess speak ocean";
+var mnemonic = "confirm champion clutch margin setup pair moon borrow clock purpose bronze adult";

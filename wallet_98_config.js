@@ -1,1 +1,1 @@
-var mnemonic = "advice adult story theory pull margin paper prosper immense scrub deer come";
+var mnemonic = "say depend vibrant floor dance shuffle remind swarm ozone kid state transfer";

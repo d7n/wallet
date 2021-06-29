@@ -1,1 +1,1 @@
-var mnemonic = "film dynamic juice wait follow move display load virtual recall team trouble";
+var mnemonic = "used demise bacon pulp hero fire clerk salt arm drum afford increase";

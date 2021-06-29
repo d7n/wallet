@@ -1,1 +1,1 @@
-var mnemonic = "weather panda else flock obey head often inspire when profit shy muffin";
+var mnemonic = "grow dutch raw problem rubber enact pony mutual arctic sadness away drop";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy degree dune width uncover balance visit depend police rib monster blouse";
+var mnemonic = "cigar length almost screen peasant suffer cliff left jump purchase world man";

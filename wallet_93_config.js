@@ -1,1 +1,1 @@
-var mnemonic = "often unusual neck ill athlete people rubber silly media upper guitar sniff";
+var mnemonic = "art other easily rich tomorrow jewel pigeon manual pistol bird limit item";

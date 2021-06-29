@@ -1,1 +1,1 @@
-var mnemonic = "space people grow zero tornado naive gown medal path capital february drive";
+var mnemonic = "hen pool behind credit sentence run caution room resource shuffle gossip budget";

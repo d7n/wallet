@@ -1,1 +1,1 @@
-var mnemonic = "venture spider loop quick achieve snack convince report fancy gospel tackle weasel";
+var mnemonic = "turkey swarm ten arch proud front sure couch seat twelve fancy all";

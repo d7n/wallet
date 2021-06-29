@@ -1,1 +1,1 @@
-var mnemonic = "keep sting blanket easily damage employ media supply margin chicken bird cable";
+var mnemonic = "hospital artefact off attend clay butter valid loop warfare major join divide";

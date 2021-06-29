@@ -1,1 +1,1 @@
-var mnemonic = "bamboo spread exact match suspect two cupboard salmon renew math agree response";
+var mnemonic = "sniff luggage flat tribe puzzle hand thrive you joy blush fresh mixed";

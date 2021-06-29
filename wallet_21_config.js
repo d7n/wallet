@@ -1,1 +1,1 @@
-var mnemonic = "when birth paper december dry interest able test kitchen aware foam flavor";
+var mnemonic = "sample panda wink shoot sail wash fringe happy caution betray save submit";

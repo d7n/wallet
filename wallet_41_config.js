@@ -1,1 +1,1 @@
-var mnemonic = "stereo catalog virus only warrior puppy fog pave roof shock quarter all";
+var mnemonic = "gadget drop attend slogan chat meat autumn delay lawn carry almost deal";

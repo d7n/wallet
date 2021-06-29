@@ -1,1 +1,1 @@
-var mnemonic = "label decade upgrade comic poverty room dice slide east stand entry habit";
+var mnemonic = "submit warrior coach flight cluster kit broken cash bleak disease private soon";

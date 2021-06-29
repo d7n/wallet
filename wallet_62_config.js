@@ -1,1 +1,1 @@
-var mnemonic = "wool around lizard matrix museum warm spawn leopard jump online bulb amount";
+var mnemonic = "cinnamon horror color lottery old wonder essay wrestle pistol problem rose swim";

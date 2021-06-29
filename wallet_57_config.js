@@ -1,1 +1,1 @@
-var mnemonic = "clerk buzz thought infant simple leave pony nature party tunnel empty lemon";
+var mnemonic = "shallow tomorrow submit entire emotion hand earn cannon powder weekend happy common";

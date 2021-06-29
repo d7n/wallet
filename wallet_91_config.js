@@ -1,1 +1,1 @@
-var mnemonic = "gloom report option inhale sugar jump column flower cement wild leisure rack";
+var mnemonic = "soccer worth segment polar same school increase ethics sister harvest more urban";

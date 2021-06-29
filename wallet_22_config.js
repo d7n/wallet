@@ -1,1 +1,1 @@
-var mnemonic = "era jealous vital split youth tail review crawl dismiss width rural frame";
+var mnemonic = "charge alley stand father wealth fury range layer little radio stereo mystery";

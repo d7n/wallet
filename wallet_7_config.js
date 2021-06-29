@@ -1,1 +1,1 @@
-var mnemonic = "skill lonely hunt rocket slogan cute law grant belt traffic attitude hybrid";
+var mnemonic = "donor galaxy foil shoot siren clever chronic woman vacuum bacon wonder grocery";

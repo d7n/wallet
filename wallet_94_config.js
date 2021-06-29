@@ -1,1 +1,1 @@
-var mnemonic = "fade rapid worry ritual wonder lens error grass come robot topic sheriff";
+var mnemonic = "result ozone artwork emerge tomorrow glimpse reduce shoulder ring struggle purse dinner";

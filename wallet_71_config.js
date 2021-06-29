@@ -1,1 +1,1 @@
-var mnemonic = "shove catalog then sound vague water unfold please upon task cupboard buyer";
+var mnemonic = "kick topic twelve school agent panel weekend truly bottom lecture grace reason";

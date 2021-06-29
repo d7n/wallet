@@ -1,1 +1,1 @@
-var mnemonic = "chicken hybrid vintage pen bottom adjust recipe wreck distance copper dove step";
+var mnemonic = "bounce battle climb exact cake nature draft ice scale lunar nurse gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "critic girl actor dad near album clarify almost panel engage kiwi donkey";
+var mnemonic = "lounge elephant kid whisper abstract record snake spring innocent unit angry castle";

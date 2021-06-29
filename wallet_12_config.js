@@ -1,1 +1,1 @@
-var mnemonic = "icon pepper opera camera push sound theory amount danger miss village fat";
+var mnemonic = "fringe myself skill violin paddle vacuum frog beef voice task genius among";

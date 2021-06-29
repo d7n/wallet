@@ -1,1 +1,1 @@
-var mnemonic = "account rubber viable scatter motor helmet swap outside interest warm tongue token";
+var mnemonic = "lab rotate evil flower clinic tomorrow raw real pilot say rate ketchup";

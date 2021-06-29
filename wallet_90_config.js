@@ -1,1 +1,1 @@
-var mnemonic = "engage river early tackle blood sauce beef minute meat chest length device";
+var mnemonic = "cargo civil sadness flush able mass violin very fossil scheme senior order";

@@ -1,1 +1,1 @@
-var mnemonic = "machine ask vessel genuine aunt brave panic liberty alpha unveil use load";
+var mnemonic = "uncover grid save humor train ethics snake they solid blur buzz connect";

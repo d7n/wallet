@@ -1,1 +1,1 @@
-var mnemonic = "because tonight swap aware stuff tube comfort pulp tenant thing guitar slow";
+var mnemonic = "reject social royal anchor edge spawn oven practice wrong neutral manage impulse";

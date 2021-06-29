@@ -1,1 +1,1 @@
-var mnemonic = "candy honey situate tell motion just domain notable silk have curious voyage";
+var mnemonic = "door notable throw casino offer mimic tilt injury chase toward hire coil";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce unaware test riot decrease clean relief lawn upset issue resource diesel";
+var mnemonic = "nest tenant car dinosaur blind bean region pull find umbrella battle flight";

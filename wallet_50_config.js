@@ -1,1 +1,1 @@
-var mnemonic = "fly route arrow verb defy actual dismiss worth leader labor next rival";
+var mnemonic = "kingdom essence unaware buyer time polar tornado another deny weird trash coil";

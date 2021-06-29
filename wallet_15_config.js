@@ -1,1 +1,1 @@
-var mnemonic = "trigger panda satoshi fantasy prepare brick clip universe total tube umbrella glass";
+var mnemonic = "bullet credit vivid market wagon balance front monkey whale property swamp top";

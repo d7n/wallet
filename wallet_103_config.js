@@ -1,1 +1,1 @@
-var mnemonic = "green illness total sphere yellow hockey theme road trade win blossom ramp";
+var mnemonic = "capable glass guard planet fantasy coast series script prosper estate celery clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "forget awake hotel ketchup few ecology peanut volume sight local faint chunk";
+var mnemonic = "auto much lens chronic legend witness risk you auction danger special practice";

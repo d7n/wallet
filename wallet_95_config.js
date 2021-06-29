@@ -1,1 +1,1 @@
-var mnemonic = "dirt couch street pull quarter ostrich treat limb race bring object subway";
+var mnemonic = "cancel erase pause salt solution alcohol master elephant asthma witness material siren";

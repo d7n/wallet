@@ -1,1 +1,1 @@
-var mnemonic = "rain fiscal ankle balcony marine gate merit away cabbage artefact element thank";
+var mnemonic = "worry ice panda saddle clever category romance snack subject monitor require company";

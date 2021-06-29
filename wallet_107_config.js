@@ -1,1 +1,1 @@
-var mnemonic = "brave fossil sunny network reject ugly word slab divert cactus tribe pull";
+var mnemonic = "spray wealth grain december submit skull bacon cheap narrow nature rug recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect quick neglect awake shrimp destroy latin hunt loud giant decrease margin";
+var mnemonic = "outdoor ball seven sort desert cash tape twenty spawn kiss hidden inmate";

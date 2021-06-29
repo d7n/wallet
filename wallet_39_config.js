@@ -1,1 +1,1 @@
-var mnemonic = "dose just top monster casual naive much april amateur find either seek";
+var mnemonic = "unhappy very sugar over always radio monitor habit ten crane other ability";

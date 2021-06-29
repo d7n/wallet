@@ -1,1 +1,1 @@
-var mnemonic = "mirror option ocean strike agree midnight struggle crunch ticket hunt bridge outside";
+var mnemonic = "opera soap chef fish alley wool grant medal mass host tired valve";

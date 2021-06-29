@@ -1,1 +1,1 @@
-var mnemonic = "focus exhibit chase gate energy attack urban grace lottery local address expect";
+var mnemonic = "stable quarter scissors exercise life bird swear ecology claw describe theme obey";

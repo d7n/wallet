@@ -1,1 +1,1 @@
-var mnemonic = "chaos law agree will betray program shine boost inner mimic during afraid";
+var mnemonic = "gap tool deposit control rural empty primary banner shock rebel second fitness";

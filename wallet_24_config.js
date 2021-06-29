@@ -1,1 +1,1 @@
-var mnemonic = "ankle powder speak country relief apple indoor lake toss exclude pitch must";
+var mnemonic = "wrist indicate sunny caution result roast inform accident theme ritual average voice";

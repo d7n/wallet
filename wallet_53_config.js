@@ -1,1 +1,1 @@
-var mnemonic = "gift grace satoshi present south dish follow evoke fever betray shiver valve";
+var mnemonic = "cable light bleak angry approve inquiry barely tennis sauce march pottery already";

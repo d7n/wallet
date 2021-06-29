@@ -1,1 +1,1 @@
-var mnemonic = "hub jealous solar receive sugar pet romance judge pause code whale ensure";
+var mnemonic = "half chat foam usual frown card flush pulp nut jungle develop width";

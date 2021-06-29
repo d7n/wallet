@@ -1,1 +1,1 @@
-var mnemonic = "guilt blossom label lake pattern broken notice unveil illness sell couch raw";
+var mnemonic = "flavor sauce jealous dad dinner bounce brass follow inform diagram cave column";

@@ -1,1 +1,1 @@
-var mnemonic = "sell unique rare neither license solve brick oak fatigue exist praise light";
+var mnemonic = "hip good flag talent law mushroom sword perfect pink clutch learn lava";

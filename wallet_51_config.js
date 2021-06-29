@@ -1,1 +1,1 @@
-var mnemonic = "legend check father arch until average airport worth top group scatter identify";
+var mnemonic = "runway orange humor move sand mushroom river census gadget usual dutch spirit";

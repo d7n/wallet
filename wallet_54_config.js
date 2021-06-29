@@ -1,1 +1,1 @@
-var mnemonic = "clutch liar hungry until local lab eight lottery saddle talent remind oil";
+var mnemonic = "coin muffin donate camp usage vapor practice burger size used embody hybrid";

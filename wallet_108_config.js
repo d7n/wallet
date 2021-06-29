@@ -1,1 +1,1 @@
-var mnemonic = "fetch guess enemy mean repair excuse remove train base talent royal arrange";
+var mnemonic = "special canoe silent laundry dutch engage worry business silly arrange sadness gossip";

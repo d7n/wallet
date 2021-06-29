@@ -1,1 +1,1 @@
-var mnemonic = "base drum position say hood sheriff shell school improve when shrimp theory";
+var mnemonic = "eyebrow endless youth clerk rail expose direct later exist opera unhappy list";

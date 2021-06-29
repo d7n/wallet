@@ -1,1 +1,1 @@
-var mnemonic = "seed room cost borrow kidney crater verify crew beauty bread wet protect";
+var mnemonic = "network discover latin health cabin shuffle tooth sudden start trim civil certain";

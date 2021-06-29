@@ -1,1 +1,1 @@
-var mnemonic = "bracket since melt suffer nation hedgehog drink gasp salad valve bright front";
+var mnemonic = "onion soldier type false link lamp dawn easy machine pumpkin horror oxygen";

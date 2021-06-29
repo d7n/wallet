@@ -1,1 +1,1 @@
-var mnemonic = "lemon quit farm long become baby stamp interest eager parent notice cabin";
+var mnemonic = "kind airport industry dumb fruit stage dinosaur cushion foster split kiwi bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "profit fat swallow witness deposit hat assume blast term boss pigeon olympic";
+var mnemonic = "fish people pledge snack solar false purity actress practice punch pave current";

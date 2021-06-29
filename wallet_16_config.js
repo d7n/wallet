@@ -1,1 +1,1 @@
-var mnemonic = "carry roof occur result connect panda movie flush alarm flock clever broom";
+var mnemonic = "copper bind bridge large donkey leaf object exhibit kangaroo toss wine protect";

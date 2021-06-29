@@ -1,1 +1,1 @@
-var mnemonic = "antique change slush dumb exotic library stairs pause broccoli advice option nephew";
+var mnemonic = "venue across office flavor coast donkey lucky enemy album assist clarify harbor";

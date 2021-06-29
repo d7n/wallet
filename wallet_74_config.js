@@ -1,1 +1,1 @@
-var mnemonic = "project island retreat involve soup beach they evoke spice radar legend pipe";
+var mnemonic = "cry badge six cycle onion decade ginger lady initial ghost shaft fade";

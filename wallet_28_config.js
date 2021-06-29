@@ -1,1 +1,1 @@
-var mnemonic = "smile response brave local result dilemma bread tray cushion glow fold strike";
+var mnemonic = "liberty case wool oxygen negative gesture valley talent polar dragon intact affair";

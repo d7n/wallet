@@ -1,1 +1,1 @@
-var mnemonic = "virus daughter promote half west furnace pig amount chalk layer speak rough";
+var mnemonic = "order pretty consider want siren record timber casual spatial scene hurt defy";

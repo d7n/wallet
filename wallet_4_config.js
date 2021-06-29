@@ -1,1 +1,1 @@
-var mnemonic = "inject resemble hair crazy mention empower castle pig bright settle snack wool";
+var mnemonic = "meadow width lake rubber cruise dragon toward title clean unusual tower sense";

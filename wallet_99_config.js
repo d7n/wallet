@@ -1,1 +1,1 @@
-var mnemonic = "attract inner annual during second utility lecture moon sand clever sponsor always";
+var mnemonic = "mutual demise travel result oak cost enhance brick identify dinner whale cushion";

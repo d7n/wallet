@@ -1,1 +1,1 @@
-var mnemonic = "video example scheme symbol category soccer indicate deal uncover grain useless physical";
+var mnemonic = "toast can coast welcome doctor ivory wrong express umbrella release boat insect";

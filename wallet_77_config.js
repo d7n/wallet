@@ -1,1 +1,1 @@
-var mnemonic = "need cool also minimum first illness alter make wing grid credit fiber";
+var mnemonic = "turtle fever identify tenant concert shaft broken appear plug gas cherry diet";

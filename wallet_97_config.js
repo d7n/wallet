@@ -1,1 +1,1 @@
-var mnemonic = "swim wave lunch napkin absent pelican profit lucky firm insane you poet";
+var mnemonic = "antenna awake trust art burger skin brown differ congress warfare primary apart";

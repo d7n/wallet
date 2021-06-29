@@ -1,1 +1,1 @@
-var mnemonic = "angle era bike laundry daring crouch feature master west crane fruit auction";
+var mnemonic = "remain estate combine range world valid escape isolate omit inform identify hour";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster size toss churn crisp prosper describe forward bulk furnace salute observe";
+var mnemonic = "prepare clarify stage network grocery magic sphere stable butter hope motion target";

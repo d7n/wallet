@@ -1,1 +1,1 @@
-var mnemonic = "hamster mosquito clap capital impulse patrol foster middle modify cherry dolphin burden";
+var mnemonic = "prevent suffer head laptop essay bronze mail latin sausage gospel suffer elegant";

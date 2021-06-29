@@ -1,1 +1,1 @@
-var mnemonic = "business purse library unhappy project injury wink laundry drop ghost install quote";
+var mnemonic = "despair bargain spoil antique aisle century skull tonight collect message unusual elephant";

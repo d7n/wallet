@@ -1,1 +1,1 @@
-var mnemonic = "pole improve shell edit maximum seed kiss enrich goddess link host slight";
+var mnemonic = "host penalty cash powder woman razor exact stool sister ladder carpet rain";

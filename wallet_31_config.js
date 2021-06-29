@@ -1,1 +1,1 @@
-var mnemonic = "top chunk unknown track ethics stumble rail bike cradle remain pistol twenty";
+var mnemonic = "cruise glimpse trip dinosaur million ask alcohol timber uphold cloud pledge cable";

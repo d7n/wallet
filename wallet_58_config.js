@@ -1,1 +1,1 @@
-var mnemonic = "accuse pelican indoor swear image sustain brand speak laundry will endorse stem";
+var mnemonic = "garage spice fancy next mountain tree crack outside owner poverty battle deer";

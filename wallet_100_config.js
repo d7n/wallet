@@ -1,1 +1,1 @@
-var mnemonic = "fringe grab below clump electric unknown left vague gloom finger very water";
+var mnemonic = "glimpse balcony honey mechanic ordinary sunny canvas globe manual risk panic hair";

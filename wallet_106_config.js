@@ -1,1 +1,1 @@
-var mnemonic = "double fitness hard jelly question guilt garment jump visa praise want enter";
+var mnemonic = "hungry ride middle hamster lamp include avoid egg popular south proof nephew";

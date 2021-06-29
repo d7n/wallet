@@ -1,1 +1,1 @@
-var mnemonic = "friend tired onion country cancel enough height tree online key simple mesh";
+var mnemonic = "burger sell deny habit disease upper neglect retreat grass robot margin art";

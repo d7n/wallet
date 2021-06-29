@@ -1,1 +1,1 @@
-var mnemonic = "vehicle hurt liar alpha beef athlete turn wild patch poverty frequent congress";
+var mnemonic = "clay smile riot funny case capable open infant kiss account stage pull";

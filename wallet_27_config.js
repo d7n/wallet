@@ -1,1 +1,1 @@
-var mnemonic = "spoon acid hope spin behave squeeze evil aunt stone expose prize whale";
+var mnemonic = "wild jacket burger salt decide destroy quiz jazz twenty expect detect depth";

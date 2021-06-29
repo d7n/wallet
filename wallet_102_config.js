@@ -1,1 +1,1 @@
-var mnemonic = "close owner sustain salad useful habit obey cactus almost morning circle soul";
+var mnemonic = "pledge critic pool sense vast fox rack unhappy hen puppy drop room";

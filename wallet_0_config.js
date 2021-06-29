@@ -1,1 +1,1 @@
-var mnemonic = "project evolve silly dizzy toddler powder before eight garage unknown quarter negative";
+var mnemonic = "wet dismiss wise bulk explain crime club oven car minor select subway";
