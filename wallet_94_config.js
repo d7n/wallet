@@ -1,1 +1,1 @@
-var mnemonic = "summer blur ceiling duck imitate tooth metal rib brain army clog march";
+var mnemonic = "prepare chair vault payment inquiry order unfair normal obtain vendor spirit alley";

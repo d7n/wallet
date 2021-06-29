@@ -1,1 +1,1 @@
-var mnemonic = "hill awake wife humble craft nothing pipe also kitchen sauce want attract";
+var mnemonic = "toy lemon before bitter wheat series tomorrow west animal wing key dwarf";

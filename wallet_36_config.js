@@ -1,1 +1,1 @@
-var mnemonic = "also logic lottery tape judge charge apart rescue morning height fashion birth";
+var mnemonic = "pottery soap decrease scorpion sudden ill barely situate round replace april kiss";

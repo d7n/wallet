@@ -1,1 +1,1 @@
-var mnemonic = "decide dentist chapter myself salad snap stone case wrap mesh pill shed";
+var mnemonic = "stereo chalk salad hobby issue life extend balance twist silk keep answer";

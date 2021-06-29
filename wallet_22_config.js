@@ -1,1 +1,1 @@
-var mnemonic = "around square mouse miracle water only shine average begin churn exercise ball";
+var mnemonic = "assume syrup noodle hip hungry gesture ethics tonight sniff okay situate impose";

@@ -1,1 +1,1 @@
-var mnemonic = "announce jelly oil jazz basic riot gallery know payment flat battle grape";
+var mnemonic = "deposit swarm lonely uphold enable sudden genius trim mosquito opinion chuckle cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "village idea movie organ will melt dad exit road bubble mind witness";
+var mnemonic = "sugar hello pill sock wild elite core crunch learn run arrow acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "before custom enlist virus mechanic smooth add then gadget series envelope kangaroo";
+var mnemonic = "allow clown ancient comic scissors prevent patrol proud elite rate estate cruel";

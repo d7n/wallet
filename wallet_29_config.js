@@ -1,1 +1,1 @@
-var mnemonic = "vault census entry gold melody fabric donor gossip topic noodle stage fat";
+var mnemonic = "coast chalk practice jelly join truly jealous cram nest concert ski great";

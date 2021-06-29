@@ -1,1 +1,1 @@
-var mnemonic = "evil hospital critic half logic earn noodle huge hockey clump jazz barely";
+var mnemonic = "leader avoid arch upon strike merry smart enhance jaguar guard riot rich";

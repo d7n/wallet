@@ -1,1 +1,1 @@
-var mnemonic = "obey render expose student beyond spike unfold quote mass glide sort broom";
+var mnemonic = "average crucial victory glare segment despair garlic mango hamster catalog inspire sure";

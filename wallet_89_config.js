@@ -1,1 +1,1 @@
-var mnemonic = "focus traffic review daughter relax essay chief fortune invite adjust clock mix";
+var mnemonic = "excite dolphin quick police tree punch rookie beef hockey stick kick control";

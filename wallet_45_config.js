@@ -1,1 +1,1 @@
-var mnemonic = "there trouble air carry rare loud gospel cruise search odor lesson wood";
+var mnemonic = "giggle vibrant define author ceiling surge tired today tip fade catalog kidney";

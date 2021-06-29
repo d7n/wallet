@@ -1,1 +1,1 @@
-var mnemonic = "disorder govern hair wave news owner marine embody rice act vocal wink";
+var mnemonic = "peace skull screen atom deer parade super shoe chest seminar drift square";

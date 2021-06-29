@@ -1,1 +1,1 @@
-var mnemonic = "novel wall sting purpose taxi over bounce assist glove nest arrow twelve";
+var mnemonic = "field twist road like current tunnel link under blossom width miracle bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple will lens initial more speed primary zebra cigar own gap grow";
+var mnemonic = "dentist lazy exotic wood direct long demand cluster neglect tray mixture save";

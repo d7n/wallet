@@ -1,1 +1,1 @@
-var mnemonic = "void eight lazy anger what diesel shed mansion someone forest usual special";
+var mnemonic = "divorce prize life buddy other rotate jewel output super charge excess update";

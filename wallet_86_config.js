@@ -1,1 +1,1 @@
-var mnemonic = "lucky maze leave glance wild village pig hurt festival surround curtain chaos";
+var mnemonic = "height diary symptom habit asset senior long liar rough table carpet august";

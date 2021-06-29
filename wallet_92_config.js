@@ -1,1 +1,1 @@
-var mnemonic = "easily topic width aerobic note arena media deposit illegal produce arrest enroll";
+var mnemonic = "column pave escape social reduce genius cable exist mystery dwarf crouch oxygen";

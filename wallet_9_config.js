@@ -1,1 +1,1 @@
-var mnemonic = "scrap attract trial apart use damp transfer usual stable repeat shallow eyebrow";
+var mnemonic = "budget elevator paddle frost alley jungle under wonder nothing village tomorrow clinic";

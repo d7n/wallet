@@ -1,1 +1,1 @@
-var mnemonic = "dice imitate switch square settle define lawn sea inquiry outer twice kitten";
+var mnemonic = "carpet behave first custom desk fire scan pupil guilt nerve smart weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel pigeon also thrive only express fall define street they manual sand";
+var mnemonic = "bench cluster goddess noise fruit buyer desk runway label smooth boat rely";

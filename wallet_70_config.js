@@ -1,1 +1,1 @@
-var mnemonic = "cradle original position flush wheat gap one differ memory december farm census";
+var mnemonic = "pet aware put parade apology scene carry burst bike purse jewel labor";

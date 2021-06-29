@@ -1,1 +1,1 @@
-var mnemonic = "surprise gym tornado faculty parade ocean boring camera captain point chalk viable";
+var mnemonic = "target south kite member right panel hard unable fly pear noble mobile";

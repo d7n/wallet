@@ -1,1 +1,1 @@
-var mnemonic = "hair cash hill patch able defy romance dog degree loud trial logic";
+var mnemonic = "fuel maple mass cannon upset asthma rail mail option razor tray smart";

@@ -1,1 +1,1 @@
-var mnemonic = "alter table attitude panda alcohol stuff charge series culture axis lake enact";
+var mnemonic = "finish fence can view cabin bid baby sing riot grief push short";

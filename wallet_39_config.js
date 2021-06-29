@@ -1,1 +1,1 @@
-var mnemonic = "live alarm pave slot spike debris shove short purchase mosquito book child";
+var mnemonic = "fatigue hurt noodle act ivory mom tragic country fiscal scatter remember caution";

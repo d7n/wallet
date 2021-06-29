@@ -1,1 +1,1 @@
-var mnemonic = "sudden noble learn worth typical add concert patrol meadow vessel twice slice";
+var mnemonic = "loop amazing river purse tilt abstract hedgehog spend soft quiz skin pear";

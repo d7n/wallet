@@ -1,1 +1,1 @@
-var mnemonic = "deal romance organ arctic absorb typical age jungle upon gap know excess";
+var mnemonic = "ghost ceiling have night warm frequent loyal boil oxygen then wave topic";

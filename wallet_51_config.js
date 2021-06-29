@@ -1,1 +1,1 @@
-var mnemonic = "merry juice public ridge immune gallery degree spin divert unveil keen utility";
+var mnemonic = "hill coast image idea bronze frozen fan dentist ranch suspect foam slot";

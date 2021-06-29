@@ -1,1 +1,1 @@
-var mnemonic = "nation account board box deputy learn divert abuse army delay olympic wrestle";
+var mnemonic = "cram boss sleep weather attitude quantum early swallow mistake half strategy rare";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe wheel lizard arch add must run divert mind tortoise horse letter";
+var mnemonic = "rubber elegant lend verify bronze employ head sweet tape runway eye walnut";

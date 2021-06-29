@@ -1,1 +1,1 @@
-var mnemonic = "smoke loan vanish process sugar left scrap convince client pride warfare flower";
+var mnemonic = "creek cruel system message end cruise number shop step juice come quiz";

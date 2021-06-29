@@ -1,1 +1,1 @@
-var mnemonic = "thumb weapon lady long sail slow label domain orient effort patch piece";
+var mnemonic = "race online same offer priority mosquito another lumber license together when dragon";

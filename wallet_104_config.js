@@ -1,1 +1,1 @@
-var mnemonic = "action husband foster fuel require grid brush toward nasty satisfy melody million";
+var mnemonic = "diagram fluid nice urge hero knife december wisdom tray flash chaos alarm";

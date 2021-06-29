@@ -1,1 +1,1 @@
-var mnemonic = "combine actress sun boring harvest okay goddess explain mobile law blame home";
+var mnemonic = "nation quantum velvet cherry grid near system wolf inflict mixture oven pulp";

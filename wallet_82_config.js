@@ -1,1 +1,1 @@
-var mnemonic = "like early ladder promote gauge observe flame bachelor burger rigid legend mixture";
+var mnemonic = "popular board clutch visa shed drive phone scare smile start current child";

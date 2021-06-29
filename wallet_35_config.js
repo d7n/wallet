@@ -1,1 +1,1 @@
-var mnemonic = "frame satoshi traffic attend coral warrior army entry item burger tourist recall";
+var mnemonic = "canvas bracket initial nothing ring soul stumble coast enact raven shoulder stem";

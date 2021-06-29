@@ -1,1 +1,1 @@
-var mnemonic = "rapid joke lift believe odor palm domain crew unable damp entire cherry";
+var mnemonic = "tired save emerge you negative picnic sail tiger thumb spoon scrub inhale";

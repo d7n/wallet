@@ -1,1 +1,1 @@
-var mnemonic = "salad license film forest saddle climb network stay version goat slim dragon";
+var mnemonic = "narrow inquiry comic legal allow ancient usage police nuclear snow swear town";

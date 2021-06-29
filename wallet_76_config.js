@@ -1,1 +1,1 @@
-var mnemonic = "right talk sign cake usual emerge dragon together absorb chicken snack brisk";
+var mnemonic = "control canal hood buzz web affair fiber defense dragon certain lawsuit hamster";

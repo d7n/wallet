@@ -1,1 +1,1 @@
-var mnemonic = "ladder defense stairs annual ostrich soup hamster gain mango era achieve emotion";
+var mnemonic = "matrix review step hood post add curtain thunder time allow innocent thing";

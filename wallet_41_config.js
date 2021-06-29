@@ -1,1 +1,1 @@
-var mnemonic = "forest flash possible hobby plug garage lens roast visit affair excuse come";
+var mnemonic = "latin hole uncle lava attract celery purity join grain coral case canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty absent dance march habit come fog never stove swift net blind";
+var mnemonic = "buffalo resist alarm toast scrub frost flock obscure season pledge push duck";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze assault high hundred pizza toast give menu parade park waste tell";
+var mnemonic = "menu canal unfair camera paper wear skate essence link atom museum seek";

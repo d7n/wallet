@@ -1,1 +1,1 @@
-var mnemonic = "click april under wish shoulder game approve pudding snake virtual mule license";
+var mnemonic = "thank special butter leg elephant nature symptom blush wisdom empower armed mountain";

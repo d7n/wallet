@@ -1,1 +1,1 @@
-var mnemonic = "another wire area wash reform apple air viable swallow rice casual verify";
+var mnemonic = "fatigue romance inform relax chapter tiny dry jealous other bunker gravity social";

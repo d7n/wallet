@@ -1,1 +1,1 @@
-var mnemonic = "own bonus upgrade park congress top element limb kick flee elevator hotel";
+var mnemonic = "receive injury basket decline depend ramp cash dinosaur cause gorilla autumn smart";

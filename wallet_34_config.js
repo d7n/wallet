@@ -1,1 +1,1 @@
-var mnemonic = "like ketchup uncle cargo lunch vocal early orbit proof opinion embody sponsor";
+var mnemonic = "jacket brush type risk indoor grass wedding solve typical flat banner pluck";

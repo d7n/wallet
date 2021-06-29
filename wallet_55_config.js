@@ -1,1 +1,1 @@
-var mnemonic = "neck team bullet bean velvet avoid story glance library valve alien mutual";
+var mnemonic = "gasp once prosper december year maid govern bean real pioneer woman gospel";

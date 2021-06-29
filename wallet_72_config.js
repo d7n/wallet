@@ -1,1 +1,1 @@
-var mnemonic = "symbol digital vessel minor attack half various coconut oven bright rug exist";
+var mnemonic = "possible diet clap spray hazard oil sail oven divorce glory panther daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet sample legal afford topple finish hurdle lab prevent opinion decrease peanut";
+var mnemonic = "scorpion zebra chicken zebra hill unable effort scan drink robot similar verb";

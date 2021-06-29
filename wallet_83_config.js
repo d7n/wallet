@@ -1,1 +1,1 @@
-var mnemonic = "syrup patrol ready margin approve utility bicycle find snap spend cube inside";
+var mnemonic = "bulk river industry board nation argue humor attend eternal enable acid second";

@@ -1,1 +1,1 @@
-var mnemonic = "ride voyage silk churn throw scissors pill very empty chef delay chase";
+var mnemonic = "seminar record enough door govern entry corn gap have bring share prepare";

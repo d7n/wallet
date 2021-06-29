@@ -1,1 +1,1 @@
-var mnemonic = "plunge subject bus echo exact indoor huge valve ritual casino marine bike";
+var mnemonic = "leopard paddle warrior bomb sorry social poem artwork curious payment patrol bird";

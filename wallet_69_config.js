@@ -1,1 +1,1 @@
-var mnemonic = "mesh annual million velvet burger sweet zone series bean actual end surface";
+var mnemonic = "insect escape float sauce luggage toast urban dice design chalk little scene";

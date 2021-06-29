@@ -1,1 +1,1 @@
-var mnemonic = "live rack nothing color practice romance arena style recipe chat swing trade";
+var mnemonic = "pole casino season pair music dragon lawsuit canyon security fog core system";

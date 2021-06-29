@@ -1,1 +1,1 @@
-var mnemonic = "song rack embrace excess defy true inside soldier inflict erase album minute";
+var mnemonic = "phone notable crucial age taxi perfect reopen woman join polar helmet ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy oxygen exile pledge tornado shell blind great vote giant scout age";
+var mnemonic = "lab stairs spoil april fox jeans cereal tennis nut illness great saddle";

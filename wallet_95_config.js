@@ -1,1 +1,1 @@
-var mnemonic = "scrap zebra chunk impulse vocal achieve guard husband nasty loyal lizard season";
+var mnemonic = "title way much search position suggest kid vehicle mimic wrist clog alarm";

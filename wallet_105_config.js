@@ -1,1 +1,1 @@
-var mnemonic = "tuna noodle kingdom wood drink town tag initial axis cruise business popular";
+var mnemonic = "night couch task hire turn moon clutch rigid awake fabric fly impulse";

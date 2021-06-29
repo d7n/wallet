@@ -1,1 +1,1 @@
-var mnemonic = "flee illness special code close sell blind learn echo stable tortoise battle";
+var mnemonic = "text reform sight network ostrich eager question carbon crystal clump atom clever";

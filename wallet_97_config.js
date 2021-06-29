@@ -1,1 +1,1 @@
-var mnemonic = "reflect toss again jump egg either eternal crystal yard turn repair pretty";
+var mnemonic = "evidence law zebra melt crack salmon nice guide empty wrestle toast dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "keep curve print meadow flag share fancy ripple twist cherry fatal enroll";
+var mnemonic = "pride fat teach kiss between weapon brown hamster say chaos neutral enable";

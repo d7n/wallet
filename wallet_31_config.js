@@ -1,1 +1,1 @@
-var mnemonic = "already animal left distance pumpkin boat verify bird game engage veteran endorse";
+var mnemonic = "chimney observe easily wave syrup audit volume melody remove discover battle master";

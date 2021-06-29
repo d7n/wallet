@@ -1,1 +1,1 @@
-var mnemonic = "marble shove spend grit goddess damp soon mutual glad crew hospital found";
+var mnemonic = "belt dentist shrimp point absent increase silk lottery fine subject monkey tornado";

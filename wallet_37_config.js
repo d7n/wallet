@@ -1,1 +1,1 @@
-var mnemonic = "rhythm egg bone prize frost produce convince enlist crush boat mountain sort";
+var mnemonic = "off harbor bean gown crack tape fortune when curtain bone welcome urge";

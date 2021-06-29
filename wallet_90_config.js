@@ -1,1 +1,1 @@
-var mnemonic = "lazy spare sound night broccoli shadow trap open view battle cook visual";
+var mnemonic = "verify sniff female slush great dice waste winner mouse dry local pistol";

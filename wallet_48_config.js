@@ -1,1 +1,1 @@
-var mnemonic = "apart absent impose around lens hamster resource yellow acid broom addict remove";
+var mnemonic = "verb atom rule bamboo quote unlock tackle dragon arrive lunch truly protect";

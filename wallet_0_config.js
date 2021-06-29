@@ -1,1 +1,1 @@
-var mnemonic = "gaze sugar own sunset civil account ceiling cage dish same relax vehicle";
+var mnemonic = "rice amused help empower design manual way drastic aisle hurry february mean";

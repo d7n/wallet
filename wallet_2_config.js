@@ -1,1 +1,1 @@
-var mnemonic = "word fatal deputy spike dignity donkey weather leave teach remind bike vibrant";
+var mnemonic = "soap velvet trophy tired owner neither tortoise affair shell always roast ginger";

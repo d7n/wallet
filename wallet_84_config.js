@@ -1,1 +1,1 @@
-var mnemonic = "annual number ceiling hello orient act account birth bottom slim size apple";
+var mnemonic = "crack giant churn topple reform opera cake begin cheap blue twenty afraid";

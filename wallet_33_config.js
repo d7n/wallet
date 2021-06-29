@@ -1,1 +1,1 @@
-var mnemonic = "slim someone quarter melt elephant juice beauty sleep glove six penalty boat";
+var mnemonic = "place lemon fatal critic sniff begin sample unaware luxury firm real lounge";

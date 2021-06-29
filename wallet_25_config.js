@@ -1,1 +1,1 @@
-var mnemonic = "success stomach discover coconut angle flat filter reduce section unknown pottery teach";
+var mnemonic = "tool design bonus stem evoke veteran quick budget clump bless romance elder";

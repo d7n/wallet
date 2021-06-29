@@ -1,1 +1,1 @@
-var mnemonic = "street gate install palm gesture trouble cube evoke oak seed rose sunny";
+var mnemonic = "pudding smooth route approve dignity gadget desert believe height chair canal bird";

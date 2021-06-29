@@ -1,1 +1,1 @@
-var mnemonic = "sting icon clutch toast occur tornado above regret wisdom canvas burst wrong";
+var mnemonic = "jealous kit ramp core rich album hint burst large gorilla obvious account";

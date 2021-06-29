@@ -1,1 +1,1 @@
-var mnemonic = "differ camp elevator lift style heavy stomach check coyote sell flame future";
+var mnemonic = "weasel afford blame easy black target describe arch exhaust snow melt rail";

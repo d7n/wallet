@@ -1,1 +1,1 @@
-var mnemonic = "object grain carpet sheriff cabbage absurd visual bacon advice miss price father";
+var mnemonic = "you purchase credit hold derive they enrich caught govern ankle skill earth";

@@ -1,1 +1,1 @@
-var mnemonic = "salon walk permit emotion garage disorder twin asset shy else lady tool";
+var mnemonic = "false material false robot afford maple cruel toward hungry view rough bring";

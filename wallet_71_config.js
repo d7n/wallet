@@ -1,1 +1,1 @@
-var mnemonic = "reflect mule palm recycle illegal ankle guess replace crane mother leg remember";
+var mnemonic = "broccoli inherit sentence sweet toward correct abuse dune material job width skill";

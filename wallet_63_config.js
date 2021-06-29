@@ -1,1 +1,1 @@
-var mnemonic = "grocery sea absorb leaf devote bind about water verb zero butter hospital";
+var mnemonic = "consider settle change quality present allow else direct flower buyer shove furnace";

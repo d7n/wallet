@@ -1,1 +1,1 @@
-var mnemonic = "task between since input tape ask reunion bicycle print warfare among barely";
+var mnemonic = "tell spread surge engine loop elephant motor cross behind rocket spice dumb";

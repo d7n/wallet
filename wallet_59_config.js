@@ -1,1 +1,1 @@
-var mnemonic = "frost olympic wrist real undo phrase trap brick helmet never aim define";
+var mnemonic = "dose salute tourist any company unaware credit weapon canal inherit drop crew";

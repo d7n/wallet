@@ -1,1 +1,1 @@
-var mnemonic = "trigger acid sight false spatial excite police heart vocal wrist metal champion";
+var mnemonic = "pitch wolf finish rhythm upset announce camp educate marriage unusual insect atom";

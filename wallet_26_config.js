@@ -1,1 +1,1 @@
-var mnemonic = "empty jump crop pigeon brisk lounge evidence slim because unusual fence kit";
+var mnemonic = "entire section during decorate already panda push economy capable milk common start";

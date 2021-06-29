@@ -1,1 +1,1 @@
-var mnemonic = "seed ozone penalty column session decade box program cause nasty hobby task";
+var mnemonic = "border taxi maze later know basic average match attack virus tongue private";

@@ -1,1 +1,1 @@
-var mnemonic = "twice volcano energy tattoo flee crazy tomato gauge swim travel mansion glory";
+var mnemonic = "south alarm oblige endorse zero trap grief insect stem sudden swear plunge";

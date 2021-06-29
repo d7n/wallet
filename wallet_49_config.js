@@ -1,1 +1,1 @@
-var mnemonic = "large need menu border climb arrest tribe inside film leaf where cargo";
+var mnemonic = "hold glue misery fragile village cargo buffalo argue modify tourist cotton way";

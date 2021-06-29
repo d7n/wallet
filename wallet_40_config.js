@@ -1,1 +1,1 @@
-var mnemonic = "nice fit vibrant salmon cancel page absorb session fantasy sun between wet";
+var mnemonic = "oppose protect reform rich donkey save wink plug marriage motor know rebuild";
