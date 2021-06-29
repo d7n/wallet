@@ -1,1 +1,1 @@
-var mnemonic = "genius remain swarm bubble adapt bean flee phrase habit rather loop loyal";
+var mnemonic = "glass cruise image weapon flash direct local trouble beyond veteran evil camp";

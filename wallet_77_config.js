@@ -1,1 +1,1 @@
-var mnemonic = "casual silver rely galaxy bunker dwarf decrease hurdle maze modify wear column";
+var mnemonic = "lend around reform beef crystal pave creek need reunion asthma front profit";

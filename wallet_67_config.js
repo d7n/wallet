@@ -1,1 +1,1 @@
-var mnemonic = "shell lab distance sick search size derive color pulse bubble print skull";
+var mnemonic = "federal rocket round scout broom acquire right confirm float merry friend frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "color ask tiny illegal melody cactus boost fluid record poem arrange survey";
+var mnemonic = "fame deer foot casino situate road hole coin buzz museum ten member";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit adjust soda describe edge slow chat used olympic safe unit sing";
+var mnemonic = "client knife illness whip kit sun hungry weasel yard van cheap mention";

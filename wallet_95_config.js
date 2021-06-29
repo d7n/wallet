@@ -1,1 +1,1 @@
-var mnemonic = "shift bid napkin rubber sheriff current connect success siren human morning quote";
+var mnemonic = "citizen tank hen live fame decide success loan rapid awkward energy auto";

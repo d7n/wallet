@@ -1,1 +1,1 @@
-var mnemonic = "wheat digital table reopen assault mail response doll crunch twin pepper barely";
+var mnemonic = "capable pond shrimp brass beef virtual because poverty session stock rookie moral";

@@ -1,1 +1,1 @@
-var mnemonic = "ill grit pulse cram poverty step any kite swift verb detect diamond";
+var mnemonic = "hurry onion utility broccoli search library page destroy test response filter genius";

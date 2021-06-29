@@ -1,1 +1,1 @@
-var mnemonic = "elite sure engage suspect salmon birth mountain skill around manual fault blade";
+var mnemonic = "sense print grace fragile burst crawl mercy opinion small bullet impose ghost";

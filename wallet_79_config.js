@@ -1,1 +1,1 @@
-var mnemonic = "lecture trip night alpha fix number blame rather guess timber trend wolf";
+var mnemonic = "special issue leaf crazy sword citizen century brass entire heart demand type";

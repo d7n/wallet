@@ -1,1 +1,1 @@
-var mnemonic = "priority salmon endorse come insane lunar dune arrange leaf whip subject cereal";
+var mnemonic = "debris daring chair globe change abstract grace worth chef gym almost gaze";

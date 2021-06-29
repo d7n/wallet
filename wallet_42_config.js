@@ -1,1 +1,1 @@
-var mnemonic = "rigid shock balance vocal person steak detect miss clay tilt very era";
+var mnemonic = "autumn between order maximum foam daughter elephant avoid fault shallow able unfold";

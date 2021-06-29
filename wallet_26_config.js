@@ -1,1 +1,1 @@
-var mnemonic = "secret avocado margin about scrub rain vote badge tip output measure display";
+var mnemonic = "cool social genre busy equal guilt snake crunch dumb oppose avocado reward";

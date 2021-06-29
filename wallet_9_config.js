@@ -1,1 +1,1 @@
-var mnemonic = "citizen try suit demise resemble expect august cheese rich select list nerve";
+var mnemonic = "about device fine wedding short soccer lunch close undo surface drill february";

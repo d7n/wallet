@@ -1,1 +1,1 @@
-var mnemonic = "mandate merge parade decade govern illness abandon clip monster lecture merge cable";
+var mnemonic = "fitness voyage only paper squirrel suggest camp mind salt bomb nurse display";

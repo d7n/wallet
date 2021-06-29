@@ -1,1 +1,1 @@
-var mnemonic = "snake ripple praise romance student work wage nerve cancel cost orbit vivid";
+var mnemonic = "water earn oppose trouble torch churn cycle master marine index approve save";

@@ -1,1 +1,1 @@
-var mnemonic = "pull banana right maximum enable trial virus believe mouse depart exit silly";
+var mnemonic = "deputy target follow butter sauce neck need chunk trim kit because amateur";

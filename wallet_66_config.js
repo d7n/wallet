@@ -1,1 +1,1 @@
-var mnemonic = "arctic ecology two act print bomb vote provide clever teach way old";
+var mnemonic = "before athlete wait beef drama sugar popular swap awesome analyst tank offer";

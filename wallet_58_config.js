@@ -1,1 +1,1 @@
-var mnemonic = "ship girl depend shrug beef minor task service tuition lens spot harbor";
+var mnemonic = "solar load elephant label wreck hotel escape bike knife glance lecture prefer";

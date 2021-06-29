@@ -1,1 +1,1 @@
-var mnemonic = "whale donor huge high sand friend exhaust change prosper barely plastic stand";
+var mnemonic = "just space volcano dawn warfare math elephant program promote ski expand addict";

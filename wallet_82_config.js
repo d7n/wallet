@@ -1,1 +1,1 @@
-var mnemonic = "churn elite gift dry over jar hedgehog thought kingdom humor close dismiss";
+var mnemonic = "increase icon post cream garlic amazing fuel bridge supply hint damage forward";

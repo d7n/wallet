@@ -1,1 +1,1 @@
-var mnemonic = "help motion market film cruel saddle upon plate enrich day mobile goat";
+var mnemonic = "bulk orange polar motion chief symptom appear because wisdom hole asthma coil";

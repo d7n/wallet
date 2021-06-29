@@ -1,1 +1,1 @@
-var mnemonic = "ladder trip unit grain skull huge tragic unknown claw purpose veteran pact";
+var mnemonic = "ship lobster mesh praise nerve mask drip elevator potato gaze debris science";

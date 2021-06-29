@@ -1,1 +1,1 @@
-var mnemonic = "deliver breeze panda end muscle truth virus setup trust quality fitness close";
+var mnemonic = "depend brand noble butter jacket regular item clump crucial cloth phrase expire";

@@ -1,1 +1,1 @@
-var mnemonic = "foster winter reopen interest sugar foil december embark body wolf horse merit";
+var mnemonic = "warm buzz tent fat coach left broom crunch pass apart silk chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut few dutch vast foil illness crucial choice insect expire valve sister";
+var mnemonic = "wisdom talent salt practice sadness pair source trick viable great steel slush";

@@ -1,1 +1,1 @@
-var mnemonic = "into vote oval idea hero baby model romance gravity visa kitchen laptop";
+var mnemonic = "pony basic chair agree mean tornado spawn dolphin tail kiss elegant shiver";

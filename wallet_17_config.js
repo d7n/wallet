@@ -1,1 +1,1 @@
-var mnemonic = "panther open noise wedding hammer own angle dose stable airport fetch luggage";
+var mnemonic = "wagon ranch check typical final acid ask twenty amateur squeeze siren call";

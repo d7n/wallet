@@ -1,1 +1,1 @@
-var mnemonic = "hole bone please under always rule cabin strike exotic finish wrap verify";
+var mnemonic = "prison sadness employ track stock manual isolate gaze energy outdoor acoustic example";

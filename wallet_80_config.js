@@ -1,1 +1,1 @@
-var mnemonic = "fashion entry report decide beauty element document lunar desk account liquid cushion";
+var mnemonic = "opera kitchen salad wing rack boil win material soup lazy kitchen vague";

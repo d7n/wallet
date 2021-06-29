@@ -1,1 +1,1 @@
-var mnemonic = "flat coral win walnut design wedding defense afford dinosaur gather century hurdle";
+var mnemonic = "banner lunar make maximum open option chair aerobic burger hedgehog cook festival";

@@ -1,1 +1,1 @@
-var mnemonic = "example gym among material true job vital endless rug lava sword plunge";
+var mnemonic = "defense rigid faith shiver anxiety gesture brother scheme vault spray artist purse";

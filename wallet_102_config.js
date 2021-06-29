@@ -1,1 +1,1 @@
-var mnemonic = "tool wonder this knock fiscal opinion script bench senior alpha language bounce";
+var mnemonic = "ribbon web flip face film wreck obvious jazz either post industry detail";

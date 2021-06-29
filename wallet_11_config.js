@@ -1,1 +1,1 @@
-var mnemonic = "foam atom marble margin super naive use oven maximum stage heart amused";
+var mnemonic = "wife category script train crowd nice jazz energy refuse balance random direct";

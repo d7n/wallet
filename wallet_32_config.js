@@ -1,1 +1,1 @@
-var mnemonic = "galaxy hunt fox source hire main cotton render chunk mad announce razor";
+var mnemonic = "cinnamon math slam slush legend try black spare review quiz hub evil";

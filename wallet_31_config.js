@@ -1,1 +1,1 @@
-var mnemonic = "cluster antenna digital magnet pact bleak hidden ignore chapter toss coconut segment";
+var mnemonic = "hand abuse save frame artwork fruit reunion awake battle stuff night icon";

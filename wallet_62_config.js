@@ -1,1 +1,1 @@
-var mnemonic = "wheat dad odor reflect entire good injury zoo stand obvious language pluck";
+var mnemonic = "curtain tunnel elbow nephew outdoor aisle jacket response rail scene rely elbow";

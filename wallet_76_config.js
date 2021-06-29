@@ -1,1 +1,1 @@
-var mnemonic = "mimic dilemma dish labor then notable outside charge toy admit total sing";
+var mnemonic = "wing saddle royal predict when raven insect tunnel melt great embark eternal";

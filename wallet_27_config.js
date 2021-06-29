@@ -1,1 +1,1 @@
-var mnemonic = "bulk flag fame sudden recycle betray recall humble brown loan double stadium";
+var mnemonic = "grit renew rhythm robot eight theme hedgehog cake seven disagree tragic sight";

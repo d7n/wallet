@@ -1,1 +1,1 @@
-var mnemonic = "devote stove scrap same long fever view number ivory peace glove east";
+var mnemonic = "lawn baby immune arrive square pioneer broom country afford suit wet urge";

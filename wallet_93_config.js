@@ -1,1 +1,1 @@
-var mnemonic = "junk quantum napkin resource improve south video hood frost network alone ugly";
+var mnemonic = "torch issue trick reason talent bacon regular awful grape repeat mimic author";

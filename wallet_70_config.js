@@ -1,1 +1,1 @@
-var mnemonic = "embrace swamp become fence derive fix shy safe unaware charge surround again";
+var mnemonic = "glad rural divide eternal front pioneer social pepper aware pudding tomato walnut";

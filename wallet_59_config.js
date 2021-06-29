@@ -1,1 +1,1 @@
-var mnemonic = "dilemma collect crater ask nature basket concert slow assault oyster doll dress";
+var mnemonic = "prize head dust sketch shoe six abandon stadium flat luggage behind busy";

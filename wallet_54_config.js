@@ -1,1 +1,1 @@
-var mnemonic = "surge human crop suit muscle protect dutch much aware fiber crucial uncle";
+var mnemonic = "mule shine wrong rain evil spring normal club document echo sleep giraffe";

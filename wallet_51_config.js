@@ -1,1 +1,1 @@
-var mnemonic = "buyer magnet fever argue below thought anxiety syrup wrist hello news carry";
+var mnemonic = "parent armed uphold produce suggest ignore piece inner alien current scan marble";

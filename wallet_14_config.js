@@ -1,1 +1,1 @@
-var mnemonic = "defy steel report bar shoulder note symptom voice crater smoke praise daughter";
+var mnemonic = "math vivid will shaft face hundred depth design water vehicle harvest echo";

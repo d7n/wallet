@@ -1,1 +1,1 @@
-var mnemonic = "tribe indoor upper eager zebra such fit myself cloth air tissue clerk";
+var mnemonic = "cupboard join boat resist own barely despair supply anger winter faculty anchor";

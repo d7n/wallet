@@ -1,1 +1,1 @@
-var mnemonic = "always ordinary vibrant patch hawk canyon artist light design sorry boost one";
+var mnemonic = "hospital journey found column custom umbrella mask cannon vivid expose effort acid";

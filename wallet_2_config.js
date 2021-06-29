@@ -1,1 +1,1 @@
-var mnemonic = "elite goat that citizen review fence section letter half orchard oyster bamboo";
+var mnemonic = "fashion argue express winner dose claim aisle vast jealous slot bone twist";

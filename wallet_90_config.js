@@ -1,1 +1,1 @@
-var mnemonic = "legend acid reopen device wedding banana indoor song ritual silly wrestle slab";
+var mnemonic = "flock clever immune cabin weird protect jacket auto true rather anchor coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "text vague rifle abandon genuine label fatal object three rocket patrol sound";
+var mnemonic = "boost rebel toilet crew resemble ostrich excuse type pledge allow silk universe";

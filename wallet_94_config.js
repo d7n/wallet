@@ -1,1 +1,1 @@
-var mnemonic = "blood odor prevent sustain arm bamboo night list lawn runway genuine chalk";
+var mnemonic = "swear govern similar west umbrella diamond always ostrich predict crop call execute";

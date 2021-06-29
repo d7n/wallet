@@ -1,1 +1,1 @@
-var mnemonic = "success media chase east shiver segment average exhibit picnic degree under exhibit";
+var mnemonic = "arena author better cotton control outer execute tortoise alien sample phone food";

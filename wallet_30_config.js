@@ -1,1 +1,1 @@
-var mnemonic = "flock slam crater dinosaur laundry castle bright until trick filter daring goddess";
+var mnemonic = "supreme zebra pigeon sunset empower eager machine sing april violin huge unfair";

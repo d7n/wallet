@@ -1,1 +1,1 @@
-var mnemonic = "bubble round episode sweet pulp denial alter clog october high rule payment";
+var mnemonic = "gift ivory today beauty loan agent turn south grit tomorrow transfer goddess";

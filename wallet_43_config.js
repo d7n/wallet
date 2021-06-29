@@ -1,1 +1,1 @@
-var mnemonic = "give young art good luggage dutch forward scan fiction chaos that vague";
+var mnemonic = "churn bitter ready stamp only royal tooth double matrix step curtain together";

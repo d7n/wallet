@@ -1,1 +1,1 @@
-var mnemonic = "museum february risk cement adult typical please dumb swim swing vessel floor";
+var mnemonic = "glue absorb income salad lonely pattern trophy rib paper they patient horse";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk begin replace agree awkward cigar easy gesture genius fabric kit lamp";
+var mnemonic = "fish general rose minimum police double pattern clip crime swear tool inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "town inquiry interest rebel space drip scale dolphin file cage audit urban";
+var mnemonic = "saddle celery clerk level thank leave fun attract bird one tower erode";

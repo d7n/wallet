@@ -1,1 +1,1 @@
-var mnemonic = "time opera loud follow surprise buzz plug merge hill illegal morning story";
+var mnemonic = "donkey walnut napkin dumb depend adjust spatial clock image chest ask engage";

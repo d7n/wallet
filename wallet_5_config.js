@@ -1,1 +1,1 @@
-var mnemonic = "patch voice unlock peanut deer start define boat credit weather teach burst";
+var mnemonic = "safe lock pet energy veteran flip beach bike royal plug lake before";

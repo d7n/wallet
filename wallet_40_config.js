@@ -1,1 +1,1 @@
-var mnemonic = "body finger tiger word indicate aware pudding nature drill leopard lyrics divert";
+var mnemonic = "blouse paddle canal pink chase wagon trash wise casual wing dawn review";

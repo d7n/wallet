@@ -1,1 +1,1 @@
-var mnemonic = "wasp become bachelor glare warfare raise crop motion doll become train main";
+var mnemonic = "annual myth output coral velvet sign feature odor royal speak lion borrow";

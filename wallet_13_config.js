@@ -1,1 +1,1 @@
-var mnemonic = "chef prison bulk taxi page soft hockey shadow guitar actual whale regret";
+var mnemonic = "barely legend bird siren current milk muscle hawk divert pipe avoid game";

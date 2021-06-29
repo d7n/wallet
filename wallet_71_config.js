@@ -1,1 +1,1 @@
-var mnemonic = "transfer whisper flip post calm school cheese dismiss myself portion utility fluid";
+var mnemonic = "lake hair behave enlist web scorpion slide huge kiwi inmate surround electric";

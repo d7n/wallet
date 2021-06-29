@@ -1,1 +1,1 @@
-var mnemonic = "ghost pink game treat brother keen this two wheel tail abstract banner";
+var mnemonic = "job burst verb position peace flavor snow kiss oil turtle pet nest";

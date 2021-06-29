@@ -1,1 +1,1 @@
-var mnemonic = "myself universe glow seven supply never orchard mammal enhance radar already blanket";
+var mnemonic = "need divide matter mixed bullet song focus lady number weasel comfort version";

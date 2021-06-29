@@ -1,1 +1,1 @@
-var mnemonic = "absurd left size snake world cinnamon supreme print near skate rookie fox";
+var mnemonic = "normal salute unveil useless wet volcano orient slice wave soccer enforce exotic";

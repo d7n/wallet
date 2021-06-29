@@ -1,1 +1,1 @@
-var mnemonic = "finger indicate affair ten width orange grant throw between fold behind banana";
+var mnemonic = "panther diagram hope ethics execute pencil nut brush thought gallery hollow sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "seat essay bunker torch allow drink immense vicious damp twelve high cabin";
+var mnemonic = "art favorite plastic demise kiss company mirror need silent afford affair public";

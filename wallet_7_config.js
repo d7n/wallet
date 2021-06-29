@@ -1,1 +1,1 @@
-var mnemonic = "duty pistol glare defy decline oil merit toast grunt then hill blade";
+var mnemonic = "estate position doll demise mention margin avoid skin today faint power insane";

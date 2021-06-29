@@ -1,1 +1,1 @@
-var mnemonic = "observe ritual vault fork wrestle solar enhance twist away axis midnight grape";
+var mnemonic = "erosion awake crazy vital wrestle recall egg script apart foil relax wise";

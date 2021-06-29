@@ -1,1 +1,1 @@
-var mnemonic = "announce pear buffalo demise infant trust consider ticket hidden tide other orchard";
+var mnemonic = "purchase appear river hundred retire thank topic gain february spawn order another";

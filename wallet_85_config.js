@@ -1,1 +1,1 @@
-var mnemonic = "paper awesome ladder juice lend fringe fetch drama lunch pair auto output";
+var mnemonic = "empower curtain rug wild enter merge dish skill lonely copper kiwi monster";

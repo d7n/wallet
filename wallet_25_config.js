@@ -1,1 +1,1 @@
-var mnemonic = "cattle steak deer slam faint bicycle student eye rule entry boost sign";
+var mnemonic = "actress wheel assume nest veteran cram torch series brave pepper fringe under";

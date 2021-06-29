@@ -1,1 +1,1 @@
-var mnemonic = "render adapt cancel tonight process spring offer deny globe hurry remain outer";
+var mnemonic = "icon theme ignore recipe crucial axis already novel reject pluck chief sell";

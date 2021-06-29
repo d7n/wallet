@@ -1,1 +1,1 @@
-var mnemonic = "cute tank position friend birth identify junior flee cloud involve normal medal";
+var mnemonic = "sort furnace jazz bargain mosquito curtain poet soap gain mad quit quiz";

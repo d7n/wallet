@@ -1,1 +1,1 @@
-var mnemonic = "reason artist suspect glimpse final biology drum wave exhibit liquid ignore mandate";
+var mnemonic = "profit glide poem vague retire hollow carbon noble sauce art they case";

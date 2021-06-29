@@ -1,1 +1,1 @@
-var mnemonic = "snow misery glimpse style range asset garbage person bundle scare print chest";
+var mnemonic = "click float magnet alcohol figure steak casual response cook couple attend style";

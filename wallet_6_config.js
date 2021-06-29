@@ -1,1 +1,1 @@
-var mnemonic = "gown virtual clog piano onion tooth meadow canoe dose tongue elite this";
+var mnemonic = "track skill sock differ hotel slot peace pioneer ski butter broken theory";

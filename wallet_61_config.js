@@ -1,1 +1,1 @@
-var mnemonic = "kid burden slab harsh illegal rose punch siege example sugar ready cart";
+var mnemonic = "weird pencil earth fantasy general side violin oxygen fabric oval view dust";

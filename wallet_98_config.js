@@ -1,1 +1,1 @@
-var mnemonic = "upon hobby awkward program private frequent wall deputy spy scrub swarm shift";
+var mnemonic = "flag cherry drama enact crucial lounge sand weekend soldier rifle artwork such";

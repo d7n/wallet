@@ -1,1 +1,1 @@
-var mnemonic = "bus just differ unfold strike report quantum margin club task treat hobby";
+var mnemonic = "coach muffin boss stuff wolf pepper come grace stone ice finger reason";

@@ -1,1 +1,1 @@
-var mnemonic = "guide salt view disorder differ leopard average program print sick over short";
+var mnemonic = "reward beauty same warrior dizzy foam easily caught act produce stable spread";

@@ -1,1 +1,1 @@
-var mnemonic = "present palace knee aerobic salad small power embrace husband guilt impulse disease";
+var mnemonic = "sing gesture lesson effort will toward slice brown own initial brief mass";

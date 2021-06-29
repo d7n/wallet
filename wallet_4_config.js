@@ -1,1 +1,1 @@
-var mnemonic = "gaze aspect spider shop onion trim observe cereal improve antenna fatal despair";
+var mnemonic = "leopard decide rabbit autumn zebra allow guard attitude moment water cube blade";

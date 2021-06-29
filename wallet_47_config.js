@@ -1,1 +1,1 @@
-var mnemonic = "advice decade salad jungle below palm office tribe step choose caution engine";
+var mnemonic = "fat radar abstract broken eight elder mesh draft junior badge wrestle club";

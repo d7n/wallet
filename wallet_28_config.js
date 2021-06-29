@@ -1,1 +1,1 @@
-var mnemonic = "bronze food parrot era fall twin mask grace glue alpha history frozen";
+var mnemonic = "panel smile person radio purse abuse chair hollow ancient absent wrap service";

@@ -1,1 +1,1 @@
-var mnemonic = "foam bulk orphan clean orient confirm escape account result burger disease expand";
+var mnemonic = "limb stuff column rally family issue nominee kiss hammer hair treat actual";

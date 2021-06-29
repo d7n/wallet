@@ -1,1 +1,1 @@
-var mnemonic = "mountain barely shine theme business size agent memory rescue search master rain";
+var mnemonic = "worth treat banner type garden guard forest raccoon vault old scissors hundred";

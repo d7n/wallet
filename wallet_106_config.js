@@ -1,1 +1,1 @@
-var mnemonic = "hub mouse ostrich bubble vivid round pattern patrol entire position antique all";
+var mnemonic = "cluster resource machine mobile demise charge mixture talent distance odor make random";

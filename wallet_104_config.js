@@ -1,1 +1,1 @@
-var mnemonic = "drink kiss assist stand cost polar social useful hat joke toe reflect";
+var mnemonic = "cave destroy member whip have dish weather ice board timber wealth mirror";

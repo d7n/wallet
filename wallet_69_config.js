@@ -1,1 +1,1 @@
-var mnemonic = "walk picnic idea drink similar census army want orchard wheel noise beach";
+var mnemonic = "endorse baby please lobster absurd popular pledge gift primary later series blade";
