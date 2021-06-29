@@ -1,1 +1,1 @@
-var mnemonic = "cable install churn zoo exile clog stage trap faculty innocent river search";
+var mnemonic = "outdoor rail visa envelope blanket robot enemy entire dice human worth scrub";

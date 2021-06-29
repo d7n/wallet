@@ -1,1 +1,1 @@
-var mnemonic = "alcohol avoid nominee demise stand great maple crane dragon theme upset episode";
+var mnemonic = "forum bomb bench remind imitate adjust advice notice foam analyst trick steel";

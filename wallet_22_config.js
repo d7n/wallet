@@ -1,1 +1,1 @@
-var mnemonic = "clerk real oppose ball girl cigar glide maximum demand tunnel rain puzzle";
+var mnemonic = "garbage virus sniff swear allow bus attitude huge meat science moon ridge";

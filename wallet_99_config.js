@@ -1,1 +1,1 @@
-var mnemonic = "argue horn morning zebra clock document wear rude ripple wide broken december";
+var mnemonic = "scissors sight input seminar keen stem chimney mirror bicycle unusual mutual zebra";

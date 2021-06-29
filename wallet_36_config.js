@@ -1,1 +1,1 @@
-var mnemonic = "faith category mirror they blossom vague unveil story chunk lock twin ranch";
+var mnemonic = "distance excess home guilt clap unfold hope bronze weekend lava tooth fabric";

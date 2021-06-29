@@ -1,1 +1,1 @@
-var mnemonic = "arctic insane security figure moral chat suffer appear strategy sugar advice keep";
+var mnemonic = "patch float coyote two asset cook staff shoulder fun mystery later strong";

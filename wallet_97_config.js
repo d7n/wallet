@@ -1,1 +1,1 @@
-var mnemonic = "gap morning speak wall supply coin rubber amount harbor hat improve model";
+var mnemonic = "enter syrup cook impact repeat account baby despair climb usual eagle tube";

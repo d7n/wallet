@@ -1,1 +1,1 @@
-var mnemonic = "adapt craft purity wine virtual process wisdom copy large office embody desert";
+var mnemonic = "rely expand eagle light drum twice bounce jaguar joy series express helmet";

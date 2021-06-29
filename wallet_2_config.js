@@ -1,1 +1,1 @@
-var mnemonic = "meadow prevent uncover fragile half soda repair report muffin divorce motor ivory";
+var mnemonic = "bamboo balance spawn oxygen voice day odor attack eternal raccoon rhythm garden";

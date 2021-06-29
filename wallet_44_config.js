@@ -1,1 +1,1 @@
-var mnemonic = "burst enough lesson connect width oil simple giant swap limit disease today";
+var mnemonic = "mixture wide pledge trust vast mind absent rabbit step myself thunder fault";

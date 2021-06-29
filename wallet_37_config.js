@@ -1,1 +1,1 @@
-var mnemonic = "situate entry riot custom oil impose basic country error render palm universe";
+var mnemonic = "lesson spell mistake amused page afraid fury donkey question select derive insane";

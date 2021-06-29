@@ -1,1 +1,1 @@
-var mnemonic = "wrist canoe hour bridge clown glance strong dilemma state file share vendor";
+var mnemonic = "over skate proof coast normal together erosion language region pill spend clarify";

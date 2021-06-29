@@ -1,1 +1,1 @@
-var mnemonic = "ride hollow hotel edit define swap shaft sing kidney choice little motion";
+var mnemonic = "cool crucial piano isolate bird learn ability deal picnic reflect truck treat";

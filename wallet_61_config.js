@@ -1,1 +1,1 @@
-var mnemonic = "smooth risk question install artefact travel suspect adult wonder stomach valve fly";
+var mnemonic = "owner assault thunder spare switch bus window daughter evolve hen travel best";

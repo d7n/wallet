@@ -1,1 +1,1 @@
-var mnemonic = "tree pledge online breeze destroy rocket slot crash prevent art shadow coast";
+var mnemonic = "couch together once polar strong farm equip universe mask easy capable fatal";

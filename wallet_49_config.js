@@ -1,1 +1,1 @@
-var mnemonic = "suit excuse essence tube champion general blame lecture power apple silly friend";
+var mnemonic = "build sample cable similar prevent burger slice grab idea common labor distance";

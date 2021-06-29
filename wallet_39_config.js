@@ -1,1 +1,1 @@
-var mnemonic = "carpet output warrior example ski robot indoor wrist sheriff vacuum duty merge";
+var mnemonic = "original guide shadow best seek orbit utility lonely lunch magic hurt salad";

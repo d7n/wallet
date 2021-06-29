@@ -1,1 +1,1 @@
-var mnemonic = "argue rural oil brother fantasy ugly spring glad route rocket club delay";
+var mnemonic = "argue velvet giraffe relief tumble bacon west replace stove innocent cloud siren";

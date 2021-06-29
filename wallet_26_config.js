@@ -1,1 +1,1 @@
-var mnemonic = "develop armor balance violin delay noble soccer idle pattern dynamic patient dose";
+var mnemonic = "when color pride busy attitude car there rhythm double accuse fun portion";

@@ -1,1 +1,1 @@
-var mnemonic = "blade walk destroy identify load rude belt matrix loan sponsor open body";
+var mnemonic = "drive melt inside stomach sponsor denial liquid circle mule slice alert tent";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet force wash run april seminar earth local memory tank slam spin";
+var mnemonic = "horse library lady normal swamp engine practice business potato mail tonight hope";

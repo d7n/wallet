@@ -1,1 +1,1 @@
-var mnemonic = "blossom churn mystery ladder chef remind umbrella female since pizza fatigue despair";
+var mnemonic = "seminar surge bitter candy pitch civil either frost main knee soul exhaust";

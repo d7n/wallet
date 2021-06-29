@@ -1,1 +1,1 @@
-var mnemonic = "pink milk beauty radio current hybrid minor motion direct depth kingdom shrimp";
+var mnemonic = "property broom type success cheese isolate column series recycle crush hobby arrange";

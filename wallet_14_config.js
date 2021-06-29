@@ -1,1 +1,1 @@
-var mnemonic = "genius north twelve sand cheese imitate snack zero winner control forget place";
+var mnemonic = "bag keen become captain chimney awful attack wave invite brass uncle youth";

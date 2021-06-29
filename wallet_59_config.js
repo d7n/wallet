@@ -1,1 +1,1 @@
-var mnemonic = "ripple stem hamster exhibit churn wool moon begin neither purse badge boss";
+var mnemonic = "service cover pipe inmate train damp two history marble artefact blanket beach";

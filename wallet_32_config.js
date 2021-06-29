@@ -1,1 +1,1 @@
-var mnemonic = "spray have gain ski door endless general balance brush review spirit choose";
+var mnemonic = "panther lottery regret over side option poverty learn major pride hospital evil";

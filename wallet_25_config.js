@@ -1,1 +1,1 @@
-var mnemonic = "risk car enact diagram cram slogan gun call festival knock curve december";
+var mnemonic = "plug catalog picnic six card detail curtain catalog toast squirrel during bounce";

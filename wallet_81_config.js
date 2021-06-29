@@ -1,1 +1,1 @@
-var mnemonic = "cloud negative carpet shift patrol find glory patient green service refuse viable";
+var mnemonic = "shrimp illness tool verb lawn judge ring drip ring derive exclude silk";

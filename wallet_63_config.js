@@ -1,1 +1,1 @@
-var mnemonic = "sense stool leader image hedgehog exhaust three waste shoe swift soda wave";
+var mnemonic = "invite fringe sniff path private poverty actual spot elegant negative scene flight";

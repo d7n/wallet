@@ -1,1 +1,1 @@
-var mnemonic = "prefer media cushion absorb twin behind manual dinner already erode wasp truck";
+var mnemonic = "frequent nurse siren shrimp decide royal clutch tackle crane ensure piece memory";

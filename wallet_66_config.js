@@ -1,1 +1,1 @@
-var mnemonic = "jar shaft dust remove phone permit powder quantum debris dune enough save";
+var mnemonic = "wing label fringe cram home perfect select dwarf hip reveal ghost mutual";

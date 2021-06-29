@@ -1,1 +1,1 @@
-var mnemonic = "comic one country cycle labor size release dream clutch shiver myself immune";
+var mnemonic = "cost network weapon rich pumpkin scrub prison smoke make bird company rib";

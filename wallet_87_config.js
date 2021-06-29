@@ -1,1 +1,1 @@
-var mnemonic = "obtain share current vote melt list badge know loyal meadow cost riot";
+var mnemonic = "glance purity bounce donate female bicycle elegant observe tuition orient tide sheriff";

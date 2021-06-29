@@ -1,1 +1,1 @@
-var mnemonic = "dentist point hen only ball idea sure bargain gospel bundle farm curve";
+var mnemonic = "level permit pottery reason manual month fun tool worth admit jump arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "target sword violin opinion acoustic urban tissue leopard pear column salad spare";
+var mnemonic = "mass change average truck fossil pupil they snow tornado boost suit layer";

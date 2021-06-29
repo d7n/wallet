@@ -1,1 +1,1 @@
-var mnemonic = "skin six parrot inch merit half refuse suggest satoshi offer danger cactus";
+var mnemonic = "embrace sauce fiscal vocal creek asset tribe frost income adjust warrior truth";

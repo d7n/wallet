@@ -1,1 +1,1 @@
-var mnemonic = "bulk live dinosaur among off recipe man pioneer whale glove solution grant";
+var mnemonic = "response hidden gym quote fortune side sport error shoot dinner crash column";

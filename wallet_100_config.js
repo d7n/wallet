@@ -1,1 +1,1 @@
-var mnemonic = "credit setup share route paddle various forward inner lizard capable hover kid";
+var mnemonic = "drastic siren order attract bulk keen frame paddle regret similar hen aunt";

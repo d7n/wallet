@@ -1,1 +1,1 @@
-var mnemonic = "tongue require praise casino local easily dove various warrior merit seed omit";
+var mnemonic = "hedgehog endorse tag next school visit bargain acquire convince retire fabric motion";

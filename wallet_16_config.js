@@ -1,1 +1,1 @@
-var mnemonic = "load absent attitude wing banner include print ribbon cargo syrup success ask";
+var mnemonic = "little diary target opera deputy devote sell pistol pigeon lottery fun carbon";

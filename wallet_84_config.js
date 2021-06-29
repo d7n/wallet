@@ -1,1 +1,1 @@
-var mnemonic = "oil garden walnut burst cement retreat govern film work pen slush piece";
+var mnemonic = "champion there they soap express force absorb rural catalog clever merit gentle";

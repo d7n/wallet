@@ -1,1 +1,1 @@
-var mnemonic = "equal floor link tray room express report local work swarm jeans purchase";
+var mnemonic = "noise time admit discover feature stomach cross zone dumb stuff ugly paddle";

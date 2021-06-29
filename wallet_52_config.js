@@ -1,1 +1,1 @@
-var mnemonic = "suit carbon spot polar rigid century rabbit extend road pretty alert fox";
+var mnemonic = "spoon doctor own race blood unlock mistake fee yard twenty cross nothing";

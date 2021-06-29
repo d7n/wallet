@@ -1,1 +1,1 @@
-var mnemonic = "fatigue fall urban puppy exhibit north metal oven one bacon eight liberty";
+var mnemonic = "kangaroo modify clarify nasty parade raven flat drift audit flat remove lawsuit";

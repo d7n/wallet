@@ -1,1 +1,1 @@
-var mnemonic = "flip bullet average light upper play sure assault actress lecture pool digital";
+var mnemonic = "talent place eager install include rack defy castle scatter west medal loan";

@@ -1,1 +1,1 @@
-var mnemonic = "motion crouch juice hobby ostrich metal tobacco dune salute shoulder result priority";
+var mnemonic = "okay phrase year win sunny curtain unable elbow various rabbit rocket balance";

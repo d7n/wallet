@@ -1,1 +1,1 @@
-var mnemonic = "carbon armed local tape vacuum parent task note tape burger expire begin";
+var mnemonic = "title fish mirror argue erupt reunion universe pride wing business menu bracket";

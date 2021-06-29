@@ -1,1 +1,1 @@
-var mnemonic = "toss danger caught family shine mimic panel rent reform bless cancel direct";
+var mnemonic = "theme trade indicate small inform wife race brand scare garlic mansion observe";

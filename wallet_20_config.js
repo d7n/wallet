@@ -1,1 +1,1 @@
-var mnemonic = "roast rice roof stone silk ball reunion race elder brief remind lesson";
+var mnemonic = "matter profit hole learn pen vehicle suggest acid kiss expect lion route";

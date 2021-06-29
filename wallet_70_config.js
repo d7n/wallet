@@ -1,1 +1,1 @@
-var mnemonic = "evoke silent help birth produce brief leisure where brain sentence end hover";
+var mnemonic = "tired tilt quality unique earth pear before ill twin wife quit kitchen";

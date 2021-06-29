@@ -1,1 +1,1 @@
-var mnemonic = "couch drift few lottery now enjoy afford august rice bar diagram ice";
+var mnemonic = "spirit place category trim champion brick report major kidney sadness match answer";

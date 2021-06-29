@@ -1,1 +1,1 @@
-var mnemonic = "clean maze begin outer camp uncover country mango search stadium test strategy";
+var mnemonic = "roof draft door surge grow course into title asthma frost inflict sleep";

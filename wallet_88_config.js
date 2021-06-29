@@ -1,1 +1,1 @@
-var mnemonic = "protect connect nuclear loyal smooth accident legend claim eagle cube style kit";
+var mnemonic = "wise section inject drop list fatigue south people absorb sentence settle identify";

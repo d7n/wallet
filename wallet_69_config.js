@@ -1,1 +1,1 @@
-var mnemonic = "vapor funny artefact notable wrong gossip fantasy rabbit floor measure absorb debris";
+var mnemonic = "benefit crash genius concert hamster elbow ankle inhale now pottery raise they";

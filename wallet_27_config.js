@@ -1,1 +1,1 @@
-var mnemonic = "donate bomb ring two romance say umbrella joke craft pitch board lion";
+var mnemonic = "april mountain youth notable wall song reduce pact arena frequent just mad";

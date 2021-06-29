@@ -1,1 +1,1 @@
-var mnemonic = "alert shy into board explain faith analyst snack response rain key column";
+var mnemonic = "heavy describe screen flip phone nuclear kiwi donor awesome learn differ castle";

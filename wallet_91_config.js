@@ -1,1 +1,1 @@
-var mnemonic = "ring ethics tragic maple swing lock physical stairs scene wreck leopard glare";
+var mnemonic = "dynamic goat brisk emerge suggest garbage describe scene sting journey skirt crystal";

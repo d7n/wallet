@@ -1,1 +1,1 @@
-var mnemonic = "pottery motion mother cry glass monster require craft sentence brand tomorrow raw";
+var mnemonic = "estate defy invest fringe wink bunker cherry coach prefer mystery office cost";

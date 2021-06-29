@@ -1,1 +1,1 @@
-var mnemonic = "crack crisp boat style cross country post art educate sniff stone two";
+var mnemonic = "giraffe deal canal theme sorry resist man pottery behave pattern jeans proof";

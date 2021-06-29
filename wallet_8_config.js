@@ -1,1 +1,1 @@
-var mnemonic = "minute left next ridge vault limit flip income maple draw impulse myself";
+var mnemonic = "saddle goat humor turkey person worry swallow across account cliff bomb actress";

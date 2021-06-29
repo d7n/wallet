@@ -1,1 +1,1 @@
-var mnemonic = "quarter paddle egg visa charge country around donkey tag wall craft enforce";
+var mnemonic = "secret mask border cliff satisfy north wrong term naive nose advice win";

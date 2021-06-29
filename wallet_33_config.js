@@ -1,1 +1,1 @@
-var mnemonic = "please absurd grace scrub sausage elite run basket afford garlic buzz mix";
+var mnemonic = "van yellow cube trip shoulder just female point rhythm plastic okay song";

@@ -1,1 +1,1 @@
-var mnemonic = "useful venue raw rate clever duty hover clog later fame box index";
+var mnemonic = "admit dragon slush jungle rather feed erupt office twin design carbon dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "answer sad buzz recall enable circle second seek false toast night soon";
+var mnemonic = "pattern coconut awesome economy camera task reduce vote bind excess gorilla dial";

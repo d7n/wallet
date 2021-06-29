@@ -1,1 +1,1 @@
-var mnemonic = "buzz vote vivid input result model input price wing announce tone horse";
+var mnemonic = "salon explain beach perfect guard wrong offer when hamster fury toss debate";

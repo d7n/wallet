@@ -1,1 +1,1 @@
-var mnemonic = "wasp holiday arena course ordinary girl pill rocket orphan response original crush";
+var mnemonic = "tone tattoo fatigue green method ginger mimic travel october among garden history";

@@ -1,1 +1,1 @@
-var mnemonic = "nation nuclear travel ski vast toss garment arrive arch fish dial author";
+var mnemonic = "reveal jar dash van scissors father humor case maid radio junk someone";

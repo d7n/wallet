@@ -1,1 +1,1 @@
-var mnemonic = "loan host denial crash fashion monster youth liar uncover disease icon angle";
+var mnemonic = "aware alcohol erupt soft put curve casino rug chase obtain later little";

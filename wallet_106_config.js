@@ -1,1 +1,1 @@
-var mnemonic = "cake stone floor drop fly couch parrot sting elephant rabbit cliff swap";
+var mnemonic = "impose vessel aspect useful hedgehog picture later style ride ten spare dizzy";

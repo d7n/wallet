@@ -1,1 +1,1 @@
-var mnemonic = "transfer hat over relief village drink harsh discover taste park urban model";
+var mnemonic = "never twelve cube gorilla such hawk penalty awkward emotion few chuckle coconut";

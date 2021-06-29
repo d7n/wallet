@@ -1,1 +1,1 @@
-var mnemonic = "crystal lamp ordinary stairs genre music settle enact action hunt field above";
+var mnemonic = "lamp calm manual dumb clip eager pride clarify fee media jealous aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "toss flavor october monkey sister other mammal kind ramp inherit example heart";
+var mnemonic = "endless inquiry disease sketch explain mosquito bronze they gown fit galaxy visa";

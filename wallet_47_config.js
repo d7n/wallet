@@ -1,1 +1,1 @@
-var mnemonic = "episode announce ball drink tank scatter inmate olive valley news render rose";
+var mnemonic = "weasel poem hard anxiety vote expire oxygen off faint demise early fix";

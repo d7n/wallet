@@ -1,1 +1,1 @@
-var mnemonic = "wonder agree denial father urban monitor bacon small ocean face thing impulse";
+var mnemonic = "obey wear rhythm panic buffalo age another cruel retire wolf inside peanut";

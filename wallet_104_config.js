@@ -1,1 +1,1 @@
-var mnemonic = "shell honey arrange silent elephant ethics thrive pause pulse entire wish enlist";
+var mnemonic = "caught dignity ranch income surprise unit two piano rubber fork report income";

@@ -1,1 +1,1 @@
-var mnemonic = "garage change plunge liberty pioneer eternal guitar couple accuse cry merge cable";
+var mnemonic = "repeat fish smoke cave absent father scene scale between cheese movie open";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict mutual palm stock senior purse where blind profit eyebrow strategy dad";
+var mnemonic = "screen myself alter copy horse powder turkey purse post weather bamboo ship";

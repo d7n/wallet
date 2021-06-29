@@ -1,1 +1,1 @@
-var mnemonic = "luxury sport record talent kidney taxi earn spoil stage gaze liquid grocery";
+var mnemonic = "depend step desk merit harbor gap lake theme river grass when various";

@@ -1,1 +1,1 @@
-var mnemonic = "expect travel term certain move used learn whisper castle earth nature promote";
+var mnemonic = "silly million pipe deal silk earn sister fine settle armor comic armor";

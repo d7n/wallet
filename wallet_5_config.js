@@ -1,1 +1,1 @@
-var mnemonic = "tag world two match loan pupil choice trigger sock good struggle sample";
+var mnemonic = "ordinary never scrub giraffe dream law swamp suggest online stadium voyage obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna magnet dutch suggest duck adjust asthma stomach curve fortune volcano fancy";
+var mnemonic = "nice text floor dismiss exact iron trade decide cabbage siege tide outside";

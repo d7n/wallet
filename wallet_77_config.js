@@ -1,1 +1,1 @@
-var mnemonic = "curtain section ethics powder taxi regular tower universe tool heart hand pigeon";
+var mnemonic = "pull must exit uniform surround budget race anxiety gather syrup rubber chapter";

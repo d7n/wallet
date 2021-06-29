@@ -1,1 +1,1 @@
-var mnemonic = "never dinosaur confirm language example absurd tool fossil man equip letter lobster";
+var mnemonic = "hire echo raise smile alien poverty popular brief field idea little defense";

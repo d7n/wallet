@@ -1,1 +1,1 @@
-var mnemonic = "business elephant cotton distance grace canal warm bar broccoli stereo forum dinner";
+var mnemonic = "tortoise hub crack near help raven high fever plug guard extend match";

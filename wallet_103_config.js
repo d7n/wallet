@@ -1,1 +1,1 @@
-var mnemonic = "fringe skate steak despair zero try seat entry arctic picnic fun help";
+var mnemonic = "same only minor next bounce moment auto draw prosper exchange fence caution";

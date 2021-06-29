@@ -1,1 +1,1 @@
-var mnemonic = "tumble ramp anxiety error cost address slow connect equal scrap what magnet";
+var mnemonic = "begin since tooth census artefact toss post claim legal rice slim spirit";

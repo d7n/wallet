@@ -1,1 +1,1 @@
-var mnemonic = "elephant mother roast resource turkey joy wash faint hammer depth pool act";
+var mnemonic = "banana walnut alone hat wash elite response fat measure buddy slab wave";

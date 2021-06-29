@@ -1,1 +1,1 @@
-var mnemonic = "junk peasant any panel dutch axis ability actual nut army setup basic";
+var mnemonic = "exercise case ladder midnight warrior swallow leopard fatal clever pelican sweet gym";

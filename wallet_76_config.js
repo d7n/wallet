@@ -1,1 +1,1 @@
-var mnemonic = "practice sing dove drill manual rookie olympic arrow blood uphold rose draw";
+var mnemonic = "undo ankle spot innocent drip van turn lizard swap rhythm act welcome";

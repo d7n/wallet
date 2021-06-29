@@ -1,1 +1,1 @@
-var mnemonic = "state wine stuff climb act mix reject solar mimic wire sail soldier";
+var mnemonic = "chalk weasel cherry cry quiz high spend enforce collect play bubble umbrella";

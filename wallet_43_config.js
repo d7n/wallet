@@ -1,1 +1,1 @@
-var mnemonic = "naive century squeeze pipe vibrant betray unit valve print electric visa dwarf";
+var mnemonic = "obtain gold disorder rhythm treat romance roof inner rate relief such mountain";

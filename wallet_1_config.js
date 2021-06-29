@@ -1,1 +1,1 @@
-var mnemonic = "harvest gap share galaxy oven snow start depend pond twenty table regular";
+var mnemonic = "forum three nurse remain motion convince capable coin mass sad armor know";
