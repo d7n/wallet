@@ -1,1 +1,1 @@
-var mnemonic = "visa eager wise hunt upon chunk mask club term ridge ordinary forest";
+var mnemonic = "carbon abuse quit vendor lift ship need join net review cake apology";

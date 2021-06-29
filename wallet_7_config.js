@@ -1,1 +1,1 @@
-var mnemonic = "opera swamp audit chef crane glare camp priority unveil indicate kid nephew";
+var mnemonic = "tank notable round liar come design exit time style spell tank torch";

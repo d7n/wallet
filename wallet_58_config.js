@@ -1,1 +1,1 @@
-var mnemonic = "rescue notable sister celery frost stereo aim such miss make before spoon";
+var mnemonic = "fever radar usual ceiling surface design wide baby must lady expire output";

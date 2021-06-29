@@ -1,1 +1,1 @@
-var mnemonic = "final wage hockey country miss detail follow tired scrap giant truck until";
+var mnemonic = "client cause girl candy chief illness width dirt violin legend beach column";

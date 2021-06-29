@@ -1,1 +1,1 @@
-var mnemonic = "juice matter arm unknown heart city chuckle vague warfare assault march decrease";
+var mnemonic = "mention lava lawn duck pave wing ramp thumb exclude echo peace salute";

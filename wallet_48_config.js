@@ -1,1 +1,1 @@
-var mnemonic = "ancient during ability pause night dentist dizzy arena panel vote between wood";
+var mnemonic = "harbor fiction rhythm anchor media sphere super piece exit eight bitter base";

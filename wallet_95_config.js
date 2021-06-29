@@ -1,1 +1,1 @@
-var mnemonic = "relax ozone truly diesel relax vivid session supply banana ranch promote seek";
+var mnemonic = "picnic castle person maximum runway cloth topple float reject dinner tell country";

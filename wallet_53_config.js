@@ -1,1 +1,1 @@
-var mnemonic = "ski obey silly clarify public push smile romance control soft upper grocery";
+var mnemonic = "express among visa uniform pledge skate cradle two large remove leg behind";

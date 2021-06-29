@@ -1,1 +1,1 @@
-var mnemonic = "short battle tourist maid assist tackle element pull artwork blanket camera simple";
+var mnemonic = "keen sock arm public marble swift join speed engine donor rifle below";

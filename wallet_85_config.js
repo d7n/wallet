@@ -1,1 +1,1 @@
-var mnemonic = "merit notable position enforce abuse hip lunch sand crop direct oval rather";
+var mnemonic = "excess cable repeat author hurt tilt pride unit furnace brass spread winner";

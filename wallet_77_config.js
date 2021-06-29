@@ -1,1 +1,1 @@
-var mnemonic = "plunge alter option warm armor expect attitude strike until post near cram";
+var mnemonic = "select hold myth item diamond shock rather cash forward mention damage evil";

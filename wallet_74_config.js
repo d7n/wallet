@@ -1,1 +1,1 @@
-var mnemonic = "birth fresh unit brave fitness mammal chunk uncover cattle woman into rack";
+var mnemonic = "latin burger long dial park detail fuel crunch scatter promote chat life";

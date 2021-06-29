@@ -1,1 +1,1 @@
-var mnemonic = "rubber exclude coil skirt glove bonus volume brush giggle drill must memory";
+var mnemonic = "come acoustic equal dynamic flush child wage canal almost used risk grace";

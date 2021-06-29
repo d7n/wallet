@@ -1,1 +1,1 @@
-var mnemonic = "same faculty nature sick comic clap solar hollow culture envelope rookie camp";
+var mnemonic = "soup save summer valve farm aim document head move hybrid stumble success";

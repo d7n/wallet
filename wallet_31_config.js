@@ -1,1 +1,1 @@
-var mnemonic = "learn palm sea sweet unfair explain mention unlock mixed cause ball network";
+var mnemonic = "goat depend inflict drum sell math derive burger provide method ensure bar";

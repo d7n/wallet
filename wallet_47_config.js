@@ -1,1 +1,1 @@
-var mnemonic = "prison tooth element suggest ancient current hub omit inquiry afraid alpha genre";
+var mnemonic = "middle series lazy immune have genre average carry blood forget rifle myth";

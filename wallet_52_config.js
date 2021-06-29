@@ -1,1 +1,1 @@
-var mnemonic = "quiz benefit air blur absorb common excite shrug burger route reward shine";
+var mnemonic = "blouse blouse alarm crunch border cotton same fold viable wire ripple have";

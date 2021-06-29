@@ -1,1 +1,1 @@
-var mnemonic = "hunt major upper slot hair fiscal season lemon kick bottom inner outside";
+var mnemonic = "brown divide drink exclude floor rhythm junk faith science giant december truly";

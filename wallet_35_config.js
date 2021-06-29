@@ -1,1 +1,1 @@
-var mnemonic = "keep nothing nasty tissue regret buddy party museum before garden soccer differ";
+var mnemonic = "try snack clean suit soup soul leave photo chicken gown conduct still";

@@ -1,1 +1,1 @@
-var mnemonic = "life leaf clutch drastic year eight column avoid system angry fitness above";
+var mnemonic = "term vault father wage still shell suggest fancy vast acquire deliver assume";

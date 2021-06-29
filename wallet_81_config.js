@@ -1,1 +1,1 @@
-var mnemonic = "situate brain book hospital steel badge tragic pepper divorce weekend play shuffle";
+var mnemonic = "brown traffic flee slogan review meadow angry feed brain flock wonder bracket";

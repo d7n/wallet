@@ -1,1 +1,1 @@
-var mnemonic = "symbol average lab scrub laundry gap baby naive staff tiny parent amount";
+var mnemonic = "unit civil include auto ski mix arrive situate private pigeon object replace";

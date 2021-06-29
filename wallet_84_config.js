@@ -1,1 +1,1 @@
-var mnemonic = "begin hidden sight mean include miracle exercise position flee history nominee random";
+var mnemonic = "coffee few inhale control rebuild moral coral weekend promote truth check million";

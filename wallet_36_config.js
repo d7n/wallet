@@ -1,1 +1,1 @@
-var mnemonic = "tell lava stone upper honey drop tennis aerobic sick fringe legend endorse";
+var mnemonic = "raise exist adjust bid alcohol insect have coast change surface snake special";

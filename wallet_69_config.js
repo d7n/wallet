@@ -1,1 +1,1 @@
-var mnemonic = "lift slender prepare field marble kangaroo pattern close curtain verb flight wait";
+var mnemonic = "mercy absorb age fold circle member puppy type zebra tennis avoid video";

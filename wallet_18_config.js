@@ -1,1 +1,1 @@
-var mnemonic = "crumble alcohol skill armor glow ranch muscle sunset toilet ripple age cargo";
+var mnemonic = "click escape quality depend hawk fiscal admit boy canvas vehicle romance report";

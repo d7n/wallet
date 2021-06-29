@@ -1,1 +1,1 @@
-var mnemonic = "badge wrist talk arrest catch minimum paddle credit round dress bamboo pipe";
+var mnemonic = "evolve valid announce buffalo dilemma decade destroy believe oval garment patch strike";

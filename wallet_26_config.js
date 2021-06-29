@@ -1,1 +1,1 @@
-var mnemonic = "also glare ill gold gauge kid month kingdom tilt menu stay habit";
+var mnemonic = "parent nation program empower casual erode swift naive window grape clarify area";

@@ -1,1 +1,1 @@
-var mnemonic = "brush tube bike crisp vendor violin fee shiver thank illegal wonder camera";
+var mnemonic = "twenty sphere initial faculty margin edge pyramid dumb palace degree bright gate";

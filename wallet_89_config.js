@@ -1,1 +1,1 @@
-var mnemonic = "guard tragic vault bacon absent film minimum false worth trust alert mosquito";
+var mnemonic = "orient energy shrug soul then tooth right enter find near time element";

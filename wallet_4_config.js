@@ -1,1 +1,1 @@
-var mnemonic = "cruise blue recycle own antenna amateur place venue journey atom clog nephew";
+var mnemonic = "festival device prison scorpion grow edge series marine market shield sniff evolve";

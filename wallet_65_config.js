@@ -1,1 +1,1 @@
-var mnemonic = "jar chuckle mechanic wonder surprise square gate garbage cannon pigeon carpet bean";
+var mnemonic = "half explain output leaf range sorry lion height lyrics region rice around";

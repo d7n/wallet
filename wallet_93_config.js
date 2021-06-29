@@ -1,1 +1,1 @@
-var mnemonic = "negative vague civil mushroom lawsuit enact recall dry caution pony angle foot";
+var mnemonic = "brief pet habit text luxury ketchup sock lion canoe slight casual tube";

@@ -1,1 +1,1 @@
-var mnemonic = "whale force dog obey armor print wear accuse mountain whisper exercise yard";
+var mnemonic = "elephant cage whale rather surge embrace neither man lunar fold large insane";

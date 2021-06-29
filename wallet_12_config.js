@@ -1,1 +1,1 @@
-var mnemonic = "legal picnic source fox paper history grace west market fun usual athlete";
+var mnemonic = "solution cause gadget wrist hat feature grief lobster afraid soap effort raise";

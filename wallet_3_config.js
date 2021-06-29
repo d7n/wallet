@@ -1,1 +1,1 @@
-var mnemonic = "afraid you cool swift census bitter chapter maple despair vessel tiger weapon";
+var mnemonic = "lion cup permit truly forward destroy eyebrow crisp gather vocal cash market";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk sadness rough maximum frown pair uphold dream topic wood alcohol audit";
+var mnemonic = "float cause clever any fabric exercise senior act glue extra human hundred";

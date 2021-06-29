@@ -1,1 +1,1 @@
-var mnemonic = "wheel march sick eight walnut sight keep cloud hammer churn alarm combine";
+var mnemonic = "test topple napkin fall tide photo dune bunker kiwi settle army cactus";

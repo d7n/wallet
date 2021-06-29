@@ -1,1 +1,1 @@
-var mnemonic = "nature cargo polar dish select report wire mirror tomorrow circle purity easily";
+var mnemonic = "educate faith purpose sure middle assume muscle mix attend olive dish swift";

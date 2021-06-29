@@ -1,1 +1,1 @@
-var mnemonic = "crowd corn win cruise maid trip upgrade spring accident delay smoke night";
+var mnemonic = "misery actor reunion merry genius middle lab shield either shy move life";

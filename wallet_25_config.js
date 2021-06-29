@@ -1,1 +1,1 @@
-var mnemonic = "whisper clarify autumn worry nut cart pilot nothing mimic sport repair empower";
+var mnemonic = "insane better body oyster box deal usual debate trip agree bundle avoid";

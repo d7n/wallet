@@ -1,1 +1,1 @@
-var mnemonic = "wait chronic mushroom bamboo train pyramid fit toss cabin insect subway popular";
+var mnemonic = "among market problem apple foot skull uncle emerge solve glide people dust";

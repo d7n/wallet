@@ -1,1 +1,1 @@
-var mnemonic = "craft stable insect abuse animal chef pass turtle swamp ladder uncover force";
+var mnemonic = "glow kiwi kitten opinion upset coast umbrella change race goose scare often";

@@ -1,1 +1,1 @@
-var mnemonic = "potato leader spoil woman maze keep frog height neither sample color bind";
+var mnemonic = "brain pledge october derive modify sign fuel stairs toilet club movie tunnel";

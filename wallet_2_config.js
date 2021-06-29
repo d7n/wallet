@@ -1,1 +1,1 @@
-var mnemonic = "weird chair athlete exhibit coin unfold gain diesel skate steel corn crystal";
+var mnemonic = "bargain course nephew rocket glance rotate abstract uniform ordinary food glow pluck";

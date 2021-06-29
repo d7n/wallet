@@ -1,1 +1,1 @@
-var mnemonic = "winter helmet rug expire fashion purpose artwork brother clump dynamic skirt brain";
+var mnemonic = "begin wait poet bomb turkey mansion explain arrange uncover victory they joke";

@@ -1,1 +1,1 @@
-var mnemonic = "afford crystal cloud spoon fiber vocal salon volcano oval blue save credit";
+var mnemonic = "pretty solid laptop chimney omit fetch idea belt debris wine domain globe";

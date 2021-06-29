@@ -1,1 +1,1 @@
-var mnemonic = "glory grow gain release quick water swear antique payment equip enhance worth";
+var mnemonic = "someone inform sphere time corn divert matter napkin nest lake document sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "move fruit put fly deliver stay senior climb bone aisle remember frame";
+var mnemonic = "library famous lunar visual struggle flip pool correct nothing scare lab emerge";

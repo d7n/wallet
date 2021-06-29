@@ -1,1 +1,1 @@
-var mnemonic = "month trim spot subway armed caught mad good oven ethics approve flavor";
+var mnemonic = "galaxy mad talk canyon valid chalk cave peasant mass blanket wasp large";

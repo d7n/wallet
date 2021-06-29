@@ -1,1 +1,1 @@
-var mnemonic = "slush cover sponsor upon viable frost romance aerobic leg pencil improve clean";
+var mnemonic = "since mushroom text outer purpose check pony vault spin cube merit clutch";

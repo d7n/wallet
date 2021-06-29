@@ -1,1 +1,1 @@
-var mnemonic = "today chalk candy pluck toy wrap initial toast income garden link beach";
+var mnemonic = "defy spot fatigue wasp melt hold spy silver differ purchase one way";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito reason brisk usage shed obvious heart pair vivid perfect noble enable";
+var mnemonic = "flavor can bracket winter strategy river sketch mosquito logic label clay seminar";

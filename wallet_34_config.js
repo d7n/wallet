@@ -1,1 +1,1 @@
-var mnemonic = "mesh coin neither anchor awkward begin seed swamp motion rookie clutch prefer";
+var mnemonic = "strategy pretty shaft beauty wet chat remind label walnut bring maze table";

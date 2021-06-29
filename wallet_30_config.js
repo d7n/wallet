@@ -1,1 +1,1 @@
-var mnemonic = "story puzzle broccoli swim adapt reveal square tank bulk render catalog sell";
+var mnemonic = "middle often will lounge risk club fame assault sport viable ride sport";

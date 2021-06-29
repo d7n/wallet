@@ -1,1 +1,1 @@
-var mnemonic = "west style oven assist dove puzzle sunny elbow real exile dragon differ";
+var mnemonic = "grab afford galaxy muscle differ surge giraffe guess victory execute depend mother";

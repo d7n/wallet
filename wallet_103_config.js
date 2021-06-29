@@ -1,1 +1,1 @@
-var mnemonic = "palace tribe elder hungry panel front tone wing hat paddle claim skill";
+var mnemonic = "tooth cream tell choose erase snow movie raven climb sun network veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "dust wrestle valve client repair settle actress boat cloth unknown episode phone";
+var mnemonic = "cherry prize matrix liquid scale kit client absorb deposit equip love federal";

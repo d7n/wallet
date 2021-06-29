@@ -1,1 +1,1 @@
-var mnemonic = "excuse month promote diary load reopen resist wreck rigid idle orange below";
+var mnemonic = "air feel canyon match crisp waste worth violin noodle volume pony silver";

@@ -1,1 +1,1 @@
-var mnemonic = "submit wagon orbit action liar mass cable guard hospital toe oblige doctor";
+var mnemonic = "weapon pond update found critic move spot various prison fancy net image";

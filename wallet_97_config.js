@@ -1,1 +1,1 @@
-var mnemonic = "cousin head bacon brisk legal absurd media swear obvious control actor argue";
+var mnemonic = "elite sample office matter bracket version cry second choice have give beef";

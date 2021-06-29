@@ -1,1 +1,1 @@
-var mnemonic = "giggle mansion example rate give sad chair club giant exchange rifle gaze";
+var mnemonic = "birth close virus dress assist pattern embrace trash person laugh blue mimic";

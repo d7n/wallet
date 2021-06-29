@@ -1,1 +1,1 @@
-var mnemonic = "domain orient turtle north mystery palace human regular race equip pelican hen";
+var mnemonic = "swing gun initial patient mansion skull file stairs above now weekend bracket";

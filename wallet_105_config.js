@@ -1,1 +1,1 @@
-var mnemonic = "similar load place ramp iron bachelor also mouse talk novel devote box";
+var mnemonic = "impose lazy escape number text day party vocal hen elephant produce detect";

@@ -1,1 +1,1 @@
-var mnemonic = "art circle soon clever alert cannon over element parade name series vote";
+var mnemonic = "allow destroy step vote melt ring kick swift cart rule choice ecology";

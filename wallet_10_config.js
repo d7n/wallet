@@ -1,1 +1,1 @@
-var mnemonic = "trap promote notice minor boring syrup ill patrol empower wreck portion strong";
+var mnemonic = "holiday morning course robot pattern anxiety first hope ability purchase meadow close";

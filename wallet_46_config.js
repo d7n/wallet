@@ -1,1 +1,1 @@
-var mnemonic = "vanish surround amused nice document happy tenant miracle unable uniform crystal disorder";
+var mnemonic = "plunge abuse pink allow capable giraffe owner whale regular pass switch layer";

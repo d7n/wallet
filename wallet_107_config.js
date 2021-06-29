@@ -1,1 +1,1 @@
-var mnemonic = "wool sauce exercise flash rib insect jump rapid myth next earn blouse";
+var mnemonic = "august upon magnet exact crew arrest arrange kitten water ahead sword girl";

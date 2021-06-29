@@ -1,1 +1,1 @@
-var mnemonic = "horror rail cradle man aspect verify ostrich fan kite grit machine random";
+var mnemonic = "work social color sick flame spirit mushroom win maple report problem crater";

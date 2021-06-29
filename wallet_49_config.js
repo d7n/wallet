@@ -1,1 +1,1 @@
-var mnemonic = "hundred method gas above thought donkey prevent banner stove resource monitor visual";
+var mnemonic = "inhale deer soap pet spring entire gaze normal exit exist exist element";

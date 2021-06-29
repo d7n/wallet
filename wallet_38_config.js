@@ -1,1 +1,1 @@
-var mnemonic = "monkey hub appear bag inside hurt mystery pond arrow walnut mystery assist";
+var mnemonic = "empty oil badge pet about never person rookie transfer remind trash tiny";

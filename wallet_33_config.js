@@ -1,1 +1,1 @@
-var mnemonic = "clown strategy trial apple enough depth vague forget link since sword cancel";
+var mnemonic = "crawl mom bright risk fall crop crash dinosaur rather music laptop work";

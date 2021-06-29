@@ -1,1 +1,1 @@
-var mnemonic = "close capital boring degree rose hold execute soon miss local half gym";
+var mnemonic = "winter where survey lottery cabbage kangaroo leader flee sight giggle start fat";

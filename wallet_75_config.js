@@ -1,1 +1,1 @@
-var mnemonic = "original govern access silly broom corn car wage pipe lucky thing else";
+var mnemonic = "heavy foil year sort enough teach verb hold gallery push ranch boss";

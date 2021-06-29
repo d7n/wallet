@@ -1,1 +1,1 @@
-var mnemonic = "oblige blood genius match vacant obscure garden struggle exercise leader exclude old";
+var mnemonic = "talent salute bus tip draw wheat cluster shallow teach steak then february";

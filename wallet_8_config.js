@@ -1,1 +1,1 @@
-var mnemonic = "laugh flame dumb scare kangaroo love acoustic accuse shock post garden change";
+var mnemonic = "canyon envelope pass squirrel grow place train siege muffin level census rally";

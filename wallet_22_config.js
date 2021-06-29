@@ -1,1 +1,1 @@
-var mnemonic = "affair spend inhale grab dynamic heart outdoor kingdom solid shaft bag mouse";
+var mnemonic = "gas good grape idea legal toilet novel work indoor correct feature grape";

@@ -1,1 +1,1 @@
-var mnemonic = "sail speak drink remind cycle high sketch tool recycle dose unlock inflict";
+var mnemonic = "dose fit first require lock party alter shoot maximum matter army luxury";

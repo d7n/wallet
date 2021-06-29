@@ -1,1 +1,1 @@
-var mnemonic = "close island bean absorb project interest math rival guide sick member biology";
+var mnemonic = "minute clerk view prison bonus strategy mechanic soldier middle crawl siege sausage";

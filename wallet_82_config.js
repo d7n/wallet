@@ -1,1 +1,1 @@
-var mnemonic = "mushroom equip aunt radio argue example news flower chunk meat legend wet";
+var mnemonic = "crystal bread soul winter margin milk leave whip basic sting beauty umbrella";

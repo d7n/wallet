@@ -1,1 +1,1 @@
-var mnemonic = "apple road section torch transfer glide verb journey physical kiss meadow hobby";
+var mnemonic = "glance drop spoil coyote dumb stone link birth label either shed dynamic";

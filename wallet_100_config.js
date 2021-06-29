@@ -1,1 +1,1 @@
-var mnemonic = "security genius host order cream scheme sting mushroom ocean skull museum history";
+var mnemonic = "success earth romance govern bubble lottery still dumb comic blur tattoo birth";

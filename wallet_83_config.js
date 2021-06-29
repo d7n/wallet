@@ -1,1 +1,1 @@
-var mnemonic = "grace mango globe cable below skill balcony blind firm cherry crew mushroom";
+var mnemonic = "merge myself reward rebel length hurry sock hunt price surge vote make";

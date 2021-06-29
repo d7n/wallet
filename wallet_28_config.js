@@ -1,1 +1,1 @@
-var mnemonic = "useful arrest post coyote sudden talk spot ordinary security grab cry copy";
+var mnemonic = "badge skill pilot vault concert kind cupboard want gown order stock soap";

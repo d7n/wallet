@@ -1,1 +1,1 @@
-var mnemonic = "change quiz short bomb punch poem rough artefact replace trap swamp someone";
+var mnemonic = "wagon ramp salmon stock rule talent own advice excite dinner rabbit patrol";

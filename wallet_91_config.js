@@ -1,1 +1,1 @@
-var mnemonic = "vanish alpha course seminar census produce cream sort bless rescue setup night";
+var mnemonic = "orange grape vacuum pull shoot hero firm scan wave frog beauty bomb";

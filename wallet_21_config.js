@@ -1,1 +1,1 @@
-var mnemonic = "boost sausage picture nominee thought volcano lecture reason also wide fan square";
+var mnemonic = "fine valid glue helmet rally source card fatal clarify monitor wagon believe";

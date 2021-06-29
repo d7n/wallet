@@ -1,1 +1,1 @@
-var mnemonic = "claw park danger auto only wheel shrimp garden cube drive gown second";
+var mnemonic = "soft trip enjoy rural under dream man heavy gown cargo cook flame";
