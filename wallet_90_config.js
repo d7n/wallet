@@ -1,1 +1,1 @@
-var mnemonic = "almost transfer cream right tunnel original cement scale doll wait between credit";
+var mnemonic = "license huge cube edit truth debate pear quality admit depend candy return";

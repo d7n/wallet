@@ -1,1 +1,1 @@
-var mnemonic = "measure oblige gloom eternal finger always giraffe milk elephant divert hole swarm";
+var mnemonic = "train innocent bundle radar wink aerobic certain pyramid reflect tiger melody rely";

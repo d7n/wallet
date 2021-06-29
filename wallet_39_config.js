@@ -1,1 +1,1 @@
-var mnemonic = "stand either vocal banana close two myself cradle seed weekend frog claw";
+var mnemonic = "popular dad zebra cloud sudden immense pretty payment tooth spend march input";

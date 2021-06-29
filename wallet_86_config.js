@@ -1,1 +1,1 @@
-var mnemonic = "diagram off review notable follow live load parade home audit mansion early";
+var mnemonic = "coconut appear aim join point want increase young december journey blame issue";

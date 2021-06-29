@@ -1,1 +1,1 @@
-var mnemonic = "pioneer bid angle lift raw nothing nurse vital sentence success salon caught";
+var mnemonic = "cute future forward bounce inform saddle trade palm another attack above wisdom";

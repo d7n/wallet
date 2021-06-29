@@ -1,1 +1,1 @@
-var mnemonic = "gravity sphere february champion bone arch shoot under process reopen crowd push";
+var mnemonic = "submit talk hunt uphold render reward weekend outer problem stick bomb twenty";

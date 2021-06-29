@@ -1,1 +1,1 @@
-var mnemonic = "know civil accident garment grape pipe move punch inch prepare wet interest";
+var mnemonic = "young label priority blush flock winter melody define world caught casual misery";

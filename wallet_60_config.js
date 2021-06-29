@@ -1,1 +1,1 @@
-var mnemonic = "treat caution half forget hazard analyst number ceiling analyst ivory coral fade";
+var mnemonic = "doctor best shuffle tool misery better slender favorite audit cheap goose major";

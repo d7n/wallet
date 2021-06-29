@@ -1,1 +1,1 @@
-var mnemonic = "wolf shoe struggle noble stove cry best error pumpkin myth acoustic chat";
+var mnemonic = "frozen also fancy actress flock category forest genius mutual kiwi lawn purity";

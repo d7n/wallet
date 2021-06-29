@@ -1,1 +1,1 @@
-var mnemonic = "dish toe glow dice hammer nice speak omit burst oil thrive rib";
+var mnemonic = "approve genius fancy join master shiver fortune outer embark mutual endorse lunch";

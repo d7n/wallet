@@ -1,1 +1,1 @@
-var mnemonic = "hold state blind victory sunny gallery dry thank fade involve isolate dream";
+var mnemonic = "beyond siege blame much addict unknown imitate evidence brick salmon flame under";

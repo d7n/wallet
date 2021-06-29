@@ -1,1 +1,1 @@
-var mnemonic = "crane time give charge gas ostrich clutch artefact aisle rib smart rapid";
+var mnemonic = "impact lens bitter tail lounge curve echo wall local snap already garment";

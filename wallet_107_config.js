@@ -1,1 +1,1 @@
-var mnemonic = "clog leg bar equip tackle almost disease glass globe slender normal child";
+var mnemonic = "connect hope pause never blouse liberty danger purse false boat tide oven";

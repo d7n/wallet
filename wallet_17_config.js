@@ -1,1 +1,1 @@
-var mnemonic = "oyster verb phrase addict green switch will peace sight dumb include express";
+var mnemonic = "math title mammal brief property cherry bleak echo giraffe enjoy success invite";

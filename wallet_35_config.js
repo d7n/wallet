@@ -1,1 +1,1 @@
-var mnemonic = "elite pupil drastic repair country swap panic truck play bike mixture until";
+var mnemonic = "pudding cover evoke call plunge enact member ethics youth air hidden slow";

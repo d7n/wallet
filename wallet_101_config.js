@@ -1,1 +1,1 @@
-var mnemonic = "arm table sunny music exhaust push title explain cupboard tell narrow ensure";
+var mnemonic = "battle body volcano nation spoon unknown day diesel cannon decide camera silver";

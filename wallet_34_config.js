@@ -1,1 +1,1 @@
-var mnemonic = "ozone horror bronze hub twenty panel grit life runway sea cram bracket";
+var mnemonic = "ready visit lend tower tobacco spoon turn gold panel gather vapor medal";

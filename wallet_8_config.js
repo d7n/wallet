@@ -1,1 +1,1 @@
-var mnemonic = "museum lamp step slogan sphere ozone filter pulp tribe lazy obvious mushroom";
+var mnemonic = "cube visual wink valid armor shadow frog myth regret idea huge black";

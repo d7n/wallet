@@ -1,1 +1,1 @@
-var mnemonic = "claw job tooth nerve asset sell faint love thought soft athlete divide";
+var mnemonic = "hint enemy rate lion piece offer fitness vacuum able cat exist depend";

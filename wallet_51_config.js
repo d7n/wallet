@@ -1,1 +1,1 @@
-var mnemonic = "trip sea edge rookie security diesel barrel gun arrow original nest fresh";
+var mnemonic = "dad liquid powder naive main oppose noodle world bleak length spare country";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil holiday erosion fog waste rocket brother delay you again love year";
+var mnemonic = "burger infant return boy bike increase moment increase trade antenna noodle machine";

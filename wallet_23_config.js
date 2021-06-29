@@ -1,1 +1,1 @@
-var mnemonic = "soccer wrap tuition twenty image learn stairs engage under truck tortoise hole";
+var mnemonic = "boring jealous build prison lens noble elephant woman act ecology during wink";

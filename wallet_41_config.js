@@ -1,1 +1,1 @@
-var mnemonic = "hunt custom monster fuel tray champion rude picture athlete capital alert mystery";
+var mnemonic = "boost behave join bid six matrix number drastic ceiling ship impose anxiety";

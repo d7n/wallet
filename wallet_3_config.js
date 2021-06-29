@@ -1,1 +1,1 @@
-var mnemonic = "bike wife minute fly tell nasty into search insane one rough base";
+var mnemonic = "twist grocery impulse legal human pool potato debris screen shy observe harsh";

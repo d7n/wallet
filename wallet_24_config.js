@@ -1,1 +1,1 @@
-var mnemonic = "acquire devote body nut canal celery primary tunnel ten scrub exist blast";
+var mnemonic = "cactus critic horn army obscure little stage glove act radio digital ghost";

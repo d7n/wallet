@@ -1,1 +1,1 @@
-var mnemonic = "egg cherry popular switch trap clarify kidney menu guess hand mango offer";
+var mnemonic = "rally visual spare sunny gain fade affair pumpkin donor team hedgehog evidence";

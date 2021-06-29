@@ -1,1 +1,1 @@
-var mnemonic = "movie bag hurdle orphan still spider boost choice security grain absent dismiss";
+var mnemonic = "loyal stumble blame monster year jacket shoulder square steak abandon modify want";

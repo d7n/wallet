@@ -1,1 +1,1 @@
-var mnemonic = "source stage alter tonight slot drive deer amazing letter reduce coast list";
+var mnemonic = "top velvet drum test attitude few rich train merit mystery estate drink";

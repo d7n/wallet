@@ -1,1 +1,1 @@
-var mnemonic = "bomb latin ankle achieve replace fantasy trade account guilt scout engine remove";
+var mnemonic = "oxygen during seed cage notable parade pig saddle dress lucky practice exile";

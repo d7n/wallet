@@ -1,1 +1,1 @@
-var mnemonic = "viable trial palm citizen minor blade rival wreck mention nasty rabbit hover";
+var mnemonic = "search page worth exhaust garbage tongue leopard among front risk dutch title";

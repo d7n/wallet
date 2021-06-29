@@ -1,1 +1,1 @@
-var mnemonic = "afford love clown tennis broken exercise help dial race feed flee enlist";
+var mnemonic = "mango morning person harsh dinner drop sunny stick wall cake when biology";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle mad bid quiz merry jar offer neck beauty cabin matter real";
+var mnemonic = "surface similar good prevent upgrade amateur bounce grid sweet begin poem vessel";

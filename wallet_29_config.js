@@ -1,1 +1,1 @@
-var mnemonic = "resemble boy neither stereo enable find weasel great rotate omit logic board";
+var mnemonic = "casual tumble minor wild link purchase patch debris autumn multiply ostrich artefact";

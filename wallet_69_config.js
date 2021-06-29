@@ -1,1 +1,1 @@
-var mnemonic = "holiday click whip spider change imitate media swap wife place clock swamp";
+var mnemonic = "journey breeze super style nasty law swear rough toe fatigue amount merry";

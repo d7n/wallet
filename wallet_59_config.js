@@ -1,1 +1,1 @@
-var mnemonic = "input buddy surface trap knee convince boil quality piano dynamic pencil talk";
+var mnemonic = "weekend settle clarify lucky permit dove stove quiz puzzle ocean radar inform";

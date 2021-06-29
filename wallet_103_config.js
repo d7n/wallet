@@ -1,1 +1,1 @@
-var mnemonic = "shoulder pool final glow pretty gift dentist degree lobster ill ostrich climb";
+var mnemonic = "recall phrase jazz table mutual leg horror advance lecture suggest life rookie";

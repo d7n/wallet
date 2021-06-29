@@ -1,1 +1,1 @@
-var mnemonic = "permit mushroom lecture welcome asthma fatigue tenant giggle luggage capable elegant often";
+var mnemonic = "banner avoid wave pottery only film thank poet gaze rigid bird slim";

@@ -1,1 +1,1 @@
-var mnemonic = "smile draw guess magnet cluster vapor glad kidney aim motion kidney melt";
+var mnemonic = "maximum renew side seed best maze family unveil rabbit clay alone segment";

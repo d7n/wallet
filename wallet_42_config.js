@@ -1,1 +1,1 @@
-var mnemonic = "flush lava purse logic write rotate lucky payment holiday skin movie hybrid";
+var mnemonic = "orbit life alpha sadness snow hope expect task story youth they hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal width hard obtain craft cigar bean resemble cry bleak lemon shell";
+var mnemonic = "scatter waste royal royal cinnamon tip pig wave uniform buffalo seed globe";

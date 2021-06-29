@@ -1,1 +1,1 @@
-var mnemonic = "example kick truck keen cereal labor child exclude idea notable cricket rain";
+var mnemonic = "knife rug emerge upgrade reform sign mutual travel lamp gym autumn catch";

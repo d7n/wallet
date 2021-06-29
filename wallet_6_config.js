@@ -1,1 +1,1 @@
-var mnemonic = "seed coast weird absent swamp maximum spice elder keen kangaroo toast nuclear";
+var mnemonic = "jacket fragile glass sun symptom shiver setup mix kitten culture source spell";

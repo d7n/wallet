@@ -1,1 +1,1 @@
-var mnemonic = "mutual guard enjoy sausage expect wide own blind stem similar crater member";
+var mnemonic = "certain shuffle inherit toe alarm century rubber demise click keep initial reopen";

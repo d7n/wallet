@@ -1,1 +1,1 @@
-var mnemonic = "mom omit typical distance local duty reason metal stove copy wine slide";
+var mnemonic = "hero second pupil industry tattoo wire plate industry shaft cargo patrol ceiling";

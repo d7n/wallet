@@ -1,1 +1,1 @@
-var mnemonic = "knife desk ball useful reward luggage box wrestle deliver noodle sibling play";
+var mnemonic = "canvas steak pencil august hub grain moment suspect picnic fish awake vote";

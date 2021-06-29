@@ -1,1 +1,1 @@
-var mnemonic = "have world solid state left drop domain pole plug fiscal dawn range";
+var mnemonic = "ceiling duty glide mandate million embody enable elephant stand impose teach buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "want interest roast virtual labor quote clay bundle interest mobile pass happy";
+var mnemonic = "luxury blood together turtle jazz multiply frog salt flash fatal slice milk";

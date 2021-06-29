@@ -1,1 +1,1 @@
-var mnemonic = "acquire fold earn inmate science upset brush earth disorder yard tomato evidence";
+var mnemonic = "usual soup tired vintage office derive title hood pelican ski culture shove";

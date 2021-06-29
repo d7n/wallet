@@ -1,1 +1,1 @@
-var mnemonic = "scale ramp depart debate solve famous window decade casual wink link subject";
+var mnemonic = "permit unhappy echo claw jar proof plug balance betray champion topple wool";

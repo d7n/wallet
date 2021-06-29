@@ -1,1 +1,1 @@
-var mnemonic = "order increase focus cannon total lab apart topple truly beauty also ensure";
+var mnemonic = "erosion eagle taxi seek old print rare way stable armed degree asset";

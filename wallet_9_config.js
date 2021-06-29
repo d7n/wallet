@@ -1,1 +1,1 @@
-var mnemonic = "master three style execute fork veteran mirror call fox nature sunny benefit";
+var mnemonic = "fiction split rapid debate athlete acquire caught left wash fox fossil camera";

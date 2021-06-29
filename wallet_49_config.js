@@ -1,1 +1,1 @@
-var mnemonic = "crisp afraid crowd month view differ match citizen stamp before before upset";
+var mnemonic = "meat random sock hazard forum winner bounce few island wire source print";

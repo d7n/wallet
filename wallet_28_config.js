@@ -1,1 +1,1 @@
-var mnemonic = "exercise marble poem roast wonder iron dragon boil uphold loud document advice";
+var mnemonic = "mechanic bean verb airport promote common pitch sand resemble have swim potato";

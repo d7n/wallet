@@ -1,1 +1,1 @@
-var mnemonic = "inherit balance perfect pole farm twist rival illegal jump awesome head humble";
+var mnemonic = "broken belt ignore control giant curve loud bullet confirm mention nut exclude";

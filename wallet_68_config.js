@@ -1,1 +1,1 @@
-var mnemonic = "regular fashion coral panic slogan weekend visa add chaos machine engine road";
+var mnemonic = "dust canyon dad sibling crawl concert solve still slush truck pair exit";

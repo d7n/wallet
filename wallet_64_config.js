@@ -1,1 +1,1 @@
-var mnemonic = "squeeze capital fresh lizard click biology country vital sun work bag erode";
+var mnemonic = "identify insane fix drum useless grace power direct pulse olive sure peasant";

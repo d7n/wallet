@@ -1,1 +1,1 @@
-var mnemonic = "crime whale broccoli more shrug reflect van square change grow acoustic payment";
+var mnemonic = "horror token shop hero panic lazy food end air wheat rescue artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "loop exist arctic battle knee police crane minor cargo output marine kite";
+var mnemonic = "excess arrest hamster rug eyebrow middle reflect spot boil pyramid glimpse punch";

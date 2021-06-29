@@ -1,1 +1,1 @@
-var mnemonic = "ancient rather report dolphin van consider veteran item clock team chicken now";
+var mnemonic = "artist lava keen embrace arctic vehicle hurry abstract design account brave select";

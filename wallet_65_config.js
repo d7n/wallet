@@ -1,1 +1,1 @@
-var mnemonic = "stay unit spare involve vital asset jelly gloom kitchen popular girl fence";
+var mnemonic = "risk web hollow primary expose resemble whip grace skate portion limit carpet";

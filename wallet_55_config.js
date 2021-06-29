@@ -1,1 +1,1 @@
-var mnemonic = "two goose obey fortune choose blame resemble damp any funny canoe stomach";
+var mnemonic = "amazing mandate soap change luggage miracle impose range find power lens small";

@@ -1,1 +1,1 @@
-var mnemonic = "mother remember arrow cream upset grow slush absorb feed mention sun noise";
+var mnemonic = "pistol genre cannon future deny mom shy industry outside evidence stone dinner";

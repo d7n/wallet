@@ -1,1 +1,1 @@
-var mnemonic = "track traffic wagon sun napkin force behind mind slender soup caution pioneer";
+var mnemonic = "learn cheap ripple entire fossil category artist legal maximum early garlic candy";

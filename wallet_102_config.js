@@ -1,1 +1,1 @@
-var mnemonic = "unknown rack small angle remind glass across romance noble fresh girl pelican";
+var mnemonic = "shadow spring usage raven thought talent owner suspect cute hat promote tuition";

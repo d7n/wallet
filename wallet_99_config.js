@@ -1,1 +1,1 @@
-var mnemonic = "wonder online useful teach habit similar tower foster crop episode practice degree";
+var mnemonic = "noise update castle leaf lizard warrior engage today tackle rare conduct sketch";

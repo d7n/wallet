@@ -1,1 +1,1 @@
-var mnemonic = "emerge rib wool wash tongue letter shine coach shed divert pluck subway";
+var mnemonic = "swing hedgehog gaze idea supreme cancel fee reward shift merry aim name";

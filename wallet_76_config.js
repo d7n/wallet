@@ -1,1 +1,1 @@
-var mnemonic = "stand chuckle salon punch copy jealous swear jazz dash kingdom vapor repair";
+var mnemonic = "myth cart oblige conduct undo early close library vacuum sick region brave";

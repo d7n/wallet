@@ -1,1 +1,1 @@
-var mnemonic = "often treat ride glass lawn flame welcome first bamboo elevator shoulder scissors";
+var mnemonic = "feel wolf dad garage tank exhaust predict sing confirm life layer cart";

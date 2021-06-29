@@ -1,1 +1,1 @@
-var mnemonic = "source admit flush hold pencil fiction motion victory cloth buyer include easily";
+var mnemonic = "green feel lend token muffin foil waste sadness salt hold gloom patch";

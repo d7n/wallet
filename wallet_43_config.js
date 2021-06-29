@@ -1,1 +1,1 @@
-var mnemonic = "journey property country hold volume bonus pact accident virus jealous utility flame";
+var mnemonic = "ahead motion ghost pause make alien liar shock today face first tired";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie credit mule symbol vapor clog exist spoon matter roof special mask";
+var mnemonic = "light lab enlist write junior close void make work better elephant blouse";

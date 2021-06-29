@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow echo bid roast spend flight correct viable accuse filter any adjust";
+var mnemonic = "mechanic name horn roof meat lucky flower regret fix orchard length eternal";

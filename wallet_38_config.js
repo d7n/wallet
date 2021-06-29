@@ -1,1 +1,1 @@
-var mnemonic = "dutch bring airport relief mass toward yard seminar awful debris garden critic";
+var mnemonic = "slender coffee ball midnight badge clock like used bike flip swarm awake";

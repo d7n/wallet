@@ -1,1 +1,1 @@
-var mnemonic = "verify cupboard inspire tent play client pact ring poet plastic middle trust";
+var mnemonic = "edit supply type prevent ensure issue rich seminar load nose eagle people";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster when boil ball tragic cart nest asthma nephew term mansion anger";
+var mnemonic = "slot degree claw journey tower tell senior cook middle jacket couch devote";

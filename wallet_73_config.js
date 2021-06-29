@@ -1,1 +1,1 @@
-var mnemonic = "need enhance vintage excess ball vapor used venture forward odor pink gospel";
+var mnemonic = "calm arch device lens december squeeze twenty journey beef metal beauty fringe";

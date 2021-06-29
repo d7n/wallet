@@ -1,1 +1,1 @@
-var mnemonic = "jewel answer door ethics urge defy brief night certain organ fabric hire";
+var mnemonic = "digital time knife lesson water risk hood correct act galaxy goat tornado";

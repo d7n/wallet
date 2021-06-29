@@ -1,1 +1,1 @@
-var mnemonic = "return hidden rude bridge expand child tonight embark polar dinosaur oval grape";
+var mnemonic = "pottery pink lake task middle east square doll ahead lift pepper laptop";

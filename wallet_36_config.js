@@ -1,1 +1,1 @@
-var mnemonic = "oblige disease execute burden outer rally drink stuff crucial add black choice";
+var mnemonic = "various pyramid weekend skull jewel phrase label light oxygen income fame device";

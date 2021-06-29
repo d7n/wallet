@@ -1,1 +1,1 @@
-var mnemonic = "exhibit human around price hurdle nose junior either gun ocean manual sing";
+var mnemonic = "thing smart truck prefer believe humble wish speed giraffe traffic flash guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "lake bring tissue orphan announce wire achieve poet tomato okay stadium record";
+var mnemonic = "popular become unknown vocal price way tent maid tomato vicious bag cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "sad holiday math describe waste fit turtle whisper blur social soft excess";
+var mnemonic = "cactus hurry fossil share brother dinosaur opera hat warrior program dolphin always";

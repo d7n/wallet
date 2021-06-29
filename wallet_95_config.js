@@ -1,1 +1,1 @@
-var mnemonic = "chaos hammer earn board define avocado indicate adapt forest junior dentist teach";
+var mnemonic = "artwork punch add pepper cluster smart ridge donate strike wood credit feed";

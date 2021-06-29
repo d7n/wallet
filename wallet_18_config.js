@@ -1,1 +1,1 @@
-var mnemonic = "warfare develop modify beef tone ivory ring steak oyster lunar palace feel";
+var mnemonic = "menu because course fashion often glide ride crane inside furnace length sunset";

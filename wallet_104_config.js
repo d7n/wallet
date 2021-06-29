@@ -1,1 +1,1 @@
-var mnemonic = "hire floor lobster month bright rifle vacant behave pelican coin tomorrow stem";
+var mnemonic = "rule ski crunch eternal emerge express since frown usage cereal rug hidden";

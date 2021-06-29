@@ -1,1 +1,1 @@
-var mnemonic = "type together camp grit raccoon race loud inject hungry rival sure oxygen";
+var mnemonic = "bus crouch blade obscure key unusual guilt unfair describe picture wood large";

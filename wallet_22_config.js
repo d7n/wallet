@@ -1,1 +1,1 @@
-var mnemonic = "minor shoulder skull album tragic agree culture retire habit blouse tenant tank";
+var mnemonic = "boost daring impact rifle enter certain escape armor humble arrange pony attend";

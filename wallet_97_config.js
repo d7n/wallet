@@ -1,1 +1,1 @@
-var mnemonic = "cancel huge enter bracket primary victory length resemble health machine crouch order";
+var mnemonic = "myself garage spin comfort assist grief snap banana ask giant economy improve";

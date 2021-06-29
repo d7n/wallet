@@ -1,1 +1,1 @@
-var mnemonic = "card raw fossil dilemma taxi rhythm gauge damp powder rally elegant evoke";
+var mnemonic = "ensure wrist bargain pelican mixture gate chimney stove only chuckle spoon sugar";

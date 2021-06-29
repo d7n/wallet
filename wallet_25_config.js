@@ -1,1 +1,1 @@
-var mnemonic = "identify library real evolve solar car decade barely february pretty novel kick";
+var mnemonic = "undo dinosaur lumber canal main kitten detect bike hover element dance addict";

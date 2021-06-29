@@ -1,1 +1,1 @@
-var mnemonic = "awake glimpse smooth quick birth report myth tired erosion shine monster mail";
+var mnemonic = "motor faint such obtain few electric build supreme mushroom game alley choice";
