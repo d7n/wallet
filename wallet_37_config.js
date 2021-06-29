@@ -1,1 +1,1 @@
-var mnemonic = "mechanic name horn roof meat lucky flower regret fix orchard length eternal";
+var mnemonic = "wreck close interest state student nothing sauce bread install scale cruel pelican";

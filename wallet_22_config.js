@@ -1,1 +1,1 @@
-var mnemonic = "boost daring impact rifle enter certain escape armor humble arrange pony attend";
+var mnemonic = "summer discover similar negative awesome glance bronze inquiry pear shrug job library";

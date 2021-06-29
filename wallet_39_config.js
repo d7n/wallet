@@ -1,1 +1,1 @@
-var mnemonic = "popular dad zebra cloud sudden immense pretty payment tooth spend march input";
+var mnemonic = "badge crime acquire soft proof ranch clever victory vote fun hat unknown";

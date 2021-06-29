@@ -1,1 +1,1 @@
-var mnemonic = "approve genius fancy join master shiver fortune outer embark mutual endorse lunch";
+var mnemonic = "mom gloom angle frame setup talent response return thrive vintage uniform believe";

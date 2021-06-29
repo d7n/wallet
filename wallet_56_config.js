@@ -1,1 +1,1 @@
-var mnemonic = "knife rug emerge upgrade reform sign mutual travel lamp gym autumn catch";
+var mnemonic = "practice snack ceiling scrap motor basic fold lyrics position curtain soap garlic";

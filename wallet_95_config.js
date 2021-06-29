@@ -1,1 +1,1 @@
-var mnemonic = "artwork punch add pepper cluster smart ridge donate strike wood credit feed";
+var mnemonic = "casual popular remain tunnel finger sunset critic poet fury lamp saddle defense";

@@ -1,1 +1,1 @@
-var mnemonic = "popular become unknown vocal price way tent maid tomato vicious bag cheese";
+var mnemonic = "seed goose symbol program dune present win attract nerve inspire pull tennis";

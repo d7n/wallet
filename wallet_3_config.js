@@ -1,1 +1,1 @@
-var mnemonic = "twist grocery impulse legal human pool potato debris screen shy observe harsh";
+var mnemonic = "supreme machine dragon away hover pact purpose strong slender nose leg wire";

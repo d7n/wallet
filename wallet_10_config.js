@@ -1,1 +1,1 @@
-var mnemonic = "edit supply type prevent ensure issue rich seminar load nose eagle people";
+var mnemonic = "patient minor toddler verify weapon horse inject first tell above switch exotic";

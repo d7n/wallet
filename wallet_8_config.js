@@ -1,1 +1,1 @@
-var mnemonic = "cube visual wink valid armor shadow frog myth regret idea huge black";
+var mnemonic = "link village ignore point finger chronic task legal course fall fancy device";

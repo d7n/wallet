@@ -1,1 +1,1 @@
-var mnemonic = "light lab enlist write junior close void make work better elephant blouse";
+var mnemonic = "slender mule nephew shoot embrace camp grow cry apple talent museum become";

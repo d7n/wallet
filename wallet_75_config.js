@@ -1,1 +1,1 @@
-var mnemonic = "lizard sustain uncover grunt mule lemon dragon enrich mango panic acid achieve";
+var mnemonic = "prepare dawn quarter song impact level bracket image dilemma swing just before";

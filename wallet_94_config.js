@@ -1,1 +1,1 @@
-var mnemonic = "confirm trim shrug era similar hero mimic slot wish permit royal fiscal";
+var mnemonic = "useless artwork organ maid render hire train great deal great point rival";

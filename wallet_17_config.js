@@ -1,1 +1,1 @@
-var mnemonic = "math title mammal brief property cherry bleak echo giraffe enjoy success invite";
+var mnemonic = "fork degree suggest trial network leisure above organ owner park body flag";

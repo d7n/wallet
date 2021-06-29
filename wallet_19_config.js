@@ -1,1 +1,1 @@
-var mnemonic = "element goddess hamster black mosquito real toy deal order parent target knock";
+var mnemonic = "region kick flower ride clown toss weasel patient plastic gossip knock party";

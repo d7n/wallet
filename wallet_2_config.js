@@ -1,1 +1,1 @@
-var mnemonic = "maximum renew side seed best maze family unveil rabbit clay alone segment";
+var mnemonic = "sugar orchard trash machine brief provide busy lesson chair hurry color foster";

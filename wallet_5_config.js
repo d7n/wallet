@@ -1,1 +1,1 @@
-var mnemonic = "digital time knife lesson water risk hood correct act galaxy goat tornado";
+var mnemonic = "ginger actual twin dry follow like later animal crowd ten rescue warm";

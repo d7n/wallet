@@ -1,1 +1,1 @@
-var mnemonic = "rally visual spare sunny gain fade affair pumpkin donor team hedgehog evidence";
+var mnemonic = "harbor primary mom sponsor life soccer card mule rude pilot voyage wing";

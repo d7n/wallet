@@ -1,1 +1,1 @@
-var mnemonic = "shadow spring usage raven thought talent owner suspect cute hat promote tuition";
+var mnemonic = "rebel wedding chicken hurdle thank display side finger update young response legal";

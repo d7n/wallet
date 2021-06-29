@@ -1,1 +1,1 @@
-var mnemonic = "feel wolf dad garage tank exhaust predict sing confirm life layer cart";
+var mnemonic = "cushion absent nation share clock brisk tag deny all boring domain cinnamon";

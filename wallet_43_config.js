@@ -1,1 +1,1 @@
-var mnemonic = "ahead motion ghost pause make alien liar shock today face first tired";
+var mnemonic = "angle potato floor royal lady oyster safe genre demise skate mom carbon";

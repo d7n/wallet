@@ -1,1 +1,1 @@
-var mnemonic = "dial unfold snap connect stomach panda marine spirit tube wedding raw renew";
+var mnemonic = "ethics kit palm certain sad safe skull wolf radio sustain chicken express";

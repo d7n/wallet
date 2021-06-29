@@ -1,1 +1,1 @@
-var mnemonic = "excess advice float dry valve slab sphere dream ahead media brand page";
+var mnemonic = "robust attract pupil dawn text index unknown flush barely wrist leaf session";

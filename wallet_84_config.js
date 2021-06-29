@@ -1,1 +1,1 @@
-var mnemonic = "beyond siege blame much addict unknown imitate evidence brick salmon flame under";
+var mnemonic = "apple rhythm tail skirt slush clip media ozone narrow peanut work catch";

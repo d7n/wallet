@@ -1,1 +1,1 @@
-var mnemonic = "cactus hurry fossil share brother dinosaur opera hat warrior program dolphin always";
+var mnemonic = "toddler rib eagle repair cruel arrest depart april cook crazy grant review";

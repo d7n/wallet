@@ -1,1 +1,1 @@
-var mnemonic = "doctor best shuffle tool misery better slender favorite audit cheap goose major";
+var mnemonic = "matter raven spell hen view goose foam list muffin note skirt kite";

@@ -1,1 +1,1 @@
-var mnemonic = "dad liquid powder naive main oppose noodle world bleak length spare country";
+var mnemonic = "sail elbow file fetch gospel dawn reopen sausage awful year until hip";

@@ -1,1 +1,1 @@
-var mnemonic = "thing smart truck prefer believe humble wish speed giraffe traffic flash guitar";
+var mnemonic = "scare chronic picture erosion mirror interest open make describe slot spice salt";

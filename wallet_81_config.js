@@ -1,1 +1,1 @@
-var mnemonic = "certain shuffle inherit toe alarm century rubber demise click keep initial reopen";
+var mnemonic = "tiger bag topic mandate awkward oyster destroy case nature fold life old";

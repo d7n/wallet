@@ -1,1 +1,1 @@
-var mnemonic = "excess arrest hamster rug eyebrow middle reflect spot boil pyramid glimpse punch";
+var mnemonic = "input forget idea era grape light refuse heart owner misery furnace february";

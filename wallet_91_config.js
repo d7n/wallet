@@ -1,1 +1,1 @@
-var mnemonic = "horror token shop hero panic lazy food end air wheat rescue artefact";
+var mnemonic = "machine chalk blade girl group apart fiscal lens quiz fade torch zone";

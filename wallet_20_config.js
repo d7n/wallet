@@ -1,1 +1,1 @@
-var mnemonic = "learn cheap ripple entire fossil category artist legal maximum early garlic candy";
+var mnemonic = "laundry noise develop bird isolate drop horror hard summer wear staff tape";

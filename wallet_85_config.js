@@ -1,1 +1,1 @@
-var mnemonic = "motor faint such obtain few electric build supreme mushroom game alley choice";
+var mnemonic = "glance sadness use income illness game cereal mystery satisfy rough shoe legal";

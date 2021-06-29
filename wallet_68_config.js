@@ -1,1 +1,1 @@
-var mnemonic = "dust canyon dad sibling crawl concert solve still slush truck pair exit";
+var mnemonic = "uphold day dumb minute private large dice latin zero secret abuse outer";

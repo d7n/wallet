@@ -1,1 +1,1 @@
-var mnemonic = "oxygen during seed cage notable parade pig saddle dress lucky practice exile";
+var mnemonic = "during stick blanket dentist choice price vehicle pill fold town skate word";

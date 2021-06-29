@@ -1,1 +1,1 @@
-var mnemonic = "casual tumble minor wild link purchase patch debris autumn multiply ostrich artefact";
+var mnemonic = "arrow seat pizza civil notice portion rain sniff leaf sorry ozone lonely";

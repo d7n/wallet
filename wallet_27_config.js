@@ -1,1 +1,1 @@
-var mnemonic = "task want surge brave lecture grain assist fuel drill depend happy paddle";
+var mnemonic = "quick blue inquiry shiver kind diet track nut nothing sea small gun";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery cement ticket erosion magnet surface boat sustain someone artefact champion gas";
+var mnemonic = "eyebrow boring young sniff find among raven sort window suspect layer family";

@@ -1,1 +1,1 @@
-var mnemonic = "mango morning person harsh dinner drop sunny stick wall cake when biology";
+var mnemonic = "orient immense stool love shine place bamboo float trick quiz undo monitor";

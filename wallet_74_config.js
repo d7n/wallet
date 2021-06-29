@@ -1,1 +1,1 @@
-var mnemonic = "hero second pupil industry tattoo wire plate industry shaft cargo patrol ceiling";
+var mnemonic = "enlist ensure sister opera kidney term patient home swing that gauge model";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction split rapid debate athlete acquire caught left wash fox fossil camera";
+var mnemonic = "museum advice jungle betray pelican charge stock border file soft artefact provide";

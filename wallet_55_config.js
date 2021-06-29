@@ -1,1 +1,1 @@
-var mnemonic = "amazing mandate soap change luggage miracle impose range find power lens small";
+var mnemonic = "talk group exercise use raven benefit source gold ketchup rapid spike whip";

@@ -1,1 +1,1 @@
-var mnemonic = "cute future forward bounce inform saddle trade palm another attack above wisdom";
+var mnemonic = "sauce midnight note oil receive breeze match dumb cave image paper size";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol genre cannon future deny mom shy industry outside evidence stone dinner";
+var mnemonic = "shove arrange gospel isolate anxiety spoil soccer clown misery year avoid unknown";

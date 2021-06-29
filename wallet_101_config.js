@@ -1,1 +1,1 @@
-var mnemonic = "battle body volcano nation spoon unknown day diesel cannon decide camera silver";
+var mnemonic = "snow response cage sign feature pattern bullet solution essence edit act address";

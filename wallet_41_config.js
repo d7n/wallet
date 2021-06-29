@@ -1,1 +1,1 @@
-var mnemonic = "boost behave join bid six matrix number drastic ceiling ship impose anxiety";
+var mnemonic = "surprise pass list august jewel choice must sound guess absent hedgehog exile";

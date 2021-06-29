@@ -1,1 +1,1 @@
-var mnemonic = "cool sister crater advice clog brush eager fire neglect marriage weekend raccoon";
+var mnemonic = "broken urban grunt green domain drink merge air again parent jungle install";

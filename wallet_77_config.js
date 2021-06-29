@@ -1,1 +1,1 @@
-var mnemonic = "top velvet drum test attitude few rich train merit mystery estate drink";
+var mnemonic = "similar evoke leopard valid cream write rice belt bamboo hood puppy tired";

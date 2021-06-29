@@ -1,1 +1,1 @@
-var mnemonic = "license huge cube edit truth debate pear quality admit depend candy return";
+var mnemonic = "rotate unknown bulb grab canyon vast betray universe risk cradle repair amount";

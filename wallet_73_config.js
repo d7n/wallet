@@ -1,1 +1,1 @@
-var mnemonic = "calm arch device lens december squeeze twenty journey beef metal beauty fringe";
+var mnemonic = "build gold nasty aware dad primary teach gossip all cheap toss radar";

@@ -1,1 +1,1 @@
-var mnemonic = "meat random sock hazard forum winner bounce few island wire source print";
+var mnemonic = "wheat rhythm thank student sphere make sugar issue warfare sheriff power wrestle";

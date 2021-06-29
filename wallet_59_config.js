@@ -1,1 +1,1 @@
-var mnemonic = "weekend settle clarify lucky permit dove stove quiz puzzle ocean radar inform";
+var mnemonic = "tank phrase grace valve afford nose piano common escape cart label fiction";

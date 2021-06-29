@@ -1,1 +1,1 @@
-var mnemonic = "broken belt ignore control giant curve loud bullet confirm mention nut exclude";
+var mnemonic = "benefit adjust civil object fury ordinary one metal gift jump monster purpose";

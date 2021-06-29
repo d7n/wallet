@@ -1,1 +1,1 @@
-var mnemonic = "coconut appear aim join point want increase young december journey blame issue";
+var mnemonic = "matrix soul knee anchor debate quick give price scorpion aware amused donate";

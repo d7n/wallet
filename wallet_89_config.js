@@ -1,1 +1,1 @@
-var mnemonic = "pottery pink lake task middle east square doll ahead lift pepper laptop";
+var mnemonic = "legend hello offer pioneer rule alert forum maze total reason ring wisdom";

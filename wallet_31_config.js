@@ -1,1 +1,1 @@
-var mnemonic = "burger infant return boy bike increase moment increase trade antenna noodle machine";
+var mnemonic = "bag universe nurse leisure stamp connect vast pill list hockey lecture street";

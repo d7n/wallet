@@ -1,1 +1,1 @@
-var mnemonic = "during distance clean talk advice legend poet worth join frozen bridge online";
+var mnemonic = "network memory buffalo blood option climb vote clump ring blast pause fury";

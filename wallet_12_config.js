@@ -1,1 +1,1 @@
-var mnemonic = "inquiry still ginger body simple arena develop high visa service possible puzzle";
+var mnemonic = "uphold volcano season word velvet into long parade ugly tackle tip knee";

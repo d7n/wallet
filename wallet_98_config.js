@@ -1,1 +1,1 @@
-var mnemonic = "ensure wrist bargain pelican mixture gate chimney stove only chuckle spoon sugar";
+var mnemonic = "short welcome license brave nation skill coral suggest rent dwarf before person";

@@ -1,1 +1,1 @@
-var mnemonic = "swing hedgehog gaze idea supreme cancel fee reward shift merry aim name";
+var mnemonic = "entry glide fiction gadget antenna distance equal large member hole drastic bid";

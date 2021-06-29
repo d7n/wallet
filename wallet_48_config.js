@@ -1,1 +1,1 @@
-var mnemonic = "banner avoid wave pottery only film thank poet gaze rigid bird slim";
+var mnemonic = "wage gas dose shrimp what length hero business carpet immune heart couch";

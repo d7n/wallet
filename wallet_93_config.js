@@ -1,1 +1,1 @@
-var mnemonic = "submit talk hunt uphold render reward weekend outer problem stick bomb twenty";
+var mnemonic = "have matrix travel milk write pretty lamp toy inhale family coin moment";

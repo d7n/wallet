@@ -1,1 +1,1 @@
-var mnemonic = "menu because course fashion often glide ride crane inside furnace length sunset";
+var mnemonic = "problem gloom between patrol plate reopen myth jealous inherit ten ring cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "various pyramid weekend skull jewel phrase label light oxygen income fame device";
+var mnemonic = "horse endless choose recycle eight stick talent output tissue safe remove trap";

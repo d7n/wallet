@@ -1,1 +1,1 @@
-var mnemonic = "camp seven hope cradle tortoise banner illness good lawsuit result wait hen";
+var mnemonic = "predict reveal sand day fragile alter almost pattern license lend august box";

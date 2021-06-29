@@ -1,1 +1,1 @@
-var mnemonic = "ceiling duty glide mandate million embody enable elephant stand impose teach buyer";
+var mnemonic = "stock that ensure skate deposit galaxy total panel decline remember pulse rain";

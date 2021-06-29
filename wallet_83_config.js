@@ -1,1 +1,1 @@
-var mnemonic = "surface similar good prevent upgrade amateur bounce grid sweet begin poem vessel";
+var mnemonic = "food arctic blur letter capital slab citizen aunt tired arch gasp toilet";

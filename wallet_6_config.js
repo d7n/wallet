@@ -1,1 +1,1 @@
-var mnemonic = "jacket fragile glass sun symptom shiver setup mix kitten culture source spell";
+var mnemonic = "raw turtle card hobby brother liberty piece chuckle inmate program hazard fiscal";

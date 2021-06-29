@@ -1,1 +1,1 @@
-var mnemonic = "green feel lend token muffin foil waste sadness salt hold gloom patch";
+var mnemonic = "modify drive bunker churn buddy frost local return nation game before denial";

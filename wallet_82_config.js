@@ -1,1 +1,1 @@
-var mnemonic = "ability unknown unable orient sail any brush same scare disagree surprise stuff";
+var mnemonic = "emerge must business audit fit spirit bus coyote body glad law busy";

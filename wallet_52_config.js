@@ -1,1 +1,1 @@
-var mnemonic = "permit unhappy echo claw jar proof plug balance betray champion topple wool";
+var mnemonic = "oval cable square dutch tape service crisp thumb air marble until arm";

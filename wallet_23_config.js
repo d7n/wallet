@@ -1,1 +1,1 @@
-var mnemonic = "boring jealous build prison lens noble elephant woman act ecology during wink";
+var mnemonic = "adjust skill pave position bullet potato twin easy bless wash puppy gift";

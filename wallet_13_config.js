@@ -1,1 +1,1 @@
-var mnemonic = "loyal stumble blame monster year jacket shoulder square steak abandon modify want";
+var mnemonic = "where lawn clay boil rely kangaroo shed castle umbrella short ensure leg";

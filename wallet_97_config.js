@@ -1,1 +1,1 @@
-var mnemonic = "myself garage spin comfort assist grief snap banana ask giant economy improve";
+var mnemonic = "this suggest load delay rail body limit carry truth cash during camera";

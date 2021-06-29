@@ -1,1 +1,1 @@
-var mnemonic = "connect hope pause never blouse liberty danger purse false boat tide oven";
+var mnemonic = "capable before police steak ask head track dinner office cube upon reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "usual soup tired vintage office derive title hood pelican ski culture shove";
+var mnemonic = "obey act rose mosquito embrace mail admit gym below flat extend month";

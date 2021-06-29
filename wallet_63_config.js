@@ -1,1 +1,1 @@
-var mnemonic = "method melody domain antique timber truth poet pledge twice island start diesel";
+var mnemonic = "cigar decade wrap wonder detect lobster crane timber order special garment find";

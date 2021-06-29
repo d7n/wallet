@@ -1,1 +1,1 @@
-var mnemonic = "solution bar meat corn luggage case april airport nut humble tuna casino";
+var mnemonic = "general number movie truck later junior can heavy sauce thank feature essay";

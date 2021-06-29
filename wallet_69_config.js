@@ -1,1 +1,1 @@
-var mnemonic = "journey breeze super style nasty law swear rough toe fatigue amount merry";
+var mnemonic = "pole hurry polar traffic lawsuit wrap phrase nephew mass april earth error";

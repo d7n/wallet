@@ -1,1 +1,1 @@
-var mnemonic = "myth cart oblige conduct undo early close library vacuum sick region brave";
+var mnemonic = "garbage odor machine october scissors addict pony hip network during waste emotion";

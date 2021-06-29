@@ -1,1 +1,1 @@
-var mnemonic = "search page worth exhaust garbage tongue leopard among front risk dutch title";
+var mnemonic = "swarm skate all yellow street wrestle awkward brick awake exist miss utility";

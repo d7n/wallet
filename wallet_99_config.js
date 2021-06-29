@@ -1,1 +1,1 @@
-var mnemonic = "noise update castle leaf lizard warrior engage today tackle rare conduct sketch";
+var mnemonic = "control soup father mutual place bring scissors viable return vehicle pencil blade";

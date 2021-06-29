@@ -1,1 +1,1 @@
-var mnemonic = "slot degree claw journey tower tell senior cook middle jacket couch devote";
+var mnemonic = "legal giggle game choose rabbit bid hawk expose town web february antenna";

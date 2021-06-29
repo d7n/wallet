@@ -1,1 +1,1 @@
-var mnemonic = "ready visit lend tower tobacco spoon turn gold panel gather vapor medal";
+var mnemonic = "insect unusual boring fly soap parrot clever secret candy brick venue weird";

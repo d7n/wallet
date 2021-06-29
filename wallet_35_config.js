@@ -1,1 +1,1 @@
-var mnemonic = "pudding cover evoke call plunge enact member ethics youth air hidden slow";
+var mnemonic = "power biology fold eyebrow hospital size grocery bid eagle thunder olive mirror";

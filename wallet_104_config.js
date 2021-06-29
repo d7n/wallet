@@ -1,1 +1,1 @@
-var mnemonic = "rule ski crunch eternal emerge express since frown usage cereal rug hidden";
+var mnemonic = "truck usage tobacco grace drum evolve neutral minute monster nothing urban enact";
