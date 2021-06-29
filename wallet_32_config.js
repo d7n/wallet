@@ -1,1 +1,1 @@
-var mnemonic = "brain pledge october derive modify sign fuel stairs toilet club movie tunnel";
+var mnemonic = "tragic derive seed profit setup crowd pulse portion attitude prefer morning section";

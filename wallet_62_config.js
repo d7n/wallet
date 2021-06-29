@@ -1,1 +1,1 @@
-var mnemonic = "come acoustic equal dynamic flush child wage canal almost used risk grace";
+var mnemonic = "suffer nature raccoon supreme glance mansion tuition device drop pear toast wait";

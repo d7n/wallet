@@ -1,1 +1,1 @@
-var mnemonic = "allow destroy step vote melt ring kick swift cart rule choice ecology";
+var mnemonic = "tortoise forward cross myth dice peasant sudden eagle virus seat fence unknown";

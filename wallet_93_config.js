@@ -1,1 +1,1 @@
-var mnemonic = "brief pet habit text luxury ketchup sock lion canoe slight casual tube";
+var mnemonic = "strong web cricket library giraffe combine inch click used onion armed true";

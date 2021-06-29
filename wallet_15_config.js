@@ -1,1 +1,1 @@
-var mnemonic = "term vault father wage still shell suggest fancy vast acquire deliver assume";
+var mnemonic = "spring number device glow snake century cart accuse faculty title clever leopard";

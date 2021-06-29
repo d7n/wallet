@@ -1,1 +1,1 @@
-var mnemonic = "merge myself reward rebel length hurry sock hunt price surge vote make";
+var mnemonic = "legend glare present nuclear million asthma gate hood bar dutch scene cat";

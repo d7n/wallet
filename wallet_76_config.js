@@ -1,1 +1,1 @@
-var mnemonic = "grab afford galaxy muscle differ surge giraffe guess victory execute depend mother";
+var mnemonic = "corn aisle shiver inner garden giraffe banner mix myself domain zoo edit";

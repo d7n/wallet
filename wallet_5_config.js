@@ -1,1 +1,1 @@
-var mnemonic = "dose fit first require lock party alter shoot maximum matter army luxury";
+var mnemonic = "involve choice matrix sure father engage fun penalty celery milk swap subway";

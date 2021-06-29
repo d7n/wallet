@@ -1,1 +1,1 @@
-var mnemonic = "coffee few inhale control rebuild moral coral weekend promote truth check million";
+var mnemonic = "someone usual hybrid search wreck dirt that settle flush home keen save";

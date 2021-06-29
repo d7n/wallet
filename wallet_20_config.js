@@ -1,1 +1,1 @@
-var mnemonic = "denial napkin noodle put chunk acid slam canvas badge hole extra neutral";
+var mnemonic = "insect laundry prison iron uphold brisk village pipe mushroom twice name online";

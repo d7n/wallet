@@ -1,1 +1,1 @@
-var mnemonic = "elephant cage whale rather surge embrace neither man lunar fold large insane";
+var mnemonic = "couch topic wreck poet soda runway lift warfare track pass lizard reunion";

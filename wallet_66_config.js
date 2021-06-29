@@ -1,1 +1,1 @@
-var mnemonic = "begin wait poet bomb turkey mansion explain arrange uncover victory they joke";
+var mnemonic = "frozen grunt attitude inmate dawn ginger pole pulp scene talent level brass";

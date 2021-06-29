@@ -1,1 +1,1 @@
-var mnemonic = "mercy absorb age fold circle member puppy type zebra tennis avoid video";
+var mnemonic = "uncover service sense cargo exact toy wage own female matrix oppose kitchen";

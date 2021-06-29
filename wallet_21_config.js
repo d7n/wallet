@@ -1,1 +1,1 @@
-var mnemonic = "fine valid glue helmet rally source card fatal clarify monitor wagon believe";
+var mnemonic = "final enter outdoor bring purity credit reject scan hybrid mansion brave lounge";

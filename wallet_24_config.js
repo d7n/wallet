@@ -1,1 +1,1 @@
-var mnemonic = "jar thunder day brick soup shock excuse input diagram disease around example";
+var mnemonic = "tone evil alarm cereal report volume nose eye delay business plate prison";

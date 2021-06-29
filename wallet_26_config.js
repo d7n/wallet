@@ -1,1 +1,1 @@
-var mnemonic = "parent nation program empower casual erode swift naive window grape clarify area";
+var mnemonic = "future bulb uncle sad change perfect liar style initial smooth cradle slow";

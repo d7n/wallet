@@ -1,1 +1,1 @@
-var mnemonic = "taste praise reason leaf taxi love dirt law walnut barrel example turkey";
+var mnemonic = "mule asset include sweet cause student awful salmon damage found color daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse blouse alarm crunch border cotton same fold viable wire ripple have";
+var mnemonic = "spring whisper pig blouse shove music unique repair isolate always vapor deny";

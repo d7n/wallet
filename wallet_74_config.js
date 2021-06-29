@@ -1,1 +1,1 @@
-var mnemonic = "latin burger long dial park detail fuel crunch scatter promote chat life";
+var mnemonic = "next worry hazard nest begin tornado club rude gate beyond exile width";

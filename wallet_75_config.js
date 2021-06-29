@@ -1,1 +1,1 @@
-var mnemonic = "heavy foil year sort enough teach verb hold gallery push ranch boss";
+var mnemonic = "salon rail runway damage raw then ahead claim increase exhaust stand security";

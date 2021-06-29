@@ -1,1 +1,1 @@
-var mnemonic = "picnic castle person maximum runway cloth topple float reject dinner tell country";
+var mnemonic = "seek clever quote ball syrup ride gravity drift brisk shy spell aware";

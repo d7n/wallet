@@ -1,1 +1,1 @@
-var mnemonic = "sort crater toss suspect call dismiss similar hobby peasant video trial desk";
+var mnemonic = "exercise truck laptop brother behind breeze gown talk adapt segment project tent";

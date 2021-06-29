@@ -1,1 +1,1 @@
-var mnemonic = "evolve valid announce buffalo dilemma decade destroy believe oval garment patch strike";
+var mnemonic = "setup capable hard because goddess trend sick oak used fresh inquiry liquid";

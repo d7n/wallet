@@ -1,1 +1,1 @@
-var mnemonic = "float cause clever any fabric exercise senior act glue extra human hundred";
+var mnemonic = "devote normal reflect erode wide crisp brick nephew tongue tired jaguar six";

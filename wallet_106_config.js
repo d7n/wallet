@@ -1,1 +1,1 @@
-var mnemonic = "belt cement attack ticket scheme foil crater apology remain ivory dawn blame";
+var mnemonic = "expire help search danger stairs saddle nominee item decline mushroom federal seminar";

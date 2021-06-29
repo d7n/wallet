@@ -1,1 +1,1 @@
-var mnemonic = "client cause girl candy chief illness width dirt violin legend beach column";
+var mnemonic = "vague fame pear antenna top pottery drastic limb bread auction swim merit";

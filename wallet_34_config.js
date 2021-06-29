@@ -1,1 +1,1 @@
-var mnemonic = "strategy pretty shaft beauty wet chat remind label walnut bring maze table";
+var mnemonic = "gain blur myth lunch praise fiction digital audit reduce slim monster beach";

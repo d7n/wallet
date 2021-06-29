@@ -1,1 +1,1 @@
-var mnemonic = "since mushroom text outer purpose check pony vault spin cube merit clutch";
+var mnemonic = "laundry mango clarify play mobile salad heart remove raise cargo winner soap";

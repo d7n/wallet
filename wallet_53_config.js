@@ -1,1 +1,1 @@
-var mnemonic = "express among visa uniform pledge skate cradle two large remove leg behind";
+var mnemonic = "trouble cluster butter cover render barely piece curtain lion invite meadow various";

@@ -1,1 +1,1 @@
-var mnemonic = "fever radar usual ceiling surface design wide baby must lady expire output";
+var mnemonic = "tent gossip ceiling artefact plate duty clown cheap museum hidden bomb pizza";

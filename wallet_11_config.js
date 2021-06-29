@@ -1,1 +1,1 @@
-var mnemonic = "soldier laptop wrong cave flash loop film pottery canvas surface milk kit";
+var mnemonic = "flip since run famous group slim tree agree lunch abandon civil palace";

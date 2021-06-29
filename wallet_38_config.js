@@ -1,1 +1,1 @@
-var mnemonic = "empty oil badge pet about never person rookie transfer remind trash tiny";
+var mnemonic = "foam actor have answer garden barrel there love glow doll drip sponsor";

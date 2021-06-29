@@ -1,1 +1,1 @@
-var mnemonic = "winter where survey lottery cabbage kangaroo leader flee sight giggle start fat";
+var mnemonic = "man raise gas room wrist position marriage flash spike supreme predict review";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon pond update found critic move spot various prison fancy net image";
+var mnemonic = "soon illness mask swallow elevator gaze inquiry split frown miracle joy hour";

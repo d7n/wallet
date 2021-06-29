@@ -1,1 +1,1 @@
-var mnemonic = "middle series lazy immune have genre average carry blood forget rifle myth";
+var mnemonic = "enroll harvest trial behind pledge capital desert immune erode stay feature staff";

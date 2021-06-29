@@ -1,1 +1,1 @@
-var mnemonic = "wagon ramp salmon stock rule talent own advice excite dinner rabbit patrol";
+var mnemonic = "purchase dune marble lady hold wear sail tail friend minute client mutual";

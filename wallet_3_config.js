@@ -1,1 +1,1 @@
-var mnemonic = "lion cup permit truly forward destroy eyebrow crisp gather vocal cash market";
+var mnemonic = "shoulder exist grunt orange stand vocal cake change stuff section feel gasp";

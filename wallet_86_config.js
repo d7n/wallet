@@ -1,1 +1,1 @@
-var mnemonic = "educate faith purpose sure middle assume muscle mix attend olive dish swift";
+var mnemonic = "guitar bundle grace weasel absorb behave armed hub bomb acquire gallery decide";

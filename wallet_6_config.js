@@ -1,1 +1,1 @@
-var mnemonic = "work social color sick flame spirit mushroom win maple report problem crater";
+var mnemonic = "search narrow review mammal army unusual lamp judge cover suffer absorb hobby";

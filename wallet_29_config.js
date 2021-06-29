@@ -1,1 +1,1 @@
-var mnemonic = "monkey nest hero gloom mule print quit castle sort boil humor license";
+var mnemonic = "final tourist tortoise decade stock skate match bid knife glimpse charge solar";

@@ -1,1 +1,1 @@
-var mnemonic = "august upon magnet exact crew arrest arrange kitten water ahead sword girl";
+var mnemonic = "vessel weapon silk clog mass frame shine south weekend layer isolate way";

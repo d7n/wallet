@@ -1,1 +1,1 @@
-var mnemonic = "solution cause gadget wrist hat feature grief lobster afraid soap effort raise";
+var mnemonic = "crew steak recycle blue fatigue fringe crack inflict globe box abuse alarm";

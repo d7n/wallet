@@ -1,1 +1,1 @@
-var mnemonic = "melody salad sick scan stem derive patrol hammer tunnel shadow fringe chuckle";
+var mnemonic = "tomorrow spend omit typical analyst high service never child race mule curtain";

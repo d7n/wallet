@@ -1,1 +1,1 @@
-var mnemonic = "ice people scout actual aim napkin salon harvest rail maid alpha energy";
+var mnemonic = "exist recipe bleak rather drip consider crime laugh analyst human hidden aerobic";

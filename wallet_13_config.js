@@ -1,1 +1,1 @@
-var mnemonic = "soup save summer valve farm aim document head move hybrid stumble success";
+var mnemonic = "ordinary oil beef cabin fabric true joy slice chapter company sadness average";

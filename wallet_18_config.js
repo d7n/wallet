@@ -1,1 +1,1 @@
-var mnemonic = "click escape quality depend hawk fiscal admit boy canvas vehicle romance report";
+var mnemonic = "olympic pitch column season any task hotel brisk slice obtain clean smile";

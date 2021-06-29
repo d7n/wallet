@@ -1,1 +1,1 @@
-var mnemonic = "library famous lunar visual struggle flip pool correct nothing scare lab emerge";
+var mnemonic = "also fix add brisk plunge bread glow jungle announce cart vapor dash";

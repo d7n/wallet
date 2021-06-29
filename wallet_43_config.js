@@ -1,1 +1,1 @@
-var mnemonic = "slab tired solid dust foam name comic next pottery inch man grief";
+var mnemonic = "maze cannon bonus voice fitness portion hill aerobic museum correct abandon jelly";

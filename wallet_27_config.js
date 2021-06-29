@@ -1,1 +1,1 @@
-var mnemonic = "misery actor reunion merry genius middle lab shield either shy move life";
+var mnemonic = "decorate ozone sell perfect satisfy smile behind theory erase spare seek nest";

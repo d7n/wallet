@@ -1,1 +1,1 @@
-var mnemonic = "crystal bread soul winter margin milk leave whip basic sting beauty umbrella";
+var mnemonic = "effort patient unfold emerge faith awake illegal trash asset gaze run flock";

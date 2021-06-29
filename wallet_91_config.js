@@ -1,1 +1,1 @@
-var mnemonic = "orange grape vacuum pull shoot hero firm scan wave frog beauty bomb";
+var mnemonic = "issue urge refuse hobby online gallery reject scrap powder ready drink company";

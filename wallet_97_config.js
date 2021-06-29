@@ -1,1 +1,1 @@
-var mnemonic = "elite sample office matter bracket version cry second choice have give beef";
+var mnemonic = "elder birth admit sting decrease noodle file sample aerobic test raven fall";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth cream tell choose erase snow movie raven climb sun network veteran";
+var mnemonic = "bonus ramp ski lucky answer sister popular captain loyal smoke frown search";

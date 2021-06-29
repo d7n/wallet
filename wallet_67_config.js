@@ -1,1 +1,1 @@
-var mnemonic = "mention lava lawn duck pave wing ramp thumb exclude echo peace salute";
+var mnemonic = "van shine buyer random nothing twelve session flip anchor brand also key";

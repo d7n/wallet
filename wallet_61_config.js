@@ -1,1 +1,1 @@
-var mnemonic = "divide crop trim truck bulb genuine betray switch record explain loyal depth";
+var mnemonic = "host allow stage edge cheese ordinary solve novel chronic pistol neck say";

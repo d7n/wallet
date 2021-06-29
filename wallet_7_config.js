@@ -1,1 +1,1 @@
-var mnemonic = "tank notable round liar come design exit time style spell tank torch";
+var mnemonic = "festival walk spy canvas bullet sibling depth media chuckle cotton afraid slush";

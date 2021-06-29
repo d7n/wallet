@@ -1,1 +1,1 @@
-var mnemonic = "bounce mom toe speed cabin summer panic clarify permit clinic minimum mad";
+var mnemonic = "arrange tank portion essence uniform labor paddle fork cram problem fan pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "clap canyon ice urge song click october bag crumble lobster hedgehog fold";
+var mnemonic = "doctor filter session develop endorse bread setup balance grief immune truth inmate";

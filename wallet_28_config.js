@@ -1,1 +1,1 @@
-var mnemonic = "badge skill pilot vault concert kind cupboard want gown order stock soap";
+var mnemonic = "inspire rack adult antique month muscle merit kite network beach vast gift";

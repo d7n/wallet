@@ -1,1 +1,1 @@
-var mnemonic = "glance drop spoil coyote dumb stone link birth label either shed dynamic";
+var mnemonic = "cost enable fantasy aim electric guard trigger main start clip canyon glare";

@@ -1,1 +1,1 @@
-var mnemonic = "test topple napkin fall tide photo dune bunker kiwi settle army cactus";
+var mnemonic = "whip bleak session side monkey push all broom trouble nose shallow slab";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge abuse pink allow capable giraffe owner whale regular pass switch layer";
+var mnemonic = "catalog update sheriff rebel spring topple expect shaft anxiety clump shove donate";

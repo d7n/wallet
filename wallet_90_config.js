@@ -1,1 +1,1 @@
-var mnemonic = "swing gun initial patient mansion skull file stairs above now weekend bracket";
+var mnemonic = "write hard fall behave gospel fix ensure credit embark right edge keen";

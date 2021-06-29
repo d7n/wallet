@@ -1,1 +1,1 @@
-var mnemonic = "orient energy shrug soul then tooth right enter find near time element";
+var mnemonic = "despair monster orchard high style firm mouse snake outdoor sorry swamp mushroom";

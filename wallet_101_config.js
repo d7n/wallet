@@ -1,1 +1,1 @@
-var mnemonic = "glow kiwi kitten opinion upset coast umbrella change race goose scare often";
+var mnemonic = "stable language perfect wolf scrub toward into among divorce cabin cost future";

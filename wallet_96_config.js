@@ -1,1 +1,1 @@
-var mnemonic = "galaxy mad talk canyon valid chalk cave peasant mass blanket wasp large";
+var mnemonic = "ice hungry same mandate hire enough story exercise wing damp family sniff";

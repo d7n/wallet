@@ -1,1 +1,1 @@
-var mnemonic = "holiday morning course robot pattern anxiety first hope ability purchase meadow close";
+var mnemonic = "garden rain piano doll claim runway any shoe crazy hood dinosaur kit";

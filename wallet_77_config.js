@@ -1,1 +1,1 @@
-var mnemonic = "select hold myth item diamond shock rather cash forward mention damage evil";
+var mnemonic = "small around exotic merry trim stomach consider syrup vanish fault route milk";

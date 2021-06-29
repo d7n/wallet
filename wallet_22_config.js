@@ -1,1 +1,1 @@
-var mnemonic = "gas good grape idea legal toilet novel work indoor correct feature grape";
+var mnemonic = "bless engine ill draft road copy sketch bird later comic family mixed";

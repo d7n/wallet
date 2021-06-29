@@ -1,1 +1,1 @@
-var mnemonic = "insane better body oyster box deal usual debate trip agree bundle avoid";
+var mnemonic = "gaze before address flag want ability slice venue image fury idle bacon";

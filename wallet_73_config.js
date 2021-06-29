@@ -1,1 +1,1 @@
-var mnemonic = "defy spot fatigue wasp melt hold spy silver differ purchase one way";
+var mnemonic = "dragon nation hurry never live inform flash bring mouse exact manage right";

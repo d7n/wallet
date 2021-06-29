@@ -1,1 +1,1 @@
-var mnemonic = "pretty solid laptop chimney omit fetch idea belt debris wine domain globe";
+var mnemonic = "pond goat beyond decorate law fatal clock excite say pepper that actress";

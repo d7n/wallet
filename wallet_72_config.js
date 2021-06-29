@@ -1,1 +1,1 @@
-var mnemonic = "carbon abuse quit vendor lift ship need join net review cake apology";
+var mnemonic = "one universe tonight angle say close risk patient stumble prison sense twin";

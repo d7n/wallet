@@ -1,1 +1,1 @@
-var mnemonic = "success earth romance govern bubble lottery still dumb comic blur tattoo birth";
+var mnemonic = "visa end fragile hobby pitch twin elephant split air accident health trash";

@@ -1,1 +1,1 @@
-var mnemonic = "acid stage used agent mansion robust mystery avocado rebuild once april grain";
+var mnemonic = "fatigue vacant used cricket couple insect lion promote chef credit inner pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "gas size inform kidney daughter permit sugar wide subject north joke online";
+var mnemonic = "alley high wool trim wheel cattle globe spider annual copper talk trick";

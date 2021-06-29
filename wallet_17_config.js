@@ -1,1 +1,1 @@
-var mnemonic = "talent salute bus tip draw wheat cluster shallow teach steak then february";
+var mnemonic = "ribbon prosper aspect torch evidence bean place mixed toe weekend donate code";

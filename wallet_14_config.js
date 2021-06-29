@@ -1,1 +1,1 @@
-var mnemonic = "humor reason marble shaft avocado congress junk relax friend input because differ";
+var mnemonic = "grace wisdom lumber coil physical town milk soda gossip body oppose gas";

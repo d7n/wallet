@@ -1,1 +1,1 @@
-var mnemonic = "festival device prison scorpion grow edge series marine market shield sniff evolve";
+var mnemonic = "crush dutch evidence obey used remain laundry wasp shrug bone crouch material";

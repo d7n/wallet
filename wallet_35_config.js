@@ -1,1 +1,1 @@
-var mnemonic = "try snack clean suit soup soul leave photo chicken gown conduct still";
+var mnemonic = "exercise chuckle negative nurse much glare require pepper hand supreme raccoon act";

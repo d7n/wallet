@@ -1,1 +1,1 @@
-var mnemonic = "birth close virus dress assist pattern embrace trash person laugh blue mimic";
+var mnemonic = "chest hospital danger limb hedgehog stock slab chuckle party vendor gate obscure";

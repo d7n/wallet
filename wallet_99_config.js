@@ -1,1 +1,1 @@
-var mnemonic = "someone inform sphere time corn divert matter napkin nest lake document sustain";
+var mnemonic = "ocean load boy honey exhaust fluid favorite total wreck resemble hen year";

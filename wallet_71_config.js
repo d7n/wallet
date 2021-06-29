@@ -1,1 +1,1 @@
-var mnemonic = "orchard rule industry skirt student also stone mesh dove unveil tomorrow three";
+var mnemonic = "meadow race record enact accident often uncover hour pet confirm ribbon response";

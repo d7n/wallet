@@ -1,1 +1,1 @@
-var mnemonic = "unit civil include auto ski mix arrive situate private pigeon object replace";
+var mnemonic = "debris comic express wrong vault clean travel indicate great insane magnet jump";

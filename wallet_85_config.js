@@ -1,1 +1,1 @@
-var mnemonic = "excess cable repeat author hurt tilt pride unit furnace brass spread winner";
+var mnemonic = "silent zoo slim hotel economy rose program dynamic medal then copper quick";

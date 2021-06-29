@@ -1,1 +1,1 @@
-var mnemonic = "person champion inspire clean start chicken paper fly bronze report pelican benefit";
+var mnemonic = "life hospital idea equip wagon little help runway depth lazy endless tail";

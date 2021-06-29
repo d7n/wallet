@@ -1,1 +1,1 @@
-var mnemonic = "flavor can bracket winter strategy river sketch mosquito logic label clay seminar";
+var mnemonic = "glad mention become reform brother antenna depend skate beach gown cargo enact";

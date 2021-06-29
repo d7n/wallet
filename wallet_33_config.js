@@ -1,1 +1,1 @@
-var mnemonic = "crawl mom bright risk fall crop crash dinosaur rather music laptop work";
+var mnemonic = "add moment village sleep forward seek insane ordinary olive extra please alien";

@@ -1,1 +1,1 @@
-var mnemonic = "brown traffic flee slogan review meadow angry feed brain flock wonder bracket";
+var mnemonic = "vague grant twice pilot unable change act source shell subject craft mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "soft trip enjoy rural under dream man heavy gown cargo cook flame";
+var mnemonic = "hungry owner duty someone uphold fold spray ten annual replace talk analyst";

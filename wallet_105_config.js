@@ -1,1 +1,1 @@
-var mnemonic = "impose lazy escape number text day party vocal hen elephant produce detect";
+var mnemonic = "glue modify pledge seminar mad property mention smoke canyon wedding beyond want";

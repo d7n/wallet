@@ -1,1 +1,1 @@
-var mnemonic = "air feel canyon match crisp waste worth violin noodle volume pony silver";
+var mnemonic = "seat leader exclude yellow train auto thunder rule diet together shiver ladder";

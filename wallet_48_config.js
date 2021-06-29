@@ -1,1 +1,1 @@
-var mnemonic = "harbor fiction rhythm anchor media sphere super piece exit eight bitter base";
+var mnemonic = "soul nature salute summer verb friend grape tone gift release winter result";

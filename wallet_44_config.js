@@ -1,1 +1,1 @@
-var mnemonic = "brown divide drink exclude floor rhythm junk faith science giant december truly";
+var mnemonic = "intact found flight share saddle basic man myself position heavy rival stomach";

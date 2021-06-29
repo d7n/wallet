@@ -1,1 +1,1 @@
-var mnemonic = "among market problem apple foot skull uncle emerge solve glide people dust";
+var mnemonic = "lava wife mountain success outdoor settle valley brain vendor area teach index";
