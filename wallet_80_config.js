@@ -1,1 +1,1 @@
-var mnemonic = "awesome elephant economy cabin weather panic learn eternal crush bike inner obvious";
+var mnemonic = "cash gun duck figure clutch tumble below uncle adjust join task walk";

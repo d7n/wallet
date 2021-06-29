@@ -1,1 +1,1 @@
-var mnemonic = "noble soup shrimp give brand river resist pony cave render crystal chimney";
+var mnemonic = "dad sustain horse april brother image warrior mimic source person episode height";

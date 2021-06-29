@@ -1,1 +1,1 @@
-var mnemonic = "print carpet place credit train before arrange keep perfect often infant digital";
+var mnemonic = "antenna dish deposit menu coach inform surface curious flat punch weasel van";

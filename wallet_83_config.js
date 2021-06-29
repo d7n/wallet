@@ -1,1 +1,1 @@
-var mnemonic = "crowd loop purchase pulp perfect twice excite eight reduce fiber sun opinion";
+var mnemonic = "powder cry congress achieve repair unaware market milk stove various faint arch";

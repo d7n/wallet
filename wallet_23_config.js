@@ -1,1 +1,1 @@
-var mnemonic = "disorder million copper fruit away fork ostrich arena music bullet rule edit";
+var mnemonic = "finish august actress broken core embark actor silver carbon equal minute kiss";

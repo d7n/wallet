@@ -1,1 +1,1 @@
-var mnemonic = "vague oppose town little ice ladder word milk exit gadget magic glare";
+var mnemonic = "gold skull iron hawk resource hover marble rally nuclear second brief perfect";

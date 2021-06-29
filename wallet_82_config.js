@@ -1,1 +1,1 @@
-var mnemonic = "visa remove become token ozone stumble cattle ensure clerk april smile polar";
+var mnemonic = "cry citizen puppy hundred cry cruel cute robust despair view urban feed";

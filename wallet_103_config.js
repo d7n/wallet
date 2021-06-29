@@ -1,1 +1,1 @@
-var mnemonic = "laptop garbage rifle hope fire funny volume yard kiwi near shy menu";
+var mnemonic = "scene elite item draw minimum permit dentist nephew route super horror embark";

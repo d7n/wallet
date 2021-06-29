@@ -1,1 +1,1 @@
-var mnemonic = "buddy minute jacket forward picnic kitten fun marine now address scene cry";
+var mnemonic = "crime second galaxy stock wrist erupt slide talk apology steel peace half";

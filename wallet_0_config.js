@@ -1,1 +1,1 @@
-var mnemonic = "humor cement physical laptop celery plug lobster adjust code cradle sugar ribbon";
+var mnemonic = "radar afford pigeon other pig hard ramp tunnel sister banner wing reward";

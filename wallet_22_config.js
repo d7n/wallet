@@ -1,1 +1,1 @@
-var mnemonic = "filter garage grant minimum cereal final soft arch unknown uncle motor require";
+var mnemonic = "deposit ticket jeans evoke moral edit siege lobster blanket unusual age eternal";

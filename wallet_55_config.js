@@ -1,1 +1,1 @@
-var mnemonic = "depth fold charge noodle despair erase flash general plunge when boost soap";
+var mnemonic = "jazz ecology zone accident final hand crumble rug grunt nose van chicken";

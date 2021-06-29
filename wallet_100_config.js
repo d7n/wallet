@@ -1,1 +1,1 @@
-var mnemonic = "fit renew scare picnic snow version judge dress abuse supreme river frog";
+var mnemonic = "trust ice knock travel split swap panda crowd birth clinic warrior film";

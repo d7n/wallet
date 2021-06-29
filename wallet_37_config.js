@@ -1,1 +1,1 @@
-var mnemonic = "lift cheap humble balance soda orbit genius rapid select three between program";
+var mnemonic = "orient trigger bacon deer allow oil age faith air code jelly upset";

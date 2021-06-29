@@ -1,1 +1,1 @@
-var mnemonic = "master mean among fruit napkin atom document access walnut twin gadget warm";
+var mnemonic = "side favorite fashion post churn switch abstract produce east impulse isolate require";

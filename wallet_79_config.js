@@ -1,1 +1,1 @@
-var mnemonic = "battle gown visit aspect hazard catalog minor frown surround tomorrow room hollow";
+var mnemonic = "repair key right lunch member lunch attract meadow hockey awful lawn wall";

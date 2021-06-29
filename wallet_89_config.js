@@ -1,1 +1,1 @@
-var mnemonic = "earn pottery elite margin cause portion life antique swim acoustic wagon jealous";
+var mnemonic = "myself capable tomato device sound rescue engage final comic strike goddess small";

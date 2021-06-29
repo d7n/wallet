@@ -1,1 +1,1 @@
-var mnemonic = "hope grow foot creek kidney true tell search arrow canyon grab game";
+var mnemonic = "illegal youth spoon next razor dutch happy slim police pyramid blouse mosquito";

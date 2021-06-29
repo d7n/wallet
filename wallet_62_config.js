@@ -1,1 +1,1 @@
-var mnemonic = "buddy paddle charge abuse flight dash brief inside primary price option benefit";
+var mnemonic = "enemy ensure now banner grunt mammal lock choose blade dry orbit anchor";

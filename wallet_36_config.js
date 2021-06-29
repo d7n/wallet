@@ -1,1 +1,1 @@
-var mnemonic = "badge demand order nest hill file gadget need drum demise elegant pond";
+var mnemonic = "leaf caution win music erode quality orbit original anchor cup seminar until";

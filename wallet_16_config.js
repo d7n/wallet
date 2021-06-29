@@ -1,1 +1,1 @@
-var mnemonic = "rent canyon glad net lounge release toss season join crash volcano rally";
+var mnemonic = "clump life sorry around winter welcome certain clap accuse congress theory powder";

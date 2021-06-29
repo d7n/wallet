@@ -1,1 +1,1 @@
-var mnemonic = "matter similar best wisdom click artwork roast gather east among annual barrel";
+var mnemonic = "fortune gorilla figure rent become virus spin sort jeans net member bless";

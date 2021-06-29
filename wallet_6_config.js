@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog talent life climb reward hat survey leave scrap mad project poet";
+var mnemonic = "pyramid nasty inspire glove kitten fault cup dice acquire day exile decorate";

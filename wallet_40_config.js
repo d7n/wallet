@@ -1,1 +1,1 @@
-var mnemonic = "number foot nasty enroll puppy pioneer mimic hair relax bird abstract crawl";
+var mnemonic = "exercise close school dinner guitar net frog game soft gather wire connect";

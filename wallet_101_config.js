@@ -1,1 +1,1 @@
-var mnemonic = "canvas dynamic trigger layer travel sister bone six collect maid cave visual";
+var mnemonic = "liar gospel increase donor gallery wave shell rain black zone better spawn";

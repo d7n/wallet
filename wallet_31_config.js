@@ -1,1 +1,1 @@
-var mnemonic = "shuffle machine wish aim enjoy security innocent brown flee early focus essay";
+var mnemonic = "soda nest snake parent coffee reject flower about room minute insane pretty";

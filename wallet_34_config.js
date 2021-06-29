@@ -1,1 +1,1 @@
-var mnemonic = "card panel harsh life soccer topic city antique best sister stand soccer";
+var mnemonic = "win evidence rally minor pencil chef account wrong hobby glare giggle cream";

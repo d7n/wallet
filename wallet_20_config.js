@@ -1,1 +1,1 @@
-var mnemonic = "salt social uniform just garment shift cotton demand anger symptom disagree winter";
+var mnemonic = "large garden fitness pigeon scrub happy power expose wink arrest narrow disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "praise question glare tide viable mixture unfold accident good can nose rifle";
+var mnemonic = "galaxy rebuild slush magnet punch found crowd mimic alpha crater magnet bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "jar help foil kid someone other oil reunion pigeon feature ribbon edit";
+var mnemonic = "garage novel spray humor speak sword lazy cherry bronze letter daughter matrix";

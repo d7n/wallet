@@ -1,1 +1,1 @@
-var mnemonic = "twenty crisp sorry general top visa scene cheese false hedgehog abstract volume";
+var mnemonic = "panic venue raise spice kitten impose change light burger timber hope giant";

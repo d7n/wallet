@@ -1,1 +1,1 @@
-var mnemonic = "earth seek drive coral system year occur lava depart used cradle knee";
+var mnemonic = "analyst chef fitness dose expect jazz mention play season excess artefact supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "matter lazy valley ready problem solid squirrel broken ramp develop talk shed";
+var mnemonic = "finger assist day lonely hazard danger october develop champion bleak blossom vendor";

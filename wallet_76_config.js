@@ -1,1 +1,1 @@
-var mnemonic = "avoid material program foot own evolve raven tornado off mother trade august";
+var mnemonic = "surround industry solid tray dry cause pause judge crunch shoot drink pudding";

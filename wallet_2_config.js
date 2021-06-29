@@ -1,1 +1,1 @@
-var mnemonic = "album floor easily behave belt night oppose glass fragile genius rapid group";
+var mnemonic = "web long umbrella fashion capital ice lunar apple tree jaguar orange rapid";

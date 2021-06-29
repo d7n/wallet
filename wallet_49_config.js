@@ -1,1 +1,1 @@
-var mnemonic = "connect useful buddy stem wild industry long manual erode task bicycle uncle";
+var mnemonic = "right inquiry market faculty thunder voyage appear river family sense race wet";

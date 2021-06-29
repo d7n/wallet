@@ -1,1 +1,1 @@
-var mnemonic = "balance ivory flame punch talk there start aisle screen invite glad hint";
+var mnemonic = "squirrel program gather soap rare economy quit disorder cattle glide transfer lunch";

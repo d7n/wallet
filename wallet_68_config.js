@@ -1,1 +1,1 @@
-var mnemonic = "breeze pigeon arm wear double transfer hidden army drift swallow scorpion top";
+var mnemonic = "fortune green trumpet second degree flame cattle soda inform brother audit object";

@@ -1,1 +1,1 @@
-var mnemonic = "patient often exhibit plate prosper step million dentist present carpet jeans neither";
+var mnemonic = "cabbage theory that gift cushion member bargain update hurt song science proud";

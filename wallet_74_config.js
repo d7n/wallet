@@ -1,1 +1,1 @@
-var mnemonic = "wedding crawl since brick design candy drip during skate enrich wheel pact";
+var mnemonic = "ozone math jewel exotic blur service nuclear exchange above position hedgehog pyramid";

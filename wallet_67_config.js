@@ -1,1 +1,1 @@
-var mnemonic = "portion phrase fiber nature desert dawn bright crumble effort hero chef still";
+var mnemonic = "cost sadness proud extra help giggle view normal sand enlist hub keep";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent guard receive scissors again unfold suspect topple alcohol plastic spawn citizen";
+var mnemonic = "moment faculty reject wage virus flock worth grief fold ridge sport once";

@@ -1,1 +1,1 @@
-var mnemonic = "cook journey nerve glance follow profit daring version slide exit rubber nation";
+var mnemonic = "damage vibrant column hurt awake burden canyon water usual penalty push ankle";

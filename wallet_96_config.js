@@ -1,1 +1,1 @@
-var mnemonic = "simple unaware almost champion fortune fault play inform toilet hair blue near";
+var mnemonic = "fan eager cute essence aspect buffalo draw glory enlist lawsuit monster wing";

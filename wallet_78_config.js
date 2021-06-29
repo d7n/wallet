@@ -1,1 +1,1 @@
-var mnemonic = "radio hair urban country flame wife network outdoor few frown soul taste";
+var mnemonic = "item deal ticket organ train various pool glad blind income jewel brother";

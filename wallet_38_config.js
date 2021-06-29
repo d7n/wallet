@@ -1,1 +1,1 @@
-var mnemonic = "then shy clay slide sea hawk mushroom better inhale journey loan project";
+var mnemonic = "drop cook imitate effort strike pilot able collect twin muscle patient risk";

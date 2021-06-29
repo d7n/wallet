@@ -1,1 +1,1 @@
-var mnemonic = "step average hobby audit enlist ivory lunar blur spoil valve action toss";
+var mnemonic = "fold rebuild town surface course guitar common result proof cash figure frozen";

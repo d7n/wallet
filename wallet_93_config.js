@@ -1,1 +1,1 @@
-var mnemonic = "hard perfect easy castle shuffle sadness liar fork diary attitude patrol fan";
+var mnemonic = "cake toss dolphin into below nature cute coffee brick oven delay punch";

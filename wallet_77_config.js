@@ -1,1 +1,1 @@
-var mnemonic = "clerk cash reopen depend foam coffee swamp lion absurd used swarm make";
+var mnemonic = "choose pudding light cook clarify false syrup toe settle impose ball pull";

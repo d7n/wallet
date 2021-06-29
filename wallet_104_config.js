@@ -1,1 +1,1 @@
-var mnemonic = "chest trouble fine heart like argue visa smile sister middle volume deputy";
+var mnemonic = "artist spatial raise bind chalk catalog balcony track wise thrive gym refuse";

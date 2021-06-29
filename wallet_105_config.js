@@ -1,1 +1,1 @@
-var mnemonic = "before below add cereal urban shiver theme voice file kind cage loop";
+var mnemonic = "reject pistol bring twenty face hidden cable expand veteran genius planet useless";

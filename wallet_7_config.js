@@ -1,1 +1,1 @@
-var mnemonic = "exhaust black flat simple obvious cancel acid double claim wheel elegant damage";
+var mnemonic = "firm rigid poet short afford divide anchor will afraid question place connect";

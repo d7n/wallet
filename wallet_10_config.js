@@ -1,1 +1,1 @@
-var mnemonic = "shallow ordinary illness travel gasp pink music aspect forum clerk hip purpose";
+var mnemonic = "jeans badge arm nation tiger have wrestle note size embody inject deliver";

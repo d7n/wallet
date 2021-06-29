@@ -1,1 +1,1 @@
-var mnemonic = "donor place ball airport mention bulk exhibit item off virus alarm disease";
+var mnemonic = "tennis belt turn inner luxury claw clip gym height winter wife weapon";

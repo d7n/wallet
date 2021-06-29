@@ -1,1 +1,1 @@
-var mnemonic = "dust caught smoke secret coconut glad lawsuit vintage side minimum tree middle";
+var mnemonic = "draft enroll tilt cactus aisle comfort pave slender field age female frown";

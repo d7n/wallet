@@ -1,1 +1,1 @@
-var mnemonic = "victory stock shiver help course sudden comfort kit flip deer board habit";
+var mnemonic = "spend impact shed school fun scare affair false aim spy rigid food";

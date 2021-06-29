@@ -1,1 +1,1 @@
-var mnemonic = "purity abandon place sponsor bag desert dawn before tip wrestle riot neither";
+var mnemonic = "sausage present armor border close stem coconut silent female ordinary million absorb";

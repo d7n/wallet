@@ -1,1 +1,1 @@
-var mnemonic = "nurse lesson client horn kiwi busy bleak employ caught merge sustain harsh";
+var mnemonic = "lucky mask arrange naive skirt brisk shield casino rough lion sun fluid";

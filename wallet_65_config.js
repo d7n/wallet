@@ -1,1 +1,1 @@
-var mnemonic = "file trouble shrug undo review canal thumb game imitate else second mind";
+var mnemonic = "nephew swim banner glad click unable door concert enlist regular matrix nasty";

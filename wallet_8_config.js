@@ -1,1 +1,1 @@
-var mnemonic = "domain egg strike fresh taste board minor bonus gym trick tongue nice";
+var mnemonic = "goose silk size duck among kitchen junk middle summer life poverty test";

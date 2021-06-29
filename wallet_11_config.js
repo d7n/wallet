@@ -1,1 +1,1 @@
-var mnemonic = "grain worth expand october bread exhaust asset walnut exhibit thumb tube orange";
+var mnemonic = "unusual axis hint gorilla split safe disease address local between place mention";

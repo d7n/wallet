@@ -1,1 +1,1 @@
-var mnemonic = "pizza armor chunk include march quick sugar connect toast truth dune ride";
+var mnemonic = "pipe sock middle execute lonely bundle organ subway doll garment certain process";

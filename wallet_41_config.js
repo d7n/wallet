@@ -1,1 +1,1 @@
-var mnemonic = "adapt length occur inflict device negative fiscal coin skirt zoo nothing vibrant";
+var mnemonic = "clump cluster element describe pole sock rack industry consider vibrant retire wrestle";

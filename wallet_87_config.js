@@ -1,1 +1,1 @@
-var mnemonic = "vacuum envelope citizen include flavor honey fit master enough double hurry adapt";
+var mnemonic = "hamster type stone wine setup finger cargo width tribe elephant airport doctor";

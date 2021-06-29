@@ -1,1 +1,1 @@
-var mnemonic = "lift defy bundle type clever song limit pole wing cool friend profit";
+var mnemonic = "regret skirt unit smile example repeat ramp firm puppy choose save rough";

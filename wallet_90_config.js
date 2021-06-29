@@ -1,1 +1,1 @@
-var mnemonic = "attend butter gravity silver feature village fiber ten shuffle cloud shoulder prepare";
+var mnemonic = "dice hole expire call betray above visual rule end you slight combine";

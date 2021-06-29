@@ -1,1 +1,1 @@
-var mnemonic = "bless accuse pride surround unveil harvest dilemma like wage arrest giraffe process";
+var mnemonic = "praise theme chunk brass loan viable soldier ability base snake urge scatter";

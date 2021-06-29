@@ -1,1 +1,1 @@
-var mnemonic = "lock capital fall boil sadness start keep give model pink tenant front";
+var mnemonic = "trial permit step churn turn van mimic six post trophy auction buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "permit rigid atom object item task spirit wealth cupboard suffer guess caution";
+var mnemonic = "velvet case section song tongue library castle soul piece puzzle brief slim";

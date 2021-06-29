@@ -1,1 +1,1 @@
-var mnemonic = "loop biology sign faint chief sugar junior woman urban mango normal dinner";
+var mnemonic = "tattoo math attack chest chalk lunar glow twice below divorce rice orient";

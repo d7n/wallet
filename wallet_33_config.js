@@ -1,1 +1,1 @@
-var mnemonic = "lemon apart churn dice release old scare team foster love jump misery";
+var mnemonic = "butter reduce clinic hunt member since spawn liquid chief friend very output";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket crunch shed random urge desk fetch cancel real diesel snake theory";
+var mnemonic = "stable symbol release panic chest gloom bomb lecture wolf citizen autumn give";

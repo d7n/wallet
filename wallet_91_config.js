@@ -1,1 +1,1 @@
-var mnemonic = "pizza tube champion mixture power theme guess guitar barely sentence scorpion labor";
+var mnemonic = "cactus run penalty answer move age evidence glimpse pepper drastic extra giant";

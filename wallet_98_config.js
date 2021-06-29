@@ -1,1 +1,1 @@
-var mnemonic = "list tool vivid inside swarm daring job barely swap divorce drip exact";
+var mnemonic = "direct eyebrow surround razor letter trap practice major gravity ridge invest lemon";

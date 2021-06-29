@@ -1,1 +1,1 @@
-var mnemonic = "siren twist two pill goddess switch merge cruise switch dentist place nephew";
+var mnemonic = "section end junk embody public vapor tape riot clap drop shaft screen";

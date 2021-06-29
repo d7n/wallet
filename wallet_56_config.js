@@ -1,1 +1,1 @@
-var mnemonic = "hole fabric wedding lesson parrot inmate close soldier history music sign enjoy";
+var mnemonic = "enforce scout type timber cattle crazy banana sketch plug juice syrup corn";

@@ -1,1 +1,1 @@
-var mnemonic = "kit since park evolve play gossip roof dizzy glide shadow quote frown";
+var mnemonic = "error ramp grief rib owner birth vote gate shoot visit resist check";

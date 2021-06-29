@@ -1,1 +1,1 @@
-var mnemonic = "below reason vast forum melt anxiety toilet vessel drill tortoise story envelope";
+var mnemonic = "unable alien damage kid naive spare genius tunnel goose leader search public";

@@ -1,1 +1,1 @@
-var mnemonic = "wave early maze only profit mushroom burger hunt fame siren truly bracket";
+var mnemonic = "orchard direct shoe cream light energy merit combine please edit comic sleep";

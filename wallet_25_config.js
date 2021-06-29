@@ -1,1 +1,1 @@
-var mnemonic = "taxi pulp tenant dress copper furnace amazing animal dirt hundred shiver void";
+var mnemonic = "basic subject start use claim sting match cover dynamic label phone silent";

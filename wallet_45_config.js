@@ -1,1 +1,1 @@
-var mnemonic = "desk warfare draw almost decline wage elephant burger skirt mother fatigue fever";
+var mnemonic = "monkey miss bean undo refuse library ethics risk elder rough dizzy virus";

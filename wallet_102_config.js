@@ -1,1 +1,1 @@
-var mnemonic = "upset toy divorce annual puppy behind project october riot option glove tray";
+var mnemonic = "rigid crew canvas vapor unique fame twenty route there bachelor clarify script";

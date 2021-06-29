@@ -1,1 +1,1 @@
-var mnemonic = "medal silk surprise system spirit memory symptom rule essence helmet rely gravity";
+var mnemonic = "maze when remind cinnamon confirm champion broken helmet cattle mammal awful video";

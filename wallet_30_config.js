@@ -1,1 +1,1 @@
-var mnemonic = "grant album riot black they arena special wink evil tiger trap dream";
+var mnemonic = "canoe nerve benefit elbow bid piano shell shiver solar omit hen hurry";

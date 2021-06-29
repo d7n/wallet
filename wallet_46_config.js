@@ -1,1 +1,1 @@
-var mnemonic = "dice section poet dutch couch museum kitten desk regret cable tilt lecture";
+var mnemonic = "seed castle describe kangaroo across myself saddle remember coach taxi beach ability";

@@ -1,1 +1,1 @@
-var mnemonic = "word forward release nothing crucial mountain fresh chief code obscure dragon knife";
+var mnemonic = "glance core cactus gown normal gossip monkey giggle enjoy caution excite verb";

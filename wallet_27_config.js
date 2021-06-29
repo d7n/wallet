@@ -1,1 +1,1 @@
-var mnemonic = "victory settle street wealth scale west seek chase powder jelly bonus tooth";
+var mnemonic = "pride saddle slender fatigue yellow chest used window clarify penalty rate shed";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore ready prize suggest moon monster direct trap remember torch private dry";
+var mnemonic = "power gesture joke chunk start immense mixed pottery sketch dance uncover oil";

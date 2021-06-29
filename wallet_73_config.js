@@ -1,1 +1,1 @@
-var mnemonic = "release scissors private loan mirror power coil carbon vapor rely explain brand";
+var mnemonic = "happy fold arm bench castle yard below skill what debris tornado grab";

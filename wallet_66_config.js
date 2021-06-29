@@ -1,1 +1,1 @@
-var mnemonic = "cheese outdoor bulk lesson mansion bread offer retreat universe acoustic reform disease";
+var mnemonic = "behave panda average flag echo cage skirt fun umbrella push share speak";

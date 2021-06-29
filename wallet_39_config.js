@@ -1,1 +1,1 @@
-var mnemonic = "afraid drama siege panel state loud turn book public laptop spread timber";
+var mnemonic = "news view universe roof luggage adapt vote tobacco clutch sauce amount dizzy";

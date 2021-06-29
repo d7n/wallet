@@ -1,1 +1,1 @@
-var mnemonic = "spy potato van census mimic reflect album garbage model industry antenna suffer";
+var mnemonic = "inject sign senior ill wrong average please alcohol hundred nephew cost treat";
