@@ -1,1 +1,1 @@
-var mnemonic = "number genius friend accuse wasp cheese tip nature civil almost link edge";
+var mnemonic = "blind pistol eye face advice render beach more wolf chat despair crazy";

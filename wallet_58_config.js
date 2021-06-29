@@ -1,1 +1,1 @@
-var mnemonic = "man cluster tuition home mix various giraffe pair palm build practice flat";
+var mnemonic = "grocery current already middle tail addict ball tooth elder brother found wrist";

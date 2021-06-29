@@ -1,1 +1,1 @@
-var mnemonic = "direct defense slogan welcome bulb scare atom acoustic case teach midnight priority";
+var mnemonic = "alley slight north kiss please rifle tooth sell marble devote switch task";

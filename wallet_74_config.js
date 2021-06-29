@@ -1,1 +1,1 @@
-var mnemonic = "urge blush rescue coach transfer letter hello liar exit arena lens paper";
+var mnemonic = "cage approve settle tower wine retire razor hedgehog advance another hip sense";

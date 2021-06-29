@@ -1,1 +1,1 @@
-var mnemonic = "abstract figure rotate item weasel torch gloom chat leopard view winter inhale";
+var mnemonic = "swarm galaxy sunset spread settle property violin steel dawn kidney fatal ghost";

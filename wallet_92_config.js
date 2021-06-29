@@ -1,1 +1,1 @@
-var mnemonic = "cycle shock dash ozone find half between shrimp muffin race true advice";
+var mnemonic = "nephew nasty comic physical asthma year robot debate explain ivory kidney online";

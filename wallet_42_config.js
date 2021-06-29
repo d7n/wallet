@@ -1,1 +1,1 @@
-var mnemonic = "funny estate post label depth liquid time alarm analyst race erode double";
+var mnemonic = "topic skin champion issue green bag ordinary twice sorry olive claim armor";

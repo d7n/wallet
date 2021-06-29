@@ -1,1 +1,1 @@
-var mnemonic = "balcony wait place casual anxiety match blast candy lamp thunder wish tattoo";
+var mnemonic = "hungry seek beef already rug crash patient text manual broccoli dirt thing";

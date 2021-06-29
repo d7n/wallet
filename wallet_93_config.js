@@ -1,1 +1,1 @@
-var mnemonic = "false bid razor mom flavor camera square provide wear soda badge motor";
+var mnemonic = "extra scout space harbor goddess hill glimpse grit promote crystal mouse disease";

@@ -1,1 +1,1 @@
-var mnemonic = "clever crucial guess attract glad coconut palm renew truth arm salt topic";
+var mnemonic = "bread daring portion remember fall snow ability violin verb other wish message";

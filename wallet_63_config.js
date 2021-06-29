@@ -1,1 +1,1 @@
-var mnemonic = "okay door fly panel quiz penalty royal there tag country glance peanut";
+var mnemonic = "increase agree blast garden wine wealth envelope denial quiz rhythm knock noble";

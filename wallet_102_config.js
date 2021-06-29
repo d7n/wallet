@@ -1,1 +1,1 @@
-var mnemonic = "pigeon check click special benefit essay order divide uniform february modify cloud";
+var mnemonic = "file shallow bright coral raise common once auto weekend age identify stick";

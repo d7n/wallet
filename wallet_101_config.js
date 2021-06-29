@@ -1,1 +1,1 @@
-var mnemonic = "taxi icon evoke trial corn material blouse design disorder pet crisp alley";
+var mnemonic = "language glare lend furnace album silver tape iron sense define exhaust today";

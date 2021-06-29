@@ -1,1 +1,1 @@
-var mnemonic = "tail assume taxi trend awkward divide yellow canvas unlock unit warfare measure";
+var mnemonic = "sniff grief warrior render victory sing render credit floor chicken humble bottom";

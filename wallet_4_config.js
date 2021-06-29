@@ -1,1 +1,1 @@
-var mnemonic = "giraffe piano stadium try earn talent captain victory patrol empty agree phone";
+var mnemonic = "mobile early gate fever fun wash smart tennis jazz joy fox moment";

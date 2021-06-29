@@ -1,1 +1,1 @@
-var mnemonic = "sock away dynamic option envelope ridge trial hedgehog affair fossil solid adjust";
+var mnemonic = "alley service among gown cute monster burden observe helmet twenty now pumpkin";

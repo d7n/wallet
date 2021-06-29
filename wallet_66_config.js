@@ -1,1 +1,1 @@
-var mnemonic = "bicycle ramp animal shiver zero antenna amateur demand aware neck uncle electric";
+var mnemonic = "fly october evidence aunt damp party profit vicious know shadow sponsor image";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon shed chat cupboard merry annual soul script monkey lady exercise section";
+var mnemonic = "suspect decade shoe tray echo zone curtain gasp truth table gadget assault";

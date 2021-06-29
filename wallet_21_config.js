@@ -1,1 +1,1 @@
-var mnemonic = "quantum thing exile taste donkey hamster basket author shield inspire surprise fish";
+var mnemonic = "snow aisle picture unique puppy color immune prepare song effort daring ritual";

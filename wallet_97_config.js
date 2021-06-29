@@ -1,1 +1,1 @@
-var mnemonic = "pass shaft memory absurd system pull wheel exact subway monkey hedgehog short";
+var mnemonic = "jungle runway brand disorder mobile ship depart december uniform position vote wheat";

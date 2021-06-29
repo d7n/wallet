@@ -1,1 +1,1 @@
-var mnemonic = "fit tribe admit number sunset daughter resist language explain sponsor output aspect";
+var mnemonic = "source energy fun exact acquire echo torch fork any entry page carbon";

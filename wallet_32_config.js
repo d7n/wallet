@@ -1,1 +1,1 @@
-var mnemonic = "turtle dad tree school logic honey boring nature brother maid spoon legal";
+var mnemonic = "place unfair volume topic grunt patch police quiz want basic moon convince";

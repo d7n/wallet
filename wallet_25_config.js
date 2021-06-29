@@ -1,1 +1,1 @@
-var mnemonic = "wing great utility mention boring shiver say rapid finger ask glow vessel";
+var mnemonic = "access shop dry vintage glance pool oval ribbon globe impose rug topple";

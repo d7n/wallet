@@ -1,1 +1,1 @@
-var mnemonic = "stock yellow tumble diamond okay blue salmon grain hand hint motion rival";
+var mnemonic = "trust dress rely rookie bench stick auction rapid horror hybrid hockey end";

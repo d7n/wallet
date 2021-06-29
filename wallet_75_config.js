@@ -1,1 +1,1 @@
-var mnemonic = "energy mouse robust merry endorse trap spare clog spy toast steak unveil";
+var mnemonic = "holiday tennis wait thought confirm urge truly obtain hand carry have orbit";

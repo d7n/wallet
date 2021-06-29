@@ -1,1 +1,1 @@
-var mnemonic = "wait arrange milk lucky strike thumb blood list rotate attend awake visit";
+var mnemonic = "shiver embrace try obtain broken describe nose various couch cover yard catch";

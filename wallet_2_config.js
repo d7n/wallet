@@ -1,1 +1,1 @@
-var mnemonic = "shed rebuild render govern shoulder wrap drill display dust rather trip modify";
+var mnemonic = "awful nephew leopard inhale fine text canyon feature weekend basic obvious belt";

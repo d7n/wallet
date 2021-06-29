@@ -1,1 +1,1 @@
-var mnemonic = "attitude ignore lesson raw steak casual magnet fold banana mushroom explain horse";
+var mnemonic = "material hero symptom about lady summer viable road then dove lawn attitude";

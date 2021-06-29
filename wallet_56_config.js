@@ -1,1 +1,1 @@
-var mnemonic = "ball kitten depart kite budget decorate dawn brick cup veteran loud silent";
+var mnemonic = "drop earn length ready inflict claw salon ceiling bonus limb welcome midnight";

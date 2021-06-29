@@ -1,1 +1,1 @@
-var mnemonic = "gain soccer ecology loyal civil hand undo awake lend enemy ginger ramp";
+var mnemonic = "term brick vintage bottom amused rubber zebra try advice vessel slogan acoustic";

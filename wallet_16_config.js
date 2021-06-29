@@ -1,1 +1,1 @@
-var mnemonic = "orient video add kidney diamond leisure left update left noise thank network";
+var mnemonic = "lunar hand guess tissue twin any rate burst praise apology reform vacant";

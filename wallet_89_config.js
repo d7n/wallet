@@ -1,1 +1,1 @@
-var mnemonic = "subject divorce lawsuit survey cloth border suspect shine resource exotic digital extend";
+var mnemonic = "will blame soon marble auto glue exact rifle swarm vast pave chalk";

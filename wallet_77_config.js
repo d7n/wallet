@@ -1,1 +1,1 @@
-var mnemonic = "team enlist foster tunnel name version spare universe large plate crazy dumb";
+var mnemonic = "rookie provide beach cram spare honey bundle pond fish distance long save";

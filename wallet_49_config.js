@@ -1,1 +1,1 @@
-var mnemonic = "joke grocery pledge census shop tip apple tuna ceiling scrap sail little";
+var mnemonic = "level comfort intact lock infant twin predict misery injury stay under inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "always market wide fetch term crack market basket tray butter peasant zero";
+var mnemonic = "jungle embody camp soldier clerk attract cash file flower angry sweet often";

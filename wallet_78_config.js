@@ -1,1 +1,1 @@
-var mnemonic = "poem harbor plate stereo market mix chuckle detect when donor few gift";
+var mnemonic = "knee say evolve civil scene wide together cliff unlock bamboo pave copy";

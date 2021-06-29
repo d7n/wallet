@@ -1,1 +1,1 @@
-var mnemonic = "check foam luggage doll play hospital shield dose edge stool exchange section";
+var mnemonic = "wire disorder reveal over fancy mask unveil slender ticket inmate settle sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "boy sibling job echo priority column need learn gorilla address enjoy annual";
+var mnemonic = "machine monster spend carpet fence kite nature gaze jar hotel car resource";

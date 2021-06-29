@@ -1,1 +1,1 @@
-var mnemonic = "double screen fiction oppose wine code unit grain omit iron secret reduce";
+var mnemonic = "grape insane solid where fashion vocal unusual draft uniform layer siege name";

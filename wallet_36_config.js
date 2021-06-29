@@ -1,1 +1,1 @@
-var mnemonic = "myth father tide vacant habit direct punch hover screen mammal furnace inquiry";
+var mnemonic = "soap crater valve ordinary tube tool canvas clarify trim cherry govern minimum";

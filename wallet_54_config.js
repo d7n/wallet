@@ -1,1 +1,1 @@
-var mnemonic = "kidney differ true doctor happy marine artist chat delay rose language mushroom";
+var mnemonic = "hood garlic grass ranch wish capital remember letter diamond shine seed book";

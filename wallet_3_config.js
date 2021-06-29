@@ -1,1 +1,1 @@
-var mnemonic = "heavy frog tip wrestle few pupil infant adjust practice surge check purchase";
+var mnemonic = "tunnel snake twelve another eternal joke you ski reunion onion patrol march";

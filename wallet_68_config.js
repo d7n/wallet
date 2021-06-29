@@ -1,1 +1,1 @@
-var mnemonic = "laptop solar what eagle blast chaos miss fragile few leader mobile swamp";
+var mnemonic = "network violin vintage tired device skate tourist deny detect man jelly mail";

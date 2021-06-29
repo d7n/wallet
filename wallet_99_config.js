@@ -1,1 +1,1 @@
-var mnemonic = "end usage dial strategy recall library noise jaguar captain snake mean tray";
+var mnemonic = "great surround emotion cargo access world cushion hunt unaware link erupt wrist";

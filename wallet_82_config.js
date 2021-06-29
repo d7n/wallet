@@ -1,1 +1,1 @@
-var mnemonic = "sound mule melody tag cable fluid shield private april level coffee poverty";
+var mnemonic = "alarm hope animal census wool decorate soccer able clay churn frog market";

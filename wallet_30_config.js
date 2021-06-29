@@ -1,1 +1,1 @@
-var mnemonic = "double random metal reflect ask brass abuse stove because clerk matrix involve";
+var mnemonic = "sleep trophy answer seek drill mansion tenant diary about web tree increase";

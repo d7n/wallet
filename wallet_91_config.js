@@ -1,1 +1,1 @@
-var mnemonic = "like wide unknown file digital shrug snap strike figure online fancy fever";
+var mnemonic = "slab amount survey pretty duty basic expect blue sight fold sad riot";

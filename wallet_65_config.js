@@ -1,1 +1,1 @@
-var mnemonic = "crystal hint open web episode myth author derive creek atom process minor";
+var mnemonic = "swamp choice liquid injury bomb cherry only west shuffle tent tomorrow forest";

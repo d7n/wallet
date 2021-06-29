@@ -1,1 +1,1 @@
-var mnemonic = "feel dwarf goose feel estate long tell average alarm vendor topple anxiety";
+var mnemonic = "sweet unlock nominee length latin define flight solve palace avoid tonight domain";

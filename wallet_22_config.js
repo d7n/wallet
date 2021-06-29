@@ -1,1 +1,1 @@
-var mnemonic = "place announce border hurt hill put glide picture same never police together";
+var mnemonic = "volcano gym use athlete agree demand cement candy giraffe remind horror abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "width merge opera swift way view rural keen void much spider motion";
+var mnemonic = "three nothing liar program negative mechanic clock cart angle option chapter put";

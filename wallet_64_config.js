@@ -1,1 +1,1 @@
-var mnemonic = "act collect build cycle silly wash awful clap supreme unable town magnet";
+var mnemonic = "wife insect champion tuition advance rotate trial helmet bicycle banana extra vital";

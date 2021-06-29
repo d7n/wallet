@@ -1,1 +1,1 @@
-var mnemonic = "ranch unhappy morning twist oppose crowd owner season split champion happy label";
+var mnemonic = "forest swear field thumb loud hold jacket hood aspect keep neither kitchen";

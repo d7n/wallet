@@ -1,1 +1,1 @@
-var mnemonic = "elevator cannon copy inform outside derive sick behind clock acquire cancel marriage";
+var mnemonic = "client toss trash shine believe ripple sting message bulb reform nuclear teach";

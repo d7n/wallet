@@ -1,1 +1,1 @@
-var mnemonic = "since spot charge aunt roast woman kitten legal brand title angry stay";
+var mnemonic = "object word wonder wolf salt pigeon another seed lady kidney smoke body";

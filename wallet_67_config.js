@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin layer base glow concert chief luxury leisure airport relief aim grain";
+var mnemonic = "oyster stand noble grant cancel taste come proud indicate devote divert step";

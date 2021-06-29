@@ -1,1 +1,1 @@
-var mnemonic = "keep knock refuse fruit buddy nest next session ring pattern crunch kid";
+var mnemonic = "clarify later upgrade corn timber various point finish claim style photo van";

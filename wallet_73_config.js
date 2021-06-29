@@ -1,1 +1,1 @@
-var mnemonic = "put resemble olive nerve wealth consider husband scare blouse will unfair venture";
+var mnemonic = "airport fancy torch spider zero upgrade exotic suspect powder reduce across catalog";

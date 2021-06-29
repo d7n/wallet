@@ -1,1 +1,1 @@
-var mnemonic = "prison other badge flag vast quality second believe unhappy priority beef depart";
+var mnemonic = "hour assist resemble plastic door lens fiction laugh burden elder meat wreck";

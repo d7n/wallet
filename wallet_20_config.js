@@ -1,1 +1,1 @@
-var mnemonic = "rich join client silver fiscal situate behave color wreck train hat cotton";
+var mnemonic = "pitch inside reward flock swap scissors plunge advice suffer pave coffee pen";

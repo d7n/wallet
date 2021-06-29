@@ -1,1 +1,1 @@
-var mnemonic = "health drop repair million swarm shoot film erupt absurd lecture hybrid north";
+var mnemonic = "solar federal festival rhythm help barrel under travel icon raven carry vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "journey gorilla ethics flush quit park human chimney wise indoor purity cluster";
+var mnemonic = "satoshi keep address gravity identify impose culture script brain offer frozen rough";

@@ -1,1 +1,1 @@
-var mnemonic = "setup iron work smoke excuse potato muscle habit family squeeze steak gloom";
+var mnemonic = "ridge lava tomorrow dismiss text search cage venture spend denial wait struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "expose claw pill garment unusual song rocket cactus moral increase siren axis";
+var mnemonic = "cushion cargo source dizzy obvious toe gauge fog shuffle dignity market twice";

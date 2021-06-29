@@ -1,1 +1,1 @@
-var mnemonic = "magnet wrap frost morning legal axis awkward west board guard torch fame";
+var mnemonic = "wasp gesture scorpion key toward guide more sample caution draft question despair";

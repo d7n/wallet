@@ -1,1 +1,1 @@
-var mnemonic = "kitchen junk double regular marriage say embody arm exit royal comic online";
+var mnemonic = "gentle finger garment depth story bar funny dignity welcome echo palm popular";

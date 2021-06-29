@@ -1,1 +1,1 @@
-var mnemonic = "bachelor merry wall image file picnic giant bring apart arch round opinion";
+var mnemonic = "sauce head crisp catch aim spin finger fiber frequent mixture repeat canyon";

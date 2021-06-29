@@ -1,1 +1,1 @@
-var mnemonic = "track burden economy rough captain flee long future click popular march valley";
+var mnemonic = "ostrich together tank palm tooth divide wrestle legend improve soup speak alert";

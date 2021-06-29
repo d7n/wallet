@@ -1,1 +1,1 @@
-var mnemonic = "also occur hungry moral sound flush announce issue december drama youth toilet";
+var mnemonic = "mobile pioneer visual flat kangaroo wise mandate tribe burden vital elder stage";

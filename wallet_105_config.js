@@ -1,1 +1,1 @@
-var mnemonic = "legal myself tone afford join check myself silver comic laptop insane defy";
+var mnemonic = "arrive sail wear glimpse world rent labor dizzy squirrel minute myth helmet";

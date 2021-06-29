@@ -1,1 +1,1 @@
-var mnemonic = "noodle motor innocent pony summer jacket siege broom iron enemy flip defy";
+var mnemonic = "memory vast galaxy shrug wall original vicious genre pledge basic column erode";

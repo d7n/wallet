@@ -1,1 +1,1 @@
-var mnemonic = "flock garlic nut country little brown milk logic beef gesture gesture spoil";
+var mnemonic = "vessel cheap afraid autumn table giraffe walnut item angle absent doll gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit border garage demand camp afraid flat survey media boring pottery worth";
+var mnemonic = "crunch thing doctor easy purpose caught slide trash bulk worth sorry hazard";

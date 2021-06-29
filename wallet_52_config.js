@@ -1,1 +1,1 @@
-var mnemonic = "gloom fever edit reason mass come gym warfare season shell joy sniff";
+var mnemonic = "uncover quiz skirt awful pizza rotate easy habit garment position giant correct";

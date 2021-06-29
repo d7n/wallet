@@ -1,1 +1,1 @@
-var mnemonic = "replace bone story pen alcohol sure crew taste essay slab novel cheese";
+var mnemonic = "daughter search lion sleep grit blame chronic scout approve during have negative";

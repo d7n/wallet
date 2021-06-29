@@ -1,1 +1,1 @@
-var mnemonic = "trim praise finish hazard shaft own point space cash general lonely cement";
+var mnemonic = "orphan pear ladder yellow chronic fork erupt cash cradle rebuild rabbit style";

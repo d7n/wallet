@@ -1,1 +1,1 @@
-var mnemonic = "stock cycle faint famous dance age slide entire anchor gun oyster edge";
+var mnemonic = "exchange month when canal chicken champion ceiling verify market awake hint injury";

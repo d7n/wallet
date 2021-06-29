@@ -1,1 +1,1 @@
-var mnemonic = "marriage heavy exchange pole begin page across bargain credit minor diet clutch";
+var mnemonic = "easily animal barrel chef immune crunch zoo salon jealous wish crop claim";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee slow ranch three rigid unaware blossom copper file turkey awesome carbon";
+var mnemonic = "harsh wash inquiry kiss crush tuna allow pull series deny museum estate";

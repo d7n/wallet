@@ -1,1 +1,1 @@
-var mnemonic = "service jeans once adapt fever define noise abandon rebuild theme nasty prosper";
+var mnemonic = "casino diet goose belt walnut limit click brass keen canoe creek horse";

@@ -1,1 +1,1 @@
-var mnemonic = "tail flash boy phone length obey ankle divorce virtual service leopard then";
+var mnemonic = "exercise erosion race change about clean play goose sport reject afford already";

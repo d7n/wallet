@@ -1,1 +1,1 @@
-var mnemonic = "field bring mask vocal sign silver menu cruise roof easily ancient crew";
+var mnemonic = "area sound loud gate maximum replace dilemma donor casino fit clever wheel";

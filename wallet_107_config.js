@@ -1,1 +1,1 @@
-var mnemonic = "olympic cry top shrug soul design opera unlock pudding brass expire hen";
+var mnemonic = "catalog blush swear metal silver match exercise army slush improve flee next";

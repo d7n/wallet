@@ -1,1 +1,1 @@
-var mnemonic = "example other inflict exile fragile aim enforce trial real walnut lottery switch";
+var mnemonic = "favorite case jealous promote erosion wild loop joy design alter pen pride";

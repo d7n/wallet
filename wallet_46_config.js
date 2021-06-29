@@ -1,1 +1,1 @@
-var mnemonic = "such output move inquiry viable diary hurdle oblige crumble soap tired garbage";
+var mnemonic = "rally fiber choice olympic outdoor maze sketch source clown panel whisper give";

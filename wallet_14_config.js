@@ -1,1 +1,1 @@
-var mnemonic = "symptom swap name apart front merry tool inner okay also bundle still";
+var mnemonic = "arrest funny equip remind before rent top betray hair mind space alpha";

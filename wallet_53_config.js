@@ -1,1 +1,1 @@
-var mnemonic = "quantum abstract monkey explain fly innocent worth kiss poet toy oyster magnet";
+var mnemonic = "twenty banana vivid noise road old annual imitate sheriff labor romance catalog";

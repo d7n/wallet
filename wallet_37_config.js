@@ -1,1 +1,1 @@
-var mnemonic = "bunker rapid camera fire april castle come duty blue attack gas finish";
+var mnemonic = "hawk embrace scissors solid guess second rack buyer enhance tribe grant fuel";

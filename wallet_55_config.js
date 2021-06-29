@@ -1,1 +1,1 @@
-var mnemonic = "become green dose range cloud lens coil biology aisle unaware actual lamp";
+var mnemonic = "broken unlock earth buyer grit slight smoke credit damage resource market runway";

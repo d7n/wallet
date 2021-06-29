@@ -1,1 +1,1 @@
-var mnemonic = "salt they ice marble mechanic squeeze leave caught balcony pear run broom";
+var mnemonic = "school game army word reunion answer salad modify code brand stadium monkey";

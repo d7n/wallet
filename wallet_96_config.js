@@ -1,1 +1,1 @@
-var mnemonic = "solve stairs then dignity sad orange paddle wisdom rhythm bracket crime swift";
+var mnemonic = "stereo federal almost member trap boat december year topic dawn predict bridge";
