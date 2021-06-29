@@ -1,1 +1,1 @@
-var mnemonic = "argue defense system antenna winter remember shove stomach calm uphold tail whisper";
+var mnemonic = "still away roof hockey fury hair choice prefer thank song ritual clog";

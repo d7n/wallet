@@ -1,1 +1,1 @@
-var mnemonic = "magic dune viable right cat trim whisper pigeon foam swim purse ball";
+var mnemonic = "occur curtain pulp garden scheme stumble march define lawn universe give flash";

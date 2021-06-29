@@ -1,1 +1,1 @@
-var mnemonic = "ignore actor craft clean sing link busy divide fan tortoise skin year";
+var mnemonic = "bacon regret violin crystal polar play empty hen mixed summer gospel legal";

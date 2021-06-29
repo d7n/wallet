@@ -1,1 +1,1 @@
-var mnemonic = "faith seat coconut buddy foster climb column decide wrap urban sleep again";
+var mnemonic = "rice boil involve deer inspire number cherry throw lunar amused inmate tired";

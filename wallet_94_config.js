@@ -1,1 +1,1 @@
-var mnemonic = "raccoon anchor medal vocal unfold frequent either squirrel ordinary sing kitten roof";
+var mnemonic = "bonus cargo still tortoise room very margin emerge opinion cliff curtain mean";

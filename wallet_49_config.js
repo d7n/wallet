@@ -1,1 +1,1 @@
-var mnemonic = "nation air buddy provide robot first cabbage main suit old wet hunt";
+var mnemonic = "open summer fork syrup attitude bunker suit cliff athlete song arch rhythm";

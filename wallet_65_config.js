@@ -1,1 +1,1 @@
-var mnemonic = "toward desk ceiling run subject pass want shy chimney hammer chunk oval";
+var mnemonic = "horror patrol oval night ripple enemy worth myth soft token tired note";

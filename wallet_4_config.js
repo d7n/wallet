@@ -1,1 +1,1 @@
-var mnemonic = "journey alert embody alter badge robot latin hen miss analyst build keen";
+var mnemonic = "salmon prison smile decide side across layer owner ensure elder elegant one";

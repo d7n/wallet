@@ -1,1 +1,1 @@
-var mnemonic = "goddess effort glimpse boil license cook much sorry marine sock warm family";
+var mnemonic = "tide swap seminar roast leave forget describe exclude furnace transfer appear excuse";

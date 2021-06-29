@@ -1,1 +1,1 @@
-var mnemonic = "dish corn dune almost over mango churn food ignore squirrel wolf identify";
+var mnemonic = "wrap update pool law beauty crisp fall pill shoulder embody crush rabbit";

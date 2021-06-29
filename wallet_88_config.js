@@ -1,1 +1,1 @@
-var mnemonic = "potato light state spawn frozen pitch vocal diamond eternal menu net trick";
+var mnemonic = "minute castle pink business shove such hurdle discover orange gadget embrace hover";

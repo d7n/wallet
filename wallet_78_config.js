@@ -1,1 +1,1 @@
-var mnemonic = "retreat radar skull any bicycle soon lumber race icon caution year youth";
+var mnemonic = "trap air quality sense hawk final maximum shell jar culture sun void";

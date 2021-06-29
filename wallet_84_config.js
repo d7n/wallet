@@ -1,1 +1,1 @@
-var mnemonic = "number evolve unaware suggest merge hair thumb twice hover donate spare grape";
+var mnemonic = "wear deer yellow tourist onion caution spray furnace thing simple elbow crisp";

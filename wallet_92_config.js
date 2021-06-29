@@ -1,1 +1,1 @@
-var mnemonic = "canvas weapon merit math grape weird quantum move shallow worth become tail";
+var mnemonic = "turn legend delay join wish mansion rely believe idle convince click wash";

@@ -1,1 +1,1 @@
-var mnemonic = "coast shell tuition daring thought below lazy much topic apart tumble wisdom";
+var mnemonic = "roast earn adapt soft pizza visit marine element gown always coral panic";

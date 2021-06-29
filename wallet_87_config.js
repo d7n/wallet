@@ -1,1 +1,1 @@
-var mnemonic = "pool convince remind crack asset stove upgrade social together fun palm canoe";
+var mnemonic = "stumble stick human mother found crew capable wait pyramid short turkey noise";

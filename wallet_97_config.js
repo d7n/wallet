@@ -1,1 +1,1 @@
-var mnemonic = "toilet save business below adjust security image organ hip labor mail grid";
+var mnemonic = "custom reveal leaf fever scale skull wall keen involve cluster vehicle young";

@@ -1,1 +1,1 @@
-var mnemonic = "wet merge jewel excuse tide doctor few topic stadium absent slogan raw";
+var mnemonic = "minimum dentist fine east ride today noodle left tuna bonus agent demise";

@@ -1,1 +1,1 @@
-var mnemonic = "word share route portion marriage sand fury cancel vote success term earn";
+var mnemonic = "congress screen bargain apple stock scheme victory grant arrange empower siren confirm";

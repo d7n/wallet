@@ -1,1 +1,1 @@
-var mnemonic = "voyage coffee radio chaos wrestle address grid cereal paddle room paddle agree";
+var mnemonic = "below chalk steak friend fabric web input lawn tired invite zone cage";

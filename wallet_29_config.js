@@ -1,1 +1,1 @@
-var mnemonic = "gold inspire unable asset insane spirit amount tragic zebra inch midnight circle";
+var mnemonic = "cloud hamster salmon hour era tower leg renew bracket island guard polar";

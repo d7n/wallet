@@ -1,1 +1,1 @@
-var mnemonic = "detail hawk easily hat nuclear galaxy unlock gauge bacon prosper shrug right";
+var mnemonic = "milk hat extend danger calm index beyond large arrow budget use supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "regular bullet lumber area romance sustain army supply approve job equip rookie";
+var mnemonic = "spatial wealth olympic regular bubble alcohol gap tiny food aspect gesture unaware";

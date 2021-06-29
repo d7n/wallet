@@ -1,1 +1,1 @@
-var mnemonic = "satisfy wine federal scout idea exit long horn wage kick upper poem";
+var mnemonic = "attack insect track wave truth young number frost deer total october ketchup";

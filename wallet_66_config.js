@@ -1,1 +1,1 @@
-var mnemonic = "kidney steak sheriff merit anger urban census pyramid gift picnic boss moon";
+var mnemonic = "soul divert dose narrow gap tackle left hint begin ring voyage combine";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic kid link metal goat still organ toddler ecology inner organ flee";
+var mnemonic = "crazy slot endless link inmate suspect physical ranch typical wave spread hawk";

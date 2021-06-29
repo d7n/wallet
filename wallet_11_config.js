@@ -1,1 +1,1 @@
-var mnemonic = "cry engage abandon envelope only exclude manage bachelor stamp erupt farm suit";
+var mnemonic = "pioneer miss slim crack cycle rifle arctic absurd total phrase coast uphold";

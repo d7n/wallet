@@ -1,1 +1,1 @@
-var mnemonic = "carry derive genuine insane enroll easy hedgehog business certain autumn wolf impulse";
+var mnemonic = "this age genre sign prosper lock future marine they involve injury garden";

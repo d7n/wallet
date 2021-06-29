@@ -1,1 +1,1 @@
-var mnemonic = "occur actress tornado topic bulk bullet garden cattle disorder trend bulk waste";
+var mnemonic = "rely chat car behind job defense alley payment hair pear raven mobile";

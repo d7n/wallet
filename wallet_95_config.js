@@ -1,1 +1,1 @@
-var mnemonic = "casual stand gentle parade vessel miss thought chair order enlist spring audit";
+var mnemonic = "work orange cabin hint duty mandate dish comfort gorilla forum truck civil";

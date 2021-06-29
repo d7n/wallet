@@ -1,1 +1,1 @@
-var mnemonic = "donate direct slot act excite question market indicate alcohol lawn early cake";
+var mnemonic = "again hire frost junior junior three manual strong owner ripple frog year";

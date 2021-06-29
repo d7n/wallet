@@ -1,1 +1,1 @@
-var mnemonic = "cupboard silver trap asthma holiday attract check crash shoulder brown siege cabin";
+var mnemonic = "betray pluck capable solve truth risk check erupt reduce wage word list";

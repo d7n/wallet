@@ -1,1 +1,1 @@
-var mnemonic = "garbage account volcano attend sea hollow volume unaware frame cradle token keen";
+var mnemonic = "attract margin bus wave palace ivory parrot inhale assume jacket stable torch";

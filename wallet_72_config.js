@@ -1,1 +1,1 @@
-var mnemonic = "title junk helmet slam nothing shed later bright aim erupt border rail";
+var mnemonic = "adult engage face tribe wonder famous fury sunny steel account strategy success";

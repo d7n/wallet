@@ -1,1 +1,1 @@
-var mnemonic = "wine stool pioneer swim silly shed shuffle scare panel repair hamster enhance";
+var mnemonic = "job mention venue client chat dwarf banana apology tired host ripple captain";

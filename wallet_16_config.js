@@ -1,1 +1,1 @@
-var mnemonic = "begin chaos text quarter fork base holiday burst barrel toddler depth match";
+var mnemonic = "minute amount green where shield list tomato word note athlete prefer grid";

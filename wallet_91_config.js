@@ -1,1 +1,1 @@
-var mnemonic = "fork glove punch interest accuse bread service tortoise vague trigger moment memory";
+var mnemonic = "evolve asset leave brand plastic theory legend acid blast tone endless hair";

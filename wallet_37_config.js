@@ -1,1 +1,1 @@
-var mnemonic = "amused crime august logic vehicle fold timber dinner profit shy sleep major";
+var mnemonic = "echo solar plastic camera topple script reopen deposit doll supreme defense yard";

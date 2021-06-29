@@ -1,1 +1,1 @@
-var mnemonic = "zone flock inject begin calm damp response movie swarm love prefer tobacco";
+var mnemonic = "reason that pride marine various bitter chief visa abandon pony work drill";

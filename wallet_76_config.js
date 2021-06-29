@@ -1,1 +1,1 @@
-var mnemonic = "toe dragon next resemble river rocket buffalo bench group walnut concert marble";
+var mnemonic = "blood long scheme dumb bulk topic lady manual crater pool hold city";

@@ -1,1 +1,1 @@
-var mnemonic = "school below usage member east impose crush flame square length apart mountain";
+var mnemonic = "angle smart attitude wish gift pet improve never ocean simple chapter glass";

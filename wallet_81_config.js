@@ -1,1 +1,1 @@
-var mnemonic = "case lab lunar device wet involve parrot october film lens expect tide";
+var mnemonic = "fluid calm scatter heart immune lunar photo bean guide gorilla humble soul";

@@ -1,1 +1,1 @@
-var mnemonic = "where humor mask cube faith number puppy horn intact absorb between family";
+var mnemonic = "scissors lawn giggle pony frame joy base settle loyal bridge fatal vicious";

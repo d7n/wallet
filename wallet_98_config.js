@@ -1,1 +1,1 @@
-var mnemonic = "ordinary decline radio alien budget gather brand limb eight chunk stage multiply";
+var mnemonic = "dose emotion loan faith scissors ramp hard powder course october grid pony";

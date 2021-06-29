@@ -1,1 +1,1 @@
-var mnemonic = "lunar eternal witness lottery nut review shoe syrup special uniform lawn room";
+var mnemonic = "bulk crouch speak tiger april cousin certain frog fresh few inject hurry";

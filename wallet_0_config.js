@@ -1,1 +1,1 @@
-var mnemonic = "initial grace tiny genius snack gift tail spike match foot book arch";
+var mnemonic = "find pudding wage doll reunion hero pottery hamster dose vocal manage music";

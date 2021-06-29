@@ -1,1 +1,1 @@
-var mnemonic = "smooth champion uncover hollow dial again gravity faith major manage negative patch";
+var mnemonic = "habit volume imitate business lab dinosaur outdoor super topic glare dad switch";

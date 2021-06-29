@@ -1,1 +1,1 @@
-var mnemonic = "flee pink attract home beef test ugly average tape also people uniform";
+var mnemonic = "volcano expand ball member clock gown elegant rival venture dynamic phrase air";

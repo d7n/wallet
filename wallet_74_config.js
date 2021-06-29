@@ -1,1 +1,1 @@
-var mnemonic = "tag dutch theme skin person universe scorpion review lemon capital frost enlist";
+var mnemonic = "shadow meadow army ecology craft pass filter pizza response pretty two file";

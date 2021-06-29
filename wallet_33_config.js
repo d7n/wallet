@@ -1,1 +1,1 @@
-var mnemonic = "future afraid eight pause caution nothing include mansion proud horror text tape";
+var mnemonic = "crystal mushroom problem soft outer print farm direct kid suffer museum adjust";

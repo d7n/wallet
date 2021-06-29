@@ -1,1 +1,1 @@
-var mnemonic = "ugly design love attract prepare forum elder bid injury indicate edge monster";
+var mnemonic = "supply safe large since fruit cook credit glance wave link park pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "client much extra hundred analyst stick dust alone gravity assist donor group";
+var mnemonic = "tag mutual term inner arrest silent hard orbit gain key still time";

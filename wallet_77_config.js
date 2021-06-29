@@ -1,1 +1,1 @@
-var mnemonic = "try abandon orchard dolphin sure cycle rack elegant goose toddler festival knock";
+var mnemonic = "police situate enlist milk corn sadness hammer clutch town celery tilt strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "cage miss broken invite legend physical harvest raccoon subject wage guide cannon";
+var mnemonic = "expose virus fiction attack art lady grace excuse arrow cactus squeeze album";

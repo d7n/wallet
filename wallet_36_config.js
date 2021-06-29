@@ -1,1 +1,1 @@
-var mnemonic = "purpose confirm lens bullet glimpse print middle south stable regret start clap";
+var mnemonic = "tower subject trap salt tribe clerk awful wrist crush list sword rough";

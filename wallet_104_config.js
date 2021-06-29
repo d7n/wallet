@@ -1,1 +1,1 @@
-var mnemonic = "energy fish hockey vehicle pretty slow present adult honey share exotic assume";
+var mnemonic = "bottom fantasy hub present victory word silk pony monkey focus put pull";

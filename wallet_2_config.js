@@ -1,1 +1,1 @@
-var mnemonic = "fancy remind toss pet drink cry vanish health uncover spawn win split";
+var mnemonic = "obscure control obscure risk badge morning until circle ball alien spike shrug";

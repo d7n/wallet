@@ -1,1 +1,1 @@
-var mnemonic = "differ bench budget skate dizzy blind horror citizen abstract sorry state away";
+var mnemonic = "develop exotic parent swift diet ball man viable marine pause option hollow";

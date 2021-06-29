@@ -1,1 +1,1 @@
-var mnemonic = "squeeze segment junior ghost marriage zone like gift repeat course stone farm";
+var mnemonic = "lottery hungry survey decide much rib file orange space rice club omit";

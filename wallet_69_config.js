@@ -1,1 +1,1 @@
-var mnemonic = "rack roof ranch smooth success huge exhaust push tank good spider output";
+var mnemonic = "gossip silent sustain leopard invite start vague quick lake shallow thumb guess";

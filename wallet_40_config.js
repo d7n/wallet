@@ -1,1 +1,1 @@
-var mnemonic = "click lazy foam copper keen dad creek finger rather notable skirt behave";
+var mnemonic = "fly feed regular brush fabric soap cross expose crumble immune shine joke";

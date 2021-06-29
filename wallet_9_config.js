@@ -1,1 +1,1 @@
-var mnemonic = "inject diagram weekend weasel such feed world trumpet dawn carry tag arm";
+var mnemonic = "scan category team chalk any genre mail job turn type transfer iron";

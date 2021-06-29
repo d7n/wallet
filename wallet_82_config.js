@@ -1,1 +1,1 @@
-var mnemonic = "retire tortoise lounge zone another eyebrow relief govern cluster elephant zebra game";
+var mnemonic = "blanket close mobile device govern wet bread around profit essence grief march";

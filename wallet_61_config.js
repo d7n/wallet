@@ -1,1 +1,1 @@
-var mnemonic = "rifle response tragic way wait left garlic magnet swap repair enrich note";
+var mnemonic = "brother act onion muscle mixed corn odor wisdom trust nuclear attract start";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict absorb doll old pencil immune common leisure country net arm tilt";
+var mnemonic = "casual unusual search ability cash spell emerge mesh object wrong list giraffe";

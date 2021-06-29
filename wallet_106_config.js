@@ -1,1 +1,1 @@
-var mnemonic = "disorder pistol arrive reason excite reunion rich audit bean scan boil noble";
+var mnemonic = "brick glare reduce plate capital soon frozen bamboo equip title false comic";

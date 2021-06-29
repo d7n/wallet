@@ -1,1 +1,1 @@
-var mnemonic = "icon price trick umbrella fortune slot lion because young hidden street mystery";
+var mnemonic = "anchor burger plate creek grass almost document grid flat slush seed vehicle";

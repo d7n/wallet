@@ -1,1 +1,1 @@
-var mnemonic = "aspect bar duty pear priority cost egg spare elephant drastic nominee noise";
+var mnemonic = "nothing enrich planet expose force then pigeon tornado october burst inmate rapid";

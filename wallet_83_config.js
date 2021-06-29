@@ -1,1 +1,1 @@
-var mnemonic = "tennis fault tobacco curve cage gown table wagon unfold kingdom pupil merry";
+var mnemonic = "lottery ticket ability bless north fine music siren very disagree any penalty";

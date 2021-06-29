@@ -1,1 +1,1 @@
-var mnemonic = "train attitude bid enforce win hedgehog despair tank raccoon spread toast blush";
+var mnemonic = "energy shrimp bread opera leader unaware never canvas anxiety whale one frozen";

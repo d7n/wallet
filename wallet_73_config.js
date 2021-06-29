@@ -1,1 +1,1 @@
-var mnemonic = "crunch fault nuclear jungle combine couch axis pear woman into security betray";
+var mnemonic = "loyal comfort foil moon accuse assault page risk enforce jelly price shrimp";

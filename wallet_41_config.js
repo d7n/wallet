@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur snap foam already tissue antique trophy faith supply tail dial wool";
+var mnemonic = "lawsuit oblige discover caution balance shine source course train evidence body panel";

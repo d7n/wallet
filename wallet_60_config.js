@@ -1,1 +1,1 @@
-var mnemonic = "scrap alpha mention divorce prosper dose token venture tool rug game pizza";
+var mnemonic = "ski extra dawn price double enhance pudding whale car desert bench usual";

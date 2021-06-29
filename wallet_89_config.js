@@ -1,1 +1,1 @@
-var mnemonic = "stand artefact myself total bonus attack panda nation found more flip charge";
+var mnemonic = "envelope knock draft smile coast finger office present small loan guilt alarm";

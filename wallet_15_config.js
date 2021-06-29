@@ -1,1 +1,1 @@
-var mnemonic = "sunset unable protect glass month air shift cancel scout next advance company";
+var mnemonic = "stereo slender ball solve black category bag gaze hotel assume trophy shrug";

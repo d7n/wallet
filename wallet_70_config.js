@@ -1,1 +1,1 @@
-var mnemonic = "helmet portion system purity city service desk relax danger wrap lady enough";
+var mnemonic = "asthma safe imitate write mule crouch hobby motor canvas coral table return";

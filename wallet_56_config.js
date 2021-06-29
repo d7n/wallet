@@ -1,1 +1,1 @@
-var mnemonic = "chuckle increase aim road sand today regret canvas used aisle frost color";
+var mnemonic = "swim carry ladder switch surge crystal awful odor movie jealous confirm melody";

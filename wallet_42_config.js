@@ -1,1 +1,1 @@
-var mnemonic = "either basic squirrel foam cabin suggest deny copy bargain ugly answer monkey";
+var mnemonic = "prepare head brother believe club arena jeans cupboard concert party planet legend";

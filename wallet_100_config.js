@@ -1,1 +1,1 @@
-var mnemonic = "color island suit praise ability behave enlist crew yellow art sting bird";
+var mnemonic = "walnut friend lecture settle act lounge violin barrel glow gift slush creek";

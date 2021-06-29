@@ -1,1 +1,1 @@
-var mnemonic = "cargo end sunset lunch blood kitten common enter cabbage metal update sort";
+var mnemonic = "shell seed balance hen price eyebrow garlic typical clap peace donate bicycle";

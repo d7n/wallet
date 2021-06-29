@@ -1,1 +1,1 @@
-var mnemonic = "pig wage market dry wish mutual west dance prize protect skin sphere";
+var mnemonic = "manual uncover column slot depend patrol silent mimic gown cannon heart bulk";

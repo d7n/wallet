@@ -1,1 +1,1 @@
-var mnemonic = "wonder explain rocket lecture fade dirt crumble gather magic jungle senior consider";
+var mnemonic = "farm eternal awake gold sausage because vicious leaf reunion iron acid merry";

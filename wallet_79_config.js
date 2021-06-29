@@ -1,1 +1,1 @@
-var mnemonic = "catch add girl say gate oblige retire evolve radio before envelope antique";
+var mnemonic = "spawn regular best have sadness jazz width assume praise away detect dry";

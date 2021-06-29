@@ -1,1 +1,1 @@
-var mnemonic = "palm west language sleep describe wall solve news favorite friend focus head";
+var mnemonic = "ostrich shop crystal shadow hockey quote dynamic goat bless universe lion way";

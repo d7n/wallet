@@ -1,1 +1,1 @@
-var mnemonic = "thank own vacant finish festival cluster peanut above erode rival smile soft";
+var mnemonic = "boil fox clarify loud ring horn tone cabbage brief puzzle connect exchange";

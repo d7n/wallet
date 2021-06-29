@@ -1,1 +1,1 @@
-var mnemonic = "steel movie pact own grace clump vapor unusual leader phrase chronic fetch";
+var mnemonic = "among laundry essence tonight yard aim bar rail silly climb cargo syrup";

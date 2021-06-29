@@ -1,1 +1,1 @@
-var mnemonic = "hotel kingdom know fluid kingdom little giraffe fragile mouse chase teach wild";
+var mnemonic = "prosper make upper fiber test evolve icon sadness warm pudding blind patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster feature donate bird thought vehicle hen social lesson float steak depend";
+var mnemonic = "drum expire doctor ecology another timber share sting immense faith emotion face";

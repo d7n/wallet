@@ -1,1 +1,1 @@
-var mnemonic = "shallow disease empower pledge wreck side narrow recipe ocean eight impulse wire";
+var mnemonic = "sleep beach impulse pottery cute couch share local capable illegal snow purity";

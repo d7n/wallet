@@ -1,1 +1,1 @@
-var mnemonic = "entry size degree cactus click live fall leave cupboard abuse inspire segment";
+var mnemonic = "shield neglect private minor twenty leave time culture unlock error tuition story";

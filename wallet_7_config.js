@@ -1,1 +1,1 @@
-var mnemonic = "patient candy nice lottery suffer sadness doctor sight ginger empty slow notice";
+var mnemonic = "pudding settle evolve year upper equal seed palace flee ticket subject novel";

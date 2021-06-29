@@ -1,1 +1,1 @@
-var mnemonic = "accuse okay degree luggage timber grunt abuse artefact egg source rice visual";
+var mnemonic = "together wasp taxi venue anger seat crucial offer midnight identify join nasty";

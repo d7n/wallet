@@ -1,1 +1,1 @@
-var mnemonic = "trip tiny face chronic remove decrease ship purse false ketchup wish hamster";
+var mnemonic = "oak federal bench cricket always canoe gather surround route remind direct blood";

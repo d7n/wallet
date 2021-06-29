@@ -1,1 +1,1 @@
-var mnemonic = "sock seven left pioneer crowd all stadium elbow primary panic quantum impulse";
+var mnemonic = "wrist warfare nose unknown fever typical vendor east arm hazard hour cruel";
