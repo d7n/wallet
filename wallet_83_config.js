@@ -1,1 +1,1 @@
-var mnemonic = "artefact pitch mobile mobile vote purchase wealth crash awful sentence refuse refuse";
+var mnemonic = "tag net celery nuclear bar warm super alarm ship host apart nuclear";

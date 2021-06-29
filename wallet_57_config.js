@@ -1,1 +1,1 @@
-var mnemonic = "beauty appear general average company turkey simple easily easily truly merit prevent";
+var mnemonic = "elephant depth network notice patient build luggage rich divide fall climb bullet";

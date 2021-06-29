@@ -1,1 +1,1 @@
-var mnemonic = "produce apart siege wink dish already extra dog pumpkin quantum window slim";
+var mnemonic = "cup royal analyst profit undo relax define sort forest shuffle album tired";

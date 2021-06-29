@@ -1,1 +1,1 @@
-var mnemonic = "width steak burst inspire fame garlic solar pet twelve bacon sun swift";
+var mnemonic = "obvious hybrid thank evil toddler before steel key trophy ranch summer praise";

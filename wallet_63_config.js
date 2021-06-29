@@ -1,1 +1,1 @@
-var mnemonic = "scare earth muscle vote champion obvious trumpet cry useless dad unfair ladder";
+var mnemonic = "pass creek thank salmon cabbage brief clap notice slim scheme anger toast";

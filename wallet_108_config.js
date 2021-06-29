@@ -1,1 +1,1 @@
-var mnemonic = "grain grocery price job floor army creek tree journey open mushroom tube";
+var mnemonic = "beach bulk derive plug total hood ensure safe float gas suspect tomato";

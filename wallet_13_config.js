@@ -1,1 +1,1 @@
-var mnemonic = "correct zebra glove donkey simple people quote clinic hazard soul faint lens";
+var mnemonic = "thing clap gorilla link disorder lift exhaust buffalo save organ goose luxury";

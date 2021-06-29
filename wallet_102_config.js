@@ -1,1 +1,1 @@
-var mnemonic = "flash fabric disorder laundry photo shuffle book tunnel poem device work drive";
+var mnemonic = "between assault dilemma memory tissue choice apple goddess spell fame alert exotic";

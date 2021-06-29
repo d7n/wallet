@@ -1,1 +1,1 @@
-var mnemonic = "mushroom resist height small blanket employ scorpion glove car start genre canal";
+var mnemonic = "august salute lecture hello orient reject lyrics stove caution person company income";

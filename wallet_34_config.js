@@ -1,1 +1,1 @@
-var mnemonic = "okay hurt unhappy cattle strike position steel pink mandate merry frost skate";
+var mnemonic = "universe hedgehog flee worry region public ball mirror absorb better symbol affair";

@@ -1,1 +1,1 @@
-var mnemonic = "insane tell floor blue discover theme open beef armed they twin famous";
+var mnemonic = "frost little giraffe catalog walnut dress pony tackle economy ginger uncle food";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin kangaroo paddle someone hour census tunnel odor wine tornado glory fiction";
+var mnemonic = "sadness design meadow vacuum sister fluid announce claw canvas bright rigid act";

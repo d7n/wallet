@@ -1,1 +1,1 @@
-var mnemonic = "lemon height swamp night clever next donkey confirm excite option balcony rug";
+var mnemonic = "letter genre dirt real embark valid differ journey actual animal sudden cloth";

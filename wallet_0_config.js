@@ -1,1 +1,1 @@
-var mnemonic = "happy program impose peanut okay pride muffin crazy segment eyebrow hurry solid";
+var mnemonic = "twelve scissors perfect meat verb affair click eternal attract area route fever";

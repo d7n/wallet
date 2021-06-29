@@ -1,1 +1,1 @@
-var mnemonic = "orchard confirm tooth craft banana grant security peanut dash embody sample chapter";
+var mnemonic = "relax duck cage cool hurry foot isolate fruit ivory absurd mountain general";

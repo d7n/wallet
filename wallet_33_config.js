@@ -1,1 +1,1 @@
-var mnemonic = "today firm gain step more vessel large security salon shock round fortune";
+var mnemonic = "hole cram milk sustain glue point chat tornado decrease six income moon";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel clown veteran sign crumble soccer fly major village point insane ladder";
+var mnemonic = "glance abstract candy exhibit notice antique blanket blue radar grass waste curtain";

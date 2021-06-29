@@ -1,1 +1,1 @@
-var mnemonic = "swap spend elegant course exile version business hotel error luggage develop palace";
+var mnemonic = "cluster excuse embody wash month maple globe lawsuit column lion then coach";

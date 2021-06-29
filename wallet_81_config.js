@@ -1,1 +1,1 @@
-var mnemonic = "skate rich icon indoor school media amateur confirm knee have feel noise";
+var mnemonic = "black youth cost clock slim energy match wage impulse keep violin illegal";

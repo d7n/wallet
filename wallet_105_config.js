@@ -1,1 +1,1 @@
-var mnemonic = "because wrist ill tunnel across defense address frozen describe poverty uphold loyal";
+var mnemonic = "banner apart output intact address prefer law boil oyster wonder clown hold";

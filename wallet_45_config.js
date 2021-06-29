@@ -1,1 +1,1 @@
-var mnemonic = "total thrive trust brown alcohol much dish busy jacket walk suit kingdom";
+var mnemonic = "enemy pizza caught actual bike lyrics wine hire silk mechanic crucial pistol";

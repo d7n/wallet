@@ -1,1 +1,1 @@
-var mnemonic = "merit year prosper ring attract above enter check surface uncle bike auction";
+var mnemonic = "price food dress among allow panel all tornado fantasy one antenna try";

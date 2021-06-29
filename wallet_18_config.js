@@ -1,1 +1,1 @@
-var mnemonic = "vibrant census brisk dream fence disease real chimney palace easily inspire about";
+var mnemonic = "garbage blade coffee account spot roof cigar snake knife clutch legend any";

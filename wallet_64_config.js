@@ -1,1 +1,1 @@
-var mnemonic = "domain wrap athlete slam kit captain frame hood delay check reward account";
+var mnemonic = "call elegant skill betray shock abandon turtle float friend physical process shiver";

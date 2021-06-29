@@ -1,1 +1,1 @@
-var mnemonic = "wave crunch stem bus tunnel barely custom index potato crowd push twice";
+var mnemonic = "opinion matrix below skull theory worth bottom bracket lemon symptom service program";

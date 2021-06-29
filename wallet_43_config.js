@@ -1,1 +1,1 @@
-var mnemonic = "glow gravity state cool enlist digital improve cycle quarter kangaroo hat wish";
+var mnemonic = "tip wife false jewel they master wolf anxiety twice loyal wonder hood";

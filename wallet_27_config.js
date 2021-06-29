@@ -1,1 +1,1 @@
-var mnemonic = "ghost match century spell home slender tail envelope square once tissue suspect";
+var mnemonic = "shine film feed garage quarter hurt subway gym manual matter buddy anger";

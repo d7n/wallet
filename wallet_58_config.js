@@ -1,1 +1,1 @@
-var mnemonic = "viable sense foster shuffle help slogan report afraid pencil lens absent office";
+var mnemonic = "retire welcome doll conduct rescue person off twelve window gadget crystal plunge";

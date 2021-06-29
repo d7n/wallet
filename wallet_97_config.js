@@ -1,1 +1,1 @@
-var mnemonic = "come soap grain goose midnight machine race hope finish garment hold that";
+var mnemonic = "diagram shuffle man sail reveal bracket climb tomorrow jeans oppose wash mushroom";

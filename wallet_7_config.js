@@ -1,1 +1,1 @@
-var mnemonic = "nest chronic budget acid script route exist diamond parade split key return";
+var mnemonic = "home rice dragon model team trip math great hockey nephew denial transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "spring main breeze olympic please inherit bid prize wet absent humble fit";
+var mnemonic = "drive frozen horse switch warrior flock erupt wife auto unable strong uncle";

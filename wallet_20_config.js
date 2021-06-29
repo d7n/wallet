@@ -1,1 +1,1 @@
-var mnemonic = "salmon sheriff ocean daring vacuum cargo glimpse talk social fame observe hollow";
+var mnemonic = "arrive park ketchup popular about baby announce balance inmate find warfare able";

@@ -1,1 +1,1 @@
-var mnemonic = "renew unable ceiling awesome planet oak moment sword number link impulse lava";
+var mnemonic = "spin zebra melt arena chief island faith horse device eight nephew mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "denial release battle legal select float tape sibling budget beyond change clock";
+var mnemonic = "turkey educate around govern subject shove crop domain swap bundle clutch inch";

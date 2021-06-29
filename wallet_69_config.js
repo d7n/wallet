@@ -1,1 +1,1 @@
-var mnemonic = "spoil lemon work coconut knee history capable whisper enact skull social grocery";
+var mnemonic = "abandon access bench verb march atom meadow sick vivid speed winter alone";

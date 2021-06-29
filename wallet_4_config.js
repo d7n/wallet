@@ -1,1 +1,1 @@
-var mnemonic = "glory mango visit scrub rug wealth catalog tape where put obvious race";
+var mnemonic = "cry couple light sample cute alter cabin chunk brand tilt foil purchase";

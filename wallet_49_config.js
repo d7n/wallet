@@ -1,1 +1,1 @@
-var mnemonic = "happy pitch danger swing render summer mother woman creek icon heavy critic";
+var mnemonic = "apart symptom spatial frequent trick move sniff atom foster decorate main catalog";

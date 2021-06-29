@@ -1,1 +1,1 @@
-var mnemonic = "raven process hurry goddess grief loan minute flame flavor trial loyal inject";
+var mnemonic = "vendor text square plastic shuffle rapid mask first harbor absorb dentist silver";

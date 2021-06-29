@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin joy mixture wrong spray grace spray design fragile lecture close certain";
+var mnemonic = "december pill shaft toast crumble remain dog metal stand sport there mammal";

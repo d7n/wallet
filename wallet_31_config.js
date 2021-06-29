@@ -1,1 +1,1 @@
-var mnemonic = "pig until hockey enlist half rough crystal bachelor angry able beach sunset";
+var mnemonic = "tattoo adapt position start drop series indoor seek silent pottery dawn resemble";

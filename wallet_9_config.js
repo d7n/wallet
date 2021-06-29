@@ -1,1 +1,1 @@
-var mnemonic = "beauty hope change thunder chat paddle sniff feature volcano viable viable leg";
+var mnemonic = "sell nose define own shift spice illegal famous inform poet switch finger";

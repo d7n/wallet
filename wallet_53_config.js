@@ -1,1 +1,1 @@
-var mnemonic = "wrestle decade seek ribbon one industry festival echo trial dawn welcome barely";
+var mnemonic = "flag tunnel stone kiss sketch inner reveal just pilot citizen royal inch";

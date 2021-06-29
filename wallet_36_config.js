@@ -1,1 +1,1 @@
-var mnemonic = "turtle crouch parrot spirit squeeze account bar salt voice position weird denial";
+var mnemonic = "limit issue wealth lawn pyramid grid electric eagle rib wolf hollow include";

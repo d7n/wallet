@@ -1,1 +1,1 @@
-var mnemonic = "salt bid cupboard century always erosion dignity hollow word manage legend lake";
+var mnemonic = "copper sunset rib boost cool arctic carbon island rude today adapt skate";

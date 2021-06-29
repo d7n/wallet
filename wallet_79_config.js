@@ -1,1 +1,1 @@
-var mnemonic = "exotic front audit clutch craft taxi axis sunset category rocket notice slim";
+var mnemonic = "piece brand lesson stumble source current word tennis satisfy depart celery nation";

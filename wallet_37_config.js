@@ -1,1 +1,1 @@
-var mnemonic = "tag hole dragon fuel noise miracle rib happy make dad wage inhale";
+var mnemonic = "sample whale deputy radio torch remove identify skill affair width cover depend";

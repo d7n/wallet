@@ -1,1 +1,1 @@
-var mnemonic = "wise future blur critic excuse kiwi viable embody sauce happy retire behave";
+var mnemonic = "satoshi rare multiply install jealous spread resist bulk miracle myself assist cabin";

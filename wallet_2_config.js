@@ -1,1 +1,1 @@
-var mnemonic = "catalog crime jacket scrap brand end peace loan secret leg decline flush";
+var mnemonic = "ability trumpet express loyal vital forum badge palm banana setup merry seek";

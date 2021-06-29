@@ -1,1 +1,1 @@
-var mnemonic = "exile phone lumber sauce cotton multiply game still large coyote lunar empower";
+var mnemonic = "congress sentence melt laugh green put opinion history saddle steak young path";

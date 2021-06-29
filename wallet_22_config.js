@@ -1,1 +1,1 @@
-var mnemonic = "cabbage actor popular beauty two they spot sample must effort swing crucial";
+var mnemonic = "length valve elevator scale benefit dizzy meat another plunge disorder tooth inherit";

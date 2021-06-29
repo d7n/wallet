@@ -1,1 +1,1 @@
-var mnemonic = "maze salt worth ribbon stereo venue goose aunt lonely conduct desert interest";
+var mnemonic = "corn wise kitchen brush when tuna bonus vault first woman blade shield";

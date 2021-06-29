@@ -1,1 +1,1 @@
-var mnemonic = "marine loan economy language upset half math print logic pioneer ski marriage";
+var mnemonic = "output icon physical aspect tonight material ask zone million try fold panther";

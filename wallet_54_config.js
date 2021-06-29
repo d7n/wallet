@@ -1,1 +1,1 @@
-var mnemonic = "cushion quantum paddle track parent rich bulk solid diet cycle surprise chat";
+var mnemonic = "orbit evolve narrow civil cannon love confirm festival fiscal bridge shift season";

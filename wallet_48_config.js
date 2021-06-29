@@ -1,1 +1,1 @@
-var mnemonic = "ketchup people equip parrot salt claim slab swift try butter wage quit";
+var mnemonic = "ladder soft rubber spoil ritual scrap alarm reflect undo cave couch retire";

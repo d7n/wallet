@@ -1,1 +1,1 @@
-var mnemonic = "flock magnet brain echo double obvious ahead occur modify dutch switch way";
+var mnemonic = "stand visual asset throw priority stem inside initial donate loyal journey escape";

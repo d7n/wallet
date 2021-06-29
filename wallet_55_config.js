@@ -1,1 +1,1 @@
-var mnemonic = "galaxy tip rent mango record point room monkey tell limb apology suspect";
+var mnemonic = "pool vault guess umbrella armor toe palm idea race planet goat vehicle";

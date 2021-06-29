@@ -1,1 +1,1 @@
-var mnemonic = "design wet cluster summer solar scrub hip outside lens club honey addict";
+var mnemonic = "convince cream eye torch kite comic clap shed midnight talent dentist heart";

@@ -1,1 +1,1 @@
-var mnemonic = "west material crash cupboard flat planet game flower bamboo brief such choice";
+var mnemonic = "elephant opera orbit dress firm sign reflect tumble suffer toe away arctic";

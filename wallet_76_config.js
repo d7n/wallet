@@ -1,1 +1,1 @@
-var mnemonic = "rely mail erode pony glory lizard amateur quiz bonus lawn business balance";
+var mnemonic = "yard journey motion bid board couch leg brass song dance upper enforce";

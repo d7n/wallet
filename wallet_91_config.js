@@ -1,1 +1,1 @@
-var mnemonic = "patrol elder over gloom silly cute music stuff occur chimney wasp weasel";
+var mnemonic = "carpet any wire swing swamp penalty whale infant sausage judge book distance";

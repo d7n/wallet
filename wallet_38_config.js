@@ -1,1 +1,1 @@
-var mnemonic = "soon rent patrol believe kiss wise vacuum marble hire innocent fury craft";
+var mnemonic = "muffin very trophy direct pelican lounge moon front interest inch tomorrow carbon";

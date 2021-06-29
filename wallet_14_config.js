@@ -1,1 +1,1 @@
-var mnemonic = "vacuum pass shoot bread test main decade boring sting any volcano clever";
+var mnemonic = "industry barely balcony true much across infant record ask enter arena congress";

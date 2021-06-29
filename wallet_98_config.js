@@ -1,1 +1,1 @@
-var mnemonic = "kitchen witness supreme track patient prison that fashion food pool image typical";
+var mnemonic = "barrel abandon across salon public thunder wink arrange process length first praise";

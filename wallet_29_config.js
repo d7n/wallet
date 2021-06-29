@@ -1,1 +1,1 @@
-var mnemonic = "soap develop scout cargo mountain copper observe addict young dilemma upset stock";
+var mnemonic = "tackle stomach laundry width escape pulp spy shine october bless index radio";

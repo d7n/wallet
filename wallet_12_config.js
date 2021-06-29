@@ -1,1 +1,1 @@
-var mnemonic = "army rescue wheel engine sketch digital purpose luxury depth buzz surge final";
+var mnemonic = "output come job level spike under general later exchange glass tunnel razor";

@@ -1,1 +1,1 @@
-var mnemonic = "vague love shop avoid silent mouse afraid material expect bounce citizen pipe";
+var mnemonic = "inside ugly hello build wear metal behave brain exact walk rival similar";

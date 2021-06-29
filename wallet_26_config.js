@@ -1,1 +1,1 @@
-var mnemonic = "match bitter actress infant warfare tent guide circle super elephant pig emerge";
+var mnemonic = "stem bonus fiber lion inhale object there burst kangaroo aim desk grape";

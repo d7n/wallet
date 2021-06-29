@@ -1,1 +1,1 @@
-var mnemonic = "myself snow exclude source nice warm master extra elbow milk few identify";
+var mnemonic = "meat before moment guide test brick place school stadium stable flock news";

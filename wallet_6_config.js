@@ -1,1 +1,1 @@
-var mnemonic = "fantasy sauce require receive train ask boss stem develop business noodle cycle";
+var mnemonic = "subway hidden gap junk slot surge grain alien document blind wrist join";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb minute ripple script fantasy vivid oval vehicle rule popular expire track";
+var mnemonic = "oil dune sign crumble swap grass boss question east pretty never normal";

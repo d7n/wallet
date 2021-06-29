@@ -1,1 +1,1 @@
-var mnemonic = "solid innocent pause volcano relax other outdoor buddy amused harvest strong shine";
+var mnemonic = "decline document together nerve strike primary cattle sudden mesh aerobic pistol immense";

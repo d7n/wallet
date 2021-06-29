@@ -1,1 +1,1 @@
-var mnemonic = "tomato target strong neither crunch curtain foot rack dream fitness mule gun";
+var mnemonic = "raven aisle van gauge defense galaxy way blanket van ceiling cotton grocery";

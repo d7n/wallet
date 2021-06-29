@@ -1,1 +1,1 @@
-var mnemonic = "kitten online giggle transfer level good educate icon wolf kick organ harbor";
+var mnemonic = "shoot diamond tower dance jaguar project eager dinner humble during two bench";

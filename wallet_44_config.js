@@ -1,1 +1,1 @@
-var mnemonic = "kitten segment sting main whisper potato mimic item true coach move visa";
+var mnemonic = "lamp renew invite agree box into pond era lumber useful rule square";

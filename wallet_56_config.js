@@ -1,1 +1,1 @@
-var mnemonic = "stadium possible before tired mirror people hurry outdoor record okay swap rebuild";
+var mnemonic = "solution sauce cargo runway market push mass runway surge play twenty icon";

@@ -1,1 +1,1 @@
-var mnemonic = "promote visit news essay thought fetch draw patch fantasy blast ginger fashion";
+var mnemonic = "attack crunch alarm day first arm throw seed fan virus mosquito seminar";

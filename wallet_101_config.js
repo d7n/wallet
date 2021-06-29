@@ -1,1 +1,1 @@
-var mnemonic = "lock dismiss toss film choice version brain satisfy under melody entry fix";
+var mnemonic = "air occur expand appear abandon wedding boat wine essay canal surge urban";

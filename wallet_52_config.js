@@ -1,1 +1,1 @@
-var mnemonic = "twelve female crack stage question series floor whip goddess chapter clump build";
+var mnemonic = "crime various renew injury giggle sunset unhappy neither able sheriff coil advice";

@@ -1,1 +1,1 @@
-var mnemonic = "model day erase alone entire walnut poem quantum zero canal scissors debate";
+var mnemonic = "success clock crew ranch glare arrange shoe world frozen offer tonight small";

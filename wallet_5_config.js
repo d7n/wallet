@@ -1,1 +1,1 @@
-var mnemonic = "hole region diesel bullet famous enter valve hero wreck inhale frequent grape";
+var mnemonic = "cross unfair vague shadow ramp ritual acquire busy mammal glad all gravity";

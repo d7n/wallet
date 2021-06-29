@@ -1,1 +1,1 @@
-var mnemonic = "body scale require lunar rice common magic enact diet barely veteran fancy";
+var mnemonic = "aisle collect dove cool zoo spend domain tonight remember jazz robot middle";

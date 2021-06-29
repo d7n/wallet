@@ -1,1 +1,1 @@
-var mnemonic = "goddess opinion used meadow basic north way negative above local twin afraid";
+var mnemonic = "bird mango reward wise access injury fetch keen labor toilet manage identify";

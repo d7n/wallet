@@ -1,1 +1,1 @@
-var mnemonic = "copper spell ball require argue problem announce slice pattern jacket host penalty";
+var mnemonic = "fat music tent route glow exchange join food lift deputy dream pigeon";

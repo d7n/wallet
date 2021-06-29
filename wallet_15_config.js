@@ -1,1 +1,1 @@
-var mnemonic = "enhance radar anger hedgehog lend tree end heavy pool rail route unusual";
+var mnemonic = "leader hill local large vote front dignity nothing capital chuckle tattoo basket";

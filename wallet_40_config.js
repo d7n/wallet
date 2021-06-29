@@ -1,1 +1,1 @@
-var mnemonic = "decade follow bench sell cover chat crush bicycle melt cream crouch fit";
+var mnemonic = "human swallow crunch quarter wealth stamp radio baby attitude survey casino female";

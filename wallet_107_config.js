@@ -1,1 +1,1 @@
-var mnemonic = "employ spawn spell stool text own merry ocean vacant orphan chuckle tiny";
+var mnemonic = "bar easy harsh dose section hat shine radio label remind blanket script";

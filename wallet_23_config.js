@@ -1,1 +1,1 @@
-var mnemonic = "behave axis arrive law twice sketch ordinary strong festival kick basic sea";
+var mnemonic = "castle filter diagram junior slim remember rough position donor crazy short history";

@@ -1,1 +1,1 @@
-var mnemonic = "derive hurdle smile illegal produce bubble swap snow aware female couple blood";
+var mnemonic = "cargo main tunnel cotton sausage cloth allow lunch vapor bridge runway child";

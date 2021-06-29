@@ -1,1 +1,1 @@
-var mnemonic = "icon deposit under guilt unaware scrap quality bracket doctor mountain eager convince";
+var mnemonic = "grocery gold foil install icon nut blanket dizzy pole brisk analyst multiply";

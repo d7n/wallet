@@ -1,1 +1,1 @@
-var mnemonic = "clap skin blur oval there calm long matter crater hero topic denial";
+var mnemonic = "tomato oblige sign exit pave mixture depart other net tape group tortoise";

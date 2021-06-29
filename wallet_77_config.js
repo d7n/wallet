@@ -1,1 +1,1 @@
-var mnemonic = "rich practice brisk sport stable amused quit ghost release insane swear bamboo";
+var mnemonic = "street sting maze just immune today glide ill scatter dad palace coyote";

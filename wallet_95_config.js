@@ -1,1 +1,1 @@
-var mnemonic = "effort camera force hurdle volume age hurt current room rib assault forward";
+var mnemonic = "series nature dentist entire unaware fan slot enhance observe clinic cycle perfect";

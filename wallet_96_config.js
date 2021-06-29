@@ -1,1 +1,1 @@
-var mnemonic = "clown document fly wood know suspect term umbrella echo young buffalo birth";
+var mnemonic = "audit lava gospel uncle top various learn tired blur power slight ski";

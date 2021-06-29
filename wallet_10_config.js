@@ -1,1 +1,1 @@
-var mnemonic = "shoot vendor frequent hotel chair panel rule total certain obey mouse large";
+var mnemonic = "fade cruise expose reveal wine small notice prosper duck media nut truly";

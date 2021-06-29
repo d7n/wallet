@@ -1,1 +1,1 @@
-var mnemonic = "bamboo race chimney lounge height bar indoor cloth casino that silent liquid";
+var mnemonic = "age hobby search empty fork rather merit twelve trip west betray wild";

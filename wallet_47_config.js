@@ -1,1 +1,1 @@
-var mnemonic = "spray bring gauge help sorry brisk cute dog grant cargo one theme";
+var mnemonic = "proof miss pole advice mouse cram motor ghost mistake unit enroll deputy";

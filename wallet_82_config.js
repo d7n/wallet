@@ -1,1 +1,1 @@
-var mnemonic = "slab suggest life flag couch someone oppose fun cloud animal bike gallery";
+var mnemonic = "can small grab always glad maple trip dismiss rain humble flock onion";

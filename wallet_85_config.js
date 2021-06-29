@@ -1,1 +1,1 @@
-var mnemonic = "render absent banana rather idea siege beach owner hybrid client embody water";
+var mnemonic = "kangaroo mesh mutual rival lizard amazing fiscal hawk leave weekend glow peace";
