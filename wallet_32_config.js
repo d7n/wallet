@@ -1,1 +1,1 @@
-var mnemonic = "obey act rose mosquito embrace mail admit gym below flat extend month";
+var mnemonic = "garden gorilla fabric patient final skin old sniff moral popular inspire report";

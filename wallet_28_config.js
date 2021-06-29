@@ -1,1 +1,1 @@
-var mnemonic = "kind stand palace clean grunt soup leisure fluid unveil fine eight radar";
+var mnemonic = "donkey front winter hungry immense coral piece sleep vault piece day surge";

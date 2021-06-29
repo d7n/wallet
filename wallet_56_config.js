@@ -1,1 +1,1 @@
-var mnemonic = "practice snack ceiling scrap motor basic fold lyrics position curtain soap garlic";
+var mnemonic = "private this style loop imitate hill drum there spare salon push sustain";

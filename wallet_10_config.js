@@ -1,1 +1,1 @@
-var mnemonic = "patient minor toddler verify weapon horse inject first tell above switch exotic";
+var mnemonic = "picture brand scrub small assault squeeze bulk runway wasp voice layer speak";

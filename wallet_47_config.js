@@ -1,1 +1,1 @@
-var mnemonic = "seek galaxy comic tumble zero sing focus august vote bar debris drip";
+var mnemonic = "embark island index reunion include calm picnic thrive thunder exhaust dish steel";

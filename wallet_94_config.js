@@ -1,1 +1,1 @@
-var mnemonic = "useless artwork organ maid render hire train great deal great point rival";
+var mnemonic = "donor magic cake drip gauge fuel tomorrow riot cart angle tonight vote";

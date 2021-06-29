@@ -1,1 +1,1 @@
-var mnemonic = "short welcome license brave nation skill coral suggest rent dwarf before person";
+var mnemonic = "buzz morning try fitness guilt horse raccoon extend table main like legend";

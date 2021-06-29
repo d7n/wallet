@@ -1,1 +1,1 @@
-var mnemonic = "shove arrange gospel isolate anxiety spoil soccer clown misery year avoid unknown";
+var mnemonic = "success choose bridge perfect enough flight unknown spirit horn push mad future";

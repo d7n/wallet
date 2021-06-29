@@ -1,1 +1,1 @@
-var mnemonic = "broken urban grunt green domain drink merge air again parent jungle install";
+var mnemonic = "shoe wagon exercise margin atom link round child web raccoon flee north";

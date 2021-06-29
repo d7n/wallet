@@ -1,1 +1,1 @@
-var mnemonic = "bag universe nurse leisure stamp connect vast pill list hockey lecture street";
+var mnemonic = "clock melt network torch abuse common body aisle never hire alarm tattoo";

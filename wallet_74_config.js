@@ -1,1 +1,1 @@
-var mnemonic = "enlist ensure sister opera kidney term patient home swing that gauge model";
+var mnemonic = "mix expect original nerve keep vacuum question upset lazy candy hungry upset";

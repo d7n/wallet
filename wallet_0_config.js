@@ -1,1 +1,1 @@
-var mnemonic = "dutch tonight six only cup order license decide permit jewel frog cycle";
+var mnemonic = "elephant ketchup crack industry produce boring memory frown bomb erosion armed pear";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold volcano season word velvet into long parade ugly tackle tip knee";
+var mnemonic = "repair puppy drive surround manual major fault unfold aunt ramp void agree";

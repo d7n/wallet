@@ -1,1 +1,1 @@
-var mnemonic = "adjust skill pave position bullet potato twin easy bless wash puppy gift";
+var mnemonic = "network faculty absent gift predict plastic diagram hazard image skin frequent shoe";

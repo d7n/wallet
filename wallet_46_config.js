@@ -1,1 +1,1 @@
-var mnemonic = "wasp true bridge nephew mean lift plastic absent card toe turn wash";
+var mnemonic = "beef wear sound ripple gloom execute pulse foot census middle retreat whip";

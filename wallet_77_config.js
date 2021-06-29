@@ -1,1 +1,1 @@
-var mnemonic = "similar evoke leopard valid cream write rice belt bamboo hood puppy tired";
+var mnemonic = "picture cushion lazy basket solve business benefit heart aerobic spy magic jacket";

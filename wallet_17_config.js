@@ -1,1 +1,1 @@
-var mnemonic = "fork degree suggest trial network leisure above organ owner park body flag";
+var mnemonic = "one receive dress you holiday cover coin observe stone pottery focus detail";

@@ -1,1 +1,1 @@
-var mnemonic = "summer discover similar negative awesome glance bronze inquiry pear shrug job library";
+var mnemonic = "defense quality hello tomato horn movie type diamond enroll concert keep require";

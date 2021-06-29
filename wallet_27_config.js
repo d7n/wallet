@@ -1,1 +1,1 @@
-var mnemonic = "quick blue inquiry shiver kind diet track nut nothing sea small gun";
+var mnemonic = "gossip answer clever cigar pioneer inspire buyer author oval reveal crucial pen";

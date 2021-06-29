@@ -1,1 +1,1 @@
-var mnemonic = "all swift menu dress cool flash village december route mushroom predict olive";
+var mnemonic = "grief heavy puzzle lazy surge banner wood wisdom sudden stadium program deer";

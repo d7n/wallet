@@ -1,1 +1,1 @@
-var mnemonic = "sample orbit drill arm tiny cancel parade actual echo open melt crunch";
+var mnemonic = "walnut reflect hand match enhance innocent coil belt panther fix worry impose";

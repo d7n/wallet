@@ -1,1 +1,1 @@
-var mnemonic = "modify drive bunker churn buddy frost local return nation game before denial";
+var mnemonic = "unusual crucial portion enrich weird image tank guitar badge mammal ride scare";

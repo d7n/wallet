@@ -1,1 +1,1 @@
-var mnemonic = "entry glide fiction gadget antenna distance equal large member hole drastic bid";
+var mnemonic = "erase correct artwork flame clutch sea food super zebra mansion design egg";

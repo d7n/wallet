@@ -1,1 +1,1 @@
-var mnemonic = "museum advice jungle betray pelican charge stock border file soft artefact provide";
+var mnemonic = "repeat mixed useless elegant spoon confirm erase crystal sketch bubble cross parade";

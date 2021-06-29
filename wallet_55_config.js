@@ -1,1 +1,1 @@
-var mnemonic = "talk group exercise use raven benefit source gold ketchup rapid spike whip";
+var mnemonic = "human planet oyster poem another such rough derive virus happy decade vault";

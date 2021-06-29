@@ -1,1 +1,1 @@
-var mnemonic = "snow response cage sign feature pattern bullet solution essence edit act address";
+var mnemonic = "august else venture mule memory chest bus banner brand cost evolve begin";

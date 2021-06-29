@@ -1,1 +1,1 @@
-var mnemonic = "supreme machine dragon away hover pact purpose strong slender nose leg wire";
+var mnemonic = "exit motor odor renew segment lunar typical analyst search surprise void erase";

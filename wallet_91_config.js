@@ -1,1 +1,1 @@
-var mnemonic = "machine chalk blade girl group apart fiscal lens quiz fade torch zone";
+var mnemonic = "impose main apology trumpet expect blame agree nut moon thumb lottery glare";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust finish accident crazy science spawn garage taste there slight trash few";
+var mnemonic = "drill latin track mango olympic faith calm bleak weather action lyrics have";

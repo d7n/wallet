@@ -1,1 +1,1 @@
-var mnemonic = "matrix soul knee anchor debate quick give price scorpion aware amused donate";
+var mnemonic = "harbor rare help float pen arch cigar degree food response blur sense";

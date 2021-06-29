@@ -1,1 +1,1 @@
-var mnemonic = "orient immense stool love shine place bamboo float trick quiz undo monitor";
+var mnemonic = "polar object snap rotate culture scorpion corn spoon day lava love yellow";

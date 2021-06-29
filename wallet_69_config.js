@@ -1,1 +1,1 @@
-var mnemonic = "pole hurry polar traffic lawsuit wrap phrase nephew mass april earth error";
+var mnemonic = "inch double win decline object soon toilet come dignity audit north mass";

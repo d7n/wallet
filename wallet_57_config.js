@@ -1,1 +1,1 @@
-var mnemonic = "cushion absent nation share clock brisk tag deny all boring domain cinnamon";
+var mnemonic = "avoid vast exhaust habit silent pattern mention rain attend antenna orange invest";

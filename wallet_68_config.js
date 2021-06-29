@@ -1,1 +1,1 @@
-var mnemonic = "uphold day dumb minute private large dice latin zero secret abuse outer";
+var mnemonic = "witness crisp estate staff ancient outer million scissors mammal coffee glow idea";

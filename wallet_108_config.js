@@ -1,1 +1,1 @@
-var mnemonic = "legal giggle game choose rabbit bid hawk expose town web february antenna";
+var mnemonic = "art achieve pumpkin rude legal nerve alien bargain bulb trade slam book";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle pull fault science supreme fine canyon answer alley drive eagle fringe";
+var mnemonic = "use fork satisfy better wage web just click health word judge strike";

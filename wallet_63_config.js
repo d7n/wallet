@@ -1,1 +1,1 @@
-var mnemonic = "cigar decade wrap wonder detect lobster crane timber order special garment find";
+var mnemonic = "often celery priority obey witness theory identify trim sign title auction cash";

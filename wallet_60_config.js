@@ -1,1 +1,1 @@
-var mnemonic = "matter raven spell hen view goose foam list muffin note skirt kite";
+var mnemonic = "cycle they salmon kiwi swift jump high install scrap frozen abstract output";

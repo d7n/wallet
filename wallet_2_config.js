@@ -1,1 +1,1 @@
-var mnemonic = "sugar orchard trash machine brief provide busy lesson chair hurry color foster";
+var mnemonic = "weird image off city angle position keen steak circle bronze settle hybrid";

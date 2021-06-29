@@ -1,1 +1,1 @@
-var mnemonic = "legend hello offer pioneer rule alert forum maze total reason ring wisdom";
+var mnemonic = "evoke local motor pyramid casino hazard surface boss forum dignity section common";

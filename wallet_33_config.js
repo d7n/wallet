@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow boring young sniff find among raven sort window suspect layer family";
+var mnemonic = "dog require age what fly stomach category hat produce lend need wasp";

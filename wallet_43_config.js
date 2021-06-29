@@ -1,1 +1,1 @@
-var mnemonic = "angle potato floor royal lady oyster safe genre demise skate mom carbon";
+var mnemonic = "genuine number special pilot arrow sorry unit flame assume govern catalog cave";

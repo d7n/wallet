@@ -1,1 +1,1 @@
-var mnemonic = "tank phrase grace valve afford nose piano common escape cart label fiction";
+var mnemonic = "civil squirrel other birth climb sail velvet object coffee truth tape peace";

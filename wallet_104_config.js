@@ -1,1 +1,1 @@
-var mnemonic = "truck usage tobacco grace drum evolve neutral minute monster nothing urban enact";
+var mnemonic = "lunar omit kit inform erosion wheat grain better mass diamond tip armed";

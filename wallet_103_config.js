@@ -1,1 +1,1 @@
-var mnemonic = "erase egg target suffer want marble distance sunny thunder clinic brother sell";
+var mnemonic = "disorder fancy flag math become duty rifle similar cool tuna cream humble";

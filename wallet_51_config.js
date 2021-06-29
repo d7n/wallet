@@ -1,1 +1,1 @@
-var mnemonic = "sail elbow file fetch gospel dawn reopen sausage awful year until hip";
+var mnemonic = "gossip security icon blast burst talent mercy curtain cannon since wear world";

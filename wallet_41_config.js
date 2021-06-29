@@ -1,1 +1,1 @@
-var mnemonic = "surprise pass list august jewel choice must sound guess absent hedgehog exile";
+var mnemonic = "female summer crouch once pluck bacon card struggle act foot pizza recycle";

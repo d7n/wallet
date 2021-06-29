@@ -1,1 +1,1 @@
-var mnemonic = "horse endless choose recycle eight stick talent output tissue safe remove trap";
+var mnemonic = "forward remind matrix vault team region novel entry burst love fragile waste";

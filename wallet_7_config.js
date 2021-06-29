@@ -1,1 +1,1 @@
-var mnemonic = "scare chronic picture erosion mirror interest open make describe slot spice salt";
+var mnemonic = "album page wonder side eye warrior toy company cool survey unit void";

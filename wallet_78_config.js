@@ -1,1 +1,1 @@
-var mnemonic = "organ frame recall scheme borrow select tomorrow ceiling chunk pottery diagram fatigue";
+var mnemonic = "gentle federal design tank remove violin maple liar exist main awake caution";

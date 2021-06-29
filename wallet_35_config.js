@@ -1,1 +1,1 @@
-var mnemonic = "power biology fold eyebrow hospital size grocery bid eagle thunder olive mirror";
+var mnemonic = "paddle print wink useless quarter drop acid question treat cake monster despair";

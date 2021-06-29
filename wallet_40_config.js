@@ -1,1 +1,1 @@
-var mnemonic = "stock that ensure skate deposit galaxy total panel decline remember pulse rain";
+var mnemonic = "invite betray web reject mirror quick long crisp sun trap nest soup";

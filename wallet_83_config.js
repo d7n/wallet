@@ -1,1 +1,1 @@
-var mnemonic = "food arctic blur letter capital slab citizen aunt tired arch gasp toilet";
+var mnemonic = "trade nothing young employ gown funny evidence square actor vessel erosion vintage";

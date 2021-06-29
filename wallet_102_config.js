@@ -1,1 +1,1 @@
-var mnemonic = "rebel wedding chicken hurdle thank display side finger update young response legal";
+var mnemonic = "purity horn soap almost rotate can expose surprise average agent near voice";

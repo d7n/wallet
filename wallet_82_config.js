@@ -1,1 +1,1 @@
-var mnemonic = "emerge must business audit fit spirit bus coyote body glad law busy";
+var mnemonic = "movie possible discover rotate stand world lonely aware together high glass dirt";

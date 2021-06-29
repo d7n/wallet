@@ -1,1 +1,1 @@
-var mnemonic = "garbage odor machine october scissors addict pony hip network during waste emotion";
+var mnemonic = "error receive skate manual worth fame client peace quit unfair pepper blouse";

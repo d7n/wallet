@@ -1,1 +1,1 @@
-var mnemonic = "soul bacon timber income curtain wrist evil taxi chalk library old buzz";
+var mnemonic = "arrive notable panda great nature enlist skill visual prevent tired saddle arrest";

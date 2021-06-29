@@ -1,1 +1,1 @@
-var mnemonic = "raw turtle card hobby brother liberty piece chuckle inmate program hazard fiscal";
+var mnemonic = "train ginger humble repeat private merit wool direct tomato often frown shine";

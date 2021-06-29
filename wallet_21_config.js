@@ -1,1 +1,1 @@
-var mnemonic = "input forget idea era grape light refuse heart owner misery furnace february";
+var mnemonic = "dizzy sudden cheap device name teach unveil alley husband price era kangaroo";

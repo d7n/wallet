@@ -1,1 +1,1 @@
-var mnemonic = "judge alcohol exit adjust lend cave crew profit panda desert easy night";
+var mnemonic = "judge toilet session tube syrup rough kitten hungry casino twelve suit confirm";

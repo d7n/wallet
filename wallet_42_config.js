@@ -1,1 +1,1 @@
-var mnemonic = "shift shove sight affair hundred decorate pluck skin humble special feel oval";
+var mnemonic = "upper innocent course item fury donate fatigue alpha pizza journey quick three";

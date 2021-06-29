@@ -1,1 +1,1 @@
-var mnemonic = "wheat rhythm thank student sphere make sugar issue warfare sheriff power wrestle";
+var mnemonic = "cram hybrid evolve infant dash major salute village cement boring summer also";

@@ -1,1 +1,1 @@
-var mnemonic = "unit sister laundry crater spare catalog dog crush angle plunge version beach";
+var mnemonic = "outside illness panel rare because cherry border element clutch domain enlist sense";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent cram cluster arrest emotion pupil net produce perfect cave visit cry";
+var mnemonic = "shoulder brave ship evidence list short scissors script weapon pool glue rice";

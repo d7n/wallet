@@ -1,1 +1,1 @@
-var mnemonic = "sauce midnight note oil receive breeze match dumb cave image paper size";
+var mnemonic = "woman school bachelor narrow green evolve unusual wine sword ability deer monitor";

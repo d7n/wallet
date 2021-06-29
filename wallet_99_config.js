@@ -1,1 +1,1 @@
-var mnemonic = "control soup father mutual place bring scissors viable return vehicle pencil blade";
+var mnemonic = "ecology spray airport scrap crop slim ignore uphold margin idle word rebel";

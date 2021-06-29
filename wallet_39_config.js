@@ -1,1 +1,1 @@
-var mnemonic = "badge crime acquire soft proof ranch clever victory vote fun hat unknown";
+var mnemonic = "match hire physical master buzz method pond loyal observe bicycle squeeze paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger bag topic mandate awkward oyster destroy case nature fold life old";
+var mnemonic = "cage west material shed dutch phone dream keep slam nominee rent eternal";

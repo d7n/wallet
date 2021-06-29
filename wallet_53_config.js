@@ -1,1 +1,1 @@
-var mnemonic = "benefit adjust civil object fury ordinary one metal gift jump monster purpose";
+var mnemonic = "guide clown helmet pelican thought brush fork announce labor arch unhappy pride";

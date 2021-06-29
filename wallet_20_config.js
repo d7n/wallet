@@ -1,1 +1,1 @@
-var mnemonic = "laundry noise develop bird isolate drop horror hard summer wear staff tape";
+var mnemonic = "step escape crack release file credit collect chicken tomorrow protect embrace damp";

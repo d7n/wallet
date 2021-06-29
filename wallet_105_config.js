@@ -1,1 +1,1 @@
-var mnemonic = "ethics kit palm certain sad safe skull wolf radio sustain chicken express";
+var mnemonic = "fresh planet useless antenna spin quote hole labor sample spell camp razor";

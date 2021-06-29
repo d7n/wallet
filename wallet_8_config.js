@@ -1,1 +1,1 @@
-var mnemonic = "link village ignore point finger chronic task legal course fall fancy device";
+var mnemonic = "hour genius frozen scheme museum deposit monitor faith blood found correct assault";

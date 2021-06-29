@@ -1,1 +1,1 @@
-var mnemonic = "august birth example zoo filter wife crater arrest promote steak enrich toss";
+var mnemonic = "trouble mutual stomach until burst lumber hello never gasp desert this sentence";

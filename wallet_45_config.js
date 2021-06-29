@@ -1,1 +1,1 @@
-var mnemonic = "slender mule nephew shoot embrace camp grow cry apple talent museum become";
+var mnemonic = "town sting stuff sing thank sun comfort sphere ugly orient knock fame";

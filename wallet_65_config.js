@@ -1,1 +1,1 @@
-var mnemonic = "manual aware token rather humor lady select cigar current devote proud blame";
+var mnemonic = "scatter attend pilot inflict found scan click main ball obtain decade target";

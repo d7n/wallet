@@ -1,1 +1,1 @@
-var mnemonic = "where lawn clay boil rely kangaroo shed castle umbrella short ensure leg";
+var mnemonic = "amateur strike idea want month idea duck perfect purity insane rebel blind";

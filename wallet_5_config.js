@@ -1,1 +1,1 @@
-var mnemonic = "ginger actual twin dry follow like later animal crowd ten rescue warm";
+var mnemonic = "gold road network bid globe spray finish major mass accident crime hard";

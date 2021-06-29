@@ -1,1 +1,1 @@
-var mnemonic = "build gold nasty aware dad primary teach gossip all cheap toss radar";
+var mnemonic = "embark hungry off inner plug roof garbage spirit vague dove supreme squirrel";

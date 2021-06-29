@@ -1,1 +1,1 @@
-var mnemonic = "robust attract pupil dawn text index unknown flush barely wrist leaf session";
+var mnemonic = "correct manual view grocery eye insect photo blanket pause left destroy public";

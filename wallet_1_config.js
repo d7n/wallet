@@ -1,1 +1,1 @@
-var mnemonic = "general number movie truck later junior can heavy sauce thank feature essay";
+var mnemonic = "palm save jewel shield garbage hello also blossom rose post solve seed";

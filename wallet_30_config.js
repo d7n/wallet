@@ -1,1 +1,1 @@
-var mnemonic = "predict reveal sand day fragile alter almost pattern license lend august box";
+var mnemonic = "diamond busy piano actor midnight fragile young onion always entry burger dust";

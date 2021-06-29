@@ -1,1 +1,1 @@
-var mnemonic = "insect unusual boring fly soap parrot clever secret candy brick venue weird";
+var mnemonic = "sport crop plunge toast vendor crowd action basket usual hockey obey game";

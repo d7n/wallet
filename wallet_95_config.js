@@ -1,1 +1,1 @@
-var mnemonic = "casual popular remain tunnel finger sunset critic poet fury lamp saddle defense";
+var mnemonic = "narrow junior chest change embrace grid glad damp save scissors dirt dinner";

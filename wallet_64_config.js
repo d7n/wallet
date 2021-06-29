@@ -1,1 +1,1 @@
-var mnemonic = "meadow arctic siege fall mutual source bomb flock move trust code draw";
+var mnemonic = "enough canal solid usual three route garage rule quiz athlete fitness bleak";

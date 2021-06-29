@@ -1,1 +1,1 @@
-var mnemonic = "seed goose symbol program dune present win attract nerve inspire pull tennis";
+var mnemonic = "fantasy expose response input elbow cute filter claw smooth clarify scene rebel";

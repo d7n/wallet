@@ -1,1 +1,1 @@
-var mnemonic = "toddler rib eagle repair cruel arrest depart april cook crazy grant review";
+var mnemonic = "unfold reason gather record rabbit iron behind melt art help ring remain";

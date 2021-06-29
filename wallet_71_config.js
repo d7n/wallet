@@ -1,1 +1,1 @@
-var mnemonic = "swarm skate all yellow street wrestle awkward brick awake exist miss utility";
+var mnemonic = "blood rule tenant sniff drastic silent below divert analyst bachelor cement what";

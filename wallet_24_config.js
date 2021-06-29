@@ -1,1 +1,1 @@
-var mnemonic = "try desk invest embody client demise sting kite desk code core forest";
+var mnemonic = "display capital plug rate text wash gown very indicate mechanic evidence hand";

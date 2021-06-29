@@ -1,1 +1,1 @@
-var mnemonic = "region kick flower ride clown toss weasel patient plastic gossip knock party";
+var mnemonic = "canal dizzy shy bomb nasty risk slow mandate barrel fringe ship deal";
