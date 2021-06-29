@@ -1,1 +1,1 @@
-var mnemonic = "lock robot law dose evidence veteran thumb suspect company pencil giant poverty";
+var mnemonic = "grief true voyage chest witness enlist antique south marine flavor piano license";

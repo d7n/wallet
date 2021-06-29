@@ -1,1 +1,1 @@
-var mnemonic = "half mail arm tuna special online ring clay invite broccoli scare slot";
+var mnemonic = "evidence trigger essence wait topic drastic around fall arrest select better auction";

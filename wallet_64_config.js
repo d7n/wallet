@@ -1,1 +1,1 @@
-var mnemonic = "art memory act inject view swallow around pipe garment anxiety bacon dynamic";
+var mnemonic = "leader mushroom penalty leisure carry motion lawsuit appear deny express depth culture";

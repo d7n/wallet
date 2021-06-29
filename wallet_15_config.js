@@ -1,1 +1,1 @@
-var mnemonic = "various quiz essence saddle where awkward entire time urban borrow judge round";
+var mnemonic = "trouble pitch perfect elder test any indoor clean alpha state crazy potato";

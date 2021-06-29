@@ -1,1 +1,1 @@
-var mnemonic = "biology gaze nuclear remind gospel curtain robot company twenty harvest stable vehicle";
+var mnemonic = "style beach child usual celery spray indoor upgrade limb radar blue cover";

@@ -1,1 +1,1 @@
-var mnemonic = "impact common glide whale shell goat jar chapter dash absorb subject season";
+var mnemonic = "voyage rifle parent toward pulse offer mimic tomorrow comfort arrive mandate cargo";

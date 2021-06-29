@@ -1,1 +1,1 @@
-var mnemonic = "that cruel copy utility they empty feature hold yard elite grant reward";
+var mnemonic = "inner frequent oxygen current grant device vague afford hidden life employ gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "sign slim alpha flash asset minimum staff orchard general earn path assist";
+var mnemonic = "rack soldier erode purse flag omit pretty blade virtual nose panda foster";

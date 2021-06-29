@@ -1,1 +1,1 @@
-var mnemonic = "hello immense silk arctic list furnace make private valid enemy purpose demise";
+var mnemonic = "mechanic damage carbon sibling cable coach genuine dilemma clump buddy approve lecture";

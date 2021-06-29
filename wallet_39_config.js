@@ -1,1 +1,1 @@
-var mnemonic = "lion dice uphold hedgehog hire impose dentist hub often loop about pole";
+var mnemonic = "pilot travel victory wolf million onion light urban select trial length leisure";

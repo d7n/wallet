@@ -1,1 +1,1 @@
-var mnemonic = "stick vehicle position spoil cricket equip decade dry bless spider genre hub";
+var mnemonic = "bless usual always season topple buzz insane chef voice follow riot drink";

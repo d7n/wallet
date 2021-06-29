@@ -1,1 +1,1 @@
-var mnemonic = "stuff broom public tired orient wall jazz stage grief consider abandon steak";
+var mnemonic = "velvet inspire menu shaft inject capable drip until tilt spider record clock";

@@ -1,1 +1,1 @@
-var mnemonic = "defy daughter rebuild junior cradle electric month assume eye prepare wool noodle";
+var mnemonic = "absent dune among dumb clever ice corn success thumb act clap have";

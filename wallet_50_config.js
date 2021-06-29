@@ -1,1 +1,1 @@
-var mnemonic = "drive trade rocket woman crazy daughter fluid fame potato finger egg design";
+var mnemonic = "mechanic music marble gas include position coast tonight prevent salad hood exit";

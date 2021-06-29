@@ -1,1 +1,1 @@
-var mnemonic = "toy surface genre muscle crowd exotic quality use lizard van sense accuse";
+var mnemonic = "family alpha frog trouble harsh fresh denial junior inform humor fine palm";

@@ -1,1 +1,1 @@
-var mnemonic = "control print year valley dress velvet defense forest together boring globe split";
+var mnemonic = "solution boil trumpet solar mixed nest area cruise enrich shoe over year";

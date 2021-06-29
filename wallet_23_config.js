@@ -1,1 +1,1 @@
-var mnemonic = "sphere marble milk axis tonight endorse monitor visit citizen easy dog fringe";
+var mnemonic = "chat glance because divorce summer mother ethics spatial same remain certain apple";

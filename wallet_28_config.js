@@ -1,1 +1,1 @@
-var mnemonic = "sadness fly maze erosion size type height hurdle ball lawsuit face letter";
+var mnemonic = "hole unveil obscure total green merit emotion spread tumble garage episode ancient";

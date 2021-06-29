@@ -1,1 +1,1 @@
-var mnemonic = "network cannon art donkey prepare hen day hair toss duck rally when";
+var mnemonic = "culture dust edge resource pelican orange asthma flock harsh eternal inner garbage";

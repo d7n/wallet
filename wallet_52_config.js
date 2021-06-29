@@ -1,1 +1,1 @@
-var mnemonic = "topic manage elegant soul above music jealous mobile fog raccoon habit army";
+var mnemonic = "useless monkey recipe wish stem exchange hole mask endorse equal glad battle";

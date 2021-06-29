@@ -1,1 +1,1 @@
-var mnemonic = "mammal beyond autumn merry scan ribbon entire cross nasty nuclear lyrics wrist";
+var mnemonic = "baby shift frown maid foil journey program among scene banner entire defense";

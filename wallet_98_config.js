@@ -1,1 +1,1 @@
-var mnemonic = "neglect exclude join bicycle anger tone bridge want outer maid bulk media";
+var mnemonic = "west sound camp poem current ozone weird position plate prize require wheat";

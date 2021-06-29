@@ -1,1 +1,1 @@
-var mnemonic = "clinic hamster setup cute art reopen boring hungry bean sponsor soldier casino";
+var mnemonic = "solution paper hint find upper vote phone regret near goose lift casino";

@@ -1,1 +1,1 @@
-var mnemonic = "juice body champion subway able story unit tomorrow wheel enter myself pony";
+var mnemonic = "buyer victory seek maximum useless tissue source property kiwi trigger obscure scare";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer message pass wonder else rather crazy gorilla toddler hobby orbit surge";
+var mnemonic = "effort camp loop donor agent lobster local chapter crunch cable hotel analyst";

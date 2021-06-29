@@ -1,1 +1,1 @@
-var mnemonic = "jelly sample unique cake stand shiver future picnic dose february burden cinnamon";
+var mnemonic = "creek ability dune sausage kit large sing chalk track hammer fatal upset";

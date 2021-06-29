@@ -1,1 +1,1 @@
-var mnemonic = "blind panther salad modify vibrant wet device across furnace nuclear unusual nest";
+var mnemonic = "mercy choose test setup civil govern hole curve middle piano soccer noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom salmon ritual move permit coil danger amazing acoustic version slow bike";
+var mnemonic = "whip any bid entire link drink aisle fade virus march shine fault";

@@ -1,1 +1,1 @@
-var mnemonic = "portion deliver wild nuclear bundle nominee physical come foot letter artwork basket";
+var mnemonic = "lecture ball industry medal rug clay song sniff street clean believe okay";

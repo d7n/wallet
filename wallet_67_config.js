@@ -1,1 +1,1 @@
-var mnemonic = "enemy boil gauge blanket elbow water vote allow urban bitter diagram obvious";
+var mnemonic = "congress develop weird hover either census stomach want rubber cheap solid theme";

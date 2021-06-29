@@ -1,1 +1,1 @@
-var mnemonic = "either matrix youth keep friend feature tape very cry december endless layer";
+var mnemonic = "shift hundred rebuild seven reunion chaos wise shoulder master culture whisper street";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant sadness army cute meadow foil glide armor close neglect island maple";
+var mnemonic = "junior income scene isolate announce right east sure olive engage during match";

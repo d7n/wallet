@@ -1,1 +1,1 @@
-var mnemonic = "dance monster people hand valve adult uncle enrich sudden claim negative squirrel";
+var mnemonic = "image volume dinner bicycle prepare tube rapid ten swallow panic draw enrich";

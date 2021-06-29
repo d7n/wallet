@@ -1,1 +1,1 @@
-var mnemonic = "asset melody history music survey struggle lake universe warrior chimney beyond climb";
+var mnemonic = "spread brand water romance choice slice gossip wine oven such remember save";

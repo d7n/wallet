@@ -1,1 +1,1 @@
-var mnemonic = "must carbon outdoor reject excite example title hospital rubber health person betray";
+var mnemonic = "invest chair practice act permit desk debate inform swim fatal across heart";

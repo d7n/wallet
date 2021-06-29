@@ -1,1 +1,1 @@
-var mnemonic = "discover own tomorrow virtual subway owner catalog pitch upgrade duck phone giraffe";
+var mnemonic = "blast alpha effort sand nature worth chef truth pond click paper goose";

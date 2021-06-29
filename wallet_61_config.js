@@ -1,1 +1,1 @@
-var mnemonic = "clock lava gate report wear benefit stand survey barely emerge mammal unhappy";
+var mnemonic = "law soul forum exhibit upper tunnel loop pony donate jaguar repeat sister";

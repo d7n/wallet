@@ -1,1 +1,1 @@
-var mnemonic = "daring farm horror media pill bright motion oak swallow alley sorry indoor";
+var mnemonic = "nephew razor funny capital electric worry roof million depart shuffle child improve";

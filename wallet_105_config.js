@@ -1,1 +1,1 @@
-var mnemonic = "grid citizen verify treat cousin neutral like potato small echo shock pioneer";
+var mnemonic = "plate stick turkey oven collect bomb patrol coast office twenty useless height";

@@ -1,1 +1,1 @@
-var mnemonic = "proud artwork struggle rotate biology cliff large liberty pulp script unknown price";
+var mnemonic = "thrive jaguar online siren waste ethics ladder frog sheriff denial any curve";

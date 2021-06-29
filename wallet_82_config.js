@@ -1,1 +1,1 @@
-var mnemonic = "beyond crucial cross main pact item famous snake hidden divide hurt demand";
+var mnemonic = "rubber scale observe alert crumble swamp stereo amazing maple delay garment blush";

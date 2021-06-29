@@ -1,1 +1,1 @@
-var mnemonic = "sponsor depart jealous already blue focus inside mind vehicle voice daughter smooth";
+var mnemonic = "chief electric diamond nominee square pulp gasp ill pyramid farm fatal embark";

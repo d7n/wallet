@@ -1,1 +1,1 @@
-var mnemonic = "toe need reopen sad unaware soda true barrel silver nominee win husband";
+var mnemonic = "diesel grass age before caution pact phrase exclude mean slim label polar";

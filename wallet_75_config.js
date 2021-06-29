@@ -1,1 +1,1 @@
-var mnemonic = "debris spy cliff bunker year inside health immense zebra gadget liberty valve";
+var mnemonic = "account dry panel sport library write obscure photo voice mirror expand animal";

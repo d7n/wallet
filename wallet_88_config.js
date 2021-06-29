@@ -1,1 +1,1 @@
-var mnemonic = "half affair argue face sibling usual fly fragile benefit bicycle apology you";
+var mnemonic = "february banana kind rare hidden vehicle patrol feed sure virtual marine stay";

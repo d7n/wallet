@@ -1,1 +1,1 @@
-var mnemonic = "fancy van eternal green kick bunker normal long frown patient good tool";
+var mnemonic = "rude planet coil dress wealth aim column nation delay joke fan parade";

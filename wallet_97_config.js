@@ -1,1 +1,1 @@
-var mnemonic = "use silk lend verb original sweet orange gorilla palace better boil sugar";
+var mnemonic = "scout shove verify road know engage apart void huge dwarf cash loan";

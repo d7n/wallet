@@ -1,1 +1,1 @@
-var mnemonic = "barrel deer poet fault planet cycle lounge kite winner fade joy borrow";
+var mnemonic = "chaos warrior fever goose vapor blind crew anxiety jealous tragic enter start";

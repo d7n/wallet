@@ -1,1 +1,1 @@
-var mnemonic = "sustain dad rely afraid era what enforce short stock cloud room hint";
+var mnemonic = "gravity lecture need common design buddy major rely dune cabin rare absent";

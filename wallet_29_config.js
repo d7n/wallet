@@ -1,1 +1,1 @@
-var mnemonic = "blue path shoulder rich similar cradle position point inject female gravity polar";
+var mnemonic = "news protect nothing slam castle injury ancient weird mesh wide style noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "scout resist puzzle charge wide steak alarm entire reflect chapter color major";
+var mnemonic = "fold crowd tribe fish jazz oyster novel giraffe detect paddle rabbit mountain";

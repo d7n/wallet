@@ -1,1 +1,1 @@
-var mnemonic = "cube drink best symbol gadget labor unlock talent flat trumpet spare salmon";
+var mnemonic = "theory satisfy inside same satisfy draw tonight truck bottom option attend skull";

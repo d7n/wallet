@@ -1,1 +1,1 @@
-var mnemonic = "stable skill trip uncover powder secret zone inhale combine clock learn type";
+var mnemonic = "conduct relief hamster recipe loud vacuum harbor adapt shield shy define ugly";

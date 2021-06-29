@@ -1,1 +1,1 @@
-var mnemonic = "treat galaxy rocket convince proof case focus frost pause cushion smooth eager";
+var mnemonic = "erode fun dismiss once attract riot clip lion embody lake danger giant";

@@ -1,1 +1,1 @@
-var mnemonic = "urban shy never churn special lawsuit fade purse mind add still distance";
+var mnemonic = "august share deliver concert erase drop grief pelican elite across error road";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol trigger announce accident mind normal cake melody maze orange moon galaxy";
+var mnemonic = "urban consider news toward satoshi salt monkey inner track else business exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "planet poem harsh kitten example corn boy wrestle tackle ankle artefact hover";
+var mnemonic = "toy there unit mammal ocean front evidence dwarf raise magnet surprise bread";

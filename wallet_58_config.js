@@ -1,1 +1,1 @@
-var mnemonic = "tobacco sketch actual sort palm bus differ bamboo mule doctor simple clinic";
+var mnemonic = "write toast coach put dynamic unknown mountain again approve leisure area calm";

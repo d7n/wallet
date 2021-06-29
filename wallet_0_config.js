@@ -1,1 +1,1 @@
-var mnemonic = "shoot polar invite ticket tiger upgrade discover chimney into review purity bubble";
+var mnemonic = "quantum sort ignore estate choice culture sure draft unable walk weapon rail";

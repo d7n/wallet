@@ -1,1 +1,1 @@
-var mnemonic = "just rate double key shield army soft beef fortune ceiling wealth candy";
+var mnemonic = "unable into crunch write gate wait athlete neglect near skull grain horn";

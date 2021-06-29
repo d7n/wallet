@@ -1,1 +1,1 @@
-var mnemonic = "round elder smooth loyal awful pear charge sphere include peasant icon add";
+var mnemonic = "bridge domain lab session subject ice flee cry broccoli diamond tennis inquiry";

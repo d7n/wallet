@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow cube cat salon throw trigger fringe unlock glance position pistol faculty";
+var mnemonic = "soul novel lobster supply same destroy behind absorb sponsor brother hand puppy";

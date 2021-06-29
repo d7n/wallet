@@ -1,1 +1,1 @@
-var mnemonic = "bridge keen lens squirrel foot allow taste double spider hard private omit";
+var mnemonic = "decade ocean future radar yellow hope price rare country trick ritual model";

@@ -1,1 +1,1 @@
-var mnemonic = "wait album surround student win depend phrase adult other only home mushroom";
+var mnemonic = "protect wait caution mountain kiwi original vague spare library music satisfy describe";

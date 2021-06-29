@@ -1,1 +1,1 @@
-var mnemonic = "tent earn animal faint that explain erode sketch jaguar spatial already smooth";
+var mnemonic = "autumn fluid front like dismiss visit blood unknown oak figure increase radar";

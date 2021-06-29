@@ -1,1 +1,1 @@
-var mnemonic = "wine music rebel merry divide conduct rail dad body glue bone dawn";
+var mnemonic = "say convince plug salmon leaf play appear walnut cycle ladder heart huge";

@@ -1,1 +1,1 @@
-var mnemonic = "depth typical tip hobby baby vacuum garbage way inflict tuna insane leaf";
+var mnemonic = "patient matrix battle drift obscure term sample intact bundle place anger burden";

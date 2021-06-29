@@ -1,1 +1,1 @@
-var mnemonic = "era ripple flip giant pen ketchup enforce ship episode maid popular obey";
+var mnemonic = "rebuild involve robot cannon laugh wife abuse achieve unfair middle ensure salmon";

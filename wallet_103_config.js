@@ -1,1 +1,1 @@
-var mnemonic = "pipe hover baby twist setup toddler box indicate brand bring fun already";
+var mnemonic = "dizzy alert hole cattle theme humble salmon gravity access side puppy asset";

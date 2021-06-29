@@ -1,1 +1,1 @@
-var mnemonic = "emerge wood collect face penalty unfair turkey fall answer brass obvious wrist";
+var mnemonic = "perfect bless elephant flee panic crime run goddess insane shoe saddle limit";

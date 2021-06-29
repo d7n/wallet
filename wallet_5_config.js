@@ -1,1 +1,1 @@
-var mnemonic = "trouble crowd unique forward version brown pizza menu because palace decade always";
+var mnemonic = "jar soup announce sponsor better strike evoke lumber observe trend bind soccer";

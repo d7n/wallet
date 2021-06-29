@@ -1,1 +1,1 @@
-var mnemonic = "please lobster ugly month song disease scare adult chest cable craft wet";
+var mnemonic = "tide neck orbit finger wild spirit legend decide wish borrow evil appear";

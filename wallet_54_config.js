@@ -1,1 +1,1 @@
-var mnemonic = "expose sting rally hint prosper host paddle army ostrich gown fat omit";
+var mnemonic = "issue index video convince resemble aware valid fringe gallery common zoo armor";

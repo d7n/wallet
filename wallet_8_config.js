@@ -1,1 +1,1 @@
-var mnemonic = "control ride diesel pyramid meat arrow viable rude zero bag tonight witness";
+var mnemonic = "milk check laptop program three swift brisk crane chunk bulk farm cat";

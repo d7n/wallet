@@ -1,1 +1,1 @@
-var mnemonic = "pluck hamster soft bleak music blossom must organ first first unique alpha";
+var mnemonic = "gas list tool alien census good civil oak wool rural pelican banana";

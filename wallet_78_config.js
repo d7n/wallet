@@ -1,1 +1,1 @@
-var mnemonic = "ethics dune evoke bring negative ahead because valley area abuse accident ridge";
+var mnemonic = "pave burden key balcony buddy level regret view ginger lumber pave skin";

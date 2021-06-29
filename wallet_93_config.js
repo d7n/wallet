@@ -1,1 +1,1 @@
-var mnemonic = "hold stable oblige noodle release kitten exhibit royal portion moral maze belt";
+var mnemonic = "apology recipe panther antenna flag metal flock midnight axis this deer whip";

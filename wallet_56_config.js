@@ -1,1 +1,1 @@
-var mnemonic = "elephant brave alarm address require meadow century tent update gentle total enjoy";
+var mnemonic = "shine gold work govern pretty drink fold creek mango shoulder search fan";

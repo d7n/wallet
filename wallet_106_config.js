@@ -1,1 +1,1 @@
-var mnemonic = "artist cross pencil village pill nest gown license rich hero prepare spatial";
+var mnemonic = "version want weird sudden melody cram board record math negative dutch bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "spend master furnace better render stove square claw protect sun erode immune";
+var mnemonic = "elder catch quantum puzzle leopard suffer exchange float jacket public tissue deer";

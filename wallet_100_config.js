@@ -1,1 +1,1 @@
-var mnemonic = "film purse ignore dream leader pear another swear exhaust supply mystery parade";
+var mnemonic = "reunion upper width will spice prison pistol section summer problem inquiry horror";

@@ -1,1 +1,1 @@
-var mnemonic = "away educate bamboo mention subway dog author film tape beef remember inside";
+var mnemonic = "design bronze exotic aunt shop pulp noise now kind marble puppy ghost";

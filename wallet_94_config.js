@@ -1,1 +1,1 @@
-var mnemonic = "december chimney desert evolve erode glide foot web load stand initial satisfy";
+var mnemonic = "ostrich fuel illness rule idle spray mail fluid upper grass provide join";

@@ -1,1 +1,1 @@
-var mnemonic = "radio fancy pledge opera fringe gap process minimum wonder shed flee oxygen";
+var mnemonic = "surface sponsor where ball stick make opinion regret hunt check still usual";

@@ -1,1 +1,1 @@
-var mnemonic = "celery lunch symbol negative virus gallery violin cloth fiscal hidden divide youth";
+var mnemonic = "embrace disease diet staff estate display other visit salad movie fan differ";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget lake juice atom envelope siege jacket ridge again pledge firm glimpse";
+var mnemonic = "armed tackle bright hold fringe illegal width teach speed bomb soap open";

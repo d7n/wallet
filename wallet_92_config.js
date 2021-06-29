@@ -1,1 +1,1 @@
-var mnemonic = "black author floor change dove add learn photo rapid swarm seat diary";
+var mnemonic = "account noodle impose ritual casino guilt guide special sure quote shoulder loyal";

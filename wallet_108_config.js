@@ -1,1 +1,1 @@
-var mnemonic = "stock oxygen romance brave erase weather pole correct banner betray manual remove";
+var mnemonic = "scatter bicycle vast awful cabbage safe clap problem rapid chunk concert proud";

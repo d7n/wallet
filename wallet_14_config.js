@@ -1,1 +1,1 @@
-var mnemonic = "solid supreme then check obvious school arrow transfer unveil wagon level endorse";
+var mnemonic = "ostrich come whisper today more nuclear brush borrow grain ecology alert proud";

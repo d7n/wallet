@@ -1,1 +1,1 @@
-var mnemonic = "tuition pair sister cost smart expand flavor sort stamp effort artwork print";
+var mnemonic = "glare maximum march hood perfect squeeze wear response main chronic believe toss";

@@ -1,1 +1,1 @@
-var mnemonic = "drop timber nominee plate scrub cotton festival vanish empower token weather decrease";
+var mnemonic = "main believe claim chaos echo season bitter foster angle ankle lake define";

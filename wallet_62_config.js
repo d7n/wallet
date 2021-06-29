@@ -1,1 +1,1 @@
-var mnemonic = "erode wild regret any swarm neck lawsuit addict nominee salon satoshi doll";
+var mnemonic = "toy pitch step lava veteran present nut wide silly oppose spider cousin";

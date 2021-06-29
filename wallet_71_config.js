@@ -1,1 +1,1 @@
-var mnemonic = "dial wing gun loud tenant island air settle rather kitchen latin issue";
+var mnemonic = "buffalo visit start organ clock pole build bicycle sentence bird train crew";
