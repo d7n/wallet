@@ -1,1 +1,1 @@
-var mnemonic = "figure pulse estate remind myself first connect note portion jealous day market";
+var mnemonic = "size dignity mercy tuition fish exhaust behave pigeon author crawl width plastic";

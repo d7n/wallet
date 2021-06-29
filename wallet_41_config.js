@@ -1,1 +1,1 @@
-var mnemonic = "answer upon approve screen winner aware sleep panel impose roast embody cliff";
+var mnemonic = "asthma voice bar edge walnut inhale athlete forest tower chat dumb oyster";

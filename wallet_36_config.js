@@ -1,1 +1,1 @@
-var mnemonic = "turkey situate cart huge alter salon raw vacuum today velvet divide manual";
+var mnemonic = "unveil spring fame output vapor great spike pair rain perfect vehicle perfect";

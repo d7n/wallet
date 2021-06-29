@@ -1,1 +1,1 @@
-var mnemonic = "reason call you bachelor unit can evoke derive horn margin damp cage";
+var mnemonic = "useless change canoe catalog moon speak impact grace topic dumb glory autumn";

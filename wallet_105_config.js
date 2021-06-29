@@ -1,1 +1,1 @@
-var mnemonic = "radio ocean topple melody video captain giant pilot paddle garden shift imitate";
+var mnemonic = "adult second donate leader arm front unfold purse try twenty chaos duck";

@@ -1,1 +1,1 @@
-var mnemonic = "this spice slab ten open pepper rebel media ask diet short cave";
+var mnemonic = "humor nurse over inmate thank bargain share setup focus gown shaft half";

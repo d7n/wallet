@@ -1,1 +1,1 @@
-var mnemonic = "above detail aim trim impact fortune elbow doctor steak cover human better";
+var mnemonic = "wrestle fly inherit before kitchen horn venture wagon clip aware sort kidney";

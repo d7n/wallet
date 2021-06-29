@@ -1,1 +1,1 @@
-var mnemonic = "potato saddle armor art record kingdom luggage tragic bamboo sister marine mountain";
+var mnemonic = "pause mad loan civil citizen click answer tank carbon brain bamboo worry";

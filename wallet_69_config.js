@@ -1,1 +1,1 @@
-var mnemonic = "legend gauge actual coast orphan guilt target typical machine sudden recipe wealth";
+var mnemonic = "broom truly tell under educate visa gas nerve confirm good list genius";

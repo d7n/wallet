@@ -1,1 +1,1 @@
-var mnemonic = "maid already asset attitude tell exchange result circle behave promote slice correct";
+var mnemonic = "throw weird tiger cousin clown angle satisfy rich deliver cause secret found";

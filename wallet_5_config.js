@@ -1,1 +1,1 @@
-var mnemonic = "rice civil gather toward benefit march become grain soft culture river open";
+var mnemonic = "slow jazz cat behave board gallery glide empty coast walk valve absorb";

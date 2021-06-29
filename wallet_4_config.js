@@ -1,1 +1,1 @@
-var mnemonic = "guess elephant roof sing broccoli verify bone unfair weekend burger slam hungry";
+var mnemonic = "siege about way kit gaze wire surface blind consider they odor round";

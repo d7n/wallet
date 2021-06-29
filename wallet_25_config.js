@@ -1,1 +1,1 @@
-var mnemonic = "notable stool polar romance napkin slush coast about truck ski floor diary";
+var mnemonic = "divorce exhibit hint disease vendor side culture baby curve strike electric mechanic";

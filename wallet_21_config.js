@@ -1,1 +1,1 @@
-var mnemonic = "carpet crush fault umbrella midnight prevent keep dinner another blade grief payment";
+var mnemonic = "orbit gospel absent shaft hello uncle extra element prepare direct ripple shock";

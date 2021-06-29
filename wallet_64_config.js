@@ -1,1 +1,1 @@
-var mnemonic = "galaxy buzz develop finish tuition horror wire barely angle during devote liar";
+var mnemonic = "wire few want truly capital adapt drive aspect identify fragile scene have";

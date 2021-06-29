@@ -1,1 +1,1 @@
-var mnemonic = "asthma best theory filter shoot loyal spell require start aisle decline calm";
+var mnemonic = "primary wisdom album select february alcohol today must average wing engage eternal";

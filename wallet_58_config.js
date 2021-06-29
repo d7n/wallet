@@ -1,1 +1,1 @@
-var mnemonic = "mobile jazz image window coil coach swim annual hungry disease olympic situate";
+var mnemonic = "earn junior furnace cause liquid pledge pelican require guide sign finish social";

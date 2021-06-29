@@ -1,1 +1,1 @@
-var mnemonic = "spell glare upon wash shield upon index option filter coyote eager high";
+var mnemonic = "garden giant destroy violin suffer clutch proof sail enrich girl beach hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "other giggle strong scan truly size attract inflict phone brief tackle record";
+var mnemonic = "ability pumpkin antenna shoulder addict they supply broom elevator snake naive father";

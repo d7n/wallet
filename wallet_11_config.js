@@ -1,1 +1,1 @@
-var mnemonic = "army arm bulk rhythm property used blast floor drink odor hard balcony";
+var mnemonic = "crew eagle latin unable despair alley where silly setup dynamic fold perfect";

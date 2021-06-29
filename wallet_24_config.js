@@ -1,1 +1,1 @@
-var mnemonic = "below later rabbit portion purchase guess original two tube gate crush push";
+var mnemonic = "core night almost quarter light lens illegal void autumn peace curtain legend";

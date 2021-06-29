@@ -1,1 +1,1 @@
-var mnemonic = "large pole great panel fall unveil height swear museum elder ensure sadness";
+var mnemonic = "crisp media open reason rib path unfair chalk casino poem blast clump";

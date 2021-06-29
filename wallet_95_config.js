@@ -1,1 +1,1 @@
-var mnemonic = "autumn occur always dad snow miss kitten mimic purse summer design attitude";
+var mnemonic = "strong nasty duck pen visual copper myself sorry glow frown hope north";

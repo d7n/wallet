@@ -1,1 +1,1 @@
-var mnemonic = "light despair hammer inmate utility dog news double fatal hover visual true";
+var mnemonic = "future voice silly brief remove company retire alley forward pizza dish valid";

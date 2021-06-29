@@ -1,1 +1,1 @@
-var mnemonic = "inform second slot galaxy share smart rifle morning wasp message cross update";
+var mnemonic = "insane undo again rug afraid atom sort enlist example loan fall clog";

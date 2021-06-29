@@ -1,1 +1,1 @@
-var mnemonic = "hungry rather anchor tired detect viable expire virtual attitude very wood attack";
+var mnemonic = "sail harsh wagon cycle random replace sausage credit north finger gather toddler";

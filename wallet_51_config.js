@@ -1,1 +1,1 @@
-var mnemonic = "steel ahead yellow kit digital lady rug sample crack spice word junior";
+var mnemonic = "perfect naive glass draw once favorite afford breeze harvest furnace awful place";

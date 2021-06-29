@@ -1,1 +1,1 @@
-var mnemonic = "connect divorce nothing asset couch license actual kick pattern caution long tongue";
+var mnemonic = "spread canoe deer loan achieve organ agree script you mystery define photo";

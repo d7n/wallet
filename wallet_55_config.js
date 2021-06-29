@@ -1,1 +1,1 @@
-var mnemonic = "captain clay grunt people judge neck unit mad nominee dry elbow bright";
+var mnemonic = "onion biology ecology lucky open secret prison bind weasel hover salmon want";

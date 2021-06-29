@@ -1,1 +1,1 @@
-var mnemonic = "idle visa praise attitude consider humble boil dirt vote resource genuine slab";
+var mnemonic = "seven win crew move tissue smooth conduct give raw diesel bring flash";

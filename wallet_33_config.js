@@ -1,1 +1,1 @@
-var mnemonic = "perfect crew help fashion eager large jar frost exist illness wire ethics";
+var mnemonic = "junk century arctic denial permit because drip repair trophy digital over alone";

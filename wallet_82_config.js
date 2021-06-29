@@ -1,1 +1,1 @@
-var mnemonic = "palm stuff dad brain summer tuna key jewel extra crystal wire permit";
+var mnemonic = "trap flavor fruit illness lemon runway clutch bleak axis unusual patient envelope";

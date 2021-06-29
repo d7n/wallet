@@ -1,1 +1,1 @@
-var mnemonic = "reopen captain wood injury soldier aunt foil shoulder keep ghost relax group";
+var mnemonic = "friend badge kite film alter evolve suffer enable angle sword notable noise";

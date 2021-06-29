@@ -1,1 +1,1 @@
-var mnemonic = "distance equip auction reunion unlock spring broccoli woman spend oppose music leg";
+var mnemonic = "depart middle unaware hip layer forum armed aim soft idea expand mouse";

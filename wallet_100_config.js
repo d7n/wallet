@@ -1,1 +1,1 @@
-var mnemonic = "fringe main short advice water egg syrup hidden rabbit general seven slide";
+var mnemonic = "able identify radar spawn daring phrase control someone local program forget bring";

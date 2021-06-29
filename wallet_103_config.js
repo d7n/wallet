@@ -1,1 +1,1 @@
-var mnemonic = "gallery minute digital timber pond accuse glow open process fox acoustic agent";
+var mnemonic = "equal engine observe clarify obscure deliver raise wet comic else bargain topple";

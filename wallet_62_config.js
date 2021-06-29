@@ -1,1 +1,1 @@
-var mnemonic = "ugly rubber lens advance era exclude general impulse hole mimic venue jelly";
+var mnemonic = "client absorb wish field squeeze husband phone nest blossom boy enforce payment";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll item police unfold combine mail eight smooth write fever nasty fetch";
+var mnemonic = "firm lake police physical steel plastic december field clever glance elephant lounge";

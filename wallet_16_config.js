@@ -1,1 +1,1 @@
-var mnemonic = "subway hero bring install ask lamp pioneer wage heart solve media slogan";
+var mnemonic = "bless elegant hockey jeans square sight jazz major capital anxiety volcano need";

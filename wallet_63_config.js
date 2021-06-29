@@ -1,1 +1,1 @@
-var mnemonic = "blue ahead armed nasty fun depart mind clump practice wink sister deputy";
+var mnemonic = "service crew blood attitude security ketchup bring attitude feed then party dynamic";

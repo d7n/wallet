@@ -1,1 +1,1 @@
-var mnemonic = "rate vicious camp wall subject dolphin civil use nest casual sentence lady";
+var mnemonic = "blade harvest woman deposit spy owner unhappy major curve forest silent ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "genius middle actor remember brown extra horn target system kind unlock barely";
+var mnemonic = "art host permit drastic off bleak switch outside hidden fall toddler south";

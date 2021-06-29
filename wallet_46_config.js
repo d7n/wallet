@@ -1,1 +1,1 @@
-var mnemonic = "ranch oxygen scale own innocent setup chunk ridge liberty isolate hero monitor";
+var mnemonic = "balance seminar private order venture flock margin zone sponsor boat depend sound";

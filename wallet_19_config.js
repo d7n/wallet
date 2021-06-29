@@ -1,1 +1,1 @@
-var mnemonic = "before suggest wall return strike hand enemy jeans grit delay language grain";
+var mnemonic = "ordinary quick entry nose mandate wife album shy brisk corn thought embark";

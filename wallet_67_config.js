@@ -1,1 +1,1 @@
-var mnemonic = "era useful ketchup crew strike rally flat around artwork episode clinic know";
+var mnemonic = "gold poet humble lion evil leaf twice detect mansion job noble floor";

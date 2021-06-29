@@ -1,1 +1,1 @@
-var mnemonic = "upper original spin mass benefit plunge fresh ocean phone gown laptop dynamic";
+var mnemonic = "lawsuit seminar leader sibling tobacco glory claim artist keen memory defense wave";

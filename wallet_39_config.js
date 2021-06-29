@@ -1,1 +1,1 @@
-var mnemonic = "seat bleak crash cable squeeze fancy stairs ecology verb feature gas dutch";
+var mnemonic = "olive display bonus bullet portion piece acoustic help hole loud sing auto";

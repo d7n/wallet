@@ -1,1 +1,1 @@
-var mnemonic = "stand east banana cargo beef under metal naive file gorilla canoe twice";
+var mnemonic = "equal mechanic extra sketch soft country doll imitate soul clever coffee nerve";

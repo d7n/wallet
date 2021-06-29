@@ -1,1 +1,1 @@
-var mnemonic = "input scene flower lazy foil music ritual category fiber rifle mystery debris";
+var mnemonic = "wheat surprise grace blanket cash ripple charge people diary boring pact reopen";

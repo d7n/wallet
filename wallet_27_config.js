@@ -1,1 +1,1 @@
-var mnemonic = "cruel congress slam castle cargo mango clay clock flip episode iron pool";
+var mnemonic = "defense hope hotel banana amused sister measure pond dress badge tornado surface";

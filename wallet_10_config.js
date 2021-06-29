@@ -1,1 +1,1 @@
-var mnemonic = "collect cook lawsuit same barely unable comic please umbrella kid fortune stairs";
+var mnemonic = "decorate afraid cousin toe extra school such able breeze trap prison place";

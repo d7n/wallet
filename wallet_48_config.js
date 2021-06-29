@@ -1,1 +1,1 @@
-var mnemonic = "mirror wet extend exchange crumble this garden random token spot gown beyond";
+var mnemonic = "ankle position ripple mobile lawn response cigar giant inch addict crystal cancel";

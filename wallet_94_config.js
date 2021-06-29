@@ -1,1 +1,1 @@
-var mnemonic = "delay gravity mandate imitate napkin emotion midnight picnic borrow uphold traffic ginger";
+var mnemonic = "bullet number soda trade rate grid weapon fiscal lizard link play beach";

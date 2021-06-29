@@ -1,1 +1,1 @@
-var mnemonic = "image kitchen into fade bone quote upset twenty brick habit also love";
+var mnemonic = "tower path wood regular dream similar army echo olympic fiscal galaxy express";

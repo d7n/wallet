@@ -1,1 +1,1 @@
-var mnemonic = "describe control because maple torch express arrest hope glow record exhaust orbit";
+var mnemonic = "bacon logic gun genre rival host else ordinary team arctic loyal inject";

@@ -1,1 +1,1 @@
-var mnemonic = "olive shine fall capital idea eye ill update other high motion wolf";
+var mnemonic = "puppy ceiling lock addict judge correct such entire derive oppose fruit video";

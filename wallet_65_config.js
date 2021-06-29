@@ -1,1 +1,1 @@
-var mnemonic = "huge equal biology work stumble sea brave large treat two vanish recycle";
+var mnemonic = "notice claim angry inject sponsor love flock resist taxi drum aunt enact";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors sail broccoli there initial chef remove soon because mad pulse indoor";
+var mnemonic = "dress fatigue scan orange awake cheap mobile profit sun verify boat upon";

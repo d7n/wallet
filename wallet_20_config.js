@@ -1,1 +1,1 @@
-var mnemonic = "often bird reunion chimney mistake damage black fault suspect exchange garage tobacco";
+var mnemonic = "sign jar excite bamboo infant humble record mouse float tip height ribbon";

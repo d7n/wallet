@@ -1,1 +1,1 @@
-var mnemonic = "copy brisk carbon bundle six crime foam genuine task usage trip hurry";
+var mnemonic = "know gospel law expand punch initial cabin license cool turkey salt kiwi";

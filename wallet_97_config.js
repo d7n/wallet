@@ -1,1 +1,1 @@
-var mnemonic = "target convince frost gift wrap boring mimic spike private hire traffic cloth";
+var mnemonic = "mosquito pilot liar poet team raccoon mushroom awkward thunder little latin spin";

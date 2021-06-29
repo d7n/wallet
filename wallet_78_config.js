@@ -1,1 +1,1 @@
-var mnemonic = "hip little receive forest nasty laptop husband guilt bulb potato electric rookie";
+var mnemonic = "innocent crunch summer seek picture success entry club night seed toe again";

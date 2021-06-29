@@ -1,1 +1,1 @@
-var mnemonic = "end embody salon gift blame exercise limb trim total puzzle sea olympic";
+var mnemonic = "canal turkey guide shy worth merry arena charge antique skate effort wise";

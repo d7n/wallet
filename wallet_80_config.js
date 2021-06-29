@@ -1,1 +1,1 @@
-var mnemonic = "rose control announce planet chronic metal guilt such hello journey absurd text";
+var mnemonic = "marine action embody abstract educate announce delay record change often top laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "essay gate sun toy leaf buffalo fragile rude tenant tip arctic genre";
+var mnemonic = "truly spread early victory scatter unfair fortune buyer myself turtle quantum orange";

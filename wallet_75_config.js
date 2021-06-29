@@ -1,1 +1,1 @@
-var mnemonic = "scatter bomb diesel eyebrow pond today erupt chunk episode figure rent usual";
+var mnemonic = "spoil area caution cup topic citizen master morning modify cool army broken";

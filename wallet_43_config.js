@@ -1,1 +1,1 @@
-var mnemonic = "worth abstract chest report carpet social night useless panel chair burden future";
+var mnemonic = "tobacco bone trial retire icon kite rotate imitate sister vault artist tag";

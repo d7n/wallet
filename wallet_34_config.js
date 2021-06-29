@@ -1,1 +1,1 @@
-var mnemonic = "crash transfer night tragic awake palm venue grunt find happy mosquito spirit";
+var mnemonic = "wild sense segment force coyote sphere same excess damage evoke baby dad";

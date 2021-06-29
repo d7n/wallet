@@ -1,1 +1,1 @@
-var mnemonic = "odor drastic subway manual oil nerve warm sausage fault large radar original";
+var mnemonic = "rule disorder endorse large drastic hidden number ethics chunk veteran rabbit switch";

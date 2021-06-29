@@ -1,1 +1,1 @@
-var mnemonic = "man brother delay nose west zero buyer theme detail reopen magic arrest";
+var mnemonic = "brother much animal sentence supply educate bunker upgrade jungle second flag health";

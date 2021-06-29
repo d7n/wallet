@@ -1,1 +1,1 @@
-var mnemonic = "spirit silk sense detail conduct recycle angry life deer provide stomach pencil";
+var mnemonic = "wonder correct kick monkey output much avoid book frog until december frozen";

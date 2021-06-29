@@ -1,1 +1,1 @@
-var mnemonic = "stable photo code pumpkin else fault woman senior struggle angry luggage oven";
+var mnemonic = "arch empty topic boring dream kidney clown twenty soup dragon rubber armed";

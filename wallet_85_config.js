@@ -1,1 +1,1 @@
-var mnemonic = "helmet brisk angry reunion garment chase little column ready phrase pigeon jeans";
+var mnemonic = "omit mouse garment blast dilemma screen scan school dilemma state path enemy";

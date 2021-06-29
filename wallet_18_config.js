@@ -1,1 +1,1 @@
-var mnemonic = "powder federal wise tank cloth soda unknown rose combine modify honey tourist";
+var mnemonic = "traffic giggle iron voyage size mad giant couple tag elite slam broccoli";

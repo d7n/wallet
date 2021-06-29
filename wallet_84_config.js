@@ -1,1 +1,1 @@
-var mnemonic = "more already digital very isolate endless argue soap midnight busy refuse stuff";
+var mnemonic = "twin holiday elephant lobster west ignore range month author timber october engage";

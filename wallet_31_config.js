@@ -1,1 +1,1 @@
-var mnemonic = "repeat unknown right bike muffin quick chair often quality evolve discover camp";
+var mnemonic = "spoil merry mountain have finish crumble hover science jungle maid grace nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin spatial reject stand crazy swamp universe acoustic install below core oil";
+var mnemonic = "rent logic similar glow guard annual safe mix sadness avocado scout stuff";

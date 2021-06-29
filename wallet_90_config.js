@@ -1,1 +1,1 @@
-var mnemonic = "armed life unhappy index wife bike hope enough lock remember leg lounge";
+var mnemonic = "tail path fold buyer boost toddler daughter aim input claim moral robot";

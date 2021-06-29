@@ -1,1 +1,1 @@
-var mnemonic = "merit actual obtain gather direct moral order royal spring differ margin that";
+var mnemonic = "suffer demand volcano prefer shell hawk rather utility neglect member merge convince";

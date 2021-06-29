@@ -1,1 +1,1 @@
-var mnemonic = "art lift source casino amused cinnamon private famous brick ribbon leopard faculty";
+var mnemonic = "area basket shop churn suffer tumble unfair seek degree pride clinic rural";

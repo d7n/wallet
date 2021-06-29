@@ -1,1 +1,1 @@
-var mnemonic = "lava quality tortoise learn list flip frame beyond trophy present token atom";
+var mnemonic = "believe all found coffee firm wolf salt edge heavy dad detect camp";

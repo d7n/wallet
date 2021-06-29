@@ -1,1 +1,1 @@
-var mnemonic = "renew have glory setup afraid thrive try talk special demise trick balance";
+var mnemonic = "myth emerge illness double across legend sister ignore mercy rare beef swim";

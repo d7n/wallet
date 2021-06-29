@@ -1,1 +1,1 @@
-var mnemonic = "weekend talk bitter weekend garbage release pool spin way interest palm broom";
+var mnemonic = "race fashion banana cute smoke lock kitchen future frame under labor pioneer";

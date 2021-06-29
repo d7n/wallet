@@ -1,1 +1,1 @@
-var mnemonic = "upon elbow crowd arrange rose lizard clog method leave together soda chunk";
+var mnemonic = "sphere endless cheese pool fire sheriff canoe brain junior broken decrease exchange";

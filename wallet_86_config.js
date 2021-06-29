@@ -1,1 +1,1 @@
-var mnemonic = "suffer useful glass cheese swamp list dance middle pizza step discover club";
+var mnemonic = "club slender canoe infant fatal wealth remove sleep bleak eyebrow leaf roof";

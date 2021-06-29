@@ -1,1 +1,1 @@
-var mnemonic = "tragic enough awful cost nation strike must disease process oval exotic present";
+var mnemonic = "snake film seminar replace man mercy shoe jungle security install own hold";

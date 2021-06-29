@@ -1,1 +1,1 @@
-var mnemonic = "vacuum oil police slogan cycle hedgehog demand toast prison syrup fashion enact";
+var mnemonic = "program brush squirrel goddess stomach pond sick ranch entry supreme outside toilet";
