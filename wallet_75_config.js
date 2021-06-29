@@ -1,1 +1,1 @@
-var mnemonic = "rally curve bunker roast library fan circle fiber jealous sample man reopen";
+var mnemonic = "endorse brand receive engage page burden armed sentence tribe device brand science";

@@ -1,1 +1,1 @@
-var mnemonic = "sell south post merry bind grant sort dove actor cloud maple wagon";
+var mnemonic = "critic setup quarter genius neck image alter lunch average tonight knee cover";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm next buzz retire tornado gadget reunion magic rebuild car manual salt";
+var mnemonic = "above lazy kingdom clever social wet room hope blouse board dad imitate";

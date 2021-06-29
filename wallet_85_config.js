@@ -1,1 +1,1 @@
-var mnemonic = "height genius ivory inner canvas brisk drill physical ship casual evil begin";
+var mnemonic = "cattle morning clown rookie latin speak frequent rural final there render alert";

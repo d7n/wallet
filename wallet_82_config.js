@@ -1,1 +1,1 @@
-var mnemonic = "title angle code gesture uncle room miss isolate demand manage today soft";
+var mnemonic = "chapter plate marriage oven lazy source pioneer lawsuit canal light panther park";

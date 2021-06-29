@@ -1,1 +1,1 @@
-var mnemonic = "okay tomato artist excess behind creek wear fringe payment fatal border cloth";
+var mnemonic = "staff old twenty upgrade scene situate mechanic foot fatal have average tunnel";

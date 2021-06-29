@@ -1,1 +1,1 @@
-var mnemonic = "pupil barely grass grant lesson project creek dress ivory vessel mammal seminar";
+var mnemonic = "mandate film final runway couple alcohol genuine wise uncle rival expire dice";

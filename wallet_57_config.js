@@ -1,1 +1,1 @@
-var mnemonic = "sound grape useful debate jealous half blood priority lion leg false good";
+var mnemonic = "cabbage celery menu then vendor slogan snake nasty cost measure index bulb";

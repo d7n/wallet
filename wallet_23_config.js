@@ -1,1 +1,1 @@
-var mnemonic = "dolphin butter crunch dose owner dance quantum drop hobby post item close";
+var mnemonic = "bomb guitar buyer employ angry book butter aunt chronic insect walk make";

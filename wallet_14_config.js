@@ -1,1 +1,1 @@
-var mnemonic = "cruise diagram reduce tower april secret drill globe escape advice index load";
+var mnemonic = "loop problem suspect load capital price phrase pupil beef deal together machine";

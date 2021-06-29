@@ -1,1 +1,1 @@
-var mnemonic = "useful april subway suggest bubble mosquito ahead security any silly scale impulse";
+var mnemonic = "cube vital canvas divorce report cause gallery mule aware uphold champion twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber wool unit calm winner logic old best when neither captain gallery";
+var mnemonic = "man fury define upper rude romance icon air model trend odor village";

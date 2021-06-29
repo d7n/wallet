@@ -1,1 +1,1 @@
-var mnemonic = "obscure about inject decline before run under inquiry catch shiver cover drive";
+var mnemonic = "exhaust shine expect punch huge never must chalk soda pistol believe false";

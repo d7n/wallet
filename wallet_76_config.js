@@ -1,1 +1,1 @@
-var mnemonic = "stomach town answer attend aspect spider aerobic enroll room job ring enrich";
+var mnemonic = "argue amused street world result ancient conduct genuine virtual trumpet canoe major";

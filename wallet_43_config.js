@@ -1,1 +1,1 @@
-var mnemonic = "glad obtain spray stomach heart civil copper casino column tattoo senior wine";
+var mnemonic = "dirt rally exist ordinary arm casual mercy ladder hotel type ceiling brown";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver belt raccoon slow token come gaze silk arctic situate panda tiger";
+var mnemonic = "find business film egg tiny pioneer latin balance antique negative youth ability";

@@ -1,1 +1,1 @@
-var mnemonic = "science hair insect bamboo happy ribbon donate erupt figure stick during narrow";
+var mnemonic = "write pear proud major real unique feature lady feed demise broken sustain";

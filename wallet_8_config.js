@@ -1,1 +1,1 @@
-var mnemonic = "humor dignity window jaguar thrive north layer blame mass arctic craft dice";
+var mnemonic = "birth juice junior asthma horn silver obvious slush hint moral smoke lumber";

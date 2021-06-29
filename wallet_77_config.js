@@ -1,1 +1,1 @@
-var mnemonic = "job unknown silver surge glue wash brown else trip only delay first";
+var mnemonic = "squeeze icon hard satisfy blouse episode zebra volcano core reveal mango mosquito";

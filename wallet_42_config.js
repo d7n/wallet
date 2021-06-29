@@ -1,1 +1,1 @@
-var mnemonic = "hand lazy task item fatigue assault shiver card rubber cement hat aisle";
+var mnemonic = "coyote shop zone decrease bunker power kingdom salt pottery path catch foam";

@@ -1,1 +1,1 @@
-var mnemonic = "major holiday during music matter tank poverty weather creek better foam upper";
+var mnemonic = "knock scare train pool expose jaguar invest add spawn film anger again";

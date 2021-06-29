@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow text pottery denial fire audit stadium keep network miracle weasel hockey";
+var mnemonic = "adult action grow satoshi mixture infant beyond gun toy convince bright noise";

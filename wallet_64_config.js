@@ -1,1 +1,1 @@
-var mnemonic = "stone laugh window marriage wool cook road iron mistake parrot spawn slab";
+var mnemonic = "sad finger hello garment purity cousin cook please such image history shield";

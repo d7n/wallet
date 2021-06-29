@@ -1,1 +1,1 @@
-var mnemonic = "emerge table lottery video aware search cash jar talent essence puppy option";
+var mnemonic = "pattern humble end angle learn quit cruise book turtle drive maple wild";

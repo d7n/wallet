@@ -1,1 +1,1 @@
-var mnemonic = "scrub matrix veteran fitness corn early youth text promote desert cook angle";
+var mnemonic = "alarm vanish health pool nothing you lobster proud feel spike mutual embody";

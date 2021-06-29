@@ -1,1 +1,1 @@
-var mnemonic = "inject leisure cram manual fine swarm wear become reflect choose mention burden";
+var mnemonic = "fatal margin another pact jewel basic frost gallery spider salad tissue crucial";

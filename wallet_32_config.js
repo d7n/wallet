@@ -1,1 +1,1 @@
-var mnemonic = "fiction simple unusual beyond shed fame obvious cupboard giggle noble reflect sun";
+var mnemonic = "ancient shield agree smoke survey spike mosquito mercy embrace suffer snap intact";

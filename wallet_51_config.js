@@ -1,1 +1,1 @@
-var mnemonic = "wall trial assist appear fringe chef wash citizen chuckle rude expire blame";
+var mnemonic = "elevator old minimum jaguar vehicle wrist danger embrace aim face wrong predict";

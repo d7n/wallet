@@ -1,1 +1,1 @@
-var mnemonic = "forward mercy master foot flush song profit alert million appear sting such";
+var mnemonic = "noble liquid offer champion family great tilt hip awake wire urban else";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk mimic yellow success ribbon obey income dad lady museum crowd upper";
+var mnemonic = "harsh convince chronic private congress marble letter crucial boring foster unfold own";

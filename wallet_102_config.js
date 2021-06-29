@@ -1,1 +1,1 @@
-var mnemonic = "reopen february labor leopard wait combine breeze oyster inch idle lava duck";
+var mnemonic = "young indoor involve sign lunar soup ripple broom minor theme dog faculty";

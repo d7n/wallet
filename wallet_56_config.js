@@ -1,1 +1,1 @@
-var mnemonic = "lyrics brother vivid april magnet bacon upon legend ignore infant food control";
+var mnemonic = "roof kit toy rebuild animal uniform invest practice pact vault panic panda";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin wild aim major jazz fat party minimum rural employ trap plug";
+var mnemonic = "case outside innocent tomorrow current gun drill eight verb list off huge";

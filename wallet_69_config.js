@@ -1,1 +1,1 @@
-var mnemonic = "beauty open much rifle furnace member decade lumber gallery apple gallery upon";
+var mnemonic = "gasp whip trick reason fruit deputy position cheese orange nothing chaos blossom";

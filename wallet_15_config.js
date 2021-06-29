@@ -1,1 +1,1 @@
-var mnemonic = "gun excite aware wagon below announce tiger shield month practice snap sock";
+var mnemonic = "list render smart sweet blue shoulder announce base guard require hold burden";

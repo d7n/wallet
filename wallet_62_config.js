@@ -1,1 +1,1 @@
-var mnemonic = "sugar despair multiply silk advance collect stable enlist volume coyote domain truth";
+var mnemonic = "drive trigger glove trumpet inject hotel crunch ghost bulb kiss intact change";

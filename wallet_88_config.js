@@ -1,1 +1,1 @@
-var mnemonic = "quality use public insane federal illness east drill evidence mesh liar cute";
+var mnemonic = "special hour segment spoil square say rely hurt spice write planet snow";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon green diamond nest measure enter orange next echo cannon law grief";
+var mnemonic = "diagram torch release brush theory settle robust crazy fault disagree coach dream";

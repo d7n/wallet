@@ -1,1 +1,1 @@
-var mnemonic = "garden harsh rough famous spoon tuna fury music bomb black copy ticket";
+var mnemonic = "slush love visa bulb demise grant awesome unfold bunker magnet shoot soap";

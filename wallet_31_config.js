@@ -1,1 +1,1 @@
-var mnemonic = "extra flash peasant arrow accident ugly attract rocket evolve swift animal prepare";
+var mnemonic = "resemble invest hill category pave scare wage gorilla orphan cinnamon wash inherit";

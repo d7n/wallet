@@ -1,1 +1,1 @@
-var mnemonic = "cherry teach steak guess paper else cover police clay mandate joy hockey";
+var mnemonic = "sketch carbon hockey tragic people black orchard puppy busy wife tube destroy";

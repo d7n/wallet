@@ -1,1 +1,1 @@
-var mnemonic = "review final yard stairs opinion canoe south bargain rival control steak illness";
+var mnemonic = "join witness wink shine elder eagle rural pluck anger obey umbrella dizzy";

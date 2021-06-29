@@ -1,1 +1,1 @@
-var mnemonic = "material tattoo spoil task melody anxiety canal open hidden again fence mercy";
+var mnemonic = "blossom donkey put coach siren leisure hint example resist gas witness palace";

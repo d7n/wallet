@@ -1,1 +1,1 @@
-var mnemonic = "slender romance record sketch pilot venture endorse plastic home shoe sick sustain";
+var mnemonic = "project also pair warfare vehicle year valley stick auto bubble gasp chair";

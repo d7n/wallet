@@ -1,1 +1,1 @@
-var mnemonic = "unfair oppose country fashion negative gesture input unfair exchange force snap rough";
+var mnemonic = "lecture dynamic rose repair decade casino must sadness prize magic depth fragile";

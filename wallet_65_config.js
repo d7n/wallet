@@ -1,1 +1,1 @@
-var mnemonic = "deal question mutual health giant leaf easily slim ordinary tomorrow uniform electric";
+var mnemonic = "farm reflect crunch various screen tragic put laptop grab member cute hammer";

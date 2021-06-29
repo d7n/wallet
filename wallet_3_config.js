@@ -1,1 +1,1 @@
-var mnemonic = "scheme science grass situate tree churn sunset snow silent best size budget";
+var mnemonic = "keep canoe produce cross jewel defy auction comic advice language allow add";

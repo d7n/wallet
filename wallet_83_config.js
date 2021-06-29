@@ -1,1 +1,1 @@
-var mnemonic = "robot mean poem vendor spatial shrug bridge tiger subway catch clinic cliff";
+var mnemonic = "alter rebel suit spike lift during bunker modify runway topic jewel legal";

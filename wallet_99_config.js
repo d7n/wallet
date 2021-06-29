@@ -1,1 +1,1 @@
-var mnemonic = "regret hair ship lunar item beach planet print issue crush trophy lock";
+var mnemonic = "beyond come bleak expire then pony claim benefit glue fuel quote property";

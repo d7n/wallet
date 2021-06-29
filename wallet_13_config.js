@@ -1,1 +1,1 @@
-var mnemonic = "pulp tomato runway fun own stick dinosaur benefit use endorse peanut bacon";
+var mnemonic = "giant cool above call fame wheel elite arch youth kiwi strategy hand";

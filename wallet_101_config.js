@@ -1,1 +1,1 @@
-var mnemonic = "picnic pipe scene end cannon rib sense client echo shrug leaf health";
+var mnemonic = "kind march spin congress deny audit taxi flip topic battle attend path";

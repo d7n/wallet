@@ -1,1 +1,1 @@
-var mnemonic = "side aisle luggage budget ankle scan maple possible reform domain blanket bacon";
+var mnemonic = "special fatal rice useful another home force evolve minor lazy isolate erupt";

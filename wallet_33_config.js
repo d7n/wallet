@@ -1,1 +1,1 @@
-var mnemonic = "comfort body torch false around beyond immune trial rabbit misery organ kiwi";
+var mnemonic = "emerge finger mystery dismiss uncover bone upset tiny century transfer urban project";

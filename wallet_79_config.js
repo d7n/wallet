@@ -1,1 +1,1 @@
-var mnemonic = "sugar shiver magic prefer oblige goddess comic riot useless dry axis garage";
+var mnemonic = "van relief sense absorb eager erode harbor deal mechanic mind very student";

@@ -1,1 +1,1 @@
-var mnemonic = "math junk wrap tobacco local fresh because across spike camp category true";
+var mnemonic = "primary deliver deny antique plunge tornado craft index primary fury betray dad";

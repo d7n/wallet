@@ -1,1 +1,1 @@
-var mnemonic = "grid age faint song gate deliver clip vehicle snake issue avoid other";
+var mnemonic = "charge artefact enable snow clip orchard any cave lemon method aspect design";

@@ -1,1 +1,1 @@
-var mnemonic = "provide maze bone giggle cable close sorry swamp clip climb exist immense";
+var mnemonic = "swap track noodle jazz myself million phone disease ski desert deer myself";

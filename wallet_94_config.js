@@ -1,1 +1,1 @@
-var mnemonic = "liberty decline absent dance ticket seek avocado boring excite ivory urban eager";
+var mnemonic = "battle client wash charge minute gossip lend frame flag universe iron wage";

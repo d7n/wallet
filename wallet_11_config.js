@@ -1,1 +1,1 @@
-var mnemonic = "barely train solution blame conduct crunch excite anxiety divorce equip rookie open";
+var mnemonic = "happy scout soda file poverty outside trick noodle success abandon lock anxiety";

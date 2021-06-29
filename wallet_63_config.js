@@ -1,1 +1,1 @@
-var mnemonic = "world only water roast rubber hospital all crazy anchor sunset certain voice";
+var mnemonic = "protect neither sense glide flight clarify cliff struggle reform exhaust disagree cart";

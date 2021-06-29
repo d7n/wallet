@@ -1,1 +1,1 @@
-var mnemonic = "album chimney beef child close voyage hedgehog nominee robust reunion crumble obvious";
+var mnemonic = "mass enrich domain gauge pass used silent floor amateur garment jeans kitchen";

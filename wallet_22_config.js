@@ -1,1 +1,1 @@
-var mnemonic = "sorry deny diagram rabbit audit catch cattle eager weekend code pink pepper";
+var mnemonic = "siren achieve embrace long toy office satoshi fish dignity educate capital december";

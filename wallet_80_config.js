@@ -1,1 +1,1 @@
-var mnemonic = "vast doll match orchard mango rhythm able number object favorite swing maple";
+var mnemonic = "permit start today badge athlete spider window crane alley sleep cereal snack";

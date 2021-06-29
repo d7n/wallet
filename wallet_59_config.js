@@ -1,1 +1,1 @@
-var mnemonic = "tray guess come dismiss you gentle wing weapon destroy walnut recipe option";
+var mnemonic = "simple orphan visit pet cover venue daughter pencil false jacket silk country";

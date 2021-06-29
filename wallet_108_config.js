@@ -1,1 +1,1 @@
-var mnemonic = "rural museum cube arm knock coil easy merge social maximum wage correct";
+var mnemonic = "wedding soon cricket hamster carbon buzz lend easy crumble keen drop donkey";

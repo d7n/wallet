@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon cluster mean bus suggest ecology forward relief blind hollow over biology";
+var mnemonic = "place scrap write casino lumber category return uphold scrap journey secret mixture";

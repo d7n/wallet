@@ -1,1 +1,1 @@
-var mnemonic = "chicken series pyramid shed banner spoon inflict hedgehog steel ill morning opera";
+var mnemonic = "unit leg census among stadium inside ceiling hybrid cruise swim gallery journey";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion load lava achieve service powder coyote drill enforce social swing clock";
+var mnemonic = "fragile speed tower boost world police better twist govern banner summer journey";

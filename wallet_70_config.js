@@ -1,1 +1,1 @@
-var mnemonic = "catch copy west punch fiber bronze undo collect tired funny security chest";
+var mnemonic = "steel poverty fade dwarf stove jelly marine cruel neither resource whip buffalo";

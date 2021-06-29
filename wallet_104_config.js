@@ -1,1 +1,1 @@
-var mnemonic = "mammal hurry pattern void repeat siege arch person marine gap loyal jewel";
+var mnemonic = "unit green possible fork save require cabin stem mistake shift damp coyote";

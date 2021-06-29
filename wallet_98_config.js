@@ -1,1 +1,1 @@
-var mnemonic = "front feed chapter globe phrase order barrel view bridge jeans arch retire";
+var mnemonic = "uniform flame text stone tonight marriage twelve swallow fatal orient spirit struggle";

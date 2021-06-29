@@ -1,1 +1,1 @@
-var mnemonic = "stone mind reward trade summer inner child barrel north caught eager abstract";
+var mnemonic = "blossom charge island habit orange victory spawn melody alert struggle problem board";

@@ -1,1 +1,1 @@
-var mnemonic = "good lottery worth clean valid theory canal tree stove hard shed ticket";
+var mnemonic = "kiss vibrant visual device surge defense digital claw chase express vicious reopen";

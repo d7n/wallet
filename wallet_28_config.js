@@ -1,1 +1,1 @@
-var mnemonic = "chest mean way robot brother across kind crater credit retreat perfect minute";
+var mnemonic = "arctic catalog apple fold fiscal liquid often nerve patrol picture seminar sphere";

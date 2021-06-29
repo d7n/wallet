@@ -1,1 +1,1 @@
-var mnemonic = "remind mixed planet share mix fly banner brief suffer cook case negative";
+var mnemonic = "cover wire session obscure adult cool anxiety dilemma lawn client raise truth";

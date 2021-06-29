@@ -1,1 +1,1 @@
-var mnemonic = "debate nurse practice borrow direct nuclear tent knee morning atom target minimum";
+var mnemonic = "resist volcano world pupil shop budget scrub party claim maze member route";

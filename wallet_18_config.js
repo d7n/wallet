@@ -1,1 +1,1 @@
-var mnemonic = "pizza heavy cannon rebuild address force east toe double quote chaos rib";
+var mnemonic = "jaguar museum planet clinic nose dress trigger mom start abandon silly crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "habit giggle unhappy million quick tornado question blush strike below bundle actress";
+var mnemonic = "upset jeans walk flame resemble lottery champion feed layer medal recycle alcohol";

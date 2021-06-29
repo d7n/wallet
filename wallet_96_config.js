@@ -1,1 +1,1 @@
-var mnemonic = "extra holiday arrange popular run pepper because garage index spare goat just";
+var mnemonic = "own away feature regular ecology enter vacuum vehicle agree tuna angle despair";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic bamboo crater master transfer physical fashion copper strong mammal actor merit";
+var mnemonic = "protect scorpion neutral truly monster snow adapt layer gate march outdoor hello";

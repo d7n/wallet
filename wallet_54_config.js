@@ -1,1 +1,1 @@
-var mnemonic = "impulse spare space jacket tree music rain drill kingdom endorse sibling hip";
+var mnemonic = "satoshi miss cloth oyster income master soup wild tumble nephew zero keen";

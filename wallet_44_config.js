@@ -1,1 +1,1 @@
-var mnemonic = "funny gorilla inquiry near toilet divorce runway pen vintage oxygen runway walnut";
+var mnemonic = "category sea spray shiver panel pond fire wheat stone around attract any";

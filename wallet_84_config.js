@@ -1,1 +1,1 @@
-var mnemonic = "finger exercise goose unfair because beauty erosion oppose hover entire lobster decide";
+var mnemonic = "detect pride next siren upset dice ghost tail poet wear way labor";

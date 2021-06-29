@@ -1,1 +1,1 @@
-var mnemonic = "income avoid dinner margin carpet ship tail caught shallow crunch burst enable";
+var mnemonic = "tribe eternal design anchor damage absent mixture alone parrot crouch recycle base";

@@ -1,1 +1,1 @@
-var mnemonic = "humble exile label extend jealous pet dial reopen dignity replace defense walk";
+var mnemonic = "solve limit depend satisfy attract unique weapon coyote ecology exile foam caught";

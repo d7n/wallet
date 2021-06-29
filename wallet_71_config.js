@@ -1,1 +1,1 @@
-var mnemonic = "element coral pepper metal sort enough witness rough tonight advice guilt model";
+var mnemonic = "hold cotton crazy orbit night maple enrich slender cool cousin wire tiny";
