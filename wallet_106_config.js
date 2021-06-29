@@ -1,1 +1,1 @@
-var mnemonic = "banner net token ugly fun spirit inflict drink distance alien boring peace";
+var mnemonic = "insane whip address mom oven render absent apart region indicate news accident";

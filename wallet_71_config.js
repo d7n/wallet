@@ -1,1 +1,1 @@
-var mnemonic = "puzzle zone run club hole strike episode cage culture hole taste humor";
+var mnemonic = "vicious style zone much cigar tiger duck transfer nation almost judge tenant";

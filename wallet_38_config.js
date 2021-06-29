@@ -1,1 +1,1 @@
-var mnemonic = "between laugh shoe general come stem close surround fantasy brave squirrel awesome";
+var mnemonic = "siren green science prison motor local float genuine double hood fish undo";

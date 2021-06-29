@@ -1,1 +1,1 @@
-var mnemonic = "cruise vast film jealous sniff coach vintage aspect team fall hello aware";
+var mnemonic = "reduce useless sound decade chef joke horror puppy wheel fancy crawl purpose";

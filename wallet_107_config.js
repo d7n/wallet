@@ -1,1 +1,1 @@
-var mnemonic = "cluster child outdoor casual hollow another fence fork cloth dog thrive anger";
+var mnemonic = "tell december tiger inject search luggage tourist rival return sound run elder";

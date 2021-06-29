@@ -1,1 +1,1 @@
-var mnemonic = "dice head awesome target screen learn join squirrel melody amused sell rough";
+var mnemonic = "success energy morning tired chunk margin food kind identify food decorate axis";

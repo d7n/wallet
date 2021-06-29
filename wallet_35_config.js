@@ -1,1 +1,1 @@
-var mnemonic = "twenty minute enlist relax digital leave crumble misery use immune medal upset";
+var mnemonic = "play agree way myself decrease tackle obvious coil primary depth strong undo";

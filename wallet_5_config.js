@@ -1,1 +1,1 @@
-var mnemonic = "above health slot sport field soldier immense chunk palm surface edge runway";
+var mnemonic = "sketch setup laundry bench general grab rebuild post access stumble street cave";

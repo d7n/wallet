@@ -1,1 +1,1 @@
-var mnemonic = "labor only rocket gun rail chuckle cherry danger speed hurt doctor duck";
+var mnemonic = "bread silly plug spare need quarter near fiction renew voyage same insect";

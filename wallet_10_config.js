@@ -1,1 +1,1 @@
-var mnemonic = "primary execute vital trick hungry horn bottom tail fly fancy brown fitness";
+var mnemonic = "shallow december song clarify calm movie act banner fluid erosion claw adjust";

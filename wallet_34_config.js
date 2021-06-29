@@ -1,1 +1,1 @@
-var mnemonic = "bird noise twelve blade quantum solid winter shift output danger jewel install";
+var mnemonic = "odor salmon swallow tape venue split coin fly step size breeze iron";

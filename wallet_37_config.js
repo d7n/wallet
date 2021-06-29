@@ -1,1 +1,1 @@
-var mnemonic = "junk atom soda kiwi wall orange recipe dress near siren layer object";
+var mnemonic = "coral core snow sleep spoon win narrow smart tortoise broccoli era hover";

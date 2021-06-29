@@ -1,1 +1,1 @@
-var mnemonic = "gun vendor okay early maid knee odor glass cabbage brief repair prosper";
+var mnemonic = "discover kitten access apart pretty else elbow define cross wheel where genius";

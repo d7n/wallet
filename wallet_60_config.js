@@ -1,1 +1,1 @@
-var mnemonic = "prize elder era shock spike north mother bind canal leg ensure breeze";
+var mnemonic = "surface fold runway crop home avoid fun thought addict census carbon name";

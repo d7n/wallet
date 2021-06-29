@@ -1,1 +1,1 @@
-var mnemonic = "youth gasp early abstract cube gorilla eternal crane busy seminar drastic dash";
+var mnemonic = "satisfy album addict click sight bulk suspect element trade hip glass gasp";

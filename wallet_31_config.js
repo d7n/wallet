@@ -1,1 +1,1 @@
-var mnemonic = "nice model meat wine column absurd there depend pledge embrace leader cruise";
+var mnemonic = "fortune cattle describe angry clerk issue jelly fetch duty flush sing kitten";

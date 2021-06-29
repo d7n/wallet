@@ -1,1 +1,1 @@
-var mnemonic = "faculty room midnight sentence gauge asset this adjust kid female leave rebuild";
+var mnemonic = "sea absent provide immense arm snack express merry pepper expand elite december";

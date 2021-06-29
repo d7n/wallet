@@ -1,1 +1,1 @@
-var mnemonic = "garment bicycle orange connect annual eternal city slush make dust broken mesh";
+var mnemonic = "grass blood tissue frog settle brave catch liberty gold path nephew flame";

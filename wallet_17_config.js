@@ -1,1 +1,1 @@
-var mnemonic = "harbor normal public sense inmate action universe agent humble chalk riot control";
+var mnemonic = "oval rough basket tattoo whip disorder hospital retreat seek spice smooth fetch";

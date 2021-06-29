@@ -1,1 +1,1 @@
-var mnemonic = "poem throw cattle shop theory place crystal waste urban legal tattoo child";
+var mnemonic = "recall sand reopen effort boil depend verify battle chunk wing thunder type";

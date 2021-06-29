@@ -1,1 +1,1 @@
-var mnemonic = "insect slot wrong leg people twenty abandon virtual glance hint elder smooth";
+var mnemonic = "begin health unfold wheel conduct asthma potato chair upset rare snap muffin";

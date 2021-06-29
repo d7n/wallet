@@ -1,1 +1,1 @@
-var mnemonic = "three asset private vessel bread order luggage angry sniff romance funny lava";
+var mnemonic = "beef sing black flight crush broccoli kit occur raccoon any dice flee";

@@ -1,1 +1,1 @@
-var mnemonic = "betray chimney hire veteran glimpse risk sunset chat merit crew gossip enact";
+var mnemonic = "congress useless bulk melt rigid picnic abstract ocean aisle pass cousin glare";

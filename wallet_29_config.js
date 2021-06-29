@@ -1,1 +1,1 @@
-var mnemonic = "gasp account hip canal kitchen evil acid special merge ask ride junior";
+var mnemonic = "pride rich salmon skill lazy waste wrist square survey blade excess accident";

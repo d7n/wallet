@@ -1,1 +1,1 @@
-var mnemonic = "fork isolate already roof mansion subway fold human naive seat stool close";
+var mnemonic = "rare region teach clump bid vacant melt undo gown escape call wine";

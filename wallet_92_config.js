@@ -1,1 +1,1 @@
-var mnemonic = "sheriff novel general brand process soon hamster delay birth artwork stomach dance";
+var mnemonic = "wrist bundle expire amused fever uniform cattle make call cat midnight flee";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease unfold fence vivid banana sell donor tortoise return banner catch dwarf";
+var mnemonic = "method elevator able property prepare float then tourist endless fee typical grant";

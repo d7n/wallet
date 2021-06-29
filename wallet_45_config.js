@@ -1,1 +1,1 @@
-var mnemonic = "rabbit grain wide danger nerve weird party town claim cactus group absorb";
+var mnemonic = "flame benefit split game violin long sad second chronic fashion kit exit";

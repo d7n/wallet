@@ -1,1 +1,1 @@
-var mnemonic = "shadow banner either penalty easy pitch snow strike cheap crash core neck";
+var mnemonic = "autumn clog tunnel lend until satoshi improve sustain unaware magnet pair sell";

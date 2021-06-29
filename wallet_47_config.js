@@ -1,1 +1,1 @@
-var mnemonic = "inmate unique small series gorilla fragile exhibit actress shaft unit hold accuse";
+var mnemonic = "fetch wonder release celery improve consider swap amateur aerobic visual snap tired";

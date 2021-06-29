@@ -1,1 +1,1 @@
-var mnemonic = "tomato local chronic mobile public today energy element kingdom under outdoor glove";
+var mnemonic = "surprise dumb spare stereo hip sentence seminar dry huge oyster august deal";

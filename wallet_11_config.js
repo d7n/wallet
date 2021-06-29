@@ -1,1 +1,1 @@
-var mnemonic = "pipe define rare diesel true miss stock physical beyond escape urge since";
+var mnemonic = "reopen uniform feature artist remove napkin lecture sea client box street velvet";

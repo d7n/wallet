@@ -1,1 +1,1 @@
-var mnemonic = "multiply turkey shrimp divert crack bronze right priority plastic domain mango region";
+var mnemonic = "price employ route assault account range cable ghost spell rain ranch isolate";

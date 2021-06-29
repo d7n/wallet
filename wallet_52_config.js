@@ -1,1 +1,1 @@
-var mnemonic = "orchard orbit boring all gospel ostrich sheriff accuse gun pig scout convince";
+var mnemonic = "favorite amazing liberty believe inch critic envelope cute raise section bracket invest";

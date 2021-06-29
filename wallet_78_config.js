@@ -1,1 +1,1 @@
-var mnemonic = "expose artist excuse chief extend sphere beef pair elevator begin love can";
+var mnemonic = "drama prison crouch under attend trouble render trip chief crop crucial emerge";

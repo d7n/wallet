@@ -1,1 +1,1 @@
-var mnemonic = "all bless tackle liar reduce squeeze exercise ancient more rotate exhaust pottery";
+var mnemonic = "trade loan upper gesture avoid oil output century update tumble scout toss";

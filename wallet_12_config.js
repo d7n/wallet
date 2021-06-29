@@ -1,1 +1,1 @@
-var mnemonic = "frozen debate direct column now sport isolate truck million drastic emerge napkin";
+var mnemonic = "strategy cement gravity gauge weather differ combine village ordinary brother prevent insane";

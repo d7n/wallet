@@ -1,1 +1,1 @@
-var mnemonic = "tilt property injury steel faculty hole deer claim near forget height honey";
+var mnemonic = "surface seek better bottom enlist visa tornado alley cricket dry jealous happy";

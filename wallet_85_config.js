@@ -1,1 +1,1 @@
-var mnemonic = "rocket blossom display twelve lift online normal soon panther sound shiver gentle";
+var mnemonic = "boy liberty snack joy hope vicious album perfect imitate mean valley debris";

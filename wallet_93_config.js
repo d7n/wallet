@@ -1,1 +1,1 @@
-var mnemonic = "tonight coyote jacket afraid green banana evolve again zero huge acquire cousin";
+var mnemonic = "chief safe process other album outer earth during lock copy purity another";

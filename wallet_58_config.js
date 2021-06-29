@@ -1,1 +1,1 @@
-var mnemonic = "lion arch brief river gym drama salad margin private regret member music";
+var mnemonic = "shock taxi cushion enact practice exchange sport another second urge left language";

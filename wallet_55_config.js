@@ -1,1 +1,1 @@
-var mnemonic = "monitor image demand faith false retire tiger wet bullet panel movie various";
+var mnemonic = "seminar trip movie deer climb outside hair act hover great pretty dwarf";

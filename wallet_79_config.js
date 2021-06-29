@@ -1,1 +1,1 @@
-var mnemonic = "advice gown bid pudding repeat salad industry spider soccer yellow mouse ship";
+var mnemonic = "nominee dentist velvet tag south quarter palace surface leopard model rocket story";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt leg document since wine bench wire void faint giant seven talk";
+var mnemonic = "select flight snack because pass trap round shove smile post naive problem";

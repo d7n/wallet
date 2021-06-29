@@ -1,1 +1,1 @@
-var mnemonic = "cargo guitar chaos coil legend wolf rotate display frown where tiger regular";
+var mnemonic = "horse blood ski tuition inflict view elder gown search mad enrich report";

@@ -1,1 +1,1 @@
-var mnemonic = "asset enable state flock elite shuffle such ozone gossip obtain choice frost";
+var mnemonic = "truth ridge traffic chimney nuclear pig trap fade bread brush decline physical";

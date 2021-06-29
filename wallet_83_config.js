@@ -1,1 +1,1 @@
-var mnemonic = "use talk wonder wood news balcony artefact primary oil economy volcano knee";
+var mnemonic = "avocado glimpse song panda slight wheel issue power example risk sample combine";

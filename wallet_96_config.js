@@ -1,1 +1,1 @@
-var mnemonic = "much vague napkin left cupboard supply couch text oblige car guard pitch";
+var mnemonic = "response age bargain uniform erode wait language carbon south risk such all";

@@ -1,1 +1,1 @@
-var mnemonic = "old narrow lens innocent addict mirror eyebrow canvas draw make rare domain";
+var mnemonic = "able emerge quantum strategy script mansion patch weapon height slogan exhibit funny";

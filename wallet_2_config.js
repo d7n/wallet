@@ -1,1 +1,1 @@
-var mnemonic = "exit know proud library release tape steel science open thought rigid whale";
+var mnemonic = "cross lumber wasp city area sibling foil fossil spoon require awesome rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile subject abandon cancel helmet dog victory chuckle option sport cross eyebrow";
+var mnemonic = "glance rice myself carbon garage lava print process honey hire physical weather";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty always devote brief universe recipe observe end vendor trouble own example";
+var mnemonic = "antenna defense damage welcome alone february better garment solution nut file mechanic";

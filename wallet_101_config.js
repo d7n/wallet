@@ -1,1 +1,1 @@
-var mnemonic = "attitude bonus fatal option cattle voyage response lounge resemble remain pig reduce";
+var mnemonic = "case security rubber diagram brisk grain change embody awful spoon bundle era";

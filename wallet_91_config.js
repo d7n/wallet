@@ -1,1 +1,1 @@
-var mnemonic = "catch soap zone ring whip vibrant ball tower bronze wife victory narrow";
+var mnemonic = "peace foil crime ancient nuclear cruel neglect beef twelve bacon slight notable";

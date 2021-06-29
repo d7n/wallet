@@ -1,1 +1,1 @@
-var mnemonic = "evolve state pole shallow clap weasel across powder diamond soup gym taste";
+var mnemonic = "tuna victory health chalk owner praise mule walk van useless family bacon";

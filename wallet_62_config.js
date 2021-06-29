@@ -1,1 +1,1 @@
-var mnemonic = "tiger deer ancient crush awesome obey save innocent just slice wave hidden";
+var mnemonic = "library siren sibling fog morning recipe midnight matter jaguar faint purity ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt dune warrior dinner gym busy vacuum spring furnace fossil strategy toy";
+var mnemonic = "blouse push craft they crucial retreat twin foil produce atom board prize";

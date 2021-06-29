@@ -1,1 +1,1 @@
-var mnemonic = "give tip grow unaware six illegal tone scrub shoe inside limb among";
+var mnemonic = "silver old arm zero identify vapor dilemma speed interest lunar siege oven";

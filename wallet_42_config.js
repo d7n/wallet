@@ -1,1 +1,1 @@
-var mnemonic = "song victory sand wisdom crouch exist couple dish length air siege job";
+var mnemonic = "galaxy neither pumpkin absorb dash decide leisure divide normal palace floor visa";

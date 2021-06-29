@@ -1,1 +1,1 @@
-var mnemonic = "fame city vessel social crucial achieve fetch earn marriage base essay lava";
+var mnemonic = "advance ignore expand cherry april pelican keen guess fix rely net shaft";

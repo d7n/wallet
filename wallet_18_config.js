@@ -1,1 +1,1 @@
-var mnemonic = "goose catalog census ask stable hospital horse grape symbol major second early";
+var mnemonic = "diesel core birth turkey napkin gasp home make dial satoshi place sausage";

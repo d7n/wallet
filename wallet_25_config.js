@@ -1,1 +1,1 @@
-var mnemonic = "change tongue approve voice skin return shine belt daring pitch velvet scissors";
+var mnemonic = "cinnamon match rocket remind coconut royal bone arena tourist catch moral armor";

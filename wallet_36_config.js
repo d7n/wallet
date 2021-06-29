@@ -1,1 +1,1 @@
-var mnemonic = "marble pulse settle mistake this mistake forget open clock advice pipe lunch";
+var mnemonic = "youth input pitch extend wide road physical mail nut emotion catch tape";

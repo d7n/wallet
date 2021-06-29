@@ -1,1 +1,1 @@
-var mnemonic = "dance genius expand sorry quarter unlock perfect face reunion arrive lunch nest";
+var mnemonic = "mosquito exclude jacket coral remove hotel jazz blossom cage dutch lunar bronze";

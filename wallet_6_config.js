@@ -1,1 +1,1 @@
-var mnemonic = "machine orange garage enemy exclude select march bronze explain brisk hill child";
+var mnemonic = "grit shrimp tuna enroll calm fever few rough chuckle write paddle annual";

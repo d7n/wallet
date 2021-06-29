@@ -1,1 +1,1 @@
-var mnemonic = "height snack muscle balance method maximum equal tomato tip rally fringe pony";
+var mnemonic = "virus scene tag insane economy diamond afraid another exit notable section stadium";

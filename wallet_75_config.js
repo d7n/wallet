@@ -1,1 +1,1 @@
-var mnemonic = "lift electric police minute olive into very gather three crew isolate truck";
+var mnemonic = "fee grief hybrid gadget steak drum arch salon dust silly shift popular";

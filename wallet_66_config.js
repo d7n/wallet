@@ -1,1 +1,1 @@
-var mnemonic = "van program name betray govern quote resource taste oxygen walnut filter upper";
+var mnemonic = "media amazing knee shoot enjoy oil future injury renew hospital congress observe";

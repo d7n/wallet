@@ -1,1 +1,1 @@
-var mnemonic = "useless gaze fringe deal enlist praise movie leopard right ensure manage license";
+var mnemonic = "bubble frost entire army subway salute give bacon paddle cost mammal unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "web draw retreat act install spell case gas above very mechanic typical";
+var mnemonic = "fault now they flip between case comic easy expect exit donor fence";

@@ -1,1 +1,1 @@
-var mnemonic = "cute ribbon feature quit rural fever author eye license orchard rubber buddy";
+var mnemonic = "absurd inform outer diary bullet oppose quantum swing nerve wheel employ ignore";

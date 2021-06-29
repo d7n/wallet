@@ -1,1 +1,1 @@
-var mnemonic = "federal umbrella weather wrist trigger sort switch view pudding solution infant treat";
+var mnemonic = "bean brother electric glow gentle hour explain bunker cotton senior index taste";

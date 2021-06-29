@@ -1,1 +1,1 @@
-var mnemonic = "top hollow public convince midnight venture confirm quick adult stem fame entry";
+var mnemonic = "act better price produce auction morning abuse share spirit quit firm distance";

@@ -1,1 +1,1 @@
-var mnemonic = "calm retire they occur icon advance use narrow wagon ring shiver void";
+var mnemonic = "daring dove upset neither legend ozone rather video pitch zero fit metal";

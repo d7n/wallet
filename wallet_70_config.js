@@ -1,1 +1,1 @@
-var mnemonic = "toilet cart owner clever dose section middle group sheriff retreat choose athlete";
+var mnemonic = "assist opera popular use forum cake craft man food yard drum help";

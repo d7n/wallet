@@ -1,1 +1,1 @@
-var mnemonic = "rose street veteran crucial toward ring despair glad immune shield door primary";
+var mnemonic = "assault exhibit lawsuit inject crystal alcohol color output ticket daring odor negative";

@@ -1,1 +1,1 @@
-var mnemonic = "few base dose human abandon ramp hat upon tourist mass million hazard";
+var mnemonic = "card fit garment enough lend summer cram head frozen input grace gauge";

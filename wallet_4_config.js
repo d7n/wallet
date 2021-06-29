@@ -1,1 +1,1 @@
-var mnemonic = "sight museum easy feel author mystery light session october there before seed";
+var mnemonic = "holiday twelve brass snake harsh shield panda rain direct olympic mean wealth";

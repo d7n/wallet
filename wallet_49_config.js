@@ -1,1 +1,1 @@
-var mnemonic = "trouble prepare mail cat member orange frequent canyon able trigger output ugly";
+var mnemonic = "talk match submit where gap soccer ahead skirt trash favorite deputy disorder";

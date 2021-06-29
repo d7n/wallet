@@ -1,1 +1,1 @@
-var mnemonic = "tourist news person absorb water place toe shed solve rely column slogan";
+var mnemonic = "banner quantum atom deer rib worth sausage crane mention web solid never";

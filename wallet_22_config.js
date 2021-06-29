@@ -1,1 +1,1 @@
-var mnemonic = "smooth modify trim spend apology pretty sheriff garbage picnic ensure chat tornado";
+var mnemonic = "leave talent myth better door news gaze believe lesson olive require mixture";

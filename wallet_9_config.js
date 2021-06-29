@@ -1,1 +1,1 @@
-var mnemonic = "fish arrive surround draft recycle cotton twelve wagon adjust rare ramp thing";
+var mnemonic = "spell argue imitate unveil benefit puppy gesture chaos inmate simple zoo alley";

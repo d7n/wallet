@@ -1,1 +1,1 @@
-var mnemonic = "parrot twice festival draw vehicle strong enable radar fruit twenty discover grape";
+var mnemonic = "expand satoshi culture duck solar give talent strategy fragile stairs anchor eight";

@@ -1,1 +1,1 @@
-var mnemonic = "grape young filter clip laptop consider author multiply purchase current west derive";
+var mnemonic = "noodle humor solution subject race elbow diary toddler grab category ocean grief";

@@ -1,1 +1,1 @@
-var mnemonic = "insane mouse mimic clerk marriage steak deputy dwarf town tenant better bench";
+var mnemonic = "train soon model laptop total around creek job street vanish nuclear entire";

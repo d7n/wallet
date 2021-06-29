@@ -1,1 +1,1 @@
-var mnemonic = "end diagram clump smooth crew butter filter success gallery spell chicken end";
+var mnemonic = "aim valid bamboo sugar cliff nut segment squeeze possible air bunker couch";

@@ -1,1 +1,1 @@
-var mnemonic = "art female awake banner play fan lemon metal quick fragile happy stone";
+var mnemonic = "recipe exhaust shop slight kind pig frequent panther captain pill seminar blade";

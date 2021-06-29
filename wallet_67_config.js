@@ -1,1 +1,1 @@
-var mnemonic = "decline dolphin layer crack true kiss tide nerve treat tool paddle elevator";
+var mnemonic = "plug ghost vicious gravity satisfy circle grief section mix space crystal sun";
