@@ -1,1 +1,1 @@
-var mnemonic = "web long umbrella fashion capital ice lunar apple tree jaguar orange rapid";
+var mnemonic = "between end wink debate crawl dawn fan join large weather fall inflict";

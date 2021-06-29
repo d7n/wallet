@@ -1,1 +1,1 @@
-var mnemonic = "fold rebuild town surface course guitar common result proof cash figure frozen";
+var mnemonic = "ride wink suggest also donor demise snake catch traffic crisp glory panic";

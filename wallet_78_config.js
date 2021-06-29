@@ -1,1 +1,1 @@
-var mnemonic = "item deal ticket organ train various pool glad blind income jewel brother";
+var mnemonic = "achieve toy public enhance juice beach scrap soft want leader charge grunt";

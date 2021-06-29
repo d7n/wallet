@@ -1,1 +1,1 @@
-var mnemonic = "nose usage expect body genius promote express remain plug meat aunt brother";
+var mnemonic = "enemy fine gospel dwarf size topple metal offer recipe axis coin club";

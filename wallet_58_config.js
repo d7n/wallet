@@ -1,1 +1,1 @@
-var mnemonic = "tattoo math attack chest chalk lunar glow twice below divorce rice orient";
+var mnemonic = "know gravity truth quit hamster shrug window gate source accident zero round";

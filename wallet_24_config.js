@@ -1,1 +1,1 @@
-var mnemonic = "squirrel program gather soap rare economy quit disorder cattle glide transfer lunch";
+var mnemonic = "sample mirror stone topic nice length conduct winter success month wine devote";

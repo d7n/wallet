@@ -1,1 +1,1 @@
-var mnemonic = "ozone math jewel exotic blur service nuclear exchange above position hedgehog pyramid";
+var mnemonic = "hockey crime stand symptom sign judge creek bargain during vicious kit scan";

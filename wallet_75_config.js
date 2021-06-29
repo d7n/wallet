@@ -1,1 +1,1 @@
-var mnemonic = "praise theme chunk brass loan viable soldier ability base snake urge scatter";
+var mnemonic = "stove myself hunt census tortoise steel runway perfect matter sand issue diamond";

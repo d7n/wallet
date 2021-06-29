@@ -1,1 +1,1 @@
-var mnemonic = "powder cry congress achieve repair unaware market milk stove various faint arch";
+var mnemonic = "dawn obtain reflect inherit index output history soap wine rabbit eight degree";

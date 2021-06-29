@@ -1,1 +1,1 @@
-var mnemonic = "finger assist day lonely hazard danger october develop champion bleak blossom vendor";
+var mnemonic = "hamster music stay air slam pizza tattoo job shoe cupboard pistol again";

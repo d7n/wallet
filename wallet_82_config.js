@@ -1,1 +1,1 @@
-var mnemonic = "cry citizen puppy hundred cry cruel cute robust despair view urban feed";
+var mnemonic = "despair novel achieve type giraffe update west account squeeze wheat enact urge";

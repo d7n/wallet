@@ -1,1 +1,1 @@
-var mnemonic = "unusual axis hint gorilla split safe disease address local between place mention";
+var mnemonic = "jump table foster claim snap worry sweet spoon gym calm pill recipe";

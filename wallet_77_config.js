@@ -1,1 +1,1 @@
-var mnemonic = "choose pudding light cook clarify false syrup toe settle impose ball pull";
+var mnemonic = "crawl attack search type trouble warfare ordinary apple laugh weird neutral limb";

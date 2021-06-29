@@ -1,1 +1,1 @@
-var mnemonic = "illegal youth spoon next razor dutch happy slim police pyramid blouse mosquito";
+var mnemonic = "wolf rib wife arena across despair flight maid rapid sort bachelor fish";

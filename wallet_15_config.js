@@ -1,1 +1,1 @@
-var mnemonic = "draft enroll tilt cactus aisle comfort pave slender field age female frown";
+var mnemonic = "finger inmate absorb decline any come angry accident claw aisle style motion";

@@ -1,1 +1,1 @@
-var mnemonic = "news view universe roof luggage adapt vote tobacco clutch sauce amount dizzy";
+var mnemonic = "annual scatter always call globe attack essence betray loyal have gather mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky mask arrange naive skirt brisk shield casino rough lion sun fluid";
+var mnemonic = "juice eternal business ginger expose ivory famous chair surround atom nerve dumb";

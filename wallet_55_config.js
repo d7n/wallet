@@ -1,1 +1,1 @@
-var mnemonic = "jazz ecology zone accident final hand crumble rug grunt nose van chicken";
+var mnemonic = "check know victory course voice slush oven logic stamp physical daring intact";

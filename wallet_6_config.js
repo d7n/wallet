@@ -1,1 +1,1 @@
-var mnemonic = "pyramid nasty inspire glove kitten fault cup dice acquire day exile decorate";
+var mnemonic = "level online power share melody zero afford knee vessel siren egg file";

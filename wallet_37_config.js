@@ -1,1 +1,1 @@
-var mnemonic = "orient trigger bacon deer allow oil age faith air code jelly upset";
+var mnemonic = "announce destroy horror canyon immense over zebra tide bread sail scrap domain";

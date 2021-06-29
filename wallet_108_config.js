@@ -1,1 +1,1 @@
-var mnemonic = "dad sustain horse april brother image warrior mimic source person episode height";
+var mnemonic = "zoo auction distance about change evidence reform reform judge hood tribe attract";

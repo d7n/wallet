@@ -1,1 +1,1 @@
-var mnemonic = "famous rabbit govern cancel write cycle undo wasp spin anxiety arrest elephant";
+var mnemonic = "nest image travel warfare lizard teach tool farm silk stuff muscle excite";

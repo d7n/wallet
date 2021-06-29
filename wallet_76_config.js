@@ -1,1 +1,1 @@
-var mnemonic = "surround industry solid tray dry cause pause judge crunch shoot drink pudding";
+var mnemonic = "believe cloud coast rare cupboard board record health clock canoe leisure smart";

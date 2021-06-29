@@ -1,1 +1,1 @@
-var mnemonic = "right inquiry market faculty thunder voyage appear river family sense race wet";
+var mnemonic = "eager nephew apology wall brown peanut ski banana online reform sea seat";

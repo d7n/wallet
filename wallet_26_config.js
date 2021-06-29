@@ -1,1 +1,1 @@
-var mnemonic = "enrich clarify entry nose drift broken pioneer decorate elite scissors basket cabin";
+var mnemonic = "answer thumb document hundred clock tiny buddy impact expire simple obvious kite";

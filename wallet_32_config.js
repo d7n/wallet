@@ -1,1 +1,1 @@
-var mnemonic = "maze when remind cinnamon confirm champion broken helmet cattle mammal awful video";
+var mnemonic = "hover season rich fossil addict build wonder worry fresh nuclear media spirit";

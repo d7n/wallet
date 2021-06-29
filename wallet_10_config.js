@@ -1,1 +1,1 @@
-var mnemonic = "jeans badge arm nation tiger have wrestle note size embody inject deliver";
+var mnemonic = "tumble license sentence guess street latin fine pave slender test dance lion";

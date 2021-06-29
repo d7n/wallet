@@ -1,1 +1,1 @@
-var mnemonic = "clump life sorry around winter welcome certain clap accuse congress theory powder";
+var mnemonic = "enjoy tube kiwi clutch wet eager joke throw problem leaf behave obey";

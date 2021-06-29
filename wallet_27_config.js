@@ -1,1 +1,1 @@
-var mnemonic = "pride saddle slender fatigue yellow chest used window clarify penalty rate shed";
+var mnemonic = "engine sister fence unfold leaf rookie skirt shaft useful two bus wrap";

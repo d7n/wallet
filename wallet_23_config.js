@@ -1,1 +1,1 @@
-var mnemonic = "finish august actress broken core embark actor silver carbon equal minute kiss";
+var mnemonic = "toilet coffee task old bridge rapid mouse inform express rocket wrong fiber";

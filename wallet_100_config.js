@@ -1,1 +1,1 @@
-var mnemonic = "trust ice knock travel split swap panda crowd birth clinic warrior film";
+var mnemonic = "emotion into leg history twin six worry theme peasant convince special rapid";

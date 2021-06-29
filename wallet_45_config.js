@@ -1,1 +1,1 @@
-var mnemonic = "monkey miss bean undo refuse library ethics risk elder rough dizzy virus";
+var mnemonic = "already kangaroo pupil click enable buddy cereal pattern tired such electric shrimp";

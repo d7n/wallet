@@ -1,1 +1,1 @@
-var mnemonic = "behave panda average flag echo cage skirt fun umbrella push share speak";
+var mnemonic = "panda forward hockey attract bag blame damp bubble favorite sponsor region banner";

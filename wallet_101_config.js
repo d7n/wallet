@@ -1,1 +1,1 @@
-var mnemonic = "liar gospel increase donor gallery wave shell rain black zone better spawn";
+var mnemonic = "insane library ready bridge leave insect hip ceiling common soon story family";

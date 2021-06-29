@@ -1,1 +1,1 @@
-var mnemonic = "section end junk embody public vapor tape riot clap drop shaft screen";
+var mnemonic = "borrow click axis bring federal security chicken praise moral rude capital hat";

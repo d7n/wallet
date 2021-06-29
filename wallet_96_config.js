@@ -1,1 +1,1 @@
-var mnemonic = "fan eager cute essence aspect buffalo draw glory enlist lawsuit monster wing";
+var mnemonic = "prefer post quality marine orange prosper slab order young learn art grace";

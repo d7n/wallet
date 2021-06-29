@@ -1,1 +1,1 @@
-var mnemonic = "crime second galaxy stock wrist erupt slide talk apology steel peace half";
+var mnemonic = "until nurse idle worry noodle sentence awkward problem donkey empty swarm emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "repair key right lunch member lunch attract meadow hockey awful lawn wall";
+var mnemonic = "sketch hammer dad avocado food mixture problem cruise sting range drop label";

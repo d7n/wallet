@@ -1,1 +1,1 @@
-var mnemonic = "purpose lesson busy race average home liar monitor employ car fragile skill";
+var mnemonic = "cactus tonight oppose palm present rifle sausage song wet satisfy spoon logic";

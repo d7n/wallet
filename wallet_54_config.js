@@ -1,1 +1,1 @@
-var mnemonic = "power gesture joke chunk start immense mixed pottery sketch dance uncover oil";
+var mnemonic = "turtle fury lazy giraffe survey angry guard donor soda wife extend dash";

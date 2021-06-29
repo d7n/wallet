@@ -1,1 +1,1 @@
-var mnemonic = "error ramp grief rib owner birth vote gate shoot visit resist check";
+var mnemonic = "notice brief burger tiger busy enough oven click stairs wagon outside left";

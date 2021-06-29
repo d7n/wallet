@@ -1,1 +1,1 @@
-var mnemonic = "sausage present armor border close stem coconut silent female ordinary million absorb";
+var mnemonic = "youth rich essay globe dumb virus wide zone wood yard planet near";

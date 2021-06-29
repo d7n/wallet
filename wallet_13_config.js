@@ -1,1 +1,1 @@
-var mnemonic = "cabbage theory that gift cushion member bargain update hurt song science proud";
+var mnemonic = "hero neglect script slight zero put memory skate speed music craft know";

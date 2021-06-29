@@ -1,1 +1,1 @@
-var mnemonic = "glance core cactus gown normal gossip monkey giggle enjoy caution excite verb";
+var mnemonic = "hero enact desk danger appear length high pretty mansion art recall father";

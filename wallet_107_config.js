@@ -1,1 +1,1 @@
-var mnemonic = "galaxy rebuild slush magnet punch found crowd mimic alpha crater magnet bleak";
+var mnemonic = "muscle creek release concert way lunar include theme snow benefit that turn";

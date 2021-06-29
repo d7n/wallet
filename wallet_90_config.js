@@ -1,1 +1,1 @@
-var mnemonic = "dice hole expire call betray above visual rule end you slight combine";
+var mnemonic = "genius review recall universe foil title harvest comic dice bless convince advice";

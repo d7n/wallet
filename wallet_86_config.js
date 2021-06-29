@@ -1,1 +1,1 @@
-var mnemonic = "panic venue raise spice kitten impose change light burger timber hope giant";
+var mnemonic = "grape recycle gloom senior guilt repair lottery cross lesson shift open final";

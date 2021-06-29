@@ -1,1 +1,1 @@
-var mnemonic = "common afraid virus wild crane run excess parent fog bean survey juice";
+var mnemonic = "project balance six park grid speed miss physical simple endorse shoe link";

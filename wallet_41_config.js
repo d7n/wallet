@@ -1,1 +1,1 @@
-var mnemonic = "clump cluster element describe pole sock rack industry consider vibrant retire wrestle";
+var mnemonic = "what coffee void jeans flee scissors cable arrest various lyrics industry secret";

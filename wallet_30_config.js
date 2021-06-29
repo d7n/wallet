@@ -1,1 +1,1 @@
-var mnemonic = "canoe nerve benefit elbow bid piano shell shiver solar omit hen hurry";
+var mnemonic = "repair cricket horn mountain deliver cheap speak mobile simple nothing festival depart";

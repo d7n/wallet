@@ -1,1 +1,1 @@
-var mnemonic = "tennis belt turn inner luxury claw clip gym height winter wife weapon";
+var mnemonic = "craft output cycle card toward garage earn pause quit blade fitness arctic";

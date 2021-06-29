@@ -1,1 +1,1 @@
-var mnemonic = "nephew swim banner glad click unable door concert enlist regular matrix nasty";
+var mnemonic = "front slight domain one type orphan never legend pattern fold equal tape";

@@ -1,1 +1,1 @@
-var mnemonic = "morning add catch clarify embrace mystery upgrade cry crowd admit foam leaf";
+var mnemonic = "hurdle another fault river seek radar large liquid pencil refuse deposit pistol";

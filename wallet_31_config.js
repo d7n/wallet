@@ -1,1 +1,1 @@
-var mnemonic = "soda nest snake parent coffee reject flower about room minute insane pretty";
+var mnemonic = "diary section promote bright soda menu input old machine long color salt";

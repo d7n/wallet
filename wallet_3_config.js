@@ -1,1 +1,1 @@
-var mnemonic = "regret skirt unit smile example repeat ramp firm puppy choose save rough";
+var mnemonic = "video empty wet amused drift faith delay until book upon answer ozone";

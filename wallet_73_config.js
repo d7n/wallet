@@ -1,1 +1,1 @@
-var mnemonic = "happy fold arm bench castle yard below skill what debris tornado grab";
+var mnemonic = "crop solution certain favorite gaze fold blade number inflict finger solve drama";

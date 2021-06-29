@@ -1,1 +1,1 @@
-var mnemonic = "stable symbol release panic chest gloom bomb lecture wolf citizen autumn give";
+var mnemonic = "ritual rent flag receive tattoo area mouse cable banana ten mind novel";

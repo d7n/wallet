@@ -1,1 +1,1 @@
-var mnemonic = "goose silk size duck among kitchen junk middle summer life poverty test";
+var mnemonic = "autumn become famous balcony number ask squeeze genre burst glow neutral myself";

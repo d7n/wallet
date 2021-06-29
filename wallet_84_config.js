@@ -1,1 +1,1 @@
-var mnemonic = "side favorite fashion post churn switch abstract produce east impulse isolate require";
+var mnemonic = "neither endorse also execute custom layer pulse magnet bless arrest journey hello";

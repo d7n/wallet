@@ -1,1 +1,1 @@
-var mnemonic = "cash gun duck figure clutch tumble below uncle adjust join task walk";
+var mnemonic = "fly absorb indicate pilot they enforce kiss forget fat suggest dad later";

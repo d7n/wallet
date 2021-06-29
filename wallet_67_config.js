@@ -1,1 +1,1 @@
-var mnemonic = "cost sadness proud extra help giggle view normal sand enlist hub keep";
+var mnemonic = "palm author timber series copy auto young delay person casual raise outdoor";

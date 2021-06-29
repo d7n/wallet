@@ -1,1 +1,1 @@
-var mnemonic = "inject sign senior ill wrong average please alcohol hundred nephew cost treat";
+var mnemonic = "nasty forward clay wall umbrella fantasy oval race input brain swallow cotton";

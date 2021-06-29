@@ -1,1 +1,1 @@
-var mnemonic = "large garden fitness pigeon scrub happy power expose wink arrest narrow disorder";
+var mnemonic = "artefact video timber grain fix shuffle multiply pill rib expect iron history";

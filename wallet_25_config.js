@@ -1,1 +1,1 @@
-var mnemonic = "basic subject start use claim sting match cover dynamic label phone silent";
+var mnemonic = "slight bid crumble gap airport duty couch short stove talk rookie remain";

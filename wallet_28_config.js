@@ -1,1 +1,1 @@
-var mnemonic = "damage vibrant column hurt awake burden canyon water usual penalty push ankle";
+var mnemonic = "cattle mushroom year swamp aunt food ahead quantum urge april bomb offer";

@@ -1,1 +1,1 @@
-var mnemonic = "unable alien damage kid naive spare genius tunnel goose leader search public";
+var mnemonic = "pledge broken bicycle ugly object tired antique spin country sunset figure focus";

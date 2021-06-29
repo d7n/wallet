@@ -1,1 +1,1 @@
-var mnemonic = "enemy ensure now banner grunt mammal lock choose blade dry orbit anchor";
+var mnemonic = "shop frequent you safe canvas title siren knock tank glory knife black";

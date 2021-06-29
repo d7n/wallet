@@ -1,1 +1,1 @@
-var mnemonic = "moment faculty reject wage virus flock worth grief fold ridge sport once";
+var mnemonic = "good hurdle inhale fatal very immune hundred cruel target crystal turkey physical";

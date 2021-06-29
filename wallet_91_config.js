@@ -1,1 +1,1 @@
-var mnemonic = "cactus run penalty answer move age evidence glimpse pepper drastic extra giant";
+var mnemonic = "domain sock castle hand genius vibrant evil drift symbol spike capital size";

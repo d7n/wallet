@@ -1,1 +1,1 @@
-var mnemonic = "analyst chef fitness dose expect jazz mention play season excess artefact supreme";
+var mnemonic = "crucial tell frame stem business duck cereal tobacco flee luxury mercy baby";

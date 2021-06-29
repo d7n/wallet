@@ -1,1 +1,1 @@
-var mnemonic = "broom alert dash soup put pistol cart pigeon danger stable lonely trigger";
+var mnemonic = "fall unaware faith board cabin wire inhale behave blossom ship crunch morning";

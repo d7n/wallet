@@ -1,1 +1,1 @@
-var mnemonic = "leaf caution win music erode quality orbit original anchor cup seminar until";
+var mnemonic = "vast attract fatigue naive price quick wrestle flight mercy story square grid";

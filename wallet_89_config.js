@@ -1,1 +1,1 @@
-var mnemonic = "myself capable tomato device sound rescue engage final comic strike goddess small";
+var mnemonic = "nest inch couch address correct diamond alcohol entire vacuum income lesson video";

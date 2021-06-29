@@ -1,1 +1,1 @@
-var mnemonic = "return basket trap antique kiwi harbor dignity enroll vintage dizzy journey wasp";
+var mnemonic = "another sunny physical barrel lady ice happy legal stereo surround roof obscure";

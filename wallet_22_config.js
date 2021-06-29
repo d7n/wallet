@@ -1,1 +1,1 @@
-var mnemonic = "deposit ticket jeans evoke moral edit siege lobster blanket unusual age eternal";
+var mnemonic = "unfair empower punch clever absent desert typical width icon frozen potato picnic";

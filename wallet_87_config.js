@@ -1,1 +1,1 @@
-var mnemonic = "hamster type stone wine setup finger cargo width tribe elephant airport doctor";
+var mnemonic = "oil pupil tape elephant border text exit unknown wolf garden size upper";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse hood again ladder crash coach wire buyer planet family wool afraid";
+var mnemonic = "child palm inmate boat snap skate budget rich gold manual glance right";

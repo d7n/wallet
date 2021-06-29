@@ -1,1 +1,1 @@
-var mnemonic = "jaguar bubble either load inhale sense kick tent staff regular need scene";
+var mnemonic = "desert mule craft desert public abstract thought album balcony save local cigar";

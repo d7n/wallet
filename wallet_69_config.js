@@ -1,1 +1,1 @@
-var mnemonic = "jungle insect tunnel lawn gauge hurry glory blade category use glove pink";
+var mnemonic = "away march wool leg remind earth attend fantasy awake tower kangaroo payment";

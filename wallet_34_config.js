@@ -1,1 +1,1 @@
-var mnemonic = "win evidence rally minor pencil chef account wrong hobby glare giggle cream";
+var mnemonic = "pink afford pepper off oven trade return angle apart logic worry then";

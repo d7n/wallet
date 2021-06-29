@@ -1,1 +1,1 @@
-var mnemonic = "garage novel spray humor speak sword lazy cherry bronze letter daughter matrix";
+var mnemonic = "million ramp dawn jazz bus report spread syrup surround used list trip";

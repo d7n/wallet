@@ -1,1 +1,1 @@
-var mnemonic = "drop cook imitate effort strike pilot able collect twin muscle patient risk";
+var mnemonic = "congress legend glove coach sustain track flip cart solar exist wrong ice";

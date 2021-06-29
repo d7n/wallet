@@ -1,1 +1,1 @@
-var mnemonic = "reject pistol bring twenty face hidden cable expand veteran genius planet useless";
+var mnemonic = "cheap jump ready exclude wash tree picnic fork shuffle above cupboard pioneer";

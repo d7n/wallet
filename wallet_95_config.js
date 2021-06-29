@@ -1,1 +1,1 @@
-var mnemonic = "search fatal quality office flag disease dilemma uncle possible seminar glare delay";
+var mnemonic = "bitter wave kangaroo elevator carbon brick sight owner debate dutch fix sword";

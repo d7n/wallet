@@ -1,1 +1,1 @@
-var mnemonic = "banana twelve piano element legal female original struggle torch detail media engine";
+var mnemonic = "vintage banner bring sunset describe dignity element olive cargo velvet trip blood";

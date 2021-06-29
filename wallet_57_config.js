@@ -1,1 +1,1 @@
-var mnemonic = "food fox skull drama lemon lion alert method swim emerge limb mango";
+var mnemonic = "minimum glide various confirm upper catalog youth develop pulp jazz yellow zoo";

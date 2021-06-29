@@ -1,1 +1,1 @@
-var mnemonic = "butter reduce clinic hunt member since spawn liquid chief friend very output";
+var mnemonic = "badge cash bronze else stool cheese unlock prison note north cart obtain";
