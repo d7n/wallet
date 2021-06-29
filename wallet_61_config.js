@@ -1,1 +1,1 @@
-var mnemonic = "fringe scatter comic reform employ position shoot toe tomorrow silver trial girl";
+var mnemonic = "magnet wrap frost morning legal axis awkward west board guard torch fame";

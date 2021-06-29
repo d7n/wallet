@@ -1,1 +1,1 @@
-var mnemonic = "peasant tooth inhale safe cruel cactus avoid field keep network oak park";
+var mnemonic = "tail assume taxi trend awkward divide yellow canvas unlock unit warfare measure";

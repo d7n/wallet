@@ -1,1 +1,1 @@
-var mnemonic = "shaft found receive change surround build accuse mushroom blossom price broccoli edit";
+var mnemonic = "cycle shock dash ozone find half between shrimp muffin race true advice";

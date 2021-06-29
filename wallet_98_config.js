@@ -1,1 +1,1 @@
-var mnemonic = "fly melt globe vanish volcano current convince van problem prepare license erosion";
+var mnemonic = "bachelor merry wall image file picnic giant bring apart arch round opinion";

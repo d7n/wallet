@@ -1,1 +1,1 @@
-var mnemonic = "ten evolve roast salt anxiety argue cinnamon alarm easily hawk rather doll";
+var mnemonic = "pass shaft memory absurd system pull wheel exact subway monkey hedgehog short";

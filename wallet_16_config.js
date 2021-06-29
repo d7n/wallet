@@ -1,1 +1,1 @@
-var mnemonic = "tower float slow season conduct void harvest cereal clown common garlic mango";
+var mnemonic = "orient video add kidney diamond leisure left update left noise thank network";

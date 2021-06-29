@@ -1,1 +1,1 @@
-var mnemonic = "outer explain surge ordinary camp guitar essay below unusual street wave group";
+var mnemonic = "relax sauce wedding modify sunny cable dumb stomach smoke afraid twenty phone";

@@ -1,1 +1,1 @@
-var mnemonic = "success famous vicious slab around brass alter knife lounge innocent hat night";
+var mnemonic = "poem harbor plate stereo market mix chuckle detect when donor few gift";

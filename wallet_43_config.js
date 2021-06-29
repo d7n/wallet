@@ -1,1 +1,1 @@
-var mnemonic = "junior monkey devote athlete kitten absurd avoid leader height unusual nasty radio";
+var mnemonic = "congress infant parade fix joke vintage alley assist police olympic limb sing";

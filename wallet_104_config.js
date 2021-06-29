@@ -1,1 +1,1 @@
-var mnemonic = "six wolf horror object trophy mixture maze paddle cute exhibit hurry short";
+var mnemonic = "sock away dynamic option envelope ridge trial hedgehog affair fossil solid adjust";

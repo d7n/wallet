@@ -1,1 +1,1 @@
-var mnemonic = "swear device reflect replace galaxy select guilt raise pen shove inmate repeat";
+var mnemonic = "like wide unknown file digital shrug snap strike figure online fancy fever";

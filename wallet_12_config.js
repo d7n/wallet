@@ -1,1 +1,1 @@
-var mnemonic = "engine draft please thing traffic special suspect say universe law bullet reject";
+var mnemonic = "route shallow already end grape like hint apple oval roast spend client";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk modify dismiss code modify practice sting bridge side muscle false list";
+var mnemonic = "become green dose range cloud lens coil biology aisle unaware actual lamp";

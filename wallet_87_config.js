@@ -1,1 +1,1 @@
-var mnemonic = "web frost major before rotate sibling sketch game achieve lazy head select";
+var mnemonic = "service jeans once adapt fever define noise abandon rebuild theme nasty prosper";

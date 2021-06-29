@@ -1,1 +1,1 @@
-var mnemonic = "join little among weather breeze slab bright ticket clean solar worth pass";
+var mnemonic = "quantum thing exile taste donkey hamster basket author shield inspire surprise fish";

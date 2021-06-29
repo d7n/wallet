@@ -1,1 +1,1 @@
-var mnemonic = "era wine cheese have hammer scatter evolve cattle mystery horse jump furnace";
+var mnemonic = "turtle dad tree school logic honey boring nature brother maid spoon legal";

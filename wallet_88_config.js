@@ -1,1 +1,1 @@
-var mnemonic = "project blur athlete local young person smart ghost check agree ordinary invite";
+var mnemonic = "brave scorpion approve flavor base kite chalk finish destroy live beyond play";

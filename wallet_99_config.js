@@ -1,1 +1,1 @@
-var mnemonic = "custom collect layer slot spin lift wave sound snow month cram unhappy";
+var mnemonic = "end usage dial strategy recall library noise jaguar captain snake mean tray";

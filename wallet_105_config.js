@@ -1,1 +1,1 @@
-var mnemonic = "avoid agree shy emerge core unhappy taxi mean mansion obtain appear time";
+var mnemonic = "legal myself tone afford join check myself silver comic laptop insane defy";

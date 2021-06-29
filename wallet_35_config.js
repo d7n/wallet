@@ -1,1 +1,1 @@
-var mnemonic = "mail firm weird wear acid suspect jelly prepare seat inherit fatigue lift";
+var mnemonic = "replace bone story pen alcohol sure crew taste essay slab novel cheese";

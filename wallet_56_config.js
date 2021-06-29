@@ -1,1 +1,1 @@
-var mnemonic = "kingdom brick wood army clarify saddle intact divorce boss calm excess report";
+var mnemonic = "ball kitten depart kite budget decorate dawn brick cup veteran loud silent";

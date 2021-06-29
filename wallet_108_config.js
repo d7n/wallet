@@ -1,1 +1,1 @@
-var mnemonic = "fabric master spread order predict sponsor south priority wolf phone ankle emotion";
+var mnemonic = "track burden economy rough captain flee long future click popular march valley";

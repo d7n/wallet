@@ -1,1 +1,1 @@
-var mnemonic = "erupt scorpion forum busy option surprise crack panel like bone whisper cute";
+var mnemonic = "sound mule melody tag cable fluid shield private april level coffee poverty";

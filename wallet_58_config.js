@@ -1,1 +1,1 @@
-var mnemonic = "chimney auction volcano sunny easily merge stereo brain omit volcano balcony model";
+var mnemonic = "man cluster tuition home mix various giraffe pair palm build practice flat";

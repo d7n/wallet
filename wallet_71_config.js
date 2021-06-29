@@ -1,1 +1,1 @@
-var mnemonic = "gym rule resemble torch text kitten squirrel fossil risk town game subject";
+var mnemonic = "stock cycle faint famous dance age slide entire anchor gun oyster edge";

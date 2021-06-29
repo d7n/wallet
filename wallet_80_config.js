@@ -1,1 +1,1 @@
-var mnemonic = "exhibit genre toast another olive floor guilt seek digital skill audit security";
+var mnemonic = "kitchen junk double regular marriage say embody arm exit royal comic online";

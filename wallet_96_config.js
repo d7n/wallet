@@ -1,1 +1,1 @@
-var mnemonic = "acoustic evidence smoke strike daring anchor first way early language lounge distance";
+var mnemonic = "solve stairs then dignity sad orange paddle wisdom rhythm bracket crime swift";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse hard trouble bird body cotton alley cat oyster appear cave breeze";
+var mnemonic = "joke grocery pledge census shop tip apple tuna ceiling scrap sail little";

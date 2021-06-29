@@ -1,1 +1,1 @@
-var mnemonic = "gorilla tree escape trend shrimp turkey electric height adapt monitor ride casino";
+var mnemonic = "quantum abstract monkey explain fly innocent worth kiss poet toy oyster magnet";

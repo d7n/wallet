@@ -1,1 +1,1 @@
-var mnemonic = "thank future artwork siege nest dwarf harvest average erupt link purchase game";
+var mnemonic = "ranch unhappy morning twist oppose crowd owner season split champion happy label";

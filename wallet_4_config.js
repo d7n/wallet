@@ -1,1 +1,1 @@
-var mnemonic = "beauty misery chicken staff language brain inmate sausage clarify rice hammer tribe";
+var mnemonic = "giraffe piano stadium try earn talent captain victory patrol empty agree phone";

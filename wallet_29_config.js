@@ -1,1 +1,1 @@
-var mnemonic = "vicious miss control desert sheriff accuse finish perfect race shove orange solve";
+var mnemonic = "pigeon shed chat cupboard merry annual soul script monkey lady exercise section";

@@ -1,1 +1,1 @@
-var mnemonic = "pair rug number squeeze brown game rocket neglect eyebrow neglect eternal learn";
+var mnemonic = "boy sibling job echo priority column need learn gorilla address enjoy annual";

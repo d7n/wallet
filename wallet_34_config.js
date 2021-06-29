@@ -1,1 +1,1 @@
-var mnemonic = "thunder cash search good ridge tray lottery seven once noise equal powder";
+var mnemonic = "check foam luggage doll play hospital shield dose edge stool exchange section";

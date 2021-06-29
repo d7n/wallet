@@ -1,1 +1,1 @@
-var mnemonic = "analyst grain culture winter spy slice enroll baby milk fold thumb actual";
+var mnemonic = "wool mango radar input cave used sugar draw toss head acid copper";

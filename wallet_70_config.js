@@ -1,1 +1,1 @@
-var mnemonic = "expand popular obtain oxygen possible flame project again cook fashion wing butter";
+var mnemonic = "quarter middle aunt napkin satisfy make climb confirm soon fatigue waste perfect";

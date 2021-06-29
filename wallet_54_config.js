@@ -1,1 +1,1 @@
-var mnemonic = "song gas arm tackle elevator fox tissue topic person once arrow unaware";
+var mnemonic = "kidney differ true doctor happy marine artist chat delay rose language mushroom";

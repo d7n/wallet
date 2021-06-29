@@ -1,1 +1,1 @@
-var mnemonic = "evil depend flush despair seek shine glare cushion chalk gain they mass";
+var mnemonic = "double screen fiction oppose wine code unit grain omit iron secret reduce";

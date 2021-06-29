@@ -1,1 +1,1 @@
-var mnemonic = "vital canyon desk duck dress print impulse anchor oven vivid pizza liar";
+var mnemonic = "pigeon check click special benefit essay order divide uniform february modify cloud";

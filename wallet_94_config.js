@@ -1,1 +1,1 @@
-var mnemonic = "chest ancient lobster goose arctic lobster young great hello immune swamp cram";
+var mnemonic = "nominee slow ranch three rigid unaware blossom copper file turkey awesome carbon";

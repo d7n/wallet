@@ -1,1 +1,1 @@
-var mnemonic = "deny hair come buffalo pyramid shrimp swing extend menu dice faculty dream";
+var mnemonic = "rich join client silver fiscal situate behave color wreck train hat cotton";

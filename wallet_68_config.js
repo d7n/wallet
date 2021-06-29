@@ -1,1 +1,1 @@
-var mnemonic = "health army scare pudding rude vacuum ivory question pact leg possible market";
+var mnemonic = "laptop solar what eagle blast chaos miss fragile few leader mobile swamp";

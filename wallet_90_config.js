@@ -1,1 +1,1 @@
-var mnemonic = "payment patch image property tank asthma can gauge snake able typical fiction";
+var mnemonic = "setup iron work smoke excuse potato muscle habit family squeeze steak gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "detect offer chimney pole solid endless chat diamond chat muffin course wing";
+var mnemonic = "direct defense slogan welcome bulb scare atom acoustic case teach midnight priority";

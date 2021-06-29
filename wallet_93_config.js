@@ -1,1 +1,1 @@
-var mnemonic = "remain display palace zebra mom cricket city wall drama garlic hobby hold";
+var mnemonic = "false bid razor mom flavor camera square provide wear soda badge motor";

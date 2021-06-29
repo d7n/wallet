@@ -1,1 +1,1 @@
-var mnemonic = "teach always vast script insane radio company twice purse table scout swing";
+var mnemonic = "also occur hungry moral sound flush announce issue december drama youth toilet";

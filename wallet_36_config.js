@@ -1,1 +1,1 @@
-var mnemonic = "pair blush own soup broken type essay write version cave ahead chuckle";
+var mnemonic = "myth father tide vacant habit direct punch hover screen mammal furnace inquiry";

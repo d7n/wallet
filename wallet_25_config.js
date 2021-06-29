@@ -1,1 +1,1 @@
-var mnemonic = "toddler wealth couple suit stove throw ignore bachelor tide purse vital village";
+var mnemonic = "wing great utility mention boring shiver say rapid finger ask glow vessel";

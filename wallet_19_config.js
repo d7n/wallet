@@ -1,1 +1,1 @@
-var mnemonic = "river assault crunch device cheap cabin awesome slice cross estate viable enough";
+var mnemonic = "tail flash boy phone length obey ankle divorce virtual service leopard then";

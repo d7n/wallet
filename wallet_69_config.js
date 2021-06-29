@@ -1,1 +1,1 @@
-var mnemonic = "rule depend cream surface supreme banner network bean blade matrix tornado brush";
+var mnemonic = "noodle motor innocent pony summer jacket siege broom iron enemy flip defy";

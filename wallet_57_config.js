@@ -1,1 +1,1 @@
-var mnemonic = "donate grape feel midnight toast always virtual era analyst badge faculty text";
+var mnemonic = "invest desert cement mask puppy safe advance glue omit will all neck";

@@ -1,1 +1,1 @@
-var mnemonic = "alley beyond release collect adjust plastic satoshi journey into seed sign member";
+var mnemonic = "health drop repair million swarm shoot film erupt absurd lecture hybrid north";

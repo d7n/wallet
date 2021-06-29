@@ -1,1 +1,1 @@
-var mnemonic = "theme pledge air display master brass shoot angry flip assault sunny infant";
+var mnemonic = "bunker rapid camera fire april castle come duty blue attack gas finish";

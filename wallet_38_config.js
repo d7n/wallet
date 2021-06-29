@@ -1,1 +1,1 @@
-var mnemonic = "item eternal lounge canal garbage faculty siege uphold fix mother tip this";
+var mnemonic = "thunder brush loan canal submit price mix region enforce describe soft faith";

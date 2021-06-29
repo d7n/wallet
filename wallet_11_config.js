@@ -1,1 +1,1 @@
-var mnemonic = "token possible panther bicycle affair imitate old summer regret stock beauty hood";
+var mnemonic = "since spot charge aunt roast woman kitten legal brand title angry stay";

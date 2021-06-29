@@ -1,1 +1,1 @@
-var mnemonic = "arch army advance effort dust envelope away garden sand beyond tourist donkey";
+var mnemonic = "example other inflict exile fragile aim enforce trial real walnut lottery switch";

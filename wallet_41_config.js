@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit february industry wine glad adapt confirm survey loop tongue try combine";
+var mnemonic = "balcony wait place casual anxiety match blast candy lamp thunder wish tattoo";

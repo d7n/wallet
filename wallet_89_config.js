@@ -1,1 +1,1 @@
-var mnemonic = "whale stock gentle ghost type pattern lend above tissue smooth stable cricket";
+var mnemonic = "subject divorce lawsuit survey cloth border suspect shine resource exotic digital extend";

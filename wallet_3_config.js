@@ -1,1 +1,1 @@
-var mnemonic = "pipe friend involve broccoli canyon defy castle cute air modify donate museum";
+var mnemonic = "heavy frog tip wrestle few pupil infant adjust practice surge check purchase";

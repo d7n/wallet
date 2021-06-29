@@ -1,1 +1,1 @@
-var mnemonic = "horse poem gloom save van trial shadow gravity state globe carpet private";
+var mnemonic = "salt they ice marble mechanic squeeze leave caught balcony pear run broom";

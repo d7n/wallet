@@ -1,1 +1,1 @@
-var mnemonic = "syrup relax mesh various treat portion citizen rescue resource love retreat corn";
+var mnemonic = "such output move inquiry viable diary hurdle oblige crumble soap tired garbage";

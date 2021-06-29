@@ -1,1 +1,1 @@
-var mnemonic = "electric cool pause weird dirt fox run april protect shy math army";
+var mnemonic = "crystal hint open web episode myth author derive creek atom process minor";

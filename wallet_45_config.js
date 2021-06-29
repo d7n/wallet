@@ -1,1 +1,1 @@
-var mnemonic = "nut profit famous enrich try ancient must bonus potato swamp nuclear present";
+var mnemonic = "keep knock refuse fruit buddy nest next session ring pattern crunch kid";

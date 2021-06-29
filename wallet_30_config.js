@@ -1,1 +1,1 @@
-var mnemonic = "sting skirt upon lunar marble duty margin buzz pig pig fun logic";
+var mnemonic = "double random metal reflect ask brass abuse stove because clerk matrix involve";

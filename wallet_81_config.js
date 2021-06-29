@@ -1,1 +1,1 @@
-var mnemonic = "coyote airport leisure palm cage abstract frame maple lend best gown prosper";
+var mnemonic = "dinosaur emotion vendor praise degree top siren sign guide chef phone cover";

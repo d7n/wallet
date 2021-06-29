@@ -1,1 +1,1 @@
-var mnemonic = "submit cake ozone champion siren garment monitor great accuse youth short beauty";
+var mnemonic = "stock yellow tumble diamond okay blue salmon grain hand hint motion rival";

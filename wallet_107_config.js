@@ -1,1 +1,1 @@
-var mnemonic = "hundred someone pottery tag seat raven oxygen trick jazz renew save various";
+var mnemonic = "olympic cry top shrug soul design opera unlock pudding brass expire hen";

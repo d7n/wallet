@@ -1,1 +1,1 @@
-var mnemonic = "diagram siege swim chunk kitchen love fossil sense laundry stuff trumpet feed";
+var mnemonic = "act collect build cycle silly wash awful clap supreme unable town magnet";

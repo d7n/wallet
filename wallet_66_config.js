@@ -1,1 +1,1 @@
-var mnemonic = "cherry vanish sudden napkin because avocado trial total trend apology thrive scrap";
+var mnemonic = "bicycle ramp animal shiver zero antenna amateur demand aware neck uncle electric";

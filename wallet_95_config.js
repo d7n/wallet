@@ -1,1 +1,1 @@
-var mnemonic = "wall wheat moral slab live chapter nurse soon more warrior endorse sphere";
+var mnemonic = "prison other badge flag vast quality second believe unhappy priority beef depart";

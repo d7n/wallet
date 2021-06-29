@@ -1,1 +1,1 @@
-var mnemonic = "dwarf skirt tomato fiber again solution stove goose company accident clinic canyon";
+var mnemonic = "meat visual board upset asset boost indoor benefit easily blanket current daring";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder dune color cool diary second thought blur sort foil leave palace";
+var mnemonic = "always market wide fetch term crack market basket tray butter peasant zero";

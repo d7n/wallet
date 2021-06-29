@@ -1,1 +1,1 @@
-var mnemonic = "blur drama expand narrow ramp siren inquiry option cook dinosaur sight pet";
+var mnemonic = "shed rebuild render govern shoulder wrap drill display dust rather trip modify";

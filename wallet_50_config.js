@@ -1,1 +1,1 @@
-var mnemonic = "canoe toss cat action dirt there net material lazy grid genre bounce";
+var mnemonic = "exchange domain palm wall puppy autumn umbrella like dutch quantum keen hen";

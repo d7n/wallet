@@ -1,1 +1,1 @@
-var mnemonic = "talent tent opinion comic child nasty clap purse trade chase aim modify";
+var mnemonic = "field bring mask vocal sign silver menu cruise roof easily ancient crew";

@@ -1,1 +1,1 @@
-var mnemonic = "steel eager country demise keep awkward better door wreck muffin hurt actual";
+var mnemonic = "width merge opera swift way view rural keen void much spider motion";

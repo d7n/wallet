@@ -1,1 +1,1 @@
-var mnemonic = "area lawn wrestle upgrade loop adult pet shoot nuclear section ozone repeat";
+var mnemonic = "waste mass tilt always fox similar addict join month hip rate violin";

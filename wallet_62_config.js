@@ -1,1 +1,1 @@
-var mnemonic = "rough envelope stable space subject begin universe home squirrel strategy steel start";
+var mnemonic = "number genius friend accuse wasp cheese tip nature civil almost link edge";

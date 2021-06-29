@@ -1,1 +1,1 @@
-var mnemonic = "toward feature build plunge power viable below review seek acquire glad arrow";
+var mnemonic = "team enlist foster tunnel name version spare universe large plate crazy dumb";

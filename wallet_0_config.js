@@ -1,1 +1,1 @@
-var mnemonic = "empower rebuild satisfy ozone bag volcano later despair maximum physical sleep jump";
+var mnemonic = "clever crucial guess attract glad coconut palm renew truth arm salt topic";

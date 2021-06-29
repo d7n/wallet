@@ -1,1 +1,1 @@
-var mnemonic = "grace stem vapor globe skin chuckle inspire front raise siren culture shoot";
+var mnemonic = "trim praise finish hazard shaft own point space cash general lonely cement";

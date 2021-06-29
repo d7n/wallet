@@ -1,1 +1,1 @@
-var mnemonic = "own winner cup all okay turkey tired dirt slim loud kidney avoid";
+var mnemonic = "feel dwarf goose feel estate long tell average alarm vendor topple anxiety";

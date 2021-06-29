@@ -1,1 +1,1 @@
-var mnemonic = "dry peanut once income figure dentist strategy blood smile setup unknown gorilla";
+var mnemonic = "spirit border garage demand camp afraid flat survey media boring pottery worth";

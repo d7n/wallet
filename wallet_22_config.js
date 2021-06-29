@@ -1,1 +1,1 @@
-var mnemonic = "jazz business fork energy situate tent goose sense castle bomb rescue glide";
+var mnemonic = "place announce border hurt hill put glide picture same never police together";

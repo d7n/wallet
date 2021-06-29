@@ -1,1 +1,1 @@
-var mnemonic = "volume wink screen load cannon afford tunnel warfare base tissue pull pig";
+var mnemonic = "evil decade dune section nut affair unfold sphere stage traffic palm north";

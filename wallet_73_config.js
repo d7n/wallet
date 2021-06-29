@@ -1,1 +1,1 @@
-var mnemonic = "check grocery hard baby push end want clip fit reduce endless marriage";
+var mnemonic = "put resemble olive nerve wealth consider husband scare blouse will unfair venture";

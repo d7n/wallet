@@ -1,1 +1,1 @@
-var mnemonic = "win guard vast win manual hello van where world estate begin fabric";
+var mnemonic = "wait arrange milk lucky strike thumb blood list rotate attend awake visit";

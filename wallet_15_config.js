@@ -1,1 +1,1 @@
-var mnemonic = "depth motor gap oil include adult venture focus net syrup glass trip";
+var mnemonic = "elevator cannon copy inform outside derive sick behind clock acquire cancel marriage";

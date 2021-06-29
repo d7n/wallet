@@ -1,1 +1,1 @@
-var mnemonic = "source dust flag silk side sense banana camera claw indoor hint note";
+var mnemonic = "pumpkin layer base glow concert chief luxury leisure airport relief aim grain";
