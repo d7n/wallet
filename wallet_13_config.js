@@ -1,1 +1,1 @@
-var mnemonic = "ordinary oil beef cabin fabric true joy slice chapter company sadness average";
+var mnemonic = "beauty expose door inherit hybrid cheese avocado keep make violin road return";

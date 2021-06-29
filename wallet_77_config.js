@@ -1,1 +1,1 @@
-var mnemonic = "small around exotic merry trim stomach consider syrup vanish fault route milk";
+var mnemonic = "buffalo coffee bitter gorilla pizza run dice magic word rough grit explain";

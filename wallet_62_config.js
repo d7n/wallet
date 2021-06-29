@@ -1,1 +1,1 @@
-var mnemonic = "suffer nature raccoon supreme glance mansion tuition device drop pear toast wait";
+var mnemonic = "fatigue away ostrich veteran material acquire practice embody pull achieve humor innocent";

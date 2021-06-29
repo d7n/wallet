@@ -1,1 +1,1 @@
-var mnemonic = "mule asset include sweet cause student awful salmon damage found color daughter";
+var mnemonic = "brother enrich vacant diet suit mad town laundry talent choice firm remind";

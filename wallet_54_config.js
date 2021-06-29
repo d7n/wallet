@@ -1,1 +1,1 @@
-var mnemonic = "reject practice runway what inmate speed top coyote inherit stable wealth panic";
+var mnemonic = "fish woman girl sunset edge give umbrella option size once violin pond";

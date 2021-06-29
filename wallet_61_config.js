@@ -1,1 +1,1 @@
-var mnemonic = "host allow stage edge cheese ordinary solve novel chronic pistol neck say";
+var mnemonic = "hurry demand trade legal blue nurse town coach anger transfer west asthma";

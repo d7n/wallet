@@ -1,1 +1,1 @@
-var mnemonic = "saddle hope resemble object record concert legend obvious dawn vague silent language";
+var mnemonic = "hurry goddess brain author lawn course caution feel nephew used jacket broom";

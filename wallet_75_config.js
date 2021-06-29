@@ -1,1 +1,1 @@
-var mnemonic = "salon rail runway damage raw then ahead claim increase exhaust stand security";
+var mnemonic = "taste desk fly issue helmet print fiscal purchase benefit glory luxury always";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous effort jewel sense industry cousin response pottery mercy rabbit edit day";
+var mnemonic = "brown opera manage ten acid obvious argue catalog erosion wave various famous";

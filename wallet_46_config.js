@@ -1,1 +1,1 @@
-var mnemonic = "catalog update sheriff rebel spring topple expect shaft anxiety clump shove donate";
+var mnemonic = "someone ostrich general code crazy hawk mixed taxi media file guilt ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire rack adult antique month muscle merit kite network beach vast gift";
+var mnemonic = "noise assume notable virus novel limit scissors hair flower autumn sketch bargain";

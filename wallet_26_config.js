@@ -1,1 +1,1 @@
-var mnemonic = "future bulb uncle sad change perfect liar style initial smooth cradle slow";
+var mnemonic = "worry enhance short execute field chapter island hat cabin morning exhaust lift";

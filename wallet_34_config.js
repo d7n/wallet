@@ -1,1 +1,1 @@
-var mnemonic = "gain blur myth lunch praise fiction digital audit reduce slim monster beach";
+var mnemonic = "crime skin country deny hint tell gorilla child oak inspire pave large";

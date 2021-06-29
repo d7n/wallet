@@ -1,1 +1,1 @@
-var mnemonic = "write hard fall behave gospel fix ensure credit embark right edge keen";
+var mnemonic = "client excite obtain summer version taxi clean patrol believe way cash similar";

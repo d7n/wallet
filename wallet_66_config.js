@@ -1,1 +1,1 @@
-var mnemonic = "frozen grunt attitude inmate dawn ginger pole pulp scene talent level brass";
+var mnemonic = "record legal buddy decline bench neutral odor quantum mammal unhappy very submit";

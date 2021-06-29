@@ -1,1 +1,1 @@
-var mnemonic = "bonus ramp ski lucky answer sister popular captain loyal smoke frown search";
+var mnemonic = "whisper nature motor concert tube vehicle warfare spike dinosaur choice pond hurry";

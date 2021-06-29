@@ -1,1 +1,1 @@
-var mnemonic = "romance venture damage bean turkey aunt actual bargain pair pull bomb mail";
+var mnemonic = "pink high faculty hamster sing during hat mansion wrong income burger tree";

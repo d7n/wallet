@@ -1,1 +1,1 @@
-var mnemonic = "lava wife mountain success outdoor settle valley brain vendor area teach index";
+var mnemonic = "stone melt quit bus voice together unfold claw globe sort invest filter";

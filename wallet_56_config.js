@@ -1,1 +1,1 @@
-var mnemonic = "exist recipe bleak rather drip consider crime laugh analyst human hidden aerobic";
+var mnemonic = "hat warm slow lawn attract mechanic drill fantasy whale fiber seek evidence";

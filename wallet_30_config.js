@@ -1,1 +1,1 @@
-var mnemonic = "market gasp collect pitch view notice merry input claw sponsor chapter mimic";
+var mnemonic = "hover caution state obscure section dutch usage bid tent endless announce allow";

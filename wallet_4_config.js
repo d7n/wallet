@@ -1,1 +1,1 @@
-var mnemonic = "crush dutch evidence obey used remain laundry wasp shrug bone crouch material";
+var mnemonic = "escape panel alpha timber phrase miracle fiction rubber faith stuff dog quality";

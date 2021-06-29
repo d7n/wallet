@@ -1,1 +1,1 @@
-var mnemonic = "stable language perfect wolf scrub toward into among divorce cabin cost future";
+var mnemonic = "monkey country dwarf shiver quarter can keep demand able crawl machine now";

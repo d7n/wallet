@@ -1,1 +1,1 @@
-var mnemonic = "maze cannon bonus voice fitness portion hill aerobic museum correct abandon jelly";
+var mnemonic = "network dice damage input album ask crowd else pipe drive blast maze";

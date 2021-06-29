@@ -1,1 +1,1 @@
-var mnemonic = "search narrow review mammal army unusual lamp judge cover suffer absorb hobby";
+var mnemonic = "affair begin manual distance jungle decrease noise absent congress galaxy elbow hamster";

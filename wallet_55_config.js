@@ -1,1 +1,1 @@
-var mnemonic = "soon illness mask swallow elevator gaze inquiry split frown miracle joy hour";
+var mnemonic = "agree worry source fresh force review whisper trick elder sweet wreck chimney";

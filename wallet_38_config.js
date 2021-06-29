@@ -1,1 +1,1 @@
-var mnemonic = "foam actor have answer garden barrel there love glow doll drip sponsor";
+var mnemonic = "symptom shield burden describe accident sudden rifle shop ranch victory pupil wash";

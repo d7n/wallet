@@ -1,1 +1,1 @@
-var mnemonic = "dragon nation hurry never live inform flash bring mouse exact manage right";
+var mnemonic = "stuff wing purchase bleak medal sponsor tide post bomb degree riot exit";

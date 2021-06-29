@@ -1,1 +1,1 @@
-var mnemonic = "shoulder exist grunt orange stand vocal cake change stuff section feel gasp";
+var mnemonic = "tissue broken fix palace amused distance fun nephew web vibrant smile vanish";

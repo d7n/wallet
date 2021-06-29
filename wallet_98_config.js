@@ -1,1 +1,1 @@
-var mnemonic = "laundry mango clarify play mobile salad heart remove raise cargo winner soap";
+var mnemonic = "forward segment legend door powder powder index dad merry fitness surge valve";

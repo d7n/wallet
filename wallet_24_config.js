@@ -1,1 +1,1 @@
-var mnemonic = "tone evil alarm cereal report volume nose eye delay business plate prison";
+var mnemonic = "mixed stairs another arrange guitar sketch slot people bargain struggle flag crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "final tourist tortoise decade stock skate match bid knife glimpse charge solar";
+var mnemonic = "paper already dice honey primary hedgehog baby rack top elite high oppose";

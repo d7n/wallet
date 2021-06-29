@@ -1,1 +1,1 @@
-var mnemonic = "flip since run famous group slim tree agree lunch abandon civil palace";
+var mnemonic = "mimic crawl wire grit crane annual sudden digital deliver never include venture";

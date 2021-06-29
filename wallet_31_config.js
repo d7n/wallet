@@ -1,1 +1,1 @@
-var mnemonic = "pony perfect option hint hundred winter exhibit swamp broom tape ecology post";
+var mnemonic = "nothing joke reunion country topple old pizza mean general dress donor pair";

@@ -1,1 +1,1 @@
-var mnemonic = "garden rain piano doll claim runway any shoe crazy hood dinosaur kit";
+var mnemonic = "shoe crazy vital document settle monster escape idle chuckle visit sphere scatter";

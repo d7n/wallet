@@ -1,1 +1,1 @@
-var mnemonic = "devote normal reflect erode wide crisp brick nephew tongue tired jaguar six";
+var mnemonic = "quantum impose deliver brave drive diet trash flip ticket enable win lemon";

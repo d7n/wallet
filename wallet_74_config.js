@@ -1,1 +1,1 @@
-var mnemonic = "next worry hazard nest begin tornado club rude gate beyond exile width";
+var mnemonic = "polar exhibit debris correct slot side emotion easy eyebrow across sock area";

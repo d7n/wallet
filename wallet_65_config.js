@@ -1,1 +1,1 @@
-var mnemonic = "indoor cross turkey deer cube flag flavor inject doll motor couch hurry";
+var mnemonic = "number electric desk confirm cash energy vocal piano female actual vicious stock";

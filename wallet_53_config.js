@@ -1,1 +1,1 @@
-var mnemonic = "trouble cluster butter cover render barely piece curtain lion invite meadow various";
+var mnemonic = "possible book script absorb gaze genuine scissors tray notice enact kidney remind";

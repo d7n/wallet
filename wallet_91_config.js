@@ -1,1 +1,1 @@
-var mnemonic = "issue urge refuse hobby online gallery reject scrap powder ready drink company";
+var mnemonic = "nasty crop pink bicycle electric arrange spider start whisper slush swim faith";

@@ -1,1 +1,1 @@
-var mnemonic = "final enter outdoor bring purity credit reject scan hybrid mansion brave lounge";
+var mnemonic = "announce crush material must pudding game caught juice glass bounce behave fatigue";

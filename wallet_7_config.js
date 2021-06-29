@@ -1,1 +1,1 @@
-var mnemonic = "festival walk spy canvas bullet sibling depth media chuckle cotton afraid slush";
+var mnemonic = "evoke shallow kangaroo critic sudden tip ship judge suggest swallow banner organ";

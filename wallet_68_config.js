@@ -1,1 +1,1 @@
-var mnemonic = "arrange tank portion essence uniform labor paddle fork cram problem fan pupil";
+var mnemonic = "laugh place rotate child oblige indoor when apple fortune real universe host";

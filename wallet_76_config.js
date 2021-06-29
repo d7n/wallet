@@ -1,1 +1,1 @@
-var mnemonic = "corn aisle shiver inner garden giraffe banner mix myself domain zoo edit";
+var mnemonic = "force ritual decline ride fashion midnight cream flee enforce juice actress energy";

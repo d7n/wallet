@@ -1,1 +1,1 @@
-var mnemonic = "fence charge burden unusual fox tell make elevator one clerk protect tunnel";
+var mnemonic = "you bone arrow pact auction devote harvest robust canyon okay have tuna";

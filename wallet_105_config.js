@@ -1,1 +1,1 @@
-var mnemonic = "glue modify pledge seminar mad property mention smoke canyon wedding beyond want";
+var mnemonic = "mail almost dinner utility october segment call spoil desert also chronic crazy";

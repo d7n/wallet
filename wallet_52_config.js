@@ -1,1 +1,1 @@
-var mnemonic = "spring whisper pig blouse shove music unique repair isolate always vapor deny";
+var mnemonic = "spawn slab once census penalty prize erupt tree hollow ordinary squeeze coconut";

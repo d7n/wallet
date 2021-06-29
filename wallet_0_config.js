@@ -1,1 +1,1 @@
-var mnemonic = "cost enable fantasy aim electric guard trigger main start clip canyon glare";
+var mnemonic = "way cricket collect sleep weird insane pelican card guard trial addict soldier";

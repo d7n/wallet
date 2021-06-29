@@ -1,1 +1,1 @@
-var mnemonic = "seek clever quote ball syrup ride gravity drift brisk shy spell aware";
+var mnemonic = "warm design circle brave shove custom input struggle lift message diesel purpose";

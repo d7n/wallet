@@ -1,1 +1,1 @@
-var mnemonic = "couch topic wreck poet soda runway lift warfare track pass lizard reunion";
+var mnemonic = "chalk anger simple usual picnic slab lunar comfort portion napkin piano elite";

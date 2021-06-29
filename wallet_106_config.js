@@ -1,1 +1,1 @@
-var mnemonic = "expire help search danger stairs saddle nominee item decline mushroom federal seminar";
+var mnemonic = "rally library lawsuit adult boy fine leg trust finish meat token tornado";

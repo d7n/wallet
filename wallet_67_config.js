@@ -1,1 +1,1 @@
-var mnemonic = "van shine buyer random nothing twelve session flip anchor brand also key";
+var mnemonic = "daring sibling bundle grab wise hundred choose december snow hello mosquito type";

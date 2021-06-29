@@ -1,1 +1,1 @@
-var mnemonic = "glad mention become reform brother antenna depend skate beach gown cargo enact";
+var mnemonic = "play project page zoo method drink easily trade belt erase report harsh";

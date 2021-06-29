@@ -1,1 +1,1 @@
-var mnemonic = "uncover service sense cargo exact toy wage own female matrix oppose kitchen";
+var mnemonic = "smooth cannon penalty faith hood citizen ripple banner feature erupt pony obtain";

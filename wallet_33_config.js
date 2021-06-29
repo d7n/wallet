@@ -1,1 +1,1 @@
-var mnemonic = "add moment village sleep forward seek insane ordinary olive extra please alien";
+var mnemonic = "elephant oval rapid spell network suggest control situate unveil verb trouble cliff";

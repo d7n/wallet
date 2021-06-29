@@ -1,1 +1,1 @@
-var mnemonic = "hip vast assault pond pole stable muscle math winter release hire win";
+var mnemonic = "because worry art step scout flee update auction detect eyebrow gadget hurry";

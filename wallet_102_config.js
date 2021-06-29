@@ -1,1 +1,1 @@
-var mnemonic = "foam deal equal group give oval unable swarm duty motion field expose";
+var mnemonic = "cry chaos ice shop garbage adjust license genius gun prefer rigid merit";

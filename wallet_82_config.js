@@ -1,1 +1,1 @@
-var mnemonic = "effort patient unfold emerge faith awake illegal trash asset gaze run flock";
+var mnemonic = "credit sea pole shrug limit lawn happy august save skirt thank hazard";

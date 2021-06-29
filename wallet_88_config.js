@@ -1,1 +1,1 @@
-var mnemonic = "hungry owner duty someone uphold fold spray ten annual replace talk analyst";
+var mnemonic = "blur lizard burden chicken artist monster boil album party equal rookie lucky";

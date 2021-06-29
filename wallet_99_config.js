@@ -1,1 +1,1 @@
-var mnemonic = "ocean load boy honey exhaust fluid favorite total wreck resemble hen year";
+var mnemonic = "liberty machine office mansion beyond height rose gauge ceiling enjoy shiver casual";

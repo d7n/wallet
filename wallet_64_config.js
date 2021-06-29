@@ -1,1 +1,1 @@
-var mnemonic = "tortoise forward cross myth dice peasant sudden eagle virus seat fence unknown";
+var mnemonic = "spirit wool ticket trigger diary sea entry save razor expand unaware pottery";

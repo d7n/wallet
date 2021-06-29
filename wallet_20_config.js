@@ -1,1 +1,1 @@
-var mnemonic = "insect laundry prison iron uphold brisk village pipe mushroom twice name online";
+var mnemonic = "plug build cliff scare forward maximum easy indicate air excuse february address";

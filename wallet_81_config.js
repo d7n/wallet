@@ -1,1 +1,1 @@
-var mnemonic = "vague grant twice pilot unable change act source shell subject craft mechanic";
+var mnemonic = "jazz reward census emotion loop bottom machine blue bread wrap brother check";

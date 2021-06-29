@@ -1,1 +1,1 @@
-var mnemonic = "purchase dune marble lady hold wear sail tail friend minute client mutual";
+var mnemonic = "keen crime outer divide message cotton fat lizard snap glad parade tobacco";

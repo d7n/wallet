@@ -1,1 +1,1 @@
-var mnemonic = "doctor filter session develop endorse bread setup balance grief immune truth inmate";
+var mnemonic = "antique report clap like switch olympic include maid near wasp frozen spoil";

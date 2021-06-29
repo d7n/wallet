@@ -1,1 +1,1 @@
-var mnemonic = "pond goat beyond decorate law fatal clock excite say pepper that actress";
+var mnemonic = "company basic grape sauce inquiry magnet squirrel surge mention labor lottery stamp";

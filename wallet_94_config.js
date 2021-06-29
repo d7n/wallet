@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow spend omit typical analyst high service never child race mule curtain";
+var mnemonic = "actress oil transfer type brush jacket entry member blur flock vivid improve";

@@ -1,1 +1,1 @@
-var mnemonic = "setup capable hard because goddess trend sick oak used fresh inquiry liquid";
+var mnemonic = "away eager true apple suggest version mandate pave staff method face brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "crew steak recycle blue fatigue fringe crack inflict globe box abuse alarm";
+var mnemonic = "pyramid middle gather jungle peasant race lizard danger firm century forest detail";

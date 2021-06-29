@@ -1,1 +1,1 @@
-var mnemonic = "guitar bundle grace weasel absorb behave armed hub bomb acquire gallery decide";
+var mnemonic = "chest model twice increase split alien worry rebel fine bamboo leopard repeat";

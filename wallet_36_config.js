@@ -1,1 +1,1 @@
-var mnemonic = "riot please addict luggage daring firm error maid spot jacket venture dumb";
+var mnemonic = "rail gloom all crunch icon tobacco exclude theory blur gravity normal repeat";

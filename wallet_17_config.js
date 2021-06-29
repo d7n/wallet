@@ -1,1 +1,1 @@
-var mnemonic = "ribbon prosper aspect torch evidence bean place mixed toe weekend donate code";
+var mnemonic = "garlic favorite sight cup best stand voyage bargain tornado target teach render";

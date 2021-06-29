@@ -1,1 +1,1 @@
-var mnemonic = "strong web cricket library giraffe combine inch click used onion armed true";
+var mnemonic = "deer duck open food desk spice atom true tide injury leave present";

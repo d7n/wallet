@@ -1,1 +1,1 @@
-var mnemonic = "spring number device glow snake century cart accuse faculty title clever leopard";
+var mnemonic = "deliver rhythm craft electric unlock clap artefact patrol merge family improve waste";

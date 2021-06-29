@@ -1,1 +1,1 @@
-var mnemonic = "involve choice matrix sure father engage fun penalty celery milk swap subway";
+var mnemonic = "tiger crack hobby shift wear wealth enhance hire dinner adapt wolf motion";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise chuckle negative nurse much glare require pepper hand supreme raccoon act";
+var mnemonic = "keep silent earth kiss fortune drip silent place index embrace idle alarm";

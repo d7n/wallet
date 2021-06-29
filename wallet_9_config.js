@@ -1,1 +1,1 @@
-var mnemonic = "seat leader exclude yellow train auto thunder rule diet together shiver ladder";
+var mnemonic = "alone piano tower direct almost biology today razor food forum disorder swift";

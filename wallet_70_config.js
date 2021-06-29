@@ -1,1 +1,1 @@
-var mnemonic = "man raise gas room wrist position marriage flash spike supreme predict review";
+var mnemonic = "glow dutch plunge neglect artwork bean jar flip vote sea change desert";

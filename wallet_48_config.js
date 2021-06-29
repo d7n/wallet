@@ -1,1 +1,1 @@
-var mnemonic = "soul nature salute summer verb friend grape tone gift release winter result";
+var mnemonic = "sun cave flush oppose bitter glue rotate symbol maid convince stable patient";

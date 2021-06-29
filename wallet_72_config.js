@@ -1,1 +1,1 @@
-var mnemonic = "one universe tonight angle say close risk patient stumble prison sense twin";
+var mnemonic = "velvet actress miss snap void toddler skirt burger polar response negative property";

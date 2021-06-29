@@ -1,1 +1,1 @@
-var mnemonic = "ice hungry same mandate hire enough story exercise wing damp family sniff";
+var mnemonic = "notice loud draw trumpet final sauce hawk code video outdoor okay frog";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue vacant used cricket couple insect lion promote chef credit inner pumpkin";
+var mnemonic = "track blast hello hazard drastic panda inmate absurd egg athlete vessel demand";

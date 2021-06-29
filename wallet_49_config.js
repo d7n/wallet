@@ -1,1 +1,1 @@
-var mnemonic = "uncle race ranch today electric gaze fine diet inflict lyrics brave blush";
+var mnemonic = "black talk since wealth barrel rule private expand note catch special egg";

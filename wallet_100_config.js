@@ -1,1 +1,1 @@
-var mnemonic = "visa end fragile hobby pitch twin elephant split air accident health trash";
+var mnemonic = "lottery way like lesson economy abandon else industry long crumble only energy";

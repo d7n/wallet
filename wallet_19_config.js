@@ -1,1 +1,1 @@
-var mnemonic = "chest hospital danger limb hedgehog stock slab chuckle party vendor gate obscure";
+var mnemonic = "inhale pen tiger pottery speak cloth pact once seven tuition label paper";

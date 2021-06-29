@@ -1,1 +1,1 @@
-var mnemonic = "bless engine ill draft road copy sketch bird later comic family mixed";
+var mnemonic = "element drill zone impulse assist heart stamp shallow chimney thank flush adjust";

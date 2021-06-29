@@ -1,1 +1,1 @@
-var mnemonic = "alley high wool trim wheel cattle globe spider annual copper talk trick";
+var mnemonic = "project grace boy aisle field echo suffer marine eager cheap noble diagram";

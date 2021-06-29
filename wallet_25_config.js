@@ -1,1 +1,1 @@
-var mnemonic = "gaze before address flag want ability slice venue image fury idle bacon";
+var mnemonic = "doctor laundry blame spell labor energy leisure print people swap october delay";

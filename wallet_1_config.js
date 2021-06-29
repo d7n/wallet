@@ -1,1 +1,1 @@
-var mnemonic = "also fix add brisk plunge bread glow jungle announce cart vapor dash";
+var mnemonic = "swarm ranch genuine knife armed public tone despair novel nuclear gentle muscle";

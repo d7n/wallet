@@ -1,1 +1,1 @@
-var mnemonic = "life hospital idea equip wagon little help runway depth lazy endless tail";
+var mnemonic = "athlete arrest forest short ginger census update bar pond clutch light answer";

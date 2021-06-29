@@ -1,1 +1,1 @@
-var mnemonic = "intact found flight share saddle basic man myself position heavy rival stomach";
+var mnemonic = "crystal door impact use palm crater destroy message ritual list unlock quick";

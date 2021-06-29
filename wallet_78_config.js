@@ -1,1 +1,1 @@
-var mnemonic = "vague fame pear antenna top pottery drastic limb bread auction swim merit";
+var mnemonic = "excuse gate idea purse comic fan slow suit vicious tuna smooth volume";

@@ -1,1 +1,1 @@
-var mnemonic = "grace wisdom lumber coil physical town milk soda gossip body oppose gas";
+var mnemonic = "foil demand patch primary cage clarify random vocal idle lumber float digital";

@@ -1,1 +1,1 @@
-var mnemonic = "debris comic express wrong vault clean travel indicate great insane magnet jump";
+var mnemonic = "double any match lend always uncle extra mammal mail cereal music torch";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise truck laptop brother behind breeze gown talk adapt segment project tent";
+var mnemonic = "mass romance piece vibrant poverty device discover heavy coast display coyote early";

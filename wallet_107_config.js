@@ -1,1 +1,1 @@
-var mnemonic = "vessel weapon silk clog mass frame shine south weekend layer isolate way";
+var mnemonic = "grow until silent glow hip gallery blood salad inhale account mosquito pelican";
