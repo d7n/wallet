@@ -1,1 +1,1 @@
-var mnemonic = "hope outer demise dust trust host core view hold piano slight you";
+var mnemonic = "churn ring idle distance three hotel when plunge ring news then ribbon";

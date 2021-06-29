@@ -1,1 +1,1 @@
-var mnemonic = "owner car cigar joy domain grief chest mule enroll consider winter crystal";
+var mnemonic = "ankle dune roof winner update trim churn donor rapid peanut ripple galaxy";

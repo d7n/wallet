@@ -1,1 +1,1 @@
-var mnemonic = "method keep embrace prize valley letter detail jaguar illegal turn wisdom tomato";
+var mnemonic = "road suggest always retreat credit become head wedding army skirt horror they";

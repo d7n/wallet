@@ -1,1 +1,1 @@
-var mnemonic = "trend foil rice cattle recipe raven around infant term dice fortune sustain";
+var mnemonic = "caught coil earn among auto vehicle object patch already fashion speak angle";

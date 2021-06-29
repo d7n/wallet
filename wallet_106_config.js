@@ -1,1 +1,1 @@
-var mnemonic = "orbit monkey library oblige work smoke swamp lazy vacant real rhythm exile";
+var mnemonic = "foam screen coyote recycle void borrow wave busy tomorrow pottery nest sponsor";

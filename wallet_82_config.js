@@ -1,1 +1,1 @@
-var mnemonic = "tell blanket print paddle rely wide enough awesome oven artist ski debate";
+var mnemonic = "frozen rare small crane weapon rail play orchard reason episode thumb train";

@@ -1,1 +1,1 @@
-var mnemonic = "leader code equal patrol jazz once add spoil seek noble midnight garment";
+var mnemonic = "unit good bomb dragon result rich weird kind slight canyon foot useless";

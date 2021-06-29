@@ -1,1 +1,1 @@
-var mnemonic = "allow wheat family chef scatter identify burden suggest network suffer govern thought";
+var mnemonic = "response glue sibling among reduce sing famous people news fire donkey leader";

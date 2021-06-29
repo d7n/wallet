@@ -1,1 +1,1 @@
-var mnemonic = "wheel ill settle west route staff clump curve hungry cry tray angle";
+var mnemonic = "expand damp opera radar abandon visa obtain gas wrestle fragile post option";

@@ -1,1 +1,1 @@
-var mnemonic = "castle obvious sauce sponsor beauty easy math pipe poverty bread auction draft";
+var mnemonic = "element purpose rare drastic oak deny lecture inside charge duty render brave";

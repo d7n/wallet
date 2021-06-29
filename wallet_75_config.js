@@ -1,1 +1,1 @@
-var mnemonic = "member smoke tiger laundry air apart avoid kitten beach right victory broken";
+var mnemonic = "fancy cruise citizen license air size voice duty bid rival marriage proof";

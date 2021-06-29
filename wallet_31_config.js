@@ -1,1 +1,1 @@
-var mnemonic = "speak meat bullet hole unhappy beach proof sweet manage author record thumb";
+var mnemonic = "hint blind company stage mail kingdom blood circle outer butter plate wheel";

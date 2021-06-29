@@ -1,1 +1,1 @@
-var mnemonic = "deputy resemble elephant must rebel pilot slight pelican law surround improve west";
+var mnemonic = "midnight doctor layer soup zoo peanut elephant save erase notable fiscal enemy";

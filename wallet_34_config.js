@@ -1,1 +1,1 @@
-var mnemonic = "melt margin region fame width loop teach inherit first purpose all subject";
+var mnemonic = "aerobic expect wish large dress title betray atom next tip east brown";

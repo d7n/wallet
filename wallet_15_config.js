@@ -1,1 +1,1 @@
-var mnemonic = "dog gravity bleak seven tide job sustain sound jazz lawsuit oxygen festival";
+var mnemonic = "usual cube honey public brief around learn chronic torch monster debate head";

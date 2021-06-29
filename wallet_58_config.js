@@ -1,1 +1,1 @@
-var mnemonic = "oil include entire east burger indoor kiwi pair exclude hire repeat manual";
+var mnemonic = "wagon dream eager buddy coral fun gravity swear capable glass step broccoli";

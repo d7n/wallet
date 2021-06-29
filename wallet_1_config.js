@@ -1,1 +1,1 @@
-var mnemonic = "merit fall violin cream art suffer under stock hockey renew edge advice";
+var mnemonic = "champion exile hobby track casual urban mix tape mule garden jar develop";

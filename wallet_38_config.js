@@ -1,1 +1,1 @@
-var mnemonic = "fiscal post harvest party divide snake undo party peasant mango work fine";
+var mnemonic = "original junior cycle lonely inhale park inquiry deputy recall spray trend fire";

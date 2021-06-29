@@ -1,1 +1,1 @@
-var mnemonic = "brief inject trade topic uphold version banner close liquid spin eyebrow rival";
+var mnemonic = "flame honey mansion asset left alert fuel cup filter dawn goddess flower";

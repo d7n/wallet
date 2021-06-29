@@ -1,1 +1,1 @@
-var mnemonic = "south spike ahead usual govern rice obvious any spray build sad puppy";
+var mnemonic = "traffic bright rug render page worth sad banner attack text raven total";

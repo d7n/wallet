@@ -1,1 +1,1 @@
-var mnemonic = "process donate term guess library embark minute unaware bonus broken drip payment";
+var mnemonic = "artwork clap peanut photo over fault air scorpion poem cool rough boring";

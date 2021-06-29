@@ -1,1 +1,1 @@
-var mnemonic = "shove warfare various bird erase creek dash tiger phone lock hungry churn";
+var mnemonic = "note beach build decrease pretty abuse fade industry theme decorate network offer";

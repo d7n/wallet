@@ -1,1 +1,1 @@
-var mnemonic = "hub depart parrot scare much seven source meadow dad always thing reunion";
+var mnemonic = "traffic labor office notable soft brush erupt mixed large shrimp quantum evoke";

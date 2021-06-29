@@ -1,1 +1,1 @@
-var mnemonic = "flee ticket april thank make grit update letter trap indoor wine monster";
+var mnemonic = "suggest idle embody subway west noise hotel rapid kangaroo nominee dial weird";

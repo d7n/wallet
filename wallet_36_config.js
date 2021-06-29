@@ -1,1 +1,1 @@
-var mnemonic = "combine ankle clump uphold theme orange clean jewel loud hat leaf ridge";
+var mnemonic = "peanut motion pet flag farm please rare patch cancel bounce oval message";

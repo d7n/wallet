@@ -1,1 +1,1 @@
-var mnemonic = "circle hospital category shock hat menu knife potato finger salute swap ecology";
+var mnemonic = "fashion figure engage call visit spider else smile calm track pony budget";

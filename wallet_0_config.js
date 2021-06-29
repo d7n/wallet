@@ -1,1 +1,1 @@
-var mnemonic = "vague need foil base buffalo submit window believe traffic elbow top item";
+var mnemonic = "slam ugly trap rare direct flock myth slight love industry boy sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "they blind error copper tribe magnet wood turn spoon velvet verb girl";
+var mnemonic = "outside they fork mistake tower social push slim render crack icon lounge";

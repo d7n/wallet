@@ -1,1 +1,1 @@
-var mnemonic = "license diesel next someone slot sunset goose aunt exit mansion vapor proud";
+var mnemonic = "tide ticket lift ramp lottery tag behind shrug fancy sugar bacon spray";

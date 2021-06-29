@@ -1,1 +1,1 @@
-var mnemonic = "brush approve globe bone tag fold online online reward allow cousin stomach";
+var mnemonic = "drastic blue spell ocean emotion bonus february hawk depth soap giant blame";

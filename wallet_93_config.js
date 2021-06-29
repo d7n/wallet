@@ -1,1 +1,1 @@
-var mnemonic = "february embark cool citizen shoot inject cost tilt snack volcano sock phone";
+var mnemonic = "april execute expose burden rabbit trim shield normal entry labor scrub can";

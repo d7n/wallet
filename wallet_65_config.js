@@ -1,1 +1,1 @@
-var mnemonic = "deputy try true tenant lazy whale kangaroo travel radar cash movie barely";
+var mnemonic = "dragon sea ghost cabbage canoe spend boss deny shaft label evidence detect";

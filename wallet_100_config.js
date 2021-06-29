@@ -1,1 +1,1 @@
-var mnemonic = "blood frozen swarm fever asset shed loan salon famous educate wait wood";
+var mnemonic = "same fetch same toast pitch remove pride receive live walnut best tonight";

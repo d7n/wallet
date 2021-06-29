@@ -1,1 +1,1 @@
-var mnemonic = "purchase matter post blame unknown start venture south nominee venture pipe peanut";
+var mnemonic = "vital spring kid vintage note bread tent adapt brother any symptom plug";

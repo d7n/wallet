@@ -1,1 +1,1 @@
-var mnemonic = "course submit beach service twin warfare enjoy gaze traffic filter such cushion";
+var mnemonic = "bar deliver unit cereal muffin tube symbol situate sort butter debris alarm";

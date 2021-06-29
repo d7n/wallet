@@ -1,1 +1,1 @@
-var mnemonic = "sport trust feel gloom vicious abandon ensure fine enact enemy glow survey";
+var mnemonic = "giant sweet steak record celery wing economy subject subway clean face antique";

@@ -1,1 +1,1 @@
-var mnemonic = "surround repeat idea arctic noodle false casino scrub bundle island chief basic";
+var mnemonic = "record leaf book harsh benefit comic trial prefer street bargain blanket close";

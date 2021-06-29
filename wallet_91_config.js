@@ -1,1 +1,1 @@
-var mnemonic = "vital mixed tide company claw same ankle regular way pull oil physical";
+var mnemonic = "panda exit victory dad guilt fever mind luggage ship barely feed whale";

@@ -1,1 +1,1 @@
-var mnemonic = "minute decrease gym hover maple horn cotton replace mixture bicycle nut true";
+var mnemonic = "child lawn next knock carpet reward tuition shoe angry demise winner onion";

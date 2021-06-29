@@ -1,1 +1,1 @@
-var mnemonic = "east muscle switch useful ticket suffer skill cannon noodle isolate unusual renew";
+var mnemonic = "deer rural oxygen song smile vacant fade jazz spread load enforce gesture";

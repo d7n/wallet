@@ -1,1 +1,1 @@
-var mnemonic = "curtain accident scan nothing elegant random image manage toe main mechanic series";
+var mnemonic = "farm casino blue matter capable raise huge cargo manual exotic suggest fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger witness machine brick catch victory round flame blue sign lunch now";
+var mnemonic = "basic bundle alcohol manage sponsor discover sustain upper chalk thing old cycle";

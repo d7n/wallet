@@ -1,1 +1,1 @@
-var mnemonic = "isolate blur seat energy jewel derive quick cash minimum cable oppose moon";
+var mnemonic = "find churn latin dumb actor into wing during resemble senior tomorrow still";

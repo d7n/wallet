@@ -1,1 +1,1 @@
-var mnemonic = "bracket sing merge spread spare deny seven dutch muffin capital join input";
+var mnemonic = "price arctic glimpse tattoo chalk unfair swamp adjust session napkin timber bar";

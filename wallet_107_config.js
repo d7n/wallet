@@ -1,1 +1,1 @@
-var mnemonic = "grab panther penalty notable any antique connect grab case town green gloom";
+var mnemonic = "weekend amazing base clay ranch blood twin love access between today traffic";

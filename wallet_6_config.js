@@ -1,1 +1,1 @@
-var mnemonic = "age trumpet slot since tilt spoil coin fashion pig pink lonely eager";
+var mnemonic = "soul wage acquire turkey sock sign sight fiscal net cricket silver sustain";

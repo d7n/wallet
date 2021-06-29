@@ -1,1 +1,1 @@
-var mnemonic = "strike trumpet boost pave great sell verify prison host loan dragon viable";
+var mnemonic = "tank fun ten dynamic volcano truck upset anxiety common unusual defense sample";

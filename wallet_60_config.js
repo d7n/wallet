@@ -1,1 +1,1 @@
-var mnemonic = "inherit stage radio shop prefer barely era unfold surface kiwi rhythm wink";
+var mnemonic = "kidney dove include fault taste race erase wedding fashion food roast village";

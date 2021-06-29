@@ -1,1 +1,1 @@
-var mnemonic = "moral bundle sibling bundle access salon raw yard fabric swing pact gallery";
+var mnemonic = "damage humble depth inspire nice hollow trophy panel front level lazy art";

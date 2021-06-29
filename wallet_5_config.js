@@ -1,1 +1,1 @@
-var mnemonic = "library need aware example burden safe explain drum arrow gauge sort leader";
+var mnemonic = "roast bullet badge endless someone ivory busy earth spot scrap misery rare";

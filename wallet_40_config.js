@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow bless original primary undo sing mixture cherry visual jealous butter shrug";
+var mnemonic = "critic rib domain cage hood trap leave popular very demand solve pride";

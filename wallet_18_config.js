@@ -1,1 +1,1 @@
-var mnemonic = "loud spot emerge diesel inform mouse educate estate orient run wheel output";
+var mnemonic = "curious flat silk leisure collect detect lottery alarm cage oblige labor concert";

@@ -1,1 +1,1 @@
-var mnemonic = "famous awful rule cake kite left answer worth battle today stage donate";
+var mnemonic = "gaze siege firm hub early deal grow clown shed defense depart escape";

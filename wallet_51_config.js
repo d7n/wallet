@@ -1,1 +1,1 @@
-var mnemonic = "chaos expose cable deal assume earth apart salmon snake coin often image";
+var mnemonic = "stairs mail warrior example canal swim escape shell office retire stand hollow";

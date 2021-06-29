@@ -1,1 +1,1 @@
-var mnemonic = "patrol virus nest exotic siren palm crisp tail master payment acid elder";
+var mnemonic = "pet table cliff gather vacuum cliff awful deputy mean tunnel rocket ship";

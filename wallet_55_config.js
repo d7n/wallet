@@ -1,1 +1,1 @@
-var mnemonic = "live slush robot deal husband fun vault noble family cotton test drip";
+var mnemonic = "sign two cycle title funny ensure attract gauge stool scout glare change";

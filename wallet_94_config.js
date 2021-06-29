@@ -1,1 +1,1 @@
-var mnemonic = "bean inspire athlete sister click tortoise post umbrella buffalo south smooth method";
+var mnemonic = "arrest cloth net lion weasel bamboo bid cancel tide audit stadium inside";

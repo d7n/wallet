@@ -1,1 +1,1 @@
-var mnemonic = "flat list rice business urban weasel system cute because meadow fatigue sick";
+var mnemonic = "jeans strike found chair purpose barrel upset plunge hover casual broom chef";

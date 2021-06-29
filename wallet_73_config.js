@@ -1,1 +1,1 @@
-var mnemonic = "heavy coil dune lock story lecture invite mammal tree civil stock brass";
+var mnemonic = "area poet cactus valley calm explain daring pen opinion dawn sphere few";

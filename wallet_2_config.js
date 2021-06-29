@@ -1,1 +1,1 @@
-var mnemonic = "degree display attack hair profit glow excuse profit mule train hockey coconut";
+var mnemonic = "delay apple affair noise stone gather cat pumpkin coach talk nature power";

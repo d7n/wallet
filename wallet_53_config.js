@@ -1,1 +1,1 @@
-var mnemonic = "fatal tonight truck peasant seed source domain creek wear subway stadium horn";
+var mnemonic = "below scissors icon typical army chat effort portion digital diary humor tourist";

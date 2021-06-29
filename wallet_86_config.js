@@ -1,1 +1,1 @@
-var mnemonic = "farm run dentist scrap hip repeat lend fiscal toss caution fence able";
+var mnemonic = "chapter elegant boss token omit gossip say defense select accuse ugly amused";

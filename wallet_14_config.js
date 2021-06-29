@@ -1,1 +1,1 @@
-var mnemonic = "such motion foot opera fame bronze champion evolve machine bronze object decrease";
+var mnemonic = "find ugly leaf swift safe badge chair tomato nothing coconut supreme best";

@@ -1,1 +1,1 @@
-var mnemonic = "number order abstract list retire arm trend live panel ensure muscle divorce";
+var mnemonic = "direct try matrix across mad forward educate fall lumber sketch movie shop";

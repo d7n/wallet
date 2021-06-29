@@ -1,1 +1,1 @@
-var mnemonic = "ridge eager beef grab repeat shove tired champion cram glad amount rival";
+var mnemonic = "chuckle major rabbit pepper web leader warrior kid chase damp cave suggest";

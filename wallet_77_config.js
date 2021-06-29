@@ -1,1 +1,1 @@
-var mnemonic = "dignity alcohol have walk muscle resemble public tissue utility enjoy muscle vapor";
+var mnemonic = "prefer alert drill cricket resource normal team asthma install scheme arctic wink";

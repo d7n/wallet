@@ -1,1 +1,1 @@
-var mnemonic = "vast swamp term execute benefit earth negative sugar dose permit radio real";
+var mnemonic = "crisp ill giant protect fault timber girl scorpion timber priority angle skin";

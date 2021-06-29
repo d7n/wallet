@@ -1,1 +1,1 @@
-var mnemonic = "elder grant nominee rapid tonight error noodle same long trap giraffe useless";
+var mnemonic = "wonder blast roast blast poem reveal smile lens middle infant calm hospital";

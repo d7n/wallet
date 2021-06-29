@@ -1,1 +1,1 @@
-var mnemonic = "soldier arch push glide business edge cinnamon laptop rhythm involve punch stuff";
+var mnemonic = "cycle hair oil improve stone borrow accident chicken cycle aisle gallery crack";

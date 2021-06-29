@@ -1,1 +1,1 @@
-var mnemonic = "pole small nephew business swift confirm never protect trumpet apology fork aisle";
+var mnemonic = "conduct laundry unhappy burger clinic pigeon mushroom toy pitch street run general";

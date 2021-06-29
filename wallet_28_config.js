@@ -1,1 +1,1 @@
-var mnemonic = "sketch runway property moral three enough beauty consider again earn brand ten";
+var mnemonic = "unfair tool right worry arch struggle ripple pool laptop practice chat patient";

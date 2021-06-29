@@ -1,1 +1,1 @@
-var mnemonic = "estate flame truth usage pottery zebra undo sustain whale orange merge pool";
+var mnemonic = "steak alien another grass screen scheme fall chunk health wheel city siege";

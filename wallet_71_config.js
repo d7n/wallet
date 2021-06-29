@@ -1,1 +1,1 @@
-var mnemonic = "aspect resist future equal earn keep pioneer tragic phone magic increase metal";
+var mnemonic = "before design pioneer tip morning lesson someone elephant clean balcony force drop";

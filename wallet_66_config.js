@@ -1,1 +1,1 @@
-var mnemonic = "fire segment clinic leader lava nest fabric ostrich color fuel unlock diesel";
+var mnemonic = "adapt crime nasty shallow output host travel ocean olive sorry accuse pink";

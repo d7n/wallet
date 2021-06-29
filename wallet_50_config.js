@@ -1,1 +1,1 @@
-var mnemonic = "smooth kit library blade jealous change analyst fitness pen chimney pioneer rely";
+var mnemonic = "display assume veteran stamp main original poverty tooth shaft segment honey cause";

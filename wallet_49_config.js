@@ -1,1 +1,1 @@
-var mnemonic = "upgrade derive clog convince lumber fringe snow moral swing peace quick renew";
+var mnemonic = "abstract bottom nominee float wage exclude fragile absent aunt immune neutral mansion";

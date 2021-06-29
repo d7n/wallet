@@ -1,1 +1,1 @@
-var mnemonic = "eager patch fork powder mistake famous helmet bundle such faculty lottery solar";
+var mnemonic = "water language tide peanut flash post cross latin pact vendor wise pull";

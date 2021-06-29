@@ -1,1 +1,1 @@
-var mnemonic = "attend cat rule champion maze purpose guilt inspire thumb web deposit access";
+var mnemonic = "venture among snow sugar vanish fatigue chuckle truth apple guess happy balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "language exhaust satoshi inhale birth attitude acid finish turkey combine drama glad";
+var mnemonic = "exotic super food drip what kind enemy brick swarm attend snake onion";

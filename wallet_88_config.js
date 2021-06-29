@@ -1,1 +1,1 @@
-var mnemonic = "error gospel roast hard task decade habit mesh twenty cheese teach doll";
+var mnemonic = "swing offer immense borrow fever voice gadget clap ride describe damp penalty";

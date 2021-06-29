@@ -1,1 +1,1 @@
-var mnemonic = "arrange matter oven dismiss return double bus universe pipe scatter patrol amount";
+var mnemonic = "tiny glance secret calm laugh pattern update desert wise retire inhale matter";

@@ -1,1 +1,1 @@
-var mnemonic = "all teach mobile derive pigeon quantum supreme trust old reform spell raccoon";
+var mnemonic = "dry gospel employ shine fresh estate emotion absorb used giggle movie comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "outer coconut caution foil material pair strike busy someone result gown decade";
+var mnemonic = "morning gaze crime shallow ring valley rhythm measure vintage stay craft scissors";

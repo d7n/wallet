@@ -1,1 +1,1 @@
-var mnemonic = "surprise assault utility rigid normal false milk slow monkey better keep start";
+var mnemonic = "taxi charge remain luggage input defy aspect win next elegant shock tobacco";

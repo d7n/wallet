@@ -1,1 +1,1 @@
-var mnemonic = "amateur snake near prize pizza month outdoor off plug assault renew similar";
+var mnemonic = "source hold dizzy help salute fury dance into close spy picture hover";

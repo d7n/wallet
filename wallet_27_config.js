@@ -1,1 +1,1 @@
-var mnemonic = "oil rose oven educate two please clap turn heart ghost brick sunny";
+var mnemonic = "network dice reason job truth team marble wasp depart giggle lottery luggage";

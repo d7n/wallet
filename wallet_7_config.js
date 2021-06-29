@@ -1,1 +1,1 @@
-var mnemonic = "range drama alone sphere tobacco maze consider voice print switch erosion candy";
+var mnemonic = "eight inject roast save library chase also slam butter timber evoke unhappy";

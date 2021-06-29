@@ -1,1 +1,1 @@
-var mnemonic = "glue abuse pattern cushion scissors diamond private rail collect beyond salad jewel";
+var mnemonic = "double daughter three price ladder horror size merge wise unusual kid matter";

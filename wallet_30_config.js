@@ -1,1 +1,1 @@
-var mnemonic = "still wall spell sibling hundred useless weekend skill flight daughter rain core";
+var mnemonic = "mother model become famous fence miss much parent ethics skull wise outdoor";

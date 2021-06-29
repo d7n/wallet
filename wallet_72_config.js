@@ -1,1 +1,1 @@
-var mnemonic = "welcome rib crouch october apology poverty puppy post bonus renew turkey sibling";
+var mnemonic = "music heart ride educate you weapon monitor spot eye review brain left";

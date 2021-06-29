@@ -1,1 +1,1 @@
-var mnemonic = "learn salon will twenty verb raven walnut eight invest thumb peanut unknown";
+var mnemonic = "focus grab hobby saddle crack tomato lecture host cliff squirrel drive slow";

@@ -1,1 +1,1 @@
-var mnemonic = "upset author spy across increase maze throw faculty funny road coral real";
+var mnemonic = "addict castle auction vendor stool shift art speed other snow detail same";

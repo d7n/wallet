@@ -1,1 +1,1 @@
-var mnemonic = "add please gain tray confirm hello slender toward shrimp monitor when hill";
+var mnemonic = "rifle doll atom echo agent melody kidney topic floor social celery success";

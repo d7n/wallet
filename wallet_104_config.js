@@ -1,1 +1,1 @@
-var mnemonic = "enforce violin suffer boat three broccoli small since emotion letter upset ridge";
+var mnemonic = "remove robust flock anger globe bunker panel law cat vote believe thrive";

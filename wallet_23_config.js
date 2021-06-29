@@ -1,1 +1,1 @@
-var mnemonic = "weekend bubble cream move pupil will menu vessel garlic auction coast base";
+var mnemonic = "accuse truth water ankle perfect film text moon ability share plastic frequent";

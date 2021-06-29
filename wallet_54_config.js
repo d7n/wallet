@@ -1,1 +1,1 @@
-var mnemonic = "robot enroll moment plate zone deer blush solar own heavy garden enroll";
+var mnemonic = "elegant build judge frost drum raven canvas salmon omit mechanic oppose giraffe";
