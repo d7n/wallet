@@ -1,1 +1,1 @@
-var mnemonic = "example fork make must mad cliff armed crush relax pink surround armor";
+var mnemonic = "tomato local chronic mobile public today energy element kingdom under outdoor glove";

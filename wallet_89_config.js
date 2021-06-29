@@ -1,1 +1,1 @@
-var mnemonic = "hat soap report talk churn half magic brass then viable bamboo crumble";
+var mnemonic = "calm retire they occur icon advance use narrow wagon ring shiver void";

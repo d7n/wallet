@@ -1,1 +1,1 @@
-var mnemonic = "fire payment sister divorce safe feature shift party high blush student broom";
+var mnemonic = "lift electric police minute olive into very gather three crew isolate truck";

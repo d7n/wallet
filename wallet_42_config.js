@@ -1,1 +1,1 @@
-var mnemonic = "require history visit claw grab input flash slow social regular scrap grape";
+var mnemonic = "song victory sand wisdom crouch exist couple dish length air siege job";

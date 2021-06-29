@@ -1,1 +1,1 @@
-var mnemonic = "noodle young rookie banana orbit clarify victory hard liar cherry kidney oyster";
+var mnemonic = "clarify situate slim road rough hip dignity thing acid chapter table reopen";

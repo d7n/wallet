@@ -1,1 +1,1 @@
-var mnemonic = "wide decline staff claim hundred father taxi suggest minimum bounce melt scene";
+var mnemonic = "buzz valley attack alter emerge review absorb casino remember idle grain video";

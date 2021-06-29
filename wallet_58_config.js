@@ -1,1 +1,1 @@
-var mnemonic = "entire void mammal rude walk today distance damp unique crane abandon hair";
+var mnemonic = "lion arch brief river gym drama salad margin private regret member music";

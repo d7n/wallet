@@ -1,1 +1,1 @@
-var mnemonic = "brand rebel icon defy pioneer quick walk divorce skull account consider giggle";
+var mnemonic = "silent palm atom gaze token regular consider benefit bird viable iron wrong";

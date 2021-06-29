@@ -1,1 +1,1 @@
-var mnemonic = "access mix pave tool popular weekend much one track exist solve fire";
+var mnemonic = "between laugh shoe general come stem close surround fantasy brave squirrel awesome";

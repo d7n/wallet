@@ -1,1 +1,1 @@
-var mnemonic = "neglect engine burger fine entire east middle ignore share fade orphan check";
+var mnemonic = "nice model meat wine column absurd there depend pledge embrace leader cruise";

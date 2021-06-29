@@ -1,1 +1,1 @@
-var mnemonic = "shadow music piece faith robot gift bus people divert broom empty coast";
+var mnemonic = "tilt property injury steel faculty hole deer claim near forget height honey";

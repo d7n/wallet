@@ -1,1 +1,1 @@
-var mnemonic = "tornado say loyal human husband isolate auction history because welcome wall parade";
+var mnemonic = "client mystery couch daughter enjoy rich wedding august destroy multiply point scorpion";

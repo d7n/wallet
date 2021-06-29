@@ -1,1 +1,1 @@
-var mnemonic = "local noble annual skull fatal develop vacuum amazing fossil measure expire divide";
+var mnemonic = "sheriff novel general brand process soon hamster delay birth artwork stomach dance";

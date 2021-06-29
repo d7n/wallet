@@ -1,1 +1,1 @@
-var mnemonic = "kit valve flock tip want canal action room cage setup chalk ranch";
+var mnemonic = "expose artist excuse chief extend sphere beef pair elevator begin love can";

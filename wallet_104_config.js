@@ -1,1 +1,1 @@
-var mnemonic = "fabric where protect peasant law salon script echo mandate tide review athlete";
+var mnemonic = "insect slot wrong leg people twenty abandon virtual glance hint elder smooth";

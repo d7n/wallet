@@ -1,1 +1,1 @@
-var mnemonic = "estate nominee shadow output maid initial rail feel road guess satisfy give";
+var mnemonic = "sibling drop elegant hint over fee tiny wide glow scare add fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "civil castle ignore add sport uncover fame swift strategy mammal business word";
+var mnemonic = "asset enable state flock elite shuffle such ozone gossip obtain choice frost";

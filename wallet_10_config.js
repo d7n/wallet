@@ -1,1 +1,1 @@
-var mnemonic = "horn window huge garment enjoy almost margin into frost runway pact replace";
+var mnemonic = "primary execute vital trick hungry horn bottom tail fly fancy brown fitness";

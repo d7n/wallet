@@ -1,1 +1,1 @@
-var mnemonic = "coyote country offer gasp chef road novel asthma innocent awful vintage anger";
+var mnemonic = "advice gown bid pudding repeat salad industry spider soccer yellow mouse ship";

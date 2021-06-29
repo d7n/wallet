@@ -1,1 +1,1 @@
-var mnemonic = "depth system omit farm close someone able course feel sword enroll early";
+var mnemonic = "gun vendor okay early maid knee odor glass cabbage brief repair prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "current public roast use ladder engine pigeon yellow humble speed dinner slow";
+var mnemonic = "pipe define rare diesel true miss stock physical beyond escape urge since";

@@ -1,1 +1,1 @@
-var mnemonic = "food tell cushion dentist marriage fever image kitchen flush choose shine scrub";
+var mnemonic = "joy girl inspire genius situate century blast prison monster general life robot";

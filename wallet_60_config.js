@@ -1,1 +1,1 @@
-var mnemonic = "cruise access rapid fox endless trap candy project usage then mimic gadget";
+var mnemonic = "prize elder era shock spike north mother bind canal leg ensure breeze";

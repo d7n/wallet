@@ -1,1 +1,1 @@
-var mnemonic = "mystery battle bridge lawn human torch combine type guard topic story volcano";
+var mnemonic = "between tray addict tomorrow stove cave describe kick swarm bachelor fat crumble";

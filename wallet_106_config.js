@@ -1,1 +1,1 @@
-var mnemonic = "hello lens print deny april style chair indicate virtual exchange invite brave";
+var mnemonic = "banner net token ugly fun spirit inflict drink distance alien boring peace";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome lonely ask miss earth grain silent whip wasp muffin strike purchase";
+var mnemonic = "grape young filter clip laptop consider author multiply purchase current west derive";

@@ -1,1 +1,1 @@
-var mnemonic = "under diagram earth giant apple limb play pink ceiling topple business beauty";
+var mnemonic = "goose catalog census ask stable hospital horse grape symbol major second early";

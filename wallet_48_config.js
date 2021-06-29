@@ -1,1 +1,1 @@
-var mnemonic = "put cliff kiwi twenty become fee timber wet slender hedgehog labor input";
+var mnemonic = "dance genius expand sorry quarter unlock perfect face reunion arrive lunch nest";

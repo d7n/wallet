@@ -1,1 +1,1 @@
-var mnemonic = "hello grain doctor mushroom tide wasp sunny trend real garlic bridge return";
+var mnemonic = "tiger deer ancient crush awesome obey save innocent just slice wave hidden";

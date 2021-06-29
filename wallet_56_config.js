@@ -1,1 +1,1 @@
-var mnemonic = "width found reflect liberty cry joy play pioneer lunar sand dinosaur one";
+var mnemonic = "foot body execute wrong afford glow ride hand search leave glance edge";

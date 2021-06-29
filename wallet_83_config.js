@@ -1,1 +1,1 @@
-var mnemonic = "pear captain phone toddler mango under town vault rose cheap switch nut";
+var mnemonic = "use talk wonder wood news balcony artefact primary oil economy volcano knee";

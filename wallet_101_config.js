@@ -1,1 +1,1 @@
-var mnemonic = "initial amazing trip vital creek chalk bomb omit clarify alley uphold young";
+var mnemonic = "attitude bonus fatal option cattle voyage response lounge resemble remain pig reduce";

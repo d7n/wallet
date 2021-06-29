@@ -1,1 +1,1 @@
-var mnemonic = "jump business warfare stereo globe eight blind sponsor result segment child lunar";
+var mnemonic = "give tip grow unaware six illegal tone scrub shoe inside limb among";

@@ -1,1 +1,1 @@
-var mnemonic = "erase reunion tunnel cover off smile ostrich meadow pride rapid afford expose";
+var mnemonic = "black cereal quit notable ginger almost fork useless cloth donkey ensure smile";

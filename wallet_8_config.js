@@ -1,1 +1,1 @@
-var mnemonic = "point friend club tower under patrol solution scan baby brown glow stone";
+var mnemonic = "divert describe cement kidney then funny fire never enforce deny obscure menu";

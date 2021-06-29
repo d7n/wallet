@@ -1,1 +1,1 @@
-var mnemonic = "metal web rhythm tumble surface regret drill strategy mansion job quantum mansion";
+var mnemonic = "three asset private vessel bread order luggage angry sniff romance funny lava";

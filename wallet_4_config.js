@@ -1,1 +1,1 @@
-var mnemonic = "core lock giggle debate poem verb slow excess audit trap canyon wage";
+var mnemonic = "sight museum easy feel author mystery light session october there before seed";

@@ -1,1 +1,1 @@
-var mnemonic = "pill result cluster chase armor estate luxury quiz divert knife sight purpose";
+var mnemonic = "cluster child outdoor casual hollow another fence fork cloth dog thrive anger";

@@ -1,1 +1,1 @@
-var mnemonic = "switch window setup ancient pistol road castle toward reopen fall salt dress";
+var mnemonic = "exit know proud library release tape steel science open thought rigid whale";

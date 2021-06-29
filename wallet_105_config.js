@@ -1,1 +1,1 @@
-var mnemonic = "tag science exile nation veteran shoot opinion gift picture execute coil crouch";
+var mnemonic = "dice head awesome target screen learn join squirrel melody amused sell rough";

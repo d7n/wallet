@@ -1,1 +1,1 @@
-var mnemonic = "common naive worry sport already replace velvet penalty benefit build excite describe";
+var mnemonic = "old narrow lens innocent addict mirror eyebrow canvas draw make rare domain";

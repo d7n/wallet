@@ -1,1 +1,1 @@
-var mnemonic = "between enact harbor marine indoor pig common right wide degree snow auto";
+var mnemonic = "balance example notable into alpha swarm garage panic drink august raccoon hair";

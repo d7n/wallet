@@ -1,1 +1,1 @@
-var mnemonic = "mammal physical ask reveal inject decline front uniform table orange stool welcome";
+var mnemonic = "mule captain salon please smart offer chair arm road couple puppy life";

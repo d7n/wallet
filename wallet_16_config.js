@@ -1,1 +1,1 @@
-var mnemonic = "income orchard eyebrow sentence cotton tomorrow innocent fix boss unable digital kitten";
+var mnemonic = "all bless tackle liar reduce squeeze exercise ancient more rotate exhaust pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor identify apart car dumb outdoor cost sun cheese jazz abandon move";
+var mnemonic = "junk atom soda kiwi wall orange recipe dress near siren layer object";

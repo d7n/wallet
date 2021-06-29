@@ -1,1 +1,1 @@
-var mnemonic = "supply sound shell moon grass board height yard dinner celery quiz diary";
+var mnemonic = "tourist news person absorb water place toe shed solve rely column slogan";

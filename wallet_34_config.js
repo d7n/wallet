@@ -1,1 +1,1 @@
-var mnemonic = "picture option episode what tobacco lottery loop behind liberty mandate price correct";
+var mnemonic = "bird noise twelve blade quantum solid winter shift output danger jewel install";

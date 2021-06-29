@@ -1,1 +1,1 @@
-var mnemonic = "swift give huge apart unit spoon diary tone point barely property control";
+var mnemonic = "betray chimney hire veteran glimpse risk sunset chat merit crew gossip enact";

@@ -1,1 +1,1 @@
-var mnemonic = "rain attend sorry spawn chase acoustic candy kid cat suspect result guide";
+var mnemonic = "few base dose human abandon ramp hat upon tourist mass million hazard";

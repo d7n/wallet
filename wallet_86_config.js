@@ -1,1 +1,1 @@
-var mnemonic = "nuclear point exotic ritual apple atom anger cave walnut seed industry one";
+var mnemonic = "art female awake banner play fan lemon metal quick fragile happy stone";

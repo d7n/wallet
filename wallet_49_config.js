@@ -1,1 +1,1 @@
-var mnemonic = "insect leaf fame report trap save drift brick head piano envelope monster";
+var mnemonic = "trouble prepare mail cat member orange frequent canyon able trigger output ugly";

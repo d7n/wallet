@@ -1,1 +1,1 @@
-var mnemonic = "prefer wife impulse any coin announce follow artwork citizen kick bone remind";
+var mnemonic = "fish arrive surround draft recycle cotton twelve wagon adjust rare ramp thing";

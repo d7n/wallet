@@ -1,1 +1,1 @@
-var mnemonic = "artwork patient execute bless seat advance frost weird obtain chaos crime parent";
+var mnemonic = "multiply turkey shrimp divert crack bronze right priority plastic domain mango region";

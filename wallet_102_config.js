@@ -1,1 +1,1 @@
-var mnemonic = "gravity rug rabbit own same panel garment finish hunt winter city best";
+var mnemonic = "faculty room midnight sentence gauge asset this adjust kid female leave rebuild";

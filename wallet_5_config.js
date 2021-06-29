@@ -1,1 +1,1 @@
-var mnemonic = "lumber absorb paper swear document curtain twenty transfer switch tuition essence scale";
+var mnemonic = "above health slot sport field soldier immense chunk palm surface edge runway";

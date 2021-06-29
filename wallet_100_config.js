@@ -1,1 +1,1 @@
-var mnemonic = "cupboard fiscal picture elegant half script myth acid control choice problem style";
+var mnemonic = "cargo guitar chaos coil legend wolf rotate display frown where tiger regular";

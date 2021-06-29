@@ -1,1 +1,1 @@
-var mnemonic = "witness lizard pretty valid easily idle bomb repeat resist zoo symptom crouch";
+var mnemonic = "decrease unfold fence vivid banana sell donor tortoise return banner catch dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "few dignity fun expect fly image pupil vague flock bitter clog stomach";
+var mnemonic = "cute ribbon feature quit rural fever author eye license orchard rubber buddy";

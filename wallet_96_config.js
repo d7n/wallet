@@ -1,1 +1,1 @@
-var mnemonic = "they buffalo pause slim deputy rocket want weather cross biology pen wolf";
+var mnemonic = "much vague napkin left cupboard supply couch text oblige car guard pitch";

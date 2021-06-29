@@ -1,1 +1,1 @@
-var mnemonic = "tenant spy joke song during reward tomorrow wet ring bike minor wool";
+var mnemonic = "parrot twice festival draw vehicle strong enable radar fruit twenty discover grape";

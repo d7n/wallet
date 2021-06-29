@@ -1,1 +1,1 @@
-var mnemonic = "upset roof term demand poem quarter notice tide van cram faith eight";
+var mnemonic = "marble pulse settle mistake this mistake forget open clock advice pipe lunch";

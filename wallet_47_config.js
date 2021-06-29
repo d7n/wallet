@@ -1,1 +1,1 @@
-var mnemonic = "idle ketchup liberty shoe unhappy scheme lawn bread toward industry asset detail";
+var mnemonic = "inmate unique small series gorilla fragile exhibit actress shaft unit hold accuse";

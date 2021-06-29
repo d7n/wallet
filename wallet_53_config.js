@@ -1,1 +1,1 @@
-var mnemonic = "mountain bounce world small flip label unit tail robust visual canvas spot";
+var mnemonic = "height snack muscle balance method maximum equal tomato tip rally fringe pony";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree mask jungle pear install gentle solar please eight country hold shuffle";
+var mnemonic = "useless gaze fringe deal enlist praise movie leopard right ensure manage license";

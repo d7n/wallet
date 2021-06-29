@@ -1,1 +1,1 @@
-var mnemonic = "visit amateur frog machine detect luggage cushion purchase mammal puzzle vehicle harvest";
+var mnemonic = "change tongue approve voice skin return shine belt daring pitch velvet scissors";

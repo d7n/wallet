@@ -1,1 +1,1 @@
-var mnemonic = "marble steak when useful ritual muscle castle belt hazard crunch suggest shuffle";
+var mnemonic = "top hollow public convince midnight venture confirm quick adult stem fame entry";

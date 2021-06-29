@@ -1,1 +1,1 @@
-var mnemonic = "alley build tonight mother ripple true unfair chunk predict eternal sort cause";
+var mnemonic = "evolve state pole shallow clap weasel across powder diamond soup gym taste";

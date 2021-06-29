@@ -1,1 +1,1 @@
-var mnemonic = "acquire useful notice portion pistol wait split bunker gaze wife zebra taxi";
+var mnemonic = "shadow banner either penalty easy pitch snow strike cheap crash core neck";

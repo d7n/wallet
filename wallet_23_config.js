@@ -1,1 +1,1 @@
-var mnemonic = "govern run burst close eager path key mask liberty october gaze hill";
+var mnemonic = "youth gasp early abstract cube gorilla eternal crane busy seminar drastic dash";

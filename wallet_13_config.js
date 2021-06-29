@@ -1,1 +1,1 @@
-var mnemonic = "near purchase merge cake flat become wing violin yard must arch cradle";
+var mnemonic = "fame city vessel social crucial achieve fetch earn marriage base essay lava";

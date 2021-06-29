@@ -1,1 +1,1 @@
-var mnemonic = "chair blast source matter hockey avoid suit say broom measure safe wine";
+var mnemonic = "puzzle zone run club hole strike episode cage culture hole taste humor";

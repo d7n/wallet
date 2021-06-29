@@ -1,1 +1,1 @@
-var mnemonic = "warfare lumber message horn nasty rapid hat black provide coral educate satisfy";
+var mnemonic = "smooth modify trim spend apology pretty sheriff garbage picnic ensure chat tornado";

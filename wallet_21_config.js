@@ -1,1 +1,1 @@
-var mnemonic = "purse arrive fame drum beyond true scare guide dinner office differ hard";
+var mnemonic = "federal umbrella weather wrist trigger sort switch view pudding solution infant treat";

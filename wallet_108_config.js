@@ -1,1 +1,1 @@
-var mnemonic = "walnut thunder unveil spread column chat beauty valley release system canvas helmet";
+var mnemonic = "trash pizza foster novel guitar mystery wide soda raven cram face diesel";

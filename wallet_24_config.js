@@ -1,1 +1,1 @@
-var mnemonic = "fiction blossom scrub oval uncle radar pistol average knife negative faint rhythm";
+var mnemonic = "worry mule race blame old deputy unaware nose flash party path duck";

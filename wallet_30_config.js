@@ -1,1 +1,1 @@
-var mnemonic = "learn funny emotion young genuine flat way quit meat thumb distance brisk";
+var mnemonic = "labor only rocket gun rail chuckle cherry danger speed hurt doctor duck";

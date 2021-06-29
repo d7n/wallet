@@ -1,1 +1,1 @@
-var mnemonic = "miracle talk wisdom nothing harsh maple party hurt jealous pyramid ketchup trap";
+var mnemonic = "skirt dune warrior dinner gym busy vacuum spring furnace fossil strategy toy";

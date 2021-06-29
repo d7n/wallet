@@ -1,1 +1,1 @@
-var mnemonic = "hospital honey this art senior decade donate armor smooth way special afraid";
+var mnemonic = "vapor issue glide bargain private language huge scissors bunker sheriff faculty result";

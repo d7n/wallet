@@ -1,1 +1,1 @@
-var mnemonic = "absorb oven fury mechanic wood surprise need rubber asthma search zoo episode";
+var mnemonic = "rose street veteran crucial toward ring despair glad immune shield door primary";

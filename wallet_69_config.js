@@ -1,1 +1,1 @@
-var mnemonic = "casino damp assume frozen later admit flash element lend scorpion inquiry shaft";
+var mnemonic = "belt absurd spare crazy merge gorilla scorpion symbol fever parrot pistol drill";
