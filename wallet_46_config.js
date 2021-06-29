@@ -1,1 +1,1 @@
-var mnemonic = "venue tuition mix minimum party grape lobster gesture this project live symbol";
+var mnemonic = "table parrot upon orchard library worth erupt chuckle plate panel brave exile";

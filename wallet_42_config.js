@@ -1,1 +1,1 @@
-var mnemonic = "good hurdle inhale fatal very immune hundred cruel target crystal turkey physical";
+var mnemonic = "ripple tool immense retreat crystal hundred rib siege moment access wreck original";

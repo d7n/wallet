@@ -1,1 +1,1 @@
-var mnemonic = "borrow click axis bring federal security chicken praise moral rude capital hat";
+var mnemonic = "seed room cost borrow kidney crater verify crew beauty bread wet protect";

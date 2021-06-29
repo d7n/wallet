@@ -1,1 +1,1 @@
-var mnemonic = "grape recycle gloom senior guilt repair lottery cross lesson shift open final";
+var mnemonic = "venture spider loop quick achieve snack convince report fancy gospel tackle weasel";

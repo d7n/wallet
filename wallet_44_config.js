@@ -1,1 +1,1 @@
-var mnemonic = "spring kick frozen caution mind quote write move retire leopard frame slow";
+var mnemonic = "base drum position say hood sheriff shell school improve when shrimp theory";

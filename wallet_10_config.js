@@ -1,1 +1,1 @@
-var mnemonic = "tumble license sentence guess street latin fine pave slender test dance lion";
+var mnemonic = "slot hospital milk dumb initial length theme flip bread aim cruise river";

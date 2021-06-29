@@ -1,1 +1,1 @@
-var mnemonic = "turtle fury lazy giraffe survey angry guard donor soda wife extend dash";
+var mnemonic = "clutch liar hungry until local lab eight lottery saddle talent remind oil";

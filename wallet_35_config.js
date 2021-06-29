@@ -1,1 +1,1 @@
-var mnemonic = "dream economy reunion job phone quit castle jazz raccoon fee prize food";
+var mnemonic = "bamboo spread exact match suspect two cupboard salmon renew math agree response";

@@ -1,1 +1,1 @@
-var mnemonic = "annual scatter always call globe attack essence betray loyal have gather mountain";
+var mnemonic = "dose just top monster casual naive much april amateur find either seek";

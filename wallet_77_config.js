@@ -1,1 +1,1 @@
-var mnemonic = "crawl attack search type trouble warfare ordinary apple laugh weird neutral limb";
+var mnemonic = "need cool also minimum first illness alter make wing grid credit fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle citizen aisle isolate senior beauty person main enter network carpet fiction";
+var mnemonic = "derive conduct cotton melt exclude clerk three salute endorse rebuild guilt jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "what coffee void jeans flee scissors cable arrest various lyrics industry secret";
+var mnemonic = "stereo catalog virus only warrior puppy fog pave roof shock quarter all";

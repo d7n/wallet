@@ -1,1 +1,1 @@
-var mnemonic = "bone topic armed window urban dinner clip joy danger forum bicycle zebra";
+var mnemonic = "lemon pond panic lonely dice dutch system warrior bag chicken firm snow";

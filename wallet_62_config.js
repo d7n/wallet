@@ -1,1 +1,1 @@
-var mnemonic = "shop frequent you safe canvas title siren knock tank glory knife black";
+var mnemonic = "wool around lizard matrix museum warm spawn leopard jump online bulb amount";

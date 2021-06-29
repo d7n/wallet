@@ -1,1 +1,1 @@
-var mnemonic = "know gravity truth quit hamster shrug window gate source accident zero round";
+var mnemonic = "accuse pelican indoor swear image sustain brand speak laundry will endorse stem";

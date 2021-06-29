@@ -1,1 +1,1 @@
-var mnemonic = "vast attract fatigue naive price quick wrestle flight mercy story square grid";
+var mnemonic = "hand bench reform victory syrup camp truck because bread glance unfair shine";

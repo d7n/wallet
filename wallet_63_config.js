@@ -1,1 +1,1 @@
-var mnemonic = "nest image travel warfare lizard teach tool farm silk stuff muscle excite";
+var mnemonic = "rain fiscal ankle balcony marine gate merit away cabbage artefact element thank";

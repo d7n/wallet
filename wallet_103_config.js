@@ -1,1 +1,1 @@
-var mnemonic = "weird neither crazy phrase later blind lonely maximum pig ball rigid labor";
+var mnemonic = "green illness total sphere yellow hockey theme road trade win blossom ramp";

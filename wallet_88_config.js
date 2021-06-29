@@ -1,1 +1,1 @@
-var mnemonic = "rely jewel either rifle mass assault subject air snow sorry sudden under";
+var mnemonic = "fossil glow quote inject derive orchard ice dinner unusual marble tornado guide";

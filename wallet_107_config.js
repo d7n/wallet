@@ -1,1 +1,1 @@
-var mnemonic = "muscle creek release concert way lunar include theme snow benefit that turn";
+var mnemonic = "brave fossil sunny network reject ugly word slab divert cactus tribe pull";

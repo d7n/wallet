@@ -1,1 +1,1 @@
-var mnemonic = "enjoy tube kiwi clutch wet eager joke throw problem leaf behave obey";
+var mnemonic = "carry roof occur result connect panda movie flush alarm flock clever broom";

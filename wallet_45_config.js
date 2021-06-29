@@ -1,1 +1,1 @@
-var mnemonic = "already kangaroo pupil click enable buddy cereal pattern tired such electric shrimp";
+var mnemonic = "label decade upgrade comic poverty room dice slide east stand entry habit";

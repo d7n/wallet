@@ -1,1 +1,1 @@
-var mnemonic = "zoo auction distance about change evidence reform reform judge hood tribe attract";
+var mnemonic = "fetch guess enemy mean repair excuse remove train base talent royal arrange";

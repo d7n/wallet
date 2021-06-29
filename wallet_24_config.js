@@ -1,1 +1,1 @@
-var mnemonic = "sample mirror stone topic nice length conduct winter success month wine devote";
+var mnemonic = "ankle powder speak country relief apple indoor lake toss exclude pitch must";

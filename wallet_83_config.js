@@ -1,1 +1,1 @@
-var mnemonic = "dawn obtain reflect inherit index output history soap wine rabbit eight degree";
+var mnemonic = "buddy degree dune width uncover balance visit depend police rib monster blouse";

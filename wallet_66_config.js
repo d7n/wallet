@@ -1,1 +1,1 @@
-var mnemonic = "panda forward hockey attract bag blame damp bubble favorite sponsor region banner";
+var mnemonic = "lemon quit farm long become baby stamp interest eager parent notice cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "level online power share melody zero afford knee vessel siren egg file";
+var mnemonic = "business purse library unhappy project injury wink laundry drop ghost install quote";

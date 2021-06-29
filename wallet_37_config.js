@@ -1,1 +1,1 @@
-var mnemonic = "announce destroy horror canyon immense over zebra tide bread sail scrap domain";
+var mnemonic = "profit fat swallow witness deposit hat assume blast term boss pigeon olympic";

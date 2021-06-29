@@ -1,1 +1,1 @@
-var mnemonic = "supreme syrup leaf old lend roast alley gentle teach deliver sight catch";
+var mnemonic = "inject resemble hair crazy mention empower castle pig bright settle snack wool";

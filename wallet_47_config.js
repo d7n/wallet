@@ -1,1 +1,1 @@
-var mnemonic = "until nurse idle worry noodle sentence awkward problem donkey empty swarm emotion";
+var mnemonic = "ribbon message save wire february once artist engine throw bundle mix pitch";

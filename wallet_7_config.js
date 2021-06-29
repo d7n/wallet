@@ -1,1 +1,1 @@
-var mnemonic = "bargain barrel calm endorse sport trend bone dirt door produce mesh minor";
+var mnemonic = "skill lonely hunt rocket slogan cute law grant belt traffic attitude hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster music stay air slam pizza tattoo job shoe cupboard pistol again";
+var mnemonic = "pole improve shell edit maximum seed kiss enrich goddess link host slight";

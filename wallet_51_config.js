@@ -1,1 +1,1 @@
-var mnemonic = "notice brief burger tiger busy enough oven click stairs wagon outside left";
+var mnemonic = "legend check father arch until average airport worth top group scatter identify";

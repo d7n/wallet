@@ -1,1 +1,1 @@
-var mnemonic = "hurdle another fault river seek radar large liquid pencil refuse deposit pistol";
+var mnemonic = "candy honey situate tell motion just domain notable silk have curious voyage";

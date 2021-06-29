@@ -1,1 +1,1 @@
-var mnemonic = "neither endorse also execute custom layer pulse magnet bless arrest journey hello";
+var mnemonic = "sell unique rare neither license solve brick oak fatigue exist praise light";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty forward clay wall umbrella fantasy oval race input brain swallow cotton";
+var mnemonic = "hamster mosquito clap capital impulse patrol foster middle modify cherry dolphin burden";

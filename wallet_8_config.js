@@ -1,1 +1,1 @@
-var mnemonic = "autumn become famous balcony number ask squeeze genre burst glow neutral myself";
+var mnemonic = "choose soul neck flame express bunker dumb inch chair start quantum pupil";

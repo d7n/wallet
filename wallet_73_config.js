@@ -1,1 +1,1 @@
-var mnemonic = "crop solution certain favorite gaze fold blade number inflict finger solve drama";
+var mnemonic = "one ankle exchange final canvas impulse involve marriage expose plastic bread choose";

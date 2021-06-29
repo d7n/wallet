@@ -1,1 +1,1 @@
-var mnemonic = "prefer post quality marine orange prosper slab order young learn art grace";
+var mnemonic = "hub jealous solar receive sugar pet romance judge pause code whale ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "repair cricket horn mountain deliver cheap speak mobile simple nothing festival depart";
+var mnemonic = "chaos law agree will betray program shine boost inner mimic during afraid";

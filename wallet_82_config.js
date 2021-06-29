@@ -1,1 +1,1 @@
-var mnemonic = "despair novel achieve type giraffe update west account squeeze wheat enact urge";
+var mnemonic = "focus exhibit chase gate energy attack urban grace lottery local address expect";

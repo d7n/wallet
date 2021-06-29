@@ -1,1 +1,1 @@
-var mnemonic = "hundred pony vote predict library zero next shift curve gentle dwarf deposit";
+var mnemonic = "dizzy elbow board erase kite glass huge awful census book peasant sponsor";

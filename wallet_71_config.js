@@ -1,1 +1,1 @@
-var mnemonic = "ride wink suggest also donor demise snake catch traffic crisp glory panic";
+var mnemonic = "shove catalog then sound vague water unfold please upon task cupboard buyer";

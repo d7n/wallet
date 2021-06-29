@@ -1,1 +1,1 @@
-var mnemonic = "because husband disagree obtain phone sure match hero south issue claw retire";
+var mnemonic = "advice adult story theory pull margin paper prosper immense scrub deer come";

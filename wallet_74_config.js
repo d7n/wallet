@@ -1,1 +1,1 @@
-var mnemonic = "hockey crime stand symptom sign judge creek bargain during vicious kit scan";
+var mnemonic = "project island retreat involve soup beach they evoke spice radar legend pipe";

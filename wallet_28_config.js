@@ -1,1 +1,1 @@
-var mnemonic = "cattle mushroom year swamp aunt food ahead quantum urge april bomb offer";
+var mnemonic = "smile response brave local result dilemma bread tray cushion glow fold strike";

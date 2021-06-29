@@ -1,1 +1,1 @@
-var mnemonic = "stove myself hunt census tortoise steel runway perfect matter sand issue diamond";
+var mnemonic = "aspect quick neglect awake shrimp destroy latin hunt loud giant decrease margin";

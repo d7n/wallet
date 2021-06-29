@@ -1,1 +1,1 @@
-var mnemonic = "nest inch couch address correct diamond alcohol entire vacuum income lesson video";
+var mnemonic = "live globe comfort winter sick magic face buffalo mandate secret picture tennis";

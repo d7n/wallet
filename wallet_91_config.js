@@ -1,1 +1,1 @@
-var mnemonic = "domain sock castle hand genius vibrant evil drift symbol spike capital size";
+var mnemonic = "gloom report option inhale sugar jump column flower cement wild leisure rack";

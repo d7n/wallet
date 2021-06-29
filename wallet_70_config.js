@@ -1,1 +1,1 @@
-var mnemonic = "desert mule craft desert public abstract thought album balcony save local cigar";
+var mnemonic = "video example scheme symbol category soccer indicate deal uncover grain useless physical";

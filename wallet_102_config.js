@@ -1,1 +1,1 @@
-var mnemonic = "pistol very wonder sweet audit horse stay digital ginger rescue give virus";
+var mnemonic = "close owner sustain salad useful habit obey cactus almost morning circle soul";

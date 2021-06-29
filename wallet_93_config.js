@@ -1,1 +1,1 @@
-var mnemonic = "copy antenna already alter current dove shaft door unknown bracket flat special";
+var mnemonic = "often unusual neck ill athlete people rubber silly media upper guitar sniff";

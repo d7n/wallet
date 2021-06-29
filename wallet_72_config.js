@@ -1,1 +1,1 @@
-var mnemonic = "hero enact desk danger appear length high pretty mansion art recall father";
+var mnemonic = "account rubber viable scatter motor helmet swap outside interest warm tongue token";

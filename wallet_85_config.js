@@ -1,1 +1,1 @@
-var mnemonic = "vintage banner bring sunset describe dignity element olive cargo velvet trip blood";
+var mnemonic = "space people grow zero tornado naive gown medal path capital february drive";

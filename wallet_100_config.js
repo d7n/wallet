@@ -1,1 +1,1 @@
-var mnemonic = "emotion into leg history twin six worry theme peasant convince special rapid";
+var mnemonic = "fringe grab below clump electric unknown left vague gloom finger very water";

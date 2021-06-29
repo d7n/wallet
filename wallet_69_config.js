@@ -1,1 +1,1 @@
-var mnemonic = "away march wool leg remind earth attend fantasy awake tower kangaroo payment";
+var mnemonic = "cake duty grape express alert funny expire vehicle resist avoid horn stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial tell frame stem business duck cereal tobacco flee luxury mercy baby";
+var mnemonic = "when birth paper december dry interest able test kitchen aware foam flavor";

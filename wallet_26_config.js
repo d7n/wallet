@@ -1,1 +1,1 @@
-var mnemonic = "answer thumb document hundred clock tiny buddy impact expire simple obvious kite";
+var mnemonic = "weather panda else flock obey head often inspire when profit shy muffin";

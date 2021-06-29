@@ -1,1 +1,1 @@
-var mnemonic = "ordinary limit anchor critic shoot head picture famous nominee shiver same gain";
+var mnemonic = "mirror option ocean strike agree midnight struggle crunch ticket hunt bridge outside";

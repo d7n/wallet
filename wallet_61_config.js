@@ -1,1 +1,1 @@
-var mnemonic = "unknown satoshi sure grape abuse planet save music lawsuit demand lounge rate";
+var mnemonic = "ranch april fine member woman immune purity margin income category coast old";

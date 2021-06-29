@@ -1,1 +1,1 @@
-var mnemonic = "sunset danger plate buffalo immune blouse drill special tragic observe place rifle";
+var mnemonic = "decade shadow useful miss length hole issue country mimic work subway love";

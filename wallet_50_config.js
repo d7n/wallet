@@ -1,1 +1,1 @@
-var mnemonic = "denial potato supply uphold payment stand spring artwork purity satoshi rookie bachelor";
+var mnemonic = "fly route arrow verb defy actual dismiss worth leader labor next rival";

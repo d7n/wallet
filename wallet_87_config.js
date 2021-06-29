@@ -1,1 +1,1 @@
-var mnemonic = "oil pupil tape elephant border text exit unknown wolf garden size upper";
+var mnemonic = "forget awake hotel ketchup few ecology peanut volume sight local faint chunk";

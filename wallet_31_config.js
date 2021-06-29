@@ -1,1 +1,1 @@
-var mnemonic = "diary section promote bright soda menu input old machine long color salt";
+var mnemonic = "top chunk unknown track ethics stumble rail bike cradle remain pistol twenty";

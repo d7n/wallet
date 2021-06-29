@@ -1,1 +1,1 @@
-var mnemonic = "juice eternal business ginger expose ivory famous chair surround atom nerve dumb";
+var mnemonic = "machine ask vessel genuine aunt brave panic liberty alpha unveil use load";

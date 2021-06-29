@@ -1,1 +1,1 @@
-var mnemonic = "palm author timber series copy auto young delay person casual raise outdoor";
+var mnemonic = "alien medal thrive envelope alcohol ginger raise pigeon december garden wool merry";

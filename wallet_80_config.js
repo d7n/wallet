@@ -1,1 +1,1 @@
-var mnemonic = "fly absorb indicate pilot they enforce kiss forget fat suggest dad later";
+var mnemonic = "option perfect riot cricket force body joke impulse language boss garment behave";

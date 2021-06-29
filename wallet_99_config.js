@@ -1,1 +1,1 @@
-var mnemonic = "child palm inmate boat snap skate budget rich gold manual glance right";
+var mnemonic = "attract inner annual during second utility lecture moon sand clever sponsor always";

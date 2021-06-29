@@ -1,1 +1,1 @@
-var mnemonic = "another sunny physical barrel lady ice happy legal stereo surround roof obscure";
+var mnemonic = "icon pepper opera camera push sound theory amount danger miss village fat";

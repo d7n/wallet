@@ -1,1 +1,1 @@
-var mnemonic = "live rookie job shoe similar when brick panel decrease orchard coast window";
+var mnemonic = "nation welcome live hawk entry love arrange season item stuff stable lamp";

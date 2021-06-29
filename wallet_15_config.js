@@ -1,1 +1,1 @@
-var mnemonic = "finger inmate absorb decline any come angry accident claw aisle style motion";
+var mnemonic = "trigger panda satoshi fantasy prepare brick clip universe total tube umbrella glass";

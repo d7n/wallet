@@ -1,1 +1,1 @@
-var mnemonic = "million ramp dawn jazz bus report spread syrup surround used list trip";
+var mnemonic = "double fitness hard jelly question guilt garment jump visa praise want enter";

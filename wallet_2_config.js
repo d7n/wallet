@@ -1,1 +1,1 @@
-var mnemonic = "between end wink debate crawl dawn fan join large weather fall inflict";
+var mnemonic = "hurdle mirror settle spell position end involve sound syrup robot enact convince";

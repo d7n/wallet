@@ -1,1 +1,1 @@
-var mnemonic = "engine sister fence unfold leaf rookie skirt shaft useful two bus wrap";
+var mnemonic = "spoon acid hope spin behave squeeze evil aunt stone expose prize whale";

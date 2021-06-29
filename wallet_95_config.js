@@ -1,1 +1,1 @@
-var mnemonic = "bitter wave kangaroo elevator carbon brick sight owner debate dutch fix sword";
+var mnemonic = "dirt couch street pull quarter ostrich treat limb race bring object subway";

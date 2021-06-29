@@ -1,1 +1,1 @@
-var mnemonic = "pink afford pepper off oven trade return angle apart logic worry then";
+var mnemonic = "film dynamic juice wait follow move display load virtual recall team trouble";

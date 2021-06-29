@@ -1,1 +1,1 @@
-var mnemonic = "pledge broken bicycle ugly object tired antique spin country sunset figure focus";
+var mnemonic = "keep sting blanket easily damage employ media supply margin chicken bird cable";

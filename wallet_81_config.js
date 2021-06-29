@@ -1,1 +1,1 @@
-var mnemonic = "enemy fine gospel dwarf size topple metal offer recipe axis coin club";
+var mnemonic = "donkey alpha need final machine direct man dream round toe motor pig";

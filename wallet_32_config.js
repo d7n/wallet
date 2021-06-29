@@ -1,1 +1,1 @@
-var mnemonic = "hover season rich fossil addict build wonder worry fresh nuclear media spirit";
+var mnemonic = "champion fox sense friend swift quiz tent problem gospel chicken kiwi reason";

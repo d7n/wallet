@@ -1,1 +1,1 @@
-var mnemonic = "cheap jump ready exclude wash tree picnic fork shuffle above cupboard pioneer";
+var mnemonic = "version eight scrap front march science tornado puzzle mystery million scrap pulse";

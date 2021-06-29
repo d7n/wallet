@@ -1,1 +1,1 @@
-var mnemonic = "check know victory course voice slush oven logic stamp physical daring intact";
+var mnemonic = "bracket since melt suffer nation hedgehog drink gasp salad valve bright front";

@@ -1,1 +1,1 @@
-var mnemonic = "video empty wet amused drift faith delay until book upon answer ozone";
+var mnemonic = "friend tired onion country cancel enough height tree online key simple mesh";

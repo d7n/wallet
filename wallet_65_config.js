@@ -1,1 +1,1 @@
-var mnemonic = "front slight domain one type orphan never legend pattern fold equal tape";
+var mnemonic = "reduce unaware test riot decrease clean relief lawn upset issue resource diesel";

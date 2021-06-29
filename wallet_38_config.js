@@ -1,1 +1,1 @@
-var mnemonic = "congress legend glove coach sustain track flip cart solar exist wrong ice";
+var mnemonic = "virus daughter promote half west furnace pig amount chalk layer speak rough";

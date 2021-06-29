@@ -1,1 +1,1 @@
-var mnemonic = "genuine thunder vintage team banana crowd boy hill fade text spend picnic";
+var mnemonic = "vehicle hurt liar alpha beef athlete turn wild patch poverty frequent congress";

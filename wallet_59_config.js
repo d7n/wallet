@@ -1,1 +1,1 @@
-var mnemonic = "project balance six park grid speed miss physical simple endorse shoe link";
+var mnemonic = "cluster daring shaft trial wood devote goose anger cloth aisle caught dash";

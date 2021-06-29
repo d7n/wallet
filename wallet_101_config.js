@@ -1,1 +1,1 @@
-var mnemonic = "insane library ready bridge leave insect hip ceiling common soon story family";
+var mnemonic = "oyster size toss churn crisp prosper describe forward bulk furnace salute observe";

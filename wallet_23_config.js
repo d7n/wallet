@@ -1,1 +1,1 @@
-var mnemonic = "toilet coffee task old bridge rapid mouse inform express rocket wrong fiber";
+var mnemonic = "critic girl actor dad near album clarify almost panel engage kiwi donkey";

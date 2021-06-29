@@ -1,1 +1,1 @@
-var mnemonic = "sketch hammer dad avocado food mixture problem cruise sting range drop label";
+var mnemonic = "amateur dune ivory response slush smile inner resemble false coil claim basic";

@@ -1,1 +1,1 @@
-var mnemonic = "badge cash bronze else stool cheese unlock prison note north cart obtain";
+var mnemonic = "tell midnight speak major consider detail embody script wage spoil tomorrow tiny";

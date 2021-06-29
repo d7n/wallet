@@ -1,1 +1,1 @@
-var mnemonic = "believe cloud coast rare cupboard board record health clock canoe leisure smart";
+var mnemonic = "antique change slush dumb exotic library stairs pause broccoli advice option nephew";

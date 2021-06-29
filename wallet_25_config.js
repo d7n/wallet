@@ -1,1 +1,1 @@
-var mnemonic = "slight bid crumble gap airport duty couch short stove talk rookie remain";
+var mnemonic = "chicken hybrid vintage pen bottom adjust recipe wreck distance copper dove step";
