@@ -1,1 +1,1 @@
-var mnemonic = "wrestle fly inherit before kitchen horn venture wagon clip aware sort kidney";
+var mnemonic = "helmet portion system purity city service desk relax danger wrap lady enough";

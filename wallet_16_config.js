@@ -1,1 +1,1 @@
-var mnemonic = "bless elegant hockey jeans square sight jazz major capital anxiety volcano need";
+var mnemonic = "begin chaos text quarter fork base holiday burst barrel toddler depth match";

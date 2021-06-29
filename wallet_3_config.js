@@ -1,1 +1,1 @@
-var mnemonic = "friend badge kite film alter evolve suffer enable angle sword notable noise";
+var mnemonic = "delay belt soft erupt dumb leopard fault any awake face hood front";

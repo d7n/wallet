@@ -1,1 +1,1 @@
-var mnemonic = "rule disorder endorse large drastic hidden number ethics chunk veteran rabbit switch";
+var mnemonic = "entry size degree cactus click live fall leave cupboard abuse inspire segment";

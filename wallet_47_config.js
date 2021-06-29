@@ -1,1 +1,1 @@
-var mnemonic = "believe all found coffee firm wolf salt edge heavy dad detect camp";
+var mnemonic = "squeeze segment junior ghost marriage zone like gift repeat course stone farm";

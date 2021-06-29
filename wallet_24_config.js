@@ -1,1 +1,1 @@
-var mnemonic = "core night almost quarter light lens illegal void autumn peace curtain legend";
+var mnemonic = "palm west language sleep describe wall solve news favorite friend focus head";

@@ -1,1 +1,1 @@
-var mnemonic = "insane undo again rug afraid atom sort enlist example loan fall clog";
+var mnemonic = "inject diagram weekend weasel such feed world trumpet dawn carry tag arm";

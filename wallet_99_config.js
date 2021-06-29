@@ -1,1 +1,1 @@
-var mnemonic = "chaos scrap leg rely stay assume lesson choice lady enhance position gadget";
+var mnemonic = "icon price trick umbrella fortune slot lion because young hidden street mystery";

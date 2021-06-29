@@ -1,1 +1,1 @@
-var mnemonic = "enlist defense educate during thumb sick predict wheel element game try donor";
+var mnemonic = "disorder pistol arrive reason excite reunion rich audit bean scan boil noble";

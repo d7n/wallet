@@ -1,1 +1,1 @@
-var mnemonic = "wonder correct kick monkey output much avoid book frog until december frozen";
+var mnemonic = "flee pink attract home beef test ugly average tape also people uniform";

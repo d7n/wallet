@@ -1,1 +1,1 @@
-var mnemonic = "bacon logic gun genre rival host else ordinary team arctic loyal inject";
+var mnemonic = "detail hawk easily hat nuclear galaxy unlock gauge bacon prosper shrug right";

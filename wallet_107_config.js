@@ -1,1 +1,1 @@
-var mnemonic = "lunar ripple bus buddy minute prosper door reason dress involve toddler balance";
+var mnemonic = "argue defense system antenna winter remember shove stomach calm uphold tail whisper";

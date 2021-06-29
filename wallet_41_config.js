@@ -1,1 +1,1 @@
-var mnemonic = "asthma voice bar edge walnut inhale athlete forest tower chat dumb oyster";
+var mnemonic = "dinosaur snap foam already tissue antique trophy faith supply tail dial wool";

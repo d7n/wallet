@@ -1,1 +1,1 @@
-var mnemonic = "wolf habit legal betray nation twice uniform verify emotion wet exclude gossip";
+var mnemonic = "rifle response tragic way wait left garlic magnet swap repair enrich note";

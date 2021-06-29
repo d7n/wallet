@@ -1,1 +1,1 @@
-var mnemonic = "know gospel law expand punch initial cabin license cool turkey salt kiwi";
+var mnemonic = "case lab lunar device wet involve parrot october film lens expect tide";

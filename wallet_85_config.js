@@ -1,1 +1,1 @@
-var mnemonic = "omit mouse garment blast dilemma screen scan school dilemma state path enemy";
+var mnemonic = "farm example smoke lady mix chalk gossip brush shove lend snow scrap";

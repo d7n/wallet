@@ -1,1 +1,1 @@
-var mnemonic = "spread canoe deer loan achieve organ agree script you mystery define photo";
+var mnemonic = "sock seven left pioneer crowd all stadium elbow primary panic quantum impulse";

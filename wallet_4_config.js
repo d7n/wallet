@@ -1,1 +1,1 @@
-var mnemonic = "siege about way kit gaze wire surface blind consider they odor round";
+var mnemonic = "journey alert embody alter badge robot latin hen miss analyst build keen";

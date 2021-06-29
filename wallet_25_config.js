@@ -1,1 +1,1 @@
-var mnemonic = "divorce exhibit hint disease vendor side culture baby curve strike electric mechanic";
+var mnemonic = "faith seat coconut buddy foster climb column decide wrap urban sleep again";

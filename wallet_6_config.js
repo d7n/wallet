@@ -1,1 +1,1 @@
-var mnemonic = "thunder measure exhibit dish umbrella derive fame young teach vendor salute gorilla";
+var mnemonic = "cluster feature donate bird thought vehicle hen social lesson float steak depend";

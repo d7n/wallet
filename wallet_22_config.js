@@ -1,1 +1,1 @@
-var mnemonic = "minimum right adult direct matter rubber train worth noodle merge celery bulk";
+var mnemonic = "sure venture risk chicken street river path bargain item scan unique reduce";

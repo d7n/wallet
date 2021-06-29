@@ -1,1 +1,1 @@
-var mnemonic = "tower path wood regular dream similar army echo olympic fiscal galaxy express";
+var mnemonic = "coast shell tuition daring thought below lazy much topic apart tumble wisdom";

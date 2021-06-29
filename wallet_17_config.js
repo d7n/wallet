@@ -1,1 +1,1 @@
-var mnemonic = "job today onion culture gate decade learn lunch weird helmet vast man";
+var mnemonic = "cage miss broken invite legend physical harvest raccoon subject wage guide cannon";

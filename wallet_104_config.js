@@ -1,1 +1,1 @@
-var mnemonic = "pause mad loan civil citizen click answer tank carbon brain bamboo worry";
+var mnemonic = "energy fish hockey vehicle pretty slow present adult honey share exotic assume";

@@ -1,1 +1,1 @@
-var mnemonic = "olive display bonus bullet portion piece acoustic help hole loud sing auto";
+var mnemonic = "client much extra hundred analyst stick dust alone gravity assist donor group";

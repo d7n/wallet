@@ -1,1 +1,1 @@
-var mnemonic = "traffic giggle iron voyage size mad giant couple tag elite slam broccoli";
+var mnemonic = "differ bench budget skate dizzy blind horror citizen abstract sorry state away";

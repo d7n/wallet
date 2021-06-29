@@ -1,1 +1,1 @@
-var mnemonic = "innocent crunch summer seek picture success entry club night seed toe again";
+var mnemonic = "retreat radar skull any bicycle soon lumber race icon caution year youth";

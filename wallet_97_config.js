@@ -1,1 +1,1 @@
-var mnemonic = "mosquito pilot liar poet team raccoon mushroom awkward thunder little latin spin";
+var mnemonic = "toilet save business below adjust security image organ hip labor mail grid";

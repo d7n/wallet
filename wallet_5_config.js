@@ -1,1 +1,1 @@
-var mnemonic = "slow jazz cat behave board gallery glide empty coast walk valve absorb";
+var mnemonic = "garbage account volcano attend sea hollow volume unaware frame cradle token keen";

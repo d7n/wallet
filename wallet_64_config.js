@@ -1,1 +1,1 @@
-var mnemonic = "wire few want truly capital adapt drive aspect identify fragile scene have";
+var mnemonic = "attack castle submit effort alone model submit avoid chair gas demand duck";

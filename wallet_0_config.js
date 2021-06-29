@@ -1,1 +1,1 @@
-var mnemonic = "during salute pottery crisp unfair inspire seek squirrel search remain oval sadness";
+var mnemonic = "initial grace tiny genius snack gift tail spike match foot book arch";

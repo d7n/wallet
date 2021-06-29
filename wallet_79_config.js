@@ -1,1 +1,1 @@
-var mnemonic = "present room range cram nominee enact example disease lawn weird innocent valley";
+var mnemonic = "catch add girl say gate oblige retire evolve radio before envelope antique";

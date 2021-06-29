@@ -1,1 +1,1 @@
-var mnemonic = "race fashion banana cute smoke lock kitchen future frame under labor pioneer";
+var mnemonic = "word share route portion marriage sand fury cancel vote success term earn";

@@ -1,1 +1,1 @@
-var mnemonic = "size dignity mercy tuition fish exhaust behave pigeon author crawl width plastic";
+var mnemonic = "title junk helmet slam nothing shed later bright aim erupt border rail";

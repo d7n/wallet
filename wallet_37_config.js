@@ -1,1 +1,1 @@
-var mnemonic = "firm lake police physical steel plastic december field clever glance elephant lounge";
+var mnemonic = "amused crime august logic vehicle fold timber dinner profit shy sleep major";

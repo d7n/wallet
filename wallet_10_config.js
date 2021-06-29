@@ -1,1 +1,1 @@
-var mnemonic = "decorate afraid cousin toe extra school such able breeze trap prison place";
+var mnemonic = "zone flock inject begin calm damp response movie swarm love prefer tobacco";

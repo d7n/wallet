@@ -1,1 +1,1 @@
-var mnemonic = "correct polar void noble omit stay hub stove snake sweet bounce onion";
+var mnemonic = "patient candy nice lottery suffer sadness doctor sight ginger empty slow notice";

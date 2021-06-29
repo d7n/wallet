@@ -1,1 +1,1 @@
-var mnemonic = "orbit gospel absent shaft hello uncle extra element prepare direct ripple shock";
+var mnemonic = "reopen real tail outdoor trial effort toilet frog hover plunge gift rare";

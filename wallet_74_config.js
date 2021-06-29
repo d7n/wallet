@@ -1,1 +1,1 @@
-var mnemonic = "dress fatigue scan orange awake cheap mobile profit sun verify boat upon";
+var mnemonic = "tag dutch theme skin person universe scorpion review lemon capital frost enlist";

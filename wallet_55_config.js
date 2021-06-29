@@ -1,1 +1,1 @@
-var mnemonic = "onion biology ecology lucky open secret prison bind weasel hover salmon want";
+var mnemonic = "hotel kingdom know fluid kingdom little giraffe fragile mouse chase teach wild";

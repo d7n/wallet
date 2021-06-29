@@ -1,1 +1,1 @@
-var mnemonic = "art host permit drastic off bleak switch outside hidden fall toddler south";
+var mnemonic = "magic dune viable right cat trim whisper pigeon foam swim purse ball";

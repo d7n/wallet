@@ -1,1 +1,1 @@
-var mnemonic = "crisp media open reason rib path unfair chalk casino poem blast clump";
+var mnemonic = "satisfy wine federal scout idea exit long horn wage kick upper poem";

@@ -1,1 +1,1 @@
-var mnemonic = "area basket shop churn suffer tumble unfair seek degree pride clinic rural";
+var mnemonic = "great found wood excess surround sea cross broken visit habit despair mimic";

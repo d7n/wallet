@@ -1,1 +1,1 @@
-var mnemonic = "trap flavor fruit illness lemon runway clutch bleak axis unusual patient envelope";
+var mnemonic = "retire tortoise lounge zone another eyebrow relief govern cluster elephant zebra game";

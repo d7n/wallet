@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit seminar leader sibling tobacco glory claim artist keen memory defense wave";
+var mnemonic = "cargo end sunset lunch blood kitten common enter cabbage metal update sort";

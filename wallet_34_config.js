@@ -1,1 +1,1 @@
-var mnemonic = "wild sense segment force coyote sphere same excess damage evoke baby dad";
+var mnemonic = "winner reflect quarter salmon reduce leaf furnace move switch panda hello vault";

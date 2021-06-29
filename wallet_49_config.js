@@ -1,1 +1,1 @@
-var mnemonic = "depart middle unaware hip layer forum armed aim soft idea expand mouse";
+var mnemonic = "nation air buddy provide robot first cabbage main suit old wet hunt";

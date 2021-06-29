@@ -1,1 +1,1 @@
-var mnemonic = "crew eagle latin unable despair alley where silly setup dynamic fold perfect";
+var mnemonic = "cry engage abandon envelope only exclude manage bachelor stamp erupt farm suit";

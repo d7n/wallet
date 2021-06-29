@@ -1,1 +1,1 @@
-var mnemonic = "junk century arctic denial permit because drip repair trophy digital over alone";
+var mnemonic = "future afraid eight pause caution nothing include mansion proud horror text tape";

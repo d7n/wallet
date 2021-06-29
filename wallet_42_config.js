@@ -1,1 +1,1 @@
-var mnemonic = "snake film seminar replace man mercy shoe jungle security install own hold";
+var mnemonic = "either basic squirrel foam cabin suggest deny copy bargain ugly answer monkey";

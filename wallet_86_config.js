@@ -1,1 +1,1 @@
-var mnemonic = "club slender canoe infant fatal wealth remove sleep bleak eyebrow leaf roof";
+var mnemonic = "inflict absorb doll old pencil immune common leisure country net arm tilt";

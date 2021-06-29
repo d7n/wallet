@@ -1,1 +1,1 @@
-var mnemonic = "notice claim angry inject sponsor love flock resist taxi drum aunt enact";
+var mnemonic = "toward desk ceiling run subject pass want shy chimney hammer chunk oval";

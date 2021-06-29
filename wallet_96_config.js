@@ -1,1 +1,1 @@
-var mnemonic = "blade harvest woman deposit spy owner unhappy major curve forest silent ranch";
+var mnemonic = "regular bullet lumber area romance sustain army supply approve job equip rookie";

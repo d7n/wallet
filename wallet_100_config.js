@@ -1,1 +1,1 @@
-var mnemonic = "able identify radar spawn daring phrase control someone local program forget bring";
+var mnemonic = "color island suit praise ability behave enlist crew yellow art sting bird";

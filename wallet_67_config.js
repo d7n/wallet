@@ -1,1 +1,1 @@
-var mnemonic = "gold poet humble lion evil leaf twice detect mansion job noble floor";
+var mnemonic = "wonder explain rocket lecture fade dirt crumble gather magic jungle senior consider";

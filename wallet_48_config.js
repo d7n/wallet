@@ -1,1 +1,1 @@
-var mnemonic = "ankle position ripple mobile lawn response cigar giant inch addict crystal cancel";
+var mnemonic = "cupboard silver trap asthma holiday attract check crash shoulder brown siege cabin";

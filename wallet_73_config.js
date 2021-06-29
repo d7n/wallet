@@ -1,1 +1,1 @@
-var mnemonic = "equip process stamp exist trip adult poem creek awake again peace leisure";
+var mnemonic = "crunch fault nuclear jungle combine couch axis pear woman into security betray";

@@ -1,1 +1,1 @@
-var mnemonic = "adult second donate leader arm front unfold purse try twenty chaos duck";
+var mnemonic = "where humor mask cube faith number puppy horn intact absorb between family";

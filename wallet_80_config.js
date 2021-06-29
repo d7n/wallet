@@ -1,1 +1,1 @@
-var mnemonic = "marine action embody abstract educate announce delay record change often top laptop";
+var mnemonic = "lunar eternal witness lottery nut review shoe syrup special uniform lawn room";

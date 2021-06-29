@@ -1,1 +1,1 @@
-var mnemonic = "strong nasty duck pen visual copper myself sorry glow frown hope north";
+var mnemonic = "casual stand gentle parade vessel miss thought chair order enlist spring audit";

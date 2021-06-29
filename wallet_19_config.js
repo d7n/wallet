@@ -1,1 +1,1 @@
-var mnemonic = "ordinary quick entry nose mandate wife album shy brisk corn thought embark";
+var mnemonic = "donate direct slot act excite question market indicate alcohol lawn early cake";

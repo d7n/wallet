@@ -1,1 +1,1 @@
-var mnemonic = "humor nurse over inmate thank bargain share setup focus gown shaft half";
+var mnemonic = "toe dragon next resemble river rocket buffalo bench group walnut concert marble";

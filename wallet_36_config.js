@@ -1,1 +1,1 @@
-var mnemonic = "unveil spring fame output vapor great spike pair rain perfect vehicle perfect";
+var mnemonic = "purpose confirm lens bullet glimpse print middle south stable regret start clap";

@@ -1,1 +1,1 @@
-var mnemonic = "balance seminar private order venture flock margin zone sponsor boat depend sound";
+var mnemonic = "fat number knock muffin pyramid tower walk happy uncover script push pair";

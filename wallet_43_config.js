@@ -1,1 +1,1 @@
-var mnemonic = "tobacco bone trial retire icon kite rotate imitate sister vault artist tag";
+var mnemonic = "mechanic kid link metal goat still organ toddler ecology inner organ flee";

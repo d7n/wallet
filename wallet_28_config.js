@@ -1,1 +1,1 @@
-var mnemonic = "canal turkey guide shy worth merry arena charge antique skate effort wise";
+var mnemonic = "ugly design love attract prepare forum elder bid injury indicate edge monster";

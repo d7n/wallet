@@ -1,1 +1,1 @@
-var mnemonic = "broom truly tell under educate visa gas nerve confirm good list genius";
+var mnemonic = "rack roof ranch smooth success huge exhaust push tank good spider output";

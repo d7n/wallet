@@ -1,1 +1,1 @@
-var mnemonic = "arch empty topic boring dream kidney clown twenty soup dragon rubber armed";
+var mnemonic = "goddess effort glimpse boil license cook much sorry marine sock warm family";

@@ -1,1 +1,1 @@
-var mnemonic = "service crew blood attitude security ketchup bring attitude feed then party dynamic";
+var mnemonic = "pig wage market dry wish mutual west dance prize protect skin sphere";

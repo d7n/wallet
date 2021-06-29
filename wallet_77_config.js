@@ -1,1 +1,1 @@
-var mnemonic = "myth emerge illness double across legend sister ignore mercy rare beef swim";
+var mnemonic = "try abandon orchard dolphin sure cycle rack elegant goose toddler festival knock";

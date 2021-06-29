@@ -1,1 +1,1 @@
-var mnemonic = "future voice silly brief remove company retire alley forward pizza dish valid";
+var mnemonic = "gold inspire unable asset insane spirit amount tragic zebra inch midnight circle";

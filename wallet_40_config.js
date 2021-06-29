@@ -1,1 +1,1 @@
-var mnemonic = "length isolate liquid where ready waste abuse cruel phone staff inside tonight";
+var mnemonic = "click lazy foam copper keen dad creek finger rather notable skirt behave";

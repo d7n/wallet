@@ -1,1 +1,1 @@
-var mnemonic = "useless change canoe catalog moon speak impact grace topic dumb glory autumn";
+var mnemonic = "chuckle increase aim road sand today regret canvas used aisle frost color";

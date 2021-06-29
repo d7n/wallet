@@ -1,1 +1,1 @@
-var mnemonic = "suffer demand volcano prefer shell hawk rather utility neglect member merge convince";
+var mnemonic = "stand artefact myself total bonus attack panda nation found more flip charge";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial oval border math rocket smile increase cannon obscure crash wrong draft";
+var mnemonic = "canvas weapon merit math grape weird quantum move shallow worth become tail";

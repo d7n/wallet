@@ -1,1 +1,1 @@
-var mnemonic = "amused caught undo funny next lottery wise toddler chief giggle stick ball";
+var mnemonic = "smooth champion uncover hollow dial again gravity faith major manage negative patch";

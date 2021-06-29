@@ -1,1 +1,1 @@
-var mnemonic = "sail harsh wagon cycle random replace sausage credit north finger gather toddler";
+var mnemonic = "wet merge jewel excuse tide doctor few topic stadium absent slogan raw";

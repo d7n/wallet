@@ -1,1 +1,1 @@
-var mnemonic = "spoil area caution cup topic citizen master morning modify cool army broken";
+var mnemonic = "steel movie pact own grace clump vapor unusual leader phrase chronic fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "throw weird tiger cousin clown angle satisfy rich deliver cause secret found";
+var mnemonic = "pool convince remind crack asset stove upgrade social together fun palm canoe";

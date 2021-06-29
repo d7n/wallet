@@ -1,1 +1,1 @@
-var mnemonic = "garden giant destroy violin suffer clutch proof sail enrich girl beach hamster";
+var mnemonic = "ordinary decline radio alien budget gather brand limb eight chunk stage multiply";

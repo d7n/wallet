@@ -1,1 +1,1 @@
-var mnemonic = "defense hope hotel banana amused sister measure pond dress badge tornado surface";
+var mnemonic = "voyage coffee radio chaos wrestle address grid cereal paddle room paddle agree";

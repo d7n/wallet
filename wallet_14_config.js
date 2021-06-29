@@ -1,1 +1,1 @@
-var mnemonic = "hill green dinner chunk enroll hotel evolve retire announce wear review pledge";
+var mnemonic = "occur actress tornado topic bulk bullet garden cattle disorder trend bulk waste";

@@ -1,1 +1,1 @@
-var mnemonic = "truly spread early victory scatter unfair fortune buyer myself turtle quantum orange";
+var mnemonic = "shallow disease empower pledge wreck side narrow recipe ocean eight impulse wire";

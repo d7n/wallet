@@ -1,1 +1,1 @@
-var mnemonic = "earn junior furnace cause liquid pledge pelican require guide sign finish social";
+var mnemonic = "carry derive genuine insane enroll easy hedgehog business certain autumn wolf impulse";

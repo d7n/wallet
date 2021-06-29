@@ -1,1 +1,1 @@
-var mnemonic = "weekend brand nose capital wealth crisp sport episode ski divide company style";
+var mnemonic = "scrap alpha mention divorce prosper dose token venture tool rug game pizza";

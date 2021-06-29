@@ -1,1 +1,1 @@
-var mnemonic = "primary wisdom album select february alcohol today must average wing engage eternal";
+var mnemonic = "ignore actor craft clean sing link busy divide fan tortoise skin year";

@@ -1,1 +1,1 @@
-var mnemonic = "sign jar excite bamboo infant humble record mouse float tip height ribbon";
+var mnemonic = "trip tiny face chronic remove decrease ship purse false ketchup wish hamster";

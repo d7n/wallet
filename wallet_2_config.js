@@ -1,1 +1,1 @@
-var mnemonic = "wheat surprise grace blanket cash ripple charge people diary boring pact reopen";
+var mnemonic = "fancy remind toss pet drink cry vanish health uncover spawn win split";

@@ -1,1 +1,1 @@
-var mnemonic = "rent logic similar glow guard annual safe mix sadness avocado scout stuff";
+var mnemonic = "vehicle chuckle race fan lady suspect lemon era property tennis genuine divide";

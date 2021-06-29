@@ -1,1 +1,1 @@
-var mnemonic = "perfect naive glass draw once favorite afford breeze harvest furnace awful place";
+var mnemonic = "olive borrow toe lazy sound sad easily hair avocado stay model public";

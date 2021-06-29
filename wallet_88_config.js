@@ -1,1 +1,1 @@
-var mnemonic = "program brush squirrel goddess stomach pond sick ranch entry supreme outside toilet";
+var mnemonic = "potato light state spawn frozen pitch vocal diamond eternal menu net trick";

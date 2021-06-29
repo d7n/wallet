@@ -1,1 +1,1 @@
-var mnemonic = "seven win crew move tissue smooth conduct give raw diesel bring flash";
+var mnemonic = "wine stool pioneer swim silly shed shuffle scare panel repair hamster enhance";

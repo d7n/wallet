@@ -1,1 +1,1 @@
-var mnemonic = "sphere endless cheese pool fire sheriff canoe brain junior broken decrease exchange";
+var mnemonic = "fork glove punch interest accuse bread service tortoise vague trigger moment memory";

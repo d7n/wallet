@@ -1,1 +1,1 @@
-var mnemonic = "spoil merry mountain have finish crumble hover science jungle maid grace nothing";
+var mnemonic = "census prosper denial local flavor run team usage ritual used swamp wood";

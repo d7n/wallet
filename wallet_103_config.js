@@ -1,1 +1,1 @@
-var mnemonic = "equal engine observe clarify obscure deliver raise wet comic else bargain topple";
+var mnemonic = "train attitude bid enforce win hedgehog despair tank raccoon spread toast blush";

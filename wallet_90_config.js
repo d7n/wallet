@@ -1,1 +1,1 @@
-var mnemonic = "tail path fold buyer boost toddler daughter aim input claim moral robot";
+var mnemonic = "aspect bar duty pear priority cost egg spare elephant drastic nominee noise";

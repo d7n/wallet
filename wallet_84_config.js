@@ -1,1 +1,1 @@
-var mnemonic = "twin holiday elephant lobster west ignore range month author timber october engage";
+var mnemonic = "number evolve unaware suggest merge hair thumb twice hover donate spare grape";

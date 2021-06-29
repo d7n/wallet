@@ -1,1 +1,1 @@
-var mnemonic = "alpha innocent extra river pear property armor sweet space flee twenty struggle";
+var mnemonic = "topic place soon helmet motion deal term dinner drastic grace liquid person";

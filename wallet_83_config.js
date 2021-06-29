@@ -1,1 +1,1 @@
-var mnemonic = "file glad hospital arena neglect drama boss whip fabric federal bitter concert";
+var mnemonic = "tennis fault tobacco curve cage gown table wagon unfold kingdom pupil merry";
