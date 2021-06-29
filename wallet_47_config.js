@@ -1,1 +1,1 @@
-var mnemonic = "fat radar abstract broken eight elder mesh draft junior badge wrestle club";
+var mnemonic = "buddy minute jacket forward picnic kitten fun marine now address scene cry";

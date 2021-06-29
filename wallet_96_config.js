@@ -1,1 +1,1 @@
-var mnemonic = "coach muffin boss stuff wolf pepper come grace stone ice finger reason";
+var mnemonic = "simple unaware almost champion fortune fault play inform toilet hair blue near";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn between order maximum foam daughter elephant avoid fault shallow able unfold";
+var mnemonic = "frequent guard receive scissors again unfold suspect topple alcohol plastic spawn citizen";

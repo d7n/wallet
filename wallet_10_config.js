@@ -1,1 +1,1 @@
-var mnemonic = "prison sadness employ track stock manual isolate gaze energy outdoor acoustic example";
+var mnemonic = "shallow ordinary illness travel gasp pink music aspect forum clerk hip purpose";

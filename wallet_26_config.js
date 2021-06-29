@@ -1,1 +1,1 @@
-var mnemonic = "cool social genre busy equal guilt snake crunch dumb oppose avocado reward";
+var mnemonic = "federal used web wool bird ozone panda crime shift jump select fish";

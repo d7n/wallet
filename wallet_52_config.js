@@ -1,1 +1,1 @@
-var mnemonic = "flag shed start metal security erosion loyal menu find panic sudden sing";
+var mnemonic = "spy potato van census mimic reflect album garbage model industry antenna suffer";

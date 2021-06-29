@@ -1,1 +1,1 @@
-var mnemonic = "deputy target follow butter sauce neck need chunk trim kit because amateur";
+var mnemonic = "crowd loop purchase pulp perfect twice excite eight reduce fiber sun opinion";

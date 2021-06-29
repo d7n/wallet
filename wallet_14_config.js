@@ -1,1 +1,1 @@
-var mnemonic = "math vivid will shaft face hundred depth design water vehicle harvest echo";
+var mnemonic = "bulb innocent flower wool absorb merit faint bicycle insect lonely clap gallery";

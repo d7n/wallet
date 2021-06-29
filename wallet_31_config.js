@@ -1,1 +1,1 @@
-var mnemonic = "hand abuse save frame artwork fruit reunion awake battle stuff night icon";
+var mnemonic = "shuffle machine wish aim enjoy security innocent brown flee early focus essay";

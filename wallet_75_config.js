@@ -1,1 +1,1 @@
-var mnemonic = "fitness voyage only paper squirrel suggest camp mind salt bomb nurse display";
+var mnemonic = "bless accuse pride surround unveil harvest dilemma like wage arrest giraffe process";

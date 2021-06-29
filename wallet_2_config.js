@@ -1,1 +1,1 @@
-var mnemonic = "fashion argue express winner dose claim aisle vast jealous slot bone twist";
+var mnemonic = "album floor easily behave belt night oppose glass fragile genius rapid group";

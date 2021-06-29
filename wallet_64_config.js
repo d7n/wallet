@@ -1,1 +1,1 @@
-var mnemonic = "very best army oil spot embody super saddle alien chimney rubber cruel";
+var mnemonic = "victory stock shiver help course sudden comfort kit flip deer board habit";

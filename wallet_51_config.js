@@ -1,1 +1,1 @@
-var mnemonic = "parent armed uphold produce suggest ignore piece inner alien current scan marble";
+var mnemonic = "kit since park evolve play gossip roof dizzy glide shadow quote frown";

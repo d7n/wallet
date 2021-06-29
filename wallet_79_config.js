@@ -1,1 +1,1 @@
-var mnemonic = "special issue leaf crazy sword citizen century brass entire heart demand type";
+var mnemonic = "battle gown visit aspect hazard catalog minor frown surround tomorrow room hollow";

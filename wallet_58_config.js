@@ -1,1 +1,1 @@
-var mnemonic = "solar load elephant label wreck hotel escape bike knife glance lecture prefer";
+var mnemonic = "loop biology sign faint chief sugar junior woman urban mango normal dinner";

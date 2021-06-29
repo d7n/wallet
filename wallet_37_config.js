@@ -1,1 +1,1 @@
-var mnemonic = "ship hope tonight proud flush curious chronic river pony mango harsh dog";
+var mnemonic = "lift cheap humble balance soda orbit genius rapid select three between program";

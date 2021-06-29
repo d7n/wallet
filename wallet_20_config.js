@@ -1,1 +1,1 @@
-var mnemonic = "comic thing exchange helmet latin punch debate dash blame luggage veteran awkward";
+var mnemonic = "salt social uniform just garment shift cotton demand anger symptom disagree winter";

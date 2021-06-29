@@ -1,1 +1,1 @@
-var mnemonic = "shadow depend orphan word pitch helmet ridge repeat whale travel prize hawk";
+var mnemonic = "second document race couple alcohol square similar genuine dismiss receive celery when";

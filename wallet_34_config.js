@@ -1,1 +1,1 @@
-var mnemonic = "glass cruise image weapon flash direct local trouble beyond veteran evil camp";
+var mnemonic = "card panel harsh life soccer topic city antique best sister stand soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "prize head dust sketch shoe six abandon stadium flat luggage behind busy";
+var mnemonic = "clerk ahead claw ball nose garbage ceiling raw radar remain pig ball";

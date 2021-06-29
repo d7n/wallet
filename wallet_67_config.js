@@ -1,1 +1,1 @@
-var mnemonic = "federal rocket round scout broom acquire right confirm float merry friend frequent";
+var mnemonic = "portion phrase fiber nature desert dawn bright crumble effort hero chef still";

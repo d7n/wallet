@@ -1,1 +1,1 @@
-var mnemonic = "empower curtain rug wild enter merge dish skill lonely copper kiwi monster";
+var mnemonic = "blade crop nut know lab cash prosper rather park among garbage flavor";

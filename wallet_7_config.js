@@ -1,1 +1,1 @@
-var mnemonic = "estate position doll demise mention margin avoid skin today faint power insane";
+var mnemonic = "exhaust black flat simple obvious cancel acid double claim wheel elegant damage";

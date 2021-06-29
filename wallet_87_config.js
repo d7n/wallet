@@ -1,1 +1,1 @@
-var mnemonic = "hurry onion utility broccoli search library page destroy test response filter genius";
+var mnemonic = "vacuum envelope citizen include flavor honey fit master enough double hurry adapt";

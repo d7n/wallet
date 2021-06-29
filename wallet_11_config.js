@@ -1,1 +1,1 @@
-var mnemonic = "wife category script train crowd nice jazz energy refuse balance random direct";
+var mnemonic = "grain worth expand october bread exhaust asset walnut exhibit thumb tube orange";

@@ -1,1 +1,1 @@
-var mnemonic = "barely legend bird siren current milk muscle hawk divert pipe avoid game";
+var mnemonic = "patient often exhibit plate prosper step million dentist present carpet jeans neither";

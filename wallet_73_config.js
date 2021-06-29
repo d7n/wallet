@@ -1,1 +1,1 @@
-var mnemonic = "art favorite plastic demise kiss company mirror need silent afford affair public";
+var mnemonic = "release scissors private loan mirror power coil carbon vapor rely explain brand";

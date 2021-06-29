@@ -1,1 +1,1 @@
-var mnemonic = "depend brand noble butter jacket regular item clump crucial cloth phrase expire";
+var mnemonic = "shop dream tiger actual reflect trigger artwork shove faith resource sketch rather";

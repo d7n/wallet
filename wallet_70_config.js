@@ -1,1 +1,1 @@
-var mnemonic = "glad rural divide eternal front pioneer social pepper aware pudding tomato walnut";
+var mnemonic = "sell detect boil advance glare soul announce best cereal jealous autumn coach";

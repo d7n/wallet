@@ -1,1 +1,1 @@
-var mnemonic = "defense rigid faith shiver anxiety gesture brother scheme vault spray artist purse";
+var mnemonic = "afraid drama siege panel state loud turn book public laptop spread timber";

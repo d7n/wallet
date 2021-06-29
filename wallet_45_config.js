@@ -1,1 +1,1 @@
-var mnemonic = "donkey walnut napkin dumb depend adjust spatial clock image chest ask engage";
+var mnemonic = "desk warfare draw almost decline wage elephant burger skirt mother fatigue fever";

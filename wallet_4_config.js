@@ -1,1 +1,1 @@
-var mnemonic = "leopard decide rabbit autumn zebra allow guard attitude moment water cube blade";
+var mnemonic = "whip business certain cruel essence moon job hammer permit enough nation rack";

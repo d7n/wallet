@@ -1,1 +1,1 @@
-var mnemonic = "sort furnace jazz bargain mosquito curtain poet soap gain mad quit quiz";
+var mnemonic = "twenty crisp sorry general top visa scene cheese false hedgehog abstract volume";

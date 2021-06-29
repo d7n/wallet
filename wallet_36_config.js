@@ -1,1 +1,1 @@
-var mnemonic = "sense print grace fragile burst crawl mercy opinion small bullet impose ghost";
+var mnemonic = "badge demand order nest hill file gadget need drum demise elegant pond";

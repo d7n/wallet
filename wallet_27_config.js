@@ -1,1 +1,1 @@
-var mnemonic = "grit renew rhythm robot eight theme hedgehog cake seven disagree tragic sight";
+var mnemonic = "victory settle street wealth scale west seek chase powder jelly bonus tooth";

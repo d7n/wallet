@@ -1,1 +1,1 @@
-var mnemonic = "actress wheel assume nest veteran cram torch series brave pepper fringe under";
+var mnemonic = "taxi pulp tenant dress copper furnace amazing animal dirt hundred shiver void";

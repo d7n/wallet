@@ -1,1 +1,1 @@
-var mnemonic = "citizen tank hen live fame decide success loan rapid awkward energy auto";
+var mnemonic = "basket advance hurdle what camp connect swamp say spy camp abstract swap";

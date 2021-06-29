@@ -1,1 +1,1 @@
-var mnemonic = "cupboard join boat resist own barely despair supply anger winter faculty anchor";
+var mnemonic = "donor place ball airport mention bulk exhibit item off virus alarm disease";

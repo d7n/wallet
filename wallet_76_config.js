@@ -1,1 +1,1 @@
-var mnemonic = "wing saddle royal predict when raven insect tunnel melt great embark eternal";
+var mnemonic = "avoid material program foot own evolve raven tornado off mother trade august";

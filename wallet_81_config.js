@@ -1,1 +1,1 @@
-var mnemonic = "hospital journey found column custom umbrella mask cannon vivid expose effort acid";
+var mnemonic = "rabbit moment brother reflect punch vocal arch title pistol flash hour you";

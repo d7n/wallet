@@ -1,1 +1,1 @@
-var mnemonic = "need divide matter mixed bullet song focus lady number weasel comfort version";
+var mnemonic = "breeze pigeon arm wear double transfer hidden army drift swallow scorpion top";

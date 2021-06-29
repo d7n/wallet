@@ -1,1 +1,1 @@
-var mnemonic = "flock clever immune cabin weird protect jacket auto true rather anchor coffee";
+var mnemonic = "attend butter gravity silver feature village fiber ten shuffle cloud shoulder prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "injury punch cinnamon scorpion universe physical fragile they tag hour spirit citizen";
+var mnemonic = "earn pottery elite margin cause portion life antique swim acoustic wagon jealous";

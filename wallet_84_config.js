@@ -1,1 +1,1 @@
-var mnemonic = "normal salute unveil useless wet volcano orient slice wave soccer enforce exotic";
+var mnemonic = "master mean among fruit napkin atom document access walnut twin gadget warm";

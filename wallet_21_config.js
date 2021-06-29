@@ -1,1 +1,1 @@
-var mnemonic = "napkin wish genre sight subway fog emerge monitor kid cross trend element";
+var mnemonic = "earth seek drive coral system year occur lava depart used cradle knee";

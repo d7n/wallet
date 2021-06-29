@@ -1,1 +1,1 @@
-var mnemonic = "panel smile person radio purse abuse chair hollow ancient absent wrap service";
+var mnemonic = "cook journey nerve glance follow profit daring version slide exit rubber nation";

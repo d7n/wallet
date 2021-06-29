@@ -1,1 +1,1 @@
-var mnemonic = "lunch food universe wealth acoustic choice miss ordinary taste accident option vehicle";
+var mnemonic = "bonus concert rate first witness cradle before chuckle soccer scare annual turtle";

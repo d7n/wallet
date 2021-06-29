@@ -1,1 +1,1 @@
-var mnemonic = "purchase appear river hundred retire thank topic gain february spawn order another";
+var mnemonic = "permit rigid atom object item task spirit wealth cupboard suffer guess caution";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse baby please lobster absurd popular pledge gift primary later series blade";
+var mnemonic = "today frost hill glory fine post celery gospel defense machine cancel welcome";

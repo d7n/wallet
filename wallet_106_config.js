@@ -1,1 +1,1 @@
-var mnemonic = "cluster resource machine mobile demise charge mixture talent distance odor make random";
+var mnemonic = "jar help foil kid someone other oil reunion pigeon feature ribbon edit";

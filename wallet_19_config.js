@@ -1,1 +1,1 @@
-var mnemonic = "job burst verb position peace flavor snow kiss oil turtle pet nest";
+var mnemonic = "vague oppose town little ice ladder word milk exit gadget magic glare";

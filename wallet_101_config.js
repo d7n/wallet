@@ -1,1 +1,1 @@
-var mnemonic = "beach faint issue combine fault acoustic claw tray access scan tray secret";
+var mnemonic = "canvas dynamic trigger layer travel sister bone six collect maid cave visual";

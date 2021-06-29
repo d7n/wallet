@@ -1,1 +1,1 @@
-var mnemonic = "just space volcano dawn warfare math elephant program promote ski expand addict";
+var mnemonic = "dice section poet dutch couch museum kitten desk regret cable tilt lecture";

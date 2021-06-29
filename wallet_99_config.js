@@ -1,1 +1,1 @@
-var mnemonic = "limb stuff column rally family issue nominee kiss hammer hair treat actual";
+var mnemonic = "window distance wrap tube rate saddle bonus age tree truth picnic rely";

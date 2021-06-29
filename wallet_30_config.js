@@ -1,1 +1,1 @@
-var mnemonic = "supreme zebra pigeon sunset empower eager machine sing april violin huge unfair";
+var mnemonic = "grant album riot black they arena special wink evil tiger trap dream";

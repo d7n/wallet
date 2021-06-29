@@ -1,1 +1,1 @@
-var mnemonic = "lend around reform beef crystal pave creek need reunion asthma front profit";
+var mnemonic = "clerk cash reopen depend foam coffee swamp lion absurd used swarm make";

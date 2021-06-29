@@ -1,1 +1,1 @@
-var mnemonic = "wagon ranch check typical final acid ask twenty amateur squeeze siren call";
+var mnemonic = "siren twist two pill goddess switch merge cruise switch dentist place nephew";

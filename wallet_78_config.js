@@ -1,1 +1,1 @@
-var mnemonic = "slam artwork opinion brand cube wedding culture crumble rail gaze list catalog";
+var mnemonic = "radio hair urban country flame wife network outdoor few frown soul taste";

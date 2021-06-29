@@ -1,1 +1,1 @@
-var mnemonic = "mule shine wrong rain evil spring normal club document echo sleep giraffe";
+var mnemonic = "ignore ready prize suggest moon monster direct trap remember torch private dry";

@@ -1,1 +1,1 @@
-var mnemonic = "profit glide poem vague retire hollow carbon noble sauce art they case";
+var mnemonic = "pizza tube champion mixture power theme guess guitar barely sentence scorpion labor";

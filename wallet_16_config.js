@@ -1,1 +1,1 @@
-var mnemonic = "miracle solid bonus leave west guard humor toe stereo zoo purity flip";
+var mnemonic = "rent canyon glad net lounge release toss season join crash volcano rally";

@@ -1,1 +1,1 @@
-var mnemonic = "police you mobile deputy junk blue hollow sweet vintage letter level inmate";
+var mnemonic = "balance ivory flame punch talk there start aisle screen invite glad hint";

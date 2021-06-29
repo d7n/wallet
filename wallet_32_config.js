@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon math slam slush legend try black spare review quiz hub evil";
+var mnemonic = "medal silk surprise system spirit memory symptom rule essence helmet rely gravity";

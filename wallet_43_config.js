@@ -1,1 +1,1 @@
-var mnemonic = "churn bitter ready stamp only royal tooth double matrix step curtain together";
+var mnemonic = "lock capital fall boil sadness start keep give model pink tenant front";

@@ -1,1 +1,1 @@
-var mnemonic = "cave destroy member whip have dish weather ice board timber wealth mirror";
+var mnemonic = "chest trouble fine heart like argue visa smile sister middle volume deputy";

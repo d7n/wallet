@@ -1,1 +1,1 @@
-var mnemonic = "worth treat banner type garden guard forest raccoon vault old scissors hundred";
+var mnemonic = "bracket crunch shed random urge desk fetch cancel real diesel snake theory";

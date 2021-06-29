@@ -1,1 +1,1 @@
-var mnemonic = "boost rebel toilet crew resemble ostrich excuse type pledge allow silk universe";
+var mnemonic = "humor cement physical laptop celery plug lobster adjust code cradle sugar ribbon";

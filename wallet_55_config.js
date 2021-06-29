@@ -1,1 +1,1 @@
-var mnemonic = "click float magnet alcohol figure steak casual response cook couple attend style";
+var mnemonic = "depth fold charge noodle despair erase flash general plunge when boost soap";

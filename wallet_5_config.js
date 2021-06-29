@@ -1,1 +1,1 @@
-var mnemonic = "safe lock pet energy veteran flip beach bike royal plug lake before";
+var mnemonic = "matter lazy valley ready problem solid squirrel broken ramp develop talk shed";

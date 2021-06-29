@@ -1,1 +1,1 @@
-var mnemonic = "sing gesture lesson effort will toward slice brown own initial brief mass";
+var mnemonic = "filter garage grant minimum cereal final soft arch unknown uncle motor require";

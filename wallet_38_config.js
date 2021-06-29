@@ -1,1 +1,1 @@
-var mnemonic = "bamboo kiwi degree gallery labor way regular apple bottom estate rebel bundle";
+var mnemonic = "then shy clay slide sea hawk mushroom better inhale journey loan project";

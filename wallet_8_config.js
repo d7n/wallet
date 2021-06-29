@@ -1,1 +1,1 @@
-var mnemonic = "pony basic chair agree mean tornado spawn dolphin tail kiss elegant shiver";
+var mnemonic = "domain egg strike fresh taste board minor bonus gym trick tongue nice";

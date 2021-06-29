@@ -1,1 +1,1 @@
-var mnemonic = "scatter salon motor inject print van cement cost casual push word solar";
+var mnemonic = "print carpet place credit train before arrange keep perfect often infant digital";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom talent salt practice sadness pair source trick viable great steel slush";
+var mnemonic = "napkin bean tornado blade pact baby young entire crystal funny divorce ready";

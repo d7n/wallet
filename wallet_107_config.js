@@ -1,1 +1,1 @@
-var mnemonic = "icon theme ignore recipe crucial axis already novel reject pluck chief sell";
+var mnemonic = "praise question glare tide viable mixture unfold accident good can nose rifle";

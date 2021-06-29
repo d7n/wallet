@@ -1,1 +1,1 @@
-var mnemonic = "water earn oppose trouble torch churn cycle master marine index approve save";
+var mnemonic = "noble soup shrimp give brand river resist pony cave render crystal chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon web flip face film wreck obvious jazz either post industry detail";
+var mnemonic = "upset toy divorce annual puppy behind project october riot option glove tray";

@@ -1,1 +1,1 @@
-var mnemonic = "annual myth output coral velvet sign feature odor royal speak lion borrow";
+var mnemonic = "below reason vast forum melt anxiety toilet vessel drill tortoise story envelope";

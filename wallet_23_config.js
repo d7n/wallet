@@ -1,1 +1,1 @@
-var mnemonic = "sister winner mountain ensure bleak shoulder miss ankle indoor letter fish veteran";
+var mnemonic = "disorder million copper fruit away fork ostrich arena music bullet rule edit";

@@ -1,1 +1,1 @@
-var mnemonic = "before athlete wait beef drama sugar popular swap awesome analyst tank offer";
+var mnemonic = "cheese outdoor bulk lesson mansion bread offer retreat universe acoustic reform disease";

@@ -1,1 +1,1 @@
-var mnemonic = "swear govern similar west umbrella diamond always ostrich predict crop call execute";
+var mnemonic = "cliff search farm tissue illegal fashion snack weird theme cost subject punch";

@@ -1,1 +1,1 @@
-var mnemonic = "debris daring chair globe change abstract grace worth chef gym almost gaze";
+var mnemonic = "adapt length occur inflict device negative fiscal coin skirt zoo nothing vibrant";

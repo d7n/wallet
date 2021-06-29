@@ -1,1 +1,1 @@
-var mnemonic = "fame deer foot casino situate road hole coin buzz museum ten member";
+var mnemonic = "lift defy bundle type clever song limit pole wing cool friend profit";

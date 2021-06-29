@@ -1,1 +1,1 @@
-var mnemonic = "blouse paddle canal pink chase wagon trash wise casual wing dawn review";
+var mnemonic = "number foot nasty enroll puppy pioneer mimic hair relax bird abstract crawl";

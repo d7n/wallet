@@ -1,1 +1,1 @@
-var mnemonic = "reward beauty same warrior dizzy foam easily caught act produce stable spread";
+var mnemonic = "wedding crawl since brick design candy drip during skate enrich wheel pact";

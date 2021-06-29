@@ -1,1 +1,1 @@
-var mnemonic = "client knife illness whip kit sun hungry weasel yard van cheap mention";
+var mnemonic = "lemon apart churn dice release old scare team foster love jump misery";

@@ -1,1 +1,1 @@
-var mnemonic = "flag cherry drama enact crucial lounge sand weekend soldier rifle artwork such";
+var mnemonic = "list tool vivid inside swarm daring job barely swap divorce drip exact";

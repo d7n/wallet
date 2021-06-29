@@ -1,1 +1,1 @@
-var mnemonic = "lens second obvious erupt jungle duck happy wool develop drop reject nose";
+var mnemonic = "fit renew scare picnic snow version judge dress abuse supreme river frog";

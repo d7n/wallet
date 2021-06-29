@@ -1,1 +1,1 @@
-var mnemonic = "curtain tunnel elbow nephew outdoor aisle jacket response rail scene rely elbow";
+var mnemonic = "buddy paddle charge abuse flight dash brief inside primary price option benefit";

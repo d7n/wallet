@@ -1,1 +1,1 @@
-var mnemonic = "arena author better cotton control outer execute tortoise alien sample phone food";
+var mnemonic = "dust caught smoke secret coconut glad lawsuit vintage side minimum tree middle";

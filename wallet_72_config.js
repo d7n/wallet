@@ -1,1 +1,1 @@
-var mnemonic = "erosion awake crazy vital wrestle recall egg script apart foil relax wise";
+var mnemonic = "word forward release nothing crucial mountain fresh chief code obscure dragon knife";

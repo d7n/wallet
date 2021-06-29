@@ -1,1 +1,1 @@
-var mnemonic = "ship lobster mesh praise nerve mask drip elevator potato gaze debris science";
+var mnemonic = "hope grow foot creek kidney true tell search arrow canyon grab game";

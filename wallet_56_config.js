@@ -1,1 +1,1 @@
-var mnemonic = "glue absorb income salad lonely pattern trophy rib paper they patient horse";
+var mnemonic = "hole fabric wedding lesson parrot inmate close soldier history music sign enjoy";

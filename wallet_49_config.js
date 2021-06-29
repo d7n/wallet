@@ -1,1 +1,1 @@
-var mnemonic = "capable pond shrimp brass beef virtual because poverty session stock rookie moral";
+var mnemonic = "connect useful buddy stem wild industry long manual erode task bicycle uncle";

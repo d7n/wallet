@@ -1,1 +1,1 @@
-var mnemonic = "panther diagram hope ethics execute pencil nut brush thought gallery hollow sniff";
+var mnemonic = "matter similar best wisdom click artwork roast gather east among annual barrel";

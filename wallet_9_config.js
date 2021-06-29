@@ -1,1 +1,1 @@
-var mnemonic = "about device fine wedding short soccer lunch close undo surface drill february";
+var mnemonic = "nurse lesson client horn kiwi busy bleak employ caught merge sustain harsh";

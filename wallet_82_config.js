@@ -1,1 +1,1 @@
-var mnemonic = "increase icon post cream garlic amazing fuel bridge supply hint damage forward";
+var mnemonic = "visa remove become token ozone stumble cattle ensure clerk april smile polar";

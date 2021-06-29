@@ -1,1 +1,1 @@
-var mnemonic = "lake hair behave enlist web scorpion slide huge kiwi inmate surround electric";
+var mnemonic = "step average hobby audit enlist ivory lunar blur spoil valve action toss";
