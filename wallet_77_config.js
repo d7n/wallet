@@ -1,1 +1,1 @@
-var mnemonic = "tragic unlock bargain glare slogan era negative hurry august elegant inner tired";
+var mnemonic = "curtain section ethics powder taxi regular tower universe tool heart hand pigeon";

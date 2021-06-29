@@ -1,1 +1,1 @@
-var mnemonic = "hospital logic valid remove people aerobic credit salmon flight thrive rocket gather";
+var mnemonic = "destroy shop miss web crew inherit soon unfold become piano install craft";

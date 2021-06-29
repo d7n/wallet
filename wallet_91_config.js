@@ -1,1 +1,1 @@
-var mnemonic = "vessel dwarf paper century follow fatal calm carpet stadium twin gesture people";
+var mnemonic = "ring ethics tragic maple swing lock physical stairs scene wreck leopard glare";

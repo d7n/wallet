@@ -1,1 +1,1 @@
-var mnemonic = "raven home dry huge knee disagree utility sea equip atom design price";
+var mnemonic = "early stove butter ankle limit gospel year edit key confirm vacuum coffee";

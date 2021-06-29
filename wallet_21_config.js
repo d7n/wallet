@@ -1,1 +1,1 @@
-var mnemonic = "vivid sustain segment chat flush square health defy merit wolf neck object";
+var mnemonic = "never dinosaur confirm language example absurd tool fossil man equip letter lobster";

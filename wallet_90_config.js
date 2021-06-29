@@ -1,1 +1,1 @@
-var mnemonic = "crane idea black hat rival wild animal cruel still wear category jazz";
+var mnemonic = "answer sad buzz recall enable circle second seek false toast night soon";

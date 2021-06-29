@@ -1,1 +1,1 @@
-var mnemonic = "common uncover soup table car pioneer key hurry music arrest convince empty";
+var mnemonic = "carbon armed local tape vacuum parent task note tape burger expire begin";

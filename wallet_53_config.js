@@ -1,1 +1,1 @@
-var mnemonic = "intact rabbit better open hamster twice prize shoe adapt afraid weapon box";
+var mnemonic = "owner drastic art thing fiction flavor urban spawn edge inside frozen bone";

@@ -1,1 +1,1 @@
-var mnemonic = "cube hospital input runway expire innocent cup recipe siren garment appear upset";
+var mnemonic = "tuna magnet dutch suggest duck adjust asthma stomach curve fortune volcano fancy";

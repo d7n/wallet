@@ -1,1 +1,1 @@
-var mnemonic = "comfort draw midnight popular jewel ticket report response reveal rude athlete body";
+var mnemonic = "luxury sport record talent kidney taxi earn spoil stage gaze liquid grocery";

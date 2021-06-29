@@ -1,1 +1,1 @@
-var mnemonic = "gym present love embark bundle bronze motion trash pond monitor alarm pretty";
+var mnemonic = "cloud negative carpet shift patrol find glory patient green service refuse viable";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome rotate agent pulp scrub exhibit talent cloth blue way deliver solve";
+var mnemonic = "useful venue raw rate clever duty hover clog later fame box index";

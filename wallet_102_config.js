@@ -1,1 +1,1 @@
-var mnemonic = "garbage keen purity sell push edge coil ritual clump love hybrid ugly";
+var mnemonic = "cable install churn zoo exile clog stage trap faculty innocent river search";

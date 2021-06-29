@@ -1,1 +1,1 @@
-var mnemonic = "cheese mixture later feel option bomb hour afford pluck differ early plug";
+var mnemonic = "pink milk beauty radio current hybrid minor motion direct depth kingdom shrimp";

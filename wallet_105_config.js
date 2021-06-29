@@ -1,1 +1,1 @@
-var mnemonic = "always drip fork borrow van live shadow venue brief wait scorpion crystal";
+var mnemonic = "blossom churn mystery ladder chef remind umbrella female since pizza fatigue despair";

@@ -1,1 +1,1 @@
-var mnemonic = "feed order track wash cool gate review fabric vessel almost hire chest";
+var mnemonic = "prefer media cushion absorb twin behind manual dinner already erode wasp truck";

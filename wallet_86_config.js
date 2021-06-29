@@ -1,1 +1,1 @@
-var mnemonic = "frame orange income quiz link tilt hamster else poverty local first hurdle";
+var mnemonic = "nation nuclear travel ski vast toss garment arrive arch fish dial author";

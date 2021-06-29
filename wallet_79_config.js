@@ -1,1 +1,1 @@
-var mnemonic = "immense eternal lamp vendor suggest olive appear door funny goose banana type";
+var mnemonic = "crystal lamp ordinary stairs genre music settle enact action hunt field above";

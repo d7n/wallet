@@ -1,1 +1,1 @@
-var mnemonic = "various odor worry inspire task forest know middle absent idea outside end";
+var mnemonic = "faith category mirror they blossom vague unveil story chunk lock twin ranch";

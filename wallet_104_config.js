@@ -1,1 +1,1 @@
-var mnemonic = "coffee harvest obtain that music keen shiver vendor chapter faint green rack";
+var mnemonic = "shell honey arrange silent elephant ethics thrive pause pulse entire wish enlist";

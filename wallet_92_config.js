@@ -1,1 +1,1 @@
-var mnemonic = "move document idea comic jacket couple message stay master raw client swing";
+var mnemonic = "business elephant cotton distance grace canal warm bar broccoli stereo forum dinner";

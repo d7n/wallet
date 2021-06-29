@@ -1,1 +1,1 @@
-var mnemonic = "raw spot good nasty essence ladder sunset mixture chapter cute skate strategy";
+var mnemonic = "bulk live dinosaur among off recipe man pioneer whale glove solution grant";

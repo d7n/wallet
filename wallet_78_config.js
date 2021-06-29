@@ -1,1 +1,1 @@
-var mnemonic = "crunch direct ivory nation image success dust neck venture grocery about glance";
+var mnemonic = "arctic insane security figure moral chat suffer appear strategy sugar advice keep";

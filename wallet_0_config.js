@@ -1,1 +1,1 @@
-var mnemonic = "special alley symbol path path trumpet sphere cruel refuse balance scheme stadium";
+var mnemonic = "car warrior vibrant decide foil legal sting mansion silk draw dinosaur assist";

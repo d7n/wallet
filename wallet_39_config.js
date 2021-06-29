@@ -1,1 +1,1 @@
-var mnemonic = "flame barely involve sweet night adult salute chapter remain wild lion steel";
+var mnemonic = "carpet output warrior example ski robot indoor wrist sheriff vacuum duty merge";

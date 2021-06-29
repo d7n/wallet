@@ -1,1 +1,1 @@
-var mnemonic = "light disorder random neither echo market fit analyst feature refuse decorate patrol";
+var mnemonic = "meadow prevent uncover fragile half soda repair report muffin divorce motor ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "alien present dinosaur dinner recall mystery right scatter extra stumble surprise two";
+var mnemonic = "tumble ramp anxiety error cost address slow connect equal scrap what magnet";

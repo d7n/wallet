@@ -1,1 +1,1 @@
-var mnemonic = "next sibling color riot move about use mad pass sketch demand aerobic";
+var mnemonic = "please absurd grace scrub sausage elite run basket afford garlic buzz mix";

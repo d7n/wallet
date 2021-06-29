@@ -1,1 +1,1 @@
-var mnemonic = "figure call industry response dwarf equip exit clean enough certain small mirror";
+var mnemonic = "tree pledge online breeze destroy rocket slot crash prevent art shadow coast";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton forest vintage neck thank plastic wrist always maid addict hundred core";
+var mnemonic = "episode announce ball drink tank scatter inmate olive valley news render rose";

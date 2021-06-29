@@ -1,1 +1,1 @@
-var mnemonic = "mystery luggage top hover market fever nation expire strong circle live banana";
+var mnemonic = "skin six parrot inch merit half refuse suggest satoshi offer danger cactus";

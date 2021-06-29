@@ -1,1 +1,1 @@
-var mnemonic = "addict ladder radar main protect trap enter drama smart tag group fresh";
+var mnemonic = "loop power regular embrace crane omit million shed damp west feed canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "general throw travel push name puppy lunar chat person butter october alcohol";
+var mnemonic = "expect travel term certain move used learn whisper castle earth nature promote";

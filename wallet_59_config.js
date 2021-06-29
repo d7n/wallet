@@ -1,1 +1,1 @@
-var mnemonic = "luxury romance breeze sock hello ritual impulse ribbon damage good earth there";
+var mnemonic = "ripple stem hamster exhibit churn wool moon begin neither purse badge boss";

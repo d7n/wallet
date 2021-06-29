@@ -1,1 +1,1 @@
-var mnemonic = "meadow wall subway hand find shop enforce garden penalty hurdle catalog sight";
+var mnemonic = "genius north twelve sand cheese imitate snack zero winner control forget place";

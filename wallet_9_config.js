@@ -1,1 +1,1 @@
-var mnemonic = "strike enter october spider analyst refuse enact alone buzz allow abandon flight";
+var mnemonic = "alert shy into board explain faith analyst snack response rain key column";

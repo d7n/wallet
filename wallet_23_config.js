@@ -1,1 +1,1 @@
-var mnemonic = "attract private vibrant replace damage blind fade start renew decrease where mail";
+var mnemonic = "response trouble milk slice joke rival behave hard vessel matter grain skin";

@@ -1,1 +1,1 @@
-var mnemonic = "crew clay canvas fix hollow course stand swim amused remember damp into";
+var mnemonic = "couch drift few lottery now enjoy afford august rice bar diagram ice";

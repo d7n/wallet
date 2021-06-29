@@ -1,1 +1,1 @@
-var mnemonic = "denial pelican illegal fun earth mail maze fork dial goat report glare";
+var mnemonic = "evoke silent help birth produce brief leisure where brain sentence end hover";

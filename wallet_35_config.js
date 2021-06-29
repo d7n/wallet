@@ -1,1 +1,1 @@
-var mnemonic = "jacket address debate spoon luggage robust nasty carpet hobby job radar rather";
+var mnemonic = "comic one country cycle labor size release dream clutch shiver myself immune";

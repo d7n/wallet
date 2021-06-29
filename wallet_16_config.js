@@ -1,1 +1,1 @@
-var mnemonic = "movie addict ten lucky congress clay lucky use final expose depth powder";
+var mnemonic = "load absent attitude wing banner include print ribbon cargo syrup success ask";

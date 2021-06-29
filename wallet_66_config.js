@@ -1,1 +1,1 @@
-var mnemonic = "six client sure sweet stereo early spoil basket client people opera stuff";
+var mnemonic = "jar shaft dust remove phone permit powder quantum debris dune enough save";

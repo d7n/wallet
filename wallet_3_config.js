@@ -1,1 +1,1 @@
-var mnemonic = "grid price hobby pipe detail border today because sketch rough gym harvest";
+var mnemonic = "critic trigger help network quantum spell poet child gauge argue best okay";

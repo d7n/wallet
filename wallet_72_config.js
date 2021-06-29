@@ -1,1 +1,1 @@
-var mnemonic = "real orbit second leopard include love glove soft minor appear cactus panic";
+var mnemonic = "dentist bring lawn profit rifle hello long gallery process nose stomach foot";

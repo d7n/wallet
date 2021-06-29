@@ -1,1 +1,1 @@
-var mnemonic = "purse mandate toddler slim goat glad lonely ship relief flush dumb pledge";
+var mnemonic = "practice elevator craft material beach inherit rotate cupboard paper cry outer orange";

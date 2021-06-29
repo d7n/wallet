@@ -1,1 +1,1 @@
-var mnemonic = "helmet virus weasel reopen alter grocery alone canyon poet flock mom curve";
+var mnemonic = "buzz vote vivid input result model input price wing announce tone horse";

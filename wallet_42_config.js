@@ -1,1 +1,1 @@
-var mnemonic = "avoid oil tree rifle unveil settle course swim chase loop lucky olympic";
+var mnemonic = "ride hollow hotel edit define swap shaft sing kidney choice little motion";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze drum claim ozone auction century occur letter ensure help slab height";
+var mnemonic = "motion crouch juice hobby ostrich metal tobacco dune salute shoulder result priority";

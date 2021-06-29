@@ -1,1 +1,1 @@
-var mnemonic = "crucial pottery host fine behave panther comic biology happy gap slot winner";
+var mnemonic = "risk car enact diagram cram slogan gun call festival knock curve december";

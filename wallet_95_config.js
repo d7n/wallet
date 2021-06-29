@@ -1,1 +1,1 @@
-var mnemonic = "found proof scatter combine skull pear wire toss recipe glow various must";
+var mnemonic = "card arrive rifle spare wheat abuse total prosper orient labor scale hand";

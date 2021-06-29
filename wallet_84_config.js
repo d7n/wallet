@@ -1,1 +1,1 @@
-var mnemonic = "sunny pigeon twelve together search script pink concert apart purchase rose fringe";
+var mnemonic = "oil garden walnut burst cement retreat govern film work pen slush piece";

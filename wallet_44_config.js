@@ -1,1 +1,1 @@
-var mnemonic = "right case design enjoy kite dress cement setup soccer point family burst";
+var mnemonic = "burst enough lesson connect width oil simple giant swap limit disease today";

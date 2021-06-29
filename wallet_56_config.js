@@ -1,1 +1,1 @@
-var mnemonic = "bring blanket jeans invest sudden couple decade special reflect motor fiscal beach";
+var mnemonic = "blade walk destroy identify load rude belt matrix loan sponsor open body";

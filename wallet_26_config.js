@@ -1,1 +1,1 @@
-var mnemonic = "piano kidney device corn write involve hospital tuna panther stuff spoil luxury";
+var mnemonic = "develop armor balance violin delay noble soccer idle pattern dynamic patient dose";

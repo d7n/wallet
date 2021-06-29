@@ -1,1 +1,1 @@
-var mnemonic = "seat mad trade blouse enforce borrow attract property oil limit allow begin";
+var mnemonic = "pottery motion mother cry glass monster require craft sentence brand tomorrow raw";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture stable fall fit today record capital illegal gown mirror gesture enhance";
+var mnemonic = "office whip antenna suspect security plunge pole lottery entry surge huge melody";

@@ -1,1 +1,1 @@
-var mnemonic = "limb crazy network seat north behind orchard brand electric turtle gold humble";
+var mnemonic = "tongue require praise casino local easily dove various warrior merit seed omit";

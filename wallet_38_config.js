@@ -1,1 +1,1 @@
-var mnemonic = "issue erode quote damage another ramp hundred leaf legal grocery century oppose";
+var mnemonic = "wrist canoe hour bridge clown glance strong dilemma state file share vendor";

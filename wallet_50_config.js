@@ -1,1 +1,1 @@
-var mnemonic = "sketch suffer report frequent junk bid song height fossil abstract payment cram";
+var mnemonic = "sweet force wash run april seminar earth local memory tank slam spin";

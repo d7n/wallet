@@ -1,1 +1,1 @@
-var mnemonic = "weird economy bag mandate learn squirrel lyrics repeat predict river deer craft";
+var mnemonic = "toss flavor october monkey sister other mammal kind ramp inherit example heart";

@@ -1,1 +1,1 @@
-var mnemonic = "dash crater budget obey coffee mixture hen version language table spot state";
+var mnemonic = "gap morning speak wall supply coin rubber amount harbor hat improve model";

@@ -1,1 +1,1 @@
-var mnemonic = "oil goddess various enforce legal second marble filter unhappy push throw govern";
+var mnemonic = "credit setup share route paddle various forward inner lizard capable hover kid";

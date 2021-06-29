@@ -1,1 +1,1 @@
-var mnemonic = "expect truck fiscal wedding basket there crucial metal stove live heart grace";
+var mnemonic = "donate bomb ring two romance say umbrella joke craft pitch board lion";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite fame tennis alter patrol this retire board long proud copper forum";
+var mnemonic = "smooth risk question install artefact travel suspect adult wonder stomach valve fly";

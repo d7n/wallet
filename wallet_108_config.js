@@ -1,1 +1,1 @@
-var mnemonic = "travel bulk bullet click space indicate spatial bid expire soccer ankle inflict";
+var mnemonic = "transfer hat over relief village drink harsh discover taste park urban model";

@@ -1,1 +1,1 @@
-var mnemonic = "violin double detect address undo umbrella final filter sword proud win coil";
+var mnemonic = "crack crisp boat style cross country post art educate sniff stone two";

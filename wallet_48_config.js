@@ -1,1 +1,1 @@
-var mnemonic = "entry sting pizza omit float rigid evil horror sugar train opera deliver";
+var mnemonic = "equal floor link tray room express report local work swarm jeans purchase";

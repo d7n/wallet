@@ -1,1 +1,1 @@
-var mnemonic = "wedding differ cricket excite people frozen cheap swim faith print knock cattle";
+var mnemonic = "naive century squeeze pipe vibrant betray unit valve print electric visa dwarf";

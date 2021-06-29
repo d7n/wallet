@@ -1,1 +1,1 @@
-var mnemonic = "nut sight hello orange minimum myself dumb game giggle service learn enable";
+var mnemonic = "clean maze begin outer camp uncover country mango search stadium test strategy";

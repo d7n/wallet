@@ -1,1 +1,1 @@
-var mnemonic = "object salmon cricket fetch aunt grit portion pave meat bind bitter glass";
+var mnemonic = "junk peasant any panel dutch axis ability actual nut army setup basic";

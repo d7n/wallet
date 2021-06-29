@@ -1,1 +1,1 @@
-var mnemonic = "jar seed typical satisfy bamboo slow mule today sausage kitten rather drama";
+var mnemonic = "obtain share current vote melt list badge know loyal meadow cost riot";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue security believe fresh virtual cycle place elephant eyebrow hard tool rookie";
+var mnemonic = "suit excuse essence tube champion general blame lecture power apple silly friend";

@@ -1,1 +1,1 @@
-var mnemonic = "sample throw swap lend warm story chef junior athlete front mixture health";
+var mnemonic = "roast rice roof stone silk ball reunion race elder brief remind lesson";

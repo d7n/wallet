@@ -1,1 +1,1 @@
-var mnemonic = "finish solve pledge walnut please thank adapt amused click odor purchase author";
+var mnemonic = "suit carbon spot polar rigid century rabbit extend road pretty alert fox";

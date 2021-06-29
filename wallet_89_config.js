@@ -1,1 +1,1 @@
-var mnemonic = "blind viable crime journey spike stem ocean blush angle cook hazard kingdom";
+var mnemonic = "fatigue fall urban puppy exhibit north metal oven one bacon eight liberty";

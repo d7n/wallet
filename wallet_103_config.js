@@ -1,1 +1,1 @@
-var mnemonic = "credit amateur oblige vivid metal aerobic sauce chronic carry resource maximum zoo";
+var mnemonic = "fringe skate steak despair zero try seat entry arctic picnic fun help";

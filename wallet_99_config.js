@@ -1,1 +1,1 @@
-var mnemonic = "wolf protect film blush grace blur code immune novel hospital double cause";
+var mnemonic = "argue horn morning zebra clock document wear rude ripple wide broken december";

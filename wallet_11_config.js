@@ -1,1 +1,1 @@
-var mnemonic = "strategy capital leisure video they lake pulse art toilet pistol neck rally";
+var mnemonic = "state wine stuff climb act mix reject solar mimic wire sail soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "nut voice visa friend fiction matter margin zone cancel noodle sight infant";
+var mnemonic = "protect connect nuclear loyal smooth accident legend claim eagle cube style kit";

@@ -1,1 +1,1 @@
-var mnemonic = "large sand rubber kitten absorb usage swamp narrow little person memory gospel";
+var mnemonic = "veteran general mutual spin battle volcano reform property fade another crop ten";

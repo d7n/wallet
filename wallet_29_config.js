@@ -1,1 +1,1 @@
-var mnemonic = "biology physical slender hammer cry ginger machine melody alert ten coil host";
+var mnemonic = "detect fee actor face camp heart attitude arctic stem marriage mom napkin";

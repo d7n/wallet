@@ -1,1 +1,1 @@
-var mnemonic = "riot document door since embrace life false warm blanket accuse october next";
+var mnemonic = "alcohol avoid nominee demise stand great maple crane dragon theme upset episode";

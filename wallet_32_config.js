@@ -1,1 +1,1 @@
-var mnemonic = "chalk stock toe sorry warfare coconut nation chapter title scorpion debris today";
+var mnemonic = "spray have gain ski door endless general balance brush review spirit choose";

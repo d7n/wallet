@@ -1,1 +1,1 @@
-var mnemonic = "become exact merge quality simple lens feed file speed trophy gap grief";
+var mnemonic = "wasp holiday arena course ordinary girl pill rocket orphan response original crush";

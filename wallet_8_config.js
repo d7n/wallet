@@ -1,1 +1,1 @@
-var mnemonic = "virus small whale shaft episode tent gesture muffin immense manual tube crash";
+var mnemonic = "minute left next ridge vault limit flip income maple draw impulse myself";

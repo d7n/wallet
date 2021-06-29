@@ -1,1 +1,1 @@
-var mnemonic = "lottery team voyage pulse total cash consider seek place collect feature forward";
+var mnemonic = "argue rural oil brother fantasy ugly spring glad route rocket club delay";

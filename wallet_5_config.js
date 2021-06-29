@@ -1,1 +1,1 @@
-var mnemonic = "park focus token rate wealth primary garden tomorrow sense assault candy clever";
+var mnemonic = "tag world two match loan pupil choice trigger sock good struggle sample";

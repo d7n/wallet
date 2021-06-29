@@ -1,1 +1,1 @@
-var mnemonic = "essence side fun usual stone couch upgrade prison power wage solid aisle";
+var mnemonic = "sudden gold hen disease prefer damage pattern enact anchor crash brisk wall";
