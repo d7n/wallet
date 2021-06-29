@@ -1,1 +1,1 @@
-var mnemonic = "quick artist humor ridge weather dolphin excess speed blue task truth eye";
+var mnemonic = "deal question mutual health giant leaf easily slim ordinary tomorrow uniform electric";

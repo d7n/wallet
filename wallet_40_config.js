@@ -1,1 +1,1 @@
-var mnemonic = "expand exhibit fatigue diamond rotate genre hybrid dinner modify reflect room blade";
+var mnemonic = "cannon question clog actor green coin celery shell gesture correct turkey swamp";

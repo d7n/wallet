@@ -1,1 +1,1 @@
-var mnemonic = "thunder odor combine gym spare will scrub aspect cost learn apart brass";
+var mnemonic = "scrub matrix veteran fitness corn early youth text promote desert cook angle";

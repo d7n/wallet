@@ -1,1 +1,1 @@
-var mnemonic = "elbow strategy army daughter high asthma liquid typical glide fresh angle weekend";
+var mnemonic = "wall trial assist appear fringe chef wash citizen chuckle rude expire blame";

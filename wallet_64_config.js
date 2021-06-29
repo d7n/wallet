@@ -1,1 +1,1 @@
-var mnemonic = "weasel ship traffic tunnel balcony off curtain pizza shaft school happy salad";
+var mnemonic = "stone laugh window marriage wool cook road iron mistake parrot spawn slab";

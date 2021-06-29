@@ -1,1 +1,1 @@
-var mnemonic = "settle soldier humor broken diamond unveil boss depart labor spray initial loyal";
+var mnemonic = "humor dignity window jaguar thrive north layer blame mass arctic craft dice";

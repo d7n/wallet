@@ -1,1 +1,1 @@
-var mnemonic = "despair income island this gaze child truck destroy alarm rocket soft belt";
+var mnemonic = "useful april subway suggest bubble mosquito ahead security any silly scale impulse";

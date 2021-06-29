@@ -1,1 +1,1 @@
-var mnemonic = "venture kind embody cotton kind laundry drip always opinion reveal confirm member";
+var mnemonic = "rubber wool unit calm winner logic old best when neither captain gallery";

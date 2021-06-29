@@ -1,1 +1,1 @@
-var mnemonic = "control alone convince brisk dash exhibit flip raven trial absorb toddler window";
+var mnemonic = "funny gorilla inquiry near toilet divorce runway pen vintage oxygen runway walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve cover intact merry brain arrow extra apple vendor gossip box various";
+var mnemonic = "siege benefit above knock cotton width woman chronic border trial rebuild pause";

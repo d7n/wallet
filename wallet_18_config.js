@@ -1,1 +1,1 @@
-var mnemonic = "truck force fluid tree hurt legend rebuild thrive uncover tackle base drink";
+var mnemonic = "pizza heavy cannon rebuild address force east toe double quote chaos rib";

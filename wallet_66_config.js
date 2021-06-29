@@ -1,1 +1,1 @@
-var mnemonic = "moral remind position panda random shove fiscal fine cat spoil exit rescue";
+var mnemonic = "material tattoo spoil task melody anxiety canal open hidden again fence mercy";

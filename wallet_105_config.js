@@ -1,1 +1,1 @@
-var mnemonic = "layer hole recycle atom random obey aisle valve title inside small all";
+var mnemonic = "grid age faint song gate deliver clip vehicle snake issue avoid other";

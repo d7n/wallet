@@ -1,1 +1,1 @@
-var mnemonic = "youth item mixture toilet warrior razor bicycle just august couple math sure";
+var mnemonic = "slender romance record sketch pilot venture endorse plastic home shoe sick sustain";

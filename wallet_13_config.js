@@ -1,1 +1,1 @@
-var mnemonic = "behind science ocean welcome now toilet lion pole reduce rug monster arrive";
+var mnemonic = "pulp tomato runway fun own stick dinosaur benefit use endorse peanut bacon";

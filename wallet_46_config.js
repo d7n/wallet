@@ -1,1 +1,1 @@
-var mnemonic = "humor galaxy ranch consider exhaust proof intact nothing airport exotic canvas super";
+var mnemonic = "idea coach true cube cereal nose cannon secret floor cloth tobacco screen";

@@ -1,1 +1,1 @@
-var mnemonic = "category liquid fault length uncover village walk infant soul inform home odor";
+var mnemonic = "robot mean poem vendor spatial shrug bridge tiger subway catch clinic cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "antique mixture cotton card march diamond maze state spider frown powder glare";
+var mnemonic = "wedding bird night junior execute audit metal emotion ability obtain spoon cruise";

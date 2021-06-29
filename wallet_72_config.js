@@ -1,1 +1,1 @@
-var mnemonic = "stool labor arrange citizen kid lamp minute trick lamp cruise black future";
+var mnemonic = "album chimney beef child close voyage hedgehog nominee robust reunion crumble obvious";

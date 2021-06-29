@@ -1,1 +1,1 @@
-var mnemonic = "diesel frost allow field peace panel unable alien dutch music release victory";
+var mnemonic = "juice ask banner salad bitter ship alert bullet sheriff exclude repair gallery";

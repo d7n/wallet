@@ -1,1 +1,1 @@
-var mnemonic = "advance tail vapor today hour anxiety coil black they discover lounge lunch";
+var mnemonic = "forward mercy master foot flush song profit alert million appear sting such";

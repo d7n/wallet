@@ -1,1 +1,1 @@
-var mnemonic = "borrow elite print label hard daring else twist list car source melody";
+var mnemonic = "void stool gravity shoot hawk lake subject close oblige ribbon denial side";

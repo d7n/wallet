@@ -1,1 +1,1 @@
-var mnemonic = "bottom catalog oyster minimum arm lesson trend busy link original dutch recipe";
+var mnemonic = "obtain flee kid lobster unfold front choice leaf spin click aunt other";

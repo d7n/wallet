@@ -1,1 +1,1 @@
-var mnemonic = "mention entire mass hockey present evoke suspect dish patch float pudding powder";
+var mnemonic = "liberty decline absent dance ticket seek avocado boring excite ivory urban eager";

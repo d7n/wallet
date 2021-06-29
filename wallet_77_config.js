@@ -1,1 +1,1 @@
-var mnemonic = "step flight sorry result bottom curtain sport various aim orient learn punch";
+var mnemonic = "job unknown silver surge glue wash brown else trip only delay first";

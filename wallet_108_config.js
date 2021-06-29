@@ -1,1 +1,1 @@
-var mnemonic = "blue bicycle exhibit mistake jungle debate great fabric choose goat photo help";
+var mnemonic = "rural museum cube arm knock coil easy merge social maximum wage correct";

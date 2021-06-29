@@ -1,1 +1,1 @@
-var mnemonic = "mass demise rifle damage average metal endorse powder thank draw dentist pink";
+var mnemonic = "fiction simple unusual beyond shed fame obvious cupboard giggle noble reflect sun";

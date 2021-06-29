@@ -1,1 +1,1 @@
-var mnemonic = "piece security bronze inner violin relax smile bless foster isolate chimney smooth";
+var mnemonic = "math junk wrap tobacco local fresh because across spike camp category true";

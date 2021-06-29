@@ -1,1 +1,1 @@
-var mnemonic = "odor decorate test success scissors purse april code young ribbon fossil indoor";
+var mnemonic = "avocado scale almost secret gate audit wonder absurd enjoy team sea six";

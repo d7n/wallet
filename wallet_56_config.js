@@ -1,1 +1,1 @@
-var mnemonic = "island angle catch light spell duck bottom liberty diesel client favorite battle";
+var mnemonic = "lyrics brother vivid april magnet bacon upon legend ignore infant food control";

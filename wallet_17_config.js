@@ -1,1 +1,1 @@
-var mnemonic = "food grant yard dragon tent manual reason tuna drama chicken live pair";
+var mnemonic = "humble exile label extend jealous pet dial reopen dignity replace defense walk";

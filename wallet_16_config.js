@@ -1,1 +1,1 @@
-var mnemonic = "blood lab remain maximum radio bargain toast panther ugly infant life gate";
+var mnemonic = "pitch antique lion fruit narrow agree stove vote abstract lift cycle casino";

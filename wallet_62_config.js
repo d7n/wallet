@@ -1,1 +1,1 @@
-var mnemonic = "seven smoke borrow catalog way barrel jump hole possible capable blue word";
+var mnemonic = "sugar despair multiply silk advance collect stable enlist volume coyote domain truth";

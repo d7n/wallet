@@ -1,1 +1,1 @@
-var mnemonic = "divert panther win observe wire punch enhance spoon eagle cliff insane open";
+var mnemonic = "quality use public insane federal illness east drill evidence mesh liar cute";

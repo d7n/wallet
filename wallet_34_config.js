@@ -1,1 +1,1 @@
-var mnemonic = "young unique update model flame expand song net next found source risk";
+var mnemonic = "review final yard stairs opinion canoe south bargain rival control steak illness";

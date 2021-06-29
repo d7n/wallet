@@ -1,1 +1,1 @@
-var mnemonic = "result type situate split marble skull garlic pumpkin early filter ask innocent";
+var mnemonic = "glad obtain spray stomach heart civil copper casino column tattoo senior wine";

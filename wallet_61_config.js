@@ -1,1 +1,1 @@
-var mnemonic = "aspect final empower shallow rebuild people pull tiny bracket awkward fade start";
+var mnemonic = "remind mixed planet share mix fly banner brief suffer cook case negative";

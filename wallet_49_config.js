@@ -1,1 +1,1 @@
-var mnemonic = "bench decline cargo dress antenna quality glow drum pumpkin hidden paddle silly";
+var mnemonic = "act ordinary brass like identify lonely unusual inspire quick favorite prosper cover";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon pilot arrest seek shuffle jewel rely festival engage original pear bind";
+var mnemonic = "side aisle luggage budget ankle scan maple possible reform domain blanket bacon";

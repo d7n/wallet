@@ -1,1 +1,1 @@
-var mnemonic = "close save thunder suggest bargain still save kingdom meat ice zoo face";
+var mnemonic = "sorry deny diagram rabbit audit catch cattle eager weekend code pink pepper";

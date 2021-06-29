@@ -1,1 +1,1 @@
-var mnemonic = "taste blame plate frequent hurt ribbon juice injury monster fold nominee bone";
+var mnemonic = "explain brick unknown green topple hotel mask upper change alone bridge double";

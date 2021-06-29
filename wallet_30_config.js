@@ -1,1 +1,1 @@
-var mnemonic = "rich captain wool spice solar treat gather dish into embrace glove public";
+var mnemonic = "potato anxiety now age brass spider manual shadow cart stool letter dismiss";

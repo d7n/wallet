@@ -1,1 +1,1 @@
-var mnemonic = "dance jacket tattoo fine spend cradle aim smile apart pony rack aim";
+var mnemonic = "habit giggle unhappy million quick tornado question blush strike below bundle actress";

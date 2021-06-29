@@ -1,1 +1,1 @@
-var mnemonic = "kid exotic diagram bulk box net dial repeat cook only fragile tornado";
+var mnemonic = "wait guilt inform toast powder crater valley defense canoe also bulb eagle";

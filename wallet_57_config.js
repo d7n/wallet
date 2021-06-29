@@ -1,1 +1,1 @@
-var mnemonic = "tuition dragon anchor equal humor human rhythm hidden erode taste draw assault";
+var mnemonic = "sound grape useful debate jealous half blood priority lion leg false good";

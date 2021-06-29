@@ -1,1 +1,1 @@
-var mnemonic = "hole seven supreme auto lock mountain slot coral original piano east school";
+var mnemonic = "tomorrow text pottery denial fire audit stadium keep network miracle weasel hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "account average flight mandate husband fluid gift fit hat rather stay entry";
+var mnemonic = "extra flash peasant arrow accident ugly attract rocket evolve swift animal prepare";

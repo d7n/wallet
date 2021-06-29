@@ -1,1 +1,1 @@
-var mnemonic = "hamster hip scheme lottery toe primary robust observe hollow walnut evoke grit";
+var mnemonic = "tray guess come dismiss you gentle wing weapon destroy walnut recipe option";

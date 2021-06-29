@@ -1,1 +1,1 @@
-var mnemonic = "stove service assume dinner together tiger blue fall shiver remain blanket wedding";
+var mnemonic = "sell south post merry bind grant sort dove actor cloud maple wagon";

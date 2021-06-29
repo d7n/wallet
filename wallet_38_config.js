@@ -1,1 +1,1 @@
-var mnemonic = "clerk thank market cry shaft tenant unfair elegant syrup cotton boring human";
+var mnemonic = "just subway outdoor primary rude toy planet nest maze strike chest finish";

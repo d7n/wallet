@@ -1,1 +1,1 @@
-var mnemonic = "point volcano skull furnace pipe seminar song rescue satisfy sword settle section";
+var mnemonic = "garlic bamboo crater master transfer physical fashion copper strong mammal actor merit";

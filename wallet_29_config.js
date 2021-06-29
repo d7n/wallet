@@ -1,1 +1,1 @@
-var mnemonic = "poverty young host plate immense fence deer staff smooth flock famous culture";
+var mnemonic = "unfair oppose country fashion negative gesture input unfair exchange force snap rough";

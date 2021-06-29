@@ -1,1 +1,1 @@
-var mnemonic = "despair tomorrow entire tired sweet label arrow promote exact film toe unusual";
+var mnemonic = "obscure about inject decline before run under inquiry catch shiver cover drive";

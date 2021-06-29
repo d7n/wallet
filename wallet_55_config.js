@@ -1,1 +1,1 @@
-var mnemonic = "elbow return outdoor table clinic million clean course choice trouble tail grain";
+var mnemonic = "tilt guilt loud census silver match letter sign reduce ship cushion index";

@@ -1,1 +1,1 @@
-var mnemonic = "property involve habit cute melt blouse expire harbor wheat torch correct unaware";
+var mnemonic = "cherry teach steak guess paper else cover police clay mandate joy hockey";

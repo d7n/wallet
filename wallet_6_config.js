@@ -1,1 +1,1 @@
-var mnemonic = "maid carbon liberty dance input magnet private draft loan farm describe moment";
+var mnemonic = "material odor memory oyster actor fatigue solid churn section hunt tray dream";

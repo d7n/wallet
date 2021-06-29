@@ -1,1 +1,1 @@
-var mnemonic = "riot famous mother negative mirror keen bless win february speed sister speed";
+var mnemonic = "debate nurse practice borrow direct nuclear tent knee morning atom target minimum";

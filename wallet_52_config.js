@@ -1,1 +1,1 @@
-var mnemonic = "health find ordinary mammal feed huge duty staff gentle laugh flip globe";
+var mnemonic = "pupil barely grass grant lesson project creek dress ivory vessel mammal seminar";

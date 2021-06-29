@@ -1,1 +1,1 @@
-var mnemonic = "into toe language call rack square endless run early trial top swear";
+var mnemonic = "rally curve bunker roast library fan circle fiber jealous sample man reopen";

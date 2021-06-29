@@ -1,1 +1,1 @@
-var mnemonic = "mystery high door loyal armed powder blouse replace venue team genre scrub";
+var mnemonic = "title angle code gesture uncle room miss isolate demand manage today soft";

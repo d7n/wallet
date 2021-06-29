@@ -1,1 +1,1 @@
-var mnemonic = "bracket fox ocean alpha limit pizza collect tortoise setup cake napkin few";
+var mnemonic = "abandon green diamond nest measure enter orange next echo cannon law grief";

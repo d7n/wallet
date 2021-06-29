@@ -1,1 +1,1 @@
-var mnemonic = "miracle afford shift gloom come aim meat season clean hub glove patch";
+var mnemonic = "cushion load lava achieve service powder coyote drill enforce social swing clock";

@@ -1,1 +1,1 @@
-var mnemonic = "edge fee fix paper alone swim nerve casino neither chaos gain salon";
+var mnemonic = "okay tomato artist excess behind creek wear fringe payment fatal border cloth";

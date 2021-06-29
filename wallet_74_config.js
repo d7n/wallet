@@ -1,1 +1,1 @@
-var mnemonic = "hello wreck pony engage modify traffic there tent govern goose duty orbit";
+var mnemonic = "garden harsh rough famous spoon tuna fury music bomb black copy ticket";

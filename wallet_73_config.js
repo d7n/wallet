@@ -1,1 +1,1 @@
-var mnemonic = "keep swamp salt void valid fold damage one helmet supreme program autumn";
+var mnemonic = "demise often vacant youth loop veteran jar robot brick evil govern dizzy";

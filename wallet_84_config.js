@@ -1,1 +1,1 @@
-var mnemonic = "grab weird apology bean exotic setup victory video grid dinner question velvet";
+var mnemonic = "finger exercise goose unfair because beauty erosion oppose hover entire lobster decide";

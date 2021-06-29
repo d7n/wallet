@@ -1,1 +1,1 @@
-var mnemonic = "pretty health light uniform pledge elephant luxury usage cushion ancient fix original";
+var mnemonic = "motor lamp over meat sweet famous clever sand inherit avocado lunch crush";

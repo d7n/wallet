@@ -1,1 +1,1 @@
-var mnemonic = "urban clock rubber october diamond finger grief acoustic million error burden dust";
+var mnemonic = "major flip kind magic palace coin idea venue certain wedding enhance inflict";

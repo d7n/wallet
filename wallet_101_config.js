@@ -1,1 +1,1 @@
-var mnemonic = "confirm surface awful unable veteran cycle sheriff two kingdom mad coast staff";
+var mnemonic = "picnic pipe scene end cannon rib sense client echo shrug leaf health";

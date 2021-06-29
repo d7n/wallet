@@ -1,1 +1,1 @@
-var mnemonic = "myth trip cage screen chicken apart helmet scatter tiger bread clump brain";
+var mnemonic = "front feed chapter globe phrase order barrel view bridge jeans arch retire";

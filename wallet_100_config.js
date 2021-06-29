@@ -1,1 +1,1 @@
-var mnemonic = "panther joke shield ordinary erase toward dawn innocent fire skate clever resemble";
+var mnemonic = "stone mind reward trade summer inner child barrel north caught eager abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "current include involve offer ability clutch skull hazard wisdom law sheriff concert";
+var mnemonic = "comfort body torch false around beyond immune trial rabbit misery organ kiwi";

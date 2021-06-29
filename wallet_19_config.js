@@ -1,1 +1,1 @@
-var mnemonic = "beauty disease sport long symbol hotel glad pet clean mimic crime any";
+var mnemonic = "piece detail leave allow sock leader company exercise post vote mesh avocado";

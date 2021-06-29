@@ -1,1 +1,1 @@
-var mnemonic = "life orchard tattoo pause jump mechanic frost divorce tiger buffalo proof hat";
+var mnemonic = "chest mean way robot brother across kind crater credit retreat perfect minute";

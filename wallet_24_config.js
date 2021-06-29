@@ -1,1 +1,1 @@
-var mnemonic = "water force wave visa melt card museum cash heart cute mechanic smoke";
+var mnemonic = "income avoid dinner margin carpet ship tail caught shallow crunch burst enable";

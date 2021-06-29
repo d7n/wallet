@@ -1,1 +1,1 @@
-var mnemonic = "female chuckle pencil skate husband plunge tree essay panic draft narrow pony";
+var mnemonic = "cinnamon cluster mean bus suggest ecology forward relief blind hollow over biology";

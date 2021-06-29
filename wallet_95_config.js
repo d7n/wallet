@@ -1,1 +1,1 @@
-var mnemonic = "today resist chief vehicle release despair photo coffee false hospital drill carry";
+var mnemonic = "hawk mimic yellow success ribbon obey income dad lady museum crowd upper";

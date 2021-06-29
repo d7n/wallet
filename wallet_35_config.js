@@ -1,1 +1,1 @@
-var mnemonic = "idea wish guess stove monster shallow upper high index pudding tray dignity";
+var mnemonic = "trouble hour retire famous crumble change vehicle market grab asthma urge amateur";

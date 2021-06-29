@@ -1,1 +1,1 @@
-var mnemonic = "pattern argue romance judge time rain gain slam figure clever amount october";
+var mnemonic = "regret hair ship lunar item beach planet print issue crush trophy lock";

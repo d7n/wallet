@@ -1,1 +1,1 @@
-var mnemonic = "toward margin evidence winner perfect arrow release sustain snack tenant pet often";
+var mnemonic = "scheme science grass situate tree churn sunset snow silent best size budget";

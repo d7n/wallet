@@ -1,1 +1,1 @@
-var mnemonic = "fold gauge whisper salad thunder excess hunt share daughter cradle baby pride";
+var mnemonic = "barely train solution blame conduct crunch excite anxiety divorce equip rookie open";

@@ -1,1 +1,1 @@
-var mnemonic = "fence giraffe stick cargo birth ghost fence green tired velvet nurse book";
+var mnemonic = "evidence achieve thunder priority away solve hospital always dust notable solar tide";

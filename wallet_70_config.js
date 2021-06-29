@@ -1,1 +1,1 @@
-var mnemonic = "accuse host exist grain program acquire cruise brother clog antenna click limit";
+var mnemonic = "catch copy west punch fiber bronze undo collect tired funny security chest";

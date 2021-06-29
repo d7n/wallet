@@ -1,1 +1,1 @@
-var mnemonic = "consider mechanic mail sorry laugh update filter inhale student luggage affair verb";
+var mnemonic = "stomach town answer attend aspect spider aerobic enroll room job ring enrich";

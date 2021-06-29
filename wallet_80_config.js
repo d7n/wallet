@@ -1,1 +1,1 @@
-var mnemonic = "base cargo birth story tackle marble multiply fan pudding approve proud rubber";
+var mnemonic = "vast doll match orchard mango rhythm able number object favorite swing maple";

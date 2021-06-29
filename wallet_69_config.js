@@ -1,1 +1,1 @@
-var mnemonic = "pause wing ball choose yard stick coin flock play dance equal deputy";
+var mnemonic = "beauty open much rifle furnace member decade lumber gallery apple gallery upon";

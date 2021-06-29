@@ -1,1 +1,1 @@
-var mnemonic = "improve company crack gate program vessel peasant donor garden embody speak lunar";
+var mnemonic = "hand lazy task item fatigue assault shiver card rubber cement hat aisle";

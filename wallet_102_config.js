@@ -1,1 +1,1 @@
-var mnemonic = "other like mean ready angle real frown runway barely dinosaur possible punch";
+var mnemonic = "reopen february labor leopard wait combine breeze oyster inch idle lava duck";

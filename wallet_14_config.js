@@ -1,1 +1,1 @@
-var mnemonic = "distance faith pilot tube rose smoke sick lonely laundry hair mansion unveil";
+var mnemonic = "cruise diagram reduce tower april secret drill globe escape advice index load";

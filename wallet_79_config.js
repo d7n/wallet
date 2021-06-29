@@ -1,1 +1,1 @@
-var mnemonic = "erode panda kangaroo airport tip cotton feature gasp exercise hybrid guess barely";
+var mnemonic = "sugar shiver magic prefer oblige goddess comic riot useless dry axis garage";
