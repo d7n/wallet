@@ -1,1 +1,1 @@
-var mnemonic = "electric hip stay stem tip timber firm high corn husband walk perfect";
+var mnemonic = "vicious miss control desert sheriff accuse finish perfect race shove orange solve";

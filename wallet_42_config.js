@@ -1,1 +1,1 @@
-var mnemonic = "inhale clutch battle entry original gym fortune master effort giant breeze test";
+var mnemonic = "excess demand diagram parent thunder gallery enter embark wise trip truly oval";

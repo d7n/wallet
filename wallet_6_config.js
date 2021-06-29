@@ -1,1 +1,1 @@
-var mnemonic = "alley smoke click beef jelly noise wish dinosaur roast guitar garden rent";
+var mnemonic = "valid battle silver enact insect exist start garlic fantasy emerge idle recycle";

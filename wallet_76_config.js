@@ -1,1 +1,1 @@
-var mnemonic = "fluid prison style sibling devote beauty pencil nose wrist suggest shop eagle";
+var mnemonic = "disorder dune color cool diary second thought blur sort foil leave palace";

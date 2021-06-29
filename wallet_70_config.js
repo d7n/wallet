@@ -1,1 +1,1 @@
-var mnemonic = "length neglect resource floor senior bacon join wool elevator best danger account";
+var mnemonic = "expand popular obtain oxygen possible flame project again cook fashion wing butter";

@@ -1,1 +1,1 @@
-var mnemonic = "equip about dust ketchup total assault popular jaguar adult circle exist kite";
+var mnemonic = "affair slam rotate bar seek estate dove oval verify slide suspect gym";

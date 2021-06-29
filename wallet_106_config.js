@@ -1,1 +1,1 @@
-var mnemonic = "fish service force six clap purity material kite loyal evoke leader various";
+var mnemonic = "steel eager country demise keep awkward better door wreck muffin hurt actual";

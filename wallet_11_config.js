@@ -1,1 +1,1 @@
-var mnemonic = "loop security creek grit bind innocent yellow actor valve skate elbow favorite";
+var mnemonic = "token possible panther bicycle affair imitate old summer regret stock beauty hood";

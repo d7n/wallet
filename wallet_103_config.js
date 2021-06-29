@@ -1,1 +1,1 @@
-var mnemonic = "alarm chest tobacco enrich raw lyrics birth reunion mask lunch jeans salad";
+var mnemonic = "volume wink screen load cannon afford tunnel warfare base tissue pull pig";

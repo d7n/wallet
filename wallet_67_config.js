@@ -1,1 +1,1 @@
-var mnemonic = "grass please gate lend parent atom term mesh grape icon nut champion";
+var mnemonic = "source dust flag silk side sense banana camera claw indoor hint note";

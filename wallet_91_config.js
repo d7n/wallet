@@ -1,1 +1,1 @@
-var mnemonic = "cream inquiry alone ensure witness agree undo stamp history kingdom use category";
+var mnemonic = "swear device reflect replace galaxy select guilt raise pen shove inmate repeat";

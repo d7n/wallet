@@ -1,1 +1,1 @@
-var mnemonic = "huge address extend web traffic recipe simple record raccoon chapter palace shuffle";
+var mnemonic = "shaft found receive change surround build accuse mushroom blossom price broccoli edit";

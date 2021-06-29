@@ -1,1 +1,1 @@
-var mnemonic = "demise stone soul organ kitten physical aspect neither pink chuckle earth bulb";
+var mnemonic = "win guard vast win manual hello van where world estate begin fabric";

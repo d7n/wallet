@@ -1,1 +1,1 @@
-var mnemonic = "snake legal salmon butter safe legal math choose silk assault shoulder auction";
+var mnemonic = "menu sausage tomorrow found ring bicycle visa inject scene hobby dynamic quit";

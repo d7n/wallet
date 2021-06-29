@@ -1,1 +1,1 @@
-var mnemonic = "member real barely rigid found yard square quiz replace half upgrade able";
+var mnemonic = "random cycle dawn just clutch space permit trap dinner hood slim attack";

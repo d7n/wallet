@@ -1,1 +1,1 @@
-var mnemonic = "east bread stadium curtain page robust library combine actual tail chimney distance";
+var mnemonic = "fly melt globe vanish volcano current convince van problem prepare license erosion";

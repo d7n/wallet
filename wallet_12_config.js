@@ -1,1 +1,1 @@
-var mnemonic = "fruit job dress oxygen voice trust behave lonely bid chef oyster wish";
+var mnemonic = "engine draft please thing traffic special suspect say universe law bullet reject";

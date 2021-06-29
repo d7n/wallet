@@ -1,1 +1,1 @@
-var mnemonic = "fiscal aunt any can model output mammal increase spare gesture yellow notice";
+var mnemonic = "sting skirt upon lunar marble duty margin buzz pig pig fun logic";

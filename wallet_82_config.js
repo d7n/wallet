@@ -1,1 +1,1 @@
-var mnemonic = "wasp fit arena search tomorrow crisp rookie zebra educate wing velvet tower";
+var mnemonic = "erupt scorpion forum busy option surprise crack panel like bone whisper cute";

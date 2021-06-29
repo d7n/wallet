@@ -1,1 +1,1 @@
-var mnemonic = "auto senior angle calm hover coach museum razor mammal effort diet drive";
+var mnemonic = "dwarf skirt tomato fiber again solution stove goose company accident clinic canyon";

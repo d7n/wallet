@@ -1,1 +1,1 @@
-var mnemonic = "horse hundred mad drum angle volcano prevent myself office ability fruit eye";
+var mnemonic = "wall wheat moral slab live chapter nurse soon more warrior endorse sphere";

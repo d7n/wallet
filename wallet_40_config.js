@@ -1,1 +1,1 @@
-var mnemonic = "aerobic valid garbage popular nature memory labor type burst hair destroy laundry";
+var mnemonic = "burger furnace never speak fragile disorder friend dinner mind athlete once alpha";

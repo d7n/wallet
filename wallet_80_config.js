@@ -1,1 +1,1 @@
-var mnemonic = "shoot arena neglect river spell usual tonight notable reopen mother roof wire";
+var mnemonic = "exhibit genre toast another olive floor guilt seek digital skill audit security";

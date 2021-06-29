@@ -1,1 +1,1 @@
-var mnemonic = "cattle orphan defense start glass differ option obey frost sphere pet valley";
+var mnemonic = "electric cool pause weird dirt fox run april protect shy math army";

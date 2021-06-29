@@ -1,1 +1,1 @@
-var mnemonic = "outer more slush awake focus turtle hover want mind knife human hundred";
+var mnemonic = "nut profit famous enrich try ancient must bonus potato swamp nuclear present";

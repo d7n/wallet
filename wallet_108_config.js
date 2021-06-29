@@ -1,1 +1,1 @@
-var mnemonic = "suffer fold wrestle develop affair noble section corn entry bargain vault panel";
+var mnemonic = "fabric master spread order predict sponsor south priority wolf phone ankle emotion";

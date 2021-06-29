@@ -1,1 +1,1 @@
-var mnemonic = "include target payment east gym brush setup party glory horror castle current";
+var mnemonic = "diagram siege swim chunk kitchen love fossil sense laundry stuff trumpet feed";

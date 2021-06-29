@@ -1,1 +1,1 @@
-var mnemonic = "purse catch melt service confirm relief switch measure father way saddle nest";
+var mnemonic = "gorilla tree escape trend shrimp turkey electric height adapt monitor ride casino";

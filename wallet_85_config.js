@@ -1,1 +1,1 @@
-var mnemonic = "wool mesh tent library sort cram trophy below pink omit submit obey";
+var mnemonic = "please resemble grief inhale leisure cat civil casino solid index speed excuse";

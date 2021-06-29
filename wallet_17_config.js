@@ -1,1 +1,1 @@
-var mnemonic = "police match shallow online paper beach average today tone picture rate minimum";
+var mnemonic = "solution sound picture virus brave regular anger model video material limb boat";

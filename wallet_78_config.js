@@ -1,1 +1,1 @@
-var mnemonic = "want monster plate oven over mixture worth add video broom seminar demand";
+var mnemonic = "success famous vicious slab around brass alter knife lounge innocent hat night";

@@ -1,1 +1,1 @@
-var mnemonic = "rose mask phrase street hint swear lottery normal rate woman loyal observe";
+var mnemonic = "acoustic evidence smoke strike daring anchor first way early language lounge distance";

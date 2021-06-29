@@ -1,1 +1,1 @@
-var mnemonic = "tragic reveal hen work one another that convince decorate kind swarm abstract";
+var mnemonic = "talent tent opinion comic child nasty clap purse trade chase aim modify";

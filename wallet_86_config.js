@@ -1,1 +1,1 @@
-var mnemonic = "cactus vanish glass open cause rely lamp rally patrol physical cage universe";
+var mnemonic = "win ensure rival mask east edit cattle crater analyst thank fever size";

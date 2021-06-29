@@ -1,1 +1,1 @@
-var mnemonic = "scheme ethics chapter wreck purchase walnut around gravity apology life misery merry";
+var mnemonic = "chimney auction volcano sunny easily merge stereo brain omit volcano balcony model";

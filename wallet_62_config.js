@@ -1,1 +1,1 @@
-var mnemonic = "refuse fold cluster ordinary moral core anger birth ritual addict cement broom";
+var mnemonic = "rough envelope stable space subject begin universe home squirrel strategy steel start";

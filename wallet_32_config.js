@@ -1,1 +1,1 @@
-var mnemonic = "because brief account liquid like wash fence hybrid detect large hidden drama";
+var mnemonic = "era wine cheese have hammer scatter evolve cattle mystery horse jump furnace";

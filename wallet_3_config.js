@@ -1,1 +1,1 @@
-var mnemonic = "milk elephant shine neglect grief sell cream industry energy genius entry mixture";
+var mnemonic = "pipe friend involve broccoli canyon defy castle cute air modify donate museum";

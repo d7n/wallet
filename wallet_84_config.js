@@ -1,1 +1,1 @@
-var mnemonic = "pepper run raven six purchase journey upgrade scan client smart weapon judge";
+var mnemonic = "chief injury fade pig divert rug switch dust smooth wreck rose bird";

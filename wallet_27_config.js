@@ -1,1 +1,1 @@
-var mnemonic = "hat baby insect lunch amazing hood angle region inform agree unit exchange";
+var mnemonic = "grace stem vapor globe skin chuckle inspire front raise siren culture shoot";

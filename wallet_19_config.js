@@ -1,1 +1,1 @@
-var mnemonic = "genius decorate report old rose produce stick chuckle ripple huge frog uncle";
+var mnemonic = "river assault crunch device cheap cabin awesome slice cross estate viable enough";

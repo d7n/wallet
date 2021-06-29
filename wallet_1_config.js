@@ -1,1 +1,1 @@
-var mnemonic = "smile uniform canvas common gadget story hotel define birth update ghost face";
+var mnemonic = "teach always vast script insane radio company twice purse table scout swing";

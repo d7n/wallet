@@ -1,1 +1,1 @@
-var mnemonic = "cancel truth purity lecture genuine trim romance normal equal hint interest mix";
+var mnemonic = "mail firm weird wear acid suspect jelly prepare seat inherit fatigue lift";

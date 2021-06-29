@@ -1,1 +1,1 @@
-var mnemonic = "model muffin elder eye replace super winter develop voice stand flower fame";
+var mnemonic = "horse poem gloom save van trial shadow gravity state globe carpet private";

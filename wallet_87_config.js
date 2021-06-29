@@ -1,1 +1,1 @@
-var mnemonic = "rocket leaf member empty ride faith merge regret tape harvest scale zebra";
+var mnemonic = "web frost major before rotate sibling sketch game achieve lazy head select";

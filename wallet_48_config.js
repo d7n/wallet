@@ -1,1 +1,1 @@
-var mnemonic = "man bitter worth output use eagle misery bus base toward tongue shaft";
+var mnemonic = "outer explain surge ordinary camp guitar essay below unusual street wave group";

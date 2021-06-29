@@ -1,1 +1,1 @@
-var mnemonic = "weasel jealous tag fault open step police unique method prepare smoke reform";
+var mnemonic = "tag hole away burger beach depth elephant ocean south sort rocket apple";

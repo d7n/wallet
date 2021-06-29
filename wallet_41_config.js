@@ -1,1 +1,1 @@
-var mnemonic = "salad blanket gloom ripple mistake snow wood nose regret broccoli furnace arm";
+var mnemonic = "lawsuit february industry wine glad adapt confirm survey loop tongue try combine";

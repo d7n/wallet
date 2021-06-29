@@ -1,1 +1,1 @@
-var mnemonic = "decorate library cloud state skill false stairs fury cherry endless nose multiply";
+var mnemonic = "tower float slow season conduct void harvest cereal clown common garlic mango";

@@ -1,1 +1,1 @@
-var mnemonic = "region define bicycle casual taste similar hip library shine real merge verb";
+var mnemonic = "arch army advance effort dust envelope away garden sand beyond tourist donkey";

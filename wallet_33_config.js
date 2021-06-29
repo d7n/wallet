@@ -1,1 +1,1 @@
-var mnemonic = "tattoo total nasty expand chair bulk license arrive toe super fit rib";
+var mnemonic = "peasant tooth inhale safe cruel cactus avoid field keep network oak park";

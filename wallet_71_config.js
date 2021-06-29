@@ -1,1 +1,1 @@
-var mnemonic = "tissue salad more huge eight barely secret first arrange animal bundle riot";
+var mnemonic = "gym rule resemble torch text kitten squirrel fossil risk town game subject";

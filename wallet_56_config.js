@@ -1,1 +1,1 @@
-var mnemonic = "away public prepare banana bleak place wait open egg collect lock lend";
+var mnemonic = "kingdom brick wood army clarify saddle intact divorce boss calm excess report";

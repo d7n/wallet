@@ -1,1 +1,1 @@
-var mnemonic = "detect head idea evil once fury seat nurse achieve trust ritual harsh";
+var mnemonic = "flame setup dress stone poem draw better bike seminar margin master various";

@@ -1,1 +1,1 @@
-var mnemonic = "width utility upset include genuine arrive health ride emotion festival rabbit credit";
+var mnemonic = "canoe toss cat action dirt there net material lazy grid genre bounce";

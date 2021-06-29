@@ -1,1 +1,1 @@
-var mnemonic = "napkin more leave service forget seven globe amused cost observe mother aspect";
+var mnemonic = "remain display palace zebra mom cricket city wall drama garlic hobby hold";

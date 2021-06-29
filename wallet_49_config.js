@@ -1,1 +1,1 @@
-var mnemonic = "olive chunk assault give lens allow bicycle twice ship husband often mixture";
+var mnemonic = "impulse hard trouble bird body cotton alley cat oyster appear cave breeze";

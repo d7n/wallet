@@ -1,1 +1,1 @@
-var mnemonic = "side pencil anxiety hedgehog guard office script gasp car drill elegant that";
+var mnemonic = "chaos intact approve ecology regular slender peanut give attack latin labor circle";

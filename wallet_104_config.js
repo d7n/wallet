@@ -1,1 +1,1 @@
-var mnemonic = "foot kite reunion canyon lend error rail bone oblige dentist actual usual";
+var mnemonic = "six wolf horror object trophy mixture maze paddle cute exhibit hurry short";

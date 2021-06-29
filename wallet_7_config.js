@@ -1,1 +1,1 @@
-var mnemonic = "glory trend exile decade allow sibling maple galaxy year pilot exercise horn";
+var mnemonic = "result reveal drastic wine bind grape guess private rebel expect shadow damage";

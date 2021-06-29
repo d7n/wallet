@@ -1,1 +1,1 @@
-var mnemonic = "that debate eternal mansion open update ankle tube eyebrow fiber beef price";
+var mnemonic = "analyst grain culture winter spy slice enroll baby milk fold thumb actual";

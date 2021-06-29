@@ -1,1 +1,1 @@
-var mnemonic = "club lab spawn text feature shell inhale cream bamboo wood cause excess";
+var mnemonic = "syrup relax mesh various treat portion citizen rescue resource love retreat corn";

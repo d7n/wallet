@@ -1,1 +1,1 @@
-var mnemonic = "output soul milk skill liberty snake poet elder dismiss summer pelican nerve";
+var mnemonic = "deny hair come buffalo pyramid shrimp swing extend menu dice faculty dream";

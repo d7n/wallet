@@ -1,1 +1,1 @@
-var mnemonic = "problem dog alter history train wing chaos board reject industry casual lady";
+var mnemonic = "payment patch image property tank asthma can gauge snake able typical fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor oyster swear visa exist one either inject boat canvas antique story";
+var mnemonic = "toward feature build plunge power viable below review seek acquire glad arrow";

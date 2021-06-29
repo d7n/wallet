@@ -1,1 +1,1 @@
-var mnemonic = "cradle wool method vapor squirrel dice barely mom push noodle cable force";
+var mnemonic = "toddler wealth couple suit stove throw ignore bachelor tide purse vital village";

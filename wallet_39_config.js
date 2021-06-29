@@ -1,1 +1,1 @@
-var mnemonic = "able scene night approve peanut monster give wire token fun make tragic";
+var mnemonic = "detect offer chimney pole solid endless chat diamond chat muffin course wing";

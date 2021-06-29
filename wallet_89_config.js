@@ -1,1 +1,1 @@
-var mnemonic = "advance depend aware chair have atom memory lyrics latin apart chalk open";
+var mnemonic = "whale stock gentle ghost type pattern lend above tissue smooth stable cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "amount treat protect whip become glare lesson settle bulk identify inside trap";
+var mnemonic = "blur drama expand narrow ramp siren inquiry option cook dinosaur sight pet";

@@ -1,1 +1,1 @@
-var mnemonic = "fun candy deer live diamond city above dune inquiry chapter rifle long";
+var mnemonic = "ten evolve roast salt anxiety argue cinnamon alarm easily hawk rather doll";

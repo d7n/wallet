@@ -1,1 +1,1 @@
-var mnemonic = "voyage rural air beauty domain whisper visual recipe next fog bring copper";
+var mnemonic = "depth motor gap oil include adult venture focus net syrup glass trip";

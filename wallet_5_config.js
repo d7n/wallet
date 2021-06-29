@@ -1,1 +1,1 @@
-var mnemonic = "risk blouse social crack envelope latin camera lab proof cable grain reason";
+var mnemonic = "submit cake ozone champion siren garment monitor great accuse youth short beauty";

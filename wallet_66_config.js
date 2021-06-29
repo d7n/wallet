@@ -1,1 +1,1 @@
-var mnemonic = "stick silk concert cost whale music rifle economy wealth now receive claw";
+var mnemonic = "cherry vanish sudden napkin because avocado trial total trend apology thrive scrap";

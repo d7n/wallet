@@ -1,1 +1,1 @@
-var mnemonic = "aunt enforce rescue melt enact hand crack century fantasy visual broken globe";
+var mnemonic = "own winner cup all okay turkey tired dirt slim loud kidney avoid";

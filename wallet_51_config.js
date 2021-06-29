@@ -1,1 +1,1 @@
-var mnemonic = "beach home rib curious oyster portion expand busy float aunt zone easily";
+var mnemonic = "pair rug number squeeze brown game rocket neglect eyebrow neglect eternal learn";

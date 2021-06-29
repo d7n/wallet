@@ -1,1 +1,1 @@
-var mnemonic = "skate prosper crouch fury limit brother mango witness angry pig choice rude";
+var mnemonic = "vital canyon desk duck dress print impulse anchor oven vivid pizza liar";

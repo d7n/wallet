@@ -1,1 +1,1 @@
-var mnemonic = "letter drum during impact pluck conduct injury ginger family entire fossil settle";
+var mnemonic = "hundred someone pottery tag seat raven oxygen trick jazz renew save various";

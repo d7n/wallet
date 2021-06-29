@@ -1,1 +1,1 @@
-var mnemonic = "puppy fortune talent proud front bulk razor outer near exercise book world";
+var mnemonic = "slight involve equal between allow deputy thought crisp loyal oppose subject rely";

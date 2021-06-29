@@ -1,1 +1,1 @@
-var mnemonic = "volcano spice mango erupt trial make police bus during fiber raw pear";
+var mnemonic = "check grocery hard baby push end want clip fit reduce endless marriage";

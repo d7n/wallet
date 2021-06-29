@@ -1,1 +1,1 @@
-var mnemonic = "print path mosquito country unveil trip stand west cook rival grain hamster";
+var mnemonic = "chalk modify dismiss code modify practice sting bridge side muscle false list";

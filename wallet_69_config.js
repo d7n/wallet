@@ -1,1 +1,1 @@
-var mnemonic = "course tree again hole dragon nose capital rose myself liar during sunset";
+var mnemonic = "rule depend cream surface supreme banner network bean blade matrix tornado brush";

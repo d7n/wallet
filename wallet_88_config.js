@@ -1,1 +1,1 @@
-var mnemonic = "drill loan business winner two matrix car charge height flee flower damage";
+var mnemonic = "project blur athlete local young person smart ghost check agree ordinary invite";

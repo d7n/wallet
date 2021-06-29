@@ -1,1 +1,1 @@
-var mnemonic = "asthma silk crumble pill hunt cat snow toast print because pole pull";
+var mnemonic = "hold stumble biology meadow story poet illegal essay often extend over curious";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo pass truck phrase girl private advance equip spawn various gain loop";
+var mnemonic = "alley beyond release collect adjust plastic satoshi journey into seed sign member";

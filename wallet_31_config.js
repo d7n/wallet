@@ -1,1 +1,1 @@
-var mnemonic = "tape visit install sugar wide laundry annual dwarf december swamp host man";
+var mnemonic = "area lawn wrestle upgrade loop adult pet shoot nuclear section ozone repeat";

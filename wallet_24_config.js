@@ -1,1 +1,1 @@
-var mnemonic = "brother magic faith member fatal slam wish stumble advance amount finish hub";
+var mnemonic = "claim clutch obtain trick list file find key original effort electric resist";

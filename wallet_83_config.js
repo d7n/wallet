@@ -1,1 +1,1 @@
-var mnemonic = "vendor taxi grid rough glimpse hood ice issue dawn hidden nose leg";
+var mnemonic = "dry peanut once income figure dentist strategy blood smile setup unknown gorilla";

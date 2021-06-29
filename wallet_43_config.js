@@ -1,1 +1,1 @@
-var mnemonic = "tone coconut drill tumble ill bachelor cable shell frost negative sorry train";
+var mnemonic = "junior monkey devote athlete kitten absurd avoid leader height unusual nasty radio";
