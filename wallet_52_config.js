@@ -1,1 +1,1 @@
-var mnemonic = "uncover quiz skirt awful pizza rotate easy habit garment position giant correct";
+var mnemonic = "twelve female crack stage question series floor whip goddess chapter clump build";

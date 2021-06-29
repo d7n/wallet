@@ -1,1 +1,1 @@
-var mnemonic = "suspect decade shoe tray echo zone curtain gasp truth table gadget assault";
+var mnemonic = "soap develop scout cargo mountain copper observe addict young dilemma upset stock";

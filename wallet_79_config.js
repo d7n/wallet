@@ -1,1 +1,1 @@
-var mnemonic = "execute inhale badge song thing forest borrow entire shield used illness retire";
+var mnemonic = "exotic front audit clutch craft taxi axis sunset category rocket notice slim";

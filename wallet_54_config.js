@@ -1,1 +1,1 @@
-var mnemonic = "hood garlic grass ranch wish capital remember letter diamond shine seed book";
+var mnemonic = "cushion quantum paddle track parent rich bulk solid diet cycle surprise chat";

@@ -1,1 +1,1 @@
-var mnemonic = "foam speed confirm spoon link drastic equip myth bacon wear zone order";
+var mnemonic = "vivid balcony fault region tonight group finger silver belt return input cover";

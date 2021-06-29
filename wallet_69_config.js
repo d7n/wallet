@@ -1,1 +1,1 @@
-var mnemonic = "memory vast galaxy shrug wall original vicious genre pledge basic column erode";
+var mnemonic = "spoil lemon work coconut knee history capable whisper enact skull social grocery";

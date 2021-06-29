@@ -1,1 +1,1 @@
-var mnemonic = "exercise erosion race change about clean play goose sport reject afford already";
+var mnemonic = "design wet cluster summer solar scrub hip outside lens club honey addict";

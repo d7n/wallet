@@ -1,1 +1,1 @@
-var mnemonic = "vehicle tourist attract frame eye crunch bridge work surround arch maximum segment";
+var mnemonic = "myself snow exclude source nice warm master extra elbow milk few identify";

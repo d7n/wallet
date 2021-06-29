@@ -1,1 +1,1 @@
-var mnemonic = "siren detail adapt law echo evolve purchase adjust puppy wall world entire";
+var mnemonic = "kitten segment sting main whisper potato mimic item true coach move visa";

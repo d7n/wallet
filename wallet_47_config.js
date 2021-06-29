@@ -1,1 +1,1 @@
-var mnemonic = "shell habit vendor fabric govern sword few photo floor gasp recycle bottom";
+var mnemonic = "spray bring gauge help sorry brisk cute dog grant cargo one theme";

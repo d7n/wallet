@@ -1,1 +1,1 @@
-var mnemonic = "gentle finger garment depth story bar funny dignity welcome echo palm popular";
+var mnemonic = "flock magnet brain echo double obvious ahead occur modify dutch switch way";

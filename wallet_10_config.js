@@ -1,1 +1,1 @@
-var mnemonic = "solar federal festival rhythm help barrel under travel icon raven carry vacuum";
+var mnemonic = "shoot vendor frequent hotel chair panel rule total certain obey mouse large";

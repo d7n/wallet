@@ -1,1 +1,1 @@
-var mnemonic = "ridge lava tomorrow dismiss text search cage venture spend denial wait struggle";
+var mnemonic = "width steak burst inspire fame garlic solar pet twelve bacon sun swift";

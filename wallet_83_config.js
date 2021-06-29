@@ -1,1 +1,1 @@
-var mnemonic = "crunch thing doctor easy purpose caught slide trash bulk worth sorry hazard";
+var mnemonic = "artefact pitch mobile mobile vote purchase wealth crash awful sentence refuse refuse";

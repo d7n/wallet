@@ -1,1 +1,1 @@
-var mnemonic = "banana curve life pet fossil master apple garbage sail call rapid citizen";
+var mnemonic = "decade follow bench sell cover chat crush bicycle melt cream crouch fit";

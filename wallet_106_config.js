@@ -1,1 +1,1 @@
-var mnemonic = "three nothing liar program negative mechanic clock cart angle option chapter put";
+var mnemonic = "vague love shop avoid silent mouse afraid material expect bounce citizen pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "sock ranch monster celery virtual stomach cricket man upper uncover post sword";
+var mnemonic = "soon rent patrol believe kiss wise vacuum marble hire innocent fury craft";

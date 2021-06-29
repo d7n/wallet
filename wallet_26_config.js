@@ -1,1 +1,1 @@
-var mnemonic = "pattern tribe tray zero trim cattle intact term phrase fit cabin bless";
+var mnemonic = "match bitter actress infant warfare tent guide circle super elephant pig emerge";

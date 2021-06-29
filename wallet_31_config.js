@@ -1,1 +1,1 @@
-var mnemonic = "peasant estate stamp pyramid aisle immense boring escape disease easy begin document";
+var mnemonic = "pig until hockey enlist half rough crystal bachelor angry able beach sunset";

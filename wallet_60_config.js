@@ -1,1 +1,1 @@
-var mnemonic = "satoshi keep address gravity identify impose culture script brain offer frozen rough";
+var mnemonic = "denial release battle legal select float tape sibling budget beyond change clock";

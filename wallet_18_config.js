@@ -1,1 +1,1 @@
-var mnemonic = "school game army word reunion answer salad modify code brand stadium monkey";
+var mnemonic = "vibrant census brisk dream fence disease real chimney palace easily inspire about";

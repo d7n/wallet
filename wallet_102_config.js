@@ -1,1 +1,1 @@
-var mnemonic = "file shallow bright coral raise common once auto weekend age identify stick";
+var mnemonic = "flash fabric disorder laundry photo shuffle book tunnel poem device work drive";

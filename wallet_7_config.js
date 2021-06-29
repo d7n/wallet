@@ -1,1 +1,1 @@
-var mnemonic = "cushion cargo source dizzy obvious toe gauge fog shuffle dignity market twice";
+var mnemonic = "nest chronic budget acid script route exist diamond parade split key return";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder corn hat convince fit snow allow rain filter armed predict mixture";
+var mnemonic = "beauty appear general average company turkey simple easily easily truly merit prevent";

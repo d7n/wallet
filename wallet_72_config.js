@@ -1,1 +1,1 @@
-var mnemonic = "shiver embrace try obtain broken describe nose various couch cover yard catch";
+var mnemonic = "west material crash cupboard flat planet game flower bamboo brief such choice";

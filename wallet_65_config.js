@@ -1,1 +1,1 @@
-var mnemonic = "swamp choice liquid injury bomb cherry only west shuffle tent tomorrow forest";
+var mnemonic = "member virtual short lesson trade olive lamp breeze fee index canyon text";

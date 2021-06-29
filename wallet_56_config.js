@@ -1,1 +1,1 @@
-var mnemonic = "drop earn length ready inflict claw salon ceiling bonus limb welcome midnight";
+var mnemonic = "stadium possible before tired mirror people hurry outdoor record okay swap rebuild";

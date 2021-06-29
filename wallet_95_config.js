@@ -1,1 +1,1 @@
-var mnemonic = "hour assist resemble plastic door lens fiction laugh burden elder meat wreck";
+var mnemonic = "effort camera force hurdle volume age hurt current room rib assault forward";

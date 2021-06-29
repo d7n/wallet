@@ -1,1 +1,1 @@
-var mnemonic = "top sister minute blush desert page father keen side noise faculty wasp";
+var mnemonic = "beauty hope change thunder chat paddle sniff feature volcano viable viable leg";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest funny equip remind before rent top betray hair mind space alpha";
+var mnemonic = "vacuum pass shoot bread test main decade boring sting any volcano clever";

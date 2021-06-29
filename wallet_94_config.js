@@ -1,1 +1,1 @@
-var mnemonic = "harsh wash inquiry kiss crush tuna allow pull series deny museum estate";
+var mnemonic = "pumpkin joy mixture wrong spray grace spray design fragile lecture close certain";

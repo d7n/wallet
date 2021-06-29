@@ -1,1 +1,1 @@
-var mnemonic = "airport fancy torch spider zero upgrade exotic suspect powder reduce across catalog";
+var mnemonic = "wise future blur critic excuse kiwi viable embody sauce happy retire behave";

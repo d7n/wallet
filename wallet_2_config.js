@@ -1,1 +1,1 @@
-var mnemonic = "awful nephew leopard inhale fine text canyon feature weekend basic obvious belt";
+var mnemonic = "catalog crime jacket scrap brand end peace loan secret leg decline flush";

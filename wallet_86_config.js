@@ -1,1 +1,1 @@
-var mnemonic = "material hero symptom about lady summer viable road then dove lawn attitude";
+var mnemonic = "tomato target strong neither crunch curtain foot rack dream fitness mule gun";

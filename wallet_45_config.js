@@ -1,1 +1,1 @@
-var mnemonic = "clarify later upgrade corn timber various point finish claim style photo van";
+var mnemonic = "total thrive trust brown alcohol much dish busy jacket walk suit kingdom";

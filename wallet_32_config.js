@@ -1,1 +1,1 @@
-var mnemonic = "place unfair volume topic grunt patch police quiz want basic moon convince";
+var mnemonic = "raven process hurry goddess grief loan minute flame flavor trial loyal inject";

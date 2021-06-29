@@ -1,1 +1,1 @@
-var mnemonic = "term brick vintage bottom amused rubber zebra try advice vessel slogan acoustic";
+var mnemonic = "swap spend elegant course exile version business hotel error luggage develop palace";

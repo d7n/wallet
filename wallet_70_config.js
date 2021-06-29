@@ -1,1 +1,1 @@
-var mnemonic = "glare fly wine dove pony candy garlic track banana simple glass bubble";
+var mnemonic = "body scale require lunar rice common magic enact diet barely veteran fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "broken unlock earth buyer grit slight smoke credit damage resource market runway";
+var mnemonic = "galaxy tip rent mango record point room monkey tell limb apology suspect";

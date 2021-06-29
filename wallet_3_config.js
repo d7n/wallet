@@ -1,1 +1,1 @@
-var mnemonic = "tunnel snake twelve another eternal joke you ski reunion onion patrol march";
+var mnemonic = "merit year prosper ring attract above enter check surface uncle bike auction";

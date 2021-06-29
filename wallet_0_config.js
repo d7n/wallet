@@ -1,1 +1,1 @@
-var mnemonic = "bread daring portion remember fall snow ability violin verb other wish message";
+var mnemonic = "happy program impose peanut okay pride muffin crazy segment eyebrow hurry solid";

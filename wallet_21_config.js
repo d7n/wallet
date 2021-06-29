@@ -1,1 +1,1 @@
-var mnemonic = "snow aisle picture unique puppy color immune prepare song effort daring ritual";
+var mnemonic = "mushroom resist height small blanket employ scorpion glove car start genre canal";

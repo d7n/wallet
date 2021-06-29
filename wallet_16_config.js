@@ -1,1 +1,1 @@
-var mnemonic = "lunar hand guess tissue twin any rate burst praise apology reform vacant";
+var mnemonic = "copper spell ball require argue problem announce slice pattern jacket host penalty";

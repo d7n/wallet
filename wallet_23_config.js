@@ -1,1 +1,1 @@
-var mnemonic = "favorite case jealous promote erosion wild loop joy design alter pen pride";
+var mnemonic = "behave axis arrive law twice sketch ordinary strong festival kick basic sea";

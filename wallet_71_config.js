@@ -1,1 +1,1 @@
-var mnemonic = "exchange month when canal chicken champion ceiling verify market awake hint injury";
+var mnemonic = "hazard hurry bulb almost shallow awkward mother neutral apart submit mammal dawn";

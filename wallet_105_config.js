@@ -1,1 +1,1 @@
-var mnemonic = "arrive sail wear glimpse world rent labor dizzy squirrel minute myth helmet";
+var mnemonic = "because wrist ill tunnel across defense address frozen describe poverty uphold loyal";

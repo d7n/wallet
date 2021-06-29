@@ -1,1 +1,1 @@
-var mnemonic = "hawk embrace scissors solid guess second rack buyer enhance tribe grant fuel";
+var mnemonic = "tag hole dragon fuel noise miracle rib happy make dad wage inhale";

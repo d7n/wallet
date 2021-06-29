@@ -1,1 +1,1 @@
-var mnemonic = "alley slight north kiss please rifle tooth sell marble devote switch task";
+var mnemonic = "renew unable ceiling awesome planet oak moment sword number link impulse lava";

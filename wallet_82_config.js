@@ -1,1 +1,1 @@
-var mnemonic = "alarm hope animal census wool decorate soccer able clay churn frog market";
+var mnemonic = "slab suggest life flag couch someone oppose fun cloud animal bike gallery";

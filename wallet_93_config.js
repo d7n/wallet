@@ -1,1 +1,1 @@
-var mnemonic = "extra scout space harbor goddess hill glimpse grit promote crystal mouse disease";
+var mnemonic = "promote visit news essay thought fetch draw patch fantasy blast ginger fashion";

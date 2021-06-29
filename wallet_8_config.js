@@ -1,1 +1,1 @@
-var mnemonic = "grape insane solid where fashion vocal unusual draft uniform layer siege name";
+var mnemonic = "maze salt worth ribbon stereo venue goose aunt lonely conduct desert interest";

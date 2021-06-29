@@ -1,1 +1,1 @@
-var mnemonic = "unusual vapor code orphan improve suspect gallery local relief tired sense they";
+var mnemonic = "solid innocent pause volcano relax other outdoor buddy amused harvest strong shine";

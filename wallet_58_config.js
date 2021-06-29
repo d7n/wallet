@@ -1,1 +1,1 @@
-var mnemonic = "grocery current already middle tail addict ball tooth elder brother found wrist";
+var mnemonic = "viable sense foster shuffle help slogan report afraid pencil lens absent office";

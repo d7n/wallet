@@ -1,1 +1,1 @@
-var mnemonic = "knee say evolve civil scene wide together cliff unlock bamboo pave copy";
+var mnemonic = "icon deposit under guilt unaware scrap quality bracket doctor mountain eager convince";

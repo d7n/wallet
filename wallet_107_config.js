@@ -1,1 +1,1 @@
-var mnemonic = "catalog blush swear metal silver match exercise army slush improve flee next";
+var mnemonic = "employ spawn spell stool text own merry ocean vacant orphan chuckle tiny";

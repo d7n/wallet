@@ -1,1 +1,1 @@
-var mnemonic = "daughter search lion sleep grit blame chronic scout approve during have negative";
+var mnemonic = "clap skin blur oval there calm long matter crater hero topic denial";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel cheap afraid autumn table giraffe walnut item angle absent doll gorilla";
+var mnemonic = "fantasy sauce require receive train ask boss stem develop business noodle cycle";

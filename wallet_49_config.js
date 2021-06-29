@@ -1,1 +1,1 @@
-var mnemonic = "level comfort intact lock infant twin predict misery injury stay under inflict";
+var mnemonic = "happy pitch danger swing render summer mother woman creek icon heavy critic";

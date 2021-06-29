@@ -1,1 +1,1 @@
-var mnemonic = "rookie provide beach cram spare honey bundle pond fish distance long save";
+var mnemonic = "rich practice brisk sport stable amused quit ghost release insane swear bamboo";

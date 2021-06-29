@@ -1,1 +1,1 @@
-var mnemonic = "volcano gym use athlete agree demand cement candy giraffe remind horror abandon";
+var mnemonic = "cabbage actor popular beauty two they spot sample must effort swing crucial";

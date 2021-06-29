@@ -1,1 +1,1 @@
-var mnemonic = "forest swear field thumb loud hold jacket hood aspect keep neither kitchen";
+var mnemonic = "orchard confirm tooth craft banana grant security peanut dash embody sample chapter";

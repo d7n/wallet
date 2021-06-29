@@ -1,1 +1,1 @@
-var mnemonic = "great surround emotion cargo access world cushion hunt unaware link erupt wrist";
+var mnemonic = "ring garbage holiday plug scatter tide surround agent pride casual world blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "network violin vintage tired device skate tourist deny detect man jelly mail";
+var mnemonic = "salt bid cupboard century always erosion dignity hollow word manage legend lake";

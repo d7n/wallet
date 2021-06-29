@@ -1,1 +1,1 @@
-var mnemonic = "sauce head crisp catch aim spin finger fiber frequent mixture repeat canyon";
+var mnemonic = "kitchen witness supreme track patient prison that fashion food pool image typical";

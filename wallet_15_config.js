@@ -1,1 +1,1 @@
-var mnemonic = "client toss trash shine believe ripple sting message bulb reform nuclear teach";
+var mnemonic = "enhance radar anger hedgehog lend tree end heavy pool rail route unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff grief warrior render victory sing render credit floor chicken humble bottom";
+var mnemonic = "today firm gain step more vessel large security salon shock round fortune";

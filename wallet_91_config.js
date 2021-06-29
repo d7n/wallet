@@ -1,1 +1,1 @@
-var mnemonic = "slab amount survey pretty duty basic expect blue sight fold sad riot";
+var mnemonic = "patrol elder over gloom silly cute music stuff occur chimney wasp weasel";

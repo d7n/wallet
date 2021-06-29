@@ -1,1 +1,1 @@
-var mnemonic = "nephew nasty comic physical asthma year robot debate explain ivory kidney online";
+var mnemonic = "pumpkin kangaroo paddle someone hour census tunnel odor wine tornado glory fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster stand noble grant cancel taste come proud indicate devote divert step";
+var mnemonic = "insane tell floor blue discover theme open beef armed they twin famous";

@@ -1,1 +1,1 @@
-var mnemonic = "casino diet goose belt walnut limit click brass keen canoe creek horse";
+var mnemonic = "spring main breeze olympic please inherit bid prize wet absent humble fit";

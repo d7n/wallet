@@ -1,1 +1,1 @@
-var mnemonic = "twenty banana vivid noise road old annual imitate sheriff labor romance catalog";
+var mnemonic = "wrestle decade seek ribbon one industry festival echo trial dawn welcome barely";

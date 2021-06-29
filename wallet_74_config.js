@@ -1,1 +1,1 @@
-var mnemonic = "cage approve settle tower wine retire razor hedgehog advance another hip sense";
+var mnemonic = "lemon height swamp night clever next donkey confirm excite option balcony rug";

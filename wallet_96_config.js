@@ -1,1 +1,1 @@
-var mnemonic = "stereo federal almost member trap boat december year topic dawn predict bridge";
+var mnemonic = "clown document fly wood know suspect term umbrella echo young buffalo birth";

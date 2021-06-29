@@ -1,1 +1,1 @@
-var mnemonic = "wire disorder reveal over fancy mask unveil slender ticket inmate settle sphere";
+var mnemonic = "okay hurt unhappy cattle strike position steel pink mandate merry frost skate";

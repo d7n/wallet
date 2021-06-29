@@ -1,1 +1,1 @@
-var mnemonic = "soap crater valve ordinary tube tool canvas clarify trim cherry govern minimum";
+var mnemonic = "turtle crouch parrot spirit squeeze account bar salt voice position weird denial";

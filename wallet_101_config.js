@@ -1,1 +1,1 @@
-var mnemonic = "language glare lend furnace album silver tape iron sense define exhaust today";
+var mnemonic = "lock dismiss toss film choice version brain satisfy under melody entry fix";

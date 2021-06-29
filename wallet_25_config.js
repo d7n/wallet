@@ -1,1 +1,1 @@
-var mnemonic = "access shop dry vintage glance pool oval ribbon globe impose rug topple";
+var mnemonic = "turtle glove silk hover earth ensure vague mutual stairs tomorrow warm salad";

@@ -1,1 +1,1 @@
-var mnemonic = "increase agree blast garden wine wealth envelope denial quiz rhythm knock noble";
+var mnemonic = "scare earth muscle vote champion obvious trumpet cry useless dad unfair ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "blind pistol eye face advice render beach more wolf chat despair crazy";
+var mnemonic = "best believe wage drop wide smoke version celery olive job unknown blood";

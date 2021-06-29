@@ -1,1 +1,1 @@
-var mnemonic = "wife insect champion tuition advance rotate trial helmet bicycle banana extra vital";
+var mnemonic = "domain wrap athlete slam kit captain frame hood delay check reward account";

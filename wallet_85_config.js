@@ -1,1 +1,1 @@
-var mnemonic = "source energy fun exact acquire echo torch fork any entry page carbon";
+var mnemonic = "render absent banana rather idea siege beach owner hybrid client embody water";

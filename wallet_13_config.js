@@ -1,1 +1,1 @@
-var mnemonic = "area sound loud gate maximum replace dilemma donor casino fit clever wheel";
+var mnemonic = "correct zebra glove donkey simple people quote clinic hazard soul faint lens";

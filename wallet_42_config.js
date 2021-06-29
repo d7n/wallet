@@ -1,1 +1,1 @@
-var mnemonic = "topic skin champion issue green bag ordinary twice sorry olive claim armor";
+var mnemonic = "marine loan economy language upset half math print logic pioneer ski marriage";

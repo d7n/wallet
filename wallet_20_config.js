@@ -1,1 +1,1 @@
-var mnemonic = "pitch inside reward flock swap scissors plunge advice suffer pave coffee pen";
+var mnemonic = "salmon sheriff ocean daring vacuum cargo glimpse talk social fame observe hollow";

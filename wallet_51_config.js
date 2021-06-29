@@ -1,1 +1,1 @@
-var mnemonic = "machine monster spend carpet fence kite nature gaze jar hotel car resource";
+var mnemonic = "dumb minute ripple script fantasy vivid oval vehicle rule popular expire track";

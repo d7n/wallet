@@ -1,1 +1,1 @@
-var mnemonic = "will blame soon marble auto glue exact rifle swarm vast pave chalk";
+var mnemonic = "jewel clown veteran sign crumble soccer fly major village point insane ladder";
