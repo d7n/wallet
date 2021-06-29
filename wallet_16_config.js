@@ -1,1 +1,1 @@
-var mnemonic = "onion sock know ecology jeans gym famous trash grow despair maid garden";
+var mnemonic = "bronze embody wild funny learn slot trip dinner skate cherry source sense";

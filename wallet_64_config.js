@@ -1,1 +1,1 @@
-var mnemonic = "viable devote term spider wood unveil castle twice hello giraffe next jungle";
+var mnemonic = "replace blind decorate need start endorse fiscal salon can turkey mom fetch";

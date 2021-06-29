@@ -1,1 +1,1 @@
-var mnemonic = "arrest subject fury animal ticket buyer squirrel awful sock water trim all";
+var mnemonic = "fragile metal gold scrub since sun still brown six true news tackle";

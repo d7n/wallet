@@ -1,1 +1,1 @@
-var mnemonic = "van amateur hybrid daughter cheap switch city online taste hazard cement ugly";
+var mnemonic = "salmon type flee crowd adult motor million kidney flight car advance alone";

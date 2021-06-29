@@ -1,1 +1,1 @@
-var mnemonic = "cricket better scrub tell throw possible fruit plastic kingdom service once situate";
+var mnemonic = "once fabric flavor crystal year steel dial solar involve bronze cigar entire";

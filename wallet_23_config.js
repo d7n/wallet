@@ -1,1 +1,1 @@
-var mnemonic = "spice genuine initial exist private because high awkward tooth hero tortoise coin";
+var mnemonic = "stomach unhappy youth estate arrest company off poverty soap pepper word dawn";

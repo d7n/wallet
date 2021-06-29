@@ -1,1 +1,1 @@
-var mnemonic = "shell essay deputy coconut sheriff mail peanut nominee slight like drift pitch";
+var mnemonic = "boss fashion hunt fatal learn immune voice trim attract vivid bind stomach";

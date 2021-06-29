@@ -1,1 +1,1 @@
-var mnemonic = "disease spray ritual common slide conduct regular prison afraid above burst kiwi";
+var mnemonic = "decade fetch sponsor bind hollow feel speed museum rapid arrange echo firm";

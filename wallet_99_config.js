@@ -1,1 +1,1 @@
-var mnemonic = "venue blanket knock wagon dune harsh defense roof verify twice veteran place";
+var mnemonic = "grain stick gravity hockey arrest excess canal truly ribbon pet calm velvet";

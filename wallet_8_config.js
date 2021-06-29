@@ -1,1 +1,1 @@
-var mnemonic = "moon cup object act super table robot cactus celery skull weird desk";
+var mnemonic = "bike shoot slim enemy matter word consider conduct sense sign phrase salon";

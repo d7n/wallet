@@ -1,1 +1,1 @@
-var mnemonic = "dune fold swap weapon deposit festival lumber spoil stadium slide cinnamon welcome";
+var mnemonic = "scrub opera satisfy talent common talent code regular south trumpet plate depend";

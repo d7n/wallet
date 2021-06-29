@@ -1,1 +1,1 @@
-var mnemonic = "confirm slight sniff drop nature ocean trash avocado gauge ability wet neither";
+var mnemonic = "canal shallow advice record vanish wild spirit disease drink damp project slot";

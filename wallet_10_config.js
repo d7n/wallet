@@ -1,1 +1,1 @@
-var mnemonic = "ready entire raccoon fiscal flame improve wool notable transfer glimpse lab alley";
+var mnemonic = "rate juice fortune harvest dice nation baby glass mask thumb zoo river";

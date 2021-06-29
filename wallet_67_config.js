@@ -1,1 +1,1 @@
-var mnemonic = "depend strategy wise field alert bracket car renew voice alone thunder mix";
+var mnemonic = "virtual ocean tag company sand illegal caution intact midnight awake connect slow";

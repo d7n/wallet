@@ -1,1 +1,1 @@
-var mnemonic = "whisper asthma science allow boil okay strike trap slender smoke pipe shadow";
+var mnemonic = "review relax steel gospel repair romance piece file bachelor prize lake shuffle";

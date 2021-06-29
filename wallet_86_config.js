@@ -1,1 +1,1 @@
-var mnemonic = "region sun spray canoe point prevent ozone profit kangaroo swarm evoke menu";
+var mnemonic = "emotion tuna layer fortune light belt situate produce thought stool input envelope";

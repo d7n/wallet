@@ -1,1 +1,1 @@
-var mnemonic = "diagram abstract leisure news brass liberty replace crystal trap river purse seven";
+var mnemonic = "little west dismiss bubble pave harbor between jungle struggle canyon belt whisper";

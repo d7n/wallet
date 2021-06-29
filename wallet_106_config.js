@@ -1,1 +1,1 @@
-var mnemonic = "borrow baby produce suggest cruise orbit siren output soda almost toward busy";
+var mnemonic = "brown gasp friend pelican token seven inflict senior antenna favorite umbrella gravity";

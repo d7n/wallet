@@ -1,1 +1,1 @@
-var mnemonic = "cancel flip physical bleak fiber deal hire tennis host flat oyster sphere";
+var mnemonic = "ripple wink remain hollow false surround frame winter horn patrol share wasp";

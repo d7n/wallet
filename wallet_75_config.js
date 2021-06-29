@@ -1,1 +1,1 @@
-var mnemonic = "grant legal powder isolate virus cruel pond raise code charge feel reveal";
+var mnemonic = "elevator alcohol tool ranch excite decade sauce marble outside life sing armed";

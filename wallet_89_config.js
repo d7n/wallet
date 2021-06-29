@@ -1,1 +1,1 @@
-var mnemonic = "access please save staff total mule weird bamboo birth doll fatigue beyond";
+var mnemonic = "parrot turn upset actor saddle drive mass card off door tooth peace";

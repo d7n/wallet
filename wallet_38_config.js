@@ -1,1 +1,1 @@
-var mnemonic = "web off busy garden decorate legend once game stone zebra teach carry";
+var mnemonic = "banana laptop warm tail cash essence onion dinner legal hard magnet point";

@@ -1,1 +1,1 @@
-var mnemonic = "celery ocean logic fever top silly advice better float prevent hair survey";
+var mnemonic = "mixture neutral shadow much host loud twelve garment clean giant goat capable";

@@ -1,1 +1,1 @@
-var mnemonic = "post play now recipe recycle brick aware ocean script adjust deer waste";
+var mnemonic = "better again dream object head whisper finish image immense shell subject joy";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder raven pyramid bachelor edge two armor desert approve champion chalk endless";
+var mnemonic = "onion law crush fantasy become trick art govern blanket mobile dwarf inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "purity picnic rib cliff evil curtain insane right faith produce antenna vacant";
+var mnemonic = "vessel undo obey hammer quote equal case bachelor entry addict clip hover";

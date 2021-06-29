@@ -1,1 +1,1 @@
-var mnemonic = "card rare poem mass hello viable sponsor decade roast protect pyramid clerk";
+var mnemonic = "remember envelope hurt tide castle retire demand educate bread ski trick report";

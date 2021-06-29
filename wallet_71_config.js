@@ -1,1 +1,1 @@
-var mnemonic = "quote element weekend arrest oil acquire economy evolve champion head trick lonely";
+var mnemonic = "clay visit diamond grant indicate clip switch aware mammal bus party abstract";

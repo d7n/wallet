@@ -1,1 +1,1 @@
-var mnemonic = "switch elephant mother antenna mushroom please income worry simple inch require wagon";
+var mnemonic = "early senior relax seven poet anger float miracle shock jazz nuclear beach";

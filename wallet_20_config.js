@@ -1,1 +1,1 @@
-var mnemonic = "dance glide reunion ice venture reveal scare olympic few erupt fence humor";
+var mnemonic = "limb inject swap surround axis offer illness pole notice video again swamp";

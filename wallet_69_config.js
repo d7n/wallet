@@ -1,1 +1,1 @@
-var mnemonic = "harvest half mango hour limit transfer sketch exit half exchange embark foot";
+var mnemonic = "rifle coin very guitar catalog begin nose anger toe lecture tip perfect";

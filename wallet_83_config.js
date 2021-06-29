@@ -1,1 +1,1 @@
-var mnemonic = "opinion carbon shallow swing family sweet merge trash control sauce clay flush";
+var mnemonic = "enemy blush joy resist shadow endorse question balance capital hazard evidence apology";

@@ -1,1 +1,1 @@
-var mnemonic = "brother dragon brown divert paddle vicious twice news head brisk alcohol rude";
+var mnemonic = "quick crumble faculty unaware scale camera horn luggage swing hunt swift drink";

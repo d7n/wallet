@@ -1,1 +1,1 @@
-var mnemonic = "able joke mango field provide need large maid brisk radar dice snake";
+var mnemonic = "left rather radio chimney tower tape prevent section relax pistol oxygen enhance";

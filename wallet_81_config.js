@@ -1,1 +1,1 @@
-var mnemonic = "moon give level general choose slot legal size thumb earn bone nuclear";
+var mnemonic = "perfect maple bridge install flash rifle pudding gauge interest work casino whip";

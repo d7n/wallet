@@ -1,1 +1,1 @@
-var mnemonic = "endorse issue era teach speak equal bus opinion muscle coast candy dress";
+var mnemonic = "total taxi holiday perfect attract dignity vast tobacco merge gun online boat";

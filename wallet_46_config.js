@@ -1,1 +1,1 @@
-var mnemonic = "decide discover cancel wrist battle misery myth card pond avoid way lion";
+var mnemonic = "limit dash valve slab believe scout narrow rail update frozen win art";

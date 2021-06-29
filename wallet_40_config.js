@@ -1,1 +1,1 @@
-var mnemonic = "excite cinnamon young field treat vital twice rate lion vague monkey option";
+var mnemonic = "fit fever blame broken output chaos stage crew silly leisure inflict broken";

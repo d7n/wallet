@@ -1,1 +1,1 @@
-var mnemonic = "observe tower hub mixed vacuum conduct mimic small oblige oyster fringe verb";
+var mnemonic = "body text below auction come insane team hole logic strategy melt switch";

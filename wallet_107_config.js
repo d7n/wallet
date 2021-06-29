@@ -1,1 +1,1 @@
-var mnemonic = "song chase cloud oyster sight coyote turkey rate debris this also chase";
+var mnemonic = "scrap good modify bag mechanic spoil confirm priority art lawsuit urge purse";

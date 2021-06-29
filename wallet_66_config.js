@@ -1,1 +1,1 @@
-var mnemonic = "motion distance fire enforce sunset middle imitate federal garlic embark genius bright";
+var mnemonic = "ill rookie luggage pull skull cream diagram pet better wall census buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf twin riot eight vote honey stove limit urge primary food benefit";
+var mnemonic = "letter glare reveal police trade tail umbrella cabbage civil emerge win purpose";

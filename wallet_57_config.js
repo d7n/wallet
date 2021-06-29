@@ -1,1 +1,1 @@
-var mnemonic = "ranch immune captain sentence fold torch eagle lamp oven crop hedgehog bid";
+var mnemonic = "clock quarter panther mistake similar silly elegant ethics bag board chimney globe";

@@ -1,1 +1,1 @@
-var mnemonic = "case vessel today kit subway impulse marble green wisdom brown they frost";
+var mnemonic = "egg host keep dose defense van main fit venture panther flame kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "found test expect hello breeze crouch hope pair ill slim fence valve";
+var mnemonic = "oak mom summer buyer sleep thing movie submit scale shaft buddy often";

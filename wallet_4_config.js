@@ -1,1 +1,1 @@
-var mnemonic = "wealth mean farm antique snap burden ocean escape initial convince toss salad";
+var mnemonic = "detail fiber loud visa window custom chat steel giant immense rival gather";

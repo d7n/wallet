@@ -1,1 +1,1 @@
-var mnemonic = "credit decorate kid sphere impose across rifle charge pause rough life view";
+var mnemonic = "extend dentist table urban limb skill permit wing speak thunder robot layer";

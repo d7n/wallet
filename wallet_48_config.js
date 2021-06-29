@@ -1,1 +1,1 @@
-var mnemonic = "sorry enroll since dream put rhythm ill undo junior picnic chest begin";
+var mnemonic = "tiny absorb gallery loud burden mask wrong cement loud orbit average chalk";

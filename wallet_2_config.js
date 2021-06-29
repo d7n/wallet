@@ -1,1 +1,1 @@
-var mnemonic = "matter artefact world salmon test exist above steak harsh drastic super humor";
+var mnemonic = "winter behave bag chapter build harbor try merit tonight excite romance laptop";

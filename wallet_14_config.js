@@ -1,1 +1,1 @@
-var mnemonic = "hundred tackle tired wool twice normal sell tobacco ostrich phrase pistol fly";
+var mnemonic = "inch turn artefact pride rhythm topple guide cattle circle ability flame bacon";

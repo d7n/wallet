@@ -1,1 +1,1 @@
-var mnemonic = "reward swear acoustic comfort smoke question obey piano slogan found legend pattern";
+var mnemonic = "similar satoshi grit empty tone impact echo negative twist topple exchange brisk";

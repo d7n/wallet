@@ -1,1 +1,1 @@
-var mnemonic = "employ nest erupt cabbage assume visit calm act chair east warm lizard";
+var mnemonic = "number slice version body donate antique blush blame ivory there wreck license";

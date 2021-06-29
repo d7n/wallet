@@ -1,1 +1,1 @@
-var mnemonic = "crucial hair camp ice tattoo private need pause enter item rude private";
+var mnemonic = "glare dinner donkey motion cup muffin slot car travel wage cotton film";

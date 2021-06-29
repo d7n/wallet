@@ -1,1 +1,1 @@
-var mnemonic = "radar off hold palm there congress speed icon donate strike feature orient";
+var mnemonic = "opinion snap level print only glare friend lend visit bacon maid magic";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive hedgehog mother awake perfect base stadium join cry begin valley busy";
+var mnemonic = "miracle upper hint level lawn fall brown inform city item nerve pretty";

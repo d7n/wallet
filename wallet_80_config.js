@@ -1,1 +1,1 @@
-var mnemonic = "energy dove van example today problem pony leg together recipe forum inside";
+var mnemonic = "hollow dose essence climb size scissors nation once coral neglect squirrel farm";

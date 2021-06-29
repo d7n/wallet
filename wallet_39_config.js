@@ -1,1 +1,1 @@
-var mnemonic = "vital melt interest total rose confirm issue angle route vote possible area";
+var mnemonic = "mention metal use virtual alley life defy domain theme peasant account roast";

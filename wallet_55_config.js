@@ -1,1 +1,1 @@
-var mnemonic = "unfair knife hollow harsh crop have borrow minute culture midnight kick find";
+var mnemonic = "green sail job present fancy stairs gate best surge nose amount clump";

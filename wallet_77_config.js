@@ -1,1 +1,1 @@
-var mnemonic = "envelope feel bone often moon vicious evidence wear vintage current labor raven";
+var mnemonic = "wide situate dignity guide body fresh enjoy ketchup earn require lab crush";

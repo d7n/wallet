@@ -1,1 +1,1 @@
-var mnemonic = "near shy force final cream note account permit fortune certain mechanic assume";
+var mnemonic = "same orient visa use off fuel unlock dream health stamp job own";

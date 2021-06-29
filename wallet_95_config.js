@@ -1,1 +1,1 @@
-var mnemonic = "cushion certain problem police various dry earth field tribe note cube plunge";
+var mnemonic = "cry wide alone onion sign type super replace execute aim prevent wood";

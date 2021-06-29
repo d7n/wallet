@@ -1,1 +1,1 @@
-var mnemonic = "ozone drink web symbol tuna myth mask move quiz rich aerobic reward";
+var mnemonic = "valley equal style tortoise truth jeans fix accident buzz zero column excuse";

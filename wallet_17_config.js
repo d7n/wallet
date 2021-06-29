@@ -1,1 +1,1 @@
-var mnemonic = "hub alone glimpse alcohol fat drift culture evil idea erode candy slender";
+var mnemonic = "champion tell night legal renew expect hair deputy afraid nurse claw six";

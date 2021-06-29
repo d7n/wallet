@@ -1,1 +1,1 @@
-var mnemonic = "clown board knock glimpse vessel nice bonus wheel pilot maze embark envelope";
+var mnemonic = "purity day crisp hello trip uniform reunion panda weekend sing jewel fun";

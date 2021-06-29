@@ -1,1 +1,1 @@
-var mnemonic = "trip first omit enemy harbor please season addict crew favorite catalog ginger";
+var mnemonic = "over blanket melody mechanic fan rail morning pact pelican ritual amused achieve";

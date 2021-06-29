@@ -1,1 +1,1 @@
-var mnemonic = "piece crucial kite pudding child lecture buyer turtle illness weapon bright elegant";
+var mnemonic = "early december deal normal actual flash announce bacon crucial potato key bulk";

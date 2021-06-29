@@ -1,1 +1,1 @@
-var mnemonic = "solution bright cactus deposit globe dawn north output sting million crash wire";
+var mnemonic = "choice degree trumpet mention correct silver delay club dutch huge extend fun";

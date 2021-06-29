@@ -1,1 +1,1 @@
-var mnemonic = "unique brush brisk fence submit veteran horror more cloth tip axis major";
+var mnemonic = "move wild whale amused hurt risk target monitor real siege between rich";

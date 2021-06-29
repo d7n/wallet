@@ -1,1 +1,1 @@
-var mnemonic = "hamster slow record pitch hedgehog gaze air chef chalk strategy pool area";
+var mnemonic = "net fee flash title maximum anger sugar stick citizen blouse vibrant bread";

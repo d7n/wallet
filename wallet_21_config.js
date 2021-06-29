@@ -1,1 +1,1 @@
-var mnemonic = "vicious other room anchor mammal minimum decline cricket drastic royal hip taste";
+var mnemonic = "ahead spirit behind eight injury erode day relief victory salt ill orchard";

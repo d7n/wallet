@@ -1,1 +1,1 @@
-var mnemonic = "deer isolate absorb december above security joke vague caution morning involve royal";
+var mnemonic = "color myth wagon story transfer radio earn work mention bottom example risk";

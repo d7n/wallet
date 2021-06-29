@@ -1,1 +1,1 @@
-var mnemonic = "news race harsh card squirrel orbit husband liberty cousin cage bird bird";
+var mnemonic = "will parrot endorse orbit people heavy head pistol paper effort nature depth";

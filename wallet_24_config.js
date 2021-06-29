@@ -1,1 +1,1 @@
-var mnemonic = "jungle awful any fetch blossom improve already blur version camp horse brand";
+var mnemonic = "shock salt discover twist ask hover current senior bar frog any oyster";

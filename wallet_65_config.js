@@ -1,1 +1,1 @@
-var mnemonic = "old pulse miracle silk visa satoshi wisdom height buffalo purchase often shallow";
+var mnemonic = "prefer connect engine impulse turn essence remove version relief confirm laundry diesel";

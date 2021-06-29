@@ -1,1 +1,1 @@
-var mnemonic = "sure foil clarify love novel use obvious believe orphan age fall hawk";
+var mnemonic = "kidney pioneer film casual typical amateur egg bacon panda trap feature wire";

@@ -1,1 +1,1 @@
-var mnemonic = "slow stove birth disease squeeze mansion jar excite chair question sleep text";
+var mnemonic = "asset hero input vicious choice raven state pizza pond ignore blossom soda";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon scheme vote key panda property basic magnet fancy lazy jeans teach";
+var mnemonic = "step split subway body city slogan shield woman point jewel giggle program";

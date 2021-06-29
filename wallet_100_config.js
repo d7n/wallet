@@ -1,1 +1,1 @@
-var mnemonic = "industry alter path sentence inherit flame radar endless sunny siege scale potato";
+var mnemonic = "alpha melody injury cradle seminar wisdom matter olympic brass since stomach main";

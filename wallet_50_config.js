@@ -1,1 +1,1 @@
-var mnemonic = "winter index giraffe nasty boss horse obvious captain immune enable interest bike";
+var mnemonic = "walnut fatal usage glimpse random swamp cliff coin degree shadow balcony teach";

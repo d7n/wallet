@@ -1,1 +1,1 @@
-var mnemonic = "little runway family educate romance cancel load soft plug ancient dentist clutch";
+var mnemonic = "honey resemble general wrist tired detail square disease cage help fantasy ocean";

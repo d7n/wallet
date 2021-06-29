@@ -1,1 +1,1 @@
-var mnemonic = "smoke pear hotel crouch curve fame follow subway enrich siege small aerobic";
+var mnemonic = "lumber harvest spread tumble poem local junk april track code firm either";

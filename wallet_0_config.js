@@ -1,1 +1,1 @@
-var mnemonic = "warm cute artefact among leave glory rookie raw mystery scene rocket tide";
+var mnemonic = "garage pass jar entry rose over friend popular emotion silly hamster chalk";

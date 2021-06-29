@@ -1,1 +1,1 @@
-var mnemonic = "scissors tired height veteran excite club follow stock home crane material pave";
+var mnemonic = "bundle modify place appear live frog civil label spoon tourist jealous accuse";

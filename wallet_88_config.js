@@ -1,1 +1,1 @@
-var mnemonic = "glad describe piece hello sweet doctor ranch debris bicycle giant reopen loud";
+var mnemonic = "clutch clay cram vintage fragile helmet motor zone clump tail badge fever";

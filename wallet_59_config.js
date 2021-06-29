@@ -1,1 +1,1 @@
-var mnemonic = "ring finger forum rally runway pepper patch convince clown grass setup auction";
+var mnemonic = "analyst riot never alley crop antique into truly unknown enact chimney purchase";

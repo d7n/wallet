@@ -1,1 +1,1 @@
-var mnemonic = "ghost attack uncover reopen spell cover off bring bachelor inherit dash rubber";
+var mnemonic = "assume pulse tuition unfair brother eye tent bone chuckle rather stove absorb";

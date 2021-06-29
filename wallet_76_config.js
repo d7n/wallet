@@ -1,1 +1,1 @@
-var mnemonic = "height walk enlist lock become unlock laptop quit coast almost tackle trophy";
+var mnemonic = "season ticket copper right high brief inch milk rain demise lion ship";

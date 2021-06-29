@@ -1,1 +1,1 @@
-var mnemonic = "movie fresh one mobile foam blur entry slide airport ten soft few";
+var mnemonic = "exhibit hover dust relax stamp someone ill observe school buyer sleep skull";
