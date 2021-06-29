@@ -1,1 +1,1 @@
-var mnemonic = "tree ring grape horse seed become clog wing album deposit erase sweet";
+var mnemonic = "stove ten gravity buffalo lemon uniform divorce olympic wild someone own side";

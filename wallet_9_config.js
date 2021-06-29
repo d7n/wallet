@@ -1,1 +1,1 @@
-var mnemonic = "uncover grid save humor train ethics snake they solid blur buzz connect";
+var mnemonic = "draft rib risk ugly evolve fee funny pull stairs snap evidence fine";

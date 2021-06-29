@@ -1,1 +1,1 @@
-var mnemonic = "echo property lunch child habit off unaware chuckle labor public retire lava";
+var mnemonic = "orange woman nasty electric hundred wisdom task gallery improve olive about switch";

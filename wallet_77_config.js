@@ -1,1 +1,1 @@
-var mnemonic = "turtle fever identify tenant concert shaft broken appear plug gas cherry diet";
+var mnemonic = "witness soap action oval regret boss language custom boost jump clip minute";

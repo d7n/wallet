@@ -1,1 +1,1 @@
-var mnemonic = "return captain tape catch spatial opinion exhibit eternal main extra attract humor";
+var mnemonic = "detail session van pill off night wool animal dignity cement trigger about";

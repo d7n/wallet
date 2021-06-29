@@ -1,1 +1,1 @@
-var mnemonic = "rotate soccer traffic margin suffer flat balcony glide lake opinion casino whale";
+var mnemonic = "cause mimic hurt day sausage thing wink theme found belt twenty time";

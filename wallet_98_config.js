@@ -1,1 +1,1 @@
-var mnemonic = "say depend vibrant floor dance shuffle remind swarm ozone kid state transfer";
+var mnemonic = "pluck scatter number roast cereal prize either thrive alone antenna vibrant illegal";

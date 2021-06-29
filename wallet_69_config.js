@@ -1,1 +1,1 @@
-var mnemonic = "hood appear lab lunar more sorry load breeze fresh improve odor gauge";
+var mnemonic = "powder rug mutual donkey million core appear twice defense skill museum poem";

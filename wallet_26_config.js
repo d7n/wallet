@@ -1,1 +1,1 @@
-var mnemonic = "grow dutch raw problem rubber enact pony mutual arctic sadness away drop";
+var mnemonic = "dice mango invest crane mother raven hunt spot across shrimp couch across";

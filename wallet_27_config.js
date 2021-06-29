@@ -1,1 +1,1 @@
-var mnemonic = "wild jacket burger salt decide destroy quiz jazz twenty expect detect depth";
+var mnemonic = "hedgehog athlete wool tenant admit shiver meat genuine balcony have test please";

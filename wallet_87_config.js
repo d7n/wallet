@@ -1,1 +1,1 @@
-var mnemonic = "auto much lens chronic legend witness risk you auction danger special practice";
+var mnemonic = "swap rug lecture secret stock federal sponsor still cash thank useful manage";

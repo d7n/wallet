@@ -1,1 +1,1 @@
-var mnemonic = "worry ice panda saddle clever category romance snack subject monitor require company";
+var mnemonic = "chicken deputy miss void enable butter maple also balcony kid elegant hollow";

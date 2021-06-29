@@ -1,1 +1,1 @@
-var mnemonic = "gadget drop attend slogan chat meat autumn delay lawn carry almost deal";
+var mnemonic = "essence punch gold dance notable pair tube learn ivory answer group beach";

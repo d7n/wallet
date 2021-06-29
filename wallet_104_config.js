@@ -1,1 +1,1 @@
-var mnemonic = "ocean wise other swim behave gun couple village pepper mom hard receive";
+var mnemonic = "bomb leave year agent cost ivory artist escape wife afford empower trouble";

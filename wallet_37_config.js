@@ -1,1 +1,1 @@
-var mnemonic = "fish people pledge snack solar false purity actress practice punch pave current";
+var mnemonic = "oyster ocean enough laugh put exchange blame flag typical expect thank flavor";

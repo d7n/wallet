@@ -1,1 +1,1 @@
-var mnemonic = "confirm champion clutch margin setup pair moon borrow clock purpose bronze adult";
+var mnemonic = "ten kit neglect tonight find mimic carpet essay make spring obey belt";

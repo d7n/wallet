@@ -1,1 +1,1 @@
-var mnemonic = "cable light bleak angry approve inquiry barely tennis sauce march pottery already";
+var mnemonic = "divorce future crisp range solution boat steel unlock magic base donor spoil";

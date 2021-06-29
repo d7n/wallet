@@ -1,1 +1,1 @@
-var mnemonic = "angry fresh curtain latin real spoon deposit veteran chef mixed put demand";
+var mnemonic = "canvas promote bronze athlete romance six original nurse better age forget talk";

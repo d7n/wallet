@@ -1,1 +1,1 @@
-var mnemonic = "sample panda wink shoot sail wash fringe happy caution betray save submit";
+var mnemonic = "wine vapor gift mystery puppy couch enlist task flip tip comic bean";

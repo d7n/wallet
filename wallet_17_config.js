@@ -1,1 +1,1 @@
-var mnemonic = "network discover latin health cabin shuffle tooth sudden start trim civil certain";
+var mnemonic = "blind rival shield shove nation fat scene arctic visual easy small bid";

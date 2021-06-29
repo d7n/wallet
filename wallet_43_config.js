@@ -1,1 +1,1 @@
-var mnemonic = "tray chair earth then kid cool strong school veteran fish blouse wave";
+var mnemonic = "donate sing refuse ramp trigger online intact unveil crowd quote fitness believe";

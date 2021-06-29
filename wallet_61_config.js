@@ -1,1 +1,1 @@
-var mnemonic = "okay glimpse sentence relax grow liberty winner report galaxy build clean involve";
+var mnemonic = "lemon drift west wing office want walnut critic people old sunny direct";

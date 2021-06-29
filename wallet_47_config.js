@@ -1,1 +1,1 @@
-var mnemonic = "mail blood together burden physical inform squirrel tone entire mutual aerobic jar";
+var mnemonic = "devote spawn curve satisfy blush bind cloud benefit leisure eye fitness whip";

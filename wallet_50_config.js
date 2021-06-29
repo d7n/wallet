@@ -1,1 +1,1 @@
-var mnemonic = "kingdom essence unaware buyer time polar tornado another deny weird trash coil";
+var mnemonic = "exile borrow marine away kiwi tortoise escape captain field jungle jealous woman";

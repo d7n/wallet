@@ -1,1 +1,1 @@
-var mnemonic = "stable quarter scissors exercise life bird swear ecology claw describe theme obey";
+var mnemonic = "owner index soup fiction confirm awkward scheme reflect rice puzzle coconut club";

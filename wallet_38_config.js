@@ -1,1 +1,1 @@
-var mnemonic = "order pretty consider want siren record timber casual spatial scene hurt defy";
+var mnemonic = "wasp rapid juice bronze bean ill wool gauge eager finger upon injury";

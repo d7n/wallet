@@ -1,1 +1,1 @@
-var mnemonic = "egg torch pudding icon barely comic safe vicious until fire roast dumb";
+var mnemonic = "exclude foam biology interest tourist mouse shock merry often group crater adapt";

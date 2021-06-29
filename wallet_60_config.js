@@ -1,1 +1,1 @@
-var mnemonic = "remain estate combine range world valid escape isolate omit inform identify hour";
+var mnemonic = "exact scare able solution force seek ketchup plunge forward north wolf play";

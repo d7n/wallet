@@ -1,1 +1,1 @@
-var mnemonic = "liberty case wool oxygen negative gesture valley talent polar dragon intact affair";
+var mnemonic = "scale actual pelican elbow sell weekend receive inherit measure calm tennis burden";

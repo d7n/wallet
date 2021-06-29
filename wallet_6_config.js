@@ -1,1 +1,1 @@
-var mnemonic = "despair bargain spoil antique aisle century skull tonight collect message unusual elephant";
+var mnemonic = "object just inquiry legal repair harbor shiver resource kitten depth leader sun";

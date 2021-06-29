@@ -1,1 +1,1 @@
-var mnemonic = "prepare clarify stage network grocery magic sphere stable butter hope motion target";
+var mnemonic = "crowd bleak tissue knife once leave prevent myth stem actor warfare demise";

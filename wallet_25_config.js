@@ -1,1 +1,1 @@
-var mnemonic = "bounce battle climb exact cake nature draft ice scale lunar nurse gorilla";
+var mnemonic = "snake creek object today casino lobster between dress mosquito room mad swallow";

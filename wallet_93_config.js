@@ -1,1 +1,1 @@
-var mnemonic = "art other easily rich tomorrow jewel pigeon manual pistol bird limit item";
+var mnemonic = "submit valid replace patrol buddy fabric oblige blind invite disorder strong provide";

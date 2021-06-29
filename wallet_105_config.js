@@ -1,1 +1,1 @@
-var mnemonic = "warm awake between tilt delay token salon torch opinion review wild evidence";
+var mnemonic = "crucial mention cushion install address start floor busy merge man tumble exile";

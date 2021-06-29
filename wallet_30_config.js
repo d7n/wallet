@@ -1,1 +1,1 @@
-var mnemonic = "gap tool deposit control rural empty primary banner shock rebel second fitness";
+var mnemonic = "lounge solid cannon tonight cabin hood hour cabin roof disease palace pottery";

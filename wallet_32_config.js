@@ -1,1 +1,1 @@
-var mnemonic = "helmet mandate sign morning owner have width guess regular borrow reason throw";
+var mnemonic = "alley cricket wrestle flush era match upper outdoor choose seed enjoy reject";

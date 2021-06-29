@@ -1,1 +1,1 @@
-var mnemonic = "coach private swear cushion move uphold merge degree reward object roof raise";
+var mnemonic = "click sign wine involve scare region tissue add peasant aisle also crouch";

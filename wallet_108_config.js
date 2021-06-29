@@ -1,1 +1,1 @@
-var mnemonic = "special canoe silent laundry dutch engage worry business silly arrange sadness gossip";
+var mnemonic = "lottery simple exit frog local embody crisp flip uncle climb age feel";

@@ -1,1 +1,1 @@
-var mnemonic = "coin muffin donate camp usage vapor practice burger size used embody hybrid";
+var mnemonic = "hope witness author bridge neck benefit report goddess wage visit giraffe aerobic";

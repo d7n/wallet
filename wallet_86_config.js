@@ -1,1 +1,1 @@
-var mnemonic = "turkey swarm ten arch proud front sure couch seat twelve fancy all";
+var mnemonic = "dentist divide rain horror flush gorilla early march help mass fun knock";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge critic pool sense vast fox rack unhappy hen puppy drop room";
+var mnemonic = "lunch deputy charge punch crime reward pole globe finger depend window pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "used demise bacon pulp hero fire clerk salt arm drum afford increase";
+var mnemonic = "advance extra raise vendor sing morning base shove corn thought pull hospital";

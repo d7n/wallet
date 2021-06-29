@@ -1,1 +1,1 @@
-var mnemonic = "spray wealth grain december submit skull bacon cheap narrow nature rug recipe";
+var mnemonic = "certain escape cluster ahead gasp balance tunnel hire matter vast vacant palace";

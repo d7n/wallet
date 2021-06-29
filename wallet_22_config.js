@@ -1,1 +1,1 @@
-var mnemonic = "charge alley stand father wealth fury range layer little radio stereo mystery";
+var mnemonic = "ostrich hover camera puppy orphan swear bleak modify album swim opinion man";

@@ -1,1 +1,1 @@
-var mnemonic = "husband drill gas dial ripple game way castle soft volcano comic modify";
+var mnemonic = "waste fresh scrub cliff glow rapid village dice carry film either slow";

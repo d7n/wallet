@@ -1,1 +1,1 @@
-var mnemonic = "gift rose odor guide real sibling pyramid rebuild powder subject blue miss";
+var mnemonic = "punch jeans lesson above chalk clip violin company tide fever basket visa";

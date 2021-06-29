@@ -1,1 +1,1 @@
-var mnemonic = "opera soap chef fish alley wool grant medal mass host tired valve";
+var mnemonic = "humor ill slim spray someone dice fluid junior wash analyst palace divide";

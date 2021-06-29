@@ -1,1 +1,1 @@
-var mnemonic = "submit warrior coach flight cluster kit broken cash bleak disease private soon";
+var mnemonic = "believe idle clip crime tomato tone salt number film property core glory";

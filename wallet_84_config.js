@@ -1,1 +1,1 @@
-var mnemonic = "hip good flag talent law mushroom sword perfect pink clutch learn lava";
+var mnemonic = "detect trumpet amused north dune almost viable under coffee harvest panda note";

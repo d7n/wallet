@@ -1,1 +1,1 @@
-var mnemonic = "burger sell deny habit disease upper neglect retreat grass robot margin art";
+var mnemonic = "cabbage liquid debate skill three coral wing layer loud clarify quantum castle";

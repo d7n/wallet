@@ -1,1 +1,1 @@
-var mnemonic = "mutual demise travel result oak cost enhance brick identify dinner whale cushion";
+var mnemonic = "verify nice sponsor reunion rhythm rubber enrich spray arch pigeon smooth coconut";

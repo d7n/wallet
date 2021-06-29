@@ -1,1 +1,1 @@
-var mnemonic = "glimpse balcony honey mechanic ordinary sunny canvas globe manual risk panic hair";
+var mnemonic = "exist open spawn prize leopard because front awake that gentle tower suggest";

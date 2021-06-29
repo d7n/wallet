@@ -1,1 +1,1 @@
-var mnemonic = "meadow width lake rubber cruise dragon toward title clean unusual tower sense";
+var mnemonic = "swear leave winter yellow shy husband uphold loyal play decorate catch income";

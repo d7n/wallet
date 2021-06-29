@@ -1,1 +1,1 @@
-var mnemonic = "fringe myself skill violin paddle vacuum frog beef voice task genius among";
+var mnemonic = "divorce calm problem path item bracket diet husband rapid exhaust radar sight";

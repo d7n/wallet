@@ -1,1 +1,1 @@
-var mnemonic = "kind airport industry dumb fruit stage dinosaur cushion foster split kiwi bacon";
+var mnemonic = "smile river minor protect staff demise imitate vivid sentence example such worry";

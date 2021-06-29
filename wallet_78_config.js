@@ -1,1 +1,1 @@
-var mnemonic = "reject social royal anchor edge spawn oven practice wrong neutral manage impulse";
+var mnemonic = "suit lunar chicken damage embark program fun comfort turn rug spike shiver";

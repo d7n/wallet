@@ -1,1 +1,1 @@
-var mnemonic = "hungry ride middle hamster lamp include avoid egg popular south proof nephew";
+var mnemonic = "main artwork favorite tomato tray debate arena hunt scrub task destroy foil";

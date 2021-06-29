@@ -1,1 +1,1 @@
-var mnemonic = "half chat foam usual frown card flush pulp nut jungle develop width";
+var mnemonic = "over wire soldier occur behind nerve wisdom pepper civil barely blind glory";

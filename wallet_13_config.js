@@ -1,1 +1,1 @@
-var mnemonic = "erupt cave general wet ice brick harbor sponsor ordinary jazz budget marble";
+var mnemonic = "glad bridge neck memory nasty two rack shy ancient advance rebuild club";

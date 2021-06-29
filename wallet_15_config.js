@@ -1,1 +1,1 @@
-var mnemonic = "bullet credit vivid market wagon balance front monkey whale property swamp top";
+var mnemonic = "bundle vague pupil staff place reunion panel cable wood faculty used stadium";

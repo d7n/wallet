@@ -1,1 +1,1 @@
-var mnemonic = "soccer unit link lizard behind token confirm protect quick seed abstract yard";
+var mnemonic = "flight gate wreck omit plate invite legal reject crash capital topic slight";

@@ -1,1 +1,1 @@
-var mnemonic = "lab rotate evil flower clinic tomorrow raw real pilot say rate ketchup";
+var mnemonic = "human hill dignity humble voyage outside wall grocery insane buzz wink practice";

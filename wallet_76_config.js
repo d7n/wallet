@@ -1,1 +1,1 @@
-var mnemonic = "venue across office flavor coast donkey lucky enemy album assist clarify harbor";
+var mnemonic = "game arena learn bomb crane kidney beach visual nasty infant solar curve";

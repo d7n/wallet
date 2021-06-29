@@ -1,1 +1,1 @@
-var mnemonic = "capable glass guard planet fantasy coast series script prosper estate celery clinic";
+var mnemonic = "maze strong hedgehog catch soldier coral chest island cause fault loan put";

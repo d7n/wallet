@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon horror color lottery old wonder essay wrestle pistol problem rose swim";
+var mnemonic = "struggle brother duty across citizen future hard shy palace palace stock credit";

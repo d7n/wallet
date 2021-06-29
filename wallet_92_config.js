@@ -1,1 +1,1 @@
-var mnemonic = "flavor sauce jealous dad dinner bounce brass follow inform diagram cave column";
+var mnemonic = "weapon venue sponsor spin rapid forest enable ozone garden morning afford misery";

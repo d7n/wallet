@@ -1,1 +1,1 @@
-var mnemonic = "bottom glue assume coin name receive melody meadow point solar fine much";
+var mnemonic = "canal chef soda veteran few chat radio ring easy vivid fresh afford";

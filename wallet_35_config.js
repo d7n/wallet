@@ -1,1 +1,1 @@
-var mnemonic = "sniff luggage flat tribe puzzle hand thrive you joy blush fresh mixed";
+var mnemonic = "sibling obvious face invest lyrics happy float print wink waste again elegant";

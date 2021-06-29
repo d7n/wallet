@@ -1,1 +1,1 @@
-var mnemonic = "defy garage bind hurry romance toy vehicle puppy lawn term rebel mansion";
+var mnemonic = "attack badge treat high inform diesel nature bring strong educate muscle come";

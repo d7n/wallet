@@ -1,1 +1,1 @@
-var mnemonic = "nest pond depart achieve solve gas arrow symbol rookie pilot ivory snake";
+var mnemonic = "curve cupboard mind stay rebuild excite visit upon radio slogan net element";

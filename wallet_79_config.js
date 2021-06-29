@@ -1,1 +1,1 @@
-var mnemonic = "shell measure risk print alley purse clap lyrics mobile recycle believe small";
+var mnemonic = "cross trim carry debris enroll choice immune narrow envelope food benefit hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "clay smile riot funny case capable open infant kiss account stage pull";
+var mnemonic = "smoke gold smile menu say bid insect ill plastic thing cattle orbit";

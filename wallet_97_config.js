@@ -1,1 +1,1 @@
-var mnemonic = "antenna awake trust art burger skin brown differ congress warfare primary apart";
+var mnemonic = "digital help globe twelve twelve wave quote derive moment walk collect pelican";

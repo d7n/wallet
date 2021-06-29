@@ -1,1 +1,1 @@
-var mnemonic = "wet dismiss wise bulk explain crime club oven car minor select subway";
+var mnemonic = "stairs host expect illegal fury ring smart sun cave list maximum panel";

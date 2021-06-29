@@ -1,1 +1,1 @@
-var mnemonic = "nest tenant car dinosaur blind bean region pull find umbrella battle flight";
+var mnemonic = "army claim puppy into hurt humble present coconut project parrot drama buddy";

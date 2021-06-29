@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow endless youth clerk rail expose direct later exist opera unhappy list";
+var mnemonic = "scout finger knock wrist exit flee style talent stereo timber erase pink";

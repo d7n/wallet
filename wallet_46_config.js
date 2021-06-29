@@ -1,1 +1,1 @@
-var mnemonic = "scheme soon february scrap vendor turtle leg weapon copy obey accuse chapter";
+var mnemonic = "pipe pipe drum armed gauge mad bike mixed dizzy cash ugly syrup";

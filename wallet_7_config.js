@@ -1,1 +1,1 @@
-var mnemonic = "donor galaxy foil shoot siren clever chronic woman vacuum bacon wonder grocery";
+var mnemonic = "latin medal party future model remind episode bicycle valve tray brief shiver";

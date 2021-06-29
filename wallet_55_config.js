@@ -1,1 +1,1 @@
-var mnemonic = "onion soldier type false link lamp dawn easy machine pumpkin horror oxygen";
+var mnemonic = "allow soon razor because inside sausage exit pull sleep autumn hint erupt";

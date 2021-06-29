@@ -1,1 +1,1 @@
-var mnemonic = "choose leaf fruit put globe vessel athlete skill soccer labor quit rich";
+var mnemonic = "rebel guide shine elite enforce foot wish unusual ignore mad install doll";

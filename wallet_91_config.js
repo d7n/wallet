@@ -1,1 +1,1 @@
-var mnemonic = "soccer worth segment polar same school increase ethics sister harvest more urban";
+var mnemonic = "focus action leaf sorry almost bean birth auction cotton subject submit depth";

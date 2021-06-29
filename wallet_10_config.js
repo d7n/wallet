@@ -1,1 +1,1 @@
-var mnemonic = "tribe disagree use bamboo busy chimney hat tuition lend nuclear tenant foster";
+var mnemonic = "pluck number knock lesson delay wait crouch side post bless attitude panther";

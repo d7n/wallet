@@ -1,1 +1,1 @@
-var mnemonic = "shallow tomorrow submit entire emotion hand earn cannon powder weekend happy common";
+var mnemonic = "era surface flee inner torch blouse deer rug caution midnight auction asset";

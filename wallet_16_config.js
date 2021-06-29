@@ -1,1 +1,1 @@
-var mnemonic = "copper bind bridge large donkey leaf object exhibit kangaroo toss wine protect";
+var mnemonic = "fortune isolate opera fortune trend success can gesture dose census domain lemon";

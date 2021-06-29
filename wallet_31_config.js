@@ -1,1 +1,1 @@
-var mnemonic = "cruise glimpse trip dinosaur million ask alcohol timber uphold cloud pledge cable";
+var mnemonic = "draw canal upon misery green blanket left develop miss belt gap harbor";

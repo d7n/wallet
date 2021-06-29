@@ -1,1 +1,1 @@
-var mnemonic = "hen pool behind credit sentence run caution room resource shuffle gossip budget";
+var mnemonic = "oyster slim bone inner merry cotton walk early sugar return boat fury";

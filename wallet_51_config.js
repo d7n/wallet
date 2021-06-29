@@ -1,1 +1,1 @@
-var mnemonic = "runway orange humor move sand mushroom river census gadget usual dutch spirit";
+var mnemonic = "trim power waste struggle essay elephant ritual guitar pear rapid ivory myself";

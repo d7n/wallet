@@ -1,1 +1,1 @@
-var mnemonic = "soldier flower march grunt unlock grocery private chief doctor build report energy";
+var mnemonic = "dust priority piece lottery monster pistol myself flush mixture sting caution tube";

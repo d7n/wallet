@@ -1,1 +1,1 @@
-var mnemonic = "cigar length almost screen peasant suffer cliff left jump purchase world man";
+var mnemonic = "bus way volcano defense race kick seminar three fire isolate uncle frame";
