@@ -1,1 +1,1 @@
-var mnemonic = "powder rug mutual donkey million core appear twice defense skill museum poem";
+var mnemonic = "lift slender prepare field marble kangaroo pattern close curtain verb flight wait";

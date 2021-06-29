@@ -1,1 +1,1 @@
-var mnemonic = "crop crime mystery cram moon misery razor faint faculty mango robot goat";
+var mnemonic = "dust wrestle valve client repair settle actress boat cloth unknown episode phone";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling obvious face invest lyrics happy float print wink waste again elegant";
+var mnemonic = "keep nothing nasty tissue regret buddy party museum before garden soccer differ";

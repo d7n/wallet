@@ -1,1 +1,1 @@
-var mnemonic = "exist open spawn prize leopard because front awake that gentle tower suggest";
+var mnemonic = "security genius host order cream scheme sting mushroom ocean skull museum history";

@@ -1,1 +1,1 @@
-var mnemonic = "public spider busy unusual oil stomach glue mandate shrimp vanish debate elegant";
+var mnemonic = "close capital boring degree rose hold execute soon miss local half gym";

@@ -1,1 +1,1 @@
-var mnemonic = "smile river minor protect staff demise imitate vivid sentence example such worry";
+var mnemonic = "winter helmet rug expire fashion purpose artwork brother clump dynamic skirt brain";

@@ -1,1 +1,1 @@
-var mnemonic = "detail session van pill off night wool animal dignity cement trigger about";
+var mnemonic = "giggle mansion example rate give sad chair club giant exchange rifle gaze";

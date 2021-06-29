@@ -1,1 +1,1 @@
-var mnemonic = "bus way volcano defense race kick seminar three fire isolate uncle frame";
+var mnemonic = "grace mango globe cable below skill balcony blind firm cherry crew mushroom";

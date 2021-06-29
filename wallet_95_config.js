@@ -1,1 +1,1 @@
-var mnemonic = "usage toe guitar expose junior choice lift seed brother rack intact twin";
+var mnemonic = "relax ozone truly diesel relax vivid session supply banana ranch promote seek";

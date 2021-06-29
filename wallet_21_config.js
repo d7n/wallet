@@ -1,1 +1,1 @@
-var mnemonic = "wine vapor gift mystery puppy couch enlist task flip tip comic bean";
+var mnemonic = "boost sausage picture nominee thought volcano lecture reason also wide fan square";

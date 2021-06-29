@@ -1,1 +1,1 @@
-var mnemonic = "weapon venue sponsor spin rapid forest enable ozone garden morning afford misery";
+var mnemonic = "food lens equal when river dog answer enrich silly cube bargain shift";

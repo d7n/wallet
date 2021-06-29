@@ -1,1 +1,1 @@
-var mnemonic = "detect trumpet amused north dune almost viable under coffee harvest panda note";
+var mnemonic = "begin hidden sight mean include miracle exercise position flee history nominee random";

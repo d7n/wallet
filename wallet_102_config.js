@@ -1,1 +1,1 @@
-var mnemonic = "lunch deputy charge punch crime reward pole globe finger depend window pyramid";
+var mnemonic = "short battle tourist maid assist tackle element pull artwork blanket camera simple";

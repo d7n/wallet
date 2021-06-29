@@ -1,1 +1,1 @@
-var mnemonic = "bomb leave year agent cost ivory artist escape wife afford empower trouble";
+var mnemonic = "stove injury wrap audit alcohol grit spawn budget survey hurt train video";

@@ -1,1 +1,1 @@
-var mnemonic = "game arena learn bomb crane kidney beach visual nasty infant solar curve";
+var mnemonic = "west style oven assist dove puzzle sunny elbow real exile dragon differ";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial mention cushion install address start floor busy merge man tumble exile";
+var mnemonic = "similar load place ramp iron bachelor also mouse talk novel devote box";

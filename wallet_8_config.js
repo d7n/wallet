@@ -1,1 +1,1 @@
-var mnemonic = "canvas promote bronze athlete romance six original nurse better age forget talk";
+var mnemonic = "laugh flame dumb scare kangaroo love acoustic accuse shock post garden change";

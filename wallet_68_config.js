@@ -1,1 +1,1 @@
-var mnemonic = "waste fresh scrub cliff glow rapid village dice carry film either slow";
+var mnemonic = "athlete bargain rent east social type clean system blast machine lobster detail";

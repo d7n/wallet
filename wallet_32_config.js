@@ -1,1 +1,1 @@
-var mnemonic = "alley cricket wrestle flush era match upper outdoor choose seed enjoy reject";
+var mnemonic = "potato leader spoil woman maze keep frog height neither sample color bind";

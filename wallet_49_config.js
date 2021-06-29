@@ -1,1 +1,1 @@
-var mnemonic = "dust priority piece lottery monster pistol myself flush mixture sting caution tube";
+var mnemonic = "hundred method gas above thought donkey prevent banner stove resource monitor visual";

@@ -1,1 +1,1 @@
-var mnemonic = "era surface flee inner torch blouse deer rug caution midnight auction asset";
+var mnemonic = "wheel march sick eight walnut sight keep cloud hammer churn alarm combine";

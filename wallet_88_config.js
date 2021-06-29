@@ -1,1 +1,1 @@
-var mnemonic = "eight track seed symbol repeat floor whale stereo old wet rocket lava";
+var mnemonic = "claw park danger auto only wheel shrimp garden cube drive gown second";

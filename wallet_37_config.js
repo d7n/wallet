@@ -1,1 +1,1 @@
-var mnemonic = "oyster ocean enough laugh put exchange blame flag typical expect thank flavor";
+var mnemonic = "change quiz short bomb punch poem rough artefact replace trap swamp someone";

@@ -1,1 +1,1 @@
-var mnemonic = "submit valid replace patrol buddy fabric oblige blind invite disorder strong provide";
+var mnemonic = "negative vague civil mushroom lawsuit enact recall dry caution pony angle foot";

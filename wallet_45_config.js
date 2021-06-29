@@ -1,1 +1,1 @@
-var mnemonic = "believe idle clip crime tomato tone salt number film property core glory";
+var mnemonic = "mosquito reason brisk usage shed obvious heart pair vivid perfect noble enable";

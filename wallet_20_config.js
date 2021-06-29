@@ -1,1 +1,1 @@
-var mnemonic = "ten kit neglect tonight find mimic carpet essay make spring obey belt";
+var mnemonic = "rate throw laundry remember actress pond energy canvas outer label elder world";

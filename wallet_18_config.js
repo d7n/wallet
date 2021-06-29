@@ -1,1 +1,1 @@
-var mnemonic = "warm energy fuel play ability spread impulse cram exhaust regret steel visit";
+var mnemonic = "crumble alcohol skill armor glow ranch muscle sunset toilet ripple age cargo";

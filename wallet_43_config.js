@@ -1,1 +1,1 @@
-var mnemonic = "donate sing refuse ramp trigger online intact unveil crowd quote fitness believe";
+var mnemonic = "story lecture zoo penalty year swift chef cram lawsuit sea person lamp";

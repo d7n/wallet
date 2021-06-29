@@ -1,1 +1,1 @@
-var mnemonic = "exclude foam biology interest tourist mouse shock merry often group crater adapt";
+var mnemonic = "true enough ginger marriage same chief item quantum nose present worth plunge";

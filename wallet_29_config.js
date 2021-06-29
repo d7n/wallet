@@ -1,1 +1,1 @@
-var mnemonic = "smoke gold smile menu say bid insect ill plastic thing cattle orbit";
+var mnemonic = "monitor weather always truth strategy busy best furnace dizzy mosquito already hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "stove ten gravity buffalo lemon uniform divorce olympic wild someone own side";
+var mnemonic = "hedgehog grief icon attend okay brush hundred shop twin kite rival curious";

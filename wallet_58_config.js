@@ -1,1 +1,1 @@
-var mnemonic = "whip student diary virtual explain music shell inflict fog bargain people fuel";
+var mnemonic = "rescue notable sister celery frost stereo aim such miss make before spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "hope witness author bridge neck benefit report goddess wage visit giraffe aerobic";
+var mnemonic = "close island bean absorb project interest math rival guide sick member biology";

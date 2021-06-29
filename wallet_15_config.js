@@ -1,1 +1,1 @@
-var mnemonic = "bundle vague pupil staff place reunion panel cable wood faculty used stadium";
+var mnemonic = "life leaf clutch drastic year eight column avoid system angry fitness above";

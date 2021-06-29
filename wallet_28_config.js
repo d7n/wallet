@@ -1,1 +1,1 @@
-var mnemonic = "scale actual pelican elbow sell weekend receive inherit measure calm tennis burden";
+var mnemonic = "useful arrest post coyote sudden talk spot ordinary security grab cry copy";

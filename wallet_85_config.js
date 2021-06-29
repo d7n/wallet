@@ -1,1 +1,1 @@
-var mnemonic = "oyster slim bone inner merry cotton walk early sugar return boat fury";
+var mnemonic = "merit notable position enforce abuse hip lunch sand crop direct oval rather";

@@ -1,1 +1,1 @@
-var mnemonic = "army claim puppy into hurt humble present coconut project parrot drama buddy";
+var mnemonic = "jar chuckle mechanic wonder surprise square gate garbage cannon pigeon carpet bean";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon drift west wing office want walnut critic people old sunny direct";
+var mnemonic = "fog you news element urban husband depart hobby humor spin slide emotion";

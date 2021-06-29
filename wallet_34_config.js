@@ -1,1 +1,1 @@
-var mnemonic = "advance extra raise vendor sing morning base shove corn thought pull hospital";
+var mnemonic = "mesh coin neither anchor awkward begin seed swamp motion rookie clutch prefer";

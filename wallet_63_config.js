@@ -1,1 +1,1 @@
-var mnemonic = "chicken deputy miss void enable butter maple also balcony kid elegant hollow";
+var mnemonic = "brush tube bike crisp vendor violin fee shiver thank illegal wonder camera";

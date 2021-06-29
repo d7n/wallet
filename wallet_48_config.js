@@ -1,1 +1,1 @@
-var mnemonic = "humor ill slim spray someone dice fluid junior wash analyst palace divide";
+var mnemonic = "ancient during ability pause night dentist dizzy arena panel vote between wood";

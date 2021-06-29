@@ -1,1 +1,1 @@
-var mnemonic = "snake creek object today casino lobster between dress mosquito room mad swallow";
+var mnemonic = "whisper clarify autumn worry nut cart pilot nothing mimic sport repair empower";

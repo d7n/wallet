@@ -1,1 +1,1 @@
-var mnemonic = "latin medal party future model remind episode bicycle valve tray brief shiver";
+var mnemonic = "opera swamp audit chef crane glare camp priority unveil indicate kid nephew";

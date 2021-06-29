@@ -1,1 +1,1 @@
-var mnemonic = "attack badge treat high inform diesel nature bring strong educate muscle come";
+var mnemonic = "juice matter arm unknown heart city chuckle vague warfare assault march decrease";

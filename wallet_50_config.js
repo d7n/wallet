@@ -1,1 +1,1 @@
-var mnemonic = "exile borrow marine away kiwi tortoise escape captain field jungle jealous woman";
+var mnemonic = "bulk sadness rough maximum frown pair uphold dream topic wood alcohol audit";

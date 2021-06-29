@@ -1,1 +1,1 @@
-var mnemonic = "sound vessel sound airport scissors bike exhaust force mechanic rent scene stand";
+var mnemonic = "sail speak drink remind cycle high sketch tool recycle dose unlock inflict";

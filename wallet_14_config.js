@@ -1,1 +1,1 @@
-var mnemonic = "announce push damp pipe they hurt forward medal inspire crew you call";
+var mnemonic = "taxi attend beach glory until pitch expose foster sell emotion asthma obey";

@@ -1,1 +1,1 @@
-var mnemonic = "west hundred isolate immense vintage artefact umbrella odor sustain daring bullet demise";
+var mnemonic = "quiz benefit air blur absorb common excite shrug burger route reward shine";

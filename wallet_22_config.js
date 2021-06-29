@@ -1,1 +1,1 @@
-var mnemonic = "ostrich hover camera puppy orphan swear bleak modify album swim opinion man";
+var mnemonic = "affair spend inhale grab dynamic heart outdoor kingdom solid shaft bag mouse";

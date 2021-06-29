@@ -1,1 +1,1 @@
-var mnemonic = "wide arch cry improve bubble hour ostrich bamboo screen animal expose slide";
+var mnemonic = "tell lava stone upper honey drop tennis aerobic sick fringe legend endorse";

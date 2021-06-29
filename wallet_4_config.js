@@ -1,1 +1,1 @@
-var mnemonic = "swear leave winter yellow shy husband uphold loyal play decorate catch income";
+var mnemonic = "cruise blue recycle own antenna amateur place venue journey atom clog nephew";

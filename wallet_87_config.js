@@ -1,1 +1,1 @@
-var mnemonic = "swap rug lecture secret stock federal sponsor still cash thank useful manage";
+var mnemonic = "topic bubble host come park cake jelly level one eagle cloth skull";

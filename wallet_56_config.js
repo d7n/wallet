@@ -1,1 +1,1 @@
-var mnemonic = "orange woman nasty electric hundred wisdom task gallery improve olive about switch";
+var mnemonic = "collect quality flame hockey scissors guide tilt away nurse oil mosquito shine";

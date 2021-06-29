@@ -1,1 +1,1 @@
-var mnemonic = "canal chef soda veteran few chat radio ring easy vivid fresh afford";
+var mnemonic = "today chalk candy pluck toy wrap initial toast income garden link beach";

@@ -1,1 +1,1 @@
-var mnemonic = "verify nice sponsor reunion rhythm rubber enrich spray arch pigeon smooth coconut";
+var mnemonic = "glory grow gain release quick water swear antique payment equip enhance worth";

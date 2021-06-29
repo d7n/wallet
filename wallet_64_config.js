@@ -1,1 +1,1 @@
-var mnemonic = "flight gate wreck omit plate invite legal reject crash capital topic slight";
+var mnemonic = "art circle soon clever alert cannon over element parade name series vote";

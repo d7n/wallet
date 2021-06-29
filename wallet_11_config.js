@@ -1,1 +1,1 @@
-var mnemonic = "punch jeans lesson above chalk clip violin company tide fever basket visa";
+var mnemonic = "harbor tuna tumble glare beauty cup evidence skill fiscal all recall ask";

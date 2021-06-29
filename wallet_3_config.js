@@ -1,1 +1,1 @@
-var mnemonic = "cabbage liquid debate skill three coral wing layer loud clarify quantum castle";
+var mnemonic = "afraid you cool swift census bitter chapter maple despair vessel tiger weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "dice mango invest crane mother raven hunt spot across shrimp couch across";
+var mnemonic = "also glare ill gold gauge kid month kingdom tilt menu stay habit";

@@ -1,1 +1,1 @@
-var mnemonic = "brief argue output prefer spin left switch wonder tiny mom kick century";
+var mnemonic = "original govern access silly broom corn car wage pipe lucky thing else";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs host expect illegal fury ring smart sun cave list maximum panel";
+var mnemonic = "apple road section torch transfer glide verb journey physical kiss meadow hobby";

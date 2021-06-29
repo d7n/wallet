@@ -1,1 +1,1 @@
-var mnemonic = "witness soap action oval regret boss language custom boost jump clip minute";
+var mnemonic = "plunge alter option warm armor expect attitude strike until post near cram";

@@ -1,1 +1,1 @@
-var mnemonic = "depth century gun camera enjoy surround egg have sunset sauce chat inspire";
+var mnemonic = "velvet brain party talent motion victory inherit size tip random auction confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "cause mimic hurt day sausage thing wink theme found belt twenty time";
+var mnemonic = "situate brain book hospital steel badge tragic pepper divorce weekend play shuffle";

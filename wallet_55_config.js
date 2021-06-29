@@ -1,1 +1,1 @@
-var mnemonic = "allow soon razor because inside sausage exit pull sleep autumn hint erupt";
+var mnemonic = "submit wagon orbit action liar mass cable guard hospital toe oblige doctor";

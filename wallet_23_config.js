@@ -1,1 +1,1 @@
-var mnemonic = "virtual desk kit teach liar view exit paddle sight result naive slogan";
+var mnemonic = "afford crystal cloud spoon fiber vocal salon volcano oval blue save credit";

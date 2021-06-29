@@ -1,1 +1,1 @@
-var mnemonic = "pluck scatter number roast cereal prize either thrive alone antenna vibrant illegal";
+var mnemonic = "slush cover sponsor upon viable frost romance aerobic leg pencil improve clean";

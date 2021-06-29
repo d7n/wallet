@@ -1,1 +1,1 @@
-var mnemonic = "struggle brother duty across citizen future hard shy palace palace stock credit";
+var mnemonic = "rubber exclude coil skirt glove bonus volume brush giggle drill must memory";

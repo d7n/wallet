@@ -1,1 +1,1 @@
-var mnemonic = "curve cupboard mind stay rebuild excite visit upon radio slogan net element";
+var mnemonic = "weird chair athlete exhibit coin unfold gain diesel skate steel corn crystal";

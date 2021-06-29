@@ -1,1 +1,1 @@
-var mnemonic = "owner index soup fiction confirm awkward scheme reflect rice puzzle coconut club";
+var mnemonic = "mushroom equip aunt radio argue example news flower chunk meat legend wet";

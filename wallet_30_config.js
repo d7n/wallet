@@ -1,1 +1,1 @@
-var mnemonic = "lounge solid cannon tonight cabin hood hour cabin roof disease palace pottery";
+var mnemonic = "story puzzle broccoli swim adapt reveal square tank bulk render catalog sell";

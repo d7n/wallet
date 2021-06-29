@@ -1,1 +1,1 @@
-var mnemonic = "eternal bid jealous focus that train split garage cloth assault kid path";
+var mnemonic = "domain orient turtle north mystery palace human regular race equip pelican hen";

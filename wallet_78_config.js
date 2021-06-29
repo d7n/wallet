@@ -1,1 +1,1 @@
-var mnemonic = "suit lunar chicken damage embark program fun comfort turn rug spike shiver";
+var mnemonic = "final wage hockey country miss detail follow tired scrap giant truck until";

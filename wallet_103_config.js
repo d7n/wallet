@@ -1,1 +1,1 @@
-var mnemonic = "maze strong hedgehog catch soldier coral chest island cause fault loan put";
+var mnemonic = "palace tribe elder hungry panel front tone wing hat paddle claim skill";

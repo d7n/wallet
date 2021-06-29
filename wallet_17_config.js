@@ -1,1 +1,1 @@
-var mnemonic = "blind rival shield shove nation fat scene arctic visual easy small bid";
+var mnemonic = "oblige blood genius match vacant obscure garden struggle exercise leader exclude old";

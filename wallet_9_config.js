@@ -1,1 +1,1 @@
-var mnemonic = "draft rib risk ugly evolve fee funny pull stairs snap evidence fine";
+var mnemonic = "excuse month promote diary load reopen resist wreck rigid idle orange below";

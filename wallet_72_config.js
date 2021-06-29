@@ -1,1 +1,1 @@
-var mnemonic = "human hill dignity humble voyage outside wall grocery insane buzz wink practice";
+var mnemonic = "visa eager wise hunt upon chunk mask club term ridge ordinary forest";

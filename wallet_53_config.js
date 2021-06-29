@@ -1,1 +1,1 @@
-var mnemonic = "divorce future crisp range solution boat steel unlock magic base donor spoil";
+var mnemonic = "ski obey silly clarify public push smile romance control soft upper grocery";

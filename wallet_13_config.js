@@ -1,1 +1,1 @@
-var mnemonic = "glad bridge neck memory nasty two rack shy ancient advance rebuild club";
+var mnemonic = "same faculty nature sick comic clap solar hollow culture envelope rookie camp";

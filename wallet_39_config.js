@@ -1,1 +1,1 @@
-var mnemonic = "waste lottery undo type keen sheriff dawn swallow boy purity rack galaxy";
+var mnemonic = "recall tent exile cake lens pond couple virus regular claw fiber corn";

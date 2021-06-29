@@ -1,1 +1,1 @@
-var mnemonic = "view ripple tiger turkey absorb divide burger alpha nest scene hungry wonder";
+var mnemonic = "clown strategy trial apple enough depth vague forget link since sword cancel";

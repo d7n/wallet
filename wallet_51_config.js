@@ -1,1 +1,1 @@
-var mnemonic = "trim power waste struggle essay elephant ritual guitar pear rapid ivory myself";
+var mnemonic = "badge wrist talk arrest catch minimum paddle credit round dress bamboo pipe";

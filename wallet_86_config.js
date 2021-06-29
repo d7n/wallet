@@ -1,1 +1,1 @@
-var mnemonic = "dentist divide rain horror flush gorilla early march help mass fun knock";
+var mnemonic = "nature cargo polar dish select report wire mirror tomorrow circle purity easily";

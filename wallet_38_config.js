@@ -1,1 +1,1 @@
-var mnemonic = "wasp rapid juice bronze bean ill wool gauge eager finger upon injury";
+var mnemonic = "monkey hub appear bag inside hurt mystery pond arrow walnut mystery assist";

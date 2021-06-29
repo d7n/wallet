@@ -1,1 +1,1 @@
-var mnemonic = "pipe pipe drum armed gauge mad bike mixed dizzy cash ugly syrup";
+var mnemonic = "vanish surround amused nice document happy tenant miracle unable uniform crystal disorder";

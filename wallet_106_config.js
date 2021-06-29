@@ -1,1 +1,1 @@
-var mnemonic = "main artwork favorite tomato tray debate arena hunt scrub task destroy foil";
+var mnemonic = "circle grit key galaxy rail found height bread mad crew chaos vehicle";

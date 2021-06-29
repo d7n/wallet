@@ -1,1 +1,1 @@
-var mnemonic = "boat beyond shoe result step gesture clip keep happy drum bid weather";
+var mnemonic = "birth fresh unit brave fitness mammal chunk uncover cattle woman into rack";

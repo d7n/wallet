@@ -1,1 +1,1 @@
-var mnemonic = "divorce calm problem path item bracket diet husband rapid exhaust radar sight";
+var mnemonic = "legal picnic source fox paper history grace west market fun usual athlete";

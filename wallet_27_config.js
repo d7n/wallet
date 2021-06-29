@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog athlete wool tenant admit shiver meat genuine balcony have test please";
+var mnemonic = "crowd corn win cruise maid trip upgrade spring accident delay smoke night";

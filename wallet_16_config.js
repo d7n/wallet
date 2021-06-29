@@ -1,1 +1,1 @@
-var mnemonic = "fortune isolate opera fortune trend success can gesture dose census domain lemon";
+var mnemonic = "offer quote left chest topic dilemma degree undo grace series endorse click";

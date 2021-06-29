@@ -1,1 +1,1 @@
-var mnemonic = "object just inquiry legal repair harbor shiver resource kitten depth leader sun";
+var mnemonic = "horror rail cradle man aspect verify ostrich fan kite grit machine random";
