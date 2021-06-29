@@ -1,1 +1,1 @@
-var mnemonic = "champion there they soap express force absorb rural catalog clever merit gentle";
+var mnemonic = "like mammal winter nerve wonder jelly olympic tortoise boost memory layer keep";

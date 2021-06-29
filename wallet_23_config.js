@@ -1,1 +1,1 @@
-var mnemonic = "slot asthma adjust coast trial trigger knife smooth law update shine issue";
+var mnemonic = "trouble account despair chase bridge vault way piano spider abstract power vibrant";

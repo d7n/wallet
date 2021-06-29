@@ -1,1 +1,1 @@
-var mnemonic = "forum three nurse remain motion convince capable coin mass sad armor know";
+var mnemonic = "elegant already word occur random typical allow vibrant emotion snake nurse wine";

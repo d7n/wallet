@@ -1,1 +1,1 @@
-var mnemonic = "hollow tip hill artefact collect siege bean garment birth sadness measure pelican";
+var mnemonic = "bench roast crowd smooth vacant pyramid message punch museum volcano rocket device";

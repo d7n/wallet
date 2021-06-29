@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog endorse tag next school visit bargain acquire convince retire fabric motion";
+var mnemonic = "across beauty uncover fatal keep route october uncle bike donkey inmate breeze";

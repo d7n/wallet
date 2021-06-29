@@ -1,1 +1,1 @@
-var mnemonic = "garbage virus sniff swear allow bus attitude huge meat science moon ridge";
+var mnemonic = "trend dentist orchard kid diagram cage vibrant bronze ketchup mesh velvet person";

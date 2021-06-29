@@ -1,1 +1,1 @@
-var mnemonic = "outdoor rail visa envelope blanket robot enemy entire dice human worth scrub";
+var mnemonic = "later female river bacon whisper daughter iron still harsh catalog breeze chuckle";

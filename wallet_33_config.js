@@ -1,1 +1,1 @@
-var mnemonic = "van yellow cube trip shoulder just female point rhythm plastic okay song";
+var mnemonic = "material divert region large frequent puppy opera fortune cricket sense oven film";

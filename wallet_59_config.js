@@ -1,1 +1,1 @@
-var mnemonic = "service cover pipe inmate train damp two history marble artefact blanket beach";
+var mnemonic = "faculty illegal method later suspect liquid club staff raw kangaroo six bundle";

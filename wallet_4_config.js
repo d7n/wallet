@@ -1,1 +1,1 @@
-var mnemonic = "screen myself alter copy horse powder turkey purse post weather bamboo ship";
+var mnemonic = "food detect seek paddle moral decide betray hundred acid south cotton club";

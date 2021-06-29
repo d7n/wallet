@@ -1,1 +1,1 @@
-var mnemonic = "invite fringe sniff path private poverty actual spot elegant negative scene flight";
+var mnemonic = "settle friend shrimp fix rent finger follow behind certain snap bacon tree";

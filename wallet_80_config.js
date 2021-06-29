@@ -1,1 +1,1 @@
-var mnemonic = "couch together once polar strong farm equip universe mask easy capable fatal";
+var mnemonic = "dismiss impose planet sadness answer charge uniform employ master air distance apology";

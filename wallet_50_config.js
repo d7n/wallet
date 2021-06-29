@@ -1,1 +1,1 @@
-var mnemonic = "horse library lady normal swamp engine practice business potato mail tonight hope";
+var mnemonic = "issue atom rule buddy reunion evil scrub reflect improve wrestle roof hand";

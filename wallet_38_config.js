@@ -1,1 +1,1 @@
-var mnemonic = "over skate proof coast normal together erosion language region pill spend clarify";
+var mnemonic = "echo parrot pelican question reject minute venture example gather suit churn ship";

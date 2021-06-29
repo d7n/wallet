@@ -1,1 +1,1 @@
-var mnemonic = "ordinary never scrub giraffe dream law swamp suggest online stadium voyage obvious";
+var mnemonic = "crouch club affair become curious surround item simple gown uphold region trip";

@@ -1,1 +1,1 @@
-var mnemonic = "depend step desk merit harbor gap lake theme river grass when various";
+var mnemonic = "pig normal prefer flat father choice install review slogan cluster cat island";

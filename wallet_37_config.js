@@ -1,1 +1,1 @@
-var mnemonic = "lesson spell mistake amused page afraid fury donkey question select derive insane";
+var mnemonic = "enjoy dust online matrix amount expand phrase ask eye habit agree call";

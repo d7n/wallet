@@ -1,1 +1,1 @@
-var mnemonic = "issue visit oblige riot coyote random undo busy obvious burst catch position";
+var mnemonic = "room bag fancy parrot assist toward evoke this reopen assume useful tuna";

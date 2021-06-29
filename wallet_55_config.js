@@ -1,1 +1,1 @@
-var mnemonic = "various teach genre enemy hurt tonight tired goose riot original action young";
+var mnemonic = "mixture panda raven filter abstract hat danger betray giggle best disorder hurt";

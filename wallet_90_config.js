@@ -1,1 +1,1 @@
-var mnemonic = "pattern coconut awesome economy camera task reduce vote bind excess gorilla dial";
+var mnemonic = "lunar fan summer antique census multiply pupil usual denial dune priority salt";

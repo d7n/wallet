@@ -1,1 +1,1 @@
-var mnemonic = "fog release question border engine digital pelican thought ocean genre used erode";
+var mnemonic = "almost tragic census mercy feed notice horn voice humble volcano taste thrive";

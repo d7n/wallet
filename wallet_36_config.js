@@ -1,1 +1,1 @@
-var mnemonic = "distance excess home guilt clap unfold hope bronze weekend lava tooth fabric";
+var mnemonic = "public speed web can enforce remind clay warm scorpion magic convince planet";

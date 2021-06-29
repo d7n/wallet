@@ -1,1 +1,1 @@
-var mnemonic = "plug catalog picnic six card detail curtain catalog toast squirrel during bounce";
+var mnemonic = "ten piano drastic quality film pistol police critic soup measure shoe filter";

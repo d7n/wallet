@@ -1,1 +1,1 @@
-var mnemonic = "cost network weapon rich pumpkin scrub prison smoke make bird company rib";
+var mnemonic = "sell diet bronze almost elite riot deny possible soul crack tone switch";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise hub crack near help raven high fever plug guard extend match";
+var mnemonic = "buddy gravity try next load history unveil code bulk emerge diet tortoise";

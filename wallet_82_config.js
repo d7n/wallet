@@ -1,1 +1,1 @@
-var mnemonic = "giraffe deal canal theme sorry resist man pottery behave pattern jeans proof";
+var mnemonic = "give grocery sample garment foil elder stage media net joke whisper harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "drive melt inside stomach sponsor denial liquid circle mule slice alert tent";
+var mnemonic = "spoon critic pulse rule draft urge innocent lock age frost scan husband";

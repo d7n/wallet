@@ -1,1 +1,1 @@
-var mnemonic = "theme trade indicate small inform wife race brand scare garlic mansion observe";
+var mnemonic = "orange rabbit weird soul piece perfect abstract perfect square option lawsuit swear";

@@ -1,1 +1,1 @@
-var mnemonic = "secret mask border cliff satisfy north wrong term naive nose advice win";
+var mnemonic = "lunch cook curious still try lawsuit entry spoon rocket today dizzy like";

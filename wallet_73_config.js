@@ -1,1 +1,1 @@
-var mnemonic = "exercise case ladder midnight warrior swallow leopard fatal clever pelican sweet gym";
+var mnemonic = "absurd squeeze anchor distance attract exact inhale alter pumpkin spoil glass royal";

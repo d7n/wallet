@@ -1,1 +1,1 @@
-var mnemonic = "same only minor next bounce moment auto draw prosper exchange fence caution";
+var mnemonic = "staff evidence turn draft parade female message practice hidden name dream census";

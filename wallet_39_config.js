@@ -1,1 +1,1 @@
-var mnemonic = "original guide shadow best seek orbit utility lonely lunch magic hurt salad";
+var mnemonic = "attract top scrap online small mind pretty eye bicycle price female shield";

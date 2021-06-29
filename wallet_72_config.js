@@ -1,1 +1,1 @@
-var mnemonic = "whale ramp acquire reason next just submit exchange health scrap symptom busy";
+var mnemonic = "sort strategy sweet prevent jacket food junk unveil keep true lesson orphan";

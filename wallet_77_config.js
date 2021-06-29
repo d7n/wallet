@@ -1,1 +1,1 @@
-var mnemonic = "pull must exit uniform surround budget race anxiety gather syrup rubber chapter";
+var mnemonic = "nothing mad tackle fragile sibling meat goddess cause purchase nice baby fold";

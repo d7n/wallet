@@ -1,1 +1,1 @@
-var mnemonic = "undo ankle spot innocent drip van turn lizard swap rhythm act welcome";
+var mnemonic = "believe lizard mix quarter cloth notice chaos correct april theory better game";

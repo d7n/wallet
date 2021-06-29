@@ -1,1 +1,1 @@
-var mnemonic = "roast wash young result habit neutral celery will foot swing danger beef";
+var mnemonic = "try skate agent effort ritual skirt chief favorite price fancy ship mixed";

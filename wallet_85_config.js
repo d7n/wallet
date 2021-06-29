@@ -1,1 +1,1 @@
-var mnemonic = "obey wear rhythm panic buffalo age another cruel retire wolf inside peanut";
+var mnemonic = "hungry fatal foster unfair feed core owner chunk put cheese diet company";

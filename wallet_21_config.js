@@ -1,1 +1,1 @@
-var mnemonic = "hire echo raise smile alien poverty popular brief field idea little defense";
+var mnemonic = "reduce mountain again bright feature soldier jazz gloom small case object reduce";

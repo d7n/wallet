@@ -1,1 +1,1 @@
-var mnemonic = "wise section inject drop list fatigue south people absorb sentence settle identify";
+var mnemonic = "woman pear purity nation taste test curve sport allow sting parrot swing";

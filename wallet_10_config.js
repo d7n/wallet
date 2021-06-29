@@ -1,1 +1,1 @@
-var mnemonic = "frequent nurse siren shrimp decide royal clutch tackle crane ensure piece memory";
+var mnemonic = "truth devote proud frost crazy history draw there apart boat front mad";

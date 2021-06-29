@@ -1,1 +1,1 @@
-var mnemonic = "seminar surge bitter candy pitch civil either frost main knee soul exhaust";
+var mnemonic = "upgrade wide mushroom liberty swift glide ranch word run taste crawl kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel poem hard anxiety vote expire oxygen off faint demise early fix";
+var mnemonic = "save must shallow clutch much winter manual wash bulk always gold frozen";

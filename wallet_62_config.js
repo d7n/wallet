@@ -1,1 +1,1 @@
-var mnemonic = "brain burst tomorrow math derive mesh predict curve knife feed veteran crater";
+var mnemonic = "sound army program cherry purpose purity earth bachelor catch toddler solid erosion";

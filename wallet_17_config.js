@@ -1,1 +1,1 @@
-var mnemonic = "begin since tooth census artefact toss post claim legal rice slim spirit";
+var mnemonic = "elite deposit recall permit garbage daring brown sound follow evoke mobile athlete";

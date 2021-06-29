@@ -1,1 +1,1 @@
-var mnemonic = "tired tilt quality unique earth pear before ill twin wife quit kitchen";
+var mnemonic = "caught voyage pulse write increase mountain midnight outside sail tray modify odor";

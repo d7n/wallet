@@ -1,1 +1,1 @@
-var mnemonic = "benefit crash genius concert hamster elbow ankle inhale now pottery raise they";
+var mnemonic = "replace mind seat bridge spin gloom ahead place venue vessel subway walk";

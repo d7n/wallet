@@ -1,1 +1,1 @@
-var mnemonic = "scissors sight input seminar keen stem chimney mirror bicycle unusual mutual zebra";
+var mnemonic = "height crumble bread will coin fog fiscal anger dutch carry unknown custom";

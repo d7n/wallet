@@ -1,1 +1,1 @@
-var mnemonic = "glance purity bounce donate female bicycle elegant observe tuition orient tide sheriff";
+var mnemonic = "club goddess tree ripple reunion cream obvious beef open tragic true conduct";

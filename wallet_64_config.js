@@ -1,1 +1,1 @@
-var mnemonic = "mass change average truck fossil pupil they snow tornado boost suit layer";
+var mnemonic = "acquire like rack success gift bottom provide they upset alley steak gaze";

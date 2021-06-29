@@ -1,1 +1,1 @@
-var mnemonic = "saddle goat humor turkey person worry swallow across account cliff bomb actress";
+var mnemonic = "faith plastic walnut cute attack rally salad provide olympic lunar despair banana";

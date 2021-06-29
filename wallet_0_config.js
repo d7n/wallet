@@ -1,1 +1,1 @@
-var mnemonic = "pyramid pole over bless secret matrix element logic empower bitter undo stool";
+var mnemonic = "gadget exile invite danger will menu believe gossip reason staff pelican expect";

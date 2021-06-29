@@ -1,1 +1,1 @@
-var mnemonic = "property broom type success cheese isolate column series recycle crush hobby arrange";
+var mnemonic = "certain case armor warfare cream link flight barrel forest design tape thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "spoon doctor own race blood unlock mistake fee yard twenty cross nothing";
+var mnemonic = "lottery gain ginger still banner magic effort season lumber horn today uphold";

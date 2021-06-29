@@ -1,1 +1,1 @@
-var mnemonic = "noise time admit discover feature stomach cross zone dumb stuff ugly paddle";
+var mnemonic = "birth family limit love usual sustain donate stage sea aware warfare cradle";

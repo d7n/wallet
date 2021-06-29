@@ -1,1 +1,1 @@
-var mnemonic = "shrimp illness tool verb lawn judge ring drip ring derive exclude silk";
+var mnemonic = "tag host desert design novel merge decorate anchor afraid warm world mystery";

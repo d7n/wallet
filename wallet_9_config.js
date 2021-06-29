@@ -1,1 +1,1 @@
-var mnemonic = "heavy describe screen flip phone nuclear kiwi donor awesome learn differ castle";
+var mnemonic = "oak venture raccoon explain define tone craft taste lottery front clock pen";

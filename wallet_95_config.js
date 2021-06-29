@@ -1,1 +1,1 @@
-var mnemonic = "lounge kitten lobster share space wreck observe timber weasel real fatal lottery";
+var mnemonic = "end laptop life access reform hour discover scheme wool spray phrase mandate";

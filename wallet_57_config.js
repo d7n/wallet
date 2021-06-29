@@ -1,1 +1,1 @@
-var mnemonic = "salon explain beach perfect guard wrong offer when hamster fury toss debate";
+var mnemonic = "shallow someone thunder copy cherry design wire write fame spatial mass magic";

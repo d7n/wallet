@@ -1,1 +1,1 @@
-var mnemonic = "access depart ceiling leader kind parent pulp apology phone artwork afford negative";
+var mnemonic = "cruel debris genre sunny cradle era group penalty mushroom possible antique phrase";

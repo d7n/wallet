@@ -1,1 +1,1 @@
-var mnemonic = "wing label fringe cram home perfect select dwarf hip reveal ghost mutual";
+var mnemonic = "toe jelly rough coyote gossip zero private latin venture novel fold horse";

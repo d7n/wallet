@@ -1,1 +1,1 @@
-var mnemonic = "spirit place category trim champion brick report major kidney sadness match answer";
+var mnemonic = "library trade pizza tribe mystery head crawl poet cage rich park vintage";

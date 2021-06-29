@@ -1,1 +1,1 @@
-var mnemonic = "level permit pottery reason manual month fun tool worth admit jump arrange";
+var mnemonic = "square punch follow annual lava rapid grunt ready brand ugly bachelor square";

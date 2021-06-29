@@ -1,1 +1,1 @@
-var mnemonic = "reveal jar dash van scissors father humor case maid radio junk someone";
+var mnemonic = "armor silent steak unfair album return hybrid woman drift staff genre indicate";

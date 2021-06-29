@@ -1,1 +1,1 @@
-var mnemonic = "rug motor ghost depth they build theme success all half accident rifle";
+var mnemonic = "road radio ridge doll bounce parent bubble human duck cram train lottery";

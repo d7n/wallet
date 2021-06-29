@@ -1,1 +1,1 @@
-var mnemonic = "wear lion harbor slot envelope gown chimney daring mom olive town drum";
+var mnemonic = "name never aerobic voyage scare pull push romance invite time merry muffin";

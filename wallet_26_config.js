@@ -1,1 +1,1 @@
-var mnemonic = "when color pride busy attitude car there rhythm double accuse fun portion";
+var mnemonic = "kick cream dream range mean wire birth canoe dove session exotic very";

@@ -1,1 +1,1 @@
-var mnemonic = "tone tattoo fatigue green method ginger mimic travel october among garden history";
+var mnemonic = "balcony onion material viable school box liar neck jazz timber orange grape";

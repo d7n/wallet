@@ -1,1 +1,1 @@
-var mnemonic = "dynamic goat brisk emerge suggest garbage describe scene sting journey skirt crystal";
+var mnemonic = "pet ethics night typical crouch cool obtain poem gain exact crop quantum";

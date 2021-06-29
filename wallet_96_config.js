@@ -1,1 +1,1 @@
-var mnemonic = "okay phrase year win sunny curtain unable elbow various rabbit rocket balance";
+var mnemonic = "tornado stamp bright misery chat jump appear tilt april moral width glare";

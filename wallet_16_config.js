@@ -1,1 +1,1 @@
-var mnemonic = "little diary target opera deputy devote sell pistol pigeon lottery fun carbon";
+var mnemonic = "cloth ethics spell control pulp feature dumb clerk field deer weekend shrug";

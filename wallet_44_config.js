@@ -1,1 +1,1 @@
-var mnemonic = "mixture wide pledge trust vast mind absent rabbit step myself thunder fault";
+var mnemonic = "raccoon toss impact elevator derive calm frozen tobacco power eagle recycle muffin";

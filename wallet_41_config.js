@@ -1,1 +1,1 @@
-var mnemonic = "response hidden gym quote fortune side sport error shoot dinner crash column";
+var mnemonic = "muscle decide keen sniff rent above sport steak cactus grit believe execute";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic siren order attract bulk keen frame paddle regret similar hen aunt";
+var mnemonic = "legend glove coast public pole rule coin lake logic text goose split";

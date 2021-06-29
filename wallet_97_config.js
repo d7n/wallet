@@ -1,1 +1,1 @@
-var mnemonic = "enter syrup cook impact repeat account baby despair climb usual eagle tube";
+var mnemonic = "diamond defy chunk venue sport display feature answer bean gather syrup way";

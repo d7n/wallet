@@ -1,1 +1,1 @@
-var mnemonic = "olympic twice dice sport faith dance stage craft item hint snap focus";
+var mnemonic = "bounce mixture wall mule gown whip poverty fragile barrel pistol enjoy lady";

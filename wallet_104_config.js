@@ -1,1 +1,1 @@
-var mnemonic = "caught dignity ranch income surprise unit two piano rubber fork report income";
+var mnemonic = "gym poet flower earth canvas negative exist vacant devote tomato length forum";

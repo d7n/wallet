@@ -1,1 +1,1 @@
-var mnemonic = "banana walnut alone hat wash elite response fat measure buddy slab wave";
+var mnemonic = "patrol loyal cool harbor device want bus inform ethics domain banner glow";

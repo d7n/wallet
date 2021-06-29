@@ -1,1 +1,1 @@
-var mnemonic = "argue velvet giraffe relief tumble bacon west replace stove innocent cloud siren";
+var mnemonic = "atom omit twin draw glare order course flip marine patrol crowd frozen";

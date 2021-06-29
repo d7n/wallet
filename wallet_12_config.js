@@ -1,1 +1,1 @@
-var mnemonic = "roof draft door surge grow course into title asthma frost inflict sleep";
+var mnemonic = "narrow relax icon solar dizzy review edit weekend retire goat final evoke";

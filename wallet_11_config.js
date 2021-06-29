@@ -1,1 +1,1 @@
-var mnemonic = "chalk weasel cherry cry quiz high spend enforce collect play bubble umbrella";
+var mnemonic = "sphere text amused lucky come ecology wool venture shed behind tank defense";

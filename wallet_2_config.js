@@ -1,1 +1,1 @@
-var mnemonic = "bamboo balance spawn oxygen voice day odor attack eternal raccoon rhythm garden";
+var mnemonic = "morning cram fever wagon radar idea brown yard fiction body tuition assume";

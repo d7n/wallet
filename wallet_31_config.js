@@ -1,1 +1,1 @@
-var mnemonic = "rely expand eagle light drum twice bounce jaguar joy series express helmet";
+var mnemonic = "regret cause prize drop float citizen awesome ask illegal enable gadget network";

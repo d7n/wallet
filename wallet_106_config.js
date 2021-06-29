@@ -1,1 +1,1 @@
-var mnemonic = "impose vessel aspect useful hedgehog picture later style ride ten spare dizzy";
+var mnemonic = "fortune drive history address duck carbon loop yard sustain sail tide frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "source play security stick letter castle fiscal ecology melody try jeans awkward";
+var mnemonic = "senior athlete assume visual code common cause squirrel left salon pulse scheme";

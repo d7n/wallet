@@ -1,1 +1,1 @@
-var mnemonic = "build sample cable similar prevent burger slice grab idea common labor distance";
+var mnemonic = "miss garlic mask about trip phrase swallow stuff chronic pizza permit kiwi";

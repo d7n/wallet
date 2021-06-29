@@ -1,1 +1,1 @@
-var mnemonic = "aware alcohol erupt soft put curve casino rug chase obtain later little";
+var mnemonic = "capital caution immune awesome proud link envelope scatter lecture melody swamp own";

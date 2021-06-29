@@ -1,1 +1,1 @@
-var mnemonic = "obtain gold disorder rhythm treat romance roof inner rate relief such mountain";
+var mnemonic = "lounge person surface visa dawn edge myth stuff invest poet bounce circle";

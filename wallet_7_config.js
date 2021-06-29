@@ -1,1 +1,1 @@
-var mnemonic = "estate defy invest fringe wink bunker cherry coach prefer mystery office cost";
+var mnemonic = "scale foil about tone horn remove fiscal repeat example course initial nominee";

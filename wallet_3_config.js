@@ -1,1 +1,1 @@
-var mnemonic = "steel suit avoid picnic salad spoil decade special sample health error bargain";
+var mnemonic = "identify sad endorse fuel seek spoon abuse debate north match garment pill";

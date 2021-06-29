@@ -1,1 +1,1 @@
-var mnemonic = "forum bomb bench remind imitate adjust advice notice foam analyst trick steel";
+var mnemonic = "fossil better harbor place fire buddy bid call bike achieve gasp blouse";

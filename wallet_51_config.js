@@ -1,1 +1,1 @@
-var mnemonic = "title fish mirror argue erupt reunion universe pride wing business menu bracket";
+var mnemonic = "smoke common stereo tackle window crystal ahead pluck marble you slender bind";
