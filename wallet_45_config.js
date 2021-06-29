@@ -1,1 +1,1 @@
-var mnemonic = "mercy choose test setup civil govern hole curve middle piano soccer noodle";
+var mnemonic = "advance tail vapor today hour anxiety coil black they discover lounge lunch";

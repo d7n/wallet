@@ -1,1 +1,1 @@
-var mnemonic = "bridge domain lab session subject ice flee cry broccoli diamond tennis inquiry";
+var mnemonic = "cat fire raw interest sand mistake safe embrace earn cricket main run";

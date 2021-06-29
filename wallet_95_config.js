@@ -1,1 +1,1 @@
-var mnemonic = "erode fun dismiss once attract riot clip lion embody lake danger giant";
+var mnemonic = "today resist chief vehicle release despair photo coffee false hospital drill carry";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew razor funny capital electric worry roof million depart shuffle child improve";
+var mnemonic = "account average flight mandate husband fluid gift fit hat rather stay entry";

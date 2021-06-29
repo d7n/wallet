@@ -1,1 +1,1 @@
-var mnemonic = "main believe claim chaos echo season bitter foster angle ankle lake define";
+var mnemonic = "despair income island this gaze child truck destroy alarm rocket soft belt";

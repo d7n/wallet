@@ -1,1 +1,1 @@
-var mnemonic = "pave burden key balcony buddy level regret view ginger lumber pave skin";
+var mnemonic = "bracket fox ocean alpha limit pizza collect tortoise setup cake napkin few";

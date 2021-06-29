@@ -1,1 +1,1 @@
-var mnemonic = "jar soup announce sponsor better strike evoke lumber observe trend bind soccer";
+var mnemonic = "execute shine resource antenna eight tongue ship blouse squirrel visit tip library";

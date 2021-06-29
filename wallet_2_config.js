@@ -1,1 +1,1 @@
-var mnemonic = "conduct relief hamster recipe loud vacuum harbor adapt shield shy define ugly";
+var mnemonic = "miracle afford shift gloom come aim meat season clean hub glove patch";

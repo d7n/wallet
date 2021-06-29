@@ -1,1 +1,1 @@
-var mnemonic = "reunion upper width will spice prison pistol section summer problem inquiry horror";
+var mnemonic = "panther joke shield ordinary erase toward dawn innocent fire skate clever resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "hole unveil obscure total green merit emotion spread tumble garage episode ancient";
+var mnemonic = "life orchard tattoo pause jump mechanic frost divorce tiger buffalo proof hat";

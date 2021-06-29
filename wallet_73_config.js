@@ -1,1 +1,1 @@
-var mnemonic = "surface sponsor where ball stick make opinion regret hunt check still usual";
+var mnemonic = "keep swamp salt void valid fold damage one helmet supreme program autumn";

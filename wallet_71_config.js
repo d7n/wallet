@@ -1,1 +1,1 @@
-var mnemonic = "buffalo visit start organ clock pole build bicycle sentence bird train crew";
+var mnemonic = "public congress bulb trim island skill wealth country vast desk arctic subject";

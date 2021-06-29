@@ -1,1 +1,1 @@
-var mnemonic = "toy there unit mammal ocean front evidence dwarf raise magnet surprise bread";
+var mnemonic = "crack liar agent clarify wink knock aspect shrug knee erupt issue tank";

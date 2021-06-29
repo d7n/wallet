@@ -1,1 +1,1 @@
-var mnemonic = "shine gold work govern pretty drink fold creek mango shoulder search fan";
+var mnemonic = "island angle catch light spell duck bottom liberty diesel client favorite battle";

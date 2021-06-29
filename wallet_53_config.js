@@ -1,1 +1,1 @@
-var mnemonic = "soul novel lobster supply same destroy behind absorb sponsor brother hand puppy";
+var mnemonic = "diesel frost allow field peace panel unable alien dutch music release victory";

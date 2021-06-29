@@ -1,1 +1,1 @@
-var mnemonic = "meat kiss theme pink survey barrel bid come like stamp wool gym";
+var mnemonic = "fold gauge whisper salad thunder excess hunt share daughter cradle baby pride";

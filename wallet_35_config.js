@@ -1,1 +1,1 @@
-var mnemonic = "perfect bless elephant flee panic crime run goddess insane shoe saddle limit";
+var mnemonic = "idea wish guess stove monster shallow upper high index pudding tray dignity";

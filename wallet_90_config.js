@@ -1,1 +1,1 @@
-var mnemonic = "gas list tool alien census good civil oak wool rural pelican banana";
+var mnemonic = "thunder odor combine gym spare will scrub aspect cost learn apart brass";

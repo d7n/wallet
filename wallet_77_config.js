@@ -1,1 +1,1 @@
-var mnemonic = "rebuild involve robot cannon laugh wife abuse achieve unfair middle ensure salmon";
+var mnemonic = "step flight sorry result bottom curtain sport various aim orient learn punch";

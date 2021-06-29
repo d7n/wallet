@@ -1,1 +1,1 @@
-var mnemonic = "annual promote pudding chat curtain primary dish west find light day stage";
+var mnemonic = "despair tomorrow entire tired sweet label arrow promote exact film toe unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel grass age before caution pact phrase exclude mean slim label polar";
+var mnemonic = "venture kind embody cotton kind laundry drip always opinion reveal confirm member";

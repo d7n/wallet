@@ -1,1 +1,1 @@
-var mnemonic = "ostrich come whisper today more nuclear brush borrow grain ecology alert proud";
+var mnemonic = "distance faith pilot tube rose smoke sick lonely laundry hair mansion unveil";

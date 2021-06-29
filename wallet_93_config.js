@@ -1,1 +1,1 @@
-var mnemonic = "apology recipe panther antenna flag metal flock midnight axis this deer whip";
+var mnemonic = "kid exotic diagram bulk box net dial repeat cook only fragile tornado";

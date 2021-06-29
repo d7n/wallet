@@ -1,1 +1,1 @@
-var mnemonic = "news protect nothing slam castle injury ancient weird mesh wide style noodle";
+var mnemonic = "poverty young host plate immense fence deer staff smooth flock famous culture";

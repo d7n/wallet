@@ -1,1 +1,1 @@
-var mnemonic = "mechanic music marble gas include position coast tonight prevent salad hood exit";
+var mnemonic = "stove service assume dinner together tiger blue fall shiver remain blanket wedding";

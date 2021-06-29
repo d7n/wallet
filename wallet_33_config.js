@@ -1,1 +1,1 @@
-var mnemonic = "excuse romance deposit execute creek gold achieve guitar police rare arrive split";
+var mnemonic = "current include involve offer ability clutch skull hazard wisdom law sheriff concert";

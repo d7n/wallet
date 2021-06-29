@@ -1,1 +1,1 @@
-var mnemonic = "effort camp loop donor agent lobster local chapter crunch cable hotel analyst";
+var mnemonic = "bench decline cargo dress antenna quality glow drum pumpkin hidden paddle silly";

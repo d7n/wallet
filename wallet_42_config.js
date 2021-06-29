@@ -1,1 +1,1 @@
-var mnemonic = "topic cruise hamster ancient cool exhibit engage maid document episode tobacco dumb";
+var mnemonic = "improve company crack gate program vessel peasant donor garden embody speak lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "theory satisfy inside same satisfy draw tonight truck bottom option attend skull";
+var mnemonic = "elbow strategy army daughter high asthma liquid typical glide fresh angle weekend";

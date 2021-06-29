@@ -1,1 +1,1 @@
-var mnemonic = "patient matrix battle drift obscure term sample intact bundle place anger burden";
+var mnemonic = "champion train alert together siren drill chuckle give cream utility donkey runway";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter bicycle vast awful cabbage safe clap problem rapid chunk concert proud";
+var mnemonic = "blue bicycle exhibit mistake jungle debate great fabric choose goat photo help";

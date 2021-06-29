@@ -1,1 +1,1 @@
-var mnemonic = "toy pitch step lava veteran present nut wide silly oppose spider cousin";
+var mnemonic = "seven smoke borrow catalog way barrel jump hole possible capable blue word";

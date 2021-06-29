@@ -1,1 +1,1 @@
-var mnemonic = "write toast coach put dynamic unknown mountain again approve leisure area calm";
+var mnemonic = "dance jacket tattoo fine spend cradle aim smile apart pony rack aim";

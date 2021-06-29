@@ -1,1 +1,1 @@
-var mnemonic = "baby shift frown maid foil journey program among scene banner entire defense";
+var mnemonic = "riot famous mother negative mirror keen bless win february speed sister speed";

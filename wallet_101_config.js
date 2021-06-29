@@ -1,1 +1,1 @@
-var mnemonic = "inner suggest salon derive govern blanket culture come judge approve fatal canoe";
+var mnemonic = "confirm surface awful unable veteran cycle sheriff two kingdom mad coast staff";

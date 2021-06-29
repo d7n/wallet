@@ -1,1 +1,1 @@
-var mnemonic = "buyer victory seek maximum useless tissue source property kiwi trigger obscure scare";
+var mnemonic = "pattern argue romance judge time rain gain slam figure clever amount october";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity lecture need common design buddy major rely dune cabin rare absent";
+var mnemonic = "behind science ocean welcome now toilet lion pole reduce rug monster arrive";

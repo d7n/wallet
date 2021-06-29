@@ -1,1 +1,1 @@
-var mnemonic = "session shine blur trigger stone wait essay light cabbage more vital piano";
+var mnemonic = "edge fee fix paper alone swim nerve casino neither chaos gain salon";

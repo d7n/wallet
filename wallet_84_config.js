@@ -1,1 +1,1 @@
-var mnemonic = "proud repair isolate venture spoil private pear column way offer twelve minimum";
+var mnemonic = "grab weird apology bean exotic setup victory video grid dinner question velvet";

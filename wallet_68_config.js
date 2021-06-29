@@ -1,1 +1,1 @@
-var mnemonic = "solution boil trumpet solar mixed nest area cruise enrich shoe over year";
+var mnemonic = "odor decorate test success scissors purse april code young ribbon fossil indoor";

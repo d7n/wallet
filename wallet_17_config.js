@@ -1,1 +1,1 @@
-var mnemonic = "venue rifle scan swing between bounce tomorrow believe short owner caution enemy";
+var mnemonic = "food grant yard dragon tent manual reason tuna drama chicken live pair";

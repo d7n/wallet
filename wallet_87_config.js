@@ -1,1 +1,1 @@
-var mnemonic = "decade ocean future radar yellow hope price rare country trick ritual model";
+var mnemonic = "eight minimum cereal notable pact tilt slight together hair analyst size jewel";

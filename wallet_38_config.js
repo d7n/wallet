@@ -1,1 +1,1 @@
-var mnemonic = "urban consider news toward satoshi salt monkey inner track else business exhaust";
+var mnemonic = "clerk thank market cry shaft tenant unfair elegant syrup cotton boring human";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble pitch perfect elder test any indoor clean alpha state crazy potato";
+var mnemonic = "adult regret produce laundry lyrics payment attend across swim distance vintage phrase";

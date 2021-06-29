@@ -1,1 +1,1 @@
-var mnemonic = "pilot travel victory wolf million onion light urban select trial length leisure";
+var mnemonic = "point volcano skull furnace pipe seminar song rescue satisfy sword settle section";

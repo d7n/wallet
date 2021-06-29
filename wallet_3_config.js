@@ -1,1 +1,1 @@
-var mnemonic = "fold crowd tribe fish jazz oyster novel giraffe detect paddle rabbit mountain";
+var mnemonic = "toward margin evidence winner perfect arrow release sustain snack tenant pet often";

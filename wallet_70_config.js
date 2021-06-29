@@ -1,1 +1,1 @@
-var mnemonic = "rack soldier erode purse flag omit pretty blade virtual nose panda foster";
+var mnemonic = "accuse host exist grain program acquire cruise brother clog antenna click limit";

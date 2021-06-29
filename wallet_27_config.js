@@ -1,1 +1,1 @@
-var mnemonic = "junior income scene isolate announce right east sure olive engage during match";
+var mnemonic = "mango month juice acoustic below jazz asset craft slot bleak later fall";

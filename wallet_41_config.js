@@ -1,1 +1,1 @@
-var mnemonic = "embrace disease diet staff estate display other visit salad movie fan differ";
+var mnemonic = "piece security bronze inner violin relax smile bless foster isolate chimney smooth";

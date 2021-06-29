@@ -1,1 +1,1 @@
-var mnemonic = "account dry panel sport library write obscure photo voice mirror expand animal";
+var mnemonic = "into toe language call rack square endless run early trial top swear";

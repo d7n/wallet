@@ -1,1 +1,1 @@
-var mnemonic = "solution paper hint find upper vote phone regret near goose lift casino";
+var mnemonic = "hamster hip scheme lottery toe primary robust observe hollow walnut evoke grit";

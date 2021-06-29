@@ -1,1 +1,1 @@
-var mnemonic = "quantum sort ignore estate choice culture sure draft unable walk weapon rail";
+var mnemonic = "achieve cover intact merry brain arrow extra apple vendor gossip box various";

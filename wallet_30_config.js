@@ -1,1 +1,1 @@
-var mnemonic = "velvet inspire menu shaft inject capable drip until tilt spider record clock";
+var mnemonic = "rich captain wool spice solar treat gather dish into embrace glove public";

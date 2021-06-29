@@ -1,1 +1,1 @@
-var mnemonic = "useless monkey recipe wish stem exchange hole mask endorse equal glad battle";
+var mnemonic = "health find ordinary mammal feed huge duty staff gentle laugh flip globe";

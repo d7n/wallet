@@ -1,1 +1,1 @@
-var mnemonic = "elder catch quantum puzzle leopard suffer exchange float jacket public tissue deer";
+var mnemonic = "mass demise rifle damage average metal endorse powder thank draw dentist pink";

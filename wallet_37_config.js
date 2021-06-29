@@ -1,1 +1,1 @@
-var mnemonic = "chief electric diamond nominee square pulp gasp ill pyramid farm fatal embark";
+var mnemonic = "fence giraffe stick cargo birth ghost fence green tired velvet nurse book";

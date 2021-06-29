@@ -1,1 +1,1 @@
-var mnemonic = "invest chair practice act permit desk debate inform swim fatal across heart";
+var mnemonic = "latin sniff cream invite before claim illness tank live report train card";

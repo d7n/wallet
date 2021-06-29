@@ -1,1 +1,1 @@
-var mnemonic = "august share deliver concert erase drop grief pelican elite across error road";
+var mnemonic = "result type situate split marble skull garlic pumpkin early filter ask innocent";

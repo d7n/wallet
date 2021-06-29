@@ -1,1 +1,1 @@
-var mnemonic = "lecture ball industry medal rug clay song sniff street clean believe okay";
+var mnemonic = "expand exhibit fatigue diamond rotate genre hybrid dinner modify reflect room blade";

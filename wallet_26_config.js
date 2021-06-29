@@ -1,1 +1,1 @@
-var mnemonic = "spread brand water romance choice slice gossip wine oven such remember save";
+var mnemonic = "climb common short rely quantum name snake earn deny music phone direct";

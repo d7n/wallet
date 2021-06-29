@@ -1,1 +1,1 @@
-var mnemonic = "mechanic damage carbon sibling cable coach genuine dilemma clump buddy approve lecture";
+var mnemonic = "decline slogan fan owner satisfy spice sun exchange resource summer sheriff come";

@@ -1,1 +1,1 @@
-var mnemonic = "leader mushroom penalty leisure carry motion lawsuit appear deny express depth culture";
+var mnemonic = "weasel ship traffic tunnel balcony off curtain pizza shaft school happy salad";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich fuel illness rule idle spray mail fluid upper grass provide join";
+var mnemonic = "mention entire mass hockey present evoke suspect dish patch float pudding powder";

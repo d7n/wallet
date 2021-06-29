@@ -1,1 +1,1 @@
-var mnemonic = "autumn fluid front like dismiss visit blood unknown oak figure increase radar";
+var mnemonic = "beauty disease sport long symbol hotel glad pet clean mimic crime any";

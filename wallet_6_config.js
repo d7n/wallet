@@ -1,1 +1,1 @@
-var mnemonic = "thrive jaguar online siren waste ethics ladder frog sheriff denial any curve";
+var mnemonic = "maid carbon liberty dance input magnet private draft loan farm describe moment";

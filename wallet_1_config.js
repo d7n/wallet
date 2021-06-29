@@ -1,1 +1,1 @@
-var mnemonic = "often ignore knife injury mass wild spread evoke panther tiger film mask";
+var mnemonic = "erupt senior clever portion unique into festival place eye text reject bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "design bronze exotic aunt shop pulp noise now kind marble puppy ghost";
+var mnemonic = "close save thunder suggest bargain still save kingdom meat ice zoo face";

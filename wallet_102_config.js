@@ -1,1 +1,1 @@
-var mnemonic = "whip any bid entire link drink aisle fade virus march shine fault";
+var mnemonic = "other like mean ready angle real frown runway barely dinosaur possible punch";

@@ -1,1 +1,1 @@
-var mnemonic = "width armor blue eager bunker fog bike exhibit dirt print lonely vacuum";
+var mnemonic = "worth bright pretty addict pool proud panic bachelor chef provide pledge alter";

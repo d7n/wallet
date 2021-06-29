@@ -1,1 +1,1 @@
-var mnemonic = "creek ability dune sausage kit large sing chalk track hammer fatal upset";
+var mnemonic = "young unique update model flame expand song net next found source risk";

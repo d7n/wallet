@@ -1,1 +1,1 @@
-var mnemonic = "voyage rifle parent toward pulse offer mimic tomorrow comfort arrive mandate cargo";
+var mnemonic = "tuition dragon anchor equal humor human rhythm hidden erode taste draw assault";

@@ -1,1 +1,1 @@
-var mnemonic = "ball system liberty nuclear diet voice solar zebra economy shadow whale mother";
+var mnemonic = "urban clock rubber october diamond finger grief acoustic million error burden dust";

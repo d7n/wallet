@@ -1,1 +1,1 @@
-var mnemonic = "rubber scale observe alert crumble swamp stereo amazing maple delay garment blush";
+var mnemonic = "mystery high door loyal armed powder blouse replace venue team genre scrub";

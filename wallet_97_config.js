@@ -1,1 +1,1 @@
-var mnemonic = "scout shove verify road know engage apart void huge dwarf cash loan";
+var mnemonic = "youth item mixture toilet warrior razor bicycle just august couple math sure";

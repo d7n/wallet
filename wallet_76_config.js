@@ -1,1 +1,1 @@
-var mnemonic = "castle know luxury orphan trim fan breeze silver mass caution share share";
+var mnemonic = "consider mechanic mail sorry laugh update filter inhale student luggage affair verb";

@@ -1,1 +1,1 @@
-var mnemonic = "slush situate youth civil frog insane either use wage output year scout";
+var mnemonic = "blood lab remain maximum radio bargain toast panther ugly infant life gate";

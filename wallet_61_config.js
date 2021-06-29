@@ -1,1 +1,1 @@
-var mnemonic = "law soul forum exhibit upper tunnel loop pony donate jaguar repeat sister";
+var mnemonic = "aspect final empower shallow rebuild people pull tiny bracket awkward fade start";

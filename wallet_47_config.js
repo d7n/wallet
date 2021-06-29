@@ -1,1 +1,1 @@
-var mnemonic = "picture attitude victory vivid rare glance axis large leader mansion impose power";
+var mnemonic = "friend caution charge slush play damp shrug express ancient topic slender twice";

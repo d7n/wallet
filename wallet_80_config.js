@@ -1,1 +1,1 @@
-var mnemonic = "say convince plug salmon leaf play appear walnut cycle ladder heart huge";
+var mnemonic = "base cargo birth story tackle marble multiply fan pudding approve proud rubber";

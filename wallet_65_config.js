@@ -1,1 +1,1 @@
-var mnemonic = "rude planet coil dress wealth aim column nation delay joke fan parade";
+var mnemonic = "quick artist humor ridge weather dolphin excess speed blue task truth eye";

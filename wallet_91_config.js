@@ -1,1 +1,1 @@
-var mnemonic = "tide neck orbit finger wild spirit legend decide wish borrow evil appear";
+var mnemonic = "pretty health light uniform pledge elephant luxury usage cushion ancient fix original";

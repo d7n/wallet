@@ -1,1 +1,1 @@
-var mnemonic = "shift hundred rebuild seven reunion chaos wise shoulder master culture whisper street";
+var mnemonic = "dust connect parrot eager flame game weather pass wool oyster execute race";

@@ -1,1 +1,1 @@
-var mnemonic = "blush secret defense idea moon size curtain couple above sample turkey oil";
+var mnemonic = "hello wreck pony engage modify traffic there tent govern goose duty orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "congress develop weird hover either census stomach want rubber cheap solid theme";
+var mnemonic = "borrow elite print label hard daring else twist list car source melody";

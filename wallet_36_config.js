@@ -1,1 +1,1 @@
-var mnemonic = "armed tackle bright hold fringe illegal width teach speed bomb soap open";
+var mnemonic = "female chuckle pencil skate husband plunge tree essay panic draft narrow pony";

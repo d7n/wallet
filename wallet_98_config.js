@@ -1,1 +1,1 @@
-var mnemonic = "west sound camp poem current ozone weird position plate prize require wheat";
+var mnemonic = "myth trip cage screen chicken apart helmet scatter tiger bread clump brain";

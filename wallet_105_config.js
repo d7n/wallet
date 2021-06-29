@@ -1,1 +1,1 @@
-var mnemonic = "plate stick turkey oven collect bomb patrol coast office twenty useless height";
+var mnemonic = "layer hole recycle atom random obey aisle valve title inside small all";

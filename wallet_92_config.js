@@ -1,1 +1,1 @@
-var mnemonic = "account noodle impose ritual casino guilt guide special sure quote shoulder loyal";
+var mnemonic = "canyon pilot arrest seek shuffle jewel rely festival engage original pear bind";
