@@ -1,1 +1,1 @@
-var mnemonic = "damage valley health alcohol life horse bullet essay floor flag decrease alter";
+var mnemonic = "cluster antenna digital magnet pact bleak hidden ignore chapter toss coconut segment";

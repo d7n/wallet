@@ -1,1 +1,1 @@
-var mnemonic = "immune danger clarify juice physical excess tool sell fresh dolphin amateur plunge";
+var mnemonic = "defy steel report bar shoulder note symptom voice crater smoke praise daughter";

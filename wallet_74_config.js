@@ -1,1 +1,1 @@
-var mnemonic = "digital melt suit inch noodle base all lumber issue since artist pool";
+var mnemonic = "guide salt view disorder differ leopard average program print sick over short";

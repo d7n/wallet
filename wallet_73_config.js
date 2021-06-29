@@ -1,1 +1,1 @@
-var mnemonic = "poverty wave leaf pond armed reason hedgehog indicate credit cereal virtual oil";
+var mnemonic = "seat essay bunker torch allow drink immense vicious damp twelve high cabin";

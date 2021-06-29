@@ -1,1 +1,1 @@
-var mnemonic = "develop hub salt axis observe whisper rival assist screen frame ready hole";
+var mnemonic = "mountain barely shine theme business size agent memory rescue search master rain";

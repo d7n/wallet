@@ -1,1 +1,1 @@
-var mnemonic = "face idea nothing obtain cement grow bronze hurdle patrol couch leopard thing";
+var mnemonic = "snake ripple praise romance student work wage nerve cancel cost orbit vivid";

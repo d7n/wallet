@@ -1,1 +1,1 @@
-var mnemonic = "smile zero upon demise evolve token elite prepare arctic worth clump this";
+var mnemonic = "spatial athlete citizen art hurdle capital upset betray chat attitude plug put";

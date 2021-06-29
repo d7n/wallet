@@ -1,1 +1,1 @@
-var mnemonic = "much veteran salute audit more chronic ribbon melt save stuff candy defense";
+var mnemonic = "announce pear buffalo demise infant trust consider ticket hidden tide other orchard";

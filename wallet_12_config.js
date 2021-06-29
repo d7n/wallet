@@ -1,1 +1,1 @@
-var mnemonic = "power session put huge equal curious couch around marble illness laundry chalk";
+var mnemonic = "chalk begin replace agree awkward cigar easy gesture genius fabric kit lamp";

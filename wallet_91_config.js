@@ -1,1 +1,1 @@
-var mnemonic = "school promote dish frame rent hundred analyst right wall course income insect";
+var mnemonic = "reason artist suspect glimpse final biology drum wave exhibit liquid ignore mandate";

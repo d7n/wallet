@@ -1,1 +1,1 @@
-var mnemonic = "image notable pact dutch tilt busy tube coil rally maid follow profit";
+var mnemonic = "present palace knee aerobic salad small power embrace husband guilt impulse disease";

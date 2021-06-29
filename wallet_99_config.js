@@ -1,1 +1,1 @@
-var mnemonic = "magnet ten zebra collect retreat pulp multiply shuffle exact blade raise six";
+var mnemonic = "foam bulk orphan clean orient confirm escape account result burger disease expand";

@@ -1,1 +1,1 @@
-var mnemonic = "slice sail allow direct fog scrub bar give text hire glimpse timber";
+var mnemonic = "bubble round episode sweet pulp denial alter clog october high rule payment";

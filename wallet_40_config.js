@@ -1,1 +1,1 @@
-var mnemonic = "color nose baby force lottery witness chase wine make august juice rose";
+var mnemonic = "body finger tiger word indicate aware pudding nature drill leopard lyrics divert";

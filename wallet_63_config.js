@@ -1,1 +1,1 @@
-var mnemonic = "hero involve shield sound oak avoid decorate accuse silent cheese hurry surface";
+var mnemonic = "walnut few dutch vast foil illness crucial choice insect expire valve sister";

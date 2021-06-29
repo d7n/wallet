@@ -1,1 +1,1 @@
-var mnemonic = "leave velvet sleep angry left replace peasant wise evidence paddle marine taste";
+var mnemonic = "whale donor huge high sand friend exhaust change prosper barely plastic stand";

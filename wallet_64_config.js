@@ -1,1 +1,1 @@
-var mnemonic = "labor convince want nerve because riot lonely fabric caught craft scatter photo";
+var mnemonic = "into myself glad pig quarter arctic cannon stereo obtain mask jewel sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "art same amused rude gasp monster agent drum shaft judge salt creek";
+var mnemonic = "master insect legal net win affair argue visual hedgehog grain nerve engage";

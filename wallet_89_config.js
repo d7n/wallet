@@ -1,1 +1,1 @@
-var mnemonic = "pull tennis spray crouch impulse trend shift speak fancy mirror mom erupt";
+var mnemonic = "salute mango problem throw security draw comic knife glance sound turkey silly";

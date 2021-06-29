@@ -1,1 +1,1 @@
-var mnemonic = "early tree opera review piano direct sweet sunny motor blanket west execute";
+var mnemonic = "kind stadium reward clay nephew pumpkin end burden print magnet excess wheel";

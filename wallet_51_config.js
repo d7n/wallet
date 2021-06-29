@@ -1,1 +1,1 @@
-var mnemonic = "scrap sunset lucky sad pause seven gather whale transfer height auto tumble";
+var mnemonic = "buyer magnet fever argue below thought anxiety syrup wrist hello news carry";

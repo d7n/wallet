@@ -1,1 +1,1 @@
-var mnemonic = "rack card today unusual that fragile detect arrange piano domain universe mutual";
+var mnemonic = "priority salmon endorse come insane lunar dune arrange leaf whip subject cereal";

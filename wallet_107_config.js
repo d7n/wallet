@@ -1,1 +1,1 @@
-var mnemonic = "bridge little acid uncle ribbon exchange act trick face sail filter expect";
+var mnemonic = "render adapt cancel tonight process spring offer deny globe hurry remain outer";

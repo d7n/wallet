@@ -1,1 +1,1 @@
-var mnemonic = "frame connect raven leg never fork warm velvet still settle habit glory";
+var mnemonic = "help motion market film cruel saddle upon plate enrich day mobile goat";

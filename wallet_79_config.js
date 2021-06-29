@@ -1,1 +1,1 @@
-var mnemonic = "damage vessel angry slight alley worth inner gloom hurry shrimp then into";
+var mnemonic = "lecture trip night alpha fix number blame rather guess timber trend wolf";

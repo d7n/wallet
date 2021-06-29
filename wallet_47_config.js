@@ -1,1 +1,1 @@
-var mnemonic = "display general promote trade gadget unlock drum sock lesson pass expand engage";
+var mnemonic = "advice decade salad jungle below palm office tribe step choose caution engine";

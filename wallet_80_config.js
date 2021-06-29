@@ -1,1 +1,1 @@
-var mnemonic = "section mom fashion fee purpose art tell example shoe gold already credit";
+var mnemonic = "fashion entry report decide beauty element document lunar desk account liquid cushion";

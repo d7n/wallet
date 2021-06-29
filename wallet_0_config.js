@@ -1,1 +1,1 @@
-var mnemonic = "juice submit avoid consider board survey calm save senior knife hawk charge";
+var mnemonic = "text vague rifle abandon genuine label fatal object three rocket patrol sound";

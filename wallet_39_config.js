@@ -1,1 +1,1 @@
-var mnemonic = "cradle bounce indicate liberty warfare banner joke erupt belt portion busy motor";
+var mnemonic = "example gym among material true job vital endless rug lava sword plunge";

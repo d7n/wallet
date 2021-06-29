@@ -1,1 +1,1 @@
-var mnemonic = "strong recycle enroll awful upper media upon shiver miss clutch detect obscure";
+var mnemonic = "legend acid reopen device wedding banana indoor song ritual silly wrestle slab";

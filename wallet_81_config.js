@@ -1,1 +1,1 @@
-var mnemonic = "business law leopard clerk cost sound kiwi taxi cheese fix taxi token";
+var mnemonic = "always ordinary vibrant patch hawk canyon artist light design sorry boost one";

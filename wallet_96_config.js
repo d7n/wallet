@@ -1,1 +1,1 @@
-var mnemonic = "else cup box sketch fabric swim spray innocent lesson output lab deposit";
+var mnemonic = "bus just differ unfold strike report quantum margin club task treat hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "drum capable valid master mirror pulp deer typical predict song brief switch";
+var mnemonic = "observe ritual vault fork wrestle solar enhance twist away axis midnight grape";

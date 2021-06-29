@@ -1,1 +1,1 @@
-var mnemonic = "elephant tell conduct portion repair glare exist pet polar text inflict giggle";
+var mnemonic = "brass pipe foster sunny legend donkey message cousin buyer science myself swamp";

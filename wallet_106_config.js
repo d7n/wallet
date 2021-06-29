@@ -1,1 +1,1 @@
-var mnemonic = "grocery steak praise blast someone green fatigue iron resource license loud antique";
+var mnemonic = "hub mouse ostrich bubble vivid round pattern patrol entire position antique all";

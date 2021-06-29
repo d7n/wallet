@@ -1,1 +1,1 @@
-var mnemonic = "amused fork slogan pepper unit visual caught trial juice solve limit fuel";
+var mnemonic = "ship girl depend shrug beef minor task service tuition lens spot harbor";

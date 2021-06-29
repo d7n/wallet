@@ -1,1 +1,1 @@
-var mnemonic = "stereo fury blade myself float village dose symbol awful blast economy scout";
+var mnemonic = "flock slam crater dinosaur laundry castle bright until trick filter daring goddess";

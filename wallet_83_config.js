@@ -1,1 +1,1 @@
-var mnemonic = "enemy arm boss imitate elegant metal stock buddy artwork bomb enemy cloth";
+var mnemonic = "pull banana right maximum enable trial virus believe mouse depart exit silly";

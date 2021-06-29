@@ -1,1 +1,1 @@
-var mnemonic = "artwork theory result gap cart math vapor learn beauty return local tragic";
+var mnemonic = "client canoe bullet consider weekend fork front traffic miss mystery vague devote";

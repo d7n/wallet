@@ -1,1 +1,1 @@
-var mnemonic = "pulse photo mystery achieve wheat lumber behave scrap pumpkin scare exit license";
+var mnemonic = "embrace swamp become fence derive fix shy safe unaware charge surround again";

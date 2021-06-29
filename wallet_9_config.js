@@ -1,1 +1,1 @@
-var mnemonic = "camera blast odor pulse obey select bamboo casual engine olympic stove response";
+var mnemonic = "citizen try suit demise resemble expect august cheese rich select list nerve";

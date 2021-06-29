@@ -1,1 +1,1 @@
-var mnemonic = "fun unique service army draft music spot enact toast huge clog fiber";
+var mnemonic = "into vote oval idea hero baby model romance gravity visa kitchen laptop";

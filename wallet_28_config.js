@@ -1,1 +1,1 @@
-var mnemonic = "detect fatal crowd able immune rifle gossip matter episode flip walnut impose";
+var mnemonic = "bronze food parrot era fall twin mask grace glue alpha history frozen";

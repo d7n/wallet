@@ -1,1 +1,1 @@
-var mnemonic = "enemy two adjust gloom rent indoor panic belt live park toast buyer";
+var mnemonic = "shell lab distance sick search size derive color pulse bubble print skull";

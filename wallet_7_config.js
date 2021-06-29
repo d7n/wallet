@@ -1,1 +1,1 @@
-var mnemonic = "present worth slush tongue seed clinic school govern ghost dentist method group";
+var mnemonic = "duty pistol glare defy decline oil merit toast grunt then hill blade";

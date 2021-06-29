@@ -1,1 +1,1 @@
-var mnemonic = "mesh physical initial inmate make thing auction notable wrestle maid mule wild";
+var mnemonic = "tribe indoor upper eager zebra such fit myself cloth air tissue clerk";

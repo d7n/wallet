@@ -1,1 +1,1 @@
-var mnemonic = "science silent impact female quick father pretty exhaust amused lens gather vanish";
+var mnemonic = "maid vendor desk engage curtain bulb tower original turn neither minute issue";

@@ -1,1 +1,1 @@
-var mnemonic = "viable beauty hero poem spare era gain ramp ignore display video wage";
+var mnemonic = "wheat dad odor reflect entire good injury zoo stand obvious language pluck";

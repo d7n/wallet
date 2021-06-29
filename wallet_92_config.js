@@ -1,1 +1,1 @@
-var mnemonic = "advance still mushroom dilemma welcome deny bubble glass weekend device basic junior";
+var mnemonic = "ladder trip unit grain skull huge tragic unknown claw purpose veteran pact";

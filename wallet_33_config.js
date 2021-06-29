@@ -1,1 +1,1 @@
-var mnemonic = "planet one inquiry sun success version believe bench wheat morning enroll pass";
+var mnemonic = "rabbit adjust soda describe edge slow chat used olympic safe unit sing";

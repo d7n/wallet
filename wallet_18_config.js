@@ -1,1 +1,1 @@
-var mnemonic = "come pattern pen resist curtain south bleak identify neither state sniff pen";
+var mnemonic = "wasp become bachelor glare warfare raise crop motion doll become train main";

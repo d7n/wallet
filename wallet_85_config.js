@@ -1,1 +1,1 @@
-var mnemonic = "call guide thrive seed maximum ritual almost illegal error wine strong mango";
+var mnemonic = "paper awesome ladder juice lend fringe fetch drama lunch pair auto output";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog only other strong merge unable gym require online warm bind neutral";
+var mnemonic = "flat coral win walnut design wedding defense afford dinosaur gather century hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "stock hen silent border onion dry nurse hill recycle owner dry west";
+var mnemonic = "color ask tiny illegal melody cactus boost fluid record poem arrange survey";

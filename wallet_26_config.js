@@ -1,1 +1,1 @@
-var mnemonic = "plunge snack welcome strategy ribbon wasp purchase guilt misery idle wave vast";
+var mnemonic = "secret avocado margin about scrub rain vote badge tip output measure display";

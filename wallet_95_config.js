@@ -1,1 +1,1 @@
-var mnemonic = "diesel sure census shop retire try asthma kit modify mammal space document";
+var mnemonic = "shift bid napkin rubber sheriff current connect success siren human morning quote";

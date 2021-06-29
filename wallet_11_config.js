@@ -1,1 +1,1 @@
-var mnemonic = "winner curtain food season fresh oblige silent derive height item zone erosion";
+var mnemonic = "foam atom marble margin super naive use oven maximum stage heart amused";

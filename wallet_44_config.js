@@ -1,1 +1,1 @@
-var mnemonic = "right strike lamp pudding replace pumpkin tool define double initial skull cross";
+var mnemonic = "finger indicate affair ten width orange grant throw between fold behind banana";

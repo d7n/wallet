@@ -1,1 +1,1 @@
-var mnemonic = "tissue flight stand require method behave boring youth island script zone hip";
+var mnemonic = "hole bone please under always rule cabin strike exotic finish wrap verify";

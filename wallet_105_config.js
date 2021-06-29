@@ -1,1 +1,1 @@
-var mnemonic = "ribbon bright burger when lunch boat various fiscal material thunder urge guide";
+var mnemonic = "foster winter reopen interest sugar foil december embark body wolf horse merit";

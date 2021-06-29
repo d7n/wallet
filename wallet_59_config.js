@@ -1,1 +1,1 @@
-var mnemonic = "sea dentist all flame sword alert rely mushroom young latin access acid";
+var mnemonic = "dilemma collect crater ask nature basket concert slow assault oyster doll dress";

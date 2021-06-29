@@ -1,1 +1,1 @@
-var mnemonic = "source destroy leaf arch hill vicious stereo tomorrow float smoke flag door";
+var mnemonic = "trend couple tail friend opera huge ladder venue lunar chalk rate aware";

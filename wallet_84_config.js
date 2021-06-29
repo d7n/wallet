@@ -1,1 +1,1 @@
-var mnemonic = "hole faith curve drip north please misery average cement record chest hammer";
+var mnemonic = "absurd left size snake world cinnamon supreme print near skate rookie fox";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel dizzy borrow cement eternal almost length divide person cake enrich faith";
+var mnemonic = "casual silver rely galaxy bunker dwarf decrease hurdle maze modify wear column";

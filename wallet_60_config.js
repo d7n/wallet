@@ -1,1 +1,1 @@
-var mnemonic = "identify person mountain shell chase throw exhaust once document when omit diary";
+var mnemonic = "town inquiry interest rebel space drip scale dolphin file cage audit urban";

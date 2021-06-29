@@ -1,1 +1,1 @@
-var mnemonic = "drop ten fatigue hidden world tragic car ritual forest sand obscure tilt";
+var mnemonic = "genius remain swarm bubble adapt bean flee phrase habit rather loop loyal";

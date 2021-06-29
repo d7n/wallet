@@ -1,1 +1,1 @@
-var mnemonic = "around sphere morning wet easy heavy easily usage stool pool spare stage";
+var mnemonic = "claw thrive climb balance view kidney wolf ranch damp spice eight museum";

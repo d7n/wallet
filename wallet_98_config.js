@@ -1,1 +1,1 @@
-var mnemonic = "few grab fitness antenna reform harvest happy knife chicken tomorrow achieve lamp";
+var mnemonic = "upon hobby awkward program private frequent wall deputy spy scrub swarm shift";

@@ -1,1 +1,1 @@
-var mnemonic = "wool elite fan creek inflict toast oppose bike about between embark rich";
+var mnemonic = "cute tank position friend birth identify junior flee cloud involve normal medal";

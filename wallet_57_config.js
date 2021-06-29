@@ -1,1 +1,1 @@
-var mnemonic = "avocado fetch exact sadness spare average half champion lazy negative setup author";
+var mnemonic = "token soft follow hair east robust goose party pigeon decline cram jewel";

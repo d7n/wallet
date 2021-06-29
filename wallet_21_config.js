@@ -1,1 +1,1 @@
-var mnemonic = "beyond act skill mask vocal guess frown immune oblige nut shoe trip";
+var mnemonic = "lunch visit glad nice try liar picnic strike pencil snake egg brief";

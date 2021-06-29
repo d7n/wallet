@@ -1,1 +1,1 @@
-var mnemonic = "force much capital sight birth ocean dawn crunch science leaf actress reason";
+var mnemonic = "copy glance motion rival morning toy myth mean jacket uniform idle valve";

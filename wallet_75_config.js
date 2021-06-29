@@ -1,1 +1,1 @@
-var mnemonic = "end dinosaur trick opinion afford future later fat december genuine leisure abandon";
+var mnemonic = "mandate merge parade decade govern illness abandon clip monster lecture merge cable";

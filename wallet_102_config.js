@@ -1,1 +1,1 @@
-var mnemonic = "habit lyrics flavor trim meat admit shadow health beauty unknown voyage time";
+var mnemonic = "tool wonder this knock fiscal opinion script bench senior alpha language bounce";

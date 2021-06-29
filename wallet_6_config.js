@@ -1,1 +1,1 @@
-var mnemonic = "monkey subject saddle taste salt secret nuclear sun flag judge net age";
+var mnemonic = "gown virtual clog piano onion tooth meadow canoe dose tongue elite this";

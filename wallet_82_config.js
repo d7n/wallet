@@ -1,1 +1,1 @@
-var mnemonic = "scale thing major earn anchor blanket legend muffin word believe leopard pink";
+var mnemonic = "churn elite gift dry over jar hedgehog thought kingdom humor close dismiss";

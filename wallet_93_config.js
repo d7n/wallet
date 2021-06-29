@@ -1,1 +1,1 @@
-var mnemonic = "parade match joke always cattle trumpet dune coconut flavor denial lab load";
+var mnemonic = "junk quantum napkin resource improve south video hood frost network alone ugly";

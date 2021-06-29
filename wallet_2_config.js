@@ -1,1 +1,1 @@
-var mnemonic = "stem thrive aisle cabin buyer hip addict fork plug web silk extra";
+var mnemonic = "elite goat that citizen review fence section letter half orchard oyster bamboo";

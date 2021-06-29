@@ -1,1 +1,1 @@
-var mnemonic = "prepare maximum neck mandate this asthma faint balcony tribe lift belt pave";
+var mnemonic = "gaze aspect spider shop onion trim observe cereal improve antenna fatal despair";

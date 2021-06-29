@@ -1,1 +1,1 @@
-var mnemonic = "awake alarm pony bid pave virtual grid pride wrong kiss surface proud";
+var mnemonic = "devote stove scrap same long fever view number ivory peace glove east";

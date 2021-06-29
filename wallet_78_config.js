@@ -1,1 +1,1 @@
-var mnemonic = "gas cushion error vocal bubble various caution web include cactus script lumber";
+var mnemonic = "width enjoy dad fly rabbit love rhythm bone insect unique retire leader";

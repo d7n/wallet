@@ -1,1 +1,1 @@
-var mnemonic = "food way property lab girl cancel false sight off affair amateur naive";
+var mnemonic = "ghost pink game treat brother keen this two wheel tail abstract banner";

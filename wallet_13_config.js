@@ -1,1 +1,1 @@
-var mnemonic = "orient organ story quick science cigar secret boat globe regret middle dentist";
+var mnemonic = "chef prison bulk taxi page soft hockey shadow guitar actual whale regret";

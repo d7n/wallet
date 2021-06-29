@@ -1,1 +1,1 @@
-var mnemonic = "age ring brush reveal wine observe goddess permit cloth dash august suggest";
+var mnemonic = "myself universe glow seven supply never orchard mammal enhance radar already blanket";

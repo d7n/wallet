@@ -1,1 +1,1 @@
-var mnemonic = "grace symbol picture tired trophy boat glory advance proud village obey seven";
+var mnemonic = "mimic dilemma dish labor then notable outside charge toy admit total sing";

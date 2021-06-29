@@ -1,1 +1,1 @@
-var mnemonic = "wealth pepper devote amount second keep champion draft wasp cage inherit flat";
+var mnemonic = "rigid shock balance vocal person steak detect miss clay tilt very era";

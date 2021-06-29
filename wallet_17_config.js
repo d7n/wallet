@@ -1,1 +1,1 @@
-var mnemonic = "brave potato crash blur wall father smooth hole capable degree creek gun";
+var mnemonic = "panther open noise wedding hammer own angle dose stable airport fetch luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom swallow emerge actress drip pistol toy kangaroo cupboard exchange decrease drink";
+var mnemonic = "give young art good luggage dutch forward scan fiction chaos that vague";

@@ -1,1 +1,1 @@
-var mnemonic = "race width busy hole way absorb else album lyrics salad such argue";
+var mnemonic = "deliver breeze panda end muscle truth virus setup trust quality fitness close";

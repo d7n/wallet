@@ -1,1 +1,1 @@
-var mnemonic = "marine toss mammal else wire secret sugar cry skill quiz december enemy";
+var mnemonic = "kid burden slab harsh illegal rose punch siege example sugar ready cart";

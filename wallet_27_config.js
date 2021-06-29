@@ -1,1 +1,1 @@
-var mnemonic = "discover spare never embark radar that luxury salt census obey garment host";
+var mnemonic = "bulk flag fame sudden recycle betray recall humble brown loan double stadium";

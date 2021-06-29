@@ -1,1 +1,1 @@
-var mnemonic = "impulse force upset brass unveil scene poem expect fitness cruise quiz design";
+var mnemonic = "elite sure engage suspect salmon birth mountain skill around manual fault blade";

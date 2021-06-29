@@ -1,1 +1,1 @@
-var mnemonic = "pencil change guard mandate liar warrior mosquito convince infant delay human piano";
+var mnemonic = "space column dirt city prefer human present govern above slush primary mad";

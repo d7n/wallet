@@ -1,1 +1,1 @@
-var mnemonic = "share occur east warfare defy whip verb broken marriage father acoustic brain";
+var mnemonic = "wheat digital table reopen assault mail response doll crunch twin pepper barely";
