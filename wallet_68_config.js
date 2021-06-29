@@ -1,1 +1,1 @@
-var mnemonic = "uphold decade follow pair erupt sun garment glory forest upon decrease solar";
+var mnemonic = "immune police measure actual employ shadow achieve noodle remember sort admit icon";

@@ -1,1 +1,1 @@
-var mnemonic = "unit green possible fork save require cabin stem mistake shift damp coyote";
+var mnemonic = "museum acquire way labor head damp right train soon juice spice library";

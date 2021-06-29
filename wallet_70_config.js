@@ -1,1 +1,1 @@
-var mnemonic = "steel poverty fade dwarf stove jelly marine cruel neither resource whip buffalo";
+var mnemonic = "volcano bicycle hint rocket hint entire bird leader bag inside cream cigar";

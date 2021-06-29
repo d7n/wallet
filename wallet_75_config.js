@@ -1,1 +1,1 @@
-var mnemonic = "endorse brand receive engage page burden armed sentence tribe device brand science";
+var mnemonic = "arrest ripple oak ivory when gold labor shiver pink dish circle effort";

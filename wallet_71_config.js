@@ -1,1 +1,1 @@
-var mnemonic = "hold cotton crazy orbit night maple enrich slender cool cousin wire tiny";
+var mnemonic = "swear deal skate rebuild inmate twin primary rice wood liar dog ivory";

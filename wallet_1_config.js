@@ -1,1 +1,1 @@
-var mnemonic = "case outside innocent tomorrow current gun drill eight verb list off huge";
+var mnemonic = "knock ripple recycle pepper pumpkin unusual agent walnut tattoo umbrella upon ship";

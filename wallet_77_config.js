@@ -1,1 +1,1 @@
-var mnemonic = "squeeze icon hard satisfy blouse episode zebra volcano core reveal mango mosquito";
+var mnemonic = "room blossom earth mutual flip hotel road economy inmate settle scan clay";

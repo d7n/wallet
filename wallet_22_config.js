@@ -1,1 +1,1 @@
-var mnemonic = "siren achieve embrace long toy office satoshi fish dignity educate capital december";
+var mnemonic = "congress plate client people orient hub dune plastic result bachelor train filter";

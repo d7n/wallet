@@ -1,1 +1,1 @@
-var mnemonic = "sketch carbon hockey tragic people black orchard puppy busy wife tube destroy";
+var mnemonic = "inflict usual gravity thank select permit guitar universe path leisure glass flash";

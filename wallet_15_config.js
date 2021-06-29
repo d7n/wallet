@@ -1,1 +1,1 @@
-var mnemonic = "list render smart sweet blue shoulder announce base guard require hold burden";
+var mnemonic = "afraid pencil boat detect region frozen destroy inflict canoe couch coconut document";

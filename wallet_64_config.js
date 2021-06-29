@@ -1,1 +1,1 @@
-var mnemonic = "sad finger hello garment purity cousin cook please such image history shield";
+var mnemonic = "earn size agree elevator scheme erode champion popular method hill parent visual";

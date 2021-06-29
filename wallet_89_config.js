@@ -1,1 +1,1 @@
-var mnemonic = "kiss vibrant visual device surge defense digital claw chase express vicious reopen";
+var mnemonic = "garlic situate shift cry verb original confirm dirt group spin tiger width";

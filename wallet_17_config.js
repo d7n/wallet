@@ -1,1 +1,1 @@
-var mnemonic = "solve limit depend satisfy attract unique weapon coyote ecology exile foam caught";
+var mnemonic = "eyebrow raw collect hope loop hunt coconut express pluck mansion letter utility";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh convince chronic private congress marble letter crucial boring foster unfold own";
+var mnemonic = "lend crisp ethics pink cross fiscal electric amateur mass human unit cabin";

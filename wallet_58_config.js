@@ -1,1 +1,1 @@
-var mnemonic = "upset jeans walk flame resemble lottery champion feed layer medal recycle alcohol";
+var mnemonic = "heart follow impose skull distance wife picture critic sea inflict post rent";

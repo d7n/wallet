@@ -1,1 +1,1 @@
-var mnemonic = "subway orange pistol actor hospital vicious salt radar tube math runway vocal";
+var mnemonic = "shove heart benefit possible off hollow lab olympic indicate pudding mask slice";

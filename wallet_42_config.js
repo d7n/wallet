@@ -1,1 +1,1 @@
-var mnemonic = "coyote shop zone decrease bunker power kingdom salt pottery path catch foam";
+var mnemonic = "electric polar faint bulb list jungle intact impact chaos cement maple giant";

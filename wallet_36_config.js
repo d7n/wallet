@@ -1,1 +1,1 @@
-var mnemonic = "place scrap write casino lumber category return uphold scrap journey secret mixture";
+var mnemonic = "sure rib cloud test rude super recipe trial toss usual visit depend";

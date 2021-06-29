@@ -1,1 +1,1 @@
-var mnemonic = "swap jacket escape kit mix culture pledge sight airport prefer hazard marble";
+var mnemonic = "ugly volume trigger bundle february save choose acid maximum same diagram helmet";

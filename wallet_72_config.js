@@ -1,1 +1,1 @@
-var mnemonic = "mass enrich domain gauge pass used silent floor amateur garment jeans kitchen";
+var mnemonic = "more cook crawl say praise remain clap zebra sand ceiling cute raw";

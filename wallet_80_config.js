@@ -1,1 +1,1 @@
-var mnemonic = "permit start today badge athlete spider window crane alley sleep cereal snack";
+var mnemonic = "inhale caught erupt prefer atom onion sting mandate bench inside another sheriff";

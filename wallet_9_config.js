@@ -1,1 +1,1 @@
-var mnemonic = "above lazy kingdom clever social wet room hope blouse board dad imitate";
+var mnemonic = "spot loop nurse cup blush punch clinic depend zebra embrace theory they";

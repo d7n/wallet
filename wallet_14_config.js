@@ -1,1 +1,1 @@
-var mnemonic = "loop problem suspect load capital price phrase pupil beef deal together machine";
+var mnemonic = "mad dentist robust guitar mean because clown powder raw trophy slush smoke";

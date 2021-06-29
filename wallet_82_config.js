@@ -1,1 +1,1 @@
-var mnemonic = "chapter plate marriage oven lazy source pioneer lawsuit canal light panther park";
+var mnemonic = "ramp exchange author law era chat gaze economy grab mansion leave icon";

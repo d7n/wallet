@@ -1,1 +1,1 @@
-var mnemonic = "project also pair warfare vehicle year valley stick auto bubble gasp chair";
+var mnemonic = "subject staff habit oppose gravity stamp churn achieve delay snow senior citizen";

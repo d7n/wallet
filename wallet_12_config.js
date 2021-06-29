@@ -1,1 +1,1 @@
-var mnemonic = "find business film egg tiny pioneer latin balance antique negative youth ability";
+var mnemonic = "furnace apple track differ naive barely play meadow regret roast raccoon doll";

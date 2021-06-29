@@ -1,1 +1,1 @@
-var mnemonic = "beyond come bleak expire then pony claim benefit glue fuel quote property";
+var mnemonic = "jaguar two rice cricket jacket nuclear walk ripple solve feel lock vibrant";

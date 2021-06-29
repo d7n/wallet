@@ -1,1 +1,1 @@
-var mnemonic = "man fury define upper rude romance icon air model trend odor village";
+var mnemonic = "mobile glass impose child erase fat twelve unable assist drink local ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle morning clown rookie latin speak frequent rural final there render alert";
+var mnemonic = "identify use family live beef cinnamon task grape pair coconut antenna amount";

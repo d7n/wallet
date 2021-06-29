@@ -1,1 +1,1 @@
-var mnemonic = "noble liquid offer champion family great tilt hip awake wire urban else";
+var mnemonic = "soap pottery report honey avocado tip rural wrap monkey loyal detect gift";

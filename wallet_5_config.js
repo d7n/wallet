@@ -1,1 +1,1 @@
-var mnemonic = "swap track noodle jazz myself million phone disease ski desert deer myself";
+var mnemonic = "mistake boost window oval present original cabbage oak month cube cable advice";

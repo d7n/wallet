@@ -1,1 +1,1 @@
-var mnemonic = "cube vital canvas divorce report cause gallery mule aware uphold champion twelve";
+var mnemonic = "milk swallow mobile filter infant impose kingdom sorry flash satoshi buffalo maple";

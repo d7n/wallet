@@ -1,1 +1,1 @@
-var mnemonic = "load during point winner vibrant erase series save reason observe trophy gap";
+var mnemonic = "muscle name diesel praise know know nose pole suit senior arch aspect";

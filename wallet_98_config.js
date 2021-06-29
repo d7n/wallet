@@ -1,1 +1,1 @@
-var mnemonic = "uniform flame text stone tonight marriage twelve swallow fatal orient spirit struggle";
+var mnemonic = "leave soft any glare flavor want lab general group wild virtual pledge";

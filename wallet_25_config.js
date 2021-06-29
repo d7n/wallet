@@ -1,1 +1,1 @@
-var mnemonic = "staff old twenty upgrade scene situate mechanic foot fatal have average tunnel";
+var mnemonic = "peasant mixture mountain chase actress lottery angle curtain forum clever embark blush";

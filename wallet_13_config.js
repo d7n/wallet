@@ -1,1 +1,1 @@
-var mnemonic = "giant cool above call fame wheel elite arch youth kiwi strategy hand";
+var mnemonic = "among accuse tip wreck library mammal wear steel frequent hollow reopen reduce";

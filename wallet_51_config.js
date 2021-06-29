@@ -1,1 +1,1 @@
-var mnemonic = "elevator old minimum jaguar vehicle wrist danger embrace aim face wrong predict";
+var mnemonic = "decline afford identify salt champion evil pluck blossom sing manage slow east";

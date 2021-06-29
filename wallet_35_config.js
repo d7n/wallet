@@ -1,1 +1,1 @@
-var mnemonic = "burger arrow alarm ivory unhappy school cheese artefact piano web awkward assume";
+var mnemonic = "system pattern tomato right cable mom funny rigid illegal winner general slow";

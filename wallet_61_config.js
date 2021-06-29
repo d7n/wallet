@@ -1,1 +1,1 @@
-var mnemonic = "cover wire session obscure adult cool anxiety dilemma lawn client raise truth";
+var mnemonic = "delay sample guard ozone unveil damage room toy manual wealth news silk";

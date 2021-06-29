@@ -1,1 +1,1 @@
-var mnemonic = "birth juice junior asthma horn silver obvious slush hint moral smoke lumber";
+var mnemonic = "gorilla choose sure adjust disease box alter unique route infant knee kind";

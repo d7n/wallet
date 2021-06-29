@@ -1,1 +1,1 @@
-var mnemonic = "glide visit salad supply warrior summer plastic option exist viable grocery coach";
+var mnemonic = "frozen hawk title nose nurse donkey intact green ski rug pause word";

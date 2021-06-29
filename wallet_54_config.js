@@ -1,1 +1,1 @@
-var mnemonic = "satoshi miss cloth oyster income master soup wild tumble nephew zero keen";
+var mnemonic = "tuna monkey donor quick cattle warm basket wrist virus thing gentle uncover";

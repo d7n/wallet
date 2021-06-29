@@ -1,1 +1,1 @@
-var mnemonic = "arctic catalog apple fold fiscal liquid often nerve patrol picture seminar sphere";
+var mnemonic = "brain connect artist photo stable over traffic vocal balcony business kick elite";

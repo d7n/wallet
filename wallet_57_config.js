@@ -1,1 +1,1 @@
-var mnemonic = "cabbage celery menu then vendor slogan snake nasty cost measure index bulb";
+var mnemonic = "copy walk mix chair comfort benefit scissors bamboo clean enable future achieve";

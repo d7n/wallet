@@ -1,1 +1,1 @@
-var mnemonic = "protect neither sense glide flight clarify cliff struggle reform exhaust disagree cart";
+var mnemonic = "trash turn ladder empty tragic gospel century siren hire bread stem another";

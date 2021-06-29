@@ -1,1 +1,1 @@
-var mnemonic = "alarm vanish health pool nothing you lobster proud feel spike mutual embody";
+var mnemonic = "idea loan ride rose promote genuine brisk monster dry away duty quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar museum planet clinic nose dress trigger mom start abandon silly crazy";
+var mnemonic = "tide verb edit venture heart side sniff transfer that token unveil repair";

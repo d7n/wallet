@@ -1,1 +1,1 @@
-var mnemonic = "emerge finger mystery dismiss uncover bone upset tiny century transfer urban project";
+var mnemonic = "paddle awake calm anxiety produce robust dune film profit moon yellow erosion";

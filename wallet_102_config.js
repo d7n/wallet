@@ -1,1 +1,1 @@
-var mnemonic = "young indoor involve sign lunar soup ripple broom minor theme dog faculty";
+var mnemonic = "short lab giggle already scan velvet rent wolf giraffe neither buyer antique";

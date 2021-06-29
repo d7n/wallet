@@ -1,1 +1,1 @@
-var mnemonic = "primary deliver deny antique plunge tornado craft index primary fury betray dad";
+var mnemonic = "metal leisure scare black miss cluster emotion erosion seminar inside lawsuit motion";

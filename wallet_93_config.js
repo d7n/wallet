@@ -1,1 +1,1 @@
-var mnemonic = "promote baby key march love inflict drum indicate model rigid note artwork";
+var mnemonic = "extra denial few enough area item surface position orchard mixture hybrid major";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal margin another pact jewel basic frost gallery spider salad tissue crucial";
+var mnemonic = "stairs enforce area include trick project supply topic impact usage impact ghost";

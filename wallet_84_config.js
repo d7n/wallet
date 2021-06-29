@@ -1,1 +1,1 @@
-var mnemonic = "detect pride next siren upset dice ghost tail poet wear way labor";
+var mnemonic = "cluster rack stumble injury enjoy method spawn field require smile throw cart";

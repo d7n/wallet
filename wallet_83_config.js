@@ -1,1 +1,1 @@
-var mnemonic = "alter rebel suit spike lift during bunker modify runway topic jewel legal";
+var mnemonic = "repeat village provide ensure trade album program camp mosquito valid release empty";

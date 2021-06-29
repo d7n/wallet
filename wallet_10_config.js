@@ -1,1 +1,1 @@
-var mnemonic = "exhaust shine expect punch huge never must chalk soda pistol believe false";
+var mnemonic = "feel wrap fresh gospel debate devote start dirt song segment project replace";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics isolate attitude shed coach step coach pudding ozone eyebrow talk gather";
+var mnemonic = "pretty noodle ranch three ramp sheriff dose plastic antenna post city purchase";

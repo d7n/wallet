@@ -1,1 +1,1 @@
-var mnemonic = "van relief sense absorb eager erode harbor deal mechanic mind very student";
+var mnemonic = "need jewel image across exact enable humble brother diary festival timber wise";

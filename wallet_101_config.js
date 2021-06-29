@@ -1,1 +1,1 @@
-var mnemonic = "kind march spin congress deny audit taxi flip topic battle attend path";
+var mnemonic = "off good valley faith boss warm snack east twelve liberty license margin";

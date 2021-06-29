@@ -1,1 +1,1 @@
-var mnemonic = "resist volcano world pupil shop budget scrub party claim maze member route";
+var mnemonic = "palace whisper leave dragon bread rare horse style suggest mesh head rug";

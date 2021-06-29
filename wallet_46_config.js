@@ -1,1 +1,1 @@
-var mnemonic = "wear mean reward crew finger wreck credit first mystery into void black";
+var mnemonic = "average narrow nation hint come capable define trophy scrub bid again original";

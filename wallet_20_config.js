@@ -1,1 +1,1 @@
-var mnemonic = "million little check circle fiction subway danger detail attract near history physical";
+var mnemonic = "believe hospital crunch churn genre panda capable relief sunny error reveal divert";

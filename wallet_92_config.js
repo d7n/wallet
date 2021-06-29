@@ -1,1 +1,1 @@
-var mnemonic = "special fatal rice useful another home force evolve minor lazy isolate erupt";
+var mnemonic = "payment donor switch glare follow visual glance kick gauge carbon sweet multiply";

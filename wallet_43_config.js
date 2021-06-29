@@ -1,1 +1,1 @@
-var mnemonic = "dirt rally exist ordinary arm casual mercy ladder hotel type ceiling brown";
+var mnemonic = "promote tennis fiction hedgehog climb other ginger economy quantum industry together real";

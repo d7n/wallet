@@ -1,1 +1,1 @@
-var mnemonic = "matrix fossil party thank amount era fitness degree tennis poet stuff earth";
+var mnemonic = "rib fork harsh slide party olive dragon laugh bread join token easy";

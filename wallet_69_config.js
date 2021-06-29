@@ -1,1 +1,1 @@
-var mnemonic = "gasp whip trick reason fruit deputy position cheese orange nothing chaos blossom";
+var mnemonic = "deny someone seat snake you coil road race depth nut miss move";

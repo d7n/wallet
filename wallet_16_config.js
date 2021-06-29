@@ -1,1 +1,1 @@
-var mnemonic = "limit van base wall maid fruit actor curious hidden entire sniff police";
+var mnemonic = "click school lyrics flag hungry raccoon index lucky omit quit depend label";

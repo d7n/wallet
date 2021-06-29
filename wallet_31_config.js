@@ -1,1 +1,1 @@
-var mnemonic = "resemble invest hill category pave scare wage gorilla orphan cinnamon wash inherit";
+var mnemonic = "ethics clarify under blouse husband purse coffee alley narrow join athlete gadget";

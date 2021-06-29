@@ -1,1 +1,1 @@
-var mnemonic = "write pear proud major real unique feature lady feed demise broken sustain";
+var mnemonic = "category gap abuse play slim genius view such royal run ivory hedgehog";

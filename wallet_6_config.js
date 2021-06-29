@@ -1,1 +1,1 @@
-var mnemonic = "earn pelican advance slogan quarter flee surface fix load crop denial output";
+var mnemonic = "ginger total trouble defy original arch wreck hard faint traffic hill drama";

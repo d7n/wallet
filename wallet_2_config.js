@@ -1,1 +1,1 @@
-var mnemonic = "fragile speed tower boost world police better twist govern banner summer journey";
+var mnemonic = "high crater alien barely unique mammal exhaust velvet ring solid cup plastic";

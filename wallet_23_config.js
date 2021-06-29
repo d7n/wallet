@@ -1,1 +1,1 @@
-var mnemonic = "bomb guitar buyer employ angry book butter aunt chronic insect walk make";
+var mnemonic = "couch sorry antique enforce wave adult raven lonely uncover neutral jungle toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture dynamic rose repair decade casino must sadness prize magic depth fragile";
+var mnemonic = "liquid swallow leaf badge lecture draft gallery stove copy visa enact alley";

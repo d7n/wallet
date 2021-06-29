@@ -1,1 +1,1 @@
-var mnemonic = "slush love visa bulb demise grant awesome unfold bunker magnet shoot soap";
+var mnemonic = "neck over engine dynamic bag stone reveal humor misery equip popular job";

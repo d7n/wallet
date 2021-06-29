@@ -1,1 +1,1 @@
-var mnemonic = "adult action grow satoshi mixture infant beyond gun toy convince bright noise";
+var mnemonic = "police tenant young beyond area cable normal banana tag giggle loyal under";

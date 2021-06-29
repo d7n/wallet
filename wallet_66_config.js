@@ -1,1 +1,1 @@
-var mnemonic = "blossom donkey put coach siren leisure hint example resist gas witness palace";
+var mnemonic = "kiwi twenty net flee airport boil priority essence soldier loan coconut right";

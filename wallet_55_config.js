@@ -1,1 +1,1 @@
-var mnemonic = "rubber update stairs across harvest drop must plug soup game dress idle";
+var mnemonic = "allow page anxiety anger alcohol offer tide lift canoe panther palace middle";

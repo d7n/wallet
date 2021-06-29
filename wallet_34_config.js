@@ -1,1 +1,1 @@
-var mnemonic = "join witness wink shine elder eagle rural pluck anger obey umbrella dizzy";
+var mnemonic = "volume claim chronic hybrid calm satisfy devote scale rural position twice clever";

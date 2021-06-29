@@ -1,1 +1,1 @@
-var mnemonic = "farm reflect crunch various screen tragic put laptop grab member cute hammer";
+var mnemonic = "emerge pottery immune assault cement wool witness oblige admit proof elbow noodle";

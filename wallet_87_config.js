@@ -1,1 +1,1 @@
-var mnemonic = "unit leg census among stadium inside ceiling hybrid cruise swim gallery journey";
+var mnemonic = "child grass spare alley quote casual habit sweet first twin lab memory";

@@ -1,1 +1,1 @@
-var mnemonic = "knock scare train pool expose jaguar invest add spawn film anger again";
+var mnemonic = "tent gauge connect stage method flush resource chunk grab pelican glare parade";

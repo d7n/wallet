@@ -1,1 +1,1 @@
-var mnemonic = "seed aunt when wink knife cousin hospital tank spare jealous fit become";
+var mnemonic = "vocal rough hurdle retreat prison race phone embrace arctic kingdom spread pink";

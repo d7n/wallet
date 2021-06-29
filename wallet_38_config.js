@@ -1,1 +1,1 @@
-var mnemonic = "crop hen entry season hat chimney ladder change cage mimic cry summer";
+var mnemonic = "document radar what else gift turkey way coffee lawsuit grocery island engine";

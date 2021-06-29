@@ -1,1 +1,1 @@
-var mnemonic = "ancient shield agree smoke survey spike mosquito mercy embrace suffer snap intact";
+var mnemonic = "hockey knife inquiry holiday slogan cage merry trouble ability dose ball carpet";

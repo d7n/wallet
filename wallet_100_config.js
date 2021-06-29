@@ -1,1 +1,1 @@
-var mnemonic = "blossom charge island habit orange victory spawn melody alert struggle problem board";
+var mnemonic = "model solve fox cash balance battle force payment moral copy omit story";

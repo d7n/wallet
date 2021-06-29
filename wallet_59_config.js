@@ -1,1 +1,1 @@
-var mnemonic = "simple orphan visit pet cover venue daughter pencil false jacket silk country";
+var mnemonic = "able upon owner author clay approve buddy whale friend rely crane link";

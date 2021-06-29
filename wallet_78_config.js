@@ -1,1 +1,1 @@
-var mnemonic = "diagram torch release brush theory settle robust crazy fault disagree coach dream";
+var mnemonic = "viable tattoo under dutch state fox shoulder enroll hope lend furnace bubble";

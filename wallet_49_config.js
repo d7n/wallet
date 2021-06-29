@@ -1,1 +1,1 @@
-var mnemonic = "grass shoulder symbol traffic raw life face door possible moment finger copy";
+var mnemonic = "attack adult addict vast ticket quantum sample genuine frown nuclear obvious tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "critic setup quarter genius neck image alter lunch average tonight knee cover";
+var mnemonic = "pilot story collect wing wedding awesome adapt warrior finger draft flip napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "roof kit toy rebuild animal uniform invest practice pact vault panic panda";
+var mnemonic = "length hero length elegant journey shadow maximum link bullet govern sea million";

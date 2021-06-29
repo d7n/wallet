@@ -1,1 +1,1 @@
-var mnemonic = "mandate film final runway couple alcohol genuine wise uncle rival expire dice";
+var mnemonic = "push affair object inch knee cotton champion claim stove friend rich coin";

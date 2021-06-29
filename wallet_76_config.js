@@ -1,1 +1,1 @@
-var mnemonic = "argue amused street world result ancient conduct genuine virtual trumpet canoe major";
+var mnemonic = "man ramp foot dumb sausage spell bomb fix sphere marriage hospital crush";

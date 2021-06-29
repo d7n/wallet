@@ -1,1 +1,1 @@
-var mnemonic = "special hour segment spoil square say rely hurt spice write planet snow";
+var mnemonic = "goat name secret depend estate gorilla holiday sister phrase clinic siren leader";

@@ -1,1 +1,1 @@
-var mnemonic = "charge artefact enable snow clip orchard any cave lemon method aspect design";
+var mnemonic = "genuine fossil useless avocado flame either love owner chase way merge poet";

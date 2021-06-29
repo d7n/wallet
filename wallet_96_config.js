@@ -1,1 +1,1 @@
-var mnemonic = "own away feature regular ecology enter vacuum vehicle agree tuna angle despair";
+var mnemonic = "figure six gallery gather cat cotton country manage neglect worry cinnamon curious";

@@ -1,1 +1,1 @@
-var mnemonic = "battle client wash charge minute gossip lend frame flag universe iron wage";
+var mnemonic = "staff minute ocean body pigeon clutch intact device clock flame rhythm gadget";

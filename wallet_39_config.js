@@ -1,1 +1,1 @@
-var mnemonic = "protect scorpion neutral truly monster snow adapt layer gate march outdoor hello";
+var mnemonic = "sketch health theme elephant tourist arrange pact ranch deer cruel fox foster";

@@ -1,1 +1,1 @@
-var mnemonic = "drive trigger glove trumpet inject hotel crunch ghost bulb kiss intact change";
+var mnemonic = "like rough broccoli agent duck universe cream sell alert weapon globe era";
