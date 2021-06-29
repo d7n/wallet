@@ -1,1 +1,1 @@
-var mnemonic = "fat music tent route glow exchange join food lift deputy dream pigeon";
+var mnemonic = "elephant tell conduct portion repair glare exist pet polar text inflict giggle";

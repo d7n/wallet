@@ -1,1 +1,1 @@
-var mnemonic = "fade cruise expose reveal wine small notice prosper duck media nut truly";
+var mnemonic = "tissue flight stand require method behave boring youth island script zone hip";

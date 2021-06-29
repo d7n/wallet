@@ -1,1 +1,1 @@
-var mnemonic = "ability trumpet express loyal vital forum badge palm banana setup merry seek";
+var mnemonic = "stem thrive aisle cabin buyer hip addict fork plug web silk extra";

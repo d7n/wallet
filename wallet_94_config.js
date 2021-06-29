@@ -1,1 +1,1 @@
-var mnemonic = "december pill shaft toast crumble remain dog metal stand sport there mammal";
+var mnemonic = "eyebrow awesome fame lemon occur radio flag vocal salon amount now version";

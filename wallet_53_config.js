@@ -1,1 +1,1 @@
-var mnemonic = "flag tunnel stone kiss sketch inner reveal just pilot citizen royal inch";
+var mnemonic = "develop hub salt axis observe whisper rival assist screen frame ready hole";

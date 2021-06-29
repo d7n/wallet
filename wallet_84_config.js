@@ -1,1 +1,1 @@
-var mnemonic = "cluster excuse embody wash month maple globe lawsuit column lion then coach";
+var mnemonic = "hole faith curve drip north please misery average cement record chest hammer";

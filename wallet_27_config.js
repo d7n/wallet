@@ -1,1 +1,1 @@
-var mnemonic = "shine film feed garage quarter hurt subway gym manual matter buddy anger";
+var mnemonic = "discover spare never embark radar that luxury salt census obey garment host";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious hybrid thank evil toddler before steel key trophy ranch summer praise";
+var mnemonic = "strong recycle enroll awful upper media upon shiver miss clutch detect obscure";

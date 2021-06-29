@@ -1,1 +1,1 @@
-var mnemonic = "barrel abandon across salon public thunder wink arrange process length first praise";
+var mnemonic = "few grab fitness antenna reform harvest happy knife chicken tomorrow achieve lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "cross unfair vague shadow ramp ritual acquire busy mammal glad all gravity";
+var mnemonic = "squirrel aspect program lava treat bind school grace lecture upgrade model road";

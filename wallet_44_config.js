@@ -1,1 +1,1 @@
-var mnemonic = "lamp renew invite agree box into pond era lumber useful rule square";
+var mnemonic = "right strike lamp pudding replace pumpkin tool define double initial skull cross";

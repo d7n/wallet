@@ -1,1 +1,1 @@
-var mnemonic = "banner apart output intact address prefer law boil oyster wonder clown hold";
+var mnemonic = "ribbon bright burger when lunch boat various fiscal material thunder urge guide";

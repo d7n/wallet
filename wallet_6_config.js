@@ -1,1 +1,1 @@
-var mnemonic = "subway hidden gap junk slot surge grain alien document blind wrist join";
+var mnemonic = "monkey subject saddle taste salt secret nuclear sun flag judge net age";

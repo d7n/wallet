@@ -1,1 +1,1 @@
-var mnemonic = "retire welcome doll conduct rescue person off twelve window gadget crystal plunge";
+var mnemonic = "amused fork slogan pepper unit visual caught trial juice solve limit fuel";

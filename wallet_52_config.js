@@ -1,1 +1,1 @@
-var mnemonic = "crime various renew injury giggle sunset unhappy neither able sheriff coil advice";
+var mnemonic = "force much capital sight birth ocean dawn crunch science leaf actress reason";

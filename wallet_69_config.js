@@ -1,1 +1,1 @@
-var mnemonic = "abandon access bench verb march atom meadow sick vivid speed winter alone";
+var mnemonic = "long match slice trick iron foil debate jump until broom goat awkward";

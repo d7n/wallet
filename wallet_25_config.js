@@ -1,1 +1,1 @@
-var mnemonic = "document blush carry wet exotic bundle ethics woman trash seat grow that";
+var mnemonic = "genius casual robust donate era pizza renew sausage pink actual hero output";

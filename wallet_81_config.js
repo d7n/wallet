@@ -1,1 +1,1 @@
-var mnemonic = "black youth cost clock slim energy match wage impulse keep violin illegal";
+var mnemonic = "business law leopard clerk cost sound kiwi taxi cheese fix taxi token";

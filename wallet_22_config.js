@@ -1,1 +1,1 @@
-var mnemonic = "length valve elevator scale benefit dizzy meat another plunge disorder tooth inherit";
+var mnemonic = "image notable pact dutch tilt busy tube coil rally maid follow profit";

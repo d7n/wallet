@@ -1,1 +1,1 @@
-var mnemonic = "pass friend use dice erosion poem price number impact emerge now rebel";
+var mnemonic = "sea dentist all flame sword alert rely mushroom young latin access acid";

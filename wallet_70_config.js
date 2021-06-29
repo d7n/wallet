@@ -1,1 +1,1 @@
-var mnemonic = "aisle collect dove cool zoo spend domain tonight remember jazz robot middle";
+var mnemonic = "pulse photo mystery achieve wheat lumber behave scrap pumpkin scare exit license";

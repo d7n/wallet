@@ -1,1 +1,1 @@
-var mnemonic = "enemy pizza caught actual bike lyrics wine hire silk mechanic crucial pistol";
+var mnemonic = "defy day build index guide age surprise gloom plate rotate double miss";

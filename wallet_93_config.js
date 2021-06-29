@@ -1,1 +1,1 @@
-var mnemonic = "attack crunch alarm day first arm throw seed fan virus mosquito seminar";
+var mnemonic = "parade match joke always cattle trumpet dune coconut flavor denial lab load";

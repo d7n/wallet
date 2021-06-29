@@ -1,1 +1,1 @@
-var mnemonic = "cargo main tunnel cotton sausage cloth allow lunch vapor bridge runway child";
+var mnemonic = "end dinosaur trick opinion afford future later fat december genuine leisure abandon";

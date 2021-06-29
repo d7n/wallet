@@ -1,1 +1,1 @@
-var mnemonic = "sample whale deputy radio torch remove identify skill affair width cover depend";
+var mnemonic = "artwork theory result gap cart math vapor learn beauty return local tragic";

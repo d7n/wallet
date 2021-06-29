@@ -1,1 +1,1 @@
-var mnemonic = "relax duck cage cool hurry foot isolate fruit ivory absurd mountain general";
+var mnemonic = "super warm buzz loan add sample anxiety control include daughter math mistake";

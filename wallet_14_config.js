@@ -1,1 +1,1 @@
-var mnemonic = "industry barely balcony true much across infant record ask enter arena congress";
+var mnemonic = "immune danger clarify juice physical excess tool sell fresh dolphin amateur plunge";

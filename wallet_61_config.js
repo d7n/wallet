@@ -1,1 +1,1 @@
-var mnemonic = "congress sentence melt laugh green put opinion history saddle steak young path";
+var mnemonic = "marine toss mammal else wire secret sugar cry skill quiz december enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "air occur expand appear abandon wedding boat wine essay canal surge urban";
+var mnemonic = "early tree opera review piano direct sweet sunny motor blanket west execute";

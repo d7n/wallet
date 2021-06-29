@@ -1,1 +1,1 @@
-var mnemonic = "turkey educate around govern subject shove crop domain swap bundle clutch inch";
+var mnemonic = "identify person mountain shell chase throw exhaust once document when omit diary";

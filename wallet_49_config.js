@@ -1,1 +1,1 @@
-var mnemonic = "apart symptom spatial frequent trick move sniff atom foster decorate main catalog";
+var mnemonic = "share occur east warfare defy whip verb broken marriage father acoustic brain";

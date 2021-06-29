@@ -1,1 +1,1 @@
-var mnemonic = "meat before moment guide test brick place school stadium stable flock news";
+var mnemonic = "around sphere morning wet easy heavy easily usage stool pool spare stage";

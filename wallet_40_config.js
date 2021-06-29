@@ -1,1 +1,1 @@
-var mnemonic = "human swallow crunch quarter wealth stamp radio baby attitude survey casino female";
+var mnemonic = "color nose baby force lottery witness chase wine make august juice rose";

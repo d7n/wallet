@@ -1,1 +1,1 @@
-var mnemonic = "joke describe much license between sunset then fantasy reopen high consider leave";
+var mnemonic = "slice sail allow direct fog scrub bar give text hire glimpse timber";

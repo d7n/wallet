@@ -1,1 +1,1 @@
-var mnemonic = "home rice dragon model team trip math great hockey nephew denial transfer";
+var mnemonic = "present worth slush tongue seed clinic school govern ghost dentist method group";

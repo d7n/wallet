@@ -1,1 +1,1 @@
-var mnemonic = "inside ugly hello build wear metal behave brain exact walk rival similar";
+var mnemonic = "grocery steak praise blast someone green fatigue iron resource license loud antique";

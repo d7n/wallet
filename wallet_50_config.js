@@ -1,1 +1,1 @@
-var mnemonic = "success clock crew ranch glare arrange shoe world frozen offer tonight small";
+var mnemonic = "hedgehog only other strong merge unable gym require online warm bind neutral";

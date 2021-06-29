@@ -1,1 +1,1 @@
-var mnemonic = "price food dress among allow panel all tornado fantasy one antenna try";
+var mnemonic = "stock hen silent border onion dry nurse hill recycle owner dry west";

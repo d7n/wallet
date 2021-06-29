@@ -1,1 +1,1 @@
-var mnemonic = "beach bulk derive plug total hood ensure safe float gas suspect tomato";
+var mnemonic = "face idea nothing obtain cement grow bronze hurdle patrol couch leopard thing";

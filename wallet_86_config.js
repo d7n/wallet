@@ -1,1 +1,1 @@
-var mnemonic = "raven aisle van gauge defense galaxy way blanket van ceiling cotton grocery";
+var mnemonic = "wool elite fan creek inflict toast oppose bike about between embark rich";

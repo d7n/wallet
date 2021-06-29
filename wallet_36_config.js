@@ -1,1 +1,1 @@
-var mnemonic = "limit issue wealth lawn pyramid grid electric eagle rib wolf hollow include";
+var mnemonic = "impulse force upset brass unveil scene poem expect fitness cruise quiz design";

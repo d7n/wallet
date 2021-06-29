@@ -1,1 +1,1 @@
-var mnemonic = "tag net celery nuclear bar warm super alarm ship host apart nuclear";
+var mnemonic = "enemy arm boss imitate elegant metal stock buddy artwork bomb enemy cloth";

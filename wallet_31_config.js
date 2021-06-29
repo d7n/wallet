@@ -1,1 +1,1 @@
-var mnemonic = "tattoo adapt position start drop series indoor seek silent pottery dawn resemble";
+var mnemonic = "damage valley health alcohol life horse bullet essay floor flag decrease alter";

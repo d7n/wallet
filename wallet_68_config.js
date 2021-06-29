@@ -1,1 +1,1 @@
-var mnemonic = "copper sunset rib boost cool arctic carbon island rude today adapt skate";
+var mnemonic = "age ring brush reveal wine observe goddess permit cloth dash august suggest";

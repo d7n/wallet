@@ -1,1 +1,1 @@
-var mnemonic = "proof miss pole advice mouse cram motor ghost mistake unit enroll deputy";
+var mnemonic = "display general promote trade gadget unlock drum sock lesson pass expand engage";

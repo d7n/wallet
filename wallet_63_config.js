@@ -1,1 +1,1 @@
-var mnemonic = "pass creek thank salmon cabbage brief clap notice slim scheme anger toast";
+var mnemonic = "hero involve shield sound oak avoid decorate accuse silent cheese hurry surface";

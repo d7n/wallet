@@ -1,1 +1,1 @@
-var mnemonic = "output come job level spike under general later exchange glass tunnel razor";
+var mnemonic = "power session put huge equal curious couch around marble illness laundry chalk";

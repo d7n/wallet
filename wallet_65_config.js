@@ -1,1 +1,1 @@
-var mnemonic = "behave gather detail else rebuild obvious pond close crowd number frame clutch";
+var mnemonic = "awake alarm pony bid pave virtual grid pride wrong kiss surface proud";

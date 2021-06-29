@@ -1,1 +1,1 @@
-var mnemonic = "satoshi rare multiply install jealous spread resist bulk miracle myself assist cabin";
+var mnemonic = "poverty wave leaf pond armed reason hedgehog indicate credit cereal virtual oil";

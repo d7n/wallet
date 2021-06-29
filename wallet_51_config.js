@@ -1,1 +1,1 @@
-var mnemonic = "oil dune sign crumble swap grass boss question east pretty never normal";
+var mnemonic = "scrap sunset lucky sad pause seven gather whale transfer height auto tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "hole cram milk sustain glue point chat tornado decrease six income moon";
+var mnemonic = "planet one inquiry sun success version believe bench wheat morning enroll pass";

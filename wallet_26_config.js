@@ -1,1 +1,1 @@
-var mnemonic = "stem bonus fiber lion inhale object there burst kangaroo aim desk grape";
+var mnemonic = "plunge snack welcome strategy ribbon wasp purchase guilt misery idle wave vast";

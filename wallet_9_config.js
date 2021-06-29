@@ -1,1 +1,1 @@
-var mnemonic = "sell nose define own shift spice illegal famous inform poet switch finger";
+var mnemonic = "camera blast odor pulse obey select bamboo casual engine olympic stove response";

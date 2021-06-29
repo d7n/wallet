@@ -1,1 +1,1 @@
-var mnemonic = "disorder prevent auction winter apart tumble ranch quality mango garden off album";
+var mnemonic = "winner curtain food season fresh oblige silent derive height item zone erosion";

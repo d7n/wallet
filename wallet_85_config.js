@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo mesh mutual rival lizard amazing fiscal hawk leave weekend glow peace";
+var mnemonic = "call guide thrive seed maximum ritual almost illegal error wine strong mango";

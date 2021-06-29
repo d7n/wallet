@@ -1,1 +1,1 @@
-var mnemonic = "august salute lecture hello orient reject lyrics stove caution person company income";
+var mnemonic = "beyond act skill mask vocal guess frown immune oblige nut shoe trip";

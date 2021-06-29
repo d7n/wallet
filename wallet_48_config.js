@@ -1,1 +1,1 @@
-var mnemonic = "ladder soft rubber spoil ritual scrap alarm reflect undo cave couch retire";
+var mnemonic = "race width busy hole way absorb else album lyrics salad such argue";

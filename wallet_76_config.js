@@ -1,1 +1,1 @@
-var mnemonic = "yard journey motion bid board couch leg brass song dance upper enforce";
+var mnemonic = "grace symbol picture tired trophy boat glory advance proud village obey seven";

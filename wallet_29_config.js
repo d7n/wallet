@@ -1,1 +1,1 @@
-var mnemonic = "tackle stomach laundry width escape pulp spy shine october bless index radio";
+var mnemonic = "pencil change guard mandate liar warrior mosquito convince infant delay human piano";

@@ -1,1 +1,1 @@
-var mnemonic = "call elegant skill betray shock abandon turtle float friend physical process shiver";
+var mnemonic = "labor convince want nerve because riot lonely fabric caught craft scatter photo";

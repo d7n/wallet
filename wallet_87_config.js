@@ -1,1 +1,1 @@
-var mnemonic = "drive frozen horse switch warrior flock erupt wife auto unable strong uncle";
+var mnemonic = "aisle escape taste slender system vanish convince thank vault civil cost ripple";

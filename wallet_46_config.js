@@ -1,1 +1,1 @@
-var mnemonic = "opinion matrix below skull theory worth bottom bracket lemon symptom service program";
+var mnemonic = "leave velvet sleep angry left replace peasant wise evidence paddle marine taste";

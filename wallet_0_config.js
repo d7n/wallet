@@ -1,1 +1,1 @@
-var mnemonic = "twelve scissors perfect meat verb affair click eternal attract area route fever";
+var mnemonic = "juice submit avoid consider board survey calm save senior knife hawk charge";

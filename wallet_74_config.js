@@ -1,1 +1,1 @@
-var mnemonic = "letter genre dirt real embark valid differ journey actual animal sudden cloth";
+var mnemonic = "digital melt suit inch noodle base all lumber issue since artist pool";

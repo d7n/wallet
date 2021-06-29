@@ -1,1 +1,1 @@
-var mnemonic = "carpet any wire swing swamp penalty whale infant sausage judge book distance";
+var mnemonic = "school promote dish frame rent hundred analyst right wall course income insect";

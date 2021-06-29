@@ -1,1 +1,1 @@
-var mnemonic = "frost little giraffe catalog walnut dress pony tackle economy ginger uncle food";
+var mnemonic = "enemy two adjust gloom rent indoor panic belt live park toast buyer";

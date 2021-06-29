@@ -1,1 +1,1 @@
-var mnemonic = "piece brand lesson stumble source current word tennis satisfy depart celery nation";
+var mnemonic = "damage vessel angry slight alley worth inner gloom hurry shrimp then into";

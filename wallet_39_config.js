@@ -1,1 +1,1 @@
-var mnemonic = "spin zebra melt arena chief island faith horse device eight nephew mansion";
+var mnemonic = "cradle bounce indicate liberty warfare banner joke erupt belt portion busy motor";

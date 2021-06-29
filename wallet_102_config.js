@@ -1,1 +1,1 @@
-var mnemonic = "between assault dilemma memory tissue choice apple goddess spell fame alert exotic";
+var mnemonic = "habit lyrics flavor trim meat admit shadow health beauty unknown voyage time";

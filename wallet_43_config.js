@@ -1,1 +1,1 @@
-var mnemonic = "tip wife false jewel they master wolf anxiety twice loyal wonder hood";
+var mnemonic = "mushroom swallow emerge actress drip pistol toy kangaroo cupboard exchange decrease drink";

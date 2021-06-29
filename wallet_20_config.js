@@ -1,1 +1,1 @@
-var mnemonic = "arrive park ketchup popular about baby announce balance inmate find warfare able";
+var mnemonic = "art same amused rude gasp monster agent drum shaft judge salt creek";

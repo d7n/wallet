@@ -1,1 +1,1 @@
-var mnemonic = "garbage blade coffee account spot roof cigar snake knife clutch legend any";
+var mnemonic = "come pattern pen resist curtain south bleak identify neither state sniff pen";

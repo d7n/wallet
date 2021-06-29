@@ -1,1 +1,1 @@
-var mnemonic = "output icon physical aspect tonight material ask zone million try fold panther";
+var mnemonic = "wealth pepper devote amount second keep champion draft wasp cage inherit flat";

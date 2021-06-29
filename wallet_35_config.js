@@ -1,1 +1,1 @@
-var mnemonic = "tomato oblige sign exit pave mixture depart other net tape group tortoise";
+var mnemonic = "much veteran salute audit more chronic ribbon melt save stuff candy defense";

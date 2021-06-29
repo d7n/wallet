@@ -1,1 +1,1 @@
-var mnemonic = "current day chef wheel proof source warrior drift keen cheap tissue where";
+var mnemonic = "rack card today unusual that fragile detect arrange piano domain universe mutual";

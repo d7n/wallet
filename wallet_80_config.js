@@ -1,1 +1,1 @@
-var mnemonic = "stand visual asset throw priority stem inside initial donate loyal journey escape";
+var mnemonic = "section mom fashion fee purpose art tell example shoe gold already credit";

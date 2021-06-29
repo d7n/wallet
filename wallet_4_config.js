@@ -1,1 +1,1 @@
-var mnemonic = "cry couple light sample cute alter cabin chunk brand tilt foil purchase";
+var mnemonic = "prepare maximum neck mandate this asthma faint balcony tribe lift belt pave";

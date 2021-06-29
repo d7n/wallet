@@ -1,1 +1,1 @@
-var mnemonic = "age hobby search empty fork rather merit twelve trip west betray wild";
+var mnemonic = "brave potato crash blur wall father smooth hole capable degree creek gun";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic coin fuel spread glue develop physical person better torch evoke puppy";
+var mnemonic = "magnet ten zebra collect retreat pulp multiply shuffle exact blade raise six";

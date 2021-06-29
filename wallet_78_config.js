@@ -1,1 +1,1 @@
-var mnemonic = "grocery gold foil install icon nut blanket dizzy pole brisk analyst multiply";
+var mnemonic = "gas cushion error vocal bubble various caution web include cactus script lumber";

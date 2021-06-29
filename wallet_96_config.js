@@ -1,1 +1,1 @@
-var mnemonic = "audit lava gospel uncle top various learn tired blur power slight ski";
+var mnemonic = "else cup box sketch fabric swim spray innocent lesson output lab deposit";

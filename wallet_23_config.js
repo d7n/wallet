@@ -1,1 +1,1 @@
-var mnemonic = "castle filter diagram junior slim remember rough position donor crazy short history";
+var mnemonic = "source destroy leaf arch hill vicious stereo tomorrow float smoke flag door";

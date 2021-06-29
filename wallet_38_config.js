@@ -1,1 +1,1 @@
-var mnemonic = "muffin very trophy direct pelican lounge moon front interest inch tomorrow carbon";
+var mnemonic = "smile zero upon demise evolve token elite prepare arctic worth clump this";
