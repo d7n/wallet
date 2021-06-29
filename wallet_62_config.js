@@ -1,1 +1,1 @@
-var mnemonic = "traffic bright rug render page worth sad banner attack text raven total";
+var mnemonic = "leave erupt modify skull ripple bridge burger road trip nasty prefer episode";

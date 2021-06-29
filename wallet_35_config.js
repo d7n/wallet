@@ -1,1 +1,1 @@
-var mnemonic = "caught coil earn among auto vehicle object patch already fashion speak angle";
+var mnemonic = "elite pupil drastic repair country swap panic truck play bike mixture until";

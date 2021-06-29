@@ -1,1 +1,1 @@
-var mnemonic = "tank fun ten dynamic volcano truck upset anxiety common unusual defense sample";
+var mnemonic = "dish toe glow dice hammer nice speak omit burst oil thrive rib";

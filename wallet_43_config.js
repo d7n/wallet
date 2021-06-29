@@ -1,1 +1,1 @@
-var mnemonic = "artwork clap peanut photo over fault air scorpion poem cool rough boring";
+var mnemonic = "journey property country hold volume bonus pact accident virus jealous utility flame";

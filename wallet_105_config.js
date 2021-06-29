@@ -1,1 +1,1 @@
-var mnemonic = "steak alien another grass screen scheme fall chunk health wheel city siege";
+var mnemonic = "acoustic finish dentist special prefer upon assist power title supply pen near";

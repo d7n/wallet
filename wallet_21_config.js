@@ -1,1 +1,1 @@
-var mnemonic = "midnight doctor layer soup zoo peanut elephant save erase notable fiscal enemy";
+var mnemonic = "loop exist arctic battle knee police crane minor cargo output marine kite";

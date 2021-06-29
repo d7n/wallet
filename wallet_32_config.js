@@ -1,1 +1,1 @@
-var mnemonic = "road suggest always retreat credit become head wedding army skirt horror they";
+var mnemonic = "acquire fold earn inmate science upset brush earth disorder yard tomato evidence";

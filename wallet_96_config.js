@@ -1,1 +1,1 @@
-var mnemonic = "unit good bomb dragon result rich weird kind slight canyon foot useless";
+var mnemonic = "lake bring tissue orphan announce wire achieve poet tomato okay stadium record";

@@ -1,1 +1,1 @@
-var mnemonic = "delay apple affair noise stone gather cat pumpkin coach talk nature power";
+var mnemonic = "smile draw guess magnet cluster vapor glad kidney aim motion kidney melt";

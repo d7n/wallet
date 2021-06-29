@@ -1,1 +1,1 @@
-var mnemonic = "area poet cactus valley calm explain daring pen opinion dawn sphere few";
+var mnemonic = "need enhance vintage excess ball vapor used venture forward odor pink gospel";

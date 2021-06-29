@@ -1,1 +1,1 @@
-var mnemonic = "sign two cycle title funny ensure attract gauge stool scout glare change";
+var mnemonic = "two goose obey fortune choose blame resemble damp any funny canoe stomach";

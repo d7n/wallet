@@ -1,1 +1,1 @@
-var mnemonic = "maid true cereal cotton rose detail mobile regular diary solid guess view";
+var mnemonic = "museum lamp step slogan sphere ozone filter pulp tribe lazy obvious mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "motion twelve merge wagon change magic portion ill onion person enjoy clip";
+var mnemonic = "bike wife minute fly tell nasty into search insane one rough base";

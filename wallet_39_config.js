@@ -1,1 +1,1 @@
-var mnemonic = "abuse quiz false quantum smooth timber defense refuse liberty mail february battle";
+var mnemonic = "stand either vocal banana close two myself cradle seed weekend frog claw";

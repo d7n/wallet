@@ -1,1 +1,1 @@
-var mnemonic = "vital spring kid vintage note bread tent adapt brother any symptom plug";
+var mnemonic = "idea ten hero fork ready crush confirm similar hawk keen ankle ivory";

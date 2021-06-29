@@ -1,1 +1,1 @@
-var mnemonic = "usual cube honey public brief around learn chronic torch monster debate head";
+var mnemonic = "genuine toward leader lady loop urge addict dismiss pupil steak select chuckle";

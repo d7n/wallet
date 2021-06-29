@@ -1,1 +1,1 @@
-var mnemonic = "prefer alert drill cricket resource normal team asthma install scheme arctic wink";
+var mnemonic = "source stage alter tonight slot drive deer amazing letter reduce coast list";

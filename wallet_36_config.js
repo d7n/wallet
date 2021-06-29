@@ -1,1 +1,1 @@
-var mnemonic = "peanut motion pet flag farm please rare patch cancel bounce oval message";
+var mnemonic = "oblige disease execute burden outer rally drink stuff crucial add black choice";

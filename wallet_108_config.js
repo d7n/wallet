@@ -1,1 +1,1 @@
-var mnemonic = "rifle doll atom echo agent melody kidney topic floor social celery success";
+var mnemonic = "lobster when boil ball tragic cart nest asthma nephew term mansion anger";

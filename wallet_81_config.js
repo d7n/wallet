@@ -1,1 +1,1 @@
-var mnemonic = "exotic super food drip what kind enemy brick swarm attend snake onion";
+var mnemonic = "mutual guard enjoy sausage expect wide own blind stem similar crater member";

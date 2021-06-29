@@ -1,1 +1,1 @@
-var mnemonic = "frozen rare small crane weapon rail play orchard reason episode thumb train";
+var mnemonic = "spare cushion movie drink immune message ivory front noble alpha fox vital";

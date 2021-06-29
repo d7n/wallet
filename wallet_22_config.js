@@ -1,1 +1,1 @@
-var mnemonic = "find churn latin dumb actor into wing during resemble senior tomorrow still";
+var mnemonic = "minor shoulder skull album tragic agree culture retire habit blouse tenant tank";

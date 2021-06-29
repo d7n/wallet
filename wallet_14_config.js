@@ -1,1 +1,1 @@
-var mnemonic = "find ugly leaf swift safe badge chair tomato nothing coconut supreme best";
+var mnemonic = "want interest roast virtual labor quote clay bundle interest mobile pass happy";

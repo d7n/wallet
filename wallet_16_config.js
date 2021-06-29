@@ -1,1 +1,1 @@
-var mnemonic = "fetch clump donate rice system chronic deliver bachelor illegal cloud disorder code";
+var mnemonic = "crane time give charge gas ostrich clutch artefact aisle rib smart rapid";

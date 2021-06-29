@@ -1,1 +1,1 @@
-var mnemonic = "giant sweet steak record celery wing economy subject subway clean face antique";
+var mnemonic = "eyebrow echo bid roast spend flight correct viable accuse filter any adjust";

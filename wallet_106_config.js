@@ -1,1 +1,1 @@
-var mnemonic = "foam screen coyote recycle void borrow wave busy tomorrow pottery nest sponsor";
+var mnemonic = "type together camp grit raccoon race loud inject hungry rival sure oxygen";

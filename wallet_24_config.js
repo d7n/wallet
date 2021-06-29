@@ -1,1 +1,1 @@
-var mnemonic = "flame honey mansion asset left alert fuel cup filter dawn goddess flower";
+var mnemonic = "acquire devote body nut canal celery primary tunnel ten scrub exist blast";

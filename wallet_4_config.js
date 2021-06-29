@@ -1,1 +1,1 @@
-var mnemonic = "note beach build decrease pretty abuse fade industry theme decorate network offer";
+var mnemonic = "film phrase radar uniform close dilemma topple employ tree crowd calm business";

@@ -1,1 +1,1 @@
-var mnemonic = "record leaf book harsh benefit comic trial prefer street bargain blanket close";
+var mnemonic = "identify library real evolve solar car decade barely february pretty novel kick";

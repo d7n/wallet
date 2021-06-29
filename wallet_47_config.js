@@ -1,1 +1,1 @@
-var mnemonic = "expand damp opera radar abandon visa obtain gas wrestle fragile post option";
+var mnemonic = "order increase focus cannon total lab apart topple truly beauty also ensure";

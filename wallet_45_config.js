@@ -1,1 +1,1 @@
-var mnemonic = "donor exist vessel gate swamp dizzy sorry birth copy saddle tube tackle";
+var mnemonic = "rookie credit mule symbol vapor clog exist spoon matter roof special mask";

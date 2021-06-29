@@ -1,1 +1,1 @@
-var mnemonic = "same fetch same toast pitch remove pride receive live walnut best tonight";
+var mnemonic = "wolf shoe struggle noble stove cry best error pumpkin myth acoustic chat";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans strike found chair purpose barrel upset plunge hover casual broom chef";
+var mnemonic = "civil jealous laugh verify unaware disagree office anger round will absurd message";

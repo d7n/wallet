@@ -1,1 +1,1 @@
-var mnemonic = "deer rural oxygen song smile vacant fade jazz spread load enforce gesture";
+var mnemonic = "chaos hammer earn board define avocado indicate adapt forest junior dentist teach";

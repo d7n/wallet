@@ -1,1 +1,1 @@
-var mnemonic = "fancy cruise citizen license air size voice duty bid rival marriage proof";
+var mnemonic = "trial rib once asset error off parade dish valid pet sauce echo";

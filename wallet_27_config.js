@@ -1,1 +1,1 @@
-var mnemonic = "network dice reason job truth team marble wasp depart giggle lottery luggage";
+var mnemonic = "work horn pig tobacco glass foster supreme unit orphan eternal teach where";

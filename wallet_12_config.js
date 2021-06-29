@@ -1,1 +1,1 @@
-var mnemonic = "wonder blast roast blast poem reveal smile lens middle infant calm hospital";
+var mnemonic = "october faith cherry oil funny grit blush lamp tissue razor orchard pass";

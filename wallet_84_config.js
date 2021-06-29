@@ -1,1 +1,1 @@
-var mnemonic = "prison cluster slow input chase water resource sponsor season lift there garment";
+var mnemonic = "hold state blind victory sunny gallery dry thank fade involve isolate dream";

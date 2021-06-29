@@ -1,1 +1,1 @@
-var mnemonic = "chuckle major rabbit pepper web leader warrior kid chase damp cave suggest";
+var mnemonic = "mother remember arrow cream upset grow slush absorb feed mention sun noise";

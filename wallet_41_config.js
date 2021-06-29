@@ -1,1 +1,1 @@
-var mnemonic = "child lawn next knock carpet reward tuition shoe angry demise winner onion";
+var mnemonic = "hunt custom monster fuel tray champion rude picture athlete capital alert mystery";

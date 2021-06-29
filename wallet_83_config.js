@@ -1,1 +1,1 @@
-var mnemonic = "suggest idle embody subway west noise hotel rapid kangaroo nominee dial weird";
+var mnemonic = "giggle mad bid quiz merry jar offer neck beauty cabin matter real";

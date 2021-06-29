@@ -1,1 +1,1 @@
-var mnemonic = "april execute expose burden rabbit trim shield normal entry labor scrub can";
+var mnemonic = "gravity sphere february champion bone arch shoot under process reopen crowd push";

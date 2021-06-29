@@ -1,1 +1,1 @@
-var mnemonic = "venture among snow sugar vanish fatigue chuckle truth apple guess happy balcony";
+var mnemonic = "awake glimpse smooth quick birth report myth tired erosion shine monster mail";

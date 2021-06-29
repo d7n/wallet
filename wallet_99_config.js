@@ -1,1 +1,1 @@
-var mnemonic = "addict castle auction vendor stool shift art speed other snow detail same";
+var mnemonic = "wonder online useful teach habit similar tower foster crop episode practice degree";

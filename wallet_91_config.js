@@ -1,1 +1,1 @@
-var mnemonic = "panda exit victory dad guilt fever mind luggage ship barely feed whale";
+var mnemonic = "crime whale broccoli more shrug reflect van square change grow acoustic payment";

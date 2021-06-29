@@ -1,1 +1,1 @@
-var mnemonic = "arctic bunker robust family rather ketchup lawn solution hawk dwarf inhale town";
+var mnemonic = "measure oblige gloom eternal finger always giraffe milk elephant divert hole swarm";

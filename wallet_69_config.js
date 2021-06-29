@@ -1,1 +1,1 @@
-var mnemonic = "mushroom train act define live maze music laptop grass huge wife earn";
+var mnemonic = "holiday click whip spider change imitate media swap wife place clock swamp";

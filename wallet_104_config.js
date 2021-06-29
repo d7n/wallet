@@ -1,1 +1,1 @@
-var mnemonic = "remove robust flock anger globe bunker panel law cat vote believe thrive";
+var mnemonic = "hire floor lobster month bright rifle vacant behave pelican coin tomorrow stem";

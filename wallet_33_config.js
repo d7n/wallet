@@ -1,1 +1,1 @@
-var mnemonic = "water language tide peanut flash post cross latin pact vendor wise pull";
+var mnemonic = "left work disease keen unknown nominee heavy menu midnight steak mask estate";

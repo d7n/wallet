@@ -1,1 +1,1 @@
-var mnemonic = "element purpose rare drastic oak deny lecture inside charge duty render brave";
+var mnemonic = "movie bag hurdle orphan still spider boost choice security grain absent dismiss";

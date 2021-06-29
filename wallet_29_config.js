@@ -1,1 +1,1 @@
-var mnemonic = "conduct laundry unhappy burger clinic pigeon mushroom toy pitch street run general";
+var mnemonic = "resemble boy neither stereo enable find weasel great rotate omit logic board";

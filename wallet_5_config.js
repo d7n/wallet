@@ -1,1 +1,1 @@
-var mnemonic = "roast bullet badge endless someone ivory busy earth spot scrap misery rare";
+var mnemonic = "jewel answer door ethics urge defy brief night certain organ fabric hire";

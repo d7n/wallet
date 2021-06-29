@@ -1,1 +1,1 @@
-var mnemonic = "damage humble depth inspire nice hollow trophy panel front level lazy art";
+var mnemonic = "unknown rack small angle remind glass across romance noble fresh girl pelican";

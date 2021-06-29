@@ -1,1 +1,1 @@
-var mnemonic = "sell chalk danger hour struggle coffee push boost odor sound arch illegal";
+var mnemonic = "master three style execute fork veteran mirror call fox nature sunny benefit";

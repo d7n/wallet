@@ -1,1 +1,1 @@
-var mnemonic = "basic bundle alcohol manage sponsor discover sustain upper chalk thing old cycle";
+var mnemonic = "often treat ride glass lawn flame welcome first bamboo elevator shoulder scissors";

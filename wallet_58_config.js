@@ -1,1 +1,1 @@
-var mnemonic = "wagon dream eager buddy coral fun gravity swear capable glass step broccoli";
+var mnemonic = "egg cherry popular switch trap clarify kidney menu guess hand mango offer";

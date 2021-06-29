@@ -1,1 +1,1 @@
-var mnemonic = "dry gospel employ shine fresh estate emotion absorb used giggle movie comfort";
+var mnemonic = "return hidden rude bridge expand child tonight embark polar dinosaur oval grape";

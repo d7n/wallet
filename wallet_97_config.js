@@ -1,1 +1,1 @@
-var mnemonic = "cycle hair oil improve stone borrow accident chicken cycle aisle gallery crack";
+var mnemonic = "cancel huge enter bracket primary victory length resemble health machine crouch order";

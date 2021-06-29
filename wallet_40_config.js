@@ -1,1 +1,1 @@
-var mnemonic = "critic rib domain cage hood trap leave popular very demand solve pride";
+var mnemonic = "have world solid state left drop domain pole plug fiscal dawn range";

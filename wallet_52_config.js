@@ -1,1 +1,1 @@
-var mnemonic = "tide ticket lift ramp lottery tag behind shrug fancy sugar bacon spray";
+var mnemonic = "scale ramp depart debate solve famous window decade casual wink link subject";

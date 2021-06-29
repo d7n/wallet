@@ -1,1 +1,1 @@
-var mnemonic = "direct try matrix across mad forward educate fall lumber sketch movie shop";
+var mnemonic = "ancient rather report dolphin van consider veteran item clock team chicken now";

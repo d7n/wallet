@@ -1,1 +1,1 @@
-var mnemonic = "below scissors icon typical army chat effort portion digital diary humor tourist";
+var mnemonic = "inherit balance perfect pole farm twist rival illegal jump awesome head humble";

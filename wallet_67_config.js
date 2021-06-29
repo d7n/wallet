@@ -1,1 +1,1 @@
-var mnemonic = "traffic labor office notable soft brush erupt mixed large shrimp quantum evoke";
+var mnemonic = "sad holiday math describe waste fit turtle whisper blur social soft excess";

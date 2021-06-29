@@ -1,1 +1,1 @@
-var mnemonic = "hint blind company stage mail kingdom blood circle outer butter plate wheel";
+var mnemonic = "fossil holiday erosion fog waste rocket brother delay you again love year";

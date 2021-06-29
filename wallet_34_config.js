@@ -1,1 +1,1 @@
-var mnemonic = "aerobic expect wish large dress title betray atom next tip east brown";
+var mnemonic = "ozone horror bronze hub twenty panel grit life runway sea cram bracket";

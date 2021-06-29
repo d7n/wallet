@@ -1,1 +1,1 @@
-var mnemonic = "display assume veteran stamp main original poverty tooth shaft segment honey cause";
+var mnemonic = "emerge rib wool wash tongue letter shine coach shed divert pluck subway";

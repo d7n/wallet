@@ -1,1 +1,1 @@
-var mnemonic = "curious flat silk leisure collect detect lottery alarm cage oblige labor concert";
+var mnemonic = "warfare develop modify beef tone ivory ring steak oyster lunar palace feel";

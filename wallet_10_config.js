@@ -1,1 +1,1 @@
-var mnemonic = "ankle dune roof winner update trim churn donor rapid peanut ripple galaxy";
+var mnemonic = "verify cupboard inspire tent play client pact ring poet plastic middle trust";

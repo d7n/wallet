@@ -1,1 +1,1 @@
-var mnemonic = "accuse truth water ankle perfect film text moon ability share plastic frequent";
+var mnemonic = "soccer wrap tuition twenty image learn stairs engage under truck tortoise hole";

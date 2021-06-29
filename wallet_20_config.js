@@ -1,1 +1,1 @@
-var mnemonic = "price arctic glimpse tattoo chalk unfair swamp adjust session napkin timber bar";
+var mnemonic = "track traffic wagon sun napkin force behind mind slender soup caution pioneer";

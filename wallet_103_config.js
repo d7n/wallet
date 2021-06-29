@@ -1,1 +1,1 @@
-var mnemonic = "focus grab hobby saddle crack tomato lecture host cliff squirrel drive slow";
+var mnemonic = "shoulder pool final glow pretty gift dentist degree lobster ill ostrich climb";

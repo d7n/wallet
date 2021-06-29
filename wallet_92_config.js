@@ -1,1 +1,1 @@
-var mnemonic = "source hold dizzy help salute fury dance into close spy picture hover";
+var mnemonic = "accuse business check horse cattle trap execute dry ritual laugh domain across";

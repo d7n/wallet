@@ -1,1 +1,1 @@
-var mnemonic = "dragon sea ghost cabbage canoe spend boss deny shaft label evidence detect";
+var mnemonic = "stay unit spare involve vital asset jelly gloom kitchen popular girl fence";

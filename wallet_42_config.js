@@ -1,1 +1,1 @@
-var mnemonic = "crisp ill giant protect fault timber girl scorpion timber priority angle skin";
+var mnemonic = "flush lava purse logic write rotate lucky payment holiday skin movie hybrid";

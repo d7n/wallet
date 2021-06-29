@@ -1,1 +1,1 @@
-var mnemonic = "chapter elegant boss token omit gossip say defense select accuse ugly amused";
+var mnemonic = "diagram off review notable follow live load parade home audit mansion early";

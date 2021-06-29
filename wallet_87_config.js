@@ -1,1 +1,1 @@
-var mnemonic = "response glue sibling among reduce sing famous people news fire donkey leader";
+var mnemonic = "afford love clown tennis broken exercise help dial race feed flee enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "swing offer immense borrow fever voice gadget clap ride describe damp penalty";
+var mnemonic = "bomb latin ankle achieve replace fantasy trade account guilt scout engine remove";

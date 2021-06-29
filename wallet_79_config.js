@@ -1,1 +1,1 @@
-var mnemonic = "gaze siege firm hub early deal grow clown shed defense depart escape";
+var mnemonic = "crystal width hard obtain craft cigar bean resemble cry bleak lemon shell";

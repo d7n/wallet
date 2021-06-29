@@ -1,1 +1,1 @@
-var mnemonic = "abstract bottom nominee float wage exclude fragile absent aunt immune neutral mansion";
+var mnemonic = "crisp afraid crowd month view differ match citizen stamp before before upset";

@@ -1,1 +1,1 @@
-var mnemonic = "original junior cycle lonely inhale park inquiry deputy recall spray trend fire";
+var mnemonic = "dutch bring airport relief mass toward yard seminar awful debris garden critic";

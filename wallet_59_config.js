@@ -1,1 +1,1 @@
-var mnemonic = "drastic blue spell ocean emotion bonus february hawk depth soap giant blame";
+var mnemonic = "input buddy surface trap knee convince boil quality piano dynamic pencil talk";

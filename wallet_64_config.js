@@ -1,1 +1,1 @@
-var mnemonic = "bar deliver unit cereal muffin tube symbol situate sort butter debris alarm";
+var mnemonic = "squeeze capital fresh lizard click biology country vital sun work bag erode";

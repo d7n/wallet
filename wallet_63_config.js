@@ -1,1 +1,1 @@
-var mnemonic = "fashion figure engage call visit spider else smile calm track pony budget";
+var mnemonic = "rhythm mesh theme surround day power round wreck music fossil happy exotic";

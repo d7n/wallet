@@ -1,1 +1,1 @@
-var mnemonic = "music heart ride educate you weapon monitor spot eye review brain left";
+var mnemonic = "pioneer bid angle lift raw nothing nurse vital sentence success salon caught";

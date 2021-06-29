@@ -1,1 +1,1 @@
-var mnemonic = "morning gaze crime shallow ring valley rhythm measure vintage stay craft scissors";
+var mnemonic = "oyster verb phrase addict green switch will peace sight dumb include express";

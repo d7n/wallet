@@ -1,1 +1,1 @@
-var mnemonic = "fork pilot upon retreat neutral truth punch yard question venue rubber salute";
+var mnemonic = "electric place ugly pelican expose attack kite own stable immune tennis next";

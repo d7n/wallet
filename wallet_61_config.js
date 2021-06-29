@@ -1,1 +1,1 @@
-var mnemonic = "frozen bind expose similar physical tell fall omit token senior shaft donkey";
+var mnemonic = "allow fuel pony muscle sponsor forum answer trigger candy stuff web rose";

@@ -1,1 +1,1 @@
-var mnemonic = "eight inject roast save library chase also slam butter timber evoke unhappy";
+var mnemonic = "exhibit human around price hurdle nose junior either gun ocean manual sing";

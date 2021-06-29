@@ -1,1 +1,1 @@
-var mnemonic = "adapt crime nasty shallow output host travel ocean olive sorry accuse pink";
+var mnemonic = "claw job tooth nerve asset sell faint love thought soft athlete divide";

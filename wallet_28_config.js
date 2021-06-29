@@ -1,1 +1,1 @@
-var mnemonic = "unfair tool right worry arch struggle ripple pool laptop practice chat patient";
+var mnemonic = "exercise marble poem roast wonder iron dragon boil uphold loud document advice";

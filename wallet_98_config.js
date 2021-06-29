@@ -1,1 +1,1 @@
-var mnemonic = "tiny glance secret calm laugh pattern update desert wise retire inhale matter";
+var mnemonic = "card raw fossil dilemma taxi rhythm gauge damp powder rally elegant evoke";

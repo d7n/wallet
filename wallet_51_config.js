@@ -1,1 +1,1 @@
-var mnemonic = "stairs mail warrior example canal swim escape shell office retire stand hollow";
+var mnemonic = "trip sea edge rookie security diesel barrel gun arrow original nest fresh";

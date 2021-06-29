@@ -1,1 +1,1 @@
-var mnemonic = "churn ring idle distance three hotel when plunge ring news then ribbon";
+var mnemonic = "regular fashion coral panic slogan weekend visa add chaos machine engine road";

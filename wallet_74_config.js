@@ -1,1 +1,1 @@
-var mnemonic = "cotton vote blame hunt capital physical enable forest place plastic demise salad";
+var mnemonic = "mom omit typical distance local duty reason metal stove copy wine slide";

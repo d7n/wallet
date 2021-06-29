@@ -1,1 +1,1 @@
-var mnemonic = "arrest cloth net lion weasel bamboo bid cancel tide audit stadium inside";
+var mnemonic = "february live whale panda lizard build pen credit much renew law hire";
