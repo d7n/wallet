@@ -1,1 +1,1 @@
-var mnemonic = "creek cruel system message end cruise number shop step juice come quiz";
+var mnemonic = "allow stand major swim purchase approve point debate travel ostrich dawn shove";

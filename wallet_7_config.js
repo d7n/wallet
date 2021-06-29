@@ -1,1 +1,1 @@
-var mnemonic = "property suit gold basic census frown gasp public final scissors learn primary";
+var mnemonic = "clay neutral rhythm glory visa fox floor learn pelican error bonus hurdle";

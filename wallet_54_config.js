@@ -1,1 +1,1 @@
-var mnemonic = "border taxi maze later know basic average match attack virus tongue private";
+var mnemonic = "ritual concert boil silk around flavor sea field hire quiz disagree antique";

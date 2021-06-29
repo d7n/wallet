@@ -1,1 +1,1 @@
-var mnemonic = "weird track find laptop slogan lottery aunt tent diet acid eagle another";
+var mnemonic = "bridge skull seek medal duty shield leaf ranch retire fiction grief diagram";

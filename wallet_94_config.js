@@ -1,1 +1,1 @@
-var mnemonic = "prepare chair vault payment inquiry order unfair normal obtain vendor spirit alley";
+var mnemonic = "wire boy nothing miss only edge domain host yellow provide drop visual";

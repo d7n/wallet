@@ -1,1 +1,1 @@
-var mnemonic = "narrow inquiry comic legal allow ancient usage police nuclear snow swear town";
+var mnemonic = "squeeze between essence record timber mad rice actor false hurry also fire";

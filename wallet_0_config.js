@@ -1,1 +1,1 @@
-var mnemonic = "rice amused help empower design manual way drastic aisle hurry february mean";
+var mnemonic = "initial tip cloud remember dice wonder still doll clown mother enrich whisper";

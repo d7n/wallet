@@ -1,1 +1,1 @@
-var mnemonic = "utility shine dream warfare shift black seek segment edit spike abuse luxury";
+var mnemonic = "recipe project client island online gospel first slam fish glue thought regular";

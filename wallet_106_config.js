@@ -1,1 +1,1 @@
-var mnemonic = "weasel afford blame easy black target describe arch exhaust snow melt rail";
+var mnemonic = "thing salad response pilot engine ladder can dad tower deliver aware hover";

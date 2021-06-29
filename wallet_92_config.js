@@ -1,1 +1,1 @@
-var mnemonic = "column pave escape social reduce genius cable exist mystery dwarf crouch oxygen";
+var mnemonic = "choice elbow cover glass duck manage buzz mean salute notice pigeon page";

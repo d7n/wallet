@@ -1,1 +1,1 @@
-var mnemonic = "chimney observe easily wave syrup audit volume melody remove discover battle master";
+var mnemonic = "subway client affair rib current replace engage amateur slogan cash tank tide";

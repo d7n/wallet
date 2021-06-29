@@ -1,1 +1,1 @@
-var mnemonic = "pole casino season pair music dragon lawsuit canyon security fog core system";
+var mnemonic = "noble possible tongue side boy duck window scorpion worry crane someone husband";

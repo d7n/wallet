@@ -1,1 +1,1 @@
-var mnemonic = "fuel maple mass cannon upset asthma rail mail option razor tray smart";
+var mnemonic = "hedgehog trend hedgehog gesture enact candy soda retire idle nest drive put";

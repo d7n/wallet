@@ -1,1 +1,1 @@
-var mnemonic = "place lemon fatal critic sniff begin sample unaware luxury firm real lounge";
+var mnemonic = "breeze april initial engage system yellow guilt identify addict crash amount client";

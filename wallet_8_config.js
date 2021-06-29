@@ -1,1 +1,1 @@
-var mnemonic = "divorce prize life buddy other rotate jewel output super charge excess update";
+var mnemonic = "clown hello bundle slender budget detect clean item absurd frozen snack what";

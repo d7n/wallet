@@ -1,1 +1,1 @@
-var mnemonic = "off harbor bean gown crack tape fortune when curtain bone welcome urge";
+var mnemonic = "guess south general giraffe dress replace first close brain lamp impose disagree";

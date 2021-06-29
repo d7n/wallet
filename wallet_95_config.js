@@ -1,1 +1,1 @@
-var mnemonic = "title way much search position suggest kid vehicle mimic wrist clog alarm";
+var mnemonic = "glue barely toy leopard autumn soul dose donor isolate winner claim cart";

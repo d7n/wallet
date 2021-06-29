@@ -1,1 +1,1 @@
-var mnemonic = "soccer cinnamon fresh antenna fit cash echo cycle hold crane spend easy";
+var mnemonic = "cost design vote method swap air bright middle scene bullet area lock";

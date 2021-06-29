@@ -1,1 +1,1 @@
-var mnemonic = "false material false robot afford maple cruel toward hungry view rough bring";
+var mnemonic = "west lucky fatal supply correct gun tornado camp insect image useful lobster";

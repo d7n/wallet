@@ -1,1 +1,1 @@
-var mnemonic = "leader avoid arch upon strike merry smart enhance jaguar guard riot rich";
+var mnemonic = "kit fuel open any keen settle random stem gospel divide cook tube";

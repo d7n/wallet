@@ -1,1 +1,1 @@
-var mnemonic = "south alarm oblige endorse zero trap grief insect stem sudden swear plunge";
+var mnemonic = "round visit prevent sweet beyond radio soda drip danger record cute alter";

@@ -1,1 +1,1 @@
-var mnemonic = "tool design bonus stem evoke veteran quick budget clump bless romance elder";
+var mnemonic = "that rotate pen animal title later gravity tree aisle amused receive chaos";

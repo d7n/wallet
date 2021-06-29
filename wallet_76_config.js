@@ -1,1 +1,1 @@
-var mnemonic = "control canal hood buzz web affair fiber defense dragon certain lawsuit hamster";
+var mnemonic = "few language embrace dinner place connect marine special word between rail chronic";

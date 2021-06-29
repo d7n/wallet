@@ -1,1 +1,1 @@
-var mnemonic = "pulp amused pave trash utility tone steel today praise mandate board bonus";
+var mnemonic = "link velvet toy swamp scene sugar hour predict fox arm ethics chief";

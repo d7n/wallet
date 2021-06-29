@@ -1,1 +1,1 @@
-var mnemonic = "nation quantum velvet cherry grid near system wolf inflict mixture oven pulp";
+var mnemonic = "range parade kit pluck wrist slender sure catalog easy delay rival scene";

@@ -1,1 +1,1 @@
-var mnemonic = "average crucial victory glare segment despair garlic mango hamster catalog inspire sure";
+var mnemonic = "glow trend trim truth ugly world truly zebra plunge grant online exhibit";

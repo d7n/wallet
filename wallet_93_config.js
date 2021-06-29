@@ -1,1 +1,1 @@
-var mnemonic = "outer match primary author royal aunt cinnamon earn engage describe benefit pause";
+var mnemonic = "sail excite arena stand second luggage aware blast pair used unaware coach";

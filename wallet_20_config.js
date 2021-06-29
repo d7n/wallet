@@ -1,1 +1,1 @@
-var mnemonic = "field twist road like current tunnel link under blossom width miracle bridge";
+var mnemonic = "family since siege shock fly sniff priority slim grain defense bamboo moment";

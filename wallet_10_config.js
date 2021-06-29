@@ -1,1 +1,1 @@
-var mnemonic = "pitch wolf finish rhythm upset announce camp educate marriage unusual insect atom";
+var mnemonic = "food party issue february chimney wool olive cereal excess civil husband nature";

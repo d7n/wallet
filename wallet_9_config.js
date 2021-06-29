@@ -1,1 +1,1 @@
-var mnemonic = "budget elevator paddle frost alley jungle under wonder nothing village tomorrow clinic";
+var mnemonic = "shed step need other cradle tilt dinner actor inch render divide law";

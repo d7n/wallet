@@ -1,1 +1,1 @@
-var mnemonic = "pudding smooth route approve dignity gadget desert believe height chair canal bird";
+var mnemonic = "grape across cage direct sudden sniff fan grid venture balcony gloom window";

@@ -1,1 +1,1 @@
-var mnemonic = "dose salute tourist any company unaware credit weapon canal inherit drop crew";
+var mnemonic = "room ethics resemble throw bargain sign genius tornado able bronze cube surface";

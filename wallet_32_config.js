@@ -1,1 +1,1 @@
-var mnemonic = "phone notable crucial age taxi perfect reopen woman join polar helmet ritual";
+var mnemonic = "canyon input autumn talent vote wheel quality midnight message peace clay body";

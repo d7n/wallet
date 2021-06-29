@@ -1,1 +1,1 @@
-var mnemonic = "toy lemon before bitter wheat series tomorrow west animal wing key dwarf";
+var mnemonic = "twist human frozen deny message apple caught donkey crystal violin weird pole";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery soap decrease scorpion sudden ill barely situate round replace april kiss";
+var mnemonic = "escape puzzle ecology scrub trouble document toy review velvet actual attract visit";

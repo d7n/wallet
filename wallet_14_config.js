@@ -1,1 +1,1 @@
-var mnemonic = "menu canal unfair camera paper wear skate essence link atom museum seek";
+var mnemonic = "picture act grain super mean nut adult film enjoy shiver gorilla current";

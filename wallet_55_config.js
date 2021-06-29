@@ -1,1 +1,1 @@
-var mnemonic = "gasp once prosper december year maid govern bean real pioneer woman gospel";
+var mnemonic = "track quick camp welcome give version early number side funny forest rate";

@@ -1,1 +1,1 @@
-var mnemonic = "verb atom rule bamboo quote unlock tackle dragon arrive lunch truly protect";
+var mnemonic = "way crane youth relax first cricket axis odor aerobic soul zebra acquire";

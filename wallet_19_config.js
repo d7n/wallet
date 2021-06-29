@@ -1,1 +1,1 @@
-var mnemonic = "matrix review step hood post add curtain thunder time allow innocent thing";
+var mnemonic = "chalk shift critic pink sugar size coast private speed beyond source umbrella";

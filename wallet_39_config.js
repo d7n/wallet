@@ -1,1 +1,1 @@
-var mnemonic = "fatigue hurt noodle act ivory mom tragic country fiscal scatter remember caution";
+var mnemonic = "game priority float stove sign shallow kit glow scorpion dice purity inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "coast chalk practice jelly join truly jealous cram nest concert ski great";
+var mnemonic = "powder blade amateur friend wife torch unable gesture toss damage weird pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "give project target frost hospital best garbage key object reveal section congress";
+var mnemonic = "skate dish text kidney across tool exhaust powder water slim safe cry";

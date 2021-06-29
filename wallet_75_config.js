@@ -1,1 +1,1 @@
-var mnemonic = "buffalo resist alarm toast scrub frost flock obscure season pledge push duck";
+var mnemonic = "arctic else torch rhythm attack what elephant trophy few acid tail rain";

@@ -1,1 +1,1 @@
-var mnemonic = "crack giant churn topple reform opera cake begin cheap blue twenty afraid";
+var mnemonic = "tackle waste cross fiber easy aware skull kick gain bridge hair prevent";

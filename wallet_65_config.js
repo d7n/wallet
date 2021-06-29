@@ -1,1 +1,1 @@
-var mnemonic = "tuition pyramid tourist purchase ghost boy vacant crisp now cement ankle mimic";
+var mnemonic = "wait bomb change render action cluster donate pony duck also museum radio";

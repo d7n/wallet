@@ -1,1 +1,1 @@
-var mnemonic = "verb chef mule border much grace canoe increase hungry gallery able predict";
+var mnemonic = "useless balcony youth master bounce tower dune volume find defense mechanic crack";

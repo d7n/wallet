@@ -1,1 +1,1 @@
-var mnemonic = "tell spread surge engine loop elephant motor cross behind rocket spice dumb";
+var mnemonic = "cry together wet pluck dumb cannon nephew fiscal cradle spring keen spatial";

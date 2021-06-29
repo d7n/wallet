@@ -1,1 +1,1 @@
-var mnemonic = "broccoli inherit sentence sweet toward correct abuse dune material job width skill";
+var mnemonic = "clog guide evidence helmet plug render cinnamon good cream hawk truth trial";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram fluid nice urge hero knife december wisdom tray flash chaos alarm";
+var mnemonic = "aspect afford table tennis uncover green siren raven multiply essay must luggage";

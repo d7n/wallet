@@ -1,1 +1,1 @@
-var mnemonic = "height diary symptom habit asset senior long liar rough table carpet august";
+var mnemonic = "chicken syrup final fantasy click dilemma nothing dinosaur blanket sniff put sail";

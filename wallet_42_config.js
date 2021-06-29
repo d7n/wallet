@@ -1,1 +1,1 @@
-var mnemonic = "loop amazing river purse tilt abstract hedgehog spend soft quiz skin pear";
+var mnemonic = "matrix fluid coffee security leaf seek fatigue resemble stomach impulse please genius";

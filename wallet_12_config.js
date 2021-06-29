@@ -1,1 +1,1 @@
-var mnemonic = "peace skull screen atom deer parade super shoe chest seminar drift square";
+var mnemonic = "giraffe spare remove icon trial repeat spare main grocery credit shift tired";

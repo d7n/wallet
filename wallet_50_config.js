@@ -1,1 +1,1 @@
-var mnemonic = "world season divorce toe blanket season useful shine online foam step below";
+var mnemonic = "cost cotton thumb crowd input lounge just arrest ritual avocado until sick";

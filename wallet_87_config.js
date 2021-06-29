@@ -1,1 +1,1 @@
-var mnemonic = "right ski phrase mistake slot always purpose damp treat wool era clinic";
+var mnemonic = "aware fatigue identify dwarf sort museum fault culture become tool town any";

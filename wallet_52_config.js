@@ -1,1 +1,1 @@
-var mnemonic = "cram boss sleep weather attitude quantum early swallow mistake half strategy rare";
+var mnemonic = "slice mixture typical wheel swamp group guard damp absent envelope culture slot";

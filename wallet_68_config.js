@@ -1,1 +1,1 @@
-var mnemonic = "rubber elegant lend verify bronze employ head sweet tape runway eye walnut";
+var mnemonic = "mean celery mixed adult message wrong embrace seek vanish chief equal floor";

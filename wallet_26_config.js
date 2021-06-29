@@ -1,1 +1,1 @@
-var mnemonic = "entire section during decorate already panda push economy capable milk common start";
+var mnemonic = "oil opinion retreat must stove narrow victory dinosaur dismiss account tape piece";

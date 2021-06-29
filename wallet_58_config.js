@@ -1,1 +1,1 @@
-var mnemonic = "stereo chalk salad hobby issue life extend balance twist silk keep answer";
+var mnemonic = "clutch grant sun height shield budget where quick kit detail circle interest";

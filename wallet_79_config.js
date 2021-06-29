@@ -1,1 +1,1 @@
-var mnemonic = "love stool near float sting vital social blossom swarm visual wrong veteran";
+var mnemonic = "peasant upset bone salt express ripple wing cycle rhythm equal phrase today";

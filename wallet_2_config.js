@@ -1,1 +1,1 @@
-var mnemonic = "soap velvet trophy tired owner neither tortoise affair shell always roast ginger";
+var mnemonic = "wagon afford gesture involve front broom police virus summer company village immune";

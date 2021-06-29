@@ -1,1 +1,1 @@
-var mnemonic = "suggest pink between bridge voice maze group fine execute random fish blush";
+var mnemonic = "legal drill click capital only health health victory tissue prison answer taste";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist lazy exotic wood direct long demand cluster neglect tray mixture save";
+var mnemonic = "hair slim any robot subway latin amount tortoise group open place prosper";

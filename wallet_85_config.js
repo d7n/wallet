@@ -1,1 +1,1 @@
-var mnemonic = "jealous kit ramp core rich album hint burst large gorilla obvious account";
+var mnemonic = "jazz enable prize mushroom radio nothing until deposit pony mystery loud hotel";

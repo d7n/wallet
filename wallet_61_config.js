@@ -1,1 +1,1 @@
-var mnemonic = "allow clown ancient comic scissors prevent patrol proud elite rate estate cruel";
+var mnemonic = "genre tongue luxury foot agree nest ride bunker ripple excuse ankle net";

@@ -1,1 +1,1 @@
-var mnemonic = "sample decide lazy actor quote sentence grow economy pull banana drop exact";
+var mnemonic = "seminar this almost talk fabric clean pig nurse during salmon resemble denial";

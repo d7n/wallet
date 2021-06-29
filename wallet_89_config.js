@@ -1,1 +1,1 @@
-var mnemonic = "excite dolphin quick police tree punch rookie beef hockey stick kick control";
+var mnemonic = "roof service story alcohol pause under lawn spray much weekend strong earth";

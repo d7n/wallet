@@ -1,1 +1,1 @@
-var mnemonic = "possible diet clap spray hazard oil sail oven divorce glory panther daughter";
+var mnemonic = "before crunch stomach enroll list pelican august dress wheat chat fiction ozone";

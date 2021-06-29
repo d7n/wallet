@@ -1,1 +1,1 @@
-var mnemonic = "verify sniff female slush great dice waste winner mouse dry local pistol";
+var mnemonic = "addict replace random tackle legend price almost velvet mammal point predict oval";

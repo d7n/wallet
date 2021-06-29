@@ -1,1 +1,1 @@
-var mnemonic = "belt dentist shrimp point absent increase silk lottery fine subject monkey tornado";
+var mnemonic = "camera asthma soft arctic critic glance final energy syrup february noodle drop";

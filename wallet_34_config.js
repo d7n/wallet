@@ -1,1 +1,1 @@
-var mnemonic = "jacket brush type risk indoor grass wedding solve typical flat banner pluck";
+var mnemonic = "eight affair mechanic tribe snake work raw near luggage case sleep wasp";

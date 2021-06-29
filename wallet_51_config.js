@@ -1,1 +1,1 @@
-var mnemonic = "hill coast image idea bronze frozen fan dentist ranch suspect foam slot";
+var mnemonic = "settle fade bomb foam then dawn blanket dry rent media empower elephant";

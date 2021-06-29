@@ -1,1 +1,1 @@
-var mnemonic = "ghost ceiling have night warm frequent loyal boil oxygen then wave topic";
+var mnemonic = "weather rebuild gown palm asset notice melody impulse theme until uphold prize";

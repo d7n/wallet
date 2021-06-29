@@ -1,1 +1,1 @@
-var mnemonic = "thank special butter leg elephant nature symptom blush wisdom empower armed mountain";
+var mnemonic = "essence belt jewel fatigue misery relax trophy elevator shine tornado suggest fat";

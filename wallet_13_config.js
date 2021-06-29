@@ -1,1 +1,1 @@
-var mnemonic = "finish fence can view cabin bid baby sing riot grief push short";
+var mnemonic = "upper thumb sauce weird faint truth program stumble wall dizzy aisle chapter";

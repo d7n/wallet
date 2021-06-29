@@ -1,1 +1,1 @@
-var mnemonic = "deposit swarm lonely uphold enable sudden genius trim mosquito opinion chuckle cradle";
+var mnemonic = "switch scatter hour ceiling normal topic cup stable prefer double client update";

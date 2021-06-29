@@ -1,1 +1,1 @@
-var mnemonic = "assume syrup noodle hip hungry gesture ethics tonight sniff okay situate impose";
+var mnemonic = "dentist luggage woman borrow ball poet blade guard notable race saddle fix";

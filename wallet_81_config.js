@@ -1,1 +1,1 @@
-var mnemonic = "seminar record enough door govern entry corn gap have bring share prepare";
+var mnemonic = "firm rival cake odor talent despair file acquire clerk copy shoulder scrap";

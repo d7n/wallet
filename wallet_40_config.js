@@ -1,1 +1,1 @@
-var mnemonic = "oppose protect reform rich donkey save wink plug marriage motor know rebuild";
+var mnemonic = "tip leaf alley dilemma kitten toast stumble glove chimney deny duty december";

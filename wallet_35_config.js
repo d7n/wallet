@@ -1,1 +1,1 @@
-var mnemonic = "canvas bracket initial nothing ring soul stumble coast enact raven shoulder stem";
+var mnemonic = "planet fame brand approve chunk search exist tip payment oyster cloud recycle";

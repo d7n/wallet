@@ -1,1 +1,1 @@
-var mnemonic = "insect escape float sauce luggage toast urban dice design chalk little scene";
+var mnemonic = "crazy night whale promote soap kidney case gather lumber retreat output reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle vibrant define author ceiling surge tired today tip fade catalog kidney";
+var mnemonic = "armed horn hire infant burst glory deal income weapon guitar dynamic symptom";

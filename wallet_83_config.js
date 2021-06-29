@@ -1,1 +1,1 @@
-var mnemonic = "bulk river industry board nation argue humor attend eternal enable acid second";
+var mnemonic = "silver just horror kangaroo risk antenna luggage flower west stem daring marble";

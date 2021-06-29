@@ -1,1 +1,1 @@
-var mnemonic = "race online same offer priority mosquito another lumber license together when dragon";
+var mnemonic = "crew type dance muffin exist pass clap elegant valid weird drastic enhance";

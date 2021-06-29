@@ -1,1 +1,1 @@
-var mnemonic = "manage puppy gospel frozen claim riot immense cotton salt increase legal shoulder";
+var mnemonic = "memory carpet fame uncle close eyebrow mimic claw alpha move artist buddy";

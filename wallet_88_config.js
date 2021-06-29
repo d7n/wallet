@@ -1,1 +1,1 @@
-var mnemonic = "carpet behave first custom desk fire scan pupil guilt nerve smart weapon";
+var mnemonic = "leopard boil disorder champion toilet bring bargain split enable admit trend drill";
