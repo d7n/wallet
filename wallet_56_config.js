@@ -1,1 +1,1 @@
-var mnemonic = "swim carry ladder switch surge crystal awful odor movie jealous confirm melody";
+var mnemonic = "rapid joke lift believe odor palm domain crew unable damp entire cherry";

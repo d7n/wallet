@@ -1,1 +1,1 @@
-var mnemonic = "brick glare reduce plate capital soon frozen bamboo equip title false comic";
+var mnemonic = "differ camp elevator lift style heavy stomach check coyote sell flame future";

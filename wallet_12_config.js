@@ -1,1 +1,1 @@
-var mnemonic = "swing brisk daring banana between film answer pepper twist vendor purse general";
+var mnemonic = "disorder govern hair wave news owner marine embody rice act vocal wink";

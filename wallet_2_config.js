@@ -1,1 +1,1 @@
-var mnemonic = "obscure control obscure risk badge morning until circle ball alien spike shrug";
+var mnemonic = "word fatal deputy spike dignity donkey weather leave teach remind bike vibrant";

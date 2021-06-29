@@ -1,1 +1,1 @@
-var mnemonic = "among laundry essence tonight yard aim bar rail silly climb cargo syrup";
+var mnemonic = "twenty absent dance march habit come fog never stove swift net blind";

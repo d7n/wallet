@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit oblige discover caution balance shine source course train evidence body panel";
+var mnemonic = "forest flash possible hobby plug garage lens roast visit affair excuse come";

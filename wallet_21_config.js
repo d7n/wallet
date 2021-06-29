@@ -1,1 +1,1 @@
-var mnemonic = "monkey security child eternal paddle foster fatal lady assault drum fun two";
+var mnemonic = "verify fortune door addict chalk enhance secret tray neglect digital suffer recycle";

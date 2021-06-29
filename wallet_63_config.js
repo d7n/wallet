@@ -1,1 +1,1 @@
-var mnemonic = "manual uncover column slot depend patrol silent mimic gown cannon heart bulk";
+var mnemonic = "grocery sea absorb leaf devote bind about water verb zero butter hospital";

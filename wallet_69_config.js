@@ -1,1 +1,1 @@
-var mnemonic = "gossip silent sustain leopard invite start vague quick lake shallow thumb guess";
+var mnemonic = "mesh annual million velvet burger sweet zone series bean actual end surface";

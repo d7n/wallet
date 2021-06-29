@@ -1,1 +1,1 @@
-var mnemonic = "scissors lawn giggle pony frame joy base settle loyal bridge fatal vicious";
+var mnemonic = "tuna noodle kingdom wood drink town tag initial axis cruise business popular";

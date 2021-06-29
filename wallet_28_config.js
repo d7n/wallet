@@ -1,1 +1,1 @@
-var mnemonic = "supply safe large since fruit cook credit glance wave link park pistol";
+var mnemonic = "twice volcano energy tattoo flee crazy tomato gauge swim travel mansion glory";

@@ -1,1 +1,1 @@
-var mnemonic = "habit volume imitate business lab dinosaur outdoor super topic glare dad switch";
+var mnemonic = "nation account board box deputy learn divert abuse army delay olympic wrestle";

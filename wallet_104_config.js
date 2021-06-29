@@ -1,1 +1,1 @@
-var mnemonic = "bottom fantasy hub present victory word silk pony monkey focus put pull";
+var mnemonic = "action husband foster fuel require grid brush toward nasty satisfy melody million";

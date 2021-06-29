@@ -1,1 +1,1 @@
-var mnemonic = "roast earn adapt soft pizza visit marine element gown always coral panic";
+var mnemonic = "there trouble air carry rare loud gospel cruise search odor lesson wood";

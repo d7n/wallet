@@ -1,1 +1,1 @@
-var mnemonic = "tag mutual term inner arrest silent hard orbit gain key still time";
+var mnemonic = "live alarm pave slot spike debris shove short purchase mosquito book child";

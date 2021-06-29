@@ -1,1 +1,1 @@
-var mnemonic = "wear deer yellow tourist onion caution spray furnace thing simple elbow crisp";
+var mnemonic = "annual number ceiling hello orient act account birth bottom slim size apple";

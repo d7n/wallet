@@ -1,1 +1,1 @@
-var mnemonic = "tape finger tube shiver stick remind defense then stage unique attitude disease";
+var mnemonic = "merry juice public ridge immune gallery degree spin divert unveil keen utility";

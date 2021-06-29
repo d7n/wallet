@@ -1,1 +1,1 @@
-var mnemonic = "sleep beach impulse pottery cute couch share local capable illegal snow purity";
+var mnemonic = "song rack embrace excess defy true inside soldier inflict erase album minute";

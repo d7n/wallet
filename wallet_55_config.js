@@ -1,1 +1,1 @@
-var mnemonic = "prosper make upper fiber test evolve icon sadness warm pudding blind patrol";
+var mnemonic = "neck team bullet bean velvet avoid story glance library valve alien mutual";

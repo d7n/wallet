@@ -1,1 +1,1 @@
-var mnemonic = "walnut friend lecture settle act lounge violin barrel glow gift slush creek";
+var mnemonic = "announce jelly oil jazz basic riot gallery know payment flat battle grape";

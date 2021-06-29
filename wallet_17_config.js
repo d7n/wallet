@@ -1,1 +1,1 @@
-var mnemonic = "expose virus fiction attack art lady grace excuse arrow cactus squeeze album";
+var mnemonic = "scale beyond provide minute mixture oyster cliff zoo attract royal plug insect";

@@ -1,1 +1,1 @@
-var mnemonic = "horror patrol oval night ripple enemy worth myth soft token tired note";
+var mnemonic = "small cool angry news fire live lend cherry hello turtle true blade";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery ticket ability bless north fine music siren very disagree any penalty";
+var mnemonic = "syrup patrol ready margin approve utility bicycle find snap spend cube inside";

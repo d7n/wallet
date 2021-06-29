@@ -1,1 +1,1 @@
-var mnemonic = "asthma safe imitate write mule crouch hobby motor canvas coral table return";
+var mnemonic = "cradle original position flush wheat gap one differ memory december farm census";

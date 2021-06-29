@@ -1,1 +1,1 @@
-var mnemonic = "casual unusual search ability cash spell emerge mesh object wrong list giraffe";
+var mnemonic = "lucky maze leave glance wild village pig hurt festival surround curtain chaos";

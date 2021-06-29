@@ -1,1 +1,1 @@
-var mnemonic = "turn legend delay join wish mansion rely believe idle convince click wash";
+var mnemonic = "easily topic width aerobic note arena media deposit illegal produce arrest enroll";

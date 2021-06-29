@@ -1,1 +1,1 @@
-var mnemonic = "attack insect track wave truth young number frost deer total october ketchup";
+var mnemonic = "vessel pigeon also thrive only express fall define street they manual sand";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve asset leave brand plastic theory legend acid blast tone endless hair";
+var mnemonic = "live rack nothing color practice romance arena style recipe chat swing trade";

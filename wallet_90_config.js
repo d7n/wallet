@@ -1,1 +1,1 @@
-var mnemonic = "nothing enrich planet expose force then pigeon tornado october burst inmate rapid";
+var mnemonic = "lazy spare sound night broccoli shadow trap open view battle cook visual";

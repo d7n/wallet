@@ -1,1 +1,1 @@
-var mnemonic = "police situate enlist milk corn sadness hammer clutch town celery tilt strategy";
+var mnemonic = "plunge subject bus echo exact indoor huge valve ritual casino marine bike";

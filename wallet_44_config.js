@@ -1,1 +1,1 @@
-var mnemonic = "still orange try script list game health exclude gentle phone struggle agent";
+var mnemonic = "smoke loan vanish process sugar left scrap convince client pride warfare flower";

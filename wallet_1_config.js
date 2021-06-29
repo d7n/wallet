@@ -1,1 +1,1 @@
-var mnemonic = "tide swap seminar roast leave forget describe exclude furnace transfer appear excuse";
+var mnemonic = "hill awake wife humble craft nothing pipe also kitchen sauce want attract";

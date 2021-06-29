@@ -1,1 +1,1 @@
-var mnemonic = "race double dad seed quick kingdom unfold toy crane boy ostrich mutual";
+var mnemonic = "castle novel patient push because monster welcome web risk crew flavor open";

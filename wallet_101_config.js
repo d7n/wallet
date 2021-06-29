@@ -1,1 +1,1 @@
-var mnemonic = "minimum dentist fine east ride today noodle left tuna bonus agent demise";
+var mnemonic = "aisle energy hammer orchard cat turtle ahead acoustic clip guilt symptom else";

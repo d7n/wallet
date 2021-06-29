@@ -1,1 +1,1 @@
-var mnemonic = "brother act onion muscle mixed corn odor wisdom trust nuclear attract start";
+var mnemonic = "before custom enlist virus mechanic smooth add then gadget series envelope kangaroo";

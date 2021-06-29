@@ -1,1 +1,1 @@
-var mnemonic = "various worth match regular day struggle title demise finish express law illegal";
+var mnemonic = "thumb weapon lady long sail slow label domain orient effort patch piece";

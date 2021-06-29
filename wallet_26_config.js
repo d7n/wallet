@@ -1,1 +1,1 @@
-var mnemonic = "employ rhythm teach decade hammer sense warm famous buyer teach today cage";
+var mnemonic = "empty jump crop pigeon brisk lounge evidence slim because unusual fence kit";

@@ -1,1 +1,1 @@
-var mnemonic = "boil fox clarify loud ring horn tone cabbage brief puzzle connect exchange";
+var mnemonic = "canoe wheel lizard arch add must run divert mind tortoise horse letter";

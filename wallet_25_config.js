@@ -1,1 +1,1 @@
-var mnemonic = "rice boil involve deer inspire number cherry throw lunar amused inmate tired";
+var mnemonic = "success stomach discover coconut angle flat filter reduce section unknown pottery teach";

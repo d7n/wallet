@@ -1,1 +1,1 @@
-var mnemonic = "drum expire doctor ecology another timber share sting immense faith emotion face";
+var mnemonic = "another wire area wash reform apple air viable swallow rice casual verify";

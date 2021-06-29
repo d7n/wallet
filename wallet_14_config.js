@@ -1,1 +1,1 @@
-var mnemonic = "rely chat car behind job defense alley payment hair pear raven mobile";
+var mnemonic = "gaze assault high hundred pizza toast give menu parade park waste tell";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich shop crystal shadow hockey quote dynamic goat bless universe lion way";
+var mnemonic = "task between since input tape ask reunion bicycle print warfare among barely";

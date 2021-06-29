@@ -1,1 +1,1 @@
-var mnemonic = "bulk crouch speak tiger april cousin certain frog fresh few inject hurry";
+var mnemonic = "toe lecture apart helmet eternal pen ripple under sight print fresh camp";

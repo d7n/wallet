@@ -1,1 +1,1 @@
-var mnemonic = "adult engage face tribe wonder famous fury sunny steel account strategy success";
+var mnemonic = "symbol digital vessel minor attack half various coconut oven bright rug exist";

@@ -1,1 +1,1 @@
-var mnemonic = "below chalk steak friend fabric web input lawn tired invite zone cage";
+var mnemonic = "deal romance organ arctic absorb typical age jungle upon gap know excess";

@@ -1,1 +1,1 @@
-var mnemonic = "angle smart attitude wish gift pet improve never ocean simple chapter glass";
+var mnemonic = "seed ozone penalty column session decade box program cause nasty hobby task";

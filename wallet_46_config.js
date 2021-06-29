@@ -1,1 +1,1 @@
-var mnemonic = "rapid uncover chronic blanket flame boss egg admit profit evidence sustain dune";
+var mnemonic = "object grain carpet sheriff cabbage absurd visual bacon advice miss price father";

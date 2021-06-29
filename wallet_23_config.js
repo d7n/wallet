@@ -1,1 +1,1 @@
-var mnemonic = "wrist warfare nose unknown fever typical vendor east arm hazard hour cruel";
+var mnemonic = "produce guide fortune car electric monitor system range runway cube pool vacant";

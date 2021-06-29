@@ -1,1 +1,1 @@
-var mnemonic = "tower subject trap salt tribe clerk awful wrist crush list sword rough";
+var mnemonic = "also logic lottery tape judge charge apart rescue morning height fashion birth";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn regular best have sadness jazz width assume praise away detect dry";
+var mnemonic = "believe unlock debris winter sphere shoulder outdoor purse mixture half picnic mother";

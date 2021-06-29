@@ -1,1 +1,1 @@
-var mnemonic = "scan category team chalk any genre mail job turn type transfer iron";
+var mnemonic = "scrap attract trial apart use damp transfer usual stable repeat shallow eyebrow";

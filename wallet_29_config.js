@@ -1,1 +1,1 @@
-var mnemonic = "cloud hamster salmon hour era tower leg renew bracket island guard polar";
+var mnemonic = "vault census entry gold melody fabric donor gossip topic noodle stage fat";

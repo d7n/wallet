@@ -1,1 +1,1 @@
-var mnemonic = "reason that pride marine various bitter chief visa abandon pony work drill";
+var mnemonic = "trigger acid sight false spatial excite police heart vocal wrist metal champion";

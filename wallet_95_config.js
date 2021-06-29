@@ -1,1 +1,1 @@
-var mnemonic = "work orange cabin hint duty mandate dish comfort gorilla forum truck civil";
+var mnemonic = "scrap zebra chunk impulse vocal achieve guard husband nasty loyal lizard season";

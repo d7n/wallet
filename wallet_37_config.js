@@ -1,1 +1,1 @@
-var mnemonic = "echo solar plastic camera topple script reopen deposit doll supreme defense yard";
+var mnemonic = "rhythm egg bone prize frost produce convince enlist crush boat mountain sort";

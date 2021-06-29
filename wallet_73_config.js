@@ -1,1 +1,1 @@
-var mnemonic = "loyal comfort foil moon accuse assault page risk enforce jelly price shrimp";
+var mnemonic = "minor pyramid obvious chronic maid umbrella army baby obtain frozen eager link";

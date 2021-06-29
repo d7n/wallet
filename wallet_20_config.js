@@ -1,1 +1,1 @@
-var mnemonic = "oak federal bench cricket always canoe gather surround route remind direct blood";
+var mnemonic = "novel wall sting purpose taxi over bounce assist glove nest arrow twelve";

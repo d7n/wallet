@@ -1,1 +1,1 @@
-var mnemonic = "bonus cargo still tortoise room very margin emerge opinion cliff curtain mean";
+var mnemonic = "summer blur ceiling duck imitate tooth metal rib brain army clog march";

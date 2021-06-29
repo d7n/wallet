@@ -1,1 +1,1 @@
-var mnemonic = "volcano expand ball member clock gown elegant rival venture dynamic phrase air";
+var mnemonic = "reflect mule palm recycle illegal ankle guess replace crane mother leg remember";

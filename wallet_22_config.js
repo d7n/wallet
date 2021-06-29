@@ -1,1 +1,1 @@
-var mnemonic = "brick mouse nasty deliver still draft theory ritual verify private gospel media";
+var mnemonic = "around square mouse miracle water only shine average begin churn exercise ball";

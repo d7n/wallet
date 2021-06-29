@@ -1,1 +1,1 @@
-var mnemonic = "lottery hungry survey decide much rib file orange space rice club omit";
+var mnemonic = "own bonus upgrade park congress top element limb kick flee elevator hotel";

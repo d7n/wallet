@@ -1,1 +1,1 @@
-var mnemonic = "account scheme sauce luxury bicycle fog worry round embark main what season";
+var mnemonic = "frame satoshi traffic attend coral warrior army entry item burger tourist recall";

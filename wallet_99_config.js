@@ -1,1 +1,1 @@
-var mnemonic = "anchor burger plate creek grass almost document grid flat slush seed vehicle";
+var mnemonic = "awkward crawl stone student raw fitness original this aerobic example health plunge";

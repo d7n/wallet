@@ -1,1 +1,1 @@
-var mnemonic = "legend trigger prison zero decrease escape vast bargain bid member square ostrich";
+var mnemonic = "void eight lazy anger what diesel shed mansion someone forest usual special";

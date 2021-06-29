@@ -1,1 +1,1 @@
-var mnemonic = "trap air quality sense hawk final maximum shell jar culture sun void";
+var mnemonic = "street gate install palm gesture trouble cube evoke oak seed rose sunny";

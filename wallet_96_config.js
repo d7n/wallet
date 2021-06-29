@@ -1,1 +1,1 @@
-var mnemonic = "spatial wealth olympic regular bubble alcohol gap tiny food aspect gesture unaware";
+var mnemonic = "flee illness special code close sell blind learn echo stable tortoise battle";

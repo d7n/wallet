@@ -1,1 +1,1 @@
-var mnemonic = "together wasp taxi venue anger seat crucial offer midnight identify join nasty";
+var mnemonic = "salon walk permit emotion garage disorder twin asset shy else lady tool";

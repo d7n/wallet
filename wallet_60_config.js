@@ -1,1 +1,1 @@
-var mnemonic = "ski extra dawn price double enhance pudding whale car desert bench usual";
+var mnemonic = "motor edge rely small merge dolphin gloom claw abstract law mind wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "congress screen bargain apple stock scheme victory grant arrange empower siren confirm";
+var mnemonic = "secret hire olympic gain people civil nurse grape hobby slice song tattoo";

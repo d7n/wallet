@@ -1,1 +1,1 @@
-var mnemonic = "blanket close mobile device govern wet bread around profit essence grief march";
+var mnemonic = "like early ladder promote gauge observe flame bachelor burger rigid legend mixture";

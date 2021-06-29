@@ -1,1 +1,1 @@
-var mnemonic = "again hire frost junior junior three manual strong owner ripple frog year";
+var mnemonic = "ladder defense stairs annual ostrich soup hamster gain mango era achieve emotion";

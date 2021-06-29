@@ -1,1 +1,1 @@
-var mnemonic = "milk hat extend danger calm index beyond large arrow budget use supreme";
+var mnemonic = "alter table attitude panda alcohol stuff charge series culture axis lake enact";

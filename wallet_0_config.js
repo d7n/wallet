@@ -1,1 +1,1 @@
-var mnemonic = "find pudding wage doll reunion hero pottery hamster dose vocal manage music";
+var mnemonic = "gaze sugar own sunset civil account ceiling cage dish same relax vehicle";

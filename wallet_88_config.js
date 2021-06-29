@@ -1,1 +1,1 @@
-var mnemonic = "minute castle pink business shove such hurdle discover orange gadget embrace hover";
+var mnemonic = "dice imitate switch square settle define lawn sea inquiry outer twice kitten";

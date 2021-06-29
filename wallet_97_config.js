@@ -1,1 +1,1 @@
-var mnemonic = "custom reveal leaf fever scale skull wall keen involve cluster vehicle young";
+var mnemonic = "reflect toss again jump egg either eternal crystal yard turn repair pretty";

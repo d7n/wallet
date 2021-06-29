@@ -1,1 +1,1 @@
-var mnemonic = "envelope knock draft smile coast finger office present small loan guilt alarm";
+var mnemonic = "focus traffic review daughter relax essay chief fortune invite adjust clock mix";

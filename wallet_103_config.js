@@ -1,1 +1,1 @@
-var mnemonic = "energy shrimp bread opera leader unaware never canvas anxiety whale one frozen";
+var mnemonic = "village idea movie organ will melt dad exit road bubble mind witness";

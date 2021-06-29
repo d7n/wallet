@@ -1,1 +1,1 @@
-var mnemonic = "shield neglect private minor twenty leave time culture unlock error tuition story";
+var mnemonic = "wet tourist glance switch piano drink section moral cool nominee cargo clever";

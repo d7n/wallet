@@ -1,1 +1,1 @@
-var mnemonic = "carry dove gate bone swim fabric around miracle impulse treat upper twin";
+var mnemonic = "like ketchup uncle cargo lunch vocal early orbit proof opinion embody sponsor";

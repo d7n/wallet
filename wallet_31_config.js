@@ -1,1 +1,1 @@
-var mnemonic = "myself eagle yellow soccer tissue glass leader face alien foot surge lady";
+var mnemonic = "already animal left distance pumpkin boat verify bird game engage veteran endorse";

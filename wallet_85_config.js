@@ -1,1 +1,1 @@
-var mnemonic = "town differ talent clean pudding security faint bunker patch credit crawl detail";
+var mnemonic = "sting icon clutch toast occur tornado above regret wisdom canvas burst wrong";

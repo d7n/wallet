@@ -1,1 +1,1 @@
-var mnemonic = "develop exotic parent swift diet ball man viable marine pause option hollow";
+var mnemonic = "surprise gym tornado faculty parade ocean boring camera captain point chalk viable";

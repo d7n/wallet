@@ -1,1 +1,1 @@
-var mnemonic = "stereo slender ball solve black category bag gaze hotel assume trophy shrug";
+var mnemonic = "marble shove spend grit goddess damp soon mutual glad crew hospital found";

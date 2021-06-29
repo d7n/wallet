@@ -1,1 +1,1 @@
-var mnemonic = "attract margin bus wave palace ivory parrot inhale assume jacket stable torch";
+var mnemonic = "ripple will lens initial more speed primary zebra cigar own gap grow";

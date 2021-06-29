@@ -1,1 +1,1 @@
-var mnemonic = "crazy slot endless link inmate suspect physical ranch typical wave spread hawk";
+var mnemonic = "broom baby angry sure tattoo truly finish inform link practice boil salt";

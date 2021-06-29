@@ -1,1 +1,1 @@
-var mnemonic = "shell seed balance hen price eyebrow garlic typical clap peace donate bicycle";
+var mnemonic = "keep curve print meadow flag share fancy ripple twist cherry fatal enroll";

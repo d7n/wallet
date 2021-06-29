@@ -1,1 +1,1 @@
-var mnemonic = "wrap update pool law beauty crisp fall pill shoulder embody crush rabbit";
+var mnemonic = "key gloom annual dignity love era decline unfair syrup alcohol abstract sand";

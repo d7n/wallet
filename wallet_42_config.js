@@ -1,1 +1,1 @@
-var mnemonic = "prepare head brother believe club arena jeans cupboard concert party planet legend";
+var mnemonic = "sudden noble learn worth typical add concert patrol meadow vessel twice slice";

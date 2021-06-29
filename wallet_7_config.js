@@ -1,1 +1,1 @@
-var mnemonic = "pudding settle evolve year upper equal seed palace flee ticket subject novel";
+var mnemonic = "onion decide endorse rescue document large choose genre tomorrow august minute because";
