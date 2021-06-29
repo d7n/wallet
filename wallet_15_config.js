@@ -1,1 +1,1 @@
-var mnemonic = "guide burden simple symbol network rent urge wrestle tumble garment milk depend";
+var mnemonic = "voyage rural air beauty domain whisper visual recipe next fog bring copper";

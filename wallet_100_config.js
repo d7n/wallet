@@ -1,1 +1,1 @@
-var mnemonic = "miracle fix pear image drop actress then oven pony drum huge idle";
+var mnemonic = "height rapid champion vanish genuine dust indoor curve spoon angle chronic argue";

@@ -1,1 +1,1 @@
-var mnemonic = "seek divert walnut swim scheme dish fruit scrub cabin forward clinic hunt";
+var mnemonic = "foot kite reunion canyon lend error rail bone oblige dentist actual usual";

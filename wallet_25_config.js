@@ -1,1 +1,1 @@
-var mnemonic = "prepare jealous dynamic check casino kit enact rifle elephant green grain love";
+var mnemonic = "cradle wool method vapor squirrel dice barely mom push noodle cable force";

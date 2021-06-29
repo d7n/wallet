@@ -1,1 +1,1 @@
-var mnemonic = "stamp express inch habit pole zone force taste major kiss scrub debate";
+var mnemonic = "purse catch melt service confirm relief switch measure father way saddle nest";

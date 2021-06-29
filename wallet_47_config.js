@@ -1,1 +1,1 @@
-var mnemonic = "divorce improve security eight exercise add jaguar ability excuse hair spawn frozen";
+var mnemonic = "peace decade link forest absurd member crack save thank response fabric renew";

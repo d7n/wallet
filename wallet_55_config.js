@@ -1,1 +1,1 @@
-var mnemonic = "earn spoil deer hair where junk pattern keen tilt beauty sibling bike";
+var mnemonic = "print path mosquito country unveil trip stand west cook rival grain hamster";

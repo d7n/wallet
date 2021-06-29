@@ -1,1 +1,1 @@
-var mnemonic = "sell solar woman master suggest danger mean smoke despair glare blade fuel";
+var mnemonic = "course tree again hole dragon nose capital rose myself liar during sunset";

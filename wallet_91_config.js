@@ -1,1 +1,1 @@
-var mnemonic = "mom comfort dawn medal muffin add hole brave cake like weasel rough";
+var mnemonic = "cream inquiry alone ensure witness agree undo stamp history kingdom use category";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut hip picture live camera helmet wire urban save crack away car";
+var mnemonic = "salad blanket gloom ripple mistake snow wood nose regret broccoli furnace arm";

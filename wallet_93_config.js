@@ -1,1 +1,1 @@
-var mnemonic = "farm develop trap outside warfare agree decrease gesture cable possible rice hen";
+var mnemonic = "napkin more leave service forget seven globe amused cost observe mother aspect";

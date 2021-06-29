@@ -1,1 +1,1 @@
-var mnemonic = "eight glove spoil toward grunt trumpet begin soda trust shift hen type";
+var mnemonic = "milk elephant shine neglect grief sell cream industry energy genius entry mixture";

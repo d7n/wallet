@@ -1,1 +1,1 @@
-var mnemonic = "air defy ten claim noise cover venue horse hill rent smoke balance";
+var mnemonic = "real danger other guess radio room abandon cook other dice safe below";

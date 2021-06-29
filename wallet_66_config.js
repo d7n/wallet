@@ -1,1 +1,1 @@
-var mnemonic = "sweet hammer prepare dynamic logic tooth civil jump sting destroy punch fluid";
+var mnemonic = "stick silk concert cost whale music rifle economy wealth now receive claw";

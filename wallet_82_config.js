@@ -1,1 +1,1 @@
-var mnemonic = "comic mention permit tribe diesel time cement country east blush story trend";
+var mnemonic = "wasp fit arena search tomorrow crisp rookie zebra educate wing velvet tower";

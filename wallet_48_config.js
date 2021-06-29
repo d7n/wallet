@@ -1,1 +1,1 @@
-var mnemonic = "sight owner material act loyal sport bronze rifle fence medal draw bid";
+var mnemonic = "man bitter worth output use eagle misery bus base toward tongue shaft";

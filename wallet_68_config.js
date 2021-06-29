@@ -1,1 +1,1 @@
-var mnemonic = "spy twist tool range pen congress purity assist select lion caught economy";
+var mnemonic = "churn extend crush pyramid eight girl decide social liar dry annual skull";

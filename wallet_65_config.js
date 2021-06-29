@@ -1,1 +1,1 @@
-var mnemonic = "warrior emerge settle barely party era doll monster clean disorder party inch";
+var mnemonic = "cattle orphan defense start glass differ option obey frost sphere pet valley";

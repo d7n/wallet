@@ -1,1 +1,1 @@
-var mnemonic = "buzz uphold foot lounge monkey behind hazard burger foil quality burden village";
+var mnemonic = "tape visit install sugar wide laundry annual dwarf december swamp host man";

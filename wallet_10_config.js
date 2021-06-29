@@ -1,1 +1,1 @@
-var mnemonic = "rough agent fatal know analyst thought foil dice army insect amateur manage";
+var mnemonic = "buffalo pass truck phrase girl private advance equip spawn various gain loop";

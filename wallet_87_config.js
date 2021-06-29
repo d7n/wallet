@@ -1,1 +1,1 @@
-var mnemonic = "ordinary symbol blood palace title carpet excuse traffic exhibit royal action garlic";
+var mnemonic = "rocket leaf member empty ride faith merge regret tape harvest scale zebra";

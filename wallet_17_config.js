@@ -1,1 +1,1 @@
-var mnemonic = "another taxi summer sudden coin hill asthma repeat teach march census biology";
+var mnemonic = "police match shallow online paper beach average today tone picture rate minimum";

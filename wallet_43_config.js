@@ -1,1 +1,1 @@
-var mnemonic = "sail clerk alien reject scale worth panther priority odor three like kid";
+var mnemonic = "tone coconut drill tumble ill bachelor cable shell frost negative sorry train";

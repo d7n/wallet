@@ -1,1 +1,1 @@
-var mnemonic = "child recall snow open rain earn wedding end else invest float sock";
+var mnemonic = "huge address extend web traffic recipe simple record raccoon chapter palace shuffle";

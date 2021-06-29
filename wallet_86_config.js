@@ -1,1 +1,1 @@
-var mnemonic = "utility conduct suspect bunker maple wave never episode envelope exclude swing deny";
+var mnemonic = "cactus vanish glass open cause rely lamp rally patrol physical cage universe";

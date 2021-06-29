@@ -1,1 +1,1 @@
-var mnemonic = "half squeeze wrong copper answer image dwarf north latin spare sketch cherry";
+var mnemonic = "region define bicycle casual taste similar hip library shine real merge verb";

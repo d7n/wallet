@@ -1,1 +1,1 @@
-var mnemonic = "badge luxury prevent theme canvas chef invite drip illegal method unaware bulb";
+var mnemonic = "detect head idea evil once fury seat nurse achieve trust ritual harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust diary crack under expire illness cook hand banana over race diagram";
+var mnemonic = "tissue salad more huge eight barely secret first arrange animal bundle riot";

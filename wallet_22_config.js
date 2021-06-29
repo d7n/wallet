@@ -1,1 +1,1 @@
-var mnemonic = "friend myth shell spawn crisp shop net autumn action inmate link brain";
+var mnemonic = "transfer sister desk coast like giggle lounge usual letter tenant crazy absorb";

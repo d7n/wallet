@@ -1,1 +1,1 @@
-var mnemonic = "ability flush crisp trade cry cart demise brush swap aware shallow worth";
+var mnemonic = "loop security creek grit bind innocent yellow actor valve skate elbow favorite";

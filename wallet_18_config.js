@@ -1,1 +1,1 @@
-var mnemonic = "reveal worth fork hidden syrup burger grid canoe eager stove patch tackle";
+var mnemonic = "model muffin elder eye replace super winter develop voice stand flower fame";

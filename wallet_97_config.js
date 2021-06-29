@@ -1,1 +1,1 @@
-var mnemonic = "sphere all cruel message always flame wrong elbow board pupil surge churn";
+var mnemonic = "fun candy deer live diamond city above dune inquiry chapter rifle long";

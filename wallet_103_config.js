@@ -1,1 +1,1 @@
-var mnemonic = "auto carry dust nose judge veteran dose devote client basic jump peanut";
+var mnemonic = "alarm chest tobacco enrich raw lyrics birth reunion mask lunch jeans salad";

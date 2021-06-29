@@ -1,1 +1,1 @@
-var mnemonic = "ceiling fortune cool moral salute chat castle plug process flash clap valid";
+var mnemonic = "wool mesh tent library sort cram trophy below pink omit submit obey";

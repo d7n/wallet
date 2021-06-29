@@ -1,1 +1,1 @@
-var mnemonic = "review page alcohol husband engine accuse like find hybrid letter pipe garlic";
+var mnemonic = "risk blouse social crack envelope latin camera lab proof cable grain reason";

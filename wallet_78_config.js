@@ -1,1 +1,1 @@
-var mnemonic = "vanish toe govern web hover gentle busy scissors snake machine aunt wear";
+var mnemonic = "want monster plate oven over mixture worth add video broom seminar demand";

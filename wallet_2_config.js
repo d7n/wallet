@@ -1,1 +1,1 @@
-var mnemonic = "critic brass trash typical kingdom embark affair repair judge sail lunch era";
+var mnemonic = "amount treat protect whip become glare lesson settle bulk identify inside trap";

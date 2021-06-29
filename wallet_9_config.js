@@ -1,1 +1,1 @@
-var mnemonic = "birth ecology summer turtle toward layer job embark erase tank buzz inhale";
+var mnemonic = "puppy fortune talent proud front bulk razor outer near exercise book world";

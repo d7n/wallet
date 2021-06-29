@@ -1,1 +1,1 @@
-var mnemonic = "depart into segment follow pull theory fashion crater bleak audit giggle ball";
+var mnemonic = "suffer fold wrestle develop affair noble section corn entry bargain vault panel";

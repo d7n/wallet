@@ -1,1 +1,1 @@
-var mnemonic = "guess object sustain will faith equip clock knock chief garden safe invest";
+var mnemonic = "fruit job dress oxygen voice trust behave lonely bid chef oyster wish";

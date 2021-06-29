@@ -1,1 +1,1 @@
-var mnemonic = "click record expand cradle kiwi early piece child crack cactus mule response";
+var mnemonic = "scheme ethics chapter wreck purchase walnut around gravity apology life misery merry";

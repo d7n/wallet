@@ -1,1 +1,1 @@
-var mnemonic = "void force erupt pizza salon slight round pink despair now kiwi switch";
+var mnemonic = "electric hip stay stem tip timber firm high corn husband walk perfect";

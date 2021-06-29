@@ -1,1 +1,1 @@
-var mnemonic = "engage witness occur early expire chapter knock lumber pupil horror side renew";
+var mnemonic = "alley smoke click beef jelly noise wish dinosaur roast guitar garden rent";

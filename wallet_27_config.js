@@ -1,1 +1,1 @@
-var mnemonic = "camp veteran lift dentist night figure photo twin post snake attitude possible";
+var mnemonic = "hat baby insect lunch amazing hood angle region inform agree unit exchange";

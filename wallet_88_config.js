@@ -1,1 +1,1 @@
-var mnemonic = "short scare husband they canal tide shoulder mansion fatal obvious salad dice";
+var mnemonic = "drill loan business winner two matrix car charge height flee flower damage";

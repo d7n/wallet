@@ -1,1 +1,1 @@
-var mnemonic = "nerve usual envelope drill way breeze whale video yard insane clip exotic";
+var mnemonic = "member real barely rigid found yard square quiz replace half upgrade able";

@@ -1,1 +1,1 @@
-var mnemonic = "beef ramp century novel venture conduct myth priority fox can imitate arch";
+var mnemonic = "brother magic faith member fatal slam wish stumble advance amount finish hub";

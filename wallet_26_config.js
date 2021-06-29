@@ -1,1 +1,1 @@
-var mnemonic = "stone top monster butter decrease velvet prize slim hover weird autumn found";
+var mnemonic = "weasel jealous tag fault open step police unique method prepare smoke reform";

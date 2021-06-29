@@ -1,1 +1,1 @@
-var mnemonic = "service adult gain lecture critic proof east noise whale club nerve hobby";
+var mnemonic = "inhale clutch battle entry original gym fortune master effort giant breeze test";

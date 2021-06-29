@@ -1,1 +1,1 @@
-var mnemonic = "apart render social prefer ahead gain dignity risk gold lumber wonder grape";
+var mnemonic = "olive chunk assault give lens allow bicycle twice ship husband often mixture";

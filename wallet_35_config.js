@@ -1,1 +1,1 @@
-var mnemonic = "siren keep tail woman display twelve wet police mechanic normal marble tag";
+var mnemonic = "cancel truth purity lecture genuine trim romance normal equal hint interest mix";

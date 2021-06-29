@@ -1,1 +1,1 @@
-var mnemonic = "expect knee case crop property step gaze hedgehog fog click rule addict";
+var mnemonic = "snake legal salmon butter safe legal math choose silk assault shoulder auction";

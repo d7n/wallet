@@ -1,1 +1,1 @@
-var mnemonic = "sock frost female around review visual reform teach ticket name hero ostrich";
+var mnemonic = "length neglect resource floor senior bacon join wool elevator best danger account";

@@ -1,1 +1,1 @@
-var mnemonic = "boring design screen bright fossil immense cereal exist sadness label confirm alcohol";
+var mnemonic = "walk legend piece exclude opinion three modify imitate draw muscle proof muscle";

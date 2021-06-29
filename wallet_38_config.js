@@ -1,1 +1,1 @@
-var mnemonic = "helmet trim crawl record velvet entry avoid organ make rural pulse chef";
+var mnemonic = "topic notice room uphold nut radio mountain make laugh pencil veteran toe";

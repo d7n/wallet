@@ -1,1 +1,1 @@
-var mnemonic = "bring you cotton drip mosquito matrix negative girl agent number retreat way";
+var mnemonic = "east bread stadium curtain page robust library combine actual tail chimney distance";

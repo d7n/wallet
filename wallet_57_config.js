@@ -1,1 +1,1 @@
-var mnemonic = "verify spoon measure put october ignore garment quick asset raw park pear";
+var mnemonic = "october sweet oblige reject man trap boat slim cake rate maple feel";

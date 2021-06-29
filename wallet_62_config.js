@@ -1,1 +1,1 @@
-var mnemonic = "across fence surge slide consider pond oil lazy output power habit motion";
+var mnemonic = "refuse fold cluster ordinary moral core anger birth ritual addict cement broom";

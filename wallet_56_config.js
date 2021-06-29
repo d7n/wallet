@@ -1,1 +1,1 @@
-var mnemonic = "combine mushroom have nuclear input guitar spice team bind rent diet normal";
+var mnemonic = "away public prepare banana bleak place wait open egg collect lock lend";

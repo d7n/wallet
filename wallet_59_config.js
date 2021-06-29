@@ -1,1 +1,1 @@
-var mnemonic = "edit myself fall summer type mistake scan ivory talent bulk seven trim";
+var mnemonic = "aunt enforce rescue melt enact hand crack century fantasy visual broken globe";

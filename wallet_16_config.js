@@ -1,1 +1,1 @@
-var mnemonic = "off wage expose ring wreck raw kidney daring jazz mistake ritual vendor";
+var mnemonic = "decorate library cloud state skill false stairs fury cherry endless nose multiply";

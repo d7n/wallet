@@ -1,1 +1,1 @@
-var mnemonic = "waste board across spoon setup denial broken idea library adapt mother blanket";
+var mnemonic = "grass please gate lend parent atom term mesh grape icon nut champion";

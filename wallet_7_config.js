@@ -1,1 +1,1 @@
-var mnemonic = "little holiday cycle huge second drift volcano phone mistake wrong coffee hold";
+var mnemonic = "glory trend exile decade allow sibling maple galaxy year pilot exercise horn";

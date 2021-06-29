@@ -1,1 +1,1 @@
-var mnemonic = "cage famous core ritual sea uniform cancel episode bullet almost run paddle";
+var mnemonic = "outer more slush awake focus turtle hover want mind knife human hundred";

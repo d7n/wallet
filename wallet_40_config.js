@@ -1,1 +1,1 @@
-var mnemonic = "embody flush artefact clay age poverty bracket ecology actress coil stumble entire";
+var mnemonic = "aerobic valid garbage popular nature memory labor type burst hair destroy laundry";

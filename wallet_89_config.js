@@ -1,1 +1,1 @@
-var mnemonic = "clever category nature relax dash echo image dirt cage decrease accuse lottery";
+var mnemonic = "advance depend aware chair have atom memory lyrics latin apart chalk open";

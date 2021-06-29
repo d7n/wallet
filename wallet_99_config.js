@@ -1,1 +1,1 @@
-var mnemonic = "blouse circle abuse ride minor joy pull avocado planet head couch merge";
+var mnemonic = "width horn vital found chunk evil use quote chicken hen north lunch";

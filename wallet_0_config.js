@@ -1,1 +1,1 @@
-var mnemonic = "zebra exchange feature force section unaware neck clump bachelor squirrel sister mosquito";
+var mnemonic = "return sell educate match give account angle slab speed motor you horse";

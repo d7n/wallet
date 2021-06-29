@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow jar grace census approve rate basic file spike believe fashion sentence";
+var mnemonic = "include target payment east gym brush setup party glory horror castle current";

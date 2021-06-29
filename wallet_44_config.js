@@ -1,1 +1,1 @@
-var mnemonic = "acquire neither tide fashion shoot live absorb join bundle item athlete jewel";
+var mnemonic = "that debate eternal mansion open update ankle tube eyebrow fiber beef price";

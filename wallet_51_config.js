@@ -1,1 +1,1 @@
-var mnemonic = "merit before fame soul foil world orbit since romance throw deny gorilla";
+var mnemonic = "beach home rib curious oyster portion expand busy float aunt zone easily";

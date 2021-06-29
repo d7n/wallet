@@ -1,1 +1,1 @@
-var mnemonic = "wise treat velvet gap theory shift draw deer frozen odor episode wolf";
+var mnemonic = "club lab spawn text feature shell inhale cream bamboo wood cause excess";

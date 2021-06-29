@@ -1,1 +1,1 @@
-var mnemonic = "assume relax fat tackle draft harbor allow consider tone twice faint there";
+var mnemonic = "letter drum during impact pluck conduct injury ginger family entire fossil settle";

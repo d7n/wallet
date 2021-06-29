@@ -1,1 +1,1 @@
-var mnemonic = "lesson solution party rifle about airport concert short stone spice pumpkin clerk";
+var mnemonic = "fan flee essay exist destroy monster click churn human liquid reduce program";

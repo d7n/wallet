@@ -1,1 +1,1 @@
-var mnemonic = "hotel visual punch stuff brisk bonus quarter arena target multiply skirt cancel";
+var mnemonic = "mango chef build nice depend wait lucky breeze topple actual rare believe";

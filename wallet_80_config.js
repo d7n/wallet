@@ -1,1 +1,1 @@
-var mnemonic = "used twenty electric city air outer fashion indoor staff laundry nominee state";
+var mnemonic = "shoot arena neglect river spell usual tonight notable reopen mother roof wire";

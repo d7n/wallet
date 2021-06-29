@@ -1,1 +1,1 @@
-var mnemonic = "crystal youth obvious sand sort bless rebuild dentist mammal mix lecture fancy";
+var mnemonic = "steak live vanish one ankle asthma bench connect embark all fine smart";

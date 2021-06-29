@@ -1,1 +1,1 @@
-var mnemonic = "gauge dinosaur material that relax announce valley scissors nephew model donate hover";
+var mnemonic = "fiscal aunt any can model output mammal increase spare gesture yellow notice";

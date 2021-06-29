@@ -1,1 +1,1 @@
-var mnemonic = "better buffalo find able raven vault very during swear replace figure feature";
+var mnemonic = "minor taxi maximum shuffle staff mobile sudden much flash choose desk cherry";

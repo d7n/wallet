@@ -1,1 +1,1 @@
-var mnemonic = "since evolve farm huge cancel zoo shoulder life rubber rabbit solid prison";
+var mnemonic = "equip about dust ketchup total assault popular jaguar adult circle exist kite";

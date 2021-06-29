@@ -1,1 +1,1 @@
-var mnemonic = "enroll spy category skull year favorite price brief fiscal aspect era name";
+var mnemonic = "clap basic crew smart envelope call topple actor nature salute park trial";

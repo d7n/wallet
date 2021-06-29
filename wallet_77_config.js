@@ -1,1 +1,1 @@
-var mnemonic = "brush exhaust maximum follow camera vicious wonder churn glad machine absurd pear";
+var mnemonic = "sponsor oyster swear visa exist one either inject boat canvas antique story";

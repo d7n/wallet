@@ -1,1 +1,1 @@
-var mnemonic = "inch maid champion wolf ghost park general elevator jungle above head nature";
+var mnemonic = "volcano spice mango erupt trial make police bus during fiber raw pear";

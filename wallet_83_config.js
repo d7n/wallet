@@ -1,1 +1,1 @@
-var mnemonic = "baby strike tenant bean beach father acoustic laugh roast special nature bomb";
+var mnemonic = "vendor taxi grid rough glimpse hood ice issue dawn hidden nose leg";

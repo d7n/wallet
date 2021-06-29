@@ -1,1 +1,1 @@
-var mnemonic = "seat alter accuse apple champion girl occur world scorpion lock combine throw";
+var mnemonic = "able scene night approve peanut monster give wire token fun make tragic";
