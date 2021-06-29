@@ -1,1 +1,1 @@
-var mnemonic = "surface seek better bottom enlist visa tornado alley cricket dry jealous happy";
+var mnemonic = "favorite fame tennis alter patrol this retire board long proud copper forum";

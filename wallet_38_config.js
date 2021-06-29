@@ -1,1 +1,1 @@
-var mnemonic = "siren green science prison motor local float genuine double hood fish undo";
+var mnemonic = "issue erode quote damage another ramp hundred leaf legal grocery century oppose";

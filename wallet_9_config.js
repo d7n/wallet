@@ -1,1 +1,1 @@
-var mnemonic = "spell argue imitate unveil benefit puppy gesture chaos inmate simple zoo alley";
+var mnemonic = "strike enter october spider analyst refuse enact alone buzz allow abandon flight";

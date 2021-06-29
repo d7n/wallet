@@ -1,1 +1,1 @@
-var mnemonic = "avocado glimpse song panda slight wheel issue power example risk sample combine";
+var mnemonic = "initial mom movie cube series damp frost gadget dutch strategy fluid fault";

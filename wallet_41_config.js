@@ -1,1 +1,1 @@
-var mnemonic = "pilot review cool identify cheap adapt hen violin jewel palace say buzz";
+var mnemonic = "raw spot good nasty essence ladder sunset mixture chapter cute skate strategy";

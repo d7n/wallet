@@ -1,1 +1,1 @@
-var mnemonic = "unique orient frog garlic awake vote indoor various repeat master resource swap";
+var mnemonic = "multiply add local bullet table earn right sibling green couple creek shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "trade loan upper gesture avoid oil output century update tumble scout toss";
+var mnemonic = "movie addict ten lucky congress clay lucky use final expose depth powder";

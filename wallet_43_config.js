@@ -1,1 +1,1 @@
-var mnemonic = "truth ridge traffic chimney nuclear pig trap fade bread brush decline physical";
+var mnemonic = "wedding differ cricket excite people frozen cheap swim faith print knock cattle";

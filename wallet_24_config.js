@@ -1,1 +1,1 @@
-var mnemonic = "whisper paddle cinnamon such length document kiwi patient bunker couch shop tumble";
+var mnemonic = "comfort draw midnight popular jewel ticket report response reveal rude athlete body";

@@ -1,1 +1,1 @@
-var mnemonic = "grass blood tissue frog settle brave catch liberty gold path nephew flame";
+var mnemonic = "chaos celery auction wine beyond mad common fragile wrestle achieve sniff assault";

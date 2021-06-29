@@ -1,1 +1,1 @@
-var mnemonic = "reduce useless sound decade chef joke horror puppy wheel fancy crawl purpose";
+var mnemonic = "piano kidney device corn write involve hospital tuna panther stuff spoil luxury";

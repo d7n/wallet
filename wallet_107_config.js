@@ -1,1 +1,1 @@
-var mnemonic = "tell december tiger inject search luggage tourist rival return sound run elder";
+var mnemonic = "organ tribe cotton other slush rude victory matter dust neutral result lyrics";

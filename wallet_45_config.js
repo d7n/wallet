@@ -1,1 +1,1 @@
-var mnemonic = "flame benefit split game violin long sad second chronic fashion kit exit";
+var mnemonic = "resemble disease unlock fire host ship flower broken deny crawl shallow mansion";

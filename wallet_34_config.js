@@ -1,1 +1,1 @@
-var mnemonic = "odor salmon swallow tape venue split coin fly step size breeze iron";
+var mnemonic = "mystery luggage top hover market fever nation expire strong circle live banana";

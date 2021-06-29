@@ -1,1 +1,1 @@
-var mnemonic = "blouse push craft they crucial retreat twin foil produce atom board prize";
+var mnemonic = "meadow wall subway hand find shop enforce garden penalty hurdle catalog sight";

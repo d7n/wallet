@@ -1,1 +1,1 @@
-var mnemonic = "bean brother electric glow gentle hour explain bunker cotton senior index taste";
+var mnemonic = "vivid sustain segment chat flush square health defy merit wolf neck object";

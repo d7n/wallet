@@ -1,1 +1,1 @@
-var mnemonic = "grit shrimp tuna enroll calm fever few rough chuckle write paddle annual";
+var mnemonic = "convince record express city hip piano increase master huge page such chase";

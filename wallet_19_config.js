@@ -1,1 +1,1 @@
-var mnemonic = "remove giggle trial raven fan critic thing purity people spin monitor fog";
+var mnemonic = "essence side fun usual stone couch upgrade prison power wage solid aisle";

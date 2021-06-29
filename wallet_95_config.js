@@ -1,1 +1,1 @@
-var mnemonic = "panic doctor garlic cushion shock hover wife huge satoshi adjust hedgehog hazard";
+var mnemonic = "found proof scatter combine skull pear wire toss recipe glow various must";

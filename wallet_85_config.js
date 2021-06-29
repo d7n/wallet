@@ -1,1 +1,1 @@
-var mnemonic = "boy liberty snack joy hope vicious album perfect imitate mean valley debris";
+var mnemonic = "train what mean school isolate festival boss reform differ wing orient also";

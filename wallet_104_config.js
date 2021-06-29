@@ -1,1 +1,1 @@
-var mnemonic = "begin health unfold wheel conduct asthma potato chair upset rare snap muffin";
+var mnemonic = "coffee harvest obtain that music keen shiver vendor chapter faint green rack";

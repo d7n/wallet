@@ -1,1 +1,1 @@
-var mnemonic = "absurd inform outer diary bullet oppose quantum swing nerve wheel employ ignore";
+var mnemonic = "real orbit second leopard include love glove soft minor appear cactus panic";

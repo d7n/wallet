@@ -1,1 +1,1 @@
-var mnemonic = "antenna defense damage welcome alone february better garment solution nut file mechanic";
+var mnemonic = "crane idea black hat rival wild animal cruel still wear category jazz";

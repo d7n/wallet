@@ -1,1 +1,1 @@
-var mnemonic = "sketch setup laundry bench general grab rebuild post access stumble street cave";
+var mnemonic = "park focus token rate wealth primary garden tomorrow sense assault candy clever";

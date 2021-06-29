@@ -1,1 +1,1 @@
-var mnemonic = "chief safe process other album outer earth during lock copy purity another";
+var mnemonic = "crew clay canvas fix hollow course stand swim amused remember damp into";

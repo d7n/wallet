@@ -1,1 +1,1 @@
-var mnemonic = "adjust muffin great betray bomb later dice happy term idle genre club";
+var mnemonic = "echo addict wonder armed into valve fish hold admit army subway gorilla";

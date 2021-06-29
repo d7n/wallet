@@ -1,1 +1,1 @@
-var mnemonic = "discover kitten access apart pretty else elbow define cross wheel where genius";
+var mnemonic = "grid price hobby pipe detail border today because sketch rough gym harvest";

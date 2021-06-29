@@ -1,1 +1,1 @@
-var mnemonic = "reopen uniform feature artist remove napkin lecture sea client box street velvet";
+var mnemonic = "strategy capital leisure video they lake pulse art toilet pistol neck rally";

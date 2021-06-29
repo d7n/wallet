@@ -1,1 +1,1 @@
-var mnemonic = "expand satoshi culture duck solar give talent strategy fragile stairs anchor eight";
+var mnemonic = "lecture stable fall fit today record capital illegal gown mirror gesture enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "drama prison crouch under attend trouble render trip chief crop crucial emerge";
+var mnemonic = "crunch direct ivory nation image success dust neck venture grocery about glance";

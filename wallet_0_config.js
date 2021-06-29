@@ -1,1 +1,1 @@
-var mnemonic = "tuna victory health chalk owner praise mule walk van useless family bacon";
+var mnemonic = "special alley symbol path path trumpet sphere cruel refuse balance scheme stadium";

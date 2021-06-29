@@ -1,1 +1,1 @@
-var mnemonic = "seminar trip movie deer climb outside hair act hover great pretty dwarf";
+var mnemonic = "addict ladder radar main protect trap enter drama smart tag group fresh";

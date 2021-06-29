@@ -1,1 +1,1 @@
-var mnemonic = "holiday twelve brass snake harsh shield panda rain direct olympic mean wealth";
+var mnemonic = "cart arrest pretty mind steel rain digital battle defense script slice unaware";

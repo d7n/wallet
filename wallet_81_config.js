@@ -1,1 +1,1 @@
-var mnemonic = "rare region teach clump bid vacant melt undo gown escape call wine";
+var mnemonic = "gym present love embark bundle bronze motion trash pond monitor alarm pretty";

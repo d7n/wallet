@@ -1,1 +1,1 @@
-var mnemonic = "method elevator able property prepare float then tourist endless fee typical grant";
+var mnemonic = "critic pause sniff mutual security thumb jelly mean betray flip orphan faint";

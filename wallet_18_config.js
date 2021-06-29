@@ -1,1 +1,1 @@
-var mnemonic = "diesel core birth turkey napkin gasp home make dial satoshi place sausage";
+var mnemonic = "cube hospital input runway expire innocent cup recipe siren garment appear upset";

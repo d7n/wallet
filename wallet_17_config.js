@@ -1,1 +1,1 @@
-var mnemonic = "oval rough basket tattoo whip disorder hospital retreat seek spice smooth fetch";
+var mnemonic = "alien present dinosaur dinner recall mystery right scatter extra stumble surprise two";

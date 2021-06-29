@@ -1,1 +1,1 @@
-var mnemonic = "vicious style zone much cigar tiger duck transfer nation almost judge tenant";
+var mnemonic = "fluid useful tuition elevator reveal clean pretty treat furnace crazy quick sample";

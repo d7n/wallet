@@ -1,1 +1,1 @@
-var mnemonic = "cross lumber wasp city area sibling foil fossil spoon require awesome rocket";
+var mnemonic = "light disorder random neither echo market fit analyst feature refuse decorate patrol";

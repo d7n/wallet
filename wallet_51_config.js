@@ -1,1 +1,1 @@
-var mnemonic = "lizard tiny govern begin pride differ cram advice bird paper enrich jungle";
+var mnemonic = "common uncover soup table car pioneer key hurry music arrest convince empty";

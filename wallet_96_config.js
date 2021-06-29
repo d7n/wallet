@@ -1,1 +1,1 @@
-var mnemonic = "response age bargain uniform erode wait language carbon south risk such all";
+var mnemonic = "breeze drum claim ozone auction century occur letter ensure help slab height";

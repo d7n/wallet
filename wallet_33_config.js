@@ -1,1 +1,1 @@
-var mnemonic = "injury main cereal dwarf solve title ask library small inch own over";
+var mnemonic = "next sibling color riot move about use mad pass sketch demand aerobic";

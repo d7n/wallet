@@ -1,1 +1,1 @@
-var mnemonic = "coral core snow sleep spoon win narrow smart tortoise broccoli era hover";
+var mnemonic = "cry wrist bright oxygen cabbage olympic common cherry ride quarter bike blade";

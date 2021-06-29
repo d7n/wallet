@@ -1,1 +1,1 @@
-var mnemonic = "fortune cattle describe angry clerk issue jelly fetch duty flush sing kitten";
+var mnemonic = "suggest swarm error clump express insane mother appear robust opinion anxiety depart";

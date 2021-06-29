@@ -1,1 +1,1 @@
-var mnemonic = "play agree way myself decrease tackle obvious coil primary depth strong undo";
+var mnemonic = "jacket address debate spoon luggage robust nasty carpet hobby job radar rather";

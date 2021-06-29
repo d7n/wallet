@@ -1,1 +1,1 @@
-var mnemonic = "daring dove upset neither legend ozone rather video pitch zero fit metal";
+var mnemonic = "blind viable crime journey spike stem ocean blush angle cook hazard kingdom";

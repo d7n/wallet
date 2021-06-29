@@ -1,1 +1,1 @@
-var mnemonic = "strategy cement gravity gauge weather differ combine village ordinary brother prevent insane";
+var mnemonic = "nut sight hello orange minimum myself dumb game giggle service learn enable";

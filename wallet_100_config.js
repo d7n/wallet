@@ -1,1 +1,1 @@
-var mnemonic = "horse blood ski tuition inflict view elder gown search mad enrich report";
+var mnemonic = "oil goddess various enforce legal second marble filter unhappy push throw govern";

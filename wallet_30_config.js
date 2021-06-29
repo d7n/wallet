@@ -1,1 +1,1 @@
-var mnemonic = "bread silly plug spare need quarter near fiction renew voyage same insect";
+var mnemonic = "riot document door since embrace life false warm blanket accuse october next";

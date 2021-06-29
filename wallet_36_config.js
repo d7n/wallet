@@ -1,1 +1,1 @@
-var mnemonic = "youth input pitch extend wide road physical mail nut emotion catch tape";
+var mnemonic = "various odor worry inspire task forest know middle absent idea outside end";

@@ -1,1 +1,1 @@
-var mnemonic = "recall sand reopen effort boil depend verify battle chunk wing thunder type";
+var mnemonic = "chalk stock toe sorry warfare coconut nation chapter title scorpion debris today";

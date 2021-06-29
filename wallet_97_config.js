@@ -1,1 +1,1 @@
-var mnemonic = "able emerge quantum strategy script mansion patch weapon height slogan exhibit funny";
+var mnemonic = "dash crater budget obey coffee mixture hen version language table spot state";

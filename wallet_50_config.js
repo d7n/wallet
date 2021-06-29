@@ -1,1 +1,1 @@
-var mnemonic = "select flight snack because pass trap round shove smile post naive problem";
+var mnemonic = "sketch suffer report frequent junk bid song height fossil abstract payment cram";

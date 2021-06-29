@@ -1,1 +1,1 @@
-var mnemonic = "insane whip address mom oven render absent apart region indicate news accident";
+var mnemonic = "salad day buffalo vivid devote input omit make chapter panda decide grant";

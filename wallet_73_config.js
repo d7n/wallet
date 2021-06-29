@@ -1,1 +1,1 @@
-var mnemonic = "surprise dumb spare stereo hip sentence seminar dry huge oyster august deal";
+var mnemonic = "object salmon cricket fetch aunt grit portion pave meat bind bitter glass";

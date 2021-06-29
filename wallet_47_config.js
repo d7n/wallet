@@ -1,1 +1,1 @@
-var mnemonic = "fetch wonder release celery improve consider swap amateur aerobic visual snap tired";
+var mnemonic = "cotton forest vintage neck thank plastic wrist always maid addict hundred core";

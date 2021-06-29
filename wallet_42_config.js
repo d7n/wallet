@@ -1,1 +1,1 @@
-var mnemonic = "galaxy neither pumpkin absorb dash decide leisure divide normal palace floor visa";
+var mnemonic = "avoid oil tree rifle unveil settle course swim chase loop lucky olympic";

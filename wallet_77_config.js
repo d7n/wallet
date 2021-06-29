@@ -1,1 +1,1 @@
-var mnemonic = "price employ route assault account range cable ghost spell rain ranch isolate";
+var mnemonic = "tragic unlock bargain glare slogan era negative hurry august elegant inner tired";

@@ -1,1 +1,1 @@
-var mnemonic = "brief program biology future soccer maximum zebra have volcano urge sorry retreat";
+var mnemonic = "travel bulk bullet click space indicate spatial bid expire soccer ankle inflict";

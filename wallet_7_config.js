@@ -1,1 +1,1 @@
-var mnemonic = "silver old arm zero identify vapor dilemma speed interest lunar siege oven";
+var mnemonic = "seat mad trade blouse enforce borrow attract property oil limit allow begin";

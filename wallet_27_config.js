@@ -1,1 +1,1 @@
-var mnemonic = "next future runway trip trap sing spawn apology subject bag rebel federal";
+var mnemonic = "expect truck fiscal wedding basket there crucial metal stove live heart grace";

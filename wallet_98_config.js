@@ -1,1 +1,1 @@
-var mnemonic = "company caught canyon gesture unfold laugh nut amount uniform famous liar wood";
+var mnemonic = "large sand rubber kitten absorb usage swamp narrow little person memory gospel";

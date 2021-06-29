@@ -1,1 +1,1 @@
-var mnemonic = "virus scene tag insane economy diamond afraid another exit notable section stadium";
+var mnemonic = "intact rabbit better open hamster twice prize shoe adapt afraid weapon box";

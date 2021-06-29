@@ -1,1 +1,1 @@
-var mnemonic = "fault now they flip between case comic easy expect exit donor fence";
+var mnemonic = "limb crazy network seat north behind orchard brand electric turtle gold humble";

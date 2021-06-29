@@ -1,1 +1,1 @@
-var mnemonic = "chat outdoor panel check mean quick proud lobster lesson ozone elder ostrich";
+var mnemonic = "general throw travel push name puppy lunar chat person butter october alcohol";

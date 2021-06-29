@@ -1,1 +1,1 @@
-var mnemonic = "pride rich salmon skill lazy waste wrist square survey blade excess accident";
+var mnemonic = "biology physical slender hammer cry ginger machine melody alert ten coil host";

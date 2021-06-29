@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon match rocket remind coconut royal bone arena tourist catch moral armor";
+var mnemonic = "crucial pottery host fine behave panther comic biology happy gap slot winner";

@@ -1,1 +1,1 @@
-var mnemonic = "denial make document world avocado bargain unveil ancient cross sail leopard cement";
+var mnemonic = "credit amateur oblige vivid metal aerobic sauce chronic carry resource maximum zoo";

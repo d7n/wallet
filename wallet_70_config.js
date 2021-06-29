@@ -1,1 +1,1 @@
-var mnemonic = "assist opera popular use forum cake craft man food yard drum help";
+var mnemonic = "denial pelican illegal fun earth mail maze fork dial goat report glare";

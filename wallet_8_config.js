@@ -1,1 +1,1 @@
-var mnemonic = "leaf what bread naive screen popular gold wall scrap cage ordinary fiscal";
+var mnemonic = "virus small whale shaft episode tent gesture muffin immense manual tube crash";

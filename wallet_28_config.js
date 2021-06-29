@@ -1,1 +1,1 @@
-var mnemonic = "bubble frost entire army subway salute give bacon paddle cost mammal unlock";
+var mnemonic = "become exact merge quality simple lens feed file speed trophy gap grief";

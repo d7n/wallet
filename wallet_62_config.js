@@ -1,1 +1,1 @@
-var mnemonic = "library siren sibling fog morning recipe midnight matter jaguar faint purity ethics";
+var mnemonic = "subject rack surface main arrow timber wealth fatal wrestle dignity violin galaxy";

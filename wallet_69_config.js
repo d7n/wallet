@@ -1,1 +1,1 @@
-var mnemonic = "submit abuse inch regret yard right six farm grain awful script maid";
+var mnemonic = "curve under engine friend fitness sting sell outside bike section boring bottom";

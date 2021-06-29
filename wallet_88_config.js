@@ -1,1 +1,1 @@
-var mnemonic = "train soon model laptop total around creek job street vanish nuclear entire";
+var mnemonic = "nut voice visa friend fiction matter margin zone cancel noodle sight infant";

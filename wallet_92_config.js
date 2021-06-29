@@ -1,1 +1,1 @@
-var mnemonic = "wrist bundle expire amused fever uniform cattle make call cat midnight flee";
+var mnemonic = "move document idea comic jacket couple message stay master raw client swing";

@@ -1,1 +1,1 @@
-var mnemonic = "assault exhibit lawsuit inject crystal alcohol color output ticket daring odor negative";
+var mnemonic = "raven home dry huge knee disagree utility sea equip atom design price";

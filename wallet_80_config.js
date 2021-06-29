@@ -1,1 +1,1 @@
-var mnemonic = "behind body huge bid differ equip torch exchange mansion join truth alarm";
+var mnemonic = "figure call industry response dwarf equip exit clean enough certain small mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite amazing liberty believe inch critic envelope cute raise section bracket invest";
+var mnemonic = "finish solve pledge walnut please thank adapt amused click odor purchase author";

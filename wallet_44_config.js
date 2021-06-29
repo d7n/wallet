@@ -1,1 +1,1 @@
-var mnemonic = "congress useless bulk melt rigid picnic abstract ocean aisle pass cousin glare";
+var mnemonic = "right case design enjoy kite dress cement setup soccer point family burst";

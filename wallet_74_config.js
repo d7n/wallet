@@ -1,1 +1,1 @@
-var mnemonic = "autumn clog tunnel lend until satoshi improve sustain unaware magnet pair sell";
+var mnemonic = "cheese mixture later feel option bomb hour afford pluck differ early plug";

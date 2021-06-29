@@ -1,1 +1,1 @@
-var mnemonic = "recipe exhaust shop slight kind pig frequent panther captain pill seminar blade";
+var mnemonic = "frame orange income quiz link tilt hamster else poverty local first hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "peace foil crime ancient nuclear cruel neglect beef twelve bacon slight notable";
+var mnemonic = "vessel dwarf paper century follow fatal calm carpet stadium twin gesture people";

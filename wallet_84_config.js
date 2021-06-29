@@ -1,1 +1,1 @@
-var mnemonic = "glance rice myself carbon garage lava print process honey hire physical weather";
+var mnemonic = "sunny pigeon twelve together search script pink concert apart purchase rose fringe";

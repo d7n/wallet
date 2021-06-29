@@ -1,1 +1,1 @@
-var mnemonic = "case security rubber diagram brisk grain change embody awful spoon bundle era";
+var mnemonic = "hospital logic valid remove people aerobic credit salmon flight thrive rocket gather";

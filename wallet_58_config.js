@@ -1,1 +1,1 @@
-var mnemonic = "shock taxi cushion enact practice exchange sport another second urge left language";
+var mnemonic = "welcome rotate agent pulp scrub exhibit talent cloth blue way deliver solve";

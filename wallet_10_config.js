@@ -1,1 +1,1 @@
-var mnemonic = "shallow december song clarify calm movie act banner fluid erosion claw adjust";
+var mnemonic = "feed order track wash cool gate review fabric vessel almost hire chest";

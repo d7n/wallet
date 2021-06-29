@@ -1,1 +1,1 @@
-var mnemonic = "card fit garment enough lend summer cram head frozen input grace gauge";
+var mnemonic = "violin double detect address undo umbrella final filter sword proud win coil";

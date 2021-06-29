@@ -1,1 +1,1 @@
-var mnemonic = "success energy morning tired chunk margin food kind identify food decorate axis";
+var mnemonic = "always drip fork borrow van live shadow venue brief wait scorpion crystal";

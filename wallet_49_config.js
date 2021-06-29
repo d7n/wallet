@@ -1,1 +1,1 @@
-var mnemonic = "talk match submit where gap soccer ahead skirt trash favorite deputy disorder";
+var mnemonic = "tongue security believe fresh virtual cycle place elephant eyebrow hard tool rookie";
