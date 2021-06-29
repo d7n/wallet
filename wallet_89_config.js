@@ -1,1 +1,1 @@
-var mnemonic = "milk achieve heart stuff neither saddle remind insane session family list vital";
+var mnemonic = "hat soap report talk churn half magic brass then viable bamboo crumble";

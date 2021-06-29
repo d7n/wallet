@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon cage prevent special blush grocery title photo valve jungle oven forget";
+var mnemonic = "pear captain phone toddler mango under town vault rose cheap switch nut";

@@ -1,1 +1,1 @@
-var mnemonic = "flush radar roast tone shift time punch elegant gauge library clog balcony";
+var mnemonic = "purse arrive fame drum beyond true scare guide dinner office differ hard";

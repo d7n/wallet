@@ -1,1 +1,1 @@
-var mnemonic = "sister will upset race slice lens decrease cereal north wreck summer dynamic";
+var mnemonic = "guess cruel crucial begin boring private symptom enhance chicken cup wear dog";

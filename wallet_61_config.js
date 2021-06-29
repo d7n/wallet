@@ -1,1 +1,1 @@
-var mnemonic = "brick prevent hint vessel relax scene bonus speed figure auction appear joke";
+var mnemonic = "shadow music piece faith robot gift bus people divert broom empty coast";

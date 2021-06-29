@@ -1,1 +1,1 @@
-var mnemonic = "album glue casino black alpha amused slam bacon axis sheriff salon draft";
+var mnemonic = "alley build tonight mother ripple true unfair chunk predict eternal sort cause";

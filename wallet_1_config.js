@@ -1,1 +1,1 @@
-var mnemonic = "recycle hub wrestle zoo drill twist normal forget mirror busy wool any";
+var mnemonic = "witness lizard pretty valid easily idle bomb repeat resist zoo symptom crouch";

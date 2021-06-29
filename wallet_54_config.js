@@ -1,1 +1,1 @@
-var mnemonic = "rain fluid later coast try fat code enact hurdle salt lake voice";
+var mnemonic = "tornado say loyal human husband isolate auction history because welcome wall parade";

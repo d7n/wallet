@@ -1,1 +1,1 @@
-var mnemonic = "share little ride social acid lizard language amateur blade battle tide maze";
+var mnemonic = "fire payment sister divorce safe feature shift party high blush student broom";

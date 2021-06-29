@@ -1,1 +1,1 @@
-var mnemonic = "topic hood rural visit thank strike saddle dizzy tumble audit supreme state";
+var mnemonic = "common naive worry sport already replace velvet penalty benefit build excite describe";

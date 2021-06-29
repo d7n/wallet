@@ -1,1 +1,1 @@
-var mnemonic = "license humble about fix later animal weird magic sense leader parent night";
+var mnemonic = "match dynamic update notice noodle orphan assume side pulse stand injury sudden";

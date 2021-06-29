@@ -1,1 +1,1 @@
-var mnemonic = "property immense rare gas cheese robust drop above approve eternal toe swarm";
+var mnemonic = "nasty effort castle dawn pear mammal era dentist galaxy arch secret explain";

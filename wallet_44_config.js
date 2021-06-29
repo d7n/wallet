@@ -1,1 +1,1 @@
-var mnemonic = "empty box bounce random cry try syrup ill kiss view make one";
+var mnemonic = "swift give huge apart unit spoon diary tone point barely property control";

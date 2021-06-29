@@ -1,1 +1,1 @@
-var mnemonic = "hunt agent hope volcano glove tribe add sleep firm stamp food popular";
+var mnemonic = "absorb oven fury mechanic wood surprise need rubber asthma search zoo episode";

@@ -1,1 +1,1 @@
-var mnemonic = "author cheap pretty kid tree flower frozen profit style private eagle butter";
+var mnemonic = "miracle talk wisdom nothing harsh maple party hurt jealous pyramid ketchup trap";

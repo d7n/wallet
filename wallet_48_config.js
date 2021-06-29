@@ -1,1 +1,1 @@
-var mnemonic = "original laugh warm donor hedgehog purse labor coil chimney parade camera deny";
+var mnemonic = "put cliff kiwi twenty become fee timber wet slender hedgehog labor input";

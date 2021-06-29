@@ -1,1 +1,1 @@
-var mnemonic = "argue accident indicate violin paper glory axis utility cupboard priority omit bracket";
+var mnemonic = "rain attend sorry spawn chase acoustic candy kid cat suspect result guide";

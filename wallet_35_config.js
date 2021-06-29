@@ -1,1 +1,1 @@
-var mnemonic = "mountain disagree tenant polar swim music comfort cross throw virtual manual empty";
+var mnemonic = "ribbon lumber sell eight ecology spawn unique spend legend devote goose globe";

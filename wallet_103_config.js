@@ -1,1 +1,1 @@
-var mnemonic = "actor ghost vocal test apple athlete head card idea artist hard seed";
+var mnemonic = "mammal physical ask reveal inject decline front uniform table orange stool welcome";

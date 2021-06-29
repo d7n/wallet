@@ -1,1 +1,1 @@
-var mnemonic = "unlock what dumb barely remind anger happy enact dad turtle recall nature";
+var mnemonic = "soul remain neck mimic output spirit region cable clap economy whip load";

@@ -1,1 +1,1 @@
-var mnemonic = "twist olympic session palm brave gauge electric menu gun lab escape effort";
+var mnemonic = "mountain bounce world small flip label unit tail robust visual canvas spot";

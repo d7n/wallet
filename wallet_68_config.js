@@ -1,1 +1,1 @@
-var mnemonic = "antique topple south key amused spider knife board empower grass slogan calm";
+var mnemonic = "tenant spy joke song during reward tomorrow wet ring bike minor wool";

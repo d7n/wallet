@@ -1,1 +1,1 @@
-var mnemonic = "finish silver exotic play talk demand across narrow foster assist nominee smart";
+var mnemonic = "welcome lonely ask miss earth grain silent whip wasp muffin strike purchase";

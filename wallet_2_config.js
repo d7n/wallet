@@ -1,1 +1,1 @@
-var mnemonic = "near horse enjoy treat monkey party shiver cash owner flat aim derive";
+var mnemonic = "switch window setup ancient pistol road castle toward reopen fall salt dress";

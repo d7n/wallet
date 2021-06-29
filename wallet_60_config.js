@@ -1,1 +1,1 @@
-var mnemonic = "tired goat pull harvest good shock car reject blouse allow crystal race";
+var mnemonic = "cruise access rapid fox endless trap candy project usage then mimic gadget";

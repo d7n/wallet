@@ -1,1 +1,1 @@
-var mnemonic = "host spend truly heavy yellow alarm mammal denial journey prize prison true";
+var mnemonic = "food tell cushion dentist marriage fever image kitchen flush choose shine scrub";

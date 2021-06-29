@@ -1,1 +1,1 @@
-var mnemonic = "mechanic object limb wear grief fiscal immune useless cement excuse essay equip";
+var mnemonic = "supply sound shell moon grass board height yard dinner celery quiz diary";

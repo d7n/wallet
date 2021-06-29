@@ -1,1 +1,1 @@
-var mnemonic = "jacket aisle hip steel still believe sick aisle belt frame feel napkin";
+var mnemonic = "horn window huge garment enjoy almost margin into frost runway pact replace";

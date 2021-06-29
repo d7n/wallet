@@ -1,1 +1,1 @@
-var mnemonic = "gentle gate black floor ramp spray dice fold wall diary proof twenty";
+var mnemonic = "warfare lumber message horn nasty rapid hat black provide coral educate satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "eye daughter grit clever question outside crop whip layer sauce car team";
+var mnemonic = "noodle young rookie banana orbit clarify victory hard liar cherry kidney oyster";

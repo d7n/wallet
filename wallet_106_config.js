@@ -1,1 +1,1 @@
-var mnemonic = "grain lazy royal legal swift wise marine virtual nerve little garbage bunker";
+var mnemonic = "hello lens print deny april style chair indicate virtual exchange invite brave";

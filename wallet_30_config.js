@@ -1,1 +1,1 @@
-var mnemonic = "job column zoo rude camp during rebel novel ignore confirm local chest";
+var mnemonic = "learn funny emotion young genuine flat way quit meat thumb distance brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "engine cruise stove vanish benefit avocado team retire ill royal render define";
+var mnemonic = "raw amazing seat guard fetch system leader ability rail decide maximum monster";

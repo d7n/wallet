@@ -1,1 +1,1 @@
-var mnemonic = "nephew sustain muscle walnut insect grass taste victory exchange confirm citizen list";
+var mnemonic = "sponsor identify apart car dumb outdoor cost sun cheese jazz abandon move";

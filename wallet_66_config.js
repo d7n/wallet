@@ -1,1 +1,1 @@
-var mnemonic = "spatial cake horror chalk utility boy normal wisdom garbage stem bomb ocean";
+var mnemonic = "fall glow bundle praise grape inherit feature blue panic execute job sentence";

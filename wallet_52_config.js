@@ -1,1 +1,1 @@
-var mnemonic = "second fix syrup girl cube inquiry top steel surge width ethics park";
+var mnemonic = "spoon dumb couch gasp ginger drill panda play ordinary upgrade aim staff";

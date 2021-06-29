@@ -1,1 +1,1 @@
-var mnemonic = "kind amazing brisk finger tongue hero rapid sun lens piece east ring";
+var mnemonic = "cupboard fiscal picture elegant half script myth acid control choice problem style";

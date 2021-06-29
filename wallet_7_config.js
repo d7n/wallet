@@ -1,1 +1,1 @@
-var mnemonic = "brush blame grant monitor book nice time vanish camp model food winner";
+var mnemonic = "jump business warfare stereo globe eight blind sponsor result segment child lunar";

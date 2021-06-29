@@ -1,1 +1,1 @@
-var mnemonic = "horror festival artefact apple swing useless fish unveil delay combine volcano enough";
+var mnemonic = "artist antenna domain blossom false stem scheme camera million art harvest dignity";

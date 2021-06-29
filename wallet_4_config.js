@@ -1,1 +1,1 @@
-var mnemonic = "defense pattern frame drift pilot entire ability dragon wet broken fog second";
+var mnemonic = "core lock giggle debate poem verb slow excess audit trap canyon wage";

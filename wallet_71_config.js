@@ -1,1 +1,1 @@
-var mnemonic = "duty enhance sudden hammer trash small trade hard anger deputy run dad";
+var mnemonic = "chair blast source matter hockey avoid suit say broom measure safe wine";

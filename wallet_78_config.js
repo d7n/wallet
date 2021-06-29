@@ -1,1 +1,1 @@
-var mnemonic = "ladder sustain profit tattoo worry believe ski bring elevator foil cherry toy";
+var mnemonic = "kit valve flock tip want canal action room cage setup chalk ranch";

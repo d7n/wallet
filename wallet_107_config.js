@@ -1,1 +1,1 @@
-var mnemonic = "measure address stem tree puzzle vapor climb mad company indoor east know";
+var mnemonic = "pill result cluster chase armor estate luxury quiz divert knife sight purpose";

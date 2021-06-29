@@ -1,1 +1,1 @@
-var mnemonic = "erase fortune almost corn number debris rubber wage minor stone tower choose";
+var mnemonic = "under diagram earth giant apple limb play pink ceiling topple business beauty";

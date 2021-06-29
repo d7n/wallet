@@ -1,1 +1,1 @@
-var mnemonic = "strong giggle canal rule inject fossil assist birth dignity soldier major soldier";
+var mnemonic = "ability always pelican benefit fork witness empower raven explain demise wasp access";

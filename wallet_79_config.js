@@ -1,1 +1,1 @@
-var mnemonic = "reduce raise police coin glide twist ivory victory destroy rich ostrich gesture";
+var mnemonic = "coyote country offer gasp chef road novel asthma innocent awful vintage anger";

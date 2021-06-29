@@ -1,1 +1,1 @@
-var mnemonic = "patient embrace all soap gift pause announce require hurry duck enjoy coconut";
+var mnemonic = "width found reflect liberty cry joy play pioneer lunar sand dinosaur one";

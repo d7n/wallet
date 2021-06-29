@@ -1,1 +1,1 @@
-var mnemonic = "enforce limit orphan skin problem blue broom bullet moon city cannon member";
+var mnemonic = "quality taxi country wrong open ecology actual glow excess fitness appear hint";

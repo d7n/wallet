@@ -1,1 +1,1 @@
-var mnemonic = "dust rate vocal host fortune pole bamboo chimney spoon use pizza treat";
+var mnemonic = "visit amateur frog machine detect luggage cushion purchase mammal puzzle vehicle harvest";

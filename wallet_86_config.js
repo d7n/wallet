@@ -1,1 +1,1 @@
-var mnemonic = "enforce meadow story width tattoo spare lady recall bag access beyond trust";
+var mnemonic = "nuclear point exotic ritual apple atom anger cave walnut seed industry one";

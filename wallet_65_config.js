@@ -1,1 +1,1 @@
-var mnemonic = "comfort front drive economy boring knife sport crawl dinner velvet make damage";
+var mnemonic = "practice spray round thought purse wasp envelope cross lady multiply apology eight";

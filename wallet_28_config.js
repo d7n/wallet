@@ -1,1 +1,1 @@
-var mnemonic = "beach walk any jaguar almost between swallow dinosaur sponsor eight income slight";
+var mnemonic = "disagree mask jungle pear install gentle solar please eight country hold shuffle";

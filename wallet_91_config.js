@@ -1,1 +1,1 @@
-var mnemonic = "flame sense reward remain either cement hen drift nature injury lumber usage";
+var mnemonic = "exhaust above abstract attract reveal pause loop green bronze robust labor gesture";

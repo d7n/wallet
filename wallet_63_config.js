@@ -1,1 +1,1 @@
-var mnemonic = "shuffle repair engine sad country wolf observe stumble motion melody position torch";
+var mnemonic = "oak bulk master train hawk convince file unveil model tonight opera kidney";

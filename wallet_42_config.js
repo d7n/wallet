@@ -1,1 +1,1 @@
-var mnemonic = "pride emerge worth cost train job column clinic example soup giraffe cake";
+var mnemonic = "require history visit claw grab input flash slow social regular scrap grape";

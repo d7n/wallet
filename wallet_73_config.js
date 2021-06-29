@@ -1,1 +1,1 @@
-var mnemonic = "concert print crazy jewel enroll skull hospital food poverty reunion high arrange";
+var mnemonic = "example fork make must mad cliff armed crush relax pink surround armor";

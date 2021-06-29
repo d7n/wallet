@@ -1,1 +1,1 @@
-var mnemonic = "fortune current plug clog unit multiply solution between mutual train best across";
+var mnemonic = "depth system omit farm close someone able course feel sword enroll early";

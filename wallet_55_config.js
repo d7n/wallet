@@ -1,1 +1,1 @@
-var mnemonic = "photo amazing armed remain private favorite hire crush wink unusual glow nasty";
+var mnemonic = "lazy learn dutch raccoon topple smoke offer venue layer vault unfold hamster";

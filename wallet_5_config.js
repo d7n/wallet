@@ -1,1 +1,1 @@
-var mnemonic = "kitten lift execute scrub salute flag work tattoo next track mix deliver";
+var mnemonic = "lumber absorb paper swear document curtain twenty transfer switch tuition essence scale";

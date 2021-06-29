@@ -1,1 +1,1 @@
-var mnemonic = "pave lyrics cousin ladder area supply wedding index question kitchen matter aware";
+var mnemonic = "few dignity fun expect fly image pupil vague flock bitter clog stomach";

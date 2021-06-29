@@ -1,1 +1,1 @@
-var mnemonic = "special nephew install pink urban brave gossip holiday fiction left replace lizard";
+var mnemonic = "hospital honey this art senior decade donate armor smooth way special afraid";

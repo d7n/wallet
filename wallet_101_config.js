@@ -1,1 +1,1 @@
-var mnemonic = "sun trumpet road grape melt flush endorse hat glory coconut balance quiz";
+var mnemonic = "initial amazing trip vital creek chalk bomb omit clarify alley uphold young";

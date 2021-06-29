@@ -1,1 +1,1 @@
-var mnemonic = "shrimp mistake prepare silent hello butter stadium deposit asset exotic choose drum";
+var mnemonic = "fan view exist cute exile vapor bid cave seven bind ensure sugar";

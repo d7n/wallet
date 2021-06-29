@@ -1,1 +1,1 @@
-var mnemonic = "coil green few endorse spend share indicate rally sponsor case wash rich";
+var mnemonic = "metal web rhythm tumble surface regret drill strategy mansion job quantum mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "arena have jeans glimpse palm correct fever endless conduct actor scatter bone";
+var mnemonic = "hello grain doctor mushroom tide wasp sunny trend real garlic bridge return";

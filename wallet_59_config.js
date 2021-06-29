@@ -1,1 +1,1 @@
-var mnemonic = "tag wolf mammal above jelly wrap idle someone about manage wrong bar";
+var mnemonic = "marble steak when useful ritual muscle castle belt hazard crunch suggest shuffle";

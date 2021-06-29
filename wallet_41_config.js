@@ -1,1 +1,1 @@
-var mnemonic = "open wheat rib deposit insane other chicken network enjoy under nation loud";
+var mnemonic = "viable balance renew horn minor initial lemon bitter name chest reveal debate";

@@ -1,1 +1,1 @@
-var mnemonic = "burden cement current legend sight dinosaur ostrich jungle juice oven master mean";
+var mnemonic = "fiction blossom scrub oval uncle radar pistol average knife negative faint rhythm";

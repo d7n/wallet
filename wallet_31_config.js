@@ -1,1 +1,1 @@
-var mnemonic = "online seminar balance bike recall half board border able wise embody sword";
+var mnemonic = "neglect engine burger fine entire east middle ignore share fade orphan check";

@@ -1,1 +1,1 @@
-var mnemonic = "plug pair second render salon essay castle settle tell vintage review flush";
+var mnemonic = "access mix pave tool popular weekend much one track exist solve fire";

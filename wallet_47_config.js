@@ -1,1 +1,1 @@
-var mnemonic = "pretty syrup horse shaft layer drama limb arrive school share afford route";
+var mnemonic = "idle ketchup liberty shoe unhappy scheme lawn bread toward industry asset detail";

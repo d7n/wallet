@@ -1,1 +1,1 @@
-var mnemonic = "legal dirt panda inherit differ invite mixed choice smooth fantasy culture unknown";
+var mnemonic = "estate nominee shadow output maid initial rail feel road guess satisfy give";

@@ -1,1 +1,1 @@
-var mnemonic = "human wrap rely token screen joke hip sphere flame entire cushion submit";
+var mnemonic = "toss box dirt helmet name vast verify expire shift cheese rifle patient";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry spider lottery dumb strike diary crack metal orange merry curve snap";
+var mnemonic = "three army refuse ridge tomorrow canal brand memory patient second sight film";

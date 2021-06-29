@@ -1,1 +1,1 @@
-var mnemonic = "sing hammer bench impulse tent thunder labor cash roof flavor clever donkey";
+var mnemonic = "fabric where protect peasant law salon script echo mandate tide review athlete";

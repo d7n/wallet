@@ -1,1 +1,1 @@
-var mnemonic = "tuition believe ability rack original describe access flower clinic three cruel moment";
+var mnemonic = "force east capable protect home forward forest mammal bridge estate imitate tennis";

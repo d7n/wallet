@@ -1,1 +1,1 @@
-var mnemonic = "change outer tennis lucky text laundry forget utility possible rabbit flat fetch";
+var mnemonic = "oyster lesson attend history grow health spider auction derive violin verify author";

@@ -1,1 +1,1 @@
-var mnemonic = "range deal submit reopen book clinic robot hamster draft exist resist eagle";
+var mnemonic = "favorite wire custom garden minimum suggest palace situate pioneer group guess boss";

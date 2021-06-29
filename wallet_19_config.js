@@ -1,1 +1,1 @@
-var mnemonic = "cloth pilot tribe peanut visual strong wealth cute dawn brain rubber affair";
+var mnemonic = "between enact harbor marine indoor pig common right wide degree snow auto";

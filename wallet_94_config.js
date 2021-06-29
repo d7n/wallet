@@ -1,1 +1,1 @@
-var mnemonic = "funny hill amazing vicious gain model trip icon rocket dash illegal sign";
+var mnemonic = "erase reunion tunnel cover off smile ostrich meadow pride rapid afford expose";

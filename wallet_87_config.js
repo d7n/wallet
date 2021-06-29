@@ -1,1 +1,1 @@
-var mnemonic = "sustain begin entry deposit obtain retire dumb faculty ghost mushroom opera mix";
+var mnemonic = "type primary ignore hollow main defense tip innocent violin frozen curtain bottom";

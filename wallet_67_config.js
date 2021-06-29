@@ -1,1 +1,1 @@
-var mnemonic = "shuffle disorder cat impulse dentist food know cheese light lottery domain dry";
+var mnemonic = "impose cereal edge record elephant crucial nurse suffer energy antenna gain reform";

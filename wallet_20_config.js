@@ -1,1 +1,1 @@
-var mnemonic = "super chalk hip delay away gift earn shiver attend addict dwarf sick";
+var mnemonic = "brand rebel icon defy pioneer quick walk divorce skull account consider giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "weird float bundle enhance filter arrange sadness strong debate physical abstract elder";
+var mnemonic = "federal wet volume input pepper rocket praise arrow distance floor priority survey";

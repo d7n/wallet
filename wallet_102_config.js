@@ -1,1 +1,1 @@
-var mnemonic = "bunker law boring deny bring usual cash crash minor actress monkey movie";
+var mnemonic = "gravity rug rabbit own same panel garment finish hunt winter city best";

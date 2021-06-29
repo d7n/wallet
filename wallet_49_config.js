@@ -1,1 +1,1 @@
-var mnemonic = "tell model initial scheme skirt animal scheme off mom wheel pipe okay";
+var mnemonic = "insect leaf fame report trap save drift brick head piano envelope monster";

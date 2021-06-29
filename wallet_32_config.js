@@ -1,1 +1,1 @@
-var mnemonic = "birth strategy setup praise car exist canyon letter smoke fancy spoon ankle";
+var mnemonic = "balance marriage parent clump drill boost vague sell tooth coconut bamboo garden";
