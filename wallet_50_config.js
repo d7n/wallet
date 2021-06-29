@@ -1,1 +1,1 @@
-var mnemonic = "walnut fatal usage glimpse random swamp cliff coin degree shadow balcony teach";
+var mnemonic = "license humble about fix later animal weird magic sense leader parent night";

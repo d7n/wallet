@@ -1,1 +1,1 @@
-var mnemonic = "better again dream object head whisper finish image immense shell subject joy";
+var mnemonic = "rain fluid later coast try fat code enact hurdle salt lake voice";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub opera satisfy talent common talent code regular south trumpet plate depend";
+var mnemonic = "unlock what dumb barely remind anger happy enact dad turtle recall nature";

@@ -1,1 +1,1 @@
-var mnemonic = "early december deal normal actual flash announce bacon crucial potato key bulk";
+var mnemonic = "job column zoo rude camp during rebel novel ignore confirm local chest";

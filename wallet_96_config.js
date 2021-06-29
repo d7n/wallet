@@ -1,1 +1,1 @@
-var mnemonic = "egg host keep dose defense van main fit venture panther flame kangaroo";
+var mnemonic = "alter waste uphold grid describe brown tuna convince deputy annual trap soon";

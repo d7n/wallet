@@ -1,1 +1,1 @@
-var mnemonic = "early senior relax seven poet anger float miracle shock jazz nuclear beach";
+var mnemonic = "duck zone biology record umbrella surface original hungry drift bird fury giggle";

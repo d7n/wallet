@@ -1,1 +1,1 @@
-var mnemonic = "ill rookie luggage pull skull cream diagram pet better wall census buzz";
+var mnemonic = "spatial cake horror chalk utility boy normal wisdom garbage stem bomb ocean";

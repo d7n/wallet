@@ -1,1 +1,1 @@
-var mnemonic = "bundle modify place appear live frog civil label spoon tourist jealous accuse";
+var mnemonic = "weird float bundle enhance filter arrange sadness strong debate physical abstract elder";

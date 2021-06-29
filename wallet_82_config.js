@@ -1,1 +1,1 @@
-var mnemonic = "lumber harvest spread tumble poem local junk april track code firm either";
+var mnemonic = "argue accident indicate violin paper glory axis utility cupboard priority omit bracket";

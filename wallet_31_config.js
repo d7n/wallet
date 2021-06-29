@@ -1,1 +1,1 @@
-var mnemonic = "once fabric flavor crystal year steel dial solar involve bronze cigar entire";
+var mnemonic = "online seminar balance bike recall half board border able wise embody sword";

@@ -1,1 +1,1 @@
-var mnemonic = "color myth wagon story transfer radio earn work mention bottom example risk";
+var mnemonic = "snow situate cable quit finish turn tomato rubber pigeon moral army satoshi";

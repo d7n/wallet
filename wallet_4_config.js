@@ -1,1 +1,1 @@
-var mnemonic = "detail fiber loud visa window custom chat steel giant immense rival gather";
+var mnemonic = "defense pattern frame drift pilot entire ability dragon wet broken fog second";

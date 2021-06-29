@@ -1,1 +1,1 @@
-var mnemonic = "boss fashion hunt fatal learn immune voice trim attract vivid bind stomach";
+var mnemonic = "nephew sustain muscle walnut insect grass taste victory exchange confirm citizen list";

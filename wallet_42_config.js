@@ -1,1 +1,1 @@
-var mnemonic = "sting bid siege goose lion siren street orbit fade indicate toward assume";
+var mnemonic = "pride emerge worth cost train job column clinic example soup giraffe cake";

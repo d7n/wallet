@@ -1,1 +1,1 @@
-var mnemonic = "bike shoot slim enemy matter word consider conduct sense sign phrase salon";
+var mnemonic = "trial brown spider wash mutual time wine celery warm earn surprise ancient";

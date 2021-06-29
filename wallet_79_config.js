@@ -1,1 +1,1 @@
-var mnemonic = "asset hero input vicious choice raven state pizza pond ignore blossom soda";
+var mnemonic = "reduce raise police coin glide twist ivory victory destroy rich ostrich gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "shock salt discover twist ask hover current senior bar frog any oyster";
+var mnemonic = "burden cement current legend sight dinosaur ostrich jungle juice oven master mean";

@@ -1,1 +1,1 @@
-var mnemonic = "letter glare reveal police trade tail umbrella cabbage civil emerge win purpose";
+var mnemonic = "tennis bicycle speed transfer endorse need kidney fine become fresh among where";

@@ -1,1 +1,1 @@
-var mnemonic = "clock quarter panther mistake similar silly elegant ethics bag board chimney globe";
+var mnemonic = "eye daughter grit clever question outside crop whip layer sauce car team";

@@ -1,1 +1,1 @@
-var mnemonic = "valley equal style tortoise truth jeans fix accident buzz zero column excuse";
+var mnemonic = "funny hill amazing vicious gain model trip icon rocket dash illegal sign";

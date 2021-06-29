@@ -1,1 +1,1 @@
-var mnemonic = "inch turn artefact pride rhythm topple guide cattle circle ability flame bacon";
+var mnemonic = "author cheap pretty kid tree flower frozen profit style private eagle butter";

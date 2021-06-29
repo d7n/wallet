@@ -1,1 +1,1 @@
-var mnemonic = "decade fetch sponsor bind hollow feel speed museum rapid arrange echo firm";
+var mnemonic = "sing hammer bench impulse tent thunder labor cash roof flavor clever donkey";

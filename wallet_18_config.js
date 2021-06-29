@@ -1,1 +1,1 @@
-var mnemonic = "will parrot endorse orbit people heavy head pistol paper effort nature depth";
+var mnemonic = "erase fortune almost corn number debris rubber wage minor stone tower choose";

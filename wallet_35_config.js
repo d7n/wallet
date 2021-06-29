@@ -1,1 +1,1 @@
-var mnemonic = "inquiry pudding meat cross asthma produce romance educate winner sunset brand net";
+var mnemonic = "mountain disagree tenant polar swim music comfort cross throw virtual manual empty";

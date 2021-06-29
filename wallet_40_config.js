@@ -1,1 +1,1 @@
-var mnemonic = "fit fever blame broken output chaos stage crew silly leisure inflict broken";
+var mnemonic = "host spend truly heavy yellow alarm mammal denial journey prize prison true";

@@ -1,1 +1,1 @@
-var mnemonic = "review relax steel gospel repair romance piece file bachelor prize lake shuffle";
+var mnemonic = "tired goat pull harvest good shock car reject blouse allow crystal race";

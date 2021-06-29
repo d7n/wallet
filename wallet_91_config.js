@@ -1,1 +1,1 @@
-var mnemonic = "miracle upper hint level lawn fall brown inform city item nerve pretty";
+var mnemonic = "flame sense reward remain either cement hen drift nature injury lumber usage";

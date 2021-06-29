@@ -1,1 +1,1 @@
-var mnemonic = "mention metal use virtual alley life defy domain theme peasant account roast";
+var mnemonic = "mechanic object limb wear grief fiscal immune useless cement excuse essay equip";

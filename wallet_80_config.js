@@ -1,1 +1,1 @@
-var mnemonic = "hollow dose essence climb size scissors nation once coral neglect squirrel farm";
+var mnemonic = "special nephew install pink urban brave gossip holiday fiction left replace lizard";

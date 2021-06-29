@@ -1,1 +1,1 @@
-var mnemonic = "parrot turn upset actor saddle drive mass card off door tooth peace";
+var mnemonic = "milk achieve heart stuff neither saddle remind insane session family list vital";

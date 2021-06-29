@@ -1,1 +1,1 @@
-var mnemonic = "quick crumble faculty unaware scale camera horn luggage swing hunt swift drink";
+var mnemonic = "dust rate vocal host fortune pole bamboo chimney spoon use pizza treat";

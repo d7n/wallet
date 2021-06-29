@@ -1,1 +1,1 @@
-var mnemonic = "analyst riot never alley crop antique into truly unknown enact chimney purchase";
+var mnemonic = "tag wolf mammal above jelly wrap idle someone about manage wrong bar";

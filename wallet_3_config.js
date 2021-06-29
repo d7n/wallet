@@ -1,1 +1,1 @@
-var mnemonic = "net fee flash title maximum anger sugar stick citizen blouse vibrant bread";
+var mnemonic = "fortune current plug clog unit multiply solution between mutual train best across";

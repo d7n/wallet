@@ -1,1 +1,1 @@
-var mnemonic = "bronze embody wild funny learn slot trip dinner skate cherry source sense";
+var mnemonic = "honey renew maze kiss depth guess physical engage force benefit switch average";

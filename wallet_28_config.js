@@ -1,1 +1,1 @@
-var mnemonic = "exhibit hover dust relax stamp someone ill observe school buyer sleep skull";
+var mnemonic = "beach walk any jaguar almost between swallow dinosaur sponsor eight income slight";

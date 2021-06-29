@@ -1,1 +1,1 @@
-var mnemonic = "move wild whale amused hurt risk target monitor real siege between rich";
+var mnemonic = "stairs kind chimney canvas ten monitor hurt current sick collect swamp hybrid";

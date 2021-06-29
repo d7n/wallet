@@ -1,1 +1,1 @@
-var mnemonic = "clutch clay cram vintage fragile helmet motor zone clump tail badge fever";
+var mnemonic = "shrimp mistake prepare silent hello butter stadium deposit asset exotic choose drum";

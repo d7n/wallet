@@ -1,1 +1,1 @@
-var mnemonic = "honey resemble general wrist tired detail square disease cage help fantasy ocean";
+var mnemonic = "february tribe talent innocent famous honey member chunk slender blouse increase acquire";

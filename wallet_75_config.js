@@ -1,1 +1,1 @@
-var mnemonic = "elevator alcohol tool ranch excite decade sauce marble outside life sing armed";
+var mnemonic = "share little ride social acid lizard language amateur blade battle tide maze";

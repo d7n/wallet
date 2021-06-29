@@ -1,1 +1,1 @@
-var mnemonic = "replace blind decorate need start endorse fiscal salon can turkey mom fetch";
+var mnemonic = "rude parade river gun soup soup toe wet sorry cage eight bleak";

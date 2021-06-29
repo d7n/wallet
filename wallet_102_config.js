@@ -1,1 +1,1 @@
-var mnemonic = "opinion snap level print only glare friend lend visit bacon maid magic";
+var mnemonic = "bunker law boring deny bring usual cash crash minor actress monkey movie";

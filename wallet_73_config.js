@@ -1,1 +1,1 @@
-var mnemonic = "left rather radio chimney tower tape prevent section relax pistol oxygen enhance";
+var mnemonic = "concert print crazy jewel enroll skull hospital food poverty reunion high arrange";

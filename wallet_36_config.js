@@ -1,1 +1,1 @@
-var mnemonic = "bottom ribbon track village knock file treat party planet mix hold door";
+var mnemonic = "under dry lottery cabin toast impose pave obvious tonight teach south involve";

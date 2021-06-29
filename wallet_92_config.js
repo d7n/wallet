@@ -1,1 +1,1 @@
-var mnemonic = "choice degree trumpet mention correct silver delay club dutch huge extend fun";
+var mnemonic = "satoshi obvious artwork cluster receive april sweet pluck dash inspire trigger load";

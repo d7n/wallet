@@ -1,1 +1,1 @@
-var mnemonic = "garage pass jar entry rose over friend popular emotion silly hamster chalk";
+var mnemonic = "album glue casino black alpha amused slam bacon axis sheriff salon draft";

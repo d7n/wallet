@@ -1,1 +1,1 @@
-var mnemonic = "regret else guess jelly gasp scorpion disorder lake frog catalog monitor soul";
+var mnemonic = "actor ghost vocal test apple athlete head card idea artist hard seed";

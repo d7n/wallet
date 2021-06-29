@@ -1,1 +1,1 @@
-var mnemonic = "prefer connect engine impulse turn essence remove version relief confirm laundry diesel";
+var mnemonic = "comfort front drive economy boring knife sport crawl dinner velvet make damage";

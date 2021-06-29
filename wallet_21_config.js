@@ -1,1 +1,1 @@
-var mnemonic = "ahead spirit behind eight injury erode day relief victory salt ill orchard";
+var mnemonic = "flush radar roast tone shift time punch elegant gauge library clog balcony";

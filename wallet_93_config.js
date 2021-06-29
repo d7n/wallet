@@ -1,1 +1,1 @@
-var mnemonic = "essay season must grant bulk learn valve excite laugh beach where coast";
+var mnemonic = "hurry spider lottery dumb strike diary crack metal orange merry curve snap";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach unhappy youth estate arrest company off poverty soap pepper word dawn";
+var mnemonic = "sun praise lake decrease water mango grace any flash banner garden level";

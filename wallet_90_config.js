@@ -1,1 +1,1 @@
-var mnemonic = "denial skate swift flight master vendor flip sniff fox always size city";
+var mnemonic = "property immense rare gas cheese robust drop above approve eternal toe swarm";

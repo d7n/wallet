@@ -1,1 +1,1 @@
-var mnemonic = "mass game give sword video allow light skill grass prosper abstract guitar";
+var mnemonic = "wonder business judge end animal material display behave never opera gown leopard";

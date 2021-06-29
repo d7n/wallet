@@ -1,1 +1,1 @@
-var mnemonic = "limit dash valve slab believe scout narrow rail update frozen win art";
+var mnemonic = "finish silver exotic play talk demand across narrow foster assist nominee smart";

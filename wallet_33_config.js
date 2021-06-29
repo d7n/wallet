@@ -1,1 +1,1 @@
-var mnemonic = "glare dinner donkey motion cup muffin slot car travel wage cotton film";
+var mnemonic = "enforce limit orphan skin problem blue broom bullet moon city cannon member";

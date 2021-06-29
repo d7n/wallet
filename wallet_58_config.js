@@ -1,1 +1,1 @@
-var mnemonic = "little west dismiss bubble pave harbor between jungle struggle canyon belt whisper";
+var mnemonic = "lounge evoke weasel three you token doll figure unfold ecology couch throw";

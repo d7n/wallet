@@ -1,1 +1,1 @@
-var mnemonic = "number slice version body donate antique blush blame ivory there wreck license";
+var mnemonic = "range deal submit reopen book clinic robot hamster draft exist resist eagle";

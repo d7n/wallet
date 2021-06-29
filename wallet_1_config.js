@@ -1,1 +1,1 @@
-var mnemonic = "ripple wink remain hollow false surround frame winter horn patrol share wasp";
+var mnemonic = "recycle hub wrestle zoo drill twist normal forget mirror busy wool any";

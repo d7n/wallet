@@ -1,1 +1,1 @@
-var mnemonic = "perfect maple bridge install flash rifle pudding gauge interest work casino whip";
+var mnemonic = "sister will upset race slice lens decrease cereal north wreck summer dynamic";

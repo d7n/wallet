@@ -1,1 +1,1 @@
-var mnemonic = "fragile metal gold scrub since sun still brown six true news tackle";
+var mnemonic = "topic hood rural visit thank strike saddle dizzy tumble audit supreme state";

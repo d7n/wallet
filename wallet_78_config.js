@@ -1,1 +1,1 @@
-var mnemonic = "similar satoshi grit empty tone impact echo negative twist topple exchange brisk";
+var mnemonic = "ladder sustain profit tattoo worry believe ski bring elevator foil cherry toy";

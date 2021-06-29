@@ -1,1 +1,1 @@
-var mnemonic = "extend dentist table urban limb skill permit wing speak thunder robot layer";
+var mnemonic = "wing nice cushion lonely rail civil same stone employ tag purity custom";

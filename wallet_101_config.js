@@ -1,1 +1,1 @@
-var mnemonic = "oak mom summer buyer sleep thing movie submit scale shaft buddy often";
+var mnemonic = "sun trumpet road grape melt flush endorse hat glory coconut balance quiz";

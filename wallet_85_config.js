@@ -1,1 +1,1 @@
-var mnemonic = "sunny topple item unknown confirm mouse ask veteran account panda slam screen";
+var mnemonic = "human wrap rely token screen joke hip sphere flame entire cushion submit";

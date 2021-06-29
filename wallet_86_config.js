@@ -1,1 +1,1 @@
-var mnemonic = "emotion tuna layer fortune light belt situate produce thought stool input envelope";
+var mnemonic = "enforce meadow story width tattoo spare lady recall bag access beyond trust";

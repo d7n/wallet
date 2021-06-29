@@ -1,1 +1,1 @@
-var mnemonic = "scrap good modify bag mechanic spoil confirm priority art lawsuit urge purse";
+var mnemonic = "measure address stem tree puzzle vapor climb mad company indoor east know";

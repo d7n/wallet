@@ -1,1 +1,1 @@
-var mnemonic = "cushion quantum rail old spoil consider keep surprise track ribbon stage tent";
+var mnemonic = "brush blame grant monitor book nice time vanish camp model food winner";

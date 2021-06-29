@@ -1,1 +1,1 @@
-var mnemonic = "total taxi holiday perfect attract dignity vast tobacco merge gun online boat";
+var mnemonic = "brick prevent hint vessel relax scene bonus speed figure auction appear joke";

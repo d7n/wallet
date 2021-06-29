@@ -1,1 +1,1 @@
-var mnemonic = "assume pulse tuition unfair brother eye tent bone chuckle rather stove absorb";
+var mnemonic = "birth strategy setup praise car exist canyon letter smoke fancy spoon ankle";

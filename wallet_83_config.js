@@ -1,1 +1,1 @@
-var mnemonic = "enemy blush joy resist shadow endorse question balance capital hazard evidence apology";
+var mnemonic = "cinnamon cage prevent special blush grocery title photo valve jungle oven forget";

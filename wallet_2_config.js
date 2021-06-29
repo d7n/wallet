@@ -1,1 +1,1 @@
-var mnemonic = "winter behave bag chapter build harbor try merit tonight excite romance laptop";
+var mnemonic = "near horse enjoy treat monkey party shiver cash owner flat aim derive";

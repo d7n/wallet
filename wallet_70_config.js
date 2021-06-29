@@ -1,1 +1,1 @@
-var mnemonic = "canal shallow advice record vanish wild spirit disease drink damp project slot";
+var mnemonic = "tuition believe ability rack original describe access flower clinic three cruel moment";

@@ -1,1 +1,1 @@
-var mnemonic = "remember envelope hurt tide castle retire demand educate bread ski trick report";
+var mnemonic = "twist olympic session palm brave gauge electric menu gun lab escape effort";

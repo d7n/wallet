@@ -1,1 +1,1 @@
-var mnemonic = "over blanket melody mechanic fan rail morning pact pelican ritual amused achieve";
+var mnemonic = "strong giggle canal rule inject fossil assist birth dignity soldier major soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "notable shock solid spider please hundred such tumble horn volume document reduce";
+var mnemonic = "gentle gate black floor ramp spray dice fold wall diary proof twenty";

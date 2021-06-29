@@ -1,1 +1,1 @@
-var mnemonic = "limb inject swap surround axis offer illness pole notice video again swamp";
+var mnemonic = "super chalk hip delay away gift earn shiver attend addict dwarf sick";

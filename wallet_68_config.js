@@ -1,1 +1,1 @@
-var mnemonic = "fringe magnet tent identify accident invite film screen slice spray possible uncle";
+var mnemonic = "antique topple south key amused spider knife board empower grass slogan calm";

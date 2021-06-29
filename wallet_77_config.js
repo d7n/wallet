@@ -1,1 +1,1 @@
-var mnemonic = "wide situate dignity guide body fresh enjoy ketchup earn require lab crush";
+var mnemonic = "luxury baby exclude primary rhythm concert six ethics renew cover august humor";

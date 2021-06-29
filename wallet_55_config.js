@@ -1,1 +1,1 @@
-var mnemonic = "green sail job present fancy stairs gate best surge nose amount clump";
+var mnemonic = "photo amazing armed remain private favorite hire crush wink unusual glow nasty";

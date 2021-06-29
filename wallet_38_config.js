@@ -1,1 +1,1 @@
-var mnemonic = "banana laptop warm tail cash essence onion dinner legal hard magnet point";
+var mnemonic = "plug pair second render salon essay castle settle tell vintage review flush";

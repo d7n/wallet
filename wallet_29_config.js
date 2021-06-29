@@ -1,1 +1,1 @@
-var mnemonic = "beauty prefer expand odor casino coast caution solve grant faint amount cannon";
+var mnemonic = "seek tone cargo shoe lounge jar cruel bread punch nice one position";

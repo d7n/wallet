@@ -1,1 +1,1 @@
-var mnemonic = "enable midnight fossil happy garment sunny argue camera account story social canoe";
+var mnemonic = "tell model initial scheme skirt animal scheme off mom wheel pipe okay";

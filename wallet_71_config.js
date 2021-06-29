@@ -1,1 +1,1 @@
-var mnemonic = "clay visit diamond grant indicate clip switch aware mammal bus party abstract";
+var mnemonic = "duty enhance sudden hammer trash small trade hard anger deputy run dad";

@@ -1,1 +1,1 @@
-var mnemonic = "auction always water subject twist jungle brisk engine birth pave crime simple";
+var mnemonic = "kitten lift execute scrub salute flag work tattoo next track mix deliver";

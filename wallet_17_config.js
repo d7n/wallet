@@ -1,1 +1,1 @@
-var mnemonic = "champion tell night legal renew expect hair deputy afraid nurse claw six";
+var mnemonic = "horror festival artefact apple swing useless fish unveil delay combine volcano enough";

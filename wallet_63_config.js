@@ -1,1 +1,1 @@
-var mnemonic = "depend enforce rifle tower lunar crane alien base hover army animal swim";
+var mnemonic = "shuffle repair engine sad country wolf observe stumble motion melody position torch";

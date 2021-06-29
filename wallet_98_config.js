@@ -1,1 +1,1 @@
-var mnemonic = "amateur giraffe budget sense crush car head welcome gift swear buyer amount";
+var mnemonic = "door quarter monster scan cable neutral list struggle news embark asset course";

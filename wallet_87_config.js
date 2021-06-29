@@ -1,1 +1,1 @@
-var mnemonic = "mixture neutral shadow much host loud twelve garment clean giant goat capable";
+var mnemonic = "sustain begin entry deposit obtain retire dumb faculty ghost mushroom opera mix";

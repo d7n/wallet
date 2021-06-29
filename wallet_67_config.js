@@ -1,1 +1,1 @@
-var mnemonic = "virtual ocean tag company sand illegal caution intact midnight awake connect slow";
+var mnemonic = "shuffle disorder cat impulse dentist food know cheese light lottery domain dry";

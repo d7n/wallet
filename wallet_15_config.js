@@ -1,1 +1,1 @@
-var mnemonic = "onion law crush fantasy become trick art govern blanket mobile dwarf inquiry";
+var mnemonic = "hunt agent hope volcano glove tribe add sleep firm stamp food popular";

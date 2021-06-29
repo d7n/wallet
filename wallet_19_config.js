@@ -1,1 +1,1 @@
-var mnemonic = "kidney pioneer film casual typical amateur egg bacon panda trap feature wire";
+var mnemonic = "cloth pilot tribe peanut visual strong wealth cute dawn brain rubber affair";

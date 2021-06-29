@@ -1,1 +1,1 @@
-var mnemonic = "rifle coin very guitar catalog begin nose anger toe lecture tip perfect";
+var mnemonic = "soap wait vicious weekend mansion vague ensure kiwi enhance ready balance game";

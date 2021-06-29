@@ -1,1 +1,1 @@
-var mnemonic = "tiny absorb gallery loud burden mask wrong cement loud orbit average chalk";
+var mnemonic = "original laugh warm donor hedgehog purse labor coil chimney parade camera deny";

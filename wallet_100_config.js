@@ -1,1 +1,1 @@
-var mnemonic = "alpha melody injury cradle seminar wisdom matter olympic brass since stomach main";
+var mnemonic = "kind amazing brisk finger tongue hero rapid sun lens piece east ring";

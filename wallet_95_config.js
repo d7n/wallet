@@ -1,1 +1,1 @@
-var mnemonic = "cry wide alone onion sign type super replace execute aim prevent wood";
+var mnemonic = "legal dirt panda inherit differ invite mixed choice smooth fantasy culture unknown";
