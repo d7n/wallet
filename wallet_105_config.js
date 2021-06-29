@@ -1,1 +1,1 @@
-var mnemonic = "fresh render avoid giraffe become drop pave saddle often cabin city chair";
+var mnemonic = "grid citizen verify treat cousin neutral like potato small echo shock pioneer";

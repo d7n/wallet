@@ -1,1 +1,1 @@
-var mnemonic = "powder blade amateur friend wife torch unable gesture toss damage weird pioneer";
+var mnemonic = "blue path shoulder rich similar cradle position point inject female gravity polar";

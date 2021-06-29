@@ -1,1 +1,1 @@
-var mnemonic = "weather rebuild gown palm asset notice melody impulse theme until uphold prize";
+var mnemonic = "vacant sadness army cute meadow foil glide armor close neglect island maple";

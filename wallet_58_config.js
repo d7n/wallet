@@ -1,1 +1,1 @@
-var mnemonic = "clutch grant sun height shield budget where quick kit detail circle interest";
+var mnemonic = "tobacco sketch actual sort palm bus differ bamboo mule doctor simple clinic";

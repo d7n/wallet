@@ -1,1 +1,1 @@
-var mnemonic = "silver just horror kangaroo risk antenna luggage flower west stem daring marble";
+var mnemonic = "half mail arm tuna special online ring clay invite broccoli scare slot";

@@ -1,1 +1,1 @@
-var mnemonic = "family since siege shock fly sniff priority slim grain defense bamboo moment";
+var mnemonic = "biology gaze nuclear remind gospel curtain robot company twenty harvest stable vehicle";

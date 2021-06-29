@@ -1,1 +1,1 @@
-var mnemonic = "switch scatter hour ceiling normal topic cup stable prefer double client update";
+var mnemonic = "film purse ignore dream leader pear another swear exhaust supply mystery parade";

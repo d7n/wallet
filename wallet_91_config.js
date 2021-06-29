@@ -1,1 +1,1 @@
-var mnemonic = "noble possible tongue side boy duck window scorpion worry crane someone husband";
+var mnemonic = "please lobster ugly month song disease scare adult chest cable craft wet";

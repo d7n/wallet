@@ -1,1 +1,1 @@
-var mnemonic = "recipe project client island online gospel first slam fish glue thought regular";
+var mnemonic = "mammal beyond autumn merry scan ribbon entire cross nasty nuclear lyrics wrist";

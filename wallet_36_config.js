@@ -1,1 +1,1 @@
-var mnemonic = "escape puzzle ecology scrub trouble document toy review velvet actual attract visit";
+var mnemonic = "gadget lake juice atom envelope siege jacket ridge again pledge firm glimpse";

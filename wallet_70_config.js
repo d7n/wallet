@@ -1,1 +1,1 @@
-var mnemonic = "spawn awake learn sound defy lottery open stage supreme raven laptop case";
+var mnemonic = "sign slim alpha flash asset minimum staff orchard general earn path assist";

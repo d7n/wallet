@@ -1,1 +1,1 @@
-var mnemonic = "camera asthma soft arctic critic glance final energy syrup february noodle drop";
+var mnemonic = "various quiz essence saddle where awkward entire time urban borrow judge round";

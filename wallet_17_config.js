@@ -1,1 +1,1 @@
-var mnemonic = "legal drill click capital only health health victory tissue prison answer taste";
+var mnemonic = "blanket outside click cost miss hello enrich female bitter ankle cook crucial";

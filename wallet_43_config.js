@@ -1,1 +1,1 @@
-var mnemonic = "bridge skull seek medal duty shield leaf ranch retire fiction grief diagram";
+var mnemonic = "urban shy never churn special lawsuit fade purse mind add still distance";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday eight alley include code style mesh start right gospel harvest print";
+var mnemonic = "defy daughter rebuild junior cradle electric month assume eye prepare wool noodle";

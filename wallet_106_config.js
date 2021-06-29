@@ -1,1 +1,1 @@
-var mnemonic = "thing salad response pilot engine ladder can dad tower deliver aware hover";
+var mnemonic = "artist cross pencil village pill nest gown license rich hero prepare spatial";

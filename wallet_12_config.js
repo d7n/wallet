@@ -1,1 +1,1 @@
-var mnemonic = "giraffe spare remove icon trial repeat spare main grocery credit shift tired";
+var mnemonic = "exclude estate beauty height buddy evidence vicious leaf offer interest talk mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "daring soft royal green rain evolve scrub property prosper autumn develop between";
+var mnemonic = "code pill lamp print torch cheese ranch board adult bitter fun link";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant upset bone salt express ripple wing cycle rhythm equal phrase today";
+var mnemonic = "just rate double key shield army soft beef fortune ceiling wealth candy";

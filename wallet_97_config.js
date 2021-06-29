@@ -1,1 +1,1 @@
-var mnemonic = "north mixed require transfer into cradle risk coral rigid else dad limit";
+var mnemonic = "use silk lend verb original sweet orange gorilla palace better boil sugar";

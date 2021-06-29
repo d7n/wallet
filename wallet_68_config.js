@@ -1,1 +1,1 @@
-var mnemonic = "mean celery mixed adult message wrong embrace seek vanish chief equal floor";
+var mnemonic = "control print year valley dress velvet defense forest together boring globe split";

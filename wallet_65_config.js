@@ -1,1 +1,1 @@
-var mnemonic = "wait bomb change render action cluster donate pony duck also museum radio";
+var mnemonic = "fancy van eternal green kick bunker normal long frown patient good tool";

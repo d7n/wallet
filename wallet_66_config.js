@@ -1,1 +1,1 @@
-var mnemonic = "okay drill oven marine resemble answer original alpha peanut fit dismiss sun";
+var mnemonic = "tuition pair sister cost smart expand flavor sort stamp effort artwork print";

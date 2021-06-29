@@ -1,1 +1,1 @@
-var mnemonic = "crazy night whale promote soap kidney case gather lumber retreat output reunion";
+var mnemonic = "toy surface genre muscle crowd exotic quality use lizard van sense accuse";

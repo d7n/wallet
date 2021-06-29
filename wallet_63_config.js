@@ -1,1 +1,1 @@
-var mnemonic = "fossil claim phone visual pudding train throw nerve equal panic frown document";
+var mnemonic = "hello immense silk arctic list furnace make private valid enemy purpose demise";

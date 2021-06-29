@@ -1,1 +1,1 @@
-var mnemonic = "roof service story alcohol pause under lawn spray much weekend strong earth";
+var mnemonic = "either matrix youth keep friend feature tape very cry december endless layer";

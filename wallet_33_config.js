@@ -1,1 +1,1 @@
-var mnemonic = "breeze april initial engage system yellow guilt identify addict crash amount client";
+var mnemonic = "twin giggle leaf kind captain copper skin invite swing lend celery glance";

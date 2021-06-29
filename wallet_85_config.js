@@ -1,1 +1,1 @@
-var mnemonic = "jazz enable prize mushroom radio nothing until deposit pony mystery loud hotel";
+var mnemonic = "planet poem harsh kitten example corn boy wrestle tackle ankle artefact hover";

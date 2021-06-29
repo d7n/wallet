@@ -1,1 +1,1 @@
-var mnemonic = "guess south general giraffe dress replace first close brain lamp impose disagree";
+var mnemonic = "sponsor depart jealous already blue focus inside mind vehicle voice daughter smooth";

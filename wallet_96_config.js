@@ -1,1 +1,1 @@
-var mnemonic = "unfold people crop embrace scorpion useful foster author caution staff drill bitter";
+var mnemonic = "wait album surround student win depend phrase adult other only home mushroom";

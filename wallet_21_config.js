@@ -1,1 +1,1 @@
-var mnemonic = "swear retire security dolphin dry benefit they illegal near bus later letter";
+var mnemonic = "depth typical tip hobby baby vacuum garbage way inflict tuna insane leaf";

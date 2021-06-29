@@ -1,1 +1,1 @@
-var mnemonic = "image sun enforce poem shuffle marine glove decline avocado dignity token report";
+var mnemonic = "pipe hover baby twist setup toddler box indicate brand bring fun already";

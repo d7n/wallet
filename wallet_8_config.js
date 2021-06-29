@@ -1,1 +1,1 @@
-var mnemonic = "clown hello bundle slender budget detect clean item absurd frozen snack what";
+var mnemonic = "control ride diesel pyramid meat arrow viable rude zero bag tonight witness";

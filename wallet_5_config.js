@@ -1,1 +1,1 @@
-var mnemonic = "hair slim any robot subway latin amount tortoise group open place prosper";
+var mnemonic = "trouble crowd unique forward version brown pizza menu because palace decade always";

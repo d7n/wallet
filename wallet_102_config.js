@@ -1,1 +1,1 @@
-var mnemonic = "seminar this almost talk fabric clean pig nurse during salmon resemble denial";
+var mnemonic = "symptom salmon ritual move permit coil danger amazing acoustic version slow bike";

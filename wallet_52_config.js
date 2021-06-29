@@ -1,1 +1,1 @@
-var mnemonic = "slice mixture typical wheel swamp group guard damp absent envelope culture slot";
+var mnemonic = "topic manage elegant soul above music jealous mobile fog raccoon habit army";

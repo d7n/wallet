@@ -1,1 +1,1 @@
-var mnemonic = "dinner neutral model tip lens original exact copper student hotel amount pretty";
+var mnemonic = "celery lunch symbol negative virus gallery violin cloth fiscal hidden divide youth";

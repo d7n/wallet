@@ -1,1 +1,1 @@
-var mnemonic = "that rotate pen animal title later gravity tree aisle amused receive chaos";
+var mnemonic = "muscle thrive carpet regret alone ivory sister thrive stand about announce satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "cost cotton thumb crowd input lounge just arrest ritual avocado until sick";
+var mnemonic = "drive trade rocket woman crazy daughter fluid fame potato finger egg design";

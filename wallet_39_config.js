@@ -1,1 +1,1 @@
-var mnemonic = "game priority float stove sign shallow kit glow scorpion dice purity inquiry";
+var mnemonic = "lion dice uphold hedgehog hire impose dentist hub often loop about pole";

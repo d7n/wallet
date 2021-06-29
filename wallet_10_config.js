@@ -1,1 +1,1 @@
-var mnemonic = "food party issue february chimney wool olive cereal excess civil husband nature";
+var mnemonic = "item observe wait spike asthma swap half pause strategy wish song shed";

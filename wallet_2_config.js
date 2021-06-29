@@ -1,1 +1,1 @@
-var mnemonic = "wagon afford gesture involve front broom police virus summer company village immune";
+var mnemonic = "stable skill trip uncover powder secret zone inhale combine clock learn type";

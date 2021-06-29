@@ -1,1 +1,1 @@
-var mnemonic = "before crunch stomach enroll list pelican august dress wheat chat fiction ozone";
+var mnemonic = "stick vehicle position spoil cricket equip decade dry bless spider genre hub";

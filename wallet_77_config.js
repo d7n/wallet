@@ -1,1 +1,1 @@
-var mnemonic = "rough later face cliff sheriff work horn general various claw crash coast";
+var mnemonic = "era ripple flip giant pen ketchup enforce ship episode maid popular obey";

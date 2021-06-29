@@ -1,1 +1,1 @@
-var mnemonic = "tip leaf alley dilemma kitten toast stumble glove chimney deny duty december";
+var mnemonic = "portion deliver wild nuclear bundle nominee physical come foot letter artwork basket";

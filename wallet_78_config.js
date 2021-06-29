@@ -1,1 +1,1 @@
-var mnemonic = "grape across cage direct sudden sniff fan grid venture balcony gloom window";
+var mnemonic = "ethics dune evoke bring negative ahead because valley area abuse accident ridge";

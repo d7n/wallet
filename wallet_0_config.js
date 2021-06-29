@@ -1,1 +1,1 @@
-var mnemonic = "initial tip cloud remember dice wonder still doll clown mother enrich whisper";
+var mnemonic = "shoot polar invite ticket tiger upgrade discover chimney into review purity bubble";

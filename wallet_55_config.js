@@ -1,1 +1,1 @@
-var mnemonic = "track quick camp welcome give version early number side funny forest rate";
+var mnemonic = "discover own tomorrow virtual subway owner catalog pitch upgrade duck phone giraffe";

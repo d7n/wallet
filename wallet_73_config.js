@@ -1,1 +1,1 @@
-var mnemonic = "cheese merge interest lobster involve impose cloth balcony rhythm dilemma govern column";
+var mnemonic = "radio fancy pledge opera fringe gap process minimum wonder shed flee oxygen";

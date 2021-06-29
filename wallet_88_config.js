@@ -1,1 +1,1 @@
-var mnemonic = "leopard boil disorder champion toilet bring bargain split enable admit trend drill";
+var mnemonic = "half affair argue face sibling usual fly fragile benefit bicycle apology you";

@@ -1,1 +1,1 @@
-var mnemonic = "choice elbow cover glass duck manage buzz mean salute notice pigeon page";
+var mnemonic = "black author floor change dove add learn photo rapid swarm seat diary";

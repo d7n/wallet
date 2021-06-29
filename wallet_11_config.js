@@ -1,1 +1,1 @@
-var mnemonic = "essence belt jewel fatigue misery relax trophy elevator shine tornado suggest fat";
+var mnemonic = "skirt live dragon flock just cost race fury dolphin lab local wet";

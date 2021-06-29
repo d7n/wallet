@@ -1,1 +1,1 @@
-var mnemonic = "range parade kit pluck wrist slender sure catalog easy delay rival scene";
+var mnemonic = "taste issue electric iron item game capable wait step hero next talk";

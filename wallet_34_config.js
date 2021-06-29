@@ -1,1 +1,1 @@
-var mnemonic = "eight affair mechanic tribe snake work raw near luggage case sleep wasp";
+var mnemonic = "jelly sample unique cake stand shiver future picnic dose february burden cinnamon";

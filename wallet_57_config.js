@@ -1,1 +1,1 @@
-var mnemonic = "vivid chicken wisdom solution cabbage inject swallow all awesome arch lawsuit lunch";
+var mnemonic = "impact common glide whale shell goat jar chapter dash absorb subject season";

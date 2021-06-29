@@ -1,1 +1,1 @@
-var mnemonic = "oil opinion retreat must stove narrow victory dinosaur dismiss account tape piece";
+var mnemonic = "asset melody history music survey struggle lake universe warrior chimney beyond climb";

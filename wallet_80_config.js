@@ -1,1 +1,1 @@
-var mnemonic = "memory carpet fame uncle close eyebrow mimic claw alpha move artist buddy";
+var mnemonic = "wine music rebel merry divide conduct rail dad body glue bone dawn";

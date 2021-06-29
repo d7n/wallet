@@ -1,1 +1,1 @@
-var mnemonic = "planet fame brand approve chunk search exist tip payment oyster cloud recycle";
+var mnemonic = "emerge wood collect face penalty unfair turkey fall answer brass obvious wrist";

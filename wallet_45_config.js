@@ -1,1 +1,1 @@
-var mnemonic = "armed horn hire infant burst glory deal income weapon guitar dynamic symptom";
+var mnemonic = "blind panther salad modify vibrant wet device across furnace nuclear unusual nest";

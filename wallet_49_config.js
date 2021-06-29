@@ -1,1 +1,1 @@
-var mnemonic = "lion doctor still motor pumpkin name into duty region purchase summer true";
+var mnemonic = "buyer message pass wonder else rather crazy gorilla toddler hobby orbit surge";

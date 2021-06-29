@@ -1,1 +1,1 @@
-var mnemonic = "settle fade bomb foam then dawn blanket dry rent media empower elephant";
+var mnemonic = "cube drink best symbol gadget labor unlock talent flat trumpet spare salmon";

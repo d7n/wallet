@@ -1,1 +1,1 @@
-var mnemonic = "allow stand major swim purchase approve point debate travel ostrich dawn shove";
+var mnemonic = "barrel deer poet fault planet cycle lounge kite winner fade joy borrow";

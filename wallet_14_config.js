@@ -1,1 +1,1 @@
-var mnemonic = "picture act grain super mean nut adult film enjoy shiver gorilla current";
+var mnemonic = "solid supreme then check obvious school arrow transfer unveil wagon level endorse";

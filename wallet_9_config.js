@@ -1,1 +1,1 @@
-var mnemonic = "shed step need other cradle tilt dinner actor inch render divide law";
+var mnemonic = "laundry weasel web animal seminar search bag fresh steak bundle soft suit";

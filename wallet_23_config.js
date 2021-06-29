@@ -1,1 +1,1 @@
-var mnemonic = "envelope utility sketch rely assist thought entry critic tuition kick video require";
+var mnemonic = "sphere marble milk axis tonight endorse monitor visit citizen easy dog fringe";

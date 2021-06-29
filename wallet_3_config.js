@@ -1,1 +1,1 @@
-var mnemonic = "crew type dance muffin exist pass clap elegant valid weird drastic enhance";
+var mnemonic = "scout resist puzzle charge wide steak alarm entire reflect chapter color major";

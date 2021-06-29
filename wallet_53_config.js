@@ -1,1 +1,1 @@
-var mnemonic = "oak true sketch best daughter vibrant edge traffic column paper garment decade";
+var mnemonic = "eyebrow cube cat salon throw trigger fringe unlock glance position pistol faculty";

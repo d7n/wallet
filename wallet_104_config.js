@@ -1,1 +1,1 @@
-var mnemonic = "aspect afford table tennis uncover green siren raven multiply essay must luggage";
+var mnemonic = "must carbon outdoor reject excite example title hospital rubber health person betray";

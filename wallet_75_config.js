@@ -1,1 +1,1 @@
-var mnemonic = "arctic else torch rhythm attack what elephant trophy few acid tail rain";
+var mnemonic = "debris spy cliff bunker year inside health immense zebra gadget liberty valve";

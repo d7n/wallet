@@ -1,1 +1,1 @@
-var mnemonic = "firm rival cake odor talent despair file acquire clerk copy shoulder scrap";
+var mnemonic = "toe need reopen sad unaware soda true barrel silver nominee win husband";

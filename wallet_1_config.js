@@ -1,1 +1,1 @@
-var mnemonic = "twist human frozen deny message apple caught donkey crystal violin weird pole";
+var mnemonic = "glove two liquid moral month box celery explain jacket rack dilemma coconut";

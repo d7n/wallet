@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog trend hedgehog gesture enact candy soda retire idle nest drive put";
+var mnemonic = "network cannon art donkey prepare hen day hair toss duck rally when";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk shift critic pink sugar size coast private speed beyond source umbrella";
+var mnemonic = "tent earn animal faint that explain erode sketch jaguar spatial already smooth";

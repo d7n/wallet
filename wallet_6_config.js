@@ -1,1 +1,1 @@
-var mnemonic = "retire drop milk uncover super sword attract minute response lend still elite";
+var mnemonic = "proud artwork struggle rotate biology cliff large liberty pulp script unknown price";

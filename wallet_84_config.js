@@ -1,1 +1,1 @@
-var mnemonic = "tackle waste cross fiber easy aware skull kick gain bridge hair prevent";
+var mnemonic = "universe funny inhale bronze hunt school security calm census neither sea fitness";

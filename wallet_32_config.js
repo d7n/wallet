@@ -1,1 +1,1 @@
-var mnemonic = "canyon input autumn talent vote wheel quality midnight message peace clay body";
+var mnemonic = "spend master furnace better render stove square claw protect sun erode immune";

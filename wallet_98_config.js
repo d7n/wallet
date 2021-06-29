@@ -1,1 +1,1 @@
-var mnemonic = "bag trick lecture equal garlic goose car toast vanish grab soccer ivory";
+var mnemonic = "neglect exclude join bicycle anger tone bridge want outer maid bulk media";

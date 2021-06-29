@@ -1,1 +1,1 @@
-var mnemonic = "violin lunar galaxy excess catch moral since grant boring capital humble bleak";
+var mnemonic = "beyond crucial cross main pact item famous snake hidden divide hurt demand";

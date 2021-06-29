@@ -1,1 +1,1 @@
-var mnemonic = "aware fatigue identify dwarf sort museum fault culture become tool town any";
+var mnemonic = "bridge keen lens squirrel foot allow taste double spider hard private omit";

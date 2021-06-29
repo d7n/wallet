@@ -1,1 +1,1 @@
-var mnemonic = "miracle point purchase purity caught auction digital sleep bicycle inherit company marble";
+var mnemonic = "dance monster people hand valve adult uncle enrich sudden claim negative squirrel";

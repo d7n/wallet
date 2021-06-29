@@ -1,1 +1,1 @@
-var mnemonic = "chicken syrup final fantasy click dilemma nothing dinosaur blanket sniff put sail";
+var mnemonic = "lock robot law dose evidence veteran thumb suspect company pencil giant poverty";

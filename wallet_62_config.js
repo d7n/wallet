@@ -1,1 +1,1 @@
-var mnemonic = "useless balcony youth master bounce tower dune volume find defense mechanic crack";
+var mnemonic = "erode wild regret any swarm neck lawsuit addict nominee salon satoshi doll";

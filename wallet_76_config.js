@@ -1,1 +1,1 @@
-var mnemonic = "few language embrace dinner place connect marine special word between rail chronic";
+var mnemonic = "pattern head enough ensure battle state metal vessel increase magic matter fabric";

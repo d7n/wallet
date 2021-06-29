@@ -1,1 +1,1 @@
-var mnemonic = "upper thumb sauce weird faint truth program stumble wall dizzy aisle chapter";
+var mnemonic = "sustain dad rely afraid era what enforce short stock cloud room hint";

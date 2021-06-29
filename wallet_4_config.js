@@ -1,1 +1,1 @@
-var mnemonic = "squeeze between essence record timber mad rice actor false hurry also fire";
+var mnemonic = "hire across imitate peanut basic sketch bacon later spy short nice crane";

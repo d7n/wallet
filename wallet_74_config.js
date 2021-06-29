@@ -1,1 +1,1 @@
-var mnemonic = "cost design vote method swap air bright middle scene bullet area lock";
+var mnemonic = "cloth mask quality joke sponsor light bind hurdle dawn below choice avocado";

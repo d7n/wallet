@@ -1,1 +1,1 @@
-var mnemonic = "ritual concert boil silk around flavor sea field hire quiz disagree antique";
+var mnemonic = "expose sting rally hint prosper host paddle army ostrich gown fat omit";

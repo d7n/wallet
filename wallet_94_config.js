@@ -1,1 +1,1 @@
-var mnemonic = "wire boy nothing miss only edge domain host yellow provide drop visual";
+var mnemonic = "december chimney desert evolve erode glide foot web load stand initial satisfy";

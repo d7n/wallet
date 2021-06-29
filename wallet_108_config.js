@@ -1,1 +1,1 @@
-var mnemonic = "west lucky fatal supply correct gun tornado camp insect image useful lobster";
+var mnemonic = "stock oxygen romance brave erase weather pole correct banner betray manual remove";

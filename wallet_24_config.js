@@ -1,1 +1,1 @@
-var mnemonic = "cry together wet pluck dumb cannon nephew fiscal cradle spring keen spatial";
+var mnemonic = "that cruel copy utility they empty feature hold yard elite grant reward";

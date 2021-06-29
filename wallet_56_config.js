@@ -1,1 +1,1 @@
-var mnemonic = "luxury sign flame lock cereal swim maid age spawn student shrug barely";
+var mnemonic = "elephant brave alarm address require meadow century tent update gentle total enjoy";
