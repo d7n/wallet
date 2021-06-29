@@ -1,1 +1,1 @@
-var mnemonic = "funny direct approve genuine valid monster field range fault eternal play lounge";
+var mnemonic = "mass link visa require van ranch ripple faith two clarify ghost fetch";

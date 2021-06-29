@@ -1,1 +1,1 @@
-var mnemonic = "material divert region large frequent puppy opera fortune cricket sense oven film";
+var mnemonic = "eager patch fork powder mistake famous helmet bundle such faculty lottery solar";

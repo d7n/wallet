@@ -1,1 +1,1 @@
-var mnemonic = "tornado stamp bright misery chat jump appear tilt april moral width glare";
+var mnemonic = "leader code equal patrol jazz once add spoil seek noble midnight garment";

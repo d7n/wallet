@@ -1,1 +1,1 @@
-var mnemonic = "trouble account despair chase bridge vault way piano spider abstract power vibrant";
+var mnemonic = "weekend bubble cream move pupil will menu vessel garlic auction coast base";

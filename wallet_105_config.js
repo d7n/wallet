@@ -1,1 +1,1 @@
-var mnemonic = "upgrade wide mushroom liberty swift glide ranch word run taste crawl kiss";
+var mnemonic = "estate flame truth usage pottery zebra undo sustain whale orange merge pool";

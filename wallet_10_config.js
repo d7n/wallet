@@ -1,1 +1,1 @@
-var mnemonic = "truth devote proud frost crazy history draw there apart boat front mad";
+var mnemonic = "owner car cigar joy domain grief chest mule enroll consider winter crystal";

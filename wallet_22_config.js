@@ -1,1 +1,1 @@
-var mnemonic = "trend dentist orchard kid diagram cage vibrant bronze ketchup mesh velvet person";
+var mnemonic = "isolate blur seat energy jewel derive quick cash minimum cable oppose moon";

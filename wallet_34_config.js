@@ -1,1 +1,1 @@
-var mnemonic = "rabbit club oval sustain dune must crucial near shield flag grass earth";
+var mnemonic = "melt margin region fame width loop teach inherit first purpose all subject";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy dust online matrix amount expand phrase ask eye habit agree call";
+var mnemonic = "sport trust feel gloom vicious abandon ensure fine enact enemy glow survey";

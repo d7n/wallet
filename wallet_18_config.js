@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur edit one balance genre village daring abandon dynamic antique faint weird";
+var mnemonic = "loud spot emerge diesel inform mouse educate estate orient run wheel output";

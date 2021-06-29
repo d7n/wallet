@@ -1,1 +1,1 @@
-var mnemonic = "faculty illegal method later suspect liquid club staff raw kangaroo six bundle";
+var mnemonic = "brush approve globe bone tag fold online online reward allow cousin stomach";

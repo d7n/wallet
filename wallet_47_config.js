@@ -1,1 +1,1 @@
-var mnemonic = "save must shallow clutch much winter manual wash bulk always gold frozen";
+var mnemonic = "wheel ill settle west route staff clump curve hungry cry tray angle";

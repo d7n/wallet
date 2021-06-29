@@ -1,1 +1,1 @@
-var mnemonic = "elite deposit recall permit garbage daring brown sound follow evoke mobile athlete";
+var mnemonic = "outer coconut caution foil material pair strike busy someone result gown decade";

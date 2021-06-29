@@ -1,1 +1,1 @@
-var mnemonic = "patrol loyal cool harbor device want bus inform ethics domain banner glow";
+var mnemonic = "scrub cool ripple quantum easy fish embody demise cushion keen exile screen";

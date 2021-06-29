@@ -1,1 +1,1 @@
-var mnemonic = "ship head have gaze ripple apology victory screen broom face blur debris";
+var mnemonic = "endorse foot embody law latin young trap grid silk pulse black bottom";

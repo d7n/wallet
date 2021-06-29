@@ -1,1 +1,1 @@
-var mnemonic = "spoon critic pulse rule draft urge innocent lock age frost scan husband";
+var mnemonic = "curtain accident scan nothing elegant random image manage toe main mechanic series";

@@ -1,1 +1,1 @@
-var mnemonic = "like mammal winter nerve wonder jelly olympic tortoise boost memory layer keep";
+var mnemonic = "client what label student mirror eyebrow execute scout fire connect practice over";

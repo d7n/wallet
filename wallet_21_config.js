@@ -1,1 +1,1 @@
-var mnemonic = "reduce mountain again bright feature soldier jazz gloom small case object reduce";
+var mnemonic = "deputy resemble elephant must rebel pilot slight pelican law surround improve west";

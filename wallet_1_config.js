@@ -1,1 +1,1 @@
-var mnemonic = "elegant already word occur random typical allow vibrant emotion snake nurse wine";
+var mnemonic = "merit fall violin cream art suffer under stock hockey renew edge advice";

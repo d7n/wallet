@@ -1,1 +1,1 @@
-var mnemonic = "stock foster change copper kidney dance wife turtle pool boost broken fit";
+var mnemonic = "add please gain tray confirm hello slender toward shrimp monitor when hill";

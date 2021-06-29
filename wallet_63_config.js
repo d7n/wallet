@@ -1,1 +1,1 @@
-var mnemonic = "settle friend shrimp fix rent finger follow behind certain snap bacon tree";
+var mnemonic = "circle hospital category shock hat menu knife potato finger salute swap ecology";

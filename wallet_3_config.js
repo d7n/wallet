@@ -1,1 +1,1 @@
-var mnemonic = "identify sad endorse fuel seek spoon abuse debate north match garment pill";
+var mnemonic = "script sample royal crystal tape daughter happy impose swarm walnut bar expire";

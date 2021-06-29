@@ -1,1 +1,1 @@
-var mnemonic = "gadget exile invite danger will menu believe gossip reason staff pelican expect";
+var mnemonic = "vague need foil base buffalo submit window believe traffic elbow top item";

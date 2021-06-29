@@ -1,1 +1,1 @@
-var mnemonic = "pet ethics night typical crouch cool obtain poem gain exact crop quantum";
+var mnemonic = "vital mixed tide company claw same ankle regular way pull oil physical";

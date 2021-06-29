@@ -1,1 +1,1 @@
-var mnemonic = "hungry fatal foster unfair feed core owner chunk put cheese diet company";
+var mnemonic = "attend cat rule champion maze purpose guilt inspire thumb web deposit access";

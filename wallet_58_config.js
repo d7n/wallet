@@ -1,1 +1,1 @@
-var mnemonic = "camp agent foil give already island way spider few life exact demise";
+var mnemonic = "oil include entire east burger indoor kiwi pair exclude hire repeat manual";

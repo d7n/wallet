@@ -1,1 +1,1 @@
-var mnemonic = "certain case armor warfare cream link flight barrel forest design tape thumb";
+var mnemonic = "salon save drastic talent endless coast corn festival desk over crouch garage";

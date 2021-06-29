@@ -1,1 +1,1 @@
-var mnemonic = "churn absent base unfold present tribe deputy render fruit spin invite piece";
+var mnemonic = "all teach mobile derive pigeon quantum supreme trust old reform spell raccoon";

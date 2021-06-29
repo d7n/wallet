@@ -1,1 +1,1 @@
-var mnemonic = "club goddess tree ripple reunion cream obvious beef open tragic true conduct";
+var mnemonic = "allow wheat family chef scatter identify burden suggest network suffer govern thought";

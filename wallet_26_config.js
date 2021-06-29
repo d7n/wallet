@@ -1,1 +1,1 @@
-var mnemonic = "kick cream dream range mean wire birth canoe dove session exotic very";
+var mnemonic = "purchase matter post blame unknown start venture south nominee venture pipe peanut";

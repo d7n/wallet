@@ -1,1 +1,1 @@
-var mnemonic = "orange rabbit weird soul piece perfect abstract perfect square option lawsuit swear";
+var mnemonic = "grab panther penalty notable any antique connect grab case town green gloom";

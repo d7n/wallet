@@ -1,1 +1,1 @@
-var mnemonic = "narrow relax icon solar dizzy review edit weekend retire goat final evoke";
+var mnemonic = "elder grant nominee rapid tonight error noodle same long trap giraffe useless";

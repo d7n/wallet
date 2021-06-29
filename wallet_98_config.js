@@ -1,1 +1,1 @@
-var mnemonic = "try skate agent effort ritual skirt chief favorite price fancy ship mixed";
+var mnemonic = "arrange matter oven dismiss return double bus universe pipe scatter patrol amount";

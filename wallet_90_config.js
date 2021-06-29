@@ -1,1 +1,1 @@
-var mnemonic = "lunar fan summer antique census multiply pupil usual denial dune priority salt";
+var mnemonic = "glue abuse pattern cushion scissors diamond private rail collect beyond salad jewel";

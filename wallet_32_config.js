@@ -1,1 +1,1 @@
-var mnemonic = "ability diary treat room pyramid velvet six shield despair one identify anxiety";
+var mnemonic = "method keep embrace prize valley letter detail jaguar illegal turn wisdom tomato";

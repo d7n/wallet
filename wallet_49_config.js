@@ -1,1 +1,1 @@
-var mnemonic = "miss garlic mask about trip phrase swallow stuff chronic pizza permit kiwi";
+var mnemonic = "upgrade derive clog convince lumber fringe snow moral swing peace quick renew";

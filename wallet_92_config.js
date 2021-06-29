@@ -1,1 +1,1 @@
-var mnemonic = "buddy gravity try next load history unveil code bulk emerge diet tortoise";
+var mnemonic = "amateur snake near prize pizza month outdoor off plug assault renew similar";

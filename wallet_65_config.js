@@ -1,1 +1,1 @@
-var mnemonic = "across beauty uncover fatal keep route october uncle bike donkey inmate breeze";
+var mnemonic = "deputy try true tenant lazy whale kangaroo travel radar cash movie barely";

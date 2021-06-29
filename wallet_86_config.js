@@ -1,1 +1,1 @@
-var mnemonic = "armor silent steak unfair album return hybrid woman drift staff genre indicate";
+var mnemonic = "farm run dentist scrap hip repeat lend fiscal toss caution fence able";

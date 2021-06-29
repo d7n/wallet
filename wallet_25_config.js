@@ -1,1 +1,1 @@
-var mnemonic = "ten piano drastic quality film pistol police critic soup measure shoe filter";
+var mnemonic = "surround repeat idea arctic noodle false casino scrub bundle island chief basic";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond defy chunk venue sport display feature answer bean gather syrup way";
+var mnemonic = "soldier arch push glide business edge cinnamon laptop rhythm involve punch stuff";

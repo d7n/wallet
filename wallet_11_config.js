@@ -1,1 +1,1 @@
-var mnemonic = "sphere text amused lucky come ecology wool venture shed behind tank defense";
+var mnemonic = "ridge eager beef grab repeat shove tired champion cram glad amount rival";

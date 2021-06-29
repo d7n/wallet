@@ -1,1 +1,1 @@
-var mnemonic = "later female river bacon whisper daughter iron still harsh catalog breeze chuckle";
+var mnemonic = "moral bundle sibling bundle access salon raw yard fabric swing pact gallery";

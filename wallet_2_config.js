@@ -1,1 +1,1 @@
-var mnemonic = "morning cram fever wagon radar idea brown yard fiction body tuition assume";
+var mnemonic = "degree display attack hair profit glow excuse profit mule train hockey coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony onion material viable school box liar neck jazz timber orange grape";
+var mnemonic = "sketch runway property moral three enough beauty consider again earn brand ten";

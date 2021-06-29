@@ -1,1 +1,1 @@
-var mnemonic = "echo parrot pelican question reject minute venture example gather suit churn ship";
+var mnemonic = "fiscal post harvest party divide snake undo party peasant mango work fine";

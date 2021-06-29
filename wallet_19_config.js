@@ -1,1 +1,1 @@
-var mnemonic = "bench roast crowd smooth vacant pyramid message punch museum volcano rocket device";
+var mnemonic = "flat list rice business urban weasel system cute because meadow fatigue sick";

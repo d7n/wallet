@@ -1,1 +1,1 @@
-var mnemonic = "awake elegant tent zoo transfer almost negative erase piano rural bonus put";
+var mnemonic = "oil rose oven educate two please clap turn heart ghost brick sunny";

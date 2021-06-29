@@ -1,1 +1,1 @@
-var mnemonic = "height crumble bread will coin fog fiscal anger dutch carry unknown custom";
+var mnemonic = "upset author spy across increase maze throw faculty funny road coral real";

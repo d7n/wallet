@@ -1,1 +1,1 @@
-var mnemonic = "sort strategy sweet prevent jacket food junk unveil keep true lesson orphan";
+var mnemonic = "welcome rib crouch october apology poverty puppy post bonus renew turkey sibling";

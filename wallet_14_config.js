@@ -1,1 +1,1 @@
-var mnemonic = "unfold start bag nice cross outside lion license surface risk silver better";
+var mnemonic = "such motion foot opera fame bronze champion evolve machine bronze object decrease";

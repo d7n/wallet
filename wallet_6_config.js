@@ -1,1 +1,1 @@
-var mnemonic = "name never aerobic voyage scare pull push romance invite time merry muffin";
+var mnemonic = "age trumpet slot since tilt spoil coin fashion pig pink lonely eager";

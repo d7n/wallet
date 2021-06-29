@@ -1,1 +1,1 @@
-var mnemonic = "road radio ridge doll bounce parent bubble human duck cram train lottery";
+var mnemonic = "hope outer demise dust trust host core view hold piano slight you";

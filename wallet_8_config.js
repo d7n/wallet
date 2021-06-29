@@ -1,1 +1,1 @@
-var mnemonic = "faith plastic walnut cute attack rally salad provide olympic lunar despair banana";
+var mnemonic = "favorite caution popular circle monitor autumn august record taxi knife crack slice";

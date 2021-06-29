@@ -1,1 +1,1 @@
-var mnemonic = "senior athlete assume visual code common cause squirrel left salon pulse scheme";
+var mnemonic = "dog gravity bleak seven tide job sustain sound jazz lawsuit oxygen festival";

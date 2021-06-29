@@ -1,1 +1,1 @@
-var mnemonic = "pig normal prefer flat father choice install review slogan cluster cat island";
+var mnemonic = "brief inject trade topic uphold version banner close liquid spin eyebrow rival";

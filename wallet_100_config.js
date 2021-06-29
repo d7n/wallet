@@ -1,1 +1,1 @@
-var mnemonic = "legend glove coast public pole rule coin lake logic text goose split";
+var mnemonic = "blood frozen swarm fever asset shed loan salon famous educate wait wood";

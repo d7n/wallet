@@ -1,1 +1,1 @@
-var mnemonic = "shallow someone thunder copy cherry design wire write fame spatial mass magic";
+var mnemonic = "tiger witness machine brick catch victory round flame blue sign lunch now";

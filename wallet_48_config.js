@@ -1,1 +1,1 @@
-var mnemonic = "birth family limit love usual sustain donate stage sea aware warfare cradle";
+var mnemonic = "surprise assault utility rigid normal false milk slow monkey better keep start";

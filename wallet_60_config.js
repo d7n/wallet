@@ -1,1 +1,1 @@
-var mnemonic = "atom omit twin draw glare order course flip marine patrol crowd frozen";
+var mnemonic = "inherit stage radio shop prefer barely era unfold surface kiwi rhythm wink";

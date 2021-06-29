@@ -1,1 +1,1 @@
-var mnemonic = "muscle decide keen sniff rent above sport steak cactus grit believe execute";
+var mnemonic = "minute decrease gym hover maple horn cotton replace mixture bicycle nut true";

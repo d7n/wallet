@@ -1,1 +1,1 @@
-var mnemonic = "almost tragic census mercy feed notice horn voice humble volcano taste thrive";
+var mnemonic = "pole small nephew business swift confirm never protect trumpet apology fork aisle";

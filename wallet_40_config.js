@@ -1,1 +1,1 @@
-var mnemonic = "social cinnamon student you discover also engine bread steak climb camp human";
+var mnemonic = "eyebrow bless original primary undo sing mixture cherry visual jealous butter shrug";

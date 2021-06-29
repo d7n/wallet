@@ -1,1 +1,1 @@
-var mnemonic = "fortune drive history address duck carbon loop yard sustain sail tide frozen";
+var mnemonic = "orbit monkey library oblige work smoke swamp lazy vacant real rhythm exile";

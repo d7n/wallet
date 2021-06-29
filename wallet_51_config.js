@@ -1,1 +1,1 @@
-var mnemonic = "smoke common stereo tackle window crystal ahead pluck marble you slender bind";
+var mnemonic = "chaos expose cable deal assume earth apart salmon snake coin often image";

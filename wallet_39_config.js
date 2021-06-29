@@ -1,1 +1,1 @@
-var mnemonic = "attract top scrap online small mind pretty eye bicycle price female shield";
+var mnemonic = "minor angry injury target unfair crumble economy sentence giggle grass valve essay";

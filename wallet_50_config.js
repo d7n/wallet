@@ -1,1 +1,1 @@
-var mnemonic = "issue atom rule buddy reunion evil scrub reflect improve wrestle roof hand";
+var mnemonic = "smooth kit library blade jealous change analyst fitness pen chimney pioneer rely";

@@ -1,1 +1,1 @@
-var mnemonic = "library trade pizza tribe mystery head crawl poet cage rich park vintage";
+var mnemonic = "february embark cool citizen shoot inject cost tilt snack volcano sock phone";

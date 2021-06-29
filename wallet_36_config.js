@@ -1,1 +1,1 @@
-var mnemonic = "public speed web can enforce remind clay warm scorpion magic convince planet";
+var mnemonic = "combine ankle clump uphold theme orange clean jewel loud hat leaf ridge";

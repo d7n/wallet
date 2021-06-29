@@ -1,1 +1,1 @@
-var mnemonic = "food detect seek paddle moral decide betray hundred acid south cotton club";
+var mnemonic = "shove warfare various bird erase creek dash tiger phone lock hungry churn";

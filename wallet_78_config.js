@@ -1,1 +1,1 @@
-var mnemonic = "seven leopard hospital filter unfold hamster shaft arm spider cluster remind effort";
+var mnemonic = "design assume frozen tomato master nerve pledge food saddle fatigue police topic";

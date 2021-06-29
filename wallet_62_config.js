@@ -1,1 +1,1 @@
-var mnemonic = "sound army program cherry purpose purity earth bachelor catch toddler solid erosion";
+var mnemonic = "south spike ahead usual govern rice obvious any spray build sad puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing mad tackle fragile sibling meat goddess cause purchase nice baby fold";
+var mnemonic = "dignity alcohol have walk muscle resemble public tissue utility enjoy muscle vapor";

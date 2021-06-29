@@ -1,1 +1,1 @@
-var mnemonic = "toe jelly rough coyote gossip zero private latin venture novel fold horse";
+var mnemonic = "fire segment clinic leader lava nest fabric ostrich color fuel unlock diesel";

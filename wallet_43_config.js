@@ -1,1 +1,1 @@
-var mnemonic = "lounge person surface visa dawn edge myth stuff invest poet bounce circle";
+var mnemonic = "process donate term guess library embark minute unaware bonus broken drip payment";

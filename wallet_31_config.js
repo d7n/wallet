@@ -1,1 +1,1 @@
-var mnemonic = "regret cause prize drop float citizen awesome ask illegal enable gadget network";
+var mnemonic = "speak meat bullet hole unhappy beach proof sweet manage author record thumb";

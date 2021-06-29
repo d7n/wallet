@@ -1,1 +1,1 @@
-var mnemonic = "lottery gain ginger still banner magic effort season lumber horn today uphold";
+var mnemonic = "license diesel next someone slot sunset goose aunt exit mansion vapor proud";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil better harbor place fire buddy bid call bike achieve gasp blouse";
+var mnemonic = "still wall spell sibling hundred useless weekend skill flight daughter rain core";

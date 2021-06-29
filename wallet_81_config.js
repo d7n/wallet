@@ -1,1 +1,1 @@
-var mnemonic = "tag host desert design novel merge decorate anchor afraid warm world mystery";
+var mnemonic = "language exhaust satoshi inhale birth attitude acid finish turkey combine drama glad";

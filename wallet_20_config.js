@@ -1,1 +1,1 @@
-var mnemonic = "circle joke giant parent dizzy field slide spin chuckle message chimney neck";
+var mnemonic = "bracket sing merge spread spare deny seven dutch muffin capital join input";

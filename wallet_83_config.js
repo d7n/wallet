@@ -1,1 +1,1 @@
-var mnemonic = "lunch cook curious still try lawsuit entry spoon rocket today dizzy like";
+var mnemonic = "flee ticket april thank make grit update letter trap indoor wine monster";

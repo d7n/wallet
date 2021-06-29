@@ -1,1 +1,1 @@
-var mnemonic = "oak venture raccoon explain define tone craft taste lottery front clock pen";
+var mnemonic = "rapid oak tackle where poet despair plug tired accident fat lamp thumb";

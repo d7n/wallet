@@ -1,1 +1,1 @@
-var mnemonic = "square punch follow annual lava rapid grunt ready brand ugly bachelor square";
+var mnemonic = "aspect resist future equal earn keep pioneer tragic phone magic increase metal";

@@ -1,1 +1,1 @@
-var mnemonic = "believe lizard mix quarter cloth notice chaos correct april theory better game";
+var mnemonic = "they blind error copper tribe magnet wood turn spoon velvet verb girl";

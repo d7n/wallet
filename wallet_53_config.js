@@ -1,1 +1,1 @@
-var mnemonic = "room bag fancy parrot assist toward evoke this reopen assume useful tuna";
+var mnemonic = "fatal tonight truck peasant seed source domain creek wear subway stadium horn";

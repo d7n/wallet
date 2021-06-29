@@ -1,1 +1,1 @@
-var mnemonic = "woman pear purity nation taste test curve sport allow sting parrot swing";
+var mnemonic = "error gospel roast hard task decade habit mesh twenty cheese teach doll";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom crisp space tired vacant dish idea clog era muffin flag lyrics";
+var mnemonic = "famous awful rule cake kite left answer worth battle today stage donate";

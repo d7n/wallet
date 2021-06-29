@@ -1,1 +1,1 @@
-var mnemonic = "mixture panda raven filter abstract hat danger betray giggle best disorder hurt";
+var mnemonic = "live slush robot deal husband fun vault noble family cotton test drip";

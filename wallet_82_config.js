@@ -1,1 +1,1 @@
-var mnemonic = "give grocery sample garment foil elder stage media net joke whisper harvest";
+var mnemonic = "tell blanket print paddle rely wide enough awesome oven artist ski debate";

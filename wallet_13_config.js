@@ -1,1 +1,1 @@
-var mnemonic = "submit shy acquire rug possible crush next lawsuit friend matrix spice coral";
+var mnemonic = "castle obvious sauce sponsor beauty easy math pipe poverty bread auction draft";

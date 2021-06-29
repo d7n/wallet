@@ -1,1 +1,1 @@
-var mnemonic = "scale foil about tone horn remove fiscal repeat example course initial nominee";
+var mnemonic = "range drama alone sphere tobacco maze consider voice print switch erosion candy";

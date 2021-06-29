@@ -1,1 +1,1 @@
-var mnemonic = "raccoon toss impact elevator derive calm frozen tobacco power eagle recycle muffin";
+var mnemonic = "pyramid road cactus basic chimney blame visit issue fox swing input vague";

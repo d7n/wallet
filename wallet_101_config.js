@@ -1,1 +1,1 @@
-var mnemonic = "game this entire host until cause chicken next rib borrow run tip";
+var mnemonic = "patrol virus nest exotic siren palm crisp tail master payment acid elder";

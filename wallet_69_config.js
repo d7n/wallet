@@ -1,1 +1,1 @@
-var mnemonic = "replace mind seat bridge spin gloom ahead place venue vessel subway walk";
+var mnemonic = "session raven disease sweet lava devote quality clock kit slam scissors wonder";
