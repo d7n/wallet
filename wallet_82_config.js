@@ -1,1 +1,1 @@
-var mnemonic = "fog pave draw angry develop gesture awake smoke toward target eternal empower";
+var mnemonic = "surround access drop legend fitness argue bomb tip tumble misery opinion fresh";

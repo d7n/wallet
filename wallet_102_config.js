@@ -1,1 +1,1 @@
-var mnemonic = "dove whale expect toddler van enjoy truth profit bubble fancy obtain make";
+var mnemonic = "fee august current spell congress pony coyote photo satoshi poverty cave agent";

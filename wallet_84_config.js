@@ -1,1 +1,1 @@
-var mnemonic = "stick flavor detect approve net pretty direct legend flock spare filter toss";
+var mnemonic = "misery equal bulk decline arctic breeze position below lunch order blur you";

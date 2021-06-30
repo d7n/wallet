@@ -1,1 +1,1 @@
-var mnemonic = "arctic one toward lawn census crumble float slab produce enough fold again";
+var mnemonic = "alter disease action spin kitten gossip shed borrow isolate buddy chat grid";

@@ -1,1 +1,1 @@
-var mnemonic = "palace joy grit dawn gate balance talent blame ankle situate census zero";
+var mnemonic = "away anxiety stem joy save silver fiction charge basic sick first tobacco";

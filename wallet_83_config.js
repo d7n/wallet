@@ -1,1 +1,1 @@
-var mnemonic = "frog what nerve viable wide cool diamond pair endless salt jewel cherry";
+var mnemonic = "miracle miss tag asthma right left inquiry man pulp choice bless robot";

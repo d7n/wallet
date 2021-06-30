@@ -1,1 +1,1 @@
-var mnemonic = "warm cash economy isolate humor outer rival accident alone hundred wise before";
+var mnemonic = "express club village caught stable license soda country coach cotton piece sad";

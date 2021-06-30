@@ -1,1 +1,1 @@
-var mnemonic = "inquiry alarm program romance also trap fashion stadium trim tackle world glad";
+var mnemonic = "beach mouse update pistol weapon cattle thought cushion force cash left upgrade";

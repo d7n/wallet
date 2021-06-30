@@ -1,1 +1,1 @@
-var mnemonic = "idle wrist muffin atom slush old airport female burden satoshi injury love";
+var mnemonic = "ketchup cruel either lock whisper desk athlete talk radio phone network laugh";

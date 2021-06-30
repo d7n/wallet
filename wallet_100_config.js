@@ -1,1 +1,1 @@
-var mnemonic = "unusual disorder wreck south series hand when allow state globe provide symptom";
+var mnemonic = "suspect weird sea sauce hope napkin oblige shadow wish skate valid slab";

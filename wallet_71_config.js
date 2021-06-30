@@ -1,1 +1,1 @@
-var mnemonic = "upgrade moral smart swarm cousin exit reflect tray inch gallery toddler need";
+var mnemonic = "wrist return grocery sustain alert fame system health ranch forum raccoon family";

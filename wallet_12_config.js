@@ -1,1 +1,1 @@
-var mnemonic = "aisle hockey autumn pottery gas faith survey tape habit belt jacket require";
+var mnemonic = "gun avocado tuna remove mango symptom detail cry jealous vote vehicle shadow";

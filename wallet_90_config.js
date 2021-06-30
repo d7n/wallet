@@ -1,1 +1,1 @@
-var mnemonic = "mobile jealous burden bar update organ saddle blood actress oyster mean fringe";
+var mnemonic = "dinner student wealth slender marriage broom endorse east protect weird hat fossil";

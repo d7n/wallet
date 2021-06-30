@@ -1,1 +1,1 @@
-var mnemonic = "ginger spell head trial rookie wasp erase hill fury kit layer six";
+var mnemonic = "method benefit alert act neither alpha canyon actual jump trial bag repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum income buddy shoulder wagon harvest can saddle mind come practice call";
+var mnemonic = "topple replace trial service throw chronic phrase aspect space kiwi clutch consider";

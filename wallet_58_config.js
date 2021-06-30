@@ -1,1 +1,1 @@
-var mnemonic = "nut wear sad ill slice wet diet story talk dismiss census ostrich";
+var mnemonic = "faith slow envelope kitchen vacant pupil nerve foster switch pepper cricket garbage";

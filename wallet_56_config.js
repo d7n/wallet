@@ -1,1 +1,1 @@
-var mnemonic = "excuse very strike egg work breeze reopen season spice kingdom bounce rough";
+var mnemonic = "fuel canyon okay wool visa dove goose muscle toilet minimum shoulder million";

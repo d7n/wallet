@@ -1,1 +1,1 @@
-var mnemonic = "setup oxygen one lunch below tobacco timber afford produce eagle embark mansion";
+var mnemonic = "blush muscle jelly luggage already force expand clown keen opera front fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "chef cupboard viable orbit local unique iron double climb skin sleep category";
+var mnemonic = "donkey iron hungry game recipe poverty town ketchup hard shy list march";

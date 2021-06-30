@@ -1,1 +1,1 @@
-var mnemonic = "hub icon toss note replace timber wagon honey hood surge pear maximum";
+var mnemonic = "version swim online one holiday collect twin volcano boat august fit lizard";

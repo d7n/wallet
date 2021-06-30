@@ -1,1 +1,1 @@
-var mnemonic = "infant puzzle solve purity kingdom fan impact file crowd call pull eagle";
+var mnemonic = "three concert blossom someone six area current skirt endless shuffle bench hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney gesture snow dolphin hard ripple warm pole range emerge audit subject";
+var mnemonic = "heart assume nerve onion own lonely lyrics route park lock scene neck";

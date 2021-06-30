@@ -1,1 +1,1 @@
-var mnemonic = "fog shed riot hub correct budget recipe grit capable adjust exile buddy";
+var mnemonic = "caught program sponsor empower either matter tornado sheriff rule isolate actual captain";

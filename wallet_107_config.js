@@ -1,1 +1,1 @@
-var mnemonic = "trouble enjoy slow short nuclear joke message bike slot spell result warm";
+var mnemonic = "flat burden void anchor sugar zebra stool auction visit tail ignore pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster shop blossom random pull clever bread distance clay ranch small bomb";
+var mnemonic = "supreme party calm lawn pull zoo tide brave problem guilt salmon little";

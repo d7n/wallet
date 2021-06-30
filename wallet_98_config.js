@@ -1,1 +1,1 @@
-var mnemonic = "negative loan enhance rack budget reopen clever annual arrest forget yellow ordinary";
+var mnemonic = "consider ring leader trash alone plastic tip judge purse dutch ranch install";

@@ -1,1 +1,1 @@
-var mnemonic = "network remind lake define turn history garment express bicycle brass modify south";
+var mnemonic = "august letter rocket give suffer stadium galaxy sing key ice swarm price";

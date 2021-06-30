@@ -1,1 +1,1 @@
-var mnemonic = "stand budget nation cup glass train save canyon skull emerge divorce syrup";
+var mnemonic = "acid magnet bird fat detect nice asthma file quantum duck pizza desert";

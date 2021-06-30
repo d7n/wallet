@@ -1,1 +1,1 @@
-var mnemonic = "blush cactus survey conduct all evoke donkey review video tired spin need";
+var mnemonic = "life civil cage panic fault garbage vibrant second tornado select pact wish";

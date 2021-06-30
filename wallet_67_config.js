@@ -1,1 +1,1 @@
-var mnemonic = "usual rose vivid lounge shuffle multiply absorb onion mesh cargo any much";
+var mnemonic = "lesson daughter place allow solve immense situate unknown lava catch attack fog";

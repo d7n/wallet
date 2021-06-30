@@ -1,1 +1,1 @@
-var mnemonic = "advance between lesson sadness clarify tunnel mistake spray mix next balcony tone";
+var mnemonic = "style all apple calm morning bomb swamp inform pilot awful reopen school";

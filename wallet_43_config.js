@@ -1,1 +1,1 @@
-var mnemonic = "begin dune twin inquiry early arch slide flash attend close resource quit";
+var mnemonic = "romance echo tongue source pistol fragile grief tenant stand muffin offer lesson";

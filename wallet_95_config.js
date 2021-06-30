@@ -1,1 +1,1 @@
-var mnemonic = "public unable call army clap such fault ceiling scare deliver foil impulse";
+var mnemonic = "skirt skin install provide vague squeeze midnight token erase despair auto approve";

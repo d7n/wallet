@@ -1,1 +1,1 @@
-var mnemonic = "uncle kiss ceiling piano enemy clap copper valley eight spoon own blush";
+var mnemonic = "area match setup ankle kidney defy strategy odor example peasant apple flag";

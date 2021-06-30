@@ -1,1 +1,1 @@
-var mnemonic = "book since adjust push yellow tank define burger warfare picture label term";
+var mnemonic = "fan crush harbor march autumn behind ship mesh tonight require favorite umbrella";

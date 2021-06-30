@@ -1,1 +1,1 @@
-var mnemonic = "hire zoo connect lamp adult shock panther distance ankle buzz asset arm";
+var mnemonic = "inside mind carry reflect phone clarify notice pond mechanic atom kangaroo veteran";

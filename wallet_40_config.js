@@ -1,1 +1,1 @@
-var mnemonic = "witness latin spray parade caught expect bronze cable defy mask miss peanut";
+var mnemonic = "road ghost april mandate comic broccoli beyond clarify hunt rhythm letter icon";

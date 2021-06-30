@@ -1,1 +1,1 @@
-var mnemonic = "ribbon ball there scare fish fan flag egg shoulder purse chef marble";
+var mnemonic = "leisure orphan congress south ghost thought nasty soup talent sugar congress vessel";

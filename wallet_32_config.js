@@ -1,1 +1,1 @@
-var mnemonic = "flag chapter chair million outer good brick list melody cram neither cabin";
+var mnemonic = "coach ankle kind rabbit ripple coral peasant tackle frown unfair jar stamp";

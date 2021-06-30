@@ -1,1 +1,1 @@
-var mnemonic = "scan end clock obey erosion assume cram live choose vast double flavor";
+var mnemonic = "century custom belt hybrid piece panic color rice decline page tone arch";

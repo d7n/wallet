@@ -1,1 +1,1 @@
-var mnemonic = "shoe best smoke display upset debate cactus quality depend develop slight neutral";
+var mnemonic = "okay sniff bachelor false obscure fall one inform since source olympic bar";

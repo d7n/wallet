@@ -1,1 +1,1 @@
-var mnemonic = "afraid fabric awful turn oak ladder unhappy velvet vote season task tunnel";
+var mnemonic = "april raven camp pumpkin powder planet helmet staff obey file harbor observe";

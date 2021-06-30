@@ -1,1 +1,1 @@
-var mnemonic = "horn dutch engage round student parent place record impose pilot february easy";
+var mnemonic = "task prevent piece filter arrange accident rib verb soap behind lava kid";

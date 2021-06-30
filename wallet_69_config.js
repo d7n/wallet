@@ -1,1 +1,1 @@
-var mnemonic = "limit action shield danger void remain wide lizard forum catalog brief argue";
+var mnemonic = "cloud length ill destroy logic small quiz market resource present song oxygen";

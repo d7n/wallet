@@ -1,1 +1,1 @@
-var mnemonic = "neglect lab sure rare faculty dial regular north buffalo acquire recipe collect";
+var mnemonic = "immune grow bench unique enroll unfair face benefit soup razor length delay";

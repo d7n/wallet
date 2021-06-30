@@ -1,1 +1,1 @@
-var mnemonic = "asthma music smart sausage solar game control absorb aware close bag course";
+var mnemonic = "joy regret reopen fit sea thing document figure pig twice canoe spring";

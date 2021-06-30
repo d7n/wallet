@@ -1,1 +1,1 @@
-var mnemonic = "want quick denial brave stomach solid file pigeon toy fat brass ride";
+var mnemonic = "rule message cereal shoe usual light uniform adult ten dilemma differ excite";

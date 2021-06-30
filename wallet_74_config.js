@@ -1,1 +1,1 @@
-var mnemonic = "work slender split sure scatter february honey wash answer coast betray error";
+var mnemonic = "blast orchard craft garden usual oil resemble infant essay shock blade involve";

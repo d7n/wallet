@@ -1,1 +1,1 @@
-var mnemonic = "tail traffic congress another monkey drum gas equal mimic credit adult yellow";
+var mnemonic = "forward enhance together siren oven parade mammal design garden churn blame wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo age fossil zero path story olive evil report arrow rally avoid";
+var mnemonic = "cram cream special umbrella under master lunar involve test dove bamboo funny";

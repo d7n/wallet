@@ -1,1 +1,1 @@
-var mnemonic = "identify miss siren there print depend jewel oval nerve buzz harbor minimum";
+var mnemonic = "undo mobile cement female panel gap slender dove word truck slight own";

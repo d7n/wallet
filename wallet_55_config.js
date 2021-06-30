@@ -1,1 +1,1 @@
-var mnemonic = "deal stairs remember document hurdle cross erupt volcano auction crystal sand ankle";
+var mnemonic = "buzz primary toward please release when toy candy violin chase small nasty";

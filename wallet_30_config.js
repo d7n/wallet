@@ -1,1 +1,1 @@
-var mnemonic = "deer okay inform keep noise shrimp spoil wise original degree stamp recipe";
+var mnemonic = "panda craft weekend party arena fall again index vague oxygen lawn woman";

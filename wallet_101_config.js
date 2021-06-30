@@ -1,1 +1,1 @@
-var mnemonic = "crime south time candy modify flush hat tackle meadow warfare sniff juice";
+var mnemonic = "abuse knife bag picnic urge stumble pool grace reflect bird nature party";

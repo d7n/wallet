@@ -1,1 +1,1 @@
-var mnemonic = "excuse approve tobacco library whip void fatigue strong reform license afford fatal";
+var mnemonic = "rifle thought float you forget flight weasel safe guide avocado pilot seat";

@@ -1,1 +1,1 @@
-var mnemonic = "liar patch manage tunnel rate bag razor famous foot hunt donate safe";
+var mnemonic = "story drift blame truck myth rubber reduce practice hobby onion quarter voyage";

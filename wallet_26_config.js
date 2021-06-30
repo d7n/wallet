@@ -1,1 +1,1 @@
-var mnemonic = "steel hybrid core maid couple club bright random bonus view push regret";
+var mnemonic = "glove supply turn kingdom you essence easily pave drink now edge public";

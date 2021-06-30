@@ -1,1 +1,1 @@
-var mnemonic = "cause general ostrich fatigue rent canvas sand obvious toward buzz kingdom penalty";
+var mnemonic = "glide poverty merit now glory brave dizzy shoe battle sail ranch there";

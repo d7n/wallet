@@ -1,1 +1,1 @@
-var mnemonic = "rate elegant chaos still muscle item manual diamond punch exhibit abstract minor";
+var mnemonic = "deliver ship whip humble quote guard then blush museum aisle fragile elephant";

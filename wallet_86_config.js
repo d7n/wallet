@@ -1,1 +1,1 @@
-var mnemonic = "confirm fold method letter alter churn toast trouble half dentist harvest catalog";
+var mnemonic = "gallery gold bunker there nerve daughter faith require lemon define clever minute";

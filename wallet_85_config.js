@@ -1,1 +1,1 @@
-var mnemonic = "claim rookie attitude soap segment gift order adjust enter dust skin move";
+var mnemonic = "flock advice fit leave curve pig story palm collect lava labor kick";

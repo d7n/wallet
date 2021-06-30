@@ -1,1 +1,1 @@
-var mnemonic = "trash badge verify convince affair motion know moral mule return appear refuse";
+var mnemonic = "pool cargo marble subway hint elevator taxi climb cherry cause shoulder fatigue";

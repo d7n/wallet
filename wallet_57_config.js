@@ -1,1 +1,1 @@
-var mnemonic = "snap slight roast gesture lobster viable jazz machine can play year woman";
+var mnemonic = "rate planet east race hamster nominee guide fall neutral page truly radar";

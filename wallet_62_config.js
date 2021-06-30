@@ -1,1 +1,1 @@
-var mnemonic = "stay poverty same scrub jeans ceiling net suffer exit across diagram inquiry";
+var mnemonic = "obtain protect pistol taxi game nature stairs horn unlock avocado august accuse";

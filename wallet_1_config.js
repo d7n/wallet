@@ -1,1 +1,1 @@
-var mnemonic = "aunt lab left victory process enhance faculty tiny debate inner upon raccoon";
+var mnemonic = "odor element strategy sad brown twist exhibit orphan sister bring inform math";

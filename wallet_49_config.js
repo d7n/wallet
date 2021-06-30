@@ -1,1 +1,1 @@
-var mnemonic = "increase candy okay lounge youth bench siren celery hood unusual oxygen public";
+var mnemonic = "unusual trophy short develop clock kiss flame piece ball vacuum quality urban";

@@ -1,1 +1,1 @@
-var mnemonic = "curious essence essay runway tackle target glove one rough private media garage";
+var mnemonic = "feed cattle lift either blind upgrade mechanic obvious furnace alter trick hand";

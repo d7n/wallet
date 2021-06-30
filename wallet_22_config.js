@@ -1,1 +1,1 @@
-var mnemonic = "smooth guide still wise dune final slender address truth dolphin evolve van";
+var mnemonic = "parrot fragile control cable talk nurse burst throw draft update layer one";

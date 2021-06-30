@@ -1,1 +1,1 @@
-var mnemonic = "elite prize awkward choose limit popular oppose until prosper behind pencil digital";
+var mnemonic = "captain sausage camera cart tortoise tired game brown private hole vanish jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "earth rabbit fork clinic bamboo negative keen best mad fade wine lawsuit";
+var mnemonic = "trade find exist blanket rough tail transfer scan minimum swap shop brave";

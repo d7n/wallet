@@ -1,1 +1,1 @@
-var mnemonic = "electric penalty program glance bulb salad guitar parent expect road novel question";
+var mnemonic = "version enough model rescue boss cash student music dragon scare honey music";

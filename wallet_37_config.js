@@ -1,1 +1,1 @@
-var mnemonic = "find sibling inflict orchard habit invite seat culture frost all pigeon donkey";
+var mnemonic = "core family act degree stomach twin sheriff apology minor chief shield outer";

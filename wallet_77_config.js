@@ -1,1 +1,1 @@
-var mnemonic = "image hat quarter title price rose volcano front maximum collect glory check";
+var mnemonic = "taxi organ afford quarter honey boat crime belt struggle chat hybrid bind";

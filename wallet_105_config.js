@@ -1,1 +1,1 @@
-var mnemonic = "ethics ride crouch layer deposit carpet include debate dignity vacuum rapid black";
+var mnemonic = "garlic immune shove honey vault tunnel once pigeon bird board couple abstract";

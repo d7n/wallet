@@ -1,1 +1,1 @@
-var mnemonic = "dragon deputy buzz hundred fox remain oil mango light butter quiz essence";
+var mnemonic = "moment glide ancient addict first zebra shallow fly item chat lava comic";

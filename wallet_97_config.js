@@ -1,1 +1,1 @@
-var mnemonic = "person oblige way blur cook like tone dress govern silly apology jar";
+var mnemonic = "nuclear battle mandate enough doll fee face cliff venue aware organ satoshi";

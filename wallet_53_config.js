@@ -1,1 +1,1 @@
-var mnemonic = "deposit erosion remain coach double evolve south answer humor grace unable adult";
+var mnemonic = "hammer bean scrap pool across claw nest payment picnic badge quick dust";

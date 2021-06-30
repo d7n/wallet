@@ -1,1 +1,1 @@
-var mnemonic = "elephant mistake topple garbage solar predict mixed figure machine vault diet issue";
+var mnemonic = "inquiry agent metal scale box dinner wasp still panther laundry stomach finish";

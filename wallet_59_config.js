@@ -1,1 +1,1 @@
-var mnemonic = "rhythm juice economy laundry stamp bullet attend legend elephant sponsor pudding foot";
+var mnemonic = "dance useful toddler double process bamboo jaguar mirror patient try spice garlic";

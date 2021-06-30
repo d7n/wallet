@@ -1,1 +1,1 @@
-var mnemonic = "direct timber dismiss blossom annual renew family junk allow prevent math cook";
+var mnemonic = "prosper picnic cycle hover tackle nation border fix mandate ghost script say";

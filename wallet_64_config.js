@@ -1,1 +1,1 @@
-var mnemonic = "donate tray tortoise current thumb civil neck gun immense gasp gaze trouble";
+var mnemonic = "inspire panda state ship merge question logic meadow boost page finish army";

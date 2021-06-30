@@ -1,1 +1,1 @@
-var mnemonic = "inside wasp off myself park symptom alert segment title shallow make put";
+var mnemonic = "reopen mosquito reduce exhibit table trap mansion bunker surge kit member canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "sail despair twice century online tackle vivid inflict play thunder thrive fresh";
+var mnemonic = "increase poet observe have stereo swift style kangaroo pledge dismiss hotel floor";

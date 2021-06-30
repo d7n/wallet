@@ -1,1 +1,1 @@
-var mnemonic = "caution inmate fly bracket horror fade glass brand carry shuffle wood grid";
+var mnemonic = "grocery coral glove laugh message laundry advance eternal cradle discover amused audit";

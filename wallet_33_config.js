@@ -1,1 +1,1 @@
-var mnemonic = "social globe teach fire inhale scare lazy jeans hat canvas witness joy";
+var mnemonic = "item goose robot gift maple buyer differ broccoli guard broccoli arrest strong";

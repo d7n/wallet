@@ -1,1 +1,1 @@
-var mnemonic = "lottery nature easy holiday common beyond metal fence crunch punch valley throw";
+var mnemonic = "this rule erupt property mouse farm spring open bag combine common heavy";

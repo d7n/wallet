@@ -1,1 +1,1 @@
-var mnemonic = "member boss demise minute dose upper raccoon action mosquito thing project virtual";
+var mnemonic = "unfold churn flip pen album object betray update into scare fossil three";

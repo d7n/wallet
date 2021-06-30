@@ -1,1 +1,1 @@
-var mnemonic = "remain sport demise evoke actual situate usual utility energy rhythm risk skin";
+var mnemonic = "squirrel reopen funny athlete decline attack wife merit awake menu zoo stick";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse seek give plastic refuse library duck staff before insect jeans unhappy";
+var mnemonic = "improve nut noble knock cram pull try inject spend motor opera shed";

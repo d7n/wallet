@@ -1,1 +1,1 @@
-var mnemonic = "slide process bread phrase arrive injury around profit bread cheap daring purse";
+var mnemonic = "resemble sausage cat decorate alcohol guide decline flag speak enroll equal breeze";

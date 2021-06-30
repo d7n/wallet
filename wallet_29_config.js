@@ -1,1 +1,1 @@
-var mnemonic = "drink liar disorder ice tree little gold depart movie weasel receive lyrics";
+var mnemonic = "next empty wise harvest age juice sponsor shaft lumber labor valley spot";
