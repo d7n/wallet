@@ -1,1 +1,1 @@
-var mnemonic = "proud baby moral course mass sail leisure unusual lumber slab depth render";
+var mnemonic = "chief cover sick bird whip noise teach knee live tone alarm target";

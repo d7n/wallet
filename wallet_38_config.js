@@ -1,1 +1,1 @@
-var mnemonic = "echo uniform portion unaware buyer easy discover bread ritual mosquito caught term";
+var mnemonic = "click patient unaware mass river dress wink agree giant online craft access";

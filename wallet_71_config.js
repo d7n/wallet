@@ -1,1 +1,1 @@
-var mnemonic = "viable police topic cart divorce solid blush stereo kingdom puzzle social sadness";
+var mnemonic = "dilemma any speak ready gloom vault project start one agree arrive pitch";

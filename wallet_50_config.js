@@ -1,1 +1,1 @@
-var mnemonic = "result team hamster witness car position parent old embrace steak impact lawsuit";
+var mnemonic = "scout repeat among funny adult powder rack accuse awkward divide among people";

@@ -1,1 +1,1 @@
-var mnemonic = "wing ordinary oil like similar spatial adapt insect bubble relax ten spin";
+var mnemonic = "impose scene spin eagle juice oppose predict advance use record pumpkin dial";

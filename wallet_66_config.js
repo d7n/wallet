@@ -1,1 +1,1 @@
-var mnemonic = "humor frost physical cannon spray silly cement pretty citizen salon curtain liquid";
+var mnemonic = "belt guide text glare electric question please border waste elevator gospel happy";

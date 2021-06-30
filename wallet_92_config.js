@@ -1,1 +1,1 @@
-var mnemonic = "talk claim when light fever team sustain torch monitor repair give chef";
+var mnemonic = "silk author job cream spell inquiry digital dutch shine genuine coffee capable";

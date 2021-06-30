@@ -1,1 +1,1 @@
-var mnemonic = "produce warm flock party renew reveal hospital worth lemon oven market make";
+var mnemonic = "sword diamond double guide girl cricket never skin appear boy cash detect";

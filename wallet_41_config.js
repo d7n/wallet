@@ -1,1 +1,1 @@
-var mnemonic = "village gas conduct equal then cable typical under oblige brick mention confirm";
+var mnemonic = "furnace shop elegant section army either more wonder ozone task push wait";

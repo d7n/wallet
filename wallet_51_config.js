@@ -1,1 +1,1 @@
-var mnemonic = "age allow glove venture burden draw clarify search flock grace naive police";
+var mnemonic = "divorce sign indoor unknown hurt move ethics claim insane guess armed test";

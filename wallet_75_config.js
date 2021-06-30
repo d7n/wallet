@@ -1,1 +1,1 @@
-var mnemonic = "velvet omit whisper require bench slide provide fox patient theory survey dash";
+var mnemonic = "winter cheese top subway height dune merge rotate laundry camera exclude peace";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt popular hire gap parade tuition olympic twenty grant chimney radio insane";
+var mnemonic = "treat winner floor woman deposit raccoon flash until author clay identify month";

@@ -1,1 +1,1 @@
-var mnemonic = "estate hint bean viable neutral hip jungle where observe claim cricket cushion";
+var mnemonic = "fatigue barely useful fee avoid lawsuit source duck disagree churn brain humble";

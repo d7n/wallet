@@ -1,1 +1,1 @@
-var mnemonic = "discover lift bonus scissors ability lounge below market machine permit obscure later";
+var mnemonic = "rack people motion mule virtual believe rely cupboard second walnut liar banana";

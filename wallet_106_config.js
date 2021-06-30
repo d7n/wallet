@@ -1,1 +1,1 @@
-var mnemonic = "beach woman wrong desk amazing key riot bottom behave off mail clever";
+var mnemonic = "climb aerobic rapid crystal style strategy rotate stay business this era salad";

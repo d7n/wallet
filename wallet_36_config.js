@@ -1,1 +1,1 @@
-var mnemonic = "project awake canal air expect photo claw illegal pitch hat notable web";
+var mnemonic = "tool scrub earth paddle laptop wish grass auction identify start explain melody";

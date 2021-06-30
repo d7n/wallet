@@ -1,1 +1,1 @@
-var mnemonic = "victory orchard spoon sibling seat tower spin bridge cloud patch book reject";
+var mnemonic = "pave gun alter umbrella build consider rack bulk biology truck satisfy problem";

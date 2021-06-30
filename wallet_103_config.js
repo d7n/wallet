@@ -1,1 +1,1 @@
-var mnemonic = "cost trouble equip beach habit uphold drastic judge hero category neck place";
+var mnemonic = "parade please enable lobster cereal capital can concert random sail ripple manage";

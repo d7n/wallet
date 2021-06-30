@@ -1,1 +1,1 @@
-var mnemonic = "tired mad grief girl guide alert timber song allow rare anger cook";
+var mnemonic = "muffin despair sunny silk close prefer asset betray school skull scan surround";

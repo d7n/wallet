@@ -1,1 +1,1 @@
-var mnemonic = "knife habit pelican exclude crew theory attitude scatter guard middle evil book";
+var mnemonic = "vintage volume dune patrol sand element remain person immune ritual shiver since";

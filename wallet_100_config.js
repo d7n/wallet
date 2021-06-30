@@ -1,1 +1,1 @@
-var mnemonic = "perfect door cabin shallow detail hand hood artefact save bid diary seed";
+var mnemonic = "loan miracle cage scorpion wagon alcohol nuclear dinosaur copper casino dilemma robot";

@@ -1,1 +1,1 @@
-var mnemonic = "front furnace season child eager north pizza venue town board script any";
+var mnemonic = "rail salute repair whip mixed soccer wise illness prevent emotion festival grab";

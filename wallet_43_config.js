@@ -1,1 +1,1 @@
-var mnemonic = "project basic weasel dress crystal swift town urban quality problem erupt more";
+var mnemonic = "exotic simple jacket bring correct tool summer common thumb rifle ecology army";

@@ -1,1 +1,1 @@
-var mnemonic = "hard lemon equip alarm make cruel desk anchor egg art release cook";
+var mnemonic = "basic earn because category plastic pink fee high tent adult heart please";

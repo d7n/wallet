@@ -1,1 +1,1 @@
-var mnemonic = "absurd rice parent text funny wheat meat lecture two achieve vital cage";
+var mnemonic = "spell scrap exit chief identify talk mechanic drink among quote bracket swift";

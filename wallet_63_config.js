@@ -1,1 +1,1 @@
-var mnemonic = "arch march marble emotion copper chicken dose word seminar recipe vehicle short";
+var mnemonic = "fun almost insane figure domain toddler funny erase sort fish merry guard";

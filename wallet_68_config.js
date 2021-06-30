@@ -1,1 +1,1 @@
-var mnemonic = "panda promote shoulder taxi morning someone extra cable vacant mandate snack draw";
+var mnemonic = "minor arrest catalog blue slow table rib captain jazz rookie gap ice";

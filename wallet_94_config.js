@@ -1,1 +1,1 @@
-var mnemonic = "upset dish milk best law lava tennis all monster arctic rather exotic";
+var mnemonic = "jealous crawl place evoke reveal neglect place focus adapt level evolve habit";

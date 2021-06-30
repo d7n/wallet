@@ -1,1 +1,1 @@
-var mnemonic = "movie spoon attend test health rabbit belt attract quarter method coach winter";
+var mnemonic = "harbor sadness hockey simple unique fault random just call slogan wrestle pink";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant tube carbon student pyramid human throw siege toward unusual column response";
+var mnemonic = "suggest gadget test describe critic drop narrow mixed boost cereal mansion punch";

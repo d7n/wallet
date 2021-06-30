@@ -1,1 +1,1 @@
-var mnemonic = "multiply easy mirror fantasy rain easily game state arctic depth ball welcome";
+var mnemonic = "muscle master pistol spatial steak ice bomb live leg matrix flip unfair";

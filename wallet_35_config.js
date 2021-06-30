@@ -1,1 +1,1 @@
-var mnemonic = "coast boss spice sudden hamster trip dove discover enrich oyster drive mother";
+var mnemonic = "way vacant actress giggle impose donor chapter victory cruel sample mosquito region";

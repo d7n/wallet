@@ -1,1 +1,1 @@
-var mnemonic = "exercise song brush couple blossom bread web stairs arrange coyote wild reason";
+var mnemonic = "mass glimpse announce boat before wealth blanket risk delay horn cash inform";

@@ -1,1 +1,1 @@
-var mnemonic = "street accident grunt decorate eight olympic hobby dad immense wise advance window";
+var mnemonic = "wise coconut chest puppy year upset slender able yard rack similar usual";

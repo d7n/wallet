@@ -1,1 +1,1 @@
-var mnemonic = "fatal dish stamp radar small motion click rate rubber rhythm nasty muscle";
+var mnemonic = "tide pulse oven jump tape cover wine brush expose festival immense exit";

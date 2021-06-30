@@ -1,1 +1,1 @@
-var mnemonic = "strong ten walnut afraid history young remember coyote alert control relax canoe";
+var mnemonic = "release senior robust insect depth title pony lock salute dismiss success melody";

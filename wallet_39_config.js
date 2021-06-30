@@ -1,1 +1,1 @@
-var mnemonic = "refuse friend process april cover gentle belt blur advice blame print purity";
+var mnemonic = "affair solution hazard orient help surge imitate sentence unhappy picnic quote learn";

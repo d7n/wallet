@@ -1,1 +1,1 @@
-var mnemonic = "detect hotel idle above purity embark trade tortoise water idea august mix";
+var mnemonic = "bundle scan antenna congress almost crumble diamond insane room bacon street coil";

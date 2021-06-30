@@ -1,1 +1,1 @@
-var mnemonic = "pull device famous win galaxy side october pave toy about faculty ethics";
+var mnemonic = "about exist brick script ethics laundry remind two fantasy dinosaur summer skull";

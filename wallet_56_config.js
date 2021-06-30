@@ -1,1 +1,1 @@
-var mnemonic = "broken cheese wet rain nothing normal denial mosquito alley eternal know solve";
+var mnemonic = "now frown exhibit chat frozen bench sport mercy long soda family blur";

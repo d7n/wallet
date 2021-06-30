@@ -1,1 +1,1 @@
-var mnemonic = "spread snake wire admit execute price wood silk cash boil portion flip";
+var mnemonic = "silent rigid salad destroy snap gospel tourist stereo avocado coin tube adjust";

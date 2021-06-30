@@ -1,1 +1,1 @@
-var mnemonic = "simple entire patrol affair oppose suffer pool boss spin curious purity quarter";
+var mnemonic = "era guilt catch village human curve cost apology drop now raise wolf";

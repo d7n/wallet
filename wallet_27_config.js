@@ -1,1 +1,1 @@
-var mnemonic = "bench fog creek aware squirrel alcohol response cancel dance rabbit regular slice";
+var mnemonic = "recall crouch valid evidence gift cage assault gallery trust bottom praise maid";

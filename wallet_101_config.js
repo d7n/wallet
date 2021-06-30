@@ -1,1 +1,1 @@
-var mnemonic = "erupt season unique ice patch shallow token blind aware plastic delay music";
+var mnemonic = "jealous soldier course syrup view guitar pistol dream lamp yellow praise derive";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery cactus dress symbol clinic short lawn robot goose immune baby lobster";
+var mnemonic = "present hobby help game ordinary dizzy century crucial eyebrow zero execute basic";

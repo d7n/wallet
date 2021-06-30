@@ -1,1 +1,1 @@
-var mnemonic = "head drama wrap search canvas master riot gun knee tribe next jealous";
+var mnemonic = "vapor bleak tone fitness cluster angry shell vast oven mistake cement donor";

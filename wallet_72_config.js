@@ -1,1 +1,1 @@
-var mnemonic = "someone access push ranch other nasty daring wide process clap year can";
+var mnemonic = "afford merge arrow voyage modify dad lobster sand swear when unhappy mutual";

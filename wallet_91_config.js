@@ -1,1 +1,1 @@
-var mnemonic = "elder level sad meat mosquito verify safe scissors sell elder cluster quit";
+var mnemonic = "capital lobster electric kind poverty endorse congress citizen sugar ignore since either";

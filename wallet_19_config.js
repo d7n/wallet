@@ -1,1 +1,1 @@
-var mnemonic = "major spread manage awkward width tumble athlete stumble grief process furnace public";
+var mnemonic = "cram roof soda anchor nose brand regular match pride orphan trick shove";

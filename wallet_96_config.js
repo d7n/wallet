@@ -1,1 +1,1 @@
-var mnemonic = "onion desk olympic spike enforce deny remove sword neck undo main same";
+var mnemonic = "inmate web loud retire spray chunk energy area improve annual toss mail";

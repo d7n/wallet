@@ -1,1 +1,1 @@
-var mnemonic = "federal talent tissue celery width top proof bunker bag jaguar helmet eight";
+var mnemonic = "season walnut list captain sea suspect marble stage since noise place multiply";

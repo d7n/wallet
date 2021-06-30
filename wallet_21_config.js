@@ -1,1 +1,1 @@
-var mnemonic = "mystery mirror solve few labor crime point opera thing kiss sorry minor";
+var mnemonic = "muscle differ there please tilt final blush satisfy jazz inflict mammal raise";

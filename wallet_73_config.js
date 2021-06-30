@@ -1,1 +1,1 @@
-var mnemonic = "venue parent able crash display sheriff beef follow utility common neck adult";
+var mnemonic = "minor purpose laugh kind detect warm bulk flip clerk honey join paddle";

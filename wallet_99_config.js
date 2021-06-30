@@ -1,1 +1,1 @@
-var mnemonic = "secret right beef delay radio rifle drama slogan attend power high next";
+var mnemonic = "crunch unit dress pool meat fiscal imitate result copy evidence biology hidden";

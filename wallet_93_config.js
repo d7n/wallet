@@ -1,1 +1,1 @@
-var mnemonic = "grass rebuild peanut ripple style ring detect share measure ball trade course";
+var mnemonic = "task chaos favorite flush enroll figure flight virtual regular source summer left";

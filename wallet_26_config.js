@@ -1,1 +1,1 @@
-var mnemonic = "lyrics hollow paddle hand ahead link case aim bubble cement aware pride";
+var mnemonic = "swim matrix beauty false ugly zone era similar chronic call all worth";

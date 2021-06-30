@@ -1,1 +1,1 @@
-var mnemonic = "anger card remember cat fatal joy opinion cheese giant crouch repair mobile";
+var mnemonic = "over cute boost dizzy stadium banner athlete magic abuse armor sister thank";

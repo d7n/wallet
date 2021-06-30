@@ -1,1 +1,1 @@
-var mnemonic = "exhaust thunder celery open weird earn script help hurry torch throw spot";
+var mnemonic = "tonight fork vast exhaust safe toilet sort resemble angry velvet clerk cabin";

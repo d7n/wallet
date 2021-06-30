@@ -1,1 +1,1 @@
-var mnemonic = "muscle loyal rent dice smooth alone lizard figure essence summer domain injury";
+var mnemonic = "practice pulse tiny soccer cigar burst what village enrich shed fury modify";

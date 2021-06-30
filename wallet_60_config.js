@@ -1,1 +1,1 @@
-var mnemonic = "clever apart hollow vast place sing settle warfare visit manage dinosaur concert";
+var mnemonic = "country put agree that rate lonely panel shove boost split dynamic kitten";

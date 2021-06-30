@@ -1,1 +1,1 @@
-var mnemonic = "myth inner fossil human fitness cherry outside response text kingdom crop strong";
+var mnemonic = "want ramp crunch empower confirm story fan broccoli spatial sugar torch title";

@@ -1,1 +1,1 @@
-var mnemonic = "ask casual original spawn design wish orange castle twist faith dress turkey";
+var mnemonic = "huge fruit eagle bike sword betray hawk fire muscle rain garlic autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty angry unknown sugar dust organ repair electric exotic garbage divorce input";
+var mnemonic = "asthma census crazy mammal cool pact lawsuit panic index rally domain chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "typical credit easily better ozone enjoy puzzle tomato limit peace diesel family";
+var mnemonic = "zero super impact wheel baby trumpet need bottom present potato message damp";

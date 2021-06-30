@@ -1,1 +1,1 @@
-var mnemonic = "same nation click gym bunker noble basic inflict exchange injury music license";
+var mnemonic = "jacket slide mixed suit antenna orphan achieve correct journey rubber first orange";

@@ -1,1 +1,1 @@
-var mnemonic = "educate poem window bottom bag shrug damp hub mixed put weather world";
+var mnemonic = "fossil test elephant dress crouch leader pave vivid fashion rose idea tribe";

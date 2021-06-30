@@ -1,1 +1,1 @@
-var mnemonic = "timber organ online cancel large action segment between comfort alien decline grain";
+var mnemonic = "risk identify future foster empower urge buddy embody next upset census cheese";

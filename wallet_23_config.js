@@ -1,1 +1,1 @@
-var mnemonic = "loop either divorce swim shoe cream stand this trust spider group poet";
+var mnemonic = "boat mix jaguar normal vacuum glass dragon setup exit muffin angry scale";

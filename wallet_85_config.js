@@ -1,1 +1,1 @@
-var mnemonic = "garment praise paper garage shoe labor replace concert hire dad attend nasty";
+var mnemonic = "squirrel sure crisp pudding fly pledge recipe march cruel cousin blanket foil";

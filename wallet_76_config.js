@@ -1,1 +1,1 @@
-var mnemonic = "gentle citizen thank pill donor goose predict blossom shrug radar govern outer";
+var mnemonic = "ripple token slush buddy pond hurdle give bullet stool travel cruise mansion";

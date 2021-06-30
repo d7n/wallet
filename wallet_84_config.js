@@ -1,1 +1,1 @@
-var mnemonic = "runway just critic hockey order obey toy chaos twelve neither kid room";
+var mnemonic = "alter void reopen unit bachelor critic wolf mirror resource village another cactus";

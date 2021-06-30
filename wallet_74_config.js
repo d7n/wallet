@@ -1,1 +1,1 @@
-var mnemonic = "frown waste girl knock cruel midnight alter rebuild thunder banner scene hope";
+var mnemonic = "giant wasp castle chief grief hope menu north brand merit rib announce";

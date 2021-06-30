@@ -1,1 +1,1 @@
-var mnemonic = "summer crush wild chuckle bicycle message earn rapid spread click fantasy purse";
+var mnemonic = "vocal north echo rail scatter nation real oval glow figure sea caught";

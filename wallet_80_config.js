@@ -1,1 +1,1 @@
-var mnemonic = "front scale vacant pepper eagle peanut nothing kitchen lawn nuclear convince lyrics";
+var mnemonic = "stem add wagon list pig fiscal culture castle more deposit hurry tell";

@@ -1,1 +1,1 @@
-var mnemonic = "claw legend sphere people grass wealth remain drift shed employ legal trade";
+var mnemonic = "soft planet life copper captain useful attract female narrow loan wage obey";

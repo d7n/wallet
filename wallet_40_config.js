@@ -1,1 +1,1 @@
-var mnemonic = "diamond same color balcony whisper eye frame coil behind chicken bleak distance";
+var mnemonic = "bitter mango cushion iron decline whale accuse during gym child opera lift";

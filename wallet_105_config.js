@@ -1,1 +1,1 @@
-var mnemonic = "mosquito radar torch interest hip cheap husband armed report satoshi creek orient";
+var mnemonic = "thought fit comic include photo donkey bring simple pottery crystal fee purse";

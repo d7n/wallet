@@ -1,1 +1,1 @@
-var mnemonic = "skate today potato sweet zebra walnut hope jeans option outside travel vital";
+var mnemonic = "alcohol fiction option visa abstract manage because birth toward large imitate mad";

@@ -1,1 +1,1 @@
-var mnemonic = "horse immense citizen brain illegal crumble end hurt crystal ketchup hat try";
+var mnemonic = "index forum pole syrup midnight caught tennis addict hollow trap member only";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent address dune maid because kangaroo duty session actress smile system style";
+var mnemonic = "write people stove panel measure regular attract sun ready amused remember fan";

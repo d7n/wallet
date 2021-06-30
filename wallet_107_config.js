@@ -1,1 +1,1 @@
-var mnemonic = "dentist common upon circle orange october pledge away chimney age name tuna";
+var mnemonic = "scrap simple police unknown upset exclude vague during apple distance awkward recall";

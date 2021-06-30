@@ -1,1 +1,1 @@
-var mnemonic = "orange pen guilt shell install foot sock entire jewel wall click protect";
+var mnemonic = "elbow hobby leader kitchen retire board rail poverty grant calm way family";

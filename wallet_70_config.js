@@ -1,1 +1,1 @@
-var mnemonic = "put riot harbor upset beauty artist together laundry minimum draft fat method";
+var mnemonic = "obey essay relief away home regret hard stable ignore pink typical please";

@@ -1,1 +1,1 @@
-var mnemonic = "usual wedding year mushroom scorpion lemon couple unhappy offer clerk awkward tip";
+var mnemonic = "rifle praise obvious nephew crater swallow flip neither mother best domain guide";

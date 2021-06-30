@@ -1,1 +1,1 @@
-var mnemonic = "assume lawsuit hope cluster source dignity hurdle rain problem blue talk month";
+var mnemonic = "original wide habit original clog cigar frost ship depend extra uniform hover";

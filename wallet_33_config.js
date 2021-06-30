@@ -1,1 +1,1 @@
-var mnemonic = "appear banner goddess beauty switch movie van earn glove knee miracle endorse";
+var mnemonic = "improve garment sound palace chef behave brisk hotel mad hip engage abandon";

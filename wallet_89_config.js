@@ -1,1 +1,1 @@
-var mnemonic = "lunch swear knock tuition maze envelope impose fame wing brisk note shallow";
+var mnemonic = "spin senior mushroom moon van mountain mind caught regret provide turkey loan";

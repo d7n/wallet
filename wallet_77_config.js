@@ -1,1 +1,1 @@
-var mnemonic = "category theme carry decade present inmate reason swim giggle evolve junior enter";
+var mnemonic = "boost glance worry pass garment pull sunny bird middle filter visit napkin";
