@@ -1,1 +1,1 @@
-var mnemonic = "tornado faith survey engage member soap useless visual coyote original anxiety spirit";
+var mnemonic = "bike bottom lounge short always crawl immense guide tuna mesh hover hungry";

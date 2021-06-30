@@ -1,1 +1,1 @@
-var mnemonic = "blame sadness carry reveal outer glance baby wall setup trap lemon until";
+var mnemonic = "smoke involve north horse frost icon scale security velvet black brick plunge";

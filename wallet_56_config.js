@@ -1,1 +1,1 @@
-var mnemonic = "stool leaf gesture lunch name tree crash theory fluid talk theme ozone";
+var mnemonic = "add diesel capable rice supreme risk lift refuse help cement panda purse";

@@ -1,1 +1,1 @@
-var mnemonic = "rail beyond pretty artist clock sing frown relax orange rule shop relax";
+var mnemonic = "bounce vintage curtain electric december strategy first brick calm expose dynamic fiscal";

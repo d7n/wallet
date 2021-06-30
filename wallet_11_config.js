@@ -1,1 +1,1 @@
-var mnemonic = "dog size wage inject pet animal two female coast tenant museum rather";
+var mnemonic = "south fitness phrase mansion praise knife reopen august clutch worry blue replace";

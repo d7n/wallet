@@ -1,1 +1,1 @@
-var mnemonic = "asthma describe salon uphold youth aerobic siege elephant disorder august social achieve";
+var mnemonic = "evolve adjust dress garment diamond lobster artefact empower zoo fluid during fury";

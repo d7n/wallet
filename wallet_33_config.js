@@ -1,1 +1,1 @@
-var mnemonic = "erase chief talk holiday work polar enroll when flash liberty exit farm";
+var mnemonic = "hope vast mass round nest trip parade february road kid relax protect";

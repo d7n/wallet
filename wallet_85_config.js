@@ -1,1 +1,1 @@
-var mnemonic = "side they seed tube develop poet income feature fashion hobby trim topple";
+var mnemonic = "video around protect globe angry orange short stand exact satoshi normal nominee";

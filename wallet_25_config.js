@@ -1,1 +1,1 @@
-var mnemonic = "knife hello car family stone wet drip because palm false empty absorb";
+var mnemonic = "soccer route crucial fiscal enrich devote secret provide siren dish mad symptom";

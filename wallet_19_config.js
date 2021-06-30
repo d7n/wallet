@@ -1,1 +1,1 @@
-var mnemonic = "police scout wrap tube today identify lion very sponsor vapor panther focus";
+var mnemonic = "gauge submit gadget ensure goose gospel author abuse kangaroo leg have combine";

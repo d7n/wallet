@@ -1,1 +1,1 @@
-var mnemonic = "rigid general agree agree spider draft safe inherit remind mechanic lunar wool";
+var mnemonic = "kind choice pink argue jar voyage message grape banner sword tell scatter";

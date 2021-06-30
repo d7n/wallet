@@ -1,1 +1,1 @@
-var mnemonic = "reveal later cactus health thrive bomb shy hand kick piece ball catch";
+var mnemonic = "relax wing mother excuse document sense nuclear calm grunt comfort stock angle";

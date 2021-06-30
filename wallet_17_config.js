@@ -1,1 +1,1 @@
-var mnemonic = "display genius dance upper shoot eagle castle reason insect turkey dynamic jump";
+var mnemonic = "film river hawk venue promote clock velvet salt huge sick manual come";

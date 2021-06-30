@@ -1,1 +1,1 @@
-var mnemonic = "typical toilet shell shuffle october pumpkin ankle turn bright black tackle salad";
+var mnemonic = "shock bean route relief teach click comic unlock shield shove chest process";

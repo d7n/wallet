@@ -1,1 +1,1 @@
-var mnemonic = "news famous egg come sight wild situate illness rack chief animal tenant";
+var mnemonic = "erosion humble shove toilet device once dress salon bean trip outside orient";

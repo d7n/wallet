@@ -1,1 +1,1 @@
-var mnemonic = "forget flavor normal napkin jacket bronze final track holiday tank feel pride";
+var mnemonic = "seat victory impulse away slice acoustic east tennis notice bargain opinion aerobic";

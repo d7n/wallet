@@ -1,1 +1,1 @@
-var mnemonic = "sweet island panda team venue sorry claim enable holiday that gesture space";
+var mnemonic = "warrior maximum lecture gadget garment wheat join chicken mass unfold salon cycle";

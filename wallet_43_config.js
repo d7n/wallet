@@ -1,1 +1,1 @@
-var mnemonic = "woman black knife purity rib simple street certain charge turn current mandate";
+var mnemonic = "coin attack peanut pioneer special stone casino wrap slender moon exile ripple";

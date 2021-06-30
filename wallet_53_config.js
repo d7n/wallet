@@ -1,1 +1,1 @@
-var mnemonic = "tone script hawk trigger calm client enlist patient about kick erode elegant";
+var mnemonic = "ensure parade remind shallow broken pull fiber armed weird clean rail phone";

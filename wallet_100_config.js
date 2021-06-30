@@ -1,1 +1,1 @@
-var mnemonic = "amateur call defense foster calm glory extend trash nose intact town total";
+var mnemonic = "sustain rail job list vague color roast soap embrace path angle film";

@@ -1,1 +1,1 @@
-var mnemonic = "turn lonely purpose meadow shrimp trip cook bicycle clock spoil nothing special";
+var mnemonic = "valve kid symbol sad firm detect nest penalty box game thought final";

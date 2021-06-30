@@ -1,1 +1,1 @@
-var mnemonic = "artefact catch slide street input bread grid wild apple maze deer essay";
+var mnemonic = "major hammer gather tissue screen obey morning lion supreme tide eyebrow welcome";

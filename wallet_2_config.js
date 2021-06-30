@@ -1,1 +1,1 @@
-var mnemonic = "easy lecture tissue citizen drum poet sock month warfare travel neutral fashion";
+var mnemonic = "ask market cluster tip example plug verify fortune prison online twenty guess";

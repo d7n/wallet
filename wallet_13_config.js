@@ -1,1 +1,1 @@
-var mnemonic = "disagree jealous define ripple oppose cradle shoot october spider refuse better fitness";
+var mnemonic = "perfect oil kit pride drip cheese veteran next inherit pluck miracle neutral";

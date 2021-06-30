@@ -1,1 +1,1 @@
-var mnemonic = "lazy genuine donate dolphin sudden forward student response measure birth staff flame";
+var mnemonic = "arch dust lock mean theme hover kangaroo pupil wet deputy flush neglect";

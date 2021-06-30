@@ -1,1 +1,1 @@
-var mnemonic = "donkey news month churn category toilet diary pumpkin people harvest equip exclude";
+var mnemonic = "slush plug dawn salmon lesson enhance execute aim motor fun walnut level";

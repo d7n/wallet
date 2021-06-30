@@ -1,1 +1,1 @@
-var mnemonic = "limit vapor finish coast portion item surface suit august shift glance venue";
+var mnemonic = "peasant visit scene refuse lady urban shine electric illness inform exchange merge";

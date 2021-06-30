@@ -1,1 +1,1 @@
-var mnemonic = "matrix comfort slide whisper library window brief still lounge bacon carbon retire";
+var mnemonic = "raw box strategy couch catch attack stumble sad mansion angry involve leg";

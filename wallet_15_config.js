@@ -1,1 +1,1 @@
-var mnemonic = "number hurdle nuclear drink sight turn option foil damp clown reward nurse";
+var mnemonic = "window renew dignity uncle source absent unlock they salute defy lonely doctor";

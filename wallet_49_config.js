@@ -1,1 +1,1 @@
-var mnemonic = "black tag fortune enlist food obscure much dove unfair timber board alpha";
+var mnemonic = "fancy shallow gain cry immense inflict session parade curtain month paddle panic";

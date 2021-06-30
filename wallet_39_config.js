@@ -1,1 +1,1 @@
-var mnemonic = "awkward soccer honey bench end torch icon urban leaf volcano scene army";
+var mnemonic = "spatial bubble shoot dilemma bind clip click replace mercy hotel bar note";

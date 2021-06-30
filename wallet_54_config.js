@@ -1,1 +1,1 @@
-var mnemonic = "blur repeat travel jazz rifle isolate evidence little chapter honey melody chaos";
+var mnemonic = "capable picture uncover wrap wise bacon worth rail satisfy gravity exclude muffin";

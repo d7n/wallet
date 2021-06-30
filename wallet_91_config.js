@@ -1,1 +1,1 @@
-var mnemonic = "scorpion method razor excite grit remain family inquiry agent circle cancel long";
+var mnemonic = "ivory easily miss flag common roof sniff ahead nest tumble question swarm";

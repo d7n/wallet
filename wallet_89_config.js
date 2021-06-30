@@ -1,1 +1,1 @@
-var mnemonic = "spy evolve swing crew armor bacon knife kitten aunt viable define alley";
+var mnemonic = "powder eternal tray circle coin rely trip series salon tornado axis ankle";

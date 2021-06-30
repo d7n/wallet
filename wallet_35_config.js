@@ -1,1 +1,1 @@
-var mnemonic = "strike will trophy hamster swamp grief wing soldier total tree pact hotel";
+var mnemonic = "helmet series work benefit eight thought pet sentence grant coconut capable drastic";

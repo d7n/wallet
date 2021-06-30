@@ -1,1 +1,1 @@
-var mnemonic = "bottom melody reveal cruel switch myself poem chuckle gospel thing advice blossom";
+var mnemonic = "machine candy parade digital arrow lift letter learn liquid beef torch abuse";

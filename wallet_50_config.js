@@ -1,1 +1,1 @@
-var mnemonic = "bulb dial other rule own bid link there update together phone video";
+var mnemonic = "battle able leader caught accuse toy job naive earn ostrich sword naive";

@@ -1,1 +1,1 @@
-var mnemonic = "bid jar sting visa find route onion custom picnic little shrimp grunt";
+var mnemonic = "chase owner violin curious hobby people find enlist onion drip sail welcome";

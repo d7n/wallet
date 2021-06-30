@@ -1,1 +1,1 @@
-var mnemonic = "couple cat connect artefact upper robot title deliver fan once rare goddess";
+var mnemonic = "aisle order lobster swear leaf buzz churn grid all cat rough powder";

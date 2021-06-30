@@ -1,1 +1,1 @@
-var mnemonic = "flavor wheel portion among gate cluster capable weather before apple push limit";
+var mnemonic = "around pioneer edge double blush anxiety imitate ten jungle autumn luxury title";

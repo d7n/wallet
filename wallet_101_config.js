@@ -1,1 +1,1 @@
-var mnemonic = "world recall mom scheme exotic impose candy vacuum turn only height umbrella";
+var mnemonic = "cloth any civil all beach trophy ring still rent omit unable wool";

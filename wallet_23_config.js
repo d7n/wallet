@@ -1,1 +1,1 @@
-var mnemonic = "recycle fatal excess exhaust identify shadow also bar guide impose deliver ice";
+var mnemonic = "zone blanket upgrade trigger spy expand pencil stool desert pave talk famous";

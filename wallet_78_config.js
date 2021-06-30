@@ -1,1 +1,1 @@
-var mnemonic = "bulk appear gallery robust guilt relief empty gown comfort couch sense field";
+var mnemonic = "dress talent better used endless during double thrive truth hour fever test";

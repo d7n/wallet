@@ -1,1 +1,1 @@
-var mnemonic = "rain whale swift sudden slow enough invite elbow odor way lady say";
+var mnemonic = "ranch annual abandon play balcony sorry soldier option able crisp matrix north";

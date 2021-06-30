@@ -1,1 +1,1 @@
-var mnemonic = "dolphin life involve bamboo shaft have artefact found opinion mom sphere artefact";
+var mnemonic = "jealous slam world pear erosion wrist detail easily walk smoke bike glimpse";

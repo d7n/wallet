@@ -1,1 +1,1 @@
-var mnemonic = "island choose mystery stem cram road discover express tissue grant enrich much";
+var mnemonic = "crush road kid ugly mixed bridge federal exhibit easily gold museum truck";

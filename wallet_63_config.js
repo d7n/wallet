@@ -1,1 +1,1 @@
-var mnemonic = "awkward coin try scale bean spot dizzy lift insect cute audit disorder";
+var mnemonic = "away repair alcohol circle version exact episode shine avoid cradle jump witness";

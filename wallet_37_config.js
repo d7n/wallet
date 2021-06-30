@@ -1,1 +1,1 @@
-var mnemonic = "alpha sport maple frozen bachelor luxury reflect churn hill obtain live blue";
+var mnemonic = "label moral glare diagram gravity know load settle fringe ocean fog garage";

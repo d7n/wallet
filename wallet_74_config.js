@@ -1,1 +1,1 @@
-var mnemonic = "spread trip abandon pistol undo cruel coach horror annual popular dream pluck";
+var mnemonic = "wrestle hurdle pelican future excite search eight logic panel uncover dinner shrimp";

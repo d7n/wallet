@@ -1,1 +1,1 @@
-var mnemonic = "ranch horn heavy unhappy valve wasp achieve toddler trend busy pulse baby";
+var mnemonic = "sport lake dolphin dinner screen cloth woman hat unveil tonight furnace core";

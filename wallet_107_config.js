@@ -1,1 +1,1 @@
-var mnemonic = "country assault couple hair episode swift twist vacant math adapt opinion cluster";
+var mnemonic = "collect entry duck spare ozone lesson improve urge animal predict enroll poem";

@@ -1,1 +1,1 @@
-var mnemonic = "current age celery world forget fade prosper estate piano general help mistake";
+var mnemonic = "budget boost belt basket cool consider ritual symbol topic anchor polar dynamic";

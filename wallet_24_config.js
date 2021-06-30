@@ -1,1 +1,1 @@
-var mnemonic = "urban main zoo opinion soap spoon distance south across length donor goat";
+var mnemonic = "mad peasant boost next spell capital surface park mango life emotion neck";

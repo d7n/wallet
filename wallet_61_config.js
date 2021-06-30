@@ -1,1 +1,1 @@
-var mnemonic = "spray tonight remain logic early toilet way priority throw whip ridge multiply";
+var mnemonic = "wing rich essay stand spring magic assault wire tower diet trial seven";

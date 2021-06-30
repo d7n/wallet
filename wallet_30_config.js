@@ -1,1 +1,1 @@
-var mnemonic = "rude daughter fine say number bicycle ginger speed chuckle cycle echo frozen";
+var mnemonic = "gallery black practice game hurt unfair alley vintage shock engage bitter adjust";

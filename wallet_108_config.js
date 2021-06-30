@@ -1,1 +1,1 @@
-var mnemonic = "token phone lottery brave pioneer wide squeeze quantum million eye whale rapid";
+var mnemonic = "salmon regret tiger evil join alcohol mesh furnace rigid plunge elegant dinner";

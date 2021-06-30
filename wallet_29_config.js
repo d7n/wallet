@@ -1,1 +1,1 @@
-var mnemonic = "second owner plug lady decide water slim young total elephant later skirt";
+var mnemonic = "pistol matter select patient connect mad glad balcony have retreat behind route";

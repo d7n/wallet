@@ -1,1 +1,1 @@
-var mnemonic = "announce fiscal flat despair cause improve found split inform soap upon want";
+var mnemonic = "anchor slide return alone practice answer twist pool blast tissue subway keen";

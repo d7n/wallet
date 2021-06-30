@@ -1,1 +1,1 @@
-var mnemonic = "patch cruise liar zoo cabin reflect north guard board fine dutch misery";
+var mnemonic = "royal drop then child donor deer they surround invite other diet order";

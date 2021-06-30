@@ -1,1 +1,1 @@
-var mnemonic = "risk family method sound tone citizen card wave rough chase cliff elder";
+var mnemonic = "spray doll million canoe typical sport virtual pistol boring decline cute piece";

@@ -1,1 +1,1 @@
-var mnemonic = "inch kitten cruel delay flip leader soul service bus exclude glove rapid";
+var mnemonic = "topic hotel define ostrich share piano warfare bracket believe crucial what aware";

@@ -1,1 +1,1 @@
-var mnemonic = "garden fade library rotate code assist rail decade reopen loan primary raccoon";
+var mnemonic = "flat nothing receive clay type bitter proud coyote alley advance battle mobile";

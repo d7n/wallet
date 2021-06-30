@@ -1,1 +1,1 @@
-var mnemonic = "draw spray shock sustain cancel brisk peace sudden belt present frame scan";
+var mnemonic = "prize thumb juice stumble increase radar grunt old soldier master when scare";

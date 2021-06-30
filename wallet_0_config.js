@@ -1,1 +1,1 @@
-var mnemonic = "ignore exhibit hill cheap demand survey unfold second enable special learn debris";
+var mnemonic = "canoe clay birth state city wise stock animal core social try type";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme witness hood phone jar bright achieve duty coyote leave unhappy tree";
+var mnemonic = "snap crouch empty wreck ranch lock struggle antenna system scale acquire lava";

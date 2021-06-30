@@ -1,1 +1,1 @@
-var mnemonic = "distance near shed vast win dash traffic device tired arch health army";
+var mnemonic = "suffer horn target west ten clever segment saddle green sketch concert lift";

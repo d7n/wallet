@@ -1,1 +1,1 @@
-var mnemonic = "monkey blur nuclear pizza else test noodle enjoy family degree liar harvest";
+var mnemonic = "entry demand armor bunker bundle doll syrup laundry battle course buzz better";

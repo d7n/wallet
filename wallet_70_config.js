@@ -1,1 +1,1 @@
-var mnemonic = "escape hollow shell wing chat talent join tribe glad advice physical urban";
+var mnemonic = "isolate auction wild ostrich floor dog pull half idle east void under";

@@ -1,1 +1,1 @@
-var mnemonic = "summer moment exercise lift canal border bird green diary plate picture elevator";
+var mnemonic = "employ movie obtain magnet resource boost chase dry walk athlete rare rate";

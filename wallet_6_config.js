@@ -1,1 +1,1 @@
-var mnemonic = "sister credit sense harbor aisle aware nerve escape exhibit again miss wheat";
+var mnemonic = "warrior raise call victory enter labor future bleak blanket order frost spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "reason short athlete tragic match town town meat prison expose cradle eye";
+var mnemonic = "front during collect address hub praise glimpse sunset toilet veteran material smart";

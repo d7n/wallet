@@ -1,1 +1,1 @@
-var mnemonic = "erosion state sick cinnamon perfect athlete clean dilemma action frost like dumb";
+var mnemonic = "manual dutch twenty regular traffic hold abstract husband evidence daughter clock meadow";

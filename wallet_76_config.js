@@ -1,1 +1,1 @@
-var mnemonic = "reunion company stool submit home waste course gasp already spend inject north";
+var mnemonic = "unlock slogan pledge assist spring initial dune above giant tube protect monitor";

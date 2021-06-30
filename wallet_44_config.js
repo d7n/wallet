@@ -1,1 +1,1 @@
-var mnemonic = "exist search hospital sail junior shoot judge property depth add artist resemble";
+var mnemonic = "garment spoon front blade acoustic explain exclude maximum fine ignore myth often";

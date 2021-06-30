@@ -1,1 +1,1 @@
-var mnemonic = "hidden false cricket flee angry book aunt oblige fit stable heavy social";
+var mnemonic = "candy pulp awake ostrich sting license tongue shell crunch history rifle cute";

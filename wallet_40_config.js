@@ -1,1 +1,1 @@
-var mnemonic = "cash escape nature member then flower puppy good galaxy cart answer put";
+var mnemonic = "shaft olive almost behind sadness mule grape squirrel observe glance fury boil";

@@ -1,1 +1,1 @@
-var mnemonic = "planet addict cousin shove entire depart glove exist famous learn cousin huge";
+var mnemonic = "wide outdoor until conduct wrong planet lottery price radio basket left cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin network random false excite art wheel pass nice nature moment buzz";
+var mnemonic = "orient donor viable frown behave cigar miracle throw decade nothing law ritual";

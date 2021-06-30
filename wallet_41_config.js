@@ -1,1 +1,1 @@
-var mnemonic = "symptom kitten caution material blast bone manage winner suffer meadow mystery eyebrow";
+var mnemonic = "enhance people inmate bless taxi napkin boost plate crawl citizen crop train";

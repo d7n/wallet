@@ -1,1 +1,1 @@
-var mnemonic = "resource interest target cradle tunnel embrace return easy during border ramp average";
+var mnemonic = "phrase hole inform echo develop drum energy vanish leader spice attend music";

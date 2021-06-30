@@ -1,1 +1,1 @@
-var mnemonic = "imitate atom travel more cross number venture ticket grocery flip banana visa";
+var mnemonic = "target glance cost sport absurd inspire skin elevator document motor strong skirt";

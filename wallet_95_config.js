@@ -1,1 +1,1 @@
-var mnemonic = "relax quit will onion burst bind spend injury lift outdoor please cup";
+var mnemonic = "obscure dial someone sustain bread guide tone business aerobic claim digital method";

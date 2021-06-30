@@ -1,1 +1,1 @@
-var mnemonic = "entire police width reward dice subject zero size tide topple across zoo";
+var mnemonic = "label scheme lawn poverty onion assault animal shed clay come elite board";

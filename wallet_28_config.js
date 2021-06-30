@@ -1,1 +1,1 @@
-var mnemonic = "proof twin upper illness stadium resist century recycle work silk control ordinary";
+var mnemonic = "business game vanish struggle swift churn square end chest snap begin cinnamon";

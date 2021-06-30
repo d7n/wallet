@@ -1,1 +1,1 @@
-var mnemonic = "select north pelican point move fan smart erosion echo peace hurdle kind";
+var mnemonic = "ill identify swing people jelly practice food ostrich sense settle prepare lunar";

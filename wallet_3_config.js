@@ -1,1 +1,1 @@
-var mnemonic = "alien myth plastic hip obey lecture head all holiday cargo tank load";
+var mnemonic = "multiply divide sure place crash love still very pond monitor venture capital";

@@ -1,1 +1,1 @@
-var mnemonic = "useful elder region proud derive produce eagle primary mass man embody leaf";
+var mnemonic = "essence fatal page right turn shop survey warrior wire crop gauge tape";

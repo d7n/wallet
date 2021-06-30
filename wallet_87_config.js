@@ -1,1 +1,1 @@
-var mnemonic = "clerk zoo small mystery lake proud original danger unable adult hundred slight";
+var mnemonic = "slender term boy vanish doctor grit drop interest shift regular exile duty";

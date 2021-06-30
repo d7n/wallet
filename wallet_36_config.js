@@ -1,1 +1,1 @@
-var mnemonic = "edit shift youth fever tube silly modify acid term embark grab broom";
+var mnemonic = "virus recipe best echo wheat grant awesome sunset cram approve final soon";

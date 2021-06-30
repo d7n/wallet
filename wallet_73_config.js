@@ -1,1 +1,1 @@
-var mnemonic = "twin exotic pony nerve jewel tone holiday middle lottery black fork police";
+var mnemonic = "nerve below gauge dilemma elbow suit laptop merge pledge green security material";

@@ -1,1 +1,1 @@
-var mnemonic = "gold remove tumble diet angry blur usual upper glance off surprise deposit";
+var mnemonic = "silent unusual spring slender swamp over appear cloth pistol buffalo price moment";

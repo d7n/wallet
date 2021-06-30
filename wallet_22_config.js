@@ -1,1 +1,1 @@
-var mnemonic = "little guide device box strike tag saddle famous bid hold canoe oyster";
+var mnemonic = "glass orange develop point plastic clog drastic oblige day tourist chunk symbol";

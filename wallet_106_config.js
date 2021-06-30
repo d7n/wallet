@@ -1,1 +1,1 @@
-var mnemonic = "author style word meadow pear injury wall logic arrive inherit traffic despair";
+var mnemonic = "holiday fragile guess glance market immune puppy corn hurdle remove rain drip";
