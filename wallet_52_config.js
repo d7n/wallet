@@ -1,1 +1,1 @@
-var mnemonic = "van vapor match warm brush general notice salmon quiz critic vacant connect";
+var mnemonic = "twist jazz meat orange permit essay bring sustain cruise volume make maid";

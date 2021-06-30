@@ -1,1 +1,1 @@
-var mnemonic = "flower digital cabbage stumble faint industry van shoe game walnut evoke myth";
+var mnemonic = "beach woman wrong desk amazing key riot bottom behave off mail clever";

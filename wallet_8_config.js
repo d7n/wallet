@@ -1,1 +1,1 @@
-var mnemonic = "edit saddle believe view parent click deputy vanish guide width rice palm";
+var mnemonic = "major silly people afraid next wedding neither merry teach fame frozen differ";

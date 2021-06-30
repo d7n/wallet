@@ -1,1 +1,1 @@
-var mnemonic = "wing glue put cloth else reward venture host sock document help spawn";
+var mnemonic = "salmon inhale sand segment donor upper zone math glimpse sister pumpkin aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "sight search enable soul airport swift rent decade transfer resist hand actress";
+var mnemonic = "horse immense citizen brain illegal crumble end hurt crystal ketchup hat try";

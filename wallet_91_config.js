@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog gravity extra mobile palace mixture tomato trim swift token essay mosquito";
+var mnemonic = "elder level sad meat mosquito verify safe scissors sell elder cluster quit";

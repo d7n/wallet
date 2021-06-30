@@ -1,1 +1,1 @@
-var mnemonic = "purse exotic husband hope fox powder win december shop fatal scatter surface";
+var mnemonic = "knife habit pelican exclude crew theory attitude scatter guard middle evil book";

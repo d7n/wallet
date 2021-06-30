@@ -1,1 +1,1 @@
-var mnemonic = "menu verify kiwi april season where since already sock stove awful little";
+var mnemonic = "laugh warfare mass visa bounce bulk energy math dirt lobster exhibit grace";

@@ -1,1 +1,1 @@
-var mnemonic = "credit dentist brain hood scrap much celery echo over melt inform initial";
+var mnemonic = "educate poem window bottom bag shrug damp hub mixed put weather world";

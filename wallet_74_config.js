@@ -1,1 +1,1 @@
-var mnemonic = "lounge check raise equip quick earn loan admit team belt resource muscle";
+var mnemonic = "frown waste girl knock cruel midnight alter rebuild thunder banner scene hope";

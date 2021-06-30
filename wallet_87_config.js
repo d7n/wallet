@@ -1,1 +1,1 @@
-var mnemonic = "roast cherry develop strong give noise blouse news position sort ribbon bullet";
+var mnemonic = "typical credit easily better ozone enjoy puzzle tomato limit peace diesel family";

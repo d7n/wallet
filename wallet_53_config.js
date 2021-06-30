@@ -1,1 +1,1 @@
-var mnemonic = "fashion comfort much crisp artefact flush drink few parade shadow gallery spice";
+var mnemonic = "close ozone fetch bullet youth master wall divorce joy divide assist ticket";

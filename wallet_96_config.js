@@ -1,1 +1,1 @@
-var mnemonic = "garment impose couple west nature nothing argue valve vintage expose find differ";
+var mnemonic = "onion desk olympic spike enforce deny remove sword neck undo main same";

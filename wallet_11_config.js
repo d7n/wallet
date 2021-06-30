@@ -1,1 +1,1 @@
-var mnemonic = "shoot shed scare there dance pen fish olympic vendor prison vital rapid";
+var mnemonic = "tired mad grief girl guide alert timber song allow rare anger cook";

@@ -1,1 +1,1 @@
-var mnemonic = "net acquire second promote paddle foot seminar exclude wrong clown noise ball";
+var mnemonic = "someone access push ranch other nasty daring wide process clap year can";

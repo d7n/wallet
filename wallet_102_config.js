@@ -1,1 +1,1 @@
-var mnemonic = "juice wave filter stereo chef ice ridge hold pool silk doctor used";
+var mnemonic = "victory orchard spoon sibling seat tower spin bridge cloud patch book reject";

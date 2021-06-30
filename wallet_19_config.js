@@ -1,1 +1,1 @@
-var mnemonic = "doll shield panel hamster tent busy inch silly immense half wire scout";
+var mnemonic = "major spread manage awkward width tumble athlete stumble grief process furnace public";

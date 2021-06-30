@@ -1,1 +1,1 @@
-var mnemonic = "clay raven inspire news eyebrow ski rack tunnel segment cool clay clog";
+var mnemonic = "diamond same color balcony whisper eye frame coil behind chicken bleak distance";

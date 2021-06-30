@@ -1,1 +1,1 @@
-var mnemonic = "goddess cheap maple fancy recall shed whale agree media squeeze quality federal";
+var mnemonic = "clever apart hollow vast place sing settle warfare visit manage dinosaur concert";

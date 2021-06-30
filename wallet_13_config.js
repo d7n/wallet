@@ -1,1 +1,1 @@
-var mnemonic = "concert bench debate fossil chase hole admit escape sample embark leader world";
+var mnemonic = "pretty angry unknown sugar dust organ repair electric exotic garbage divorce input";

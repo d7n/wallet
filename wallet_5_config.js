@@ -1,1 +1,1 @@
-var mnemonic = "volcano leg fame casino account theme skill broccoli pony script obvious cry";
+var mnemonic = "home trumpet weird recipe ribbon catalog shoot iron grab shuffle admit bullet";

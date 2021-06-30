@@ -1,1 +1,1 @@
-var mnemonic = "tree ability violin never sea tooth absurd wait prevent worry virus know";
+var mnemonic = "mystery mirror solve few labor crime point opera thing kiss sorry minor";

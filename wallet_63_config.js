@@ -1,1 +1,1 @@
-var mnemonic = "traffic awake tell pet sun uncle climb expose random flash another desk";
+var mnemonic = "arch march marble emotion copper chicken dose word seminar recipe vehicle short";

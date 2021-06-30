@@ -1,1 +1,1 @@
-var mnemonic = "endorse then keep waste page delay pioneer miracle frame dolphin practice volcano";
+var mnemonic = "street accident grunt decorate eight olympic hobby dad immense wise advance window";

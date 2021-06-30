@@ -1,1 +1,1 @@
-var mnemonic = "moment arctic mammal uphold project between maximum price tenant buzz evil weekend";
+var mnemonic = "movie spoon attend test health rabbit belt attract quarter method coach winter";

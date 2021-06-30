@@ -1,1 +1,1 @@
-var mnemonic = "return candy reunion pink fitness tackle virus family glance visit wage slab";
+var mnemonic = "cost trouble equip beach habit uphold drastic judge hero category neck place";

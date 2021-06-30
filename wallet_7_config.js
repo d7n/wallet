@@ -1,1 +1,1 @@
-var mnemonic = "expose blame fossil unlock wrap odor viable nothing rural category club quick";
+var mnemonic = "trend coffee chair around knife supreme budget tent flame act insect bone";

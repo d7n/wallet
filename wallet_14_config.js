@@ -1,1 +1,1 @@
-var mnemonic = "warm laundry siren bronze script alter power party lazy mammal leader neglect";
+var mnemonic = "timber organ online cancel large action segment between comfort alien decline grain";

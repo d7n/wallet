@@ -1,1 +1,1 @@
-var mnemonic = "spike private wonder check sport distance upon clutch glove stand machine multiply";
+var mnemonic = "skate today potato sweet zebra walnut hope jeans option outside travel vital";

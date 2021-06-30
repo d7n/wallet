@@ -1,1 +1,1 @@
-var mnemonic = "identify idle simple baby stem upgrade ripple dune any mutual equal sense";
+var mnemonic = "estate hint bean viable neutral hip jungle where observe claim cricket cushion";

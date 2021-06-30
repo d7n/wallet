@@ -1,1 +1,1 @@
-var mnemonic = "exact snack knife river expose fancy pulse pelican cattle burger forward daughter";
+var mnemonic = "lunch swear knock tuition maze envelope impose fame wing brisk note shallow";

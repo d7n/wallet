@@ -1,1 +1,1 @@
-var mnemonic = "flight version lobster beauty urban van jelly size local engage memory town";
+var mnemonic = "age allow glove venture burden draw clarify search flock grace naive police";

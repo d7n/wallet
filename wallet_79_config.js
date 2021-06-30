@@ -1,1 +1,1 @@
-var mnemonic = "pill invite sphere essay night top situate coyote talent nuclear series neither";
+var mnemonic = "hard lemon equip alarm make cruel desk anchor egg art release cook";

@@ -1,1 +1,1 @@
-var mnemonic = "latin harbor city crouch summer shop affair engine pepper embrace spider balcony";
+var mnemonic = "grocery cactus dress symbol clinic short lawn robot goose immune baby lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "logic during pelican trap pull steak music emotion gasp mix spike speed";
+var mnemonic = "erupt season unique ice patch shallow token blind aware plastic delay music";

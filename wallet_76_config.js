@@ -1,1 +1,1 @@
-var mnemonic = "enrich orange skate ensure raccoon crane inherit stable business draw spread old";
+var mnemonic = "gentle citizen thank pill donor goose predict blossom shrug radar govern outer";

@@ -1,1 +1,1 @@
-var mnemonic = "you palm expire fury kite prison labor glide rack mountain outside lawsuit";
+var mnemonic = "grass rebuild peanut ripple style ring detect share measure ball trade course";

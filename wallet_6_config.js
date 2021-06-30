@@ -1,1 +1,1 @@
-var mnemonic = "industry element carbon receive nerve atom rabbit load pen range valve property";
+var mnemonic = "discover lift bonus scissors ability lounge below market machine permit obscure later";

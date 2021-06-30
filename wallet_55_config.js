@@ -1,1 +1,1 @@
-var mnemonic = "bracket picnic excite flavor crowd genre ten account fan visit lazy balance";
+var mnemonic = "fatal dish stamp radar small motion click rate rubber rhythm nasty muscle";

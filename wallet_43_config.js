@@ -1,1 +1,1 @@
-var mnemonic = "alien olive rice fine slam predict six snow omit vapor mushroom delay";
+var mnemonic = "project basic weasel dress crystal swift town urban quality problem erupt more";

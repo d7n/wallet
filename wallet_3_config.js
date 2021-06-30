@@ -1,1 +1,1 @@
-var mnemonic = "february spy skill inject thought secret bike false sweet shiver nest engine";
+var mnemonic = "summer crush wild chuckle bicycle message earn rapid spread click fantasy purse";

@@ -1,1 +1,1 @@
-var mnemonic = "hat print welcome pride trigger guitar design gym vacuum patch damage stable";
+var mnemonic = "upset dish milk best law lava tennis all monster arctic rather exotic";

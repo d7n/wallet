@@ -1,1 +1,1 @@
-var mnemonic = "nurse gadget badge jump mixed acid vital exercise market cinnamon action hand";
+var mnemonic = "detect hotel idle above purity embark trade tortoise water idea august mix";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat material sniff rookie invest tongue small coffee depth candy soft link";
+var mnemonic = "tuition stool current climb nest embark prepare issue cliff beauty element extra";

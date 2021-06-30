@@ -1,1 +1,1 @@
-var mnemonic = "bench normal proud execute insane west tuna amateur lend fatigue stage word";
+var mnemonic = "talk claim when light fever team sustain torch monitor repair give chef";

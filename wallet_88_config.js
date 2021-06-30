@@ -1,1 +1,1 @@
-var mnemonic = "convince ritual income avoid twenty grant shuffle target elegant glance risk raw";
+var mnemonic = "proud baby moral course mass sail leisure unusual lumber slab depth render";

@@ -1,1 +1,1 @@
-var mnemonic = "stick dolphin degree vivid memory pave mother piece visit useful excite suspect";
+var mnemonic = "wing ordinary oil like similar spatial adapt insect bubble relax ten spin";

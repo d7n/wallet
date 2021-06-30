@@ -1,1 +1,1 @@
-var mnemonic = "stove idle ill shop cement name moment hazard excess clown absurd any";
+var mnemonic = "coast boss spice sudden hamster trip dove discover enrich oyster drive mother";

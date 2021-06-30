@@ -1,1 +1,1 @@
-var mnemonic = "wheel profit please window laundry false brand feel glance head rule laundry";
+var mnemonic = "broken cheese wet rain nothing normal denial mosquito alley eternal know solve";

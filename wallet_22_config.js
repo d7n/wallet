@@ -1,1 +1,1 @@
-var mnemonic = "vital charge long stool oil boat short fly naive toddler there sponsor";
+var mnemonic = "head drama wrap search canvas master riot gun knee tribe next jealous";

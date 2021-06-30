@@ -1,1 +1,1 @@
-var mnemonic = "kind crumble stage fun silly clarify prize miss typical favorite equal above";
+var mnemonic = "claw legend sphere people grass wealth remain drift shed employ legal trade";

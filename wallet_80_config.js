@@ -1,1 +1,1 @@
-var mnemonic = "october degree region modify simple chapter century essay leave monkey share diet";
+var mnemonic = "front scale vacant pepper eagle peanut nothing kitchen lawn nuclear convince lyrics";

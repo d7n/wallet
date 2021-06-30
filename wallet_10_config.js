@@ -1,1 +1,1 @@
-var mnemonic = "upper amateur job thrive tool budget veteran glove photo cannon caution race";
+var mnemonic = "moon thank seek judge identify finish float blade aunt visual profit shaft";

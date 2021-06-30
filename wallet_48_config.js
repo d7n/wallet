@@ -1,1 +1,1 @@
-var mnemonic = "inhale before dad dilemma region few merry dignity assault click talk bottom";
+var mnemonic = "innocent address dune maid because kangaroo duty session actress smile system style";

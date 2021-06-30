@@ -1,1 +1,1 @@
-var mnemonic = "benefit verify odor input bone spot cabbage twist liberty improve belt okay";
+var mnemonic = "secret right beef delay radio rifle drama slogan attend power high next";

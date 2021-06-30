@@ -1,1 +1,1 @@
-var mnemonic = "core dry boat riot orbit squirrel gas tank attend domain copy plug";
+var mnemonic = "usual wedding year mushroom scorpion lemon couple unhappy offer clerk awkward tip";

@@ -1,1 +1,1 @@
-var mnemonic = "segment cabbage jewel light spatial climb cherry seat craft ask case connect";
+var mnemonic = "perfect door cabin shallow detail hand hood artefact save bid diary seed";

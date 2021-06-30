@@ -1,1 +1,1 @@
-var mnemonic = "climb grant mean employ poem combine nut convince ocean option boy purity";
+var mnemonic = "garment praise paper garage shoe labor replace concert hire dad attend nasty";

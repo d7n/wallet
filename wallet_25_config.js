@@ -1,1 +1,1 @@
-var mnemonic = "hammer album palace wagon flight ivory sound box domain around age addict";
+var mnemonic = "simple entire patrol affair oppose suffer pool boss spin curious purity quarter";

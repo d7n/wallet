@@ -1,1 +1,1 @@
-var mnemonic = "empower hope slide bleak crime life buddy human tube base sound phone";
+var mnemonic = "saddle argue asset green pepper junk treat shrimp fall large detail wage";

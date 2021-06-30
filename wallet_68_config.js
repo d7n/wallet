@@ -1,1 +1,1 @@
-var mnemonic = "shallow memory coyote eight alcohol action tape meadow chalk dutch canvas length";
+var mnemonic = "panda promote shoulder taxi morning someone extra cable vacant mandate snack draw";

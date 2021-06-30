@@ -1,1 +1,1 @@
-var mnemonic = "egg scrap memory prize lens adult pelican oxygen fork industry frost elder";
+var mnemonic = "velvet omit whisper require bench slide provide fox patient theory survey dash";

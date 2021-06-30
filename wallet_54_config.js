@@ -1,1 +1,1 @@
-var mnemonic = "virus cry before master bench olympic swear make car illegal horn photo";
+var mnemonic = "same nation click gym bunker noble basic inflict exchange injury music license";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip charge thank trap crash sell forest believe turtle amount deputy conduct";
+var mnemonic = "bench fog creek aware squirrel alcohol response cancel dance rabbit regular slice";

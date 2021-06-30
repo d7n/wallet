@@ -1,1 +1,1 @@
-var mnemonic = "harvest ketchup behind road uncle climb divert shine february quit nothing gorilla";
+var mnemonic = "refuse friend process april cover gentle belt blur advice blame print purity";

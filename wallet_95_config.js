@@ -1,1 +1,1 @@
-var mnemonic = "item brush prepare strategy ask young sister urban crush furnace margin tired";
+var mnemonic = "spread snake wire admit execute price wood silk cash boil portion flip";

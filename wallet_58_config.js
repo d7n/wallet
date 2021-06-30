@@ -1,1 +1,1 @@
-var mnemonic = "gold ostrich cigar island zero abandon syrup olympic federal female face few";
+var mnemonic = "assume lawsuit hope cluster source dignity hurdle rain problem blue talk month";

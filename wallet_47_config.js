@@ -1,1 +1,1 @@
-var mnemonic = "custom pulp check verify dream bottom buzz remind bus eagle cricket away";
+var mnemonic = "muscle loyal rent dice smooth alone lizard figure essence summer domain injury";

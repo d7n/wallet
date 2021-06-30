@@ -1,1 +1,1 @@
-var mnemonic = "choice impose rough twin way walnut loud there speed hobby review minimum";
+var mnemonic = "multiply easy mirror fantasy rain easily game state arctic depth ball welcome";

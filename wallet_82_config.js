@@ -1,1 +1,1 @@
-var mnemonic = "naive immense mutual village disorder seat card wide journey fix power armed";
+var mnemonic = "orange pen guilt shell install foot sock entire jewel wall click protect";

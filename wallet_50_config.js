@@ -1,1 +1,1 @@
-var mnemonic = "ordinary unaware expect author denial document hub dash razor royal price evoke";
+var mnemonic = "result team hamster witness car position parent old embrace steak impact lawsuit";

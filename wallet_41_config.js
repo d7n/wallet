@@ -1,1 +1,1 @@
-var mnemonic = "increase orphan digital gospel stomach hungry canvas weapon silk action detect save";
+var mnemonic = "village gas conduct equal then cable typical under oblige brick mention confirm";

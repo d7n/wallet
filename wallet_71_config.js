@@ -1,1 +1,1 @@
-var mnemonic = "control squeeze appear muscle indoor human door cruel retire minimum pull help";
+var mnemonic = "viable police topic cart divorce solid blush stereo kingdom puzzle social sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate clock mouse city cotton bread depart journey teach alcohol bulk thing";
+var mnemonic = "key person rate circle excite build vacant fly laundry cruel polar swarm";

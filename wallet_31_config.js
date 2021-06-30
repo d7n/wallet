@@ -1,1 +1,1 @@
-var mnemonic = "across horse crew like model domain model other ritual bubble frown depth";
+var mnemonic = "fortune enough advice orbit drama walnut clutch dry hand bean always entry";

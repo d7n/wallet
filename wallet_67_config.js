@@ -1,1 +1,1 @@
-var mnemonic = "choice almost online affair runway picture chimney please mango talk cherry proof";
+var mnemonic = "clerk daughter alcohol shoot maximum company help lion basic mean dress modify";

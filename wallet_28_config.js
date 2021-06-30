@@ -1,1 +1,1 @@
-var mnemonic = "awake harvest shed cart process balcony undo car powder happy agent air";
+var mnemonic = "skirt popular hire gap parade tuition olympic twenty grant chimney radio insane";

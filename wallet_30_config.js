@@ -1,1 +1,1 @@
-var mnemonic = "plunge worth assume color lucky night match just away kingdom phone also";
+var mnemonic = "together about loop oppose tone butter fossil ticket flight atom morning pepper";

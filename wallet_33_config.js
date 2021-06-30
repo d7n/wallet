@@ -1,1 +1,1 @@
-var mnemonic = "educate loud you prison ten file pass assist feature demise occur oyster";
+var mnemonic = "appear banner goddess beauty switch movie van earn glove knee miracle endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce film visa captain old raise captain force parrot ridge already purse";
+var mnemonic = "exercise song brush couple blossom bread web stairs arrange coyote wild reason";

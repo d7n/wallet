@@ -1,1 +1,1 @@
-var mnemonic = "rural lumber grid evoke track wave trial record miss glass early require";
+var mnemonic = "venue parent able crash display sheriff beef follow utility common neck adult";

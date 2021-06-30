@@ -1,1 +1,1 @@
-var mnemonic = "feed oil local size invite myth climb brief office traffic need antenna";
+var mnemonic = "humor frost physical cannon spray silly cement pretty citizen salon curtain liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "chase steel movie scare april quiz unlock oval boost weird use track";
+var mnemonic = "mosquito radar torch interest hip cheap husband armed report satoshi creek orient";

@@ -1,1 +1,1 @@
-var mnemonic = "letter motor leaf strategy melody census scrap novel feel virus leopard payment";
+var mnemonic = "lyrics hollow paddle hand ahead link case aim bubble cement aware pride";

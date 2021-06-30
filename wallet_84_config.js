@@ -1,1 +1,1 @@
-var mnemonic = "surround circle before ranch pole select awkward enroll salt name drum erupt";
+var mnemonic = "runway just critic hockey order obey toy chaos twelve neither kid room";

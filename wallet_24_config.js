@@ -1,1 +1,1 @@
-var mnemonic = "midnight caution myself unfold agent before misery guess until anchor maximum nose";
+var mnemonic = "absurd rice parent text funny wheat meat lecture two achieve vital cage";

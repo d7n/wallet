@@ -1,1 +1,1 @@
-var mnemonic = "derive eagle rival zero crush antenna culture own engine genius nuclear powder";
+var mnemonic = "category theme carry decade present inmate reason swim giggle evolve junior enter";

@@ -1,1 +1,1 @@
-var mnemonic = "trap witness life butter weapon faculty logic spray problem advice mechanic save";
+var mnemonic = "pull device famous win galaxy side october pave toy about faculty ethics";

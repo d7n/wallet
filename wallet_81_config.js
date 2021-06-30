@@ -1,1 +1,1 @@
-var mnemonic = "wedding suit quit inspire birth recall gloom syrup tree amazing drill dance";
+var mnemonic = "direct tobacco feature cave stomach time model double dog sweet change alley";
