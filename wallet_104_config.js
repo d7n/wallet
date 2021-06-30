@@ -1,1 +1,1 @@
-var mnemonic = "salon retreat video south wish fiscal park wolf industry left shield legend";
+var mnemonic = "found always enable exercise spread inflict cannon range lion slogan adapt rather";

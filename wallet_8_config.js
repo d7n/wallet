@@ -1,1 +1,1 @@
-var mnemonic = "egg visa beauty coffee normal long acoustic public easily shock right use";
+var mnemonic = "exile poverty echo hockey view way yard eight theory shift alert logic";

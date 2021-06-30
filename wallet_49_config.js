@@ -1,1 +1,1 @@
-var mnemonic = "usual bullet assist shoot flock palace nuclear tired chest omit empower palace";
+var mnemonic = "goat trust submit trouble favorite night argue body alone own moral lumber";

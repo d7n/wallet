@@ -1,1 +1,1 @@
-var mnemonic = "phrase dice afford zebra skirt tell innocent knock jealous predict setup keen";
+var mnemonic = "push jeans hobby material lonely travel vague daughter next bleak have vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "outside logic mad wife wise scan obscure eagle crater supreme pony grit";
+var mnemonic = "coil bullet echo code monitor cabbage oil addict student faith receive usual";

@@ -1,1 +1,1 @@
-var mnemonic = "grow village limit chunk autumn slide crouch town slush arctic list expire";
+var mnemonic = "more swap credit timber piano convince dizzy gloom humor slot cancel master";

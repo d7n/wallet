@@ -1,1 +1,1 @@
-var mnemonic = "surface height hard day property frost advice song toast fever neither spoil";
+var mnemonic = "bike multiply muscle limb ridge divert cake patch trim abuse hurdle power";

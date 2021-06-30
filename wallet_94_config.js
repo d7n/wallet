@@ -1,1 +1,1 @@
-var mnemonic = "crush age task brisk youth film brown autumn elite save permit cover";
+var mnemonic = "hurry zone sauce input hybrid ostrich there indoor banner reject legal destroy";

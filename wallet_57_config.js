@@ -1,1 +1,1 @@
-var mnemonic = "receive stuff miss orchard window since domain catalog entry stamp arena tennis";
+var mnemonic = "gym manage wheel raw pair certain topic impulse whip risk convince wait";

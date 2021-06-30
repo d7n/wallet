@@ -1,1 +1,1 @@
-var mnemonic = "kid provide glove plug damp very present pelican analyst wash outer uphold";
+var mnemonic = "injury summer horse garden turkey give bullet few fiscal position oval bid";

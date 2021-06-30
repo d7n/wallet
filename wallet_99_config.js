@@ -1,1 +1,1 @@
-var mnemonic = "divide gallery panther stand rookie jelly crater what latin best later onion";
+var mnemonic = "laptop pulp evolve absorb amateur number steak exotic imitate surge pilot wool";

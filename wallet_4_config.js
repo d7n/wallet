@@ -1,1 +1,1 @@
-var mnemonic = "pride gesture acid nasty piece concert alpha woman glory ensure melody pretty";
+var mnemonic = "elbow gain damp work cheese green hazard idle balance control believe fork";

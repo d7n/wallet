@@ -1,1 +1,1 @@
-var mnemonic = "finish young oppose chimney sound into sure fiscal rebel select become avoid";
+var mnemonic = "clog bridge run other love avoid explain million hurry version before swing";

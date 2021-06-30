@@ -1,1 +1,1 @@
-var mnemonic = "now magnet squirrel onion velvet baby uncover brown switch capable fragile injury";
+var mnemonic = "topple dinner uncle hard hedgehog torch ability joke smoke onion play visa";

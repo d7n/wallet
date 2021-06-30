@@ -1,1 +1,1 @@
-var mnemonic = "gift child hungry release easily soccer word exit fetch palace fish include";
+var mnemonic = "dynamic school rare sort robust dinner cricket local october payment palace inherit";

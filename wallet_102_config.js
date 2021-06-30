@@ -1,1 +1,1 @@
-var mnemonic = "alpha tool key build bulk judge frozen verb say vicious mirror gaze";
+var mnemonic = "quality satoshi famous margin member merge guide dress tonight stool spot tissue";

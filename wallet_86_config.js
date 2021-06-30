@@ -1,1 +1,1 @@
-var mnemonic = "melt scout observe board misery skate swarm alcohol width hawk shed board";
+var mnemonic = "sign eternal shine prefer grape card usage crumble vicious manual merry hub";

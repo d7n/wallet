@@ -1,1 +1,1 @@
-var mnemonic = "nature pipe tomato across purse category destroy smooth laundry now found veteran";
+var mnemonic = "sock spell hover giggle street brain purpose exercise orphan atom solution trap";

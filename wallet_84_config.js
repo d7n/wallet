@@ -1,1 +1,1 @@
-var mnemonic = "army menu young injury license cake list stairs video chicken special bike";
+var mnemonic = "liar open humble task sound venue month hill valley exist moral banner";

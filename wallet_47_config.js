@@ -1,1 +1,1 @@
-var mnemonic = "system measure hire cage move hotel laundry state travel rural inhale avoid";
+var mnemonic = "leg vintage sentence aspect gap stand album seed elevator favorite glue vote";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse picture decide resource soccer special brief stairs axis supply guilt toe";
+var mnemonic = "hawk river review mixture laptop scatter cruel throw copper mixed amazing approve";

@@ -1,1 +1,1 @@
-var mnemonic = "either egg leader hollow dust whisper crucial doctor analyst dance dance gospel";
+var mnemonic = "nature trim lion chuckle gravity april effort project hint shift glass west";

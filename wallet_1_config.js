@@ -1,1 +1,1 @@
-var mnemonic = "file client true profit upon nerve river wall frequent cross sauce assist";
+var mnemonic = "lazy now cash lyrics aerobic flavor post vapor love hint valve cute";

@@ -1,1 +1,1 @@
-var mnemonic = "burden duck shoulder vault where assume flat excite require region luggage youth";
+var mnemonic = "suggest dismiss dawn display lake evolve spray day control castle tool couple";

@@ -1,1 +1,1 @@
-var mnemonic = "idea dune tragic crisp best symptom defy current alien farm boy season";
+var mnemonic = "penalty hint neglect cloud reunion comic fossil almost aspect utility vivid suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "immense warm error slim render code midnight monkey genius bag scare escape";
+var mnemonic = "pear goddess source only clerk wet noodle hat desk noble girl awkward";

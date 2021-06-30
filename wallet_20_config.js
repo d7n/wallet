@@ -1,1 +1,1 @@
-var mnemonic = "dentist mother brush trophy rebel blur invest copper average clinic cushion mass";
+var mnemonic = "review host pitch wolf dragon return steel tumble purchase fiction jump mule";

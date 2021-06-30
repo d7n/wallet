@@ -1,1 +1,1 @@
-var mnemonic = "life ship family mixed team uncle brass child world grain age play";
+var mnemonic = "drum pencil cause vacuum cage test diamond jealous cushion title fine nest";

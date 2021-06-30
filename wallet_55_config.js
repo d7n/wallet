@@ -1,1 +1,1 @@
-var mnemonic = "candy spider tenant notable attend require brain pyramid planet govern gain damage";
+var mnemonic = "skirt valve large below crack vast risk earn blind pond walk parrot";

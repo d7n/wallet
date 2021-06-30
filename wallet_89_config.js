@@ -1,1 +1,1 @@
-var mnemonic = "test fury exchange rude surge work grape naive conduct bless wrist comfort";
+var mnemonic = "spin upon gasp rug outer master need rent rival planet execute catch";

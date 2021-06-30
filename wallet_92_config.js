@@ -1,1 +1,1 @@
-var mnemonic = "trick when day dance extra square clerk concert shift pattern allow west";
+var mnemonic = "used ridge monitor else alien undo cupboard drum expect swap shield silent";

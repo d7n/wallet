@@ -1,1 +1,1 @@
-var mnemonic = "juice leg spring mind coyote join churn poet almost blossom appear use";
+var mnemonic = "roast ostrich equal same snake above gentle lamp feel survey smile degree";

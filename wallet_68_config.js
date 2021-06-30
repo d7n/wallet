@@ -1,1 +1,1 @@
-var mnemonic = "token have foster butter pool crumble picture aerobic ability eternal vessel adjust";
+var mnemonic = "add injury champion sponsor what drip rescue envelope song bone ranch minute";

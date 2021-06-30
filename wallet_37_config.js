@@ -1,1 +1,1 @@
-var mnemonic = "index trust length seven know silent hedgehog zoo foam jar picnic able";
+var mnemonic = "nation scrap prosper pigeon health also victory muffin school tape tool talent";

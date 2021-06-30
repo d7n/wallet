@@ -1,1 +1,1 @@
-var mnemonic = "payment ceiling firm recipe degree arm urge seat kick imitate glimpse must";
+var mnemonic = "rug ghost also chef enable erupt glimpse timber churn lesson clean crop";

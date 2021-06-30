@@ -1,1 +1,1 @@
-var mnemonic = "upset actress scale glory nose dry erode unlock upset settle cigar mosquito";
+var mnemonic = "finish sudden extend erosion reject river desert width hospital indicate taste outdoor";

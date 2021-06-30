@@ -1,1 +1,1 @@
-var mnemonic = "thunder fog pigeon genius explain wild injury danger much nasty rebuild absorb";
+var mnemonic = "ten silly disease inherit scissors delay chronic leg stuff ridge visit famous";

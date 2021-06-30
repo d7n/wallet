@@ -1,1 +1,1 @@
-var mnemonic = "below save desk hawk relax wrap goat erase budget slogan caution isolate";
+var mnemonic = "six saddle voice divide island desert virtual dumb fluid romance vapor physical";

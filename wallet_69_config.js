@@ -1,1 +1,1 @@
-var mnemonic = "smoke roof spray prison online reduce mercy room shaft define secret coast";
+var mnemonic = "camera system aunt dentist medal gain carry brother raccoon suspect bargain dragon";

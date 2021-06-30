@@ -1,1 +1,1 @@
-var mnemonic = "slight machine that buyer assist prepare toe basic place summer demise access";
+var mnemonic = "olive quick tragic combine gather chair junk upgrade ticket debris congress dish";

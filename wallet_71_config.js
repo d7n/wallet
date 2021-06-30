@@ -1,1 +1,1 @@
-var mnemonic = "pilot ivory canal pond mango key pudding million base collect cradle shadow";
+var mnemonic = "afraid opera spy tonight library float tone mobile defense kind address puppy";

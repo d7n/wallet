@@ -1,1 +1,1 @@
-var mnemonic = "midnight fuel waste honey another grid bid evolve minute rebel kick case";
+var mnemonic = "draft verify reject industry grid question unveil child afraid multiply bulk general";

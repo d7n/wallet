@@ -1,1 +1,1 @@
-var mnemonic = "sound negative rescue live trust remind hawk farm entire degree cycle winter";
+var mnemonic = "there outside sound penalty man slab news concert notice dragon onion patrol";

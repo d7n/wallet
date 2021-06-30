@@ -1,1 +1,1 @@
-var mnemonic = "august absent win sun video alley trim slice bitter prevent absorb orchard";
+var mnemonic = "rich jaguar shoot syrup degree oblige know dose wagon ticket broccoli harsh";

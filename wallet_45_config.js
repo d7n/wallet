@@ -1,1 +1,1 @@
-var mnemonic = "luxury treat road reject until rack dad december thumb burden island snow";
+var mnemonic = "rich write satoshi attend next maid polar loan candy learn audit you";

@@ -1,1 +1,1 @@
-var mnemonic = "rule void plate stable best wisdom oak science traffic napkin purchase liberty";
+var mnemonic = "tissue gift sadness wish expire idle kidney response danger lend under flavor";

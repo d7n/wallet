@@ -1,1 +1,1 @@
-var mnemonic = "mask collect vault else phrase please carry save one ankle invite ridge";
+var mnemonic = "pair prepare bitter crawl cash perfect amazing select gold more absurd fly";

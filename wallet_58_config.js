@@ -1,1 +1,1 @@
-var mnemonic = "family card excite poem retreat canoe bulb hat junior dumb result artefact";
+var mnemonic = "pizza woman amused digital lava glance play mouse real wait people candy";

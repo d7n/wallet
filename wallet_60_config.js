@@ -1,1 +1,1 @@
-var mnemonic = "wreck double inhale tent cricket donkey stereo eye toe own father make";
+var mnemonic = "athlete install erosion interest series chunk devote praise cattle correct current stock";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet afford forget this draft holiday release power fresh practice sausage merry";
+var mnemonic = "motor mail course cliff retreat myself tired perfect spare derive reform head";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo chase immense trigger border economy desert galaxy indoor exist copper behind";
+var mnemonic = "title uphold any battle hire mail congress taste example item soul pet";

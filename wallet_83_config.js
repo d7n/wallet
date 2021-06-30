@@ -1,1 +1,1 @@
-var mnemonic = "tube thought toast hair clever crash bounce hidden task weekend time elite";
+var mnemonic = "judge grape truly venture insect glue symbol tongue seed coin dignity theme";

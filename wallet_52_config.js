@@ -1,1 +1,1 @@
-var mnemonic = "final gadget permit wing build pipe post east position fit comfort soda";
+var mnemonic = "fall impulse refuse later stove economy summer hundred arena double rare welcome";

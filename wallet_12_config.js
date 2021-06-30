@@ -1,1 +1,1 @@
-var mnemonic = "joke arrange vessel teach resemble warfare exercise prepare enable churn message trim";
+var mnemonic = "cabbage oil elevator credit rhythm marble dolphin flight crowd become side clever";

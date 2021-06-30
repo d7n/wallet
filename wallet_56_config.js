@@ -1,1 +1,1 @@
-var mnemonic = "black kid curve crumble ring arm box cup clarify grunt dumb yard";
+var mnemonic = "short mandate east soon squeeze pattern female pair visit evolve fluid surge";

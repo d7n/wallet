@@ -1,1 +1,1 @@
-var mnemonic = "grief hotel horse satoshi essay barrel junior vast smile grain knife chimney";
+var mnemonic = "intact setup solid spray whip tattoo peasant slam kite festival length benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold ivory inner party various own upper source laundry mean duty silly";
+var mnemonic = "welcome supply chest flower remember add verify language rhythm six laundry body";

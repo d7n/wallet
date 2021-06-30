@@ -1,1 +1,1 @@
-var mnemonic = "ivory notice quiz biology shoe spoil surround acid midnight gun satoshi oyster";
+var mnemonic = "recipe make helmet utility twice alpha rescue write kiwi foil power group";

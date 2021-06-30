@@ -1,1 +1,1 @@
-var mnemonic = "hill approve nuclear patient oppose grunt library rail connect basket cereal board";
+var mnemonic = "bus amused item consider hunt must hole series nurse trap vivid broken";

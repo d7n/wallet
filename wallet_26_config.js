@@ -1,1 +1,1 @@
-var mnemonic = "exit hello hundred lumber damage december powder ugly arrive rescue one buffalo";
+var mnemonic = "liar fox chest repair fire erode virtual fall tumble obvious steak nominee";

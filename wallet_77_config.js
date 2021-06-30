@@ -1,1 +1,1 @@
-var mnemonic = "inform gallery civil perfect loud outside umbrella waste attend cruel runway oxygen";
+var mnemonic = "switch side scout auction disease sign circle other tell biology ribbon truck";

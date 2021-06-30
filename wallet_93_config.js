@@ -1,1 +1,1 @@
-var mnemonic = "cart exercise street congress manual hazard raw stereo orphan hidden much produce";
+var mnemonic = "practice what raven decline dismiss fox syrup devote machine shrug emerge ship";

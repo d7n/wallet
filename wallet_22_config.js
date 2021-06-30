@@ -1,1 +1,1 @@
-var mnemonic = "noble merry coin resist feel jaguar harbor alarm episode easily loyal glow";
+var mnemonic = "cover fog shine say gather dizzy extra vehicle same spider stock build";

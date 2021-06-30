@@ -1,1 +1,1 @@
-var mnemonic = "suit wedding era real breeze point lounge ceiling include leave agree aunt";
+var mnemonic = "scorpion expire cave shiver rebuild south olive round reduce buffalo loud album";

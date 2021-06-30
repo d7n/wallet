@@ -1,1 +1,1 @@
-var mnemonic = "pencil arrow they pyramid salmon trigger convince vocal betray evolve attract puppy";
+var mnemonic = "eyebrow market gospel surprise parrot tortoise note can solve beach gift slide";

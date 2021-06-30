@@ -1,1 +1,1 @@
-var mnemonic = "scale talent update village chest poet hurt blind pass patrol issue lift";
+var mnemonic = "abuse cram useful bird climb gown fortune release receive subway resist dish";

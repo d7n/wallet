@@ -1,1 +1,1 @@
-var mnemonic = "duck aunt goose certain tribe tent delay stairs current bunker zoo much";
+var mnemonic = "bag access twelve language print type retreat luggage say brave crane balance";

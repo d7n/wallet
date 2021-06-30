@@ -1,1 +1,1 @@
-var mnemonic = "scale logic claw orange horse faint crush trap match ski wreck dash";
+var mnemonic = "toward where brick blue aim scrub scatter level chat bid opera three";

@@ -1,1 +1,1 @@
-var mnemonic = "cry issue calm spread slab purse surround solid gown have similar ankle";
+var mnemonic = "have vicious wage biology patrol giant crush invite bubble choose type town";

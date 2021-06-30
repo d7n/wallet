@@ -1,1 +1,1 @@
-var mnemonic = "draw height small machine tenant winner review front begin collect tape slim";
+var mnemonic = "amazing lottery mouse butter flat crime infant noodle above iron document cheese";

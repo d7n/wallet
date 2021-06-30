@@ -1,1 +1,1 @@
-var mnemonic = "state give treat olympic pool love disagree century laptop fuel thumb fit";
+var mnemonic = "liar segment garden embody disorder effort crumble shrug quick olive turkey later";

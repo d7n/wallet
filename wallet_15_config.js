@@ -1,1 +1,1 @@
-var mnemonic = "path party huge bonus omit wrap rebuild card ceiling year upgrade advance";
+var mnemonic = "pupil pioneer powder draw run critic song crunch grocery long amazing slim";

@@ -1,1 +1,1 @@
-var mnemonic = "catch boat test shuffle process nut hold energy pelican law cannon drive";
+var mnemonic = "hand black swear wet permit dry whale similar satoshi dismiss submit cement";

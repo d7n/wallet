@@ -1,1 +1,1 @@
-var mnemonic = "two slice change coyote winter good zone olympic artefact club range planet";
+var mnemonic = "release galaxy vivid shallow loan future music can butter blanket ethics satoshi";

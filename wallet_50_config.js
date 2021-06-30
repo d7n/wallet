@@ -1,1 +1,1 @@
-var mnemonic = "evidence about maximum still paper upset about stick update swift marble sausage";
+var mnemonic = "danger trend vacuum shell juice problem differ amateur motion area route know";

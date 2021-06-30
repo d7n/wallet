@@ -1,1 +1,1 @@
-var mnemonic = "giggle error pear diamond melody device clerk monkey cry journey liar face";
+var mnemonic = "dynamic upset pretty congress pony excess ranch pizza base bunker soda attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome throw course slab song bottom pupil absurd camera left about discover";
+var mnemonic = "inmate say federal youth lemon bicycle upon absorb ski island unique elephant";

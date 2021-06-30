@@ -1,1 +1,1 @@
-var mnemonic = "usual modify actress health palace memory inhale swallow banana suggest moment soon";
+var mnemonic = "security order bounce record solution lift lonely render budget sell minimum protect";

@@ -1,1 +1,1 @@
-var mnemonic = "found merit plate gadget medal around carpet grid series vanish young search";
+var mnemonic = "month elephant liar advice drama jealous will green hospital bless mule panel";

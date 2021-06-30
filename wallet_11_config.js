@@ -1,1 +1,1 @@
-var mnemonic = "divert prize chronic warm resemble among exotic alter flee price pluck hello";
+var mnemonic = "across warfare draw degree trouble wrong ladder yard wood wild teach tourist";

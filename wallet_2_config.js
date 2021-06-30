@@ -1,1 +1,1 @@
-var mnemonic = "tilt record slab option depth bullet noise crunch dwarf attract upon sense";
+var mnemonic = "planet abandon sun obtain brother raccoon noble chief spatial wild predict clay";

@@ -1,1 +1,1 @@
-var mnemonic = "thank include dune smooth collect bulk type police satoshi quiz chef fashion";
+var mnemonic = "twist danger lend edge forward language spice normal among chase time guitar";

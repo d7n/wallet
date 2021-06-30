@@ -1,1 +1,1 @@
-var mnemonic = "high exhibit donkey frequent kit stomach ready goat castle desert degree emotion";
+var mnemonic = "tongue life where torch split polar rigid shrug reflect success disagree exclude";

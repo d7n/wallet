@@ -1,1 +1,1 @@
-var mnemonic = "assist gate burger sick wall increase universe stool cycle length donkey rigid";
+var mnemonic = "finish pudding clever current lunar west pride stage drill obtain pumpkin survey";

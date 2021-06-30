@@ -1,1 +1,1 @@
-var mnemonic = "follow arena clock crime youth crater much artwork sniff order arm glad";
+var mnemonic = "grunt decorate frown mail flat manual risk govern filter void estate inflict";

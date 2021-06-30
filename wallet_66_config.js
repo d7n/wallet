@@ -1,1 +1,1 @@
-var mnemonic = "question beef panel focus maze jewel quick episode nerve auto gym display";
+var mnemonic = "flame veteran dwarf elder invite cook ball broom undo famous visual one";

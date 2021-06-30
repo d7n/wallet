@@ -1,1 +1,1 @@
-var mnemonic = "mesh normal critic siege silk three term potato thought strategy elder later";
+var mnemonic = "certain warfare rate west witness mandate dose distance capable sauce urge claw";

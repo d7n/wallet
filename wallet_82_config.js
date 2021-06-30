@@ -1,1 +1,1 @@
-var mnemonic = "cushion island street version undo father street negative alpha purchase soft device";
+var mnemonic = "keep pumpkin bullet museum abuse help raven original time liquid clay acoustic";

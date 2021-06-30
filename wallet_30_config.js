@@ -1,1 +1,1 @@
-var mnemonic = "access lady file clip again current sea provide syrup this noble need";
+var mnemonic = "aspect derive erode female bridge throw moment donate mention clarify elephant spirit";
