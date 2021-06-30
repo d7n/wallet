@@ -1,1 +1,1 @@
-var mnemonic = "dilemma any speak ready gloom vault project start one agree arrive pitch";
+var mnemonic = "annual paddle remain pet buffalo advice gaze dose smoke diesel cloud economy";

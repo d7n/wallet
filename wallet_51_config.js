@@ -1,1 +1,1 @@
-var mnemonic = "divorce sign indoor unknown hurt move ethics claim insane guess armed test";
+var mnemonic = "exit surround movie december exclude denial quick recipe mask income success limb";

@@ -1,1 +1,1 @@
-var mnemonic = "capital lobster electric kind poverty endorse congress citizen sugar ignore since either";
+var mnemonic = "inflict lounge airport gauge embrace assume slice cabin season update thrive ten";

@@ -1,1 +1,1 @@
-var mnemonic = "want ramp crunch empower confirm story fan broccoli spatial sugar torch title";
+var mnemonic = "upon injury box rate original fluid lucky battle limb powder pen punch";

@@ -1,1 +1,1 @@
-var mnemonic = "course quote popular fun together large panel ramp soap cost amount wrong";
+var mnemonic = "boost avoid around funny erosion risk high cart frown sad piano reject";

@@ -1,1 +1,1 @@
-var mnemonic = "practice pulse tiny soccer cigar burst what village enrich shed fury modify";
+var mnemonic = "bullet ozone life coil blouse goddess blossom certain ripple tip announce negative";

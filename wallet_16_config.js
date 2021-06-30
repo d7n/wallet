@@ -1,1 +1,1 @@
-var mnemonic = "bike weapon praise hand jump trick sun convince lottery mammal since inner";
+var mnemonic = "lounge iron alter exhaust seek term fever alcohol sponsor address alpha thought";

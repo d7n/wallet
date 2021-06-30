@@ -1,1 +1,1 @@
-var mnemonic = "rack people motion mule virtual believe rely cupboard second walnut liar banana";
+var mnemonic = "butter fringe undo empty balcony receive bulk review payment leader prefer shed";

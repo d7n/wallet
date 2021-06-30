@@ -1,1 +1,1 @@
-var mnemonic = "aunt predict prepare enable choose liberty right word boss remember soccer office";
+var mnemonic = "loud february parrot slam rescue chaos similar sock canyon torch stay cart";

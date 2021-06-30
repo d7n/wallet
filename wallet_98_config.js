@@ -1,1 +1,1 @@
-var mnemonic = "rail salute repair whip mixed soccer wise illness prevent emotion festival grab";
+var mnemonic = "remember one march verify flee fitness buyer session tent uphold road mix";

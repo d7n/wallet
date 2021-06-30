@@ -1,1 +1,1 @@
-var mnemonic = "mass glimpse announce boat before wealth blanket risk delay horn cash inform";
+var mnemonic = "birth bread helmet prevent spawn float punch truly unknown heart evoke name";

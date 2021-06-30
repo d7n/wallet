@@ -1,1 +1,1 @@
-var mnemonic = "scrap pizza word lecture clerk omit nerve mechanic nurse interest cotton brain";
+var mnemonic = "friend survey cancel lab toy large two hybrid tornado plate picture pencil";

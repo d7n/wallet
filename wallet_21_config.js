@@ -1,1 +1,1 @@
-var mnemonic = "muscle differ there please tilt final blush satisfy jazz inflict mammal raise";
+var mnemonic = "color seek pencil robust one access biology hazard weird rookie sausage dress";

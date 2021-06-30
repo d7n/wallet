@@ -1,1 +1,1 @@
-var mnemonic = "mistake sudden one still trash town drama cover more breeze impact dolphin";
+var mnemonic = "squirrel crazy message kiss drink wear quantum trash always water twenty episode";

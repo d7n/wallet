@@ -1,1 +1,1 @@
-var mnemonic = "country put agree that rate lonely panel shove boost split dynamic kitten";
+var mnemonic = "rescue jazz wreck vibrant predict glory certain jewel antique better toward half";

@@ -1,1 +1,1 @@
-var mnemonic = "belt guide text glare electric question please border waste elevator gospel happy";
+var mnemonic = "rate endorse garbage talent music latin online arena jump attack leader submit";

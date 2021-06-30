@@ -1,1 +1,1 @@
-var mnemonic = "cram roof soda anchor nose brand regular match pride orphan trick shove";
+var mnemonic = "meadow ketchup gravity unusual attend alarm vocal unhappy option half scan almost";

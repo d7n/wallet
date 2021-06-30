@@ -1,1 +1,1 @@
-var mnemonic = "over cute boost dizzy stadium banner athlete magic abuse armor sister thank";
+var mnemonic = "upon weapon rate base escape divert add trash true permit pitch away";

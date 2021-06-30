@@ -1,1 +1,1 @@
-var mnemonic = "fatigue barely useful fee avoid lawsuit source duck disagree churn brain humble";
+var mnemonic = "merit brick frog garden slogan resist tip emotion tunnel myself finger other";

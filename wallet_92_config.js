@@ -1,1 +1,1 @@
-var mnemonic = "silk author job cream spell inquiry digital dutch shine genuine coffee capable";
+var mnemonic = "orange cousin alien balcony erupt hood anger derive cricket roof dynamic test";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter mango cushion iron decline whale accuse during gym child opera lift";
+var mnemonic = "ability cabbage shine public sword gorilla uphold safe coil nasty borrow total";

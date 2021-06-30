@@ -1,1 +1,1 @@
-var mnemonic = "thumb body spend glow erase remove cement fold trick lawsuit raw parent";
+var mnemonic = "dove extend actress eager scale wife salt pool route keep tissue tiny";

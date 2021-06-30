@@ -1,1 +1,1 @@
-var mnemonic = "rifle praise obvious nephew crater swallow flip neither mother best domain guide";
+var mnemonic = "shine enact inspire engage laptop forward chase danger grape emerge venture crumble";

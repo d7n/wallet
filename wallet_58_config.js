@@ -1,1 +1,1 @@
-var mnemonic = "original wide habit original clog cigar frost ship depend extra uniform hover";
+var mnemonic = "banana vague refuse route account empty evolve you recipe sponsor usage capable";

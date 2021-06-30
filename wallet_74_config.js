@@ -1,1 +1,1 @@
-var mnemonic = "giant wasp castle chief grief hope menu north brand merit rib announce";
+var mnemonic = "fat auto crop stove find assume panel must wise drift comfort clump";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma census crazy mammal cool pact lawsuit panic index rally domain chicken";
+var mnemonic = "fine remember day hold capable damage donate uphold satoshi lend issue detect";

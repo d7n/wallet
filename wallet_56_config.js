@@ -1,1 +1,1 @@
-var mnemonic = "now frown exhibit chat frozen bench sport mercy long soda family blur";
+var mnemonic = "minor battle stay weekend flower sad stock cook concert amateur honey sure";

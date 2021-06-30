@@ -1,1 +1,1 @@
-var mnemonic = "alter void reopen unit bachelor critic wolf mirror resource village another cactus";
+var mnemonic = "paper dress bottom cart hour trim humble ride there split artefact arctic";

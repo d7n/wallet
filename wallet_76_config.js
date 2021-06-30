@@ -1,1 +1,1 @@
-var mnemonic = "ripple token slush buddy pond hurdle give bullet stool travel cruise mansion";
+var mnemonic = "corn notice used simple dirt vessel patient remain raw rack hybrid edge";

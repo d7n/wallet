@@ -1,1 +1,1 @@
-var mnemonic = "affair solution hazard orient help surge imitate sentence unhappy picnic quote learn";
+var mnemonic = "monkey typical crane bid margin cancel essence toilet put scrub tilt aunt";

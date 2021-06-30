@@ -1,1 +1,1 @@
-var mnemonic = "parade please enable lobster cereal capital can concert random sail ripple manage";
+var mnemonic = "summer pass corn escape acoustic jump system venue mimic name black resemble";

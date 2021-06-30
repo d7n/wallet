@@ -1,1 +1,1 @@
-var mnemonic = "egg before increase summer check defy duty evil picture aspect pen universe";
+var mnemonic = "ride thank mass curtain almost visa loop scout rain hill crunch novel";

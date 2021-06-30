@@ -1,1 +1,1 @@
-var mnemonic = "index forum pole syrup midnight caught tennis addict hollow trap member only";
+var mnemonic = "april gate wish sponsor save undo cricket draft spoon dutch member rubber";

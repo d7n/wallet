@@ -1,1 +1,1 @@
-var mnemonic = "wise coconut chest puppy year upset slender able yard rack similar usual";
+var mnemonic = "kite finish happy list outdoor local final grant flee price donor hamster";

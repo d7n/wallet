@@ -1,1 +1,1 @@
-var mnemonic = "tide pulse oven jump tape cover wine brush expose festival immense exit";
+var mnemonic = "rival hill salt lumber shiver tourist piano scan apple price quit extra";

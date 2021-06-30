@@ -1,1 +1,1 @@
-var mnemonic = "about exist brick script ethics laundry remind two fantasy dinosaur summer skull";
+var mnemonic = "sell address fit erode auction youth aunt major journey danger fox describe";

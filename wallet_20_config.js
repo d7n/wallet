@@ -1,1 +1,1 @@
-var mnemonic = "soft planet life copper captain useful attract female narrow loan wage obey";
+var mnemonic = "other polar plastic struggle sword draft sail thing tribe film imitate simple";

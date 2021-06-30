@@ -1,1 +1,1 @@
-var mnemonic = "winter cheese top subway height dune merge rotate laundry camera exclude peace";
+var mnemonic = "flame network goose ring forget domain click vote unfair confirm body tiger";

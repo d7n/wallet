@@ -1,1 +1,1 @@
-var mnemonic = "recall crouch valid evidence gift cage assault gallery trust bottom praise maid";
+var mnemonic = "bachelor twelve scare gown alley pencil feed addict bomb blanket citizen hole";

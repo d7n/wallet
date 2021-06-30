@@ -1,1 +1,1 @@
-var mnemonic = "alcohol fiction option visa abstract manage because birth toward large imitate mad";
+var mnemonic = "toe spray cute staff castle marble emerge laundry custom chimney model pill";

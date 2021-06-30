@@ -1,1 +1,1 @@
-var mnemonic = "pave gun alter umbrella build consider rack bulk biology truck satisfy problem";
+var mnemonic = "park habit nerve question aisle swear speed beauty man thought pyramid fold";

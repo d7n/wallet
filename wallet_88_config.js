@@ -1,1 +1,1 @@
-var mnemonic = "chief cover sick bird whip noise teach knee live tone alarm target";
+var mnemonic = "room axis job track point picnic mansion ice govern siege chaos pair";

@@ -1,1 +1,1 @@
-var mnemonic = "minor purpose laugh kind detect warm bulk flip clerk honey join paddle";
+var mnemonic = "early cross amused require admit have nerve ladder business crack strategy noble";

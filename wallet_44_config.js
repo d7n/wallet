@@ -1,1 +1,1 @@
-var mnemonic = "focus before decorate dwarf spoil ceiling goat tortoise shuffle oil mosquito dial";
+var mnemonic = "eight rate silly later school fox field decline glory pizza radio crush";

@@ -1,1 +1,1 @@
-var mnemonic = "treat winner floor woman deposit raccoon flash until author clay identify month";
+var mnemonic = "eagle master easily pull favorite work muscle gossip skull capital asthma expand";

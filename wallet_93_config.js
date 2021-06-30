@@ -1,1 +1,1 @@
-var mnemonic = "task chaos favorite flush enroll figure flight virtual regular source summer left";
+var mnemonic = "over acid advance gospel jaguar picnic print tired bargain pupil decrease hen";

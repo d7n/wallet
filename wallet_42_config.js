@@ -1,1 +1,1 @@
-var mnemonic = "vintage volume dune patrol sand element remain person immune ritual shiver since";
+var mnemonic = "armed jealous similar helmet small system bunker cry warfare oil note cement";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin despair sunny silk close prefer asset betray school skull scan surround";
+var mnemonic = "fashion army attend minute shove airport arm curious half beef nerve session";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace shop elegant section army either more wonder ozone task push wait";
+var mnemonic = "capable hurry day urge ginger swamp movie kid rug hybrid smooth dismiss";

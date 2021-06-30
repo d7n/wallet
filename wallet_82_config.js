@@ -1,1 +1,1 @@
-var mnemonic = "elbow hobby leader kitchen retire board rail poverty grant calm way family";
+var mnemonic = "hammer shock reason exit mesh romance timber daring prize broccoli nurse deputy";

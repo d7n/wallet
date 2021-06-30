@@ -1,1 +1,1 @@
-var mnemonic = "fun almost insane figure domain toddler funny erase sort fish merry guard";
+var mnemonic = "rare basket humble zoo canvas crime super excite future topic thrive offer";

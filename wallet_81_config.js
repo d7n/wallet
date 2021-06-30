@@ -1,1 +1,1 @@
-var mnemonic = "dash dose happy lonely work clog intact uphold link minor urge quit";
+var mnemonic = "giraffe poet tail phone model various cake dismiss swap sort render obey";

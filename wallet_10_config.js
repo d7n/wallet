@@ -1,1 +1,1 @@
-var mnemonic = "team sense advance team social hospital verify glass hood dad dress defense";
+var mnemonic = "evil ship task drama business brother wheel adapt satisfy lion neglect emerge";

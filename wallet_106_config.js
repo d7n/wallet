@@ -1,1 +1,1 @@
-var mnemonic = "climb aerobic rapid crystal style strategy rotate stay business this era salad";
+var mnemonic = "exhaust crucial earn february display hobby error health toss carry chunk present";

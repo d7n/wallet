@@ -1,1 +1,1 @@
-var mnemonic = "huge fruit eagle bike sword betray hawk fire muscle rain garlic autumn";
+var mnemonic = "amazing friend waste chunk member strike drill plastic clip nurse february later";

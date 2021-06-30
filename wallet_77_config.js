@@ -1,1 +1,1 @@
-var mnemonic = "boost glance worry pass garment pull sunny bird middle filter visit napkin";
+var mnemonic = "bundle shift spider egg celery setup screen tail habit wing inject album";

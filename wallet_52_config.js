@@ -1,1 +1,1 @@
-var mnemonic = "exhaust category arm breeze tribe ozone panel office bicycle leg execute scheme";
+var mnemonic = "ghost syrup private critic glad chef minor height obey fork tomorrow analyst";

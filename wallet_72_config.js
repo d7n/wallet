@@ -1,1 +1,1 @@
-var mnemonic = "afford merge arrow voyage modify dad lobster sand swear when unhappy mutual";
+var mnemonic = "hazard find tide slide strike broom mirror park nasty prevent symbol under";

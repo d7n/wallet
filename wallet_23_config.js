@@ -1,1 +1,1 @@
-var mnemonic = "boat mix jaguar normal vacuum glass dragon setup exit muffin angry scale";
+var mnemonic = "rug major embark among impose powder manual mystery climb stage that now";

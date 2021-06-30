@@ -1,1 +1,1 @@
-var mnemonic = "obey essay relief away home regret hard stable ignore pink typical please";
+var mnemonic = "fatal perfect glass twenty act summer small excess street congress harbor beach";

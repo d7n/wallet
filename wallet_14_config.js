@@ -1,1 +1,1 @@
-var mnemonic = "risk identify future foster empower urge buddy embody next upset census cheese";
+var mnemonic = "wood chief play give bird grid curtain lesson screen color brief globe";

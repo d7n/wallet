@@ -1,1 +1,1 @@
-var mnemonic = "click patient unaware mass river dress wink agree giant online craft access";
+var mnemonic = "solid venue pupil flush author carry napkin stem bright target dismiss civil";

@@ -1,1 +1,1 @@
-var mnemonic = "style symptom love session visual vibrant wire tissue trust piece earth food";
+var mnemonic = "add crop wrestle hero busy opera yellow orphan kite shy negative detail";

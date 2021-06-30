@@ -1,1 +1,1 @@
-var mnemonic = "suggest gadget test describe critic drop narrow mixed boost cereal mansion punch";
+var mnemonic = "crisp desert maze vivid excite twenty become real tobacco they awkward mosquito";

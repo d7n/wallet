@@ -1,1 +1,1 @@
-var mnemonic = "tonight fork vast exhaust safe toilet sort resemble angry velvet clerk cabin";
+var mnemonic = "devote gown mother question curtain food squeeze sad name cabbage kingdom shift";

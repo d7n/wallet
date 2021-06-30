@@ -1,1 +1,1 @@
-var mnemonic = "muscle master pistol spatial steak ice bomb live leg matrix flip unfair";
+var mnemonic = "exhaust main gate emotion private drive rebel climb object portion marine young";

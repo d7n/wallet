@@ -1,1 +1,1 @@
-var mnemonic = "steak sense wonder toward list asset snack mask bleak figure interest crop";
+var mnemonic = "head poem effort exhibit oxygen snack broom panel unfair sausage thrive engage";

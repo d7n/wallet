@@ -1,1 +1,1 @@
-var mnemonic = "present hobby help game ordinary dizzy century crucial eyebrow zero execute basic";
+var mnemonic = "response stuff unfair trip cupboard fold rose topic riot major fluid note";

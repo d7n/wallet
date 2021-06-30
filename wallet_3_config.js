@@ -1,1 +1,1 @@
-var mnemonic = "vocal north echo rail scatter nation real oval glow figure sea caught";
+var mnemonic = "spy hire candy original giant gentle question tower wise banana shoot tomato";

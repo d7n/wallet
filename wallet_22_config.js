@@ -1,1 +1,1 @@
-var mnemonic = "vapor bleak tone fitness cluster angry shell vast oven mistake cement donor";
+var mnemonic = "pledge state cycle very track dilemma royal hazard retreat foil portion lecture";

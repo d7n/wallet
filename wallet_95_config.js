@@ -1,1 +1,1 @@
-var mnemonic = "silent rigid salad destroy snap gospel tourist stereo avocado coin tube adjust";
+var mnemonic = "shield carpet cost practice rally fatal private two lounge boy version exercise";

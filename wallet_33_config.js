@@ -1,1 +1,1 @@
-var mnemonic = "improve garment sound palace chef behave brisk hotel mad hip engage abandon";
+var mnemonic = "trade combine scale forward appear original icon trap swear enrich rough vacuum";

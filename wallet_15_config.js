@@ -1,1 +1,1 @@
-var mnemonic = "release senior robust insect depth title pony lock salute dismiss success melody";
+var mnemonic = "memory thumb country notice joy sweet nothing print habit direct shed prevent";

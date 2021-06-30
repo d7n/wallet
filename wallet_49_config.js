@@ -1,1 +1,1 @@
-var mnemonic = "spirit lumber athlete gas bacon ozone position hawk penalty multiply twenty crisp";
+var mnemonic = "jeans method outdoor daughter movie cigar legal shoulder sunny nerve breeze stock";

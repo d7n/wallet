@@ -1,1 +1,1 @@
-var mnemonic = "stem add wagon list pig fiscal culture castle more deposit hurry tell";
+var mnemonic = "senior raw expect fan away lamp prepare company banana grape step dune";

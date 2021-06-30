@@ -1,1 +1,1 @@
-var mnemonic = "way vacant actress giggle impose donor chapter victory cruel sample mosquito region";
+var mnemonic = "acoustic visit magnet cement absorb repair proud pattern patient bone visit atom";

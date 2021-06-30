@@ -1,1 +1,1 @@
-var mnemonic = "bundle scan antenna congress almost crumble diamond insane room bacon street coil";
+var mnemonic = "athlete prosper plunge alien whisper tumble endless payment town detail order you";

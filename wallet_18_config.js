@@ -1,1 +1,1 @@
-var mnemonic = "impose scene spin eagle juice oppose predict advance use record pumpkin dial";
+var mnemonic = "cook announce evidence shine pet math segment analyst rude side sound adult";

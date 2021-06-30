@@ -1,1 +1,1 @@
-var mnemonic = "crunch unit dress pool meat fiscal imitate result copy evidence biology hidden";
+var mnemonic = "loyal thought move blue novel animal pulse craft amateur demand bargain issue";

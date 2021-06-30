@@ -1,1 +1,1 @@
-var mnemonic = "ski marine juice risk alpha alpha slush document vintage science expect trust";
+var mnemonic = "neutral destroy usual apart urge attack click popular deal first improve ramp";

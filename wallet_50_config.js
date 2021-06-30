@@ -1,1 +1,1 @@
-var mnemonic = "scout repeat among funny adult powder rack accuse awkward divide among people";
+var mnemonic = "anchor increase faculty aim comic fresh jaguar rubber sword life hair assault";

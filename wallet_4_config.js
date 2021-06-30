@@ -1,1 +1,1 @@
-var mnemonic = "holiday private wine flush input display thumb total alley song seven onion";
+var mnemonic = "pull inmate erosion waste pave speed badge cruel foster shy either category";

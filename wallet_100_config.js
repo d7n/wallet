@@ -1,1 +1,1 @@
-var mnemonic = "loan miracle cage scorpion wagon alcohol nuclear dinosaur copper casino dilemma robot";
+var mnemonic = "ginger lunch negative little portion alone like resource ill agent horse indicate";

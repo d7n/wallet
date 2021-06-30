@@ -1,1 +1,1 @@
-var mnemonic = "jealous crawl place evoke reveal neglect place focus adapt level evolve habit";
+var mnemonic = "region boring limb priority stable february focus enemy public find burger shrug";

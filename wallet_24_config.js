@@ -1,1 +1,1 @@
-var mnemonic = "spell scrap exit chief identify talk mechanic drink among quote bracket swift";
+var mnemonic = "fresh width morning garbage minimum other brave wood want bright oval regret";

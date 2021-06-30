@@ -1,1 +1,1 @@
-var mnemonic = "spin senior mushroom moon van mountain mind caught regret provide turkey loan";
+var mnemonic = "sick tooth reunion apart reason essence switch settle corn castle marble gold";

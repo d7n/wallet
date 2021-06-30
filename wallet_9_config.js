@@ -1,1 +1,1 @@
-var mnemonic = "stem leaf hood during fantasy library young sure require later genuine satisfy";
+var mnemonic = "twelve reopen treat ship please render ball wrist mosquito today chat impose";

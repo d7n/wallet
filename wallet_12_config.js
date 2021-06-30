@@ -1,1 +1,1 @@
-var mnemonic = "fossil test elephant dress crouch leader pave vivid fashion rose idea tribe";
+var mnemonic = "dawn income monster move snake age order normal excite angle pistol grief";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate web loud retire spray chunk energy area improve annual toss mail";
+var mnemonic = "seminar lonely accuse border tip renew crop reform fuel repeat race diet";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket slide mixed suit antenna orphan achieve correct journey rubber first orange";
+var mnemonic = "focus return success pretty horse hedgehog antique scheme practice chuckle cover bulb";

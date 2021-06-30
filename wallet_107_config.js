@@ -1,1 +1,1 @@
-var mnemonic = "scrap simple police unknown upset exclude vague during apple distance awkward recall";
+var mnemonic = "term hole note client tribe gather copy circle toss border dutch correct";
