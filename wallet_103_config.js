@@ -1,1 +1,1 @@
-var mnemonic = "badge flock tenant rapid universe have sting staff media weird possible blanket";
+var mnemonic = "cover cruise venture popular team want mountain cigar pitch retreat dutch nephew";

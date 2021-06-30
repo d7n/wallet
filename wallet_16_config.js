@@ -1,1 +1,1 @@
-var mnemonic = "pattern cousin federal guard true hotel enable fiction first pig print slot";
+var mnemonic = "race inner wealth slam latin rude idle electric force embrace rapid tiny";

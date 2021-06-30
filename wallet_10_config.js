@@ -1,1 +1,1 @@
-var mnemonic = "mechanic love deer leg innocent spy foam siege advice verb color border";
+var mnemonic = "slow glass valid where believe fun penalty acquire write enroll country walk";

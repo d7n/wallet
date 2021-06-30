@@ -1,1 +1,1 @@
-var mnemonic = "inhale attract lawsuit uphold enable satoshi cream private glimpse grape easily exact";
+var mnemonic = "puppy wreck rabbit narrow fix fee defy win hat leisure illness position";

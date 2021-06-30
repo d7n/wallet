@@ -1,1 +1,1 @@
-var mnemonic = "replace cross moral theme nephew snap chimney that know survey control desk";
+var mnemonic = "deal tornado air critic now message mechanic puppy device cattle result flush";

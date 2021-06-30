@@ -1,1 +1,1 @@
-var mnemonic = "lesson sure install stamp neck pen material across ostrich main stool material";
+var mnemonic = "mimic penalty wonder hamster ensure element kingdom glow parent maximum bomb noble";

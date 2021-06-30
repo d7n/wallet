@@ -1,1 +1,1 @@
-var mnemonic = "pudding always mobile garbage reopen audit fluid limit home black tiger account";
+var mnemonic = "cigar adjust town pole glad slam pelican best sense midnight alley carpet";

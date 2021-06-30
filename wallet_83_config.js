@@ -1,1 +1,1 @@
-var mnemonic = "crowd limit garden smile lava allow behind board clean end seed keen";
+var mnemonic = "voyage aisle spring wrong country turtle empower siren client loop system cricket";

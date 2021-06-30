@@ -1,1 +1,1 @@
-var mnemonic = "recycle tree wet section gap dream tank certain thank seat pepper taste";
+var mnemonic = "body photo eye echo arctic nerve execute skull flock retreat share aim";

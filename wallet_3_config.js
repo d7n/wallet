@@ -1,1 +1,1 @@
-var mnemonic = "violin lunch barrel promote type rebuild hole patrol tissue fit fee cost";
+var mnemonic = "trip vanish bless assume elegant prize advice fatal silent crash pistol pig";

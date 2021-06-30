@@ -1,1 +1,1 @@
-var mnemonic = "until predict hope number employ waste panther build provide rally fabric include";
+var mnemonic = "love canvas rather spot like begin axis duty jewel fox jump dance";

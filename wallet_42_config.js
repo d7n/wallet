@@ -1,1 +1,1 @@
-var mnemonic = "tennis boy throw enemy drama quarter tree knee tent problem run claw";
+var mnemonic = "help achieve match frame cushion ethics year circle submit ask maple garden";

@@ -1,1 +1,1 @@
-var mnemonic = "slow buddy impact fall fish disorder give penalty grunt custom busy you";
+var mnemonic = "address denial ugly derive genius notable expect suit what enact scale text";

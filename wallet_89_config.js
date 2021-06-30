@@ -1,1 +1,1 @@
-var mnemonic = "absurd symbol erode you reward gap prevent message shoe shallow one bring";
+var mnemonic = "wage very sign hawk promote execute thought goddess cross payment bacon correct";

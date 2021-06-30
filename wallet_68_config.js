@@ -1,1 +1,1 @@
-var mnemonic = "pond stumble library key gallery notice forum flush hockey give shoulder december";
+var mnemonic = "hip unusual picture dinosaur knee wonder rug forest brief private portion twenty";

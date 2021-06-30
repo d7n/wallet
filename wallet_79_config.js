@@ -1,1 +1,1 @@
-var mnemonic = "marble casual miss volume embark rule domain happy answer fiber ginger genius";
+var mnemonic = "piece liberty green parrot boat kitchen keen veteran plate elevator advance object";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage include visual delay cycle response push sunset garage direct body gesture";
+var mnemonic = "bamboo jaguar solution short fragile female emerge cruise genuine term sponsor broom";

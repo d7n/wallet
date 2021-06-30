@@ -1,1 +1,1 @@
-var mnemonic = "category attend essay wood win family youth sun foster embark enable lonely";
+var mnemonic = "salmon admit flower relief weekend route scorpion federal venue leader cover govern";

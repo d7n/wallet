@@ -1,1 +1,1 @@
-var mnemonic = "surprise slam unit supreme profit extend wolf also purchase improve flame answer";
+var mnemonic = "sample dizzy anger fury supply dial burden glad tumble bless point tennis";

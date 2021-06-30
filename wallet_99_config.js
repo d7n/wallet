@@ -1,1 +1,1 @@
-var mnemonic = "thumb shift wise turtle road extend west trip rare noise because athlete";
+var mnemonic = "test enrich guard option test onion cushion leave pupil legend bind injury";

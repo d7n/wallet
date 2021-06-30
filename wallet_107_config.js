@@ -1,1 +1,1 @@
-var mnemonic = "eager front basket heart animal journey medal trust coil minor extra bunker";
+var mnemonic = "all master bunker vintage left novel exclude skill glove give cruise cotton";

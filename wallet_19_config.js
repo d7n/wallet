@@ -1,1 +1,1 @@
-var mnemonic = "child proof segment asthma echo ivory fun bomb enforce parent fuel wish";
+var mnemonic = "govern saddle isolate fragile wool focus kite ticket cheap usual infant magnet";

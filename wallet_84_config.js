@@ -1,1 +1,1 @@
-var mnemonic = "top cart current chunk surprise unique napkin sheriff cause dash field cinnamon";
+var mnemonic = "head tool direct install cabbage angle best refuse push input cliff frame";

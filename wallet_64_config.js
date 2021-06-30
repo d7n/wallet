@@ -1,1 +1,1 @@
-var mnemonic = "quality number expose spice depend trend oppose load heart lake oval dream";
+var mnemonic = "sort garment frown try chat level tiny cup wrong rose grass physical";

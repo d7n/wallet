@@ -1,1 +1,1 @@
-var mnemonic = "leaf under topic report winter avocado remain payment quarter crack kiss win";
+var mnemonic = "moment seven human reduce issue march space survey unique divide off move";

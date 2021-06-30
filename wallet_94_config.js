@@ -1,1 +1,1 @@
-var mnemonic = "very talent drift into pencil cradle energy blood hen uniform clog review";
+var mnemonic = "popular pulp bounce glimpse strategy erode wrist frozen unique sustain credit narrow";

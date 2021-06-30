@@ -1,1 +1,1 @@
-var mnemonic = "gas empower suggest crime bracket degree clay marine weapon city year forward";
+var mnemonic = "net equal robot happy promote apart banana run patient pigeon casual meat";

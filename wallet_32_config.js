@@ -1,1 +1,1 @@
-var mnemonic = "card endorse book spin volcano brief accident shrimp artist mouse frog alter";
+var mnemonic = "charge sadness emerge fiber useful nose excuse cool million inch shiver few";

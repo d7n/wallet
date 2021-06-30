@@ -1,1 +1,1 @@
-var mnemonic = "differ dignity estate adult earn enough armor extra lizard seek stem another";
+var mnemonic = "corn settle fresh fork bar regular brand equal oblige team soccer erode";

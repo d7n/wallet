@@ -1,1 +1,1 @@
-var mnemonic = "first front ghost album immense hybrid wheel spawn car join connect dumb";
+var mnemonic = "penalty prepare govern boat spell aerobic jungle arrest spirit service drip bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "skate express already curve loud month portion before erode topple patch juice";
+var mnemonic = "helmet idle fame pass public orchard chest behind monster clerk dumb great";

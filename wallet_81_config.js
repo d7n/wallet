@@ -1,1 +1,1 @@
-var mnemonic = "elegant friend motor aerobic aunt icon oxygen say trend skill trash jewel";
+var mnemonic = "note hero tribe legend air glass island cool crystal lawsuit tomato genre";

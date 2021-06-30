@@ -1,1 +1,1 @@
-var mnemonic = "resource pass pause lion screen quick garden excuse reopen kid render diamond";
+var mnemonic = "live whisper remind seek response time horror sound birth brisk initial virus";

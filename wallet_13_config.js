@@ -1,1 +1,1 @@
-var mnemonic = "cruel cram risk goddess truck also flip polar daughter orient wasp swear";
+var mnemonic = "bracket oak surge debris this youth wealth witness move youth legal kit";

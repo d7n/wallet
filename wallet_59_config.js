@@ -1,1 +1,1 @@
-var mnemonic = "shoulder enemy leg acoustic entry habit loyal retreat bundle circle knife canal";
+var mnemonic = "can toe link disorder member bunker require explain smooth assault blind unfold";

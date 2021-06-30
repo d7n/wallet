@@ -1,1 +1,1 @@
-var mnemonic = "session maid spread muscle pulp cube elder fossil extra vocal taxi unique";
+var mnemonic = "make help prize elder develop under usage install target zero easily execute";

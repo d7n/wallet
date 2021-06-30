@@ -1,1 +1,1 @@
-var mnemonic = "age era sting glue heavy trophy wisdom media develop equal attack long";
+var mnemonic = "decorate kitchen noble unusual receive minor tape monitor stool surface retreat model";

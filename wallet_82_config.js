@@ -1,1 +1,1 @@
-var mnemonic = "hammer glue cargo unable screen foot salon treat electric release visit help";
+var mnemonic = "settle bulk cabbage retire certain stage outdoor kiwi offer viable front tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza gown federal blind banner stomach country social sketch table raven fortune";
+var mnemonic = "mandate claim muffin shrug view opinion setup already evoke dial access sign";

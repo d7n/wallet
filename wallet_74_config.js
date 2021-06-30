@@ -1,1 +1,1 @@
-var mnemonic = "leaf another clown direct social lava city fence post million rain clutch";
+var mnemonic = "around depart balance track genre dizzy wave adjust celery flavor fine elbow";

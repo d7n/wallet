@@ -1,1 +1,1 @@
-var mnemonic = "moon enact ritual olympic sauce core sad quote detect fitness fabric castle";
+var mnemonic = "confirm tag holiday dilemma broccoli chapter squeeze occur host hole calm metal";

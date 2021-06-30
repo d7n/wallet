@@ -1,1 +1,1 @@
-var mnemonic = "behind exile wild eight someone suffer rough area double cherry merry estate";
+var mnemonic = "outer relief pyramid rich wait uniform season bounce please retire ship output";

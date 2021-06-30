@@ -1,1 +1,1 @@
-var mnemonic = "envelope fluid gentle blanket unlock average interest twist attack permit cabbage bring";
+var mnemonic = "slight pony cross expire strong sunset ridge taste december axis become robust";

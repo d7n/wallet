@@ -1,1 +1,1 @@
-var mnemonic = "napkin churn unable artwork maple pigeon ordinary inch dice civil anchor siren";
+var mnemonic = "satoshi attack pumpkin pelican flash place holiday mom notice dentist room fabric";

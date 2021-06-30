@@ -1,1 +1,1 @@
-var mnemonic = "sibling behave furnace elbow pioneer thumb anchor twice tail earn gym prosper";
+var mnemonic = "island ability fat account lottery project struggle success unable crush object hard";

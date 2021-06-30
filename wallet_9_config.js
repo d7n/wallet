@@ -1,1 +1,1 @@
-var mnemonic = "mushroom prefer favorite eager supreme tomorrow lava material ticket select price double";
+var mnemonic = "execute other decide please gorilla crime roast city coyote crash surge bag";

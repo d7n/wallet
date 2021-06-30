@@ -1,1 +1,1 @@
-var mnemonic = "deposit fetch rice marriage cliff segment very leopard belt ecology grunt rhythm";
+var mnemonic = "resource ill bamboo bacon dilemma laugh october famous brand flip fever post";

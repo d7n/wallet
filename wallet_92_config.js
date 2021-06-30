@@ -1,1 +1,1 @@
-var mnemonic = "grab vendor fortune easy guilt supreme sport fall odor extend suspect merge";
+var mnemonic = "hire scout food lizard waste park cement gloom local spy decline appear";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth hole reform tip federal illegal soup penalty depth custom once brother";
+var mnemonic = "jacket below decade clarify level person census ask punch brown pink piece";

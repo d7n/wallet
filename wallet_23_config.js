@@ -1,1 +1,1 @@
-var mnemonic = "license grow pencil hotel erosion vote normal play trap tragic column switch";
+var mnemonic = "napkin ocean cry horn cave frost photo pool report place wreck champion";

@@ -1,1 +1,1 @@
-var mnemonic = "juice observe issue barely rose item spice million view female window kidney";
+var mnemonic = "exotic remove paddle paddle razor gas distance above skin crack fox island";

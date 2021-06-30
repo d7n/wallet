@@ -1,1 +1,1 @@
-var mnemonic = "room orchard sponsor leg address rather improve sea top trial viable boat";
+var mnemonic = "mix problem title kidney usage life utility lyrics water illness goddess decline";

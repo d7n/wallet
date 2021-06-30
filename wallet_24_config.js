@@ -1,1 +1,1 @@
-var mnemonic = "blame jazz primary brown inquiry valve ship catch spread federal power easy";
+var mnemonic = "inform violin possible uniform charge decline congress guitar that leader resource mistake";

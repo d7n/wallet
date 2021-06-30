@@ -1,1 +1,1 @@
-var mnemonic = "nice verify evolve raven century illness pepper join put trouble soup bomb";
+var mnemonic = "horse silk salute fork alley knock bleak trim capable expose proud find";

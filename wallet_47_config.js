@@ -1,1 +1,1 @@
-var mnemonic = "canvas exclude dentist thing slush addict artwork innocent ridge year genre oyster";
+var mnemonic = "remember jealous peanut witness mushroom auction lava predict foam matrix scale you";

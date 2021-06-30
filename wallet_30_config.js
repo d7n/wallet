@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit dismiss rail lonely mandate viable vital lawsuit wheel unfold dress letter";
+var mnemonic = "day rely bid fossil crouch ivory phone vehicle inquiry lock pretty draw";

@@ -1,1 +1,1 @@
-var mnemonic = "height transfer bone armor depth shell blue neutral emerge situate market tank";
+var mnemonic = "mercy fold jazz govern reject broom dice slush orange danger evidence rally";

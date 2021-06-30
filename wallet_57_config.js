@@ -1,1 +1,1 @@
-var mnemonic = "bonus swear seed confirm peanut lend error talk skin ripple sick crunch";
+var mnemonic = "sustain east web various hold coast black image miss laptop prevent deposit";

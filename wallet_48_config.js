@@ -1,1 +1,1 @@
-var mnemonic = "snake unable safe seek vault flame fruit energy gap neutral milk party";
+var mnemonic = "cereal expire arm taxi casino medal found genius march outdoor dose hungry";

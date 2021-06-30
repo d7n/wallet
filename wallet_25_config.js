@@ -1,1 +1,1 @@
-var mnemonic = "response nasty echo caught glare fault derive silk drink scale kiwi census";
+var mnemonic = "cherry busy craft sunset mammal cube surface quiz fringe tuition idle public";

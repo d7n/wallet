@@ -1,1 +1,1 @@
-var mnemonic = "oxygen carbon upon cloud super crunch cigar narrow fetch embody artwork slight";
+var mnemonic = "logic man chronic keep afford luggage hire box brass powder beauty trouble";

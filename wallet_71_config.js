@@ -1,1 +1,1 @@
-var mnemonic = "arrange mass fly valve pony price base short correct satisfy deputy stone";
+var mnemonic = "unfold donor summer shine jeans another uniform topic save lumber add peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "help glide visual rigid convince original engage fine excite breeze galaxy corn";
+var mnemonic = "satisfy upon problem across chest visa snow circle double divide long auction";

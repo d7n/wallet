@@ -1,1 +1,1 @@
-var mnemonic = "kingdom mutual brother abstract skin resemble home desert idle grid dumb slice";
+var mnemonic = "siren humor rug wire misery benefit nuclear bean kiss gold slim sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "melt split radio again skirt expire trim retreat hunt second cake vault";
+var mnemonic = "scrap decrease junior pear parent gasp duty rhythm catalog candy carpet pass";

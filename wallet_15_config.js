@@ -1,1 +1,1 @@
-var mnemonic = "brother meadow music add tail october arrive elevator evolve inner unknown spirit";
+var mnemonic = "avoid wrap snake wage shock predict quality glow work orange invest better";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent giant surge bomb stool honey dash coil sudden pattern tuna saddle";
+var mnemonic = "capital void faculty car execute bone usual bonus exercise viable garage warm";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff fault sweet glare broccoli bench food dish giraffe lift leg mutual";
+var mnemonic = "resource ahead model confirm degree radar appear chunk fence home forest scatter";

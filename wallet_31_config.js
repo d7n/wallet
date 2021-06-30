@@ -1,1 +1,1 @@
-var mnemonic = "whip category zero face will grow notable inject nest galaxy master habit";
+var mnemonic = "voice water wrong setup element cup shop income tackle inner wire trash";

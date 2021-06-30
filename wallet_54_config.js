@@ -1,1 +1,1 @@
-var mnemonic = "sadness luggage exact orient artefact chunk theory tonight stem barely dog first";
+var mnemonic = "pitch abstract sausage wolf suggest link pepper crop peasant bullet frost toward";

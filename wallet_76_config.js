@@ -1,1 +1,1 @@
-var mnemonic = "tube attitude lottery quantum also kind olive abstract best shed sense ocean";
+var mnemonic = "split coin camp reunion search cat spoil avoid coach eternal depth since";

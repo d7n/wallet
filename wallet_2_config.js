@@ -1,1 +1,1 @@
-var mnemonic = "mix chronic all accuse team keep twice piano inquiry swarm express monkey";
+var mnemonic = "moon toe memory roof local project success success disorder erode problem peanut";

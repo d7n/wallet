@@ -1,1 +1,1 @@
-var mnemonic = "plate poem exclude sister chunk young gasp blur venue stage spend adult";
+var mnemonic = "jungle dolphin stereo knock addict inside erosion midnight kiss tunnel pen movie";

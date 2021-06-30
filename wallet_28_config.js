@@ -1,1 +1,1 @@
-var mnemonic = "tail punch fish radar betray hospital oppose mask swim escape predict horror";
+var mnemonic = "tunnel moral trick luxury drama grain monkey grit inherit unlock broken that";

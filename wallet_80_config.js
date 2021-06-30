@@ -1,1 +1,1 @@
-var mnemonic = "draw edge ring soft shine rigid rose rally cause dad pet grief";
+var mnemonic = "deer proud final between blade vault job media render have divorce nut";

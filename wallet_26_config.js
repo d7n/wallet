@@ -1,1 +1,1 @@
-var mnemonic = "unique tobacco please ring civil source note almost burst artwork noodle weasel";
+var mnemonic = "boost denial box aisle range ability submit gospel task blue silk hair";

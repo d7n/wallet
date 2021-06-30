@@ -1,1 +1,1 @@
-var mnemonic = "inner glow chaos movie route soldier august item kit humor orchard flee";
+var mnemonic = "noble future cement hybrid public govern desert slam color lawn half ranch";

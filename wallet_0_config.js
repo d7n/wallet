@@ -1,1 +1,1 @@
-var mnemonic = "school embody change push devote actor multiply music rough upgrade trial mule";
+var mnemonic = "dust hospital height accident host eternal save patient sadness obtain nominee december";

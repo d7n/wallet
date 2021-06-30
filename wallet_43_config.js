@@ -1,1 +1,1 @@
-var mnemonic = "twist swing champion push motor pet bachelor clinic yellow double peanut echo";
+var mnemonic = "noise nephew vehicle ride mango someone broccoli blouse silly party metal target";

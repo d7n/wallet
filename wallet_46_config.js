@@ -1,1 +1,1 @@
-var mnemonic = "flavor media dice same middle quality child sponsor perfect matrix require renew";
+var mnemonic = "great matter razor artist blade piano credit eye vote vacuum reason lesson";

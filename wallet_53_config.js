@@ -1,1 +1,1 @@
-var mnemonic = "rich grab depend grab cover shock jewel problem north flag brass forum";
+var mnemonic = "solar update normal joy glare answer pony museum impulse grunt powder teach";

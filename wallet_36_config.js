@@ -1,1 +1,1 @@
-var mnemonic = "faint wonder fly post start scene verify vapor between lyrics affair quiz";
+var mnemonic = "venue address account play choose minute gun ask crack shallow ten exact";

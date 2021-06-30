@@ -1,1 +1,1 @@
-var mnemonic = "can actor service whip turn erupt guard image ask tobacco prepare morning";
+var mnemonic = "sample husband tone segment rigid protect winter torch lemon outdoor dizzy close";

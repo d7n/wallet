@@ -1,1 +1,1 @@
-var mnemonic = "fashion blush comfort mechanic blanket scene fog bread cement together club april";
+var mnemonic = "review carbon enough fence drastic share leader jacket minute subject fiscal tent";

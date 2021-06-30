@@ -1,1 +1,1 @@
-var mnemonic = "notable slush innocent token differ panel fame state field left chaos crack";
+var mnemonic = "swift gospel pencil route sense antenna involve image need verify stool corn";
