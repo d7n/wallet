@@ -1,1 +1,1 @@
-var mnemonic = "coconut grief remind forum cute horse dizzy boss catalog ice comic taste";
+var mnemonic = "account sound action acoustic boat chapter apple old family opera hundred number";

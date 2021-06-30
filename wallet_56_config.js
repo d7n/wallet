@@ -1,1 +1,1 @@
-var mnemonic = "chaos security skirt wreck marine stick acoustic pretty atom cook candy grain";
+var mnemonic = "credit broom liberty swear vendor city want copper alley plastic flag feel";

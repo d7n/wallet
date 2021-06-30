@@ -1,1 +1,1 @@
-var mnemonic = "warrior radar code crazy congress nurse clarify brass bag caught you detail";
+var mnemonic = "unknown remind luxury come cheese weekend remove lock angry source float citizen";

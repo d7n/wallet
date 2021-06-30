@@ -1,1 +1,1 @@
-var mnemonic = "smoke disorder cancel away copper where strike sustain rude because nation stand";
+var mnemonic = "find subway robust month holiday name invite cube gold way tomorrow buzz";

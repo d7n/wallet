@@ -1,1 +1,1 @@
-var mnemonic = "slogan census capital cancel flavor cactus income remove dynamic pyramid art twelve";
+var mnemonic = "police frame junior couple hen figure kiwi choose people pitch together safe";

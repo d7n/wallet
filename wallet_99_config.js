@@ -1,1 +1,1 @@
-var mnemonic = "false brief juice echo lecture vicious earn grocery gold army prevent easily";
+var mnemonic = "oppose bag myself million glimpse fancy decrease picture citizen worry quick abuse";

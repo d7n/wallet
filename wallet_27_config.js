@@ -1,1 +1,1 @@
-var mnemonic = "address spare civil input fever robust boil shine spatial skirt breeze impose";
+var mnemonic = "front inherit ankle kick horse table detail obey tackle avocado electric razor";

@@ -1,1 +1,1 @@
-var mnemonic = "deer spend capable estate into museum mind moon today another mother north";
+var mnemonic = "card stamp idle tortoise stay volume shoulder used depart search add jar";

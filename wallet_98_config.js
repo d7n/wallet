@@ -1,1 +1,1 @@
-var mnemonic = "artwork valley imitate curve denial muffin federal topple cash near dry piece";
+var mnemonic = "despair veteran inspire jealous bottom drastic nephew sugar acoustic voice illness cool";

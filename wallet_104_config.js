@@ -1,1 +1,1 @@
-var mnemonic = "crane amused hip off section potato debris mass grab pond survey leg";
+var mnemonic = "river swamp fresh weapon actual warm project sport gasp connect assist bulk";

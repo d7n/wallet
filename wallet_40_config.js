@@ -1,1 +1,1 @@
-var mnemonic = "safe yard piano silver young distance moon miracle soft fatal cargo mixed";
+var mnemonic = "decade tilt axis border actor broom cube execute steel remove owner settle";

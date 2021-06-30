@@ -1,1 +1,1 @@
-var mnemonic = "enhance lonely amateur setup patrol celery idea clutch prefer accident doll peasant";
+var mnemonic = "visa tank large clean number radio obvious knee marine rug caught never";

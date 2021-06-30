@@ -1,1 +1,1 @@
-var mnemonic = "leave garbage office wedding science onion chalk female top side urge shoulder";
+var mnemonic = "lawsuit merge hurry cup dwarf recall borrow change remove cliff swap lion";

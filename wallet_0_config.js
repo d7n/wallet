@@ -1,1 +1,1 @@
-var mnemonic = "blood mystery satisfy abuse train endless shoulder script section biology digital unfair";
+var mnemonic = "random rose income behind thunder point ostrich jelly swing question state six";

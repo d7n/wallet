@@ -1,1 +1,1 @@
-var mnemonic = "nice differ energy earn humble truly creek goose lonely nature orphan goddess";
+var mnemonic = "ready thunder monster tilt ice train spatial owner enrich harbor glass daughter";

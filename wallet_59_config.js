@@ -1,1 +1,1 @@
-var mnemonic = "provide hamster wise unaware adapt allow small dinosaur ritual latin almost nose";
+var mnemonic = "agent flee toy atom bundle hurdle season slogan tumble pepper nasty assault";

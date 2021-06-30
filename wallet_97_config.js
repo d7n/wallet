@@ -1,1 +1,1 @@
-var mnemonic = "route enrich foster report domain attitude outer radio load juice bracket genuine";
+var mnemonic = "sudden awful give result impact until select cry subway chaos learn punch";

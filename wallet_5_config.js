@@ -1,1 +1,1 @@
-var mnemonic = "rotate broom two owner dune dove shed nice hybrid matter february two";
+var mnemonic = "detect hand foil distance vast base access must flash fluid program gadget";

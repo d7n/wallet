@@ -1,1 +1,1 @@
-var mnemonic = "athlete nerve busy mutual frozen thing planet orange swarm behind clever artefact";
+var mnemonic = "emotion manage basic split unfair verb inspire fatigue must mention critic ancient";

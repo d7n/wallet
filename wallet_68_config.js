@@ -1,1 +1,1 @@
-var mnemonic = "season shaft during clever depth tourist tag plate fiction popular monster hole";
+var mnemonic = "neither cost attitude chuckle pretty meadow method use private same toss vault";

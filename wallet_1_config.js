@@ -1,1 +1,1 @@
-var mnemonic = "source quiz outer brain dutch alley dish smile doctor hill guard spike";
+var mnemonic = "rifle bench involve quality garment hurry item dragon budget fitness fat all";

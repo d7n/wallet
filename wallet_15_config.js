@@ -1,1 +1,1 @@
-var mnemonic = "scene pond grant youth negative obtain universe attract flag moon toast burger";
+var mnemonic = "blanket candy brand clock conduct brand gasp confirm chase dress helmet throw";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket fruit potato income canal view muscle empower raven capital play exist";
+var mnemonic = "keen black solve tone movie draft lemon motion helmet toilet insane liberty";

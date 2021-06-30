@@ -1,1 +1,1 @@
-var mnemonic = "pyramid chapter shoulder spawn pear later feed abandon rally argue quick forum";
+var mnemonic = "notice illness check stumble stuff decide awake prize evoke budget outer worry";

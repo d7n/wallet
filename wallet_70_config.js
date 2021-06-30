@@ -1,1 +1,1 @@
-var mnemonic = "deer settle dog decline wild arch derive affair polar enrich noble wet";
+var mnemonic = "debate stove debris recipe tent crop witness task chapter digital junk canyon";

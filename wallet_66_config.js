@@ -1,1 +1,1 @@
-var mnemonic = "drop guard hazard clinic later alter twenty pumpkin holiday worth truck sample";
+var mnemonic = "just robot since satoshi armed method bargain donate apart machine knock zero";

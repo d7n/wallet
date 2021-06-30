@@ -1,1 +1,1 @@
-var mnemonic = "awkward emerge roof twelve frame invest dice awkward pottery pause crane soul";
+var mnemonic = "burden desk fresh carry royal charge boat capital viable message april arch";

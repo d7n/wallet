@@ -1,1 +1,1 @@
-var mnemonic = "nothing stove plunge cloth kiss cabbage isolate express left expand pistol scatter";
+var mnemonic = "powder sphere accident ethics girl enemy make typical elder sell elite draw";

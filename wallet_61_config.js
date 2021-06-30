@@ -1,1 +1,1 @@
-var mnemonic = "vote under then state faint cake fog wheat speed puppy theory casino";
+var mnemonic = "peasant draw sing legal spoon resource upon student despair brain warm dress";

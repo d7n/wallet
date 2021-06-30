@@ -1,1 +1,1 @@
-var mnemonic = "duty flush salt ghost layer head access title sorry route cliff zebra";
+var mnemonic = "annual vapor present rapid pool detect alert matter crop update fancy suggest";

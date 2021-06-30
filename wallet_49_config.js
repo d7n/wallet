@@ -1,1 +1,1 @@
-var mnemonic = "drama position settle chunk salad notable decrease amused book fix immune near";
+var mnemonic = "library shallow average include shadow pottery shrug ready fury else tourist memory";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo bullet artist question coral galaxy run car change reveal mobile scare";
+var mnemonic = "topple actual birth raw bullet wide only opera machine bring once trash";

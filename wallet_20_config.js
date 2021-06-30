@@ -1,1 +1,1 @@
-var mnemonic = "school material jeans elbow salute fish tobacco couch ball crouch record hospital";
+var mnemonic = "sunny aim practice item element step soup teach bird scene badge ozone";

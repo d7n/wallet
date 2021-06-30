@@ -1,1 +1,1 @@
-var mnemonic = "rather royal dish gun melt candy catch shift neither bench exclude van";
+var mnemonic = "educate neither then orchard void pass vibrant dutch whisper celery govern flock";

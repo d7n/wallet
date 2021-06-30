@@ -1,1 +1,1 @@
-var mnemonic = "phrase elbow beauty chalk slender spot short deputy tell art rookie length";
+var mnemonic = "material debris dwarf stereo deny horn enjoy length write sustain mean blade";

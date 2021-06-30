@@ -1,1 +1,1 @@
-var mnemonic = "fashion intact angry success dial stick sibling during income absurd huge special";
+var mnemonic = "cup uncover bone faculty normal view universe column gallery wrestle warrior stand";

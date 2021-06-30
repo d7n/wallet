@@ -1,1 +1,1 @@
-var mnemonic = "session category tattoo receive about tribe tank control scissors fury describe coconut";
+var mnemonic = "grain entire element donate broken bleak oak differ front donkey chimney tribe";

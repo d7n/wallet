@@ -1,1 +1,1 @@
-var mnemonic = "leopard motor album gaze hamster mammal find notable acid inhale animal juice";
+var mnemonic = "cinnamon charge sugar forget unveil image magnet uncle gather anger quick panther";

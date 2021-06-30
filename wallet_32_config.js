@@ -1,1 +1,1 @@
-var mnemonic = "globe grant ship force rival dinosaur aunt spatial loud drastic laugh swing";
+var mnemonic = "disorder across wine beyond brick admit limb extra club boss pool judge";

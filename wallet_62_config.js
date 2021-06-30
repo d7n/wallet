@@ -1,1 +1,1 @@
-var mnemonic = "sweet inject pilot prefer suit attend cinnamon trap fatal stick equip famous";
+var mnemonic = "royal cake fruit floor fever example drum exist inner fatigue profit panda";

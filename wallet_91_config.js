@@ -1,1 +1,1 @@
-var mnemonic = "weasel obscure paper nut when chat eagle square receive vocal dance clog";
+var mnemonic = "festival govern sponsor burden scare will claw fiber marble regular ten pride";

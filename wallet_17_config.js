@@ -1,1 +1,1 @@
-var mnemonic = "fire host boat wealth sadness proof disease opinion person capable save unaware";
+var mnemonic = "rent slide such grocery bargain armor toast reject hub find view artist";

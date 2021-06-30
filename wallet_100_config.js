@@ -1,1 +1,1 @@
-var mnemonic = "render prize diary unknown pilot horse toy twin fire decorate mail gather";
+var mnemonic = "infant electric sort maple giraffe pledge fruit ocean scissors attitude chat prison";

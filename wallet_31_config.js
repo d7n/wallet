@@ -1,1 +1,1 @@
-var mnemonic = "scorpion trip cupboard dune goddess phone sign current arena elite stairs gown";
+var mnemonic = "deposit move drip galaxy grid real list hamster acid clever arrive injury";

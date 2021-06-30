@@ -1,1 +1,1 @@
-var mnemonic = "warrior satoshi laugh permit crew screen kitchen climb legend race cherry inspire";
+var mnemonic = "fog bargain concert dizzy under save flight bargain caution mimic patch local";

@@ -1,1 +1,1 @@
-var mnemonic = "toward crumble bind recipe visual nose recipe dinosaur season decide mesh effort";
+var mnemonic = "palm empower section ankle path draw alpha lend basket couple fiscal frog";

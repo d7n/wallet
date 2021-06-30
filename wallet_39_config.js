@@ -1,1 +1,1 @@
-var mnemonic = "solve session receive shoulder enhance guess office depend aerobic chapter bounce crisp";
+var mnemonic = "noodle wrestle laugh kidney satisfy cycle width goat exclude laugh program draft";

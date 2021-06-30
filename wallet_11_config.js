@@ -1,1 +1,1 @@
-var mnemonic = "trade bar various spatial myth flight success man inject soup route session";
+var mnemonic = "habit amateur return this loyal maximum close net child tape rent road";

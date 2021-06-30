@@ -1,1 +1,1 @@
-var mnemonic = "lumber cabbage heart hill bamboo labor cousin candy among amateur still math";
+var mnemonic = "vacant confirm deliver keen tool habit include attend snake romance tuition slice";

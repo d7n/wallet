@@ -1,1 +1,1 @@
-var mnemonic = "clerk essence hen possible valley spend sheriff cheese season barrel bless bind";
+var mnemonic = "office fee alter result jar gossip type lunch board begin fold indicate";

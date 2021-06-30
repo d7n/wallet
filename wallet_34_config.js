@@ -1,1 +1,1 @@
-var mnemonic = "response picture bronze recipe repeat lady dignity orbit because stage bike elder";
+var mnemonic = "net depend essence confirm team country frozen walk elbow champion diesel casual";

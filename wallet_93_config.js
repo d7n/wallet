@@ -1,1 +1,1 @@
-var mnemonic = "venture stove define survey noodle focus local valley shaft ginger twenty stuff";
+var mnemonic = "security october wet lunch author state cause vocal decline useless mixture enough";

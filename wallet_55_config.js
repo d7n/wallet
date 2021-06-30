@@ -1,1 +1,1 @@
-var mnemonic = "ribbon grape rate way toe giraffe capital turtle obvious camera minimum stumble";
+var mnemonic = "property town rotate whale radar skate buyer usual other budget knee bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "market measure utility limb lottery cheese midnight retire artwork rural trash owner";
+var mnemonic = "present real clutch cradle zero empower lucky pass eagle certain lawn spirit";

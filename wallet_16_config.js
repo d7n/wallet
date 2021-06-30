@@ -1,1 +1,1 @@
-var mnemonic = "beach certain disorder sentence love drum spray return almost much muscle ridge";
+var mnemonic = "polar sunny access post elevator strong addict oven fortune dry figure before";

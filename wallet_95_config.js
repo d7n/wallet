@@ -1,1 +1,1 @@
-var mnemonic = "owner snow lawsuit bar craft gorilla acquire brave march spider oval axis";
+var mnemonic = "drama thumb flag sorry jelly credit series seek twenty strategy chase stock";

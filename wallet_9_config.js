@@ -1,1 +1,1 @@
-var mnemonic = "lucky ecology question solid flock write jaguar afford dress fish since tone";
+var mnemonic = "staff clinic kitchen crumble ball during pig law green friend hunt three";

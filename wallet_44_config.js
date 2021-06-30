@@ -1,1 +1,1 @@
-var mnemonic = "luxury maple link theme into notice car image easily spice true fee";
+var mnemonic = "company uphold network size december hollow brisk fee oblige phrase crouch love";

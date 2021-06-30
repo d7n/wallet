@@ -1,1 +1,1 @@
-var mnemonic = "trust vibrant boil fever imitate monster engine sorry hole limb party unveil";
+var mnemonic = "miracle viable clap leader wrist also dolphin inside decrease poet put kind";

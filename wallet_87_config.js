@@ -1,1 +1,1 @@
-var mnemonic = "live absurd paddle camp flat expire fold motor stick inner defy chuckle";
+var mnemonic = "when toy crew sniff silent gorilla name believe vault purse defense mesh";

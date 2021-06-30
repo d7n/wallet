@@ -1,1 +1,1 @@
-var mnemonic = "host shaft thing motor apple squeeze gauge buddy champion scatter genuine embrace";
+var mnemonic = "joke humble calm client reward slice today blind brown write measure alter";

@@ -1,1 +1,1 @@
-var mnemonic = "clap soap room actual girl sunset cheese twelve snow admit saddle myth";
+var mnemonic = "small butter laundry mushroom scissors dismiss proud foster nuclear miracle toddler master";

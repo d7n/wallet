@@ -1,1 +1,1 @@
-var mnemonic = "distance camera popular now until people toddler dinosaur apology speak indicate knife";
+var mnemonic = "afraid excess pluck gas please fabric image junior ignore offer endorse wide";

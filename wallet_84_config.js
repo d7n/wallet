@@ -1,1 +1,1 @@
-var mnemonic = "owner twin lesson drama before denial infant coach hundred feel riot actor";
+var mnemonic = "double city corn carry alarm market awkward develop doctor open trouble bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "error fitness warrior physical victory found outside panda emotion trip ankle sugar";
+var mnemonic = "globe disease release stool clean lesson roof burden glide supreme tomorrow pull";

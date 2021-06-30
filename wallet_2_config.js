@@ -1,1 +1,1 @@
-var mnemonic = "farm cube rail frequent dwarf elegant upgrade bus around negative absorb flip";
+var mnemonic = "vacuum fork among fantasy accident clock goddess surge love game magic toe";

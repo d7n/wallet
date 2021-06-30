@@ -1,1 +1,1 @@
-var mnemonic = "forum creek perfect stadium also bacon garden tornado later prevent suit obey";
+var mnemonic = "palace member park dress taste glide mushroom often wisdom salon wasp bronze";

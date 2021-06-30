@@ -1,1 +1,1 @@
-var mnemonic = "antenna hurt fitness dress piece false joy try opinion expire clown farm";
+var mnemonic = "behave switch wrist bulk portion fury smoke rare also cross round toward";

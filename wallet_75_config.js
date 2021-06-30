@@ -1,1 +1,1 @@
-var mnemonic = "dismiss where game mistake day stumble purse latin gravity system just load";
+var mnemonic = "hint bullet tourist entry movie fish plunge film butter between mutual brisk";

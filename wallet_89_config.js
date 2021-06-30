@@ -1,1 +1,1 @@
-var mnemonic = "truck media lion produce simple lamp empty fork dumb trap cactus melt";
+var mnemonic = "round nest swift word weasel remember dial dose lyrics oval hat cable";

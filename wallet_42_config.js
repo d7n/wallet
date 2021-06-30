@@ -1,1 +1,1 @@
-var mnemonic = "quit reform result romance twenty milk more couple elevator firm grace goose";
+var mnemonic = "proof seat angry vicious lunch gravity maze problem struggle amount return confirm";

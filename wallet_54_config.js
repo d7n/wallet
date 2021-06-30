@@ -1,1 +1,1 @@
-var mnemonic = "pool elephant north ethics actor unaware photo ignore finger derive fiscal poverty";
+var mnemonic = "episode raven review crime author clean civil print adjust video cream answer";

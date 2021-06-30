@@ -1,1 +1,1 @@
-var mnemonic = "tube puzzle retire book escape romance balcony stadium ceiling top grief horse";
+var mnemonic = "know april canyon what few rally figure cause siege property limb problem";

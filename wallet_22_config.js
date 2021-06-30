@@ -1,1 +1,1 @@
-var mnemonic = "judge blur session mystery ladder link spoon choose tag police jaguar order";
+var mnemonic = "balcony ready exist latin fitness fury dream desk usual minor sadness receive";

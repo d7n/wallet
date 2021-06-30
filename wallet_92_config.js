@@ -1,1 +1,1 @@
-var mnemonic = "coyote baby hunt fashion churn cart impose segment april forest horse cotton";
+var mnemonic = "gate minimum eager mobile slight box what adult power special thing armor";

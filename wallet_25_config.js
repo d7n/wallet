@@ -1,1 +1,1 @@
-var mnemonic = "live ticket fetch action garment olive grain buddy enemy wink diet lobster";
+var mnemonic = "winner harvest dish accident erode defy grocery penalty sibling park brisk embark";

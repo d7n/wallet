@@ -1,1 +1,1 @@
-var mnemonic = "split dream paper parent banner flavor spy load urban struggle thing delay";
+var mnemonic = "aisle novel abstract hobby direct script that return deliver attend slim direct";

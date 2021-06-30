@@ -1,1 +1,1 @@
-var mnemonic = "inform kite occur mail legal then carbon monitor paddle drama plug wear";
+var mnemonic = "bread rely warfare seat ankle trade pencil cable book remember magic speak";

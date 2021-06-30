@@ -1,1 +1,1 @@
-var mnemonic = "roof clarify myself vibrant yellow unveil cake cupboard pen stairs trophy soon";
+var mnemonic = "maid moon stay yellow inner square slight couch ritual century sugar answer";

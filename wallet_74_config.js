@@ -1,1 +1,1 @@
-var mnemonic = "motion energy silent refuse math nest noble mountain chase naive jealous risk";
+var mnemonic = "session need convince fame day job sound circle run system tragic boy";

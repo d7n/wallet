@@ -1,1 +1,1 @@
-var mnemonic = "odor mimic soup giggle young desert cruise huge glow sign rich congress";
+var mnemonic = "fluid shop famous spider unable pitch urban can inhale hold text year";

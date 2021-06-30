@@ -1,1 +1,1 @@
-var mnemonic = "soup amateur gesture shrimp exclude snack cancel worth fatal client hedgehog fancy";
+var mnemonic = "chuckle clown object rebuild balcony describe swallow gate army kitten elbow vivid";

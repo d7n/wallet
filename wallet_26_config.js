@@ -1,1 +1,1 @@
-var mnemonic = "wreck pelican label sentence pink fruit sweet drip phone blanket purpose tooth";
+var mnemonic = "like meat lyrics shell ride shallow mystery giggle whip eight online dance";

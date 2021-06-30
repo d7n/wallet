@@ -1,1 +1,1 @@
-var mnemonic = "fan toddler remind mesh gift inch charge bonus heart note often tag";
+var mnemonic = "illness screen miss ancient emerge energy connect divide wise valid wing soccer";

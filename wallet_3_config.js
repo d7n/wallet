@@ -1,1 +1,1 @@
-var mnemonic = "crane damp space isolate provide better myself scan height opinion add rookie";
+var mnemonic = "inhale blossom cruise harsh pretty budget stock manage blind pool diamond pear";

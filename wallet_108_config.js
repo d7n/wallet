@@ -1,1 +1,1 @@
-var mnemonic = "magnet obvious fiscal maid barely chalk general lion video still favorite bargain";
+var mnemonic = "type patient thumb song sketch skin churn dress bachelor boost universe man";

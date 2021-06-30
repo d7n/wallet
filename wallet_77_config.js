@@ -1,1 +1,1 @@
-var mnemonic = "series close runway feed warm traffic ring boat warrior pet olive latin";
+var mnemonic = "flag blossom must fun pattern express october village mimic useful wreck winner";

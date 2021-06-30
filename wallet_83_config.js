@@ -1,1 +1,1 @@
-var mnemonic = "helmet peace faith broom clump benefit dune shift divorce adjust invite digital";
+var mnemonic = "exotic dog cart inmate eight truck steel guitar noble success eyebrow crime";

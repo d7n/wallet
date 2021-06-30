@@ -1,1 +1,1 @@
-var mnemonic = "double purpose snap coil bundle enough raw put local owner jeans burger";
+var mnemonic = "rocket farm base such double elder glue deal glimpse pupil pledge ozone";

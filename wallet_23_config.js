@@ -1,1 +1,1 @@
-var mnemonic = "health lend kind pond pulp certain bean enjoy side blade vague light";
+var mnemonic = "riot weekend step wisdom twin ugly message mind bounce buffalo peanut rail";

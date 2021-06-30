@@ -1,1 +1,1 @@
-var mnemonic = "icon shoulder panda rain sun bunker maid much hold absent clinic wrist";
+var mnemonic = "weasel farm spread jealous flower raw front draw quarter junior manage card";

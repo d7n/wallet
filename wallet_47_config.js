@@ -1,1 +1,1 @@
-var mnemonic = "claim gold autumn hurt witness common cream tissue photo guitar total parade";
+var mnemonic = "exhaust miss medal topic lava before dwarf supply copy pink old total";

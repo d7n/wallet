@@ -1,1 +1,1 @@
-var mnemonic = "collect affair catalog vote scan help dove yard angry digital call thing";
+var mnemonic = "wood dilemma horse hunt marine misery trade tail bag evil decide teach";

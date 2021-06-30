@@ -1,1 +1,1 @@
-var mnemonic = "outdoor travel shaft deposit typical coast open kingdom slim know hope narrow";
+var mnemonic = "capable carbon slush another maze oxygen gorilla scene shuffle inch travel electric";

@@ -1,1 +1,1 @@
-var mnemonic = "mean better version rib wink tape staff depth bag gown bronze spend";
+var mnemonic = "swear twist exercise snake valid announce degree anchor bench maid act recipe";

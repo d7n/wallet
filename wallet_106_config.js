@@ -1,1 +1,1 @@
-var mnemonic = "prison vanish drastic enjoy cage camera cement kiwi noise above must marine";
+var mnemonic = "cram permit pen envelope race found skull general print verify seed forest";

@@ -1,1 +1,1 @@
-var mnemonic = "orient warrior club link demand weasel fat fog slow never capital matrix";
+var mnemonic = "indoor become cave medal huge sister gorilla announce wash huge shed fashion";

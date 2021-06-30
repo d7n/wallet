@@ -1,1 +1,1 @@
-var mnemonic = "brain jeans chief depth shadow version top silly curious miss better crew";
+var mnemonic = "evolve mule perfect front cushion dice tail tube behind country bacon cause";
