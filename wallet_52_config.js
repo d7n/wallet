@@ -1,1 +1,1 @@
-var mnemonic = "unique grid purchase judge injury glow powder arena pudding issue assist escape";
+var mnemonic = "tail faculty town remember pigeon napkin ribbon adult valley finish ticket where";

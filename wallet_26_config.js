@@ -1,1 +1,1 @@
-var mnemonic = "cricket breeze machine tape various ill walnut actor crack decline nose chef";
+var mnemonic = "sentence green school breeze butter settle shallow myth mean sound sea conduct";

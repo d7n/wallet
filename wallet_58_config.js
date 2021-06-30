@@ -1,1 +1,1 @@
-var mnemonic = "paper penalty worry remove domain argue denial taste involve nose riot twin";
+var mnemonic = "nose gadget oppose aware wrestle general inherit differ family gun figure kick";

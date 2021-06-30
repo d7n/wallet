@@ -1,1 +1,1 @@
-var mnemonic = "aware mystery stairs mobile guard tray double excess same visit model alpha";
+var mnemonic = "hamster vocal moment subject napkin gown opera surface wire still park blind";

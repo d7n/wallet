@@ -1,1 +1,1 @@
-var mnemonic = "shield original document legal route foster message stone clerk enable patient hold";
+var mnemonic = "where bundle spot belt autumn seed sell ice base stove gasp inhale";

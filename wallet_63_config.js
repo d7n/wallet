@@ -1,1 +1,1 @@
-var mnemonic = "lazy enlist offer purpose amused loyal bulk olympic world network forest pear";
+var mnemonic = "supreme pattern dumb perfect anchor coil lady reject awesome fit palm fall";

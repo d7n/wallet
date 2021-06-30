@@ -1,1 +1,1 @@
-var mnemonic = "slot inhale beyond lift champion trade resist naive winter remind oxygen april";
+var mnemonic = "planet thank orange come curious rug machine choose duck unhappy dolphin green";

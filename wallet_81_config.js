@@ -1,1 +1,1 @@
-var mnemonic = "route able patch gorilla frame allow parade such swallow sport left rally";
+var mnemonic = "frost camera empty output frame denial awesome diamond can siege prize cabin";

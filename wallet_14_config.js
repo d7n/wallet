@@ -1,1 +1,1 @@
-var mnemonic = "label witness daring sister eye onion spring inch afford resource erosion south";
+var mnemonic = "artwork illegal donkey body loop butter bag tourist rain verify chat oak";

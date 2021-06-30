@@ -1,1 +1,1 @@
-var mnemonic = "corn grid skull close point cousin praise crystal river debris armed display";
+var mnemonic = "cupboard develop ordinary erase sad there mistake edge blossom half give other";

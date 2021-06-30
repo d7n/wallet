@@ -1,1 +1,1 @@
-var mnemonic = "suit present service strike aware cheap faith dignity flame fine claw denial";
+var mnemonic = "lens mean case piano cannon leopard slice random sick annual guilt student";

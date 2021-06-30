@@ -1,1 +1,1 @@
-var mnemonic = "document tissue recycle sea camp flee depend together iron young lumber tube";
+var mnemonic = "bid book verb shoe tip argue certain fossil school rabbit sign dutch";

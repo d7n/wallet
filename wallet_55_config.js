@@ -1,1 +1,1 @@
-var mnemonic = "know century inmate veteran deputy dismiss topple chef toe cable before abuse";
+var mnemonic = "hair sell black ritual tumble provide walnut gather trophy output point width";

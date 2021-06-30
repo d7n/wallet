@@ -1,1 +1,1 @@
-var mnemonic = "school thunder goose mention tail sustain attack glare recipe rural feature chapter";
+var mnemonic = "various nephew hover stool congress frame panel bounce merit basic digital awesome";

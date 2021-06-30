@@ -1,1 +1,1 @@
-var mnemonic = "critic flip borrow dynamic area bone burger express venue change narrow flavor";
+var mnemonic = "record excess level nerve verify fish attract load margin year tribe trigger";

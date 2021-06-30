@@ -1,1 +1,1 @@
-var mnemonic = "payment render base filter fame mobile indoor affair foster ski renew cram";
+var mnemonic = "primary joke arrow drink foil juice turtle exit heavy museum achieve never";

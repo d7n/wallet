@@ -1,1 +1,1 @@
-var mnemonic = "syrup throw flash kitten dawn conduct robust ski donate edge canvas cube";
+var mnemonic = "excess unusual kid whip loud shop economy cigar portion remind select apple";

@@ -1,1 +1,1 @@
-var mnemonic = "increase husband radar pipe quarter sting promote fortune army cotton extra gauge";
+var mnemonic = "lady search test negative citizen liar involve hope reward artwork universe course";

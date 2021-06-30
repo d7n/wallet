@@ -1,1 +1,1 @@
-var mnemonic = "cricket income circle tired original click piano mistake pudding camera noise rare";
+var mnemonic = "right bubble fix gossip helmet mixed gloom friend control harsh nasty polar";

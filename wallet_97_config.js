@@ -1,1 +1,1 @@
-var mnemonic = "essay broken charge make vanish abandon page clown fall ribbon bind tomorrow";
+var mnemonic = "gorilla left steel swim course absorb ridge trade crop reject flavor glad";

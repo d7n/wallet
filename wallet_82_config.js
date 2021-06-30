@@ -1,1 +1,1 @@
-var mnemonic = "hero duty soccer clap crop accuse way true wink office area reopen";
+var mnemonic = "snake slush scrub thought depart tag example measure forest sight nest kite";

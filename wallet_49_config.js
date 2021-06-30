@@ -1,1 +1,1 @@
-var mnemonic = "refuse ceiling myth mechanic exact baby clap awful play explain few drastic";
+var mnemonic = "basic uncle flavor correct section sister develop field indoor beach rate decade";

@@ -1,1 +1,1 @@
-var mnemonic = "behave leopard nation mosquito owner give doctor crowd weapon kind citizen talk";
+var mnemonic = "into february already accident jump clock frog couch flee race clinic age";

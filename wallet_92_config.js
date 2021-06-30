@@ -1,1 +1,1 @@
-var mnemonic = "example soda claim damp poem expose fine slam own dinner party modify";
+var mnemonic = "yard abandon window unhappy tag can smile cube spoil battle motion design";

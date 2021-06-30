@@ -1,1 +1,1 @@
-var mnemonic = "prevent metal donor scare whisper pool youth soda jar fossil apology asthma";
+var mnemonic = "corn elevator change immense chicken unique boat come laptop stone check regret";

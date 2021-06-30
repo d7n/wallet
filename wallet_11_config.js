@@ -1,1 +1,1 @@
-var mnemonic = "pulse tuna almost spirit boy erosion believe husband east loyal man erupt";
+var mnemonic = "page kit squirrel bone spell transfer famous grape sign pave gather this";

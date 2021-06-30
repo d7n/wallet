@@ -1,1 +1,1 @@
-var mnemonic = "kite cradle eyebrow milk power profit stool blue oval ball else air";
+var mnemonic = "valley trim guilt opera foster into learn zero thank crime repeat differ";

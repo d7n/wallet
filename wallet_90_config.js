@@ -1,1 +1,1 @@
-var mnemonic = "brave volume save aspect material claim ripple twice coyote real cement enlist";
+var mnemonic = "exit rhythm sibling make earth scare fatal iron pumpkin fury usage afford";

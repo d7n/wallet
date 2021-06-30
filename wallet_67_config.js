@@ -1,1 +1,1 @@
-var mnemonic = "clean profit flight pride phrase tip resemble nothing blood away adult afford";
+var mnemonic = "put quiz sea enable turkey earn congress security embark supply priority pear";

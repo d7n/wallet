@@ -1,1 +1,1 @@
-var mnemonic = "robust lemon case make silent laugh save merry shock patch butter east";
+var mnemonic = "jacket leopard parent letter current assault screen pigeon exotic day friend extend";

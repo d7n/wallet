@@ -1,1 +1,1 @@
-var mnemonic = "nose core muffin business room title measure space team benefit soap absurd";
+var mnemonic = "country episode myself acoustic flash fork large suspect express busy profit blue";

@@ -1,1 +1,1 @@
-var mnemonic = "flame baby poet correct nothing night service blouse lonely frost pole pond";
+var mnemonic = "fantasy squirrel tackle equip correct crime side blood obey stable lunch skin";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble bag couch act monkey gate fashion sunny middle drill setup element";
+var mnemonic = "hotel stock hold silk special short pledge cube improve crime pizza pretty";

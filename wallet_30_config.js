@@ -1,1 +1,1 @@
-var mnemonic = "vehicle imitate coil random fee job chest earth figure snack pride orchard";
+var mnemonic = "exhibit make history object you tired provide pattern apology cake pepper price";

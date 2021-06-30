@@ -1,1 +1,1 @@
-var mnemonic = "achieve broccoli crush icon chalk junk citizen kiwi oblige mobile taste runway";
+var mnemonic = "club whale face inmate guilt fine indicate almost apart deal like math";

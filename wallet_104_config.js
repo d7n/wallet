@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo vague object wide dash give virtual range consider soda twin buyer";
+var mnemonic = "profit load three truth target fine style disorder lecture sick ticket lyrics";

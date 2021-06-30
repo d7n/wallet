@@ -1,1 +1,1 @@
-var mnemonic = "come brave laugh region wealth enjoy object mad security stomach worth vendor";
+var mnemonic = "law glare collect van mimic depth produce promote issue couch situate party";

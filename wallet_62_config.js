@@ -1,1 +1,1 @@
-var mnemonic = "defense slice trim prefer notice plastic bulb almost fork elder thunder chair";
+var mnemonic = "focus engine mirror before chef crime define proof leopard super essay energy";

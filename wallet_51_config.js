@@ -1,1 +1,1 @@
-var mnemonic = "hockey flee beef taste photo walk merge illegal curious corn course october";
+var mnemonic = "coin catch desert off mosquito famous tourist merry cart stadium can shop";

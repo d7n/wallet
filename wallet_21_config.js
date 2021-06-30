@@ -1,1 +1,1 @@
-var mnemonic = "arrange uniform medal hire shoe jungle remove treat slender intact pipe network";
+var mnemonic = "tornado brick canvas glass beyond caught proof hello rule nephew edit ankle";

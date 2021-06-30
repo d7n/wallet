@@ -1,1 +1,1 @@
-var mnemonic = "actor outside cover october fault cruel evoke tragic cabin broom group review";
+var mnemonic = "ramp focus scheme income spirit wear kite toy bonus artwork east select";

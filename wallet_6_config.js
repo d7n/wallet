@@ -1,1 +1,1 @@
-var mnemonic = "shoulder slot nice west tornado gain method begin turn obscure believe timber";
+var mnemonic = "village top limb gloom crystal feature lecture error assault quality capable penalty";

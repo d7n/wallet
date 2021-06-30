@@ -1,1 +1,1 @@
-var mnemonic = "tide camp avoid secret chuckle voice move eternal gospel attitude fossil oil";
+var mnemonic = "review strategy cushion soup unusual element senior close daring soft swear broccoli";

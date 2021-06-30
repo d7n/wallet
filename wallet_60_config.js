@@ -1,1 +1,1 @@
-var mnemonic = "possible winner address inmate inject dove pig tumble chat year mystery squeeze";
+var mnemonic = "caution strategy spatial misery near march picnic offer ship wide garment wise";

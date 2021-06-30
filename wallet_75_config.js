@@ -1,1 +1,1 @@
-var mnemonic = "vacuum round ankle found tuna outer ship margin material absent transfer smile";
+var mnemonic = "rice gift option annual grit dilemma fun love blast east shrimp alien";

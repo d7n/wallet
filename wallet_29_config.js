@@ -1,1 +1,1 @@
-var mnemonic = "trip then cousin labor trust enter capital dutch robot siren alone crush";
+var mnemonic = "drop echo hint shoot game remove rather wonder fan pulp jewel enter";

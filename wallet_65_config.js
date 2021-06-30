@@ -1,1 +1,1 @@
-var mnemonic = "ginger matrix sample interest school insane arch car attend brain move humble";
+var mnemonic = "chimney wash guitar bamboo vibrant kick muscle pyramid reduce camera shield elder";

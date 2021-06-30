@@ -1,1 +1,1 @@
-var mnemonic = "earth blame uphold reward advance cash squirrel imitate impact neutral club ceiling";
+var mnemonic = "power video rally device south gossip sniff rookie thought parent cancel couch";

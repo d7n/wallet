@@ -1,1 +1,1 @@
-var mnemonic = "crew jacket glide bar mail grass shoot wire kidney heavy bus primary";
+var mnemonic = "romance manual fold attract bacon hawk license isolate pass post glance melt";

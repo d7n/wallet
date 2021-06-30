@@ -1,1 +1,1 @@
-var mnemonic = "cruise come web snow thunder beef skill struggle since wedding nominee task";
+var mnemonic = "face boat beach obey midnight pig private caution surge deputy coral calm";

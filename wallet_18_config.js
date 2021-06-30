@@ -1,1 +1,1 @@
-var mnemonic = "movie lottery august public anchor weasel myth valley web file easy loyal";
+var mnemonic = "valley isolate fix damp birth survey salute network apart also absent doll";

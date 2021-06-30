@@ -1,1 +1,1 @@
-var mnemonic = "use elegant setup giant boil travel undo hover spoil laptop palace kangaroo";
+var mnemonic = "achieve climb laundry easily duty sword misery doctor bundle horror panda battle";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant search spoon cattle bless hungry dutch curtain step also cake error";
+var mnemonic = "drift reveal catalog degree beauty taxi future result setup knee east crowd";

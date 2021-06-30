@@ -1,1 +1,1 @@
-var mnemonic = "indicate tell yellow taste wear notice flip strategy enforce about deer coconut";
+var mnemonic = "cancel extend fancy borrow sell wear general ill thunder draw canal safe";

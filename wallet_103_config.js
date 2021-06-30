@@ -1,1 +1,1 @@
-var mnemonic = "unique decade combine flush slam stock tiger struggle tragic mass ugly manage";
+var mnemonic = "alley narrow atom social satisfy marriage wife rebuild tired miss state broken";

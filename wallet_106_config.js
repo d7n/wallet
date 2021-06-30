@@ -1,1 +1,1 @@
-var mnemonic = "faculty vote alien convince current rural nature magnet absorb theme empower tray";
+var mnemonic = "infant remember wall explain kiss action job alone raven assault apart wave";

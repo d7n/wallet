@@ -1,1 +1,1 @@
-var mnemonic = "assault shoe volume coin snap banana custom crumble size element scorpion boost";
+var mnemonic = "device tomorrow wear pen useful awkward senior develop make digital grape cherry";

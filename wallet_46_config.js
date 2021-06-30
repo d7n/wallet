@@ -1,1 +1,1 @@
-var mnemonic = "stock domain winner mixed stone carbon wonder ready flip artist glue curve";
+var mnemonic = "seminar taxi hen certain window erosion plastic employ pioneer cushion enlist rain";

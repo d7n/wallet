@@ -1,1 +1,1 @@
-var mnemonic = "diagram agree woman suggest kit edge gesture snake enact kind stick toss";
+var mnemonic = "merry fury fabric ride canal cabbage increase sustain barrel option space dose";

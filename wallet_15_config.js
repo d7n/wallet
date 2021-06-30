@@ -1,1 +1,1 @@
-var mnemonic = "inmate still silver chef bus bonus power certain slice tuition movie fit";
+var mnemonic = "couple dutch mention person render census found purse process ability spawn anchor";

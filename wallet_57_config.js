@@ -1,1 +1,1 @@
-var mnemonic = "erase decide shaft truth lend alone early found jeans window casual crowd";
+var mnemonic = "victory cube liberty fade grow early member area poverty oxygen prosper kiss";

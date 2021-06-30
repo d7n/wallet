@@ -1,1 +1,1 @@
-var mnemonic = "task around spin resemble typical foam genre pony discover subway oxygen survey";
+var mnemonic = "pepper undo risk entire person upgrade relief bulk relief field oven dove";

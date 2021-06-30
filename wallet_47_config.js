@@ -1,1 +1,1 @@
-var mnemonic = "photo left coconut huge alien shrimp climb mystery absurd eager dwarf there";
+var mnemonic = "onion prepare mixture teach visit weapon dial lecture electric edge blossom current";

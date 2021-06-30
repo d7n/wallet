@@ -1,1 +1,1 @@
-var mnemonic = "glass culture jewel have core spring brand marine mushroom fat wood virus";
+var mnemonic = "uncover violin essay sheriff trade treat bargain cousin reunion stove whip town";

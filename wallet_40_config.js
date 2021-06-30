@@ -1,1 +1,1 @@
-var mnemonic = "know vintage lab amateur sight ancient manual sock erode jealous learn pull";
+var mnemonic = "culture crew ask sail afford rent angry rib celery toe weekend strong";

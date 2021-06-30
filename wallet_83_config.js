@@ -1,1 +1,1 @@
-var mnemonic = "seek shift monkey breeze resemble grunt squirrel auction relax distance margin doctor";
+var mnemonic = "usage physical army pet mass rebel various must lake result cover obtain";

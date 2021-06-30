@@ -1,1 +1,1 @@
-var mnemonic = "reason inside rely work oxygen odor voyage document viable web index runway";
+var mnemonic = "office noble puppy arm crack urban asset situate legend oppose bicycle hedgehog";

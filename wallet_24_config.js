@@ -1,1 +1,1 @@
-var mnemonic = "surround dad bench judge thumb inmate rigid cattle horn alert spice label";
+var mnemonic = "twice meadow maximum village abstract old amazing frame obey idea ritual village";

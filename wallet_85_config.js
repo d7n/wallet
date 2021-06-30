@@ -1,1 +1,1 @@
-var mnemonic = "similar truth trade elite often autumn guilt gallery cruise panther base dove";
+var mnemonic = "glide divert payment guard equal pass impact have cute glare garage cancel";

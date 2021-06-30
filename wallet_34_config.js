@@ -1,1 +1,1 @@
-var mnemonic = "tree praise basic stone sound choice remind car joke benefit budget humor";
+var mnemonic = "agent audit attract code scatter quality plastic fabric program praise enter boy";

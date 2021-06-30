@@ -1,1 +1,1 @@
-var mnemonic = "rain over close track repair under silent educate replace cliff weapon focus";
+var mnemonic = "once repair coyote interest account resource chuckle refuse grief jaguar juice scout";

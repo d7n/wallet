@@ -1,1 +1,1 @@
-var mnemonic = "frog city shallow cage butter weasel crouch permit minimum girl faith print";
+var mnemonic = "thrive saddle extend trial tooth glory stable scale boil hand demise donate";

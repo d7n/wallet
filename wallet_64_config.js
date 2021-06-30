@@ -1,1 +1,1 @@
-var mnemonic = "brisk flower pink remove wood pencil rug public thrive velvet donkey retreat";
+var mnemonic = "erode exclude exotic economy jeans buyer silver all crane march purity hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "city slender dial remember damp slight theme announce risk scale illness resource";
+var mnemonic = "fitness make disorder twice amused pipe piano inner despair awesome liberty invest";

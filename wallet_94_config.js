@@ -1,1 +1,1 @@
-var mnemonic = "wisdom grid struggle essay earn nominee work panther yard arrest steel mom";
+var mnemonic = "enter exhibit regular danger city notice crime garden apology pause case bright";

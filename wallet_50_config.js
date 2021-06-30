@@ -1,1 +1,1 @@
-var mnemonic = "brand planet loud replace galaxy dust success slice liar wash knock move";
+var mnemonic = "jewel corn crush orange write tower mule lizard flag assume claw tip";

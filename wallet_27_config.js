@@ -1,1 +1,1 @@
-var mnemonic = "please insect deal venture latin maid effort embrace heart pipe used brisk";
+var mnemonic = "lake green luxury play enough kite volcano audit range visit multiply step";

@@ -1,1 +1,1 @@
-var mnemonic = "net spike strike smoke artefact tongue defense gauge agent bless name slender";
+var mnemonic = "label great dynamic position inner oyster tornado pelican echo nothing escape collect";

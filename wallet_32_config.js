@@ -1,1 +1,1 @@
-var mnemonic = "exotic release civil trim derive script mask hollow bread fiction pluck vague";
+var mnemonic = "travel crucial rug firm injury path ozone bubble tornado pretty arrange guess";

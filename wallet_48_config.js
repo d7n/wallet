@@ -1,1 +1,1 @@
-var mnemonic = "custom again craft audit royal major tiger wall admit pelican scrub sign";
+var mnemonic = "moon tired humble coral lucky issue popular income tragic couple shine energy";

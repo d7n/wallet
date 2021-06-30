@@ -1,1 +1,1 @@
-var mnemonic = "direct you often shy match club near raise credit robot egg nuclear";
+var mnemonic = "blanket cry fetch medal element soul pool click great occur damp recipe";

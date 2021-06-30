@@ -1,1 +1,1 @@
-var mnemonic = "assault great ask spy square crazy venture offer gloom disease apology soccer";
+var mnemonic = "gun order ignore body risk fee trigger gate stadium gesture sword attend";

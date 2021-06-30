@@ -1,1 +1,1 @@
-var mnemonic = "illness stomach claw digital derive inside dragon borrow glass seed thumb assist";
+var mnemonic = "layer write lemon sell fringe sponsor sausage alcohol canal climb race peasant";
