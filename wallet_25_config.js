@@ -1,1 +1,1 @@
-var mnemonic = "bench bind evidence fatigue pair run wrong nest subway join confirm remain";
+var mnemonic = "ignore twin have method keen axis obey script aunt tired biology job";

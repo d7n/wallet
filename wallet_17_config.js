@@ -1,1 +1,1 @@
-var mnemonic = "oval faculty book behind able cheese copy alien custom confirm brass exhaust";
+var mnemonic = "equip prosper volume online twelve today any measure roast race also bonus";

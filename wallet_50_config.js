@@ -1,1 +1,1 @@
-var mnemonic = "warm net chunk uphold grief welcome conduct roast advice video cigar kick";
+var mnemonic = "there twenty envelope duck require arena net then motor witness drift lend";

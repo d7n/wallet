@@ -1,1 +1,1 @@
-var mnemonic = "vapor benefit awake must setup myth bread chronic satisfy current snake citizen";
+var mnemonic = "stove creek top idea rib cotton history treat next fatal error convince";

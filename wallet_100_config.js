@@ -1,1 +1,1 @@
-var mnemonic = "degree anger follow turkey element fever dwarf virus speed join sentence siege";
+var mnemonic = "ahead leave gather lesson fossil tooth debate soul climb ritual dress whale";

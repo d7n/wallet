@@ -1,1 +1,1 @@
-var mnemonic = "trick goat laundry crisp gauge fortune coyote agree truck diet employ gift";
+var mnemonic = "walk evidence reduce ability news powder traffic puppy disease empower tuition item";

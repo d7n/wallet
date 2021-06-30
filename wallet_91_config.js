@@ -1,1 +1,1 @@
-var mnemonic = "fantasy author ask move execute shine goddess matter onion kind electric coral";
+var mnemonic = "enforce stick degree code palace innocent photo rural ask place rich know";

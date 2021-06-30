@@ -1,1 +1,1 @@
-var mnemonic = "devote same leader behind robot throw very ice light tomorrow century ocean";
+var mnemonic = "cycle siege journey enforce suit stable oxygen unfair garage charge forget deer";

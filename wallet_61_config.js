@@ -1,1 +1,1 @@
-var mnemonic = "person sudden hybrid general gasp cart reopen razor manual doctor agent among";
+var mnemonic = "initial forum shuffle build exist agent turn sorry image grab obvious subway";

@@ -1,1 +1,1 @@
-var mnemonic = "expire connect ranch achieve snack symbol coconut link vehicle catalog tissue faculty";
+var mnemonic = "call speak priority deputy loan device spawn border luxury country bread winner";

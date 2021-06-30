@@ -1,1 +1,1 @@
-var mnemonic = "glue labor still addict dry between galaxy penalty special hub blouse valley";
+var mnemonic = "filter enforce angry region decorate worth wrong market repair truth evolve cup";

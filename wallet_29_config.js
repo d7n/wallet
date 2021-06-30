@@ -1,1 +1,1 @@
-var mnemonic = "rotate rate bracket bar ivory have chaos decrease enroll inquiry gallery letter";
+var mnemonic = "they isolate void gift long find gain whale fresh penalty security genre";

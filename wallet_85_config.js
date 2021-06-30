@@ -1,1 +1,1 @@
-var mnemonic = "organ owner chef bounce fury canal veteran airport neutral sunny river multiply";
+var mnemonic = "convince sorry swing chicken endless tomato wheel season notice admit glue include";

@@ -1,1 +1,1 @@
-var mnemonic = "occur capable decrease surprise sniff gown report mail actual network soup inner";
+var mnemonic = "left maximum valley spot later leisure approve dizzy rate suffer melody chest";

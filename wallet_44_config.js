@@ -1,1 +1,1 @@
-var mnemonic = "wire assume magic note film fossil ordinary copper theme buffalo pole unit";
+var mnemonic = "boy river goose income aim garbage suit celery apple neutral yellow level";

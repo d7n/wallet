@@ -1,1 +1,1 @@
-var mnemonic = "ritual hour brush major valve sister orphan charge giraffe notable merit year";
+var mnemonic = "matter junior blouse rhythm inspire pluck sauce horse capital update eternal bless";

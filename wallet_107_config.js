@@ -1,1 +1,1 @@
-var mnemonic = "domain burden wash hand enable bus pelican tumble absurd nasty situate essence";
+var mnemonic = "crisp economy able gravity index energy dune hero admit awesome view glad";

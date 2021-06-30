@@ -1,1 +1,1 @@
-var mnemonic = "wrestle flat alpha ski blossom jazz shine crunch unable hard feel foil";
+var mnemonic = "market earn leisure rescue gasp witness require doll angle faith winner nice";

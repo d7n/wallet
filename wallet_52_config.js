@@ -1,1 +1,1 @@
-var mnemonic = "federal cereal eager squirrel become life orphan lunch curve timber wild memory";
+var mnemonic = "promote narrow method worth fee sheriff rural frozen cute exchange thunder vacant";

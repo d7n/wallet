@@ -1,1 +1,1 @@
-var mnemonic = "sight amused settle open afraid they dress woman piano symptom analyst minute";
+var mnemonic = "release soda flock govern gap secret include unknown unusual earth chronic tackle";

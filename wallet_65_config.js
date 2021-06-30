@@ -1,1 +1,1 @@
-var mnemonic = "robust hidden ski reward razor shoulder various bullet logic couch century arrive";
+var mnemonic = "comic fun boss gauge outside aware good photo transfer ahead enter hamster";

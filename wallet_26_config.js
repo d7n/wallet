@@ -1,1 +1,1 @@
-var mnemonic = "grain immense fossil merge people custom pave aisle endorse minimum love abandon";
+var mnemonic = "version flip trouble awful retire beef liquid original stand vapor ketchup vehicle";

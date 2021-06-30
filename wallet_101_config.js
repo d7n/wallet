@@ -1,1 +1,1 @@
-var mnemonic = "raven defense renew canvas father alcohol hybrid issue estate similar stove uphold";
+var mnemonic = "shoot wing awkward latin tonight flag badge kind put then donor embody";

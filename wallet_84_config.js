@@ -1,1 +1,1 @@
-var mnemonic = "zone rug crisp immune wink ugly lazy space suit portion title another";
+var mnemonic = "prize silver champion vibrant quit brand track pen aerobic corn battle hire";

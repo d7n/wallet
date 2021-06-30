@@ -1,1 +1,1 @@
-var mnemonic = "gasp host accuse market know answer vintage ready shoe arrange gallery family";
+var mnemonic = "busy gas depart exchange talent jewel humor exist expect tower move talent";

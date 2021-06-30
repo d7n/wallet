@@ -1,1 +1,1 @@
-var mnemonic = "modify exclude need captain corn melody naive street degree planet lawsuit drama";
+var mnemonic = "talk mesh rhythm name exotic morning marble street enemy dash slow ranch";

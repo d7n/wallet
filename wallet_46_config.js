@@ -1,1 +1,1 @@
-var mnemonic = "citizen match sheriff chronic palace senior purchase legend alert inhale jaguar chronic";
+var mnemonic = "tuna welcome garlic icon festival student patrol relief soul giggle exile invite";

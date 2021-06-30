@@ -1,1 +1,1 @@
-var mnemonic = "renew pig scan evidence pitch enforce correct client tooth elder aware laundry";
+var mnemonic = "powder resist fabric crater gaze bicycle knife pattern boat relax build cave";

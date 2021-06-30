@@ -1,1 +1,1 @@
-var mnemonic = "initial online kit wonder pair occur mad finish laugh clay utility stadium";
+var mnemonic = "leg december alone monster basket prosper income cube rubber garlic double title";

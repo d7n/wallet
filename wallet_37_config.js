@@ -1,1 +1,1 @@
-var mnemonic = "refuse first remind giant power echo frost climb volume that reveal gasp";
+var mnemonic = "slim absent strike unable clever slim aisle talk cabbage shadow bird brown";

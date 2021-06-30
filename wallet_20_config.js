@@ -1,1 +1,1 @@
-var mnemonic = "october pass sister ranch relief equal spin flip yellow run juice rib";
+var mnemonic = "hurdle joy tuition steak lazy wealth convince smooth team weird cherry juice";

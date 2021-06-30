@@ -1,1 +1,1 @@
-var mnemonic = "ranch public ghost fine little mercy finish amazing coil acoustic elder junk";
+var mnemonic = "wise tooth gown fence shock inject deliver model huge thumb slot lottery";

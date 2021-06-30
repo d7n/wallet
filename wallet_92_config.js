@@ -1,1 +1,1 @@
-var mnemonic = "sword gallery old swap talk regret iron aisle sustain lumber acid movie";
+var mnemonic = "fortune convince goose tornado situate alpha hurdle purity awful tuna hole north";

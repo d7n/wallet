@@ -1,1 +1,1 @@
-var mnemonic = "sugar spin monkey position spirit pool job derive drive lonely boil door";
+var mnemonic = "train frost good own picnic horn soda now forum wasp maple slogan";

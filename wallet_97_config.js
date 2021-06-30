@@ -1,1 +1,1 @@
-var mnemonic = "rocket beef major spend dwarf axis emotion minimum unveil clock space health";
+var mnemonic = "end crater pencil stock cost ensure weather easy act fade pistol recycle";

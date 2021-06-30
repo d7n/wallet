@@ -1,1 +1,1 @@
-var mnemonic = "merry away sand upgrade limit invite anxiety burst barely donate school deposit";
+var mnemonic = "ecology supply earth kit enlist shift fun diet then follow metal jewel";

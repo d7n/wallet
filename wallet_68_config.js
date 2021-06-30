@@ -1,1 +1,1 @@
-var mnemonic = "sniff alpha before festival into spice strike muffin top endless ginger stuff";
+var mnemonic = "muscle fork panel abandon chair another always potato round return border staff";

@@ -1,1 +1,1 @@
-var mnemonic = "effort quit alter swallow ice room child run regular entire sketch fossil";
+var mnemonic = "use panel frozen range glass undo garment copy profit toe coral wrap";

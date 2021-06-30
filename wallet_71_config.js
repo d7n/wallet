@@ -1,1 +1,1 @@
-var mnemonic = "allow connect when jaguar doctor divorce galaxy farm high stereo umbrella level";
+var mnemonic = "meat ethics sick nasty breeze author loud apple raw frame business person";

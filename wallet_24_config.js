@@ -1,1 +1,1 @@
-var mnemonic = "slot home whisper hard sudden jewel rate sphere add clog silly police";
+var mnemonic = "eyebrow erosion subject flash torch giraffe student appear upon dad wedding arch";

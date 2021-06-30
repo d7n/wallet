@@ -1,1 +1,1 @@
-var mnemonic = "raise write follow expand garbage correct journey diesel frozen border similar spread";
+var mnemonic = "detect laugh approve absorb edit narrow social scrap text tourist champion devote";

@@ -1,1 +1,1 @@
-var mnemonic = "never entire model cat jeans cook either reopen unlock mass outside mobile";
+var mnemonic = "chase whale bomb entire divert outside buyer slam pass swing right outside";

@@ -1,1 +1,1 @@
-var mnemonic = "post increase tooth glad general key business cute unit fault nerve box";
+var mnemonic = "across cradle cruise fatal mechanic level island brand copper multiply jacket decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse nation account leg flower alone obtain wife honey law angry anxiety";
+var mnemonic = "trigger arm size lounge merit flash execute cup force weird goose laugh";

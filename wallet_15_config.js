@@ -1,1 +1,1 @@
-var mnemonic = "adult hidden poverty early render excuse during bracket similar holiday fee special";
+var mnemonic = "pear blush buzz champion apple safe bean cover spread thing dilemma fringe";

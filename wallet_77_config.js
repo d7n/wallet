@@ -1,1 +1,1 @@
-var mnemonic = "resemble oppose bleak speed clinic glide junk nest valid predict tobacco shy";
+var mnemonic = "giggle total bracket hello senior elbow asset work frame disagree version beef";

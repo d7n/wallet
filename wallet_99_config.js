@@ -1,1 +1,1 @@
-var mnemonic = "despair dinosaur embrace coast march awful early jealous rhythm connect swallow marine";
+var mnemonic = "satoshi speak salmon lucky unveil start rely humble casino top cabin purpose";

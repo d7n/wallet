@@ -1,1 +1,1 @@
-var mnemonic = "mutual avoid game advance duty regular about anger valley tape immune drift";
+var mnemonic = "brand inquiry collect enough insane appear gossip flee egg pulp foil admit";

@@ -1,1 +1,1 @@
-var mnemonic = "advice trash latin hire mass leopard stay skill margin obey check captain";
+var mnemonic = "entire hospital swap nice supreme truly gift planet sleep marriage mouse sell";

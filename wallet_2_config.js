@@ -1,1 +1,1 @@
-var mnemonic = "poet labor fox unhappy save unable dove always blouse supply inquiry trouble";
+var mnemonic = "orphan green gloom chalk achieve fiction embark wait abandon legal ten lady";

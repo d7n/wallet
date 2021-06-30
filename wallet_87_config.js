@@ -1,1 +1,1 @@
-var mnemonic = "adjust frog waste foster uphold cloth race engine eight salmon wasp split";
+var mnemonic = "rib hotel begin right affair coast cereal goose slogan term thought fiber";

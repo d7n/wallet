@@ -1,1 +1,1 @@
-var mnemonic = "bike basic confirm sign gas wall venue morning inner interest quarter silly";
+var mnemonic = "ethics fiber cable weird rural orient purpose popular absent violin twin later";

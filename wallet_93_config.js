@@ -1,1 +1,1 @@
-var mnemonic = "cash fancy entry project snack owner donor version forget grid person puppy";
+var mnemonic = "success protect join process usage foil message wool oyster agree engage mercy";

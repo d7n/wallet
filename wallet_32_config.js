@@ -1,1 +1,1 @@
-var mnemonic = "wise open address ripple prepare cotton slab yellow monster memory cook summer";
+var mnemonic = "neutral unhappy erode cost grace blanket arrest dream science age conduct child";

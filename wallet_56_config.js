@@ -1,1 +1,1 @@
-var mnemonic = "tooth apology hurt worth wrong bonus image exercise sea home vanish bring";
+var mnemonic = "must fury swarm loyal furnace trip honey fun fantasy ask globe mammal";

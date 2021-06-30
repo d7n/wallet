@@ -1,1 +1,1 @@
-var mnemonic = "divert twice goose bone gadget robust silver glide youth fan defense island";
+var mnemonic = "moon guide earth promote hold text page jump merit harbor under valley";

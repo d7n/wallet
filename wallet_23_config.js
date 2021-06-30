@@ -1,1 +1,1 @@
-var mnemonic = "churn ecology fantasy round goddess oyster naive help seed day taxi royal";
+var mnemonic = "ghost come wink sausage tree zone fork session pelican anger actual retreat";

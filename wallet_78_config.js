@@ -1,1 +1,1 @@
-var mnemonic = "snow image affair stay wolf cart happy fish leader kite lake stereo";
+var mnemonic = "tornado story sell confirm fault sting magic dirt wrap curtain blade canal";

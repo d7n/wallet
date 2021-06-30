@@ -1,1 +1,1 @@
-var mnemonic = "wedding curtain cake certain cute hurt hazard float napkin culture couple select";
+var mnemonic = "same hard actress humble spare reopen plug echo capital genius saddle nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "access grace mirror hobby essence fresh roast cricket arena camp sorry cat";
+var mnemonic = "siren bargain supply gym bring reunion gossip swallow great negative trigger symptom";

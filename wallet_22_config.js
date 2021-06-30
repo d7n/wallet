@@ -1,1 +1,1 @@
-var mnemonic = "inherit element fall flat gas unfair ordinary abstract gas minor sight tenant";
+var mnemonic = "photo minute bubble elephant lake family nephew slight stable deer staff head";

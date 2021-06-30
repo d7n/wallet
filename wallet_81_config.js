@@ -1,1 +1,1 @@
-var mnemonic = "advice patch similar blood dish vocal match will uncover ability fluid swim";
+var mnemonic = "tape neither sphere reduce remind food arrive equip huge rib favorite animal";

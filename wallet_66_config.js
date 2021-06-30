@@ -1,1 +1,1 @@
-var mnemonic = "plunge alarm industry close hen expire eager letter enter gate replace final";
+var mnemonic = "drill letter south recipe banana current diet magic sort run nothing matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "flower extend hammer sting scatter bless genuine radio hotel learn letter rapid";
+var mnemonic = "case document rate gesture flower until bamboo host isolate liquid grass shoe";

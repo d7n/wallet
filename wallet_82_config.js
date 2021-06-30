@@ -1,1 +1,1 @@
-var mnemonic = "guide problem into arrive tip clown prepare celery mimic because polar reform";
+var mnemonic = "group vintage echo air chapter taste suspect spring year lunar rebuild nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "input shaft festival race initial stove detail physical wall cry process oblige";
+var mnemonic = "mixed glove jungle accident hungry topple inhale struggle vapor blossom traffic train";

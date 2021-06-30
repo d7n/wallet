@@ -1,1 +1,1 @@
-var mnemonic = "anxiety box wisdom toy indoor reform ceiling cable pepper wide this scale";
+var mnemonic = "hand canvas model slow skate danger distance unfair recall cherry width over";

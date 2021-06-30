@@ -1,1 +1,1 @@
-var mnemonic = "clay autumn destroy glue morning satisfy wasp zebra what poet maximum drama";
+var mnemonic = "learn canoe hurt jewel case fat chaos dizzy capital sphere absurd retire";

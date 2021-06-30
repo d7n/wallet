@@ -1,1 +1,1 @@
-var mnemonic = "jelly vintage sustain thank bright envelope curtain frown obey smart jaguar injury";
+var mnemonic = "coyote document attitude sure flavor say addict judge deputy repeat warm thunder";

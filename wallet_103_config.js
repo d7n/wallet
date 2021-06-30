@@ -1,1 +1,1 @@
-var mnemonic = "element review retreat merge budget once bring end tube tell twin guess";
+var mnemonic = "column conduct shuffle device crumble fabric arrow morning danger cup pair disorder";

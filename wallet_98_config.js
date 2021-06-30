@@ -1,1 +1,1 @@
-var mnemonic = "naive song property adjust unusual relief gentle pause seven reform only horror";
+var mnemonic = "print paddle brisk baby dizzy wise cupboard question magnet love such alone";

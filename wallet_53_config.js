@@ -1,1 +1,1 @@
-var mnemonic = "toilet coconut version digital economy hollow razor circle hedgehog turtle nurse quick";
+var mnemonic = "summer broken wear august prize goddess aspect loyal turn custom antique debate";

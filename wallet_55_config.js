@@ -1,1 +1,1 @@
-var mnemonic = "happy uphold gain mosquito mechanic enroll must quiz slender scheme nominee reward";
+var mnemonic = "quote amount series idea catalog fragile bacon humble gravity museum anger visa";

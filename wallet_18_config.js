@@ -1,1 +1,1 @@
-var mnemonic = "actual quiz soccer crew wrist gaze cradle height trip magnet boring actor";
+var mnemonic = "link illegal evoke potato change warrior like elder service pencil sleep lion";

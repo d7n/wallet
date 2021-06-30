@@ -1,1 +1,1 @@
-var mnemonic = "chronic outdoor public fortune enact fat say abuse income gaze opera tree";
+var mnemonic = "vibrant frequent strategy electric else refuse addict equip cash armor always eagle";

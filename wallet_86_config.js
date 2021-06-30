@@ -1,1 +1,1 @@
-var mnemonic = "glass shy script pilot popular file design pride indicate gravity skull elder";
+var mnemonic = "inner satoshi review manual involve razor piano buddy light lesson purse please";

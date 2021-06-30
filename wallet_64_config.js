@@ -1,1 +1,1 @@
-var mnemonic = "vicious supreme sound move powder jeans great attend student later appear vote";
+var mnemonic = "panda census unfold sound patient increase online purpose stumble more aunt kangaroo";

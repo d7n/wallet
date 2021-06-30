@@ -1,1 +1,1 @@
-var mnemonic = "violin coast reason key small decrease blush pave join pride hand topic";
+var mnemonic = "taste prevent field donkey tilt early scale inspire tiny village replace auction";

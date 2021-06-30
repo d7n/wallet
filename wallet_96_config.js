@@ -1,1 +1,1 @@
-var mnemonic = "donor endless aisle disease rate armor away ethics creek clog sure knife";
+var mnemonic = "chimney extra meadow curtain forum want solid when sand addict lazy slide";

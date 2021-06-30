@@ -1,1 +1,1 @@
-var mnemonic = "table any into hurdle alpha slush economy soup pluck open dice noise";
+var mnemonic = "evil solution give jacket enjoy inmate surprise save swamp forward scissors basic";

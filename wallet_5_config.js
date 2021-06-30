@@ -1,1 +1,1 @@
-var mnemonic = "object effort catalog upon motion couple equip impulse clown wife script cute";
+var mnemonic = "exile crazy around tool glow math pencil siren pride twelve snap unique";

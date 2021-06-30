@@ -1,1 +1,1 @@
-var mnemonic = "baby topple steak exile report oxygen cram jump marriage slab acquire unfair";
+var mnemonic = "spider ability addict ethics express cram knock what scan young author kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "give fame dry toe sample acid famous cattle party blue beef dice";
+var mnemonic = "lunar castle slush language economy sting wage save million stuff spoil gift";
