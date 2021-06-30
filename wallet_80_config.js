@@ -1,1 +1,1 @@
-var mnemonic = "improve discover indoor joy sand fold hungry check pull divide prevent position";
+var mnemonic = "energy reflect rate heavy extend hen flame sudden crucial spider raven economy";

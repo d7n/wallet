@@ -1,1 +1,1 @@
-var mnemonic = "math power vague kite diamond eternal fuel point joy oblige envelope garlic";
+var mnemonic = "crush yellow slice excuse master eight decorate ivory sick situate old please";

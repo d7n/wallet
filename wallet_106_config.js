@@ -1,1 +1,1 @@
-var mnemonic = "hint story can explain february radar consider water park orbit only vendor";
+var mnemonic = "chimney digital talk small disagree minute quiz nice ancient kite hollow bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter move tattoo online coil about pitch post strike choice forget echo";
+var mnemonic = "laundry turtle ketchup age bright field apart hockey thumb hold hover enter";

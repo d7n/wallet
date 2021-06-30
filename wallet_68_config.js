@@ -1,1 +1,1 @@
-var mnemonic = "olympic boss exit below denial across thought parrot grit term bounce antique";
+var mnemonic = "category achieve once skull month rural planet rack dune reopen slab victory";

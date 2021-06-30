@@ -1,1 +1,1 @@
-var mnemonic = "animal monkey clean mystery lady aspect employ release more sadness habit give";
+var mnemonic = "bamboo divert pledge dinner country world indoor simple seed valve faint lemon";

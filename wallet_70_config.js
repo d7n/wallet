@@ -1,1 +1,1 @@
-var mnemonic = "purpose maze balance any fee exhaust sorry link beyond tumble family shy";
+var mnemonic = "season affair dwarf hospital primary grocery photo asthma ripple sheriff nerve knock";

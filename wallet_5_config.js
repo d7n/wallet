@@ -1,1 +1,1 @@
-var mnemonic = "keep want apology gate glow undo kit suggest casino garment unit sudden";
+var mnemonic = "almost outer cotton boil this orange toilet language rely october cancel approve";

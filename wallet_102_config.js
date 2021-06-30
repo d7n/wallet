@@ -1,1 +1,1 @@
-var mnemonic = "indicate brisk worry ivory actor ridge match sick amazing used success artist";
+var mnemonic = "hobby screen retreat nation nuclear faculty auto screen fly ticket bamboo gate";

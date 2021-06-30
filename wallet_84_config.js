@@ -1,1 +1,1 @@
-var mnemonic = "zoo window explain attack jacket practice icon kite draft image husband equal";
+var mnemonic = "resource mystery advice vacant boost iron ankle tag course mobile first advance";

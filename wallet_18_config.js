@@ -1,1 +1,1 @@
-var mnemonic = "wealth famous tribe monster odor stomach fossil glory lunch income accuse rely";
+var mnemonic = "loop often emerge range yellow repair little vault survey upgrade rebuild fire";

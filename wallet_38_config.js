@@ -1,1 +1,1 @@
-var mnemonic = "path together increase toddler denial winner alley dignity valley auction color fancy";
+var mnemonic = "fresh deposit item uphold artefact acid fog knife rally direct crunch claw";

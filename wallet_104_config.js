@@ -1,1 +1,1 @@
-var mnemonic = "grief island dad home pepper carbon merry brown shrug pencil loyal express";
+var mnemonic = "venture soon okay net cable camp poet consider blood supreme section bounce";

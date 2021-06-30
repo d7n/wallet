@@ -1,1 +1,1 @@
-var mnemonic = "someone hockey soap huge seven gorilla awesome quote symbol farm fire thank";
+var mnemonic = "carry pelican video permit fossil undo crowd clog desert envelope merry huge";

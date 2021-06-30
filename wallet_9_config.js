@@ -1,1 +1,1 @@
-var mnemonic = "initial patient spike hold bottom green venue tree bulk country gun drastic";
+var mnemonic = "gap that color stumble doctor same all detail body bus time filter";

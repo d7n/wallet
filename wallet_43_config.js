@@ -1,1 +1,1 @@
-var mnemonic = "keep again session bunker corn pumpkin blossom brief laptop meadow material liberty";
+var mnemonic = "differ magic what pause sign company camp error key anchor dish spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork sail link mom world kind city grape obvious mandate symptom pencil";
+var mnemonic = "sail beach pattern patrol dose web another mixture vote camp confirm design";

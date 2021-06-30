@@ -1,1 +1,1 @@
-var mnemonic = "fish soul calm kitten once economy game guard street prepare word slight";
+var mnemonic = "egg element math radio slow expect scrub bean short pass grant ski";

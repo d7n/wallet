@@ -1,1 +1,1 @@
-var mnemonic = "turn blush proof require now test area lake know town problem music";
+var mnemonic = "sheriff chapter carbon bird rabbit cattle base speed hood mixture puzzle grass";

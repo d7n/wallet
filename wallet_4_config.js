@@ -1,1 +1,1 @@
-var mnemonic = "angry memory tilt abuse sadness exercise nut electric draft reunion novel juice";
+var mnemonic = "crouch orphan jeans pair heavy lock target cloth life wild glimpse capable";

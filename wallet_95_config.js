@@ -1,1 +1,1 @@
-var mnemonic = "canoe join merge isolate rotate access flock title check innocent fiber satisfy";
+var mnemonic = "purity merge peasant young erode rather nose bench just attract furnace tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "digital monster joy tone chronic tenant business license foam taxi mimic protect";
+var mnemonic = "lemon antenna feed immune music utility bulk toward fold edge travel february";

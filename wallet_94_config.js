@@ -1,1 +1,1 @@
-var mnemonic = "uphold dry measure multiply office august grass suspect heart right reunion magic";
+var mnemonic = "correct castle fun pigeon vapor alpha rich switch access lamp slender answer";

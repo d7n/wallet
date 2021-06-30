@@ -1,1 +1,1 @@
-var mnemonic = "diary globe enter prepare globe often soap retire snack cloud pudding ethics";
+var mnemonic = "diagram use innocent achieve wash spy segment trash dwarf indicate oppose physical";

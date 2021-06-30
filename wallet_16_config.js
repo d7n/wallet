@@ -1,1 +1,1 @@
-var mnemonic = "funny machine submit lecture grape page tuna crystal obey worry undo month";
+var mnemonic = "approve disagree hobby crater clutch thing until suffer fat drum gadget smoke";

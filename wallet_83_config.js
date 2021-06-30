@@ -1,1 +1,1 @@
-var mnemonic = "oven economy maple flavor smart advice game usage cabin strategy bike canal";
+var mnemonic = "pumpkin humble over radar pull recycle civil item banner excess category skin";

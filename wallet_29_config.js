@@ -1,1 +1,1 @@
-var mnemonic = "stomach clip couple elegant apple minor blood apple love note salon flip";
+var mnemonic = "glare mesh universe fancy illness scout coffee betray vivid luxury bike skate";

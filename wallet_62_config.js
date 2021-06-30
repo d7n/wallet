@@ -1,1 +1,1 @@
-var mnemonic = "vehicle boring tobacco clap merit tornado soccer mesh dismiss fatigue arm expect";
+var mnemonic = "dentist butter frame second program marble boring kiwi jaguar vibrant mercy wall";

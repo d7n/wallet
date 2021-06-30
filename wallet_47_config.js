@@ -1,1 +1,1 @@
-var mnemonic = "gadget labor love perfect notable ski comic this denial ankle unknown suit";
+var mnemonic = "donate fall host great female mistake piano reflect tide give seed idea";

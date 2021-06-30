@@ -1,1 +1,1 @@
-var mnemonic = "letter lounge worth old bike afford before slender unusual easily blur board";
+var mnemonic = "tip brief orchard treat online panda bag slam please silk swim potato";

@@ -1,1 +1,1 @@
-var mnemonic = "other guard ceiling desk gadget amazing chat hint leisure paper blouse copy";
+var mnemonic = "seek fever notice stage patrol assume regular program human legal post snake";

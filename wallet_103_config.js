@@ -1,1 +1,1 @@
-var mnemonic = "glance solid giant orbit minute crawl retire clever together citizen fork slogan";
+var mnemonic = "phrase symptom sister game country banana ten meat scare prevent flight strong";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus uncover raven equip math minor sketch under survey gospel bid genuine";
+var mnemonic = "tube require wolf combine kind obtain staff average universe hedgehog floor curious";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion cart pink outer note glare portion pony cause resemble siren argue";
+var mnemonic = "doll morning foot nasty august chicken infant later trial tobacco whale scout";

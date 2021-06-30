@@ -1,1 +1,1 @@
-var mnemonic = "club round math borrow toss pave cover perfect audit need echo arrest";
+var mnemonic = "stable twelve vintage famous knee theory balcony display enough canyon clean hood";

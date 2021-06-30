@@ -1,1 +1,1 @@
-var mnemonic = "truth salt weekend mutual very phone august syrup drama leader napkin pelican";
+var mnemonic = "horror honey cupboard level million pave judge gravity unhappy repair salon west";

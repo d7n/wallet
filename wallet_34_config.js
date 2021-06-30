@@ -1,1 +1,1 @@
-var mnemonic = "inmate over fix column butter tuna finish basic amount suffer immune grab";
+var mnemonic = "oppose behind sauce young round cinnamon supply any call replace such raw";

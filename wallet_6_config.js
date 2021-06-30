@@ -1,1 +1,1 @@
-var mnemonic = "analyst demise door ribbon meadow velvet cart pretty country tiny memory device";
+var mnemonic = "stock clinic urge cycle session quiz winter cream try quote daughter derive";

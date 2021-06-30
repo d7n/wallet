@@ -1,1 +1,1 @@
-var mnemonic = "aisle upon behind dentist target enrich kangaroo open rocket fish cloud suspect";
+var mnemonic = "solar gentle festival argue bag film language aspect cloth raven misery dove";

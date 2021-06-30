@@ -1,1 +1,1 @@
-var mnemonic = "people spoon below choice response answer cheap pet kind market hobby brief";
+var mnemonic = "detect cart sand lyrics prepare weapon napkin unaware police domain blouse mixed";

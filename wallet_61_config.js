@@ -1,1 +1,1 @@
-var mnemonic = "phrase casino tip shuffle evidence price behave search fit curtain famous feel";
+var mnemonic = "hungry main veteran deny rigid clip struggle pride false tiny quiz egg";

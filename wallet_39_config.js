@@ -1,1 +1,1 @@
-var mnemonic = "trap wool dose detail super host mother alcohol fade they arrange fix";
+var mnemonic = "pink shoulder curious price legend river about tone ice light unveil fold";

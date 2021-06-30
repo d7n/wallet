@@ -1,1 +1,1 @@
-var mnemonic = "bunker write gesture field write erode resemble once false decade elite shaft";
+var mnemonic = "social margin eye cover cool guess outer that cloud powder tell wisdom";

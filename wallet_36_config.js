@@ -1,1 +1,1 @@
-var mnemonic = "sustain cargo library injury exile under toast grape glove guess want dance";
+var mnemonic = "unable bulk among nose upgrade mask clarify bullet spider unique creek trash";

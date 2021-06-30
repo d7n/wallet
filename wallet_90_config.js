@@ -1,1 +1,1 @@
-var mnemonic = "similar unique tumble member sleep praise term pledge polar razor there trap";
+var mnemonic = "cliff sing top muscle frozen various tired tray culture upgrade gorilla brass";

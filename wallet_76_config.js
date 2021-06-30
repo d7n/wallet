@@ -1,1 +1,1 @@
-var mnemonic = "huge arrange source fiscal vivid juice cost video grace mass famous visual";
+var mnemonic = "patrol loan response repair dinner option sun giant hire anxiety lab cram";

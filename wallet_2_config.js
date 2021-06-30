@@ -1,1 +1,1 @@
-var mnemonic = "tongue vessel trade zero crime mutual penalty harbor adapt monster juice symbol";
+var mnemonic = "put dry struggle turn raven adjust alley student hedgehog absorb cricket expose";

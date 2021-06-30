@@ -1,1 +1,1 @@
-var mnemonic = "student antique pottery medal install chimney outer more prevent quality lesson knife";
+var mnemonic = "agree profit smooth design wise cage track marine detect olympic ozone sausage";

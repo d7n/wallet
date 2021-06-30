@@ -1,1 +1,1 @@
-var mnemonic = "appear train ivory trade artist tape slot chat album tackle genre artist";
+var mnemonic = "legal dish fragile bean suggest cool ivory sick nut zoo slow correct";

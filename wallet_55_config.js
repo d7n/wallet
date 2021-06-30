@@ -1,1 +1,1 @@
-var mnemonic = "blue endorse cinnamon tattoo dial sibling offer brown crew dance donor awkward";
+var mnemonic = "drill unknown rival spatial network item view uniform floor buffalo milk excess";

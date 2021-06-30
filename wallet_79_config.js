@@ -1,1 +1,1 @@
-var mnemonic = "intact extra envelope consider raccoon submit senior lab rack page true virtual";
+var mnemonic = "share sand tobacco barrel legal include bus grit giggle skill horn cricket";

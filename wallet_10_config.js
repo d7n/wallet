@@ -1,1 +1,1 @@
-var mnemonic = "guard fossil year soup siren true poverty patch waste fiber obtain reward";
+var mnemonic = "ivory outer close erupt believe hello win index carbon garment blame float";

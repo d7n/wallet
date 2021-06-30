@@ -1,1 +1,1 @@
-var mnemonic = "lend token affair draw then claw violin envelope edit truth horn frown";
+var mnemonic = "mouse immense bonus vacant prefer will marine write female ribbon light ask";

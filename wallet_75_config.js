@@ -1,1 +1,1 @@
-var mnemonic = "forest arrive nose door hover piece deer acid injury nation keen harbor";
+var mnemonic = "three dune calm purse merge junk sponsor home shock clever mouse leave";

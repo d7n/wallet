@@ -1,1 +1,1 @@
-var mnemonic = "cliff endless climb worry uniform space salt predict side main disorder beyond";
+var mnemonic = "lecture heart success force lottery learn dog time unable decade brain west";

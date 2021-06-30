@@ -1,1 +1,1 @@
-var mnemonic = "inner notice ranch quit often rely stomach number pen pave sausage region";
+var mnemonic = "useful impact nut fury clap angry alpha trick derive visa job place";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist relief burger pioneer roast balance settle smooth space garage device cable";
+var mnemonic = "tumble drastic whip few gorilla display day fringe immense clip anger able";

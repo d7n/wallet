@@ -1,1 +1,1 @@
-var mnemonic = "vacant report simple tree hill shy dawn discover orbit huge vendor reduce";
+var mnemonic = "unknown need gate silly sense letter alcohol casino easy nuclear buffalo yellow";

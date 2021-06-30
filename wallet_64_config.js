@@ -1,1 +1,1 @@
-var mnemonic = "initial virus question explain monster silk trumpet network snow assume glare myself";
+var mnemonic = "crunch bicycle swallow enforce error escape crack lady moon decorate tag romance";

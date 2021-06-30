@@ -1,1 +1,1 @@
-var mnemonic = "range pulse genuine property frog moment gallery economy flush glue idle feed";
+var mnemonic = "young boat liquid exclude chapter system busy observe flock muffin velvet require";

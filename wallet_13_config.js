@@ -1,1 +1,1 @@
-var mnemonic = "honey neglect over salad ethics usual debris rubber have sign include lady";
+var mnemonic = "property assume attract december hawk trigger public bench garden grief room slight";

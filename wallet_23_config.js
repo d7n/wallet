@@ -1,1 +1,1 @@
-var mnemonic = "toast december drastic switch hat typical soon bubble boost dismiss benefit prepare";
+var mnemonic = "into hidden cupboard airport run tooth admit tired ugly genius exact increase";

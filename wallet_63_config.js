@@ -1,1 +1,1 @@
-var mnemonic = "wash uphold deputy apology angry fan lunch swift undo orchard rescue wild";
+var mnemonic = "cushion crawl crater region thunder garment cook cabin estate sadness congress maid";

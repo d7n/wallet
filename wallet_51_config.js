@@ -1,1 +1,1 @@
-var mnemonic = "artwork detect salad angry raw hybrid orphan fabric because sentence craft next";
+var mnemonic = "goat spice acquire latin wash safe glide sand room message bean ten";

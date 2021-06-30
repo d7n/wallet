@@ -1,1 +1,1 @@
-var mnemonic = "picture paddle moment lonely trim hand attitude daring frequent place rival upset";
+var mnemonic = "purpose mail draw brass salad save nuclear cereal ceiling snow file tank";

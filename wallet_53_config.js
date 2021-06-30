@@ -1,1 +1,1 @@
-var mnemonic = "hip little gap chuckle salad write gown flower flash strong vibrant intact";
+var mnemonic = "gasp submit consider defense blade hip indicate evil flat lion reduce foster";

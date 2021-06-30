@@ -1,1 +1,1 @@
-var mnemonic = "fox ivory oval gallery motion sense endless lizard magnet build hold ritual";
+var mnemonic = "hybrid green eye mixed card guilt just output type sugar pyramid because";

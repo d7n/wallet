@@ -1,1 +1,1 @@
-var mnemonic = "alien help enlist ahead ocean modify sample attitude seek shell quit disagree";
+var mnemonic = "toast ready okay lumber control media era unique patrol flee voyage roof";

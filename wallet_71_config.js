@@ -1,1 +1,1 @@
-var mnemonic = "release pill company differ ask polar away rally grocery away pencil assault";
+var mnemonic = "knife speed lava figure feature artefact forward name hope evil evolve enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "pen joke delay weekend scheme achieve much biology index endless rebel market";
+var mnemonic = "tank attend short dune biology suspect coin globe pair jaguar science spoon";

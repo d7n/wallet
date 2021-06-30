@@ -1,1 +1,1 @@
-var mnemonic = "shock beauty turkey dove barrel slot rough album kit equip gift taste";
+var mnemonic = "wool size disease body card beach gossip when frequent rigid copper slot";

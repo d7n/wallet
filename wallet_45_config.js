@@ -1,1 +1,1 @@
-var mnemonic = "sign unhappy boring suffer goat sibling include uphold radio critic garbage slim";
+var mnemonic = "adult merge trim update brass renew kind proof permit gossip correct vault";

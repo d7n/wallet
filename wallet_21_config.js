@@ -1,1 +1,1 @@
-var mnemonic = "front question miss square salad spare rally spice bring business occur group";
+var mnemonic = "pyramid tired present world theory swim exile pudding visual office fancy gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk spare dwarf square chunk similar penalty chunk rubber abuse water slogan";
+var mnemonic = "turkey photo agent volume attract magnet fog close rule loop snack orange";

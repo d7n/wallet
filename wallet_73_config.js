@@ -1,1 +1,1 @@
-var mnemonic = "betray forum else ceiling modify ice dance shrug access dentist fix cargo";
+var mnemonic = "legal gym loud limb submit mix timber vocal carry sketch coach cheap";

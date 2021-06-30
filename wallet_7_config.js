@@ -1,1 +1,1 @@
-var mnemonic = "spawn sudden burst ancient baby large insect deny excite toddler beauty movie";
+var mnemonic = "guess hazard jazz stand vessel hand morning lizard jelly kingdom skill away";

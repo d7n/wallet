@@ -1,1 +1,1 @@
-var mnemonic = "capital unique water science tissue frog olive ability caught van destroy income";
+var mnemonic = "exile tongue cool trash impact fine magic panel gadget client make blossom";

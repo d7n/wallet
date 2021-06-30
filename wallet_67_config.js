@@ -1,1 +1,1 @@
-var mnemonic = "season woman tell jar heart typical boss park tourist afraid usage type";
+var mnemonic = "oak apology acid regret stereo tiny depend senior actual term letter filter";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty general doll solve buffalo dash mountain lizard twin snow open please";
+var mnemonic = "bread song spice distance chase tray fringe ivory claw clock castle flight";

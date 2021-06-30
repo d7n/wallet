@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo solar exercise web cruise purpose shadow useless embrace side taste token";
+var mnemonic = "endless risk cherry twist science warm warfare citizen bottom doctor slam resemble";

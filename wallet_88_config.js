@@ -1,1 +1,1 @@
-var mnemonic = "blade ghost brown boring child fuel antique involve section accident correct capital";
+var mnemonic = "patrol pottery salad weapon hawk sleep man chalk area mass bean tattoo";

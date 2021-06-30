@@ -1,1 +1,1 @@
-var mnemonic = "finish luggage diesel object bridge swamp real main maximum autumn bean edge";
+var mnemonic = "razor power universe warfare dash person liar color clock stadium juice what";

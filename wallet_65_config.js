@@ -1,1 +1,1 @@
-var mnemonic = "pledge real vacuum curtain brisk sick dry dutch height south raccoon junior";
+var mnemonic = "crouch poet extra happy trial spike style settle equal habit often stone";

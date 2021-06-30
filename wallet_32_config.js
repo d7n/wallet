@@ -1,1 +1,1 @@
-var mnemonic = "foot blanket decrease because drama trust fold old silent teach shove canvas";
+var mnemonic = "round gloom original tourist return unfold model obvious mirror zoo thank umbrella";

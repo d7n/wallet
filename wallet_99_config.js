@@ -1,1 +1,1 @@
-var mnemonic = "install alarm risk setup impulse inch twenty behind boat leopard wisdom ring";
+var mnemonic = "system dance world stem solar rival above circle float tower curtain witness";

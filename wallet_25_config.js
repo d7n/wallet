@@ -1,1 +1,1 @@
-var mnemonic = "medal ship marriage flat liquid business ring school want myth tunnel kite";
+var mnemonic = "salon usage conduct jungle rival success safe manual allow educate laundry identify";

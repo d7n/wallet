@@ -1,1 +1,1 @@
-var mnemonic = "arch dune cute design prepare garment industry sister text rain frozen throw";
+var mnemonic = "width key method museum sheriff alcohol cupboard agent boat sniff member repair";

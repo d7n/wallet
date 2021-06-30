@@ -1,1 +1,1 @@
-var mnemonic = "ready tuna mandate dilemma pave pet web proof celery calm grid way";
+var mnemonic = "defense border crystal midnight neglect unknown elite cube fury okay coffee sea";

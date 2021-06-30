@@ -1,1 +1,1 @@
-var mnemonic = "athlete effort word deposit champion harsh runway water crowd seven toy bracket";
+var mnemonic = "hurt swallow water dice glory year claw sun tomato negative prevent write";

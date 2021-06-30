@@ -1,1 +1,1 @@
-var mnemonic = "glide fantasy daughter knock parrot dragon expand vital wrestle warm box wrestle";
+var mnemonic = "crawl immense gravity cannon creek body depend cluster opinion off rib cruise";

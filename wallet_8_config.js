@@ -1,1 +1,1 @@
-var mnemonic = "help grass cheese sight catalog dove goddess require theory dilemma pyramid deny";
+var mnemonic = "door pretty broccoli crisp hundred clown latin know core achieve catch jump";

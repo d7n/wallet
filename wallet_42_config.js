@@ -1,1 +1,1 @@
-var mnemonic = "thought this else tumble holiday coyote orchard rack sadness foot crane jacket";
+var mnemonic = "attitude chunk rather tooth valve chaos sword balance announce chair gorilla hotel";
