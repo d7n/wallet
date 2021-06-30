@@ -1,1 +1,1 @@
-var mnemonic = "sound wide inherit reflect harbor canyon element buddy drink rich resource walnut";
+var mnemonic = "myself case develop dune tail also stomach raw accident seed palace dinner";

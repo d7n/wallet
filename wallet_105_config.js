@@ -1,1 +1,1 @@
-var mnemonic = "health shuffle motor hobby matrix often install tube innocent impulse chef venture";
+var mnemonic = "city boring twenty alarm vessel infant cinnamon keen item engage gallery alarm";

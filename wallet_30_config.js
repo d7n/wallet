@@ -1,1 +1,1 @@
-var mnemonic = "language embody weasel collect hurt bridge bicycle doctor number mirror citizen canoe";
+var mnemonic = "blouse mistake define elegant uphold hint bring mobile little million left silent";

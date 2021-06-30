@@ -1,1 +1,1 @@
-var mnemonic = "away treat hurt music risk argue canyon timber citizen clever illness table";
+var mnemonic = "satoshi board liquid nerve annual butter beef save reduce boost violin sausage";

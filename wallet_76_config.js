@@ -1,1 +1,1 @@
-var mnemonic = "crew liberty pet ahead audit dish reunion knife job tone coin accident";
+var mnemonic = "defense tattoo table use depart document huge sponsor frog vicious position visit";

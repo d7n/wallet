@@ -1,1 +1,1 @@
-var mnemonic = "purpose ice guard thing digital salute family doll effort wear resist wet";
+var mnemonic = "such all mercy turn unaware plastic idle level shop wet december improve";

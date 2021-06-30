@@ -1,1 +1,1 @@
-var mnemonic = "cruise save talk gas furnace never outer brush win then wood hood";
+var mnemonic = "letter announce fatigue idle unable learn essay hero near term harvest soccer";

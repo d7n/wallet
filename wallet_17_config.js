@@ -1,1 +1,1 @@
-var mnemonic = "shove bulb aisle waste width firm quote anxiety hawk siren industry champion";
+var mnemonic = "monkey settle consider kit also meat office gun gift luggage end draw";

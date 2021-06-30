@@ -1,1 +1,1 @@
-var mnemonic = "cruel material burst film wheel theory toe target decrease issue mobile fresh";
+var mnemonic = "when wine home wrong diet true toward admit shoe patient defense latin";

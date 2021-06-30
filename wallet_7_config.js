@@ -1,1 +1,1 @@
-var mnemonic = "cross utility base bone forest shiver luxury rookie live first unveil error";
+var mnemonic = "dad kangaroo mixed rescue van lunar satoshi infant sing main cigar analyst";

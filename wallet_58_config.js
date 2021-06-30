@@ -1,1 +1,1 @@
-var mnemonic = "weasel already twenty confirm fun tip around curious easily clerk promote alarm";
+var mnemonic = "what boost planet bone output jungle trash crumble lunch scale afraid season";

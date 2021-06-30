@@ -1,1 +1,1 @@
-var mnemonic = "oppose update trophy balcony have fiscal island box swap please knife pave";
+var mnemonic = "deputy have love eyebrow race laptop major admit battle cable merge solar";

@@ -1,1 +1,1 @@
-var mnemonic = "dish mosquito source foster exercise unit picture child hedgehog frequent hedgehog wrist";
+var mnemonic = "portion reject cargo sniff cushion raw creek prison garbage maze inhale unfold";

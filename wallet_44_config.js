@@ -1,1 +1,1 @@
-var mnemonic = "type gate mosquito wasp trick manual banner organ bamboo egg trend horse";
+var mnemonic = "glass noodle blue race similar enough dream fluid actual tennis invest rifle";

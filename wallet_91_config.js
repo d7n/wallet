@@ -1,1 +1,1 @@
-var mnemonic = "tuna suffer bulb regret rapid original manage surface ill unknown arctic arm";
+var mnemonic = "fade crunch strike affair talk view lunar absurd census absorb sport join";

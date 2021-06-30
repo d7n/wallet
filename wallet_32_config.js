@@ -1,1 +1,1 @@
-var mnemonic = "nasty lucky mass scare wear blue tongue ocean pretty tip south dinosaur";
+var mnemonic = "evoke cage suffer paddle pact reflect film spirit twelve cream train wear";

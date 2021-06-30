@@ -1,1 +1,1 @@
-var mnemonic = "cancel animal tornado galaxy immune solve zebra slide diary cargo echo awkward";
+var mnemonic = "blame urge win tumble juice between grass galaxy illness real month photo";

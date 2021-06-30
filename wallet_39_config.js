@@ -1,1 +1,1 @@
-var mnemonic = "shock adapt engage student planet fame lounge lock tribe tuna place grow";
+var mnemonic = "type trend mesh brain merit runway together muffin excite ecology scissors bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "attract caution flip fruit kitten because october piano element soon tank winner";
+var mnemonic = "urge hover protect fork lazy curious paddle borrow claim point nominee enjoy";

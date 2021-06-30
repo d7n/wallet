@@ -1,1 +1,1 @@
-var mnemonic = "beauty fox filter route foster attend like doctor record that recall roast";
+var mnemonic = "tomato cart dizzy nominee spring sugar burst few fiscal vehicle undo opera";

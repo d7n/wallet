@@ -1,1 +1,1 @@
-var mnemonic = "explain message rather exist quarter asset memory soldier humor test build antique";
+var mnemonic = "torch cover aim brain luxury add noise candy suffer control scrub divert";

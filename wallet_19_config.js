@@ -1,1 +1,1 @@
-var mnemonic = "much dwarf final deny resemble firm drastic derive cycle update sunset tower";
+var mnemonic = "gaze couch oyster minimum cluster certain gift use cause seek laptop elbow";

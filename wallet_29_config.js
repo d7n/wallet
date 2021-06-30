@@ -1,1 +1,1 @@
-var mnemonic = "stove spoil reveal cigar jelly detect okay holiday grain visa ensure under";
+var mnemonic = "magnet use wide coil crime frozen cluster super modify satisfy garbage describe";

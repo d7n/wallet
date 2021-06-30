@@ -1,1 +1,1 @@
-var mnemonic = "hip bicycle amused open margin renew correct smoke inherit square limit balance";
+var mnemonic = "legal nephew sing wonder fresh close soul shadow rose village vibrant craft";

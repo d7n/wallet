@@ -1,1 +1,1 @@
-var mnemonic = "gaze vast dash purse brief high choose video dad satisfy prosper crumble";
+var mnemonic = "original once cheese fabric empty patient mandate left weapon indoor rabbit lend";

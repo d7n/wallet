@@ -1,1 +1,1 @@
-var mnemonic = "axis breeze rigid infant fatal six total net february lady awesome wealth";
+var mnemonic = "hammer height cheap alien pattern olive auto property unaware crawl sister okay";

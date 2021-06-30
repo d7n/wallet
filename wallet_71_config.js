@@ -1,1 +1,1 @@
-var mnemonic = "liberty future lottery around link empower write trophy balance immune know day";
+var mnemonic = "humor sense perfect second shine there cram siren car debris shed device";

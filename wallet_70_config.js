@@ -1,1 +1,1 @@
-var mnemonic = "crucial ivory peace city autumn hospital bone artefact shoulder miss inherit buffalo";
+var mnemonic = "seek need whale correct victory heart wisdom club enforce cart debate sweet";

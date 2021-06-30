@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin fall produce claim reduce pull crunch talent guilt river core tackle";
+var mnemonic = "find install permit kiwi ask laptop praise loop know rough warfare network";

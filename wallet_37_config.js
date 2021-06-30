@@ -1,1 +1,1 @@
-var mnemonic = "tissue snow mix response law banner receive tag april issue tobacco happy";
+var mnemonic = "lemon enlist elite mosquito seed method dolphin access network lemon catch inject";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse awful oxygen pact fun paper mesh library weapon stand series wealth";
+var mnemonic = "wage crater another always strategy race theory saddle monkey below deny country";

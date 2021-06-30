@@ -1,1 +1,1 @@
-var mnemonic = "mystery satisfy lava flag smoke smooth attract plastic truck harsh swamp fix";
+var mnemonic = "rookie intact sausage hire easily child label earn tissue excess club tomato";

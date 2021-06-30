@@ -1,1 +1,1 @@
-var mnemonic = "release magnet next enemy country critic live sail surface accident dolphin yard";
+var mnemonic = "cigar elder bench pull west lock document bone stable alarm crane desert";

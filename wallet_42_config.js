@@ -1,1 +1,1 @@
-var mnemonic = "daughter able pact faith cart category liquid dizzy ahead canvas artefact cousin";
+var mnemonic = "traffic under miss thrive situate okay affair resist ride matter art universe";

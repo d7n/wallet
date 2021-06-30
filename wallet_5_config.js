@@ -1,1 +1,1 @@
-var mnemonic = "exercise scatter romance they scissors silver vicious author ozone sick captain sustain";
+var mnemonic = "fire cream theory clock produce man course very welcome vessel ugly obtain";

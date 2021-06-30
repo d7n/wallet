@@ -1,1 +1,1 @@
-var mnemonic = "february rough record lemon prevent giant best solution kind spread science impose";
+var mnemonic = "that burger clay cattle future jaguar coin cereal void senior whale van";

@@ -1,1 +1,1 @@
-var mnemonic = "absent impulse bundle sunset ignore estate similar vault gown coach clutch student";
+var mnemonic = "donate bacon fringe marriage senior similar help void walnut morning hip high";

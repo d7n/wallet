@@ -1,1 +1,1 @@
-var mnemonic = "van blood agree much draw weekend invest evidence captain sense trend lumber";
+var mnemonic = "success warm chaos salt undo figure reduce fashion frame kingdom conduct logic";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry interest eager phrase gesture rifle bronze hamster debate strike subway spray";
+var mnemonic = "fix vicious flush tide west expand save rebel proud trial aim boat";

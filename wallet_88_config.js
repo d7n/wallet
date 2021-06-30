@@ -1,1 +1,1 @@
-var mnemonic = "avocado fresh music safe keen sing price guitar glance observe mixed dish";
+var mnemonic = "aisle unaware series quit sketch cigar city puzzle laundry furnace disagree process";

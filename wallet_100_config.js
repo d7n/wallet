@@ -1,1 +1,1 @@
-var mnemonic = "original organ raise camera setup panel around mom total before gap rather";
+var mnemonic = "season approve together unfair tank view jacket fabric census wife island salad";

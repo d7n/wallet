@@ -1,1 +1,1 @@
-var mnemonic = "shoe hamster drift drip cream sleep unfold ordinary sun tail grow rapid";
+var mnemonic = "sunset illness large movie clever charge vibrant wife stadium wine nut essay";

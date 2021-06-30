@@ -1,1 +1,1 @@
-var mnemonic = "drop stumble stool robust swap wild lady plate soft duck tank genre";
+var mnemonic = "dry gloom cable beyond theme hope tired april catalog lunch eternal march";

@@ -1,1 +1,1 @@
-var mnemonic = "anger since purse crowd emotion shop gesture bulb either license friend husband";
+var mnemonic = "stock flower great search bid broken lab stumble magic hedgehog away father";

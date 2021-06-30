@@ -1,1 +1,1 @@
-var mnemonic = "eagle attract hawk abstract ranch random army tomorrow fix snack certain fade";
+var mnemonic = "spawn stone round else film notice story ethics rug bomb phrase horse";

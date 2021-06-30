@@ -1,1 +1,1 @@
-var mnemonic = "warfare lesson major project cliff armor dinosaur stomach satoshi visual capable priority";
+var mnemonic = "topic theory measure attract famous horror face power radio banner train aware";

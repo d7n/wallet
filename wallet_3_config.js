@@ -1,1 +1,1 @@
-var mnemonic = "foster sentence claw output stomach dial frequent crash firm enable cement catalog";
+var mnemonic = "sick cruel luxury annual merry front bundle walk during picnic orchard turtle";

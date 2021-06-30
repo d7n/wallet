@@ -1,1 +1,1 @@
-var mnemonic = "law noodle dignity busy next surprise satisfy advice split finish grit faculty";
+var mnemonic = "knee unaware woman arrest sphere recycle flower staff silent hope caution keen";

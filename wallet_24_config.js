@@ -1,1 +1,1 @@
-var mnemonic = "unable job ridge title love beach digital advice foam math until student";
+var mnemonic = "decide wool wisdom ordinary pilot stereo uncover candy lava correct endless border";

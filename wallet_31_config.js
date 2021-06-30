@@ -1,1 +1,1 @@
-var mnemonic = "load educate conduct pumpkin pig sleep garage electric senior pyramid silly tilt";
+var mnemonic = "vintage curious timber charge speak menu frost bean modify random bracket laundry";

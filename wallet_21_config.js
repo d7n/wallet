@@ -1,1 +1,1 @@
-var mnemonic = "spawn swing flight present usage bring snack stool cable timber card month";
+var mnemonic = "save turn what parrot artist deputy father head dinner worry disagree lucky";

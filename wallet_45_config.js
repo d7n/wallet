@@ -1,1 +1,1 @@
-var mnemonic = "able elder month depth frown weapon venture bulk symptom hello order bullet";
+var mnemonic = "abuse trigger ask private timber friend volcano trim wealth long crisp fiction";

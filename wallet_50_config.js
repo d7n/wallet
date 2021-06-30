@@ -1,1 +1,1 @@
-var mnemonic = "access space produce busy loan spread time sunset traffic unusual thought squirrel";
+var mnemonic = "unit put minimum movie divorce accident vast link salute estate nerve myth";

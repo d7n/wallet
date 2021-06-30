@@ -1,1 +1,1 @@
-var mnemonic = "zoo hedgehog grow forum eight arm hair diagram suggest coach ship spin";
+var mnemonic = "solar case buddy mixed mixed honey divert gasp keen crystal nothing scissors";

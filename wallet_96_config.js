@@ -1,1 +1,1 @@
-var mnemonic = "lens opinion fix buddy crawl gaze certain script valid knee rule fall";
+var mnemonic = "error eager awkward cannon stadium grass mechanic exile garbage owner card whale";

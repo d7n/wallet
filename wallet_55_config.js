@@ -1,1 +1,1 @@
-var mnemonic = "census useless what symptom one space cruise lock balance promote wise stumble";
+var mnemonic = "skirt trick copper crew chalk trap carpet goddess length act trade huge";

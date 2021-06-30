@@ -1,1 +1,1 @@
-var mnemonic = "cube already put rule grief blossom crack post width citizen suffer grab";
+var mnemonic = "aware vague method shove gaze between hard day exchange pistol tennis cry";

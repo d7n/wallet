@@ -1,1 +1,1 @@
-var mnemonic = "rebel radio vote panic artwork fault spoil tenant hedgehog lift fantasy fatal";
+var mnemonic = "collect physical photo hurry antique nest faith response pen describe truth yard";

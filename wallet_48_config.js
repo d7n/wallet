@@ -1,1 +1,1 @@
-var mnemonic = "wasp engine old problem shoot fire rail deputy best face egg gold";
+var mnemonic = "auction neutral bench grid coyote potato output chat payment couch bulk detect";

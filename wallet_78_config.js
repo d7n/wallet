@@ -1,1 +1,1 @@
-var mnemonic = "carbon artist doll hub engine same priority tonight sphere mobile satisfy garlic";
+var mnemonic = "bus dignity friend educate code nature critic clown about crack core empty";

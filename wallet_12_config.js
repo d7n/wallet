@@ -1,1 +1,1 @@
-var mnemonic = "draw best tribe depend gasp pool flat away one alone spatial round";
+var mnemonic = "measure flavor forum morning extend hub cloud wall dragon beyond define video";

@@ -1,1 +1,1 @@
-var mnemonic = "stand charge below fiber bachelor sense author before holiday dash talent supreme";
+var mnemonic = "tone earn rural midnight avoid client clay token drama regret stone walk";

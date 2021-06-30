@@ -1,1 +1,1 @@
-var mnemonic = "charge traffic forget radio print praise copy attitude wonder sock welcome scale";
+var mnemonic = "view chief purse oak under gift fall still spoil electric knee ramp";

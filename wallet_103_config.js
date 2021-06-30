@@ -1,1 +1,1 @@
-var mnemonic = "vivid balance mercy safe mango slight domain food romance humor hamster tuition";
+var mnemonic = "say process identify tank bitter blood absent robust loud magnet color ribbon";

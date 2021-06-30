@@ -1,1 +1,1 @@
-var mnemonic = "crane silly radio report fancy degree distance alert habit field crumble tray";
+var mnemonic = "warrior unfold rose crystal capital inside wood aerobic win mouse mask relax";

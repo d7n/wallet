@@ -1,1 +1,1 @@
-var mnemonic = "mind liquid damp farm property negative material all turkey rent anchor isolate";
+var mnemonic = "toss bind sister fork flag topple initial salad artefact undo jar bullet";

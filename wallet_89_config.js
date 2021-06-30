@@ -1,1 +1,1 @@
-var mnemonic = "ship curious tag either stuff social visit bus beach bulk illegal erase";
+var mnemonic = "neutral mechanic pencil world thing amount soap used say satoshi tired yard";

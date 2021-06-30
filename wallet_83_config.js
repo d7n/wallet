@@ -1,1 +1,1 @@
-var mnemonic = "wage faculty woman drill run discover sound carry step actress opinion place";
+var mnemonic = "unhappy boat bless prepare nuclear better chef impact spatial above little radio";

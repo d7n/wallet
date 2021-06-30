@@ -1,1 +1,1 @@
-var mnemonic = "broom twist feature casual industry slot output liberty sibling web cabbage hurry";
+var mnemonic = "airport deer zoo process sport monitor echo pact silk music victory valve";

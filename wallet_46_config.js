@@ -1,1 +1,1 @@
-var mnemonic = "rebel love actual bacon fresh still video mutual cereal boy audit file";
+var mnemonic = "organ laptop lesson fuel endorse sunny own undo unique quiz electric actor";

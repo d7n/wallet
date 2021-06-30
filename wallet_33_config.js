@@ -1,1 +1,1 @@
-var mnemonic = "diesel stone gasp worry army nurse empower solid already pony jaguar few";
+var mnemonic = "produce achieve trick lake drama tag champion clown glare tumble proud mimic";

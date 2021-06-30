@@ -1,1 +1,1 @@
-var mnemonic = "hope lock advance broken scorpion utility dream ozone notice lake bless fatal";
+var mnemonic = "usage hip jealous drink bubble hidden riot legal whip tortoise trash step";

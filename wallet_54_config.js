@@ -1,1 +1,1 @@
-var mnemonic = "measure equal upgrade luxury unhappy marble sign unusual unknown afraid elegant illness";
+var mnemonic = "era mobile sorry topple rib genius direct tent birth found whip yard";

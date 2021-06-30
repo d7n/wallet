@@ -1,1 +1,1 @@
-var mnemonic = "catalog coffee report moral brand husband plate grant audit attend airport air";
+var mnemonic = "timber polar rough once ghost sunset pair alpha bubble carry citizen soul";

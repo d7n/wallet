@@ -1,1 +1,1 @@
-var mnemonic = "negative decade meadow stone traffic frog retreat town cover alien carpet april";
+var mnemonic = "insane win crunch lock caution drill prefer globe flat rain assist champion";

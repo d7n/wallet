@@ -1,1 +1,1 @@
-var mnemonic = "disorder shaft choose crouch rifle humor fantasy primary away become illegal crop";
+var mnemonic = "chat galaxy future myself major suggest measure fee cruel tired museum essence";

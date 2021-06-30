@@ -1,1 +1,1 @@
-var mnemonic = "sting toe season stable trouble tragic blade resist train surround pulp snap";
+var mnemonic = "age will security salon police arena thumb monkey cry clown tiny today";

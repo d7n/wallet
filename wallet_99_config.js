@@ -1,1 +1,1 @@
-var mnemonic = "vague danger soldier index kitchen gown leave make march sauce main include";
+var mnemonic = "leader exclude drama blur cake next render luggage layer jump test ignore";

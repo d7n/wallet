@@ -1,1 +1,1 @@
-var mnemonic = "cloud genuine tired execute morning resist trim champion range solid rocket noise";
+var mnemonic = "this episode owner utility hunt unknown slender climb sound guess undo across";

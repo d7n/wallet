@@ -1,1 +1,1 @@
-var mnemonic = "script payment crew sibling bike aerobic mother pair whisper chuckle patch sun";
+var mnemonic = "nasty intact quiz tiger distance olympic answer actual seek trick sausage desert";

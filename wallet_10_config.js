@@ -1,1 +1,1 @@
-var mnemonic = "taxi bundle hawk frost rescue cable student apart walk allow detail crawl";
+var mnemonic = "civil ordinary false wisdom skull will swap hip actual virus truth axis";

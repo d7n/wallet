@@ -1,1 +1,1 @@
-var mnemonic = "lock income canvas welcome voice trumpet cereal curtain busy crazy spider antenna";
+var mnemonic = "green subway tattoo joy immune color wolf calm taste sausage explain firm";

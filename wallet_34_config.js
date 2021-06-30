@@ -1,1 +1,1 @@
-var mnemonic = "coin magnet broom useful brush horror robust copper blur update fortune december";
+var mnemonic = "town deal alert salt road coach document suspect flash tone guilt clerk";

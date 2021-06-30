@@ -1,1 +1,1 @@
-var mnemonic = "word cycle expand century tortoise grid design acid emerge kingdom broom birth";
+var mnemonic = "medal basket cash prefer alert avocado sell tone artwork swarm void horn";

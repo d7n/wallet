@@ -1,1 +1,1 @@
-var mnemonic = "surge frame west test leader wine artefact flame pride afraid fluid syrup";
+var mnemonic = "thing guilt primary joy logic permit amused embark web seat man come";

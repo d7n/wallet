@@ -1,1 +1,1 @@
-var mnemonic = "grit lady post remember wave leaf surge tiger cherry foil collect fetch";
+var mnemonic = "near forward dignity unfair debate cereal van enjoy visit seek salad fade";

@@ -1,1 +1,1 @@
-var mnemonic = "subway moral second movie scissors veteran mouse please metal file galaxy pluck";
+var mnemonic = "return urge mixture disagree leisure twist blast inject identify direct unique main";

@@ -1,1 +1,1 @@
-var mnemonic = "broken arm young feel female output daring stay sight panel memory cart";
+var mnemonic = "prison smart inner fault prize force primary pistol peace mimic hamster finger";

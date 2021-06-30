@@ -1,1 +1,1 @@
-var mnemonic = "slice liberty stamp boring deputy slight priority claw clarify defense open pizza";
+var mnemonic = "memory ability error drill deputy remind liquid fix maximum august barely identify";

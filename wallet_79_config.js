@@ -1,1 +1,1 @@
-var mnemonic = "degree frost fitness bicycle elegant ribbon prize sadness dragon dice diary candy";
+var mnemonic = "hedgehog boat hospital define february boat dune thing spoon arrange drill decade";

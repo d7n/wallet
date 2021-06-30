@@ -1,1 +1,1 @@
-var mnemonic = "grit unfair advance margin finish head turtle usual invite noise trumpet clip";
+var mnemonic = "word note immune jungle fame immune company exact box come begin tail";

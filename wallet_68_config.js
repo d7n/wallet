@@ -1,1 +1,1 @@
-var mnemonic = "then siren oak tuition crime license flat nice add certain rain female";
+var mnemonic = "gym trade range bundle habit electric wonder later casual domain bachelor process";

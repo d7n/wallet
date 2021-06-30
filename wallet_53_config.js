@@ -1,1 +1,1 @@
-var mnemonic = "senior van drop egg girl tilt orphan normal eternal scatter thank credit";
+var mnemonic = "venture cook sell jump mammal pattern easy rice sun business quote chest";

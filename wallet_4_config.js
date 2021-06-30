@@ -1,1 +1,1 @@
-var mnemonic = "stable indoor hand focus shell satoshi scare glimpse slogan top twenty produce";
+var mnemonic = "radio prevent nuclear drip humor crack sister stadium roof enhance gospel hungry";

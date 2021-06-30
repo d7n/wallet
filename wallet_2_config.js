@@ -1,1 +1,1 @@
-var mnemonic = "merit forum near impulse ghost palace choose erase air mechanic tooth rival";
+var mnemonic = "online sun fabric bread sea border frozen obtain like water solve clay";
