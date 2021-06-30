@@ -1,1 +1,1 @@
-var mnemonic = "that blossom quick muffin label general toddler zoo march flush crime kite";
+var mnemonic = "afraid enrich version coconut leg erosion merry minimum stairs service effort rough";

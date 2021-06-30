@@ -1,1 +1,1 @@
-var mnemonic = "another cup snap project joy kiss cereal soft fee begin room toast";
+var mnemonic = "cereal chef pioneer switch accident praise buyer strategy prevent decline bronze nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "feel client enrich divorce chuckle brief swim bacon attitude imitate learn height";
+var mnemonic = "hurt nuclear violin eternal number option mandate action kit over wasp toddler";

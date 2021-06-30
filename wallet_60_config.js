@@ -1,1 +1,1 @@
-var mnemonic = "insane sock arch victory cousin barrel side wisdom buddy island canal render";
+var mnemonic = "twin east evil stairs inquiry lawsuit avocado diagram radar pig orchard crush";

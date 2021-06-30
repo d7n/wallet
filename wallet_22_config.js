@@ -1,1 +1,1 @@
-var mnemonic = "grace have actor horn border glory safe bring century fluid coin buffalo";
+var mnemonic = "control cousin apple hole artist ice crowd latin solid odor essay disorder";

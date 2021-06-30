@@ -1,1 +1,1 @@
-var mnemonic = "choose neglect brown estate link cradle second blue easily high embrace abandon";
+var mnemonic = "must diet side lumber verify enroll congress pull innocent hub have check";

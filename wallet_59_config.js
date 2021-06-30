@@ -1,1 +1,1 @@
-var mnemonic = "oyster share minute ignore tackle test discover immune journey puzzle quote relief";
+var mnemonic = "bottom lesson today ski tornado domain chaos erosion ramp add era hollow";

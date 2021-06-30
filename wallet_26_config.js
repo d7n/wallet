@@ -1,1 +1,1 @@
-var mnemonic = "trick dry around broom aim monster never update morning crush boat flash";
+var mnemonic = "lady diesel border peasant property oxygen tobacco point chicken eyebrow elephant quantum";

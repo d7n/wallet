@@ -1,1 +1,1 @@
-var mnemonic = "insane arena enroll arrest soon behind ask gun surprise angry hybrid wreck";
+var mnemonic = "near life omit cherry toward keen wash alarm wave forward adjust lounge";

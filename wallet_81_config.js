@@ -1,1 +1,1 @@
-var mnemonic = "lens chair penalty wish start replace screen ignore hope crew original gorilla";
+var mnemonic = "unfold material vivid begin company taxi glass answer rapid basic ghost hobby";

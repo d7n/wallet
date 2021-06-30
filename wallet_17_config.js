@@ -1,1 +1,1 @@
-var mnemonic = "tumble build harbor transfer song picture fossil attract island note benefit habit";
+var mnemonic = "despair cross tunnel damp doll glimpse suit parrot lock bike genre churn";

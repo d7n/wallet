@@ -1,1 +1,1 @@
-var mnemonic = "ginger borrow tired swim call item manual teach seminar valve obtain usual";
+var mnemonic = "lift like mosquito whale vague spin buyer mosquito cargo bind list town";

@@ -1,1 +1,1 @@
-var mnemonic = "senior bundle cotton blind naive ethics traffic hazard impulse adapt half shield";
+var mnemonic = "chronic pass fence hood cross crisp lobster carbon debate mosquito cable saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond leisure case bulb north tool divorce solve reform dignity predict segment";
+var mnemonic = "dose sound note pumpkin deliver six hover gate reduce skirt this mystery";

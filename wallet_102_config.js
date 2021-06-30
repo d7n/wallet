@@ -1,1 +1,1 @@
-var mnemonic = "false celery imitate candy patch pink test solve scissors essay equal remind";
+var mnemonic = "click bridge virtual tribe youth jar method rookie ignore hen patrol bomb";

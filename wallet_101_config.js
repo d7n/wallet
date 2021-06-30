@@ -1,1 +1,1 @@
-var mnemonic = "half black august permit mercy cook sunset twin leopard remember tiny black";
+var mnemonic = "clerk lion vague fly tourist trophy twelve review idea pony wide crunch";

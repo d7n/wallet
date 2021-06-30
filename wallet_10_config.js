@@ -1,1 +1,1 @@
-var mnemonic = "crumble menu goat bulb demise conduct antique album hip lamp embody finger";
+var mnemonic = "space body skirt boy where ozone inherit public estate critic simple cousin";

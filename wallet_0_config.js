@@ -1,1 +1,1 @@
-var mnemonic = "ketchup renew sense inside flock tree bachelor drop spend menu pudding evil";
+var mnemonic = "weather almost over cousin monster steel apart remain remind carbon head trade";

@@ -1,1 +1,1 @@
-var mnemonic = "input critic slot thank blossom magnet globe possible coast already armed comfort";
+var mnemonic = "someone foil jungle supreme goddess deputy hundred live cannon target earth toddler";

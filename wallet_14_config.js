@@ -1,1 +1,1 @@
-var mnemonic = "rely ball start arena space can poet animal suit method potato material";
+var mnemonic = "dinosaur smart small fragile supreme require feel horror nominee morning hurdle fan";

@@ -1,1 +1,1 @@
-var mnemonic = "monster pause try brass crucial radar strike young predict drink expose grape";
+var mnemonic = "kiwi romance right replace galaxy raise cable grid enter mystery pigeon right";

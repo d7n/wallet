@@ -1,1 +1,1 @@
-var mnemonic = "there wise vehicle bid peanut sweet blossom gap vintage artwork drill verify";
+var mnemonic = "custom cat ten dutch parade debate pass estate suggest shrug panel flip";

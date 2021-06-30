@@ -1,1 +1,1 @@
-var mnemonic = "animal earn alcohol noble salute inside coach vessel whale impact inject fine";
+var mnemonic = "man west tube female trumpet wedding secret slice embrace mixed ozone film";

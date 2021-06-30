@@ -1,1 +1,1 @@
-var mnemonic = "receive try cruel sentence submit item yellow unfair stuff sample toy improve";
+var mnemonic = "urge yard other again fine couple number blind danger trend fuel cycle";

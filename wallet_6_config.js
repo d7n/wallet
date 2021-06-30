@@ -1,1 +1,1 @@
-var mnemonic = "quiz exchange sound dwarf inch december pudding crouch void fame push host";
+var mnemonic = "digital file donate upgrade ecology announce disagree ignore good attack barrel vital";

@@ -1,1 +1,1 @@
-var mnemonic = "like all own fossil buffalo trend one dinosaur host seat bring steak";
+var mnemonic = "flame shop river stereo base situate boil enhance excite violin crash lady";

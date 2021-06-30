@@ -1,1 +1,1 @@
-var mnemonic = "addict write inquiry easy nut upset fine ahead scrap police sing note";
+var mnemonic = "fatal column dismiss casual believe attend brick couch distance journey horn load";

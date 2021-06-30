@@ -1,1 +1,1 @@
-var mnemonic = "party wise victory toss page risk axis foil siege devote dismiss manual";
+var mnemonic = "magic romance just sign stand child rack fall tone jealous dash apple";

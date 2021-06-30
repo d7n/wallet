@@ -1,1 +1,1 @@
-var mnemonic = "holiday vivid always suggest dune report holiday display surprise elbow include mystery";
+var mnemonic = "night mail curtain false boil enact trim swallow sphere liar clever alien";

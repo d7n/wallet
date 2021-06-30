@@ -1,1 +1,1 @@
-var mnemonic = "priority wear pole shuffle injury pipe echo rose barrel similar around express";
+var mnemonic = "pulse now peasant salmon dust wife author broken salon aerobic space bitter";

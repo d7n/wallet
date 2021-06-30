@@ -1,1 +1,1 @@
-var mnemonic = "easily level denial cluster bar relief bunker abstract twist coin escape crazy";
+var mnemonic = "age dove dish happy promote brain race couch panther helmet furnace glare";

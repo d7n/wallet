@@ -1,1 +1,1 @@
-var mnemonic = "choice dizzy brain coral brain rabbit equal faculty license pattern discover fade";
+var mnemonic = "celery tone room update program enable alley else flip client upon junior";

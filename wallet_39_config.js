@@ -1,1 +1,1 @@
-var mnemonic = "raccoon air observe disorder uncover rice jazz thank tube romance often pistol";
+var mnemonic = "denial fence bomb myself valve army question special biology hamster focus trash";

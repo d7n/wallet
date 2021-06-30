@@ -1,1 +1,1 @@
-var mnemonic = "unknown theory sheriff twenty hint park bridge thunder acquire cupboard adapt busy";
+var mnemonic = "science special large bar canoe visit cricket cherry wall ten pumpkin fun";

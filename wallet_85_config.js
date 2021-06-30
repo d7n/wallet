@@ -1,1 +1,1 @@
-var mnemonic = "wonder key express anchor curious van mirror lemon ability blouse because garment";
+var mnemonic = "holiday turtle act aisle mistake edit hawk affair inform sunset siege cross";

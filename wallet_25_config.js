@@ -1,1 +1,1 @@
-var mnemonic = "invest chat volcano violin arrive adult basic gospel sweet festival make draft";
+var mnemonic = "smile angry axis harvest type loan velvet scrap oval shell reduce blind";

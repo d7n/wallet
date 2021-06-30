@@ -1,1 +1,1 @@
-var mnemonic = "weekend dynamic convince music antenna major damage glove empty maximum memory miracle";
+var mnemonic = "food antique pull hollow drum midnight trophy rescue shuffle latin merge fish";

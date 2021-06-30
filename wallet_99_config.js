@@ -1,1 +1,1 @@
-var mnemonic = "fame south section apple october tone cable expand spread drip soda buddy";
+var mnemonic = "spoil decorate nice cousin neck quiz cement nut sail away glance hour";

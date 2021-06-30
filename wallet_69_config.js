@@ -1,1 +1,1 @@
-var mnemonic = "obey bag nephew bracket cluster route divide vacant pear silent beef solve";
+var mnemonic = "silk grid parent write leopard theory trial build dose tomorrow adult offer";

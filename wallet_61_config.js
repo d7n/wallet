@@ -1,1 +1,1 @@
-var mnemonic = "wide casual sand early move daughter alarm swim scout grant front behind";
+var mnemonic = "clay treat swing vocal mixed execute behave fix myth aware permit buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge title material can match invite patrol pact decline success market host";
+var mnemonic = "dumb rent march menu ranch disorder swear arch balcony you occur three";

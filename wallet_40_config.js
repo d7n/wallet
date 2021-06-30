@@ -1,1 +1,1 @@
-var mnemonic = "better saddle host health long load desert hundred hidden potato again large";
+var mnemonic = "kangaroo horn divert voice spin cart animal lens cloud few phrase urge";

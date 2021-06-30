@@ -1,1 +1,1 @@
-var mnemonic = "oppose quality cash soft movie side female vibrant siren ginger woman inherit";
+var mnemonic = "multiply garden tree rate great pig narrow grass tone resemble gasp robot";

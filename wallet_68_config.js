@@ -1,1 +1,1 @@
-var mnemonic = "circle neck youth tennis nothing acquire myth good uncover weasel satoshi gasp";
+var mnemonic = "bamboo police remember duck practice corn wink razor genre student shrug derive";

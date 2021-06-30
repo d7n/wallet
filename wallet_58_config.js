@@ -1,1 +1,1 @@
-var mnemonic = "congress blade security dust hazard valley junk endorse trumpet antique laptop before";
+var mnemonic = "tongue dry depart point frame blast come display verb sauce country grow";

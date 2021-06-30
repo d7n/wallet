@@ -1,1 +1,1 @@
-var mnemonic = "away earn practice fatal achieve since brass proof reason sword fossil below";
+var mnemonic = "injury puzzle pause private brick iron dish hood slide luggage deliver manage";

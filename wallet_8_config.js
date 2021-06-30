@@ -1,1 +1,1 @@
-var mnemonic = "cousin person where pink hotel cram velvet render minor dish volcano seed";
+var mnemonic = "direct bamboo summer kit tag display sample drum example square story below";

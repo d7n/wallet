@@ -1,1 +1,1 @@
-var mnemonic = "spoil seek rely music noble wasp fetch audit armed stem beauty caution";
+var mnemonic = "suit rail plug cousin alpha shoulder heart minute oak angle shoe patrol";

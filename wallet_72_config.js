@@ -1,1 +1,1 @@
-var mnemonic = "weekend permit casual water parade raw powder valley truck abuse wink analyst";
+var mnemonic = "okay border visa season exotic diagram struggle know action foam hospital gloom";

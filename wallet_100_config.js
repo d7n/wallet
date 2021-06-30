@@ -1,1 +1,1 @@
-var mnemonic = "praise funny canal ten settle pumpkin gather gaze october render brush fence";
+var mnemonic = "toddler just twist miss release awesome weapon hire odor door oven pony";

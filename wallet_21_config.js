@@ -1,1 +1,1 @@
-var mnemonic = "accuse neither program rebel clown auto onion float spoon film online argue";
+var mnemonic = "tape like siren there load craft please shine tide perfect trust napkin";

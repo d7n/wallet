@@ -1,1 +1,1 @@
-var mnemonic = "marine clever shed strong crane sound exile panda cheese bacon proud romance";
+var mnemonic = "marriage skate black pass attack liar decide camp purchase brand powder wheel";

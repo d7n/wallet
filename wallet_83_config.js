@@ -1,1 +1,1 @@
-var mnemonic = "siege hidden alone box monster pilot patch field sister tiger hole umbrella";
+var mnemonic = "pottery below material cost place atom easy power mirror eye bulk track";

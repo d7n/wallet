@@ -1,1 +1,1 @@
-var mnemonic = "intact patrol couch limb capital grace column maple accident stereo skirt action";
+var mnemonic = "spread since kiwi exhibit okay december hire festival artefact image educate goat";

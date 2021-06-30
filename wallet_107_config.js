@@ -1,1 +1,1 @@
-var mnemonic = "napkin purse one celery gold antenna scan alcohol royal knife earn camp";
+var mnemonic = "link cave slab indoor annual mango text erode science egg later fruit";

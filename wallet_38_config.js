@@ -1,1 +1,1 @@
-var mnemonic = "clean reduce exotic sniff other monkey only crouch nation toast genre before";
+var mnemonic = "puppy polar hurt outer walk similar upset echo air pink scout phone";

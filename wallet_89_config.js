@@ -1,1 +1,1 @@
-var mnemonic = "opera couple acid park gossip actual task brother pitch horror tortoise shuffle";
+var mnemonic = "cancel feature leader fiber process wasp cycle business much panic seed resemble";

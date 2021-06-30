@@ -1,1 +1,1 @@
-var mnemonic = "clerk pond earn elder stick lawsuit year congress huge ketchup help until";
+var mnemonic = "furnace noodle fever bachelor frog kit shallow bacon match smooth verb post";

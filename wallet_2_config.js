@@ -1,1 +1,1 @@
-var mnemonic = "report insect exotic throw pluck raccoon gas zoo web oil tortoise sugar";
+var mnemonic = "swear crack giant enter erase child battle photo funny island alone teach";

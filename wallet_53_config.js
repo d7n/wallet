@@ -1,1 +1,1 @@
-var mnemonic = "buyer force distance ensure tiny lift merge royal tobacco light lyrics mammal";
+var mnemonic = "family black six melt kidney above reveal maple violin tunnel barely arrest";

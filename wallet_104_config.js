@@ -1,1 +1,1 @@
-var mnemonic = "unfair rather teach normal grid tent gown sibling wash soda initial slot";
+var mnemonic = "dash fossil any spawn apology pear clip clerk quote inspire slice valid";

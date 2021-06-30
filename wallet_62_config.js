@@ -1,1 +1,1 @@
-var mnemonic = "sadness chronic hover stairs length advice expire lonely immense loyal involve cram";
+var mnemonic = "wink lunar mystery target tone jaguar cabbage daring chalk oval minimum erosion";

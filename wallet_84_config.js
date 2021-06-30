@@ -1,1 +1,1 @@
-var mnemonic = "term artwork ask dismiss habit essay witness service burst satoshi jar story";
+var mnemonic = "clown throw city course clean better address proud boat match senior basket";

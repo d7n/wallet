@@ -1,1 +1,1 @@
-var mnemonic = "rough document cargo onion discover remember job near fiber gold spread evil";
+var mnemonic = "farm gather hub world tilt enforce load decade book winter claim rookie";

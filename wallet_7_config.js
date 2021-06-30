@@ -1,1 +1,1 @@
-var mnemonic = "copper donkey crucial loan express cube room response off bracket near peace";
+var mnemonic = "method seed layer slogan execute raise paper cart lunch elegant cram apology";

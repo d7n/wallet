@@ -1,1 +1,1 @@
-var mnemonic = "common hero unknown boy roast inch useless advance adult wish anxiety rather";
+var mnemonic = "jazz couple wisdom tank unknown west cheap grief burger beach food then";

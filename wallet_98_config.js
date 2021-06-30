@@ -1,1 +1,1 @@
-var mnemonic = "brother extra wool blanket wood napkin comic doll estate butter link input";
+var mnemonic = "usage volcano brain globe attitude thank feature trip step park vacant rapid";

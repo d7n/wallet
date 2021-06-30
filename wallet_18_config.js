@@ -1,1 +1,1 @@
-var mnemonic = "follow crack tattoo lounge purse cry rocket immense cash brain beauty neglect";
+var mnemonic = "strike time friend salon expire smoke nominee topple any cabbage oval club";

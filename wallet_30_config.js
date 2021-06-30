@@ -1,1 +1,1 @@
-var mnemonic = "fetch local escape young cannon latin wagon spray camp oak armor bid";
+var mnemonic = "spare wool sail select limit artist submit evoke account else ramp exhibit";

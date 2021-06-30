@@ -1,1 +1,1 @@
-var mnemonic = "knock garbage erupt bird sudden crisp net possible gap burst inflict feed";
+var mnemonic = "person surge energy volume spy argue wire lawsuit target inmate hill flee";

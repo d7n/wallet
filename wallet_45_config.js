@@ -1,1 +1,1 @@
-var mnemonic = "identify runway custom question minor journey add defense ask post behind mass";
+var mnemonic = "wrap ostrich give board fork trim child liquid frog chimney organ junior";

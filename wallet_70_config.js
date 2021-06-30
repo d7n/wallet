@@ -1,1 +1,1 @@
-var mnemonic = "used remind sting diary wish provide mom miracle better position loan recipe";
+var mnemonic = "bless else churn ugly warrior toe garlic sister truck trial jungle exile";

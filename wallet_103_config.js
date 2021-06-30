@@ -1,1 +1,1 @@
-var mnemonic = "skill model roast fringe position dream state kidney wave hunt fantasy toss";
+var mnemonic = "dirt envelope cream memory cousin able second feel spawn payment club video";

@@ -1,1 +1,1 @@
-var mnemonic = "vague view idle lamp arm knife wrap diamond pipe erase cruel cattle";
+var mnemonic = "venture paddle labor air scare good defense juice reject one unfold program";

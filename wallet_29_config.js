@@ -1,1 +1,1 @@
-var mnemonic = "remember tobacco daughter taxi atom talent police milk yard hurdle crowd north";
+var mnemonic = "midnight have version foot orphan lamp rubber tortoise okay caution merry wrist";

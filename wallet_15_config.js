@@ -1,1 +1,1 @@
-var mnemonic = "inherit maze audit spread abstract question remember leaf undo zero save rib";
+var mnemonic = "dragon health ensure upper join debris similar require moral love equip lucky";

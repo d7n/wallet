@@ -1,1 +1,1 @@
-var mnemonic = "ivory enact useful language reform elegant marriage monster harvest engage music expire";
+var mnemonic = "digital alcohol renew flush sentence casual just vapor ritual tape ski boat";

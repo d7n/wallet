@@ -1,1 +1,1 @@
-var mnemonic = "chief dizzy dove excuse squeeze fan pond grunt congress have divorce shallow";
+var mnemonic = "own cluster expand crime sick cram curve decorate syrup ordinary gold edge";

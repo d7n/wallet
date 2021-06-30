@@ -1,1 +1,1 @@
-var mnemonic = "little uphold old champion oppose finger leopard slush cruel jazz diamond start";
+var mnemonic = "hurdle innocent upset federal awake chronic skate comic situate brief rail dream";

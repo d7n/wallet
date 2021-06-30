@@ -1,1 +1,1 @@
-var mnemonic = "grain canyon tag gift usual true obvious scene naive insect similar jaguar";
+var mnemonic = "hidden field creek possible already torch peasant view congress square enact short";

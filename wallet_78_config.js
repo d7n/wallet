@@ -1,1 +1,1 @@
-var mnemonic = "combine siren fee angry coach sweet mobile clap exercise impulse swap congress";
+var mnemonic = "giraffe prosper original section bar foot dumb sail credit toy mention exact";

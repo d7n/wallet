@@ -1,1 +1,1 @@
-var mnemonic = "menu humble quote suspect wedding speak gown dress earth topple raise bleak";
+var mnemonic = "spread fruit argue ivory device dress obvious slight swamp fetch sad giant";

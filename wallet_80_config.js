@@ -1,1 +1,1 @@
-var mnemonic = "confirm early pipe vacant one quiz scorpion about cruel undo inherit cancel";
+var mnemonic = "ship rose elegant anger antenna upset lizard grid cancel voyage indoor crucial";

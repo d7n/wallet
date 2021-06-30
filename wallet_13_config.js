@@ -1,1 +1,1 @@
-var mnemonic = "dynamic aware donate seven betray deposit execute approve child abuse dove two";
+var mnemonic = "worth poverty path flight this erode dizzy coconut castle glare science sting";

@@ -1,1 +1,1 @@
-var mnemonic = "play save fork blanket dust quick lake tool crazy foster smooth bag";
+var mnemonic = "soup warrior output trial device glow craft puzzle payment exhaust walnut curious";

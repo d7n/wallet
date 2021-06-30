@@ -1,1 +1,1 @@
-var mnemonic = "sniff custom rude snow weasel flip vintage return slide cup library patient";
+var mnemonic = "color educate blind process motion ability tongue shell snow dad skull plug";

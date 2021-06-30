@@ -1,1 +1,1 @@
-var mnemonic = "company wide jump swamp cement cliff lion cereal gasp unknown disorder uncover";
+var mnemonic = "awful draw have zebra between wagon waste aim damage girl radio chase";

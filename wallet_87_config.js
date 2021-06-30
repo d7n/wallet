@@ -1,1 +1,1 @@
-var mnemonic = "slight cup return ice smile burden purchase polar tip trash rabbit fiscal";
+var mnemonic = "venue donor then noise result wet water erode horror husband chat knock";

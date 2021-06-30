@@ -1,1 +1,1 @@
-var mnemonic = "napkin dance picture heavy stable round uphold bubble spring grid ramp fetch";
+var mnemonic = "mixture key price food execute waste notice sting raw stumble resemble dress";
