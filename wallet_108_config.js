@@ -1,1 +1,1 @@
-var mnemonic = "version rival agree barely holiday depth reopen diet employ oil forest mom";
+var mnemonic = "sing vivid bind excess push pride pole liquid parent audit food visit";

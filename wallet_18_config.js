@@ -1,1 +1,1 @@
-var mnemonic = "bamboo jaguar solution short fragile female emerge cruise genuine term sponsor broom";
+var mnemonic = "fine girl mix bag umbrella allow drastic have bulk exhibit machine police";

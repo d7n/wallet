@@ -1,1 +1,1 @@
-var mnemonic = "pitch abstract sausage wolf suggest link pepper crop peasant bullet frost toward";
+var mnemonic = "before lizard lottery disorder enable dress erode drift pipe hair adult top";

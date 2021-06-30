@@ -1,1 +1,1 @@
-var mnemonic = "moon toe memory roof local project success success disorder erode problem peanut";
+var mnemonic = "stomach history talent adapt solar month host accident army shift also now";

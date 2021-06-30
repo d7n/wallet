@@ -1,1 +1,1 @@
-var mnemonic = "piece liberty green parrot boat kitchen keen veteran plate elevator advance object";
+var mnemonic = "hurt camp busy frequent tumble grunt rose sick alert book deer also";

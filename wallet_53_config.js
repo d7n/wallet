@@ -1,1 +1,1 @@
-var mnemonic = "solar update normal joy glare answer pony museum impulse grunt powder teach";
+var mnemonic = "naive diesel certain pioneer bitter depart old glow cushion actor oval domain";

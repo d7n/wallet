@@ -1,1 +1,1 @@
-var mnemonic = "bracket cattle milk enter shift main brother glue embrace initial order liquid";
+var mnemonic = "consider swim equal thumb cycle category mean round camp island keep season";

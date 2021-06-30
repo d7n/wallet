@@ -1,1 +1,1 @@
-var mnemonic = "trip vanish bless assume elegant prize advice fatal silent crash pistol pig";
+var mnemonic = "lunch brother advice laugh sister mercy stairs armor color famous topic organ";

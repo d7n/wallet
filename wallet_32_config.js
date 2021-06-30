@@ -1,1 +1,1 @@
-var mnemonic = "charge sadness emerge fiber useful nose excuse cool million inch shiver few";
+var mnemonic = "harvest drive window engine shaft next sand help include plate capital repeat";

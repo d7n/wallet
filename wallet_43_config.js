@@ -1,1 +1,1 @@
-var mnemonic = "noise nephew vehicle ride mango someone broccoli blouse silly party metal target";
+var mnemonic = "vapor retire air exhibit library strong patrol armed left before donkey deputy";

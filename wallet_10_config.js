@@ -1,1 +1,1 @@
-var mnemonic = "slow glass valid where believe fun penalty acquire write enroll country walk";
+var mnemonic = "record puzzle pond tornado sign erase mango unaware vast orient supply august";

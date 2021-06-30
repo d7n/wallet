@@ -1,1 +1,1 @@
-var mnemonic = "stable ugly that hotel limit style innocent explain taste toward method popular";
+var mnemonic = "inquiry legal response essence stairs flower weapon hobby turtle action winter throw";

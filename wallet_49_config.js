@@ -1,1 +1,1 @@
-var mnemonic = "slight pony cross expire strong sunset ridge taste december axis become robust";
+var mnemonic = "never side vibrant clap tornado have point patrol symptom wisdom hammer toast";

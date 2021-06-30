@@ -1,1 +1,1 @@
-var mnemonic = "unfold donor summer shine jeans another uniform topic save lumber add peanut";
+var mnemonic = "remain believe hole syrup viable auction hen delay inspire rigid exercise snow";

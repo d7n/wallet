@@ -1,1 +1,1 @@
-var mnemonic = "harsh fetch type mutual merit coin error monitor hold stove stable elite";
+var mnemonic = "alone blanket beach million inherit fetch myth pilot elite pigeon talk history";

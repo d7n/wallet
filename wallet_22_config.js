@@ -1,1 +1,1 @@
-var mnemonic = "review carbon enough fence drastic share leader jacket minute subject fiscal tent";
+var mnemonic = "cigar air allow anger hurt shoe fetch win choice wing mail same";

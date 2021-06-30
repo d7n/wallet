@@ -1,1 +1,1 @@
-var mnemonic = "great matter razor artist blade piano credit eye vote vacuum reason lesson";
+var mnemonic = "boil cream explain skull when spoon caution survey cram potato shallow trouble";

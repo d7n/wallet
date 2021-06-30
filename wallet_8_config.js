@@ -1,1 +1,1 @@
-var mnemonic = "mercy fold jazz govern reject broom dice slush orange danger evidence rally";
+var mnemonic = "injury breeze guitar wear scout combine juice shed believe fit brass cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "island ability fat account lottery project struggle success unable crush object hard";
+var mnemonic = "stable smile rack range cat session enroll federal quick captain call mixed";

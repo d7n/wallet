@@ -1,1 +1,1 @@
-var mnemonic = "noble future cement hybrid public govern desert slam color lawn half ranch";
+var mnemonic = "slam spot city antenna general drop sure razor clutch run false turkey";

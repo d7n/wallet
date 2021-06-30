@@ -1,1 +1,1 @@
-var mnemonic = "exotic remove paddle paddle razor gas distance above skin crack fox island";
+var mnemonic = "bonus bridge frog choice upgrade oil myth any split runway mad ranch";

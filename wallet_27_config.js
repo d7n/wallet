@@ -1,1 +1,1 @@
-var mnemonic = "scrap decrease junior pear parent gasp duty rhythm catalog candy carpet pass";
+var mnemonic = "return train grid cube push priority burger found acid erupt snap run";

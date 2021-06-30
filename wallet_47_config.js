@@ -1,1 +1,1 @@
-var mnemonic = "remember jealous peanut witness mushroom auction lava predict foam matrix scale you";
+var mnemonic = "strike tortoise width input drill play flock sustain spring tooth album minimum";

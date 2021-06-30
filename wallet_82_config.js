@@ -1,1 +1,1 @@
-var mnemonic = "settle bulk cabbage retire certain stage outdoor kiwi offer viable front tiger";
+var mnemonic = "fault alley exile despair already explain wood learn copy budget slender proof";

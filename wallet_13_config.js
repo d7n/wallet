@@ -1,1 +1,1 @@
-var mnemonic = "bracket oak surge debris this youth wealth witness move youth legal kit";
+var mnemonic = "detect party fuel visa helmet soda message save critic maid first cherry";

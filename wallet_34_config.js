@@ -1,1 +1,1 @@
-var mnemonic = "siren humor rug wire misery benefit nuclear bean kiss gold slim sustain";
+var mnemonic = "tunnel cause castle tunnel wheat off urban hire during scare aware tape";

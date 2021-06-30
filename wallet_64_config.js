@@ -1,1 +1,1 @@
-var mnemonic = "sort garment frown try chat level tiny cup wrong rose grass physical";
+var mnemonic = "cousin salon fiction faint cube spend raven top pulp lucky edge desert";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic penalty wonder hamster ensure element kingdom glow parent maximum bomb noble";
+var mnemonic = "fabric stock spare diet crystal rabbit birth inject venue oyster curve obscure";

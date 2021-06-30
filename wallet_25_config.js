@@ -1,1 +1,1 @@
-var mnemonic = "cherry busy craft sunset mammal cube surface quiz fringe tuition idle public";
+var mnemonic = "episode party clump chimney chat usual oak inner just myself sweet chaos";

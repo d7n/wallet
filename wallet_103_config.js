@@ -1,1 +1,1 @@
-var mnemonic = "cover cruise venture popular team want mountain cigar pitch retreat dutch nephew";
+var mnemonic = "tongue result genre inside embody foster narrow lizard tomato opinion uncle finger";

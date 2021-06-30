@@ -1,1 +1,1 @@
-var mnemonic = "kiss board stereo fiscal forward south planet rotate penalty cactus surface bicycle";
+var mnemonic = "twenty credit smile travel future rhythm coach august happy elephant prize february";

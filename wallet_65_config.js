@@ -1,1 +1,1 @@
-var mnemonic = "confirm tag holiday dilemma broccoli chapter squeeze occur host hole calm metal";
+var mnemonic = "expire smart nut annual atom camera say ordinary seat october real gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "race inner wealth slam latin rude idle electric force embrace rapid tiny";
+var mnemonic = "prison weekend exile loop hurt shove oven private morning donate burger grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal expire arm taxi casino medal found genius march outdoor dose hungry";
+var mnemonic = "primary prefer elephant carpet scan ski lamp recycle raccoon gold capital song";

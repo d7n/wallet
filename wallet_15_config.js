@@ -1,1 +1,1 @@
-var mnemonic = "avoid wrap snake wage shock predict quality glow work orange invest better";
+var mnemonic = "physical genre dizzy cage acquire just enhance disagree auto earn surface wing";

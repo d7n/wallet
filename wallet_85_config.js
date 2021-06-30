@@ -1,1 +1,1 @@
-var mnemonic = "accident click honey picnic feel lawn tell assume text pyramid diary use";
+var mnemonic = "pencil add penalty segment south pause world theory question attitude honey excuse";

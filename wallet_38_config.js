@@ -1,1 +1,1 @@
-var mnemonic = "sea valley elegant auto grit enter bus there gas drama stadium scrub";
+var mnemonic = "motion style thing skate fault vault seek acoustic spirit tumble fire weather";

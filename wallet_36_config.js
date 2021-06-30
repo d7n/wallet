@@ -1,1 +1,1 @@
-var mnemonic = "venue address account play choose minute gun ask crack shallow ten exact";
+var mnemonic = "erode grocery join topple key raise leopard jungle ski plate measure cute";

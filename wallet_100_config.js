@@ -1,1 +1,1 @@
-var mnemonic = "jacket below decade clarify level person census ask punch brown pink piece";
+var mnemonic = "battle maid enable coral upper dice place multiply same olympic fruit lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "test enrich guard option test onion cushion leave pupil legend bind injury";
+var mnemonic = "simple design tip chair plunge miss text cruel butter note video either";

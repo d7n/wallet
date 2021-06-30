@@ -1,1 +1,1 @@
-var mnemonic = "wage very sign hawk promote execute thought goddess cross payment bacon correct";
+var mnemonic = "turkey enhance that sound amused climb ordinary gaze grit junk rather away";

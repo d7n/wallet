@@ -1,1 +1,1 @@
-var mnemonic = "resource ill bamboo bacon dilemma laugh october famous brand flip fever post";
+var mnemonic = "old lake drive lab shy bottom insane taxi tank above frog artwork";

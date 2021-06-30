@@ -1,1 +1,1 @@
-var mnemonic = "dust hospital height accident host eternal save patient sadness obtain nominee december";
+var mnemonic = "vendor wheel cotton garment ritual steel move pledge need hole join drama";

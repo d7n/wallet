@@ -1,1 +1,1 @@
-var mnemonic = "inform violin possible uniform charge decline congress guitar that leader resource mistake";
+var mnemonic = "brain state above gasp reveal glass mushroom unit beef ball crazy bachelor";

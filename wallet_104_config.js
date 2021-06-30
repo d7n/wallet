@@ -1,1 +1,1 @@
-var mnemonic = "outer relief pyramid rich wait uniform season bounce please retire ship output";
+var mnemonic = "ignore knee myth journey mix hold hotel north agent change mutual vague";

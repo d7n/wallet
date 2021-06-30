@@ -1,1 +1,1 @@
-var mnemonic = "deer proud final between blade vault job media render have divorce nut";
+var mnemonic = "aim engine property mammal affair swing hurry cover lazy coil nose panel";

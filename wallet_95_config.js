@@ -1,1 +1,1 @@
-var mnemonic = "satoshi attack pumpkin pelican flash place holiday mom notice dentist room fabric";
+var mnemonic = "roast vapor skirt patch coral affair result sweet just melody cash element";

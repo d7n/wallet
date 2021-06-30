@@ -1,1 +1,1 @@
-var mnemonic = "hire scout food lizard waste park cement gloom local spy decline appear";
+var mnemonic = "void wheat easy siren fork palace damp kidney ball lock library eye";

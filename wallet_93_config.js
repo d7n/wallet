@@ -1,1 +1,1 @@
-var mnemonic = "logic man chronic keep afford luggage hire box brass powder beauty trouble";
+var mnemonic = "double spread bracket diagram category poverty awesome divert gold glory wait patrol";

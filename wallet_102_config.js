@@ -1,1 +1,1 @@
-var mnemonic = "live whisper remind seek response time horror sound birth brisk initial virus";
+var mnemonic = "say sort original chronic task area bitter weekend small sort hospital excuse";

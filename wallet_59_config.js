@@ -1,1 +1,1 @@
-var mnemonic = "can toe link disorder member bunker require explain smooth assault blind unfold";
+var mnemonic = "slow sea feel photo kangaroo kangaroo crime cabbage gold tiny cereal swap";

@@ -1,1 +1,1 @@
-var mnemonic = "around depart balance track genre dizzy wave adjust celery flavor fine elbow";
+var mnemonic = "treat unique tooth defy scorpion sustain potato aim elephant delay public cupboard";

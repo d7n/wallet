@@ -1,1 +1,1 @@
-var mnemonic = "napkin ocean cry horn cave frost photo pool report place wreck champion";
+var mnemonic = "pizza track emerge boost canyon certain winter year alley motion bid link";

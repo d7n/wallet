@@ -1,1 +1,1 @@
-var mnemonic = "jungle dolphin stereo knock addict inside erosion midnight kiss tunnel pen movie";
+var mnemonic = "humor pumpkin park physical survey luxury romance polar stand aisle faculty ticket";

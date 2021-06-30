@@ -1,1 +1,1 @@
-var mnemonic = "swift gospel pencil route sense antenna involve image need verify stool corn";
+var mnemonic = "eternal fault spatial average weird huge first illness clay weather wrestle salt";

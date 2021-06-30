@@ -1,1 +1,1 @@
-var mnemonic = "horse silk salute fork alley knock bleak trim capable expose proud find";
+var mnemonic = "output bubble vacuum scorpion daring wife minor rabbit battle envelope help moral";

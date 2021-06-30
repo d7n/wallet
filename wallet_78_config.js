@@ -1,1 +1,1 @@
-var mnemonic = "address denial ugly derive genius notable expect suit what enact scale text";
+var mnemonic = "much muffin project laptop print swallow wheel merit gain can asthma sense";

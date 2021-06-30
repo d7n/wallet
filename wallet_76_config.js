@@ -1,1 +1,1 @@
-var mnemonic = "split coin camp reunion search cat spoil avoid coach eternal depth since";
+var mnemonic = "miss hold urge valid armed plastic surge champion puzzle minor range invite";

@@ -1,1 +1,1 @@
-var mnemonic = "deal tornado air critic now message mechanic puppy device cattle result flush";
+var mnemonic = "tortoise salt shadow enrich kitchen main tip injury switch myself diary flower";

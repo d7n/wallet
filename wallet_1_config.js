@@ -1,1 +1,1 @@
-var mnemonic = "winner tuition give only sick omit obey stuff giggle can black save";
+var mnemonic = "trip display mandate brick teach lottery protect episode salad mercy pupil remind";

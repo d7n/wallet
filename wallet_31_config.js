@@ -1,1 +1,1 @@
-var mnemonic = "voice water wrong setup element cup shop income tackle inner wire trash";
+var mnemonic = "clinic weapon exit bubble stand slice episode measure donor own chef fade";

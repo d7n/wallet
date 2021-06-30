@@ -1,1 +1,1 @@
-var mnemonic = "capital void faculty car execute bone usual bonus exercise viable garage warm";
+var mnemonic = "depth echo legend invite build diet rebuild tribe diagram afford grass indoor";

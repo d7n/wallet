@@ -1,1 +1,1 @@
-var mnemonic = "mix problem title kidney usage life utility lyrics water illness goddess decline";
+var mnemonic = "deposit circle shoulder exact kite drive midnight broccoli patch move view home";

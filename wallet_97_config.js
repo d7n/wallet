@@ -1,1 +1,1 @@
-var mnemonic = "garden wife practice plate trim absent involve zoo defense twenty cement mention";
+var mnemonic = "donkey rail thank vintage time mansion mean bulb avocado bachelor fatigue crack";

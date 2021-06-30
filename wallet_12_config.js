@@ -1,1 +1,1 @@
-var mnemonic = "decorate kitchen noble unusual receive minor tape monitor stool surface retreat model";
+var mnemonic = "reason scissors same safe excess wild heart animal box nature giraffe now";

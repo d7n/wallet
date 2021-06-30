@@ -1,1 +1,1 @@
-var mnemonic = "day rely bid fossil crouch ivory phone vehicle inquiry lock pretty draw";
+var mnemonic = "bread mutual audit move tooth balance joke pool legend one hood pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "govern saddle isolate fragile wool focus kite ticket cheap usual infant magnet";
+var mnemonic = "pill churn tube sell sleep liar vivid remind hedgehog hotel tell biology";

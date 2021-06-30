@@ -1,1 +1,1 @@
-var mnemonic = "love canvas rather spot like begin axis duty jewel fox jump dance";
+var mnemonic = "brother exile scare parent remember rare pledge super brain heavy future team";

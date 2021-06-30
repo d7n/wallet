@@ -1,1 +1,1 @@
-var mnemonic = "spawn assume fly output sadness toast buzz muscle talk giraffe talent busy";
+var mnemonic = "worry waste faith suffer young round gallery insane rather few fix pottery";

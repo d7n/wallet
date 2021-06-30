@@ -1,1 +1,1 @@
-var mnemonic = "help wash purse dream distance glance craft joy build jar write embark";
+var mnemonic = "pioneer spoon plastic test outdoor food first slight peasant peanut squeeze flash";

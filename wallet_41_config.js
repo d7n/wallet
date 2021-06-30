@@ -1,1 +1,1 @@
-var mnemonic = "net equal robot happy promote apart banana run patient pigeon casual meat";
+var mnemonic = "tool pig cream owner culture coconut trial echo blush cheap exchange cool";

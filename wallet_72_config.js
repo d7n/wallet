@@ -1,1 +1,1 @@
-var mnemonic = "dragon deal reflect cheese when oppose this spatial solve addict pulse remind";
+var mnemonic = "depart drop pitch large expect jaguar next protect melody slot stove jazz";

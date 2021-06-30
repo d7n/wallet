@@ -1,1 +1,1 @@
-var mnemonic = "head tool direct install cabbage angle best refuse push input cliff frame";
+var mnemonic = "breeze shine cover fuel funny glare intact depend dentist cabin festival exhibit";

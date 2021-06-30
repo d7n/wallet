@@ -1,1 +1,1 @@
-var mnemonic = "plunge print business odor bullet cycle survey eagle ill plate tunnel antenna";
+var mnemonic = "stable flush thought tag soccer scatter mosquito envelope mean extra neutral polar";

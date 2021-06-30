@@ -1,1 +1,1 @@
-var mnemonic = "sample dizzy anger fury supply dial burden glad tumble bless point tennis";
+var mnemonic = "leader scorpion father slot mixture excess yard pepper sing artist focus spy";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar adjust town pole glad slam pelican best sense midnight alley carpet";
+var mnemonic = "repeat slogan chalk build shed infant noodle margin impulse chicken vote portion";

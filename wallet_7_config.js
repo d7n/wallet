@@ -1,1 +1,1 @@
-var mnemonic = "body photo eye echo arctic nerve execute skull flock retreat share aim";
+var mnemonic = "menu suggest quality knee warm main vault river left brass source mesh";

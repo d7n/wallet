@@ -1,1 +1,1 @@
-var mnemonic = "note hero tribe legend air glass island cool crystal lawsuit tomato genre";
+var mnemonic = "allow blur attract figure damage monster jump high news rice gate spare";

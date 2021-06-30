@@ -1,1 +1,1 @@
-var mnemonic = "dirt engage vault tomato pool eight solid use need fog piano weasel";
+var mnemonic = "view leader jewel service frequent length sport bar uniform view turtle wink";

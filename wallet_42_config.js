@@ -1,1 +1,1 @@
-var mnemonic = "help achieve match frame cushion ethics year circle submit ask maple garden";
+var mnemonic = "unaware memory hover black never luxury leopard loan song citizen cost shield";

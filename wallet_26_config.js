@@ -1,1 +1,1 @@
-var mnemonic = "boost denial box aisle range ability submit gospel task blue silk hair";
+var mnemonic = "double various person fade suit disagree depend jacket hair furnace enroll solve";

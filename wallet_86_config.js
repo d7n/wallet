@@ -1,1 +1,1 @@
-var mnemonic = "cat apart glue magnet pig angle issue flag hand poem display upgrade";
+var mnemonic = "enter sight mountain bomb annual wealth chest biology crazy segment tag scout";

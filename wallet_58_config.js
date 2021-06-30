@@ -1,1 +1,1 @@
-var mnemonic = "rather initial liar year gain head type cave grass subway body pulp";
+var mnemonic = "sheriff device supply miss fatal false claim entire runway icon trophy nurse";

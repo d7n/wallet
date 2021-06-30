@@ -1,1 +1,1 @@
-var mnemonic = "moment seven human reduce issue march space survey unique divide off move";
+var mnemonic = "east elite pride indicate spring you remain talent north quarter forward erode";

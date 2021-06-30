@@ -1,1 +1,1 @@
-var mnemonic = "hip unusual picture dinosaur knee wonder rug forest brief private portion twenty";
+var mnemonic = "february foot grid obvious peanut model above chimney coil spoil laptop party";

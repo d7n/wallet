@@ -1,1 +1,1 @@
-var mnemonic = "sample husband tone segment rigid protect winter torch lemon outdoor dizzy close";
+var mnemonic = "clock rice color physical trumpet code visa evoke short panel dust advance";

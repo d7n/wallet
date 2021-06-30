@@ -1,1 +1,1 @@
-var mnemonic = "puppy wreck rabbit narrow fix fee defy win hat leisure illness position";
+var mnemonic = "genre document drive bind brush ensure someone lemon matter useful interest post";

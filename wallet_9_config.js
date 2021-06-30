@@ -1,1 +1,1 @@
-var mnemonic = "execute other decide please gorilla crime roast city coyote crash surge bag";
+var mnemonic = "twenty describe cause oblige advice series eternal veteran obvious trap stadium student";

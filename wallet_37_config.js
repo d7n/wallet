@@ -1,1 +1,1 @@
-var mnemonic = "weird arrive ski fame upon foot bounce prepare uphold emerge blind recycle";
+var mnemonic = "fragile between evolve buzz grain rookie demand access fever noise warfare couple";

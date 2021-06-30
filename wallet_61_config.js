@@ -1,1 +1,1 @@
-var mnemonic = "mandate claim muffin shrug view opinion setup already evoke dial access sign";
+var mnemonic = "east knife cry grief when regular auction path fence tuition pyramid magnet";

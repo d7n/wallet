@@ -1,1 +1,1 @@
-var mnemonic = "make help prize elder develop under usage install target zero easily execute";
+var mnemonic = "air door cash churn vendor pig patient host cat sense disorder join";

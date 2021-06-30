@@ -1,1 +1,1 @@
-var mnemonic = "salmon admit flower relief weekend route scorpion federal venue leader cover govern";
+var mnemonic = "blame odor million bench mosquito merry come timber anger stuff divorce old";
