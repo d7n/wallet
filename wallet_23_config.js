@@ -1,1 +1,1 @@
-var mnemonic = "outdoor idle cigar green lunar embrace quantum bike alone evil veteran among";
+var mnemonic = "toast december drastic switch hat typical soon bubble boost dismiss benefit prepare";

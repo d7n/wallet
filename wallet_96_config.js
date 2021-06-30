@@ -1,1 +1,1 @@
-var mnemonic = "check neutral midnight print actual entry fence cube pact artwork flash advance";
+var mnemonic = "vicious garden proof square arena kind open tragic tobacco civil dish thing";

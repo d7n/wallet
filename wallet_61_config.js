@@ -1,1 +1,1 @@
-var mnemonic = "confirm together horror hobby cake torch during make demise toe inner tag";
+var mnemonic = "phrase casino tip shuffle evidence price behave search fit curtain famous feel";

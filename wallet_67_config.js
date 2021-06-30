@@ -1,1 +1,1 @@
-var mnemonic = "enjoy grain law vault chat melt visa planet ancient bike fault bind";
+var mnemonic = "season woman tell jar heart typical boss park tourist afraid usage type";

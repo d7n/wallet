@@ -1,1 +1,1 @@
-var mnemonic = "piece coast bike drip weasel resist immune rebel picnic rib faint thing";
+var mnemonic = "people spoon below choice response answer cheap pet kind market hobby brief";

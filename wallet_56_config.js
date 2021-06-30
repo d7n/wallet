@@ -1,1 +1,1 @@
-var mnemonic = "science gossip lift answer inherit slush twice crucial exclude subject dinosaur machine";
+var mnemonic = "celery review pass huge fee treat toward term noble frog gap monkey";

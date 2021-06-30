@@ -1,1 +1,1 @@
-var mnemonic = "certain smile faint solve source gap speak unusual oak matter flock tired";
+var mnemonic = "appear train ivory trade artist tape slot chat album tackle genre artist";

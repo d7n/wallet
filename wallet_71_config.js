@@ -1,1 +1,1 @@
-var mnemonic = "top essence immense news toy left bar vessel sail tackle scale wall";
+var mnemonic = "release pill company differ ask polar away rally grocery away pencil assault";

@@ -1,1 +1,1 @@
-var mnemonic = "core victory clinic exercise humor record layer cancel nut neck mango spin";
+var mnemonic = "front question miss square salad spare rally spice bring business occur group";

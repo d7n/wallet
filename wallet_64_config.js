@@ -1,1 +1,1 @@
-var mnemonic = "skate one slice list member violin cause hand random miracle unusual maximum";
+var mnemonic = "initial virus question explain monster silk trumpet network snow assume glare myself";

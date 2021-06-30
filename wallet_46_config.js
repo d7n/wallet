@@ -1,1 +1,1 @@
-var mnemonic = "oxygen raven cover moment require idle sort glow car battle palace attract";
+var mnemonic = "shock beauty turkey dove barrel slot rough album kit equip gift taste";

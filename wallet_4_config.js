@@ -1,1 +1,1 @@
-var mnemonic = "sport shy album cross acquire powder mule claw assault exercise reveal artefact";
+var mnemonic = "angry memory tilt abuse sadness exercise nut electric draft reunion novel juice";

@@ -1,1 +1,1 @@
-var mnemonic = "spell flower dynamic impulse between dragon net judge random faith lounge sausage";
+var mnemonic = "analyst demise door ribbon meadow velvet cart pretty country tiny memory device";

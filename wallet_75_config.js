@@ -1,1 +1,1 @@
-var mnemonic = "mystery local chat drama dream switch today steak fork repair limit tray";
+var mnemonic = "forest arrive nose door hover piece deer acid injury nation keen harbor";

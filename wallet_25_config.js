@@ -1,1 +1,1 @@
-var mnemonic = "assume owner goddess quiz already belt cancel age hold elite rug tenant";
+var mnemonic = "medal ship marriage flat liquid business ring school want myth tunnel kite";

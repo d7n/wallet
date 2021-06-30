@@ -1,1 +1,1 @@
-var mnemonic = "polar alley exchange chat onion damp arena possible minimum dinner siege mercy";
+var mnemonic = "tongue vessel trade zero crime mutual penalty harbor adapt monster juice symbol";

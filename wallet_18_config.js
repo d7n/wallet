@@ -1,1 +1,1 @@
-var mnemonic = "flock soccer chalk cloud liberty man earth course trap damage hidden peasant";
+var mnemonic = "wealth famous tribe monster odor stomach fossil glory lunch income accuse rely";

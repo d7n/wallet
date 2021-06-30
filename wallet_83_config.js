@@ -1,1 +1,1 @@
-var mnemonic = "lemon price brown filter bottom indoor mass hammer hand awful borrow insane";
+var mnemonic = "oven economy maple flavor smart advice game usage cabin strategy bike canal";

@@ -1,1 +1,1 @@
-var mnemonic = "garage magnet mix rival upset limit plug trophy cricket citizen indicate breeze";
+var mnemonic = "sign unhappy boring suffer goat sibling include uphold radio critic garbage slim";

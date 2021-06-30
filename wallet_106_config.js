@@ -1,1 +1,1 @@
-var mnemonic = "man render fog coin flock under slogan pupil lyrics gift arctic athlete";
+var mnemonic = "hint story can explain february radar consider water park orbit only vendor";

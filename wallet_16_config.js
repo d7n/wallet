@@ -1,1 +1,1 @@
-var mnemonic = "satoshi lesson calm spawn fiction traffic august skin cheese broom tiger flavor";
+var mnemonic = "funny machine submit lecture grape page tuna crystal obey worry undo month";

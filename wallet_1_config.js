@@ -1,1 +1,1 @@
-var mnemonic = "cram journey bread sentence hybrid wife seed custom sudden hood make consider";
+var mnemonic = "fox ivory oval gallery motion sense endless lizard magnet build hold ritual";

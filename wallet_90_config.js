@@ -1,1 +1,1 @@
-var mnemonic = "agree north neck column frog ethics museum there unique parade embody novel";
+var mnemonic = "similar unique tumble member sleep praise term pledge polar razor there trap";

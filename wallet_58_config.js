@@ -1,1 +1,1 @@
-var mnemonic = "orbit belt scrub struggle bike lift tissue ticket talk skill innocent dignity";
+var mnemonic = "wasp upon hobby face drum orbit involve powder surface walnut photo edge";

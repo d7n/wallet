@@ -1,1 +1,1 @@
-var mnemonic = "magnet devote pitch mandate name play distance basket inhale issue slab fan";
+var mnemonic = "install alarm risk setup impulse inch twenty behind boat leopard wisdom ring";

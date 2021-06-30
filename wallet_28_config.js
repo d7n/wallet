@@ -1,1 +1,1 @@
-var mnemonic = "asthma view town reform april horn worry butter wrap cloth skull verb";
+var mnemonic = "print patrol youth cake hospital list churn easily design subway enough toe";

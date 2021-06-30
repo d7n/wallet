@@ -1,1 +1,1 @@
-var mnemonic = "broccoli doll century artist visa tent grow ribbon traffic need airport deliver";
+var mnemonic = "keep want apology gate glow undo kit suggest casino garment unit sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "nation moral pear solar inner win aerobic multiply dose anchor frown child";
+var mnemonic = "ready tuna mandate dilemma pave pet web proof celery calm grid way";

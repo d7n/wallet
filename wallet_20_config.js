@@ -1,1 +1,1 @@
-var mnemonic = "stereo crowd hybrid seek reveal effort rebuild sad fabric cruise sunset father";
+var mnemonic = "someone hockey soap huge seven gorilla awesome quote symbol farm fire thank";

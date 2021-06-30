@@ -1,1 +1,1 @@
-var mnemonic = "razor oxygen hood hobby expand mass much castle picnic suspect sister narrow";
+var mnemonic = "tonight favorite occur book chest hazard hundred system dial six bitter spy";

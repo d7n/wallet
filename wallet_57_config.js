@@ -1,1 +1,1 @@
-var mnemonic = "trick always image owner number advance announce warm vague latin banana bless";
+var mnemonic = "inner notice ranch quit often rely stomach number pen pave sausage region";

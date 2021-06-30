@@ -1,1 +1,1 @@
-var mnemonic = "immense guard employ clip awkward home shallow welcome decade choose spin bicycle";
+var mnemonic = "cliff endless climb worry uniform space salt predict side main disorder beyond";

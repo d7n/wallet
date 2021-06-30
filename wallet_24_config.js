@@ -1,1 +1,1 @@
-var mnemonic = "front eagle reopen diesel hurt budget walk ritual orphan dirt verify range";
+var mnemonic = "student antique pottery medal install chimney outer more prevent quality lesson knife";

@@ -1,1 +1,1 @@
-var mnemonic = "salute reject jaguar female cat mean phrase vital about laptop silly basket";
+var mnemonic = "grief island dad home pepper carbon merry brown shrug pencil loyal express";

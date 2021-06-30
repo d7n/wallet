@@ -1,1 +1,1 @@
-var mnemonic = "client century famous process embark rely discover confirm arrange utility jelly wide";
+var mnemonic = "census multiply search april solar damp hungry double inmate eyebrow fox ribbon";

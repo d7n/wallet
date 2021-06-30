@@ -1,1 +1,1 @@
-var mnemonic = "author gospel okay distance improve run drift connect note extend list retreat";
+var mnemonic = "intact extra envelope consider raccoon submit senior lab rack page true virtual";

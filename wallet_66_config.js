@@ -1,1 +1,1 @@
-var mnemonic = "gown birth runway mechanic candy prize apple possible festival accuse earth knife";
+var mnemonic = "athlete effort word deposit champion harsh runway water crowd seven toy bracket";

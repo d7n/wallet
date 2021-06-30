@@ -1,1 +1,1 @@
-var mnemonic = "clap dust brand avocado have jacket photo run dentist lumber that hazard";
+var mnemonic = "wasp salt muscle fortune drive fiscal worry design never sleep hungry island";

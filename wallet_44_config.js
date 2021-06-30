@@ -1,1 +1,1 @@
-var mnemonic = "cruel only ask sell entry brown clump give entire hazard develop success";
+var mnemonic = "chicken convince kind cattle pave spend wood eternal essence south shoot crucial";

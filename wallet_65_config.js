@@ -1,1 +1,1 @@
-var mnemonic = "supply tell smoke clean simple noble grief lunar episode beef wheel jazz";
+var mnemonic = "pledge real vacuum curtain brisk sick dry dutch height south raccoon junior";

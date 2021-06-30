@@ -1,1 +1,1 @@
-var mnemonic = "vacant focus enhance endorse issue stool device mechanic police inch feature theory";
+var mnemonic = "glance solid giant orbit minute crawl retire clever together citizen fork slogan";

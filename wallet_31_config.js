@@ -1,1 +1,1 @@
-var mnemonic = "this memory cable warm copy imitate letter aerobic afraid wash keen firm";
+var mnemonic = "priority fish winter twenty capital grape glance decline hard lava physical sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder pioneer hurry surprise tobacco pumpkin argue elephant remind lake wasp either";
+var mnemonic = "guard fossil year soup siren true poverty patch waste fiber obtain reward";

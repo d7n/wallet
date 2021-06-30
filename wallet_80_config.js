@@ -1,1 +1,1 @@
-var mnemonic = "plug auction gravity reform unique swap annual chase any hotel exhibit bacon";
+var mnemonic = "improve discover indoor joy sand fold hungry check pull divide prevent position";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby lift pulse wear hammer agree acquire boss pause veteran reopen mixture";
+var mnemonic = "capital unique water science tissue frog olive ability caught van destroy income";

@@ -1,1 +1,1 @@
-var mnemonic = "property illegal miracle glory immune police transfer noise long blue sheriff divorce";
+var mnemonic = "turn blush proof require now test area lake know town problem music";

@@ -1,1 +1,1 @@
-var mnemonic = "ride sibling brand enforce culture help stairs music velvet mammal alarm acoustic";
+var mnemonic = "club round math borrow toss pave cover perfect audit need echo arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "cage congress royal into reward blouse alpha oblige similar pistol sell boost";
+var mnemonic = "purpose maze balance any fee exhaust sorry link beyond tumble family shy";

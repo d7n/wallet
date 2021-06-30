@@ -1,1 +1,1 @@
-var mnemonic = "phone kidney dinosaur pig welcome arctic long icon rival assault balcony garbage";
+var mnemonic = "fashion cart pink outer note glare portion pony cause resemble siren argue";

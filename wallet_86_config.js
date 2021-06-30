@@ -1,1 +1,1 @@
-var mnemonic = "angle chaos genius defy tissue over kind city pottery sausage action silly";
+var mnemonic = "artwork sail link mom world kind city grape obvious mandate symptom pencil";

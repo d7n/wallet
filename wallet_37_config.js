@@ -1,1 +1,1 @@
-var mnemonic = "behave early refuse acquire begin pony radar blue chief crunch jungle silly";
+var mnemonic = "chapter move tattoo online coil about pitch post strike choice forget echo";

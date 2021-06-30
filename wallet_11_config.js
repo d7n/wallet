@@ -1,1 +1,1 @@
-var mnemonic = "front menu myself dash universe off multiply hair burden guess noodle document";
+var mnemonic = "illegal ship pig vacant doctor quit shallow act senior exit radar what";

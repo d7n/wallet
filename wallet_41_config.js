@@ -1,1 +1,1 @@
-var mnemonic = "pudding large erase lobster faculty wait agree business weekend monster blossom salt";
+var mnemonic = "cactus uncover raven equip math minor sketch under survey gospel bid genuine";

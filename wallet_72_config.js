@@ -1,1 +1,1 @@
-var mnemonic = "mandate cinnamon penalty display chair outside confirm canal smart million alley hundred";
+var mnemonic = "alien help enlist ahead ocean modify sample attitude seek shell quit disagree";

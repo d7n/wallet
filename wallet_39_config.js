@@ -1,1 +1,1 @@
-var mnemonic = "reveal curious hybrid tortoise never fine mean front make suffer want noise";
+var mnemonic = "trap wool dose detail super host mother alcohol fade they arrange fix";

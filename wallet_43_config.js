@@ -1,1 +1,1 @@
-var mnemonic = "assault gown easy pioneer proud butter dumb witness welcome whisper various this";
+var mnemonic = "keep again session bunker corn pumpkin blossom brief laptop meadow material liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen nest winner question popular unaware address stone pony three soldier enhance";
+var mnemonic = "wash uphold deputy apology angry fan lunch swift undo orchard rescue wild";

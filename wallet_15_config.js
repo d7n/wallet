@@ -1,1 +1,1 @@
-var mnemonic = "arctic wash apple auto useful never abstract awesome solar common inner bone";
+var mnemonic = "clerk spare dwarf square chunk similar penalty chunk rubber abuse water slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "doll ordinary heart any kit social very topic deny orphan fix remind";
+var mnemonic = "artwork unlock style around tornado broom visit bid defense marine ethics paper";

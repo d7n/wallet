@@ -1,1 +1,1 @@
-var mnemonic = "clog hockey program urge eternal select shiver dry height employ pride struggle";
+var mnemonic = "scatter uncover ahead chef perfect vocal violin sweet scheme punch viable window";

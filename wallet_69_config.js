@@ -1,1 +1,1 @@
-var mnemonic = "alone pencil culture nephew another initial tape movie soon glove diamond gauge";
+var mnemonic = "picture paddle moment lonely trim hand attitude daring frequent place rival upset";

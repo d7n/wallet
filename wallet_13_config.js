@@ -1,1 +1,1 @@
-var mnemonic = "improve museum spray tomato harsh drill farm zero coin sudden pulp rude";
+var mnemonic = "honey neglect over salad ethics usual debris rubber have sign include lady";

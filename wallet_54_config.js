@@ -1,1 +1,1 @@
-var mnemonic = "inhale captain dwarf govern humor civil mango envelope correct small play speak";
+var mnemonic = "truth salt weekend mutual very phone august syrup drama leader napkin pelican";

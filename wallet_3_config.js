@@ -1,1 +1,1 @@
-var mnemonic = "thank sword vicious time snow mountain story iron scene open client bean";
+var mnemonic = "aisle upon behind dentist target enrich kangaroo open rocket fish cloud suspect";

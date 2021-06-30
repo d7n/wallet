@@ -1,1 +1,1 @@
-var mnemonic = "desert erupt face cover dinner style ancient advice brief shallow post accuse";
+var mnemonic = "fish soul calm kitten once economy game guard street prepare word slight";

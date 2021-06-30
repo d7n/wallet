@@ -1,1 +1,1 @@
-var mnemonic = "bachelor reward angle balance drastic about before waste sun travel alter distance";
+var mnemonic = "can police raven tree naive tornado indicate audit speak sustain dove luggage";

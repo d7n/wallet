@@ -1,1 +1,1 @@
-var mnemonic = "truth review hello visit bomb permit off thing consider blossom echo fresh";
+var mnemonic = "uphold dry measure multiply office august grass suspect heart right reunion magic";

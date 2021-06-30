@@ -1,1 +1,1 @@
-var mnemonic = "mother similar nerve arrive copper feed fame payment arena speak bottom amazing";
+var mnemonic = "arch dune cute design prepare garment industry sister text rain frozen throw";

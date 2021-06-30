@@ -1,1 +1,1 @@
-var mnemonic = "script fly peanut snake mass enroll barrel ranch key attend turtle fashion";
+var mnemonic = "vacant report simple tree hill shy dawn discover orbit huge vendor reduce";

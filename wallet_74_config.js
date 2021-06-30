@@ -1,1 +1,1 @@
-var mnemonic = "obvious resemble orphan raccoon spread clever typical neutral visual round effort tunnel";
+var mnemonic = "nation clutch roast debris basic quit must fragile finger adapt injury shiver";

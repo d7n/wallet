@@ -1,1 +1,1 @@
-var mnemonic = "illness country stone denial gospel weasel exclude flash engage chat guitar verify";
+var mnemonic = "hip little gap chuckle salad write gown flower flash strong vibrant intact";

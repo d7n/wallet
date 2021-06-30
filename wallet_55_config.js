@@ -1,1 +1,1 @@
-var mnemonic = "crystal breeze kingdom hospital cattle mother gold track bachelor clip train disagree";
+var mnemonic = "blue endorse cinnamon tattoo dial sibling offer brown crew dance donor awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "drift image document pull picnic service this labor dust magic garden chunk";
+var mnemonic = "retreat bless planet dune draw grape core luggage ankle spy loyal surprise";

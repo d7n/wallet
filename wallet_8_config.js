@@ -1,1 +1,1 @@
-var mnemonic = "mail gain isolate license property alert gift hair midnight fatigue excite voice";
+var mnemonic = "help grass cheese sight catalog dove goddess require theory dilemma pyramid deny";

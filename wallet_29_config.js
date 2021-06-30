@@ -1,1 +1,1 @@
-var mnemonic = "forget decrease feature garlic vessel stove horse magic town vital observe ripple";
+var mnemonic = "stomach clip couple elegant apple minor blood apple love note salon flip";

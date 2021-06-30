@@ -1,1 +1,1 @@
-var mnemonic = "joy brisk game lucky this noodle seminar banner chest business again alert";
+var mnemonic = "spawn sudden burst ancient baby large insect deny excite toddler beauty movie";

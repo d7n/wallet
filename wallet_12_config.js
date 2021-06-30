@@ -1,1 +1,1 @@
-var mnemonic = "vague fatigue present super pass timber globe chuckle stomach drum fold fuel";
+var mnemonic = "hub trip bunker group dune destroy together place crisp volume spirit enhance";

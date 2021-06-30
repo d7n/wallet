@@ -1,1 +1,1 @@
-var mnemonic = "purpose entry actual shell entire section benefit canyon cruel tortoise object episode";
+var mnemonic = "thought this else tumble holiday coyote orchard rack sadness foot crane jacket";

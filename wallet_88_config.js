@@ -1,1 +1,1 @@
-var mnemonic = "grunt clarify crouch noise marine design oppose stool insane wolf nuclear duck";
+var mnemonic = "blade ghost brown boring child fuel antique involve section accident correct capital";

@@ -1,1 +1,1 @@
-var mnemonic = "similar relax answer frequent ten fiction shoot swing wheel derive trade truth";
+var mnemonic = "glide fantasy daughter knock parrot dragon expand vital wrestle warm box wrestle";

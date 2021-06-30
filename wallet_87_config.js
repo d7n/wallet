@@ -1,1 +1,1 @@
-var mnemonic = "elephant danger gossip helmet dentist rail buzz slow extend service salad orbit";
+var mnemonic = "range pulse genuine property frog moment gallery economy flush glue idle feed";

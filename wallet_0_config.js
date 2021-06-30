@@ -1,1 +1,1 @@
-var mnemonic = "shuffle pause credit mechanic drive model gate hair ill olympic lawn void";
+var mnemonic = "letter lounge worth old bike afford before slender unusual easily blur board";

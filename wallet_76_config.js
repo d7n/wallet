@@ -1,1 +1,1 @@
-var mnemonic = "tube pride depart absorb book wisdom orbit story engine clump similar dirt";
+var mnemonic = "huge arrange source fiscal vivid juice cost video grace mass famous visual";

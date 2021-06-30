@@ -1,1 +1,1 @@
-var mnemonic = "apple ritual toast outside smooth manage risk improve deal rain bag razor";
+var mnemonic = "pen joke delay weekend scheme achieve much biology index endless rebel market";
