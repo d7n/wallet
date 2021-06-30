@@ -1,1 +1,1 @@
-var mnemonic = "elbow wonder board clarify corn rule prefer tattoo father pause harvest three";
+var mnemonic = "mansion senior weather coin device tackle trap food celery report strong photo";

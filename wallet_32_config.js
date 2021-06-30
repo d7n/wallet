@@ -1,1 +1,1 @@
-var mnemonic = "evoke cage suffer paddle pact reflect film spirit twelve cream train wear";
+var mnemonic = "run garlic hockey quality involve domain prevent rebel art badge license theory";

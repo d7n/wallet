@@ -1,1 +1,1 @@
-var mnemonic = "dad kangaroo mixed rescue van lunar satoshi infant sing main cigar analyst";
+var mnemonic = "define weird deputy weekend refuse brave rib alley you surge wasp reject";

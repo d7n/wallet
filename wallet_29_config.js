@@ -1,1 +1,1 @@
-var mnemonic = "magnet use wide coil crime frozen cluster super modify satisfy garbage describe";
+var mnemonic = "champion super clutch find own trip maze math magic today first marriage";

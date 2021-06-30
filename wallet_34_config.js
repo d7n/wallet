@@ -1,1 +1,1 @@
-var mnemonic = "town deal alert salt road coach document suspect flash tone guilt clerk";
+var mnemonic = "way van issue park license robust cactus when expire cement fan sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid shift outdoor useful twin distance pluck window soup confirm stand exist";
+var mnemonic = "green cry leaf inspire tuition poet illegal judge scare shield skirt manual";

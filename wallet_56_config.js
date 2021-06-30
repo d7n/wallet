@@ -1,1 +1,1 @@
-var mnemonic = "knee unaware woman arrest sphere recycle flower staff silent hope caution keen";
+var mnemonic = "develop fiscal risk tortoise seek expire tilt damage crane answer satoshi potato";

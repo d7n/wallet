@@ -1,1 +1,1 @@
-var mnemonic = "medal basket cash prefer alert avocado sell tone artwork swarm void horn";
+var mnemonic = "display shine awkward addict welcome evidence flight hurt purchase uncle kiwi slush";

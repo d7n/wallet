@@ -1,1 +1,1 @@
-var mnemonic = "spawn stone round else film notice story ethics rug bomb phrase horse";
+var mnemonic = "trap color pass leave exact hundred figure valve neglect banner powder mobile";

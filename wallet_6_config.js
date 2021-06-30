@@ -1,1 +1,1 @@
-var mnemonic = "tomato cart dizzy nominee spring sugar burst few fiscal vehicle undo opera";
+var mnemonic = "inject wet mystery anchor stem gather blush team level volume gentle balance";

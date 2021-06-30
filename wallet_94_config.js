@@ -1,1 +1,1 @@
-var mnemonic = "bleak acoustic reason bullet media viable soccer poet page stock world sheriff";
+var mnemonic = "jewel law bonus error script length device smile talent rib clerk sign";

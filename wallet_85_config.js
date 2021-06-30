@@ -1,1 +1,1 @@
-var mnemonic = "age will security salon police arena thumb monkey cry clown tiny today";
+var mnemonic = "zoo because turn shock rose combine rubber ostrich busy voyage cotton winter";

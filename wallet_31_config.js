@@ -1,1 +1,1 @@
-var mnemonic = "vintage curious timber charge speak menu frost bean modify random bracket laundry";
+var mnemonic = "poverty avocado else domain siren guilt question perfect loud under impose reject";

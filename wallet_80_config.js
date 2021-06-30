@@ -1,1 +1,1 @@
-var mnemonic = "satoshi board liquid nerve annual butter beef save reduce boost violin sausage";
+var mnemonic = "angry core unfair detail price canyon abuse goose nurse wreck buzz heart";

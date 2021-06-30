@@ -1,1 +1,1 @@
-var mnemonic = "deputy have love eyebrow race laptop major admit battle cable merge solar";
+var mnemonic = "hazard proof carpet gorilla about era diet inhale purpose begin switch virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "bus dignity friend educate code nature critic clown about crack core empty";
+var mnemonic = "all absurd put rookie receive rich nut decade wood isolate patrol keep";

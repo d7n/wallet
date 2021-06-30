@@ -1,1 +1,1 @@
-var mnemonic = "civil ordinary false wisdom skull will swap hip actual virus truth axis";
+var mnemonic = "midnight twelve crime fly stadium page sausage hill lounge few ripple volcano";

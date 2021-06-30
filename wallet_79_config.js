@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog boat hospital define february boat dune thing spoon arrange drill decade";
+var mnemonic = "armor bind observe box squeeze bitter midnight hybrid argue unfold wealth snake";

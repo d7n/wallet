@@ -1,1 +1,1 @@
-var mnemonic = "prison smart inner fault prize force primary pistol peace mimic hamster finger";
+var mnemonic = "awful luggage payment jungle paddle moral promote apple glass spend radio asset";

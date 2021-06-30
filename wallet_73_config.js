@@ -1,1 +1,1 @@
-var mnemonic = "aware air chef recall glance govern people portion coin amateur future myth";
+var mnemonic = "option tree region trust copy utility rain thumb nurse expand install urban";

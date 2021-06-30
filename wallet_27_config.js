@@ -1,1 +1,1 @@
-var mnemonic = "solar case buddy mixed mixed honey divert gasp keen crystal nothing scissors";
+var mnemonic = "vintage business episode cake galaxy skill ginger trade daughter repair balcony use";

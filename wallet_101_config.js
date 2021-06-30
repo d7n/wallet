@@ -1,1 +1,1 @@
-var mnemonic = "view chief purse oak under gift fall still spoil electric knee ramp";
+var mnemonic = "awkward acid consider eternal alter fly aspect rubber company senior fruit menu";

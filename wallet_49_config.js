@@ -1,1 +1,1 @@
-var mnemonic = "success warm chaos salt undo figure reduce fashion frame kingdom conduct logic";
+var mnemonic = "wool salute physical give code crucial clap maple humor acquire false together";

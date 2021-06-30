@@ -1,1 +1,1 @@
-var mnemonic = "timber polar rough once ghost sunset pair alpha bubble carry citizen soul";
+var mnemonic = "seminar crane pepper desert curious unhappy connect neck girl loyal below promote";

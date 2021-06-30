@@ -1,1 +1,1 @@
-var mnemonic = "fix vicious flush tide west expand save rebel proud trial aim boat";
+var mnemonic = "seven voyage human agree name roof initial wall tourist imitate beach marine";

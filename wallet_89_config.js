@@ -1,1 +1,1 @@
-var mnemonic = "neutral mechanic pencil world thing amount soap used say satoshi tired yard";
+var mnemonic = "below damp fashion blast sun devote drill wolf shell mango merry budget";

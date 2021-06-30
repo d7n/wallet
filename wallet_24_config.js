@@ -1,1 +1,1 @@
-var mnemonic = "decide wool wisdom ordinary pilot stereo uncover candy lava correct endless border";
+var mnemonic = "wait run slide scale endorse cotton slide sibling motor crash boat way";

@@ -1,1 +1,1 @@
-var mnemonic = "seek need whale correct victory heart wisdom club enforce cart debate sweet";
+var mnemonic = "rifle journey find power enroll leaf lumber myself heart math lounge attract";

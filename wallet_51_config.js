@@ -1,1 +1,1 @@
-var mnemonic = "camp like credit question category abandon ginger lunch rib father monitor course";
+var mnemonic = "smooth diet pond found turkey multiply require capital vibrant portion sauce rug";

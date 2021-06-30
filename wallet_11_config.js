@@ -1,1 +1,1 @@
-var mnemonic = "chat galaxy future myself major suggest measure fee cruel tired museum essence";
+var mnemonic = "syrup horror despair arch dignity broken ramp install style sauce file pelican";

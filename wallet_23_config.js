@@ -1,1 +1,1 @@
-var mnemonic = "this episode owner utility hunt unknown slender climb sound guess undo across";
+var mnemonic = "dilemma prison stomach phrase harbor fiscal tooth balcony damage solar frost melt";

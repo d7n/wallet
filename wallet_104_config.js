@@ -1,1 +1,1 @@
-var mnemonic = "blame urge win tumble juice between grass galaxy illness real month photo";
+var mnemonic = "gold ignore bright crouch guide boy door arrange dignity alien observe eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "fire cream theory clock produce man course very welcome vessel ugly obtain";
+var mnemonic = "finish index vanish version crush viable penalty kiwi village actual badge vintage";

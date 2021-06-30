@@ -1,1 +1,1 @@
-var mnemonic = "unit put minimum movie divorce accident vast link salute estate nerve myth";
+var mnemonic = "such attract volume clog vacant ice demise deposit area please keen can";

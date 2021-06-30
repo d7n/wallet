@@ -1,1 +1,1 @@
-var mnemonic = "auction neutral bench grid coyote potato output chat payment couch bulk detect";
+var mnemonic = "average enact episode interest pill goddess toddler distance insect orchard mistake reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "thing guilt primary joy logic permit amused embark web seat man come";
+var mnemonic = "illness poet stomach neither wink illness dignity often cool sudden early stomach";

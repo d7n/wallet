@@ -1,1 +1,1 @@
-var mnemonic = "spare minor doctor senior right wrist flavor swamp immune safe winter ring";
+var mnemonic = "luggage fine focus recipe gate duty scene risk country child obtain april";

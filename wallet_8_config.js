@@ -1,1 +1,1 @@
-var mnemonic = "letter announce fatigue idle unable learn essay hero near term harvest soccer";
+var mnemonic = "mobile vocal arch napkin gospel area slender trouble whale letter fault yard";

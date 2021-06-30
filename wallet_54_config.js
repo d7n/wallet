@@ -1,1 +1,1 @@
-var mnemonic = "era mobile sorry topple rib genius direct tent birth found whip yard";
+var mnemonic = "own organ sport knock supply health near scrap flash balance essay describe";

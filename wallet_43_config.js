@@ -1,1 +1,1 @@
-var mnemonic = "aware vague method shove gaze between hard day exchange pistol tennis cry";
+var mnemonic = "cycle harsh galaxy catalog unfold kangaroo swamp narrow lobster bean state rude";

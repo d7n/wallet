@@ -1,1 +1,1 @@
-var mnemonic = "near forward dignity unfair debate cereal van enjoy visit seek salad fade";
+var mnemonic = "shoulder side address squirrel early spice avoid similar budget match resource intact";

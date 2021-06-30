@@ -1,1 +1,1 @@
-var mnemonic = "tone earn rural midnight avoid client clay token drama regret stone walk";
+var mnemonic = "number wheel purse capital gentle pudding under cushion embark clerk can famous";

@@ -1,1 +1,1 @@
-var mnemonic = "crush narrow obvious exist visit level guide oblige immune grief trumpet obvious";
+var mnemonic = "stick mad roof sand protect cost frequent fatigue omit extend dismiss cruise";

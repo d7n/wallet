@@ -1,1 +1,1 @@
-var mnemonic = "warrior unfold rose crystal capital inside wood aerobic win mouse mask relax";
+var mnemonic = "hour deer december indicate pipe iron auto bright capable private drastic tonight";

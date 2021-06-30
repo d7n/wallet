@@ -1,1 +1,1 @@
-var mnemonic = "city boring twenty alarm vessel infant cinnamon keen item engage gallery alarm";
+var mnemonic = "base size guilt wedding rotate aim sword select royal offer fetch entry";

@@ -1,1 +1,1 @@
-var mnemonic = "legal nephew sing wonder fresh close soul shadow rose village vibrant craft";
+var mnemonic = "million since cable survey myself mandate labor amazing planet mistake clerk give";

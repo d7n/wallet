@@ -1,1 +1,1 @@
-var mnemonic = "defense tattoo table use depart document huge sponsor frog vicious position visit";
+var mnemonic = "trim feel short embrace injury hunt trend joy raise room rabbit excess";

@@ -1,1 +1,1 @@
-var mnemonic = "error eager awkward cannon stadium grass mechanic exile garbage owner card whale";
+var mnemonic = "sell cry gold symptom muscle motion fragile initial meadow rain game abstract";

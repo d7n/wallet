@@ -1,1 +1,1 @@
-var mnemonic = "session border doll antique evil noble sight gentle verify replace since round";
+var mnemonic = "crystal stamp tornado defy hard record among crawl number ladder female slot";

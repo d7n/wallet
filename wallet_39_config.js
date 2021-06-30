@@ -1,1 +1,1 @@
-var mnemonic = "type trend mesh brain merit runway together muffin excite ecology scissors bubble";
+var mnemonic = "struggle this submit version topple found abandon bomb napkin sketch meat crunch";

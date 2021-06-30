@@ -1,1 +1,1 @@
-var mnemonic = "stock flower great search bid broken lab stumble magic hedgehog away father";
+var mnemonic = "work spring stove lamp stairs ship apple pink flower ghost coconut unable";

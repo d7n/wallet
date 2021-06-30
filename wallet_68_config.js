@@ -1,1 +1,1 @@
-var mnemonic = "gym trade range bundle habit electric wonder later casual domain bachelor process";
+var mnemonic = "flavor glance blue above prison glue error home speed auto power cover";

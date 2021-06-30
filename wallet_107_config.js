@@ -1,1 +1,1 @@
-var mnemonic = "urge hover protect fork lazy curious paddle borrow claim point nominee enjoy";
+var mnemonic = "october hello method abandon night guess runway warfare rail guard spell wine";

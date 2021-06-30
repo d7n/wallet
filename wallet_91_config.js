@@ -1,1 +1,1 @@
-var mnemonic = "fade crunch strike affair talk view lunar absurd census absorb sport join";
+var mnemonic = "release wait refuse tide sail absent task laptop apple coffee supreme tiger";

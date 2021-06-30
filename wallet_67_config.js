@@ -1,1 +1,1 @@
-var mnemonic = "myself case develop dune tail also stomach raw accident seed palace dinner";
+var mnemonic = "off balcony inch mass forget exhaust kiwi wisdom ride thrive law capital";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy boat bless prepare nuclear better chef impact spatial above little radio";
+var mnemonic = "jar toilet predict high whisper sadness napkin sense exit scheme reject poverty";

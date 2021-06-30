@@ -1,1 +1,1 @@
-var mnemonic = "toss bind sister fork flag topple initial salad artefact undo jar bullet";
+var mnemonic = "useless wood life quit solid raw consider refuse lunch evolve crop rule";

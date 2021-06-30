@@ -1,1 +1,1 @@
-var mnemonic = "green subway tattoo joy immune color wolf calm taste sausage explain firm";
+var mnemonic = "between apology bus type entire boring clinic asset blouse arrange okay absent";

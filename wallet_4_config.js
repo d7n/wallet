@@ -1,1 +1,1 @@
-var mnemonic = "radio prevent nuclear drip humor crack sister stadium roof enhance gospel hungry";
+var mnemonic = "dash whip govern start fringe drive left syrup approve loyal sponsor catalog";

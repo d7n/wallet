@@ -1,1 +1,1 @@
-var mnemonic = "that burger clay cattle future jaguar coin cereal void senior whale van";
+var mnemonic = "grant quit bubble trophy pulp embody frost check thunder yellow wise rabbit";

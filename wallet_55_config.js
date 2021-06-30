@@ -1,1 +1,1 @@
-var mnemonic = "skirt trick copper crew chalk trap carpet goddess length act trade huge";
+var mnemonic = "thank scan dentist mammal cushion cool rate hammer border turtle silver mask";

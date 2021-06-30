@@ -1,1 +1,1 @@
-var mnemonic = "wage crater another always strategy race theory saddle monkey below deny country";
+var mnemonic = "odor stereo awake buddy sketch venture exclude flat lady arch pause assume";

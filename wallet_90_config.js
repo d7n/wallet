@@ -1,1 +1,1 @@
-var mnemonic = "matrix wife laundry wedding shoulder genre sea skin hero ripple tackle table";
+var mnemonic = "describe afford main capable gloom lucky response salt across armed marble fancy";

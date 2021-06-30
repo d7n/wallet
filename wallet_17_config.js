@@ -1,1 +1,1 @@
-var mnemonic = "monkey settle consider kit also meat office gun gift luggage end draw";
+var mnemonic = "noodle enjoy mountain kite cute twenty garden end ridge wish zero broken";

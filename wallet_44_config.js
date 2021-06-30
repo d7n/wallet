@@ -1,1 +1,1 @@
-var mnemonic = "glass noodle blue race similar enough dream fluid actual tennis invest rifle";
+var mnemonic = "scan grace night subway silent scrap pipe toy turkey twist alpha float";

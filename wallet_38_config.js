@@ -1,1 +1,1 @@
-var mnemonic = "return urge mixture disagree leisure twist blast inject identify direct unique main";
+var mnemonic = "quiz wage donkey dial bachelor fetch tape illness devote inmate hobby parade";

@@ -1,1 +1,1 @@
-var mnemonic = "organ laptop lesson fuel endorse sunny own undo unique quiz electric actor";
+var mnemonic = "repair over else lumber pistol peace nephew bonus wild fresh trial net";

@@ -1,1 +1,1 @@
-var mnemonic = "word note immune jungle fame immune company exact box come begin tail";
+var mnemonic = "pepper grape future peanut soul roof birth beyond nephew grocery purpose tumble";

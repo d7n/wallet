@@ -1,1 +1,1 @@
-var mnemonic = "traffic under miss thrive situate okay affair resist ride matter art universe";
+var mnemonic = "force rough slush high bid nurse shed smile style birth worry effort";

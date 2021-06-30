@@ -1,1 +1,1 @@
-var mnemonic = "airport deer zoo process sport monitor echo pact silk music victory valve";
+var mnemonic = "cherry result night index rug dog conduct creek mixture chalk process calm";

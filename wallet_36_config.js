@@ -1,1 +1,1 @@
-var mnemonic = "donate bacon fringe marriage senior similar help void walnut morning hip high";
+var mnemonic = "raw feed answer during scare burst boil tail delay blood sick globe";

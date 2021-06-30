@@ -1,1 +1,1 @@
-var mnemonic = "when wine home wrong diet true toward admit shoe patient defense latin";
+var mnemonic = "slow marble belt initial trouble bargain top shove lumber planet wine feature";

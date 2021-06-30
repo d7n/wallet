@@ -1,1 +1,1 @@
-var mnemonic = "measure flavor forum morning extend hub cloud wall dragon beyond define video";
+var mnemonic = "sudden reopen arrow boy token nerve struggle biology ketchup capital now bag";

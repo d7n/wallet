@@ -1,1 +1,1 @@
-var mnemonic = "usage hip jealous drink bubble hidden riot legal whip tortoise trash step";
+var mnemonic = "trap rice rail rabbit glimpse upset unlock brand valley where risk outer";

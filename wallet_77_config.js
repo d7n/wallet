@@ -1,1 +1,1 @@
-var mnemonic = "insane win crunch lock caution drill prefer globe flat rain assist champion";
+var mnemonic = "fence anchor lecture twist below feed jealous wealth cancel fee banner ribbon";

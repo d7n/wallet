@@ -1,1 +1,1 @@
-var mnemonic = "sick cruel luxury annual merry front bundle walk during picnic orchard turtle";
+var mnemonic = "medal effort version bind outdoor mouse govern thunder obscure honey frozen trend";

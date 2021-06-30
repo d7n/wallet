@@ -1,1 +1,1 @@
-var mnemonic = "hammer height cheap alien pattern olive auto property unaware crawl sister okay";
+var mnemonic = "earn reason employ leg picture defense clutch sauce journey season report hint";

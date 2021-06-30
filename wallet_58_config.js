@@ -1,1 +1,1 @@
-var mnemonic = "what boost planet bone output jungle trash crumble lunch scale afraid season";
+var mnemonic = "pottery narrow scatter trade limit weird winner honey culture sniff morning attend";

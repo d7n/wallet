@@ -1,1 +1,1 @@
-var mnemonic = "collect physical photo hurry antique nest faith response pen describe truth yard";
+var mnemonic = "pelican trophy taste erase humor size safe pill right hockey casual bus";

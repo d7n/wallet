@@ -1,1 +1,1 @@
-var mnemonic = "proud science kite enough deliver flavor close power sound network gun popular";
+var mnemonic = "rude arrive laugh river fuel stick spike asthma budget angle marble speak";

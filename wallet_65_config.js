@@ -1,1 +1,1 @@
-var mnemonic = "rookie intact sausage hire easily child label earn tissue excess club tomato";
+var mnemonic = "sudden together rigid rose reveal sphere business exhaust science project spare cost";

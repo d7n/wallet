@@ -1,1 +1,1 @@
-var mnemonic = "humor sense perfect second shine there cram siren car debris shed device";
+var mnemonic = "hobby aware gasp flower praise pepper either tower hub claim second frown";

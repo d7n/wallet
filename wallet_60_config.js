@@ -1,1 +1,1 @@
-var mnemonic = "update easy people remain suffer scorpion gap country marble floor syrup oven";
+var mnemonic = "permit before often fish uncover glue unveil caught guitar crash coin swing";

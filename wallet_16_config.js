@@ -1,1 +1,1 @@
-var mnemonic = "torch cover aim brain luxury add noise candy suffer control scrub divert";
+var mnemonic = "wreck truly bike auto stick upset together cousin evidence tuition prefer scissors";

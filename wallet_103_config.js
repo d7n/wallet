@@ -1,1 +1,1 @@
-var mnemonic = "say process identify tank bitter blood absent robust loud magnet color ribbon";
+var mnemonic = "uphold genuine merit moment devote negative typical tiny wasp access soft rib";

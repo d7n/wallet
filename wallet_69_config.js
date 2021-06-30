@@ -1,1 +1,1 @@
-var mnemonic = "faith surprise describe swing flush throw pulse helmet venue silent elephant resist";
+var mnemonic = "account cup check crash later arrive dry fly resource hand arch orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar elder bench pull west lock document bone stable alarm crane desert";
+var mnemonic = "master mercy test bleak label owner talk planet chaos crumble elevator essay";

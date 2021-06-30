@@ -1,1 +1,1 @@
-var mnemonic = "dry gloom cable beyond theme hope tired april catalog lunch eternal march";
+var mnemonic = "idle planet version unfair roof across author check rail bean rival foil";

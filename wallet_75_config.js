@@ -1,1 +1,1 @@
-var mnemonic = "nasty intact quiz tiger distance olympic answer actual seek trick sausage desert";
+var mnemonic = "artefact someone program chair tape cloth illegal demise soul enact reveal fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "produce achieve trick lake drama tag champion clown glare tumble proud mimic";
+var mnemonic = "visa scout squirrel click cruise exercise ahead describe tone learn area rail";

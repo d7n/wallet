@@ -1,1 +1,1 @@
-var mnemonic = "expand path mask prosper buffalo poverty model chalk tube nothing glare human";
+var mnemonic = "ranch friend tongue owner inside pizza author hawk argue mouse surface logic";

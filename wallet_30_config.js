@@ -1,1 +1,1 @@
-var mnemonic = "blouse mistake define elegant uphold hint bring mobile little million left silent";
+var mnemonic = "judge prize tent lizard remain blood ritual august kid dolphin viable staff";
