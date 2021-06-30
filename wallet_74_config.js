@@ -1,1 +1,1 @@
-var mnemonic = "economy maze mention thrive rule angry fee mobile twelve shoe friend destroy";
+var mnemonic = "solid farm rare build venture struggle abuse jar enough pattern awkward degree";

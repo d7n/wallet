@@ -1,1 +1,1 @@
-var mnemonic = "invite much wrong belt obtain term tribe obtain polar net census away";
+var mnemonic = "face vault turtle pistol cushion dragon belt rebuild praise despair avoid battle";

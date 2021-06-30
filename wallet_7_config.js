@@ -1,1 +1,1 @@
-var mnemonic = "quit own bacon gorilla coin yard stable paper girl drip lumber shaft";
+var mnemonic = "move shrimp increase bracket entire indicate edit verify stick crawl six royal";

@@ -1,1 +1,1 @@
-var mnemonic = "country release violin smooth awake approve frozen job draw omit exchange duck";
+var mnemonic = "debate pepper suggest unlock banana kite climb donor obscure unfair alley lounge";

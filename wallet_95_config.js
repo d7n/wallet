@@ -1,1 +1,1 @@
-var mnemonic = "seek whip mention venture squeeze brief know arrow void away digital people";
+var mnemonic = "pelican success tiny stock shop hotel risk stem keep shift pledge motion";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory reason frame canal nerve fancy unusual hedgehog hour about clever inflict";
+var mnemonic = "alpha seat female mosquito run repair foster cute layer alpha churn round";

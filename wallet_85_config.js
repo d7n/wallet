@@ -1,1 +1,1 @@
-var mnemonic = "retreat project able muffin address make hurdle satoshi stamp purity super leave";
+var mnemonic = "write industry round agree soft fiscal sell bid miracle yellow meat sign";

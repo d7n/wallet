@@ -1,1 +1,1 @@
-var mnemonic = "win nose siege target ride enact ahead element tip roof yard avocado";
+var mnemonic = "shove tuition strong file defense panda process draft phone basic civil idea";

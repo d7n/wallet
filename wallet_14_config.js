@@ -1,1 +1,1 @@
-var mnemonic = "second update enter flash sail window vehicle possible squeeze pitch share lawsuit";
+var mnemonic = "require unit army impulse receive radio champion pledge admit virus genre between";

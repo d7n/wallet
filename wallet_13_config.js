@@ -1,1 +1,1 @@
-var mnemonic = "need vacuum person icon useless light cigar heavy sheriff crash guide shed";
+var mnemonic = "guide profit envelope staff man join wink scheme become bone fit enlist";

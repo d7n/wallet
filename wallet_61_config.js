@@ -1,1 +1,1 @@
-var mnemonic = "uniform favorite pink before muffin speak club nation such dilemma neglect fix";
+var mnemonic = "random seven idle tip among skull family this address copper explain remember";

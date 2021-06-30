@@ -1,1 +1,1 @@
-var mnemonic = "worth reveal behave yellow awful supply flock file liberty early sell upon";
+var mnemonic = "salon sustain junk amazing round cloud number merit pass way creek spirit";

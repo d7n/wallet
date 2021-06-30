@@ -1,1 +1,1 @@
-var mnemonic = "expire crunch afford type total violin machine venture similar warrior flame brown";
+var mnemonic = "multiply middle attack obey exist treat pony divorce current arch decorate forest";

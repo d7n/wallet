@@ -1,1 +1,1 @@
-var mnemonic = "assist flush under rally outdoor bench auto glad theme broom polar tuition";
+var mnemonic = "miracle pledge own model quote chapter census cat security cinnamon supply relief";

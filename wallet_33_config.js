@@ -1,1 +1,1 @@
-var mnemonic = "will broccoli peasant kit equip giggle dragon smooth upset dynamic client coffee";
+var mnemonic = "canyon demand reform double trouble gather loan rice chief raven require bag";

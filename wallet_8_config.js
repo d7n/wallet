@@ -1,1 +1,1 @@
-var mnemonic = "solid boat unusual roof rebuild bulb speed magic voyage flag pipe shrug";
+var mnemonic = "bronze divert when vote basic aspect pill train leader shallow tribe interest";

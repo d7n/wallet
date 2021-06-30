@@ -1,1 +1,1 @@
-var mnemonic = "tongue raven glory rude rhythm plastic often crunch fault adapt team champion";
+var mnemonic = "render medal region left oblige camera shed loan cry tonight almost current";

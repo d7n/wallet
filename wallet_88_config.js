@@ -1,1 +1,1 @@
-var mnemonic = "surround urban latin secret champion profit interest attend obvious monster gesture ankle";
+var mnemonic = "hard beef verb lab eyebrow example update sound fold twenty wave valid";

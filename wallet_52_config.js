@@ -1,1 +1,1 @@
-var mnemonic = "index soccer slow weird random filter diagram boss unaware address guitar rapid";
+var mnemonic = "usage essence call skin eager arm naive lonely swim congress lyrics addict";

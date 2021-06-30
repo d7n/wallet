@@ -1,1 +1,1 @@
-var mnemonic = "hole favorite clock penalty pen iron limb scan jazz credit stone one";
+var mnemonic = "model plate mesh crazy gate either because usual shallow liquid lobster seek";

@@ -1,1 +1,1 @@
-var mnemonic = "december whisper fine obvious adapt sausage north grid body client damage talent";
+var mnemonic = "exotic diamond hurdle scissors grid monster steel candy pole sweet harbor clown";

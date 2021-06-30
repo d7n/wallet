@@ -1,1 +1,1 @@
-var mnemonic = "cook vessel screen wet train fence wire glow little picnic blame minor";
+var mnemonic = "chair foot usual industry duty spare rapid august keep foam evidence verb";

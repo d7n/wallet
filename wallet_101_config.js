@@ -1,1 +1,1 @@
-var mnemonic = "hybrid snow fever cave nose denial upgrade cheese supply caution market large";
+var mnemonic = "service chase tongue usual argue skull run brain resource faculty sun bone";

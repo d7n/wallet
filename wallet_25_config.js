@@ -1,1 +1,1 @@
-var mnemonic = "what axis office shaft nest shrug seed orchard rifle guitar switch west";
+var mnemonic = "unknown crowd dwarf empty dizzy usage report fix artefact scatter ethics response";

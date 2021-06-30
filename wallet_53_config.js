@@ -1,1 +1,1 @@
-var mnemonic = "leopard toy load nominee topic alcohol entire theme hammer only enough huge";
+var mnemonic = "entire damp trash appear crop achieve vacuum timber shed service mom surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "blood rival lady below slender alone below nephew winter nothing hire receive";
+var mnemonic = "disorder original still heart barely service chapter water fun chair blade silent";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel entry sun first soldier subway leisure orange gas move friend punch";
+var mnemonic = "syrup alcohol expose glimpse resemble way tourist mad fitness among shallow attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut coach apart office provide torch ahead near gadget install host blast";
+var mnemonic = "opera kitchen rather leader enemy above amused call aim poet cousin gorilla";

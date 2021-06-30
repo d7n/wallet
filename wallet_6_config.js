@@ -1,1 +1,1 @@
-var mnemonic = "coffee impact isolate age drive august lumber describe future used rebel nothing";
+var mnemonic = "rose leaf wrestle page pig now discover defy survey balance arctic volume";

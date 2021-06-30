@@ -1,1 +1,1 @@
-var mnemonic = "busy share price flag wheat coyote push early castle truly embark awake";
+var mnemonic = "action cupboard prevent grain bronze pistol custom final fame lobster forget athlete";

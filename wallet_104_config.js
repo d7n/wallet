@@ -1,1 +1,1 @@
-var mnemonic = "board mistake advice capital visual loop payment fetch annual caution unlock false";
+var mnemonic = "someone urge flash magnet turkey hotel upset eager strike venue light hard";

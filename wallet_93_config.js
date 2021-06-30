@@ -1,1 +1,1 @@
-var mnemonic = "force achieve mule gain crucial another leg please step salt tongue sugar";
+var mnemonic = "camera light debate father cross humor worry rose priority achieve mutual meadow";

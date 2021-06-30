@@ -1,1 +1,1 @@
-var mnemonic = "train dirt wonder zero primary shuffle vessel athlete rent silver student once";
+var mnemonic = "juice bridge purchase silent exact that satoshi fitness tuna extra false record";

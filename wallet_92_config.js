@@ -1,1 +1,1 @@
-var mnemonic = "act stock struggle quote globe wish young surprise lecture expose truly normal";
+var mnemonic = "wagon symbol burden walnut this drum method issue orbit family main review";

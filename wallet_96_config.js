@@ -1,1 +1,1 @@
-var mnemonic = "embark predict pulp pigeon shadow knock aisle acid bike sniff reveal sand";
+var mnemonic = "assist immense own shrimp achieve animal reopen junk arrow arrest heart click";

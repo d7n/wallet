@@ -1,1 +1,1 @@
-var mnemonic = "scale vehicle cycle design bamboo saddle way provide ocean load insect ridge";
+var mnemonic = "junk popular mammal rookie polar exact sing message sound convince enter kangaroo";

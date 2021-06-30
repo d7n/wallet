@@ -1,1 +1,1 @@
-var mnemonic = "dress decade know dignity flush blade eyebrow toddler kit antique blind idea";
+var mnemonic = "pill often avoid merit path plunge pretty slide popular bargain version bid";

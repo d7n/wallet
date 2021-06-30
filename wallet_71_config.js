@@ -1,1 +1,1 @@
-var mnemonic = "design diesel rose pact they dial amazing front rigid drum able include";
+var mnemonic = "dash cargo myself nothing discover flock toward tooth another humor pass beauty";

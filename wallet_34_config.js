@@ -1,1 +1,1 @@
-var mnemonic = "lift diet eight panda leisure paper shrug swamp leopard private amused fox";
+var mnemonic = "energy tissue essay measure east custom robust skull brass riot junk senior";

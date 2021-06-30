@@ -1,1 +1,1 @@
-var mnemonic = "save mercy argue wide liquid bulk bar portion army inch vacant erode";
+var mnemonic = "rather core century sick cool joy wrestle cute tip hero airport crawl";

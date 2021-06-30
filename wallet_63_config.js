@@ -1,1 +1,1 @@
-var mnemonic = "quiz ship knife robot number ability expand remove life member pigeon column";
+var mnemonic = "helmet road must orbit frog total method daring degree eternal dignity energy";

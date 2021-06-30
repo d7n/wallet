@@ -1,1 +1,1 @@
-var mnemonic = "volcano curtain satisfy fabric decade tuition system lift prevent where melt kidney";
+var mnemonic = "tip woman mask dragon frown resource prefer sell uncle arch sheriff anchor";

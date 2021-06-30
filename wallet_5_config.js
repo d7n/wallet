@@ -1,1 +1,1 @@
-var mnemonic = "way dignity erupt search hub actual diagram aisle dial mimic also hundred";
+var mnemonic = "possible discover apple gate slide rib buddy famous rally drastic degree upper";

@@ -1,1 +1,1 @@
-var mnemonic = "boat length about situate acid boring egg impulse goat seed during salad";
+var mnemonic = "embody lend wide size renew soft impose village goat gorilla inmate human";

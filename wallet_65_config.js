@@ -1,1 +1,1 @@
-var mnemonic = "possible insect across piece pole rely erosion vacuum creek ostrich verb double";
+var mnemonic = "warm bid enough alpha forum sleep october clap fantasy speak ice icon";

@@ -1,1 +1,1 @@
-var mnemonic = "inner unit stuff relax size flip vintage potato season explain file wagon";
+var mnemonic = "waste soon island drink text curtain garment wrap hill museum pioneer reflect";

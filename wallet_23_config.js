@@ -1,1 +1,1 @@
-var mnemonic = "curve rather quit until used miss plug change rack pattern clown avoid";
+var mnemonic = "scissors ridge border expand barely tilt thumb truly cricket scrap denial egg";

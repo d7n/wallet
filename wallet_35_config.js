@@ -1,1 +1,1 @@
-var mnemonic = "essence spawn slender upgrade certain learn pony shrug aim lawsuit know climb";
+var mnemonic = "aunt invite base hammer voyage term cruise collect erosion decide weird exile";

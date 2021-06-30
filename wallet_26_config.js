@@ -1,1 +1,1 @@
-var mnemonic = "ready purchase victory dilemma magic exhaust gaze riot practice remember quantum provide";
+var mnemonic = "tuna else plate subway couch double orphan fade secret raccoon near square";

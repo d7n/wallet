@@ -1,1 +1,1 @@
-var mnemonic = "salt post fringe body bonus apart pet market fog divert lock battle";
+var mnemonic = "park negative brother trim gate advance prevent relief solid ceiling humble tail";

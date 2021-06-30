@@ -1,1 +1,1 @@
-var mnemonic = "method stool flame inquiry bargain place camera stereo walk page hockey novel";
+var mnemonic = "false ahead dilemma meat finger almost turtle drama predict ugly first tornado";

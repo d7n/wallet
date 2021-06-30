@@ -1,1 +1,1 @@
-var mnemonic = "auto thank claw toss rhythm clay weasel uniform pilot wealth sample skirt";
+var mnemonic = "immune spy clap shoot permit love magnet spring phone soldier habit pelican";

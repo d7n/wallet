@@ -1,1 +1,1 @@
-var mnemonic = "grace dentist tenant educate innocent spatial between advice expire manage shove ghost";
+var mnemonic = "gospel remain clarify shuffle raw resemble tumble wrap edge travel agree grit";

@@ -1,1 +1,1 @@
-var mnemonic = "genre divorce carry pigeon hip decorate unique company mobile regret dinosaur fold";
+var mnemonic = "real artist guess bright fall piece stumble play flee leaf squeeze spatial";

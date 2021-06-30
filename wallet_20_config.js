@@ -1,1 +1,1 @@
-var mnemonic = "pluck virus lazy struggle addict cause degree flee lake grow rent divide";
+var mnemonic = "dream employ dizzy phone surge debris notice alpha quick pact clock vocal";

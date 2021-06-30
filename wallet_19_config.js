@@ -1,1 +1,1 @@
-var mnemonic = "mirror search peasant grunt spawn galaxy under true adapt nut chronic arrow";
+var mnemonic = "disorder gravity picnic staff orphan dice slice broken horse gravity message venue";

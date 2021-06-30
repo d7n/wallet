@@ -1,1 +1,1 @@
-var mnemonic = "route success bar alarm blanket switch spell tissue absorb buddy weapon vendor";
+var mnemonic = "demand suggest aerobic upgrade reject saddle stick credit medal peasant length bacon";

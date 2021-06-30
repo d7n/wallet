@@ -1,1 +1,1 @@
-var mnemonic = "skill sword obtain elephant mango hungry chaos mobile unlock deny derive boil";
+var mnemonic = "truck maple pass wink summer hero bone fury prosper beauty add edge";

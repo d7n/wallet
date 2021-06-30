@@ -1,1 +1,1 @@
-var mnemonic = "vicious silent board endorse length second armor scatter addict runway silent battle";
+var mnemonic = "dress mouse blood bar desk dress science bracket soccer affair tape clutch";

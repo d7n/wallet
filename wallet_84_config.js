@@ -1,1 +1,1 @@
-var mnemonic = "pave album fashion derive since plastic payment emerge combine drastic cream guitar";
+var mnemonic = "pyramid kidney swift noodle useful goose price garment fiber accuse south second";

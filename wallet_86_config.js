@@ -1,1 +1,1 @@
-var mnemonic = "hello rib pigeon mimic swim silver identify birth rent abuse glance pole";
+var mnemonic = "random stove never detect check suit cruel budget bamboo course exact deer";

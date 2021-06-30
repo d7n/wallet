@@ -1,1 +1,1 @@
-var mnemonic = "snow lion use scare lecture multiply useless danger lab brisk debris enable";
+var mnemonic = "spare injury net fetch exist bench famous surge unknown unique exclude pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt exhaust marble network pool claw parent boss modify grit picnic screen";
+var mnemonic = "direct sheriff bus sauce potato oval body speed burst salad elegant similar";

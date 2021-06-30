@@ -1,1 +1,1 @@
-var mnemonic = "just tail peasant panic hundred fiscal word faculty six science want angry";
+var mnemonic = "alter beach squeeze verify female push victory six install dismiss crater ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "okay clinic wish source survey wedding card horror clock quality exchange express";
+var mnemonic = "mix eyebrow source oven carry brand whip lava empty brass wear hurt";

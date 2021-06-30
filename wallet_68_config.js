@@ -1,1 +1,1 @@
-var mnemonic = "mind trap symptom table danger relief open way hockey worry turn buzz";
+var mnemonic = "point glue output market wet under yard world tower sun cycle city";

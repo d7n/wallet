@@ -1,1 +1,1 @@
-var mnemonic = "forum chef concert cloud eternal market object oyster hello endorse genre behave";
+var mnemonic = "write lunar divert demand deny bench reject grab exotic jealous harsh whale";

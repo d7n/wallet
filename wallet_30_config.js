@@ -1,1 +1,1 @@
-var mnemonic = "chimney unfold north satoshi scan garage lucky bonus will wild fall law";
+var mnemonic = "creek upset melody patch brown crowd egg figure setup beef hand fork";

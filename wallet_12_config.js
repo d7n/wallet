@@ -1,1 +1,1 @@
-var mnemonic = "gentle town magnet crack session trend clerk rally banner convince vanish name";
+var mnemonic = "switch captain roof army slight cool mind dust moment trap bundle acid";

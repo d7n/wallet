@@ -1,1 +1,1 @@
-var mnemonic = "video anchor acid unable female frequent random cannon lady genius legend hip";
+var mnemonic = "miracle helmet rule armed ketchup helmet shed skill frozen typical gasp more";

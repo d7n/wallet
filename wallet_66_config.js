@@ -1,1 +1,1 @@
-var mnemonic = "gather left forum wild ill wage beauty witness love aunt curve fiction";
+var mnemonic = "chuckle produce sleep bleak steak cake gravity valid girl clarify cheese leave";

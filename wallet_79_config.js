@@ -1,1 +1,1 @@
-var mnemonic = "comic winner expand common company possible diet rely seat february position wrist";
+var mnemonic = "flat century patrol cross today post cheese guess arrange coil amount corn";

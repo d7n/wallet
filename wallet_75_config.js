@@ -1,1 +1,1 @@
-var mnemonic = "retire middle only cigar flat again bring divide dynamic time can face";
+var mnemonic = "morning sunny practice subway neck catch worth cactus tray jar sadness acquire";

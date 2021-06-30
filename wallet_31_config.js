@@ -1,1 +1,1 @@
-var mnemonic = "chef moment pencil apology announce confirm lottery health chest doctor order truth";
+var mnemonic = "debris crawl better food coral stairs twist audit sauce camera add uphold";

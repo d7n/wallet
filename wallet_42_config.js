@@ -1,1 +1,1 @@
-var mnemonic = "height ride include tilt struggle blue endorse gun use stomach muscle major";
+var mnemonic = "slab process heart pulse anchor try alert toast kitten kidney luxury retreat";

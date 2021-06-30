@@ -1,1 +1,1 @@
-var mnemonic = "thunder shoot mixture people soft behave brisk pass issue destroy build alter";
+var mnemonic = "pole rapid local push run patient polar cushion can spring marble come";

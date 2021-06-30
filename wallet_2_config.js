@@ -1,1 +1,1 @@
-var mnemonic = "pig detect wrestle banana idle digital cousin prevent silk need tenant you";
+var mnemonic = "sausage holiday view avoid pluck space cross group since pond kiss must";

@@ -1,1 +1,1 @@
-var mnemonic = "steak glimpse goat couple voice throw pool puppy zero dove joy airport";
+var mnemonic = "gesture either comfort give announce rough list chicken squeeze lecture magnet anxiety";

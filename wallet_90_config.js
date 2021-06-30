@@ -1,1 +1,1 @@
-var mnemonic = "left record punch pottery circle carry valve spike price hungry lift dress";
+var mnemonic = "spray output sugar trend tunnel divide pool mean creek trap corn town";

@@ -1,1 +1,1 @@
-var mnemonic = "school fog kite gesture burden same business boil athlete unable slogan fine";
+var mnemonic = "flower east knock giggle alien crumble concert ice bright menu sweet aunt";

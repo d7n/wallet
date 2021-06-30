@@ -1,1 +1,1 @@
-var mnemonic = "ramp give fashion waste sting cube correct divide sea rather balcony fall";
+var mnemonic = "gaze roast middle pudding measure pill month actor lift busy defense exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "method sweet lounge cargo subway include access jeans champion tool tooth asset";
+var mnemonic = "mandate replace eternal reduce brick barely helmet people sadness wedding cabbage story";

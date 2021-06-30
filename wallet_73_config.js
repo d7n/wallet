@@ -1,1 +1,1 @@
-var mnemonic = "spirit logic crucial twelve order harvest stand syrup west obscure leg social";
+var mnemonic = "topple pulse mention nuclear crowd season horse funny engage rain cement hard";

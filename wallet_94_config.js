@@ -1,1 +1,1 @@
-var mnemonic = "total file earth wild slice trick winner image similar cheap nothing direct";
+var mnemonic = "mountain forget dynamic vivid weekend guitar physical consider inspire need upgrade snap";

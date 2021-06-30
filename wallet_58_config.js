@@ -1,1 +1,1 @@
-var mnemonic = "reopen reform attack vital venture gym scale truth clerk crack express move";
+var mnemonic = "poverty task erupt capital craft satoshi brand brown above couch ancient vacant";

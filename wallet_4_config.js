@@ -1,1 +1,1 @@
-var mnemonic = "rule area dog maximum strike robot ranch clog fine armor mistake quality";
+var mnemonic = "trash runway goddess airport will entire patrol employ stadium blue step ancient";
