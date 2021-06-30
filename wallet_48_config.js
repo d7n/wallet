@@ -1,1 +1,1 @@
-var mnemonic = "primary prefer elephant carpet scan ski lamp recycle raccoon gold capital song";
+var mnemonic = "either sea attack penalty slush absurd pudding hidden fancy omit resemble bamboo";

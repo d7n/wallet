@@ -1,1 +1,1 @@
-var mnemonic = "fine girl mix bag umbrella allow drastic have bulk exhibit machine police";
+var mnemonic = "banana cute apart present unable vapor outer museum mother deal will fresh";

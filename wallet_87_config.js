@@ -1,1 +1,1 @@
-var mnemonic = "pioneer spoon plastic test outdoor food first slight peasant peanut squeeze flash";
+var mnemonic = "rifle finger shrimp spot reason tuition stamp elevator change during accuse praise";

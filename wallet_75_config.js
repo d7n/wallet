@@ -1,1 +1,1 @@
-var mnemonic = "consider swim equal thumb cycle category mean round camp island keep season";
+var mnemonic = "escape blush swear weekend wrong pulse section curve six ship huge any";

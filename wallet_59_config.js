@@ -1,1 +1,1 @@
-var mnemonic = "slow sea feel photo kangaroo kangaroo crime cabbage gold tiny cereal swap";
+var mnemonic = "good essence margin fog business arctic guitar avocado draft enforce creek lens";

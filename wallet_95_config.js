@@ -1,1 +1,1 @@
-var mnemonic = "roast vapor skirt patch coral affair result sweet just melody cash element";
+var mnemonic = "build gift dumb wolf hour final piece lunch senior predict fancy umbrella";

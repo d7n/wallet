@@ -1,1 +1,1 @@
-var mnemonic = "vapor retire air exhibit library strong patrol armed left before donkey deputy";
+var mnemonic = "salon dry scatter fix extra vault shed grid casino beach cheap theory";

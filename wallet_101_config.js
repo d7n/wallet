@@ -1,1 +1,1 @@
-var mnemonic = "tortoise salt shadow enrich kitchen main tip injury switch myself diary flower";
+var mnemonic = "model corn earn tattoo banner category fun wash amused company donkey song";

@@ -1,1 +1,1 @@
-var mnemonic = "view leader jewel service frequent length sport bar uniform view turtle wink";
+var mnemonic = "pelican always indoor lift dice pumpkin harvest crazy weasel spare alien decorate";

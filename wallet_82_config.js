@@ -1,1 +1,1 @@
-var mnemonic = "fault alley exile despair already explain wood learn copy budget slender proof";
+var mnemonic = "spy soap provide edge thumb sail mother pride abuse gain egg dignity";

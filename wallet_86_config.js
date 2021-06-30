@@ -1,1 +1,1 @@
-var mnemonic = "enter sight mountain bomb annual wealth chest biology crazy segment tag scout";
+var mnemonic = "recall cement round battle flush soldier champion step weekend tail limb ability";

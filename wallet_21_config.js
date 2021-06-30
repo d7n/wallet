@@ -1,1 +1,1 @@
-var mnemonic = "wave alone situate best crumble stock mass debate throw cheese negative blossom";
+var mnemonic = "refuse gorilla educate tennis general curve achieve ability wild afraid train core";

@@ -1,1 +1,1 @@
-var mnemonic = "depart brisk planet mind prevent rain wrap hunt consider sick bean dignity";
+var mnemonic = "drive field tag carry endorse follow emotion pepper proud curtain column busy";

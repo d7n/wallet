@@ -1,1 +1,1 @@
-var mnemonic = "hurt camp busy frequent tumble grunt rose sick alert book deer also";
+var mnemonic = "brush gold valid blind stove learn tortoise wave bonus pair comic subject";

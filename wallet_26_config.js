@@ -1,1 +1,1 @@
-var mnemonic = "double various person fade suit disagree depend jacket hair furnace enroll solve";
+var mnemonic = "fat lady impose moon insane grant obtain only thumb fun cargo skull";

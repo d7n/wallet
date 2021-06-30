@@ -1,1 +1,1 @@
-var mnemonic = "air door cash churn vendor pig patient host cat sense disorder join";
+var mnemonic = "speak boy wrap clutch trend stick spirit coffee side hybrid month distance";

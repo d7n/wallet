@@ -1,1 +1,1 @@
-var mnemonic = "depth echo legend invite build diet rebuild tribe diagram afford grass indoor";
+var mnemonic = "accident chaos predict horse token series ankle wonder laundry combine galaxy ski";

@@ -1,1 +1,1 @@
-var mnemonic = "prison weekend exile loop hurt shove oven private morning donate burger grunt";
+var mnemonic = "security please midnight olympic nerve inquiry evidence bargain stamp corn alert agent";

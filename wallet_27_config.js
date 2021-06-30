@@ -1,1 +1,1 @@
-var mnemonic = "return train grid cube push priority burger found acid erupt snap run";
+var mnemonic = "vote illness alone library bring gain sword dignity meadow song smart agree";

@@ -1,1 +1,1 @@
-var mnemonic = "stove tree ripple unveil level witness stove refuse essence regret music able";
+var mnemonic = "price tenant sting dune bitter price leave test strong secret rookie lottery";

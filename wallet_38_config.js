@@ -1,1 +1,1 @@
-var mnemonic = "motion style thing skate fault vault seek acoustic spirit tumble fire weather";
+var mnemonic = "person question never crystal knee shove slot curious festival elevator chimney relax";

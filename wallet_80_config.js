@@ -1,1 +1,1 @@
-var mnemonic = "aim engine property mammal affair swing hurry cover lazy coil nose panel";
+var mnemonic = "half harvest monster nose cliff uncle hobby vacant mirror tail rude inmate";

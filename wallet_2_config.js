@@ -1,1 +1,1 @@
-var mnemonic = "stomach history talent adapt solar month host accident army shift also now";
+var mnemonic = "supply ginger wink buyer only token unusual wife shoe bench slice panda";

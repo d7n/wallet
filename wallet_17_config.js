@@ -1,1 +1,1 @@
-var mnemonic = "oil vintage leopard clap rib cinnamon typical tail replace citizen safe name";
+var mnemonic = "wool rack slogan kidney pelican melody keep during mistake small abuse cover";

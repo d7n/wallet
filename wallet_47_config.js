@@ -1,1 +1,1 @@
-var mnemonic = "strike tortoise width input drill play flock sustain spring tooth album minimum";
+var mnemonic = "urge cruise sibling acquire club you spice reveal hair citizen hurry bone";

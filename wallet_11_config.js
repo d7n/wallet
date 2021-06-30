@@ -1,1 +1,1 @@
-var mnemonic = "repeat slogan chalk build shed infant noodle margin impulse chicken vote portion";
+var mnemonic = "street enroll cable fiber slab dose spirit umbrella pledge ski flower fire";

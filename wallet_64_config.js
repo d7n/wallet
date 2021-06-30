@@ -1,1 +1,1 @@
-var mnemonic = "cousin salon fiction faint cube spend raven top pulp lucky edge desert";
+var mnemonic = "pudding casino settle peasant pizza gossip fantasy syrup crane seed utility skill";

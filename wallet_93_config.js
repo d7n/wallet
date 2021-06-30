@@ -1,1 +1,1 @@
-var mnemonic = "double spread bracket diagram category poverty awesome divert gold glory wait patrol";
+var mnemonic = "suffer possible suffer absent decline short angry transfer light fox prison token";

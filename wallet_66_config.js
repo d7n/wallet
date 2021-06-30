@@ -1,1 +1,1 @@
-var mnemonic = "dance man floor silver interest nose success lift ocean payment decade myself";
+var mnemonic = "ancient oppose armed raise favorite quantum snap excuse palm runway basic gap";

@@ -1,1 +1,1 @@
-var mnemonic = "alone blanket beach million inherit fetch myth pilot elite pigeon talk history";
+var mnemonic = "knee thunder degree globe elephant stock chase tooth myth lab essay drastic";

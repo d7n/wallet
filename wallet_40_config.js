@@ -1,1 +1,1 @@
-var mnemonic = "assist pumpkin parade jewel live anxiety leaf estate drum relax eagle cream";
+var mnemonic = "blade undo twin quantum sugar source shove service junior olympic asset enter";

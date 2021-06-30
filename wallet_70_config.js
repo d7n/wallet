@@ -1,1 +1,1 @@
-var mnemonic = "worry waste faith suffer young round gallery insane rather few fix pottery";
+var mnemonic = "require child urban august clock web gentle february trip worth tumble practice";

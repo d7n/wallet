@@ -1,1 +1,1 @@
-var mnemonic = "before lizard lottery disorder enable dress erode drift pipe hair adult top";
+var mnemonic = "lemon swear virtual vicious warm erupt lens inject option flame fence wagon";

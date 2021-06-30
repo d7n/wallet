@@ -1,1 +1,1 @@
-var mnemonic = "breeze shine cover fuel funny glare intact depend dentist cabin festival exhibit";
+var mnemonic = "ethics crowd toss extra rotate oppose erase harsh hat heart naive car";

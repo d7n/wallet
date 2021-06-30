@@ -1,1 +1,1 @@
-var mnemonic = "trip display mandate brick teach lottery protect episode salad mercy pupil remind";
+var mnemonic = "average course bag social grief dust snap under shed merry public rate";

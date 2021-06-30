@@ -1,1 +1,1 @@
-var mnemonic = "bonus bridge frog choice upgrade oil myth any split runway mad ranch";
+var mnemonic = "inherit endorse drip slide pizza loud annual actor mechanic parent arrive boost";

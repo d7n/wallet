@@ -1,1 +1,1 @@
-var mnemonic = "blame odor million bench mosquito merry come timber anger stuff divorce old";
+var mnemonic = "have chief balance slice unveil element narrow lawn divorce moment wave orient";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious patch cram dad almost december hospital blast false soup tell surprise";
+var mnemonic = "beef creek surround frequent gloom puppy vibrant amused exclude fury soap rent";

@@ -1,1 +1,1 @@
-var mnemonic = "depart drop pitch large expect jaguar next protect melody slot stove jazz";
+var mnemonic = "hen object strategy stand news today lock midnight mixture sweet siege cry";

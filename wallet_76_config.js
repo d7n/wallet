@@ -1,1 +1,1 @@
-var mnemonic = "miss hold urge valid armed plastic surge champion puzzle minor range invite";
+var mnemonic = "trend truly zone bargain sport mother gospel slogan winter order grit father";

@@ -1,1 +1,1 @@
-var mnemonic = "stable smile rack range cat session enroll federal quick captain call mixed";
+var mnemonic = "better height section short shiver believe trumpet glory act win cricket fluid";

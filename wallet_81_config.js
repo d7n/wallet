@@ -1,1 +1,1 @@
-var mnemonic = "allow blur attract figure damage monster jump high news rice gate spare";
+var mnemonic = "wrong bridge book neglect member atom major tail goat total hobby lend";

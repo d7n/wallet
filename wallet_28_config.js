@@ -1,1 +1,1 @@
-var mnemonic = "napkin loud genuine total push surround afford source cruel goose easily dignity";
+var mnemonic = "crawl subway pioneer strong cook hawk blur plate rely error author public";

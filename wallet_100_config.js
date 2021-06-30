@@ -1,1 +1,1 @@
-var mnemonic = "battle maid enable coral upper dice place multiply same olympic fruit lunch";
+var mnemonic = "before twist knock concert employ hover maid tumble hen jump where rib";

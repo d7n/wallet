@@ -1,1 +1,1 @@
-var mnemonic = "tool pig cream owner culture coconut trial echo blush cheap exchange cool";
+var mnemonic = "alone cover race ticket man inflict vintage elephant limit mouse cat social";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile between evolve buzz grain rookie demand access fever noise warfare couple";
+var mnemonic = "ask layer abstract execute affair crime oven tenant patient obey key much";

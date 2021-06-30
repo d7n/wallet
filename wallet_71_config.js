@@ -1,1 +1,1 @@
-var mnemonic = "remain believe hole syrup viable auction hen delay inspire rigid exercise snow";
+var mnemonic = "twenty cause sample theme clutch delay enforce phrase before settle husband vintage";

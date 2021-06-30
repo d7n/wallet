@@ -1,1 +1,1 @@
-var mnemonic = "fabric stock spare diet crystal rabbit birth inject venue oyster curve obscure";
+var mnemonic = "spy opera project season army chaos few sun check merit primary right";

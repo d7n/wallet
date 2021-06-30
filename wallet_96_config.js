@@ -1,1 +1,1 @@
-var mnemonic = "stable flush thought tag soccer scatter mosquito envelope mean extra neutral polar";
+var mnemonic = "jungle kidney across swap this proof today benefit dawn else accident track";

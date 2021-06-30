@@ -1,1 +1,1 @@
-var mnemonic = "clock rice color physical trumpet code visa evoke short panel dust advance";
+var mnemonic = "crack wisdom asthma ceiling right mansion left brand setup curve toddler actress";

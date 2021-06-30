@@ -1,1 +1,1 @@
-var mnemonic = "east knife cry grief when regular auction path fence tuition pyramid magnet";
+var mnemonic = "choose light camp settle consider ramp host stage fence cupboard roast quarter";

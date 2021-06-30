@@ -1,1 +1,1 @@
-var mnemonic = "pizza track emerge boost canyon certain winter year alley motion bid link";
+var mnemonic = "surprise target roof vague oven blossom genuine horror image lumber floor senior";

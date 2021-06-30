@@ -1,1 +1,1 @@
-var mnemonic = "vendor wheel cotton garment ritual steel move pledge need hole join drama";
+var mnemonic = "caution original dynamic tired blur bitter dinosaur motor pluck later size awake";

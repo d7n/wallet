@@ -1,1 +1,1 @@
-var mnemonic = "click interest elegant orphan hawk govern impulse conduct column super tired prison";
+var mnemonic = "shine youth engage ring recipe office raise movie rookie keep fit galaxy";

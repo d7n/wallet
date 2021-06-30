@@ -1,1 +1,1 @@
-var mnemonic = "void wheat easy siren fork palace damp kidney ball lock library eye";
+var mnemonic = "cup thing lottery flush impact hospital immune lady person edit upset casino";

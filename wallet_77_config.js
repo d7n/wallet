@@ -1,1 +1,1 @@
-var mnemonic = "old lake drive lab shy bottom insane taxi tank above frog artwork";
+var mnemonic = "entry remember entry topic dial celery offer dignity uniform slush bracket drum";

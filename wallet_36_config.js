@@ -1,1 +1,1 @@
-var mnemonic = "erode grocery join topple key raise leopard jungle ski plate measure cute";
+var mnemonic = "seven upon shield power judge diet grass cook bubble fever visa tank";

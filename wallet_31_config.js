@@ -1,1 +1,1 @@
-var mnemonic = "clinic weapon exit bubble stand slice episode measure donor own chef fade";
+var mnemonic = "exercise pink baby mango path large beef fruit weapon project excite else";

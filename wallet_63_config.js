@@ -1,1 +1,1 @@
-var mnemonic = "lake warfare vote cake pitch dash tissue manage present private license hazard";
+var mnemonic = "neither shallow window usage disease risk certain assault royal welcome shrug raise";

@@ -1,1 +1,1 @@
-var mnemonic = "genre document drive bind brush ensure someone lemon matter useful interest post";
+var mnemonic = "dinner erosion jazz blame correct course collect depth dice visit spatial sick";

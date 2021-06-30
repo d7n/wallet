@@ -1,1 +1,1 @@
-var mnemonic = "sing vivid bind excess push pride pole liquid parent audit food visit";
+var mnemonic = "auto visual bulb lecture resemble solid discover bitter document donate acid mind";

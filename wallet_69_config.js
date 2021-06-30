@@ -1,1 +1,1 @@
-var mnemonic = "twenty credit smile travel future rhythm coach august happy elephant prize february";
+var mnemonic = "script outer kiwi age expose visual garage cupboard hollow special hand pause";

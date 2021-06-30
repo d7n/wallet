@@ -1,1 +1,1 @@
-var mnemonic = "never side vibrant clap tornado have point patrol symptom wisdom hammer toast";
+var mnemonic = "miss aim blood wrap near canal correct clay casual recycle clerk want";

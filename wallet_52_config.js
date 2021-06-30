@@ -1,1 +1,1 @@
-var mnemonic = "canvas fiscal pause talent lyrics volcano curious acid ugly inform edge dismiss";
+var mnemonic = "frost bench again become winter multiply nest bachelor define wine awesome thrive";

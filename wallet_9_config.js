@@ -1,1 +1,1 @@
-var mnemonic = "twenty describe cause oblige advice series eternal veteran obvious trap stadium student";
+var mnemonic = "arena model mango inquiry squirrel hand road feel cake kitchen sell film";

@@ -1,1 +1,1 @@
-var mnemonic = "physical genre dizzy cage acquire just enhance disagree auto earn surface wing";
+var mnemonic = "sauce midnight limb clown obtain canoe flavor spirit essence deal nasty nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry legal response essence stairs flower weapon hobby turtle action winter throw";
+var mnemonic = "clip sure cattle reason whip horn sea craft verb grow season wage";

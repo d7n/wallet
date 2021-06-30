@@ -1,1 +1,1 @@
-var mnemonic = "lunch brother advice laugh sister mercy stairs armor color famous topic organ";
+var mnemonic = "wire option eye huge opinion oil auto duty defense pigeon broom mom";

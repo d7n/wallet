@@ -1,1 +1,1 @@
-var mnemonic = "need diesel satisfy swim ranch state anger reject try reopen speak sword";
+var mnemonic = "avocado life balcony vivid always grit page weapon harsh loud antique food";

@@ -1,1 +1,1 @@
-var mnemonic = "control banana address carbon burden sleep side inflict clean hotel place twice";
+var mnemonic = "catch slim debate online parrot wedding phrase push horn blast deliver menu";

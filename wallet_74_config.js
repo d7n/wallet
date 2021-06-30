@@ -1,1 +1,1 @@
-var mnemonic = "treat unique tooth defy scorpion sustain potato aim elephant delay public cupboard";
+var mnemonic = "olympic idea ribbon suggest rookie auction recall correct best history aspect strike";

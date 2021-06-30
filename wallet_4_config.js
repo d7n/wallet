@@ -1,1 +1,1 @@
-var mnemonic = "deposit circle shoulder exact kite drive midnight broccoli patch move view home";
+var mnemonic = "lion history cover merit pupil heart goat trap steel thumb help paddle";

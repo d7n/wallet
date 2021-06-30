@@ -1,1 +1,1 @@
-var mnemonic = "cigar air allow anger hurt shoe fetch win choice wing mail same";
+var mnemonic = "language gate gather blood orchard menu ball kid grace december until erosion";

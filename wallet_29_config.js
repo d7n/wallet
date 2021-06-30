@@ -1,1 +1,1 @@
-var mnemonic = "humor pumpkin park physical survey luxury romance polar stand aisle faculty ticket";
+var mnemonic = "junk topic manual hope choice topple mask inform battle ranch basic athlete";

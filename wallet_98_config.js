@@ -1,1 +1,1 @@
-var mnemonic = "slam spot city antenna general drop sure razor clutch run false turkey";
+var mnemonic = "until report pumpkin smile intact blossom position hybrid drill rail vague much";

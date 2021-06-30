@@ -1,1 +1,1 @@
-var mnemonic = "sheriff device supply miss fatal false claim entire runway icon trophy nurse";
+var mnemonic = "ignore dutch give animal divert guess spawn question cool draw chef make";

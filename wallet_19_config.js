@@ -1,1 +1,1 @@
-var mnemonic = "pill churn tube sell sleep liar vivid remind hedgehog hotel tell biology";
+var mnemonic = "phone shoe school wink fence solve decide pond size wide taste admit";

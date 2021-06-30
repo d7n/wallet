@@ -1,1 +1,1 @@
-var mnemonic = "simple design tip chair plunge miss text cruel butter note video either";
+var mnemonic = "prevent palace pumpkin chalk inquiry cherry picnic ice voice fit reward discover";

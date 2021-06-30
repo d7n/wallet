@@ -1,1 +1,1 @@
-var mnemonic = "tunnel cause castle tunnel wheat off urban hire during scare aware tape";
+var mnemonic = "farm key urban purchase vicious arctic when about text spread gun smoke";

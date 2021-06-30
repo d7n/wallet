@@ -1,1 +1,1 @@
-var mnemonic = "record puzzle pond tornado sign erase mango unaware vast orient supply august";
+var mnemonic = "ridge genre high table jar push talk fly peace cannon asset advance";

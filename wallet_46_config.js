@@ -1,1 +1,1 @@
-var mnemonic = "boil cream explain skull when spoon caution survey cram potato shallow trouble";
+var mnemonic = "member will various front another protect surround load squirrel fame toss decide";

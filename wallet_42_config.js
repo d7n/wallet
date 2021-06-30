@@ -1,1 +1,1 @@
-var mnemonic = "unaware memory hover black never luxury leopard loan song citizen cost shield";
+var mnemonic = "vanish dad tired envelope bubble wish autumn shoe priority owner current funny";

@@ -1,1 +1,1 @@
-var mnemonic = "february foot grid obvious peanut model above chimney coil spoil laptop party";
+var mnemonic = "hazard census curious photo dirt minimum rug roast acid artefact original lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "much muffin project laptop print swallow wheel merit gain can asthma sense";
+var mnemonic = "buddy dismiss print casual tuna other badge water swift dog couch practice";

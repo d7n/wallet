@@ -1,1 +1,1 @@
-var mnemonic = "tongue result genre inside embody foster narrow lizard tomato opinion uncle finger";
+var mnemonic = "symbol return vocal attitude term want naive term predict keen soldier portion";

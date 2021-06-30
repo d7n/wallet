@@ -1,1 +1,1 @@
-var mnemonic = "naive diesel certain pioneer bitter depart old glow cushion actor oval domain";
+var mnemonic = "leaf barely awake major dilemma decline great orange very glad annual remember";

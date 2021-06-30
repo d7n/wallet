@@ -1,1 +1,1 @@
-var mnemonic = "bread mutual audit move tooth balance joke pool legend one hood pluck";
+var mnemonic = "test rebel voice version suffer roast panic vocal fringe option hill swamp";
