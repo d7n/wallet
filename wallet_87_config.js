@@ -1,1 +1,1 @@
-var mnemonic = "seven voyage human agree name roof initial wall tourist imitate beach marine";
+var mnemonic = "actress coin topic round wreck film loan express twelve unit broom timber";

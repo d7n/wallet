@@ -1,1 +1,1 @@
-var mnemonic = "cycle harsh galaxy catalog unfold kangaroo swamp narrow lobster bean state rude";
+var mnemonic = "prosper room dove need swim derive hood present upset uncover cluster pause";

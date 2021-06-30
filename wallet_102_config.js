@@ -1,1 +1,1 @@
-var mnemonic = "illness poet stomach neither wink illness dignity often cool sudden early stomach";
+var mnemonic = "swarm picture roof switch praise dizzy dilemma wrist sure faint labor okay";

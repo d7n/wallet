@@ -1,1 +1,1 @@
-var mnemonic = "orchard public away panther spare umbrella reduce average length horror imitate effort";
+var mnemonic = "sort segment army imitate you genre horror unique bomb silly game creek";

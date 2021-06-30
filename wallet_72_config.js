@@ -1,1 +1,1 @@
-var mnemonic = "seminar crane pepper desert curious unhappy connect neck girl loyal below promote";
+var mnemonic = "pencil isolate scrap solve figure volcano recall exile giraffe item apple reduce";

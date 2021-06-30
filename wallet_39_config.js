@@ -1,1 +1,1 @@
-var mnemonic = "struggle this submit version topple found abandon bomb napkin sketch meat crunch";
+var mnemonic = "crazy social arctic umbrella recall garlic hard balance pigeon task wool yellow";

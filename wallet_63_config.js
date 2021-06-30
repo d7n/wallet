@@ -1,1 +1,1 @@
-var mnemonic = "cherry result night index rug dog conduct creek mixture chalk process calm";
+var mnemonic = "energy sunny eternal south battle will menu century swear ask notable aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "thank scan dentist mammal cushion cool rate hammer border turtle silver mask";
+var mnemonic = "chef hen dirt erode force panda juice kangaroo dolphin receive radar cage";

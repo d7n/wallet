@@ -1,1 +1,1 @@
-var mnemonic = "base size guilt wedding rotate aim sword select royal offer fetch entry";
+var mnemonic = "prefer bike eye body record minor present tree document empty yard patch";

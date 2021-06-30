@@ -1,1 +1,1 @@
-var mnemonic = "need swing tuna will perfect obtain kit crazy leaf sunset connect uniform";
+var mnemonic = "glance act average portion use stable student major lock slam fresh raw";

@@ -1,1 +1,1 @@
-var mnemonic = "all absurd put rookie receive rich nut decade wood isolate patrol keep";
+var mnemonic = "arrow student fruit quality ripple immune magnet venue muffin mask fever avocado";

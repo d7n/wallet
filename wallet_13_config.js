@@ -1,1 +1,1 @@
-var mnemonic = "hazard proof carpet gorilla about era diet inhale purpose begin switch virtual";
+var mnemonic = "lift destroy search foil record record vessel cook pyramid earth pen diamond";

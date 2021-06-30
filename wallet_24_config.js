@@ -1,1 +1,1 @@
-var mnemonic = "wait run slide scale endorse cotton slide sibling motor crash boat way";
+var mnemonic = "wish eager wood found police tenant barely boring angle fantasy point card";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward acid consider eternal alter fly aspect rubber company senior fruit menu";
+var mnemonic = "crane good rice taxi palm second involve wall amused boost tragic photo";

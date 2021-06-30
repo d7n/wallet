@@ -1,1 +1,1 @@
-var mnemonic = "sell cry gold symptom muscle motion fragile initial meadow rain game abstract";
+var mnemonic = "happy lesson jazz light faculty attend raw loan tired math gun extend";

@@ -1,1 +1,1 @@
-var mnemonic = "such attract volume clog vacant ice demise deposit area please keen can";
+var mnemonic = "wool endless alpha grunt cave cactus horror gravity flush decide lemon employ";

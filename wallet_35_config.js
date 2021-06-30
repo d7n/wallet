@@ -1,1 +1,1 @@
-var mnemonic = "hour deer december indicate pipe iron auto bright capable private drastic tonight";
+var mnemonic = "manage word walk uphold admit fiscal sugar barely blanket neglect expire kind";

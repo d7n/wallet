@@ -1,1 +1,1 @@
-var mnemonic = "describe afford main capable gloom lucky response salt across armed marble fancy";
+var mnemonic = "rain thing okay force pony gap company fiscal wealth mutual frozen ketchup";

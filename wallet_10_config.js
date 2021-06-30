@@ -1,1 +1,1 @@
-var mnemonic = "midnight twelve crime fly stadium page sausage hill lounge few ripple volcano";
+var mnemonic = "write wink knock hockey foster size hidden bench black day crack filter";

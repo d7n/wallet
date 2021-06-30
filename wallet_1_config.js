@@ -1,1 +1,1 @@
-var mnemonic = "earn reason employ leg picture defense clutch sauce journey season report hint";
+var mnemonic = "fee leave stairs diet jelly novel hammer evoke other false boy behind";

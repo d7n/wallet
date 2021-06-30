@@ -1,1 +1,1 @@
-var mnemonic = "kind vault quality minor gorilla rabbit curve recall settle shuffle execute reform";
+var mnemonic = "liquid aspect off garden flight first once fine sword rocket come ginger";

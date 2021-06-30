@@ -1,1 +1,1 @@
-var mnemonic = "clutch expect faint grass axis nation exact holiday have goat skate tribe";
+var mnemonic = "sister dolphin code blast visit great season school foil update burst engage";

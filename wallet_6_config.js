@@ -1,1 +1,1 @@
-var mnemonic = "inject wet mystery anchor stem gather blush team level volume gentle balance";
+var mnemonic = "clutch sign voyage obscure middle excess level cousin buddy wet help submit";

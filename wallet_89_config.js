@@ -1,1 +1,1 @@
-var mnemonic = "below damp fashion blast sun devote drill wolf shell mango merry budget";
+var mnemonic = "word agent result entire curious keen rubber ahead faith cave glory garment";

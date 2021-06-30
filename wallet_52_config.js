@@ -1,1 +1,1 @@
-var mnemonic = "rude arrive laugh river fuel stick spike asthma budget angle marble speak";
+var mnemonic = "place vanish document athlete add combine moon anchor danger obtain knife youth";

@@ -1,1 +1,1 @@
-var mnemonic = "valley bar radio empower turtle prepare actress office employ radio park bunker";
+var mnemonic = "liar moral antenna universe amazing sweet host universe rule course install peasant";

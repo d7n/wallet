@@ -1,1 +1,1 @@
-var mnemonic = "work spring stove lamp stairs ship apple pink flower ghost coconut unable";
+var mnemonic = "tobacco mushroom rifle sound miss situate insect slide meat another slam average";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma prison stomach phrase harbor fiscal tooth balcony damage solar frost melt";
+var mnemonic = "neutral teach inner eternal cotton object silent vacuum jazz submit sail crystal";

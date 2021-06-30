@@ -1,1 +1,1 @@
-var mnemonic = "symptom route snack illegal draw rubber ride company govern bridge adjust audit";
+var mnemonic = "strike mystery winner define nature buzz excite real empower run key old";

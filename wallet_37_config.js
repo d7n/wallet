@@ -1,1 +1,1 @@
-var mnemonic = "despair tip army donkey neither witness inch option other eager eight enhance";
+var mnemonic = "thumb like around wife salt stool learn jump math shy soup test";

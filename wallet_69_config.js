@@ -1,1 +1,1 @@
-var mnemonic = "account cup check crash later arrive dry fly resource hand arch orchard";
+var mnemonic = "song year program have safe relief before estate convince vital intact zebra";

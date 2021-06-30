@@ -1,1 +1,1 @@
-var mnemonic = "develop fiscal risk tortoise seek expire tilt damage crane answer satoshi potato";
+var mnemonic = "husband insane right found vibrant uncle pyramid swap front ribbon record six";

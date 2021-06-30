@@ -1,1 +1,1 @@
-var mnemonic = "fence anchor lecture twist below feed jealous wealth cancel fee banner ribbon";
+var mnemonic = "error device label employ edit laugh exhibit grid cover arrange enforce sad";

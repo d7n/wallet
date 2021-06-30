@@ -1,1 +1,1 @@
-var mnemonic = "green cry leaf inspire tuition poet illegal judge scare shield skirt manual";
+var mnemonic = "cigar obtain risk critic dice tissue october cook disagree resemble cinnamon seek";

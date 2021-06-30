@@ -1,1 +1,1 @@
-var mnemonic = "twin cost visual flower youth twenty grocery energy claim dinner accuse bargain";
+var mnemonic = "rack blanket you tribe very card spoil vague unfold field winter torch";

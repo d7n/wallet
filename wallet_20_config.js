@@ -1,1 +1,1 @@
-var mnemonic = "obscure say aunt army shoot cry master goose solve title gallery actual";
+var mnemonic = "vicious dirt claim vibrant bird dial isolate lunch blade gather ill hawk";

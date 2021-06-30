@@ -1,1 +1,1 @@
-var mnemonic = "purse win stay rigid client riot health embark raccoon meat foil various";
+var mnemonic = "robot margin depart stairs gym sure exchange chimney awake shallow slot neither";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor glance blue above prison glue error home speed auto power cover";
+var mnemonic = "tonight almost insect guide roast ghost web virtual door tray soccer guard";

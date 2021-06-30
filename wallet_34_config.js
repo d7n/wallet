@@ -1,1 +1,1 @@
-var mnemonic = "way van issue park license robust cactus when expire cement fan sadness";
+var mnemonic = "someone cigar cat anchor flip ivory fantasy output admit heavy glimpse divert";

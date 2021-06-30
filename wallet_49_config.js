@@ -1,1 +1,1 @@
-var mnemonic = "wool salute physical give code crucial clap maple humor acquire false together";
+var mnemonic = "utility indicate faculty alien tenant uncover health liberty smart inquiry buddy coast";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth diet pond found turkey multiply require capital vibrant portion sauce rug";
+var mnemonic = "sense enact timber humor mountain cousin grab stick fetch royal impulse mandate";

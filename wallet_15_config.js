@@ -1,1 +1,1 @@
-var mnemonic = "grant quit bubble trophy pulp embody frost check thunder yellow wise rabbit";
+var mnemonic = "problem movie awake essence stomach fog rule crawl limit rough ticket soon";

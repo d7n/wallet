@@ -1,1 +1,1 @@
-var mnemonic = "crystal stamp tornado defy hard record among crawl number ladder female slot";
+var mnemonic = "exact ocean window scan regular amateur renew alarm eternal illness chief dragon";

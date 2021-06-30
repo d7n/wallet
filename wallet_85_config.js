@@ -1,1 +1,1 @@
-var mnemonic = "zoo because turn shock rose combine rubber ostrich busy voyage cotton winter";
+var mnemonic = "sock alley butter grain topple explain grow domain shaft axis state stable";

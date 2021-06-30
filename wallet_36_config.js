@@ -1,1 +1,1 @@
-var mnemonic = "raw feed answer during scare burst boil tail delay blood sick globe";
+var mnemonic = "anchor cloth alone anger prize invest crystal blanket lens tomorrow series art";

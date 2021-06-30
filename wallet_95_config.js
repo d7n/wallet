@@ -1,1 +1,1 @@
-var mnemonic = "wild lunch blouse brass shock maple music gloom spike mansion project abuse";
+var mnemonic = "vast already brain ordinary retreat chaos rebuild cliff wink profit update various";

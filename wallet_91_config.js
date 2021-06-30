@@ -1,1 +1,1 @@
-var mnemonic = "release wait refuse tide sail absent task laptop apple coffee supreme tiger";
+var mnemonic = "profit price replace rebuild beyond crawl foot cancel drum claim stand humor";

@@ -1,1 +1,1 @@
-var mnemonic = "trap color pass leave exact hundred figure valve neglect banner powder mobile";
+var mnemonic = "rural provide talk quiz regular goddess poet butter oyster select stuff member";

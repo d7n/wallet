@@ -1,1 +1,1 @@
-var mnemonic = "trim feel short embrace injury hunt trend joy raise room rabbit excess";
+var mnemonic = "junior burden shaft strong vibrant all erase below cloud voyage skate erosion";

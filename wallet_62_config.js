@@ -1,1 +1,1 @@
-var mnemonic = "pepper grape future peanut soul roof birth beyond nephew grocery purpose tumble";
+var mnemonic = "little forum maximum crater bubble coil dismiss food custom spawn volcano move";

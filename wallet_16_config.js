@@ -1,1 +1,1 @@
-var mnemonic = "wreck truly bike auto stick upset together cousin evidence tuition prefer scissors";
+var mnemonic = "what civil surprise economy daring funny stairs photo border cross audit slice";

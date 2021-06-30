@@ -1,1 +1,1 @@
-var mnemonic = "dash whip govern start fringe drive left syrup approve loyal sponsor catalog";
+var mnemonic = "arrest fortune dog item athlete silver drama damp pipe laptop tree frog";

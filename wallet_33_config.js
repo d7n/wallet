@@ -1,1 +1,1 @@
-var mnemonic = "visa scout squirrel click cruise exercise ahead describe tone learn area rail";
+var mnemonic = "doll top juice dutch arena input art pyramid smart bronze require odor";

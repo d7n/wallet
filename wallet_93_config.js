@@ -1,1 +1,1 @@
-var mnemonic = "viable celery burden hope opera pact endorse elbow glare garden world expose";
+var mnemonic = "attend spot ivory remember you lamp sort net trim slim example party";

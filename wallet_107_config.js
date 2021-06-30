@@ -1,1 +1,1 @@
-var mnemonic = "october hello method abandon night guess runway warfare rail guard spell wine";
+var mnemonic = "panic glue oil buzz rack swift dolphin merge menu detail talent behind";

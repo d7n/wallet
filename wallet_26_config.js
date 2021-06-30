@@ -1,1 +1,1 @@
-var mnemonic = "million since cable survey myself mandate labor amazing planet mistake clerk give";
+var mnemonic = "kingdom decade circle develop gain disorder dolphin weapon rigid copper swear enable";

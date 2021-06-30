@@ -1,1 +1,1 @@
-var mnemonic = "jewel law bonus error script length device smile talent rib clerk sign";
+var mnemonic = "settle priority pluck insect venue alone together wrestle rigid sun vintage web";

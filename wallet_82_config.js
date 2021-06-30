@@ -1,1 +1,1 @@
-var mnemonic = "pelican trophy taste erase humor size safe pill right hockey casual bus";
+var mnemonic = "tomorrow author decide hard chapter toss guilt sell fan dolphin invite method";

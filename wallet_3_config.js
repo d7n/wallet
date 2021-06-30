@@ -1,1 +1,1 @@
-var mnemonic = "medal effort version bind outdoor mouse govern thunder obscure honey frozen trend";
+var mnemonic = "tobacco away cousin type dynamic cancel nose flee broom toe aware buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz wage donkey dial bachelor fetch tape illness devote inmate hobby parade";
+var mnemonic = "wrap wagon buffalo hazard almost biology immense actual magic foot myself oxygen";

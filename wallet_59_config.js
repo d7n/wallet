@@ -1,1 +1,1 @@
-var mnemonic = "idle planet version unfair roof across author check rail bean rival foil";
+var mnemonic = "surprise ring chicken chalk animal faint hold one common state skill syrup";

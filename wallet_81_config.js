@@ -1,1 +1,1 @@
-var mnemonic = "ozone dial sponsor multiply claw enlist embrace luggage okay dwarf coast globe";
+var mnemonic = "recall vast seek exchange anxiety review motor sentence lab captain fork rail";

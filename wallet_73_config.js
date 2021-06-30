@@ -1,1 +1,1 @@
-var mnemonic = "option tree region trust copy utility rain thumb nurse expand install urban";
+var mnemonic = "episode blossom purity wasp brave mouse throw observe album deny frown lunar";

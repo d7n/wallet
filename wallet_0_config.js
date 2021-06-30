@@ -1,1 +1,1 @@
-var mnemonic = "ranch friend tongue owner inside pizza author hawk argue mouse surface logic";
+var mnemonic = "develop about vocal dog subject bus nest submit way stove slab paddle";

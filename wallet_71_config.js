@@ -1,1 +1,1 @@
-var mnemonic = "hobby aware gasp flower praise pepper either tower hub claim second frown";
+var mnemonic = "blind prevent crazy question snake flip holiday beyond enemy impulse ancient stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "airport judge fold grief brown goat velvet wasp source figure cloud unhappy";
+var mnemonic = "gift biology mixed crouch brother rebel rubber federal truly ship equip depend";

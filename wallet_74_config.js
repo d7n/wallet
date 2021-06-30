@@ -1,1 +1,1 @@
-var mnemonic = "number wheel purse capital gentle pudding under cushion embark clerk can famous";
+var mnemonic = "hair hip express near short winner tunnel junior raw vacuum diagram coconut";

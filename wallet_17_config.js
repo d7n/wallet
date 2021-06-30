@@ -1,1 +1,1 @@
-var mnemonic = "noodle enjoy mountain kite cute twenty garden end ridge wish zero broken";
+var mnemonic = "typical better marriage rail puzzle banner exhaust brain mistake heavy rough vacuum";

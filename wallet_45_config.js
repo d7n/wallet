@@ -1,1 +1,1 @@
-var mnemonic = "such insane anxiety menu hood pill sleep silver fabric rhythm nice hand";
+var mnemonic = "unfold conduct burst gaze aunt require tuition dress coach eye dad parent";

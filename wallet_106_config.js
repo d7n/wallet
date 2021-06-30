@@ -1,1 +1,1 @@
-var mnemonic = "stick mad roof sand protect cost frequent fatigue omit extend dismiss cruise";
+var mnemonic = "idea term estate fetch smart virus crucial tree upset impose gravity tent";

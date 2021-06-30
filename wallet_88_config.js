@@ -1,1 +1,1 @@
-var mnemonic = "degree found goose olympic equip winter differ tortoise kingdom art eagle afford";
+var mnemonic = "next dinner horror company transfer blind tragic slush season claw critic excite";

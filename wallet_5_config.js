@@ -1,1 +1,1 @@
-var mnemonic = "finish index vanish version crush viable penalty kiwi village actual badge vintage";
+var mnemonic = "eyebrow vague era dizzy goat model history guess juice icon elegant purity";

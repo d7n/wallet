@@ -1,1 +1,1 @@
-var mnemonic = "slow marble belt initial trouble bargain top shove lumber planet wine feature";
+var mnemonic = "lab unfold iron polar thunder forget garden skill soft sauce escape rose";

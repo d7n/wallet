@@ -1,1 +1,1 @@
-var mnemonic = "odor stereo awake buddy sketch venture exclude flat lady arch pause assume";
+var mnemonic = "vibrant zebra drift denial merit visit approve balcony card crew board correct";

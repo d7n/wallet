@@ -1,1 +1,1 @@
-var mnemonic = "syrup horror despair arch dignity broken ramp install style sauce file pelican";
+var mnemonic = "bottom company unfold key trend cactus arrest laptop bunker planet stay fluid";

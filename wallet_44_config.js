@@ -1,1 +1,1 @@
-var mnemonic = "scan grace night subway silent scrap pipe toy turkey twist alpha float";
+var mnemonic = "tape palace modify invite nephew victory more object news leopard weather shy";

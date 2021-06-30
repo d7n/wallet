@@ -1,1 +1,1 @@
-var mnemonic = "uphold genuine merit moment devote negative typical tiny wasp access soft rib";
+var mnemonic = "ordinary unaware winter couch retire theory boost brick thumb other vapor notable";

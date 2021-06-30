@@ -1,1 +1,1 @@
-var mnemonic = "armor bind observe box squeeze bitter midnight hybrid argue unfold wealth snake";
+var mnemonic = "priority casino abstract brass team latin offer bridge keen slow swear about";

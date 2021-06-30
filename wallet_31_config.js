@@ -1,1 +1,1 @@
-var mnemonic = "poverty avocado else domain siren guilt question perfect loud under impose reject";
+var mnemonic = "february nurse option impact nerve tattoo mix large devote escape fever solid";

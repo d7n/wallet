@@ -1,1 +1,1 @@
-var mnemonic = "artefact someone program chair tape cloth illegal demise soul enact reveal fortune";
+var mnemonic = "plug cluster humble shrimp this cloud miracle system gain middle avoid ostrich";

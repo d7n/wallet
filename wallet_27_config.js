@@ -1,1 +1,1 @@
-var mnemonic = "vintage business episode cake galaxy skill ginger trade daughter repair balcony use";
+var mnemonic = "dish hurry parrot test hub calm story mass swift soft country quarter";

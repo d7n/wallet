@@ -1,1 +1,1 @@
-var mnemonic = "useless wood life quit solid raw consider refuse lunch evolve crop rule";
+var mnemonic = "strategy hidden tomorrow scout gadget ability town trash vocal entire since share";

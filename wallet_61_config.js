@@ -1,1 +1,1 @@
-var mnemonic = "display shine awkward addict welcome evidence flight hurt purchase uncle kiwi slush";
+var mnemonic = "security soda blouse detect vehicle destroy dance rug never fly indoor congress";

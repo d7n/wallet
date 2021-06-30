@@ -1,1 +1,1 @@
-var mnemonic = "own organ sport knock supply health near scrap flash balance essay describe";
+var mnemonic = "piece symptom tide update antenna purity mountain deposit submit upper reunion upset";

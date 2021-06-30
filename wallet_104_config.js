@@ -1,1 +1,1 @@
-var mnemonic = "gold ignore bright crouch guide boy door arrange dignity alien observe eyebrow";
+var mnemonic = "ivory mercy debate extend trial put plunge book youth near lunar tragic";

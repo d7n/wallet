@@ -1,1 +1,1 @@
-var mnemonic = "repair over else lumber pistol peace nephew bonus wild fresh trial net";
+var mnemonic = "defense affair plastic clog solution way tornado rule rose twice priority hen";

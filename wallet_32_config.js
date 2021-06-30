@@ -1,1 +1,1 @@
-var mnemonic = "run garlic hockey quality involve domain prevent rebel art badge license theory";
+var mnemonic = "giant scatter shell renew pizza fossil cook face fortune debate hold burden";

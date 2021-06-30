@@ -1,1 +1,1 @@
-var mnemonic = "average enact episode interest pill goddess toddler distance insect orchard mistake reflect";
+var mnemonic = "heavy diagram humor lady brand ridge awful fly kit dust square affair";

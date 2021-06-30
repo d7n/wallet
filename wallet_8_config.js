@@ -1,1 +1,1 @@
-var mnemonic = "mobile vocal arch napkin gospel area slender trouble whale letter fault yard";
+var mnemonic = "parade wasp junk stereo affair educate other wedding odor clever giggle drip";

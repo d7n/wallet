@@ -1,1 +1,1 @@
-var mnemonic = "force rough slush high bid nurse shed smile style birth worry effort";
+var mnemonic = "file clog extra bless dad empty struggle metal report caution unit conduct";

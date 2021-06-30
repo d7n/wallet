@@ -1,1 +1,1 @@
-var mnemonic = "sudden reopen arrow boy token nerve struggle biology ketchup capital now bag";
+var mnemonic = "farm tower tilt erupt promote wheat capital merge venue place when video";

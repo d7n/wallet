@@ -1,1 +1,1 @@
-var mnemonic = "off balcony inch mass forget exhaust kiwi wisdom ride thrive law capital";
+var mnemonic = "silver slender road minute burst blue emerge cake mix august outdoor way";

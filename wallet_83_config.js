@@ -1,1 +1,1 @@
-var mnemonic = "jar toilet predict high whisper sadness napkin sense exit scheme reject poverty";
+var mnemonic = "thunder angry bless romance book velvet mixture win fringe snack vacuum danger";

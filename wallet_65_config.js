@@ -1,1 +1,1 @@
-var mnemonic = "sudden together rigid rose reveal sphere business exhaust science project spare cost";
+var mnemonic = "execute ensure obvious legend pottery barely suffer mushroom rail shuffle disagree extend";

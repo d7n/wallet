@@ -1,1 +1,1 @@
-var mnemonic = "glimpse client alcohol absent seminar unable eternal crouch nominee quantum rare upper";
+var mnemonic = "fury sense drama penalty occur plate beauty ivory guard salt ecology ice";

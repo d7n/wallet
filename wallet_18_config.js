@@ -1,1 +1,1 @@
-var mnemonic = "shoulder side address squirrel early spice avoid similar budget match resource intact";
+var mnemonic = "pretty blouse great fee spider another artefact still melt dry replace taxi";

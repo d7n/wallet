@@ -1,1 +1,1 @@
-var mnemonic = "champion super clutch find own trip maze math magic today first marriage";
+var mnemonic = "taxi fortune student dignity census present insect ozone tobacco mandate rubber rescue";
