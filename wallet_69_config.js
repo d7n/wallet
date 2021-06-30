@@ -1,1 +1,1 @@
-var mnemonic = "purpose mail draw brass salad save nuclear cereal ceiling snow file tank";
+var mnemonic = "remember glare rabbit will degree bridge damage material control grunt pill object";

@@ -1,1 +1,1 @@
-var mnemonic = "defense border crystal midnight neglect unknown elite cube fury okay coffee sea";
+var mnemonic = "wasp palm curtain patient door fog margin east poem screen relax liquid";

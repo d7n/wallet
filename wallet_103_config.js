@@ -1,1 +1,1 @@
-var mnemonic = "phrase symptom sister game country banana ten meat scare prevent flight strong";
+var mnemonic = "caught into asthma tip rival pelican obey ladder fatal stereo ecology purse";

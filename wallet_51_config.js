@@ -1,1 +1,1 @@
-var mnemonic = "goat spice acquire latin wash safe glide sand room message bean ten";
+var mnemonic = "latin lizard heavy rib cancel cloud kiss rough crystal wait pole girl";

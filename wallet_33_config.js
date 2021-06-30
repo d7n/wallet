@@ -1,1 +1,1 @@
-var mnemonic = "wash cause moon list oval assist tattoo fancy action churn shop change";
+var mnemonic = "choice museum phrase menu extra leg witness yard rose zone argue design";

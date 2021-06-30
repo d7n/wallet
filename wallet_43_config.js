@@ -1,1 +1,1 @@
-var mnemonic = "differ magic what pause sign company camp error key anchor dish spatial";
+var mnemonic = "devote mobile gossip tornado hire climb trigger august wrong people woman school";

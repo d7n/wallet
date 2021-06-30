@@ -1,1 +1,1 @@
-var mnemonic = "endless risk cherry twist science warm warfare citizen bottom doctor slam resemble";
+var mnemonic = "hawk chuckle stay fame depth soda catalog depart future grace volume garbage";

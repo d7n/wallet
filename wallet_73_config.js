@@ -1,1 +1,1 @@
-var mnemonic = "legal gym loud limb submit mix timber vocal carry sketch coach cheap";
+var mnemonic = "critic aerobic boil cricket grab asthma upgrade pistol venture fox scan faith";

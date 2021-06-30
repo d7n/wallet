@@ -1,1 +1,1 @@
-var mnemonic = "crunch bicycle swallow enforce error escape crack lady moon decorate tag romance";
+var mnemonic = "lizard crater horror debris joy wonder enhance shoe into victory tenant over";

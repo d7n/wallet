@@ -1,1 +1,1 @@
-var mnemonic = "loop often emerge range yellow repair little vault survey upgrade rebuild fire";
+var mnemonic = "transfer citizen park captain pencil any budget tourist kiwi above rather veteran";

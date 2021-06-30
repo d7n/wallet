@@ -1,1 +1,1 @@
-var mnemonic = "bread song spice distance chase tray fringe ivory claw clock castle flight";
+var mnemonic = "search dose anchor legend slim absent book borrow turkey scene globe hurdle";

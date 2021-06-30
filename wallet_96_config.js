@@ -1,1 +1,1 @@
-var mnemonic = "roast season blood salmon paddle anger wheat slot evil rail coin aspect";
+var mnemonic = "saddle mixture remain foster vessel danger chat shoe welcome idea hour puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "resource mystery advice vacant boost iron ankle tag course mobile first advance";
+var mnemonic = "typical dial way pattern pink matter wife option embark thrive jeans emotion";

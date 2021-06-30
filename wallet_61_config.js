@@ -1,1 +1,1 @@
-var mnemonic = "hungry main veteran deny rigid clip struggle pride false tiny quiz egg";
+var mnemonic = "glove hybrid glow entry burden razor satisfy bike trap grief life video";

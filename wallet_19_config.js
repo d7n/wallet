@@ -1,1 +1,1 @@
-var mnemonic = "mouse immense bonus vacant prefer will marine write female ribbon light ask";
+var mnemonic = "laundry decide vocal scheme gentle gather true trouble universe lottery display frequent";

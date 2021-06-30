@@ -1,1 +1,1 @@
-var mnemonic = "daughter bracket hidden denial file announce blame boil envelope core whisper mushroom";
+var mnemonic = "clutch gym depart ranch crash medal funny resource crime lazy vacant chef";

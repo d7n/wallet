@@ -1,1 +1,1 @@
-var mnemonic = "door pretty broccoli crisp hundred clown latin know core achieve catch jump";
+var mnemonic = "hen cram vocal wonder boat unveil story pyramid talent giant mix decade";

@@ -1,1 +1,1 @@
-var mnemonic = "useful impact nut fury clap angry alpha trick derive visa job place";
+var mnemonic = "drop mansion drama rule become salad planet sheriff walk limb craft upon";

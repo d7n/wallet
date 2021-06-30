@@ -1,1 +1,1 @@
-var mnemonic = "into hidden cupboard airport run tooth admit tired ugly genius exact increase";
+var mnemonic = "lab wagon senior horror praise canal violin wagon giggle barrel idle claim";

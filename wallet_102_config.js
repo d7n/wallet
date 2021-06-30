@@ -1,1 +1,1 @@
-var mnemonic = "hobby screen retreat nation nuclear faculty auto screen fly ticket bamboo gate";
+var mnemonic = "burden mind hill awesome wear govern sister dentist hat guard useless depart";

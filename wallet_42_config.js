@@ -1,1 +1,1 @@
-var mnemonic = "attitude chunk rather tooth valve chaos sword balance announce chair gorilla hotel";
+var mnemonic = "upgrade unique zone portion robot exercise hawk engine pigeon absorb hurdle wave";

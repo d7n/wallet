@@ -1,1 +1,1 @@
-var mnemonic = "hybrid green eye mixed card guilt just output type sugar pyramid because";
+var mnemonic = "today custom wife banner ticket spoil glass half can basket fork giraffe";

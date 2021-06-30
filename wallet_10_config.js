@@ -1,1 +1,1 @@
-var mnemonic = "ivory outer close erupt believe hello win index carbon garment blame float";
+var mnemonic = "jump basket estate meadow sample fun liar pole amazing actor track resemble";

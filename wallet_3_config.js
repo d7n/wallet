@@ -1,1 +1,1 @@
-var mnemonic = "solar gentle festival argue bag film language aspect cloth raven misery dove";
+var mnemonic = "fault project worry solar dream share giraffe police shadow damp evidence mask";

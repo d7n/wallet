@@ -1,1 +1,1 @@
-var mnemonic = "require loan age phrase olive lazy awake waste galaxy human stock skill";
+var mnemonic = "clerk arrow govern guilt anger decade february kit hamster spend buddy step";

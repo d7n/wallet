@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin humble over radar pull recycle civil item banner excess category skin";
+var mnemonic = "fit laugh property between trust arrange toy pet program enjoy burst claw";

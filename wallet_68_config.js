@@ -1,1 +1,1 @@
-var mnemonic = "category achieve once skull month rural planet rack dune reopen slab victory";
+var mnemonic = "attack plastic spy smart jacket ship fuel stairs iron pledge calm uncover";

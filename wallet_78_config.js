@@ -1,1 +1,1 @@
-var mnemonic = "unknown need gate silly sense letter alcohol casino easy nuclear buffalo yellow";
+var mnemonic = "lottery cover power glory quiz exercise gain gravity junior desk must picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "flower steak trick humor autumn vote book connect sleep vibrant say lift";
+var mnemonic = "roast ask assist example destroy mother mammal hope thought what film birth";

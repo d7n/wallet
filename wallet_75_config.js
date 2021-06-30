@@ -1,1 +1,1 @@
-var mnemonic = "three dune calm purse merge junk sponsor home shock clever mouse leave";
+var mnemonic = "eight radio orange honey girl wife object saddle valve ice piano aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion crawl crater region thunder garment cook cabin estate sadness congress maid";
+var mnemonic = "silly dolphin gold taxi size spring cup deer exit recycle fuel tourist";

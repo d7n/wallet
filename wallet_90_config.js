@@ -1,1 +1,1 @@
-var mnemonic = "cliff sing top muscle frozen various tired tray culture upgrade gorilla brass";
+var mnemonic = "rubber movie inflict soup metal hospital into employ guitar cake panic kind";

@@ -1,1 +1,1 @@
-var mnemonic = "venture soon okay net cable camp poet consider blood supreme section bounce";
+var mnemonic = "offer people crew laptop oak category unknown bounce coast loop endless visa";

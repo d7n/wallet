@@ -1,1 +1,1 @@
-var mnemonic = "turkey photo agent volume attract magnet fog close rule loop snack orange";
+var mnemonic = "baby spike option loud radar east engage under thank wheel vicious bind";

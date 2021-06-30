@@ -1,1 +1,1 @@
-var mnemonic = "property assume attract december hawk trigger public bench garden grief room slight";
+var mnemonic = "brother outer wool sight debris chimney shift fault position prize inner abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "legal dish fragile bean suggest cool ivory sick nut zoo slow correct";
+var mnemonic = "slush drift solid wage width minor afraid inspire special sail hurry cargo";

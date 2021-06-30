@@ -1,1 +1,1 @@
-var mnemonic = "razor power universe warfare dash person liar color clock stadium juice what";
+var mnemonic = "palm huge useful exact arm gadget fashion figure false mix order guard";

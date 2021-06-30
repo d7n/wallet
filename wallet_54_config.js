@@ -1,1 +1,1 @@
-var mnemonic = "horror honey cupboard level million pave judge gravity unhappy repair salon west";
+var mnemonic = "bounce essence juice task have april valid add glad inject supreme staff";

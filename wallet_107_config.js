@@ -1,1 +1,1 @@
-var mnemonic = "sheriff chapter carbon bird rabbit cattle base speed hood mixture puzzle grass";
+var mnemonic = "season sting doll upgrade hen wide win craft nurse burden reflect oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff fire add vicious skin view slot cigar siege auto priority fog";
+var mnemonic = "extra winner nose other dust pencil weekend reason grant museum sort group";

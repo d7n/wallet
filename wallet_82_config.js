@@ -1,1 +1,1 @@
-var mnemonic = "stable twelve vintage famous knee theory balcony display enough canyon clean hood";
+var mnemonic = "knife fox country room february gossip sentence sadness web age december super";

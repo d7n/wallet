@@ -1,1 +1,1 @@
-var mnemonic = "social margin eye cover cool guess outer that cloud powder tell wisdom";
+var mnemonic = "speed usual buzz arena become gun weird case symbol tortoise insect month";

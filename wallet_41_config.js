@@ -1,1 +1,1 @@
-var mnemonic = "tube require wolf combine kind obtain staff average universe hedgehog floor curious";
+var mnemonic = "shove early powder saddle syrup confirm news poverty gloom pattern casino welcome";

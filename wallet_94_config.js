@@ -1,1 +1,1 @@
-var mnemonic = "correct castle fun pigeon vapor alpha rich switch access lamp slender answer";
+var mnemonic = "make eternal speak ozone vicious crumble setup unusual cause acid crunch silly";

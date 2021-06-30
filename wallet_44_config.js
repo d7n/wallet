@@ -1,1 +1,1 @@
-var mnemonic = "gym will gate pigeon sniff payment live stove tree goat river before";
+var mnemonic = "snake food deal dog process sweet faith winter vanish plastic cruel tilt";

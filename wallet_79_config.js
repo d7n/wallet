@@ -1,1 +1,1 @@
-var mnemonic = "share sand tobacco barrel legal include bus grit giggle skill horn cricket";
+var mnemonic = "just digital social fiction release file try ribbon simple knife worry canal";

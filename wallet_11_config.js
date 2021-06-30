@@ -1,1 +1,1 @@
-var mnemonic = "hospital easy luggage debate estate gun rent major guilt cushion stadium recall";
+var mnemonic = "junior act certain float fashion bus trash fix grant public oval uncover";

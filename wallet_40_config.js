@@ -1,1 +1,1 @@
-var mnemonic = "detect cart sand lyrics prepare weapon napkin unaware police domain blouse mixed";
+var mnemonic = "anxiety series dismiss bonus pattern brief arch stove crane dash panda federal";

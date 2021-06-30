@@ -1,1 +1,1 @@
-var mnemonic = "tip brief orchard treat online panda bag slam please silk swim potato";
+var mnemonic = "apple stay immune toddler apology artist purpose corn fun task rubber utility";

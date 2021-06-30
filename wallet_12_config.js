@@ -1,1 +1,1 @@
-var mnemonic = "area exhaust canal audit daring sting goddess great business brown edit detect";
+var mnemonic = "produce sunny skin prepare maid crash cloth pen panic resemble rotate camp";

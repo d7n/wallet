@@ -1,1 +1,1 @@
-var mnemonic = "high erase shift race bacon brand tortoise squirrel cause arrest bone degree";
+var mnemonic = "crouch uphold scatter rice ski citizen hollow balance jewel pill raise news";

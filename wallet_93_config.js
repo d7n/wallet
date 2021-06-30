@@ -1,1 +1,1 @@
-var mnemonic = "awful enjoy consider tail require abuse canyon peasant clay fold people maximum";
+var mnemonic = "evil people april bridge sort dawn betray plastic multiply fan similar portion";

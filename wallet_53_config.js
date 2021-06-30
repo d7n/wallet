@@ -1,1 +1,1 @@
-var mnemonic = "gasp submit consider defense blade hip indicate evil flat lion reduce foster";
+var mnemonic = "heart unhappy illegal flag paddle deer dish cave joke deputy waste because";

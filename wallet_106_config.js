@@ -1,1 +1,1 @@
-var mnemonic = "chimney digital talk small disagree minute quiz nice ancient kite hollow bronze";
+var mnemonic = "senior industry view shove minor brush swim major funny already write hurry";

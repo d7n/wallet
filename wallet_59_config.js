@@ -1,1 +1,1 @@
-var mnemonic = "erupt hello open boil solar rack final harvest scissors dog exist again";
+var mnemonic = "arm dawn future retire limb acid green inhale surprise layer catalog chicken";

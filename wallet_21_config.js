@@ -1,1 +1,1 @@
-var mnemonic = "pyramid tired present world theory swim exile pudding visual office fancy gaze";
+var mnemonic = "laundry loud you parrot trouble digital anxiety summer follow differ gather patch";

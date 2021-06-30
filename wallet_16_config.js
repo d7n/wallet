@@ -1,1 +1,1 @@
-var mnemonic = "approve disagree hobby crater clutch thing until suffer fat drum gadget smoke";
+var mnemonic = "lyrics now include sun end unable jump arrow aware page false equal";

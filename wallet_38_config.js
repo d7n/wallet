@@ -1,1 +1,1 @@
-var mnemonic = "fresh deposit item uphold artefact acid fog knife rally direct crunch claw";
+var mnemonic = "snack nuclear duty weather kick fog month useful become nominee involve dolphin";

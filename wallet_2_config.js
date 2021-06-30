@@ -1,1 +1,1 @@
-var mnemonic = "put dry struggle turn raven adjust alley student hedgehog absorb cricket expose";
+var mnemonic = "night delay chase violin faint shop fossil stay parrot erode drum save";

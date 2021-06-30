@@ -1,1 +1,1 @@
-var mnemonic = "young boat liquid exclude chapter system busy observe flock muffin velvet require";
+var mnemonic = "local attract entire nominee depart denial because awake anxiety happy one evidence";

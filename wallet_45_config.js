@@ -1,1 +1,1 @@
-var mnemonic = "adult merge trim update brass renew kind proof permit gossip correct vault";
+var mnemonic = "blood lion forum trend belt range glide develop quarter pact swing trumpet";

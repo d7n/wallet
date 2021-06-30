@@ -1,1 +1,1 @@
-var mnemonic = "oak apology acid regret stereo tiny depend senior actual term letter filter";
+var mnemonic = "eight talk muscle track network end genuine boat abandon unknown topple artwork";

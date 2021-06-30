@@ -1,1 +1,1 @@
-var mnemonic = "laundry turtle ketchup age bright field apart hockey thumb hold hover enter";
+var mnemonic = "two siege room deny beauty oak limb until orbit spin flavor century";

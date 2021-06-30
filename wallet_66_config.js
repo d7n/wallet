@@ -1,1 +1,1 @@
-var mnemonic = "hurt swallow water dice glory year claw sun tomato negative prevent write";
+var mnemonic = "tail can royal canal elbow waste bring original member enemy milk valve";

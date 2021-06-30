@@ -1,1 +1,1 @@
-var mnemonic = "season affair dwarf hospital primary grocery photo asthma ripple sheriff nerve knock";
+var mnemonic = "limit magic female patient move inside inform tone menu chase fury venue";

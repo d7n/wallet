@@ -1,1 +1,1 @@
-var mnemonic = "purity merge peasant young erode rather nose bench just attract furnace tuna";
+var mnemonic = "version arctic fruit indoor guess nice payment tennis kitten penalty ancient level";

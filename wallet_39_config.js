@@ -1,1 +1,1 @@
-var mnemonic = "pink shoulder curious price legend river about tone ice light unveil fold";
+var mnemonic = "home present edge spring crew shuffle blame feed eight task easily juice";

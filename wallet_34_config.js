@@ -1,1 +1,1 @@
-var mnemonic = "oppose behind sauce young round cinnamon supply any call replace such raw";
+var mnemonic = "dose ecology shock abstract you habit silver bonus task baby scheme piece";

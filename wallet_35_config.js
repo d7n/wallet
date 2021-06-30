@@ -1,1 +1,1 @@
-var mnemonic = "egg element math radio slow expect scrub bean short pass grant ski";
+var mnemonic = "tuition guide what cat fox intact fragile crumble hero brown rotate bind";

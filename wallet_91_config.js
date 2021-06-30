@@ -1,1 +1,1 @@
-var mnemonic = "exile tongue cool trash impact fine magic panel gadget client make blossom";
+var mnemonic = "basket parrot ankle impulse hair among purpose subject token risk bamboo lend";

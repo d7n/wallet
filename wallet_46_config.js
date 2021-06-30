@@ -1,1 +1,1 @@
-var mnemonic = "wool size disease body card beach gossip when frequent rigid copper slot";
+var mnemonic = "inhale then scheme salt sponsor eight seminar inside proof feature benefit light";

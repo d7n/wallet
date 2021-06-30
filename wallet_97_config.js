@@ -1,1 +1,1 @@
-var mnemonic = "report wing tomato immense act ocean aspect reform tunnel lucky obvious state";
+var mnemonic = "someone movie fury unfair unlock casino wing general wrestle manual drum public";

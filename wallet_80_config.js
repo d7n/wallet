@@ -1,1 +1,1 @@
-var mnemonic = "energy reflect rate heavy extend hen flame sudden crucial spider raven economy";
+var mnemonic = "doll kitchen convince wealth excite gaze argue hat brick shed royal social";

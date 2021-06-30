@@ -1,1 +1,1 @@
-var mnemonic = "seek fever notice stage patrol assume regular program human legal post snake";
+var mnemonic = "kick barrel shallow patch narrow script copper half enough fish crane pool";

@@ -1,1 +1,1 @@
-var mnemonic = "width key method museum sheriff alcohol cupboard agent boat sniff member repair";
+var mnemonic = "duck rely garage clever toast during reduce sound utility long rude divert";

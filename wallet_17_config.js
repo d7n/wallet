@@ -1,1 +1,1 @@
-var mnemonic = "diagram use innocent achieve wash spy segment trash dwarf indicate oppose physical";
+var mnemonic = "athlete twenty attract scorpion behind lava system curve fade prosper brave dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "unable bulk among nose upgrade mask clarify bullet spider unique creek trash";
+var mnemonic = "quote question wage foil capable citizen club earn reform direct isolate police";

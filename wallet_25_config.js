@@ -1,1 +1,1 @@
-var mnemonic = "salon usage conduct jungle rival success safe manual allow educate laundry identify";
+var mnemonic = "lunar crater rubber weasel sell write absurd route mom pride knife exchange";

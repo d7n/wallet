@@ -1,1 +1,1 @@
-var mnemonic = "lemon antenna feed immune music utility bulk toward fold edge travel february";
+var mnemonic = "burger virus rubber dice tail clog rough injury lady old drink primary";

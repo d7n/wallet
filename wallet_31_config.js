@@ -1,1 +1,1 @@
-var mnemonic = "lemon system obey total void grief news come vast flower soda cover";
+var mnemonic = "river settle walnut scare ritual result secret ski burden salute huge list";

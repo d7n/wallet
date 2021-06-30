@@ -1,1 +1,1 @@
-var mnemonic = "crouch orphan jeans pair heavy lock target cloth life wild glimpse capable";
+var mnemonic = "what tourist beef era luggage lamp advance tuition rural clerk crystal imitate";

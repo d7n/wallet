@@ -1,1 +1,1 @@
-var mnemonic = "agree profit smooth design wise cage track marine detect olympic ozone sausage";
+var mnemonic = "library immense canvas carpet timber million rural angry prosper short hub uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "finish submit exhaust often advice boat tell yellow resist ski give arrest";
+var mnemonic = "mesh feel index then exist jump fiction alter alpha run clinic kid";

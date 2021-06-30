@@ -1,1 +1,1 @@
-var mnemonic = "gap that color stumble doctor same all detail body bus time filter";
+var mnemonic = "knock robot kitchen make solution blame inform spend input alter dish save";

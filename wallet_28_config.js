@@ -1,1 +1,1 @@
-var mnemonic = "wolf better call bitter stone garage develop cat snow witness copper action";
+var mnemonic = "census host attract relief address genuine rent cash april promote swamp window";

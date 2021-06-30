@@ -1,1 +1,1 @@
-var mnemonic = "dentist butter frame second program marble boring kiwi jaguar vibrant mercy wall";
+var mnemonic = "fire fine magnet obtain either fold mutual sausage demand shadow spike stone";

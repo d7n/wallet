@@ -1,1 +1,1 @@
-var mnemonic = "crush yellow slice excuse master eight decorate ivory sick situate old please";
+var mnemonic = "tiger neck symbol easily stand armor live argue build size mobile sustain";

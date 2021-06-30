@@ -1,1 +1,1 @@
-var mnemonic = "glare mesh universe fancy illness scout coffee betray vivid luxury bike skate";
+var mnemonic = "about cancel faith satisfy will adapt hundred roof own flush mandate forward";

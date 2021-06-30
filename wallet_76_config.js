@@ -1,1 +1,1 @@
-var mnemonic = "patrol loan response repair dinner option sun giant hire anxiety lab cram";
+var mnemonic = "humble identify noise outer time chuckle elegant practice shock fog deer embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm agree style mansion profit conduct holiday figure rookie radio trigger program";
+var mnemonic = "plastic chef space debate system casual parade season suffer page treat perfect";

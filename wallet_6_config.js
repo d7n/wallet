@@ -1,1 +1,1 @@
-var mnemonic = "stock clinic urge cycle session quiz winter cream try quote daughter derive";
+var mnemonic = "grit job syrup anchor slush manual market clever undo saddle song rhythm";
