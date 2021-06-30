@@ -1,1 +1,1 @@
-var mnemonic = "wood dilemma horse hunt marine misery trade tail bag evil decide teach";
+var mnemonic = "forget decrease feature garlic vessel stove horse magic town vital observe ripple";

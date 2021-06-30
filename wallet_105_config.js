@@ -1,1 +1,1 @@
-var mnemonic = "panic once jewel gather great cry fun solution size excess knee jeans";
+var mnemonic = "mimic library paper duck radio used round tunnel empower round define kick";

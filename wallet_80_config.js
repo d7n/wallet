@@ -1,1 +1,1 @@
-var mnemonic = "joke humble calm client reward slice today blind brown write measure alter";
+var mnemonic = "plug auction gravity reform unique swap annual chase any hotel exhibit bacon";

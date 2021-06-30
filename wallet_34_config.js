@@ -1,1 +1,1 @@
-var mnemonic = "net depend essence confirm team country frozen walk elbow champion diesel casual";
+var mnemonic = "phrase devote whip rough subway stamp dust doctor general wink popular ignore";

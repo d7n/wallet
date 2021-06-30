@@ -1,1 +1,1 @@
-var mnemonic = "emotion manage basic split unfair verb inspire fatigue must mention critic ancient";
+var mnemonic = "doll ordinary heart any kit social very topic deny orphan fix remind";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown remind luxury come cheese weekend remove lock angry source float citizen";
+var mnemonic = "trick always image owner number advance announce warm vague latin banana bless";

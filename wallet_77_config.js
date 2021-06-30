@@ -1,1 +1,1 @@
-var mnemonic = "flag blossom must fun pattern express october village mimic useful wreck winner";
+var mnemonic = "short fancy smoke destroy neither vague letter session reason autumn advice defense";

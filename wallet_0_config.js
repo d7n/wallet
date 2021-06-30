@@ -1,1 +1,1 @@
-var mnemonic = "random rose income behind thunder point ostrich jelly swing question state six";
+var mnemonic = "shuffle pause credit mechanic drive model gate hair ill olympic lawn void";

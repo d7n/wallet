@@ -1,1 +1,1 @@
-var mnemonic = "capable carbon slush another maze oxygen gorilla scene shuffle inch travel electric";
+var mnemonic = "orbit belt scrub struggle bike lift tissue ticket talk skill innocent dignity";

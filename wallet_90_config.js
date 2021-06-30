@@ -1,1 +1,1 @@
-var mnemonic = "raven avocado olympic minute lonely planet ugly identify coral patch label display";
+var mnemonic = "agree north neck column frog ethics museum there unique parade embody novel";

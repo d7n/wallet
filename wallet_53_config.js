@@ -1,1 +1,1 @@
-var mnemonic = "cushion rhythm deer illegal deny punch canoe visa manage dance garage place";
+var mnemonic = "illness country stone denial gospel weasel exclude flash engage chat guitar verify";

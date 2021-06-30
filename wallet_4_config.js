@@ -1,1 +1,1 @@
-var mnemonic = "virtual wheel nest rebuild sport height wood divert life kid blood alone";
+var mnemonic = "sport shy album cross acquire powder mule claw assault exercise reveal artefact";

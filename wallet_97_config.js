@@ -1,1 +1,1 @@
-var mnemonic = "sudden awful give result impact until select cry subway chaos learn punch";
+var mnemonic = "clap dust brand avocado have jacket photo run dentist lumber that hazard";

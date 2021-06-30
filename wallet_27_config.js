@@ -1,1 +1,1 @@
-var mnemonic = "front inherit ankle kick horse table detail obey tackle avocado electric razor";
+var mnemonic = "nation moral pear solar inner win aerobic multiply dose anchor frown child";

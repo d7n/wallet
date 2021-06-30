@@ -1,1 +1,1 @@
-var mnemonic = "infant electric sort maple giraffe pledge fruit ocean scissors attitude chat prison";
+var mnemonic = "immense guard employ clip awkward home shallow welcome decade choose spin bicycle";

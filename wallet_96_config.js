@@ -1,1 +1,1 @@
-var mnemonic = "fluid shop famous spider unable pitch urban can inhale hold text year";
+var mnemonic = "check neutral midnight print actual entry fence cube pact artwork flash advance";

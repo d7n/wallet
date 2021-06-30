@@ -1,1 +1,1 @@
-var mnemonic = "rent slide such grocery bargain armor toast reject hub find view artist";
+var mnemonic = "issue box second either pistol similar december siege leopard acid push blood";

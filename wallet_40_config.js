@@ -1,1 +1,1 @@
-var mnemonic = "decade tilt axis border actor broom cube execute steel remove owner settle";
+var mnemonic = "piece coast bike drip weasel resist immune rebel picnic rib faint thing";

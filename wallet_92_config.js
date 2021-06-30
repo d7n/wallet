@@ -1,1 +1,1 @@
-var mnemonic = "gate minimum eager mobile slight box what adult power special thing armor";
+var mnemonic = "drift image document pull picnic service this labor dust magic garden chunk";

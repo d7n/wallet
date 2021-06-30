@@ -1,1 +1,1 @@
-var mnemonic = "detect hand foil distance vast base access must flash fluid program gadget";
+var mnemonic = "broccoli doll century artist visa tent grow ribbon traffic need airport deliver";

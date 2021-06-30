@@ -1,1 +1,1 @@
-var mnemonic = "palace member park dress taste glide mushroom often wisdom salon wasp bronze";
+var mnemonic = "spell flower dynamic impulse between dragon net judge random faith lounge sausage";

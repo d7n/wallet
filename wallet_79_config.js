@@ -1,1 +1,1 @@
-var mnemonic = "indoor become cave medal huge sister gorilla announce wash huge shed fashion";
+var mnemonic = "author gospel okay distance improve run drift connect note extend list retreat";

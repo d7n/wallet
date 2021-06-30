@@ -1,1 +1,1 @@
-var mnemonic = "find subway robust month holiday name invite cube gold way tomorrow buzz";
+var mnemonic = "clog hockey program urge eternal select shiver dry height employ pride struggle";

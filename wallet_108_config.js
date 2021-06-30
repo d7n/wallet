@@ -1,1 +1,1 @@
-var mnemonic = "type patient thumb song sketch skin churn dress bachelor boost universe man";
+var mnemonic = "drill feel health shop ethics drive arrow summer inmate test spin genius";

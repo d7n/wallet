@@ -1,1 +1,1 @@
-var mnemonic = "notice illness check stumble stuff decide awake prize evoke budget outer worry";
+var mnemonic = "garage magnet mix rival upset limit plug trophy cricket citizen indicate breeze";

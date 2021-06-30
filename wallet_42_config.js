@@ -1,1 +1,1 @@
-var mnemonic = "proof seat angry vicious lunch gravity maze problem struggle amount return confirm";
+var mnemonic = "purpose entry actual shell entire section benefit canyon cruel tortoise object episode";

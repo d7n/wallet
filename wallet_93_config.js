@@ -1,1 +1,1 @@
-var mnemonic = "security october wet lunch author state cause vocal decline useless mixture enough";
+var mnemonic = "client century famous process embark rely discover confirm arrange utility jelly wide";

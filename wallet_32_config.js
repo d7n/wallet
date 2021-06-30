@@ -1,1 +1,1 @@
-var mnemonic = "disorder across wine beyond brick admit limb extra club boss pool judge";
+var mnemonic = "detail fame home various fault scan cup tube barrel super aunt egg";

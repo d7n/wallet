@@ -1,1 +1,1 @@
-var mnemonic = "vacuum fork among fantasy accident clock goddess surge love game magic toe";
+var mnemonic = "polar alley exchange chat onion damp arena possible minimum dinner siege mercy";

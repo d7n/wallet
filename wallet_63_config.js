@@ -1,1 +1,1 @@
-var mnemonic = "thrive strategy true timber nice post ring crew tip february sure model";
+var mnemonic = "reopen nest winner question popular unaware address stone pony three soldier enhance";

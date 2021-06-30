@@ -1,1 +1,1 @@
-var mnemonic = "captain pride six gorilla bus wine suit thought seek next record diet";
+var mnemonic = "supply tell smoke clean simple noble grief lunar episode beef wheel jazz";

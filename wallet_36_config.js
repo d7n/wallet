@@ -1,1 +1,1 @@
-var mnemonic = "gold depart connect mosquito plastic refuse online offer view laptop cost walk";
+var mnemonic = "reveal size drive solar grid reduce wing cupboard only cram auction squeeze";

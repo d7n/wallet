@@ -1,1 +1,1 @@
-var mnemonic = "sunny aim practice item element step soup teach bird scene badge ozone";
+var mnemonic = "stereo crowd hybrid seek reveal effort rebuild sad fabric cruise sunset father";

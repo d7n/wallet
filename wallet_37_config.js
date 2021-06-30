@@ -1,1 +1,1 @@
-var mnemonic = "vacant confirm deliver keen tool habit include attend snake romance tuition slice";
+var mnemonic = "behave early refuse acquire begin pony radar blue chief crunch jungle silly";

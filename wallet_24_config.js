@@ -1,1 +1,1 @@
-var mnemonic = "behave switch wrist bulk portion fury smoke rare also cross round toward";
+var mnemonic = "front eagle reopen diesel hurt budget walk ritual orphan dirt verify range";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket farm base such double elder glue deal glimpse pupil pledge ozone";
+var mnemonic = "similar relax answer frequent ten fiction shoot swing wheel derive trade truth";

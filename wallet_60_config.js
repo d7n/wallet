@@ -1,1 +1,1 @@
-var mnemonic = "burden desk fresh carry royal charge boat capital viable message april arch";
+var mnemonic = "apple ritual toast outside smooth manage risk improve deal rain bag razor";

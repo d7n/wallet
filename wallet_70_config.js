@@ -1,1 +1,1 @@
-var mnemonic = "debate stove debris recipe tent crop witness task chapter digital junk canyon";
+var mnemonic = "cage congress royal into reward blouse alpha oblige similar pistol sell boost";

@@ -1,1 +1,1 @@
-var mnemonic = "property town rotate whale radar skate buyer usual other budget knee bicycle";
+var mnemonic = "crystal breeze kingdom hospital cattle mother gold track bachelor clip train disagree";

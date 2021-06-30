@@ -1,1 +1,1 @@
-var mnemonic = "river swamp fresh weapon actual warm project sport gasp connect assist bulk";
+var mnemonic = "salute reject jaguar female cat mean phrase vital about laptop silly basket";

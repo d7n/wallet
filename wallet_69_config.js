@@ -1,1 +1,1 @@
-var mnemonic = "palm empower section ankle path draw alpha lend basket couple fiscal frog";
+var mnemonic = "alone pencil culture nephew another initial tape movie soon glove diamond gauge";

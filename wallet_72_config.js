@@ -1,1 +1,1 @@
-var mnemonic = "powder sphere accident ethics girl enemy make typical elder sell elite draw";
+var mnemonic = "mandate cinnamon penalty display chair outside confirm canal smart million alley hundred";

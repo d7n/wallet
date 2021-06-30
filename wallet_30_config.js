@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit merge hurry cup dwarf recall borrow change remove cliff swap lion";
+var mnemonic = "kiwi gather paddle city kitchen test blue agree quote valid erupt idle";

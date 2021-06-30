@@ -1,1 +1,1 @@
-var mnemonic = "when toy crew sniff silent gorilla name believe vault purse defense mesh";
+var mnemonic = "elephant danger gossip helmet dentist rail buzz slow extend service salad orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "annual vapor present rapid pool detect alert matter crop update fancy suggest";
+var mnemonic = "script fly peanut snake mass enroll barrel ranch key attend turtle fashion";

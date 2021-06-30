@@ -1,1 +1,1 @@
-var mnemonic = "exhaust miss medal topic lava before dwarf supply copy pink old total";
+var mnemonic = "donkey baby income gown fence oppose veteran custom survey raise soldier family";

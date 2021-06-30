@@ -1,1 +1,1 @@
-var mnemonic = "blanket candy brand clock conduct brand gasp confirm chase dress helmet throw";
+var mnemonic = "arctic wash apple auto useful never abstract awesome solar common inner bone";

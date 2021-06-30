@@ -1,1 +1,1 @@
-var mnemonic = "episode raven review crime author clean civil print adjust video cream answer";
+var mnemonic = "inhale captain dwarf govern humor civil mango envelope correct small play speak";

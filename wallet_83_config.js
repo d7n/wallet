@@ -1,1 +1,1 @@
-var mnemonic = "exotic dog cart inmate eight truck steel guitar noble success eyebrow crime";
+var mnemonic = "lemon price brown filter bottom indoor mass hammer hand awful borrow insane";

@@ -1,1 +1,1 @@
-var mnemonic = "winner harvest dish accident erode defy grocery penalty sibling park brisk embark";
+var mnemonic = "assume owner goddess quiz already belt cancel age hold elite rug tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve mule perfect front cushion dice tail tube behind country bacon cause";
+var mnemonic = "assault gown easy pioneer proud butter dumb witness welcome whisper various this";

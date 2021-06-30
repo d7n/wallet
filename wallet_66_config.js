@@ -1,1 +1,1 @@
-var mnemonic = "just robot since satoshi armed method bargain donate apart machine knock zero";
+var mnemonic = "gown birth runway mechanic candy prize apple possible festival accuse earth knife";

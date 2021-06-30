@@ -1,1 +1,1 @@
-var mnemonic = "police frame junior couple hen figure kiwi choose people pitch together safe";
+var mnemonic = "mammal caught equip gown chronic vacuum display warrior lady art beef fuel";

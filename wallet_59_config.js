@@ -1,1 +1,1 @@
-var mnemonic = "agent flee toy atom bundle hurdle season slogan tumble pepper nasty assault";
+var mnemonic = "razor oxygen hood hobby expand mass much castle picnic suspect sister narrow";

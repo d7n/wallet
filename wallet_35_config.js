@@ -1,1 +1,1 @@
-var mnemonic = "illness screen miss ancient emerge energy connect divide wise valid wing soccer";
+var mnemonic = "desert erupt face cover dinner style ancient advice brief shallow post accuse";

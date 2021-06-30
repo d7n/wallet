@@ -1,1 +1,1 @@
-var mnemonic = "hint bullet tourist entry movie fish plunge film butter between mutual brisk";
+var mnemonic = "mystery local chat drama dream switch today steak fork repair limit tray";

@@ -1,1 +1,1 @@
-var mnemonic = "drama thumb flag sorry jelly credit series seek twenty strategy chase stock";
+var mnemonic = "whale clever barrel earth people play metal burden bulb health kidney palace";

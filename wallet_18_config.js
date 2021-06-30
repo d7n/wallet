@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon charge sugar forget unveil image magnet uncle gather anger quick panther";
+var mnemonic = "flock soccer chalk cloud liberty man earth course trap damage hidden peasant";

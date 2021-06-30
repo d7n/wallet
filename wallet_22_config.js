@@ -1,1 +1,1 @@
-var mnemonic = "balcony ready exist latin fitness fury dream desk usual minor sadness receive";
+var mnemonic = "phone kidney dinosaur pig welcome arctic long icon rival assault balcony garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "office fee alter result jar gossip type lunch board begin fold indicate";
+var mnemonic = "asthma view town reform april horn worry butter wrap cloth skull verb";

@@ -1,1 +1,1 @@
-var mnemonic = "account sound action acoustic boat chapter apple old family opera hundred number";
+var mnemonic = "inch ball number voyage post knife hood legend giggle lottery list lend";

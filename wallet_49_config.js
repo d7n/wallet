@@ -1,1 +1,1 @@
-var mnemonic = "library shallow average include shadow pottery shrug ready fury else tourist memory";
+var mnemonic = "coil swear affair inmate summer ski pool cabin source ranch armed aisle";

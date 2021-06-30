@@ -1,1 +1,1 @@
-var mnemonic = "inhale blossom cruise harsh pretty budget stock manage blind pool diamond pear";
+var mnemonic = "thank sword vicious time snow mountain story iron scene open client bean";

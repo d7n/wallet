@@ -1,1 +1,1 @@
-var mnemonic = "noodle wrestle laugh kidney satisfy cycle width goat exclude laugh program draft";
+var mnemonic = "reveal curious hybrid tortoise never fine mean front make suffer want noise";

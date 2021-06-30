@@ -1,1 +1,1 @@
-var mnemonic = "grain entire element donate broken bleak oak differ front donkey chimney tribe";
+var mnemonic = "viable teach fit turn suspect item curious oblige afraid siren room corn";

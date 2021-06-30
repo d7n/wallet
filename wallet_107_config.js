@@ -1,1 +1,1 @@
-var mnemonic = "swing control kangaroo alert skate tube harsh wise layer final ivory eye";
+var mnemonic = "property illegal miracle glory immune police transfer noise long blue sheriff divorce";

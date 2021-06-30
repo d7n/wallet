@@ -1,1 +1,1 @@
-var mnemonic = "maid moon stay yellow inner square slight couch ritual century sugar answer";
+var mnemonic = "top essence immense news toy left bar vessel sail tackle scale wall";

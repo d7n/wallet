@@ -1,1 +1,1 @@
-var mnemonic = "swear twist exercise snake valid announce degree anchor bench maid act recipe";
+var mnemonic = "skate one slice list member violin cause hand random miracle unusual maximum";

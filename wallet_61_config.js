@@ -1,1 +1,1 @@
-var mnemonic = "peasant draw sing legal spoon resource upon student despair brain warm dress";
+var mnemonic = "confirm together horror hobby cake torch during make demise toe inner tag";

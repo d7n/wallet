@@ -1,1 +1,1 @@
-var mnemonic = "educate neither then orchard void pass vibrant dutch whisper celery govern flock";
+var mnemonic = "core victory clinic exercise humor record layer cancel nut neck mango spin";

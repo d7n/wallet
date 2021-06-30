@@ -1,1 +1,1 @@
-var mnemonic = "credit broom liberty swear vendor city want copper alley plastic flag feel";
+var mnemonic = "science gossip lift answer inherit slush twice crucial exclude subject dinosaur machine";

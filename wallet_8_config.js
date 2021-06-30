@@ -1,1 +1,1 @@
-var mnemonic = "slam traffic tornado destroy dice motion deer idea sea rib travel uncover";
+var mnemonic = "mail gain isolate license property alert gift hair midnight fatigue excite voice";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel farm spread jealous flower raw front draw quarter junior manage card";
+var mnemonic = "oxygen raven cover moment require idle sort glow car battle palace attract";

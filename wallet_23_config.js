@@ -1,1 +1,1 @@
-var mnemonic = "riot weekend step wisdom twin ugly message mind bounce buffalo peanut rail";
+var mnemonic = "outdoor idle cigar green lunar embrace quantum bike alone evil veteran among";

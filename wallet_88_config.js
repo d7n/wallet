@@ -1,1 +1,1 @@
-var mnemonic = "off wink nose swallow rescue comic monitor canyon control original valley note";
+var mnemonic = "grunt clarify crouch noise marine design oppose stool insane wolf nuclear duck";

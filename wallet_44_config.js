@@ -1,1 +1,1 @@
-var mnemonic = "company uphold network size december hollow brisk fee oblige phrase crouch love";
+var mnemonic = "cruel only ask sell entry brown clump give entire hazard develop success";

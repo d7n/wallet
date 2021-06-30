@@ -1,1 +1,1 @@
-var mnemonic = "small butter laundry mushroom scissors dismiss proud foster nuclear miracle toddler master";
+var mnemonic = "armed tenant project hybrid certain reunion total drive proof hip bench tent";

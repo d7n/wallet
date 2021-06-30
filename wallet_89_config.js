@@ -1,1 +1,1 @@
-var mnemonic = "round nest swift word weasel remember dial dose lyrics oval hat cable";
+var mnemonic = "avoid ostrich audit kind media category violin bitter ethics unknown drift cash";

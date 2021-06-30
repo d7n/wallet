@@ -1,1 +1,1 @@
-var mnemonic = "globe disease release stool clean lesson roof burden glide supreme tomorrow pull";
+var mnemonic = "income idea leg opinion mix trophy clip soup right true fluid sudden";

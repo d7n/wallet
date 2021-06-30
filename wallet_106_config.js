@@ -1,1 +1,1 @@
-var mnemonic = "cram permit pen envelope race found skull general print verify seed forest";
+var mnemonic = "man render fog coin flock under slogan pupil lyrics gift arctic athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "card stamp idle tortoise stay volume shoulder used depart search add jar";
+var mnemonic = "ride sibling brand enforce culture help stairs music velvet mammal alarm acoustic";

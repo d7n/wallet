@@ -1,1 +1,1 @@
-var mnemonic = "neither cost attitude chuckle pretty meadow method use private same toss vault";
+var mnemonic = "venture tone vacant frozen control inhale magic blossom grow style powder oak";

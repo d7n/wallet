@@ -1,1 +1,1 @@
-var mnemonic = "ready thunder monster tilt ice train spatial owner enrich harbor glass daughter";
+var mnemonic = "mother similar nerve arrive copper feed fame payment arena speak bottom amazing";

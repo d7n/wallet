@@ -1,1 +1,1 @@
-var mnemonic = "material debris dwarf stereo deny horn enjoy length write sustain mean blade";
+var mnemonic = "certain smile faint solve source gap speak unusual oak matter flock tired";

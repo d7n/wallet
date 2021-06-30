@@ -1,1 +1,1 @@
-var mnemonic = "royal cake fruit floor fever example drum exist inner fatigue profit panda";
+var mnemonic = "wagon type game brick can clean lizard fat this expose stairs circle";

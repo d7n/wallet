@@ -1,1 +1,1 @@
-var mnemonic = "despair veteran inspire jealous bottom drastic nephew sugar acoustic voice illness cool";
+var mnemonic = "indoor ramp simple kiwi crop feature orbit miss sort card need idle";

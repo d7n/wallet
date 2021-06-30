@@ -1,1 +1,1 @@
-var mnemonic = "fog bargain concert dizzy under save flight bargain caution mimic patch local";
+var mnemonic = "payment dolphin wise author pledge access polar glide evolve seek cliff solution";

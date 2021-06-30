@@ -1,1 +1,1 @@
-var mnemonic = "deposit move drip galaxy grid real list hamster acid clever arrive injury";
+var mnemonic = "this memory cable warm copy imitate letter aerobic afraid wash keen firm";

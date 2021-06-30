@@ -1,1 +1,1 @@
-var mnemonic = "double city corn carry alarm market awkward develop doctor open trouble bargain";
+var mnemonic = "magnet wagon oven march veteran page maze final exact since rather mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "cup uncover bone faculty normal view universe column gallery wrestle warrior stand";
+var mnemonic = "improve museum spray tomato harsh drill farm zero coin sudden pulp rude";

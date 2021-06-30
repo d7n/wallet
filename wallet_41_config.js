@@ -1,1 +1,1 @@
-var mnemonic = "keen black solve tone movie draft lemon motion helmet toilet insane liberty";
+var mnemonic = "pudding large erase lobster faculty wait agree business weekend monster blossom salt";

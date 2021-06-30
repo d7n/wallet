@@ -1,1 +1,1 @@
-var mnemonic = "visa tank large clean number radio obvious knee marine rug caught never";
+var mnemonic = "tube pride depart absorb book wisdom orbit story engine clump similar dirt";

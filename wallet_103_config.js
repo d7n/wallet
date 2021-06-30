@@ -1,1 +1,1 @@
-var mnemonic = "joke scatter correct mansion series stove approve jealous mansion bundle erosion make";
+var mnemonic = "vacant focus enhance endorse issue stool device mechanic police inch feature theory";
