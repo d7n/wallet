@@ -1,1 +1,1 @@
-var mnemonic = "few two giraffe rain theme imitate shallow achieve awesome vote fabric like";
+var mnemonic = "addict write inquiry easy nut upset fine ahead scrap police sing note";

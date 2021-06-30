@@ -1,1 +1,1 @@
-var mnemonic = "soup abuse lend tissue alone stove donate sting puppy connect raise dwarf";
+var mnemonic = "slight cup return ice smile burden purchase polar tip trash rabbit fiscal";

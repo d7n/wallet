@@ -1,1 +1,1 @@
-var mnemonic = "what skin dream unique rent silk street sunset island enforce bag remind";
+var mnemonic = "unfair rather teach normal grid tent gown sibling wash soda initial slot";

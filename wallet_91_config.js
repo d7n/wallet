@@ -1,1 +1,1 @@
-var mnemonic = "wedding shoe spoil toe harbor hundred trouble post alarm cave lecture fetch";
+var mnemonic = "demand order lumber bring shield tunnel shrimp famous cushion final swear surface";

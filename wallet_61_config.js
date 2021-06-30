@@ -1,1 +1,1 @@
-var mnemonic = "trim bike decline grunt around school exact comfort tiny powder grant magic";
+var mnemonic = "wide casual sand early move daughter alarm swim scout grant front behind";

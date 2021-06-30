@@ -1,1 +1,1 @@
-var mnemonic = "frozen energy polar inner plug float resource month disagree baby wool fabric";
+var mnemonic = "confirm early pipe vacant one quiz scorpion about cruel undo inherit cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "injury lawsuit any copper bike electric multiply symptom cover vehicle sorry mandate";
+var mnemonic = "grace have actor horn border glory safe bring century fluid coin buffalo";

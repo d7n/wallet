@@ -1,1 +1,1 @@
-var mnemonic = "pitch main man try cycle mesh race use ritual custom infant anxiety";
+var mnemonic = "siege hidden alone box monster pilot patch field sister tiger hole umbrella";

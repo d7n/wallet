@@ -1,1 +1,1 @@
-var mnemonic = "hurdle skill combine accident advice fossil spice wealth model ginger hedgehog sock";
+var mnemonic = "brother extra wool blanket wood napkin comic doll estate butter link input";

@@ -1,1 +1,1 @@
-var mnemonic = "image mask intact guard alpha slab pepper coin despair goose become brown";
+var mnemonic = "fetch local escape young cannon latin wagon spray camp oak armor bid";

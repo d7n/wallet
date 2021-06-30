@@ -1,1 +1,1 @@
-var mnemonic = "oppose finger knock inflict one identify want silly eight plug donate page";
+var mnemonic = "hamster ugly process nephew depart narrow eyebrow gas bring add artwork evolve";

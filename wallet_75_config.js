@@ -1,1 +1,1 @@
-var mnemonic = "wrong pudding pig mixed outer payment correct kiwi rich novel excite burger";
+var mnemonic = "play save fork blanket dust quick lake tool crazy foster smooth bag";

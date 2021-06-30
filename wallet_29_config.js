@@ -1,1 +1,1 @@
-var mnemonic = "wild talent major upset argue wonder ordinary reform control radio eyebrow tail";
+var mnemonic = "remember tobacco daughter taxi atom talent police milk yard hurdle crowd north";

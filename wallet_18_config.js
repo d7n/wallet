@@ -1,1 +1,1 @@
-var mnemonic = "physical close jazz bone crucial hammer leisure check law surface lonely girl";
+var mnemonic = "follow crack tattoo lounge purse cry rocket immense cash brain beauty neglect";

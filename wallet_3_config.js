@@ -1,1 +1,1 @@
-var mnemonic = "spider monkey uncover make peanut chase laundry speak glory bulb raven situate";
+var mnemonic = "away earn practice fatal achieve since brass proof reason sword fossil below";

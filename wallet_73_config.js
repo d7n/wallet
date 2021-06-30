@@ -1,1 +1,1 @@
-var mnemonic = "sort bar paddle vivid venture always miracle scan exhibit high grace column";
+var mnemonic = "choose choice artist fade awesome never mention section bitter language seminar fiscal";

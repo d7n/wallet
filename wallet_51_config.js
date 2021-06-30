@@ -1,1 +1,1 @@
-var mnemonic = "later marriage wine grace drift universe normal glow wire luxury smile huge";
+var mnemonic = "receive try cruel sentence submit item yellow unfair stuff sample toy improve";

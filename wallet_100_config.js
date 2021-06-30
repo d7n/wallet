@@ -1,1 +1,1 @@
-var mnemonic = "brave purse cigar inner clean edge club strong reject laundry knee man";
+var mnemonic = "praise funny canal ten settle pumpkin gather gaze october render brush fence";

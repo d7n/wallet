@@ -1,1 +1,1 @@
-var mnemonic = "kite cupboard beyond save sketch ghost shock adult rug thing unveil clump";
+var mnemonic = "cousin person where pink hotel cram velvet render minor dish volcano seed";

@@ -1,1 +1,1 @@
-var mnemonic = "stay frost noble keep kid metal topic left orange grid wait bulb";
+var mnemonic = "crumble menu goat bulb demise conduct antique album hip lamp embody finger";

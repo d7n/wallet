@@ -1,1 +1,1 @@
-var mnemonic = "food barely now sauce digital valid field awful season crystal fame upset";
+var mnemonic = "fame south section apple october tone cable expand spread drip soda buddy";

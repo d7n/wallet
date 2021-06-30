@@ -1,1 +1,1 @@
-var mnemonic = "pave nice palm mercy object oblige exclude profit repeat change actress occur";
+var mnemonic = "weekend dynamic convince music antenna major damage glove empty maximum memory miracle";

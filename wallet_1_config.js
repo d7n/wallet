@@ -1,1 +1,1 @@
-var mnemonic = "woman sorry clip symptom consider trophy move zebra question flower spoil marine";
+var mnemonic = "unknown theory sheriff twenty hint park bridge thunder acquire cupboard adapt busy";

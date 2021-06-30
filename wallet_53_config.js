@@ -1,1 +1,1 @@
-var mnemonic = "strategy odor march kitten forest marriage special abandon shoot rib plug rich";
+var mnemonic = "buyer force distance ensure tiny lift merge royal tobacco light lyrics mammal";

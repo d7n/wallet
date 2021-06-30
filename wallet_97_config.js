@@ -1,1 +1,1 @@
-var mnemonic = "close pact shoulder virus hidden crime coyote pink bubble subway keen situate";
+var mnemonic = "oppose quality cash soft movie side female vibrant siren ginger woman inherit";

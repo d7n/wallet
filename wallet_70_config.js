@@ -1,1 +1,1 @@
-var mnemonic = "bus assault snack suspect avocado tilt drop bless discover broccoli notice fringe";
+var mnemonic = "used remind sting diary wish provide mom miracle better position loan recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise disease grace exhibit notice happy earn stereo demand dish artist fault";
+var mnemonic = "better saddle host health long load desert hundred hidden potato again large";

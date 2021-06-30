@@ -1,1 +1,1 @@
-var mnemonic = "purse ginger notable weird artist secret receive match version witness congress still";
+var mnemonic = "insane sock arch victory cousin barrel side wisdom buddy island canal render";

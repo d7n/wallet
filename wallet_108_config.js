@@ -1,1 +1,1 @@
-var mnemonic = "popular farm screen adjust hat december match matter submit agent curious input";
+var mnemonic = "super captain clump giraffe rate again hour mail appear lecture emotion trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "solar know mimic drip uniform slogan marriage item normal pulse item cousin";
+var mnemonic = "primary sail velvet afford mimic wreck modify maximum visa popular drastic enforce";

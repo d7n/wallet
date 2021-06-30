@@ -1,1 +1,1 @@
-var mnemonic = "jaguar stand clump poverty bulk diagram prize favorite various interest arch flag";
+var mnemonic = "half black august permit mercy cook sunset twin leopard remember tiny black";

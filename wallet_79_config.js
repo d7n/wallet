@@ -1,1 +1,1 @@
-var mnemonic = "segment acoustic major ceiling candy script world size angle umbrella keep end";
+var mnemonic = "little uphold old champion oppose finger leopard slush cruel jazz diamond start";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure enrich rent suspect neither ski clarify vacant around great clown receive";
+var mnemonic = "choose neglect brown estate link cradle second blue easily high embrace abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "skin frequent cotton green quote stereo equip eager link diamond affair lava";
+var mnemonic = "hockey cheese album will menu nurse undo discover torch right will cupboard";

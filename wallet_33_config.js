@@ -1,1 +1,1 @@
-var mnemonic = "bread supply mountain sea panther away earth lumber curtain nature toward easy";
+var mnemonic = "clerk pond earn elder stick lawsuit year congress huge ketchup help until";

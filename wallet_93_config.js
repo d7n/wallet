@@ -1,1 +1,1 @@
-var mnemonic = "come library salmon unit erosion blanket assume leopard say lawsuit this civil";
+var mnemonic = "priority wear pole shuffle injury pipe echo rose barrel similar around express";

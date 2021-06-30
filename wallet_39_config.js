@@ -1,1 +1,1 @@
-var mnemonic = "soup crater equal assault deal egg abandon real clip then coffee lesson";
+var mnemonic = "raccoon air observe disorder uncover rice jazz thank tube romance often pistol";

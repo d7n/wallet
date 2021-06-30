@@ -1,1 +1,1 @@
-var mnemonic = "original trap build seminar book lens fork monster once into cake river";
+var mnemonic = "rough document cargo onion discover remember job near fiber gold spread evil";

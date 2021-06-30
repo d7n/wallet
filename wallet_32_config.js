@@ -1,1 +1,1 @@
-var mnemonic = "cluster return scorpion rural false road prison people together romance over attitude";
+var mnemonic = "knock garbage erupt bird sudden crisp net possible gap burst inflict feed";

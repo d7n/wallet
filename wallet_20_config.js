@@ -1,1 +1,1 @@
-var mnemonic = "unable fringe hunt become piano violin afford lock vanish swing mother icon";
+var mnemonic = "senior bundle cotton blind naive ethics traffic hazard impulse adapt half shield";

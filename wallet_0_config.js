@@ -1,1 +1,1 @@
-var mnemonic = "category nest gather welcome that enroll awkward lawsuit evolve slender sleep moral";
+var mnemonic = "ketchup renew sense inside flock tree bachelor drop spend menu pudding evil";

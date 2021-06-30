@@ -1,1 +1,1 @@
-var mnemonic = "arrive warfare receive adapt plate index critic cactus lobster lens fold slab";
+var mnemonic = "chief dizzy dove excuse squeeze fan pond grunt congress have divorce shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "link powder original episode exercise elevator memory eternal pluck taxi filter catch";
+var mnemonic = "lounge title material can match invite patrol pact decline success market host";

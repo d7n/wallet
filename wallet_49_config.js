@@ -1,1 +1,1 @@
-var mnemonic = "phrase plug smoke post huge scheme young across trust poem load toilet";
+var mnemonic = "voice erode cancel pet spy ketchup flag cargo couch tide keen truth";

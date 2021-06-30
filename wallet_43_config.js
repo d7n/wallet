@@ -1,1 +1,1 @@
-var mnemonic = "armed inquiry fame gospel stool dog vibrant forget ginger strategy demand object";
+var mnemonic = "menu humble quote suspect wedding speak gown dress earth topple raise bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "argue hamster mechanic awesome wear vivid liar twist enhance marble urge major";
+var mnemonic = "wonder key express anchor curious van mirror lemon ability blouse because garment";

@@ -1,1 +1,1 @@
-var mnemonic = "into found gun wrestle pencil math dash already comfort grocery lady door";
+var mnemonic = "quiz exchange sound dwarf inch december pudding crouch void fame push host";

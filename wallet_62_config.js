@@ -1,1 +1,1 @@
-var mnemonic = "gauge talk pencil resource auto sight comic scale topple despair mind omit";
+var mnemonic = "sadness chronic hover stairs length advice expire lonely immense loyal involve cram";

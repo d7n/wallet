@@ -1,1 +1,1 @@
-var mnemonic = "brave illegal pass monster clerk convince pact truck room combine water step";
+var mnemonic = "wait wish return cherry drastic fossil peanut friend sustain elite zoo history";

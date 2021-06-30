@@ -1,1 +1,1 @@
-var mnemonic = "second mule eyebrow juice route swift sport push tree express wealth either";
+var mnemonic = "false celery imitate candy patch pink test solve scissors essay equal remind";

@@ -1,1 +1,1 @@
-var mnemonic = "novel taste sample vendor civil spy toy face green attack catalog talk";
+var mnemonic = "intact patrol couch limb capital grace column maple accident stereo skirt action";

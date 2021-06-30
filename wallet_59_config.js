@@ -1,1 +1,1 @@
-var mnemonic = "visa six office rigid evidence visual evidence often lens pass remove advance";
+var mnemonic = "oyster share minute ignore tackle test discover immune journey puzzle quote relief";

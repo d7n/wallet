@@ -1,1 +1,1 @@
-var mnemonic = "junk monster october glare pencil pear problem naive always love tide claim";
+var mnemonic = "person nephew stairs final remove absurd dove beyond mutual ensure weird power";

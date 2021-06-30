@@ -1,1 +1,1 @@
-var mnemonic = "captain pact repeat galaxy sheriff nothing orbit tape scare public valley trim";
+var mnemonic = "dynamic aware donate seven betray deposit execute approve child abuse dove two";

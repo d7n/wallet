@@ -1,1 +1,1 @@
-var mnemonic = "junior prepare upset half meadow awful hair image casual garden effort gown";
+var mnemonic = "wool length mountain main gloom crouch hunt build civil theme shock leaf";

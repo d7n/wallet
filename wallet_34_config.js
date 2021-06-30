@@ -1,1 +1,1 @@
-var mnemonic = "horse follow reward plunge around curve aim fatal approve crystal lion bless";
+var mnemonic = "easily level denial cluster bar relief bunker abstract twist coin escape crazy";

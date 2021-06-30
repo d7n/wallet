@@ -1,1 +1,1 @@
-var mnemonic = "alone ignore nature near ill write good alien horse flag seat calm";
+var mnemonic = "like all own fossil buffalo trend one dinosaur host seat bring steak";

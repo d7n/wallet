@@ -1,1 +1,1 @@
-var mnemonic = "uphold bomb autumn quality machine feed energy wrap deliver broken cliff page";
+var mnemonic = "choice dizzy brain coral brain rabbit equal faculty license pattern discover fade";

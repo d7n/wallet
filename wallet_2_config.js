@@ -1,1 +1,1 @@
-var mnemonic = "bag cannon start control wise away act please vapor bundle donor pear";
+var mnemonic = "report insect exotic throw pluck raccoon gas zoo web oil tortoise sugar";

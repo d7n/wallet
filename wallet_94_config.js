@@ -1,1 +1,1 @@
-var mnemonic = "twist length mask wing maid impose cover member real awful year cancel";
+var mnemonic = "sniff custom rude snow weasel flip vintage return slide cup library patient";

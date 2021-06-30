@@ -1,1 +1,1 @@
-var mnemonic = "govern paper guitar alcohol impulse holiday photo bread series stomach plunge autumn";
+var mnemonic = "feel client enrich divorce chuckle brief swim bacon attitude imitate learn height";

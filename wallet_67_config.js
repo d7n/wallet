@@ -1,1 +1,1 @@
-var mnemonic = "spy amused saddle gospel tourist tomato asthma main sentence brass share multiply";
+var mnemonic = "holiday vivid always suggest dune report holiday display surprise elbow include mystery";

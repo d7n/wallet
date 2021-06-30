@@ -1,1 +1,1 @@
-var mnemonic = "lock pencil intact uncle shoot pair slide ginger loyal lumber monster half";
+var mnemonic = "term artwork ask dismiss habit essay witness service burst satoshi jar story";

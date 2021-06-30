@@ -1,1 +1,1 @@
-var mnemonic = "tent rabbit collect shoot hand eye follow symbol casino conduct install train";
+var mnemonic = "there wise vehicle bid peanut sweet blossom gap vintage artwork drill verify";

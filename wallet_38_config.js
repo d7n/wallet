@@ -1,1 +1,1 @@
-var mnemonic = "goose copper afford card weird bean belt flip when solar super host";
+var mnemonic = "clean reduce exotic sniff other monkey only crouch nation toast genre before";

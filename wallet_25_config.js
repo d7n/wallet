@@ -1,1 +1,1 @@
-var mnemonic = "scheme aisle sense leg together stuff ecology afraid minor south canvas twenty";
+var mnemonic = "invest chat volcano violin arrive adult basic gospel sweet festival make draft";

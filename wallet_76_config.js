@@ -1,1 +1,1 @@
-var mnemonic = "uncle canyon dynamic rack pyramid ramp figure desert cause ordinary trumpet bottom";
+var mnemonic = "piano heart middle delay word eager patch video pizza aware lunar soldier";

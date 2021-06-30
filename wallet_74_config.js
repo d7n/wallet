@@ -1,1 +1,1 @@
-var mnemonic = "blouse sting indoor burden enact leopard kidney find repeat lucky cradle police";
+var mnemonic = "fragile tooth lottery master liquid knock change pigeon spoil sentence cube world";

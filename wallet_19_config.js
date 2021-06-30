@@ -1,1 +1,1 @@
-var mnemonic = "kitchen bullet giant ginger drill large frozen burger decline escape figure disorder";
+var mnemonic = "napkin dance picture heavy stable round uphold bubble spring grid ramp fetch";

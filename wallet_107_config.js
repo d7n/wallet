@@ -1,1 +1,1 @@
-var mnemonic = "salt tenant oyster inject despair involve usual agent rent taste want chalk";
+var mnemonic = "napkin purse one celery gold antenna scan alcohol royal knife earn camp";

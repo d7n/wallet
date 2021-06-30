@@ -1,1 +1,1 @@
-var mnemonic = "brain asset basic twenty knee private else rare arrange blouse fire become";
+var mnemonic = "ginger borrow tired swim call item manual teach seminar valve obtain usual";

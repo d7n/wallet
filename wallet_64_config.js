@@ -1,1 +1,1 @@
-var mnemonic = "boss universe already city discover denial hybrid update auction trick resource train";
+var mnemonic = "spoil seek rely music noble wasp fetch audit armed stem beauty caution";

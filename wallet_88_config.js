@@ -1,1 +1,1 @@
-var mnemonic = "romance film palace celery pledge father main valley day awake alien invite";
+var mnemonic = "alcohol judge wave inmate tonight mushroom orange company planet weird hospital dad";

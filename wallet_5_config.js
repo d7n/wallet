@@ -1,1 +1,1 @@
-var mnemonic = "roof spin account case curious endless harvest grass radio board panda spoon";
+var mnemonic = "arrest secret ivory repeat release oil connect estate win update category fix";

@@ -1,1 +1,1 @@
-var mnemonic = "brain wagon chuckle suffer swing monster affair clinic table artefact first remember";
+var mnemonic = "motor flip alpha service biology logic ill move together blur float utility";

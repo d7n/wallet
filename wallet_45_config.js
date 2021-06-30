@@ -1,1 +1,1 @@
-var mnemonic = "spare pig pudding vital wonder cousin census humor desert milk agent fresh";
+var mnemonic = "identify runway custom question minor journey add defense ask post behind mass";

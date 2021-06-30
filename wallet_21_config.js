@@ -1,1 +1,1 @@
-var mnemonic = "strategy have enhance purse stereo left between struggle speed antenna armor tip";
+var mnemonic = "accuse neither program rebel clown auto onion float spoon film online argue";

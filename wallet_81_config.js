@@ -1,1 +1,1 @@
-var mnemonic = "tone dry winter priority arctic excuse dice garage odor version balance frozen";
+var mnemonic = "lens chair penalty wish start replace screen ignore hope crew original gorilla";

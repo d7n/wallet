@@ -1,1 +1,1 @@
-var mnemonic = "lens find castle rose motor little congress narrow aisle stove protect decide";
+var mnemonic = "tell panther rather hurt task pioneer borrow beyond legend other range fury";

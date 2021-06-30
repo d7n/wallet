@@ -1,1 +1,1 @@
-var mnemonic = "bus know supply inject wreck vault riot noise aisle dust shove tobacco";
+var mnemonic = "inherit maze audit spread abstract question remember leaf undo zero save rib";

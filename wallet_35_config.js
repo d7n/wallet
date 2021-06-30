@@ -1,1 +1,1 @@
-var mnemonic = "annual acoustic proof major caught aisle embrace face baby fatal use narrow";
+var mnemonic = "repeat income annual pen wise cake more today media tobacco amateur tomato";

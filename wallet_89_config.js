@@ -1,1 +1,1 @@
-var mnemonic = "biology company unaware route swim turtle prosper nation ancient venture mail shed";
+var mnemonic = "opera couple acid park gossip actual task brother pitch horror tortoise shuffle";

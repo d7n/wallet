@@ -1,1 +1,1 @@
-var mnemonic = "address ghost labor grow labor zone ring regular horror quote account type";
+var mnemonic = "marine clever shed strong crane sound exile panda cheese bacon proud romance";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope frequent butter door symbol quarter tray real accident afford ensure effort";
+var mnemonic = "smooth clump vault sure pistol mad define dilemma mule knee hundred veteran";

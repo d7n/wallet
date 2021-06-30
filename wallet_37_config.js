@@ -1,1 +1,1 @@
-var mnemonic = "infant illness include capital tube network hurt name nose salt tongue during";
+var mnemonic = "beyond leisure case bulb north tool divorce solve reform dignity predict segment";

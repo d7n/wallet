@@ -1,1 +1,1 @@
-var mnemonic = "usage race dragon early weather end palace hello excess yellow canyon analyst";
+var mnemonic = "obey bag nephew bracket cluster route divide vacant pear silent beef solve";

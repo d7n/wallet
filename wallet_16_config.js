@@ -1,1 +1,1 @@
-var mnemonic = "police chronic shy measure three color warm smart humor glue wear accident";
+var mnemonic = "monster pause try brass crucial radar strike young predict drink expose grape";
