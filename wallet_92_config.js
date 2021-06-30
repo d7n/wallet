@@ -1,1 +1,1 @@
-var mnemonic = "fortune convince goose tornado situate alpha hurdle purity awful tuna hole north";
+var mnemonic = "sample motion fade mandate team copy palm outside include drive stone art";

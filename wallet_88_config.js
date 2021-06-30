@@ -1,1 +1,1 @@
-var mnemonic = "wise tooth gown fence shock inject deliver model huge thumb slot lottery";
+var mnemonic = "brush engage six dial heart fan position flee ankle divert pyramid this";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger arm size lounge merit flash execute cup force weird goose laugh";
+var mnemonic = "brick banana law alert frost modify organ train ankle cover arrest ecology";

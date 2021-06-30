@@ -1,1 +1,1 @@
-var mnemonic = "same merit punch slender file climb buzz faith involve seven beyond present";
+var mnemonic = "city palm kingdom dash stool february game empower faith almost amateur require";

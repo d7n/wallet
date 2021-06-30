@@ -1,1 +1,1 @@
-var mnemonic = "left maximum valley spot later leisure approve dizzy rate suffer melody chest";
+var mnemonic = "rescue exit marriage lyrics ahead useless rose innocent various vessel expire exist";

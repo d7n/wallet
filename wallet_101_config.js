@@ -1,1 +1,1 @@
-var mnemonic = "shoot wing awkward latin tonight flag badge kind put then donor embody";
+var mnemonic = "rice brass model cover round beach energy cinnamon approve book spell story";

@@ -1,1 +1,1 @@
-var mnemonic = "detect laugh approve absorb edit narrow social scrap text tourist champion devote";
+var mnemonic = "illness any admit medal provide night rifle again middle fancy program uniform";

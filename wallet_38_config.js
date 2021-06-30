@@ -1,1 +1,1 @@
-var mnemonic = "divorce six swamp combine voice slight tuition century shrimp shine million peasant";
+var mnemonic = "auto machine decrease begin raccoon salon purchase puppy quote upset bench they";

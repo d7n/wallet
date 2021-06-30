@@ -1,1 +1,1 @@
-var mnemonic = "tuna welcome garlic icon festival student patrol relief soul giggle exile invite";
+var mnemonic = "health charge bargain increase consider tattoo alley oyster pulse monkey catch earn";

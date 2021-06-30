@@ -1,1 +1,1 @@
-var mnemonic = "market earn leisure rescue gasp witness require doll angle faith winner nice";
+var mnemonic = "verb trim budget cheap fly ride arrive under bird fork ill unable";

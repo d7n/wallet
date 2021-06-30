@@ -1,1 +1,1 @@
-var mnemonic = "bleak chest rubber genre oak flower empty happy toy hazard season brave";
+var mnemonic = "install that seat much hamster faculty among menu scene spin review address";

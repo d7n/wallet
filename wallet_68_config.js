@@ -1,1 +1,1 @@
-var mnemonic = "muscle fork panel abandon chair another always potato round return border staff";
+var mnemonic = "spread casino eager dose act victory become file better melt submit remind";

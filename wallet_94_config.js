@@ -1,1 +1,1 @@
-var mnemonic = "across cradle cruise fatal mechanic level island brand copper multiply jacket decrease";
+var mnemonic = "ivory tray eager canvas orange inner wire dish silly bag inflict benefit";

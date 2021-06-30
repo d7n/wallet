@@ -1,1 +1,1 @@
-var mnemonic = "promote narrow method worth fee sheriff rural frozen cute exchange thunder vacant";
+var mnemonic = "snap bind midnight pupil wire acoustic eager cave rifle honey rescue vivid";

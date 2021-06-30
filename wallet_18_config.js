@@ -1,1 +1,1 @@
-var mnemonic = "link illegal evoke potato change warrior like elder service pencil sleep lion";
+var mnemonic = "select school sweet despair april run post slice mechanic swim churn mail";

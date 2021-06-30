@@ -1,1 +1,1 @@
-var mnemonic = "neutral unhappy erode cost grace blanket arrest dream science age conduct child";
+var mnemonic = "grief desert insane purity amused negative blush usage eyebrow control much repair";

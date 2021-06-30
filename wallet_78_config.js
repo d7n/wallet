@@ -1,1 +1,1 @@
-var mnemonic = "tornado story sell confirm fault sting magic dirt wrap curtain blade canal";
+var mnemonic = "jungle salon plate cost any waste differ win explain property never lunar";

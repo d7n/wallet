@@ -1,1 +1,1 @@
-var mnemonic = "siren bargain supply gym bring reunion gossip swallow great negative trigger symptom";
+var mnemonic = "suggest guess asthma float enemy business base hair mirror blanket feel enforce";

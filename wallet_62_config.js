@@ -1,1 +1,1 @@
-var mnemonic = "express scale valley trumpet paper shadow track tired rude donkey camera napkin";
+var mnemonic = "regret rack slab barrel crane sea level road apology illness gain pave";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow erosion subject flash torch giraffe student appear upon dad wedding arch";
+var mnemonic = "melt chronic true lonely trust cute banana open keep soccer indoor puppy";

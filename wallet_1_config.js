@@ -1,1 +1,1 @@
-var mnemonic = "item artwork seminar sample card silk force wife torch lunar usage follow";
+var mnemonic = "alone glance stay orphan sausage release goose auto fan hint wage phrase";

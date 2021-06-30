@@ -1,1 +1,1 @@
-var mnemonic = "talk mesh rhythm name exotic morning marble street enemy dash slow ranch";
+var mnemonic = "hungry pave rhythm example tenant glow giraffe badge badge wear dad divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "case document rate gesture flower until bamboo host isolate liquid grass shoe";
+var mnemonic = "draft armor hurdle object spirit knee equip wait village solid scrap episode";

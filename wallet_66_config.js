@@ -1,1 +1,1 @@
-var mnemonic = "drill letter south recipe banana current diet magic sort run nothing matrix";
+var mnemonic = "cattle good exercise cycle quiz lounge field educate elegant amazing else gaze";

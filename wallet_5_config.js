@@ -1,1 +1,1 @@
-var mnemonic = "exile crazy around tool glow math pencil siren pride twelve snap unique";
+var mnemonic = "auto enlist increase luxury utility mountain marble educate mix cluster illegal assume";

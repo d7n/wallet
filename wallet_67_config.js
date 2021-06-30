@@ -1,1 +1,1 @@
-var mnemonic = "release soda flock govern gap secret include unknown unusual earth chronic tackle";
+var mnemonic = "install knife answer evolve accident neither business survey prefer right hundred believe";

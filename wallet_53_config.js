@@ -1,1 +1,1 @@
-var mnemonic = "summer broken wear august prize goddess aspect loyal turn custom antique debate";
+var mnemonic = "cigar have erupt conduct leave thunder garbage young sell bring zone rule";

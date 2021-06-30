@@ -1,1 +1,1 @@
-var mnemonic = "extra inhale abuse cheap vault winner daring claw enter smoke pottery ladder";
+var mnemonic = "mango high cricket wagon address slab vault month fan iron decrease endorse";

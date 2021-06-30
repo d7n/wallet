@@ -1,1 +1,1 @@
-var mnemonic = "adapt soup course game lonely grace brick soft select unlock reunion cradle";
+var mnemonic = "ugly glue lemon client pig appear ahead copper elevator palm car toy";

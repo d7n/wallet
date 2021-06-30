@@ -1,1 +1,1 @@
-var mnemonic = "hand canvas model slow skate danger distance unfair recall cherry width over";
+var mnemonic = "suffer tuition puppy hawk fatal promote trick scan swing victory trip search";

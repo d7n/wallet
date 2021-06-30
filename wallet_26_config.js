@@ -1,1 +1,1 @@
-var mnemonic = "version flip trouble awful retire beef liquid original stand vapor ketchup vehicle";
+var mnemonic = "obscure tent foot virus beauty abstract allow train surprise prosper meadow already";

@@ -1,1 +1,1 @@
-var mnemonic = "prize silver champion vibrant quit brand track pen aerobic corn battle hire";
+var mnemonic = "panel below outdoor juice mimic suspect worry device lawn chapter report tool";

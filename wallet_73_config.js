@@ -1,1 +1,1 @@
-var mnemonic = "grief sphere foil thank ramp grief wreck balance shift cheap romance legend";
+var mnemonic = "limit tooth smart vendor slow float decline slot lucky figure enlist dad";

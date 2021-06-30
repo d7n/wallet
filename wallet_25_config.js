@@ -1,1 +1,1 @@
-var mnemonic = "ignore twin have method keen axis obey script aunt tired biology job";
+var mnemonic = "inmate jealous jar tail scene puzzle learn debris pumpkin shove soap language";

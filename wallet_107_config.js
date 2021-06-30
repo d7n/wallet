@@ -1,1 +1,1 @@
-var mnemonic = "crisp economy able gravity index energy dune hero admit awesome view glad";
+var mnemonic = "rapid rotate eternal unfair fabric oval alert uniform brisk arrange hill lens";

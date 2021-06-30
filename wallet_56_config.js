@@ -1,1 +1,1 @@
-var mnemonic = "must fury swarm loyal furnace trip honey fun fantasy ask globe mammal";
+var mnemonic = "scrap fan accident chase modify system warm grass mushroom noise couple secret";

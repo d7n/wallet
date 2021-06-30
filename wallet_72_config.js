@@ -1,1 +1,1 @@
-var mnemonic = "call speak priority deputy loan device spawn border luxury country bread winner";
+var mnemonic = "foil phone joke canal smart such girl chicken soon second pledge chunk";

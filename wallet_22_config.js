@@ -1,1 +1,1 @@
-var mnemonic = "photo minute bubble elephant lake family nephew slight stable deer staff head";
+var mnemonic = "depth talk review foster paddle lift nurse crane item attract soon hole";

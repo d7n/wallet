@@ -1,1 +1,1 @@
-var mnemonic = "mixed glove jungle accident hungry topple inhale struggle vapor blossom traffic train";
+var mnemonic = "city pride tape pony gaze air round pole advice degree erupt comic";

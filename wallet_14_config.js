@@ -1,1 +1,1 @@
-var mnemonic = "comic connect gas embody fabric beyond mean keen suggest update where twelve";
+var mnemonic = "glide calm meat found board option sport dignity vocal venture image car";

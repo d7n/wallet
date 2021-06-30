@@ -1,1 +1,1 @@
-var mnemonic = "position bamboo slight middle bring make during this phrase butter seek between";
+var mnemonic = "wave force dial decorate beyond giraffe moment clog mirror wash sing blur";

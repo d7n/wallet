@@ -1,1 +1,1 @@
-var mnemonic = "moon guide earth promote hold text page jump merit harbor under valley";
+var mnemonic = "sleep fancy sibling such faith denial nominee sight blue dad omit across";

@@ -1,1 +1,1 @@
-var mnemonic = "base bird liquid west sting ankle blast expire emerge bundle type excuse";
+var mnemonic = "ocean degree harsh burst palace punch ladder throw party result alien stock";

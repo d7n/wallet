@@ -1,1 +1,1 @@
-var mnemonic = "inner satoshi review manual involve razor piano buddy light lesson purse please";
+var mnemonic = "charge van infant leader bubble pelican bright jealous dream melody cake brisk";

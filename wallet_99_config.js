@@ -1,1 +1,1 @@
-var mnemonic = "satoshi speak salmon lucky unveil start rely humble casino top cabin purpose";
+var mnemonic = "menu unveil spare milk unveil illness double story stairs twelve borrow patrol";

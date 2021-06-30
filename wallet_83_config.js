@@ -1,1 +1,1 @@
-var mnemonic = "steel canvas nuclear planet bracket age below august circle shoulder meadow someone";
+var mnemonic = "income goddess frequent entry clever rhythm display chalk talk help planet thank";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost come wink sausage tree zone fork session pelican anger actual retreat";
+var mnemonic = "basket final keep rather skill defense gesture liquid road payment vacuum give";

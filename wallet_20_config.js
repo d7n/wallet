@@ -1,1 +1,1 @@
-var mnemonic = "hurdle joy tuition steak lazy wealth convince smooth team weird cherry juice";
+var mnemonic = "valid dance alter inject nut swallow first come dutch hood sister video";

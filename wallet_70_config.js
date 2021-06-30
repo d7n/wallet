@@ -1,1 +1,1 @@
-var mnemonic = "ethics fiber cable weird rural orient purpose popular absent violin twin later";
+var mnemonic = "strong face lawsuit case accident submit retire hope random just wire reveal";

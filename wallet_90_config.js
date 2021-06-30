@@ -1,1 +1,1 @@
-var mnemonic = "ecology supply earth kit enlist shift fun diet then follow metal jewel";
+var mnemonic = "switch light input leader taste fox label market soda person patch level";

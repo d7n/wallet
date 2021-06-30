@@ -1,1 +1,1 @@
-var mnemonic = "measure tank find happy brisk nominee action always subway clown rifle minor";
+var mnemonic = "transfer fun powder such elephant blouse vicious absent bind youth satisfy rapid";

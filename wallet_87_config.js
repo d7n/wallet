@@ -1,1 +1,1 @@
-var mnemonic = "rib hotel begin right affair coast cereal goose slogan term thought fiber";
+var mnemonic = "scene clog scout vanish shoot inner tired glimpse expire fox concert never";

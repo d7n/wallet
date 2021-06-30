@@ -1,1 +1,1 @@
-var mnemonic = "success protect join process usage foil message wool oyster agree engage mercy";
+var mnemonic = "tomorrow pulse album winter opinion sweet envelope scan innocent leg become gun";

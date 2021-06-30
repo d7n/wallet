@@ -1,1 +1,1 @@
-var mnemonic = "matter junior blouse rhythm inspire pluck sauce horse capital update eternal bless";
+var mnemonic = "middle beef fatigue orchard oil obey defy unaware inch clutch skirt blanket";

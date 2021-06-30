@@ -1,1 +1,1 @@
-var mnemonic = "giggle total bracket hello senior elbow asset work frame disagree version beef";
+var mnemonic = "gain board exclude chair caught make minimum pole spatial slender exotic force";

@@ -1,1 +1,1 @@
-var mnemonic = "convince sorry swing chicken endless tomato wheel season notice admit glue include";
+var mnemonic = "random quarter empty sphere feed size trumpet stumble garage assault undo note";

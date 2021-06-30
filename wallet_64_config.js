@@ -1,1 +1,1 @@
-var mnemonic = "panda census unfold sound patient increase online purpose stumble more aunt kangaroo";
+var mnemonic = "carpet consider foam earn hundred music dance practice stick invest double onion";

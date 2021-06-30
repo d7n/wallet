@@ -1,1 +1,1 @@
-var mnemonic = "lunar castle slush language economy sting wage save million stuff spoil gift";
+var mnemonic = "list album enhance deposit stick spy undo price buzz reduce bleak device";

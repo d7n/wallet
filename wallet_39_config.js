@@ -1,1 +1,1 @@
-var mnemonic = "health weather napkin session aware sell tenant buyer above lizard group employ";
+var mnemonic = "ostrich teach flock afraid domain devote faculty tobacco age retire receive excuse";

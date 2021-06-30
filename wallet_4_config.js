@@ -1,1 +1,1 @@
-var mnemonic = "busy gas depart exchange talent jewel humor exist expect tower move talent";
+var mnemonic = "cushion clever naive scatter shoe predict expect emerge globe clip caution snack";

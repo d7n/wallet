@@ -1,1 +1,1 @@
-var mnemonic = "side initial side green sail spoon fade dwarf dune kit grab grow";
+var mnemonic = "remind opinion universe chef cruise daughter select truck diamond faint inject shell";

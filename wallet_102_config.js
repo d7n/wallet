@@ -1,1 +1,1 @@
-var mnemonic = "lunar fruit maze engage tennis notice great perfect can sheriff will globe";
+var mnemonic = "vapor lamp taste sword seed pair hover that bless permit creek small";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange high gather valid foam company casual entire hello cancel fire stock";
+var mnemonic = "bunker cram buffalo various wedding bamboo magic found gloom finish hollow blur";

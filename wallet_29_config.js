@@ -1,1 +1,1 @@
-var mnemonic = "they isolate void gift long find gain whale fresh penalty security genre";
+var mnemonic = "eagle language debris embrace machine resemble index truck youth unlock cheap oxygen";

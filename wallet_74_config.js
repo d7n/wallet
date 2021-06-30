@@ -1,1 +1,1 @@
-var mnemonic = "stove creek top idea rib cotton history treat next fatal error convince";
+var mnemonic = "mirror security source hold know fashion match bid practice guess advice eternal";

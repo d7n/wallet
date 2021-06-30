@@ -1,1 +1,1 @@
-var mnemonic = "print paddle brisk baby dizzy wise cupboard question magnet love such alone";
+var mnemonic = "cigar adjust fury trial differ sniff cancel element forest clown fire tackle";

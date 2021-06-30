@@ -1,1 +1,1 @@
-var mnemonic = "group vintage echo air chapter taste suspect spring year lunar rebuild nominee";
+var mnemonic = "hazard prepare cube library depart accident average climb crime similar wrap fish";

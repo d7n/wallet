@@ -1,1 +1,1 @@
-var mnemonic = "initial forum shuffle build exist agent turn sorry image grab obvious subway";
+var mnemonic = "fat balcony refuse motor emerge admit income afraid east mix cushion merit";

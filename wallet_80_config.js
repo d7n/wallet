@@ -1,1 +1,1 @@
-var mnemonic = "coyote document attitude sure flavor say addict judge deputy repeat warm thunder";
+var mnemonic = "paddle ankle comfort bubble rigid risk chair business advice where foam state";

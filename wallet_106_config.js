@@ -1,1 +1,1 @@
-var mnemonic = "learn canoe hurt jewel case fat chaos dizzy capital sphere absurd retire";
+var mnemonic = "top argue shallow primary neither ostrich toddler nominee leisure cross present sport";

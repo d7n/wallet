@@ -1,1 +1,1 @@
-var mnemonic = "comic fun boss gauge outside aware good photo transfer ahead enter hamster";
+var mnemonic = "jewel desk rebuild bridge guide iron treat zone bless width gate derive";

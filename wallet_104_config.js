@@ -1,1 +1,1 @@
-var mnemonic = "taste prevent field donkey tilt early scale inspire tiny village replace auction";
+var mnemonic = "denial cat only also matrix ecology tobacco image high leave spot gentle";

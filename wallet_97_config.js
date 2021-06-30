@@ -1,1 +1,1 @@
-var mnemonic = "end crater pencil stock cost ensure weather easy act fade pistol recycle";
+var mnemonic = "dust misery ginger rib source scale kangaroo rescue marine today impose thumb";

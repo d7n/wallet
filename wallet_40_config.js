@@ -1,1 +1,1 @@
-var mnemonic = "chase whale bomb entire divert outside buyer slam pass swing right outside";
+var mnemonic = "thrive napkin since foot lion place trial crop virus vintage pudding vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle siege journey enforce suit stable oxygen unfair garage charge forget deer";
+var mnemonic = "nut stereo shoulder account solid cricket vital capable twin mutual scrap talent";

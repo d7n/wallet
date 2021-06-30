@@ -1,1 +1,1 @@
-var mnemonic = "equip prosper volume online twelve today any measure roast race also bonus";
+var mnemonic = "secret ethics extra oil great enrich drastic involve spoon because animal crush";

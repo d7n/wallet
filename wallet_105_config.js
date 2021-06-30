@@ -1,1 +1,1 @@
-var mnemonic = "same hard actress humble spare reopen plug echo capital genius saddle nothing";
+var mnemonic = "slide salon because name pear phrase false tired fix turkey dilemma outside";

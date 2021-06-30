@@ -1,1 +1,1 @@
-var mnemonic = "column conduct shuffle device crumble fabric arrow morning danger cup pair disorder";
+var mnemonic = "mercy gap dolphin reopen acoustic present million brief stock mom evolve bubble";

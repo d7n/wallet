@@ -1,1 +1,1 @@
-var mnemonic = "enforce stick degree code palace innocent photo rural ask place rich know";
+var mnemonic = "emerge soda laundry barely bomb vintage enemy recycle royal harvest message raven";

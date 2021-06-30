@@ -1,1 +1,1 @@
-var mnemonic = "route across ignore burden skill sample sting jaguar fall boat sphere giant";
+var mnemonic = "category trade team change spell guide chef material armor ice enroll gold";

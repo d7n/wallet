@@ -1,1 +1,1 @@
-var mnemonic = "vibrant frequent strategy electric else refuse addict equip cash armor always eagle";
+var mnemonic = "exhaust blossom hood luggage typical chair giant regular coin place clean pony";

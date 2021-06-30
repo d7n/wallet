@@ -1,1 +1,1 @@
-var mnemonic = "boy river goose income aim garbage suit celery apple neutral yellow level";
+var mnemonic = "reopen excuse pottery faith load stage believe one tower ignore asthma onion";

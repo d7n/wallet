@@ -1,1 +1,1 @@
-var mnemonic = "pear blush buzz champion apple safe bean cover spread thing dilemma fringe";
+var mnemonic = "quick once case recycle law book help nest review depart civil yard";

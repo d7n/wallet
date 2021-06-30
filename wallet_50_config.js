@@ -1,1 +1,1 @@
-var mnemonic = "there twenty envelope duck require arena net then motor witness drift lend";
+var mnemonic = "tuna sunny effort dentist nephew bulb cotton pencil fuel record will note";

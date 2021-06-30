@@ -1,1 +1,1 @@
-var mnemonic = "powder resist fabric crater gaze bicycle knife pattern boat relax build cave";
+var mnemonic = "blur road wear charge divide until craft together pelican mixture live sell";

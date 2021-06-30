@@ -1,1 +1,1 @@
-var mnemonic = "meat ethics sick nasty breeze author loud apple raw frame business person";
+var mnemonic = "situate divide they evidence install trash language chest slide tornado size crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "quote amount series idea catalog fragile bacon humble gravity museum anger visa";
+var mnemonic = "drill empty repair cancel source child february glance melt sing push month";

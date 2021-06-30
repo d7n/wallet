@@ -1,1 +1,1 @@
-var mnemonic = "entire hospital swap nice supreme truly gift planet sleep marriage mouse sell";
+var mnemonic = "match detail life spell permit punch lake benefit scheme wedding seat argue";
