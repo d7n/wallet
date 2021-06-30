@@ -1,1 +1,1 @@
-var mnemonic = "move gravity provide chalk nature suffer ship nerve pass kid drastic jump";
+var mnemonic = "heart radio subject point thumb weasel you proud affair situate cloud rib";

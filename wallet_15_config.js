@@ -1,1 +1,1 @@
-var mnemonic = "riot vocal labor sad discover click tomato uncle snack estate arctic broom";
+var mnemonic = "bird clean turkey vicious winter major ski elbow topple attract have neutral";

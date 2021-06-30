@@ -1,1 +1,1 @@
-var mnemonic = "dad olympic witness inflict awesome current leave mule drill exchange social trick";
+var mnemonic = "tiny retreat glory snake bulk owner pool device tree slender clean post";

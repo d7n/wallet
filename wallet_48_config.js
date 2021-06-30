@@ -1,1 +1,1 @@
-var mnemonic = "royal veteran mobile art approve erode nuclear orphan jealous skate share flat";
+var mnemonic = "distance similar mesh pull slide cash owner bar ritual cross horse survey";

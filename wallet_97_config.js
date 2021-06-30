@@ -1,1 +1,1 @@
-var mnemonic = "plunge obey camera square advice off liquid place tuna advice barely junk";
+var mnemonic = "absurd animal trash pipe suspect behave always gauge aware shove taste aisle";

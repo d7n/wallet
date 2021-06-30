@@ -1,1 +1,1 @@
-var mnemonic = "margin bargain rival nephew stomach benefit eager fever blanket busy receive emotion";
+var mnemonic = "theory repair group adult weapon title furnace bonus hen sword payment risk";

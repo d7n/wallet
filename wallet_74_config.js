@@ -1,1 +1,1 @@
-var mnemonic = "garlic drive twice youth able nominee bench enjoy above throw spell craft";
+var mnemonic = "double aware giggle original reward mammal notice duck sun enter photo mom";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry about hotel clinic private ride scale surprise swift myth nominee invest";
+var mnemonic = "mule radio junk liquid unhappy genuine goat ahead comic letter example tuition";

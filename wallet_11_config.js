@@ -1,1 +1,1 @@
-var mnemonic = "benefit van casino second long loop absent grief immune modify enhance dash";
+var mnemonic = "allow dune home right chalk quote habit jump gospel abstract waste must";

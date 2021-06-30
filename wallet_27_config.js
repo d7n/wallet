@@ -1,1 +1,1 @@
-var mnemonic = "often better library lecture shiver shine ethics usage defense screen nurse toast";
+var mnemonic = "debris unable sweet like uncle start pioneer ten cage long mix yard";

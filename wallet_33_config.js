@@ -1,1 +1,1 @@
-var mnemonic = "bridge similar spray exclude wagon resist easy maze badge couch air scale";
+var mnemonic = "file involve paper ring dose rather start crunch work frequent battle effort";

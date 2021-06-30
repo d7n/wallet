@@ -1,1 +1,1 @@
-var mnemonic = "equal license mechanic bring dress zone news dirt wall snap drastic tenant";
+var mnemonic = "drink today ahead toss garlic gap stereo loop first already giant fade";

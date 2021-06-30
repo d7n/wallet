@@ -1,1 +1,1 @@
-var mnemonic = "resist speak law major fringe unable few affair welcome alarm lunch lobster";
+var mnemonic = "anxiety junior notable razor wrong armor infant thrive draw ozone avocado save";

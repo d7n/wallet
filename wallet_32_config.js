@@ -1,1 +1,1 @@
-var mnemonic = "bulb true better flat such shoulder best idle sniff tongue achieve exhaust";
+var mnemonic = "brand word elder skill wide february connect galaxy moral alter absorb honey";

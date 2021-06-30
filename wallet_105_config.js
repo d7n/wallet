@@ -1,1 +1,1 @@
-var mnemonic = "gaze talk screen deliver cruise broken response cube pull tail pig puppy";
+var mnemonic = "glad shock quote debate speak aerobic target candy they version theme town";

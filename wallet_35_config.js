@@ -1,1 +1,1 @@
-var mnemonic = "boat human crack chronic because south lesson sad runway helmet scatter organ";
+var mnemonic = "whisper spray spider gesture outdoor helmet truly course enlist network midnight memory";

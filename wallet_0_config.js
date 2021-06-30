@@ -1,1 +1,1 @@
-var mnemonic = "crop runway battle jelly kite bracket fine gap feature rug trash dove";
+var mnemonic = "twice impose test kick face live young purity double chicken faint civil";

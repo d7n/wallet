@@ -1,1 +1,1 @@
-var mnemonic = "actor sea mechanic travel cabbage morning sort frost inherit bulk enhance demand";
+var mnemonic = "never vivid quarter cover magnet alley ivory frost ahead either diagram return";

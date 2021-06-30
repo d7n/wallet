@@ -1,1 +1,1 @@
-var mnemonic = "cheese airport wrestle foam digital odor photo dinosaur clutch sniff name weird";
+var mnemonic = "timber help vapor captain require decide tent tube toddler spell check van";

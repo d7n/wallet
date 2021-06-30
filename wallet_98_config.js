@@ -1,1 +1,1 @@
-var mnemonic = "tilt champion job retreat track fish erosion drill guilt all cereal marine";
+var mnemonic = "confirm uniform gaze glance title elevator swim dash label squirrel stumble maze";

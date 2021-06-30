@@ -1,1 +1,1 @@
-var mnemonic = "square estate scorpion push blouse setup parade video exact access champion grape";
+var mnemonic = "lift damp record betray elephant grunt empty tower visual twice pride net";

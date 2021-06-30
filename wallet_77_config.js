@@ -1,1 +1,1 @@
-var mnemonic = "shrug later trust hidden caution thunder glance record balcony pact purse accuse";
+var mnemonic = "duty never stomach fork inherit inspire raw worry access orient favorite negative";

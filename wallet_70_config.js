@@ -1,1 +1,1 @@
-var mnemonic = "bitter zero goat gold other impact antenna wheat cash elegant elephant measure";
+var mnemonic = "unhappy avoid term appear electric quiz forest awesome forget come heavy parade";

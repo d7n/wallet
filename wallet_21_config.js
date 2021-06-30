@@ -1,1 +1,1 @@
-var mnemonic = "fence police addict hobby series master alter drip fashion mountain venture legal";
+var mnemonic = "pact dawn resemble spatial aim surge wonder cable man win move frozen";

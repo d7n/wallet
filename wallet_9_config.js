@@ -1,1 +1,1 @@
-var mnemonic = "else arm deliver make solar crop dance garden satoshi flight high shed";
+var mnemonic = "art phrase recipe siren economy uncover marble enlist visa later skin come";

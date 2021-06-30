@@ -1,1 +1,1 @@
-var mnemonic = "disorder click mosquito exercise pitch taxi system lawsuit luxury canvas code gap";
+var mnemonic = "post lyrics uphold immense swarm maple bachelor illness oyster knee resist news";

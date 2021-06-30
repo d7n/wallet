@@ -1,1 +1,1 @@
-var mnemonic = "retreat bike merit invite athlete siren theme elder clutch garlic wool rally";
+var mnemonic = "yellow palm toward hurry fold slam debris taxi help buffalo hold purity";

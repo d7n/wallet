@@ -1,1 +1,1 @@
-var mnemonic = "roast casino manual record maze fog pave undo response bird direct awake";
+var mnemonic = "parade answer praise moment awkward orient render start test radar tray raise";

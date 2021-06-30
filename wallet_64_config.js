@@ -1,1 +1,1 @@
-var mnemonic = "excess will fish much same fever monkey sword yard economy then youth";
+var mnemonic = "drum puppy urge error ski grid receive quantum boring sentence century script";

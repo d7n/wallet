@@ -1,1 +1,1 @@
-var mnemonic = "inmate debris sport alcohol worth reform upgrade frame giant truly dove journey";
+var mnemonic = "brick second business six point aim album coral apart erupt cousin report";

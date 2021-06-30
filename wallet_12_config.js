@@ -1,1 +1,1 @@
-var mnemonic = "song agent below settle wrestle guitar afraid digital mesh laundry issue wire";
+var mnemonic = "fury sunset twin monitor danger enroll inner have rich coast pioneer open";

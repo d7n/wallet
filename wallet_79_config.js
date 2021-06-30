@@ -1,1 +1,1 @@
-var mnemonic = "arm tennis elbow surge call kiwi insect prevent glare legal butter love";
+var mnemonic = "venue blame approve achieve letter milk sponsor grow major spin husband estate";

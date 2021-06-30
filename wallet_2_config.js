@@ -1,1 +1,1 @@
-var mnemonic = "enforce market unlock amazing shift maximum female peanut moment piano can direct";
+var mnemonic = "priority loop orient disorder obscure find rice category conduct cram promote asthma";

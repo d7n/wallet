@@ -1,1 +1,1 @@
-var mnemonic = "very profit junk skate clerk drastic inmate direct meat cram latin depart";
+var mnemonic = "shiver prepare fossil confirm voice casual cup keen labor stairs text border";

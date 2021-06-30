@@ -1,1 +1,1 @@
-var mnemonic = "fog gorilla runway faint aisle wall person abandon loyal carpet embark rally";
+var mnemonic = "vibrant emotion cinnamon slab cruel detect loop heart enact subway model simple";

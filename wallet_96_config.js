@@ -1,1 +1,1 @@
-var mnemonic = "mango absorb cannon fuel market peanut between asthma grape scrap swift absurd";
+var mnemonic = "supply patient struggle sure hedgehog butter wedding admit grow imitate scrub love";

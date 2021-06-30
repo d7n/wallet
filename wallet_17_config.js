@@ -1,1 +1,1 @@
-var mnemonic = "calm virus canyon engine begin slab group baby isolate lizard shine kidney";
+var mnemonic = "harbor motor inquiry lazy lift quote field comfort material enjoy split almost";

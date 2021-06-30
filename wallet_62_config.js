@@ -1,1 +1,1 @@
-var mnemonic = "century judge anger invest then scrap great vast truth meadow riot canyon";
+var mnemonic = "smooth solution badge soup dolphin upgrade picture submit merit century submit bridge";

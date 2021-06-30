@@ -1,1 +1,1 @@
-var mnemonic = "what talk duck team distance napkin nut around saddle silent cloud merry";
+var mnemonic = "skill height toe sport congress patient horror endorse boil dilemma bulb ramp";

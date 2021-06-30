@@ -1,1 +1,1 @@
-var mnemonic = "crowd mad glow spring into connect eternal shoe trim south favorite talent";
+var mnemonic = "scan wedding reason reunion culture agree cotton biology middle ancient chalk weird";

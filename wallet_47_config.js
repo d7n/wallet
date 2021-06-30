@@ -1,1 +1,1 @@
-var mnemonic = "theory rural seat border park praise video equal flavor space impact buzz";
+var mnemonic = "doll riot clip fit damp bonus major possible wing wear egg grit";

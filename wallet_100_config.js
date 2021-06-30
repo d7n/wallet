@@ -1,1 +1,1 @@
-var mnemonic = "surprise federal hover case flat broom moment visual palm bleak fence grace";
+var mnemonic = "dignity genuine angle dose organ photo stuff exact elephant cycle drop large";

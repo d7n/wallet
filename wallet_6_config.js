@@ -1,1 +1,1 @@
-var mnemonic = "ankle hope casual weather tourist check any wedding grain club road sadness";
+var mnemonic = "sorry rabbit twenty decide hotel cost wise again mountain syrup evolve advance";

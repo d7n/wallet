@@ -1,1 +1,1 @@
-var mnemonic = "mercy predict witness thought erosion prepare maximum only uphold hidden security opera";
+var mnemonic = "long uncle outside nice change act estate town reveal spy plate flat";

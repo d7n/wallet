@@ -1,1 +1,1 @@
-var mnemonic = "crowd attitude report silver grid zero couple steel vehicle impact left palace";
+var mnemonic = "donate sock involve squirrel replace shadow still kiwi plug almost tail concert";

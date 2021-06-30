@@ -1,1 +1,1 @@
-var mnemonic = "river vital kidney glory water remember endless lab brand stadium punch agree";
+var mnemonic = "grace second snake seek below material exit mobile twenty script luxury youth";

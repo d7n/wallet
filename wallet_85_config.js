@@ -1,1 +1,1 @@
-var mnemonic = "arrow diesel merry school model season winner glance old antique mouse hero";
+var mnemonic = "math sting machine abuse shift fence tooth salmon abandon crowd smoke midnight";

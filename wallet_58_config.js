@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin sponsor balance tennis slender ceiling mixture puppy right shift intact gentle";
+var mnemonic = "express divorce across scrub crazy mansion file alter put index cool into";

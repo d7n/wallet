@@ -1,1 +1,1 @@
-var mnemonic = "theme trigger used peace happy ankle chef width home rapid bird wood";
+var mnemonic = "million wonder utility walk bid govern artist belt video zebra time drive";

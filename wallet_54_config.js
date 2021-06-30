@@ -1,1 +1,1 @@
-var mnemonic = "timber receive paper weekend vacuum author mobile profit school enemy south hundred";
+var mnemonic = "crime skull desk average deliver napkin denial demand private warm shallow joy";

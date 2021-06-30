@@ -1,1 +1,1 @@
-var mnemonic = "cattle copper reopen huge local orchard digital trigger vanish release come tiny";
+var mnemonic = "bamboo vicious boss gesture chronic mouse type trust type awful girl salon";

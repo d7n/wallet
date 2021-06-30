@@ -1,1 +1,1 @@
-var mnemonic = "crawl always shuffle valve vintage behave coyote raccoon actress mixed mad top";
+var mnemonic = "fat physical wool desk light salute leaf stay erase sun shallow lonely";

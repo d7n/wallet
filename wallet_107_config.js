@@ -1,1 +1,1 @@
-var mnemonic = "fiction auto liquid unaware urge town olive universe rent identify bird vacuum";
+var mnemonic = "gate off lock menu elite tobacco extra weather soul biology you urge";

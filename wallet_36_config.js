@@ -1,1 +1,1 @@
-var mnemonic = "economy elephant venture drill code six inhale lounge bulk hawk pupil wrestle";
+var mnemonic = "minimum spirit truth lake assist almost journey canvas wagon fever round lounge";

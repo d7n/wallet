@@ -1,1 +1,1 @@
-var mnemonic = "pole error private tomorrow arm grid absent sleep wasp health guitar lock";
+var mnemonic = "then brush disagree blade slice pencil fantasy tumble mixed fault sport aim";

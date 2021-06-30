@@ -1,1 +1,1 @@
-var mnemonic = "youth quit typical alert trade december faint system minute cricket jazz come";
+var mnemonic = "elbow nice proud share play recall horse soda ignore slow mimic thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "example tumble mammal enact blood club wisdom brand hazard party modify penalty";
+var mnemonic = "patch dinner crowd empower float pelican reflect end fatigue mystery unaware debate";

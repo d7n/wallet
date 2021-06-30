@@ -1,1 +1,1 @@
-var mnemonic = "bunker bomb frog rigid sunset syrup certain burger scorpion sphere okay lion";
+var mnemonic = "sting armed note feed guilt cook faculty survey number limb gossip average";

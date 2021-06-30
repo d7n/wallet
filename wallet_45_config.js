@@ -1,1 +1,1 @@
-var mnemonic = "addict hospital uncle stool disorder before crime system tongue mix wrap that";
+var mnemonic = "broccoli wave repair donkey mechanic index palm mixed explain useful essence animal";

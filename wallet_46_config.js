@@ -1,1 +1,1 @@
-var mnemonic = "own flip inquiry casino short paper matrix noodle warrior drink forward shaft";
+var mnemonic = "cloth simple health divide bargain twin bunker manual wisdom neglect horse sustain";

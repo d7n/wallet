@@ -1,1 +1,1 @@
-var mnemonic = "room wrist soup mule cigar possible gadget wrap artist run client purity";
+var mnemonic = "alley item corn tape wrap loyal slight mother bomb outdoor field loop";

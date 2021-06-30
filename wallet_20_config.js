@@ -1,1 +1,1 @@
-var mnemonic = "evolve list member whisper assume rude clarify ordinary creek poem pumpkin undo";
+var mnemonic = "angle erupt winter during model bridge mammal mule eight wine carpet picture";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel cereal meat smoke evidence budget company such gasp muscle aerobic cereal";
+var mnemonic = "bench total fabric casual army forget misery magnet capital nerve device curve";

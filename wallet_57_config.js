@@ -1,1 +1,1 @@
-var mnemonic = "inhale lonely acid connect task parrot view prevent erase aim hand combine";
+var mnemonic = "frost sound topple art sniff pear flavor outdoor talk budget riot into";

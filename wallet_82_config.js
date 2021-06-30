@@ -1,1 +1,1 @@
-var mnemonic = "abandon nature option omit climb clutch consider onion gain physical actor rapid";
+var mnemonic = "define scorpion cash imitate piano armor someone copper dial gaze visa embark";

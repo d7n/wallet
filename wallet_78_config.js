@@ -1,1 +1,1 @@
-var mnemonic = "tunnel sound critic define style afraid host possible weather swim wife oil";
+var mnemonic = "panic duty spawn level bar tail hill mystery ridge evidence scout elder";

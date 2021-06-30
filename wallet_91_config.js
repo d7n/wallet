@@ -1,1 +1,1 @@
-var mnemonic = "weapon fire light issue aware lunch angry long fun useful account rice";
+var mnemonic = "shoe tape gain about renew tackle category drastic clinic brass timber exist";

@@ -1,1 +1,1 @@
-var mnemonic = "rain kick vehicle oil omit space garlic wagon observe monitor west affair";
+var mnemonic = "fit isolate truth skirt regret property airport south oak myth trade what";

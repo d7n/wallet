@@ -1,1 +1,1 @@
-var mnemonic = "law obey theme that clip bullet disease bike idea fire minute force";
+var mnemonic = "dumb stomach month shadow gauge crime robust during essence barely mouse attract";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion unfair mystery client allow amused fossil memory pass travel behave legend";
+var mnemonic = "taxi fine theme slab clerk cushion sibling toilet shock duck cradle maximum";

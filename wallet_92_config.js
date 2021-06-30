@@ -1,1 +1,1 @@
-var mnemonic = "tunnel size bicycle erosion asset reject document pitch crystal ordinary invest change";
+var mnemonic = "settle denial social prevent pyramid avocado furnace next tube brave divorce ill";

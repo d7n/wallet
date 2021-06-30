@@ -1,1 +1,1 @@
-var mnemonic = "select garage scan mail else clutch box slush emotion occur risk same";
+var mnemonic = "soft window file spice enough result vocal decide build devote bronze worth";

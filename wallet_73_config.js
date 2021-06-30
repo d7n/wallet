@@ -1,1 +1,1 @@
-var mnemonic = "lunar parent profit plunge erupt wife hungry cover spot boy host vague";
+var mnemonic = "need delay reason royal master online gain clerk view tail fringe dolphin";

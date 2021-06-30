@@ -1,1 +1,1 @@
-var mnemonic = "foam essay fantasy tomorrow lift round foam animal run picture betray public";
+var mnemonic = "pioneer cup move traffic bonus provide breeze search holiday donkey address verb";

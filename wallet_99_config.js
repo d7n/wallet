@@ -1,1 +1,1 @@
-var mnemonic = "sudden super fit permit violin among cotton disorder alert pink apart split";
+var mnemonic = "eternal embrace master orbit mutual steel outside scrap title wire wolf leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "spy sun stairs pill ritual rare sadness office hockey receive find seminar";
+var mnemonic = "stool misery actor person rail horror usual vague insect tobacco upset where";

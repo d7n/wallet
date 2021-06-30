@@ -1,1 +1,1 @@
-var mnemonic = "online public cheese lake size nasty essay silver subway ship book garlic";
+var mnemonic = "brush fly large door traffic over thought fit digital item chair spatial";

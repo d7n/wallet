@@ -1,1 +1,1 @@
-var mnemonic = "gentle learn hope april exercise shine weapon boy behave attend sight subway";
+var mnemonic = "maid stone fetch replace minimum motion patient toilet right possible fossil now";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange script teach bamboo squeeze smooth other settle taxi balcony news salute";
+var mnemonic = "recipe square duck weird bind coffee winter evidence squirrel describe admit praise";

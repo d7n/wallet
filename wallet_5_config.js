@@ -1,1 +1,1 @@
-var mnemonic = "acid rookie other island uncle skull rose aisle runway aunt soft major";
+var mnemonic = "huge mirror trash derive usual stadium mechanic right midnight silent twenty blame";

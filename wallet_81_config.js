@@ -1,1 +1,1 @@
-var mnemonic = "erosion security relax harbor plunge spot syrup split elegant resist smart pipe";
+var mnemonic = "bless process remove tattoo process hurry equal struggle crunch twist young scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "planet glove garbage tonight trigger melody finish kangaroo slush purity flag behind";
+var mnemonic = "icon upset gallery next auction receive copper pony fancy forum hire series";

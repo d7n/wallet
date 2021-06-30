@@ -1,1 +1,1 @@
-var mnemonic = "allow artefact want essence leg juice improve client bridge cable prefer disagree";
+var mnemonic = "coast question what ecology pencil raccoon potato nest maple sibling gaze hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "about frequent foster code range great easy enemy fury crane split refuse";
+var mnemonic = "cargo virtual execute around cruise dignity muffin cigar bomb hospital mad dash";

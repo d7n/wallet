@@ -1,1 +1,1 @@
-var mnemonic = "choice eye monster jealous rifle feel barely reveal outdoor account cement brain";
+var mnemonic = "make essence endless odor firm hungry decorate enlist finish physical depend talent";
