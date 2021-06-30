@@ -1,1 +1,1 @@
-var mnemonic = "opinion elbow giraffe clay nephew hollow cat usage exhibit measure craft rigid";
+var mnemonic = "type number shaft stable off thumb crowd dash city couch odor wash";

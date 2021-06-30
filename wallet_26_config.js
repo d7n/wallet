@@ -1,1 +1,1 @@
-var mnemonic = "income illegal defense fatal field amazing primary swing myself veteran pipe steak";
+var mnemonic = "worth outer uncle extra empty push wall stock mind swim topple price";

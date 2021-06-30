@@ -1,1 +1,1 @@
-var mnemonic = "country danger hover moral head enter endorse swamp outside general add milk";
+var mnemonic = "champion company grid gallery mobile myself since snap tragic say exile apple";

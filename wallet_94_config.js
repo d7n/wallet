@@ -1,1 +1,1 @@
-var mnemonic = "hand actress top wait supreme surprise penalty myself label erode tool junk";
+var mnemonic = "unlock sun person aerobic wrong fury tide chief potato sock shy donor";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter defense trial marriage stove achieve plate joke chef thing pig critic";
+var mnemonic = "survey beef wall rocket attend engage cancel update surround pilot auto twelve";

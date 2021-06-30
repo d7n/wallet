@@ -1,1 +1,1 @@
-var mnemonic = "index trade blade resource clerk power identify dentist delay defense pilot victory";
+var mnemonic = "dawn scout report scatter rain buyer kingdom diagram dial cheap aisle shadow";

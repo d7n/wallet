@@ -1,1 +1,1 @@
-var mnemonic = "client maple fruit welcome leaf tennis reopen work tourist evil magnet soccer";
+var mnemonic = "earn cactus illness two wool drip gown rate insane milk canvas goat";

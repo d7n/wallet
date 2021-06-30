@@ -1,1 +1,1 @@
-var mnemonic = "cause auto walk library discover budget slam night verb nut broom desert";
+var mnemonic = "penalty industry lumber verb exile when coffee orange shaft fish carry urge";

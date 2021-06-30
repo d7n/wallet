@@ -1,1 +1,1 @@
-var mnemonic = "spend scan tobacco slot turkey retreat able affair cloud sweet plate brain";
+var mnemonic = "toy exchange barrel spoon arena proud siren narrow grunt luggage warm viable";

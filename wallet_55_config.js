@@ -1,1 +1,1 @@
-var mnemonic = "purpose force upgrade palm topic oxygen tomato risk genius grunt chicken saddle";
+var mnemonic = "exile avocado reward chronic head device sustain evidence merit fire mountain kangaroo";

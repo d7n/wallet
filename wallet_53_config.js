@@ -1,1 +1,1 @@
-var mnemonic = "quantum laptop adult language intact shop spy adapt range slab cruel wise";
+var mnemonic = "gate border sure medal rigid clap dumb taxi sea analyst frown stand";

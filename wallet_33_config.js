@@ -1,1 +1,1 @@
-var mnemonic = "quit moon pattern hawk heart visa bleak use runway series mango clean";
+var mnemonic = "almost brush trend harbor animal remember duck afraid canvas leopard rifle toe";

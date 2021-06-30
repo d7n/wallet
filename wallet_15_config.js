@@ -1,1 +1,1 @@
-var mnemonic = "food cousin hello lion fever timber mountain model actual book flush cloth";
+var mnemonic = "cherry kit upgrade flash attract across toy shoulder behind palm sun episode";

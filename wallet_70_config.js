@@ -1,1 +1,1 @@
-var mnemonic = "wise much few twenty funny subway jacket hello pattern column faculty gas";
+var mnemonic = "verify broom frequent crack twin miss ten gospel issue once coffee bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "next stool soon hover butter industry smoke seek second deposit small crucial";
+var mnemonic = "small box key argue ability inspire bulk flock draft brave attract aim";

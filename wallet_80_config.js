@@ -1,1 +1,1 @@
-var mnemonic = "liquid use spice perfect such door climb noise laundry accuse gadget wink";
+var mnemonic = "answer erase tell firm spice vague come upon use fluid jungle primary";

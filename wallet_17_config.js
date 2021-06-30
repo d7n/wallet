@@ -1,1 +1,1 @@
-var mnemonic = "deposit dial fluid foster army sketch absent avocado wage vanish scorpion actual";
+var mnemonic = "media scout song thrive pill riot eagle garment great love conduct cactus";

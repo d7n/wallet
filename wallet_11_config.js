@@ -1,1 +1,1 @@
-var mnemonic = "best any fiction team funny sausage flock know middle negative bleak joke";
+var mnemonic = "owner message invest you town snap category sunny video poem hold refuse";

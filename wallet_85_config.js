@@ -1,1 +1,1 @@
-var mnemonic = "flat sure category admit portion step subway peace lion orbit balcony blouse";
+var mnemonic = "until stomach cinnamon bulk reduce welcome horse clutch neck axis exchange amount";

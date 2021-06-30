@@ -1,1 +1,1 @@
-var mnemonic = "bar agent detail bar floor recycle large category patrol walk hawk chicken";
+var mnemonic = "depth grief wing jungle analyst because transfer polar coach dune three again";

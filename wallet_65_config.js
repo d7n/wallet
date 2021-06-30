@@ -1,1 +1,1 @@
-var mnemonic = "zoo floor weather holiday purity thrive debate damp gravity mountain negative thrive";
+var mnemonic = "pig kangaroo material cage tattoo series intact admit box remind harsh embark";

@@ -1,1 +1,1 @@
-var mnemonic = "focus disagree accident stairs that erode fame average good unique ahead volume";
+var mnemonic = "where chicken piece develop flock junk vast soft already gossip planet gift";

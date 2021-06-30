@@ -1,1 +1,1 @@
-var mnemonic = "injury spread zoo erode pull amazing large witness label mix exotic velvet";
+var mnemonic = "love rotate hotel pear cabin local tree slender unknown option indicate reform";

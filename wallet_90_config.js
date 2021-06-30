@@ -1,1 +1,1 @@
-var mnemonic = "wire about apology member grape gain decline leave aisle thought stereo bench";
+var mnemonic = "meadow spare glory shuffle bounce edit turn crater movie position kite borrow";

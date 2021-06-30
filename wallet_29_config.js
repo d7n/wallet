@@ -1,1 +1,1 @@
-var mnemonic = "veteran purchase monitor mix crystal radar quarter citizen hen pill able reason";
+var mnemonic = "plastic recycle wife crazy cup onion velvet guard insect gentle clock author";

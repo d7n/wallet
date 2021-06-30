@@ -1,1 +1,1 @@
-var mnemonic = "nominee bronze collect oak debris sea strategy hint tooth fold grab rubber";
+var mnemonic = "now clever regular obey now duck become type oak vault moment hotel";

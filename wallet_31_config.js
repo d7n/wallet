@@ -1,1 +1,1 @@
-var mnemonic = "veteran apart moon away clip fury knock float lucky transfer gauge correct";
+var mnemonic = "minimum scrub neutral mad token pink offer inject diet apology slam face";

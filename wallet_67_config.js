@@ -1,1 +1,1 @@
-var mnemonic = "bench safe elbow sustain bicycle abstract royal arm this real card tip";
+var mnemonic = "wink glare plug call actor magic couple spend chunk luxury boy truly";

@@ -1,1 +1,1 @@
-var mnemonic = "melt despair inch gallery height swarm section matter neglect spray blanket amazing";
+var mnemonic = "butter damp vivid rocket make slender inherit chair salute dune purse despair";

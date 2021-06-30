@@ -1,1 +1,1 @@
-var mnemonic = "pet romance weather toe affair defy wool swift symbol middle april indoor";
+var mnemonic = "either transfer divide tail bleak poet choice vault cabin ability animal life";

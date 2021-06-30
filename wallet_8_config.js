@@ -1,1 +1,1 @@
-var mnemonic = "crazy ceiling always access adapt apart labor tragic pulp treat fun word";
+var mnemonic = "identify cement axis include mutual wise hen permit craft reject salt mutual";

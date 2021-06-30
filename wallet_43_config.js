@@ -1,1 +1,1 @@
-var mnemonic = "very resemble vacant exist crouch level when catch excite play keen odor";
+var mnemonic = "february balcony tumble talent hen athlete able liquid horse fabric luxury easily";

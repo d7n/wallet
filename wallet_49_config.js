@@ -1,1 +1,1 @@
-var mnemonic = "invest kit timber truly tragic artefact begin design sponsor able mesh abandon";
+var mnemonic = "addict video uncover drink adapt wrestle cruise deer sand master camp give";

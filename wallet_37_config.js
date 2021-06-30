@@ -1,1 +1,1 @@
-var mnemonic = "over chalk modify shield slogan breeze visit south mechanic chronic property crisp";
+var mnemonic = "chest flee gravity save fatal normal couple dragon twenty desk twin guilt";

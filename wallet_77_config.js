@@ -1,1 +1,1 @@
-var mnemonic = "economy chief room around chief random wisdom actual dry enrich weird gym";
+var mnemonic = "this prefer truck question found avocado govern motor repair laugh patient clip";

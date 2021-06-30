@@ -1,1 +1,1 @@
-var mnemonic = "man diesel pumpkin month gate common lumber hurdle usual laugh comic such";
+var mnemonic = "post slab later hungry cluster snap orphan obvious excuse enhance web option";

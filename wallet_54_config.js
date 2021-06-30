@@ -1,1 +1,1 @@
-var mnemonic = "dial assist swarm faculty fine drill just mansion advance zoo angle squeeze";
+var mnemonic = "ocean win notice also slow harsh elbow empty believe rough wrestle prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve fitness gun almost weekend elder deputy fatigue sausage inside suggest tiger";
+var mnemonic = "tumble vague provide wedding wealth adjust vacant youth pair bean sun idle";

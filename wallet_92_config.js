@@ -1,1 +1,1 @@
-var mnemonic = "afraid perfect fuel giggle bottom bachelor shock broom service unaware grocery change";
+var mnemonic = "shrimp glide accuse rose buddy mystery front spell earn inform grace gain";

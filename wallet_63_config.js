@@ -1,1 +1,1 @@
-var mnemonic = "tennis endless output will sign vast share verify jump already human favorite";
+var mnemonic = "program vendor slender enact finger cat cement bless rule advice element warrior";

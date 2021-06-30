@@ -1,1 +1,1 @@
-var mnemonic = "title floor piece shield dinosaur hat orient suit floor suit mention beauty";
+var mnemonic = "tourist hold idle make stamp jacket buffalo average elite cube affair come";

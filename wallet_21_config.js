@@ -1,1 +1,1 @@
-var mnemonic = "team rate cruel safe sorry goose blouse income vibrant eyebrow spray juice";
+var mnemonic = "web cart ocean history panel hazard dirt thumb often hidden shrug swim";

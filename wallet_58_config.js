@@ -1,1 +1,1 @@
-var mnemonic = "coyote key eight warrior service rubber floor liquid repeat latin near word";
+var mnemonic = "gown venture wood weasel emotion fan surface coffee symbol green voice battle";

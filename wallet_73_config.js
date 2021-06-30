@@ -1,1 +1,1 @@
-var mnemonic = "expire family sing orphan pepper negative affair gorilla party attend predict pledge";
+var mnemonic = "patrol climb regular welcome quarter cattle best poem fiber spoon oak weapon";

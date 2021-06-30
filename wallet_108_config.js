@@ -1,1 +1,1 @@
-var mnemonic = "flock run eagle inherit charge hire visual mosquito drip genre trade mix";
+var mnemonic = "remove clip cake accuse pyramid pride festival clog analyst market pave hidden";

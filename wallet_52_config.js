@@ -1,1 +1,1 @@
-var mnemonic = "basic lava brown hotel habit because require oak regular top chicken merit";
+var mnemonic = "two people worry balcony chief fun guilt owner jungle session elbow logic";

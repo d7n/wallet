@@ -1,1 +1,1 @@
-var mnemonic = "hen age fatal test jeans blue magnet cloth pen color learn tattoo";
+var mnemonic = "kingdom jazz drink ticket evoke crouch animal wing random dune job neglect";

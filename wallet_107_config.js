@@ -1,1 +1,1 @@
-var mnemonic = "party taxi make pioneer salmon slush edit decide minute dose hub barely";
+var mnemonic = "wool list reward outside doctor general false slow acoustic believe alien short";

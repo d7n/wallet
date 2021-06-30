@@ -1,1 +1,1 @@
-var mnemonic = "keep exotic add any dawn depart advice discover wild bronze gas piece";
+var mnemonic = "pear panel south soldier manual field turn can disagree main noodle height";

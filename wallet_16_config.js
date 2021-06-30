@@ -1,1 +1,1 @@
-var mnemonic = "manual barrel frost brand board fresh hospital over treat summer nerve timber";
+var mnemonic = "young purchase slab answer quit saddle smile spice juice alien review skull";

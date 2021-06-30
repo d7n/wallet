@@ -1,1 +1,1 @@
-var mnemonic = "wine dog current side clarify half box benefit april boat exit zero";
+var mnemonic = "verify planet drive daughter company riot breeze casual saddle amazing melody recycle";

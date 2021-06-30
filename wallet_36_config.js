@@ -1,1 +1,1 @@
-var mnemonic = "faculty kick column material recipe honey artist coin mom mystery head fit";
+var mnemonic = "service badge cactus anxiety indoor best area essay floor wear document twelve";

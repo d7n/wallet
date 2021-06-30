@@ -1,1 +1,1 @@
-var mnemonic = "ethics attend item almost pencil ignore sentence reflect punch blouse eye tourist";
+var mnemonic = "forum wet guitar measure appear arrest rather demand cinnamon envelope organ version";

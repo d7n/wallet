@@ -1,1 +1,1 @@
-var mnemonic = "obtain invest lucky ladder lawn random egg rocket shell interest gauge infant";
+var mnemonic = "swap dish truck street wrong please science praise spend stable despair actor";

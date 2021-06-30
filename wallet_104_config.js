@@ -1,1 +1,1 @@
-var mnemonic = "kite pretty flower brother mother legend dwarf exchange swarm tired eternal sweet";
+var mnemonic = "ancient half mother file assist pudding bring eye royal uncover gym write";

@@ -1,1 +1,1 @@
-var mnemonic = "remember argue fabric ecology barely empty dune little solar acoustic lab short";
+var mnemonic = "become option curious memory submit monster ritual design chunk april viable subject";

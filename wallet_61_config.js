@@ -1,1 +1,1 @@
-var mnemonic = "diagram local food throw accident family prepare helmet early gallery point fog";
+var mnemonic = "copy pull charge clip brave air portion favorite cotton jungle olive snow";

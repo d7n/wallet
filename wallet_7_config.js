@@ -1,1 +1,1 @@
-var mnemonic = "marriage little robust flee galaxy craft cattle mad garlic turn few cover";
+var mnemonic = "shuffle stairs gravity thrive together flight obey unveil drop gorilla defy ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "certain pig impose small knee swarm meat paper onion milk trip blast";
+var mnemonic = "chase bring bullet trick winner deposit draw board parade allow stay admit";

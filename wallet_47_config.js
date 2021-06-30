@@ -1,1 +1,1 @@
-var mnemonic = "legend design cancel soccer fault ask olive achieve liar pass age token";
+var mnemonic = "extend strike patient jacket spare clown next power depart deposit cherry category";

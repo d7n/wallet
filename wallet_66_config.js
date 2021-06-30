@@ -1,1 +1,1 @@
-var mnemonic = "mammal zero penalty front critic east help giraffe play fox expect horn";
+var mnemonic = "renew holiday neck talk wasp logic online assault weapon all mail whisper";

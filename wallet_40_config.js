@@ -1,1 +1,1 @@
-var mnemonic = "acoustic play urban pilot problem region talk fault sudden tired punch border";
+var mnemonic = "illness vehicle blind phone still valley draw wink faint situate tuna gorilla";

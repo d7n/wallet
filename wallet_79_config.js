@@ -1,1 +1,1 @@
-var mnemonic = "omit shoe entry file glove unaware swamp element reward hard total impact";
+var mnemonic = "recipe drift cluster side rug bacon excuse flush math awesome gloom again";

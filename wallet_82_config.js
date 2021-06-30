@@ -1,1 +1,1 @@
-var mnemonic = "glance lawsuit cause hurry supply million claim bid ball print weapon wash";
+var mnemonic = "solar group host benefit dash one hammer friend square wealth zoo magic";

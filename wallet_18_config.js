@@ -1,1 +1,1 @@
-var mnemonic = "scissors giant faith mandate shadow million plastic type powder pretty bone speak";
+var mnemonic = "giraffe cement point remember merry globe average banner term cargo pretty bunker";

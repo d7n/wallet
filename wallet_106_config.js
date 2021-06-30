@@ -1,1 +1,1 @@
-var mnemonic = "material obey water fossil south choose sorry zebra select eager tuna attack";
+var mnemonic = "pole casual figure tag rate addict hill message wise fun twin able";

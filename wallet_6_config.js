@@ -1,1 +1,1 @@
-var mnemonic = "segment shallow forget sword remember win repair select elevator loop parrot car";
+var mnemonic = "appear fault kingdom gloom chair exile strong metal business involve fat risk";

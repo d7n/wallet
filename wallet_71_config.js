@@ -1,1 +1,1 @@
-var mnemonic = "tribe fiscal birth helmet develop atom black kidney coast grace soon sunset";
+var mnemonic = "expire predict hover insane achieve trend smooth property expose suspect zone review";

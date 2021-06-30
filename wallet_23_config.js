@@ -1,1 +1,1 @@
-var mnemonic = "critic cushion speak viable head axis gauge picnic neck fence panic capable";
+var mnemonic = "track time crane smart nest unfold drive upgrade gate ceiling bacon whisper";

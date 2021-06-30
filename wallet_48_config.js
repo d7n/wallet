@@ -1,1 +1,1 @@
-var mnemonic = "rib silly genuine solid dog oxygen hint spell guard west rib bounce";
+var mnemonic = "cabbage pilot rural bicycle unfold beef mercy music cabbage march build victory";

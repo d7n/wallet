@@ -1,1 +1,1 @@
-var mnemonic = "angle belt chalk cluster transfer enemy depart scrub congress bus census sausage";
+var mnemonic = "emotion desert merry loop child empower element nerve great sister yard about";

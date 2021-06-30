@@ -1,1 +1,1 @@
-var mnemonic = "win axis polar easily quick ethics rare misery tooth pet bicycle split";
+var mnemonic = "spring giant screen solar era option twice recall learn kangaroo leave wash";

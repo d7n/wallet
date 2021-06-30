@@ -1,1 +1,1 @@
-var mnemonic = "sleep wreck indicate option jelly helmet field space intact polar comic chapter";
+var mnemonic = "slogan practice six south figure enable pioneer bleak unaware answer say poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit image custom park inherit logic brief heavy scissors crime stamp screen";
+var mnemonic = "bubble maple mail maze pattern daughter include universe mom slot pulp small";

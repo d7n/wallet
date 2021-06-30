@@ -1,1 +1,1 @@
-var mnemonic = "snake attract fun ready divert honey lazy electric ready trick size tape";
+var mnemonic = "robot sniff park melody spot area heart high voice arrive mass stick";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow cloth wife innocent sample vocal lonely quality buzz labor crash daughter";
+var mnemonic = "ordinary quote inspire method trust minor wire fun reunion term farm achieve";

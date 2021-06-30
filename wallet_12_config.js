@@ -1,1 +1,1 @@
-var mnemonic = "grace live prefer today road accident gap media possible rifle private cave";
+var mnemonic = "blind lazy slender utility unlock book used allow valve visit resemble park";

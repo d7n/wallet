@@ -1,1 +1,1 @@
-var mnemonic = "pioneer evoke sweet miss juice unhappy theme quality turkey family song one";
+var mnemonic = "cry obscure angry picnic manage cloud solution mom notice cash toddler sand";

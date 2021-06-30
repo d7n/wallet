@@ -1,1 +1,1 @@
-var mnemonic = "garage wisdom barely pattern armed token manual another monster journey glass rapid";
+var mnemonic = "flip gloom zoo write possible suspect holiday hip drip bright comic blame";

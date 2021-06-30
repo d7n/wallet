@@ -1,1 +1,1 @@
-var mnemonic = "fever useless frequent quarter kidney circle monster fancy inquiry always oak zebra";
+var mnemonic = "claim later dragon extra ostrich hire dinner draw awake harsh hollow display";

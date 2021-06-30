@@ -1,1 +1,1 @@
-var mnemonic = "diary junk potato neck sentence dutch depart palace decorate burst siege oval";
+var mnemonic = "voyage motion certain design light lesson staff unable answer lizard team wheel";

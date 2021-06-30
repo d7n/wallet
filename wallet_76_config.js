@@ -1,1 +1,1 @@
-var mnemonic = "turtle despair fine filter away merge story sunny build piece appear panther";
+var mnemonic = "ability poem talent wheel panther win quarter flock nature swallow service debate";

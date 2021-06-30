@@ -1,1 +1,1 @@
-var mnemonic = "inside alpha toy hollow only suggest during thought exist unhappy tackle giraffe";
+var mnemonic = "huge episode radio copy pizza excess gun crack label glue post charge";

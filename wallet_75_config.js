@@ -1,1 +1,1 @@
-var mnemonic = "about slim ramp flower arch check ancient bright snack sword erode mosquito";
+var mnemonic = "glow legend path promote pyramid until kitten inner dawn nasty sweet reward";

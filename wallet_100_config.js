@@ -1,1 +1,1 @@
-var mnemonic = "duty napkin pretty erode museum ask they butter firm hawk another measure";
+var mnemonic = "cruise raise ripple course good lift liar fury youth trumpet float wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato room they virtual category become come strategy arrow improve menu kit";
+var mnemonic = "canal bulk leg dune unfold play animal try duty aim barely olive";

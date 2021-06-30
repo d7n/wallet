@@ -1,1 +1,1 @@
-var mnemonic = "muffin unfair spare dove mom increase wave donor oblige fantasy inflict truck";
+var mnemonic = "expand host citizen glow crawl host great december frequent book hood woman";

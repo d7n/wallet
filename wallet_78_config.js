@@ -1,1 +1,1 @@
-var mnemonic = "dose resist simple situate year switch jealous matter economy wage discover credit";
+var mnemonic = "parrot lazy blanket million salt husband select permit say hollow anchor oven";

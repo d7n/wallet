@@ -1,1 +1,1 @@
-var mnemonic = "width local sadness evolve lazy lion slender option spoon correct island chase";
+var mnemonic = "original easily walk list area habit equal confirm lumber develop mechanic trade";

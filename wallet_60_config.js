@@ -1,1 +1,1 @@
-var mnemonic = "argue project rough antenna skull squeeze group shoot wish burden vocal grace";
+var mnemonic = "bar dilemma toy rent uncover joke ostrich result crane nothing denial hand";
