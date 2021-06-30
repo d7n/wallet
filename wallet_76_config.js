@@ -1,1 +1,1 @@
-var mnemonic = "chronic coffee urban cage morning domain old mention unveil canyon opera before";
+var mnemonic = "tube attitude lottery quantum also kind olive abstract best shed sense ocean";

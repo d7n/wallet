@@ -1,1 +1,1 @@
-var mnemonic = "frame expire expand gas soon wise clump first world august flash secret";
+var mnemonic = "lawsuit dismiss rail lonely mandate viable vital lawsuit wheel unfold dress letter";

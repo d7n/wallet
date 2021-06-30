@@ -1,1 +1,1 @@
-var mnemonic = "monitor trigger always supreme only puzzle ceiling negative struggle flight normal jungle";
+var mnemonic = "bonus swear seed confirm peanut lend error talk skin ripple sick crunch";

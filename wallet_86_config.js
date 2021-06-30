@@ -1,1 +1,1 @@
-var mnemonic = "gossip battle acquire confirm lucky fall era parade sure express horror renew";
+var mnemonic = "robust wrist clown sing law avoid milk case snap safe sunset clerk";

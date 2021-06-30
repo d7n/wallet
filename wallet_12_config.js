@@ -1,1 +1,1 @@
-var mnemonic = "banner toilet limb display potato shove tortoise door brush deposit wreck erosion";
+var mnemonic = "age era sting glue heavy trophy wisdom media develop equal attack long";

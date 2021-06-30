@@ -1,1 +1,1 @@
-var mnemonic = "neck panther joy glare summer height claim victory wife firm toe topple";
+var mnemonic = "violin lunch barrel promote type rebuild hole patrol tissue fit fee cost";

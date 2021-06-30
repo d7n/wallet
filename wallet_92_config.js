@@ -1,1 +1,1 @@
-var mnemonic = "current skill problem camera illness cash case skill stage elegant citizen arrive";
+var mnemonic = "grab vendor fortune easy guilt supreme sport fall odor extend suspect merge";

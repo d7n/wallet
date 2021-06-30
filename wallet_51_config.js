@@ -1,1 +1,1 @@
-var mnemonic = "robust organ wife dilemma seed win blade garlic tobacco day recall setup";
+var mnemonic = "leaf under topic report winter avocado remain payment quarter crack kiss win";

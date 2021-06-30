@@ -1,1 +1,1 @@
-var mnemonic = "pear uniform shop cover mention burger broken stamp alter ketchup cram donkey";
+var mnemonic = "inhale attract lawsuit uphold enable satoshi cream private glimpse grape easily exact";

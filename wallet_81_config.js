@@ -1,1 +1,1 @@
-var mnemonic = "maximum amateur matrix can people ride book civil tenant actor table machine";
+var mnemonic = "elegant friend motor aerobic aunt icon oxygen say trend skill trash jewel";

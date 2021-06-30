@@ -1,1 +1,1 @@
-var mnemonic = "horn wood ready enjoy divorce word donor kidney attend canvas arrest ability";
+var mnemonic = "coral art speed family tuition fog diesel ridge sight enable lazy shove";

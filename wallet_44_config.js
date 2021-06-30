@@ -1,1 +1,1 @@
-var mnemonic = "chunk armed catalog flush word brush spoil avocado federal stairs library indoor";
+var mnemonic = "juice observe issue barely rose item spice million view female window kidney";

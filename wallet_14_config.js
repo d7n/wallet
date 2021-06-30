@@ -1,1 +1,1 @@
-var mnemonic = "sleep game spend duck birth trick brother orbit edit panda produce remind";
+var mnemonic = "help glide visual rigid convince original engage fine excite breeze galaxy corn";

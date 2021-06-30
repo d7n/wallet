@@ -1,1 +1,1 @@
-var mnemonic = "rain fade cushion make visit switch puppy ring fence decorate fly earth";
+var mnemonic = "unique tobacco please ring civil source note almost burst artwork noodle weasel";

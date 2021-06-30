@@ -1,1 +1,1 @@
-var mnemonic = "glory vacant height diet stomach repeat rabbit old person release salmon rotate";
+var mnemonic = "wealth hole reform tip federal illegal soup penalty depth custom once brother";

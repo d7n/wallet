@@ -1,1 +1,1 @@
-var mnemonic = "glide staff pulse board cave gold dumb seminar embrace lion win sweet";
+var mnemonic = "sadness luggage exact orient artefact chunk theory tonight stem barely dog first";

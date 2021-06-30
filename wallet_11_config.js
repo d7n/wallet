@@ -1,1 +1,1 @@
-var mnemonic = "eye pet clay arena thing defense close claw cart liquid cube depend";
+var mnemonic = "pudding always mobile garbage reopen audit fluid limit home black tiger account";

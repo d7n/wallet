@@ -1,1 +1,1 @@
-var mnemonic = "senior clock spread badge night kick endorse attack index frown clutch humor";
+var mnemonic = "surprise slam unit supreme profit extend wolf also purchase improve flame answer";

@@ -1,1 +1,1 @@
-var mnemonic = "primary bring gown grape oil announce develop amateur assist pupil ritual hybrid";
+var mnemonic = "estate original affair food dress recipe during prize drill later exist number";

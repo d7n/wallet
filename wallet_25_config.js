@@ -1,1 +1,1 @@
-var mnemonic = "wire brown stairs hamster expire exit cereal chicken desert result cigar aim";
+var mnemonic = "response nasty echo caught glare fault derive silk drink scale kiwi census";

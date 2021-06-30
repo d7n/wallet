@@ -1,1 +1,1 @@
-var mnemonic = "tenant firm pause permit awkward neglect capital video barely gold tourist base";
+var mnemonic = "brush garbage craft match gesture book twin crawl arena doctor sadness brand";

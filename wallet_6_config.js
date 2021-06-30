@@ -1,1 +1,1 @@
-var mnemonic = "scissors ridge barrel change ready isolate honey tiny print enact either response";
+var mnemonic = "proud fancy average unaware magnet simple system forest zebra harvest knee media";

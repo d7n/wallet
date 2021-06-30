@@ -1,1 +1,1 @@
-var mnemonic = "work cry tongue initial capital brave tiny where drop include infant inner";
+var mnemonic = "whip category zero face will grow notable inject nest galaxy master habit";

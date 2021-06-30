@@ -1,1 +1,1 @@
-var mnemonic = "eight trend father mask snow across subject broom mix license ostrich intact";
+var mnemonic = "cost solution fox fence practice organ bright prefer kiwi member saddle various";

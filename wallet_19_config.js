@@ -1,1 +1,1 @@
-var mnemonic = "observe tenant ritual purity cushion there choice write reform screen crawl blanket";
+var mnemonic = "child proof segment asthma echo ivory fun bomb enforce parent fuel wish";

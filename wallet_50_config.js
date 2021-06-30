@@ -1,1 +1,1 @@
-var mnemonic = "mule flock casual decide unusual minor make snow steel verify debris weekend";
+var mnemonic = "innocent giant surge bomb stool honey dash coil sudden pattern tuna saddle";

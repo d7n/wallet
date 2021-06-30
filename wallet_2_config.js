@@ -1,1 +1,1 @@
-var mnemonic = "develop insane hold small foot happy audit sniff wool island crash mango";
+var mnemonic = "mix chronic all accuse team keep twice piano inquiry swarm express monkey";

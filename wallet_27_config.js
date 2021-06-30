@@ -1,1 +1,1 @@
-var mnemonic = "only remove market holiday inhale assault knife model wreck update female license";
+var mnemonic = "melt split radio again skirt expire trim retreat hunt second cake vault";

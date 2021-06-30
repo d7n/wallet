@@ -1,1 +1,1 @@
-var mnemonic = "radar pond bird differ give sure often negative pig cart tribe genre";
+var mnemonic = "network pond uncle undo curtain dial length patch erase syrup cute cousin";

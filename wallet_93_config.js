@@ -1,1 +1,1 @@
-var mnemonic = "physical cluster modify census victory hill select vast harsh basic you manage";
+var mnemonic = "oxygen carbon upon cloud super crunch cigar narrow fetch embody artwork slight";

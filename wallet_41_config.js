@@ -1,1 +1,1 @@
-var mnemonic = "fog flavor slide copy antenna soda there atom soup sister network vendor";
+var mnemonic = "gas empower suggest crime bracket degree clay marine weapon city year forward";

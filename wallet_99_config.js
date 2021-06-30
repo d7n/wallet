@@ -1,1 +1,1 @@
-var mnemonic = "initial journey crane catalog tiny tool shell coil mix gravity wage meadow";
+var mnemonic = "thumb shift wise turtle road extend west trip rare noise because athlete";

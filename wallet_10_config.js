@@ -1,1 +1,1 @@
-var mnemonic = "page absent buffalo relax half panel moral lunar estate ability couple sweet";
+var mnemonic = "mechanic love deer leg innocent spy foam siege advice verb color border";

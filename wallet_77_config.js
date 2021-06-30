@@ -1,1 +1,1 @@
-var mnemonic = "hawk know ostrich protect soup trial siege symptom enhance region essay sadness";
+var mnemonic = "deposit fetch rice marriage cliff segment very leopard belt ecology grunt rhythm";

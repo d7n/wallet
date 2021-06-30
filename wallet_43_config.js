@@ -1,1 +1,1 @@
-var mnemonic = "circle confirm enjoy canyon vehicle evoke pencil anger scan eye long shadow";
+var mnemonic = "twist swing champion push motor pet bachelor clinic yellow double peanut echo";

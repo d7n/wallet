@@ -1,1 +1,1 @@
-var mnemonic = "pulse vapor beach merge dragon urban wheat around canoe flip today mirror";
+var mnemonic = "replace cross moral theme nephew snap chimney that know survey control desk";

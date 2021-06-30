@@ -1,1 +1,1 @@
-var mnemonic = "maple youth choose pool immune swift float comfort cargo auction best remain";
+var mnemonic = "latin radio hurdle bottom marriage damage carpet panic drum wealth shuffle hurry";

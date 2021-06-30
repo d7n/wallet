@@ -1,1 +1,1 @@
-var mnemonic = "basket drift economy fence mountain large silly canal bottom debate craft rhythm";
+var mnemonic = "pizza gown federal blind banner stomach country social sketch table raven fortune";

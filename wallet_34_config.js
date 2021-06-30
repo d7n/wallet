@@ -1,1 +1,1 @@
-var mnemonic = "congress help hero lend denial before position debate dress reform decide cost";
+var mnemonic = "kingdom mutual brother abstract skin resemble home desert idle grid dumb slice";

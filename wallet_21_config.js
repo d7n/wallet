@@ -1,1 +1,1 @@
-var mnemonic = "cute insane prison response athlete neutral language replace circle ripple replace hidden";
+var mnemonic = "skate express already curve loud month portion before erode topple patch juice";

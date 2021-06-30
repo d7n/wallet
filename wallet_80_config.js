@@ -1,1 +1,1 @@
-var mnemonic = "else ship wasp return crop come fruit soccer banana bounce toast candy";
+var mnemonic = "draw edge ring soft shine rigid rose rally cause dad pet grief";

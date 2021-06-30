@@ -1,1 +1,1 @@
-var mnemonic = "food essay loyal token express habit odor border post frequent board pill";
+var mnemonic = "lesson sure install stamp neck pen material across ostrich main stool material";

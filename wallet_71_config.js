@@ -1,1 +1,1 @@
-var mnemonic = "happy child clean option love embark assume garden thunder budget cube aerobic";
+var mnemonic = "arrange mass fly valve pony price base short correct satisfy deputy stone";

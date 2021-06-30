@@ -1,1 +1,1 @@
-var mnemonic = "impact laugh course ten cave garlic protect maid invite winter main theory";
+var mnemonic = "leaf another clown direct social lava city fence post million rain clutch";

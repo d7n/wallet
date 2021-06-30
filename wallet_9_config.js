@@ -1,1 +1,1 @@
-var mnemonic = "slam volume theory better tuition panel minor diamond mule quick two trick";
+var mnemonic = "mushroom prefer favorite eager supreme tomorrow lava material ticket select price double";

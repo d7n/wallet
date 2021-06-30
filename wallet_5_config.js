@@ -1,1 +1,1 @@
-var mnemonic = "mixed flash fiction green reduce enroll essay when nothing police web notice";
+var mnemonic = "sibling behave furnace elbow pioneer thumb anchor twice tail earn gym prosper";

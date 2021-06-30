@@ -1,1 +1,1 @@
-var mnemonic = "fix educate garment success maid reunion topple six bleak tuition lecture winner";
+var mnemonic = "nice verify evolve raven century illness pepper join put trouble soup bomb";

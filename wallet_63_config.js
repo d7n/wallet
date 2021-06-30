@@ -1,1 +1,1 @@
-var mnemonic = "hurdle announce approve arrow attract because inside idle belt attract soap fringe";
+var mnemonic = "alley valid merit media camera culture near peace scrub state jelly symbol";

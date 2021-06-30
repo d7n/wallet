@@ -1,1 +1,1 @@
-var mnemonic = "fatal stool dawn square feed flip blur bachelor embody chapter forward liberty";
+var mnemonic = "license grow pencil hotel erosion vote normal play trap tragic column switch";

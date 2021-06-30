@@ -1,1 +1,1 @@
-var mnemonic = "brief attend drama mix trumpet unable damage february quantum forest lawsuit canoe";
+var mnemonic = "immune inflict comfort leave nation alcohol action enforce wall slight ritual short";

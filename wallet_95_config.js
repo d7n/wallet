@@ -1,1 +1,1 @@
-var mnemonic = "spread guess push nothing fox remind bounce luggage hill alert photo lawsuit";
+var mnemonic = "napkin churn unable artwork maple pigeon ordinary inch dice civil anchor siren";

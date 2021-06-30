@@ -1,1 +1,1 @@
-var mnemonic = "blouse robust tide across message absurd weapon force mansion illegal together ozone";
+var mnemonic = "guess check buyer extra garlic task final dynamic chunk entire border elegant";

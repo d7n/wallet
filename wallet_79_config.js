@@ -1,1 +1,1 @@
-var mnemonic = "rate image rail beyond spoil bubble polar pretty nature balance toward polar";
+var mnemonic = "marble casual miss volume embark rule domain happy answer fiber ginger genius";

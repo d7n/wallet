@@ -1,1 +1,1 @@
-var mnemonic = "airport piano spell upset aisle holiday remain humor bounce source beef citizen";
+var mnemonic = "cliff fault sweet glare broccoli bench food dish giraffe lift leg mutual";

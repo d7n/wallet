@@ -1,1 +1,1 @@
-var mnemonic = "choice debris patrol brother rhythm girl smile inner eye knock sail laptop";
+var mnemonic = "brother meadow music add tail october arrive elevator evolve inner unknown spirit";

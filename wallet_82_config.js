@@ -1,1 +1,1 @@
-var mnemonic = "smile dynamic staff method develop veteran oak mango donkey melt bless sort";
+var mnemonic = "hammer glue cargo unable screen foot salon treat electric release visit help";

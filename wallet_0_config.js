@@ -1,1 +1,1 @@
-var mnemonic = "unique trial start again despair silly gentle credit cover icon custom spice";
+var mnemonic = "school embody change push devote actor multiply music rough upgrade trial mule";

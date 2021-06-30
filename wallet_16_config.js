@@ -1,1 +1,1 @@
-var mnemonic = "sad prize clap loud pottery knock street artwork coach strike nothing actor";
+var mnemonic = "pattern cousin federal guard true hotel enable fiction first pig print slot";

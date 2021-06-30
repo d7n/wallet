@@ -1,1 +1,1 @@
-var mnemonic = "visa rebuild race knife refuse leaf vital idea stock salute rabbit define";
+var mnemonic = "gravity champion toy pool lecture thunder giraffe hard below coil bunker gauge";

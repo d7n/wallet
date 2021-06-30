@@ -1,1 +1,1 @@
-var mnemonic = "scatter basic twin barrel plug radio acoustic age special figure hedgehog gain";
+var mnemonic = "sock various amount approve happy position risk mother orange match into parrot";

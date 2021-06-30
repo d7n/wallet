@@ -1,1 +1,1 @@
-var mnemonic = "fiber win old orphan fault affair give post brand chaos hurdle enroll";
+var mnemonic = "marriage include visual delay cycle response push sunset garage direct body gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke elite cup around arm invest toss thumb early park drive disagree";
+var mnemonic = "blame jazz primary brown inquiry valve ship catch spread federal power easy";

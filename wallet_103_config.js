@@ -1,1 +1,1 @@
-var mnemonic = "bicycle glad carbon start arena elbow ranch popular lock color enhance receive";
+var mnemonic = "badge flock tenant rapid universe have sting staff media weird possible blanket";

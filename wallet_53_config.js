@@ -1,1 +1,1 @@
-var mnemonic = "bachelor heart dove gold cushion render morning ghost coin discover sample wagon";
+var mnemonic = "rich grab depend grab cover shock jewel problem north flag brass forum";

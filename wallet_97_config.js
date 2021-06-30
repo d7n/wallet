@@ -1,1 +1,1 @@
-var mnemonic = "lumber flight inspire age taste dance harsh bronze art install lonely project";
+var mnemonic = "rhythm exit craft input trigger cupboard account anger kid because idea evidence";

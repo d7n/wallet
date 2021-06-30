@@ -1,1 +1,1 @@
-var mnemonic = "catalog hawk cost biology brave fuel video hedgehog tell connect mouse upon";
+var mnemonic = "card endorse book spin volcano brief accident shrimp artist mouse frog alter";

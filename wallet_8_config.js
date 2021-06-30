@@ -1,1 +1,1 @@
-var mnemonic = "gate veteran panther solid credit else sense wide nut peasant time code";
+var mnemonic = "height transfer bone armor depth shell blue neutral emerge situate market tank";

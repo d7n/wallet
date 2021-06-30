@@ -1,1 +1,1 @@
-var mnemonic = "camp issue material emerge shock buddy flag armed blush satoshi rural depth";
+var mnemonic = "behind exile wild eight someone suffer rough area double cherry merry estate";

@@ -1,1 +1,1 @@
-var mnemonic = "board air calm naive loud harvest scrub pizza marble holiday major tonight";
+var mnemonic = "asset advance below round include pause girl mouse goddess hour lecture pool";

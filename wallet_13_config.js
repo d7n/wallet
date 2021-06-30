@@ -1,1 +1,1 @@
-var mnemonic = "abstract eye wink swift disagree legend echo shrug festival tenant outdoor quiz";
+var mnemonic = "cruel cram risk goddess truck also flip polar daughter orient wasp swear";

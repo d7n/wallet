@@ -1,1 +1,1 @@
-var mnemonic = "viable cattle picnic strategy ethics siren quarter reform uniform maximum penalty steel";
+var mnemonic = "session maid spread muscle pulp cube elder fossil extra vocal taxi unique";

@@ -1,1 +1,1 @@
-var mnemonic = "seven adjust space post term jealous frog across habit eye evil champion";
+var mnemonic = "recycle tree wet section gap dream tank certain thank seat pepper taste";

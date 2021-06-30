@@ -1,1 +1,1 @@
-var mnemonic = "ability pioneer wait doctor wing drastic change shoot crucial dilemma slender loop";
+var mnemonic = "first front ghost album immense hybrid wheel spawn car join connect dumb";

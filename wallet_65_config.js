@@ -1,1 +1,1 @@
-var mnemonic = "online cube dragon short color bench random column angle tiger train dinosaur";
+var mnemonic = "moon enact ritual olympic sauce core sad quote detect fitness fabric castle";

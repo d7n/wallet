@@ -1,1 +1,1 @@
-var mnemonic = "unlock jump guide town uphold spoil rather act coconut town warm random";
+var mnemonic = "inner glow chaos movie route soldier august item kit humor orchard flee";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow man lawsuit alarm tourist travel design kid delay receive glad actor";
+var mnemonic = "april label educate sunny pull code health evoke profit enjoy wool beach";

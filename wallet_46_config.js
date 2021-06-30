@@ -1,1 +1,1 @@
-var mnemonic = "minimum anchor olympic wire sail force machine torch seed caught blind talent";
+var mnemonic = "flavor media dice same middle quality child sponsor perfect matrix require renew";

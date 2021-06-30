@@ -1,1 +1,1 @@
-var mnemonic = "flock power truck noble urban tag emotion virtual butter broken neck peanut";
+var mnemonic = "slow buddy impact fall fish disorder give penalty grunt custom busy you";

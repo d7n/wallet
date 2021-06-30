@@ -1,1 +1,1 @@
-var mnemonic = "coffee embark swarm way record marble pyramid shoot stable enhance van orchard";
+var mnemonic = "resource pass pause lion screen quick garden excuse reopen kid render diamond";

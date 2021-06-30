@@ -1,1 +1,1 @@
-var mnemonic = "stomach mobile sorry pistol this luggage height salad finger since brick school";
+var mnemonic = "shoulder enemy leg acoustic entry habit loyal retreat bundle circle knife canal";

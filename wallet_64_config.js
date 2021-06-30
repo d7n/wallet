@@ -1,1 +1,1 @@
-var mnemonic = "blossom ecology purpose achieve deposit economy reject episode connect beach tribe suit";
+var mnemonic = "quality number expose spice depend trend oppose load heart lake oval dream";

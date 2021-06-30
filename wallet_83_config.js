@@ -1,1 +1,1 @@
-var mnemonic = "rose yellow album vote supreme text olive company tree physical swarm network";
+var mnemonic = "crowd limit garden smile lava allow behind board clean end seed keen";

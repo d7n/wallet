@@ -1,1 +1,1 @@
-var mnemonic = "ketchup guide baby airport bench client job kit palm identify obvious shuffle";
+var mnemonic = "total universe virus miracle potato riot ramp gesture appear gate shadow liquid";

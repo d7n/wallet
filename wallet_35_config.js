@@ -1,1 +1,1 @@
-var mnemonic = "crouch appear sea giant dwarf cage collect brother guitar cool donkey capital";
+var mnemonic = "category attend essay wood win family youth sun foster embark enable lonely";

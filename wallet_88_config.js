@@ -1,1 +1,1 @@
-var mnemonic = "ocean elegant note holiday angry canal air corn ginger kind problem early";
+var mnemonic = "differ dignity estate adult earn enough armor extra lizard seek stem another";

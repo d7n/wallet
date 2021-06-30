@@ -1,1 +1,1 @@
-var mnemonic = "jewel bind useful violin earn federal steak quarter upper collect trash ritual";
+var mnemonic = "fashion blush comfort mechanic blanket scene fog bread cement together club april";

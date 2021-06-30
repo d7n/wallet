@@ -1,1 +1,1 @@
-var mnemonic = "fix replace replace amazing build elevator riot teach ginger van thumb there";
+var mnemonic = "canvas exclude dentist thing slush addict artwork innocent ridge year genre oyster";

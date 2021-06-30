@@ -1,1 +1,1 @@
-var mnemonic = "word announce risk recycle unfold wheel degree turkey absorb steak act popular";
+var mnemonic = "anger series verb tell chalk bleak wife school sphere refuse pave project";

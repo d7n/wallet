@@ -1,1 +1,1 @@
-var mnemonic = "swear coast minimum dash million squirrel believe damp submit demand juice father";
+var mnemonic = "key sunset evoke rival wage correct cube recipe sword april type phone";

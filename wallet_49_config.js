@@ -1,1 +1,1 @@
-var mnemonic = "leisure library road piece grab hope pyramid resist leopard sing vault bid";
+var mnemonic = "envelope fluid gentle blanket unlock average interest twist attack permit cabbage bring";

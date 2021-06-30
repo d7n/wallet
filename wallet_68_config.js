@@ -1,1 +1,1 @@
-var mnemonic = "west bullet film heavy price absent gown turtle slam memory design hedgehog";
+var mnemonic = "pond stumble library key gallery notice forum flush hockey give shoulder december";

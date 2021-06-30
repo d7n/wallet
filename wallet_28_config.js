@@ -1,1 +1,1 @@
-var mnemonic = "ripple client scare turtle canal slide all cave cash actual network just";
+var mnemonic = "tail punch fish radar betray hospital oppose mask swim escape predict horror";

@@ -1,1 +1,1 @@
-var mnemonic = "save obvious idea inner cactus attract animal volcano ceiling stem because search";
+var mnemonic = "notable slush innocent token differ panel fame state field left chaos crack";

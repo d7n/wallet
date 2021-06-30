@@ -1,1 +1,1 @@
-var mnemonic = "minor test absorb surge flee mammal fuel animal vocal crumble resource board";
+var mnemonic = "worry marble surge polar fatigue luxury dove pilot weasel unhappy erode heavy";

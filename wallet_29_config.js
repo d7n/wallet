@@ -1,1 +1,1 @@
-var mnemonic = "trim bright mobile hungry cattle eye unfold payment memory valid helmet cream";
+var mnemonic = "plate poem exclude sister chunk young gasp blur venue stage spend adult";
