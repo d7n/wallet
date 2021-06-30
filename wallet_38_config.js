@@ -1,1 +1,1 @@
-var mnemonic = "puppy polar hurt outer walk similar upset echo air pink scout phone";
+var mnemonic = "rain whale swift sudden slow enough invite elbow odor way lady say";

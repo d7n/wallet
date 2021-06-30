@@ -1,1 +1,1 @@
-var mnemonic = "digital file donate upgrade ecology announce disagree ignore good attack barrel vital";
+var mnemonic = "sister credit sense harbor aisle aware nerve escape exhibit again miss wheat";

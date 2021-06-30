@@ -1,1 +1,1 @@
-var mnemonic = "december wedding wire stable other opera lobster arrange unfold notice stumble breeze";
+var mnemonic = "scheme witness hood phone jar bright achieve duty coyote leave unhappy tree";

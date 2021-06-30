@@ -1,1 +1,1 @@
-var mnemonic = "wink lunar mystery target tone jaguar cabbage daring chalk oval minimum erosion";
+var mnemonic = "reason short athlete tragic match town town meat prison expose cradle eye";

@@ -1,1 +1,1 @@
-var mnemonic = "spring tide will luggage indicate mail torch depart crunch position child brass";
+var mnemonic = "stool leaf gesture lunch name tree crash theory fluid talk theme ozone";

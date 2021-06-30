@@ -1,1 +1,1 @@
-var mnemonic = "okay border visa season exotic diagram struggle know action foam hospital gloom";
+var mnemonic = "inch kitten cruel delay flip leader soul service bus exclude glove rapid";

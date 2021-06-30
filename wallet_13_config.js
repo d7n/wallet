@@ -1,1 +1,1 @@
-var mnemonic = "worth poverty path flight this erode dizzy coconut castle glare science sting";
+var mnemonic = "disagree jealous define ripple oppose cradle shoot october spider refuse better fitness";

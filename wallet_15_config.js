@@ -1,1 +1,1 @@
-var mnemonic = "dragon health ensure upper join debris similar require moral love equip lucky";
+var mnemonic = "number hurdle nuclear drink sight turn option foil damp clown reward nurse";

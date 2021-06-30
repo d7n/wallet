@@ -1,1 +1,1 @@
-var mnemonic = "cereal chef pioneer switch accident praise buyer strategy prevent decline bronze nerve";
+var mnemonic = "edit shift youth fever tube silly modify acid term embark grab broom";

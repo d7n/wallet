@@ -1,1 +1,1 @@
-var mnemonic = "dose sound note pumpkin deliver six hover gate reduce skirt this mystery";
+var mnemonic = "alpha sport maple frozen bachelor luxury reflect churn hill obtain live blue";

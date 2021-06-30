@@ -1,1 +1,1 @@
-var mnemonic = "denial fence bomb myself valve army question special biology hamster focus trash";
+var mnemonic = "awkward soccer honey bench end torch icon urban leaf volcano scene army";

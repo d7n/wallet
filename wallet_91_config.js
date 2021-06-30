@@ -1,1 +1,1 @@
-var mnemonic = "juice embrace rival umbrella champion pony trick potato joy mass unfair step";
+var mnemonic = "scorpion method razor excite grit remain family inquiry agent circle cancel long";

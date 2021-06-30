@@ -1,1 +1,1 @@
-var mnemonic = "suit rail plug cousin alpha shoulder heart minute oak angle shoe patrol";
+var mnemonic = "gold reject build sunset elephant session noodle language poverty powder suit account";

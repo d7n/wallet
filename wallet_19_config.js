@@ -1,1 +1,1 @@
-var mnemonic = "mixture key price food execute waste notice sting raw stumble resemble dress";
+var mnemonic = "police scout wrap tube today identify lion very sponsor vapor panther focus";

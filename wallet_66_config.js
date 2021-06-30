@@ -1,1 +1,1 @@
-var mnemonic = "hidden field creek possible already torch peasant view congress square enact short";
+var mnemonic = "busy risk mushroom budget call sugar deer fortune region use clog erase";

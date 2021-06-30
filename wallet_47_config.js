@@ -1,1 +1,1 @@
-var mnemonic = "food antique pull hollow drum midnight trophy rescue shuffle latin merge fish";
+var mnemonic = "forget flavor normal napkin jacket bronze final track holiday tank feel pride";

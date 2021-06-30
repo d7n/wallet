@@ -1,1 +1,1 @@
-var mnemonic = "marriage skate black pass attack liar decide camp purchase brand powder wheel";
+var mnemonic = "blame sadness carry reveal outer glance baby wall setup trap lemon until";

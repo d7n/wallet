@@ -1,1 +1,1 @@
-var mnemonic = "near life omit cherry toward keen wash alarm wave forward adjust lounge";
+var mnemonic = "couple cat connect artefact upper robot title deliver fan once rare goddess";

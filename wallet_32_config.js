@@ -1,1 +1,1 @@
-var mnemonic = "person surge energy volume spy argue wire lawsuit target inmate hill flee";
+var mnemonic = "tornado faith survey engage member soap useless visual coyote original anxiety spirit";

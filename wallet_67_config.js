@@ -1,1 +1,1 @@
-var mnemonic = "night mail curtain false boil enact trim swallow sphere liar clever alien";
+var mnemonic = "planet addict cousin shove entire depart glove exist famous learn cousin huge";

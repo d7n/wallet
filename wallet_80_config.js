@@ -1,1 +1,1 @@
-var mnemonic = "ship rose elegant anger antenna upset lizard grid cancel voyage indoor crucial";
+var mnemonic = "draw spray shock sustain cancel brisk peace sudden belt present frame scan";

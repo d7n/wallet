@@ -1,1 +1,1 @@
-var mnemonic = "digital alcohol renew flush sentence casual just vapor ritual tape ski boat";
+var mnemonic = "bulb dial other rule own bid link there update together phone video";

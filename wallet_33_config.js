@@ -1,1 +1,1 @@
-var mnemonic = "furnace noodle fever bachelor frog kit shallow bacon match smooth verb post";
+var mnemonic = "erase chief talk holiday work polar enroll when flash liberty exit farm";

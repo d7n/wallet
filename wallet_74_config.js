@@ -1,1 +1,1 @@
-var mnemonic = "athlete produce behave thrive apple liberty decline mandate belt shine leisure disease";
+var mnemonic = "spread trip abandon pistol undo cruel coach horror annual popular dream pluck";

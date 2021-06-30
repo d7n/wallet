@@ -1,1 +1,1 @@
-var mnemonic = "toddler just twist miss release awesome weapon hire odor door oven pony";
+var mnemonic = "amateur call defense foster calm glory extend trash nose intact town total";

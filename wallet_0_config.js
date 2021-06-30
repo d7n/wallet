@@ -1,1 +1,1 @@
-var mnemonic = "weather almost over cousin monster steel apart remain remind carbon head trade";
+var mnemonic = "ignore exhibit hill cheap demand survey unfold second enable special learn debris";

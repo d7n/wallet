@@ -1,1 +1,1 @@
-var mnemonic = "smile angry axis harvest type loan velvet scrap oval shell reduce blind";
+var mnemonic = "knife hello car family stone wet drip because palm false empty absorb";

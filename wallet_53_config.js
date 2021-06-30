@@ -1,1 +1,1 @@
-var mnemonic = "family black six melt kidney above reveal maple violin tunnel barely arrest";
+var mnemonic = "tone script hawk trigger calm client enlist patient about kick erode elegant";

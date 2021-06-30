@@ -1,1 +1,1 @@
-var mnemonic = "awful draw have zebra between wagon waste aim damage girl radio chase";
+var mnemonic = "flavor wheel portion among gate cluster capable weather before apple push limit";

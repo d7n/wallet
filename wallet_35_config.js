@@ -1,1 +1,1 @@
-var mnemonic = "wonder grocery cake glow gown report long property hunt town table mind";
+var mnemonic = "strike will trophy hamster swamp grief wing soldier total tree pact hotel";

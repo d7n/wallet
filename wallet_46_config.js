@@ -1,1 +1,1 @@
-var mnemonic = "magic romance just sign stand child rack fall tone jealous dash apple";
+var mnemonic = "hotel salute crash napkin regular link alone rescue drive pluck lock sausage";

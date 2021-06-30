@@ -1,1 +1,1 @@
-var mnemonic = "link cave slab indoor annual mango text erode science egg later fruit";
+var mnemonic = "country assault couple hair episode swift twist vacant math adapt opinion cluster";

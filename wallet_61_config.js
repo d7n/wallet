@@ -1,1 +1,1 @@
-var mnemonic = "clay treat swing vocal mixed execute behave fix myth aware permit buyer";
+var mnemonic = "spray tonight remain logic early toilet way priority throw whip ridge multiply";

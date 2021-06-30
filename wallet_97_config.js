@@ -1,1 +1,1 @@
-var mnemonic = "multiply garden tree rate great pig narrow grass tone resemble gasp robot";
+var mnemonic = "useful elder region proud derive produce eagle primary mass man embody leaf";

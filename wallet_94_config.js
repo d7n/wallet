@@ -1,1 +1,1 @@
-var mnemonic = "color educate blind process motion ability tongue shell snow dad skull plug";
+var mnemonic = "island choose mystery stem cram road discover express tissue grant enrich much";

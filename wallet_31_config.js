@@ -1,1 +1,1 @@
-var mnemonic = "excuse siege blush animal pony giggle rent orchard head hockey bulk foam";
+var mnemonic = "asthma describe salon uphold youth aerobic siege elephant disorder august social achieve";

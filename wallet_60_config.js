@@ -1,1 +1,1 @@
-var mnemonic = "twin east evil stairs inquiry lawsuit avocado diagram radar pig orchard crush";
+var mnemonic = "select north pelican point move fan smart erosion echo peace hurdle kind";

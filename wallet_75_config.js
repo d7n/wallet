@@ -1,1 +1,1 @@
-var mnemonic = "soup warrior output trial device glow craft puzzle payment exhaust walnut curious";
+var mnemonic = "ranch horn heavy unhappy valve wasp achieve toddler trend busy pulse baby";

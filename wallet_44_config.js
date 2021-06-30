@@ -1,1 +1,1 @@
-var mnemonic = "man west tube female trumpet wedding secret slice embrace mixed ozone film";
+var mnemonic = "exist search hospital sail junior shoot judge property depth add artist resemble";

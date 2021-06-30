@@ -1,1 +1,1 @@
-var mnemonic = "celery tone room update program enable alley else flip client upon junior";
+var mnemonic = "proof twin upper illness stadium resist century recycle work silk control ordinary";

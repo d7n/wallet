@@ -1,1 +1,1 @@
-var mnemonic = "usage volcano brain globe attitude thank feature trip step park vacant rapid";
+var mnemonic = "example federal current subject gallery child gesture diet dutch tenant second wage";

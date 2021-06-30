@@ -1,1 +1,1 @@
-var mnemonic = "custom cat ten dutch parade debate pass estate suggest shrug panel flip";
+var mnemonic = "urban main zoo opinion soap spoon distance south across length donor goat";

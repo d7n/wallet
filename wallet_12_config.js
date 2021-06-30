@@ -1,1 +1,1 @@
-var mnemonic = "own cluster expand crime sick cram curve decorate syrup ordinary gold edge";
+var mnemonic = "talk shoot slim utility giraffe sibling idea already match snack same smooth";

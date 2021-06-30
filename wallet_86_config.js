@@ -1,1 +1,1 @@
-var mnemonic = "clutch still sort treat chalk phone pet brown hand mountain equal flock";
+var mnemonic = "artefact catch slide street input bread grid wild apple maze deer essay";

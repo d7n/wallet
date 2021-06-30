@@ -1,1 +1,1 @@
-var mnemonic = "jazz couple wisdom tank unknown west cheap grief burger beach food then";
+var mnemonic = "toy spice timber return tree wine awkward day castle length ordinary fine";

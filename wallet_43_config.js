@@ -1,1 +1,1 @@
-var mnemonic = "spread fruit argue ivory device dress obvious slight swamp fetch sad giant";
+var mnemonic = "woman black knife purity rib simple street certain charge turn current mandate";

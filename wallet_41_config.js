@@ -1,1 +1,1 @@
-var mnemonic = "hurt nuclear violin eternal number option mandate action kit over wasp toddler";
+var mnemonic = "symptom kitten caution material blast bone manage winner suffer meadow mystery eyebrow";

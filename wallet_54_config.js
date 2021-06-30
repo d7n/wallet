@@ -1,1 +1,1 @@
-var mnemonic = "good blind sponsor cancel then swarm song canyon basic job nut upon";
+var mnemonic = "blur repeat travel jazz rifle isolate evidence little chapter honey melody chaos";

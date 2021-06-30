@@ -1,1 +1,1 @@
-var mnemonic = "rose solution bench utility fuel dirt keep allow boring make furnace run";
+var mnemonic = "donkey news month churn category toilet diary pumpkin people harvest equip exclude";

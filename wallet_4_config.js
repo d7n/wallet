@@ -1,1 +1,1 @@
-var mnemonic = "chase gesture together garden sleep ride salad useful taste convince mom orbit";
+var mnemonic = "lottery cash oval category hidden enter noise law kid december profit wool";

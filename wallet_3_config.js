@@ -1,1 +1,1 @@
-var mnemonic = "injury puzzle pause private brick iron dish hood slide luggage deliver manage";
+var mnemonic = "alien myth plastic hip obey lecture head all holiday cargo tank load";

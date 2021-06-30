@@ -1,1 +1,1 @@
-var mnemonic = "giraffe prosper original section bar foot dumb sail credit toy mention exact";
+var mnemonic = "bulk appear gallery robust guilt relief empty gown comfort couch sense field";

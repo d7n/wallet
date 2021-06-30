@@ -1,1 +1,1 @@
-var mnemonic = "clerk lion vague fly tourist trophy twelve review idea pony wide crunch";
+var mnemonic = "world recall mom scheme exotic impose candy vacuum turn only height umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "must diet side lumber verify enroll congress pull innocent hub have check";
+var mnemonic = "bid jar sting visa find route onion custom picnic little shrimp grunt";

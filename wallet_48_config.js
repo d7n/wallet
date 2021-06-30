@@ -1,1 +1,1 @@
-var mnemonic = "spread since kiwi exhibit okay december hire festival artefact image educate goat";
+var mnemonic = "turn lonely purpose meadow shrimp trip cook bicycle clock spoil nothing special";

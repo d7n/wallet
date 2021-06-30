@@ -1,1 +1,1 @@
-var mnemonic = "bamboo police remember duck practice corn wink razor genre student shrug derive";
+var mnemonic = "swamp stomach taxi chunk flavor wisdom kind salad leave flame run giggle";

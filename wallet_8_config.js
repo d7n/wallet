@@ -1,1 +1,1 @@
-var mnemonic = "direct bamboo summer kit tag display sample drum example square story below";
+var mnemonic = "limit vapor finish coast portion item surface suit august shift glance venue";

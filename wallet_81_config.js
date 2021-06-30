@@ -1,1 +1,1 @@
-var mnemonic = "unfold material vivid begin company taxi glass answer rapid basic ghost hobby";
+var mnemonic = "typical toilet shell shuffle october pumpkin ankle turn bright black tackle salad";

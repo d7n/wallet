@@ -1,1 +1,1 @@
-var mnemonic = "base spoon river gate mercy transfer charge approve reward vital play undo";
+var mnemonic = "reunion company stool submit home waste course gasp already spend inject north";

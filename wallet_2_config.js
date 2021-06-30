@@ -1,1 +1,1 @@
-var mnemonic = "swear crack giant enter erase child battle photo funny island alone teach";
+var mnemonic = "easy lecture tissue citizen drum poet sock month warfare travel neutral fashion";

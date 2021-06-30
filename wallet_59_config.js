@@ -1,1 +1,1 @@
-var mnemonic = "bottom lesson today ski tornado domain chaos erosion ramp add era hollow";
+var mnemonic = "rail beyond pretty artist clock sing frown relax orange rule shop relax";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight have version foot orphan lamp rubber tortoise okay caution merry wrist";
+var mnemonic = "second owner plug lady decide water slim young total elephant later skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb rent march menu ranch disorder swear arch balcony you occur three";
+var mnemonic = "asset reopen purse chimney exit guard nerve thing clock agent inmate hub";

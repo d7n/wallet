@@ -1,1 +1,1 @@
-var mnemonic = "clown throw city course clean better address proud boat match senior basket";
+var mnemonic = "erosion state sick cinnamon perfect athlete clean dilemma action frost like dumb";

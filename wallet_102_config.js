@@ -1,1 +1,1 @@
-var mnemonic = "click bridge virtual tribe youth jar method rookie ignore hen patrol bomb";
+var mnemonic = "summer moment exercise lift canal border bird green diary plate picture elevator";

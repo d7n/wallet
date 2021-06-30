@@ -1,1 +1,1 @@
-var mnemonic = "cover various believe aware ignore debate glue symbol feature canvas file wide";
+var mnemonic = "black tag fortune enlist food obscure much dove unfair timber board alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy home fog correct rude patch second capable river remind power dismiss";
+var mnemonic = "patch cruise liar zoo cabin reflect north guard board fine dutch misery";

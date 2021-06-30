@@ -1,1 +1,1 @@
-var mnemonic = "spare wool sail select limit artist submit evoke account else ramp exhibit";
+var mnemonic = "rude daughter fine say number bicycle ginger speed chuckle cycle echo frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "urge yard other again fine couple number blind danger trend fuel cycle";
+var mnemonic = "imitate atom travel more cross number venture ticket grocery flip banana visa";

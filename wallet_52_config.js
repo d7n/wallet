@@ -1,1 +1,1 @@
-var mnemonic = "flame shop river stereo base situate boil enhance excite violin crash lady";
+var mnemonic = "garden fade library rotate code assist rail decade reopen loan primary raccoon";

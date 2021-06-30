@@ -1,1 +1,1 @@
-var mnemonic = "fatal column dismiss casual believe attend brick couch distance journey horn load";
+var mnemonic = "relax quit will onion burst bind spend injury lift outdoor please cup";

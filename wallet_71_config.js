@@ -1,1 +1,1 @@
-var mnemonic = "off puzzle spray family smooth asthma version simple bid combine arm assist";
+var mnemonic = "grow soon legal shoot jelly remove novel give smoke draft youth best";

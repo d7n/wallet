@@ -1,1 +1,1 @@
-var mnemonic = "strike stamp garbage wait know farm plastic crisp table exact talk subject";
+var mnemonic = "awkward coin try scale bean spot dizzy lift insect cute audit disorder";

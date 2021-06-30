@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo horn divert voice spin cart animal lens cloud few phrase urge";
+var mnemonic = "cash escape nature member then flower puppy good galaxy cart answer put";

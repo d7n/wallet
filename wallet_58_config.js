@@ -1,1 +1,1 @@
-var mnemonic = "tongue dry depart point frame blast come display verb sauce country grow";
+var mnemonic = "matrix comfort slide whisper library window brief still lounge bacon carbon retire";

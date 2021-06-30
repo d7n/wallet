@@ -1,1 +1,1 @@
-var mnemonic = "tape like siren there load craft please shine tide perfect trust napkin";
+var mnemonic = "fly jelly furnace organ outdoor upgrade mountain tomorrow club turn consider stand";

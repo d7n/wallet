@@ -1,1 +1,1 @@
-var mnemonic = "lift like mosquito whale vague spin buyer mosquito cargo bind list town";
+var mnemonic = "reveal later cactus health thrive bomb shy hand kick piece ball catch";

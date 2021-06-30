@@ -1,1 +1,1 @@
-var mnemonic = "despair cross tunnel damp doll glimpse suit parrot lock bike genre churn";
+var mnemonic = "display genius dance upper shoot eagle castle reason insect turkey dynamic jump";

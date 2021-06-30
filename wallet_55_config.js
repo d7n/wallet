@@ -1,1 +1,1 @@
-var mnemonic = "afraid enrich version coconut leg erosion merry minimum stairs service effort rough";
+var mnemonic = "current age celery world forget fade prosper estate piano general help mistake";

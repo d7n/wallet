@@ -1,1 +1,1 @@
-var mnemonic = "wrap ostrich give board fork trim child liquid frog chimney organ junior";
+var mnemonic = "hidden false cricket flee angry book aunt oblige fit stable heavy social";

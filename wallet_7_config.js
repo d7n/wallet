@@ -1,1 +1,1 @@
-var mnemonic = "method seed layer slogan execute raise paper cart lunch elegant cram apology";
+var mnemonic = "credit crop prepare matter crystal scrap dilemma diary muscle close reopen kick";

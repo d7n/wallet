@@ -1,1 +1,1 @@
-var mnemonic = "pulse now peasant salmon dust wife author broken salon aerobic space bitter";
+var mnemonic = "monkey blur nuclear pizza else test noodle enjoy family degree liar harvest";

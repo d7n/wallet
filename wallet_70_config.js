@@ -1,1 +1,1 @@
-var mnemonic = "bless else churn ugly warrior toe garlic sister truck trial jungle exile";
+var mnemonic = "escape hollow shell wing chat talent join tribe glad advice physical urban";

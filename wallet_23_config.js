@@ -1,1 +1,1 @@
-var mnemonic = "venture paddle labor air scare good defense juice reject one unfold program";
+var mnemonic = "recycle fatal excess exhaust identify shadow also bar guide impose deliver ice";

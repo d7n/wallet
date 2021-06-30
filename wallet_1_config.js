@@ -1,1 +1,1 @@
-var mnemonic = "science special large bar canoe visit cricket cherry wall ten pumpkin fun";
+var mnemonic = "sweet island panda team venue sorry claim enable holiday that gesture space";

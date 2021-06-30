@@ -1,1 +1,1 @@
-var mnemonic = "follow bag survey build rigid minor news width leopard legal voice gun";
+var mnemonic = "dog size wage inject pet animal two female coast tenant museum rather";

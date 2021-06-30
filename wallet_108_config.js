@@ -1,1 +1,1 @@
-var mnemonic = "there illegal pool gauge caution cherry ignore morning tape lawn heart hood";
+var mnemonic = "token phone lottery brave pioneer wide squeeze quantum million eye whale rapid";

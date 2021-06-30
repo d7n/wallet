@@ -1,1 +1,1 @@
-var mnemonic = "control cousin apple hole artist ice crowd latin solid odor essay disorder";
+var mnemonic = "little guide device box strike tag saddle famous bid hold canoe oyster";

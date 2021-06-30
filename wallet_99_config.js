@@ -1,1 +1,1 @@
-var mnemonic = "spoil decorate nice cousin neck quiz cement nut sail away glance hour";
+var mnemonic = "bottom melody reveal cruel switch myself poem chuckle gospel thing advice blossom";

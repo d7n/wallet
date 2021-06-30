@@ -1,1 +1,1 @@
-var mnemonic = "effort peace bubble pioneer record whip offer fame harbor rich boil chunk";
+var mnemonic = "author style word meadow pear injury wall logic arrive inherit traffic despair";

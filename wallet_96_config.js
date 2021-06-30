@@ -1,1 +1,1 @@
-var mnemonic = "farm gather hub world tilt enforce load decade book winter claim rookie";
+var mnemonic = "announce fiscal flat despair cause improve found split inform soap upon want";

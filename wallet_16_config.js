@@ -1,1 +1,1 @@
-var mnemonic = "kiwi romance right replace galaxy raise cable grid enter mystery pigeon right";
+var mnemonic = "rigid general agree agree spider draft safe inherit remind mechanic lunar wool";

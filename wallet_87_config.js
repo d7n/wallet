@@ -1,1 +1,1 @@
-var mnemonic = "venue donor then noise result wet water erode horror husband chat knock";
+var mnemonic = "clerk zoo small mystery lake proud original danger unable adult hundred slight";

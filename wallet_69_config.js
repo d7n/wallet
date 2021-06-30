@@ -1,1 +1,1 @@
-var mnemonic = "silk grid parent write leopard theory trial build dose tomorrow adult offer";
+var mnemonic = "issue inherit chief know imitate guard program pact curve young hard piece";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel feature leader fiber process wasp cycle business much panic seed resemble";
+var mnemonic = "spy evolve swing crew armor bacon knife kitten aunt viable define alley";
