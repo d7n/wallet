@@ -1,1 +1,1 @@
-var mnemonic = "shove come foster wisdom young rib involve dream deal dignity knee myself";
+var mnemonic = "audit version bracket unlock caught best master shield empower noise dad age";

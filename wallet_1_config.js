@@ -1,1 +1,1 @@
-var mnemonic = "rose enforce fuel tilt wrap improve this elephant right ramp bracket vast";
+var mnemonic = "paddle again skull bounce icon much choose fossil weather deliver club place";

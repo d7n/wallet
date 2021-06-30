@@ -1,1 +1,1 @@
-var mnemonic = "draft culture decade question wife fish nose luggage crazy riot artist depart";
+var mnemonic = "empower hope slide bleak crime life buddy human tube base sound phone";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion green reason turtle stove start sniff correct throw foil valley practice";
+var mnemonic = "harvest ketchup behind road uncle climb divert shine february quit nothing gorilla";

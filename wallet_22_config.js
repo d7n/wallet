@@ -1,1 +1,1 @@
-var mnemonic = "outdoor spend mimic swallow cushion segment salad chief wrestle gown mix ring";
+var mnemonic = "vital charge long stool oil boat short fly naive toddler there sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "spring gentle asset joy piece survey fine pizza notable boy piece aisle";
+var mnemonic = "garment impose couple west nature nothing argue valve vintage expose find differ";

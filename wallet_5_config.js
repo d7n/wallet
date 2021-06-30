@@ -1,1 +1,1 @@
-var mnemonic = "fall mass two nephew balance rapid urban river good matter pulse anxiety";
+var mnemonic = "volcano leg fame casino account theme skill broccoli pony script obvious cry";

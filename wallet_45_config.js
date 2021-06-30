@@ -1,1 +1,1 @@
-var mnemonic = "sport law shoot allow banner layer hybrid kitten region genuine cricket cat";
+var mnemonic = "drum primary access giggle useless endorse net liberty six behave twenty sight";

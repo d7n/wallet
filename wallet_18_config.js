@@ -1,1 +1,1 @@
-var mnemonic = "dirt situate similar inspire media defy lawn foster stomach code oxygen fine";
+var mnemonic = "stick dolphin degree vivid memory pave mother piece visit useful excite suspect";

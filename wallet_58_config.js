@@ -1,1 +1,1 @@
-var mnemonic = "siren cradle picnic deposit wreck mosquito entry grass comfort front apart during";
+var mnemonic = "gold ostrich cigar island zero abandon syrup olympic federal female face few";

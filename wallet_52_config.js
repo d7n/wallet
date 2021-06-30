@@ -1,1 +1,1 @@
-var mnemonic = "fever mom polar oxygen brother kitchen fabric glove swear tuition winter meadow";
+var mnemonic = "van vapor match warm brush general notice salmon quiz critic vacant connect";

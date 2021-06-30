@@ -1,1 +1,1 @@
-var mnemonic = "planet ripple reduce minor much marine danger false turtle mansion kind follow";
+var mnemonic = "choice impose rough twin way walnut loud there speed hobby review minimum";

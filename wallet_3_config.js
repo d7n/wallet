@@ -1,1 +1,1 @@
-var mnemonic = "during coyote diamond member arrange problem pond endorse lucky spike tourist clock";
+var mnemonic = "february spy skill inject thought secret bike false sweet shiver nest engine";

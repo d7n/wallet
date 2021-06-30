@@ -1,1 +1,1 @@
-var mnemonic = "color brick risk drip shop bid net snap monster adapt nasty army";
+var mnemonic = "plunge worth assume color lucky night match just away kingdom phone also";

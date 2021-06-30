@@ -1,1 +1,1 @@
-var mnemonic = "typical online total spin term account follow amazing age bring minor sadness";
+var mnemonic = "control squeeze appear muscle indoor human door cruel retire minimum pull help";

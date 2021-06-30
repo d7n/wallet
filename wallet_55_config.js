@@ -1,1 +1,1 @@
-var mnemonic = "cause enlist gossip squirrel negative raise rib credit smoke comic acquire bounce";
+var mnemonic = "bracket picnic excite flavor crowd genre ten account fan visit lazy balance";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual heart upper remain report lava patrol tenant multiply program brand enter";
+var mnemonic = "shallow memory coyote eight alcohol action tape meadow chalk dutch canvas length";

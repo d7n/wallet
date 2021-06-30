@@ -1,1 +1,1 @@
-var mnemonic = "work hope step decade share fiber net blast valid buffalo mushroom wire";
+var mnemonic = "credit dentist brain hood scrap much celery echo over melt inform initial";

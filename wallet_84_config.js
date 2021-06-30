@@ -1,1 +1,1 @@
-var mnemonic = "dress salute want exact orient load text scene affair swallow exile divide";
+var mnemonic = "surround circle before ranch pole select awkward enroll salt name drum erupt";

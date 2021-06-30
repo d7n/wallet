@@ -1,1 +1,1 @@
-var mnemonic = "weekend flag fresh hybrid orphan owner about dune length mushroom scale wish";
+var mnemonic = "latin harbor city crouch summer shop affair engine pepper embrace spider balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "clap icon tell slender lesson item term tennis smile mystery way rifle";
+var mnemonic = "goddess cheap maple fancy recall shed whale agree media squeeze quality federal";

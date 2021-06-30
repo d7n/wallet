@@ -1,1 +1,1 @@
-var mnemonic = "humble country include warrior fuel ship true enhance must verb anger quarter";
+var mnemonic = "net acquire second promote paddle foot seminar exclude wrong clown noise ball";

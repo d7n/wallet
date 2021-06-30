@@ -1,1 +1,1 @@
-var mnemonic = "custom valley fitness thank fossil main collect soup between achieve coil crime";
+var mnemonic = "wing glue put cloth else reward venture host sock document help spawn";

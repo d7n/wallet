@@ -1,1 +1,1 @@
-var mnemonic = "three catalog drama noble music cannon risk bottom valid much swap play";
+var mnemonic = "enrich orange skate ensure raccoon crane inherit stable business draw spread old";

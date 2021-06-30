@@ -1,1 +1,1 @@
-var mnemonic = "rapid treat miss onion diesel perfect filter gym music rich twice sign";
+var mnemonic = "october degree region modify simple chapter century essay leave monkey share diet";

@@ -1,1 +1,1 @@
-var mnemonic = "pond toy coral idle visit deer upgrade mesh hen bar view love";
+var mnemonic = "clay raven inspire news eyebrow ski rack tunnel segment cool clay clog";

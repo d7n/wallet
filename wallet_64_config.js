@@ -1,1 +1,1 @@
-var mnemonic = "brief crane junk project cost lesson chicken beyond gospel transfer chat spring";
+var mnemonic = "retreat material sniff rookie invest tongue small coffee depth candy soft link";

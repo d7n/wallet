@@ -1,1 +1,1 @@
-var mnemonic = "sheriff equip rotate later bring tomorrow primary elegant ivory neck armed garbage";
+var mnemonic = "spike private wonder check sport distance upon clutch glove stand machine multiply";

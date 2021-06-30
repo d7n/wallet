@@ -1,1 +1,1 @@
-var mnemonic = "yellow search absorb skate cook expect fantasy benefit nurse unaware laptop special";
+var mnemonic = "educate loud you prison ten file pass assist feature demise occur oyster";

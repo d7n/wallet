@@ -1,1 +1,1 @@
-var mnemonic = "domain trip control elder hen weird fabric machine bamboo evoke onion siege";
+var mnemonic = "fashion comfort much crisp artefact flush drink few parade shadow gallery spice";

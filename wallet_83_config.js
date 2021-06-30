@@ -1,1 +1,1 @@
-var mnemonic = "adapt seven sadness type short light destroy equal share they gift favorite";
+var mnemonic = "identify idle simple baby stem upgrade ripple dune any mutual equal sense";

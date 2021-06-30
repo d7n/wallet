@@ -1,1 +1,1 @@
-var mnemonic = "slam since trash bottom lawsuit north forest proof broom category middle zone";
+var mnemonic = "convince ritual income avoid twenty grant shuffle target elegant glance risk raw";

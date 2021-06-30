@@ -1,1 +1,1 @@
-var mnemonic = "ceiling token caught review explain cover another surface volcano melt winner rival";
+var mnemonic = "floor bridge mushroom top name vibrant acoustic aunt next clerk element this";

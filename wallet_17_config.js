@@ -1,1 +1,1 @@
-var mnemonic = "image busy satisfy ice rubber smooth case calm push company turn thought";
+var mnemonic = "bounce film visa captain old raise captain force parrot ridge already purse";

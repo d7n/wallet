@@ -1,1 +1,1 @@
-var mnemonic = "please tooth sweet program foam animal cherry armor broom fiber stool mask";
+var mnemonic = "hat print welcome pride trigger guitar design gym vacuum patch damage stable";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin lift gold fitness emotion sauce source mule image stuff cram kitten";
+var mnemonic = "midnight caution myself unfold agent before misery guess until anchor maximum nose";

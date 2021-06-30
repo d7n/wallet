@@ -1,1 +1,1 @@
-var mnemonic = "step hill flower bread butter erase worth sheriff survey toilet idle way";
+var mnemonic = "bench normal proud execute insane west tuna amateur lend fatigue stage word";

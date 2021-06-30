@@ -1,1 +1,1 @@
-var mnemonic = "vicious snap broken clap process sauce wing helmet bring kitchen boss corn";
+var mnemonic = "trap witness life butter weapon faculty logic spray problem advice mechanic save";

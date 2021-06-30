@@ -1,1 +1,1 @@
-var mnemonic = "evil just west goddess donate kid federal globe blossom essay intact great";
+var mnemonic = "custom pulp check verify dream bottom buzz remind bus eagle cricket away";

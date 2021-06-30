@@ -1,1 +1,1 @@
-var mnemonic = "purse elevator clerk forest tiger steel pill merge estate canvas common version";
+var mnemonic = "shoot shed scare there dance pen fish olympic vendor prison vital rapid";

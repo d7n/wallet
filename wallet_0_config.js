@@ -1,1 +1,1 @@
-var mnemonic = "question gauge dose club carpet faith oyster wreck curtain term all promote";
+var mnemonic = "moment arctic mammal uphold project between maximum price tenant buzz evil weekend";

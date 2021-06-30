@@ -1,1 +1,1 @@
-var mnemonic = "drop start force impact museum country faith seed dress guard slow skull";
+var mnemonic = "return candy reunion pink fitness tackle virus family glance visit wage slab";

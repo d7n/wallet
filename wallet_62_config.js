@@ -1,1 +1,1 @@
-var mnemonic = "husband trust toast approve minimum merit anxiety length dignity sort dial jaguar";
+var mnemonic = "rotate clock mouse city cotton bread depart journey teach alcohol bulk thing";

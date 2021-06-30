@@ -1,1 +1,1 @@
-var mnemonic = "sight fresh spy hope attend banner spin detail cabbage slide deposit rain";
+var mnemonic = "letter motor leaf strategy melody census scrap novel feel virus leopard payment";

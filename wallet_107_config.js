@@ -1,1 +1,1 @@
-var mnemonic = "decrease rival bid easy monitor develop cotton crush rocket account cupboard build";
+var mnemonic = "frequent select unfold inside result face right apology test cloud build high";

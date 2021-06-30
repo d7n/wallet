@@ -1,1 +1,1 @@
-var mnemonic = "victory toss bicycle snap near great stumble tape speak deny climb inspire";
+var mnemonic = "wheel profit please window laundry false brand feel glance head rule laundry";

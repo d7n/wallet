@@ -1,1 +1,1 @@
-var mnemonic = "work zebra corn rapid month vibrant depart blouse inner excuse sniff hazard";
+var mnemonic = "naive immense mutual village disorder seat card wide journey fix power armed";

@@ -1,1 +1,1 @@
-var mnemonic = "tag jungle thing color cover maze shift trade pizza unknown illness shuffle";
+var mnemonic = "awake harvest shed cart process balcony undo car powder happy agent air";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff habit drum second army clean bronze oyster valley foam gate patch";
+var mnemonic = "you palm expire fury kite prison labor glide rack mountain outside lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "boat frame mushroom device impose spike group same fitness follow wall check";
+var mnemonic = "virus cry before master bench olympic swear make car illegal horn photo";

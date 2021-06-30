@@ -1,1 +1,1 @@
-var mnemonic = "outdoor rubber pottery reward leg stick suffer token sorry enjoy unaware spell";
+var mnemonic = "segment cabbage jewel light spatial climb cherry seat craft ask case connect";

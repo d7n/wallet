@@ -1,1 +1,1 @@
-var mnemonic = "shuffle lawn among involve square message dice shrimp hover essence scheme armor";
+var mnemonic = "mail sauce differ uncle donor liberty cram ridge coffee front broom slim";

@@ -1,1 +1,1 @@
-var mnemonic = "culture cradle absorb unveil tumble increase choice tube color health leaf miracle";
+var mnemonic = "edit saddle believe view parent click deputy vanish guide width rice palm";

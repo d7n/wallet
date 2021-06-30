@@ -1,1 +1,1 @@
-var mnemonic = "riot client excess super fragile very hill deposit quantum winter cart dumb";
+var mnemonic = "doll shield panel hamster tent busy inch silly immense half wire scout";

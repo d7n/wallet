@@ -1,1 +1,1 @@
-var mnemonic = "weasel lottery warfare quarter online donkey glare inject bread casual route age";
+var mnemonic = "hedgehog gravity extra mobile palace mixture tomato trim swift token essay mosquito";

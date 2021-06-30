@@ -1,1 +1,1 @@
-var mnemonic = "sponsor rotate people during quantum tonight identify post toddler neglect weekend dog";
+var mnemonic = "traffic awake tell pet sun uncle climb expose random flash another desk";

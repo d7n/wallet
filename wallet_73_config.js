@@ -1,1 +1,1 @@
-var mnemonic = "detail festival soap hello frost measure toilet convince best worth order area";
+var mnemonic = "rural lumber grid evoke track wave trial record miss glass early require";

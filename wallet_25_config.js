@@ -1,1 +1,1 @@
-var mnemonic = "midnight frown choice sure absent stumble cover either dilemma shock lion force";
+var mnemonic = "hammer album palace wagon flight ivory sound box domain around age addict";

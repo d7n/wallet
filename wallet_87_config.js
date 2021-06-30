@@ -1,1 +1,1 @@
-var mnemonic = "radio holiday raw token unaware wrong mansion admit sword trade grape stay";
+var mnemonic = "roast cherry develop strong give noise blouse news position sort ribbon bullet";

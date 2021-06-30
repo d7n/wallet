@@ -1,1 +1,1 @@
-var mnemonic = "federal tower photo shed artwork jewel term caught sugar horse luggage love";
+var mnemonic = "climb grant mean employ poem combine nut convince ocean option boy purity";

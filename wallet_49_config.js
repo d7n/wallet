@@ -1,1 +1,1 @@
-var mnemonic = "shadow seven brand analyst ghost segment narrow open perfect velvet champion silent";
+var mnemonic = "visual blind wash trash exact sick execute illegal arch humor happy blush";

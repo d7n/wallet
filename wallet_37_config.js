@@ -1,1 +1,1 @@
-var mnemonic = "trouble wine parent decide engine choice distance laptop faith object antique island";
+var mnemonic = "wet pair extend code income sand okay like join bubble people session";

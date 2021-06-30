@@ -1,1 +1,1 @@
-var mnemonic = "scissors purpose must blast allow stove fossil notable half shed depart armed";
+var mnemonic = "feed oil local size invite myth climb brief office traffic need antenna";

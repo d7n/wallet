@@ -1,1 +1,1 @@
-var mnemonic = "wasp flight main nut brand icon resource stage exhibit grow dream across";
+var mnemonic = "chase steel movie scare april quiz unlock oval boost weird use track";

@@ -1,1 +1,1 @@
-var mnemonic = "honey volume acquire gym pudding short confirm lizard industry okay trend witness";
+var mnemonic = "across horse crew like model domain model other ritual bubble frown depth";

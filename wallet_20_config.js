@@ -1,1 +1,1 @@
-var mnemonic = "wealth rabbit bottom census benefit fee angry album garage travel stay include";
+var mnemonic = "kind crumble stage fun silly clarify prize miss typical favorite equal above";

@@ -1,1 +1,1 @@
-var mnemonic = "public list phrase tired dignity play mean boat adapt strong correct unable";
+var mnemonic = "benefit verify odor input bone spot cabbage twist liberty improve belt okay";

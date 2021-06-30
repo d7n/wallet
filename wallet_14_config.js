@@ -1,1 +1,1 @@
-var mnemonic = "negative approve slight sad science group tone doll alarm vanish leader grid";
+var mnemonic = "warm laundry siren bronze script alter power party lazy mammal leader neglect";

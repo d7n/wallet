@@ -1,1 +1,1 @@
-var mnemonic = "stumble diet hollow base mountain relief position twist trumpet electric permit section";
+var mnemonic = "hero chuckle mean bacon muscle craft deliver chat brisk mushroom shallow cause";

@@ -1,1 +1,1 @@
-var mnemonic = "visa loud aerobic truck certain renew guitar language scatter sad tree mansion";
+var mnemonic = "increase orphan digital gospel stomach hungry canvas weapon silk action detect save";

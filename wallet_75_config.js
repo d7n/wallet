@@ -1,1 +1,1 @@
-var mnemonic = "sun spread elephant logic model rescue umbrella prevent adjust gaze toe matrix";
+var mnemonic = "egg scrap memory prize lens adult pelican oxygen fork industry frost elder";

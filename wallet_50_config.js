@@ -1,1 +1,1 @@
-var mnemonic = "warm animal orange survey fun jazz foam round follow maid trash awesome";
+var mnemonic = "ordinary unaware expect author denial document hub dash razor royal price evoke";

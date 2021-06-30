@@ -1,1 +1,1 @@
-var mnemonic = "survey hungry echo curtain day cabbage dress build shift trap question visit";
+var mnemonic = "inhale before dad dilemma region few merry dignity assault click talk bottom";

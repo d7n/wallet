@@ -1,1 +1,1 @@
-var mnemonic = "distance silent umbrella shift gospel dumb rotate actual ranch stem ginger label";
+var mnemonic = "choice almost online affair runway picture chimney please mango talk cherry proof";

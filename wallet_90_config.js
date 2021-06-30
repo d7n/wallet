@@ -1,1 +1,1 @@
-var mnemonic = "memory reason fetch nuclear dynamic nuclear steel confirm turn sister theory mind";
+var mnemonic = "endorse then keep waste page delay pioneer miracle frame dolphin practice volcano";

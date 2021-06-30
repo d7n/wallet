@@ -1,1 +1,1 @@
-var mnemonic = "speed timber toe disagree arch ring concert knife border crime furnace robot";
+var mnemonic = "exact snack knife river expose fancy pulse pelican cattle burger forward daughter";

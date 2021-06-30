@@ -1,1 +1,1 @@
-var mnemonic = "aisle hip trust daring october ski flight sausage attack dwarf alley degree";
+var mnemonic = "immune carry response hockey flavor popular air cinnamon ghost arctic this indoor";

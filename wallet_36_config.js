@@ -1,1 +1,1 @@
-var mnemonic = "wash solution cattle column undo cotton front always retreat success asthma tank";
+var mnemonic = "weekend defense island better enact carbon wreck copy acoustic aerobic document mammal";

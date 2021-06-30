@@ -1,1 +1,1 @@
-var mnemonic = "lyrics impose discover equip draw remove erase mother they labor smooth shaft";
+var mnemonic = "pill invite sphere essay night top situate coyote talent nuclear series neither";

@@ -1,1 +1,1 @@
-var mnemonic = "topple kind marriage ugly coral execute tomorrow coffee shuffle prefer above clerk";
+var mnemonic = "tree ability violin never sea tooth absurd wait prevent worry virus know";

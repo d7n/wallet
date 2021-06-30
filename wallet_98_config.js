@@ -1,1 +1,1 @@
-var mnemonic = "stone memory setup above decline avoid invite side catalog onion gather dynamic";
+var mnemonic = "meat supreme once supply cluster mask that trade case cage party pistol";

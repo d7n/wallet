@@ -1,1 +1,1 @@
-var mnemonic = "trash label oblige view whip flavor music trumpet carbon actor sniff text";
+var mnemonic = "rookie fame certain before between swamp tag color maid north faculty neither";

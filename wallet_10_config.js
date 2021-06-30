@@ -1,1 +1,1 @@
-var mnemonic = "cattle lock burden cook enroll poem staff island urban february hidden try";
+var mnemonic = "upper amateur job thrive tool budget veteran glove photo cannon caution race";

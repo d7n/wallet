@@ -1,1 +1,1 @@
-var mnemonic = "laugh huge abstract list need frame month move puzzle marble august lock";
+var mnemonic = "hover seat pitch imitate tone check rocket dune curious field describe lazy";

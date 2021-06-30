@@ -1,1 +1,1 @@
-var mnemonic = "sport scout piano copper coconut shine name ability put language attitude debate";
+var mnemonic = "item brush prepare strategy ask young sister urban crush furnace margin tired";

@@ -1,1 +1,1 @@
-var mnemonic = "sample fringe thumb carbon spot matter tip render various surround bottom rocket";
+var mnemonic = "logic during pelican trap pull steak music emotion gasp mix spike speed";

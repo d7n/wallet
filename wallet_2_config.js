@@ -1,1 +1,1 @@
-var mnemonic = "entry decrease inject loop august expand gravity reward remove drive object such";
+var mnemonic = "amateur inspire asthma arrange crater trap canoe convince submit win shy fortune";

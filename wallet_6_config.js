@@ -1,1 +1,1 @@
-var mnemonic = "exact flock combine elbow pink rack awful drill swallow ritual theory service";
+var mnemonic = "industry element carbon receive nerve atom rabbit load pen range valve property";

@@ -1,1 +1,1 @@
-var mnemonic = "icon club olympic verb feed village canal lawsuit unaware range museum degree";
+var mnemonic = "wedding suit quit inspire birth recall gloom syrup tree amazing drill dance";

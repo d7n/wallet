@@ -1,1 +1,1 @@
-var mnemonic = "begin nature armed fever mule domain token absurd wet odor purity elbow";
+var mnemonic = "cattle kick west tobacco major mango mirror pull area oppose olive morning";

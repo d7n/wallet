@@ -1,1 +1,1 @@
-var mnemonic = "morning west surprise above virus mobile derive prepare raw tired motion potato";
+var mnemonic = "juice wave filter stereo chef ice ridge hold pool silk doctor used";

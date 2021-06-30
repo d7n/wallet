@@ -1,1 +1,1 @@
-var mnemonic = "dish angle siege toss jar wish card bulk tonight account brave pull";
+var mnemonic = "sight search enable soul airport swift rent decade transfer resist hand actress";
