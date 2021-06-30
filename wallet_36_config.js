@@ -1,1 +1,1 @@
-var mnemonic = "anchor cloth alone anger prize invest crystal blanket lens tomorrow series art";
+var mnemonic = "tongue raven glory rude rhythm plastic often crunch fault adapt team champion";

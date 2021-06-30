@@ -1,1 +1,1 @@
-var mnemonic = "rain thing okay force pony gap company fiscal wealth mutual frozen ketchup";
+var mnemonic = "left record punch pottery circle carry valve spike price hungry lift dress";

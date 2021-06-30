@@ -1,1 +1,1 @@
-var mnemonic = "edit uncover purchase effort script tell future era shiver sudden casual orbit";
+var mnemonic = "busy share price flag wheat coyote push early castle truly embark awake";

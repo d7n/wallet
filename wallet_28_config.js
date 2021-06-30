@@ -1,1 +1,1 @@
-var mnemonic = "vibrant zebra drift denial merit visit approve balcony card crew board correct";
+var mnemonic = "paddle foot shove sail error hundred paper embark change frost sibling point";

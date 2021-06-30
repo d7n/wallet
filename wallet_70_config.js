@@ -1,1 +1,1 @@
-var mnemonic = "smoke lock oil report hard duty theory note twelve issue move tenant";
+var mnemonic = "just tail peasant panic hundred fiscal word faculty six science want angry";

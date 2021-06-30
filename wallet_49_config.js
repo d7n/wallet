@@ -1,1 +1,1 @@
-var mnemonic = "utility indicate faculty alien tenant uncover health liberty smart inquiry buddy coast";
+var mnemonic = "cook vessel screen wet train fence wire glow little picnic blame minor";

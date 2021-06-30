@@ -1,1 +1,1 @@
-var mnemonic = "giant scatter shell renew pizza fossil cook face fortune debate hold burden";
+var mnemonic = "forum chef concert cloud eternal market object oyster hello endorse genre behave";

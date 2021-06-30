@@ -1,1 +1,1 @@
-var mnemonic = "cigar obtain risk critic dice tissue october cook disagree resemble cinnamon seek";
+var mnemonic = "auto thank claw toss rhythm clay weasel uniform pilot wealth sample skirt";

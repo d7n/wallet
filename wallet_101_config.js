@@ -1,1 +1,1 @@
-var mnemonic = "crane good rice taxi palm second involve wall amused boost tragic photo";
+var mnemonic = "hybrid snow fever cave nose denial upgrade cheese supply caution market large";

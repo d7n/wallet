@@ -1,1 +1,1 @@
-var mnemonic = "fee leave stairs diet jelly novel hammer evoke other false boy behind";
+var mnemonic = "grace dentist tenant educate innocent spatial between advice expire manage shove ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco mushroom rifle sound miss situate insect slide meat another slam average";
+var mnemonic = "among flame multiply castle practice energy crowd ridge public ankle blush party";

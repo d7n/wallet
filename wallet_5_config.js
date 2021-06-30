@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow vague era dizzy goat model history guess juice icon elegant purity";
+var mnemonic = "way dignity erupt search hub actual diagram aisle dial mimic also hundred";

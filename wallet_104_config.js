@@ -1,1 +1,1 @@
-var mnemonic = "ivory mercy debate extend trial put plunge book youth near lunar tragic";
+var mnemonic = "board mistake advice capital visual loop payment fetch annual caution unlock false";

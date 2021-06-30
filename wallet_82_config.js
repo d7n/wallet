@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow author decide hard chapter toss guilt sell fan dolphin invite method";
+var mnemonic = "hole favorite clock penalty pen iron limb scan jazz credit stone one";

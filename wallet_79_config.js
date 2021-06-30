@@ -1,1 +1,1 @@
-var mnemonic = "priority casino abstract brass team latin offer bridge keen slow swear about";
+var mnemonic = "comic winner expand common company possible diet rely seat february position wrist";

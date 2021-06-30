@@ -1,1 +1,1 @@
-var mnemonic = "what civil surprise economy daring funny stairs photo border cross audit slice";
+var mnemonic = "expire crunch afford type total violin machine venture similar warrior flame brown";

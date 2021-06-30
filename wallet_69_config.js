@@ -1,1 +1,1 @@
-var mnemonic = "song year program have safe relief before estate convince vital intact zebra";
+var mnemonic = "video anchor acid unable female frequent random cannon lady genius legend hip";

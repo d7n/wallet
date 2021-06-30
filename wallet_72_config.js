@@ -1,1 +1,1 @@
-var mnemonic = "pencil isolate scrap solve figure volcano recall exile giraffe item apple reduce";
+var mnemonic = "problem repair island destroy train main vessel accident person gift entry apart";

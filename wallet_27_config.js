@@ -1,1 +1,1 @@
-var mnemonic = "dish hurry parrot test hub calm story mass swift soft country quarter";
+var mnemonic = "daughter glide pistol motion end illness earth matrix question hawk child lucky";

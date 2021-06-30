@@ -1,1 +1,1 @@
-var mnemonic = "thumb like around wife salt stool learn jump math shy soup test";
+var mnemonic = "hurry slide resource rose chronic twin avoid palm truck mesh essence need";

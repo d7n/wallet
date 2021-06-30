@@ -1,1 +1,1 @@
-var mnemonic = "wish eager wood found police tenant barely boring angle fantasy point card";
+var mnemonic = "fuel entry sun first soldier subway leisure orange gas move friend punch";

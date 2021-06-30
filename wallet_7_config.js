@@ -1,1 +1,1 @@
-var mnemonic = "actress parade airport spike nephew rich culture meadow sibling story since bachelor";
+var mnemonic = "quit own bacon gorilla coin yard stable paper girl drip lumber shaft";

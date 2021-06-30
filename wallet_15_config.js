@@ -1,1 +1,1 @@
-var mnemonic = "problem movie awake essence stomach fog rule crawl limit rough ticket soon";
+var mnemonic = "verb suspect scene symbol alert sheriff aerobic green paper blush observe skill";

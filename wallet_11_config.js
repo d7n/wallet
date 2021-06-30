@@ -1,1 +1,1 @@
-var mnemonic = "bottom company unfold key trend cactus arrest laptop bunker planet stay fluid";
+var mnemonic = "skill sword obtain elephant mango hungry chaos mobile unlock deny derive boil";

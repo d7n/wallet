@@ -1,1 +1,1 @@
-var mnemonic = "little forum maximum crater bubble coil dismiss food custom spawn volcano move";
+var mnemonic = "method stool flame inquiry bargain place camera stereo walk page hockey novel";

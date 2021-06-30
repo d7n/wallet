@@ -1,1 +1,1 @@
-var mnemonic = "swarm swamp marble zone early tackle tank interest answer biology clock thank";
+var mnemonic = "reopen reform attack vital venture gym scale truth clerk crack express move";

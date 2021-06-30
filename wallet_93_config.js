@@ -1,1 +1,1 @@
-var mnemonic = "attend spot ivory remember you lamp sort net trim slim example party";
+var mnemonic = "force achieve mule gain crucial another leg please step salt tongue sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty blouse great fee spider another artefact still melt dry replace taxi";
+var mnemonic = "faith method width robot goose flock artefact crush sustain dynamic sea donkey";

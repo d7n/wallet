@@ -1,1 +1,1 @@
-var mnemonic = "idea term estate fetch smart virus crucial tree upset impose gravity tent";
+var mnemonic = "ivory reason frame canal nerve fancy unusual hedgehog hour about clever inflict";

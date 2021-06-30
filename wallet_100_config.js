@@ -1,1 +1,1 @@
-var mnemonic = "sister dolphin code blast visit great season school foil update burst engage";
+var mnemonic = "lock fuel marriage boil camera stereo lamp voice cigar worth try glass";

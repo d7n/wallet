@@ -1,1 +1,1 @@
-var mnemonic = "doll top juice dutch arena input art pyramid smart bronze require odor";
+var mnemonic = "will broccoli peasant kit equip giggle dragon smooth upset dynamic client coffee";

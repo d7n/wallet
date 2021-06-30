@@ -1,1 +1,1 @@
-var mnemonic = "energy sunny eternal south battle will menu century swear ask notable aunt";
+var mnemonic = "quiz ship knife robot number ability expand remove life member pigeon column";

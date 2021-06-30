@@ -1,1 +1,1 @@
-var mnemonic = "thunder angry bless romance book velvet mixture win fringe snack vacuum danger";
+var mnemonic = "upon adapt embark senior scissors web stay outer any parrot maximum rather";

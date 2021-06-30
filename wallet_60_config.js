@@ -1,1 +1,1 @@
-var mnemonic = "movie egg sense adjust immune moment south burden drill nerve doctor output";
+var mnemonic = "snow lion use scare lecture multiply useless danger lab brisk debris enable";

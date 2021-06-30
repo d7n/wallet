@@ -1,1 +1,1 @@
-var mnemonic = "unfold conduct burst gaze aunt require tuition dress coach eye dad parent";
+var mnemonic = "boat length about situate acid boring egg impulse goat seed during salad";

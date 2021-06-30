@@ -1,1 +1,1 @@
-var mnemonic = "arrest fortune dog item athlete silver drama damp pipe laptop tree frog";
+var mnemonic = "rule area dog maximum strike robot ranch clog fine armor mistake quality";

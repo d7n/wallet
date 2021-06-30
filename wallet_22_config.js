@@ -1,1 +1,1 @@
-var mnemonic = "glance act average portion use stable student major lock slam fresh raw";
+var mnemonic = "worth reveal behave yellow awful supply flock file liberty early sell upon";

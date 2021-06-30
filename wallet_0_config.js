@@ -1,1 +1,1 @@
-var mnemonic = "develop about vocal dog subject bus nest submit way stove slab paddle";
+var mnemonic = "hub actor boat dice basket table odor neck pyramid client member dignity";

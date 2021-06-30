@@ -1,1 +1,1 @@
-var mnemonic = "tape palace modify invite nephew victory more object news leopard weather shy";
+var mnemonic = "country release violin smooth awake approve frozen job draw omit exchange duck";

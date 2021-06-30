@@ -1,1 +1,1 @@
-var mnemonic = "wool endless alpha grunt cave cactus horror gravity flush decide lemon employ";
+var mnemonic = "december whisper fine obvious adapt sausage north grid body client damage talent";

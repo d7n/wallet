@@ -1,1 +1,1 @@
-var mnemonic = "write wink knock hockey foster size hidden bench black day crack filter";
+var mnemonic = "okay clinic wish source survey wedding card horror clock quality exchange express";

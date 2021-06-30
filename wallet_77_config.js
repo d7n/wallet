@@ -1,1 +1,1 @@
-var mnemonic = "error device label employ edit laugh exhibit grid cover arrange enforce sad";
+var mnemonic = "capable kitten goddess page hungry praise forest sun unit balcony galaxy valley";

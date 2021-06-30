@@ -1,1 +1,1 @@
-var mnemonic = "blind prevent crazy question snake flip holiday beyond enemy impulse ancient stomach";
+var mnemonic = "design diesel rose pact they dial amazing front rigid drum able include";

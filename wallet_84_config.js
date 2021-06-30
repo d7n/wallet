@@ -1,1 +1,1 @@
-var mnemonic = "broom daring shy mango hidden twice joy history rescue sail sing mirror";
+var mnemonic = "pave album fashion derive since plastic payment emerge combine drastic cream guitar";

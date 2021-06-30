@@ -1,1 +1,1 @@
-var mnemonic = "strategy hidden tomorrow scout gadget ability town trash vocal entire since share";
+var mnemonic = "panther drop above east jar hen select body flag autumn pencil coyote";

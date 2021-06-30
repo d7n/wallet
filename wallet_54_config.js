@@ -1,1 +1,1 @@
-var mnemonic = "piece symptom tide update antenna purity mountain deposit submit upper reunion upset";
+var mnemonic = "summer marine century buzz make smart what female loyal jacket mushroom crane";

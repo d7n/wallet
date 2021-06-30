@@ -1,1 +1,1 @@
-var mnemonic = "panic glue oil buzz rack swift dolphin merge menu detail talent behind";
+var mnemonic = "inner unit stuff relax size flip vintage potato season explain file wagon";

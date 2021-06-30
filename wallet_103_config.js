@@ -1,1 +1,1 @@
-var mnemonic = "ordinary unaware winter couch retire theory boost brick thumb other vapor notable";
+var mnemonic = "where census flat educate loop pool web public they video walk memory";

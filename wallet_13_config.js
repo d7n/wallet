@@ -1,1 +1,1 @@
-var mnemonic = "lift destroy search foil record record vessel cook pyramid earth pen diamond";
+var mnemonic = "need vacuum person icon useless light cigar heavy sheriff crash guide shed";

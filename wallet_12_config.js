@@ -1,1 +1,1 @@
-var mnemonic = "farm tower tilt erupt promote wheat capital merge venue place when video";
+var mnemonic = "gentle town magnet crack session trend clerk rally banner convince vanish name";

@@ -1,1 +1,1 @@
-var mnemonic = "sport pizza reopen dial risk start pave word degree reason clerk skin";
+var mnemonic = "win nose siege target ride enact ahead element tip roof yard avocado";

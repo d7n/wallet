@@ -1,1 +1,1 @@
-var mnemonic = "settle priority pluck insect venue alone together wrestle rigid sun vintage web";
+var mnemonic = "total file earth wild slice trick winner image similar cheap nothing direct";

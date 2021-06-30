@@ -1,1 +1,1 @@
-var mnemonic = "cushion secret never cattle nurse hour artefact print basket heavy reject ski";
+var mnemonic = "chimney unfold north satoshi scan garage lucky bonus will wild fall law";

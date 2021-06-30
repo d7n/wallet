@@ -1,1 +1,1 @@
-var mnemonic = "over seminar next skin valley click devote chalk tooth spray sentence tower";
+var mnemonic = "update spring about clock cliff check mesh link fabric repeat minimum stereo";

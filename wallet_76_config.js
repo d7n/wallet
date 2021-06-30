@@ -1,1 +1,1 @@
-var mnemonic = "junior burden shaft strong vibrant all erase below cloud voyage skate erosion";
+var mnemonic = "inhale tongue begin light basic ship month also nurse kid ripple song";

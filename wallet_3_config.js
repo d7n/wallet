@@ -1,1 +1,1 @@
-var mnemonic = "tobacco away cousin type dynamic cancel nose flee broom toe aware buffalo";
+var mnemonic = "blood rival lady below slender alone below nephew winter nothing hire receive";

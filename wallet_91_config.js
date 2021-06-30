@@ -1,1 +1,1 @@
-var mnemonic = "profit price replace rebuild beyond crawl foot cancel drum claim stand humor";
+var mnemonic = "thunder shoot mixture people soft behave brisk pass issue destroy build alter";

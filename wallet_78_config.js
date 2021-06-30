@@ -1,1 +1,1 @@
-var mnemonic = "arrow student fruit quality ripple immune magnet venue muffin mask fever avocado";
+var mnemonic = "dress decade know dignity flush blade eyebrow toddler kit antique blind idea";

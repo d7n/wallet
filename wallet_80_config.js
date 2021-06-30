@@ -1,1 +1,1 @@
-var mnemonic = "model balcony snow rare owner wonder wish acoustic spring promote radio rally";
+var mnemonic = "salt post fringe body bonus apart pet market fog divert lock battle";

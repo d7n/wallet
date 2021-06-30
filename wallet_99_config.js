@@ -1,1 +1,1 @@
-var mnemonic = "sort segment army imitate you genre horror unique bomb silly game creek";
+var mnemonic = "save mercy argue wide liquid bulk bar portion army inch vacant erode";

@@ -1,1 +1,1 @@
-var mnemonic = "exact ocean window scan regular amateur renew alarm eternal illness chief dragon";
+var mnemonic = "act stock struggle quote globe wish young surprise lecture expose truly normal";

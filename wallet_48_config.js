@@ -1,1 +1,1 @@
-var mnemonic = "heavy diagram humor lady brand ridge awful fly kit dust square affair";
+var mnemonic = "assist flush under rally outdoor bench auto glad theme broom polar tuition";

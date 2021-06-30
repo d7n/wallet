@@ -1,1 +1,1 @@
-var mnemonic = "episode blossom purity wasp brave mouse throw observe album deny frown lunar";
+var mnemonic = "spirit logic crucial twelve order harvest stand syrup west obscure leg social";

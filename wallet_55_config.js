@@ -1,1 +1,1 @@
-var mnemonic = "chef hen dirt erode force panda juice kangaroo dolphin receive radar cage";
+var mnemonic = "aunt exhaust marble network pool claw parent boss modify grit picnic screen";

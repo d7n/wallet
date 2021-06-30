@@ -1,1 +1,1 @@
-var mnemonic = "prosper room dove need swim derive hood present upset uncover cluster pause";
+var mnemonic = "scale vehicle cycle design bamboo saddle way provide ocean load insect ridge";

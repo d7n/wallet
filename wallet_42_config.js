@@ -1,1 +1,1 @@
-var mnemonic = "file clog extra bless dad empty struggle metal report caution unit conduct";
+var mnemonic = "height ride include tilt struggle blue endorse gun use stomach muscle major";

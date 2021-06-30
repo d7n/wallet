@@ -1,1 +1,1 @@
-var mnemonic = "vicious dirt claim vibrant bird dial isolate lunch blade gather ill hawk";
+var mnemonic = "pluck virus lazy struggle addict cause degree flee lake grow rent divide";

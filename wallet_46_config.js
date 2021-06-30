@@ -1,1 +1,1 @@
-var mnemonic = "defense affair plastic clog solution way tornado rule rose twice priority hen";
+var mnemonic = "fossil disagree little bronze vocal bomb beach morning menu color bind exhaust";

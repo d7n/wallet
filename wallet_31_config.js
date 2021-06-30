@@ -1,1 +1,1 @@
-var mnemonic = "february nurse option impact nerve tattoo mix large devote escape fever solid";
+var mnemonic = "chef moment pencil apology announce confirm lottery health chest doctor order truth";

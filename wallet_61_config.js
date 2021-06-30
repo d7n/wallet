@@ -1,1 +1,1 @@
-var mnemonic = "security soda blouse detect vehicle destroy dance rug never fly indoor congress";
+var mnemonic = "uniform favorite pink before muffin speak club nation such dilemma neglect fix";

@@ -1,1 +1,1 @@
-var mnemonic = "sock alley butter grain topple explain grow domain shaft axis state stable";
+var mnemonic = "retreat project able muffin address make hurdle satoshi stamp purity super leave";

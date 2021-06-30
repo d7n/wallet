@@ -1,1 +1,1 @@
-var mnemonic = "recall vast seek exchange anxiety review motor sentence lab captain fork rail";
+var mnemonic = "front sauce pool angle fury dove cry seek pill image pause sheriff";

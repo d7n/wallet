@@ -1,1 +1,1 @@
-var mnemonic = "swarm picture roof switch praise dizzy dilemma wrist sure faint labor okay";
+var mnemonic = "stock snack warrior nose great ivory purse provide mass lecture coyote join";

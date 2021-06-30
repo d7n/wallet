@@ -1,1 +1,1 @@
-var mnemonic = "strike mystery winner define nature buzz excite real empower run key old";
+var mnemonic = "pig detect wrestle banana idle digital cousin prevent silk need tenant you";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi fortune student dignity census present insect ozone tobacco mandate rubber rescue";
+var mnemonic = "ramp give fashion waste sting cube correct divide sea rather balcony fall";

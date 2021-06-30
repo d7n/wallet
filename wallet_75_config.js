@@ -1,1 +1,1 @@
-var mnemonic = "plug cluster humble shrimp this cloud miracle system gain middle avoid ostrich";
+var mnemonic = "retire middle only cigar flat again bring divide dynamic time can face";

@@ -1,1 +1,1 @@
-var mnemonic = "gift biology mixed crouch brother rebel rubber federal truly ship equip depend";
+var mnemonic = "steak glimpse goat couple voice throw pool puppy zero dove joy airport";

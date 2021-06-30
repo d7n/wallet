@@ -1,1 +1,1 @@
-var mnemonic = "surprise ring chicken chalk animal faint hold one common state skill syrup";
+var mnemonic = "sheriff analyst clump grunt ceiling report umbrella edge during era camp ripple";

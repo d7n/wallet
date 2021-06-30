@@ -1,1 +1,1 @@
-var mnemonic = "vast already brain ordinary retreat chaos rebuild cliff wink profit update various";
+var mnemonic = "seek whip mention venture squeeze brief know arrow void away digital people";

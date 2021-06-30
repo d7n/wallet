@@ -1,1 +1,1 @@
-var mnemonic = "cloth push remind general agree review robust illness harvest iron nothing entry";
+var mnemonic = "gather left forum wild ill wage beauty witness love aunt curve fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "fury sense drama penalty occur plate beauty ivory guard salt ecology ice";
+var mnemonic = "route success bar alarm blanket switch spell tissue absorb buddy weapon vendor";

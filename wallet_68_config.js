@@ -1,1 +1,1 @@
-var mnemonic = "tonight almost insect guide roast ghost web virtual door tray soccer guard";
+var mnemonic = "mind trap symptom table danger relief open way hockey worry turn buzz";

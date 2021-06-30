@@ -1,1 +1,1 @@
-var mnemonic = "sense enact timber humor mountain cousin grab stick fetch royal impulse mandate";
+var mnemonic = "invite much wrong belt obtain term tribe obtain polar net census away";

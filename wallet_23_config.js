@@ -1,1 +1,1 @@
-var mnemonic = "neutral teach inner eternal cotton object silent vacuum jazz submit sail crystal";
+var mnemonic = "curve rather quit until used miss plug change rack pattern clown avoid";

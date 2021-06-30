@@ -1,1 +1,1 @@
-var mnemonic = "husband insane right found vibrant uncle pyramid swap front ribbon record six";
+var mnemonic = "coconut coach apart office provide torch ahead near gadget install host blast";

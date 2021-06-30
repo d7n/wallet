@@ -1,1 +1,1 @@
-var mnemonic = "manage word walk uphold admit fiscal sugar barely blanket neglect expire kind";
+var mnemonic = "essence spawn slender upgrade certain learn pony shrug aim lawsuit know climb";

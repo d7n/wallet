@@ -1,1 +1,1 @@
-var mnemonic = "liar moral antenna universe amazing sweet host universe rule course install peasant";
+var mnemonic = "hello rib pigeon mimic swim silver identify birth rent abuse glance pole";

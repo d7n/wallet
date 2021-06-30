@@ -1,1 +1,1 @@
-var mnemonic = "wrap wagon buffalo hazard almost biology immense actual magic foot myself oxygen";
+var mnemonic = "volcano curtain satisfy fabric decade tuition system lift prevent where melt kidney";

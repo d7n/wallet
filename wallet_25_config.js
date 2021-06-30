@@ -1,1 +1,1 @@
-var mnemonic = "rack blanket you tribe very card spoil vague unfold field winter torch";
+var mnemonic = "what axis office shaft nest shrug seed orchard rifle guitar switch west";

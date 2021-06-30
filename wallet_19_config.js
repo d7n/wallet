@@ -1,1 +1,1 @@
-var mnemonic = "liquid aspect off garden flight first once fine sword rocket come ginger";
+var mnemonic = "mirror search peasant grunt spawn galaxy under true adapt nut chronic arrow";

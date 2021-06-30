@@ -1,1 +1,1 @@
-var mnemonic = "typical better marriage rail puzzle banner exhaust brain mistake heavy rough vacuum";
+var mnemonic = "genre divorce carry pigeon hip decorate unique company mobile regret dinosaur fold";

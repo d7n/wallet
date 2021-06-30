@@ -1,1 +1,1 @@
-var mnemonic = "happy lesson jazz light faculty attend raw loan tired math gun extend";
+var mnemonic = "embark predict pulp pigeon shadow knock aisle acid bike sniff reveal sand";

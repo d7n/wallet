@@ -1,1 +1,1 @@
-var mnemonic = "kingdom decade circle develop gain disorder dolphin weapon rigid copper swear enable";
+var mnemonic = "ready purchase victory dilemma magic exhaust gaze riot practice remember quantum provide";

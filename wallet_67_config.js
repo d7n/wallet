@@ -1,1 +1,1 @@
-var mnemonic = "silver slender road minute burst blue emerge cake mix august outdoor way";
+var mnemonic = "train dirt wonder zero primary shuffle vessel athlete rent silver student once";

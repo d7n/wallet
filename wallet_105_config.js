@@ -1,1 +1,1 @@
-var mnemonic = "prefer bike eye body record minor present tree document empty yard patch";
+var mnemonic = "method sweet lounge cargo subway include access jeans champion tool tooth asset";
