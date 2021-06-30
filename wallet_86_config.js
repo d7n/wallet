@@ -1,1 +1,1 @@
-var mnemonic = "gallery gold bunker there nerve daughter faith require lemon define clever minute";
+var mnemonic = "oppose finger knock inflict one identify want silly eight plug donate page";

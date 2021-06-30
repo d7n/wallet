@@ -1,1 +1,1 @@
-var mnemonic = "reopen mosquito reduce exhibit table trap mansion bunker surge kit member canvas";
+var mnemonic = "shine faculty vapor indoor check silent venue bless chicken hedgehog neither use";

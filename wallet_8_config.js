@@ -1,1 +1,1 @@
-var mnemonic = "caught program sponsor empower either matter tornado sheriff rule isolate actual captain";
+var mnemonic = "kite cupboard beyond save sketch ghost shock adult rug thing unveil clump";

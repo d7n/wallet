@@ -1,1 +1,1 @@
-var mnemonic = "cloud length ill destroy logic small quiz market resource present song oxygen";
+var mnemonic = "usage race dragon early weather end palace hello excess yellow canyon analyst";

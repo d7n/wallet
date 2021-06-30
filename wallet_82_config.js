@@ -1,1 +1,1 @@
-var mnemonic = "surround access drop legend fitness argue bomb tip tumble misery opinion fresh";
+var mnemonic = "lens find castle rose motor little congress narrow aisle stove protect decide";

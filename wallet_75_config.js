@@ -1,1 +1,1 @@
-var mnemonic = "unfold churn flip pen album object betray update into scare fossil three";
+var mnemonic = "wrong pudding pig mixed outer payment correct kiwi rich novel excite burger";

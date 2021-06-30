@@ -1,1 +1,1 @@
-var mnemonic = "life civil cage panic fault garbage vibrant second tornado select pact wish";
+var mnemonic = "thing night monkey avocado drive account ability bright cement pass behave night";

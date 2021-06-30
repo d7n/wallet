@@ -1,1 +1,1 @@
-var mnemonic = "squirrel reopen funny athlete decline attack wife merit awake menu zoo stick";
+var mnemonic = "assist east other code wheel quick toss ghost anchor unveil someone unaware";

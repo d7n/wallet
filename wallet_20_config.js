@@ -1,1 +1,1 @@
-var mnemonic = "blush muscle jelly luggage already force expand clown keen opera front fetch";
+var mnemonic = "unable fringe hunt become piano violin afford lock vanish swing mother icon";

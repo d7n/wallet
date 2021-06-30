@@ -1,1 +1,1 @@
-var mnemonic = "nuclear battle mandate enough doll fee face cliff venue aware organ satoshi";
+var mnemonic = "close pact shoulder virus hidden crime coyote pink bubble subway keen situate";

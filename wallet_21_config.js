@@ -1,1 +1,1 @@
-var mnemonic = "okay sniff bachelor false obscure fall one inform since source olympic bar";
+var mnemonic = "strategy have enhance purse stereo left between struggle speed antenna armor tip";

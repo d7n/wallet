@@ -1,1 +1,1 @@
-var mnemonic = "miracle miss tag asthma right left inquiry man pulp choice bless robot";
+var mnemonic = "pitch main man try cycle mesh race use ritual custom infant anxiety";

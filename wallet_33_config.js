@@ -1,1 +1,1 @@
-var mnemonic = "item goose robot gift maple buyer differ broccoli guard broccoli arrest strong";
+var mnemonic = "bread supply mountain sea panther away earth lumber curtain nature toward easy";

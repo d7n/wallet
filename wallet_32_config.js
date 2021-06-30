@@ -1,1 +1,1 @@
-var mnemonic = "coach ankle kind rabbit ripple coral peasant tackle frown unfair jar stamp";
+var mnemonic = "cluster return scorpion rural false road prison people together romance over attitude";

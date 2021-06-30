@@ -1,1 +1,1 @@
-var mnemonic = "core family act degree stomach twin sheriff apology minor chief shield outer";
+var mnemonic = "infant illness include capital tube network hurt name nose salt tongue during";

@@ -1,1 +1,1 @@
-var mnemonic = "blur donor shield gentle tool unique flame win under bless inner trouble";
+var mnemonic = "annual acoustic proof major caught aisle embrace face baby fatal use narrow";

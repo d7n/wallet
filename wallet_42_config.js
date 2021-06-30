@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin uncle decide squeeze nut game dentist must obvious illegal clutch inner";
+var mnemonic = "brush midnight observe walnut timber design myth today scatter number divorce appear";

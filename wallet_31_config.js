@@ -1,1 +1,1 @@
-var mnemonic = "increase poet observe have stereo swift style kangaroo pledge dismiss hotel floor";
+var mnemonic = "brain wagon chuckle suffer swing monster affair clinic table artefact first remember";

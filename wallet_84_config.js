@@ -1,1 +1,1 @@
-var mnemonic = "misery equal bulk decline arctic breeze position below lunch order blur you";
+var mnemonic = "lock pencil intact uncle shoot pair slide ginger loyal lumber monster half";

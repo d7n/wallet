@@ -1,1 +1,1 @@
-var mnemonic = "heart assume nerve onion own lonely lyrics route park lock scene neck";
+var mnemonic = "ensure rifle inspire viable door practice bless install celery alien actress library";

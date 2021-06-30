@@ -1,1 +1,1 @@
-var mnemonic = "walk garbage wish stadium brass toilet cat someone popular master quote combine";
+var mnemonic = "food barely now sauce digital valid field awful season crystal fame upset";

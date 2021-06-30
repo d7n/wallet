@@ -1,1 +1,1 @@
-var mnemonic = "topple replace trial service throw chronic phrase aspect space kiwi clutch consider";
+var mnemonic = "alone ignore nature near ill write good alien horse flag seat calm";

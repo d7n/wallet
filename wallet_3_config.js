@@ -1,1 +1,1 @@
-var mnemonic = "improve nut noble knock cram pull try inject spend motor opera shed";
+var mnemonic = "spider monkey uncover make peanut chase laundry speak glory bulb raven situate";

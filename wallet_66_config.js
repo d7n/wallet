@@ -1,1 +1,1 @@
-var mnemonic = "alter disease action spin kitten gossip shed borrow isolate buddy chat grid";
+var mnemonic = "tooth nature conduct whisper dutch record similar wide spread language office solution";

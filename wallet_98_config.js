@@ -1,1 +1,1 @@
-var mnemonic = "consider ring leader trash alone plastic tip judge purse dutch ranch install";
+var mnemonic = "hurdle skill combine accident advice fossil spice wealth model ginger hedgehog sock";

@@ -1,1 +1,1 @@
-var mnemonic = "august letter rocket give suffer stadium galaxy sing key ice swarm price";
+var mnemonic = "tent rabbit collect shoot hand eye follow symbol casino conduct install train";

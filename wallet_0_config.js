@@ -1,1 +1,1 @@
-var mnemonic = "base spatial helmet high maid please holiday drill cram filter daring afford";
+var mnemonic = "category nest gather welcome that enroll awkward lawsuit evolve slender sleep moral";

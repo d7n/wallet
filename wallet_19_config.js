@@ -1,1 +1,1 @@
-var mnemonic = "inquiry agent metal scale box dinner wasp still panther laundry stomach finish";
+var mnemonic = "kitchen bullet giant ginger drill large frozen burger decline escape figure disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle thought float you forget flight weasel safe guide avocado pilot seat";
+var mnemonic = "tone dry winter priority arctic excuse dice garage odor version balance frozen";

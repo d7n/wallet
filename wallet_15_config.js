@@ -1,1 +1,1 @@
-var mnemonic = "camp inch fringe lady essay turkey pipe mass begin century message spread";
+var mnemonic = "bus know supply inject wreck vault riot noise aisle dust shove tobacco";

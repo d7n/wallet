@@ -1,1 +1,1 @@
-var mnemonic = "blast orchard craft garden usual oil resemble infant essay shock blade involve";
+var mnemonic = "blouse sting indoor burden enact leopard kidney find repeat lucky cradle police";

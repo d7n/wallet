@@ -1,1 +1,1 @@
-var mnemonic = "grocery coral glove laugh message laundry advance eternal cradle discover amused audit";
+var mnemonic = "push crucial tail capable toilet blur return ready hamster couch twenty vault";

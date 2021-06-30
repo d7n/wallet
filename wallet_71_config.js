@@ -1,1 +1,1 @@
-var mnemonic = "wrist return grocery sustain alert fame system health ranch forum raccoon family";
+var mnemonic = "junk monster october glare pencil pear problem naive always love tide claim";

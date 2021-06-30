@@ -1,1 +1,1 @@
-var mnemonic = "carbon dutch interest salad hotel bacon destroy knee cricket depth isolate artwork";
+var mnemonic = "quit rich table ribbon rocket execute clown swear soda grace diesel inject";

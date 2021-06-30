@@ -1,1 +1,1 @@
-var mnemonic = "dance useful toddler double process bamboo jaguar mirror patient try spice garlic";
+var mnemonic = "visa six office rigid evidence visual evidence often lens pass remove advance";

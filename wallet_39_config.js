@@ -1,1 +1,1 @@
-var mnemonic = "glide poverty merit now glory brave dizzy shoe battle sail ranch there";
+var mnemonic = "soup crater equal assault deal egg abandon real clip then coffee lesson";

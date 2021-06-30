@@ -1,1 +1,1 @@
-var mnemonic = "version enough model rescue boss cash student music dragon scare honey music";
+var mnemonic = "brave illegal pass monster clerk convince pact truck room combine water step";

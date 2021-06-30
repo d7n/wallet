@@ -1,1 +1,1 @@
-var mnemonic = "away anxiety stem joy save silver fiction charge basic sick first tobacco";
+var mnemonic = "pave nice palm mercy object oblige exclude profit repeat change actress occur";

@@ -1,1 +1,1 @@
-var mnemonic = "faith slow envelope kitchen vacant pupil nerve foster switch pepper cricket garbage";
+var mnemonic = "choice unaware wagon differ unit bulb reveal tilt awkward foster cram village";

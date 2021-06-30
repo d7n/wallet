@@ -1,1 +1,1 @@
-var mnemonic = "odor element strategy sad brown twist exhibit orphan sister bring inform math";
+var mnemonic = "woman sorry clip symptom consider trophy move zebra question flower spoil marine";

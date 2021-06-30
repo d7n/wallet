@@ -1,1 +1,1 @@
-var mnemonic = "deny unfair taxi prefer wreck result divorce fire funny panel impact loud";
+var mnemonic = "roof spin account case curious endless harvest grass radio board panda spoon";

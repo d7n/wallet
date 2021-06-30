@@ -1,1 +1,1 @@
-var mnemonic = "acid magnet bird fat detect nice asthma file quantum duck pizza desert";
+var mnemonic = "frozen energy polar inner plug float resource month disagree baby wool fabric";

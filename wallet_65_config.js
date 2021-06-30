@@ -1,1 +1,1 @@
-var mnemonic = "cram cream special umbrella under master lunar involve test dove bamboo funny";
+var mnemonic = "bronze pig hip profit wool apology dune mercy chat top upgrade help";

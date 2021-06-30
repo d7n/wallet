@@ -1,1 +1,1 @@
-var mnemonic = "skirt skin install provide vague squeeze midnight token erase despair auto approve";
+var mnemonic = "few two giraffe rain theme imitate shallow achieve awesome vote fabric like";

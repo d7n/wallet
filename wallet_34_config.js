@@ -1,1 +1,1 @@
-var mnemonic = "eight call devote coil truck lake link federal radio level illness vibrant";
+var mnemonic = "horse follow reward plunge around curve aim fatal approve crystal lion bless";

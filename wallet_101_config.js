@@ -1,1 +1,1 @@
-var mnemonic = "abuse knife bag picnic urge stumble pool grace reflect bird nature party";
+var mnemonic = "jaguar stand clump poverty bulk diagram prize favorite various interest arch flag";

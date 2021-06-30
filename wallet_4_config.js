@@ -1,1 +1,1 @@
-var mnemonic = "style all apple calm morning bomb swamp inform pilot awful reopen school";
+var mnemonic = "envelope frequent butter door symbol quarter tray real accident afford ensure effort";

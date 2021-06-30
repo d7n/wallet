@@ -1,1 +1,1 @@
-var mnemonic = "trade find exist blanket rough tail transfer scan minimum swap shop brave";
+var mnemonic = "soup abuse lend tissue alone stove donate sting puppy connect raise dwarf";

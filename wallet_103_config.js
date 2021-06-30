@@ -1,1 +1,1 @@
-var mnemonic = "balance kitchen ignore gloom digital render analyst affair step chunk caught load";
+var mnemonic = "despair neither this slender fever vibrant evil caution page document puzzle shy";

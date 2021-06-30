@@ -1,1 +1,1 @@
-var mnemonic = "ketchup cruel either lock whisper desk athlete talk radio phone network laugh";
+var mnemonic = "original trap build seminar book lens fork monster once into cake river";

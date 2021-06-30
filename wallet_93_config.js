@@ -1,1 +1,1 @@
-var mnemonic = "pool cargo marble subway hint elevator taxi climb cherry cause shoulder fatigue";
+var mnemonic = "come library salmon unit erosion blanket assume leopard say lawsuit this civil";

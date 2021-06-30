@@ -1,1 +1,1 @@
-var mnemonic = "flat burden void anchor sugar zebra stool auction visit tail ignore pigeon";
+var mnemonic = "salt tenant oyster inject despair involve usual agent rent taste want chalk";

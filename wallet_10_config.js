@@ -1,1 +1,1 @@
-var mnemonic = "fan crush harbor march autumn behind ship mesh tonight require favorite umbrella";
+var mnemonic = "stay frost noble keep kid metal topic left orange grid wait bulb";

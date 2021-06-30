@@ -1,1 +1,1 @@
-var mnemonic = "prosper picnic cycle hover tackle nation border fix mandate ghost script say";
+var mnemonic = "sort bar paddle vivid venture always miracle scan exhibit high grace column";

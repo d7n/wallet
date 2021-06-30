@@ -1,1 +1,1 @@
-var mnemonic = "parrot fragile control cable talk nurse burst throw draft update layer one";
+var mnemonic = "injury lawsuit any copper bike electric multiply symptom cover vehicle sorry mandate";

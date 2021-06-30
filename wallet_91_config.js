@@ -1,1 +1,1 @@
-var mnemonic = "story drift blame truck myth rubber reduce practice hobby onion quarter voyage";
+var mnemonic = "wedding shoe spoil toe harbor hundred trouble post alarm cave lecture fetch";

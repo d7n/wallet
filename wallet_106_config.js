@@ -1,1 +1,1 @@
-var mnemonic = "regret unable junior goddess cactus miss apart hungry bracket remove develop castle";
+var mnemonic = "dawn organ transfer couch destroy either friend daring behind unknown wool harbor";

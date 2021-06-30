@@ -1,1 +1,1 @@
-var mnemonic = "immune grow bench unique enroll unfair face benefit soup razor length delay";
+var mnemonic = "bag cannon start control wise away act please vapor bundle donor pear";

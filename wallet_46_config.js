@@ -1,1 +1,1 @@
-var mnemonic = "donkey iron hungry game recipe poverty town ketchup hard shy list march";
+var mnemonic = "insect ahead casual feature abuse jelly benefit boost length slab warrior actual";

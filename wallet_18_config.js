@@ -1,1 +1,1 @@
-var mnemonic = "feed cattle lift either blind upgrade mechanic obvious furnace alter trick hand";
+var mnemonic = "physical close jazz bone crucial hammer leisure check law surface lonely girl";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson daughter place allow solve immense situate unknown lava catch attack fog";
+var mnemonic = "spy amused saddle gospel tourist tomato asthma main sentence brass share multiply";

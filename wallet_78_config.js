@@ -1,1 +1,1 @@
-var mnemonic = "cabbage wolf advance couch ahead chair theme chaos double ugly impulse gap";
+var mnemonic = "dawn hen job until tissue crack future surface derive holiday pig shy";

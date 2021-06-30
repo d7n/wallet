@@ -1,1 +1,1 @@
-var mnemonic = "inside mind carry reflect phone clarify notice pond mechanic atom kangaroo veteran";
+var mnemonic = "biology company unaware route swim turtle prosper nation ancient venture mail shed";

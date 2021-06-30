@@ -1,1 +1,1 @@
-var mnemonic = "romance echo tongue source pistol fragile grief tenant stand muffin offer lesson";
+var mnemonic = "armed inquiry fame gospel stool dog vibrant forget ginger strategy demand object";

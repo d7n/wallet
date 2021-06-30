@@ -1,1 +1,1 @@
-var mnemonic = "task prevent piece filter arrange accident rib verb soap behind lava kid";
+var mnemonic = "uncle canyon dynamic rack pyramid ramp figure desert cause ordinary trumpet bottom";

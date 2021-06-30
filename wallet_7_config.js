@@ -1,1 +1,1 @@
-var mnemonic = "april raven camp pumpkin powder planet helmet staff obey file harbor observe";
+var mnemonic = "gallery mother release admit science above enjoy edit fuel girl concert wish";

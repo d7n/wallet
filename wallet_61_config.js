@@ -1,1 +1,1 @@
-var mnemonic = "captain sausage camera cart tortoise tired game brown private hole vanish jazz";
+var mnemonic = "trim bike decline grunt around school exact comfort tiny powder grant magic";

@@ -1,1 +1,1 @@
-var mnemonic = "express club village caught stable license soda country coach cotton piece sad";
+var mnemonic = "skin frequent cotton green quote stereo equip eager link diamond affair lava";

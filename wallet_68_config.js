@@ -1,1 +1,1 @@
-var mnemonic = "panel kit name hockey limit net snack picture movie among kidney gossip";
+var mnemonic = "prosper fantasy maze cheese crop glory silver rice bargain edit list tortoise";

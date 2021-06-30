@@ -1,1 +1,1 @@
-var mnemonic = "forward enhance together siren oven parade mammal design garden churn blame wrap";
+var mnemonic = "despair bitter few body foster bulk surface random cigar shiver divide slam";

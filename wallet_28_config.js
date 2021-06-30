@@ -1,1 +1,1 @@
-var mnemonic = "this rule erupt property mouse farm spring open bag combine common heavy";
+var mnemonic = "uphold bomb autumn quality machine feed energy wrap deliver broken cliff page";

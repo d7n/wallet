@@ -1,1 +1,1 @@
-var mnemonic = "inspire panda state ship merge question logic meadow boost page finish army";
+var mnemonic = "boss universe already city discover denial hybrid update auction trick resource train";

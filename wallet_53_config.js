@@ -1,1 +1,1 @@
-var mnemonic = "hammer bean scrap pool across claw nest payment picnic badge quick dust";
+var mnemonic = "strategy odor march kitten forest marriage special abandon shoot rib plug rich";

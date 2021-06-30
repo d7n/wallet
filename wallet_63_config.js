@@ -1,1 +1,1 @@
-var mnemonic = "hard polar clap genuine similar walk knife cotton deer patch trouble traffic";
+var mnemonic = "output random festival tomorrow cable speed hurdle dutch floor acoustic orbit island";

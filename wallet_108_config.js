@@ -1,1 +1,1 @@
-var mnemonic = "century custom belt hybrid piece panic color rice decline page tone arch";
+var mnemonic = "popular farm screen adjust hat december match matter submit agent curious input";

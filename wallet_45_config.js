@@ -1,1 +1,1 @@
-var mnemonic = "leisure orphan congress south ghost thought nasty soup talent sugar congress vessel";
+var mnemonic = "spare pig pudding vital wonder cousin census humor desert milk agent fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme party calm lawn pull zoo tide brave problem guilt salmon little";
+var mnemonic = "purse ginger notable weird artist secret receive match version witness congress still";

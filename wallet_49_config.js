@@ -1,1 +1,1 @@
-var mnemonic = "unusual trophy short develop clock kiss flame piece ball vacuum quality urban";
+var mnemonic = "phrase plug smoke post huge scheme young across trust poem load toilet";

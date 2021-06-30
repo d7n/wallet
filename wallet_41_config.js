@@ -1,1 +1,1 @@
-var mnemonic = "moment glide ancient addict first zebra shallow fly item chat lava comic";
+var mnemonic = "govern paper guitar alcohol impulse holiday photo bread series stomach plunge autumn";

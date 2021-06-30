@@ -1,1 +1,1 @@
-var mnemonic = "frog price brother under chalk once avoid venture excess include horse bitter";
+var mnemonic = "into found gun wrestle pencil math dash already comfort grocery lady door";

@@ -1,1 +1,1 @@
-var mnemonic = "undo mobile cement female panel gap slender dove word truck slight own";
+var mnemonic = "segment acoustic major ceiling candy script world size angle umbrella keep end";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz primary toward please release when toy candy violin chase small nasty";
+var mnemonic = "name casino cement powder vicious tent level light forum segment gate amount";

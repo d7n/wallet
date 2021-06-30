@@ -1,1 +1,1 @@
-var mnemonic = "method benefit alert act neither alpha canyon actual jump trial bag repeat";
+var mnemonic = "what skin dream unique rent silk street sunset island enforce bag remind";

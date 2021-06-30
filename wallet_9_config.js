@@ -1,1 +1,1 @@
-var mnemonic = "shallow magic disorder extra fever brown steel battle brush certain once affair";
+var mnemonic = "link powder original episode exercise elevator memory eternal pluck taxi filter catch";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble sausage cat decorate alcohol guide decline flag speak enroll equal breeze";
+var mnemonic = "goose copper afford card weird bean belt flip when solar super host";

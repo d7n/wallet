@@ -1,1 +1,1 @@
-var mnemonic = "area match setup ankle kidney defy strategy odor example peasant apple flag";
+var mnemonic = "novel taste sample vendor civil spy toy face green attack catalog talk";

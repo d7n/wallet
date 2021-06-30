@@ -1,1 +1,1 @@
-var mnemonic = "glove supply turn kingdom you essence easily pave drink now edge public";
+var mnemonic = "marine twenty bacon belt thought fall among monitor cargo skull pepper twin";

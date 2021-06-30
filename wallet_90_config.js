@@ -1,1 +1,1 @@
-var mnemonic = "dinner student wealth slender marriage broom endorse east protect weird hat fossil";
+var mnemonic = "mobile answer jewel visit memory knock laundry sunny melody eye pride sudden";

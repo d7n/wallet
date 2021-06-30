@@ -1,1 +1,1 @@
-var mnemonic = "gun avocado tuna remove mango symptom detail cry jealous vote vehicle shadow";
+var mnemonic = "arrive warfare receive adapt plate index critic cactus lobster lens fold slab";

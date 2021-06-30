@@ -1,1 +1,1 @@
-var mnemonic = "three concert blossom someone six area current skirt endless shuffle bench hollow";
+var mnemonic = "police chronic shy measure three color warm smart humor glue wear accident";

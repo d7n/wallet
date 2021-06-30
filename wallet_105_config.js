@@ -1,1 +1,1 @@
-var mnemonic = "garlic immune shove honey vault tunnel once pigeon bird board couple abstract";
+var mnemonic = "brain asset basic twenty knee private else rare arrange blouse fire become";

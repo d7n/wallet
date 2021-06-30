@@ -1,1 +1,1 @@
-var mnemonic = "deliver ship whip humble quote guard then blush museum aisle fragile elephant";
+var mnemonic = "twist length mask wing maid impose cover member real awful year cancel";
