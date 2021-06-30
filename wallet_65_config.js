@@ -1,1 +1,1 @@
-var mnemonic = "hamster guard cheese measure hollow drop ignore aim error family rib state";
+var mnemonic = "sorry about hotel clinic private ride scale surprise swift myth nominee invest";

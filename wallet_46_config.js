@@ -1,1 +1,1 @@
-var mnemonic = "calm disorder cake rug sick strategy turkey width hand velvet ozone balance";
+var mnemonic = "own flip inquiry casino short paper matrix noodle warrior drink forward shaft";

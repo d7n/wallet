@@ -1,1 +1,1 @@
-var mnemonic = "nation music major tobacco puppy civil erode around barely move injury edge";
+var mnemonic = "consider spider install silent gym budget ancient sister daring balance space little";

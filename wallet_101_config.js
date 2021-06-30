@@ -1,1 +1,1 @@
-var mnemonic = "hint divide plastic jump advice glove must drive width slam bubble pass";
+var mnemonic = "mercy predict witness thought erosion prepare maximum only uphold hidden security opera";

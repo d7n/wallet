@@ -1,1 +1,1 @@
-var mnemonic = "million olympic leopard flat better since left few sister slam dirt other";
+var mnemonic = "rain kick vehicle oil omit space garlic wagon observe monitor west affair";

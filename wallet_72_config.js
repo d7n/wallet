@@ -1,1 +1,1 @@
-var mnemonic = "guide change rescue outdoor pole jar era word enlist pull immune lady";
+var mnemonic = "roast casino manual record maze fog pave undo response bird direct awake";

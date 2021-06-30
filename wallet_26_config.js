@@ -1,1 +1,1 @@
-var mnemonic = "fence strong assist regret brown poverty kick assist culture awful close better";
+var mnemonic = "planet glove garbage tonight trigger melody finish kangaroo slush purity flag behind";

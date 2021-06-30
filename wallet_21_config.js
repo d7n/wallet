@@ -1,1 +1,1 @@
-var mnemonic = "drastic enough aspect worth bitter inhale initial edge reduce shell glide render";
+var mnemonic = "fence police addict hobby series master alter drip fashion mountain venture legal";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke party old believe symptom earn panther almost plate print first problem";
+var mnemonic = "dad olympic witness inflict awesome current leave mule drill exchange social trick";

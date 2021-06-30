@@ -1,1 +1,1 @@
-var mnemonic = "setup green access false tennis staff reward pink okay stool pole scissors";
+var mnemonic = "weird sort innocent tourist heart afraid bleak load woman observe pudding only";

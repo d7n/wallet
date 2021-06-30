@@ -1,1 +1,1 @@
-var mnemonic = "craft ankle liquid kingdom cactus aerobic lesson riot own differ voyage drink";
+var mnemonic = "law obey theme that clip bullet disease bike idea fire minute force";

@@ -1,1 +1,1 @@
-var mnemonic = "better network grace salt puppy slim endorse blade crucial empower noodle zone";
+var mnemonic = "tunnel sound critic define style afraid host possible weather swim wife oil";

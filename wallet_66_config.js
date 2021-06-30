@@ -1,1 +1,1 @@
-var mnemonic = "shield charge mushroom tackle popular better toy universe dice hobby employ regret";
+var mnemonic = "crowd attitude report silver grid zero couple steel vehicle impact left palace";

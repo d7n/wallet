@@ -1,1 +1,1 @@
-var mnemonic = "tilt forum glimpse jeans slam comfort cream coach filter dinosaur help almost";
+var mnemonic = "lobster moral spell bargain clarify pipe truly indoor weather super cargo second";

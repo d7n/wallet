@@ -1,1 +1,1 @@
-var mnemonic = "main know plunge become gas coconut room furnace crouch symbol check stone";
+var mnemonic = "very profit junk skate clerk drastic inmate direct meat cram latin depart";

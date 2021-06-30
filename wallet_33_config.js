@@ -1,1 +1,1 @@
-var mnemonic = "install dress raven purpose auto guilt squeeze depend north bulk response canoe";
+var mnemonic = "bridge similar spray exclude wagon resist easy maze badge couch air scale";

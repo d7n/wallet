@@ -1,1 +1,1 @@
-var mnemonic = "drastic stable leader vintage taste orchard adapt draw mirror census believe obtain";
+var mnemonic = "fashion unfair mystery client allow amused fossil memory pass travel behave legend";

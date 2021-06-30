@@ -1,1 +1,1 @@
-var mnemonic = "tomato decorate sad ivory check total nurse pudding energy wreck phrase endorse";
+var mnemonic = "move gravity provide chalk nature suffer ship nerve pass kid drastic jump";

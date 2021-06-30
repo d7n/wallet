@@ -1,1 +1,1 @@
-var mnemonic = "romance trade loop amateur morning tonight run try evil hunt vacuum embody";
+var mnemonic = "actor sea mechanic travel cabbage morning sort frost inherit bulk enhance demand";

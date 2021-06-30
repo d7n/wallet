@@ -1,1 +1,1 @@
-var mnemonic = "index lock captain attack artefact clinic certain call inmate toilet couch cupboard";
+var mnemonic = "eight fluid purse negative hawk tiger arrange miracle time unfair wrong regular";

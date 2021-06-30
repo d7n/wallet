@@ -1,1 +1,1 @@
-var mnemonic = "elegant guide strategy model chimney divide misery fox tip asthma expose rhythm";
+var mnemonic = "meadow bleak leopard coin owner filter balance budget hunt hammer news review";

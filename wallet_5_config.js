@@ -1,1 +1,1 @@
-var mnemonic = "response auction bread cushion breeze click april cattle page tree miss aim";
+var mnemonic = "acid rookie other island uncle skull rose aisle runway aunt soft major";

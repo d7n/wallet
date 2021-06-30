@@ -1,1 +1,1 @@
-var mnemonic = "lava thing apology swap guide spider noble flash tower upset dance arena";
+var mnemonic = "erosion security relax harbor plunge spot syrup split elegant resist smart pipe";

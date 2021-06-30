@@ -1,1 +1,1 @@
-var mnemonic = "frog curve alien damp kitten aunt notice document danger sword group inside";
+var mnemonic = "addict hospital uncle stool disorder before crime system tongue mix wrap that";

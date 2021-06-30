@@ -1,1 +1,1 @@
-var mnemonic = "void friend imitate sport wrestle powder citizen hole feed call solid spend";
+var mnemonic = "retreat bike merit invite athlete siren theme elder clutch garlic wool rally";

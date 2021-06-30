@@ -1,1 +1,1 @@
-var mnemonic = "tent mixture quiz couch abstract alone bless marriage april know scheme imitate";
+var mnemonic = "timber receive paper weekend vacuum author mobile profit school enemy south hundred";

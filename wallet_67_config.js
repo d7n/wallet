@@ -1,1 +1,1 @@
-var mnemonic = "weekend camera prison flash protect junior reopen hill nation amused dream coyote";
+var mnemonic = "bunker bomb frog rigid sunset syrup certain burger scorpion sphere okay lion";

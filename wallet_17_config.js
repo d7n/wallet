@@ -1,1 +1,1 @@
-var mnemonic = "office tennis sign season width must guess comic scissors normal fix awake";
+var mnemonic = "calm virus canyon engine begin slab group baby isolate lizard shine kidney";

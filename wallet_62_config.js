@@ -1,1 +1,1 @@
-var mnemonic = "pair civil asset once position struggle collect unusual trumpet onion village shock";
+var mnemonic = "century judge anger invest then scrap great vast truth meadow riot canyon";

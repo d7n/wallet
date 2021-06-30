@@ -1,1 +1,1 @@
-var mnemonic = "fan desert mandate cannon side kiss parade bleak major series cost inside";
+var mnemonic = "bulb true better flat such shoulder best idle sniff tongue achieve exhaust";

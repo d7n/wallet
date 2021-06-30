@@ -1,1 +1,1 @@
-var mnemonic = "vintage aware uncle pudding laundry quit razor loan scissors kick frozen tiger";
+var mnemonic = "inhale lonely acid connect task parrot view prevent erase aim hand combine";

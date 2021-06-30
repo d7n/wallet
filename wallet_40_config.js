@@ -1,1 +1,1 @@
-var mnemonic = "domain armor market dawn disorder ladder immense acid initial exist portion female";
+var mnemonic = "select garage scan mail else clutch box slush emotion occur risk same";

@@ -1,1 +1,1 @@
-var mnemonic = "very group coyote about scout vacuum retreat guard couch remind lend coffee";
+var mnemonic = "arm tennis elbow surge call kiwi insect prevent glare legal butter love";

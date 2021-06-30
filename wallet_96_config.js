@@ -1,1 +1,1 @@
-var mnemonic = "shock luggage cancel kingdom salute please setup penalty save rookie dirt distance";
+var mnemonic = "mango absorb cannon fuel market peanut between asthma grape scrap swift absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "skill mean approve fit certain hard mixture all violin artist achieve equal";
+var mnemonic = "forward suit organ select decide fish envelope whale end fatigue nest ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan voice style devote across disorder powder base raw supreme orient promote";
+var mnemonic = "fiction auto liquid unaware urge town olive universe rent identify bird vacuum";

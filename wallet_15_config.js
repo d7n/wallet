@@ -1,1 +1,1 @@
-var mnemonic = "catch educate dove favorite diesel pair copper adapt loyal used stuff aim";
+var mnemonic = "riot vocal labor sad discover click tomato uncle snack estate arctic broom";

@@ -1,1 +1,1 @@
-var mnemonic = "illness disagree unusual release treat put pottery soap flash fine feel reopen";
+var mnemonic = "what talk duck team distance napkin nut around saddle silent cloud merry";

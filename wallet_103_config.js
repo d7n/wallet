@@ -1,1 +1,1 @@
-var mnemonic = "wrong figure water school denial inner possible velvet convince romance priority father";
+var mnemonic = "rule oyster devote tomato orphan civil flavor pattern moral video rent video";

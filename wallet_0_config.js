@@ -1,1 +1,1 @@
-var mnemonic = "gauge banner marriage stove flavor away swim boil wreck faculty identify victory";
+var mnemonic = "crop runway battle jelly kite bracket fine gap feature rug trash dove";

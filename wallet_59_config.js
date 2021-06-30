@@ -1,1 +1,1 @@
-var mnemonic = "afraid push local clarify catalog erase brief cube moon truly confirm bitter";
+var mnemonic = "choice eye monster jealous rifle feel barely reveal outdoor account cement brain";

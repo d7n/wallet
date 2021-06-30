@@ -1,1 +1,1 @@
-var mnemonic = "can wealth girl direct borrow wheat young army fatal engine gallery item";
+var mnemonic = "song agent below settle wrestle guitar afraid digital mesh laundry issue wire";

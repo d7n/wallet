@@ -1,1 +1,1 @@
-var mnemonic = "immune figure lemon erode area evoke depth save eternal soup mammal volume";
+var mnemonic = "arrange script teach bamboo squeeze smooth other settle taxi balcony news salute";

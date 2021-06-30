@@ -1,1 +1,1 @@
-var mnemonic = "mouse cricket board pretty treat project shield cinnamon myself chicken humble cluster";
+var mnemonic = "allow artefact want essence leg juice improve client bridge cable prefer disagree";

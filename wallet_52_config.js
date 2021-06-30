@@ -1,1 +1,1 @@
-var mnemonic = "shove damage assault cannon true team inmate layer vibrant chapter pitch simple";
+var mnemonic = "trash useful toilet usage hat cereal limit cancel decide head fatal economy";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic save fat mango deliver unusual skin auto circle comic mind result";
+var mnemonic = "theme trigger used peace happy ankle chef width home rapid bird wood";

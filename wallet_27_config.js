@@ -1,1 +1,1 @@
-var mnemonic = "nice elevator broken slow vault usual exit local want mistake truck senior";
+var mnemonic = "often better library lecture shiver shine ethics usage defense screen nurse toast";

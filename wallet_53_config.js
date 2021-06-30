@@ -1,1 +1,1 @@
-var mnemonic = "collect whale boat curious saddle east warrior lake raven person dream survey";
+var mnemonic = "left erode dinner charge soap coffee ozone mechanic thunder twin universe disagree";

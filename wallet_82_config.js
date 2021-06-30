@@ -1,1 +1,1 @@
-var mnemonic = "phone rice swap waste romance baby flag high rival sound artist dentist";
+var mnemonic = "abandon nature option omit climb clutch consider onion gain physical actor rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "thing place rubber travel orient stem nothing reopen doctor divorce garden enrich";
+var mnemonic = "youth quit typical alert trade december faint system minute cricket jazz come";

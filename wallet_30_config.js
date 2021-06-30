@@ -1,1 +1,1 @@
-var mnemonic = "april doctor bullet obvious school kangaroo face author possible differ innocent raw";
+var mnemonic = "pole error private tomorrow arm grid absent sleep wasp health guitar lock";

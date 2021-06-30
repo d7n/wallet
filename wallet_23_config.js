@@ -1,1 +1,1 @@
-var mnemonic = "neutral rule exhaust easy relax timber giggle fix crash goddess trust relief";
+var mnemonic = "cheese airport wrestle foam digital odor photo dinosaur clutch sniff name weird";

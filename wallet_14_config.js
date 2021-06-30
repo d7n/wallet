@@ -1,1 +1,1 @@
-var mnemonic = "vacant island aware caught draw fold trade barrel monster hill photo gauge";
+var mnemonic = "seed resource embark base still degree rich model era feed victory shrug";

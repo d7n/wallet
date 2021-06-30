@@ -1,1 +1,1 @@
-var mnemonic = "often wrist segment absent nose degree paddle depth benefit hen turkey street";
+var mnemonic = "foam essay fantasy tomorrow lift round foam animal run picture betray public";

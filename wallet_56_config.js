@@ -1,1 +1,1 @@
-var mnemonic = "digital roast million alter giant melt six suit share close myth verb";
+var mnemonic = "inmate debris sport alcohol worth reform upgrade frame giant truly dove journey";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt guitar reopen magnet story rule exchange absent weird negative harbor later";
+var mnemonic = "theory rural seat border park praise video equal flavor space impact buzz";

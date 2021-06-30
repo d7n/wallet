@@ -1,1 +1,1 @@
-var mnemonic = "area special chair lady path relief hungry window quiz collect perfect enact";
+var mnemonic = "disorder click mosquito exercise pitch taxi system lawsuit luxury canvas code gap";

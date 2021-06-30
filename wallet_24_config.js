@@ -1,1 +1,1 @@
-var mnemonic = "since turn velvet turkey foster sausage razor melt salute false hood affair";
+var mnemonic = "about frequent foster code range great easy enemy fury crane split refuse";

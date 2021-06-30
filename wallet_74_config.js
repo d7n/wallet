@@ -1,1 +1,1 @@
-var mnemonic = "diagram copy lizard hen spider relief whisper honey rifle observe bicycle chronic";
+var mnemonic = "garlic drive twice youth able nominee bench enjoy above throw spell craft";

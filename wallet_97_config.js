@@ -1,1 +1,1 @@
-var mnemonic = "just design install ask mercy pear retreat under meat help divert ticket";
+var mnemonic = "plunge obey camera square advice off liquid place tuna advice barely junk";

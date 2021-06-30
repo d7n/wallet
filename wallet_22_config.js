@@ -1,1 +1,1 @@
-var mnemonic = "slot market deer describe film share tank maze midnight window walnut december";
+var mnemonic = "fuel cereal meat smoke evidence budget company such gasp muscle aerobic cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "novel plate mammal dial rule twice embody barely silk melt inner matter";
+var mnemonic = "margin bargain rival nephew stomach benefit eager fever blanket busy receive emotion";

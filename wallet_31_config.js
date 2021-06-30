@@ -1,1 +1,1 @@
-var mnemonic = "mean layer invite swamp knife make until frozen motion quarter cherry biology";
+var mnemonic = "square estate scorpion push blouse setup parade video exact access champion grape";

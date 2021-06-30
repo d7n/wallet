@@ -1,1 +1,1 @@
-var mnemonic = "vocal canoe final question mobile race loyal reveal erosion thing eye swing";
+var mnemonic = "rival lucky clinic notable worry put tooth pave bag middle learn fluid";

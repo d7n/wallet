@@ -1,1 +1,1 @@
-var mnemonic = "kite cake trade replace cloth wine salmon wrap involve bag erode garden";
+var mnemonic = "else arm deliver make solar crop dance garden satoshi flight high shed";

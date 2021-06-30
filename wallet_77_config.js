@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur minor place parade scrap quick crucial neutral upon amazing success lizard";
+var mnemonic = "shrug later trust hidden caution thunder glance record balcony pact purse accuse";

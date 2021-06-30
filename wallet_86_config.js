@@ -1,1 +1,1 @@
-var mnemonic = "more position rough rent book elevator congress inform fossil tuna dolphin spirit";
+var mnemonic = "room wrist soup mule cigar possible gadget wrap artist run client purity";

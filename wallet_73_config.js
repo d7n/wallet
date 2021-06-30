@@ -1,1 +1,1 @@
-var mnemonic = "whale cry shell promote photo alien box tide cancel rather jeans ice";
+var mnemonic = "lunar parent profit plunge erupt wife hungry cover spot boy host vague";

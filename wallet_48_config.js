@@ -1,1 +1,1 @@
-var mnemonic = "item average energy winner eternal join between evolve bulk upon movie shine";
+var mnemonic = "royal veteran mobile art approve erode nuclear orphan jealous skate share flat";

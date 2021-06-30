@@ -1,1 +1,1 @@
-var mnemonic = "make debate digital casual depart law marine trap cake mouse dragon uphold";
+var mnemonic = "tunnel size bicycle erosion asset reject document pitch crystal ordinary invest change";

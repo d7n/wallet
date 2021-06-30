@@ -1,1 +1,1 @@
-var mnemonic = "area grab result cactus body jacket maid rebel planet tail circle shine";
+var mnemonic = "universe tribe light key wool idle lake kick diamond middle hungry exile";

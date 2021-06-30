@@ -1,1 +1,1 @@
-var mnemonic = "siren hill tip spatial worth survey width elevator soul truth mass normal";
+var mnemonic = "firm antique sight gorilla nothing result drive review advance steel toilet apple";

@@ -1,1 +1,1 @@
-var mnemonic = "equal obscure mind circle tennis click grace eager differ prize own gap";
+var mnemonic = "weapon fire light issue aware lunch angry long fun useful account rice";

@@ -1,1 +1,1 @@
-var mnemonic = "april cube caught unfair mesh feature gun deposit trumpet gain surround merit";
+var mnemonic = "surprise federal hover case flat broom moment visual palm bleak fence grace";

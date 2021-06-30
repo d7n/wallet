@@ -1,1 +1,1 @@
-var mnemonic = "subject couch south when urge method insane random air final wink aerobic";
+var mnemonic = "online public cheese lake size nasty essay silver subway ship book garlic";

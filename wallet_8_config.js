@@ -1,1 +1,1 @@
-var mnemonic = "pipe cradle prefer joke correct metal clap oak spare repair dinosaur bronze";
+var mnemonic = "crawl always shuffle valve vintage behave coyote raccoon actress mixed mad top";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt skill lottery satisfy peace express exhibit tragic camera neutral main parent";
+var mnemonic = "multiply vocal reject much welcome ripple inflict salute cement away season anxiety";

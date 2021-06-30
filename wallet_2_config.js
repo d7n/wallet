@@ -1,1 +1,1 @@
-var mnemonic = "stick gentle midnight inquiry bulb silk enlist hamster assume limit chronic fresh";
+var mnemonic = "enforce market unlock amazing shift maximum female peanut moment piano can direct";

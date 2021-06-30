@@ -1,1 +1,1 @@
-var mnemonic = "save gun loyal salon yellow travel doll viable cruise spin issue corn";
+var mnemonic = "evolve list member whisper assume rude clarify ordinary creek poem pumpkin undo";

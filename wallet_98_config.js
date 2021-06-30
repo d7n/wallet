@@ -1,1 +1,1 @@
-var mnemonic = "home police laundry siren logic treat east much plastic deal example arctic";
+var mnemonic = "tilt champion job retreat track fish erosion drill guilt all cereal marine";

@@ -1,1 +1,1 @@
-var mnemonic = "speed envelope birth inject payment certain funny cushion saddle call wheel require";
+var mnemonic = "pumpkin sponsor balance tennis slender ceiling mixture puppy right shift intact gentle";

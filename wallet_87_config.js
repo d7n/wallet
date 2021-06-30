@@ -1,1 +1,1 @@
-var mnemonic = "cloth salt vote shy major brother soap salon brother evolve opera rib";
+var mnemonic = "despair achieve grit clever fatal liquid average repair speak lunch few month";

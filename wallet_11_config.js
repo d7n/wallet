@@ -1,1 +1,1 @@
-var mnemonic = "couple rib wool term please soldier helmet sustain kangaroo deliver quality miss";
+var mnemonic = "benefit van casino second long loop absent grief immune modify enhance dash";

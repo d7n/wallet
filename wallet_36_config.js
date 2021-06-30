@@ -1,1 +1,1 @@
-var mnemonic = "badge design embark veteran wisdom draft afford topple metal estate fashion sail";
+var mnemonic = "economy elephant venture drill code six inhale lounge bulk hawk pupil wrestle";

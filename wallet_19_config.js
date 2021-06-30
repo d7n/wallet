@@ -1,1 +1,1 @@
-var mnemonic = "unaware design repeat inquiry screen access grape pond segment snow pond pen";
+var mnemonic = "sport math grief term plate feel source alter first alpha image only";

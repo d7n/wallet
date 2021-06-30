@@ -1,1 +1,1 @@
-var mnemonic = "depth paddle grab arrive seek ankle install exile flush easily sure session";
+var mnemonic = "resist speak law major fringe unable few affair welcome alarm lunch lobster";

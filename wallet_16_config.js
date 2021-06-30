@@ -1,1 +1,1 @@
-var mnemonic = "tortoise crop offer scare surface armed debate ghost mutual arch weasel illegal";
+var mnemonic = "obscure mystery borrow sister fury minute network dash amused evidence engine divide";

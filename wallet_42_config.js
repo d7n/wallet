@@ -1,1 +1,1 @@
-var mnemonic = "umbrella light hat box kiwi kingdom market catalog frown fence step label";
+var mnemonic = "fog gorilla runway faint aisle wall person abandon loyal carpet embark rally";

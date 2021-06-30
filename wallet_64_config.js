@@ -1,1 +1,1 @@
-var mnemonic = "engage cat pizza green expand what cart gloom category food finger brown";
+var mnemonic = "excess will fish much same fever monkey sword yard economy then youth";

@@ -1,1 +1,1 @@
-var mnemonic = "view power divorce buffalo social abstract verify squirrel they jungle bread road";
+var mnemonic = "cattle copper reopen huge local orchard digital trigger vanish release come tiny";

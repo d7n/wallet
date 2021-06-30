@@ -1,1 +1,1 @@
-var mnemonic = "prepare add company crowd brick south quick museum among sight point film";
+var mnemonic = "ankle hope casual weather tourist check any wedding grain club road sadness";

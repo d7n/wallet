@@ -1,1 +1,1 @@
-var mnemonic = "machine else obey shift remove approve amused burden inject quick pitch year";
+var mnemonic = "idle enlist cattle depth river betray fine vicious put chronic hurt height";

@@ -1,1 +1,1 @@
-var mnemonic = "fee exhibit obey river track behind anxiety champion result best pudding seven";
+var mnemonic = "river vital kidney glory water remember endless lab brand stadium punch agree";

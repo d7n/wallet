@@ -1,1 +1,1 @@
-var mnemonic = "very include cliff lens style lunch wise media chef moon stamp orient";
+var mnemonic = "increase essay consider rely forest must subway truth polar head demise lobster";

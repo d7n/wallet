@@ -1,1 +1,1 @@
-var mnemonic = "topple planet explain uniform way divorce allow hundred essence mad exhaust tired";
+var mnemonic = "tackle hen nice primary gain twelve erosion poet damage mother school rack";

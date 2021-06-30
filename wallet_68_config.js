@@ -1,1 +1,1 @@
-var mnemonic = "shoot pupil fantasy parrot crater harbor charge anger around decorate kitchen owner";
+var mnemonic = "patrol link charge penalty reason cliff mobile exist aisle inhale seek what";
