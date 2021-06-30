@@ -1,1 +1,1 @@
-var mnemonic = "fancy shallow gain cry immense inflict session parade curtain month paddle panic";
+var mnemonic = "usual bullet assist shoot flock palace nuclear tired chest omit empower palace";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain rail job list vague color roast soap embrace path angle film";
+var mnemonic = "sweet afford forget this draft holiday release power fresh practice sausage merry";

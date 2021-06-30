@@ -1,1 +1,1 @@
-var mnemonic = "entry demand armor bunker bundle doll syrup laundry battle course buzz better";
+var mnemonic = "cart exercise street congress manual hazard raw stereo orphan hidden much produce";

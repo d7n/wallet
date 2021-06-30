@@ -1,1 +1,1 @@
-var mnemonic = "dress talent better used endless during double thrive truth hour fever test";
+var mnemonic = "sure report endless mushroom good away vocal gold divide year suspect fog";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery black practice game hurt unfair alley vintage shock engage bitter adjust";
+var mnemonic = "access lady file clip again current sea provide syrup this noble need";

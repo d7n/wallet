@@ -1,1 +1,1 @@
-var mnemonic = "away repair alcohol circle version exact episode shine avoid cradle jump witness";
+var mnemonic = "ivory notice quiz biology shoe spoil surround acid midnight gun satoshi oyster";

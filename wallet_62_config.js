@@ -1,1 +1,1 @@
-var mnemonic = "front during collect address hub praise glimpse sunset toilet veteran material smart";
+var mnemonic = "bottom taste math become satoshi bullet mind earth real face essence enact";

@@ -1,1 +1,1 @@
-var mnemonic = "business game vanish struggle swift churn square end chest snap begin cinnamon";
+var mnemonic = "volcano dismiss north typical kit ivory teach guide song dirt proud carry";

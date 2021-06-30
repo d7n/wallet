@@ -1,1 +1,1 @@
-var mnemonic = "ill identify swing people jelly practice food ostrich sense settle prepare lunar";
+var mnemonic = "wreck double inhale tent cricket donkey stereo eye toe own father make";

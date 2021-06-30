@@ -1,1 +1,1 @@
-var mnemonic = "shock bean route relief teach click comic unlock shield shove chest process";
+var mnemonic = "sound negative rescue live trust remind hawk farm entire degree cycle winter";

@@ -1,1 +1,1 @@
-var mnemonic = "target glance cost sport absurd inspire skin elevator document motor strong skirt";
+var mnemonic = "phrase dice afford zebra skirt tell innocent knock jealous predict setup keen";

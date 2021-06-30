@@ -1,1 +1,1 @@
-var mnemonic = "label scheme lawn poverty onion assault animal shed clay come elite board";
+var mnemonic = "idea dune tragic crisp best symptom defy current alien farm boy season";

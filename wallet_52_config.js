@@ -1,1 +1,1 @@
-var mnemonic = "flat nothing receive clay type bitter proud coyote alley advance battle mobile";
+var mnemonic = "final gadget permit wing build pipe post east position fit comfort soda";

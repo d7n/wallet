@@ -1,1 +1,1 @@
-var mnemonic = "bring inflict crumble sorry hedgehog bless concert drill expect fringe vault finger";
+var mnemonic = "scale talent update village chest poet hurt blind pass patrol issue lift";

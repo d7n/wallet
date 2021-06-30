@@ -1,1 +1,1 @@
-var mnemonic = "peasant visit scene refuse lady urban shine electric illness inform exchange merge";
+var mnemonic = "egg visa beauty coffee normal long acoustic public easily shock right use";

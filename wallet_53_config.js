@@ -1,1 +1,1 @@
-var mnemonic = "ensure parade remind shallow broken pull fiber armed weird clean rail phone";
+var mnemonic = "midnight fuel waste honey another grid bid evolve minute rebel kick case";

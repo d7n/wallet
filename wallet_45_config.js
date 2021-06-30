@@ -1,1 +1,1 @@
-var mnemonic = "candy pulp awake ostrich sting license tongue shell crunch history rifle cute";
+var mnemonic = "luxury treat road reject until rack dad december thumb burden island snow";

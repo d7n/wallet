@@ -1,1 +1,1 @@
-var mnemonic = "spray doll million canoe typical sport virtual pistol boring decline cute piece";
+var mnemonic = "mesh normal critic siege silk three term potato thought strategy elder later";

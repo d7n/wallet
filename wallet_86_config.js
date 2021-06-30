@@ -1,1 +1,1 @@
-var mnemonic = "major hammer gather tissue screen obey morning lion supreme tide eyebrow welcome";
+var mnemonic = "melt scout observe board misery skate swarm alcohol width hawk shed board";

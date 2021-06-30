@@ -1,1 +1,1 @@
-var mnemonic = "unlock slogan pledge assist spring initial dune above giant tube protect monitor";
+var mnemonic = "forum february hire mention hazard friend what between elegant cousin vivid soft";

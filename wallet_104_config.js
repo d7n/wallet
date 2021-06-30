@@ -1,1 +1,1 @@
-var mnemonic = "arch dust lock mean theme hover kangaroo pupil wet deputy flush neglect";
+var mnemonic = "salon retreat video south wish fiscal park wolf industry left shield legend";

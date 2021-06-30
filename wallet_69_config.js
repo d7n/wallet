@@ -1,1 +1,1 @@
-var mnemonic = "together ahead live just couch scatter since vintage table raccoon tired session";
+var mnemonic = "smoke roof spray prison online reduce mercy room shaft define secret coast";

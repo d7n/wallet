@@ -1,1 +1,1 @@
-var mnemonic = "monitor about welcome measure away fork congress chase fresh wink timber fetch";
+var mnemonic = "diamond calm captain hamster fury fiction transfer approve source reason leopard tooth";

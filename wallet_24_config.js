@@ -1,1 +1,1 @@
-var mnemonic = "mad peasant boost next spell capital surface park mango life emotion neck";
+var mnemonic = "favorite delay april tomato bonus eight wait supply universe mix ranch story";

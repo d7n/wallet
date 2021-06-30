@@ -1,1 +1,1 @@
-var mnemonic = "ask market cluster tip example plug verify fortune prison online twenty guess";
+var mnemonic = "tilt record slab option depth bullet noise crunch dwarf attract upon sense";

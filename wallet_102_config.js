@@ -1,1 +1,1 @@
-var mnemonic = "employ movie obtain magnet resource boost chase dry walk athlete rare rate";
+var mnemonic = "alpha tool key build bulk judge frozen verb say vicious mirror gaze";

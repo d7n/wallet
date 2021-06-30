@@ -1,1 +1,1 @@
-var mnemonic = "perfect oil kit pride drip cheese veteran next inherit pluck miracle neutral";
+var mnemonic = "finish young oppose chimney sound into sure fiscal rebel select become avoid";

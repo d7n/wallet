@@ -1,1 +1,1 @@
-var mnemonic = "shaft olive almost behind sadness mule grape squirrel observe glance fury boil";
+var mnemonic = "buffalo chase immense trigger border economy desert galaxy indoor exist copper behind";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance people inmate bless taxi napkin boost plate crawl citizen crop train";
+var mnemonic = "illness mutual enemy section ancient output stand shiver amount lazy laptop near";

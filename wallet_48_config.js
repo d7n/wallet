@@ -1,1 +1,1 @@
-var mnemonic = "valve kid symbol sad firm detect nest penalty box game thought final";
+var mnemonic = "usual modify actress health palace memory inhale swallow banana suggest moment soon";

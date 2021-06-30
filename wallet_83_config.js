@@ -1,1 +1,1 @@
-var mnemonic = "silent unusual spring slender swamp over appear cloth pistol buffalo price moment";
+var mnemonic = "tube thought toast hair clever crash bounce hidden task weekend time elite";

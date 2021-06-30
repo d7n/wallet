@@ -1,1 +1,1 @@
-var mnemonic = "warrior maximum lecture gadget garment wheat join chicken mass unfold salon cycle";
+var mnemonic = "file client true profit upon nerve river wall frequent cross sauce assist";

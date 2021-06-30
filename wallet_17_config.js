@@ -1,1 +1,1 @@
-var mnemonic = "film river hawk venue promote clock velvet salt huge sick manual come";
+var mnemonic = "mask collect vault else phrase please carry save one ankle invite ridge";

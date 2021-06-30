@@ -1,1 +1,1 @@
-var mnemonic = "glass orange develop point plastic clog drastic oblige day tourist chunk symbol";
+var mnemonic = "noble merry coin resist feel jaguar harbor alarm episode easily loyal glow";

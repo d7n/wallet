@@ -1,1 +1,1 @@
-var mnemonic = "aunt lesson foot supply confirm cup piano another steak naive tongue profit";
+var mnemonic = "burden duck shoulder vault where assume flat excite require region luggage youth";

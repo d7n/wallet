@@ -1,1 +1,1 @@
-var mnemonic = "salmon regret tiger evil join alcohol mesh furnace rigid plunge elegant dinner";
+var mnemonic = "rule void plate stable best wisdom oak science traffic napkin purchase liberty";

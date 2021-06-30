@@ -1,1 +1,1 @@
-var mnemonic = "window renew dignity uncle source absent unlock they salute defy lonely doctor";
+var mnemonic = "path party huge bonus omit wrap rebuild card ceiling year upgrade advance";

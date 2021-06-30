@@ -1,1 +1,1 @@
-var mnemonic = "relax wing mother excuse document sense nuclear calm grunt comfort stock angle";
+var mnemonic = "august absent win sun video alley trim slice bitter prevent absorb orchard";

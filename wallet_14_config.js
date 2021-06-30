@@ -1,1 +1,1 @@
-var mnemonic = "jealous slam world pear erosion wrist detail easily walk smoke bike glimpse";
+var mnemonic = "hill approve nuclear patient oppose grunt library rail connect basket cereal board";

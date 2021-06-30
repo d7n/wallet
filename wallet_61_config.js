@@ -1,1 +1,1 @@
-var mnemonic = "wing rich essay stand spring magic assault wire tower diet trial seven";
+var mnemonic = "home elbow song evolve discover card drum cover error this legend lyrics";

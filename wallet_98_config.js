@@ -1,1 +1,1 @@
-var mnemonic = "distance rain around hard push eager toilet price fun twenty usual fork";
+var mnemonic = "check math oven oil arrest broken scout crouch defy daring paddle asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "chase owner violin curious hobby people find enlist onion drip sail welcome";
+var mnemonic = "inform gallery civil perfect loud outside umbrella waste attend cruel runway oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "carry loop three salon stereo fiber denial sauce ability adjust brown regret";
+var mnemonic = "token have foster butter pool crumble picture aerobic ability eternal vessel adjust";

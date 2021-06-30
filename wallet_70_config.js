@@ -1,1 +1,1 @@
-var mnemonic = "isolate auction wild ostrich floor dog pull half idle east void under";
+var mnemonic = "assist gate burger sick wall increase universe stool cycle length donkey rigid";

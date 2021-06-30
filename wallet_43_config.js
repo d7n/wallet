@@ -1,1 +1,1 @@
-var mnemonic = "coin attack peanut pioneer special stone casino wrap slender moon exile ripple";
+var mnemonic = "suit wedding era real breeze point lounge ceiling include leave agree aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "budget boost belt basket cool consider ritual symbol topic anchor polar dynamic";
+var mnemonic = "candy spider tenant notable attend require brain pyramid planet govern gain damage";

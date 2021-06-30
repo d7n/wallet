@@ -1,1 +1,1 @@
-var mnemonic = "collect entry duck spare ozone lesson improve urge animal predict enroll poem";
+var mnemonic = "timber fantasy erosion need photo trouble sudden borrow degree reward process inspire";

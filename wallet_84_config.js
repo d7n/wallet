@@ -1,1 +1,1 @@
-var mnemonic = "manual dutch twenty regular traffic hold abstract husband evidence daughter clock meadow";
+var mnemonic = "army menu young injury license cake list stairs video chicken special bike";

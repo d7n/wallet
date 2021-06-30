@@ -1,1 +1,1 @@
-var mnemonic = "warrior raise call victory enter labor future bleak blanket order frost spirit";
+var mnemonic = "catch boat test shuffle process nut hold energy pelican law cannon drive";

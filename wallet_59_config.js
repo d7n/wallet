@@ -1,1 +1,1 @@
-var mnemonic = "bounce vintage curtain electric december strategy first brick calm expose dynamic fiscal";
+var mnemonic = "juice leg spring mind coyote join churn poet almost blossom appear use";

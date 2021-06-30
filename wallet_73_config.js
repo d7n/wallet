@@ -1,1 +1,1 @@
-var mnemonic = "nerve below gauge dilemma elbow suit laptop merge pledge green security material";
+var mnemonic = "text twist detect budget local palace oxygen group hammer text logic ladder";

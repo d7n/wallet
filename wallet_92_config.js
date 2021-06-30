@@ -1,1 +1,1 @@
-var mnemonic = "fever original wing coffee resource shift cheap innocent receive hamster glue between";
+var mnemonic = "trick when day dance extra square clerk concert shift pattern allow west";

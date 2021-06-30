@@ -1,1 +1,1 @@
-var mnemonic = "south fitness phrase mansion praise knife reopen august clutch worry blue replace";
+var mnemonic = "divert prize chronic warm resemble among exotic alter flee price pluck hello";

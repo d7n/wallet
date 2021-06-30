@@ -1,1 +1,1 @@
-var mnemonic = "canoe clay birth state city wise stock animal core social try type";
+var mnemonic = "immense warm error slim render code midnight monkey genius bag scare escape";

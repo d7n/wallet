@@ -1,1 +1,1 @@
-var mnemonic = "obscure dial someone sustain bread guide tone business aerobic claim digital method";
+var mnemonic = "company bomb whisper car ladder sting offer future frog equip creek heavy";

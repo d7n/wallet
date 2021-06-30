@@ -1,1 +1,1 @@
-var mnemonic = "awesome cook glide bottom liberty case issue walk online bike sting bicycle";
+var mnemonic = "question beef panel focus maze jewel quick episode nerve auto gym display";

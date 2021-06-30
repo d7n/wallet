@@ -1,1 +1,1 @@
-var mnemonic = "orient donor viable frown behave cigar miracle throw decade nothing law ritual";
+var mnemonic = "exit hello hundred lumber damage december powder ugly arrive rescue one buffalo";

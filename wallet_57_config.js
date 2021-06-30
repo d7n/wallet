@@ -1,1 +1,1 @@
-var mnemonic = "smoke involve north horse frost icon scale security velvet black brick plunge";
+var mnemonic = "receive stuff miss orchard window since domain catalog entry stamp arena tennis";

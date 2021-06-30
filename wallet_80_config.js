@@ -1,1 +1,1 @@
-var mnemonic = "prize thumb juice stumble increase radar grunt old soldier master when scare";
+var mnemonic = "grow village limit chunk autumn slide crouch town slush arctic list expire";

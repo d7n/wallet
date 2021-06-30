@@ -1,1 +1,1 @@
-var mnemonic = "royal drop then child donor deer they surround invite other diet order";
+var mnemonic = "cushion island street version undo father street negative alpha purchase soft device";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory easily miss flag common roof sniff ahead nest tumble question swarm";
+var mnemonic = "now magnet squirrel onion velvet baby uncover brown switch capable fragile injury";

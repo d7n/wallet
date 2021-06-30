@@ -1,1 +1,1 @@
-var mnemonic = "multiply divide sure place crash love still very pond monitor venture capital";
+var mnemonic = "pulse picture decide resource soccer special brief stairs axis supply guilt toe";

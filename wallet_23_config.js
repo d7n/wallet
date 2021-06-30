@@ -1,1 +1,1 @@
-var mnemonic = "zone blanket upgrade trigger spy expand pencil stool desert pave talk famous";
+var mnemonic = "outside logic mad wife wise scan obscure eagle crater supreme pony grit";

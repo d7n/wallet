@@ -1,1 +1,1 @@
-var mnemonic = "ranch annual abandon play balcony sorry soldier option able crisp matrix north";
+var mnemonic = "thunder fog pigeon genius explain wild injury danger much nasty rebuild absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "retire decorate panda opinion helmet age term deputy unaware pet run awake";
+var mnemonic = "joke arrange vessel teach resemble warfare exercise prepare enable churn message trim";

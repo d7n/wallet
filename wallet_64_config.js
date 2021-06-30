@@ -1,1 +1,1 @@
-var mnemonic = "spike bright slide kangaroo three jealous zebra impact tilt design kit cage";
+var mnemonic = "brief eternal basic canal neither swap robust movie ocean erase ankle portion";

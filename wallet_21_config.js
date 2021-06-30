@@ -1,1 +1,1 @@
-var mnemonic = "lunch garlic usage donkey script fragile high topic inch exchange obscure cook";
+var mnemonic = "pencil arrow they pyramid salmon trigger convince vocal betray evolve attract puppy";

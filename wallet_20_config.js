@@ -1,1 +1,1 @@
-var mnemonic = "phrase hole inform echo develop drum energy vanish leader spice attend music";
+var mnemonic = "dentist mother brush trophy rebel blur invest copper average clinic cushion mass";

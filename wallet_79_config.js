@@ -1,1 +1,1 @@
-var mnemonic = "suffer horn target west ten clever segment saddle green sketch concert lift";
+var mnemonic = "nature pipe tomato across purse category destroy smooth laundry now found veteran";

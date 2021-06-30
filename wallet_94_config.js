@@ -1,1 +1,1 @@
-var mnemonic = "crush road kid ugly mixed bridge federal exhibit easily gold museum truck";
+var mnemonic = "crush age task brisk youth film brown autumn elite save permit cover";

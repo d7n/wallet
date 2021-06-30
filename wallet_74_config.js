@@ -1,1 +1,1 @@
-var mnemonic = "wrestle hurdle pelican future excite search eight logic panel uncover dinner shrimp";
+var mnemonic = "grief hotel horse satoshi essay barrel junior vast smile grain knife chimney";

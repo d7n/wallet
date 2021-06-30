@@ -1,1 +1,1 @@
-var mnemonic = "come cattle believe exclude behave believe jealous never tortoise sample coffee cheese";
+var mnemonic = "duck aunt goose certain tribe tent delay stairs current bunker zoo much";

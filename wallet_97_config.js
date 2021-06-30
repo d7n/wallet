@@ -1,1 +1,1 @@
-var mnemonic = "essence fatal page right turn shop survey warrior wire crop gauge tape";
+var mnemonic = "any win shoe assault toilet spread glow winter key destroy moment dune";

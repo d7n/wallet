@@ -1,1 +1,1 @@
-var mnemonic = "snap crouch empty wreck ranch lock struggle antenna system scale acquire lava";
+var mnemonic = "either egg leader hollow dust whisper crucial doctor analyst dance dance gospel";

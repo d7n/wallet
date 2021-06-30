@@ -1,1 +1,1 @@
-var mnemonic = "december boat scan start wild police echo congress claw trial tornado age";
+var mnemonic = "surface height hard day property frost advice song toast fever neither spoil";

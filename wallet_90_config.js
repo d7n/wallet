@@ -1,1 +1,1 @@
-var mnemonic = "aisle order lobster swear leaf buzz churn grid all cat rough powder";
+var mnemonic = "found merit plate gadget medal around carpet grid series vanish young search";

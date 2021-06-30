@@ -1,1 +1,1 @@
-var mnemonic = "anchor slide return alone practice answer twist pool blast tissue subway keen";
+var mnemonic = "success then advance citizen evoke dolphin pride velvet common vibrant point melt";

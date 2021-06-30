@@ -1,1 +1,1 @@
-var mnemonic = "evolve adjust dress garment diamond lobster artefact empower zoo fluid during fury";
+var mnemonic = "follow arena clock crime youth crater much artwork sniff order arm glad";

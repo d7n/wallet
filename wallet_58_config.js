@@ -1,1 +1,1 @@
-var mnemonic = "raw box strategy couch catch attack stumble sad mansion angry involve leg";
+var mnemonic = "family card excite poem retreat canoe bulb hat junior dumb result artefact";

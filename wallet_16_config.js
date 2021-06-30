@@ -1,1 +1,1 @@
-var mnemonic = "kind choice pink argue jar voyage message grape banner sword tell scatter";
+var mnemonic = "portion use coyote half hunt middle grain luxury stand return reflect deny";

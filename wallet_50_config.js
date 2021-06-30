@@ -1,1 +1,1 @@
-var mnemonic = "battle able leader caught accuse toy job naive earn ostrich sword naive";
+var mnemonic = "evidence about maximum still paper upset about stick update swift marble sausage";

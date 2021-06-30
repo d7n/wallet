@@ -1,1 +1,1 @@
-var mnemonic = "seat victory impulse away slice acoustic east tennis notice bargain opinion aerobic";
+var mnemonic = "system measure hire cage move hotel laundry state travel rural inhale avoid";

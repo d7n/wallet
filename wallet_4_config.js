@@ -1,1 +1,1 @@
-var mnemonic = "debris private olympic rotate garage scissors anger case token language grunt cage";
+var mnemonic = "pride gesture acid nasty piece concert alpha woman glory ensure melody pretty";

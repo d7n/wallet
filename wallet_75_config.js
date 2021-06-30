@@ -1,1 +1,1 @@
-var mnemonic = "sport lake dolphin dinner screen cloth woman hat unveil tonight furnace core";
+var mnemonic = "soap have short cash denial cable enable protect define bullet only buddy";

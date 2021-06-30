@@ -1,1 +1,1 @@
-var mnemonic = "helmet series work benefit eight thought pet sentence grant coconut capable drastic";
+var mnemonic = "below save desk hawk relax wrap goat erase budget slogan caution isolate";

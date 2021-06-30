@@ -1,1 +1,1 @@
-var mnemonic = "topic hotel define ostrich share piano warfare bracket believe crucial what aware";
+var mnemonic = "thank include dune smooth collect bulk type police satoshi quiz chef fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "hope vast mass round nest trip parade february road kid relax protect";
+var mnemonic = "two slice change coyote winter good zone olympic artefact club range planet";

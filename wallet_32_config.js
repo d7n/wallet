@@ -1,1 +1,1 @@
-var mnemonic = "bike bottom lounge short always crawl immense guide tuna mesh hover hungry";
+var mnemonic = "life ship family mixed team uncle brass child world grain age play";
