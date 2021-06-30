@@ -1,1 +1,1 @@
-var mnemonic = "slim great renew eye degree oppose release chapter enough hospital rough dolphin";
+var mnemonic = "middle regular inner lyrics absent crawl focus chief miss mom identify dial";

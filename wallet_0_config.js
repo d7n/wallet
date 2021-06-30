@@ -1,1 +1,1 @@
-var mnemonic = "level cherry voice island arrow road nurse pact whip lens such bronze";
+var mnemonic = "broken monster gaze else orient math survey twenty economy kick curtain another";

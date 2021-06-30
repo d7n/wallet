@@ -1,1 +1,1 @@
-var mnemonic = "milk regular exhibit lawsuit subway mask exhaust result marriage diesel double train";
+var mnemonic = "indoor portion memory cotton left budget vintage draw broken text wrong paper";

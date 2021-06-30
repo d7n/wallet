@@ -1,1 +1,1 @@
-var mnemonic = "dilemma differ omit prize decrease kidney flash enhance subject damage parrot rocket";
+var mnemonic = "bundle firm rude canvas rubber dawn firm educate purpose seek sad range";

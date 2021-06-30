@@ -1,1 +1,1 @@
-var mnemonic = "turkey title blossom gossip split coyote dash mother dizzy away poem trick";
+var mnemonic = "erode fossil spy group holiday panda knock curious road uniform library grace";

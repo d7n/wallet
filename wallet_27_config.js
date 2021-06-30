@@ -1,1 +1,1 @@
-var mnemonic = "alcohol penalty angle dolphin much social million young yard shaft quantum grape";
+var mnemonic = "normal wood cactus right amused chef weird remove capital comfort gospel palace";

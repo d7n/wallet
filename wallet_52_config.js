@@ -1,1 +1,1 @@
-var mnemonic = "indicate abuse raccoon alcohol girl pretty stone peasant fog network web audit";
+var mnemonic = "wheel drive series sleep distance ice oyster kite dilemma ankle chef slim";

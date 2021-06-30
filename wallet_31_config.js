@@ -1,1 +1,1 @@
-var mnemonic = "brief tiger album cart hair genre camp this mirror coast board palm";
+var mnemonic = "fuel actor metal noise escape update recycle course coconut curious essence toy";

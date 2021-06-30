@@ -1,1 +1,1 @@
-var mnemonic = "thunder expose casino ceiling cook sunset carbon motion mean excuse crawl jump";
+var mnemonic = "gravity diary busy destroy tower special bamboo kiwi athlete story render piece";

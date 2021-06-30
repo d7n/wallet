@@ -1,1 +1,1 @@
-var mnemonic = "feature suggest female quick arctic tobacco busy scissors upgrade congress animal cereal";
+var mnemonic = "vacuum climb milk saddle direct front chaos online day beach grace air";

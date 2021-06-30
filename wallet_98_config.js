@@ -1,1 +1,1 @@
-var mnemonic = "bring false flag life cannon three suspect mirror enjoy panther april edge";
+var mnemonic = "canal grit jump great family rural gown lava derive exact vehicle chat";

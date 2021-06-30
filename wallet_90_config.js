@@ -1,1 +1,1 @@
-var mnemonic = "slab lunar coconut lift myself fame swear frequent furnace entry decline scare";
+var mnemonic = "awake hockey lend smile false spirit cushion exchange pony strategy beef fatigue";

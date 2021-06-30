@@ -1,1 +1,1 @@
-var mnemonic = "jealous harbor develop carbon lake general friend explain earn sail home sunset";
+var mnemonic = "citizen love cotton demand hollow float whisper need federal height candy road";

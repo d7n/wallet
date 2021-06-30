@@ -1,1 +1,1 @@
-var mnemonic = "wet violin ivory awake denial donate cliff cry nice young leader auto";
+var mnemonic = "orphan nation volcano torch interest entire steak empower curtain oven orient cluster";

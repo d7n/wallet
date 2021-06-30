@@ -1,1 +1,1 @@
-var mnemonic = "start pencil lesson inject topple lady seed pulse catch million glory this";
+var mnemonic = "friend gadget like barely reflect enemy inflict danger pyramid wage panda auto";

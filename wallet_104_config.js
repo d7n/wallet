@@ -1,1 +1,1 @@
-var mnemonic = "amateur library cluster vague predict slow toss wash fatal fortune submit hamster";
+var mnemonic = "planet adult fee direct brush adapt arrest soul aerobic often siege exotic";

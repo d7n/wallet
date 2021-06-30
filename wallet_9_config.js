@@ -1,1 +1,1 @@
-var mnemonic = "setup machine obey hospital decide fame bus simple wool shiver viable effort";
+var mnemonic = "bottom banner rice frog kangaroo easy stomach buffalo breeze belt immense sense";

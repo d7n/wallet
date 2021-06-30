@@ -1,1 +1,1 @@
-var mnemonic = "choice rookie problem public present tongue excite verify borrow believe regret ride";
+var mnemonic = "achieve mammal hedgehog notable car vapor brain hat buzz forward damp call";

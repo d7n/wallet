@@ -1,1 +1,1 @@
-var mnemonic = "year choose carry perfect inhale camp zebra gentle century travel void sibling";
+var mnemonic = "clump announce safe script manual cluster basic eyebrow sphere state rural pink";

@@ -1,1 +1,1 @@
-var mnemonic = "demand smile property until toilet again zone kid submit subject rhythm mesh";
+var mnemonic = "credit melody gallery army negative sphere logic light genre under clarify banner";

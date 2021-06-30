@@ -1,1 +1,1 @@
-var mnemonic = "floor grocery rather jewel main claw rapid dog magnet feel chuckle allow";
+var mnemonic = "actual movie goose vital people thrive size liquid view sausage donkey question";

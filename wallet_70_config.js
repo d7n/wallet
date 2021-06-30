@@ -1,1 +1,1 @@
-var mnemonic = "owner trust hill doll service brain harsh cabbage judge banner armed tissue";
+var mnemonic = "manage bridge home cargo broccoli simple desert setup more company insane sketch";

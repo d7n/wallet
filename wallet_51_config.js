@@ -1,1 +1,1 @@
-var mnemonic = "act observe market solar race slow rely build disagree fault increase clinic";
+var mnemonic = "smoke diesel onion recycle owner frost machine tail soap bring pulse expand";

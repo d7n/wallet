@@ -1,1 +1,1 @@
-var mnemonic = "finish arctic gentle input key solid wear blame crack afford stone hero";
+var mnemonic = "wasp saddle exclude tongue swamp satisfy glance zoo use just object various";

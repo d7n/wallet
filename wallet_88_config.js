@@ -1,1 +1,1 @@
-var mnemonic = "dance brain game mandate tail book vote chimney weekend elegant faculty club";
+var mnemonic = "twin lock occur beauty work ostrich evoke helmet water decrease hair holiday";

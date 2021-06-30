@@ -1,1 +1,1 @@
-var mnemonic = "select wish carpet flee trip arrest cute club upgrade keep put frozen";
+var mnemonic = "sauce couple wisdom plug oppose fortune blur cabbage tortoise vivid uncle injury";

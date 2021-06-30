@@ -1,1 +1,1 @@
-var mnemonic = "youth fall success black blast random already tank true parent deny hour";
+var mnemonic = "message grass clog spirit hour abstract sniff excite magnet dawn obscure first";

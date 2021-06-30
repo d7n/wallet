@@ -1,1 +1,1 @@
-var mnemonic = "social toast grain emerge swallow umbrella universe they alpha luggage oval fever";
+var mnemonic = "gorilla quiz holiday vacant bulk weasel wire pledge enjoy garlic shock average";

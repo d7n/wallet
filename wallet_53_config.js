@@ -1,1 +1,1 @@
-var mnemonic = "taxi multiply disagree chest cross proof moon fossil comfort exotic library unusual";
+var mnemonic = "tank balance social bread nasty seek attract fold resource thing panel truth";

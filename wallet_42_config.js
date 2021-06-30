@@ -1,1 +1,1 @@
-var mnemonic = "cotton oil display nut sauce version deputy shop similar switch candy cactus";
+var mnemonic = "small present ostrich rescue rule doctor usage joke benefit afford joke crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "stick swarm album brown dismiss phone demise fresh window moment moon cash";
+var mnemonic = "truly mean summer iron physical square topic act flush chuckle expire poverty";

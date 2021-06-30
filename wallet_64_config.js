@@ -1,1 +1,1 @@
-var mnemonic = "skull kiss amused music brown sketch hurry sad multiply spoon decline castle";
+var mnemonic = "ladder nasty sudden indoor rural asset else elegant melt artwork coil category";

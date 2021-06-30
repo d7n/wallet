@@ -1,1 +1,1 @@
-var mnemonic = "deer front tuition hello know nerve receive spray woman flag wolf lobster";
+var mnemonic = "easily uniform mechanic fatal voyage orbit review salad december olympic walnut hold";

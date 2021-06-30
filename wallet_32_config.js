@@ -1,1 +1,1 @@
-var mnemonic = "initial mask oxygen flame crack winter act system empower buffalo render canal";
+var mnemonic = "gentle current help between original pass office copper advice dream lunar miracle";

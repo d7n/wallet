@@ -1,1 +1,1 @@
-var mnemonic = "survey allow estate alert canoe mixed boss faint frame honey uphold reward";
+var mnemonic = "speak attitude mask fix document then coast ride true belt brief despair";

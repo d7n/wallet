@@ -1,1 +1,1 @@
-var mnemonic = "breeze this seat agent shoe impose switch exercise fragile heart orphan crew";
+var mnemonic = "habit display pulse abandon pond ribbon run announce burger wheat crisp tuna";

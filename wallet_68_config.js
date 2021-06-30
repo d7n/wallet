@@ -1,1 +1,1 @@
-var mnemonic = "portion minute plug winner table benefit crowd board aisle foot risk energy";
+var mnemonic = "chuckle put huge elite beef admit dignity erupt urban bronze rival have";

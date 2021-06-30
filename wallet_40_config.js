@@ -1,1 +1,1 @@
-var mnemonic = "moral lumber monitor village glare enforce very leader claim match enjoy height";
+var mnemonic = "someone shuffle portion cannon unfold marble flight response uniform blush census save";

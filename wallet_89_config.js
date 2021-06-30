@@ -1,1 +1,1 @@
-var mnemonic = "toilet second poem vital pole present wire dune tackle jazz cabin frown";
+var mnemonic = "favorite chase vital rare what brush forget like speed long usual math";

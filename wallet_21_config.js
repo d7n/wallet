@@ -1,1 +1,1 @@
-var mnemonic = "chaos hawk earn repeat female cave captain basic venture dance exclude express";
+var mnemonic = "burger again offer motion antenna finish south cannon fossil tumble gold coconut";

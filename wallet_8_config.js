@@ -1,1 +1,1 @@
-var mnemonic = "rib cause aunt tragic chest puzzle cereal trend pudding cart chef kitchen";
+var mnemonic = "enact cream return wrap pride during choice poet idea spoil unlock loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "setup parent work grab hard unaware olive pulse knee coil fork foil";
+var mnemonic = "tip thing forum coyote pipe clay vital pledge edge lion surround ghost";

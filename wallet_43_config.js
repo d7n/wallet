@@ -1,1 +1,1 @@
-var mnemonic = "own forget unique snow adapt elite town glow between special paddle stuff";
+var mnemonic = "convince decrease way all custom tragic position rain example armed harsh security";

@@ -1,1 +1,1 @@
-var mnemonic = "earn endorse skill topple expose lonely slight jelly orphan exact version ship";
+var mnemonic = "curtain blast series cart merry skull pattern road mammal fruit cycle evolve";

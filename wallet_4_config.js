@@ -1,1 +1,1 @@
-var mnemonic = "idle absorb burden apology reduce food love rigid enough father squeeze canal";
+var mnemonic = "defy asset fiction present purse trade delay much stand guilt note joke";

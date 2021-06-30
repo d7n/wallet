@@ -1,1 +1,1 @@
-var mnemonic = "small library chunk spin gain ostrich escape hidden expand voyage gaze pink";
+var mnemonic = "exclude track oppose estate task vacant fresh direct shove oval embrace ability";

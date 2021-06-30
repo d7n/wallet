@@ -1,1 +1,1 @@
-var mnemonic = "glance insane foam level faculty caught ill solution brief brush capital announce";
+var mnemonic = "talk gap baby balance skirt salt hunt lunch nose dice wait ten";

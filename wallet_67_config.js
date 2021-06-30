@@ -1,1 +1,1 @@
-var mnemonic = "youth globe reform timber pig pledge energy weekend unable target lend man";
+var mnemonic = "sauce offer survey marine tumble produce local top chef print scatter skill";

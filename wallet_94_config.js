@@ -1,1 +1,1 @@
-var mnemonic = "caution inform neutral knife fragile crumble wall employ sound myself salute street";
+var mnemonic = "alert prosper jealous face clap enroll stem curtain amazing say afraid result";

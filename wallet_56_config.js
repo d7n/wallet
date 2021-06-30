@@ -1,1 +1,1 @@
-var mnemonic = "gossip side rebel final grant merry grab bracket child appear cycle struggle";
+var mnemonic = "oval horror clown knock zebra exact jazz rally man grocery embody chief";

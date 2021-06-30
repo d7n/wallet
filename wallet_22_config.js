@@ -1,1 +1,1 @@
-var mnemonic = "ordinary dune apart excess police demand tuna scheme kiwi nurse train potato";
+var mnemonic = "submit sand bunker exotic chest walnut refuse limb wrap duty barely tube";

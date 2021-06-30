@@ -1,1 +1,1 @@
-var mnemonic = "arena leave stereo bamboo yellow run unlock confirm settle bar year enjoy";
+var mnemonic = "child razor protect isolate entire category hello save success frog document wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "desert number olympic start auto mind knife hobby mouse rare cabbage wonder";
+var mnemonic = "buddy liar exotic since ready attend clerk noise congress boil vehicle absorb";

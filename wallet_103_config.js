@@ -1,1 +1,1 @@
-var mnemonic = "diesel flock today giggle steel duty lesson thunder swarm remain okay street";
+var mnemonic = "equip grocery worth school foot property finger dilemma crouch galaxy glare sign";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt spoil near gloom heart carbon learn bicycle gate electric arrange can";
+var mnemonic = "nuclear swamp tattoo used curious page figure when fever dynamic upset aunt";

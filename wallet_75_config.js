@@ -1,1 +1,1 @@
-var mnemonic = "rescue retreat outdoor popular version pen fresh topic infant economy spin glass";
+var mnemonic = "sausage option dutch decline practice helmet air limb soldier cluster twenty rebel";

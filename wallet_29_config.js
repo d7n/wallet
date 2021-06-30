@@ -1,1 +1,1 @@
-var mnemonic = "install spy slide elbow release catch odor enhance stay plate girl episode";
+var mnemonic = "harsh approve plate wait choice describe fade minimum rude brush beef dad";

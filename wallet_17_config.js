@@ -1,1 +1,1 @@
-var mnemonic = "crop volcano trust egg high donor cinnamon usage save surprise armor visual";
+var mnemonic = "fence permit mean pumpkin donate defense kiss figure middle you casual stamp";

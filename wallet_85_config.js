@@ -1,1 +1,1 @@
-var mnemonic = "track twist practice flower lion ghost evil bonus lens congress weasel comic";
+var mnemonic = "upset talent practice couple noodle engage hybrid sibling only nose brown sheriff";

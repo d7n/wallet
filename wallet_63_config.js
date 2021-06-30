@@ -1,1 +1,1 @@
-var mnemonic = "employ sudden insane meat orchard mango asthma juice spot skirt key shoulder";
+var mnemonic = "mass risk tag ecology pledge about dad popular observe wait unfold limit";

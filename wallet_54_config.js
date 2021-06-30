@@ -1,1 +1,1 @@
-var mnemonic = "energy dolphin major half weird unusual visa dove brand spice amateur boil";
+var mnemonic = "point boost craft sword sister again finger response absent nuclear under surface";

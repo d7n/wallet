@@ -1,1 +1,1 @@
-var mnemonic = "fitness good mirror fog rough then shop crouch claim bracket jump bulb";
+var mnemonic = "glimpse chat car spoon party chalk survey sorry pipe sick crunch topple";

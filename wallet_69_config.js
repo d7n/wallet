@@ -1,1 +1,1 @@
-var mnemonic = "trial another loop rally dial lunch visual unable vacant gravity crucial orbit";
+var mnemonic = "timber hero base vital judge gallery devote uphold often shine mesh enough";

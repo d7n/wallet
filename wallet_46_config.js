@@ -1,1 +1,1 @@
-var mnemonic = "happy olive skin olive rose wagon quick history disorder base talk mutual";
+var mnemonic = "faith review flat recycle awake lumber brisk figure giraffe renew equal absent";

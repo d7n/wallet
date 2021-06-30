@@ -1,1 +1,1 @@
-var mnemonic = "volume family invest sing stone unusual appear treat nothing predict door regular";
+var mnemonic = "phrase lift guide wrong coffee addict liberty leaf scheme stereo cigar sniff";

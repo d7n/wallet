@@ -1,1 +1,1 @@
-var mnemonic = "lawn maximum magic cruel isolate amount tumble firm armed old goat beef";
+var mnemonic = "gun awake blind sniff lunch link mandate recycle acoustic install minor great";

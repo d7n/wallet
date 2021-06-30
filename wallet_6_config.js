@@ -1,1 +1,1 @@
-var mnemonic = "bubble melt need near cup vehicle say mandate bridge laundry review update";
+var mnemonic = "hurdle churn grief crisp machine marine amazing only base news drift absent";

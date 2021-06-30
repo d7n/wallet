@@ -1,1 +1,1 @@
-var mnemonic = "canvas level monitor short habit dragon suspect wrong amateur mix can draw";
+var mnemonic = "ill bone field mystery clay prepare beauty consider upset chronic cherry immune";

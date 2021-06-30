@@ -1,1 +1,1 @@
-var mnemonic = "shoot congress estate analyst exclude impact pair misery agree climb wave letter";
+var mnemonic = "depend swear jelly click team can onion depart apology grass beef craft";

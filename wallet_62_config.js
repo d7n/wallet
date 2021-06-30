@@ -1,1 +1,1 @@
-var mnemonic = "excuse own point visa much output gauge leg mistake soda develop priority";
+var mnemonic = "tonight orbit present manual vivid wear hazard actress frequent super chalk enough";

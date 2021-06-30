@@ -1,1 +1,1 @@
-var mnemonic = "test acquire unit panel curtain pudding tornado cover history force doctor subject";
+var mnemonic = "borrow move face anxiety find trial album museum hold hour report keep";

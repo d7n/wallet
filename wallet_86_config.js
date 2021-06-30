@@ -1,1 +1,1 @@
-var mnemonic = "tent impact print again tiny lemon wave dumb unit abandon hub rookie";
+var mnemonic = "diagram chef grain subway jazz mechanic change spy north napkin penalty spare";

@@ -1,1 +1,1 @@
-var mnemonic = "snow rural craft romance pistol swift bamboo between pass dwarf organ trim";
+var mnemonic = "bread vibrant club indoor wine response ranch metal loop glare snap flash";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton enough fever fire extend car fetch metal dynamic coil enact again";
+var mnemonic = "tone account render cement genre party all column flash orphan taste orient";

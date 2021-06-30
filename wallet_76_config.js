@@ -1,1 +1,1 @@
-var mnemonic = "choice pact wagon orbit swallow twin silent shoe foot tide equal alley";
+var mnemonic = "attract mistake home brand swear dial mobile image garden defy body weather";

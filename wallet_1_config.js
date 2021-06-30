@@ -1,1 +1,1 @@
-var mnemonic = "enemy pigeon school miracle jaguar chat say matrix wrap educate zone phrase";
+var mnemonic = "boy monster jealous wide jeans off cruel scatter snack page tent solution";

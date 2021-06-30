@@ -1,1 +1,1 @@
-var mnemonic = "afford damp achieve dentist route black delay intact act hotel fatal angry";
+var mnemonic = "broccoli update craft moon sign midnight clever filter dune horror walk liberty";

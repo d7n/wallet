@@ -1,1 +1,1 @@
-var mnemonic = "again verify daring abuse easily grab enroll above inject scene shaft spoil";
+var mnemonic = "bitter idea ill goddess smile hungry later truck palm solve climb lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid business exile vocal fit orient now top furnace afraid issue diary";
+var mnemonic = "public code sentence history hen tone resemble keep ability improve project unknown";

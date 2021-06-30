@@ -1,1 +1,1 @@
-var mnemonic = "verify later flip squirrel one average uncover relief bundle jacket tone robot";
+var mnemonic = "inch grain upper skin very sphere agree speak drip report hidden tourist";

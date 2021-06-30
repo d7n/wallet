@@ -1,1 +1,1 @@
-var mnemonic = "casino limit drive link unaware purse chief occur latin rack wheel collect";
+var mnemonic = "hair major they again fluid sword easily hunt crowd squeeze iron room";

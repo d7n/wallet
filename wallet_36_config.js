@@ -1,1 +1,1 @@
-var mnemonic = "cycle type trade weasel govern fog flush trash cotton wedding tomato profit";
+var mnemonic = "gasp local motion tent suit divorce wish lawn negative choice maze wealth";

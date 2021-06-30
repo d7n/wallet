@@ -1,1 +1,1 @@
-var mnemonic = "vocal wife art toast toilet stadium thank item purse palm decide will";
+var mnemonic = "narrow fetch accident wrap dutch exact response hip wrap sleep bleak drink";

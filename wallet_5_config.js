@@ -1,1 +1,1 @@
-var mnemonic = "again misery allow horn parrot sun bright start hundred flash drop child";
+var mnemonic = "increase true primary purse sand leaf wreck sphere fortune exact culture portion";

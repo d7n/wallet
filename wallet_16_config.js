@@ -1,1 +1,1 @@
-var mnemonic = "fashion fit icon gallery sail tower plate evil dove damage clever distance";
+var mnemonic = "zebra heart olympic city ketchup derive gaze cradle fatal there radar prepare";

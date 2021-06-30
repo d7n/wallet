@@ -1,1 +1,1 @@
-var mnemonic = "series danger dove silver question scale swallow seat stove catch zone casino";
+var mnemonic = "letter loyal million hidden verb satisfy glare airport wedding invest salon deal";

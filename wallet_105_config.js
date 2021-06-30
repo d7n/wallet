@@ -1,1 +1,1 @@
-var mnemonic = "reward shift monitor carpet total fantasy chaos chaos legend edge evidence shuffle";
+var mnemonic = "attitude truck vapor ketchup penalty spare coffee cactus afraid pause first sort";

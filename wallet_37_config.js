@@ -1,1 +1,1 @@
-var mnemonic = "dinner silk tribe clog actress you kangaroo antenna city tobacco filter book";
+var mnemonic = "chunk cereal goddess dawn utility trend race artist emerge boil dizzy oven";

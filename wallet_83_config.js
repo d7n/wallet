@@ -1,1 +1,1 @@
-var mnemonic = "ritual owner glide snack noble amount fish pistol can tiny biology unhappy";
+var mnemonic = "morning text sail service north debate swamp slab novel industry need noise";

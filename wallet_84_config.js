@@ -1,1 +1,1 @@
-var mnemonic = "rate knock spider plate enroll position aim february canvas upset entry expire";
+var mnemonic = "raw people predict crew unable tape album rookie shadow dignity crowd lesson";
