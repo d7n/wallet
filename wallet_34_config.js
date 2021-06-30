@@ -1,1 +1,1 @@
-var mnemonic = "hire stable endorse junk coconut switch city high wheel heart joy mistake";
+var mnemonic = "obtain invest lucky ladder lawn random egg rocket shell interest gauge infant";

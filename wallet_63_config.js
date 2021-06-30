@@ -1,1 +1,1 @@
-var mnemonic = "wear element club physical scare aisle jacket shock final fatal unusual casino";
+var mnemonic = "tennis endless output will sign vast share verify jump already human favorite";

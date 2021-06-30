@@ -1,1 +1,1 @@
-var mnemonic = "science toward quote advance mirror limit salmon member brick weekend ankle crowd";
+var mnemonic = "castle auction tuition bamboo silk defense lift wrist gun lizard month visa";

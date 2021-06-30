@@ -1,1 +1,1 @@
-var mnemonic = "pause toast govern loyal smooth neutral reunion latin dog spell acquire little";
+var mnemonic = "vocal city approve plate coral decline myth kiss involve nature volume record";

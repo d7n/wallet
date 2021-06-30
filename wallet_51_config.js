@@ -1,1 +1,1 @@
-var mnemonic = "banner flag frame envelope spin course wisdom use employ live sense abstract";
+var mnemonic = "risk drip pelican marine venture jaguar travel usage right knife taxi network";

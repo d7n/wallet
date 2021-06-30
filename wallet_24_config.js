@@ -1,1 +1,1 @@
-var mnemonic = "theory this radar bridge neck coral mule weird again grocery say laugh";
+var mnemonic = "chapter defense trial marriage stove achieve plate joke chef thing pig critic";

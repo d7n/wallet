@@ -1,1 +1,1 @@
-var mnemonic = "language scale elephant prize neither drum near skate they common tunnel industry";
+var mnemonic = "yellow cloth wife innocent sample vocal lonely quality buzz labor crash daughter";

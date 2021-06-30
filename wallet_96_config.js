@@ -1,1 +1,1 @@
-var mnemonic = "glimpse fiction raccoon bracket target photo sword group culture trim answer trouble";
+var mnemonic = "diary junk potato neck sentence dutch depart palace decorate burst siege oval";

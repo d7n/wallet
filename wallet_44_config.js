@@ -1,1 +1,1 @@
-var mnemonic = "fortune color chat program defy split loyal hurt visa pond cupboard magnet";
+var mnemonic = "client maple fruit welcome leaf tennis reopen work tourist evil magnet soccer";

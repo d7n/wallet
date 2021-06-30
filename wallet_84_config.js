@@ -1,1 +1,1 @@
-var mnemonic = "crunch nasty chimney acquire velvet awake few maid vital capable bonus beach";
+var mnemonic = "air steak asset wonder nice wolf analyst jelly legal cereal south spare";

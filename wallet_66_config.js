@@ -1,1 +1,1 @@
-var mnemonic = "cargo ignore drip dentist debate labor spawn orphan blast used catch outdoor";
+var mnemonic = "mammal zero penalty front critic east help giraffe play fox expect horn";

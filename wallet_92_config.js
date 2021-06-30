@@ -1,1 +1,1 @@
-var mnemonic = "process room shrimp latin snap surround tube stadium swamp flash debate impose";
+var mnemonic = "afraid perfect fuel giggle bottom bachelor shock broom service unaware grocery change";

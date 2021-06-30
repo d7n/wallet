@@ -1,1 +1,1 @@
-var mnemonic = "sort asthma tool diet section parent evidence empower gym price choice mass";
+var mnemonic = "flat sure category admit portion step subway peace lion orbit balcony blouse";

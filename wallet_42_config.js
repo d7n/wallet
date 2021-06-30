@@ -1,1 +1,1 @@
-var mnemonic = "success course patient rely captain draft hamster hospital animal wish swim usage";
+var mnemonic = "injury spread zoo erode pull amazing large witness label mix exotic velvet";

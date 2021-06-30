@@ -1,1 +1,1 @@
-var mnemonic = "prevent six black miracle love beyond stock dry barrel alpha fringe dragon";
+var mnemonic = "critic cushion speak viable head axis gauge picnic neck fence panic capable";

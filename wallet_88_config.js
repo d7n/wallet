@@ -1,1 +1,1 @@
-var mnemonic = "local steak journey future aware decrease army denial wish settle sight blue";
+var mnemonic = "imitate beyond exit crater average leopard myself simple mandate note bench flavor";

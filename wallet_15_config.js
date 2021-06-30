@@ -1,1 +1,1 @@
-var mnemonic = "front random rice tortoise grant online size arrest zone divide number mixed";
+var mnemonic = "food cousin hello lion fever timber mountain model actual book flush cloth";

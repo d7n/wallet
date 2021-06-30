@@ -1,1 +1,1 @@
-var mnemonic = "depend reform pattern unveil live trash tray surface wasp replace jacket drink";
+var mnemonic = "museum alien grief salute pill have ribbon catch sheriff project intact stone";

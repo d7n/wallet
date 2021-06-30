@@ -1,1 +1,1 @@
-var mnemonic = "hurdle myself soul weasel shop stove blush inch plate health increase ridge";
+var mnemonic = "zoo floor weather holiday purity thrive debate damp gravity mountain negative thrive";

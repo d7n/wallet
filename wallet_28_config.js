@@ -1,1 +1,1 @@
-var mnemonic = "public impact song double benefit mail enhance net agent control utility climb";
+var mnemonic = "pioneer evoke sweet miss juice unhappy theme quality turkey family song one";

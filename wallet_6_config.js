@@ -1,1 +1,1 @@
-var mnemonic = "now setup hub medal filter custom unusual talent rent switch reflect volcano";
+var mnemonic = "segment shallow forget sword remember win repair select elevator loop parrot car";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics resemble advice release tree flight federal hidden broken dawn term rich";
+var mnemonic = "excite idle typical betray wear predict icon slice smooth used blind ready";

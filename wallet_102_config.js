@@ -1,1 +1,1 @@
-var mnemonic = "burden often vibrant alone cart want trend twin lottery spoon safe carry";
+var mnemonic = "melt despair inch gallery height swarm section matter neglect spray blanket amazing";

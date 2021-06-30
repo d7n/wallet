@@ -1,1 +1,1 @@
-var mnemonic = "party recycle love enlist high tenant cage predict debris away like hotel";
+var mnemonic = "bench safe elbow sustain bicycle abstract royal arm this real card tip";

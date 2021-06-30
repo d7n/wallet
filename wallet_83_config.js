@@ -1,1 +1,1 @@
-var mnemonic = "blouse bunker sheriff topple winter fetch current payment elder video shove february";
+var mnemonic = "snake attract fun ready divert honey lazy electric ready trick size tape";

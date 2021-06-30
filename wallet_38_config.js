@@ -1,1 +1,1 @@
-var mnemonic = "great crane photo neutral blind owner argue enact age modify orient danger";
+var mnemonic = "tomato room they virtual category become come strategy arrow improve menu kit";

@@ -1,1 +1,1 @@
-var mnemonic = "series cage curtain artwork put powder cat tube cotton grape note club";
+var mnemonic = "index trade blade resource clerk power identify dentist delay defense pilot victory";

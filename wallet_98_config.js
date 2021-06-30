@@ -1,1 +1,1 @@
-var mnemonic = "man travel actress beyond candy canyon wonder trophy old genre special spy";
+var mnemonic = "opinion elbow giraffe clay nephew hollow cat usage exhibit measure craft rigid";

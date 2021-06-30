@@ -1,1 +1,1 @@
-var mnemonic = "gym tip wood rich slot solar rail smart fluid miracle exhibit sting";
+var mnemonic = "hand actress top wait supreme surprise penalty myself label erode tool junk";

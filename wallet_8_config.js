@@ -1,1 +1,1 @@
-var mnemonic = "ask ask symptom fuel canyon engine palace civil idea thunder lottery ignore";
+var mnemonic = "crazy ceiling always access adapt apart labor tragic pulp treat fun word";

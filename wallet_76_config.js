@@ -1,1 +1,1 @@
-var mnemonic = "size sausage inject term power away one hello harvest cave apart sketch";
+var mnemonic = "turtle despair fine filter away merge story sunny build piece appear panther";

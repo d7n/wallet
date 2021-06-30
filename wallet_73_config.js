@@ -1,1 +1,1 @@
-var mnemonic = "river awesome grab flush meadow else still portion black chuckle elevator chicken";
+var mnemonic = "expire family sing orphan pepper negative affair gorilla party attend predict pledge";

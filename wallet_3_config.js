@@ -1,1 +1,1 @@
-var mnemonic = "shoulder chair enable charge velvet machine amateur put rather cash duty image";
+var mnemonic = "focus disagree accident stairs that erode fame average good unique ahead volume";

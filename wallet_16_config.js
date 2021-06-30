@@ -1,1 +1,1 @@
-var mnemonic = "once note kangaroo scan surround screen picnic water artwork harbor network height";
+var mnemonic = "manual barrel frost brand board fresh hospital over treat summer nerve timber";

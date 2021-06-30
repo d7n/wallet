@@ -1,1 +1,1 @@
-var mnemonic = "ozone sport skill age clutch clip column sadness brain solid jealous ocean";
+var mnemonic = "muffin edit abstract burger tomato ocean squirrel guitar library family warfare frog";

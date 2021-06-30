@@ -1,1 +1,1 @@
-var mnemonic = "move left taste vacuum carbon bottom fence mixed adult august happy bench";
+var mnemonic = "width local sadness evolve lazy lion slender option spoon correct island chase";

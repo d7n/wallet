@@ -1,1 +1,1 @@
-var mnemonic = "harbor venture chair strategy rude loud attend napkin find undo swing nominee";
+var mnemonic = "tribe fiscal birth helmet develop atom black kidney coast grace soon sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "visit catalog curtain service sample tumble marine scorpion abuse awkward announce film";
+var mnemonic = "sudden trash shoe cash fame broom delay congress enforce make round burger";

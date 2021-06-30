@@ -1,1 +1,1 @@
-var mnemonic = "index dutch desert hold supply file either emotion economy victory impose hybrid";
+var mnemonic = "ethics attend item almost pencil ignore sentence reflect punch blouse eye tourist";

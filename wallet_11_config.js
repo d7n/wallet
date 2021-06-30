@@ -1,1 +1,1 @@
-var mnemonic = "stuff energy chalk route vehicle settle where reason prison slim million evil";
+var mnemonic = "best any fiction team funny sausage flock know middle negative bleak joke";

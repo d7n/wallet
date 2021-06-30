@@ -1,1 +1,1 @@
-var mnemonic = "toast measure member tobacco lawsuit return balance grow cushion sock dragon board";
+var mnemonic = "argue project rough antenna skull squeeze group shoot wish burden vocal grace";

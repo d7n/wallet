@@ -1,1 +1,1 @@
-var mnemonic = "expect make task control solution fish boring name notable sibling topic clerk";
+var mnemonic = "arrow wet nest mountain grain agree fee allow picnic rose apple run";

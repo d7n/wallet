@@ -1,1 +1,1 @@
-var mnemonic = "journey gas rug rule rude online anxiety loud cake model unveil squirrel";
+var mnemonic = "pet romance weather toe affair defy wool swift symbol middle april indoor";

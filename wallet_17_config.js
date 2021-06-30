@@ -1,1 +1,1 @@
-var mnemonic = "open virtual sound strike october order then exhibit census grant gauge dune";
+var mnemonic = "deposit dial fluid foster army sketch absent avocado wage vanish scorpion actual";

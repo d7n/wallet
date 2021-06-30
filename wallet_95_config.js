@@ -1,1 +1,1 @@
-var mnemonic = "vehicle whip coast grain surprise find near cabbage repair inquiry alter knee";
+var mnemonic = "certain pig impose small knee swarm meat paper onion milk trip blast";

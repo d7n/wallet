@@ -1,1 +1,1 @@
-var mnemonic = "collect car dinner elder faculty bid ability cabbage tomato have health rack";
+var mnemonic = "bar agent detail bar floor recycle large category patrol walk hawk chicken";

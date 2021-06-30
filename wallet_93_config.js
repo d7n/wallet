@@ -1,1 +1,1 @@
-var mnemonic = "alien together coach below purse flame tray rookie trial post cage trade";
+var mnemonic = "keep exotic add any dawn depart advice discover wild bronze gas piece";

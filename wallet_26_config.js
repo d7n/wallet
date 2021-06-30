@@ -1,1 +1,1 @@
-var mnemonic = "power addict title bridge baby jazz behave exist city dish muscle safe";
+var mnemonic = "income illegal defense fatal field amazing primary swing myself veteran pipe steak";

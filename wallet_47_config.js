@@ -1,1 +1,1 @@
-var mnemonic = "describe capital fresh consider final rotate rose oven tiny lady coral knife";
+var mnemonic = "legend design cancel soccer fault ask olive achieve liar pass age token";

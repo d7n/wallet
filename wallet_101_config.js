@@ -1,1 +1,1 @@
-var mnemonic = "leader end observe simple scare orange device empower shrimp ridge guide kite";
+var mnemonic = "cause auto walk library discover budget slam night verb nut broom desert";

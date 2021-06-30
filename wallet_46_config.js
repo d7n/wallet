@@ -1,1 +1,1 @@
-var mnemonic = "orbit novel inspire bubble picnic expand express steel flash chase leaf pole";
+var mnemonic = "garage wisdom barely pattern armed token manual another monster journey glass rapid";

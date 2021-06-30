@@ -1,1 +1,1 @@
-var mnemonic = "busy draft dust corn belt poverty situate fame domain wealth ecology couch";
+var mnemonic = "quit moon pattern hawk heart visa bleak use runway series mango clean";

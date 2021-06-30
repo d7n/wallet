@@ -1,1 +1,1 @@
-var mnemonic = "type reform flame paddle base palm drink state job fan drink subway";
+var mnemonic = "grace live prefer today road accident gap media possible rifle private cave";

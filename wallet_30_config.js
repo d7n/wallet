@@ -1,1 +1,1 @@
-var mnemonic = "dwarf erosion cruel decline lava layer purity reveal print arm boat become";
+var mnemonic = "material finger lemon mouse column dad pig warrior identify display junk develop";

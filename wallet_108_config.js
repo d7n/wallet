@@ -1,1 +1,1 @@
-var mnemonic = "apart warfare wonder deputy sniff become believe mad solution silly bridge delay";
+var mnemonic = "flock run eagle inherit charge hire visual mosquito drip genre trade mix";

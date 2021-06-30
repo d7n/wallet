@@ -1,1 +1,1 @@
-var mnemonic = "gloom athlete denial help want agree pumpkin hub eternal copy job enrich";
+var mnemonic = "party taxi make pioneer salmon slush edit decide minute dose hub barely";

@@ -1,1 +1,1 @@
-var mnemonic = "betray village benefit ripple reflect announce input tomorrow result tongue ill boy";
+var mnemonic = "kite pretty flower brother mother legend dwarf exchange swarm tired eternal sweet";

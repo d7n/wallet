@@ -1,1 +1,1 @@
-var mnemonic = "aerobic coral snow doctor hover cotton police bid during enemy auction include";
+var mnemonic = "spirit image custom park inherit logic brief heavy scissors crime stamp screen";

@@ -1,1 +1,1 @@
-var mnemonic = "motion wonder leaf inner rival erase basic health citizen spin address canal";
+var mnemonic = "aim satoshi liquid spray toe foam artefact seek enter era spin inherit";

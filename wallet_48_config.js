@@ -1,1 +1,1 @@
-var mnemonic = "increase just expire author inform rigid lend garbage bean park cross vote";
+var mnemonic = "rib silly genuine solid dog oxygen hint spell guard west rib bounce";

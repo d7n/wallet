@@ -1,1 +1,1 @@
-var mnemonic = "pigeon width voyage dolphin social kingdom save lobster rely early when home";
+var mnemonic = "faculty kick column material recipe honey artist coin mom mystery head fit";

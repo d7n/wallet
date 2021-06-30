@@ -1,1 +1,1 @@
-var mnemonic = "vanish review season soap ahead twenty room few race shadow post elite";
+var mnemonic = "dismiss symbol indicate huge scene cabbage twist match glimpse power kite luggage";

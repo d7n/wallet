@@ -1,1 +1,1 @@
-var mnemonic = "clown else acid ball start kidney today smart average small pattern end";
+var mnemonic = "glance lawsuit cause hurry supply million claim bid ball print weapon wash";

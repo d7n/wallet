@@ -1,1 +1,1 @@
-var mnemonic = "catalog salon solid connect letter wild derive joy clown kite among spy";
+var mnemonic = "economy chief room around chief random wisdom actual dry enrich weird gym";

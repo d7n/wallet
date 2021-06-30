@@ -1,1 +1,1 @@
-var mnemonic = "beach atom mimic faculty team kite example price trade trumpet cart deposit";
+var mnemonic = "win axis polar easily quick ethics rare misery tooth pet bicycle split";

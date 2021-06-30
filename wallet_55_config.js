@@ -1,1 +1,1 @@
-var mnemonic = "tape color choice cattle arrive worth inmate street unusual caught farm time";
+var mnemonic = "purpose force upgrade palm topic oxygen tomato risk genius grunt chicken saddle";

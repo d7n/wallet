@@ -1,1 +1,1 @@
-var mnemonic = "adult puppy first bid wrap join since calm access arch butter diagram";
+var mnemonic = "wine dog current side clarify half box benefit april boat exit zero";

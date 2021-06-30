@@ -1,1 +1,1 @@
-var mnemonic = "coyote merit muscle floor illness wonder monitor neutral gorilla table manage gravity";
+var mnemonic = "duty napkin pretty erode museum ask they butter firm hawk another measure";

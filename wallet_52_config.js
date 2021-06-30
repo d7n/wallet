@@ -1,1 +1,1 @@
-var mnemonic = "mandate depend inject digital lucky output around effort all faint poet tuition";
+var mnemonic = "basic lava brown hotel habit because require oak regular top chicken merit";

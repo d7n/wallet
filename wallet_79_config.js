@@ -1,1 +1,1 @@
-var mnemonic = "frog inform whisper equal virus gentle happy object alien coin blush modify";
+var mnemonic = "omit shoe entry file glove unaware swamp element reward hard total impact";

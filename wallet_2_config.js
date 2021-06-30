@@ -1,1 +1,1 @@
-var mnemonic = "meat cousin unusual choose zone walnut caught journey security allow innocent cash";
+var mnemonic = "fever useless frequent quarter kidney circle monster fancy inquiry always oak zebra";

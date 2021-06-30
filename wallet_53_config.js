@@ -1,1 +1,1 @@
-var mnemonic = "cradle either simple combine tackle shield jazz fatal issue mushroom post honey";
+var mnemonic = "quantum laptop adult language intact shop spy adapt range slab cruel wise";

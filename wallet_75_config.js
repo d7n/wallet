@@ -1,1 +1,1 @@
-var mnemonic = "trumpet asset switch novel describe physical plunge rubber potato champion toddler rival";
+var mnemonic = "about slim ramp flower arch check ancient bright snack sword erode mosquito";

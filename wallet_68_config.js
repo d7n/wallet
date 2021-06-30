@@ -1,1 +1,1 @@
-var mnemonic = "token blame kingdom left supreme route powder place garden mushroom bench loud";
+var mnemonic = "nerve fitness gun almost weekend elder deputy fatigue sausage inside suggest tiger";

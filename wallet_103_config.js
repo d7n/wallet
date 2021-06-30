@@ -1,1 +1,1 @@
-var mnemonic = "calm brief similar fence depend penalty pledge patrol obscure rifle check spoon";
+var mnemonic = "title floor piece shield dinosaur hat orient suit floor suit mention beauty";

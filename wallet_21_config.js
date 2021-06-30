@@ -1,1 +1,1 @@
-var mnemonic = "silk race initial matrix page soap enlist rebuild rice naive razor merry";
+var mnemonic = "team rate cruel safe sorry goose blouse income vibrant eyebrow spray juice";

@@ -1,1 +1,1 @@
-var mnemonic = "tag surge pattern install school upon basket carpet you adult usual close";
+var mnemonic = "dial assist swarm faculty fine drill just mansion advance zoo angle squeeze";

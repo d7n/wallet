@@ -1,1 +1,1 @@
-var mnemonic = "fresh cry style suggest barely cave treat cat scrap reason human farm";
+var mnemonic = "over chalk modify shield slogan breeze visit south mechanic chronic property crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "fence tortoise wash flavor net lesson receive grain dwarf actor layer inhale";
+var mnemonic = "angle belt chalk cluster transfer enemy depart scrub congress bus census sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "under round bamboo gadget wall unable blush option choice tackle cream egg";
+var mnemonic = "veteran apart moon away clip fury knock float lucky transfer gauge correct";

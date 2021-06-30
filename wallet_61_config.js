@@ -1,1 +1,1 @@
-var mnemonic = "play weather resemble grass bargain patient drastic idle tenant favorite wing tackle";
+var mnemonic = "diagram local food throw accident family prepare helmet early gallery point fog";

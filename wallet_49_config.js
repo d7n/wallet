@@ -1,1 +1,1 @@
-var mnemonic = "dry between expire curtain identify empty perfect double horse barrel inherit equal";
+var mnemonic = "invest kit timber truly tragic artefact begin design sponsor able mesh abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "creek narrow process awake language bus swamp drive interest jaguar craft organ";
+var mnemonic = "lion tray sentence rebel title pond hidden rate flag taxi bar swallow";

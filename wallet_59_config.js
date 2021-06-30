@@ -1,1 +1,1 @@
-var mnemonic = "occur series lounge goddess salon kiss slight square dinosaur century fashion clarify";
+var mnemonic = "yellow loop spike example feel cactus street canyon other flee rubber shine";

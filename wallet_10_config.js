@@ -1,1 +1,1 @@
-var mnemonic = "cool lobster skirt box couch edit web wisdom gift carbon captain lock";
+var mnemonic = "muffin unfair spare dove mom increase wave donor oblige fantasy inflict truck";

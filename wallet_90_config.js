@@ -1,1 +1,1 @@
-var mnemonic = "steak label hundred mention crater rail heavy wolf omit combine brief monkey";
+var mnemonic = "wire about apology member grape gain decline leave aisle thought stereo bench";

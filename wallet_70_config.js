@@ -1,1 +1,1 @@
-var mnemonic = "burst opinion mercy loyal popular crash easy nephew peanut sustain extra north";
+var mnemonic = "wise much few twenty funny subway jacket hello pattern column faculty gas";

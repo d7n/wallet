@@ -1,1 +1,1 @@
-var mnemonic = "forward silly pistol scale under ancient similar urban share basic park ankle";
+var mnemonic = "man diesel pumpkin month gate common lumber hurdle usual laugh comic such";

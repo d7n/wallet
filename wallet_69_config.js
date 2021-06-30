@@ -1,1 +1,1 @@
-var mnemonic = "between beach coconut celery write nothing medal tooth rotate ivory small tattoo";
+var mnemonic = "hole employ curious rug time grape monkey festival artist test excuse gate";

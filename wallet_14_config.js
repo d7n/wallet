@@ -1,1 +1,1 @@
-var mnemonic = "banner practice churn code blind live dizzy olive extend secret smoke copy";
+var mnemonic = "spend scan tobacco slot turkey retreat able affair cloud sweet plate brain";

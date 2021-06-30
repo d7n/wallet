@@ -1,1 +1,1 @@
-var mnemonic = "destroy museum fossil scrap purity cross hidden fabric quote echo vapor have";
+var mnemonic = "coyote key eight warrior service rubber floor liquid repeat latin near word";

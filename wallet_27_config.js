@@ -1,1 +1,1 @@
-var mnemonic = "expire build rail witness pair sorry banner minor inherit attend nurse spawn";
+var mnemonic = "country danger hover moral head enter endorse swamp outside general add milk";

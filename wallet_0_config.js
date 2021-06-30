@@ -1,1 +1,1 @@
-var mnemonic = "vote retreat orbit gesture brand scissors tenant receive walk jewel intact horror";
+var mnemonic = "hen age fatal test jeans blue magnet cloth pen color learn tattoo";

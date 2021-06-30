@@ -1,1 +1,1 @@
-var mnemonic = "park cute upset conduct fluid chat shrimp eagle gesture uphold text abuse";
+var mnemonic = "next stool soon hover butter industry smoke seek second deposit small crucial";
