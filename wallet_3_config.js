@@ -1,1 +1,1 @@
-var mnemonic = "wire option eye huge opinion oil auto duty defense pigeon broom mom";
+var mnemonic = "occur capable decrease surprise sniff gown report mail actual network soup inner";

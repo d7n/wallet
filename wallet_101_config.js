@@ -1,1 +1,1 @@
-var mnemonic = "model corn earn tattoo banner category fun wash amused company donkey song";
+var mnemonic = "raven defense renew canvas father alcohol hybrid issue estate similar stove uphold";

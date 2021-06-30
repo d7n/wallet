@@ -1,1 +1,1 @@
-var mnemonic = "beef creek surround frequent gloom puppy vibrant amused exclude fury soap rent";
+var mnemonic = "fantasy advice gesture throw witness shrimp bullet merit spice release market seed";

@@ -1,1 +1,1 @@
-var mnemonic = "garment loyal float atom tooth seminar citizen found viable hello earn strong";
+var mnemonic = "clay autumn destroy glue morning satisfy wasp zebra what poet maximum drama";

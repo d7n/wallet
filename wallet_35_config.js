@@ -1,1 +1,1 @@
-var mnemonic = "have chief balance slice unveil element narrow lawn divorce moment wave orient";
+var mnemonic = "wrestle flat alpha ski blossom jazz shine crunch unable hard feel foil";

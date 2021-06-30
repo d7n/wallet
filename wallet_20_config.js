@@ -1,1 +1,1 @@
-var mnemonic = "match cannon clown apart object lyrics panther swamp unable explain keep angle";
+var mnemonic = "october pass sister ranch relief equal spin flip yellow run juice rib";

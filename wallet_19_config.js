@@ -1,1 +1,1 @@
-var mnemonic = "phone shoe school wink fence solve decide pond size wide taste admit";
+var mnemonic = "ritual hour brush major valve sister orphan charge giraffe notable merit year";

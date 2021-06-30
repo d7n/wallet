@@ -1,1 +1,1 @@
-var mnemonic = "dance whale trade powder vessel possible shove begin theory tongue wide town";
+var mnemonic = "bench bind evidence fatigue pair run wrong nest subway join confirm remain";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent palace pumpkin chalk inquiry cherry picnic ice voice fit reward discover";
+var mnemonic = "despair dinosaur embrace coast march awful early jealous rhythm connect swallow marine";

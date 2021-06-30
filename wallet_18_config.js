@@ -1,1 +1,1 @@
-var mnemonic = "banana cute apart present unable vapor outer museum mother deal will fresh";
+var mnemonic = "actual quiz soccer crew wrist gaze cradle height trip magnet boring actor";

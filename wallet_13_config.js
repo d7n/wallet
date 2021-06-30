@@ -1,1 +1,1 @@
-var mnemonic = "orphan raven venture disorder type disagree fall wish market payment captain iron";
+var mnemonic = "trick goat laundry crisp gauge fortune coyote agree truck diet employ gift";

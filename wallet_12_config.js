@@ -1,1 +1,1 @@
-var mnemonic = "stage spread above dignity knee aisle oval rubber inside behind amazing call";
+var mnemonic = "renew pig scan evidence pitch enforce correct client tooth elder aware laundry";

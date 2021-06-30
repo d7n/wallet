@@ -1,1 +1,1 @@
-var mnemonic = "entry remember entry topic dial celery offer dignity uniform slush bracket drum";
+var mnemonic = "resemble oppose bleak speed clinic glide junk nest valid predict tobacco shy";

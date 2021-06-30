@@ -1,1 +1,1 @@
-var mnemonic = "leaf barely awake major dilemma decline great orange very glad annual remember";
+var mnemonic = "toilet coconut version digital economy hollow razor circle hedgehog turtle nurse quick";

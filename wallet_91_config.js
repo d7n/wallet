@@ -1,1 +1,1 @@
-var mnemonic = "pelican always indoor lift dice pumpkin harvest crazy weasel spare alien decorate";
+var mnemonic = "fantasy author ask move execute shine goddess matter onion kind electric coral";

@@ -1,1 +1,1 @@
-var mnemonic = "post strong echo drift benefit decade shy uncover sample rubber else service";
+var mnemonic = "robust hidden ski reward razor shoulder various bullet logic couch century arrive";

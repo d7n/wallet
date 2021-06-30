@@ -1,1 +1,1 @@
-var mnemonic = "clip sure cattle reason whip horn sea craft verb grow season wage";
+var mnemonic = "happy uphold gain mosquito mechanic enroll must quiz slender scheme nominee reward";

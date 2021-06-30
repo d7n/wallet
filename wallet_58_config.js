@@ -1,1 +1,1 @@
-var mnemonic = "ignore dutch give animal divert guess spawn question cool draw chef make";
+var mnemonic = "initial online kit wonder pair occur mad finish laugh clay utility stadium";

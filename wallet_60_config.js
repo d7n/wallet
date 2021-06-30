@@ -1,1 +1,1 @@
-var mnemonic = "drive field tag carry endorse follow emotion pepper proud curtain column busy";
+var mnemonic = "mouse nation account leg flower alone obtain wife honey law angry anxiety";

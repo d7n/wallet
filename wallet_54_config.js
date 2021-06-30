@@ -1,1 +1,1 @@
-var mnemonic = "lemon swear virtual vicious warm erupt lens inject option flame fence wagon";
+var mnemonic = "virus pen will science steak track acid merge blue rabbit animal flag";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty cause sample theme clutch delay enforce phrase before settle husband vintage";
+var mnemonic = "allow connect when jaguar doctor divorce galaxy farm high stereo umbrella level";

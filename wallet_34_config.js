@@ -1,1 +1,1 @@
-var mnemonic = "farm key urban purchase vicious arctic when about text spread gun smoke";
+var mnemonic = "sugar spin monkey position spirit pool job derive drive lonely boil door";

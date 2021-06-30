@@ -1,1 +1,1 @@
-var mnemonic = "good essence margin fog business arctic guitar avocado draft enforce creek lens";
+var mnemonic = "divert twice goose bone gadget robust silver glide youth fan defense island";

@@ -1,1 +1,1 @@
-var mnemonic = "fat lady impose moon insane grant obtain only thumb fun cargo skull";
+var mnemonic = "grain immense fossil merge people custom pave aisle endorse minimum love abandon";

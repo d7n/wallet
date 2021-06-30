@@ -1,1 +1,1 @@
-var mnemonic = "guilt kangaroo margin depend very picnic employ author simple cook repeat sock";
+var mnemonic = "slot home whisper hard sudden jewel rate sphere add clog silly police";

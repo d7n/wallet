@@ -1,1 +1,1 @@
-var mnemonic = "toe seminar wise safe clinic aisle hammer wife leg front shaft exotic";
+var mnemonic = "violin coast reason key small decrease blush pave join pride hand topic";

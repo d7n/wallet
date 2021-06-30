@@ -1,1 +1,1 @@
-var mnemonic = "crawl subway pioneer strong cook hawk blur plate rely error author public";
+var mnemonic = "old renew book laugh bind citizen reform vivid group ritual mom profit";

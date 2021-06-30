@@ -1,1 +1,1 @@
-var mnemonic = "shine youth engage ring recipe office raise movie rookie keep fit galaxy";
+var mnemonic = "domain burden wash hand enable bus pelican tumble absurd nasty situate essence";

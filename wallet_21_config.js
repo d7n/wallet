@@ -1,1 +1,1 @@
-var mnemonic = "refuse gorilla educate tennis general curve achieve ability wild afraid train core";
+var mnemonic = "baby topple steak exile report oxygen cram jump marriage slab acquire unfair";

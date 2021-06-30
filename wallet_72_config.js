@@ -1,1 +1,1 @@
-var mnemonic = "hen object strategy stand news today lock midnight mixture sweet siege cry";
+var mnemonic = "expire connect ranch achieve snack symbol coconut link vehicle catalog tissue faculty";

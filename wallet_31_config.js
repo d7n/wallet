@@ -1,1 +1,1 @@
-var mnemonic = "exercise pink baby mango path large beef fruit weapon project excite else";
+var mnemonic = "give fame dry toe sample acid famous cattle party blue beef dice";

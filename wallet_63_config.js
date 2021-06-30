@@ -1,1 +1,1 @@
-var mnemonic = "neither shallow window usage disease risk certain assault royal welcome shrug raise";
+var mnemonic = "chief shell keep oxygen secret useless metal blood usual notable find negative";

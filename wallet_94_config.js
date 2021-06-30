@@ -1,1 +1,1 @@
-var mnemonic = "price tenant sting dune bitter price leave test strong secret rookie lottery";
+var mnemonic = "post increase tooth glad general key business cute unit fault nerve box";

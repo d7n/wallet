@@ -1,1 +1,1 @@
-var mnemonic = "lion history cover merit pupil heart goat trap steel thumb help paddle";
+var mnemonic = "gasp host accuse market know answer vintage ready shoe arrange gallery family";

@@ -1,1 +1,1 @@
-var mnemonic = "trend truly zone bargain sport mother gospel slogan winter order grit father";
+var mnemonic = "anxiety box wisdom toy indoor reform ceiling cable pepper wide this scale";

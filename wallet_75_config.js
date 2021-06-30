@@ -1,1 +1,1 @@
-var mnemonic = "escape blush swear weekend wrong pulse section curve six ship huge any";
+var mnemonic = "raise write follow expand garbage correct journey diesel frozen border similar spread";

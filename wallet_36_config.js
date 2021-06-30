@@ -1,1 +1,1 @@
-var mnemonic = "seven upon shield power judge diet grass cook bubble fever visa tank";
+var mnemonic = "access grace mirror hobby essence fresh roast cricket arena camp sorry cat";

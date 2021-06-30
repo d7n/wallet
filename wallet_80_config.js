@@ -1,1 +1,1 @@
-var mnemonic = "half harvest monster nose cliff uncle hobby vacant mirror tail rude inmate";
+var mnemonic = "jelly vintage sustain thank bright envelope curtain frown obey smart jaguar injury";

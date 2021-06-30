@@ -1,1 +1,1 @@
-var mnemonic = "humor social enable fame twice clump solve chapter grass ginger guilt family";
+var mnemonic = "afraid then fantasy fever region common scissors coil mad inspire satisfy size";

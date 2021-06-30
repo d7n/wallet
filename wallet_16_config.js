@@ -1,1 +1,1 @@
-var mnemonic = "security please midnight olympic nerve inquiry evidence bargain stamp corn alert agent";
+var mnemonic = "pony zebra horror clap rain sponsor student nest worry useless theory seek";

@@ -1,1 +1,1 @@
-var mnemonic = "either sea attack penalty slush absurd pudding hidden fancy omit resemble bamboo";
+var mnemonic = "brother grocery venture recipe uphold slim switch mail black gravity try mother";

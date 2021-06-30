@@ -1,1 +1,1 @@
-var mnemonic = "speak boy wrap clutch trend stick spirit coffee side hybrid month distance";
+var mnemonic = "merry away sand upgrade limit invite anxiety burst barely donate school deposit";

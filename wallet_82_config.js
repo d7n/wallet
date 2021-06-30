@@ -1,1 +1,1 @@
-var mnemonic = "spy soap provide edge thumb sail mother pride abuse gain egg dignity";
+var mnemonic = "guide problem into arrive tip clown prepare celery mimic because polar reform";

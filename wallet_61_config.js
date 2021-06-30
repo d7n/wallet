@@ -1,1 +1,1 @@
-var mnemonic = "choose light camp settle consider ramp host stage fence cupboard roast quarter";
+var mnemonic = "person sudden hybrid general gasp cart reopen razor manual doctor agent among";

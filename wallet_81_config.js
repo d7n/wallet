@@ -1,1 +1,1 @@
-var mnemonic = "wrong bridge book neglect member atom major tail goat total hobby lend";
+var mnemonic = "advice patch similar blood dish vocal match will uncover ability fluid swim";

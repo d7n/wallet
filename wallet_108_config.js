@@ -1,1 +1,1 @@
-var mnemonic = "auto visual bulb lecture resemble solid discover bitter document donate acid mind";
+var mnemonic = "slogan tribe wonder squirrel radar man one vapor ecology chat keen giant";

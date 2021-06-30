@@ -1,1 +1,1 @@
-var mnemonic = "alone cover race ticket man inflict vintage elephant limit mouse cat social";
+var mnemonic = "double december slender advice blood easy segment filter display tourist pelican remain";

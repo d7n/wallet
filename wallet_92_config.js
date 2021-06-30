@@ -1,1 +1,1 @@
-var mnemonic = "cup thing lottery flush impact hospital immune lady person edit upset casino";
+var mnemonic = "sword gallery old swap talk regret iron aisle sustain lumber acid movie";

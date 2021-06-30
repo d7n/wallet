@@ -1,1 +1,1 @@
-var mnemonic = "language gate gather blood orchard menu ball kid grace december until erosion";
+var mnemonic = "inherit element fall flat gas unfair ordinary abstract gas minor sight tenant";

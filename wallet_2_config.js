@@ -1,1 +1,1 @@
-var mnemonic = "supply ginger wink buyer only token unusual wife shoe bench slice panda";
+var mnemonic = "poet labor fox unhappy save unable dove always blouse supply inquiry trouble";

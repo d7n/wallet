@@ -1,1 +1,1 @@
-var mnemonic = "test rebel voice version suffer roast panic vocal fringe option hill swamp";
+var mnemonic = "glue labor still addict dry between galaxy penalty special hub blouse valley";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner erosion jazz blame correct course collect depth dice visit spatial sick";
+var mnemonic = "orphan dress call where trial track destroy divide quality day culture license";

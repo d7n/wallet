@@ -1,1 +1,1 @@
-var mnemonic = "rule harvest define arena volcano morning valid drama grunt recipe ancient audit";
+var mnemonic = "grunt expand police firm man start ceiling august isolate eager brush valley";

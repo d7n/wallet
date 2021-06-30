@@ -1,1 +1,1 @@
-var mnemonic = "knee thunder degree globe elephant stock chase tooth myth lab essay drastic";
+var mnemonic = "sight amused settle open afraid they dress woman piano symptom analyst minute";

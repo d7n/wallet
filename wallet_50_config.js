@@ -1,1 +1,1 @@
-var mnemonic = "accident chaos predict horse token series ankle wonder laundry combine galaxy ski";
+var mnemonic = "warm net chunk uphold grief welcome conduct roast advice video cigar kick";

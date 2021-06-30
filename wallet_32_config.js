@@ -1,1 +1,1 @@
-var mnemonic = "bench wheel april lumber myth advice security spirit tunnel length camera void";
+var mnemonic = "wise open address ripple prepare cotton slab yellow monster memory cook summer";

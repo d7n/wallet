@@ -1,1 +1,1 @@
-var mnemonic = "wool rack slogan kidney pelican melody keep during mistake small abuse cover";
+var mnemonic = "oval faculty book behind able cheese copy alien custom confirm brass exhaust";

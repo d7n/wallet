@@ -1,1 +1,1 @@
-var mnemonic = "salon dry scatter fix extra vault shed grid casino beach cheap theory";
+var mnemonic = "devote same leader behind robot throw very ice light tomorrow century ocean";

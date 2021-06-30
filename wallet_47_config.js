@@ -1,1 +1,1 @@
-var mnemonic = "urge cruise sibling acquire club you spice reveal hair citizen hurry bone";
+var mnemonic = "stairs utility funny year mansion interest ring pizza add chest average letter";

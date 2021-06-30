@@ -1,1 +1,1 @@
-var mnemonic = "miss aim blood wrap near canal correct clay casual recycle clerk want";
+var mnemonic = "chronic outdoor public fortune enact fat say abuse income gaze opera tree";

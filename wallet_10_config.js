@@ -1,1 +1,1 @@
-var mnemonic = "ridge genre high table jar push talk fly peace cannon asset advance";
+var mnemonic = "flower extend hammer sting scatter bless genuine radio hotel learn letter rapid";

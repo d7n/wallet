@@ -1,1 +1,1 @@
-var mnemonic = "crack wisdom asthma ceiling right mansion left brand setup curve toddler actress";
+var mnemonic = "candy language engine topple act submit toward grow pool lounge nerve attend";

@@ -1,1 +1,1 @@
-var mnemonic = "mother nature man camp dutch auto under educate depend emerge bomb member";
+var mnemonic = "thumb gauge finish milk inhale pottery sock wild basic thank still knee";

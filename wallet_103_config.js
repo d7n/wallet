@@ -1,1 +1,1 @@
-var mnemonic = "symbol return vocal attitude term want naive term predict keen soldier portion";
+var mnemonic = "element review retreat merge budget once bring end tube tell twin guess";

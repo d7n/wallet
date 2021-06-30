@@ -1,1 +1,1 @@
-var mnemonic = "require child urban august clock web gentle february trip worth tumble practice";
+var mnemonic = "bike basic confirm sign gas wall venue morning inner interest quarter silly";

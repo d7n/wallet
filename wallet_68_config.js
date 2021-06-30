@@ -1,1 +1,1 @@
-var mnemonic = "hazard census curious photo dirt minimum rug roast acid artefact original lizard";
+var mnemonic = "sniff alpha before festival into spice strike muffin top endless ginger stuff";

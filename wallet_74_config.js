@@ -1,1 +1,1 @@
-var mnemonic = "olympic idea ribbon suggest rookie auction recall correct best history aspect strike";
+var mnemonic = "vapor benefit awake must setup myth bread chronic satisfy current snake citizen";

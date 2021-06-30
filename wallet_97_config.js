@@ -1,1 +1,1 @@
-var mnemonic = "exile render genuine reduce that deputy below pioneer law slim velvet mouse";
+var mnemonic = "rocket beef major spend dwarf axis emotion minimum unveil clock space health";

@@ -1,1 +1,1 @@
-var mnemonic = "average course bag social grief dust snap under shed merry public rate";
+var mnemonic = "burst image direct save control wet odor entire divorce bachelor lizard faculty";

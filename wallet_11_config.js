@@ -1,1 +1,1 @@
-var mnemonic = "street enroll cable fiber slab dose spirit umbrella pledge ski flower fire";
+var mnemonic = "input shaft festival race initial stove detail physical wall cry process oblige";

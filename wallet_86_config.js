@@ -1,1 +1,1 @@
-var mnemonic = "recall cement round battle flush soldier champion step weekend tail limb ability";
+var mnemonic = "glass shy script pilot popular file design pride indicate gravity skull elder";

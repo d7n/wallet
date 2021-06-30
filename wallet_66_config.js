@@ -1,1 +1,1 @@
-var mnemonic = "ancient oppose armed raise favorite quantum snap excuse palm runway basic gap";
+var mnemonic = "plunge alarm industry close hen expire eager letter enter gate replace final";

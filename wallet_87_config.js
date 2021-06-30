@@ -1,1 +1,1 @@
-var mnemonic = "rifle finger shrimp spot reason tuition stamp elevator change during accuse praise";
+var mnemonic = "adjust frog waste foster uphold cloth race engine eight salmon wasp split";

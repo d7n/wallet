@@ -1,1 +1,1 @@
-var mnemonic = "build gift dumb wolf hour final piece lunch senior predict fancy umbrella";
+var mnemonic = "there novel this mail during congress false easily climb arrive loud able";

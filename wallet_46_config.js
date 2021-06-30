@@ -1,1 +1,1 @@
-var mnemonic = "member will various front another protect surround load squirrel fame toss decide";
+var mnemonic = "citizen match sheriff chronic palace senior purchase legend alert inhale jaguar chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer possible suffer absent decline short angry transfer light fox prison token";
+var mnemonic = "cash fancy entry project snack owner donor version forget grid person puppy";

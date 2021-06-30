@@ -1,1 +1,1 @@
-var mnemonic = "expect deputy age strike alcohol swim skate height assist liquid frame hidden";
+var mnemonic = "mutual avoid game advance duty regular about anger valley tape immune drift";

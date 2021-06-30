@@ -1,1 +1,1 @@
-var mnemonic = "person question never crystal knee shove slot curious festival elevator chimney relax";
+var mnemonic = "glimpse column fatal blame hip awful glimpse enemy thrive fatal before theory";

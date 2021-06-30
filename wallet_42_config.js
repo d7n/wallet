@@ -1,1 +1,1 @@
-var mnemonic = "vanish dad tired envelope bubble wish autumn shoe priority owner current funny";
+var mnemonic = "upper street umbrella reduce champion expose adult argue grocery decide fantasy horn";

@@ -1,1 +1,1 @@
-var mnemonic = "arena model mango inquiry squirrel hand road feel cake kitchen sell film";
+var mnemonic = "effort quit alter swallow ice room child run regular entire sketch fossil";

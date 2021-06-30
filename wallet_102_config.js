@@ -1,1 +1,1 @@
-var mnemonic = "furnace exercise bring axis honey long custom crew draw since celery ritual";
+var mnemonic = "pigeon elbow system make machine pioneer trick grid voyage they tiny robot";

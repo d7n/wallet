@@ -1,1 +1,1 @@
-var mnemonic = "ethics crowd toss extra rotate oppose erase harsh hat heart naive car";
+var mnemonic = "zone rug crisp immune wink ugly lazy space suit portion title another";

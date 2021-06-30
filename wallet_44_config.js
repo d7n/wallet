@@ -1,1 +1,1 @@
-var mnemonic = "inherit endorse drip slide pizza loud annual actor mechanic parent arrive boost";
+var mnemonic = "wire assume magic note film fossil ordinary copper theme buffalo pole unit";

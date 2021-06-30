@@ -1,1 +1,1 @@
-var mnemonic = "ask layer abstract execute affair crime oven tenant patient obey key much";
+var mnemonic = "refuse first remind giant power echo frost climb volume that reveal gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "before twist knock concert employ hover maid tumble hen jump where rib";
+var mnemonic = "degree anger follow turkey element fever dwarf virus speed join sentence siege";

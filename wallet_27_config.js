@@ -1,1 +1,1 @@
-var mnemonic = "vote illness alone library bring gain sword dignity meadow song smart agree";
+var mnemonic = "tumble chronic awesome oil outer nice layer rural define real bundle print";

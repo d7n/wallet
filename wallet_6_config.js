@@ -1,1 +1,1 @@
-var mnemonic = "reunion silk text romance oak laugh catalog tell latin salute report category";
+var mnemonic = "link razor utility effort year crouch yellow drive general grocery bid bulb";

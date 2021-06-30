@@ -1,1 +1,1 @@
-var mnemonic = "script outer kiwi age expose visual garage cupboard hollow special hand pause";
+var mnemonic = "advice trash latin hire mass leopard stay skill margin obey check captain";
