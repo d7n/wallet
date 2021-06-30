@@ -1,1 +1,1 @@
-var mnemonic = "twice hammer climb funny dutch noodle luggage vessel legal monster spare unique";
+var mnemonic = "pepper bamboo release box cricket pizza purity weapon what category nurse fit";

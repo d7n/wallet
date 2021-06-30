@@ -1,1 +1,1 @@
-var mnemonic = "jewel warrior stumble melody despair under silk regular exotic you document iron";
+var mnemonic = "essay check buyer across sudden injury afford urge fix sign spot unit";

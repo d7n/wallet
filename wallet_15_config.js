@@ -1,1 +1,1 @@
-var mnemonic = "unfold strong fetch supply misery length short border razor north vessel gain";
+var mnemonic = "bunker amateur ten push next excite eager crumble train unique ahead profit";

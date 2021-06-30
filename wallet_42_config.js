@@ -1,1 +1,1 @@
-var mnemonic = "eagle trial odor raw exclude include pill upon put climb make first";
+var mnemonic = "punch seed code profit exile act expire path aim rebuild mushroom birth";

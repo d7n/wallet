@@ -1,1 +1,1 @@
-var mnemonic = "city price egg pistol culture abandon rule unit clay plastic snack impact";
+var mnemonic = "rough adapt print door wet nerve slab cage inject crowd ketchup filter";

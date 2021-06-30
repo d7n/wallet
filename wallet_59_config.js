@@ -1,1 +1,1 @@
-var mnemonic = "bring crew faith flash laptop shop trophy farm web scare will man";
+var mnemonic = "waste such face bone naive climb gossip satoshi immense cannon mind priority";

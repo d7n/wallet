@@ -1,1 +1,1 @@
-var mnemonic = "twist option pen notice shift quantum extra fringe fish guilt artefact rural";
+var mnemonic = "rapid cupboard various salad icon reveal save believe system famous fan head";

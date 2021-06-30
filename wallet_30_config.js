@@ -1,1 +1,1 @@
-var mnemonic = "just tiger thought tone property region sport grief exact pill travel jacket";
+var mnemonic = "stairs response critic thumb jungle half stomach rescue shadow soon song yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "waste mutual skull crater hub tip sand valid host analyst move garden";
+var mnemonic = "awesome swallow matter oppose combine canal salt fresh mixture nothing around belt";

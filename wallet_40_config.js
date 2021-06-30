@@ -1,1 +1,1 @@
-var mnemonic = "rule mobile thumb distance shove august three response intact basic winter enhance";
+var mnemonic = "bread length slide confirm local world drive tornado laugh squirrel illegal pencil";

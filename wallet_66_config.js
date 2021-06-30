@@ -1,1 +1,1 @@
-var mnemonic = "shell ignore fancy flock valve clown expire flag hat delay agent steak";
+var mnemonic = "sample double afraid theme super forward shrimp art grace sibling proof cargo";

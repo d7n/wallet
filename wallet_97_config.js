@@ -1,1 +1,1 @@
-var mnemonic = "laugh sign civil dawn bag action vacant citizen evidence author alley globe";
+var mnemonic = "spike around credit canoe vital sponsor tool craft plug renew lawsuit reflect";

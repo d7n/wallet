@@ -1,1 +1,1 @@
-var mnemonic = "vivid near domain address limb busy pistol wing panther aware favorite mushroom";
+var mnemonic = "include since heavy danger announce firm naive awkward tunnel census flavor receive";

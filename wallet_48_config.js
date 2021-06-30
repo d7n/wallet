@@ -1,1 +1,1 @@
-var mnemonic = "can text direct diamond human narrow shadow multiply report brand club face";
+var mnemonic = "orange connect loyal biology misery throw little rookie morning crazy world boil";

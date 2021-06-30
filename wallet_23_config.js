@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo symbol drastic play sun invite staff unit pupil cool buzz quote";
+var mnemonic = "muffin dune knee squeeze cup park rack noble room denial hidden unfair";

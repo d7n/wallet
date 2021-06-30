@@ -1,1 +1,1 @@
-var mnemonic = "razor pledge egg giraffe victory roof town doll sight purity purchase snack";
+var mnemonic = "before common miracle sketch cute spoon mechanic double day silent sorry about";

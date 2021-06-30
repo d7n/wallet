@@ -1,1 +1,1 @@
-var mnemonic = "inch shadow soap deliver during solar garbage clinic secret unfold sad bamboo";
+var mnemonic = "board mix number rocket sword alter reflect force patient daughter glory dog";

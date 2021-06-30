@@ -1,1 +1,1 @@
-var mnemonic = "siege honey tone steel grit suffer scatter pole find heart nut fabric";
+var mnemonic = "year mention oven female tail brass mystery desk remain stable shield turn";

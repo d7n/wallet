@@ -1,1 +1,1 @@
-var mnemonic = "coral reopen admit spin comfort breeze pretty treat cement parent catalog wheel";
+var mnemonic = "find surface load fat attend love explain math pill resemble mixture disagree";

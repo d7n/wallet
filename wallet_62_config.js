@@ -1,1 +1,1 @@
-var mnemonic = "soup rose shiver bulb time candy sign cherry rain agree mad slush";
+var mnemonic = "vital bonus resist method soldier august strategy decade have alert leg glad";

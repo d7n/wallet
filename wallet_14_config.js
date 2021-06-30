@@ -1,1 +1,1 @@
-var mnemonic = "first pelican oven minute basic spare buyer robust beef upper pepper tunnel";
+var mnemonic = "dash sweet ride observe palace feature yard shine erode wash flight truth";

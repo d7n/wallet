@@ -1,1 +1,1 @@
-var mnemonic = "card since surface shaft shiver sad slush payment winter mobile adult survey";
+var mnemonic = "unusual pyramid swallow actress rescue usual energy rebel cliff direct crush kite";

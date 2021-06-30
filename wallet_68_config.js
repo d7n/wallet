@@ -1,1 +1,1 @@
-var mnemonic = "shell decide good proud submit flower cradle dignity rookie try flat tower";
+var mnemonic = "salmon neck jealous raise pulp found casino eager exhaust wide child imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "range river buffalo client armed scene fringe device shrimp jaguar country off";
+var mnemonic = "vicious weasel vacant pull thunder reflect snake comic chuckle endless ancient behave";

@@ -1,1 +1,1 @@
-var mnemonic = "direct million swift often vital nature little key pupil cheap prepare gate";
+var mnemonic = "funny sunset gap walnut morning man knife animal total town equal black";

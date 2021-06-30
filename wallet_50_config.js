@@ -1,1 +1,1 @@
-var mnemonic = "blur good green scrub limit cool total syrup undo image domain media";
+var mnemonic = "dance robot blush monkey urge sing embark imitate ozone jump arch road";

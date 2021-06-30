@@ -1,1 +1,1 @@
-var mnemonic = "train use address deputy video mansion paddle circle indoor waste arrange patient";
+var mnemonic = "bid warrior brass ivory sniff dragon neglect derive august ugly ancient hire";

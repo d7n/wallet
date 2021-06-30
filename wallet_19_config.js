@@ -1,1 +1,1 @@
-var mnemonic = "sadness possible legal catalog balance rubber question sauce bless off large holiday";
+var mnemonic = "area verb giant olive bless lunch march input blood segment urge pilot";

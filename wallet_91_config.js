@@ -1,1 +1,1 @@
-var mnemonic = "photo code practice torch update issue magnet human rice rate fluid present";
+var mnemonic = "upon long laundry use clock system debate leisure cheese milk mesh ginger";

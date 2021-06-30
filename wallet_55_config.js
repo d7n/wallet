@@ -1,1 +1,1 @@
-var mnemonic = "crush school exit man uncle assume pyramid bike traffic gate river lift";
+var mnemonic = "run return genre fabric stuff night baby mercy almost stem ankle captain";

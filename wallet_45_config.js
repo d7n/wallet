@@ -1,1 +1,1 @@
-var mnemonic = "acquire annual crime amazing art join iron lift ranch blind dial success";
+var mnemonic = "cruel hybrid web drop awesome canoe lesson chicken exclude exhibit romance cruel";

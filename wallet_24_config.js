@@ -1,1 +1,1 @@
-var mnemonic = "tourist main front response title fluid adult trend assist flower party scissors";
+var mnemonic = "horn exchange gasp neither velvet glow unaware swallow artist divert crime clump";

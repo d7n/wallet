@@ -1,1 +1,1 @@
-var mnemonic = "fatigue social jelly shoe feed among swarm captain foot kidney shield emerge";
+var mnemonic = "camera cargo anger legend fury clap that kite glide want draw bright";

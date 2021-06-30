@@ -1,1 +1,1 @@
-var mnemonic = "want pupil simple imitate run current bachelor thing festival title dentist manual";
+var mnemonic = "square december magnet tube quantum isolate drama fly frame payment trial woman";

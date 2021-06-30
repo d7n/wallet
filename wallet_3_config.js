@@ -1,1 +1,1 @@
-var mnemonic = "weapon card melt glimpse effort any bid bamboo glide fork mouse region";
+var mnemonic = "corn youth strategy truth city apart pass elegant blood dawn swing salmon";

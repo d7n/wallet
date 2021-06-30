@@ -1,1 +1,1 @@
-var mnemonic = "act buddy coconut digital symptom bench thing steak birth alley focus cart";
+var mnemonic = "destroy pledge indoor layer globe medal travel finish skin cannon correct design";

@@ -1,1 +1,1 @@
-var mnemonic = "civil climb corn long manage sheriff borrow help sight deputy appear eight";
+var mnemonic = "salt gauge improve large unveil occur century someone plunge humor problem lumber";

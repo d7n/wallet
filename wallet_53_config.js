@@ -1,1 +1,1 @@
-var mnemonic = "bullet they zebra trim spot faculty grit check grid exhaust oblige science";
+var mnemonic = "primary input axis cluster depth faint move minor section child gown math";

@@ -1,1 +1,1 @@
-var mnemonic = "they cost include gun ice trash sight between slam broken mix primary";
+var mnemonic = "cave drill matrix sketch grant favorite choice crane dune butter story ready";

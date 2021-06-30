@@ -1,1 +1,1 @@
-var mnemonic = "rug model group lend minor brass barrel awake project install casino merry";
+var mnemonic = "fragile faith local people voice cruel tool shaft sunset hand disease achieve";

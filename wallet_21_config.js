@@ -1,1 +1,1 @@
-var mnemonic = "floor normal paddle syrup innocent license boss manage fringe sorry seminar soul";
+var mnemonic = "fun cry put pool kidney sound fat ivory sudden album velvet shop";

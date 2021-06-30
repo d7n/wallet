@@ -1,1 +1,1 @@
-var mnemonic = "danger arch crisp circle neck reduce home key hidden enough enjoy parrot";
+var mnemonic = "warrior memory guilt curious cinnamon ripple mercy exist cupboard vehicle present system";

@@ -1,1 +1,1 @@
-var mnemonic = "actual vibrant boost crack soldier flame sun bitter upon proof nominee weapon";
+var mnemonic = "cash divert crush habit produce kitchen increase solar convince corn prevent train";

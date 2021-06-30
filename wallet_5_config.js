@@ -1,1 +1,1 @@
-var mnemonic = "concert solution estate popular stay better issue latin dolphin minute profit ridge";
+var mnemonic = "pupil brand wire awkward balance senior outer appear piano quiz carpet bright";

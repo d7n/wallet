@@ -1,1 +1,1 @@
-var mnemonic = "hunt vehicle river kingdom scrap people jump novel female tiny pottery tool";
+var mnemonic = "false toast wine opera undo vicious scrub wonder wish used science detect";

@@ -1,1 +1,1 @@
-var mnemonic = "spell wagon great artist topple feel dentist fire left siren waste able";
+var mnemonic = "answer wrap pet hospital garbage warm like strategy mention sketch kitchen snow";

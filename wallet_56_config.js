@@ -1,1 +1,1 @@
-var mnemonic = "ketchup trigger twice base reduce hill nerve job immune digital around true";
+var mnemonic = "slender track receive boost check oyster aerobic hedgehog major brown harvest anger";

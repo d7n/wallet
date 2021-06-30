@@ -1,1 +1,1 @@
-var mnemonic = "usage census nest detect banana squeeze rice retreat allow staff festival fetch";
+var mnemonic = "kiss weekend gap winner limit car smooth off hood frown crop flip";

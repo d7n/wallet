@@ -1,1 +1,1 @@
-var mnemonic = "enforce legal reopen speed mix outdoor orbit caution coconut remove monkey human";
+var mnemonic = "garlic wink rapid fresh submit dirt wrist much lobster exist split limb";

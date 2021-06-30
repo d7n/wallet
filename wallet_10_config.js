@@ -1,1 +1,1 @@
-var mnemonic = "ship twist weasel hammer olympic reject brave luxury scrap raven armed have";
+var mnemonic = "donate kid vacuum someone hawk hedgehog camera blood trend entry sail air";

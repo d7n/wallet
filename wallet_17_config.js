@@ -1,1 +1,1 @@
-var mnemonic = "label february since art night duty decade space off slim absurd project";
+var mnemonic = "crumble gift worth glad blind flavor ahead doctor suit disagree visit palace";

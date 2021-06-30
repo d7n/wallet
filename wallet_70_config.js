@@ -1,1 +1,1 @@
-var mnemonic = "echo village wet search target right grunt wait path social toward web";
+var mnemonic = "usage foster matter police reject domain clip off sibling favorite rose double";

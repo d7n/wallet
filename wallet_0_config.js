@@ -1,1 +1,1 @@
-var mnemonic = "picture survey copper gate usage ecology code trick simple siege hungry length";
+var mnemonic = "pottery grape stumble actress forward poverty unfair fat brave lumber enter critic";

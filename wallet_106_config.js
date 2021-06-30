@@ -1,1 +1,1 @@
-var mnemonic = "lawn wood soup october grunt chaos small wealth glance dirt sudden grab";
+var mnemonic = "cable filter useful upgrade crawl major tank can island biology relief dizzy";

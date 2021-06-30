@@ -1,1 +1,1 @@
-var mnemonic = "human dragon cabbage digital capable orange beef spider chase all bleak draw";
+var mnemonic = "maple blue eye pole skin exchange gather eight purchase huge bright unique";

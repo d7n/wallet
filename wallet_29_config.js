@@ -1,1 +1,1 @@
-var mnemonic = "lyrics float model crucial rose absorb meadow always web salt excess all";
+var mnemonic = "sauce put weather lawsuit imitate sauce damp aerobic race couch rib youth";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope gas cry chase bleak pottery keep abandon kitten sense weather loop";
+var mnemonic = "pear team play sphere exotic skin divorce sail juice observe wise nominee";

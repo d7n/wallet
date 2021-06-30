@@ -1,1 +1,1 @@
-var mnemonic = "hat admit snap tennis roast wing group increase consider runway scissors mystery";
+var mnemonic = "arctic icon length scorpion fox mesh submit liberty enrich smooth indoor library";

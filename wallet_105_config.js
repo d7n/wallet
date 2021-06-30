@@ -1,1 +1,1 @@
-var mnemonic = "fuel uniform tell label twice venture census swing vague absent rabbit target";
+var mnemonic = "rent copper party sunset because bitter receive ordinary absurd youth march cargo";

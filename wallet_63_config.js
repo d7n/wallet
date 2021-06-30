@@ -1,1 +1,1 @@
-var mnemonic = "swallow vibrant mystery portion dose barrel cook fabric inflict rally impulse mail";
+var mnemonic = "sock journey peace result display alarm economy worry hen mansion debate topic";

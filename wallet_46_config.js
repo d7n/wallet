@@ -1,1 +1,1 @@
-var mnemonic = "busy dice drift run brief cargo social kingdom shed author stable rose";
+var mnemonic = "expose host slide orchard battle jaguar fork letter very filter erase slab";

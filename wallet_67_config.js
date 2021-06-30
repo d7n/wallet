@@ -1,1 +1,1 @@
-var mnemonic = "yard twelve chase deal vague arena guide jacket duck picture twice know";
+var mnemonic = "indicate pool medal father sing negative pulp aunt dismiss cereal fiber lake";

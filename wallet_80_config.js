@@ -1,1 +1,1 @@
-var mnemonic = "announce knee cinnamon tiny ozone truck keep middle helmet glide asset film";
+var mnemonic = "nasty stand option once census nuclear balcony tobacco amount shoulder eager gentle";

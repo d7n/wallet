@@ -1,1 +1,1 @@
-var mnemonic = "photo broccoli fox piece since isolate august spice return horn sphere away";
+var mnemonic = "uncle black small suggest outside bundle execute click story parrot unhappy profit";

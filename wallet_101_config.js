@@ -1,1 +1,1 @@
-var mnemonic = "accident size prevent hat bulb then roast song cable misery coach sadness";
+var mnemonic = "suggest point peanut gossip pole museum supreme believe title blouse wear brick";

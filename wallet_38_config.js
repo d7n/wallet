@@ -1,1 +1,1 @@
-var mnemonic = "strong camera skin say clay accident spatial lesson toddler sail coast crime";
+var mnemonic = "comic aim fun enjoy better theme punch science mistake number honey stuff";

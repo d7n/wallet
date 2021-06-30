@@ -1,1 +1,1 @@
-var mnemonic = "attract control derive local loyal chicken wall session become fever arena cage";
+var mnemonic = "crumble recycle matter stone note machine present winner six march neither decide";

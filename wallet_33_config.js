@@ -1,1 +1,1 @@
-var mnemonic = "camera bachelor party luggage true spin merge order fury lobster pig else";
+var mnemonic = "pretty box industry express razor sniff uncle jewel marriage cram mandate evolve";

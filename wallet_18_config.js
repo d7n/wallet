@@ -1,1 +1,1 @@
-var mnemonic = "peasant spell dragon powder abandon crack confirm cousin parade state modify share";
+var mnemonic = "wire alert ask siege oyster glory mixed boat food ten basic okay";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot dial thunder pudding liberty mansion aunt diesel ridge extra cliff radar";
+var mnemonic = "social rate parent group couple crystal blade equal canyon dwarf size soft";

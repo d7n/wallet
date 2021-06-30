@@ -1,1 +1,1 @@
-var mnemonic = "quit prize coffee brave beach front valid kick sword you cart barrel";
+var mnemonic = "surge check material promote solution naive horror suggest rich verb oppose hire";

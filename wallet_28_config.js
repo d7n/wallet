@@ -1,1 +1,1 @@
-var mnemonic = "ritual off zone media ability rib differ foil flip capital tip danger";
+var mnemonic = "attend fever ordinary amount burden square often voyage face cost frog october";

@@ -1,1 +1,1 @@
-var mnemonic = "issue quality excuse floor tooth claw pony science banner keen prevent design";
+var mnemonic = "bargain jewel master steel wait silk pyramid below split govern always season";

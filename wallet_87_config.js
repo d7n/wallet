@@ -1,1 +1,1 @@
-var mnemonic = "ride deposit dice amused play camp wise adjust oven shoot heart add";
+var mnemonic = "replace clog agent luggage differ food drop regular address size juice dwarf";

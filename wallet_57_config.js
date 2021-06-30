@@ -1,1 +1,1 @@
-var mnemonic = "unit joy fuel ramp clay fog tube cost speak seminar trumpet furnace";
+var mnemonic = "team agent split oblige narrow car prosper enroll method current traffic pill";

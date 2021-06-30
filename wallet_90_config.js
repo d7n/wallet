@@ -1,1 +1,1 @@
-var mnemonic = "soon slab canvas flock anger gorilla title bread laugh actual deny faculty";
+var mnemonic = "praise boy there opera mean broccoli material chase today equal attack good";

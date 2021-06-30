@@ -1,1 +1,1 @@
-var mnemonic = "bracket tobacco screen surface hour carry wash already school over magnet twice";
+var mnemonic = "lesson grace bronze rabbit price rotate business eagle liberty tube avocado split";

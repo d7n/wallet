@@ -1,1 +1,1 @@
-var mnemonic = "term pool situate garlic embody miracle region embark enemy recall outer promote";
+var mnemonic = "struggle relax scene during about vapor wasp river boil banana praise cost";

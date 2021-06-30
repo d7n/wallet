@@ -1,1 +1,1 @@
-var mnemonic = "capable play segment pudding video cry spring intact angry void kid few";
+var mnemonic = "funny various tennis energy mention final brush rich vocal vital lawn funny";

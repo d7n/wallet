@@ -1,1 +1,1 @@
-var mnemonic = "portion amount slush size carry kingdom vivid already put ripple ability monitor";
+var mnemonic = "error casual hat dash furnace equal mixture voice dragon impulse seat reveal";

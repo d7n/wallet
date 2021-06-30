@@ -1,1 +1,1 @@
-var mnemonic = "hunt fragile cloud world fiber split tenant unaware rice skill silk muffin";
+var mnemonic = "pony trigger seven ugly cluster hurdle roof object margin sting update stuff";

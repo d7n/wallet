@@ -1,1 +1,1 @@
-var mnemonic = "inject bulk journey evoke earth ahead shock grocery post absent bullet job";
+var mnemonic = "gather destroy gadget ski vacant bounce blur embrace flee cash bronze call";

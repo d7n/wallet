@@ -1,1 +1,1 @@
-var mnemonic = "runway large public imitate anxiety two explain lesson just oval this erupt";
+var mnemonic = "gospel party fine found question oyster layer cart strike enter coil pulse";

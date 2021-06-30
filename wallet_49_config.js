@@ -1,1 +1,1 @@
-var mnemonic = "snap young buyer gloom foil syrup hollow unhappy powder loop envelope sibling";
+var mnemonic = "grain ketchup toddler end resist bracket settle visa leave trend demise focus";

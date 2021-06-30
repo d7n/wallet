@@ -1,1 +1,1 @@
-var mnemonic = "fury double party cruel panic laptop weather hair twice juice achieve large";
+var mnemonic = "cigar power they proof antique crucial fury swamp surround toy arch version";

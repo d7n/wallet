@@ -1,1 +1,1 @@
-var mnemonic = "neither upset ignore theory mesh general robust evidence quality album wire enhance";
+var mnemonic = "stone dad label task used guitar roof dismiss fortune liar tooth pilot";

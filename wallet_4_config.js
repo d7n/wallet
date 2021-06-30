@@ -1,1 +1,1 @@
-var mnemonic = "glove language display divorce afford luggage recipe where holiday vessel scale park";
+var mnemonic = "tornado cabin hurry insane genius cry thunder flee song asthma choose cement";
