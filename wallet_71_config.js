@@ -1,1 +1,1 @@
-var mnemonic = "annual paddle remain pet buffalo advice gaze dose smoke diesel cloud economy";
+var mnemonic = "jungle other insane expand bus manual flag jump wool will client fox";

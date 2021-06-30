@@ -1,1 +1,1 @@
-var mnemonic = "room axis job track point picnic mansion ice govern siege chaos pair";
+var mnemonic = "dance brain game mandate tail book vote chimney weekend elegant faculty club";

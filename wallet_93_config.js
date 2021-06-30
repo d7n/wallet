@@ -1,1 +1,1 @@
-var mnemonic = "over acid advance gospel jaguar picnic print tired bargain pupil decrease hen";
+var mnemonic = "start pencil lesson inject topple lady seed pulse catch million glory this";

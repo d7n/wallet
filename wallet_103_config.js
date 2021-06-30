@@ -1,1 +1,1 @@
-var mnemonic = "summer pass corn escape acoustic jump system venue mimic name black resemble";
+var mnemonic = "diesel flock today giggle steel duty lesson thunder swarm remain okay street";

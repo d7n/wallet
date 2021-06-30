@@ -1,1 +1,1 @@
-var mnemonic = "loyal thought move blue novel animal pulse craft amateur demand bargain issue";
+var mnemonic = "lawn maximum magic cruel isolate amount tumble firm armed old goat beef";

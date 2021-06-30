@@ -1,1 +1,1 @@
-var mnemonic = "hazard find tide slide strike broom mirror park nasty prevent symbol under";
+var mnemonic = "robust egg multiply sausage tuna duck venture loyal excuse state plug erupt";

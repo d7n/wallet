@@ -1,1 +1,1 @@
-var mnemonic = "giraffe poet tail phone model various cake dismiss swap sort render obey";
+var mnemonic = "setup parent work grab hard unaware olive pulse knee coil fork foil";

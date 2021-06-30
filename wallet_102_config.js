@@ -1,1 +1,1 @@
-var mnemonic = "park habit nerve question aisle swear speed beauty man thought pyramid fold";
+var mnemonic = "arena leave stereo bamboo yellow run unlock confirm settle bar year enjoy";

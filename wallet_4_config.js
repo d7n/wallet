@@ -1,1 +1,1 @@
-var mnemonic = "pull inmate erosion waste pave speed badge cruel foster shy either category";
+var mnemonic = "idle absorb burden apology reduce food love rigid enough father squeeze canal";

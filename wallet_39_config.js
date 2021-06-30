@@ -1,1 +1,1 @@
-var mnemonic = "monkey typical crane bid margin cancel essence toilet put scrub tilt aunt";
+var mnemonic = "turkey title blossom gossip split coyote dash mother dizzy away poem trick";

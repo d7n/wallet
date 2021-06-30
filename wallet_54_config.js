@@ -1,1 +1,1 @@
-var mnemonic = "focus return success pretty horse hedgehog antique scheme practice chuckle cover bulb";
+var mnemonic = "energy dolphin major half weird unusual visa dove brand spice amateur boil";

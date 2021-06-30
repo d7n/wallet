@@ -1,1 +1,1 @@
-var mnemonic = "butter fringe undo empty balcony receive bulk review payment leader prefer shed";
+var mnemonic = "bubble melt need near cup vehicle say mandate bridge laundry review update";

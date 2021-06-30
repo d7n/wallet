@@ -1,1 +1,1 @@
-var mnemonic = "memory thumb country notice joy sweet nothing print habit direct shed prevent";
+var mnemonic = "youth fall success black blast random already tank true parent deny hour";

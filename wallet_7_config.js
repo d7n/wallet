@@ -1,1 +1,1 @@
-var mnemonic = "friend survey cancel lab toy large two hybrid tornado plate picture pencil";
+var mnemonic = "demand smile property until toilet again zone kid submit subject rhythm mesh";

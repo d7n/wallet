@@ -1,1 +1,1 @@
-var mnemonic = "capable hurry day urge ginger swamp movie kid rug hybrid smooth dismiss";
+var mnemonic = "thunder expose casino ceiling cook sunset carbon motion mean excuse crawl jump";

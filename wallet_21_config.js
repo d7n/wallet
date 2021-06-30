@@ -1,1 +1,1 @@
-var mnemonic = "color seek pencil robust one access biology hazard weird rookie sausage dress";
+var mnemonic = "chaos hawk earn repeat female cave captain basic venture dance exclude express";

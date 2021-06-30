@@ -1,1 +1,1 @@
-var mnemonic = "armed jealous similar helmet small system bunker cry warfare oil note cement";
+var mnemonic = "cotton oil display nut sauce version deputy shop similar switch candy cactus";

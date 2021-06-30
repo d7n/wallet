@@ -1,1 +1,1 @@
-var mnemonic = "senior raw expect fan away lamp prepare company banana grape step dune";
+var mnemonic = "shadow hawk meat blood glory execute soda point cage coach price pole";

@@ -1,1 +1,1 @@
-var mnemonic = "sure frequent duty deer hurdle flip cover viable water copy old tourist";
+var mnemonic = "youth globe reform timber pig pledge energy weekend unable target lend man";

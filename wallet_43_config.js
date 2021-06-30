@@ -1,1 +1,1 @@
-var mnemonic = "sight ski crazy unable ceiling dish wet market busy usage below gospel";
+var mnemonic = "own forget unique snow adapt elite town glow between special paddle stuff";

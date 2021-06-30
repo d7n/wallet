@@ -1,1 +1,1 @@
-var mnemonic = "rescue jazz wreck vibrant predict glory certain jewel antique better toward half";
+var mnemonic = "filter holiday once tuna plastic glide report kiss initial ability obtain west";

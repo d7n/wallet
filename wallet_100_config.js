@@ -1,1 +1,1 @@
-var mnemonic = "ginger lunch negative little portion alone like resource ill agent horse indicate";
+var mnemonic = "canvas level monitor short habit dragon suspect wrong amateur mix can draw";

@@ -1,1 +1,1 @@
-var mnemonic = "early cross amused require admit have nerve ladder business crack strategy noble";
+var mnemonic = "deer front tuition hello know nerve receive spray woman flag wolf lobster";

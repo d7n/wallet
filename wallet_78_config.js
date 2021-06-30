@@ -1,1 +1,1 @@
-var mnemonic = "toe spray cute staff castle marble emerge laundry custom chimney model pill";
+var mnemonic = "fitness good mirror fog rough then shop crouch claim bracket jump bulb";

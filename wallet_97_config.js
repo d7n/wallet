@@ -1,1 +1,1 @@
-var mnemonic = "loud february parrot slam rescue chaos similar sock canyon torch stay cart";
+var mnemonic = "wet violin ivory awake denial donate cliff cry nice young leader auto";

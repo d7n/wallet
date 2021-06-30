@@ -1,1 +1,1 @@
-var mnemonic = "shine enact inspire engage laptop forward chase danger grape emerge venture crumble";
+var mnemonic = "install spy slide elbow release catch odor enhance stay plate girl episode";

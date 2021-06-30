@@ -1,1 +1,1 @@
-var mnemonic = "rare basket humble zoo canvas crime super excite future topic thrive offer";
+var mnemonic = "employ sudden insane meat orchard mango asthma juice spot skirt key shoulder";

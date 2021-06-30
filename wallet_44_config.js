@@ -1,1 +1,1 @@
-var mnemonic = "eight rate silly later school fox field decline glory pizza radio crush";
+var mnemonic = "tone fatigue clinic radio fruit shoulder whale yellow spawn noise gorilla enhance";

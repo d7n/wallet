@@ -1,1 +1,1 @@
-var mnemonic = "crisp desert maze vivid excite twenty become real tobacco they awkward mosquito";
+var mnemonic = "trial another loop rally dial lunch visual unable vacant gravity crucial orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "clown spawn torch garment picnic minimum habit gauge analyst seminar country chicken";
+var mnemonic = "verify later flip squirrel one average uncover relief bundle jacket tone robot";

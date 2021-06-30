@@ -1,1 +1,1 @@
-var mnemonic = "attitude rug spin possible actress beauty kitchen crouch brain below sweet broom";
+var mnemonic = "enemy pigeon school miracle jaguar chat say matrix wrap educate zone phrase";

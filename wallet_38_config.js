@@ -1,1 +1,1 @@
-var mnemonic = "solid venue pupil flush author carry napkin stem bright target dismiss civil";
+var mnemonic = "eager analyst connect dry carbon upgrade situate say vague clay switch increase";

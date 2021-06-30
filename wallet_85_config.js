@@ -1,1 +1,1 @@
-var mnemonic = "what chuckle wheat craft first remain shrug play once enforce salad knock";
+var mnemonic = "track twist practice flower lion ghost evil bonus lens congress weasel comic";

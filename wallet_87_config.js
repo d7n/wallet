@@ -1,1 +1,1 @@
-var mnemonic = "lazy home route cargo ordinary hen jewel bridge pistol involve ghost unfair";
+var mnemonic = "survey allow estate alert canoe mixed boss faint frame honey uphold reward";

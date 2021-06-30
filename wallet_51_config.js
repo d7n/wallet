@@ -1,1 +1,1 @@
-var mnemonic = "exit surround movie december exclude denial quick recipe mask income success limb";
+var mnemonic = "act observe market solar race slow rely build disagree fault increase clinic";

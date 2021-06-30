@@ -1,1 +1,1 @@
-var mnemonic = "fat auto crop stove find assume panel must wise drift comfort clump";
+var mnemonic = "floor grocery rather jewel main claw rapid dog magnet feel chuckle allow";

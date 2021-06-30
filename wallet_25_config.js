@@ -1,1 +1,1 @@
-var mnemonic = "dismiss nest indicate enact decade text bean smart leaf canoe use runway";
+var mnemonic = "rigid luggage tennis deposit will okay salon hungry thrive follow tower farm";

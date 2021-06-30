@@ -1,1 +1,1 @@
-var mnemonic = "cook announce evidence shine pet math segment analyst rude side sound adult";
+var mnemonic = "fitness hurdle cycle erupt deer animal anxiety buffalo donate hip budget sugar";

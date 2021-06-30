@@ -1,1 +1,1 @@
-var mnemonic = "evil ship task drama business brother wheel adapt satisfy lion neglect emerge";
+var mnemonic = "series danger dove silver question scale swallow seat stove catch zone casino";

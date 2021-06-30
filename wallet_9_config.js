@@ -1,1 +1,1 @@
-var mnemonic = "twelve reopen treat ship please render ball wrist mosquito today chat impose";
+var mnemonic = "setup machine obey hospital decide fame bus simple wool shiver viable effort";

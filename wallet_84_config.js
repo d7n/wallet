@@ -1,1 +1,1 @@
-var mnemonic = "paper dress bottom cart hour trim humble ride there split artefact arctic";
+var mnemonic = "rate knock spider plate enroll position aim february canvas upset entry expire";

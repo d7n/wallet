@@ -1,1 +1,1 @@
-var mnemonic = "flame network goose ring forget domain click vote unfair confirm body tiger";
+var mnemonic = "rescue retreat outdoor popular version pen fresh topic infant economy spin glass";

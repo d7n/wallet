@@ -1,1 +1,1 @@
-var mnemonic = "amazing friend waste chunk member strike drill plastic clip nurse february later";
+var mnemonic = "tent impact print again tiny lemon wave dumb unit abandon hub rookie";

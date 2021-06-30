@@ -1,1 +1,1 @@
-var mnemonic = "merit brick frog garden slogan resist tip emotion tunnel myself finger other";
+var mnemonic = "ritual owner glide snack noble amount fish pistol can tiny biology unhappy";

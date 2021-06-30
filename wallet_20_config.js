@@ -1,1 +1,1 @@
-var mnemonic = "other polar plastic struggle sword draft sail thing tribe film imitate simple";
+var mnemonic = "little vocal chalk model defense country black brief label click series rally";

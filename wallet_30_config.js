@@ -1,1 +1,1 @@
-var mnemonic = "add crop wrestle hero busy opera yellow orphan kite shy negative detail";
+var mnemonic = "dilemma differ omit prize decrease kidney flash enhance subject damage parrot rocket";

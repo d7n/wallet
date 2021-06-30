@@ -1,1 +1,1 @@
-var mnemonic = "seminar lonely accuse border tip renew crop reform fuel repeat race diet";
+var mnemonic = "choice rookie problem public present tongue excite verify borrow believe regret ride";

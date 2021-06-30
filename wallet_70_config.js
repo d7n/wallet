@@ -1,1 +1,1 @@
-var mnemonic = "fatal perfect glass twenty act summer small excess street congress harbor beach";
+var mnemonic = "owner trust hill doll service brain harsh cabbage judge banner armed tissue";

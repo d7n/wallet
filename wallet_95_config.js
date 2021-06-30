@@ -1,1 +1,1 @@
-var mnemonic = "shield carpet cost practice rally fatal private two lounge boy version exercise";
+var mnemonic = "feature suggest female quick arctic tobacco busy scissors upgrade congress animal cereal";

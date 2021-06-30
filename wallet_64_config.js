@@ -1,1 +1,1 @@
-var mnemonic = "head poem effort exhibit oxygen snack broom panel unfair sausage thrive engage";
+var mnemonic = "skull kiss amused music brown sketch hurry sad multiply spoon decline castle";

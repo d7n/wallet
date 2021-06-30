@@ -1,1 +1,1 @@
-var mnemonic = "rate endorse garbage talent music latin online arena jump attack leader submit";
+var mnemonic = "hybrid business exile vocal fit orient now top furnace afraid issue diary";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue ginger achieve trophy peace sauce submit height parent shock bottom rifle";
+var mnemonic = "reward shift monitor carpet total fantasy chaos chaos legend edge evidence shuffle";

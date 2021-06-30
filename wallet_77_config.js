@@ -1,1 +1,1 @@
-var mnemonic = "bundle shift spider egg celery setup screen tail habit wing inject album";
+var mnemonic = "economy obtain pen left uncle area forward inspire edge vital seed strong";

@@ -1,1 +1,1 @@
-var mnemonic = "rival hill salt lumber shiver tourist piano scan apple price quit extra";
+var mnemonic = "test acquire unit panel curtain pudding tornado cover history force doctor subject";

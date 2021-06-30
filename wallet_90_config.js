@@ -1,1 +1,1 @@
-var mnemonic = "kite finish happy list outdoor local final grant flee price donor hamster";
+var mnemonic = "slab lunar coconut lift myself fame swear frequent furnace entry decline scare";

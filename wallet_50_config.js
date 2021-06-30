@@ -1,1 +1,1 @@
-var mnemonic = "anchor increase faculty aim comic fresh jaguar rubber sword life hair assault";
+var mnemonic = "small library chunk spin gain ostrich escape hidden expand voyage gaze pink";

@@ -1,1 +1,1 @@
-var mnemonic = "powder film quick foster road twenty divorce can emerge autumn exile initial";
+var mnemonic = "level cherry voice island arrow road nurse pact whip lens such bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "banana vague refuse route account empty evolve you recipe sponsor usage capable";
+var mnemonic = "jealous harbor develop carbon lake general friend explain earn sail home sunset";

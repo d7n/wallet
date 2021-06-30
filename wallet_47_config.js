@@ -1,1 +1,1 @@
-var mnemonic = "bullet ozone life coil blouse goddess blossom certain ripple tip announce negative";
+var mnemonic = "afford damp achieve dentist route black delay intact act hotel fatal angry";

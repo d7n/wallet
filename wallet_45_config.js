@@ -1,1 +1,1 @@
-var mnemonic = "upon injury box rate original fluid lucky battle limb powder pen punch";
+var mnemonic = "impact margin another grief crater cattle derive sister air boat asset cabbage";

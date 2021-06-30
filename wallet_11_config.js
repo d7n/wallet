@@ -1,1 +1,1 @@
-var mnemonic = "fashion army attend minute shove airport arm curious half beef nerve session";
+var mnemonic = "slim great renew eye degree oppose release chapter enough hospital rough dolphin";

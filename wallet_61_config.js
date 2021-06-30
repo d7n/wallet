@@ -1,1 +1,1 @@
-var mnemonic = "athlete prosper plunge alien whisper tumble endless payment town detail order you";
+var mnemonic = "slab orient tree into knee inmate minimum unable guide fiction hour excite";

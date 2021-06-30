@@ -1,1 +1,1 @@
-var mnemonic = "group donate inner celery twenty small drink arrive elder sea chat banana";
+var mnemonic = "portion minute plug winner table benefit crowd board aisle foot risk energy";

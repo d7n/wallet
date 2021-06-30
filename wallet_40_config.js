@@ -1,1 +1,1 @@
-var mnemonic = "ability cabbage shine public sword gorilla uphold safe coil nasty borrow total";
+var mnemonic = "moral lumber monitor village glare enforce very leader claim match enjoy height";

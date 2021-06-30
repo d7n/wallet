@@ -1,1 +1,1 @@
-var mnemonic = "fine remember day hold capable damage donate uphold satoshi lend issue detect";
+var mnemonic = "dirt spoil near gloom heart carbon learn bicycle gate electric arrange can";

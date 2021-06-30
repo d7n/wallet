@@ -1,1 +1,1 @@
-var mnemonic = "brick mention hint swarm shed express famous assist wagon crumble random accident";
+var mnemonic = "stick swarm album brown dismiss phone demise fresh window moment moon cash";

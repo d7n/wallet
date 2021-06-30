@@ -1,1 +1,1 @@
-var mnemonic = "term hole note client tribe gather copy circle toss border dutch correct";
+var mnemonic = "margin orchard zoo layer rose false bargain float shrimp room best stage";

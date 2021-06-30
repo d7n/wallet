@@ -1,1 +1,1 @@
-var mnemonic = "wood chief play give bird grid curtain lesson screen color brief globe";
+var mnemonic = "frame junior merry journey evoke swallow talk sketch gym purse vital embrace";

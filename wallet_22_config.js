@@ -1,1 +1,1 @@
-var mnemonic = "pledge state cycle very track dilemma royal hazard retreat foil portion lecture";
+var mnemonic = "ordinary dune apart excess police demand tuna scheme kiwi nurse train potato";

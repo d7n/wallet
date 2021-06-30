@@ -1,1 +1,1 @@
-var mnemonic = "shoot diagram media drip visual screen minor second remain person then leaf";
+var mnemonic = "brief tiger album cart hair genre camp this mirror coast board palm";

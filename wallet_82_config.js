@@ -1,1 +1,1 @@
-var mnemonic = "hammer shock reason exit mesh romance timber daring prize broccoli nurse deputy";
+var mnemonic = "vocal wife art toast toilet stadium thank item purse palm decide will";

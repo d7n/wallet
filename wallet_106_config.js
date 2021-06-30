@@ -1,1 +1,1 @@
-var mnemonic = "exhaust crucial earn february display hobby error health toss carry chunk present";
+var mnemonic = "desert number olympic start auto mind knife hobby mouse rare cabbage wonder";

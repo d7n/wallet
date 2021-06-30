@@ -1,1 +1,1 @@
-var mnemonic = "upon weapon rate base escape divert add trash true permit pitch away";
+var mnemonic = "dinner silk tribe clog actress you kangaroo antenna city tobacco filter book";

@@ -1,1 +1,1 @@
-var mnemonic = "remember one march verify flee fitness buyer session tent uphold road mix";
+var mnemonic = "bring false flag life cannon three suspect mirror enjoy panther april edge";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn income monster move snake age order normal excite angle pistol grief";
+var mnemonic = "earn endorse skill topple expose lonely slight jelly orphan exact version ship";

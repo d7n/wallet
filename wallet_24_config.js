@@ -1,1 +1,1 @@
-var mnemonic = "fresh width morning garbage minimum other brave wood want bright oval regret";
+var mnemonic = "social toast grain emerge swallow umbrella universe they alpha luggage oval fever";

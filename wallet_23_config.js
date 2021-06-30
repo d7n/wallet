@@ -1,1 +1,1 @@
-var mnemonic = "rug major embark among impose powder manual mystery climb stage that now";
+var mnemonic = "idle like unfold rifle chimney supply rate flash define potato critic warrior";

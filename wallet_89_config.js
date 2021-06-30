@@ -1,1 +1,1 @@
-var mnemonic = "sick tooth reunion apart reason essence switch settle corn castle marble gold";
+var mnemonic = "toilet second poem vital pole present wire dune tackle jazz cabin frown";

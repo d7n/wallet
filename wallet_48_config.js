@@ -1,1 +1,1 @@
-var mnemonic = "pipe twenty mystery monitor hammer melody deputy crunch intact notable vivid butter";
+var mnemonic = "glance insane foam level faculty caught ill solution brief brush capital announce";

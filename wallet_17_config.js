@@ -1,1 +1,1 @@
-var mnemonic = "birth bread helmet prevent spawn float punch truly unknown heart evoke name";
+var mnemonic = "crop volcano trust egg high donor cinnamon usage save surprise armor visual";

@@ -1,1 +1,1 @@
-var mnemonic = "old hero embrace tape index never nation soup label relief loud wise";
+var mnemonic = "taxi multiply disagree chest cross proof moon fossil comfort exotic library unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel crazy message kiss drink wear quantum trash always water twenty episode";
+var mnemonic = "milk regular exhibit lawsuit subway mask exhaust result marriage diesel double train";

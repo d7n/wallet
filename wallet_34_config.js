@@ -1,1 +1,1 @@
-var mnemonic = "sell address fit erode auction youth aunt major journey danger fox describe";
+var mnemonic = "harbor already coin story dirt accident dream cloth answer sand coffee crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic boss demand shrimp carpet original crawl figure umbrella eternal across lecture";
+var mnemonic = "shoot congress estate analyst exclude impact pair misery agree climb wave letter";

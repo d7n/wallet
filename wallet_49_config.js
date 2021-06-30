@@ -1,1 +1,1 @@
-var mnemonic = "jeans method outdoor daughter movie cigar legal shoulder sunny nerve breeze stock";
+var mnemonic = "volume family invest sing stone unusual appear treat nothing predict door regular";

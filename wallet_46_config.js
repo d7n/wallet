@@ -1,1 +1,1 @@
-var mnemonic = "april gate wish sponsor save undo cricket draft spoon dutch member rubber";
+var mnemonic = "happy olive skin olive rose wagon quick history disorder base talk mutual";

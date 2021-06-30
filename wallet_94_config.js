@@ -1,1 +1,1 @@
-var mnemonic = "region boring limb priority stable february focus enemy public find burger shrug";
+var mnemonic = "caution inform neutral knife fragile crumble wall employ sound myself salute street";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral destroy usual apart urge attack click popular deal first improve ramp";
+var mnemonic = "rib cause aunt tragic chest puzzle cereal trend pudding cart chef kitchen";

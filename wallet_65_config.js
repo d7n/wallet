@@ -1,1 +1,1 @@
-var mnemonic = "devote gown mother question curtain food squeeze sad name cabbage kingdom shift";
+var mnemonic = "casino limit drive link unaware purse chief occur latin rack wheel collect";

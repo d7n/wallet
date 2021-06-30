@@ -1,1 +1,1 @@
-var mnemonic = "lounge iron alter exhaust seek term fever alcohol sponsor address alpha thought";
+var mnemonic = "fashion fit icon gallery sail tower plate evil dove damage clever distance";

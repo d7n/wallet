@@ -1,1 +1,1 @@
-var mnemonic = "eagle master easily pull favorite work muscle gossip skull capital asthma expand";
+var mnemonic = "about usual sister orbit cigar front purchase educate destroy patient impulse faint";

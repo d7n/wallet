@@ -1,1 +1,1 @@
-var mnemonic = "meadow ketchup gravity unusual attend alarm vocal unhappy option half scan almost";
+var mnemonic = "select wish carpet flee trip arrest cute club upgrade keep put frozen";

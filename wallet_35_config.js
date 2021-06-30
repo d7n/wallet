@@ -1,1 +1,1 @@
-var mnemonic = "acoustic visit magnet cement absorb repair proud pattern patient bone visit atom";
+var mnemonic = "breeze this seat agent shoe impose switch exercise fragile heart orphan crew";
