@@ -1,1 +1,1 @@
-var mnemonic = "exotic diamond hurdle scissors grid monster steel candy pole sweet harbor clown";
+var mnemonic = "smoke disorder cancel away copper where strike sustain rude because nation stand";

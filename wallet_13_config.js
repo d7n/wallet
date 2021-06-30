@@ -1,1 +1,1 @@
-var mnemonic = "guide profit envelope staff man join wink scheme become bone fit enlist";
+var mnemonic = "fashion intact angry success dial stick sibling during income absurd huge special";

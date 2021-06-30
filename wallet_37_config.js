@@ -1,1 +1,1 @@
-var mnemonic = "acoustic toddler target time worry unusual learn ice enrich glass fly hip";
+var mnemonic = "lumber cabbage heart hill bamboo labor cousin candy among amateur still math";

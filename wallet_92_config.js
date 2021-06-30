@@ -1,1 +1,1 @@
-var mnemonic = "wagon symbol burden walnut this drum method issue orbit family main review";
+var mnemonic = "coyote baby hunt fashion churn cart impose segment april forest horse cotton";

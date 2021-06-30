@@ -1,1 +1,1 @@
-var mnemonic = "syrup alcohol expose glimpse resemble way tourist mad fitness among shallow attitude";
+var mnemonic = "antenna hurt fitness dress piece false joy try opinion expire clown farm";

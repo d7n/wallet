@@ -1,1 +1,1 @@
-var mnemonic = "render medal region left oblige camera shed loan cry tonight almost current";
+var mnemonic = "basic involve duty wrestle rare say giggle finish mandate strike cute clean";

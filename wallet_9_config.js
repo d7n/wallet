@@ -1,1 +1,1 @@
-var mnemonic = "immune spy clap shoot permit love magnet spring phone soldier habit pelican";
+var mnemonic = "lucky ecology question solid flock write jaguar afford dress fish since tone";

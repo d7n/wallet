@@ -1,1 +1,1 @@
-var mnemonic = "dash cargo myself nothing discover flock toward tooth another humor pass beauty";
+var mnemonic = "roof clarify myself vibrant yellow unveil cake cupboard pen stairs trophy soon";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna else plate subway couch double orphan fade secret raccoon near square";
+var mnemonic = "wreck pelican label sentence pink fruit sweet drip phone blanket purpose tooth";

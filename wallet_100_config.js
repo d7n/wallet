@@ -1,1 +1,1 @@
-var mnemonic = "total boring tell robust also habit ride advance isolate gain predict toast";
+var mnemonic = "render prize diary unknown pilot horse toy twin fire decorate mail gather";

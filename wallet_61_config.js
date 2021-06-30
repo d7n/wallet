@@ -1,1 +1,1 @@
-var mnemonic = "random seven idle tip among skull family this address copper explain remember";
+var mnemonic = "vote under then state faint cake fog wheat speed puppy theory casino";

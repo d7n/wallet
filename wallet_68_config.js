@@ -1,1 +1,1 @@
-var mnemonic = "point glue output market wet under yard world tower sun cycle city";
+var mnemonic = "season shaft during clever depth tourist tag plate fiction popular monster hole";

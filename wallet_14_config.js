@@ -1,1 +1,1 @@
-var mnemonic = "require unit army impulse receive radio champion pledge admit virus genre between";
+var mnemonic = "double purpose snap coil bundle enough raw put local owner jeans burger";

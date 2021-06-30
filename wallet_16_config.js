@@ -1,1 +1,1 @@
-var mnemonic = "multiply middle attack obey exist treat pony divorce current arch decorate forest";
+var mnemonic = "beach certain disorder sentence love drum spray return almost much muscle ridge";

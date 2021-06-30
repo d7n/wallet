@@ -1,1 +1,1 @@
-var mnemonic = "bronze divert when vote basic aspect pill train leader shallow tribe interest";
+var mnemonic = "torch game curtain sing doll village tent invite found great chronic sponsor";

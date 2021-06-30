@@ -1,1 +1,1 @@
-var mnemonic = "pole rapid local push run patient polar cushion can spring marble come";
+var mnemonic = "weasel obscure paper nut when chat eagle square receive vocal dance clog";

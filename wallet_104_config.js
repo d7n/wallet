@@ -1,1 +1,1 @@
-var mnemonic = "someone urge flash magnet turkey hotel upset eager strike venue light hard";
+var mnemonic = "crane amused hip off section potato debris mass grab pond survey leg";

@@ -1,1 +1,1 @@
-var mnemonic = "always alert eight license drip electric salmon jealous tobacco nominee aisle evolve";
+var mnemonic = "provide hamster wise unaware adapt allow small dinosaur ritual latin almost nose";

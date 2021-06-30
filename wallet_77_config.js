@@ -1,1 +1,1 @@
-var mnemonic = "away build level never alone pledge test obtain okay reunion weather hammer";
+var mnemonic = "series close runway feed warm traffic ring boat warrior pet olive latin";

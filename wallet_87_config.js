@@ -1,1 +1,1 @@
-var mnemonic = "service soldier predict maple cruel disorder curtain biology fish soon fit walk";
+var mnemonic = "live absurd paddle camp flat expire fold motor stick inner defy chuckle";

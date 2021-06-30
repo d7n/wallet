@@ -1,1 +1,1 @@
-var mnemonic = "slab process heart pulse anchor try alert toast kitten kidney luxury retreat";
+var mnemonic = "quit reform result romance twenty milk more couple elevator firm grace goose";

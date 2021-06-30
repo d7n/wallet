@@ -1,1 +1,1 @@
-var mnemonic = "disorder gravity picnic staff orphan dice slice broken horse gravity message venue";
+var mnemonic = "coconut grief remind forum cute horse dizzy boss catalog ice comic taste";

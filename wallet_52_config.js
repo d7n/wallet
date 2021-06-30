@@ -1,1 +1,1 @@
-var mnemonic = "usage essence call skin eager arm naive lonely swim congress lyrics addict";
+var mnemonic = "nice differ energy earn humble truly creek goose lonely nature orphan goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "energy tissue essay measure east custom robust skull brass riot junk senior";
+var mnemonic = "response picture bronze recipe repeat lady dignity orbit because stage bike elder";

@@ -1,1 +1,1 @@
-var mnemonic = "nose ill quarter squeeze truth time blue juice always include october mansion";
+var mnemonic = "leopard motor album gaze hamster mammal find notable acid inhale animal juice";

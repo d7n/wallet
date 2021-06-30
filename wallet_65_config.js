@@ -1,1 +1,1 @@
-var mnemonic = "warm bid enough alpha forum sleep october clap fantasy speak ice icon";
+var mnemonic = "autumn pass shell course vendor conduct act sauce rule large useless anxiety";

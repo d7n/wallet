@@ -1,1 +1,1 @@
-var mnemonic = "pill often avoid merit path plunge pretty slide popular bargain version bid";
+var mnemonic = "duty flush salt ghost layer head access title sorry route cliff zebra";

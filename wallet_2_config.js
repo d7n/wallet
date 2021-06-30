@@ -1,1 +1,1 @@
-var mnemonic = "sausage holiday view avoid pluck space cross group since pond kiss must";
+var mnemonic = "farm cube rail frequent dwarf elegant upgrade bus around negative absorb flip";

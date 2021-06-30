@@ -1,1 +1,1 @@
-var mnemonic = "scheme first position favorite turtle jar toward soap local master salad indoor";
+var mnemonic = "blood mystery satisfy abuse train endless shoulder script section biology digital unfair";

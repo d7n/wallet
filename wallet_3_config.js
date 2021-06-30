@@ -1,1 +1,1 @@
-var mnemonic = "disorder original still heart barely service chapter water fun chair blade silent";
+var mnemonic = "crane damp space isolate provide better myself scan height opinion add rookie";

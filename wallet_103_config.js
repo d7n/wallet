@@ -1,1 +1,1 @@
-var mnemonic = "horror camera bulb pull very creek mystery forest adult snake thank panda";
+var mnemonic = "just include plug perfect odor trick ranch grief salad intact poverty gloom";

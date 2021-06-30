@@ -1,1 +1,1 @@
-var mnemonic = "creek upset melody patch brown crowd egg figure setup beef hand fork";
+var mnemonic = "leave garbage office wedding science onion chalk female top side urge shoulder";

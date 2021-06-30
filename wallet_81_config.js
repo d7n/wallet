@@ -1,1 +1,1 @@
-var mnemonic = "head bar cousin salon depart clump process escape office viable clap fade";
+var mnemonic = "slogan census capital cancel flavor cactus income remove dynamic pyramid art twelve";

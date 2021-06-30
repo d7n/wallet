@@ -1,1 +1,1 @@
-var mnemonic = "pyramid kidney swift noodle useful goose price garment fiber accuse south second";
+var mnemonic = "owner twin lesson drama before denial infant coach hundred feel riot actor";

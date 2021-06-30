@@ -1,1 +1,1 @@
-var mnemonic = "unknown crowd dwarf empty dizzy usage report fix artefact scatter ethics response";
+var mnemonic = "live ticket fetch action garment olive grain buddy enemy wink diet lobster";

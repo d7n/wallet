@@ -1,1 +1,1 @@
-var mnemonic = "solid farm rare build venture struggle abuse jar enough pattern awkward degree";
+var mnemonic = "motion energy silent refuse math nest noble mountain chase naive jealous risk";

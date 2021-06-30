@@ -1,1 +1,1 @@
-var mnemonic = "debate pepper suggest unlock banana kite climb donor obscure unfair alley lounge";
+var mnemonic = "luxury maple link theme into notice car image easily spice true fee";

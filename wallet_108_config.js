@@ -1,1 +1,1 @@
-var mnemonic = "nephew glimpse core time arm fold olympic quality exit evoke they interest";
+var mnemonic = "magnet obvious fiscal maid barely chalk general lion video still favorite bargain";

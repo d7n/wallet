@@ -1,1 +1,1 @@
-var mnemonic = "play surprise festival small current wool dismiss gasp athlete mystery stove cattle";
+var mnemonic = "enhance lonely amateur setup patrol celery idea clutch prefer accident doll peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "flat century patrol cross today post cheese guess arrange coil amount corn";
+var mnemonic = "orient warrior club link demand weasel fat fog slow never capital matrix";

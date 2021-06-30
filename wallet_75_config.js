@@ -1,1 +1,1 @@
-var mnemonic = "morning sunny practice subway neck catch worth cactus tray jar sadness acquire";
+var mnemonic = "dismiss where game mistake day stumble purse latin gravity system just load";

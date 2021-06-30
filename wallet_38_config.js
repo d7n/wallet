@@ -1,1 +1,1 @@
-var mnemonic = "tip woman mask dragon frown resource prefer sell uncle arch sheriff anchor";
+var mnemonic = "warrior satoshi laugh permit crew screen kitchen climb legend race cherry inspire";

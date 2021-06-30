@@ -1,1 +1,1 @@
-var mnemonic = "embody lend wide size renew soft impose village goat gorilla inmate human";
+var mnemonic = "pyramid chapter shoulder spawn pear later feed abandon rally argue quick forum";

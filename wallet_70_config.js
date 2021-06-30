@@ -1,1 +1,1 @@
-var mnemonic = "alter beach squeeze verify female push victory six install dismiss crater ahead";
+var mnemonic = "deer settle dog decline wild arch derive affair polar enrich noble wet";

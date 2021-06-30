@@ -1,1 +1,1 @@
-var mnemonic = "mix tuition addict frown require possible wool stick forest exotic pact immune";
+var mnemonic = "rocket fruit potato income canal view muscle empower raven capital play exist";

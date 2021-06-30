@@ -1,1 +1,1 @@
-var mnemonic = "artefact photo property truth among lava expose perfect secret entire domain ride";
+var mnemonic = "address spare civil input fever robust boil shine spatial skirt breeze impose";

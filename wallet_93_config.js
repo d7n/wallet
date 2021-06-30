@@ -1,1 +1,1 @@
-var mnemonic = "camera light debate father cross humor worry rose priority achieve mutual meadow";
+var mnemonic = "venture stove define survey noodle focus local valley shaft ginger twenty stuff";

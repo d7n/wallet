@@ -1,1 +1,1 @@
-var mnemonic = "mix eyebrow source oven carry brand whip lava empty brass wear hurt";
+var mnemonic = "trust vibrant boil fever imitate monster engine sorry hole limb party unveil";

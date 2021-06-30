@@ -1,1 +1,1 @@
-var mnemonic = "park negative brother trim gate advance prevent relief solid ceiling humble tail";
+var mnemonic = "host shaft thing motor apple squeeze gauge buddy champion scatter genuine embrace";

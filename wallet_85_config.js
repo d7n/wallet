@@ -1,1 +1,1 @@
-var mnemonic = "write industry round agree soft fiscal sell bid miracle yellow meat sign";
+var mnemonic = "session category tattoo receive about tribe tank control scissors fury describe coconut";

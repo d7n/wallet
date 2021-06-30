@@ -1,1 +1,1 @@
-var mnemonic = "spray output sugar trend tunnel divide pool mean creek trap corn town";
+var mnemonic = "kick equal empty always pink dice jungle field color walk solid nephew";

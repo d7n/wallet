@@ -1,1 +1,1 @@
-var mnemonic = "zone fiction shed that civil addict replace boost area slice animal jealous";
+var mnemonic = "truck media lion produce simple lamp empty fork dumb trap cactus melt";

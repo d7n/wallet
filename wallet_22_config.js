@@ -1,1 +1,1 @@
-var mnemonic = "salon sustain junk amazing round cloud number merit pass way creek spirit";
+var mnemonic = "judge blur session mystery ladder link spoon choose tag police jaguar order";

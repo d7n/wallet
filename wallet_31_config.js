@@ -1,1 +1,1 @@
-var mnemonic = "debris crawl better food coral stairs twist audit sauce camera add uphold";
+var mnemonic = "scorpion trip cupboard dune goddess phone sign current arena elite stairs gown";

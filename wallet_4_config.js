@@ -1,1 +1,1 @@
-var mnemonic = "trash runway goddess airport will entire patrol employ stadium blue step ancient";
+var mnemonic = "text heart boring swift whisper humble welcome foot loyal tone rug vanish";

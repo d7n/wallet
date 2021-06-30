@@ -1,1 +1,1 @@
-var mnemonic = "helmet road must orbit frog total method daring degree eternal dignity energy";
+var mnemonic = "ignore wood actual enjoy office predict snack truck foam guess athlete damp";

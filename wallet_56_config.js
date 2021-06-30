@@ -1,1 +1,1 @@
-var mnemonic = "opera kitchen rather leader enemy above amused call aim poet cousin gorilla";
+var mnemonic = "chaos security skirt wreck marine stick acoustic pretty atom cook candy grain";

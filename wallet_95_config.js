@@ -1,1 +1,1 @@
-var mnemonic = "pelican success tiny stock shop hotel risk stem keep shift pledge motion";
+var mnemonic = "owner snow lawsuit bar craft gorilla acquire brave march spider oval axis";

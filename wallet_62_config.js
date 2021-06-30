@@ -1,1 +1,1 @@
-var mnemonic = "false ahead dilemma meat finger almost turtle drama predict ugly first tornado";
+var mnemonic = "sweet inject pilot prefer suit attend cinnamon trap fatal stick equip famous";

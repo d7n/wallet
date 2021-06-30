@@ -1,1 +1,1 @@
-var mnemonic = "entire damp trash appear crop achieve vacuum timber shed service mom surprise";
+var mnemonic = "pear chair vibrant decline fan swallow empty employ saddle half rude mask";

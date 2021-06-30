@@ -1,1 +1,1 @@
-var mnemonic = "gospel remain clarify shuffle raw resemble tumble wrap edge travel agree grit";
+var mnemonic = "source quiz outer brain dutch alley dish smile doctor hill guard spike";

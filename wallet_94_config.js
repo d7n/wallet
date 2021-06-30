@@ -1,1 +1,1 @@
-var mnemonic = "mountain forget dynamic vivid weekend guitar physical consider inspire need upgrade snap";
+var mnemonic = "soup amateur gesture shrimp exclude snack cancel worth fatal client hedgehog fancy";

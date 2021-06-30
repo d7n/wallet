@@ -1,1 +1,1 @@
-var mnemonic = "move shrimp increase bracket entire indicate edit verify stick crawl six royal";
+var mnemonic = "bamboo bullet artist question coral galaxy run car change reveal mobile scare";

@@ -1,1 +1,1 @@
-var mnemonic = "rather core century sick cool joy wrestle cute tip hero airport crawl";
+var mnemonic = "false brief juice echo lecture vicious earn grocery gold army prevent easily";

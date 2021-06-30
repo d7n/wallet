@@ -1,1 +1,1 @@
-var mnemonic = "switch captain roof army slight cool mind dust moment trap bundle acid";
+var mnemonic = "tube puzzle retire book escape romance balcony stadium ceiling top grief horse";

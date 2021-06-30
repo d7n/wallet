@@ -1,1 +1,1 @@
-var mnemonic = "flower east knock giggle alien crumble concert ice bright menu sweet aunt";
+var mnemonic = "safe yard piano silver young distance moon miracle soft fatal cargo mixed";

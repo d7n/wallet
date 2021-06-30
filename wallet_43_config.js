@@ -1,1 +1,1 @@
-var mnemonic = "junk popular mammal rookie polar exact sing message sound convince enter kangaroo";
+var mnemonic = "brain jeans chief depth shadow version top silly curious miss better crew";

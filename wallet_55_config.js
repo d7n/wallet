@@ -1,1 +1,1 @@
-var mnemonic = "direct sheriff bus sauce potato oval body speed burst salad elegant similar";
+var mnemonic = "ribbon grape rate way toe giraffe capital turtle obvious camera minimum stumble";

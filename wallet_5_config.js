@@ -1,1 +1,1 @@
-var mnemonic = "possible discover apple gate slide rib buddy famous rally drastic degree upper";
+var mnemonic = "rotate broom two owner dune dove shed nice hybrid matter february two";

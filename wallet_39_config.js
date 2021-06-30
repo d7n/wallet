@@ -1,1 +1,1 @@
-var mnemonic = "dress mouse blood bar desk dress science bracket soccer affair tape clutch";
+var mnemonic = "solve session receive shoulder enhance guess office depend aerobic chapter bounce crisp";

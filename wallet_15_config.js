@@ -1,1 +1,1 @@
-var mnemonic = "since pause mistake clean vivid credit clog cabin school street regret clay";
+var mnemonic = "scene pond grant youth negative obtain universe attract flag moon toast burger";

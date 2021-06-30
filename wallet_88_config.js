@@ -1,1 +1,1 @@
-var mnemonic = "hard beef verb lab eyebrow example update sound fold twenty wave valid";
+var mnemonic = "age save hollow palm salad bundle enough change float figure teach possible";

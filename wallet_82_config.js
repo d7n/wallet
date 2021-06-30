@@ -1,1 +1,1 @@
-var mnemonic = "model plate mesh crazy gate either because usual shallow liquid lobster seek";
+var mnemonic = "deer spend capable estate into museum mind moon today another mother north";

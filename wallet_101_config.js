@@ -1,1 +1,1 @@
-var mnemonic = "service chase tongue usual argue skull run brain resource faculty sun bone";
+var mnemonic = "phrase elbow beauty chalk slender spot short deputy tell art rookie length";

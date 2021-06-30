@@ -1,1 +1,1 @@
-var mnemonic = "face vault turtle pistol cushion dragon belt rebuild praise despair avoid battle";
+var mnemonic = "split dream paper parent banner flavor spy load urban struggle thing delay";

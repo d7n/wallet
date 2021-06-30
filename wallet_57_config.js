@@ -1,1 +1,1 @@
-var mnemonic = "shove tuition strong file defense panda process draft phone basic civil idea";
+var mnemonic = "warrior radar code crazy congress nurse clarify brass bag caught you detail";

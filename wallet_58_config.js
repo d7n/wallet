@@ -1,1 +1,1 @@
-var mnemonic = "poverty task erupt capital craft satoshi brand brown above couch ancient vacant";
+var mnemonic = "outdoor travel shaft deposit typical coast open kingdom slim know hope narrow";

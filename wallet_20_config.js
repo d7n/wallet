@@ -1,1 +1,1 @@
-var mnemonic = "dream employ dizzy phone surge debris notice alpha quick pact clock vocal";
+var mnemonic = "school material jeans elbow salute fish tobacco couch ball crouch record hospital";

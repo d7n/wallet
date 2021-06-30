@@ -1,1 +1,1 @@
-var mnemonic = "fortune abandon soda episode chuckle river ugly broom layer another manage runway";
+var mnemonic = "pool elephant north ethics actor unaware photo ignore finger derive fiscal poverty";

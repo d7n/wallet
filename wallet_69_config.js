@@ -1,1 +1,1 @@
-var mnemonic = "miracle helmet rule armed ketchup helmet shed skill frozen typical gasp more";
+var mnemonic = "toward crumble bind recipe visual nose recipe dinosaur season decide mesh effort";

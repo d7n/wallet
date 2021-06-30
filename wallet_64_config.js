@@ -1,1 +1,1 @@
-var mnemonic = "rack burden battle wheel spoil truth flavor agent wait meat rough alley";
+var mnemonic = "mean better version rib wink tape staff depth bag gown bronze spend";

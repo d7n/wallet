@@ -1,1 +1,1 @@
-var mnemonic = "aunt invite base hammer voyage term cruise collect erosion decide weird exile";
+var mnemonic = "fan toddler remind mesh gift inch charge bonus heart note often tag";

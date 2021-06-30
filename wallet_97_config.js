@@ -1,1 +1,1 @@
-var mnemonic = "demand suggest aerobic upgrade reject saddle stick credit medal peasant length bacon";
+var mnemonic = "route enrich foster report domain attitude outer radio load juice bracket genuine";

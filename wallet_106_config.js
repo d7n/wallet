@@ -1,1 +1,1 @@
-var mnemonic = "alpha seat female mosquito run repair foster cute layer alpha churn round";
+var mnemonic = "prison vanish drastic enjoy cage camera cement kiwi noise above must marine";
