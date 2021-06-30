@@ -1,1 +1,1 @@
-var mnemonic = "abuse cram useful bird climb gown fortune release receive subway resist dish";
+var mnemonic = "mystery satisfy lava flag smoke smooth attract plastic truck harsh swamp fix";

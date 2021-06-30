@@ -1,1 +1,1 @@
-var mnemonic = "fall impulse refuse later stove economy summer hundred arena double rare welcome";
+var mnemonic = "crew fortune slim there crime embark best sea allow rose fork wall";

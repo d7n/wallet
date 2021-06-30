@@ -1,1 +1,1 @@
-var mnemonic = "cabbage oil elevator credit rhythm marble dolphin flight crowd become side clever";
+var mnemonic = "draw best tribe depend gasp pool flat away one alone spatial round";

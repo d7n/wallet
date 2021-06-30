@@ -1,1 +1,1 @@
-var mnemonic = "release galaxy vivid shallow loan future music can butter blanket ethics satoshi";
+var mnemonic = "diesel stone gasp worry army nurse empower solid already pony jaguar few";

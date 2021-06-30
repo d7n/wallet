@@ -1,1 +1,1 @@
-var mnemonic = "intact setup solid spray whip tattoo peasant slam kite festival length benefit";
+var mnemonic = "stand charge below fiber bachelor sense author before holiday dash talent supreme";

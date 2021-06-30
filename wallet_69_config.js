@@ -1,1 +1,1 @@
-var mnemonic = "camera system aunt dentist medal gain carry brother raccoon suspect bargain dragon";
+var mnemonic = "glare evolve double book curtain gallery erosion energy cluster cart know outer";

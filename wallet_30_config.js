@@ -1,1 +1,1 @@
-var mnemonic = "aspect derive erode female bridge throw moment donate mention clarify elephant spirit";
+var mnemonic = "language embody weasel collect hurt bridge bicycle doctor number mirror citizen canoe";

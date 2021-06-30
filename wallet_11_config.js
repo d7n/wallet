@@ -1,1 +1,1 @@
-var mnemonic = "across warfare draw degree trouble wrong ladder yard wood wild teach tourist";
+var mnemonic = "disorder shaft choose crouch rifle humor fantasy primary away become illegal crop";

@@ -1,1 +1,1 @@
-var mnemonic = "stone mouse position trigger north prepare account alley host onion stumble asthma";
+var mnemonic = "bunker food cover embody define answer broken obvious crowd stick leg rough";

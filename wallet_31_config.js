@@ -1,1 +1,1 @@
-var mnemonic = "grunt decorate frown mail flat manual risk govern filter void estate inflict";
+var mnemonic = "load educate conduct pumpkin pig sleep garage electric senior pyramid silly tilt";

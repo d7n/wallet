@@ -1,1 +1,1 @@
-var mnemonic = "found always enable exercise spread inflict cannon range lion slogan adapt rather";
+var mnemonic = "cancel animal tornado galaxy immune solve zebra slide diary cargo echo awkward";

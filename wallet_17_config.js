@@ -1,1 +1,1 @@
-var mnemonic = "pair prepare bitter crawl cash perfect amazing select gold more absurd fly";
+var mnemonic = "shove bulb aisle waste width firm quote anxiety hawk siren industry champion";

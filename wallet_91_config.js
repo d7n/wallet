@@ -1,1 +1,1 @@
-var mnemonic = "topple dinner uncle hard hedgehog torch ability joke smoke onion play visa";
+var mnemonic = "tuna suffer bulb regret rapid original manage surface ill unknown arctic arm";

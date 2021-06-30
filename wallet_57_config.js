@@ -1,1 +1,1 @@
-var mnemonic = "gym manage wheel raw pair certain topic impulse whip risk convince wait";
+var mnemonic = "lock income canvas welcome voice trumpet cereal curtain busy crazy spider antenna";

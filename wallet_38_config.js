@@ -1,1 +1,1 @@
-var mnemonic = "ten silly disease inherit scissors delay chronic leg stuff ridge visit famous";
+var mnemonic = "subway moral second movie scissors veteran mouse please metal file galaxy pluck";

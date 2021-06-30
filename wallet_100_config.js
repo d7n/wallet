@@ -1,1 +1,1 @@
-var mnemonic = "motor mail course cliff retreat myself tired perfect spare derive reform head";
+var mnemonic = "original organ raise camera setup panel around mom total before gap rather";

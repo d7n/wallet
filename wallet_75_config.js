@@ -1,1 +1,1 @@
-var mnemonic = "surface chimney wheel mixture execute dinosaur kit giant suit share envelope fresh";
+var mnemonic = "script payment crew sibling bike aerobic mother pair whisper chuckle patch sun";

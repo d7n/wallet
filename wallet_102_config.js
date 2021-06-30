@@ -1,1 +1,1 @@
-var mnemonic = "quality satoshi famous margin member merge guide dress tonight stool spot tissue";
+var mnemonic = "surge frame west test leader wine artefact flame pride afraid fluid syrup";

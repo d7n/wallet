@@ -1,1 +1,1 @@
-var mnemonic = "struggle timber retreat will bunker chaos affair grit surge fox dice hunt";
+var mnemonic = "anger since purse crowd emotion shop gesture bulb either license friend husband";

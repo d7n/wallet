@@ -1,1 +1,1 @@
-var mnemonic = "switch side scout auction disease sign circle other tell biology ribbon truck";
+var mnemonic = "negative decade meadow stone traffic frog retreat town cover alien carpet april";

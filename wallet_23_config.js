@@ -1,1 +1,1 @@
-var mnemonic = "coil bullet echo code monitor cabbage oil addict student faith receive usual";
+var mnemonic = "cloud genuine tired execute morning resist trim champion range solid rocket noise";

@@ -1,1 +1,1 @@
-var mnemonic = "keep pumpkin bullet museum abuse help raven original time liquid clay acoustic";
+var mnemonic = "rebel radio vote panic artwork fault spoil tenant hedgehog lift fantasy fatal";

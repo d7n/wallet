@@ -1,1 +1,1 @@
-var mnemonic = "judge grape truly venture insect glue symbol tongue seed coin dignity theme";
+var mnemonic = "wage faculty woman drill run discover sound carry step actress opinion place";

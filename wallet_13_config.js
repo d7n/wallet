@@ -1,1 +1,1 @@
-var mnemonic = "clog bridge run other love avoid explain million hurry version before swing";
+var mnemonic = "oppose update trophy balcony have fiscal island box swap please knife pave";

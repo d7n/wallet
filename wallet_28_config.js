@@ -1,1 +1,1 @@
-var mnemonic = "right harvest choice space fantasy step rug save foam rack history relax";
+var mnemonic = "blouse awful oxygen pact fun paper mesh library weapon stand series wealth";

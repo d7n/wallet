@@ -1,1 +1,1 @@
-var mnemonic = "more swap credit timber piano convince dizzy gloom humor slot cancel master";
+var mnemonic = "away treat hurt music risk argue canyon timber citizen clever illness table";

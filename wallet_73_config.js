@@ -1,1 +1,1 @@
-var mnemonic = "gas use opera away ugly parrot trade shoulder mimic upper strike boy";
+var mnemonic = "fiscal diary idea corn remain between predict exercise silver submit embark perfect";

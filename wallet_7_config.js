@@ -1,1 +1,1 @@
-var mnemonic = "bike multiply muscle limb ridge divert cake patch trim abuse hurdle power";
+var mnemonic = "cross utility base bone forest shiver luxury rookie live first unveil error";

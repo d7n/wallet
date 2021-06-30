@@ -1,1 +1,1 @@
-var mnemonic = "dynamic upset pretty congress pony excess ranch pizza base bunker soda attitude";
+var mnemonic = "measure equal upgrade luxury unhappy marble sign unusual unknown afraid elegant illness";

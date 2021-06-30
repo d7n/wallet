@@ -1,1 +1,1 @@
-var mnemonic = "leg vintage sentence aspect gap stand album seed elevator favorite glue vote";
+var mnemonic = "release magnet next enemy country critic live sail surface accident dolphin yard";

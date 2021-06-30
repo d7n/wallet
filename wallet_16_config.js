@@ -1,1 +1,1 @@
-var mnemonic = "trust lunch zebra final ivory disagree move buddy jealous movie law coast";
+var mnemonic = "explain message rather exist quarter asset memory soldier humor test build antique";

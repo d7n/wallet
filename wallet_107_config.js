@@ -1,1 +1,1 @@
-var mnemonic = "kick pond alley estate panel best engine reopen useless track nasty insect";
+var mnemonic = "attract caution flip fruit kitten because october piano element soon tank winner";

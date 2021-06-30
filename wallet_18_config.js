@@ -1,1 +1,1 @@
-var mnemonic = "olive quick tragic combine gather chair junk upgrade ticket debris congress dish";
+var mnemonic = "grit lady post remember wave leaf surge tiger cherry foil collect fetch";

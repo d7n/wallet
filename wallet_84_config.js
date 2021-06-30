@@ -1,1 +1,1 @@
-var mnemonic = "liar open humble task sound venue month hill valley exist moral banner";
+var mnemonic = "broken arm young feel female output daring stay sight panel memory cart";

@@ -1,1 +1,1 @@
-var mnemonic = "omit swing firm dumb search thrive bus danger raw jaguar what snap";
+var mnemonic = "unable job ridge title love beach digital advice foam math until student";

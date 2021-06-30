@@ -1,1 +1,1 @@
-var mnemonic = "title uphold any battle hire mail congress taste example item soul pet";
+var mnemonic = "annual pass charge kick wedding card lyrics coyote roast luxury rough hover";

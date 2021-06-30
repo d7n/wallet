@@ -1,1 +1,1 @@
-var mnemonic = "athlete install erosion interest series chunk devote praise cattle correct current stock";
+var mnemonic = "neither edit decide asthma pond ozone rally outdoor object coin clever net";

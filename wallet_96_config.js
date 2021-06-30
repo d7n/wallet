@@ -1,1 +1,1 @@
-var mnemonic = "skirt renew laundry brick harvest cool dawn close sentence blush fortune gravity";
+var mnemonic = "lens opinion fix buddy crawl gaze certain script valid knee rule fall";

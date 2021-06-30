@@ -1,1 +1,1 @@
-var mnemonic = "rifle sustain vast joke catalog answer tuna roast paddle dizzy ticket point";
+var mnemonic = "slice liberty stamp boring deputy slight priority claw clarify defense open pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "practice what raven decline dismiss fox syrup devote machine shrug emerge ship";
+var mnemonic = "dish mosquito source foster exercise unit picture child hedgehog frequent hedgehog wrist";

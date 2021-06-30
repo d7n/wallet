@@ -1,1 +1,1 @@
-var mnemonic = "welcome supply chest flower remember add verify language rhythm six laundry body";
+var mnemonic = "bounce retire belt glide rent arena interest expand column secret physical police";

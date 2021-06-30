@@ -1,1 +1,1 @@
-var mnemonic = "sign eternal shine prefer grape card usage crumble vicious manual merry hub";
+var mnemonic = "warfare lesson major project cliff armor dinosaur stomach satoshi visual capable priority";

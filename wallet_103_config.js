@@ -1,1 +1,1 @@
-var mnemonic = "certain warfare rate west witness mandate dose distance capable sauce urge claw";
+var mnemonic = "vivid balance mercy safe mango slight domain food romance humor hamster tuition";

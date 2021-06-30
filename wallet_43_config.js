@@ -1,1 +1,1 @@
-var mnemonic = "scorpion expire cave shiver rebuild south olive round reduce buffalo loud album";
+var mnemonic = "cube already put rule grief blossom crack post width citizen suffer grab";

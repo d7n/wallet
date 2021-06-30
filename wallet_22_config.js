@@ -1,1 +1,1 @@
-var mnemonic = "cover fog shine say gather dizzy extra vehicle same spider stock build";
+var mnemonic = "canoe year music three walk true simple enrich mango fine town script";

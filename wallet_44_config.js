@@ -1,1 +1,1 @@
-var mnemonic = "rug ghost also chef enable erupt glimpse timber churn lesson clean crop";
+var mnemonic = "type gate mosquito wasp trick manual banner organ bamboo egg trend horse";

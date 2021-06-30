@@ -1,1 +1,1 @@
-var mnemonic = "skirt valve large below crack vast risk earn blind pond walk parrot";
+var mnemonic = "census useless what symptom one space cruise lock balance promote wise stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "add injury champion sponsor what drip rescue envelope song bone ranch minute";
+var mnemonic = "then siren oak tuition crime license flat nice add certain rain female";

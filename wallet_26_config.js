@@ -1,1 +1,1 @@
-var mnemonic = "liar fox chest repair fire erode virtual fall tumble obvious steak nominee";
+var mnemonic = "hip bicycle amused open margin renew correct smoke inherit square limit balance";

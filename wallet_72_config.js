@@ -1,1 +1,1 @@
-var mnemonic = "twist danger lend edge forward language spice normal among chase time guitar";
+var mnemonic = "catalog coffee report moral brand husband plate grant audit attend airport air";

@@ -1,1 +1,1 @@
-var mnemonic = "tray attract primary lizard lab battle labor smart action door found action";
+var mnemonic = "rebel love actual bacon fresh still video mutual cereal boy audit file";

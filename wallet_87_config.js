@@ -1,1 +1,1 @@
-var mnemonic = "glass clever impulse voyage invite father owner forward canal chicken profit small";
+var mnemonic = "cherry interest eager phrase gesture rifle bronze hamster debate strike subway spray";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe make helmet utility twice alpha rescue write kiwi foil power group";
+var mnemonic = "broom twist feature casual industry slot output liberty sibling web cabbage hurry";

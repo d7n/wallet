@@ -1,1 +1,1 @@
-var mnemonic = "short mandate east soon squeeze pattern female pair visit evolve fluid surge";
+var mnemonic = "law noodle dignity busy next surprise satisfy advice split finish grit faculty";

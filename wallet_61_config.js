@@ -1,1 +1,1 @@
-var mnemonic = "average seminar warfare access turn peasant proof trend paddle critic retire lyrics";
+var mnemonic = "word cycle expand century tortoise grid design acid emerge kingdom broom birth";

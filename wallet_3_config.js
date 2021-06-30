@@ -1,1 +1,1 @@
-var mnemonic = "hawk river review mixture laptop scatter cruel throw copper mixed amazing approve";
+var mnemonic = "foster sentence claw output stomach dial frequent crash firm enable cement catalog";

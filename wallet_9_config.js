@@ -1,1 +1,1 @@
-var mnemonic = "liar segment garden embody disorder effort crumble shrug quick olive turkey later";
+var mnemonic = "bridge pupil ship celery year buyer other ivory kiwi kick coffee month";

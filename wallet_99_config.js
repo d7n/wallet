@@ -1,1 +1,1 @@
-var mnemonic = "laptop pulp evolve absorb amateur number steak exotic imitate surge pilot wool";
+var mnemonic = "vague danger soldier index kitchen gown leave make march sauce main include";

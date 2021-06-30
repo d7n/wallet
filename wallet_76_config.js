@@ -1,1 +1,1 @@
-var mnemonic = "shrug twist congress swarm agent owner glide traffic quote fluid large discover";
+var mnemonic = "crew liberty pet ahead audit dish reunion knife job tone coin accident";

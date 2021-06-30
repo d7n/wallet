@@ -1,1 +1,1 @@
-var mnemonic = "crop across bacon imitate arctic join violin whip tattoo ladder differ frown";
+var mnemonic = "grit unfair advance margin finish head turtle usual invite noise trumpet clip";

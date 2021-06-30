@@ -1,1 +1,1 @@
-var mnemonic = "knee anxiety used patrol little voice raccoon grid grief monster corn wife";
+var mnemonic = "mind liquid damp farm property negative material all turkey rent anchor isolate";

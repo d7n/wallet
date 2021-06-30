@@ -1,1 +1,1 @@
-var mnemonic = "used ridge monitor else alien undo cupboard drum expect swap shield silent";
+var mnemonic = "inhale blame blouse holiday squeeze lava flag cattle maze staff alter essence";

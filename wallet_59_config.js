@@ -1,1 +1,1 @@
-var mnemonic = "roast ostrich equal same snake above gentle lamp feel survey smile degree";
+var mnemonic = "drop stumble stool robust swap wild lady plate soft duck tank genre";

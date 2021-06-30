@@ -1,1 +1,1 @@
-var mnemonic = "add loud stable bulb viable divert regret elder swarm smile language trigger";
+var mnemonic = "pumpkin fall produce claim reduce pull crunch talent guilt river core tackle";

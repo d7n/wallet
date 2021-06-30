@@ -1,1 +1,1 @@
-var mnemonic = "siren divert adult later stock orchard wool art chef ball green clutch";
+var mnemonic = "carbon artist doll hub engine same priority tonight sphere mobile satisfy garlic";

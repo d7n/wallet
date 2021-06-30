@@ -1,1 +1,1 @@
-var mnemonic = "bus amused item consider hunt must hole series nurse trap vivid broken";
+var mnemonic = "cruel material burst film wheel theory toe target decrease issue mobile fresh";

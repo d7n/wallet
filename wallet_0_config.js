@@ -1,1 +1,1 @@
-var mnemonic = "pear goddess source only clerk wet noodle hat desk noble girl awkward";
+var mnemonic = "fish neither update grocery prize resource narrow settle ring vintage aware front";

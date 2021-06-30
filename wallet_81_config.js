@@ -1,1 +1,1 @@
-var mnemonic = "there outside sound penalty man slab news concert notice dragon onion patrol";
+var mnemonic = "shoe hamster drift drip cream sleep unfold ordinary sun tail grow rapid";

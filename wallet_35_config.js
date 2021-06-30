@@ -1,1 +1,1 @@
-var mnemonic = "six saddle voice divide island desert virtual dumb fluid romance vapor physical";
+var mnemonic = "crane silly radio report fancy degree distance alert habit field crumble tray";

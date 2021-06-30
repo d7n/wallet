@@ -1,1 +1,1 @@
-var mnemonic = "inmate say federal youth lemon bicycle upon absorb ski island unique elephant";
+var mnemonic = "avocado fresh music safe keen sing price guitar glance observe mixed dish";

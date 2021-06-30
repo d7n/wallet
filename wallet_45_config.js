@@ -1,1 +1,1 @@
-var mnemonic = "rich write satoshi attend next maid polar loan candy learn audit you";
+var mnemonic = "able elder month depth frown weapon venture bulk symptom hello order bullet";

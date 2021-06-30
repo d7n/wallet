@@ -1,1 +1,1 @@
-var mnemonic = "hurry zone sauce input hybrid ostrich there indoor banner reject legal destroy";
+var mnemonic = "social crew grace major car liar damage cave fade sand despair rate";

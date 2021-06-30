@@ -1,1 +1,1 @@
-var mnemonic = "lazy now cash lyrics aerobic flavor post vapor love hint valve cute";
+var mnemonic = "axis breeze rigid infant fatal six total net february lady awesome wealth";

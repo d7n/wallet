@@ -1,1 +1,1 @@
-var mnemonic = "penalty hint neglect cloud reunion comic fossil almost aspect utility vivid suggest";
+var mnemonic = "coin magnet broom useful brush horror robust copper blur update fortune december";

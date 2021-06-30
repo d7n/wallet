@@ -1,1 +1,1 @@
-var mnemonic = "tissue gift sadness wish expire idle kidney response danger lend under flavor";
+var mnemonic = "eagle attract hawk abstract ranch random army tomorrow fix snack certain fade";

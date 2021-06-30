@@ -1,1 +1,1 @@
-var mnemonic = "tongue life where torch split polar rigid shrug reflect success disagree exclude";
+var mnemonic = "sting toe season stable trouble tragic blade resist train surround pulp snap";

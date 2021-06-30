@@ -1,1 +1,1 @@
-var mnemonic = "planet abandon sun obtain brother raccoon noble chief spatial wild predict clay";
+var mnemonic = "merit forum near impulse ghost palace choose erase air mechanic tooth rival";

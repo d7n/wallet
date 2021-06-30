@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow market gospel surprise parrot tortoise note can solve beach gift slide";
+var mnemonic = "spawn swing flight present usage bring snack stool cable timber card month";

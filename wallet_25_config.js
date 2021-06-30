@@ -1,1 +1,1 @@
-var mnemonic = "toward where brick blue aim scrub scatter level chat bid opera three";
+var mnemonic = "gaze vast dash purse brief high choose video dad satisfy prosper crumble";

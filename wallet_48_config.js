@@ -1,1 +1,1 @@
-var mnemonic = "security order bounce record solution lift lonely render budget sell minimum protect";
+var mnemonic = "wasp engine old problem shoot fire rail deputy best face egg gold";

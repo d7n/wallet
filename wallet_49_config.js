@@ -1,1 +1,1 @@
-var mnemonic = "goat trust submit trouble favorite night argue body alone own moral lumber";
+var mnemonic = "van blood agree much draw weekend invest evidence captain sense trend lumber";

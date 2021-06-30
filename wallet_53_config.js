@@ -1,1 +1,1 @@
-var mnemonic = "draft verify reject industry grid question unveil child afraid multiply bulk general";
+var mnemonic = "senior van drop egg girl tilt orphan normal eternal scatter thank credit";

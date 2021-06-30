@@ -1,1 +1,1 @@
-var mnemonic = "bag access twelve language print type retreat luggage say brave crane balance";
+var mnemonic = "exercise scatter romance they scissors silver vicious author ozone sick captain sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "hand black swear wet permit dry whale similar satoshi dismiss submit cement";
+var mnemonic = "beauty fox filter route foster attend like doctor record that recall roast";

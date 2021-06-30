@@ -1,1 +1,1 @@
-var mnemonic = "month elephant liar advice drama jealous will green hospital bless mule panel";
+var mnemonic = "disagree wheel under helmet sponsor jealous elegant resemble link today unfold random";

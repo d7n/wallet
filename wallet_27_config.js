@@ -1,1 +1,1 @@
-var mnemonic = "nature trim lion chuckle gravity april effort project hint shift glass west";
+var mnemonic = "zoo hedgehog grow forum eight arm hair diagram suggest coach ship spin";

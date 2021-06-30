@@ -1,1 +1,1 @@
-var mnemonic = "elbow gain damp work cheese green hazard idle balance control believe fork";
+var mnemonic = "stable indoor hand focus shell satoshi scare glimpse slogan top twenty produce";

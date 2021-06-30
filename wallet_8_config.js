@@ -1,1 +1,1 @@
-var mnemonic = "exile poverty echo hockey view way yard eight theory shift alert logic";
+var mnemonic = "cruise save talk gas furnace never outer brush win then wood hood";

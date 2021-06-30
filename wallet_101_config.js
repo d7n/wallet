@@ -1,1 +1,1 @@
-var mnemonic = "finish sudden extend erosion reject river desert width hospital indicate taste outdoor";
+var mnemonic = "charge traffic forget radio print praise copy attitude wonder sock welcome scale";
