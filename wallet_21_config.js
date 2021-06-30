@@ -1,1 +1,1 @@
-var mnemonic = "surface text fiscal demand invite month job march possible carry attract keen";
+var mnemonic = "floor normal paddle syrup innocent license boss manage fringe sorry seminar soul";

@@ -1,1 +1,1 @@
-var mnemonic = "menu unveil spare milk unveil illness double story stairs twelve borrow patrol";
+var mnemonic = "siege honey tone steel grit suffer scatter pole find heart nut fabric";

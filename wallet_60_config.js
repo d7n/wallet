@@ -1,1 +1,1 @@
-var mnemonic = "brick banana law alert frost modify organ train ankle cover arrest ecology";
+var mnemonic = "actual vibrant boost crack soldier flame sun bitter upon proof nominee weapon";

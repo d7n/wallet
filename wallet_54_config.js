@@ -1,1 +1,1 @@
-var mnemonic = "crane blossom jazz pioneer twenty hip hood wagon enrich jeans pigeon keen";
+var mnemonic = "devote swallow roast elder family anxiety boil gas february celery hire pride";

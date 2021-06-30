@@ -1,1 +1,1 @@
-var mnemonic = "vapor lamp taste sword seed pair hover that bless permit creek small";
+var mnemonic = "direct million swift often vital nature little key pupil cheap prepare gate";

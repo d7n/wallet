@@ -1,1 +1,1 @@
-var mnemonic = "rescue exit marriage lyrics ahead useless rose innocent various vessel expire exist";
+var mnemonic = "weapon card melt glimpse effort any bid bamboo glide fork mouse region";

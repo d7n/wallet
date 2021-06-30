@@ -1,1 +1,1 @@
-var mnemonic = "jungle salon plate cost any waste differ win explain property never lunar";
+var mnemonic = "civil climb corn long manage sheriff borrow help sight deputy appear eight";

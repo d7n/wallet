@@ -1,1 +1,1 @@
-var mnemonic = "mercy gap dolphin reopen acoustic present million brief stock mom evolve bubble";
+var mnemonic = "wait practice spare faculty surround creek glide easy frown radar giraffe dog";

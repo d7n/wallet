@@ -1,1 +1,1 @@
-var mnemonic = "hidden chimney problem wife stumble drill practice author merry output will long";
+var mnemonic = "believe you wool vintage piece endless snake wrap degree banana sport bomb";

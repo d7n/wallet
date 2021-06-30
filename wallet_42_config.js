@@ -1,1 +1,1 @@
-var mnemonic = "ocean degree harsh burst palace punch ladder throw party result alien stock";
+var mnemonic = "eagle trial odor raw exclude include pill upon put climb make first";

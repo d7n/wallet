@@ -1,1 +1,1 @@
-var mnemonic = "valid dance alter inject nut swallow first come dutch hood sister video";
+var mnemonic = "panel spend drama chest rough ask bacon library ill skate menu pair";

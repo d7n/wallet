@@ -1,1 +1,1 @@
-var mnemonic = "wave force dial decorate beyond giraffe moment clog mirror wash sing blur";
+var mnemonic = "screen open patient coast elevator cliff faint ladder plug inflict rack spin";

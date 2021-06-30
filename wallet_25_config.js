@@ -1,1 +1,1 @@
-var mnemonic = "inmate jealous jar tail scene puzzle learn debris pumpkin shove soap language";
+var mnemonic = "portion amount slush size carry kingdom vivid already put ripple ability monitor";

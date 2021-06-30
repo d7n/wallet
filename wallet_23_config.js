@@ -1,1 +1,1 @@
-var mnemonic = "basket final keep rather skill defense gesture liquid road payment vacuum give";
+var mnemonic = "kangaroo symbol drastic play sun invite staff unit pupil cool buzz quote";

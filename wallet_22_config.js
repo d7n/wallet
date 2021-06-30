@@ -1,1 +1,1 @@
-var mnemonic = "depth talk review foster paddle lift nurse crane item attract soon hole";
+var mnemonic = "attract control derive local loyal chicken wall session become fever arena cage";

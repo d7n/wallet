@@ -1,1 +1,1 @@
-var mnemonic = "fat balcony refuse motor emerge admit income afraid east mix cushion merit";
+var mnemonic = "danger arch crisp circle neck reduce home key hidden enough enjoy parrot";

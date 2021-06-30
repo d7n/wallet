@@ -1,1 +1,1 @@
-var mnemonic = "melt chronic true lonely trust cute banana open keep soccer indoor puppy";
+var mnemonic = "tourist main front response title fluid adult trend assist flower party scissors";

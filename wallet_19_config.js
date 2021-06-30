@@ -1,1 +1,1 @@
-var mnemonic = "middle beef fatigue orchard oil obey defy unaware inch clutch skirt blanket";
+var mnemonic = "sadness possible legal catalog balance rubber question sauce bless off large holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "mango high cricket wagon address slab vault month fan iron decrease endorse";
+var mnemonic = "swallow vibrant mystery portion dose barrel cook fabric inflict rally impulse mail";

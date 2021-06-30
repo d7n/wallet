@@ -1,1 +1,1 @@
-var mnemonic = "gain board exclude chair caught make minimum pole spatial slender exotic force";
+var mnemonic = "hospital meadow sniff honey hurry gravity alarm night globe kid screen path";

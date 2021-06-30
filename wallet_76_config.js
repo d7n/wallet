@@ -1,1 +1,1 @@
-var mnemonic = "suffer tuition puppy hawk fatal promote trick scan swing victory trip search";
+var mnemonic = "card since surface shaft shiver sad slush payment winter mobile adult survey";

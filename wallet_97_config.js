@@ -1,1 +1,1 @@
-var mnemonic = "dust misery ginger rib source scale kangaroo rescue marine today impose thumb";
+var mnemonic = "laugh sign civil dawn bag action vacant citizen evidence author alley globe";

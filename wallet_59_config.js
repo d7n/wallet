@@ -1,1 +1,1 @@
-var mnemonic = "sleep fancy sibling such faith denial nominee sight blue dad omit across";
+var mnemonic = "bring crew faith flash laptop shop trophy farm web scare will man";

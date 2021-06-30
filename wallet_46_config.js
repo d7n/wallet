@@ -1,1 +1,1 @@
-var mnemonic = "health charge bargain increase consider tattoo alley oyster pulse monkey catch earn";
+var mnemonic = "busy dice drift run brief cargo social kingdom shed author stable rose";

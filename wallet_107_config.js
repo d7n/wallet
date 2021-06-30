@@ -1,1 +1,1 @@
-var mnemonic = "rapid rotate eternal unfair fabric oval alert uniform brisk arrange hill lens";
+var mnemonic = "city price egg pistol culture abandon rule unit clay plastic snack impact";

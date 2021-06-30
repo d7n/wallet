@@ -1,1 +1,1 @@
-var mnemonic = "suggest guess asthma float enemy business base hair mirror blanket feel enforce";
+var mnemonic = "quit prize coffee brave beach front valid kick sword you cart barrel";

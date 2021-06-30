@@ -1,1 +1,1 @@
-var mnemonic = "insect flight female leg paper drum guitar sight bomb clip woman question";
+var mnemonic = "usage census nest detect banana squeeze rice retreat allow staff festival fetch";

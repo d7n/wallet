@@ -1,1 +1,1 @@
-var mnemonic = "reopen excuse pottery faith load stage believe one tower ignore asthma onion";
+var mnemonic = "twice hammer climb funny dutch noodle luggage vessel legal monster spare unique";

@@ -1,1 +1,1 @@
-var mnemonic = "illness any admit medal provide night rifle again middle fancy program uniform";
+var mnemonic = "razor pledge egg giraffe victory roof town doll sight purity purchase snack";

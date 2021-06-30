@@ -1,1 +1,1 @@
-var mnemonic = "install knife answer evolve accident neither business survey prefer right hundred believe";
+var mnemonic = "yard twelve chase deal vague arena guide jacket duck picture twice know";

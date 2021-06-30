@@ -1,1 +1,1 @@
-var mnemonic = "denial tray act manage type assault tissue spread daughter planet kangaroo novel";
+var mnemonic = "hunt vehicle river kingdom scrap people jump novel female tiny pottery tool";

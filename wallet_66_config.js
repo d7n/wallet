@@ -1,1 +1,1 @@
-var mnemonic = "cattle good exercise cycle quiz lounge field educate elegant amazing else gaze";
+var mnemonic = "shell ignore fancy flock valve clown expire flag hat delay agent steak";

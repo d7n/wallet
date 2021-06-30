@@ -1,1 +1,1 @@
-var mnemonic = "match detail life spell permit punch lake benefit scheme wedding seat argue";
+var mnemonic = "virtual juice rigid math chest indicate father rely begin cannon orbit reflect";

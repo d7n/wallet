@@ -1,1 +1,1 @@
-var mnemonic = "deer ketchup runway nasty ridge music float stool food spread excess shed";
+var mnemonic = "bracket tobacco screen surface hour carry wash already school over magnet twice";

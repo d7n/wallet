@@ -1,1 +1,1 @@
-var mnemonic = "ivory tray eager canvas orange inner wire dish silly bag inflict benefit";
+var mnemonic = "hat admit snap tennis roast wing group increase consider runway scissors mystery";

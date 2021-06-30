@@ -1,1 +1,1 @@
-var mnemonic = "thrive napkin since foot lion place trial crop virus vintage pudding vanish";
+var mnemonic = "rule mobile thumb distance shove august three response intact basic winter enhance";

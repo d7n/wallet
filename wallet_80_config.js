@@ -1,1 +1,1 @@
-var mnemonic = "paddle ankle comfort bubble rigid risk chair business advice where foam state";
+var mnemonic = "announce knee cinnamon tiny ozone truck keep middle helmet glide asset film";

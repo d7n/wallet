@@ -1,1 +1,1 @@
-var mnemonic = "ugly glue lemon client pig appear ahead copper elevator palm car toy";
+var mnemonic = "trumpet veteran uphold spike urge owner lecture nerve goddess wing maid rookie";

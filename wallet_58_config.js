@@ -1,1 +1,1 @@
-var mnemonic = "squeeze chief claw airport festival joy crash solar rib oppose shallow toilet";
+var mnemonic = "drill index wrong jaguar coral forget fashion decorate argue truth issue lake";

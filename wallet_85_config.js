@@ -1,1 +1,1 @@
-var mnemonic = "random quarter empty sphere feed size trumpet stumble garage assault undo note";
+var mnemonic = "upon decade oppose lens source deer medal setup exotic trick broom hope";

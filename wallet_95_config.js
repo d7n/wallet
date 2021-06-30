@@ -1,1 +1,1 @@
-var mnemonic = "better you such cricket across chat now enhance syrup spice sadness bind";
+var mnemonic = "cruise flag source gather repair apology recipe shrimp giant gate onion slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "always short catalog limb obey match budget poem aim quarter strategy jelly";
+var mnemonic = "want pupil simple imitate run current bachelor thing festival title dentist manual";

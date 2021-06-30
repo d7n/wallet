@@ -1,1 +1,1 @@
-var mnemonic = "scrap fan accident chase modify system warm grass mushroom noise couple secret";
+var mnemonic = "ketchup trigger twice base reduce hill nerve job immune digital around true";

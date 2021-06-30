@@ -1,1 +1,1 @@
-var mnemonic = "drill empty repair cancel source child february glance melt sing push month";
+var mnemonic = "crush school exit man uncle assume pyramid bike traffic gate river lift";

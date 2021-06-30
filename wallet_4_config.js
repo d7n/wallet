@@ -1,1 +1,1 @@
-var mnemonic = "cushion clever naive scatter shoe predict expect emerge globe clip caution snack";
+var mnemonic = "glove language display divorce afford luggage recipe where holiday vessel scale park";

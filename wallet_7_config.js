@@ -1,1 +1,1 @@
-var mnemonic = "method seminar current mouse submit solve extra bitter sound notice episode card";
+var mnemonic = "document still refuse bone hood cat soccer quote intact later sight knock";

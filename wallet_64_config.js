@@ -1,1 +1,1 @@
-var mnemonic = "carpet consider foam earn hundred music dance practice stick invest double onion";
+var mnemonic = "envelope gas cry chase bleak pottery keep abandon kitten sense weather loop";

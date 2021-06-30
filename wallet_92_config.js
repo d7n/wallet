@@ -1,1 +1,1 @@
-var mnemonic = "sample motion fade mandate team copy palm outside include drive stone art";
+var mnemonic = "rug model group lend minor brass barrel awake project install casino merry";

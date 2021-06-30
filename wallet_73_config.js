@@ -1,1 +1,1 @@
-var mnemonic = "limit tooth smart vendor slow float decline slot lucky figure enlist dad";
+var mnemonic = "waste mutual skull crater hub tip sand valid host analyst move garden";

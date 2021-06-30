@@ -1,1 +1,1 @@
-var mnemonic = "remind opinion universe chef cruise daughter select truck diamond faint inject shell";
+var mnemonic = "runway large public imitate anxiety two explain lesson just oval this erupt";

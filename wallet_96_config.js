@@ -1,1 +1,1 @@
-var mnemonic = "trial hammer firm produce fitness treat disease owner armor lens comfort spring";
+var mnemonic = "term pool situate garlic embody miracle region embark enemy recall outer promote";

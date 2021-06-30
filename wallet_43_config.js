@@ -1,1 +1,1 @@
-var mnemonic = "nut stereo shoulder account solid cricket vital capable twin mutual scrap talent";
+var mnemonic = "hunt fragile cloud world fiber split tenant unaware rice skill silk muffin";

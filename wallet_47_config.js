@@ -1,1 +1,1 @@
-var mnemonic = "transfer fun powder such elephant blouse vicious absent bind youth satisfy rapid";
+var mnemonic = "range river buffalo client armed scene fringe device shrimp jaguar country off";

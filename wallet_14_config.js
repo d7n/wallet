@@ -1,1 +1,1 @@
-var mnemonic = "glide calm meat found board option sport dignity vocal venture image car";
+var mnemonic = "first pelican oven minute basic spare buyer robust beef upper pepper tunnel";

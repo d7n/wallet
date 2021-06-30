@@ -1,1 +1,1 @@
-var mnemonic = "spread casino eager dose act victory become file better melt submit remind";
+var mnemonic = "shell decide good proud submit flower cradle dignity rookie try flat tower";

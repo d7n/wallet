@@ -1,1 +1,1 @@
-var mnemonic = "oven index around crack tip lounge liberty visual soft abandon drip domain";
+var mnemonic = "coral reopen admit spin comfort breeze pretty treat cement parent catalog wheel";

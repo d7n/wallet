@@ -1,1 +1,1 @@
-var mnemonic = "accuse waste congress horse brown duty motion gauge luggage wire march brisk";
+var mnemonic = "twist option pen notice shift quantum extra fringe fish guilt artefact rural";

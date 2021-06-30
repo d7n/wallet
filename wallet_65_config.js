@@ -1,1 +1,1 @@
-var mnemonic = "jewel desk rebuild bridge guide iron treat zone bless width gate derive";
+var mnemonic = "boost riot clap voyage game shrimp blanket trust road orphan hotel void";

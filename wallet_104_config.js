@@ -1,1 +1,1 @@
-var mnemonic = "denial cat only also matrix ecology tobacco image high leave spot gentle";
+var mnemonic = "spell wagon great artist topple feel dentist fire left siren waste able";

@@ -1,1 +1,1 @@
-var mnemonic = "brush engage six dial heart fan position flee ankle divert pyramid this";
+var mnemonic = "capable play segment pudding video cry spring intact angry void kid few";

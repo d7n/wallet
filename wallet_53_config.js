@@ -1,1 +1,1 @@
-var mnemonic = "cigar have erupt conduct leave thunder garbage young sell bring zone rule";
+var mnemonic = "bullet they zebra trim spot faculty grit check grid exhaust oblige science";

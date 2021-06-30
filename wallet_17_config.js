@@ -1,1 +1,1 @@
-var mnemonic = "secret ethics extra oil great enrich drastic involve spoon because animal crush";
+var mnemonic = "label february since art night duty decade space off slim absurd project";

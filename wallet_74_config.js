@@ -1,1 +1,1 @@
-var mnemonic = "mirror security source hold know fashion match bid practice guess advice eternal";
+var mnemonic = "field fish weather verify off grain option grace business gas crumble vast";

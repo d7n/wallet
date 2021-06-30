@@ -1,1 +1,1 @@
-var mnemonic = "allow trigger manual foster despair useful holiday beauty come afraid whisper nut";
+var mnemonic = "acquire annual crime amazing art join iron lift ranch blind dial success";

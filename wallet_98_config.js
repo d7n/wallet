@@ -1,1 +1,1 @@
-var mnemonic = "cigar adjust fury trial differ sniff cancel element forest clown fire tackle";
+var mnemonic = "act buddy coconut digital symptom bench thing steak birth alley focus cart";

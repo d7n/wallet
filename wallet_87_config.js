@@ -1,1 +1,1 @@
-var mnemonic = "scene clog scout vanish shoot inner tired glimpse expire fox concert never";
+var mnemonic = "ride deposit dice amused play camp wise adjust oven shoot heart add";

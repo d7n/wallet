@@ -1,1 +1,1 @@
-var mnemonic = "alone glance stay orphan sausage release goose auto fan hint wage phrase";
+var mnemonic = "clap much mountain among cement trust female lens afraid more captain photo";

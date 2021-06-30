@@ -1,1 +1,1 @@
-var mnemonic = "city pride tape pony gaze air round pole advice degree erupt comic";
+var mnemonic = "train use address deputy video mansion paddle circle indoor waste arrange patient";

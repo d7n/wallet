@@ -1,1 +1,1 @@
-var mnemonic = "select school sweet despair april run post slice mechanic swim churn mail";
+var mnemonic = "peasant spell dragon powder abandon crack confirm cousin parade state modify share";

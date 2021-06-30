@@ -1,1 +1,1 @@
-var mnemonic = "install that seat much hamster faculty among menu scene spin review address";
+var mnemonic = "ritual off zone media ability rib differ foil flip capital tip danger";

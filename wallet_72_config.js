@@ -1,1 +1,1 @@
-var mnemonic = "foil phone joke canal smart such girl chicken soon second pledge chunk";
+var mnemonic = "photo broccoli fox piece since isolate august spice return horn sphere away";

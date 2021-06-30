@@ -1,1 +1,1 @@
-var mnemonic = "hazard prepare cube library depart accident average climb crime similar wrap fish";
+var mnemonic = "wide type apology arrow journey inject tattoo boil famous vault cruise silk";

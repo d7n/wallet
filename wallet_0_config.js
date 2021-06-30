@@ -1,1 +1,1 @@
-var mnemonic = "hungry pave rhythm example tenant glow giraffe badge badge wear dad divorce";
+var mnemonic = "picture survey copper gate usage ecology code trick simple siege hungry length";

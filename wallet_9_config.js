@@ -1,1 +1,1 @@
-var mnemonic = "snow what decline wait hero guilt note better despair know random club";
+var mnemonic = "human dragon cabbage digital capable orange beef spider chase all bleak draw";

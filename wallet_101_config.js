@@ -1,1 +1,1 @@
-var mnemonic = "rice brass model cover round beach energy cinnamon approve book spell story";
+var mnemonic = "accident size prevent hat bulb then roast song cable misery coach sadness";

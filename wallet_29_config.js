@@ -1,1 +1,1 @@
-var mnemonic = "eagle language debris embrace machine resemble index truck youth unlock cheap oxygen";
+var mnemonic = "lyrics float model crucial rose absorb meadow always web salt excess all";

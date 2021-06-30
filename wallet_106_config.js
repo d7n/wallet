@@ -1,1 +1,1 @@
-var mnemonic = "top argue shallow primary neither ostrich toddler nominee leisure cross present sport";
+var mnemonic = "lawn wood soup october grunt chaos small wealth glance dirt sudden grab";

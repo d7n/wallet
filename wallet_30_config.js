@@ -1,1 +1,1 @@
-var mnemonic = "stool recycle fresh solve leisure belt culture style patient pass hundred fall";
+var mnemonic = "just tiger thought tone property region sport grief exact pill travel jacket";

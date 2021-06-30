@@ -1,1 +1,1 @@
-var mnemonic = "ostrich teach flock afraid domain devote faculty tobacco age retire receive excuse";
+var mnemonic = "inch shadow soap deliver during solar garbage clinic secret unfold sad bamboo";

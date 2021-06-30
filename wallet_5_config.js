@@ -1,1 +1,1 @@
-var mnemonic = "auto enlist increase luxury utility mountain marble educate mix cluster illegal assume";
+var mnemonic = "concert solution estate popular stay better issue latin dolphin minute profit ridge";

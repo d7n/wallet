@@ -1,1 +1,1 @@
-var mnemonic = "tuna sunny effort dentist nephew bulb cotton pencil fuel record will note";
+var mnemonic = "blur good green scrub limit cool total syrup undo image domain media";

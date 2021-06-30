@@ -1,1 +1,1 @@
-var mnemonic = "emerge soda laundry barely bomb vintage enemy recycle royal harvest message raven";
+var mnemonic = "photo code practice torch update issue magnet human rice rate fluid present";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble provide jealous abstract fire place indicate wild shadow seat lumber affair";
+var mnemonic = "they cost include gun ice trash sight between slam broken mix primary";

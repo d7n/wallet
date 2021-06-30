@@ -1,1 +1,1 @@
-var mnemonic = "panel below outdoor juice mimic suspect worry device lawn chapter report tool";
+var mnemonic = "jewel warrior stumble melody despair under silk regular exotic you document iron";

@@ -1,1 +1,1 @@
-var mnemonic = "quick once case recycle law book help nest review depart civil yard";
+var mnemonic = "unfold strong fetch supply misery length short border razor north vessel gain";

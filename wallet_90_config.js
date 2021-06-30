@@ -1,1 +1,1 @@
-var mnemonic = "switch light input leader taste fox label market soda person patch level";
+var mnemonic = "soon slab canvas flock anger gorilla title bread laugh actual deny faculty";

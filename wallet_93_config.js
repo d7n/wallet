@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow pulse album winter opinion sweet envelope scan innocent leg become gun";
+var mnemonic = "fury double party cruel panic laptop weather hair twice juice achieve large";

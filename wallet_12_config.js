@@ -1,1 +1,1 @@
-var mnemonic = "blur road wear charge divide until craft together pelican mixture live sell";
+var mnemonic = "neither upset ignore theory mesh general robust evidence quality album wire enhance";

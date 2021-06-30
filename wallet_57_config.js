@@ -1,1 +1,1 @@
-var mnemonic = "category trade team change spell guide chef material armor ice enroll gold";
+var mnemonic = "unit joy fuel ramp clay fog tube cost speak seminar trumpet furnace";

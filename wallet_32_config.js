@@ -1,1 +1,1 @@
-var mnemonic = "grief desert insane purity amused negative blush usage eyebrow control much repair";
+var mnemonic = "ride toss lens hint nothing favorite either circle orphan argue best real";

@@ -1,1 +1,1 @@
-var mnemonic = "draft armor hurdle object spirit knee equip wait village solid scrap episode";
+var mnemonic = "ship twist weasel hammer olympic reject brave luxury scrap raven armed have";

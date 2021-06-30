@@ -1,1 +1,1 @@
-var mnemonic = "wrist army shadow peasant large mystery spring hunt middle off worth sail";
+var mnemonic = "inject bulk journey evoke earth ahead shock grocery post absent bullet job";

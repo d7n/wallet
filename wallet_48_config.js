@@ -1,1 +1,1 @@
-var mnemonic = "level solve noise attract clown spirit undo lonely ship misery attack cattle";
+var mnemonic = "can text direct diamond human narrow shadow multiply report brand club face";

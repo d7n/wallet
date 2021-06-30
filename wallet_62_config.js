@@ -1,1 +1,1 @@
-var mnemonic = "regret rack slab barrel crane sea level road apology illness gain pave";
+var mnemonic = "soup rose shiver bulb time candy sign cherry rain agree mad slush";

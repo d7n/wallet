@@ -1,1 +1,1 @@
-var mnemonic = "verb trim budget cheap fly ride arrive under bird fork ill unable";
+var mnemonic = "fatigue social jelly shoe feed among swarm captain foot kidney shield emerge";

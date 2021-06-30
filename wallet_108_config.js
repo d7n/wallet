@@ -1,1 +1,1 @@
-var mnemonic = "vital blame heart catch jar fence muffin crime little street ten judge";
+var mnemonic = "share hungry purse ladder frog brave twenty funny zero over enjoy cart";
