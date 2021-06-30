@@ -1,1 +1,1 @@
-var mnemonic = "label bundle wall inquiry door what mutual supreme excuse one mesh rookie";
+var mnemonic = "eye pet clay arena thing defense close claw cart liquid cube depend";

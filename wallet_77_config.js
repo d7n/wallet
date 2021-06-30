@@ -1,1 +1,1 @@
-var mnemonic = "umbrella squeeze chase draw kid drive dentist process hair when coral hover";
+var mnemonic = "hawk know ostrich protect soup trial siege symptom enhance region essay sadness";

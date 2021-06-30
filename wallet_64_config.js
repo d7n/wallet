@@ -1,1 +1,1 @@
-var mnemonic = "ritual neutral century awkward rebel sibling until culture device system monster winter";
+var mnemonic = "blossom ecology purpose achieve deposit economy reject episode connect beach tribe suit";

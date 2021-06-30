@@ -1,1 +1,1 @@
-var mnemonic = "print monster iron arch course lab horse possible excess crunch retire promote";
+var mnemonic = "hurdle announce approve arrow attract because inside idle belt attract soap fringe";

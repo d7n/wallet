@@ -1,1 +1,1 @@
-var mnemonic = "typical erase tribe twelve type rain various devote evil pig stone strategy";
+var mnemonic = "fog flavor slide copy antenna soda there atom soup sister network vendor";

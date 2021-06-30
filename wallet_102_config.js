@@ -1,1 +1,1 @@
-var mnemonic = "outer video cruel amused toilet endless bag empower vivid mushroom they allow";
+var mnemonic = "coffee embark swarm way record marble pyramid shoot stable enhance van orchard";

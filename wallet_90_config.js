@@ -1,1 +1,1 @@
-var mnemonic = "onion transfer daring soap genius solution toy maximum yellow oyster glide industry";
+var mnemonic = "viable cattle picnic strategy ethics siren quarter reform uniform maximum penalty steel";

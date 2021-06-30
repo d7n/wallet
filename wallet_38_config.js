@@ -1,1 +1,1 @@
-var mnemonic = "labor novel hero odor document agree fringe approve coyote globe double remind";
+var mnemonic = "board air calm naive loud harvest scrub pizza marble holiday major tonight";

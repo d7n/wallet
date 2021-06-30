@@ -1,1 +1,1 @@
-var mnemonic = "prize curious order check leave ozone combine clinic rail friend bottom test";
+var mnemonic = "gossip battle acquire confirm lucky fall era parade sure express horror renew";

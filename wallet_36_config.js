@@ -1,1 +1,1 @@
-var mnemonic = "stick void rail auction submit cry spoil memory slush brick junk exhibit";
+var mnemonic = "slice two account lonely ask federal chimney similar dose glow rich exclude";

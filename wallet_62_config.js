@@ -1,1 +1,1 @@
-var mnemonic = "vital entry party ship cross monitor castle street century what exhibit adult";
+var mnemonic = "pear uniform shop cover mention burger broken stamp alter ketchup cram donkey";

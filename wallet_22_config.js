@@ -1,1 +1,1 @@
-var mnemonic = "comfort oblige raise defense rebel cream pigeon frog title infant act opinion";
+var mnemonic = "jewel bind useful violin earn federal steak quarter upper collect trash ritual";

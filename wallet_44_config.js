@@ -1,1 +1,1 @@
-var mnemonic = "tip vintage crucial icon pyramid core spoon student early hamster coral limit";
+var mnemonic = "chunk armed catalog flush word brush spoil avocado federal stairs library indoor";

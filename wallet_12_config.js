@@ -1,1 +1,1 @@
-var mnemonic = "olive scorpion cotton resist tonight effort nasty steel subway strike dog ramp";
+var mnemonic = "banner toilet limb display potato shove tortoise door brush deposit wreck erosion";

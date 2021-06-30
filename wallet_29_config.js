@@ -1,1 +1,1 @@
-var mnemonic = "cannon fitness attack faculty west endless cupboard lift faith upgrade pet stool";
+var mnemonic = "trim bright mobile hungry cattle eye unfold payment memory valid helmet cream";

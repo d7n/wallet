@@ -1,1 +1,1 @@
-var mnemonic = "country blanket own cereal assume surge bag coast average leopard inquiry awesome";
+var mnemonic = "lock vault blur bargain ring drift uphold tornado spend dentist wrestle town";

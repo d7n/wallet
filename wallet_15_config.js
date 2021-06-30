@@ -1,1 +1,1 @@
-var mnemonic = "trust imitate same north wing voice rookie subway oxygen occur crew choice";
+var mnemonic = "choice debris patrol brother rhythm girl smile inner eye knock sail laptop";

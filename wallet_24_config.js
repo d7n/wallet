@@ -1,1 +1,1 @@
-var mnemonic = "you trigger that sell puppy cannon garbage spend book stock grow filter";
+var mnemonic = "evoke elite cup around arm invest toss thumb early park drive disagree";

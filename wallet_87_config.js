@@ -1,1 +1,1 @@
-var mnemonic = "mom dress lunar hobby squirrel mutual mind silent coconut laugh judge certain";
+var mnemonic = "tenant firm pause permit awkward neglect capital video barely gold tourist base";

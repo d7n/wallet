@@ -1,1 +1,1 @@
-var mnemonic = "ozone sick eight ancient appear panel produce school city divide enable mimic";
+var mnemonic = "initial journey crane catalog tiny tool shell coil mix gravity wage meadow";

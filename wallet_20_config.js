@@ -1,1 +1,1 @@
-var mnemonic = "noise good hungry bracket claim struggle orange enact echo concert beach glare";
+var mnemonic = "save obvious idea inner cactus attract animal volcano ceiling stem because search";

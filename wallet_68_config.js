@@ -1,1 +1,1 @@
-var mnemonic = "observe draft tray oblige mammal young catalog hotel allow pretty creek hat";
+var mnemonic = "west bullet film heavy price absent gown turtle slam memory design hedgehog";

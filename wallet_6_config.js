@@ -1,1 +1,1 @@
-var mnemonic = "bubble valley dad actual six theory glow length valley crane arch taxi";
+var mnemonic = "scissors ridge barrel change ready isolate honey tiny print enact either response";

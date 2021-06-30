@@ -1,1 +1,1 @@
-var mnemonic = "honey giraffe vacuum coffee predict wisdom sense laundry fog term collect conduct";
+var mnemonic = "only remove market holiday inhale assault knife model wreck update female license";

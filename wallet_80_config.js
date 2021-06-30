@@ -1,1 +1,1 @@
-var mnemonic = "source disorder enroll pioneer property burger fetch ignore inner unknown fat supply";
+var mnemonic = "else ship wasp return crop come fruit soccer banana bounce toast candy";

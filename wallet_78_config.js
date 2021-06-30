@@ -1,1 +1,1 @@
-var mnemonic = "poem assume tennis submit daring feed safe cheap lesson sure decorate develop";
+var mnemonic = "flock power truck noble urban tag emotion virtual butter broken neck peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "retire seat okay recycle jealous wise park blind similar fruit drift history";
+var mnemonic = "eight trend father mask snow across subject broom mix license ostrich intact";

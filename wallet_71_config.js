@@ -1,1 +1,1 @@
-var mnemonic = "victory crumble hero fortune box project slim boy ostrich switch edit boring";
+var mnemonic = "happy child clean option love embark assume garden thunder budget cube aerobic";

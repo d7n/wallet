@@ -1,1 +1,1 @@
-var mnemonic = "dust legend derive tool brave hedgehog embody drill habit pet accident uniform";
+var mnemonic = "unlock jump guide town uphold spoil rather act coconut town warm random";

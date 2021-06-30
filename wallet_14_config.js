@@ -1,1 +1,1 @@
-var mnemonic = "piano patrol goat grape fashion abstract helmet cricket vague lawn novel place";
+var mnemonic = "sleep game spend duck birth trick brother orbit edit panda produce remind";

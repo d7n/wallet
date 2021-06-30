@@ -1,1 +1,1 @@
-var mnemonic = "join pepper hero angry proud cinnamon wine coin glide endless emerge input";
+var mnemonic = "cute insane prison response athlete neutral language replace circle ripple replace hidden";

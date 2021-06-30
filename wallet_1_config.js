@@ -1,1 +1,1 @@
-var mnemonic = "bridge doll connect mystery popular exercise sauce intact onion lonely parade hospital";
+var mnemonic = "horn wood ready enjoy divorce word donor kidney attend canvas arrest ability";

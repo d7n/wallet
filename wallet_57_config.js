@@ -1,1 +1,1 @@
-var mnemonic = "price purse sock twelve life endorse debris gift sand banner humble little";
+var mnemonic = "monitor trigger always supreme only puzzle ceiling negative struggle flight normal jungle";

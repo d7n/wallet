@@ -1,1 +1,1 @@
-var mnemonic = "toddler horn convince capital wrong drum tuna riot salmon chuckle state elder";
+var mnemonic = "ability pioneer wait doctor wing drastic change shoot crucial dilemma slender loop";

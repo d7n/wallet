@@ -1,1 +1,1 @@
-var mnemonic = "estate connect avoid sample grant reflect steak action fat crime diamond invite";
+var mnemonic = "fix educate garment success maid reunion topple six bleak tuition lecture winner";

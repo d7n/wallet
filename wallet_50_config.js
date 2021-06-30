@@ -1,1 +1,1 @@
-var mnemonic = "elevator expand fly side news galaxy connect bar wreck victory shy jeans";
+var mnemonic = "mule flock casual decide unusual minor make snow steel verify debris weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican alarm early exchange casino nature tuition vessel midnight nature hospital basket";
+var mnemonic = "rose yellow album vote supreme text olive company tree physical swarm network";

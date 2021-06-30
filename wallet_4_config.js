@@ -1,1 +1,1 @@
-var mnemonic = "kidney fox doctor beach elite law valve critic tree pool midnight renew";
+var mnemonic = "party correct protect moment drink fabric resemble solution lottery fashion unique sibling";

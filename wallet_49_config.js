@@ -1,1 +1,1 @@
-var mnemonic = "when aim educate balance prepare match raccoon owner popular utility label mail";
+var mnemonic = "leisure library road piece grab hope pyramid resist leopard sing vault bid";

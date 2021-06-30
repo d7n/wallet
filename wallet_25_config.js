@@ -1,1 +1,1 @@
-var mnemonic = "hundred mountain base price cigar depth twin depth pepper push dentist scale";
+var mnemonic = "wire brown stairs hamster expire exit cereal chicken desert result cigar aim";

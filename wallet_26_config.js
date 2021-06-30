@@ -1,1 +1,1 @@
-var mnemonic = "leader blouse absent arrange until way toe skate tongue label tiger copper";
+var mnemonic = "rain fade cushion make visit switch puppy ring fence decorate fly earth";

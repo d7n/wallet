@@ -1,1 +1,1 @@
-var mnemonic = "quantum target uniform maid answer enjoy hold paper sea debate oak able";
+var mnemonic = "radar pond bird differ give sure often negative pig cart tribe genre";

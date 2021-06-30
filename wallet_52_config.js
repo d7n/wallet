@@ -1,1 +1,1 @@
-var mnemonic = "aunt brush own vault doll drill sibling antenna weather brass light garlic";
+var mnemonic = "blouse robust tide across message absurd weapon force mansion illegal together ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "grace dentist require chair picture enjoy amazing dune split battle ankle license";
+var mnemonic = "smile dynamic staff method develop veteran oak mango donkey melt bless sort";

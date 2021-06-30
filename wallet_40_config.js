@@ -1,1 +1,1 @@
-var mnemonic = "guard casino accuse rebel fun oven enlist gown tooth top control episode";
+var mnemonic = "brief attend drama mix trumpet unable damage february quantum forest lawsuit canoe";

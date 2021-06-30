@@ -1,1 +1,1 @@
-var mnemonic = "safe prison enemy swear special dial cool mystery rely wreck belt knife";
+var mnemonic = "online cube dragon short color bench random column angle tiger train dinosaur";

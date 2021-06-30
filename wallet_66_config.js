@@ -1,1 +1,1 @@
-var mnemonic = "useless satisfy movie minute mail result nurse culture goddess wave exercise mercy";
+var mnemonic = "swear coast minimum dash million squirrel believe damp submit demand juice father";

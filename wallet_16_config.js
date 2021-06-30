@@ -1,1 +1,1 @@
-var mnemonic = "usage opera donkey enroll require craft trash west output attract reduce wrap";
+var mnemonic = "sad prize clap loud pottery knock street artwork coach strike nothing actor";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce mesh craft position hour about palm ugly right they trash giant";
+var mnemonic = "minimum anchor olympic wire sail force machine torch seed caught blind talent";

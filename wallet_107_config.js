@@ -1,1 +1,1 @@
-var mnemonic = "theme solid south key what afford just recall turkey ghost divide present";
+var mnemonic = "pizza warm slot knock model carpet license rude offer pyramid art soft";

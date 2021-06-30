@@ -1,1 +1,1 @@
-var mnemonic = "few nature skull bone sunset such inherit faint infant door punch amateur";
+var mnemonic = "spend quote table inner radio candy eagle scissors occur faculty tunnel say";

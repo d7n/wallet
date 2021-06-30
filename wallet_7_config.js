@@ -1,1 +1,1 @@
-var mnemonic = "universe sniff album trip nasty never indoor plug again either remain visa";
+var mnemonic = "seven adjust space post term jealous frog across habit eye evil champion";

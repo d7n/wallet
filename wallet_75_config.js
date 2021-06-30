@@ -1,1 +1,1 @@
-var mnemonic = "oil excuse father grab parent ozone little hood float vivid decline reflect";
+var mnemonic = "minor test absorb surge flee mammal fuel animal vocal crumble resource board";

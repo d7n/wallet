@@ -1,1 +1,1 @@
-var mnemonic = "argue force knock bitter dial man burger bulk year usage excess champion";
+var mnemonic = "crouch appear sea giant dwarf cage collect brother guitar cool donkey capital";

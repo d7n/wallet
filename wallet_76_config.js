@@ -1,1 +1,1 @@
-var mnemonic = "crucial virtual angry used toward clay harvest mixed figure scale will clip";
+var mnemonic = "chronic coffee urban cage morning domain old mention unveil canyon opera before";

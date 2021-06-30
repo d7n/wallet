@@ -1,1 +1,1 @@
-var mnemonic = "multiply cram pave rail glass wish horror isolate cement gaze response hand";
+var mnemonic = "ketchup guide baby airport bench client job kit palm identify obvious shuffle";

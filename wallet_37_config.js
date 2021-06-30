@@ -1,1 +1,1 @@
-var mnemonic = "relief tomorrow mutual spot roast story bronze say midnight very design tobacco";
+var mnemonic = "scout best shiver window hope special tissue green boss wreck side mandate";

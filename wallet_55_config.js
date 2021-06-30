@@ -1,1 +1,1 @@
-var mnemonic = "hospital abuse scan treat together cage cigar similar trend flag home force";
+var mnemonic = "visa rebuild race knife refuse leaf vital idea stock salute rabbit define";

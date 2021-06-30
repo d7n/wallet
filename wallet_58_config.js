@@ -1,1 +1,1 @@
-var mnemonic = "divorce episode steak black cry carpet spatial symptom scorpion uncle cry spider";
+var mnemonic = "shallow man lawsuit alarm tourist travel design kid delay receive glad actor";

@@ -1,1 +1,1 @@
-var mnemonic = "annual wave sea tooth orphan invest place snack rice absurd cigar fuel";
+var mnemonic = "move tuition weekend radar fever jungle toss jump height february attract loop";

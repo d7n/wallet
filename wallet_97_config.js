@@ -1,1 +1,1 @@
-var mnemonic = "all idea recall diamond patient enough leg turn shine rare right attitude";
+var mnemonic = "lumber flight inspire age taste dance harsh bronze art install lonely project";

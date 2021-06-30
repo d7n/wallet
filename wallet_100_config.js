@@ -1,1 +1,1 @@
-var mnemonic = "sunset reason run accident into rely fine cannon retreat detail demand junk";
+var mnemonic = "glory vacant height diet stomach repeat rabbit old person release salmon rotate";

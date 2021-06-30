@@ -1,1 +1,1 @@
-var mnemonic = "farm melt unique connect various canal iron flame eyebrow cage brass problem";
+var mnemonic = "page absent buffalo relax half panel moral lunar estate ability couple sweet";

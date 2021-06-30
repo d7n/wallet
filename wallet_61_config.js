@@ -1,1 +1,1 @@
-var mnemonic = "antenna side mobile scatter taste risk ordinary wire merit bunker extend awkward";
+var mnemonic = "basket drift economy fence mountain large silly canal bottom debate craft rhythm";

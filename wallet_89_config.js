@@ -1,1 +1,1 @@
-var mnemonic = "slim skirt chicken print leisure virtual hair toss cool wife lunar make";
+var mnemonic = "actress diet behave remain topic kite lunar volcano rifle ready glue dolphin";

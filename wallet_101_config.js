@@ -1,1 +1,1 @@
-var mnemonic = "brisk glue attract life credit curve caution meadow robust desert case assume";
+var mnemonic = "pulse vapor beach merge dragon urban wheat around canoe flip today mirror";

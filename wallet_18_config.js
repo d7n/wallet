@@ -1,1 +1,1 @@
-var mnemonic = "lock stone endorse slush clock before race attend prepare become gun hard";
+var mnemonic = "fiber win old orphan fault affair give post brand chaos hurdle enroll";

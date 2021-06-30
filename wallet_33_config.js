@@ -1,1 +1,1 @@
-var mnemonic = "argue lady cart truly minor speed announce finish april fade rescue audit";
+var mnemonic = "imitate barely album mesh submit artist audit impact noble slide cheese since";

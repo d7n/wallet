@@ -1,1 +1,1 @@
-var mnemonic = "very sibling wagon life place distance figure notable city judge same cart";
+var mnemonic = "congress help hero lend denial before position debate dress reform decide cost";

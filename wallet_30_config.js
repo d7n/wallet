@@ -1,1 +1,1 @@
-var mnemonic = "flat crew soccer decade join rebuild voyage evoke simple ranch list maximum";
+var mnemonic = "frame expire expand gas soon wise clump first world august flash secret";

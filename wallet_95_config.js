@@ -1,1 +1,1 @@
-var mnemonic = "denial jacket upper digital poverty tag obtain atom shrug lend business senior";
+var mnemonic = "spread guess push nothing fox remind bounce luggage hill alert photo lawsuit";

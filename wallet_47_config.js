@@ -1,1 +1,1 @@
-var mnemonic = "shoulder produce minimum adapt alert aspect cabbage immune volcano atom bacon pen";
+var mnemonic = "fix replace replace amazing build elevator riot teach ginger van thumb there";

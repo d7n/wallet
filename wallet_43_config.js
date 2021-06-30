@@ -1,1 +1,1 @@
-var mnemonic = "benefit first fresh settle undo injury soccer earn tomato side gold bright";
+var mnemonic = "circle confirm enjoy canyon vehicle evoke pencil anger scan eye long shadow";

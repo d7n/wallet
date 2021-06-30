@@ -1,1 +1,1 @@
-var mnemonic = "give magic meadow better exile pulp flame afraid scare black tail brief";
+var mnemonic = "neck panther joy glare summer height claim victory wife firm toe topple";

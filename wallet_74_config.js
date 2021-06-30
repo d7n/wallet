@@ -1,1 +1,1 @@
-var mnemonic = "talent lucky daring success interest announce inform govern shine shadow liquid rocket";
+var mnemonic = "impact laugh course ten cave garlic protect maid invite winter main theory";

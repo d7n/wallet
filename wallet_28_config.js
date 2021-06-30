@@ -1,1 +1,1 @@
-var mnemonic = "lesson input useful state excuse weird salmon skate squeeze broccoli donate minute";
+var mnemonic = "ripple client scare turtle canal slide all cave cash actual network just";

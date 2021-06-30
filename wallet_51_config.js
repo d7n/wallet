@@ -1,1 +1,1 @@
-var mnemonic = "carpet apart train slogan recycle grit asthma attend labor sure skin rule";
+var mnemonic = "robust organ wife dilemma seed win blade garlic tobacco day recall setup";

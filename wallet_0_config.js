@@ -1,1 +1,1 @@
-var mnemonic = "spend mad dolphin wisdom honey capable agree jealous will sign sword guess";
+var mnemonic = "unique trial start again despair silly gentle credit cover icon custom spice";

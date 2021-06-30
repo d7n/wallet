@@ -1,1 +1,1 @@
-var mnemonic = "egg wolf recall hen reduce paddle shed click retire alpha then ability";
+var mnemonic = "maple youth choose pool immune swift float comfort cargo auction best remain";

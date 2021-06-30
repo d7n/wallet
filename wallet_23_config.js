@@ -1,1 +1,1 @@
-var mnemonic = "ask green smart night twin color absorb bridge glance crime icon finger";
+var mnemonic = "fatal stool dawn square feed flip blur bachelor embody chapter forward liberty";

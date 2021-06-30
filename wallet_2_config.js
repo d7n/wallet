@@ -1,1 +1,1 @@
-var mnemonic = "brick aspect beauty acoustic execute minute actor key peanut congress pizza size";
+var mnemonic = "develop insane hold small foot happy audit sniff wool island crash mango";

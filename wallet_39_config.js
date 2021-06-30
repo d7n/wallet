@@ -1,1 +1,1 @@
-var mnemonic = "image host retreat beyond amused lesson wedding retire sense case glance accident";
+var mnemonic = "food essay loyal token express habit odor border post frequent board pill";

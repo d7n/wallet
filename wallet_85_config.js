@@ -1,1 +1,1 @@
-var mnemonic = "ecology tourist yellow amazing lawn wrong blossom list away resemble december dolphin";
+var mnemonic = "wheel remember remind lens close razor dance govern thrive color spray best";

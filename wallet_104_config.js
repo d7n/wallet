@@ -1,1 +1,1 @@
-var mnemonic = "evil absorb cattle noise solar shuffle always kid sugar option quick wreck";
+var mnemonic = "camp issue material emerge shock buddy flag armed blush satoshi rural depth";

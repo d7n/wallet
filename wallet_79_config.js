@@ -1,1 +1,1 @@
-var mnemonic = "liberty evil corn candy rate cause raven ignore mirror title speed spy";
+var mnemonic = "rate image rail beyond spoil bubble polar pretty nature balance toward polar";

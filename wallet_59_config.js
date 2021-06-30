@@ -1,1 +1,1 @@
-var mnemonic = "lunar muscle install stock follow slight glass night what night eternal right";
+var mnemonic = "stomach mobile sorry pistol this luggage height salad finger since brick school";

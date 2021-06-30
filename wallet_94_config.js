@@ -1,1 +1,1 @@
-var mnemonic = "faculty crazy diet balance mad portion injury hybrid bicycle health violin tonight";
+var mnemonic = "approve notable patch peanut exclude glue dress drama room course muscle palm";

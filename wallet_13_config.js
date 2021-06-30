@@ -1,1 +1,1 @@
-var mnemonic = "bounce diet embark person portion royal inform vessel will cash soft acoustic";
+var mnemonic = "abstract eye wink swift disagree legend echo shrug festival tenant outdoor quiz";

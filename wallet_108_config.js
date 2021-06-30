@@ -1,1 +1,1 @@
-var mnemonic = "sight brass deliver tag voyage ill inner crumble wreck rabbit install slow";
+var mnemonic = "vapor skate blade curve such alpha shine crawl virtual voyage bunker left";

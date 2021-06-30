@@ -1,1 +1,1 @@
-var mnemonic = "firm scheme protect pony shadow arrive culture catalog mutual vanish prepare silly";
+var mnemonic = "ocean elegant note holiday angry canal air corn ginger kind problem early";

@@ -1,1 +1,1 @@
-var mnemonic = "olive snap void laundry wise tackle anger shy jungle property bring vacuum";
+var mnemonic = "observe tenant ritual purity cushion there choice write reform screen crawl blanket";
