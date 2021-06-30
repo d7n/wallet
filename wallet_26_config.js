@@ -1,1 +1,1 @@
-var mnemonic = "icon upset gallery next auction receive copper pony fancy forum hire series";
+var mnemonic = "steel hybrid core maid couple club bright random bonus view push regret";

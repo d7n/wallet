@@ -1,1 +1,1 @@
-var mnemonic = "whisper spray spider gesture outdoor helmet truly course enlist network midnight memory";
+var mnemonic = "tribe use stand woman path grocery people weapon grant rate price finger";

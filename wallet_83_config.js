@@ -1,1 +1,1 @@
-var mnemonic = "scan wedding reason reunion culture agree cotton biology middle ancient chalk weird";
+var mnemonic = "frog what nerve viable wide cool diamond pair endless salt jewel cherry";

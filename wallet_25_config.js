@@ -1,1 +1,1 @@
-var mnemonic = "fit isolate truth skirt regret property airport south oak myth trade what";
+var mnemonic = "essence describe long behave fire kiwi erosion call junk wedding drama deny";

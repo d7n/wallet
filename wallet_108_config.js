@@ -1,1 +1,1 @@
-var mnemonic = "all kangaroo attract crumble mirror prevent inform velvet chat couch join truth";
+var mnemonic = "scan end clock obey erosion assume cram live choose vast double flavor";

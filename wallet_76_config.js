@@ -1,1 +1,1 @@
-var mnemonic = "stool misery actor person rail horror usual vague insect tobacco upset where";
+var mnemonic = "horn dutch engage round student parent place record impose pilot february easy";

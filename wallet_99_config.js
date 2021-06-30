@@ -1,1 +1,1 @@
-var mnemonic = "eternal embrace master orbit mutual steel outside scrap title wire wolf leopard";
+var mnemonic = "canvas obscure shed toast index diet nephew minimum city pave refuse stumble";

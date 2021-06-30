@@ -1,1 +1,1 @@
-var mnemonic = "debris unable sweet like uncle start pioneer ten cage long mix yard";
+var mnemonic = "electric penalty program glance bulb salad guitar parent expect road novel question";

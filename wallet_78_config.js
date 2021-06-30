@@ -1,1 +1,1 @@
-var mnemonic = "panic duty spawn level bar tail hill mystery ridge evidence scout elder";
+var mnemonic = "victory buzz eternal swallow left runway tragic move syrup purpose tackle volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze repair confirm day random balance car mirror rebuild joy sentence smile";
+var mnemonic = "stand budget nation cup glass train save canyon skull emerge divorce syrup";

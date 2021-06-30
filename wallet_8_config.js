@@ -1,1 +1,1 @@
-var mnemonic = "fat physical wool desk light salute leaf stay erase sun shallow lonely";
+var mnemonic = "fog shed riot hub correct budget recipe grit capable adjust exile buddy";

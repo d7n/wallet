@@ -1,1 +1,1 @@
-var mnemonic = "elbow nice proud share play recall horse soda ignore slow mimic thrive";
+var mnemonic = "weekend potato injury sort pluck refuse furnace grass velvet ripple wait canal";

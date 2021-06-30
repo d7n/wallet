@@ -1,1 +1,1 @@
-var mnemonic = "pudding field furnace couple whale rice horse again cook copper tackle bird";
+var mnemonic = "dove whale expect toddler van enjoy truth profit bubble fancy obtain make";

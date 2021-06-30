@@ -1,1 +1,1 @@
-var mnemonic = "dumb stomach month shadow gauge crime robust during essence barely mouse attract";
+var mnemonic = "stick flavor detect approve net pretty direct legend flock spare filter toss";

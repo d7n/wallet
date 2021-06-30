@@ -1,1 +1,1 @@
-var mnemonic = "decade actual lens riot grit clap modify crystal express noise tooth hamster";
+var mnemonic = "lottery nature easy holiday common beyond metal fence crunch punch valley throw";

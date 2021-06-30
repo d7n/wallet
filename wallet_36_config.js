@@ -1,1 +1,1 @@
-var mnemonic = "minimum spirit truth lake assist almost journey canvas wagon fever round lounge";
+var mnemonic = "caution inmate fly bracket horror fade glass brand carry shuffle wood grid";

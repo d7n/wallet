@@ -1,1 +1,1 @@
-var mnemonic = "brush fly large door traffic over thought fit digital item chair spatial";
+var mnemonic = "asthma music smart sausage solar game control absorb aware close bag course";

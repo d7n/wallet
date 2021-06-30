@@ -1,1 +1,1 @@
-var mnemonic = "need delay reason royal master online gain clerk view tail fringe dolphin";
+var mnemonic = "direct timber dismiss blossom annual renew family junk allow prevent math cook";

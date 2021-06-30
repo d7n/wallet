@@ -1,1 +1,1 @@
-var mnemonic = "file involve paper ring dose rather start crunch work frequent battle effort";
+var mnemonic = "social globe teach fire inhale scare lazy jeans hat canvas witness joy";

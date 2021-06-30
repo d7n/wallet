@@ -1,1 +1,1 @@
-var mnemonic = "ability despair fortune maximum resist inquiry dash still poet wisdom isolate current";
+var mnemonic = "sentence physical iron misery banana dust buyer depart bamboo fetch weapon bicycle";

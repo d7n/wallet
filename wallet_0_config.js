@@ -1,1 +1,1 @@
-var mnemonic = "twice impose test kick face live young purity double chicken faint civil";
+var mnemonic = "armor pencil brown skill unveil message foot march soldier reflect eternal comfort";

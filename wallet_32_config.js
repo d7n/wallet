@@ -1,1 +1,1 @@
-var mnemonic = "brand word elder skill wide february connect galaxy moral alter absorb honey";
+var mnemonic = "flag chapter chair million outer good brick list melody cram neither cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "basic drive young excess equip segment fame current silver endless oven able";
+var mnemonic = "elite prize awkward choose limit popular oppose until prosper behind pencil digital";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant emotion cinnamon slab cruel detect loop heart enact subway model simple";
+var mnemonic = "keep mountain walk loud diesel bus soccer funny kid model crew sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver prepare fossil confirm voice casual cup keen labor stairs text border";
+var mnemonic = "begin dune twin inquiry early arch slide flash attend close resource quit";

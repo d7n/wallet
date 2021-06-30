@@ -1,1 +1,1 @@
-var mnemonic = "post lyrics uphold immense swarm maple bachelor illness oyster knee resist news";
+var mnemonic = "aunt lab left victory process enhance faculty tiny debate inner upon raccoon";

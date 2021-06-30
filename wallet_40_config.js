@@ -1,1 +1,1 @@
-var mnemonic = "soft window file spice enough result vocal decide build devote bronze worth";
+var mnemonic = "witness latin spray parade caught expect bronze cable defy mask miss peanut";

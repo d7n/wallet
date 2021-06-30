@@ -1,1 +1,1 @@
-var mnemonic = "glad shock quote debate speak aerobic target candy they version theme town";
+var mnemonic = "ethics ride crouch layer deposit carpet include debate dignity vacuum rapid black";

@@ -1,1 +1,1 @@
-var mnemonic = "double aware giggle original reward mammal notice duck sun enter photo mom";
+var mnemonic = "work slender split sure scatter february honey wash answer coast betray error";

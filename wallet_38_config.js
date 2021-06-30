@@ -1,1 +1,1 @@
-var mnemonic = "thumb bronze brother soft federal twist picture avoid regular airport civil charge";
+var mnemonic = "slide process bread phrase arrive injury around profit bread cheap daring purse";

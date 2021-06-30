@@ -1,1 +1,1 @@
-var mnemonic = "rug risk sail mystery proof few victory hazard drill tired cement width";
+var mnemonic = "long wait mobile exhibit slush clarify still surround mix sword orbit culture";

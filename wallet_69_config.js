@@ -1,1 +1,1 @@
-var mnemonic = "evoke crush correct gap box area clever keep engine forward marble fragile";
+var mnemonic = "limit action shield danger void remain wide lizard forum catalog brief argue";

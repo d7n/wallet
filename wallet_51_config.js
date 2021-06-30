@@ -1,1 +1,1 @@
-var mnemonic = "reduce immense case salmon wreck whale air quit correct market custom bounce";
+var mnemonic = "drive become strategy top since chase cricket adapt choice lazy arrow exchange";

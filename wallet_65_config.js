@@ -1,1 +1,1 @@
-var mnemonic = "mule radio junk liquid unhappy genuine goat ahead comic letter example tuition";
+var mnemonic = "bamboo age fossil zero path story olive evil report arrow rally avoid";

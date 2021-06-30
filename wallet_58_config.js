@@ -1,1 +1,1 @@
-var mnemonic = "express divorce across scrub crazy mansion file alter put index cool into";
+var mnemonic = "nut wear sad ill slice wet diet story talk dismiss census ostrich";

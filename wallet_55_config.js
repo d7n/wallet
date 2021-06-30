@@ -1,1 +1,1 @@
-var mnemonic = "remember wish velvet travel lion rail cream leg gather grid tray enhance";
+var mnemonic = "deal stairs remember document hurdle cross erupt volcano auction crystal sand ankle";

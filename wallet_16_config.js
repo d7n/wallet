@@ -1,1 +1,1 @@
-var mnemonic = "muscle draft goddess among gauge crash pilot accuse find mail increase employ";
+var mnemonic = "infant puzzle solve purity kingdom fan impact file crowd call pull eagle";

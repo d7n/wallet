@@ -1,1 +1,1 @@
-var mnemonic = "crime skull desk average deliver napkin denial demand private warm shallow joy";
+var mnemonic = "warm cash economy isolate humor outer rival accident alone hundred wise before";

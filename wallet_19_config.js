@@ -1,1 +1,1 @@
-var mnemonic = "acid tooth copper ice sentence now omit speed supply deny swing problem";
+var mnemonic = "elephant mistake topple garbage solar predict mixed figure machine vault diet issue";

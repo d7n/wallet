@@ -1,1 +1,1 @@
-var mnemonic = "smooth solution badge soup dolphin upgrade picture submit merit century submit bridge";
+var mnemonic = "stay poverty same scrub jeans ceiling net suffer exit across diagram inquiry";

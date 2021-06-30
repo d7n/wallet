@@ -1,1 +1,1 @@
-var mnemonic = "pact dawn resemble spatial aim surge wonder cable man win move frozen";
+var mnemonic = "shoe best smoke display upset debate cactus quality depend develop slight neutral";

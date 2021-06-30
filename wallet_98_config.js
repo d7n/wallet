@@ -1,1 +1,1 @@
-var mnemonic = "confirm uniform gaze glance title elevator swim dash label squirrel stumble maze";
+var mnemonic = "negative loan enhance rack budget reopen clever annual arrest forget yellow ordinary";

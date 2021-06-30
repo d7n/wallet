@@ -1,1 +1,1 @@
-var mnemonic = "wonder stamp process finish phrase ranch put gravity mosquito about gate degree";
+var mnemonic = "pulse seek give plastic refuse library duck staff before insect jeans unhappy";

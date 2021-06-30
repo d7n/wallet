@@ -1,1 +1,1 @@
-var mnemonic = "donate sock involve squirrel replace shadow still kiwi plug almost tail concert";
+var mnemonic = "arctic one toward lawn census crumble float slab produce enough fold again";

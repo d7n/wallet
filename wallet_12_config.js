@@ -1,1 +1,1 @@
-var mnemonic = "fury sunset twin monitor danger enroll inner have rich coast pioneer open";
+var mnemonic = "aisle hockey autumn pottery gas faith survey tape habit belt jacket require";

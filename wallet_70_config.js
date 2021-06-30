@@ -1,1 +1,1 @@
-var mnemonic = "unhappy avoid term appear electric quiz forest awesome forget come heavy parade";
+var mnemonic = "hub icon toss note replace timber wagon honey hood surge pear maximum";

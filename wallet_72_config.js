@@ -1,1 +1,1 @@
-var mnemonic = "parade answer praise moment awkward orient render start test radar tray raise";
+var mnemonic = "tail traffic congress another monkey drum gas equal mimic credit adult yellow";

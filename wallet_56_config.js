@@ -1,1 +1,1 @@
-var mnemonic = "brick second business six point aim album coral apart erupt cousin report";
+var mnemonic = "excuse very strike egg work breeze reopen season spice kingdom bounce rough";

@@ -1,1 +1,1 @@
-var mnemonic = "lift damp record betray elephant grunt empty tower visual twice pride net";
+var mnemonic = "sail despair twice century online tackle vivid inflict play thunder thrive fresh";

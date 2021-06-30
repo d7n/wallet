@@ -1,1 +1,1 @@
-var mnemonic = "bench total fabric casual army forget misery magnet capital nerve device curve";
+var mnemonic = "smooth guide still wise dune final slender address truth dolphin evolve van";

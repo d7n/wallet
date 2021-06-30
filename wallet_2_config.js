@@ -1,1 +1,1 @@
-var mnemonic = "priority loop orient disorder obscure find rice category conduct cram promote asthma";
+var mnemonic = "neglect lab sure rare faculty dial regular north buffalo acquire recipe collect";

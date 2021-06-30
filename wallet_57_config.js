@@ -1,1 +1,1 @@
-var mnemonic = "frost sound topple art sniff pear flavor outdoor talk budget riot into";
+var mnemonic = "snap slight roast gesture lobster viable jazz machine can play year woman";

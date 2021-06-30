@@ -1,1 +1,1 @@
-var mnemonic = "palm someone demise visa east about heart put there stay clean seek";
+var mnemonic = "deposit erosion remain coach double evolve south answer humor grace unable adult";

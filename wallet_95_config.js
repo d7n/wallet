@@ -1,1 +1,1 @@
-var mnemonic = "layer denial reject job oxygen good number annual sign crystal unveil search";
+var mnemonic = "public unable call army clap such fault ceiling scare deliver foil impulse";

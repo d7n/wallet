@@ -1,1 +1,1 @@
-var mnemonic = "ocean circle chase motor orphan inspire keep uniform smooth tiny plunge enjoy";
+var mnemonic = "member boss demise minute dose upper raccoon action mosquito thing project virtual";

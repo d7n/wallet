@@ -1,1 +1,1 @@
-var mnemonic = "distance similar mesh pull slide cash owner bar ritual cross horse survey";
+var mnemonic = "uncle kiss ceiling piano enemy clap copper valley eight spoon own blush";

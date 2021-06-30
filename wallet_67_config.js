@@ -1,1 +1,1 @@
-var mnemonic = "sting armed note feed guilt cook faculty survey number limb gossip average";
+var mnemonic = "usual rose vivid lounge shuffle multiply absorb onion mesh cargo any much";

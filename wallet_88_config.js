@@ -1,1 +1,1 @@
-var mnemonic = "grace second snake seek below material exit mobile twenty script luxury youth";
+var mnemonic = "inquiry alarm program romance also trap fashion stadium trim tackle world glad";

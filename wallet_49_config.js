@@ -1,1 +1,1 @@
-var mnemonic = "anxiety junior notable razor wrong armor infant thrive draw ozone avocado save";
+var mnemonic = "increase candy okay lounge youth bench siren celery hood unusual oxygen public";

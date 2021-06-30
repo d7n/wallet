@@ -1,1 +1,1 @@
-var mnemonic = "bless process remove tattoo process hurry equal struggle crunch twist young scrap";
+var mnemonic = "excuse approve tobacco library whip void fatigue strong reform license afford fatal";

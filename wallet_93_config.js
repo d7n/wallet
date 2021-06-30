@@ -1,1 +1,1 @@
-var mnemonic = "bamboo vicious boss gesture chronic mouse type trust type awful girl salon";
+var mnemonic = "trash badge verify convince affair motion know moral mule return appear refuse";

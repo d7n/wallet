@@ -1,1 +1,1 @@
-var mnemonic = "universe brass rent wish north effort join author intact scorpion good thank";
+var mnemonic = "blush cactus survey conduct all evoke donkey review video tired spin need";

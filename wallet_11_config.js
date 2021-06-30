@@ -1,1 +1,1 @@
-var mnemonic = "allow dune home right chalk quote habit jump gospel abstract waste must";
+var mnemonic = "critic purity reopen shed rich cute genuine multiply antique vague include group";

@@ -1,1 +1,1 @@
-var mnemonic = "never vivid quarter cover magnet alley ivory frost ahead either diagram return";
+var mnemonic = "shop school hope old keen bird spider industry enact keen wood fabric";

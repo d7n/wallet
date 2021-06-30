@@ -1,1 +1,1 @@
-var mnemonic = "subject laptop pilot fat april enforce keen salute friend only rescue aerobic";
+var mnemonic = "ginger spell head trial rookie wasp erase hill fury kit layer six";

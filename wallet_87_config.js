@@ -1,1 +1,1 @@
-var mnemonic = "cost siren venue kite clock trigger side exotic lock gown agent gown";
+var mnemonic = "earth rabbit fork clinic bamboo negative keen best mad fade wine lawsuit";

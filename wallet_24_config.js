@@ -1,1 +1,1 @@
-var mnemonic = "cargo virtual execute around cruise dignity muffin cigar bomb hospital mad dash";
+var mnemonic = "network remind lake define turn history garment express bicycle brass modify south";

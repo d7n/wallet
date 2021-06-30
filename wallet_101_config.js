@@ -1,1 +1,1 @@
-var mnemonic = "long uncle outside nice change act estate town reveal spy plate flat";
+var mnemonic = "crime south time candy modify flush hat tackle meadow warfare sniff juice";

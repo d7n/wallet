@@ -1,1 +1,1 @@
-var mnemonic = "then brush disagree blade slice pencil fantasy tumble mixed fault sport aim";
+var mnemonic = "deer okay inform keep noise shrimp spoil wise original degree stamp recipe";

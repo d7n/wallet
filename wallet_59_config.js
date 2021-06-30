@@ -1,1 +1,1 @@
-var mnemonic = "make essence endless odor firm hungry decorate enlist finish physical depend talent";
+var mnemonic = "rhythm juice economy laundry stamp bullet attend legend elephant sponsor pudding foot";

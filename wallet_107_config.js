@@ -1,1 +1,1 @@
-var mnemonic = "gate off lock menu elite tobacco extra weather soul biology you urge";
+var mnemonic = "trouble enjoy slow short nuclear joke message bike slot spell result warm";

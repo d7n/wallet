@@ -1,1 +1,1 @@
-var mnemonic = "sorry rabbit twenty decide hotel cost wise again mountain syrup evolve advance";
+var mnemonic = "path exercise bind cannon index hospital amazing science danger biology give brass";

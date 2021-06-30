@@ -1,1 +1,1 @@
-var mnemonic = "maid stone fetch replace minimum motion patient toilet right possible fossil now";
+var mnemonic = "rate elegant chaos still muscle item manual diamond punch exhibit abstract minor";

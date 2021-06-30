@@ -1,1 +1,1 @@
-var mnemonic = "cloth simple health divide bargain twin bunker manual wisdom neglect horse sustain";
+var mnemonic = "chef cupboard viable orbit local unique iron double climb skin sleep category";

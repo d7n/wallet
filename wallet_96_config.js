@@ -1,1 +1,1 @@
-var mnemonic = "supply patient struggle sure hedgehog butter wedding admit grow imitate scrub love";
+var mnemonic = "idle wrist muffin atom slush old airport female burden satoshi injury love";

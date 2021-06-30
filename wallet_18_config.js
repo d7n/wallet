@@ -1,1 +1,1 @@
-var mnemonic = "yellow palm toward hurry fold slam debris taxi help buffalo hold purity";
+var mnemonic = "curious essence essay runway tackle target glove one rough private media garage";

@@ -1,1 +1,1 @@
-var mnemonic = "duty never stomach fork inherit inspire raw worry access orient favorite negative";
+var mnemonic = "image hat quarter title price rose volcano front maximum collect glory check";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor motor inquiry lazy lift quote field comfort material enjoy split almost";
+var mnemonic = "chimney gesture snow dolphin hard ripple warm pole range emerge audit subject";

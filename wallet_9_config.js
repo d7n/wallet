@@ -1,1 +1,1 @@
-var mnemonic = "art phrase recipe siren economy uncover marble enlist visa later skin come";
+var mnemonic = "owner blame record gasp armed exist cake eternal mansion click left rival";

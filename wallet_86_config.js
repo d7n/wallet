@@ -1,1 +1,1 @@
-var mnemonic = "alley item corn tape wrap loyal slight mother bomb outdoor field loop";
+var mnemonic = "confirm fold method letter alter churn toast trouble half dentist harvest catalog";

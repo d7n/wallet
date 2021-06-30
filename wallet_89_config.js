@@ -1,1 +1,1 @@
-var mnemonic = "coast question what ecology pencil raccoon potato nest maple sibling gaze hockey";
+var mnemonic = "hire zoo connect lamp adult shock panther distance ankle buzz asset arm";

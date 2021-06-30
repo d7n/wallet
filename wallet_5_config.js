@@ -1,1 +1,1 @@
-var mnemonic = "huge mirror trash derive usual stadium mechanic right midnight silent twenty blame";
+var mnemonic = "slim swim flag result comfort judge census make ten profit inhale sorry";

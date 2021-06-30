@@ -1,1 +1,1 @@
-var mnemonic = "math sting machine abuse shift fence tooth salmon abandon crowd smoke midnight";
+var mnemonic = "claim rookie attitude soap segment gift order adjust enter dust skin move";

@@ -1,1 +1,1 @@
-var mnemonic = "heart radio subject point thumb weasel you proud affair situate cloud rib";
+var mnemonic = "find sibling inflict orchard habit invite seat culture frost all pigeon donkey";

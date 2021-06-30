@@ -1,1 +1,1 @@
-var mnemonic = "skill height toe sport congress patient horror endorse boil dilemma bulb ramp";
+var mnemonic = "mobile jealous burden bar update organ saddle blood actress oyster mean fringe";

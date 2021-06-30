@@ -1,1 +1,1 @@
-var mnemonic = "absurd animal trash pipe suspect behave always gauge aware shove taste aisle";
+var mnemonic = "person oblige way blur cook like tone dress govern silly apology jar";
