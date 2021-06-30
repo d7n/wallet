@@ -1,1 +1,1 @@
-var mnemonic = "bread vibrant club indoor wine response ranch metal loop glare snap flash";
+var mnemonic = "brisk glue attract life credit curve caution meadow robust desert case assume";

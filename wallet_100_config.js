@@ -1,1 +1,1 @@
-var mnemonic = "ill bone field mystery clay prepare beauty consider upset chronic cherry immune";
+var mnemonic = "sunset reason run accident into rely fine cannon retreat detail demand junk";

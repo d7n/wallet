@@ -1,1 +1,1 @@
-var mnemonic = "bitter idea ill goddess smile hungry later truck palm solve climb lawsuit";
+var mnemonic = "sight brass deliver tag voyage ill inner crumble wreck rabbit install slow";

@@ -1,1 +1,1 @@
-var mnemonic = "point boost craft sword sister again finger response absent nuclear under surface";
+var mnemonic = "caution path double vault click few fan crane sentence affair affair town";

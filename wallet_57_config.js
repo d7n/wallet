@@ -1,1 +1,1 @@
-var mnemonic = "truly mean summer iron physical square topic act flush chuckle expire poverty";
+var mnemonic = "price purse sock twelve life endorse debris gift sand banner humble little";

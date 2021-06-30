@@ -1,1 +1,1 @@
-var mnemonic = "gentle current help between original pass office copper advice dream lunar miracle";
+var mnemonic = "trial ice permit summer captain voyage train walnut route stumble secret pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor portion memory cotton left budget vintage draw broken text wrong paper";
+var mnemonic = "brick aspect beauty acoustic execute minute actor key peanut congress pizza size";

@@ -1,1 +1,1 @@
-var mnemonic = "tank balance social bread nasty seek attract fold resource thing panel truth";
+var mnemonic = "avocado engine mercy pair history real surprise fence into tilt ritual teach";

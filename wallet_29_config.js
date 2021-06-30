@@ -1,1 +1,1 @@
-var mnemonic = "harsh approve plate wait choice describe fade minimum rude brush beef dad";
+var mnemonic = "cannon fitness attack faculty west endless cupboard lift faith upgrade pet stool";

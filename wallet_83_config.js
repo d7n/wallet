@@ -1,1 +1,1 @@
-var mnemonic = "morning text sail service north debate swamp slab novel industry need noise";
+var mnemonic = "pelican alarm early exchange casino nature tuition vessel midnight nature hospital basket";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity diary busy destroy tower special bamboo kiwi athlete story render piece";
+var mnemonic = "typical erase tribe twelve type rain various devote evil pig stone strategy";

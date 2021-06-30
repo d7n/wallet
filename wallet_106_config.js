@@ -1,1 +1,1 @@
-var mnemonic = "buddy liar exotic since ready attend clerk noise congress boil vehicle absorb";
+var mnemonic = "estate connect avoid sample grant reflect steak action fat crime diamond invite";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow move face anxiety find trial album museum hold hour report keep";
+var mnemonic = "hospital abuse scan treat together cage cigar similar trend flag home force";

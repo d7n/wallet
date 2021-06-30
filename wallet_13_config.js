@@ -1,1 +1,1 @@
-var mnemonic = "nuclear swamp tattoo used curious page figure when fever dynamic upset aunt";
+var mnemonic = "bounce diet embark person portion royal inform vessel will cash soft acoustic";

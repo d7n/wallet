@@ -1,1 +1,1 @@
-var mnemonic = "submit sand bunker exotic chest walnut refuse limb wrap duty barely tube";
+var mnemonic = "comfort oblige raise defense rebel cream pigeon frog title infant act opinion";

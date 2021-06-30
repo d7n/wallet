@@ -1,1 +1,1 @@
-var mnemonic = "depend swear jelly click team can onion depart apology grass beef craft";
+var mnemonic = "leader blouse absent arrange until way toe skate tongue label tiger copper";

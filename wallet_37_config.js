@@ -1,1 +1,1 @@
-var mnemonic = "chunk cereal goddess dawn utility trend race artist emerge boil dizzy oven";
+var mnemonic = "relief tomorrow mutual spot roast story bronze say midnight very design tobacco";

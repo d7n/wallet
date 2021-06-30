@@ -1,1 +1,1 @@
-var mnemonic = "speak attitude mask fix document then coast ride true belt brief despair";
+var mnemonic = "mom dress lunar hobby squirrel mutual mind silent coconut laugh judge certain";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce couple wisdom plug oppose fortune blur cabbage tortoise vivid uncle injury";
+var mnemonic = "olive snap void laundry wise tackle anger shy jungle property bring vacuum";

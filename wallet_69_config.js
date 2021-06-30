@@ -1,1 +1,1 @@
-var mnemonic = "timber hero base vital judge gallery devote uphold often shine mesh enough";
+var mnemonic = "multiply cram pave rail glass wish horror isolate cement gaze response hand";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum climb milk saddle direct front chaos online day beach grace air";
+var mnemonic = "denial jacket upper digital poverty tag obtain atom shrug lend business senior";

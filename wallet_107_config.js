@@ -1,1 +1,1 @@
-var mnemonic = "kind country pave behave margin hollow treat oil toilet bean disease apology";
+var mnemonic = "theme solid south key what afford just recall turkey ghost divide present";

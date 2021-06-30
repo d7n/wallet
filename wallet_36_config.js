@@ -1,1 +1,1 @@
-var mnemonic = "gasp local motion tent suit divorce wish lawn negative choice maze wealth";
+var mnemonic = "stick void rail auction submit cry spoil memory slush brick junk exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "renew unique addict digital hood leaf jewel inject stove fee scout genre";
+var mnemonic = "piano patrol goat grape fashion abstract helmet cricket vague lawn novel place";

@@ -1,1 +1,1 @@
-var mnemonic = "twin lock occur beauty work ostrich evoke helmet water decrease hair holiday";
+var mnemonic = "firm scheme protect pony shadow arrive culture catalog mutual vanish prepare silly";

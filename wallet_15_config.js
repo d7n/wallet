@@ -1,1 +1,1 @@
-var mnemonic = "message grass clog spirit hour abstract sniff excite magnet dawn obscure first";
+var mnemonic = "trust imitate same north wing voice rookie subway oxygen occur crew choice";

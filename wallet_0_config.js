@@ -1,1 +1,1 @@
-var mnemonic = "broken monster gaze else orient math survey twenty economy kick curtain another";
+var mnemonic = "spend mad dolphin wisdom honey capable agree jealous will sign sword guess";

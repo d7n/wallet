@@ -1,1 +1,1 @@
-var mnemonic = "hurdle churn grief crisp machine marine amazing only base news drift absent";
+var mnemonic = "bubble valley dad actual six theory glow length valley crane arch taxi";

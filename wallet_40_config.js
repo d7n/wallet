@@ -1,1 +1,1 @@
-var mnemonic = "someone shuffle portion cannon unfold marble flight response uniform blush census save";
+var mnemonic = "guard casino accuse rebel fun oven enlist gown tooth top control episode";

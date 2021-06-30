@@ -1,1 +1,1 @@
-var mnemonic = "attract mistake home brand swear dial mobile image garden defy body weather";
+var mnemonic = "crucial virtual angry used toward clay harvest mixed figure scale will clip";

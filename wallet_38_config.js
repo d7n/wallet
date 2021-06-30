@@ -1,1 +1,1 @@
-var mnemonic = "cube young clerk hundred vibrant pave mobile reward run possible country idea";
+var mnemonic = "labor novel hero odor document agree fringe approve coyote globe double remind";

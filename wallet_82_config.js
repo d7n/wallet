@@ -1,1 +1,1 @@
-var mnemonic = "narrow fetch accident wrap dutch exact response hip wrap sleep bleak drink";
+var mnemonic = "grace dentist require chair picture enjoy amazing dune split battle ankle license";

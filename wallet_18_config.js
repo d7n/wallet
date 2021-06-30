@@ -1,1 +1,1 @@
-var mnemonic = "myth clarify eager jewel capital accident teach opinion short pear nasty engage";
+var mnemonic = "lock stone endorse slush clock before race attend prepare become gun hard";

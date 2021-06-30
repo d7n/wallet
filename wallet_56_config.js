@@ -1,1 +1,1 @@
-var mnemonic = "oval horror clown knock zebra exact jazz rally man grocery embody chief";
+var mnemonic = "retire seat okay recycle jealous wise park blind similar fruit drift history";

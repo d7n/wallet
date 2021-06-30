@@ -1,1 +1,1 @@
-var mnemonic = "upset talent practice couple noodle engage hybrid sibling only nose brown sheriff";
+var mnemonic = "ecology tourist yellow amazing lawn wrong blossom list away resemble december dolphin";

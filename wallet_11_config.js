@@ -1,1 +1,1 @@
-var mnemonic = "middle regular inner lyrics absent crawl focus chief miss mom identify dial";
+var mnemonic = "label bundle wall inquiry door what mutual supreme excuse one mesh rookie";

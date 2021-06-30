@@ -1,1 +1,1 @@
-var mnemonic = "clump announce safe script manual cluster basic eyebrow sphere state rural pink";
+var mnemonic = "lunar muscle install stock follow slight glass night what night eternal right";

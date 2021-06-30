@@ -1,1 +1,1 @@
-var mnemonic = "defy asset fiction present purse trade delay much stand guilt note joke";
+var mnemonic = "kidney fox doctor beach elite law valve critic tree pool midnight renew";

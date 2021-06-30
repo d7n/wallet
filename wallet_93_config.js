@@ -1,1 +1,1 @@
-var mnemonic = "friend gadget like barely reflect enemy inflict danger pyramid wage panda auto";
+var mnemonic = "worth fog churn gather spy risk mutual blush click diet job stand";

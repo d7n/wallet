@@ -1,1 +1,1 @@
-var mnemonic = "butter mango pitch satoshi lonely club assist employ this whale strategy just";
+var mnemonic = "antenna side mobile scatter taste risk ordinary wire merit bunker extend awkward";

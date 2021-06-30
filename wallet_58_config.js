@@ -1,1 +1,1 @@
-var mnemonic = "citizen love cotton demand hollow float whisper need federal height candy road";
+var mnemonic = "divorce episode steak black cry carpet spatial symptom scorpion uncle cry spider";

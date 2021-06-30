@@ -1,1 +1,1 @@
-var mnemonic = "bundle firm rude canvas rubber dawn firm educate purpose seek sad range";
+var mnemonic = "flat crew soccer decade join rebuild voyage evoke simple ranch list maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "child razor protect isolate entire category hello save success frog document wolf";
+var mnemonic = "outer video cruel amused toilet endless bag empower vivid mushroom they allow";

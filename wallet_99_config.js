@@ -1,1 +1,1 @@
-var mnemonic = "gun awake blind sniff lunch link mandate recycle acoustic install minor great";
+var mnemonic = "ozone sick eight ancient appear panel produce school city divide enable mimic";

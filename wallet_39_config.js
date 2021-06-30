@@ -1,1 +1,1 @@
-var mnemonic = "erode fossil spy group holiday panda knock curious road uniform library grace";
+var mnemonic = "image host retreat beyond amused lesson wedding retire sense case glance accident";

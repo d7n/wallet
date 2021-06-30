@@ -1,1 +1,1 @@
-var mnemonic = "attitude truck vapor ketchup penalty spare coffee cactus afraid pause first sort";
+var mnemonic = "quantum target uniform maid answer enjoy hold paper sea debate oak able";

@@ -1,1 +1,1 @@
-var mnemonic = "burger again offer motion antenna finish south cannon fossil tumble gold coconut";
+var mnemonic = "join pepper hero angry proud cinnamon wine coin glide endless emerge input";

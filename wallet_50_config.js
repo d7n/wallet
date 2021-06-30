@@ -1,1 +1,1 @@
-var mnemonic = "exclude track oppose estate task vacant fresh direct shove oval embrace ability";
+var mnemonic = "elevator expand fly side news galaxy connect bar wreck victory shy jeans";

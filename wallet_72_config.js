@@ -1,1 +1,1 @@
-var mnemonic = "render meat switch zero apple cram scheme armor remain leader flash destroy";
+var mnemonic = "annual wave sea tooth orphan invest place snack rice absurd cigar fuel";

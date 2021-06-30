@@ -1,1 +1,1 @@
-var mnemonic = "ladder nasty sudden indoor rural asset else elegant melt artwork coil category";
+var mnemonic = "ritual neutral century awkward rebel sibling until culture device system monster winter";

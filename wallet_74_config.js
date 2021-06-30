@@ -1,1 +1,1 @@
-var mnemonic = "actual movie goose vital people thrive size liquid view sausage donkey question";
+var mnemonic = "talent lucky daring success interest announce inform govern shine shadow liquid rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "increase true primary purse sand leaf wreck sphere fortune exact culture portion";
+var mnemonic = "broom door happy now loyal vanish paddle frame spend fork example visual";

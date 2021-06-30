@@ -1,1 +1,1 @@
-var mnemonic = "raw people predict crew unable tape album rookie shadow dignity crowd lesson";
+var mnemonic = "country blanket own cereal assume surge bag coast average leopard inquiry awesome";

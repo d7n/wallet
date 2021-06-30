@@ -1,1 +1,1 @@
-var mnemonic = "divert neutral vacant pumpkin affair cluster cart century wrist broom garden fiber";
+var mnemonic = "source disorder enroll pioneer property burger fetch ignore inner unknown fat supply";

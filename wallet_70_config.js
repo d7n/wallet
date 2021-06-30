@@ -1,1 +1,1 @@
-var mnemonic = "manage bridge home cargo broccoli simple desert setup more company insane sketch";
+var mnemonic = "egg wolf recall hen reduce paddle shed click retire alpha then ability";

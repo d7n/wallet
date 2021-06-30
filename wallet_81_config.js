@@ -1,1 +1,1 @@
-var mnemonic = "tip thing forum coyote pipe clay vital pledge edge lion surround ghost";
+var mnemonic = "fancy coin shine stage any tool hurt emerge decline earn ask spoil";

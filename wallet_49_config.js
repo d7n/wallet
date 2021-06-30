@@ -1,1 +1,1 @@
-var mnemonic = "phrase lift guide wrong coffee addict liberty leaf scheme stereo cigar sniff";
+var mnemonic = "when aim educate balance prepare match raccoon owner popular utility label mail";

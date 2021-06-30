@@ -1,1 +1,1 @@
-var mnemonic = "planet adult fee direct brush adapt arrest soul aerobic often siege exotic";
+var mnemonic = "evil absorb cattle noise solar shuffle always kid sugar option quick wreck";

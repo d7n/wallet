@@ -1,1 +1,1 @@
-var mnemonic = "sausage option dutch decline practice helmet air limb soldier cluster twenty rebel";
+var mnemonic = "oil excuse father grab parent ozone little hood float vivid decline reflect";

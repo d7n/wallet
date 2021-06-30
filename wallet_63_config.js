@@ -1,1 +1,1 @@
-var mnemonic = "mass risk tag ecology pledge about dad popular observe wait unfold limit";
+var mnemonic = "print monster iron arch course lab horse possible excess crunch retire promote";

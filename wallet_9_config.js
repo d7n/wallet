@@ -1,1 +1,1 @@
-var mnemonic = "bottom banner rice frog kangaroo easy stomach buffalo breeze belt immense sense";
+var mnemonic = "mosquito valid secret august charge boat quote moon soccer weird defense false";

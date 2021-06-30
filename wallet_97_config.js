@@ -1,1 +1,1 @@
-var mnemonic = "orphan nation volcano torch interest entire steak empower curtain oven orient cluster";
+var mnemonic = "all idea recall diamond patient enough leg turn shine rare right attitude";

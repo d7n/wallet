@@ -1,1 +1,1 @@
-var mnemonic = "easily uniform mechanic fatal voyage orbit review salad december olympic walnut hold";
+var mnemonic = "dismiss north apple false clock thunder consider pyramid skull sketch laptop feed";

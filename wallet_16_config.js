@@ -1,1 +1,1 @@
-var mnemonic = "zebra heart olympic city ketchup derive gaze cradle fatal there radar prepare";
+var mnemonic = "usage opera donkey enroll require craft trash west output attract reduce wrap";

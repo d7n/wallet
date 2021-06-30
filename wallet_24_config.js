@@ -1,1 +1,1 @@
-var mnemonic = "gorilla quiz holiday vacant bulk weasel wire pledge enjoy garlic shock average";
+var mnemonic = "you trigger that sell puppy cannon garbage spend book stock grow filter";

@@ -1,1 +1,1 @@
-var mnemonic = "alert prosper jealous face clap enroll stem curtain amazing say afraid result";
+var mnemonic = "faculty crazy diet balance mad portion injury hybrid bicycle health violin tonight";

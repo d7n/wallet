@@ -1,1 +1,1 @@
-var mnemonic = "faith review flat recycle awake lumber brisk figure giraffe renew equal absent";
+var mnemonic = "enforce mesh craft position hour about palm ugly right they trash giant";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke diesel onion recycle owner frost machine tail soap bring pulse expand";
+var mnemonic = "carpet apart train slogan recycle grit asthma attend labor sure skin rule";

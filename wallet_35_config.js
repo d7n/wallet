@@ -1,1 +1,1 @@
-var mnemonic = "habit display pulse abandon pond ribbon run announce burger wheat crisp tuna";
+var mnemonic = "argue force knock bitter dial man burger bulk year usage excess champion";

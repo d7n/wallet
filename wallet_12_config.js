@@ -1,1 +1,1 @@
-var mnemonic = "curtain blast series cart merry skull pattern road mammal fruit cycle evolve";
+var mnemonic = "olive scorpion cotton resist tonight effort nasty steel subway strike dog ramp";

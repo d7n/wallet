@@ -1,1 +1,1 @@
-var mnemonic = "muffin result grass spider wreck neutral install rabbit exile come injury stove";
+var mnemonic = "umbrella squeeze chase draw kid drive dentist process hair when coral hover";

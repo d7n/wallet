@@ -1,1 +1,1 @@
-var mnemonic = "sight best number combine match clean grass client whip music kingdom empower";
+var mnemonic = "note reform nose wedding concert fox rib hard foot cattle answer outdoor";

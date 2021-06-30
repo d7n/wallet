@@ -1,1 +1,1 @@
-var mnemonic = "enact cream return wrap pride during choice poet idea spoil unlock loyal";
+var mnemonic = "divorce crawl tonight security arrest dust mask donkey alone survey memory stick";

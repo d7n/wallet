@@ -1,1 +1,1 @@
-var mnemonic = "broccoli update craft moon sign midnight clever filter dune horror walk liberty";
+var mnemonic = "shoulder produce minimum adapt alert aspect cabbage immune volcano atom bacon pen";

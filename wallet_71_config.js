@@ -1,1 +1,1 @@
-var mnemonic = "long little material long divert riot rescue fruit slide nothing crystal actor";
+var mnemonic = "victory crumble hero fortune box project slim boy ostrich switch edit boring";

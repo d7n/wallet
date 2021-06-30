@@ -1,1 +1,1 @@
-var mnemonic = "fuel actor metal noise escape update recycle course coconut curious essence toy";
+var mnemonic = "heart borrow nerve good correct jar exile rural want recipe gold lock";

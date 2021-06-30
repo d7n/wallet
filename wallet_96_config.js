@@ -1,1 +1,1 @@
-var mnemonic = "achieve mammal hedgehog notable car vapor brain hat buzz forward damp call";
+var mnemonic = "island ecology pudding multiply income example danger they dismiss comic crane present";

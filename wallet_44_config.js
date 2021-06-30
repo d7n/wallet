@@ -1,1 +1,1 @@
-var mnemonic = "cereal wheel silk chalk enter actress end relax west vapor slab aim";
+var mnemonic = "tip vintage crucial icon pyramid core spoon student early hamster coral limit";

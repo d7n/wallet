@@ -1,1 +1,1 @@
-var mnemonic = "solar lawsuit obey fragile young destroy moon stable turkey unusual disease cement";
+var mnemonic = "toddler horn convince capital wrong drum tuna riot salmon chuckle state elder";

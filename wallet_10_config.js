@@ -1,1 +1,1 @@
-var mnemonic = "letter loyal million hidden verb satisfy glare airport wedding invest salon deal";
+var mnemonic = "farm melt unique connect various canal iron flame eyebrow cage brass problem";

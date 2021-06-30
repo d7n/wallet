@@ -1,1 +1,1 @@
-var mnemonic = "advice review lobster bone seven tobacco case sponsor mystery pilot review top";
+var mnemonic = "lesson input useful state excuse weird salmon skate squeeze broccoli donate minute";

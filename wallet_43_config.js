@@ -1,1 +1,1 @@
-var mnemonic = "convince decrease way all custom tragic position rain example armed harsh security";
+var mnemonic = "benefit first fresh settle undo injury soccer earn tomato side gold bright";

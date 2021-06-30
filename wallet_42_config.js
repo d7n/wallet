@@ -1,1 +1,1 @@
-var mnemonic = "small present ostrich rescue rule doctor usage joke benefit afford joke crisp";
+var mnemonic = "hazard ribbon shoot hurdle water garment flight cart split brand sister acquire";

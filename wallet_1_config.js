@@ -1,1 +1,1 @@
-var mnemonic = "boy monster jealous wide jeans off cruel scatter snack page tent solution";
+var mnemonic = "bridge doll connect mystery popular exercise sauce intact onion lonely parade hospital";

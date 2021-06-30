@@ -1,1 +1,1 @@
-var mnemonic = "canal grit jump great family rural gown lava derive exact vehicle chat";
+var mnemonic = "dust legend derive tool brave hedgehog embody drill habit pet accident uniform";

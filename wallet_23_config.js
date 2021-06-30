@@ -1,1 +1,1 @@
-var mnemonic = "place label leaf regret avocado raccoon have hurry wagon hamster ritual peanut";
+var mnemonic = "ask green smart night twin color absorb bridge glance crime icon finger";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle put huge elite beef admit dignity erupt urban bronze rival have";
+var mnemonic = "observe draft tray oblige mammal young catalog hotel allow pretty creek hat";

@@ -1,1 +1,1 @@
-var mnemonic = "equip grocery worth school foot property finger dilemma crouch galaxy glare sign";
+var mnemonic = "piano dish unique cry essence stone reward punch marine magnet staff virtual";

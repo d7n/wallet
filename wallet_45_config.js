@@ -1,1 +1,1 @@
-var mnemonic = "pizza source humor logic latin radar funny arrow convince state tree shoot";
+var mnemonic = "abandon neglect expand opinion belt innocent post anchor clay erase annual leopard";
