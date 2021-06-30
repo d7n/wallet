@@ -1,1 +1,1 @@
-var mnemonic = "moon tired humble coral lucky issue popular income tragic couple shine energy";
+var mnemonic = "increase just expire author inform rigid lend garbage bean park cross vote";

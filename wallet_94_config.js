@@ -1,1 +1,1 @@
-var mnemonic = "enter exhibit regular danger city notice crime garden apology pause case bright";
+var mnemonic = "gym tip wood rich slot solar rail smart fluid miracle exhibit sting";

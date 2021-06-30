@@ -1,1 +1,1 @@
-var mnemonic = "piece reopen volcano rural goddess armed lesson moment noodle gather onion purse";
+var mnemonic = "crunch nasty chimney acquire velvet awake few maid vital capable bonus beach";

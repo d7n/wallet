@@ -1,1 +1,1 @@
-var mnemonic = "tornado brick canvas glass beyond caught proof hello rule nephew edit ankle";
+var mnemonic = "silk race initial matrix page soap enlist rebuild rice naive razor merry";

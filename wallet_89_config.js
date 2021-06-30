@@ -1,1 +1,1 @@
-var mnemonic = "review strategy cushion soup unusual element senior close daring soft swear broccoli";
+var mnemonic = "bacon arrest junior proud velvet boost heart original couch wet ski exclude";

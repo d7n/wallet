@@ -1,1 +1,1 @@
-var mnemonic = "where bundle spot belt autumn seed sell ice base stove gasp inhale";
+var mnemonic = "coyote merit muscle floor illness wonder monitor neutral gorilla table manage gravity";

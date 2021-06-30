@@ -1,1 +1,1 @@
-var mnemonic = "tomato foot conduct machine pulse clutch tree emotion hospital deal strong secret";
+var mnemonic = "success course patient rely captain draft hamster hospital animal wish swim usage";

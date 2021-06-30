@@ -1,1 +1,1 @@
-var mnemonic = "ensure excite region attend truck room nest still push dove broom bean";
+var mnemonic = "fortune color chat program defy split loyal hurt visa pond cupboard magnet";

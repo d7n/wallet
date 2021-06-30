@@ -1,1 +1,1 @@
-var mnemonic = "corn elevator change immense chicken unique boat come laptop stone check regret";
+var mnemonic = "index dutch desert hold supply file either emotion economy victory impose hybrid";

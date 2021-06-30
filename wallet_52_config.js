@@ -1,1 +1,1 @@
-var mnemonic = "tail faculty town remember pigeon napkin ribbon adult valley finish ticket where";
+var mnemonic = "mandate depend inject digital lucky output around effort all faint poet tuition";

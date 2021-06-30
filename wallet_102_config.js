@@ -1,1 +1,1 @@
-var mnemonic = "cupboard develop ordinary erase sad there mistake edge blossom half give other";
+var mnemonic = "burden often vibrant alone cart want trend twin lottery spoon safe carry";

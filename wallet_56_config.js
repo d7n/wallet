@@ -1,1 +1,1 @@
-var mnemonic = "bid book verb shoe tip argue certain fossil school rabbit sign dutch";
+var mnemonic = "beach atom mimic faculty team kite example price trade trumpet cart deposit";

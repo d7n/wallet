@@ -1,1 +1,1 @@
-var mnemonic = "uncover violin essay sheriff trade treat bargain cousin reunion stove whip town";
+var mnemonic = "apart warfare wonder deputy sniff become believe mad solution silly bridge delay";

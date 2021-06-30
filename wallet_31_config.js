@@ -1,1 +1,1 @@
-var mnemonic = "swarm aware maple wait scissors clay zebra suffer confirm expose radar keen";
+var mnemonic = "under round bamboo gadget wall unable blush option choice tackle cream egg";

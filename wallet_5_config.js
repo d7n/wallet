@@ -1,1 +1,1 @@
-var mnemonic = "sand isolate use test lizard approve scout anchor card case shrimp network";
+var mnemonic = "expect make task control solution fish boring name notable sibling topic clerk";

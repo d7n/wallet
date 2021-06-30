@@ -1,1 +1,1 @@
-var mnemonic = "huge actual muscle rose ethics search trophy paper add steel reunion topple";
+var mnemonic = "catalog salon solid connect letter wild derive joy clown kite among spy";

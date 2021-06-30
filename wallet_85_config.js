@@ -1,1 +1,1 @@
-var mnemonic = "glide divert payment guard equal pass impact have cute glare garage cancel";
+var mnemonic = "sort asthma tool diet section parent evidence empower gym price choice mass";

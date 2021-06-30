@@ -1,1 +1,1 @@
-var mnemonic = "device tomorrow wear pen useful awkward senior develop make digital grape cherry";
+var mnemonic = "man travel actress beyond candy canyon wonder trophy old genre special spy";

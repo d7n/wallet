@@ -1,1 +1,1 @@
-var mnemonic = "erode exclude exotic economy jeans buyer silver all crane march purity hybrid";
+var mnemonic = "lyrics resemble advice release tree flight federal hidden broken dawn term rich";

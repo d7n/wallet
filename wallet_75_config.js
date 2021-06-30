@@ -1,1 +1,1 @@
-var mnemonic = "rice gift option annual grit dilemma fun love blast east shrimp alien";
+var mnemonic = "trumpet asset switch novel describe physical plunge rubber potato champion toddler rival";

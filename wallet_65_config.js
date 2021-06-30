@@ -1,1 +1,1 @@
-var mnemonic = "chimney wash guitar bamboo vibrant kick muscle pyramid reduce camera shield elder";
+var mnemonic = "hurdle myself soul weasel shop stove blush inch plate health increase ridge";

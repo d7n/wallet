@@ -1,1 +1,1 @@
-var mnemonic = "agent audit attract code scatter quality plastic fabric program praise enter boy";
+var mnemonic = "hire stable endorse junk coconut switch city high wheel heart joy mistake";

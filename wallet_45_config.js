@@ -1,1 +1,1 @@
-var mnemonic = "various nephew hover stool congress frame panel bounce merit basic digital awesome";
+var mnemonic = "forget swamp nothing indicate outdoor quick giant beauty check siren major road";

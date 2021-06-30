@@ -1,1 +1,1 @@
-var mnemonic = "jacket leopard parent letter current assault screen pigeon exotic day friend extend";
+var mnemonic = "meat cousin unusual choose zone walnut caught journey security allow innocent cash";

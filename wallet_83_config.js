@@ -1,1 +1,1 @@
-var mnemonic = "usage physical army pet mass rebel various must lake result cover obtain";
+var mnemonic = "blouse bunker sheriff topple winter fetch current payment elder video shove february";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster vocal moment subject napkin gown opera surface wire still park blind";
+var mnemonic = "quit ignore file lens hobby stick raise truck bulb flush isolate sponsor";

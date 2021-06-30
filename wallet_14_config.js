@@ -1,1 +1,1 @@
-var mnemonic = "artwork illegal donkey body loop butter bag tourist rain verify chat oak";
+var mnemonic = "banner practice churn code blind live dizzy olive extend secret smoke copy";

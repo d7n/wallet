@@ -1,1 +1,1 @@
-var mnemonic = "hair sell black ritual tumble provide walnut gather trophy output point width";
+var mnemonic = "tape color choice cattle arrive worth inmate street unusual caught farm time";

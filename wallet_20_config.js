@@ -1,1 +1,1 @@
-var mnemonic = "tourist embark lecture cable must clap exit list tragic adult hammer mix";
+var mnemonic = "vacant blast bargain control year play fog off initial chalk party express";

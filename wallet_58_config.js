@@ -1,1 +1,1 @@
-var mnemonic = "nose gadget oppose aware wrestle general inherit differ family gun figure kick";
+var mnemonic = "destroy museum fossil scrap purity cross hidden fabric quote echo vapor have";

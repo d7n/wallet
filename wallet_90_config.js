@@ -1,1 +1,1 @@
-var mnemonic = "exit rhythm sibling make earth scare fatal iron pumpkin fury usage afford";
+var mnemonic = "steak label hundred mention crater rail heavy wolf omit combine brief monkey";

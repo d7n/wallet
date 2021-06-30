@@ -1,1 +1,1 @@
-var mnemonic = "egg busy siege marble okay boy capital width foot need clutch seminar";
+var mnemonic = "collect car dinner elder faculty bid ability cabbage tomato have health rack";

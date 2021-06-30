@@ -1,1 +1,1 @@
-var mnemonic = "thank word guitar adapt connect another ankle wonder fluid kitchen enhance peace";
+var mnemonic = "leader end observe simple scare orange device empower shrimp ridge guide kite";

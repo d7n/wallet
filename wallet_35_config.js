@@ -1,1 +1,1 @@
-var mnemonic = "once repair coyote interest account resource chuckle refuse grief jaguar juice scout";
+var mnemonic = "creek narrow process awake language bus swamp drive interest jaguar craft organ";

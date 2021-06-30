@@ -1,1 +1,1 @@
-var mnemonic = "merry fury fabric ride canal cabbage increase sustain barrel option space dose";
+var mnemonic = "cradle either simple combine tackle shield jazz fatal issue mushroom post honey";

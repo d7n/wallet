@@ -1,1 +1,1 @@
-var mnemonic = "primary joke arrow drink foil juice turtle exit heavy museum achieve never";
+var mnemonic = "busy draft dust corn belt poverty situate fame domain wealth ecology couch";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp focus scheme income spirit wear kite toy bonus artwork east select";
+var mnemonic = "science toward quote advance mirror limit salmon member brick weekend ankle crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "lady search test negative citizen liar involve hope reward artwork universe course";
+var mnemonic = "hundred camp type plunge image joy dignity rebel scene tragic swim off";

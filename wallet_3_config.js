@@ -1,1 +1,1 @@
-var mnemonic = "fantasy squirrel tackle equip correct crime side blood obey stable lunch skin";
+var mnemonic = "shoulder chair enable charge velvet machine amateur put rather cash duty image";

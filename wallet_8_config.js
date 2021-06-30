@@ -1,1 +1,1 @@
-var mnemonic = "country episode myself acoustic flash fork large suspect express busy profit blue";
+var mnemonic = "ask ask symptom fuel canyon engine palace civil idea thunder lottery ignore";

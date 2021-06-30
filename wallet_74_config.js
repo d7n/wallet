@@ -1,1 +1,1 @@
-var mnemonic = "pudding fury absorb actor genius cycle sell gentle shield hard daughter talent";
+var mnemonic = "depend reform pattern unveil live trash tray surface wasp replace jacket drink";

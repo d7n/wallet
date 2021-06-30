@@ -1,1 +1,1 @@
-var mnemonic = "pepper undo risk entire person upgrade relief bulk relief field oven dove";
+var mnemonic = "great crane photo neutral blind owner argue enact age modify orient danger";

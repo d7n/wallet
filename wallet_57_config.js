@@ -1,1 +1,1 @@
-var mnemonic = "victory cube liberty fade grow early member area poverty oxygen prosper kiss";
+var mnemonic = "move left taste vacuum carbon bottom fence mixed adult august happy bench";

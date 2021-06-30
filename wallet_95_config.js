@@ -1,1 +1,1 @@
-var mnemonic = "leader robust burst chat river nasty valid utility better success boy wrap";
+var mnemonic = "vehicle whip coast grain surprise find near cabbage repair inquiry alter knee";

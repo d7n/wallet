@@ -1,1 +1,1 @@
-var mnemonic = "dice misery artwork deny maple often matter suit cabbage family throw pair";
+var mnemonic = "once note kangaroo scan surround screen picnic water artwork harbor network height";

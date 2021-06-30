@@ -1,1 +1,1 @@
-var mnemonic = "travel crucial rug firm injury path ozone bubble tornado pretty arrange guess";
+var mnemonic = "ozone sport skill age clutch clip column sadness brain solid jealous ocean";

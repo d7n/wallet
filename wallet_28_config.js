@@ -1,1 +1,1 @@
-var mnemonic = "planet thank orange come curious rug machine choose duck unhappy dolphin green";
+var mnemonic = "public impact song double benefit mail enhance net agent control utility climb";

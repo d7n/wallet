@@ -1,1 +1,1 @@
-var mnemonic = "exhibit make history object you tired provide pattern apology cake pepper price";
+var mnemonic = "dwarf erosion cruel decline lava layer purity reveal print arm boat become";

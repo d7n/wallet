@@ -1,1 +1,1 @@
-var mnemonic = "club whale face inmate guilt fine indicate almost apart deal like math";
+var mnemonic = "language scale elephant prize neither drum near skate they common tunnel industry";

@@ -1,1 +1,1 @@
-var mnemonic = "label great dynamic position inner oyster tornado pelican echo nothing escape collect";
+var mnemonic = "play weather resemble grass bargain patient drastic idle tenant favorite wing tackle";

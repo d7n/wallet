@@ -1,1 +1,1 @@
-var mnemonic = "onion prepare mixture teach visit weapon dial lecture electric edge blossom current";
+var mnemonic = "describe capital fresh consider final rotate rose oven tiny lady coral knife";

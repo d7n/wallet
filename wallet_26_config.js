@@ -1,1 +1,1 @@
-var mnemonic = "sentence green school breeze butter settle shallow myth mean sound sea conduct";
+var mnemonic = "power addict title bridge baby jazz behave exist city dish muscle safe";

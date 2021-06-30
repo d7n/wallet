@@ -1,1 +1,1 @@
-var mnemonic = "caution strategy spatial misery near march picnic offer ship wide garment wise";
+var mnemonic = "toast measure member tobacco lawsuit return balance grow cushion sock dragon board";

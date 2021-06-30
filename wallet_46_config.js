@@ -1,1 +1,1 @@
-var mnemonic = "seminar taxi hen certain window erosion plastic employ pioneer cushion enlist rain";
+var mnemonic = "orbit novel inspire bubble picnic expand express steel flash chase leaf pole";

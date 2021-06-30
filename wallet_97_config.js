@@ -1,1 +1,1 @@
-var mnemonic = "gorilla left steel swim course absorb ridge trade crop reject flavor glad";
+var mnemonic = "adult puppy first bid wrap join since calm access arch butter diagram";

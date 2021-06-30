@@ -1,1 +1,1 @@
-var mnemonic = "layer write lemon sell fringe sponsor sausage alcohol canal climb race peasant";
+var mnemonic = "frog inform whisper equal virus gentle happy object alien coin blush modify";

@@ -1,1 +1,1 @@
-var mnemonic = "bike later luxury cake monitor force surge worth toddler stick basket author";
+var mnemonic = "visit catalog curtain service sample tumble marine scorpion abuse awkward announce film";

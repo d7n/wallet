@@ -1,1 +1,1 @@
-var mnemonic = "thrive saddle extend trial tooth glory stable scale boil hand demise donate";
+var mnemonic = "jungle fan index order when battle crucial age notable two treat achieve";

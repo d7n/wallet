@@ -1,1 +1,1 @@
-var mnemonic = "into february already accident jump clock frog couch flee race clinic age";
+var mnemonic = "laptop welcome adult feel current tool minor disorder fame razor pluck destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "valley isolate fix damp birth survey salute network apart also absent doll";
+var mnemonic = "exact differ member blouse throw vintage either act surface access theme rather";

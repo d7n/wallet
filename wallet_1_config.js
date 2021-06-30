@@ -1,1 +1,1 @@
-var mnemonic = "power video rally device south gossip sniff rookie thought parent cancel couch";
+var mnemonic = "predict run laundry fiber hockey concert arrest rare hundred awesome top song";

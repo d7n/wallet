@@ -1,1 +1,1 @@
-var mnemonic = "turn hungry enrich own method shrug stem upgrade excite language bomb beach";
+var mnemonic = "between beach coconut celery write nothing medal tooth rotate ivory small tattoo";

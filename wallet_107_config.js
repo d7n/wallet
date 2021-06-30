@@ -1,1 +1,1 @@
-var mnemonic = "also fetch skate remind sight session property coin crisp skin crack cat";
+var mnemonic = "gloom athlete denial help want agree pumpkin hub eternal copy job enrich";

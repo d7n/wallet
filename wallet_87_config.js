@@ -1,1 +1,1 @@
-var mnemonic = "right bubble fix gossip helmet mixed gloom friend control harsh nasty polar";
+var mnemonic = "vanish review season soap ahead twenty room few race shadow post elite";

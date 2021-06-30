@@ -1,1 +1,1 @@
-var mnemonic = "couple dutch mention person render census found purse process ability spawn anchor";
+var mnemonic = "front random rice tortoise grant online size arrest zone divide number mixed";

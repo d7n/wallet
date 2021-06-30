@@ -1,1 +1,1 @@
-var mnemonic = "romance manual fold attract bacon hawk license isolate pass post glance melt";
+var mnemonic = "harbor venture chair strategy rude loud attend napkin find undo swing nominee";

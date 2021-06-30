@@ -1,1 +1,1 @@
-var mnemonic = "village top limb gloom crystal feature lecture error assault quality capable penalty";
+var mnemonic = "now setup hub medal filter custom unusual talent rent switch reflect volcano";

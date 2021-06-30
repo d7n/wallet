@@ -1,1 +1,1 @@
-var mnemonic = "jewel corn crush orange write tower mule lizard flag assume claw tip";
+var mnemonic = "alone tray pizza lunch soon height pluck green release celery kick nose";

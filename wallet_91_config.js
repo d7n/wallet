@@ -1,1 +1,1 @@
-var mnemonic = "fitness make disorder twice amused pipe piano inner despair awesome liberty invest";
+var mnemonic = "pause toast govern loyal smooth neutral reunion latin dog spell acquire little";

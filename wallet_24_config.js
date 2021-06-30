@@ -1,1 +1,1 @@
-var mnemonic = "twice meadow maximum village abstract old amazing frame obey idea ritual village";
+var mnemonic = "theory this radar bridge neck coral mule weird again grocery say laugh";

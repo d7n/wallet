@@ -1,1 +1,1 @@
-var mnemonic = "office noble puppy arm crack urban asset situate legend oppose bicycle hedgehog";
+var mnemonic = "forward silly pistol scale under ancient similar urban share basic park ankle";

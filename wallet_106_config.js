@@ -1,1 +1,1 @@
-var mnemonic = "infant remember wall explain kiss action job alone raven assault apart wave";
+var mnemonic = "crucial decorate valid judge laugh away solve spin park main crop save";

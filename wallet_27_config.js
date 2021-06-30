@@ -1,1 +1,1 @@
-var mnemonic = "lake green luxury play enough kite volcano audit range visit multiply step";
+var mnemonic = "expire build rail witness pair sorry banner minor inherit attend nurse spawn";

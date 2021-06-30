@@ -1,1 +1,1 @@
-var mnemonic = "yard abandon window unhappy tag can smile cube spoil battle motion design";
+var mnemonic = "process room shrimp latin snap surround tube stadium swamp flash debate impose";

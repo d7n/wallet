@@ -1,1 +1,1 @@
-var mnemonic = "law glare collect van mimic depth produce promote issue couch situate party";
+var mnemonic = "pigeon width voyage dolphin social kingdom save lobster rely early when home";

@@ -1,1 +1,1 @@
-var mnemonic = "addict local foster hire mule venture script since bachelor perfect over infant";
+var mnemonic = "size sausage inject term power away one hello harvest cave apart sketch";

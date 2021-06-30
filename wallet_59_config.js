@@ -1,1 +1,1 @@
-var mnemonic = "raven genuine visa topic egg tourist swift soda bone cotton lion erode";
+var mnemonic = "occur series lounge goddess salon kiss slight square dinosaur century fashion clarify";

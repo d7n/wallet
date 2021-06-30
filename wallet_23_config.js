@@ -1,1 +1,1 @@
-var mnemonic = "plastic inner space bright trust earn manual inmate worth obscure tornado library";
+var mnemonic = "prevent six black miracle love beyond stock dry barrel alpha fringe dragon";

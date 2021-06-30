@@ -1,1 +1,1 @@
-var mnemonic = "book guard onion lend ice citizen all talk festival stove infant bless";
+var mnemonic = "cool lobster skirt box couch edit web wisdom gift carbon captain lock";

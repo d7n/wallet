@@ -1,1 +1,1 @@
-var mnemonic = "basic uncle flavor correct section sister develop field indoor beach rate decade";
+var mnemonic = "dry between expire curtain identify empty perfect double horse barrel inherit equal";

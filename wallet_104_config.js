@@ -1,1 +1,1 @@
-var mnemonic = "profit load three truth target fine style disorder lecture sick ticket lyrics";
+var mnemonic = "betray village benefit ripple reflect announce input tomorrow result tongue ill boy";

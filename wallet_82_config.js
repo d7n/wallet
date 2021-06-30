@@ -1,1 +1,1 @@
-var mnemonic = "snake slush scrub thought depart tag example measure forest sight nest kite";
+var mnemonic = "clown else acid ball start kidney today smart average small pattern end";

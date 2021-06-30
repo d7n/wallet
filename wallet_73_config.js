@@ -1,1 +1,1 @@
-var mnemonic = "face boat beach obey midnight pig private caution surge deputy coral calm";
+var mnemonic = "river awesome grab flush meadow else still portion black chuckle elevator chicken";

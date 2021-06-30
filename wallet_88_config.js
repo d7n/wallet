@@ -1,1 +1,1 @@
-var mnemonic = "cancel extend fancy borrow sell wear general ill thunder draw canal safe";
+var mnemonic = "local steak journey future aware decrease army denial wish settle sight blue";

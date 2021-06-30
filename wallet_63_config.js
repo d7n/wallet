@@ -1,1 +1,1 @@
-var mnemonic = "supreme pattern dumb perfect anchor coil lady reject awesome fit palm fall";
+var mnemonic = "wear element club physical scare aisle jacket shock final fatal unusual casino";

@@ -1,1 +1,1 @@
-var mnemonic = "denial wing since pioneer town lobster fatal like trip expand provide artwork";
+var mnemonic = "alien together coach below purse flame tray rookie trial post cage trade";

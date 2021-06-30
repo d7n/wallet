@@ -1,1 +1,1 @@
-var mnemonic = "drop echo hint shoot game remove rather wonder fan pulp jewel enter";
+var mnemonic = "fetch filter search income glass supply dentist become nice total ring giant";

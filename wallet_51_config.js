@@ -1,1 +1,1 @@
-var mnemonic = "coin catch desert off mosquito famous tourist merry cart stadium can shop";
+var mnemonic = "banner flag frame envelope spin course wisdom use employ live sense abstract";

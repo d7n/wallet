@@ -1,1 +1,1 @@
-var mnemonic = "achieve climb laundry easily duty sword misery doctor bundle horror panda battle";
+var mnemonic = "cargo ignore drip dentist debate labor spawn orphan blast used catch outdoor";
