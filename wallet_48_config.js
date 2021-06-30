@@ -1,1 +1,1 @@
-var mnemonic = "burger virus rubber dice tail clog rough injury lady old drink primary";
+var mnemonic = "table ancient erase police upper canyon space cinnamon used phrase weird young";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce essence juice task have april valid add glad inject supreme staff";
+var mnemonic = "trick shield hand scheme approve april lend identify hover alter treat vocal";

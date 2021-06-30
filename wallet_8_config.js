@@ -1,1 +1,1 @@
-var mnemonic = "hen cram vocal wonder boat unveil story pyramid talent giant mix decade";
+var mnemonic = "demand wrist gift change same hospital steak eagle clerk supply ivory finger";

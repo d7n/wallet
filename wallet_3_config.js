@@ -1,1 +1,1 @@
-var mnemonic = "fault project worry solar dream share giraffe police shadow damp evidence mask";
+var mnemonic = "sunny color laundry fury mesh casual worry accident dinner choice luggage arrange";

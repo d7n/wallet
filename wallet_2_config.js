@@ -1,1 +1,1 @@
-var mnemonic = "night delay chase violin faint shop fossil stay parrot erode drum save";
+var mnemonic = "system dose supply pizza inject regular hair unknown fatigue infant venture spray";

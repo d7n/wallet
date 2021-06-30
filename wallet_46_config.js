@@ -1,1 +1,1 @@
-var mnemonic = "inhale then scheme salt sponsor eight seminar inside proof feature benefit light";
+var mnemonic = "furnace alter flock route ritual marble catalog cave injury bonus antique creek";

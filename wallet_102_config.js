@@ -1,1 +1,1 @@
-var mnemonic = "burden mind hill awesome wear govern sister dentist hat guard useless depart";
+var mnemonic = "volume trick fame decorate novel poet cliff moral action average mobile brass";

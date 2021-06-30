@@ -1,1 +1,1 @@
-var mnemonic = "someone movie fury unfair unlock casino wing general wrestle manual drum public";
+var mnemonic = "disorder siege fancy assault split million enter burden apology little tuna eyebrow";

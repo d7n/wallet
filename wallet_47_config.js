@@ -1,1 +1,1 @@
-var mnemonic = "address suffer fiction wrist style theory appear weather hamster acquire twelve faculty";
+var mnemonic = "enter interest cloud bread snack adapt harsh wave glow thunder sport retire";

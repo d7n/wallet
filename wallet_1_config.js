@@ -1,1 +1,1 @@
-var mnemonic = "today custom wife banner ticket spoil glass half can basket fork giraffe";
+var mnemonic = "lend detect source trigger armed fire coast secret bind topple stone humble";

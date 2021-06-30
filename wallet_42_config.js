@@ -1,1 +1,1 @@
-var mnemonic = "upgrade unique zone portion robot exercise hawk engine pigeon absorb hurdle wave";
+var mnemonic = "laptop unit skin odor special sea prosper keep fatigue train cost bachelor";

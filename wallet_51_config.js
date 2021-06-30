@@ -1,1 +1,1 @@
-var mnemonic = "latin lizard heavy rib cancel cloud kiss rough crystal wait pole girl";
+var mnemonic = "bid cluster exact hover kangaroo share panther corn pear kiss online music";

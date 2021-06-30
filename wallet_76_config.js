@@ -1,1 +1,1 @@
-var mnemonic = "humble identify noise outer time chuckle elegant practice shock fog deer embrace";
+var mnemonic = "trumpet burger creek shaft type ring shrimp shine close absent candy drift";

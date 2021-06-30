@@ -1,1 +1,1 @@
-var mnemonic = "anxiety series dismiss bonus pattern brief arch stove crane dash panda federal";
+var mnemonic = "vanish recipe issue excite buddy digital spoil vanish wedding nurse best wise";

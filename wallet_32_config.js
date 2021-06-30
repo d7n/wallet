@@ -1,1 +1,1 @@
-var mnemonic = "foam goose stereo miss nut theory notice throw sadness cool master crawl";
+var mnemonic = "inside anger bamboo surge report pond effort arctic patch secret tragic earn";

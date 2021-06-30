@@ -1,1 +1,1 @@
-var mnemonic = "choice museum phrase menu extra leg witness yard rose zone argue design";
+var mnemonic = "young move maze apart camp chronic color actor physical quality state control";

@@ -1,1 +1,1 @@
-var mnemonic = "critic aerobic boil cricket grab asthma upgrade pistol venture fox scan faith";
+var mnemonic = "snack ozone fiscal ready library tiny bulk robot firm tattoo carry alpha";

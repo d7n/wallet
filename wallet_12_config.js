@@ -1,1 +1,1 @@
-var mnemonic = "produce sunny skin prepare maid crash cloth pen panic resemble rotate camp";
+var mnemonic = "shop elder slice drill already hundred order clay wet satisfy kick drum";

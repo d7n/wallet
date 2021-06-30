@@ -1,1 +1,1 @@
-var mnemonic = "crouch uphold scatter rice ski citizen hollow balance jewel pill raise news";
+var mnemonic = "ugly brief chat cry vendor destroy noise tobacco rescue spread middle diary";

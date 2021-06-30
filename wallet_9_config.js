@@ -1,1 +1,1 @@
-var mnemonic = "knock robot kitchen make solution blame inform spend input alter dish save";
+var mnemonic = "trick chef shoulder slot recall outside mad silent ridge awkward abandon grit";

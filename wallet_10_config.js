@@ -1,1 +1,1 @@
-var mnemonic = "jump basket estate meadow sample fun liar pole amazing actor track resemble";
+var mnemonic = "oil hope library gather broken exile unaware use income social sauce want";

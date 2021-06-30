@@ -1,1 +1,1 @@
-var mnemonic = "hello gadget middle vintage brand control upset nothing enrich crash helmet nasty";
+var mnemonic = "budget occur valid usage zone thrive mass border potato mention violin pioneer";

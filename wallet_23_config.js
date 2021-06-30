@@ -1,1 +1,1 @@
-var mnemonic = "lab wagon senior horror praise canal violin wagon giggle barrel idle claim";
+var mnemonic = "hedgehog sister reward mammal income rally orchard pulp ladder tip saddle note";

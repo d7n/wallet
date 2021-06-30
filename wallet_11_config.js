@@ -1,1 +1,1 @@
-var mnemonic = "junior act certain float fashion bus trash fix grant public oval uncover";
+var mnemonic = "cereal gossip clip later cycle notable wire jewel civil quit six hour";

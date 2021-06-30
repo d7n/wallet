@@ -1,1 +1,1 @@
-var mnemonic = "snake food deal dog process sweet faith winter vanish plastic cruel tilt";
+var mnemonic = "high trend victory screen pony same term repeat tape ritual basic smoke";

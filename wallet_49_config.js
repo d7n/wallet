@@ -1,1 +1,1 @@
-var mnemonic = "speed usual buzz arena become gun weird case symbol tortoise insect month";
+var mnemonic = "check they stadium wheat nut thumb entry flush evil travel track involve";

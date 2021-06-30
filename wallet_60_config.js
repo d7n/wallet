@@ -1,1 +1,1 @@
-var mnemonic = "illness play tennis true asset view minor fence pig author stadium will";
+var mnemonic = "cheap address adult tattoo sentence lemon buyer hamster nasty music blanket gather";

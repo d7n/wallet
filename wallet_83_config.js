@@ -1,1 +1,1 @@
-var mnemonic = "fit laugh property between trust arrange toy pet program enjoy burst claw";
+var mnemonic = "crumble globe tomato indoor quantum trial allow peasant jungle funny snap general";

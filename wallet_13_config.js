@@ -1,1 +1,1 @@
-var mnemonic = "brother outer wool sight debris chimney shift fault position prize inner abstract";
+var mnemonic = "alarm zero train decrease finish oak decline useless laundry next spike surface";

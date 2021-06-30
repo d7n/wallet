@@ -1,1 +1,1 @@
-var mnemonic = "limit magic female patient move inside inform tone menu chase fury venue";
+var mnemonic = "coffee resemble grape waste oak service orange copper weapon retreat eight ecology";

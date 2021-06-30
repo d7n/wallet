@@ -1,1 +1,1 @@
-var mnemonic = "remember glare rabbit will degree bridge damage material control grunt pill object";
+var mnemonic = "index display gown oyster elevator tuition tube autumn scheme lumber eternal paddle";

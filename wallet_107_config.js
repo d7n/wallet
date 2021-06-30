@@ -1,1 +1,1 @@
-var mnemonic = "season sting doll upgrade hen wide win craft nurse burden reflect oblige";
+var mnemonic = "time hidden match like record winter advice guitar stand wink mass shuffle";

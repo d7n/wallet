@@ -1,1 +1,1 @@
-var mnemonic = "about cancel faith satisfy will adapt hundred roof own flush mandate forward";
+var mnemonic = "junior easy sea lazy museum globe suffer trim satisfy oxygen fame apple";

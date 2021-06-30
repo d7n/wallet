@@ -1,1 +1,1 @@
-var mnemonic = "heart unhappy illegal flag paddle deer dish cave joke deputy waste because";
+var mnemonic = "frost cheap trend mimic again welcome chunk day among gift kite work";

@@ -1,1 +1,1 @@
-var mnemonic = "blood lion forum trend belt range glide develop quarter pact swing trumpet";
+var mnemonic = "bid movie crop salt path they proof claim volcano punch lottery library";

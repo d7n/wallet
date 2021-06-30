@@ -1,1 +1,1 @@
-var mnemonic = "print hub enable deliver image front chase pizza enemy album spirit such";
+var mnemonic = "indicate merit pen bulb ring kid curtain nature pond trumpet pyramid slogan";

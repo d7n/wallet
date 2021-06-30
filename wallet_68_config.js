@@ -1,1 +1,1 @@
-var mnemonic = "attack plastic spy smart jacket ship fuel stairs iron pledge calm uncover";
+var mnemonic = "custom off bleak beyond enforce acquire convince across violin desert egg pupil";

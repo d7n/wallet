@@ -1,1 +1,1 @@
-var mnemonic = "what tourist beef era luggage lamp advance tuition rural clerk crystal imitate";
+var mnemonic = "cluster ice frown include word want fiscal what impulse own donate sunny";

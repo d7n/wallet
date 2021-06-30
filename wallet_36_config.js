@@ -1,1 +1,1 @@
-var mnemonic = "quote question wage foil capable citizen club earn reform direct isolate police";
+var mnemonic = "pond impose mesh black invest adapt rigid wreck radio magnet thank just";

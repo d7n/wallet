@@ -1,1 +1,1 @@
-var mnemonic = "right comfort jungle shove liberty unhappy crop trip tell pencil stereo mountain";
+var mnemonic = "angry few approve spare require curtain nose run virtual wreck rocket neutral";

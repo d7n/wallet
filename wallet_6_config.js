@@ -1,1 +1,1 @@
-var mnemonic = "grit job syrup anchor slush manual market clever undo saddle song rhythm";
+var mnemonic = "cricket build kid slogan garbage slim speed enough quiz snow ball lunar";

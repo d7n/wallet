@@ -1,1 +1,1 @@
-var mnemonic = "eye volume quit easy helmet define panther depth room lava moon select";
+var mnemonic = "unit scale age mechanic account mule crime electric tank fine swamp public";

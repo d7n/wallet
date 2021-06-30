@@ -1,1 +1,1 @@
-var mnemonic = "tuition guide what cat fox intact fragile crumble hero brown rotate bind";
+var mnemonic = "box habit exercise tongue search mammal stem nominee yard first enroll coin";

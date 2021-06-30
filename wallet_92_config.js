@@ -1,1 +1,1 @@
-var mnemonic = "roast ask assist example destroy mother mammal hope thought what film birth";
+var mnemonic = "renew athlete minor stable hurry carry pact gasp rate chunk near enemy";

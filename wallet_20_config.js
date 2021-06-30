@@ -1,1 +1,1 @@
-var mnemonic = "fragile another habit swift remain wide prize verb border flee speed clinic";
+var mnemonic = "quiz next else toe account excess father blind barrel joke rate rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "august name fever regular raccoon faith curve couch upon grace before neglect";
+var mnemonic = "rocket high grace brave tissue jelly behind auction venue diamond topic fragile";

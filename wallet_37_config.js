@@ -1,1 +1,1 @@
-var mnemonic = "two siege room deny beauty oak limb until orbit spin flavor century";
+var mnemonic = "picnic asset usage media crowd wall error fever response rapid feel glass";

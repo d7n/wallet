@@ -1,1 +1,1 @@
-var mnemonic = "arm dawn future retire limb acid green inhale surprise layer catalog chicken";
+var mnemonic = "foot goddess beauty noble relax glue zoo draft staff chief dawn pig";

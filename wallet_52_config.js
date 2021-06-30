@@ -1,1 +1,1 @@
-var mnemonic = "duck rely garage clever toast during reduce sound utility long rude divert";
+var mnemonic = "author deal pass gesture proof giraffe bamboo recall acquire segment initial buddy";

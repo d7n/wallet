@@ -1,1 +1,1 @@
-var mnemonic = "dose ecology shock abstract you habit silver bonus task baby scheme piece";
+var mnemonic = "net mother space amused scare emerge sell donate crystal unhappy bring earth";

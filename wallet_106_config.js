@@ -1,1 +1,1 @@
-var mnemonic = "senior industry view shove minor brush swim major funny already write hurry";
+var mnemonic = "bind toy ghost live funny squirrel manage depth walk jump visual sunny";

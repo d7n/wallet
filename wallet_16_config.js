@@ -1,1 +1,1 @@
-var mnemonic = "lyrics now include sun end unable jump arrow aware page false equal";
+var mnemonic = "annual flavor caught weekend grain same bundle spawn arrange sign settle gun";

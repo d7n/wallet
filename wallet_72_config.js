@@ -1,1 +1,1 @@
-var mnemonic = "arrow march suit eye waste affair speak shed narrow cereal burger board";
+var mnemonic = "attend fun faint trophy muffin decline butter tooth original metal erupt elbow";

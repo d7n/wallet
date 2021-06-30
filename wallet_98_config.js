@@ -1,1 +1,1 @@
-var mnemonic = "mesh feel index then exist jump fiction alter alpha run clinic kid";
+var mnemonic = "donkey wasp buffalo ahead inner wolf cushion license garden champion point deal";

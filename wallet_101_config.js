@@ -1,1 +1,1 @@
-var mnemonic = "slush drift solid wage width minor afraid inspire special sail hurry cargo";
+var mnemonic = "pelican frequent announce almost come surface argue olive step claim canvas ceiling";

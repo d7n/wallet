@@ -1,1 +1,1 @@
-var mnemonic = "kick barrel shallow patch narrow script copper half enough fish crane pool";
+var mnemonic = "point reduce silver note length alpha make peanut diet diagram stick tail";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry loud you parrot trouble digital anxiety summer follow differ gather patch";
+var mnemonic = "alpha betray emerge neither record seed awake tell era above urban message";

@@ -1,1 +1,1 @@
-var mnemonic = "silly dolphin gold taxi size spring cup deer exit recycle fuel tourist";
+var mnemonic = "balance brother shrug silly similar husband focus card half negative unveil castle";

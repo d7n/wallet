@@ -1,1 +1,1 @@
-var mnemonic = "palm huge useful exact arm gadget fashion figure false mix order guard";
+var mnemonic = "jungle wet sting butter frost inquiry habit weather chair patch affair prevent";

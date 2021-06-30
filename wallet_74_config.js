@@ -1,1 +1,1 @@
-var mnemonic = "clerk arrow govern guilt anger decade february kit hamster spend buddy step";
+var mnemonic = "high bracket valley involve dial evoke relax captain slot rabbit lumber lawn";

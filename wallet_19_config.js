@@ -1,1 +1,1 @@
-var mnemonic = "laundry decide vocal scheme gentle gather true trouble universe lottery display frequent";
+var mnemonic = "open common rocket sketch swap ecology when helmet cabbage lion pact bronze";

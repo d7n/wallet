@@ -1,1 +1,1 @@
-var mnemonic = "day leg either fix foot globe canvas divorce claim mountain source jelly";
+var mnemonic = "sight assume traffic beyond cinnamon safe crush grass remain chest step rib";

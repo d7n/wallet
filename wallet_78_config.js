@@ -1,1 +1,1 @@
-var mnemonic = "lottery cover power glory quiz exercise gain gravity junior desk must picnic";
+var mnemonic = "wire fitness pet repeat sock farm inhale party layer wait claim copper";

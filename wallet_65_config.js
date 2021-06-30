@@ -1,1 +1,1 @@
-var mnemonic = "bunker advance same gentle dove base question invite thought alert trust spend";
+var mnemonic = "vessel draw client super update uphold tiger nurse dial twice husband injury";

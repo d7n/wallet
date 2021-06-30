@@ -1,1 +1,1 @@
-var mnemonic = "search dose anchor legend slim absent book borrow turkey scene globe hurdle";
+var mnemonic = "frame plastic angle barely absurd immense year submit list april key because";

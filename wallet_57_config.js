@@ -1,1 +1,1 @@
-var mnemonic = "drop mansion drama rule become salad planet sheriff walk limb craft upon";
+var mnemonic = "wheat grief seven lawn shaft child silly kiss answer young jacket believe";

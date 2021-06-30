@@ -1,1 +1,1 @@
-var mnemonic = "extra winner nose other dust pencil weekend reason grant museum sort group";
+var mnemonic = "ignore inch physical fiber crop direct wonder hamster vessel input urban sign";

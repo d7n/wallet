@@ -1,1 +1,1 @@
-var mnemonic = "plastic chef space debate system casual parade season suffer page treat perfect";
+var mnemonic = "capable chalk language cattle brave effort athlete nothing umbrella cabin armed fiction";

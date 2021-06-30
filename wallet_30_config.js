@@ -1,1 +1,1 @@
-var mnemonic = "hawk chuckle stay fame depth soda catalog depart future grace volume garbage";
+var mnemonic = "inhale merge spider loan marriage another tent penalty ice huge inflict memory";

@@ -1,1 +1,1 @@
-var mnemonic = "knife fox country room february gossip sentence sadness web age december super";
+var mnemonic = "violin leg actress guilt canvas analyst lucky fluid spirit brother increase slot";

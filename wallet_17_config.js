@@ -1,1 +1,1 @@
-var mnemonic = "athlete twenty attract scorpion behind lava system curve fade prosper brave dentist";
+var mnemonic = "goose kitchen subject mansion keep capable snack cover noise visit print knee";

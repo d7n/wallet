@@ -1,1 +1,1 @@
-var mnemonic = "rubber movie inflict soup metal hospital into employ guitar cake panic kind";
+var mnemonic = "glimpse direct fault special rack fiction brand police wash cream match scan";

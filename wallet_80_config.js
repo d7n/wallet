@@ -1,1 +1,1 @@
-var mnemonic = "doll kitchen convince wealth excite gaze argue hat brick shed royal social";
+var mnemonic = "cupboard edge feel approve when track burst gesture odor shield divide horn";

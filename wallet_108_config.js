@@ -1,1 +1,1 @@
-var mnemonic = "tiger neck symbol easily stand armor live argue build size mobile sustain";
+var mnemonic = "cave early bus obvious innocent close meat tunnel apart gentle panel ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "room drum anger seat grocery point kit winner little crash race warfare";
+var mnemonic = "flat split rebuild high island base foster save above peanut oblige lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "panic tree comic adjust more couch welcome heart hand tobacco lion rigid";
+var mnemonic = "above sudden road brown actress hill chair news horror stool struggle emerge";

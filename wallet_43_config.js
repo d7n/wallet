@@ -1,1 +1,1 @@
-var mnemonic = "devote mobile gossip tornado hire climb trigger august wrong people woman school";
+var mnemonic = "film harvest insane subject lizard also ankle vivid top solid oppose sugar";

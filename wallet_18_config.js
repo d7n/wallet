@@ -1,1 +1,1 @@
-var mnemonic = "transfer citizen park captain pencil any budget tourist kiwi above rather veteran";
+var mnemonic = "curve rotate fragile sunny drama spice clock match alpha edge purse doctor";

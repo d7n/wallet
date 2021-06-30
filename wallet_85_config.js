@@ -1,1 +1,1 @@
-var mnemonic = "assume aim dog slogan silver body animal village bargain viable endless weather";
+var mnemonic = "inside crazy wide scrap breeze cross tail aisle trap route provide loop";

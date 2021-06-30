@@ -1,1 +1,1 @@
-var mnemonic = "library immense canvas carpet timber million rural angry prosper short hub uniform";
+var mnemonic = "vessel news club agent glide book trigger model pelican tornado can west";

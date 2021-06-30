@@ -1,1 +1,1 @@
-var mnemonic = "eight talk muscle track network end genuine boat abandon unknown topple artwork";
+var mnemonic = "shift couple tornado across organ gospel miracle helmet inner render speak cream";

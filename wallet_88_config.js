@@ -1,1 +1,1 @@
-var mnemonic = "judge census shadow october rough tobacco candy ski gas tide fashion suggest";
+var mnemonic = "case beyond broken sport north occur chase symbol marble song zebra super";

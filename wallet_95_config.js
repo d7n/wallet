@@ -1,1 +1,1 @@
-var mnemonic = "version arctic fruit indoor guess nice payment tennis kitten penalty ancient level";
+var mnemonic = "bless fall rug liar banana broken ability time high tuna adapt drift";

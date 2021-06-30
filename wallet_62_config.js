@@ -1,1 +1,1 @@
-var mnemonic = "fire fine magnet obtain either fold mutual sausage demand shadow spike stone";
+var mnemonic = "economy hazard bus try mercy discover invest used usage ride feature parrot";

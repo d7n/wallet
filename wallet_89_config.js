@@ -1,1 +1,1 @@
-var mnemonic = "park industry choose poverty tunnel case absent erode reopen dash attack saddle";
+var mnemonic = "dust ticket vendor wheel remember tiny doctor answer cover bubble wall garage";

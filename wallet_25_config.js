@@ -1,1 +1,1 @@
-var mnemonic = "lunar crater rubber weasel sell write absurd route mom pride knife exchange";
+var mnemonic = "people hurry divide topple tooth erase off make rare borrow canvas favorite";

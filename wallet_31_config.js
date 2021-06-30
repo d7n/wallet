@@ -1,1 +1,1 @@
-var mnemonic = "river settle walnut scare ritual result secret ski burden salute huge list";
+var mnemonic = "sure enlist moon false own winter bargain muscle dream hair melt hat";

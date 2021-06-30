@@ -1,1 +1,1 @@
-var mnemonic = "just digital social fiction release file try ribbon simple knife worry canal";
+var mnemonic = "wall wine apple grain setup tongue monkey exotic sleep joy nurse believe";
