@@ -1,1 +1,1 @@
-var mnemonic = "crime skin country deny hint tell gorilla child oak inspire pave large";
+var mnemonic = "tree praise basic stone sound choice remind car joke benefit budget humor";

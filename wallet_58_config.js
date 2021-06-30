@@ -1,1 +1,1 @@
-var mnemonic = "traffic lecture stage swallow congress record path depend run lumber dirt sheriff";
+var mnemonic = "paper penalty worry remove domain argue denial taste involve nose riot twin";

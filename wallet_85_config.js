@@ -1,1 +1,1 @@
-var mnemonic = "desk try hair ocean assume brother install sniff begin impulse dial strategy";
+var mnemonic = "similar truth trade elite often autumn guilt gallery cruise panther base dove";

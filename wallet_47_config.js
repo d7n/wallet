@@ -1,1 +1,1 @@
-var mnemonic = "gloom assist anger clock horror happy close boil latin shrug soft grant";
+var mnemonic = "photo left coconut huge alien shrimp climb mystery absurd eager dwarf there";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn slab once census penalty prize erupt tree hollow ordinary squeeze coconut";
+var mnemonic = "unique grid purchase judge injury glow powder arena pudding issue assist escape";

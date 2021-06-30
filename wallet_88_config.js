@@ -1,1 +1,1 @@
-var mnemonic = "blur lizard burden chicken artist monster boil album party equal rookie lucky";
+var mnemonic = "indicate tell yellow taste wear notice flip strategy enforce about deer coconut";

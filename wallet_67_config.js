@@ -1,1 +1,1 @@
-var mnemonic = "daring sibling bundle grab wise hundred choose december snow hello mosquito type";
+var mnemonic = "clean profit flight pride phrase tip resemble nothing blood away adult afford";

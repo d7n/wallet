@@ -1,1 +1,1 @@
-var mnemonic = "wrap tongue erosion kick fault leaf sad day glue vendor affair glad";
+var mnemonic = "burden health mule grace assault tell morning join zone trust matrix layer";

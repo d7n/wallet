@@ -1,1 +1,1 @@
-var mnemonic = "quantum impose deliver brave drive diet trash flip ticket enable win lemon";
+var mnemonic = "brand planet loud replace galaxy dust success slice liar wash knock move";

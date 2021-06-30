@@ -1,1 +1,1 @@
-var mnemonic = "garlic favorite sight cup best stand voyage bargain tornado target teach render";
+var mnemonic = "critic flip borrow dynamic area bone burger express venue change narrow flavor";

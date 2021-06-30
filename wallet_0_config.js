@@ -1,1 +1,1 @@
-var mnemonic = "way cricket collect sleep weird insane pelican card guard trial addict soldier";
+var mnemonic = "upon earn lucky neutral another before laptop snack fire pilot cost black";

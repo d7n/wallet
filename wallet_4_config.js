@@ -1,1 +1,1 @@
-var mnemonic = "escape panel alpha timber phrase miracle fiction rubber faith stuff dog quality";
+var mnemonic = "achieve broccoli crush icon chalk junk citizen kiwi oblige mobile taste runway";

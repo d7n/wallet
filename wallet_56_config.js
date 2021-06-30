@@ -1,1 +1,1 @@
-var mnemonic = "hat warm slow lawn attract mechanic drill fantasy whale fiber seek evidence";
+var mnemonic = "document tissue recycle sea camp flee depend together iron young lumber tube";

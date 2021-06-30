@@ -1,1 +1,1 @@
-var mnemonic = "nasty crop pink bicycle electric arrange spider start whisper slush swim faith";
+var mnemonic = "city slender dial remember damp slight theme announce risk scale illness resource";

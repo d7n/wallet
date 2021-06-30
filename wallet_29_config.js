@@ -1,1 +1,1 @@
-var mnemonic = "paper already dice honey primary hedgehog baby rack top elite high oppose";
+var mnemonic = "trip then cousin labor trust enter capital dutch robot siren alone crush";

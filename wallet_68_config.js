@@ -1,1 +1,1 @@
-var mnemonic = "laugh place rotate child oblige indoor when apple fortune real universe host";
+var mnemonic = "kite cradle eyebrow milk power profit stool blue oval ball else air";

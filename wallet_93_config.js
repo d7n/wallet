@@ -1,1 +1,1 @@
-var mnemonic = "deer duck open food desk spice atom true tide injury leave present";
+var mnemonic = "equip abuse very loan crouch false rule retreat great level crater bracket";

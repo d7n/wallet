@@ -1,1 +1,1 @@
-var mnemonic = "tattoo salute great memory immune shiver sausage clutch walnut casual census timber";
+var mnemonic = "emerge staff curtain vocal surface hub pelican divert blossom hurdle corn pupil";

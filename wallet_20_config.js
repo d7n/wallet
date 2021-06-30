@@ -1,1 +1,1 @@
-var mnemonic = "plug build cliff scare forward maximum easy indicate air excuse february address";
+var mnemonic = "project solar language ignore confirm visual label judge forest must stadium diamond";

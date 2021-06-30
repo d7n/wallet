@@ -1,1 +1,1 @@
-var mnemonic = "mimic crawl wire grit crane annual sudden digital deliver never include venture";
+var mnemonic = "pulse tuna almost spirit boy erosion believe husband east loyal man erupt";

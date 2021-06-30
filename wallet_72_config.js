@@ -1,1 +1,1 @@
-var mnemonic = "velvet actress miss snap void toddler skirt burger polar response negative property";
+var mnemonic = "suit present service strike aware cheap faith dignity flame fine claw denial";

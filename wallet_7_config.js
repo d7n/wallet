@@ -1,1 +1,1 @@
-var mnemonic = "evoke shallow kangaroo critic sudden tip ship judge suggest swallow banner organ";
+var mnemonic = "aware mystery stairs mobile guard tray double excess same visit model alpha";

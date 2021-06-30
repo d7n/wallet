@@ -1,1 +1,1 @@
-var mnemonic = "warm design circle brave shove custom input struggle lift message diesel purpose";
+var mnemonic = "awake joy welcome climb tenant online final surge river walk envelope problem";

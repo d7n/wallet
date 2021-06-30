@@ -1,1 +1,1 @@
-var mnemonic = "noise assume notable virus novel limit scissors hair flower autumn sketch bargain";
+var mnemonic = "slot inhale beyond lift champion trade resist naive winter remind oxygen april";

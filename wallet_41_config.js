@@ -1,1 +1,1 @@
-var mnemonic = "project grace boy aisle field echo suffer marine eager cheap noble diagram";
+var mnemonic = "crumble bag couch act monkey gate fashion sunny middle drill setup element";

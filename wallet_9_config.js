@@ -1,1 +1,1 @@
-var mnemonic = "alone piano tower direct almost biology today razor food forum disorder swift";
+var mnemonic = "cram rate effort tribe very blame leopard rebel silk decide miracle bacon";

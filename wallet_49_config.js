@@ -1,1 +1,1 @@
-var mnemonic = "black talk since wealth barrel rule private expand note catch special egg";
+var mnemonic = "refuse ceiling myth mechanic exact baby clap awful play explain few drastic";

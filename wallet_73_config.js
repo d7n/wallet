@@ -1,1 +1,1 @@
-var mnemonic = "stuff wing purchase bleak medal sponsor tide post bomb degree riot exit";
+var mnemonic = "cruise come web snow thunder beef skill struggle since wedding nominee task";

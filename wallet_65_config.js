@@ -1,1 +1,1 @@
-var mnemonic = "number electric desk confirm cash energy vocal piano female actual vicious stock";
+var mnemonic = "ginger matrix sample interest school insane arch car attend brain move humble";

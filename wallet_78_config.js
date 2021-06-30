@@ -1,1 +1,1 @@
-var mnemonic = "excuse gate idea purse comic fan slow suit vicious tuna smooth volume";
+var mnemonic = "behave leopard nation mosquito owner give doctor crowd weapon kind citizen talk";

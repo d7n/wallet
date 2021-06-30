@@ -1,1 +1,1 @@
-var mnemonic = "chalk anger simple usual picnic slab lunar comfort portion napkin piano elite";
+var mnemonic = "possible winner address inmate inject dove pig tumble chat year mystery squeeze";

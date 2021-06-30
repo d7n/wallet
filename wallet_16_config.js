@@ -1,1 +1,1 @@
-var mnemonic = "brown opera manage ten acid obvious argue catalog erosion wave various famous";
+var mnemonic = "organ lottery jump sibling promote vital cupboard pull nurse kiss sound wood";

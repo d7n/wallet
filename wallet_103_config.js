@@ -1,1 +1,1 @@
-var mnemonic = "whisper nature motor concert tube vehicle warfare spike dinosaur choice pond hurry";
+var mnemonic = "unique decade combine flush slam stock tiger struggle tragic mass ugly manage";

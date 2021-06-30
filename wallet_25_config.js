@@ -1,1 +1,1 @@
-var mnemonic = "doctor laundry blame spell labor energy leisure print people swap october delay";
+var mnemonic = "reason inside rely work oxygen odor voyage document viable web index runway";

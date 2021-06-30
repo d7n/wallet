@@ -1,1 +1,1 @@
-var mnemonic = "network dice damage input album ask crowd else pipe drive blast maze";
+var mnemonic = "increase husband radar pipe quarter sting promote fortune army cotton extra gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "play project page zoo method drink easily trade belt erase report harsh";
+var mnemonic = "school thunder goose mention tail sustain attack glare recipe rural feature chapter";

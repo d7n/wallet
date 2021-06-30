@@ -1,1 +1,1 @@
-var mnemonic = "record legal buddy decline bench neutral odor quantum mammal unhappy very submit";
+var mnemonic = "use elegant setup giant boil travel undo hover spoil laptop palace kangaroo";

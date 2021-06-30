@@ -1,1 +1,1 @@
-var mnemonic = "agree worry source fresh force review whisper trick elder sweet wreck chimney";
+var mnemonic = "know century inmate veteran deputy dismiss topple chef toe cable before abuse";

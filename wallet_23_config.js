@@ -1,1 +1,1 @@
-var mnemonic = "company basic grape sauce inquiry magnet squirrel surge mention labor lottery stamp";
+var mnemonic = "grape cart stomach east buddy tissue hill reduce coin disagree soap crime";

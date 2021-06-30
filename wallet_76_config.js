@@ -1,1 +1,1 @@
-var mnemonic = "force ritual decline ride fashion midnight cream flee enforce juice actress energy";
+var mnemonic = "silk measure join damp shop grant vast ceiling inspire tissue never develop";

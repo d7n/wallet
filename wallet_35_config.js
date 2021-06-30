@@ -1,1 +1,1 @@
-var mnemonic = "keep silent earth kiss fortune drip silent place index embrace idle alarm";
+var mnemonic = "rain over close track repair under silent educate replace cliff weapon focus";

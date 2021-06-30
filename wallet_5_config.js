@@ -1,1 +1,1 @@
-var mnemonic = "tiger crack hobby shift wear wealth enhance hire dinner adapt wolf motion";
+var mnemonic = "cheap chief subject pledge help polar script rice rate manage cement write";

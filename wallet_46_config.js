@@ -1,1 +1,1 @@
-var mnemonic = "someone ostrich general code crazy hawk mixed taxi media file guilt ignore";
+var mnemonic = "stock domain winner mixed stone carbon wonder ready flip artist glue curve";

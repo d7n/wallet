@@ -1,1 +1,1 @@
-var mnemonic = "smooth cannon penalty faith hood citizen ripple banner feature erupt pony obtain";
+var mnemonic = "right jeans shift dragon energy unique lens dentist monster hold device left";

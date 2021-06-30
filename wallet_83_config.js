@@ -1,1 +1,1 @@
-var mnemonic = "hover pelican tent decorate feed current margin lab nasty bright caution evil";
+var mnemonic = "seek shift monkey breeze resemble grunt squirrel auction relax distance margin doctor";

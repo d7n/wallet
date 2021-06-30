@@ -1,1 +1,1 @@
-var mnemonic = "jazz reward census emotion loop bottom machine blue bread wrap brother check";
+var mnemonic = "route able patch gorilla frame allow parade such swallow sport left rally";

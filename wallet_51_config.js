@@ -1,1 +1,1 @@
-var mnemonic = "away eager true apple suggest version mandate pave staff method face brisk";
+var mnemonic = "hockey flee beef taste photo walk merge illegal curious corn course october";

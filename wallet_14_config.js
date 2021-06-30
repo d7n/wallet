@@ -1,1 +1,1 @@
-var mnemonic = "foil demand patch primary cage clarify random vocal idle lumber float digital";
+var mnemonic = "label witness daring sister eye onion spring inch afford resource erosion south";

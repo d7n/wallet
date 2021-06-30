@@ -1,1 +1,1 @@
-var mnemonic = "possible book script absorb gaze genuine scissors tray notice enact kidney remind";
+var mnemonic = "diagram agree woman suggest kit edge gesture snake enact kind stick toss";

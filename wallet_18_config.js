@@ -1,1 +1,1 @@
-var mnemonic = "keen jealous boss truly pulp sweet bone wave clump stool vessel upper";
+var mnemonic = "movie lottery august public anchor weasel myth valley web file easy loyal";

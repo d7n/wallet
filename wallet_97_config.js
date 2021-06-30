@@ -1,1 +1,1 @@
-var mnemonic = "skirt love check dance helmet volume iron muffin improve decrease speak clerk";
+var mnemonic = "essay broken charge make vanish abandon page clown fall ribbon bind tomorrow";

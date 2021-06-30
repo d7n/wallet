@@ -1,1 +1,1 @@
-var mnemonic = "liberty machine office mansion beyond height rose gauge ceiling enjoy shiver casual";
+var mnemonic = "peasant search spoon cattle bless hungry dutch curtain step also cake error";

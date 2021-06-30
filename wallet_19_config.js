@@ -1,1 +1,1 @@
-var mnemonic = "inhale pen tiger pottery speak cloth pact once seven tuition label paper";
+var mnemonic = "paper talk subway develop chicken foot advice laundry minute kid price rate";

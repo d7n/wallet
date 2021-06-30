@@ -1,1 +1,1 @@
-var mnemonic = "affair begin manual distance jungle decrease noise absent congress galaxy elbow hamster";
+var mnemonic = "shoulder slot nice west tornado gain method begin turn obscure believe timber";

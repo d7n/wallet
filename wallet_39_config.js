@@ -1,1 +1,1 @@
-var mnemonic = "athlete arrest forest short ginger census update bar pond clutch light answer";
+var mnemonic = "frog city shallow cage butter weasel crouch permit minimum girl faith print";

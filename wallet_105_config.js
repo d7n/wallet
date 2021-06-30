@@ -1,1 +1,1 @@
-var mnemonic = "mail almost dinner utility october segment call spoil desert also chronic crazy";
+var mnemonic = "actor outside cover october fault cruel evoke tragic cabin broom group review";

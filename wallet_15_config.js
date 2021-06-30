@@ -1,1 +1,1 @@
-var mnemonic = "deliver rhythm craft electric unlock clap artefact patrol merge family improve waste";
+var mnemonic = "inmate still silver chef bus bonus power certain slice tuition movie fit";

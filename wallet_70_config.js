@@ -1,1 +1,1 @@
-var mnemonic = "glow dutch plunge neglect artwork bean jar flip vote sea change desert";
+var mnemonic = "direct you often shy match club near raise credit robot egg nuclear";

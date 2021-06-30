@@ -1,1 +1,1 @@
-var mnemonic = "keen crime outer divide message cotton fat lizard snap glad parade tobacco";
+var mnemonic = "glove tortoise crater rebel dizzy lens fine exit grace admit forum shop";

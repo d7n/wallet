@@ -1,1 +1,1 @@
-var mnemonic = "cargo soldier maximum pig wet stick hurry velvet aim vague frequent aim";
+var mnemonic = "lazy enlist offer purpose amused loyal bulk olympic world network forest pear";

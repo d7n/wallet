@@ -1,1 +1,1 @@
-var mnemonic = "taste desk fly issue helmet print fiscal purchase benefit glory luxury always";
+var mnemonic = "vacuum round ankle found tuna outer ship margin material absent transfer smile";

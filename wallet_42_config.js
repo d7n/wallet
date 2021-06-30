@@ -1,1 +1,1 @@
-var mnemonic = "brother enrich vacant diet suit mad town laundry talent choice firm remind";
+var mnemonic = "hover orphan half employ rocket road elegant web horror wire lawsuit hotel";

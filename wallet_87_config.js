@@ -1,1 +1,1 @@
-var mnemonic = "track blast hello hazard drastic panda inmate absurd egg athlete vessel demand";
+var mnemonic = "cricket income circle tired original click piano mistake pudding camera noise rare";

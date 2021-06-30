@@ -1,1 +1,1 @@
-var mnemonic = "crystal door impact use palm crater destroy message ritual list unlock quick";
+var mnemonic = "dad apology hunt print eagle twenty legend report example breeze tilt ticket";

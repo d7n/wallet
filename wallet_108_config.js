@@ -1,1 +1,1 @@
-var mnemonic = "double any match lend always uncle extra mammal mail cereal music torch";
+var mnemonic = "glass culture jewel have core spring brand marine mushroom fat wood virus";

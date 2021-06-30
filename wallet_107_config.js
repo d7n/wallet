@@ -1,1 +1,1 @@
-var mnemonic = "grow until silent glow hip gallery blood salad inhale account mosquito pelican";
+var mnemonic = "night explain finger cloud layer bitter forum real subway pilot task bike";

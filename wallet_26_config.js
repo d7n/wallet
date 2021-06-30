@@ -1,1 +1,1 @@
-var mnemonic = "worry enhance short execute field chapter island hat cabin morning exhaust lift";
+var mnemonic = "cricket breeze machine tape various ill walnut actor crack decline nose chef";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe crazy vital document settle monster escape idle chuckle visit sphere scatter";
+var mnemonic = "embrace bridge lecture million method exact nation phone next food just loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey country dwarf shiver quarter can keep demand able crawl machine now";
+var mnemonic = "aerobic brick jacket empty fetch maid wedding earn acid imitate magnet ketchup";

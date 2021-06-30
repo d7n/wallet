@@ -1,1 +1,1 @@
-var mnemonic = "mass romance piece vibrant poverty device discover heavy coast display coyote early";
+var mnemonic = "example soda claim damp poem expose fine slam own dinner party modify";

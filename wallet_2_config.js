@@ -1,1 +1,1 @@
-var mnemonic = "pink high faculty hamster sing during hat mansion wrong income burger tree";
+var mnemonic = "robust lemon case make silent laugh save merry shock patch butter east";

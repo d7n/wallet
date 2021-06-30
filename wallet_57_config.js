@@ -1,1 +1,1 @@
-var mnemonic = "iron basic grunt shield parade case blood cycle shallow neutral chunk consider";
+var mnemonic = "erase decide shaft truth lend alone early found jeans window casual crowd";

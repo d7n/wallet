@@ -1,1 +1,1 @@
-var mnemonic = "actress oil transfer type brush jacket entry member blur flock vivid improve";
+var mnemonic = "wisdom grid struggle essay earn nominee work panther yard arrest steel mom";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant oval rapid spell network suggest control situate unveil verb trouble cliff";
+var mnemonic = "payment render base filter fame mobile indoor affair foster ski renew cram";

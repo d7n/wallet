@@ -1,1 +1,1 @@
-var mnemonic = "you bone arrow pact auction devote harvest robust canyon okay have tuna";
+var mnemonic = "syrup throw flash kitten dawn conduct robust ski donate edge canvas cube";

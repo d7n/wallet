@@ -1,1 +1,1 @@
-var mnemonic = "swarm ranch genuine knife armed public tone despair novel nuclear gentle muscle";
+var mnemonic = "earth blame uphold reward advance cash squirrel imitate impact neutral club ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent true symptom bounce manage tunnel cruise obey island bundle north someone";
+var mnemonic = "exotic release civil trim derive script mask hollow bread fiction pluck vague";

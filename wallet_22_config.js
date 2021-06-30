@@ -1,1 +1,1 @@
-var mnemonic = "element drill zone impulse assist heart stamp shallow chimney thank flush adjust";
+var mnemonic = "assault great ask spy square crazy venture offer gloom disease apology soccer";

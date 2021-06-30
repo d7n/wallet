@@ -1,1 +1,1 @@
-var mnemonic = "announce crush material must pudding game caught juice glass bounce behave fatigue";
+var mnemonic = "arrange uniform medal hire shoe jungle remove treat slender intact pipe network";

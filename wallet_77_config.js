@@ -1,1 +1,1 @@
-var mnemonic = "buffalo coffee bitter gorilla pizza run dice magic word rough grit explain";
+var mnemonic = "actress lesson human title awful scene code lend follow expire gas move";

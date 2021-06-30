@@ -1,1 +1,1 @@
-var mnemonic = "beauty expose door inherit hybrid cheese avocado keep make violin road return";
+var mnemonic = "prevent metal donor scare whisper pool youth soda jar fossil apology asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery way like lesson economy abandon else industry long crumble only energy";
+var mnemonic = "shield original document legal route foster message stone clerk enable patient hold";

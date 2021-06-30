@@ -1,1 +1,1 @@
-var mnemonic = "rail gloom all crunch icon tobacco exclude theory blur gravity normal repeat";
+var mnemonic = "come brave laugh region wealth enjoy object mad security stomach worth vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "meat visual you miracle milk december enough lock educate update top proud";
+var mnemonic = "tide camp avoid secret chuckle voice move eternal gospel attitude fossil oil";

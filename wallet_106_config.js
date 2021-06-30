@@ -1,1 +1,1 @@
-var mnemonic = "rally library lawsuit adult boy fine leg trust finish meat token tornado";
+var mnemonic = "faculty vote alien convince current rural nature magnet absorb theme empower tray";

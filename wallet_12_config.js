@@ -1,1 +1,1 @@
-var mnemonic = "pyramid middle gather jungle peasant race lizard danger firm century forest detail";
+var mnemonic = "scatter glide right lake fix hazard polar tooth carry raccoon hello security";
