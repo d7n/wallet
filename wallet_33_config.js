@@ -1,1 +1,1 @@
-var mnemonic = "young move maze apart camp chronic color actor physical quality state control";
+var mnemonic = "yellow search absorb skate cook expect fantasy benefit nurse unaware laptop special";

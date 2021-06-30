@@ -1,1 +1,1 @@
-var mnemonic = "custom off bleak beyond enforce acquire convince across violin desert egg pupil";
+var mnemonic = "ritual heart upper remain report lava patrol tenant multiply program brand enter";

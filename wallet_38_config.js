@@ -1,1 +1,1 @@
-var mnemonic = "beauty recipe fragile witness physical rotate mystery glory surge nature figure curve";
+var mnemonic = "laugh huge abstract list need frame month move puzzle marble august lock";

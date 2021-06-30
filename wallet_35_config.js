@@ -1,1 +1,1 @@
-var mnemonic = "box habit exercise tongue search mammal stem nominee yard first enroll coin";
+var mnemonic = "monitor base school gas unlock almost ozone goose company urban tackle grape";

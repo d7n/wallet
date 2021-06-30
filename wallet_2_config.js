@@ -1,1 +1,1 @@
-var mnemonic = "system dose supply pizza inject regular hair unknown fatigue infant venture spray";
+var mnemonic = "entry decrease inject loop august expand gravity reward remove drive object such";

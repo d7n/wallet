@@ -1,1 +1,1 @@
-var mnemonic = "cereal gossip clip later cycle notable wire jewel civil quit six hour";
+var mnemonic = "purse elevator clerk forest tiger steel pill merge estate canvas common version";

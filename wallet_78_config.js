@@ -1,1 +1,1 @@
-var mnemonic = "wire fitness pet repeat sock farm inhale party layer wait claim copper";
+var mnemonic = "sheriff equip rotate later bring tomorrow primary elegant ivory neck armed garbage";

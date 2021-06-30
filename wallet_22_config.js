@@ -1,1 +1,1 @@
-var mnemonic = "tent twenty start top ethics glass online spend idea lecture desk orchard";
+var mnemonic = "outdoor spend mimic swallow cushion segment salad chief wrestle gown mix ring";

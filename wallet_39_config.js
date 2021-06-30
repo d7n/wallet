@@ -1,1 +1,1 @@
-var mnemonic = "gasp motor april salute apology swift coral use saddle gather rabbit awake";
+var mnemonic = "cushion green reason turtle stove start sniff correct throw foil valley practice";

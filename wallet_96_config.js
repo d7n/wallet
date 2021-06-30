@@ -1,1 +1,1 @@
-var mnemonic = "example east spirit brief purity anchor submit west trust foot black salute";
+var mnemonic = "spring gentle asset joy piece survey fine pizza notable boy piece aisle";

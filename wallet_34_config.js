@@ -1,1 +1,1 @@
-var mnemonic = "net mother space amused scare emerge sell donate crystal unhappy bring earth";
+var mnemonic = "vicious snap broken clap process sauce wing helmet bring kitchen boss corn";

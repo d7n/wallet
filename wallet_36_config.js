@@ -1,1 +1,1 @@
-var mnemonic = "pond impose mesh black invest adapt rigid wreck radio magnet thank just";
+var mnemonic = "wash solution cattle column undo cotton front always retreat success asthma tank";

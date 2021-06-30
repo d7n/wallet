@@ -1,1 +1,1 @@
-var mnemonic = "case beyond broken sport north occur chase symbol marble song zebra super";
+var mnemonic = "slam since trash bottom lawsuit north forest proof broom category middle zone";

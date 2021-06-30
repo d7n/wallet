@@ -1,1 +1,1 @@
-var mnemonic = "balance brother shrug silly similar husband focus card half negative unveil castle";
+var mnemonic = "sponsor rotate people during quantum tonight identify post toddler neglect weekend dog";

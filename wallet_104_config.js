@@ -1,1 +1,1 @@
-var mnemonic = "trust gather choice frost lonely winner birth spirit mango motor copper income";
+var mnemonic = "draft culture decade question wife fish nose luggage crazy riot artist depart";

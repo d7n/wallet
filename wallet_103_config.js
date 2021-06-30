@@ -1,1 +1,1 @@
-var mnemonic = "march scale palace tired split pass push hammer radio fabric bird fantasy";
+var mnemonic = "drop start force impact museum country faith seed dress guard slow skull";

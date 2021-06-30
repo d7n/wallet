@@ -1,1 +1,1 @@
-var mnemonic = "reason enjoy under token bone badge quantum bird injury muffin cheap nice";
+var mnemonic = "radio holiday raw token unaware wrong mansion admit sword trade grape stay";

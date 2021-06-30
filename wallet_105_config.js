@@ -1,1 +1,1 @@
-var mnemonic = "jungle wet sting butter frost inquiry habit weather chair patch affair prevent";
+var mnemonic = "wasp flight main nut brand icon resource stage exhibit grow dream across";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet burger creek shaft type ring shrimp shine close absent candy drift";
+var mnemonic = "three catalog drama noble music cannon risk bottom valid much swap play";

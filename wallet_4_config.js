@@ -1,1 +1,1 @@
-var mnemonic = "cluster ice frown include word want fiscal what impulse own donate sunny";
+var mnemonic = "ceiling token caught review explain cover another surface volcano melt winner rival";

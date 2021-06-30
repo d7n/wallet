@@ -1,1 +1,1 @@
-var mnemonic = "violin leg actress guilt canvas analyst lucky fluid spirit brother increase slot";
+var mnemonic = "work zebra corn rapid month vibrant depart blouse inner excuse sniff hazard";

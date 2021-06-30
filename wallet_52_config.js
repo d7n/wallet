@@ -1,1 +1,1 @@
-var mnemonic = "author deal pass gesture proof giraffe bamboo recall acquire segment initial buddy";
+var mnemonic = "fever mom polar oxygen brother kitchen fabric glove swear tuition winter meadow";

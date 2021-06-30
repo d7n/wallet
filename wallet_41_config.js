@@ -1,1 +1,1 @@
-var mnemonic = "plug reveal aunt aisle quantum marble demand finish useful figure traffic slam";
+var mnemonic = "visa loud aerobic truck certain renew guitar language scatter sad tree mansion";

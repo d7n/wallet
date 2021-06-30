@@ -1,1 +1,1 @@
-var mnemonic = "sauce wrong account sea obey ivory local dad prison prevent young human";
+var mnemonic = "weasel lottery warfare quarter online donkey glare inject bread casual route age";

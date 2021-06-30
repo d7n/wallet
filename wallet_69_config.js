@@ -1,1 +1,1 @@
-var mnemonic = "index display gown oyster elevator tuition tube autumn scheme lumber eternal paddle";
+var mnemonic = "crew sail coach slot pumpkin anger hard decade antenna chef soda mask";

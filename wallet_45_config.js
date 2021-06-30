@@ -1,1 +1,1 @@
-var mnemonic = "bid movie crop salt path they proof claim volcano punch lottery library";
+var mnemonic = "sport law shoot allow banner layer hybrid kitten region genuine cricket cat";

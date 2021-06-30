@@ -1,1 +1,1 @@
-var mnemonic = "inhale merge spider loan marriage another tent penalty ice huge inflict memory";
+var mnemonic = "color brick risk drip shop bid net snap monster adapt nasty army";

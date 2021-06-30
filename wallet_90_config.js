@@ -1,1 +1,1 @@
-var mnemonic = "glimpse direct fault special rack fiction brand police wash cream match scan";
+var mnemonic = "memory reason fetch nuclear dynamic nuclear steel confirm turn sister theory mind";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel news club agent glide book trigger model pelican tornado can west";
+var mnemonic = "pumpkin lift gold fitness emotion sauce source mule image stuff cram kitten";

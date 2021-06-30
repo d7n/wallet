@@ -1,1 +1,1 @@
-var mnemonic = "quiz next else toe account excess father blind barrel joke rate rifle";
+var mnemonic = "wealth rabbit bottom census benefit fee angry album garage travel stay include";

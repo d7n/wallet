@@ -1,1 +1,1 @@
-var mnemonic = "high trend victory screen pony same term repeat tape ritual basic smoke";
+var mnemonic = "custom valley fitness thank fossil main collect soup between achieve coil crime";

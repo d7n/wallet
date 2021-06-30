@@ -1,1 +1,1 @@
-var mnemonic = "wheat grief seven lawn shaft child silly kiss answer young jacket believe";
+var mnemonic = "trash label oblige view whip flavor music trumpet carbon actor sniff text";

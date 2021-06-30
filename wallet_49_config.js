@@ -1,1 +1,1 @@
-var mnemonic = "check they stadium wheat nut thumb entry flush evil travel track involve";
+var mnemonic = "shadow seven brand analyst ghost segment narrow open perfect velvet champion silent";

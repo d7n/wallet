@@ -1,1 +1,1 @@
-var mnemonic = "deputy axis normal remind parade boost clap height drama march bicycle junior";
+var mnemonic = "question gauge dose club carpet faith oyster wreck curtain term all promote";

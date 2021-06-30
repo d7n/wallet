@@ -1,1 +1,1 @@
-var mnemonic = "accident place peasant stick leisure remain record vote usual deny ensure clerk";
+var mnemonic = "tag jungle thing color cover maze shift trade pizza unknown illness shuffle";

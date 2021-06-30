@@ -1,1 +1,1 @@
-var mnemonic = "furnace alter flock route ritual marble catalog cave injury bonus antique creek";
+var mnemonic = "dish angle siege toss jar wish card bulk tonight account brave pull";

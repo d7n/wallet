@@ -1,1 +1,1 @@
-var mnemonic = "curve rotate fragile sunny drama spice clock match alpha edge purse doctor";
+var mnemonic = "dirt situate similar inspire media defy lawn foster stomach code oxygen fine";

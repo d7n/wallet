@@ -1,1 +1,1 @@
-var mnemonic = "snack ozone fiscal ready library tiny bulk robot firm tattoo carry alpha";
+var mnemonic = "detail festival soap hello frost measure toilet convince best worth order area";

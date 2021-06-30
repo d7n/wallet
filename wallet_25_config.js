@@ -1,1 +1,1 @@
-var mnemonic = "people hurry divide topple tooth erase off make rare borrow canvas favorite";
+var mnemonic = "midnight frown choice sure absent stumble cover either dilemma shock lion force";

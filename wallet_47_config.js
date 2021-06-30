@@ -1,1 +1,1 @@
-var mnemonic = "enter interest cloud bread snack adapt harsh wave glow thunder sport retire";
+var mnemonic = "evil just west goddess donate kid federal globe blossom essay intact great";

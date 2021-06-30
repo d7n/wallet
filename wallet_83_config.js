@@ -1,1 +1,1 @@
-var mnemonic = "crumble globe tomato indoor quantum trial allow peasant jungle funny snap general";
+var mnemonic = "adapt seven sadness type short light destroy equal share they gift favorite";

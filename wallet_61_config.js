@@ -1,1 +1,1 @@
-var mnemonic = "rookie confirm side ice primary exclude clog slim habit illegal item pony";
+var mnemonic = "typical fee drop banana people people unusual frog fiction auto excuse fortune";

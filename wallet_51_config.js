@@ -1,1 +1,1 @@
-var mnemonic = "bid cluster exact hover kangaroo share panther corn pear kiss online music";
+var mnemonic = "bone retire ill object office female scatter glide cabin wine damage sort";

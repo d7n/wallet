@@ -1,1 +1,1 @@
-var mnemonic = "shift couple tornado across organ gospel miracle helmet inner render speak cream";
+var mnemonic = "distance silent umbrella shift gospel dumb rotate actual ranch stem ginger label";

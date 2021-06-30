@@ -1,1 +1,1 @@
-var mnemonic = "attend fun faint trophy muffin decline butter tooth original metal erupt elbow";
+var mnemonic = "humble country include warrior fuel ship true enhance must verb anger quarter";

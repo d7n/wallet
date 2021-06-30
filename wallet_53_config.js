@@ -1,1 +1,1 @@
-var mnemonic = "frost cheap trend mimic again welcome chunk day among gift kite work";
+var mnemonic = "domain trip control elder hen weird fabric machine bamboo evoke onion siege";

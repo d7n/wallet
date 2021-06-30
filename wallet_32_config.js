@@ -1,1 +1,1 @@
-var mnemonic = "inside anger bamboo surge report pond effort arctic patch secret tragic earn";
+var mnemonic = "planet ripple reduce minor much marine danger false turtle mansion kind follow";

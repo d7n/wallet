@@ -1,1 +1,1 @@
-var mnemonic = "vanish recipe issue excite buddy digital spoil vanish wedding nurse best wise";
+var mnemonic = "pond toy coral idle visit deer upgrade mesh hen bar view love";

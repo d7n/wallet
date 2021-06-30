@@ -1,1 +1,1 @@
-var mnemonic = "donkey wasp buffalo ahead inner wolf cushion license garden champion point deal";
+var mnemonic = "stone memory setup above decline avoid invite side catalog onion gather dynamic";

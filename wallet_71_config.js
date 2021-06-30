@@ -1,1 +1,1 @@
-var mnemonic = "above sudden road brown actress hill chair news horror stool struggle emerge";
+var mnemonic = "typical online total spin term account follow amazing age bring minor sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "junior easy sea lazy museum globe suffer trim satisfy oxygen fame apple";
+var mnemonic = "chunk frame place undo absurd equip fold violin multiply swarm story burger";

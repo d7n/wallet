@@ -1,1 +1,1 @@
-var mnemonic = "alarm zero train decrease finish oak decline useless laundry next spike surface";
+var mnemonic = "brief impose damage custom tone monitor midnight brother question south myth leave";

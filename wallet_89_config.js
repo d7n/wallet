@@ -1,1 +1,1 @@
-var mnemonic = "dust ticket vendor wheel remember tiny doctor answer cover bubble wall garage";
+var mnemonic = "speed timber toe disagree arch ring concert knife border crime furnace robot";

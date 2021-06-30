@@ -1,1 +1,1 @@
-var mnemonic = "bless fall rug liar banana broken ability time high tuna adapt drift";
+var mnemonic = "sport scout piano copper coconut shine name ability put language attitude debate";

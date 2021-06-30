@@ -1,1 +1,1 @@
-var mnemonic = "ugly brief chat cry vendor destroy noise tobacco rescue spread middle diary";
+var mnemonic = "warm animal orange survey fun jazz foam round follow maid trash awesome";

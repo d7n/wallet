@@ -1,1 +1,1 @@
-var mnemonic = "volume trick fame decorate novel poet cliff moral action average mobile brass";
+var mnemonic = "morning west surprise above virus mobile derive prepare raw tired motion potato";

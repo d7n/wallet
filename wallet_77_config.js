@@ -1,1 +1,1 @@
-var mnemonic = "frame plastic angle barely absurd immense year submit list april key because";
+var mnemonic = "exotic artwork mask mystery refuse forum scheme pupil magnet try organ describe";

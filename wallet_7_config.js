@@ -1,1 +1,1 @@
-var mnemonic = "budget occur valid usage zone thrive mass border potato mention violin pioneer";
+var mnemonic = "zero sunny coconut now romance pool jaguar genre syrup inject super renew";

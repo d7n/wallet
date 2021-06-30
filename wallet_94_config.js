@@ -1,1 +1,1 @@
-var mnemonic = "where brain neutral idle sudden correct cup cabin roof risk maximum process";
+var mnemonic = "please tooth sweet program foam animal cherry armor broom fiber stool mask";

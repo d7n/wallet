@@ -1,1 +1,1 @@
-var mnemonic = "catalog tenant focus example into gravity olympic shrimp among audit animal judge";
+var mnemonic = "direct fade vote entry embark surround industry lawn puppy physical twenty village";

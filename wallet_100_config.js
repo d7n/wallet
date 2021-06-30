@@ -1,1 +1,1 @@
-var mnemonic = "sight assume traffic beyond cinnamon safe crush grass remain chest step rib";
+var mnemonic = "outdoor rubber pottery reward leg stick suffer token sorry enjoy unaware spell";

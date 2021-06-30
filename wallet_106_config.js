@@ -1,1 +1,1 @@
-var mnemonic = "bind toy ghost live funny squirrel manage depth walk jump visual sunny";
+var mnemonic = "farm lawsuit okay rich cruel fantasy final effort crouch twelve world easy";

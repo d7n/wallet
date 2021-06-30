@@ -1,1 +1,1 @@
-var mnemonic = "trick shield hand scheme approve april lend identify hover alter treat vocal";
+var mnemonic = "boat frame mushroom device impose spike group same fitness follow wall check";

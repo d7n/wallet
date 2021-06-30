@@ -1,1 +1,1 @@
-var mnemonic = "disorder siege fancy assault split million enter burden apology little tuna eyebrow";
+var mnemonic = "begin nature armed fever mule domain token absurd wet odor purity elbow";

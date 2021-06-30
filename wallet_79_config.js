@@ -1,1 +1,1 @@
-var mnemonic = "wall wine apple grain setup tongue monkey exotic sleep joy nurse believe";
+var mnemonic = "lyrics impose discover equip draw remove erase mother they labor smooth shaft";

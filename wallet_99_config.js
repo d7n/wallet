@@ -1,1 +1,1 @@
-var mnemonic = "indicate merit pen bulb ring kid curtain nature pond trumpet pyramid slogan";
+var mnemonic = "public list phrase tired dignity play mean boat adapt strong correct unable";

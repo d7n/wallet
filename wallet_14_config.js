@@ -1,1 +1,1 @@
-var mnemonic = "rocket high grace brave tissue jelly behind auction venue diamond topic fragile";
+var mnemonic = "negative approve slight sad science group tone doll alarm vanish leader grid";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket build kid slogan garbage slim speed enough quiz snow ball lunar";
+var mnemonic = "exact flock combine elbow pink rack awful drill swallow ritual theory service";

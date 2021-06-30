@@ -1,1 +1,1 @@
-var mnemonic = "coffee resemble grape waste oak service orange copper weapon retreat eight ecology";
+var mnemonic = "shuffle lawn among involve square message dice shrimp hover essence scheme armor";

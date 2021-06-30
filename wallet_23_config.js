@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog sister reward mammal income rally orchard pulp ladder tip saddle note";
+var mnemonic = "aisle hip trust daring october ski flight sausage attack dwarf alley degree";

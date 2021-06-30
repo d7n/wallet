@@ -1,1 +1,1 @@
-var mnemonic = "foot goddess beauty noble relax glue zoo draft staff chief dawn pig";
+var mnemonic = "shove come foster wisdom young rib involve dream deal dignity knee myself";

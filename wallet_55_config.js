@@ -1,1 +1,1 @@
-var mnemonic = "flat split rebuild high island base foster save above peanut oblige lesson";
+var mnemonic = "cause enlist gossip squirrel negative raise rib credit smoke comic acquire bounce";

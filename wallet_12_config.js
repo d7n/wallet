@@ -1,1 +1,1 @@
-var mnemonic = "shop elder slice drill already hundred order clay wet satisfy kick drum";
+var mnemonic = "work hope step decade share fiber net blast valid buffalo mushroom wire";

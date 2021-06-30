@@ -1,1 +1,1 @@
-var mnemonic = "suit bounce image husband party dutch brick blind ancient include around rigid";
+var mnemonic = "sun spread elephant logic model rescue umbrella prevent adjust gaze toe matrix";

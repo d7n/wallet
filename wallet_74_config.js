@@ -1,1 +1,1 @@
-var mnemonic = "high bracket valley involve dial evoke relax captain slot rabbit lumber lawn";
+var mnemonic = "scale rather february spot vivid lumber moon corn tomato scatter nuclear glow";

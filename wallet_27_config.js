@@ -1,1 +1,1 @@
-var mnemonic = "increase sister panther trick math siren rapid thrive say razor below chronic";
+var mnemonic = "shuffle anxiety short city possible choose neck sleep possible pass diagram library";

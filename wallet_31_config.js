@@ -1,1 +1,1 @@
-var mnemonic = "sure enlist moon false own winter bargain muscle dream hair melt hat";
+var mnemonic = "honey volume acquire gym pudding short confirm lizard industry okay trend witness";

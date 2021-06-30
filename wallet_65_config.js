@@ -1,1 +1,1 @@
-var mnemonic = "vessel draw client super update uphold tiger nurse dial twice husband injury";
+var mnemonic = "solution moral beef same renew space lunar sort wise seven fruit identify";

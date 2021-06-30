@@ -1,1 +1,1 @@
-var mnemonic = "laptop unit skin odor special sea prosper keep fatigue train cost bachelor";
+var mnemonic = "churn cherry grain grow comfort excuse cage desk shield make combine lion";

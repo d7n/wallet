@@ -1,1 +1,1 @@
-var mnemonic = "capable chalk language cattle brave effort athlete nothing umbrella cabin armed fiction";
+var mnemonic = "siren cradle picnic deposit wreck mosquito entry grass comfort front apart during";

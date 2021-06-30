@@ -1,1 +1,1 @@
-var mnemonic = "point reduce silver note length alpha make peanut diet diagram stick tail";
+var mnemonic = "icon club olympic verb feed village canal lawsuit unaware range museum degree";

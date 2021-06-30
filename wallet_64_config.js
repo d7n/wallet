@@ -1,1 +1,1 @@
-var mnemonic = "symbol olympic man pottery couch grain cover general spoil check catalog peasant";
+var mnemonic = "brief crane junk project cost lesson chicken beyond gospel transfer chat spring";

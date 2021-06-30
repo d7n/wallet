@@ -1,1 +1,1 @@
-var mnemonic = "picnic asset usage media crowd wall error fever response rapid feel glass";
+var mnemonic = "trouble wine parent decide engine choice distance laptop faith object antique island";

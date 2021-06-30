@@ -1,1 +1,1 @@
-var mnemonic = "picnic electric include spray voyage online glass merge solid quarter wagon pink";
+var mnemonic = "dress salute want exact orient load text scene affair swallow exile divide";

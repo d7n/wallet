@@ -1,1 +1,1 @@
-var mnemonic = "sunny color laundry fury mesh casual worry accident dinner choice luggage arrange";
+var mnemonic = "during coyote diamond member arrange problem pond endorse lucky spike tourist clock";
