@@ -1,1 +1,1 @@
-var mnemonic = "glow legend path promote pyramid until kitten inner dawn nasty sweet reward";
+var mnemonic = "topple planet explain uniform way divorce allow hundred essence mad exhaust tired";

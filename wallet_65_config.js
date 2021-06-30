@@ -1,1 +1,1 @@
-var mnemonic = "pig kangaroo material cage tattoo series intact admit box remind harsh embark";
+var mnemonic = "hamster guard cheese measure hollow drop ignore aim error family rib state";

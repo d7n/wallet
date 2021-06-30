@@ -1,1 +1,1 @@
-var mnemonic = "gown venture wood weasel emotion fan surface coffee symbol green voice battle";
+var mnemonic = "speed envelope birth inject payment certain funny cushion saddle call wheel require";

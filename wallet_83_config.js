@@ -1,1 +1,1 @@
-var mnemonic = "robot sniff park melody spot area heart high voice arrive mass stick";
+var mnemonic = "crush prosper foil lens claim abstract typical nominee engine soup brand swap";

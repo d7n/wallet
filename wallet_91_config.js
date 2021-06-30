@@ -1,1 +1,1 @@
-var mnemonic = "ocean program sunny doll output capital bargain manage castle bottom pill oval";
+var mnemonic = "equal obscure mind circle tennis click grace eager differ prize own gap";

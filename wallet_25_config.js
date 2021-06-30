@@ -1,1 +1,1 @@
-var mnemonic = "post slab later hungry cluster snap orphan obvious excuse enhance web option";
+var mnemonic = "million olympic leopard flat better since left few sister slam dirt other";

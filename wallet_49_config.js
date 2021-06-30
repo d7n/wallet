@@ -1,1 +1,1 @@
-var mnemonic = "addict video uncover drink adapt wrestle cruise deer sand master camp give";
+var mnemonic = "depth paddle grab arrive seek ankle install exile flush easily sure session";

@@ -1,1 +1,1 @@
-var mnemonic = "expand host citizen glow crawl host great december frequent book hood woman";
+var mnemonic = "patch twenty furnace symbol afford wave sadness game prepare shaft legal region";

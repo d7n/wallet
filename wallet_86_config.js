@@ -1,1 +1,1 @@
-var mnemonic = "emotion desert merry loop child empower element nerve great sister yard about";
+var mnemonic = "more position rough rent book elevator congress inform fossil tuna dolphin spirit";

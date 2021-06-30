@@ -1,1 +1,1 @@
-var mnemonic = "ancient half mother file assist pudding bring eye royal uncover gym write";
+var mnemonic = "hunt skill lottery satisfy peace express exhibit tragic camera neutral main parent";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum scrub neutral mad token pink offer inject diet apology slam face";
+var mnemonic = "mean layer invite swamp knife make until frozen motion quarter cherry biology";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise raise ripple course good lift liar fury youth trumpet float wrestle";
+var mnemonic = "april cube caught unfair mesh feature gun deposit trumpet gain surround merit";

@@ -1,1 +1,1 @@
-var mnemonic = "claim later dragon extra ostrich hire dinner draw awake harsh hollow display";
+var mnemonic = "stick gentle midnight inquiry bulb silk enlist hamster assume limit chronic fresh";

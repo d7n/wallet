@@ -1,1 +1,1 @@
-var mnemonic = "ability poem talent wheel panther win quarter flock nature swallow service debate";
+var mnemonic = "cluster sound ordinary tape speed journey belt arrange appear must search outer";

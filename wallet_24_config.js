@@ -1,1 +1,1 @@
-var mnemonic = "survey beef wall rocket attend engage cancel update surround pilot auto twelve";
+var mnemonic = "since turn velvet turkey foster sausage razor melt salute false hood affair";

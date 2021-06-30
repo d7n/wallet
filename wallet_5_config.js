@@ -1,1 +1,1 @@
-var mnemonic = "need inside piano win resemble benefit abstract soap lecture salute sight what";
+var mnemonic = "response auction bread cushion breeze click april cattle page tree miss aim";

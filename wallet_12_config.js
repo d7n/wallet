@@ -1,1 +1,1 @@
-var mnemonic = "blind lazy slender utility unlock book used allow valve visit resemble park";
+var mnemonic = "can wealth girl direct borrow wheat young army fatal engine gallery item";

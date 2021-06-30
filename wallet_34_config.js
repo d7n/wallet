@@ -1,1 +1,1 @@
-var mnemonic = "swap dish truck street wrong please science praise spend stable despair actor";
+var mnemonic = "thing place rubber travel orient stem nothing reopen doctor divorce garden enrich";

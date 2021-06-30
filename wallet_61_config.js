@@ -1,1 +1,1 @@
-var mnemonic = "copy pull charge clip brave air portion favorite cotton jungle olive snow";
+var mnemonic = "vocal canoe final question mobile race loyal reveal erosion thing eye swing";

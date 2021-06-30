@@ -1,1 +1,1 @@
-var mnemonic = "appear fault kingdom gloom chair exile strong metal business involve fat risk";
+var mnemonic = "prepare add company crowd brick south quick museum among sight point film";

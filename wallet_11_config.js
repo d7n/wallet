@@ -1,1 +1,1 @@
-var mnemonic = "owner message invest you town snap category sunny video poem hold refuse";
+var mnemonic = "couple rib wool term please soldier helmet sustain kangaroo deliver quality miss";

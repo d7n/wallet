@@ -1,1 +1,1 @@
-var mnemonic = "champion company grid gallery mobile myself since snap tragic say exile apple";
+var mnemonic = "nice elevator broken slow vault usual exit local want mistake truck senior";

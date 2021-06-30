@@ -1,1 +1,1 @@
-var mnemonic = "chase bring bullet trick winner deposit draw board parade allow stay admit";
+var mnemonic = "area grab result cactus body jacket maid rebel planet tail circle shine";

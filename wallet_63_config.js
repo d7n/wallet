@@ -1,1 +1,1 @@
-var mnemonic = "program vendor slender enact finger cat cement bless rule advice element warrior";
+var mnemonic = "smoke party old believe symptom earn panther almost plate print first problem";

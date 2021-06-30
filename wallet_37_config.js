@@ -1,1 +1,1 @@
-var mnemonic = "chest flee gravity save fatal normal couple dragon twenty desk twin guilt";
+var mnemonic = "tomato decorate sad ivory check total nurse pudding energy wreck phrase endorse";

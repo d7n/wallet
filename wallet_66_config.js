@@ -1,1 +1,1 @@
-var mnemonic = "renew holiday neck talk wasp logic online assault weapon all mail whisper";
+var mnemonic = "shield charge mushroom tackle popular better toy universe dice hobby employ regret";

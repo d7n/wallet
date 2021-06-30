@@ -1,1 +1,1 @@
-var mnemonic = "faint mutual wrist goddess token candy swear patrol captain buffalo tooth garbage";
+var mnemonic = "afraid push local clarify catalog erase brief cube moon truly confirm bitter";

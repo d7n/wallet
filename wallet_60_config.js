@@ -1,1 +1,1 @@
-var mnemonic = "bar dilemma toy rent uncover joke ostrich result crane nothing denial hand";
+var mnemonic = "novel plate mammal dial rule twice embody barely silk melt inner matter";

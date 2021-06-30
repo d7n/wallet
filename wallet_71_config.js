@@ -1,1 +1,1 @@
-var mnemonic = "expire predict hover insane achieve trend smooth property expose suspect zone review";
+var mnemonic = "nation music major tobacco puppy civil erode around barely move injury edge";

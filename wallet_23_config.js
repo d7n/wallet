@@ -1,1 +1,1 @@
-var mnemonic = "track time crane smart nest unfold drive upgrade gate ceiling bacon whisper";
+var mnemonic = "neutral rule exhaust easy relax timber giggle fix crash goddess trust relief";

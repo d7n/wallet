@@ -1,1 +1,1 @@
-var mnemonic = "where chicken piece develop flock junk vast soft already gossip planet gift";
+var mnemonic = "siren hill tip spatial worth survey width elevator soul truth mass normal";

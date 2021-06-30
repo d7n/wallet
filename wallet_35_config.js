@@ -1,1 +1,1 @@
-var mnemonic = "october enhance warfare decade team country harvest depend pave dinner argue submit";
+var mnemonic = "favorite pond hour frost grain visit erupt chase humble skin pulse vehicle";

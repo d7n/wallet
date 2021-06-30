@@ -1,1 +1,1 @@
-var mnemonic = "verify planet drive daughter company riot breeze casual saddle amazing melody recycle";
+var mnemonic = "just design install ask mercy pear retreat under meat help divert ticket";

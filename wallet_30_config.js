@@ -1,1 +1,1 @@
-var mnemonic = "meat virtual laundry funny boring coyote kick lazy little tone situate slot";
+var mnemonic = "april doctor bullet obvious school kangaroo face author possible differ innocent raw";

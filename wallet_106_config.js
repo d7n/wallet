@@ -1,1 +1,1 @@
-var mnemonic = "pole casual figure tag rate addict hill message wise fun twin able";
+var mnemonic = "romance trade loop amateur morning tonight run try evil hunt vacuum embody";

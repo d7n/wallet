@@ -1,1 +1,1 @@
-var mnemonic = "two people worry balcony chief fun guilt owner jungle session elbow logic";
+var mnemonic = "shove damage assault cannon true team inmate layer vibrant chapter pitch simple";

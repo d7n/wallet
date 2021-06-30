@@ -1,1 +1,1 @@
-var mnemonic = "speak ramp world name usage travel champion ordinary accident copy apart very";
+var mnemonic = "drastic save fat mango deliver unusual skin auto circle comic mind result";

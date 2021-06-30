@@ -1,1 +1,1 @@
-var mnemonic = "cherry kit upgrade flash attract across toy shoulder behind palm sun episode";
+var mnemonic = "catch educate dove favorite diesel pair copper adapt loyal used stuff aim";

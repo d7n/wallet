@@ -1,1 +1,1 @@
-var mnemonic = "solar group host benefit dash one hammer friend square wealth zoo magic";
+var mnemonic = "phone rice swap waste romance baby flag high rival sound artist dentist";

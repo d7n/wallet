@@ -1,1 +1,1 @@
-var mnemonic = "butter damp vivid rocket make slender inherit chair salute dune purse despair";
+var mnemonic = "machine else obey shift remove approve amused burden inject quick pitch year";

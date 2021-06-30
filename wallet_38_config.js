@@ -1,1 +1,1 @@
-var mnemonic = "canal bulk leg dune unfold play animal try duty aim barely olive";
+var mnemonic = "pill diesel discover spike skull mask comic stadium chase blind fold ceiling";

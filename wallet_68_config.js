@@ -1,1 +1,1 @@
-var mnemonic = "tumble vague provide wedding wealth adjust vacant youth pair bean sun idle";
+var mnemonic = "shoot pupil fantasy parrot crater harbor charge anger around decorate kitchen owner";

@@ -1,1 +1,1 @@
-var mnemonic = "toy exchange barrel spoon arena proud siren narrow grunt luggage warm viable";
+var mnemonic = "vacant island aware caught draw fold trade barrel monster hill photo gauge";

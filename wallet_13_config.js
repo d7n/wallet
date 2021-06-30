@@ -1,1 +1,1 @@
-var mnemonic = "forum wet guitar measure appear arrest rather demand cinnamon envelope organ version";
+var mnemonic = "subject couch south when urge method insane random air final wink aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn scout report scatter rain buyer kingdom diagram dial cheap aisle shadow";
+var mnemonic = "guide change rescue outdoor pole jar era word enlist pull immune lady";

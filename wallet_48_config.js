@@ -1,1 +1,1 @@
-var mnemonic = "cabbage pilot rural bicycle unfold beef mercy music cabbage march build victory";
+var mnemonic = "item average energy winner eternal join between evolve bulk upon movie shine";

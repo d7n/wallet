@@ -1,1 +1,1 @@
-var mnemonic = "tourist hold idle make stamp jacket buffalo average elite cube affair come";
+var mnemonic = "wrong figure water school denial inner possible velvet convince romance priority father";

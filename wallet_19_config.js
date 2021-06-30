@@ -1,1 +1,1 @@
-var mnemonic = "depth grief wing jungle analyst because transfer polar coach dune three again";
+var mnemonic = "unaware design repeat inquiry screen access grape pond segment snow pond pen";

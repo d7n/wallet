@@ -1,1 +1,1 @@
-var mnemonic = "recipe drift cluster side rug bacon excuse flush math awesome gloom again";
+var mnemonic = "very group coyote about scout vacuum retreat guard couch remind lend coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "web cart ocean history panel hazard dirt thumb often hidden shrug swim";
+var mnemonic = "drastic enough aspect worth bitter inhale initial edge reduce shell glide render";

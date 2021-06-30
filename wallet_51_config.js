@@ -1,1 +1,1 @@
-var mnemonic = "seminar dad eternal smart limit diagram science tumble drip exhibit traffic point";
+var mnemonic = "setup green access false tennis staff reward pink okay stool pole scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "illness vehicle blind phone still valley draw wink faint situate tuna gorilla";
+var mnemonic = "domain armor market dawn disorder ladder immense acid initial exist portion female";

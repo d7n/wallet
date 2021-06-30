@@ -1,1 +1,1 @@
-var mnemonic = "flip gloom zoo write possible suspect holiday hip drip bright comic blame";
+var mnemonic = "calm disorder cake rug sick strategy turkey width hand velvet ozone balance";

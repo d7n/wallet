@@ -1,1 +1,1 @@
-var mnemonic = "wool list reward outside doctor general false slow acoustic believe alien short";
+var mnemonic = "orphan voice style devote across disorder powder base raw supreme orient promote";

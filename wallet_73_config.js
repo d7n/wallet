@@ -1,1 +1,1 @@
-var mnemonic = "patrol climb regular welcome quarter cattle best poem fiber spoon oak weapon";
+var mnemonic = "whale cry shell promote photo alien box tide cancel rather jeans ice";

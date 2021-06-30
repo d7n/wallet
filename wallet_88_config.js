@@ -1,1 +1,1 @@
-var mnemonic = "follow giant envelope faint evidence this group access educate flash eye hair";
+var mnemonic = "fee exhibit obey river track behind anxiety champion result best pudding seven";

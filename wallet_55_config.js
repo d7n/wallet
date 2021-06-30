@@ -1,1 +1,1 @@
-var mnemonic = "exile avocado reward chronic head device sustain evidence merit fire mountain kangaroo";
+var mnemonic = "very include cliff lens style lunch wise media chef moon stamp orient";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp glide accuse rose buddy mystery front spell earn inform grace gain";
+var mnemonic = "make debate digital casual depart law marine trap cake mouse dragon uphold";

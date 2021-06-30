@@ -1,1 +1,1 @@
-var mnemonic = "answer erase tell firm spice vague come upon use fluid jungle primary";
+var mnemonic = "index lock captain attack artefact clinic certain call inmate toilet couch cupboard";

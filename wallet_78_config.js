@@ -1,1 +1,1 @@
-var mnemonic = "parrot lazy blanket million salt husband select permit say hollow anchor oven";
+var mnemonic = "better network grace salt puppy slim endorse blade crucial empower noodle zone";

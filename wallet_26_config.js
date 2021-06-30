@@ -1,1 +1,1 @@
-var mnemonic = "worth outer uncle extra empty push wall stock mind swim topple price";
+var mnemonic = "fence strong assist regret brown poverty kick assist culture awful close better";

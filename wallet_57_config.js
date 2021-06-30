@@ -1,1 +1,1 @@
-var mnemonic = "original easily walk list area habit equal confirm lumber develop mechanic trade";
+var mnemonic = "vintage aware uncle pudding laundry quit razor loan scissors kick frozen tiger";

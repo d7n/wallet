@@ -1,1 +1,1 @@
-var mnemonic = "verify broom frequent crack twin miss ten gospel issue once coffee bleak";
+var mnemonic = "dash useless inform clown chaos educate since dress brand snow fault quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "remove clip cake accuse pyramid pride festival clog analyst market pave hidden";
+var mnemonic = "skill mean approve fit certain hard mixture all violin artist achieve equal";

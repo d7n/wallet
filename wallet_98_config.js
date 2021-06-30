@@ -1,1 +1,1 @@
-var mnemonic = "type number shaft stable off thumb crowd dash city couch odor wash";
+var mnemonic = "home police laundry siren logic treat east much plastic deal example arctic";

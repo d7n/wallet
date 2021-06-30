@@ -1,1 +1,1 @@
-var mnemonic = "voyage motion certain design light lesson staff unable answer lizard team wheel";
+var mnemonic = "shock luggage cancel kingdom salute please setup penalty save rookie dirt distance";

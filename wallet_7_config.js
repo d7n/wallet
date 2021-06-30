@@ -1,1 +1,1 @@
-var mnemonic = "shuffle stairs gravity thrive together flight obey unveil drop gorilla defy ankle";
+var mnemonic = "immune figure lemon erode area evoke depth save eternal soup mammal volume";

@@ -1,1 +1,1 @@
-var mnemonic = "love rotate hotel pear cabin local tree slender unknown option indicate reform";
+var mnemonic = "umbrella light hat box kiwi kingdom market catalog frown fence step label";

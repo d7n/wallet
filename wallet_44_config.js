@@ -1,1 +1,1 @@
-var mnemonic = "earn cactus illness two wool drip gown rate insane milk canvas goat";
+var mnemonic = "loan rice include rookie space detail token legend human cute artwork until";

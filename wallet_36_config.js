@@ -1,1 +1,1 @@
-var mnemonic = "service badge cactus anxiety indoor best area essay floor wear document twelve";
+var mnemonic = "badge design embark veteran wisdom draft afford topple metal estate fashion sail";

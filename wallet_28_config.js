@@ -1,1 +1,1 @@
-var mnemonic = "cry obscure angry picnic manage cloud solution mom notice cash toddler sand";
+var mnemonic = "tilt forum glimpse jeans slam comfort cream coach filter dinosaur help almost";

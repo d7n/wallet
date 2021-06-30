@@ -1,1 +1,1 @@
-var mnemonic = "ocean win notice also slow harsh elbow empty believe rough wrestle prosper";
+var mnemonic = "tent mixture quiz couch abstract alone bless marriage april know scheme imitate";

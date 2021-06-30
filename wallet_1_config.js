@@ -1,1 +1,1 @@
-var mnemonic = "now clever regular obey now duck become type oak vault moment hotel";
+var mnemonic = "area special chair lady path relief hungry window quiz collect perfect enact";

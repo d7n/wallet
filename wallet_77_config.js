@@ -1,1 +1,1 @@
-var mnemonic = "this prefer truck question found avocado govern motor repair laugh patient clip";
+var mnemonic = "dinosaur minor place parade scrap quick crucial neutral upon amazing success lizard";

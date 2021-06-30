@@ -1,1 +1,1 @@
-var mnemonic = "path that foil account prize dress dial faith summer rebuild magnet decline";
+var mnemonic = "faint length fix broccoli olive marriage upset creek need atom fever ahead";

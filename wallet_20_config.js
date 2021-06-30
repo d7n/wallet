@@ -1,1 +1,1 @@
-var mnemonic = "usual basket dinner deliver amateur buzz educate assault rapid sand stick boss";
+var mnemonic = "save gun loyal salon yellow travel doll viable cruise spin issue corn";

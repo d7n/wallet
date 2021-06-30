@@ -1,1 +1,1 @@
-var mnemonic = "meadow spare glory shuffle bounce edit turn crater movie position kite borrow";
+var mnemonic = "illness disagree unusual release treat put pottery soap flash fine feel reopen";

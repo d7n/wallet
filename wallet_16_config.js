@@ -1,1 +1,1 @@
-var mnemonic = "young purchase slab answer quit saddle smile spice juice alien review skull";
+var mnemonic = "tortoise crop offer scare surface armed debate ghost mutual arch weasel illegal";

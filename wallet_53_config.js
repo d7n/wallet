@@ -1,1 +1,1 @@
-var mnemonic = "gate border sure medal rigid clap dumb taxi sea analyst frown stand";
+var mnemonic = "collect whale boat curious saddle east warrior lake raven person dream survey";

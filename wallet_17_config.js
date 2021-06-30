@@ -1,1 +1,1 @@
-var mnemonic = "media scout song thrive pill riot eagle garment great love conduct cactus";
+var mnemonic = "office tennis sign season width must guess comic scissors normal fix awake";

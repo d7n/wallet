@@ -1,1 +1,1 @@
-var mnemonic = "spring giant screen solar era option twice recall learn kangaroo leave wash";
+var mnemonic = "digital roast million alter giant melt six suit share close myth verb";

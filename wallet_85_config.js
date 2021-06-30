@@ -1,1 +1,1 @@
-var mnemonic = "until stomach cinnamon bulk reduce welcome horse clutch neck axis exchange amount";
+var mnemonic = "license swarm catch young negative muffin digital firm dynamic rule bus attract";

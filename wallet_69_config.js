@@ -1,1 +1,1 @@
-var mnemonic = "rather cute hole glimpse observe neglect slam symbol liar tissue zero ritual";
+var mnemonic = "elegant guide strategy model chimney divide misery fox tip asthma expose rhythm";

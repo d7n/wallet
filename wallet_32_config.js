@@ -1,1 +1,1 @@
-var mnemonic = "hidden notable light express flock enlist elite please list claw curious point";
+var mnemonic = "fan desert mandate cannon side kiss parade bleak major series cost inside";

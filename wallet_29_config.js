@@ -1,1 +1,1 @@
-var mnemonic = "plastic recycle wife crazy cup onion velvet guard insect gentle clock author";
+var mnemonic = "often wrist segment absent nose degree paddle depth benefit hen turkey street";

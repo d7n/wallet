@@ -1,1 +1,1 @@
-var mnemonic = "bubble maple mail maze pattern daughter include universe mom slot pulp small";
+var mnemonic = "clinic move talent live enforce panel coral sample property economy notice venue";

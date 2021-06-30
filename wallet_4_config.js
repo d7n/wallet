@@ -1,1 +1,1 @@
-var mnemonic = "ordinary quote inspire method trust minor wire fun reunion term farm achieve";
+var mnemonic = "drastic stable leader vintage taste orchard adapt draw mirror census believe obtain";

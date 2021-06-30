@@ -1,1 +1,1 @@
-var mnemonic = "wink glare plug call actor magic couple spend chunk luxury boy truly";
+var mnemonic = "weekend camera prison flash protect junior reopen hill nation amused dream coyote";

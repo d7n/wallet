@@ -1,1 +1,1 @@
-var mnemonic = "become option curious memory submit monster ritual design chunk april viable subject";
+var mnemonic = "frog curve alien damp kitten aunt notice document danger sword group inside";

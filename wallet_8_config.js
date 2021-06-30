@@ -1,1 +1,1 @@
-var mnemonic = "identify cement axis include mutual wise hen permit craft reject salt mutual";
+var mnemonic = "pipe cradle prefer joke correct metal clap oak spare repair dinosaur bronze";

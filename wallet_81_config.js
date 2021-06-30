@@ -1,1 +1,1 @@
-var mnemonic = "small box key argue ability inspire bulk flock draft brave attract aim";
+var mnemonic = "lava thing apology swap guide spider noble flash tower upset dance arena";
