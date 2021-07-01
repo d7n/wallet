@@ -1,1 +1,1 @@
-var mnemonic = "ridge cover circle adjust solution uphold donate earn scatter isolate endless point";
+var mnemonic = "unusual weather like proof between dutch oak saddle shift green portion silk";

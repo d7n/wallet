@@ -1,1 +1,1 @@
-var mnemonic = "saddle charge link energy click cannon unusual judge invite aware judge sing";
+var mnemonic = "smile view park accident rebel conduct system luxury sleep hint margin outer";

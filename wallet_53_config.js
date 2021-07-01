@@ -1,1 +1,1 @@
-var mnemonic = "melt setup weird gallery soccer gentle sauce grace embrace inspire bronze tide";
+var mnemonic = "fault absurd glory lottery whisper aerobic bunker rent rebuild napkin parade online";

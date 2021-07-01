@@ -1,1 +1,1 @@
-var mnemonic = "minimum jewel song defy flash wish there rail stomach knock ask solar";
+var mnemonic = "finish plate ginger easy noodle silk twist tornado rookie bomb post arena";

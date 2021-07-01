@@ -1,1 +1,1 @@
-var mnemonic = "close cat winner coconut mercy radio call acid sign master typical rival";
+var mnemonic = "cabbage cinnamon giggle raven boss reward token start oak race make tank";

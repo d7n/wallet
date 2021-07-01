@@ -1,1 +1,1 @@
-var mnemonic = "dirt chapter wire ship planet early plate coffee flee loud display dog";
+var mnemonic = "month deposit wood hole bridge same dash embrace loan proud feel remove";

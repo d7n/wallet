@@ -1,1 +1,1 @@
-var mnemonic = "want expire excuse labor hard aunt option strike vicious wisdom cheese leader";
+var mnemonic = "any tourist long capable fiber total slim rack decrease surprise dizzy pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "glow virtual tissue cactus letter valid pen frog possible major magnet junk";
+var mnemonic = "twist smoke dose list other shell trash delay trade brisk fetch wrist";

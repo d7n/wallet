@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin exchange general ecology shine test artwork emotion manage canoe situate vast";
+var mnemonic = "rate mansion spoil license bicycle open tiny actual blossom turn dose dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster bean gate mandate room flight satoshi lift affair arch bright pottery";
+var mnemonic = "bonus invite hockey gun thing crop aerobic festival afford toilet bonus become";

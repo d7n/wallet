@@ -1,1 +1,1 @@
-var mnemonic = "flame staff squeeze meadow echo soccer reveal error street dizzy awkward mouse";
+var mnemonic = "tornado tiger involve found method deny pitch uphold myself maze theme skirt";

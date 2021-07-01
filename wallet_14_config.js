@@ -1,1 +1,1 @@
-var mnemonic = "area height ranch universe vibrant sell reunion common tiny obey hockey shield";
+var mnemonic = "sing silly draft agent inquiry verify decrease subway stool magic render perfect";

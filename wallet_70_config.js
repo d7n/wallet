@@ -1,1 +1,1 @@
-var mnemonic = "void hazard enter tornado athlete security family force perfect wear view whisper";
+var mnemonic = "account stable nasty will oblige winner tree morning game hurry today frog";

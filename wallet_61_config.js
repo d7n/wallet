@@ -1,1 +1,1 @@
-var mnemonic = "impulse category satisfy exit giant kitten yellow popular suffer floor hundred face";
+var mnemonic = "various zebra cram wedding moon buyer episode wild project welcome faith start";

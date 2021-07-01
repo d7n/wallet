@@ -1,1 +1,1 @@
-var mnemonic = "sudden fun acoustic cushion spray suspect liar clog wise bless expect wrestle";
+var mnemonic = "alert hazard two multiply seed flat present garage rocket kit advice world";

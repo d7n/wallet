@@ -1,1 +1,1 @@
-var mnemonic = "vanish mixture fragile few valid cabbage acid margin figure trigger shoot enough";
+var mnemonic = "culture skirt amateur essence jeans exercise reunion reject neither fringe number general";

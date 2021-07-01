@@ -1,1 +1,1 @@
-var mnemonic = "burden orphan worth infant unhappy tower main motion special donate salmon dust";
+var mnemonic = "wave rival impose return deny actress crystal camera table gadget apology demand";

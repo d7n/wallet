@@ -1,1 +1,1 @@
-var mnemonic = "fall cabbage cargo turtle voice shield scorpion syrup goat tuition soft tobacco";
+var mnemonic = "horror swamp trust bird trust cruise equip mercy unaware release then special";

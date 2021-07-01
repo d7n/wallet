@@ -1,1 +1,1 @@
-var mnemonic = "cereal iron pond uniform daring trigger canvas twist possible method frozen olympic";
+var mnemonic = "pride dad decorate topple monster actor hawk message pizza rally essence fatigue";

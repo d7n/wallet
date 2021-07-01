@@ -1,1 +1,1 @@
-var mnemonic = "crisp paper legal object swamp glory crater puzzle pioneer dinner road expire";
+var mnemonic = "spawn carry school because surge race trumpet reason then movie mosquito sudden";

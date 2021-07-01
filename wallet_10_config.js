@@ -1,1 +1,1 @@
-var mnemonic = "tip fury liar purchase endorse pencil fragile run kitten title warm hip";
+var mnemonic = "bullet peace piano runway large question rubber seven garden cancel tone grain";

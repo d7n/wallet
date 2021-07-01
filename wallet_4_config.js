@@ -1,1 +1,1 @@
-var mnemonic = "leaf someone sketch creek twist giggle absent february below lucky sentence disease";
+var mnemonic = "addict change helmet better pulse crunch supply release mixed addict body seed";

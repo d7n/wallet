@@ -1,1 +1,1 @@
-var mnemonic = "unusual museum awesome throw debris eagle key shop dirt army donkey grid";
+var mnemonic = "august machine result garment gap bomb future spend remember derive eternal approve";

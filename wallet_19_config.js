@@ -1,1 +1,1 @@
-var mnemonic = "auction walk rose shield mirror ordinary estate ensure then inhale faint hub";
+var mnemonic = "public gift mind volcano wear remind canoe shrug east glimpse pioneer together";

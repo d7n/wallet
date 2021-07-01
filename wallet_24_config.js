@@ -1,1 +1,1 @@
-var mnemonic = "napkin erode typical soon demand symptom inside lottery winter good honey cereal";
+var mnemonic = "put win frost correct trust climb desk economy render mean card kind";

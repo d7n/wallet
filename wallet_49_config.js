@@ -1,1 +1,1 @@
-var mnemonic = "wrap answer budget lawsuit avocado exhaust demand tortoise trick hamster spatial ritual";
+var mnemonic = "slide all title visual victory stock rose boy wool share empty year";

@@ -1,1 +1,1 @@
-var mnemonic = "runway eternal galaxy rapid load dust path rib stuff current jungle scrap";
+var mnemonic = "mango home ethics make follow welcome lottery shell gasp veteran guide very";

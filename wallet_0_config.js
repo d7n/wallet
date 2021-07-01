@@ -1,1 +1,1 @@
-var mnemonic = "scan phone miss leaf second master timber flight timber frequent clerk then";
+var mnemonic = "hip clean stumble gospel join drink riot radio ship arctic start iron";

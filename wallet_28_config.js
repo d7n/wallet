@@ -1,1 +1,1 @@
-var mnemonic = "section risk truly improve enemy express faint session amount spread decide silly";
+var mnemonic = "office tide news clean royal agree client eager tool bless acoustic fabric";

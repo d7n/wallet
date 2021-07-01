@@ -1,1 +1,1 @@
-var mnemonic = "merge layer miracle session dog artefact misery twice unknown exact tonight bleak";
+var mnemonic = "rhythm exit view lunch video congress crisp goat horn tag flip rude";

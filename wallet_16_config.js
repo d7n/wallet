@@ -1,1 +1,1 @@
-var mnemonic = "broccoli news chief anchor faith whip also alert curious turn wood labor";
+var mnemonic = "tiger finish cradle garbage aisle dress pig message train resource blade group";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh upgrade sea shed rose derive cost bird explain pass express decrease";
+var mnemonic = "blush impulse blanket link dizzy remember diet narrow glad tail soup shrug";

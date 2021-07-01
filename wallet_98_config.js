@@ -1,1 +1,1 @@
-var mnemonic = "pony liberty laptop neck unfair benefit water taxi bright six improve arrange";
+var mnemonic = "enjoy draft future female comfort soon giggle age major glad around drill";

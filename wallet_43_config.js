@@ -1,1 +1,1 @@
-var mnemonic = "welcome chuckle giant silly fame spot tuition wealth laundry smile sun kiss";
+var mnemonic = "dress hero van athlete alcohol rude crucial taste pioneer provide deliver work";

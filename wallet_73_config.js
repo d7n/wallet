@@ -1,1 +1,1 @@
-var mnemonic = "tortoise october ecology never essay brain ski mirror system ring obscure assault";
+var mnemonic = "cat throw mouse list predict twelve ice unusual hood arctic method shrimp";

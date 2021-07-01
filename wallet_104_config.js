@@ -1,1 +1,1 @@
-var mnemonic = "farm night note program assume stock peasant picture neglect final mask speed";
+var mnemonic = "gold expire silver order inspire author volcano sunny apart model direct top";

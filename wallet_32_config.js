@@ -1,1 +1,1 @@
-var mnemonic = "dice siren above orange victory coil size flame wasp antenna second wrestle";
+var mnemonic = "very release win virtual resource miracle inspire what antenna fresh model path";

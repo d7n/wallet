@@ -1,1 +1,1 @@
-var mnemonic = "syrup vendor animal ancient cage gravity assault fuel letter subway advice cheese";
+var mnemonic = "minute victory patient same suggest siren define screen nephew fold bone bubble";

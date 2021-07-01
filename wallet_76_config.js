@@ -1,1 +1,1 @@
-var mnemonic = "nut cousin car ivory pair rapid tragic daring pyramid hood give enough";
+var mnemonic = "head brush bundle bean protect glad impulse crowd pig speak what excite";

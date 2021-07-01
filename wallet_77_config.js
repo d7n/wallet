@@ -1,1 +1,1 @@
-var mnemonic = "ball odor photo transfer clap cave hundred thing awesome tuition coach remove";
+var mnemonic = "obscure prepare brother fancy enforce rigid ship mutual vanish day mandate inform";

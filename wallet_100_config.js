@@ -1,1 +1,1 @@
-var mnemonic = "floor shield tunnel produce pulp range delay smile script poverty dice someone";
+var mnemonic = "asthma magic lonely blind magic emotion unhappy aisle undo hungry dove switch";

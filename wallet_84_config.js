@@ -1,1 +1,1 @@
-var mnemonic = "blossom skirt firm shift inch hover loan bird rather baby table girl";
+var mnemonic = "citizen shallow pluck solve base illegal moment layer extend curious exhibit gun";

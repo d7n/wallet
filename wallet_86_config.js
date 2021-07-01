@@ -1,1 +1,1 @@
-var mnemonic = "type knife surprise embody found parent dog gadget quantum able impose curve";
+var mnemonic = "motion fringe hood gospel bulb warfare churn gym giraffe thrive bottom unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "strong fitness lounge inch avoid dutch silk pave room small dove lion";
+var mnemonic = "satisfy raven drop naive label elegant donate bird alter load mention awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "tide ceiling brown valley point tank wood title oval fragile sketch plastic";
+var mnemonic = "torch title east useful fortune trade day rebel track apple large summer";

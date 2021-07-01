@@ -1,1 +1,1 @@
-var mnemonic = "error salmon sport define tilt expire cable ribbon battle party demand belt";
+var mnemonic = "sentence because elder confirm bleak trash shop task once polar trap media";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid memory life recall dirt fortune coin system damage enact turkey heart";
+var mnemonic = "crisp chimney person slight army decide chief aerobic silver emotion annual resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "south junior garage body noodle announce sport enjoy labor parent pony fashion";
+var mnemonic = "kingdom busy armor tooth kangaroo region motor scale always reason snack athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato ignore ask tired bunker moral title tongue melt ocean maze myth";
+var mnemonic = "buzz source total chaos refuse aerobic vessel tag replace build rain almost";

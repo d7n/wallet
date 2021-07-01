@@ -1,1 +1,1 @@
-var mnemonic = "faint trap tuna shrimp air accident reform day devote verb stand comfort";
+var mnemonic = "mixture loop pet month friend hockey bitter brown dance october valid crane";

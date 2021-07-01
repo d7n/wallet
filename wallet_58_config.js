@@ -1,1 +1,1 @@
-var mnemonic = "citizen quiz win advance lyrics captain teach version ten say merge total";
+var mnemonic = "learn evolve marble dish knock demand comic holiday lady penalty half illness";

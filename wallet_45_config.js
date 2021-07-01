@@ -1,1 +1,1 @@
-var mnemonic = "appear change trade focus end render afford chef shield humor style alter";
+var mnemonic = "evidence manual leader summer poverty utility stem bundle lawn crater device subway";

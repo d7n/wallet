@@ -1,1 +1,1 @@
-var mnemonic = "song blind holiday flip echo spirit media elder smile movie market logic";
+var mnemonic = "record embody rack bubble pulse oak emerge ticket electric analyst furnace runway";

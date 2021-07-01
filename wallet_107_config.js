@@ -1,1 +1,1 @@
-var mnemonic = "yellow desk bonus middle butter prize name misery good daring chef blur";
+var mnemonic = "biology wreck advance shrug guitar cute replace amateur close donkey gasp merge";

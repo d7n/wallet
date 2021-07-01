@@ -1,1 +1,1 @@
-var mnemonic = "limit switch elbow home tilt lyrics photo seat traffic tell leg inquiry";
+var mnemonic = "toast shoe alcohol educate same strategy this inform crush educate fresh october";

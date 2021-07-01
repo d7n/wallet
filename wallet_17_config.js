@@ -1,1 +1,1 @@
-var mnemonic = "peace hunt indicate session domain network sentence couple rich ozone main stage";
+var mnemonic = "quiz example forum parrot snow raise comfort thrive salt coach dinner valley";

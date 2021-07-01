@@ -1,1 +1,1 @@
-var mnemonic = "enroll strategy table trouble describe relax table donor horn phone uncover found";
+var mnemonic = "author lift day echo write kick sauce know fly hard normal swamp";

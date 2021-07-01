@@ -1,1 +1,1 @@
-var mnemonic = "stick pistol final churn load skate margin used actual actual lottery iron";
+var mnemonic = "tree swift boost blur flame invite remember eagle dawn race runway rough";

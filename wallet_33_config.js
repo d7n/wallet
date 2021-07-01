@@ -1,1 +1,1 @@
-var mnemonic = "story april juice acid dice old moral version noble galaxy fatigue tomorrow";
+var mnemonic = "marine attend essay cover cupboard buffalo immune fiscal trip skull dutch salad";

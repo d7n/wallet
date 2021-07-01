@@ -1,1 +1,1 @@
-var mnemonic = "rebuild uniform impact smile mechanic govern sheriff metal drill again casino divide";
+var mnemonic = "taxi law maple acid spare can bring crack wrong arrange shove happy";

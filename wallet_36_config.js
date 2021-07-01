@@ -1,1 +1,1 @@
-var mnemonic = "edge seek laundry border describe magic mass patrol engage tide install custom";
+var mnemonic = "garage nose entire eye rally section bulb liar refuse exercise arm lion";

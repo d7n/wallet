@@ -1,1 +1,1 @@
-var mnemonic = "unit regret peanut debate scale trim detail code focus copper early mystery";
+var mnemonic = "love craft fall announce middle fame nest amused horror gap office funny";

@@ -1,1 +1,1 @@
-var mnemonic = "course candy real under hello palm smoke deposit actress tooth stumble demand";
+var mnemonic = "discover stairs ring attract session tool nothing damage type pond various one";

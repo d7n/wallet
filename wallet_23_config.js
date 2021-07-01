@@ -1,1 +1,1 @@
-var mnemonic = "raven midnight badge foam mask problem eight hold shoot dentist craft history";
+var mnemonic = "cake buyer gold include crystal crouch dynamic fee scale silent sister used";

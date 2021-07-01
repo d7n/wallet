@@ -1,1 +1,1 @@
-var mnemonic = "teach carpet fossil skull gesture crystal pulse despair joke digital cheese fresh";
+var mnemonic = "six shoe burst useful toward toddler drama strategy core broom letter success";

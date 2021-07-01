@@ -1,1 +1,1 @@
-var mnemonic = "dentist ancient rotate place purpose rocket charge lobster dragon swap feel cradle";
+var mnemonic = "ladder avoid school juice pattern ill leisure youth step library scheme toy";

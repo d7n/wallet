@@ -1,1 +1,1 @@
-var mnemonic = "envelope sunny medal tobacco vote seminar style upgrade sadness kick then steak";
+var mnemonic = "visual trigger nasty sick diesel rifle broken confirm thumb inside kingdom unit";

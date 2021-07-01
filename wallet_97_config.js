@@ -1,1 +1,1 @@
-var mnemonic = "author quality guitar scan fluid busy cricket clown announce off flat print";
+var mnemonic = "lizard song rally now shift use that push pretty glad job mushroom";

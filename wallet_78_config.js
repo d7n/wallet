@@ -1,1 +1,1 @@
-var mnemonic = "valid bird false elder dream monitor nominee tornado network globe faith paper";
+var mnemonic = "where index interest vivid craft forget because before pact current brown slab";

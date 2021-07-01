@@ -1,1 +1,1 @@
-var mnemonic = "harbor volume click engage cushion reunion assault crazy dice pelican soccer soap";
+var mnemonic = "rack side human surge thumb always toast hire worth wild cigar fury";

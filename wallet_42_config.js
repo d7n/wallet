@@ -1,1 +1,1 @@
-var mnemonic = "broom domain price mansion this fox express since season pride cheap soon";
+var mnemonic = "draw trial onion pumpkin ship travel firm pretty web enact produce heavy";

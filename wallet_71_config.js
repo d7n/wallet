@@ -1,1 +1,1 @@
-var mnemonic = "glow guard salute maximum skill swap butter assist foil once copper ethics";
+var mnemonic = "ten hub educate table maximum brain pledge often load collect depart skate";

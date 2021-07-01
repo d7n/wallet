@@ -1,1 +1,1 @@
-var mnemonic = "base roof account suggest million olive ensure song jaguar neutral spoil cost";
+var mnemonic = "check address clog interest aspect video junk alley release energy fiscal march";

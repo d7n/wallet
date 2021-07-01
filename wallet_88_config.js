@@ -1,1 +1,1 @@
-var mnemonic = "symbol velvet become change own harvest tent school century suggest carpet mother";
+var mnemonic = "usage super chat october drum slot such shrimp consider depart banner asset";

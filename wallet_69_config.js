@@ -1,1 +1,1 @@
-var mnemonic = "latin state price achieve apple mixed fresh dash pause bachelor breeze lend";
+var mnemonic = "despair toward burger month lamp spawn wild feature easy bleak hope assist";

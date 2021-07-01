@@ -1,1 +1,1 @@
-var mnemonic = "oil demand off card message gun fold before false zoo february school";
+var mnemonic = "cabin sphere amused close panic shrimp project deliver mention arrive shrug joke";

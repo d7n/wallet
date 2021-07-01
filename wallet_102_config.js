@@ -1,1 +1,1 @@
-var mnemonic = "peace always expand toward smoke around science oppose suggest olive guard blouse";
+var mnemonic = "caution fossil struggle endorse clap camp extend inherit face interest shiver outside";

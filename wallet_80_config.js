@@ -1,1 +1,1 @@
-var mnemonic = "high catch own catalog blush exact almost middle lobster rebel physical hour";
+var mnemonic = "dinosaur twice deposit seven ceiling enforce over attract popular three visit fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "usual saddle wheel special manual lobster exhibit couch onion sun cycle blur";
+var mnemonic = "hunt miracle cigar lemon clarify solar initial destroy danger gospel nation rival";

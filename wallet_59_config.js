@@ -1,1 +1,1 @@
-var mnemonic = "amused work menu chicken ensure floor until labor hurdle grow genius smoke";
+var mnemonic = "same erase boss segment puppy victory frame midnight sick okay drip ski";

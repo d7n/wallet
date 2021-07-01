@@ -1,1 +1,1 @@
-var mnemonic = "grocery first problem suggest weather zoo swear author tape inhale cousin notice";
+var mnemonic = "pride offer waste salad test drill change hero joke fantasy prevent quote";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge point warm twenty spray satoshi mystery seek science winter position photo";
+var mnemonic = "search practice sibling depend fault great lawsuit stove trigger aunt educate rival";

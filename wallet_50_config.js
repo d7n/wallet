@@ -1,1 +1,1 @@
-var mnemonic = "example hole gaze frequent squirrel fog venture fury paper buddy sport need";
+var mnemonic = "prepare woman shrug bag nest mistake kitten hotel dwarf vintage coin cry";

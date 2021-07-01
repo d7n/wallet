@@ -1,1 +1,1 @@
-var mnemonic = "orbit attend shed deny bird pudding slab concert soap animal assault make";
+var mnemonic = "shoot address cry boss parent illegal push bar orchard second today onion";

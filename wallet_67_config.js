@@ -1,1 +1,1 @@
-var mnemonic = "just coconut shrug lens timber fine enjoy planet green iron another bag";
+var mnemonic = "tank off blind worry rebuild spring motor case autumn sniff burden pattern";

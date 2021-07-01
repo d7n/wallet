@@ -1,1 +1,1 @@
-var mnemonic = "hawk empty blossom blue that decorate inform danger obscure adjust cushion negative";
+var mnemonic = "open popular drastic armed favorite amused cactus future clever away erosion chunk";

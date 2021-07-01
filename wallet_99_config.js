@@ -1,1 +1,1 @@
-var mnemonic = "erase loyal few raccoon moral horn market trash rigid inside desert cluster";
+var mnemonic = "gospel soda hockey turkey sense funny ten bone age recipe manage lizard";

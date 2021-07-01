@@ -1,1 +1,1 @@
-var mnemonic = "top super lottery garlic lake monkey since athlete weekend guitar spike close";
+var mnemonic = "spawn oil globe strategy impulse slam oak install double lunar gym panther";

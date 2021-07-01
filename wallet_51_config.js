@@ -1,1 +1,1 @@
-var mnemonic = "engage belt lyrics candy chair attract process quarter pledge manual shoulder desk";
+var mnemonic = "slot update weird dizzy bike prefer vendor local feature sunny skull north";

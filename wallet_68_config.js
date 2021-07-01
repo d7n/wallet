@@ -1,1 +1,1 @@
-var mnemonic = "auto kangaroo coral arctic morning pass hamster diamond budget file creek ripple";
+var mnemonic = "around twist path develop settle cash segment cover chicken pencil draw helmet";
