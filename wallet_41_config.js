@@ -1,1 +1,1 @@
-var mnemonic = "twice hip planet lounge season fish radar shrimp benefit injury ahead fade";
+var mnemonic = "risk gadget festival beef steak tag assault resource life add grunt naive";

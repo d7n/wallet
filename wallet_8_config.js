@@ -1,1 +1,1 @@
-var mnemonic = "regret question drink dream display scene warfare border derive stadium scout trade";
+var mnemonic = "vicious canvas tuition aware current caution drama elder grow biology image angry";

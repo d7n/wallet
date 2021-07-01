@@ -1,1 +1,1 @@
-var mnemonic = "blanket divide raven potato impact hip catch poem supply ten tooth parade";
+var mnemonic = "pencil fruit father pistol arrest demise liar razor tree draft rack calm";

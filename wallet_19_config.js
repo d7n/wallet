@@ -1,1 +1,1 @@
-var mnemonic = "admit design lobster order picture cause short modify option junior oyster torch";
+var mnemonic = "climb knee very boy eagle cruise mountain arctic easily carpet flavor tomato";

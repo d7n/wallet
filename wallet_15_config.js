@@ -1,1 +1,1 @@
-var mnemonic = "soap cricket danger useless negative candy stadium hero unaware excite february diamond";
+var mnemonic = "sunset jacket shop physical tail artwork popular junk quick enter net nerve";

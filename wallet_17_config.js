@@ -1,1 +1,1 @@
-var mnemonic = "upon circle census beauty isolate cloud add purity switch thumb bar language";
+var mnemonic = "club catch captain square reason mesh oyster seek spring abandon payment skirt";

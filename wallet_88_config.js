@@ -1,1 +1,1 @@
-var mnemonic = "learn purchase kitten improve recycle camp skirt master company radar adult nest";
+var mnemonic = "mosquito repeat shallow that thing relief ketchup sort feed language delay bottom";

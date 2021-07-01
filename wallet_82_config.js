@@ -1,1 +1,1 @@
-var mnemonic = "elephant friend nominee add master walk cheap gasp uphold crucial squirrel ecology";
+var mnemonic = "script asset jealous heavy wasp group nominee tumble affair urge funny ginger";

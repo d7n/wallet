@@ -1,1 +1,1 @@
-var mnemonic = "special myth olive warm actual because win special axis crumble spider junk";
+var mnemonic = "ripple retreat code century best duty unlock wink purchase kitchen romance split";

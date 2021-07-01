@@ -1,1 +1,1 @@
-var mnemonic = "sail action dynamic truth fall route boat scheme million wink scheme eagle";
+var mnemonic = "garage uncover coyote security traffic arm fury glove ten urban route bubble";

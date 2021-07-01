@@ -1,1 +1,1 @@
-var mnemonic = "fever bounce era already fly behind idle license lunar one alone fruit";
+var mnemonic = "relax tell chapter budget poet auto coyote melody point velvet purity valley";

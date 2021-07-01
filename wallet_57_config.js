@@ -1,1 +1,1 @@
-var mnemonic = "august lab switch trial radio couch treat sign bench draft fragile involve";
+var mnemonic = "reveal hurt enact surround summer deposit ecology can method vessel siren remember";

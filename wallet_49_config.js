@@ -1,1 +1,1 @@
-var mnemonic = "normal hen flavor reject penalty misery brush lunar peanut conduct rubber kitchen";
+var mnemonic = "code phrase ugly gas brass raise entire scatter crisp frog casino siren";

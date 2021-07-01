@@ -1,1 +1,1 @@
-var mnemonic = "yellow apart system fade exclude human position muscle similar rural giraffe awkward";
+var mnemonic = "hello finish debris act ski super media village cloud bracket husband cube";

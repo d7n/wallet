@@ -1,1 +1,1 @@
-var mnemonic = "unusual produce entire remind enrich amateur erase velvet phrase certain lava room";
+var mnemonic = "popular ignore slide comfort above gate artist float tornado walk random enough";

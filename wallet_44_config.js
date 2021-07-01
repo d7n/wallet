@@ -1,1 +1,1 @@
-var mnemonic = "merge play property warrior reunion lobster barrel about menu exhaust beach family";
+var mnemonic = "about warrior effort float comfort input ozone duty nephew festival believe aisle";

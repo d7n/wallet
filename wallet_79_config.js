@@ -1,1 +1,1 @@
-var mnemonic = "unaware pole raccoon hockey coffee whip raise brisk tiger clock buyer worth";
+var mnemonic = "hub build old sock peanut kid vicious inquiry vocal scorpion exit elder";

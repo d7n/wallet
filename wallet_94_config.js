@@ -1,1 +1,1 @@
-var mnemonic = "phone gown slab prosper confirm cram swift tail jewel page agent midnight";
+var mnemonic = "little security unknown pluck smile price cancel language piano between relax core";

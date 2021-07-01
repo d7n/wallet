@@ -1,1 +1,1 @@
-var mnemonic = "crunch soul field math differ exotic dust insect grab daring that soul";
+var mnemonic = "arrange response memory census reject hunt height goose this strategy there hill";

@@ -1,1 +1,1 @@
-var mnemonic = "soap obey match narrow critic episode penalty gallery budget puzzle joke rent";
+var mnemonic = "van little era ready toast refuse same gospel blade search erosion carry";

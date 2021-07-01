@@ -1,1 +1,1 @@
-var mnemonic = "stove vast ask warfare table hello cage assume under latin bicycle digital";
+var mnemonic = "tank follow crucial harvest then vast curtain indicate sudden flash front monkey";

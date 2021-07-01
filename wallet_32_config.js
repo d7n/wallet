@@ -1,1 +1,1 @@
-var mnemonic = "pave happy depend beef wheat tell buzz calm genius shoulder explain cotton";
+var mnemonic = "wave piano inquiry zebra robust rescue body antenna blame network radar damage";

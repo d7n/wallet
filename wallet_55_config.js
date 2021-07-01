@@ -1,1 +1,1 @@
-var mnemonic = "analyst celery way surface client supply antique decade inside gadget shrimp mimic";
+var mnemonic = "morning smoke connect loop nerve saddle buddy extra trip work rack crush";

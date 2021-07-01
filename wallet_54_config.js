@@ -1,1 +1,1 @@
-var mnemonic = "stuff harvest raw moral clean supply where goat cradle spin basket network";
+var mnemonic = "educate misery blur join legal maximum hammer giraffe insect cousin stable ladder";

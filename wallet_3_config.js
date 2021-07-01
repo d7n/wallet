@@ -1,1 +1,1 @@
-var mnemonic = "spot survey tank clog card people you frame behind zero act chaos";
+var mnemonic = "recycle science evolve shell hurry guard list return describe cargo calm future";

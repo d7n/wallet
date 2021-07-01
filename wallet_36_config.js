@@ -1,1 +1,1 @@
-var mnemonic = "purchase height fall print identify unknown cake tonight wonder garage razor daughter";
+var mnemonic = "when damage skull age behind ignore layer option once post weekend height";

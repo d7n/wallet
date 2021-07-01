@@ -1,1 +1,1 @@
-var mnemonic = "million visual wool hope wire decorate cluster border arrow beef egg story";
+var mnemonic = "box kind virtual voyage poet inquiry can inmate argue define position deer";

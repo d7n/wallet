@@ -1,1 +1,1 @@
-var mnemonic = "slow glory ramp wet satoshi cheap drop candy illegal receive entry hen";
+var mnemonic = "zebra host sister discover grow arctic share artwork current virus globe embody";

@@ -1,1 +1,1 @@
-var mnemonic = "garden skull impulse attitude spider wet grass age genuine viable brush cancel";
+var mnemonic = "idea ahead expire tackle spread genre disease cherry journey surprise silver post";

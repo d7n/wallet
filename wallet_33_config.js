@@ -1,1 +1,1 @@
-var mnemonic = "grass uncover injury noise rate bulb rich build plug route tornado seed";
+var mnemonic = "pause deal pet exercise spawn asthma shrug hole kid response shell copy";

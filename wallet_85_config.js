@@ -1,1 +1,1 @@
-var mnemonic = "gaze measure relax chef correct fun catch cluster donate solve deputy member";
+var mnemonic = "belt detect symptom seed express annual basic survey thank buzz topple warrior";

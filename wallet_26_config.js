@@ -1,1 +1,1 @@
-var mnemonic = "jealous decline capital inspire love combine bunker gown segment train pool wonder";
+var mnemonic = "ostrich broken final figure across bag pioneer voyage celery betray include release";

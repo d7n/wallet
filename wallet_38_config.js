@@ -1,1 +1,1 @@
-var mnemonic = "foster metal physical letter warrior arrive once rubber fetch burst tell piano";
+var mnemonic = "surface human negative asthma fiction area ready soldier over swear dream huge";

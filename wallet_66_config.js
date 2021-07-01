@@ -1,1 +1,1 @@
-var mnemonic = "fever ensure churn argue tumble vast diet because peasant street clarify disorder";
+var mnemonic = "know fiber topic engine elbow discover fashion base person surface pear rice";

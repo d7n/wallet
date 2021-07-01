@@ -1,1 +1,1 @@
-var mnemonic = "card laptop gap banana swap impact ability chaos spy nature length frozen";
+var mnemonic = "movie pigeon begin pulse young scan cannon aim gather betray fix regret";

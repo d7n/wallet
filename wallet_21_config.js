@@ -1,1 +1,1 @@
-var mnemonic = "cliff figure liberty length pudding cover demand glory toddler edge balance divorce";
+var mnemonic = "steel brother shiver flame shift can merit laugh element opinion bid tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "slender skirt delay maze cement tag suit end divert private predict soup";
+var mnemonic = "join blast theory degree return record blouse extend help employ state thrive";

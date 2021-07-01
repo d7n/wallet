@@ -1,1 +1,1 @@
-var mnemonic = "fabric violin bacon flat youth wage shed word page crisp busy expand";
+var mnemonic = "squeeze route actress imitate check trap behave wheat crystal liar bridge grunt";

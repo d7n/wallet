@@ -1,1 +1,1 @@
-var mnemonic = "tip horn minor labor athlete merge moment clay flee useless abstract used";
+var mnemonic = "race exact foot primary wife laugh aunt assault wisdom mammal pond boss";

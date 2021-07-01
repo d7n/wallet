@@ -1,1 +1,1 @@
-var mnemonic = "noodle damage polar deny clinic index grunt answer exit peanut odor stable";
+var mnemonic = "trust night throw brick fork invite surprise warrior aerobic gift sauce desk";

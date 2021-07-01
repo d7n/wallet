@@ -1,1 +1,1 @@
-var mnemonic = "awesome trigger outdoor old real script swim quiz endless one have ripple";
+var mnemonic = "depend noise rescue guide bargain weird tool monster across father field speed";

@@ -1,1 +1,1 @@
-var mnemonic = "purity slice vocal chief elder ill submit produce chuckle timber vehicle primary";
+var mnemonic = "prison bitter resist balance galaxy walnut annual predict celery view business vehicle";

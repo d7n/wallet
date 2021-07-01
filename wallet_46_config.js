@@ -1,1 +1,1 @@
-var mnemonic = "window cheap bag noise among flower exile abuse vital ethics random must";
+var mnemonic = "nut deer guitar express cry dial craft cage lens hungry favorite wing";

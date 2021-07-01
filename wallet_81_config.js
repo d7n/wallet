@@ -1,1 +1,1 @@
-var mnemonic = "gesture olive puppy mean during work primary tortoise garage shoulder cute demise";
+var mnemonic = "expose rude reason fatigue athlete vague edit embrace luxury measure gauge tag";

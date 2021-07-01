@@ -1,1 +1,1 @@
-var mnemonic = "soap clump clump viable smooth mom foam upgrade erosion shadow armor toddler";
+var mnemonic = "joy civil danger lounge waste inherit medal february month quality chief process";

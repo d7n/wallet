@@ -1,1 +1,1 @@
-var mnemonic = "term sorry two immense rug fabric rate glance recipe squeeze wheat cannon";
+var mnemonic = "stuff find cover chronic swing borrow also physical merge auction item vapor";

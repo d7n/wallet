@@ -1,1 +1,1 @@
-var mnemonic = "sibling torch drink spring trigger giraffe neglect march parade program talent vague";
+var mnemonic = "congress whip slim during armor panther butter lens shadow bean essay hundred";

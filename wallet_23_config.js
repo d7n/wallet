@@ -1,1 +1,1 @@
-var mnemonic = "treat sketch enforce dog guilt wolf poverty behave first office tuna drama";
+var mnemonic = "giggle fly future sad indoor clean target already monitor emerge east wisdom";

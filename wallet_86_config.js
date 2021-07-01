@@ -1,1 +1,1 @@
-var mnemonic = "virtual welcome private summer luxury oyster rail taxi burden sample sort announce";
+var mnemonic = "anchor canal tilt evolve spring holiday nominee little bleak crawl ceiling another";

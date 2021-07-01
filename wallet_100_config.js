@@ -1,1 +1,1 @@
-var mnemonic = "bounce deposit apology abstract valley feed awesome later claw treat oppose vendor";
+var mnemonic = "actress tooth gossip ribbon pretty fatal cargo unlock piano kind another maze";

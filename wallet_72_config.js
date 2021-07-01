@@ -1,1 +1,1 @@
-var mnemonic = "diesel audit immense duty omit face night magic wear tortoise square void";
+var mnemonic = "peace tenant habit meat old alert shield engine estate smart olive lamp";

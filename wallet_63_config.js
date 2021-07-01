@@ -1,1 +1,1 @@
-var mnemonic = "bridge boat learn conduct stool peasant eager harbor survey stomach point carbon";
+var mnemonic = "cactus fiction tower produce into vintage chapter polar animal essence time raven";

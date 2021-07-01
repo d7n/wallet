@@ -1,1 +1,1 @@
-var mnemonic = "glare thing quote couple forum jump join recycle pond cave era evil";
+var mnemonic = "flush secret history scissors office ice tonight pencil love broccoli mutual decade";

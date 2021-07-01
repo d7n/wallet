@@ -1,1 +1,1 @@
-var mnemonic = "install regret radio logic radio dash anxiety payment panic humor code language";
+var mnemonic = "thought mouse main victory accuse mesh oxygen dutch advice round size tongue";

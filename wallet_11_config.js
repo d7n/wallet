@@ -1,1 +1,1 @@
-var mnemonic = "jungle monitor now merry caught couple banner arrow street fence lawn column";
+var mnemonic = "humble ripple box talent aisle panda cargo aisle knock volcano cricket grocery";

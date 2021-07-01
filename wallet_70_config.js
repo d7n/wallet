@@ -1,1 +1,1 @@
-var mnemonic = "present girl all local bone federal rebuild drama essence close unusual wool";
+var mnemonic = "despair left trend spoon elevator century treat afford angle reunion device filter";

@@ -1,1 +1,1 @@
-var mnemonic = "similar crystal gift ahead comfort major tomato this captain people knife defense";
+var mnemonic = "slow seven decrease ride trim fence entry drip soup galaxy castle prefer";

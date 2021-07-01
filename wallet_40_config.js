@@ -1,1 +1,1 @@
-var mnemonic = "tornado inherit real connect actor coyote impulse damage bottom army phone entry";
+var mnemonic = "couch ancient business update wedding put scatter champion vivid move unaware physical";

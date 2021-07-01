@@ -1,1 +1,1 @@
-var mnemonic = "wear clown slow uphold laundry census left vast normal funny favorite virus";
+var mnemonic = "knock helmet stairs century hair conduct gorilla toward goose trick echo garbage";

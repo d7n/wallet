@@ -1,1 +1,1 @@
-var mnemonic = "about right nice victory forest lounge alter rich gold doctor slam buzz";
+var mnemonic = "between weird game explain poet kite ahead very amount mercy cereal royal";

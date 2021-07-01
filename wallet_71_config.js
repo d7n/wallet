@@ -1,1 +1,1 @@
-var mnemonic = "goose mesh exact travel verb scheme glance mass input tilt shove window";
+var mnemonic = "major kingdom fiber slam sweet cancel pupil parade repair choose comic gain";

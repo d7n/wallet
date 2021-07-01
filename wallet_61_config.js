@@ -1,1 +1,1 @@
-var mnemonic = "click segment wolf lady reflect winner village trend clown stock prefer deposit";
+var mnemonic = "better kid jazz write genre cause struggle air again beef race health";

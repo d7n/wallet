@@ -1,1 +1,1 @@
-var mnemonic = "snake drive between domain agree urban wife patient cattle use palm vague";
+var mnemonic = "avocado report finger obvious manual actor love monkey acid twin hurt keep";

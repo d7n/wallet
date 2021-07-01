@@ -1,1 +1,1 @@
-var mnemonic = "midnight fall foil lucky nation exhibit tumble unlock hospital orbit describe again";
+var mnemonic = "leopard air next electric tortoise width surface hobby bulk govern fly ginger";

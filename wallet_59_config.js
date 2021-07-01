@@ -1,1 +1,1 @@
-var mnemonic = "capable mercy olympic link cash arena bomb bronze lake junk balance fatigue";
+var mnemonic = "sniff theory setup key smart cactus demand nasty because gadget range total";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator genius absorb quiz topic casino beauty because spare receive toilet blur";
+var mnemonic = "ripple rookie series century purity maid venture science dry garment toy animal";

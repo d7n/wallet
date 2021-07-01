@@ -1,1 +1,1 @@
-var mnemonic = "divide face immune very bullet oyster wasp hundred air submit innocent elbow";
+var mnemonic = "found moral orange electric elephant ring marriage angle slide inherit spread random";

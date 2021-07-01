@@ -1,1 +1,1 @@
-var mnemonic = "improve bleak benefit caution basket ahead vessel exercise minor sleep offer foot";
+var mnemonic = "staff middle indicate post always moral version vapor coast bunker client tent";

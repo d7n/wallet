@@ -1,1 +1,1 @@
-var mnemonic = "that rent struggle file suit endless rhythm muffin birth double oyster genuine";
+var mnemonic = "length return board armor grit earth actual embrace cause van expand guilt";

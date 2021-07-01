@@ -1,1 +1,1 @@
-var mnemonic = "fan debris balcony million alarm save adjust eyebrow chef hidden zoo gain";
+var mnemonic = "ability habit pelican royal exit axis manage fence tilt mom shoot glare";

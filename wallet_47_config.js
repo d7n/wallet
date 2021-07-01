@@ -1,1 +1,1 @@
-var mnemonic = "pluck alter race achieve capable portion true boy forward recipe tenant crisp";
+var mnemonic = "brick stand dove defense sail only round force require derive worth swap";

@@ -1,1 +1,1 @@
-var mnemonic = "fox hedgehog actor coyote demise anger assault fragile tuition forget feed glide";
+var mnemonic = "width play object reward ordinary rely mirror emotion prize burst opera high";
