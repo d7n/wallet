@@ -1,1 +1,1 @@
-var mnemonic = "prevent pill note lady gravity aim tiny middle demand learn razor please";
+var mnemonic = "fluid fragile document happy recipe canvas expose health swap gentle build exhibit";

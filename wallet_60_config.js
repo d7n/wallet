@@ -1,1 +1,1 @@
-var mnemonic = "van scheme object tenant swim trash victory illness funny limb cheap silent";
+var mnemonic = "picnic another entry monitor suit raven city shoot ill corn exact glimpse";

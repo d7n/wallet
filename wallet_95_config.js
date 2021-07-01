@@ -1,1 +1,1 @@
-var mnemonic = "senior elder also scissors visual goddess popular jeans dust inquiry weird brief";
+var mnemonic = "echo near come smart morning leaf kangaroo need outdoor female penalty infant";

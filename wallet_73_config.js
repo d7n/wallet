@@ -1,1 +1,1 @@
-var mnemonic = "sing will glory tiny caution pond dress lawsuit ice polar olympic alcohol";
+var mnemonic = "emerge leader rose pelican mask goddess wide salon brown hungry pave dutch";

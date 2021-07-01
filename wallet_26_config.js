@@ -1,1 +1,1 @@
-var mnemonic = "sand brush old minor mixture stove dress ranch diesel rigid edge sand";
+var mnemonic = "hospital orphan symptom twenty host dilemma hat warfare say void impulse save";

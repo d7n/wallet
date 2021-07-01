@@ -1,1 +1,1 @@
-var mnemonic = "whale wet dynamic critic balcony level ancient clever subject gravity fringe liquid";
+var mnemonic = "celery today alley price broom vague cat fix depend buyer sing buzz";

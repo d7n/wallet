@@ -1,1 +1,1 @@
-var mnemonic = "athlete senior valve front dune argue south path vehicle choose turtle shoe";
+var mnemonic = "hat extra lab alley offer episode board mechanic quarter secret hello various";

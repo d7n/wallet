@@ -1,1 +1,1 @@
-var mnemonic = "silly resource special wool rubber bid tumble vague inspire exile legal amused";
+var mnemonic = "media topic horn save mixture dash fiscal such photo word copy silver";

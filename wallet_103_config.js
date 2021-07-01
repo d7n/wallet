@@ -1,1 +1,1 @@
-var mnemonic = "pull toddler staff soup public sort pen buddy child cute vacant divert";
+var mnemonic = "crane over hope stadium define wait prison erase dignity neither please gaze";

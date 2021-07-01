@@ -1,1 +1,1 @@
-var mnemonic = "riot east setup insane stock answer check wire merge frog pupil purchase";
+var mnemonic = "frog lion edit any penalty spice moral state depart enroll cheap leisure";

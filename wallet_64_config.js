@@ -1,1 +1,1 @@
-var mnemonic = "shed enable direct sauce total term holiday cool quality merry diesel bitter";
+var mnemonic = "mango camera margin mosquito april mom shaft buffalo awake club fringe also";

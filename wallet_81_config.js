@@ -1,1 +1,1 @@
-var mnemonic = "satisfy off flip tenant child symptom rice spin empower boring fashion final";
+var mnemonic = "offer fiction hand hand off load junk cannon problem inflict useful urge";

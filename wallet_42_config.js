@@ -1,1 +1,1 @@
-var mnemonic = "diamond orchard tide best during debris glory analyst motor evil luxury bullet";
+var mnemonic = "siege share flame bean unfold carpet vehicle then dentist miss glow fork";

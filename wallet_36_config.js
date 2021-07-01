@@ -1,1 +1,1 @@
-var mnemonic = "below junk captain wine card echo nephew puzzle female festival humble slide";
+var mnemonic = "ivory market castle scissors hour where achieve acoustic gift jaguar chef walk";

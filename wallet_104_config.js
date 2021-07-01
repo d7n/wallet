@@ -1,1 +1,1 @@
-var mnemonic = "ask together rotate infant video infant thunder volcano fortune clump six price";
+var mnemonic = "bundle burden imitate choose fabric insect settle cycle piano lyrics guide bargain";

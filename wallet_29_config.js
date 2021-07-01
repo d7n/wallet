@@ -1,1 +1,1 @@
-var mnemonic = "fox fog myth bachelor pledge quote bless only pen filter month oblige";
+var mnemonic = "unhappy spin scan shell behave hawk scrap head apart order whale super";

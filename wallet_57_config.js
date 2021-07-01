@@ -1,1 +1,1 @@
-var mnemonic = "payment warfare lyrics exist fold clump obscure wool unaware trash wall raven";
+var mnemonic = "awful sting shoe slice fade bus uniform sick verify loyal verify power";

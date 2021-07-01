@@ -1,1 +1,1 @@
-var mnemonic = "verb fury patrol casino dinner magnet dance equal grocery kingdom milk must";
+var mnemonic = "tissue embody know jump minimum raw then adjust vendor enter caution series";

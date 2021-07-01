@@ -1,1 +1,1 @@
-var mnemonic = "short squirrel enjoy size measure normal gravity sense copy snap isolate alert";
+var mnemonic = "science hold spring poem nuclear nephew solve recipe cabbage soda mango desert";

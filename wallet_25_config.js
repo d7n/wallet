@@ -1,1 +1,1 @@
-var mnemonic = "fox oyster flavor beach inject ripple culture modify street fiber south live";
+var mnemonic = "detect check sea gather elephant toe pupil develop oyster muscle gorilla obscure";

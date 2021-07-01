@@ -1,1 +1,1 @@
-var mnemonic = "reform glue wink orbit ethics rally around street race method tribe any";
+var mnemonic = "dismiss slide calm casino biology soup tank cave school improve cabbage tag";

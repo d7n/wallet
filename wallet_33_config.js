@@ -1,1 +1,1 @@
-var mnemonic = "common ostrich fruit donor surface armor puppy reflect flight puzzle cotton unveil";
+var mnemonic = "alley lion bus visa mad rigid usual dragon junior pudding enact limit";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard fossil where sadness swap movie cluster laptop property burst leader soldier";
+var mnemonic = "voice century camp flavor execute gown rate canyon sport alert doll fringe";

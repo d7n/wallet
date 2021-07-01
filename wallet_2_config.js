@@ -1,1 +1,1 @@
-var mnemonic = "west ahead caution amount ask badge phone advance annual spray artefact mango";
+var mnemonic = "drive either outdoor page steel tilt fold seek level sleep suffer quit";

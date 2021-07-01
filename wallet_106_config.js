@@ -1,1 +1,1 @@
-var mnemonic = "drill term daring expose actor casino sun reunion shield resist also mail";
+var mnemonic = "curve kid shiver quit double oven rich fancy security reunion target three";

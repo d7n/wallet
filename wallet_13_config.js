@@ -1,1 +1,1 @@
-var mnemonic = "sadness behave address govern there gloom tobacco link imitate wood sorry wave";
+var mnemonic = "razor razor fatigue mistake capable east thunder grab sound grit act apple";

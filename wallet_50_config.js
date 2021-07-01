@@ -1,1 +1,1 @@
-var mnemonic = "library balance average fatal fame punch reveal oblige august hotel quick minute";
+var mnemonic = "category canvas royal tissue eight draw august olive release awesome culture faith";

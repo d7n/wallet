@@ -1,1 +1,1 @@
-var mnemonic = "ridge wheat exile web opera moon drink bullet inherit sausage green merge";
+var mnemonic = "super offer wrist such distance response cart pattern together assault multiply kidney";

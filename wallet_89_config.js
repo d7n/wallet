@@ -1,1 +1,1 @@
-var mnemonic = "endorse garbage initial range heavy until metal capital jeans worth street gossip";
+var mnemonic = "spoil behave pause lonely vicious clap april rhythm fox kitten cream history";

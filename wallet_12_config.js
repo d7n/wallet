@@ -1,1 +1,1 @@
-var mnemonic = "clay flock vehicle miss short main throw text woman hospital reveal buzz";
+var mnemonic = "crunch brief type fit flight elder weekend knife barely food number absent";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction museum latin pizza grape ugly annual motor radar above resource identify";
+var mnemonic = "top claw siege dress involve supply bag silk tissue extra large machine";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk join cake chicken knife connect lyrics invite barrel economy bid chef";
+var mnemonic = "include initial document business hospital screen neck sun marine shaft knife what";

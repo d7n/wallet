@@ -1,1 +1,1 @@
-var mnemonic = "group conduct history rib lyrics margin equal gallery parrot patient opera umbrella";
+var mnemonic = "transfer mountain radar undo awful same butter warfare puppy civil salad labor";

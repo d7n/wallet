@@ -1,1 +1,1 @@
-var mnemonic = "logic topic rather jump laptop country album shuffle glue glide chest just";
+var mnemonic = "canoe round notable brush civil used opinion own prison easily open similar";

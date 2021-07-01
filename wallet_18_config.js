@@ -1,1 +1,1 @@
-var mnemonic = "dress fan guard siege inform soda whale cargo great insect captain mean";
+var mnemonic = "creek flip valley rely measure say try social seek immense off daring";

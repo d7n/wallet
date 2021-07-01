@@ -1,1 +1,1 @@
-var mnemonic = "soon crowd cool village lens plug clutch damage series lyrics cradle step";
+var mnemonic = "panel brain version mosquito kidney lemon anxiety seek used scrap stone later";

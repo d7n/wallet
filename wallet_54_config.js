@@ -1,1 +1,1 @@
-var mnemonic = "visa elephant obey leopard birth enrich soon midnight win guard charge cave";
+var mnemonic = "decrease fly melt labor stadium once celery cause artwork video ask strong";

@@ -1,1 +1,1 @@
-var mnemonic = "chase deal high vapor open dash action dune snack pumpkin behave endless";
+var mnemonic = "invite nerve text measure elite put near finish onion soft dilemma display";

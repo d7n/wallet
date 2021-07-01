@@ -1,1 +1,1 @@
-var mnemonic = "sugar tree chronic speed salute half foam pottery hair witness box depart";
+var mnemonic = "celery paper paddle chief describe below expire wrist busy great bridge submit";

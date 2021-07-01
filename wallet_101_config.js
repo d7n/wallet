@@ -1,1 +1,1 @@
-var mnemonic = "gun follow zero shallow arch prepare scatter fan veteran fiction jacket then";
+var mnemonic = "habit bean climb naive poem cave cliff rubber first music good palace";

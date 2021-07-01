@@ -1,1 +1,1 @@
-var mnemonic = "inquiry culture invest guitar apple circle real cause occur rice soda surge";
+var mnemonic = "bridge shine dry famous path mass prosper chest apology travel real primary";

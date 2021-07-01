@@ -1,1 +1,1 @@
-var mnemonic = "soda gold fever antique acquire manage express jelly spring pear damp canoe";
+var mnemonic = "apology royal book seed crash material agree hundred rack fashion section slow";

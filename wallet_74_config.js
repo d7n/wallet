@@ -1,1 +1,1 @@
-var mnemonic = "mimic foam outer goddess boat basic permit rescue outdoor heart dial jaguar";
+var mnemonic = "figure expand rookie meat excite razor hawk near crouch invest hundred page";

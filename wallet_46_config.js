@@ -1,1 +1,1 @@
-var mnemonic = "minute debate tired wish kick diagram family hill elbow dragon exclude install";
+var mnemonic = "fame vocal narrow comfort dynamic arrive video wear town vault rhythm round";

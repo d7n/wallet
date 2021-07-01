@@ -1,1 +1,1 @@
-var mnemonic = "caution athlete weekend utility shed marble liberty zoo erosion bundle matrix spider";
+var mnemonic = "night visa flame broom basic traffic pulse kidney symptom noise flush weather";

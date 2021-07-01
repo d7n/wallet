@@ -1,1 +1,1 @@
-var mnemonic = "color sound toy repair track quiz magic story steel draw dutch face";
+var mnemonic = "path morning avoid lunar glad more poem unable type decrease heart shrug";

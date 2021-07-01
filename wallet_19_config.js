@@ -1,1 +1,1 @@
-var mnemonic = "make hair ribbon present body hour stock rug face jar police habit";
+var mnemonic = "advice finish seat alley busy escape dust scene marine curious among brain";

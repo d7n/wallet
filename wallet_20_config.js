@@ -1,1 +1,1 @@
-var mnemonic = "wealth wedding snow shoulder pulp throw auto key abandon hand fashion crew";
+var mnemonic = "grid become real tide atom aisle gaze nest senior panel open nuclear";

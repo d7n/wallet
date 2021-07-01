@@ -1,1 +1,1 @@
-var mnemonic = "hurt draw distance certain switch use august raccoon guitar slim car climb";
+var mnemonic = "famous grief foot tag bench fee pulp rapid symptom length define blouse";

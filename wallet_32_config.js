@@ -1,1 +1,1 @@
-var mnemonic = "draw three hen wood bacon solar sweet cricket peanut index work jazz";
+var mnemonic = "enlist stay confirm ready include aisle stem govern vote main sniff hover";

@@ -1,1 +1,1 @@
-var mnemonic = "air vanish pact barrel jeans violin glue scale armed this bright toy";
+var mnemonic = "winner celery arm finger muffin manage bridge nominee express fan swim festival";

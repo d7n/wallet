@@ -1,1 +1,1 @@
-var mnemonic = "slush winner off tuna regular fossil crucial battle cloth trumpet extend feed";
+var mnemonic = "weather hero luxury text one element stock dog benefit huge plunge company";

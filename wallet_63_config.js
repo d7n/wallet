@@ -1,1 +1,1 @@
-var mnemonic = "trigger coconut shuffle nice assist boss typical obvious gas ceiling disorder oyster";
+var mnemonic = "vessel purpose reject tonight judge squirrel license general village repair draw glue";

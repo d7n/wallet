@@ -1,1 +1,1 @@
-var mnemonic = "nothing nothing vast start law firm soup web tragic episode tell model";
+var mnemonic = "panel dial stamp region skull carry disorder pave orient tell foot talent";

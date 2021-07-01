@@ -1,1 +1,1 @@
-var mnemonic = "proud turn ridge naive steel note include junk cricket quick much release";
+var mnemonic = "mistake top guilt ticket world sense party jar ride nest draw close";

@@ -1,1 +1,1 @@
-var mnemonic = "snack view tiger imitate shallow vanish salon obtain result pigeon embody laundry";
+var mnemonic = "caution feature note hazard host plate valley object merge debris mango ice";

@@ -1,1 +1,1 @@
-var mnemonic = "load spread grunt hint depth that adapt spy smart dose close satisfy";
+var mnemonic = "jungle cat design beauty razor tiger rotate weird dinosaur add squirrel recipe";

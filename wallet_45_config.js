@@ -1,1 +1,1 @@
-var mnemonic = "flash conduct future where absorb grid pigeon someone mercy shock shop rule";
+var mnemonic = "vehicle federal sunny skill blush result replace letter best appear eager toe";

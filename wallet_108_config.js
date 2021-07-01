@@ -1,1 +1,1 @@
-var mnemonic = "assault fault next unfold evil phrase pottery payment gaze walk tray work";
+var mnemonic = "near inner vendor virus library mean federal hunt gain sketch lesson town";

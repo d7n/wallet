@@ -1,1 +1,1 @@
-var mnemonic = "march pact fury anxiety wire hello sock isolate much betray brick history";
+var mnemonic = "job spike attend awesome awkward reopen few expect random season cloth barely";

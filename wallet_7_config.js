@@ -1,1 +1,1 @@
-var mnemonic = "sight program outdoor couple question juice warm pig proof awesome suffer decorate";
+var mnemonic = "acid hawk artist merit orphan muscle work model foam awake arm music";

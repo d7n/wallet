@@ -1,1 +1,1 @@
-var mnemonic = "evolve swap airport key clip match win muscle security capable zero series";
+var mnemonic = "airport carpet lens orbit milk warm enlist express seat lab dish candy";

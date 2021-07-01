@@ -1,1 +1,1 @@
-var mnemonic = "deal wrap used egg convince amount fork tomorrow boat catch become prevent";
+var mnemonic = "chair stomach dinosaur nominee combine render mad brother clock assist arrive asset";

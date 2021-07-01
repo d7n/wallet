@@ -1,1 +1,1 @@
-var mnemonic = "endless ghost resource paddle debris clean convince violin apple oil burden upset";
+var mnemonic = "news uncle autumn rib demise deposit injury double believe wrestle all gap";

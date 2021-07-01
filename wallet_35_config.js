@@ -1,1 +1,1 @@
-var mnemonic = "ranch beef absurd initial boost give clog radio banner lesson resist lake";
+var mnemonic = "divide cute loyal gain bleak elbow decline panther cloth hire grant pudding";

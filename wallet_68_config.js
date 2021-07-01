@@ -1,1 +1,1 @@
-var mnemonic = "radar salt reform discover hat degree yellow cement patch beach system only";
+var mnemonic = "burger pulp minimum defense web soda believe arrange stamp tragic party odor";

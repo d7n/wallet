@@ -1,1 +1,1 @@
-var mnemonic = "coyote cook edit march enable solution weird boss unit beyond parent metal";
+var mnemonic = "tip chase despair devote damp tube car glare present vendor abstract whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle casino carpet cannon young speak rather nest warrior trumpet buyer plug";
+var mnemonic = "lamp churn ready inside liar double abandon end enrich switch raccoon off";

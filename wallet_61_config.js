@@ -1,1 +1,1 @@
-var mnemonic = "once truth ticket cage beef kidney decide split ribbon knife simple finger";
+var mnemonic = "series menu coach marble banana bar fun empower reduce area end abandon";

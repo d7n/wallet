@@ -1,1 +1,1 @@
-var mnemonic = "square edit plastic blossom snack loud car tornado final chief apology arrow";
+var mnemonic = "equip vendor swim glimpse ribbon border tackle front knock project harbor turtle";

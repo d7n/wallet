@@ -1,1 +1,1 @@
-var mnemonic = "black lazy churn crouch velvet honey usual combine raw creek wasp state";
+var mnemonic = "fox village example air goddess one foam satisfy glad exclude attract rug";

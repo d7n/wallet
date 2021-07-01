@@ -1,1 +1,1 @@
-var mnemonic = "impact resist canvas monster cabin beach paddle medal mother seven again name";
+var mnemonic = "unfair runway soft require common link rescue pull flush cool holiday sound";

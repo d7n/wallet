@@ -1,1 +1,1 @@
-var mnemonic = "ahead fork secret endorse ranch can judge still angle prison flame audit";
+var mnemonic = "tenant air burden coil boost proof rigid antique swift quiz soup cable";

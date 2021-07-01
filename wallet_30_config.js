@@ -1,1 +1,1 @@
-var mnemonic = "word board aerobic giant divorce custom either sport stand border pair oil";
+var mnemonic = "hotel farm rose come unique faculty diary lecture renew crawl spread inch";

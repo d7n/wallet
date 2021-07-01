@@ -1,1 +1,1 @@
-var mnemonic = "capital afraid tongue kind timber ensure dust helmet taxi grief dose agree";
+var mnemonic = "sun area maze tobacco will flavor machine tourist disorder drastic cash upon";

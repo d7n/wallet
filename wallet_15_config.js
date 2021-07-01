@@ -1,1 +1,1 @@
-var mnemonic = "pipe bring loud olive cup nation gather imitate cliff almost same affair";
+var mnemonic = "once sister electric section remind this garlic oyster belt affair pave skirt";

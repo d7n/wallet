@@ -1,1 +1,1 @@
-var mnemonic = "miracle umbrella prepare unfold album solution afford blossom glass camp twin rich";
+var mnemonic = "walk wonder pupil peasant shuffle embark coil grain time noodle provide deposit";

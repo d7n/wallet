@@ -1,1 +1,1 @@
-var mnemonic = "traffic conduct much grain ketchup region super token vote burst divorce whip";
+var mnemonic = "fiber street tenant uniform chronic upgrade avocado doll hundred solution brown print";

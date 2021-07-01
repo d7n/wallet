@@ -1,1 +1,1 @@
-var mnemonic = "primary reform glad hub enjoy fiscal siege human angry lawn cement garlic";
+var mnemonic = "apple yard wasp develop broom hamster dust grape cook mixed space pipe";

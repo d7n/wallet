@@ -1,1 +1,1 @@
-var mnemonic = "winter helmet pilot afford can brand add void toy ivory confirm laptop";
+var mnemonic = "book market alcohol input tower equal armed panel people shock style card";

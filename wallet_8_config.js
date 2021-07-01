@@ -1,1 +1,1 @@
-var mnemonic = "cluster lobster fruit save settle helmet stomach hotel agent bunker coffee olive";
+var mnemonic = "abuse brother color sword note swap pool business airport slender talk ancient";

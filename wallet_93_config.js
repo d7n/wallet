@@ -1,1 +1,1 @@
-var mnemonic = "outer spin drill hundred deputy gun vintage beyond exchange dial find happy";
+var mnemonic = "off tank siege broken obtain ring birth input parrot void frost install";

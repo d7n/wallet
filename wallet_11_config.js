@@ -1,1 +1,1 @@
-var mnemonic = "symbol industry decline ghost property hungry insane october industry modify destroy snow";
+var mnemonic = "oven lesson embark machine water snow mystery hospital afford glare wreck pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs junior wear deposit topic bless lemon fat cradle jungle hire when";
+var mnemonic = "check flat hurt cup rubber apart renew ginger other walnut kick derive";

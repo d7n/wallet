@@ -1,1 +1,1 @@
-var mnemonic = "problem prepare turtle view spike false answer evidence reason either hollow kick";
+var mnemonic = "artefact movie concert width swallow produce globe sunny annual couch spin fuel";

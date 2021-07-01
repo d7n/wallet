@@ -1,1 +1,1 @@
-var mnemonic = "beach girl organ cabin fresh tornado recipe obvious anchor sock nephew shell";
+var mnemonic = "kitchen road special elegant profit surge detail sibling rocket genre argue hero";

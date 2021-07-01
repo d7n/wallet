@@ -1,1 +1,1 @@
-var mnemonic = "object push humble switch note body punch snake crush slender resist into";
+var mnemonic = "outside lamp long pen source arch boring chase record cat hole dash";

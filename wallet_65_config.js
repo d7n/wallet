@@ -1,1 +1,1 @@
-var mnemonic = "allow garlic fit change split fortune snap agent naive suit staff unfair";
+var mnemonic = "unique tip celery kingdom awkward hold aunt slogan hair marine champion student";

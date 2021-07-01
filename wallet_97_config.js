@@ -1,1 +1,1 @@
-var mnemonic = "accident embark recipe huge then work barely force area assault fruit pledge";
+var mnemonic = "quarter organ parrot success embark indoor lava steel issue nuclear ready differ";

@@ -1,1 +1,1 @@
-var mnemonic = "return average cable student glove sight exile since elephant crisp purse misery";
+var mnemonic = "make define prize floor unfold farm spoil poem open female ribbon another";

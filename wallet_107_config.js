@@ -1,1 +1,1 @@
-var mnemonic = "hint material correct stomach forum weather history news erase youth narrow poverty";
+var mnemonic = "giant weasel trip obtain marriage motion mom nature crunch ball acoustic advance";

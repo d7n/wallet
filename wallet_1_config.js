@@ -1,1 +1,1 @@
-var mnemonic = "frame curious hurry relax practice deer cousin pony sadness turn lazy yard";
+var mnemonic = "aunt wealth protect spare lesson frozen globe couch gauge quarter pencil remind";

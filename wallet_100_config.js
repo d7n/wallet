@@ -1,1 +1,1 @@
-var mnemonic = "stumble buyer planet gown hungry pilot sauce oppose door search taste market";
+var mnemonic = "job step bleak expand junk three aware estate usage piano trigger envelope";

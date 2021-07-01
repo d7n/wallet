@@ -1,1 +1,1 @@
-var mnemonic = "loud wing sheriff language nephew goddess author dune season fashion betray place";
+var mnemonic = "misery begin cousin rice thought reunion ostrich ribbon spirit ribbon holiday vehicle";
