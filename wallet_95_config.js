@@ -1,1 +1,1 @@
-var mnemonic = "select dry top wedding wife mountain title bonus hotel capital online receive";
+var mnemonic = "prefer inside wisdom attack erupt squeeze foam season garlic grass mobile visit";

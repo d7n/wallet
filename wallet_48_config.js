@@ -1,1 +1,1 @@
-var mnemonic = "depart that under tiny yard net current cotton pottery couch grape rent";
+var mnemonic = "among stamp marine panther fun drip more impose claw mad inside slight";

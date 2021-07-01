@@ -1,1 +1,1 @@
-var mnemonic = "average orient dune robot must wedding during pulp transfer document seat bonus";
+var mnemonic = "shove away slide mercy total call middle sphere raise hold marine smoke";

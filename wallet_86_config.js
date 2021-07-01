@@ -1,1 +1,1 @@
-var mnemonic = "trash chaos rigid minute ginger crowd believe rather phrase raw fortune use";
+var mnemonic = "tissue put manual creek marriage token tribe stick unable radar review swim";

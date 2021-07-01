@@ -1,1 +1,1 @@
-var mnemonic = "mesh service shallow fiber cherry truly plastic suit chicken oppose tortoise fetch";
+var mnemonic = "pistol rapid cabin asthma grape walnut census web kingdom tower pull glare";

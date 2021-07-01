@@ -1,1 +1,1 @@
-var mnemonic = "small fence steak palace valley peasant logic news worry lens shoulder correct";
+var mnemonic = "body cheap lunch page magnet photo faint pear rain nurse lens ankle";

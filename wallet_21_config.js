@@ -1,1 +1,1 @@
-var mnemonic = "amount shove start bulb sorry alert announce wrap round tip kiss spoil";
+var mnemonic = "seat sugar silly floor acid number rebuild label battle equip fringe galaxy";

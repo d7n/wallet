@@ -1,1 +1,1 @@
-var mnemonic = "bottom table pumpkin talent spider midnight leaf dawn decade mistake best plastic";
+var mnemonic = "swift deposit trip poem notable sibling virus capital once broken humor board";

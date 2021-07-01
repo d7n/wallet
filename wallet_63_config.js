@@ -1,1 +1,1 @@
-var mnemonic = "town silk grace foil donor creek loyal rough artwork scorpion virus wave";
+var mnemonic = "caught lizard client filter visa hold shop liar abuse rabbit beef rescue";

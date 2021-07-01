@@ -1,1 +1,1 @@
-var mnemonic = "horror card wasp case amazing garbage uncover nuclear deliver still inmate opera";
+var mnemonic = "struggle note kangaroo betray friend stock flame frame spider oval submit mean";

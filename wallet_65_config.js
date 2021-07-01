@@ -1,1 +1,1 @@
-var mnemonic = "lunar wrong bottom advance curious mansion exercise pledge team fantasy alter evolve";
+var mnemonic = "legend loan advice point weather device initial edit animal mango modify course";

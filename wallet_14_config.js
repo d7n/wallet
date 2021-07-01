@@ -1,1 +1,1 @@
-var mnemonic = "super glory firm pause melody imitate vault crew nut scan drip source";
+var mnemonic = "sugar place dawn balance turtle monkey sting never raise hello planet vacant";

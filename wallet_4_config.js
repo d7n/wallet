@@ -1,1 +1,1 @@
-var mnemonic = "reform large bind offer panel snow lonely invite increase dumb open cinnamon";
+var mnemonic = "absent spike total adapt goat fashion capital glow save truly toward laptop";

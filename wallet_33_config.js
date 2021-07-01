@@ -1,1 +1,1 @@
-var mnemonic = "plug hold luggage cigar narrow dolphin neck sausage rookie loyal faculty ghost";
+var mnemonic = "bottom army manual eager protect mean vendor actor people brand figure slow";

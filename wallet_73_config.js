@@ -1,1 +1,1 @@
-var mnemonic = "anchor ten doll asset bench grant priority inflict edge deal erupt gossip";
+var mnemonic = "undo clap web agree dose priority actual marble domain fantasy vicious entire";

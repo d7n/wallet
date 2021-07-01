@@ -1,1 +1,1 @@
-var mnemonic = "blast visa future diary tuition equip dad vintage spider lake route remind";
+var mnemonic = "able actual owner ask priority clarify desk zero net frown embody fine";

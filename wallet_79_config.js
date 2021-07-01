@@ -1,1 +1,1 @@
-var mnemonic = "update enroll profit stay mirror pet year diary night whip addict feel";
+var mnemonic = "wedding odor nurse increase list differ swarm staff tag proud industry awful";

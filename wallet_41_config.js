@@ -1,1 +1,1 @@
-var mnemonic = "muscle rather tone limit resemble dirt abandon smile brisk crystal clog decide";
+var mnemonic = "public grit elevator catalog shrug slender twelve thrive direct limit pass knee";

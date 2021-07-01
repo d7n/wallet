@@ -1,1 +1,1 @@
-var mnemonic = "kick voice hood tent alone inner sting history output saddle cream silk";
+var mnemonic = "output jealous shove again heart team struggle library mushroom dry snack wool";

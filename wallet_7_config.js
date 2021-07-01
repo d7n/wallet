@@ -1,1 +1,1 @@
-var mnemonic = "wool express loan tomato nose cage series horn abstract conduct ritual tackle";
+var mnemonic = "answer genius wrestle moral park endless snack tree thought buddy online skirt";

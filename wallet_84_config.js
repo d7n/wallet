@@ -1,1 +1,1 @@
-var mnemonic = "repair rib craft produce exile lumber borrow parade day track goose total";
+var mnemonic = "market visa scare raw come ivory defense rhythm strike derive shed wife";

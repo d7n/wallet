@@ -1,1 +1,1 @@
-var mnemonic = "address shadow brass glory idea profit spike apple solid state pull poet";
+var mnemonic = "borrow reunion list zero industry clock dignity misery sample author jaguar luxury";

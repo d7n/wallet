@@ -1,1 +1,1 @@
-var mnemonic = "result spell then ecology kite primary any mirror magic blouse chalk gloom";
+var mnemonic = "crater check burger wild void claw mobile trouble fine bracket usage urge";

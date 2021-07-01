@@ -1,1 +1,1 @@
-var mnemonic = "wire lake speak accident deer main plunge link enable under kid talent";
+var mnemonic = "bag atom object vapor glimpse trip puzzle found room collect bubble sphere";

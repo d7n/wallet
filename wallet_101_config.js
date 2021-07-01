@@ -1,1 +1,1 @@
-var mnemonic = "soda dial fancy excuse robot ripple two enhance agent shed giggle that";
+var mnemonic = "toilet noodle fox liberty pool frost spray nephew chimney minor predict direct";

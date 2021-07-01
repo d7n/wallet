@@ -1,1 +1,1 @@
-var mnemonic = "maid donkey usual trap immense approve river drastic original park evidence about";
+var mnemonic = "hat page autumn famous blur critic method pear axis edge stool whisper";

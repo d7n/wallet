@@ -1,1 +1,1 @@
-var mnemonic = "next resource almost kingdom impose erode beef pond pact unusual cradle slush";
+var mnemonic = "actress bottom trend float bronze portion ordinary moon able black hungry choose";

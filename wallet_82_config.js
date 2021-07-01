@@ -1,1 +1,1 @@
-var mnemonic = "cruel novel often rude assault cigar harbor mistake desk ignore ticket notice";
+var mnemonic = "rally next crumble add noise youth morning kite glad friend alpha slush";

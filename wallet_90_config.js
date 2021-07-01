@@ -1,1 +1,1 @@
-var mnemonic = "client subject digital empty calm float wine sunset shrug fringe similar talent";
+var mnemonic = "above damp bracket satoshi mixed modify culture post danger blur voice miracle";

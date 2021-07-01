@@ -1,1 +1,1 @@
-var mnemonic = "near setup when grace cake echo explain piece air matrix correct maid";
+var mnemonic = "brisk recall diamond cradle game abuse cluster virus struggle brother erupt elevator";

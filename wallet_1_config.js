@@ -1,1 +1,1 @@
-var mnemonic = "ship around insect nest clay can unable joke wise symptom present resemble";
+var mnemonic = "fold sunset chair veteran portion garden ranch call anger silent sad awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar capable develop relax milk pair tooth future veteran excess praise stool";
+var mnemonic = "chef change purpose year flee clog planet grant utility scene lizard deny";

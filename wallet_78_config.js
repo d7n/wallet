@@ -1,1 +1,1 @@
-var mnemonic = "smart method float loud trap either pull surface term spider unusual clay";
+var mnemonic = "first expand snack emerge between faint clump soul hungry brief naive else";

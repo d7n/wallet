@@ -1,1 +1,1 @@
-var mnemonic = "detail guess engine shy hold same carry zoo raven muscle tackle fresh";
+var mnemonic = "forest nest ostrich shy orchard rally scout cherry slender owner thought daughter";

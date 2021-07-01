@@ -1,1 +1,1 @@
-var mnemonic = "buffalo castle blouse jar joy atom day rich legal abstract cry food";
+var mnemonic = "shove hour potato strategy reflect guard believe bottom antenna monster invest repair";

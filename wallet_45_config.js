@@ -1,1 +1,1 @@
-var mnemonic = "donor frozen label razor lake polar immense welcome team female success oppose";
+var mnemonic = "cousin better stuff race space hungry rug post unit female face quality";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz pet include slam market cloud height oval skill scheme enroll define";
+var mnemonic = "pelican require nice raise they enough tongue random finger silk cute invest";

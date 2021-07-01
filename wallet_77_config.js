@@ -1,1 +1,1 @@
-var mnemonic = "race praise april rack yard wave pupil tattoo east cook vessel wine";
+var mnemonic = "shallow news cry emotion sort gossip cupboard rubber home diet cherry manage";

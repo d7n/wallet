@@ -1,1 +1,1 @@
-var mnemonic = "other square income park fiber cereal access practice panther transfer uphold error";
+var mnemonic = "video polar syrup voyage mom mushroom actress permit plunge draw gather horn";

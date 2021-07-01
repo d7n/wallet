@@ -1,1 +1,1 @@
-var mnemonic = "follow limit hamster margin carbon book laugh draw mix cause battle recycle";
+var mnemonic = "spy focus worth praise catalog unfold rather essence egg prepare three response";

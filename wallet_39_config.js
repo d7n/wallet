@@ -1,1 +1,1 @@
-var mnemonic = "danger double lunar social license fashion snake basket lucky black yellow hub";
+var mnemonic = "urge shoe castle guitar absurd member armed enrich fan vintage space baby";

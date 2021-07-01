@@ -1,1 +1,1 @@
-var mnemonic = "spot begin clutch orange grid vacant elegant again click vehicle host inform";
+var mnemonic = "note mother early mixed distance solar flash material sister main twist vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "various maid galaxy crazy angry elder point organ stadium carbon fall nurse";
+var mnemonic = "moment lock shock degree kingdom click between garage census enrich torch better";

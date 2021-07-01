@@ -1,1 +1,1 @@
-var mnemonic = "swap rebuild sustain slim estate pass grow potato benefit work face network";
+var mnemonic = "wisdom trick weekend aunt just shrug lobster video mask build husband already";

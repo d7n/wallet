@@ -1,1 +1,1 @@
-var mnemonic = "merge juice unable build coconut design suggest ostrich october device physical horn";
+var mnemonic = "layer sport keep move depart muffin busy life prize amount bag alone";

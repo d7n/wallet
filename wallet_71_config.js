@@ -1,1 +1,1 @@
-var mnemonic = "awkward cloud slot common maze build kiwi fork what limit strike copper";
+var mnemonic = "flip live speed elevator animal lounge idle ramp fiction ten drastic float";

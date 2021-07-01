@@ -1,1 +1,1 @@
-var mnemonic = "much enact luggage depart island verify inmate shift rely delay life must";
+var mnemonic = "since spell already pink radio upgrade planet dinosaur butter bicycle wait modify";

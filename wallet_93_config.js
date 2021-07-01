@@ -1,1 +1,1 @@
-var mnemonic = "arrange plunge fabric solution solution test frog shiver miss scissors author engine";
+var mnemonic = "escape success penalty clarify scrap wish upgrade split apple fragile exchange solar";

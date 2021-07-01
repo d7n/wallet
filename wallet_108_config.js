@@ -1,1 +1,1 @@
-var mnemonic = "excuse treat climb grass ecology modify harbor genius room addict melt kiwi";
+var mnemonic = "repair choice inmate burden cabin bomb crumble predict valid limb bulk island";

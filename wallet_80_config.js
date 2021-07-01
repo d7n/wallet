@@ -1,1 +1,1 @@
-var mnemonic = "taste jaguar defy pretty rally offer hair emotion mosquito trumpet debris only";
+var mnemonic = "joy august sign shaft wide hold zero mystery yellow street flavor army";

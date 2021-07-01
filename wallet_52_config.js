@@ -1,1 +1,1 @@
-var mnemonic = "invest icon foil ring shuffle unable economy dad error garbage option leaf";
+var mnemonic = "dash antique grief embark pumpkin artwork coconut wife clutch control hammer caught";

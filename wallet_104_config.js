@@ -1,1 +1,1 @@
-var mnemonic = "pass kitchen action unit spread market dog fury audit obvious rural sign";
+var mnemonic = "notice hub vintage lend dove twelve truly melody screen bless strike wave";

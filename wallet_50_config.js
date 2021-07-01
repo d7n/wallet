@@ -1,1 +1,1 @@
-var mnemonic = "acoustic now renew night plunge grab approve scorpion lunar patient claw club";
+var mnemonic = "figure syrup derive erase shed around raw stage still copy ostrich solution";

@@ -1,1 +1,1 @@
-var mnemonic = "journey order assist recall pulp desk expand runway alley pulp always weapon";
+var mnemonic = "desert culture put key return brand valley labor hub basic base dolphin";

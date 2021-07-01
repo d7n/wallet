@@ -1,1 +1,1 @@
-var mnemonic = "average science slush crunch impulse melt quote cupboard pretty public office scorpion";
+var mnemonic = "energy kite improve canal inhale stem tilt reform fury apology blame miss";

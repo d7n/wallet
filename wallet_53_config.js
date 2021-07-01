@@ -1,1 +1,1 @@
-var mnemonic = "fold caught gasp emerge lyrics quarter choose crisp there destroy fog snow";
+var mnemonic = "release acquire excuse absorb cinnamon stairs distance sand purchase oil cake include";

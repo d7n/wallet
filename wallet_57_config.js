@@ -1,1 +1,1 @@
-var mnemonic = "idea spirit humor symbol real media stomach cup dog urge trade garbage";
+var mnemonic = "auto crystal cook identify banana above happy spray gossip turn disease wasp";

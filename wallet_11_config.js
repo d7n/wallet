@@ -1,1 +1,1 @@
-var mnemonic = "brick since fame hungry napkin violin roast buyer switch clay exhibit situate";
+var mnemonic = "cheese remind benefit victory indicate win catalog poem remember razor battle one";

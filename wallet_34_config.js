@@ -1,1 +1,1 @@
-var mnemonic = "elbow link thunder rich pill number sniff make room culture love ceiling";
+var mnemonic = "tiny boost cook satoshi jaguar dice sword exist steel unusual slow frost";

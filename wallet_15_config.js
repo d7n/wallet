@@ -1,1 +1,1 @@
-var mnemonic = "mind renew size crater because confirm lumber track champion fiction tissue team";
+var mnemonic = "birth term force broom neck road elevator secret rose present assault front";

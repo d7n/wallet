@@ -1,1 +1,1 @@
-var mnemonic = "source caution scene option basket deputy proof drift fan huge virtual need";
+var mnemonic = "very hybrid humor tell aware silk urge wreck holiday moment another bargain";

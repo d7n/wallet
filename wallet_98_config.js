@@ -1,1 +1,1 @@
-var mnemonic = "harsh fade owner system punch bulk word tourist swift rice brave loan";
+var mnemonic = "property couch wasp rescue rough spin people pact trash gravity maple anxiety";

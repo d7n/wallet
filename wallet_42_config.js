@@ -1,1 +1,1 @@
-var mnemonic = "cannon toilet anchor dragon hundred tooth crime deal boat clown balance text";
+var mnemonic = "ridge catalog intact exotic novel rhythm festival frame border three ticket usual";

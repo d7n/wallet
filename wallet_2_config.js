@@ -1,1 +1,1 @@
-var mnemonic = "wasp account head rug direct million rifle butter gold inhale garbage very";
+var mnemonic = "sense sword twenty wheel wine stay truck swallow fresh undo only harsh";

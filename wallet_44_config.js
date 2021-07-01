@@ -1,1 +1,1 @@
-var mnemonic = "various elephant rally recycle demand awake century forward pattern dolphin safe spice";
+var mnemonic = "rally deny horror circle used job boss outside trade salute soup input";

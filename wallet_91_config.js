@@ -1,1 +1,1 @@
-var mnemonic = "ginger sense below video volcano symptom expose door apology annual mechanic coffee";
+var mnemonic = "alert scare main resist reunion wisdom matrix morning sense bounce snake logic";

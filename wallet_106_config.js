@@ -1,1 +1,1 @@
-var mnemonic = "organ math hammer peasant sell evidence pave aspect give sustain about timber";
+var mnemonic = "since today lonely neither indicate deny pelican rebel feel tank quantum ticket";

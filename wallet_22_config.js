@@ -1,1 +1,1 @@
-var mnemonic = "behave awake unusual hazard arrow normal inmate spin pill panther luxury sock";
+var mnemonic = "opera basic manual enough twelve dignity witness anger depth rice sand actress";

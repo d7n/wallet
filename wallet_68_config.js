@@ -1,1 +1,1 @@
-var mnemonic = "faculty depart ladder certain talent luxury spin gain prosper surface vault genius";
+var mnemonic = "east deal piano merit chicken bottom frequent enjoy enough wealth noise cotton";

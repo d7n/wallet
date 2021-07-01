@@ -1,1 +1,1 @@
-var mnemonic = "ticket elder diary enlist shrimp rhythm brass shuffle nut glad model glare";
+var mnemonic = "loop symptom machine evolve topic delay screen nation drastic dynamic resource tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha wealth nasty fortune venue swamp fabric risk toss laugh meat major";
+var mnemonic = "clinic stove soda fence caution hunt awful disagree fly solution twin almost";

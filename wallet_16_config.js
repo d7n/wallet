@@ -1,1 +1,1 @@
-var mnemonic = "permit hard grit wet only salon crew spell toast carbon door adjust";
+var mnemonic = "duty truck gospel afford force entire carbon endless hope pet parade predict";

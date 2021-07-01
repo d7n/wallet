@@ -1,1 +1,1 @@
-var mnemonic = "topic library follow upgrade thumb broom melt rib myth charge slice post";
+var mnemonic = "learn sport bracket second practice exact save subway number pole flip candy";

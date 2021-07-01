@@ -1,1 +1,1 @@
-var mnemonic = "arm stay insect like post riot mom clap home medal subway hip";
+var mnemonic = "trip stand chunk record nasty search core segment couple rebel vote shift";

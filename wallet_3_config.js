@@ -1,1 +1,1 @@
-var mnemonic = "solution supreme wear income vast forest hand agree afraid echo quiz catalog";
+var mnemonic = "maze pulp joke rival orphan load ball idea confirm wool bitter solution";

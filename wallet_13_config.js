@@ -1,1 +1,1 @@
-var mnemonic = "napkin announce dove try typical way robot west female off enough potato";
+var mnemonic = "soup pair jar civil rescue leopard chalk economy absent region boy normal";

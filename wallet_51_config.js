@@ -1,1 +1,1 @@
-var mnemonic = "marble rifle nest crunch bottom fee riot captain record inside beach hunt";
+var mnemonic = "amount reveal between lion ahead rose wheel barrel chest member salute vendor";

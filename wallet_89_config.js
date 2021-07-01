@@ -1,1 +1,1 @@
-var mnemonic = "pink marine van phone guess hunt unlock laugh barrel submit shrug toe";
+var mnemonic = "draw man monitor reveal input dragon valid night piece source benefit flush";

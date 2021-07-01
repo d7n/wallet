@@ -1,1 +1,1 @@
-var mnemonic = "champion blossom ankle multiply effort attitude flip satoshi lab leisure unaware owner";
+var mnemonic = "inch lake front wisdom garage decorate candy say crumble umbrella exchange innocent";

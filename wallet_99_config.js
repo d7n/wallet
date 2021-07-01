@@ -1,1 +1,1 @@
-var mnemonic = "poverty gospel fever magnet tragic merit addict file mule album blade good";
+var mnemonic = "visit good palm thumb wolf grid cousin cousin seminar moon quiz select";

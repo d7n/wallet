@@ -1,1 +1,1 @@
-var mnemonic = "scout length huge industry warrior horse rare daughter dad birth congress hour";
+var mnemonic = "segment token utility hazard tackle obey toast rail day heart bacon truth";

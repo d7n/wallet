@@ -1,1 +1,1 @@
-var mnemonic = "dry abstract allow oyster try camp spawn hedgehog decade thought lava weasel";
+var mnemonic = "fantasy maple slot future belt inform risk hip carbon cruise hedgehog industry";

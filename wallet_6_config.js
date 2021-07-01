@@ -1,1 +1,1 @@
-var mnemonic = "surge weather lion grow define fluid almost camera pupil lucky priority remind";
+var mnemonic = "label segment just combine patrol spring typical card neither goddess reunion lazy";
