@@ -1,1 +1,1 @@
-var mnemonic = "exclude sign genre cattle firm tank trade limb math evil feature property";
+var mnemonic = "dash lake south build comfort client rib inmate curtain nation museum melt";

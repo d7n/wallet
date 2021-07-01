@@ -1,1 +1,1 @@
-var mnemonic = "museum lecture adapt concert lumber omit depend before castle door mistake primary";
+var mnemonic = "reopen champion earth marriage please satoshi gasp genuine want stadium account dragon";

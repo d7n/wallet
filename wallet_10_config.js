@@ -1,1 +1,1 @@
-var mnemonic = "come round book grain salmon clever jump cargo bicycle surface core pottery";
+var mnemonic = "vote huge essence stand insect mammal boy message canyon salute organ habit";

@@ -1,1 +1,1 @@
-var mnemonic = "beef nice unhappy depend soup firm risk love web spoon again craft";
+var mnemonic = "frog report churn aerobic depend pilot orient fluid lady claw month frown";

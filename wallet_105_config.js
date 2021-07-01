@@ -1,1 +1,1 @@
-var mnemonic = "episode phrase long legal loyal under fox sausage gentle game tide sample";
+var mnemonic = "tonight recall vicious sheriff sample success van universe piano egg bitter deal";

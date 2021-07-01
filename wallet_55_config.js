@@ -1,1 +1,1 @@
-var mnemonic = "bulb dismiss scan struggle predict west winter gym insect gasp gas bread";
+var mnemonic = "answer violin relax beyond opinion cry about draw fat cat paddle refuse";

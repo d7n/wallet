@@ -1,1 +1,1 @@
-var mnemonic = "key regular elephant hotel excuse grit build area armor any sketch figure";
+var mnemonic = "law silly adjust jealous destroy high amateur fame finger dumb video ethics";

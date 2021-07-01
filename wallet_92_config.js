@@ -1,1 +1,1 @@
-var mnemonic = "abandon rose almost inmate page toward lizard olympic clap beach lonely undo";
+var mnemonic = "eye unit swarm win march over moment adjust vacuum hotel unveil scatter";

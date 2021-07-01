@@ -1,1 +1,1 @@
-var mnemonic = "credit kangaroo next wreck trust leisure lemon dance under outside fiscal solve";
+var mnemonic = "exit doctor cactus adult ridge rhythm plug mesh ancient rally curve better";

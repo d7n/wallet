@@ -1,1 +1,1 @@
-var mnemonic = "grass obtain always swift announce chat arch essence hawk purity below tattoo";
+var mnemonic = "talk olive fabric quick mechanic brother derive bomb room fury nice carpet";

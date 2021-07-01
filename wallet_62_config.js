@@ -1,1 +1,1 @@
-var mnemonic = "canoe clump will twin roof hotel sea gaze pattern walnut save upset";
+var mnemonic = "envelope upset claw repeat kind appear doll memory lazy abstract tenant jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "private maximum harbor ribbon wave suit kind success puppy net firm tourist";
+var mnemonic = "liberty bird surface envelope identify limit juice belt spy fit shell clip";

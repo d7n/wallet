@@ -1,1 +1,1 @@
-var mnemonic = "antenna satisfy dream width neither expire north potato gaze symptom leave shadow";
+var mnemonic = "jeans dinner summer lend used way case rain display inspire monkey alcohol";

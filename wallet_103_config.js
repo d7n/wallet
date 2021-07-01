@@ -1,1 +1,1 @@
-var mnemonic = "differ render sadness digital height traffic sausage moral barely because ensure envelope";
+var mnemonic = "media return canal cake tank system strike oak real express pet frozen";

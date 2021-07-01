@@ -1,1 +1,1 @@
-var mnemonic = "creek bird essay grace marriage october very poverty lift piano output mango";
+var mnemonic = "dune good bubble wheel various gown garment napkin couch orphan purity swim";

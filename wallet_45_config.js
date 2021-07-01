@@ -1,1 +1,1 @@
-var mnemonic = "pilot cupboard guilt federal cheap curtain gauge member border bundle weapon soup";
+var mnemonic = "talk vague there absorb direct soon rail capital exotic food science garage";

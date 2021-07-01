@@ -1,1 +1,1 @@
-var mnemonic = "crowd suggest lend lizard assault pool enhance ski media congress caught decrease";
+var mnemonic = "lake banner return mistake front space license educate keen flush blouse acquire";

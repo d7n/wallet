@@ -1,1 +1,1 @@
-var mnemonic = "unfair clump chaos private because room treat claim twice chronic impact whisper";
+var mnemonic = "twelve expand vanish coffee load chase turtle harbor armed ghost expand wagon";

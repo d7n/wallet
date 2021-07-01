@@ -1,1 +1,1 @@
-var mnemonic = "deliver direct fit finish lunar that basket safe laugh pink child estate";
+var mnemonic = "scene mass employ utility decide affair bitter survey coil glide balance menu";

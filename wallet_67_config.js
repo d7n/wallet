@@ -1,1 +1,1 @@
-var mnemonic = "health dilemma fruit only easily turtle wealth final pencil card brain nose";
+var mnemonic = "win midnight puzzle injury top argue almost obtain all aunt slab swing";

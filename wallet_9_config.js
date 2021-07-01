@@ -1,1 +1,1 @@
-var mnemonic = "you sand write resource vivid first original give crisp crisp mention fiscal";
+var mnemonic = "across warfare truly burden notable bid pupil invite fee chef frozen wolf";

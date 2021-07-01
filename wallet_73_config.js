@@ -1,1 +1,1 @@
-var mnemonic = "plastic emerge bleak outdoor belt duck pledge spy banana monster clown culture";
+var mnemonic = "private silent rose mountain where ancient custom subway review mercy click vote";

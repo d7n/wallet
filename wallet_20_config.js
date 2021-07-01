@@ -1,1 +1,1 @@
-var mnemonic = "mind mammal tone daughter table hub smooth expand click stumble roof song";
+var mnemonic = "wait farm endorse payment poem swamp assault mistake loud cart audit unable";

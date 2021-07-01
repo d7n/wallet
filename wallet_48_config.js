@@ -1,1 +1,1 @@
-var mnemonic = "scatter guard pioneer edge search tortoise physical hard equip twin travel camera";
+var mnemonic = "mistake tissue melody normal spot ribbon remove asset blame entire town sea";

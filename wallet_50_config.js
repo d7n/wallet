@@ -1,1 +1,1 @@
-var mnemonic = "inside bounce pizza wide federal culture teach rural culture resemble plug blame";
+var mnemonic = "also fossil marriage camp priority smooth glue solve enhance february submit comic";

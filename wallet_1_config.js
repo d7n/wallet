@@ -1,1 +1,1 @@
-var mnemonic = "truck photo nothing shrug vivid erode topic judge oyster elder leisure main";
+var mnemonic = "above front inside stumble water link hidden mixture situate water rule nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "crush knee drop vacant region jeans lizard nominee atom suffer average solution";
+var mnemonic = "regret fame canoe bargain borrow else mirror lottery include banana october stuff";

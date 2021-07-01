@@ -1,1 +1,1 @@
-var mnemonic = "bleak monkey enough chef drink agent describe network false income wet undo";
+var mnemonic = "loud scissors ketchup organ unusual sunset recall salon pet hurt zone case";

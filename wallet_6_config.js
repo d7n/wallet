@@ -1,1 +1,1 @@
-var mnemonic = "cactus attack pretty hidden device leisure explain sadness draw notice fun say";
+var mnemonic = "bus rigid pilot verify glad prepare join fiscal interest sketch multiply mistake";

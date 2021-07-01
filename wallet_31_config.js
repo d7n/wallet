@@ -1,1 +1,1 @@
-var mnemonic = "order october raven list dust grab slight choice hope recycle advice license";
+var mnemonic = "charge reveal usage system idle fish tone common illegal unlock camp duty";

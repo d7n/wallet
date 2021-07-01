@@ -1,1 +1,1 @@
-var mnemonic = "honey borrow judge churn garment mutual deposit bike lion shoot nasty pledge";
+var mnemonic = "analyst inherit rule column luggage toast boat uncover peanut exact foam spawn";

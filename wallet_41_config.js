@@ -1,1 +1,1 @@
-var mnemonic = "parent cash outside popular turtle just shy maze sunny car dignity blast";
+var mnemonic = "must tissue maximum menu romance pen ball detect ginger primary fee eight";

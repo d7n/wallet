@@ -1,1 +1,1 @@
-var mnemonic = "riot private velvet convince usage drip alpha success potato arm click midnight";
+var mnemonic = "dream artwork wing express unknown happy soda mechanic open dinosaur omit coast";

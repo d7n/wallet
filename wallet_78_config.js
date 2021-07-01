@@ -1,1 +1,1 @@
-var mnemonic = "fatigue dove cave brother gentle mask bridge rotate rookie hurdle farm agent";
+var mnemonic = "prevent donkey brand fabric title tuition parent speed dance damage bomb switch";

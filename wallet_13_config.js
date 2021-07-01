@@ -1,1 +1,1 @@
-var mnemonic = "analyst spike slow doll ivory dice merry tape cotton huge crisp battle";
+var mnemonic = "afford cherry fine witness stereo conduct tank rocket human strike shrug dog";

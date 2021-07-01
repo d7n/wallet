@@ -1,1 +1,1 @@
-var mnemonic = "define kick debris ritual owner ladder antique first prevent dragon purity arrange";
+var mnemonic = "minor night elder cycle gadget off outer convince fat denial setup hockey";

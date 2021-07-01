@@ -1,1 +1,1 @@
-var mnemonic = "only process year deny estate lucky peace rent catalog gentle clock coil";
+var mnemonic = "enact undo employ good split razor gloom roof accident grain hard bulk";

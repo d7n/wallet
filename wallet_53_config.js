@@ -1,1 +1,1 @@
-var mnemonic = "nurse blanket around style elevator there artefact twist undo else inch federal";
+var mnemonic = "olive conduct public element present loan girl square until female denial amount";

@@ -1,1 +1,1 @@
-var mnemonic = "candy announce cactus damp loop route mutual salt devote hold address hunt";
+var mnemonic = "ticket below tired cost appear endorse trigger reason pioneer glove choose second";

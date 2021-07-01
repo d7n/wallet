@@ -1,1 +1,1 @@
-var mnemonic = "embody canyon buffalo flag harbor large truth rally elbow vessel anchor lend";
+var mnemonic = "welcome glow tail super record rigid right program tornado train peace rebel";

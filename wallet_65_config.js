@@ -1,1 +1,1 @@
-var mnemonic = "method various diagram junior door hungry second topple cover oak squeeze glow";
+var mnemonic = "range lounge knee brain hazard capable present panther cram ski bring victory";

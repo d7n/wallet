@@ -1,1 +1,1 @@
-var mnemonic = "human debate category atom image evil climb endless embody faith reason trash";
+var mnemonic = "left gorilla bless involve business borrow salon ecology grape chimney brush utility";

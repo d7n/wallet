@@ -1,1 +1,1 @@
-var mnemonic = "diary agent clip print moon fish nephew fringe sadness file silver armed";
+var mnemonic = "caution all combine smooth carbon fun embody celery mango tilt elephant trigger";

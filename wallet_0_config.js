@@ -1,1 +1,1 @@
-var mnemonic = "undo verb merit keen manual game badge supreme cake undo ride quote";
+var mnemonic = "disorder identify physical between soon earn rib area drip lake fringe fury";

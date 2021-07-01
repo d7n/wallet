@@ -1,1 +1,1 @@
-var mnemonic = "festival nation toe elbow mouse mimic bag eyebrow spike enroll pottery smart";
+var mnemonic = "mule certain tuna crash auction purity crazy punch brand walnut have genre";

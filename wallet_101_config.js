@@ -1,1 +1,1 @@
-var mnemonic = "surface wonder spring figure junk inflict elegant smooth amateur moment candy custom";
+var mnemonic = "blame memory awful boring select step guide caught present immune inform lottery";

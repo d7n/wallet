@@ -1,1 +1,1 @@
-var mnemonic = "hunt creek dinosaur maximum response slim essence make aisle mass grant thank";
+var mnemonic = "casual garage decide naive prosper attitude parent expand solar faint survey youth";

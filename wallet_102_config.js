@@ -1,1 +1,1 @@
-var mnemonic = "owner erode receive front real usage mansion board pride video staff scene";
+var mnemonic = "twice rack pig weather loop cloth clinic future dry swallow similar patch";

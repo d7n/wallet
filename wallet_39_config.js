@@ -1,1 +1,1 @@
-var mnemonic = "romance stool horse dutch company bid harvest axis dad labor cheap unusual";
+var mnemonic = "dove mule reward grocery own remind will young replace hip trade recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "bar best piano ladder divide faith answer number tool light general boy";
+var mnemonic = "truth sing siren wheel battle taxi club myth salute cigar suffer honey";

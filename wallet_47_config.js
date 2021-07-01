@@ -1,1 +1,1 @@
-var mnemonic = "bounce flower agree engine rally pen awful swap venture crowd youth hello";
+var mnemonic = "movie turn afford pride someone test twin panda govern belt entire balance";

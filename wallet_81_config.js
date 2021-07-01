@@ -1,1 +1,1 @@
-var mnemonic = "fade recycle pass gossip total venue train cigar live shrimp math pull";
+var mnemonic = "upset hero picnic energy army pony drastic distance danger chef dentist security";

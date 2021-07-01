@@ -1,1 +1,1 @@
-var mnemonic = "basic neutral title include surprise length explain ripple utility cream click similar";
+var mnemonic = "rubber beef slide raccoon swamp symbol public prize rally dry mountain edge";

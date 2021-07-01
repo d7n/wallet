@@ -1,1 +1,1 @@
-var mnemonic = "wolf enact auto slim bid garlic hurt index olive drift surge decrease";
+var mnemonic = "budget lumber mandate tumble hybrid brand ivory insane stuff mirror prison rough";

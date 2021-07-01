@@ -1,1 +1,1 @@
-var mnemonic = "clog reduce transfer sugar lucky tell question trick immune demise spoil toe";
+var mnemonic = "minute favorite way legend duty skirt chuckle beauty horse assume devote mean";

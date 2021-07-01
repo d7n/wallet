@@ -1,1 +1,1 @@
-var mnemonic = "unaware govern video toast there intact annual weird busy setup curve company";
+var mnemonic = "round tongue tenant penalty harvest creek equip bonus hurry boring whip shuffle";

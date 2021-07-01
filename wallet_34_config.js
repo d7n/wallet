@@ -1,1 +1,1 @@
-var mnemonic = "spider define tooth slot unveil permit next jealous ship daring false deal";
+var mnemonic = "grid glow require orange spawn cupboard cheap pudding pledge apology journey scheme";

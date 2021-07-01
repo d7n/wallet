@@ -1,1 +1,1 @@
-var mnemonic = "sibling boy voice steak worth make castle sadness arena soon finger original";
+var mnemonic = "virus gauge warm author faith stage siege rent wink buffalo orphan select";

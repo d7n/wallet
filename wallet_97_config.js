@@ -1,1 +1,1 @@
-var mnemonic = "board trophy keep zoo hip tribe bamboo yellow cover note atom wait";
+var mnemonic = "fade account obvious cart total size zone wink plunge level kick exhibit";

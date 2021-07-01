@@ -1,1 +1,1 @@
-var mnemonic = "small search garlic vivid park vibrant problem actual lawn lunch ill mask";
+var mnemonic = "song engine tide soccer script popular unknown team sweet winner inside fence";

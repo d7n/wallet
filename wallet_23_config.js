@@ -1,1 +1,1 @@
-var mnemonic = "demand error split raccoon boil idle fun tourist together win chapter used";
+var mnemonic = "reveal melt solid such load vivid silly problem review shop drop chunk";

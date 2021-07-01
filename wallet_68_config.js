@@ -1,1 +1,1 @@
-var mnemonic = "orphan barrel remain govern toe grow interest tuition cousin that brave atom";
+var mnemonic = "giraffe any olive else explain sport license team lottery soul glow build";

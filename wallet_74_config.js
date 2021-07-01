@@ -1,1 +1,1 @@
-var mnemonic = "mom recycle kangaroo above panic badge expose soon key deny dog since";
+var mnemonic = "vault sadness ring wire amount eager health weather life simple tortoise scare";

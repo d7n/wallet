@@ -1,1 +1,1 @@
-var mnemonic = "shy expect symptom ritual innocent release farm october party cruise derive stove";
+var mnemonic = "social length zone parade pulse steak balance wrong ability barely total such";

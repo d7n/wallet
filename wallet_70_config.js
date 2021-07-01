@@ -1,1 +1,1 @@
-var mnemonic = "hamster jacket elbow second detail february eye detect tragic evil scatter casino";
+var mnemonic = "thrive vendor time main husband grow bounce student upper toilet soul awesome";

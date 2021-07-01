@@ -1,1 +1,1 @@
-var mnemonic = "piano grain rival current spoil miss brain weird grape novel draw match";
+var mnemonic = "library cook position coconut team true assist describe captain blossom token spell";

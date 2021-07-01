@@ -1,1 +1,1 @@
-var mnemonic = "range frown cup fade sense jelly sort buyer dice inmate much near";
+var mnemonic = "rural practice glad monster tonight patch ship say daughter dad maid quantum";

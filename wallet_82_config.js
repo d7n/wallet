@@ -1,1 +1,1 @@
-var mnemonic = "churn loan assist dream carpet travel absorb nerve rival damp mushroom ticket";
+var mnemonic = "already furnace diet age banner link castle team element acquire truth feed";

@@ -1,1 +1,1 @@
-var mnemonic = "local purity eager swap door attend industry slight jealous blush innocent apart";
+var mnemonic = "armor dinner fuel day egg soft crack smoke choice run photo angle";

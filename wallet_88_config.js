@@ -1,1 +1,1 @@
-var mnemonic = "bag ladder toss dignity erode lounge benefit moment track fitness loan venture";
+var mnemonic = "muscle claw hungry narrow layer crucial style between weapon resist raw they";

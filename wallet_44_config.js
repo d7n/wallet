@@ -1,1 +1,1 @@
-var mnemonic = "mention latin large word labor term replace arctic anchor chat pond peanut";
+var mnemonic = "robust company story shed glimpse dust frequent license elegant whisper deliver survey";

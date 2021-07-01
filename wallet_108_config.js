@@ -1,1 +1,1 @@
-var mnemonic = "witness draft soup still frame math retreat inch remind must expand tone";
+var mnemonic = "then social gasp leader abstract pistol honey cloud adapt range often family";

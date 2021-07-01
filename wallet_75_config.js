@@ -1,1 +1,1 @@
-var mnemonic = "salon end slam tourist task eyebrow oppose lonely pelican entire spray noodle";
+var mnemonic = "item slam innocent mistake virtual shop reunion change misery gossip april pause";

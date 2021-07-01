@@ -1,1 +1,1 @@
-var mnemonic = "brain penalty note parrot track scare fetch stone because occur sand copper";
+var mnemonic = "rebuild shaft pave change minor space key come turkey void history danger";

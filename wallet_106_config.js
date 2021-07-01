@@ -1,1 +1,1 @@
-var mnemonic = "vacuum gossip scene miss eyebrow used sand pulse rotate few margin come";
+var mnemonic = "ladder away ill rookie trash legal problem weather squirrel all thing auto";

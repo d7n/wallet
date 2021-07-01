@@ -1,1 +1,1 @@
-var mnemonic = "fuel soap repair slow arctic length now vessel seven sort report holiday";
+var mnemonic = "hurdle virus aisle decline hub empower endless cable digital palm frame salad";

@@ -1,1 +1,1 @@
-var mnemonic = "near dinner carbon property idea you color describe fog expire erode display";
+var mnemonic = "power arrange control summer sand shoe jungle water gather abuse catalog umbrella";

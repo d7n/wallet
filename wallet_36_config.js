@@ -1,1 +1,1 @@
-var mnemonic = "left surface mother alpha you day very garage photo sphere leave consider";
+var mnemonic = "own plastic fold around upset chicken bar absurd inspire route senior trend";

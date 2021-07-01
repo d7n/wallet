@@ -1,1 +1,1 @@
-var mnemonic = "menu topic type gesture shoulder celery language surface human segment depth divert";
+var mnemonic = "profit police project describe table stamp ritual term immune next develop dance";

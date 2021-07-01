@@ -1,1 +1,1 @@
-var mnemonic = "utility list coach police help coffee nothing badge category express maple carbon";
+var mnemonic = "ozone spy erupt spatial square quit rally treat fog misery rib club";

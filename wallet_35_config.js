@@ -1,1 +1,1 @@
-var mnemonic = "round car can side eye gadget despair steak toy better term scene";
+var mnemonic = "staff brisk tornado mixed orbit print rain hedgehog census congress member head";

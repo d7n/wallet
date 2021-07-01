@@ -1,1 +1,1 @@
-var mnemonic = "begin tongue differ antenna section arrest replace setup change spoil orchard mansion";
+var mnemonic = "sword dizzy column involve exercise price sustain mom neck gun adapt tomato";

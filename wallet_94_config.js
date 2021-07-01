@@ -1,1 +1,1 @@
-var mnemonic = "sorry evil coffee hip dutch shrug hedgehog skull luggage remove want auction";
+var mnemonic = "theory kick stomach leader quarter inherit artwork scare swing clever front jaguar";

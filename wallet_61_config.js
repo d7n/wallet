@@ -1,1 +1,1 @@
-var mnemonic = "escape daring shell taxi ladder pitch dinosaur donkey chaos blame trip water";
+var mnemonic = "nothing pact grocery prefer expire sentence sign orange conduct weather early box";

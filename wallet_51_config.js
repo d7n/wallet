@@ -1,1 +1,1 @@
-var mnemonic = "olive wonder topic fruit check indoor used entire fold water budget dynamic";
+var mnemonic = "analyst acquire boring burden time domain result erode child galaxy awake doctor";

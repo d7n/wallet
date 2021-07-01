@@ -1,1 +1,1 @@
-var mnemonic = "thrive error silver sand organ arrange vehicle scout twenty dolphin easily bacon";
+var mnemonic = "same elephant traffic sense smile scheme suffer survey abstract key margin foot";

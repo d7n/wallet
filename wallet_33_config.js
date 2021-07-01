@@ -1,1 +1,1 @@
-var mnemonic = "miss amused physical output degree ocean hawk rain glass still spot potato";
+var mnemonic = "all auto sort service media door absorb repair tree tortoise wink juice";

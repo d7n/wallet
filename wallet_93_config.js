@@ -1,1 +1,1 @@
-var mnemonic = "total student recipe height easily artist buyer indicate muscle ginger whip bounce";
+var mnemonic = "auction firm angle sight foster mimic lake thumb volume route rifle vibrant";

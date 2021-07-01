@@ -1,1 +1,1 @@
-var mnemonic = "funny bus someone digital ring apart soccer humble staff human chalk easy";
+var mnemonic = "canyon tell practice often dance advice maple inherit need split mechanic ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon heart smile seminar expect undo conduct assume furnace earth promote idea";
+var mnemonic = "alarm turkey sing raccoon sand bronze verify hello plate crumble chase rubber";

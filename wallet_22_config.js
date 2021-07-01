@@ -1,1 +1,1 @@
-var mnemonic = "guilt ugly copy december exist awful fork elevator december believe claw discover";
+var mnemonic = "myth attract south nation dance step arctic case again buzz simple veteran";

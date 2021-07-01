@@ -1,1 +1,1 @@
-var mnemonic = "else bag better emerge crack tackle lady damage tool congress spray uniform";
+var mnemonic = "dragon any goddess predict chair mutual balance creek payment need velvet private";
