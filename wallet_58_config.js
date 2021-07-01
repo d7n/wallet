@@ -1,1 +1,1 @@
-var mnemonic = "world resemble spike artwork vintage army celery prosper paper boat furnace phone";
+var mnemonic = "quit capable wing describe winner large kite adapt used buyer oak general";

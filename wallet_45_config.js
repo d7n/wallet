@@ -1,1 +1,1 @@
-var mnemonic = "vehicle federal sunny skill blush result replace letter best appear eager toe";
+var mnemonic = "cross ocean dog mechanic garbage traffic jacket foot switch security connect market";

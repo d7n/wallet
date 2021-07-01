@@ -1,1 +1,1 @@
-var mnemonic = "fluid fragile document happy recipe canvas expose health swap gentle build exhibit";
+var mnemonic = "report win spell beyond involve decade green invite course ability aware wood";

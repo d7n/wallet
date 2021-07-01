@@ -1,1 +1,1 @@
-var mnemonic = "airport carpet lens orbit milk warm enlist express seat lab dish candy";
+var mnemonic = "original heart culture attend hero life decrease velvet coconut throw ecology stove";

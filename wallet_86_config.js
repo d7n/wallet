@@ -1,1 +1,1 @@
-var mnemonic = "top claw siege dress involve supply bag silk tissue extra large machine";
+var mnemonic = "grit toss near eager olympic unknown just section rotate prison major receive";

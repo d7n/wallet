@@ -1,1 +1,1 @@
-var mnemonic = "tip chase despair devote damp tube car glare present vendor abstract whisper";
+var mnemonic = "negative plate repair child fever company fork trigger large shed digital struggle";

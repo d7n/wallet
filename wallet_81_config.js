@@ -1,1 +1,1 @@
-var mnemonic = "offer fiction hand hand off load junk cannon problem inflict useful urge";
+var mnemonic = "act skull aerobic marble more slim love december ordinary bargain donkey relax";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair runway soft require common link rescue pull flush cool holiday sound";
+var mnemonic = "settle key book history dance resemble hockey history doctor ride misery palm";

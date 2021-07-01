@@ -1,1 +1,1 @@
-var mnemonic = "panel dial stamp region skull carry disorder pave orient tell foot talent";
+var mnemonic = "quantum dove powder north burst daughter usage consider window misery mule oyster";

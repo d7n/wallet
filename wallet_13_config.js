@@ -1,1 +1,1 @@
-var mnemonic = "razor razor fatigue mistake capable east thunder grab sound grit act apple";
+var mnemonic = "waste loyal grocery enough effort prize fancy popular absent stool metal hazard";

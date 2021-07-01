@@ -1,1 +1,1 @@
-var mnemonic = "dismiss slide calm casino biology soup tank cave school improve cabbage tag";
+var mnemonic = "stable circle swim ginger phrase arrive wrestle online tackle squirrel pony panther";

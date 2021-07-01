@@ -1,1 +1,1 @@
-var mnemonic = "once sister electric section remind this garlic oyster belt affair pave skirt";
+var mnemonic = "system lamp capable baby arm open siren party retire soap cram rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "grid become real tide atom aisle gaze nest senior panel open nuclear";
+var mnemonic = "cube unlock second human dutch warrior before pole side must napkin impose";

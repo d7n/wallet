@@ -1,1 +1,1 @@
-var mnemonic = "equip vendor swim glimpse ribbon border tackle front knock project harbor turtle";
+var mnemonic = "field hole coach mother ring drive sketch purity elite air kitten embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "famous grief foot tag bench fee pulp rapid symptom length define blouse";
+var mnemonic = "athlete among release swift cool area sheriff jaguar episode reward apart crane";

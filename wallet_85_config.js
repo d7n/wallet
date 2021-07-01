@@ -1,1 +1,1 @@
-var mnemonic = "celery today alley price broom vague cat fix depend buyer sing buzz";
+var mnemonic = "reunion repair mix victory end cactus toddler zoo quote excite pyramid relax";

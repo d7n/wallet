@@ -1,1 +1,1 @@
-var mnemonic = "unhappy spin scan shell behave hawk scrap head apart order whale super";
+var mnemonic = "vendor develop network hat medal old bless major fish taxi orchard rescue";

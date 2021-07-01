@@ -1,1 +1,1 @@
-var mnemonic = "inject twelve table gossip innocent aerobic velvet child margin loyal budget parrot";
+var mnemonic = "will mosquito morning true midnight track raw bomb bamboo thunder cake slight";

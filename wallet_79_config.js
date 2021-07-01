@@ -1,1 +1,1 @@
-var mnemonic = "pepper lonely debate august truly mixture exchange alone foot neglect arch copy";
+var mnemonic = "spray pact candy under cram where wise grass small stand royal laugh";

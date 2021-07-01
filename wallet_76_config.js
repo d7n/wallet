@@ -1,1 +1,1 @@
-var mnemonic = "winner celery arm finger muffin manage bridge nominee express fan swim festival";
+var mnemonic = "glove kingdom corn tilt gap series banner oppose sad stadium fork post";

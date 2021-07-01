@@ -1,1 +1,1 @@
-var mnemonic = "awful sting shoe slice fade bus uniform sick verify loyal verify power";
+var mnemonic = "then behind biology resource leisure refuse foam day emotion pill uncle kick";

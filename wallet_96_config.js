@@ -1,1 +1,1 @@
-var mnemonic = "jungle cat design beauty razor tiger rotate weird dinosaur add squirrel recipe";
+var mnemonic = "hybrid rifle plug pumpkin tragic mushroom wait invite shift expire satoshi suit";

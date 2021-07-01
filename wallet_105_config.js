@@ -1,1 +1,1 @@
-var mnemonic = "transfer mountain radar undo awful same butter warfare puppy civil salad labor";
+var mnemonic = "fence rib method basic person suffer push gadget burst friend recycle science";

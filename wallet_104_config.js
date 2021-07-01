@@ -1,1 +1,1 @@
-var mnemonic = "bundle burden imitate choose fabric insect settle cycle piano lyrics guide bargain";
+var mnemonic = "argue mesh leg album about wise open crop tent void wall collect";

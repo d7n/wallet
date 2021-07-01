@@ -1,1 +1,1 @@
-var mnemonic = "news uncle autumn rib demise deposit injury double believe wrestle all gap";
+var mnemonic = "hire history barely isolate panther mean pill power cage flash accuse dust";

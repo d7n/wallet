@@ -1,1 +1,1 @@
-var mnemonic = "advice finish seat alley busy escape dust scene marine curious among brain";
+var mnemonic = "pumpkin surface skull mean used consider juice night race sister armed era";

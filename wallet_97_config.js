@@ -1,1 +1,1 @@
-var mnemonic = "quarter organ parrot success embark indoor lava steel issue nuclear ready differ";
+var mnemonic = "mechanic renew indicate donate laugh lens poet shrug obey teach dish hungry";

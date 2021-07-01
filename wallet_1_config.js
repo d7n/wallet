@@ -1,1 +1,1 @@
-var mnemonic = "aunt wealth protect spare lesson frozen globe couch gauge quarter pencil remind";
+var mnemonic = "zero peace verb review parade plug cabin height unveil unaware youth peanut";

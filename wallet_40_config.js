@@ -1,1 +1,1 @@
-var mnemonic = "make define prize floor unfold farm spoil poem open female ribbon another";
+var mnemonic = "monitor soul love casino student loan few hood wide nice intact speed";

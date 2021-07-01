@@ -1,1 +1,1 @@
-var mnemonic = "lamp churn ready inside liar double abandon end enrich switch raccoon off";
+var mnemonic = "acquire random pull define midnight token easily adapt assault cactus drive purse";

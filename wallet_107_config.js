@@ -1,1 +1,1 @@
-var mnemonic = "giant weasel trip obtain marriage motion mom nature crunch ball acoustic advance";
+var mnemonic = "stereo catalog execute example kidney depend autumn flock monitor jar maid blossom";

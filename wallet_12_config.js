@@ -1,1 +1,1 @@
-var mnemonic = "crunch brief type fit flight elder weekend knife barely food number absent";
+var mnemonic = "urban equip reveal behave social mix desert cash suspect success snake shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "weather benefit eye library also feel hard sketch pitch hand update fun";
+var mnemonic = "upgrade minimum smart warfare term first magnet present blast kit bottom shield";

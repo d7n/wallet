@@ -1,1 +1,1 @@
-var mnemonic = "science hold spring poem nuclear nephew solve recipe cabbage soda mango desert";
+var mnemonic = "flock endorse install life sister core laugh funny consider real eight satisfy";

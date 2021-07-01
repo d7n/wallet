@@ -1,1 +1,1 @@
-var mnemonic = "rib evoke pioneer video lens front apology hill giraffe manage spring sick";
+var mnemonic = "slogan orphan pause burger vehicle bird pool clown panther weapon orphan leave";

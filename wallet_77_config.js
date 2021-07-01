@@ -1,1 +1,1 @@
-var mnemonic = "walk wonder pupil peasant shuffle embark coil grain time noodle provide deposit";
+var mnemonic = "tray refuse coyote vapor farm oblige stove focus badge parrot knife inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "unique tip celery kingdom awkward hold aunt slogan hair marine champion student";
+var mnemonic = "differ letter pupil stick tail ozone twelve extend oil hospital wall coconut";

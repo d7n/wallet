@@ -1,1 +1,1 @@
-var mnemonic = "super offer wrist such distance response cart pattern together assault multiply kidney";
+var mnemonic = "young gadget barely boss ski south quiz portion pitch canvas sort asset";

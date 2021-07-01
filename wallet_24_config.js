@@ -1,1 +1,1 @@
-var mnemonic = "celery paper paddle chief describe below expire wrist busy great bridge submit";
+var mnemonic = "saddle peasant leaf dumb legal will paper fashion vapor insane barrel wasp";

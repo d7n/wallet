@@ -1,1 +1,1 @@
-var mnemonic = "apple yard wasp develop broom hamster dust grape cook mixed space pipe";
+var mnemonic = "strong puzzle festival inner novel kingdom fuel vintage language advance erosion private";

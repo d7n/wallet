@@ -1,1 +1,1 @@
-var mnemonic = "off tank siege broken obtain ring birth input parrot void frost install";
+var mnemonic = "match wild vital plastic scorpion dentist cannon curtain trick own foster season";

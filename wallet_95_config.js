@@ -1,1 +1,1 @@
-var mnemonic = "echo near come smart morning leaf kangaroo need outdoor female penalty infant";
+var mnemonic = "situate pulse kit wait resource height mystery net audit squeeze system network";

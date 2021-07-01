@@ -1,1 +1,1 @@
-var mnemonic = "cool tragic lift lunar alley wish salon pottery scrub large culture near";
+var mnemonic = "lab column enrich bone action pattern afford open brass chaos betray daughter";

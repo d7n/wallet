@@ -1,1 +1,1 @@
-var mnemonic = "alley lion bus visa mad rigid usual dragon junior pudding enact limit";
+var mnemonic = "vacant stem final empower country visual excuse immense filter force carry private";

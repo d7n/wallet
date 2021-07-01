@@ -1,1 +1,1 @@
-var mnemonic = "oven lesson embark machine water snow mystery hospital afford glare wreck pattern";
+var mnemonic = "praise slender select strike exotic tell cereal scrap kid olive glory clever";

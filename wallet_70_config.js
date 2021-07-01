@@ -1,1 +1,1 @@
-var mnemonic = "path morning avoid lunar glad more poem unable type decrease heart shrug";
+var mnemonic = "bomb isolate praise refuse account sponsor bubble brisk obvious giraffe perfect scissors";

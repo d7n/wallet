@@ -1,1 +1,1 @@
-var mnemonic = "divide cute loyal gain bleak elbow decline panther cloth hire grant pudding";
+var mnemonic = "teach fetch else speak draft century cloud better blouse slab relax make";

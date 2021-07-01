@@ -1,1 +1,1 @@
-var mnemonic = "panel brain version mosquito kidney lemon anxiety seek used scrap stone later";
+var mnemonic = "enroll aware what real buddy replace blush muscle poet capable supply hole";

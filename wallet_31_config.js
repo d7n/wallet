@@ -1,1 +1,1 @@
-var mnemonic = "fiber street tenant uniform chronic upgrade avocado doll hundred solution brown print";
+var mnemonic = "way buddy dish wave rent wrong marble outdoor patrol exhaust title dial";

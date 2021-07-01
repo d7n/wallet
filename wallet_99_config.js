@@ -1,1 +1,1 @@
-var mnemonic = "canoe round notable brush civil used opinion own prison easily open similar";
+var mnemonic = "system manual enable student moral rally rude beauty roof squeeze dream mountain";

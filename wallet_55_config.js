@@ -1,1 +1,1 @@
-var mnemonic = "invite nerve text measure elite put near finish onion soft dilemma display";
+var mnemonic = "barely update pause hope west across orchard mountain argue across baby merit";

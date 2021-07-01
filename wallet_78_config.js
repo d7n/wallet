@@ -1,1 +1,1 @@
-var mnemonic = "outside lamp long pen source arch boring chase record cat hole dash";
+var mnemonic = "joke used tiger fuel orient hollow mix fall inner maid wasp ask";

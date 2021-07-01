@@ -1,1 +1,1 @@
-var mnemonic = "book market alcohol input tower equal armed panel people shock style card";
+var mnemonic = "fringe bicycle print employ pulse market other view entire define keep kingdom";

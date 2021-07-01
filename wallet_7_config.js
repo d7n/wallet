@@ -1,1 +1,1 @@
-var mnemonic = "acid hawk artist merit orphan muscle work model foam awake arm music";
+var mnemonic = "gain can post auction little use initial portion still stem neglect push";

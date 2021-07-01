@@ -1,1 +1,1 @@
-var mnemonic = "burger pulp minimum defense web soda believe arrange stamp tragic party odor";
+var mnemonic = "vicious verb practice habit leaf add junior monitor flush sister opinion elevator";

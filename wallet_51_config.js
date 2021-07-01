@@ -1,1 +1,1 @@
-var mnemonic = "kitchen road special elegant profit surge detail sibling rocket genre argue hero";
+var mnemonic = "dignity veteran sight clock position echo usage repeat evolve alien close lecture";

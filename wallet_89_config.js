@@ -1,1 +1,1 @@
-var mnemonic = "spoil behave pause lonely vicious clap april rhythm fox kitten cream history";
+var mnemonic = "small giraffe shy toast void order bracket answer photo release elevator all";

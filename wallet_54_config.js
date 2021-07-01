@@ -1,1 +1,1 @@
-var mnemonic = "decrease fly melt labor stadium once celery cause artwork video ask strong";
+var mnemonic = "spirit name addict guess water pluck board verify barely cube depth wife";

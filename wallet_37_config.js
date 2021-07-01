@@ -1,1 +1,1 @@
-var mnemonic = "water cinnamon mountain march space cargo runway salon model lottery warfare design";
+var mnemonic = "plunge museum often teach weasel stay card police unable surprise thing modify";

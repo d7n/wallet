@@ -1,1 +1,1 @@
-var mnemonic = "job step bleak expand junk three aware estate usage piano trigger envelope";
+var mnemonic = "cup traffic brain basic session trend half harvest cradle column tongue coconut";

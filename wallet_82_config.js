@@ -1,1 +1,1 @@
-var mnemonic = "hat extra lab alley offer episode board mechanic quarter secret hello various";
+var mnemonic = "method sun embody oval rent vital canal letter spy squirrel media brother";

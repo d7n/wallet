@@ -1,1 +1,1 @@
-var mnemonic = "apology royal book seed crash material agree hundred rack fashion section slow";
+var mnemonic = "furnace foil select picture enlist become real disorder stadium flower bleak token";

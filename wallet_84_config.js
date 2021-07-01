@@ -1,1 +1,1 @@
-var mnemonic = "leaf salute venture slush potato tomato breeze farm panda frown another spirit";
+var mnemonic = "obvious rib arrange duty mother region border action noble curve network shuffle";

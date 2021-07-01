@@ -1,1 +1,1 @@
-var mnemonic = "frog lion edit any penalty spice moral state depart enroll cheap leisure";
+var mnemonic = "program reward paper radar follow renew degree dizzy modify order cause sketch";

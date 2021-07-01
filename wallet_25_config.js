@@ -1,1 +1,1 @@
-var mnemonic = "detect check sea gather elephant toe pupil develop oyster muscle gorilla obscure";
+var mnemonic = "club assist anchor battle uniform hip guess half liar sign bid badge";

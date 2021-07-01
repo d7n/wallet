@@ -1,1 +1,1 @@
-var mnemonic = "chair stomach dinosaur nominee combine render mad brother clock assist arrive asset";
+var mnemonic = "minute trigger teach shed ladder air nasty act exclude huge buddy leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "mango camera margin mosquito april mom shaft buffalo awake club fringe also";
+var mnemonic = "share color assault metal blade gym sudden senior rotate rabbit shoulder garage";

@@ -1,1 +1,1 @@
-var mnemonic = "misery begin cousin rice thought reunion ostrich ribbon spirit ribbon holiday vehicle";
+var mnemonic = "pill hello error term myth comfort glove chat hill inhale success awkward";

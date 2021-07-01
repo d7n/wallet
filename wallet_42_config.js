@@ -1,1 +1,1 @@
-var mnemonic = "siege share flame bean unfold carpet vehicle then dentist miss glow fork";
+var mnemonic = "crime craft purity option identify inhale power immense blood thumb photo double";

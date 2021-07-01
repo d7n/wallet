@@ -1,1 +1,1 @@
-var mnemonic = "picnic another entry monitor suit raven city shoot ill corn exact glimpse";
+var mnemonic = "payment embrace quarter random defense junk divorce erase october choose same clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "habit bean climb naive poem cave cliff rubber first music good palace";
+var mnemonic = "ring sniff conduct cross entire into salt olive okay supply traffic regular";

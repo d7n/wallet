@@ -1,1 +1,1 @@
-var mnemonic = "creek flip valley rely measure say try social seek immense off daring";
+var mnemonic = "swift mandate viable leaf dry absurd donkey tattoo theory glass squeeze oyster";

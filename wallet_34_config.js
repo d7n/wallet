@@ -1,1 +1,1 @@
-var mnemonic = "job spike attend awesome awkward reopen few expect random season cloth barely";
+var mnemonic = "change keep tunnel switch moon limb cream noodle negative year punch sad";

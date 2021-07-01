@@ -1,1 +1,1 @@
-var mnemonic = "example father curious bitter flag offer spike fatal expose make trigger flock";
+var mnemonic = "purpose mobile despair bicycle bleak neither jacket prevent assault mask hungry become";

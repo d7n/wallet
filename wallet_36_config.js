@@ -1,1 +1,1 @@
-var mnemonic = "ivory market castle scissors hour where achieve acoustic gift jaguar chef walk";
+var mnemonic = "proof alien razor sunset wealth farm raven glide crisp transfer aim dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "father such father find access source deliver oblige lazy couple this drip";
+var mnemonic = "slab poverty one unit view earth general bulb once spirit lesson banana";

@@ -1,1 +1,1 @@
-var mnemonic = "voice century camp flavor execute gown rate canyon sport alert doll fringe";
+var mnemonic = "pipe pass gorilla surprise master jealous venture spin shy horror evil pill";

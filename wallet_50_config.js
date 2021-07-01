@@ -1,1 +1,1 @@
-var mnemonic = "category canvas royal tissue eight draw august olive release awesome culture faith";
+var mnemonic = "zebra toddler electric happy crisp slot flock pipe indoor whale tourist machine";

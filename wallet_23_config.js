@@ -1,1 +1,1 @@
-var mnemonic = "sun area maze tobacco will flavor machine tourist disorder drastic cash upon";
+var mnemonic = "owner mean swamp pumpkin salad reduce enroll suggest cactus alert evil pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "drive either outdoor page steel tilt fold seek level sleep suffer quit";
+var mnemonic = "used sister gap alarm sense tree buzz injury minor shoot cry census";

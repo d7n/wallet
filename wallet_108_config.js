@@ -1,1 +1,1 @@
-var mnemonic = "near inner vendor virus library mean federal hunt gain sketch lesson town";
+var mnemonic = "shine range honey hello property hurry blame yellow enough romance sustain august";

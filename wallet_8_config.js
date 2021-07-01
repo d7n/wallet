@@ -1,1 +1,1 @@
-var mnemonic = "abuse brother color sword note swap pool business airport slender talk ancient";
+var mnemonic = "term finish install cross velvet release narrow misery wheat soldier tissue earth";

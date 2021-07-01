@@ -1,1 +1,1 @@
-var mnemonic = "tissue embody know jump minimum raw then adjust vendor enter caution series";
+var mnemonic = "bean erupt cliff because risk taxi arch company box settle fantasy exercise";

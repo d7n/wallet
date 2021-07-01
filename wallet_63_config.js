@@ -1,1 +1,1 @@
-var mnemonic = "vessel purpose reject tonight judge squirrel license general village repair draw glue";
+var mnemonic = "half repair they accuse slam pill mom engine verify average topic lawsuit";

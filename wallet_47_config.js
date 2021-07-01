@@ -1,1 +1,1 @@
-var mnemonic = "bridge shine dry famous path mass prosper chest apology travel real primary";
+var mnemonic = "ancient round prepare calm only film valve champion fortune fuel runway blue";

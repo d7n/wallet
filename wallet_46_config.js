@@ -1,1 +1,1 @@
-var mnemonic = "fame vocal narrow comfort dynamic arrive video wear town vault rhythm round";
+var mnemonic = "bright timber lady risk silver slush gold upon father like prison donkey";

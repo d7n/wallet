@@ -1,1 +1,1 @@
-var mnemonic = "hotel farm rose come unique faculty diary lecture renew crawl spread inch";
+var mnemonic = "wing bicycle miracle wave casual acquire dish believe east blade appear team";

@@ -1,1 +1,1 @@
-var mnemonic = "include initial document business hospital screen neck sun marine shaft knife what";
+var mnemonic = "trick decrease vault oak push exotic deer tomorrow provide animal wedding trim";

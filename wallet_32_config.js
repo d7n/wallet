@@ -1,1 +1,1 @@
-var mnemonic = "enlist stay confirm ready include aisle stem govern vote main sniff hover";
+var mnemonic = "hub girl dish cart cabin muffin royal upper rather motion damp mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "chase card awkward borrow carbon skin damp security leader type label august";
+var mnemonic = "vicious inherit seek valid divide chalk general armed tube exile chest patient";

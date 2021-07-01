@@ -1,1 +1,1 @@
-var mnemonic = "night visa flame broom basic traffic pulse kidney symptom noise flush weather";
+var mnemonic = "local thought believe pigeon tide coral focus harvest casual company cave echo";

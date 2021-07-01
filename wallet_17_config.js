@@ -1,1 +1,1 @@
-var mnemonic = "tenant air burden coil boost proof rigid antique swift quiz soup cable";
+var mnemonic = "kiwi skate laugh tuition judge hold east matter because flip police cup";

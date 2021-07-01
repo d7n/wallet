@@ -1,1 +1,1 @@
-var mnemonic = "mistake top guilt ticket world sense party jar ride nest draw close";
+var mnemonic = "achieve liquid input grass hover sword friend accuse swamp much another enjoy";

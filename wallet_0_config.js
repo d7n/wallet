@@ -1,1 +1,1 @@
-var mnemonic = "weather hero luxury text one element stock dog benefit huge plunge company";
+var mnemonic = "taxi prosper interest spike season label party base vote power dance great";
