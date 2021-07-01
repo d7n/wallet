@@ -1,1 +1,1 @@
-var mnemonic = "april foam round path install public fold drink giraffe blame noble olive";
+var mnemonic = "riot argue fashion broom marriage will robust prison robot weasel story fly";

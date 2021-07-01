@@ -1,1 +1,1 @@
-var mnemonic = "dove gossip response meat because message grocery inch system disorder cart month";
+var mnemonic = "bulk present lawn unlock fish siege affair license case owner attend panda";

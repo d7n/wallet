@@ -1,1 +1,1 @@
-var mnemonic = "badge swift kit pill pen team weekend social dawn science off police";
+var mnemonic = "october frequent canyon exhibit tray leave year split end monitor holiday actor";

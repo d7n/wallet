@@ -1,1 +1,1 @@
-var mnemonic = "when crew inspire vague smooth sport thunder update cherry mechanic casual donor";
+var mnemonic = "wine total height buffalo series harsh mask emotion use clog obey trend";

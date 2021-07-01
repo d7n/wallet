@@ -1,1 +1,1 @@
-var mnemonic = "boss fossil intact leg oak cannon inquiry mix toilet spring boost top";
+var mnemonic = "focus home viable item vote next hurdle speed lend swift among connect";

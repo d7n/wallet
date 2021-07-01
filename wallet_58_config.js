@@ -1,1 +1,1 @@
-var mnemonic = "oak cricket joke media tuition drive unfold flip impulse lazy knock stuff";
+var mnemonic = "nephew flock run pulp useless ghost vapor razor uncle wrestle sand guitar";

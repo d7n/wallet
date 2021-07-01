@@ -1,1 +1,1 @@
-var mnemonic = "infant almost oppose phrase cabin sad annual blouse front goat payment blur";
+var mnemonic = "faith pledge unusual meat bronze please cactus man argue citizen gaze vacuum";

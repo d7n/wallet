@@ -1,1 +1,1 @@
-var mnemonic = "pool say sadness eager solar market frost teach insane cruise spin ahead";
+var mnemonic = "kick orbit dumb game either cry gadget mistake vessel burger walnut soap";

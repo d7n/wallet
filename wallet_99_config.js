@@ -1,1 +1,1 @@
-var mnemonic = "weapon agent convince zero lonely young confirm trick wink maze onion month";
+var mnemonic = "guilt tattoo provide manage board ranch lunar stage ethics fortune save already";

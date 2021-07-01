@@ -1,1 +1,1 @@
-var mnemonic = "chronic illness vote problem example subject mother pepper fog fashion inch tank";
+var mnemonic = "brave royal raise faint code next stadium warfare immense tower convince milk";

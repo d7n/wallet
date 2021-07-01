@@ -1,1 +1,1 @@
-var mnemonic = "tonight unique column door talent until eagle camera manual marriage oyster like";
+var mnemonic = "arch mechanic excite island ramp file calm skirt shove anxiety tilt route";

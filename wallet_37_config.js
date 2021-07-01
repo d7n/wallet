@@ -1,1 +1,1 @@
-var mnemonic = "exclude kitten garbage demise work estate shadow dial silk inhale cotton cook";
+var mnemonic = "rough embark distance divert fiscal tree galaxy side absurd vanish lemon together";

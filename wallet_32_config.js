@@ -1,1 +1,1 @@
-var mnemonic = "fame draft verb pledge produce black rural dizzy enough maple because bulk";
+var mnemonic = "tunnel dynamic smart intact upgrade duty wheat grunt craft great car bracket";

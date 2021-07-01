@@ -1,1 +1,1 @@
-var mnemonic = "gasp prefer suffer kangaroo horror dust track keen present sell boat embody";
+var mnemonic = "mango joke trip blame soul harbor impulse green aunt program ripple assume";

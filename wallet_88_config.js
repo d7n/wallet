@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur mix casino supreme enjoy chair little reunion about symbol matrix version";
+var mnemonic = "uncover tool intact scrap spell team garlic dad job dash auction delay";

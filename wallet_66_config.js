@@ -1,1 +1,1 @@
-var mnemonic = "shuffle deer theory proud because erode bag advice shaft cabbage prosper eagle";
+var mnemonic = "interest smart forum birth world author endorse tuition argue minor cinnamon off";

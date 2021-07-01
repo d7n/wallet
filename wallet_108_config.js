@@ -1,1 +1,1 @@
-var mnemonic = "curious gorilla inmate multiply wheel ceiling reject retreat once cycle demand biology";
+var mnemonic = "aspect involve laugh slice quick damage sauce flavor embody dune party culture";

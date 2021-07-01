@@ -1,1 +1,1 @@
-var mnemonic = "slow pyramid west pitch clock force property nose velvet extra satoshi assault";
+var mnemonic = "often term subject peanut push letter mountain believe pepper weird illness globe";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair any member depth marble flip deposit chuckle clutch certain despair double";
+var mnemonic = "replace open throw anxiety uncle scheme medal half imitate nature say planet";

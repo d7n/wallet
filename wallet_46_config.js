@@ -1,1 +1,1 @@
-var mnemonic = "magnet napkin busy token farm excite favorite family taste fatigue elephant blast";
+var mnemonic = "subway ripple wisdom drive pear neither hungry fetch dizzy disorder hood door";

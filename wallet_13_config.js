@@ -1,1 +1,1 @@
-var mnemonic = "extend assist sauce chef panic drill hawk trigger battle trip match duty";
+var mnemonic = "pencil sentence vanish mind tape man humor kitten caution pepper prepare document";

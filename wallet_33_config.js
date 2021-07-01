@@ -1,1 +1,1 @@
-var mnemonic = "mirror author drop ramp student web copper elevator swarm viable weather define";
+var mnemonic = "squirrel runway render pluck snake detail grunt turkey mosquito flee suit hover";

@@ -1,1 +1,1 @@
-var mnemonic = "edit evidence occur tunnel achieve favorite runway hurt movie six casino describe";
+var mnemonic = "wrestle creek flush sad wrap recycle mandate squeeze omit purity member cluster";

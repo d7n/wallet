@@ -1,1 +1,1 @@
-var mnemonic = "absent permit analyst crash discover modify truck field scrap burst hold key";
+var mnemonic = "main usual song squeeze vault dove mansion cake case nephew sister stairs";

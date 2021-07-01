@@ -1,1 +1,1 @@
-var mnemonic = "machine steak amused follow coyote air human vintage one riot gravity resource";
+var mnemonic = "brief lobster spider gravity medal twice valve aware magic universe space priority";

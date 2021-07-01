@@ -1,1 +1,1 @@
-var mnemonic = "auto wonder over sword absurd strike damp bomb divorce tortoise quality afraid";
+var mnemonic = "come seed brass smile debris lend learn major bone foam month draft";

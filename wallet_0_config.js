@@ -1,1 +1,1 @@
-var mnemonic = "wage fat rent gospel margin seed buffalo solve hand large crawl master";
+var mnemonic = "delay copy knee scheme slam renew remain spawn tired legend iron shiver";

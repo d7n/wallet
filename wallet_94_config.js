@@ -1,1 +1,1 @@
-var mnemonic = "coconut whisper fruit square type dragon label common wet sell curious whale";
+var mnemonic = "deal faculty police plastic midnight bright chat hint solid clip teach vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "account bind echo belt sauce basket transfer language cat town connect recycle";
+var mnemonic = "planet scissors power atom next bless case demand coil return other hurdle";

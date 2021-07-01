@@ -1,1 +1,1 @@
-var mnemonic = "garage bag aware chief caught siege avoid ahead cup attend pottery thunder";
+var mnemonic = "increase victory receive census check tool brother rebel kangaroo kit ensure throw";

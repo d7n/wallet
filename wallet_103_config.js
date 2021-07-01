@@ -1,1 +1,1 @@
-var mnemonic = "liar song slim chunk mimic impact adult hunt umbrella assault van blade";
+var mnemonic = "truth sing neglect poverty minor corn glass debris athlete stage fatigue valid";

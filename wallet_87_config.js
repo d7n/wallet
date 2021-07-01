@@ -1,1 +1,1 @@
-var mnemonic = "program lake shock card crater wasp direct educate click use promote reopen";
+var mnemonic = "forum element moon patrol actor flame young able pyramid runway cancel boil";

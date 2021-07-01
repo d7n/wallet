@@ -1,1 +1,1 @@
-var mnemonic = "push festival unknown frost wonder tonight husband spin quick own slim boost";
+var mnemonic = "spice six farm degree service candy oxygen sponsor shrimp follow skate clay";

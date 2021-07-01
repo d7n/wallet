@@ -1,1 +1,1 @@
-var mnemonic = "swallow conduct bubble cute goose cable ill below trouble session weekend long";
+var mnemonic = "race gain weasel juice island reopen train hundred level theme depend flower";

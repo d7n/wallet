@@ -1,1 +1,1 @@
-var mnemonic = "wage raven breeze thunder reduce indicate way diet meadow lady thought pen";
+var mnemonic = "alarm tongue wear produce leaf inmate ladder sign marble animal model large";

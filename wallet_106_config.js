@@ -1,1 +1,1 @@
-var mnemonic = "east frame daring parent bus destroy elephant must abandon exercise price aware";
+var mnemonic = "orchard damp venue middle salad echo gasp mosquito fancy black render alone";

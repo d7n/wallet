@@ -1,1 +1,1 @@
-var mnemonic = "industry issue parade iron ensure thumb nephew edge mystery valley reflect major";
+var mnemonic = "decorate fan card office undo comfort opinion light between public often glory";

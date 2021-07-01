@@ -1,1 +1,1 @@
-var mnemonic = "cheap sight warm pudding state few twice wagon thrive away stay sunset";
+var mnemonic = "forest decline sleep mother caution acid twenty cabin judge walk talent bag";

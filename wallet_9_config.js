@@ -1,1 +1,1 @@
-var mnemonic = "valve trade green hover autumn raw alley island tube ramp giant van";
+var mnemonic = "jealous refuse suit hover company salute wire hawk strategy spice happy person";

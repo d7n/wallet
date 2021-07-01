@@ -1,1 +1,1 @@
-var mnemonic = "again amateur erase submit van foster seven doctor monitor tribe flag sea";
+var mnemonic = "trim silk defy frost nerve pledge renew ivory viable attend shed usage";

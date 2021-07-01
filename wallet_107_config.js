@@ -1,1 +1,1 @@
-var mnemonic = "rigid tuna worry arm mutual grid problem season anxiety range thank retire";
+var mnemonic = "engine grab kit work repair cargo apple warm winter shift mass glow";

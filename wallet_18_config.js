@@ -1,1 +1,1 @@
-var mnemonic = "dog bomb snake knock ordinary layer taste settle shift sister ripple shoulder";
+var mnemonic = "swap theme soda tip figure bracket element series frost solid famous blanket";

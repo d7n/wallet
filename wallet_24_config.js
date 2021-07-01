@@ -1,1 +1,1 @@
-var mnemonic = "target memory offer suggest second night junk load pen perfect away need";
+var mnemonic = "theme develop become insane animal disease umbrella taxi unit bronze giggle recycle";

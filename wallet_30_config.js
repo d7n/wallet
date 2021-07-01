@@ -1,1 +1,1 @@
-var mnemonic = "super scene left gown chapter paddle used image apology latin door pull";
+var mnemonic = "slender finish clown glow elegant grain broom find grant direct dismiss play";

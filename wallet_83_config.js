@@ -1,1 +1,1 @@
-var mnemonic = "heart lady middle poem awake seed tank now door until shiver budget";
+var mnemonic = "vendor visual chapter during quick solid rigid grab problem flock pilot credit";

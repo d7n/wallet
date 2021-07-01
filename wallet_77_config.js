@@ -1,1 +1,1 @@
-var mnemonic = "reopen disorder bitter help wash celery brisk point tennis announce culture knee";
+var mnemonic = "merge curious crowd page replace state time grunt pepper royal render sniff";

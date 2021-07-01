@@ -1,1 +1,1 @@
-var mnemonic = "point interest song column current invite biology tourist gadget century insane coyote";
+var mnemonic = "choice polar loan rather often zoo bulk enrich rude hospital curve coin";

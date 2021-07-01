@@ -1,1 +1,1 @@
-var mnemonic = "attack clown boost frequent satisfy document future leaf alarm public know siege";
+var mnemonic = "parrot time often shaft relief miracle garage actual jar garden trigger absurd";

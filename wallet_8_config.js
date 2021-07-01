@@ -1,1 +1,1 @@
-var mnemonic = "oval detect word pig rescue travel large scheme pair patrol trophy matter";
+var mnemonic = "slim toast virtual nuclear twice other scale awful useless wage giggle system";

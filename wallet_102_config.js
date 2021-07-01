@@ -1,1 +1,1 @@
-var mnemonic = "drip happy ceiling column exist crew border heart tornado short inject idle";
+var mnemonic = "decrease arctic deny brother steak fog half bamboo stand curtain green wife";

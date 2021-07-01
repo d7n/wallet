@@ -1,1 +1,1 @@
-var mnemonic = "miss stool common face unique swear run flavor super diagram clip melt";
+var mnemonic = "profit gaze castle online napkin kiss jaguar motion series spy type step";

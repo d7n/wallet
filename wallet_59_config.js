@@ -1,1 +1,1 @@
-var mnemonic = "phrase melt smooth analyst toe coin hood time menu laugh answer embody";
+var mnemonic = "kiss wrap ordinary clog alert unlock pizza hero note remind office desk";

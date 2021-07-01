@@ -1,1 +1,1 @@
-var mnemonic = "know impulse clock silk penalty long fury dinner ivory toe unknown rotate";
+var mnemonic = "twist crane museum minute wash clay menu scrap unknown motion solution spring";

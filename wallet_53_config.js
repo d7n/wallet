@@ -1,1 +1,1 @@
-var mnemonic = "parent bundle jewel cricket brave real say object century wool nation display";
+var mnemonic = "unique siren cereal weekend panther hurdle tonight hub enlist margin puzzle theme";

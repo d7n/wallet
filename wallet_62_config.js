@@ -1,1 +1,1 @@
-var mnemonic = "maze absent amused bottom pattern assault brave wall master twenty firm ostrich";
+var mnemonic = "install flight option keen exile random foam shove useless food present logic";

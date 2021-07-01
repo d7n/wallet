@@ -1,1 +1,1 @@
-var mnemonic = "damp key dream crystal fabric error song obvious able race stadium truth";
+var mnemonic = "quit fringe cash say novel boil transfer cereal goose fence kiwi secret";

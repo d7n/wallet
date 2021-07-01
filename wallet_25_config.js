@@ -1,1 +1,1 @@
-var mnemonic = "faculty song gauge tenant blame gift book august ranch midnight hobby portion";
+var mnemonic = "warfare element leader retire famous about okay grid dismiss bulk brisk awake";

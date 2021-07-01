@@ -1,1 +1,1 @@
-var mnemonic = "food fish basic exit slogan include attitude mad tongue supply offer dragon";
+var mnemonic = "about destroy vague rookie that venture crumble grant hip drill steel define";

@@ -1,1 +1,1 @@
-var mnemonic = "slide merit where aisle leaf urge happy crack kid wolf liberty jaguar";
+var mnemonic = "urban urban veteran solve smoke illegal wrist horse sentence pave unknown swear";

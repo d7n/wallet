@@ -1,1 +1,1 @@
-var mnemonic = "census door purity travel inner program unfair original employ lamp grass render";
+var mnemonic = "olympic prize alarm mask enter apart autumn pass romance motor mobile gain";

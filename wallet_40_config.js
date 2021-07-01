@@ -1,1 +1,1 @@
-var mnemonic = "finish city lunar liar raw kick river praise wise tongue wisdom vote";
+var mnemonic = "veteran wolf nose flock daughter source junk daughter prevent trophy six then";

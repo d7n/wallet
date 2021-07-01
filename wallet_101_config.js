@@ -1,1 +1,1 @@
-var mnemonic = "luxury unknown leader note head autumn soap accident vehicle arrow betray upset";
+var mnemonic = "bright sample gain october message state alpha attract humor decorate unveil list";

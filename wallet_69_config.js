@@ -1,1 +1,1 @@
-var mnemonic = "lizard jacket old wealth train keen illegal matter vessel fish tell tragic";
+var mnemonic = "satoshi approve trick lawsuit shadow copy forget payment thumb kiss example fame";

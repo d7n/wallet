@@ -1,1 +1,1 @@
-var mnemonic = "habit chest rifle half tattoo people rent smile frown double put empower";
+var mnemonic = "delay express subway fade expose unfair potato chief surge correct secret noble";

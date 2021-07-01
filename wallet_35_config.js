@@ -1,1 +1,1 @@
-var mnemonic = "useless target liberty amount session alpha crystal smooth item essence way wheel";
+var mnemonic = "cousin bottom call apology cruise oval crane bless flag glance theory until";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel talk attack silent shield chase hamster front miss wave nasty vintage";
+var mnemonic = "deposit nerve ice private deal fault draw clog attack during mutual burst";

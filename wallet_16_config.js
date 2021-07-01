@@ -1,1 +1,1 @@
-var mnemonic = "used priority until craft slice reflect much wreck become nut minor clay";
+var mnemonic = "gravity spring mixture artist stable recycle galaxy pitch claim turtle someone dream";

@@ -1,1 +1,1 @@
-var mnemonic = "minute affair exile marine hazard scorpion runway rabbit toddler tunnel absurd also";
+var mnemonic = "dirt galaxy crane license scout core tide rabbit transfer plunge cram omit";

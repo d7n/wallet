@@ -1,1 +1,1 @@
-var mnemonic = "dream bag olympic put target inner illness knee opera bulk plunge soccer";
+var mnemonic = "chase nominee sugar suit forest wave meadow pulp rural measure buddy best";

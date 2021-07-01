@@ -1,1 +1,1 @@
-var mnemonic = "earth bike deer remind clinic install purchase city ten genius display spring";
+var mnemonic = "orbit snap accident mirror income object accuse hood buyer fame shell busy";

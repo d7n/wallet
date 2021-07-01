@@ -1,1 +1,1 @@
-var mnemonic = "shed lens marine blood flat receive primary segment toddler kitchen ivory replace";
+var mnemonic = "skin discover embark genuine spawn zero ozone buffalo drum fit typical loop";

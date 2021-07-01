@@ -1,1 +1,1 @@
-var mnemonic = "menu excess faint deny traffic cherry relax artefact earn pill quiz kiss";
+var mnemonic = "ramp inner because hollow again talk gorilla rice script float garlic sail";

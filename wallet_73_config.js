@@ -1,1 +1,1 @@
-var mnemonic = "second beach then example machine adapt view lesson worth cruel hello neither";
+var mnemonic = "tilt today trend private slow creek install shield pigeon enlist family twin";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare gate peasant nest orphan level giggle only kite pepper maple weapon";
+var mnemonic = "reopen comfort cliff zoo wait awesome gravity idle wise equal lab there";

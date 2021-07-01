@@ -1,1 +1,1 @@
-var mnemonic = "wise click bid symptom price clip apart prison above tornado edit raven";
+var mnemonic = "cause dry pioneer rice invite license urban rug expect upper move loud";

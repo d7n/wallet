@@ -1,1 +1,1 @@
-var mnemonic = "toe provide heart pupil control accident hole velvet decade staff jacket symbol";
+var mnemonic = "shield leader neglect trap letter top muffin weird unique royal outside quote";

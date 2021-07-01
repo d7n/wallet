@@ -1,1 +1,1 @@
-var mnemonic = "mesh keen exist tobacco attack wrong tourist obey glide orbit ten clown";
+var mnemonic = "kingdom aspect vivid hen review quantum car carbon demand goat door lesson";

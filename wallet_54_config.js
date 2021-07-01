@@ -1,1 +1,1 @@
-var mnemonic = "meat dash eight bitter crazy pelican reunion lens patch around you predict";
+var mnemonic = "duck moment saddle rebuild equal zebra charge fork sadness shock whip asthma";

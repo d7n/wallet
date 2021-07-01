@@ -1,1 +1,1 @@
-var mnemonic = "party quick gain whale close flock grit audit shed village equal knife";
+var mnemonic = "effort fly notice exclude bullet tongue snow skirt later dinosaur plastic smart";

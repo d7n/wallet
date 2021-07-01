@@ -1,1 +1,1 @@
-var mnemonic = "dilemma until toddler frame problem among blood tank lecture cause stomach short";
+var mnemonic = "forward post dry book grunt pear basket afraid thumb truly cover expect";

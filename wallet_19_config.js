@@ -1,1 +1,1 @@
-var mnemonic = "addict type wash trial tattoo timber curtain merry guess attitude cattle shoulder";
+var mnemonic = "churn begin easy treat mechanic about maid talent audit wife laundry cherry";

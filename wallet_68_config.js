@@ -1,1 +1,1 @@
-var mnemonic = "improve panther velvet visa puzzle curve enrich inquiry craft regular define human";
+var mnemonic = "crumble lava wheel struggle crater bounce science little grocery path bench kitchen";

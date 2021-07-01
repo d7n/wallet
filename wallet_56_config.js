@@ -1,1 +1,1 @@
-var mnemonic = "fiber wrong addict return token wage slogan bracket square solar ankle water";
+var mnemonic = "rubber nerve margin hint crunch faith symptom woman waste melt decide wire";

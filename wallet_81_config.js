@@ -1,1 +1,1 @@
-var mnemonic = "rebuild fancy shrug craft aunt income office enter time live own cream";
+var mnemonic = "rug over dilemma genius neck ancient bike inner rigid issue box tent";

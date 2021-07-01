@@ -1,1 +1,1 @@
-var mnemonic = "twenty eagle onion punch position fortune addict citizen fault parade online dove";
+var mnemonic = "what swallow private torch ahead danger envelope happy section write bronze inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy tooth nut hair already give wage favorite place mixed brick autumn";
+var mnemonic = "possible label ahead plastic picnic ivory paper smile rough super hello brain";

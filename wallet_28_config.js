@@ -1,1 +1,1 @@
-var mnemonic = "escape bottom transfer dose lucky uncle absorb borrow render toe upper extend";
+var mnemonic = "father debate stomach eyebrow suspect sustain acoustic you announce drift forget label";

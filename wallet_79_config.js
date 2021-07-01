@@ -1,1 +1,1 @@
-var mnemonic = "witness heavy gun clay street fetch rice abstract perfect hollow pulse infant";
+var mnemonic = "hidden salad attitude pottery disease gas shoot ball girl rabbit allow spring";

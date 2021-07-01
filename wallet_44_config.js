@@ -1,1 +1,1 @@
-var mnemonic = "tackle cost shy evidence sugar never inject now what control photo viable";
+var mnemonic = "legend monitor tourist fee tired plastic before casino bottom panic shadow more";

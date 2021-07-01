@@ -1,1 +1,1 @@
-var mnemonic = "drip around timber slot wonder either drum play cage crime luxury brief";
+var mnemonic = "elevator desk spawn south furnace throw aunt sense fatal this foster friend";

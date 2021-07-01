@@ -1,1 +1,1 @@
-var mnemonic = "budget cat spread hundred demand evolve still pulp nut runway roast weird";
+var mnemonic = "stone caution february seminar trick cost fatigue mass view abuse sorry brave";

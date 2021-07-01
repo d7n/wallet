@@ -1,1 +1,1 @@
-var mnemonic = "cry lab furnace illness chef coast denial outdoor miss security obey protect";
+var mnemonic = "emerge elegant present rich toe start system hedgehog cluster gym turtle fat";
