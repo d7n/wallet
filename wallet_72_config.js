@@ -1,1 +1,1 @@
-var mnemonic = "tackle frost again use nothing mercy talk oil tourist boy rifle breeze";
+var mnemonic = "dress traffic lab cook pole essence box secret nerve city car garment";

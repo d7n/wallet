@@ -1,1 +1,1 @@
-var mnemonic = "host soap film canyon category taxi bulb fiscal rug viable defy dolphin";
+var mnemonic = "usage marine gravity resource unaware oven brown brown settle call near duty";

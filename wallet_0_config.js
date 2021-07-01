@@ -1,1 +1,1 @@
-var mnemonic = "much image phrase smile calm cream patrol laundry asset tube supply will";
+var mnemonic = "library make fat champion flash manual point face kitten rule cruise just";

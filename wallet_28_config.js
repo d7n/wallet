@@ -1,1 +1,1 @@
-var mnemonic = "early fall talent nature marriage legal fossil black outer couch educate bar";
+var mnemonic = "zone soccer apology tiny flush ethics tomato fun section supply rural border";

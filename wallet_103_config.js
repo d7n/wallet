@@ -1,1 +1,1 @@
-var mnemonic = "normal next invest nothing peace good purchase foam pear bread popular forward";
+var mnemonic = "helmet exercise bread half around twin orange place problem soul sketch field";

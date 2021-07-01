@@ -1,1 +1,1 @@
-var mnemonic = "coral hawk odor peace escape twin bamboo cram panel sphere vintage sick";
+var mnemonic = "rail risk wish mule bike ice orient approve group half reward divert";

@@ -1,1 +1,1 @@
-var mnemonic = "banner left december humor album brave slide squirrel trust leg captain exotic";
+var mnemonic = "expose lyrics gravity special quit invest crumble this narrow air pitch pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "tide abuse skirt rose plastic head cool square snack shoot chuckle person";
+var mnemonic = "aware pave drift build churn scale peasant thumb relief kind raven tail";

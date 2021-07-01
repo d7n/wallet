@@ -1,1 +1,1 @@
-var mnemonic = "resource illegal number antenna never blossom total profit hawk meat bid dwarf";
+var mnemonic = "girl dune early photo flavor small hazard favorite east sorry swear physical";

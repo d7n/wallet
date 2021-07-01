@@ -1,1 +1,1 @@
-var mnemonic = "warm now lottery above effort desert cat easily truly april mechanic apple";
+var mnemonic = "tribe journey expose glide robot swing celery later quit weapon slogan luggage";

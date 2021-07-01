@@ -1,1 +1,1 @@
-var mnemonic = "rubber pulse enlist lottery mixed force phone start negative crush adjust kite";
+var mnemonic = "cage thunder whale scan kidney track clap hurry legend gossip assist shy";

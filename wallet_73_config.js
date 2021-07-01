@@ -1,1 +1,1 @@
-var mnemonic = "marine home trumpet palm orphan obtain coconut remove final limit drill country";
+var mnemonic = "clog anxiety enough together train glare kid test scheme air illegal inherit";

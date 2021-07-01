@@ -1,1 +1,1 @@
-var mnemonic = "throw crater novel virtual latin confirm install act warrior honey mad hungry";
+var mnemonic = "hybrid curious tennis skate cook attack judge glide trouble warm polar van";

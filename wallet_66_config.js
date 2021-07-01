@@ -1,1 +1,1 @@
-var mnemonic = "flush turn predict topic charge stone thrive relax report pretty lock rally";
+var mnemonic = "chef rally spell between pond believe crash step sorry barrel deputy then";

@@ -1,1 +1,1 @@
-var mnemonic = "hip party setup review copper glad will clump tuition lamp tragic obey";
+var mnemonic = "subject seat royal middle decorate woman mandate goat million cat sorry such";

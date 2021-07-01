@@ -1,1 +1,1 @@
-var mnemonic = "glance fire castle security intact act lift butter snap between govern blast";
+var mnemonic = "cage consider fossil speed gate tunnel cement oval carry ceiling peasant margin";

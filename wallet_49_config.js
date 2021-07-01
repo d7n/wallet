@@ -1,1 +1,1 @@
-var mnemonic = "pioneer example produce cattle verb client kitchen school company original moon vague";
+var mnemonic = "access unit baby trend shadow grow find merge miracle else rabbit split";

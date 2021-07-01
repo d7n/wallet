@@ -1,1 +1,1 @@
-var mnemonic = "harsh merit mosquito spoon apology waste tribe maximum grit uncover fit fox";
+var mnemonic = "season airport photo since aspect rural pipe adjust price found speed police";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss bulk key away slender text valve gasp wait cable coach pause";
+var mnemonic = "rude cup chapter banner scan kick inflict act crunch goat shock camera";

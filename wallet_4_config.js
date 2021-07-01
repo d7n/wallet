@@ -1,1 +1,1 @@
-var mnemonic = "evolve dust group donate office clock universe blush nuclear mixture absurd cable";
+var mnemonic = "wall recycle exhaust else reflect hen sibling wrist merge army dream guide";

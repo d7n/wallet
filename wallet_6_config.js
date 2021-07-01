@@ -1,1 +1,1 @@
-var mnemonic = "rapid swim below child mushroom thunder rose evil improve boring face snack";
+var mnemonic = "labor citizen club bitter badge weekend steak voice frequent blast pumpkin seat";

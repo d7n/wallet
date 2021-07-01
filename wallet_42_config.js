@@ -1,1 +1,1 @@
-var mnemonic = "economy analyst aerobic save sketch chaos enjoy dust stand nurse trigger erase";
+var mnemonic = "pumpkin soda heavy series away spell satoshi steel client session people belt";

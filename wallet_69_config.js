@@ -1,1 +1,1 @@
-var mnemonic = "arrange awesome horror delay soul future end paper ordinary price helmet nuclear";
+var mnemonic = "shoot noodle wage auto salute alien rare giraffe bargain six puppy goose";

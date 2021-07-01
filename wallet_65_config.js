@@ -1,1 +1,1 @@
-var mnemonic = "retire fog future piano service border omit laptop vibrant swap bar mule";
+var mnemonic = "come spot obvious health earn position dutch kitchen welcome rebuild staff tiger";

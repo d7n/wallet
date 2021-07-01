@@ -1,1 +1,1 @@
-var mnemonic = "still clock oxygen old view bachelor vocal excite sand armor snap scissors";
+var mnemonic = "unfold energy melody tackle correct vacuum mobile exhaust neutral aware feature special";

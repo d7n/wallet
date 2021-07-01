@@ -1,1 +1,1 @@
-var mnemonic = "region sword dynamic change plug lake lab upon repair hurry order play";
+var mnemonic = "moon scrub illness hundred news mansion typical hedgehog orbit close hedgehog borrow";

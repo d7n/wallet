@@ -1,1 +1,1 @@
-var mnemonic = "glimpse vacuum script couch rural antique expire pencil mesh cloud invite yard";
+var mnemonic = "control marble taste enrich speed credit gain bamboo winter adapt sunny source";

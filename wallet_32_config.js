@@ -1,1 +1,1 @@
-var mnemonic = "fitness bargain blur rib always clinic field cushion favorite vivid choose feed";
+var mnemonic = "between mountain oxygen genius parade before cube net cradle divorce lawn coast";

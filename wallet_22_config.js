@@ -1,1 +1,1 @@
-var mnemonic = "dish warfare bounce city moral bulk shop enroll wage early diamond dice";
+var mnemonic = "buzz catch math syrup banner size essay ordinary spoil bounce little blanket";

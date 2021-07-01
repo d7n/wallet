@@ -1,1 +1,1 @@
-var mnemonic = "poem daughter useful giraffe wood use ensure velvet surround dove cup attack";
+var mnemonic = "evolve network romance match flower pledge isolate debris sword exact divorce cherry";

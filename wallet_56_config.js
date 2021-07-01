@@ -1,1 +1,1 @@
-var mnemonic = "mimic combine snap skate tip expect path assault slow fade interest junk";
+var mnemonic = "empower action resemble frame oyster rescue happy friend rent machine ostrich vault";

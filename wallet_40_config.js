@@ -1,1 +1,1 @@
-var mnemonic = "digital better turkey churn weather relax three fabric ritual follow thunder again";
+var mnemonic = "divorce color plastic remind machine swear glide manage critic column armed cement";

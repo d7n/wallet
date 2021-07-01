@@ -1,1 +1,1 @@
-var mnemonic = "resemble lift position farm rent strong obscure require hospital giggle model cash";
+var mnemonic = "sorry brother brass staff behave pretty sail north admit patch cry ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "verify health leader butter print flower fly moment ridge impact spend boil";
+var mnemonic = "outside opinion attitude cattle merge photo patch exotic waste hire knee photo";

@@ -1,1 +1,1 @@
-var mnemonic = "improve holiday order upset void drastic rebuild say later smart web connect";
+var mnemonic = "warm check arrive away badge hint daring unusual angle subject brave business";

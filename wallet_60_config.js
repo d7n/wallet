@@ -1,1 +1,1 @@
-var mnemonic = "couple jeans uniform news health pet art token crazy dilemma truth employ";
+var mnemonic = "more knock tackle salute forward barrel famous tell speak blur scrap crack";

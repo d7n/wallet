@@ -1,1 +1,1 @@
-var mnemonic = "unfold similar ignore holiday mystery marine bar custom strike merge base buddy";
+var mnemonic = "tide describe recycle slogan chunk cherry animal virtual radio elegant keen dish";

@@ -1,1 +1,1 @@
-var mnemonic = "impose tragic flash spot reveal donor good envelope faith abstract antique wet";
+var mnemonic = "mention shine disagree topple bind prevent hard cube aspect near mind bid";

@@ -1,1 +1,1 @@
-var mnemonic = "boss divorce spatial rely high range riot mobile hazard trap common magic";
+var mnemonic = "trim right gym lyrics first umbrella grain credit hybrid advice drink tube";

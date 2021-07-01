@@ -1,1 +1,1 @@
-var mnemonic = "flame angle infant love life pair era quarter version misery snake home";
+var mnemonic = "canoe voyage fiction doctor unhappy lake valve alone empty castle object devote";

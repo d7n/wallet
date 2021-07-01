@@ -1,1 +1,1 @@
-var mnemonic = "aware viable zoo weekend soap misery boss hazard meat client evoke field";
+var mnemonic = "tree result leave level genuine predict daring aerobic original scatter label angle";

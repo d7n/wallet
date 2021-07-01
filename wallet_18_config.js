@@ -1,1 +1,1 @@
-var mnemonic = "close exhibit jazz brand ship gallery tower man rough bike enemy tone";
+var mnemonic = "achieve stock march gospel craft shoot tribe curious leisure film broom episode";

@@ -1,1 +1,1 @@
-var mnemonic = "nose fever body square edge umbrella script reopen august human ocean east";
+var mnemonic = "tomorrow frost garlic reform sleep cactus cute aim festival fiber anchor napkin";

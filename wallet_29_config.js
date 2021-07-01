@@ -1,1 +1,1 @@
-var mnemonic = "civil speed cinnamon cute pottery essence bullet wonder green craft giggle run";
+var mnemonic = "daring short hungry dry exchange favorite combine zebra cupboard bench left flower";

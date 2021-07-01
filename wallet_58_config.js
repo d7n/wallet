@@ -1,1 +1,1 @@
-var mnemonic = "merge motor fall syrup clinic pupil shrug all expire other annual alley";
+var mnemonic = "near consider plunge shoulder cost canyon motor keen witness frog talent cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "flame gather story ripple normal loop movie daring october crawl solution board";
+var mnemonic = "volcano toe company edit culture degree own sunny couch upgrade tribe sunny";

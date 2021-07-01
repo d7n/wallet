@@ -1,1 +1,1 @@
-var mnemonic = "sleep worry saddle faculty crisp today black crash ribbon curtain among tortoise";
+var mnemonic = "sibling capital winner wine orange ship summer divide pencil cart head duty";

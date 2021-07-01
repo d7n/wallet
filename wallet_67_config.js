@@ -1,1 +1,1 @@
-var mnemonic = "orient venture account helmet kitten account birth foster march renew near retire";
+var mnemonic = "owner eternal begin motor caught assist lava napkin year sing zebra entry";

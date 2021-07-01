@@ -1,1 +1,1 @@
-var mnemonic = "sing swallow fitness museum movie vanish oppose armed toe until draft space";
+var mnemonic = "month case predict canyon fantasy adult notable coin circle wink suggest great";

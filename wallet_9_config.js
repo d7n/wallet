@@ -1,1 +1,1 @@
-var mnemonic = "hello someone bring delay february trip hover awful typical snake similar shield";
+var mnemonic = "sausage ugly salmon police comic pass bone fox control object unaware scout";

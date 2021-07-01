@@ -1,1 +1,1 @@
-var mnemonic = "wool palm ranch forum dove endless render spirit battle ticket left this";
+var mnemonic = "sport glare mammal frequent winner happy child urban hunt double front diagram";

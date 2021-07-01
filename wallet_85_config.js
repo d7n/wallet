@@ -1,1 +1,1 @@
-var mnemonic = "ski sudden metal scatter trim credit frequent clutch scan short note easy";
+var mnemonic = "empty crane dwarf country wall sad chicken oven gravity situate door region";

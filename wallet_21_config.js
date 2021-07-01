@@ -1,1 +1,1 @@
-var mnemonic = "rebel lecture return flee speak tragic trim evidence sort stock slot middle";
+var mnemonic = "solar scale fever cram bunker syrup stereo expect title advance artefact gun";

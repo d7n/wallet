@@ -1,1 +1,1 @@
-var mnemonic = "skin diet famous draft large affair festival vapor hire remain parade book";
+var mnemonic = "network into hurt height goose leaf blouse segment identify grocery what large";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt enlist critic museum rural donate fashion diary clump remember road edge";
+var mnemonic = "federal scene snack elephant differ belt artefact series defy pulse promote rely";

@@ -1,1 +1,1 @@
-var mnemonic = "neck worth dawn hundred transfer sad october dawn behind rebel wage virus";
+var mnemonic = "forum nature orange tunnel convince remove odor half promote artwork index scorpion";

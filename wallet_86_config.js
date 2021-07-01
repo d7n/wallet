@@ -1,1 +1,1 @@
-var mnemonic = "basket garment noodle erosion flush boring female focus rhythm final picture foot";
+var mnemonic = "grace enforce pause chaos wine dose game drama time vocal sad cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm east assault man frown clock scissors oval romance december shiver notable";
+var mnemonic = "spring title belt orange miracle horn accident gain hedgehog hair alcohol electric";

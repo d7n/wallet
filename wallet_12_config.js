@@ -1,1 +1,1 @@
-var mnemonic = "ugly avocado fortune body worry slight moral clown dash trap phrase clip";
+var mnemonic = "remove analyst degree betray wage census ready exotic favorite physical truth apology";

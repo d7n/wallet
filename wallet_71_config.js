@@ -1,1 +1,1 @@
-var mnemonic = "poet arrange lesson plate meadow arena wrap lamp famous gift category method";
+var mnemonic = "tragic panel milk jaguar bag knife key use weasel token visit toast";

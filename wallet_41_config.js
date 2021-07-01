@@ -1,1 +1,1 @@
-var mnemonic = "stable skin hunt always album remove suspect riot frost push chicken virtual";
+var mnemonic = "symbol advice uniform obvious mercy tag ladder until scheme loop seed you";

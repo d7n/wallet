@@ -1,1 +1,1 @@
-var mnemonic = "embark seat swamp occur exist slush stock front parent canvas swear now";
+var mnemonic = "original limit original quiz student poverty chuckle shoulder hamster rotate end size";

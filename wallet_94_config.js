@@ -1,1 +1,1 @@
-var mnemonic = "another carbon guess demise skate unhappy math transfer citizen husband cash order";
+var mnemonic = "tree garbage swap source sand critic ugly health butter elephant anxiety salon";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition saddle easily frown truly carbon lounge master client nurse disorder thrive";
+var mnemonic = "candy fire legal popular crunch under stick ecology hen find poverty false";

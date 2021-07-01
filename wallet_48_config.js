@@ -1,1 +1,1 @@
-var mnemonic = "lion cricket buyer satoshi imitate guilt atom spare allow soul awful vendor";
+var mnemonic = "bleak strong quiz turkey duty kite fiscal olive uncle hen spray suspect";

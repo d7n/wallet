@@ -1,1 +1,1 @@
-var mnemonic = "ghost design lab use chef few evoke pepper floor image brisk tortoise";
+var mnemonic = "mutual faint effort sheriff lizard arctic problem insane napkin craft cat actual";

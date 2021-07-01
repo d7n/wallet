@@ -1,1 +1,1 @@
-var mnemonic = "pink marble venture corn rough front outside hero spoil shaft misery finger";
+var mnemonic = "renew wise brain bacon dice jar audit rabbit resist rude teach couple";

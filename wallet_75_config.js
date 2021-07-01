@@ -1,1 +1,1 @@
-var mnemonic = "club exist ride loan romance area favorite seat dash crouch concert vast";
+var mnemonic = "any bitter traffic arctic ball lemon chair topple need nerve calm multiply";

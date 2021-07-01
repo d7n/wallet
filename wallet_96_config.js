@@ -1,1 +1,1 @@
-var mnemonic = "govern tortoise thumb birth early trade little job afford skill outer wink";
+var mnemonic = "bronze stock bulb top fringe bundle humble cook bachelor notice sick version";

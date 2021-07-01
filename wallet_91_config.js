@@ -1,1 +1,1 @@
-var mnemonic = "drip return equip plastic laugh evoke lounge hurdle truly minor screen release";
+var mnemonic = "fence hip claw slam tonight unfold segment lunch width select insane water";

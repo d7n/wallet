@@ -1,1 +1,1 @@
-var mnemonic = "little fabric upper arch feature equip that snack crazy emotion describe olive";
+var mnemonic = "choose pattern input oxygen offer off false manual they rack claim proof";

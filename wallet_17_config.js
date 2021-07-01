@@ -1,1 +1,1 @@
-var mnemonic = "labor north physical wave bounce flip romance spoil swing ordinary benefit bread";
+var mnemonic = "admit tiny dinner donate crisp march tomato maple broken estate unable melt";

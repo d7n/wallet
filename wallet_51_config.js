@@ -1,1 +1,1 @@
-var mnemonic = "fury also silver cigar knife rain drift dune jelly add soccer bacon";
+var mnemonic = "female grain immense update crucial useful program gold second regret pyramid leopard";

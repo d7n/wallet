@@ -1,1 +1,1 @@
-var mnemonic = "toe toss lawn stomach empty lunar hamster swallow round smart bar earn";
+var mnemonic = "lawsuit age subject virus move drive sun burst speed bench alert swallow";

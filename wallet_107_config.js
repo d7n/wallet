@@ -1,1 +1,1 @@
-var mnemonic = "rapid worry trial monitor curve pave nice access slice orange indicate young";
+var mnemonic = "have slush lunar slab benefit adjust dress march flight filter inside rigid";

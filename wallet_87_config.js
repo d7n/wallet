@@ -1,1 +1,1 @@
-var mnemonic = "donate token ankle attend inner best solution diet turkey day milk version";
+var mnemonic = "gasp modify two tobacco year squirrel echo enrich pelican sad web index";

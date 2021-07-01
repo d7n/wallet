@@ -1,1 +1,1 @@
-var mnemonic = "mixed wing hen position eyebrow cigar spring direct road turkey palace file";
+var mnemonic = "actor goat snow live plastic hole illness reflect game south country dog";

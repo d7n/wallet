@@ -1,1 +1,1 @@
-var mnemonic = "custom crime apology plate omit hill teach aerobic tree decline unable speed";
+var mnemonic = "page gloom ocean defense banner circle twin buzz ill tattoo assist witness";

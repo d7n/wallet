@@ -1,1 +1,1 @@
-var mnemonic = "erode aspect drill hope skull ramp original enable toy casual blind wet";
+var mnemonic = "chat dismiss winter dumb rifle reward matrix fury drama spice discover gravity";

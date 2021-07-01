@@ -1,1 +1,1 @@
-var mnemonic = "system anxiety mechanic quick giant insect point kid want lumber erase design";
+var mnemonic = "tray employ neck dinner soul grain nerve term goddess during industry junior";

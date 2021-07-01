@@ -1,1 +1,1 @@
-var mnemonic = "photo flight logic lumber cost phrase fabric abandon joy track excite repair";
+var mnemonic = "tail foot act armed broken enter grain flash weekend super bless image";

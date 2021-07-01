@@ -1,1 +1,1 @@
-var mnemonic = "game rural chalk fantasy diamond fringe catch speed demise regular dish riot";
+var mnemonic = "surprise demand umbrella other hamster pink situate happy hill nominee license vacuum";

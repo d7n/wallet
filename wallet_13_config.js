@@ -1,1 +1,1 @@
-var mnemonic = "acquire desk glow town avocado monster zebra obtain poet lunar ticket sibling";
+var mnemonic = "oppose evil rare later loud execute giant source draft cool stuff world";

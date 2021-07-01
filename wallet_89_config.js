@@ -1,1 +1,1 @@
-var mnemonic = "pretty hero clinic fall side month burger chest boss vocal mirror first";
+var mnemonic = "sustain escape poem divide muscle erosion subject unveil size collect nephew light";

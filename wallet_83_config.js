@@ -1,1 +1,1 @@
-var mnemonic = "slab exercise invest cream dance blind few blanket virtual country hurdle collect";
+var mnemonic = "earth region sick worry album poet year hint seat churn melody wealth";

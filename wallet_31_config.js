@@ -1,1 +1,1 @@
-var mnemonic = "check old smart wash brisk throw there welcome oblige obvious razor lake";
+var mnemonic = "slender six today kite sister flee shallow report wish scissors boost hotel";

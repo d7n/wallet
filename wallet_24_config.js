@@ -1,1 +1,1 @@
-var mnemonic = "lesson column water key arctic misery switch comic senior asset change tip";
+var mnemonic = "romance tray resource tiny grunt crawl weasel equip tray soap caught sample";

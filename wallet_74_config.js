@@ -1,1 +1,1 @@
-var mnemonic = "kit shiver arctic much card hire cross jewel repair receive position grief";
+var mnemonic = "desert anchor tip trust anger egg beach spend sight squeeze nothing kick";

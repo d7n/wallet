@@ -1,1 +1,1 @@
-var mnemonic = "inform scissors calm squeeze village home skirt recall leopard caution club pen";
+var mnemonic = "oval response track magnet abstract luggage clap front brush reason judge amateur";

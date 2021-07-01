@@ -1,1 +1,1 @@
-var mnemonic = "strike tennis rely morning place inmate artist hundred awesome captain atom learn";
+var mnemonic = "inner chalk snap talk witness year you inquiry surround engage digital cost";

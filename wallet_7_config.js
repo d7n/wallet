@@ -1,1 +1,1 @@
-var mnemonic = "funny quick doll throw rent dawn scout device ridge size cheese issue";
+var mnemonic = "shiver oxygen forward pole fish transfer surprise airport replace solve vacant flip";

@@ -1,1 +1,1 @@
-var mnemonic = "bind grocery jewel saddle baby cancel exclude envelope clean dice piano sick";
+var mnemonic = "puppy enhance hawk reunion nurse viable struggle leave furnace predict output rescue";

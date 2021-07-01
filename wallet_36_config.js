@@ -1,1 +1,1 @@
-var mnemonic = "mother rude beyond prison traffic damp same cruise transfer pelican stable surface";
+var mnemonic = "awkward wise nephew glimpse seed public maximum legend crash balcony install more";

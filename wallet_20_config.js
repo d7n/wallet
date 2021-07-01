@@ -1,1 +1,1 @@
-var mnemonic = "sock orbit height good multiply warrior wrestle leisure common purity toward length";
+var mnemonic = "message congress audit fragile century brief sense capital vault hazard car spend";

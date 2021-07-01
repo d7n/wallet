@@ -1,1 +1,1 @@
-var mnemonic = "cram security arm carpet build original hidden hockey area evidence helmet veteran";
+var mnemonic = "race priority bleak nose save hire hedgehog balcony slab remind dinosaur lunar";

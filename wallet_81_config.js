@@ -1,1 +1,1 @@
-var mnemonic = "cool pink shed heart six soft walk valley icon guitar jar antique";
+var mnemonic = "category among door wet million device visual perfect image unable dust wagon";
