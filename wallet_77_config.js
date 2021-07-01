@@ -1,1 +1,1 @@
-var mnemonic = "stage dolphin level violin cover ahead plastic harbor solar shadow verify priority";
+var mnemonic = "borrow sniff trend castle skin wrap august engine illness text double lava";

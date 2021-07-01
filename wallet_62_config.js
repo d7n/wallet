@@ -1,1 +1,1 @@
-var mnemonic = "note coin jar access hobby seven hard spare hint weekend mouse wisdom";
+var mnemonic = "cute work awkward enroll escape fruit swallow solve popular exact labor melody";

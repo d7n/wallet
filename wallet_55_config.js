@@ -1,1 +1,1 @@
-var mnemonic = "payment donkey market salt mistake ball wood video kind they lemon naive";
+var mnemonic = "spring emerge wait pulse one panda exhaust claim end message evolve vehicle";

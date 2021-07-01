@@ -1,1 +1,1 @@
-var mnemonic = "furnace coach december report idea absurd piece guide reflect fish rice trash";
+var mnemonic = "gadget cheap economy marine drill obey gym belt moment cluster success thank";

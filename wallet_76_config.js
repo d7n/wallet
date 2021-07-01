@@ -1,1 +1,1 @@
-var mnemonic = "oak found settle advice steel symptom dragon subway meat inch heavy dial";
+var mnemonic = "sail bundle pulp penalty length tone couch join slogan robot cement staff";

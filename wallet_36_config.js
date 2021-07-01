@@ -1,1 +1,1 @@
-var mnemonic = "ecology rhythm travel funny author arena you ankle despair vault limit floor";
+var mnemonic = "decrease dignity enlist must atom easily frequent baby leopard price photo trim";

@@ -1,1 +1,1 @@
-var mnemonic = "cost scene oyster ahead wild wise practice parade minor crisp mixed quick";
+var mnemonic = "choose waste convince expose swarm extra cram toe zoo elegant stone image";

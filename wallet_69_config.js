@@ -1,1 +1,1 @@
-var mnemonic = "error damage method duck hammer damage bone type enrich diamond legend midnight";
+var mnemonic = "donate island input double nose whale thrive dish elevator holiday tobacco delay";

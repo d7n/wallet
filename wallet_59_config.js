@@ -1,1 +1,1 @@
-var mnemonic = "program accuse employ ship hope weekend victory alone provide fish private aware";
+var mnemonic = "distance mushroom illegal copy execute casual square arctic soon idle lab boring";

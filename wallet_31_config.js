@@ -1,1 +1,1 @@
-var mnemonic = "useless vicious soup end gasp hat match usual spread lecture throw broken";
+var mnemonic = "jump rent mouse tide tooth just push exile insane myth style chalk";

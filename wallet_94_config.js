@@ -1,1 +1,1 @@
-var mnemonic = "surface guard congress exercise wolf diagram cash boost easy indicate spawn decline";
+var mnemonic = "hazard urge alcohol language tone sport noise govern pony wet spring expose";

@@ -1,1 +1,1 @@
-var mnemonic = "much sign benefit salad trap tired nation warfare rural toddler copper tube";
+var mnemonic = "game illegal february eight only observe much clock climb use situate office";

@@ -1,1 +1,1 @@
-var mnemonic = "speak length junk dog purchase scorpion peace innocent dog egg rule layer";
+var mnemonic = "romance access sustain speak lock sister sponsor sauce dice frog noise sign";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget click require task sight scheme air pride roast tornado rebuild liberty";
+var mnemonic = "barely total almost rescue scale island thumb orphan memory walnut practice click";

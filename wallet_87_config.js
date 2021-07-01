@@ -1,1 +1,1 @@
-var mnemonic = "owner wave steak vote crack sugar month virus corn van wheel element";
+var mnemonic = "addict trend barely reject sense crucial penalty ticket march smart kind route";

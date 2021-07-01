@@ -1,1 +1,1 @@
-var mnemonic = "wife laugh desk balance banana scan enjoy media badge poet victory flame";
+var mnemonic = "ordinary priority civil invite hero occur oxygen genre vapor section spend afraid";

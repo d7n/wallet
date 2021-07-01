@@ -1,1 +1,1 @@
-var mnemonic = "beauty dumb this icon apology piece permit fix beach near test reunion";
+var mnemonic = "flavor fine salon dynamic mail orbit arrange order cargo suit joy stadium";

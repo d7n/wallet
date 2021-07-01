@@ -1,1 +1,1 @@
-var mnemonic = "trip decrease promote soccer rack suffer artwork clutch donkey manual finger permit";
+var mnemonic = "season place kind luxury armed letter balcony visual bicycle evil claw borrow";

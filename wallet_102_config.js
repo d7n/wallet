@@ -1,1 +1,1 @@
-var mnemonic = "bachelor super way carbon carpet calm tail mom action evoke friend animal";
+var mnemonic = "life stamp sad birth riot sphere quantum man engine little attack staff";

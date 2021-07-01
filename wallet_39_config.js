@@ -1,1 +1,1 @@
-var mnemonic = "couple will whip album satoshi near define rice unveil nominee tunnel bone";
+var mnemonic = "century list response mom glad search ostrich exhibit myth glare shift first";

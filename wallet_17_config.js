@@ -1,1 +1,1 @@
-var mnemonic = "install dry answer spell diamond kitchen multiply over jar siren tide debris";
+var mnemonic = "because replace sniff card gain drift payment viable shoulder employ powder grocery";

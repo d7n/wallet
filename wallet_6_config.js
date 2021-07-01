@@ -1,1 +1,1 @@
-var mnemonic = "imitate hotel joke still mom useless horse fish moon injury practice guitar";
+var mnemonic = "twelve list sword inspire volume basic helmet farm oval resource know increase";

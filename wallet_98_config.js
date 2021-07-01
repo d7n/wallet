@@ -1,1 +1,1 @@
-var mnemonic = "educate where combine garbage melt keep scorpion subject author between final unveil";
+var mnemonic = "donate warm desert flame license lava pet dinosaur useful box mention vault";

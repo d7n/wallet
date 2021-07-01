@@ -1,1 +1,1 @@
-var mnemonic = "before ensure green blast brave link garden antenna hurt eager ahead venture";
+var mnemonic = "dilemma bottom carpet eternal satoshi south agent clump humor liquid build grape";

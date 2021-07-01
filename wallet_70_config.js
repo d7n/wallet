@@ -1,1 +1,1 @@
-var mnemonic = "head bracket aisle save act muffin ship insane wrap enact arm gaze";
+var mnemonic = "setup oyster where smart castle risk aunt palace inquiry warm address exit";

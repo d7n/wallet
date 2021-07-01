@@ -1,1 +1,1 @@
-var mnemonic = "reveal day viable torch chimney demand expand regret three owner mind need";
+var mnemonic = "letter hope expire protect kid outside hospital dice twist tribe open youth";

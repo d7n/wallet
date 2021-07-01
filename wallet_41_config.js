@@ -1,1 +1,1 @@
-var mnemonic = "miracle basket expand sad brisk onion wagon mask vast bridge tumble exit";
+var mnemonic = "grace cool group begin shoot female oxygen come defense leisure that hurry";

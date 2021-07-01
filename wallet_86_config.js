@@ -1,1 +1,1 @@
-var mnemonic = "toast boy beef medal sock leisure olive sock behave adult fever face";
+var mnemonic = "slot wool ridge meat appear window range fan input change lemon manage";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin strike mountain inflict supreme balance close diary super shaft north over";
+var mnemonic = "suffer throw someone record explain urge accident satisfy soldier scene december caught";

@@ -1,1 +1,1 @@
-var mnemonic = "festival shell monitor clown armed smile enlist purity mail drill sing stomach";
+var mnemonic = "laundry eye minute around maid assume misery scorpion bread brass fan fever";

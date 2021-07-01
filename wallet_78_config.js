@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow warrior goddess hub credit sell cushion powder sphere section still elbow";
+var mnemonic = "panda until note honey hand fluid multiply supreme fuel silly pen virtual";

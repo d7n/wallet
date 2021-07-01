@@ -1,1 +1,1 @@
-var mnemonic = "language hurdle tomorrow physical charge sleep galaxy change always item better tomorrow";
+var mnemonic = "menu rent iron slogan pig dentist food business march primary parrot behave";

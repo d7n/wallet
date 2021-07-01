@@ -1,1 +1,1 @@
-var mnemonic = "minimum sorry home size satoshi fiction measure urge gun logic absent fuel";
+var mnemonic = "when chuckle room movie win twin survey purchase pumpkin lake tape ostrich";

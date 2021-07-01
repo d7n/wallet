@@ -1,1 +1,1 @@
-var mnemonic = "seek lyrics shift tilt enact record lava burst school express stand predict";
+var mnemonic = "regular daring moment fury noble ripple obey fossil eye near evil faint";

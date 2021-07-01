@@ -1,1 +1,1 @@
-var mnemonic = "dynamic blanket title true grocery arrest bulk world pole final prize stamp";
+var mnemonic = "act exercise dizzy canyon harbor want kick sport happy egg essence range";

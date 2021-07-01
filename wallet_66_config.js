@@ -1,1 +1,1 @@
-var mnemonic = "equal memory cotton aim clog alter output wish comic aisle trust emotion";
+var mnemonic = "spell kidney famous filter state rude soda chalk skirt alpha creek useless";

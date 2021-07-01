@@ -1,1 +1,1 @@
-var mnemonic = "office help pelican can brown item neglect example school consider miss crazy";
+var mnemonic = "lens success onion glimpse brush frame stuff cradle family dress noodle soup";

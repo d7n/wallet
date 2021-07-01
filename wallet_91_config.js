@@ -1,1 +1,1 @@
-var mnemonic = "inspire output analyst deliver order shove own hundred gorilla news already ripple";
+var mnemonic = "welcome goddess leg shoot female that iron drum pyramid usage affair salute";

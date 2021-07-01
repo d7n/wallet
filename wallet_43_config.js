@@ -1,1 +1,1 @@
-var mnemonic = "model scene nut cancel treat tissue stick luggage drink raccoon oil end";
+var mnemonic = "accuse plastic tiger proof dilemma thumb spy return cat govern rack possible";

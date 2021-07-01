@@ -1,1 +1,1 @@
-var mnemonic = "poverty omit forget husband hire series tomato gown peanut purse hint lake";
+var mnemonic = "round adjust zero income credit insect enlist much hour mule bread clump";

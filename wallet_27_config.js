@@ -1,1 +1,1 @@
-var mnemonic = "siege online december van couch adapt cook silly fault fury dice cat";
+var mnemonic = "hint suggest gospel budget valley van secret bid curtain whip pioneer wolf";

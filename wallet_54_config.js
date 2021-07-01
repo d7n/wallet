@@ -1,1 +1,1 @@
-var mnemonic = "equal dentist hurry rabbit cube popular must secret motor slogan solve hire";
+var mnemonic = "team sting place employ fox agree cave exact language next same siege";

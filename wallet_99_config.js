@@ -1,1 +1,1 @@
-var mnemonic = "ice produce sense lumber spider change stable estate panther hollow senior federal";
+var mnemonic = "alpha exclude section choice ask trumpet demand real boring eight outside oven";

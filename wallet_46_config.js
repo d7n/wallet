@@ -1,1 +1,1 @@
-var mnemonic = "outside group gossip popular aisle aware olympic invest pizza tone behind oak";
+var mnemonic = "sunny host small party glow coffee elegant weapon million join foil aerobic";

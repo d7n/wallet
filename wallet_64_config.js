@@ -1,1 +1,1 @@
-var mnemonic = "book pencil abstract insane under employ long push print hedgehog divide toss";
+var mnemonic = "state alter home strike lady fatal indoor tired afraid scrap imitate unhappy";

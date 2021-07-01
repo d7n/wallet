@@ -1,1 +1,1 @@
-var mnemonic = "trial simple pipe depart pave zero valid novel order edge talk once";
+var mnemonic = "test kiwi zebra off hurry junk inmate cart creek innocent lady hotel";

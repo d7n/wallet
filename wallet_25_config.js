@@ -1,1 +1,1 @@
-var mnemonic = "crisp old sign make mention lonely size wedding gauge hazard awful market";
+var mnemonic = "thank room sleep airport also market open steel select mule reject brown";

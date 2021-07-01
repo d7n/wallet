@@ -1,1 +1,1 @@
-var mnemonic = "alter whale solar super whale camp barely surprise piano phone stuff media";
+var mnemonic = "matter guard curve apart comic brick actual dutch nominee leaf hard snake";

@@ -1,1 +1,1 @@
-var mnemonic = "more wife try such tide tenant warm want fever thunder era talk";
+var mnemonic = "merge sketch clarify inherit call supreme pumpkin circle believe stereo deny obvious";

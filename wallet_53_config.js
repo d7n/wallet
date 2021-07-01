@@ -1,1 +1,1 @@
-var mnemonic = "sibling spy extra jewel ordinary destroy seek devote thumb slice bracket purity";
+var mnemonic = "crouch zebra useless unfair volcano all core wire shuffle lawsuit glide snake";

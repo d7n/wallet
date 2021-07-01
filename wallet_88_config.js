@@ -1,1 +1,1 @@
-var mnemonic = "card kick educate cement dune twenty either material follow crystal asset firm";
+var mnemonic = "predict such wait human hybrid joy before real setup hockey ski peanut";

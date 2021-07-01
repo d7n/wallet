@@ -1,1 +1,1 @@
-var mnemonic = "valley hurdle recycle peace twenty will wage tip crack stairs dune bachelor";
+var mnemonic = "harbor alter story salmon demise broccoli cousin year village hat blame sadness";

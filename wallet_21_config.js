@@ -1,1 +1,1 @@
-var mnemonic = "pill oval nerve bread drop casual ball vague symbol share arrive myth";
+var mnemonic = "gaze cattle narrow hobby eight army tragic ketchup frost caught bird evil";

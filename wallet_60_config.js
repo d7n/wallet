@@ -1,1 +1,1 @@
-var mnemonic = "aerobic pen fashion impulse wash battle timber benefit oxygen stone heavy assist";
+var mnemonic = "enough reduce volcano moment little language fine seven hand oppose phone frequent";

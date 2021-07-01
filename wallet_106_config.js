@@ -1,1 +1,1 @@
-var mnemonic = "meadow tattoo explain loan blue area call vintage twenty tattoo clip upon";
+var mnemonic = "seminar walk token pencil fortune runway degree scrub people note fatal young";

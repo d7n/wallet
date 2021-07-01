@@ -1,1 +1,1 @@
-var mnemonic = "paper sick wrist oblige vanish acoustic end giant moment enroll cancel market";
+var mnemonic = "friend glove fork menu word harvest gorilla melody beyond baby vote reunion";

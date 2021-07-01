@@ -1,1 +1,1 @@
-var mnemonic = "team movie approve voyage nasty floor select comfort key lottery profit doctor";
+var mnemonic = "version weapon unhappy special knife company silk hollow punch notable stool clerk";

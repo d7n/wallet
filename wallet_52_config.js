@@ -1,1 +1,1 @@
-var mnemonic = "chief rifle spice inner will girl tuition pluck glance carpet smooth shadow";
+var mnemonic = "black change junk alpha balcony dinosaur lazy donate common furnace rally question";

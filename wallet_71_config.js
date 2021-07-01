@@ -1,1 +1,1 @@
-var mnemonic = "liberty rice type filter claim violin crumble rubber oxygen reveal resource one";
+var mnemonic = "elite vehicle century involve depart sibling sausage fancy slice title sauce quarter";

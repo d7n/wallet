@@ -1,1 +1,1 @@
-var mnemonic = "wisdom order virus crane stem buzz minor alien intact again anger resemble";
+var mnemonic = "speed kingdom motion verify text nature corn reason orient match praise viable";

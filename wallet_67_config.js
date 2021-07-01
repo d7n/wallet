@@ -1,1 +1,1 @@
-var mnemonic = "snack puppy exclude hip shrimp garden climb student miss frame quit fence";
+var mnemonic = "shoe memory when century night cruel inmate wool split mass biology useful";

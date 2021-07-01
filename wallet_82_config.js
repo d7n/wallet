@@ -1,1 +1,1 @@
-var mnemonic = "resource key cat ten plastic spend snack access swarm solid pipe pool";
+var mnemonic = "liquid they pill shoulder hover parent bubble clarify sister mad wine destroy";

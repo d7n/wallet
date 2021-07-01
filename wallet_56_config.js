@@ -1,1 +1,1 @@
-var mnemonic = "oyster mimic crumble tumble lecture option silly scale coconut aware neglect tent";
+var mnemonic = "demise auction upset chase provide mosquito share shy flower dove reduce find";

@@ -1,1 +1,1 @@
-var mnemonic = "motion bomb security unknown stuff frost high fish jeans slow dial nut";
+var mnemonic = "allow uphold eye add margin rare conduct mistake yard vicious mandate real";

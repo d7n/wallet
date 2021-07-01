@@ -1,1 +1,1 @@
-var mnemonic = "hub jeans buffalo wing kitchen easy catalog unknown alert among series unusual";
+var mnemonic = "harvest final ignore actual trend orphan wasp lounge axis pen symptom intact";

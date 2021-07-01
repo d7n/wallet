@@ -1,1 +1,1 @@
-var mnemonic = "salad someone emotion barely gift skill horn atom top legal proof range";
+var mnemonic = "circle find boss despair bounce express dust expand raise ridge drill large";

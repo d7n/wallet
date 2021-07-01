@@ -1,1 +1,1 @@
-var mnemonic = "upon crew sunny theory announce provide clump outdoor panic thunder valid skull";
+var mnemonic = "witness ready embark decorate waste earth asthma alien recycle level tourist good";

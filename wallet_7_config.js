@@ -1,1 +1,1 @@
-var mnemonic = "portion embody similar seed asset garlic matter online true insect confirm skin";
+var mnemonic = "first betray usual forest project drop limb van deny post near remember";

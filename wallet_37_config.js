@@ -1,1 +1,1 @@
-var mnemonic = "slide cloth cash ridge salmon woman south table fruit switch rice merge";
+var mnemonic = "kiwi elevator owner skin piece electric liquid object wing marble clarify aim";

@@ -1,1 +1,1 @@
-var mnemonic = "busy one robust century woman quick version sight crisp youth canal infant";
+var mnemonic = "easy fat immense together atom start finger enact layer festival follow trap";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon brother mention small spoon twin state rocket banana clerk control fish";
+var mnemonic = "leisure will quality stock engine virus swing panic regret floor miracle nerve";

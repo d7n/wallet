@@ -1,1 +1,1 @@
-var mnemonic = "armed reveal genre unable man clinic crucial heart early junior cost dragon";
+var mnemonic = "lyrics income alpha organ cover alert enable flee toddler gun knock bottom";

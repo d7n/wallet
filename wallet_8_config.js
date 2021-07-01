@@ -1,1 +1,1 @@
-var mnemonic = "master brother accident vessel manage soda airport bean vanish wreck imitate chunk";
+var mnemonic = "record possible produce mirror horse involve cousin parent logic rabbit fog advice";

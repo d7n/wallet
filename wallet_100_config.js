@@ -1,1 +1,1 @@
-var mnemonic = "spoil issue phone ladder humble glad surface roof picture cage crop top";
+var mnemonic = "smoke chief deny suffer video alley doll excite sentence express elbow banana";

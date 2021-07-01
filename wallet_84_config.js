@@ -1,1 +1,1 @@
-var mnemonic = "soda used dose inform point sheriff soup dinosaur arch matrix deer judge";
+var mnemonic = "uniform arrest virtual brick worry seed tool brisk gloom afford maze among";

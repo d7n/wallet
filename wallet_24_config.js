@@ -1,1 +1,1 @@
-var mnemonic = "scissors door forum young valve upper must hurry coach picnic hire oppose";
+var mnemonic = "come survey jazz acoustic sick disagree car rain drama shuffle raw glove";

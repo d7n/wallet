@@ -1,1 +1,1 @@
-var mnemonic = "uniform plate innocent student fluid man grunt panel rabbit pull chronic evoke";
+var mnemonic = "bread film arm thumb collect try carry social predict course olympic produce";

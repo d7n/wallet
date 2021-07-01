@@ -1,1 +1,1 @@
-var mnemonic = "regular best flight neutral cycle tattoo also phone hazard promote whisper hurt";
+var mnemonic = "blade clay bring wreck minute gasp tool tunnel fly eyebrow split shop";

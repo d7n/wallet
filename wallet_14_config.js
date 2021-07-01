@@ -1,1 +1,1 @@
-var mnemonic = "fabric garden click icon shallow wedding seven treat town bag mansion walk";
+var mnemonic = "lemon puzzle party spatial present today little address all toddler economy cargo";

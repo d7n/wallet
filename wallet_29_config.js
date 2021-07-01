@@ -1,1 +1,1 @@
-var mnemonic = "prefer shoe naive dress potato release alpha repair state track believe clay";
+var mnemonic = "imitate estate mango tape adult book future skull legend exotic rather rice";

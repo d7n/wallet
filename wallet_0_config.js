@@ -1,1 +1,1 @@
-var mnemonic = "broccoli journey else loop all umbrella talent reward clinic gossip orbit refuse";
+var mnemonic = "risk ball churn cover filter prison heavy empty tissue clap december benefit";

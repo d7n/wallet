@@ -1,1 +1,1 @@
-var mnemonic = "regret inside choose foil tongue motor city tobacco toast defense crucial junk";
+var mnemonic = "view farm garlic museum know segment skill decrease tribe copy toast pride";

@@ -1,1 +1,1 @@
-var mnemonic = "nature oxygen asset crane action cancel club ranch hundred toddler bench fetch";
+var mnemonic = "scene edge ready chunk pill filter recycle buzz mom index trend castle";

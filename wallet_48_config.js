@@ -1,1 +1,1 @@
-var mnemonic = "method wire attack raccoon diamond they manual tomato level oven glory grain";
+var mnemonic = "rabbit focus leisure machine survey faith spoon couch devote exotic ahead claw";

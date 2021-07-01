@@ -1,1 +1,1 @@
-var mnemonic = "rebuild sample tumble snow burden install they stone fiction present hen sound";
+var mnemonic = "apple then earn book siren planet journey sunny debris grunt lens anchor";
