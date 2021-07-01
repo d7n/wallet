@@ -1,1 +1,1 @@
-var mnemonic = "desert key song scrap wage crack crazy rain deny jacket shield unknown";
+var mnemonic = "neck people pulp expire chalk member text citizen perfect slush song thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "size quarter grit jealous around logic fancy eight knock garden shoe ski";
+var mnemonic = "arrive estate drill fortune cigar crime dynamic raccoon wait follow elephant jacket";

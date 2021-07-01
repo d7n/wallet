@@ -1,1 +1,1 @@
-var mnemonic = "below horror word coyote hire slender good veteran vendor reopen road provide";
+var mnemonic = "spread crush sing space key slot luxury exhaust brush blanket travel wrist";

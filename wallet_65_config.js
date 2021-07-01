@@ -1,1 +1,1 @@
-var mnemonic = "boost exact gain cave ritual invite world ensure sponsor index fine stand";
+var mnemonic = "about right nice victory forest lounge alter rich gold doctor slam buzz";

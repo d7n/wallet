@@ -1,1 +1,1 @@
-var mnemonic = "cat resource solar fire person loan wait when teach budget cigar tonight";
+var mnemonic = "provide buzz knife sudden warrior dove book bless exercise hover thing surge";

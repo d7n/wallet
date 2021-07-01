@@ -1,1 +1,1 @@
-var mnemonic = "tribe absorb cake panic feel clay leisure apart depend sorry border away";
+var mnemonic = "capable mercy olympic link cash arena bomb bronze lake junk balance fatigue";

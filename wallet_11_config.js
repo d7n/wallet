@@ -1,1 +1,1 @@
-var mnemonic = "hockey marriage scout fix apart core wrestle discover enforce audit wreck mesh";
+var mnemonic = "jungle monitor now merry caught couple banner arrow street fence lawn column";

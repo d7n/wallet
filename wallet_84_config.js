@@ -1,1 +1,1 @@
-var mnemonic = "mirror deputy rocket abandon gossip plug dance banner mutual simple will stairs";
+var mnemonic = "salute anchor output machine entire invite mushroom frame twist sense amazing proof";

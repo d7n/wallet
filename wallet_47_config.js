@@ -1,1 +1,1 @@
-var mnemonic = "author reward total draw memory journey above token father vital spring topic";
+var mnemonic = "pluck alter race achieve capable portion true boy forward recipe tenant crisp";

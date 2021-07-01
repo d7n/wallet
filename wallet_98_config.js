@@ -1,1 +1,1 @@
-var mnemonic = "narrow outer avoid oblige amount guard drill potato conduct reveal gospel school";
+var mnemonic = "special myth olive warm actual because win special axis crumble spider junk";

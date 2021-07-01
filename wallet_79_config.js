@@ -1,1 +1,1 @@
-var mnemonic = "shallow universe security slab shoulder tip among supreme this slam top saddle";
+var mnemonic = "unaware pole raccoon hockey coffee whip raise brisk tiger clock buyer worth";

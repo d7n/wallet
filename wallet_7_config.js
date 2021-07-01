@@ -1,1 +1,1 @@
-var mnemonic = "cabbage idle mercy armor asset soup wrong chase minute common marriage surround";
+var mnemonic = "keen brick sand foster height apart empty fiber trash damage century bubble";

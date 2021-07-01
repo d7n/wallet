@@ -1,1 +1,1 @@
-var mnemonic = "alarm trigger rocket brass urban visa often wasp month sausage master yard";
+var mnemonic = "miss remember bronze one table round surprise mandate comfort razor seek close";

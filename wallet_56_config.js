@@ -1,1 +1,1 @@
-var mnemonic = "drift pupil act slow torch wedding quit juice normal deliver bless aisle";
+var mnemonic = "unusual produce entire remind enrich amateur erase velvet phrase certain lava room";

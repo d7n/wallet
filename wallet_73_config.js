@@ -1,1 +1,1 @@
-var mnemonic = "tide morning proud essence aim cliff describe shallow arch zoo rubber airport";
+var mnemonic = "soap clump clump viable smooth mom foam upgrade erosion shadow armor toddler";

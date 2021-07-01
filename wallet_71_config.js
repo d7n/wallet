@@ -1,1 +1,1 @@
-var mnemonic = "tongue denial column panda forest poem culture ordinary twenty truly again quote";
+var mnemonic = "goose mesh exact travel verb scheme glance mass input tilt shove window";

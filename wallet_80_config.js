@@ -1,1 +1,1 @@
-var mnemonic = "frown remind whisper arctic spatial brisk occur special account rival city exercise";
+var mnemonic = "fabric violin bacon flat youth wage shed word page crisp busy expand";

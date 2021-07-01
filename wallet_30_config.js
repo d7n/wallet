@@ -1,1 +1,1 @@
-var mnemonic = "people empty garage clip shield celery dry undo enhance laptop thunder identify";
+var mnemonic = "wear clown slow uphold laundry census left vast normal funny favorite virus";

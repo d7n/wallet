@@ -1,1 +1,1 @@
-var mnemonic = "example clay grief gasp winner hedgehog south coral hole giant doll always";
+var mnemonic = "ten project cheap hood decrease stable bright assault help wheel ocean vacuum";

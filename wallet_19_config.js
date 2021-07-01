@@ -1,1 +1,1 @@
-var mnemonic = "witness ill fabric trip profit stock office impose spider hybrid town gold";
+var mnemonic = "admit design lobster order picture cause short modify option junior oyster torch";

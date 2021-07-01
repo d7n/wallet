@@ -1,1 +1,1 @@
-var mnemonic = "buzz detect blade soap popular wood develop tape hurry begin oven race";
+var mnemonic = "upon circle census beauty isolate cloud add purity switch thumb bar language";

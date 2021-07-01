@@ -1,1 +1,1 @@
-var mnemonic = "desk ring country diet ship flavor beach what topple lens spend dance";
+var mnemonic = "demand helmet mountain illegal wife topic broken almost arch modify eye subway";

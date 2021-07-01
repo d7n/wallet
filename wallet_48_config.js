@@ -1,1 +1,1 @@
-var mnemonic = "burger dash double hundred olympic axis make tone comic hedgehog honey glide";
+var mnemonic = "surround sadness utility home census toe fresh month coast arm volcano twelve";

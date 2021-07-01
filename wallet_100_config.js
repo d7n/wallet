@@ -1,1 +1,1 @@
-var mnemonic = "hand rent comfort table real mosquito govern order argue depend scrub scheme";
+var mnemonic = "bounce deposit apology abstract valley feed awesome later claw treat oppose vendor";

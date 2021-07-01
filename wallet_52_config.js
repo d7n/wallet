@@ -1,1 +1,1 @@
-var mnemonic = "curious loud afford master viable sing island sentence attract this zoo parrot";
+var mnemonic = "blouse purse ancient stuff tiny chaos claim another fruit cup effort decade";

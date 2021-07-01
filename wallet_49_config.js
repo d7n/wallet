@@ -1,1 +1,1 @@
-var mnemonic = "monitor season sustain profit inject diet social remind artwork weekend lunch behind";
+var mnemonic = "normal hen flavor reject penalty misery brush lunar peanut conduct rubber kitchen";

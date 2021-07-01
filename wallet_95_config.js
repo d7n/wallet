@@ -1,1 +1,1 @@
-var mnemonic = "zebra spoil ginger erupt divert myth museum critic traffic crowd where off";
+var mnemonic = "garden skull impulse attitude spider wet grass age genuine viable brush cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "derive bullet firm size world pet debris nasty fabric have speed wall";
+var mnemonic = "gesture olive puppy mean during work primary tortoise garage shoulder cute demise";

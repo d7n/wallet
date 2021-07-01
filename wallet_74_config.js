@@ -1,1 +1,1 @@
-var mnemonic = "leave puzzle shaft bitter smile calm category story soda direct rabbit tiger";
+var mnemonic = "month mesh elevator pudding fitness husband frost margin tornado shallow pull century";

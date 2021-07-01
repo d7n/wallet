@@ -1,1 +1,1 @@
-var mnemonic = "garden spare virus envelope rich horn ugly already cat powder addict size";
+var mnemonic = "yard dress curtain day collect jelly bus invest bus vote coach option";

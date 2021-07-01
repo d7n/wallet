@@ -1,1 +1,1 @@
-var mnemonic = "casual aim game citizen relief park mad cruise ramp person kitten narrow";
+var mnemonic = "spot survey tank clog card people you frame behind zero act chaos";

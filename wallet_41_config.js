@@ -1,1 +1,1 @@
-var mnemonic = "again town anger prison fence this garden foam news ring vault trash";
+var mnemonic = "twice hip planet lounge season fish radar shrimp benefit injury ahead fade";

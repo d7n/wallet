@@ -1,1 +1,1 @@
-var mnemonic = "marriage segment assist betray dice task biology midnight permit charge hint mother";
+var mnemonic = "divide face immune very bullet oyster wasp hundred air submit innocent elbow";

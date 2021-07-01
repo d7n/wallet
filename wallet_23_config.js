@@ -1,1 +1,1 @@
-var mnemonic = "tonight plunge emerge correct surprise ship mesh coral brick comic buyer vital";
+var mnemonic = "treat sketch enforce dog guilt wolf poverty behave first office tuna drama";

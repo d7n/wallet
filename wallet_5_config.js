@@ -1,1 +1,1 @@
-var mnemonic = "response elbow gesture accident initial pumpkin stock shaft tomato blade birth deal";
+var mnemonic = "kid arrive advice click online gallery fatal usual exclude ability make bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect fatal soccer middle echo worth poem eager veteran robust switch inform";
+var mnemonic = "trouble primary dragon buffalo void uncover grain relief embrace wink honey fame";

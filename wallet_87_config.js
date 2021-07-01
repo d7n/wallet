@@ -1,1 +1,1 @@
-var mnemonic = "body cancel eight april inmate taste erosion guard degree become section table";
+var mnemonic = "indoor royal flight metal chaos fancy coach sibling door cannon they kitten";

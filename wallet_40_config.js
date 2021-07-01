@@ -1,1 +1,1 @@
-var mnemonic = "small window useless tent donate reveal mushroom ecology rude trick badge phrase";
+var mnemonic = "tornado inherit real connect actor coyote impulse damage bottom army phone entry";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe run badge pride erosion good flat plastic party tired always ocean";
+var mnemonic = "fan debris balcony million alarm save adjust eyebrow chef hidden zoo gain";

@@ -1,1 +1,1 @@
-var mnemonic = "solid able raccoon delay cancel label harbor quality huge car split torch";
+var mnemonic = "fever bounce era already fly behind idle license lunar one alone fruit";

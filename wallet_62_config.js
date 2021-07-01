@@ -1,1 +1,1 @@
-var mnemonic = "method void lady model clinic join roof public pizza neutral awkward churn";
+var mnemonic = "term sorry two immense rug fabric rate glance recipe squeeze wheat cannon";

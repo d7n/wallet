@@ -1,1 +1,1 @@
-var mnemonic = "unknown renew sheriff month spider piano gravity guitar three velvet pipe real";
+var mnemonic = "raise liberty quality asthma level finish century cloth success forward glow biology";

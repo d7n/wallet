@@ -1,1 +1,1 @@
-var mnemonic = "wish betray lava romance brain coach embark unable accuse actor home loud";
+var mnemonic = "window cheap bag noise among flower exile abuse vital ethics random must";

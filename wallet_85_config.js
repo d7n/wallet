@@ -1,1 +1,1 @@
-var mnemonic = "reject tower fire distance canal lecture age mule depend mixed elephant notice";
+var mnemonic = "gaze measure relax chef correct fun catch cluster donate solve deputy member";

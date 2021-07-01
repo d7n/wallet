@@ -1,1 +1,1 @@
-var mnemonic = "spray scout together odor dad sheriff enact uniform indoor breeze food addict";
+var mnemonic = "august lab switch trial radio couch treat sign bench draft fragile involve";

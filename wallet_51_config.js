@@ -1,1 +1,1 @@
-var mnemonic = "approve obscure health damage fade decrease crunch hotel lady matter fish close";
+var mnemonic = "tip horn minor labor athlete merge moment clay flee useless abstract used";

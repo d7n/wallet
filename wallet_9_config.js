@@ -1,1 +1,1 @@
-var mnemonic = "pioneer kingdom dash merit horse stereo burger method frost island author candy";
+var mnemonic = "slender skirt delay maze cement tag suit end divert private predict soup";

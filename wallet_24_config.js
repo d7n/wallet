@@ -1,1 +1,1 @@
-var mnemonic = "pepper depth knee rescue scrap ramp swarm choose february cruel salt section";
+var mnemonic = "strike follow state example utility spring figure feature quantum festival drink audit";

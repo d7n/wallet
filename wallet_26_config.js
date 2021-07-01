@@ -1,1 +1,1 @@
-var mnemonic = "mother identify inspire decline spell picture foil robust edge invest annual suspect";
+var mnemonic = "jealous decline capital inspire love combine bunker gown segment train pool wonder";

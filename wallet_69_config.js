@@ -1,1 +1,1 @@
-var mnemonic = "wrestle tag jump milk ramp winter guard away square slogan paper lobster";
+var mnemonic = "soap obey match narrow critic episode penalty gallery budget puzzle joke rent";

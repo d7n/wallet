@@ -1,1 +1,1 @@
-var mnemonic = "taste soft update cloud gas accuse grocery such found cousin track theory";
+var mnemonic = "diesel audit immense duty omit face night magic wear tortoise square void";

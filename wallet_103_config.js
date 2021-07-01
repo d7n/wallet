@@ -1,1 +1,1 @@
-var mnemonic = "patrol never whip tiger garbage slight wealth immune cruel metal caution across";
+var mnemonic = "slam ten chat nuclear spy donate essay student clever never jelly club";

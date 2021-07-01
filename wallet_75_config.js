@@ -1,1 +1,1 @@
-var mnemonic = "twin finger breeze shrimp detect brief cheese equal inform food fix orient";
+var mnemonic = "noodle damage polar deny clinic index grunt answer exit peanut odor stable";

@@ -1,1 +1,1 @@
-var mnemonic = "dry predict hole practice tourist job road member uniform people young oval";
+var mnemonic = "blanket divide raven potato impact hip catch poem supply ten tooth parade";

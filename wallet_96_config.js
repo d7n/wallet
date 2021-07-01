@@ -1,1 +1,1 @@
-var mnemonic = "small south manual spread job sight change inmate whip license enable foil";
+var mnemonic = "fox hedgehog actor coyote demise anger assault fragile tuition forget feed glide";

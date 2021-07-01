@@ -1,1 +1,1 @@
-var mnemonic = "initial attack image drastic fruit iron squeeze token wood arctic jacket stem";
+var mnemonic = "wet flock cereal father grit adapt resource exotic pluck speak pioneer enjoy";

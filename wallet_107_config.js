@@ -1,1 +1,1 @@
-var mnemonic = "caution bullet ranch clip tonight wealth link awake resemble lake fiscal portion";
+var mnemonic = "robust machine collect similar street smart sunset admit hybrid ceiling company three";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep art acquire size rocket time blame benefit include live sheriff organ";
+var mnemonic = "injury goddess shoulder hurry pill drive keep pool mixture receive chuckle urge";

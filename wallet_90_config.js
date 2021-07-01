@@ -1,1 +1,1 @@
-var mnemonic = "resource birth drop review keen pumpkin because bracket deal prepare dune robust";
+var mnemonic = "slow glory ramp wet satoshi cheap drop candy illegal receive entry hen";

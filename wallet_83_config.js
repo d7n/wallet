@@ -1,1 +1,1 @@
-var mnemonic = "tackle effort voice human deputy sniff hurdle egg sister pond camp fever";
+var mnemonic = "stove vast ask warfare table hello cage assume under latin bicycle digital";

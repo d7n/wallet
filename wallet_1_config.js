@@ -1,1 +1,1 @@
-var mnemonic = "empower away excuse snap human purse bunker walnut tiger captain domain excite";
+var mnemonic = "card laptop gap banana swap impact ability chaos spy nature length frozen";

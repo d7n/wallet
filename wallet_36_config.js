@@ -1,1 +1,1 @@
-var mnemonic = "cup initial brick leaf prepare pudding fault eternal bone train alley dress";
+var mnemonic = "purchase height fall print identify unknown cake tonight wonder garage razor daughter";

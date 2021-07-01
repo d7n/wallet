@@ -1,1 +1,1 @@
-var mnemonic = "glide inch net student trend betray mad surprise vault other slogan blue";
+var mnemonic = "plate earth vital govern best next abuse churn father battle royal angle";

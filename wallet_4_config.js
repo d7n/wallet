@@ -1,1 +1,1 @@
-var mnemonic = "portion match coin gasp abuse height motion topple fence ocean legal axis";
+var mnemonic = "return loyal robust burden genius power unknown dice spy quick caught ivory";

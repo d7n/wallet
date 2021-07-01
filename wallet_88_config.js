@@ -1,1 +1,1 @@
-var mnemonic = "horse add erupt swallow lion alert plug method plug someone sick glad";
+var mnemonic = "learn purchase kitten improve recycle camp skirt master company radar adult nest";

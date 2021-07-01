@@ -1,1 +1,1 @@
-var mnemonic = "parent normal exit prepare dumb transfer volume until magnet attitude prevent wasp";
+var mnemonic = "quit worry afraid unlock test good ship pulp fun allow beach economy";

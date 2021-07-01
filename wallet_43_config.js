@@ -1,1 +1,1 @@
-var mnemonic = "shoot grass rice winner window embody upper hurt ask obey avocado wall";
+var mnemonic = "desk crack goose health thunder assault object involve math swing volume era";

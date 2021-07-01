@@ -1,1 +1,1 @@
-var mnemonic = "tower coconut sing movie embrace sign sun brand song aspect release crouch";
+var mnemonic = "police apology dice divorce dilemma rather income juice weather weird winner dentist";

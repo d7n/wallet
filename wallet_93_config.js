@@ -1,1 +1,1 @@
-var mnemonic = "marine insect debate survey arrive kid guilt arch lock border chunk broccoli";
+var mnemonic = "chunk bread area problem vast improve gloom drive aim calm kind brick";

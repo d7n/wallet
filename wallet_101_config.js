@@ -1,1 +1,1 @@
-var mnemonic = "lucky banner banana return question copper best pet library neutral discover easily";
+var mnemonic = "glare thing quote couple forum jump join recycle pond cave era evil";

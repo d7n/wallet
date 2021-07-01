@@ -1,1 +1,1 @@
-var mnemonic = "width human voice fatigue suspect debris phone vehicle office argue upon coffee";
+var mnemonic = "snake drive between domain agree urban wife patient cattle use palm vague";

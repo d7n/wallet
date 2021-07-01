@@ -1,1 +1,1 @@
-var mnemonic = "science vapor act blame enemy soccer invest hockey roof nation wall rice";
+var mnemonic = "muscle leg essay divorce kick enlist base update quote endorse core quality";

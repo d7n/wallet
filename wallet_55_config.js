@@ -1,1 +1,1 @@
-var mnemonic = "company deny apple cloud leisure energy define economy enrich stable day tonight";
+var mnemonic = "analyst celery way surface client supply antique decade inside gadget shrimp mimic";

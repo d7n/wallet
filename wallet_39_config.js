@@ -1,1 +1,1 @@
-var mnemonic = "maximum kingdom orbit frequent maze abuse recipe actress hybrid slam sing amateur";
+var mnemonic = "crunch soul field math differ exotic dust insect grab daring that soul";

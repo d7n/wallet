@@ -1,1 +1,1 @@
-var mnemonic = "pride word school monkey train book legend senior key hair churn sword";
+var mnemonic = "merge play property warrior reunion lobster barrel about menu exhaust beach family";

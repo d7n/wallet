@@ -1,1 +1,1 @@
-var mnemonic = "marine debate supreme damage merit clump power expand jelly clock argue memory";
+var mnemonic = "install regret radio logic radio dash anxiety payment panic humor code language";

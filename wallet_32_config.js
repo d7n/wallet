@@ -1,1 +1,1 @@
-var mnemonic = "chuckle gun forest copy tennis lounge melody turtle artwork cable fly cave";
+var mnemonic = "pave happy depend beef wheat tell buzz calm genius shoulder explain cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty hat sea enter weekend vehicle address inch trap visual tenant turn";
+var mnemonic = "glance attitude seminar wool biology health voyage open drastic ice mammal giraffe";

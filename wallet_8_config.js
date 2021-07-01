@@ -1,1 +1,1 @@
-var mnemonic = "balcony hammer dismiss seek banana tackle dance atom summer depend car inquiry";
+var mnemonic = "regret question drink dream display scene warfare border derive stadium scout trade";

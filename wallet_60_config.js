@@ -1,1 +1,1 @@
-var mnemonic = "north add flock captain random trend web repair bounce soup pizza quiz";
+var mnemonic = "fine extend matrix twelve basic scout wire unveil fitness fit rigid wreck";

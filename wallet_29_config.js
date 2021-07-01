@@ -1,1 +1,1 @@
-var mnemonic = "credit inject item mandate glass need rubber check witness gift outside banana";
+var mnemonic = "lava save ritual focus way ice since nephew cactus badge hammer skirt";

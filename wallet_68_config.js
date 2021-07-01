@@ -1,1 +1,1 @@
-var mnemonic = "correct write allow need chunk close harvest party pulp rice cloth fetch";
+var mnemonic = "awesome trigger outdoor old real script swim quiz endless one have ripple";

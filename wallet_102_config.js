@@ -1,1 +1,1 @@
-var mnemonic = "entire hazard payment grit attack interest hour alcohol pole eye love embody";
+var mnemonic = "chalk daring chase chuckle year egg mystery obtain better dish poem squeeze";

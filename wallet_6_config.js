@@ -1,1 +1,1 @@
-var mnemonic = "base essay flush salmon home slush clog able snack volume horse live";
+var mnemonic = "that rent struggle file suit endless rhythm muffin birth double oyster genuine";

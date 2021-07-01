@@ -1,1 +1,1 @@
-var mnemonic = "humor fantasy cook clutch taste poem cart glare unaware silk good aim";
+var mnemonic = "elephant friend nominee add master walk cheap gasp uphold crucial squirrel ecology";

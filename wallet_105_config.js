@@ -1,1 +1,1 @@
-var mnemonic = "flush theme long glass possible what upper slush aisle library indoor base";
+var mnemonic = "sail action dynamic truth fall route boat scheme million wink scheme eagle";

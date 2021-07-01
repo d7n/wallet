@@ -1,1 +1,1 @@
-var mnemonic = "rose kingdom outside major corn surround early eight feature until blind army";
+var mnemonic = "present girl all local bone federal rebuild drama essence close unusual wool";

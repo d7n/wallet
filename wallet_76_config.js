@@ -1,1 +1,1 @@
-var mnemonic = "chair okay zoo large october secret hand forget tent chaos common usage";
+var mnemonic = "million visual wool hope wire decorate cluster border arrow beef egg story";

@@ -1,1 +1,1 @@
-var mnemonic = "interest road quote unfair firm enjoy buzz alert remind pipe salmon leopard";
+var mnemonic = "dinosaur normal bleak brick strategy couch census abuse inform swamp lyrics home";

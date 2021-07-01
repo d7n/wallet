@@ -1,1 +1,1 @@
-var mnemonic = "mule rookie thank hold fabric announce direct mask wish machine bright venture";
+var mnemonic = "yellow apart system fade exclude human position muscle similar rural giraffe awkward";

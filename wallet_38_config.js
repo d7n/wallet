@@ -1,1 +1,1 @@
-var mnemonic = "gauge silk punch bulb edit allow speed bachelor cash virtual scene water";
+var mnemonic = "foster metal physical letter warrior arrive once rubber fetch burst tell piano";

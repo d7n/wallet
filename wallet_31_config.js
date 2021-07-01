@@ -1,1 +1,1 @@
-var mnemonic = "burst because wait fetch addict bar toward toddler south twelve canoe thumb";
+var mnemonic = "benefit weather move dismiss metal future ancient genuine lawn nothing actor viable";

@@ -1,1 +1,1 @@
-var mnemonic = "practice film network penalty control wheel vibrant initial orange add effort grant";
+var mnemonic = "cliff figure liberty length pudding cover demand glory toddler edge balance divorce";

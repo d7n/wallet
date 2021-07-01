@@ -1,1 +1,1 @@
-var mnemonic = "spatial crash spend system soup artist addict close taxi claim inmate jealous";
+var mnemonic = "enforce ecology settle recycle horn poverty skate flash explain obey ocean liar";

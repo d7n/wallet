@@ -1,1 +1,1 @@
-var mnemonic = "circle table mango live vessel sound humble jungle sibling festival renew grief";
+var mnemonic = "purity slice vocal chief elder ill submit produce chuckle timber vehicle primary";

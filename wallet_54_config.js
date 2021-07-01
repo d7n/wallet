@@ -1,1 +1,1 @@
-var mnemonic = "laptop travel aim energy wedding speed sugar destroy rain fragile found antenna";
+var mnemonic = "stuff harvest raw moral clean supply where goat cradle spin basket network";

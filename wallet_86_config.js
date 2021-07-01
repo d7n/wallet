@@ -1,1 +1,1 @@
-var mnemonic = "miracle noble dad filter reunion anger surround ribbon already warm surround embrace";
+var mnemonic = "virtual welcome private summer luxury oyster rail taxi burden sample sort announce";

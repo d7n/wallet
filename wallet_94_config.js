@@ -1,1 +1,1 @@
-var mnemonic = "pudding food benefit rocket ensure index forget super gallery shine garlic sentence";
+var mnemonic = "phone gown slab prosper confirm cram swift tail jewel page agent midnight";
