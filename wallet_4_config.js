@@ -1,1 +1,1 @@
-var mnemonic = "depart travel mixed type tip figure shuffle harsh cannon dynamic wedding cry";
+var mnemonic = "people squeeze load subject plunge erosion assault tower cup used bulk often";

@@ -1,1 +1,1 @@
-var mnemonic = "wave feel alter blame library firm mansion symptom argue spatial tag shadow";
+var mnemonic = "zebra crash vacant stove model where side eternal cabin flush collect absorb";

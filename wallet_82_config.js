@@ -1,1 +1,1 @@
-var mnemonic = "inject maple finger smile first random toilet hub quick giggle tongue manual";
+var mnemonic = "trigger cricket sell regular pill select depth atom outside roof rotate defy";

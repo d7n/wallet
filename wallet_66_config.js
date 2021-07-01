@@ -1,1 +1,1 @@
-var mnemonic = "pyramid test adapt wonder notable mirror shield random avocado pet tooth fabric";
+var mnemonic = "carry orphan sniff mosquito master leader before page bunker bulb clerk elder";

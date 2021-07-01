@@ -1,1 +1,1 @@
-var mnemonic = "surface economy rebel black frequent rather install merry job size pudding clog";
+var mnemonic = "zoo rose easy home sense weird bird lecture corn current coach stove";

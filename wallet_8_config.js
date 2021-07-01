@@ -1,1 +1,1 @@
-var mnemonic = "system smile toward vast bench bleak ketchup crush empower panda fame prize";
+var mnemonic = "also vanish curious hotel access close delay blush used clap clean corn";

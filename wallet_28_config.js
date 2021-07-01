@@ -1,1 +1,1 @@
-var mnemonic = "again ghost snack soup race blush draw battle essay burden hand basket";
+var mnemonic = "bonus blossom cradle hint urge either copper brick zone unveil profit exhaust";

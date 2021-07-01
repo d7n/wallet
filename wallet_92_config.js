@@ -1,1 +1,1 @@
-var mnemonic = "roast result select one rocket erupt sense cheap language dice tissue access";
+var mnemonic = "frame crowd wet pave income code sadness bullet drink excite neither apple";

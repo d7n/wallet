@@ -1,1 +1,1 @@
-var mnemonic = "absent jeans decide lizard result deny kiwi hidden upset ginger force inherit";
+var mnemonic = "banana usage fall cruel portion illness spawn farm thrive hair phone maid";

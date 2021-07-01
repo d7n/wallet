@@ -1,1 +1,1 @@
-var mnemonic = "alarm sunset nuclear width end intact crash oak room vendor panel admit";
+var mnemonic = "giggle section atom genuine issue rapid train crater soda adapt trip produce";

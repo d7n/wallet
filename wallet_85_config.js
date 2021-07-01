@@ -1,1 +1,1 @@
-var mnemonic = "august aim bean wagon flash glimpse ticket knock resemble slide wedding series";
+var mnemonic = "rose insane fatigue nurse settle begin success vanish become track army multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "offer trim crater voyage short dilemma depend apple return section gesture smooth";
+var mnemonic = "rain heavy furnace advance devote time glimpse side neither thought awkward salute";

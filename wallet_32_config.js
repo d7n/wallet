@@ -1,1 +1,1 @@
-var mnemonic = "critic fee fossil trial nerve man ozone bid mixed patch lady vibrant";
+var mnemonic = "capable inquiry next music basket era sugar skull discover yard upper glue";

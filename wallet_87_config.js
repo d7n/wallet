@@ -1,1 +1,1 @@
-var mnemonic = "record exile depend cover hunt shrimp live people worth shrimp blind inform";
+var mnemonic = "arm win woman nominee exile apart mesh wash tornado help segment slab";

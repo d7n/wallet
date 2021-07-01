@@ -1,1 +1,1 @@
-var mnemonic = "retreat reject supply unique average unveil talent organ snack occur glow town";
+var mnemonic = "wise same pioneer punch praise teach power fancy sick wrist click fee";

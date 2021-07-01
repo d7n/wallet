@@ -1,1 +1,1 @@
-var mnemonic = "scrub will cushion wage scout bind latin kitchen own group say scorpion";
+var mnemonic = "milk velvet cart symbol genuine morning loan plastic crane smart accuse tomato";

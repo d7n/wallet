@@ -1,1 +1,1 @@
-var mnemonic = "area drastic moon hand sun affair stove control drum lizard rent critic";
+var mnemonic = "grass soda used card rug pyramid picnic butter repair napkin opinion supply";

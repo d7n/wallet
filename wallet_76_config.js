@@ -1,1 +1,1 @@
-var mnemonic = "spoil mistake stem change home rapid place slogan mistake uniform crucial work";
+var mnemonic = "battle twelve subway risk stick nose mystery proof army solve cigar sustain";

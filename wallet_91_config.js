@@ -1,1 +1,1 @@
-var mnemonic = "blush egg toddler normal century tide hour embrace animal knife physical churn";
+var mnemonic = "leg sponsor museum west match claw join judge empower similar south eager";

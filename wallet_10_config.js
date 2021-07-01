@@ -1,1 +1,1 @@
-var mnemonic = "vibrant journey switch cruise index now lesson raise useless tribe pattern bench";
+var mnemonic = "audit run foam excite pair taste fat symbol afford useful pilot scrub";

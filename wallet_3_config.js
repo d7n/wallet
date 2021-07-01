@@ -1,1 +1,1 @@
-var mnemonic = "nominee winner excess rate garage glory error language venture hybrid unhappy clutch";
+var mnemonic = "suspect laundry peanut season another genuine prepare six eyebrow acoustic voyage match";

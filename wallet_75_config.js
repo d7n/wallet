@@ -1,1 +1,1 @@
-var mnemonic = "ginger crisp game loan tourist weapon boy wash exhibit resist damp elbow";
+var mnemonic = "drip mention mother talk become slight speak royal alarm clever coin ridge";

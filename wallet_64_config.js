@@ -1,1 +1,1 @@
-var mnemonic = "guide snack taste portion reduce liberty rough minor outer breeze worth obtain";
+var mnemonic = "crew olive zone drama warfare behave match already suffer divide piece mushroom";

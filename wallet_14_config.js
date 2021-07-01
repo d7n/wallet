@@ -1,1 +1,1 @@
-var mnemonic = "elevator party express erupt carpet famous flock frequent rebel old found genius";
+var mnemonic = "once rule chicken butter edge crouch know lady curious plate acquire razor";

@@ -1,1 +1,1 @@
-var mnemonic = "festival victory click region harsh zebra hip license pilot rack desert aspect";
+var mnemonic = "disorder pig unknown casual skirt letter narrow air spice fluid elbow double";

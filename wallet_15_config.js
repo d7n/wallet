@@ -1,1 +1,1 @@
-var mnemonic = "twenty shoulder chalk check million pear drink again vintage begin night collect";
+var mnemonic = "glare bleak twenty jealous series unable liquid city fashion bar census cabin";

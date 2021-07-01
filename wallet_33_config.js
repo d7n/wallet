@@ -1,1 +1,1 @@
-var mnemonic = "place viable sweet rug laugh skull armed paper tone hover soccer have";
+var mnemonic = "panda humble deal gap second mule ketchup junior notable sleep regular rigid";

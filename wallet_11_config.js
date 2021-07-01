@@ -1,1 +1,1 @@
-var mnemonic = "lesson name credit trophy sketch outdoor thought chef ramp extra absorb cute";
+var mnemonic = "coral adjust cannon volcano rabbit damp pool vacuum tonight pair radio autumn";

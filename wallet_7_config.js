@@ -1,1 +1,1 @@
-var mnemonic = "prepare input parent narrow sketch tonight engage verb spider defense milk rude";
+var mnemonic = "glue cat escape bicycle nerve finger little time equal moral paddle lunar";

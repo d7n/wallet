@@ -1,1 +1,1 @@
-var mnemonic = "bright defy ill gym burger anchor vote omit engine atom champion alley";
+var mnemonic = "acoustic physical nation swamp hold mistake first solution sure nation anchor ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "solution soul simple produce impact bracket camera judge next kit rally goddess";
+var mnemonic = "filter odor chimney frown moment endless vibrant liquid hedgehog exclude survey lake";

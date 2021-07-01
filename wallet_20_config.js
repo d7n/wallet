@@ -1,1 +1,1 @@
-var mnemonic = "glimpse nephew enact miracle demise garden witness elite hawk film recipe moral";
+var mnemonic = "cricket bean derive bridge later arrest metal exhibit bread test claw text";

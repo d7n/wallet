@@ -1,1 +1,1 @@
-var mnemonic = "dream digital uncover few magnet doll orphan seminar couch ankle gown pioneer";
+var mnemonic = "vacant drill abstract sport trend milk improve hat head capable small tell";

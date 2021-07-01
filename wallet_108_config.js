@@ -1,1 +1,1 @@
-var mnemonic = "end churn bunker clever charge recipe guitar assume lizard oyster dentist tag";
+var mnemonic = "orange ring huge merge bleak mouse differ element choice culture flavor inquiry";

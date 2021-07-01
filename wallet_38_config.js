@@ -1,1 +1,1 @@
-var mnemonic = "six actual blood slogan client vapor either smoke can merge ring olympic";
+var mnemonic = "night degree tomorrow cluster outer attract glass insane scrap forum general spice";

@@ -1,1 +1,1 @@
-var mnemonic = "trade cycle window coyote light traffic castle like trip hedgehog icon dice";
+var mnemonic = "need apple snack sheriff taste foil question title attend where pencil jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon east walk legal initial attitude clay left luggage coin also when";
+var mnemonic = "risk route mixed tell chunk check update pistol journey wash reveal wool";

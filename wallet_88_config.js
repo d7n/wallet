@@ -1,1 +1,1 @@
-var mnemonic = "alone exit dial project shock delay often tail update wise belt diet";
+var mnemonic = "disorder phrase frequent phrase prosper napkin unaware voyage announce sorry interest endless";

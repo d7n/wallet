@@ -1,1 +1,1 @@
-var mnemonic = "winter bid lizard flight pigeon deal web ghost consider excess loud kite";
+var mnemonic = "city file gravity sick rain pudding share fetch lounge voyage traffic digital";

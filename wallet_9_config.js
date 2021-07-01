@@ -1,1 +1,1 @@
-var mnemonic = "boy sail alcohol churn noodle palace long potato limit knock crumble doll";
+var mnemonic = "jazz crucial peanut shiver heart curtain thrive decorate faith protect course hill";

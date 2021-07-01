@@ -1,1 +1,1 @@
-var mnemonic = "invite nice winter arm toilet kiwi visual print potato mother gown satoshi";
+var mnemonic = "brisk creek worth rice street vicious hazard entry flee observe energy kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "away reason dish camera hill grief same endless federal desk manual injury";
+var mnemonic = "spatial category warm toe judge embrace tube inhale cool okay youth seek";

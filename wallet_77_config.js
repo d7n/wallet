@@ -1,1 +1,1 @@
-var mnemonic = "waste end visa pact half phrase resist general forum among absorb hurry";
+var mnemonic = "quality kidney wealth kidney found list kitten viable suffer cousin latin legal";

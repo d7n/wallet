@@ -1,1 +1,1 @@
-var mnemonic = "measure tomorrow bracket rib unhappy volcano timber mom desert dose celery push";
+var mnemonic = "surge energy carry sugar alone major point stand wave brisk cook bless";

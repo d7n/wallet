@@ -1,1 +1,1 @@
-var mnemonic = "coil desert gap energy fetch goddess school since movie purity ordinary afraid";
+var mnemonic = "insane business ripple bicycle stereo bachelor letter first holiday risk nominee riot";

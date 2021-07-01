@@ -1,1 +1,1 @@
-var mnemonic = "rigid chalk ride foot worry jazz dice hard reflect surprise provide forward";
+var mnemonic = "harbor adjust kid match crucial echo explain myth tone rescue plunge base";

@@ -1,1 +1,1 @@
-var mnemonic = "ski try scheme rhythm lion float essay bike nerve cute upon surface";
+var mnemonic = "document choose public wish dignity huge brass flock empty gown fly clump";

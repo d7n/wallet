@@ -1,1 +1,1 @@
-var mnemonic = "fury olive sunny loan old enroll canal civil rocket garden flee mass";
+var mnemonic = "uncle aim cute response fold orphan obey twin attitude wine equip know";

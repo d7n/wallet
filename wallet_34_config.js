@@ -1,1 +1,1 @@
-var mnemonic = "bitter right cage discover about seat home leave sun audit evoke robust";
+var mnemonic = "until indicate suffer audit exit satisfy matrix garage demand leaf wide artist";

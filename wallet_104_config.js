@@ -1,1 +1,1 @@
-var mnemonic = "trap voyage boil fee unusual shadow warrior member gallery average predict wing";
+var mnemonic = "solar trim earth prepare safe stairs father giant acoustic juice antique duck";

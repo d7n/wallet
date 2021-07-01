@@ -1,1 +1,1 @@
-var mnemonic = "fatal buyer world fluid crush teach holiday beyond enforce chimney layer drift";
+var mnemonic = "away vote harsh royal fame dinner orbit search soccer muscle history birth";

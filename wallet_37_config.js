@@ -1,1 +1,1 @@
-var mnemonic = "already rural layer depart muffin next trash one anchor loyal blouse world";
+var mnemonic = "loop road meat point sniff fog grief deposit cushion pear emotion frog";

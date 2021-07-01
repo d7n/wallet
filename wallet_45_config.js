@@ -1,1 +1,1 @@
-var mnemonic = "remove frame poverty forward service husband post leisure critic column horror consider";
+var mnemonic = "swallow nose purchase bridge weasel place vessel digital country nose history night";

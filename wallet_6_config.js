@@ -1,1 +1,1 @@
-var mnemonic = "render sample quick option impulse junior illegal sock river truly vague hockey";
+var mnemonic = "stem vicious student poet all park pony crunch violin carry combine clerk";

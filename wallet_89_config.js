@@ -1,1 +1,1 @@
-var mnemonic = "mad nice giraffe cage issue edge setup length elephant obvious wish sort";
+var mnemonic = "emerge crystal there picnic rigid bone escape ugly magnet find room rabbit";

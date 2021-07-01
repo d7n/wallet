@@ -1,1 +1,1 @@
-var mnemonic = "spin net tiny tomato pear huge level cargo position push warfare chapter";
+var mnemonic = "bubble reveal thing shed relief pause awkward negative indicate album nuclear trim";

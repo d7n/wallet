@@ -1,1 +1,1 @@
-var mnemonic = "sting issue afford husband rail october talent slice achieve pill garment venue";
+var mnemonic = "street novel wrist innocent field ability ketchup tooth piece deny forward outdoor";

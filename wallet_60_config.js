@@ -1,1 +1,1 @@
-var mnemonic = "demise disease picnic useless private nut moment aisle stadium dune load advice";
+var mnemonic = "photo hole left year float build best fortune razor mean legend border";

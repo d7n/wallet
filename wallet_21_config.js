@@ -1,1 +1,1 @@
-var mnemonic = "disease leave entry damage head kitchen step usage lyrics intact august also";
+var mnemonic = "beyond round upper hollow walk ozone awesome chest occur denial use bag";

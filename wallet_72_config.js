@@ -1,1 +1,1 @@
-var mnemonic = "lazy notice fatal purse eyebrow test demise essence fortune page adjust catalog";
+var mnemonic = "swarm session online chronic unable monster elephant stable when turn purchase empower";

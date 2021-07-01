@@ -1,1 +1,1 @@
-var mnemonic = "saddle panther tube diet insect female zone fitness entry afford room belt";
+var mnemonic = "guilt attitude dash wrong friend target intact blur notice quick route spin";

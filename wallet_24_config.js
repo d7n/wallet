@@ -1,1 +1,1 @@
-var mnemonic = "focus hamster chat myth shoulder purse gasp alert casual cannon segment outdoor";
+var mnemonic = "cruise stock famous tiny custom advance spell piano seven assist mystery capital";

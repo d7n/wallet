@@ -1,1 +1,1 @@
-var mnemonic = "amount thumb home worry hotel giant bless auto multiply govern ritual coin";
+var mnemonic = "dish rough tray age horror author garbage crawl actual gym burger book";

@@ -1,1 +1,1 @@
-var mnemonic = "survey bullet gas dish cabin sense leave away tribe spice pool hamster";
+var mnemonic = "method donor wait between gallery frown crush bronze hold feed page during";

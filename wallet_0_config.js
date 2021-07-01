@@ -1,1 +1,1 @@
-var mnemonic = "gown people steak mimic harsh hover impulse keep divorce diesel grape story";
+var mnemonic = "base garment family wink toilet clinic thought abuse peace sound hood motor";

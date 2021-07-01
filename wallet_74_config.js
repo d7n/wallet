@@ -1,1 +1,1 @@
-var mnemonic = "wheel device betray own fall wisdom much nurse brand scorpion olive you";
+var mnemonic = "gesture flight genre stamp exile shrimp fade marble coach robust dog damage";

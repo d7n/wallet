@@ -1,1 +1,1 @@
-var mnemonic = "account shell entry whale case dice search strong normal cage fit rely";
+var mnemonic = "aerobic float deer drop witness hill security surge cruel tower physical buyer";

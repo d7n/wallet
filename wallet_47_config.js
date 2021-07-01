@@ -1,1 +1,1 @@
-var mnemonic = "wheel shine pepper syrup sunny giant tail wash matter park access pair";
+var mnemonic = "gift broccoli grant size neutral shed prefer cry among friend prize client";

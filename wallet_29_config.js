@@ -1,1 +1,1 @@
-var mnemonic = "era actress grape reason great vanish sight boat attend arm hire poet";
+var mnemonic = "buzz price situate neck misery little refuse proud section kiwi fence vacuum";

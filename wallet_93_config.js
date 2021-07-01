@@ -1,1 +1,1 @@
-var mnemonic = "travel bitter rack note frame awful derive broccoli thought service vault strong";
+var mnemonic = "hire mix flee option flush wide cram crunch mystery casino tumble great";

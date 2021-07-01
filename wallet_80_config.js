@@ -1,1 +1,1 @@
-var mnemonic = "crash parent night reduce enroll someone finger company siren bunker domain shed";
+var mnemonic = "bounce almost taste happy asthma elegant inflict stand place direct surround easily";

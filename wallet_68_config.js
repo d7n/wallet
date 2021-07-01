@@ -1,1 +1,1 @@
-var mnemonic = "boost vivid fade primary wrong math lecture grow arctic judge south valve";
+var mnemonic = "arctic thunder angry dial hub clerk toss devote fun crack grant good";

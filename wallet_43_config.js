@@ -1,1 +1,1 @@
-var mnemonic = "liar burden live ranch gorilla brother creek law dutch select ship write";
+var mnemonic = "fruit meadow wagon voice cigar become today mother slogan prepare once pizza";

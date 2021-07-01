@@ -1,1 +1,1 @@
-var mnemonic = "iron priority act regret leaf reveal curve stick hire step rifle surprise";
+var mnemonic = "language market ostrich clown turtle improve grid school between cannon right hour";

@@ -1,1 +1,1 @@
-var mnemonic = "short define axis crunch tape other urban rail rail later tonight oven";
+var mnemonic = "scan life slow faculty giraffe entire female mystery review cargo outside ship";

@@ -1,1 +1,1 @@
-var mnemonic = "afford wide protect trip bulb unusual twice relief clog economy spoil rail";
+var mnemonic = "raven wheat agree arm quantum snap situate calm below occur magic diesel";

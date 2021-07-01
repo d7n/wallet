@@ -1,1 +1,1 @@
-var mnemonic = "zone bulb south photo silver motion crop object creek rent vapor cargo";
+var mnemonic = "athlete aerobic uphold speak olive syrup explain rose catalog explain cliff thrive";

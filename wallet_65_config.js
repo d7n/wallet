@@ -1,1 +1,1 @@
-var mnemonic = "unhappy frown nasty jealous because disorder area mushroom equal surge balance art";
+var mnemonic = "raccoon hood antique nature thought pride account mushroom brisk sponsor diagram there";

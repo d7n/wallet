@@ -1,1 +1,1 @@
-var mnemonic = "dance thumb curious hip enemy stock diesel kiwi give expect glance army";
+var mnemonic = "rough vast jeans offer crime advance shoulder obscure lyrics rice reduce soccer";

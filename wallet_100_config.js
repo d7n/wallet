@@ -1,1 +1,1 @@
-var mnemonic = "ginger act bridge wash unaware convince stamp bone weather carbon country wave";
+var mnemonic = "squirrel mail abstract elite zebra armor ketchup rice idea rare festival speak";

@@ -1,1 +1,1 @@
-var mnemonic = "vital bench require sorry puzzle panic heart vague rail trouble basic because";
+var mnemonic = "copy age budget room gas toss crisp behave carpet either close bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "deny effort delay green please latin crush power banner clarify visit wise";
+var mnemonic = "hungry slice crouch donkey cat topple success limit pledge wrap fetch order";

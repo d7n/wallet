@@ -1,1 +1,1 @@
-var mnemonic = "exclude quiz old toilet exit insect office pioneer culture race bullet demand";
+var mnemonic = "tuna relax fetch erupt toss poem couch capable oxygen sword marriage tail";

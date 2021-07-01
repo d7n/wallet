@@ -1,1 +1,1 @@
-var mnemonic = "romance comic inherit spoon flock pulse evidence world sniff suffer guide detail";
+var mnemonic = "farm ramp banner supply clever camera venue summer picnic struggle correct era";

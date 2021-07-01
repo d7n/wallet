@@ -1,1 +1,1 @@
-var mnemonic = "anger anchor exit clock innocent squirrel cinnamon major dragon puzzle leg pen";
+var mnemonic = "middle position normal price occur great ahead badge soon smile concert praise";
