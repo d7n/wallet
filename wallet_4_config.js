@@ -1,1 +1,1 @@
-var mnemonic = "obey cement start gadget exit ethics unlock order damp debate cloud menu";
+var mnemonic = "upon crew sunny theory announce provide clump outdoor panic thunder valid skull";

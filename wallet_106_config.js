@@ -1,1 +1,1 @@
-var mnemonic = "field math clarify use cause evolve inherit mention oxygen pulp robust amateur";
+var mnemonic = "meadow tattoo explain loan blue area call vintage twenty tattoo clip upon";

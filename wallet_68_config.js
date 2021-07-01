@@ -1,1 +1,1 @@
-var mnemonic = "toss multiply couple atom sail grow grace uphold lava stool cigar thumb";
+var mnemonic = "team movie approve voyage nasty floor select comfort key lottery profit doctor";

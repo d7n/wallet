@@ -1,1 +1,1 @@
-var mnemonic = "laundry rug just either place draft occur ritual ball later artist match";
+var mnemonic = "surface guard congress exercise wolf diagram cash boost easy indicate spawn decline";

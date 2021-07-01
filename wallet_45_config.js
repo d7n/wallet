@@ -1,1 +1,1 @@
-var mnemonic = "gas poet airport ritual dream protect pen carbon bubble seven spy shadow";
+var mnemonic = "seek lyrics shift tilt enact record lava burst school express stand predict";

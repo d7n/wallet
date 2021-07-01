@@ -1,1 +1,1 @@
-var mnemonic = "team infant topic gravity spy cannon mobile sound holiday divide range rate";
+var mnemonic = "before ensure green blast brave link garden antenna hurt eager ahead venture";

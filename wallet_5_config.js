@@ -1,1 +1,1 @@
-var mnemonic = "wise tower winner tent violin salute fly win hawk measure cloth click";
+var mnemonic = "trial simple pipe depart pave zero valid novel order edge talk once";

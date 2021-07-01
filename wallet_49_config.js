@@ -1,1 +1,1 @@
-var mnemonic = "able modify defense begin advice track unveil vacuum person banana hobby old";
+var mnemonic = "poverty omit forget husband hire series tomato gown peanut purse hint lake";

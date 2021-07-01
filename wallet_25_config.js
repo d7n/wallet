@@ -1,1 +1,1 @@
-var mnemonic = "error pitch praise mammal amazing afford empty pride city erosion hurt teach";
+var mnemonic = "crisp old sign make mention lonely size wedding gauge hazard awful market";

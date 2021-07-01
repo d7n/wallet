@@ -1,1 +1,1 @@
-var mnemonic = "clog claw palace skirt correct victory access rail toilet forest key onion";
+var mnemonic = "aware seven witness author nephew paper napkin tennis chunk object recall riot";

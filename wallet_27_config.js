@@ -1,1 +1,1 @@
-var mnemonic = "panic suspect cover shallow salad one kiss cost abuse world kind position";
+var mnemonic = "siege online december van couch adapt cook silly fault fury dice cat";

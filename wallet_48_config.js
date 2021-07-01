@@ -1,1 +1,1 @@
-var mnemonic = "senior direct wonder hair prosper tribe bench method chair excuse disorder chunk";
+var mnemonic = "method wire attack raccoon diamond they manual tomato level oven glory grain";

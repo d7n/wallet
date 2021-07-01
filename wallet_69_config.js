@@ -1,1 +1,1 @@
-var mnemonic = "nothing claw damp biology ring other liar alcohol gasp cube harbor reflect";
+var mnemonic = "error damage method duck hammer damage bone type enrich diamond legend midnight";

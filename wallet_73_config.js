@@ -1,1 +1,1 @@
-var mnemonic = "noble pulse plug swarm general measure strike feed clarify improve shove winner";
+var mnemonic = "forward diary human dance blouse average quote bundle illness spin wave sudden";

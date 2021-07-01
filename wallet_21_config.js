@@ -1,1 +1,1 @@
-var mnemonic = "hungry wreck mirror throw next license rely pudding laptop hood cream dawn";
+var mnemonic = "pill oval nerve bread drop casual ball vague symbol share arrive myth";

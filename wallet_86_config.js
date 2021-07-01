@@ -1,1 +1,1 @@
-var mnemonic = "news sound coin illness love immense measure fly stable wine sick crucial";
+var mnemonic = "toast boy beef medal sock leisure olive sock behave adult fever face";

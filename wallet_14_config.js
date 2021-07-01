@@ -1,1 +1,1 @@
-var mnemonic = "lemon whisper gate chunk still clay blanket wine federal timber maximum fury";
+var mnemonic = "fabric garden click icon shallow wedding seven treat town bag mansion walk";

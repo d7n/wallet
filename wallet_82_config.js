@@ -1,1 +1,1 @@
-var mnemonic = "gallery gym thrive grit kitten steel tongue tissue mimic remember arrange rely";
+var mnemonic = "resource key cat ten plastic spend snack access swarm solid pipe pool";

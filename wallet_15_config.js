@@ -1,1 +1,1 @@
-var mnemonic = "clever arctic bright scale pond track start jungle front poet brisk explain";
+var mnemonic = "check broccoli execute bar frequent alarm nasty flavor discover inform insane ankle";

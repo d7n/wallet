@@ -1,1 +1,1 @@
-var mnemonic = "corn seek text universe list slice east end foam innocent try mystery";
+var mnemonic = "armed reveal genre unable man clinic crucial heart early junior cost dragon";

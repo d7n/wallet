@@ -1,1 +1,1 @@
-var mnemonic = "mixed motion humble test stamp vintage ship age response mirror win lottery";
+var mnemonic = "couple will whip album satoshi near define rice unveil nominee tunnel bone";

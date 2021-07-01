@@ -1,1 +1,1 @@
-var mnemonic = "olive sense main creek squirrel upper artefact rigid vicious weapon october drink";
+var mnemonic = "napkin science absorb bag embody dutch abandon worth student ancient drop garlic";

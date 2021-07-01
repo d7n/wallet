@@ -1,1 +1,1 @@
-var mnemonic = "young potato phone mercy chair harsh host scatter bleak wolf rule ivory";
+var mnemonic = "cute horn fold coast witness cute diesel gap taxi half bamboo spoil";

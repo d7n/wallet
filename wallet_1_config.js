@@ -1,1 +1,1 @@
-var mnemonic = "property timber leg tube utility truck viable general grid plug awkward spider";
+var mnemonic = "energy hotel tribe virus country mouse attract reunion novel post vintage stable";

@@ -1,1 +1,1 @@
-var mnemonic = "raw disease loan spoil outside muffin carry title right under comfort drill";
+var mnemonic = "motion bomb security unknown stuff frost high fish jeans slow dial nut";

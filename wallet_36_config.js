@@ -1,1 +1,1 @@
-var mnemonic = "clip system track planet spider sand enrich budget angle gift title seat";
+var mnemonic = "ecology rhythm travel funny author arena you ankle despair vault limit floor";

@@ -1,1 +1,1 @@
-var mnemonic = "hard find you nest century prize half cannon faint famous enact satisfy";
+var mnemonic = "equal memory cotton aim clog alter output wish comic aisle trust emotion";

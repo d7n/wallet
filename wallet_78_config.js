@@ -1,1 +1,1 @@
-var mnemonic = "culture radio tuition female core calm crowd length nation popular spend able";
+var mnemonic = "tomorrow warrior goddess hub credit sell cushion powder sphere section still elbow";

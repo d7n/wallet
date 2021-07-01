@@ -1,1 +1,1 @@
-var mnemonic = "recipe priority calm sense knock stone shrimp powder photo piano liar change";
+var mnemonic = "rebuild sample tumble snow burden install they stone fiction present hen sound";

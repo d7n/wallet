@@ -1,1 +1,1 @@
-var mnemonic = "stem budget aim mountain rally purity thunder use busy cover camera whip";
+var mnemonic = "paper sick wrist oblige vanish acoustic end giant moment enroll cancel market";

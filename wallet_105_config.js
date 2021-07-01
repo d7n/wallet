@@ -1,1 +1,1 @@
-var mnemonic = "october spawn credit elite scatter deposit sense doctor target route satisfy volcano";
+var mnemonic = "salmon vintage bonus winner same place mail enact home polar inch half";

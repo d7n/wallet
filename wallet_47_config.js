@@ -1,1 +1,1 @@
-var mnemonic = "basket common orange run enable border page ancient peasant burst oil area";
+var mnemonic = "unlock ceiling staff oil civil reward kiss lucky blossom drop govern special";

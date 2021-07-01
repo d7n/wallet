@@ -1,1 +1,1 @@
-var mnemonic = "suit puzzle goose couple blue grocery mercy top lift slim six brown";
+var mnemonic = "device hope chest result fashion green differ father initial plastic awkward acquire";

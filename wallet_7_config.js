@@ -1,1 +1,1 @@
-var mnemonic = "rare north tag execute juice review wrestle thought crew neither equal letter";
+var mnemonic = "portion embody similar seed asset garlic matter online true insect confirm skin";

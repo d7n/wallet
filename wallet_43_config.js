@@ -1,1 +1,1 @@
-var mnemonic = "stay surge small you month traffic play oblige tuition pelican onion allow";
+var mnemonic = "model scene nut cancel treat tissue stick luggage drink raccoon oil end";

@@ -1,1 +1,1 @@
-var mnemonic = "hard rebuild cattle wet nurse thank control black mushroom gas buyer keep";
+var mnemonic = "dynamic blanket title true grocery arrest bulk world pole final prize stamp";

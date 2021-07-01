@@ -1,1 +1,1 @@
-var mnemonic = "space miracle trophy style often write slot inner camera concert moral debate";
+var mnemonic = "inspire output analyst deliver order shove own hundred gorilla news already ripple";

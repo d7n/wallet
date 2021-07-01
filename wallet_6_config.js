@@ -1,1 +1,1 @@
-var mnemonic = "engine board spot trumpet riot bread siren know mention fee panel puzzle";
+var mnemonic = "imitate hotel joke still mom useless horse fish moon injury practice guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "risk parade sell modify fatal scatter assume settle bag bamboo view process";
+var mnemonic = "much sign benefit salad trap tired nation warfare rural toddler copper tube";

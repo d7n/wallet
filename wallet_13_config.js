@@ -1,1 +1,1 @@
-var mnemonic = "broccoli ability injury make text bonus busy excuse gaze delay deputy network";
+var mnemonic = "speak length junk dog purchase scorpion peace innocent dog egg rule layer";

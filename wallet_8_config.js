@@ -1,1 +1,1 @@
-var mnemonic = "bleak fatal expire engage choice practice subway shoulder legal style burden muffin";
+var mnemonic = "master brother accident vessel manage soda airport bean vanish wreck imitate chunk";

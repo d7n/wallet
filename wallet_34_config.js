@@ -1,1 +1,1 @@
-var mnemonic = "corn slight pipe garment wall reject seed loud motion equip ensure ceiling";
+var mnemonic = "hub jeans buffalo wing kitchen easy catalog unknown alert among series unusual";

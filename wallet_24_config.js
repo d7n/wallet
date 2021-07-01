@@ -1,1 +1,1 @@
-var mnemonic = "barely core margin hawk speak mean gold prefer initial sock timber thrive";
+var mnemonic = "scissors door forum young valve upper must hurry coach picnic hire oppose";

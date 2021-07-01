@@ -1,1 +1,1 @@
-var mnemonic = "funny pelican ocean trim color help giraffe pledge change strong spell poem";
+var mnemonic = "program accuse employ ship hope weekend victory alone provide fish private aware";

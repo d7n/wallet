@@ -1,1 +1,1 @@
-var mnemonic = "barrel recycle file shoot pattern weasel jar toilet inherit kiss fun dune";
+var mnemonic = "regret inside choose foil tongue motor city tobacco toast defense crucial junk";

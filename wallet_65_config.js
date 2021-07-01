@@ -1,1 +1,1 @@
-var mnemonic = "april lobster deal into black private swap word cabbage bachelor chicken couch";
+var mnemonic = "cost scene oyster ahead wild wise practice parade minor crisp mixed quick";

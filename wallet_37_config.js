@@ -1,1 +1,1 @@
-var mnemonic = "crazy vintage plate divorce invite logic fog bless only method day antenna";
+var mnemonic = "slide cloth cash ridge salmon woman south table fruit switch rice merge";

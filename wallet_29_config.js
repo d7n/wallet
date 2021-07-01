@@ -1,1 +1,1 @@
-var mnemonic = "water ring mask suggest bird museum divide zoo quit pulse exclude glue";
+var mnemonic = "prefer shoe naive dress potato release alpha repair state track believe clay";

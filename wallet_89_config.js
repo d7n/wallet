@@ -1,1 +1,1 @@
-var mnemonic = "success inch manual food moral evidence bread awful swallow outer rug aunt";
+var mnemonic = "alter whale solar super whale camp barely surprise piano phone stuff media";

@@ -1,1 +1,1 @@
-var mnemonic = "scene lift title token rival music scissors jealous awkward plug bike patch";
+var mnemonic = "educate where combine garbage melt keep scorpion subject author between final unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "pact girl chronic awful identify squirrel puppy steel run slender stomach isolate";
+var mnemonic = "snack puppy exclude hip shrimp garden climb student miss frame quit fence";

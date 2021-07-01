@@ -1,1 +1,1 @@
-var mnemonic = "hand wood wrap text spot relief coral sponsor draw crouch shoe maximum";
+var mnemonic = "nature oxygen asset crane action cancel club ranch hundred toddler bench fetch";

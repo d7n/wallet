@@ -1,1 +1,1 @@
-var mnemonic = "moon home yard phone near circle toy debate brother refuse wealth smooth";
+var mnemonic = "wife laugh desk balance banana scan enjoy media badge poet victory flame";

@@ -1,1 +1,1 @@
-var mnemonic = "amount phrase arrive success name draft secret radar shoulder alpha claim fresh";
+var mnemonic = "quit call decrease lock clump evil jar moon club embody squeeze area";

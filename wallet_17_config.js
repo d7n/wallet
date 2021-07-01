@@ -1,1 +1,1 @@
-var mnemonic = "estate link hat nuclear guide lawsuit balcony tell day alone energy lumber";
+var mnemonic = "install dry answer spell diamond kitchen multiply over jar siren tide debris";

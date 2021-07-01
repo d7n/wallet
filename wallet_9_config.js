@@ -1,1 +1,1 @@
-var mnemonic = "pink august wheat tuition congress unusual rich surprise sample atom loan chronic";
+var mnemonic = "slot talent fluid flash quote meadow eyebrow voice canoe kingdom chalk carbon";

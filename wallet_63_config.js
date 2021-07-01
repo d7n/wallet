@@ -1,1 +1,1 @@
-var mnemonic = "search rain response slim scout describe coin pyramid pole problem move purity";
+var mnemonic = "asset stamp into devote element armor sleep orient crouch bicycle blood gasp";

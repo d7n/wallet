@@ -1,1 +1,1 @@
-var mnemonic = "crash special canoe sketch toss hidden follow dentist patch spring black idle";
+var mnemonic = "buzz knock frame stove off zone coconut call blouse social service scrub";

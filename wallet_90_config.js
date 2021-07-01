@@ -1,1 +1,1 @@
-var mnemonic = "menu project almost bright armed diet staff manual mammal lyrics soon cargo";
+var mnemonic = "twist agree remain turtle skill fiction devote length eternal faint invest carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "clump hurt circle fatigue clay strike air rule gesture vital wonder tunnel";
+var mnemonic = "oak found settle advice steel symptom dragon subway meat inch heavy dial";

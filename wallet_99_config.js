@@ -1,1 +1,1 @@
-var mnemonic = "since brave order million minor match brass jazz number chat review tiny";
+var mnemonic = "ice produce sense lumber spider change stable estate panther hollow senior federal";

@@ -1,1 +1,1 @@
-var mnemonic = "curious spoil spin embrace clock seven good teach tattoo essence radar earth";
+var mnemonic = "reveal day viable torch chimney demand expand regret three owner mind need";

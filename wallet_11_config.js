@@ -1,1 +1,1 @@
-var mnemonic = "gown tiny eager wasp strike figure replace old casual stadium cargo civil";
+var mnemonic = "salad someone emotion barely gift skill horn atom top legal proof range";

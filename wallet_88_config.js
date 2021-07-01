@@ -1,1 +1,1 @@
-var mnemonic = "ocean spoil display ability museum dress climb canal mobile goose strong mass";
+var mnemonic = "card kick educate cement dune twenty either material follow crystal asset firm";

@@ -1,1 +1,1 @@
-var mnemonic = "comic kid explain brass slim nephew happy poem bread public observe polar";
+var mnemonic = "aerobic pen fashion impulse wash battle timber benefit oxygen stone heavy assist";

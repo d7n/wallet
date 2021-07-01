@@ -1,1 +1,1 @@
-var mnemonic = "oak bracket vintage level party naive point dutch slow way together nominee";
+var mnemonic = "regular best flight neutral cycle tattoo also phone hazard promote whisper hurt";

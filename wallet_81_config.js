@@ -1,1 +1,1 @@
-var mnemonic = "front wisdom come bag half humble menu filter team practice draw wreck";
+var mnemonic = "beauty dumb this icon apology piece permit fix beach near test reunion";

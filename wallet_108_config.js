@@ -1,1 +1,1 @@
-var mnemonic = "absorb say mind husband face pyramid custom treat science cannon evolve casual";
+var mnemonic = "source food figure response prefer sweet friend hand film swift license ugly";

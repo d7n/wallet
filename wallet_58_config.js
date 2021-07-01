@@ -1,1 +1,1 @@
-var mnemonic = "oil hunt advance idle blue steak culture october cube lizard august vivid";
+var mnemonic = "dolphin strike mountain inflict supreme balance close diary super shaft north over";

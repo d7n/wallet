@@ -1,1 +1,1 @@
-var mnemonic = "senior settle vault great inch hurt spend crowd castle bottom dash chunk";
+var mnemonic = "festival shell monitor clown armed smile enlist purity mail drill sing stomach";

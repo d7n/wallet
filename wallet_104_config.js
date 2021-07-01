@@ -1,1 +1,1 @@
-var mnemonic = "clock spider ostrich fringe seek radio submit chase expire admit youth similar";
+var mnemonic = "raccoon brother mention small spoon twin state rocket banana clerk control fish";

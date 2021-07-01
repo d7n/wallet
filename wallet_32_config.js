@@ -1,1 +1,1 @@
-var mnemonic = "duck genius discover argue fix palace spider foster oven repeat fancy acquire";
+var mnemonic = "enroll dune once toddler bonus method rent plastic dry artwork explain giant";

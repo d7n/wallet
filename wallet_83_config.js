@@ -1,1 +1,1 @@
-var mnemonic = "average wink become indicate unable ribbon tank acid puppy idea amateur calm";
+var mnemonic = "minimum sorry home size satoshi fiction measure urge gun logic absent fuel";

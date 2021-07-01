@@ -1,1 +1,1 @@
-var mnemonic = "tennis tobacco wing boost radio oval mango jealous nose venue patrol sponsor";
+var mnemonic = "pear child blind trash actual attract flee audit squirrel reunion spice dizzy";

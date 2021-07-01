@@ -1,1 +1,1 @@
-var mnemonic = "also carbon glide cruel aim shoe entry evidence believe tomato two enjoy";
+var mnemonic = "uniform plate innocent student fluid man grunt panel rabbit pull chronic evoke";

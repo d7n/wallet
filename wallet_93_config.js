@@ -1,1 +1,1 @@
-var mnemonic = "topic use ask debris hard film leader novel tide hand ball estate";
+var mnemonic = "more wife try such tide tenant warm want fever thunder era talk";

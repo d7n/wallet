@@ -1,1 +1,1 @@
-var mnemonic = "motion flush ride brass employ skull sauce recycle snake seven object slight";
+var mnemonic = "head bracket aisle save act muffin ship insane wrap enact arm gaze";

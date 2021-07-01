@@ -1,1 +1,1 @@
-var mnemonic = "venture involve message delay already dove steel march candy laugh guide faculty";
+var mnemonic = "soda used dose inform point sheriff soup dinosaur arch matrix deer judge";

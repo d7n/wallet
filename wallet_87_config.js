@@ -1,1 +1,1 @@
-var mnemonic = "sugar dash gesture useful roof habit water expire mansion punch coil ocean";
+var mnemonic = "owner wave steak vote crack sugar month virus corn van wheel element";

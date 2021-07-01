@@ -1,1 +1,1 @@
-var mnemonic = "mobile swim warm radio snow caution law siege federal tell distance choose";
+var mnemonic = "hour raccoon improve afraid chat carpet elegant patrol become stand ticket acid";

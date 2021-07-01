@@ -1,1 +1,1 @@
-var mnemonic = "settle fence walk hurry able throw remain chuckle cheese bone tool exchange";
+var mnemonic = "book pencil abstract insane under employ long push print hedgehog divide toss";

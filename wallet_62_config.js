@@ -1,1 +1,1 @@
-var mnemonic = "whisper fat term venue panther way shy beauty example tilt rug mad";
+var mnemonic = "note coin jar access hobby seven hard spare hint weekend mouse wisdom";

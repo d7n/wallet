@@ -1,1 +1,1 @@
-var mnemonic = "good strike palm surface margin crew paddle sentence dwarf velvet safe cram";
+var mnemonic = "office help pelican can brown item neglect example school consider miss crazy";

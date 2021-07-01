@@ -1,1 +1,1 @@
-var mnemonic = "force vehicle laptop blanket polar maze myself school orient know lunch castle";
+var mnemonic = "bachelor super way carbon carpet calm tail mom action evoke friend animal";
