@@ -1,1 +1,1 @@
-var mnemonic = "slide toddler shove entire correct twin acquire action split visa cruise upgrade";
+var mnemonic = "crop book tag churn rival skull cool trouble danger clay unhappy pull";

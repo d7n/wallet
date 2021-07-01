@@ -1,1 +1,1 @@
-var mnemonic = "ordinary gaze minimum else first lobster feel rail rare choose door actress";
+var mnemonic = "cousin flash swallow caution catalog grit twelve biology modify planet hurdle brave";

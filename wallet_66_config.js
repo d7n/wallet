@@ -1,1 +1,1 @@
-var mnemonic = "figure execute surround fatigue twelve senior secret anchor leader matter okay attitude";
+var mnemonic = "flame drink unhappy safe scissors alarm slogan olympic call piece recipe use";

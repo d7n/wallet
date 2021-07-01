@@ -1,1 +1,1 @@
-var mnemonic = "remain any payment original maximum pig fury rose hunt permit spawn vital";
+var mnemonic = "faith twist swing fortune video awesome pluck ranch grain salad dentist shrug";

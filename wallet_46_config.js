@@ -1,1 +1,1 @@
-var mnemonic = "feel opera talent grid season ready gold lock angle miracle brown unable";
+var mnemonic = "guide broccoli eternal lake animal essay eye street click enemy civil bulk";

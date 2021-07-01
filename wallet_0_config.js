@@ -1,1 +1,1 @@
-var mnemonic = "tray blind romance rain pottery sport wreck camp carbon super version foam";
+var mnemonic = "shed height muffin hurdle sibling tank celery occur bracket accident message enforce";

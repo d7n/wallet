@@ -1,1 +1,1 @@
-var mnemonic = "surge into force insane rocket mix guilt begin tragic pear drive dumb";
+var mnemonic = "gadget fish manual include palm winner joke explain rigid fork alley puppy";

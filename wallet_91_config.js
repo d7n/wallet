@@ -1,1 +1,1 @@
-var mnemonic = "reform tragic trophy pause quiz private once spell genius desert era topple";
+var mnemonic = "frame explain upon begin nature pink build horror glide what critic eternal";

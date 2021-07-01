@@ -1,1 +1,1 @@
-var mnemonic = "already orchard coil nothing wreck nature vague theme brand bubble parent winter";
+var mnemonic = "arrive radio universe drift skirt laundry bread glue subway inch floor fly";

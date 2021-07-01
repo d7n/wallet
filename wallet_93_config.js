@@ -1,1 +1,1 @@
-var mnemonic = "input wagon weather report cannon victory end clog beef scheme south peasant";
+var mnemonic = "field upon false chest diet analyst normal pig badge north charge bunker";

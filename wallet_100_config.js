@@ -1,1 +1,1 @@
-var mnemonic = "accident twin plate parade mistake patch age kite once ginger hello fog";
+var mnemonic = "cousin skirt mobile vicious plug crawl fiction mention unfair material thank legal";

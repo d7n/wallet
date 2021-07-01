@@ -1,1 +1,1 @@
-var mnemonic = "much rare chair earth dance walnut crunch disease critic term orient wasp";
+var mnemonic = "clinic gift jar dream domain man peace secret helmet stable dose dust";

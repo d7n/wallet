@@ -1,1 +1,1 @@
-var mnemonic = "pink cupboard clip wheat mother proof embody expand uphold beyond stay bleak";
+var mnemonic = "tip nephew pilot ladder same dream priority melody motor vintage rather culture";

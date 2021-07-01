@@ -1,1 +1,1 @@
-var mnemonic = "inspire short price art flush thumb rough vessel inflict write bid type";
+var mnemonic = "wave quality speak hen hen duty point sand claim together rice zone";

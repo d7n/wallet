@@ -1,1 +1,1 @@
-var mnemonic = "mouse enter slice spy burger echo affair royal success avocado basic second";
+var mnemonic = "favorite anchor silly alone slight quality turkey marble armor wonder valley often";

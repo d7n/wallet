@@ -1,1 +1,1 @@
-var mnemonic = "fringe trigger welcome coffee better dust absorb panic rural fabric average kidney";
+var mnemonic = "afford field topic snake bring canoe cat cook shoulder resemble warfare hour";

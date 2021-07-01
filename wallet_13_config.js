@@ -1,1 +1,1 @@
-var mnemonic = "course deny reflect must damage blush sample sign outer goose will fiscal";
+var mnemonic = "turtle remind winner model talent above wrist camera display fly old fabric";

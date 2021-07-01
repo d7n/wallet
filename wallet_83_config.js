@@ -1,1 +1,1 @@
-var mnemonic = "dish february plug analyst above dune rain filter sand cram donkey grid";
+var mnemonic = "draft crop pool embark absorb jar gap pluck write heart truck year";

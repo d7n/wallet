@@ -1,1 +1,1 @@
-var mnemonic = "pact tuition effort purchase head crash clog sing silver wrap canoe come";
+var mnemonic = "clown enact decide price attend world remove weasel run icon zoo level";

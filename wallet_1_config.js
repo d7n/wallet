@@ -1,1 +1,1 @@
-var mnemonic = "buddy student rally seek another blouse file alcohol pioneer spend explain battle";
+var mnemonic = "enact snack wrong wife session thrive next artwork foil table type time";

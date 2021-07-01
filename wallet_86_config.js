@@ -1,1 +1,1 @@
-var mnemonic = "similar student repair amount trial own fragile kiwi uphold average beef venture";
+var mnemonic = "chronic legend when find action leopard finger option absurd elephant modify monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "clip scan gorilla clump actor teach basket endorse tourist release mad busy";
+var mnemonic = "impose able order satisfy maid pepper refuse pen awesome flag weather behind";

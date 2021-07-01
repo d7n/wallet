@@ -1,1 +1,1 @@
-var mnemonic = "seed buffalo intact chicken rose boil monitor exercise picture skirt mean tongue";
+var mnemonic = "gesture rubber inquiry small excess dune early enjoy obvious normal grit body";

@@ -1,1 +1,1 @@
-var mnemonic = "bring renew away caught material answer area auto palace length torch hair";
+var mnemonic = "hen term pulp sweet stumble cigar ready climb erupt ski chest excite";

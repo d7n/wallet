@@ -1,1 +1,1 @@
-var mnemonic = "desk suggest sad attend cake empty strike guess earth tide stage wire";
+var mnemonic = "best odor sock satoshi fresh cook input lava update expire student okay";

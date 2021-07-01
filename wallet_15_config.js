@@ -1,1 +1,1 @@
-var mnemonic = "embark rude inhale ring private prefer thing culture sugar blur swift caught";
+var mnemonic = "also asthma offer ghost scatter chat devote sail oil lend slot seek";

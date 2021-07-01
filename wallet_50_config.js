@@ -1,1 +1,1 @@
-var mnemonic = "shy fault shove approve balcony such peanut news book essence mass beyond";
+var mnemonic = "neither quarter foster spice matter govern screen discover peace taxi infant pause";

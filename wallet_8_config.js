@@ -1,1 +1,1 @@
-var mnemonic = "oven provide inherit post hero fat novel satoshi aware object feed message";
+var mnemonic = "rude anger whale smoke mammal surround raw mesh typical soul donate snow";

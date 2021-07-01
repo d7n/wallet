@@ -1,1 +1,1 @@
-var mnemonic = "clarify unveil brisk alter earth fit squeeze fish legal satoshi knee boy";
+var mnemonic = "addict ten black present wolf gas catalog adapt tide defense olive symbol";

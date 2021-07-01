@@ -1,1 +1,1 @@
-var mnemonic = "response ski wrong race butter extend merge rubber moral salt alter behind";
+var mnemonic = "lucky minimum endorse coast right blame stomach swing dizzy annual immense labor";

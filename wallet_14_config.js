@@ -1,1 +1,1 @@
-var mnemonic = "chair civil raise wolf warm obscure current awake swallow town fog outer";
+var mnemonic = "tribe orphan tide siren embark indoor box settle dad stick oblige country";

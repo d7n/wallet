@@ -1,1 +1,1 @@
-var mnemonic = "weekend acoustic palace ask file bitter crouch wet decade ritual armor circle";
+var mnemonic = "sugar rely glass slogan muscle flash blur diesel dumb carry deny wage";

@@ -1,1 +1,1 @@
-var mnemonic = "clump ankle robot seven soup aspect echo enact enroll noodle wild program";
+var mnemonic = "arctic valley client bargain palm quarter mystery hedgehog glue can wide banana";

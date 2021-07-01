@@ -1,1 +1,1 @@
-var mnemonic = "echo umbrella online fragile license tool abuse artwork harvest cram denial more";
+var mnemonic = "mercy clog arrange ozone rude surge fiber ribbon million hero okay choose";

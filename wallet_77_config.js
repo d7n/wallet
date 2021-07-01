@@ -1,1 +1,1 @@
-var mnemonic = "toast course busy random will mean panel aisle long load daughter maze";
+var mnemonic = "mercy victory pitch buyer box camera dad venue dose run smart pond";

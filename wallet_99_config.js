@@ -1,1 +1,1 @@
-var mnemonic = "minimum pipe pepper energy honey method elephant borrow recycle still plunge lemon";
+var mnemonic = "maid dismiss confirm multiply resemble shallow kidney provide when toe sun vintage";

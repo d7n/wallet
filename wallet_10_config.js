@@ -1,1 +1,1 @@
-var mnemonic = "depth flash tourist report inner bomb frost develop crowd dress anxiety abandon";
+var mnemonic = "message shuffle point expose bacon negative student attend digital loan drive dragon";

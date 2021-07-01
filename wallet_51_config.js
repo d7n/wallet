@@ -1,1 +1,1 @@
-var mnemonic = "satoshi bicycle disease because problem destroy genuine caution peasant diary pond acid";
+var mnemonic = "write skull report option remove swear post dragon valid exit endorse ring";

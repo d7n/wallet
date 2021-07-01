@@ -1,1 +1,1 @@
-var mnemonic = "second poet adult turtle head ramp arch menu candy enjoy paddle wrap";
+var mnemonic = "add glimpse arrive prepare laundry exchange cruise poet remove retire slice circle";

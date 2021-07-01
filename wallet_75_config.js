@@ -1,1 +1,1 @@
-var mnemonic = "armor robot grief draw mystery advance crouch mobile punch plunge disease chalk";
+var mnemonic = "blanket tiger wagon urban begin system august unfair gadget place height trumpet";

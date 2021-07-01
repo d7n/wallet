@@ -1,1 +1,1 @@
-var mnemonic = "lens palace saddle ordinary bird refuse candy behave version fancy live famous";
+var mnemonic = "benefit hurry version melt carry abuse tool dwarf face load solve exhibit";

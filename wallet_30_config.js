@@ -1,1 +1,1 @@
-var mnemonic = "identify surge doll pattern fresh enjoy town tower pair uphold bring bitter";
+var mnemonic = "soldier danger off cruise random true once toilet neck build forward lounge";

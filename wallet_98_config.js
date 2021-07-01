@@ -1,1 +1,1 @@
-var mnemonic = "jealous else tiger orient ancient social hat hard auction transfer define pill";
+var mnemonic = "scrub pilot surface drop require crazy target few find protect summer february";

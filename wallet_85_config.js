@@ -1,1 +1,1 @@
-var mnemonic = "ridge wink banana swarm add toast rule usage whip easy catch valve";
+var mnemonic = "embody express cry fury horror energy collect spare police twist impose home";

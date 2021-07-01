@@ -1,1 +1,1 @@
-var mnemonic = "mercy minimum deer conduct young neglect trouble lucky web honey future property";
+var mnemonic = "ozone worry evidence rough label waste relief wear labor picture end ivory";

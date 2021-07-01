@@ -1,1 +1,1 @@
-var mnemonic = "basket liberty okay stairs old car rude monitor unknown canoe repeat eyebrow";
+var mnemonic = "dutch must actual awake road impact gasp mechanic runway clay bone illness";

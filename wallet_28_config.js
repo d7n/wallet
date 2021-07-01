@@ -1,1 +1,1 @@
-var mnemonic = "style security giggle shoulder worth price immune oil scrub age kit try";
+var mnemonic = "pelican minute lion inquiry reflect enlist chronic depth soul wife bulb gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon hand chat canyon option cactus example satisfy deposit dawn father bag";
+var mnemonic = "trick allow pear anxiety sketch cave protect home name radar taxi problem";

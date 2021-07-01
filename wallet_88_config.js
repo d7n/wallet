@@ -1,1 +1,1 @@
-var mnemonic = "saddle industry solid emerge patrol income wife puzzle brother ride switch run";
+var mnemonic = "turn wonder inherit kangaroo exact indoor slot tomato large cargo foot fiber";

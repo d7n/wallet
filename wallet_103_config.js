@@ -1,1 +1,1 @@
-var mnemonic = "rigid utility left parade way topic glide lift short dolphin hint unknown";
+var mnemonic = "item thunder unhappy tree picture puzzle school rebuild cabbage slab escape cement";

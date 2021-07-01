@@ -1,1 +1,1 @@
-var mnemonic = "cousin basket journey radio enroll inherit afraid balance express clerk kiss notable";
+var mnemonic = "harvest rabbit rocket old merit boss marine fabric tooth warfare fall cable";

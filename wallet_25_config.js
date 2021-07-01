@@ -1,1 +1,1 @@
-var mnemonic = "hollow hedgehog run predict video source evil almost cruise history burger style";
+var mnemonic = "father ginger potato raccoon script hammer idle lamp erosion pen error agent";

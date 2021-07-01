@@ -1,1 +1,1 @@
-var mnemonic = "crumble tail segment path reflect scare remember fringe funny assist juice iron";
+var mnemonic = "walnut young draw absurd winner want reflect energy run brush harsh birth";

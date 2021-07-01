@@ -1,1 +1,1 @@
-var mnemonic = "disorder buyer asset assume depth budget furnace carpet noble crash select foot";
+var mnemonic = "junk suspect buddy arctic horse man cabbage zero cabbage dizzy defense west";

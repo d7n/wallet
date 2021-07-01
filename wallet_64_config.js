@@ -1,1 +1,1 @@
-var mnemonic = "about virtual fossil unlock scissors indicate kick unusual giraffe craft dizzy nothing";
+var mnemonic = "degree wise canyon wish spawn trim tail nature essence tray boring problem";

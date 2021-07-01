@@ -1,1 +1,1 @@
-var mnemonic = "lens merry orphan swamp nut lunar visit winter gasp witness loan hand";
+var mnemonic = "churn fortune desk answer dentist novel wife chuckle edge ecology decrease elegant";

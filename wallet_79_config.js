@@ -1,1 +1,1 @@
-var mnemonic = "unknown panic melody flip garden bone plug advance need surprise milk horror";
+var mnemonic = "feed quarter boring oil hollow march argue umbrella alone heavy couch tip";

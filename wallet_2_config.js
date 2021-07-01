@@ -1,1 +1,1 @@
-var mnemonic = "glow ten brisk rifle giraffe say audit pave abandon chuckle pause floor";
+var mnemonic = "explain crowd nice ice wisdom wolf gap hip together mistake smoke stand";

@@ -1,1 +1,1 @@
-var mnemonic = "marble capital merge engine maid unlock scrub session garage industry device prize";
+var mnemonic = "royal smooth what crisp quote allow lock bicycle lava quiz purity snake";

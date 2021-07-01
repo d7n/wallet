@@ -1,1 +1,1 @@
-var mnemonic = "duty sell spread buffalo agree effort volcano pipe float example movie grace";
+var mnemonic = "interest left sing nation exile bulb arm surprise tuna sweet model bright";

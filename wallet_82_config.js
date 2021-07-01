@@ -1,1 +1,1 @@
-var mnemonic = "rough gospel razor toast ordinary summer olympic course file tackle equal tumble";
+var mnemonic = "kingdom pen car bone fire shadow attack syrup program edit mesh merry";

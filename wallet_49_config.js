@@ -1,1 +1,1 @@
-var mnemonic = "snow recall deposit horror broom pulp cherry trip clean old foot amateur";
+var mnemonic = "liquid novel drive tooth stairs speak fringe time space toss surround cushion";

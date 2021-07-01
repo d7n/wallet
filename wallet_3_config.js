@@ -1,1 +1,1 @@
-var mnemonic = "false outdoor output lab invest resemble outside spawn mix rebuild invest recycle";
+var mnemonic = "mask expand sphere idle alarm ginger blanket prefer bonus short switch behind";

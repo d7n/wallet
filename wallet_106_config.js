@@ -1,1 +1,1 @@
-var mnemonic = "brown unique anchor world control rice tissue resemble yellow fox humble royal";
+var mnemonic = "abandon hood caution version carry upset vibrant multiply smoke grocery method uniform";

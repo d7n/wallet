@@ -1,1 +1,1 @@
-var mnemonic = "focus service adjust vendor media repair usage diamond true attract fire remain";
+var mnemonic = "digital cool seminar stereo essay attend pause fantasy oval neck maple document";

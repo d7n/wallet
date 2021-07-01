@@ -1,1 +1,1 @@
-var mnemonic = "income hen carbon mind silk blouse uncover oil aisle fresh invite strike";
+var mnemonic = "glow divide invest conduct person thought season neck region electric crystal carry";

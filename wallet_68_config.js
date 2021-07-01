@@ -1,1 +1,1 @@
-var mnemonic = "bird weasel enroll claim hungry liquid parrot visit error genius captain require";
+var mnemonic = "royal tunnel review false receive swift lava defense length hen spare buyer";

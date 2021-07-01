@@ -1,1 +1,1 @@
-var mnemonic = "whip sunset skirt brief dirt need office easily history enough describe novel";
+var mnemonic = "car double injury clip museum moon shine tourist ecology car game valley";

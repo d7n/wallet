@@ -1,1 +1,1 @@
-var mnemonic = "couple lens issue fun pact snap accident uphold try cook old tonight";
+var mnemonic = "flavor sort leader project slush news pluck sphere orient purchase off sign";

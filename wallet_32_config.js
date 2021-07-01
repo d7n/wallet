@@ -1,1 +1,1 @@
-var mnemonic = "merit orphan warfare hover make leg believe original congress plug window winner";
+var mnemonic = "twenty front history cup purse jewel aerobic bunker edge exhibit pipe draft";

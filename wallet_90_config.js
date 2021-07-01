@@ -1,1 +1,1 @@
-var mnemonic = "energy ship lecture decorate glimpse great wife image absorb casual adapt text";
+var mnemonic = "proud hockey transfer now during step shell beach parrot roof sight moon";

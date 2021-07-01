@@ -1,1 +1,1 @@
-var mnemonic = "feature priority awesome street absurd cost airport envelope call ramp sauce marine";
+var mnemonic = "because interest edit state tent depend smoke come tonight scissors brave discover";

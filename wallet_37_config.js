@@ -1,1 +1,1 @@
-var mnemonic = "angle staff client drum farm night forest wasp smile since follow liquid";
+var mnemonic = "unique result belt business sport move match liquid until luxury load baby";

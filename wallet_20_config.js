@@ -1,1 +1,1 @@
-var mnemonic = "female donor mail sadness together blur smoke kidney slam wine ketchup gesture";
+var mnemonic = "radar south fitness picture midnight draw into sister live craft lucky guide";

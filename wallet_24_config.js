@@ -1,1 +1,1 @@
-var mnemonic = "cigar flee myself occur holiday fiction disease cry segment grit bean trip";
+var mnemonic = "tortoise false leaf empower tongue matrix hurry forget parade buzz firm horn";

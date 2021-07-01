@@ -1,1 +1,1 @@
-var mnemonic = "goddess taxi people raw rebuild chronic plunge cradle answer embark name outer";
+var mnemonic = "manual century draw valid erosion lumber fence ocean ten whisper carry viable";

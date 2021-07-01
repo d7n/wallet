@@ -1,1 +1,1 @@
-var mnemonic = "merge device chapter century decorate update key ostrich narrow trouble door illness";
+var mnemonic = "mango junk around entry adult toilet despair air blossom organ ice wink";

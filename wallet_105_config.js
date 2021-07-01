@@ -1,1 +1,1 @@
-var mnemonic = "cup dial vintage hand primary avocado original case ask oval feature matter";
+var mnemonic = "blossom then sea desk brisk attack salute mystery field pulse sword few";

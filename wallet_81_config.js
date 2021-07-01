@@ -1,1 +1,1 @@
-var mnemonic = "come curtain blood inject gentle candy agree mosquito engine winter advice enforce";
+var mnemonic = "aerobic ignore hill guilt hire live identify expect identify later sign soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "snow better glow axis midnight broken entry brisk moon maze rain foot";
+var mnemonic = "matrix strike jazz debate argue uncle play chaos turkey gown slush bus";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve history tennis accuse program fly talk game thought siren retire broom";
+var mnemonic = "kitten veteran news disagree regret hover build unique delay float leaf solution";

@@ -1,1 +1,1 @@
-var mnemonic = "medal mind harvest parent day occur cluster evoke divide animal squirrel confirm";
+var mnemonic = "flip humor fringe present control stem fragile print garlic morning hurt equip";

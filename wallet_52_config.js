@@ -1,1 +1,1 @@
-var mnemonic = "planet dune valley quality banner zone art kitten follow stuff thunder tent";
+var mnemonic = "wagon wink leaf refuse silver ability cargo gown when test matter verify";

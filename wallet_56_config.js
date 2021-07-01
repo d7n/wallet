@@ -1,1 +1,1 @@
-var mnemonic = "mother state hood comfort jealous noodle mechanic involve square cluster saddle valley";
+var mnemonic = "replace lion dolphin gentle remain beach water tent mobile nurse truth rural";

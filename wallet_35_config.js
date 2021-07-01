@@ -1,1 +1,1 @@
-var mnemonic = "differ aerobic frame fresh naive rude dilemma elder onion skate exist garden";
+var mnemonic = "expect critic stand notice wage industry credit token awesome volume olive catalog";

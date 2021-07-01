@@ -1,1 +1,1 @@
-var mnemonic = "ignore rose film fine faculty emotion fringe find kiwi hidden hold lucky";
+var mnemonic = "consider frame decline fatal galaxy hamster act ball cloth abuse clay punch";

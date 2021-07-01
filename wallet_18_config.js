@@ -1,1 +1,1 @@
-var mnemonic = "weekend employ version swing confirm answer spawn nurse border morning mobile reflect";
+var mnemonic = "intact record mean over seed disease alarm congress actress salute vicious tomorrow";

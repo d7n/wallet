@@ -1,1 +1,1 @@
-var mnemonic = "oil inch shrimp fabric suffer hope current armed tide surface report language";
+var mnemonic = "walnut limit index improve talent miss orient relax sing famous silk resource";

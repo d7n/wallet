@@ -1,1 +1,1 @@
-var mnemonic = "minute dove boy tribe door barrel help only awkward nephew impose disease";
+var mnemonic = "learn praise apple inflict anxiety theme month cannon radar island street divide";
