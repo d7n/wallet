@@ -1,1 +1,1 @@
-var mnemonic = "seat vital coffee satoshi salmon skirt deliver fiber member glue drink film";
+var mnemonic = "jealous else tiger orient ancient social hat hard auction transfer define pill";

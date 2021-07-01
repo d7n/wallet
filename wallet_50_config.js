@@ -1,1 +1,1 @@
-var mnemonic = "eager still rude like merry filter canal extra pizza suit rack produce";
+var mnemonic = "shy fault shove approve balcony such peanut news book essence mass beyond";

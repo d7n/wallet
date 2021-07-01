@@ -1,1 +1,1 @@
-var mnemonic = "volume velvet onion just average scorpion final hockey shift lift spin quality";
+var mnemonic = "merit orphan warfare hover make leg believe original congress plug window winner";

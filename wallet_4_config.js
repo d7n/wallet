@@ -1,1 +1,1 @@
-var mnemonic = "remind area loop same rice nest frown hollow color craft decrease hip";
+var mnemonic = "duty sell spread buffalo agree effort volcano pipe float example movie grace";

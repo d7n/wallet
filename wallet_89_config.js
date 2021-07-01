@@ -1,1 +1,1 @@
-var mnemonic = "smooth learn window end equal slide antique toward allow rack shield aunt";
+var mnemonic = "shoot gadget pioneer siren young finger result venue success buzz abstract smile";

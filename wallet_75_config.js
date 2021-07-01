@@ -1,1 +1,1 @@
-var mnemonic = "cloud worry error crisp genuine easily lock song foot girl fiscal brave";
+var mnemonic = "armor robot grief draw mystery advance crouch mobile punch plunge disease chalk";

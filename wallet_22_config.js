@@ -1,1 +1,1 @@
-var mnemonic = "jar above twice hotel brisk budget sure mass escape gauge admit aspect";
+var mnemonic = "bench oval tape phone hybrid mango exile shift edit slice swamp churn";

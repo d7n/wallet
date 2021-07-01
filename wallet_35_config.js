@@ -1,1 +1,1 @@
-var mnemonic = "way define attend gym exercise hotel typical digital utility sock cannon update";
+var mnemonic = "differ aerobic frame fresh naive rude dilemma elder onion skate exist garden";

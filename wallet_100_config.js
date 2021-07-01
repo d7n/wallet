@@ -1,1 +1,1 @@
-var mnemonic = "grant core moon crazy furnace comic today business kind strike donor pony";
+var mnemonic = "accident twin plate parade mistake patch age kite once ginger hello fog";

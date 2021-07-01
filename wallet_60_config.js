@@ -1,1 +1,1 @@
-var mnemonic = "betray noble forest enhance oyster recipe note say valley defy time heavy";
+var mnemonic = "clump ankle robot seven soup aspect echo enact enroll noodle wild program";

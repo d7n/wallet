@@ -1,1 +1,1 @@
-var mnemonic = "wrap search arrest clump great globe give whale work soup episode rich";
+var mnemonic = "response ski wrong race butter extend merge rubber moral salt alter behind";

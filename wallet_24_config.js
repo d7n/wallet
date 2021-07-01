@@ -1,1 +1,1 @@
-var mnemonic = "chimney alcohol sketch upset ladder horn sport dynamic clutch grocery install coral";
+var mnemonic = "cigar flee myself occur holiday fiction disease cry segment grit bean trip";

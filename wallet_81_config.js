@@ -1,1 +1,1 @@
-var mnemonic = "light jeans caught plate genuine provide upset fame sadness bind way jump";
+var mnemonic = "come curtain blood inject gentle candy agree mosquito engine winter advice enforce";

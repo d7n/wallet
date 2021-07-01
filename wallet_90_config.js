@@ -1,1 +1,1 @@
-var mnemonic = "vote music usage hawk cargo food dinner arch throw alter arena hamster";
+var mnemonic = "energy ship lecture decorate glimpse great wife image absorb casual adapt text";

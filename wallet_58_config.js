@@ -1,1 +1,1 @@
-var mnemonic = "desk employ short axis lion embrace merry document visual sport front tape";
+var mnemonic = "remain any payment original maximum pig fury rose hunt permit spawn vital";

@@ -1,1 +1,1 @@
-var mnemonic = "fade inform virus waste always casino else charge immune elevator disorder estate";
+var mnemonic = "fringe trigger welcome coffee better dust absorb panic rural fabric average kidney";

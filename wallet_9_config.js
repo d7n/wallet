@@ -1,1 +1,1 @@
-var mnemonic = "vague forget mixed leave veteran yellow question lake ramp wash discover reflect";
+var mnemonic = "snow better glow axis midnight broken entry brisk moon maze rain foot";

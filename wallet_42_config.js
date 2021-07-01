@@ -1,1 +1,1 @@
-var mnemonic = "black betray useless story train scout tomorrow laugh six dragon holiday shield";
+var mnemonic = "inspire short price art flush thumb rough vessel inflict write bid type";

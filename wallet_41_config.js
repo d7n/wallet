@@ -1,1 +1,1 @@
-var mnemonic = "fiction latin combine screen damage limb unlock favorite cannon neither route siege";
+var mnemonic = "slot satoshi route dismiss pattern man cousin kidney private tragic option trigger";

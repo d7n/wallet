@@ -1,1 +1,1 @@
-var mnemonic = "engine match leader use put idle limb penalty depth symbol velvet clarify";
+var mnemonic = "ignore rose film fine faculty emotion fringe find kiwi hidden hold lucky";

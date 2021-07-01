@@ -1,1 +1,1 @@
-var mnemonic = "language bachelor prison awkward moment regret stuff charge injury trash music way";
+var mnemonic = "feel opera talent grid season ready gold lock angle miracle brown unable";

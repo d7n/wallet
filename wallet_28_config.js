@@ -1,1 +1,1 @@
-var mnemonic = "tumble enroll garlic people lamp laugh provide tilt witness member decline concert";
+var mnemonic = "style security giggle shoulder worth price immune oil scrub age kit try";

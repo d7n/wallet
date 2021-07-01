@@ -1,1 +1,1 @@
-var mnemonic = "flame dune erupt thought injury filter gap distance involve nest dignity control";
+var mnemonic = "depth flash tourist report inner bomb frost develop crowd dress anxiety abandon";

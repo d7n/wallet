@@ -1,1 +1,1 @@
-var mnemonic = "water dose catalog glory visual annual donkey hedgehog close purpose long fault";
+var mnemonic = "ridge wink banana swarm add toast rule usage whip easy catch valve";

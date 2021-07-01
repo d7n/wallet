@@ -1,1 +1,1 @@
-var mnemonic = "brown skill abandon nephew vault hockey reason monkey town domain result meat";
+var mnemonic = "cousin basket journey radio enroll inherit afraid balance express clerk kiss notable";

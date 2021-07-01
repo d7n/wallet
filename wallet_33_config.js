@@ -1,1 +1,1 @@
-var mnemonic = "basket wedding cricket shadow account lunch relief area outer ugly invest thumb";
+var mnemonic = "clarify unveil brisk alter earth fit squeeze fish legal satoshi knee boy";

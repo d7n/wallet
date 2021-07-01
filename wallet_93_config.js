@@ -1,1 +1,1 @@
-var mnemonic = "fog memory resist wait vocal swear tongue crisp trumpet blind mirror depart";
+var mnemonic = "input wagon weather report cannon victory end clog beef scheme south peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch permit strategy noble velvet unique twist enough memory harsh guide strike";
+var mnemonic = "income hen carbon mind silk blouse uncover oil aisle fresh invite strike";

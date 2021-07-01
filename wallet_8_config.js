@@ -1,1 +1,1 @@
-var mnemonic = "album script humor ignore neck around rebel firm truth apology bicycle sentence";
+var mnemonic = "oven provide inherit post hero fat novel satoshi aware object feed message";

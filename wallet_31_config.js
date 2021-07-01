@@ -1,1 +1,1 @@
-var mnemonic = "key marriage conduct funny armor index merit bulb fine can sample matter";
+var mnemonic = "world noise jump learn iron actual bonus scrap leisure today exit draft";

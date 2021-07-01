@@ -1,1 +1,1 @@
-var mnemonic = "govern clean space slice bus rigid fury force path plunge gentle dove";
+var mnemonic = "pink cupboard clip wheat mother proof embody expand uphold beyond stay bleak";

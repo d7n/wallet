@@ -1,1 +1,1 @@
-var mnemonic = "install nerve typical breeze kit sail screen offer deputy resemble security calm";
+var mnemonic = "glow ten brisk rifle giraffe say audit pave abandon chuckle pause floor";

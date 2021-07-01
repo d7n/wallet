@@ -1,1 +1,1 @@
-var mnemonic = "old already journey boss cigar work slice garlic knee head reflect fashion";
+var mnemonic = "seed buffalo intact chicken rose boil monitor exercise picture skirt mean tongue";

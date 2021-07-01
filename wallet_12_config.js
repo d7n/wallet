@@ -1,1 +1,1 @@
-var mnemonic = "truly trumpet ritual multiply emotion oyster enroll bag emotion check deposit pink";
+var mnemonic = "disorder buyer asset assume depth budget furnace carpet noble crash select foot";

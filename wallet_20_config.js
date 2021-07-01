@@ -1,1 +1,1 @@
-var mnemonic = "over weasel liberty orphan review canal mesh smoke subway milk kid voice";
+var mnemonic = "female donor mail sadness together blur smoke kidney slam wine ketchup gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "dove face decorate axis net film ship squirrel cross correct spray rare";
+var mnemonic = "chair civil raise wolf warm obscure current awake swallow town fog outer";

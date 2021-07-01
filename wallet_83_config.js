@@ -1,1 +1,1 @@
-var mnemonic = "move medal message chaos garden symptom stamp glare indoor input renew exotic";
+var mnemonic = "dish february plug analyst above dune rain filter sand cram donkey grid";

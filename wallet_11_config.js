@@ -1,1 +1,1 @@
-var mnemonic = "remember cross reason same brick network pulp stamp struggle chief stumble push";
+var mnemonic = "merge device chapter century decorate update key ostrich narrow trouble door illness";

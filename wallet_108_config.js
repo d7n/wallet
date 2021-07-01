@@ -1,1 +1,1 @@
-var mnemonic = "draft ancient midnight valve kiwi broken display conduct state rail pluck sudden";
+var mnemonic = "retire craft climb food coconut state route start impose tell remember roast";

@@ -1,1 +1,1 @@
-var mnemonic = "hold organ world reflect spy motion ridge flame carry duty slogan fetch";
+var mnemonic = "feature priority awesome street absurd cost airport envelope call ramp sauce marine";

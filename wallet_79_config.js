@@ -1,1 +1,1 @@
-var mnemonic = "animal elegant stone word you normal reopen brave kitten announce come acid";
+var mnemonic = "unknown panic melody flip garden bone plug advance need surprise milk horror";

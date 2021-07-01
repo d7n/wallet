@@ -1,1 +1,1 @@
-var mnemonic = "apart lucky amazing chronic little devote win grocery renew label laundry energy";
+var mnemonic = "reform tragic trophy pause quiz private once spell genius desert era topple";

@@ -1,1 +1,1 @@
-var mnemonic = "strike camera cat utility front jump thrive math recall phrase quarter great";
+var mnemonic = "tumble solar merge capable woman actress adjust work dragon version crazy rude";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage elder will butter slice arrow orchard lazy coffee barely demand name";
+var mnemonic = "angle staff client drum farm night forest wasp smile since follow liquid";

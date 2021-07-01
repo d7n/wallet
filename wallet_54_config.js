@@ -1,1 +1,1 @@
-var mnemonic = "assault chalk play muscle cactus original blue grunt lamp insane avocado dumb";
+var mnemonic = "ordinary gaze minimum else first lobster feel rail rare choose door actress";

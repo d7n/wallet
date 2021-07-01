@@ -1,1 +1,1 @@
-var mnemonic = "wide mobile twice fiction inject embark into fashion call secret weather dawn";
+var mnemonic = "similar student repair amount trial own fragile kiwi uphold average beef venture";

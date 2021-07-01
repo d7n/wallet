@@ -1,1 +1,1 @@
-var mnemonic = "cover clip letter hybrid sort jungle soon mansion monster genius sheriff corn";
+var mnemonic = "figure execute surround fatigue twelve senior secret anchor leader matter okay attitude";

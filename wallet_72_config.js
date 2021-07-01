@@ -1,1 +1,1 @@
-var mnemonic = "tonight tomorrow mixture crazy original over giraffe love another quality already useful";
+var mnemonic = "top secret onion inflict glue flash seed next drip cliff begin alert";

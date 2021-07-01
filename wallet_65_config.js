@@ -1,1 +1,1 @@
-var mnemonic = "pyramid cabbage tape ancient sponsor knock melt victory state glance fluid wave";
+var mnemonic = "ribbon hand chat canyon option cactus example satisfy deposit dawn father bag";

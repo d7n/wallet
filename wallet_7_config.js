@@ -1,1 +1,1 @@
-var mnemonic = "garment spend slide faint able comic episode source erupt donkey cruel clever";
+var mnemonic = "mouse enter slice spy burger echo affair royal success avocado basic second";

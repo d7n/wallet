@@ -1,1 +1,1 @@
-var mnemonic = "point monkey thumb broom behave fine remain glory also host stock real";
+var mnemonic = "lens merry orphan swamp nut lunar visit winter gasp witness loan hand";

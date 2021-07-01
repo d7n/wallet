@@ -1,1 +1,1 @@
-var mnemonic = "honey believe grab frog kid open inherit birth pretty spawn discover minute";
+var mnemonic = "weekend acoustic palace ask file bitter crouch wet decade ritual armor circle";

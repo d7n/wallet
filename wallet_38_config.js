@@ -1,1 +1,1 @@
-var mnemonic = "shop crawl tomorrow talent into derive muscle thing giggle bacon great hidden";
+var mnemonic = "arrow ride museum project hunt inspire mansion october million appear sort bread";

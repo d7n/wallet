@@ -1,1 +1,1 @@
-var mnemonic = "label artwork sword sadness thunder size claw gaze flat palm allow hawk";
+var mnemonic = "brown unique anchor world control rice tissue resemble yellow fox humble royal";

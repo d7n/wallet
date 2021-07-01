@@ -1,1 +1,1 @@
-var mnemonic = "zoo meat battle myself innocent velvet unaware tree nuclear proud supreme crop";
+var mnemonic = "false outdoor output lab invest resemble outside spawn mix rebuild invest recycle";

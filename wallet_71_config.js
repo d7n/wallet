@@ -1,1 +1,1 @@
-var mnemonic = "merry lazy duck quality half damp dawn permit frown moral audit tissue";
+var mnemonic = "piano walk input depend cement gold mushroom moon cube prison cry ocean";

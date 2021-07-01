@@ -1,1 +1,1 @@
-var mnemonic = "alley trade depend bubble pull shop need total verb biology collect hockey";
+var mnemonic = "clip scan gorilla clump actor teach basket endorse tourist release mad busy";

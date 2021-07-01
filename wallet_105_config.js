@@ -1,1 +1,1 @@
-var mnemonic = "decorate dumb must decline theory start summer ring pulse try run attack";
+var mnemonic = "cup dial vintage hand primary avocado original case ask oval feature matter";

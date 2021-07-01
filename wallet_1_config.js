@@ -1,1 +1,1 @@
-var mnemonic = "belt lock rigid latin donor ticket charge disease pudding cushion seminar fatigue";
+var mnemonic = "buddy student rally seek another blouse file alcohol pioneer spend explain battle";

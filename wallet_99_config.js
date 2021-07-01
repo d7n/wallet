@@ -1,1 +1,1 @@
-var mnemonic = "slide junk airport sword okay announce wine tonight audit wish extend vicious";
+var mnemonic = "minimum pipe pepper energy honey method elephant borrow recycle still plunge lemon";

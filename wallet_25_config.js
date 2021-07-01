@@ -1,1 +1,1 @@
-var mnemonic = "alien second advice winter correct peanut axis warrior fiber solve develop dentist";
+var mnemonic = "hollow hedgehog run predict video source evil almost cruise history burger style";

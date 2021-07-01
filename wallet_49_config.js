@@ -1,1 +1,1 @@
-var mnemonic = "identify mechanic license demise tag admit midnight fancy write mixed rail mango";
+var mnemonic = "snow recall deposit horror broom pulp cherry trip clean old foot amateur";

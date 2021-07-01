@@ -1,1 +1,1 @@
-var mnemonic = "sunny denial debate design grow practice hollow forest universe veteran unfair price";
+var mnemonic = "rough gospel razor toast ordinary summer olympic course file tackle equal tumble";

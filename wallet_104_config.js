@@ -1,1 +1,1 @@
-var mnemonic = "curious square prevent fortune busy suit liquid sausage icon gain brand letter";
+var mnemonic = "lens palace saddle ordinary bird refuse candy behave version fancy live famous";

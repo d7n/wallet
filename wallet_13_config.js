@@ -1,1 +1,1 @@
-var mnemonic = "solution limit advance aim false shy saddle tray mansion wrestle ability elephant";
+var mnemonic = "course deny reflect must damage blush sample sign outer goose will fiscal";

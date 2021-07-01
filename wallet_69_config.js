@@ -1,1 +1,1 @@
-var mnemonic = "inject tuition physical exercise arch nominee robust quantum puzzle fancy bike able";
+var mnemonic = "bring renew away caught material answer area auto palace length torch hair";

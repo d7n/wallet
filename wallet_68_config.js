@@ -1,1 +1,1 @@
-var mnemonic = "pupil canal bag birth almost rally expose whisper crystal honey verb absent";
+var mnemonic = "bird weasel enroll claim hungry liquid parrot visit error genius captain require";

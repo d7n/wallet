@@ -1,1 +1,1 @@
-var mnemonic = "coast forward allow army whale inform abandon kitten between unfold heart two";
+var mnemonic = "scene vocal village recipe phrase traffic deputy similar peanut script assist start";

@@ -1,1 +1,1 @@
-var mnemonic = "online scrap gravity north pear bottom turtle settle vanish prepare hobby exact";
+var mnemonic = "civil large reform vanish helmet truly old foil return private rare wasp";

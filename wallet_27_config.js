@@ -1,1 +1,1 @@
-var mnemonic = "foam once maximum primary direct width illegal deliver vital garbage mercy noise";
+var mnemonic = "outdoor holiday child sleep myself object bundle oxygen reunion tag water index";

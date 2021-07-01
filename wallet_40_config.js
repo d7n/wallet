@@ -1,1 +1,1 @@
-var mnemonic = "soda claim burst boat border omit boat dog knee fish accuse possible";
+var mnemonic = "marble capital merge engine maid unlock scrub session garage industry device prize";

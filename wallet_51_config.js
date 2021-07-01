@@ -1,1 +1,1 @@
-var mnemonic = "holiday spread wait occur leisure fresh snake edit true clog task maple";
+var mnemonic = "satoshi bicycle disease because problem destroy genuine caution peasant diary pond acid";

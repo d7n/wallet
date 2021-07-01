@@ -1,1 +1,1 @@
-var mnemonic = "zone frozen antenna sphere decline spoon expose shine wire feed panel grab";
+var mnemonic = "whip sunset skirt brief dirt need office easily history enough describe novel";

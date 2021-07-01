@@ -1,1 +1,1 @@
-var mnemonic = "aspect dose chunk shove end blade empty pottery pulse surge girl later";
+var mnemonic = "surge into force insane rocket mix guilt begin tragic pear drive dumb";

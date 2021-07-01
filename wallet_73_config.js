@@ -1,1 +1,1 @@
-var mnemonic = "best poverty wheel meadow depart script tank pen glue kind cute angle";
+var mnemonic = "nerve history tennis accuse program fly talk game thought siren retire broom";

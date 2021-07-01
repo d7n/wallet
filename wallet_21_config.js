@@ -1,1 +1,1 @@
-var mnemonic = "glide theory ski wet bicycle alcohol useless injury found enforce nominee visa";
+var mnemonic = "pact tuition effort purchase head crash clog sing silver wrap canoe come";

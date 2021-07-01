@@ -1,1 +1,1 @@
-var mnemonic = "anxiety actress identify knock rain bench culture garlic tube fiber aerobic hood";
+var mnemonic = "boss wool crumble ripple water estate bright sugar canal project blush fiber";

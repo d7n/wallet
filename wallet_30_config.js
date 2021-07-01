@@ -1,1 +1,1 @@
-var mnemonic = "park swarm wide couch salute enemy want present liberty wreck drama winter";
+var mnemonic = "identify surge doll pattern fresh enjoy town tower pair uphold bring bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "derive harsh uniform symptom bronze desert gauge subject canal term alley modify";
+var mnemonic = "train camp record always motion rough stock lemon garment chase cotton close";

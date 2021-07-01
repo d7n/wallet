@@ -1,1 +1,1 @@
-var mnemonic = "leisure vault among gas receive strong have admit actress there visit knock";
+var mnemonic = "embark rude inhale ring private prefer thing culture sugar blur swift caught";

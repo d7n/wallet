@@ -1,1 +1,1 @@
-var mnemonic = "logic bring fringe drop current wait method when between hobby library ice";
+var mnemonic = "page idle such aunt blind strong economy attack shine oblige wash company";

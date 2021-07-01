@@ -1,1 +1,1 @@
-var mnemonic = "title emotion next tortoise mobile dwarf myself scrub burger negative ride scorpion";
+var mnemonic = "nation repair help success prosper voyage hover stem maple shrimp luggage theory";

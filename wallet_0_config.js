@@ -1,1 +1,1 @@
-var mnemonic = "hurry alarm sick remember project arrange hobby almost unhappy subway athlete repair";
+var mnemonic = "tray blind romance rain pottery sport wreck camp carbon super version foam";

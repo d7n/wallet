@@ -1,1 +1,1 @@
-var mnemonic = "veteran brisk stay symptom slab meat dove shield comfort neutral illness excuse";
+var mnemonic = "second poet adult turtle head ramp arch menu candy enjoy paddle wrap";

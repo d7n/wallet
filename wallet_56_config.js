@@ -1,1 +1,1 @@
-var mnemonic = "peace abandon glare duck mountain ignore guide error ordinary usage produce fire";
+var mnemonic = "mother state hood comfort jealous noodle mechanic involve square cluster saddle valley";

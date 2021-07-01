@@ -1,1 +1,1 @@
-var mnemonic = "expire grief panic spot sound claw transfer dumb top pudding apart black";
+var mnemonic = "couple lens issue fun pact snap accident uphold try cook old tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "gas swim choice cereal state gym lucky equal train inject dismiss spy";
+var mnemonic = "spare fix volume latin bitter outside rebel vague limb easily icon ill";

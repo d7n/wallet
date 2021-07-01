@@ -1,1 +1,1 @@
-var mnemonic = "copper also blossom know draw twice nurse dress design sponsor food truth";
+var mnemonic = "slide toddler shove entire correct twin acquire action split visa cruise upgrade";

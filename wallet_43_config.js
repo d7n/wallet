@@ -1,1 +1,1 @@
-var mnemonic = "sudden man stage napkin sleep brass peanut consider happy pioneer manage cousin";
+var mnemonic = "drama gas sting pact pony sea dizzy canal truth aware bean upset";
