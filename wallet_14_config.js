@@ -1,1 +1,1 @@
-var mnemonic = "lemon puzzle party spatial present today little address all toddler economy cargo";
+var mnemonic = "trumpet human keep human problem scout add true coast scissors gun execute";

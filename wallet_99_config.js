@@ -1,1 +1,1 @@
-var mnemonic = "alpha exclude section choice ask trumpet demand real boring eight outside oven";
+var mnemonic = "endorse powder theme trophy dumb payment path bag direct cruise skate clog";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor alter story salmon demise broccoli cousin year village hat blame sadness";
+var mnemonic = "supreme forward candy chicken poet soul hazard enlist royal alley bitter cage";

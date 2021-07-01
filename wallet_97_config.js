@@ -1,1 +1,1 @@
-var mnemonic = "lens success onion glimpse brush frame stuff cradle family dress noodle soup";
+var mnemonic = "gate clean first short obtain code ready crisp stumble comic wrestle post";

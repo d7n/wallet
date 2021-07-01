@@ -1,1 +1,1 @@
-var mnemonic = "predict such wait human hybrid joy before real setup hockey ski peanut";
+var mnemonic = "accident flower glance reflect dice rotate office action danger miss lobster laugh";

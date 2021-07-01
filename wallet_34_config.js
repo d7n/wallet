@@ -1,1 +1,1 @@
-var mnemonic = "harvest final ignore actual trend orphan wasp lounge axis pen symptom intact";
+var mnemonic = "craft tank pet lawn army couple height swear type nuclear drama raccoon";

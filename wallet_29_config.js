@@ -1,1 +1,1 @@
-var mnemonic = "imitate estate mango tape adult book future skull legend exotic rather rice";
+var mnemonic = "maple kangaroo era language arrange faint current double bitter scare trend depend";

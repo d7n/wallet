@@ -1,1 +1,1 @@
-var mnemonic = "gadget cheap economy marine drill obey gym belt moment cluster success thank";
+var mnemonic = "lab believe betray bubble coil fold either afraid cluster zoo answer lobster";

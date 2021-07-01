@@ -1,1 +1,1 @@
-var mnemonic = "rabbit focus leisure machine survey faith spoon couch devote exotic ahead claw";
+var mnemonic = "maple muscle brain state document produce surge cliff blade dizzy question vintage";

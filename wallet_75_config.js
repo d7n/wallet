@@ -1,1 +1,1 @@
-var mnemonic = "canvas daughter attitude sphere puzzle drill segment slogan simple mistake network notable";
+var mnemonic = "excite tilt apology nurse consider diary pool rib siren afford attack share";

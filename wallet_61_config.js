@@ -1,1 +1,1 @@
-var mnemonic = "master perfect eight token venue solar badge receive hub weekend armor private";
+var mnemonic = "deposit mixture atom absent season kick sheriff soldier peanut obvious east devote";

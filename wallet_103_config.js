@@ -1,1 +1,1 @@
-var mnemonic = "view farm garlic museum know segment skill decrease tribe copy toast pride";
+var mnemonic = "bulk cousin mixed skill genius latin craft stuff around fit caught school";

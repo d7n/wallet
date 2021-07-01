@@ -1,1 +1,1 @@
-var mnemonic = "supreme health reunion smile cloth nice famous bracket august flame track uniform";
+var mnemonic = "sock settle mammal enroll area hammer black height inform quality wool banner";

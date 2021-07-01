@@ -1,1 +1,1 @@
-var mnemonic = "act exercise dizzy canyon harbor want kick sport happy egg essence range";
+var mnemonic = "cheap luxury kit alcohol banana sail argue attend gap course lyrics dignity";

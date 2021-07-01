@@ -1,1 +1,1 @@
-var mnemonic = "friend glove fork menu word harvest gorilla melody beyond baby vote reunion";
+var mnemonic = "session observe night shiver ankle shaft broccoli cradle chronic derive habit end";

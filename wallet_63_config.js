@@ -1,1 +1,1 @@
-var mnemonic = "praise ivory melt ordinary pistol gun aerobic pool guitar style drive bomb";
+var mnemonic = "eye forum wheat coral gossip magic pelican shield faith agent pig enough";

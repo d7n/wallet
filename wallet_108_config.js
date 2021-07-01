@@ -1,1 +1,1 @@
-var mnemonic = "novel pool file popular party peanut rally together song slide erode control";
+var mnemonic = "simple local basic stick share design smoke narrow direct language scan obscure";

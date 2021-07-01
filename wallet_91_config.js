@@ -1,1 +1,1 @@
-var mnemonic = "welcome goddess leg shoot female that iron drum pyramid usage affair salute";
+var mnemonic = "series castle stove travel claim real analyst live youth sniff clap impulse";

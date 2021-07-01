@@ -1,1 +1,1 @@
-var mnemonic = "slot wool ridge meat appear window range fan input change lemon manage";
+var mnemonic = "debris assault into demise scorpion tide earth dream diet coin boost wait";

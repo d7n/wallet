@@ -1,1 +1,1 @@
-var mnemonic = "test kiwi zebra off hurry junk inmate cart creek innocent lady hotel";
+var mnemonic = "rose essay rapid file kitchen fun harsh uncover typical market melody umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "when chuckle room movie win twin survey purchase pumpkin lake tape ostrich";
+var mnemonic = "federal confirm silly then twist long vocal team foil monster recipe predict";

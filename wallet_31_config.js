@@ -1,1 +1,1 @@
-var mnemonic = "jump rent mouse tide tooth just push exile insane myth style chalk";
+var mnemonic = "media either time point sugar before glad library egg lawn curious possible";

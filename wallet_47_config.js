@@ -1,1 +1,1 @@
-var mnemonic = "bronze sadness powder blanket wish garbage together spot giggle seminar oxygen clerk";
+var mnemonic = "gown thunder ignore author nest board enforce trend umbrella adjust crouch border";

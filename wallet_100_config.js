@@ -1,1 +1,1 @@
-var mnemonic = "smoke chief deny suffer video alley doll excite sentence express elbow banana";
+var mnemonic = "rapid lock file toss olive wear prepare hollow magic portion outer leg";

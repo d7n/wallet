@@ -1,1 +1,1 @@
-var mnemonic = "black change junk alpha balcony dinosaur lazy donate common furnace rally question";
+var mnemonic = "jazz wheel program guilt opera lava magic minute record ring early remain";

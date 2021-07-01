@@ -1,1 +1,1 @@
-var mnemonic = "thank room sleep airport also market open steel select mule reject brown";
+var mnemonic = "car jungle you mesh wise rent color derive furnace shrug battle benefit";

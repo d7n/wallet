@@ -1,1 +1,1 @@
-var mnemonic = "round adjust zero income credit insect enlist much hour mule bread clump";
+var mnemonic = "milk sword brother water truth weird catch vicious act that panel salmon";

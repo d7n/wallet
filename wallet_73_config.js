@@ -1,1 +1,1 @@
-var mnemonic = "inquiry powder retreat bean ice miss curtain horn more slim volcano ready";
+var mnemonic = "negative couple sustain party diesel account vessel glad leaf heavy again employ";

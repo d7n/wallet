@@ -1,1 +1,1 @@
-var mnemonic = "elite vehicle century involve depart sibling sausage fancy slice title sauce quarter";
+var mnemonic = "damp all option lunch wonder awful jealous pledge panther account mirror fitness";

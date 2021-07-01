@@ -1,1 +1,1 @@
-var mnemonic = "brief zoo shoe twist fence scheme lake hunt juice town discover prize";
+var mnemonic = "wrestle worth mobile room adjust enable mention latin jewel differ mystery pair";

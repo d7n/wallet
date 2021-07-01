@@ -1,1 +1,1 @@
-var mnemonic = "dilemma bottom carpet eternal satoshi south agent clump humor liquid build grape";
+var mnemonic = "slam oppose dignity stamp degree burden head then blade finger adult man";

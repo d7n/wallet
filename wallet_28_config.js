@@ -1,1 +1,1 @@
-var mnemonic = "broccoli motion dune destroy lake galaxy moment man moon laugh essay almost";
+var mnemonic = "royal borrow record state increase carpet ridge trouble trip repeat possible car";

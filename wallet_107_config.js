@@ -1,1 +1,1 @@
-var mnemonic = "display grit volcano seed gym office patch issue couch divert enter orchard";
+var mnemonic = "cycle desert innocent mouse lion forum amateur fee snow sick drink begin";

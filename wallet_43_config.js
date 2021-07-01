@@ -1,1 +1,1 @@
-var mnemonic = "accuse plastic tiger proof dilemma thumb spy return cat govern rack possible";
+var mnemonic = "citizen shoulder flee skin parent protect pretty speak peace device rebel toddler";

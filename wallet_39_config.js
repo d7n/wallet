@@ -1,1 +1,1 @@
-var mnemonic = "century list response mom glad search ostrich exhibit myth glare shift first";
+var mnemonic = "pioneer parent raccoon extra scheme flower blanket student entry erode trend brand";

@@ -1,1 +1,1 @@
-var mnemonic = "season place kind luxury armed letter balcony visual bicycle evil claw borrow";
+var mnemonic = "toy side town arm cargo quiz crystal gadget cactus right core reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "record possible produce mirror horse involve cousin parent logic rabbit fog advice";
+var mnemonic = "syrup hill jar misery space logic hollow green volume decrease push early";

@@ -1,1 +1,1 @@
-var mnemonic = "equal note toe wide add panther hotel unhappy rich feature indoor bachelor";
+var mnemonic = "crunch stock twelve enrich base anger dumb mimic destroy spirit movie discover";

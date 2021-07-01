@@ -1,1 +1,1 @@
-var mnemonic = "distance mushroom illegal copy execute casual square arctic soon idle lab boring";
+var mnemonic = "space napkin true wink sketch rail enforce elder illegal zero powder alien";

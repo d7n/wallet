@@ -1,1 +1,1 @@
-var mnemonic = "grace cool group begin shoot female oxygen come defense leisure that hurry";
+var mnemonic = "story popular wheat oxygen sketch regular number true correct vicious impulse escape";

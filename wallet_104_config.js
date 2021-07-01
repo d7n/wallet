@@ -1,1 +1,1 @@
-var mnemonic = "leisure will quality stock engine virus swing panic regret floor miracle nerve";
+var mnemonic = "end jungle cage leisure cushion horse derive super chalk defy prevent wild";

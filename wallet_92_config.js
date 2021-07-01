@@ -1,1 +1,1 @@
-var mnemonic = "kidney jewel grocery weapon scan vehicle law cycle you carry notable loud";
+var mnemonic = "erode priority nice toy twenty issue input milk faint mechanic glove element";

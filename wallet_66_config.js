@@ -1,1 +1,1 @@
-var mnemonic = "spell kidney famous filter state rude soda chalk skirt alpha creek useless";
+var mnemonic = "pause slender paper inflict client timber pig uphold animal pluck evoke lucky";

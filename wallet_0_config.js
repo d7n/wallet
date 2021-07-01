@@ -1,1 +1,1 @@
-var mnemonic = "risk ball churn cover filter prison heavy empty tissue clap december benefit";
+var mnemonic = "eyebrow start volume maple warm uncle submit page bleak swallow gallery cream";

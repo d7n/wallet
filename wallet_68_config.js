@@ -1,1 +1,1 @@
-var mnemonic = "version weapon unhappy special knife company silk hollow punch notable stool clerk";
+var mnemonic = "struggle scout vacant daring rifle material machine airport shadow spend deal merge";

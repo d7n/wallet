@@ -1,1 +1,1 @@
-var mnemonic = "ordinary priority civil invite hero occur oxygen genre vapor section spend afraid";
+var mnemonic = "sock novel clinic priority soft march enlist element outdoor mandate just toe";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze cattle narrow hobby eight army tragic ketchup frost caught bird evil";
+var mnemonic = "extra vintage easily exhibit raccoon wish spatial glance level can more old";

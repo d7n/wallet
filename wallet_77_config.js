@@ -1,1 +1,1 @@
-var mnemonic = "borrow sniff trend castle skin wrap august engine illness text double lava";
+var mnemonic = "angry humble hammer federal energy network priority explain angry public solid alert";

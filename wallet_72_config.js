@@ -1,1 +1,1 @@
-var mnemonic = "bread film arm thumb collect try carry social predict course olympic produce";
+var mnemonic = "park direct dinner rib online hair hope remind catch erosion fiscal scatter";

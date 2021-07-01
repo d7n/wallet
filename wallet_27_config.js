@@ -1,1 +1,1 @@
-var mnemonic = "hint suggest gospel budget valley van secret bid curtain whip pioneer wolf";
+var mnemonic = "swim foster rebel banner boring orbit diamond sibling solid verify bleak endless";

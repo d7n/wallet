@@ -1,1 +1,1 @@
-var mnemonic = "shoe memory when century night cruel inmate wool split mass biology useful";
+var mnemonic = "mimic thunder join crop young veteran comfort little clap sudden edit caution";

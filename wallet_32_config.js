@@ -1,1 +1,1 @@
-var mnemonic = "equip eternal leg hammer report key involve potato manual move door follow";
+var mnemonic = "hello release endless illness weekend knee mansion garlic civil clerk job huge";

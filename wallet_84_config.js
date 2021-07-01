@@ -1,1 +1,1 @@
-var mnemonic = "uniform arrest virtual brick worry seed tool brisk gloom afford maze among";
+var mnemonic = "disease ill brick security blue labor among flower result trophy round car";

@@ -1,1 +1,1 @@
-var mnemonic = "addict trend barely reject sense crucial penalty ticket march smart kind route";
+var mnemonic = "weekend depth wire security elbow soldier salmon coconut general wish rescue essay";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch zebra useless unfair volcano all core wire shuffle lawsuit glide snake";
+var mnemonic = "spy move fly bubble course divert keep warrior cable narrow century absent";

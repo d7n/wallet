@@ -1,1 +1,1 @@
-var mnemonic = "kiwi elevator owner skin piece electric liquid object wing marble clarify aim";
+var mnemonic = "must deal bike fossil helmet remind bulb main market gentle pencil wish";

@@ -1,1 +1,1 @@
-var mnemonic = "choose waste convince expose swarm extra cram toe zoo elegant stone image";
+var mnemonic = "mean puppy bargain clarify grid seek cart culture glance violin bleak bronze";

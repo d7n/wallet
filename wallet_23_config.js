@@ -1,1 +1,1 @@
-var mnemonic = "barely total almost rescue scale island thumb orphan memory walnut practice click";
+var mnemonic = "bike tree cupboard assault layer clutch spare glance project cloud slam wood";

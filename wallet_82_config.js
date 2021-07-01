@@ -1,1 +1,1 @@
-var mnemonic = "liquid they pill shoulder hover parent bubble clarify sister mad wine destroy";
+var mnemonic = "cactus dutch vacuum now short plastic wave tourist exile detect season nice";

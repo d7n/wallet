@@ -1,1 +1,1 @@
-var mnemonic = "soup absurd shaft shallow narrow again jazz ritual stomach vessel fire melt";
+var mnemonic = "nation brick swear beef vacant ridge route tape resist tired course put";

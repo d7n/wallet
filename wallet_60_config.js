@@ -1,1 +1,1 @@
-var mnemonic = "enough reduce volcano moment little language fine seven hand oppose phone frequent";
+var mnemonic = "liar antique laptop valve afraid call fish goose foil hill slab large";

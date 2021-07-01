@@ -1,1 +1,1 @@
-var mnemonic = "circle find boss despair bounce express dust expand raise ridge drill large";
+var mnemonic = "hybrid physical pepper damp achieve cost crash monkey arctic arena figure sell";

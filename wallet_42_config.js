@@ -1,1 +1,1 @@
-var mnemonic = "crash horse obtain poet gadget problem intact among run category absent charge";
+var mnemonic = "pottery spread left toss piano prosper walnut rapid learn color super mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "cute work awkward enroll escape fruit swallow solve popular exact labor melody";
+var mnemonic = "gym detect pride label robust gentle script scrap casino safe ice dust";

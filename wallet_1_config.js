@@ -1,1 +1,1 @@
-var mnemonic = "box they border lobster fresh rifle water inherit mystery ancient hub two";
+var mnemonic = "zoo borrow romance history hello royal please syrup short cry access account";

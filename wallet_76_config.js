@@ -1,1 +1,1 @@
-var mnemonic = "sail bundle pulp penalty length tone couch join slogan robot cement staff";
+var mnemonic = "dismiss grape spawn shine mouse legend play scan brand perfect card idea";

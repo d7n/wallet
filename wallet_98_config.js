@@ -1,1 +1,1 @@
-var mnemonic = "donate warm desert flame license lava pet dinosaur useful box mention vault";
+var mnemonic = "select organ suffer essay knee exhibit promote dinosaur robust hood torch fork";

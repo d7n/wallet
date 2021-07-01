@@ -1,1 +1,1 @@
-var mnemonic = "first betray usual forest project drop limb van deny post near remember";
+var mnemonic = "apology chapter antenna kick anger sustain dove potato light tube panther forum";

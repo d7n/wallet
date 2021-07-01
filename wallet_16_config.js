@@ -1,1 +1,1 @@
-var mnemonic = "menu rent iron slogan pig dentist food business march primary parrot behave";
+var mnemonic = "movie help main local message apple spider transfer undo two chicken foot";

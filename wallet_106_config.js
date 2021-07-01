@@ -1,1 +1,1 @@
-var mnemonic = "seminar walk token pencil fortune runway degree scrub people note fatal young";
+var mnemonic = "budget code forward success shock imitate top cabbage pink cube symptom shuffle";

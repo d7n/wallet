@@ -1,1 +1,1 @@
-var mnemonic = "buyer denial nose insane approve ship portion phone cluster diet urban phrase";
+var mnemonic = "lamp magnet tone slow expose hat chase laundry raise top length olympic";

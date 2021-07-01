@@ -1,1 +1,1 @@
-var mnemonic = "come survey jazz acoustic sick disagree car rain drama shuffle raw glove";
+var mnemonic = "change promote debate flock public frequent reason medal cement describe tornado visit";

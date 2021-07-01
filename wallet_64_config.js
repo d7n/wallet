@@ -1,1 +1,1 @@
-var mnemonic = "state alter home strike lady fatal indoor tired afraid scrap imitate unhappy";
+var mnemonic = "scrub pulse butter leaf hand nation movie lonely boss strike cousin lonely";

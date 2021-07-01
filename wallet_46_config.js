@@ -1,1 +1,1 @@
-var mnemonic = "sunny host small party glow coffee elegant weapon million join foil aerobic";
+var mnemonic = "range resource develop round tragic surprise region innocent cause approve van sand";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer throw someone record explain urge accident satisfy soldier scene december caught";
+var mnemonic = "visual dentist stay dinosaur couch witness squirrel supreme switch receive fee humor";

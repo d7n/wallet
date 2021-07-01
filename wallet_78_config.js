@@ -1,1 +1,1 @@
-var mnemonic = "panda until note honey hand fluid multiply supreme fuel silly pen virtual";
+var mnemonic = "mandate cancel snow day favorite level find company awkward critic case analyst";

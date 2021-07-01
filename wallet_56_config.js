@@ -1,1 +1,1 @@
-var mnemonic = "demise auction upset chase provide mosquito share shy flower dove reduce find";
+var mnemonic = "seek crucial crop steak task practice agent modify there news clog rough";

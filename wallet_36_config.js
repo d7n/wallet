@@ -1,1 +1,1 @@
-var mnemonic = "decrease dignity enlist must atom easily frequent baby leopard price photo trim";
+var mnemonic = "sight object viable manage frost arch course sun achieve chronic tiger inside";

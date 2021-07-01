@@ -1,1 +1,1 @@
-var mnemonic = "letter hope expire protect kid outside hospital dice twist tribe open youth";
+var mnemonic = "transfer trick wear three execute north body innocent cream body easy basket";

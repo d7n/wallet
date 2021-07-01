@@ -1,1 +1,1 @@
-var mnemonic = "allow uphold eye add margin rare conduct mistake yard vicious mandate real";
+var mnemonic = "light animal trouble lake anchor harbor damp guilt vanish embrace despair fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "easy fat immense together atom start finger enact layer festival follow trap";
+var mnemonic = "know solution never bless skull coral salmon robust over faculty impact test";

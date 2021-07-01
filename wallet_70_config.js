@@ -1,1 +1,1 @@
-var mnemonic = "setup oyster where smart castle risk aunt palace inquiry warm address exit";
+var mnemonic = "gaze vanish health soap dinner stove strike desk midnight slogan horn leopard";

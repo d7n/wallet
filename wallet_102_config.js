@@ -1,1 +1,1 @@
-var mnemonic = "life stamp sad birth riot sphere quantum man engine little attack staff";
+var mnemonic = "roof rival ten brave believe laugh crowd birth pulp dolphin critic few";

@@ -1,1 +1,1 @@
-var mnemonic = "apple then earn book siren planet journey sunny debris grunt lens anchor";
+var mnemonic = "reveal glare enable donkey distance april race title worry deputy chaos text";

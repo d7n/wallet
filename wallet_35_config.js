@@ -1,1 +1,1 @@
-var mnemonic = "safe frown smart throw major fish foam spring clip fantasy universe lawsuit";
+var mnemonic = "sail inspire sorry shell crazy unfold army merit purse excite dial strong";

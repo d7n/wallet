@@ -1,1 +1,1 @@
-var mnemonic = "twelve list sword inspire volume basic helmet farm oval resource know increase";
+var mnemonic = "vehicle place top stand wait cement soldier unfair oppose gun cotton manage";

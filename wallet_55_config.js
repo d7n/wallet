@@ -1,1 +1,1 @@
-var mnemonic = "spring emerge wait pulse one panda exhaust claim end message evolve vehicle";
+var mnemonic = "soccer shock spread design taxi actress cargo assault blouse genre naive surround";

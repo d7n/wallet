@@ -1,1 +1,1 @@
-var mnemonic = "merge sketch clarify inherit call supreme pumpkin circle believe stereo deny obvious";
+var mnemonic = "emotion argue job cherry tree benefit oil ranch abstract bring pudding legal";
