@@ -1,1 +1,1 @@
-var mnemonic = "quiz example forum parrot snow raise comfort thrive salt coach dinner valley";
+var mnemonic = "chronic illness vote problem example subject mother pepper fog fashion inch tank";

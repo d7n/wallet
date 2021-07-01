@@ -1,1 +1,1 @@
-var mnemonic = "motion fringe hood gospel bulb warfare churn gym giraffe thrive bottom unhappy";
+var mnemonic = "account bind echo belt sauce basket transfer language cat town connect recycle";

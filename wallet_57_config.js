@@ -1,1 +1,1 @@
-var mnemonic = "finish plate ginger easy noodle silk twist tornado rookie bomb post arena";
+var mnemonic = "victory hunt kite repeat usage dog battle install pepper update attract hint";

@@ -1,1 +1,1 @@
-var mnemonic = "six shoe burst useful toward toddler drama strategy core broom letter success";
+var mnemonic = "april foam round path install public fold drink giraffe blame noble olive";

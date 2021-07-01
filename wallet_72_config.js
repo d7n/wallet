@@ -1,1 +1,1 @@
-var mnemonic = "august machine result garment gap bomb future spend remember derive eternal approve";
+var mnemonic = "dream bag olympic put target inner illness knee opera bulk plunge soccer";

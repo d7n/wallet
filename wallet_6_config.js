@@ -1,1 +1,1 @@
-var mnemonic = "spirit pencil sausage position ridge kiss wage merry illness bracket stuff dust";
+var mnemonic = "again amateur erase submit van foster seven doctor monitor tribe flag sea";

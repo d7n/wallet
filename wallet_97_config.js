@@ -1,1 +1,1 @@
-var mnemonic = "lizard song rally now shift use that push pretty glad job mushroom";
+var mnemonic = "earth bike deer remind clinic install purchase city ten genius display spring";

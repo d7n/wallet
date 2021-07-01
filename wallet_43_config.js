@@ -1,1 +1,1 @@
-var mnemonic = "dress hero van athlete alcohol rude crucial taste pioneer provide deliver work";
+var mnemonic = "entry amount maximum goddess trash sport priority smile vendor another junior tube";

@@ -1,1 +1,1 @@
-var mnemonic = "smile view park accident rebel conduct system luxury sleep hint margin outer";
+var mnemonic = "tunnel talk attack silent shield chase hamster front miss wave nasty vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt wrestle payment december hobby pipe frequent fame depend guard noble ranch";
+var mnemonic = "luxury unknown leader note head autumn soap accident vehicle arrow betray upset";

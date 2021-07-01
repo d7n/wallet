@@ -1,1 +1,1 @@
-var mnemonic = "mango home ethics make follow welcome lottery shell gasp veteran guide very";
+var mnemonic = "east frame daring parent bus destroy elephant must abandon exercise price aware";

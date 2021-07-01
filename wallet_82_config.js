@@ -1,1 +1,1 @@
-var mnemonic = "blush impulse blanket link dizzy remember diet narrow glad tail soup shrug";
+var mnemonic = "below often gospel extra bulk swarm trophy chimney negative skull cheese frequent";

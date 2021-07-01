@@ -1,1 +1,1 @@
-var mnemonic = "tornado tiger involve found method deny pitch uphold myself maze theme skirt";
+var mnemonic = "tackle cost shy evidence sugar never inject now what control photo viable";

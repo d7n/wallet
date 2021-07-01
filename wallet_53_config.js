@@ -1,1 +1,1 @@
-var mnemonic = "fault absurd glory lottery whisper aerobic bunker rent rebuild napkin parade online";
+var mnemonic = "parent bundle jewel cricket brave real say object century wool nation display";

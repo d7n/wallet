@@ -1,1 +1,1 @@
-var mnemonic = "culture skirt amateur essence jeans exercise reunion reject neither fringe number general";
+var mnemonic = "twenty eagle onion punch position fortune addict citizen fault parade online dove";

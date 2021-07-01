@@ -1,1 +1,1 @@
-var mnemonic = "coyote team voyage meat regret impose spice expire pulp fatal shy tornado";
+var mnemonic = "exclude kitten garbage demise work estate shadow dial silk inhale cotton cook";

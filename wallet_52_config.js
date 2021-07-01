@@ -1,1 +1,1 @@
-var mnemonic = "mixture loop pet month friend hockey bitter brown dance october valid crane";
+var mnemonic = "sense dirt display sausage provide brick input repeat gadget cost parent pair";

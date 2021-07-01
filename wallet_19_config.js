@@ -1,1 +1,1 @@
-var mnemonic = "public gift mind volcano wear remind canoe shrug east glimpse pioneer together";
+var mnemonic = "addict type wash trial tattoo timber curtain merry guess attitude cattle shoulder";

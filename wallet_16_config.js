@@ -1,1 +1,1 @@
-var mnemonic = "tiger finish cradle garbage aisle dress pig message train resource blade group";
+var mnemonic = "used priority until craft slice reflect much wreck become nut minor clay";

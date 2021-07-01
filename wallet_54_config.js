@@ -1,1 +1,1 @@
-var mnemonic = "crisp chimney person slight army decide chief aerobic silver emotion annual resemble";
+var mnemonic = "meat dash eight bitter crazy pelican reunion lens patch around you predict";

@@ -1,1 +1,1 @@
-var mnemonic = "extend brass grain crystal giggle hurdle never salon twenty acquire ship sweet";
+var mnemonic = "gasp prefer suffer kangaroo horror dust track keen present sell boat embody";

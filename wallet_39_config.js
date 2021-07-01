@@ -1,1 +1,1 @@
-var mnemonic = "reason story another artist trap ready glide island churn consider blood search";
+var mnemonic = "badge swift kit pill pen team weekend social dawn science off police";

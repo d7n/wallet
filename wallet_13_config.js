@@ -1,1 +1,1 @@
-var mnemonic = "open popular drastic armed favorite amused cactus future clever away erosion chunk";
+var mnemonic = "extend assist sauce chef panic drill hawk trigger battle trip match duty";

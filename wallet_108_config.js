@@ -1,1 +1,1 @@
-var mnemonic = "food amazing chaos cinnamon scout shine cinnamon genuine relax giant guess pair";
+var mnemonic = "curious gorilla inmate multiply wheel ceiling reject retreat once cycle demand biology";

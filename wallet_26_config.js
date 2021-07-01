@@ -1,1 +1,1 @@
-var mnemonic = "wave rival impose return deny actress crystal camera table gadget apology demand";
+var mnemonic = "unfair any member depth marble flip deposit chuckle clutch certain despair double";

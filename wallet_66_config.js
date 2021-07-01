@@ -1,1 +1,1 @@
-var mnemonic = "question honey beach empower royal ability sea twelve napkin labor tunnel height";
+var mnemonic = "shuffle deer theory proud because erode bag advice shaft cabbage prosper eagle";

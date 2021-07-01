@@ -1,1 +1,1 @@
-var mnemonic = "month deposit wood hole bridge same dash embrace loan proud feel remove";
+var mnemonic = "super scene left gown chapter paddle used image apology latin door pull";

@@ -1,1 +1,1 @@
-var mnemonic = "twist smoke dose list other shell trash delay trade brisk fetch wrist";
+var mnemonic = "viable argue crew city slow elite save guard pledge tooth census hungry";

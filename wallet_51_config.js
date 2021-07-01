@@ -1,1 +1,1 @@
-var mnemonic = "slot update weird dizzy bike prefer vendor local feature sunny skull north";
+var mnemonic = "toe provide heart pupil control accident hole velvet decade staff jacket symbol";

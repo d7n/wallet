@@ -1,1 +1,1 @@
-var mnemonic = "tank off blind worry rebuild spring motor case autumn sniff burden pattern";
+var mnemonic = "menu excess faint deny traffic cherry relax artefact earn pill quiz kiss";

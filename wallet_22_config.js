@@ -1,1 +1,1 @@
-var mnemonic = "unusual weather like proof between dutch oak saddle shift green portion silk";
+var mnemonic = "point interest song column current invite biology tourist gadget century insane coyote";

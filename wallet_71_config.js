@@ -1,1 +1,1 @@
-var mnemonic = "ten hub educate table maximum brain pledge often load collect depart skate";
+var mnemonic = "buddy tooth nut hair already give wage favorite place mixed brick autumn";

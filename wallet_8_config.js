@@ -1,1 +1,1 @@
-var mnemonic = "derive canvas juice horn kingdom debris total undo crouch rival taxi ignore";
+var mnemonic = "oval detect word pig rescue travel large scheme pair patrol trophy matter";

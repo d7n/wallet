@@ -1,1 +1,1 @@
-var mnemonic = "cabin sphere amused close panic shrimp project deliver mention arrive shrug joke";
+var mnemonic = "rebuild fancy shrug craft aunt income office enter time live own cream";

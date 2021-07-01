@@ -1,1 +1,1 @@
-var mnemonic = "where index interest vivid craft forget because before pact current brown slab";
+var mnemonic = "damp key dream crystal fabric error song obvious able race stadium truth";

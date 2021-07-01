@@ -1,1 +1,1 @@
-var mnemonic = "author lift day echo write kick sauce know fly hard normal swamp";
+var mnemonic = "program lake shock card crater wasp direct educate click use promote reopen";

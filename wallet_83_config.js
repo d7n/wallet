@@ -1,1 +1,1 @@
-var mnemonic = "shoot address cry boss parent illegal push bar orchard second today onion";
+var mnemonic = "heart lady middle poem awake seed tank now door until shiver budget";

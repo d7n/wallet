@@ -1,1 +1,1 @@
-var mnemonic = "any tourist long capable fiber total slim rack decrease surprise dizzy pyramid";
+var mnemonic = "achieve license bargain mad banner across bag lawsuit region eternal meat ancient";

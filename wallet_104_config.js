@@ -1,1 +1,1 @@
-var mnemonic = "gold expire silver order inspire author volcano sunny apart model direct top";
+var mnemonic = "absent permit analyst crash discover modify truck field scrap burst hold key";

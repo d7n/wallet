@@ -1,1 +1,1 @@
-var mnemonic = "cabbage cinnamon giggle raven boss reward token start oak race make tank";
+var mnemonic = "cream code upper law sound mountain stable assault miracle prefer zero box";

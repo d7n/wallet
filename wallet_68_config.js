@@ -1,1 +1,1 @@
-var mnemonic = "around twist path develop settle cash segment cover chicken pencil draw helmet";
+var mnemonic = "improve panther velvet visa puzzle curve enrich inquiry craft regular define human";

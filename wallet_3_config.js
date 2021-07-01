@@ -1,1 +1,1 @@
-var mnemonic = "moment oxygen cherry during sock oak inform wisdom iron soda spare tomato";
+var mnemonic = "edit evidence occur tunnel achieve favorite runway hurt movie six casino describe";

@@ -1,1 +1,1 @@
-var mnemonic = "check address clog interest aspect video junk alley release energy fiscal march";
+var mnemonic = "miss stool common face unique swear run flavor super diagram clip melt";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm exit view lunch video congress crisp goat horn tag flip rude";
+var mnemonic = "minute affair exile marine hazard scorpion runway rabbit toddler tunnel absurd also";

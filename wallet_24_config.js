@@ -1,1 +1,1 @@
-var mnemonic = "put win frost correct trust climb desk economy render mean card kind";
+var mnemonic = "target memory offer suggest second night junk load pen perfect away need";

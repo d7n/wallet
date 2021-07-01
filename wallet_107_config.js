@@ -1,1 +1,1 @@
-var mnemonic = "biology wreck advance shrug guitar cute replace amateur close donkey gasp merge";
+var mnemonic = "rigid tuna worry arm mutual grid problem season anxiety range thank retire";

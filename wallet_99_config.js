@@ -1,1 +1,1 @@
-var mnemonic = "gospel soda hockey turkey sense funny ten bone age recipe manage lizard";
+var mnemonic = "weapon agent convince zero lonely young confirm trick wink maze onion month";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma magic lonely blind magic emotion unhappy aisle undo hungry dove switch";
+var mnemonic = "cancel merge tip cheese current stone miracle lab jar relax enough stay";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom busy armor tooth kangaroo region motor scale always reason snack athlete";
+var mnemonic = "useless target liberty amount session alpha crystal smooth item essence way wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "fold educate roof cream tragic code upset seek rotate spider thank recycle";
+var mnemonic = "push festival unknown frost wonder tonight husband spin quick own slim boost";

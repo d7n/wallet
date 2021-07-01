@@ -1,1 +1,1 @@
-var mnemonic = "prepare woman shrug bag nest mistake kitten hotel dwarf vintage coin cry";
+var mnemonic = "garage bag aware chief caught siege avoid ahead cup attend pottery thunder";

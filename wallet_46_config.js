@@ -1,1 +1,1 @@
-var mnemonic = "toast shoe alcohol educate same strategy this inform crush educate fresh october";
+var mnemonic = "magnet napkin busy token farm excite favorite family taste fatigue elephant blast";

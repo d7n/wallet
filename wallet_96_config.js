@@ -1,1 +1,1 @@
-var mnemonic = "tree swift boost blur flame invite remember eagle dawn race runway rough";
+var mnemonic = "dilemma until toddler frame problem among blood tank lecture cause stomach short";

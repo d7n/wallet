@@ -1,1 +1,1 @@
-var mnemonic = "love craft fall announce middle fame nest amused horror gap office funny";
+var mnemonic = "cry lab furnace illness chef coast denial outdoor miss security obey protect";

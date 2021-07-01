@@ -1,1 +1,1 @@
-var mnemonic = "very release win virtual resource miracle inspire what antenna fresh model path";
+var mnemonic = "fame draft verb pledge produce black rural dizzy enough maple because bulk";

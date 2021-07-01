@@ -1,1 +1,1 @@
-var mnemonic = "later chest asthma zebra pig deer injury solve trust above suspect original";
+var mnemonic = "budget cat spread hundred demand evolve still pulp nut runway roast weird";

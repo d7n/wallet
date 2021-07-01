@@ -1,1 +1,1 @@
-var mnemonic = "brick insect enforce forum chicken voice citizen call endless into current head";
+var mnemonic = "drip around timber slot wonder either drum play cage crime luxury brief";

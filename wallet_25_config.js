@@ -1,1 +1,1 @@
-var mnemonic = "ginger universe gown double escape lyrics return jar slight topic exact taste";
+var mnemonic = "faculty song gauge tenant blame gift book august ranch midnight hobby portion";

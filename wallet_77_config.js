@@ -1,1 +1,1 @@
-var mnemonic = "obscure prepare brother fancy enforce rigid ship mutual vanish day mandate inform";
+var mnemonic = "reopen disorder bitter help wash celery brisk point tennis announce culture knee";

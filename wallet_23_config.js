@@ -1,1 +1,1 @@
-var mnemonic = "cake buyer gold include crystal crouch dynamic fee scale silent sister used";
+var mnemonic = "census door purity travel inner program unfair original employ lamp grass render";

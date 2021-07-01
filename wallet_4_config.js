@@ -1,1 +1,1 @@
-var mnemonic = "addict change helmet better pulse crunch supply release mixed addict body seed";
+var mnemonic = "party quick gain whale close flock grit audit shed village equal knife";

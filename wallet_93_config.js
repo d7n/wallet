@@ -1,1 +1,1 @@
-var mnemonic = "discover stairs ring attract session tool nothing damage type pond various one";
+var mnemonic = "habit chest rifle half tattoo people rent smile frown double put empower";

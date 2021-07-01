@@ -1,1 +1,1 @@
-var mnemonic = "taxi law maple acid spare can bring crack wrong arrange shove happy";
+var mnemonic = "cheap sight warm pudding state few twice wagon thrive away stay sunset";

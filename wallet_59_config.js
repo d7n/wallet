@@ -1,1 +1,1 @@
-var mnemonic = "same erase boss segment puppy victory frame midnight sick okay drip ski";
+var mnemonic = "phrase melt smooth analyst toe coin hood time menu laugh answer embody";

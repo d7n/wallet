@@ -1,1 +1,1 @@
-var mnemonic = "visual trigger nasty sick diesel rifle broken confirm thumb inside kingdom unit";
+var mnemonic = "liar song slim chunk mimic impact adult hunt umbrella assault van blade";

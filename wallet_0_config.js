@@ -1,1 +1,1 @@
-var mnemonic = "hip clean stumble gospel join drink riot radio ship arctic start iron";
+var mnemonic = "wage fat rent gospel margin seed buffalo solve hand large crawl master";

@@ -1,1 +1,1 @@
-var mnemonic = "snack orient favorite hover boss jeans humor wealth crowd erase ensure cage";
+var mnemonic = "warfare gate peasant nest orphan level giggle only kite pepper maple weapon";

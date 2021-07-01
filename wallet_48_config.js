@@ -1,1 +1,1 @@
-var mnemonic = "small turn drastic they two inherit industry then often address mixed grass";
+var mnemonic = "educate comfort solar put vacant photo crunch sunset swap rail solve fancy";

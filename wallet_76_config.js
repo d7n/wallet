@@ -1,1 +1,1 @@
-var mnemonic = "head brush bundle bean protect glad impulse crowd pig speak what excite";
+var mnemonic = "when crew inspire vague smooth sport thunder update cherry mechanic casual donor";

@@ -1,1 +1,1 @@
-var mnemonic = "draw trial onion pumpkin ship travel firm pretty web enact produce heavy";
+var mnemonic = "industry issue parade iron ensure thumb nephew edge mystery valley reflect major";

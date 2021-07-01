@@ -1,1 +1,1 @@
-var mnemonic = "caution fossil struggle endorse clap camp extend inherit face interest shiver outside";
+var mnemonic = "drip happy ceiling column exist crew border heart tornado short inject idle";

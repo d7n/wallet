@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur twice deposit seven ceiling enforce over attract popular three visit fruit";
+var mnemonic = "wise click bid symptom price clip apart prison above tornado edit raven";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn oil globe strategy impulse slam oak install double lunar gym panther";
+var mnemonic = "maze absent amused bottom pattern assault brave wall master twenty firm ostrich";

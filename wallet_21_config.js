@@ -1,1 +1,1 @@
-var mnemonic = "bonus invite hockey gun thing crop aerobic festival afford toilet bonus become";
+var mnemonic = "slide merit where aisle leaf urge happy crack kid wolf liberty jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier cream culture fox swift nasty write useless frost inmate feature uniform";
+var mnemonic = "boss fossil intact leg oak cannon inquiry mix toilet spring boost top";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz source total chaos refuse aerobic vessel tag replace build rain almost";
+var mnemonic = "witness heavy gun clay street fetch rice abstract perfect hollow pulse infant";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder avoid school juice pattern ill leisure youth step library scheme toy";
+var mnemonic = "oil expire quit soap false floor short odor spread few strong mutual";

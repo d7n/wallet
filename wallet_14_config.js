@@ -1,1 +1,1 @@
-var mnemonic = "sing silly draft agent inquiry verify decrease subway stool magic render perfect";
+var mnemonic = "universe lazy video use abuse fresh bike design wedding guilt scheme action";

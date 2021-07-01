@@ -1,1 +1,1 @@
-var mnemonic = "cat throw mouse list predict twelve ice unusual hood arctic method shrimp";
+var mnemonic = "second beach then example machine adapt view lesson worth cruel hello neither";

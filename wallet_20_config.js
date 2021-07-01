@@ -1,1 +1,1 @@
-var mnemonic = "rate mansion spoil license bicycle open tiny actual blossom turn dose dirt";
+var mnemonic = "know impulse clock silk penalty long fury dinner ivory toe unknown rotate";

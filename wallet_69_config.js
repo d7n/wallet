@@ -1,1 +1,1 @@
-var mnemonic = "despair toward burger month lamp spawn wild feature easy bleak hope assist";
+var mnemonic = "lizard jacket old wealth train keen illegal matter vessel fish tell tragic";

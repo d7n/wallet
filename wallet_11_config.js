@@ -1,1 +1,1 @@
-var mnemonic = "pride offer waste salad test drill change hero joke fantasy prevent quote";
+var mnemonic = "shed lens marine blood flat receive primary segment toddler kitchen ivory replace";

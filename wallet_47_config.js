@@ -1,1 +1,1 @@
-var mnemonic = "minute victory patient same suggest siren define screen nephew fold bone bubble";
+var mnemonic = "infant almost oppose phrase cabin sad annual blouse front goat payment blur";

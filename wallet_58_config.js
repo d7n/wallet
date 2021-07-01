@@ -1,1 +1,1 @@
-var mnemonic = "learn evolve marble dish knock demand comic holiday lady penalty half illness";
+var mnemonic = "oak cricket joke media tuition drive unfold flip impulse lazy knock stuff";

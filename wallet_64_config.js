@@ -1,1 +1,1 @@
-var mnemonic = "search practice sibling depend fault great lawsuit stove trigger aunt educate rival";
+var mnemonic = "nice mix flat festival category thunder intact tube slender comfort grab game";

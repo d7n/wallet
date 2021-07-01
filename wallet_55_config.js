@@ -1,1 +1,1 @@
-var mnemonic = "pride dad decorate topple monster actor hawk message pizza rally essence fatigue";
+var mnemonic = "dove gossip response meat because message grocery inch system disorder cart month";

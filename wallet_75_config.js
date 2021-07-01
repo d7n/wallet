@@ -1,1 +1,1 @@
-var mnemonic = "horror swamp trust bird trust cruise equip mercy unaware release then special";
+var mnemonic = "slow pyramid west pitch clock force property nose velvet extra satoshi assault";

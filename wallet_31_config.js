@@ -1,1 +1,1 @@
-var mnemonic = "rack side human surge thumb always toast hire worth wild cigar fury";
+var mnemonic = "auto wonder over sword absurd strike damp bomb divorce tortoise quality afraid";

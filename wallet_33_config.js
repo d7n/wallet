@@ -1,1 +1,1 @@
-var mnemonic = "marine attend essay cover cupboard buffalo immune fiscal trip skull dutch salad";
+var mnemonic = "mirror author drop ramp student web copper elevator swarm viable weather define";

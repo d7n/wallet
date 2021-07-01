@@ -1,1 +1,1 @@
-var mnemonic = "enjoy draft future female comfort soon giggle age major glad around drill";
+var mnemonic = "attack clown boost frequent satisfy document future leaf alarm public know siege";

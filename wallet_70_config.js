@@ -1,1 +1,1 @@
-var mnemonic = "account stable nasty will oblige winner tree morning game hurry today frog";
+var mnemonic = "pool say sadness eager solar market frost teach insane cruise spin ahead";

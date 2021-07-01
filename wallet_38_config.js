@@ -1,1 +1,1 @@
-var mnemonic = "alert hazard two multiply seed flat present garage rocket kit advice world";
+var mnemonic = "machine steak amused follow coyote air human vintage one riot gravity resource";

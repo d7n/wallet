@@ -1,1 +1,1 @@
-var mnemonic = "slide all title visual victory stock rose boy wool share empty year";
+var mnemonic = "strategy life orphan ramp leg recycle have flee universe polar original pond";
