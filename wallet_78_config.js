@@ -1,1 +1,1 @@
-var mnemonic = "bike cash wait hand cliff doll blanket medal dinner talent stand labor";
+var mnemonic = "tip theory certain thunder play can surprise page exclude engage wide worry";

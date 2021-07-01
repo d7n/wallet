@@ -1,1 +1,1 @@
-var mnemonic = "floor type snake inner include arrest math force battle deputy this retire";
+var mnemonic = "drink pulse peace right fault doctor today parade puzzle proof unit gossip";

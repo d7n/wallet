@@ -1,1 +1,1 @@
-var mnemonic = "help gift boy glove pigeon bamboo burger popular enemy regular potato license";
+var mnemonic = "verify gown claw equip caught culture dentist vault giggle choice connect deliver";

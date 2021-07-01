@@ -1,1 +1,1 @@
-var mnemonic = "nest material brief shop nut rescue rifle wonder push cover street defense";
+var mnemonic = "family price stumble glass submit adapt hunt attend estate length head chimney";

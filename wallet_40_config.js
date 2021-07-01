@@ -1,1 +1,1 @@
-var mnemonic = "cute similar slight loan smooth dentist immense rare artefact slush cross hazard";
+var mnemonic = "net salad era gentle pill before music track flag liberty shoe video";

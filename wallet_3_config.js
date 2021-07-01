@@ -1,1 +1,1 @@
-var mnemonic = "over happy nature build reflect immense bone champion raw firm empty december";
+var mnemonic = "sweet lens kick wild gun easily wire finger orange lab indicate deputy";

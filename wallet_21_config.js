@@ -1,1 +1,1 @@
-var mnemonic = "word vicious pretty tackle supreme feel grief puzzle mango credit slender quantum";
+var mnemonic = "argue relax shine direct film divorce primary what solution matrix forget number";

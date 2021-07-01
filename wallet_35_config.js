@@ -1,1 +1,1 @@
-var mnemonic = "gesture sad waste sentence glove chuckle defense dentist kick pizza raccoon vibrant";
+var mnemonic = "seed remain source hub creek bachelor cover noble library fortune grant sun";

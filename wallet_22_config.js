@@ -1,1 +1,1 @@
-var mnemonic = "dizzy original purpose bicycle duck boil machine ready increase surge two force";
+var mnemonic = "scale people abandon lend pulse wolf provide clay develop material hawk warrior";

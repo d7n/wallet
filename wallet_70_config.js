@@ -1,1 +1,1 @@
-var mnemonic = "crystal only income gallery garage parade butter there canal saddle trial swarm";
+var mnemonic = "sea trigger night earn jealous board uphold virus sadness chest torch rib";

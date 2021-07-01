@@ -1,1 +1,1 @@
-var mnemonic = "hard come unlock mean supreme garden sudden manage rail horror turtle gasp";
+var mnemonic = "urban mobile yard pupil only glad wealth trim wool strategy concert sting";

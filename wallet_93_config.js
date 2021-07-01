@@ -1,1 +1,1 @@
-var mnemonic = "spice accuse island among jeans entry journey cousin pottery pioneer metal wear";
+var mnemonic = "album history sad bundle sword rhythm inmate february trouble dilemma ghost brother";

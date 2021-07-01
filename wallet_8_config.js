@@ -1,1 +1,1 @@
-var mnemonic = "fancy erode question carpet dance pretty special defy senior narrow slice deliver";
+var mnemonic = "cream bread attitude salt canoe either pause tide cube wink pistol session";

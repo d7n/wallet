@@ -1,1 +1,1 @@
-var mnemonic = "brave tired fantasy enter bomb resist neutral agree twenty junk strategy future";
+var mnemonic = "empower another grab theory prevent lock gift problem remove program square upgrade";

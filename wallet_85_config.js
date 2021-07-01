@@ -1,1 +1,1 @@
-var mnemonic = "mass green across sick truth donate recipe turn record shy screen decade";
+var mnemonic = "palace hen legal hundred limit silk emotion save legal kit grid edge";

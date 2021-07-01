@@ -1,1 +1,1 @@
-var mnemonic = "inform body abstract rigid patch knock local train media shiver because random";
+var mnemonic = "day reject blanket worth north royal hunt basic perfect middle engine shrimp";

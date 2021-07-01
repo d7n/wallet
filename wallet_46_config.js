@@ -1,1 +1,1 @@
-var mnemonic = "shell task season submit cradle sunny able mammal once book wrap mule";
+var mnemonic = "toss habit spin reduce weekend apology bag route search enlist initial fog";

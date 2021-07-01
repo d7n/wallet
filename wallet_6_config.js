@@ -1,1 +1,1 @@
-var mnemonic = "people shuffle mirror exotic draw seed survey borrow glue unit shed recipe";
+var mnemonic = "craft dust cushion alone welcome split solid infant bounce manage pepper reflect";

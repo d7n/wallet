@@ -1,1 +1,1 @@
-var mnemonic = "judge depend spell solar they nuclear rail enjoy cinnamon ring address devote";
+var mnemonic = "feature garage salad token practice lucky bulk exist inspire veteran prosper tumble";

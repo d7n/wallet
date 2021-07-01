@@ -1,1 +1,1 @@
-var mnemonic = "ensure elephant luxury drop push stick matter leader motion emotion genius mandate";
+var mnemonic = "uniform broom mule drive evolve bachelor proof modify vapor frequent slight wrap";

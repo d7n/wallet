@@ -1,1 +1,1 @@
-var mnemonic = "brave law excess else palace taste elder deal city garage outside pottery";
+var mnemonic = "motion caught female mention poverty minimum ring foster soccer nature knife entry";

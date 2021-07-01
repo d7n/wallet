@@ -1,1 +1,1 @@
-var mnemonic = "scout destroy between magnet tray gesture east volume bulb divide weapon dawn";
+var mnemonic = "air prepare ride wagon genuine clock orient fly solid learn much project";

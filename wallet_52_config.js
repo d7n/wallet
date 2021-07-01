@@ -1,1 +1,1 @@
-var mnemonic = "salute wrestle price purchase clinic apart fat mass develop fox someone around";
+var mnemonic = "inherit boy garage donor hover ill tourist shine mansion off bleak blur";

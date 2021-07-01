@@ -1,1 +1,1 @@
-var mnemonic = "movie card obey mutual fresh exist canyon limit armor they owner member";
+var mnemonic = "menu cloth flavor know mercy wood topple leg afford divide harsh thank";

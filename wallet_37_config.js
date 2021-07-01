@@ -1,1 +1,1 @@
-var mnemonic = "vote hollow come angle beach rotate inherit area evoke dove need regret";
+var mnemonic = "involve hamster question actress series flee story finish universe unhappy sunny tide";

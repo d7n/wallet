@@ -1,1 +1,1 @@
-var mnemonic = "fit morning credit wife typical forum sniff enforce ancient seek client spider";
+var mnemonic = "elbow behind wealth grid seed skull toe town say season salon vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "economy violin cabin flight actor romance talk fat mushroom option error panther";
+var mnemonic = "remain orange green second pig regret spike project shiver shed into enjoy";

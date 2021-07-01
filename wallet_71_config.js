@@ -1,1 +1,1 @@
-var mnemonic = "charge happy maple soft goddess mix phone tonight chaos faculty often merge";
+var mnemonic = "sound year trim super impulse normal crop service discover brick february box";

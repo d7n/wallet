@@ -1,1 +1,1 @@
-var mnemonic = "apology fuel heart subway grit hurdle relax calm rain basket fresh crouch";
+var mnemonic = "error hour decorate romance assist confirm main pool rude story lonely spoil";

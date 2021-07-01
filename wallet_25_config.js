@@ -1,1 +1,1 @@
-var mnemonic = "assist engage case vocal casino drum canoe all opera call brief add";
+var mnemonic = "rapid naive online donor ritual cave language mix inflict element horn turtle";

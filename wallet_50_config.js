@@ -1,1 +1,1 @@
-var mnemonic = "combine mother steel swing sail gift drink start ordinary close juice okay";
+var mnemonic = "rack connect stumble daughter debris april super sentence chicken mystery false dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "any city legal pet purity deer address want giraffe enroll push enact";
+var mnemonic = "earn produce oak ball derive ordinary fine quality spice birth assault immense";

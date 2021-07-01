@@ -1,1 +1,1 @@
-var mnemonic = "property shadow dutch witness boil dinosaur spike human path merit assume grain";
+var mnemonic = "window sell wagon hand piano virtual boy weasel athlete grab harbor require";

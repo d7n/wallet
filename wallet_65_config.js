@@ -1,1 +1,1 @@
-var mnemonic = "tennis reward airport matrix cushion sport accuse fancy swift flame buzz betray";
+var mnemonic = "tattoo horse make copper brother welcome have vague common furnace symbol visit";

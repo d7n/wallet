@@ -1,1 +1,1 @@
-var mnemonic = "interest language nerve supreme section federal anxiety tiny flight core mirror soldier";
+var mnemonic = "skate supply pencil home mosquito obscure surprise nominee wage erode weird tray";

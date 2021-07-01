@@ -1,1 +1,1 @@
-var mnemonic = "human lunar insect silk abandon muscle whale stuff celery typical shock one";
+var mnemonic = "matter dream random next shaft april always village able art labor later";

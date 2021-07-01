@@ -1,1 +1,1 @@
-var mnemonic = "tragic actress antenna vehicle job hurry wrist south awkward grape team toward";
+var mnemonic = "entire unit talk naive cigar media uncover leave frequent mention various method";

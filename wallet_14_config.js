@@ -1,1 +1,1 @@
-var mnemonic = "holiday faith idle bone arrange wolf baby twin travel elevator coyote blind";
+var mnemonic = "opinion cry blue owner what tourist shaft exclude sadness path scan umbrella";

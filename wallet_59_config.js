@@ -1,1 +1,1 @@
-var mnemonic = "advice energy climb income pluck pony exile solution evoke sustain cost near";
+var mnemonic = "frog relax youth extend rookie pitch betray coach junior fish electric canal";

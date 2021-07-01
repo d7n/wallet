@@ -1,1 +1,1 @@
-var mnemonic = "sail lock pear scheme frame share catalog addict embrace service picnic ship";
+var mnemonic = "deliver deal stock loan ocean inside spike corn rate mass proof ancient";

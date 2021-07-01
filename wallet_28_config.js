@@ -1,1 +1,1 @@
-var mnemonic = "city track emerge cool seek yellow plate wisdom leg beauty social average";
+var mnemonic = "often announce ordinary work find sword hand admit error verb worry slight";

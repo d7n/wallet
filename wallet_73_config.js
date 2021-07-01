@@ -1,1 +1,1 @@
-var mnemonic = "expire garden pudding gas confirm trial culture journey pattern alcohol claim sudden";
+var mnemonic = "divert any fiber face soap topic curtain crime daughter flock urban during";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit all toe disease guard suit model danger prepare stereo poverty festival";
+var mnemonic = "faint aerobic target lottery roof shrimp phone miss cart paddle napkin thunder";

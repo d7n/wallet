@@ -1,1 +1,1 @@
-var mnemonic = "employ require assault digital replace practice moment stairs helmet rude interest square";
+var mnemonic = "patch comic rigid neck measure member chuckle short lizard stock toe chunk";

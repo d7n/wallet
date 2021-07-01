@@ -1,1 +1,1 @@
-var mnemonic = "ladder subject admit eye tortoise gym mouse casual monster happy globe letter";
+var mnemonic = "whale tobacco year type jacket thumb horror click pride silk involve luxury";

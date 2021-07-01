@@ -1,1 +1,1 @@
-var mnemonic = "deposit warrior little hurdle coin festival profit family produce film original thank";
+var mnemonic = "praise banana increase urban valve minimum middle neutral island mixture wonder pipe";

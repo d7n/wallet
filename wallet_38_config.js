@@ -1,1 +1,1 @@
-var mnemonic = "prepare vacant text novel dumb arm note decrease settle census stock excess";
+var mnemonic = "option problem deny plug praise eagle play panther found brain virtual purse";

@@ -1,1 +1,1 @@
-var mnemonic = "purity wash modify autumn famous evoke song photo destroy brown myself snack";
+var mnemonic = "ask evil trick patrol chest end depart field sponsor bitter thank exotic";

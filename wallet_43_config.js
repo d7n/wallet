@@ -1,1 +1,1 @@
-var mnemonic = "shiver blush stadium emotion intact paper fringe lady symbol half dog beyond";
+var mnemonic = "leader illegal mention pull submit sweet gaze patrol install despair sentence amazing";

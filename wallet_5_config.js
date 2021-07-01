@@ -1,1 +1,1 @@
-var mnemonic = "improve close smoke pelican punch happy anxiety link knee love inquiry exchange";
+var mnemonic = "cannon female fix leader knife shop avocado rhythm flash vapor equal fantasy";

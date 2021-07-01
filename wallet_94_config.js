@@ -1,1 +1,1 @@
-var mnemonic = "lab noble mind roof tribe dog ship pattern acid victory piano cabin";
+var mnemonic = "remember cargo exotic candy dizzy pottery stable front special airport upset artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "smart diamond bright kid shed road amused nasty cattle nothing reopen special";
+var mnemonic = "skull alter crazy shrimp fossil wish similar silk inside relax nerve margin";

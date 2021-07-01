@@ -1,1 +1,1 @@
-var mnemonic = "space scorpion priority tornado spider web juice insane grab raccoon arrow border";
+var mnemonic = "salute addict actor note supply violin man cradle reveal drift rose soccer";

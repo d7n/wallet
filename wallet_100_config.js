@@ -1,1 +1,1 @@
-var mnemonic = "pen unaware brisk bridge degree shock matter network globe always impulse wheat";
+var mnemonic = "obtain avoid green harsh divorce become enact shiver story walk mobile donate";

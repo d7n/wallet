@@ -1,1 +1,1 @@
-var mnemonic = "entire drive crisp material hero ticket book catalog notable cruise adult crop";
+var mnemonic = "gossip skin enrich science same album roast frozen small multiply universe pave";

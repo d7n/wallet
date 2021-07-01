@@ -1,1 +1,1 @@
-var mnemonic = "buffalo tragic this market illness baby ticket type cart pear rebel category";
+var mnemonic = "employ scout pitch erosion effort lemon use toss dad matrix vapor force";

@@ -1,1 +1,1 @@
-var mnemonic = "giant now improve share upper seek museum cabin rich burst nut blood";
+var mnemonic = "panel absorb harbor scare key umbrella blanket bracket smart burden close suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "dove scare enter cheese pet erupt inch survey crouch match hold ensure";
+var mnemonic = "mandate demand sleep across ethics feed dwarf wheel sorry habit view island";

@@ -1,1 +1,1 @@
-var mnemonic = "face silk friend demand review now bounce anchor sunset loan spray blade";
+var mnemonic = "umbrella weasel proof olympic horror foot review duck pottery jar mesh margin";

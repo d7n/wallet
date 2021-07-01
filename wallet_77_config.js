@@ -1,1 +1,1 @@
-var mnemonic = "opera car base winter champion critic table arrow major what half nerve";
+var mnemonic = "icon spatial anxiety tank electric legend festival prepare arrest tank error involve";

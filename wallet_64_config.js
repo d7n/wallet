@@ -1,1 +1,1 @@
-var mnemonic = "light lake flee acoustic security identify pyramid captain alert april sing december";
+var mnemonic = "edit mango board mass orient film number ticket upon clerk cloth month";

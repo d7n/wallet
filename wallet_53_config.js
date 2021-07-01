@@ -1,1 +1,1 @@
-var mnemonic = "snake elegant summer atom melody vivid maid novel game cup section horn";
+var mnemonic = "craft observe raven payment joy ride gain tonight coral nasty width junk";

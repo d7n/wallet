@@ -1,1 +1,1 @@
-var mnemonic = "foil theory palm pattern before until limb glory amount fitness dwarf aspect";
+var mnemonic = "donor filter ozone wine pave else today empty require pill simple net";

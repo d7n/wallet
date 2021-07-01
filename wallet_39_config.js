@@ -1,1 +1,1 @@
-var mnemonic = "dress rail practice awkward basket suffer embrace bubble frog head elder spring";
+var mnemonic = "dream matrix start collect dutch priority lumber city magic answer guitar hidden";

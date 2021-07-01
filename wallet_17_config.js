@@ -1,1 +1,1 @@
-var mnemonic = "artefact rib ordinary clown charge scare smile stairs main drink grain fortune";
+var mnemonic = "rubber toddler only enemy auto ski purpose ranch original scrap buffalo reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "provide trip lucky dilemma screen adult language parent lounge sense amazing shove";
+var mnemonic = "kidney nephew wreck deposit pact winner try miss oppose high voice pencil";

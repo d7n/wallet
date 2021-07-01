@@ -1,1 +1,1 @@
-var mnemonic = "taxi expand they trim feed swift flight tomorrow auction kid family rug";
+var mnemonic = "crane wreck slow lake rifle tone garment alone present icon uncover panther";

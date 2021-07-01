@@ -1,1 +1,1 @@
-var mnemonic = "misery cloth slot swear office ability inner machine pelican open chunk mirror";
+var mnemonic = "vocal nephew shove isolate picture result banana guard dress grape corn soap";

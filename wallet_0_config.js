@@ -1,1 +1,1 @@
-var mnemonic = "news floor person surround advance cousin rule silk job drama chest aspect";
+var mnemonic = "release mom develop clutch please entry circle garage razor kind end industry";

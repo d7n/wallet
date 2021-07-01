@@ -1,1 +1,1 @@
-var mnemonic = "child park dune always grape hobby motion broom belt lab strike section";
+var mnemonic = "just erosion method arena claw celery risk trust fiscal assault expect guide";

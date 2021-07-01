@@ -1,1 +1,1 @@
-var mnemonic = "frog once debris harsh general hungry repair grape local business ethics hybrid";
+var mnemonic = "flat anxiety ribbon monster unlock name episode answer wheel metal oyster above";

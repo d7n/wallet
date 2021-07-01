@@ -1,1 +1,1 @@
-var mnemonic = "tone hill abuse witness involve entry weird visa talent owner aware current";
+var mnemonic = "enlist skull view mule visit siren pupil flower girl asthma card attitude";

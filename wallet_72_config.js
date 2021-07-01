@@ -1,1 +1,1 @@
-var mnemonic = "duck impose left federal brand denial wear gospel comfort actual grunt canyon";
+var mnemonic = "render bitter logic flee burden choice purse letter candy equip crucial elevator";

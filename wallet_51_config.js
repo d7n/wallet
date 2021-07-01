@@ -1,1 +1,1 @@
-var mnemonic = "penalty input three tilt this demise spy enemy thumb caught enemy talk";
+var mnemonic = "chalk jelly catch unveil harsh degree cloud distance buyer vendor stomach south";

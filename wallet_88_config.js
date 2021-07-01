@@ -1,1 +1,1 @@
-var mnemonic = "field despair elegant grape average idle label rare fortune match message tell";
+var mnemonic = "leisure hold sight undo label odor stock cinnamon wise problem yellow deal";

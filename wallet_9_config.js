@@ -1,1 +1,1 @@
-var mnemonic = "remain shop solar rotate mercy require jewel account palm around riot garage";
+var mnemonic = "armed naive wire label hurry vault super reform battle anger coral legend";

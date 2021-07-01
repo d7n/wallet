@@ -1,1 +1,1 @@
-var mnemonic = "tonight rapid sight orphan profit else test pass shiver gravity dinosaur topic";
+var mnemonic = "crystal sausage brother rely critic dilemma hurdle love join hard miss rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist left chef entire nuclear wine what mask coin earth copper absorb";
+var mnemonic = "black cabbage badge become mistake topple dumb frost address logic sister sand";

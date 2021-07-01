@@ -1,1 +1,1 @@
-var mnemonic = "trim argue oyster weird educate velvet fringe cattle evidence ankle shed unusual";
+var mnemonic = "resemble hunt bridge loan another monster puppy daring chase under orient source";

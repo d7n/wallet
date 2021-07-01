@@ -1,1 +1,1 @@
-var mnemonic = "language client mesh brave cry crash section crew summer image cruise walnut";
+var mnemonic = "sport project tornado crop enrich blossom dismiss weather ritual juice gain civil";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit differ spare faith budget raise amount then swing label crime cereal";
+var mnemonic = "finish dog comic rescue catalog chaos claw april bullet phone roof fiction";

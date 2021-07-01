@@ -1,1 +1,1 @@
-var mnemonic = "expire improve day mass color rubber approve harsh lounge bleak myself clown";
+var mnemonic = "result blanket transfer clarify abuse foot mouse august force rule marine derive";

@@ -1,1 +1,1 @@
-var mnemonic = "help correct volcano hand aunt turn magic crazy worry cash section idle";
+var mnemonic = "loyal clay awful twelve angle begin math organ saddle spread spare silent";

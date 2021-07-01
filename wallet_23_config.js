@@ -1,1 +1,1 @@
-var mnemonic = "adjust sick artefact crystal steak salad move off clown juice grass fragile";
+var mnemonic = "inner fold burst purchase wedding mix crater execute tape profit cannon alone";

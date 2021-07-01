@@ -1,1 +1,1 @@
-var mnemonic = "artefact immune insane moon people door myth sketch fence cannon same prison";
+var mnemonic = "behind primary opera antique moment slow best bundle sniff dizzy tunnel virus";

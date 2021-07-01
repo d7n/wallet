@@ -1,1 +1,1 @@
-var mnemonic = "market circle advice connect exist hockey ugly casual gentle tiny between elegant";
+var mnemonic = "trip spell wool turn soap disagree current matter expect rate knife warrior";

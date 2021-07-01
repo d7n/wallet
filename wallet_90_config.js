@@ -1,1 +1,1 @@
-var mnemonic = "soon common begin piano idea keep cattle loop response tide card wet";
+var mnemonic = "grab portion benefit course exchange humor thing arrest chronic flush narrow kit";

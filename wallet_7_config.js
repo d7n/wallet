@@ -1,1 +1,1 @@
-var mnemonic = "side away sting remain educate surround unique math uniform setup bridge wrist";
+var mnemonic = "reopen maximum ignore manage tattoo drama chat dismiss chase ticket vault round";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile example moon grant august era page leave resist wash hand mistake";
+var mnemonic = "nuclear solve magic bundle deer autumn plastic okay leg dish honey edit";

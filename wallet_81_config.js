@@ -1,1 +1,1 @@
-var mnemonic = "famous pattern vibrant green churn swap usage pattern situate false emotion atom";
+var mnemonic = "smooth regret elephant vocal tuna siege river donate fuel cannon almost fatigue";

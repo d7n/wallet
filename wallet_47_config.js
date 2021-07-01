@@ -1,1 +1,1 @@
-var mnemonic = "enter bar addict fluid until laugh glide close since pluck notable attitude";
+var mnemonic = "village door bunker bread live debris uniform tank traffic keep discover explain";

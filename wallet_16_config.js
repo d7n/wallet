@@ -1,1 +1,1 @@
-var mnemonic = "vivid bind gesture wife kingdom chuckle daughter tunnel into detect insect bitter";
+var mnemonic = "load rifle dismiss random match hazard kitchen mushroom top reduce issue base";

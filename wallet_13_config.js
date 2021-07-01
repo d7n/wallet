@@ -1,1 +1,1 @@
-var mnemonic = "crystal return milk panda capable join upon service divert struggle double amused";
+var mnemonic = "wing donor best box reflect whip scorpion torch save reopen dilemma upon";
