@@ -1,1 +1,1 @@
-var mnemonic = "pyramid frown figure album lawsuit essay doll agent school anxiety kind organ";
+var mnemonic = "inside return rather piano state sorry monster diamond decide rain snap rather";

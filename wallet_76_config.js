@@ -1,1 +1,1 @@
-var mnemonic = "load voyage evidence physical ghost execute nut jewel usage flat history great";
+var mnemonic = "orient unable crack slam maid whisper cigar sugar breeze frequent demise job";

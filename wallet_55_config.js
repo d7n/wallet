@@ -1,1 +1,1 @@
-var mnemonic = "hire nasty cigar dolphin apart genuine one gate black fan turtle spider";
+var mnemonic = "dash short either organ family patient math luxury brain wreck sniff popular";

@@ -1,1 +1,1 @@
-var mnemonic = "van liar share plunge awkward moment strong brief dolphin sock sketch relax";
+var mnemonic = "trick affair divorce opera key imitate couple enact awesome infant gaze dinner";

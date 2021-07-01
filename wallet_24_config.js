@@ -1,1 +1,1 @@
-var mnemonic = "forget decade file explain crush memory piece dune mutual leg organ pulp";
+var mnemonic = "never heart trust raw sentence law anxiety chest utility measure strong travel";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory oven practice real punch tortoise evoke tail imitate crush alter couch";
+var mnemonic = "lava avoid hill return filter know discover stumble awesome outdoor idle private";

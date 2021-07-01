@@ -1,1 +1,1 @@
-var mnemonic = "abandon grant milk gallery glad stone flat bridge someone edit curve scare";
+var mnemonic = "iron bachelor check auction wife equip process then vessel rice few worth";

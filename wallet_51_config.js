@@ -1,1 +1,1 @@
-var mnemonic = "despair portion rack van merit bomb fat shallow prevent exist assume echo";
+var mnemonic = "senior perfect cash large proof polar strike toward tomato vessel fault possible";

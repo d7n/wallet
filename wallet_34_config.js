@@ -1,1 +1,1 @@
-var mnemonic = "own noise hold abuse humble news avoid come what swap resist gun";
+var mnemonic = "asthma escape cost illness kind black silk month bundle cram opinion art";

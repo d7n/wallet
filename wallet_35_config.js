@@ -1,1 +1,1 @@
-var mnemonic = "offer smart outdoor someone trash toast region coral leg rhythm impact secret";
+var mnemonic = "taxi balance addict silk weird kite inmate fork thumb remove inquiry slogan";

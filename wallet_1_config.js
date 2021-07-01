@@ -1,1 +1,1 @@
-var mnemonic = "adjust lady buzz shoot someone cabbage access satoshi still enemy about fade";
+var mnemonic = "orange argue kangaroo give track ski away author shed unfold leader vivid";

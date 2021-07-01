@@ -1,1 +1,1 @@
-var mnemonic = "ahead fit initial shuffle parade tuna elite connect asthma choose stuff resist";
+var mnemonic = "second nation vivid erupt mansion include snap day fatigue where chicken twelve";

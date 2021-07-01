@@ -1,1 +1,1 @@
-var mnemonic = "valley combine novel fence fury warfare mix venue domain elegant unveil assault";
+var mnemonic = "barely ostrich flavor few grant extend old wear cliff erode fashion flee";

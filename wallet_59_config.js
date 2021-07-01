@@ -1,1 +1,1 @@
-var mnemonic = "visa captain post industry diagram destroy food staff possible pilot ride wedding";
+var mnemonic = "humor common grief green involve lady bottom wheel mistake sad corn manage";

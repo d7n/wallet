@@ -1,1 +1,1 @@
-var mnemonic = "fish evil salt fish spread safe friend hurdle include amateur episode food";
+var mnemonic = "rubber draw ocean sheriff decline roof between affair coil pink recycle pistol";

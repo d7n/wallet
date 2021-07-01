@@ -1,1 +1,1 @@
-var mnemonic = "distance adapt attend pole property gesture sauce reward pepper quote senior color";
+var mnemonic = "stable wave stage spread snack bronze approve cricket grant client unlock shiver";

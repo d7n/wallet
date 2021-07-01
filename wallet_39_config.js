@@ -1,1 +1,1 @@
-var mnemonic = "artefact nation pool organ sun follow double permit sleep bridge acquire truck";
+var mnemonic = "keen machine diagram pulp group misery antenna predict hip room tattoo ten";

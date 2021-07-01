@@ -1,1 +1,1 @@
-var mnemonic = "blind kind indicate brass monkey nose cement select must victory sea ski";
+var mnemonic = "final museum busy tent mansion opera child anxiety muscle thumb drift sport";

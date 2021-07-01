@@ -1,1 +1,1 @@
-var mnemonic = "collect series logic travel label bread carry cash when uniform keen couch";
+var mnemonic = "sure file impose cactus race link phrase lend lemon raw credit thing";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom assault tumble canyon ready execute fold medal system wink envelope voice";
+var mnemonic = "hybrid entry extend again bacon smoke begin turtle scene regret trumpet page";

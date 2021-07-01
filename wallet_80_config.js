@@ -1,1 +1,1 @@
-var mnemonic = "visit control spot round ship ahead grow camera funny bag cat fame";
+var mnemonic = "warrior describe song spin deal sketch solid notice royal crawl sword wolf";

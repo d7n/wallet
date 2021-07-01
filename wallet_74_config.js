@@ -1,1 +1,1 @@
-var mnemonic = "drum spirit hollow test daring thought reopen history bomb icon net horror";
+var mnemonic = "fix blind diesel help helmet exile author ritual question enlist nature error";

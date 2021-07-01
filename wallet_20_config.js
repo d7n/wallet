@@ -1,1 +1,1 @@
-var mnemonic = "endorse person wife excess color charge chuckle easily palace lion odor jacket";
+var mnemonic = "cinnamon comfort scale diesel angry sting ketchup fever deal ridge grocery loop";

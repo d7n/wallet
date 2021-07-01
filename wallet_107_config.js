@@ -1,1 +1,1 @@
-var mnemonic = "letter burger tool type food used sign bar cool donor already govern";
+var mnemonic = "welcome rebel divide gadget include advance buffalo rival museum estate heavy tornado";

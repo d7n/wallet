@@ -1,1 +1,1 @@
-var mnemonic = "know gain copper explain perfect square mosquito carbon zoo floor world sausage";
+var mnemonic = "fruit firm wood fresh try trigger enhance divorce access verb infant reason";

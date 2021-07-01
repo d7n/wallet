@@ -1,1 +1,1 @@
-var mnemonic = "milk beauty slide unaware valve model rate awesome arm like include crawl";
+var mnemonic = "arrive tonight rebel predict destroy above stand toddler cause ecology clay swamp";

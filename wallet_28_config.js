@@ -1,1 +1,1 @@
-var mnemonic = "bleak later turkey web nose coil apology soap ecology island size remind";
+var mnemonic = "inner book nothing tower little nation dentist grace crane year early enrich";

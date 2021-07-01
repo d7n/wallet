@@ -1,1 +1,1 @@
-var mnemonic = "slab pottery canvas rain wonder shoot reflect fault apart glance measure camp";
+var mnemonic = "range soccer ship grass cook general drift great online shoe rescue shoe";

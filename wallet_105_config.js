@@ -1,1 +1,1 @@
-var mnemonic = "wish royal riot process drink document flee punch inflict typical dumb few";
+var mnemonic = "buddy scrap bike crunch dismiss you depend volume decorate lecture weasel order";

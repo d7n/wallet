@@ -1,1 +1,1 @@
-var mnemonic = "autumn ritual resemble orange involve middle present gossip era cannon resource isolate";
+var mnemonic = "edge traffic cement debate air rude arm range eye error often device";

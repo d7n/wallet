@@ -1,1 +1,1 @@
-var mnemonic = "prosper safe green abandon mixed meadow absurd gold protect custom echo cotton";
+var mnemonic = "either motor ill attract staff carry stable mom task defense pair hundred";

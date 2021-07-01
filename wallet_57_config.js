@@ -1,1 +1,1 @@
-var mnemonic = "keen girl chicken gasp salon maximum advance reflect undo market lucky million";
+var mnemonic = "garbage hedgehog earn broom riot pencil transfer hand pill helmet joy orbit";

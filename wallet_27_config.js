@@ -1,1 +1,1 @@
-var mnemonic = "awake weekend plate ticket priority boy siege found gallery spoon token food";
+var mnemonic = "draft what state caught announce remain lumber clock pelican apple jewel coast";

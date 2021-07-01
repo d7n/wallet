@@ -1,1 +1,1 @@
-var mnemonic = "path today hurry sell renew penalty mean loyal lake this air pumpkin";
+var mnemonic = "antenna manage fun want ecology strong drip give tobacco aunt primary gate";

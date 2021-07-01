@@ -1,1 +1,1 @@
-var mnemonic = "staff avocado horse doctor problem angle ghost sunset athlete pledge addict public";
+var mnemonic = "pen meadow artwork machine alarm bean february error rescue fringe seek once";

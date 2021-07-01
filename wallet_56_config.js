@@ -1,1 +1,1 @@
-var mnemonic = "giggle still occur nut cotton area assault shaft truth supply alarm board";
+var mnemonic = "depend library leopard custom dry worry race fade pass spot tumble west";

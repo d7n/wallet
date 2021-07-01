@@ -1,1 +1,1 @@
-var mnemonic = "shoot mandate want patient repair metal dry dinosaur kit arrange asthma black";
+var mnemonic = "fix grow lunar usage deal claim clutch unaware discover grocery lottery abandon";

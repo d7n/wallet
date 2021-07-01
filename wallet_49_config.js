@@ -1,1 +1,1 @@
-var mnemonic = "clever hub work already fold illness must stairs eager correct club rival";
+var mnemonic = "breeze blood dish captain smile olive direct noise clutch remember fade model";

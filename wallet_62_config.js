@@ -1,1 +1,1 @@
-var mnemonic = "annual task iron liquid mistake drip become curious spawn divide sell blouse";
+var mnemonic = "glue foil into lake chair tip pass teach business wisdom able south";

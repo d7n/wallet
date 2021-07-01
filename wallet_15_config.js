@@ -1,1 +1,1 @@
-var mnemonic = "degree major kick certain strategy boost knife armor game swap fabric awkward";
+var mnemonic = "indicate soup champion miracle drive silent siren actual night festival derive style";

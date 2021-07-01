@@ -1,1 +1,1 @@
-var mnemonic = "silly found heart often hurdle host update message scale enforce reunion exclude";
+var mnemonic = "expand bone mirror popular slush nurse dizzy office volume chaos peace noise";

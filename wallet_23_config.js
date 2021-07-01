@@ -1,1 +1,1 @@
-var mnemonic = "tail equal reason silver piano shed seminar plunge crouch raw fee rack";
+var mnemonic = "neglect giant tribe eager detail sponsor vote stereo gadget able few sound";

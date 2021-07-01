@@ -1,1 +1,1 @@
-var mnemonic = "blossom drive disease unit modify always cart kidney hub fever rally rural";
+var mnemonic = "vibrant valve oak resource ride famous lounge emotion glance people celery reflect";

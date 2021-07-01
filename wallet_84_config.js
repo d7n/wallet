@@ -1,1 +1,1 @@
-var mnemonic = "sick various robot one innocent novel unique pair outside token among atom";
+var mnemonic = "side torch occur two cargo lazy wish large giant genre dune polar";

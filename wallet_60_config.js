@@ -1,1 +1,1 @@
-var mnemonic = "drum laugh room biology ship snake ranch sorry fire unhappy skull delay";
+var mnemonic = "crime mention segment twin hazard bubble celery brisk mutual awake invest lawsuit";

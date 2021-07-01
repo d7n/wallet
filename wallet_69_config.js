@@ -1,1 +1,1 @@
-var mnemonic = "ahead master fruit entry drum lunch solid height minimum segment creek van";
+var mnemonic = "flush satoshi discover orient garage arctic fuel artwork trap still stick six";

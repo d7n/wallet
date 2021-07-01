@@ -1,1 +1,1 @@
-var mnemonic = "upset energy bundle company mobile protect want stomach enforce project outdoor travel";
+var mnemonic = "lecture sorry scout organ cradle crowd despair vehicle stable accuse funny win";

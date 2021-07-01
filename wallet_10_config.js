@@ -1,1 +1,1 @@
-var mnemonic = "inherit health return mutual vibrant pact subway exchange invite excuse problem great";
+var mnemonic = "frost medal journey cattle parrot train grace muscle maple typical night future";

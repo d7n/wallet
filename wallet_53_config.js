@@ -1,1 +1,1 @@
-var mnemonic = "fantasy reject mobile butter fiscal firm pair advice path trip direct have";
+var mnemonic = "bag arrest layer sail elephant comfort total primary monster hundred much fossil";

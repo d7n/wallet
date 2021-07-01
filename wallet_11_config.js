@@ -1,1 +1,1 @@
-var mnemonic = "taste arrow pattern secret early copy engine shoot picnic super error usual";
+var mnemonic = "above absent fee display anchor famous alley midnight arrive interest vast produce";

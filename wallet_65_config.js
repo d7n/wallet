@@ -1,1 +1,1 @@
-var mnemonic = "unknown voyage review whale ride defense stadium ridge few portion sibling impulse";
+var mnemonic = "section frozen citizen breeze mixture path cool guilt dinosaur device fork spin";

@@ -1,1 +1,1 @@
-var mnemonic = "senior unique slight stomach monkey sudden top once gift sketch kiss draw";
+var mnemonic = "roast exotic brave carpet dignity assume apple boat today obey remove celery";

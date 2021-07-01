@@ -1,1 +1,1 @@
-var mnemonic = "daughter observe stable select obvious snow alarm there index boss whale believe";
+var mnemonic = "dizzy decorate fat siren present demand join fan athlete pistol empower prison";

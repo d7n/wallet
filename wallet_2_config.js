@@ -1,1 +1,1 @@
-var mnemonic = "symbol cargo tiger heavy budget jazz income huge topple nominee steel hazard";
+var mnemonic = "talk toe tunnel differ cash cash wrist rain helmet toast cloud during";

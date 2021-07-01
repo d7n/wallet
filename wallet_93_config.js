@@ -1,1 +1,1 @@
-var mnemonic = "reform search taste thrive copper edit unable same accident coffee mushroom ladder";
+var mnemonic = "wrap innocent manage alarm minute light imitate grape invite eagle inform army";

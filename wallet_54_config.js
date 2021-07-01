@@ -1,1 +1,1 @@
-var mnemonic = "help refuse victory little place blouse unfold arrange measure code rack bubble";
+var mnemonic = "hair hundred clerk orphan frame vanish cube critic benefit glare page abuse";

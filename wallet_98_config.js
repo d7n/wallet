@@ -1,1 +1,1 @@
-var mnemonic = "wash bid noise mammal path concert couple wreck act patrol media current";
+var mnemonic = "grit person naive nominee palm hard ahead arrest gun tornado fold intact";

@@ -1,1 +1,1 @@
-var mnemonic = "slow swear kidney panel oil learn flush valley response predict bleak vital";
+var mnemonic = "valid own garment distance wine supreme timber midnight please until champion auction";

@@ -1,1 +1,1 @@
-var mnemonic = "logic tide popular shop slab auto fly fold room pear region syrup";
+var mnemonic = "renew way nose library advance deer scene region jeans over impulse twice";

@@ -1,1 +1,1 @@
-var mnemonic = "school melt disease later buffalo capable jaguar stone carry demand weird sound";
+var mnemonic = "patrol fee able hire advice busy trial south aware clay remove favorite";

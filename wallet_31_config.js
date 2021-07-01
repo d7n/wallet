@@ -1,1 +1,1 @@
-var mnemonic = "helmet replace tired olive electric wool tone have chest cattle elbow legend";
+var mnemonic = "venue maximum weird super include gossip scissors keen core exhibit swift west";

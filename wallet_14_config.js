@@ -1,1 +1,1 @@
-var mnemonic = "execute struggle tragic crowd crucial hard oven silent series pumpkin charge sugar";
+var mnemonic = "rude bicycle cannon jazz over know what impulse sting churn adapt thunder";

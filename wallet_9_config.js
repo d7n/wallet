@@ -1,1 +1,1 @@
-var mnemonic = "cloud suggest pen original oven seat wash bamboo achieve pottery arm oven";
+var mnemonic = "climb split amateur certain galaxy absurd muscle brick gentle spread version faint";

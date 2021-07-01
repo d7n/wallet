@@ -1,1 +1,1 @@
-var mnemonic = "define december weapon warm garment slam february crawl drill rare bread news";
+var mnemonic = "grid fancy orange flat ginger length kangaroo draft unhappy industry moment under";

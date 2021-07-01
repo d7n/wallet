@@ -1,1 +1,1 @@
-var mnemonic = "welcome snake chunk conduct enough film budget call curious yard just city";
+var mnemonic = "hope front claw laundry cannon goddess squirrel bean dish juice behind gasp";

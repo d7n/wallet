@@ -1,1 +1,1 @@
-var mnemonic = "vote earth garbage sauce drip fabric damp hurdle grid exit vapor speak";
+var mnemonic = "seat family polar ribbon custom menu blur wash breeze middle viable veteran";

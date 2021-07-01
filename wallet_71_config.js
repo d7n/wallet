@@ -1,1 +1,1 @@
-var mnemonic = "claim remember melt sign option popular kind issue caught setup february usual";
+var mnemonic = "vivid resist club biology fall episode olive orphan power spray ignore swarm";

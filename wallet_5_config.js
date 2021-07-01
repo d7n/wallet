@@ -1,1 +1,1 @@
-var mnemonic = "tip casual twelve brand slogan where rice master boat will liar nurse";
+var mnemonic = "anger struggle dizzy talent jazz leaf dilemma occur again unique rib rebuild";

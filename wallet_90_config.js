@@ -1,1 +1,1 @@
-var mnemonic = "orchard box raw naive erosion gossip add hungry travel student soap cute";
+var mnemonic = "camp elevator cousin champion path upset lion abandon spray pencil fan answer";

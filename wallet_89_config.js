@@ -1,1 +1,1 @@
-var mnemonic = "oyster chat bar jaguar jewel change angle spoon reduce fragile current repeat";
+var mnemonic = "pencil another couch desk shell cruise dash dance garage poet toe material";

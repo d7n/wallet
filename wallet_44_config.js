@@ -1,1 +1,1 @@
-var mnemonic = "tool infant ugly frame verify daring undo color loop decide bomb mad";
+var mnemonic = "slender typical castle cushion rather circle moral fit tail advice month carbon";

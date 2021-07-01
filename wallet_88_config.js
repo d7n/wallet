@@ -1,1 +1,1 @@
-var mnemonic = "around century mouse short control magic awful state wrong bundle maple edit";
+var mnemonic = "annual fiber journey extra twist rough group piece scout scrap destroy dwarf";

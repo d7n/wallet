@@ -1,1 +1,1 @@
-var mnemonic = "travel swear naive session life model color total adjust cheese raven science";
+var mnemonic = "detect veteran thrive danger remove canoe gown floor behind cart twenty vault";

@@ -1,1 +1,1 @@
-var mnemonic = "three drip violin glove blush door age rifle local cannon radio there";
+var mnemonic = "front divorce drive tackle rebuild whip fun funny toddler special satoshi original";

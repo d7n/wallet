@@ -1,1 +1,1 @@
-var mnemonic = "north flavor forget habit trophy way spoon claw hammer frog scene staff";
+var mnemonic = "game image income hospital glimpse pass mushroom accuse invest gym club forum";

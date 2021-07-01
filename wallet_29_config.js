@@ -1,1 +1,1 @@
-var mnemonic = "cruise scissors keen ceiling view busy divert pretty anchor embark twice mansion";
+var mnemonic = "stable humble myself renew eyebrow library often science turkey quick tobacco rough";

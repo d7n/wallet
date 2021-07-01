@@ -1,1 +1,1 @@
-var mnemonic = "champion metal weather cherry life main surge portion scrub century nasty praise";
+var mnemonic = "ticket fox intact display frown purchase ankle differ neck demise much unveil";

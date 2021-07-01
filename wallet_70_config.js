@@ -1,1 +1,1 @@
-var mnemonic = "thought start vanish pulse what glide slam want deputy shuffle spawn rather";
+var mnemonic = "eight chronic virtual kangaroo middle consider sweet popular license quote injury coyote";

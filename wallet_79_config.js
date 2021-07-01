@@ -1,1 +1,1 @@
-var mnemonic = "park educate human march video later harvest large brave matter solve illness";
+var mnemonic = "finger source donate slush west crucial river road vital exchange ecology large";

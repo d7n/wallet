@@ -1,1 +1,1 @@
-var mnemonic = "peace neck major syrup impulse stem initial drop ensure crew digital error";
+var mnemonic = "stereo trophy pole slow finish wreck invest term mirror student that only";

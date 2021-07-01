@@ -1,1 +1,1 @@
-var mnemonic = "motor goose buzz raise siren question jelly slam access rapid payment render";
+var mnemonic = "joke sniff robot icon clever orchard security age artist deal six physical";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant much antique damage rug project differ inch neck pipe manual mother";
+var mnemonic = "useful confirm sad coil damp admit tilt three club naive surround either";

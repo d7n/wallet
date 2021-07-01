@@ -1,1 +1,1 @@
-var mnemonic = "rather model essence inmate high frown love cool damp spoon bleak pole";
+var mnemonic = "casual imitate category rose middle comic grape chicken track blood require black";

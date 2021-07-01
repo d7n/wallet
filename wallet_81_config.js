@@ -1,1 +1,1 @@
-var mnemonic = "tumble meadow horn good champion guess skill poet leopard level garbage hurt";
+var mnemonic = "umbrella chalk finger face nature inside woman fresh program buddy knee ethics";

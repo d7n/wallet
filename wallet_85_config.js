@@ -1,1 +1,1 @@
-var mnemonic = "word ritual modify dial drama fluid trouble cinnamon six bird primary neutral";
+var mnemonic = "index start mystery miss frame happy noble modify correct step happy nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid neutral dream canyon around sunset witness risk fence maze garlic slide";
+var mnemonic = "danger true will enemy bronze beauty crystal melody labor oven blossom else";

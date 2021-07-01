@@ -1,1 +1,1 @@
-var mnemonic = "choice mom situate kangaroo diagram olive relief anxiety piece kick ceiling month";
+var mnemonic = "height super trend horn spend nut mobile vivid once seed light busy";

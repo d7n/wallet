@@ -1,1 +1,1 @@
-var mnemonic = "blush april buffalo torch thrive shiver tuna copy correct mention frog turtle";
+var mnemonic = "wire rich flock clinic grape wall orange junk that embark next blade";

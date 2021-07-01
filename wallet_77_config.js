@@ -1,1 +1,1 @@
-var mnemonic = "lobster daring hole hello control fashion raise alarm another enter raccoon audit";
+var mnemonic = "wise wagon script silent time federal ritual table broccoli sense board document";

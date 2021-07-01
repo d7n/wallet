@@ -1,1 +1,1 @@
-var mnemonic = "wear thrive vendor brief marriage own music segment honey bundle coral build";
+var mnemonic = "tumble grass age gentle toddler ladder convince fault pair denial admit among";
