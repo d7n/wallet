@@ -1,1 +1,1 @@
-var mnemonic = "deal trap symptom sibling start chest pelican rain program final attend other";
+var mnemonic = "syrup vendor animal ancient cage gravity assault fuel letter subway advice cheese";

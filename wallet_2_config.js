@@ -1,1 +1,1 @@
-var mnemonic = "veteran provide window weird betray zero census give betray leader youth moment";
+var mnemonic = "teach carpet fossil skull gesture crystal pulse despair joke digital cheese fresh";

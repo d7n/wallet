@@ -1,1 +1,1 @@
-var mnemonic = "erase dignity vintage purse era power limit patient employ flush lazy dinosaur";
+var mnemonic = "rebuild uniform impact smile mechanic govern sheriff metal drill again casino divide";

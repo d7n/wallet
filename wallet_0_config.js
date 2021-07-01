@@ -1,1 +1,1 @@
-var mnemonic = "armor roast knife ensure digital helmet mention orchard gentle fly vital position";
+var mnemonic = "scan phone miss leaf second master timber flight timber frequent clerk then";

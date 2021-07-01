@@ -1,1 +1,1 @@
-var mnemonic = "mango donor inmate coin clown game someone arrive climb deposit grocery material";
+var mnemonic = "tilt once horse robot simple tube tortoise lunch please length van track";

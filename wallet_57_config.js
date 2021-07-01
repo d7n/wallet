@@ -1,1 +1,1 @@
-var mnemonic = "lake bright ensure inmate grab divide trouble farm join illegal toilet avocado";
+var mnemonic = "minimum jewel song defy flash wish there rail stomach knock ask solar";

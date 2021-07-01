@@ -1,1 +1,1 @@
-var mnemonic = "pelican elephant until hello small sister hope armor pigeon blood merit axis";
+var mnemonic = "saddle charge link energy click cannon unusual judge invite aware judge sing";

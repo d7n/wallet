@@ -1,1 +1,1 @@
-var mnemonic = "script steel brass royal vicious fence equal issue increase flavor eternal duck";
+var mnemonic = "census above bag news hard artwork knee novel photo priority vault gaze";

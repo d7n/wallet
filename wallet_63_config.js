@@ -1,1 +1,1 @@
-var mnemonic = "cricket ride push cook verb gate minimum ghost swap deny dwarf horror";
+var mnemonic = "gravity civil filter alcohol smile that welcome desk purchase better fun nurse";

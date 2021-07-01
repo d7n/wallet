@@ -1,1 +1,1 @@
-var mnemonic = "panda risk height jacket ostrich master service gadget find print antique victory";
+var mnemonic = "just coconut shrug lens timber fine enjoy planet green iron another bag";

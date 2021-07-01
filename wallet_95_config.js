@@ -1,1 +1,1 @@
-var mnemonic = "lab census hard pottery crucial eager cage priority aerobic deputy random use";
+var mnemonic = "want expire excuse labor hard aunt option strike vicious wisdom cheese leader";

@@ -1,1 +1,1 @@
-var mnemonic = "egg orchard wrong bacon giraffe cherry atom copy news version move dentist";
+var mnemonic = "afraid memory life recall dirt fortune coin system damage enact turkey heart";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd funny scale board cattle size series west first raw round guitar";
+var mnemonic = "base roof account suggest million olive ensure song jaguar neutral spoil cost";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum amateur sword wheat vacuum forget profit script album confirm outside learn";
+var mnemonic = "tortoise october ecology never essay brain ski mirror system ring obscure assault";

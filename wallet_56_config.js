@@ -1,1 +1,1 @@
-var mnemonic = "zone autumn scout brain crime hat switch host turkey glare sugar same";
+var mnemonic = "error salmon sport define tilt expire cable ribbon battle party demand belt";

@@ -1,1 +1,1 @@
-var mnemonic = "escape thank word ask carbon habit left annual exotic absorb faculty south";
+var mnemonic = "wrap answer budget lawsuit avocado exhaust demand tortoise trick hamster spatial ritual";

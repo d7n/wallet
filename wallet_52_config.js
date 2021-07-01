@@ -1,1 +1,1 @@
-var mnemonic = "dash sunny equip whale emerge pottery lift monster market palace garlic vapor";
+var mnemonic = "faint trap tuna shrimp air accident reform day devote verb stand comfort";

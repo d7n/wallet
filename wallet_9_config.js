@@ -1,1 +1,1 @@
-var mnemonic = "wife frame camera way treat voice wool basket child tortoise edit moment";
+var mnemonic = "tunnel nut love twenty renew belt vault direct salute scrub work hurdle";

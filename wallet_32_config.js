@@ -1,1 +1,1 @@
-var mnemonic = "sunset gather hen head citizen antique prosper skill project limit silly hedgehog";
+var mnemonic = "dice siren above orange victory coil size flame wasp antenna second wrestle";

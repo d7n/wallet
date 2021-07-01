@@ -1,1 +1,1 @@
-var mnemonic = "guitar mystery mule renew teach mother chunk absurd behave erupt journey clean";
+var mnemonic = "tip fury liar purchase endorse pencil fragile run kitten title warm hip";

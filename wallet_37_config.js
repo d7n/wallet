@@ -1,1 +1,1 @@
-var mnemonic = "priority require nature much use twice street process apology adult suit desk";
+var mnemonic = "machine lecture depend vague fix there tag parade detail always carbon sketch";

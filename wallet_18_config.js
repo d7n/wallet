@@ -1,1 +1,1 @@
-var mnemonic = "obey drastic excite onion case lumber stomach govern ranch gentle betray cry";
+var mnemonic = "tide ceiling brown valley point tank wood title oval fragile sketch plastic";

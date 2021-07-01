@@ -1,1 +1,1 @@
-var mnemonic = "hope wonder love cram force oven wide airport awkward thunder price finish";
+var mnemonic = "flame staff squeeze meadow echo soccer reveal error street dizzy awkward mouse";

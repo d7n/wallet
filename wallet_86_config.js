@@ -1,1 +1,1 @@
-var mnemonic = "demand bridge cycle exist weird arm half together electric track alone city";
+var mnemonic = "type knife surprise embody found parent dog gadget quantum able impose curve";

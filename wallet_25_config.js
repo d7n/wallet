@@ -1,1 +1,1 @@
-var mnemonic = "wreck glove myth choice lens number spoon improve chase clump office misery";
+var mnemonic = "first output river pepper picture install patch talent until topple claim chimney";

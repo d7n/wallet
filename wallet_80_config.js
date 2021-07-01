@@ -1,1 +1,1 @@
-var mnemonic = "pool stairs helmet later alter lobster inject parent glow noodle still response";
+var mnemonic = "high catch own catalog blush exact almost middle lobster rebel physical hour";

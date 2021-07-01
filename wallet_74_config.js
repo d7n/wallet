@@ -1,1 +1,1 @@
-var mnemonic = "title unfold fragile mushroom hip scrub intact exchange planet uncover elegant cement";
+var mnemonic = "happy flag stereo beef seminar amount quality alarm excuse club hybrid auto";

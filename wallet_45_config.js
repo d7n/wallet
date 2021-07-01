@@ -1,1 +1,1 @@
-var mnemonic = "surprise sail team cream solve six elder abstract obscure shaft husband rose";
+var mnemonic = "appear change trade focus end render afford chef shield humor style alter";

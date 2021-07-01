@@ -1,1 +1,1 @@
-var mnemonic = "sausage caught phone biology victory buffalo fold echo uncover rotate end delay";
+var mnemonic = "harbor volume click engage cushion reunion assault crazy dice pelican soccer soap";

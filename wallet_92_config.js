@@ -1,1 +1,1 @@
-var mnemonic = "someone arena detect road repeat divorce kiwi response there patient diamond mansion";
+var mnemonic = "warrior foot lift taste senior romance city surge payment already exit blade";

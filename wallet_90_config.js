@@ -1,1 +1,1 @@
-var mnemonic = "sight grief canvas swear skill guilt core friend chest suspect tide long";
+var mnemonic = "force voyage monitor erode dumb pony cabin pony choose pool journey boil";

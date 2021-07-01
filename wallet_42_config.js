@@ -1,1 +1,1 @@
-var mnemonic = "omit river phone time camp track neutral erosion mixture table bracket sock";
+var mnemonic = "broom domain price mansion this fox express since season pride cheap soon";

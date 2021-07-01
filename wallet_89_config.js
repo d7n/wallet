@@ -1,1 +1,1 @@
-var mnemonic = "parent liar ribbon blood because brass blur october window mechanic current grid";
+var mnemonic = "glow virtual tissue cactus letter valid pen frog possible major magnet junk";

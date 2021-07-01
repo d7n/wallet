@@ -1,1 +1,1 @@
-var mnemonic = "ordinary cloth remember report few faith coral phrase choose happy trouble grant";
+var mnemonic = "nut cousin car ivory pair rapid tragic daring pyramid hood give enough";

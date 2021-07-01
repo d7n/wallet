@@ -1,1 +1,1 @@
-var mnemonic = "remind monster armor again warm correct kick wear similar shuffle cat culture";
+var mnemonic = "lab summer slam prison stable lend traffic income vocal spirit vendor speak";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic suggest vintage lawn insane ladder dust tooth mammal vacant great gym";
+var mnemonic = "erase loyal few raccoon moral horn market trash rigid inside desert cluster";

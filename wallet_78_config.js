@@ -1,1 +1,1 @@
-var mnemonic = "pond oxygen shoot glimpse deal convince morning stem paper tower enemy boss";
+var mnemonic = "valid bird false elder dream monitor nominee tornado network globe faith paper";

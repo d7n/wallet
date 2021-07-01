@@ -1,1 +1,1 @@
-var mnemonic = "mass penalty mention gap ice verb town top mixture neglect adapt rubber";
+var mnemonic = "leaf someone sketch creek twist giggle absent february below lucky sentence disease";

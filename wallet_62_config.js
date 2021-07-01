@@ -1,1 +1,1 @@
-var mnemonic = "drill champion educate accident warfare adjust salmon dove thunder torch blind alpha";
+var mnemonic = "top super lottery garlic lake monkey since athlete weekend guitar spike close";

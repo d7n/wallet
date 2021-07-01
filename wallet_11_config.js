@@ -1,1 +1,1 @@
-var mnemonic = "light wave daring saddle ocean fan wrist tip doll plate outer arrive";
+var mnemonic = "grocery first problem suggest weather zoo swear author tape inhale cousin notice";

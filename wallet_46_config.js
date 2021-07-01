@@ -1,1 +1,1 @@
-var mnemonic = "diagram glow forward ill beach violin glory very wild report tobacco final";
+var mnemonic = "limit switch elbow home tilt lyrics photo seat traffic tell leg inquiry";

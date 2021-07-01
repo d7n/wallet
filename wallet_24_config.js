@@ -1,1 +1,1 @@
-var mnemonic = "viable bronze monkey arctic annual screen field sketch oxygen large tiny stone";
+var mnemonic = "napkin erode typical soon demand symptom inside lottery winter good honey cereal";

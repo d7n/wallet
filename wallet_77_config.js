@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow spin swear obvious must print bread peanut girl identify quantum dial";
+var mnemonic = "ball odor photo transfer clap cave hundred thing awesome tuition coach remove";

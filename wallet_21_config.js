@@ -1,1 +1,1 @@
-var mnemonic = "own bronze settle crush unique feed enemy duck wage search mansion vague";
+var mnemonic = "hamster bean gate mandate room flight satoshi lift affair arch bright pottery";

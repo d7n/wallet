@@ -1,1 +1,1 @@
-var mnemonic = "lizard where shaft salt spoil razor vintage flat knee final wire notable";
+var mnemonic = "raven midnight badge foam mask problem eight hold shoot dentist craft history";

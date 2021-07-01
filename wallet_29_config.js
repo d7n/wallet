@@ -1,1 +1,1 @@
-var mnemonic = "key toilet unhappy never minor match clutch cinnamon shrug nothing shine domain";
+var mnemonic = "crisp paper legal object swamp glory crater puzzle pioneer dinner road expire";

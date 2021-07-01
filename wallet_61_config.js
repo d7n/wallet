@@ -1,1 +1,1 @@
-var mnemonic = "magnet coconut one song brief achieve early estate stumble garment cereal firm";
+var mnemonic = "impulse category satisfy exit giant kitten yellow popular suffer floor hundred face";

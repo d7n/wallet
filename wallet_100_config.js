@@ -1,1 +1,1 @@
-var mnemonic = "party phrase bike abstract health still gallery symbol torch tourist grit toe";
+var mnemonic = "floor shield tunnel produce pulp range delay smile script poverty dice someone";

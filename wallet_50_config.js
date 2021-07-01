@@ -1,1 +1,1 @@
-var mnemonic = "grit minor apology picnic split orange similar worth youth useful until mention";
+var mnemonic = "example hole gaze frequent squirrel fog venture fury paper buddy sport need";

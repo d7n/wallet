@@ -1,1 +1,1 @@
-var mnemonic = "blanket trend grief symptom law result dragon meadow property purchase garden tongue";
+var mnemonic = "question act define betray they execute salon reward across topic girl random";

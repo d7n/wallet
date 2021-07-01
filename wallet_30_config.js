@@ -1,1 +1,1 @@
-var mnemonic = "prepare tomorrow argue mystery blind youth volcano chunk leaf prefer defy twenty";
+var mnemonic = "dirt chapter wire ship planet early plate coffee flee loud display dog";

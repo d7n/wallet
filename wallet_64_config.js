@@ -1,1 +1,1 @@
-var mnemonic = "end bubble mutual struggle tattoo cupboard receive dizzy runway actual parent labor";
+var mnemonic = "pledge point warm twenty spray satoshi mystery seek science winter position photo";

@@ -1,1 +1,1 @@
-var mnemonic = "educate soon nasty finish spell blush produce excite warrior control permit supply";
+var mnemonic = "clay state flash wrist hidden envelope account tired detect congress history often";

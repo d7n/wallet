@@ -1,1 +1,1 @@
-var mnemonic = "duty message flight tide pass side air foil tobacco reunion struggle exhibit";
+var mnemonic = "loop adapt muscle swim doll cycle pattern agree fix much arrange actual";

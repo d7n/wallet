@@ -1,1 +1,1 @@
-var mnemonic = "quote jungle lucky comic drama rabbit nerve climb few bubble smoke amateur";
+var mnemonic = "envelope sunny medal tobacco vote seminar style upgrade sadness kick then steak";

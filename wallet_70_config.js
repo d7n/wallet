@@ -1,1 +1,1 @@
-var mnemonic = "mistake surface indicate width lens chair wide predict fossil symbol maple weekend";
+var mnemonic = "void hazard enter tornado athlete security family force perfect wear view whisper";

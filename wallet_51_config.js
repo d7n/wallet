@@ -1,1 +1,1 @@
-var mnemonic = "bread error hobby arena elite cage exhibit write jaguar gallery fat below";
+var mnemonic = "engage belt lyrics candy chair attract process quarter pledge manual shoulder desk";

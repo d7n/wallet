@@ -1,1 +1,1 @@
-var mnemonic = "mixed seven goddess wolf expand news remember rate naive aisle turkey naive";
+var mnemonic = "vanish mixture fragile few valid cabbage acid margin figure trigger shoot enough";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet topple together amused outer ice minimum year stamp number enact check";
+var mnemonic = "alien thought wrestle identify door glove rocket vapor alley kingdom cash bicycle";

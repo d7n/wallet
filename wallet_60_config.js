@@ -1,1 +1,1 @@
-var mnemonic = "crumble arena soap quote floor place aunt fruit toy evoke gold opera";
+var mnemonic = "jazz bind mixed trial hawk silly video giggle candy will gather believe";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown profit body symbol novel eagle judge aim hover struggle drama subway";
+var mnemonic = "ridge cover circle adjust solution uphold donate earn scatter isolate endless point";

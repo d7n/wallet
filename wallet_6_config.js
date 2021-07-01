@@ -1,1 +1,1 @@
-var mnemonic = "office silly picture lottery gentle champion position scrub agent mystery uncle equal";
+var mnemonic = "crime twist fee shaft night butter limb brave cheap blind inquiry hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle exact trophy glory fruit patrol tiny bread choose split disorder aunt";
+var mnemonic = "course candy real under hello palm smoke deposit actress tooth stumble demand";

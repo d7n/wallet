@@ -1,1 +1,1 @@
-var mnemonic = "body engage pink ostrich ribbon vendor shaft balance ranch walk since track";
+var mnemonic = "song blind holiday flip echo spirit media elder smile movie market logic";

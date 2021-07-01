@@ -1,1 +1,1 @@
-var mnemonic = "give install clip suspect race segment rural energy grab bird radio raw";
+var mnemonic = "pumpkin exchange general ecology shine test artwork emotion manage canoe situate vast";

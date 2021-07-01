@@ -1,1 +1,1 @@
-var mnemonic = "oil course badge music slight daughter cheese order crush day summer mean";
+var mnemonic = "cereal iron pond uniform daring trigger canvas twist possible method frozen olympic";

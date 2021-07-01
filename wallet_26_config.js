@@ -1,1 +1,1 @@
-var mnemonic = "question celery ozone group valid layer accuse crouch neutral stamp cannon mystery";
+var mnemonic = "burden orphan worth infant unhappy tower main motion special donate salmon dust";

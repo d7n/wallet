@@ -1,1 +1,1 @@
-var mnemonic = "ocean inject toss pelican desert shallow picnic maple calm just street bicycle";
+var mnemonic = "enroll strategy table trouble describe relax table donor horn phone uncover found";

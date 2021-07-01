@@ -1,1 +1,1 @@
-var mnemonic = "trophy prize fresh order noodle turkey tortoise hand sunny hunt fiber manage";
+var mnemonic = "unit regret peanut debate scale trim detail code focus copper early mystery";

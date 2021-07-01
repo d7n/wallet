@@ -1,1 +1,1 @@
-var mnemonic = "judge summer fragile arrest just rug rare motor clinic other fiber list";
+var mnemonic = "welcome chuckle giant silly fame spot tuition wealth laundry smile sun kiss";

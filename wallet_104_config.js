@@ -1,1 +1,1 @@
-var mnemonic = "deputy execute aunt dentist sudden initial rapid you laptop canal throw submit";
+var mnemonic = "farm night note program assume stock peasant picture neglect final mask speed";

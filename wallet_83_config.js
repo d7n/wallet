@@ -1,1 +1,1 @@
-var mnemonic = "crush oil announce screen floor answer undo neither beyond away harvest among";
+var mnemonic = "orbit attend shed deny bird pudding slab concert soap animal assault make";

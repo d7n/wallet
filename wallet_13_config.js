@@ -1,1 +1,1 @@
-var mnemonic = "orchard source book guitar liquid prison dinner illness consider shrug priority segment";
+var mnemonic = "hawk empty blossom blue that decorate inform danger obscure adjust cushion negative";

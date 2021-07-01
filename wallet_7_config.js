@@ -1,1 +1,1 @@
-var mnemonic = "model forward practice sport nature glimpse movie permit speak soul degree suggest";
+var mnemonic = "merge layer miracle session dog artefact misery twice unknown exact tonight bleak";

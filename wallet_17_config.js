@@ -1,1 +1,1 @@
-var mnemonic = "found trip uphold relax clerk crystal fire pupil milk tunnel youth rely";
+var mnemonic = "peace hunt indicate session domain network sentence couple rich ozone main stage";

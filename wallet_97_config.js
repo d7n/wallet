@@ -1,1 +1,1 @@
-var mnemonic = "orbit cruise pledge maple patrol loud quality position muscle glue husband repair";
+var mnemonic = "author quality guitar scan fluid busy cricket clown announce off flat print";

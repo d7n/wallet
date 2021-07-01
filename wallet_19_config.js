@@ -1,1 +1,1 @@
-var mnemonic = "clerk chapter faith novel flat day virtual home doctor impact pencil couple";
+var mnemonic = "auction walk rose shield mirror ordinary estate ensure then inhale faint hub";

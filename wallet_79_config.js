@@ -1,1 +1,1 @@
-var mnemonic = "off evolve enough learn approve raise amateur pretty rail hood answer above";
+var mnemonic = "tomato ignore ask tired bunker moral title tongue melt ocean maze myth";

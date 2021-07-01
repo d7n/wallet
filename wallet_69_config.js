@@ -1,1 +1,1 @@
-var mnemonic = "chief path elevator artist found range sponsor chapter shadow east clarify dutch";
+var mnemonic = "latin state price achieve apple mixed fresh dash pause bachelor breeze lend";

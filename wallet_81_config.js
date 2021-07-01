@@ -1,1 +1,1 @@
-var mnemonic = "hat clown excuse tent daring sun dolphin ticket eternal mix waste wash";
+var mnemonic = "oil demand off card message gun fold before false zoo february school";

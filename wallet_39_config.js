@@ -1,1 +1,1 @@
-var mnemonic = "kidney vessel ski year first empower morning build note boring city mouse";
+var mnemonic = "arch flower tenant need segment response proud organ one exotic library document";

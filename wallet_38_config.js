@@ -1,1 +1,1 @@
-var mnemonic = "mix build among bridge script change song foster actress patch knife agent";
+var mnemonic = "sudden fun acoustic cushion spray suspect liar clog wise bless expect wrestle";

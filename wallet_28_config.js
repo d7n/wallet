@@ -1,1 +1,1 @@
-var mnemonic = "web much safe clinic noble hard asset census evidence edit differ drastic";
+var mnemonic = "section risk truly improve enemy express faint session amount spread decide silly";

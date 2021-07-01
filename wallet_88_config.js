@@ -1,1 +1,1 @@
-var mnemonic = "win trash vocal stock demise input inflict mom comfort anxiety similar fantasy";
+var mnemonic = "symbol velvet become change own harvest tent school century suggest carpet mother";

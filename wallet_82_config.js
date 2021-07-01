@@ -1,1 +1,1 @@
-var mnemonic = "emerge capable slush adult clerk claw hat velvet slab liberty fence milk";
+var mnemonic = "laugh upgrade sea shed rose derive cost bird explain pass express decrease";

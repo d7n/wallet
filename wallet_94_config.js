@@ -1,1 +1,1 @@
-var mnemonic = "soon hundred toy fitness chase drum object fish tank rifle differ soup";
+var mnemonic = "strong fitness lounge inch avoid dutch silk pave room small dove lion";

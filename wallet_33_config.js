@@ -1,1 +1,1 @@
-var mnemonic = "armor leader tuition bullet real book language sweet letter almost source skull";
+var mnemonic = "story april juice acid dice old moral version noble galaxy fatigue tomorrow";

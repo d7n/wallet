@@ -1,1 +1,1 @@
-var mnemonic = "ahead liar amount budget riot walnut flush gather join ankle young gun";
+var mnemonic = "edge seek laundry border describe magic mass patrol engage tide install custom";

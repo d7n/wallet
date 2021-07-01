@@ -1,1 +1,1 @@
-var mnemonic = "public meadow rough ranch cage core throw energy immense town provide harvest";
+var mnemonic = "south junior garage body noodle announce sport enjoy labor parent pony fashion";

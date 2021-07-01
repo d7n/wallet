@@ -1,1 +1,1 @@
-var mnemonic = "pair luggage finish road plate toast limit blush until boring shrug super";
+var mnemonic = "yellow desk bonus middle butter prize name misery good daring chef blur";
