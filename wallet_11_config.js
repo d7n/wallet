@@ -1,1 +1,1 @@
-var mnemonic = "surprise together bulb remember orphan next seed bike add tube ritual wool";
+var mnemonic = "gown tiny eager wasp strike figure replace old casual stadium cargo civil";

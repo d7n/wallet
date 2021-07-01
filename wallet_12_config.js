@@ -1,1 +1,1 @@
-var mnemonic = "another mushroom yard globe wink immense help pelican wise smile city crew";
+var mnemonic = "occur spawn solution share adapt dinner strike task panda require cargo salt";

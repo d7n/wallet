@@ -1,1 +1,1 @@
-var mnemonic = "element cost twenty vicious finger bright sleep issue easy decade novel recipe";
+var mnemonic = "clip system track planet spider sand enrich budget angle gift title seat";

@@ -1,1 +1,1 @@
-var mnemonic = "census bird lesson catalog next wish venue duty cushion club since victory";
+var mnemonic = "motion flush ride brass employ skull sauce recycle snake seven object slight";

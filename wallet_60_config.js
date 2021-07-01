@@ -1,1 +1,1 @@
-var mnemonic = "unfair destroy fortune sport pony basic grit bundle journey blossom dial lobster";
+var mnemonic = "comic kid explain brass slim nephew happy poem bread public observe polar";

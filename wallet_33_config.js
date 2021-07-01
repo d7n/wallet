@@ -1,1 +1,1 @@
-var mnemonic = "you nurse oyster episode potato slice bicycle viable shop oblige taste excess";
+var mnemonic = "risk parade sell modify fatal scatter assume settle bag bamboo view process";

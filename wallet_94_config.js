@@ -1,1 +1,1 @@
-var mnemonic = "item shy express sense column kitchen urban clean cute improve romance blame";
+var mnemonic = "laundry rug just either place draft occur ritual ball later artist match";

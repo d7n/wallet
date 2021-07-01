@@ -1,1 +1,1 @@
-var mnemonic = "joy kitten math enough river rocket swim little hen anchor flee toward";
+var mnemonic = "suit puzzle goose couple blue grocery mercy top lift slim six brown";

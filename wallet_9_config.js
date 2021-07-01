@@ -1,1 +1,1 @@
-var mnemonic = "alert obey ethics wild broom advance kiwi soft warfare connect relax lounge";
+var mnemonic = "pink august wheat tuition congress unusual rich surprise sample atom loan chronic";

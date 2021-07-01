@@ -1,1 +1,1 @@
-var mnemonic = "layer solution praise found rug lizard bullet fault nation dad fade group";
+var mnemonic = "flavor perfect alley baby antique another vendor blame intact penalty sibling survey";

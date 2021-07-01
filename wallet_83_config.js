@@ -1,1 +1,1 @@
-var mnemonic = "solve rival eye minute erode mutual hat measure enable glue crumble quality";
+var mnemonic = "average wink become indicate unable ribbon tank acid puppy idea amateur calm";

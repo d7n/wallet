@@ -1,1 +1,1 @@
-var mnemonic = "expect ordinary license equip invite behave diet flight sphere busy update toe";
+var mnemonic = "island toilet liberty world drama method egg diagram bargain panel obey whisper";

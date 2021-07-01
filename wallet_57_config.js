@@ -1,1 +1,1 @@
-var mnemonic = "bind remember govern valley dad market company lunar canvas abandon picnic churn";
+var mnemonic = "play vapor awesome cup lemon speed frog october rose north runway curve";

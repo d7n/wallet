@@ -1,1 +1,1 @@
-var mnemonic = "addict ancient wait legal reflect general leopard open pretty swap east area";
+var mnemonic = "search rain response slim scout describe coin pyramid pole problem move purity";

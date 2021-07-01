@@ -1,1 +1,1 @@
-var mnemonic = "unit spray health reason aspect brave return denial immune blur rail brother";
+var mnemonic = "topic use ask debris hard film leader novel tide hand ball estate";

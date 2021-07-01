@@ -1,1 +1,1 @@
-var mnemonic = "little turtle uncover biology rich taxi funny vacant wool hip arch cruel";
+var mnemonic = "bind quit critic cycle become tobacco vehicle tray crop speed reason wash";

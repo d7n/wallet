@@ -1,1 +1,1 @@
-var mnemonic = "crane mistake begin cool crumble tooth alien cloud sure brave expire faith";
+var mnemonic = "space roast again cause sunny tortoise domain spice thing volcano slide supply";

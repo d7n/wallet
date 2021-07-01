@@ -1,1 +1,1 @@
-var mnemonic = "rapid mass shrug combine broccoli art broken option call coil sing magnet";
+var mnemonic = "broccoli ability injury make text bonus busy excuse gaze delay deputy network";

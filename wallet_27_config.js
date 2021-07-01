@@ -1,1 +1,1 @@
-var mnemonic = "lake erosion innocent street casino mother ignore thing genuine column cluster spoil";
+var mnemonic = "panic suspect cover shallow salad one kiss cost abuse world kind position";

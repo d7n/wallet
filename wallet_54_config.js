@@ -1,1 +1,1 @@
-var mnemonic = "manual that equip student awful hundred maid summer antique roof nuclear admit";
+var mnemonic = "bronze hawk churn width purpose prosper stool rib title legend coil woman";

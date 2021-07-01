@@ -1,1 +1,1 @@
-var mnemonic = "emotion combine network seven crawl country mixture fine theory educate swap obtain";
+var mnemonic = "hand wood wrap text spot relief coral sponsor draw crouch shoe maximum";

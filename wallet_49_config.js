@@ -1,1 +1,1 @@
-var mnemonic = "chef bargain soap engine sniff crystal borrow absent royal benefit spend keen";
+var mnemonic = "able modify defense begin advice track unveil vacuum person banana hobby old";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil reunion deliver long fault library expect deny ramp alley over life";
+var mnemonic = "noble pulse plug swarm general measure strike feed clarify improve shove winner";

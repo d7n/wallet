@@ -1,1 +1,1 @@
-var mnemonic = "lounge globe such brown submit subject supply axis outside vendor surround cigar";
+var mnemonic = "crazy vintage plate divorce invite logic fog bless only method day antenna";

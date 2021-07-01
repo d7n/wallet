@@ -1,1 +1,1 @@
-var mnemonic = "rent arrive resist option unit unknown open someone response village develop mercy";
+var mnemonic = "oil hunt advance idle blue steak culture october cube lizard august vivid";

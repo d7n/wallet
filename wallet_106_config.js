@@ -1,1 +1,1 @@
-var mnemonic = "twist drink unhappy suspect need million crowd erode youth police soccer height";
+var mnemonic = "field math clarify use cause evolve inherit mention oxygen pulp robust amateur";

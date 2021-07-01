@@ -1,1 +1,1 @@
-var mnemonic = "annual sun tube valve slow cousin across lady ramp purchase soccer news";
+var mnemonic = "scene lift title token rival music scissors jealous awkward plug bike patch";

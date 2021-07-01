@@ -1,1 +1,1 @@
-var mnemonic = "supreme dance sunset inside basket arrest dice host jump pear reveal nerve";
+var mnemonic = "hard rebuild cattle wet nurse thank control black mushroom gas buyer keep";

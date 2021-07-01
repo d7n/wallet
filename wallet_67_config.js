@@ -1,1 +1,1 @@
-var mnemonic = "load snack sauce marine blind thought change wine together lend impact potato";
+var mnemonic = "pact girl chronic awful identify squirrel puppy steel run slender stomach isolate";

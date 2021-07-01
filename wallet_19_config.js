@@ -1,1 +1,1 @@
-var mnemonic = "feed cousin lend keep barely weird carry harvest pond sad moment family";
+var mnemonic = "senior settle vault great inch hurt spend crowd castle bottom dash chunk";

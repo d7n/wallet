@@ -1,1 +1,1 @@
-var mnemonic = "design wrestle reveal better gym cricket foot host will pen rival olympic";
+var mnemonic = "vacant worry benefit roof amazing figure bachelor apart piano right tissue lottery";

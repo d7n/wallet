@@ -1,1 +1,1 @@
-var mnemonic = "horse bid spoon wall october vibrant minor add assume guitar document behind";
+var mnemonic = "toss multiply couple atom sail grow grace uphold lava stool cigar thumb";

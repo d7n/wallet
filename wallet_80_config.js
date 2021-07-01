@@ -1,1 +1,1 @@
-var mnemonic = "lens drive kit disorder change peasant protect suspect time act mouse make";
+var mnemonic = "stem budget aim mountain rally purity thunder use busy cover camera whip";

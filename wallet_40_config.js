@@ -1,1 +1,1 @@
-var mnemonic = "genuine furnace blouse airport crystal tilt demise crumble fever favorite vast meadow";
+var mnemonic = "corn seek text universe list slice east end foam innocent try mystery";

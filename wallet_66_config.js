@@ -1,1 +1,1 @@
-var mnemonic = "green spice illness seat future play mesh family receive element hat wool";
+var mnemonic = "hard find you nest century prize half cannon faint famous enact satisfy";

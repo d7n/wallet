@@ -1,1 +1,1 @@
-var mnemonic = "thought shock opera cinnamon average page merge goose during quick person mask";
+var mnemonic = "menu project almost bright armed diet staff manual mammal lyrics soon cargo";

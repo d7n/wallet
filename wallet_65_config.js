@@ -1,1 +1,1 @@
-var mnemonic = "civil festival fragile dinner produce snack style unaware drift inside subject drip";
+var mnemonic = "april lobster deal into black private swap word cabbage bachelor chicken couch";

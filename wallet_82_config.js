@@ -1,1 +1,1 @@
-var mnemonic = "pizza argue glass define skirt horn obey there maximum fresh lucky dawn";
+var mnemonic = "gallery gym thrive grit kitten steel tongue tissue mimic remember arrange rely";

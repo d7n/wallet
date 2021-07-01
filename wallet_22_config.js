@@ -1,1 +1,1 @@
-var mnemonic = "rate youth soap vital solve skate quote olive upper holiday earth demise";
+var mnemonic = "recipe priority calm sense knock stone shrimp powder photo piano liar change";

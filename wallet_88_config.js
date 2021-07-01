@@ -1,1 +1,1 @@
-var mnemonic = "teach gravity spider drum winner hour seek goose survey teach phone inform";
+var mnemonic = "ocean spoil display ability museum dress climb canal mobile goose strong mass";

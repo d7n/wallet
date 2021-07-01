@@ -1,1 +1,1 @@
-var mnemonic = "color glue elder stay almost subject east similar yard salt view brand";
+var mnemonic = "stay surge small you month traffic play oblige tuition pelican onion allow";

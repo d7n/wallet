@@ -1,1 +1,1 @@
-var mnemonic = "bachelor slow reform episode siren cream lion napkin vote parade vague pizza";
+var mnemonic = "raw disease loan spoil outside muffin carry title right under comfort drill";

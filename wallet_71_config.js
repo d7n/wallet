@@ -1,1 +1,1 @@
-var mnemonic = "sell ride under image silent tomato crop return tomorrow divorce gossip sphere";
+var mnemonic = "outer dynamic amused crisp sing nut victory wear acoustic iron chapter tree";

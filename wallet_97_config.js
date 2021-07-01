@@ -1,1 +1,1 @@
-var mnemonic = "biology there sorry trust endless move pistol profit penalty abandon ride north";
+var mnemonic = "good strike palm surface margin crew paddle sentence dwarf velvet safe cram";

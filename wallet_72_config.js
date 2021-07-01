@@ -1,1 +1,1 @@
-var mnemonic = "scrap arm neutral course fluid twelve month umbrella lumber inject festival traffic";
+var mnemonic = "also carbon glide cruel aim shoe entry evidence believe tomato two enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant trick north payment govern indoor foam child survey loan iron open";
+var mnemonic = "funny pelican ocean trim color help giraffe pledge change strong spell poem";

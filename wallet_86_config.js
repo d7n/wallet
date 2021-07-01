@@ -1,1 +1,1 @@
-var mnemonic = "purse hour maze clean theme chapter symptom festival swift midnight uniform concert";
+var mnemonic = "news sound coin illness love immense measure fly stable wine sick crucial";

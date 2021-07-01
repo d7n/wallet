@@ -1,1 +1,1 @@
-var mnemonic = "make action similar toe around boss raccoon sugar fatigue sound husband peace";
+var mnemonic = "gas poet airport ritual dream protect pen carbon bubble seven spy shadow";

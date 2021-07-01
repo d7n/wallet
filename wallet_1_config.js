@@ -1,1 +1,1 @@
-var mnemonic = "cheese lobster mother butter bullet typical outside pave wild layer fashion cover";
+var mnemonic = "property timber leg tube utility truck viable general grid plug awkward spider";

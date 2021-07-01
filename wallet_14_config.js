@@ -1,1 +1,1 @@
-var mnemonic = "lounge oil rival phone spring youth rate present finish cricket force brief";
+var mnemonic = "lemon whisper gate chunk still clay blanket wine federal timber maximum fury";

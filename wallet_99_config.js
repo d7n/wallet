@@ -1,1 +1,1 @@
-var mnemonic = "emotion make casual album ribbon soldier bulk tattoo pig mention random hello";
+var mnemonic = "since brave order million minor match brass jazz number chat review tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "burst arm learn dwarf beauty latin abuse control next outdoor access oak";
+var mnemonic = "bleak fatal expire engage choice practice subway shoulder legal style burden muffin";

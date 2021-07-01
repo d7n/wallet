@@ -1,1 +1,1 @@
-var mnemonic = "tiny together immense absorb burden law garage arch scorpion chat simple average";
+var mnemonic = "clever arctic bright scale pond track start jungle front poet brisk explain";

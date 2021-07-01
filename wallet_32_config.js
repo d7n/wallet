@@ -1,1 +1,1 @@
-var mnemonic = "symbol office destroy must acid wine arrest solid absorb ostrich rapid seat";
+var mnemonic = "duck genius discover argue fix palace spider foster oven repeat fancy acquire";

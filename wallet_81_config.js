@@ -1,1 +1,1 @@
-var mnemonic = "spring butter parade practice omit property plastic work coach furnace taste happy";
+var mnemonic = "front wisdom come bag half humble menu filter team practice draw wreck";

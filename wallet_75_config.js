@@ -1,1 +1,1 @@
-var mnemonic = "chimney plastic kangaroo solution feature pond much ecology pair void input captain";
+var mnemonic = "young potato phone mercy chair harsh host scatter bleak wolf rule ivory";

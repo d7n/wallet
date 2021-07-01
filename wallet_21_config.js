@@ -1,1 +1,1 @@
-var mnemonic = "design boost enjoy addict health away budget tip omit size admit travel";
+var mnemonic = "hungry wreck mirror throw next license rely pudding laptop hood cream dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply square genuine identify hollow dice video cabin series banner denial clinic";
+var mnemonic = "crash special canoe sketch toss hidden follow dentist patch spring black idle";

@@ -1,1 +1,1 @@
-var mnemonic = "medal glory mix physical unhappy orient rain genre utility hedgehog dirt cluster";
+var mnemonic = "barrel recycle file shoot pattern weasel jar toilet inherit kiss fun dune";

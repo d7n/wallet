@@ -1,1 +1,1 @@
-var mnemonic = "apple direct catch public monkey tragic chat steak wish client grief gift";
+var mnemonic = "absorb say mind husband face pyramid custom treat science cannon evolve casual";

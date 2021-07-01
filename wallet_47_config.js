@@ -1,1 +1,1 @@
-var mnemonic = "never situate stadium exit size impulse link deer crop verb glare sunset";
+var mnemonic = "basket common orange run enable border page ancient peasant burst oil area";

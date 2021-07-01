@@ -1,1 +1,1 @@
-var mnemonic = "turkey stomach ecology choose city soon expose egg gasp promote cook shuffle";
+var mnemonic = "web crowd member dolphin bullet brown juice current bicycle goddess ensure mystery";

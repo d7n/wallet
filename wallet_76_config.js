@@ -1,1 +1,1 @@
-var mnemonic = "monkey multiply ignore chicken lemon agree witness sound filter salute fade music";
+var mnemonic = "clump hurt circle fatigue clay strike air rule gesture vital wonder tunnel";

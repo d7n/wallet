@@ -1,1 +1,1 @@
-var mnemonic = "voice chalk club copy nothing twenty short absurd ready local ready decorate";
+var mnemonic = "mixed motion humble test stamp vintage ship age response mirror win lottery";

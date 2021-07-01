@@ -1,1 +1,1 @@
-var mnemonic = "inherit supply mixture answer tribe bid short unlock crew hobby present occur";
+var mnemonic = "engine board spot trumpet riot bread siren know mention fee panel puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "coach feel badge kangaroo frame embody cotton toast rigid behind clap light";
+var mnemonic = "similar apart fruit allow fancy tennis race lawn town ocean surge perfect";

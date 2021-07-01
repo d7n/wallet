@@ -1,1 +1,1 @@
-var mnemonic = "little couch steel dutch oxygen double lion focus riot salt shoulder cube";
+var mnemonic = "space miracle trophy style often write slot inner camera concert moral debate";

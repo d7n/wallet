@@ -1,1 +1,1 @@
-var mnemonic = "genuine rate gap civil monitor meadow abuse cactus pupil ridge heavy outside";
+var mnemonic = "mobile swim warm radio snow caution law siege federal tell distance choose";

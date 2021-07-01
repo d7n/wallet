@@ -1,1 +1,1 @@
-var mnemonic = "beauty dice layer rate kind quality nominee athlete tree main pact confirm";
+var mnemonic = "clock spider ostrich fringe seek radio submit chase expire admit youth similar";

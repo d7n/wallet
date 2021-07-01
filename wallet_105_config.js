@@ -1,1 +1,1 @@
-var mnemonic = "diet rare ghost region humble swamp nation thrive alpha gallery horror among";
+var mnemonic = "october spawn credit elite scatter deposit sense doctor target route satisfy volcano";

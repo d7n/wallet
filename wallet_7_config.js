@@ -1,1 +1,1 @@
-var mnemonic = "craft doctor old pond caution flag engage raise garlic apart genre sample";
+var mnemonic = "rare north tag execute juice review wrestle thought crew neither equal letter";

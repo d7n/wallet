@@ -1,1 +1,1 @@
-var mnemonic = "energy slice inherit argue vocal glad cactus hour mystery tag medal chalk";
+var mnemonic = "olive sense main creek squirrel upper artefact rigid vicious weapon october drink";

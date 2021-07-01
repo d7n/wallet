@@ -1,1 +1,1 @@
-var mnemonic = "twin ribbon public ski gadget enjoy own muffin quarter humor decrease ignore";
+var mnemonic = "venture involve message delay already dove steel march candy laugh guide faculty";

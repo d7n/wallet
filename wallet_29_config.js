@@ -1,1 +1,1 @@
-var mnemonic = "tissue fossil cat blind laundry train despair toward domain physical various rabbit";
+var mnemonic = "water ring mask suggest bird museum divide zoo quit pulse exclude glue";

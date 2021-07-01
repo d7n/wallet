@@ -1,1 +1,1 @@
-var mnemonic = "leisure divide fashion excuse logic filter mansion reason invite regret fiber canal";
+var mnemonic = "drastic fox body belt mom phrase tissue able winner perfect surface panic";

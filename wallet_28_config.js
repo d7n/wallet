@@ -1,1 +1,1 @@
-var mnemonic = "come swamp nut usual ecology dress lock sock voyage bundle smoke model";
+var mnemonic = "puzzle sunset coral unhappy book embark weird shaft stove project thought sock";

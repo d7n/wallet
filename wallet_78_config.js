@@ -1,1 +1,1 @@
-var mnemonic = "wise high attitude about drop alert improve cube decrease apology attend absent";
+var mnemonic = "culture radio tuition female core calm crowd length nation popular spend able";

@@ -1,1 +1,1 @@
-var mnemonic = "trap evil peasant fog love leopard laugh thunder rent matter option orange";
+var mnemonic = "success inch manual food moral evidence bread awful swallow outer rug aunt";

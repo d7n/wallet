@@ -1,1 +1,1 @@
-var mnemonic = "bike key taste twelve bring rib canal correct attend broom bronze trade";
+var mnemonic = "area version blade vanish creek spirit ripple gym jelly wine super powder";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite hint observe visit relief bargain electric force super bench diesel manual";
+var mnemonic = "sudden curve plastic black urge antique lift glimpse cherry elbow vapor train";

@@ -1,1 +1,1 @@
-var mnemonic = "advice elder useless dove essence clump enroll kingdom stick lazy brother grocery";
+var mnemonic = "clog claw palace skirt correct victory access rail toilet forest key onion";

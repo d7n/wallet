@@ -1,1 +1,1 @@
-var mnemonic = "nut warrior honey always measure response still eager local disagree concert elegant";
+var mnemonic = "estate link hat nuclear guide lawsuit balcony tell day alone energy lumber";

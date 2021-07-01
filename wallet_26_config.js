@@ -1,1 +1,1 @@
-var mnemonic = "drink pizza gloom island sustain foster mass weather boost suspect zebra agent";
+var mnemonic = "gym time ship pilot toddler silly harvest gate farm flush valve behind";

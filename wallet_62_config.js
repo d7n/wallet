@@ -1,1 +1,1 @@
-var mnemonic = "repair anxiety broken just chicken shift melody repair pitch high riot empty";
+var mnemonic = "whisper fat term venue panther way shy beauty example tilt rug mad";

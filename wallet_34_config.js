@@ -1,1 +1,1 @@
-var mnemonic = "victory enjoy crush close patch harvest doctor jacket debate find soap ribbon";
+var mnemonic = "corn slight pipe garment wall reject seed loud motion equip ensure ceiling";

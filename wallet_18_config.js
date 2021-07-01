@@ -1,1 +1,1 @@
-var mnemonic = "run spread song pitch recall busy warm other senior tourist february hold";
+var mnemonic = "zone sport fantasy dish before artefact fossil spoon luxury puppy mango novel";

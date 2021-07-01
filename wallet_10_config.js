@@ -1,1 +1,1 @@
-var mnemonic = "mistake wheel pilot act pepper black screen fault rain retire idle process";
+var mnemonic = "oak bracket vintage level party naive point dutch slow way together nominee";

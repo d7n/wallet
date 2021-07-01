@@ -1,1 +1,1 @@
-var mnemonic = "inside luggage they hidden steel diet length situate indicate point evolve fragile";
+var mnemonic = "moon home yard phone near circle toy debate brother refuse wealth smooth";

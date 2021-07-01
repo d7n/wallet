@@ -1,1 +1,1 @@
-var mnemonic = "split sting tag route vast under man fragile apart chaos play proud";
+var mnemonic = "senior direct wonder hair prosper tribe bench method chair excuse disorder chunk";
