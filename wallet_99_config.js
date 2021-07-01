@@ -1,1 +1,1 @@
-var mnemonic = "myself industry roast minute blossom banner shed little hill uniform rich novel";
+var mnemonic = "emotion make casual album ribbon soldier bulk tattoo pig mention random hello";

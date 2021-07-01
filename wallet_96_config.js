@@ -1,1 +1,1 @@
-var mnemonic = "escape craft army increase rabbit blame parade diesel angle above wood bundle";
+var mnemonic = "dial decrease push common jump impulse void roast flavor ranch amused aerobic";

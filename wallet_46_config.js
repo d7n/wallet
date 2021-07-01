@@ -1,1 +1,1 @@
-var mnemonic = "enroll negative april case famous bundle winner age shy awkward maid expire";
+var mnemonic = "coach feel badge kangaroo frame embody cotton toast rigid behind clap light";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket matrix nest soda confirm decrease shock tray spot unknown rose impulse";
+var mnemonic = "run spread song pitch recall busy warm other senior tourist february hold";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh senior paddle tower fog trip roast actor average diet venue fit";
+var mnemonic = "purse hour maze clean theme chapter symptom festival swift midnight uniform concert";

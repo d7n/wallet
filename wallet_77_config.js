@@ -1,1 +1,1 @@
-var mnemonic = "order over torch rich flip session convince derive able leg layer flock";
+var mnemonic = "bike key taste twelve bring rib canal correct attend broom bronze trade";

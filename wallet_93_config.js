@@ -1,1 +1,1 @@
-var mnemonic = "wreck axis own hollow horse success squirrel opera response wood absent curve";
+var mnemonic = "unit spray health reason aspect brave return denial immune blur rail brother";

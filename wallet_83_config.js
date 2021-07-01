@@ -1,1 +1,1 @@
-var mnemonic = "ensure noble excess cable wonder erupt midnight bicycle wave work hood noise";
+var mnemonic = "solve rival eye minute erode mutual hat measure enable glue crumble quality";

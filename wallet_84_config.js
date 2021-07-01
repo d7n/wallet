@@ -1,1 +1,1 @@
-var mnemonic = "frown mammal little sorry cancel danger hole desert exist mosquito miracle usage";
+var mnemonic = "twin ribbon public ski gadget enjoy own muffin quarter humor decrease ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "install any barrel drip snack analyst cycle faith occur target caught orphan";
+var mnemonic = "design wrestle reveal better gym cricket foot host will pen rival olympic";

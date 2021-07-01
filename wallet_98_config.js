@@ -1,1 +1,1 @@
-var mnemonic = "analyst select soul exit into spring bracket champion deputy tobacco problem sport";
+var mnemonic = "annual sun tube valve slow cousin across lady ramp purchase soccer news";

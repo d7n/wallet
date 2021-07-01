@@ -1,1 +1,1 @@
-var mnemonic = "dinner option legend animal scout piece spatial alert blue open valley pistol";
+var mnemonic = "medal glory mix physical unhappy orient rain genre utility hedgehog dirt cluster";

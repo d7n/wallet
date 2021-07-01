@@ -1,1 +1,1 @@
-var mnemonic = "life faculty gossip code grab page man proud hood rough tornado fabric";
+var mnemonic = "lounge oil rival phone spring youth rate present finish cricket force brief";

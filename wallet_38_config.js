@@ -1,1 +1,1 @@
-var mnemonic = "latin height trust spend duck rookie police force spend quiz hub ring";
+var mnemonic = "genuine rate gap civil monitor meadow abuse cactus pupil ridge heavy outside";

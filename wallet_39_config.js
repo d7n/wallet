@@ -1,1 +1,1 @@
-var mnemonic = "make parent virus dutch tip weasel tattoo slab income anger december trade";
+var mnemonic = "voice chalk club copy nothing twenty short absurd ready local ready decorate";

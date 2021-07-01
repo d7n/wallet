@@ -1,1 +1,1 @@
-var mnemonic = "fancy slot anger arrest magnet arrange match ship beach click seek aerobic";
+var mnemonic = "split sting tag route vast under man fragile apart chaos play proud";

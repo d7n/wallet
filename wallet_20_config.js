@@ -1,1 +1,1 @@
-var mnemonic = "armed someone owner nurse rule bracket setup amused report wealth gauge fashion";
+var mnemonic = "august possible repair toe orange athlete thunder income news burger trial peanut";

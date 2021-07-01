@@ -1,1 +1,1 @@
-var mnemonic = "come pluck gospel spare success position sight smooth scan rate pair clutch";
+var mnemonic = "manual that equip student awful hundred maid summer antique roof nuclear admit";

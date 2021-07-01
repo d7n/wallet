@@ -1,1 +1,1 @@
-var mnemonic = "success theory slight enable palace reopen right toward moral picture cook cannon";
+var mnemonic = "come swamp nut usual ecology dress lock sock voyage bundle smoke model";

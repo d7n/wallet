@@ -1,1 +1,1 @@
-var mnemonic = "regret silk matrix clever enact stick unique master fashion story uncle anxiety";
+var mnemonic = "bachelor slow reform episode siren cream lion napkin vote parade vague pizza";

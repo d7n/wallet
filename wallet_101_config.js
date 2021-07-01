@@ -1,1 +1,1 @@
-var mnemonic = "tray drink vault render phone scene special wagon smooth useful super valve";
+var mnemonic = "inner spoon sheriff sick session entire urge shell bonus actor razor home";

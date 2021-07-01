@@ -1,1 +1,1 @@
-var mnemonic = "siege ecology ozone kitten physical song deal divide dutch merit beach rack";
+var mnemonic = "color glue elder stay almost subject east similar yard salt view brand";

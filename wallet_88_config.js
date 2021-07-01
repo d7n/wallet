@@ -1,1 +1,1 @@
-var mnemonic = "defense type enjoy icon primary wool caught wheel grocery verb exit solar";
+var mnemonic = "teach gravity spider drum winner hour seek goose survey teach phone inform";

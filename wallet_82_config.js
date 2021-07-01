@@ -1,1 +1,1 @@
-var mnemonic = "bomb cupboard risk gold maximum hotel actual fragile human midnight ivory someone";
+var mnemonic = "pizza argue glass define skirt horn obey there maximum fresh lucky dawn";

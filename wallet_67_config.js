@@ -1,1 +1,1 @@
-var mnemonic = "hour spike bounce boring slam moon primary fog cave wait churn sting";
+var mnemonic = "load snack sauce marine blind thought change wine together lend impact potato";

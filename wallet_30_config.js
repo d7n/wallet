@@ -1,1 +1,1 @@
-var mnemonic = "exact cable plunge attract scrub hat rally side topic member tower topple";
+var mnemonic = "mail dad label green ordinary amused scan village category face portion select";

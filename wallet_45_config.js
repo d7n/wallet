@@ -1,1 +1,1 @@
-var mnemonic = "shoe local dumb barely gas shrimp speed slender slogan engine hawk reward";
+var mnemonic = "make action similar toe around boss raccoon sugar fatigue sound husband peace";

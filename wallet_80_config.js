@@ -1,1 +1,1 @@
-var mnemonic = "refuse country apart half powder report keen leg since version perfect alcohol";
+var mnemonic = "lens drive kit disorder change peasant protect suspect time act mouse make";

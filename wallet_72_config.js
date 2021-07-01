@@ -1,1 +1,1 @@
-var mnemonic = "guess injury hat priority air range simple quote boring bus phrase spell";
+var mnemonic = "scrap arm neutral course fluid twelve month umbrella lumber inject festival traffic";

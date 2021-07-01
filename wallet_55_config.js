@@ -1,1 +1,1 @@
-var mnemonic = "shoe escape waste broom jazz autumn radio slam cheap firm dilemma jeans";
+var mnemonic = "news mixture click judge galaxy comic myself feel camp response family sustain";

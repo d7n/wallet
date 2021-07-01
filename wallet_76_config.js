@@ -1,1 +1,1 @@
-var mnemonic = "sun hobby arrange raccoon dragon cluster exile forest reform guilt nut cement";
+var mnemonic = "monkey multiply ignore chicken lemon agree witness sound filter salute fade music";

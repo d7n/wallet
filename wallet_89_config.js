@@ -1,1 +1,1 @@
-var mnemonic = "verify eternal captain cricket modify avoid museum under educate loop powder alpha";
+var mnemonic = "trap evil peasant fog love leopard laugh thunder rent matter option orange";

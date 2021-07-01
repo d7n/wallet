@@ -1,1 +1,1 @@
-var mnemonic = "insect swim athlete few flat isolate lawn clutch lonely follow object step";
+var mnemonic = "rapid mass shrug combine broccoli art broken option call coil sing magnet";

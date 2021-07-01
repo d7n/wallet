@@ -1,1 +1,1 @@
-var mnemonic = "ginger timber indoor metal cake shock party fence benefit dice visual install";
+var mnemonic = "crane mistake begin cool crumble tooth alien cloud sure brave expire faith";

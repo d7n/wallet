@@ -1,1 +1,1 @@
-var mnemonic = "crew cushion index adjust citizen sword moral agree craft celery general play";
+var mnemonic = "favorite hint observe visit relief bargain electric force super bench diesel manual";

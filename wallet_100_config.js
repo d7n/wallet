@@ -1,1 +1,1 @@
-var mnemonic = "erosion fringe truth equal snack acquire fever thank dove inflict test van";
+var mnemonic = "turkey stomach ecology choose city soon expose egg gasp promote cook shuffle";

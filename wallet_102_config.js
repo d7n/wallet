@@ -1,1 +1,1 @@
-var mnemonic = "island donkey flavor alpha insect scrap select cause dove speed motion sorry";
+var mnemonic = "lake layer flash rural neck unusual dentist guide test critic win liar";

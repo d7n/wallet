@@ -1,1 +1,1 @@
-var mnemonic = "believe tornado comic pool taste color message pave example capital lizard squeeze";
+var mnemonic = "chef bargain soap engine sniff crystal borrow absent royal benefit spend keen";

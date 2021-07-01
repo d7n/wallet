@@ -1,1 +1,1 @@
-var mnemonic = "consider mammal brass story scan height erase rule hybrid sad liberty street";
+var mnemonic = "supreme dance sunset inside basket arrest dice host jump pear reveal nerve";

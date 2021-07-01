@@ -1,1 +1,1 @@
-var mnemonic = "quality charge unusual among pony comfort act obvious pepper tube develop mosquito";
+var mnemonic = "lake erosion innocent street casino mother ignore thing genuine column cluster spoil";

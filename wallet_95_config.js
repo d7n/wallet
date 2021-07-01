@@ -1,1 +1,1 @@
-var mnemonic = "royal evidence bitter review rent people enemy mind mammal detect life dirt";
+var mnemonic = "leisure divide fashion excuse logic filter mansion reason invite regret fiber canal";

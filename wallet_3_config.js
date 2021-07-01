@@ -1,1 +1,1 @@
-var mnemonic = "doll asset betray walnut wear onion faint jar differ humor physical april";
+var mnemonic = "kangaroo humble home frost scale pony page because top arena eight chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "notice brick ability energy hybrid sleep draft sad eager runway dice visual";
+var mnemonic = "another mushroom yard globe wink immense help pelican wise smile city crew";

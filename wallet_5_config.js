@@ -1,1 +1,1 @@
-var mnemonic = "element clarify error armor road used south smoke strategy tackle crystal dog";
+var mnemonic = "timber nurse tortoise pyramid release elite space document spike patch ignore key";

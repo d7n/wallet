@@ -1,1 +1,1 @@
-var mnemonic = "wing win basket monitor scissors behind outdoor try toward torch insect whip";
+var mnemonic = "bread day network hill tag style punch wasp oxygen weird pause collect";

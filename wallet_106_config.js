@@ -1,1 +1,1 @@
-var mnemonic = "enrich stairs crane ranch brave once rough course cushion float candy arrange";
+var mnemonic = "twist drink unhappy suspect need million crowd erode youth police soccer height";

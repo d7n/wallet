@@ -1,1 +1,1 @@
-var mnemonic = "vital twist leave genius coil tragic near plug blanket wish party pattern";
+var mnemonic = "sell ride under image silent tomato crop return tomorrow divorce gossip sphere";

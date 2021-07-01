@@ -1,1 +1,1 @@
-var mnemonic = "dawn cage carpet weekend noise cup error true market maid pudding spice";
+var mnemonic = "layer solution praise found rug lizard bullet fault nation dad fade group";

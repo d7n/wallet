@@ -1,1 +1,1 @@
-var mnemonic = "bulb plate riot toss dentist expand among venue bike success toilet pave";
+var mnemonic = "bind remember govern valley dad market company lunar canvas abandon picnic churn";

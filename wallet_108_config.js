@@ -1,1 +1,1 @@
-var mnemonic = "mail mutual liquid eager daughter bomb maid sense year trim pitch involve";
+var mnemonic = "apple direct catch public monkey tragic chat steak wish client grief gift";

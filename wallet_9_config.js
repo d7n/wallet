@@ -1,1 +1,1 @@
-var mnemonic = "boss dose van pear human defense crime razor film pretty muscle great";
+var mnemonic = "alert obey ethics wild broom advance kiwi soft warfare connect relax lounge";

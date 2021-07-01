@@ -1,1 +1,1 @@
-var mnemonic = "comfort pigeon arrow know toward much fashion client father drill favorite convince";
+var mnemonic = "depend erase soldier clog syrup bicycle inquiry lion photo lady rapid nut";

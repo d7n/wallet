@@ -1,1 +1,1 @@
-var mnemonic = "festival general wisdom resemble element indoor shoot bridge famous maze drift cost";
+var mnemonic = "you nurse oyster episode potato slice bicycle viable shop oblige taste excess";

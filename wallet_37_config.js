@@ -1,1 +1,1 @@
-var mnemonic = "search leg burger noise abandon pear false visit sting jaguar patrol theme";
+var mnemonic = "lounge globe such brown submit subject supply axis outside vendor surround cigar";

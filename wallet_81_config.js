@@ -1,1 +1,1 @@
-var mnemonic = "ecology amount panther normal modify general company struggle noble border yellow asset";
+var mnemonic = "spring butter parade practice omit property plastic work coach furnace taste happy";

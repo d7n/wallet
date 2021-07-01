@@ -1,1 +1,1 @@
-var mnemonic = "deposit cushion hotel globe develop audit tissue tomorrow hand senior cactus radio";
+var mnemonic = "hockey smile great radio mango drum frog ahead pledge soap cloud visit";

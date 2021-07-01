@@ -1,1 +1,1 @@
-var mnemonic = "vapor unknown exit exclude drift echo ice noise goddess garbage zone patient";
+var mnemonic = "emotion combine network seven crawl country mixture fine theory educate swap obtain";

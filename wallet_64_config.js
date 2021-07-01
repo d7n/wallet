@@ -1,1 +1,1 @@
-var mnemonic = "goat guitar security boy nose move hurry uncover also story roof pulp";
+var mnemonic = "climb salute feature upon setup target seek spot cabbage into junior fiction";

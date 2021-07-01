@@ -1,1 +1,1 @@
-var mnemonic = "fat knee tooth helmet grass mosquito latin there affair blast extend title";
+var mnemonic = "advice elder useless dove essence clump enroll kingdom stick lazy brother grocery";

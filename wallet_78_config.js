@@ -1,1 +1,1 @@
-var mnemonic = "vendor invite margin cake mountain soda industry goddess trophy news off express";
+var mnemonic = "wise high attitude about drop alert improve cube decrease apology attend absent";

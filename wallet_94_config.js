@@ -1,1 +1,1 @@
-var mnemonic = "angry again fashion today guide alpha salad dynamic anxiety author popular glove";
+var mnemonic = "item shy express sense column kitchen urban clean cute improve romance blame";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork impulse buddy draft win column soldier sign leg slab beyond gossip";
+var mnemonic = "inherit supply mixture answer tribe bid short unlock crew hobby present occur";

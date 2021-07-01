@@ -1,1 +1,1 @@
-var mnemonic = "column clay core cereal almost dynamic region tenant identify merry arrive push";
+var mnemonic = "tired elder ten token ignore nasty foot deputy error please toddler width";

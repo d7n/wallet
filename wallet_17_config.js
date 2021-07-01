@@ -1,1 +1,1 @@
-var mnemonic = "reject repair suit reveal robot mansion arrange spatial panther pole blade predict";
+var mnemonic = "nut warrior honey always measure response still eager local disagree concert elegant";

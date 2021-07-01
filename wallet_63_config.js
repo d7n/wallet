@@ -1,1 +1,1 @@
-var mnemonic = "expand road slow relief alter error sheriff spoil victory enjoy cliff average";
+var mnemonic = "addict ancient wait legal reflect general leopard open pretty swap east area";

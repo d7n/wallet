@@ -1,1 +1,1 @@
-var mnemonic = "road wave satoshi decline discover champion smart pair basket frozen lecture admit";
+var mnemonic = "genuine furnace blouse airport crystal tilt demise crumble fever favorite vast meadow";

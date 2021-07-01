@@ -1,1 +1,1 @@
-var mnemonic = "main scrub tank raw calm draw roof fan shallow end home forget";
+var mnemonic = "green spice illness seat future play mesh family receive element hat wool";

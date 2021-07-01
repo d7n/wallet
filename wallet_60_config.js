@@ -1,1 +1,1 @@
-var mnemonic = "inmate skull civil inform metal illness night glow high text buzz hockey";
+var mnemonic = "unfair destroy fortune sport pony basic grit bundle journey blossom dial lobster";

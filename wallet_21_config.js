@@ -1,1 +1,1 @@
-var mnemonic = "minute replace outdoor another uniform subway theme fitness shaft educate wise hold";
+var mnemonic = "design boost enjoy addict health away budget tip omit size admit travel";

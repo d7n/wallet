@@ -1,1 +1,1 @@
-var mnemonic = "usage apple siege citizen fold tomorrow method abandon diamond wealth chair base";
+var mnemonic = "element cost twenty vicious finger bright sleep issue easy decade novel recipe";

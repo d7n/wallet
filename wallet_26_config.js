@@ -1,1 +1,1 @@
-var mnemonic = "hard diagram sail ensure people welcome glue height coast profit stereo network";
+var mnemonic = "drink pizza gloom island sustain foster mass weather boost suspect zebra agent";

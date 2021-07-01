@@ -1,1 +1,1 @@
-var mnemonic = "either wage olive harbor fresh close flower select lift car bring void";
+var mnemonic = "thought shock opera cinnamon average page merge goose during quick person mask";

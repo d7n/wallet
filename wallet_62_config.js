@@ -1,1 +1,1 @@
-var mnemonic = "employ face daring ribbon ranch void teach above dad kangaroo panic section";
+var mnemonic = "repair anxiety broken just chicken shift melody repair pitch high riot empty";

@@ -1,1 +1,1 @@
-var mnemonic = "viable wealth together alarm mirror invite detect toast drift disagree small width";
+var mnemonic = "joy kitten math enough river rocket swim little hen anchor flee toward";

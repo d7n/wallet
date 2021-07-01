@@ -1,1 +1,1 @@
-var mnemonic = "inhale demand dizzy oven silly gauge soul mother border ostrich mango lyrics";
+var mnemonic = "bacon boss switch come chimney vehicle fitness romance coffee output jelly radio";

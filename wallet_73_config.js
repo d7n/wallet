@@ -1,1 +1,1 @@
-var mnemonic = "siege rain scrub fine warrior style winner whip art gallery north venture";
+var mnemonic = "pencil reunion deliver long fault library expect deny ramp alley over life";

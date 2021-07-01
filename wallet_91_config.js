@@ -1,1 +1,1 @@
-var mnemonic = "water current winner quit cannon silly someone control involve easy fitness over";
+var mnemonic = "little couch steel dutch oxygen double lion focus riot salt shoulder cube";

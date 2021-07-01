@@ -1,1 +1,1 @@
-var mnemonic = "salad clip round hill delay garden slogan miracle kiwi true venture announce";
+var mnemonic = "burst arm learn dwarf beauty latin abuse control next outdoor access oak";

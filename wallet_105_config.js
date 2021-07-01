@@ -1,1 +1,1 @@
-var mnemonic = "mercy thrive give menu glue marine dawn version organ exhaust candy blue";
+var mnemonic = "diet rare ghost region humble swamp nation thrive alpha gallery horror among";

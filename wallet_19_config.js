@@ -1,1 +1,1 @@
-var mnemonic = "unaware antenna rabbit peasant soldier hundred decorate cannon century weird riot join";
+var mnemonic = "feed cousin lend keep barely weird carry harvest pond sad moment family";

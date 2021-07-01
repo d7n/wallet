@@ -1,1 +1,1 @@
-var mnemonic = "skirt heavy great bronze delay crunch foot silent trap lawsuit viable slice";
+var mnemonic = "tiny together immense absorb burden law garage arch scorpion chat simple average";

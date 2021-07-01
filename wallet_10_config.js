@@ -1,1 +1,1 @@
-var mnemonic = "radio nice art ice admit box crack antique scale unaware bullet good";
+var mnemonic = "mistake wheel pilot act pepper black screen fault rain retire idle process";

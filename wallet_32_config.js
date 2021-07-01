@@ -1,1 +1,1 @@
-var mnemonic = "scene business chapter false cliff desk upgrade kit tornado such toward game";
+var mnemonic = "symbol office destroy must acid wine arrest solid absorb ostrich rapid seat";

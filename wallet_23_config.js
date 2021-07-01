@@ -1,1 +1,1 @@
-var mnemonic = "spike evolve pact arch slender ancient diamond drum casino donor between depart";
+var mnemonic = "little turtle uncover biology rich taxi funny vacant wool hip arch cruel";

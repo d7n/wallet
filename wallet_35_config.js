@@ -1,1 +1,1 @@
-var mnemonic = "rebel pet anchor try clever shoot frog sunny entire more eager round";
+var mnemonic = "expect ordinary license equip invite behave diet flight sphere busy update toe";

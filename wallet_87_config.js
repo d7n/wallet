@@ -1,1 +1,1 @@
-var mnemonic = "armed grid retreat consider gadget have affair guide burger capable yard rely";
+var mnemonic = "exhaust camera funny certain slam orbit reveal raw glow allow ride impulse";

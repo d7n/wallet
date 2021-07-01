@@ -1,1 +1,1 @@
-var mnemonic = "trophy tumble gain credit rotate inspire quote frost text chair twenty sock";
+var mnemonic = "horse bid spoon wall october vibrant minor add assume guitar document behind";

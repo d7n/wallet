@@ -1,1 +1,1 @@
-var mnemonic = "primary candy bone group antenna emotion main record sand common federal ocean";
+var mnemonic = "never situate stadium exit size impulse link deer crop verb glare sunset";

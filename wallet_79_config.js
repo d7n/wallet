@@ -1,1 +1,1 @@
-var mnemonic = "output pencil solar amused stick cushion road depart emerge type note decade";
+var mnemonic = "energy slice inherit argue vocal glad cactus hour mystery tag medal chalk";

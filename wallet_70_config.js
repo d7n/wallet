@@ -1,1 +1,1 @@
-var mnemonic = "jealous chicken pill live caught east ritual shove recipe fresh million useless";
+var mnemonic = "census bird lesson catalog next wish venue duty cushion club since victory";

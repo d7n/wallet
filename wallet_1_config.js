@@ -1,1 +1,1 @@
-var mnemonic = "inside pizza eagle way slam utility breeze beach symbol iron pride crowd";
+var mnemonic = "cheese lobster mother butter bullet typical outside pave wild layer fashion cover";

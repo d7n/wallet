@@ -1,1 +1,1 @@
-var mnemonic = "enact blame peace plate crane asthma extra winner come shop impulse month";
+var mnemonic = "tissue fossil cat blind laundry train despair toward domain physical various rabbit";
