@@ -1,1 +1,1 @@
-var mnemonic = "rough woman way october debris clean north globe say link ethics curtain";
+var mnemonic = "hour elder man strong trouble room build south swing august never island";

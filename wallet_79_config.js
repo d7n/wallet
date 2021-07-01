@@ -1,1 +1,1 @@
-var mnemonic = "square zone balcony coconut actor stumble arrow daughter game concert near street";
+var mnemonic = "unusual scan smart consider lyrics master decorate second false rural weasel judge";

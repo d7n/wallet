@@ -1,1 +1,1 @@
-var mnemonic = "walnut small tape media subject law bread turtle liar broom song endorse";
+var mnemonic = "mix guard ship space win ball awful cushion siren key grunt penalty";

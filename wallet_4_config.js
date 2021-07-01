@@ -1,1 +1,1 @@
-var mnemonic = "unlock online claim uniform lonely age sea hockey olive tell wire segment";
+var mnemonic = "crush problem scare blast talk record drum inherit reject attack industry theory";

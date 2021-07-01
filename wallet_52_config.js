@@ -1,1 +1,1 @@
-var mnemonic = "stomach produce hotel push verb liquid rack ostrich clarify surround arch relief";
+var mnemonic = "window craft solution typical space wink joke shift stone trip fabric draw";

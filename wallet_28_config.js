@@ -1,1 +1,1 @@
-var mnemonic = "liar often harbor injury panther regret giant tackle lottery electric hour surface";
+var mnemonic = "tenant album doll find interest property adapt sword sell bridge labor jazz";

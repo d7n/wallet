@@ -1,1 +1,1 @@
-var mnemonic = "jeans satoshi fiber drift purity door bounce frame brisk enough dash truth";
+var mnemonic = "burden critic body only law basic ozone young imitate monster window black";

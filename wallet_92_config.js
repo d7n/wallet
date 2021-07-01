@@ -1,1 +1,1 @@
-var mnemonic = "gorilla page grid hammer harbor news bacon patient album scale excuse raven";
+var mnemonic = "lonely moon battle social similar cousin ship salute brother cruise joke castle";

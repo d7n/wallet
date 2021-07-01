@@ -1,1 +1,1 @@
-var mnemonic = "avocado share render initial west outdoor milk raccoon beach share cabin adult";
+var mnemonic = "town sauce reveal flee extra wing sketch arrive know useless will salon";

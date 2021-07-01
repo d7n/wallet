@@ -1,1 +1,1 @@
-var mnemonic = "upgrade dune crush mansion fatal north fabric circle guilt excuse visit kangaroo";
+var mnemonic = "motion village whale giraffe when sausage describe armor obscure poem sausage obvious";

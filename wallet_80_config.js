@@ -1,1 +1,1 @@
-var mnemonic = "rally inflict nephew twenty tail faint total ball vintage screen action beauty";
+var mnemonic = "pole shop finish sock attend you catalog capital open crane tobacco differ";

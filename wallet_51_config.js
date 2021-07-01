@@ -1,1 +1,1 @@
-var mnemonic = "normal tooth lend monkey call topple lawsuit inside mouse ahead edit humble";
+var mnemonic = "swing glove quick story option teach basket scan across student skill sure";

@@ -1,1 +1,1 @@
-var mnemonic = "injury urban cup brave crazy loan swamp teach tag try carpet prosper";
+var mnemonic = "combine artwork silk shiver kitchen gold shoulder pitch level possible wealth unable";

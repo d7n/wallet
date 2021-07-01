@@ -1,1 +1,1 @@
-var mnemonic = "secret tell exile outdoor sleep enhance six three soon satoshi print cushion";
+var mnemonic = "wide echo banner barely decide employ patient miss milk surface wire cluster";

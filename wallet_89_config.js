@@ -1,1 +1,1 @@
-var mnemonic = "repeat usual celery sketch one recall saddle patch hammer absurd aisle luggage";
+var mnemonic = "divert pattern swarm vessel grit empty offer card limit canal drip risk";

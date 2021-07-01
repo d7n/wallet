@@ -1,1 +1,1 @@
-var mnemonic = "you crucial october way stone gloom blood document upper purpose armed axis";
+var mnemonic = "rose verb arrow maid good square cigar foot best magnet pass butter";

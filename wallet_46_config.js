@@ -1,1 +1,1 @@
-var mnemonic = "story nature sick hero body tree exhibit bronze buffalo someone clinic dynamic";
+var mnemonic = "helmet oblige census venue obscure december rebuild summer gloom board they avocado";

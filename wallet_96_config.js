@@ -1,1 +1,1 @@
-var mnemonic = "nose virtual worth cruel choose sugar imitate depth damage flavor science chat";
+var mnemonic = "blur unaware error code able hawk outdoor post alley thank confirm shell";

@@ -1,1 +1,1 @@
-var mnemonic = "person delay hamster token open mandate neglect birth lawsuit phone curious mother";
+var mnemonic = "invest area human liquid paddle during drive walnut when foil blur buffalo";

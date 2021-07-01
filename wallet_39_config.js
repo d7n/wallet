@@ -1,1 +1,1 @@
-var mnemonic = "february wire junior wire noble alarm shallow gadget abandon test volcano throw";
+var mnemonic = "file eyebrow casual soda winner steel weekend situate polar edit motor fun";

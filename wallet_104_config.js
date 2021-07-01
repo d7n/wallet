@@ -1,1 +1,1 @@
-var mnemonic = "garage hair service camera divorce symptom upon escape bring potato hard burger";
+var mnemonic = "balcony blur club race mean unknown six race uniform raw input junk";

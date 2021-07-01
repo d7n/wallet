@@ -1,1 +1,1 @@
-var mnemonic = "two swift orphan major rice drop short toilet deposit cloud abuse news";
+var mnemonic = "disease village genius release goat amateur wise birth evil minute citizen noble";

@@ -1,1 +1,1 @@
-var mnemonic = "obey hunt party purity amount flock shed polar vendor minor lock all";
+var mnemonic = "forest future session circle mouse jelly idea tired accident trumpet chalk rival";

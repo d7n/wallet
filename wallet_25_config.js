@@ -1,1 +1,1 @@
-var mnemonic = "kitten scan spice quantum oval balcony bonus world enlist step present strike";
+var mnemonic = "pelican juice human omit glad marriage casual tooth label have pyramid rocket";

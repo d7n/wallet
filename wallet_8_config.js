@@ -1,1 +1,1 @@
-var mnemonic = "journey strong orient sponsor agent sunny tent bid enhance apart addict concert";
+var mnemonic = "fee hollow bicycle strong oval tree ribbon will goat rocket naive general";

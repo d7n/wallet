@@ -1,1 +1,1 @@
-var mnemonic = "addict catalog sell smooth genre rent elephant shiver ramp lawn describe addict";
+var mnemonic = "major differ slogan author check output chest lonely royal dumb test tone";

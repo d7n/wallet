@@ -1,1 +1,1 @@
-var mnemonic = "car baby know journey frozen club slight stool slam mechanic dwarf recall";
+var mnemonic = "kidney noble vault balcony blade section web depth churn hope club destroy";

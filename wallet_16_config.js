@@ -1,1 +1,1 @@
-var mnemonic = "gaze child coast shoulder olive couple man exact front time idle ghost";
+var mnemonic = "deny autumn solution purse rude below track doctor guess alert circle post";

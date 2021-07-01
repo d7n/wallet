@@ -1,1 +1,1 @@
-var mnemonic = "trophy excess help year master verb grass vapor prison lend suit bright";
+var mnemonic = "stove minor base maximum next opera high car club satisfy meat one";

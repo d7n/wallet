@@ -1,1 +1,1 @@
-var mnemonic = "noble switch purity ask steel thumb pond waste diesel door source squeeze";
+var mnemonic = "coin drop bread nerve chimney smart multiply garage level thought rely pen";

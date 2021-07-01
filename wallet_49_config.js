@@ -1,1 +1,1 @@
-var mnemonic = "stable fly furnace olympic already gasp sugar recall ancient fantasy skill link";
+var mnemonic = "market program inhale sheriff cry laundry destroy ensure iron join arena desert";

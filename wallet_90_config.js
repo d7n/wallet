@@ -1,1 +1,1 @@
-var mnemonic = "shuffle dry spin exist shine victory lunch brisk project satisfy chapter bone";
+var mnemonic = "three satisfy promote borrow pause deny risk lawsuit trial safe indoor myself";

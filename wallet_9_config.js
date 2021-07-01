@@ -1,1 +1,1 @@
-var mnemonic = "faith olympic travel lounge climb material wolf clump enter flat thunder glare";
+var mnemonic = "around cross bid sort fish cry own affair solid mistake nephew company";

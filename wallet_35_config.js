@@ -1,1 +1,1 @@
-var mnemonic = "empty detect surge robot replace demise relief demise grant nephew indicate boring";
+var mnemonic = "pretty lift casual swarm primary pupil confirm regular urban antique wrist decorate";

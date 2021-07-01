@@ -1,1 +1,1 @@
-var mnemonic = "plug shine float ensure stage always loud speed crouch enemy release stumble";
+var mnemonic = "weekend base curve six crucial city open edge bamboo kind crew fine";

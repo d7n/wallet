@@ -1,1 +1,1 @@
-var mnemonic = "tumble glide govern hat clump shoe body trouble pull senior love disorder";
+var mnemonic = "include sea pill hurdle pet ranch release aim trash sort scout task";

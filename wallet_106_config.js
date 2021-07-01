@@ -1,1 +1,1 @@
-var mnemonic = "burst helmet army flash document fold same manual decrease alley dice echo";
+var mnemonic = "barely tip donkey thank empty rail rude sunset still wait collect sponsor";

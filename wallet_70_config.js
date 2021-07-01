@@ -1,1 +1,1 @@
-var mnemonic = "wonder opinion miss brain monitor tongue enlist cupboard salad weird online copy";
+var mnemonic = "custom matter champion include draft about short rug faculty enjoy gain always";

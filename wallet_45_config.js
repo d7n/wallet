@@ -1,1 +1,1 @@
-var mnemonic = "language inch view army aware season minimum mask vintage left slab artefact";
+var mnemonic = "indicate artwork scan mobile twenty speak athlete shift force oyster own region";

@@ -1,1 +1,1 @@
-var mnemonic = "similar force jaguar suffer winter clerk dentist frame helmet tube danger give";
+var mnemonic = "verb change honey early three walnut auto cactus glad wet people grid";

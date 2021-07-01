@@ -1,1 +1,1 @@
-var mnemonic = "network chaos call immune type earth joy chronic vault minor pool often";
+var mnemonic = "swallow wolf help wagon foster assist comic display artwork else view impact";

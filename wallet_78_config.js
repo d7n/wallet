@@ -1,1 +1,1 @@
-var mnemonic = "cricket pull spy total argue middle network kind burden salad theory entire";
+var mnemonic = "hen stone steel april team orphan stamp damp uncle silly viable zebra";

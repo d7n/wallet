@@ -1,1 +1,1 @@
-var mnemonic = "broccoli increase cactus suit raccoon merge field concert decrease debate dynamic canoe";
+var mnemonic = "fork rich hidden tired magic among exile rigid true spider feed fence";

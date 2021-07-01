@@ -1,1 +1,1 @@
-var mnemonic = "popular amazing case lizard access twenty sugar notice reward sight sleep subject";
+var mnemonic = "embody comic boring segment regular effort measure smile spare various canyon december";

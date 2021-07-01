@@ -1,1 +1,1 @@
-var mnemonic = "coach physical notable tenant thank void ill siege security number public snap";
+var mnemonic = "sponsor harvest media dwarf patrol stage occur wall sunny breeze lemon middle";

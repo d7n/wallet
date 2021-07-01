@@ -1,1 +1,1 @@
-var mnemonic = "step hole organ distance cherry razor shop organ vocal useless strategy pink";
+var mnemonic = "flag suit medal teach eager benefit meadow bracket solve ready sing latin";

@@ -1,1 +1,1 @@
-var mnemonic = "carry bacon struggle ceiling prosper session focus prevent cabin flush top celery";
+var mnemonic = "version play assault sunset cinnamon crawl wash source cream oyster disease risk";

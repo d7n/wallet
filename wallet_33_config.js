@@ -1,1 +1,1 @@
-var mnemonic = "gun candy recipe nerve state small caught anger exotic reduce rain pilot";
+var mnemonic = "riot orchard equip rule inform rough mesh banana afraid develop absorb blood";

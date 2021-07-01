@@ -1,1 +1,1 @@
-var mnemonic = "cattle expose seat artist cigar large thunder eagle brown autumn render biology";
+var mnemonic = "point mad lock road exhaust flame dog travel supply chuckle coach rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "cute carry organ ostrich provide amount pen whip nominee boost address duck";
+var mnemonic = "trophy aerobic army exchange photo fine person mystery castle balance grab trophy";

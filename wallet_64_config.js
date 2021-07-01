@@ -1,1 +1,1 @@
-var mnemonic = "print sure neither vanish portion margin unaware cinnamon trial abandon develop cliff";
+var mnemonic = "add sustain glare sponsor mouse vast hover abuse laptop seed measure warrior";

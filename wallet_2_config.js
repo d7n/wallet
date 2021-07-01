@@ -1,1 +1,1 @@
-var mnemonic = "thrive illness network prize language basket physical hundred pony gun annual beauty";
+var mnemonic = "sport blush maid guide drip brain phrase that caution moment jaguar promote";

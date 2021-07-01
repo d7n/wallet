@@ -1,1 +1,1 @@
-var mnemonic = "transfer primary entire vicious material vicious mosquito dance mercy much dune pistol";
+var mnemonic = "leopard broccoli castle twin dutch sibling evolve unveil crunch sphere high ugly";

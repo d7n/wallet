@@ -1,1 +1,1 @@
-var mnemonic = "notice upgrade effort weekend vibrant leopard nice eagle adjust farm emerge swear";
+var mnemonic = "this pen ticket melt slide rubber provide view screen cabbage acid dune";

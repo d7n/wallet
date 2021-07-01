@@ -1,1 +1,1 @@
-var mnemonic = "accident museum busy permit advice supreme glory trial source flat sight kit";
+var mnemonic = "use rude spy health fog piece absent quote expire truly fuel price";

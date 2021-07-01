@@ -1,1 +1,1 @@
-var mnemonic = "solar demise cost broken wave final recycle suit memory pluck steel monkey";
+var mnemonic = "version marriage common leader tree knee code sense first express flower relax";

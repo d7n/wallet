@@ -1,1 +1,1 @@
-var mnemonic = "hip merit shallow clog solid time legend light write clutch aim anger";
+var mnemonic = "endless pass visit proof victory meat canal appear grab into plug unit";

@@ -1,1 +1,1 @@
-var mnemonic = "zero ancient error barely rent mammal sing tuna fox laundry galaxy rain";
+var mnemonic = "dash inner stomach host near absorb decrease damage crash fox carry pottery";

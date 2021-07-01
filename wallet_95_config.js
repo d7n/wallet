@@ -1,1 +1,1 @@
-var mnemonic = "member learn achieve two finger calm organ movie earth know ladder exchange";
+var mnemonic = "jungle fog arctic example wall lock dinosaur song village then exact country";

@@ -1,1 +1,1 @@
-var mnemonic = "forum napkin odor lab mass torch busy discover marble change image wool";
+var mnemonic = "dynamic proud between trap chicken abstract usage strong advice phrase double pole";

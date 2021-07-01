@@ -1,1 +1,1 @@
-var mnemonic = "tomato october color hat scatter cost vocal fiscal enter floor mule wisdom";
+var mnemonic = "pledge flight punch turtle column category adult dinner version wasp put manual";

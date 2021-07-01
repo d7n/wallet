@@ -1,1 +1,1 @@
-var mnemonic = "betray luxury essence melody party fashion topic bid sentence sentence trend awkward";
+var mnemonic = "connect cover initial crisp galaxy card business result transfer scrap giraffe ozone";

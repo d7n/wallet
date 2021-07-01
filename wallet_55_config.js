@@ -1,1 +1,1 @@
-var mnemonic = "wish marble swim range film category ladder extra ask canyon crucial history";
+var mnemonic = "shed team agree opinion cat citizen pill worry long song oval raise";

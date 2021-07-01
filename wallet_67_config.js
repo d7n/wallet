@@ -1,1 +1,1 @@
-var mnemonic = "umbrella industry lounge crazy artwork suit bean club unusual monster fork rich";
+var mnemonic = "bridge notable sleep method typical tissue bullet envelope then derive decrease merge";

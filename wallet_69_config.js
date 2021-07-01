@@ -1,1 +1,1 @@
-var mnemonic = "shove ride census pitch ability surprise helmet chat lend shove double amateur";
+var mnemonic = "space fever purity quarter regret era caught tattoo next clap dose bamboo";

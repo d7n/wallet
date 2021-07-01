@@ -1,1 +1,1 @@
-var mnemonic = "kitchen middle fringe perfect enrich palm cricket double figure property across absurd";
+var mnemonic = "unusual subject armed dinosaur balance elegant hen riot lyrics human token shrimp";

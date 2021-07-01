@@ -1,1 +1,1 @@
-var mnemonic = "custom couple eager cross admit warm enhance peasant chalk gloom file nest";
+var mnemonic = "cup soon code solid bulk journey ecology radio click peasant limb neglect";

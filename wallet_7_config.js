@@ -1,1 +1,1 @@
-var mnemonic = "because divert various chef smart fancy radio nominee sun early quote drink";
+var mnemonic = "student meat symptom water quick tragic bargain bus jelly miracle cricket globe";

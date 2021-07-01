@@ -1,1 +1,1 @@
-var mnemonic = "ivory inform cram color robot point review other pig enforce wild tomorrow";
+var mnemonic = "siege try equal naive blade hockey honey fire level pact utility vague";

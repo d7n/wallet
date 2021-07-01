@@ -1,1 +1,1 @@
-var mnemonic = "vast lazy void mesh hope have cruise behave staff energy connect paper";
+var mnemonic = "estate short foot hen grief cattle tell wool include raise race ice";

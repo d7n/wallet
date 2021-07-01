@@ -1,1 +1,1 @@
-var mnemonic = "cradle sail person wasp unhappy bench whale chaos chunk always joke nature";
+var mnemonic = "assist tip thought twist certain frost there plug short lumber subject table";

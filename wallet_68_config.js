@@ -1,1 +1,1 @@
-var mnemonic = "scare blood veteran differ volcano ocean wear erupt dice script much object";
+var mnemonic = "width property slush smart blue today near mention twin produce corn tail";

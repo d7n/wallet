@@ -1,1 +1,1 @@
-var mnemonic = "close emerge year sponsor correct mushroom thumb exit acquire crater course camera";
+var mnemonic = "usage badge wife mechanic abstract trophy tattoo addict short husband post point";

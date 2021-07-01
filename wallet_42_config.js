@@ -1,1 +1,1 @@
-var mnemonic = "idea burden jacket report copper first hold deposit toe protect turkey citizen";
+var mnemonic = "never tilt peasant summer vote improve treat oval sting shaft start dirt";

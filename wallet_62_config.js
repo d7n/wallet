@@ -1,1 +1,1 @@
-var mnemonic = "chase crane flock plastic lens guess effort outdoor trophy ring worry motor";
+var mnemonic = "exist ketchup cereal fresh impulse own embody pudding increase junior robust world";

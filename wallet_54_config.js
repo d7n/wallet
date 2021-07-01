@@ -1,1 +1,1 @@
-var mnemonic = "summer rain inside ceiling twenty paddle design student topple earth guess surface";
+var mnemonic = "torch install concert dilemma mechanic require morning film borrow clay total stumble";

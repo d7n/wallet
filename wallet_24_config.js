@@ -1,1 +1,1 @@
-var mnemonic = "alarm sight desert gossip raw soccer initial nut amused episode deal lawn";
+var mnemonic = "search method hat inhale time lend ski melt text bike embody hazard";

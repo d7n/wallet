@@ -1,1 +1,1 @@
-var mnemonic = "give foot hand popular country fork artwork dream loop hamster tube enroll";
+var mnemonic = "february jealous jewel vicious tool cake fire panther muffin remain exact tube";

@@ -1,1 +1,1 @@
-var mnemonic = "way debris cute tribe faith stem admit then warfare ready correct frozen";
+var mnemonic = "enjoy captain valve absent remember river illness mystery rather coral few stuff";

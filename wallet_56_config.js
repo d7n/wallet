@@ -1,1 +1,1 @@
-var mnemonic = "version hidden duck scatter autumn rare merry basket delay view grit roast";
+var mnemonic = "excuse few coyote small planet sister tobacco already seat title custom gospel";

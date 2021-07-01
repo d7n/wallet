@@ -1,1 +1,1 @@
-var mnemonic = "dilemma popular weather smile legend throw slight taxi swing promote shine attack";
+var mnemonic = "foam diesel alien aisle toast gift wife song chair space final satisfy";

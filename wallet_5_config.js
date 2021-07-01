@@ -1,1 +1,1 @@
-var mnemonic = "coach when swap crash opera area second relief upgrade wood open echo";
+var mnemonic = "reduce tattoo deal recycle usage soccer offer rather news evil fiscal pluck";

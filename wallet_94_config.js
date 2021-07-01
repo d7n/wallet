@@ -1,1 +1,1 @@
-var mnemonic = "detect used fossil field vessel height swap capable satoshi copy width aunt";
+var mnemonic = "boring service voyage flash cheap obvious equip scheme relax unknown use pistol";

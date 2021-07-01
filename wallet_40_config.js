@@ -1,1 +1,1 @@
-var mnemonic = "accuse prize lunch jacket upset insane patrol sweet strategy bright surround large";
+var mnemonic = "fold cigar upon around easy confirm cute viable snap flight donate benefit";

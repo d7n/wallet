@@ -1,1 +1,1 @@
-var mnemonic = "century rigid airport wrestle file order curtain tennis whisper science ensure depend";
+var mnemonic = "shadow solution come balcony debris abstract museum lottery vacuum decide usual bamboo";

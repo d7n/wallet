@@ -1,1 +1,1 @@
-var mnemonic = "diesel opinion accuse diagram leopard inside run flee bridge half regret mystery";
+var mnemonic = "vapor weapon inner network unfold payment vital require shrug zoo glue this";

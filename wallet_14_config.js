@@ -1,1 +1,1 @@
-var mnemonic = "bench erupt protect cushion beef solve similar soda bright grunt tired bachelor";
+var mnemonic = "weird vast lift mouse sausage print future raven weapon retreat ball horn";

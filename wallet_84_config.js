@@ -1,1 +1,1 @@
-var mnemonic = "hint attract assist visit sausage border lazy furnace reduce aerobic offer bone";
+var mnemonic = "permit kiwi pattern soccer soccer problem luggage stumble spy enact cost where";

@@ -1,1 +1,1 @@
-var mnemonic = "license alien oppose letter vacuum exclude survey scorpion rose health exit void";
+var mnemonic = "muscle ride speak virtual knife chapter warrior cash canoe issue tone recall";
