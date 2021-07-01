@@ -1,1 +1,1 @@
-var mnemonic = "decorate front suit win cost artist settle avoid conduct purpose model laptop";
+var mnemonic = "spike evolve pact arch slender ancient diamond drum casino donor between depart";

@@ -1,1 +1,1 @@
-var mnemonic = "base fish forest side exercise dinosaur salt crane smart mosquito tobacco record";
+var mnemonic = "denial kingdom wool pipe whip country sudden youth maple vessel leopard surge";

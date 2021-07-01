@@ -1,1 +1,1 @@
-var mnemonic = "salute awesome asthma crane tree net kiwi favorite fiscal merry simple worth";
+var mnemonic = "vendor invite margin cake mountain soda industry goddess trophy news off express";

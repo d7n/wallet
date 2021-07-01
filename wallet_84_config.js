@@ -1,1 +1,1 @@
-var mnemonic = "snap super intact pioneer voyage clog universe tilt room other company item";
+var mnemonic = "frown mammal little sorry cancel danger hole desert exist mosquito miracle usage";

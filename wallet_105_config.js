@@ -1,1 +1,1 @@
-var mnemonic = "embark day owner avoid lake multiply easy merit you property bargain staff";
+var mnemonic = "mercy thrive give menu glue marine dawn version organ exhaust candy blue";

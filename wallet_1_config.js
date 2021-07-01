@@ -1,1 +1,1 @@
-var mnemonic = "sing patch link prison ozone improve desert novel interest similar jazz pool";
+var mnemonic = "inside pizza eagle way slam utility breeze beach symbol iron pride crowd";

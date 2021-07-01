@@ -1,1 +1,1 @@
-var mnemonic = "similar replace always slogan label void bless receive moon give neglect valley";
+var mnemonic = "spray similar cliff oven inmate network shallow plate ball alien chronic purchase";

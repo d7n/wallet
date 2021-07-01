@@ -1,1 +1,1 @@
-var mnemonic = "tube gesture unfair subject train noise ladder comic wrong parent merit cereal";
+var mnemonic = "element clarify error armor road used south smoke strategy tackle crystal dog";

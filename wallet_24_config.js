@@ -1,1 +1,1 @@
-var mnemonic = "fancy test measure replace tooth police company expire draft soap hat lesson";
+var mnemonic = "canoe divide axis basic flower priority dynamic shrug pigeon coil animal fold";

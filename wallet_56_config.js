@@ -1,1 +1,1 @@
-var mnemonic = "acoustic two pulp neither crop purpose tragic electric sudden mistake magic afraid";
+var mnemonic = "column clay core cereal almost dynamic region tenant identify merry arrive push";

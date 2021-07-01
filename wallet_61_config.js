@@ -1,1 +1,1 @@
-var mnemonic = "easy swing wasp brown brand kite guess trip simple caught zoo quit";
+var mnemonic = "viable wealth together alarm mirror invite detect toast drift disagree small width";

@@ -1,1 +1,1 @@
-var mnemonic = "theme fetch receive tattoo trust script fun about inmate banner select abandon";
+var mnemonic = "notice brick ability energy hybrid sleep draft sad eager runway dice visual";

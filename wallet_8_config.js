@@ -1,1 +1,1 @@
-var mnemonic = "announce surge hip steel usage ketchup fault large entire circle audit across";
+var mnemonic = "salad clip round hill delay garden slogan miracle kiwi true venture announce";

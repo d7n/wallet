@@ -1,1 +1,1 @@
-var mnemonic = "own swift train sun merge rib all boat carry return paper patient";
+var mnemonic = "dish trim indicate music spend corn behave oval biology goose matter neck";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard prosper text midnight goat panther toy stay panda battle split cart";
+var mnemonic = "either wage olive harbor fresh close flower select lift car bring void";

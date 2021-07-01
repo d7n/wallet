@@ -1,1 +1,1 @@
-var mnemonic = "drop cake wave assist sauce blood front able audit quote neglect autumn";
+var mnemonic = "fancy slot anger arrest magnet arrange match ship beach click seek aerobic";

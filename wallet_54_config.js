@@ -1,1 +1,1 @@
-var mnemonic = "gloom spike gather garden upset thrive rose neck arch brave cool blood";
+var mnemonic = "come pluck gospel spare success position sight smooth scan rate pair clutch";

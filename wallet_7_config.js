@@ -1,1 +1,1 @@
-var mnemonic = "legal empower aisle harvest body asthma funny lawsuit misery sugar view decline";
+var mnemonic = "student close seat donor bread angle meadow lizard crisp cost family sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "useful emerge horror trip draft drink license weasel hobby sibling weekend student";
+var mnemonic = "ticket matrix nest soda confirm decrease shock tray spot unknown rose impulse";

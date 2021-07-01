@@ -1,1 +1,1 @@
-var mnemonic = "shell slush wolf solution misery extra elephant state stage rapid master dwarf";
+var mnemonic = "wreck axis own hollow horse success squirrel opera response wood absent curve";

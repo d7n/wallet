@@ -1,1 +1,1 @@
-var mnemonic = "before spin merit cat ugly bread give ivory uncle drip weapon concert";
+var mnemonic = "analyst select soul exit into spring bracket champion deputy tobacco problem sport";

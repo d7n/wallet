@@ -1,1 +1,1 @@
-var mnemonic = "lava clog plunge endorse solution topic truck someone leisure dismiss weasel ghost";
+var mnemonic = "erosion fringe truth equal snack acquire fever thank dove inflict test van";

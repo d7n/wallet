@@ -1,1 +1,1 @@
-var mnemonic = "squeeze talk often ramp village device woman lift domain drink what layer";
+var mnemonic = "hard diagram sail ensure people welcome glue height coast profit stereo network";

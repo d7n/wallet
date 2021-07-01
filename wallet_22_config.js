@@ -1,1 +1,1 @@
-var mnemonic = "author seminar name surround weather ozone drip zero turkey raise edit nephew";
+var mnemonic = "nature ready wolf minor sniff program any fancy quote give embody weapon";

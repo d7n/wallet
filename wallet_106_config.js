@@ -1,1 +1,1 @@
-var mnemonic = "neither rigid taste mutual envelope diary casino fluid garage limit jeans shed";
+var mnemonic = "enrich stairs crane ranch brave once rough course cushion float candy arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze poem aware bean conduct wonder crowd donor there connect mammal divorce";
+var mnemonic = "shaft body energy bulb size frequent false scan vault green quick cherry";

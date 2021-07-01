@@ -1,1 +1,1 @@
-var mnemonic = "surround vote mobile sense curtain guess pole calm angle idle delay still";
+var mnemonic = "comfort pigeon arrow know toward much fashion client father drill favorite convince";

@@ -1,1 +1,1 @@
-var mnemonic = "proud use ivory sunset spawn where analyst wink suffer stove ball outside";
+var mnemonic = "fat knee tooth helmet grass mosquito latin there affair blast extend title";

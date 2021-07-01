@@ -1,1 +1,1 @@
-var mnemonic = "crumble sniff wild left fold people color license cradle three until early";
+var mnemonic = "consider mammal brass story scan height erase rule hybrid sad liberty street";

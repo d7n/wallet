@@ -1,1 +1,1 @@
-var mnemonic = "rib ignore also sport ripple young friend chalk dutch recall gather shed";
+var mnemonic = "island donkey flavor alpha insect scrap select cause dove speed motion sorry";

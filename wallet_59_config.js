@@ -1,1 +1,1 @@
-var mnemonic = "peasant kick black color crisp true arrest bundle shell modify neutral sudden";
+var mnemonic = "else flip fabric wrong parrot manual budget evidence slender moral garbage shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "portion vacant step fresh warm gossip ritual guilt anger credit license tonight";
+var mnemonic = "minute replace outdoor another uniform subway theme fitness shaft educate wise hold";

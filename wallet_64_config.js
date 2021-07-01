@@ -1,1 +1,1 @@
-var mnemonic = "kid stem lumber culture diesel repair denial sting twenty kid junior harsh";
+var mnemonic = "goat guitar security boy nose move hurry uncover also story roof pulp";

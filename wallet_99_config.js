@@ -1,1 +1,1 @@
-var mnemonic = "salon stadium ankle yellow armor frozen outdoor code kick wrap subway torch";
+var mnemonic = "myself industry roast minute blossom banner shed little hill uniform rich novel";

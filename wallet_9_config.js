@@ -1,1 +1,1 @@
-var mnemonic = "enable cotton enhance rally ankle trust impact name reward gap rubber before";
+var mnemonic = "boss dose van pear human defense crime razor film pretty muscle great";

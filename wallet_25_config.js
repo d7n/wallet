@@ -1,1 +1,1 @@
-var mnemonic = "raven toe alley scrap appear goose catalog that long fluid giant manage";
+var mnemonic = "drink snap loyal pepper fiber laundry opera knock torch describe slender depth";

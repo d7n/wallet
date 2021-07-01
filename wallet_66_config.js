@@ -1,1 +1,1 @@
-var mnemonic = "twenty actress resist acid safe pole fox uphold mom rice picnic gorilla";
+var mnemonic = "main scrub tank raw calm draw roof fan shallow end home forget";

@@ -1,1 +1,1 @@
-var mnemonic = "depth swear resource team gas pilot nasty spice that wrestle harsh cannon";
+var mnemonic = "tray drink vault render phone scene special wagon smooth useful super valve";

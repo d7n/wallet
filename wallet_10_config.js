@@ -1,1 +1,1 @@
-var mnemonic = "pepper fringe dust chuckle scout choice toward unhappy clerk barrel flip expose";
+var mnemonic = "radio nice art ice admit box crack antique scale unaware bullet good";

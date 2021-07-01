@@ -1,1 +1,1 @@
-var mnemonic = "crater gym trophy undo drive situate beef armor claw gravity certain shell";
+var mnemonic = "output pencil solar amused stick cushion road depart emerge type note decade";

@@ -1,1 +1,1 @@
-var mnemonic = "embark sport frog nuclear they elbow process vendor kit guess topic heart";
+var mnemonic = "skirt heavy great bronze delay crunch foot silent trap lawsuit viable slice";

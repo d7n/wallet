@@ -1,1 +1,1 @@
-var mnemonic = "name pioneer chicken scene found coyote radar trash noble win foil right";
+var mnemonic = "car design decrease mean wool hurry apple start design mom solve vivid";

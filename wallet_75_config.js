@@ -1,1 +1,1 @@
-var mnemonic = "panel prize bridge trust logic raven toilet anxiety heart auto verb envelope";
+var mnemonic = "supreme mass anger sphere explain foot endless wood enact frown enough between";

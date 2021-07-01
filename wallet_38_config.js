@@ -1,1 +1,1 @@
-var mnemonic = "spell forest rug diagram observe mammal quantum room rebel devote trigger embody";
+var mnemonic = "latin height trust spend duck rookie police force spend quiz hub ring";

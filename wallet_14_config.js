@@ -1,1 +1,1 @@
-var mnemonic = "cluster hard credit parade mixed firm elevator hip property reject keep cake";
+var mnemonic = "life faculty gossip code grab page man proud hood rough tornado fabric";

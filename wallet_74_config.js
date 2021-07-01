@@ -1,1 +1,1 @@
-var mnemonic = "online rail spy bus orange blush demand cook fortune unfair arrest state";
+var mnemonic = "vapor unknown exit exclude drift echo ice noise goddess garbage zone patient";

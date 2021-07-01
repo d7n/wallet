@@ -1,1 +1,1 @@
-var mnemonic = "debris comfort float lava palace neutral multiply series effort wrist month multiply";
+var mnemonic = "success theory slight enable palace reopen right toward moral picture cook cannon";

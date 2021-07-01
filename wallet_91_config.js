@@ -1,1 +1,1 @@
-var mnemonic = "agent original local blur foil awake update young leader update level blouse";
+var mnemonic = "water current winner quit cannon silly someone control involve easy fitness over";

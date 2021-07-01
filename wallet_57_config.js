@@ -1,1 +1,1 @@
-var mnemonic = "labor hidden leg exact inch custom gorilla visual surprise apple wife winner";
+var mnemonic = "bulb plate riot toss dentist expand among venue bike success toilet pave";

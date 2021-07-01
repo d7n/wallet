@@ -1,1 +1,1 @@
-var mnemonic = "soup entire job fever squirrel online birth town want rabbit spring appear";
+var mnemonic = "enact blame peace plate crane asthma extra winner come shop impulse month";

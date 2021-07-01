@@ -1,1 +1,1 @@
-var mnemonic = "cause ripple speak glory weird crisp require ginger salute call rhythm unhappy";
+var mnemonic = "scene business chapter false cliff desk upgrade kit tornado such toward game";

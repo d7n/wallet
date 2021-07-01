@@ -1,1 +1,1 @@
-var mnemonic = "cradle vendor impulse banana genre copy fog rail silent major execute web";
+var mnemonic = "employ face daring ribbon ranch void teach above dad kangaroo panic section";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone beyond funny motor describe purchase warfare bicycle violin raw regular legal";
+var mnemonic = "make parent virus dutch tip weasel tattoo slab income anger december trade";

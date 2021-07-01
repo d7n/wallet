@@ -1,1 +1,1 @@
-var mnemonic = "lonely permit scissors else aware usual bird summer produce parent cancel interest";
+var mnemonic = "armed someone owner nurse rule bracket setup amused report wealth gauge fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "black trust write grocery gold else reward female young lesson table bar";
+var mnemonic = "device stuff catalog surface oxygen tent winter real hope truly denial dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "clap cool mammal salute wire prevent control letter armor radar dose panda";
+var mnemonic = "hour spike bounce boring slam moon primary fog cave wait churn sting";

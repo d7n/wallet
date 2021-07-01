@@ -1,1 +1,1 @@
-var mnemonic = "profit envelope planet eye hip omit source digital paper fault region essence";
+var mnemonic = "verify eternal captain cricket modify avoid museum under educate loop powder alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic exist course wing ready same strategy milk theory pepper nerve sting";
+var mnemonic = "bracket pet pink real receive romance taxi any ignore decide forest forward";

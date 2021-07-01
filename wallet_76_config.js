@@ -1,1 +1,1 @@
-var mnemonic = "asthma isolate typical keep pact hill demise draft apple rack fork lottery";
+var mnemonic = "sun hobby arrange raccoon dragon cluster exile forest reform guilt nut cement";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter flock away mixture alley regret jump grant tip theme fruit journey";
+var mnemonic = "siege rain scrub fine warrior style winner whip art gallery north venture";

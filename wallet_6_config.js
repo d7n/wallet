@@ -1,1 +1,1 @@
-var mnemonic = "cruel matter start sound put dirt plastic illegal act brain loud metal";
+var mnemonic = "artwork impulse buddy draft win column soldier sign leg slab beyond gossip";

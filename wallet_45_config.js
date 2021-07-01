@@ -1,1 +1,1 @@
-var mnemonic = "shock praise repeat rocket client fiction garbage senior annual start side reduce";
+var mnemonic = "shoe local dumb barely gas shrimp speed slender slogan engine hawk reward";

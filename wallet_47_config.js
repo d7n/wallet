@@ -1,1 +1,1 @@
-var mnemonic = "gloom social found lonely small cherry giraffe trigger clarify zoo dragon protect";
+var mnemonic = "primary candy bone group antenna emotion main record sand common federal ocean";

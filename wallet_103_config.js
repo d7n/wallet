@@ -1,1 +1,1 @@
-var mnemonic = "chair level clean ketchup antenna day celery interest reduce joke clean witness";
+var mnemonic = "dinner option legend animal scout piece spatial alert blue open valley pistol";

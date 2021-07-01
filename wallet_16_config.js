@@ -1,1 +1,1 @@
-var mnemonic = "act follow sure belt quiz garage enforce common brass chuckle notable window";
+var mnemonic = "wing win basket monitor scissors behind outdoor try toward torch insect whip";

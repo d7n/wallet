@@ -1,1 +1,1 @@
-var mnemonic = "inject suit legend snap door clarify digital move easy document fiscal consider";
+var mnemonic = "vital twist leave genius coil tragic near plug blanket wish party pattern";

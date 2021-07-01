@@ -1,1 +1,1 @@
-var mnemonic = "vital tribe prepare misery hour scale atom able flush power rare spend";
+var mnemonic = "siege ecology ozone kitten physical song deal divide dutch merit beach rack";

@@ -1,1 +1,1 @@
-var mnemonic = "limb usual home sniff marriage green top wheat essence magic kingdom cram";
+var mnemonic = "inhale demand dizzy oven silly gauge soul mother border ostrich mango lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard ability point alarm midnight raven extra crystal front replace wasp tongue";
+var mnemonic = "dawn cage carpet weekend noise cup error true market maid pudding spice";

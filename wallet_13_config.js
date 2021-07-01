@@ -1,1 +1,1 @@
-var mnemonic = "insect involve any roast icon hope cross maze wire aerobic arctic artist";
+var mnemonic = "insect swim athlete few flat isolate lawn clutch lonely follow object step";

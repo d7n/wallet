@@ -1,1 +1,1 @@
-var mnemonic = "inch staff chair desk pioneer south more visit dial scheme please control";
+var mnemonic = "shoe escape waste broom jazz autumn radio slam cheap firm dilemma jeans";

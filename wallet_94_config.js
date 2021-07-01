@@ -1,1 +1,1 @@
-var mnemonic = "pledge hurt recall resource stove debate process pet west hockey gown east";
+var mnemonic = "angry again fashion today guide alpha salad dynamic anxiety author popular glove";

@@ -1,1 +1,1 @@
-var mnemonic = "blade scale reduce amazing way midnight wisdom service horn hello work switch";
+var mnemonic = "reject repair suit reveal robot mansion arrange spatial panther pole blade predict";

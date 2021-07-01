@@ -1,1 +1,1 @@
-var mnemonic = "city spell aware open barrel educate depend ignore length refuse toe olive";
+var mnemonic = "install any barrel drip snack analyst cycle faith occur target caught orphan";

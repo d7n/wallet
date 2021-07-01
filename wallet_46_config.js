@@ -1,1 +1,1 @@
-var mnemonic = "famous magic wire mammal gesture someone neutral gravity blouse long machine holiday";
+var mnemonic = "enroll negative april case famous bundle winner age shy awkward maid expire";

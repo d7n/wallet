@@ -1,1 +1,1 @@
-var mnemonic = "crowd noise dynamic pear erupt popular maple govern blue advice head brand";
+var mnemonic = "inmate skull civil inform metal illness night glow high text buzz hockey";

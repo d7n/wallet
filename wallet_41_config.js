@@ -1,1 +1,1 @@
-var mnemonic = "trade shy scan pizza nuclear click exhaust friend merit shine list dinner";
+var mnemonic = "ginger timber indoor metal cake shock party fence benefit dice visual install";

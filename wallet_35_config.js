@@ -1,1 +1,1 @@
-var mnemonic = "copy arch share recycle foam income boost stairs record vanish human shoot";
+var mnemonic = "rebel pet anchor try clever shoot frog sunny entire more eager round";

@@ -1,1 +1,1 @@
-var mnemonic = "receive elbow noodle gasp reward issue excite crime erosion wild make rose";
+var mnemonic = "armed grid retreat consider gadget have affair guide burger capable yard rely";

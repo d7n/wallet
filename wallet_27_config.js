@@ -1,1 +1,1 @@
-var mnemonic = "kiwi half seminar bundle innocent arctic sight celery when nephew sick practice";
+var mnemonic = "quality charge unusual among pony comfort act obvious pepper tube develop mosquito";

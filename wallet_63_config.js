@@ -1,1 +1,1 @@
-var mnemonic = "gallery track quantum home carry become mouse image wear daring cruel follow";
+var mnemonic = "expand road slow relief alter error sheriff spoil victory enjoy cliff average";

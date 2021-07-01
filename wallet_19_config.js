@@ -1,1 +1,1 @@
-var mnemonic = "panel secret body tone distance knife leave equip worry ozone frozen warrior";
+var mnemonic = "unaware antenna rabbit peasant soldier hundred decorate cannon century weird riot join";

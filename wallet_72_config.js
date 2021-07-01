@@ -1,1 +1,1 @@
-var mnemonic = "alpha garbage book glove duty verify police gallery shell wealth way cloud";
+var mnemonic = "guess injury hat priority air range simple quote boring bus phrase spell";

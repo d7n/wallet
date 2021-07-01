@@ -1,1 +1,1 @@
-var mnemonic = "daughter polar tobacco grocery unit veteran jazz embody barely online page monitor";
+var mnemonic = "derive donkey bachelor dash six frown chalk wealth skate bean eye awkward";

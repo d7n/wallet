@@ -1,1 +1,1 @@
-var mnemonic = "index essence birth phone hawk palm audit retire case blood hair language";
+var mnemonic = "bomb cupboard risk gold maximum hotel actual fragile human midnight ivory someone";

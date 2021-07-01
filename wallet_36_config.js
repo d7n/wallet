@@ -1,1 +1,1 @@
-var mnemonic = "audit gold image vital immune distance dress split pepper surface awful husband";
+var mnemonic = "usage apple siege citizen fold tomorrow method abandon diamond wealth chair base";

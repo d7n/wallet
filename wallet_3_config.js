@@ -1,1 +1,1 @@
-var mnemonic = "tail phone stuff admit peace upon radio mule advice strike maid tape";
+var mnemonic = "doll asset betray walnut wear onion faint jar differ humor physical april";

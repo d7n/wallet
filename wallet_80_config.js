@@ -1,1 +1,1 @@
-var mnemonic = "slogan broken opera keep vault duck negative auto assist abstract extra gun";
+var mnemonic = "refuse country apart half powder report keen leg since version perfect alcohol";

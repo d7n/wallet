@@ -1,1 +1,1 @@
-var mnemonic = "various post fashion update fame hockey sun glory relief derive dilemma term";
+var mnemonic = "jealous chicken pill live caught east ritual shove recipe fresh million useless";

@@ -1,1 +1,1 @@
-var mnemonic = "short silly robot jungle swallow column image weapon owner ozone club luggage";
+var mnemonic = "believe tornado comic pool taste color message pave example capital lizard squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "exile bone remind own where bullet disagree light fame bus skin volume";
+var mnemonic = "ecology amount panther normal modify general company struggle noble border yellow asset";
