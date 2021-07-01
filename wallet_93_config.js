@@ -1,1 +1,1 @@
-var mnemonic = "series attitude become wrap warm month alter vehicle copper avocado claw method";
+var mnemonic = "question hand seat ridge skate beach poem critic slow mistake ice table";

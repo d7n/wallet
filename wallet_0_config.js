@@ -1,1 +1,1 @@
-var mnemonic = "object fence ridge like zebra orbit choice delay bench achieve boost key";
+var mnemonic = "barrel huge guilt onion hold drift disorder hand key exercise promote affair";

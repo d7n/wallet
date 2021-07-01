@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur zero story hedgehog simple sorry initial soft hospital involve sing theme";
+var mnemonic = "ritual midnight rely load wing license absent ensure swim emerge noble reduce";

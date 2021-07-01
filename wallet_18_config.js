@@ -1,1 +1,1 @@
-var mnemonic = "dignity mix remain spring write eager valid able doll sauce use blossom";
+var mnemonic = "calm result scare erase current knee spike know margin alarm stand eager";

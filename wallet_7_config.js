@@ -1,1 +1,1 @@
-var mnemonic = "lion neck project pupil nerve seat that magnet timber excess two aisle";
+var mnemonic = "whip language scare claim garage violin tumble frozen advance gate place bone";

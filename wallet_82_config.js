@@ -1,1 +1,1 @@
-var mnemonic = "moon way gauge moral position arrive hundred creek dinosaur choose comfort melody";
+var mnemonic = "drive mouse pig derive pear happy helmet appear wrist truly enter stock";

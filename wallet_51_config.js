@@ -1,1 +1,1 @@
-var mnemonic = "live keen digital chuckle tube sting mosquito seven figure coin arctic wrestle";
+var mnemonic = "whale cook need flag virus theory raw basket where resist dune solve";

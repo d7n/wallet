@@ -1,1 +1,1 @@
-var mnemonic = "decorate desk glimpse awful derive upgrade dice fly parrot praise mango small";
+var mnemonic = "path road crowd action gospel aim useful picture duck pear swallow awake";

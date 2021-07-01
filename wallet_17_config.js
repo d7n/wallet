@@ -1,1 +1,1 @@
-var mnemonic = "nasty daughter lunch breeze dress sing left pass drink can cabin museum";
+var mnemonic = "digital baby awful super mobile senior want duty jewel melody size dune";

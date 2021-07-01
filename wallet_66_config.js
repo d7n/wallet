@@ -1,1 +1,1 @@
-var mnemonic = "blood crowd athlete cave gauge tent offer almost shrug sense cruise distance";
+var mnemonic = "razor any pear ordinary try update above main cool adapt rude behind";

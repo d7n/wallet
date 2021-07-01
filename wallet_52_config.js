@@ -1,1 +1,1 @@
-var mnemonic = "rhythm cart crater news cliff pudding task era cost someone lawn merge";
+var mnemonic = "budget inflict switch fly neglect copy enough pencil quarter same surprise pet";

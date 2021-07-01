@@ -1,1 +1,1 @@
-var mnemonic = "stone wife alien adapt fire swear excuse dose fire rebuild enhance believe";
+var mnemonic = "pool they enter diet nephew aspect impulse screen usual dragon talent cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "valley album cruel next wave pistol ski morning link private sail option";
+var mnemonic = "palm sudden zoo dice erase nose fortune suit menu tragic city tragic";

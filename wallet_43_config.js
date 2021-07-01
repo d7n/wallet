@@ -1,1 +1,1 @@
-var mnemonic = "unit faint cricket explain use tooth skin simple hunt spirit solar during";
+var mnemonic = "patient super spread paddle indoor friend arena trend armed either bind aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp clinic voyage nephew reveal spoil coyote ritual small fluid crop stem";
+var mnemonic = "tube coach grocery student sketch million ten either curious girl artwork purse";

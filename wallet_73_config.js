@@ -1,1 +1,1 @@
-var mnemonic = "twelve decade toddler artefact train long mesh avoid toward digital card employ";
+var mnemonic = "whale equal pulp gate trim salt valid prosper beyond sphere lunch erode";

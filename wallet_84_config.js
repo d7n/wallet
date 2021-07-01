@@ -1,1 +1,1 @@
-var mnemonic = "hamster pond ten canvas fork afraid elephant wall stairs clarify hold tuna";
+var mnemonic = "spend stereo attitude clown ready bleak guitar space bar code concert pole";

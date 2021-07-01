@@ -1,1 +1,1 @@
-var mnemonic = "raccoon fluid napkin various isolate danger always brisk argue toilet live genre";
+var mnemonic = "oblige ostrich result fashion people rely tunnel ordinary alone kiss sound uncle";

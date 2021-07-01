@@ -1,1 +1,1 @@
-var mnemonic = "powder unfair lumber pony fall proud bulk guess left sun impact flower";
+var mnemonic = "fog arena voice nominee sure blush age wave father clay barely brush";

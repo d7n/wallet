@@ -1,1 +1,1 @@
-var mnemonic = "disorder leopard lens plastic future amount imitate upgrade witness unveil barrel upper";
+var mnemonic = "neck put gate draft twelve cost fruit lottery patch monkey nice box";

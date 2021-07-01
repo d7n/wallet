@@ -1,1 +1,1 @@
-var mnemonic = "motion wasp cluster rule goose nice fabric virus hunt danger beyond crush";
+var mnemonic = "garden maximum ski bullet bone lounge churn canal curtain soon twelve crop";

@@ -1,1 +1,1 @@
-var mnemonic = "sample satoshi produce junk other first beach square rose innocent finish maximum";
+var mnemonic = "elbow whip prize wedding off feed club issue prevent marine balcony scatter";

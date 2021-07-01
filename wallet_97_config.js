@@ -1,1 +1,1 @@
-var mnemonic = "holiday couple park palm emotion brush image saddle novel erase amused arena";
+var mnemonic = "lunar orphan climb embody misery aunt defense enemy time fatigue over proof";

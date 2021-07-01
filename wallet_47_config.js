@@ -1,1 +1,1 @@
-var mnemonic = "author solve small undo feel humor culture sad flight kidney bronze sure";
+var mnemonic = "crush farm economy summer lounge right tower immune brush gaze gift name";

@@ -1,1 +1,1 @@
-var mnemonic = "blame among someone engine mobile gentle canyon victory drink giraffe agree modify";
+var mnemonic = "possible snap laundry eternal wash jungle guitar rice magic behave rail vibrant";

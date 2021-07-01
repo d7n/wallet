@@ -1,1 +1,1 @@
-var mnemonic = "tiger vivid rack sample west hidden keen spider monster chicken divert strong";
+var mnemonic = "token raccoon lounge rich record mom hidden radio retire lock universe squirrel";

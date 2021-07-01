@@ -1,1 +1,1 @@
-var mnemonic = "gospel much issue undo engage grant thunder peanut fox gloom puppy ball";
+var mnemonic = "frost myth steak leave notice mind tiny quality wonder twelve seek shuffle";

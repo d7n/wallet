@@ -1,1 +1,1 @@
-var mnemonic = "rabbit shield conduct silly deny wool hire once raw service work space";
+var mnemonic = "bargain agent slot chalk special ticket weapon swear torch typical sign board";

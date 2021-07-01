@@ -1,1 +1,1 @@
-var mnemonic = "scatter round lounge person tourist addict monkey emotion coin awful aunt crouch";
+var mnemonic = "lyrics truly since reform ozone impact shoot since city sugar dinner green";

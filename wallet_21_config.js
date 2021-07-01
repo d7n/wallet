@@ -1,1 +1,1 @@
-var mnemonic = "banner giraffe august canal vivid swing spirit impulse tuna together doll peace";
+var mnemonic = "toward trend melt fiber accident scrub brother surge ski frog surround achieve";

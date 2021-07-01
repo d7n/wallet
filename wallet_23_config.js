@@ -1,1 +1,1 @@
-var mnemonic = "wall choose cushion prison wealth ginger rare repeat talk bike level humble";
+var mnemonic = "answer soldier dynamic december voice column conduct churn diet credit make vessel";

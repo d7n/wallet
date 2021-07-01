@@ -1,1 +1,1 @@
-var mnemonic = "crucial tilt globe engage celery family weather hard wild decline age occur";
+var mnemonic = "have fish stadium kingdom suit affair brave poet hill stuff olympic aware";

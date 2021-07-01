@@ -1,1 +1,1 @@
-var mnemonic = "claim now post ready network culture swarm acquire foil spend flush idle";
+var mnemonic = "evoke aspect squeeze mammal happy letter winter hole elegant bubble wage salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "raise minimum chapter identify educate drop farm skirt match peasant sauce drift";
+var mnemonic = "smooth off camera exile parent wisdom dune else solve budget claw ivory";

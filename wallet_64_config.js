@@ -1,1 +1,1 @@
-var mnemonic = "panda curve fortune that cinnamon soccer winner play luggage verb ceiling sell";
+var mnemonic = "process tumble stage vault rent sting wear hamster grit smart squeeze modify";

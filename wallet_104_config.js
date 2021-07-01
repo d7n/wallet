@@ -1,1 +1,1 @@
-var mnemonic = "whale congress city circle jaguar ordinary inspire taxi crater leave roast tower";
+var mnemonic = "wide surge cruel pass pill sell beach spy coffee tank type fault";

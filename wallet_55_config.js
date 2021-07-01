@@ -1,1 +1,1 @@
-var mnemonic = "bounce evidence skill spot ostrich sport daughter lyrics tragic net lend defy";
+var mnemonic = "hockey omit garment town address despair peasant vast elevator stuff swear nuclear";

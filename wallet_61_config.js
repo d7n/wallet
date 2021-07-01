@@ -1,1 +1,1 @@
-var mnemonic = "simple code awake exhibit barrel find lion team venture liar excuse soldier";
+var mnemonic = "silent broken woman project panel endless chunk require awake ten rose notable";

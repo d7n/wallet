@@ -1,1 +1,1 @@
-var mnemonic = "runway tobacco poverty rookie risk menu vacant wild term lunch universe garden";
+var mnemonic = "success spray bunker practice clutch talent design vacuum peace garment evil element";

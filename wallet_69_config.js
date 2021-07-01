@@ -1,1 +1,1 @@
-var mnemonic = "olympic lesson achieve transfer calm ribbon lend hover news embark burden subway";
+var mnemonic = "increase tortoise odor sick sight pizza typical gentle million frog giraffe mobile";

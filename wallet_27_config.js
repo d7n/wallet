@@ -1,1 +1,1 @@
-var mnemonic = "return oblige churn medal volcano occur guitar celery neither quantum drive fun";
+var mnemonic = "regular term exclude boring normal cheese balance fiber slide hole false dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "year dust current sleep response toe walk giggle magic example parade wear";
+var mnemonic = "vapor message crack slender burst success frog jaguar grape nerve file bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "viable learn this potato visit tiny federal bus shoulder firm equal isolate";
+var mnemonic = "garment find ski milk steak truth damp snow earth neither duty force";

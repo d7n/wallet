@@ -1,1 +1,1 @@
-var mnemonic = "village weekend dawn dumb monitor silk gain split exercise foster cream side";
+var mnemonic = "width album bachelor live endorse eagle organ cruel renew rebel entire special";

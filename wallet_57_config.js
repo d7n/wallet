@@ -1,1 +1,1 @@
-var mnemonic = "stick depart element network monster wet farm narrow depart pelican online assault";
+var mnemonic = "junior vote same wolf arch vast bullet script visa oblige chef crisp";

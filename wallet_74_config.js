@@ -1,1 +1,1 @@
-var mnemonic = "license fence firm frost cloud steel silk below business unaware venture amateur";
+var mnemonic = "distance slush august better aim loud keen tuna copy future circle mobile";

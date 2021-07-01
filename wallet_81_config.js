@@ -1,1 +1,1 @@
-var mnemonic = "also sibling trial order height liberty concert vendor ancient sponsor captain aspect";
+var mnemonic = "practice observe noble magic bulb crazy seat unlock alarm festival lucky catch";

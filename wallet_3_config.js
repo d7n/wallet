@@ -1,1 +1,1 @@
-var mnemonic = "vast drama also supply utility teach below permit powder deposit uniform goddess";
+var mnemonic = "capital amount cube sad gain settle curious armed mercy silver public spare";

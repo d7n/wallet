@@ -1,1 +1,1 @@
-var mnemonic = "depend merge brush wide rather order obvious stable proof stem silly whisper";
+var mnemonic = "fever proof rebuild tomorrow lens vital hamster excuse lottery burst miracle emotion";

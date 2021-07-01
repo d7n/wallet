@@ -1,1 +1,1 @@
-var mnemonic = "bus because soap shift resemble three post force gate indoor scare jump";
+var mnemonic = "ankle taxi amazing swamp season melody junk word crater usage maid stamp";

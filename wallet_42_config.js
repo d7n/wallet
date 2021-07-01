@@ -1,1 +1,1 @@
-var mnemonic = "paddle chaos already fitness ring lizard creek idle funny refuse shaft anchor";
+var mnemonic = "bundle glue minimum catalog few crisp subject gentle typical naive person demand";

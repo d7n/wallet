@@ -1,1 +1,1 @@
-var mnemonic = "ski tissue umbrella found apology demand lottery jealous concert hospital account receive";
+var mnemonic = "slogan test baby mimic sing ball mixture spread crop salon shield someone";

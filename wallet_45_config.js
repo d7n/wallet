@@ -1,1 +1,1 @@
-var mnemonic = "patch lens rigid birth favorite sphere breeze zebra young piano grunt illegal";
+var mnemonic = "above palm mansion system witness glue human patient parade write menu able";

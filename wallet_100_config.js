@@ -1,1 +1,1 @@
-var mnemonic = "oxygen cram call balance click hand seat elder float design begin move";
+var mnemonic = "host electric design undo rookie measure silent waste conduct universe system lemon";

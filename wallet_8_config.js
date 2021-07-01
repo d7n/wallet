@@ -1,1 +1,1 @@
-var mnemonic = "novel indoor column yard issue roast battle slim crowd swamp cup fox";
+var mnemonic = "blossom trash play wisdom strike faint object client salon escape flock stamp";

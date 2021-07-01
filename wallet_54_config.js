@@ -1,1 +1,1 @@
-var mnemonic = "sudden piano code hen season heart south pepper sponsor rain banner ribbon";
+var mnemonic = "gorilla ankle horse talk ghost thumb ethics pill ladder vital physical such";

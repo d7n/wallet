@@ -1,1 +1,1 @@
-var mnemonic = "mother lounge purpose response raccoon height stumble where remove badge this sunny";
+var mnemonic = "answer tone brick offer course violin abstract uphold prison deal banana will";

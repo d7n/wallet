@@ -1,1 +1,1 @@
-var mnemonic = "assume fly error atom detect vivid quarter setup soul seven awake outdoor";
+var mnemonic = "mansion jewel logic wedding ensure clinic tank grain couch exact climb trophy";

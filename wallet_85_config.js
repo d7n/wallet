@@ -1,1 +1,1 @@
-var mnemonic = "rally engage coin ladder despair rally short pull mountain miss wish increase";
+var mnemonic = "culture aim retreat yellow group brother yellow lyrics hat coral hurdle fix";

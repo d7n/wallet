@@ -1,1 +1,1 @@
-var mnemonic = "close dad come obey mercy profit verb draw distance floor stand multiply";
+var mnemonic = "robot final occur bridge company coil cat quantum grief clay reopen enable";

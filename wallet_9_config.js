@@ -1,1 +1,1 @@
-var mnemonic = "nothing shed vendor weapon discover cage then cloth online useful love small";
+var mnemonic = "reduce east prepare device tide fix enjoy green humble twin hover client";

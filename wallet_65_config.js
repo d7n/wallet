@@ -1,1 +1,1 @@
-var mnemonic = "era provide float lesson sugar story manage unfold repeat remind clarify toy";
+var mnemonic = "grocery noble clown learn social front sword connect coil betray glance produce";

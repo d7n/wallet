@@ -1,1 +1,1 @@
-var mnemonic = "invite fringe belt sweet machine crush insane wink novel little enact couch";
+var mnemonic = "seven day sight velvet drastic indoor scan police worry hand hover foot";

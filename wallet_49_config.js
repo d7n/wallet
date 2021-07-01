@@ -1,1 +1,1 @@
-var mnemonic = "boring one orient neither soon left shock rare better cattle host clay";
+var mnemonic = "stumble manage view empty song labor frost spatial total region sign ranch";

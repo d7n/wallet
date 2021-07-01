@@ -1,1 +1,1 @@
-var mnemonic = "library civil egg remain cigar office borrow tomato direct random balcony crop";
+var mnemonic = "balance news erode curious paddle smoke defense rule balance bullet planet pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "pair license large scare attend plastic borrow marble latin culture half alone";
+var mnemonic = "hover thing elevator already game luxury tide slender document spell dune impulse";

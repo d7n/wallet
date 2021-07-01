@@ -1,1 +1,1 @@
-var mnemonic = "catalog tourist transfer ordinary crystal fever toast evil bar garment frown hope";
+var mnemonic = "system strong refuse aim mixture female clock mule clutch trap card below";

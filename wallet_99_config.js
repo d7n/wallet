@@ -1,1 +1,1 @@
-var mnemonic = "fit icon father bubble clarify virus awesome coral budget approve voyage solid";
+var mnemonic = "excess weird labor napkin element script wise proud inject pyramid strike erosion";

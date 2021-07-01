@@ -1,1 +1,1 @@
-var mnemonic = "virus joy tank horse smile bike program index axis ice nature anger";
+var mnemonic = "stick misery pitch learn rival meat gap arctic cheese noodle video year";

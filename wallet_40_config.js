@@ -1,1 +1,1 @@
-var mnemonic = "magic wheel shield genuine rose fiscal retire heart seat pull sick vacant";
+var mnemonic = "beef wrap jealous doll beach valid comfort giraffe sentence chimney urban prosper";

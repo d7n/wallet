@@ -1,1 +1,1 @@
-var mnemonic = "harbor act already still frown melt harvest kit verify dose antique silly";
+var mnemonic = "habit water flush vault explain heavy trim level half sugar fall lamp";

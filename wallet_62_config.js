@@ -1,1 +1,1 @@
-var mnemonic = "ride frame hospital gym nation wall hollow brass snap shrug depth absurd";
+var mnemonic = "people heavy salute cactus audit palm move olive fiber taxi useful dad";

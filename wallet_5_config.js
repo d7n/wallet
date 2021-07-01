@@ -1,1 +1,1 @@
-var mnemonic = "sibling already around roof memory apology toss mandate tag laptop meat title";
+var mnemonic = "assault fitness patient initial leave cement toss still term circle then crucial";

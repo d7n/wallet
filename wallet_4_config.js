@@ -1,1 +1,1 @@
-var mnemonic = "soccer grant bomb pattern deputy kangaroo must fury quantum news enter scene";
+var mnemonic = "drama provide option picnic want exhibit jealous area afford grit team romance";

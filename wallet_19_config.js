@@ -1,1 +1,1 @@
-var mnemonic = "present torch admit damage gap table deliver finger bridge tip nose market";
+var mnemonic = "axis rice caught stand lemon title reopen flower forum gadget unlock decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "gas bird lecture ahead actual cream host pyramid region clump task thrive";
+var mnemonic = "water window oak now diet enough rally edit main tilt close grass";

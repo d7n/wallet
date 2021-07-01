@@ -1,1 +1,1 @@
-var mnemonic = "unhappy derive tooth leader forum alone captain alcohol rate defense connect general";
+var mnemonic = "culture grab hunt seven cycle panther voice say student fine wagon repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken spin hair video athlete avocado advice more pony north chat salmon";
+var mnemonic = "absent rubber doctor bind loan tilt obtain peace fragile start youth dismiss";

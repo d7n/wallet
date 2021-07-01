@@ -1,1 +1,1 @@
-var mnemonic = "foil flock library hope federal surprise pet bus fault write fan bargain";
+var mnemonic = "number goddess medal donkey again spare erase wreck myself attack rose dress";

@@ -1,1 +1,1 @@
-var mnemonic = "method doll resource patch evil hover rigid nice emerge glimpse lab replace";
+var mnemonic = "solve kind birth eyebrow citizen float quit pizza poem pizza cart depend";

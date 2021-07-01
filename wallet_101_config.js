@@ -1,1 +1,1 @@
-var mnemonic = "same eagle provide erupt pear uncle tuition evolve vendor craft blanket scrap";
+var mnemonic = "alpha card dinosaur agree toilet village picnic skull enroll raw million envelope";

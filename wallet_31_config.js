@@ -1,1 +1,1 @@
-var mnemonic = "regret spoon celery fat bounce tuition album tell present genius rocket detail";
+var mnemonic = "panic census auction guess orient must march fat humble umbrella purse random";

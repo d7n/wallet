@@ -1,1 +1,1 @@
-var mnemonic = "argue lyrics scissors column cook rebuild neither game tooth nominee solid ill";
+var mnemonic = "lunar child blossom thrive derive palace today switch ready lunar plunge outside";

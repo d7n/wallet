@@ -1,1 +1,1 @@
-var mnemonic = "sure deputy museum move aim deal learn rather elbow knife wash stick";
+var mnemonic = "neglect desk congress awake useless essence pledge renew shrug loud boat woman";

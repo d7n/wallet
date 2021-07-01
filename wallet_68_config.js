@@ -1,1 +1,1 @@
-var mnemonic = "agree explain scissors bike sun always husband upon dial casual circle pioneer";
+var mnemonic = "purse humor awful plug young regret mother chaos mention craft scheme green";

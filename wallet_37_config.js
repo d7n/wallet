@@ -1,1 +1,1 @@
-var mnemonic = "giggle regret slab exist spoil identify kitten upgrade galaxy loud trust valid";
+var mnemonic = "sound warm crash uniform amateur paper flag attend hire during hint flat";

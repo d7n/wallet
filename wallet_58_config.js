@@ -1,1 +1,1 @@
-var mnemonic = "silly nation decorate ship gossip walnut provide miracle control notable fabric buzz";
+var mnemonic = "tissue file capable proof soul arctic patient mosquito melody oxygen obscure inspire";

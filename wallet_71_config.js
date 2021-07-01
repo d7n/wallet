@@ -1,1 +1,1 @@
-var mnemonic = "come cement drill course shoot marine member lottery script fire traffic panda";
+var mnemonic = "myself naive wine bronze raven lion obvious electric travel this wolf space";

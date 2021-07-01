@@ -1,1 +1,1 @@
-var mnemonic = "finish hammer joke ginger faculty reject open one black cheap bike hope";
+var mnemonic = "matter people solar pave paper moment venture bean match cruel loyal middle";

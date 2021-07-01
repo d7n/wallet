@@ -1,1 +1,1 @@
-var mnemonic = "script crash account math force moon view merge inform unaware tortoise holiday";
+var mnemonic = "convince east relief exile nurse door tumble yard same faculty melody thunder";

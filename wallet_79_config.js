@@ -1,1 +1,1 @@
-var mnemonic = "alone six february away sea wrong option can sunny famous ensure furnace";
+var mnemonic = "announce antenna destroy risk curtain riot beach flip medal kick course solid";

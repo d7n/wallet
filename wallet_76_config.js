@@ -1,1 +1,1 @@
-var mnemonic = "execute broken obscure solve finger hope absent cube judge daring danger bird";
+var mnemonic = "crystal fall become predict clarify second shrimp retreat acoustic simple junk depth";
