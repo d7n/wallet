@@ -1,1 +1,1 @@
-var mnemonic = "guard cruel hobby mobile chunk clay essence firm rookie apart supply cup";
+var mnemonic = "opera tunnel much awake alpha loop casino glare cool case replace milk";

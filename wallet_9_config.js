@@ -1,1 +1,1 @@
-var mnemonic = "column satisfy polar misery gown trigger next toast rely cannon control bike";
+var mnemonic = "jeans aware budget second grow end sea toy priority ceiling evil coast";

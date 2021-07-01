@@ -1,1 +1,1 @@
-var mnemonic = "surround flush surface situate assist scout energy warfare crystal trouble easy bracket";
+var mnemonic = "project fog mango grass foam search front rug keep original twice stick";

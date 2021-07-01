@@ -1,1 +1,1 @@
-var mnemonic = "grow swap flavor nice vanish adapt wife oval wagon model faith genre";
+var mnemonic = "rich tissue problem random net lucky mansion fit melt hat patrol ranch";

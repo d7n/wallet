@@ -1,1 +1,1 @@
-var mnemonic = "inspire property method trade depend shaft hammer flee bargain smooth honey case";
+var mnemonic = "word judge robot inmate mystery myself banner load visit gym please elevator";

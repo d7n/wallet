@@ -1,1 +1,1 @@
-var mnemonic = "keep federal elegant sun prosper video unaware radar custom wait asthma winter";
+var mnemonic = "drama control actress blue dirt spider blossom oyster copper crazy quick huge";

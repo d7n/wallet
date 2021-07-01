@@ -1,1 +1,1 @@
-var mnemonic = "very pepper usage axis vendor swamp supreme aerobic flock minute silly album";
+var mnemonic = "segment globe much shrug dentist pledge tongue remove swarm hip adult suffer";

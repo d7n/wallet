@@ -1,1 +1,1 @@
-var mnemonic = "deer book practice swamp icon fetch novel evoke symptom name void glue";
+var mnemonic = "hello dizzy drill odor bid oyster flash rally harsh penalty recycle author";

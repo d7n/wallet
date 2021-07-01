@@ -1,1 +1,1 @@
-var mnemonic = "camp spot rotate abuse crack renew tomorrow empty solar use quantum note";
+var mnemonic = "pelican slogan smooth increase race polar vicious easily clever maze normal pioneer";

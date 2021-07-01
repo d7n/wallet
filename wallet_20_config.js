@@ -1,1 +1,1 @@
-var mnemonic = "real glad silk phone finger educate fan orient alpha merry green escape";
+var mnemonic = "neglect arctic solid wool split one angry slender elbow walnut charge aisle";

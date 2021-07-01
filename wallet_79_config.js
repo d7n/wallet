@@ -1,1 +1,1 @@
-var mnemonic = "urge pipe notice income capable differ destroy planet this brisk gospel cluster";
+var mnemonic = "blossom enact barely safe can equal input swear cannon sock south check";

@@ -1,1 +1,1 @@
-var mnemonic = "before chunk blur loop donkey theory cool stone pepper polar near mad";
+var mnemonic = "found sort salon job wreck employ during mobile cool stool own recall";

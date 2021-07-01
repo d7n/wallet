@@ -1,1 +1,1 @@
-var mnemonic = "seven aspect choice club can result save submit famous prevent ride estate";
+var mnemonic = "property tube mirror sand hint daring hamster practice stuff film meat hazard";

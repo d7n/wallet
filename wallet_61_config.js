@@ -1,1 +1,1 @@
-var mnemonic = "health nut quarter never slush light chuckle hub wolf math cross actor";
+var mnemonic = "pool member math trigger park tunnel wife fee chief sea auto label";

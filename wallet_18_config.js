@@ -1,1 +1,1 @@
-var mnemonic = "liquid belt crisp cruel prosper mirror kite six prevent toss maid picnic";
+var mnemonic = "void health unveil away violin list rabbit wagon steel jaguar rough admit";

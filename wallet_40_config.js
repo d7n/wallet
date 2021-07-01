@@ -1,1 +1,1 @@
-var mnemonic = "flower regular hurry giraffe mountain roast twice sadness message language guess sister";
+var mnemonic = "embody music awake clay diamond elevator praise echo voyage legal hello lift";

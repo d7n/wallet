@@ -1,1 +1,1 @@
-var mnemonic = "permit drop balance burst fade club audit term axis concert mean peanut";
+var mnemonic = "state diary real cattle garlic remember patch exotic lunch knee replace consider";

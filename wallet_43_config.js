@@ -1,1 +1,1 @@
-var mnemonic = "buffalo mystery video material discover finger talent false width ocean unable duck";
+var mnemonic = "ten garage awful define antique note risk rare fresh absent during tail";

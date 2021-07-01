@@ -1,1 +1,1 @@
-var mnemonic = "torch draw clump rookie faculty help alcohol number fever side outside armed";
+var mnemonic = "purchase episode lobster picture access sister fault milk adjust make check almost";

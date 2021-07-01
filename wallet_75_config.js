@@ -1,1 +1,1 @@
-var mnemonic = "inquiry nut lesson citizen panther neutral scan expire stable skate shy ball";
+var mnemonic = "peace walk pipe start horse match truck hawk sock because affair extra";

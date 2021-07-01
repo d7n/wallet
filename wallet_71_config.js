@@ -1,1 +1,1 @@
-var mnemonic = "cricket lounge fringe patch plastic hand artist alarm heart move trap message";
+var mnemonic = "net tunnel venue mechanic luggage patient danger wagon paddle manage fine banner";

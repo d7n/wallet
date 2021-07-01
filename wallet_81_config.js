@@ -1,1 +1,1 @@
-var mnemonic = "welcome unveil couple viable brush virus tornado art property taxi follow token";
+var mnemonic = "rain slim tumble vital magic laugh creek double swear alcohol clinic build";

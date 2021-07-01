@@ -1,1 +1,1 @@
-var mnemonic = "essay mail vessel wide submit soup beyond remain lab page pepper off";
+var mnemonic = "invest bounce toe lion absent slide injury dawn robot twist disease middle";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous van verb bundle auto cigar swarm now bitter suspect sample another";
+var mnemonic = "notice end guitar melt path diary shop proof mirror degree girl error";

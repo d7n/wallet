@@ -1,1 +1,1 @@
-var mnemonic = "aisle luggage risk novel custom alien actual turn traffic resource open lyrics";
+var mnemonic = "know enact harsh shuffle useless frost method smart point hammer clerk trial";

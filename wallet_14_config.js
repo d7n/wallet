@@ -1,1 +1,1 @@
-var mnemonic = "salute token neutral limb original polar vibrant vintage mask elbow limit rich";
+var mnemonic = "deal collect vacuum image identify april uncle finish asset repair vapor forum";

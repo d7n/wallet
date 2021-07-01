@@ -1,1 +1,1 @@
-var mnemonic = "alley leopard visa essay lamp fragile fun leaf beauty whisper visit mask";
+var mnemonic = "cheese tuna virtual recipe loop dirt among aunt pumpkin bunker sniff spot";

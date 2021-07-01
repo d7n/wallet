@@ -1,1 +1,1 @@
-var mnemonic = "ocean tone rate valid balcony arm fault nuclear hen sure raise simple";
+var mnemonic = "caution canoe alley parent benefit hold smooth gas hint year knock door";

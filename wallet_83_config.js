@@ -1,1 +1,1 @@
-var mnemonic = "air satoshi problem cute moral heart scene pride client elephant piece way";
+var mnemonic = "farm reject orange female trap employ oyster harsh surprise voice abstract refuse";

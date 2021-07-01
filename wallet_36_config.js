@@ -1,1 +1,1 @@
-var mnemonic = "coral size man spice under shift dolphin visa provide repeat summer excess";
+var mnemonic = "liquid offer champion vacuum economy example reduce enhance arrest horse matter short";

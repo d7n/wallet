@@ -1,1 +1,1 @@
-var mnemonic = "beyond gold element ripple tape load peanut reflect bread boss bonus police";
+var mnemonic = "robust print lounge basic fresh violin lend crew theme action scissors repair";

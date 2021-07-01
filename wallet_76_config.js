@@ -1,1 +1,1 @@
-var mnemonic = "urge roast target spread abuse brush sign mention shrug inner warfare guitar";
+var mnemonic = "duck zero claim voice stuff engage vendor prepare solid circle hard banner";

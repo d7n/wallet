@@ -1,1 +1,1 @@
-var mnemonic = "genre across outside virus police worry advance seed few final age wood";
+var mnemonic = "pottery evil venture image assault found merry close govern utility liquid high";

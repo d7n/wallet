@@ -1,1 +1,1 @@
-var mnemonic = "fragile paper grunt surprise raise throw quick own kiwi nice nature plug";
+var mnemonic = "high left kitchen cereal know tiger grass muffin steak kind ability goose";

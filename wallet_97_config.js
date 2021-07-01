@@ -1,1 +1,1 @@
-var mnemonic = "stone blouse salt picture exist more someone stage task artwork hour physical";
+var mnemonic = "phrase matrix flip mercy stage number diagram name velvet identify arch vacant";

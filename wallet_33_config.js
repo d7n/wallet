@@ -1,1 +1,1 @@
-var mnemonic = "swear way humble exclude stock ancient when girl clip still access review";
+var mnemonic = "venture clutch people wire lemon they venture sort tuition bless shy monster";

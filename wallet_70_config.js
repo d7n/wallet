@@ -1,1 +1,1 @@
-var mnemonic = "have boost foot scan latin focus online define anchor install thunder tuna";
+var mnemonic = "range wild opera cook seat issue tone twist sock evoke chimney cancel";

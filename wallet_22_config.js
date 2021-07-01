@@ -1,1 +1,1 @@
-var mnemonic = "isolate lab right special hello ostrich virtual amateur satoshi valley april cherry";
+var mnemonic = "thunder turn item walk tonight wise pioneer sad search butter light excite";

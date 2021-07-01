@@ -1,1 +1,1 @@
-var mnemonic = "pattern neck enemy trophy visa differ mention prize tired catalog ill beef";
+var mnemonic = "doctor satisfy town lottery cage off dawn congress soccer hammer elegant charge";

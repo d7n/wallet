@@ -1,1 +1,1 @@
-var mnemonic = "armed raven cheap antique give topic taste grab phrase detail devote alter";
+var mnemonic = "lift type control mystery wonder uphold debris border eagle repeat cram pride";

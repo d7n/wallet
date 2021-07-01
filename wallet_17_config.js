@@ -1,1 +1,1 @@
-var mnemonic = "case primary fiber speed proud crisp giraffe viable crack brick betray current";
+var mnemonic = "virtual rude ask resource appear embody love address gown couple baby crystal";

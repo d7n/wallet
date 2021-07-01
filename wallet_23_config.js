@@ -1,1 +1,1 @@
-var mnemonic = "sphere spoon minute main broken october away adult police cart supply embark";
+var mnemonic = "fitness december step control hungry claim mixture era alarm wide return trend";

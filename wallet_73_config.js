@@ -1,1 +1,1 @@
-var mnemonic = "flee taste agent river energy tenant magic news panic smoke purse paper";
+var mnemonic = "uncover cushion rare dish collect cruel inquiry good make wink major abandon";

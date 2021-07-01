@@ -1,1 +1,1 @@
-var mnemonic = "immense rug demand mimic luggage denial aunt acoustic figure junk play duty";
+var mnemonic = "emerge mixture cement empty anxiety fragile usual web excuse index cement solar";

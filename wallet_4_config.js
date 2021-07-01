@@ -1,1 +1,1 @@
-var mnemonic = "theme bunker style start calm blur behind weekend address sample accuse mail";
+var mnemonic = "soda industry absorb snap video audit special grunt inhale accident trigger shaft";

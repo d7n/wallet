@@ -1,1 +1,1 @@
-var mnemonic = "kite glimpse elegant total digital gas fix worth leaf deny person model";
+var mnemonic = "kid clutch wise sunset mind debris faint spend horror between debate sister";

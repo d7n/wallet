@@ -1,1 +1,1 @@
-var mnemonic = "obtain must become enroll once orphan stairs engine save similar pistol airport";
+var mnemonic = "include happy pet desert frame rack method dish tree human skirt keen";

@@ -1,1 +1,1 @@
-var mnemonic = "cart this garbage degree miracle pattern wet total you weapon pretty trap";
+var mnemonic = "snap blouse exchange cover retreat code giraffe tower scare govern rude stage";

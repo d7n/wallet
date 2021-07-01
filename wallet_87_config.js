@@ -1,1 +1,1 @@
-var mnemonic = "aware chaos help famous female faculty coil body hollow submit limit chase";
+var mnemonic = "light foot sister report stay course oppose cushion exercise bind glass impulse";

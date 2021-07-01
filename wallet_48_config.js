@@ -1,1 +1,1 @@
-var mnemonic = "game cable enough always faint injury deposit toward blind rally dress anchor";
+var mnemonic = "ghost faculty cargo plug unhappy eager brush absorb focus remain half inhale";

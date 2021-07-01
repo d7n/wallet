@@ -1,1 +1,1 @@
-var mnemonic = "guard huge film gloom mind tail battle drop finger junk brand matrix";
+var mnemonic = "snow over stuff help weather sausage junior clean leaf lab bright evil";

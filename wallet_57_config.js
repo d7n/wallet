@@ -1,1 +1,1 @@
-var mnemonic = "flower slot wing flip bachelor carbon material trouble split lens merit yard";
+var mnemonic = "question census expand ride tattoo sort electric debate chunk enjoy manage depth";

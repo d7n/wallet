@@ -1,1 +1,1 @@
-var mnemonic = "vocal blade ignore round couch region legend local rotate cycle inspire mammal";
+var mnemonic = "elegant pumpkin accuse mechanic add shallow purchase garment march early unaware sorry";

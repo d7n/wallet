@@ -1,1 +1,1 @@
-var mnemonic = "very arrow fashion high section tragic acquire tilt secret renew gold garden";
+var mnemonic = "scene beef coach parrot list hedgehog they install number air sponsor badge";

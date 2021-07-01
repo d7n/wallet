@@ -1,1 +1,1 @@
-var mnemonic = "couch state now stairs expire axis season select gaze movie genre dynamic";
+var mnemonic = "deny cage circle photo novel rotate ride then divorce aunt hybrid calm";

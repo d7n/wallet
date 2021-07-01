@@ -1,1 +1,1 @@
-var mnemonic = "police rack siren raise mention thunder glove genuine nurse candy dawn rain";
+var mnemonic = "royal artefact diesel nuclear bachelor apology poet keep cupboard task cluster river";

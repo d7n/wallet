@@ -1,1 +1,1 @@
-var mnemonic = "age crystal dance number emotion series fit garlic husband rate permit gauge";
+var mnemonic = "clay unit pepper witness boy amazing define celery time devote glove open";

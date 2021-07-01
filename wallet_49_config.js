@@ -1,1 +1,1 @@
-var mnemonic = "monitor force deposit awkward heart rifle hair swallow labor punch video clay";
+var mnemonic = "canal busy ridge turtle biology give approve demand lobster moon escape feature";

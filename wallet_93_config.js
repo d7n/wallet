@@ -1,1 +1,1 @@
-var mnemonic = "message car dirt goat pluck puzzle avocado cereal short mother note mercy";
+var mnemonic = "brain antenna waste rib fringe margin kick hedgehog today mass decline aim";

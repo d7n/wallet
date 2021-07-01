@@ -1,1 +1,1 @@
-var mnemonic = "puzzle artefact topic you holiday milk demand envelope jealous obey able holiday";
+var mnemonic = "pear lemon empty trial type spatial tornado exhibit other amount flock cluster";

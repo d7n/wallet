@@ -1,1 +1,1 @@
-var mnemonic = "seat favorite erase cabbage team sword marine improve prevent stand case convince";
+var mnemonic = "raise exchange monster train mobile dog unaware crush allow taste priority evolve";

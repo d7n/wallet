@@ -1,1 +1,1 @@
-var mnemonic = "bridge shiver protect argue chair search toast crisp culture false extra dutch";
+var mnemonic = "identify shift buzz end frown abuse goddess discover vague suit private crush";

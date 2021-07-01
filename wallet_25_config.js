@@ -1,1 +1,1 @@
-var mnemonic = "trumpet know toast glory celery express sniff seat junk floor lab hold";
+var mnemonic = "twice already excite blush earn climb front walk drop stem huge very";

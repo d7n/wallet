@@ -1,1 +1,1 @@
-var mnemonic = "select glad sadness van quantum smile proof shine divert gold school punch";
+var mnemonic = "honey into primary glance surge axis educate odor chat gate group donkey";

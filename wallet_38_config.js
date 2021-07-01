@@ -1,1 +1,1 @@
-var mnemonic = "fog fuel shove solve cement divide calm learn coral mercy bracket skirt";
+var mnemonic = "try case million note lizard vessel purse furnace midnight cheap black gauge";

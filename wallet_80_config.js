@@ -1,1 +1,1 @@
-var mnemonic = "code almost involve gain south tip finish notable athlete young crane top";
+var mnemonic = "cost cycle sure copy index text garbage apology genre collect chest piece";

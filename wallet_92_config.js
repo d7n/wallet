@@ -1,1 +1,1 @@
-var mnemonic = "boy tell crawl cradle prefer health card champion zebra tool clump soda";
+var mnemonic = "goose bronze flower buyer club brass error practice immune walk suit rebuild";

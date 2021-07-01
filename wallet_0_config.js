@@ -1,1 +1,1 @@
-var mnemonic = "impulse else say access siren speak brain entry ensure eager permit brick";
+var mnemonic = "image welcome soon order wreck river attitude crazy left dance idle expire";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing couple polar rocket resource tide unable dismiss tackle concert dragon forum";
+var mnemonic = "outdoor cause mad swap glare modify public snow laundry unit twice absurd";

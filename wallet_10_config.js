@@ -1,1 +1,1 @@
-var mnemonic = "dismiss glue task such ritual chest toss hand bean quote illness lake";
+var mnemonic = "arrive delay feed buyer twin change inherit mutual want logic flight rich";

@@ -1,1 +1,1 @@
-var mnemonic = "tower mad already pen casual onion refuse cute choice elite hidden danger";
+var mnemonic = "office chapter volume submit magic oak odor strategy dutch remove zone smooth";

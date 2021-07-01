@@ -1,1 +1,1 @@
-var mnemonic = "advice talent outer bachelor park legend hurt one cup agent diesel hill";
+var mnemonic = "material tobacco tomorrow boy museum head brain online cloud chief increase chief";

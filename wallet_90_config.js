@@ -1,1 +1,1 @@
-var mnemonic = "angry meadow wear relief around believe bridge hard cherry accident general record";
+var mnemonic = "quote increase slot imitate green grant one duck bottom enough endorse bright";

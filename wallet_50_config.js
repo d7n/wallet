@@ -1,1 +1,1 @@
-var mnemonic = "decorate dust love tip divert world fabric dutch focus learn mammal kitten";
+var mnemonic = "obtain lava finger wet march spare enter space butter fix install cliff";

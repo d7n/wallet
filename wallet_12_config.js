@@ -1,1 +1,1 @@
-var mnemonic = "march jar curtain bomb supply throw stand example humor drip dirt erupt";
+var mnemonic = "elegant impact seat convince enough ring sniff pride index urban crane snake";

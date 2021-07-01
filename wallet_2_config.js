@@ -1,1 +1,1 @@
-var mnemonic = "scene enemy treat host science frame tree advice valley robust fan unusual";
+var mnemonic = "core outdoor square balcony sail wise shoulder soda wolf off despair flame";

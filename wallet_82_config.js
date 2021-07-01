@@ -1,1 +1,1 @@
-var mnemonic = "margin sheriff hope slogan mosquito access open staff desert mirror broom claw";
+var mnemonic = "tomato spider lemon sorry wide group purse polar punch crop butter bitter";

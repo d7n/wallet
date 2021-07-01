@@ -1,1 +1,1 @@
-var mnemonic = "blur matter trip picnic quiz comfort across rubber middle minute lottery burst";
+var mnemonic = "crowd ready thunder setup bone butter pistol swim wise royal about chaos";

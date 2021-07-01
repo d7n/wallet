@@ -1,1 +1,1 @@
-var mnemonic = "pen replace duck sing entry inner lamp dirt galaxy smart talent melt";
+var mnemonic = "village creek table mango stone board horse category figure budget inject scheme";

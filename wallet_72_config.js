@@ -1,1 +1,1 @@
-var mnemonic = "thank cannon mystery chalk supreme grid tent flock obscure midnight ball devote";
+var mnemonic = "cradle they explain heart pool dry lab talk silk crane alpha people";

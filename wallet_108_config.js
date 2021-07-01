@@ -1,1 +1,1 @@
-var mnemonic = "emerge sleep common behind wear keep loyal actual endorse huge afford boost";
+var mnemonic = "young bamboo purity estate reward answer cute immense viable brick spare security";

@@ -1,1 +1,1 @@
-var mnemonic = "nut law grant sea peace sentence exhibit just night kiwi moral traffic";
+var mnemonic = "dwarf tackle stand onion all curtain symbol you first mule elevator letter";

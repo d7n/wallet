@@ -1,1 +1,1 @@
-var mnemonic = "side token deer pulp budget urban aim armed endless affair depth brown";
+var mnemonic = "bless toy dumb visual camp pear edge lab bronze powder view subway";

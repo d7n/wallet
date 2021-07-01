@@ -1,1 +1,1 @@
-var mnemonic = "piece quantum climb goat image yellow exclude lab casino finish stairs sponsor";
+var mnemonic = "proof fitness globe emerge photo smart train whisper entry jungle unusual grit";

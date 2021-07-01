@@ -1,1 +1,1 @@
-var mnemonic = "gossip little diagram run cherry history crisp rescue lawn casino length change";
+var mnemonic = "cricket spatial certain digital donor accuse lake donkey liar gorilla awkward shift";

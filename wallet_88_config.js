@@ -1,1 +1,1 @@
-var mnemonic = "curious breeze story moon idea pig pattern zoo family style boil raise";
+var mnemonic = "soccer like problem orchard define year blouse gravity sell robot mansion sleep";

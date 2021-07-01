@@ -1,1 +1,1 @@
-var mnemonic = "canal deny solve hole sting slide practice disagree arctic insect battle urban";
+var mnemonic = "raven aim pyramid tray resist oxygen foster title analyst genuine vicious girl";

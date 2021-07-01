@@ -1,1 +1,1 @@
-var mnemonic = "black pigeon nothing share betray evidence alone track minor like decline firm";
+var mnemonic = "fit leave hamster slide stuff tribe jealous smooth never lock trim type";

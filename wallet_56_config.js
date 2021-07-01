@@ -1,1 +1,1 @@
-var mnemonic = "blossom often gate arrest mystery build quarter door crawl inherit energy earn";
+var mnemonic = "vanish panda ghost limit amateur seek talk energy limb cliff garlic mystery";

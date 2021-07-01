@@ -1,1 +1,1 @@
-var mnemonic = "fuel daring bamboo fish eight enemy board flight intact urban letter huge";
+var mnemonic = "divert supreme neglect garlic surprise frown hungry mesh lounge debate stock twenty";

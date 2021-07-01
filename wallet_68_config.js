@@ -1,1 +1,1 @@
-var mnemonic = "kitchen replace tennis coil success sauce visual blouse aware table spare salon";
+var mnemonic = "already winter analyst brave sphere flag middle forest allow room mobile game";

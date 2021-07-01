@@ -1,1 +1,1 @@
-var mnemonic = "camera mango slice kiwi credit mango ribbon modify peasant enable quiz memory";
+var mnemonic = "glare dentist steel stereo that slight cigar ask jump visual couch abuse";

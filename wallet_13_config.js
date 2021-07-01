@@ -1,1 +1,1 @@
-var mnemonic = "kidney century inner jeans young scale live measure pretty pony eye magic";
+var mnemonic = "ring choose mystery legal modify thumb slight fiscal flock fix swing patient";
