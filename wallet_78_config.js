@@ -1,1 +1,1 @@
-var mnemonic = "shed next thrive oppose grit aisle finger avoid oak barely ginger leader";
+var mnemonic = "asthma sunset toss market chase brief extra cruel truck december album again";

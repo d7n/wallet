@@ -1,1 +1,1 @@
-var mnemonic = "search obvious liar dose zebra truly flag hood ignore know gap nominee";
+var mnemonic = "jelly brief someone hour leg often guard deliver sunset sleep industry pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "neither suspect worth inch sunny major silver way opera twelve material social";
+var mnemonic = "tenant better desert trial noise accident blade practice spell risk strong code";

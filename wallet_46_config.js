@@ -1,1 +1,1 @@
-var mnemonic = "mind minimum entire dash color captain negative ecology elegant share assist mention";
+var mnemonic = "evidence access entire vague visual borrow list tomorrow stomach square rude session";

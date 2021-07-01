@@ -1,1 +1,1 @@
-var mnemonic = "parade wonder autumn venue opera advice today few side onion echo general";
+var mnemonic = "render update pupil spirit artist satisfy bus agent faculty wash cause cause";

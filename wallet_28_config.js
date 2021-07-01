@@ -1,1 +1,1 @@
-var mnemonic = "umbrella approve grocery moment asthma clinic machine risk hole danger mail giggle";
+var mnemonic = "unveil bamboo luxury pepper scale humor sibling later ecology range domain focus";

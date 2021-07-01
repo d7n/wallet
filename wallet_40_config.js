@@ -1,1 +1,1 @@
-var mnemonic = "hurt original abuse boil stock sunny weird slam slim utility invite tide";
+var mnemonic = "forum hockey inspire captain fever transfer join tilt bonus hybrid poem carbon";

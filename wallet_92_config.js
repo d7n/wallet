@@ -1,1 +1,1 @@
-var mnemonic = "candy humble input course water provide lobster panda supreme toast figure wave";
+var mnemonic = "theme dawn must idle sniff expire club festival visit elbow better school";

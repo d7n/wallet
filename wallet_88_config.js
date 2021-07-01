@@ -1,1 +1,1 @@
-var mnemonic = "skull ski prevent bench nerve canvas error velvet deliver shrimp group scout";
+var mnemonic = "nerve result song swear panther audit avoid addict melt ensure travel angry";

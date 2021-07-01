@@ -1,1 +1,1 @@
-var mnemonic = "insect chief conduct december rib fashion oak pear aunt broken half pioneer";
+var mnemonic = "sweet essay promote theory polar crumble nurse one differ trap course shoulder";

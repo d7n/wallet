@@ -1,1 +1,1 @@
-var mnemonic = "actual fresh ready craft victory scorpion leaf battle sausage little help circle";
+var mnemonic = "happy fork repeat crew nuclear tree fix brother knee uphold domain history";

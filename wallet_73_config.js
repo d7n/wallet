@@ -1,1 +1,1 @@
-var mnemonic = "journey loan below tail mystery virtual modify erupt foam absurd major oyster";
+var mnemonic = "nephew section agent leisure fly unlock chair autumn fork monitor caution priority";

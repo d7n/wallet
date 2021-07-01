@@ -1,1 +1,1 @@
-var mnemonic = "original industry noise argue rack detect game speed arrange tennis engine edit";
+var mnemonic = "pact frame light brick inquiry slab device bargain farm season slice word";

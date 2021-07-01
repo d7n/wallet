@@ -1,1 +1,1 @@
-var mnemonic = "evolve combine estate sunset embark salt teach prefer target affair weasel taxi";
+var mnemonic = "tent library intact pretty quote castle repair night lock spring quantum face";

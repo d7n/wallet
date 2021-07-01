@@ -1,1 +1,1 @@
-var mnemonic = "canyon hungry leisure cash apart frown panda drill polar universe wood inspire";
+var mnemonic = "jungle uncover toddler vapor sugar achieve immune hotel crunch exist install juice";

@@ -1,1 +1,1 @@
-var mnemonic = "embark glow pattern place above path inhale evidence poet ticket person produce";
+var mnemonic = "bulb execute guess tissue depart bright dinner define feed fitness actress resist";

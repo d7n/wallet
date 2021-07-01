@@ -1,1 +1,1 @@
-var mnemonic = "burden decrease style ramp glimpse light scorpion scale tissue warm cross enlist";
+var mnemonic = "leader filter lava sauce reunion bird fatigue expose fabric lake mammal ranch";

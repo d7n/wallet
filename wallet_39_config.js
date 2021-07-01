@@ -1,1 +1,1 @@
-var mnemonic = "glass bundle pilot myself deliver income pattern forget island medal carpet inflict";
+var mnemonic = "burger village stone smooth deer record interest mimic medal filter vehicle tortoise";

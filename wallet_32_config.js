@@ -1,1 +1,1 @@
-var mnemonic = "basket inmate salon noble text whip snake network wolf adjust maximum network";
+var mnemonic = "achieve similar sound crack alter side table stone catch simple negative escape";

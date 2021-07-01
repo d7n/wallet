@@ -1,1 +1,1 @@
-var mnemonic = "few rib clerk above mixture avocado random tomorrow melt radar winner napkin";
+var mnemonic = "exact north rule crunch chat glance alone nominee grape grab craft mammal";

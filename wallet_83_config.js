@@ -1,1 +1,1 @@
-var mnemonic = "lion sock car start royal work green brief train couple adapt sponsor";
+var mnemonic = "ask deposit aspect together razor pole calm night bunker stock define polar";

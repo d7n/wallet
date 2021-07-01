@@ -1,1 +1,1 @@
-var mnemonic = "endless corn head suffer robot number pistol bicycle skull buffalo good grit";
+var mnemonic = "elite aim sentence knock joke cupboard develop general cost convince save hope";

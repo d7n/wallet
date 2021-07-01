@@ -1,1 +1,1 @@
-var mnemonic = "reopen finish rather cycle pride coin market venue exist despair rich hurdle";
+var mnemonic = "bag whip illness gossip other fold room hen lounge patch cannon kiwi";

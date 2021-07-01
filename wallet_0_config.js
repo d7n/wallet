@@ -1,1 +1,1 @@
-var mnemonic = "next blur attitude tent globe lens video bullet antique garment verify describe";
+var mnemonic = "almost vocal ridge also chuckle keen actress hope trumpet cram then switch";

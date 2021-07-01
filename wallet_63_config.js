@@ -1,1 +1,1 @@
-var mnemonic = "plug aunt trap pipe aunt fee west left divert reform two gift";
+var mnemonic = "dilemma cake misery gun swap genius orphan under stairs this universe ozone";

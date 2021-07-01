@@ -1,1 +1,1 @@
-var mnemonic = "civil original reduce pledge crystal busy cheap envelope grace small cake select";
+var mnemonic = "neutral drip win traffic decrease crouch enforce mutual run quote often crack";

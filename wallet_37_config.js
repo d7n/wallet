@@ -1,1 +1,1 @@
-var mnemonic = "tool lawsuit extend cook improve matrix pencil bulk camp session position tribe";
+var mnemonic = "lecture unfair bounce pumpkin timber acoustic lion same south laundry borrow shoot";

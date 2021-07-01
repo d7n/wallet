@@ -1,1 +1,1 @@
-var mnemonic = "oak car recall slide breeze diet oak burden toss siren renew shine";
+var mnemonic = "faint drum surge turkey matter used try skate action journey wall puzzle";

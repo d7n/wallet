@@ -1,1 +1,1 @@
-var mnemonic = "exact slam bachelor kidney catalog chat anxiety birth load faith attack walnut";
+var mnemonic = "body unhappy truck protect other art useful market chimney theme october flip";

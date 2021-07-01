@@ -1,1 +1,1 @@
-var mnemonic = "behind direct dream boss helmet multiply paper human spare cash doctor tiny";
+var mnemonic = "rookie real exact clock hover bullet inner jewel narrow butter stove involve";

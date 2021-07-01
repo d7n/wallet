@@ -1,1 +1,1 @@
-var mnemonic = "phone snake fiber member wet salmon praise winner lizard home host guard";
+var mnemonic = "captain maximum glove weekend retire fresh across guitar humor purpose distance file";

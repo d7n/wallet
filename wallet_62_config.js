@@ -1,1 +1,1 @@
-var mnemonic = "earth require hybrid flat eagle base method spread uphold jealous duty shoot";
+var mnemonic = "brown decorate goat carpet awful uncle funny problem book short sad excite";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote churn loan flower heavy liar erode awful vacuum actor evidence indoor";
+var mnemonic = "laptop awake foot orchard pass build indicate property pulp eight approve survey";

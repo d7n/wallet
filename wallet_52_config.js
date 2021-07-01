@@ -1,1 +1,1 @@
-var mnemonic = "deal swear deposit rent document turn penalty deal derive endorse image street";
+var mnemonic = "degree bench lazy tomato suit essay embody kid series pony shed sell";

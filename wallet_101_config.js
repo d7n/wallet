@@ -1,1 +1,1 @@
-var mnemonic = "opinion blossom scout voice often beach pen myself grocery urban judge evil";
+var mnemonic = "cable road violin load uncle friend large blood clay marble detect lunch";

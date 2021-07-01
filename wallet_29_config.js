@@ -1,1 +1,1 @@
-var mnemonic = "case snack drive hazard water review fossil message achieve mountain nest scan";
+var mnemonic = "walnut volume during absorb ketchup arctic rifle cluster pigeon analyst toilet little";

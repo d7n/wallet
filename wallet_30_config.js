@@ -1,1 +1,1 @@
-var mnemonic = "island vibrant egg twelve drill ribbon brass patient invest typical shop axis";
+var mnemonic = "nerve crisp panel gauge put debris survey armor appear nothing ancient cover";

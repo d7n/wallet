@@ -1,1 +1,1 @@
-var mnemonic = "tail happy toddler pulse deny lock barely case regular green furnace across";
+var mnemonic = "pioneer tube powder animal chalk betray remind sad apology spray permit legal";

@@ -1,1 +1,1 @@
-var mnemonic = "original used level atom family blossom describe nurse vicious file harvest fitness";
+var mnemonic = "weapon fresh run brave remember guard exhaust ketchup frog acid stable useful";

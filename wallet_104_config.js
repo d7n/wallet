@@ -1,1 +1,1 @@
-var mnemonic = "inch ski rhythm grief kangaroo palace conduct arm column member lake student";
+var mnemonic = "viable crack final rib income antique fly window tiger anxiety jaguar horn";

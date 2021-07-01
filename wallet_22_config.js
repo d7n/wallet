@@ -1,1 +1,1 @@
-var mnemonic = "wear sample runway devote like excite shoot tumble impulse target this warrior";
+var mnemonic = "lyrics present gallery salt sentence guilt october juice secret tape balcony permit";

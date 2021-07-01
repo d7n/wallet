@@ -1,1 +1,1 @@
-var mnemonic = "neither urge uncle divorce movie enemy strategy chest evolve prevent reason weekend";
+var mnemonic = "team cotton picnic injury chapter rocket fence frozen theme hamster field destroy";

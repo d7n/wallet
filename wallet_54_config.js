@@ -1,1 +1,1 @@
-var mnemonic = "motion beach goddess enough girl that prevent toe damage rely glory wrist";
+var mnemonic = "aspect icon inform index coyote banner clap accident hospital spring rib cluster";

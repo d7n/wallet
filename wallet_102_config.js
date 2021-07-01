@@ -1,1 +1,1 @@
-var mnemonic = "youth chronic admit tree fetch panic humor famous inflict thought mountain buzz";
+var mnemonic = "dust story stove paddle rebuild idle mansion wait robust umbrella heavy ticket";

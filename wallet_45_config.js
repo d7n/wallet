@@ -1,1 +1,1 @@
-var mnemonic = "young wait donkey ability improve black nasty strong erupt obey sun forward";
+var mnemonic = "pear tunnel upgrade world tourist album hold battle inhale burger erosion hammer";

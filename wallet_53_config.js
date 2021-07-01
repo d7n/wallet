@@ -1,1 +1,1 @@
-var mnemonic = "uncover two disorder loop rotate turtle upset angry gallery tornado summer tip";
+var mnemonic = "future fence van van soccer emerge jelly coyote wealth imitate bracket inflict";

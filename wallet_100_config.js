@@ -1,1 +1,1 @@
-var mnemonic = "slight tattoo vacuum three decade crime island say produce glue approve heavy";
+var mnemonic = "tell sick fresh pact fuel illness empower benefit life mimic vote enlist";

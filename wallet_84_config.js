@@ -1,1 +1,1 @@
-var mnemonic = "pride million mule maximum duty sort cheap magic super hedgehog initial buddy";
+var mnemonic = "employ anxiety you anchor awake vehicle ivory despair length sword acid rival";

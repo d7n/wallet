@@ -1,1 +1,1 @@
-var mnemonic = "scrub blush letter earn wrap arrest alarm slush chaos rabbit secret minor";
+var mnemonic = "because unlock laugh hundred dirt worth essay client decade tomorrow maze custom";

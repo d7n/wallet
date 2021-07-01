@@ -1,1 +1,1 @@
-var mnemonic = "drink guilt sweet fence common rich cart three coffee nasty shrug trigger";
+var mnemonic = "purchase truth gold fiction orphan anger roof stairs satoshi pact hand banner";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh honey increase mercy version settle rain battle nest vocal cousin elder";
+var mnemonic = "general cattle smile cage duty coral kitten wild type flavor captain merge";

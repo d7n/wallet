@@ -1,1 +1,1 @@
-var mnemonic = "wave tuition rebuild fruit assault tongue gentle vital fault host code amateur";
+var mnemonic = "flat during inject receive dry foster cream wire donate scout filter veteran";

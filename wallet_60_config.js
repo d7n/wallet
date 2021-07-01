@@ -1,1 +1,1 @@
-var mnemonic = "valve town whip today accuse champion denial lumber afraid pipe spider tragic";
+var mnemonic = "kitten small idle guard cradle border attend onion collect echo sponsor click";

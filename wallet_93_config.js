@@ -1,1 +1,1 @@
-var mnemonic = "infant famous woman small shoe cinnamon river tunnel bubble tiger awkward wild";
+var mnemonic = "intact royal blame situate hub clog shell lucky million response motor pet";

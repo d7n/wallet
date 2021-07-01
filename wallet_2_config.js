@@ -1,1 +1,1 @@
-var mnemonic = "gown adapt wave angle economy sport sense anxiety joke tag rebuild garlic";
+var mnemonic = "rookie hedgehog busy panic dumb sorry bind morning panda penalty horn hawk";

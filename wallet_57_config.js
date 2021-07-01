@@ -1,1 +1,1 @@
-var mnemonic = "brisk regular cruise shift flash fault intact town harsh outside never tail";
+var mnemonic = "section cotton surface eager practice fabric wrist scorpion reason shove dream syrup";

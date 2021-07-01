@@ -1,1 +1,1 @@
-var mnemonic = "armor clean useful subway season now young morning still eye bright fix";
+var mnemonic = "cradle execute spatial reopen trap shy lava kick sure primary cause chef";

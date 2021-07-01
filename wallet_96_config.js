@@ -1,1 +1,1 @@
-var mnemonic = "teach because scene dose patient hybrid pumpkin insane auction guilt bacon curve";
+var mnemonic = "fluid dumb defense awesome brief gun hat stereo laptop trust laugh mimic";

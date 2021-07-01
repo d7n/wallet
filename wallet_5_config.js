@@ -1,1 +1,1 @@
-var mnemonic = "long cloud brisk mobile club tattoo original can satisfy guitar legend evidence";
+var mnemonic = "engage aisle shed wolf weekend lunch sell tent eager corn invest tower";

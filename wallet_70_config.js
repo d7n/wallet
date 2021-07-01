@@ -1,1 +1,1 @@
-var mnemonic = "coral regret upset middle auction script below pupil vocal jar inflict whisper";
+var mnemonic = "unhappy pear faith process cradle hundred author brief zone render raise monster";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist photo solid end under secret edit film very away field yellow";
+var mnemonic = "sketch digital awesome document company era corn flat absent cause fiber doctor";

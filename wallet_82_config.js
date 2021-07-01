@@ -1,1 +1,1 @@
-var mnemonic = "omit stand brother riot meadow entire divert token void bridge leisure high";
+var mnemonic = "shift ranch west quiz abuse cost educate income nut around ivory drift";

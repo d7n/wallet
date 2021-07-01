@@ -1,1 +1,1 @@
-var mnemonic = "flock neck pyramid coin cherry purpose armed delay chimney dash behave maze";
+var mnemonic = "divide style swim false plate medal flight have year bean claim powder";

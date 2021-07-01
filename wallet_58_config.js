@@ -1,1 +1,1 @@
-var mnemonic = "match model gorilla patrol response silk inject box illegal buzz thrive afraid";
+var mnemonic = "electric mask curve win ordinary person tuna course essence post circle width";

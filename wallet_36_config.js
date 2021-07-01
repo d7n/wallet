@@ -1,1 +1,1 @@
-var mnemonic = "oyster observe road tree frost review erode humble lemon shrug begin visual";
+var mnemonic = "off height stamp thunder couch raw scrap crater embark survey goose mule";

@@ -1,1 +1,1 @@
-var mnemonic = "any hungry typical pull waste hawk gospel assault nose notable local upgrade";
+var mnemonic = "stairs desk cotton task romance trigger glory whip life spray chief brass";

@@ -1,1 +1,1 @@
-var mnemonic = "month where borrow sniff thought glad truck walk use menu discover flock";
+var mnemonic = "veteran north reward plug tonight history scorpion wheel exhibit pattern season key";

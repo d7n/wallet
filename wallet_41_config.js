@@ -1,1 +1,1 @@
-var mnemonic = "arctic patient turn hockey tuition fix fish twice fence sweet sort grid";
+var mnemonic = "load adult ramp gold outdoor ship vintage palace enlist spend venue pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "damage history glimpse advance cross tank cheap subway spirit broom economy stereo";
+var mnemonic = "planet onion ordinary wide regular insect dolphin life copy animal agree stomach";

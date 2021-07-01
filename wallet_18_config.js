@@ -1,1 +1,1 @@
-var mnemonic = "scene ring solve auto style hair lunch half green country second hen";
+var mnemonic = "camera clerk organ also remember cricket remain message math throw honey hat";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous whisper sudden cricket write shift real junk tree focus lens fitness";
+var mnemonic = "session river apart spare around smile kit want crush squeeze radio avocado";

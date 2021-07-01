@@ -1,1 +1,1 @@
-var mnemonic = "inflict embark cliff buffalo wheel theme pool tiger desk mammal shove drama";
+var mnemonic = "convince jump occur door skill daring raven lobster panic vibrant front annual";

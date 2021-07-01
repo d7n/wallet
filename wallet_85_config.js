@@ -1,1 +1,1 @@
-var mnemonic = "gold rail hood ice good inquiry curtain quick sister witness good ring";
+var mnemonic = "summer sense shallow suspect effort dry into punch ready potato stomach glue";

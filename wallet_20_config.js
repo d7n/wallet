@@ -1,1 +1,1 @@
-var mnemonic = "film antenna walnut smoke hawk way rebuild autumn false coast eyebrow captain";
+var mnemonic = "fluid carpet trade benefit notable find rate circle weekend cry rigid spoil";

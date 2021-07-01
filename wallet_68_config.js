@@ -1,1 +1,1 @@
-var mnemonic = "bone neutral manual unlock scrap zoo swear magnet wrong melody outer sentence";
+var mnemonic = "recipe sponsor kite advice book elder kit elder combine select caution tube";

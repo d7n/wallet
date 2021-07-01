@@ -1,1 +1,1 @@
-var mnemonic = "melody mixed boss egg key seven lake hip fragile bridge move elephant";
+var mnemonic = "reason shrug record miracle wild dice skirt act wear test poem present";

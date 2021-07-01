@@ -1,1 +1,1 @@
-var mnemonic = "lunch rely patrol better yard same second undo thunder grid trade benefit";
+var mnemonic = "ability sun beauty try hair profit discover long denial magnet casual super";

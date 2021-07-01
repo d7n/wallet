@@ -1,1 +1,1 @@
-var mnemonic = "sudden major great write rely edge actor sting crumble blouse suffer retreat";
+var mnemonic = "exhaust rabbit celery visa trade concert dumb lake rely time grit gentle";

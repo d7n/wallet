@@ -1,1 +1,1 @@
-var mnemonic = "sustain husband grant dismiss brief equal main nation nerve wink enrich name";
+var mnemonic = "jacket inherit aisle crew expire country paper business position behind lemon legend";

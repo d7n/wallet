@@ -1,1 +1,1 @@
-var mnemonic = "symbol heavy cherry nest scissors latin lab across invite minimum problem hen";
+var mnemonic = "stadium rebuild liar wrap speed prosper organ scrub step debate family dress";

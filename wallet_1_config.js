@@ -1,1 +1,1 @@
-var mnemonic = "thing damp carry utility reward net rack describe coach loyal pond cycle";
+var mnemonic = "bracket permit sustain cheap menu leg stuff year exclude tell hello output";

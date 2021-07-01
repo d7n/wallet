@@ -1,1 +1,1 @@
-var mnemonic = "write park unknown people recall buddy kitten lounge squirrel topic sheriff holiday";
+var mnemonic = "summer bonus garage sadness eagle genius maze replace slide kidney wealth purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "open empower mistake polar minute rather shiver flight circle lawn casual produce";
+var mnemonic = "suit mail guess violin load admit phrase behave uncle limb chicken act";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior latin win track chunk eager luxury kid lawsuit van manage post";
+var mnemonic = "crash blur vicious drastic protect extend slender core opinion castle cement income";

@@ -1,1 +1,1 @@
-var mnemonic = "despair public grant liar empty hawk image enrich flock weapon kingdom helmet";
+var mnemonic = "loud fun order logic exact regular cheese ship benefit pretty useless relief";

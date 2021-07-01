@@ -1,1 +1,1 @@
-var mnemonic = "net glad soda space reform merge glance ring adapt open judge neglect";
+var mnemonic = "utility gold flame buyer age tool item sketch asthma fade oyster happy";

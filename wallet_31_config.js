@@ -1,1 +1,1 @@
-var mnemonic = "arrange rural cost fence capital code profit major degree burden table situate";
+var mnemonic = "recipe weapon age forward crush luggage laptop burst puppy accuse medal tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "gun bread gossip apple network gadget point sock series wisdom prefer kingdom";
+var mnemonic = "ignore perfect nation cover length social shop parade foot purpose rather slow";

@@ -1,1 +1,1 @@
-var mnemonic = "attend undo document eye affair arch blanket future boss flower pumpkin system";
+var mnemonic = "rotate regret bulb saddle cannon silk garment chronic degree used engage chest";

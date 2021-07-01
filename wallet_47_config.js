@@ -1,1 +1,1 @@
-var mnemonic = "giggle select borrow mimic grab ginger observe light iron ostrich flash jealous";
+var mnemonic = "topic debris virtual day photo skull have company jacket doctor crew flag";

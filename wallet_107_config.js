@@ -1,1 +1,1 @@
-var mnemonic = "arrest about unfair test note page water start dad flower tuna denial";
+var mnemonic = "boring quick force input spirit huge mobile ritual family flag lesson label";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty bean soup joy sheriff mad dirt tongue gentle cradle such again";
+var mnemonic = "nuclear swallow sell cattle actor minimum indoor cousin put art fork devote";

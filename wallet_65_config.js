@@ -1,1 +1,1 @@
-var mnemonic = "swim ordinary liar fun isolate enjoy track check street hunt cart excuse";
+var mnemonic = "circle enact exercise loan report gather obscure salad impose kitten among romance";
