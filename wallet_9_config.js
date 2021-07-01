@@ -1,1 +1,1 @@
-var mnemonic = "jazz crucial peanut shiver heart curtain thrive decorate faith protect course hill";
+var mnemonic = "hello someone bring delay february trip hover awful typical snake similar shield";

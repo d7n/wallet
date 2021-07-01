@@ -1,1 +1,1 @@
-var mnemonic = "brisk creek worth rice street vicious hazard entry flee observe energy kangaroo";
+var mnemonic = "govern tortoise thumb birth early trade little job afford skill outer wink";

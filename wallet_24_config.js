@@ -1,1 +1,1 @@
-var mnemonic = "cruise stock famous tiny custom advance spell piano seven assist mystery capital";
+var mnemonic = "lesson column water key arctic misery switch comic senior asset change tip";

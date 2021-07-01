@@ -1,1 +1,1 @@
-var mnemonic = "acoustic physical nation swamp hold mistake first solution sure nation anchor ceiling";
+var mnemonic = "marine home trumpet palm orphan obtain coconut remove final limit drill country";

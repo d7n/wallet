@@ -1,1 +1,1 @@
-var mnemonic = "hungry slice crouch donkey cat topple success limit pledge wrap fetch order";
+var mnemonic = "warm now lottery above effort desert cat easily truly april mechanic apple";

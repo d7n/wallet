@@ -1,1 +1,1 @@
-var mnemonic = "spatial category warm toe judge embrace tube inhale cool okay youth seek";
+var mnemonic = "aware viable zoo weekend soap misery boss hazard meat client evoke field";

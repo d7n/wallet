@@ -1,1 +1,1 @@
-var mnemonic = "raven wheat agree arm quantum snap situate calm below occur magic diesel";
+var mnemonic = "embark seat swamp occur exist slush stock front parent canvas swear now";

@@ -1,1 +1,1 @@
-var mnemonic = "gift inherit blossom spray type decline two illegal ball common you head";
+var mnemonic = "stable skin hunt always album remove suspect riot frost push chicken virtual";

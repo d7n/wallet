@@ -1,1 +1,1 @@
-var mnemonic = "among ancient sort candy climb use champion document frame venue parrot ten";
+var mnemonic = "another carbon guess demise skate unhappy math transfer citizen husband cash order";

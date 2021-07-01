@@ -1,1 +1,1 @@
-var mnemonic = "aerobic float deer drop witness hill security surge cruel tower physical buyer";
+var mnemonic = "digital better turkey churn weather relax three fabric ritual follow thunder again";

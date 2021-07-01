@@ -1,1 +1,1 @@
-var mnemonic = "used empower fiscal doll loyal confirm route maximum envelope retire tree plate";
+var mnemonic = "normal next invest nothing peace good purchase foam pear bread popular forward";

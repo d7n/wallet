@@ -1,1 +1,1 @@
-var mnemonic = "capable inquiry next music basket era sugar skull discover yard upper glue";
+var mnemonic = "fitness bargain blur rib always clinic field cushion favorite vivid choose feed";

@@ -1,1 +1,1 @@
-var mnemonic = "insane business ripple bicycle stereo bachelor letter first holiday risk nominee riot";
+var mnemonic = "orient venture account helmet kitten account birth foster march renew near retire";

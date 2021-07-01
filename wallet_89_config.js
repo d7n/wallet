@@ -1,1 +1,1 @@
-var mnemonic = "emerge crystal there picnic rigid bone escape ugly magnet find room rabbit";
+var mnemonic = "pretty hero clinic fall side month burger chest boss vocal mirror first";

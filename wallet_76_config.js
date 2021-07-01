@@ -1,1 +1,1 @@
-var mnemonic = "battle twelve subway risk stick nose mystery proof army solve cigar sustain";
+var mnemonic = "manage zebra question purse ribbon derive police cloth emerge light fortune leader";

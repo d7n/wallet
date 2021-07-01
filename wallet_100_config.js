@@ -1,1 +1,1 @@
-var mnemonic = "squirrel mail abstract elite zebra armor ketchup rice idea rare festival speak";
+var mnemonic = "kiss bulk key away slender text valve gasp wait cable coach pause";

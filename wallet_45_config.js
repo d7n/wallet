@@ -1,1 +1,1 @@
-var mnemonic = "swallow nose purchase bridge weasel place vessel digital country nose history night";
+var mnemonic = "tuition saddle easily frown truly carbon lounge master client nurse disorder thrive";

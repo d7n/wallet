@@ -1,1 +1,1 @@
-var mnemonic = "very capable entire will album onion foam aware noble move early cave";
+var mnemonic = "erode aspect drill hope skull ramp original enable toy casual blind wet";

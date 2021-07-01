@@ -1,1 +1,1 @@
-var mnemonic = "tuna relax fetch erupt toss poem couch capable oxygen sword marriage tail";
+var mnemonic = "rhythm east assault man frown clock scissors oval romance december shiver notable";

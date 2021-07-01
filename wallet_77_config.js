@@ -1,1 +1,1 @@
-var mnemonic = "quality kidney wealth kidney found list kitten viable suffer cousin latin legal";
+var mnemonic = "neck worth dawn hundred transfer sad october dawn behind rebel wage virus";

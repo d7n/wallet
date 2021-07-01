@@ -1,1 +1,1 @@
-var mnemonic = "uncle aim cute response fold orphan obey twin attitude wine equip know";
+var mnemonic = "earth insane potato junior tool defy detect spell swing heart turn ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "civil bring dice liquid journey detail weekend glance vibrant long empty deputy";
+var mnemonic = "economy analyst aerobic save sketch chaos enjoy dust stand nurse trigger erase";

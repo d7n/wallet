@@ -1,1 +1,1 @@
-var mnemonic = "photo hole left year float build best fortune razor mean legend border";
+var mnemonic = "couple jeans uniform news health pet art token crazy dilemma truth employ";

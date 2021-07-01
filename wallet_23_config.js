@@ -1,1 +1,1 @@
-var mnemonic = "shaft inch chapter whisper onion high pitch doctor rude feel enlist boost";
+var mnemonic = "tilt enlist critic museum rural donate fashion diary clump remember road edge";

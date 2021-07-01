@@ -1,1 +1,1 @@
-var mnemonic = "loop road meat point sniff fog grief deposit cushion pear emotion frog";
+var mnemonic = "flame angle infant love life pair era quarter version misery snake home";

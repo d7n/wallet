@@ -1,1 +1,1 @@
-var mnemonic = "ignore boss panda soft blossom isolate doll clinic ecology silver life olive";
+var mnemonic = "dish warfare bounce city moral bulk shop enroll wage early diamond dice";

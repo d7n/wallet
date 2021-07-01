@@ -1,1 +1,1 @@
-var mnemonic = "frame crowd wet pave income code sadness bullet drink excite neither apple";
+var mnemonic = "skin diet famous draft large affair festival vapor hire remain parade book";

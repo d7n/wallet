@@ -1,1 +1,1 @@
-var mnemonic = "bubble reveal thing shed relief pause awkward negative indicate album nuclear trim";
+var mnemonic = "strike tennis rely morning place inmate artist hundred awesome captain atom learn";

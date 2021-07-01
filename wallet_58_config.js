@@ -1,1 +1,1 @@
-var mnemonic = "language market ostrich clown turtle improve grid school between cannon right hour";
+var mnemonic = "merge motor fall syrup clinic pupil shrug all expire other annual alley";

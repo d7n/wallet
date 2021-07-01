@@ -1,1 +1,1 @@
-var mnemonic = "rough vast jeans offer crime advance shoulder obscure lyrics rice reduce soccer";
+var mnemonic = "ugly avocado fortune body worry slight moral clown dash trap phrase clip";

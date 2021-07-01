@@ -1,1 +1,1 @@
-var mnemonic = "gesture flight genre stamp exile shrimp fade marble coach robust dog damage";
+var mnemonic = "kit shiver arctic much card hire cross jewel repair receive position grief";

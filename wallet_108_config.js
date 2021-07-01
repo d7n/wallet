@@ -1,1 +1,1 @@
-var mnemonic = "orange ring huge merge bleak mouse differ element choice culture flavor inquiry";
+var mnemonic = "poem daughter useful giraffe wood use ensure velvet surround dove cup attack";

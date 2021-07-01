@@ -1,1 +1,1 @@
-var mnemonic = "deny assist delay abstract point note tiger jacket mom borrow defense praise";
+var mnemonic = "tide abuse skirt rose plastic head cool square snack shoot chuckle person";

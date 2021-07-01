@@ -1,1 +1,1 @@
-var mnemonic = "bronze stove nest upon surge tuna sound fine rally boost adapt spend";
+var mnemonic = "rubber pulse enlist lottery mixed force phone start negative crush adjust kite";

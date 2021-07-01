@@ -1,1 +1,1 @@
-var mnemonic = "suspect laundry peanut season another genuine prepare six eyebrow acoustic voyage match";
+var mnemonic = "verify health leader butter print flower fly moment ridge impact spend boil";

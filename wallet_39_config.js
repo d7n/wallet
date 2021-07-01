@@ -1,1 +1,1 @@
-var mnemonic = "document choose public wish dignity huge brass flock empty gown fly clump";
+var mnemonic = "tag glad strategy tonight dragon cloud mountain stone clinic powder hold spoil";

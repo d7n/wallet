@@ -1,1 +1,1 @@
-var mnemonic = "wise same pioneer punch praise teach power fancy sick wrist click fee";
+var mnemonic = "glimpse vacuum script couch rural antique expire pencil mesh cloud invite yard";

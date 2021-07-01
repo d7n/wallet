@@ -1,1 +1,1 @@
-var mnemonic = "grass soda used card rug pyramid picnic butter repair napkin opinion supply";
+var mnemonic = "poet arrange lesson plate meadow arena wrap lamp famous gift category method";

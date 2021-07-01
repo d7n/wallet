@@ -1,1 +1,1 @@
-var mnemonic = "cricket bean derive bridge later arrest metal exhibit bread test claw text";
+var mnemonic = "sock orbit height good multiply warrior wrestle leisure common purity toward length";

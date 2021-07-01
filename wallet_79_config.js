@@ -1,1 +1,1 @@
-var mnemonic = "discover exclude alley sniff brush crunch bring fashion concert explain warrior craft";
+var mnemonic = "glance fire castle security intact act lift butter snap between govern blast";

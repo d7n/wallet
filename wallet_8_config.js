@@ -1,1 +1,1 @@
-var mnemonic = "also vanish curious hotel access close delay blush used clap clean corn";
+var mnemonic = "couch future pave canal duty invest phrase piece door lemon zebra garlic";

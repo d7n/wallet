@@ -1,1 +1,1 @@
-var mnemonic = "fruit meadow wagon voice cigar become today mother slogan prepare once pizza";
+var mnemonic = "old penalty novel luxury deny voice afraid meat noble empty ask detail";

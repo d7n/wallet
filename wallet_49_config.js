@@ -1,1 +1,1 @@
-var mnemonic = "race lab opera oxygen rely urge exclude soup error fabric tuna patch";
+var mnemonic = "pioneer example produce cattle verb client kitchen school company original moon vague";

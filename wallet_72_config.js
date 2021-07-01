@@ -1,1 +1,1 @@
-var mnemonic = "swarm session online chronic unable monster elephant stable when turn purchase empower";
+var mnemonic = "tackle frost again use nothing mercy talk oil tourist boy rifle breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz price situate neck misery little refuse proud section kiwi fence vacuum";
+var mnemonic = "civil speed cinnamon cute pottery essence bullet wonder green craft giggle run";

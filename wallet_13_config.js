@@ -1,1 +1,1 @@
-var mnemonic = "athlete aerobic uphold speak olive syrup explain rose catalog explain cliff thrive";
+var mnemonic = "acquire desk glow town avocado monster zebra obtain poet lunar ticket sibling";

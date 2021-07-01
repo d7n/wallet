@@ -1,1 +1,1 @@
-var mnemonic = "gift broccoli grant size neutral shed prefer cry among friend prize client";
+var mnemonic = "banner left december humor album brave slide squirrel trust leg captain exotic";

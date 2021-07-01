@@ -1,1 +1,1 @@
-var mnemonic = "thank peace educate dust actress broccoli medal opinion stable tragic mom attack";
+var mnemonic = "region sword dynamic change plug lake lab upon repair hurry order play";

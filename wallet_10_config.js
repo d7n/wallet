@@ -1,1 +1,1 @@
-var mnemonic = "audit run foam excite pair taste fat symbol afford useful pilot scrub";
+var mnemonic = "impose tragic flash spot reveal donor good envelope faith abstract antique wet";

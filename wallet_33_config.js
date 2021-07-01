@@ -1,1 +1,1 @@
-var mnemonic = "panda humble deal gap second mule ketchup junior notable sleep regular rigid";
+var mnemonic = "lake razor artefact curve cool pull balance orphan enroll remain shop pepper";

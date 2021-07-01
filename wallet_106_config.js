@@ -1,1 +1,1 @@
-var mnemonic = "method donor wait between gallery frown crush bronze hold feed page during";
+var mnemonic = "sing swallow fitness museum movie vanish oppose armed toe until draft space";

@@ -1,1 +1,1 @@
-var mnemonic = "base garment family wink toilet clinic thought abuse peace sound hood motor";
+var mnemonic = "much image phrase smile calm cream patrol laundry asset tube supply will";

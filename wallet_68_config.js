@@ -1,1 +1,1 @@
-var mnemonic = "arctic thunder angry dial hub clerk toss devote fun crack grant good";
+var mnemonic = "insect predict drop aisle before uphold unhappy distance grab green say cruel";

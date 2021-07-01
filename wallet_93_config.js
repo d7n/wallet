@@ -1,1 +1,1 @@
-var mnemonic = "hire mix flee option flush wide cram crunch mystery casino tumble great";
+var mnemonic = "oval vehicle lonely found magic phrase will antenna vacant seek wolf claw";

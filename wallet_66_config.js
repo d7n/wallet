@@ -1,1 +1,1 @@
-var mnemonic = "carry orphan sniff mosquito master leader before page bunker bulb clerk elder";
+var mnemonic = "flush turn predict topic charge stone thrive relax report pretty lock rally";

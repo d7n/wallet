@@ -1,1 +1,1 @@
-var mnemonic = "milk velvet cart symbol genuine morning loan plastic crane smart accuse tomato";
+var mnemonic = "game rural chalk fantasy diamond fringe catch speed demise regular dish riot";

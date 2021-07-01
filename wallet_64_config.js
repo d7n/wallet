@@ -1,1 +1,1 @@
-var mnemonic = "crew olive zone drama warfare behave match already suffer divide piece mushroom";
+var mnemonic = "girl start edit cube problem ivory lend cluster deputy fatigue pioneer pilot";

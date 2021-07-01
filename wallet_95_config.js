@@ -1,1 +1,1 @@
-var mnemonic = "zebra crash vacant stove model where side eternal cabin flush collect absorb";
+var mnemonic = "toe toss lawn stomach empty lunar hamster swallow round smart bar earn";

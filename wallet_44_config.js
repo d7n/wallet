@@ -1,1 +1,1 @@
-var mnemonic = "case hamster next mass ball crop goose city vague twin below color";
+var mnemonic = "wool palm ranch forum dove endless render spirit battle ticket left this";

@@ -1,1 +1,1 @@
-var mnemonic = "street novel wrist innocent field ability ketchup tooth piece deny forward outdoor";
+var mnemonic = "unfold similar ignore holiday mystery marine bar custom strike merge base buddy";

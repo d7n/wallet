@@ -1,1 +1,1 @@
-var mnemonic = "disorder phrase frequent phrase prosper napkin unaware voyage announce sorry interest endless";
+var mnemonic = "resemble lift position farm rent strong obscure require hospital giggle model cash";

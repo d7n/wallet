@@ -1,1 +1,1 @@
-var mnemonic = "spare lemon outdoor enforce village fantasy evoke acquire issue calm harsh spy";
+var mnemonic = "slab exercise invest cream dance blind few blanket virtual country hurdle collect";

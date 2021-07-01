@@ -1,1 +1,1 @@
-var mnemonic = "solar trim earth prepare safe stairs father giant acoustic juice antique duck";
+var mnemonic = "cram security arm carpet build original hidden hockey area evidence helmet veteran";

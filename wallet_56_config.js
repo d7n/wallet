@@ -1,1 +1,1 @@
-var mnemonic = "need apple snack sheriff taste foil question title attend where pencil jewel";
+var mnemonic = "mimic combine snap skate tip expect path assault slow fade interest junk";

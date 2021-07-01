@@ -1,1 +1,1 @@
-var mnemonic = "guilt attitude dash wrong friend target intact blur notice quick route spin";
+var mnemonic = "nose fever body square edge umbrella script reopen august human ocean east";

@@ -1,1 +1,1 @@
-var mnemonic = "dish rough tray age horror author garbage crawl actual gym burger book";
+var mnemonic = "resource illegal number antenna never blossom total profit hawk meat bid dwarf";

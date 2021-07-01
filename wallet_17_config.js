@@ -1,1 +1,1 @@
-var mnemonic = "zoo rose easy home sense weird bird lecture corn current coach stove";
+var mnemonic = "labor north physical wave bounce flip romance spoil swing ordinary benefit bread";

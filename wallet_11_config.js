@@ -1,1 +1,1 @@
-var mnemonic = "coral adjust cannon volcano rabbit damp pool vacuum tonight pair radio autumn";
+var mnemonic = "verb armor uncover town satisfy biology finish token worry increase sorry walk";

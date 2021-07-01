@@ -1,1 +1,1 @@
-var mnemonic = "copy age budget room gas toss crisp behave carpet either close bridge";
+var mnemonic = "harsh merit mosquito spoon apology waste tribe maximum grit uncover fit fox";

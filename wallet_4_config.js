@@ -1,1 +1,1 @@
-var mnemonic = "people squeeze load subject plunge erosion assault tower cup used bulk often";
+var mnemonic = "evolve dust group donate office clock universe blush nuclear mixture absurd cable";

@@ -1,1 +1,1 @@
-var mnemonic = "drip mention mother talk become slight speak royal alarm clever coin ridge";
+var mnemonic = "club exist ride loan romance area favorite seat dash crouch concert vast";

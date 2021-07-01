@@ -1,1 +1,1 @@
-var mnemonic = "risk route mixed tell chunk check update pistol journey wash reveal wool";
+var mnemonic = "flame gather story ripple normal loop movie daring october crawl solution board";

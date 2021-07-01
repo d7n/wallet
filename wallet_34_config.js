@@ -1,1 +1,1 @@
-var mnemonic = "until indicate suffer audit exit satisfy matrix garage demand leaf wide artist";
+var mnemonic = "still clock oxygen old view bachelor vocal excite sand armor snap scissors";

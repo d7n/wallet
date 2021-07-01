@@ -1,1 +1,1 @@
-var mnemonic = "scan life slow faculty giraffe entire female mystery review cargo outside ship";
+var mnemonic = "system anxiety mechanic quick giant insect point kid want lumber erase design";

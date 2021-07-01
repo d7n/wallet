@@ -1,1 +1,1 @@
-var mnemonic = "farm ramp banner supply clever camera venue summer picnic struggle correct era";
+var mnemonic = "arrange awesome horror delay soul future end paper ordinary price helmet nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "language reunion quiz moral face indicate follow soccer west rookie suspect relax";
+var mnemonic = "fury also silver cigar knife rain drift dune jelly add soccer bacon";

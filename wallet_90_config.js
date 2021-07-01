@@ -1,1 +1,1 @@
-var mnemonic = "giggle section atom genuine issue rapid train crater soda adapt trip produce";
+var mnemonic = "sell tell around approve broken wisdom bread wave identify clinic donor sand";

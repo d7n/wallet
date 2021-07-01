@@ -1,1 +1,1 @@
-var mnemonic = "black reject foil cactus subway salad film later retire click funny royal";
+var mnemonic = "host soap film canyon category taxi bulb fiscal rug viable defy dolphin";

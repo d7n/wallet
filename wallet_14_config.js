@@ -1,1 +1,1 @@
-var mnemonic = "once rule chicken butter edge crouch know lady curious plate acquire razor";
+var mnemonic = "improve holiday order upset void drastic rebuild say later smart web connect";

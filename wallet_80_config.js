@@ -1,1 +1,1 @@
-var mnemonic = "bounce almost taste happy asthma elegant inflict stand place direct surround easily";
+var mnemonic = "ghost design lab use chef few evoke pepper floor image brisk tortoise";

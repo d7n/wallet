@@ -1,1 +1,1 @@
-var mnemonic = "glue cat escape bicycle nerve finger little time equal moral paddle lunar";
+var mnemonic = "funny quick doll throw rent dawn scout device ridge size cheese issue";

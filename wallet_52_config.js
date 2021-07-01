@@ -1,1 +1,1 @@
-var mnemonic = "tape spread tumble feed drop atom climb asthma kiwi auction burden choose";
+var mnemonic = "custom crime apology plate omit hill teach aerobic tree decline unable speed";

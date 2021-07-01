@@ -1,1 +1,1 @@
-var mnemonic = "filter odor chimney frown moment endless vibrant liquid hedgehog exclude survey lake";
+var mnemonic = "throw crater novel virtual latin confirm install act warrior honey mad hungry";

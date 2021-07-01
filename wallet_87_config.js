@@ -1,1 +1,1 @@
-var mnemonic = "arm win woman nominee exile apart mesh wash tornado help segment slab";
+var mnemonic = "donate token ankle attend inner best solution diet turkey day milk version";

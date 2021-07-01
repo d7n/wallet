@@ -1,1 +1,1 @@
-var mnemonic = "city file gravity sick rain pudding share fetch lounge voyage traffic digital";
+var mnemonic = "mother rude beyond prison traffic damp same cruise transfer pelican stable surface";

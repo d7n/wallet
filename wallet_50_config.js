@@ -1,1 +1,1 @@
-var mnemonic = "disorder pig unknown casual skirt letter narrow air spice fluid elbow double";
+var mnemonic = "sleep worry saddle faculty crisp today black crash ribbon curtain among tortoise";

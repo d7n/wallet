@@ -1,1 +1,1 @@
-var mnemonic = "glare bleak twenty jealous series unable liquid city fashion bar census cabin";
+var mnemonic = "pink marble venture corn rough front outside hero spoil shaft misery finger";
