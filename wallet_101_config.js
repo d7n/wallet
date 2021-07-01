@@ -1,1 +1,1 @@
-var mnemonic = "hospital fruit series chapter uniform bridge just valid adult argue remain pistol";
+var mnemonic = "depth swear resource team gas pilot nasty spice that wrestle harsh cannon";

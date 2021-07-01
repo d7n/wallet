@@ -1,1 +1,1 @@
-var mnemonic = "muffin juice mass wait budget derive wink amazing office impulse behind tomorrow";
+var mnemonic = "salon stadium ankle yellow armor frozen outdoor code kick wrap subway torch";

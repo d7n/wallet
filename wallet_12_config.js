@@ -1,1 +1,1 @@
-var mnemonic = "walnut soul theory minor chronic dish gather frequent elevator polar team link";
+var mnemonic = "theme fetch receive tattoo trust script fun about inmate banner select abandon";

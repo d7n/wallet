@@ -1,1 +1,1 @@
-var mnemonic = "eternal cheese fade expect eagle proud source enough bless viable melt menu";
+var mnemonic = "crowd noise dynamic pear erupt popular maple govern blue advice head brand";

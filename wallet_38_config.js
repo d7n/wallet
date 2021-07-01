@@ -1,1 +1,1 @@
-var mnemonic = "question flag gadget flip prosper result remind regret during cross essay extra";
+var mnemonic = "spell forest rug diagram observe mammal quantum room rebel devote trigger embody";

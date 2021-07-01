@@ -1,1 +1,1 @@
-var mnemonic = "update second pupil essay will depart sound enjoy jungle dash various drop";
+var mnemonic = "peasant kick black color crisp true arrest bundle shell modify neutral sudden";

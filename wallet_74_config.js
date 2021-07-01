@@ -1,1 +1,1 @@
-var mnemonic = "blind strong pig suspect fence fiction strike key vapor shoulder awake perfect";
+var mnemonic = "online rail spy bus orange blush demand cook fortune unfair arrest state";

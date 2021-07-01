@@ -1,1 +1,1 @@
-var mnemonic = "shop lawsuit pair doctor drink auto major alter vocal comic public brown";
+var mnemonic = "picnic exist course wing ready same strategy milk theory pepper nerve sting";

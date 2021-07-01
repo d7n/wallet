@@ -1,1 +1,1 @@
-var mnemonic = "already letter unable ivory gasp ride debris universe device whale clean night";
+var mnemonic = "cluster hard credit parade mixed firm elevator hip property reject keep cake";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion defy raw clarify pole tomato practice gauge nasty train tower aim";
+var mnemonic = "fancy test measure replace tooth police company expire draft soap hat lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi chicken fury image endorse response bicycle pumpkin ship anchor shallow embark";
+var mnemonic = "tube gesture unfair subject train noise ladder comic wrong parent merit cereal";

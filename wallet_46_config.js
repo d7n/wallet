@@ -1,1 +1,1 @@
-var mnemonic = "salad cave planet actor worry gold police innocent clog mountain alert midnight";
+var mnemonic = "famous magic wire mammal gesture someone neutral gravity blouse long machine holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "awake fabric under potato craft worry margin key diary deer gown elder";
+var mnemonic = "lava clog plunge endorse solution topic truck someone leisure dismiss weasel ghost";

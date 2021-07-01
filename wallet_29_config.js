@@ -1,1 +1,1 @@
-var mnemonic = "say amount person owner item stand casino become pitch bread income regular";
+var mnemonic = "soup entire job fever squirrel online birth town want rabbit spring appear";

@@ -1,1 +1,1 @@
-var mnemonic = "blade burger flight attract merit idea horn fun hedgehog when equal caught";
+var mnemonic = "only lend actor horror struggle quarter know innocent beyond settle fine kite";

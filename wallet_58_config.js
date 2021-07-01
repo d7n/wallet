@@ -1,1 +1,1 @@
-var mnemonic = "actress permit view crawl shock spy glad screen shine tunnel never tragic";
+var mnemonic = "humble sun churn salad asthma disagree crazy grain blur suffer romance brick";

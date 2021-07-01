@@ -1,1 +1,1 @@
-var mnemonic = "absent lounge option blind absent prevent shrug slam cattle crater unit brisk";
+var mnemonic = "profit envelope planet eye hip omit source digital paper fault region essence";

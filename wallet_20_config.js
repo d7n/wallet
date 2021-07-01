@@ -1,1 +1,1 @@
-var mnemonic = "burden theory shoot hat wise term comic aunt stomach bargain token indicate";
+var mnemonic = "lonely permit scissors else aware usual bird summer produce parent cancel interest";

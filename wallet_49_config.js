@@ -1,1 +1,1 @@
-var mnemonic = "kind mean foil excess gate breeze find wire void antique stick series";
+var mnemonic = "short silly robot jungle swallow column image weapon owner ozone club luggage";

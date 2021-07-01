@@ -1,1 +1,1 @@
-var mnemonic = "fiber leisure pledge major bridge derive crop original dial vital letter soft";
+var mnemonic = "ozone beyond funny motor describe purchase warfare bicycle violin raw regular legal";

@@ -1,1 +1,1 @@
-var mnemonic = "famous olympic six raise cliff boost clip hard carry wonder spot upset";
+var mnemonic = "act follow sure belt quiz garage enforce common brass chuckle notable window";

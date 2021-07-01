@@ -1,1 +1,1 @@
-var mnemonic = "cheese road decline organ region mask language achieve slice elder kiwi trash";
+var mnemonic = "city spell aware open barrel educate depend ignore length refuse toe olive";

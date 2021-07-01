@@ -1,1 +1,1 @@
-var mnemonic = "frequent immense comic taxi almost base before dentist example above census wife";
+var mnemonic = "blade scale reduce amazing way midnight wisdom service horn hello work switch";

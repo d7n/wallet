@@ -1,1 +1,1 @@
-var mnemonic = "correct cupboard art execute day defense lake budget finger steel market blanket";
+var mnemonic = "embark sport frog nuclear they elbow process vendor kit guess topic heart";

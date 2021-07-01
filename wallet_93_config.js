@@ -1,1 +1,1 @@
-var mnemonic = "inspire beach trumpet flat shed mean hobby elbow begin run exclude choice";
+var mnemonic = "shell slush wolf solution misery extra elephant state stage rapid master dwarf";

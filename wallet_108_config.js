@@ -1,1 +1,1 @@
-var mnemonic = "apple cause safe response weekend stem code vote globe balcony zoo glance";
+var mnemonic = "dolphin rebel comic eternal noodle diary laptop cost speed blossom title admit";

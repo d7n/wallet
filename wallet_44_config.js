@@ -1,1 +1,1 @@
-var mnemonic = "earn detail crystal tennis latin core order lonely snake wild usage harbor";
+var mnemonic = "crumble sniff wild left fold people color license cradle three until early";

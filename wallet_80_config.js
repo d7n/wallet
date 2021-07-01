@@ -1,1 +1,1 @@
-var mnemonic = "rabbit prevent october tone crop visa notable special detail describe screen chef";
+var mnemonic = "slogan broken opera keep vault duck negative auto assist abstract extra gun";

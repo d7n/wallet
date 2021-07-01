@@ -1,1 +1,1 @@
-var mnemonic = "suspect mad area lab bulk ill pencil warrior focus metal chef primary";
+var mnemonic = "shock praise repeat rocket client fiction garbage senior annual start side reduce";

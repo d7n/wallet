@@ -1,1 +1,1 @@
-var mnemonic = "dry pond school oval coast web opinion apple spoil change load dizzy";
+var mnemonic = "embark day owner avoid lake multiply easy merit you property bargain staff";

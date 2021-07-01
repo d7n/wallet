@@ -1,1 +1,1 @@
-var mnemonic = "fossil laundry churn actress shoe clown wrap minimum security away uniform subject";
+var mnemonic = "index essence birth phone hawk palm audit retire case blood hair language";

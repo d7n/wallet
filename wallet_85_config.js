@@ -1,1 +1,1 @@
-var mnemonic = "resource cry connect miss unveil obvious shadow hope crash wing uphold bamboo";
+var mnemonic = "black trust write grocery gold else reward female young lesson table bar";

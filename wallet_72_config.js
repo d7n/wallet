@@ -1,1 +1,1 @@
-var mnemonic = "quit select weasel tilt cabbage female below anchor split grit foil lobster";
+var mnemonic = "alpha garbage book glove duty verify police gallery shell wealth way cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset real lounge correct select weasel gloom harbor rotate silver vivid alert";
+var mnemonic = "planet valid now wolf measure animal town loud pet exclude voice cost";

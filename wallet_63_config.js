@@ -1,1 +1,1 @@
-var mnemonic = "arch essence master attend moral dutch slogan wool sword lake bike together";
+var mnemonic = "gallery track quantum home carry become mouse image wear daring cruel follow";

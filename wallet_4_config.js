@@ -1,1 +1,1 @@
-var mnemonic = "primary domain clutch exile raw gossip same predict luggage cave arctic hurry";
+var mnemonic = "surround vote mobile sense curtain guess pole calm angle idle delay still";

@@ -1,1 +1,1 @@
-var mnemonic = "kit pistol romance bomb force clump bottom exotic yard kick live good";
+var mnemonic = "similar replace always slogan label void bless receive moon give neglect valley";

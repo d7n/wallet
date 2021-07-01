@@ -1,1 +1,1 @@
-var mnemonic = "ripple catalog file seminar infant loop digital fire area solve universe post";
+var mnemonic = "inch staff chair desk pioneer south more visit dial scheme please control";

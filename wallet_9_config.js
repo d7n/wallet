@@ -1,1 +1,1 @@
-var mnemonic = "left task mango provide patrol venue video just soul core bread melt";
+var mnemonic = "enable cotton enhance rally ankle trust impact name reward gap rubber before";

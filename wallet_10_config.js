@@ -1,1 +1,1 @@
-var mnemonic = "loop old pond since clutch sorry crush spring math clerk blush gadget";
+var mnemonic = "pepper fringe dust chuckle scout choice toward unhappy clerk barrel flip expose";

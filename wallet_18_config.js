@@ -1,1 +1,1 @@
-var mnemonic = "toast manual problem deputy blue shield surround throw cream energy space junk";
+var mnemonic = "useful emerge horror trip draft drink license weasel hobby sibling weekend student";

@@ -1,1 +1,1 @@
-var mnemonic = "donate client hand rapid where yard movie pave guitar gold document lonely";
+var mnemonic = "salute awesome asthma crane tree net kiwi favorite fiscal merry simple worth";

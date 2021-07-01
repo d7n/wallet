@@ -1,1 +1,1 @@
-var mnemonic = "initial parrot march buyer rescue spin praise gorilla quick define hotel turtle";
+var mnemonic = "vital tribe prepare misery hour scale atom able flush power rare spend";

@@ -1,1 +1,1 @@
-var mnemonic = "easily uniform public size tail split steel jazz rebuild lab sadness absent";
+var mnemonic = "squeeze talk often ramp village device woman lift domain drink what layer";

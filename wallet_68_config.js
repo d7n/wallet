@@ -1,1 +1,1 @@
-var mnemonic = "learn knee dust logic lawn dignity use umbrella borrow three security improve";
+var mnemonic = "east punch shrimp dry rough profit kiss maple brass rigid odor anger";

@@ -1,1 +1,1 @@
-var mnemonic = "organ rapid dad skin until april reflect spin lawsuit liberty outside venue";
+var mnemonic = "daughter polar tobacco grocery unit veteran jazz embody barely online page monitor";

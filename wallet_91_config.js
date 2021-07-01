@@ -1,1 +1,1 @@
-var mnemonic = "next chest lizard smooth odor rule economy regular female shell aim citizen";
+var mnemonic = "agent original local blur foil awake update young leader update level blouse";

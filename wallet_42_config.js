@@ -1,1 +1,1 @@
-var mnemonic = "sort bundle guilt blast body absorb kitchen soul warrior example muffin window";
+var mnemonic = "opera quick emerge rhythm snack book idle park chalk other hundred sing";

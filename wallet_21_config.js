@@ -1,1 +1,1 @@
-var mnemonic = "acquire frame frame grunt obvious view base page comic cat program flame";
+var mnemonic = "portion vacant step fresh warm gossip ritual guilt anger credit license tonight";

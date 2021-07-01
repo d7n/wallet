@@ -1,1 +1,1 @@
-var mnemonic = "flat century quit fantasy just grow risk search shove category explain film";
+var mnemonic = "hazard prosper text midnight goat panther toy stay panda battle split cart";

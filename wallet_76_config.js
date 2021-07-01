@@ -1,1 +1,1 @@
-var mnemonic = "clever tourist project cattle pear harvest pause switch ladder ordinary wash return";
+var mnemonic = "asthma isolate typical keep pact hill demise draft apple rack fork lottery";

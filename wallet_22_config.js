@@ -1,1 +1,1 @@
-var mnemonic = "dirt erode guide indicate notice barely rural obvious erosion lawsuit carpet village";
+var mnemonic = "author seminar name surround weather ozone drip zero turkey raise edit nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal grid syrup addict about stairs crater chat raise scout assume column";
+var mnemonic = "receive elbow noodle gasp reward issue excite crime erosion wild make rose";

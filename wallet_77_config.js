@@ -1,1 +1,1 @@
-var mnemonic = "reform style fiction town tongue cute sign canoe slender predict promote symbol";
+var mnemonic = "boost swamp melody junior will gap shove mandate among hobby coin scale";

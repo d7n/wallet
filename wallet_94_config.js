@@ -1,1 +1,1 @@
-var mnemonic = "doll ancient talent cannon flat toilet knee lift can salad output media";
+var mnemonic = "pledge hurt recall resource stove debate process pet west hockey gown east";

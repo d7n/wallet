@@ -1,1 +1,1 @@
-var mnemonic = "suit property pair foster fiscal aunt shoulder glare erode fiscal child exhaust";
+var mnemonic = "insect involve any roast icon hope cross maze wire aerobic arctic artist";

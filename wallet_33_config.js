@@ -1,1 +1,1 @@
-var mnemonic = "nerve modify pluck solve change output enroll urge symbol always glimpse offer";
+var mnemonic = "purse orbit industry horn train home club sad pulse ahead hour roast";

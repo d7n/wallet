@@ -1,1 +1,1 @@
-var mnemonic = "oil million defense plate weekend gather dynamic pet club laptop sorry double";
+var mnemonic = "skirt useful giggle card cook holiday chimney scout absent dynamic cupboard rookie";

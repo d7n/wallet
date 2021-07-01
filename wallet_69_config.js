@@ -1,1 +1,1 @@
-var mnemonic = "switch federal awesome sword ghost funny time sad choose crew fatigue bacon";
+var mnemonic = "limb usual home sniff marriage green top wheat essence magic kingdom cram";

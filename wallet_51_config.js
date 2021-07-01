@@ -1,1 +1,1 @@
-var mnemonic = "forward leaf old canyon topic day survey knock trend rocket during maze";
+var mnemonic = "movie song only antique appear pass cupboard beach purse hand install inch";

@@ -1,1 +1,1 @@
-var mnemonic = "flush panther federal easily switch unable climb material entire cube toast exhaust";
+var mnemonic = "twenty actress resist acid safe pole fox uphold mom rice picnic gorilla";

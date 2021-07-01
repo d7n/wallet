@@ -1,1 +1,1 @@
-var mnemonic = "blur piece match humor anxiety piano idea ill avoid weather label like";
+var mnemonic = "gloom social found lonely small cherry giraffe trigger clarify zoo dragon protect";

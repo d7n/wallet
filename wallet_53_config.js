@@ -1,1 +1,1 @@
-var mnemonic = "fatal margin near napkin easily pyramid neglect cost impulse reunion away pair";
+var mnemonic = "name pioneer chicken scene found coyote radar trash noble win foil right";

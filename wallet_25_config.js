@@ -1,1 +1,1 @@
-var mnemonic = "zoo tube model board hundred know farm option vacuum produce clerk faint";
+var mnemonic = "raven toe alley scrap appear goose catalog that long fluid giant manage";

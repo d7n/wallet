@@ -1,1 +1,1 @@
-var mnemonic = "team upset slush dog secret antique nephew course swing game badge ripple";
+var mnemonic = "teach where inhale early february resist spare rib purity hybrid indoor vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo notable clean liberty float reason goose gold clay seed green bicycle";
+var mnemonic = "exile bone remind own where bullet disagree light fame bus skin volume";

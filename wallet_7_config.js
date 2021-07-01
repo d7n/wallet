@@ -1,1 +1,1 @@
-var mnemonic = "price seven sort receive fall away cloud jaguar parade tissue proof movie";
+var mnemonic = "legal empower aisle harvest body asthma funny lawsuit misery sugar view decline";

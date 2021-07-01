@@ -1,1 +1,1 @@
-var mnemonic = "price before aerobic future vocal gas noble funny shield control balance because";
+var mnemonic = "announce surge hip steel usage ketchup fault large entire circle audit across";

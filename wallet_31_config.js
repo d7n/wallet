@@ -1,1 +1,1 @@
-var mnemonic = "flip rescue coconut trash woman post once increase strike wedding coast reduce";
+var mnemonic = "orchard ability point alarm midnight raven extra crystal front replace wasp tongue";

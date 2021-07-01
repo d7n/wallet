@@ -1,1 +1,1 @@
-var mnemonic = "movie damage flash school video stone urge teach situate cloth actress any";
+var mnemonic = "snap super intact pioneer voyage clog universe tilt room other company item";

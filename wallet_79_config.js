@@ -1,1 +1,1 @@
-var mnemonic = "wine illegal accident pill tunnel praise park satisfy soon session across veteran";
+var mnemonic = "crater gym trophy undo drive situate beef armor claw gravity certain shell";

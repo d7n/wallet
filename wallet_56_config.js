@@ -1,1 +1,1 @@
-var mnemonic = "roast logic patient sister mutual powder prepare custom comfort symbol abuse april";
+var mnemonic = "acoustic two pulp neither crop purpose tragic electric sudden mistake magic afraid";

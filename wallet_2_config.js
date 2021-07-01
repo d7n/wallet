@@ -1,1 +1,1 @@
-var mnemonic = "total cube erosion elevator rural arrive box stairs draft hair dwarf feature";
+var mnemonic = "gap nephew egg poem acid express stick insane life now raise feel";

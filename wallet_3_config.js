@@ -1,1 +1,1 @@
-var mnemonic = "syrup top verify worth ability lawsuit legend oxygen car amateur good ill";
+var mnemonic = "tail phone stuff admit peace upon radio mule advice strike maid tape";

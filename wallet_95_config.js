@@ -1,1 +1,1 @@
-var mnemonic = "front symptom balance digital walnut prize hood type club height erode brisk";
+var mnemonic = "utility cover satisfy smart element imitate penalty engine suffer vacuum find disorder";

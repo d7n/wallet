@@ -1,1 +1,1 @@
-var mnemonic = "gown island wisdom library crazy glance palm foam affair ancient vendor fantasy";
+var mnemonic = "universe salad hole recall castle monkey bean off vital manage fiscal genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "bike woman session suggest tube scout mouse obscure devote glad judge swift";
+var mnemonic = "chair level clean ketchup antenna day celery interest reduce joke clean witness";

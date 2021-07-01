@@ -1,1 +1,1 @@
-var mnemonic = "grain liquid spring stove today wolf opera song mule churn flower connect";
+var mnemonic = "kid stem lumber culture diesel repair denial sting twenty kid junior harsh";

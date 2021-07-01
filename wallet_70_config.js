@@ -1,1 +1,1 @@
-var mnemonic = "rug slot enlist illness catalog math kick easy auto tray cradle gravity";
+var mnemonic = "various post fashion update fame hockey sun glory relief derive dilemma term";

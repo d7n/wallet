@@ -1,1 +1,1 @@
-var mnemonic = "maximum destroy tunnel island follow average horn kite own also head bulk";
+var mnemonic = "drop cake wave assist sauce blood front able audit quote neglect autumn";

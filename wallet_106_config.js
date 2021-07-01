@@ -1,1 +1,1 @@
-var mnemonic = "swamp flip convince ozone option little candy mandate three reject mosquito despair";
+var mnemonic = "neither rigid taste mutual envelope diary casino fluid garage limit jeans shed";

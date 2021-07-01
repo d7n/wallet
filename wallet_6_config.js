@@ -1,1 +1,1 @@
-var mnemonic = "silent maximum pupil dwarf project leader fortune victory eyebrow current between pink";
+var mnemonic = "cruel matter start sound put dirt plastic illegal act brain loud metal";

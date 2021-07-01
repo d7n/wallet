@@ -1,1 +1,1 @@
-var mnemonic = "drive omit across unique eyebrow sample fat around torch holiday innocent client";
+var mnemonic = "kiwi half seminar bundle innocent arctic sight celery when nephew sick practice";

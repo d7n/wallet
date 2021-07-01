@@ -1,1 +1,1 @@
-var mnemonic = "sad average dove purchase olive trade quit inner clever brain kit transfer";
+var mnemonic = "sing patch link prison ozone improve desert novel interest similar jazz pool";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace grain outer tragic busy party behind feed thumb analyst poverty ordinary";
+var mnemonic = "fold robot clump orphan leg neutral assist photo year relax dream knife";

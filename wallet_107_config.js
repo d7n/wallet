@@ -1,1 +1,1 @@
-var mnemonic = "mean elbow skin ill wrestle interest arena arm frown captain just green";
+var mnemonic = "base fish forest side exercise dinosaur salt crane smart mosquito tobacco record";

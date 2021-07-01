@@ -1,1 +1,1 @@
-var mnemonic = "cable faint hold enrich village poet sorry stick detect evoke wrap couch";
+var mnemonic = "inject suit legend snap door clarify digital move easy document fiscal consider";

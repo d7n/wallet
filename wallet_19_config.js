@@ -1,1 +1,1 @@
-var mnemonic = "unhappy shop poet rain stage hen topic stuff drastic afraid elbow pepper";
+var mnemonic = "panel secret body tone distance knife leave equip worry ozone frozen warrior";

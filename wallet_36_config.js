@@ -1,1 +1,1 @@
-var mnemonic = "apple twice super tooth sweet board stumble festival sleep taxi tower asthma";
+var mnemonic = "audit gold image vital immune distance dress split pepper surface awful husband";
