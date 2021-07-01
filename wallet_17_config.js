@@ -1,1 +1,1 @@
-var mnemonic = "twelve silver host convince pledge push face winter ignore car wedding fall";
+var mnemonic = "enhance enable jelly snow truth easily demand sad scissors black inject ship";

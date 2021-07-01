@@ -1,1 +1,1 @@
-var mnemonic = "layer true maximum idle mention bridge shallow drill erosion fiction breeze aisle";
+var mnemonic = "shop crawl tomorrow talent into derive muscle thing giggle bacon great hidden";

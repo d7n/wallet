@@ -1,1 +1,1 @@
-var mnemonic = "depth awkward learn real antique sell typical rule hamster immense purity spike";
+var mnemonic = "garment spend slide faint able comic episode source erupt donkey cruel clever";

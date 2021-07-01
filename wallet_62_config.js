@@ -1,1 +1,1 @@
-var mnemonic = "jelly hope barrel fall salute drum roof spice ranch inner donate diet";
+var mnemonic = "pulse circle quit toilet cute believe resource fence dune poverty decide always";

@@ -1,1 +1,1 @@
-var mnemonic = "duty hope wave fat primary spice tonight sock face such high video";
+var mnemonic = "brown skill abandon nephew vault hockey reason monkey town domain result meat";

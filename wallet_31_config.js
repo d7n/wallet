@@ -1,1 +1,1 @@
-var mnemonic = "level gallery disagree badge hero vehicle access empower rack guess banner tell";
+var mnemonic = "key marriage conduct funny armor index merit bulb fine can sample matter";

@@ -1,1 +1,1 @@
-var mnemonic = "any shadow track category crane claim decade employ morning focus bridge gospel";
+var mnemonic = "album script humor ignore neck around rebel firm truth apology bicycle sentence";

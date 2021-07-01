@@ -1,1 +1,1 @@
-var mnemonic = "exhibit ensure avoid door river hunt holiday absurd rule thing turtle exact";
+var mnemonic = "truly trumpet ritual multiply emotion oyster enroll bag emotion check deposit pink";

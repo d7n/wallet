@@ -1,1 +1,1 @@
-var mnemonic = "fade behave area devote outer few idea say oval task point matter";
+var mnemonic = "light jeans caught plate genuine provide upset fame sadness bind way jump";

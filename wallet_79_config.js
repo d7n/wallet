@@ -1,1 +1,1 @@
-var mnemonic = "theory black copy other above weapon mansion naive shock sibling bachelor opinion";
+var mnemonic = "animal elegant stone word you normal reopen brave kitten announce come acid";

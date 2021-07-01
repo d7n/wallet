@@ -1,1 +1,1 @@
-var mnemonic = "polar rent loyal fog wrestle mesh spare practice exhibit romance deal cotton";
+var mnemonic = "basket wedding cricket shadow account lunch relief area outer ugly invest thumb";

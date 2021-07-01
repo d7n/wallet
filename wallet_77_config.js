@@ -1,1 +1,1 @@
-var mnemonic = "never pioneer wagon myth slab ramp relax antenna illegal gasp merge worry";
+var mnemonic = "solution rescue derive shoot retire label afford right random attitude bubble embody";

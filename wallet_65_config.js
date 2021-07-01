@@ -1,1 +1,1 @@
-var mnemonic = "curve occur dutch tip present candy safe phone giggle sponsor invite length";
+var mnemonic = "pyramid cabbage tape ancient sponsor knock melt victory state glance fluid wave";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake six fatigue able salon girl subject cereal away since hotel empower";
+var mnemonic = "eager still rude like merry filter canal extra pizza suit rack produce";

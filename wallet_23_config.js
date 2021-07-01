@@ -1,1 +1,1 @@
-var mnemonic = "loan business fire confirm sorry photo normal gown save apart recipe remain";
+var mnemonic = "zone frozen antenna sphere decline spoon expose shine wire feed panel grab";

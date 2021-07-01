@@ -1,1 +1,1 @@
-var mnemonic = "viable loyal female tennis renew twist valid seven utility manage grab into";
+var mnemonic = "possible teach monitor remind term surround nuclear sad help bind shadow joy";

@@ -1,1 +1,1 @@
-var mnemonic = "solve comfort myth result debris kangaroo fortune detail anxiety funny universe reunion";
+var mnemonic = "park swarm wide couch salute enemy want present liberty wreck drama winter";

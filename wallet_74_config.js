@@ -1,1 +1,1 @@
-var mnemonic = "hybrid jelly slush effort craft venture later usage primary convince brother dish";
+var mnemonic = "speak ginger reduce west someone about pudding stuff frog axis design calm";

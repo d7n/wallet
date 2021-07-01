@@ -1,1 +1,1 @@
-var mnemonic = "devote sort opinion utility drip impulse night exact hidden erosion arm girl";
+var mnemonic = "wide mobile twice fiction inject embark into fashion call secret weather dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer comfort burst lyrics true couch beach mirror cattle want then sick";
+var mnemonic = "foam once maximum primary direct width illegal deliver vital garbage mercy noise";

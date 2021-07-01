@@ -1,1 +1,1 @@
-var mnemonic = "sad cart beyond spread major happy decorate home mansion hurt senior razor";
+var mnemonic = "burst slice weasel pair disagree limit sleep oyster brush tribe green wedding";

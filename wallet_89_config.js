@@ -1,1 +1,1 @@
-var mnemonic = "gold estate adjust stereo tortoise fade seek multiply pledge claim screen device";
+var mnemonic = "smooth learn window end equal slide antique toward allow rack shield aunt";

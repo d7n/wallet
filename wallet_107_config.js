@@ -1,1 +1,1 @@
-var mnemonic = "ahead sadness clump reduce artwork ring cement device make rubber miss soul";
+var mnemonic = "online scrap gravity north pear bottom turtle settle vanish prepare hobby exact";

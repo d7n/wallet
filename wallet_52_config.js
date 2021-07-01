@@ -1,1 +1,1 @@
-var mnemonic = "hello mother increase filter pulse general present craft foot wife donate enact";
+var mnemonic = "mix giant diet figure lucky merry small view cricket volume arena pitch";

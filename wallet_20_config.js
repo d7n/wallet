@@ -1,1 +1,1 @@
-var mnemonic = "cat soap swing erosion spot decorate twenty twice sunny shell grunt maple";
+var mnemonic = "over weasel liberty orphan review canal mesh smoke subway milk kid voice";

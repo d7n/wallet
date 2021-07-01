@@ -1,1 +1,1 @@
-var mnemonic = "oppose wire castle spring bean chief myself item logic wait misery mass";
+var mnemonic = "chimney alcohol sketch upset ladder horn sport dynamic clutch grocery install coral";

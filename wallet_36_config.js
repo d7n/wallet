@@ -1,1 +1,1 @@
-var mnemonic = "relax fish tennis beyond exotic inform escape shiver follow smoke romance bean";
+var mnemonic = "expire grief panic spot sound claw transfer dumb top pudding apart black";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce amused upon scale science trim tone view solid iron orchard borrow";
+var mnemonic = "peace abandon glare duck mountain ignore guide error ordinary usage produce fire";

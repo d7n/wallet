@@ -1,1 +1,1 @@
-var mnemonic = "cargo lend shield cook reveal once grab despair void weekend post advice";
+var mnemonic = "vintage elder will butter slice arrow orchard lazy coffee barely demand name";

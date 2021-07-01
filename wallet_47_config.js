@@ -1,1 +1,1 @@
-var mnemonic = "slab science laptop face wink exclude clown final miss coin advance torch";
+var mnemonic = "anxiety actress identify knock rain bench culture garlic tube fiber aerobic hood";

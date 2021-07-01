@@ -1,1 +1,1 @@
-var mnemonic = "food sense spell flush project ready giggle blast copper close feed unknown";
+var mnemonic = "pupil canal bag birth almost rally expose whisper crystal honey verb absent";

@@ -1,1 +1,1 @@
-var mnemonic = "host observe thrive phrase advice element upon poverty board crystal drive little";
+var mnemonic = "mercy good icon tuna option toward vast lamp document novel onion assault";

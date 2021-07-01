@@ -1,1 +1,1 @@
-var mnemonic = "guitar risk find speak comfort middle wrong service critic vehicle bus smooth";
+var mnemonic = "belt lock rigid latin donor ticket charge disease pudding cushion seminar fatigue";

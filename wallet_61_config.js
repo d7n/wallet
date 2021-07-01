@@ -1,1 +1,1 @@
-var mnemonic = "survey deputy supply color six tuna fold visit shiver like lab hard";
+var mnemonic = "logic bring fringe drop current wait method when between hobby library ice";

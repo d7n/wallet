@@ -1,1 +1,1 @@
-var mnemonic = "knock drip legend average school tribe cluster hint use begin home monster";
+var mnemonic = "copper also blossom know draw twice nurse dress design sponsor food truth";

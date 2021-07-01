@@ -1,1 +1,1 @@
-var mnemonic = "project future maple silk school digital body axis student install multiply weird";
+var mnemonic = "hammer shrimp uphold friend infant mean front because vivid hurdle onion hen";

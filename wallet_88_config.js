@@ -1,1 +1,1 @@
-var mnemonic = "nominee pottery worry armor enjoy civil bulb cheese dose inform forget place";
+var mnemonic = "gift awesome favorite token open gaze mad grant melt cry note pottery";

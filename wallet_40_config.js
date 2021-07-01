@@ -1,1 +1,1 @@
-var mnemonic = "candy earn genre garden element census meadow furnace celery effort awful click";
+var mnemonic = "soda claim burst boat border omit boat dog knee fish accuse possible";

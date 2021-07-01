@@ -1,1 +1,1 @@
-var mnemonic = "found crisp exhibit shift cheap catalog old motor window first sport siege";
+var mnemonic = "leisure vault among gas receive strong have admit actress there visit knock";

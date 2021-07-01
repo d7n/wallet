@@ -1,1 +1,1 @@
-var mnemonic = "wet gadget vague confirm cousin volcano success doll firm congress machine number";
+var mnemonic = "seat vital coffee satoshi salmon skirt deliver fiber member glue drink film";

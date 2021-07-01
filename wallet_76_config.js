@@ -1,1 +1,1 @@
-var mnemonic = "extra crawl shrimp humor joy road better portion sword disagree sudden true";
+var mnemonic = "dutch permit strategy noble velvet unique twist enough memory harsh guide strike";

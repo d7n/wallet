@@ -1,1 +1,1 @@
-var mnemonic = "flush muscle affair page donor someone hint rose gown tunnel dizzy food";
+var mnemonic = "gas swim choice cereal state gym lucky equal train inject dismiss spy";

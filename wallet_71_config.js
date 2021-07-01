@@ -1,1 +1,1 @@
-var mnemonic = "timber gentle during animal scout plate risk scrub space install festival fix";
+var mnemonic = "merry lazy duck quality half damp dawn permit frown moral audit tissue";

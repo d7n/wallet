@@ -1,1 +1,1 @@
-var mnemonic = "first seat say allow december express legend swear race mixed library injury";
+var mnemonic = "derive harsh uniform symptom bronze desert gauge subject canal term alley modify";

@@ -1,1 +1,1 @@
-var mnemonic = "interest cream powder basic diet assist gauge shield absurd mango frog vocal";
+var mnemonic = "promote cloth rice album fatigue decorate sock thought fury decide sense scheme";

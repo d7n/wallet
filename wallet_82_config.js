@@ -1,1 +1,1 @@
-var mnemonic = "earth buyer work interest expire melody that trim maximum stereo vault economy";
+var mnemonic = "sunny denial debate design grow practice hollow forest universe veteran unfair price";

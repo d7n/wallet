@@ -1,1 +1,1 @@
-var mnemonic = "soda fresh palace armor worry canoe peasant viable media proud also tobacco";
+var mnemonic = "office repair hungry dog stumble moral flip misery calm arena surface worth";

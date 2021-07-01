@@ -1,1 +1,1 @@
-var mnemonic = "bicycle diamond program web people need joy page supreme six wrist nuclear";
+var mnemonic = "wrong profit enjoy desk recall grass child tooth half scheme bounce typical";

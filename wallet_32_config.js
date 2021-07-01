@@ -1,1 +1,1 @@
-var mnemonic = "kid post uncover bronze guitar army soap vault unhappy empower install repair";
+var mnemonic = "volume velvet onion just average scorpion final hockey shift lift spin quality";

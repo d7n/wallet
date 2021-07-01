@@ -1,1 +1,1 @@
-var mnemonic = "enter kick scene notice circle crane double boost oppose frog vivid jump";
+var mnemonic = "coast forward allow army whale inform abandon kitten between unfold heart two";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics excite alley rescue biology wish man strategy ring elite weather sugar";
+var mnemonic = "grant core moon crazy furnace comic today business kind strike donor pony";

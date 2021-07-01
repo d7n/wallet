@@ -1,1 +1,1 @@
-var mnemonic = "live tone major keen often hole pact tenant prize school tenant party";
+var mnemonic = "jar above twice hotel brisk budget sure mass escape gauge admit aspect";

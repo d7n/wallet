@@ -1,1 +1,1 @@
-var mnemonic = "garage install media stadium two inquiry comic girl switch purity debris slow";
+var mnemonic = "cloud worry error crisp genuine easily lock song foot girl fiscal brave";

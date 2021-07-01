@@ -1,1 +1,1 @@
-var mnemonic = "total few opera unknown amateur bean impose fruit oak basic trouble liberty";
+var mnemonic = "inject tuition physical exercise arch nominee robust quantum puzzle fancy bike able";

@@ -1,1 +1,1 @@
-var mnemonic = "course sample clock teach reject volcano hurdle dove patrol vote false lady";
+var mnemonic = "nuclear embrace right sign vapor sleep carpet fog perfect bitter street timber";

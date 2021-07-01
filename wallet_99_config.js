@@ -1,1 +1,1 @@
-var mnemonic = "thought mimic march very step trigger excess news bachelor little elite execute";
+var mnemonic = "slide junk airport sword okay announce wine tonight audit wish extend vicious";

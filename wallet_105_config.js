@@ -1,1 +1,1 @@
-var mnemonic = "tilt rent face candy marine common horror erase punch prevent thumb sudden";
+var mnemonic = "decorate dumb must decline theory start summer ring pulse try run attack";

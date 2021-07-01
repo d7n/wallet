@@ -1,1 +1,1 @@
-var mnemonic = "spirit phrase cost whale early antique seminar donor below gather elephant aware";
+var mnemonic = "holiday spread wait occur leisure fresh snake edit true clog task maple";

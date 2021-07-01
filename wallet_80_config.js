@@ -1,1 +1,1 @@
-var mnemonic = "choose lobster misery snack nose track cave learn derive betray inherit group";
+var mnemonic = "slow trigger link win area photo jazz length hawk element awake obtain";

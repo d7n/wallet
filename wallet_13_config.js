@@ -1,1 +1,1 @@
-var mnemonic = "parent horse recipe spare alarm rather nut walk biology seven slice island";
+var mnemonic = "solution limit advance aim false shy saddle tray mansion wrestle ability elephant";

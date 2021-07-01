@@ -1,1 +1,1 @@
-var mnemonic = "clever gasp approve mystery siege option body measure dice execute lyrics play";
+var mnemonic = "language bachelor prison awkward moment regret stuff charge injury trash music way";

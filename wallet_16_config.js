@@ -1,1 +1,1 @@
-var mnemonic = "kingdom awkward weasel hair island heavy accuse brisk picnic element afraid flight";
+var mnemonic = "alley trade depend bubble pull shop need total verb biology collect hockey";

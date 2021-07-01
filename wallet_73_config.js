@@ -1,1 +1,1 @@
-var mnemonic = "slush stable vital seven baby swift economy atom aware grocery enter clock";
+var mnemonic = "best poverty wheel meadow depart script tank pen glue kind cute angle";

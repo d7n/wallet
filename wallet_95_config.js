@@ -1,1 +1,1 @@
-var mnemonic = "lion drip forget inspire pattern chaos finish install iron submit size remind";
+var mnemonic = "engine match leader use put idle limb penalty depth symbol velvet clarify";

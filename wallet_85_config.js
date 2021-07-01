@@ -1,1 +1,1 @@
-var mnemonic = "memory diary mechanic that flip flat course palm owner squeeze off prefer";
+var mnemonic = "water dose catalog glory visual annual donkey hedgehog close purpose long fault";

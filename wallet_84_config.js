@@ -1,1 +1,1 @@
-var mnemonic = "all travel spot sponsor off west damp slot bone follow text icon";
+var mnemonic = "aspect dose chunk shove end blade empty pottery pulse surge girl later";

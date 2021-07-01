@@ -1,1 +1,1 @@
-var mnemonic = "office attitude glory reflect obscure era submit exchange museum perfect position call";
+var mnemonic = "betray noble forest enhance oyster recipe note say valley defy time heavy";

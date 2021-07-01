@@ -1,1 +1,1 @@
-var mnemonic = "voyage guard way believe supreme flame early judge wild defy collect myth";
+var mnemonic = "try original bitter hunt antenna grow run patient dentist fold village mixed";

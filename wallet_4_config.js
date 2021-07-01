@@ -1,1 +1,1 @@
-var mnemonic = "buffalo such radio donor badge brass remember exclude exotic impact crouch edge";
+var mnemonic = "remind area loop same rice nest frown hollow color craft decrease hip";

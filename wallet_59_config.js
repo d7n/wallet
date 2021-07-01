@@ -1,1 +1,1 @@
-var mnemonic = "squeeze tiger frog stable very guitar clarify walnut ecology critic insane just";
+var mnemonic = "govern clean space slice bus rigid fury force path plunge gentle dove";

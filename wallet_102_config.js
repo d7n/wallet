@@ -1,1 +1,1 @@
-var mnemonic = "infant sketch what distance right enough then quarter secret reflect demise broccoli";
+var mnemonic = "verify problem allow volcano cousin item lawn shine pottery throw swamp amazing";

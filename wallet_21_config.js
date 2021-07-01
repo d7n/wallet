@@ -1,1 +1,1 @@
-var mnemonic = "problem simple arena roast lawn solid reform inmate public oil matter lamp";
+var mnemonic = "glide theory ski wet bicycle alcohol useless injury found enforce nominee visa";

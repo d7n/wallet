@@ -1,1 +1,1 @@
-var mnemonic = "kit lottery lazy draft treat cliff teach list happy run another zebra";
+var mnemonic = "cover clip letter hybrid sort jungle soon mansion monster genius sheriff corn";

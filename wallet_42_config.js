@@ -1,1 +1,1 @@
-var mnemonic = "repeat tent fame hover blame art worry soft retire meadow snow seven";
+var mnemonic = "black betray useless story train scout tomorrow laugh six dragon holiday shield";

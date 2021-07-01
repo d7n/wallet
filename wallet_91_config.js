@@ -1,1 +1,1 @@
-var mnemonic = "wrong earn crumble repair such action friend blind void brief casino soldier";
+var mnemonic = "apart lucky amazing chronic little devote win grocery renew label laundry energy";

@@ -1,1 +1,1 @@
-var mnemonic = "beach repair pond gorilla toy unhappy horse like lend champion tenant lawsuit";
+var mnemonic = "hurry alarm sick remember project arrange hobby almost unhappy subway athlete repair";

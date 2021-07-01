@@ -1,1 +1,1 @@
-var mnemonic = "seek address warm jar federal domain replace rich gossip frog visual arrest";
+var mnemonic = "design about student acid level bounce split actual world gospel love all";

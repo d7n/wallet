@@ -1,1 +1,1 @@
-var mnemonic = "hint clown cost measure peanut dash funny venture tumble resemble zero poverty";
+var mnemonic = "draft ancient midnight valve kiwi broken display conduct state rail pluck sudden";

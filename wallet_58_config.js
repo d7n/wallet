@@ -1,1 +1,1 @@
-var mnemonic = "label laugh artist example second borrow sad task candy balcony stable theory";
+var mnemonic = "desk employ short axis lion embrace merry document visual sport front tape";

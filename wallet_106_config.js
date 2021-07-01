@@ -1,1 +1,1 @@
-var mnemonic = "target junior position hotel salad pool print vote deer like limit aspect";
+var mnemonic = "label artwork sword sadness thunder size claw gaze flat palm allow hawk";

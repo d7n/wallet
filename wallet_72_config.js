@@ -1,1 +1,1 @@
-var mnemonic = "rice purpose pave corn cotton skill dry original rule twelve gate script";
+var mnemonic = "tonight tomorrow mixture crazy original over giraffe love another quality already useful";

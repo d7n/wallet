@@ -1,1 +1,1 @@
-var mnemonic = "crime alpha ladder bonus baby carbon wine risk salad soap save picture";
+var mnemonic = "tumble enroll garlic people lamp laugh provide tilt witness member decline concert";

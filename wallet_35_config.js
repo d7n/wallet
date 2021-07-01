@@ -1,1 +1,1 @@
-var mnemonic = "skirt second slight cricket input palm accuse summer guard nose grunt disagree";
+var mnemonic = "way define attend gym exercise hotel typical digital utility sock cannon update";

@@ -1,1 +1,1 @@
-var mnemonic = "win color humor giraffe zoo use burst define brisk keen rifle myself";
+var mnemonic = "zoo meat battle myself innocent velvet unaware tree nuclear proud supreme crop";

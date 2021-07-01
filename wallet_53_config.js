@@ -1,1 +1,1 @@
-var mnemonic = "piece badge talk cram assist student online behind liar stumble useless void";
+var mnemonic = "strike camera cat utility front jump thrive math recall phrase quarter great";

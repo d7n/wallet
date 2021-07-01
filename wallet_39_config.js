@@ -1,1 +1,1 @@
-var mnemonic = "jazz forum denial unhappy blood quiz lecture food night forward garden then";
+var mnemonic = "old already journey boss cigar work slice garlic knee head reflect fashion";

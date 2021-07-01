@@ -1,1 +1,1 @@
-var mnemonic = "build uphold million bonus tiny tomorrow fatal bubble picture assist mind dynamic";
+var mnemonic = "dove face decorate axis net film ship squirrel cross correct spray rare";

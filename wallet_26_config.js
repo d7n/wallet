@@ -1,1 +1,1 @@
-var mnemonic = "addict agent short cruise kingdom foot inherit travel manual scrub praise void";
+var mnemonic = "fade inform virus waste always casino else charge immune elevator disorder estate";

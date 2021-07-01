@@ -1,1 +1,1 @@
-var mnemonic = "judge runway spatial poem human nose puppy ticket advance isolate approve wrap";
+var mnemonic = "fiction latin combine screen damage limb unlock favorite cannon neither route siege";

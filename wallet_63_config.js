@@ -1,1 +1,1 @@
-var mnemonic = "bus city vague family alien add sword mushroom silk clinic rent oxygen";
+var mnemonic = "point monkey thumb broom behave fine remain glory also host stock real";
