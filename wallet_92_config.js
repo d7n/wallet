@@ -1,1 +1,1 @@
-var mnemonic = "goose bronze flower buyer club brass error practice immune walk suit rebuild";
+var mnemonic = "imitate round cage soccer glad author blind ready harvest twenty ribbon danger";

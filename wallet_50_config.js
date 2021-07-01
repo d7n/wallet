@@ -1,1 +1,1 @@
-var mnemonic = "obtain lava finger wet march spare enter space butter fix install cliff";
+var mnemonic = "pitch type skate quiz draft swing jealous thank divorce offer company situate";

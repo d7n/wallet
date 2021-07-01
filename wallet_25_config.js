@@ -1,1 +1,1 @@
-var mnemonic = "twice already excite blush earn climb front walk drop stem huge very";
+var mnemonic = "quiz vintage prepare kiwi captain forget agree cattle common rally case stand";

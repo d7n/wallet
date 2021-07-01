@@ -1,1 +1,1 @@
-var mnemonic = "cradle they explain heart pool dry lab talk silk crane alpha people";
+var mnemonic = "grass wear grass inmate since hazard soap canal coyote maze element ice";

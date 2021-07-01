@@ -1,1 +1,1 @@
-var mnemonic = "raven aim pyramid tray resist oxygen foster title analyst genuine vicious girl";
+var mnemonic = "subway oven stove provide brass strike onion either disagree swim ridge random";

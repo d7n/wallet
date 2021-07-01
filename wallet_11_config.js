@@ -1,1 +1,1 @@
-var mnemonic = "around series winter spray candy unhappy slogan cycle blush hungry gospel food";
+var mnemonic = "tooth current boost cart traffic cost miracle razor grocery usage trial weird";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual rude ask resource appear embody love address gown couple baby crystal";
+var mnemonic = "appear supply firm welcome vacant bind want swarm suffer harbor salmon devote";

@@ -1,1 +1,1 @@
-var mnemonic = "property tube mirror sand hint daring hamster practice stuff film meat hazard";
+var mnemonic = "awful grid cabbage dust prize speak crane sun knock matrix almost often";

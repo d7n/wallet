@@ -1,1 +1,1 @@
-var mnemonic = "blossom enact barely safe can equal input swear cannon sock south check";
+var mnemonic = "average local equip drive dune eager buyer pulp chronic nephew shadow blue";

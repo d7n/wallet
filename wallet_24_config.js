@@ -1,1 +1,1 @@
-var mnemonic = "material tobacco tomorrow boy museum head brain online cloud chief increase chief";
+var mnemonic = "buyer present oven hidden elegant snow satisfy hybrid vacant fantasy logic drill";

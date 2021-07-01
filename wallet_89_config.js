@@ -1,1 +1,1 @@
-var mnemonic = "emerge mixture cement empty anxiety fragile usual web excuse index cement solar";
+var mnemonic = "maple exhaust scale strike news glare relief kiwi early stairs define prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "window chunk liquid slab review scout zoo style elegant use boil pave";
+var mnemonic = "salad power stone year risk illegal bone urban ladder analyst mistake item";

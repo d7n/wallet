@@ -1,1 +1,1 @@
-var mnemonic = "rain slim tumble vital magic laugh creek double swear alcohol clinic build";
+var mnemonic = "panic blind pyramid dolphin woman pause settle maze lucky cloud trap episode";

@@ -1,1 +1,1 @@
-var mnemonic = "state diary real cattle garlic remember patch exotic lunch knee replace consider";
+var mnemonic = "receive rather library success truly include govern want palace human wheat help";

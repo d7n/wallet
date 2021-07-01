@@ -1,1 +1,1 @@
-var mnemonic = "soda industry absorb snap video audit special grunt inhale accident trigger shaft";
+var mnemonic = "reunion senior point staff that know taxi uncle bounce garden silver current";

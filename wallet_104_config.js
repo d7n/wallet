@@ -1,1 +1,1 @@
-var mnemonic = "rich tissue problem random net lucky mansion fit melt hat patrol ranch";
+var mnemonic = "filter denial hungry fame laundry dirt destroy crouch fiction switch bulk warrior";

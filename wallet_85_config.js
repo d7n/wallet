@@ -1,1 +1,1 @@
-var mnemonic = "snap blouse exchange cover retreat code giraffe tower scare govern rude stage";
+var mnemonic = "jump three click domain life submit patch call bean verb sibling chat";

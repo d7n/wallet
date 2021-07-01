@@ -1,1 +1,1 @@
-var mnemonic = "ring choose mystery legal modify thumb slight fiscal flock fix swing patient";
+var mnemonic = "long resist crouch matter horse brain exact grid hurt dizzy media car";

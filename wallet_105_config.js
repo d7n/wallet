@@ -1,1 +1,1 @@
-var mnemonic = "invest bounce toe lion absent slide injury dawn robot twist disease middle";
+var mnemonic = "myth winter amount gown poverty usual inject announce tennis sunset wedding rack";

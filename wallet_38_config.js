@@ -1,1 +1,1 @@
-var mnemonic = "try case million note lizard vessel purse furnace midnight cheap black gauge";
+var mnemonic = "actor sustain subway tragic vivid object throw mango siege horse hard sunset";

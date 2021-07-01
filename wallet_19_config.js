@@ -1,1 +1,1 @@
-var mnemonic = "honey into primary glance surge axis educate odor chat gate group donkey";
+var mnemonic = "jeans choice fiber girl elephant illness mammal captain shrimp amazing loan wave";

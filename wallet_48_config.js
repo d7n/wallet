@@ -1,1 +1,1 @@
-var mnemonic = "ghost faculty cargo plug unhappy eager brush absorb focus remain half inhale";
+var mnemonic = "roof base lawsuit armed pool evidence tunnel oppose now agree limb office";

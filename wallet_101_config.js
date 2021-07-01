@@ -1,1 +1,1 @@
-var mnemonic = "basic average leisure actual curve resist text daring punch orchard rice unhappy";
+var mnemonic = "jungle summer abstract arrive wonder shuffle earn dizzy call patrol spoil issue";

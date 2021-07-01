@@ -1,1 +1,1 @@
-var mnemonic = "deal collect vacuum image identify april uncle finish asset repair vapor forum";
+var mnemonic = "inject sniff any view fire champion what monster honey fancy valley way";

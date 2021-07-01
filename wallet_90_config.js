@@ -1,1 +1,1 @@
-var mnemonic = "quote increase slot imitate green grant one duck bottom enough endorse bright";
+var mnemonic = "emerge pioneer allow boy effort warm emotion regular huge cradle hip border";

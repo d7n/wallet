@@ -1,1 +1,1 @@
-var mnemonic = "uncover cushion rare dish collect cruel inquiry good make wink major abandon";
+var mnemonic = "void toe palace direct legal dinosaur narrow art then analyst antique smart";

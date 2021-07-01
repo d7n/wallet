@@ -1,1 +1,1 @@
-var mnemonic = "vanish panda ghost limit amateur seek talk energy limb cliff garlic mystery";
+var mnemonic = "admit frequent burden mail cheese motor absent enforce combine wage penalty flight";

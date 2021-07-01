@@ -1,1 +1,1 @@
-var mnemonic = "brain antenna waste rib fringe margin kick hedgehog today mass decline aim";
+var mnemonic = "outer multiply giggle solid crash tonight actual afford sphere pitch metal enough";

@@ -1,1 +1,1 @@
-var mnemonic = "venture clutch people wire lemon they venture sort tuition bless shy monster";
+var mnemonic = "figure memory wall kid weapon odor fitness nation warrior omit left enhance";

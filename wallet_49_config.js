@@ -1,1 +1,1 @@
-var mnemonic = "canal busy ridge turtle biology give approve demand lobster moon escape feature";
+var mnemonic = "vast primary sure similar smart time inflict excess insect logic alone fit";

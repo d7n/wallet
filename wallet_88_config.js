@@ -1,1 +1,1 @@
-var mnemonic = "soccer like problem orchard define year blouse gravity sell robot mansion sleep";
+var mnemonic = "belt together strong wet hand tower photo custom planet clever earn thought";

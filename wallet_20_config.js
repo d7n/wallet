@@ -1,1 +1,1 @@
-var mnemonic = "neglect arctic solid wool split one angry slender elbow walnut charge aisle";
+var mnemonic = "voyage toe wealth morning meat flag utility high ready effort just doll";

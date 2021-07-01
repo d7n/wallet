@@ -1,1 +1,1 @@
-var mnemonic = "purchase episode lobster picture access sister fault milk adjust make check almost";
+var mnemonic = "pluck fly immense primary hair cherry width supreme salmon future desk spread";

@@ -1,1 +1,1 @@
-var mnemonic = "core outdoor square balcony sail wise shoulder soda wolf off despair flame";
+var mnemonic = "bridge web clump rally mask black security blind evidence moral afford merit";

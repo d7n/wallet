@@ -1,1 +1,1 @@
-var mnemonic = "omit equal lock donor spare fury tribe noise issue clump please aspect";
+var mnemonic = "text crane virtual spice save among recall shove vacuum pond club hen";

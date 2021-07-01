@@ -1,1 +1,1 @@
-var mnemonic = "word judge robot inmate mystery myself banner load visit gym please elevator";
+var mnemonic = "jungle alcohol chuckle stock ginger occur genius lens drive nut young between";

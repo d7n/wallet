@@ -1,1 +1,1 @@
-var mnemonic = "arrive delay feed buyer twin change inherit mutual want logic flight rich";
+var mnemonic = "snake talk auto devote fetch want season when truth raven predict piece";

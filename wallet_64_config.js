@@ -1,1 +1,1 @@
-var mnemonic = "evoke bright equal device rookie list ripple mask slight unique tuna summer";
+var mnemonic = "rescue give pony ready debate race gaze search abuse advice sponsor club";

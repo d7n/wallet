@@ -1,1 +1,1 @@
-var mnemonic = "pool member math trigger park tunnel wife fee chief sea auto label";
+var mnemonic = "farm room vapor license diary surround economy december either primary innocent stool";

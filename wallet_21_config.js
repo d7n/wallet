@@ -1,1 +1,1 @@
-var mnemonic = "clay unit pepper witness boy amazing define celery time devote glove open";
+var mnemonic = "office curtain future eyebrow either monkey column always assist dwarf license toy";

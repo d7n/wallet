@@ -1,1 +1,1 @@
-var mnemonic = "crowd ready thunder setup bone butter pistol swim wise royal about chaos";
+var mnemonic = "toss camp minor screen wool play this orient hair animal brother fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "deny cage circle photo novel rotate ride then divorce aunt hybrid calm";
+var mnemonic = "clown candy prize amateur grain illness tortoise service loyal benefit sketch blush";

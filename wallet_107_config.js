@@ -1,1 +1,1 @@
-var mnemonic = "wheat review sense hen own laugh tunnel spray brand virus moon obey";
+var mnemonic = "fossil hockey forget then skin private book room hour horror keen outside";

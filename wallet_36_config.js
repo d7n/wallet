@@ -1,1 +1,1 @@
-var mnemonic = "liquid offer champion vacuum economy example reduce enhance arrest horse matter short";
+var mnemonic = "crash pencil riot lawsuit august supreme rescue hair dream always better walnut";

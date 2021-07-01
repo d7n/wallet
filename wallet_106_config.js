@@ -1,1 +1,1 @@
-var mnemonic = "include happy pet desert frame rack method dish tree human skirt keen";
+var mnemonic = "day museum still dirt civil panic version hair family wool liar increase";

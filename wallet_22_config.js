@@ -1,1 +1,1 @@
-var mnemonic = "thunder turn item walk tonight wise pioneer sad search butter light excite";
+var mnemonic = "weekend radio ball zoo foot latin useful sphere fun rocket letter large";

@@ -1,1 +1,1 @@
-var mnemonic = "proof fitness globe emerge photo smart train whisper entry jungle unusual grit";
+var mnemonic = "trash envelope thumb point unfair churn siege narrow perfect praise robust apple";

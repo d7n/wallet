@@ -1,1 +1,1 @@
-var mnemonic = "segment globe much shrug dentist pledge tongue remove swarm hip adult suffer";
+var mnemonic = "member floor trouble gesture achieve typical artwork icon toe way toss dial";

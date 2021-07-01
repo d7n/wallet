@@ -1,1 +1,1 @@
-var mnemonic = "kid clutch wise sunset mind debris faint spend horror between debate sister";
+var mnemonic = "endless rule sketch yard night orbit special coyote comfort glide result outdoor";

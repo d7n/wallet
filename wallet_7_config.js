@@ -1,1 +1,1 @@
-var mnemonic = "opera tunnel much awake alpha loop casino glare cool case replace milk";
+var mnemonic = "vital verb capital circle illegal fence goat cram six fetch fix census";

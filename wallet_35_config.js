@@ -1,1 +1,1 @@
-var mnemonic = "junk model provide agree kind seminar panda north dwarf onion settle glory";
+var mnemonic = "twice smart glue bread custom space soul wave develop stick board puzzle";

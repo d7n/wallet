@@ -1,1 +1,1 @@
-var mnemonic = "pottery evil venture image assault found merry close govern utility liquid high";
+var mnemonic = "group orange eternal basic soldier nuclear deputy laundry series spoon more loyal";

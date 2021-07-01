@@ -1,1 +1,1 @@
-var mnemonic = "phrase matrix flip mercy stage number diagram name velvet identify arch vacant";
+var mnemonic = "permit nurse marble custom topic narrow december region easily monster fruit choose";

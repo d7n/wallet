@@ -1,1 +1,1 @@
-var mnemonic = "project fog mango grass foam search front rug keep original twice stick";
+var mnemonic = "satisfy swing frame song erase easily jazz shoe bargain explain dress reflect";

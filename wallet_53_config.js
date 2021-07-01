@@ -1,1 +1,1 @@
-var mnemonic = "purpose library tissue rather volcano humor pride timber primary toilet hungry skill";
+var mnemonic = "pattern future impose unlock marine review unveil liar miss pony off rapid";

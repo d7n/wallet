@@ -1,1 +1,1 @@
-var mnemonic = "elegant pumpkin accuse mechanic add shallow purchase garment march early unaware sorry";
+var mnemonic = "cage wash engage egg bamboo dress penalty bar friend echo like property";

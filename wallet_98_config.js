@@ -1,1 +1,1 @@
-var mnemonic = "high left kitchen cereal know tiger grass muffin steak kind ability goose";
+var mnemonic = "total elder divert cabin recipe betray meat under private comfort crop tomorrow";

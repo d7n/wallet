@@ -1,1 +1,1 @@
-var mnemonic = "suit bind debate before mask left novel donkey economy melody never ginger";
+var mnemonic = "taste barrel throw quick girl only submit market fog hurry play record";

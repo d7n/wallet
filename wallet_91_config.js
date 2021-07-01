@@ -1,1 +1,1 @@
-var mnemonic = "lift type control mystery wonder uphold debris border eagle repeat cram pride";
+var mnemonic = "worry link weird drop amount ridge soldier potato cherry advance cliff wage";

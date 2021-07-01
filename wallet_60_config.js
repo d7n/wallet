@@ -1,1 +1,1 @@
-var mnemonic = "hidden always because inquiry coyote remain candy exist lesson inch glove nothing";
+var mnemonic = "stuff bottom online razor hidden glove speak sure rely pioneer indicate away";

@@ -1,1 +1,1 @@
-var mnemonic = "scene beef coach parrot list hedgehog they install number air sponsor badge";
+var mnemonic = "endless burger desk regret margin churn dilemma idle dumb great language vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "range wild opera cook seat issue tone twist sock evoke chimney cancel";
+var mnemonic = "walnut position bar cup thank type hat vocal gospel brave throw pitch";

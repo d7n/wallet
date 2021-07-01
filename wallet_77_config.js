@@ -1,1 +1,1 @@
-var mnemonic = "dwarf tackle stand onion all curtain symbol you first mule elevator letter";
+var mnemonic = "extend banner only major pepper summer obey donate unfold net close garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "hello dizzy drill odor bid oyster flash rally harsh penalty recycle author";
+var mnemonic = "cinnamon black topic nice produce time amount green pelican reflect debris rare";

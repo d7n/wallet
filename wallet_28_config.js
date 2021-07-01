@@ -1,1 +1,1 @@
-var mnemonic = "drama control actress blue dirt spider blossom oyster copper crazy quick huge";
+var mnemonic = "hedgehog news labor filter cart fever hundred monster theory random ship eyebrow";

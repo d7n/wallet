@@ -1,1 +1,1 @@
-var mnemonic = "notice end guitar melt path diary shop proof mirror degree girl error";
+var mnemonic = "warfare embody return laptop never nest recipe diamond today patch zebra bone";

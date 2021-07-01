@@ -1,1 +1,1 @@
-var mnemonic = "pelican slogan smooth increase race polar vicious easily clever maze normal pioneer";
+var mnemonic = "sand auction cereal rent van pledge range orange execute wedding slab lift";

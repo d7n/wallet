@@ -1,1 +1,1 @@
-var mnemonic = "image welcome soon order wreck river attitude crazy left dance idle expire";
+var mnemonic = "collect ability upset road salute mistake dirt swamp cattle spin promote leave";

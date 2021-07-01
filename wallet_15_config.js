@@ -1,1 +1,1 @@
-var mnemonic = "found sort salon job wreck employ during mobile cool stool own recall";
+var mnemonic = "hundred point pen flag apple notable vast lock deposit hurry dolphin tobacco";

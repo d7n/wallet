@@ -1,1 +1,1 @@
-var mnemonic = "question census expand ride tattoo sort electric debate chunk enjoy manage depth";
+var mnemonic = "marriage connect ring abandon tragic topple jump point slab need border dilemma";

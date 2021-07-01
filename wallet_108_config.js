@@ -1,1 +1,1 @@
-var mnemonic = "young bamboo purity estate reward answer cute immense viable brick spare security";
+var mnemonic = "left save mosquito gentle valve swap dizzy crucial demand symbol empty portion";

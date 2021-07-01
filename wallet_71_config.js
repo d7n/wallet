@@ -1,1 +1,1 @@
-var mnemonic = "net tunnel venue mechanic luggage patient danger wagon paddle manage fine banner";
+var mnemonic = "sign payment moral private gravity canoe analyst wheat person explain grow scorpion";

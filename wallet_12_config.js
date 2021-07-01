@@ -1,1 +1,1 @@
-var mnemonic = "elegant impact seat convince enough ring sniff pride index urban crane snake";
+var mnemonic = "grain praise trumpet symptom throw liberty bullet glare hedgehog screen control left";

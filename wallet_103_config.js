@@ -1,1 +1,1 @@
-var mnemonic = "divert supreme neglect garlic surprise frown hungry mesh lounge debate stock twenty";
+var mnemonic = "future phrase brick oblige oil term evolve someone oppose cart erode dance";

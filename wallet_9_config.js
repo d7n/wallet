@@ -1,1 +1,1 @@
-var mnemonic = "jeans aware budget second grow end sea toy priority ceiling evil coast";
+var mnemonic = "cable kitchen room frequent vault upgrade have pioneer retreat noble world spoil";

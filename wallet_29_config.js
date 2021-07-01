@@ -1,1 +1,1 @@
-var mnemonic = "shift much purse hold unaware exit high genre monster length decade market";
+var mnemonic = "proud seed track gravity lady very length plastic soft inflict acid bicycle";

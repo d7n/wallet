@@ -1,1 +1,1 @@
-var mnemonic = "canoe breeze buyer judge rather winter letter industry attract rally blade hobby";
+var mnemonic = "ten install illegal vacuum casual duty scale gallery remain defy target slush";

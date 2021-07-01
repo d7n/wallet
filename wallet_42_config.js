@@ -1,1 +1,1 @@
-var mnemonic = "doctor satisfy town lottery cage off dawn congress soccer hammer elegant charge";
+var mnemonic = "course fat tank capital letter empty panic hello daughter pluck abandon airport";

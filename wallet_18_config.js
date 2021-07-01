@@ -1,1 +1,1 @@
-var mnemonic = "void health unveil away violin list rabbit wagon steel jaguar rough admit";
+var mnemonic = "confirm pact number regret solar trip category crunch round valve minimum claw";

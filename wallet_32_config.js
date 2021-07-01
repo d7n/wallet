@@ -1,1 +1,1 @@
-var mnemonic = "outdoor cause mad swap glare modify public snow laundry unit twice absurd";
+var mnemonic = "imitate future rail flower copper shock hour cushion series start trust camera";

@@ -1,1 +1,1 @@
-var mnemonic = "royal artefact diesel nuclear bachelor apology poet keep cupboard task cluster river";
+var mnemonic = "state gas inspire leopard canoe kick pizza bag region polar cool image";

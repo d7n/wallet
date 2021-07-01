@@ -1,1 +1,1 @@
-var mnemonic = "bless toy dumb visual camp pear edge lab bronze powder view subway";
+var mnemonic = "trap copy flat fit stand ketchup tobacco truth used little spoil remove";

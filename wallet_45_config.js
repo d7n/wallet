@@ -1,1 +1,1 @@
-var mnemonic = "office chapter volume submit magic oak odor strategy dutch remove zone smooth";
+var mnemonic = "twin accident argue rotate deliver guilt reopen people monitor auction busy there";

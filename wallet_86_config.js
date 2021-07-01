@@ -1,1 +1,1 @@
-var mnemonic = "table hundred laundry school mystery rib phrase identify assist weasel surface shell";
+var mnemonic = "again predict face health obvious label funny where olympic liar reunion cheese";

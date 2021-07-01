@@ -1,1 +1,1 @@
-var mnemonic = "light foot sister report stay course oppose cushion exercise bind glass impulse";
+var mnemonic = "filter pill decorate destroy core trap science emotion adjust risk above length";

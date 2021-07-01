@@ -1,1 +1,1 @@
-var mnemonic = "robust print lounge basic fresh violin lend crew theme action scissors repair";
+var mnemonic = "garment seminar ten surge pyramid silk rookie cactus clarify poem resource game";
