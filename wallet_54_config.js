@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow frost garlic reform sleep cactus cute aim festival fiber anchor napkin";
+var mnemonic = "ocean tone rate valid balcony arm fault nuclear hen sure raise simple";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy enhance hawk reunion nurse viable struggle leave furnace predict output rescue";
+var mnemonic = "gossip little diagram run cherry history crisp rescue lawn casino length change";

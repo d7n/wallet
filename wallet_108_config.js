@@ -1,1 +1,1 @@
-var mnemonic = "evolve network romance match flower pledge isolate debris sword exact divorce cherry";
+var mnemonic = "emerge sleep common behind wear keep loyal actual endorse huge afford boost";

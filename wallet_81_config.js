@@ -1,1 +1,1 @@
-var mnemonic = "category among door wet million device visual perfect image unable dust wagon";
+var mnemonic = "welcome unveil couple viable brush virus tornado art property taxi follow token";

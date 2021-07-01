@@ -1,1 +1,1 @@
-var mnemonic = "shiver oxygen forward pole fish transfer surprise airport replace solve vacant flip";
+var mnemonic = "guard cruel hobby mobile chunk clay essence firm rookie apart supply cup";

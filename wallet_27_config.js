@@ -1,1 +1,1 @@
-var mnemonic = "tree result leave level genuine predict daring aerobic original scatter label angle";
+var mnemonic = "side token deer pulp budget urban aim armed endless affair depth brown";

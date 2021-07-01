@@ -1,1 +1,1 @@
-var mnemonic = "admit tiny dinner donate crisp march tomato maple broken estate unable melt";
+var mnemonic = "case primary fiber speed proud crisp giraffe viable crack brick betray current";

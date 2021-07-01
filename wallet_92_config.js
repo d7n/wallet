@@ -1,1 +1,1 @@
-var mnemonic = "network into hurt height goose leaf blouse segment identify grocery what large";
+var mnemonic = "boy tell crawl cradle prefer health card champion zebra tool clump soda";

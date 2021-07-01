@@ -1,1 +1,1 @@
-var mnemonic = "any bitter traffic arctic ball lemon chair topple need nerve calm multiply";
+var mnemonic = "inquiry nut lesson citizen panther neutral scan expire stable skate shy ball";

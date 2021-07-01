@@ -1,1 +1,1 @@
-var mnemonic = "unfold energy melody tackle correct vacuum mobile exhaust neutral aware feature special";
+var mnemonic = "guard huge film gloom mind tail battle drop finger junk brand matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "control marble taste enrich speed credit gain bamboo winter adapt sunny source";
+var mnemonic = "alley leopard visa essay lamp fragile fun leaf beauty whisper visit mask";

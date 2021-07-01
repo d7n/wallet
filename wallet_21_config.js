@@ -1,1 +1,1 @@
-var mnemonic = "solar scale fever cram bunker syrup stereo expect title advance artefact gun";
+var mnemonic = "age crystal dance number emotion series fit garlic husband rate permit gauge";

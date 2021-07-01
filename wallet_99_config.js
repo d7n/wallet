@@ -1,1 +1,1 @@
-var mnemonic = "moon scrub illness hundred news mansion typical hedgehog orbit close hedgehog borrow";
+var mnemonic = "kite glimpse elegant total digital gas fix worth leaf deny person model";

@@ -1,1 +1,1 @@
-var mnemonic = "aware pave drift build churn scale peasant thumb relief kind raven tail";
+var mnemonic = "lend wife unit amused must come matrix select way range find soft";

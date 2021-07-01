@@ -1,1 +1,1 @@
-var mnemonic = "gasp modify two tobacco year squirrel echo enrich pelican sad web index";
+var mnemonic = "aware chaos help famous female faculty coil body hollow submit limit chase";

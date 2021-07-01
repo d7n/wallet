@@ -1,1 +1,1 @@
-var mnemonic = "cage thunder whale scan kidney track clap hurry legend gossip assist shy";
+var mnemonic = "vocal blade ignore round couch region legend local rotate cycle inspire mammal";

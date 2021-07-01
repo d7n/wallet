@@ -1,1 +1,1 @@
-var mnemonic = "candy fire legal popular crunch under stick ecology hen find poverty false";
+var mnemonic = "tower mad already pen casual onion refuse cute choice elite hidden danger";

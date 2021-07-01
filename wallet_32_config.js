@@ -1,1 +1,1 @@
-var mnemonic = "between mountain oxygen genius parade before cube net cradle divorce lawn coast";
+var mnemonic = "amazing couple polar rocket resource tide unable dismiss tackle concert dragon forum";

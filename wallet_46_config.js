@@ -1,1 +1,1 @@
-var mnemonic = "subject seat royal middle decorate woman mandate goat million cat sorry such";
+var mnemonic = "permit drop balance burst fade club audit term axis concert mean peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "spring title belt orange miracle horn accident gain hedgehog hair alcohol electric";
+var mnemonic = "puzzle artefact topic you holiday milk demand envelope jealous obey able holiday";

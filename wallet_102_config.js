@@ -1,1 +1,1 @@
-var mnemonic = "tail foot act armed broken enter grain flash weekend super bless image";
+var mnemonic = "very arrow fashion high section tragic acquire tilt secret renew gold garden";

@@ -1,1 +1,1 @@
-var mnemonic = "renew wise brain bacon dice jar audit rabbit resist rude teach couple";
+var mnemonic = "before chunk blur loop donkey theory cool stone pepper polar near mad";

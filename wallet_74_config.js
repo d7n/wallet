@@ -1,1 +1,1 @@
-var mnemonic = "desert anchor tip trust anger egg beach spend sight squeeze nothing kick";
+var mnemonic = "police rack siren raise mention thunder glove genuine nurse candy dawn rain";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve stock march gospel craft shoot tribe curious leisure film broom episode";
+var mnemonic = "liquid belt crisp cruel prosper mirror kite six prevent toss maid picnic";

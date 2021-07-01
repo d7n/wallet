@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin soda heavy series away spell satoshi steel client session people belt";
+var mnemonic = "pattern neck enemy trophy visa differ mention prize tired catalog ill beef";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak strong quiz turkey duty kite fiscal olive uncle hen spray suspect";
+var mnemonic = "game cable enough always faint injury deposit toward blind rally dress anchor";

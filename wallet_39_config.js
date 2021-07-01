@@ -1,1 +1,1 @@
-var mnemonic = "collect attract level slam ankle ostrich drive plunge language route vivid aspect";
+var mnemonic = "piece quantum climb goat image yellow exclude lab casino finish stairs sponsor";

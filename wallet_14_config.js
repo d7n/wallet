@@ -1,1 +1,1 @@
-var mnemonic = "warm check arrive away badge hint daring unusual angle subject brave business";
+var mnemonic = "salute token neutral limb original polar vibrant vintage mask elbow limit rich";

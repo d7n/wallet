@@ -1,1 +1,1 @@
-var mnemonic = "notice huge half lunch predict sort jeans win fee street hire trip";
+var mnemonic = "stone blouse salt picture exist more someone stage task artwork hour physical";

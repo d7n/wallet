@@ -1,1 +1,1 @@
-var mnemonic = "mutual faint effort sheriff lizard arctic problem insane napkin craft cat actual";
+var mnemonic = "code almost involve gain south tip finish notable athlete young crane top";

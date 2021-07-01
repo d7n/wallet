@@ -1,1 +1,1 @@
-var mnemonic = "volcano toe company edit culture degree own sunny couch upgrade tribe sunny";
+var mnemonic = "radar trip edit aerobic index ugly turn eight vital rain auction inspire";

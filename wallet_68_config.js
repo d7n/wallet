@@ -1,1 +1,1 @@
-var mnemonic = "immune lecture sketch spoon brisk prepare glory differ layer net topple sphere";
+var mnemonic = "kitchen replace tennis coil success sauce visual blouse aware table spare salon";

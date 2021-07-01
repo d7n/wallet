@@ -1,1 +1,1 @@
-var mnemonic = "tide describe recycle slogan chunk cherry animal virtual radio elegant keen dish";
+var mnemonic = "health nut quarter never slush light chuckle hub wolf math cross actor";

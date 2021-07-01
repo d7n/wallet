@@ -1,1 +1,1 @@
-var mnemonic = "have slush lunar slab benefit adjust dress march flight filter inside rigid";
+var mnemonic = "unlock drama visual math faint market bulk talent return stable odor offer";

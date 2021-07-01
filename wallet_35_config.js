@@ -1,1 +1,1 @@
-var mnemonic = "rail risk wish mule bike ice orient approve group half reward divert";
+var mnemonic = "gallery client myself penalty shaft spider title inquiry track caution lady rule";

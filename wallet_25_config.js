@@ -1,1 +1,1 @@
-var mnemonic = "tray employ neck dinner soul grain nerve term goddess during industry junior";
+var mnemonic = "trumpet know toast glory celery express sniff seat junk floor lab hold";

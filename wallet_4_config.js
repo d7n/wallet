@@ -1,1 +1,1 @@
-var mnemonic = "wall recycle exhaust else reflect hen sibling wrist merge army dream guide";
+var mnemonic = "theme bunker style start calm blur behind weekend address sample accuse mail";

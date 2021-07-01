@@ -1,1 +1,1 @@
-var mnemonic = "sorry brother brass staff behave pretty sail north admit patch cry ecology";
+var mnemonic = "curious breeze story moon idea pig pattern zoo family style boil raise";

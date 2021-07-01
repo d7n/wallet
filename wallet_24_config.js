@@ -1,1 +1,1 @@
-var mnemonic = "romance tray resource tiny grunt crawl weasel equip tray soap caught sample";
+var mnemonic = "advice talent outer bachelor park legend hurt one cup agent diesel hill";

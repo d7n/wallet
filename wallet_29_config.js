@@ -1,1 +1,1 @@
-var mnemonic = "daring short hungry dry exchange favorite combine zebra cupboard bench left flower";
+var mnemonic = "hawk road aunt million license snow note cheese day radar taste voice";

@@ -1,1 +1,1 @@
-var mnemonic = "empty crane dwarf country wall sad chicken oven gravity situate door region";
+var mnemonic = "cart this garbage degree miracle pattern wet total you weapon pretty trap";

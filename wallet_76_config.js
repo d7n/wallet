@@ -1,1 +1,1 @@
-var mnemonic = "lucky give inspire blind film like century reopen job tent flee math";
+var mnemonic = "urge roast target spread abuse brush sign mention shrug inner warfare guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage ugly salmon police comic pass bone fox control object unaware scout";
+var mnemonic = "column satisfy polar misery gown trigger next toast rely cannon control bike";

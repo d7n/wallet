@@ -1,1 +1,1 @@
-var mnemonic = "detect rebel online junior century poverty grab toddler amount follow chapter own";
+var mnemonic = "flower slot wing flip bachelor carbon material trouble split lens merit yard";

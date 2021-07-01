@@ -1,1 +1,1 @@
-var mnemonic = "chef rally spell between pond believe crash step sorry barrel deputy then";
+var mnemonic = "very pepper usage axis vendor swamp supreme aerobic flock minute silly album";

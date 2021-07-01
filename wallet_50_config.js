@@ -1,1 +1,1 @@
-var mnemonic = "sibling capital winner wine orange ship summer divide pencil cart head duty";
+var mnemonic = "decorate dust love tip divert world fabric dutch focus learn mammal kitten";

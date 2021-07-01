@@ -1,1 +1,1 @@
-var mnemonic = "near consider plunge shoulder cost canyon motor keen witness frog talent cabin";
+var mnemonic = "era season polar hotel taxi attract rich polar run potato trumpet priority";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid curious tennis skate cook attack judge glide trouble warm polar van";
+var mnemonic = "shuffle strike never float refuse edit left vital city bean hen soccer";

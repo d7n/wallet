@@ -1,1 +1,1 @@
-var mnemonic = "bronze stock bulb top fringe bundle humble cook bachelor notice sick version";
+var mnemonic = "couch state now stairs expire axis season select gaze movie genre dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "slender six today kite sister flee shallow report wish scissors boost hotel";
+var mnemonic = "seven aspect choice club can result save submit famous prevent ride estate";

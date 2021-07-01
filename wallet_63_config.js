@@ -1,1 +1,1 @@
-var mnemonic = "girl dune early photo flavor small hazard favorite east sorry swear physical";
+var mnemonic = "genre across outside virus police worry advance seed few final age wood";

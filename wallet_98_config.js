@@ -1,1 +1,1 @@
-var mnemonic = "choose pattern input oxygen offer off false manual they rack claim proof";
+var mnemonic = "fragile paper grunt surprise raise throw quick own kiwi nice nature plug";

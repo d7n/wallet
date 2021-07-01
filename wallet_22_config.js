@@ -1,1 +1,1 @@
-var mnemonic = "buzz catch math syrup banner size essay ordinary spoil bounce little blanket";
+var mnemonic = "isolate lab right special hello ostrich virtual amateur satoshi valley april cherry";

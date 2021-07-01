@@ -1,1 +1,1 @@
-var mnemonic = "remove analyst degree betray wage census ready exotic favorite physical truth apology";
+var mnemonic = "march jar curtain bomb supply throw stand example humor drip dirt erupt";

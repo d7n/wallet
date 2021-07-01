@@ -1,1 +1,1 @@
-var mnemonic = "awkward wise nephew glimpse seed public maximum legend crash balcony install more";
+var mnemonic = "coral size man spice under shift dolphin visa provide repeat summer excess";

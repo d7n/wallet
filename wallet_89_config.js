@@ -1,1 +1,1 @@
-var mnemonic = "sustain escape poem divide muscle erosion subject unveil size collect nephew light";
+var mnemonic = "immense rug demand mimic luggage denial aunt acoustic figure junk play duty";

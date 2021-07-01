@@ -1,1 +1,1 @@
-var mnemonic = "erupt hub lounge course knee exotic gesture hello sweet ceiling crew bachelor";
+var mnemonic = "you strike thunder night involve ride push try report result fly job";

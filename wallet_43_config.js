@@ -1,1 +1,1 @@
-var mnemonic = "case enemy local crucial steak punch cabin cereal tilt hill trial clever";
+var mnemonic = "buffalo mystery video material discover finger talent false width ocean unable duck";

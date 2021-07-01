@@ -1,1 +1,1 @@
-var mnemonic = "waste garment family ivory coil wet staff spy sad embrace discover street";
+var mnemonic = "swear way humble exclude stock ancient when girl clip still access review";

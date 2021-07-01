@@ -1,1 +1,1 @@
-var mnemonic = "actor goat snow live plastic hole illness reflect game south country dog";
+var mnemonic = "fog fuel shove solve cement divide calm learn coral mercy bracket skirt";

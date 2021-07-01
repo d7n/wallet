@@ -1,1 +1,1 @@
-var mnemonic = "trim right gym lyrics first umbrella grain credit hybrid advice drink tube";
+var mnemonic = "margin sheriff hope slogan mosquito access open staff desert mirror broom claw";

@@ -1,1 +1,1 @@
-var mnemonic = "original limit original quiz student poverty chuckle shoulder hamster rotate end size";
+var mnemonic = "torch draw clump rookie faculty help alcohol number fever side outside armed";

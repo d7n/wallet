@@ -1,1 +1,1 @@
-var mnemonic = "empower action resemble frame oyster rescue happy friend rent machine ostrich vault";
+var mnemonic = "blossom often gate arrest mystery build quarter door crawl inherit energy earn";

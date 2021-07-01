@@ -1,1 +1,1 @@
-var mnemonic = "shoot noodle wage auto salute alien rare giraffe bargain six puppy goose";
+var mnemonic = "bridge shiver protect argue chair search toast crisp culture false extra dutch";

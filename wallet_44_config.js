@@ -1,1 +1,1 @@
-var mnemonic = "sport glare mammal frequent winner happy child urban hunt double front diagram";
+var mnemonic = "canal deny solve hole sting slide practice disagree arctic insect battle urban";

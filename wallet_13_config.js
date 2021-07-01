@@ -1,1 +1,1 @@
-var mnemonic = "oppose evil rare later loud execute giant source draft cool stuff world";
+var mnemonic = "kidney century inner jeans young scale live measure pretty pony eye magic";

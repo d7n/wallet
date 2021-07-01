@@ -1,1 +1,1 @@
-var mnemonic = "first wood garage author lunar pear nerve edge emotion person lamp recipe";
+var mnemonic = "message car dirt goat pluck puzzle avocado cereal short mother note mercy";

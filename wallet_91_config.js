@@ -1,1 +1,1 @@
-var mnemonic = "fence hip claw slam tonight unfold segment lunch width select insane water";
+var mnemonic = "armed raven cheap antique give topic taste grab phrase detail devote alter";

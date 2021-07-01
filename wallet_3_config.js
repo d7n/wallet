@@ -1,1 +1,1 @@
-var mnemonic = "outside opinion attitude cattle merge photo patch exotic waste hire knee photo";
+var mnemonic = "decade beauty taste seven trade cargo barely chef puppy recycle jeans material";

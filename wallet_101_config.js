@@ -1,1 +1,1 @@
-var mnemonic = "chat dismiss winter dumb rifle reward matrix fury drama spice discover gravity";
+var mnemonic = "cat boss subway fold illegal spend runway icon save stem frown addict";

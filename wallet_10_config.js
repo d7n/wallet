@@ -1,1 +1,1 @@
-var mnemonic = "mention shine disagree topple bind prevent hard cube aspect near mind bid";
+var mnemonic = "dismiss glue task such ritual chest toss hand bean quote illness lake";

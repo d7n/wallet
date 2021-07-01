@@ -1,1 +1,1 @@
-var mnemonic = "month case predict canyon fantasy adult notable coin circle wink suggest great";
+var mnemonic = "obtain must become enroll once orphan stairs engine save similar pistol airport";

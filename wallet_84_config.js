@@ -1,1 +1,1 @@
-var mnemonic = "inner chalk snap talk witness year you inquiry surround engage digital cost";
+var mnemonic = "beyond gold element ripple tape load peanut reflect bread boss bonus police";

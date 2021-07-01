@@ -1,1 +1,1 @@
-var mnemonic = "library make fat champion flash manual point face kitten rule cruise just";
+var mnemonic = "impulse else say access siren speak brain entry ensure eager permit brick";

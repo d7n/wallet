@@ -1,1 +1,1 @@
-var mnemonic = "race priority bleak nose save hire hedgehog balcony slab remind dinosaur lunar";
+var mnemonic = "grow swap flavor nice vanish adapt wife oval wagon model faith genre";

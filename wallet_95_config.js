@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit age subject virus move drive sun burst speed bench alert swallow";
+var mnemonic = "blur matter trip picnic quiz comfort across rubber middle minute lottery burst";

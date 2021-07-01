@@ -1,1 +1,1 @@
-var mnemonic = "come spot obvious health earn position dutch kitchen welcome rebuild staff tiger";
+var mnemonic = "aisle luggage risk novel custom alien actual turn traffic resource open lyrics";

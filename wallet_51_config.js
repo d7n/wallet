@@ -1,1 +1,1 @@
-var mnemonic = "female grain immense update crucial useful program gold second regret pyramid leopard";
+var mnemonic = "credit arm spawn make supply carbon nephew cement unlock figure father alarm";

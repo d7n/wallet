@@ -1,1 +1,1 @@
-var mnemonic = "message congress audit fragile century brief sense capital vault hazard car spend";
+var mnemonic = "real glad silk phone finger educate fan orient alpha merry green escape";

@@ -1,1 +1,1 @@
-var mnemonic = "owner eternal begin motor caught assist lava napkin year sing zebra entry";
+var mnemonic = "deer book practice swamp icon fetch novel evoke symptom name void glue";

@@ -1,1 +1,1 @@
-var mnemonic = "dress traffic lab cook pole essence box secret nerve city car garment";
+var mnemonic = "thank cannon mystery chalk supreme grid tent flock obscure midnight ball devote";

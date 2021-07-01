@@ -1,1 +1,1 @@
-var mnemonic = "announce solid behave anger clap treat hope track bench repeat typical reveal";
+var mnemonic = "surround flush surface situate assist scout energy warfare crystal trouble easy bracket";

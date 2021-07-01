@@ -1,1 +1,1 @@
-var mnemonic = "forum nature orange tunnel convince remove odor half promote artwork index scorpion";
+var mnemonic = "nut law grant sea peace sentence exhibit just night kiwi moral traffic";

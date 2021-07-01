@@ -1,1 +1,1 @@
-var mnemonic = "surprise demand umbrella other hamster pink situate happy hill nominee license vacuum";
+var mnemonic = "have boost foot scan latin focus online define anchor install thunder tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce color plastic remind machine swear glide manage critic column armed cement";
+var mnemonic = "flower regular hurry giraffe mountain roast twice sadness message language guess sister";

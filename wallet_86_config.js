@@ -1,1 +1,1 @@
-var mnemonic = "grace enforce pause chaos wine dose game drama time vocal sad cheese";
+var mnemonic = "reason figure safe dog shoot embody mirror yellow neutral elegant mass fiction";

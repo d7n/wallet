@@ -1,1 +1,1 @@
-var mnemonic = "arrive weapon poverty daring flame gorilla guilt baby clap tenant huge desk";
+var mnemonic = "inspire property method trade depend shaft hammer flee bargain smooth honey case";

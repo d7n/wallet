@@ -1,1 +1,1 @@
-var mnemonic = "canoe voyage fiction doctor unhappy lake valve alone empty castle object devote";
+var mnemonic = "camera mango slice kiwi credit mango ribbon modify peasant enable quiz memory";

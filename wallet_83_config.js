@@ -1,1 +1,1 @@
-var mnemonic = "earth region sick worry album poet year hint seat churn melody wealth";
+var mnemonic = "air satoshi problem cute moral heart scene pride client elephant piece way";

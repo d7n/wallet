@@ -1,1 +1,1 @@
-var mnemonic = "zone soccer apology tiny flush ethics tomato fun section supply rural border";
+var mnemonic = "keep federal elegant sun prosper video unaware radar custom wait asthma winter";

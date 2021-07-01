@@ -1,1 +1,1 @@
-var mnemonic = "expose lyrics gravity special quit invest crumble this narrow air pitch pitch";
+var mnemonic = "black pigeon nothing share betray evidence alone track minor like decline firm";

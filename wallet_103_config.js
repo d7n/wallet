@@ -1,1 +1,1 @@
-var mnemonic = "helmet exercise bread half around twin orange place problem soul sketch field";
+var mnemonic = "fuel daring bamboo fish eight enemy board flight intact urban letter huge";

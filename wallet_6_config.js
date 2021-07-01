@@ -1,1 +1,1 @@
-var mnemonic = "labor citizen club bitter badge weekend steak voice frequent blast pumpkin seat";
+var mnemonic = "seat favorite erase cabbage team sword marine improve prevent stand case convince";

@@ -1,1 +1,1 @@
-var mnemonic = "clog anxiety enough together train glare kid test scheme air illegal inherit";
+var mnemonic = "flee taste agent river energy tenant magic news panic smoke purse paper";

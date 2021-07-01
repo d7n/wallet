@@ -1,1 +1,1 @@
-var mnemonic = "access unit baby trend shadow grow find merge miracle else rabbit split";
+var mnemonic = "monitor force deposit awkward heart rifle hair swallow labor punch video clay";
