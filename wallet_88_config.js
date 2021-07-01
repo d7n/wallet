@@ -1,1 +1,1 @@
-var mnemonic = "canvas toddler vintage prepare mad film creek never fall system pupil awkward";
+var mnemonic = "gown island wisdom library crazy glance palm foam affair ancient vendor fantasy";

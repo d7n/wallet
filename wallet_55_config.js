@@ -1,1 +1,1 @@
-var mnemonic = "pilot pave organ asset photo valid end camera fiber loyal tornado weird";
+var mnemonic = "ripple catalog file seminar infant loop digital fire area solve universe post";

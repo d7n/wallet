@@ -1,1 +1,1 @@
-var mnemonic = "rose ten elephant bracket pepper diesel absurd liberty cable fatal three foam";
+var mnemonic = "sort bundle guilt blast body absorb kitchen soul warrior example muffin window";

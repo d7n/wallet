@@ -1,1 +1,1 @@
-var mnemonic = "check gap age spoon craft rack fork idea coffee language lumber riot";
+var mnemonic = "unhappy shop poet rain stage hen topic stuff drastic afraid elbow pepper";

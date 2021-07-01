@@ -1,1 +1,1 @@
-var mnemonic = "matrix invite fee silver black cash grape destroy finish distance knife mask";
+var mnemonic = "easily uniform public size tail split steel jazz rebuild lab sadness absent";

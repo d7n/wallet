@@ -1,1 +1,1 @@
-var mnemonic = "grocery host youth upper guitar drink amused exist turkey ordinary diet moon";
+var mnemonic = "awake fabric under potato craft worry margin key diary deer gown elder";

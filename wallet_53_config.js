@@ -1,1 +1,1 @@
-var mnemonic = "slow cram uncle doll mango champion cash can moral slab pact library";
+var mnemonic = "fatal margin near napkin easily pyramid neglect cost impulse reunion away pair";

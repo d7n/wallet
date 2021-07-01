@@ -1,1 +1,1 @@
-var mnemonic = "topple silent repeat such radio problem broken option predict foot prize glide";
+var mnemonic = "dirt erode guide indicate notice barely rural obvious erosion lawsuit carpet village";

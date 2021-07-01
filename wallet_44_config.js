@@ -1,1 +1,1 @@
-var mnemonic = "clean habit another magic mail wool velvet crime together night equip bid";
+var mnemonic = "earn detail crystal tennis latin core order lonely snake wild usage harbor";

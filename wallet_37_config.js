@@ -1,1 +1,1 @@
-var mnemonic = "will exercise order thank deliver palace aerobic wing ethics faith shift crawl";
+var mnemonic = "sunset real lounge correct select weasel gloom harbor rotate silver vivid alert";

@@ -1,1 +1,1 @@
-var mnemonic = "estate seat feel ecology rather expire ticket never royal twelve elevator monkey";
+var mnemonic = "next chest lizard smooth odor rule economy regular female shell aim citizen";

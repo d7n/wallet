@@ -1,1 +1,1 @@
-var mnemonic = "scissors benefit foil globe brand urban they outer stamp good episode slender";
+var mnemonic = "vague final sheriff knock train universe nuclear dizzy candy art company impose";

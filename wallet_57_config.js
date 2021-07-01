@@ -1,1 +1,1 @@
-var mnemonic = "plunge border donate milk script license fiction twist will spatial bundle idea";
+var mnemonic = "dog stove inhale glove group weird media tissue normal wire salt desk";

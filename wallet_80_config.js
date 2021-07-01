@@ -1,1 +1,1 @@
-var mnemonic = "frost verify produce science twice tide poem boring silver turn jaguar age";
+var mnemonic = "rabbit prevent october tone crop visa notable special detail describe screen chef";

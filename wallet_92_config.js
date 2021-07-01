@@ -1,1 +1,1 @@
-var mnemonic = "mail weird remind public urge traffic viable jelly airport upon multiply same";
+var mnemonic = "midnight hedgehog coyote stool royal mule tide throw purse office blouse call";

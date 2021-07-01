@@ -1,1 +1,1 @@
-var mnemonic = "window pizza target beauty giggle educate law syrup brass phrase attend urge";
+var mnemonic = "explain orchard kick hidden bar crack screen glove text damage knock casual";

@@ -1,1 +1,1 @@
-var mnemonic = "sister hundred into estate funny junk couple tunnel chimney wife beyond settle";
+var mnemonic = "apple twice super tooth sweet board stumble festival sleep taxi tower asthma";

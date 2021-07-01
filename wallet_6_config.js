@@ -1,1 +1,1 @@
-var mnemonic = "swift focus decline tool script mule grass mobile special valley voice ramp";
+var mnemonic = "silent maximum pupil dwarf project leader fortune victory eyebrow current between pink";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety limb razor shaft apart digital peace warrior sleep army hood donate";
+var mnemonic = "panda dust talk dragon umbrella ripple achieve math vacant paper lab area";

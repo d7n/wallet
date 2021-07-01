@@ -1,1 +1,1 @@
-var mnemonic = "jeans wide decide goat gas inspire syrup agent long video alley since";
+var mnemonic = "fiber leisure pledge major bridge derive crop original dial vital letter soft";

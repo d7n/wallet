@@ -1,1 +1,1 @@
-var mnemonic = "across cliff off hello amount chaos blade bid october unit debris pumpkin";
+var mnemonic = "flip rescue coconut trash woman post once increase strike wedding coast reduce";

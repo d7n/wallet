@@ -1,1 +1,1 @@
-var mnemonic = "barely present curtain trigger antenna forum reveal genius bind train prize rich";
+var mnemonic = "salad cave planet actor worry gold police innocent clog mountain alert midnight";

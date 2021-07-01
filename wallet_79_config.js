@@ -1,1 +1,1 @@
-var mnemonic = "knee height tribe sugar quiz narrow innocent reason scout surface enough erase";
+var mnemonic = "wine illegal accident pill tunnel praise park satisfy soon session across veteran";

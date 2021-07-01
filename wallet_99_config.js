@@ -1,1 +1,1 @@
-var mnemonic = "cradle return affair air valve claim guess way shoot unit true hollow";
+var mnemonic = "muffin juice mass wait budget derive wink amazing office impulse behind tomorrow";

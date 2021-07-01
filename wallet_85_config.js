@@ -1,1 +1,1 @@
-var mnemonic = "card camp flat consider belt despair iron pool unable valid cupboard dial";
+var mnemonic = "resource cry connect miss unveil obvious shadow hope crash wing uphold bamboo";

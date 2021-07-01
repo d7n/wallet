@@ -1,1 +1,1 @@
-var mnemonic = "grid paddle pudding scrub prepare doctor swap pact mandate mimic parade dinner";
+var mnemonic = "initial parrot march buyer rescue spin praise gorilla quick define hotel turtle";

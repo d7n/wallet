@@ -1,1 +1,1 @@
-var mnemonic = "celery beauty usage orient cause course tide draw case brown great acid";
+var mnemonic = "apple cause safe response weekend stem code vote globe balcony zoo glance";

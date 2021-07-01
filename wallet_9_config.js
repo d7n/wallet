@@ -1,1 +1,1 @@
-var mnemonic = "army gentle into acquire clump peace must artist tone actual toast disagree";
+var mnemonic = "left task mango provide patrol venue video just soul core bread melt";

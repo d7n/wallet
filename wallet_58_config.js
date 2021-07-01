@@ -1,1 +1,1 @@
-var mnemonic = "reduce weapon pride bunker muscle small happy boss destroy caught matter left";
+var mnemonic = "actress permit view crawl shock spy glad screen shine tunnel never tragic";

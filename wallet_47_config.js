@@ -1,1 +1,1 @@
-var mnemonic = "edit husband spirit hurt lesson fan top allow thrive another tone minimum";
+var mnemonic = "blur piece match humor anxiety piano idea ill avoid weather label like";

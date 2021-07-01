@@ -1,1 +1,1 @@
-var mnemonic = "utility eagle unit retreat inject lazy burger valid observe disagree rubber flee";
+var mnemonic = "oil million defense plate weekend gather dynamic pet club laptop sorry double";

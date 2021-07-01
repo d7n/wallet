@@ -1,1 +1,1 @@
-var mnemonic = "wash accuse input hollow produce icon there weapon boil sock analyst toast";
+var mnemonic = "vivid run history trash sentence sport memory biology fence echo bomb march";

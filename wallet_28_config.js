@@ -1,1 +1,1 @@
-var mnemonic = "romance glad absorb ripple whisper attack minor meadow rich tent album planet";
+var mnemonic = "nut first oven post farm express screen mother rent rib crop valley";

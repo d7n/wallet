@@ -1,1 +1,1 @@
-var mnemonic = "gather arrest captain auto sell street bag teach seek certain sell wheat";
+var mnemonic = "loop old pond since clutch sorry crush spring math clerk blush gadget";

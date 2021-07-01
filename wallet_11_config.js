@@ -1,1 +1,1 @@
-var mnemonic = "floor gentle divert depend target nasty scrub insect noise test safe syrup";
+var mnemonic = "shop lawsuit pair doctor drink auto major alter vocal comic public brown";

@@ -1,1 +1,1 @@
-var mnemonic = "slow tree wealth easily diagram dial affair dose oak audit boat mother";
+var mnemonic = "explain wise off camp during glide obvious obey kidney frost forest dolphin";

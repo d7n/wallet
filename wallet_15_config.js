@@ -1,1 +1,1 @@
-var mnemonic = "crash suffer decrease cliff useful next kiss drum govern figure hungry patrol";
+var mnemonic = "correct cupboard art execute day defense lake budget finger steel market blanket";

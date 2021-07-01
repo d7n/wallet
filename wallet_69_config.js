@@ -1,1 +1,1 @@
-var mnemonic = "immune casino tissue recipe rude face upset ensure solve innocent chief museum";
+var mnemonic = "switch federal awesome sword ghost funny time sad choose crew fatigue bacon";

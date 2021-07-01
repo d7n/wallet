@@ -1,1 +1,1 @@
-var mnemonic = "vanish ladder expect measure goat canoe sniff valve camp keen suspect outdoor";
+var mnemonic = "rug slot enlist illness catalog math kick easy auto tray cradle gravity";

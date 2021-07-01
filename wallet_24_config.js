@@ -1,1 +1,1 @@
-var mnemonic = "stem elevator confirm economy uncover sword sport typical brown share vacuum match";
+var mnemonic = "scorpion defy raw clarify pole tomato practice gauge nasty train tower aim";

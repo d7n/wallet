@@ -1,1 +1,1 @@
-var mnemonic = "lend segment wise journey require funny replace adjust baby galaxy twist inch";
+var mnemonic = "walnut soul theory minor chronic dish gather frequent elevator polar team link";

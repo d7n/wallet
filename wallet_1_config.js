@@ -1,1 +1,1 @@
-var mnemonic = "kick laundry scrub begin lucky client grain spider erode salmon hungry awful";
+var mnemonic = "sad average dove purchase olive trade quit inner clever brain kit transfer";

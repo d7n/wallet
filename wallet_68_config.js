@@ -1,1 +1,1 @@
-var mnemonic = "toilet slight pudding little goat current toe purpose opinion okay bird raw";
+var mnemonic = "learn knee dust logic lawn dignity use umbrella borrow three security improve";

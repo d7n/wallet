@@ -1,1 +1,1 @@
-var mnemonic = "federal usage climb height build lens salmon repair bulb worry tent easily";
+var mnemonic = "team upset slush dog secret antique nephew course swing game badge ripple";

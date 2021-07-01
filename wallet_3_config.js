@@ -1,1 +1,1 @@
-var mnemonic = "sentence royal outdoor parent dinosaur silent glad oyster athlete monster wrong party";
+var mnemonic = "syrup top verify worth ability lawsuit legend oxygen car amateur good ill";

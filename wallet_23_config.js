@@ -1,1 +1,1 @@
-var mnemonic = "fade panda stomach yellow valid artefact foam lonely hand enter canal fury";
+var mnemonic = "fatigue thought birth reduce evidence anger dynamic outdoor bargain find throw leader";

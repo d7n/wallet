@@ -1,1 +1,1 @@
-var mnemonic = "total wrestle often arch grow appear distance toast mesh rocket sad bridge";
+var mnemonic = "flat century quit fantasy just grow risk search shove category explain film";

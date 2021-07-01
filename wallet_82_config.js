@@ -1,1 +1,1 @@
-var mnemonic = "potato wine layer crash egg vague pulse pave elegant usual carbon ability";
+var mnemonic = "fossil laundry churn actress shoe clown wrap minimum security away uniform subject";

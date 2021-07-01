@@ -1,1 +1,1 @@
-var mnemonic = "salad memory potato wink swing merge pill neutral power describe below survey";
+var mnemonic = "total cube erosion elevator rural arrive box stairs draft hair dwarf feature";

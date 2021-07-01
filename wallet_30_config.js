@@ -1,1 +1,1 @@
-var mnemonic = "heart feed barrel unknown bomb text upper true employ become crystal butter";
+var mnemonic = "embrace grain outer tragic busy party behind feed thumb analyst poverty ordinary";

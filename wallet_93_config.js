@@ -1,1 +1,1 @@
-var mnemonic = "eye tape produce sock model leaf spend ocean submit return proof treat";
+var mnemonic = "inspire beach trumpet flat shed mean hobby elbow begin run exclude choice";

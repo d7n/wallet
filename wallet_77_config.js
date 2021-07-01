@@ -1,1 +1,1 @@
-var mnemonic = "onion shadow fatigue script island eager invest purchase trip exist bright urge";
+var mnemonic = "reform style fiction town tongue cute sign canoe slender predict promote symbol";

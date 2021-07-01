@@ -1,1 +1,1 @@
-var mnemonic = "equip sniff machine drift season winter small dose replace weather air bar";
+var mnemonic = "kind mean foil excess gate breeze find wire void antique stick series";

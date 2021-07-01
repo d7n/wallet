@@ -1,1 +1,1 @@
-var mnemonic = "ugly always wrap test abuse glue demise maple alert junior ecology entry";
+var mnemonic = "acquire frame frame grunt obvious view base page comic cat program flame";

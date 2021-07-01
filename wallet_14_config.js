@@ -1,1 +1,1 @@
-var mnemonic = "behind apart high inner lyrics purpose noise bundle noble top disagree snack";
+var mnemonic = "already letter unable ivory gasp ride debris universe device whale clean night";

@@ -1,1 +1,1 @@
-var mnemonic = "slide fat fringe execute already hurt antenna gun bachelor artwork churn wrestle";
+var mnemonic = "famous olympic six raise cliff boost clip hard carry wonder spot upset";

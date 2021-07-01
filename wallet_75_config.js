@@ -1,1 +1,1 @@
-var mnemonic = "tiny alley west follow spy model couple mixture priority sample diet fiction";
+var mnemonic = "tongue come panel catch opinion tag loyal avocado argue jaguar wire empty";

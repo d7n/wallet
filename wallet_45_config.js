@@ -1,1 +1,1 @@
-var mnemonic = "foster toe drive bubble main assume drama festival confirm pool hill ketchup";
+var mnemonic = "suspect mad area lab bulk ill pencil warrior focus metal chef primary";

@@ -1,1 +1,1 @@
-var mnemonic = "found soldier announce crouch boost author raw purse unable outer pupil nation";
+var mnemonic = "frequent immense comic taxi almost base before dentist example above census wife";

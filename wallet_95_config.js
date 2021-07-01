@@ -1,1 +1,1 @@
-var mnemonic = "entire awkward tattoo prosper jelly simple fix rude shoe energy evil rocket";
+var mnemonic = "front symptom balance digital walnut prize hood type club height erode brisk";

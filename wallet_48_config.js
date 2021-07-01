@@ -1,1 +1,1 @@
-var mnemonic = "vital message sword moment wall slogan jazz vendor absorb quick fox dwarf";
+var mnemonic = "maximum destroy tunnel island follow average horn kite own also head bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi six appear milk analyst dignity flavor world type fiber theory pupil";
+var mnemonic = "organ rapid dad skin until april reflect spin lawsuit liberty outside venue";

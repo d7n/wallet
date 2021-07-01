@@ -1,1 +1,1 @@
-var mnemonic = "anchor timber stable outdoor twice crystal stomach length knock enact walnut renew";
+var mnemonic = "forum leader draw apple idle wheat radio cereal found sentence detect leisure";

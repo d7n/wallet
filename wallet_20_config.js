@@ -1,1 +1,1 @@
-var mnemonic = "assault another exact achieve sting winter flavor make edge long favorite coconut";
+var mnemonic = "burden theory shoot hat wise term comic aunt stomach bargain token indicate";

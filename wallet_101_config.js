@@ -1,1 +1,1 @@
-var mnemonic = "acid what series frown left inside civil mimic mistake shrug speak diamond";
+var mnemonic = "hospital fruit series chapter uniform bridge just valid adult argue remain pistol";

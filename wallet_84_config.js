@@ -1,1 +1,1 @@
-var mnemonic = "system ancient chest argue verify fortune gauge swear voice okay sea finish";
+var mnemonic = "movie damage flash school video stone urge teach situate cloth actress any";

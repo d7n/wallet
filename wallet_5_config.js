@@ -1,1 +1,1 @@
-var mnemonic = "planet educate profit donor style race bulk satoshi list social hospital saddle";
+var mnemonic = "taxi chicken fury image endorse response bicycle pumpkin ship anchor shallow embark";

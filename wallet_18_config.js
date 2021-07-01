@@ -1,1 +1,1 @@
-var mnemonic = "unaware cotton protect decorate garage ski cruise valid sword lawn owner chief";
+var mnemonic = "toast manual problem deputy blue shield surround throw cream energy space junk";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp cave rally topic mandate silver labor open wise always clock rapid";
+var mnemonic = "update second pupil essay will depart sound enjoy jungle dash various drop";

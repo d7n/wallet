@@ -1,1 +1,1 @@
-var mnemonic = "card normal make health yellow blush once switch bird view trust test";
+var mnemonic = "crystal grid syrup addict about stairs crater chat raise scout assume column";

@@ -1,1 +1,1 @@
-var mnemonic = "kite skate service educate over frame bubble repair damage aunt bracket pool";
+var mnemonic = "bike woman session suggest tube scout mouse obscure devote glad judge swift";

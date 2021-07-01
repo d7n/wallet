@@ -1,1 +1,1 @@
-var mnemonic = "furnace hub hobby series artwork token park tiger text all salmon often";
+var mnemonic = "dry pond school oval coast web opinion apple spoil change load dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "supply across sock item cloth when kitchen fatigue degree coyote float kite";
+var mnemonic = "say amount person owner item stand casino become pitch bread income regular";

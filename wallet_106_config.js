@@ -1,1 +1,1 @@
-var mnemonic = "raven sunset license fog lounge glue wet silver pool two chapter rabbit";
+var mnemonic = "swamp flip convince ozone option little candy mandate three reject mosquito despair";

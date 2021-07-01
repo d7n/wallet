@@ -1,1 +1,1 @@
-var mnemonic = "useless debris patient wreck bacon vessel advance isolate mountain space couple forest";
+var mnemonic = "domain grain settle input still steak smile arrest robot measure inject action";

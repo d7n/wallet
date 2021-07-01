@@ -1,1 +1,1 @@
-var mnemonic = "market hold express grab elder panda cereal magic envelope source exist cliff";
+var mnemonic = "cheese road decline organ region mask language achieve slice elder kiwi trash";

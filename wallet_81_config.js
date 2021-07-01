@@ -1,1 +1,1 @@
-var mnemonic = "faith express build bachelor caution fury spatial approve rhythm album fancy pass";
+var mnemonic = "tattoo notable clean liberty float reason goose gold clay seed green bicycle";

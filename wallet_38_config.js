@@ -1,1 +1,1 @@
-var mnemonic = "illness inflict word crime thumb casual sunny suggest soup equal party equip";
+var mnemonic = "question flag gadget flip prosper result remind regret during cross essay extra";

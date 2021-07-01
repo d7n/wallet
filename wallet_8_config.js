@@ -1,1 +1,1 @@
-var mnemonic = "asthma lottery soccer piano divorce unknown occur frost tenant welcome busy vibrant";
+var mnemonic = "price before aerobic future vocal gas noble funny shield control balance because";

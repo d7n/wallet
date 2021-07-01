@@ -1,1 +1,1 @@
-var mnemonic = "master layer minor pink wasp scene punch comic wisdom play fiber stem";
+var mnemonic = "suit property pair foster fiscal aunt shoulder glare erode fiscal child exhaust";

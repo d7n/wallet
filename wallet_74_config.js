@@ -1,1 +1,1 @@
-var mnemonic = "impulse resist lens snap awake day demise drink inmate stuff genre path";
+var mnemonic = "blind strong pig suspect fence fiction strike key vapor shoulder awake perfect";

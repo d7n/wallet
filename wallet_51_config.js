@@ -1,1 +1,1 @@
-var mnemonic = "fluid use word truck salt bomb secret trophy cushion desk trumpet half";
+var mnemonic = "forward leaf old canyon topic day survey knock trend rocket during maze";

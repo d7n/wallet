@@ -1,1 +1,1 @@
-var mnemonic = "trouble all approve detail immense patient indicate next leaf fat dolphin eight";
+var mnemonic = "blade burger flight attract merit idea horn fun hedgehog when equal caught";
