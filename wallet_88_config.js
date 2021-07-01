@@ -1,1 +1,1 @@
-var mnemonic = "faculty engage vibrant solid life utility husband pipe wink coyote elevator claw";
+var mnemonic = "nominee pottery worry armor enjoy civil bulb cheese dose inform forget place";

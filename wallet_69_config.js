@@ -1,1 +1,1 @@
-var mnemonic = "excess curve seek heavy expire famous fall sad oval move fresh smoke";
+var mnemonic = "total few opera unknown amateur bean impose fruit oak basic trouble liberty";

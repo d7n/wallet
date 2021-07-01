@@ -1,1 +1,1 @@
-var mnemonic = "foot flower able base keen imitate visual alter until ramp planet evolve";
+var mnemonic = "depth awkward learn real antique sell typical rule hamster immense purity spike";

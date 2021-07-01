@@ -1,1 +1,1 @@
-var mnemonic = "garden knee hole access pride execute race grief solution arrive waste cherry";
+var mnemonic = "tenant ignore welcome spare around rose tackle audit airport ritual false thing";

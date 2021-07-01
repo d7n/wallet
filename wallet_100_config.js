@@ -1,1 +1,1 @@
-var mnemonic = "worth tone estate patrol art left flock north filter cost hobby winner";
+var mnemonic = "ethics excite alley rescue biology wish man strategy ring elite weather sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "consider steel riot poet position this very taxi feel autumn crystal select";
+var mnemonic = "crime alpha ladder bonus baby carbon wine risk salad soap save picture";

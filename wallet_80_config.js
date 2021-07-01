@@ -1,1 +1,1 @@
-var mnemonic = "early vessel brain toward mammal adapt puzzle saddle fee marine erupt car";
+var mnemonic = "choose lobster misery snack nose track cave learn derive betray inherit group";

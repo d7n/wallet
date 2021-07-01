@@ -1,1 +1,1 @@
-var mnemonic = "puzzle scissors motor face category memory angle mention cram seven seat route";
+var mnemonic = "devote sort opinion utility drip impulse night exact hidden erosion arm girl";

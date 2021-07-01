@@ -1,1 +1,1 @@
-var mnemonic = "coyote engine source virtual travel make tank deny crisp quit tobacco anger";
+var mnemonic = "cereal govern alert garage boil sword park grass fruit wedding bubble pair";

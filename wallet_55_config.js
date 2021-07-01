@@ -1,1 +1,1 @@
-var mnemonic = "friend congress number armed decrease nasty spoil hurdle second horn increase oyster";
+var mnemonic = "knock drip legend average school tribe cluster hint use begin home monster";

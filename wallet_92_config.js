@@ -1,1 +1,1 @@
-var mnemonic = "street damp assume host escape swamp retreat inside reason cheese wet enable";
+var mnemonic = "enter kick scene notice circle crane double boost oppose frog vivid jump";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix photo attend keep mixed uniform cinnamon mixed unveil eyebrow eight guitar";
+var mnemonic = "solve comfort myth result debris kangaroo fortune detail anxiety funny universe reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "track wear volcano math trash liquid vocal resist deliver blush march sudden";
+var mnemonic = "sudden inspire parent benefit enlist monkey south claim solution crane brand learn";

@@ -1,1 +1,1 @@
-var mnemonic = "split boy rotate cigar maid chimney where core soul winner permit spy";
+var mnemonic = "found crisp exhibit shift cheap catalog old motor window first sport siege";

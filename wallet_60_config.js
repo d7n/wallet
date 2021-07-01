@@ -1,1 +1,1 @@
-var mnemonic = "fine make jaguar fee tuition feel issue type edit pave tennis border";
+var mnemonic = "office attitude glory reflect obscure era submit exchange museum perfect position call";

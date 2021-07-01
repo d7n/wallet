@@ -1,1 +1,1 @@
-var mnemonic = "tip adjust drive safe job cliff race visual furnace input auction cute";
+var mnemonic = "food sense spell flush project ready giggle blast copper close feed unknown";

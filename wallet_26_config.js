@@ -1,1 +1,1 @@
-var mnemonic = "confirm umbrella gain beef spot lonely ride ahead rebuild nice jaguar cherry";
+var mnemonic = "addict agent short cruise kingdom foot inherit travel manual scrub praise void";

@@ -1,1 +1,1 @@
-var mnemonic = "science bid engine company fluid decide soft crush rubber double identify network";
+var mnemonic = "project future maple silk school digital body axis student install multiply weird";

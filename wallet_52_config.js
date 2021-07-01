@@ -1,1 +1,1 @@
-var mnemonic = "truth alcohol embody clog twice jacket jungle furnace angle journey jump lemon";
+var mnemonic = "hello mother increase filter pulse general present craft foot wife donate enact";

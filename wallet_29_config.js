@@ -1,1 +1,1 @@
-var mnemonic = "hybrid air vehicle panther foster estate slam beach fabric fire raise laptop";
+var mnemonic = "monster ritual car fiscal primary goddess iron dream mimic middle width there";

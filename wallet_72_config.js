@@ -1,1 +1,1 @@
-var mnemonic = "copy floor there squirrel shy pink police vocal rhythm label major aerobic";
+var mnemonic = "rice purpose pave corn cotton skill dry original rule twelve gate script";

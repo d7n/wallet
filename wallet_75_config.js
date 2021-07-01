@@ -1,1 +1,1 @@
-var mnemonic = "pact runway amount pizza helmet umbrella sight churn almost jelly expect lottery";
+var mnemonic = "garage install media stadium two inquiry comic girl switch purity debris slow";

@@ -1,1 +1,1 @@
-var mnemonic = "lava vehicle crater spread angle orchard butter rebel evolve unveil faint script";
+var mnemonic = "oppose wire castle spring bean chief myself item logic wait misery mass";

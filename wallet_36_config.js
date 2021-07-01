@@ -1,1 +1,1 @@
-var mnemonic = "better way hurdle team erupt cube offer okay shed into tobacco text";
+var mnemonic = "relax fish tennis beyond exotic inform escape shiver follow smoke romance bean";

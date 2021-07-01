@@ -1,1 +1,1 @@
-var mnemonic = "person mandate various sister arctic pony charge profit argue champion style bullet";
+var mnemonic = "jungle mule reward street fame never arrange output social siren improve uphold";

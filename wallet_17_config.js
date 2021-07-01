@@ -1,1 +1,1 @@
-var mnemonic = "guilt liar motor describe marine path another more bulb together rapid coach";
+var mnemonic = "twelve silver host convince pledge push face winter ignore car wedding fall";

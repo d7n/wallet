@@ -1,1 +1,1 @@
-var mnemonic = "more expect pepper pig captain vibrant decline ensure whip panel unhappy topple";
+var mnemonic = "candy earn genre garden element census meadow furnace celery effort awful click";

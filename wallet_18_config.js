@@ -1,1 +1,1 @@
-var mnemonic = "skirt cushion random manage public sword sea unit cancel tell candy embrace";
+var mnemonic = "host observe thrive phrase advice element upon poverty board crystal drive little";

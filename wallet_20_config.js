@@ -1,1 +1,1 @@
-var mnemonic = "radar ski whale enforce ketchup glory assume option choose shuffle indoor rule";
+var mnemonic = "cat soap swing erosion spot decorate twenty twice sunny shell grunt maple";

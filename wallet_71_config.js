@@ -1,1 +1,1 @@
-var mnemonic = "kite kid sick toss solid way act rigid foil tornado minute flip";
+var mnemonic = "timber gentle during animal scout plate risk scrub space install festival fix";

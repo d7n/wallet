@@ -1,1 +1,1 @@
-var mnemonic = "visual turkey yellow knee arctic rally twenty arrest dawn rely grit fish";
+var mnemonic = "theory black copy other above weapon mansion naive shock sibling bachelor opinion";

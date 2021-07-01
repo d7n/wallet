@@ -1,1 +1,1 @@
-var mnemonic = "light fitness shallow surround ramp skill pet garage find brisk slam eternal";
+var mnemonic = "live tone major keen often hole pact tenant prize school tenant party";

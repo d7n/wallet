@@ -1,1 +1,1 @@
-var mnemonic = "drama tortoise country liquid mixture business front jaguar hole actress day amused";
+var mnemonic = "voyage guard way believe supreme flame early judge wild defy collect myth";

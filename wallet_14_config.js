@@ -1,1 +1,1 @@
-var mnemonic = "renew cave valley fabric box peace help ready wrist glue dish pill";
+var mnemonic = "build uphold million bonus tiny tomorrow fatal bubble picture assist mind dynamic";

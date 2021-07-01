@@ -1,1 +1,1 @@
-var mnemonic = "away gossip banner balcony dry awkward unique sense bid refuse pumpkin sniff";
+var mnemonic = "chapter emerge purity host loud position exercise spirit exotic soup hello unfair";

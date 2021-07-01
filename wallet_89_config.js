@@ -1,1 +1,1 @@
-var mnemonic = "dry canvas ridge rose monkey fiscal pepper regular invite blue saddle decide";
+var mnemonic = "gold estate adjust stereo tortoise fade seek multiply pledge claim screen device";

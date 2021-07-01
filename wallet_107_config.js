@@ -1,1 +1,1 @@
-var mnemonic = "gown any satoshi economy usage motor reveal carbon hope orbit kind grant";
+var mnemonic = "ahead sadness clump reduce artwork ring cement device make rubber miss soul";

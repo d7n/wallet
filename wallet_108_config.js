@@ -1,1 +1,1 @@
-var mnemonic = "unusual use shoot remove false bronze hen pulp story jelly trend guitar";
+var mnemonic = "hint clown cost measure peanut dash funny venture tumble resemble zero poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky group sock citizen tattoo antenna echo venue acoustic name three rabbit";
+var mnemonic = "course sample clock teach reject volcano hurdle dove patrol vote false lady";

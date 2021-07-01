@@ -1,1 +1,1 @@
-var mnemonic = "like solid artwork vault legal walk swing address good burden axis know";
+var mnemonic = "clever gasp approve mystery siege option body measure dice execute lyrics play";

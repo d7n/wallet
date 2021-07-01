@@ -1,1 +1,1 @@
-var mnemonic = "price manual sleep canyon print doctor globe mother month uphold crater slam";
+var mnemonic = "level gallery disagree badge hero vehicle access empower rack guess banner tell";

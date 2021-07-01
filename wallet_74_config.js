@@ -1,1 +1,1 @@
-var mnemonic = "poverty scout melody risk debris reason divorce rural domain easy guilt panic";
+var mnemonic = "hybrid jelly slush effort craft venture later usage primary convince brother dish";

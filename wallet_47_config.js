@@ -1,1 +1,1 @@
-var mnemonic = "ginger boat mirror goose concert rapid embark stay whale tomato gloom spawn";
+var mnemonic = "slab science laptop face wink exclude clown final miss coin advance torch";

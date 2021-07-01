@@ -1,1 +1,1 @@
-var mnemonic = "trap width capital security buyer limit bar today slam scatter scheme degree";
+var mnemonic = "squeeze tiger frog stable very guitar clarify walnut ecology critic insane just";

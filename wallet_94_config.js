@@ -1,1 +1,1 @@
-var mnemonic = "improve celery utility correct elbow current loud crazy stay another sick what";
+var mnemonic = "option alcohol profit laundry turn there guide wise shoot quick exit vehicle";

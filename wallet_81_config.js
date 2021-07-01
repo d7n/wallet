@@ -1,1 +1,1 @@
-var mnemonic = "shell talk fitness air between notable tower stage gadget live corn achieve";
+var mnemonic = "fade behave area devote outer few idea say oval task point matter";

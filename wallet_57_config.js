@@ -1,1 +1,1 @@
-var mnemonic = "strike palace bitter critic trade dizzy rotate victory keen angry fork fruit";
+var mnemonic = "resource satisfy egg thunder assault auto soap thank monster peace example focus";

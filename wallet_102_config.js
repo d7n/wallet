@@ -1,1 +1,1 @@
-var mnemonic = "drastic artwork quiz decide dial nephew bench vague plate later inquiry corn";
+var mnemonic = "infant sketch what distance right enough then quarter secret reflect demise broccoli";

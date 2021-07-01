@@ -1,1 +1,1 @@
-var mnemonic = "bamboo floor candy empower core hungry mesh session cart toilet million narrow";
+var mnemonic = "earn learn maximum march mixture fit kind claim struggle desk onion toy";

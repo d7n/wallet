@@ -1,1 +1,1 @@
-var mnemonic = "camp boring describe shallow dinosaur spend scrap sell spoil ketchup cute leisure";
+var mnemonic = "judge runway spatial poem human nose puppy ticket advance isolate approve wrap";

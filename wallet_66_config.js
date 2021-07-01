@@ -1,1 +1,1 @@
-var mnemonic = "tuna romance call gentle version save bulb unlock erosion super noise shell";
+var mnemonic = "kit lottery lazy draft treat cliff teach list happy run another zebra";

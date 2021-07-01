@@ -1,1 +1,1 @@
-var mnemonic = "agree elephant output pluck expect endless lawn jealous fire current dose rocket";
+var mnemonic = "screen manual repeat style grace pyramid dust garment follow harvest child tribe";

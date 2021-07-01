@@ -1,1 +1,1 @@
-var mnemonic = "horse hunt armed rib hospital capable example thunder silly cause chief welcome";
+var mnemonic = "slush stable vital seven baby swift economy atom aware grocery enter clock";

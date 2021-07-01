@@ -1,1 +1,1 @@
-var mnemonic = "liar appear curious cool pulse false web soul glad minimum ski unaware";
+var mnemonic = "problem simple arena roast lawn solid reform inmate public oil matter lamp";

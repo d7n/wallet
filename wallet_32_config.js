@@ -1,1 +1,1 @@
-var mnemonic = "uncle now shadow junior wink require sand order bridge special script bid";
+var mnemonic = "kid post uncover bronze guitar army soap vault unhappy empower install repair";

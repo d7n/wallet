@@ -1,1 +1,1 @@
-var mnemonic = "ladder avocado young fashion retire funny neither act axis phrase gallery mimic";
+var mnemonic = "any shadow track category crane claim decade employ morning focus bridge gospel";

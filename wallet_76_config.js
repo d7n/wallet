@@ -1,1 +1,1 @@
-var mnemonic = "appear knock swap hour thank donor survey shadow kit ritual situate large";
+var mnemonic = "extra crawl shrimp humor joy road better portion sword disagree sudden true";

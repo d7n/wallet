@@ -1,1 +1,1 @@
-var mnemonic = "theory dynamic rocket jazz add label spatial squirrel arctic outer duty unable";
+var mnemonic = "guitar risk find speak comfort middle wrong service critic vehicle bus smooth";

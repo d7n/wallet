@@ -1,1 +1,1 @@
-var mnemonic = "team hope spoil stand begin hurdle blind fire north trend cheese sunset";
+var mnemonic = "exhibit ensure avoid door river hunt holiday absurd rule thing turtle exact";

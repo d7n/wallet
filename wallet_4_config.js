@@ -1,1 +1,1 @@
-var mnemonic = "father soup object lizard depend slice crawl maid miss foam among pink";
+var mnemonic = "buffalo such radio donor badge brass remember exclude exotic impact crouch edge";

@@ -1,1 +1,1 @@
-var mnemonic = "index home crash bitter novel fancy treat hybrid cousin ship skull general";
+var mnemonic = "spirit phrase cost whale early antique seminar donor below gather elephant aware";

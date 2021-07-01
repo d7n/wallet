@@ -1,1 +1,1 @@
-var mnemonic = "fit erupt owner village lucky wrap distance inner rookie exhibit syrup way";
+var mnemonic = "duty hope wave fat primary spice tonight sock face such high video";

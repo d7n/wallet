@@ -1,1 +1,1 @@
-var mnemonic = "bounce dynamic kitten pass gossip undo minor arctic couch live top aware";
+var mnemonic = "wet gadget vague confirm cousin volcano success doll firm congress machine number";

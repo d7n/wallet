@@ -1,1 +1,1 @@
-var mnemonic = "banana able prize cabbage employ whip often tissue junk country income ticket";
+var mnemonic = "tilt rent face candy marine common horror erase punch prevent thumb sudden";

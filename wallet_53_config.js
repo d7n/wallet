@@ -1,1 +1,1 @@
-var mnemonic = "attract true clock program shine ketchup length miracle combine spoon sail federal";
+var mnemonic = "piece badge talk cram assist student online behind liar stumble useless void";

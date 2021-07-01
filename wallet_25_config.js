@@ -1,1 +1,1 @@
-var mnemonic = "index grant enable core split say pool diagram stairs great focus when";
+var mnemonic = "symptom seat shove indicate escape detect small zoo main spider shy husband";

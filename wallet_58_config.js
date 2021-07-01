@@ -1,1 +1,1 @@
-var mnemonic = "define real comfort deer head unhappy isolate fog scheme state angle supply";
+var mnemonic = "label laugh artist example second borrow sad task candy balcony stable theory";

@@ -1,1 +1,1 @@
-var mnemonic = "caught grab earth prevent wheat onion until arrange lab scorpion name park";
+var mnemonic = "jelly hope barrel fall salute drum roof spice ranch inner donate diet";

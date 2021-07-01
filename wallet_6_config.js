@@ -1,1 +1,1 @@
-var mnemonic = "surge fragile kid wagon industry select describe ride before wisdom idle act";
+var mnemonic = "interest cream powder basic diet assist gauge shield absurd mango frog vocal";

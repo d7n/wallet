@@ -1,1 +1,1 @@
-var mnemonic = "fire pigeon guard atom allow excuse battle polar clump clap arena around";
+var mnemonic = "lion drip forget inspire pattern chaos finish install iron submit size remind";

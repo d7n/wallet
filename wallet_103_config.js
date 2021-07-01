@@ -1,1 +1,1 @@
-var mnemonic = "horn earn start two unable unknown final afford kiwi edge stereo unhappy";
+var mnemonic = "sad cart beyond spread major happy decorate home mansion hurt senior razor";

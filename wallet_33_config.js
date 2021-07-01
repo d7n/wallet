@@ -1,1 +1,1 @@
-var mnemonic = "stand power good arrive prefer peasant slender fun cycle wasp margin aunt";
+var mnemonic = "polar rent loyal fog wrestle mesh spare practice exhibit romance deal cotton";

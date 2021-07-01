@@ -1,1 +1,1 @@
-var mnemonic = "gym lobster dog crowd divorce yellow work noodle phrase blue tribe awake";
+var mnemonic = "sketch potato ignore birth auto endless ship envelope result seminar bullet bright";

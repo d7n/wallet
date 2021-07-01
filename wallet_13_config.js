@@ -1,1 +1,1 @@
-var mnemonic = "share maze way skate elevator input any clump theme fence loyal wrist";
+var mnemonic = "parent horse recipe spare alarm rather nut walk biology seven slice island";

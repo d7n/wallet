@@ -1,1 +1,1 @@
-var mnemonic = "school sure bamboo man garage rabbit rule then wear tattoo sponsor flame";
+var mnemonic = "reduce amused upon scale science trim tone view solid iron orchard borrow";

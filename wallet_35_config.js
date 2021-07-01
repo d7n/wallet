@@ -1,1 +1,1 @@
-var mnemonic = "subway rare join cart essence mushroom student demise since rebel street ignore";
+var mnemonic = "skirt second slight cricket input palm accuse summer guard nose grunt disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "primary dust rib grass energy enact man praise soldier slide space nut";
+var mnemonic = "cargo lend shield cook reveal once grab despair void weekend post advice";

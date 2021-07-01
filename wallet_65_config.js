@@ -1,1 +1,1 @@
-var mnemonic = "flavor quiz arrange need absorb wrong glide rain scorpion solution pave multiply";
+var mnemonic = "curve occur dutch tip present candy safe phone giggle sponsor invite length";

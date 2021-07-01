@@ -1,1 +1,1 @@
-var mnemonic = "lobster lift dish mango emotion opinion side carpet real thumb north skin";
+var mnemonic = "thought mimic march very step trigger excess news bachelor little elite execute";

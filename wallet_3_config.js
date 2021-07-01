@@ -1,1 +1,1 @@
-var mnemonic = "thought drop charge snake pipe paper gate pluck finger squeeze peace couch";
+var mnemonic = "win color humor giraffe zoo use burst define brisk keen rifle myself";

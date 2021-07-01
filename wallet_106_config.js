@@ -1,1 +1,1 @@
-var mnemonic = "purity leg weekend live ring depart dawn era topple once fresh throw";
+var mnemonic = "target junior position hotel salad pool print vote deer like limit aspect";

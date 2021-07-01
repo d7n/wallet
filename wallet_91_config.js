@@ -1,1 +1,1 @@
-var mnemonic = "slight claim connect helmet ring cycle marriage ketchup fiscal deputy horn defy";
+var mnemonic = "wrong earn crumble repair such action friend blind void brief casino soldier";

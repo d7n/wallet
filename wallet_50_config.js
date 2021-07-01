@@ -1,1 +1,1 @@
-var mnemonic = "toy flower describe apart mechanic feel gain prefer horn reduce toward bargain";
+var mnemonic = "mistake six fatigue able salon girl subject cereal away since hotel empower";

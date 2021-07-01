@@ -1,1 +1,1 @@
-var mnemonic = "expire hungry trigger drop exchange satoshi subject wool spawn hint near hammer";
+var mnemonic = "beach repair pond gorilla toy unhappy horse like lend champion tenant lawsuit";

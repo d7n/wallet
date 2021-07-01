@@ -1,1 +1,1 @@
-var mnemonic = "connect lamp emerge cactus apology sad actress gorilla prepare appear demise family";
+var mnemonic = "never pioneer wagon myth slab ramp relax antenna illegal gasp merge worry";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal globe vintage fade only detail toss meat paddle movie popular faint";
+var mnemonic = "first seat say allow december express legend swear race mixed library injury";

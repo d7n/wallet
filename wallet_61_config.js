@@ -1,1 +1,1 @@
-var mnemonic = "north peasant wreck scheme yard broken blur raise hire clock maple road";
+var mnemonic = "survey deputy supply color six tuna fold visit shiver like lab hard";

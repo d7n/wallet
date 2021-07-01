@@ -1,1 +1,1 @@
-var mnemonic = "inmate drift reward girl spawn gorilla convince notice fix cricket shrimp tonight";
+var mnemonic = "jazz forum denial unhappy blood quiz lecture food night forward garden then";

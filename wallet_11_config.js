@@ -1,1 +1,1 @@
-var mnemonic = "gate image siege strategy praise bright feature aspect gallery demise slender gospel";
+var mnemonic = "dutch genuine bunker excite swim notice beyond mirror million cinnamon wreck vote";

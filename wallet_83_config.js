@@ -1,1 +1,1 @@
-var mnemonic = "oyster secret heart remember flee furnace kiss style way fade recycle scrap";
+var mnemonic = "task goose other trash garden gun hybrid easily canoe custom follow rule";

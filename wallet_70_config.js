@@ -1,1 +1,1 @@
-var mnemonic = "satoshi gym track amazing doll release fatigue donate demand nerve large cool";
+var mnemonic = "viable loyal female tennis renew twist valid seven utility manage grab into";

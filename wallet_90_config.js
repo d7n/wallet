@@ -1,1 +1,1 @@
-var mnemonic = "manage rural table oblige siren virtual decide media want tiger absurd claim";
+var mnemonic = "fee include brother very before picnic net imitate ramp fancy truck actor";

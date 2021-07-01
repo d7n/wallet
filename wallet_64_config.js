@@ -1,1 +1,1 @@
-var mnemonic = "exhaust dove umbrella bullet raw level type room orbit civil paper laugh";
+var mnemonic = "bicycle diamond program web people need joy page supreme six wrist nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "pill horse aerobic movie food during sketch gate situate visual accuse barrel";
+var mnemonic = "color chapter few route cause negative napkin seven race leave dentist debris";

@@ -1,1 +1,1 @@
-var mnemonic = "alter this lamp couple image daughter damage protect bonus rifle actor husband";
+var mnemonic = "seek address warm jar federal domain replace rich gossip frog visual arrest";
