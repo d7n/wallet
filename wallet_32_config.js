@@ -1,1 +1,1 @@
-var mnemonic = "hub girl dish cart cabin muffin royal upper rather motion damp mechanic";
+var mnemonic = "uncle now shadow junior wink require sand order bridge special script bid";

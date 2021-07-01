@@ -1,1 +1,1 @@
-var mnemonic = "swift mandate viable leaf dry absurd donkey tattoo theory glass squeeze oyster";
+var mnemonic = "skirt cushion random manage public sword sea unit cancel tell candy embrace";

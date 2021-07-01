@@ -1,1 +1,1 @@
-var mnemonic = "cross ocean dog mechanic garbage traffic jacket foot switch security connect market";
+var mnemonic = "track wear volcano math trash liquid vocal resist deliver blush march sudden";

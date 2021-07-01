@@ -1,1 +1,1 @@
-var mnemonic = "owner mean swamp pumpkin salad reduce enroll suggest cactus alert evil pretty";
+var mnemonic = "average elite govern coffee appear sell people juice journey vehicle hen stomach";

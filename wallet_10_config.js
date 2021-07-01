@@ -1,1 +1,1 @@
-var mnemonic = "young gadget barely boss ski south quiz portion pitch canvas sort asset";
+var mnemonic = "garden knee hole access pride execute race grief solution arrive waste cherry";

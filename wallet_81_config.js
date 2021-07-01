@@ -1,1 +1,1 @@
-var mnemonic = "act skull aerobic marble more slim love december ordinary bargain donkey relax";
+var mnemonic = "shell talk fitness air between notable tower stage gadget live corn achieve";

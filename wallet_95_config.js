@@ -1,1 +1,1 @@
-var mnemonic = "situate pulse kit wait resource height mystery net audit squeeze system network";
+var mnemonic = "fire pigeon guard atom allow excuse battle polar clump clap arena around";

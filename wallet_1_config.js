@@ -1,1 +1,1 @@
-var mnemonic = "zero peace verb review parade plug cabin height unveil unaware youth peanut";
+var mnemonic = "theory dynamic rocket jazz add label spatial squirrel arctic outer duty unable";

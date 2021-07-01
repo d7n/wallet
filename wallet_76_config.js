@@ -1,1 +1,1 @@
-var mnemonic = "glove kingdom corn tilt gap series banner oppose sad stadium fork post";
+var mnemonic = "appear knock swap hour thank donor survey shadow kit ritual situate large";

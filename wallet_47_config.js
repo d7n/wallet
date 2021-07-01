@@ -1,1 +1,1 @@
-var mnemonic = "ancient round prepare calm only film valve champion fortune fuel runway blue";
+var mnemonic = "ginger boat mirror goose concert rapid embark stay whale tomato gloom spawn";

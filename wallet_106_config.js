@@ -1,1 +1,1 @@
-var mnemonic = "buyer spider voice gaze choice life resist shy similar sure dizzy apology";
+var mnemonic = "purity leg weekend live ring depart dawn era topple once fresh throw";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe bicycle print employ pulse market other view entire define keep kingdom";
+var mnemonic = "involve know develop month orchard mom infant boss carbon nothing able cry";

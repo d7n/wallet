@@ -1,1 +1,1 @@
-var mnemonic = "cube unlock second human dutch warrior before pole side must napkin impose";
+var mnemonic = "radar ski whale enforce ketchup glory assume option choose shuffle indoor rule";

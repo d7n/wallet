@@ -1,1 +1,1 @@
-var mnemonic = "vacant stem final empower country visual excuse immense filter force carry private";
+var mnemonic = "stand power good arrive prefer peasant slender fun cycle wasp margin aunt";

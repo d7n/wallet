@@ -1,1 +1,1 @@
-var mnemonic = "spirit name addict guess water pluck board verify barely cube depth wife";
+var mnemonic = "bamboo floor candy empower core hungry mesh session cart toilet million narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade minimum smart warfare term first magnet present blast kit bottom shield";
+var mnemonic = "liar appear curious cool pulse false web soul glad minimum ski unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve liquid input grass hover sword friend accuse swamp much another enjoy";
+var mnemonic = "surge fragile kid wagon industry select describe ride before wisdom idle act";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious inherit seek valid divide chalk general armed tube exile chest patient";
+var mnemonic = "oyster secret heart remember flee furnace kiss style way fade recycle scrap";

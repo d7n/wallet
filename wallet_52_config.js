@@ -1,1 +1,1 @@
-var mnemonic = "report win spell beyond involve decade green invite course ability aware wood";
+var mnemonic = "truth alcohol embody clog twice jacket jungle furnace angle journey jump lemon";

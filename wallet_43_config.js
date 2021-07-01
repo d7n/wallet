@@ -1,1 +1,1 @@
-var mnemonic = "stable circle swim ginger phrase arrive wrestle online tackle squirrel pony panther";
+var mnemonic = "coyote engine source virtual travel make tank deny crisp quit tobacco anger";

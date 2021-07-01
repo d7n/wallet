@@ -1,1 +1,1 @@
-var mnemonic = "tray refuse coyote vapor farm oblige stove focus badge parrot knife inquiry";
+var mnemonic = "connect lamp emerge cactus apology sad actress gorilla prepare appear demise family";

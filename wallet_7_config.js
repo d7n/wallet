@@ -1,1 +1,1 @@
-var mnemonic = "gain can post auction little use initial portion still stem neglect push";
+var mnemonic = "foot flower able base keen imitate visual alter until ramp planet evolve";

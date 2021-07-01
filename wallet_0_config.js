@@ -1,1 +1,1 @@
-var mnemonic = "taxi prosper interest spike season label party base vote power dance great";
+var mnemonic = "expire hungry trigger drop exchange satoshi subject wool spawn hint near hammer";

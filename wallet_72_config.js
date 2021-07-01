@@ -1,1 +1,1 @@
-var mnemonic = "trick decrease vault oak push exotic deer tomorrow provide animal wedding trim";
+var mnemonic = "copy floor there squirrel shy pink police vocal rhythm label major aerobic";

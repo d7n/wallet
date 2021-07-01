@@ -1,1 +1,1 @@
-var mnemonic = "way buddy dish wave rent wrong marble outdoor patrol exhaust title dial";
+var mnemonic = "price manual sleep canyon print doctor globe mother month uphold crater slam";

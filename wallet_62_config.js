@@ -1,1 +1,1 @@
-var mnemonic = "slogan orphan pause burger vehicle bird pool clown panther weapon orphan leave";
+var mnemonic = "caught grab earth prevent wheat onion until arrange lab scorpion name park";

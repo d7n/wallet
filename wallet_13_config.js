@@ -1,1 +1,1 @@
-var mnemonic = "waste loyal grocery enough effort prize fancy popular absent stool metal hazard";
+var mnemonic = "share maze way skate elevator input any clump theme fence loyal wrist";

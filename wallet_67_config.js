@@ -1,1 +1,1 @@
-var mnemonic = "garlic deliver uncle entire cabbage little ceiling two detail hire reunion nuclear";
+var mnemonic = "away gossip banner balcony dry awkward unique sense bid refuse pumpkin sniff";

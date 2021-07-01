@@ -1,1 +1,1 @@
-var mnemonic = "vicious verb practice habit leaf add junior monitor flush sister opinion elevator";
+var mnemonic = "tip adjust drive safe job cliff race visual furnace input auction cute";

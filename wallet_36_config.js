@@ -1,1 +1,1 @@
-var mnemonic = "proof alien razor sunset wealth farm raven glide crisp transfer aim dentist";
+var mnemonic = "better way hurdle team erupt cube offer okay shed into tobacco text";

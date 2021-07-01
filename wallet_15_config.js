@@ -1,1 +1,1 @@
-var mnemonic = "system lamp capable baby arm open siren party retire soap cram rescue";
+var mnemonic = "split boy rotate cigar maid chimney where core soul winner permit spy";

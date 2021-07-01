@@ -1,1 +1,1 @@
-var mnemonic = "purpose mobile despair bicycle bleak neither jacket prevent assault mask hungry become";
+var mnemonic = "bounce dynamic kitten pass gossip undo minor arctic couch live top aware";

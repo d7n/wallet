@@ -1,1 +1,1 @@
-var mnemonic = "program reward paper radar follow renew degree dizzy modify order cause sketch";
+var mnemonic = "school sure bamboo man garage rabbit rule then wear tattoo sponsor flame";

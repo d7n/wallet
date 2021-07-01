@@ -1,1 +1,1 @@
-var mnemonic = "advice melt slam doctor coral cart nest repair hunt across congress green";
+var mnemonic = "north peasant wreck scheme yard broken blur raise hire clock maple road";

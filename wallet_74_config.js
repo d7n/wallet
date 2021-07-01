@@ -1,1 +1,1 @@
-var mnemonic = "affair inspire debris mirror snow hill lend error modify select city peanut";
+var mnemonic = "poverty scout melody risk debris reason divorce rural domain easy guilt panic";

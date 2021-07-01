@@ -1,1 +1,1 @@
-var mnemonic = "local thought believe pigeon tide coral focus harvest casual company cave echo";
+var mnemonic = "tuna romance call gentle version save bulb unlock erosion super noise shell";

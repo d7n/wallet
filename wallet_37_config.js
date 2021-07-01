@@ -1,1 +1,1 @@
-var mnemonic = "plunge museum often teach weasel stay card police unable surprise thing modify";
+var mnemonic = "primary dust rib grass energy enact man praise soldier slide space nut";

@@ -1,1 +1,1 @@
-var mnemonic = "flock endorse install life sister core laugh funny consider real eight satisfy";
+var mnemonic = "person mandate various sister arctic pony charge profit argue champion style bullet";

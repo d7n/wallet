@@ -1,1 +1,1 @@
-var mnemonic = "vendor develop network hat medal old bless major fish taxi orchard rescue";
+var mnemonic = "hybrid air vehicle panther foster estate slam beach fabric fire raise laptop";

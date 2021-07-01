@@ -1,1 +1,1 @@
-var mnemonic = "saddle peasant leaf dumb legal will paper fashion vapor insane barrel wasp";
+var mnemonic = "lava vehicle crater spread angle orchard butter rebel evolve unveil faint script";

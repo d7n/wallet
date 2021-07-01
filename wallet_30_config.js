@@ -1,1 +1,1 @@
-var mnemonic = "wing bicycle miracle wave casual acquire dish believe east blade appear team";
+var mnemonic = "matrix photo attend keep mixed uniform cinnamon mixed unveil eyebrow eight guitar";

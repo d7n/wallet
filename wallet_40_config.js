@@ -1,1 +1,1 @@
-var mnemonic = "monitor soul love casino student loan few hood wide nice intact speed";
+var mnemonic = "more expect pepper pig captain vibrant decline ensure whip panel unhappy topple";

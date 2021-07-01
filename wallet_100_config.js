@@ -1,1 +1,1 @@
-var mnemonic = "cup traffic brain basic session trend half harvest cradle column tongue coconut";
+var mnemonic = "worth tone estate patrol art left flock north filter cost hobby winner";

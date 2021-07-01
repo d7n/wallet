@@ -1,1 +1,1 @@
-var mnemonic = "mechanic renew indicate donate laugh lens poet shrug obey teach dish hungry";
+var mnemonic = "alter this lamp couple image daughter damage protect bonus rifle actor husband";

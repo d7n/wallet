@@ -1,1 +1,1 @@
-var mnemonic = "joke used tiger fuel orient hollow mix fall inner maid wasp ask";
+var mnemonic = "drama tortoise country liquid mixture business front jaguar hole actress day amused";

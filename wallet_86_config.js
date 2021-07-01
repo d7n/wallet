@@ -1,1 +1,1 @@
-var mnemonic = "grit toss near eager olympic unknown just section rotate prison major receive";
+var mnemonic = "puzzle scissors motor face category memory angle mention cram seven seat route";

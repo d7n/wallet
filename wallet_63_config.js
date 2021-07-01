@@ -1,1 +1,1 @@
-var mnemonic = "half repair they accuse slam pill mom engine verify average topic lawsuit";
+var mnemonic = "notable what december protect omit crazy detail heart dawn buffalo tobacco broken";

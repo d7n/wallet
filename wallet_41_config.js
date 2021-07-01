@@ -1,1 +1,1 @@
-var mnemonic = "quantum dove powder north burst daughter usage consider window misery mule oyster";
+var mnemonic = "camp boring describe shallow dinosaur spend scrap sell spoil ketchup cute leisure";

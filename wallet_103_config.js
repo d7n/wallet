@@ -1,1 +1,1 @@
-var mnemonic = "give fork gift symptom auto garage park salad scare beyond trial diet";
+var mnemonic = "horn earn start two unable unknown final afford kiwi edge stereo unhappy";

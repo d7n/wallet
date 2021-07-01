@@ -1,1 +1,1 @@
-var mnemonic = "hire history barely isolate panther mean pill power cage flash accuse dust";
+var mnemonic = "consider steel riot poet position this very taxi feel autumn crystal select";

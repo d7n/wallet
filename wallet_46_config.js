@@ -1,1 +1,1 @@
-var mnemonic = "bright timber lady risk silver slush gold upon father like prison donkey";
+var mnemonic = "like solid artwork vault legal walk swing address good burden axis know";

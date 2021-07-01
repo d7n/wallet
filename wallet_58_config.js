@@ -1,1 +1,1 @@
-var mnemonic = "quit capable wing describe winner large kite adapt used buyer oak general";
+var mnemonic = "define real comfort deer head unhappy isolate fog scheme state angle supply";

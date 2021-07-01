@@ -1,1 +1,1 @@
-var mnemonic = "club assist anchor battle uniform hip guess half liar sign bid badge";
+var mnemonic = "index grant enable core split say pool diagram stairs great focus when";

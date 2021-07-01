@@ -1,1 +1,1 @@
-var mnemonic = "fence rib method basic person suffer push gadget burst friend recycle science";
+var mnemonic = "banana able prize cabbage employ whip often tissue junk country income ticket";

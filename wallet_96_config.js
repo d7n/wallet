@@ -1,1 +1,1 @@
-var mnemonic = "hybrid rifle plug pumpkin tragic mushroom wait invite shift expire satoshi suit";
+var mnemonic = "fit erupt owner village lucky wrap distance inner rookie exhibit syrup way";

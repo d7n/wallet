@@ -1,1 +1,1 @@
-var mnemonic = "bread person erode tomato mad often debate develop occur quiz report clay";
+var mnemonic = "vocal globe vintage fade only detail toss meat paddle movie popular faint";

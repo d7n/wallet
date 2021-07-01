@@ -1,1 +1,1 @@
-var mnemonic = "acquire random pull define midnight token easily adapt assault cactus drive purse";
+var mnemonic = "success position sing property ready oven together fiction jar type connect trend";

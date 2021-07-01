@@ -1,1 +1,1 @@
-var mnemonic = "reform settle ticket twelve smooth pond razor horn diesel army prize forest";
+var mnemonic = "slight claim connect helmet ring cycle marriage ketchup fiscal deputy horn defy";

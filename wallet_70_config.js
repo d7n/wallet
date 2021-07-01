@@ -1,1 +1,1 @@
-var mnemonic = "bomb isolate praise refuse account sponsor bubble brisk obvious giraffe perfect scissors";
+var mnemonic = "satoshi gym track amazing doll release fatigue donate demand nerve large cool";

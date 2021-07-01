@@ -1,1 +1,1 @@
-var mnemonic = "settle key book history dance resemble hockey history doctor ride misery palm";
+var mnemonic = "history border avoid keen predict situate innocent large vocal federal nephew video";

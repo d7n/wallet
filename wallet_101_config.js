@@ -1,1 +1,1 @@
-var mnemonic = "ring sniff conduct cross entire into salt olive okay supply traffic regular";
+var mnemonic = "science bid engine company fluid decide soft crush rubber double identify network";

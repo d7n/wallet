@@ -1,1 +1,1 @@
-var mnemonic = "small swap enter drive rifle prevent small vital glory spatial wedding orbit";
+var mnemonic = "thought drop charge snake pipe paper gate pluck finger squeeze peace couch";

@@ -1,1 +1,1 @@
-var mnemonic = "barely update pause hope west across orchard mountain argue across baby merit";
+var mnemonic = "friend congress number armed decrease nasty spoil hurdle second horn increase oyster";

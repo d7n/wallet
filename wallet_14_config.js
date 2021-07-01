@@ -1,1 +1,1 @@
-var mnemonic = "interest vital jungle guilt scrub veteran you sight group trick cluster stereo";
+var mnemonic = "renew cave valley fabric box peace help ready wrist glue dish pill";

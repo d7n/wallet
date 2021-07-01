@@ -1,1 +1,1 @@
-var mnemonic = "match wild vital plastic scorpion dentist cannon curtain trick own foster season";
+var mnemonic = "pill horse aerobic movie food during sketch gate situate visual accuse barrel";

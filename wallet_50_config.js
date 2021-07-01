@@ -1,1 +1,1 @@
-var mnemonic = "zebra toddler electric happy crisp slot flock pipe indoor whale tourist machine";
+var mnemonic = "toy flower describe apart mechanic feel gain prefer horn reduce toward bargain";

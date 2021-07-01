@@ -1,1 +1,1 @@
-var mnemonic = "differ letter pupil stick tail ozone twelve extend oil hospital wall coconut";
+var mnemonic = "flavor quiz arrange need absorb wrong glide rain scorpion solution pave multiply";

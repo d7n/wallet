@@ -1,1 +1,1 @@
-var mnemonic = "bean erupt cliff because risk taxi arch company box settle fantasy exercise";
+var mnemonic = "improve celery utility correct elbow current loud crazy stay another sick what";

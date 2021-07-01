@@ -1,1 +1,1 @@
-var mnemonic = "pill hello error term myth comfort glove chat hill inhale success awkward";
+var mnemonic = "excess curve seek heavy expire famous fall sad oval move fresh smoke";

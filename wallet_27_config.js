@@ -1,1 +1,1 @@
-var mnemonic = "fan alter review craft main manage water enforce remember border kit mansion";
+var mnemonic = "firm isolate cute civil elbow bag opera region side breeze tilt eight";

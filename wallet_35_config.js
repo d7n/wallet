@@ -1,1 +1,1 @@
-var mnemonic = "teach fetch else speak draft century cloud better blouse slab relax make";
+var mnemonic = "subway rare join cart essence mushroom student demise since rebel street ignore";

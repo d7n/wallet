@@ -1,1 +1,1 @@
-var mnemonic = "stereo catalog execute example kidney depend autumn flock monitor jar maid blossom";
+var mnemonic = "gown any satoshi economy usage motor reveal carbon hope orbit kind grant";

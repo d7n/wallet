@@ -1,1 +1,1 @@
-var mnemonic = "urban equip reveal behave social mix desert cash suspect success snake shoe";
+var mnemonic = "team hope spoil stand begin hurdle blind fire north trend cheese sunset";

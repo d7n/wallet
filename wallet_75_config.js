@@ -1,1 +1,1 @@
-var mnemonic = "negative plate repair child fever company fork trigger large shed digital struggle";
+var mnemonic = "pact runway amount pizza helmet umbrella sight churn almost jelly expect lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe pass gorilla surprise master jealous venture spin shy horror evil pill";
+var mnemonic = "manage rural table oblige siren virtual decide media want tiger absurd claim";

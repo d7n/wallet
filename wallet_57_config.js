@@ -1,1 +1,1 @@
-var mnemonic = "then behind biology resource leisure refuse foam day emotion pill uncle kick";
+var mnemonic = "strike palace bitter critic trade dizzy rotate victory keen angry fork fruit";

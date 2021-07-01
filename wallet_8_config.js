@@ -1,1 +1,1 @@
-var mnemonic = "term finish install cross velvet release narrow misery wheat soldier tissue earth";
+var mnemonic = "ladder avocado young fashion retire funny neither act axis phrase gallery mimic";

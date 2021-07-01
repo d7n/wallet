@@ -1,1 +1,1 @@
-var mnemonic = "reunion repair mix victory end cactus toddler zoo quote excite pyramid relax";
+var mnemonic = "become yellow lift pitch royal drive place convince butter inject crime review";

@@ -1,1 +1,1 @@
-var mnemonic = "share color assault metal blade gym sudden senior rotate rabbit shoulder garage";
+var mnemonic = "exhaust dove umbrella bullet raw level type room orbit civil paper laugh";

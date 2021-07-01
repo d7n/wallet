@@ -1,1 +1,1 @@
-var mnemonic = "will mosquito morning true midnight track raw bomb bamboo thunder cake slight";
+var mnemonic = "lucky group sock citizen tattoo antenna echo venue acoustic name three rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace foil select picture enlist become real disorder stadium flower bleak token";
+var mnemonic = "attract true clock program shine ketchup length miracle combine spoon sail federal";

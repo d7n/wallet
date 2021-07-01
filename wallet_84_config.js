@@ -1,1 +1,1 @@
-var mnemonic = "obvious rib arrange duty mother region border action noble curve network shuffle";
+var mnemonic = "noise census waste judge harsh depth scrub city laptop amateur intact prison";

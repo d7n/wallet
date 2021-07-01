@@ -1,1 +1,1 @@
-var mnemonic = "payment embrace quarter random defense junk divorce erase october choose same clutch";
+var mnemonic = "fine make jaguar fee tuition feel issue type edit pave tennis border";

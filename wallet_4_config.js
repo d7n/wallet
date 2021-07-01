@@ -1,1 +1,1 @@
-var mnemonic = "athlete among release swift cool area sheriff jaguar episode reward apart crane";
+var mnemonic = "father soup object lizard depend slice crawl maid miss foam among pink";

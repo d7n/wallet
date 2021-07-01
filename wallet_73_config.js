@@ -1,1 +1,1 @@
-var mnemonic = "actual economy affair south shine giant pioneer nut arrest fantasy forward mechanic";
+var mnemonic = "horse hunt armed rib hospital capable example thunder silly cause chief welcome";

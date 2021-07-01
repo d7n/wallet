@@ -1,1 +1,1 @@
-var mnemonic = "system manual enable student moral rally rude beauty roof squeeze dream mountain";
+var mnemonic = "lobster lift dish mango emotion opinion side carpet real thumb north skin";
