@@ -1,1 +1,1 @@
-var mnemonic = "course trick donkey rack raven define still define venue cabin employ receive";
+var mnemonic = "round car can side eye gadget despair steak toy better term scene";

@@ -1,1 +1,1 @@
-var mnemonic = "tell maximum logic razor hand neglect vague window kite search talent cable";
+var mnemonic = "unaware govern video toast there intact annual weird busy setup curve company";

@@ -1,1 +1,1 @@
-var mnemonic = "undo clap web agree dose priority actual marble domain fantasy vicious entire";
+var mnemonic = "plastic emerge bleak outdoor belt duck pledge spy banana monster clown culture";

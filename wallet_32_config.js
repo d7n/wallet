@@ -1,1 +1,1 @@
-var mnemonic = "shove away slide mercy total call middle sphere raise hold marine smoke";
+var mnemonic = "antenna satisfy dream width neither expire north potato gaze symptom leave shadow";

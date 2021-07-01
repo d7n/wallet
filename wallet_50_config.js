@@ -1,1 +1,1 @@
-var mnemonic = "figure syrup derive erase shed around raw stage still copy ostrich solution";
+var mnemonic = "inside bounce pizza wide federal culture teach rural culture resemble plug blame";

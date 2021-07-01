@@ -1,1 +1,1 @@
-var mnemonic = "warfare love slot unit main blush card obvious fuel drift budget hybrid";
+var mnemonic = "brain penalty note parrot track scare fetch stone because occur sand copper";

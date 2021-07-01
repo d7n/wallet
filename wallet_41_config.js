@@ -1,1 +1,1 @@
-var mnemonic = "public grit elevator catalog shrug slender twelve thrive direct limit pass knee";
+var mnemonic = "parent cash outside popular turtle just shy maze sunny car dignity blast";

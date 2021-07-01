@@ -1,1 +1,1 @@
-var mnemonic = "alert scare main resist reunion wisdom matrix morning sense bounce snake logic";
+var mnemonic = "mirror detect impact sight garbage surround border sauce spell process slim quit";

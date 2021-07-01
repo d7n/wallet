@@ -1,1 +1,1 @@
-var mnemonic = "dash antique grief embark pumpkin artwork coconut wife clutch control hammer caught";
+var mnemonic = "become chronic violin gain elder secret music follow curve rose rural next";

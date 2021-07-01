@@ -1,1 +1,1 @@
-var mnemonic = "seat sugar silly floor acid number rebuild label battle equip fringe galaxy";
+var mnemonic = "else bag better emerge crack tackle lady damage tool congress spray uniform";

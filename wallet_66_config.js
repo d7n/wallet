@@ -1,1 +1,1 @@
-var mnemonic = "satisfy finger breeze lunch arena void scrub pear leader wing muffin athlete";
+var mnemonic = "human debate category atom image evil climb endless embody faith reason trash";

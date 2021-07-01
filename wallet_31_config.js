@@ -1,1 +1,1 @@
-var mnemonic = "body cheap lunch page magnet photo faint pear rain nurse lens ankle";
+var mnemonic = "order october raven list dust grab slight choice hope recycle advice license";

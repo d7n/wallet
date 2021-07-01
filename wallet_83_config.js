@@ -1,1 +1,1 @@
-var mnemonic = "loop symptom machine evolve topic delay screen nation drastic dynamic resource tuna";
+var mnemonic = "grass obtain always swift announce chat arch essence hawk purity below tattoo";

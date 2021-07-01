@@ -1,1 +1,1 @@
-var mnemonic = "duty truck gospel afford force entire carbon endless hope pet parade predict";
+var mnemonic = "museum lecture adapt concert lumber omit depend before castle door mistake primary";

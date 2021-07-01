@@ -1,1 +1,1 @@
-var mnemonic = "property couch wasp rescue rough spin people pact trash gravity maple anxiety";
+var mnemonic = "bleak monkey enough chef drink agent describe network false income wet undo";

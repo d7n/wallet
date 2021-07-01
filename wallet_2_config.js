@@ -1,1 +1,1 @@
-var mnemonic = "sense sword twenty wheel wine stay truck swallow fresh undo only harsh";
+var mnemonic = "gain crater video lake turkey pulse random gym recycle donkey rabbit few";

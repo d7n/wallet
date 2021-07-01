@@ -1,1 +1,1 @@
-var mnemonic = "since today lonely neither indicate deny pelican rebel feel tank quantum ticket";
+var mnemonic = "vacuum gossip scene miss eyebrow used sand pulse rotate few margin come";

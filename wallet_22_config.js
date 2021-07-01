@@ -1,1 +1,1 @@
-var mnemonic = "opera basic manual enough twelve dignity witness anger depth rice sand actress";
+var mnemonic = "guilt ugly copy december exist awful fork elevator december believe claw discover";

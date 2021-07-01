@@ -1,1 +1,1 @@
-var mnemonic = "market visa scare raw come ivory defense rhythm strike derive shed wife";
+var mnemonic = "local purity eager swap door attend industry slight jealous blush innocent apart";

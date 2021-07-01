@@ -1,1 +1,1 @@
-var mnemonic = "spy focus worth praise catalog unfold rather essence egg prepare three response";
+var mnemonic = "stable swift smooth surface faculty chalk artwork one symbol friend helmet then";

@@ -1,1 +1,1 @@
-var mnemonic = "visit good palm thumb wolf grid cousin cousin seminar moon quiz select";
+var mnemonic = "crush knee drop vacant region jeans lizard nominee atom suffer average solution";

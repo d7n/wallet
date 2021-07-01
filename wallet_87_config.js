@@ -1,1 +1,1 @@
-var mnemonic = "bag atom object vapor glimpse trip puzzle found room collect bubble sphere";
+var mnemonic = "skate cloth feed grape whip try inner enroll hip legend cushion vibrant";

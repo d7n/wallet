@@ -1,1 +1,1 @@
-var mnemonic = "first expand snack emerge between faint clump soul hungry brief naive else";
+var mnemonic = "fatigue dove cave brother gentle mask bridge rotate rookie hurdle farm agent";

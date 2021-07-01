@@ -1,1 +1,1 @@
-var mnemonic = "rally next crumble add noise youth morning kite glad friend alpha slush";
+var mnemonic = "churn loan assist dream carpet travel absorb nerve rival damp mushroom ticket";

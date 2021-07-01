@@ -1,1 +1,1 @@
-var mnemonic = "birth term force broom neck road elevator secret rose present assault front";
+var mnemonic = "define kick debris ritual owner ladder antique first prevent dragon purity arrange";

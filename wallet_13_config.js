@@ -1,1 +1,1 @@
-var mnemonic = "soup pair jar civil rescue leopard chalk economy absent region boy normal";
+var mnemonic = "analyst spike slow doll ivory dice merry tape cotton huge crisp battle";

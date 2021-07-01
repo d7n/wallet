@@ -1,1 +1,1 @@
-var mnemonic = "segment token utility hazard tackle obey toast rail day heart bacon truth";
+var mnemonic = "shock tube soda silk answer alter hero accident release assume real obey";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate elbow shoe spawn winner shop hip use double matter room light";
+var mnemonic = "fade recycle pass gossip total venue train cigar live shrimp math pull";

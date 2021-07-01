@@ -1,1 +1,1 @@
-var mnemonic = "output jealous shove again heart team struggle library mushroom dry snack wool";
+var mnemonic = "mind mammal tone daughter table hub smooth expand click stumble roof song";

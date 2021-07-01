@@ -1,1 +1,1 @@
-var mnemonic = "fantasy maple slot future belt inform risk hip carbon cruise hedgehog industry";
+var mnemonic = "sibling boy voice steak worth make castle sadness arena soon finger original";

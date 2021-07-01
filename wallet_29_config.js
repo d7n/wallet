@@ -1,1 +1,1 @@
-var mnemonic = "song shuffle future fit obtain valve weird analyst denial team salon rare";
+var mnemonic = "festival nation toe elbow mouse mimic bag eyebrow spike enroll pottery smart";

@@ -1,1 +1,1 @@
-var mnemonic = "decade invite person gauge tuna giant deposit melt point tomorrow lobster oil";
+var mnemonic = "bar best piano ladder divide faith answer number tool light general boy";

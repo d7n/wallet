@@ -1,1 +1,1 @@
-var mnemonic = "amount reveal between lion ahead rose wheel barrel chest member salute vendor";
+var mnemonic = "olive wonder topic fruit check indoor used entire fold water budget dynamic";

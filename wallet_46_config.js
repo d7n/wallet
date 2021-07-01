@@ -1,1 +1,1 @@
-var mnemonic = "total execute opera clock spin clap cream action joke illness bunker canal";
+var mnemonic = "bullet segment illegal viable screen old earn arrive tank spare office alert";

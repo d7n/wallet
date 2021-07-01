@@ -1,1 +1,1 @@
-var mnemonic = "inch lake front wisdom garage decorate candy say crumble umbrella exchange innocent";
+var mnemonic = "funny bus someone digital ring apart soccer humble staff human chalk easy";

@@ -1,1 +1,1 @@
-var mnemonic = "swift deposit trip poem notable sibling virus capital once broken humor board";
+var mnemonic = "canoe clump will twin roof hotel sea gaze pattern walnut save upset";

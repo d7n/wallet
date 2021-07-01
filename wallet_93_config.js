@@ -1,1 +1,1 @@
-var mnemonic = "escape success penalty clarify scrap wish upgrade split apple fragile exchange solar";
+var mnemonic = "total student recipe height easily artist buyer indicate muscle ginger whip bounce";

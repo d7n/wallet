@@ -1,1 +1,1 @@
-var mnemonic = "tuna cloud pull melody return unusual absent grit dolphin arch word radio";
+var mnemonic = "wolf enact auto slim bid garlic hurt index olive drift surge decrease";

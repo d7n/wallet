@@ -1,1 +1,1 @@
-var mnemonic = "sick travel hidden student genre lecture pelican grab monitor dawn vague logic";
+var mnemonic = "grief victory plunge mechanic team night mammal example picnic raccoon neither regret";

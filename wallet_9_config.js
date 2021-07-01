@@ -1,1 +1,1 @@
-var mnemonic = "embark magic soft describe table display income equip cheese february arrive curve";
+var mnemonic = "you sand write resource vivid first original give crisp crisp mention fiscal";

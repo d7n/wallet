@@ -1,1 +1,1 @@
-var mnemonic = "wisdom trick weekend aunt just shrug lobster video mask build husband already";
+var mnemonic = "left surface mother alpha you day very garage photo sphere leave consider";

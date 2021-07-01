@@ -1,1 +1,1 @@
-var mnemonic = "bottom army manual eager protect mean vendor actor people brand figure slow";
+var mnemonic = "miss amused physical output degree ocean hawk rain glass still spot potato";

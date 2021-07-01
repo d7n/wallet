@@ -1,1 +1,1 @@
-var mnemonic = "spice solar warm next alarm best brave music law harbor wash dash";
+var mnemonic = "fuel soap repair slow arctic length now vessel seven sort report holiday";

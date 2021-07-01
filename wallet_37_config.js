@@ -1,1 +1,1 @@
-var mnemonic = "pistol rapid cabin asthma grape walnut census web kingdom tower pull glare";
+var mnemonic = "clog reduce transfer sugar lucky tell question trick immune demise spoil toe";

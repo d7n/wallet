@@ -1,1 +1,1 @@
-var mnemonic = "ridge catalog intact exotic novel rhythm festival frame border three ticket usual";
+var mnemonic = "shy expect symptom ritual innocent release farm october party cruise derive stove";

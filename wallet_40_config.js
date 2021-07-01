@@ -1,1 +1,1 @@
-var mnemonic = "forest nest ostrich shy orchard rally scout cherry slender owner thought daughter";
+var mnemonic = "credit kangaroo next wreck trust leisure lemon dance under outside fiscal solve";

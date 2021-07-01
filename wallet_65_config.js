@@ -1,1 +1,1 @@
-var mnemonic = "legend loan advice point weather device initial edit animal mango modify course";
+var mnemonic = "method various diagram junior door hungry second topple cover oak squeeze glow";

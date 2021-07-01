@@ -1,1 +1,1 @@
-var mnemonic = "pelican require nice raise they enough tongue random finger silk cute invest";
+var mnemonic = "bounce flower agree engine rally pen awful swap venture crowd youth hello";

@@ -1,1 +1,1 @@
-var mnemonic = "able actual owner ask priority clarify desk zero net frown embody fine";
+var mnemonic = "basic neutral title include surprise length explain ripple utility cream click similar";

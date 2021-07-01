@@ -1,1 +1,1 @@
-var mnemonic = "master knee battle cancel point online success brick initial video tree bonus";
+var mnemonic = "piano grain rival current spoil miss brain weird grape novel draw match";

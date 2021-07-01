@@ -1,1 +1,1 @@
-var mnemonic = "moment lock shock degree kingdom click between garage census enrich torch better";
+var mnemonic = "owner erode receive front real usage mansion board pride video staff scene";

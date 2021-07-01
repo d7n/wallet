@@ -1,1 +1,1 @@
-var mnemonic = "sorry slogan foot column device pumpkin insect novel vital radar jump payment";
+var mnemonic = "creek bird essay grace marriage october very poverty lift piano output mango";

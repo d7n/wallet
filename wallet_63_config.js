@@ -1,1 +1,1 @@
-var mnemonic = "caught lizard client filter visa hold shop liar abuse rabbit beef rescue";
+var mnemonic = "cinnamon heart smile seminar expect undo conduct assume furnace earth promote idea";

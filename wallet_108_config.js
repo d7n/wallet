@@ -1,1 +1,1 @@
-var mnemonic = "repair choice inmate burden cabin bomb crumble predict valid limb bulk island";
+var mnemonic = "witness draft soup still frame math retreat inch remind must expand tone";

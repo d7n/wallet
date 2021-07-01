@@ -1,1 +1,1 @@
-var mnemonic = "since spell already pink radio upgrade planet dinosaur butter bicycle wait modify";
+var mnemonic = "private maximum harbor ribbon wave suit kind success puppy net firm tourist";

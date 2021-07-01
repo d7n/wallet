@@ -1,1 +1,1 @@
-var mnemonic = "shallow news cry emotion sort gossip cupboard rubber home diet cherry manage";
+var mnemonic = "near dinner carbon property idea you color describe fog expire erode display";

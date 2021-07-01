@@ -1,1 +1,1 @@
-var mnemonic = "urge shoe castle guitar absurd member armed enrich fan vintage space baby";
+var mnemonic = "romance stool horse dutch company bid harvest axis dad labor cheap unusual";

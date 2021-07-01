@@ -1,1 +1,1 @@
-var mnemonic = "auto crystal cook identify banana above happy spray gossip turn disease wasp";
+var mnemonic = "begin tongue differ antenna section arrest replace setup change spoil orchard mansion";

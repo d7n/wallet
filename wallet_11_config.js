@@ -1,1 +1,1 @@
-var mnemonic = "cheese remind benefit victory indicate win catalog poem remember razor battle one";
+var mnemonic = "honey borrow judge churn garment mutual deposit bike lion shoot nasty pledge";

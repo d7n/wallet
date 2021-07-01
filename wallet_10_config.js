@@ -1,1 +1,1 @@
-var mnemonic = "clinic stove soda fence caution hunt awful disagree fly solution twin almost";
+var mnemonic = "come round book grain salmon clever jump cargo bicycle surface core pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "among stamp marine panther fun drip more impose claw mad inside slight";
+var mnemonic = "scatter guard pioneer edge search tortoise physical hard equip twin travel camera";

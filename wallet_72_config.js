@@ -1,1 +1,1 @@
-var mnemonic = "hero cash key galaxy fabric isolate admit charge gift spatial luxury that";
+var mnemonic = "candy announce cactus damp loop route mutual salt devote hold address hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "rally deny horror circle used job boss outside trade salute soup input";
+var mnemonic = "mention latin large word labor term replace arctic anchor chat pond peanut";

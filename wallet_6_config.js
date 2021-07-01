@@ -1,1 +1,1 @@
-var mnemonic = "label segment just combine patrol spring typical card neither goddess reunion lazy";
+var mnemonic = "cactus attack pretty hidden device leisure explain sadness draw notice fun say";

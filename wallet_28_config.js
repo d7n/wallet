@@ -1,1 +1,1 @@
-var mnemonic = "struggle note kangaroo betray friend stock flame frame spider oval submit mean";
+var mnemonic = "small search garlic vivid park vibrant problem actual lawn lunch ill mask";

@@ -1,1 +1,1 @@
-var mnemonic = "trip stand chunk record nasty search core segment couple rebel vote shift";
+var mnemonic = "hunt creek dinosaur maximum response slim essence make aisle mass grant thank";

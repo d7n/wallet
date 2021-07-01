@@ -1,1 +1,1 @@
-var mnemonic = "absent spike total adapt goat fashion capital glow save truly toward laptop";
+var mnemonic = "latin athlete width wasp jelly fog private useless rack wasp pattern pride";

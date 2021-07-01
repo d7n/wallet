@@ -1,1 +1,1 @@
-var mnemonic = "energy kite improve canal inhale stem tilt reform fury apology blame miss";
+var mnemonic = "board trophy keep zoo hip tribe bamboo yellow cover note atom wait";

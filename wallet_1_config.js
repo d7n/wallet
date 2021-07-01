@@ -1,1 +1,1 @@
-var mnemonic = "fold sunset chair veteran portion garden ranch call anger silent sad awkward";
+var mnemonic = "truck photo nothing shrug vivid erode topic judge oyster elder leisure main";

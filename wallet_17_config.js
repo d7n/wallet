@@ -1,1 +1,1 @@
-var mnemonic = "hobby put matter hover sheriff almost season initial bleak cup seven village";
+var mnemonic = "thrive error silver sand organ arrange vehicle scout twenty dolphin easily bacon";

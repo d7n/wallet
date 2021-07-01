@@ -1,1 +1,1 @@
-var mnemonic = "desert culture put key return brand valley labor hub basic base dolphin";
+var mnemonic = "beef nice unhappy depend soup firm risk love web spoon again craft";

@@ -1,1 +1,1 @@
-var mnemonic = "note mother early mixed distance solar flash material sister main twist vehicle";
+var mnemonic = "give vital empower make crucial few reduce bargain way exhibit furnace fury";

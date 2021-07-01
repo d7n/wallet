@@ -1,1 +1,1 @@
-var mnemonic = "pause bulb visual author apart manage depart post unfair release dentist pilot";
+var mnemonic = "february salt slice pudding fat scissors fantasy gown test congress digital wink";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse rigid stomach gravity people hover diesel loyal universe sentence cart potato";
+var mnemonic = "bag ladder toss dignity erode lounge benefit moment track fitness loan venture";

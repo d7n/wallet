@@ -1,1 +1,1 @@
-var mnemonic = "crater check burger wild void claw mobile trouble fine bracket usage urge";
+var mnemonic = "glass close coffee economy turtle now prize leaf cricket void curious embrace";

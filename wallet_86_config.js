@@ -1,1 +1,1 @@
-var mnemonic = "tissue put manual creek marriage token tribe stick unable radar review swim";
+var mnemonic = "unfair clump chaos private because room treat claim twice chronic impact whisper";

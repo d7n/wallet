@@ -1,1 +1,1 @@
-var mnemonic = "rapid humor lazy cabbage trend pony gloom swap movie sure actor riot";
+var mnemonic = "health dilemma fruit only easily turtle wealth final pencil card brain nose";

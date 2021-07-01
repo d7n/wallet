@@ -1,1 +1,1 @@
-var mnemonic = "blouse alley nothing dash artwork miss unaware mom item float inject claw";
+var mnemonic = "escape daring shell taxi ladder pitch dinosaur donkey chaos blame trip water";

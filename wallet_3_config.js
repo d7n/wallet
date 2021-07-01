@@ -1,1 +1,1 @@
-var mnemonic = "maze pulp joke rival orphan load ball idea confirm wool bitter solution";
+var mnemonic = "utility list coach police help coffee nothing badge category express maple carbon";

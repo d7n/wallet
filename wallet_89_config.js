@@ -1,1 +1,1 @@
-var mnemonic = "draw man monitor reveal input dragon valid night piece source benefit flush";
+var mnemonic = "embody canyon buffalo flag harbor large truth rally elbow vessel anchor lend";

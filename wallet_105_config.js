@@ -1,1 +1,1 @@
-var mnemonic = "actress bottom trend float bronze portion ordinary moon able black hungry choose";
+var mnemonic = "episode phrase long legal loyal under fox sausage gentle game tide sample";

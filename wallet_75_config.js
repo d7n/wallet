@@ -1,1 +1,1 @@
-var mnemonic = "hat page autumn famous blur critic method pear axis edge stool whisper";
+var mnemonic = "salon end slam tourist task eyebrow oppose lonely pelican entire spray noodle";

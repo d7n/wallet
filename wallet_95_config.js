@@ -1,1 +1,1 @@
-var mnemonic = "prefer inside wisdom attack erupt squeeze foam season garlic grass mobile visit";
+var mnemonic = "crowd suggest lend lizard assault pool enhance ski media congress caught decrease";

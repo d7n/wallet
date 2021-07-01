@@ -1,1 +1,1 @@
-var mnemonic = "video polar syrup voyage mom mushroom actress permit plunge draw gather horn";
+var mnemonic = "envelope enemy punch unhappy distance awful face exist yard pulse beach pave";

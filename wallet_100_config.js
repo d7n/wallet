@@ -1,1 +1,1 @@
-var mnemonic = "chef change purpose year flee clog planet grant utility scene lizard deny";
+var mnemonic = "riot private velvet convince usage drip alpha success potato arm click midnight";

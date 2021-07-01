@@ -1,1 +1,1 @@
-var mnemonic = "brisk recall diamond cradle game abuse cluster virus struggle brother erupt elevator";
+var mnemonic = "mom recycle kangaroo above panic badge expose soon key deny dog since";

@@ -1,1 +1,1 @@
-var mnemonic = "layer sport keep move depart muffin busy life prize amount bag alone";
+var mnemonic = "hamster jacket elbow second detail february eye detect tragic evil scatter casino";

@@ -1,1 +1,1 @@
-var mnemonic = "release acquire excuse absorb cinnamon stairs distance sand purchase oil cake include";
+var mnemonic = "nurse blanket around style elevator there artefact twist undo else inch federal";

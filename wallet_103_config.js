@@ -1,1 +1,1 @@
-var mnemonic = "borrow reunion list zero industry clock dignity misery sample author jaguar luxury";
+var mnemonic = "differ render sadness digital height traffic sausage moral barely because ensure envelope";

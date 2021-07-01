@@ -1,1 +1,1 @@
-var mnemonic = "joy august sign shaft wide hold zero mystery yellow street flavor army";
+var mnemonic = "shoot patrol involve fury toss fork uphold spring burden athlete resemble quit";
