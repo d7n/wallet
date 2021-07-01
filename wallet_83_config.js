@@ -1,1 +1,1 @@
-var mnemonic = "tomato extra flat battle sketch lounge body plug delay only wool follow";
+var mnemonic = "ticket elder diary enlist shrimp rhythm brass shuffle nut glad model glare";

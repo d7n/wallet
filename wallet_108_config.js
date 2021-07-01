@@ -1,1 +1,1 @@
-var mnemonic = "police alien typical harbor gesture recall dish shock organ scissors type horror";
+var mnemonic = "excuse treat climb grass ecology modify harbor genius room addict melt kiwi";

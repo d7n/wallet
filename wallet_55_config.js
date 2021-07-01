@@ -1,1 +1,1 @@
-var mnemonic = "reform image auction ripple comic legend curious budget angle guard denial essence";
+var mnemonic = "thunder strong torch limit mystery rude differ guess thing avocado dumb online";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost banner stay heavy rude illegal cave beauty business venue maid acquire";
+var mnemonic = "census exact small crunch park sweet debate win twist transfer intact crowd";

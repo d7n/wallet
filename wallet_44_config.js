@@ -1,1 +1,1 @@
-var mnemonic = "deputy duty border valley service sunny result ability first whale emotion early";
+var mnemonic = "various elephant rally recycle demand awake century forward pattern dolphin safe spice";

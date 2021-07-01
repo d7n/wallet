@@ -1,1 +1,1 @@
-var mnemonic = "picture laundry feature good crowd genre grit park science impact club shoulder";
+var mnemonic = "arrange plunge fabric solution solution test frog shiver miss scissors author engine";

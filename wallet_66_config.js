@@ -1,1 +1,1 @@
-var mnemonic = "festival border merge filter also quality liberty pig bulb know mule stone";
+var mnemonic = "drastic brick scale exist swamp enforce frame culture leader bamboo act extra";

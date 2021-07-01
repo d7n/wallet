@@ -1,1 +1,1 @@
-var mnemonic = "story lizard satisfy chapter stay solar south unfold twelve autumn pretty modify";
+var mnemonic = "anchor ten doll asset bench grant priority inflict edge deal erupt gossip";

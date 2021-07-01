@@ -1,1 +1,1 @@
-var mnemonic = "century ice portion size toe setup trumpet husband scare omit measure congress";
+var mnemonic = "next resource almost kingdom impose erode beef pond pact unusual cradle slush";

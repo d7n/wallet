@@ -1,1 +1,1 @@
-var mnemonic = "tube kiss bench say there absurd shove winner hire hat normal stone";
+var mnemonic = "swap rebuild sustain slim estate pass grow potato benefit work face network";

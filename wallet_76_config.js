@@ -1,1 +1,1 @@
-var mnemonic = "turkey congress atom sunny upper tide federal grab slice memory oxygen negative";
+var mnemonic = "scout length huge industry warrior horse rare daughter dad birth congress hour";

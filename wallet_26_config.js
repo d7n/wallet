@@ -1,1 +1,1 @@
-var mnemonic = "gauge flag salmon jealous auto profit casino direct shrimp clap roof number";
+var mnemonic = "alone normal normal fever tone obscure route abuse label tissue wolf second";

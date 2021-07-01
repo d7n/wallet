@@ -1,1 +1,1 @@
-var mnemonic = "habit text object wood flower boost crane income opinion honey recall cancel";
+var mnemonic = "alert rely very autumn man pulp attract letter orbit celery rude wagon";

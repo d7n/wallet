@@ -1,1 +1,1 @@
-var mnemonic = "fluid satoshi local wood caution evil scatter tobacco differ glass tray guess";
+var mnemonic = "arm stay insect like post riot mom clap home medal subway hip";

@@ -1,1 +1,1 @@
-var mnemonic = "middle resemble clump burden dentist casino easy speak wrong ticket plunge wink";
+var mnemonic = "topic library follow upgrade thumb broom melt rib myth charge slice post";

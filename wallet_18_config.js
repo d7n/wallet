@@ -1,1 +1,1 @@
-var mnemonic = "famous require pull nothing pave pact smart spoon ivory cargo punch cloud";
+var mnemonic = "champion blossom ankle multiply effort attitude flip satoshi lab leisure unaware owner";

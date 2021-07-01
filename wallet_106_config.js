@@ -1,1 +1,1 @@
-var mnemonic = "humor split brisk cash sister awake vacant dove doll awful mean umbrella";
+var mnemonic = "organ math hammer peasant sell evidence pave aspect give sustain about timber";

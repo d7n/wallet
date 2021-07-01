@@ -1,1 +1,1 @@
-var mnemonic = "father coast carry opinion point moment total skate final gym scare system";
+var mnemonic = "trash chaos rigid minute ginger crowd believe rather phrase raw fortune use";

@@ -1,1 +1,1 @@
-var mnemonic = "twin menu grant exile unhappy image peanut salmon portion reunion cliff upgrade";
+var mnemonic = "select dry top wedding wife mountain title bonus hotel capital online receive";

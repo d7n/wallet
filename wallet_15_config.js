@@ -1,1 +1,1 @@
-var mnemonic = "brass team raise swim they inherit rug divorce trip uncle company veteran";
+var mnemonic = "mind renew size crater because confirm lumber track champion fiction tissue team";

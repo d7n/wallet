@@ -1,1 +1,1 @@
-var mnemonic = "razor fossil banana best police tunnel obvious razor exhibit scan coyote torch";
+var mnemonic = "kick voice hood tent alone inner sting history output saddle cream silk";

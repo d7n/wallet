@@ -1,1 +1,1 @@
-var mnemonic = "plug audit hockey acoustic sponsor orange occur spot left general badge lab";
+var mnemonic = "harsh fade owner system punch bulk word tourist swift rice brave loan";

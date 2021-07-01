@@ -1,1 +1,1 @@
-var mnemonic = "hybrid rifle mobile kitchen ugly swallow three where scan onion cheap square";
+var mnemonic = "napkin announce dove try typical way robot west female off enough potato";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry topple ceiling shallow deputy venture vague gesture lyrics merit gun dutch";
+var mnemonic = "famous hotel junk patient vote sail dinosaur actor page check feature method";

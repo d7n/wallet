@@ -1,1 +1,1 @@
-var mnemonic = "win breeze able shaft hat bright venue track idea rabbit trouble response";
+var mnemonic = "acoustic now renew night plunge grab approve scorpion lunar patient claw club";

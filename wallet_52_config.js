@@ -1,1 +1,1 @@
-var mnemonic = "raise cupboard slide cereal unable science exact topple weird slush couch coffee";
+var mnemonic = "invest icon foil ring shuffle unable economy dad error garbage option leaf";

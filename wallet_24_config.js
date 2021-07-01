@@ -1,1 +1,1 @@
-var mnemonic = "patient online receive canvas color vessel love regret wine pulp romance ramp";
+var mnemonic = "much enact luggage depart island verify inmate shift rely delay life must";

@@ -1,1 +1,1 @@
-var mnemonic = "wave twist before hawk quote timber demand uniform border tribe alpha rally";
+var mnemonic = "reform large bind offer panel snow lonely invite increase dumb open cinnamon";

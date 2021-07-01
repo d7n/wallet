@@ -1,1 +1,1 @@
-var mnemonic = "resist action city civil orient brush erase view eight start menu awkward";
+var mnemonic = "claw tissue clinic envelope bounce divorce unhappy number basic moral come paper";

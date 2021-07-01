@@ -1,1 +1,1 @@
-var mnemonic = "canoe thrive spike swear draft polar rare flash meat own swear lock";
+var mnemonic = "also eternal clock matter chalk build pulse exact album forward inhale gym";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty medal inform position arrow federal gloom lesson give cement dad play";
+var mnemonic = "wool express loan tomato nose cage series horn abstract conduct ritual tackle";

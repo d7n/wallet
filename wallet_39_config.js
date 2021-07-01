@@ -1,1 +1,1 @@
-var mnemonic = "world stock spin auto mango exhaust legal motor inch frown income sick";
+var mnemonic = "danger double lunar social license fashion snake basket lucky black yellow hub";

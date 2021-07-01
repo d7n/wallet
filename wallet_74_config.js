@@ -1,1 +1,1 @@
-var mnemonic = "culture hour border shield tiny soft vibrant mobile fatigue couple minute maid";
+var mnemonic = "near setup when grace cake echo explain piece air matrix correct maid";

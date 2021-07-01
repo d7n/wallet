@@ -1,1 +1,1 @@
-var mnemonic = "decorate expose know involve unable someone perfect game glimpse crater weasel youth";
+var mnemonic = "bottom table pumpkin talent spider midnight leaf dawn decade mistake best plastic";

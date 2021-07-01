@@ -1,1 +1,1 @@
-var mnemonic = "slush pepper basket kitten dry detail million water thrive gloom refuse panic";
+var mnemonic = "fold caught gasp emerge lyrics quarter choose crisp there destroy fog snow";

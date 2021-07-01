@@ -1,1 +1,1 @@
-var mnemonic = "load range regret rhythm parrot depth student chase elegant advance drink blind";
+var mnemonic = "plug hold luggage cigar narrow dolphin neck sausage rookie loyal faculty ghost";

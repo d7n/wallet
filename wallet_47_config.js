@@ -1,1 +1,1 @@
-var mnemonic = "devote finish fluid size child monitor police sail man decline electric shadow";
+var mnemonic = "buzz pet include slam market cloud height oval skill scheme enroll define";

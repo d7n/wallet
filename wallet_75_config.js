@@ -1,1 +1,1 @@
-var mnemonic = "now noise time teach message grant life wood leopard rice open pretty";
+var mnemonic = "maid donkey usual trap immense approve river drastic original park evidence about";

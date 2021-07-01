@@ -1,1 +1,1 @@
-var mnemonic = "clown crawl indoor critic ankle thrive thrive party flush demise math east";
+var mnemonic = "buffalo castle blouse jar joy atom day rich legal abstract cry food";

@@ -1,1 +1,1 @@
-var mnemonic = "raven hire peace nerve pen save anger differ ask erode gesture blanket";
+var mnemonic = "deputy session club behave tortoise sight when spread step garment put climb";

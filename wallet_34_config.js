@@ -1,1 +1,1 @@
-var mnemonic = "aunt defy minor person ride session auto digital twist sausage census reform";
+var mnemonic = "elbow link thunder rich pill number sniff make room culture love ceiling";

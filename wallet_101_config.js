@@ -1,1 +1,1 @@
-var mnemonic = "feel blade copper position nephew special capable hire napkin before lonely payment";
+var mnemonic = "soda dial fancy excuse robot ripple two enhance agent shed giggle that";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel donkey grid genre return scheme dilemma stuff nature acquire music mother";
+var mnemonic = "super glory firm pause melody imitate vault crew nut scan drip source";

@@ -1,1 +1,1 @@
-var mnemonic = "exact tissue erode chapter give addict message tornado tongue vibrant field clap";
+var mnemonic = "seminar capable develop relax milk pair tooth future veteran excess praise stool";

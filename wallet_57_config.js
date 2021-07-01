@@ -1,1 +1,1 @@
-var mnemonic = "vocal video crash cupboard silk inspire dumb earth viable copper earth kiwi";
+var mnemonic = "idea spirit humor symbol real media stomach cup dog urge trade garbage";

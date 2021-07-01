@@ -1,1 +1,1 @@
-var mnemonic = "unfair need behind cost zebra quantum civil refuse weekend end wheel coconut";
+var mnemonic = "fault myself embrace dog bone flower candy online describe rough coil sad";

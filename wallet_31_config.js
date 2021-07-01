@@ -1,1 +1,1 @@
-var mnemonic = "car shield symbol west van smart diary document can shallow salad truly";
+var mnemonic = "small fence steak palace valley peasant logic news worry lens shoulder correct";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo rich bench other trouble merge orient phrase cat six unveil window";
+var mnemonic = "ginger sense below video volcano symptom expose door apology annual mechanic coffee";

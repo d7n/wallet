@@ -1,1 +1,1 @@
-var mnemonic = "ketchup width clap coyote catalog torch skirt clerk slim farm entire page";
+var mnemonic = "pink marine van phone guess hunt unlock laugh barrel submit shrug toe";

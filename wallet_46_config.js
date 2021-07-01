@@ -1,1 +1,1 @@
-var mnemonic = "decade person sense uncle keen clog garden romance major fetch lock valley";
+var mnemonic = "comic outer cross tree congress twist embark oven icon ancient hill hero";

@@ -1,1 +1,1 @@
-var mnemonic = "normal other march devote odor sing someone goose cactus kitten seven ordinary";
+var mnemonic = "update enroll profit stay mirror pet year diary night whip addict feel";

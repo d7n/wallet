@@ -1,1 +1,1 @@
-var mnemonic = "rule pair poverty popular copy section struggle bridge alone genius remain dirt";
+var mnemonic = "average science slush crunch impulse melt quote cupboard pretty public office scorpion";

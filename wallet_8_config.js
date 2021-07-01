@@ -1,1 +1,1 @@
-var mnemonic = "huge course people modify change nation actual actress say strike gadget print";
+var mnemonic = "other square income park fiber cereal access practice panther transfer uphold error";

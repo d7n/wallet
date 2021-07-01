@@ -1,1 +1,1 @@
-var mnemonic = "use picnic dance side panel air become liquid huge fat interest vague";
+var mnemonic = "ship around insect nest clay can unable joke wise symptom present resemble";

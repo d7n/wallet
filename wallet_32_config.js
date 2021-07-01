@@ -1,1 +1,1 @@
-var mnemonic = "tumble absent volcano dinner kite assault bachelor theme rifle foot buddy over";
+var mnemonic = "average orient dune robot must wedding during pulp transfer document seat bonus";

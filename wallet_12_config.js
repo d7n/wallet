@@ -1,1 +1,1 @@
-var mnemonic = "metal clip bullet useless alone sea soft slender alter promote business soldier";
+var mnemonic = "blast visa future diary tuition equip dad vintage spider lake route remind";

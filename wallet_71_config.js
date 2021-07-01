@@ -1,1 +1,1 @@
-var mnemonic = "coral zone bag organ debate plate blame foil easily casual life pear";
+var mnemonic = "awkward cloud slot common maze build kiwi fork what limit strike copper";

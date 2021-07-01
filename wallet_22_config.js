@@ -1,1 +1,1 @@
-var mnemonic = "shine path height dad elevator lottery fashion bacon slice exact unit bleak";
+var mnemonic = "behave awake unusual hazard arrow normal inmate spin pill panther luxury sock";

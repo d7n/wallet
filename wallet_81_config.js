@@ -1,1 +1,1 @@
-var mnemonic = "broccoli spice never usage base buddy trash clog ball dynamic egg total";
+var mnemonic = "alter foot chicken clown leopard eagle throw trouble antenna beach luggage always";

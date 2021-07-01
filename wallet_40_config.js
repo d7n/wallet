@@ -1,1 +1,1 @@
-var mnemonic = "fame lion unknown tower push antenna palm ball attract volcano olive cushion";
+var mnemonic = "detail guess engine shy hold same carry zoo raven muscle tackle fresh";

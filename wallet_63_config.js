@@ -1,1 +1,1 @@
-var mnemonic = "fluid report category despair fault gospel chair despair reason rural glimpse pumpkin";
+var mnemonic = "town silk grace foil donor creek loyal rough artwork scorpion virus wave";

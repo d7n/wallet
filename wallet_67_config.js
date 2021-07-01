@@ -1,1 +1,1 @@
-var mnemonic = "start effort sibling leader right patch embody actress universe property task luxury";
+var mnemonic = "royal brand blossom destroy dawn bottom boil inspire blood genuine green trigger";

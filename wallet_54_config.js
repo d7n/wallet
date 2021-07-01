@@ -1,1 +1,1 @@
-var mnemonic = "quiz fruit bind begin doll quarter paddle order nurse void afraid tribe";
+var mnemonic = "source caution scene option basket deputy proof drift fan huge virtual need";

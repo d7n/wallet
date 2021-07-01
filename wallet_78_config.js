@@ -1,1 +1,1 @@
-var mnemonic = "same invite spoil sudden animal virtual simple absent relief come impose spray";
+var mnemonic = "smart method float loud trap either pull surface term spider unusual clay";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid analyst game insect remove ethics syrup ketchup together top super rate";
+var mnemonic = "horror card wasp case amazing garbage uncover nuclear deliver still inmate opera";

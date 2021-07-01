@@ -1,1 +1,1 @@
-var mnemonic = "know mammal jar urge impose obey runway convince tumble rent black average";
+var mnemonic = "auto wing attitude cage powder account advice approve gain lizard vehicle bench";

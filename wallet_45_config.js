@@ -1,1 +1,1 @@
-var mnemonic = "riot retire lift patrol tenant quiz enrich squirrel rescue reduce evil scissors";
+var mnemonic = "donor frozen label razor lake polar immense welcome team female success oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "point phrase resource foil father fix spray invest faculty burger where erosion";
+var mnemonic = "reunion chronic breeze course multiply birth neglect advance visit human more enlist";

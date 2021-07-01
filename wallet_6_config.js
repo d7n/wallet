@@ -1,1 +1,1 @@
-var mnemonic = "fatigue odor woman deputy true meadow brain rule tribe verb example labor";
+var mnemonic = "surge weather lion grow define fluid almost camera pupil lucky priority remind";

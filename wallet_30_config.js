@@ -1,1 +1,1 @@
-var mnemonic = "proof shell welcome visual cloth renew fox advice kite cream feel defy";
+var mnemonic = "affair artefact lesson butter robust visual bamboo rocket matrix attend vicious unit";

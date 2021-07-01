@@ -1,1 +1,1 @@
-var mnemonic = "uncover winner trade play top nothing comfort cement better saddle inquiry thunder";
+var mnemonic = "unknown slogan surprise nominee vanish abstract base valid coffee fiber theory federal";

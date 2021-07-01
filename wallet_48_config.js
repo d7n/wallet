@@ -1,1 +1,1 @@
-var mnemonic = "harvest atom visit pluck process afford riot canal zebra option auto tobacco";
+var mnemonic = "depart that under tiny yard net current cotton pottery couch grape rent";

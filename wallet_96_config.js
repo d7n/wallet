@@ -1,1 +1,1 @@
-var mnemonic = "neutral claw still culture keen fuel foster program crunch video rail survey";
+var mnemonic = "spot begin clutch orange grid vacant elegant again click vehicle host inform";

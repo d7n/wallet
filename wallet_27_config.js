@@ -1,1 +1,1 @@
-var mnemonic = "siege ensure copy blame act echo advice either habit palm foam whip";
+var mnemonic = "result spell then ecology kite primary any mirror magic blouse chalk gloom";

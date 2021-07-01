@@ -1,1 +1,1 @@
-var mnemonic = "female latin any second woman move aware vote name galaxy evidence floor";
+var mnemonic = "solution supreme wear income vast forest hand agree afraid echo quiz catalog";

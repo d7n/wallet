@@ -1,1 +1,1 @@
-var mnemonic = "cruise group sketch ball announce member game also little wrestle blush sail";
+var mnemonic = "dry abstract allow oyster try camp spawn hedgehog decade thought lava weasel";

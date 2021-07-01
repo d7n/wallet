@@ -1,1 +1,1 @@
-var mnemonic = "able scout scare still valve celery sheriff glow pair before join control";
+var mnemonic = "muscle rather tone limit resemble dirt abandon smile brisk crystal clog decide";

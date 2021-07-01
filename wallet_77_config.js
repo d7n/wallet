@@ -1,1 +1,1 @@
-var mnemonic = "enjoy season gown glass moon figure diary meat enough bamboo brass gun";
+var mnemonic = "race praise april rack yard wave pupil tattoo east cook vessel wine";

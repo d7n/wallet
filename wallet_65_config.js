@@ -1,1 +1,1 @@
-var mnemonic = "claw divorce merge lonely once skate forget chase total glare know usage";
+var mnemonic = "lunar wrong bottom advance curious mansion exercise pledge team fantasy alter evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "wish absurd various entry business nephew bleak home someone cave tiger primary";
+var mnemonic = "wire lake speak accident deer main plunge link enable under kid talent";

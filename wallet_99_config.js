@@ -1,1 +1,1 @@
-var mnemonic = "state bomb piano act area negative stem column van copper result book";
+var mnemonic = "poverty gospel fever magnet tragic merit addict file mule album blade good";

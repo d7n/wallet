@@ -1,1 +1,1 @@
-var mnemonic = "police street just pill rigid lunch infant pill destroy family garage reward";
+var mnemonic = "pass kitchen action unit spread market dog fury audit obvious rural sign";

@@ -1,1 +1,1 @@
-var mnemonic = "label list hurt couple march thumb donkey paper false world switch tackle";
+var mnemonic = "amount shove start bulb sorry alert announce wrap round tip kiss spoil";

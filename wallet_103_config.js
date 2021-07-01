@@ -1,1 +1,1 @@
-var mnemonic = "expand target girl fatal whisper jeans assault pioneer diagram liberty blame december";
+var mnemonic = "address shadow brass glory idea profit spike apple solid state pull poet";

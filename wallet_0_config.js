@@ -1,1 +1,1 @@
-var mnemonic = "modify infant stadium join useful album genre intact silver machine off arctic";
+var mnemonic = "hen aerobic evoke goose hill canyon devote sample critic exotic april convince";
