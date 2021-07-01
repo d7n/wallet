@@ -1,1 +1,1 @@
-var mnemonic = "main usual song squeeze vault dove mansion cake case nephew sister stairs";
+var mnemonic = "whale congress city circle jaguar ordinary inspire taxi crater leave roast tower";

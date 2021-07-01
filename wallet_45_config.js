@@ -1,1 +1,1 @@
-var mnemonic = "kingdom aspect vivid hen review quantum car carbon demand goat door lesson";
+var mnemonic = "patch lens rigid birth favorite sphere breeze zebra young piano grunt illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "good story powder until domain unusual talent moon device more panic spare";
+var mnemonic = "moon way gauge moral position arrive hundred creek dinosaur choose comfort melody";

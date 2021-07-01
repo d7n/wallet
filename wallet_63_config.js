@@ -1,1 +1,1 @@
-var mnemonic = "elevator desk spawn south furnace throw aunt sense fatal this foster friend";
+var mnemonic = "viable learn this potato visit tiny federal bus shoulder firm equal isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi approve trick lawsuit shadow copy forget payment thumb kiss example fame";
+var mnemonic = "olympic lesson achieve transfer calm ribbon lend hover news embark burden subway";

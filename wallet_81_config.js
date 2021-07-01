@@ -1,1 +1,1 @@
-var mnemonic = "rug over dilemma genius neck ancient bike inner rigid issue box tent";
+var mnemonic = "also sibling trial order height liberty concert vendor ancient sponsor captain aspect";

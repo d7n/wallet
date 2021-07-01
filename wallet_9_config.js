@@ -1,1 +1,1 @@
-var mnemonic = "jealous refuse suit hover company salute wire hawk strategy spice happy person";
+var mnemonic = "nothing shed vendor weapon discover cage then cloth online useful love small";

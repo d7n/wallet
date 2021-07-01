@@ -1,1 +1,1 @@
-var mnemonic = "alarm tongue wear produce leaf inmate ladder sign marble animal model large";
+var mnemonic = "honey plate tattoo garden nation antenna account flash absorb script goddess legend";

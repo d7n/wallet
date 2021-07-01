@@ -1,1 +1,1 @@
-var mnemonic = "vendor visual chapter during quick solid rigid grab problem flock pilot credit";
+var mnemonic = "raise minimum chapter identify educate drop farm skirt match peasant sauce drift";

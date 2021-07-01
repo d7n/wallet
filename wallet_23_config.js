@@ -1,1 +1,1 @@
-var mnemonic = "olympic prize alarm mask enter apart autumn pass romance motor mobile gain";
+var mnemonic = "wall choose cushion prison wealth ginger rare repeat talk bike level humble";

@@ -1,1 +1,1 @@
-var mnemonic = "interest smart forum birth world author endorse tuition argue minor cinnamon off";
+var mnemonic = "blood crowd athlete cave gauge tent offer almost shrug sense cruise distance";

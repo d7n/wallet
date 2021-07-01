@@ -1,1 +1,1 @@
-var mnemonic = "decrease arctic deny brother steak fog half bamboo stand curtain green wife";
+var mnemonic = "depend merge brush wide rather order obvious stable proof stem silly whisper";

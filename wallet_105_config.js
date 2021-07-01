@@ -1,1 +1,1 @@
-var mnemonic = "stone caution february seminar trick cost fatigue mass view abuse sorry brave";
+var mnemonic = "chicken spin hair video athlete avocado advice more pony north chat salmon";

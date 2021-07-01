@@ -1,1 +1,1 @@
-var mnemonic = "arch mechanic excite island ramp file calm skirt shove anxiety tilt route";
+var mnemonic = "simple code awake exhibit barrel find lion team venture liar excuse soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "spice six farm degree service candy oxygen sponsor shrimp follow skate clay";
+var mnemonic = "gas bird lecture ahead actual cream host pyramid region clump task thrive";

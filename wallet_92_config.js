@@ -1,1 +1,1 @@
-var mnemonic = "that sibling travel renew walk will sound clip depart assault system black";
+var mnemonic = "useful carbon project mix purity history mix domain uniform goat modify stand";

@@ -1,1 +1,1 @@
-var mnemonic = "occur security repeat embark expire corn blast february pill huge satoshi record";
+var mnemonic = "stick depart element network monster wet farm narrow depart pelican online assault";

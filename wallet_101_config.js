@@ -1,1 +1,1 @@
-var mnemonic = "bright sample gain october message state alpha attract humor decorate unveil list";
+var mnemonic = "same eagle provide erupt pear uncle tuition evolve vendor craft blanket scrap";

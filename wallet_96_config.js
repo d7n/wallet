@@ -1,1 +1,1 @@
-var mnemonic = "forward post dry book grunt pear basket afraid thumb truly cover expect";
+var mnemonic = "deposit final summer shed accuse shift wish enjoy solve prepare amateur liberty";

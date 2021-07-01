@@ -1,1 +1,1 @@
-var mnemonic = "deposit nerve ice private deal fault draw clog attack during mutual burst";
+var mnemonic = "hover flock tank crop cheap basic click crunch clump winner own oval";

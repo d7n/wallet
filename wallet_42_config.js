@@ -1,1 +1,1 @@
-var mnemonic = "decorate fan card office undo comfort opinion light between public often glory";
+var mnemonic = "paddle chaos already fitness ring lizard creek idle funny refuse shaft anchor";

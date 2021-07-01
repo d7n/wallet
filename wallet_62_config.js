@@ -1,1 +1,1 @@
-var mnemonic = "install flight option keen exile random foam shove useless food present logic";
+var mnemonic = "ride frame hospital gym nation wall hollow brass snap shrug depth absurd";

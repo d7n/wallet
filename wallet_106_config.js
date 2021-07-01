@@ -1,1 +1,1 @@
-var mnemonic = "orchard damp venue middle salad echo gasp mosquito fancy black render alone";
+var mnemonic = "year dust current sleep response toe walk giggle magic example parade wear";

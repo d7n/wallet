@@ -1,1 +1,1 @@
-var mnemonic = "squirrel runway render pluck snake detail grunt turkey mosquito flee suit hover";
+var mnemonic = "method doll resource patch evil hover rigid nice emerge glimpse lab replace";

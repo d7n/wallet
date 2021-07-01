@@ -1,1 +1,1 @@
-var mnemonic = "trim silk defy frost nerve pledge renew ivory viable attend shed usage";
+var mnemonic = "unhappy derive tooth leader forum alone captain alcohol rate defense connect general";

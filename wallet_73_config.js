@@ -1,1 +1,1 @@
-var mnemonic = "tilt today trend private slow creek install shield pigeon enlist family twin";
+var mnemonic = "twelve decade toddler artefact train long mesh avoid toward digital card employ";

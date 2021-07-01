@@ -1,1 +1,1 @@
-var mnemonic = "theme develop become insane animal disease umbrella taxi unit bronze giggle recycle";
+var mnemonic = "claim now post ready network culture swarm acquire foil spend flush idle";

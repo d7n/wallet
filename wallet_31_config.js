@@ -1,1 +1,1 @@
-var mnemonic = "come seed brass smile debris lend learn major bone foam month draft";
+var mnemonic = "regret spoon celery fat bounce tuition album tell present genius rocket detail";

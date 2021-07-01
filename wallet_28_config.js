@@ -1,1 +1,1 @@
-var mnemonic = "father debate stomach eyebrow suspect sustain acoustic you announce drift forget label";
+var mnemonic = "decorate desk glimpse awful derive upgrade dice fly parrot praise mango small";

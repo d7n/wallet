@@ -1,1 +1,1 @@
-var mnemonic = "orbit snap accident mirror income object accuse hood buyer fame shell busy";
+var mnemonic = "holiday couple park palm emotion brush image saddle novel erase amused arena";

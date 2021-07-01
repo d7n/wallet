@@ -1,1 +1,1 @@
-var mnemonic = "race gain weasel juice island reopen train hundred level theme depend flower";
+var mnemonic = "invite fringe belt sweet machine crush insane wink novel little enact couch";

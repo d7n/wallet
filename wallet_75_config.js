@@ -1,1 +1,1 @@
-var mnemonic = "often term subject peanut push letter mountain believe pepper weird illness globe";
+var mnemonic = "food oil hockey vendor arena lawsuit core volcano blood worry dust fire";

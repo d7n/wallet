@@ -1,1 +1,1 @@
-var mnemonic = "van desk among include ignore brass tackle evolve sphere close capital coconut";
+var mnemonic = "unit faint cricket explain use tooth skin simple hunt spirit solar during";

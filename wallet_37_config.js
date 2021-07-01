@@ -1,1 +1,1 @@
-var mnemonic = "rough embark distance divert fiscal tree galaxy side absurd vanish lemon together";
+var mnemonic = "giggle regret slab exist spoil identify kitten upgrade galaxy loud trust valid";

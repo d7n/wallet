@@ -1,1 +1,1 @@
-var mnemonic = "chase nominee sugar suit forest wave meadow pulp rural measure buddy best";
+var mnemonic = "bus because soap shift resemble three post force gate indoor scare jump";

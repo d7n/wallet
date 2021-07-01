@@ -1,1 +1,1 @@
-var mnemonic = "churn begin easy treat mechanic about maid talent audit wife laundry cherry";
+var mnemonic = "present torch admit damage gap table deliver finger bridge tip nose market";

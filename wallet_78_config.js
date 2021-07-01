@@ -1,1 +1,1 @@
-var mnemonic = "quit fringe cash say novel boil transfer cereal goose fence kiwi secret";
+var mnemonic = "local improve zebra supply unfair rack pact media hat move average agree";

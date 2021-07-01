@@ -1,1 +1,1 @@
-var mnemonic = "legend monitor tourist fee tired plastic before casino bottom panic shadow more";
+var mnemonic = "town twin drama advance aim unfair team more spare degree green symptom";

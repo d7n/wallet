@@ -1,1 +1,1 @@
-var mnemonic = "soccer duck obey design glide power tonight item awful ripple source draft";
+var mnemonic = "motion wasp cluster rule goose nice fabric virus hunt danger beyond crush";

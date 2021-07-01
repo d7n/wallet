@@ -1,1 +1,1 @@
-var mnemonic = "focus home viable item vote next hurdle speed lend swift among connect";
+var mnemonic = "return oblige churn medal volcano occur guitar celery neither quantum drive fun";

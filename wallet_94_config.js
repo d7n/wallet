@@ -1,1 +1,1 @@
-var mnemonic = "deal faculty police plastic midnight bright chat hint solid clip teach vicious";
+var mnemonic = "dilemma nuclear envelope column world crack raven theory elevator spend gospel reveal";

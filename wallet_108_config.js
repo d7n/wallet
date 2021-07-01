@@ -1,1 +1,1 @@
-var mnemonic = "aspect involve laugh slice quick damage sauce flavor embody dune party culture";
+var mnemonic = "burst twist random recall call rich logic youth tiger father tool illegal";

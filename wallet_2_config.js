@@ -1,1 +1,1 @@
-var mnemonic = "riot argue fashion broom marriage will robust prison robot weasel story fly";
+var mnemonic = "stone wife alien adapt fire swear excuse dose fire rebuild enhance believe";

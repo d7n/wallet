@@ -1,1 +1,1 @@
-var mnemonic = "wrestle creek flush sad wrap recycle mandate squeeze omit purity member cluster";
+var mnemonic = "vast drama also supply utility teach below permit powder deposit uniform goddess";

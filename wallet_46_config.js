@@ -1,1 +1,1 @@
-var mnemonic = "subway ripple wisdom drive pear neither hungry fetch dizzy disorder hood door";
+var mnemonic = "isolate strike small tattoo airport circle napkin feel carpet fish fly quit";

@@ -1,1 +1,1 @@
-var mnemonic = "delay express subway fade expose unfair potato chief surge correct secret noble";
+var mnemonic = "series attitude become wrap warm month alter vehicle copper avocado claw method";

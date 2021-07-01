@@ -1,1 +1,1 @@
-var mnemonic = "possible label ahead plastic picnic ivory paper smile rough super hello brain";
+var mnemonic = "come cement drill course shoot marine member lottery script fire traffic panda";

@@ -1,1 +1,1 @@
-var mnemonic = "brief lobster spider gravity medal twice valve aware magic universe space priority";
+var mnemonic = "tiger vivid rack sample west hidden keen spider monster chicken divert strong";

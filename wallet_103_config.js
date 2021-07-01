@@ -1,1 +1,1 @@
-var mnemonic = "truth sing neglect poverty minor corn glass debris athlete stage fatigue valid";
+var mnemonic = "script crash account math force moon view merge inform unaware tortoise holiday";

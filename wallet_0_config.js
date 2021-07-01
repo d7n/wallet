@@ -1,1 +1,1 @@
-var mnemonic = "delay copy knee scheme slam renew remain spawn tired legend iron shiver";
+var mnemonic = "object fence ridge like zebra orbit choice delay bench achieve boost key";

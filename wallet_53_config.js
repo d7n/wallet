@@ -1,1 +1,1 @@
-var mnemonic = "unique siren cereal weekend panther hurdle tonight hub enlist margin puzzle theme";
+var mnemonic = "sure deputy museum move aim deal learn rather elbow knife wash stick";

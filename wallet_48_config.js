@@ -1,1 +1,1 @@
-var mnemonic = "pattern basic garment next vapor robust document evolve surge earth arrive sentence";
+var mnemonic = "powder unfair lumber pony fall proud bulk guess left sun impact flower";

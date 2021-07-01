@@ -1,1 +1,1 @@
-var mnemonic = "cause dry pioneer rice invite license urban rug expect upper move loud";
+var mnemonic = "runway tobacco poverty rookie risk menu vacant wild term lunch universe garden";

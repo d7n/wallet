@@ -1,1 +1,1 @@
-var mnemonic = "about destroy vague rookie that venture crumble grant hip drill steel define";
+var mnemonic = "crew apple egg quote depend chunk bag october window behind adapt birth";

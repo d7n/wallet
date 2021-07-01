@@ -1,1 +1,1 @@
-var mnemonic = "warfare element leader retire famous about okay grid dismiss bulk brisk awake";
+var mnemonic = "pair license large scare attend plastic borrow marble latin culture half alone";

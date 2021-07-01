@@ -1,1 +1,1 @@
-var mnemonic = "replace open throw anxiety uncle scheme medal half imitate nature say planet";
+var mnemonic = "gospel much issue undo engage grant thunder peanut fox gloom puppy ball";

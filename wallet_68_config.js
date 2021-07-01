@@ -1,1 +1,1 @@
-var mnemonic = "crumble lava wheel struggle crater bounce science little grocery path bench kitchen";
+var mnemonic = "agree explain scissors bike sun always husband upon dial casual circle pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "divide hurdle engage other drive arrive tilt whisper effort twist autumn unaware";
+var mnemonic = "sample satoshi produce junk other first beach square rose innocent finish maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp inner because hollow again talk gorilla rice script float garlic sail";
+var mnemonic = "hope melt devote hard adult merry decade upgrade curtain give warrior night";

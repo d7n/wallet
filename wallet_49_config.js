@@ -1,1 +1,1 @@
-var mnemonic = "mad horse frost trip explain collect marriage pact kingdom island approve supply";
+var mnemonic = "boring one orient neither soon left shock rare better cattle host clay";

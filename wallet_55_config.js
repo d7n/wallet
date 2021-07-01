@@ -1,1 +1,1 @@
-var mnemonic = "bulk present lawn unlock fish siege affair license case owner attend panda";
+var mnemonic = "bounce evidence skill spot ostrich sport daughter lyrics tragic net lend defy";

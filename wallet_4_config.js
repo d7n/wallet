@@ -1,1 +1,1 @@
-var mnemonic = "effort fly notice exclude bullet tongue snow skirt later dinosaur plastic smart";
+var mnemonic = "soccer grant bomb pattern deputy kangaroo must fury quantum news enter scene";

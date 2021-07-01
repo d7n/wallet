@@ -1,1 +1,1 @@
-var mnemonic = "twist crane museum minute wash clay menu scrap unknown motion solution spring";
+var mnemonic = "raccoon fluid napkin various isolate danger always brisk argue toilet live genre";

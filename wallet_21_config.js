@@ -1,1 +1,1 @@
-var mnemonic = "urban urban veteran solve smoke illegal wrist horse sentence pave unknown swear";
+var mnemonic = "banner giraffe august canal vivid swing spirit impulse tuna together doll peace";

@@ -1,1 +1,1 @@
-var mnemonic = "choice polar loan rather often zoo bulk enrich rude hospital curve coin";
+var mnemonic = "virus joy tank horse smile bike program index axis ice nature anger";

@@ -1,1 +1,1 @@
-var mnemonic = "shield leader neglect trap letter top muffin weird unique royal outside quote";
+var mnemonic = "live keen digital chuckle tube sting mosquito seven figure coin arctic wrestle";

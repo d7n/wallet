@@ -1,1 +1,1 @@
-var mnemonic = "gravity spring mixture artist stable recycle galaxy pitch claim turtle someone dream";
+var mnemonic = "dinosaur zero story hedgehog simple sorry initial soft hospital involve sing theme";

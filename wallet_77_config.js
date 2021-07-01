@@ -1,1 +1,1 @@
-var mnemonic = "merge curious crowd page replace state time grunt pepper royal render sniff";
+var mnemonic = "mother lounge purpose response raccoon height stumble where remove badge this sunny";

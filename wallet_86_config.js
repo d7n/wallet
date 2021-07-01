@@ -1,1 +1,1 @@
-var mnemonic = "planet scissors power atom next bless case demand coil return other hurdle";
+var mnemonic = "scatter round lounge person tourist addict monkey emotion coin awful aunt crouch";

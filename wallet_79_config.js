@@ -1,1 +1,1 @@
-var mnemonic = "hidden salad attitude pottery disease gas shoot ball girl rabbit allow spring";
+var mnemonic = "alone six february away sea wrong option can sunny famous ensure furnace";

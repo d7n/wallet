@@ -1,1 +1,1 @@
-var mnemonic = "parrot time often shaft relief miracle garage actual jar garden trigger absurd";
+var mnemonic = "assume fly error atom detect vivid quarter setup soul seven awake outdoor";

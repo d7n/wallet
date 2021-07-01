@@ -1,1 +1,1 @@
-var mnemonic = "what swallow private torch ahead danger envelope happy section write bronze inspire";
+var mnemonic = "era provide float lesson sugar story manage unfold repeat remind clarify toy";

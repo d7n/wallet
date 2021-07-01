@@ -1,1 +1,1 @@
-var mnemonic = "skin discover embark genuine spawn zero ozone buffalo drum fit typical loop";
+var mnemonic = "ski tissue umbrella found apology demand lottery jealous concert hospital account receive";

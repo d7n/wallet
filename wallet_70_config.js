@@ -1,1 +1,1 @@
-var mnemonic = "kick orbit dumb game either cry gadget mistake vessel burger walnut soap";
+var mnemonic = "stamp clinic voyage nephew reveal spoil coyote ritual small fluid crop stem";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber nerve margin hint crunch faith symptom woman waste melt decide wire";
+var mnemonic = "fault satisfy reform merge enroll able drip coach armed inner vapor burden";

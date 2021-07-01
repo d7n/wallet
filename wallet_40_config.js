@@ -1,1 +1,1 @@
-var mnemonic = "veteran wolf nose flock daughter source junk daughter prevent trophy six then";
+var mnemonic = "magic wheel shield genuine rose fiscal retire heart seat pull sick vacant";

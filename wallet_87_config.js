@@ -1,1 +1,1 @@
-var mnemonic = "forum element moon patrol actor flame young able pyramid runway cancel boil";
+var mnemonic = "disorder leopard lens plastic future amount imitate upgrade witness unveil barrel upper";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew flock run pulp useless ghost vapor razor uncle wrestle sand guitar";
+var mnemonic = "silly nation decorate ship gossip walnut provide miracle control notable fabric buzz";

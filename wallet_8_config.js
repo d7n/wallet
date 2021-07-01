@@ -1,1 +1,1 @@
-var mnemonic = "slim toast virtual nuclear twice other scale awful useless wage giggle system";
+var mnemonic = "novel indoor column yard issue roast battle slim crowd swamp cup fox";

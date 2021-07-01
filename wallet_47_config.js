@@ -1,1 +1,1 @@
-var mnemonic = "faith pledge unusual meat bronze please cactus man argue citizen gaze vacuum";
+var mnemonic = "author solve small undo feel humor culture sad flight kidney bronze sure";

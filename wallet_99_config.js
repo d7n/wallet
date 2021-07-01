@@ -1,1 +1,1 @@
-var mnemonic = "guilt tattoo provide manage board ranch lunar stage ethics fortune save already";
+var mnemonic = "fit icon father bubble clarify virus awesome coral budget approve voyage solid";

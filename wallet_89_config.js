@@ -1,1 +1,1 @@
-var mnemonic = "sail blanket ripple uphold oak mind matter jump exercise grant require material";
+var mnemonic = "foil flock library hope federal surprise pet bus fault write fan bargain";

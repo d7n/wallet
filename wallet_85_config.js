@@ -1,1 +1,1 @@
-var mnemonic = "forest decline sleep mother caution acid twenty cabin judge walk talent bag";
+var mnemonic = "rally engage coin ladder despair rally short pull mountain miss wish increase";

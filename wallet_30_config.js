@@ -1,1 +1,1 @@
-var mnemonic = "slender finish clown glow elegant grain broom find grant direct dismiss play";
+var mnemonic = "harbor act already still frown melt harvest kit verify dose antique silly";

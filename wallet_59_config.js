@@ -1,1 +1,1 @@
-var mnemonic = "kiss wrap ordinary clog alert unlock pizza hero note remind office desk";
+var mnemonic = "village weekend dawn dumb monitor silk gain split exercise foster cream side";

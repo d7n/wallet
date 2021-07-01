@@ -1,1 +1,1 @@
-var mnemonic = "upset fun bless paper dirt breeze clever move provide mad dish demand";
+var mnemonic = "panda curve fortune that cinnamon soccer winner play luggage verb ceiling sell";

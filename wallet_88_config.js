@@ -1,1 +1,1 @@
-var mnemonic = "uncover tool intact scrap spell team garlic dad job dash auction delay";
+var mnemonic = "catalog tourist transfer ordinary crystal fever toast evil bar garment frown hope";

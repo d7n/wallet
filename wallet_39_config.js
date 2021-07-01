@@ -1,1 +1,1 @@
-var mnemonic = "october frequent canyon exhibit tray leave year split end monitor holiday actor";
+var mnemonic = "glow invest whale logic must chase fame number apology voice reopen uncle";

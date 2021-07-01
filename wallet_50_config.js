@@ -1,1 +1,1 @@
-var mnemonic = "increase victory receive census check tool brother rebel kangaroo kit ensure throw";
+var mnemonic = "library civil egg remain cigar office borrow tomato direct random balcony crop";

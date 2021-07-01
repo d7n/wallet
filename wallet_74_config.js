@@ -1,1 +1,1 @@
-var mnemonic = "mango joke trip blame soul harbor impulse green aunt program ripple assume";
+var mnemonic = "license fence firm frost cloud steel silk below business unaware venture amateur";
