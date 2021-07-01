@@ -1,1 +1,1 @@
-var mnemonic = "between weird game explain poet kite ahead very amount mercy cereal royal";
+var mnemonic = "conduct panic cushion exhaust what nature wing obtain ramp angle cousin box";

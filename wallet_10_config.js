@@ -1,1 +1,1 @@
-var mnemonic = "amazing diagram balance raven era begin funny amazing session glove chapter clerk";
+var mnemonic = "adapt wink twenty dinosaur salad tail hammer abuse couch attract boss tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "brick stand dove defense sail only round force require derive worth swap";
+var mnemonic = "whale manual balance meat light stumble melt again mesh nature claim infant";

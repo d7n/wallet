@@ -1,1 +1,1 @@
-var mnemonic = "couch ancient business update wedding put scatter champion vivid move unaware physical";
+var mnemonic = "excuse load bless real knock arch shift apart digital ceiling danger weekend";

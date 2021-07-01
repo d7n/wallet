@@ -1,1 +1,1 @@
-var mnemonic = "garage uncover coyote security traffic arm fury glove ten urban route bubble";
+var mnemonic = "lock grit curtain certain badge creek lucky arrest climb fiscal march impulse";

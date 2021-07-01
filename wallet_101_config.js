@@ -1,1 +1,1 @@
-var mnemonic = "flush secret history scissors office ice tonight pencil love broccoli mutual decade";
+var mnemonic = "human choose inhale fury truck stove bubble ill myself bargain jewel dial";

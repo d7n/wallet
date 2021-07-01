@@ -1,1 +1,1 @@
-var mnemonic = "fitness hurdle talent stage couch record cloud dust car early image capital";
+var mnemonic = "race spirit awake dial gorilla fury embark wild idea glide cream genre";

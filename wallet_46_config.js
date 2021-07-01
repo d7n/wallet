@@ -1,1 +1,1 @@
-var mnemonic = "nut deer guitar express cry dial craft cage lens hungry favorite wing";
+var mnemonic = "miss desk provide plunge nose february equip prosper stool crazy material wrong";

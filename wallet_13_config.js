@@ -1,1 +1,1 @@
-var mnemonic = "staff middle indicate post always moral version vapor coast bunker client tent";
+var mnemonic = "clerk stadium leopard luxury resemble echo fitness legal wink old lonely voice";

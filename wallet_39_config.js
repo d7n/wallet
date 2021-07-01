@@ -1,1 +1,1 @@
-var mnemonic = "arrange response memory census reject hunt height goose this strategy there hill";
+var mnemonic = "dove menu balcony picnic come profit behave ugly giant dream capital recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "grow camera owner pig youth hedgehog casino valley harvest private work clump";
+var mnemonic = "find inspire hospital frost senior upon later blind lunch position metal fiscal";

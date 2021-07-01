@@ -1,1 +1,1 @@
-var mnemonic = "humble ripple box talent aisle panda cargo aisle knock volcano cricket grocery";
+var mnemonic = "disagree issue traffic once potato grace analyst rally hill famous super suspect";

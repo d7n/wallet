@@ -1,1 +1,1 @@
-var mnemonic = "pill ill moral kitten output gift shuffle consider maple breeze blanket universe";
+var mnemonic = "village speak explain frown rule priority away robust best until patch toy";

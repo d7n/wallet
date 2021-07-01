@@ -1,1 +1,1 @@
-var mnemonic = "box kind virtual voyage poet inquiry can inmate argue define position deer";
+var mnemonic = "vacuum art economy purchase sand sign way exhaust letter phone have either";

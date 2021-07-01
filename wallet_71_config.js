@@ -1,1 +1,1 @@
-var mnemonic = "major kingdom fiber slam sweet cancel pupil parade repair choose comic gain";
+var mnemonic = "roast unhappy galaxy analyst immune toast voyage tenant simple spend board fun";

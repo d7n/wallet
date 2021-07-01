@@ -1,1 +1,1 @@
-var mnemonic = "script asset jealous heavy wasp group nominee tumble affair urge funny ginger";
+var mnemonic = "praise exile leopard scrub tool door chair antique surge walk plunge shaft";

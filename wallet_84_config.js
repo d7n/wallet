@@ -1,1 +1,1 @@
-var mnemonic = "length gate critic earn ketchup expose say satoshi anchor include solution labor";
+var mnemonic = "detail edit guitar buzz theme regret trim betray cargo mad pony afford";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito repeat shallow that thing relief ketchup sort feed language delay bottom";
+var mnemonic = "advance cable ostrich recycle dress actual illegal fold place upgrade mutual excite";

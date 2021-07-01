@@ -1,1 +1,1 @@
-var mnemonic = "zebra host sister discover grow arctic share artwork current virus globe embody";
+var mnemonic = "author wet below afraid eight wheel accuse pen organ mixture slight insane";

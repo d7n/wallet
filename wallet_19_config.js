@@ -1,1 +1,1 @@
-var mnemonic = "climb knee very boy eagle cruise mountain arctic easily carpet flavor tomato";
+var mnemonic = "picnic nice social charge gas nose canvas volcano brush soda misery shiver";

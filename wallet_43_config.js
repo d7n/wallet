@@ -1,1 +1,1 @@
-var mnemonic = "margin miracle salmon struggle hockey enlist auction able cement fragile group agree";
+var mnemonic = "code theory grace excuse final camp decade can park situate garlic diet";

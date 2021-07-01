@@ -1,1 +1,1 @@
-var mnemonic = "scatter cigar illness ritual bounce rug wheel can wine comfort filter math";
+var mnemonic = "double gold charge again ugly spare shoe beyond imitate large brain stove";

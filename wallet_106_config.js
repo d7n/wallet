@@ -1,1 +1,1 @@
-var mnemonic = "ripple rookie series century purity maid venture science dry garment toy animal";
+var mnemonic = "blood artist small capable excess tongue fly march original student stamp friend";

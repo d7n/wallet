@@ -1,1 +1,1 @@
-var mnemonic = "stuff find cover chronic swing borrow also physical merge auction item vapor";
+var mnemonic = "mobile reject top skirt table wolf air this alone virus upgrade dress";

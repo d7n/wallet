@@ -1,1 +1,1 @@
-var mnemonic = "when damage skull age behind ignore layer option once post weekend height";
+var mnemonic = "click silly diesel soccer trust powder decide similar color liberty month announce";

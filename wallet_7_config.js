@@ -1,1 +1,1 @@
-var mnemonic = "laugh apology tackle control stay enter subject drive unit keep boring guess";
+var mnemonic = "inquiry afraid resource else ability body obtain funny move gossip position admit";

@@ -1,1 +1,1 @@
-var mnemonic = "thought mouse main victory accuse mesh oxygen dutch advice round size tongue";
+var mnemonic = "actress symptom card wrap pill recipe vital inspire sugar judge rifle primary";

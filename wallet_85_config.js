@@ -1,1 +1,1 @@
-var mnemonic = "belt detect symptom seed express annual basic survey thank buzz topple warrior";
+var mnemonic = "borrow minute fresh room when marriage surge meat penalty come pumpkin cluster";

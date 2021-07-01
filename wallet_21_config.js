@@ -1,1 +1,1 @@
-var mnemonic = "steel brother shiver flame shift can merit laugh element opinion bid tomorrow";
+var mnemonic = "labor parade wave mystery genius luxury upset interest purpose blind food report";

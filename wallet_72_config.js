@@ -1,1 +1,1 @@
-var mnemonic = "peace tenant habit meat old alert shield engine estate smart olive lamp";
+var mnemonic = "screen liberty mass destroy defense more vendor pool erupt decorate equal happy";

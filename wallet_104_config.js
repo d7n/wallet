@@ -1,1 +1,1 @@
-var mnemonic = "always old seminar color brisk boss crucial school admit genius avoid airport";
+var mnemonic = "creek strategy frozen city they gadget head pumpkin grab sibling erase erase";

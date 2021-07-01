@@ -1,1 +1,1 @@
-var mnemonic = "random sudden mind pool father canvas advice side arrow spell van casino";
+var mnemonic = "vapor input arrange noodle before learn heavy lift open confirm rack plug";

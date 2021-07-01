@@ -1,1 +1,1 @@
-var mnemonic = "february project corn feel assist purity cool crash fatal question usual catch";
+var mnemonic = "thumb ice venue case attitude wash hello hungry weird during sword half";

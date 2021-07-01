@@ -1,1 +1,1 @@
-var mnemonic = "pencil fruit father pistol arrest demise liar razor tree draft rack calm";
+var mnemonic = "time toe ring onion power general upgrade orchard flower shallow gasp save";

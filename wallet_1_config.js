@@ -1,1 +1,1 @@
-var mnemonic = "movie pigeon begin pulse young scan cannon aim gather betray fix regret";
+var mnemonic = "casual clay welcome cargo crew sorry laundry coil ability budget then train";

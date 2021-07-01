@@ -1,1 +1,1 @@
-var mnemonic = "chest false badge drastic strong hotel cereal candy bomb crunch payment wisdom";
+var mnemonic = "expect chapter hold ostrich engine empower under upon extra enter fade reward";

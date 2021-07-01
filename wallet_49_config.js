@@ -1,1 +1,1 @@
-var mnemonic = "code phrase ugly gas brass raise entire scatter crisp frog casino siren";
+var mnemonic = "issue guard false wreck duty pistol reason erode choice arrive come decade";

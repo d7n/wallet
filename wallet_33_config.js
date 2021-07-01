@@ -1,1 +1,1 @@
-var mnemonic = "pause deal pet exercise spawn asthma shrug hole kid response shell copy";
+var mnemonic = "old target meadow rebuild bunker south above whip mule modify kiwi defy";

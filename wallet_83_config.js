@@ -1,1 +1,1 @@
-var mnemonic = "tank follow crucial harvest then vast curtain indicate sudden flash front monkey";
+var mnemonic = "crater airport dry decorate kingdom tail vacuum phone paper strike birth sister";

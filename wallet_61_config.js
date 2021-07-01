@@ -1,1 +1,1 @@
-var mnemonic = "better kid jazz write genre cause struggle air again beef race health";
+var mnemonic = "truck room frog judge short faculty magnet bottom sausage era humble nothing";

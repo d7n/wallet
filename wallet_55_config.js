@@ -1,1 +1,1 @@
-var mnemonic = "morning smoke connect loop nerve saddle buddy extra trip work rack crush";
+var mnemonic = "embark march gun analyst kidney view science name scale sibling share mosquito";

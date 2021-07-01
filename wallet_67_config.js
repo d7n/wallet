@@ -1,1 +1,1 @@
-var mnemonic = "hello finish debris act ski super media village cloud bracket husband cube";
+var mnemonic = "govern fringe distance emerge render rather april myth faculty security rule oval";

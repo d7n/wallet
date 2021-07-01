@@ -1,1 +1,1 @@
-var mnemonic = "change elevator marriage brown rifle track high roof admit foot brush club";
+var mnemonic = "potato hunt giraffe clarify spell they rabbit decide current exit firm category";

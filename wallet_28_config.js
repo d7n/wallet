@@ -1,1 +1,1 @@
-var mnemonic = "scrub flame false thank rescue normal soul tortoise uncle valley leopard trigger";
+var mnemonic = "clap rhythm power decade lazy twice trip salt sword among unfold room";

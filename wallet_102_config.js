@@ -1,1 +1,1 @@
-var mnemonic = "novel proud cherry harvest aware patch surge diet fan marine magic position";
+var mnemonic = "course region arrange fade coast cook glove chef combine tribe shuffle long";

@@ -1,1 +1,1 @@
-var mnemonic = "join blast theory degree return record blouse extend help employ state thrive";
+var mnemonic = "gasp reward hybrid mobile valley knife nature giant room yellow entire minimum";

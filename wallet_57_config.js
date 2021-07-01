@@ -1,1 +1,1 @@
-var mnemonic = "reveal hurt enact surround summer deposit ecology can method vessel siren remember";
+var mnemonic = "book video insect toddler evil ghost jar recycle else address brass stone";

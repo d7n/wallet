@@ -1,1 +1,1 @@
-var mnemonic = "avocado report finger obvious manual actor love monkey acid twin hurt keep";
+var mnemonic = "salmon sun chicken note glare guitar idle provide exclude thing spike idea";

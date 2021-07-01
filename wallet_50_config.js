@@ -1,1 +1,1 @@
-var mnemonic = "relax tell chapter budget poet auto coyote melody point velvet purity valley";
+var mnemonic = "truck tonight wrong kitten enough bomb shiver final void allow coconut ancient";

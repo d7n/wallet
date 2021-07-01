@@ -1,1 +1,1 @@
-var mnemonic = "ball pen assume hole antique brief iron news motion oxygen dumb story";
+var mnemonic = "dismiss van equal cotton occur float image great trip region guess stage";

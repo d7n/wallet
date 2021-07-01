@@ -1,1 +1,1 @@
-var mnemonic = "antique smart smoke illness only setup purity observe wheel gauge frog adult";
+var mnemonic = "october chalk legal mixture wreck fee social fat hold obtain drama matrix";

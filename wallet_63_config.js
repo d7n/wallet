@@ -1,1 +1,1 @@
-var mnemonic = "cactus fiction tower produce into vintage chapter polar animal essence time raven";
+var mnemonic = "pilot venue benefit motion mango blue system because type planet still image";

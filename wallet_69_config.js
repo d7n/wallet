@@ -1,1 +1,1 @@
-var mnemonic = "van little era ready toast refuse same gospel blade search erosion carry";
+var mnemonic = "panel liberty winter april cricket hard tube grocery sock denial cheese autumn";

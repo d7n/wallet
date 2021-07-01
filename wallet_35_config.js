@@ -1,1 +1,1 @@
-var mnemonic = "slow seven decrease ride trim fence entry drip soup galaxy castle prefer";
+var mnemonic = "marine buffalo pencil turtle soda equal kind long fork warm nominee void";

@@ -1,1 +1,1 @@
-var mnemonic = "joy civil danger lounge waste inherit medal february month quality chief process";
+var mnemonic = "empower gossip sudden tunnel final action legal armor enable destroy unfair wide";

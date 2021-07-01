@@ -1,1 +1,1 @@
-var mnemonic = "over violin fix seminar forum fluid wrap unaware kingdom ketchup trim deer";
+var mnemonic = "air chalk vapor mandate dice outer such galaxy seven ordinary tourist velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "prison bitter resist balance galaxy walnut annual predict celery view business vehicle";
+var mnemonic = "survey ceiling ignore include purpose budget slush into slogan cannon series grant";

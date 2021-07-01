@@ -1,1 +1,1 @@
-var mnemonic = "exhaust ketchup human rescue pulp echo zone spring mammal uncover excite walnut";
+var mnemonic = "tongue below pave start eyebrow tonight roof object mother help dog mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "addict direct mean region nation lounge face response grow captain tooth local";
+var mnemonic = "oval slim erupt dirt blood flavor gallery cram measure mixture addict seat";

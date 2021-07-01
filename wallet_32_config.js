@@ -1,1 +1,1 @@
-var mnemonic = "wave piano inquiry zebra robust rescue body antenna blame network radar damage";
+var mnemonic = "tunnel river fossil female slogan breeze dash breeze opera witness good market";

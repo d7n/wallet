@@ -1,1 +1,1 @@
-var mnemonic = "ripple retreat code century best duty unlock wink purchase kitchen romance split";
+var mnemonic = "buzz keep concert six element final theory pride season polar fancy stuff";

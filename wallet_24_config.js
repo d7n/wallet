@@ -1,1 +1,1 @@
-var mnemonic = "need weather wise limb buffalo salute exhaust vast globe science body announce";
+var mnemonic = "rescue asset rib vicious mule raccoon nuclear entry inside bring license limit";

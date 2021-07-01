@@ -1,1 +1,1 @@
-var mnemonic = "club catch captain square reason mesh oyster seek spring abandon payment skirt";
+var mnemonic = "modify tag venue sight pony snow damage raven potato plug sword stairs";

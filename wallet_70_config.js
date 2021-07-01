@@ -1,1 +1,1 @@
-var mnemonic = "despair left trend spoon elevator century treat afford angle reunion device filter";
+var mnemonic = "sunset melody region true science toy youth cable purse romance cradle injury";

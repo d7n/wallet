@@ -1,1 +1,1 @@
-var mnemonic = "recycle science evolve shell hurry guard list return describe cargo calm future";
+var mnemonic = "say remind element boring inside depth there depth suit cinnamon phone soul";

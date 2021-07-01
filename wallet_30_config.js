@@ -1,1 +1,1 @@
-var mnemonic = "knock helmet stairs century hair conduct gorilla toward goose trick echo garbage";
+var mnemonic = "car wet virus enlist wonder since soccer essay artist relax prepare honey";

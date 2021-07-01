@@ -1,1 +1,1 @@
-var mnemonic = "idea ahead expire tackle spread genre disease cherry journey surprise silver post";
+var mnemonic = "giraffe rebuild member age picture gossip follow talk bright news antenna ramp";

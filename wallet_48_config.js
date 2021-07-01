@@ -1,1 +1,1 @@
-var mnemonic = "help belt tail universe eye announce keep crucial stomach immense diary country";
+var mnemonic = "dragon hard vapor radio keen dragon auction silent lawsuit vast attitude raw";

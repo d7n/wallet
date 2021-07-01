@@ -1,1 +1,1 @@
-var mnemonic = "know fiber topic engine elbow discover fashion base person surface pear rice";
+var mnemonic = "festival sentence giant vacuum smooth glad feature warrior win provide story degree";

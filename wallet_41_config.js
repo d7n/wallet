@@ -1,1 +1,1 @@
-var mnemonic = "risk gadget festival beef steak tag assault resource life add grunt naive";
+var mnemonic = "style stuff soul hope island club scrub husband seek possible wood match";

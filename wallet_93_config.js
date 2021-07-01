@@ -1,1 +1,1 @@
-var mnemonic = "bulk false duty dragon annual assist bachelor harsh oppose grass snake rotate";
+var mnemonic = "come team clarify horse stone exercise curtain repair impact increase clever device";

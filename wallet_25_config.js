@@ -1,1 +1,1 @@
-var mnemonic = "ability habit pelican royal exit axis manage fence tilt mom shoot glare";
+var mnemonic = "loud acoustic boy volcano taste siege tomorrow reward genius decorate impact travel";

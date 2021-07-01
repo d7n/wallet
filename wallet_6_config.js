@@ -1,1 +1,1 @@
-var mnemonic = "length return board armor grit earth actual embrace cause van expand guilt";
+var mnemonic = "toy major flower jaguar charge stamp picture teach prevent drink asthma office";

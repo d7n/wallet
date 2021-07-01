@@ -1,1 +1,1 @@
-var mnemonic = "vicious canvas tuition aware current caution drama elder grow biology image angry";
+var mnemonic = "fragile spike south tooth run cluster reject recall table chair scene bullet";

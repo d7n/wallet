@@ -1,1 +1,1 @@
-var mnemonic = "finger correct stage planet jealous angry bitter twenty source regret endorse actual";
+var mnemonic = "enrich aspect birth goat cruel smart caught reduce tree chuckle flip patch";

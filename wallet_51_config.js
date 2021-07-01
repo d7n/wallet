@@ -1,1 +1,1 @@
-var mnemonic = "race exact foot primary wife laugh aunt assault wisdom mammal pond boss";
+var mnemonic = "olive donate task worth dust patient dice gesture cluster accident alone bring";

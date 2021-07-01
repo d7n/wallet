@@ -1,1 +1,1 @@
-var mnemonic = "adjust risk better mosquito smile despair edit reveal race tower light term";
+var mnemonic = "pen fence own dismiss olive rib monkey hood sustain hold gain muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "educate misery blur join legal maximum hammer giraffe insect cousin stable ladder";
+var mnemonic = "emotion glass song agree explain toast veteran surge vital door stay gun";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset jacket shop physical tail artwork popular junk quick enter net nerve";
+var mnemonic = "toss foam raccoon enjoy hockey ice math extend choose drop chaos farm";

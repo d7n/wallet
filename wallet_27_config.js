@@ -1,1 +1,1 @@
-var mnemonic = "mouse vapor pudding detail pencil ripple nation twice pigeon gas drink volume";
+var mnemonic = "company speed snake craft special afraid over chapter open chuckle asthma tip";

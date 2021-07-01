@@ -1,1 +1,1 @@
-var mnemonic = "student rice supreme like sphere tone pulse suspect sight wedding barely differ";
+var mnemonic = "uncover clay woman prison junk fall evolve jewel strike virtual pottery doctor";

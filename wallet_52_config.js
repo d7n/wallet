@@ -1,1 +1,1 @@
-var mnemonic = "lizard goddess mechanic twin asset gate air popular into result liar scene";
+var mnemonic = "cake boss infant food profit garden toe simple negative bar little ship";

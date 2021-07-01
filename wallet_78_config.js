@@ -1,1 +1,1 @@
-var mnemonic = "leopard air next electric tortoise width surface hobby bulk govern fly ginger";
+var mnemonic = "aim list candy share license work walnut primary nice crazy meadow safe";

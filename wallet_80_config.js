@@ -1,1 +1,1 @@
-var mnemonic = "squeeze route actress imitate check trap behave wheat crystal liar bridge grunt";
+var mnemonic = "diet mass arrest advice predict van vintage display quantum link desk pioneer";

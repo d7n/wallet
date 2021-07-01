@@ -1,1 +1,1 @@
-var mnemonic = "congress whip slim during armor panther butter lens shadow bean essay hundred";
+var mnemonic = "toward brand side total fringe figure park city dinosaur fresh warm verb";

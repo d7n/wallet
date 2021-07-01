@@ -1,1 +1,1 @@
-var mnemonic = "hub build old sock peanut kid vicious inquiry vocal scorpion exit elder";
+var mnemonic = "frog host table season there humble detect cup camera surge catalog craft";

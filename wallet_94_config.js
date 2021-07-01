@@ -1,1 +1,1 @@
-var mnemonic = "little security unknown pluck smile price cancel language piano between relax core";
+var mnemonic = "alarm cabbage lion swim umbrella spider typical donkey laugh find service witness";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy case spot extra credit nephew domain apology visual motion name atom";
+var mnemonic = "sun print process physical lens comfort capital crazy hollow uniform punch parrot";

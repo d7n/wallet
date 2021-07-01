@@ -1,1 +1,1 @@
-var mnemonic = "surface human negative asthma fiction area ready soldier over swear dream huge";
+var mnemonic = "access modify student tobacco regular unique brief six heavy arch view mushroom";

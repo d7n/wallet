@@ -1,1 +1,1 @@
-var mnemonic = "trust night throw brick fork invite surprise warrior aerobic gift sauce desk";
+var mnemonic = "horror nominee smoke tackle reason material chair earth coast connect awful quote";
