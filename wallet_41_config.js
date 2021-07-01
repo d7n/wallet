@@ -1,1 +1,1 @@
-var mnemonic = "have fish stadium kingdom suit affair brave poet hill stuff olympic aware";
+var mnemonic = "anchor timber stable outdoor twice crystal stomach length knock enact walnut renew";

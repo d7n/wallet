@@ -1,1 +1,1 @@
-var mnemonic = "excess weird labor napkin element script wise proud inject pyramid strike erosion";
+var mnemonic = "cradle return affair air valve claim guess way shoot unit true hollow";

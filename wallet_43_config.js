@@ -1,1 +1,1 @@
-var mnemonic = "patient super spread paddle indoor friend arena trend armed either bind aerobic";
+var mnemonic = "grid paddle pudding scrub prepare doctor swap pact mandate mimic parade dinner";

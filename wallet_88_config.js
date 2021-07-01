@@ -1,1 +1,1 @@
-var mnemonic = "system strong refuse aim mixture female clock mule clutch trap card below";
+var mnemonic = "canvas toddler vintage prepare mad film creek never fall system pupil awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain agent slot chalk special ticket weapon swear torch typical sign board";
+var mnemonic = "dismiss chair bless pilot just pupil face hockey caught glove leisure will";

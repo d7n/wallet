@@ -1,1 +1,1 @@
-var mnemonic = "whale cook need flag virus theory raw basket where resist dune solve";
+var mnemonic = "fluid use word truck salt bomb secret trophy cushion desk trumpet half";

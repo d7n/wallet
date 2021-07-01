@@ -1,1 +1,1 @@
-var mnemonic = "elbow whip prize wedding off feed club issue prevent marine balcony scatter";
+var mnemonic = "tomato buyer easily skull come ceiling bulk ranch photo broken tongue promote";

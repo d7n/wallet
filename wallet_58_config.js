@@ -1,1 +1,1 @@
-var mnemonic = "tissue file capable proof soul arctic patient mosquito melody oxygen obscure inspire";
+var mnemonic = "reduce weapon pride bunker muscle small happy boss destroy caught matter left";

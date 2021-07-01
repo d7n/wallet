@@ -1,1 +1,1 @@
-var mnemonic = "axis rice caught stand lemon title reopen flower forum gadget unlock decrease";
+var mnemonic = "check gap age spoon craft rack fork idea coffee language lumber riot";

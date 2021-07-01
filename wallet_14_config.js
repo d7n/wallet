@@ -1,1 +1,1 @@
-var mnemonic = "asset ritual prison convince wing acid solid thing bunker early shock inside";
+var mnemonic = "behind apart high inner lyrics purpose noise bundle noble top disagree snack";

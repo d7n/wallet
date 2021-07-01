@@ -1,1 +1,1 @@
-var mnemonic = "ritual midnight rely load wing license absent ensure swim emerge noble reduce";
+var mnemonic = "slide fat fringe execute already hurt antenna gun bachelor artwork churn wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle taxi amazing swamp season melody junk word crater usage maid stamp";
+var mnemonic = "later satoshi canoe behave novel popular burger animal private boil bright walnut";

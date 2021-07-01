@@ -1,1 +1,1 @@
-var mnemonic = "balance news erode curious paddle smoke defense rule balance bullet planet pelican";
+var mnemonic = "advice torch clarify until brass screen modify oppose custom penalty giraffe fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha card dinosaur agree toilet village picnic skull enroll raw million envelope";
+var mnemonic = "acid what series frown left inside civil mimic mistake shrug speak diamond";

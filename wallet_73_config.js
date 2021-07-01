@@ -1,1 +1,1 @@
-var mnemonic = "whale equal pulp gate trim salt valid prosper beyond sphere lunch erode";
+var mnemonic = "athlete uphold merit vacuum harbor fame nurse cancel hard brain glide pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "assault fitness patient initial leave cement toss still term circle then crucial";
+var mnemonic = "planet educate profit donor style race bulk satoshi list social hospital saddle";

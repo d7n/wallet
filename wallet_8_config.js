@@ -1,1 +1,1 @@
-var mnemonic = "blossom trash play wisdom strike faint object client salon escape flock stamp";
+var mnemonic = "asthma lottery soccer piano divorce unknown occur frost tenant welcome busy vibrant";

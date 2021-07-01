@@ -1,1 +1,1 @@
-var mnemonic = "fever proof rebuild tomorrow lens vital hamster excuse lottery burst miracle emotion";
+var mnemonic = "anxiety limb razor shaft apart digital peace warrior sleep army hood donate";

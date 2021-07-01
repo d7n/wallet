@@ -1,1 +1,1 @@
-var mnemonic = "increase tortoise odor sick sight pizza typical gentle million frog giraffe mobile";
+var mnemonic = "immune casino tissue recipe rude face upset ensure solve innocent chief museum";

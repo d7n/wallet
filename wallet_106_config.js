@@ -1,1 +1,1 @@
-var mnemonic = "vapor message crack slender burst success frog jaguar grape nerve file bamboo";
+var mnemonic = "raven sunset license fog lounge glue wet silver pool two chapter rabbit";

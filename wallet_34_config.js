@@ -1,1 +1,1 @@
-var mnemonic = "garden maximum ski bullet bone lounge churn canal curtain soon twelve crop";
+var mnemonic = "utility eagle unit retreat inject lazy burger valid observe disagree rubber flee";

@@ -1,1 +1,1 @@
-var mnemonic = "myself naive wine bronze raven lion obvious electric travel this wolf space";
+var mnemonic = "group hurt iron real cherry nasty crystal nominee wide upgrade crumble receive";

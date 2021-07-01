@@ -1,1 +1,1 @@
-var mnemonic = "convince east relief exile nurse door tumble yard same faculty melody thunder";
+var mnemonic = "kite skate service educate over frame bubble repair damage aunt bracket pool";

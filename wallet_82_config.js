@@ -1,1 +1,1 @@
-var mnemonic = "drive mouse pig derive pear happy helmet appear wrist truly enter stock";
+var mnemonic = "potato wine layer crash egg vague pulse pave elegant usual carbon ability";

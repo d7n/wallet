@@ -1,1 +1,1 @@
-var mnemonic = "sound warm crash uniform amateur paper flag attend hire during hint flat";
+var mnemonic = "will exercise order thank deliver palace aerobic wing ethics faith shift crawl";

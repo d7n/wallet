@@ -1,1 +1,1 @@
-var mnemonic = "distance slush august better aim loud keen tuna copy future circle mobile";
+var mnemonic = "impulse resist lens snap awake day demise drink inmate stuff genre path";

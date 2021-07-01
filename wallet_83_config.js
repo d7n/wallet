@@ -1,1 +1,1 @@
-var mnemonic = "smooth off camera exile parent wisdom dune else solve budget claw ivory";
+var mnemonic = "canyon naive clip art country goat breeze purity recycle chapter foil base";

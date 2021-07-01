@@ -1,1 +1,1 @@
-var mnemonic = "evolve term adult confirm jelly retreat vote barely shell decrease illness wish";
+var mnemonic = "barely present curtain trigger antenna forum reveal genius bind train prize rich";

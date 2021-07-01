@@ -1,1 +1,1 @@
-var mnemonic = "lunar child blossom thrive derive palace today switch ready lunar plunge outside";
+var mnemonic = "useless debris patient wreck bacon vessel advance isolate mountain space couple forest";

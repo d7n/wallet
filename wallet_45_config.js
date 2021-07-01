@@ -1,1 +1,1 @@
-var mnemonic = "above palm mansion system witness glue human patient parade write menu able";
+var mnemonic = "foster toe drive bubble main assume drama festival confirm pool hill ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige ostrich result fashion people rely tunnel ordinary alone kiss sound uncle";
+var mnemonic = "assault another exact achieve sting winter flavor make edge long favorite coconut";

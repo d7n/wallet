@@ -1,1 +1,1 @@
-var mnemonic = "beef wrap jealous doll beach valid comfort giraffe sentence chimney urban prosper";
+var mnemonic = "slow tree wealth easily diagram dial affair dose oak audit boat mother";

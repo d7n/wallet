@@ -1,1 +1,1 @@
-var mnemonic = "crush farm economy summer lounge right tower immune brush gaze gift name";
+var mnemonic = "edit husband spirit hurt lesson fan top allow thrive another tone minimum";

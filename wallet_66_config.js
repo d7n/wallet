@@ -1,1 +1,1 @@
-var mnemonic = "razor any pear ordinary try update above main cool adapt rude behind";
+var mnemonic = "omit grunt calm wheat faith second pool unlock cement credit spoon west";

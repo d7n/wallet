@@ -1,1 +1,1 @@
-var mnemonic = "barrel huge guilt onion hold drift disorder hand key exercise promote affair";
+var mnemonic = "market hold express grab elder panda cereal magic envelope source exist cliff";

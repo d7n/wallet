@@ -1,1 +1,1 @@
-var mnemonic = "silent broken woman project panel endless chunk require awake ten rose notable";
+var mnemonic = "party element garlic pony aware citizen wheel moral net truck drive chair";

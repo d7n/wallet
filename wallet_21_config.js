@@ -1,1 +1,1 @@
-var mnemonic = "toward trend melt fiber accident scrub brother surge ski frog surround achieve";
+var mnemonic = "ugly always wrap test abuse glue demise maple alert junior ecology entry";

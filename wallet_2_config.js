@@ -1,1 +1,1 @@
-var mnemonic = "pool they enter diet nephew aspect impulse screen usual dragon talent cinnamon";
+var mnemonic = "salad memory potato wink swing merge pill neutral power describe below survey";

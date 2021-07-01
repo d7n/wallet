@@ -1,1 +1,1 @@
-var mnemonic = "success spray bunker practice clutch talent design vacuum peace garment evil element";
+var mnemonic = "frost verify produce science twice tide poem boring silver turn jaguar age";

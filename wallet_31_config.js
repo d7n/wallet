@@ -1,1 +1,1 @@
-var mnemonic = "panic census auction guess orient must march fat humble umbrella purse random";
+var mnemonic = "across cliff off hello amount chaos blade bid october unit debris pumpkin";

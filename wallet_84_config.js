@@ -1,1 +1,1 @@
-var mnemonic = "spend stereo attitude clown ready bleak guitar space bar code concert pole";
+var mnemonic = "system ancient chest argue verify fortune gauge swear voice okay sea finish";

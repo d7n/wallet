@@ -1,1 +1,1 @@
-var mnemonic = "answer soldier dynamic december voice column conduct churn diet credit make vessel";
+var mnemonic = "fade panda stomach yellow valid artefact foam lonely hand enter canal fury";

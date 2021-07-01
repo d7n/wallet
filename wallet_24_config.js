@@ -1,1 +1,1 @@
-var mnemonic = "evoke aspect squeeze mammal happy letter winter hole elegant bubble wage salmon";
+var mnemonic = "stem elevator confirm economy uncover sword sport typical brown share vacuum match";

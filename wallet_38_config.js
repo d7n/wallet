@@ -1,1 +1,1 @@
-var mnemonic = "token raccoon lounge rich record mom hidden radio retire lock universe squirrel";
+var mnemonic = "illness inflict word crime thumb casual sunny suggest soup equal party equip";

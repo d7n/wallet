@@ -1,1 +1,1 @@
-var mnemonic = "answer tone brick offer course violin abstract uphold prison deal banana will";
+var mnemonic = "onion shadow fatigue script island eager invest purchase trip exist bright urge";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla ankle horse talk ghost thumb ethics pill ladder vital physical such";
+var mnemonic = "ghost perfect rail worry coin anxiety require modify unusual rally merit error";

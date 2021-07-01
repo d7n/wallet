@@ -1,1 +1,1 @@
-var mnemonic = "digital baby awful super mobile senior want duty jewel melody size dune";
+var mnemonic = "found soldier announce crouch boost author raw purse unable outer pupil nation";

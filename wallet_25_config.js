@@ -1,1 +1,1 @@
-var mnemonic = "hover thing elevator already game luxury tide slender document spell dune impulse";
+var mnemonic = "skirt bulk fine boring path fade remember decade antenna name chuckle barrel";

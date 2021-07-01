@@ -1,1 +1,1 @@
-var mnemonic = "purity camera boat monster armor flee treat abstract cloud baby shoot lecture";
+var mnemonic = "estate seat feel ecology rather expire ticket never royal twelve elevator monkey";

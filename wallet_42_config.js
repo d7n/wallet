@@ -1,1 +1,1 @@
-var mnemonic = "bundle glue minimum catalog few crisp subject gentle typical naive person demand";
+var mnemonic = "rose ten elephant bracket pepper diesel absurd liberty cable fatal three foam";

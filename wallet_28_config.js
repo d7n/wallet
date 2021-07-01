@@ -1,1 +1,1 @@
-var mnemonic = "path road crowd action gospel aim useful picture duck pear swallow awake";
+var mnemonic = "romance glad absorb ripple whisper attack minor meadow rich tent album planet";

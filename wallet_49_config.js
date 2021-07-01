@@ -1,1 +1,1 @@
-var mnemonic = "stumble manage view empty song labor frost spatial total region sign ranch";
+var mnemonic = "equip sniff machine drift season winter small dose replace weather air bar";

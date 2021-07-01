@@ -1,1 +1,1 @@
-var mnemonic = "view wink ethics camera save fall century payment razor sausage beach vicious";
+var mnemonic = "celery beauty usage orient cause course tide draw case brown great acid";

@@ -1,1 +1,1 @@
-var mnemonic = "possible snap laundry eternal wash jungle guitar rice magic behave rail vibrant";
+var mnemonic = "mushroom rule obtain choice traffic small amateur group dinosaur present breeze cinnamon";

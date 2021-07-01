@@ -1,1 +1,1 @@
-var mnemonic = "whip language scare claim garage violin tumble frozen advance gate place bone";
+var mnemonic = "dwarf caught leopard reduce finger parade lumber wrap artefact tackle media opinion";

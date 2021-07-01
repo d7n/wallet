@@ -1,1 +1,1 @@
-var mnemonic = "water window oak now diet enough rally edit main tilt close grass";
+var mnemonic = "total wrestle often arch grow appear distance toast mesh rocket sad bridge";

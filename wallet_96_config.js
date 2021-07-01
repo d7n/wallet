@@ -1,1 +1,1 @@
-var mnemonic = "mammal two liquid planet board viable today want badge parent stock wolf";
+var mnemonic = "scissors benefit foil globe brand urban they outer stamp good episode slender";

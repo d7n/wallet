@@ -1,1 +1,1 @@
-var mnemonic = "host electric design undo rookie measure silent waste conduct universe system lemon";
+var mnemonic = "grocery host youth upper guitar drink amused exist turkey ordinary diet moon";

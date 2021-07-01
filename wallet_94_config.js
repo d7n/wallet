@@ -1,1 +1,1 @@
-var mnemonic = "aisle slow swallow throw rib guard once slab craft cigar join chalk";
+var mnemonic = "beyond disagree wait fashion example impact adjust rural tape drop awesome spy";

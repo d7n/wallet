@@ -1,1 +1,1 @@
-var mnemonic = "swallow cover idle trumpet differ shuffle waste better tower maximum hurt butter";
+var mnemonic = "gather arrest captain auto sell street bag teach seek certain sell wheat";

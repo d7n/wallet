@@ -1,1 +1,1 @@
-var mnemonic = "grocery noble clown learn social front sword connect coil betray glance produce";
+var mnemonic = "satoshi six appear milk analyst dignity flavor world type fiber theory pupil";

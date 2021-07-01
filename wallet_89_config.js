@@ -1,1 +1,1 @@
-var mnemonic = "number goddess medal donkey again spare erase wreck myself attack rose dress";
+var mnemonic = "lift auto version shell enough unaware code summer main vicious leader program";

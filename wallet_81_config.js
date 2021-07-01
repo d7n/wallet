@@ -1,1 +1,1 @@
-var mnemonic = "practice observe noble magic bulb crazy seat unlock alarm festival lucky catch";
+var mnemonic = "faith express build bachelor caution fury spatial approve rhythm album fancy pass";

@@ -1,1 +1,1 @@
-var mnemonic = "budget inflict switch fly neglect copy enough pencil quarter same surprise pet";
+var mnemonic = "trouble all approve detail immense patient indicate next leaf fat dolphin eight";

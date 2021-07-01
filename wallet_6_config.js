@@ -1,1 +1,1 @@
-var mnemonic = "culture grab hunt seven cycle panther voice say student fine wagon repeat";
+var mnemonic = "swift focus decline tool script mule grass mobile special valley voice ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "garment find ski milk steak truth damp snow earth neither duty force";
+var mnemonic = "silver consider deliver wide connect attend hedgehog neglect theory attend first sorry";

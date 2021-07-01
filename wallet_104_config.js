@@ -1,1 +1,1 @@
-var mnemonic = "wide surge cruel pass pill sell beach spy coffee tank type fault";
+var mnemonic = "pottery enrich boil sting captain heart this quality captain donate picture erode";

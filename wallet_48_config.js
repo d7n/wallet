@@ -1,1 +1,1 @@
-var mnemonic = "fog arena voice nominee sure blush age wave father clay barely brush";
+var mnemonic = "vital message sword moment wall slogan jazz vendor absorb quick fox dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce east prepare device tide fix enjoy green humble twin hover client";
+var mnemonic = "army gentle into acquire clump peace must artist tone actual toast disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "announce antenna destroy risk curtain riot beach flip medal kick course solid";
+var mnemonic = "knee height tribe sugar quiz narrow innocent reason scout surface enough erase";

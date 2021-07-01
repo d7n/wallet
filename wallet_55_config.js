@@ -1,1 +1,1 @@
-var mnemonic = "hockey omit garment town address despair peasant vast elevator stuff swear nuclear";
+var mnemonic = "pilot pave organ asset photo valid end camera fiber loyal tornado weird";

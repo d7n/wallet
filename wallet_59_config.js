@@ -1,1 +1,1 @@
-var mnemonic = "width album bachelor live endorse eagle organ cruel renew rebel entire special";
+var mnemonic = "shrimp cave rally topic mandate silver labor open wise always clock rapid";

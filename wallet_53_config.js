@@ -1,1 +1,1 @@
-var mnemonic = "neglect desk congress awake useless essence pledge renew shrug loud boat woman";
+var mnemonic = "slow cram uncle doll mango champion cash can moral slab pact library";

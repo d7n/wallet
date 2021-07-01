@@ -1,1 +1,1 @@
-var mnemonic = "habit water flush vault explain heavy trim level half sugar fall lamp";
+var mnemonic = "heart feed barrel unknown bomb text upper true employ become crystal butter";

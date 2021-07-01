@@ -1,1 +1,1 @@
-var mnemonic = "slogan test baby mimic sing ball mixture spread crop salon shield someone";
+var mnemonic = "floor gentle divert depend target nasty scrub insect noise test safe syrup";

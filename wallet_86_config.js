@@ -1,1 +1,1 @@
-var mnemonic = "lyrics truly since reform ozone impact shoot since city sugar dinner green";
+var mnemonic = "federal usage climb height build lens salmon repair bulb worry tent easily";

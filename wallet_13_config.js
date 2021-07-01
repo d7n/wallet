@@ -1,1 +1,1 @@
-var mnemonic = "matter people solar pave paper moment venture bean match cruel loyal middle";
+var mnemonic = "master layer minor pink wasp scene punch comic wisdom play fiber stem";

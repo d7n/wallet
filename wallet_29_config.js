@@ -1,1 +1,1 @@
-var mnemonic = "flock regular oval attract praise nation raise timber timber way asset nest";
+var mnemonic = "supply across sock item cloth when kitchen fatigue degree coyote float kite";

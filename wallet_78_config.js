@@ -1,1 +1,1 @@
-var mnemonic = "divide kidney glance system elephant pulp verb gloom advance antique argue guide";
+var mnemonic = "shadow defy hobby three plastic benefit captain park arrow assist awesome spoil";

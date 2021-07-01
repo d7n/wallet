@@ -1,1 +1,1 @@
-var mnemonic = "talent wool anger airport leader under sun balcony found envelope knock essence";
+var mnemonic = "lend segment wise journey require funny replace adjust baby galaxy twist inch";

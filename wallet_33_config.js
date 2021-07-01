@@ -1,1 +1,1 @@
-var mnemonic = "solve kind birth eyebrow citizen float quit pizza poem pizza cart depend";
+var mnemonic = "legend basic hint table face clutch blanket nasty prison inject absurd pumpkin";

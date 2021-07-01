@@ -1,1 +1,1 @@
-var mnemonic = "absent rubber doctor bind loan tilt obtain peace fragile start youth dismiss";
+var mnemonic = "furnace hub hobby series artwork token park tiger text all salmon often";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar orphan climb embody misery aunt defense enemy time fatigue over proof";
+var mnemonic = "color actual slender draft daughter bread column swarm kick distance pilot surge";

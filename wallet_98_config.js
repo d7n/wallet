@@ -1,1 +1,1 @@
-var mnemonic = "mansion jewel logic wedding ensure clinic tank grain couch exact climb trophy";
+var mnemonic = "window pizza target beauty giggle educate law syrup brass phrase attend urge";

@@ -1,1 +1,1 @@
-var mnemonic = "seven day sight velvet drastic indoor scan police worry hand hover foot";
+var mnemonic = "kick laundry scrub begin lucky client grain spider erode salmon hungry awful";

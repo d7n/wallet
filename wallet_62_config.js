@@ -1,1 +1,1 @@
-var mnemonic = "people heavy salute cactus audit palm move olive fiber taxi useful dad";
+var mnemonic = "wash accuse input hollow produce icon there weapon boil sock analyst toast";

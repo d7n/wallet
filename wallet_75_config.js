@@ -1,1 +1,1 @@
-var mnemonic = "ski risk emotion catalog term rack gasp number debate tired deputy argue";
+var mnemonic = "tiny alley west follow spy model couple mixture priority sample diet fiction";

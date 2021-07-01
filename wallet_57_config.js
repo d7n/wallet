@@ -1,1 +1,1 @@
-var mnemonic = "junior vote same wolf arch vast bullet script visa oblige chef crisp";
+var mnemonic = "plunge border donate milk script license fiction twist will spatial bundle idea";

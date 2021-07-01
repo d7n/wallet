@@ -1,1 +1,1 @@
-var mnemonic = "update will caught cave visual history cup marble lunar identify glove model";
+var mnemonic = "mail weird remind public urge traffic viable jelly airport upon multiply same";
