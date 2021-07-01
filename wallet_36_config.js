@@ -1,1 +1,1 @@
-var mnemonic = "own plastic fold around upset chicken bar absurd inspire route senior trend";
+var mnemonic = "wear thrive vendor brief marriage own music segment honey bundle coral build";

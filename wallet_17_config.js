@@ -1,1 +1,1 @@
-var mnemonic = "same elephant traffic sense smile scheme suffer survey abstract key margin foot";
+var mnemonic = "vote earth garbage sauce drip fabric damp hurdle grid exit vapor speak";

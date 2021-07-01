@@ -1,1 +1,1 @@
-var mnemonic = "garment result false since also cram ketchup floor anchor december duck friend";
+var mnemonic = "orchard box raw naive erosion gossip add hungry travel student soap cute";

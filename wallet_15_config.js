@@ -1,1 +1,1 @@
-var mnemonic = "minor night elder cycle gadget off outer convince fat denial setup hockey";
+var mnemonic = "degree major kick certain strategy boost knife armor game swap fabric awkward";

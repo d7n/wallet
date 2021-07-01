@@ -1,1 +1,1 @@
-var mnemonic = "movie turn afford pride someone test twin panda govern belt entire balance";
+var mnemonic = "define december weapon warm garment slam february crawl drill rare bread news";

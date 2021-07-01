@@ -1,1 +1,1 @@
-var mnemonic = "honey inform emotion tone credit siege super ugly waste process tower gauge";
+var mnemonic = "path today hurry sell renew penalty mean loyal lake this air pumpkin";

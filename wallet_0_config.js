@@ -1,1 +1,1 @@
-var mnemonic = "disorder identify physical between soon earn rib area drip lake fringe fury";
+var mnemonic = "pyramid frown figure album lawsuit essay doll agent school anxiety kind organ";

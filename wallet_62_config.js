@@ -1,1 +1,1 @@
-var mnemonic = "envelope upset claw repeat kind appear doll memory lazy abstract tenant jaguar";
+var mnemonic = "annual task iron liquid mistake drip become curious spawn divide sell blouse";

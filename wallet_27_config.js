@@ -1,1 +1,1 @@
-var mnemonic = "coil slender seed cancel wage insane sure wife coil usual pony coral";
+var mnemonic = "awake weekend plate ticket priority boy siege found gallery spoon token food";

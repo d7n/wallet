@@ -1,1 +1,1 @@
-var mnemonic = "twelve expand vanish coffee load chase turtle harbor armed ghost expand wagon";
+var mnemonic = "slab pottery canvas rain wonder shoot reflect fault apart glance measure camp";

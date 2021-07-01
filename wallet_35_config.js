@@ -1,1 +1,1 @@
-var mnemonic = "staff brisk tornado mixed orbit print rain hedgehog census congress member head";
+var mnemonic = "offer smart outdoor someone trash toast region coral leg rhythm impact secret";

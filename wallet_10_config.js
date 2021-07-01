@@ -1,1 +1,1 @@
-var mnemonic = "vote huge essence stand insect mammal boy message canyon salute organ habit";
+var mnemonic = "inherit health return mutual vibrant pact subway exchange invite excuse problem great";

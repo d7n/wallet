@@ -1,1 +1,1 @@
-var mnemonic = "budget lumber mandate tumble hybrid brand ivory insane stuff mirror prison rough";
+var mnemonic = "rapid neutral dream canyon around sunset witness risk fence maze garlic slide";

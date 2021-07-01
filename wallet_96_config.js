@@ -1,1 +1,1 @@
-var mnemonic = "burger consider situate lava develop length erupt canvas squirrel ring decide buzz";
+var mnemonic = "abandon grant milk gallery glad stone flat bridge someone edit curve scare";

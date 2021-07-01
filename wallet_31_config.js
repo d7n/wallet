@@ -1,1 +1,1 @@
-var mnemonic = "charge reveal usage system idle fish tone common illegal unlock camp duty";
+var mnemonic = "helmet replace tired olive electric wool tone have chest cattle elbow legend";

@@ -1,1 +1,1 @@
-var mnemonic = "minute favorite way legend duty skirt chuckle beauty horse assume devote mean";
+var mnemonic = "print ketchup actor inch chimney pitch monster dog predict post dentist good";

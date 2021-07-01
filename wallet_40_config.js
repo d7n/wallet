@@ -1,1 +1,1 @@
-var mnemonic = "exit doctor cactus adult ridge rhythm plug mesh ancient rally curve better";
+var mnemonic = "know gain copper explain perfect square mosquito carbon zoo floor world sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe response outer salt erode style real mystery debris mystery slow rhythm";
+var mnemonic = "climb file giggle purpose interest mutual spell amazing fork bike cherry front";

@@ -1,1 +1,1 @@
-var mnemonic = "slight roast helmet huge surge mimic exchange prevent champion can ugly ability";
+var mnemonic = "three drip violin glove blush door age rifle local cannon radio there";

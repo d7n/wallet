@@ -1,1 +1,1 @@
-var mnemonic = "dune good bubble wheel various gown garment napkin couch orphan purity swim";
+var mnemonic = "word ritual modify dial drama fluid trouble cinnamon six bird primary neutral";

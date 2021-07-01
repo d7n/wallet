@@ -1,1 +1,1 @@
-var mnemonic = "grid glow require orange spawn cupboard cheap pudding pledge apology journey scheme";
+var mnemonic = "own noise hold abuse humble news avoid come what swap resist gun";

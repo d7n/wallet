@@ -1,1 +1,1 @@
-var mnemonic = "virus gauge warm author faith stage siege rent wink buffalo orphan select";
+var mnemonic = "clever hub work already fold illness must stairs eager correct club rival";

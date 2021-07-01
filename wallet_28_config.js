@@ -1,1 +1,1 @@
-var mnemonic = "song engine tide soccer script popular unknown team sweet winner inside fence";
+var mnemonic = "bleak later turkey web nose coil apology soap ecology island size remind";

@@ -1,1 +1,1 @@
-var mnemonic = "already furnace diet age banner link castle team element acquire truth feed";
+var mnemonic = "distance adapt attend pole property gesture sauce reward pepper quote senior color";

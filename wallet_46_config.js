@@ -1,1 +1,1 @@
-var mnemonic = "inmate vote home frown rubber green fashion clutch piece setup kiwi story";
+var mnemonic = "milk beauty slide unaware valve model rate awesome arm like include crawl";

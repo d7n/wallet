@@ -1,1 +1,1 @@
-var mnemonic = "must tissue maximum menu romance pen ball detect ginger primary fee eight";
+var mnemonic = "kingdom assault tumble canyon ready execute fold medal system wink envelope voice";

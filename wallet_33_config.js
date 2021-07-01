@@ -1,1 +1,1 @@
-var mnemonic = "all auto sort service media door absorb repair tree tortoise wink juice";
+var mnemonic = "welcome snake chunk conduct enough film budget call curious yard just city";

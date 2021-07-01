@@ -1,1 +1,1 @@
-var mnemonic = "loud scissors ketchup organ unusual sunset recall salon pet hurt zone case";
+var mnemonic = "wash bid noise mammal path concert couple wreck act patrol media current";

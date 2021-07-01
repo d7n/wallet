@@ -1,1 +1,1 @@
-var mnemonic = "lake banner return mistake front space license educate keen flush blouse acquire";
+var mnemonic = "logic tide popular shop slab auto fly fold room pear region syrup";

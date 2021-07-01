@@ -1,1 +1,1 @@
-var mnemonic = "caution all combine smooth carbon fun embody celery mango tilt elephant trigger";
+var mnemonic = "ahead master fruit entry drum lunch solid height minimum segment creek van";

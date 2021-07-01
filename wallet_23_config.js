@@ -1,1 +1,1 @@
-var mnemonic = "reveal melt solid such load vivid silly problem review shop drop chunk";
+var mnemonic = "tail equal reason silver piano shed seminar plunge crouch raw fee rack";

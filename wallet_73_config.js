@@ -1,1 +1,1 @@
-var mnemonic = "private silent rose mountain where ancient custom subway review mercy click vote";
+var mnemonic = "elevator left slender dad divide appear lady popular can puppy wall ship";

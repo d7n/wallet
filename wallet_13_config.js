@@ -1,1 +1,1 @@
-var mnemonic = "afford cherry fine witness stereo conduct tank rocket human strike shrug dog";
+var mnemonic = "slow swear kidney panel oil learn flush valley response predict bleak vital";

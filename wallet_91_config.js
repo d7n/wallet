@@ -1,1 +1,1 @@
-var mnemonic = "wreck correct possible game cheese coyote length collect pause drama slot ahead";
+var mnemonic = "motor goose buzz raise siren question jelly slam access rapid payment render";

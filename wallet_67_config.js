@@ -1,1 +1,1 @@
-var mnemonic = "win midnight puzzle injury top argue almost obtain all aunt slab swing";
+var mnemonic = "milk faith example junk able suggest wait trash spice among spread acid";

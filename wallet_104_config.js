@@ -1,1 +1,1 @@
-var mnemonic = "spin sand shadow crumble trust lazy soul few cloth jealous orbit cruise";
+var mnemonic = "staff avocado horse doctor problem angle ghost sunset athlete pledge addict public";

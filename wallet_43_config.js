@@ -1,1 +1,1 @@
-var mnemonic = "frog report churn aerobic depend pilot orient fluid lady claw month frown";
+var mnemonic = "autumn ritual resemble orange involve middle present gossip era cannon resource isolate";

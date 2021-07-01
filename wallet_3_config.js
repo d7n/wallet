@@ -1,1 +1,1 @@
-var mnemonic = "ozone spy erupt spatial square quit rally treat fog misery rib club";
+var mnemonic = "ahead fit initial shuffle parade tuna elite connect asthma choose stuff resist";

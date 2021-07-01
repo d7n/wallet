@@ -1,1 +1,1 @@
-var mnemonic = "blame memory awful boring select step guide caught present immune inform lottery";
+var mnemonic = "prosper safe green abandon mixed meadow absurd gold protect custom echo cotton";

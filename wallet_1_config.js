@@ -1,1 +1,1 @@
-var mnemonic = "above front inside stumble water link hidden mixture situate water rule nasty";
+var mnemonic = "adjust lady buzz shoot someone cabbage access satoshi still enemy about fade";

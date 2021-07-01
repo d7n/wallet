@@ -1,1 +1,1 @@
-var mnemonic = "eye unit swarm win march over moment adjust vacuum hotel unveil scatter";
+var mnemonic = "senior unique slight stomach monkey sudden top once gift sketch kiss draw";

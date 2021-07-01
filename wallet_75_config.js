@@ -1,1 +1,1 @@
-var mnemonic = "item slam innocent mistake virtual shop reunion change misery gossip april pause";
+var mnemonic = "vacant much antique damage rug project differ inch neck pipe manual mother";

@@ -1,1 +1,1 @@
-var mnemonic = "also fossil marriage camp priority smooth glue solve enhance february submit comic";
+var mnemonic = "spare puzzle flight february shiver clip include image budget bar mandate author";

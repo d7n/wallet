@@ -1,1 +1,1 @@
-var mnemonic = "entire pyramid model develop public frost wrap engage blood reveal recycle column";
+var mnemonic = "drum load exhibit measure diary present about screen pause weapon culture trouble";

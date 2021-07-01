@@ -1,1 +1,1 @@
-var mnemonic = "enact undo employ good split razor gloom roof accident grain hard bulk";
+var mnemonic = "blush april buffalo torch thrive shiver tuna copy correct mention frog turtle";

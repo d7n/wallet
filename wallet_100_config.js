@@ -1,1 +1,1 @@
-var mnemonic = "dream artwork wing express unknown happy soda mechanic open dinosaur omit coast";
+var mnemonic = "champion metal weather cherry life main surge portion scrub century nasty praise";

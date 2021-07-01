@@ -1,1 +1,1 @@
-var mnemonic = "talk vague there absorb direct soon rail capital exotic food science garage";
+var mnemonic = "fancy noise occur safe radar lawn witness typical glue pulse awake system";

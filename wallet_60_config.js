@@ -1,1 +1,1 @@
-var mnemonic = "rebuild shaft pave change minor space key come turkey void history danger";
+var mnemonic = "drum laugh room biology ship snake ranch sorry fire unhappy skull delay";

@@ -1,1 +1,1 @@
-var mnemonic = "casual garage decide naive prosper attitude parent expand solar faint survey youth";
+var mnemonic = "letter burger tool type food used sign bar cool donor already govern";

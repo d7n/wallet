@@ -1,1 +1,1 @@
-var mnemonic = "canyon tell practice often dance advice maple inherit need split mechanic ridge";
+var mnemonic = "school melt disease later buffalo capable jaguar stone carry demand weird sound";

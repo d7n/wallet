@@ -1,1 +1,1 @@
-var mnemonic = "theory kick stomach leader quarter inherit artwork scare swing clever front jaguar";
+var mnemonic = "silly found heart often hurdle host update message scale enforce reunion exclude";

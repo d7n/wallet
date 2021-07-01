@@ -1,1 +1,1 @@
-var mnemonic = "service swear supreme chicken ahead tone valley umbrella voyage ranch room devote";
+var mnemonic = "visit control spot round ship ahead grow camera funny bag cat fame";

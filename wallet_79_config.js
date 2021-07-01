@@ -1,1 +1,1 @@
-var mnemonic = "magnet regret onion sad tongue trade simple cinnamon access purity double culture";
+var mnemonic = "park educate human march video later harvest large brave matter solve illness";

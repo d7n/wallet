@@ -1,1 +1,1 @@
-var mnemonic = "jeans dinner summer lend used way case rain display inspire monkey alcohol";
+var mnemonic = "fish evil salt fish spread safe friend hurdle include amateur episode food";

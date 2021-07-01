@@ -1,1 +1,1 @@
-var mnemonic = "dash lake south build comfort client rib inmate curtain nation museum melt";
+var mnemonic = "help refuse victory little place blouse unfold arrange measure code rack bubble";

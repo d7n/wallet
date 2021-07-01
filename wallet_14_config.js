@@ -1,1 +1,1 @@
-var mnemonic = "rural practice glad monster tonight patch ship say daughter dad maid quantum";
+var mnemonic = "execute struggle tragic crowd crucial hard oven silent series pumpkin charge sugar";

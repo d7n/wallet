@@ -1,1 +1,1 @@
-var mnemonic = "sword dizzy column involve exercise price sustain mom neck gun adapt tomato";
+var mnemonic = "keen girl chicken gasp salon maximum advance reflect undo market lucky million";

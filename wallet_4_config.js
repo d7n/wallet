@@ -1,1 +1,1 @@
-var mnemonic = "alone ten breeze near sound island film rival negative lemon paper library";
+var mnemonic = "choice mom situate kangaroo diagram olive relief anxiety piece kick ceiling month";

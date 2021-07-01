@@ -1,1 +1,1 @@
-var mnemonic = "range lounge knee brain hazard capable present panther cram ski bring victory";
+var mnemonic = "unknown voyage review whale ride defense stadium ridge few portion sibling impulse";

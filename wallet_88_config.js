@@ -1,1 +1,1 @@
-var mnemonic = "muscle claw hungry narrow layer crucial style between weapon resist raw they";
+var mnemonic = "around century mouse short control magic awful state wrong bundle maple edit";

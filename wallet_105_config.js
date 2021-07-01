@@ -1,1 +1,1 @@
-var mnemonic = "tonight recall vicious sheriff sample success van universe piano egg bitter deal";
+var mnemonic = "wish royal riot process drink document flee punch inflict typical dumb few";

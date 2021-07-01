@@ -1,1 +1,1 @@
-var mnemonic = "liberty bird surface envelope identify limit juice belt spy fit shell clip";
+var mnemonic = "forget decade file explain crush memory piece dune mutual leg organ pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "twice rack pig weather loop cloth clinic future dry swallow similar patch";
+var mnemonic = "cruise require banana main special mansion exchange casino garden mimic rabbit grab";

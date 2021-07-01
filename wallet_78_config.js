@@ -1,1 +1,1 @@
-var mnemonic = "prevent donkey brand fabric title tuition parent speed dance damage bomb switch";
+var mnemonic = "daughter observe stable select obvious snow alarm there index boss whale believe";

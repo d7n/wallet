@@ -1,1 +1,1 @@
-var mnemonic = "upset hero picnic energy army pony drastic distance danger chef dentist security";
+var mnemonic = "tumble meadow horn good champion guess skill poet leopard level garbage hurt";

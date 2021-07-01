@@ -1,1 +1,1 @@
-var mnemonic = "olive conduct public element present loan girl square until female denial amount";
+var mnemonic = "fantasy reject mobile butter fiscal firm pair advice path trip direct have";

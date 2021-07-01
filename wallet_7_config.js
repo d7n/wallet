@@ -1,1 +1,1 @@
-var mnemonic = "scene mass employ utility decide affair bitter survey coil glide balance menu";
+var mnemonic = "canvas member crazy crystal length bargain country host potato wait bean current";

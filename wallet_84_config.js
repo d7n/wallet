@@ -1,1 +1,1 @@
-var mnemonic = "armor dinner fuel day egg soft crack smoke choice run photo angle";
+var mnemonic = "sick various robot one innocent novel unique pair outside token among atom";

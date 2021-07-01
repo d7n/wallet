@@ -1,1 +1,1 @@
-var mnemonic = "social length zone parade pulse steak balance wrong ability barely total such";
+var mnemonic = "know pole couple use whip suspect tooth million miracle use dragon purse";

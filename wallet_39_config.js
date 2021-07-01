@@ -1,1 +1,1 @@
-var mnemonic = "dove mule reward grocery own remind will young replace hip trade recipe";
+var mnemonic = "artefact nation pool organ sun follow double permit sleep bridge acquire truck";

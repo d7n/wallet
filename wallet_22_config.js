@@ -1,1 +1,1 @@
-var mnemonic = "myth attract south nation dance step arctic case again buzz simple veteran";
+var mnemonic = "segment notable base hood artist orbit shrug knee mango knock journey diagram";

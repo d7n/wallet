@@ -1,1 +1,1 @@
-var mnemonic = "vault sadness ring wire amount eager health weather life simple tortoise scare";
+var mnemonic = "drum spirit hollow test daring thought reopen history bomb icon net horror";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder away ill rookie trash legal problem weather squirrel all thing auto";
+var mnemonic = "blossom drive disease unit modify always cart kidney hub fever rally rural";

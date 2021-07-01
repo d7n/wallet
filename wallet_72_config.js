@@ -1,1 +1,1 @@
-var mnemonic = "ticket below tired cost appear endorse trigger reason pioneer glove choose second";
+var mnemonic = "shoot mandate want patient repair metal dry dinosaur kit arrange asthma black";

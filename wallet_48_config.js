@@ -1,1 +1,1 @@
-var mnemonic = "mistake tissue melody normal spot ribbon remove asset blame entire town sea";
+var mnemonic = "north flavor forget habit trophy way spoon claw hammer frog scene staff";

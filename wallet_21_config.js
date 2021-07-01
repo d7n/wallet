@@ -1,1 +1,1 @@
-var mnemonic = "dragon any goddess predict chair mutual balance creek payment need velvet private";
+var mnemonic = "blind kind indicate brass monkey nose cement select must victory sea ski";

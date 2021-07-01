@@ -1,1 +1,1 @@
-var mnemonic = "mule certain tuna crash auction purity crazy punch brand walnut have genre";
+var mnemonic = "cruise scissors keen ceiling view busy divert pretty anchor embark twice mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "regret fame canoe bargain borrow else mirror lottery include banana october stuff";
+var mnemonic = "peace neck major syrup impulse stem initial drop ensure crew digital error";

@@ -1,1 +1,1 @@
-var mnemonic = "library cook position coconut team true assist describe captain blossom token spell";
+var mnemonic = "visa captain post industry diagram destroy food staff possible pilot ride wedding";

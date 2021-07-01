@@ -1,1 +1,1 @@
-var mnemonic = "thrive vendor time main husband grow bounce student upper toilet soul awesome";
+var mnemonic = "thought start vanish pulse what glide slam want deputy shuffle spawn rather";

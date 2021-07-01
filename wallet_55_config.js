@@ -1,1 +1,1 @@
-var mnemonic = "answer violin relax beyond opinion cry about draw fat cat paddle refuse";
+var mnemonic = "hire nasty cigar dolphin apart genuine one gate black fan turtle spider";

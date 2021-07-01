@@ -1,1 +1,1 @@
-var mnemonic = "left gorilla bless involve business borrow salon ecology grape chimney brush utility";
+var mnemonic = "deputy explain wheel little robot impulse floor motor weasel frost spoon garment";

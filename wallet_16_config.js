@@ -1,1 +1,1 @@
-var mnemonic = "reopen champion earth marriage please satoshi gasp genuine want stadium account dragon";
+var mnemonic = "van liar share plunge awkward moment strong brief dolphin sock sketch relax";

@@ -1,1 +1,1 @@
-var mnemonic = "law silly adjust jealous destroy high amateur fame finger dumb video ethics";
+var mnemonic = "grief rifle repeat either festival proof hunt pizza quick excite ozone birth";

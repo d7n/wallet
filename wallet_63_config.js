@@ -1,1 +1,1 @@
-var mnemonic = "alarm turkey sing raccoon sand bronze verify hello plate crumble chase rubber";
+var mnemonic = "income robot super barrel fabric liquid swallow spider swear liberty layer execute";

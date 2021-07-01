@@ -1,1 +1,1 @@
-var mnemonic = "profit police project describe table stamp ritual term immune next develop dance";
+var mnemonic = "claim remember melt sign option popular kind issue caught setup february usual";

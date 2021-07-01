@@ -1,1 +1,1 @@
-var mnemonic = "nothing pact grocery prefer expire sentence sign orange conduct weather early box";
+var mnemonic = "release luxury begin walnut bronze invite unaware river barrel eager round churn";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst inherit rule column luggage toast boat uncover peanut exact foam spawn";
+var mnemonic = "taste arrow pattern secret early copy engine shoot picnic super error usual";

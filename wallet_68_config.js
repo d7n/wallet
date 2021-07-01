@@ -1,1 +1,1 @@
-var mnemonic = "giraffe any olive else explain sport license team lottery soul glow build";
+var mnemonic = "found century error task interest lemon drama possible leisure pitch blossom plug";
