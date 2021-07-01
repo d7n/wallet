@@ -1,1 +1,1 @@
-var mnemonic = "confirm pact number regret solar trip category crunch round valve minimum claw";
+var mnemonic = "brave law excess else palace taste elder deal city garage outside pottery";

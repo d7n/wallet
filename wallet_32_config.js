@@ -1,1 +1,1 @@
-var mnemonic = "imitate future rail flower copper shock hour cushion series start trust camera";
+var mnemonic = "unknown raw dinosaur reform chapter math gain coast various trend scatter dinner";

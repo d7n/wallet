@@ -1,1 +1,1 @@
-var mnemonic = "salad power stone year risk illegal bone urban ladder analyst mistake item";
+var mnemonic = "over happy nature build reflect immense bone champion raw firm empty december";

@@ -1,1 +1,1 @@
-var mnemonic = "taste barrel throw quick girl only submit market fog hurry play record";
+var mnemonic = "lab noble mind roof tribe dog ship pattern acid victory piano cabin";

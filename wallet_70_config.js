@@ -1,1 +1,1 @@
-var mnemonic = "walnut position bar cup thank type hat vocal gospel brave throw pitch";
+var mnemonic = "crystal only income gallery garage parade butter there canal saddle trial swarm";

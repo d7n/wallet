@@ -1,1 +1,1 @@
-var mnemonic = "club inside print question veteran captain foster fitness please bench tuition boost";
+var mnemonic = "shiver blush stadium emotion intact paper fringe lady symbol half dog beyond";

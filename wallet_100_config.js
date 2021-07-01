@@ -1,1 +1,1 @@
-var mnemonic = "fatigue very detect laugh fat hand grit cream walnut inherit tape project";
+var mnemonic = "pen unaware brisk bridge degree shock matter network globe always impulse wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz vintage prepare kiwi captain forget agree cattle common rally case stand";
+var mnemonic = "assist engage case vocal casino drum canoe all opera call brief add";

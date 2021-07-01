@@ -1,1 +1,1 @@
-var mnemonic = "trash envelope thumb point unfair churn siege narrow perfect praise robust apple";
+var mnemonic = "dress rail practice awkward basket suffer embrace bubble frog head elder spring";

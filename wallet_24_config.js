@@ -1,1 +1,1 @@
-var mnemonic = "buyer present oven hidden elegant snow satisfy hybrid vacant fantasy logic drill";
+var mnemonic = "tragic actress antenna vehicle job hurry wrist south awkward grape team toward";

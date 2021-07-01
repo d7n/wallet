@@ -1,1 +1,1 @@
-var mnemonic = "belt together strong wet hand tower photo custom planet clever earn thought";
+var mnemonic = "field despair elegant grape average idle label rare fortune match message tell";

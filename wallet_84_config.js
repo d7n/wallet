@@ -1,1 +1,1 @@
-var mnemonic = "garment seminar ten surge pyramid silk rookie cactus clarify poem resource game";
+var mnemonic = "movie card obey mutual fresh exist canyon limit armor they owner member";

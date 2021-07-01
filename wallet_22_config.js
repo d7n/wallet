@@ -1,1 +1,1 @@
-var mnemonic = "weekend radio ball zoo foot latin useful sphere fun rocket letter large";
+var mnemonic = "dizzy original purpose bicycle duck boil machine ready increase surge two force";

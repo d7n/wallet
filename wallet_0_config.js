@@ -1,1 +1,1 @@
-var mnemonic = "collect ability upset road salute mistake dirt swamp cattle spin promote leave";
+var mnemonic = "news floor person surround advance cousin rule silk job drama chest aspect";

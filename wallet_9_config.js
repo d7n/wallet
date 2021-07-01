@@ -1,1 +1,1 @@
-var mnemonic = "cable kitchen room frequent vault upgrade have pioneer retreat noble world spoil";
+var mnemonic = "remain shop solar rotate mercy require jewel account palm around riot garage";

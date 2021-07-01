@@ -1,1 +1,1 @@
-var mnemonic = "reunion senior point staff that know taxi uncle bounce garden silver current";
+var mnemonic = "arrest banana purse version eyebrow roast wife eight rotate absorb truth just";

@@ -1,1 +1,1 @@
-var mnemonic = "ten install illegal vacuum casual duty scale gallery remain defy target slush";
+var mnemonic = "trim argue oyster weird educate velvet fringe cattle evidence ankle shed unusual";

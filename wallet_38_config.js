@@ -1,1 +1,1 @@
-var mnemonic = "actor sustain subway tragic vivid object throw mango siege horse hard sunset";
+var mnemonic = "prepare vacant text novel dumb arm note decrease settle census stock excess";

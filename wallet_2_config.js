@@ -1,1 +1,1 @@
-var mnemonic = "bridge web clump rally mask black security blind evidence moral afford merit";
+var mnemonic = "foil theory palm pattern before until limb glory amount fitness dwarf aspect";

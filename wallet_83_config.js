@@ -1,1 +1,1 @@
-var mnemonic = "panic bulb liquid act student element hold ski unit relief will answer";
+var mnemonic = "adult actor abuse wet prevent deny skin absent unhappy zoo know analyst";

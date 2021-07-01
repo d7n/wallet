@@ -1,1 +1,1 @@
-var mnemonic = "emotion roof pencil alarm mask duck midnight run cloth waste essence trash";
+var mnemonic = "vote hollow come angle beach rotate inherit area evoke dove need regret";

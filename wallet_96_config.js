@@ -1,1 +1,1 @@
-var mnemonic = "clown candy prize amateur grain illness tortoise service loyal benefit sketch blush";
+var mnemonic = "spawn wet wrist gesture approve trouble salt foot near always gap check";

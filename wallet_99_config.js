@@ -1,1 +1,1 @@
-var mnemonic = "endless rule sketch yard night orbit special coyote comfort glide result outdoor";
+var mnemonic = "moment nuclear burst sad audit fluid wrestle mom trophy slogan oval twice";

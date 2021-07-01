@@ -1,1 +1,1 @@
-var mnemonic = "filter pill decorate destroy core trap science emotion adjust risk above length";
+var mnemonic = "smart diamond bright kid shed road amused nasty cattle nothing reopen special";

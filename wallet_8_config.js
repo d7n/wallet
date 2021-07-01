@@ -1,1 +1,1 @@
-var mnemonic = "satisfy swing frame song erase easily jazz shoe bargain explain dress reflect";
+var mnemonic = "fancy erode question carpet dance pretty special defy senior narrow slice deliver";

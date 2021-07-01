@@ -1,1 +1,1 @@
-var mnemonic = "beef tape error smart above trust hero common know network woman seminar";
+var mnemonic = "people shuffle mirror exotic draw seed survey borrow glue unit shed recipe";

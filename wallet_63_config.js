@@ -1,1 +1,1 @@
-var mnemonic = "group orange eternal basic soldier nuclear deputy laundry series spoon more loyal";
+var mnemonic = "help gift boy glove pigeon bamboo burger popular enemy regular potato license";

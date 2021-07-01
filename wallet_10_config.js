@@ -1,1 +1,1 @@
-var mnemonic = "snake talk auto devote fetch want season when truth raven predict piece";
+var mnemonic = "sustain hollow social innocent staff budget recipe route strike trim dune toy";

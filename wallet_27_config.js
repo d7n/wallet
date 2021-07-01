@@ -1,1 +1,1 @@
-var mnemonic = "trap copy flat fit stand ketchup tobacco truth used little spoil remove";
+var mnemonic = "floor type snake inner include arrest math force battle deputy this retire";

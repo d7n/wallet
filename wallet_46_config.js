@@ -1,1 +1,1 @@
-var mnemonic = "receive rather library success truly include govern want palace human wheat help";
+var mnemonic = "shell task season submit cradle sunny able mammal once book wrap mule";

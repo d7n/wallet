@@ -1,1 +1,1 @@
-var mnemonic = "sun blind sponsor model bring slab song milk boy glue injury around";
+var mnemonic = "sail lock pear scheme frame share catalog addict embrace service picnic ship";

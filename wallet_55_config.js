@@ -1,1 +1,1 @@
-var mnemonic = "pluck fly immense primary hair cherry width supreme salmon future desk spread";
+var mnemonic = "expire improve day mass color rubber approve harsh lounge bleak myself clown";

@@ -1,1 +1,1 @@
-var mnemonic = "extend banner only major pepper summer obey donate unfold net close garbage";
+var mnemonic = "opera car base winter champion critic table arrow major what half nerve";

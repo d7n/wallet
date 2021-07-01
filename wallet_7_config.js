@@ -1,1 +1,1 @@
-var mnemonic = "vital verb capital circle illegal fence goat cram six fetch fix census";
+var mnemonic = "side away sting remain educate surround unique math uniform setup bridge wrist";

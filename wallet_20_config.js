@@ -1,1 +1,1 @@
-var mnemonic = "voyage toe wealth morning meat flag utility high ready effort just doll";
+var mnemonic = "hard come unlock mean supreme garden sudden manage rail horror turtle gasp";

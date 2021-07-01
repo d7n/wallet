@@ -1,1 +1,1 @@
-var mnemonic = "toss camp minor screen wool play this orient hair animal brother fetch";
+var mnemonic = "fit morning credit wife typical forum sniff enforce ancient seek client spider";

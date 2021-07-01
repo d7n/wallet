@@ -1,1 +1,1 @@
-var mnemonic = "imitate round cage soccer glad author blind ready harvest twenty ribbon danger";
+var mnemonic = "judge depend spell solar they nuclear rail enjoy cinnamon ring address devote";

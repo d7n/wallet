@@ -1,1 +1,1 @@
-var mnemonic = "jungle alcohol chuckle stock ginger occur genius lens drive nut young between";
+var mnemonic = "advice energy climb income pluck pony exile solution evoke sustain cost near";

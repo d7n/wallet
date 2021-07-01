@@ -1,1 +1,1 @@
-var mnemonic = "ring tilt retire course elbow barely episode warrior mean someone decade document";
+var mnemonic = "apology fuel heart subway grit hurdle relax calm rain basket fresh crouch";

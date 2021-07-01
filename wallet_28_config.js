@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog news labor filter cart fever hundred monster theory random ship eyebrow";
+var mnemonic = "city track emerge cool seek yellow plate wisdom leg beauty social average";

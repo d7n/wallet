@@ -1,1 +1,1 @@
-var mnemonic = "left save mosquito gentle valve swap dizzy crucial demand symbol empty portion";
+var mnemonic = "ensure elephant luxury drop push stick matter leader motion emotion genius mandate";

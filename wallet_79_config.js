@@ -1,1 +1,1 @@
-var mnemonic = "average local equip drive dune eager buyer pulp chronic nephew shadow blue";
+var mnemonic = "provide trip lucky dilemma screen adult language parent lounge sense amazing shove";

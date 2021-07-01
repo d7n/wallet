@@ -1,1 +1,1 @@
-var mnemonic = "provide planet live excess release remain impose idea trim organ tumble disagree";
+var mnemonic = "buddy tissue post scare couch flee rebuild decade identify warfare defense fitness";

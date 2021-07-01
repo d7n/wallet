@@ -1,1 +1,1 @@
-var mnemonic = "twin accident argue rotate deliver guilt reopen people monitor auction busy there";
+var mnemonic = "inherit differ spare faith budget raise amount then swing label crime cereal";

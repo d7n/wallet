@@ -1,1 +1,1 @@
-var mnemonic = "awful grid cabbage dust prize speak crane sun knock matrix almost often";
+var mnemonic = "frog once debris harsh general hungry repair grape local business ethics hybrid";

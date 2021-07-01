@@ -1,1 +1,1 @@
-var mnemonic = "farm room vapor license diary surround economy december either primary innocent stool";
+var mnemonic = "tonight rapid sight orphan profit else test pass shiver gravity dinosaur topic";

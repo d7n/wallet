@@ -1,1 +1,1 @@
-var mnemonic = "stuff bottom online razor hidden glove speak sure rely pioneer indicate away";
+var mnemonic = "story cousin under swap turkey hedgehog radio sentence find wish century canoe";

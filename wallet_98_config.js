@@ -1,1 +1,1 @@
-var mnemonic = "total elder divert cabin recipe betray meat under private comfort crop tomorrow";
+var mnemonic = "economy violin cabin flight actor romance talk fat mushroom option error panther";

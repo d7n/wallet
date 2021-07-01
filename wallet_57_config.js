@@ -1,1 +1,1 @@
-var mnemonic = "marriage connect ring abandon tragic topple jump point slab need border dilemma";
+var mnemonic = "tourist left chef entire nuclear wine what mask coin earth copper absorb";

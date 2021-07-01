@@ -1,1 +1,1 @@
-var mnemonic = "myth winter amount gown poverty usual inject announce tennis sunset wedding rack";
+var mnemonic = "peace matter top sail test bench gesture during company brain sad hobby";

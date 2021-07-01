@@ -1,1 +1,1 @@
-var mnemonic = "course fat tank capital letter empty panic hello daughter pluck abandon airport";
+var mnemonic = "language client mesh brave cry crash section crew summer image cruise walnut";

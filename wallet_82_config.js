@@ -1,1 +1,1 @@
-var mnemonic = "skill reject inspire what notice eagle similar sing kick employ sphere vehicle";
+var mnemonic = "unique knee mother bid calm sausage sure enter limb payment couch whisper";

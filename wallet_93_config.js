@@ -1,1 +1,1 @@
-var mnemonic = "outer multiply giggle solid crash tonight actual afford sphere pitch metal enough";
+var mnemonic = "spice accuse island among jeans entry journey cousin pottery pioneer metal wear";

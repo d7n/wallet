@@ -1,1 +1,1 @@
-var mnemonic = "state gas inspire leopard canoe kick pizza bag region polar cool image";
+var mnemonic = "purity wash modify autumn famous evoke song photo destroy brown myself snack";

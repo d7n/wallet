@@ -1,1 +1,1 @@
-var mnemonic = "text crane virtual spice save among recall shove vacuum pond club hen";
+var mnemonic = "market circle advice connect exist hockey ugly casual gentle tiny between elegant";

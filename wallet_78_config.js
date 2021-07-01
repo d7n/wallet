@@ -1,1 +1,1 @@
-var mnemonic = "system jacket ribbon initial insect garment decide document scan giggle success derive";
+var mnemonic = "bike cash wait hand cliff doll blanket medal dinner talent stand labor";

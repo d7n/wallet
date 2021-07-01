@@ -1,1 +1,1 @@
-var mnemonic = "panic blind pyramid dolphin woman pause settle maze lucky cloud trap episode";
+var mnemonic = "famous pattern vibrant green churn swap usage pattern situate false emotion atom";

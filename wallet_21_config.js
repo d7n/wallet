@@ -1,1 +1,1 @@
-var mnemonic = "office curtain future eyebrow either monkey column always assist dwarf license toy";
+var mnemonic = "word vicious pretty tackle supreme feel grief puzzle mango credit slender quantum";

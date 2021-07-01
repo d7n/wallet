@@ -1,1 +1,1 @@
-var mnemonic = "figure memory wall kid weapon odor fitness nation warrior omit left enhance";
+var mnemonic = "entire drive crisp material hero ticket book catalog notable cruise adult crop";

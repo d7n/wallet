@@ -1,1 +1,1 @@
-var mnemonic = "hobby label tunnel simple guess dilemma bonus party tray leopard abuse oyster";
+var mnemonic = "deposit all toe disease guard suit model danger prepare stereo poverty festival";

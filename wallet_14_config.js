@@ -1,1 +1,1 @@
-var mnemonic = "inject sniff any view fire champion what monster honey fancy valley way";
+var mnemonic = "holiday faith idle bone arrange wolf baby twin travel elevator coyote blind";

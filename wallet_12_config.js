@@ -1,1 +1,1 @@
-var mnemonic = "grain praise trumpet symptom throw liberty bullet glare hedgehog screen control left";
+var mnemonic = "interest language nerve supreme section federal anxiety tiny flight core mirror soldier";

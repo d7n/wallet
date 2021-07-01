@@ -1,1 +1,1 @@
-var mnemonic = "jungle summer abstract arrive wonder shuffle earn dizzy call patrol spoil issue";
+var mnemonic = "employ require assault digital replace practice moment stairs helmet rude interest square";

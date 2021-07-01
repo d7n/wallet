@@ -1,1 +1,1 @@
-var mnemonic = "jeans choice fiber girl elephant illness mammal captain shrimp amazing loan wave";
+var mnemonic = "taxi expand they trim feed swift flight tomorrow auction kid family rug";

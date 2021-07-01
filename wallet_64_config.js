@@ -1,1 +1,1 @@
-var mnemonic = "rescue give pony ready debate race gaze search abuse advice sponsor club";
+var mnemonic = "light lake flee acoustic security identify pyramid captain alert april sing december";

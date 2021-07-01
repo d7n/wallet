@@ -1,1 +1,1 @@
-var mnemonic = "proud seed track gravity lady very length plastic soft inflict acid bicycle";
+var mnemonic = "ladder subject admit eye tortoise gym mouse casual monster happy globe letter";

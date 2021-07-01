@@ -1,1 +1,1 @@
-var mnemonic = "sand auction cereal rent van pledge range orange execute wedding slab lift";
+var mnemonic = "salute wrestle price purchase clinic apart fat mass develop fox someone around";

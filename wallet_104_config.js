@@ -1,1 +1,1 @@
-var mnemonic = "filter denial hungry fame laundry dirt destroy crouch fiction switch bulk warrior";
+var mnemonic = "brave tired fantasy enter bomb resist neutral agree twenty junk strategy future";

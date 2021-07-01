@@ -1,1 +1,1 @@
-var mnemonic = "hundred point pen flag apple notable vast lock deposit hurry dolphin tobacco";
+var mnemonic = "tone hill abuse witness involve entry weird visa talent owner aware current";

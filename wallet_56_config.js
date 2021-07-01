@@ -1,1 +1,1 @@
-var mnemonic = "admit frequent burden mail cheese motor absent enforce combine wage penalty flight";
+var mnemonic = "mobile example moon grant august era page leave resist wash hand mistake";

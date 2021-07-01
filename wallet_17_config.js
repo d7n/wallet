@@ -1,1 +1,1 @@
-var mnemonic = "appear supply firm welcome vacant bind want swarm suffer harbor salmon devote";
+var mnemonic = "artefact rib ordinary clown charge scare smile stairs main drink grain fortune";

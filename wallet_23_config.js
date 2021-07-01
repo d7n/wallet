@@ -1,1 +1,1 @@
-var mnemonic = "earn round tiny model flame various miss pave present there injury suffer";
+var mnemonic = "adjust sick artefact crystal steak salad move off clown juice grass fragile";

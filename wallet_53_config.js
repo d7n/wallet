@@ -1,1 +1,1 @@
-var mnemonic = "pattern future impose unlock marine review unveil liar miss pony off rapid";
+var mnemonic = "snake elegant summer atom melody vivid maid novel game cup section horn";

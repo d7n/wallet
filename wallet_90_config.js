@@ -1,1 +1,1 @@
-var mnemonic = "emerge pioneer allow boy effort warm emotion regular huge cradle hip border";
+var mnemonic = "soon common begin piano idea keep cattle loop response tide card wet";

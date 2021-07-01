@@ -1,1 +1,1 @@
-var mnemonic = "roof base lawsuit armed pool evidence tunnel oppose now agree limb office";
+var mnemonic = "face enjoy sister put joy brass dice hawk bird clay floor grace";

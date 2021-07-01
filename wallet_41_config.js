@@ -1,1 +1,1 @@
-var mnemonic = "warfare embody return laptop never nest recipe diamond today patch zebra bone";
+var mnemonic = "property shadow dutch witness boil dinosaur spike human path merit assume grain";

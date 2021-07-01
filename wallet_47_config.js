@@ -1,1 +1,1 @@
-var mnemonic = "couch idle island dilemma hotel ceiling trust fresh lock air gossip farm";
+var mnemonic = "enter bar addict fluid until laugh glide close since pluck notable attitude";

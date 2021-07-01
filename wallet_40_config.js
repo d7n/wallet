@@ -1,1 +1,1 @@
-var mnemonic = "gentle destroy retire today session you pave acid orient thrive tank fit";
+var mnemonic = "cute similar slight loan smooth dentist immense rare artefact slush cross hazard";

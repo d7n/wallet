@@ -1,1 +1,1 @@
-var mnemonic = "subway oven stove provide brass strike onion either disagree swim ridge random";
+var mnemonic = "nest material brief shop nut rescue rifle wonder push cover street defense";

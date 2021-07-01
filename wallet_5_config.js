@@ -1,1 +1,1 @@
-var mnemonic = "novel permit bleak erode common wagon still hope puppy medal column fashion";
+var mnemonic = "improve close smoke pelican punch happy anxiety link knee love inquiry exchange";

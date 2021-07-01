@@ -1,1 +1,1 @@
-var mnemonic = "day museum still dirt civil panic version hair family wool liar increase";
+var mnemonic = "child park dune always grape hobby motion broom belt lab strike section";

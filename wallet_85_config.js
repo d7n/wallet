@@ -1,1 +1,1 @@
-var mnemonic = "jump three click domain life submit patch call bean verb sibling chat";
+var mnemonic = "mass green across sick truth donate recipe turn record shy screen decade";

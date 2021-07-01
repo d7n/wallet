@@ -1,1 +1,1 @@
-var mnemonic = "again predict face health obvious label funny where olympic liar reunion cheese";
+var mnemonic = "face silk friend demand review now bounce anchor sunset loan spray blade";

@@ -1,1 +1,1 @@
-var mnemonic = "twice smart glue bread custom space soul wave develop stick board puzzle";
+var mnemonic = "gesture sad waste sentence glove chuckle defense dentist kick pizza raccoon vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "sign payment moral private gravity canoe analyst wheat person explain grow scorpion";
+var mnemonic = "charge happy maple soft goddess mix phone tonight chaos faculty often merge";

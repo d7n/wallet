@@ -1,1 +1,1 @@
-var mnemonic = "tooth current boost cart traffic cost miracle razor grocery usage trial weird";
+var mnemonic = "zone glare mansion route ignore actual crew slim million brain convince idea";

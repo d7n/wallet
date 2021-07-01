@@ -1,1 +1,1 @@
-var mnemonic = "long resist crouch matter horse brain exact grid hurt dizzy media car";
+var mnemonic = "crystal return milk panda capable join upon service divert struggle double amused";

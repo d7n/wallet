@@ -1,1 +1,1 @@
-var mnemonic = "void toe palace direct legal dinosaur narrow art then analyst antique smart";
+var mnemonic = "expire garden pudding gas confirm trial culture journey pattern alcohol claim sudden";

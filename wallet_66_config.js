@@ -1,1 +1,1 @@
-var mnemonic = "member floor trouble gesture achieve typical artwork icon toe way toss dial";
+var mnemonic = "scout destroy between magnet tray gesture east volume bulb divide weapon dawn";

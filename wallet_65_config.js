@@ -1,1 +1,1 @@
-var mnemonic = "version jungle upon reform upgrade erase betray sweet bomb castle chat seek";
+var mnemonic = "tennis reward airport matrix cushion sport accuse fancy swift flame buzz betray";

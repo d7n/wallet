@@ -1,1 +1,1 @@
-var mnemonic = "girl armed glide surprise expire fitness eight pole ignore witness evolve shed";
+var mnemonic = "tree cave wheat twenty valley coyote weekend bounce enable pave honey sick";

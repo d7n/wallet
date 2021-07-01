@@ -1,1 +1,1 @@
-var mnemonic = "rhythm online edit pupil clutch arrange soft unit boat moon pattern town";
+var mnemonic = "pen exile recipe include museum fatal access electric narrow cereal south wear";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil hockey forget then skin private book room hour horror keen outside";
+var mnemonic = "artefact immune insane moon people door myth sketch fence cannon same prison";

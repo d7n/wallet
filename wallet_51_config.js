@@ -1,1 +1,1 @@
-var mnemonic = "reason wait diet sword afraid grain live exchange genuine chair craft rent";
+var mnemonic = "penalty input three tilt this demise spy enemy thumb caught enemy talk";

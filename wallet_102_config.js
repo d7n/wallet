@@ -1,1 +1,1 @@
-var mnemonic = "endless burger desk regret margin churn dilemma idle dumb great language vessel";
+var mnemonic = "space scorpion priority tornado spider web juice insane grab raccoon arrow border";

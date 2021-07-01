@@ -1,1 +1,1 @@
-var mnemonic = "height private cake elephant deer assist romance tell calm uniform close erase";
+var mnemonic = "misery cloth slot swear office ability inner machine pelican open chunk mirror";
