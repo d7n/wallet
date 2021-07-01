@@ -1,1 +1,1 @@
-var mnemonic = "file eyebrow casual soda winner steel weekend situate polar edit motor fun";
+var mnemonic = "kidney vessel ski year first empower morning build note boring city mouse";

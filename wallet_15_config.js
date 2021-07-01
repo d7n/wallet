@@ -1,1 +1,1 @@
-var mnemonic = "enjoy captain valve absent remember river illness mystery rather coral few stuff";
+var mnemonic = "trophy prize fresh order noodle turkey tortoise hand sunny hunt fiber manage";

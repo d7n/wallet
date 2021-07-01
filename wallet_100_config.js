@@ -1,1 +1,1 @@
-var mnemonic = "adjust update punch spike drum remain depth sphere pave post pistol confirm";
+var mnemonic = "party phrase bike abstract health still gallery symbol torch tourist grit toe";

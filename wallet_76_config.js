@@ -1,1 +1,1 @@
-var mnemonic = "dash inner stomach host near absorb decrease damage crash fox carry pottery";
+var mnemonic = "ordinary cloth remember report few faith coral phrase choose happy trouble grant";

@@ -1,1 +1,1 @@
-var mnemonic = "fee hollow bicycle strong oval tree ribbon will goat rocket naive general";
+var mnemonic = "trumpet topple together amused outer ice minimum year stamp number enact check";

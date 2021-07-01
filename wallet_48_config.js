@@ -1,1 +1,1 @@
-var mnemonic = "motion village whale giraffe when sausage describe armor obscure poem sausage obvious";
+var mnemonic = "blanket trend grief symptom law result dragon meadow property purchase garden tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "barely tip donkey thank empty rail rude sunset still wait collect sponsor";
+var mnemonic = "close screen flame find swap collect absurd super rain basket sun excite";

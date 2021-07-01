@@ -1,1 +1,1 @@
-var mnemonic = "flag suit medal teach eager benefit meadow bracket solve ready sing latin";
+var mnemonic = "drum plunge disease today novel spray anger possible brother baby cycle arena";

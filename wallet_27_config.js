@@ -1,1 +1,1 @@
-var mnemonic = "unusual subject armed dinosaur balance elegant hen riot lyrics human token shrimp";
+var mnemonic = "remind monster armor again warm correct kick wear similar shuffle cat culture";

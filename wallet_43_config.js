@@ -1,1 +1,1 @@
-var mnemonic = "disease village genius release goat amateur wise birth evil minute citizen noble";
+var mnemonic = "judge summer fragile arrest just rug rare motor clinic other fiber list";

@@ -1,1 +1,1 @@
-var mnemonic = "siege try equal naive blade hockey honey fire level pact utility vague";
+var mnemonic = "magnet coconut one song brief achieve early estate stumble garment cereal firm";

@@ -1,1 +1,1 @@
-var mnemonic = "shed team agree opinion cat citizen pill worry long song oval raise";
+var mnemonic = "oil course badge music slight daughter cheese order crush day summer mean";

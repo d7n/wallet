@@ -1,1 +1,1 @@
-var mnemonic = "trophy aerobic army exchange photo fine person mystery castle balance grab trophy";
+var mnemonic = "orbit cruise pledge maple patrol loud quality position muscle glue husband repair";

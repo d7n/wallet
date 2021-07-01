@@ -1,1 +1,1 @@
-var mnemonic = "embody comic boring segment regular effort measure smile spare various canyon december";
+var mnemonic = "grit minor apology picnic split orange similar worth youth useful until mention";

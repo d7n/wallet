@@ -1,1 +1,1 @@
-var mnemonic = "obvious burger raise list term empty slice jump never chunk element fish";
+var mnemonic = "pair luggage finish road plate toast limit blush until boring shrug super";

@@ -1,1 +1,1 @@
-var mnemonic = "foam diesel alien aisle toast gift wife song chair space final satisfy";
+var mnemonic = "priority require nature much use twice street process apology adult suit desk";

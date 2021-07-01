@@ -1,1 +1,1 @@
-var mnemonic = "melody success purchase matrix depth anchor globe wedding draw huge effort desert";
+var mnemonic = "orchard source book guitar liquid prison dinner illness consider shrug priority segment";

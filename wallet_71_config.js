@@ -1,1 +1,1 @@
-var mnemonic = "fluid lock foam ramp table venture memory mobile source simple behave talent";
+var mnemonic = "dentist unit guard transfer lottery calm verify demand hover damage unaware shine";

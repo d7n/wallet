@@ -1,1 +1,1 @@
-var mnemonic = "include sea pill hurdle pet ranch release aim trash sort scout task";
+var mnemonic = "hat clown excuse tent daring sun dolphin ticket eternal mix waste wash";

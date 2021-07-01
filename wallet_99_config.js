@@ -1,1 +1,1 @@
-var mnemonic = "fork rich hidden tired magic among exile rigid true spider feed fence";
+var mnemonic = "drastic suggest vintage lawn insane ladder dust tooth mammal vacant great gym";

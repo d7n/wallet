@@ -1,1 +1,1 @@
-var mnemonic = "leopard broccoli castle twin dutch sibling evolve unveil crunch sphere high ugly";
+var mnemonic = "february spray tide chronic exercise fee cube endless alpha grunt bullet worry";

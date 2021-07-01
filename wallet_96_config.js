@@ -1,1 +1,1 @@
-var mnemonic = "blur unaware error code able hawk outdoor post alley thank confirm shell";
+var mnemonic = "tower release guilt away level arena rough auto attack what cruel add";

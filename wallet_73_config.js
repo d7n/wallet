@@ -1,1 +1,1 @@
-var mnemonic = "unable cliff frequent hurt identify picture urban undo accident copper cry quiz";
+var mnemonic = "vacuum amateur sword wheat vacuum forget profit script album confirm outside learn";

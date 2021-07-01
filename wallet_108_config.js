@@ -1,1 +1,1 @@
-var mnemonic = "weekend base curve six crucial city open edge bamboo kind crew fine";
+var mnemonic = "trial private soup hybrid analyst fly engine task leopard shrug cycle drop";

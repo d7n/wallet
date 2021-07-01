@@ -1,1 +1,1 @@
-var mnemonic = "use rude spy health fog piece absent quote expire truly fuel price";
+var mnemonic = "pelican elephant until hello small sister hope armor pigeon blood merit axis";

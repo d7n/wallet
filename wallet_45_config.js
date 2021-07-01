@@ -1,1 +1,1 @@
-var mnemonic = "indicate artwork scan mobile twenty speak athlete shift force oyster own region";
+var mnemonic = "surprise sail team cream solve six elder abstract obscure shaft husband rose";

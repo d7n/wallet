@@ -1,1 +1,1 @@
-var mnemonic = "two almost decline mom derive when water pistol illegal recycle reflect portion";
+var mnemonic = "crumble arena soap quote floor place aunt fruit toy evoke gold opera";

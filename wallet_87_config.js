@@ -1,1 +1,1 @@
-var mnemonic = "shadow solution come balcony debris abstract museum lottery vacuum decide usual bamboo";
+var mnemonic = "ocean inject toss pelican desert shallow picnic maple calm just street bicycle";

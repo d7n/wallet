@@ -1,1 +1,1 @@
-var mnemonic = "hour elder man strong trouble room build south swing august never island";
+var mnemonic = "ahead liar amount budget riot walnut flush gather join ankle young gun";

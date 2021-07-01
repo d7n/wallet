@@ -1,1 +1,1 @@
-var mnemonic = "window craft solution typical space wink joke shift stone trip fabric draw";
+var mnemonic = "dash sunny equip whale emerge pottery lift monster market palace garlic vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "nation cereal sense dentist accident pencil cart ozone tide foster sauce blade";
+var mnemonic = "sunset gather hen head citizen antique prosper skill project limit silly hedgehog";

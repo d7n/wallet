@@ -1,1 +1,1 @@
-var mnemonic = "bridge notable sleep method typical tissue bullet envelope then derive decrease merge";
+var mnemonic = "panda risk height jacket ostrich master service gadget find print antique victory";

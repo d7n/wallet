@@ -1,1 +1,1 @@
-var mnemonic = "major differ slogan author check output chest lonely royal dumb test tone";
+var mnemonic = "give install clip suspect race segment rural energy grab bird radio raw";

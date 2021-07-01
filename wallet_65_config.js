@@ -1,1 +1,1 @@
-var mnemonic = "this pen ticket melt slide rubber provide view screen cabbage acid dune";
+var mnemonic = "mixed seven goddess wolf expand news remember rate naive aisle turkey naive";

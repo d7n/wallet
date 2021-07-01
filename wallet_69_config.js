@@ -1,1 +1,1 @@
-var mnemonic = "space fever purity quarter regret era caught tattoo next clap dose bamboo";
+var mnemonic = "chief path elevator artist found range sponsor chapter shadow east clarify dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "estate short foot hen grief cattle tell wool include raise race ice";
+var mnemonic = "face drift use afraid review skill goat brand yellow valid noise there";

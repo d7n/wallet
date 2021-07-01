@@ -1,1 +1,1 @@
-var mnemonic = "shoulder script page cram stick laundry disease master stuff toddler gate tree";
+var mnemonic = "light wave daring saddle ocean fan wrist tip doll plate outer arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "hen stone steel april team orphan stamp damp uncle silly viable zebra";
+var mnemonic = "pond oxygen shoot glimpse deal convince morning stem paper tower enemy boss";

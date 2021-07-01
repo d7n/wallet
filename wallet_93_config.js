@@ -1,1 +1,1 @@
-var mnemonic = "assist tip thought twist certain frost there plug short lumber subject table";
+var mnemonic = "miracle exact trophy glory fruit patrol tiny bread choose split disorder aunt";

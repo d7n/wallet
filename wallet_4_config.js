@@ -1,1 +1,1 @@
-var mnemonic = "crush problem scare blast talk record drum inherit reject attack industry theory";
+var mnemonic = "mass penalty mention gap ice verb town top mixture neglect adapt rubber";

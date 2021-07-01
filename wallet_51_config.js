@@ -1,1 +1,1 @@
-var mnemonic = "swing glove quick story option teach basket scan across student skill sure";
+var mnemonic = "bread error hobby arena elite cage exhibit write jaguar gallery fat below";

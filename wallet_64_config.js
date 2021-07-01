@@ -1,1 +1,1 @@
-var mnemonic = "add sustain glare sponsor mouse vast hover abuse laptop seed measure warrior";
+var mnemonic = "end bubble mutual struggle tattoo cupboard receive dizzy runway actual parent labor";

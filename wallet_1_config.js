@@ -1,1 +1,1 @@
-var mnemonic = "burden critic body only law basic ozone young imitate monster window black";
+var mnemonic = "spirit exhibit replace bunker tenant decide frown time woman room index local";

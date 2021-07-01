@@ -1,1 +1,1 @@
-var mnemonic = "evoke scan more coach emotion present island girl lunar exist tuna myself";
+var mnemonic = "question celery ozone group valid layer accuse crouch neutral stamp cannon mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony blur club race mean unknown six race uniform raw input junk";
+var mnemonic = "deputy execute aunt dentist sudden initial rapid you laptop canal throw submit";

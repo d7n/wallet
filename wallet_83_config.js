@@ -1,1 +1,1 @@
-var mnemonic = "invest area human liquid paddle during drive walnut when foil blur buffalo";
+var mnemonic = "crush oil announce screen floor answer undo neither beyond away harvest among";

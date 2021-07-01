@@ -1,1 +1,1 @@
-var mnemonic = "boring service voyage flash cheap obvious equip scheme relax unknown use pistol";
+var mnemonic = "soon hundred toy fitness chase drum object fish tank rifle differ soup";

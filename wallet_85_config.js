@@ -1,1 +1,1 @@
-var mnemonic = "town sauce reveal flee extra wing sketch arrive know useless will salon";
+var mnemonic = "erase dignity vintage purse era power limit patient employ flush lazy dinosaur";

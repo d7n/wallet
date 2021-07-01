@@ -1,1 +1,1 @@
-var mnemonic = "market program inhale sheriff cry laundry destroy ensure iron join arena desert";
+var mnemonic = "escape thank word ask carbon habit left annual exotic absorb faculty south";

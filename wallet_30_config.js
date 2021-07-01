@@ -1,1 +1,1 @@
-var mnemonic = "when hip crisp proud claw yard suspect spend gym junk phrase replace";
+var mnemonic = "prepare tomorrow argue mystery blind youth volcano chunk leaf prefer defy twenty";

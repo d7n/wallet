@@ -1,1 +1,1 @@
-var mnemonic = "muscle ride speak virtual knife chapter warrior cash canoe issue tone recall";
+var mnemonic = "eyebrow spin swear obvious must print bread peanut girl identify quantum dial";

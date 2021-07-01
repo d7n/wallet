@@ -1,1 +1,1 @@
-var mnemonic = "shield divert cart shallow wrist deputy humor inhale roof arrange relax click";
+var mnemonic = "title unfold fragile mushroom hip scrub intact exchange planet uncover elegant cement";

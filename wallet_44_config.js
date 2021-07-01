@@ -1,1 +1,1 @@
-var mnemonic = "bar swarm net stool next true reject hospital timber silly myself antenna";
+var mnemonic = "hope wonder love cram force oven wide airport awkward thunder price finish";

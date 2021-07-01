@@ -1,1 +1,1 @@
-var mnemonic = "usage badge wife mechanic abstract trophy tattoo addict short husband post point";
+var mnemonic = "quote jungle lucky comic drama rabbit nerve climb few bubble smoke amateur";

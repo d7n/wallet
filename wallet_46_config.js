@@ -1,1 +1,1 @@
-var mnemonic = "helmet oblige census venue obscure december rebuild summer gloom board they avocado";
+var mnemonic = "diagram glow forward ill beach violin glory very wild report tobacco final";

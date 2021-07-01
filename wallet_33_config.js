@@ -1,1 +1,1 @@
-var mnemonic = "riot orchard equip rule inform rough mesh banana afraid develop absorb blood";
+var mnemonic = "armor leader tuition bullet real book language sweet letter almost source skull";

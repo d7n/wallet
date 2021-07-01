@@ -1,1 +1,1 @@
-var mnemonic = "forest future session circle mouse jelly idea tired accident trumpet chalk rival";
+var mnemonic = "educate soon nasty finish spell blush produce excite warrior control permit supply";

@@ -1,1 +1,1 @@
-var mnemonic = "student meat symptom water quick tragic bargain bus jelly miracle cricket globe";
+var mnemonic = "model forward practice sport nature glimpse movie permit speak soul degree suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse few coyote small planet sister tobacco already seat title custom gospel";
+var mnemonic = "zone autumn scout brain crime hat switch host turkey glare sugar same";

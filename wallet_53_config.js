@@ -1,1 +1,1 @@
-var mnemonic = "either crunch project rigid success bicycle rescue all path soccer tenant sunset";
+var mnemonic = "margin say olympic subway library culture fade wing size fiber man noble";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce tattoo deal recycle usage soccer offer rather news evil fiscal pluck";
+var mnemonic = "crowd funny scale board cattle size series west first raw round guitar";

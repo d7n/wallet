@@ -1,1 +1,1 @@
-var mnemonic = "exist ketchup cereal fresh impulse own embody pudding increase junior robust world";
+var mnemonic = "drill champion educate accident warfare adjust salmon dove thunder torch blind alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney noble vault balcony blade section web depth churn hope club destroy";
+var mnemonic = "sausage caught phone biology victory buffalo fold echo uncover rotate end delay";

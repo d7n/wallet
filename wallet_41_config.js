@@ -1,1 +1,1 @@
-var mnemonic = "combine artwork silk shiver kitchen gold shoulder pitch level possible wealth unable";
+var mnemonic = "meadow hello trip recipe benefit impose sweet shadow economy celery empower stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "weird vast lift mouse sausage print future raven weapon retreat ball horn";
+var mnemonic = "team mule differ knee company swamp tissue feed wrestle apart dynamic iron";

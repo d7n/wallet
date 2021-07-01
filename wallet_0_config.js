@@ -1,1 +1,1 @@
-var mnemonic = "riot public yard organ inquiry light news barely face air cry lady";
+var mnemonic = "armor roast knife ensure digital helmet mention orchard gentle fly vital position";

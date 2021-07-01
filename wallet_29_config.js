@@ -1,1 +1,1 @@
-var mnemonic = "quiz glass pen slab jar piano tonight nothing still image copper gesture";
+var mnemonic = "key toilet unhappy never minor match clutch cinnamon shrug nothing shine domain";

@@ -1,1 +1,1 @@
-var mnemonic = "three satisfy promote borrow pause deny risk lawsuit trial safe indoor myself";
+var mnemonic = "sight grief canvas swear skill guilt core friend chest suspect tide long";

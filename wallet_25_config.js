@@ -1,1 +1,1 @@
-var mnemonic = "pelican juice human omit glad marriage casual tooth label have pyramid rocket";
+var mnemonic = "wreck glove myth choice lens number spoon improve chase clump office misery";

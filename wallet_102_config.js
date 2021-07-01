@@ -1,1 +1,1 @@
-var mnemonic = "endless pass visit proof victory meat canal appear grab into plug unit";
+var mnemonic = "host this aisle entry remember own chimney ocean correct magnet sorry blue";

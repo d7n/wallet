@@ -1,1 +1,1 @@
-var mnemonic = "connect cover initial crisp galaxy card business result transfer scrap giraffe ozone";
+var mnemonic = "emerge capable slush adult clerk claw hat velvet slab liberty fence milk";

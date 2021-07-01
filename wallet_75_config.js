@@ -1,1 +1,1 @@
-var mnemonic = "mix guard ship space win ball awful cushion siren key grunt penalty";
+var mnemonic = "forward unaware draft creek apology pattern busy supply siren young easy injury";

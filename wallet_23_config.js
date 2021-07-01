@@ -1,1 +1,1 @@
-var mnemonic = "gap water popular square crawl purchase awesome six almost same parade average";
+var mnemonic = "lizard where shaft salt spoil razor vintage flat knee final wire notable";

@@ -1,1 +1,1 @@
-var mnemonic = "version marriage common leader tree knee code sense first express flower relax";
+var mnemonic = "unknown profit body symbol novel eagle judge aim hover struggle drama subway";

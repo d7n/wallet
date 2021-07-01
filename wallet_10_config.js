@@ -1,1 +1,1 @@
-var mnemonic = "wide echo banner barely decide employ patient miss milk surface wire cluster";
+var mnemonic = "guitar mystery mule renew teach mother chunk absurd behave erupt journey clean";

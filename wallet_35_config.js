@@ -1,1 +1,1 @@
-var mnemonic = "pretty lift casual swarm primary pupil confirm regular urban antique wrist decorate";
+var mnemonic = "public meadow rough ranch cage core throw energy immense town provide harvest";

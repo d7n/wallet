@@ -1,1 +1,1 @@
-var mnemonic = "february jealous jewel vicious tool cake fire panther muffin remain exact tube";
+var mnemonic = "clerk chapter faith novel flat day virtual home doctor impact pencil couple";

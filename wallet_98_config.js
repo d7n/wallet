@@ -1,1 +1,1 @@
-var mnemonic = "point mad lock road exhaust flame dog travel supply chuckle coach rebuild";
+var mnemonic = "horror book immune rabbit gesture cigar taste double acid blue wage skirt";

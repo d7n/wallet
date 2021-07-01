@@ -1,1 +1,1 @@
-var mnemonic = "unusual scan smart consider lyrics master decorate second false rural weasel judge";
+var mnemonic = "off evolve enough learn approve raise amateur pretty rail hood answer above";

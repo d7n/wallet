@@ -1,1 +1,1 @@
-var mnemonic = "cup soon code solid bulk journey ecology radio click peasant limb neglect";
+var mnemonic = "script steel brass royal vicious fence equal issue increase flavor eternal duck";

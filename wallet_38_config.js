@@ -1,1 +1,1 @@
-var mnemonic = "coin drop bread nerve chimney smart multiply garage level thought rely pen";
+var mnemonic = "mix build among bridge script change song foster actress patch knife agent";

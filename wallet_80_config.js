@@ -1,1 +1,1 @@
-var mnemonic = "pole shop finish sock attend you catalog capital open crane tobacco differ";
+var mnemonic = "pool stairs helmet later alter lobster inject parent glow noodle still response";

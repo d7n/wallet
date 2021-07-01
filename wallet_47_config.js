@@ -1,1 +1,1 @@
-var mnemonic = "dynamic proud between trap chicken abstract usage strong advice phrase double pole";
+var mnemonic = "deal trap symptom sibling start chest pelican rain program final attend other";

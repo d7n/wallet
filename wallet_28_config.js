@@ -1,1 +1,1 @@
-var mnemonic = "tenant album doll find interest property adapt sword sell bridge labor jazz";
+var mnemonic = "web much safe clinic noble hard asset census evidence edit differ drastic";

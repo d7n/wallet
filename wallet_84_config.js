@@ -1,1 +1,1 @@
-var mnemonic = "permit kiwi pattern soccer soccer problem luggage stumble spy enact cost where";
+var mnemonic = "proof spy rely pluck scan diet spatial fruit wave setup humble you";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow wolf help wagon foster assist comic display artwork else view impact";
+var mnemonic = "office silly picture lottery gentle champion position scrub agent mystery uncle equal";

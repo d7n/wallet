@@ -1,1 +1,1 @@
-var mnemonic = "entire orbit ready aerobic elephant cradle enter deal total task symbol tray";
+var mnemonic = "obey drastic excite onion case lumber stomach govern ranch gentle betray cry";

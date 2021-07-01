@@ -1,1 +1,1 @@
-var mnemonic = "various sunny salt pumpkin network board sudden there broccoli gift tennis nuclear";
+var mnemonic = "mango donor inmate coin clown game someone arrive climb deposit grocery material";

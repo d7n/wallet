@@ -1,1 +1,1 @@
-var mnemonic = "vapor weapon inner network unfold payment vital require shrug zoo glue this";
+var mnemonic = "annual kitten pulse source feed security festival gift describe era surround stuff";

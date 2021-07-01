@@ -1,1 +1,1 @@
-var mnemonic = "deny autumn solution purse rude below track doctor guess alert circle post";
+var mnemonic = "puzzle success actor father begin unit sting animal snack toddler leaf kitten";

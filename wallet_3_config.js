@@ -1,1 +1,1 @@
-var mnemonic = "sponsor harvest media dwarf patrol stage occur wall sunny breeze lemon middle";
+var mnemonic = "duty message flight tide pass side air foil tobacco reunion struggle exhibit";

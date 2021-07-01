@@ -1,1 +1,1 @@
-var mnemonic = "around cross bid sort fish cry own affair solid mistake nephew company";
+var mnemonic = "wife frame camera way treat voice wool basket child tortoise edit moment";

@@ -1,1 +1,1 @@
-var mnemonic = "fold cigar upon around easy confirm cute viable snap flight donate benefit";
+var mnemonic = "body engage pink ostrich ribbon vendor shaft balance ranch walk since track";

@@ -1,1 +1,1 @@
-var mnemonic = "stove minor base maximum next opera high car club satisfy meat one";
+var mnemonic = "lake bright ensure inmate grab divide trouble farm join illegal toilet avocado";

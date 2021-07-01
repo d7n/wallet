@@ -1,1 +1,1 @@
-var mnemonic = "sport blush maid guide drip brain phrase that caution moment jaguar promote";
+var mnemonic = "veteran provide window weird betray zero census give betray leader youth moment";
