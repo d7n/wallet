@@ -1,1 +1,1 @@
-var mnemonic = "fix grow lunar usage deal claim clutch unaware discover grocery lottery abandon";
+var mnemonic = "taste soft update cloud gas accuse grocery such found cousin track theory";

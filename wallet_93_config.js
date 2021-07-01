@@ -1,1 +1,1 @@
-var mnemonic = "wrap innocent manage alarm minute light imitate grape invite eagle inform army";
+var mnemonic = "marine insect debate survey arrive kid guilt arch lock border chunk broccoli";

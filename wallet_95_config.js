@@ -1,1 +1,1 @@
-var mnemonic = "renew way nose library advance deer scene region jeans over impulse twice";
+var mnemonic = "zebra spoil ginger erupt divert myth museum critic traffic crowd where off";

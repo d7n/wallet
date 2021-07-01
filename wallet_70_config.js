@@ -1,1 +1,1 @@
-var mnemonic = "eight chronic virtual kangaroo middle consider sweet popular license quote injury coyote";
+var mnemonic = "rose kingdom outside major corn surround early eight feature until blind army";

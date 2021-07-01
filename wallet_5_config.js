@@ -1,1 +1,1 @@
-var mnemonic = "anger struggle dizzy talent jazz leaf dilemma occur again unique rib rebuild";
+var mnemonic = "response elbow gesture accident initial pumpkin stock shaft tomato blade birth deal";

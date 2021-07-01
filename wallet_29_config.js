@@ -1,1 +1,1 @@
-var mnemonic = "stable humble myself renew eyebrow library often science turkey quick tobacco rough";
+var mnemonic = "credit inject item mandate glass need rubber check witness gift outside banana";

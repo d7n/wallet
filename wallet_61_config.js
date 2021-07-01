@@ -1,1 +1,1 @@
-var mnemonic = "van loop mercy alert metal outdoor attack patch deal host ride invite";
+var mnemonic = "quarter sail dawn orient sock wedding jazz appear upon mom oyster april";

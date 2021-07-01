@@ -1,1 +1,1 @@
-var mnemonic = "frost medal journey cattle parrot train grace muscle maple typical night future";
+var mnemonic = "neglect fatal soccer middle echo worth poem eager veteran robust switch inform";

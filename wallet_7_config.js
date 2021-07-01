@@ -1,1 +1,1 @@
-var mnemonic = "pave seven noodle skull festival daring vivid tell champion giant neck gain";
+var mnemonic = "cabbage idle mercy armor asset soup wrong chase minute common marriage surround";

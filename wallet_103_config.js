@@ -1,1 +1,1 @@
-var mnemonic = "sure file impose cactus race link phrase lend lemon raw credit thing";
+var mnemonic = "patrol never whip tiger garbage slight wealth immune cruel metal caution across";

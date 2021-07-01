@@ -1,1 +1,1 @@
-var mnemonic = "either motor ill attract staff carry stable mom task defense pair hundred";
+var mnemonic = "lucky banner banana return question copper best pet library neutral discover easily";

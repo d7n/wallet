@@ -1,1 +1,1 @@
-var mnemonic = "humor common grief green involve lady bottom wheel mistake sad corn manage";
+var mnemonic = "tribe absorb cake panic feel clay leisure apart depend sorry border away";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain what galaxy once merry slim alert actor electric pill since razor";
+var mnemonic = "rough museum symptom spawn spoil year myself tool zone notable frozen ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "detect veteran thrive danger remove canoe gown floor behind cart twenty vault";
+var mnemonic = "nasty hat sea enter weekend vehicle address inch trap visual tenant turn";

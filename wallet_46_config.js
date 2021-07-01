@@ -1,1 +1,1 @@
-var mnemonic = "arrive tonight rebel predict destroy above stand toddler cause ecology clay swamp";
+var mnemonic = "wish betray lava romance brain coach embark unable accuse actor home loud";

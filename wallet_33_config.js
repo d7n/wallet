@@ -1,1 +1,1 @@
-var mnemonic = "hope front claw laundry cannon goddess squirrel bean dish juice behind gasp";
+var mnemonic = "shy seven fat once pattern catch true crack curious post today human";

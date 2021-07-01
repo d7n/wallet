@@ -1,1 +1,1 @@
-var mnemonic = "camp elevator cousin champion path upset lion abandon spray pencil fan answer";
+var mnemonic = "resource birth drop review keen pumpkin because bracket deal prepare dune robust";

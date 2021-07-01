@@ -1,1 +1,1 @@
-var mnemonic = "casual imitate category rose middle comic grape chicken track blood require black";
+var mnemonic = "people empty garage clip shield celery dry undo enhance laptop thunder identify";

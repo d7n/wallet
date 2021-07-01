@@ -1,1 +1,1 @@
-var mnemonic = "draft what state caught announce remain lumber clock pelican apple jewel coast";
+var mnemonic = "interest road quote unfair firm enjoy buzz alert remind pipe salmon leopard";

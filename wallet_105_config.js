@@ -1,1 +1,1 @@
-var mnemonic = "buddy scrap bike crunch dismiss you depend volume decorate lecture weasel order";
+var mnemonic = "flush theme long glass possible what upper slush aisle library indoor base";

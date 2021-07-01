@@ -1,1 +1,1 @@
-var mnemonic = "venue maximum weird super include gossip scissors keen core exhibit swift west";
+var mnemonic = "burst because wait fetch addict bar toward toddler south twelve canoe thumb";

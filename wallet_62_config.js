@@ -1,1 +1,1 @@
-var mnemonic = "glue foil into lake chair tip pass teach business wisdom able south";
+var mnemonic = "method void lady model clinic join roof public pizza neutral awkward churn";

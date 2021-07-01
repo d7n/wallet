@@ -1,1 +1,1 @@
-var mnemonic = "depend library leopard custom dry worry race fade pass spot tumble west";
+var mnemonic = "drift pupil act slow torch wedding quit juice normal deliver bless aisle";

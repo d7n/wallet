@@ -1,1 +1,1 @@
-var mnemonic = "inside return rather piano state sorry monster diamond decide rain snap rather";
+var mnemonic = "desert key song scrap wage crack crazy rain deny jacket shield unknown";

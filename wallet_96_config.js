@@ -1,1 +1,1 @@
-var mnemonic = "iron bachelor check auction wife equip process then vessel rice few worth";
+var mnemonic = "small south manual spread job sight change inmate whip license enable foil";

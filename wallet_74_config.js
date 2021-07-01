@@ -1,1 +1,1 @@
-var mnemonic = "fix blind diesel help helmet exile author ritual question enlist nature error";
+var mnemonic = "leave puzzle shaft bitter smile calm category story soda direct rabbit tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "climb split amateur certain galaxy absurd muscle brick gentle spread version faint";
+var mnemonic = "pioneer kingdom dash merit horse stereo burger method frost island author candy";

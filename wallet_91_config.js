@@ -1,1 +1,1 @@
-var mnemonic = "joke sniff robot icon clever orchard security age artist deal six physical";
+var mnemonic = "width human voice fatigue suspect debris phone vehicle office argue upon coffee";

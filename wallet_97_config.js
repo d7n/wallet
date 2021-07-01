@@ -1,1 +1,1 @@
-var mnemonic = "theory jacket hawk fragile tourist angry oppose wisdom thumb father tonight city";
+var mnemonic = "sleep art acquire size rocket time blame benefit include live sheriff organ";

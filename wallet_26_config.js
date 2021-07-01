@@ -1,1 +1,1 @@
-var mnemonic = "danger true will enemy bronze beauty crystal melody labor oven blossom else";
+var mnemonic = "mother identify inspire decline spell picture foil robust edge invest annual suspect";

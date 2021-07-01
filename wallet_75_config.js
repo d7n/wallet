@@ -1,1 +1,1 @@
-var mnemonic = "useful confirm sad coil damp admit tilt three club naive surround either";
+var mnemonic = "twin finger breeze shrimp detect brief cheese equal inform food fix orient";

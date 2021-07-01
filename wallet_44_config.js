@@ -1,1 +1,1 @@
-var mnemonic = "slender typical castle cushion rather circle moral fit tail advice month carbon";
+var mnemonic = "pride word school monkey train book legend senior key hair churn sword";

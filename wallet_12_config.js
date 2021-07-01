@@ -1,1 +1,1 @@
-var mnemonic = "split labor satoshi foam february bag elephant boat vague text school story";
+var mnemonic = "size quarter grit jealous around logic fancy eight knock garden shoe ski";

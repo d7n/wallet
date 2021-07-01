@@ -1,1 +1,1 @@
-var mnemonic = "final museum busy tent mansion opera child anxiety muscle thumb drift sport";
+var mnemonic = "practice film network penalty control wheel vibrant initial orange add effort grant";

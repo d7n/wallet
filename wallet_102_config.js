@@ -1,1 +1,1 @@
-var mnemonic = "fit patch inflict ancient hobby stadium trick unhappy wheel apology service around";
+var mnemonic = "entire hazard payment grit attack interest hour alcohol pole eye love embody";

@@ -1,1 +1,1 @@
-var mnemonic = "alien comfort guide guilt tank cancel motor flip famous survey business long";
+var mnemonic = "marriage segment assist betray dice task biology midnight permit charge hint mother";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant valve oak resource ride famous lounge emotion glance people celery reflect";
+var mnemonic = "feel path sibling medal system debris camp acquire couch endorse pink forest";

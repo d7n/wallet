@@ -1,1 +1,1 @@
-var mnemonic = "front divorce drive tackle rebuild whip fun funny toddler special satoshi original";
+var mnemonic = "curious loud afford master viable sing island sentence attract this zoo parrot";

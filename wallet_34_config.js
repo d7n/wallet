@@ -1,1 +1,1 @@
-var mnemonic = "asthma escape cost illness kind black silk month bundle cram opinion art";
+var mnemonic = "circle table mango live vessel sound humble jungle sibling festival renew grief";

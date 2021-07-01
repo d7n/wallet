@@ -1,1 +1,1 @@
-var mnemonic = "above absent fee display anchor famous alley midnight arrive interest vast produce";
+var mnemonic = "hockey marriage scout fix apart core wrestle discover enforce audit wreck mesh";

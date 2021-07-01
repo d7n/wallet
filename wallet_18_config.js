@@ -1,1 +1,1 @@
-var mnemonic = "patrol fee able hire advice busy trial south aware clay remove favorite";
+var mnemonic = "marine debate supreme damage merit clump power expand jelly clock argue memory";

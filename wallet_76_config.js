@@ -1,1 +1,1 @@
-var mnemonic = "orient unable crack slam maid whisper cigar sugar breeze frequent demise job";
+var mnemonic = "chair okay zoo large october secret hand forget tent chaos common usage";

@@ -1,1 +1,1 @@
-var mnemonic = "chase pill token attitude pencil across card fox film furnace device scatter";
+var mnemonic = "science vapor act blame enemy soccer invest hockey roof nation wall rice";

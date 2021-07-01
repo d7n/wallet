@@ -1,1 +1,1 @@
-var mnemonic = "slim eight satoshi demise luxury obvious zebra grunt absent puzzle struggle purity";
+var mnemonic = "tackle effort voice human deputy sniff hurdle egg sister pond camp fever";

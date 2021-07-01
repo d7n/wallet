@@ -1,1 +1,1 @@
-var mnemonic = "bag arrest layer sail elephant comfort total primary monster hundred much fossil";
+var mnemonic = "dry predict hole practice tourist job road member uniform people young oval";

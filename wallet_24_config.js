@@ -1,1 +1,1 @@
-var mnemonic = "never heart trust raw sentence law anxiety chest utility measure strong travel";
+var mnemonic = "pepper depth knee rescue scrap ramp swarm choose february cruel salt section";

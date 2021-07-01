@@ -1,1 +1,1 @@
-var mnemonic = "orange argue kangaroo give track ski away author shed unfold leader vivid";
+var mnemonic = "empower away excuse snap human purse bunker walnut tiger captain domain excite";

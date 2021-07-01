@@ -1,1 +1,1 @@
-var mnemonic = "finger source donate slush west crucial river road vital exchange ecology large";
+var mnemonic = "shallow universe security slab shoulder tip among supreme this slam top saddle";

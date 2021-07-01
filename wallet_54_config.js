@@ -1,1 +1,1 @@
-var mnemonic = "hair hundred clerk orphan frame vanish cube critic benefit glare page abuse";
+var mnemonic = "laptop travel aim energy wedding speed sugar destroy rain fragile found antenna";

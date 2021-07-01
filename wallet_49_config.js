@@ -1,1 +1,1 @@
-var mnemonic = "breeze blood dish captain smile olive direct noise clutch remember fade model";
+var mnemonic = "monitor season sustain profit inject diet social remind artwork weekend lunch behind";

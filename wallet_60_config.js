@@ -1,1 +1,1 @@
-var mnemonic = "crime mention segment twin hazard bubble celery brisk mutual awake invest lawsuit";
+var mnemonic = "north add flock captain random trend web repair bounce soup pizza quiz";

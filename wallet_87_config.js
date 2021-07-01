@@ -1,1 +1,1 @@
-var mnemonic = "diesel impulse sauce flip slight grain water tomato push tobacco hint place";
+var mnemonic = "body cancel eight april inmate taste erosion guard degree become section table";

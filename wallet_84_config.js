@@ -1,1 +1,1 @@
-var mnemonic = "side torch occur two cargo lazy wish large giant genre dune polar";
+var mnemonic = "mirror deputy rocket abandon gossip plug dance banner mutual simple will stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt typical pretty gun please medal soul clock giraffe unfair hip acquire";
+var mnemonic = "stool faculty damp group blast tooth visit wave put rotate apology place";

@@ -1,1 +1,1 @@
-var mnemonic = "come stable position hover season apple maple scrub fault one average park";
+var mnemonic = "gauge silk punch bulb edit allow speed bachelor cash virtual scene water";

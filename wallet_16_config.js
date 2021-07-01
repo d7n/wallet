@@ -1,1 +1,1 @@
-var mnemonic = "trick affair divorce opera key imitate couple enact awesome infant gaze dinner";
+var mnemonic = "glide inch net student trend betray mad surprise vault other slogan blue";

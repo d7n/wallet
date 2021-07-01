@@ -1,1 +1,1 @@
-var mnemonic = "dash short either organ family patient math luxury brain wreck sniff popular";
+var mnemonic = "company deny apple cloud leisure energy define economy enrich stable day tonight";

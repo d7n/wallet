@@ -1,1 +1,1 @@
-var mnemonic = "welcome rebel divide gadget include advance buffalo rival museum estate heavy tornado";
+var mnemonic = "caution bullet ranch clip tonight wealth link awake resemble lake fiscal portion";

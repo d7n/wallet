@@ -1,1 +1,1 @@
-var mnemonic = "garbage hedgehog earn broom riot pencil transfer hand pill helmet joy orbit";
+var mnemonic = "spray scout together odor dad sheriff enact uniform indoor breeze food addict";

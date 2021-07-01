@@ -1,1 +1,1 @@
-var mnemonic = "lava avoid hill return filter know discover stumble awesome outdoor idle private";
+var mnemonic = "balcony hammer dismiss seek banana tackle dance atom summer depend car inquiry";

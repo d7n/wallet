@@ -1,1 +1,1 @@
-var mnemonic = "valid own garment distance wine supreme timber midnight please until champion auction";
+var mnemonic = "excuse oven please flee vast image universe blossom erase below stove top";

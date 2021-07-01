@@ -1,1 +1,1 @@
-var mnemonic = "talk toe tunnel differ cash cash wrist rain helmet toast cloud during";
+var mnemonic = "alarm trigger rocket brass urban visa often wasp month sausage master yard";

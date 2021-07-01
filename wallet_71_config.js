@@ -1,1 +1,1 @@
-var mnemonic = "vivid resist club biology fall episode olive orphan power spray ignore swarm";
+var mnemonic = "tongue denial column panda forest poem culture ordinary twenty truly again quote";

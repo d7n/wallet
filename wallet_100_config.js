@@ -1,1 +1,1 @@
-var mnemonic = "ticket fox intact display frown purchase ankle differ neck demise much unveil";
+var mnemonic = "hand rent comfort table real mosquito govern order argue depend scrub scheme";

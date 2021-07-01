@@ -1,1 +1,1 @@
-var mnemonic = "senior perfect cash large proof polar strike toward tomato vessel fault possible";
+var mnemonic = "approve obscure health damage fade decrease crunch hotel lady matter fish close";

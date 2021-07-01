@@ -1,1 +1,1 @@
-var mnemonic = "umbrella chalk finger face nature inside woman fresh program buddy knee ethics";
+var mnemonic = "derive bullet firm size world pet debris nasty fabric have speed wall";

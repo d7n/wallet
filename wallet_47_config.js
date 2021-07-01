@@ -1,1 +1,1 @@
-var mnemonic = "grid fancy orange flat ginger length kangaroo draft unhappy industry moment under";
+var mnemonic = "author reward total draw memory journey above token father vital spring topic";

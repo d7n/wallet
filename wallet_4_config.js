@@ -1,1 +1,1 @@
-var mnemonic = "height super trend horn spend nut mobile vivid once seed light busy";
+var mnemonic = "portion match coin gasp abuse height motion topple fence ocean legal axis";

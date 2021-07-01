@@ -1,1 +1,1 @@
-var mnemonic = "keen machine diagram pulp group misery antenna predict hip room tattoo ten";
+var mnemonic = "maximum kingdom orbit frequent maze abuse recipe actress hybrid slam sing amateur";

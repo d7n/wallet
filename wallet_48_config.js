@@ -1,1 +1,1 @@
-var mnemonic = "game image income hospital glimpse pass mushroom accuse invest gym club forum";
+var mnemonic = "burger dash double hundred olympic axis make tone comic hedgehog honey glide";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter snack select author will under group nice path illegal hour demise";
+var mnemonic = "spatial crash spend system soup artist addict close taxi claim inmate jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo trophy pole slow finish wreck invest term mirror student that only";
+var mnemonic = "unknown renew sheriff month spider piano gravity guitar three velvet pipe real";

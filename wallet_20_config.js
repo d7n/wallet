@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon comfort scale diesel angry sting ketchup fever deal ridge grocery loop";
+var mnemonic = "garden spare virus envelope rich horn ugly already cat powder addict size";

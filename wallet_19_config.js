@@ -1,1 +1,1 @@
-var mnemonic = "antenna manage fun want ecology strong drip give tobacco aunt primary gate";
+var mnemonic = "witness ill fabric trip profit stock office impose spider hybrid town gold";

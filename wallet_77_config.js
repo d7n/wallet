@@ -1,1 +1,1 @@
-var mnemonic = "wise wagon script silent time federal ritual table broccoli sense board document";
+var mnemonic = "tower coconut sing movie embrace sign sun brand song aspect release crouch";

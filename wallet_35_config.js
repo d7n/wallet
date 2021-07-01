@@ -1,1 +1,1 @@
-var mnemonic = "taxi balance addict silk weird kite inmate fork thumb remove inquiry slogan";
+var mnemonic = "scale fragile shield toast turtle stock sudden little mansion trim race dismiss";

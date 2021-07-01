@@ -1,1 +1,1 @@
-var mnemonic = "stable wave stage spread snack bronze approve cricket grant client unlock shiver";
+var mnemonic = "humor fantasy cook clutch taste poem cart glare unaware silk good aim";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble grass age gentle toddler ladder convince fault pair denial admit among";
+var mnemonic = "cup initial brick leaf prepare pudding fault eternal bone train alley dress";

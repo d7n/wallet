@@ -1,1 +1,1 @@
-var mnemonic = "rubber draw ocean sheriff decline roof between affair coil pink recycle pistol";
+var mnemonic = "chuckle gun forest copy tennis lounge melody turtle artwork cable fly cave";

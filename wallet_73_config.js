@@ -1,1 +1,1 @@
-var mnemonic = "salad develop journey actor clog end advance immense shed frozen never cruel";
+var mnemonic = "tide morning proud essence aim cliff describe shallow arch zoo rubber airport";

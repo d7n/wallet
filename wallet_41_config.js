@@ -1,1 +1,1 @@
-var mnemonic = "hybrid entry extend again bacon smoke begin turtle scene regret trumpet page";
+var mnemonic = "again town anger prison fence this garden foam news ring vault trash";

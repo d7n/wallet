@@ -1,1 +1,1 @@
-var mnemonic = "section frozen citizen breeze mixture path cool guilt dinosaur device fork spin";
+var mnemonic = "boost exact gain cave ritual invite world ensure sponsor index fine stand";

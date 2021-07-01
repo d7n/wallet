@@ -1,1 +1,1 @@
-var mnemonic = "grit person naive nominee palm hard ahead arrest gun tornado fold intact";
+var mnemonic = "narrow outer avoid oblige amount guard drill potato conduct reveal gospel school";

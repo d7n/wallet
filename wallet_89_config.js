@@ -1,1 +1,1 @@
-var mnemonic = "pencil another couch desk shell cruise dash dance garage poet toe material";
+var mnemonic = "cat resource solar fire person loan wait when teach budget cigar tonight";
