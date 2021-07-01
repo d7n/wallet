@@ -1,1 +1,1 @@
-var mnemonic = "royal snow torch proof suit dismiss kingdom satisfy spot drill click ticket";
+var mnemonic = "athlete senior valve front dune argue south path vehicle choose turtle shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber toddler only enemy auto ski purpose ranch original scrap buffalo reflect";
+var mnemonic = "ahead fork secret endorse ranch can judge still angle prison flame audit";

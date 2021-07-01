@@ -1,1 +1,1 @@
-var mnemonic = "involve hamster question actress series flee story finish universe unhappy sunny tide";
+var mnemonic = "average carbon fun journey matrix over step argue more soldier catalog tree";

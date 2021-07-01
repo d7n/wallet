@@ -1,1 +1,1 @@
-var mnemonic = "rack connect stumble daughter debris april super sentence chicken mystery false dinner";
+var mnemonic = "library balance average fatal fame punch reveal oblige august hotel quick minute";

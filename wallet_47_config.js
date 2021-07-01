@@ -1,1 +1,1 @@
-var mnemonic = "village door bunker bread live debris uniform tank traffic keep discover explain";
+var mnemonic = "inquiry culture invest guitar apple circle real cause occur rice soda surge";

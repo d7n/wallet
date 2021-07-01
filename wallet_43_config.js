@@ -1,1 +1,1 @@
-var mnemonic = "leader illegal mention pull submit sweet gaze patrol install despair sentence amazing";
+var mnemonic = "reform glue wink orbit ethics rally around street race method tribe any";

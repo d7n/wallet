@@ -1,1 +1,1 @@
-var mnemonic = "option problem deny plug praise eagle play panther found brain virtual purse";
+var mnemonic = "impact resist canvas monster cabin beach paddle medal mother seven again name";

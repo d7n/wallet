@@ -1,1 +1,1 @@
-var mnemonic = "drink pulse peace right fault doctor today parade puzzle proof unit gossip";
+var mnemonic = "stairs junior wear deposit topic bless lemon fat cradle jungle hire when";

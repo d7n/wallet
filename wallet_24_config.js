@@ -1,1 +1,1 @@
-var mnemonic = "entire unit talk naive cigar media uncover leave frequent mention various method";
+var mnemonic = "sugar tree chronic speed salute half foam pottery hair witness box depart";

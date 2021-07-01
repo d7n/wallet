@@ -1,1 +1,1 @@
-var mnemonic = "tip theory certain thunder play can surprise page exclude engage wide worry";
+var mnemonic = "object push humble switch note body punch snake crush slender resist into";

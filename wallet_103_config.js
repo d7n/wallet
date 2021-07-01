@@ -1,1 +1,1 @@
-var mnemonic = "loyal clay awful twelve angle begin math organ saddle spread spare silent";
+var mnemonic = "pull toddler staff soup public sort pen buddy child cute vacant divert";

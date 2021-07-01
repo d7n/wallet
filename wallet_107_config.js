@@ -1,1 +1,1 @@
-var mnemonic = "behind primary opera antique moment slow best bundle sniff dizzy tunnel virus";
+var mnemonic = "hint material correct stomach forum weather history news erase youth narrow poverty";

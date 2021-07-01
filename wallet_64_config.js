@@ -1,1 +1,1 @@
-var mnemonic = "edit mango board mass orient film number ticket upon clerk cloth month";
+var mnemonic = "shed enable direct sauce total term holiday cool quality merry diesel bitter";

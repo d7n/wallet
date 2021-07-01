@@ -1,1 +1,1 @@
-var mnemonic = "opinion cry blue owner what tourist shaft exclude sadness path scan umbrella";
+var mnemonic = "snack view tiger imitate shallow vanish salon obtain result pigeon embody laundry";

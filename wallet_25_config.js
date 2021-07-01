@@ -1,1 +1,1 @@
-var mnemonic = "rapid naive online donor ritual cave language mix inflict element horn turtle";
+var mnemonic = "fox oyster flavor beach inject ripple culture modify street fiber south live";

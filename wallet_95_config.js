@@ -1,1 +1,1 @@
-var mnemonic = "elbow behind wealth grid seed skull toe town say season salon vintage";
+var mnemonic = "senior elder also scissors visual goddess popular jeans dust inquiry weird brief";

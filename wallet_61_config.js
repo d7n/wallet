@@ -1,1 +1,1 @@
-var mnemonic = "crystal sausage brother rely critic dilemma hurdle love join hard miss rescue";
+var mnemonic = "once truth ticket cage beef kidney decide split ribbon knife simple finger";

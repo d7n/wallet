@@ -1,1 +1,1 @@
-var mnemonic = "awesome sad feel switch audit win gaze slogan result auto inner metal";
+var mnemonic = "load spread grunt hint depth that adapt spy smart dose close satisfy";

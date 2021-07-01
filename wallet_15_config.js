@@ -1,1 +1,1 @@
-var mnemonic = "enlist skull view mule visit siren pupil flower girl asthma card attitude";
+var mnemonic = "pipe bring loud olive cup nation gather imitate cliff almost same affair";

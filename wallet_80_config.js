@@ -1,1 +1,1 @@
-var mnemonic = "faith peanut comfort coffee jaguar multiply nice charge degree fury dentist divide";
+var mnemonic = "deal wrap used egg convince amount fork tomorrow boat catch become prevent";

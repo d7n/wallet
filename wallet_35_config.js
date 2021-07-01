@@ -1,1 +1,1 @@
-var mnemonic = "seed remain source hub creek bachelor cover noble library fortune grant sun";
+var mnemonic = "ranch beef absurd initial boost give clog radio banner lesson resist lake";

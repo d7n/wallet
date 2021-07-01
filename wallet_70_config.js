@@ -1,1 +1,1 @@
-var mnemonic = "sea trigger night earn jealous board uphold virus sadness chest torch rib";
+var mnemonic = "color sound toy repair track quiz magic story steel draw dutch face";

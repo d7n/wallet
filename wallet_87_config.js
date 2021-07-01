@@ -1,1 +1,1 @@
-var mnemonic = "skull alter crazy shrimp fossil wish similar silk inside relax nerve margin";
+var mnemonic = "entire true danger patrol prevent call visa dream edit keen attitude click";

@@ -1,1 +1,1 @@
-var mnemonic = "praise banana increase urban valve minimum middle neutral island mixture wonder pipe";
+var mnemonic = "word board aerobic giant divorce custom either sport stand border pair oil";

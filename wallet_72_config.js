@@ -1,1 +1,1 @@
-var mnemonic = "render bitter logic flee burden choice purse letter candy equip crucial elevator";
+var mnemonic = "chunk join cake chicken knife connect lyrics invite barrel economy bid chef";

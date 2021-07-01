@@ -1,1 +1,1 @@
-var mnemonic = "funny news predict awkward copper blanket arch crash key accuse custom person";
+var mnemonic = "problem prepare turtle view spike false answer evidence reason either hollow kick";

@@ -1,1 +1,1 @@
-var mnemonic = "flat anxiety ribbon monster unlock name episode answer wheel metal oyster above";
+var mnemonic = "traffic conduct much grain ketchup region super token vote burst divorce whip";

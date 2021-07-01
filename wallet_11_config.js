@@ -1,1 +1,1 @@
-var mnemonic = "shock rib solid much photo lock arm vapor lounge lady meadow decide";
+var mnemonic = "symbol industry decline ghost property hungry insane october industry modify destroy snow";

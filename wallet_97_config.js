@@ -1,1 +1,1 @@
-var mnemonic = "employ scout pitch erosion effort lemon use toss dad matrix vapor force";
+var mnemonic = "accident embark recipe huge then work barely force area assault fruit pledge";

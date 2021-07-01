@@ -1,1 +1,1 @@
-var mnemonic = "hamster alert fuel pig impulse enact hunt sick approve train wide salt";
+var mnemonic = "patient multiply cricket sell host clinic luggage fish security mushroom switch amused";

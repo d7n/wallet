@@ -1,1 +1,1 @@
-var mnemonic = "window sell wagon hand piano virtual boy weasel athlete grab harbor require";
+var mnemonic = "nothing nothing vast start law firm soup web tragic episode tell model";

@@ -1,1 +1,1 @@
-var mnemonic = "ask evil trick patrol chest end depart field sponsor bitter thank exotic";
+var mnemonic = "mimic foam outer goddess boat basic permit rescue outdoor heart dial jaguar";

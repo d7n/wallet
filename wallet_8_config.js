@@ -1,1 +1,1 @@
-var mnemonic = "cream bread attitude salt canoe either pause tide cube wink pistol session";
+var mnemonic = "cluster lobster fruit save settle helmet stomach hotel agent bunker coffee olive";

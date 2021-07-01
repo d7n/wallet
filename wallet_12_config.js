@@ -1,1 +1,1 @@
-var mnemonic = "skate supply pencil home mosquito obscure surprise nominee wage erode weird tray";
+var mnemonic = "clay flock vehicle miss short main throw text woman hospital reveal buzz";

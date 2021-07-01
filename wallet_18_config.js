@@ -1,1 +1,1 @@
-var mnemonic = "motion caught female mention poverty minimum ring foster soccer nature knife entry";
+var mnemonic = "dress fan guard siege inform soda whale cargo great insect captain mean";

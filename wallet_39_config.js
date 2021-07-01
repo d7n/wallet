@@ -1,1 +1,1 @@
-var mnemonic = "dream matrix start collect dutch priority lumber city magic answer guitar hidden";
+var mnemonic = "silly resource special wool rubber bid tumble vague inspire exile legal amused";

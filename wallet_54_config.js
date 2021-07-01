@@ -1,1 +1,1 @@
-var mnemonic = "faint aerobic target lottery roof shrimp phone miss cart paddle napkin thunder";
+var mnemonic = "visa elephant obey leopard birth enrich soon midnight win guard charge cave";

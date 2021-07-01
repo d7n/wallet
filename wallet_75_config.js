@@ -1,1 +1,1 @@
-var mnemonic = "vocal nephew shove isolate picture result banana guard dress grape corn soap";
+var mnemonic = "coyote cook edit march enable solution weird boss unit beyond parent metal";

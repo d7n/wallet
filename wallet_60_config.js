@@ -1,1 +1,1 @@
-var mnemonic = "filter velvet unhappy warfare clay width victory wolf obscure nerve immune piece";
+var mnemonic = "van scheme object tenant swim trash victory illness funny limb cheap silent";

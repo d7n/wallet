@@ -1,1 +1,1 @@
-var mnemonic = "trip spell wool turn soap disagree current matter expect rate knife warrior";
+var mnemonic = "sand brush old minor mixture stove dress ranch diesel rigid edge sand";

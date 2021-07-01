@@ -1,1 +1,1 @@
-var mnemonic = "icon spatial anxiety tank electric legend festival prepare arrest tank error involve";
+var mnemonic = "miracle umbrella prepare unfold album solution afford blossom glass camp twin rich";

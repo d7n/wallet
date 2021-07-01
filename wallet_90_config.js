@@ -1,1 +1,1 @@
-var mnemonic = "grab portion benefit course exchange humor thing arrest chronic flush narrow kit";
+var mnemonic = "orchard fossil where sadness swap movie cluster laptop property burst leader soldier";

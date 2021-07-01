@@ -1,1 +1,1 @@
-var mnemonic = "resemble hunt bridge loan another monster puppy daring chase under orient source";
+var mnemonic = "wild fever noodle aunt hockey equip stand hour render fancy spend aunt";

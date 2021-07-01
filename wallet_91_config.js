@@ -1,1 +1,1 @@
-var mnemonic = "connect object tomato tent lunar truth lounge aspect labor spread hidden issue";
+var mnemonic = "enable car envelope replace identify copper crumble foot wool already diamond repair";

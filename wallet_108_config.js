@@ -1,1 +1,1 @@
-var mnemonic = "uniform broom mule drive evolve bachelor proof modify vapor frequent slight wrap";
+var mnemonic = "assault fault next unfold evil phrase pottery payment gaze walk tray work";

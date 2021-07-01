@@ -1,1 +1,1 @@
-var mnemonic = "donor filter ozone wine pave else today empty require pill simple net";
+var mnemonic = "west ahead caution amount ask badge phone advance annual spray artefact mango";

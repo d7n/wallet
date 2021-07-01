@@ -1,1 +1,1 @@
-var mnemonic = "divert any fiber face soap topic curtain crime daughter flock urban during";
+var mnemonic = "sing will glory tiny caution pond dress lawsuit ice polar olympic alcohol";

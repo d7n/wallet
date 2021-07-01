@@ -1,1 +1,1 @@
-var mnemonic = "toss habit spin reduce weekend apology bag route search enlist initial fog";
+var mnemonic = "minute debate tired wish kick diagram family hill elbow dragon exclude install";

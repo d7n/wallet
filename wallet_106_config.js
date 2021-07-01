@@ -1,1 +1,1 @@
-var mnemonic = "just erosion method arena claw celery risk trust fiscal assault expect guide";
+var mnemonic = "drill term daring expose actor casino sun reunion shield resist also mail";

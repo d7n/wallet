@@ -1,1 +1,1 @@
-var mnemonic = "tattoo horse make copper brother welcome have vague common furnace symbol visit";
+var mnemonic = "allow garlic fit change split fortune snap agent naive suit staff unfair";

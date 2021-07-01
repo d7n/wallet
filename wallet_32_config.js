@@ -1,1 +1,1 @@
-var mnemonic = "ride calm burger gaze forget thunder trash pencil exercise toss uncover deputy";
+var mnemonic = "draw three hen wood bacon solar sweet cricket peanut index work jazz";

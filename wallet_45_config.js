@@ -1,1 +1,1 @@
-var mnemonic = "finish dog comic rescue catalog chaos claw april bullet phone roof fiction";
+var mnemonic = "flash conduct future where absorb grid pigeon someone mercy shock shop rule";

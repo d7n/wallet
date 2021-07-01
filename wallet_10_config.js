@@ -1,1 +1,1 @@
-var mnemonic = "aunt draw combine grocery oak helmet meat swim tired enforce figure club";
+var mnemonic = "ridge wheat exile web opera moon drink bullet inherit sausage green merge";

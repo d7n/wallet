@@ -1,1 +1,1 @@
-var mnemonic = "scale people abandon lend pulse wolf provide clay develop material hawk warrior";
+var mnemonic = "breeze design message rival control moon album fine birth shop frost control";

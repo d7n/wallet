@@ -1,1 +1,1 @@
-var mnemonic = "kidney nephew wreck deposit pact winner try miss oppose high voice pencil";
+var mnemonic = "social prosper news enough joy ignore fossil napkin humor federal shy dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "family price stumble glass submit adapt hunt attend estate length head chimney";
+var mnemonic = "evolve swap airport key clip match win muscle security capable zero series";

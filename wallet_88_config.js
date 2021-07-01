@@ -1,1 +1,1 @@
-var mnemonic = "leisure hold sight undo label odor stock cinnamon wise problem yellow deal";
+var mnemonic = "soon crowd cool village lens plug clutch damage series lyrics cradle step";

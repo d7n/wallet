@@ -1,1 +1,1 @@
-var mnemonic = "empower another grab theory prevent lock gift problem remove program square upgrade";
+var mnemonic = "ask together rotate infant video infant thunder volcano fortune clump six price";

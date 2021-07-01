@@ -1,1 +1,1 @@
-var mnemonic = "sport project tornado crop enrich blossom dismiss weather ritual juice gain civil";
+var mnemonic = "diamond orchard tide best during debris glory analyst motor evil luxury bullet";

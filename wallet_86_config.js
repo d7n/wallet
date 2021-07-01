@@ -1,1 +1,1 @@
-var mnemonic = "umbrella weasel proof olympic horror foot review duck pottery jar mesh margin";
+var mnemonic = "fiction museum latin pizza grape ugly annual motor radar above resource identify";

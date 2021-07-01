@@ -1,1 +1,1 @@
-var mnemonic = "smooth regret elephant vocal tuna siege river donate fuel cannon almost fatigue";
+var mnemonic = "satisfy off flip tenant child symptom rice spin empower boring fashion final";

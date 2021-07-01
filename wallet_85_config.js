@@ -1,1 +1,1 @@
-var mnemonic = "palace hen legal hundred limit silk emotion save legal kit grid edge";
+var mnemonic = "whale wet dynamic critic balcony level ancient clever subject gravity fringe liquid";

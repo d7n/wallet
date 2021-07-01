@@ -1,1 +1,1 @@
-var mnemonic = "day reject blanket worth north royal hunt basic perfect middle engine shrimp";
+var mnemonic = "short squirrel enjoy size measure normal gravity sense copy snap isolate alert";

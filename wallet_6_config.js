@@ -1,1 +1,1 @@
-var mnemonic = "craft dust cushion alone welcome split solid infant bounce manage pepper reflect";
+var mnemonic = "proud turn ridge naive steel note include junk cricket quick much release";

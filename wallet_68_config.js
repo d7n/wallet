@@ -1,1 +1,1 @@
-var mnemonic = "earn produce oak ball derive ordinary fine quality spice birth assault immense";
+var mnemonic = "radar salt reform discover hat degree yellow cement patch beach system only";

@@ -1,1 +1,1 @@
-var mnemonic = "often announce ordinary work find sword hand admit error verb worry slight";
+var mnemonic = "endless ghost resource paddle debris clean convince violin apple oil burden upset";

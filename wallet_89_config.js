@@ -1,1 +1,1 @@
-var mnemonic = "matter dream random next shaft april always village able art labor later";
+var mnemonic = "endorse garbage initial range heavy until metal capital jeans worth street gossip";

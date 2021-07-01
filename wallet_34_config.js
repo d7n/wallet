@@ -1,1 +1,1 @@
-var mnemonic = "pause nerve nasty use south bicycle magic sentence initial history south tattoo";
+var mnemonic = "march pact fury anxiety wire hello sock isolate much betray brick history";

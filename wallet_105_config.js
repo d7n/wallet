@@ -1,1 +1,1 @@
-var mnemonic = "just hollow sniff congress expose essay differ gorilla odor try pass river";
+var mnemonic = "group conduct history rib lyrics margin equal gallery parrot patient opera umbrella";

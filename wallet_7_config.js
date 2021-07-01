@@ -1,1 +1,1 @@
-var mnemonic = "reopen maximum ignore manage tattoo drama chat dismiss chase ticket vault round";
+var mnemonic = "sight program outdoor couple question juice warm pig proof awesome suffer decorate";

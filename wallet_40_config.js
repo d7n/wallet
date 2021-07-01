@@ -1,1 +1,1 @@
-var mnemonic = "net salad era gentle pill before music track flag liberty shoe video";
+var mnemonic = "return average cable student glove sight exile since elephant crisp purse misery";

@@ -1,1 +1,1 @@
-var mnemonic = "panel absorb harbor scare key umbrella blanket bracket smart burden close suspect";
+var mnemonic = "vanish wait artist device syrup mention breeze sheriff force rabbit crystal absurd";

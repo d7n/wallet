@@ -1,1 +1,1 @@
-var mnemonic = "mandate demand sleep across ethics feed dwarf wheel sorry habit view island";
+var mnemonic = "below junk captain wine card echo nephew puzzle female festival humble slide";

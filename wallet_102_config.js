@@ -1,1 +1,1 @@
-var mnemonic = "salute addict actor note supply violin man cradle reveal drift rose soccer";
+var mnemonic = "ill group ranch lion birth worth just place act load unaware offer";

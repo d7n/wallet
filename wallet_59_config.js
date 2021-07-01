@@ -1,1 +1,1 @@
-var mnemonic = "frog relax youth extend rookie pitch betray coach junior fish electric canal";
+var mnemonic = "laugh soft hammer clerk very forum couple thought artwork donkey leisure head";

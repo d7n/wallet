@@ -1,1 +1,1 @@
-var mnemonic = "armed naive wire label hurry vault super reform battle anger coral legend";
+var mnemonic = "winter helmet pilot afford can brand add void toy ivory confirm laptop";

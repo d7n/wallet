@@ -1,1 +1,1 @@
-var mnemonic = "nuclear solve magic bundle deer autumn plastic okay leg dish honey edit";
+var mnemonic = "riot east setup insane stock answer check wire merge frog pupil purchase";

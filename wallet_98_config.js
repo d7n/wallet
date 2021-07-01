@@ -1,1 +1,1 @@
-var mnemonic = "remain orange green second pig regret spike project shiver shed into enjoy";
+var mnemonic = "medal fitness turtle milk stomach invest rocket side ginger leader vanish way";

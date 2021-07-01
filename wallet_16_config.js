@@ -1,1 +1,1 @@
-var mnemonic = "load rifle dismiss random match hazard kitchen mushroom top reduce issue base";
+var mnemonic = "primary reform glad hub enjoy fiscal siege human angry lawn cement garlic";

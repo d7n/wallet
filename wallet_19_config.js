@@ -1,1 +1,1 @@
-var mnemonic = "crane wreck slow lake rifle tone garment alone present icon uncover panther";
+var mnemonic = "make hair ribbon present body hour stock rug face jar police habit";

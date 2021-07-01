@@ -1,1 +1,1 @@
-var mnemonic = "parent prevent dish tube snake broken fabric use retire eternal axis kangaroo";
+var mnemonic = "frame curious hurry relax practice deer cousin pony sadness turn lazy yard";

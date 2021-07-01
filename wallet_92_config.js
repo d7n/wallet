@@ -1,1 +1,1 @@
-var mnemonic = "feature garage salad token practice lucky bulk exist inspire veteran prosper tumble";
+var mnemonic = "family fit purpose zebra toward else jump shed rose prosper wagon journey";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet lens kick wild gun easily wire finger orange lab indicate deputy";
+var mnemonic = "black lazy churn crouch velvet honey usual combine raw creek wasp state";

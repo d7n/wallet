@@ -1,1 +1,1 @@
-var mnemonic = "gossip skin enrich science same album roast frozen small multiply universe pave";
+var mnemonic = "common ostrich fruit donor surface armor puppy reflect flight puzzle cotton unveil";

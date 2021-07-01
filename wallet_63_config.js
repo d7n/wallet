@@ -1,1 +1,1 @@
-var mnemonic = "verify gown claw equip caught culture dentist vault giggle choice connect deliver";
+var mnemonic = "trigger coconut shuffle nice assist boss typical obvious gas ceiling disorder oyster";

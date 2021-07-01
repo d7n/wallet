@@ -1,1 +1,1 @@
-var mnemonic = "error hour decorate romance assist confirm main pool rude story lonely spoil";
+var mnemonic = "air vanish pact barrel jeans violin glue scale armed this bright toy";

@@ -1,1 +1,1 @@
-var mnemonic = "air prepare ride wagon genuine clock orient fly solid learn much project";
+var mnemonic = "caution athlete weekend utility shed marble liberty zoo erosion bundle matrix spider";

@@ -1,1 +1,1 @@
-var mnemonic = "remember cargo exotic candy dizzy pottery stable front special airport upset artefact";
+var mnemonic = "verb fury patrol casino dinner magnet dance equal grocery kingdom milk must";

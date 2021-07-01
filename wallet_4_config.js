@@ -1,1 +1,1 @@
-var mnemonic = "general please talent deny ghost fog crater wish dash define wrist damp";
+var mnemonic = "hurt draw distance certain switch use august raccoon guitar slim car climb";

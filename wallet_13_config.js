@@ -1,1 +1,1 @@
-var mnemonic = "wing donor best box reflect whip scorpion torch save reopen dilemma upon";
+var mnemonic = "sadness behave address govern there gloom tobacco link imitate wood sorry wave";

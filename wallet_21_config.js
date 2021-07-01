@@ -1,1 +1,1 @@
-var mnemonic = "argue relax shine direct film divorce primary what solution matrix forget number";
+var mnemonic = "clutch denial board wet claw load snack oven food upper usage city";

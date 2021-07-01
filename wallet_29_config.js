@@ -1,1 +1,1 @@
-var mnemonic = "whale tobacco year type jacket thumb horror click pride silk involve luxury";
+var mnemonic = "fox fog myth bachelor pledge quote bless only pen filter month oblige";
