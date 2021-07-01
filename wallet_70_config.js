@@ -1,1 +1,1 @@
-var mnemonic = "sunset melody region true science toy youth cable purse romance cradle injury";
+var mnemonic = "scrub will cushion wage scout bind latin kitchen own group say scorpion";

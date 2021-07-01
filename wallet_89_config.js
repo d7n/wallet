@@ -1,1 +1,1 @@
-var mnemonic = "october chalk legal mixture wreck fee social fat hold obtain drama matrix";
+var mnemonic = "mad nice giraffe cage issue edge setup length elephant obvious wish sort";

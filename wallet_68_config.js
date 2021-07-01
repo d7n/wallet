@@ -1,1 +1,1 @@
-var mnemonic = "suffer domain age segment settle grass fall clog team surge clever ball";
+var mnemonic = "boost vivid fade primary wrong math lecture grow arctic judge south valve";

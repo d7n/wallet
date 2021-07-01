@@ -1,1 +1,1 @@
-var mnemonic = "access modify student tobacco regular unique brief six heavy arch view mushroom";
+var mnemonic = "six actual blood slogan client vapor either smoke can merge ring olympic";

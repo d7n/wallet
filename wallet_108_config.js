@@ -1,1 +1,1 @@
-var mnemonic = "oval slim erupt dirt blood flavor gallery cram measure mixture addict seat";
+var mnemonic = "end churn bunker clever charge recipe guitar assume lizard oyster dentist tag";

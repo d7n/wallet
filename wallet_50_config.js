@@ -1,1 +1,1 @@
-var mnemonic = "truck tonight wrong kitten enough bomb shiver final void allow coconut ancient";
+var mnemonic = "festival victory click region harsh zebra hip license pilot rack desert aspect";

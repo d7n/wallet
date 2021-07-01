@@ -1,1 +1,1 @@
-var mnemonic = "thumb ice venue case attitude wash hello hungry weird during sword half";
+var mnemonic = "gown people steak mimic harsh hover impulse keep divorce diesel grape story";

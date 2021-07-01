@@ -1,1 +1,1 @@
-var mnemonic = "picnic nice social charge gas nose canvas volcano brush soda misery shiver";
+var mnemonic = "vital bench require sorry puzzle panic heart vague rail trouble basic because";

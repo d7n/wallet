@@ -1,1 +1,1 @@
-var mnemonic = "fragile spike south tooth run cluster reject recall table chair scene bullet";
+var mnemonic = "system smile toward vast bench bleak ketchup crush empower panda fame prize";

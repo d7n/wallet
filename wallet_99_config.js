@@ -1,1 +1,1 @@
-var mnemonic = "glow talk limb example real often report fancy valve project shove absorb";
+var mnemonic = "try gentle corn spend concert insect essay lake toddler retreat price claw";

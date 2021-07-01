@@ -1,1 +1,1 @@
-var mnemonic = "hobby tag derive inhale online other picnic idle life sick trophy artwork";
+var mnemonic = "era actress grape reason great vanish sight boat attend arm hire poet";

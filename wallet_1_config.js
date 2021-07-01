@@ -1,1 +1,1 @@
-var mnemonic = "casual clay welcome cargo crew sorry laundry coil ability budget then train";
+var mnemonic = "offer trim crater voyage short dilemma depend apple return section gesture smooth";

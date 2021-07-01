@@ -1,1 +1,1 @@
-var mnemonic = "issue guard false wreck duty pistol reason erode choice arrive come decade";
+var mnemonic = "alarm toast climb verb purity duty cover doctor history wonder shock trial";

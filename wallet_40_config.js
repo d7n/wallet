@@ -1,1 +1,1 @@
-var mnemonic = "excuse load bless real knock arch shift apart digital ceiling danger weekend";
+var mnemonic = "account shell entry whale case dice search strong normal cage fit rely";

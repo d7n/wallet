@@ -1,1 +1,1 @@
-var mnemonic = "vapor input arrange noodle before learn heavy lift open confirm rack plug";
+var mnemonic = "guide snack taste portion reduce liberty rough minor outer breeze worth obtain";

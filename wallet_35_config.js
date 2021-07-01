@@ -1,1 +1,1 @@
-var mnemonic = "marine buffalo pencil turtle soda equal kind long fork warm nominee void";
+var mnemonic = "narrow evolve beef bamboo pulse thought dinosaur sock cherry bicycle donkey bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle chaos panic luxury animal lottery near hybrid dove rival analyst empower";
+var mnemonic = "fury olive sunny loan old enroll canal civil rocket garden flee mass";

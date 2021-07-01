@@ -1,1 +1,1 @@
-var mnemonic = "eagle normal visit open knife trophy one install ripple rule present book";
+var mnemonic = "depart travel mixed type tip figure shuffle harsh cannon dynamic wedding cry";

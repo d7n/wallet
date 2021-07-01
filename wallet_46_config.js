@@ -1,1 +1,1 @@
-var mnemonic = "miss desk provide plunge nose february equip prosper stool crazy material wrong";
+var mnemonic = "rigid chalk ride foot worry jazz dice hard reflect surprise provide forward";

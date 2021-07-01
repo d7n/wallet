@@ -1,1 +1,1 @@
-var mnemonic = "advance cable ostrich recycle dress actual illegal fold place upgrade mutual excite";
+var mnemonic = "alone exit dial project shock delay often tail update wise belt diet";

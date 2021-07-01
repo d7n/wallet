@@ -1,1 +1,1 @@
-var mnemonic = "uphold decorate join shield lady subject kitchen click glass garden wrestle crumble";
+var mnemonic = "dream digital uncover few magnet doll orphan seminar couch ankle gown pioneer";

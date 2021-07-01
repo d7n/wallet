@@ -1,1 +1,1 @@
-var mnemonic = "junk enhance tenant result emerge cook enact space salon wolf utility core";
+var mnemonic = "invite nice winter arm toilet kiwi visual print potato mother gown satoshi";

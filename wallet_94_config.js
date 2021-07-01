@@ -1,1 +1,1 @@
-var mnemonic = "alarm cabbage lion swim umbrella spider typical donkey laugh find service witness";
+var mnemonic = "cannon little useful ranch display arrange renew invest copper include plate quote";

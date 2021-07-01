@@ -1,1 +1,1 @@
-var mnemonic = "uncover clay woman prison junk fall evolve jewel strike virtual pottery doctor";
+var mnemonic = "roast result select one rocket erupt sense cheap language dice tissue access";

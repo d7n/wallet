@@ -1,1 +1,1 @@
-var mnemonic = "mobile reject top skirt table wolf air this alone virus upgrade dress";
+var mnemonic = "solution soul simple produce impact bracket camera judge next kit rally goddess";

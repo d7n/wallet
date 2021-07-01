@@ -1,1 +1,1 @@
-var mnemonic = "old target meadow rebuild bunker south above whip mule modify kiwi defy";
+var mnemonic = "place viable sweet rug laugh skull armed paper tone hover soccer have";

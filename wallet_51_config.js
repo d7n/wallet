@@ -1,1 +1,1 @@
-var mnemonic = "olive donate task worth dust patient dice gesture cluster accident alone bring";
+var mnemonic = "comic garlic uncle marble draft camp paper remove yellow dolphin civil lemon";

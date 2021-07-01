@@ -1,1 +1,1 @@
-var mnemonic = "dismiss van equal cotton occur float image great trip region guess stage";
+var mnemonic = "dance thumb curious hip enemy stock diesel kiwi give expect glance army";

@@ -1,1 +1,1 @@
-var mnemonic = "expect chapter hold ostrich engine empower under upon extra enter fade reward";
+var mnemonic = "iron priority act regret leaf reveal curve stick hire step rifle surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel river fossil female slogan breeze dash breeze opera witness good market";
+var mnemonic = "critic fee fossil trial nerve man ozone bid mixed patch lady vibrant";

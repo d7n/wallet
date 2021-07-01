@@ -1,1 +1,1 @@
-var mnemonic = "disagree issue traffic once potato grace analyst rally hill famous super suspect";
+var mnemonic = "lesson name credit trophy sketch outdoor thought chef ramp extra absorb cute";

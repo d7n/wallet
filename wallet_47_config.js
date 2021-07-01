@@ -1,1 +1,1 @@
-var mnemonic = "whale manual balance meat light stumble melt again mesh nature claim infant";
+var mnemonic = "wheel shine pepper syrup sunny giant tail wash matter park access pair";

@@ -1,1 +1,1 @@
-var mnemonic = "say remind element boring inside depth there depth suit cinnamon phone soul";
+var mnemonic = "nominee winner excess rate garage glory error language venture hybrid unhappy clutch";

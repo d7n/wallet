@@ -1,1 +1,1 @@
-var mnemonic = "sun print process physical lens comfort capital crazy hollow uniform punch parrot";
+var mnemonic = "body occur warm shy aspect iron dinner admit suffer happy capable home";

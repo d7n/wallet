@@ -1,1 +1,1 @@
-var mnemonic = "pen fence own dismiss olive rib monkey hood sustain hold gain muscle";
+var mnemonic = "exclude quiz old toilet exit insect office pioneer culture race bullet demand";

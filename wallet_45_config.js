@@ -1,1 +1,1 @@
-var mnemonic = "firm december rug equal axis north fashion blade van rose bullet tuition";
+var mnemonic = "remove frame poverty forward service husband post leisure critic column horror consider";

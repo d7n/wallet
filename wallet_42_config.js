@@ -1,1 +1,1 @@
-var mnemonic = "double gold charge again ugly spare shoe beyond imitate large brain stove";
+var mnemonic = "festival key runway erase bird save erode warrior puppy casual enrich discover";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz keep concert six element final theory pride season polar fancy stuff";
+var mnemonic = "anger anchor exit clock innocent squirrel cinnamon major dragon puzzle leg pen";

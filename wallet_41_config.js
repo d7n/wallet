@@ -1,1 +1,1 @@
-var mnemonic = "style stuff soul hope island club scrub husband seek possible wood match";
+var mnemonic = "sugar pretty master assume shoe fatigue device circle enroll public group resource";

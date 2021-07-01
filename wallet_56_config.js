@@ -1,1 +1,1 @@
-var mnemonic = "try panda ceiling census wonder bind capital nuclear general world list left";
+var mnemonic = "trade cycle window coyote light traffic castle like trip hedgehog icon dice";

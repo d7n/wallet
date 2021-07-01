@@ -1,1 +1,1 @@
-var mnemonic = "pilot venue benefit motion mango blue system because type planet still image";
+var mnemonic = "amount thumb home worry hotel giant bless auto multiply govern ritual coin";

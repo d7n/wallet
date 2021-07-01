@@ -1,1 +1,1 @@
-var mnemonic = "actress symptom card wrap pill recipe vital inspire sugar judge rifle primary";
+var mnemonic = "fatal buyer world fluid crush teach holiday beyond enforce chimney layer drift";

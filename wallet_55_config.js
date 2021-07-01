@@ -1,1 +1,1 @@
-var mnemonic = "embark march gun analyst kidney view science name scale sibling share mosquito";
+var mnemonic = "afford wide protect trip bulb unusual twice relief clog economy spoil rail";

@@ -1,1 +1,1 @@
-var mnemonic = "come team clarify horse stone exercise curtain repair impact increase clever device";
+var mnemonic = "travel bitter rack note frame awful derive broccoli thought service vault strong";

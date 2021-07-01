@@ -1,1 +1,1 @@
-var mnemonic = "diet mass arrest advice predict van vintage display quantum link desk pioneer";
+var mnemonic = "crash parent night reduce enroll someone finger company siren bunker domain shed";

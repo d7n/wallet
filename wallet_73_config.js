@@ -1,1 +1,1 @@
-var mnemonic = "empower gossip sudden tunnel final action legal armor enable destroy unfair wide";
+var mnemonic = "bright defy ill gym burger anchor vote omit engine atom champion alley";

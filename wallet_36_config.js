@@ -1,1 +1,1 @@
-var mnemonic = "click silly diesel soccer trust powder decide similar color liberty month announce";
+var mnemonic = "winter bid lizard flight pigeon deal web ghost consider excess loud kite";

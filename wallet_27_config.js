@@ -1,1 +1,1 @@
-var mnemonic = "company speed snake craft special afraid over chapter open chuckle asthma tip";
+var mnemonic = "away reason dish camera hill grief same endless federal desk manual injury";

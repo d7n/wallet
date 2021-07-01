@@ -1,1 +1,1 @@
-var mnemonic = "clap rhythm power decade lazy twice trip salt sword among unfold room";
+var mnemonic = "again ghost snack soup race blush draw battle essay burden hand basket";

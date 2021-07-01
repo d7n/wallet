@@ -1,1 +1,1 @@
-var mnemonic = "frog host table season there humble detect cup camera surge catalog craft";
+var mnemonic = "silent also coin weather lab sentence damp note concert below settle liar";

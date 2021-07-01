@@ -1,1 +1,1 @@
-var mnemonic = "roast unhappy galaxy analyst immune toast voyage tenant simple spend board fun";
+var mnemonic = "area drastic moon hand sun affair stove control drum lizard rent critic";

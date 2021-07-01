@@ -1,1 +1,1 @@
-var mnemonic = "cake boss infant food profit garden toe simple negative bar little ship";
+var mnemonic = "rapid carry same know actor shrug sweet bar secret search pencil hamster";

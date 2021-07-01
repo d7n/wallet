@@ -1,1 +1,1 @@
-var mnemonic = "creek strategy frozen city they gadget head pumpkin grab sibling erase erase";
+var mnemonic = "trap voyage boil fee unusual shadow warrior member gallery average predict wing";

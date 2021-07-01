@@ -1,1 +1,1 @@
-var mnemonic = "borrow minute fresh room when marriage surge meat penalty come pumpkin cluster";
+var mnemonic = "august aim bean wagon flash glimpse ticket knock resemble slide wedding series";

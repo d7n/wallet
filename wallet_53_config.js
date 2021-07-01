@@ -1,1 +1,1 @@
-var mnemonic = "time toe ring onion power general upgrade orchard flower shallow gasp save";
+var mnemonic = "dragon east walk legal initial attitude clay left luggage coin also when";

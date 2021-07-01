@@ -1,1 +1,1 @@
-var mnemonic = "course region arrange fade coast cook glove chef combine tribe shuffle long";
+var mnemonic = "shaft nuclear heart ozone wheel faith heavy fade story word rough liar";

@@ -1,1 +1,1 @@
-var mnemonic = "loud acoustic boy volcano taste siege tomorrow reward genius decorate impact travel";
+var mnemonic = "short define axis crunch tape other urban rail rail later tonight oven";

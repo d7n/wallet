@@ -1,1 +1,1 @@
-var mnemonic = "enrich aspect birth goat cruel smart caught reduce tree chuckle flip patch";
+var mnemonic = "demise disease picnic useless private nut moment aisle stadium dune load advice";

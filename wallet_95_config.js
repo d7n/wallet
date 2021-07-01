@@ -1,1 +1,1 @@
-var mnemonic = "giraffe rebuild member age picture gossip follow talk bright news antenna ramp";
+var mnemonic = "wave feel alter blame library firm mansion symptom argue spatial tag shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "lock grit curtain certain badge creek lucky arrest climb fiscal march impulse";
+var mnemonic = "below coin move giraffe sunny ecology lend blanket trust tonight pond oak";

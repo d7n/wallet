@@ -1,1 +1,1 @@
-var mnemonic = "frequent joy display captain sentence air rotate gentle mixed online size pool";
+var mnemonic = "measure tomorrow bracket rib unhappy volcano timber mom desert dose celery push";

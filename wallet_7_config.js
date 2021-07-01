@@ -1,1 +1,1 @@
-var mnemonic = "inquiry afraid resource else ability body obtain funny move gossip position admit";
+var mnemonic = "prepare input parent narrow sketch tonight engage verb spider defense milk rude";

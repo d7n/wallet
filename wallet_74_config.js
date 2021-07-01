@@ -1,1 +1,1 @@
-var mnemonic = "detect news smooth tongue liquid dove oak teach panther where sleep detect";
+var mnemonic = "wheel device betray own fall wisdom much nurse brand scorpion olive you";

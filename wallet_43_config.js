@@ -1,1 +1,1 @@
-var mnemonic = "code theory grace excuse final camp decade can park situate garlic diet";
+var mnemonic = "liar burden live ranch gorilla brother creek law dutch select ship write";

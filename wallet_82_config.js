@@ -1,1 +1,1 @@
-var mnemonic = "praise exile leopard scrub tool door chair antique surge walk plunge shaft";
+var mnemonic = "inject maple finger smile first random toilet hub quick giggle tongue manual";

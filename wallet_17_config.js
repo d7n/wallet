@@ -1,1 +1,1 @@
-var mnemonic = "modify tag venue sight pony snow damage raven potato plug sword stairs";
+var mnemonic = "surface economy rebel black frequent rather install merry job size pudding clog";

@@ -1,1 +1,1 @@
-var mnemonic = "survey ceiling ignore include purpose budget slush into slogan cannon series grant";
+var mnemonic = "bitter right cage discover about seat home leave sun audit evoke robust";

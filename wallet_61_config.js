@@ -1,1 +1,1 @@
-var mnemonic = "truck room frog judge short faculty magnet bottom sausage era humble nothing";
+var mnemonic = "sting issue afford husband rail october talent slice achieve pill garment venue";

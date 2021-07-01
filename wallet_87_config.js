@@ -1,1 +1,1 @@
-var mnemonic = "tongue below pave start eyebrow tonight roof object mother help dog mercy";
+var mnemonic = "record exile depend cover hunt shrimp live people worth shrimp blind inform";

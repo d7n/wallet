@@ -1,1 +1,1 @@
-var mnemonic = "adapt wink twenty dinosaur salad tail hammer abuse couch attract boss tragic";
+var mnemonic = "vibrant journey switch cruise index now lesson raise useless tribe pattern bench";

@@ -1,1 +1,1 @@
-var mnemonic = "picture shallow damage sound switch embrace poet session message alter review crunch";
+var mnemonic = "absent jeans decide lizard result deny kiwi hidden upset ginger force inherit";

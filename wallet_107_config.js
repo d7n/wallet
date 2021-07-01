@@ -1,1 +1,1 @@
-var mnemonic = "design earth boring other curtain decide castle arch glide fiction open occur";
+var mnemonic = "journey dynamic clay pair engine toast kangaroo bulk assault glove panda review";

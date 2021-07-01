@@ -1,1 +1,1 @@
-var mnemonic = "potato hunt giraffe clarify spell they rabbit decide current exit firm category";
+var mnemonic = "security cabbage parade zoo civil wasp draft acoustic grow vintage poverty dance";

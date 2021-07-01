@@ -1,1 +1,1 @@
-var mnemonic = "toss foam raccoon enjoy hockey ice math extend choose drop chaos farm";
+var mnemonic = "twenty shoulder chalk check million pear drink again vintage begin night collect";

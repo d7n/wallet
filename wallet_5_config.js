@@ -1,1 +1,1 @@
-var mnemonic = "air chalk vapor mandate dice outer such galaxy seven ordinary tourist velvet";
+var mnemonic = "deny effort delay green please latin crush power banner clarify visit wise";

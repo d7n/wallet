@@ -1,1 +1,1 @@
-var mnemonic = "crater airport dry decorate kingdom tail vacuum phone paper strike birth sister";
+var mnemonic = "scale solve corn gun saddle decrease woman obtain light pioneer slab dream";

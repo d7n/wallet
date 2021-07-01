@@ -1,1 +1,1 @@
-var mnemonic = "salmon sun chicken note glare guitar idle provide exclude thing spike idea";
+var mnemonic = "blush egg toddler normal century tide hour embrace animal knife physical churn";

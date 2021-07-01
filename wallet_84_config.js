@@ -1,1 +1,1 @@
-var mnemonic = "detail edit guitar buzz theme regret trim betray cargo mad pony afford";
+var mnemonic = "spin net tiny tomato pear huge level cargo position push warfare chapter";

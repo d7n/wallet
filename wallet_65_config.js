@@ -1,1 +1,1 @@
-var mnemonic = "conduct panic cushion exhaust what nature wing obtain ramp angle cousin box";
+var mnemonic = "unhappy frown nasty jealous because disorder area mushroom equal surge balance art";

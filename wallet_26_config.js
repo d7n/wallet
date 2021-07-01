@@ -1,1 +1,1 @@
-var mnemonic = "able then popular lady adult april wait advice spoil width buffalo spin";
+var mnemonic = "fog napkin problem open field biology regular chalk decline hurry brief question";

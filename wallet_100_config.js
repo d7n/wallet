@@ -1,1 +1,1 @@
-var mnemonic = "can teach swear radio crush garlic novel dune spell immune wage glare";
+var mnemonic = "ginger act bridge wash unaware convince stamp bone weather carbon country wave";

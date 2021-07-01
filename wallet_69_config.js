@@ -1,1 +1,1 @@
-var mnemonic = "panel liberty winter april cricket hard tube grocery sock denial cheese autumn";
+var mnemonic = "romance comic inherit spoon flock pulse evidence world sniff suffer guide detail";

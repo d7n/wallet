@@ -1,1 +1,1 @@
-var mnemonic = "toy major flower jaguar charge stamp picture teach prevent drink asthma office";
+var mnemonic = "render sample quick option impulse junior illegal sock river truly vague hockey";

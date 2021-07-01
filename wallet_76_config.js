@@ -1,1 +1,1 @@
-var mnemonic = "vacuum art economy purchase sand sign way exhaust letter phone have either";
+var mnemonic = "spoil mistake stem change home rapid place slogan mistake uniform crucial work";

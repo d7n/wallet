@@ -1,1 +1,1 @@
-var mnemonic = "dragon hard vapor radio keen dragon auction silent lawsuit vast attitude raw";
+var mnemonic = "garlic beach sport reason ocean right trim lift faith kit blast lecture";

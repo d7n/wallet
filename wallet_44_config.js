@@ -1,1 +1,1 @@
-var mnemonic = "arm harbor gorilla aware orphan page olympic like use match curious tip";
+var mnemonic = "fence august album space surface ripple skull such ceiling seven abandon cement";

@@ -1,1 +1,1 @@
-var mnemonic = "blood artist small capable excess tongue fly march original student stamp friend";
+var mnemonic = "survey bullet gas dish cabin sense leave away tribe spice pool hamster";

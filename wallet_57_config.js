@@ -1,1 +1,1 @@
-var mnemonic = "book video insect toddler evil ghost jar recycle else address brass stone";
+var mnemonic = "first citizen brave stuff naive planet chest glance bottom slam tennis wage";

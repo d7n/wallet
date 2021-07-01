@@ -1,1 +1,1 @@
-var mnemonic = "aim list candy share license work walnut primary nice crazy meadow safe";
+var mnemonic = "retreat reject supply unique average unveil talent organ snack occur glow town";

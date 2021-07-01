@@ -1,1 +1,1 @@
-var mnemonic = "govern fringe distance emerge render rather april myth faculty security rule oval";
+var mnemonic = "coil desert gap energy fetch goddess school since movie purity ordinary afraid";

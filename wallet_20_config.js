@@ -1,1 +1,1 @@
-var mnemonic = "mixed captain found state woman pipe fade neck orphan rose finger dry";
+var mnemonic = "glimpse nephew enact miracle demise garden witness elite hawk film recipe moral";

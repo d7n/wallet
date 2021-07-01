@@ -1,1 +1,1 @@
-var mnemonic = "emotion glass song agree explain toast veteran surge vital door stay gun";
+var mnemonic = "saddle panther tube diet insect female zone fitness entry afford room belt";

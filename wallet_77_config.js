@@ -1,1 +1,1 @@
-var mnemonic = "find inspire hospital frost senior upon later blind lunch position metal fiscal";
+var mnemonic = "waste end visa pact half phrase resist general forum among absorb hurry";
