@@ -1,1 +1,1 @@
-var mnemonic = "glow divide invest conduct person thought season neck region electric crystal carry";
+var mnemonic = "zero ancient error barely rent mammal sing tuna fox laundry galaxy rain";

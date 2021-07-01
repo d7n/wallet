@@ -1,1 +1,1 @@
-var mnemonic = "afford field topic snake bring canoe cat cook shoulder resemble warfare hour";
+var mnemonic = "setup silly shiver similar manual assist analyst august cupboard emotion goat mystery";

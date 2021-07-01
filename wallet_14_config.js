@@ -1,1 +1,1 @@
-var mnemonic = "tribe orphan tide siren embark indoor box settle dad stick oblige country";
+var mnemonic = "bench erupt protect cushion beef solve similar soda bright grunt tired bachelor";

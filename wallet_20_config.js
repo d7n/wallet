@@ -1,1 +1,1 @@
-var mnemonic = "radar south fitness picture midnight draw into sister live craft lucky guide";
+var mnemonic = "addict catalog sell smooth genre rent elephant shiver ramp lawn describe addict";

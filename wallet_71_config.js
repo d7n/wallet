@@ -1,1 +1,1 @@
-var mnemonic = "kingdom neck sand ripple flush beef husband blossom route all train metal";
+var mnemonic = "winter install bomb live angry south narrow wheel lounge outside useless monster";

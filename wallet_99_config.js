@@ -1,1 +1,1 @@
-var mnemonic = "maid dismiss confirm multiply resemble shallow kidney provide when toe sun vintage";
+var mnemonic = "broccoli increase cactus suit raccoon merge field concert decrease debate dynamic canoe";

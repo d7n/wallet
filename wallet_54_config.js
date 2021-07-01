@@ -1,1 +1,1 @@
-var mnemonic = "cousin flash swallow caution catalog grit twelve biology modify planet hurdle brave";
+var mnemonic = "summer rain inside ceiling twenty paddle design student topple earth guess surface";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch must actual awake road impact gasp mechanic runway clay bone illness";
+var mnemonic = "hip merit shallow clog solid time legend light write clutch aim anger";

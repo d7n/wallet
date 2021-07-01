@@ -1,1 +1,1 @@
-var mnemonic = "year there doll spot vivid cabbage tunnel extra nose refuse weird knife";
+var mnemonic = "kitchen middle fringe perfect enrich palm cricket double figure property across absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic legend when find action leopard finger option absurd elephant modify monitor";
+var mnemonic = "similar force jaguar suffer winter clerk dentist frame helmet tube danger give";

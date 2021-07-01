@@ -1,1 +1,1 @@
-var mnemonic = "addict ten black present wolf gas catalog adapt tide defense olive symbol";
+var mnemonic = "gun candy recipe nerve state small caught anger exotic reduce rain pilot";

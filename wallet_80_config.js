@@ -1,1 +1,1 @@
-var mnemonic = "best odor sock satoshi fresh cook input lava update expire student okay";
+var mnemonic = "rally inflict nephew twenty tail faint total ball vintage screen action beauty";

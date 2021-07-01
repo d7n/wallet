@@ -1,1 +1,1 @@
-var mnemonic = "document silent stadium museum process appear very burger wash quantum mistake under";
+var mnemonic = "car baby know journey frozen club slight stool slam mechanic dwarf recall";

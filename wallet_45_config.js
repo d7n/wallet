@@ -1,1 +1,1 @@
-var mnemonic = "because interest edit state tent depend smoke come tonight scissors brave discover";
+var mnemonic = "language inch view army aware season minimum mask vintage left slab artefact";

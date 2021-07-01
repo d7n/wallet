@@ -1,1 +1,1 @@
-var mnemonic = "interest left sing nation exile bulb arm surprise tuna sweet model bright";
+var mnemonic = "unlock online claim uniform lonely age sea hockey olive tell wire segment";

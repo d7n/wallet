@@ -1,1 +1,1 @@
-var mnemonic = "benefit hurry version melt carry abuse tool dwarf face load solve exhibit";
+var mnemonic = "garage hair service camera divorce symptom upon escape bring potato hard burger";

@@ -1,1 +1,1 @@
-var mnemonic = "wave quality speak hen hen duty point sand claim together rice zone";
+var mnemonic = "idea burden jacket report copper first hold deposit toe protect turkey citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery emotion abstract news impact number donor cool one cloth climb work";
+var mnemonic = "ivory inform cram color robot point review other pig enforce wild tomorrow";

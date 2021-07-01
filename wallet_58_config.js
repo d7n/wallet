@@ -1,1 +1,1 @@
-var mnemonic = "faith twist swing fortune video awesome pluck ranch grain salad dentist shrug";
+var mnemonic = "step hole organ distance cherry razor shop organ vocal useless strategy pink";

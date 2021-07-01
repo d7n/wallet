@@ -1,1 +1,1 @@
-var mnemonic = "matrix strike jazz debate argue uncle play chaos turkey gown slush bus";
+var mnemonic = "faith olympic travel lounge climb material wolf clump enter flat thunder glare";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract sign vintage couple lecture random taxi spread virus confirm denial shell";
+var mnemonic = "century rigid airport wrestle file order curtain tennis whisper science ensure depend";

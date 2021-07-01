@@ -1,1 +1,1 @@
-var mnemonic = "guide broccoli eternal lake animal essay eye street click enemy civil bulk";
+var mnemonic = "story nature sick hero body tree exhibit bronze buffalo someone clinic dynamic";

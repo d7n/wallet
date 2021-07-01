@@ -1,1 +1,1 @@
-var mnemonic = "abandon hood caution version carry upset vibrant multiply smoke grocery method uniform";
+var mnemonic = "burst helmet army flash document fold same manual decrease alley dice echo";

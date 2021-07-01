@@ -1,1 +1,1 @@
-var mnemonic = "feed quarter boring oil hollow march argue umbrella alone heavy couch tip";
+var mnemonic = "square zone balcony coconut actor stumble arrow daughter game concert near street";

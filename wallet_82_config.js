@@ -1,1 +1,1 @@
-var mnemonic = "kingdom pen car bone fire shadow attack syrup program edit mesh merry";
+var mnemonic = "betray luxury essence melody party fashion topic bid sentence sentence trend awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "trick allow pear anxiety sketch cave protect home name radar taxi problem";
+var mnemonic = "notice upgrade effort weekend vibrant leopard nice eagle adjust farm emerge swear";

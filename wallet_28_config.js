@@ -1,1 +1,1 @@
-var mnemonic = "pelican minute lion inquiry reflect enlist chronic depth soul wife bulb gadget";
+var mnemonic = "liar often harbor injury panther regret giant tackle lottery electric hour surface";

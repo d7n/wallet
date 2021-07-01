@@ -1,1 +1,1 @@
-var mnemonic = "arctic valley client bargain palm quarter mystery hedgehog glue can wide banana";
+var mnemonic = "kiwi annual tragic vivid love around hold mercy flock piece loud chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "churn fortune desk answer dentist novel wife chuckle edge ecology decrease elegant";
+var mnemonic = "tomato october color hat scatter cost vocal fiscal enter floor mule wisdom";

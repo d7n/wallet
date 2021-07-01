@@ -1,1 +1,1 @@
-var mnemonic = "harvest rabbit rocket old merit boss marine fabric tooth warfare fall cable";
+var mnemonic = "nose virtual worth cruel choose sugar imitate depth damage flavor science chat";

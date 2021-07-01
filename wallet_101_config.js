@@ -1,1 +1,1 @@
-var mnemonic = "clinic gift jar dream domain man peace secret helmet stable dose dust";
+var mnemonic = "obey hunt party purity amount flock shed polar vendor minor lock all";

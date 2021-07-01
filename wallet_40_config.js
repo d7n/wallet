@@ -1,1 +1,1 @@
-var mnemonic = "royal smooth what crisp quote allow lock bicycle lava quiz purity snake";
+var mnemonic = "accuse prize lunch jacket upset insane patrol sweet strategy bright surround large";

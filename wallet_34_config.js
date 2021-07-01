@@ -1,1 +1,1 @@
-var mnemonic = "mercy clog arrange ozone rude surge fiber ribbon million hero okay choose";
+var mnemonic = "carry bacon struggle ceiling prosper session focus prevent cabin flush top celery";

@@ -1,1 +1,1 @@
-var mnemonic = "frame explain upon begin nature pink build horror glide what critic eternal";
+var mnemonic = "transfer primary entire vicious material vicious mosquito dance mercy much dune pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "turn wonder inherit kangaroo exact indoor slot tomato large cargo foot fiber";
+var mnemonic = "ketchup ten tiny behind merge together winner usual bicycle inmate describe drip";

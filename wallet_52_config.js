@@ -1,1 +1,1 @@
-var mnemonic = "wagon wink leaf refuse silver ability cargo gown when test matter verify";
+var mnemonic = "stomach produce hotel push verb liquid rack ostrich clarify surround arch relief";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom then sea desk brisk attack salute mystery field pulse sword few";
+var mnemonic = "morning empower strategy faculty judge shove hurry drive stumble split bunker receive";

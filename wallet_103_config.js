@@ -1,1 +1,1 @@
-var mnemonic = "item thunder unhappy tree picture puzzle school rebuild cabbage slab escape cement";
+var mnemonic = "close emerge year sponsor correct mushroom thumb exit acquire crater course camera";

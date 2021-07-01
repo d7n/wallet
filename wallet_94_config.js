@@ -1,1 +1,1 @@
-var mnemonic = "add glimpse arrive prepare laundry exchange cruise poet remove retire slice circle";
+var mnemonic = "detect used fossil field vessel height swap capable satoshi copy width aunt";

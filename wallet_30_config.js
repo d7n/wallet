@@ -1,1 +1,1 @@
-var mnemonic = "soldier danger off cruise random true once toilet neck build forward lounge";
+var mnemonic = "jelly liberty census depart soda aware wrist cliff sock finish collect once";

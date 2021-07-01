@@ -1,1 +1,1 @@
-var mnemonic = "replace lion dolphin gentle remain beach water tent mobile nurse truth rural";
+var mnemonic = "version hidden duck scatter autumn rare merry basket delay view grit roast";

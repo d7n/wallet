@@ -1,1 +1,1 @@
-var mnemonic = "embody express cry fury horror energy collect spare police twist impose home";
+var mnemonic = "avocado share render initial west outdoor milk raccoon beach share cabin adult";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic illegal avocado endorse author area car series device thought crouch season";
+var mnemonic = "solar demise cost broken wave final recycle suit memory pluck steel monkey";

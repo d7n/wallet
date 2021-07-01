@@ -1,1 +1,1 @@
-var mnemonic = "neither quarter foster spice matter govern screen discover peace taxi infant pause";
+var mnemonic = "popular amazing case lizard access twenty sugar notice reward sight sleep subject";

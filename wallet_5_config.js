@@ -1,1 +1,1 @@
-var mnemonic = "sugar rely glass slogan muscle flash blur diesel dumb carry deny wage";
+var mnemonic = "coach when swap crash opera area second relief upgrade wood open echo";

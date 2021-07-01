@@ -1,1 +1,1 @@
-var mnemonic = "aerobic ignore hill guilt hire live identify expect identify later sign soldier";
+var mnemonic = "tumble glide govern hat clump shoe body trouble pull senior love disorder";

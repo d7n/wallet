@@ -1,1 +1,1 @@
-var mnemonic = "gesture rubber inquiry small excess dune early enjoy obvious normal grit body";
+var mnemonic = "february wire junior wire noble alarm shallow gadget abandon test volcano throw";

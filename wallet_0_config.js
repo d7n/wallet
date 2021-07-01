@@ -1,1 +1,1 @@
-var mnemonic = "shed height muffin hurdle sibling tank celery occur bracket accident message enforce";
+var mnemonic = "punch skirt trend estate refuse always soon hurry upset govern glove library";

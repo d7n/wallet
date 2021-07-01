@@ -1,1 +1,1 @@
-var mnemonic = "panda claw asset taxi tone settle country salad lava nothing submit wolf";
+var mnemonic = "gorilla page grid hammer harbor news bacon patient album scale excuse raven";

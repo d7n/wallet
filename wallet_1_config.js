@@ -1,1 +1,1 @@
-var mnemonic = "enact snack wrong wife session thrive next artwork foil table type time";
+var mnemonic = "jeans satoshi fiber drift purity door bounce frame brisk enough dash truth";

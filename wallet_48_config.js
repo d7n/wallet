@@ -1,1 +1,1 @@
-var mnemonic = "unit myself mandate fade purpose leisure exercise grunt ankle fish subway grant";
+var mnemonic = "upgrade dune crush mansion fatal north fabric circle guilt excuse visit kangaroo";

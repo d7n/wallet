@@ -1,1 +1,1 @@
-var mnemonic = "turtle remind winner model talent above wrist camera display fly old fabric";
+var mnemonic = "pool weekend fiscal crumble frequent human cheese cram reunion express robust divorce";

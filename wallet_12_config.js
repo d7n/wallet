@@ -1,1 +1,1 @@
-var mnemonic = "junk suspect buddy arctic horse man cabbage zero cabbage dizzy defense west";
+var mnemonic = "accident museum busy permit advice supreme glory trial source flat sight kit";

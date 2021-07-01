@@ -1,1 +1,1 @@
-var mnemonic = "tip nephew pilot ladder same dream priority melody motor vintage rather culture";
+var mnemonic = "vast lazy void mesh hope have cruise behave staff energy connect paper";

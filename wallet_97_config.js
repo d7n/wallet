@@ -1,1 +1,1 @@
-var mnemonic = "manual century draw valid erosion lumber fence ocean ten whisper carry viable";
+var mnemonic = "cute carry organ ostrich provide amount pen whip nominee boost address duck";

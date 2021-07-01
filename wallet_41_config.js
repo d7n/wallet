@@ -1,1 +1,1 @@
-var mnemonic = "devote cheese away age method few staff fiber soon vibrant utility air";
+var mnemonic = "injury urban cup brave crazy loan swamp teach tag try carpet prosper";

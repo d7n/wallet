@@ -1,1 +1,1 @@
-var mnemonic = "dynamic ramp proud clip damp marble road art ozone chunk fun army";
+var mnemonic = "noble switch purity ask steel thumb pond waste diesel door source squeeze";

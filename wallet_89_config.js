@@ -1,1 +1,1 @@
-var mnemonic = "road glove jaguar sing fault spread palace chapter uphold depart street miss";
+var mnemonic = "repeat usual celery sketch one recall saddle patch hammer absurd aisle luggage";

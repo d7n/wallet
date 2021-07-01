@@ -1,1 +1,1 @@
-var mnemonic = "message shuffle point expose bacon negative student attend digital loan drive dragon";
+var mnemonic = "secret tell exile outdoor sleep enhance six three soon satoshi print cushion";

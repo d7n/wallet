@@ -1,1 +1,1 @@
-var mnemonic = "tortoise false leaf empower tongue matrix hurry forget parade buzz firm horn";
+var mnemonic = "alarm sight desert gossip raw soccer initial nut amused episode deal lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "royal tunnel review false receive swift lava defense length hen spare buyer";
+var mnemonic = "scare blood veteran differ volcano ocean wear erupt dice script much object";

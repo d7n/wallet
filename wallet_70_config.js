@@ -1,1 +1,1 @@
-var mnemonic = "walnut limit index improve talent miss orient relax sing famous silk resource";
+var mnemonic = "wonder opinion miss brain monitor tongue enlist cupboard salad weird online copy";

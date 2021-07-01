@@ -1,1 +1,1 @@
-var mnemonic = "digital cool seminar stereo essay attend pause fantasy oval neck maple document";
+var mnemonic = "large pistol famous twin outdoor glove reform remember reduce ritual sunset note";

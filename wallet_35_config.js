@@ -1,1 +1,1 @@
-var mnemonic = "expect critic stand notice wage industry credit token awesome volume olive catalog";
+var mnemonic = "empty detect surge robot replace demise relief demise grant nephew indicate boring";

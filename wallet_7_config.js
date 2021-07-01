@@ -1,1 +1,1 @@
-var mnemonic = "favorite anchor silly alone slight quality turkey marble armor wonder valley often";
+var mnemonic = "because divert various chef smart fancy radio nominee sun early quote drink";

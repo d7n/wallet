@@ -1,1 +1,1 @@
-var mnemonic = "flip humor fringe present control stem fragile print garlic morning hurt equip";
+var mnemonic = "dove sleep fruit reopen river save hover scout step garbage cushion pepper";

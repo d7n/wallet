@@ -1,1 +1,1 @@
-var mnemonic = "twenty front history cup purse jewel aerobic bunker edge exhibit pipe draft";
+var mnemonic = "lecture april figure keep siren matter broom coach alter evolve box promote";

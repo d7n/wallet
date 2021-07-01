@@ -1,1 +1,1 @@
-var mnemonic = "cousin skirt mobile vicious plug crawl fiction mention unfair material thank legal";
+var mnemonic = "panic afraid silk frame phone crunch honey legend loud pyramid grab bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "mango junk around entry adult toilet despair air blossom organ ice wink";
+var mnemonic = "hedgehog kick furnace chair punch swap atom biology visual autumn mammal pass";

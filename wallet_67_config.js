@@ -1,1 +1,1 @@
-var mnemonic = "arrive radio universe drift skirt laundry bread glue subway inch floor fly";
+var mnemonic = "umbrella industry lounge crazy artwork suit bean club unusual monster fork rich";

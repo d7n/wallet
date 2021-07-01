@@ -1,1 +1,1 @@
-var mnemonic = "twice spread green panther neutral joke caution candy slab vital tiny wild";
+var mnemonic = "two swift orphan major rice drop short toilet deposit cloud abuse news";

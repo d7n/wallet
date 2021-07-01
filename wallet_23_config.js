@@ -1,1 +1,1 @@
-var mnemonic = "car double injury clip museum moon shine tourist ecology car game valley";
+var mnemonic = "firm ribbon suggest celery same farm soft seed piano crawl dolphin tower";

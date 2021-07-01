@@ -1,1 +1,1 @@
-var mnemonic = "demise flee okay input bamboo neck robot neglect grant success suspect fortune";
+var mnemonic = "sand marine canoe squirrel school become beyond uncle arrange innocent loop shrug";

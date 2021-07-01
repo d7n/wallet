@@ -1,1 +1,1 @@
-var mnemonic = "clown enact decide price attend world remove weasel run icon zoo level";
+var mnemonic = "you crucial october way stone gloom blood document upper purpose armed axis";

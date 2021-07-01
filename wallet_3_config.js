@@ -1,1 +1,1 @@
-var mnemonic = "mask expand sphere idle alarm ginger blanket prefer bonus short switch behind";
+var mnemonic = "coach physical notable tenant thank void ill siege security number public snap";

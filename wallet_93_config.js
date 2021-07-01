@@ -1,1 +1,1 @@
-var mnemonic = "field upon false chest diet analyst normal pig badge north charge bunker";
+var mnemonic = "cradle sail person wasp unhappy bench whale chaos chunk always joke nature";

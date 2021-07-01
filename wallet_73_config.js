@@ -1,1 +1,1 @@
-var mnemonic = "kitten veteran news disagree regret hover build unique delay float leaf solution";
+var mnemonic = "service pride surge own flavor dish donate nurse lizard forward steak pull";

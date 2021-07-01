@@ -1,1 +1,1 @@
-var mnemonic = "write skull report option remove swear post dragon valid exit endorse ring";
+var mnemonic = "normal tooth lend monkey call topple lawsuit inside mouse ahead edit humble";

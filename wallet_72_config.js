@@ -1,1 +1,1 @@
-var mnemonic = "plug knock peace rain bid drive unhappy wink country you today sight";
+var mnemonic = "diesel opinion accuse diagram leopard inside run flee bridge half regret mystery";

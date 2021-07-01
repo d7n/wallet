@@ -1,1 +1,1 @@
-var mnemonic = "liquid novel drive tooth stairs speak fringe time space toss surround cushion";
+var mnemonic = "stable fly furnace olympic already gasp sugar recall ancient fantasy skill link";

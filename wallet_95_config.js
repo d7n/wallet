@@ -1,1 +1,1 @@
-var mnemonic = "consider frame decline fatal galaxy hamster act ball cloth abuse clay punch";
+var mnemonic = "member learn achieve two finger calm organ movie earth know ladder exchange";

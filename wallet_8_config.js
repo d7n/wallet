@@ -1,1 +1,1 @@
-var mnemonic = "rude anger whale smoke mammal surround raw mesh typical soul donate snow";
+var mnemonic = "journey strong orient sponsor agent sunny tent bid enhance apart addict concert";

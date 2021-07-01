@@ -1,1 +1,1 @@
-var mnemonic = "proud hockey transfer now during step shell beach parrot roof sight moon";
+var mnemonic = "shuffle dry spin exist shine victory lunch brisk project satisfy chapter bone";

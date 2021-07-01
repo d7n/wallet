@@ -1,1 +1,1 @@
-var mnemonic = "intact record mean over seed disease alarm congress actress salute vicious tomorrow";
+var mnemonic = "sketch feed broccoli fix senior drum program song carpet toss execute broccoli";

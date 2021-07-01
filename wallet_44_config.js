@@ -1,1 +1,1 @@
-var mnemonic = "grab door enrich hedgehog index upon boss oil label easy boat area";
+var mnemonic = "digital summer squirrel tone much impose ethics caution exile antenna enlist ridge";

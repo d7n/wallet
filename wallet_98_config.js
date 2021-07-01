@@ -1,1 +1,1 @@
-var mnemonic = "scrub pilot surface drop require crazy target few find protect summer february";
+var mnemonic = "cattle expose seat artist cigar large thunder eagle brown autumn render biology";

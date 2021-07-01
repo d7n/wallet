@@ -1,1 +1,1 @@
-var mnemonic = "impose able order satisfy maid pepper refuse pen awesome flag weather behind";
+var mnemonic = "gaze child coast shoulder olive couple man exact front time idle ghost";

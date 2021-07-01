@@ -1,1 +1,1 @@
-var mnemonic = "lucky minimum endorse coast right blame stomach swing dizzy annual immense labor";
+var mnemonic = "trophy excess help year master verb grass vapor prison lend suit bright";

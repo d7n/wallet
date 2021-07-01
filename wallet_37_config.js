@@ -1,1 +1,1 @@
-var mnemonic = "unique result belt business sport move match liquid until luxury load baby";
+var mnemonic = "dilemma popular weather smile legend throw slight taxi swing promote shine attack";

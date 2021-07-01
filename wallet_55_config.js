@@ -1,1 +1,1 @@
-var mnemonic = "crop book tag churn rival skull cool trouble danger clay unhappy pull";
+var mnemonic = "wish marble swim range film category ladder extra ask canyon crucial history";
