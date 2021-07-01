@@ -1,1 +1,1 @@
-var mnemonic = "doll eyebrow spring long merit weasel leave craft census castle layer ozone";
+var mnemonic = "wish absurd various entry business nephew bleak home someone cave tiger primary";

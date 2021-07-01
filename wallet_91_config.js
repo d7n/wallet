@@ -1,1 +1,1 @@
-var mnemonic = "sentence they police kingdom mouse crop palace example nut picnic betray beyond";
+var mnemonic = "tattoo rich bench other trouble merge orient phrase cat six unveil window";

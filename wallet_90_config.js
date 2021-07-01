@@ -1,1 +1,1 @@
-var mnemonic = "jacket inherit aisle crew expire country paper business position behind lemon legend";
+var mnemonic = "runway bone lesson adult embark throw toddler enact story asthma legal matrix";

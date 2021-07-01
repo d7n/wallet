@@ -1,1 +1,1 @@
-var mnemonic = "stadium rebuild liar wrap speed prosper organ scrub step debate family dress";
+var mnemonic = "siege ensure copy blame act echo advice either habit palm foam whip";

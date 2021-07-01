@@ -1,1 +1,1 @@
-var mnemonic = "sketch digital awesome document company era corn flat absent cause fiber doctor";
+var mnemonic = "reform image auction ripple comic legend curious budget angle guard denial essence";

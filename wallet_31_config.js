@@ -1,1 +1,1 @@
-var mnemonic = "recipe weapon age forward crush luggage laptop burst puppy accuse medal tobacco";
+var mnemonic = "car shield symbol west van smart diary document can shallow salad truly";

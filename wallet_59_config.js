@@ -1,1 +1,1 @@
-var mnemonic = "neutral drip win traffic decrease crouch enforce mutual run quote often crack";
+var mnemonic = "illegal disagree cherry orbit slice palace warrior host nominee mad hill spray";

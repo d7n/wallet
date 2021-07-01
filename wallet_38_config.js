@@ -1,1 +1,1 @@
-var mnemonic = "laptop awake foot orchard pass build indicate property pulp eight approve survey";
+var mnemonic = "unfair need behind cost zebra quantum civil refuse weekend end wheel coconut";

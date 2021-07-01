@@ -1,1 +1,1 @@
-var mnemonic = "general cattle smile cage duty coral kitten wild type flavor captain merge";
+var mnemonic = "enjoy season gown glass moon figure diary meat enough bamboo brass gun";

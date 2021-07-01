@@ -1,1 +1,1 @@
-var mnemonic = "boring quick force input spirit huge mobile ritual family flag lesson label";
+var mnemonic = "fluid satoshi local wood caution evil scatter tobacco differ glass tray guess";

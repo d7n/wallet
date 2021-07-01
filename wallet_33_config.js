@@ -1,1 +1,1 @@
-var mnemonic = "session river apart spare around smile kit want crush squeeze radio avocado";
+var mnemonic = "load range regret rhythm parrot depth student chase elegant advance drink blind";

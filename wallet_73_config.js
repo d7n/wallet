@@ -1,1 +1,1 @@
-var mnemonic = "nephew section agent leisure fly unlock chair autumn fork monitor caution priority";
+var mnemonic = "story lizard satisfy chapter stay solar south unfold twelve autumn pretty modify";

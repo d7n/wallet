@@ -1,1 +1,1 @@
-var mnemonic = "shift ranch west quiz abuse cost educate income nut around ivory drift";
+var mnemonic = "catch later hold wagon winner space feature tuna nuclear couch bitter online";

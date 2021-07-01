@@ -1,1 +1,1 @@
-var mnemonic = "ignore dinner fence cart motor ensure apple either record rubber river post";
+var mnemonic = "jaguar alcohol about cousin motor duck biology observe girl banana early reason";

@@ -1,1 +1,1 @@
-var mnemonic = "wink canal noise weapon enforce gold amateur music pond jelly urban genre";
+var mnemonic = "amount injury stay axis fragile else phrase sick abuse fork stairs hat";

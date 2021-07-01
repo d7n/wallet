@@ -1,1 +1,1 @@
-var mnemonic = "captain maximum glove weekend retire fresh across guitar humor purpose distance file";
+var mnemonic = "property task wreck breeze cushion stairs glue increase parade awesome manage speed";

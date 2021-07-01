@@ -1,1 +1,1 @@
-var mnemonic = "walnut volume during absorb ketchup arctic rifle cluster pigeon analyst toilet little";
+var mnemonic = "canoe thrive spike swear draft polar rare flash meat own swear lock";

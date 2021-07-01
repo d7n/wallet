@@ -1,1 +1,1 @@
-var mnemonic = "asthma sunset toss market chase brief extra cruel truck december album again";
+var mnemonic = "same invite spoil sudden animal virtual simple absent relief come impose spray";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence access entire vague visual borrow list tomorrow stomach square rude session";
+var mnemonic = "decade person sense uncle keen clog garden romance major fetch lock valley";

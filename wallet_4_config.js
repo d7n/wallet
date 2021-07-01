@@ -1,1 +1,1 @@
-var mnemonic = "radio journey lion fantasy royal upgrade obtain stock era hungry test laundry";
+var mnemonic = "wave twist before hawk quote timber demand uniform border tribe alpha rally";

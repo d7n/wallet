@@ -1,1 +1,1 @@
-var mnemonic = "pear tunnel upgrade world tourist album hold battle inhale burger erosion hammer";
+var mnemonic = "riot retire lift patrol tenant quiz enrich squirrel rescue reduce evil scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "intact royal blame situate hub clog shell lucky million response motor pet";
+var mnemonic = "picture laundry feature good crowd genre grit park science impact club shoulder";

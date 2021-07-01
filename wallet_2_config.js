@@ -1,1 +1,1 @@
-var mnemonic = "rookie hedgehog busy panic dumb sorry bind morning panda penalty horn hawk";
+var mnemonic = "cause plastic wing proud guess kiss enemy wonder arena squeeze return noise";

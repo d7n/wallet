@@ -1,1 +1,1 @@
-var mnemonic = "recipe sponsor kite advice book elder kit elder combine select caution tube";
+var mnemonic = "maximum pride online reflect blush amazing medal basket novel else diet cute";

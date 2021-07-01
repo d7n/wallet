@@ -1,1 +1,1 @@
-var mnemonic = "convince jump occur door skill daring raven lobster panic vibrant front annual";
+var mnemonic = "turkey congress atom sunny upper tide federal grab slice memory oxygen negative";

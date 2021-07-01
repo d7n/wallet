@@ -1,1 +1,1 @@
-var mnemonic = "achieve similar sound crack alter side table stone catch simple negative escape";
+var mnemonic = "tumble absent volcano dinner kite assault bachelor theme rifle foot buddy over";

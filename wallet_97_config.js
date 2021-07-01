@@ -1,1 +1,1 @@
-var mnemonic = "cradle execute spatial reopen trap shy lava kick sure primary cause chef";
+var mnemonic = "rule pair poverty popular copy section struggle bridge alone genius remain dirt";

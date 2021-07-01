@@ -1,1 +1,1 @@
-var mnemonic = "lyrics present gallery salt sentence guilt october juice secret tape balcony permit";
+var mnemonic = "shine path height dad elevator lottery fashion bacon slice exact unit bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "exact north rule crunch chat glance alone nominee grape grab craft mammal";
+var mnemonic = "clown crawl indoor critic ankle thrive thrive party flush demise math east";

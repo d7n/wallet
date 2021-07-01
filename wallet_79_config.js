@@ -1,1 +1,1 @@
-var mnemonic = "dish club celery kitten industry coast congress wet taxi twin insane cupboard";
+var mnemonic = "normal other march devote odor sing someone goose cactus kitten seven ordinary";

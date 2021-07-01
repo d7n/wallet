@@ -1,1 +1,1 @@
-var mnemonic = "tenant better desert trial noise accident blade practice spell risk strong code";
+var mnemonic = "raven hire peace nerve pen save anger differ ask erode gesture blanket";

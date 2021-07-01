@@ -1,1 +1,1 @@
-var mnemonic = "off height stamp thunder couch raw scrap crater embark survey goose mule";
+var mnemonic = "tube kiss bench say there absurd shove winner hire hat normal stone";

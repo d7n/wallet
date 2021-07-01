@@ -1,1 +1,1 @@
-var mnemonic = "protect coconut update fish absent swear dress trophy walk elder hotel flat";
+var mnemonic = "coral zone bag organ debate plate blame foil easily casual life pear";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve result song swear panther audit avoid addict melt ensure travel angry";
+var mnemonic = "phone bubble magnet all priority inquiry crime view pull blood then wreck";

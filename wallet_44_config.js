@@ -1,1 +1,1 @@
-var mnemonic = "sweet essay promote theory polar crumble nurse one differ trap course shoulder";
+var mnemonic = "deputy duty border valley service sunny result ability first whale emotion early";

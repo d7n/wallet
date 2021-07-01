@@ -1,1 +1,1 @@
-var mnemonic = "brown decorate goat carpet awful uncle funny problem book short sad excite";
+var mnemonic = "decorate expose know involve unable someone perfect game glimpse crater weasel youth";

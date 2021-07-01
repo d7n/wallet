@@ -1,1 +1,1 @@
-var mnemonic = "nerve crisp panel gauge put debris survey armor appear nothing ancient cover";
+var mnemonic = "proof shell welcome visual cloth renew fox advice kite cream feel defy";

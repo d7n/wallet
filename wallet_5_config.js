@@ -1,1 +1,1 @@
-var mnemonic = "engage aisle shed wolf weekend lunch sell tent eager corn invest tower";
+var mnemonic = "cherry topple ceiling shallow deputy venture vague gesture lyrics merit gun dutch";

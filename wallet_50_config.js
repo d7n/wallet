@@ -1,1 +1,1 @@
-var mnemonic = "detail have fury always glue wreck thrive bleak outdoor shove system decorate";
+var mnemonic = "win breeze able shaft hat bright venue track idea rabbit trouble response";

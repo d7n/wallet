@@ -1,1 +1,1 @@
-var mnemonic = "circle enact exercise loan report gather obscure salad impose kitten among romance";
+var mnemonic = "claw divorce merge lonely once skate forget chase total glare know usage";

@@ -1,1 +1,1 @@
-var mnemonic = "tent library intact pretty quote castle repair night lock spring quantum face";
+var mnemonic = "brass team raise swim they inherit rug divorce trip uncle company veteran";

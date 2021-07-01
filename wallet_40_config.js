@@ -1,1 +1,1 @@
-var mnemonic = "forum hockey inspire captain fever transfer join tilt bonus hybrid poem carbon";
+var mnemonic = "fame lion unknown tower push antenna palm ball attract volcano olive cushion";

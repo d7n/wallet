@@ -1,1 +1,1 @@
-var mnemonic = "nuclear swallow sell cattle actor minimum indoor cousin put art fork devote";
+var mnemonic = "expand target girl fatal whisper jeans assault pioneer diagram liberty blame december";

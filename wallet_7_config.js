@@ -1,1 +1,1 @@
-var mnemonic = "summer bonus garage sadness eagle genius maze replace slide kidney wealth purpose";
+var mnemonic = "poverty medal inform position arrow federal gloom lesson give cement dad play";

@@ -1,1 +1,1 @@
-var mnemonic = "section cotton surface eager practice fabric wrist scorpion reason shove dream syrup";
+var mnemonic = "vocal video crash cupboard silk inspire dumb earth viable copper earth kiwi";

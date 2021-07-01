@@ -1,1 +1,1 @@
-var mnemonic = "used brief battle differ news reason beauty school modify urban foot mouse";
+var mnemonic = "culture hour border shield tiny soft vibrant mobile fatigue couple minute maid";

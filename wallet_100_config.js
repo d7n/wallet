@@ -1,1 +1,1 @@
-var mnemonic = "tell sick fresh pact fuel illness empower benefit life mimic vote enlist";
+var mnemonic = "exact tissue erode chapter give addict message tornado tongue vibrant field clap";

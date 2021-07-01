@@ -1,1 +1,1 @@
-var mnemonic = "kitten small idle guard cradle border attend onion collect echo sponsor click";
+var mnemonic = "eye coconut churn outdoor fly slide aerobic broom build mail minimum domain";

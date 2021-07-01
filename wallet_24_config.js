@@ -1,1 +1,1 @@
-var mnemonic = "suit mail guess violin load admit phrase behave uncle limb chicken act";
+var mnemonic = "patient online receive canvas color vessel love regret wine pulp romance ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "utility gold flame buyer age tool item sketch asthma fade oyster happy";
+var mnemonic = "ghost banner stay heavy rude illegal cave beauty business venue maid acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "denial public setup seek hour reduce paper enact night defense ready private";
+var mnemonic = "business welcome hunt certain evoke blush install color reward click vacant olive";

@@ -1,1 +1,1 @@
-var mnemonic = "team cotton picnic injury chapter rocket fence frozen theme hamster field destroy";
+var mnemonic = "gauge flag salmon jealous auto profit casino direct shrimp clap roof number";

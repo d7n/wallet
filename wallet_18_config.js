@@ -1,1 +1,1 @@
-var mnemonic = "camera clerk organ also remember cricket remain message math throw honey hat";
+var mnemonic = "famous require pull nothing pave pact smart spoon ivory cargo punch cloud";

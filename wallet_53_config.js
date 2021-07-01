@@ -1,1 +1,1 @@
-var mnemonic = "future fence van van soccer emerge jelly coyote wealth imitate bracket inflict";
+var mnemonic = "slush pepper basket kitten dry detail million water thrive gloom refuse panic";

@@ -1,1 +1,1 @@
-var mnemonic = "theme dawn must idle sniff expire club festival visit elbow better school";
+var mnemonic = "uncover winner trade play top nothing comfort cement better saddle inquiry thunder";

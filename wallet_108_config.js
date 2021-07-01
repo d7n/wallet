@@ -1,1 +1,1 @@
-var mnemonic = "pact frame light brick inquiry slab device bargain farm season slice word";
+var mnemonic = "police alien typical harbor gesture recall dish shock organ scissors type horror";

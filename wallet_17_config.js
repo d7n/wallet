@@ -1,1 +1,1 @@
-var mnemonic = "happy fork repeat crew nuclear tree fix brother knee uphold domain history";
+var mnemonic = "waste train wash daring axis near pen flip junior midnight major movie";

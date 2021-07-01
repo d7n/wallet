@@ -1,1 +1,1 @@
-var mnemonic = "leader filter lava sauce reunion bird fatigue expose fabric lake mammal ranch";
+var mnemonic = "harvest atom visit pluck process afford riot canal zebra option auto tobacco";

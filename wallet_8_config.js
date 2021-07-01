@@ -1,1 +1,1 @@
-var mnemonic = "weapon fresh run brave remember guard exhaust ketchup frog acid stable useful";
+var mnemonic = "huge course people modify change nation actual actress say strike gadget print";

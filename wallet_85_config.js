@@ -1,1 +1,1 @@
-var mnemonic = "summer sense shallow suspect effort dry into punch ready potato stomach glue";
+var mnemonic = "rookie sight nothing display boat hub thought owner high few pear edit";

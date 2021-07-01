@@ -1,1 +1,1 @@
-var mnemonic = "burger village stone smooth deer record interest mimic medal filter vehicle tortoise";
+var mnemonic = "world stock spin auto mango exhaust legal motor inch frown income sick";

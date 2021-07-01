@@ -1,1 +1,1 @@
-var mnemonic = "bag whip illness gossip other fold room hen lounge patch cannon kiwi";
+var mnemonic = "state bomb piano act area negative stem column van copper result book";

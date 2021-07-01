@@ -1,1 +1,1 @@
-var mnemonic = "aspect icon inform index coyote banner clap accident hospital spring rib cluster";
+var mnemonic = "quiz fruit bind begin doll quarter paddle order nurse void afraid tribe";

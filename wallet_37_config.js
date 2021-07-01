@@ -1,1 +1,1 @@
-var mnemonic = "lecture unfair bounce pumpkin timber acoustic lion same south laundry borrow shoot";
+var mnemonic = "school climb silly stage able noodle lemon risk garage used champion wash";

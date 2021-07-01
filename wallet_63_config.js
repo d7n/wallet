@@ -1,1 +1,1 @@
-var mnemonic = "dilemma cake misery gun swap genius orphan under stairs this universe ozone";
+var mnemonic = "fluid report category despair fault gospel chair despair reason rural glimpse pumpkin";

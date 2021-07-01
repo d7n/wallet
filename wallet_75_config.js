@@ -1,1 +1,1 @@
-var mnemonic = "planet onion ordinary wide regular insect dolphin life copy animal agree stomach";
+var mnemonic = "now noise time teach message grant life wood leopard rice open pretty";

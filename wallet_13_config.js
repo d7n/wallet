@@ -1,1 +1,1 @@
-var mnemonic = "crash blur vicious drastic protect extend slender core opinion castle cement income";
+var mnemonic = "hybrid rifle mobile kitchen ugly swallow three where scan onion cheap square";

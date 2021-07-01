@@ -1,1 +1,1 @@
-var mnemonic = "employ anxiety you anchor awake vehicle ivory despair length sword acid rival";
+var mnemonic = "original caution crisp push weather mind envelope salon found loop hunt blast";

@@ -1,1 +1,1 @@
-var mnemonic = "reason shrug record miracle wild dice skirt act wear test poem present";
+var mnemonic = "broccoli spice never usage base buddy trash clog ball dynamic egg total";

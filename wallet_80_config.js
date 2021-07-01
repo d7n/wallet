@@ -1,1 +1,1 @@
-var mnemonic = "mother cook insect horse way pen problem tiny magic tooth year wealth";
+var mnemonic = "buyer weather van monitor obey real noodle try flame uncle bunker rally";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer tube powder animal chalk betray remind sad apology spray permit legal";
+var mnemonic = "start effort sibling leader right patch embody actress universe property task luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "body unhappy truck protect other art useful market chimney theme october flip";
+var mnemonic = "habit text object wood flower boost crane income opinion honey recall cancel";

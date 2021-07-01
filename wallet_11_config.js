@@ -1,1 +1,1 @@
-var mnemonic = "earn fossil injury suffer join task rough ring village simple juice piano";
+var mnemonic = "actual entry dilemma drift anxiety grunt purpose say enroll unusual width glow";

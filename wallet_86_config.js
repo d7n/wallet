@@ -1,1 +1,1 @@
-var mnemonic = "ignore perfect nation cover length social shop parade foot purpose rather slow";
+var mnemonic = "father coast carry opinion point moment total skate final gym scare system";

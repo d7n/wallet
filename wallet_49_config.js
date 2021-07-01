@@ -1,1 +1,1 @@
-var mnemonic = "jungle uncover toddler vapor sugar achieve immune hotel crunch exist install juice";
+var mnemonic = "cruise group sketch ball announce member game also little wrestle blush sail";

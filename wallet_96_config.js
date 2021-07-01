@@ -1,1 +1,1 @@
-var mnemonic = "fluid dumb defense awesome brief gun hat stereo laptop trust laugh mimic";
+var mnemonic = "neutral claw still culture keen fuel foster program crunch video rail survey";

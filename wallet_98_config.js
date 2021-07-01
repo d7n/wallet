@@ -1,1 +1,1 @@
-var mnemonic = "ability sun beauty try hair profit discover long denial magnet casual super";
+var mnemonic = "plug audit hockey acoustic sponsor orange occur spot left general badge lab";

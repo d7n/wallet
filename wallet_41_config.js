@@ -1,1 +1,1 @@
-var mnemonic = "load adult ramp gold outdoor ship vintage palace enlist spend venue pyramid";
+var mnemonic = "able scout scare still valve celery sheriff glow pair before join control";

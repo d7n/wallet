@@ -1,1 +1,1 @@
-var mnemonic = "jelly brief someone hour leg often guard deliver sunset sleep industry pitch";
+var mnemonic = "guitar glue never mixture innocent cruise taxi april keep crew tool motor";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier decorate armed cart iron danger actor few office tilt air lock";
+var mnemonic = "resist action city civil orient brush erase view eight start menu awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "force laptop increase tail panther faculty sure name ketchup fiber jungle mix";
+var mnemonic = "know mammal jar urge impose obey runway convince tumble rent black average";

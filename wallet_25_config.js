@@ -1,1 +1,1 @@
-var mnemonic = "elite aim sentence knock joke cupboard develop general cost convince save hope";
+var mnemonic = "middle resemble clump burden dentist casino easy speak wrong ticket plunge wink";

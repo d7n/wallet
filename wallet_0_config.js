@@ -1,1 +1,1 @@
-var mnemonic = "almost vocal ridge also chuckle keen actress hope trumpet cram then switch";
+var mnemonic = "modify infant stadium join useful album genre intact silver machine off arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "cable road violin load uncle friend large blood clay marble detect lunch";
+var mnemonic = "feel blade copper position nephew special capable hire napkin before lonely payment";

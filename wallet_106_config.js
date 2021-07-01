@@ -1,1 +1,1 @@
-var mnemonic = "loud fun order logic exact regular cheese ship benefit pretty useless relief";
+var mnemonic = "humor split brisk cash sister awake vacant dove doll awful mean umbrella";

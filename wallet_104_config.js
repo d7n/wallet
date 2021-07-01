@@ -1,1 +1,1 @@
-var mnemonic = "viable crack final rib income antique fly window tiger anxiety jaguar horn";
+var mnemonic = "police street just pill rigid lunch infant pill destroy family garage reward";

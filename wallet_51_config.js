@@ -1,1 +1,1 @@
-var mnemonic = "exhaust rabbit celery visa trade concert dumb lake rely time grit gentle";
+var mnemonic = "repair much gravity lab social they income truly evolve crop maid answer";

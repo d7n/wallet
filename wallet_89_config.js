@@ -1,1 +1,1 @@
-var mnemonic = "earth furnace purpose deal novel ahead other kit skill artefact rule acoustic";
+var mnemonic = "ketchup width clap coyote catalog torch skirt clerk slim farm entire page";

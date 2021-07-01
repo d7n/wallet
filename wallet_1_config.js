@@ -1,1 +1,1 @@
-var mnemonic = "bracket permit sustain cheap menu leg stuff year exclude tell hello output";
+var mnemonic = "use picnic dance side panel air become liquid huge fat interest vague";

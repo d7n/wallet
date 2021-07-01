@@ -1,1 +1,1 @@
-var mnemonic = "purchase truth gold fiction orphan anger roof stairs satoshi pact hand banner";
+var mnemonic = "century ice portion size toe setup trumpet husband scare omit measure congress";

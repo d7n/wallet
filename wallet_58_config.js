@@ -1,1 +1,1 @@
-var mnemonic = "electric mask curve win ordinary person tuna course essence post circle width";
+var mnemonic = "exist trouble cousin ring sick because monkey garden recipe embark visual column";

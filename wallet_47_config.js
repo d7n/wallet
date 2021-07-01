@@ -1,1 +1,1 @@
-var mnemonic = "topic debris virtual day photo skull have company jacket doctor crew flag";
+var mnemonic = "devote finish fluid size child monitor police sail man decline electric shadow";

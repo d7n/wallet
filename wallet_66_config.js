@@ -1,1 +1,1 @@
-var mnemonic = "render update pupil spirit artist satisfy bus agent faculty wash cause cause";
+var mnemonic = "festival border merge filter also quality liberty pig bulb know mule stone";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb execute guess tissue depart bright dinner define feed fitness actress resist";
+var mnemonic = "label list hurt couple march thumb donkey paper false world switch tackle";
