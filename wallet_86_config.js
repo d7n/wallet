@@ -1,1 +1,1 @@
-var mnemonic = "danger chronic judge purchase address apology appear wreck because kangaroo extend potato";
+var mnemonic = "gun bread gossip apple network gadget point sock series wisdom prefer kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome swallow matter oppose combine canal salt fresh mixture nothing around belt";
+var mnemonic = "journey loan below tail mystery virtual modify erupt foam absurd major oyster";

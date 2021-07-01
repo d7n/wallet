@@ -1,1 +1,1 @@
-var mnemonic = "cruel hybrid web drop awesome canoe lesson chicken exclude exhibit romance cruel";
+var mnemonic = "young wait donkey ability improve black nasty strong erupt obey sun forward";

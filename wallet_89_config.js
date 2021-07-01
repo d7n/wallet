@@ -1,1 +1,1 @@
-var mnemonic = "pattern tourist stone suit axis retire rather manual ski damp anxiety olympic";
+var mnemonic = "bless lady vintage fog disorder cruel risk hurt cannon shiver track favorite";

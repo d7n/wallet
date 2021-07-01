@@ -1,1 +1,1 @@
-var mnemonic = "before common miracle sketch cute spoon mechanic double day silent sorry about";
+var mnemonic = "damage history glimpse advance cross tank cheap subway spirit broom economy stereo";

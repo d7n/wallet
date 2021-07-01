@@ -1,1 +1,1 @@
-var mnemonic = "cave drill matrix sketch grant favorite choice crane dune butter story ready";
+var mnemonic = "sudden major great write rely edge actor sting crumble blouse suffer retreat";

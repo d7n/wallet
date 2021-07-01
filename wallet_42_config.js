@@ -1,1 +1,1 @@
-var mnemonic = "punch seed code profit exile act expire path aim rebuild mushroom birth";
+var mnemonic = "month where borrow sniff thought glad truck walk use menu discover flock";

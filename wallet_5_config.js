@@ -1,1 +1,1 @@
-var mnemonic = "pupil brand wire awkward balance senior outer appear piano quiz carpet bright";
+var mnemonic = "long cloud brisk mobile club tattoo original can satisfy guitar legend evidence";

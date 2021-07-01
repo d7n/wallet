@@ -1,1 +1,1 @@
-var mnemonic = "cigar power they proof antique crucial fury swamp surround toy arch version";
+var mnemonic = "infant famous woman small shoe cinnamon river tunnel bubble tiger awkward wild";

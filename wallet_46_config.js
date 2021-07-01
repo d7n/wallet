@@ -1,1 +1,1 @@
-var mnemonic = "expose host slide orchard battle jaguar fork letter very filter erase slab";
+var mnemonic = "mind minimum entire dash color captain negative ecology elegant share assist mention";

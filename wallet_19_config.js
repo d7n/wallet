@@ -1,1 +1,1 @@
-var mnemonic = "area verb giant olive bless lunch march input blood segment urge pilot";
+var mnemonic = "any hungry typical pull waste hawk gospel assault nose notable local upgrade";

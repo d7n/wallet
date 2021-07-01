@@ -1,1 +1,1 @@
-var mnemonic = "exile poet width improve music reduce warrior venue cancel crisp vessel couch";
+var mnemonic = "original industry noise argue rack detect game speed arrange tennis engine edit";

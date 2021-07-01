@@ -1,1 +1,1 @@
-var mnemonic = "alert antenna cable title index poet pipe bind tone flock slow room";
+var mnemonic = "few rib clerk above mixture avocado random tomorrow melt radar winner napkin";

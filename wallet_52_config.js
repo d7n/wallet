@@ -1,1 +1,1 @@
-var mnemonic = "include since heavy danger announce firm naive awkward tunnel census flavor receive";
+var mnemonic = "deal swear deposit rent document turn penalty deal derive endorse image street";

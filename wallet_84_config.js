@@ -1,1 +1,1 @@
-var mnemonic = "essay check buyer across sudden injury afford urge fix sign spot unit";
+var mnemonic = "pride million mule maximum duty sort cheap magic super hedgehog initial buddy";

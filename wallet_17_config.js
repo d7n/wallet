@@ -1,1 +1,1 @@
-var mnemonic = "crumble gift worth glad blind flavor ahead doctor suit disagree visit palace";
+var mnemonic = "actual fresh ready craft victory scorpion leaf battle sausage little help circle";

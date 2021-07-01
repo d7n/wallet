@@ -1,1 +1,1 @@
-var mnemonic = "dash sweet ride observe palace feature yard shine erode wash flight truth";
+var mnemonic = "flock neck pyramid coin cherry purpose armed delay chimney dash behave maze";

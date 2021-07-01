@@ -1,1 +1,1 @@
-var mnemonic = "square december magnet tube quantum isolate drama fly frame payment trial woman";
+var mnemonic = "warrior latin win track chunk eager luxury kid lawsuit van manage post";

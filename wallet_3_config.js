@@ -1,1 +1,1 @@
-var mnemonic = "corn youth strategy truth city apart pass elegant blood dawn swing salmon";
+var mnemonic = "oak car recall slide breeze diet oak burden toss siren renew shine";

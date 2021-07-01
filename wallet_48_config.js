@@ -1,1 +1,1 @@
-var mnemonic = "orange connect loyal biology misery throw little rookie morning crazy world boil";
+var mnemonic = "burden decrease style ramp glimpse light scorpion scale tissue warm cross enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "horn exchange gasp neither velvet glow unaware swallow artist divert crime clump";
+var mnemonic = "open empower mistake polar minute rather shiver flight circle lawn casual produce";

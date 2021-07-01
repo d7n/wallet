@@ -1,1 +1,1 @@
-var mnemonic = "rose walk short rally model vivid stay celery salute nature evidence poem";
+var mnemonic = "film antenna walnut smoke hawk way rebuild autumn false coast eyebrow captain";

@@ -1,1 +1,1 @@
-var mnemonic = "donate kid vacuum someone hawk hedgehog camera blood trend entry sail air";
+var mnemonic = "target crouch odor gadget napkin salad noble toss dune spatial elder deposit";

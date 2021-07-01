@@ -1,1 +1,1 @@
-var mnemonic = "hammer someone truck various clutch mad human joke tell member success they";
+var mnemonic = "valid athlete lumber cube obtain hurdle you plate grant include silver actress";

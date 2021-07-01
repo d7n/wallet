@@ -1,1 +1,1 @@
-var mnemonic = "rapid cupboard various salad icon reveal save believe system famous fan head";
+var mnemonic = "melody mixed boss egg key seven lake hip fragile bridge move elephant";

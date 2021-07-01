@@ -1,1 +1,1 @@
-var mnemonic = "pretty box industry express razor sniff uncle jewel marriage cram mandate evolve";
+var mnemonic = "jealous whisper sudden cricket write shift real junk tree focus lens fitness";

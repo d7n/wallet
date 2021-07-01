@@ -1,1 +1,1 @@
-var mnemonic = "team agent split oblige narrow car prosper enroll method current traffic pill";
+var mnemonic = "brisk regular cruise shift flash fault intact town harsh outside never tail";

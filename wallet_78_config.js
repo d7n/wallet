@@ -1,1 +1,1 @@
-var mnemonic = "salt gauge improve large unveil occur century someone plunge humor problem lumber";
+var mnemonic = "shed next thrive oppose grit aisle finger avoid oak barely ginger leader";

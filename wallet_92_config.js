@@ -1,1 +1,1 @@
-var mnemonic = "fragile faith local people voice cruel tool shaft sunset hand disease achieve";
+var mnemonic = "candy humble input course water provide lobster panda supreme toast figure wave";

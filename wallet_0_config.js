@@ -1,1 +1,1 @@
-var mnemonic = "pottery grape stumble actress forward poverty unfair fat brave lumber enter critic";
+var mnemonic = "next blur attitude tent globe lens video bullet antique garment verify describe";

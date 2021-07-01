@@ -1,1 +1,1 @@
-var mnemonic = "usage foster matter police reject domain clip off sibling favorite rose double";
+var mnemonic = "coral regret upset middle auction script below pupil vocal jar inflict whisper";

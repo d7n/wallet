@@ -1,1 +1,1 @@
-var mnemonic = "gather destroy gadget ski vacant bounce blur embrace flee cash bronze call";
+var mnemonic = "attend undo document eye affair arch blanket future boss flower pumpkin system";

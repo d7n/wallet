@@ -1,1 +1,1 @@
-var mnemonic = "spike around credit canoe vital sponsor tool craft plug renew lawsuit reflect";
+var mnemonic = "armor clean useful subway season now young morning still eye bright fix";

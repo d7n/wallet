@@ -1,1 +1,1 @@
-var mnemonic = "age symbol rebel fence wise arm bomb hole middle follow worry kidney";
+var mnemonic = "harsh honey increase mercy version settle rain battle nest vocal cousin elder";

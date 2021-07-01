@@ -1,1 +1,1 @@
-var mnemonic = "buzz live mad simple only tide museum daring system chunk ecology also";
+var mnemonic = "motion beach goddess enough girl that prevent toe damage rely glory wrist";

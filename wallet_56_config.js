@@ -1,1 +1,1 @@
-var mnemonic = "slender track receive boost check oyster aerobic hedgehog major brown harvest anger";
+var mnemonic = "artist oak color organ hotel brand salmon wear brisk lawsuit pulp antenna";

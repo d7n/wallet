@@ -1,1 +1,1 @@
-var mnemonic = "net shrimp art birth attack diagram achieve enable guard certain uncover envelope";
+var mnemonic = "phone snake fiber member wet salmon praise winner lizard home host guard";

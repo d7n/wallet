@@ -1,1 +1,1 @@
-var mnemonic = "funny sunset gap walnut morning man knife animal total town equal black";
+var mnemonic = "youth chronic admit tree fetch panic humor famous inflict thought mountain buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "soda close pave thunder shoulder combine question comfort pyramid discover tomorrow author";
+var mnemonic = "lion sock car start royal work green brief train couple adapt sponsor";

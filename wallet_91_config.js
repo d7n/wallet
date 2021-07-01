@@ -1,1 +1,1 @@
-var mnemonic = "upon long laundry use clock system debate leisure cheese milk mesh ginger";
+var mnemonic = "celery crack zero eye canoe saddle call document wish crawl prosper boring";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss weekend gap winner limit car smooth off hood frown crop flip";
+var mnemonic = "original used level atom family blossom describe nurse vicious file harvest fitness";

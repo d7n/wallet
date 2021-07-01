@@ -1,1 +1,1 @@
-var mnemonic = "cable filter useful upgrade crawl major tank can island biology relief dizzy";
+var mnemonic = "despair public grant liar empty hawk image enrich flock weapon kingdom helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra fly fame devote obvious quick pupil absent must bless casino flag";
+var mnemonic = "omit stand brother riot meadow entire divert token void bridge leisure high";

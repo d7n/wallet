@@ -1,1 +1,1 @@
-var mnemonic = "attend fever ordinary amount burden square often voyage face cost frog october";
+var mnemonic = "umbrella approve grocery moment asthma clinic machine risk hole danger mail giggle";

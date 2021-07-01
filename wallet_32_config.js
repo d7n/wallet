@@ -1,1 +1,1 @@
-var mnemonic = "chaos abuse sense fish daring because thing paddle lock delay social play";
+var mnemonic = "basket inmate salon noble text whip snake network wolf adjust maximum network";

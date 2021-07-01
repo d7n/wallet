@@ -1,1 +1,1 @@
-var mnemonic = "sauce put weather lawsuit imitate sauce damp aerobic race couch rib youth";
+var mnemonic = "case snack drive hazard water review fossil message achieve mountain nest scan";

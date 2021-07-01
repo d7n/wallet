@@ -1,1 +1,1 @@
-var mnemonic = "find surface load fat attend love explain math pill resemble mixture disagree";
+var mnemonic = "wave tuition rebuild fruit assault tongue gentle vital fault host code amateur";

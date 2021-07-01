@@ -1,1 +1,1 @@
-var mnemonic = "rough adapt print door wet nerve slab cage inject crowd ketchup filter";
+var mnemonic = "arrest about unfair test note page water start dad flower tuna denial";

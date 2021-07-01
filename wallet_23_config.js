@@ -1,1 +1,1 @@
-var mnemonic = "muffin dune knee squeeze cup park rack noble room denial hidden unfair";
+var mnemonic = "scrub blush letter earn wrap arrest alarm slush chaos rabbit secret minor";

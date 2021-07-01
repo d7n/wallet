@@ -1,1 +1,1 @@
-var mnemonic = "suggest point peanut gossip pole museum supreme believe title blouse wear brick";
+var mnemonic = "opinion blossom scout voice often beach pen myself grocery urban judge evil";

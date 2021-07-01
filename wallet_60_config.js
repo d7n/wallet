@@ -1,1 +1,1 @@
-var mnemonic = "cash divert crush habit produce kitchen increase solar convince corn prevent train";
+var mnemonic = "valve town whip today accuse champion denial lumber afraid pipe spider tragic";

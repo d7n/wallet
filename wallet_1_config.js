@@ -1,1 +1,1 @@
-var mnemonic = "swift monitor wheel country fitness raw route final another educate wild liberty";
+var mnemonic = "thing damp carry utility reward net rack describe coach loyal pond cycle";

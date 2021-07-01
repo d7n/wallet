@@ -1,1 +1,1 @@
-var mnemonic = "destroy pledge indoor layer globe medal travel finish skin cannon correct design";
+var mnemonic = "lunch rely patrol better yard same second undo thunder grid trade benefit";

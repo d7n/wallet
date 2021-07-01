@@ -1,1 +1,1 @@
-var mnemonic = "answer wrap pet hospital garbage warm like strategy mention sketch kitchen snow";
+var mnemonic = "inch ski rhythm grief kangaroo palace conduct arm column member lake student";

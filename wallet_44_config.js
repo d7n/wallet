@@ -1,1 +1,1 @@
-var mnemonic = "pepper bamboo release box cricket pizza purity weapon what category nurse fit";
+var mnemonic = "insect chief conduct december rib fashion oak pear aunt broken half pioneer";

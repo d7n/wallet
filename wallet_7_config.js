@@ -1,1 +1,1 @@
-var mnemonic = "glide dove crater garlic social situate robust column coast prefer minute because";
+var mnemonic = "write park unknown people recall buddy kitten lounge squirrel topic sheriff holiday";

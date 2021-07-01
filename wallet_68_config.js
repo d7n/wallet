@@ -1,1 +1,1 @@
-var mnemonic = "salmon neck jealous raise pulp found casino eager exhaust wide child imitate";
+var mnemonic = "bone neutral manual unlock scrap zoo swear magnet wrong melody outer sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle black small suggest outside bundle execute click story parrot unhappy profit";
+var mnemonic = "exact slam bachelor kidney catalog chat anxiety birth load faith attack walnut";

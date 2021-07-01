@@ -1,1 +1,1 @@
-var mnemonic = "error casual hat dash furnace equal mixture voice dragon impulse seat reveal";
+var mnemonic = "endless corn head suffer robot number pistol bicycle skull buffalo good grit";

@@ -1,1 +1,1 @@
-var mnemonic = "social rate parent group couple crystal blade equal canyon dwarf size soft";
+var mnemonic = "arrange rural cost fence capital code profit major degree burden table situate";

@@ -1,1 +1,1 @@
-var mnemonic = "primary input axis cluster depth faint move minor section child gown math";
+var mnemonic = "uncover two disorder loop rotate turtle upset angry gallery tornado summer tip";

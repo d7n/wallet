@@ -1,1 +1,1 @@
-var mnemonic = "donkey fold physical utility exhaust afraid hammer bean knee reform drift hair";
+var mnemonic = "swim ordinary liar fun isolate enjoy track check street hunt cart excuse";

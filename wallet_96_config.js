@@ -1,1 +1,1 @@
-var mnemonic = "struggle relax scene during about vapor wasp river boil banana praise cost";
+var mnemonic = "teach because scene dose patient hybrid pumpkin insane auction guilt bacon curve";

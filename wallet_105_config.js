@@ -1,1 +1,1 @@
-var mnemonic = "rent copper party sunset because bitter receive ordinary absurd youth march cargo";
+var mnemonic = "drink guilt sweet fence common rich cart three coffee nasty shrug trigger";

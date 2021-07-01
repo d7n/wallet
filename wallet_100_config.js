@@ -1,1 +1,1 @@
-var mnemonic = "bargain jewel master steel wait silk pyramid below split govern always season";
+var mnemonic = "slight tattoo vacuum three decade crime island say produce glue approve heavy";

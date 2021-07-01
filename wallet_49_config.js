@@ -1,1 +1,1 @@
-var mnemonic = "grain ketchup toddler end resist bracket settle visa leave trend demise focus";
+var mnemonic = "canyon hungry leisure cash apart frown panda drill polar universe wood inspire";

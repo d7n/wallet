@@ -1,1 +1,1 @@
-var mnemonic = "vital bonus resist method soldier august strategy decade have alert leg glad";
+var mnemonic = "earth require hybrid flat eagle base method spread uphold jealous duty shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate pool medal father sing negative pulp aunt dismiss cereal fiber lake";
+var mnemonic = "tail happy toddler pulse deny lock barely case regular green furnace across";

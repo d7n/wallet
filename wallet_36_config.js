@@ -1,1 +1,1 @@
-var mnemonic = "surge check material promote solution naive horror suggest rich verb oppose hire";
+var mnemonic = "oyster observe road tree frost review erode humble lemon shrug begin visual";

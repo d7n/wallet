@@ -1,1 +1,1 @@
-var mnemonic = "stairs response critic thumb jungle half stomach rescue shadow soon song yellow";
+var mnemonic = "island vibrant egg twelve drill ribbon brass patient invest typical shop axis";

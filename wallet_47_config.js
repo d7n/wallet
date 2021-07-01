@@ -1,1 +1,1 @@
-var mnemonic = "vicious weasel vacant pull thunder reflect snake comic chuckle endless ancient behave";
+var mnemonic = "giggle select borrow mimic grab ginger observe light iron ostrich flash jealous";

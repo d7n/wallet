@@ -1,1 +1,1 @@
-var mnemonic = "unusual pyramid swallow actress rescue usual energy rebel cliff direct crush kite";
+var mnemonic = "inflict embark cliff buffalo wheel theme pool tiger desk mammal shove drama";

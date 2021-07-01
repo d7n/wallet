@@ -1,1 +1,1 @@
-var mnemonic = "pear team play sphere exotic skin divorce sail juice observe wise nominee";
+var mnemonic = "risk buddy village client affair cake title body pioneer solid vague announce";

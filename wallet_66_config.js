@@ -1,1 +1,1 @@
-var mnemonic = "sample double afraid theme super forward shrimp art grace sibling proof cargo";
+var mnemonic = "parade wonder autumn venue opera advice today few side onion echo general";

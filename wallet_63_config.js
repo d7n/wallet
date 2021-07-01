@@ -1,1 +1,1 @@
-var mnemonic = "sock journey peace result display alarm economy worry hen mansion debate topic";
+var mnemonic = "plug aunt trap pipe aunt fee west left divert reform two gift";

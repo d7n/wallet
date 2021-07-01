@@ -1,1 +1,1 @@
-var mnemonic = "tornado cabin hurry insane genius cry thunder flee song asthma choose cement";
+var mnemonic = "fade cash clutch post stairs gas bright measure cry ordinary stereo hill";

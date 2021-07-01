@@ -1,1 +1,1 @@
-var mnemonic = "board mix number rocket sword alter reflect force patient daughter glory dog";
+var mnemonic = "glass bundle pilot myself deliver income pattern forget island medal carpet inflict";

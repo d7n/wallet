@@ -1,1 +1,1 @@
-var mnemonic = "run return genre fabric stuff night baby mercy almost stem ankle captain";
+var mnemonic = "tourist photo solid end under secret edit film very away field yellow";

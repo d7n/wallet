@@ -1,1 +1,1 @@
-var mnemonic = "beef bean dynamic twelve picnic town phrase page spot rely tilt poet";
+var mnemonic = "symbol heavy cherry nest scissors latin lab across invite minimum problem hen";

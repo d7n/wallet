@@ -1,1 +1,1 @@
-var mnemonic = "gospel party fine found question oyster layer cart strike enter coil pulse";
+var mnemonic = "arctic patient turn hockey tuition fix fish twice fence sweet sort grid";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior memory guilt curious cinnamon ripple mercy exist cupboard vehicle present system";
+var mnemonic = "physical zebra around interest indoor balcony spell action dose word sunny expire";

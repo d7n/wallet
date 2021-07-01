@@ -1,1 +1,1 @@
-var mnemonic = "arctic icon length scorpion fox mesh submit liberty enrich smooth indoor library";
+var mnemonic = "neither suspect worth inch sunny major silver way opera twelve material social";

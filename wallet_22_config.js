@@ -1,1 +1,1 @@
-var mnemonic = "crumble recycle matter stone note machine present winner six march neither decide";
+var mnemonic = "wear sample runway devote like excite shoot tumble impulse target this warrior";

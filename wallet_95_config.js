@@ -1,1 +1,1 @@
-var mnemonic = "monkey accuse bacon smart glide bulk upon million ginger cheap cook absurd";
+var mnemonic = "behind direct dream boss helmet multiply paper human spare cash doctor tiny";

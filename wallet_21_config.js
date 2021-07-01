@@ -1,1 +1,1 @@
-var mnemonic = "fun cry put pool kidney sound fat ivory sudden album velvet shop";
+var mnemonic = "embark glow pattern place above path inhale evidence poet ticket person produce";

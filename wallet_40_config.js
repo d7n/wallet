@@ -1,1 +1,1 @@
-var mnemonic = "bread length slide confirm local world drive tornado laugh squirrel illegal pencil";
+var mnemonic = "hurt original abuse boil stock sunny weird slam slim utility invite tide";

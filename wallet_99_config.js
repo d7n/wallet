@@ -1,1 +1,1 @@
-var mnemonic = "year mention oven female tail brass mystery desk remain stable shield turn";
+var mnemonic = "reopen finish rather cycle pride coin market venue exist despair rich hurdle";

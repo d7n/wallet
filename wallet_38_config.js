@@ -1,1 +1,1 @@
-var mnemonic = "comic aim fun enjoy better theme punch science mistake number honey stuff";
+var mnemonic = "coyote churn loan flower heavy liar erode awful vacuum actor evidence indoor";

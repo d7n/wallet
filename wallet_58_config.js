@@ -1,1 +1,1 @@
-var mnemonic = "cactus poem element model squeeze rhythm label gloom urban ability present unique";
+var mnemonic = "match model gorilla patrol response silk inject box illegal buzz thrive afraid";

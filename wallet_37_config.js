@@ -1,1 +1,1 @@
-var mnemonic = "false toast wine opera undo vicious scrub wonder wish used science detect";
+var mnemonic = "tool lawsuit extend cook improve matrix pencil bulk camp session position tribe";

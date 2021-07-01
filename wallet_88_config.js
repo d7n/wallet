@@ -1,1 +1,1 @@
-var mnemonic = "funny various tennis energy mention final brush rich vocal vital lawn funny";
+var mnemonic = "skull ski prevent bench nerve canvas error velvet deliver shrimp group scout";

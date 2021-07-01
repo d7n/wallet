@@ -1,1 +1,1 @@
-var mnemonic = "pony trigger seven ugly cluster hurdle roof object margin sting update stuff";
+var mnemonic = "search obvious liar dose zebra truly flag hood ignore know gap nominee";
