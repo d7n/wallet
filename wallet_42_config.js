@@ -1,1 +1,1 @@
-var mnemonic = "anxiety menu reunion script hub roast drum train health kidney firm math";
+var mnemonic = "pistol play horn seminar train bargain move diesel innocent pudding peasant mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh meadow grape audit congress where town vessel bonus glue discover trigger";
+var mnemonic = "force say brisk fringe honey blind citizen fantasy glass unit sock rebuild";

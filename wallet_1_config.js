@@ -1,1 +1,1 @@
-var mnemonic = "rent explain virus flat horn lesson fury opera grid industry shrimp truck";
+var mnemonic = "apart inner donor public prosper act wet rival dad faith history host";

@@ -1,1 +1,1 @@
-var mnemonic = "round jump second category wasp method easily buzz bonus orange nest derive";
+var mnemonic = "glory bracket rug column human balance sound gift volcano dance nest stem";

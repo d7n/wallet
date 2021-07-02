@@ -1,1 +1,1 @@
-var mnemonic = "still patient hybrid rifle arch ivory message embark proof derive small device";
+var mnemonic = "eight rain knee ecology wrap system cream erode evoke heavy hunt crazy";

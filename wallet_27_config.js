@@ -1,1 +1,1 @@
-var mnemonic = "bamboo wage hidden real cube forum enemy dice jaguar sugar project else";
+var mnemonic = "hollow leg bless monster else silly february oxygen icon slim owner tank";

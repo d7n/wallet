@@ -1,1 +1,1 @@
-var mnemonic = "spike tenant reward disagree roof strategy flower rice rocket kit wheat tower";
+var mnemonic = "merge seed garment ghost layer curtain cabin long young language anxiety crouch";

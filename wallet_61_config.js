@@ -1,1 +1,1 @@
-var mnemonic = "order trend ring cabbage unable female bless venture quit ordinary wise coyote";
+var mnemonic = "near pottery kit buyer rely brave below dry play lend portion fitness";

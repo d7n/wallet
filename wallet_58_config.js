@@ -1,1 +1,1 @@
-var mnemonic = "phrase trick wait coin phone betray top tube glide text sand amazing";
+var mnemonic = "multiply budget quote whale prefer asthma action syrup say crash fiber aim";

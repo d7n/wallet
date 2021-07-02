@@ -1,1 +1,1 @@
-var mnemonic = "crazy merit dinosaur guard please sketch enhance choice tonight hurt seminar elephant";
+var mnemonic = "inflict proud jump gate jacket rain youth robot hip expire glare upper";

@@ -1,1 +1,1 @@
-var mnemonic = "brick idea blossom mixture avocado shadow reward magic elbow barely trap gain";
+var mnemonic = "track gentle exhaust retire build between coffee stuff bike sign frown hint";

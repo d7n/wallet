@@ -1,1 +1,1 @@
-var mnemonic = "wise height suit cradle sample thank opera small balance total theme become";
+var mnemonic = "taxi feature arrow solution stumble asset source general entry grit inner pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "donor inflict vintage badge giggle sort settle photo one own same just";
+var mnemonic = "absent hazard execute trend inner stone solar twist embody fancy motion jar";

@@ -1,1 +1,1 @@
-var mnemonic = "point bundle auto video snow best story inflict false reopen jelly prosper";
+var mnemonic = "slide entire explain trip clutch discover account next pink guard veteran insane";

@@ -1,1 +1,1 @@
-var mnemonic = "method decrease sheriff trouble awful frequent mad nest actress lava anchor gadget";
+var mnemonic = "crush wolf comic dad roast ankle flee enroll captain throw owner jazz";

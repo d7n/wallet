@@ -1,1 +1,1 @@
-var mnemonic = "fruit quantum blue hybrid roast exchange island coyote injury outdoor comic used";
+var mnemonic = "ecology daring concert toward caution move turkey acquire cable final leaf since";

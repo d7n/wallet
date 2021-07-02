@@ -1,1 +1,1 @@
-var mnemonic = "pull mask teach sadness moon square involve bracket found pipe soup coin";
+var mnemonic = "outside rubber tag giggle breeze void bronze city opinion occur segment hobby";

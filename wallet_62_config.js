@@ -1,1 +1,1 @@
-var mnemonic = "skate bitter icon paper meadow inhale attack raw prepare elder bone skill";
+var mnemonic = "play abandon oxygen sniff knife evoke mixed cupboard hurt entry arch future";

@@ -1,1 +1,1 @@
-var mnemonic = "spider adjust milk enforce improve visa cave siren gas limit cart note";
+var mnemonic = "solid immune above pigeon brain correct blade embrace episode brisk member find";

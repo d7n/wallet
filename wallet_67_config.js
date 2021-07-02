@@ -1,1 +1,1 @@
-var mnemonic = "world add soon hybrid dance robot ginger army crumble planet film snap";
+var mnemonic = "trouble draw vivid direct arena select office argue property clock citizen moment";

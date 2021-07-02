@@ -1,1 +1,1 @@
-var mnemonic = "remind park name success middle pause tennis minimum beef miracle afraid cruel";
+var mnemonic = "thank print carpet absurd patrol original leader spy spy another beach advance";

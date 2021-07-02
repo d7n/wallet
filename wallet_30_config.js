@@ -1,1 +1,1 @@
-var mnemonic = "toe relax purse spell elevator resist awesome agent theme exhaust close imitate";
+var mnemonic = "advance flash capital wish vague design illegal minute awake endorse soup amused";

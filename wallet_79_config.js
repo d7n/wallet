@@ -1,1 +1,1 @@
-var mnemonic = "wage shadow finish enforce bring dolphin spy stand lend artist wave drop";
+var mnemonic = "example chair flower course coil game orient spread cement solid news author";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty coast scene burst ring coach dignity private awesome cover chapter square";
+var mnemonic = "city build agree piano nuclear rotate weapon pill virtual fluid puzzle lamp";

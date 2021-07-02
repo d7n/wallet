@@ -1,1 +1,1 @@
-var mnemonic = "basket wonder cheese peanut believe smooth benefit jacket rigid jungle double video";
+var mnemonic = "dwarf gap unknown fossil kingdom connect disagree eight beef team gym inmate";

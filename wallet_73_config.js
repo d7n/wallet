@@ -1,1 +1,1 @@
-var mnemonic = "nest betray write path filter own lend attract half hire apple congress";
+var mnemonic = "view layer grunt coast remain suggest sleep wheat clock sudden risk resemble";

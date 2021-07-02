@@ -1,1 +1,1 @@
-var mnemonic = "unfair want entry range virus minimum favorite clinic also input tissue dumb";
+var mnemonic = "genius throw announce worth rebel sunny address humor foster exist october note";

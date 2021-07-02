@@ -1,1 +1,1 @@
-var mnemonic = "okay acid mercy pilot orphan steak jelly garden glare engine chimney timber";
+var mnemonic = "easily joy rapid duty iron resist attract artefact taste toast catalog forget";

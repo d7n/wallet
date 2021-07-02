@@ -1,1 +1,1 @@
-var mnemonic = "culture morning rice hover turtle under erase garage until learn stuff panic";
+var mnemonic = "fire tank camp busy prison buzz spider shallow energy hip melt sad";

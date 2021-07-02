@@ -1,1 +1,1 @@
-var mnemonic = "fly clean jazz dance admit green sketch agent card act detect fame";
+var mnemonic = "fetch case vanish subject change property mesh avocado whip alley eye seek";

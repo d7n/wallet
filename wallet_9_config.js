@@ -1,1 +1,1 @@
-var mnemonic = "interest genre meadow tribe boil limit short hundred scout birth goat repeat";
+var mnemonic = "captain jaguar language hold sustain person proof gauge card decide toddler blossom";

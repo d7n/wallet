@@ -1,1 +1,1 @@
-var mnemonic = "loan obvious drip charge oyster apple proud jewel marriage napkin hour loud";
+var mnemonic = "rabbit soon mean amused east april use robust job erosion orchard dinner";

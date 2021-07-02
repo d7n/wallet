@@ -1,1 +1,1 @@
-var mnemonic = "alone pledge figure disagree elevator source luxury final pyramid eagle deputy nose";
+var mnemonic = "scissors raccoon fiber wedding cause damp artwork reject father involve farm puzzle";

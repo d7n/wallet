@@ -1,1 +1,1 @@
-var mnemonic = "rescue bless squirrel cluster profit decrease question poverty return soda long broccoli";
+var mnemonic = "add struggle mandate human hip loud together north praise enjoy code cute";

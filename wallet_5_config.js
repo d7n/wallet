@@ -1,1 +1,1 @@
-var mnemonic = "inherit electric because spirit choice trumpet case language dial drum ripple simple";
+var mnemonic = "work loud lecture girl donkey inform pepper insect repeat warrior cheese isolate";

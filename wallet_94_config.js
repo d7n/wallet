@@ -1,1 +1,1 @@
-var mnemonic = "little primary donkey habit crucial blame task cram pool melody spell brisk";
+var mnemonic = "north suffer again swamp hub scene milk melody unaware crack record blouse";

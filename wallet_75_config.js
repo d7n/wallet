@@ -1,1 +1,1 @@
-var mnemonic = "green physical bamboo subway crazy sword hungry north aisle picture garlic upper";
+var mnemonic = "vessel chronic heavy napkin add general boil sponsor impact trust health indoor";

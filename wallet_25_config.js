@@ -1,1 +1,1 @@
-var mnemonic = "journey episode spray dice absent nothing renew future media tape topic era";
+var mnemonic = "oppose light pizza quit true opinion brass stand mistake stadium similar ladder";

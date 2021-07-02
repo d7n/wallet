@@ -1,1 +1,1 @@
-var mnemonic = "outer yard pool sport bike embark meat win vault mind own curtain";
+var mnemonic = "magnet unable truth tent loyal train wide dinner tackle build industry announce";

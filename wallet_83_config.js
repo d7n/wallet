@@ -1,1 +1,1 @@
-var mnemonic = "decade sun upper lyrics area kite change forget area razor grocery know";
+var mnemonic = "blouse stuff ranch festival cycle various pull left moral shine tragic brain";

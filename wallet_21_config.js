@@ -1,1 +1,1 @@
-var mnemonic = "kitchen proof battle absurd treat moral account battle tilt degree dragon pole";
+var mnemonic = "ready flip already public absent list keep survey violin around tragic grit";

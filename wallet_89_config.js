@@ -1,1 +1,1 @@
-var mnemonic = "polar arrest glimpse motor cruise cake palace coyote produce kiwi monster accident";
+var mnemonic = "culture consider orient shallow shadow desert trade symbol truly south sniff slight";

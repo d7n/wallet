@@ -1,1 +1,1 @@
-var mnemonic = "fat spend ability soon satoshi side quick rotate news admit fiber anchor";
+var mnemonic = "shoulder dove pipe camera cost feature panic when timber orphan screen cradle";

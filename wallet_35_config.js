@@ -1,1 +1,1 @@
-var mnemonic = "moment punch gown disorder assault answer salmon element brief hospital exchange impulse";
+var mnemonic = "police scan finish forest install discover click car essence choose trophy found";

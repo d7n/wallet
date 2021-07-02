@@ -1,1 +1,1 @@
-var mnemonic = "aunt soon easy great uphold affair danger appear worry view time toy";
+var mnemonic = "abstract chronic eyebrow three craft guide want proud royal gospel immune stove";

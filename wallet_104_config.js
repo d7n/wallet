@@ -1,1 +1,1 @@
-var mnemonic = "around lens garden nest isolate morning estate frown boil canal tourist result";
+var mnemonic = "crash tennis siege hamster autumn mixture size inch exotic emotion husband tomato";

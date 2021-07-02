@@ -1,1 +1,1 @@
-var mnemonic = "corn office praise surface turtle celery lumber avoid benefit exhibit affair muffin";
+var mnemonic = "category magnet potato attend sword deposit ball cloud fish runway frozen attack";

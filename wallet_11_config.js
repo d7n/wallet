@@ -1,1 +1,1 @@
-var mnemonic = "spend clog scorpion better book cereal away young abandon drastic obey clock";
+var mnemonic = "margin term winner claim discover area pond misery grocery identify couch dune";

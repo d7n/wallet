@@ -1,1 +1,1 @@
-var mnemonic = "unfair prize party avoid retire gaze market fork laundry mushroom august hedgehog";
+var mnemonic = "rebuild loyal sunset adult injury senior seven argue dust economy replace identify";

@@ -1,1 +1,1 @@
-var mnemonic = "title cannon hand captain comic pencil shine lemon decorate clerk disagree picture";
+var mnemonic = "tomato transfer allow report maze wheel depend caught lumber pact valve squeeze";

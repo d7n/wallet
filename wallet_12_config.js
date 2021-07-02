@@ -1,1 +1,1 @@
-var mnemonic = "object sense orient list enhance rifle general noble tourist citizen purse gain";
+var mnemonic = "vague tilt summer shoe exclude bid shove input enforce broom envelope civil";

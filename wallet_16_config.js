@@ -1,1 +1,1 @@
-var mnemonic = "accuse crunch asset drum program rocket cook ring firm alone donor donor";
+var mnemonic = "smart help evolve find orient kidney bulk awkward already used immune donor";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff insect sister shift amount elbow plastic leader ring stove muscle broccoli";
+var mnemonic = "obvious spare mansion hundred feature armed wage toast giraffe input reject comic";

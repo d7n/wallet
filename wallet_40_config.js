@@ -1,1 +1,1 @@
-var mnemonic = "father mobile scrub certain run syrup festival whisper welcome tobacco copper warfare";
+var mnemonic = "must agent age suffer prepare seven arrest inside punch twin amount swift";

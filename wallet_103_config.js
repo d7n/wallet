@@ -1,1 +1,1 @@
-var mnemonic = "crisp problem curtain term artist rival rescue across shine legal damp clutch";
+var mnemonic = "notice dirt quarter number inspire guard ready vivid mass situate divert boss";

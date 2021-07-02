@@ -1,1 +1,1 @@
-var mnemonic = "ice motor fix reunion uncle duty close multiply club ranch neglect hint";
+var mnemonic = "subject trophy burden hello stand say shoot faint crystal chronic size dutch";

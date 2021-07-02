@@ -1,1 +1,1 @@
-var mnemonic = "donor blood pact mushroom sadness core jump mountain pen latin public pony";
+var mnemonic = "cake alter arrest vote slight state shell there bitter illegal wall prison";

@@ -1,1 +1,1 @@
-var mnemonic = "spring bench group subject sun mystery final piece swift panther split engage";
+var mnemonic = "fluid island lift grass syrup apart rich devote twin eager reopen have";

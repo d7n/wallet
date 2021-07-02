@@ -1,1 +1,1 @@
-var mnemonic = "speed transfer near fuel fluid cross split blame kind major scout gauge";
+var mnemonic = "fashion repeat life obey addict thing captain report blast hub charge rug";

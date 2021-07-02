@@ -1,1 +1,1 @@
-var mnemonic = "voyage flower party flame bone tell jaguar gesture upgrade velvet inherit senior";
+var mnemonic = "volcano income random intact child coach length census worth series element major";

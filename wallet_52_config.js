@@ -1,1 +1,1 @@
-var mnemonic = "distance powder hospital shoulder wire easily wear level put fitness armed marriage";
+var mnemonic = "giant route cram yard escape frozen enrich coral two picnic recycle expect";

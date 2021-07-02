@@ -1,1 +1,1 @@
-var mnemonic = "absent problem side pink power middle artwork image mad van frequent hair";
+var mnemonic = "razor hobby veteran author drift access alone upper about magic attack juice";

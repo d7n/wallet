@@ -1,1 +1,1 @@
-var mnemonic = "brother car humor tuna into device social load dentist bubble trigger educate";
+var mnemonic = "neglect eternal pause drill lift next zone when busy veteran stable section";

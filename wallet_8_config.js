@@ -1,1 +1,1 @@
-var mnemonic = "pig bronze hidden hen crucial orchard arrive review option basket scrap ten";
+var mnemonic = "rhythm taxi ensure entire occur powder okay follow hill squeeze craft guess";

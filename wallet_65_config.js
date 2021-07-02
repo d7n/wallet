@@ -1,1 +1,1 @@
-var mnemonic = "balcony music eyebrow clever enrich final clown shiver attitude zebra anxiety rally";
+var mnemonic = "pair panel enforce sure market payment number scare auto ticket total domain";

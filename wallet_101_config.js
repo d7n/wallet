@@ -1,1 +1,1 @@
-var mnemonic = "gather birth grant zebra degree balcony despair picture stool firm benefit buddy";
+var mnemonic = "swarm ability return author gap boil intact guard universe silk flash movie";

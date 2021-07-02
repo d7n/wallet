@@ -1,1 +1,1 @@
-var mnemonic = "tree useless canyon baby thrive frequent cat slab earth above actor bring";
+var mnemonic = "say alpha pledge myth ten nurse pottery lock coast fabric denial quit";

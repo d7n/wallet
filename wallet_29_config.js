@@ -1,1 +1,1 @@
-var mnemonic = "local scatter orbit profit alley prefer talent chimney walk bring indoor goat";
+var mnemonic = "game narrow brief one parade enact pony road blossom team census bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella diesel early mammal settle planet vault legal smooth visual fetch rug";
+var mnemonic = "sweet notice pact door flash office smoke crash vivid ribbon rapid cheese";

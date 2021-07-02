@@ -1,1 +1,1 @@
-var mnemonic = "best crystal shine club eye edge impose canyon bomb girl dismiss ethics";
+var mnemonic = "napkin ethics swift job urge churn grape moon amused satoshi wedding first";

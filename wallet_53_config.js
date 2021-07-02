@@ -1,1 +1,1 @@
-var mnemonic = "suggest law run harvest claim conduct silver clutch clinic opera famous broken";
+var mnemonic = "ranch rude spin truth carry father soft result cute chronic wire bar";

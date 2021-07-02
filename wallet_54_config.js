@@ -1,1 +1,1 @@
-var mnemonic = "grunt brass doll couple assume parade welcome balcony olympic leader script zebra";
+var mnemonic = "hammer alley base famous thank mom park inmate struggle bind mutual possible";

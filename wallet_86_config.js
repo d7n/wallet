@@ -1,1 +1,1 @@
-var mnemonic = "material mobile either pretty sunny romance riot joy heart team tobacco artist";
+var mnemonic = "mind tired basic brisk danger pulse broccoli economy cloth advance blood farm";

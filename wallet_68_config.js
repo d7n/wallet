@@ -1,1 +1,1 @@
-var mnemonic = "swap book indicate brother code spring crash judge harvest round snap image";
+var mnemonic = "leopard ten mad addict wet miracle buzz much deal decorate when bottom";

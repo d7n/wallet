@@ -1,1 +1,1 @@
-var mnemonic = "tower real moral drill core cable isolate plastic horse soccer sorry warm";
+var mnemonic = "actor robust wall rug mutual jaguar approve private enforce great patrol wrong";

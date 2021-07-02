@@ -1,1 +1,1 @@
-var mnemonic = "humble wasp entire dumb concert genius observe wrestle laundry exhibit blame impose";
+var mnemonic = "rough taste scan cupboard viable option dish blade join favorite nerve erupt";

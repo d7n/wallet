@@ -1,1 +1,1 @@
-var mnemonic = "camera patient theme more eye cover own adapt price west lawsuit repeat";
+var mnemonic = "slow venue reunion nasty monitor quick icon myth visa scrap build science";

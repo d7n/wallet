@@ -1,1 +1,1 @@
-var mnemonic = "claim image coyote dilemma ketchup farm better wait car divert escape slice";
+var mnemonic = "ribbon type desert excite black cattle cement laundry custom guitar hip cup";

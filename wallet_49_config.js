@@ -1,1 +1,1 @@
-var mnemonic = "spike head sure dune pluck ankle junk metal leopard barely impulse uniform";
+var mnemonic = "gauge diamond wedding radio coast toilet tornado young domain soda filter resist";

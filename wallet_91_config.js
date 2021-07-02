@@ -1,1 +1,1 @@
-var mnemonic = "width genius vacuum absorb dirt light limit enter floor brass hair exchange";
+var mnemonic = "because image time giant size vanish sister lonely length people twist fire";

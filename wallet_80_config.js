@@ -1,1 +1,1 @@
-var mnemonic = "parrot actress sand peasant hen crew merge flag bacon evolve cheap outside";
+var mnemonic = "good girl high machine maple jar base slight prefer any whale umbrella";

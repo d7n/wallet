@@ -1,1 +1,1 @@
-var mnemonic = "vanish day hope access any magnet limb alarm charge lawn tomorrow sudden";
+var mnemonic = "boost normal claw detect pattern remember adjust confirm couch scan biology swing";

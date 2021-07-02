@@ -1,1 +1,1 @@
-var mnemonic = "card donkey main erosion season man away pumpkin drum glove aware reduce";
+var mnemonic = "object gym tone spread before opera cruel response parade kitten doll cargo";

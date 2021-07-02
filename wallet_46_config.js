@@ -1,1 +1,1 @@
-var mnemonic = "ethics private tumble they trophy empty ten ticket dad rhythm unhappy credit";
+var mnemonic = "immune tide invest coin treat simple yard special work slogan dust boy";

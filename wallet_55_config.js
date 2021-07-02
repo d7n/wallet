@@ -1,1 +1,1 @@
-var mnemonic = "enact trial follow angry lock close point frozen toss empty floor depth";
+var mnemonic = "devote maximum benefit ten deal clog stuff jazz fall unaware rug street";

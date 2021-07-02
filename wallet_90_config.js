@@ -1,1 +1,1 @@
-var mnemonic = "foot expose front immune render exercise nut safe hire phrase make goddess";
+var mnemonic = "human merit hint early drum decade lonely solution brown return borrow satisfy";

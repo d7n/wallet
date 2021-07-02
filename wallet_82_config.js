@@ -1,1 +1,1 @@
-var mnemonic = "video carpet grab myth source birth mad book more sausage again pepper";
+var mnemonic = "any fruit exercise until trust rebel visit exchange vanish juice crouch iron";

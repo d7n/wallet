@@ -1,1 +1,1 @@
-var mnemonic = "asset sail special bullet monkey crazy broom lunar force false clean enrich";
+var mnemonic = "barely cushion announce regret awkward dynamic gravity toy steak ready story cargo";
