@@ -1,1 +1,1 @@
-var mnemonic = "truly potato weather arrive wreck cement road sustain jeans ice voice vault";
+var mnemonic = "sponsor brisk trigger orient cloth dream harvest thumb lemon where sock pledge";

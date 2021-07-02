@@ -1,1 +1,1 @@
-var mnemonic = "opera daring kitchen surface march fog please six sausage cheese letter now";
+var mnemonic = "dilemma marble ahead fall armed model hover drip cash say favorite tennis";

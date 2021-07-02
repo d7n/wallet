@@ -1,1 +1,1 @@
-var mnemonic = "worth fine fury danger indoor end vintage dragon emerge fox injury hurry";
+var mnemonic = "fiscal flight misery gather medal decade accident proud jar emotion lazy coffee";

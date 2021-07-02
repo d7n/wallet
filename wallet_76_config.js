@@ -1,1 +1,1 @@
-var mnemonic = "young expire better escape bitter mass omit zero romance interest pear then";
+var mnemonic = "faint deliver van bunker lock pencil search scene artefact paper enrich add";

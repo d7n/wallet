@@ -1,1 +1,1 @@
-var mnemonic = "senior comfort honey concert someone tray armor cheap just chuckle pen yellow";
+var mnemonic = "remind raven delay beauty chuckle they flat trust bleak song purpose six";

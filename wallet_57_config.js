@@ -1,1 +1,1 @@
-var mnemonic = "body admit hope cushion winner fortune body cake escape beach evil toy";
+var mnemonic = "fetch satisfy double scatter food curve better left glance scare range bullet";

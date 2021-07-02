@@ -1,1 +1,1 @@
-var mnemonic = "snack turn feature remind giraffe wine meadow burden paddle snake disease fiscal";
+var mnemonic = "trap tide rule pave can bamboo soft effort alarm practice turkey caught";

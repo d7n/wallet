@@ -1,1 +1,1 @@
-var mnemonic = "thumb unusual mixed recycle east topple swing coast clever reunion exotic duck";
+var mnemonic = "elephant erupt elder confirm office bulk artist paddle skin junior sunny juice";

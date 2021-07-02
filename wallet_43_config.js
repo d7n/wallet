@@ -1,1 +1,1 @@
-var mnemonic = "boil bunker mass ivory hire lobster oyster lizard auto average concert song";
+var mnemonic = "bread gap harbor indoor trouble gentle absorb tennis evolve candy upon educate";

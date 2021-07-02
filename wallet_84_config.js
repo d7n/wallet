@@ -1,1 +1,1 @@
-var mnemonic = "salmon art undo holiday test option mind divide awkward scissors spend license";
+var mnemonic = "pave own pulp total battle service tobacco minimum midnight spoil field fly";

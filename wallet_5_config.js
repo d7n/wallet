@@ -1,1 +1,1 @@
-var mnemonic = "rival upgrade turtle tray happy tortoise leader loyal disease adapt witness admit";
+var mnemonic = "dignity ripple party short host rescue quantum crush laugh disease soup helmet";

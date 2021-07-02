@@ -1,1 +1,1 @@
-var mnemonic = "struggle flip best gate garage chief language jealous vote stock menu fatal";
+var mnemonic = "sausage harsh finger found miss glimpse code sea lake tourist rescue behind";

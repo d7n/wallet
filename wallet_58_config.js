@@ -1,1 +1,1 @@
-var mnemonic = "race service permit moment kind width second chuckle civil orphan evidence south";
+var mnemonic = "door lend horror bitter breeze extra rice jazz expire december deposit false";

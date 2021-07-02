@@ -1,1 +1,1 @@
-var mnemonic = "nose orphan plastic snack depend visual also install crime nerve obvious guess";
+var mnemonic = "tuition trigger quality wet latin spirit child reason easily remove isolate coach";

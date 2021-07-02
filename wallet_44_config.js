@@ -1,1 +1,1 @@
-var mnemonic = "staff same coach business talent love awake cat affair word find wall";
+var mnemonic = "erupt oblige magnet rocket abuse gap wing blade wool off goddess glide";

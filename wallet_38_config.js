@@ -1,1 +1,1 @@
-var mnemonic = "few uncle grit adjust confirm label organ giant solve illegal solve mass";
+var mnemonic = "luggage become patient fury visual pencil suffer birth dress organ mystery thought";

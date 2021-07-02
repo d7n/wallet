@@ -1,1 +1,1 @@
-var mnemonic = "gain pill employ gasp grant name episode express celery busy viable oblige";
+var mnemonic = "cook split ugly twist report recall flavor turkey suspect dirt animal worth";

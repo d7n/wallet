@@ -1,1 +1,1 @@
-var mnemonic = "couple sting pelican science member tooth filter develop retire quiz loyal month";
+var mnemonic = "climb differ spray midnight sell deliver lizard apple smooth piece palm deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "example brave train radio correct defense pizza tower cube fantasy goose mountain";
+var mnemonic = "enforce poverty culture december fire broom shrimp habit cloth process lemon final";

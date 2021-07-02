@@ -1,1 +1,1 @@
-var mnemonic = "upon surge bring quiz rice piano kid leg fiber price satoshi zebra";
+var mnemonic = "observe wine deer above mechanic stick march salmon eternal stamp burst odor";

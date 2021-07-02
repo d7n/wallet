@@ -1,1 +1,1 @@
-var mnemonic = "nerve steel drip side push hand inspire marine brown lunch water arrive";
+var mnemonic = "next gloom slide wheat damp hover wink indoor angry design hurt return";

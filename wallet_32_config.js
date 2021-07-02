@@ -1,1 +1,1 @@
-var mnemonic = "people guilt innocent lab dust assume payment hamster kidney sausage robust lion";
+var mnemonic = "trap ketchup surface gossip tissue clerk setup bachelor hockey adjust route film";

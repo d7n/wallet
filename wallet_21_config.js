@@ -1,1 +1,1 @@
-var mnemonic = "bullet vital cupboard inhale goose frog future reduce will avocado oyster best";
+var mnemonic = "member post leg once vibrant chimney melody maximum depth liberty vacant merge";

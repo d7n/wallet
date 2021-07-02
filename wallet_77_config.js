@@ -1,1 +1,1 @@
-var mnemonic = "into hard emotion whip owner purse erase kiwi alien card magic throw";
+var mnemonic = "code mercy wise eager choice defy weapon cave crunch mercy marine hazard";

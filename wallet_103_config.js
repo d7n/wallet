@@ -1,1 +1,1 @@
-var mnemonic = "monitor enlist either blind increase leopard lonely float pistol crystal nominee distance";
+var mnemonic = "general supreme cause badge effort effort twice goddess tube puppy maple acid";

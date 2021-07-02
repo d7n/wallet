@@ -1,1 +1,1 @@
-var mnemonic = "divert fat bench awful toe truck other visual peanut fox swift arrive";
+var mnemonic = "mesh color gloom umbrella know blood april hat page project cabbage dash";

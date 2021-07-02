@@ -1,1 +1,1 @@
-var mnemonic = "sad chapter name palace diesel file hint arrive power strategy odor above";
+var mnemonic = "pink awake similar fun laugh sick twelve exist oyster solve prize liberty";

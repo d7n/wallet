@@ -1,1 +1,1 @@
-var mnemonic = "engage example reopen emotion flip rubber pull grit sail donkey steel celery";
+var mnemonic = "quality affair response among any mobile cabin fox jeans ignore inside wall";

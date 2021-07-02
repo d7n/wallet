@@ -1,1 +1,1 @@
-var mnemonic = "mom hollow field tortoise own cactus alpha chair sausage seed shaft easy";
+var mnemonic = "wage media churn success divert brother over snap steak soccer lyrics latin";

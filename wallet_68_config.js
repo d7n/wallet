@@ -1,1 +1,1 @@
-var mnemonic = "husband check excess tower portion garden beef mandate possible panel force hello";
+var mnemonic = "appear balance trust pink sand town roof also border anchor fragile dance";

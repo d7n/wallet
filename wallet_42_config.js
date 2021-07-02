@@ -1,1 +1,1 @@
-var mnemonic = "bunker gasp harsh test pond artist donor safe video denial gloom thought";
+var mnemonic = "near two cabin critic love flush busy jelly cliff invest silk picture";

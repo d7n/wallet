@@ -1,1 +1,1 @@
-var mnemonic = "choose genuine torch unknown area avoid attack alien fitness dawn bundle dose";
+var mnemonic = "merge anger pass naive end minimum flash list say hero trick retreat";

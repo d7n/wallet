@@ -1,1 +1,1 @@
-var mnemonic = "excite unlock throw entire peanut office hen measure gravity uphold job leaf";
+var mnemonic = "muscle play scheme total art inmate nephew garage tape since effort advance";

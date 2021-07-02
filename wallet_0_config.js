@@ -1,1 +1,1 @@
-var mnemonic = "horse token gold empty festival decorate fall buffalo empty comfort hospital try";
+var mnemonic = "unique fault nature draw north option polar broken cage grass liberty giraffe";

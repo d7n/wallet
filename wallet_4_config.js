@@ -1,1 +1,1 @@
-var mnemonic = "tool stick access true monitor will this rice lawn picture heart ship";
+var mnemonic = "maximum space service relax ghost misery bleak feel mammal tackle asset doll";

@@ -1,1 +1,1 @@
-var mnemonic = "gown tragic foil tooth rookie fish boost virtual object diet vacant obvious";
+var mnemonic = "stay fame bargain same letter perfect wood pistol olive empower immune network";

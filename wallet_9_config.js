@@ -1,1 +1,1 @@
-var mnemonic = "yard twist loan reflect clinic bright frozen click leaf soul main wedding";
+var mnemonic = "pair angle uniform whale equip dice tunnel student west brick hat only";

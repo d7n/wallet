@@ -1,1 +1,1 @@
-var mnemonic = "coin pizza short glass bind impulse dish artwork pepper media seminar will";
+var mnemonic = "stuff sorry punch cool unknown false limit grab broom series tooth whale";

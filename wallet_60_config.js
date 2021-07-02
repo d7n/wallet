@@ -1,1 +1,1 @@
-var mnemonic = "mercy solid share excite game barrel behind benefit parrot ice common olive";
+var mnemonic = "refuse glue pudding special joy census travel need owner onion phone skate";

@@ -1,1 +1,1 @@
-var mnemonic = "odor bread vicious section silent glow bring anxiety cause left unit among";
+var mnemonic = "letter scheme staff able fault rice kitchen case prosper casino extra liar";

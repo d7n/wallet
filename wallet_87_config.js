@@ -1,1 +1,1 @@
-var mnemonic = "upset valve index broccoli october buzz ability dragon hamster mesh leaf apple";
+var mnemonic = "can weapon size burst close wink issue moon nice nasty forum fabric";

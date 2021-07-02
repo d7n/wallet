@@ -1,1 +1,1 @@
-var mnemonic = "rural snow marble notice dolphin lobster dentist birth extend april wise network";
+var mnemonic = "tip list crop cinnamon amount prepare make admit alpha kidney hidden mail";

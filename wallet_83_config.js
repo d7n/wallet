@@ -1,1 +1,1 @@
-var mnemonic = "local perfect female push permit vote please desk lunar ridge wrap glue";
+var mnemonic = "cry clown clever inmate usual keep april winner address cake need gas";

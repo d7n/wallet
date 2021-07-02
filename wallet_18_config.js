@@ -1,1 +1,1 @@
-var mnemonic = "river month income pet state settle thing coconut subway east menu swarm";
+var mnemonic = "thank drink clump rhythm expose crisp fox feel risk sphere victory shrimp";

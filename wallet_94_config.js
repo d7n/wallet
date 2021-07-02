@@ -1,1 +1,1 @@
-var mnemonic = "radio sunset toward shock potato reveal illegal give trim cruise manual faint";
+var mnemonic = "impulse husband happy glad scorpion believe tone elder spirit this clown dumb";

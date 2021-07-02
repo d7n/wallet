@@ -1,1 +1,1 @@
-var mnemonic = "science odor honey pause habit advance suffer boil error flush dice color";
+var mnemonic = "machine lounge wide artist feel earth farm fresh virtual deposit twelve nest";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado mosquito today wall match defy broken foster ill resist what better";
+var mnemonic = "forum save wild immune crisp senior trap ecology ceiling electric train faith";

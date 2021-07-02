@@ -1,1 +1,1 @@
-var mnemonic = "away world planet rubber sunset trim foam obvious purchase glimpse obtain blanket";
+var mnemonic = "trip dentist manual slow carry earn reveal soda equal sorry roof session";

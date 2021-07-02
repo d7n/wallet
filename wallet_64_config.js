@@ -1,1 +1,1 @@
-var mnemonic = "intact vanish original team achieve blue clay birth lock shy job model";
+var mnemonic = "volcano measure transfer length palace divide trap glide will face supreme fire";

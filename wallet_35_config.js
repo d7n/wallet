@@ -1,1 +1,1 @@
-var mnemonic = "album mosquito shove place sick avoid rather door drastic imitate dignity mechanic";
+var mnemonic = "uphold auto myself jazz monkey endorse disease connect wave ancient amount stove";

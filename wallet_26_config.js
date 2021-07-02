@@ -1,1 +1,1 @@
-var mnemonic = "subject decorate law odor excite ski grocery badge daring voyage blood face";
+var mnemonic = "hire hub soup captain pottery faculty opera grit merge atom soccer club";

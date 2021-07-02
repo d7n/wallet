@@ -1,1 +1,1 @@
-var mnemonic = "disorder document siege will tackle decrease timber hidden parent festival cute purpose";
+var mnemonic = "nest battle jewel object absurd assume layer adjust joke have ordinary seek";

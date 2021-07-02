@@ -1,1 +1,1 @@
-var mnemonic = "ecology favorite jealous orbit wire faint egg hurry popular feel energy source";
+var mnemonic = "still stone spice smart member remain stable crater risk wise pipe siren";

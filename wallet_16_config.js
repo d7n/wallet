@@ -1,1 +1,1 @@
-var mnemonic = "slice behind village horse shift night badge cactus hint tattoo wave trouble";
+var mnemonic = "jungle nose web secret moon ugly profit library fancy swim obscure wise";

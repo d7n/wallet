@@ -1,1 +1,1 @@
-var mnemonic = "opinion verify dose six slab vague adult glance often defy canal toddler";
+var mnemonic = "gate wise gym apart behind orange inner boss image clip era success";

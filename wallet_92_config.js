@@ -1,1 +1,1 @@
-var mnemonic = "blouse worth wink move axis risk poverty board gain acoustic unfold lawn";
+var mnemonic = "festival gorilla common stage strike lecture wealth jewel glad verb still puppy";

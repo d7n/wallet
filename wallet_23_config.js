@@ -1,1 +1,1 @@
-var mnemonic = "announce fitness steak unaware bunker pudding year course lend eyebrow word situate";
+var mnemonic = "case obvious wink fish bone quality enjoy focus awesome sleep promote imitate";

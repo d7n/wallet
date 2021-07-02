@@ -1,1 +1,1 @@
-var mnemonic = "reward express midnight enemy fiction novel purity sugar hood present become idea";
+var mnemonic = "equip begin keen grape ankle click divide razor step snow economy wish";

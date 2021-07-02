@@ -1,1 +1,1 @@
-var mnemonic = "legal dance gospel swamp brass civil useless example boat afford episode depart";
+var mnemonic = "snack tip wolf emotion hamster tail uncover scout motion project front horror";

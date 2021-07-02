@@ -1,1 +1,1 @@
-var mnemonic = "burst author sound supreme parrot bean air ocean inflict false veteran tent";
+var mnemonic = "icon wave before camera awful enroll kiss scrap dance health sniff trophy";

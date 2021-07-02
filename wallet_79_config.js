@@ -1,1 +1,1 @@
-var mnemonic = "false banana edit filter latin inch weird hill usual pulse wreck gossip";
+var mnemonic = "goose scale moon sock pupil learn hybrid music way large want sure";

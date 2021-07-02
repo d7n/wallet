@@ -1,1 +1,1 @@
-var mnemonic = "train combine inmate rate suspect almost drum simple rural month wrap control";
+var mnemonic = "empty flight faith water slide flag morning recipe letter slim slow uniform";

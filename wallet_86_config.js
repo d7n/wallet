@@ -1,1 +1,1 @@
-var mnemonic = "switch bronze excite bulb oblige identify joke utility road replace mountain tackle";
+var mnemonic = "spot first time vintage execute diamond bicycle net demise quality other enforce";

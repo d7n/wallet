@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog raccoon diamond liar festival famous mail marine jewel ramp glory lion";
+var mnemonic = "pupil collect mimic session stuff army message energy pipe milk attend prize";

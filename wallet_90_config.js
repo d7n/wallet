@@ -1,1 +1,1 @@
-var mnemonic = "chuckle couch patient crime raven scale ridge digital illness around yard industry";
+var mnemonic = "olympic hip into include balcony base pig supreme pencil behave asthma speak";

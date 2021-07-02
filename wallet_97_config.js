@@ -1,1 +1,1 @@
-var mnemonic = "oxygen shell metal subway off task hub client almost retreat cliff awful";
+var mnemonic = "sadness toward broccoli giant luxury profit wise excuse allow render ride honey";

@@ -1,1 +1,1 @@
-var mnemonic = "strike source foil video wine hidden advance feed nasty describe crash bullet";
+var mnemonic = "ten crane tongue defy course harsh lucky narrow august ritual nest magic";

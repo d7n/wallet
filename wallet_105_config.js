@@ -1,1 +1,1 @@
-var mnemonic = "stuff fade diagram sea hammer scene happy lounge yard dutch spoon harbor";
+var mnemonic = "umbrella salmon aisle carbon west bicycle twice fluid hybrid north other possible";

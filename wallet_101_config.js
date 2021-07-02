@@ -1,1 +1,1 @@
-var mnemonic = "smooth canyon theory roof flight fee just raise there scorpion law truly";
+var mnemonic = "window enrich toilet siren produce mask bamboo family become until matrix staff";

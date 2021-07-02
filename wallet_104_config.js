@@ -1,1 +1,1 @@
-var mnemonic = "visit spot ugly prefer grab melt eyebrow health donkey venue that enhance";
+var mnemonic = "alone ordinary speak burden govern swing harbor potato patrol paddle angry term";

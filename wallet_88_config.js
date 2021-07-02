@@ -1,1 +1,1 @@
-var mnemonic = "stone pet immune quality solve rib latin direct offer found wait onion";
+var mnemonic = "believe balance slide twice gym trick edge immense blossom anger tomorrow cross";

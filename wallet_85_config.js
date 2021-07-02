@@ -1,1 +1,1 @@
-var mnemonic = "cabin butter guard fall warfare fortune glance symbol patient sort forward donate";
+var mnemonic = "capable awkward recall put color usual goose ready bring punch speed crumble";

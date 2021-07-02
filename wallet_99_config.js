@@ -1,1 +1,1 @@
-var mnemonic = "belt clump gown bubble empower remain clock axis ship possible copy comfort";
+var mnemonic = "risk hope simple daughter diesel famous often water grunt wide pool spin";

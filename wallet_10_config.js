@@ -1,1 +1,1 @@
-var mnemonic = "spike half loop boss immune grace cloud cherry dice crack lizard detail";
+var mnemonic = "purpose scheme sand liar clap print eyebrow aisle odor fat buffalo convince";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff east beauty amused penalty team ensure glove require welcome build record";
+var mnemonic = "iron mule print bicycle glad sniff panther bronze six pet mind champion";

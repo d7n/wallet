@@ -1,1 +1,1 @@
-var mnemonic = "artist federal supply absent number hedgehog they arm often unhappy velvet surround";
+var mnemonic = "cheese action vote glare size run shoe cage emerge wisdom bird odor";

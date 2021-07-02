@@ -1,1 +1,1 @@
-var mnemonic = "face bicycle such segment acoustic impact cereal random drip fence bench faith";
+var mnemonic = "street unable lawn unveil pluck regular journey disease nose emerge truth eyebrow";

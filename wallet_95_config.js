@@ -1,1 +1,1 @@
-var mnemonic = "crash salad spare man fault meat employ hedgehog popular employ credit drama";
+var mnemonic = "puppy relief filter news gaze tent model orbit conduct cattle text mistake";

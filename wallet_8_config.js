@@ -1,1 +1,1 @@
-var mnemonic = "describe thank sport hire plunge shoot begin dice gallery repair sauce car";
+var mnemonic = "sudden model network wood need helmet private pyramid holiday swim valid recall";

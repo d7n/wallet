@@ -1,1 +1,1 @@
-var mnemonic = "address scissors smile split census leg element priority frame ribbon ability time";
+var mnemonic = "artefact dish great vehicle happy common two easy click predict century bone";

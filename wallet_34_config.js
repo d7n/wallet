@@ -1,1 +1,1 @@
-var mnemonic = "spy staff absurd keep misery correct country submit book street priority mansion";
+var mnemonic = "flame pig original pair barely asthma quality end manage hurdle any soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "grace antique humble leaf shell cross father powder digital panic duck night";
+var mnemonic = "strike armor pen small ridge boil destroy pause metal illness drip talk";

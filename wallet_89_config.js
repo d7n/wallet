@@ -1,1 +1,1 @@
-var mnemonic = "foam capital glue spin worry frequent tumble dolphin tent stadium point blossom";
+var mnemonic = "push perfect snack wagon bleak frozen agree myself what toy fiber neutral";

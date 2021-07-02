@@ -1,1 +1,1 @@
-var mnemonic = "tuition violin armor load fine galaxy envelope youth taxi exchange suit conduct";
+var mnemonic = "aspect owner scale napkin shift burst neither swap dirt tragic great unusual";

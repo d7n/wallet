@@ -1,1 +1,1 @@
-var mnemonic = "denial patient muffin pelican rule split pole siege exchange electric foam tell";
+var mnemonic = "tiger digital online satoshi coyote okay easy crash ordinary hair world sound";

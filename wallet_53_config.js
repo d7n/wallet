@@ -1,1 +1,1 @@
-var mnemonic = "wrist recipe virus shuffle inspire fade stem hover result library arrive pulp";
+var mnemonic = "satoshi hollow horse bind one family silly stadium shed merge satoshi net";

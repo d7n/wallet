@@ -1,1 +1,1 @@
-var mnemonic = "thunder audit before duck surface security brass claw link wife throw junk";
+var mnemonic = "blur night tail video sing better media melt sadness lock engage zero";

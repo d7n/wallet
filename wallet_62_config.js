@@ -1,1 +1,1 @@
-var mnemonic = "answer toast token girl away what thought grace reward enemy private curve";
+var mnemonic = "humble impose someone rack undo magnet bamboo toward ozone maple garment number";

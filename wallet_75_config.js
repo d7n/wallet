@@ -1,1 +1,1 @@
-var mnemonic = "offer enable random attack essence dirt fix ordinary idle permit ship post";
+var mnemonic = "dry bubble era brass skill badge fun sad item garlic country brother";

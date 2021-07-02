@@ -1,1 +1,1 @@
-var mnemonic = "report weird payment breeze area helmet punch patient near excite figure parent";
+var mnemonic = "scale tiger thing program gap display exhaust anxiety vanish frost cry talk";

@@ -1,1 +1,1 @@
-var mnemonic = "heart wait dawn ill tool flavor canal hidden celery message auto envelope";
+var mnemonic = "decide cat blush jealous tank matter outer ranch dream pink cake corn";

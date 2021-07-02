@@ -1,1 +1,1 @@
-var mnemonic = "addict album good merit evoke pizza water attitude bamboo replace spray aim";
+var mnemonic = "blush robot tape never enough worry arrange renew hire equip pluck lake";

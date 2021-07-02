@@ -1,1 +1,1 @@
-var mnemonic = "clarify middle link universe layer venue nest cousin civil way lift suffer";
+var mnemonic = "crawl depth chapter fresh dawn fatal tired dolphin ankle gun capable economy";
