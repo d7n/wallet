@@ -1,1 +1,1 @@
-var mnemonic = "grant master course divert thumb sign make comic cloud oyster grant useful";
+var mnemonic = "coffee zone force search kidney grab neck arm decide lunar baby come";

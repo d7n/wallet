@@ -1,1 +1,1 @@
-var mnemonic = "jazz ignore stool conduct anchor fix earth dismiss unusual differ ten adjust";
+var mnemonic = "addict fitness horror media type ahead sentence village brick illegal panda hazard";

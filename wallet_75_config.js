@@ -1,1 +1,1 @@
-var mnemonic = "horror save echo want mammal image labor sunset tackle waste net agree";
+var mnemonic = "inspire blossom avocado super comfort little pause lamp bag embrace stomach mad";

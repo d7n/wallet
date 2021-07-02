@@ -1,1 +1,1 @@
-var mnemonic = "rose produce sausage bunker among pizza curtain problem jungle garlic vital caught";
+var mnemonic = "endorse shed public section quiz save sense choice stone road spoon first";

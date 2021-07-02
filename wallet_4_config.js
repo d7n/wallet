@@ -1,1 +1,1 @@
-var mnemonic = "blouse actor journey snap angle claim fine mobile normal inner upgrade kitchen";
+var mnemonic = "differ bamboo critic symbol tiger armed almost off cotton rotate knee real";

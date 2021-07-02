@@ -1,1 +1,1 @@
-var mnemonic = "cry false pass sign level clown midnight embark woman glimpse wheel apple";
+var mnemonic = "leopard universe cable cluster mountain dilemma diet cabbage lawn farm foster often";

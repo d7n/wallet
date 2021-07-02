@@ -1,1 +1,1 @@
-var mnemonic = "direct runway duty more visit sustain noble broken hamster color quantum spawn";
+var mnemonic = "action horse flavor hedgehog churn miss hen tackle ignore syrup sentence mushroom";

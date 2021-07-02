@@ -1,1 +1,1 @@
-var mnemonic = "vessel detail narrow fit later jump repeat wash venue soon extend satisfy";
+var mnemonic = "false over swallow elephant century anger utility era cat loan gown seek";

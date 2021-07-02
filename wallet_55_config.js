@@ -1,1 +1,1 @@
-var mnemonic = "faculty melt kind walnut addict spare spin join cable useless reflect smooth";
+var mnemonic = "tag foil remember dilemma dawn loyal rug motor bright stock pistol banana";

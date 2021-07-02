@@ -1,1 +1,1 @@
-var mnemonic = "noodle script bunker seed umbrella tattoo today shoe soft chronic talk level";
+var mnemonic = "load success defense region true popular nephew census cushion nephew surprise abandon";

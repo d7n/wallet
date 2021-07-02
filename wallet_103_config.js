@@ -1,1 +1,1 @@
-var mnemonic = "daring bomb quit hurt rapid coral dance rigid wild mixture attend visual";
+var mnemonic = "execute admit direct type twelve response snap damage snack neck trash income";

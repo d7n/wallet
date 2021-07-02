@@ -1,1 +1,1 @@
-var mnemonic = "afraid post member please flower unusual relief exist material fire label west";
+var mnemonic = "raise cabbage outer alone action more enlist obey urge voyage issue glove";

@@ -1,1 +1,1 @@
-var mnemonic = "final dolphin vague book modify manual south foster green believe decide rescue";
+var mnemonic = "pact history diet chat arch defense elbow teach mask swear soul practice";

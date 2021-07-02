@@ -1,1 +1,1 @@
-var mnemonic = "visual place improve enough sell east ramp public fold town magic exact";
+var mnemonic = "screen panther lonely cruel survey survey soup canvas milk cable wise envelope";

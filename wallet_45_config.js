@@ -1,1 +1,1 @@
-var mnemonic = "rebel hotel grit case base upset base letter cable pause parent boy";
+var mnemonic = "derive vacuum neck opera legal cruise bottom common bleak pepper hat song";

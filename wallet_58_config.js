@@ -1,1 +1,1 @@
-var mnemonic = "recall lawsuit leader verb keep bone hunt camera phrase hub fluid input";
+var mnemonic = "letter stable chief fossil hurry suit element jeans bracket nephew canvas loyal";

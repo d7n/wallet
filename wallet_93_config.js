@@ -1,1 +1,1 @@
-var mnemonic = "slogan sister devote nature gossip chair merry yellow inside surprise awesome few";
+var mnemonic = "item build thank ocean topple pair cheap basic cash cannon answer erode";

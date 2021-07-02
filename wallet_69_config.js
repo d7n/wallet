@@ -1,1 +1,1 @@
-var mnemonic = "slender brief attend bridge jump print limb pluck achieve bulb chuckle paper";
+var mnemonic = "science mention bargain thumb differ check price slice carpet dutch hood club";

@@ -1,1 +1,1 @@
-var mnemonic = "client bottom tackle text require wrong rocket print forest tent visa cool";
+var mnemonic = "bless cannon simple habit seminar harsh crunch isolate play grocery parrot hungry";

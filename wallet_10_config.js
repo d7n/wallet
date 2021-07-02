@@ -1,1 +1,1 @@
-var mnemonic = "lunch jaguar must exclude tunnel entire hamster fantasy hedgehog usage daughter slight";
+var mnemonic = "subway body menu mimic equip master sea message innocent wrong merry off";

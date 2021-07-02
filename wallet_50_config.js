@@ -1,1 +1,1 @@
-var mnemonic = "huge source awake glass process invest spirit panther field cricket job purpose";
+var mnemonic = "wet sand olive vintage casual couch stem pigeon enforce canyon govern body";

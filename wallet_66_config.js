@@ -1,1 +1,1 @@
-var mnemonic = "announce health chunk then track chair keen payment check abstract shiver shock";
+var mnemonic = "duty question return awkward giraffe talent winter census benefit peasant business unaware";

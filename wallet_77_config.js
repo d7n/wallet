@@ -1,1 +1,1 @@
-var mnemonic = "gain van crime video pear brother picnic float six robot settle own";
+var mnemonic = "hero brave seven artwork retire anxiety delay comic curtain hello wing label";

@@ -1,1 +1,1 @@
-var mnemonic = "strong shield give job base plug tumble cinnamon whisper say frost crime";
+var mnemonic = "attract elegant hip naive muscle about category human program rival myth mask";

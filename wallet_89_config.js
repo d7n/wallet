@@ -1,1 +1,1 @@
-var mnemonic = "ancient top fury surge ethics either proof scissors width trim juice equal";
+var mnemonic = "rally voice knife portion soft pink deputy exhibit focus carry cloth observe";

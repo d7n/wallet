@@ -1,1 +1,1 @@
-var mnemonic = "tone federal awake roast candy submit clown gloom poet host frost vivid";
+var mnemonic = "only gossip amateur symptom win enforce word grape skate domain length staff";

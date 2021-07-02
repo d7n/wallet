@@ -1,1 +1,1 @@
-var mnemonic = "moon cave kingdom deputy upon display miracle pottery sight winter hurry tackle";
+var mnemonic = "park catch relief setup prison adjust eyebrow room only humble entry august";

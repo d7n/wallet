@@ -1,1 +1,1 @@
-var mnemonic = "omit client mansion vessel column enjoy spot news shine garlic ketchup holiday";
+var mnemonic = "depth grow voyage build electric enlist small must ensure picnic evolve father";

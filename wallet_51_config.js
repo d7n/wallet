@@ -1,1 +1,1 @@
-var mnemonic = "theory scrub sheriff report issue mansion crop alter lens there milk wash";
+var mnemonic = "mandate unknown future deal skate pudding allow amateur bean asthma camera memory";

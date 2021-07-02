@@ -1,1 +1,1 @@
-var mnemonic = "cabin title safe extra cup antique gasp sun buyer tiger equal soap";
+var mnemonic = "crime aspect require measure illness climb pepper fringe supply rather leisure friend";

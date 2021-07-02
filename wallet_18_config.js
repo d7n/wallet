@@ -1,1 +1,1 @@
-var mnemonic = "tide pretty west finish index occur tip knock truly matrix fruit glide";
+var mnemonic = "blanket police bleak torch beyond blush whip roof heavy cup mom direct";

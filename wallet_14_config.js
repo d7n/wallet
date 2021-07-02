@@ -1,1 +1,1 @@
-var mnemonic = "sick interest repeat immune goat resource text short target under excess only";
+var mnemonic = "velvet ill home oblige cycle bullet cherry deliver junior evolve focus battle";

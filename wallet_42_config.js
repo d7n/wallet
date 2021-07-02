@@ -1,1 +1,1 @@
-var mnemonic = "size embark crazy suggest exhibit abandon mass gossip layer atom drink palm";
+var mnemonic = "wrap dawn surge suggest join shrimp dream horse camp few assist inspire";

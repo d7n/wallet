@@ -1,1 +1,1 @@
-var mnemonic = "sad flee birth mix rate dirt clown shift flavor chef honey goose";
+var mnemonic = "minor tube worry allow olympic fee diamond tip bus spice come learn";

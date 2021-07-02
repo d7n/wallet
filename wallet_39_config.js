@@ -1,1 +1,1 @@
-var mnemonic = "script debate invest loop review between shoe oblige slam devote inner turn";
+var mnemonic = "palace promote census over exotic build display asset miracle regular inherit cruel";

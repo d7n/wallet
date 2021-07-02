@@ -1,1 +1,1 @@
-var mnemonic = "satoshi fossil scare boring embody similar space time onion legend grape have";
+var mnemonic = "vintage glare lecture job short burden audit athlete manage silver woman canal";

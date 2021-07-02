@@ -1,1 +1,1 @@
-var mnemonic = "spice dumb reunion bread sad lock lake hunt wrestle indicate fiber dawn";
+var mnemonic = "wear glance child armor surge december wood aerobic bottom pet corn barely";

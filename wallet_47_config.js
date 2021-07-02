@@ -1,1 +1,1 @@
-var mnemonic = "good axis cool civil toddler proud stool again bargain inherit what green";
+var mnemonic = "symbol vehicle such train believe afford produce top rifle slice fork cradle";

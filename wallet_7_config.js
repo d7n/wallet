@@ -1,1 +1,1 @@
-var mnemonic = "beauty inquiry confirm mother width unfair marriage theory autumn monitor sphere decline";
+var mnemonic = "churn upgrade frost park summer note mule joke capital false toast radar";

@@ -1,1 +1,1 @@
-var mnemonic = "field donate device ensure they supply mercy great wrist virtual flock gorilla";
+var mnemonic = "film galaxy capable combine damage clap boost cereal text skin rich bacon";

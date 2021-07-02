@@ -1,1 +1,1 @@
-var mnemonic = "second clarify shield genuine domain panther guard quiz solid trick equip license";
+var mnemonic = "famous depth veteran picnic jump inject version nothing viable defense orchard logic";

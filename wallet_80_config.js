@@ -1,1 +1,1 @@
-var mnemonic = "maximum then beauty now monitor dial ancient glove middle trumpet resist injury";
+var mnemonic = "slim mass fitness diesel airport anxiety harsh major saddle humor minor bench";

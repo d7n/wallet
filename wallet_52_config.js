@@ -1,1 +1,1 @@
-var mnemonic = "depart genre audit grief unknown penalty cave endless sand sausage luxury balance";
+var mnemonic = "fuel minimum nurse sea blouse decorate borrow normal avocado armed coil own";

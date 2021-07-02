@@ -1,1 +1,1 @@
-var mnemonic = "usage system unfold hill mixture age twelve puppy icon cactus palace infant";
+var mnemonic = "advice toss gym present earth bullet discover crew silent tomato again attend";

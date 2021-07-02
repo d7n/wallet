@@ -1,1 +1,1 @@
-var mnemonic = "input quote clerk swallow cloud permit sibling suit flower belt spread stem";
+var mnemonic = "hello drip erosion visa solar upset unfold core lonely bike account fly";

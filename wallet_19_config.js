@@ -1,1 +1,1 @@
-var mnemonic = "derive like leave police loan also spy pair day develop matter other";
+var mnemonic = "concert satisfy sword cube false radio slim rocket area meadow poem wife";

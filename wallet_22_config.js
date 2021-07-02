@@ -1,1 +1,1 @@
-var mnemonic = "marriage toe soft oppose evidence enrich fringe fiscal have decade over beef";
+var mnemonic = "orbit flat rural process divert fabric sibling distance pigeon gold rude sunset";

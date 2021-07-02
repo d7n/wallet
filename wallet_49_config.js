@@ -1,1 +1,1 @@
-var mnemonic = "miracle master wedding assume saddle repeat unfair depend cloud secret cherry practice";
+var mnemonic = "crater donor twenty genuine shiver invite slice ridge brief bleak remember artist";

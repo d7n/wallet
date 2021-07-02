@@ -1,1 +1,1 @@
-var mnemonic = "faith drill update donate blouse goose spot joy seed illegal monster spy";
+var mnemonic = "inch design jacket impose tennis marble allow park teach canvas sound joke";

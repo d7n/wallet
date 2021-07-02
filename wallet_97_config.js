@@ -1,1 +1,1 @@
-var mnemonic = "coach solve mouse asset stadium earn wise alcohol shiver hat drum will";
+var mnemonic = "shoe rack search pulse angry stone drill hidden road lab scheme lion";

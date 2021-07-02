@@ -1,1 +1,1 @@
-var mnemonic = "flush glare frequent text frown quality awful dinosaur trash sentence bench dash";
+var mnemonic = "exchange tiny size slogan raccoon valid call tortoise tunnel boil scissors hurt";

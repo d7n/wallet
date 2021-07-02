@@ -1,1 +1,1 @@
-var mnemonic = "phrase control right tonight frequent symbol enrich holiday intact quick crane surge";
+var mnemonic = "deny fade rent fall pistol canyon echo pony lift right save swear";

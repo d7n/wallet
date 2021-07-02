@@ -1,1 +1,1 @@
-var mnemonic = "crucial measure diesel asthma prosper record anger decline follow hope engine tissue";
+var mnemonic = "desk word volcano stairs repeat dismiss neglect object law grid toilet suspect";

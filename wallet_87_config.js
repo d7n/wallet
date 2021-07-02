@@ -1,1 +1,1 @@
-var mnemonic = "sport bonus very fox slab suffer ritual dentist main debris maple arch";
+var mnemonic = "lunar duck bomb volume orange acid economy account receive reason funny scene";

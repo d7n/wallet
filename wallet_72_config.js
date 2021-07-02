@@ -1,1 +1,1 @@
-var mnemonic = "throw green wrong hold giggle actress sibling bounce bleak latin proud length";
+var mnemonic = "bomb lesson odor gauge nothing garment raccoon grunt people napkin blind muscle";

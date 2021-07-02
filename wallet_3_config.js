@@ -1,1 +1,1 @@
-var mnemonic = "heavy club burst burger fat violin very swarm lion ecology zoo secret";
+var mnemonic = "normal mammal eternal chat illness slice elder certain boy two below fatigue";

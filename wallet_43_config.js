@@ -1,1 +1,1 @@
-var mnemonic = "city scatter come lyrics stone very camp omit budget hurt inflict manage";
+var mnemonic = "wide idle across ride peace among behind monitor black deliver gravity primary";

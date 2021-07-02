@@ -1,1 +1,1 @@
-var mnemonic = "throw draw oxygen okay retire analyst loud afford rapid refuse wagon try";
+var mnemonic = "insane blind urge receive shield relief sting napkin skin alcohol middle code";

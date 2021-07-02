@@ -1,1 +1,1 @@
-var mnemonic = "ship cereal scale never duty behave salon arrow voyage orbit either usage";
+var mnemonic = "anxiety green fatigue shiver strike link oak vast enrich raw steel arrange";

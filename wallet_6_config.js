@@ -1,1 +1,1 @@
-var mnemonic = "tent you hybrid dial vanish churn canvas stone pizza local business opera";
+var mnemonic = "festival raise wish thunder sister security couple tortoise blur grocery tornado action";

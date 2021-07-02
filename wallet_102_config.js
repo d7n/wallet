@@ -1,1 +1,1 @@
-var mnemonic = "grow spoil spirit orchard notable finger essay depart aisle hello frog clump";
+var mnemonic = "eyebrow impose smart mix sister catalog awkward december tent slow close maid";

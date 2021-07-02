@@ -1,1 +1,1 @@
-var mnemonic = "panic when volcano hire envelope reveal push truck east option property grain";
+var mnemonic = "wall mean hub oval rally spatial pen pact ribbon recycle gasp gift";

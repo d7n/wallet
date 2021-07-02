@@ -1,1 +1,1 @@
-var mnemonic = "december party box bleak legend company inmate torch tank goat fatigue idea";
+var mnemonic = "hungry pen such fringe urge verb gallery lunar wagon fine brief vacuum";

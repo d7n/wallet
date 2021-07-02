@@ -1,1 +1,1 @@
-var mnemonic = "used barely green run master burger sort write ready hip segment raven";
+var mnemonic = "faint avoid close breeze inmate rain harsh crack rifle animal match blanket";

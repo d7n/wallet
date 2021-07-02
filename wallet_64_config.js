@@ -1,1 +1,1 @@
-var mnemonic = "brisk term news dawn vendor ribbon attend float question voyage enrich leave";
+var mnemonic = "advice mimic upgrade cook cycle swift faculty wear amazing rare brush wrong";

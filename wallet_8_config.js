@@ -1,1 +1,1 @@
-var mnemonic = "pen panda enable husband chuckle pool deposit ankle duty window dove hamster";
+var mnemonic = "coffee person speak earn parent amused shoot burger produce razor dose remain";

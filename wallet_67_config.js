@@ -1,1 +1,1 @@
-var mnemonic = "slab scout april stadium sword vendor manual crash wonder language ladder need";
+var mnemonic = "mixture narrow monster aunt feed appear album goddess weather fuel voice hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot latin toddler season renew regret margin dad hill please faith year";
+var mnemonic = "escape fortune man anxiety ketchup various document rapid expire person gadget sand";

@@ -1,1 +1,1 @@
-var mnemonic = "area trash category print rubber equal whale wear jungle click decide away";
+var mnemonic = "diet front assist goat state magic angry picture shoot welcome mixed desk";

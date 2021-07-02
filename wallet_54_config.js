@@ -1,1 +1,1 @@
-var mnemonic = "video news car canoe repair hood civil search word grape gesture exact";
+var mnemonic = "federal powder lady catalog east material model direct prison kid poet civil";

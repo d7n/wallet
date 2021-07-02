@@ -1,1 +1,1 @@
-var mnemonic = "axis truth glow sick pave amount adjust copper health jump property song";
+var mnemonic = "crowd lemon allow faculty oil alone path cover power side room humble";

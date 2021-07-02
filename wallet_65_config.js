@@ -1,1 +1,1 @@
-var mnemonic = "recall silver come brand toddler truth soup bronze false delay business peace";
+var mnemonic = "nation eagle next coast dial canal pilot web idea wink citizen hospital";

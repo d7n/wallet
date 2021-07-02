@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow melt sweet candy cabbage point amazing engine elbow broom liberty mistake";
+var mnemonic = "bind hen soon sudden grocery web essence play unveil elevator until army";

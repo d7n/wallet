@@ -1,1 +1,1 @@
-var mnemonic = "excess deposit major above trigger size promote loyal pool elevator brave fine";
+var mnemonic = "citizen iron police adapt bullet initial rice aspect else foot wage wing";

@@ -1,1 +1,1 @@
-var mnemonic = "few post one boil umbrella siege wagon earth fetch volcano solution sunset";
+var mnemonic = "link depend run danger spell any stomach turkey detect paddle canoe earn";

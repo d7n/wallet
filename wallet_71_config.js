@@ -1,1 +1,1 @@
-var mnemonic = "wise meat enhance matrix crash same genius doctor utility version lava debris";
+var mnemonic = "battle fiber ring hip antenna dish short old crew cement develop input";

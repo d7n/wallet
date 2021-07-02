@@ -1,1 +1,1 @@
-var mnemonic = "buddy step banner begin what relief hungry rotate sleep day sell excess";
+var mnemonic = "expire artwork route frog horror swap club test unique film bench chair";

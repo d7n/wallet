@@ -1,1 +1,1 @@
-var mnemonic = "exit shuffle person patch vendor analyst tenant gorilla artwork scrub range total";
+var mnemonic = "another feature amused south sword fox wrap suggest jeans either fever focus";

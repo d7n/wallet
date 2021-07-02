@@ -1,1 +1,1 @@
-var mnemonic = "plastic salute two fork delay wish only defense adapt acquire fragile cargo";
+var mnemonic = "right frost similar potato matter poverty remind wrestle popular parrot blue piano";

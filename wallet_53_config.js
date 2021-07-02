@@ -1,1 +1,1 @@
-var mnemonic = "alley universe word sleep media earth hello dumb riot they scissors bulk";
+var mnemonic = "coin exact quote victory puppy crystal avocado pet marriage churn innocent love";

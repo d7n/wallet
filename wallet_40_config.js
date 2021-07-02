@@ -1,1 +1,1 @@
-var mnemonic = "advance smoke measure emerge egg wish refuse tuition miracle leopard hat romance";
+var mnemonic = "connect pilot noise sort fantasy argue wash post hope steel pond snap";

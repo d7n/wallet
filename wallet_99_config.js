@@ -1,1 +1,1 @@
-var mnemonic = "nothing pepper climb citizen salad tortoise glimpse survey pull outer alien draft";
+var mnemonic = "caution nut elite park glad offer exhaust merry leader capital inquiry junior";

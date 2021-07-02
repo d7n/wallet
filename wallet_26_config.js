@@ -1,1 +1,1 @@
-var mnemonic = "check setup company mystery cotton tribe smile moon forget hurry equip solve";
+var mnemonic = "mix recipe motion minute illness ugly kick above subway victory wedding grant";

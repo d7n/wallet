@@ -1,1 +1,1 @@
-var mnemonic = "office hockey dial acquire boat rain vicious combine alert delay normal runway";
+var mnemonic = "shock chat slice wood apart clutch guess battle charge brain grace rare";

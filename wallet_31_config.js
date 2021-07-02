@@ -1,1 +1,1 @@
-var mnemonic = "fitness alone warrior number buddy come east maid vicious kit save toward";
+var mnemonic = "voice leader detect dove battle piece bird save figure piece increase damp";

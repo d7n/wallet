@@ -1,1 +1,1 @@
-var mnemonic = "insane heart quality ten ostrich stadium cousin creek fly carbon barely achieve";
+var mnemonic = "globe farm delay dumb syrup scatter bracket point later grit today okay";

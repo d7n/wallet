@@ -1,1 +1,1 @@
-var mnemonic = "laundry swarm group blood awful merge hire enemy print bridge outer ice";
+var mnemonic = "example trend isolate embrace decrease repair dream process reject involve photo settle";

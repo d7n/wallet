@@ -1,1 +1,1 @@
-var mnemonic = "story boring pave title same deputy kangaroo situate vanish tape camera despair";
+var mnemonic = "neck diesel awesome limb pumpkin churn egg apology gap give vague couple";

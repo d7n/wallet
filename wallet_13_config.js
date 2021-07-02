@@ -1,1 +1,1 @@
-var mnemonic = "oil uncle fee border ceiling owner cute stick brief ship chest diamond";
+var mnemonic = "work evil among memory sleep text valve fragile silly lobster wish blanket";

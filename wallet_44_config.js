@@ -1,1 +1,1 @@
-var mnemonic = "toast era connect genius bag dream shock crumble mad vacant coin glad";
+var mnemonic = "scare before glad save oven seminar gas enact pair invest latin armed";

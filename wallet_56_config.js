@@ -1,1 +1,1 @@
-var mnemonic = "lunar vicious upon poem combine supreme dolphin occur fun bronze drink season";
+var mnemonic = "creek steak chuckle puzzle pitch flip theory alien indoor april device embrace";
