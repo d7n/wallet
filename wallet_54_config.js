@@ -1,1 +1,1 @@
-var mnemonic = "treat appear glue dog gadget speed sentence agree void word sword square";
+var mnemonic = "choose concert veteran kiwi usual silver exhaust coast blanket coyote rotate extend";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond cabin hollow betray design eager marine absurd night misery mystery rule";
+var mnemonic = "tattoo hat cluster method entry cloth trust purpose purpose warm pelican dentist";

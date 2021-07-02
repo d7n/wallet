@@ -1,1 +1,1 @@
-var mnemonic = "lobster champion vehicle announce slight slogan novel work design tube issue model";
+var mnemonic = "live message vanish flush gallery wasp margin elite whisper name arrest better";

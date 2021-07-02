@@ -1,1 +1,1 @@
-var mnemonic = "slender twelve suit retire zero veteran over dragon match field provide price";
+var mnemonic = "own morning interest daughter require alien decorate primary omit illness joy once";

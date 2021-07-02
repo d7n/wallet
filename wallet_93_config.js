@@ -1,1 +1,1 @@
-var mnemonic = "spoon wish patient candy razor invite task voyage movie work grass morning";
+var mnemonic = "bronze expose seven chaos reopen wage enroll service cost artefact violin exist";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise inquiry phone toast protect enable salad theme attitude board venture topple";
+var mnemonic = "first maid dance mass twin hint skirt damp goat practice pole elder";

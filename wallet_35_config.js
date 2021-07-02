@@ -1,1 +1,1 @@
-var mnemonic = "skin police second lottery relax gown empower decline people local phone cruel";
+var mnemonic = "view sleep check fork spike social logic estate panel cruise perfect liquid";

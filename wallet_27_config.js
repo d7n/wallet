@@ -1,1 +1,1 @@
-var mnemonic = "gauge undo hand confirm recycle reward floor position orange enough answer deposit";
+var mnemonic = "armor vacuum brisk forget mask dune vague chicken arrange refuse reason danger";

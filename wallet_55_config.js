@@ -1,1 +1,1 @@
-var mnemonic = "brave evolve fly turtle patrol repair such sorry laugh decline notice false";
+var mnemonic = "brick addict panic indicate primary sleep clog fringe prison blade clip layer";

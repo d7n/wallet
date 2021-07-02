@@ -1,1 +1,1 @@
-var mnemonic = "kiss ceiling movie cheese gorilla session focus flock total ship honey catch";
+var mnemonic = "rug during sunset slice filter clap acoustic unique parrot peasant tissue retreat";

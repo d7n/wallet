@@ -1,1 +1,1 @@
-var mnemonic = "unique soldier heavy cup step require armed tunnel fetch combine potato try";
+var mnemonic = "hunt stay pencil curious penalty imitate defy fish holiday enjoy gift simple";

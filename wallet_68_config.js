@@ -1,1 +1,1 @@
-var mnemonic = "fresh pioneer envelope response sure candy local arrest foil permit bar reflect";
+var mnemonic = "across glow unknown limb loop pumpkin pulse receive razor waste series divide";

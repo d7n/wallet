@@ -1,1 +1,1 @@
-var mnemonic = "soon clinic tattoo valid obscure raise dismiss invest seed total way season";
+var mnemonic = "poem valve weasel element athlete agree subject search leader stamp orphan oven";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter drastic oyster news castle flight zoo upper play stable reunion absorb";
+var mnemonic = "picture motion genius method indicate glow outside nation avoid erase ostrich glance";

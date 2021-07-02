@@ -1,1 +1,1 @@
-var mnemonic = "kitchen wrong wreck pole peanut cradle report unable typical remind over addict";
+var mnemonic = "attend gloom behave large middle cancel reflect quality join umbrella surround random";

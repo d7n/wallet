@@ -1,1 +1,1 @@
-var mnemonic = "tornado slam dry swing tiger subway grit erupt fall figure comfort rose";
+var mnemonic = "repair second kangaroo milk figure donkey addict blade grief blame mule never";

@@ -1,1 +1,1 @@
-var mnemonic = "lion lyrics forum broccoli eager sad session fresh gas snack cricket ankle";
+var mnemonic = "avocado roof sunny image strategy cover job lounge humor about zebra save";

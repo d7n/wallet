@@ -1,1 +1,1 @@
-var mnemonic = "manage huge absurd clinic olive loop kangaroo park despair girl banana flower";
+var mnemonic = "hip describe buzz spell charge barely razor jeans real cheap civil escape";

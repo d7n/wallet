@@ -1,1 +1,1 @@
-var mnemonic = "remove parrot sphere scrap upon enable end hurdle payment near depend hurry";
+var mnemonic = "canal that brown note drastic exile core tube flower jacket vibrant main";

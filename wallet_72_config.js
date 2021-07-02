@@ -1,1 +1,1 @@
-var mnemonic = "cup exit omit athlete pet become noble mean festival core raven fiction";
+var mnemonic = "destroy hello exhibit fire feel hockey toss ride casual merry sight crack";

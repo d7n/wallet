@@ -1,1 +1,1 @@
-var mnemonic = "pepper dice area solve alpha coil fog proud vanish hire inflict season";
+var mnemonic = "home room have half dutch decline sail stove often exclude cupboard verify";

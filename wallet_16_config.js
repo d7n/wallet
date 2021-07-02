@@ -1,1 +1,1 @@
-var mnemonic = "air legend result ring cigar can hollow depend blur divide lyrics rebel";
+var mnemonic = "waste run eye erase metal social fog orient aspect turn bleak list";

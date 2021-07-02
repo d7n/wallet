@@ -1,1 +1,1 @@
-var mnemonic = "grant razor together lyrics nominee stomach slim quote tiger edge sight vessel";
+var mnemonic = "connect scan caution tower raven wheel doctor fever find little virus sick";

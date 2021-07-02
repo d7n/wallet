@@ -1,1 +1,1 @@
-var mnemonic = "gorilla cable embrace vessel ecology shaft later veteran write audit alter subway";
+var mnemonic = "annual alarm upon cruel canyon common index metal legend judge slide edit";

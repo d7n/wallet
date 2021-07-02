@@ -1,1 +1,1 @@
-var mnemonic = "arrow end labor talk bring nose tent mouse lady asset risk mixture";
+var mnemonic = "firm list rent viable artwork fly genius seven future oxygen horse toddler";

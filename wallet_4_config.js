@@ -1,1 +1,1 @@
-var mnemonic = "torch rail dilemma way tourist spray sad goose tongue kid must stone";
+var mnemonic = "amused fancy brief ostrich sport anger angry south engage kiwi census abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "there wisdom solve project flock maple access test journey refuse upset text";
+var mnemonic = "say picnic urban alley patient island rely symptom mango horse deal start";

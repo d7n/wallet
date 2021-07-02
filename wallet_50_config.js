@@ -1,1 +1,1 @@
-var mnemonic = "huge cattle garment magnet order blame robot inside wink spot belt ghost";
+var mnemonic = "inspire target volume coral salad illegal network turkey supreme chicken rebuild unhappy";

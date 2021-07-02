@@ -1,1 +1,1 @@
-var mnemonic = "crumble funny patch pluck flash adjust once later kiss crystal erase phone";
+var mnemonic = "consider exchange little weasel green never fold piano echo slogan task collect";

@@ -1,1 +1,1 @@
-var mnemonic = "save custom secret sport scale stamp attack taste move sick later trust";
+var mnemonic = "feed connect fly envelope chimney layer citizen illegal control october mirror finish";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence screen lizard skin chaos access hybrid mountain lizard fury saddle reveal";
+var mnemonic = "globe elder artefact example monster miracle baby decide priority company oblige grace";

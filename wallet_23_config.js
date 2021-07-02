@@ -1,1 +1,1 @@
-var mnemonic = "wheat smooth december grunt menu acid nerve fix fluid cliff air unit";
+var mnemonic = "raccoon energy group obvious oyster unable betray convince blouse act divert tragic";

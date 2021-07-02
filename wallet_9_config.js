@@ -1,1 +1,1 @@
-var mnemonic = "leader insane surge floor toss lift spike master dynamic fragile advance lazy";
+var mnemonic = "nerve object edit track surprise start sadness slide morning bring faint monster";

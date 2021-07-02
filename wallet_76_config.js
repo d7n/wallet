@@ -1,1 +1,1 @@
-var mnemonic = "furnace rent riot seek rough engage motion sustain winter wood excuse track";
+var mnemonic = "item robot check accident kit loop hawk balance square cliff miracle resource";

@@ -1,1 +1,1 @@
-var mnemonic = "have seminar explain unlock purchase grab draft involve field clap because imitate";
+var mnemonic = "clay gather begin various push plastic erase language hard seven usual absurd";

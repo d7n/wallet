@@ -1,1 +1,1 @@
-var mnemonic = "butter famous twin gold lounge venue tobacco tunnel panther deputy shuffle boring";
+var mnemonic = "squeeze luggage total globe comic rib share broken subway follow cart sphere";

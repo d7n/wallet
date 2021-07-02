@@ -1,1 +1,1 @@
-var mnemonic = "neither error index innocent system wood mutual run shrimp couple syrup ship";
+var mnemonic = "year release chronic else arctic zebra novel flame object present century pride";

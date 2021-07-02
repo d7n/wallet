@@ -1,1 +1,1 @@
-var mnemonic = "pattern concert crime extend ecology raven margin seek toe special ski mushroom";
+var mnemonic = "asset fury birth neutral capable predict feed wait real feel thrive pet";

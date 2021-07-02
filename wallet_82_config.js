@@ -1,1 +1,1 @@
-var mnemonic = "glove plastic solid spot agent gaze say absorb mushroom cheese minute sure";
+var mnemonic = "genre airport outdoor spirit educate knock asthma burger tube spread flame tiger";

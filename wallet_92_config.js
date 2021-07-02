@@ -1,1 +1,1 @@
-var mnemonic = "ladder fuel imitate all clap bid culture dose before forest cash leave";
+var mnemonic = "element waste rate candy echo salt ostrich bullet maple random afraid major";

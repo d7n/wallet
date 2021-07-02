@@ -1,1 +1,1 @@
-var mnemonic = "session myself leisure error math shiver broken rural plunge pigeon ski security";
+var mnemonic = "crowd hedgehog horse practice cry youth stone brass save thrive angry under";

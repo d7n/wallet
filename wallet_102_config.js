@@ -1,1 +1,1 @@
-var mnemonic = "estate search tenant parrot cement traffic couch afraid cruise then three orphan";
+var mnemonic = "situate chest frequent bitter vague abandon crisp cliff pull topic brisk wave";

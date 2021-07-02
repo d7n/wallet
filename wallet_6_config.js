@@ -1,1 +1,1 @@
-var mnemonic = "come other drift repair forest wool negative rapid faith blame green enlist";
+var mnemonic = "shiver pear error corn become witness million pepper plunge chest jump arrow";

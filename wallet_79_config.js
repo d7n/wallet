@@ -1,1 +1,1 @@
-var mnemonic = "window friend rotate worth carry cushion plate obvious sick wild team cake";
+var mnemonic = "picnic orphan absurd sight prepare distance calm sweet invest blue foam add";

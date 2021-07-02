@@ -1,1 +1,1 @@
-var mnemonic = "bracket magnet until cherry elephant field try cost tattoo rapid decorate fit";
+var mnemonic = "purchase october enforce plastic stove bleak isolate rough dove upper hip skirt";

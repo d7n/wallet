@@ -1,1 +1,1 @@
-var mnemonic = "inquiry treat wire twin catalog vapor bar safe soldier spirit dutch one";
+var mnemonic = "chair diary later yard uncover morning sleep kitten session floor skull nothing";

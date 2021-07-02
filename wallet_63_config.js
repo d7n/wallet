@@ -1,1 +1,1 @@
-var mnemonic = "pact all fury leopard bomb truth skate ball broken earn oxygen limb";
+var mnemonic = "debris either tell minute void initial man cruise sock mimic toast interest";

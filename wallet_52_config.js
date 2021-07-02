@@ -1,1 +1,1 @@
-var mnemonic = "duck inflict cram green obtain camera phrase siege steel palm flat identify";
+var mnemonic = "sauce business diagram fix crazy whisper often observe world mobile chuckle punch";

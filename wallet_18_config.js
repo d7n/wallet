@@ -1,1 +1,1 @@
-var mnemonic = "beyond grief guess first soft mad rebuild olive horror deputy comic olympic";
+var mnemonic = "garage tower scrub modify shiver turtle stamp stock total cry asthma exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "armor muscle share dose rebuild welcome satisfy together train blanket unlock domain";
+var mnemonic = "rapid bench fork discover luggage humble pattern next rigid race omit online";

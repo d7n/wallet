@@ -1,1 +1,1 @@
-var mnemonic = "jewel fringe edit transfer solar farm repair clutch athlete bless uncle industry";
+var mnemonic = "month inherit crowd filter jeans visual various able era hockey panic vast";

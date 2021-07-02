@@ -1,1 +1,1 @@
-var mnemonic = "live match runway enter oxygen month exact achieve regret kitten have situate";
+var mnemonic = "orient smart decide faint jealous first vault mad family carry moon evil";

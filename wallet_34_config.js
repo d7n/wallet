@@ -1,1 +1,1 @@
-var mnemonic = "funny endorse tuna mechanic enlist candy legend choose loan wave lizard air";
+var mnemonic = "sketch evoke eager require century half theme call grant host venture pattern";

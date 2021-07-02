@@ -1,1 +1,1 @@
-var mnemonic = "decline song april twin awkward summer fever stadium wolf cart bounce soon";
+var mnemonic = "symptom destroy point green evil elbow empty oppose tonight south cup endless";

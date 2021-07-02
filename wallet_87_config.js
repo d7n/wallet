@@ -1,1 +1,1 @@
-var mnemonic = "worth spell arrest play since human task royal abuse silent tape deliver";
+var mnemonic = "wild host spray expire glow until adapt cluster ozone mesh first venue";

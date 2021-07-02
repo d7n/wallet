@@ -1,1 +1,1 @@
-var mnemonic = "raise mule label recall huge oven february affair sound staff dutch coyote";
+var mnemonic = "fatal truly jar lounge dove rice rapid name polar rabbit congress property";

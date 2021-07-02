@@ -1,1 +1,1 @@
-var mnemonic = "magic woman duck runway grass melody artwork rigid bitter deer slab carry";
+var mnemonic = "patrol analyst cannon process yard clip endless vast bicycle endless good mention";

@@ -1,1 +1,1 @@
-var mnemonic = "snap shop material rice intact possible symptom inquiry copper estate zoo ribbon";
+var mnemonic = "cup proof champion reduce island december siren carry coconut expand broken turkey";

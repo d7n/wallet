@@ -1,1 +1,1 @@
-var mnemonic = "disease ladder meat result jump black solve fringe stage doctor mixed pet";
+var mnemonic = "random feature sign charge twist audit library depart catalog improve visual school";

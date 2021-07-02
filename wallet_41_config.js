@@ -1,1 +1,1 @@
-var mnemonic = "rail slim trend slab warrior earn nest sword wine govern solar fee";
+var mnemonic = "angry receive error rival steel derive car slow adapt brisk usage fantasy";

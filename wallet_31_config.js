@@ -1,1 +1,1 @@
-var mnemonic = "hollow awesome eight wood scout bicycle despair fly useless spend snow cupboard";
+var mnemonic = "snap vintage blame forum tornado evil recycle horror vibrant piano fence fragile";

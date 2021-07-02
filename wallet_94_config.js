@@ -1,1 +1,1 @@
-var mnemonic = "assault crouch fit rigid october fox document crack opinion index unaware siege";
+var mnemonic = "cute deal absent miracle garage sock snap few oval enact term marine";

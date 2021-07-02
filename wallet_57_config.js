@@ -1,1 +1,1 @@
-var mnemonic = "glad erupt still strike consider renew razor bird journey slow lamp valid";
+var mnemonic = "solve stem allow climb report skate lumber phrase scheme shop tone canvas";

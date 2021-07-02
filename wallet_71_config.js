@@ -1,1 +1,1 @@
-var mnemonic = "actress ski brief spread hover drum crucial lonely sketch wash chef large";
+var mnemonic = "notice hidden print scatter raise push code ginger butter decorate axis wave";

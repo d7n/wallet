@@ -1,1 +1,1 @@
-var mnemonic = "ill sunset glow random gravity code nut lunar renew coral portion pool";
+var mnemonic = "vanish loyal forget cotton physical next lion defense ranch machine pipe forget";

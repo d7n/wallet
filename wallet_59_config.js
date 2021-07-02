@@ -1,1 +1,1 @@
-var mnemonic = "charge harsh inmate song prison seminar ability uphold network used abuse net";
+var mnemonic = "forward cliff calm spring bridge anger anxiety leg catch better wave reveal";

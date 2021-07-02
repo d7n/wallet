@@ -1,1 +1,1 @@
-var mnemonic = "enforce pink rare profit differ action squeeze mixture spoon blur foster reveal";
+var mnemonic = "trumpet task exercise drive floor shove old bind coffee letter duck small";

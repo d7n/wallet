@@ -1,1 +1,1 @@
-var mnemonic = "tortoise penalty also spoon frog joy crime excess thing garage bamboo bunker";
+var mnemonic = "father tumble future bind flower either gauge gaze skate antenna bonus cool";

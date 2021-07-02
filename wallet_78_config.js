@@ -1,1 +1,1 @@
-var mnemonic = "theme glow whale image gauge magnet client citizen fiber nation radar napkin";
+var mnemonic = "junior oval level wise famous tank popular pet pilot know swear label";

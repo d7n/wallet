@@ -1,1 +1,1 @@
-var mnemonic = "inspire square envelope motor mosquito copper merge buddy village domain rug luggage";
+var mnemonic = "lyrics fortune zone sponsor hobby tennis arrest that laugh render talent gasp";

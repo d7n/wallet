@@ -1,1 +1,1 @@
-var mnemonic = "actress invite olympic inspire boil width best phone extend cricket biology walnut";
+var mnemonic = "allow eager burst mention shiver situate odor flock visa border stock viable";

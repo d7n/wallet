@@ -1,1 +1,1 @@
-var mnemonic = "visual shove such anger actor peace tornado trip abstract section perfect capable";
+var mnemonic = "reason castle fish impulse dwarf pioneer edge nest truth tomato soap spare";

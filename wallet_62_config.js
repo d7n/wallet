@@ -1,1 +1,1 @@
-var mnemonic = "burden decorate income welcome empower letter volume weather jar fabric hotel improve";
+var mnemonic = "auction dinosaur bright basic kiwi march balcony mountain bomb toe cupboard badge";

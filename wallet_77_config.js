@@ -1,1 +1,1 @@
-var mnemonic = "dragon minute oval alone during lava account sad rebuild unique practice alarm";
+var mnemonic = "cluster between song tenant myth shell confirm erase hint enrich nut nation";

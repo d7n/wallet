@@ -1,1 +1,1 @@
-var mnemonic = "salmon enrich wink layer among build notice found sense wealth cart civil";
+var mnemonic = "drill put hammer neither myth escape opinion brave toddler program used define";

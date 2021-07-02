@@ -1,1 +1,1 @@
-var mnemonic = "citizen melt result appear promote dinosaur oyster proud woman rival crunch abandon";
+var mnemonic = "mansion answer scorpion old family prize canoe economy wheat acoustic journey web";

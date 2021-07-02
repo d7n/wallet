@@ -1,1 +1,1 @@
-var mnemonic = "lumber person mixture umbrella script oven tower test wedding wrong wine science";
+var mnemonic = "census soft exchange grace dragon energy congress pipe sand blush casino claim";

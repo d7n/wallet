@@ -1,1 +1,1 @@
-var mnemonic = "payment monster twenty soccer sister size idle desert cry obey suffer anchor";
+var mnemonic = "decline crawl raise must swap rail pulp soul front answer depth march";

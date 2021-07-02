@@ -1,1 +1,1 @@
-var mnemonic = "chalk brick index chest wedding empower jazz old laundry economy asset normal";
+var mnemonic = "express silly ship skate token elevator tent proud when talk planet judge";

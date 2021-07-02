@@ -1,1 +1,1 @@
-var mnemonic = "page text ball arrange glow unhappy claim laptop try aim vote country";
+var mnemonic = "solar north ticket fruit amazing allow reveal jewel garbage suit another under";

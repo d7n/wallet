@@ -1,1 +1,1 @@
-var mnemonic = "scene snap erase rib century educate genuine grain actor adjust coach view";
+var mnemonic = "apart vibrant donor swap ride impact innocent nice wink donkey drink grit";

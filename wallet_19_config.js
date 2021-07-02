@@ -1,1 +1,1 @@
-var mnemonic = "together exit easily chest genre leisure hamster romance carpet egg wish stage";
+var mnemonic = "pole scatter fitness potato dose pupil clip evolve utility copper vault puppy";

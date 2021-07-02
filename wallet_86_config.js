@@ -1,1 +1,1 @@
-var mnemonic = "candy destroy detect weapon all casual judge brown math photo jewel ticket";
+var mnemonic = "father universe sniff recipe float situate february solution axis trim exhibit moment";

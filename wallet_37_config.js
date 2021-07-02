@@ -1,1 +1,1 @@
-var mnemonic = "soup bar olive oblige sudden matter super chicken wonder anxiety print wrist";
+var mnemonic = "narrow divorce tell demand bleak tomato ahead play lesson bar ignore urban";

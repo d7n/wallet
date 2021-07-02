@@ -1,1 +1,1 @@
-var mnemonic = "news own unfold glue head transfer bid proof wing purity pledge resource";
+var mnemonic = "kit predict divorce civil mechanic just insect doll mobile base zone flat";

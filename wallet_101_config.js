@@ -1,1 +1,1 @@
-var mnemonic = "slogan survey leaf side size artwork base hole uncle zebra rose network";
+var mnemonic = "actor urban rice vote dwarf because month quiz humble cluster gown solution";

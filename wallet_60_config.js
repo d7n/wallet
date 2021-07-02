@@ -1,1 +1,1 @@
-var mnemonic = "slow dolphin luxury wrap poet inspire steak fortune tribe summer deliver pencil";
+var mnemonic = "camera loud lunch elder office olive oxygen fashion display idle offer voyage";

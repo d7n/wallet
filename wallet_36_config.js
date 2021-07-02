@@ -1,1 +1,1 @@
-var mnemonic = "surround lens express social laundry catalog glass gym sunset distance settle magic";
+var mnemonic = "prefer swing multiply verify ribbon opinion cinnamon joy assault tooth general edge";

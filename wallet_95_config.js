@@ -1,1 +1,1 @@
-var mnemonic = "vibrant exchange fortune cradle cost hunt hope horn aim identify able month";
+var mnemonic = "swift adapt alarm pass bunker jeans ahead spider grief sad soon senior";

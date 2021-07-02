@@ -1,1 +1,1 @@
-var mnemonic = "cushion wear heavy oppose burger dilemma valley vacuum access ripple grocery radar";
+var mnemonic = "tide predict page will battle repeat reject degree pass best script panel";
