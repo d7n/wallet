@@ -1,1 +1,1 @@
-var mnemonic = "firm badge fever swap pattern can bench view summer crane surge loud";
+var mnemonic = "scissors way feel anger wood pumpkin obscure ginger wreck parrot trial public";

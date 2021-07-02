@@ -1,1 +1,1 @@
-var mnemonic = "throw mix tube barely chicken bind endless guess anger gate picnic monkey";
+var mnemonic = "awake risk blood lounge current change truck swamp swap adjust inject vintage";

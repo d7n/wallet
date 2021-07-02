@@ -1,1 +1,1 @@
-var mnemonic = "leisure toy truck dawn mixture cage furnace attend combine mechanic display female";
+var mnemonic = "slow walk road affair sand old biology guilt now lesson dawn mom";

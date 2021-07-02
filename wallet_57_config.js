@@ -1,1 +1,1 @@
-var mnemonic = "key amount van witness control cook shoot riot tone office basic tilt";
+var mnemonic = "legal priority creek hurry gadget refuse panic gun voice trick filter urban";

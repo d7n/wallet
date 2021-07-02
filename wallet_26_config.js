@@ -1,1 +1,1 @@
-var mnemonic = "bargain abandon fashion phrase dynamic learn reject system put sock unit play";
+var mnemonic = "cheese rail buddy trial base reward cram theory response tenant search outdoor";

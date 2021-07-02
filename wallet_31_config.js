@@ -1,1 +1,1 @@
-var mnemonic = "jacket extend captain course million auction boost chest raven round erupt decide";
+var mnemonic = "napkin route hour concert marble gesture ridge define require certain small edit";

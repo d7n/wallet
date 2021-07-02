@@ -1,1 +1,1 @@
-var mnemonic = "fossil nephew surprise stable exit key venue index orange surface urge dragon";
+var mnemonic = "jump situate sunset clap gadget album tray tissue garbage love tennis weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse gym scissors among artefact rely page hawk limit flavor evolve dial";
+var mnemonic = "bind update cube february main phrase lamp canoe churn narrow board awkward";

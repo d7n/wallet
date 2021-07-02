@@ -1,1 +1,1 @@
-var mnemonic = "jump warm liar assume mind blade trick suit noble december rapid eagle";
+var mnemonic = "put alcohol pistol suffer cinnamon erupt card pool rude list run punch";

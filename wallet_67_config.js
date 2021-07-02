@@ -1,1 +1,1 @@
-var mnemonic = "accuse nephew frequent purity error child abandon hello chunk sword during tunnel";
+var mnemonic = "reduce choose when man camp napkin fine bronze moral tilt put drink";

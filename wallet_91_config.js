@@ -1,1 +1,1 @@
-var mnemonic = "define session nothing glad air empty shoe suit smile jump vibrant unusual";
+var mnemonic = "dragon gauge shuffle move cake day onion top august agent bachelor only";

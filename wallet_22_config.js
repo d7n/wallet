@@ -1,1 +1,1 @@
-var mnemonic = "foot rebel antique tiger cart load disagree punch penalty joy tenant hub";
+var mnemonic = "use intact enroll reason match detect coyote brief home pipe cabin elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon celery muffin vote excess viable scare wire pitch agree ski satoshi";
+var mnemonic = "lamp witness below such rich elevator universe very involve misery style hat";

@@ -1,1 +1,1 @@
-var mnemonic = "stage rug design purchase have process vapor earth virtual either vivid puppy";
+var mnemonic = "twist potato dizzy filter primary length fiscal genre clarify dinner outer law";

@@ -1,1 +1,1 @@
-var mnemonic = "claim crew broken universe thought sand paper orchard script obey cousin company";
+var mnemonic = "bench mountain mystery sudden fury fox steak pave candy village orange describe";

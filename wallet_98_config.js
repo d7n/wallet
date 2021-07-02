@@ -1,1 +1,1 @@
-var mnemonic = "cram cactus wear mad argue sun dream veteran visual any luggage bicycle";
+var mnemonic = "hand target razor pipe cereal dose write economy still speak egg away";

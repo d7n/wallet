@@ -1,1 +1,1 @@
-var mnemonic = "impact transfer wheel place hotel laptop own around text first minor risk";
+var mnemonic = "hazard setup glow plate face chase fault sunset expand normal six despair";

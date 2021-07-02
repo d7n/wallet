@@ -1,1 +1,1 @@
-var mnemonic = "reform ethics cereal session guilt capital chuckle animal hill supreme beauty egg";
+var mnemonic = "grant panther twenty reopen beyond vendor concert leaf shy sibling jewel giggle";

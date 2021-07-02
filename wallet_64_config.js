@@ -1,1 +1,1 @@
-var mnemonic = "denial lamp future web prison gorilla empower lab attract exile found come";
+var mnemonic = "error vacant shield segment figure imitate action clump pair matrix april twin";

@@ -1,1 +1,1 @@
-var mnemonic = "shy chair soup water idle solve credit public tank suffer uncle paper";
+var mnemonic = "grocery crop require soccer achieve idea predict skin film furnace actress pair";

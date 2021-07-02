@@ -1,1 +1,1 @@
-var mnemonic = "post gasp armed burst unveil shy shift uncover someone congress absent mercy";
+var mnemonic = "hungry drive cool year suffer indoor flat iron cat snack material science";

@@ -1,1 +1,1 @@
-var mnemonic = "sick note hill proud east nice sweet enable wish puzzle nation below";
+var mnemonic = "clerk walnut riot brave cash safe neither print issue cross material road";

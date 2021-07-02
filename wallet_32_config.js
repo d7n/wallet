@@ -1,1 +1,1 @@
-var mnemonic = "awkward sketch leg craft grief radio three roof bind believe exchange key";
+var mnemonic = "agree aware conduct badge tray soon accident three feel bind seven melody";

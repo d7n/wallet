@@ -1,1 +1,1 @@
-var mnemonic = "elephant vehicle poverty solution artefact cricket combine act strategy under ancient flavor";
+var mnemonic = "cash kiss deny stand evoke desert inform arrest ancient shoe better awesome";

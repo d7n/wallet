@@ -1,1 +1,1 @@
-var mnemonic = "between chaos subject sand polar doctor ghost august false burger excess worth";
+var mnemonic = "edge trophy annual twelve glad lock harsh mobile heavy wolf detect fever";

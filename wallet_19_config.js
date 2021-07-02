@@ -1,1 +1,1 @@
-var mnemonic = "barrel super razor sniff until organ glare proud sun equal fold object";
+var mnemonic = "legend boat describe actress thank wrap meadow primary clarify bounce divide cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth oppose sure diamond code trim topic patient lunar chronic slide clever";
+var mnemonic = "employ special rocket lawsuit tired turtle strong drum actual apart develop lobster";

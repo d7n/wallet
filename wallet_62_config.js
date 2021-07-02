@@ -1,1 +1,1 @@
-var mnemonic = "lonely quit gauge absent fatal skin future fetch during eight drama wing";
+var mnemonic = "dinner memory fame raw genre advance rent genre like eagle quit lion";

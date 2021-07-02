@@ -1,1 +1,1 @@
-var mnemonic = "glad liquid mobile inject tooth clog merry rely style dignity vehicle amateur";
+var mnemonic = "truth autumn trophy young idle stuff cross monster energy cluster woman fetch";

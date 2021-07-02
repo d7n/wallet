@@ -1,1 +1,1 @@
-var mnemonic = "impose spoil action resist before main wage garden lens basic play swarm";
+var mnemonic = "traffic comfort lens key risk happy habit fashion cement rescue raccoon hurry";

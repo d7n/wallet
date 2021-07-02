@@ -1,1 +1,1 @@
-var mnemonic = "ankle slam doll ridge picture sail sadness market boring tail deliver nurse";
+var mnemonic = "resemble bottom man coach bone shuffle retire few clock work hill cable";

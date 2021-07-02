@@ -1,1 +1,1 @@
-var mnemonic = "used husband final corn improve loud run special poem exercise amused never";
+var mnemonic = "wrap float nurse shy blade dream dinner material able seminar drop crime";

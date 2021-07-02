@@ -1,1 +1,1 @@
-var mnemonic = "inherit humble add pull permit labor during art pioneer audit alter deer";
+var mnemonic = "oval slide slot squeeze goose naive expand parrot only sand habit rubber";

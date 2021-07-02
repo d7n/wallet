@@ -1,1 +1,1 @@
-var mnemonic = "cloth south material toddler expose credit welcome cruel giggle inflict today empty";
+var mnemonic = "flight mass crew rain grape cheese unfair play frown final very gravity";

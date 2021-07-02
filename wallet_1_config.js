@@ -1,1 +1,1 @@
-var mnemonic = "wagon upper credit space mass garlic caution balcony panther text excess drum";
+var mnemonic = "conduct circle unveil today require beauty arrest occur hawk luxury scorpion saddle";

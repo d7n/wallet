@@ -1,1 +1,1 @@
-var mnemonic = "sustain letter drama genius please drive involve silent vicious caught close pioneer";
+var mnemonic = "garage uncle answer fade forest embody total develop hockey swamp swamp blue";

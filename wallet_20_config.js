@@ -1,1 +1,1 @@
-var mnemonic = "script night work simple beach party artwork tool joke spin wine devote";
+var mnemonic = "client valve shadow skate robust combine stay jeans ozone dwarf gentle sword";

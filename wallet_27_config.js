@@ -1,1 +1,1 @@
-var mnemonic = "neither uncle river pond fossil best salute buyer just tray relax salt";
+var mnemonic = "danger ask chef fuel wool either choose real charge wage crew damp";

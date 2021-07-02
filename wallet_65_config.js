@@ -1,1 +1,1 @@
-var mnemonic = "capable hub pause arrow worth galaxy pig daring three toss elder flat";
+var mnemonic = "person valve learn armed already upper next robust parrot multiply cluster yard";

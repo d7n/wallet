@@ -1,1 +1,1 @@
-var mnemonic = "coffee craft drive indicate produce trick pole field unfold detail thrive child";
+var mnemonic = "certain judge tone captain tuna coin gloom asset demise rose mouse rare";

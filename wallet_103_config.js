@@ -1,1 +1,1 @@
-var mnemonic = "lottery around coach else kiwi addict bounce unknown fire obscure someone topic";
+var mnemonic = "better result between erosion buzz purchase crush doctor flock invite hold school";

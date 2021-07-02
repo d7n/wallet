@@ -1,1 +1,1 @@
-var mnemonic = "twelve adult mystery group bunker movie energy jungle cabin inflict boost any";
+var mnemonic = "afraid shuffle invest drink own custom own balance abstract gravity excess royal";

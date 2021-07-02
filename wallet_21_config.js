@@ -1,1 +1,1 @@
-var mnemonic = "price twist mom motion lunar dress album rice domain rain kite athlete";
+var mnemonic = "virus hobby ridge define anchor cradle can when drop system govern person";

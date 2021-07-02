@@ -1,1 +1,1 @@
-var mnemonic = "drum system retire enhance name few badge kitten couch utility endless squirrel";
+var mnemonic = "repair eagle feel invest music crew wheel help property roof alert friend";

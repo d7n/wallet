@@ -1,1 +1,1 @@
-var mnemonic = "high balcony water rabbit buddy tobacco opera potato deposit unhappy fatal visit";
+var mnemonic = "hurry mixed hub into walnut tuition brave enroll bright scale bless thunder";

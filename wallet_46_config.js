@@ -1,1 +1,1 @@
-var mnemonic = "shell host you rotate vague nice film brother goose foster nominee silver";
+var mnemonic = "sound antique shrimp size girl present news vocal ten they judge sense";

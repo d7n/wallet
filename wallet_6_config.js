@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow ketchup black grid worth master alarm wealth feel able monkey pledge";
+var mnemonic = "fine useful dinner actress grass edge borrow hole fruit fatigue text noble";

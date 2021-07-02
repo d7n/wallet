@@ -1,1 +1,1 @@
-var mnemonic = "canal nation satisfy stadium stuff law vague galaxy very toward dawn dry";
+var mnemonic = "deal buyer rely hundred shell trial panel mind replace march circle giant";

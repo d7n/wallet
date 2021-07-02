@@ -1,1 +1,1 @@
-var mnemonic = "two road february better unveil increase fan trouble kiss buffalo elevator secret";
+var mnemonic = "runway voice start focus riot update belt arch bar cool month local";

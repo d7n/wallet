@@ -1,1 +1,1 @@
-var mnemonic = "rose pilot lady foam pledge trophy rain book security any close floor";
+var mnemonic = "swap welcome two bleak very stay planet steel poverty virus lady unaware";

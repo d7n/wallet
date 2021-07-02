@@ -1,1 +1,1 @@
-var mnemonic = "silent replace monkey flip leaf sleep radar hold cash apple tumble force";
+var mnemonic = "dolphin under spring guess crop hockey garlic pitch guitar funny script elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive cup normal human chief adjust sea cinnamon shadow harvest letter into";
+var mnemonic = "genuine soap best car guess camera radar debate october hundred dish skin";

@@ -1,1 +1,1 @@
-var mnemonic = "human autumn opinion common upgrade doctor guard frog fuel rack kingdom art";
+var mnemonic = "figure kid verify pluck employ announce rib dream broken pattern junk super";

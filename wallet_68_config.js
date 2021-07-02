@@ -1,1 +1,1 @@
-var mnemonic = "employ mirror horse next bracket october bitter lunch ski female indicate good";
+var mnemonic = "chalk target illness viable cherry token skull hunt present dolphin often wheat";

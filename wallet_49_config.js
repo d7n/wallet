@@ -1,1 +1,1 @@
-var mnemonic = "void nose sand discover tonight obscure art second potato amount soft change";
+var mnemonic = "analyst duck hunt lounge worry rookie olympic economy until kid group flame";

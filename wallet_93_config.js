@@ -1,1 +1,1 @@
-var mnemonic = "proof couch ring huge walk river coin trim nature muscle blue accuse";
+var mnemonic = "region spice confirm crazy search animal thing galaxy bean morning youth umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth stand connect nose diet flag right virtual toddler capital garbage illness";
+var mnemonic = "enemy intact follow beach world vapor mixture chapter melt perfect sing cause";

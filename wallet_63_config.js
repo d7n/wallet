@@ -1,1 +1,1 @@
-var mnemonic = "unusual stock drive unknown help mobile festival dinosaur picture upset digital random";
+var mnemonic = "history danger front grid clutch orange machine they grit only cricket slush";

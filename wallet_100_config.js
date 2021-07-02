@@ -1,1 +1,1 @@
-var mnemonic = "mail unit flight loop exercise entry science minute degree because piece hybrid";
+var mnemonic = "rice hybrid eternal change shield bronze mother absorb worth since debate vibrant";

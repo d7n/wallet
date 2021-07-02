@@ -1,1 +1,1 @@
-var mnemonic = "supply sunset fitness lyrics amazing large enter order person thumb blossom earth";
+var mnemonic = "bundle marine harvest medal spirit syrup exchange gravity squeeze embark spike liar";

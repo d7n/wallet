@@ -1,1 +1,1 @@
-var mnemonic = "say picture novel basic february table position pen avoid hub skate hood";
+var mnemonic = "survey helmet predict emerge choose confirm unusual junior slender current rival pave";

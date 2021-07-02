@@ -1,1 +1,1 @@
-var mnemonic = "energy armor rifle betray will lobster list like ranch gas achieve fortune";
+var mnemonic = "ten knee lock dizzy flag armed gown hood melody transfer victory outside";

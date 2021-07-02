@@ -1,1 +1,1 @@
-var mnemonic = "disorder search recipe answer invest settle orient visa cherry escape bone middle";
+var mnemonic = "dutch fold logic stool repeat mixed average voice liar boring nothing initial";

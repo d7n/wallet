@@ -1,1 +1,1 @@
-var mnemonic = "then spice number rubber craft thought mechanic cushion hurry fiscal demand tone";
+var mnemonic = "leave stone property mail service phone awake race upon tail park include";

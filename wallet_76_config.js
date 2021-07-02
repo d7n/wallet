@@ -1,1 +1,1 @@
-var mnemonic = "chief soap tenant mountain genius fiber plate lamp young promote amateur tissue";
+var mnemonic = "alone denial regular spirit frame lens advice potato quantum vacuum swap junior";

@@ -1,1 +1,1 @@
-var mnemonic = "member galaxy senior dinner pet seven business impact point horn leisure win";
+var mnemonic = "enforce major scatter regret mad seek inmate sea imitate surprise reunion laugh";

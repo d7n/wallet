@@ -1,1 +1,1 @@
-var mnemonic = "woman imitate cushion desert hole beef patrol prosper soul sense risk slender";
+var mnemonic = "young over announce reward void smoke kitten column second cereal dutch junk";

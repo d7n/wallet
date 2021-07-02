@@ -1,1 +1,1 @@
-var mnemonic = "silent rigid song ladder utility flat soup tackle garbage present feature pond";
+var mnemonic = "sugar way garden buzz angle mistake conduct approve stand era motor jungle";

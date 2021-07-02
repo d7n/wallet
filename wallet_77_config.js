@@ -1,1 +1,1 @@
-var mnemonic = "mechanic income song off direct lucky join civil image finger pumpkin squeeze";
+var mnemonic = "anxiety brush lesson same cool imitate same invite december rose update flavor";

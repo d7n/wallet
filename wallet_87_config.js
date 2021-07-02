@@ -1,1 +1,1 @@
-var mnemonic = "orphan universe manage thumb lobster loyal cook light clog mobile cigar recall";
+var mnemonic = "acquire kick client situate hint butter coin excess lock feel diamond elite";

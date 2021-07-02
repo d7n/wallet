@@ -1,1 +1,1 @@
-var mnemonic = "insane purchase oxygen day south umbrella cinnamon hobby fitness crop dust elegant";
+var mnemonic = "leisure click valid interest uncle minute boat scan real cool stay dragon";

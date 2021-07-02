@@ -1,1 +1,1 @@
-var mnemonic = "tragic prefer crime ocean master aunt lava more next solid game hire";
+var mnemonic = "loyal note post runway mosquito bean trophy zoo wing catch lion hint";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy sudden moon way mix salute flat pioneer honey dial vessel diagram";
+var mnemonic = "dad pepper inflict laptop sock disease clog deputy fire left clog find";

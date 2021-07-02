@@ -1,1 +1,1 @@
-var mnemonic = "census slush check cake maze glide dash record few snake render meadow";
+var mnemonic = "shuffle chalk pipe tourist final soup velvet paddle bonus velvet judge together";

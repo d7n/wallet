@@ -1,1 +1,1 @@
-var mnemonic = "absent rely uncover note rapid science parade squeeze donkey pill risk win";
+var mnemonic = "night sentence crucial funny stereo caught tattoo tree curtain gaze unfold open";

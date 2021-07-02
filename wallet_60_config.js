@@ -1,1 +1,1 @@
-var mnemonic = "job text borrow burst monkey whisper arrange talent all affair leg media";
+var mnemonic = "cushion grant setup symptom display noise dwarf credit note ethics ranch humble";

@@ -1,1 +1,1 @@
-var mnemonic = "clog burger motion brass holiday permit run erase globe crater excite siege";
+var mnemonic = "library sing tongue enroll evolve witness tuition time disorder risk pluck blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "hair option undo become citizen camera exotic legend kidney calm rocket pass";
+var mnemonic = "insect embody divide lab core orphan topple file minimum occur silk neck";

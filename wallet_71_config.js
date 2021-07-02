@@ -1,1 +1,1 @@
-var mnemonic = "manage ticket current crawl drastic shaft sadness gaze artefact pottery cherry insane";
+var mnemonic = "control sentence choose check canyon autumn proud brief mushroom snap glad left";

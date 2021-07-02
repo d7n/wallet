@@ -1,1 +1,1 @@
-var mnemonic = "grant wall gravity swap also rose syrup horse sing chunk salon crisp";
+var mnemonic = "bachelor chest machine loan blood soldier card bright admit cloud record decrease";

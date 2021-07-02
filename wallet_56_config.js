@@ -1,1 +1,1 @@
-var mnemonic = "grace obtain say usage session belt topic witness nuclear whip collect eagle";
+var mnemonic = "warm fiscal dream brave hub permit silent few luxury example sick holiday";

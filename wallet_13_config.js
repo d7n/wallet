@@ -1,1 +1,1 @@
-var mnemonic = "coral disorder they neutral habit rose false extend rack talk true hand";
+var mnemonic = "exhibit noble split sense capable color enforce payment length arrow prevent pattern";

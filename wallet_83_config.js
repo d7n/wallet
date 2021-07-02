@@ -1,1 +1,1 @@
-var mnemonic = "initial eternal then grief erode useful seat grid execute recipe level garbage";
+var mnemonic = "affair crystal truly vacuum cross north dress ramp shift trip cave clarify";

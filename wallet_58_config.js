@@ -1,1 +1,1 @@
-var mnemonic = "coral foot safe aerobic debris version mask neutral tilt soap flame scrap";
+var mnemonic = "hammer income youth scene hedgehog timber weasel boring actor ignore turtle bless";

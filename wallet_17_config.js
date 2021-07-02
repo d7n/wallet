@@ -1,1 +1,1 @@
-var mnemonic = "ankle moral program produce girl clap demand artwork denial card only crash";
+var mnemonic = "there genre initial hundred phrase trust broom theory curious grab vote control";

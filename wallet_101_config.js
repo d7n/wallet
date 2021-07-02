@@ -1,1 +1,1 @@
-var mnemonic = "tent sugar episode scrap grocery embody duty chaos pig chronic kiwi alien";
+var mnemonic = "neither since family tomato display load cram follow scale large acoustic peanut";

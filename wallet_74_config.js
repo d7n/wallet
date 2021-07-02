@@ -1,1 +1,1 @@
-var mnemonic = "zero busy culture absent dream face scheme secret differ twelve ride volcano";
+var mnemonic = "tip wrestle they copper target ten goat snake comic equal able lounge";
