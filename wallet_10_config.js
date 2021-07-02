@@ -1,1 +1,1 @@
-var mnemonic = "egg priority core truth awake heart moral shine inspire wait afford often";
+var mnemonic = "swamp runway note giraffe junior dose text park cool magnet similar fashion";

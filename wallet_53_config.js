@@ -1,1 +1,1 @@
-var mnemonic = "dynamic vast syrup tape boil right pluck mom person drip enlist parent";
+var mnemonic = "lion spirit ignore lumber drift trap need square walk can same thrive";

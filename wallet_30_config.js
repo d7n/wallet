@@ -1,1 +1,1 @@
-var mnemonic = "funny large safe garlic regret dolphin wise exercise silent damage horror car";
+var mnemonic = "party brown sheriff tenant hint bar enact win trend they much genius";

@@ -1,1 +1,1 @@
-var mnemonic = "usage squirrel enrich train member motion bamboo they panel joke derive inner";
+var mnemonic = "matrix staff flat main develop original raccoon bind know veteran mixed hungry";

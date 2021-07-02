@@ -1,1 +1,1 @@
-var mnemonic = "arrow olympic exclude cycle clutch key exotic famous tag bright rib almost";
+var mnemonic = "control nothing spoil boil bleak veteran sad bottom leg raw gentle remember";

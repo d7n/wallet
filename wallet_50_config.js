@@ -1,1 +1,1 @@
-var mnemonic = "modify winner romance camera purpose stumble prison ranch essay agent arrange head";
+var mnemonic = "accident orbit check moon tired rate vessel radar demise vacant buzz concert";

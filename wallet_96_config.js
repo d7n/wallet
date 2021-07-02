@@ -1,1 +1,1 @@
-var mnemonic = "proof dignity shrimp wink buyer wonder palm battle minute knife scatter trouble";
+var mnemonic = "image piano luggage motion tunnel addict sure swallow display jewel hurt soon";

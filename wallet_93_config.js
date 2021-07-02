@@ -1,1 +1,1 @@
-var mnemonic = "candy evidence canvas april various arena limb draw scout earth loud wolf";
+var mnemonic = "project weapon athlete fit army narrow sponsor silver shoot raccoon practice trim";

@@ -1,1 +1,1 @@
-var mnemonic = "banner float prize gas joke pulp barely gospel smart pill arrive title";
+var mnemonic = "congress confirm fog near useful always fossil garden garage before police ridge";

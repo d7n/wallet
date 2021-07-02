@@ -1,1 +1,1 @@
-var mnemonic = "opera clerk pair squirrel because hour foam tragic width life jungle endless";
+var mnemonic = "cushion miracle wealth promote music office turtle style chuckle click act permit";

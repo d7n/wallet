@@ -1,1 +1,1 @@
-var mnemonic = "skirt assault you wash night snow they attack wise shallow bundle dream";
+var mnemonic = "news correct crucial bind illegal scissors garbage spider all profit soldier leave";

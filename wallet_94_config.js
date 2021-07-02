@@ -1,1 +1,1 @@
-var mnemonic = "roof grape silk virus promote debate round patient fiction envelope must gentle";
+var mnemonic = "actual roast vapor scrub world curious measure betray unit lift dial wine";

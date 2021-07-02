@@ -1,1 +1,1 @@
-var mnemonic = "solid zoo embrace sun gown engine bar shy crane all wreck despair";
+var mnemonic = "undo october force kind become friend fantasy anxiety blood phrase claim shaft";

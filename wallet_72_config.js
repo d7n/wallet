@@ -1,1 +1,1 @@
-var mnemonic = "bid message where slim galaxy trade property leader donate job filter spring";
+var mnemonic = "zero globe toward glimpse jacket deer throw motion twist put apple employ";

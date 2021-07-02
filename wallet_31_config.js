@@ -1,1 +1,1 @@
-var mnemonic = "pulp claw genius kitchen space evil width amazing scatter speak okay catalog";
+var mnemonic = "bind group text permit humble brass program fork donate provide struggle umbrella";

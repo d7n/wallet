@@ -1,1 +1,1 @@
-var mnemonic = "earn flower milk shoe goat doctor cargo friend release fire upset cancel";
+var mnemonic = "tomato method notice insane trip equal credit farm clown interest woman toast";

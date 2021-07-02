@@ -1,1 +1,1 @@
-var mnemonic = "twin sound hood donkey deer acoustic argue shuffle wool skin digital captain";
+var mnemonic = "humble romance awkward sense scene judge clean cry nurse fork much casual";

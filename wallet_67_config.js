@@ -1,1 +1,1 @@
-var mnemonic = "feel tiger catalog prefer glare hip mesh blur dial paper page swarm";
+var mnemonic = "tape toward verify drift plate cake crazy slight excess fantasy purity deal";

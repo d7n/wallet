@@ -1,1 +1,1 @@
-var mnemonic = "orbit olive depart jelly radio giant pipe room hidden nation melody icon";
+var mnemonic = "memory vessel start stove flush acoustic hello tribe physical february miracle awake";

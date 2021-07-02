@@ -1,1 +1,1 @@
-var mnemonic = "vivid garment width absorb skirt panda extra govern equal drop pupil slot";
+var mnemonic = "turtle thunder smile judge island cause job virtual amused ethics measure still";

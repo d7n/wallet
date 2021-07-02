@@ -1,1 +1,1 @@
-var mnemonic = "close able stamp unique boy mixed earn shallow summer help grocery work";
+var mnemonic = "betray edit swap book buddy amused shine awesome kangaroo cage company table";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics gravity clerk young ripple company stable hockey gospel stumble tip farm";
+var mnemonic = "abuse family picture camera again rescue hill curious torch universe dilemma keep";

@@ -1,1 +1,1 @@
-var mnemonic = "sock field calm foot female clog theme soul rain property struggle labor";
+var mnemonic = "carbon great fuel weird school improve burst pig sort alien present during";

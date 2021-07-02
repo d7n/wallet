@@ -1,1 +1,1 @@
-var mnemonic = "action engine argue border utility drift awful guilt drum vital build junk";
+var mnemonic = "hood seed offer trophy monster mercy filter lift erase inner peasant stove";

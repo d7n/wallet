@@ -1,1 +1,1 @@
-var mnemonic = "lady grief judge wrap crisp ceiling behave decrease dumb similar bleak mention";
+var mnemonic = "valve bonus dog grocery rich round oak sibling tomato salt pet rapid";

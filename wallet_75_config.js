@@ -1,1 +1,1 @@
-var mnemonic = "gun fine sphere copper flock ketchup pioneer rule cigar print ivory trigger";
+var mnemonic = "chase noise combine fan auto inside arctic staff say destroy mesh lounge";

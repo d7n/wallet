@@ -1,1 +1,1 @@
-var mnemonic = "section saddle sign idea jazz foil fire emerge inhale immense salon stage";
+var mnemonic = "reform act axis agree effort letter adjust charge gun essence ship you";

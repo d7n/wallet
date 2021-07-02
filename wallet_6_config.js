@@ -1,1 +1,1 @@
-var mnemonic = "foam switch bundle art gravity script all humor human young east report";
+var mnemonic = "evoke trophy veteran educate where jaguar glow life genius boil eye good";

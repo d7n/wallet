@@ -1,1 +1,1 @@
-var mnemonic = "proof void choice enable knee orchard today romance canvas stuff hero waste";
+var mnemonic = "dutch review mind couple fortune joke flavor diary increase speed grace palm";

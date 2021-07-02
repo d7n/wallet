@@ -1,1 +1,1 @@
-var mnemonic = "present sugar glue own hybrid there replace couch balcony inject void practice";
+var mnemonic = "first caught crystal hidden error consider future toast loop defense frozen viable";

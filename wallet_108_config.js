@@ -1,1 +1,1 @@
-var mnemonic = "filter gift power cigar coconut about ski appear pill question lamp fragile";
+var mnemonic = "steak net absent near page office acoustic lucky forward under maple blame";

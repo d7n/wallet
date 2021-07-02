@@ -1,1 +1,1 @@
-var mnemonic = "budget benefit avocado index screen mansion decrease wall offer tuna alter galaxy";
+var mnemonic = "weather dwarf very spot book silk prison giggle opera switch huge behave";

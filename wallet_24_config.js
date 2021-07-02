@@ -1,1 +1,1 @@
-var mnemonic = "obtain wrestle climb over drastic this check rib gospel rather dinosaur rule";
+var mnemonic = "want rather affair either teach culture pencil you century food fly average";

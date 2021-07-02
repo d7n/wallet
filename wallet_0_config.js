@@ -1,1 +1,1 @@
-var mnemonic = "matrix artwork input please fatal pioneer pudding behind region hire hurry trial";
+var mnemonic = "unlock crime romance primary chunk garage pyramid super wool quarter way local";

@@ -1,1 +1,1 @@
-var mnemonic = "wet piano sausage fury force hen stuff tomorrow pen rotate fame pulp";
+var mnemonic = "pave twist cube favorite fringe latin carbon provide connect empty raise upon";

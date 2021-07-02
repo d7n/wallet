@@ -1,1 +1,1 @@
-var mnemonic = "pyramid friend tell live prosper upset pitch beauty monitor help before sad";
+var mnemonic = "adjust history antenna despair assume movie garlic wing draw spoil snack embody";

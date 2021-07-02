@@ -1,1 +1,1 @@
-var mnemonic = "popular hint ranch scheme tent whip combine option south dutch among naive";
+var mnemonic = "animal unfair math glory net orphan minor balance festival because corn before";

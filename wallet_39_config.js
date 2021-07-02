@@ -1,1 +1,1 @@
-var mnemonic = "property hockey brick shoot tiger angry weird order tank word album news";
+var mnemonic = "pen defy potato enhance farm grow frequent proof hero enroll practice enjoy";

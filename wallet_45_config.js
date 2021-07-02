@@ -1,1 +1,1 @@
-var mnemonic = "grass coil version slender decline border blade large race glad weapon utility";
+var mnemonic = "science heart tourist moon box castle heart spread neck effort cruise army";

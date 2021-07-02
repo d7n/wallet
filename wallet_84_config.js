@@ -1,1 +1,1 @@
-var mnemonic = "arrange avocado view spirit wrestle scissors same mention violin claw phrase where";
+var mnemonic = "spy wealth shallow choose legend wild remember east until biology song taxi";

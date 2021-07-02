@@ -1,1 +1,1 @@
-var mnemonic = "hurry more attract elegant rifle pipe lizard garment cook tomato cloth humor";
+var mnemonic = "risk animal weather wage number two slam salt scout brown define claw";

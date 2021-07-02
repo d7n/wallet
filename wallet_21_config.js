@@ -1,1 +1,1 @@
-var mnemonic = "around material bulk genre sail kidney loan liberty unhappy belt repeat spider";
+var mnemonic = "print height village piece blouse liquid nut sword issue hedgehog opinion local";

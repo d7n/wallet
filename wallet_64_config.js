@@ -1,1 +1,1 @@
-var mnemonic = "manual panel hello creek crunch shoot dog pen blast crunch gym swear";
+var mnemonic = "inject vicious baby riot camp fan exhaust fork between water art behave";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss woman impose amazing act action license tomorrow major foster idea vast";
+var mnemonic = "combine this soda lab bronze tank maple couple clap film outdoor top";

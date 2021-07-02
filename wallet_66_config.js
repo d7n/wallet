@@ -1,1 +1,1 @@
-var mnemonic = "zero relax cement ring remain sister rent tissue forest autumn will section";
+var mnemonic = "space glass absurd equip mistake segment already helmet target call change stomach";

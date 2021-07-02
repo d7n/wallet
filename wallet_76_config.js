@@ -1,1 +1,1 @@
-var mnemonic = "cherry degree receive dog soft decide scrap remember delay alley kiwi hedgehog";
+var mnemonic = "loan gas stock life original will kitten wet only arrive rule trade";

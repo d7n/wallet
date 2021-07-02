@@ -1,1 +1,1 @@
-var mnemonic = "have release gesture giggle success pistol capital hand bless pluck crisp plate";
+var mnemonic = "shuffle damp van shrimp rate bulb gun steel creek attack banner enemy";

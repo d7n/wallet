@@ -1,1 +1,1 @@
-var mnemonic = "capable oval tiny describe glow two sphere message indicate antique profit menu";
+var mnemonic = "thing pole grape tongue pluck clean joy tennis inherit mention turkey bone";

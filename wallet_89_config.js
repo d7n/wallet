@@ -1,1 +1,1 @@
-var mnemonic = "work genius upgrade castle arena leaf glove person protect grid hawk gossip";
+var mnemonic = "fire plate code rude supply neutral truly surround nice act motor exhaust";

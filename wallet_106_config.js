@@ -1,1 +1,1 @@
-var mnemonic = "ship describe fold speed chuckle sketch blue husband apple daughter arrest hope";
+var mnemonic = "shove strike effort album scatter unusual donor solid carry month child series";

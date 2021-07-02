@@ -1,1 +1,1 @@
-var mnemonic = "oak fancy spend aim father master kick season chicken inform add jewel";
+var mnemonic = "dress unit guide buddy ankle argue toward arctic flavor lake grow evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar version glimpse hire grass vague decrease quality beef robot rebuild town";
+var mnemonic = "cricket army can split effort pumpkin olympic teach tornado legal enroll program";

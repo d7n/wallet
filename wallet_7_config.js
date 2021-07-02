@@ -1,1 +1,1 @@
-var mnemonic = "market bounce want nose wood become wife floor dizzy cycle series tonight";
+var mnemonic = "sad loop amateur cage arrest brush news fitness opinion case joy dizzy";

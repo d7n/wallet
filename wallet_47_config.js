@@ -1,1 +1,1 @@
-var mnemonic = "spatial ensure fish either salmon depart pull nest legend large wood tissue";
+var mnemonic = "angry square negative refuse verify soon point bracket below woman garlic escape";

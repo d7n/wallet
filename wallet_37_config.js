@@ -1,1 +1,1 @@
-var mnemonic = "excite leader street index stone sister deputy apple guard impose capital quarter";
+var mnemonic = "dice special want ignore spirit network scrub pool van domain slab route";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella detail avocado pole destroy matrix vessel hobby entry minute hair switch";
+var mnemonic = "matrix praise say improve group try congress foam limb crisp surround fine";

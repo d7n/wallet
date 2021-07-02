@@ -1,1 +1,1 @@
-var mnemonic = "cry stool physical expand add borrow forest panther trade brick appear lady";
+var mnemonic = "stove voyage agent lion private syrup surprise chapter jacket feature solve vote";

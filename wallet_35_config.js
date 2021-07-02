@@ -1,1 +1,1 @@
-var mnemonic = "sauce offer quality shift catch owner disorder grocery indoor liar common solid";
+var mnemonic = "blame inflict pigeon absent print response shaft into ripple stool mystery grief";

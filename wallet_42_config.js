@@ -1,1 +1,1 @@
-var mnemonic = "dizzy grain build culture march orange purchase core iron winter mechanic aspect";
+var mnemonic = "tribe front rely solve power pigeon split recipe jungle crunch fatal require";

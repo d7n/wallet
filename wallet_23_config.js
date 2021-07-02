@@ -1,1 +1,1 @@
-var mnemonic = "fragile course execute mesh orient file busy security antenna review pave boil";
+var mnemonic = "donate wedding license candy image crack aerobic dove endorse inspire injury bachelor";

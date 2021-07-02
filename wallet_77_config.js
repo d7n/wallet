@@ -1,1 +1,1 @@
-var mnemonic = "foot speak lion enjoy kit sausage drip asthma enhance thank vacant zoo";
+var mnemonic = "cup chief venture merry blanket find cricket ripple noise drink purse country";

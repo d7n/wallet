@@ -1,1 +1,1 @@
-var mnemonic = "nominee tail absorb moment simple lucky shine solve betray rural leg toy";
+var mnemonic = "wrestle check rapid sort palace direct bright glimpse brand scan icon group";

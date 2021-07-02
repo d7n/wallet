@@ -1,1 +1,1 @@
-var mnemonic = "angle gain over alien vocal mention forward exhaust thing science make riot";
+var mnemonic = "hedgehog blouse tooth work caught midnight ridge flavor hope number erosion example";

@@ -1,1 +1,1 @@
-var mnemonic = "double gun meat perfect weekend hood spin arrive dinosaur uncover almost online";
+var mnemonic = "kitchen six width indoor beach play skate fury blush surprise scorpion mechanic";

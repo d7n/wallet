@@ -1,1 +1,1 @@
-var mnemonic = "virus country sorry amount climb solar pupil next kiss acquire napkin dentist";
+var mnemonic = "digital net hire shop dwarf ivory quick pair wood parade home inject";

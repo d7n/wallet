@@ -1,1 +1,1 @@
-var mnemonic = "fame stove mention stool buzz wrong display hire butter talk better film";
+var mnemonic = "mutual champion nasty kid castle misery uncover gravity pole print pudding canoe";

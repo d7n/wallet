@@ -1,1 +1,1 @@
-var mnemonic = "october often remain laptop recipe topple into reopen program zoo pool gap";
+var mnemonic = "power dove candy angle shield unknown pony gaze kingdom creek coil game";

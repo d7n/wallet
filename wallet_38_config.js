@@ -1,1 +1,1 @@
-var mnemonic = "dose old glove glimpse mule outdoor miracle crop derive parent cherry mom";
+var mnemonic = "rigid snap correct throw method list reward famous now palm coach latin";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead nominee clip bounce load fragile hidden apple wave sample blanket jewel";
+var mnemonic = "embody mandate double cluster pride surface view wink trophy income choose bike";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect uncle anger private picture laundry dish middle plastic mention equal usual";
+var mnemonic = "food deny twist upon crunch skill cycle inspire tonight capital bike strong";

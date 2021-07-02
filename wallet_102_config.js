@@ -1,1 +1,1 @@
-var mnemonic = "bacon sentence bridge lizard source pen bachelor fever buyer biology prize fine";
+var mnemonic = "web actress post kid dismiss equal kiwi wall cherry dad giraffe mixture";

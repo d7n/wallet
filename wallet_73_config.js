@@ -1,1 +1,1 @@
-var mnemonic = "junk legal fade siren horn gloom pave truck culture hamster mesh tongue";
+var mnemonic = "pencil adult spring lobster stand speak welcome arena surge west ski stand";

@@ -1,1 +1,1 @@
-var mnemonic = "turn process distance naive spend nephew girl cattle real vocal another fruit";
+var mnemonic = "broccoli cannon urban same state aim lazy soup initial stomach hurdle print";

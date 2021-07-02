@@ -1,1 +1,1 @@
-var mnemonic = "jaguar tell emotion idea fault dynamic custom you nurse spray guard talk";
+var mnemonic = "drama valve fix ankle cram clerk spend dance evolve cry breeze human";

@@ -1,1 +1,1 @@
-var mnemonic = "duty spare enact wolf tube crack upper pelican another extra planet flag";
+var mnemonic = "patch model kid turkey notice fruit profit pattern mom gesture submit subject";

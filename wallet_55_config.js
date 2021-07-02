@@ -1,1 +1,1 @@
-var mnemonic = "swarm magnet chunk total boy endless category room tip suspect field spoil";
+var mnemonic = "chimney spike mesh leisure nominee violin nation afraid quality useful drink find";

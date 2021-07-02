@@ -1,1 +1,1 @@
-var mnemonic = "corn will camera dust maximum solve tissue enable dragon mobile book simple";
+var mnemonic = "protect again giant salon perfect injury awake fluid fruit upper eager right";

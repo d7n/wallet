@@ -1,1 +1,1 @@
-var mnemonic = "lamp media strong impact lounge sweet heart click short shock yellow pupil";
+var mnemonic = "teach link maximum uncle scale disagree toward hole join hawk carbon casino";

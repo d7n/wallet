@@ -1,1 +1,1 @@
-var mnemonic = "admit word random flip hello razor survey end behave dinner decorate frame";
+var mnemonic = "time antenna foster toss educate wage shrimp what bronze upset pond tree";

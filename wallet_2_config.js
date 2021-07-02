@@ -1,1 +1,1 @@
-var mnemonic = "weapon toward gun sense hungry dentist play west bullet arrest monkey power";
+var mnemonic = "guess salute hamster rule wreck distance permit photo people claw alarm cheese";

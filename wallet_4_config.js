@@ -1,1 +1,1 @@
-var mnemonic = "order label vibrant because flat second duty bless curtain poet fantasy peasant";
+var mnemonic = "practice decade shop punch taxi ordinary twelve father fault unveil around orient";

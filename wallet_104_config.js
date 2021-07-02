@@ -1,1 +1,1 @@
-var mnemonic = "trophy two shop pink prefer ancient body this custom gate attract horn";
+var mnemonic = "flip lumber sweet throw silent ankle amazing job become mandate cigar crop";

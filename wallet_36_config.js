@@ -1,1 +1,1 @@
-var mnemonic = "ecology kite swear leave civil fortune guitar awkward basic beyond advice pattern";
+var mnemonic = "harsh blast shield pattern bunker inform leader brick quantum inject art chicken";

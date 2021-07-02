@@ -1,1 +1,1 @@
-var mnemonic = "property elevator fog vicious strong hurry boring hard faculty ostrich gadget trap";
+var mnemonic = "walnut grocery all inject pigeon snap damage intact across negative good near";

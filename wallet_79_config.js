@@ -1,1 +1,1 @@
-var mnemonic = "gloom lucky twist trade save shop off basket wall worry patient else";
+var mnemonic = "hip town theory rural chapter coyote vintage double liberty arrest enrich crime";

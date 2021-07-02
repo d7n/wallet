@@ -1,1 +1,1 @@
-var mnemonic = "calm limb comfort coral receive expect shift wash cheap lyrics skill shoe";
+var mnemonic = "aerobic two crouch sorry fun bulk artefact orchard suggest student resemble treat";

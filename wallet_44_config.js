@@ -1,1 +1,1 @@
-var mnemonic = "acquire marine evoke battle stay toward hand club answer cactus million country";
+var mnemonic = "nurse lunch produce unlock route outside define purity silly boat draw game";

@@ -1,1 +1,1 @@
-var mnemonic = "glory hollow dizzy fiction rebuild eager lady identify print away cash salon";
+var mnemonic = "double flat blast tray resist erase inside proud gravity maximum nation source";

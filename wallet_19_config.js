@@ -1,1 +1,1 @@
-var mnemonic = "area unlock force best multiply script vanish seven baby cake pony deal";
+var mnemonic = "fantasy receive skull sponsor gorilla snack grain orphan wheat cannon soft armor";

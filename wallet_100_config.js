@@ -1,1 +1,1 @@
-var mnemonic = "tonight total heart fee soldier know cup claw manual safe race source";
+var mnemonic = "reason call fortune wild fiction explain basic pole tide myself defense pear";
