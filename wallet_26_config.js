@@ -1,1 +1,1 @@
-var mnemonic = "truth notable valley twist state best pull index about split alcohol joy";
+var mnemonic = "photo answer sting mail remember aisle exist cage cancel shine one kingdom";

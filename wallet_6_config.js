@@ -1,1 +1,1 @@
-var mnemonic = "soft cart episode plunge arctic erode job dilemma potato noble join quit";
+var mnemonic = "slam satoshi air thought joke spike step gold spring glare behind traffic";

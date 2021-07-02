@@ -1,1 +1,1 @@
-var mnemonic = "attend keen minimum system small elephant black asset slide today science jelly";
+var mnemonic = "vehicle route hurt member fork sponsor pole awful cricket nurse ramp artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "parade pigeon output saddle alcohol vapor fan crush manual apple enough truth";
+var mnemonic = "despair quality taxi cruise invite brain misery number okay satoshi supreme globe";

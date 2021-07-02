@@ -1,1 +1,1 @@
-var mnemonic = "popular toy useful utility fruit pattern old net away safe snake accident";
+var mnemonic = "banana menu remember cement struggle month buyer mixture scene daughter burger brisk";

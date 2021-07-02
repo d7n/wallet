@@ -1,1 +1,1 @@
-var mnemonic = "nest wine exhibit distance prison master episode seek oxygen guilt sound wool";
+var mnemonic = "lesson peasant busy grit shadow dance sustain anger tilt mosquito tomato asthma";

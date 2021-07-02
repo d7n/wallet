@@ -1,1 +1,1 @@
-var mnemonic = "turtle ring change share stick possible level ivory tourist cross swamp dance";
+var mnemonic = "approve table hour scrap boss rubber execute trigger forum dish door clock";

@@ -1,1 +1,1 @@
-var mnemonic = "mind return flush spice hurt carpet candy level obey dog shrug town";
+var mnemonic = "describe female group alert way charge year excite filter crop release length";

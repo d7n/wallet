@@ -1,1 +1,1 @@
-var mnemonic = "there loan achieve super ten leaf tide town explain athlete awkward stand";
+var mnemonic = "anchor maid paddle hockey major beach stage arctic remove miracle faculty slim";

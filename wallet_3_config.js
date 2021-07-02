@@ -1,1 +1,1 @@
-var mnemonic = "broccoli entry exact trip cancel token garment merry pole odor much copy";
+var mnemonic = "wealth one denial voice skull true test digital zone error foot style";

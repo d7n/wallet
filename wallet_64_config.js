@@ -1,1 +1,1 @@
-var mnemonic = "caught slush explain disorder quiz staff family same ladder grant fortune camera";
+var mnemonic = "find forum into achieve moral task merry soup bullet sun help powder";

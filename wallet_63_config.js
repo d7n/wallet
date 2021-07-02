@@ -1,1 +1,1 @@
-var mnemonic = "dawn swarm tumble pact slow horror couple creek warrior quarter pilot uncover";
+var mnemonic = "surge decide view task cereal crouch blood eternal knock bracket series liquid";

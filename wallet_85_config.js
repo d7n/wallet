@@ -1,1 +1,1 @@
-var mnemonic = "seat rebuild embody casino paddle chase frame wheat dirt ancient debate kite";
+var mnemonic = "symptom stay alpha source blame sort wife subject mountain prepare wait document";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma cliff fly trial snow paper fringe aerobic wrong moment year hamster";
+var mnemonic = "select antenna leg food arrive agree harvest scorpion pitch amount point attitude";

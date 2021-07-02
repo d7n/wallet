@@ -1,1 +1,1 @@
-var mnemonic = "tunnel slice coyote wine shuffle sorry stamp whale tumble stick attract noble";
+var mnemonic = "display embrace worry salt snow woman okay fall same curious spoon result";

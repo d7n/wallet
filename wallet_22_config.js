@@ -1,1 +1,1 @@
-var mnemonic = "tonight exercise rifle reopen glance catch van occur flame shaft drama equip";
+var mnemonic = "wait job fiscal visual burst ginger opera cave lunch prison cheese situate";

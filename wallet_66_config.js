@@ -1,1 +1,1 @@
-var mnemonic = "skirt space mixture demand web glide turtle insane notable inmate uphold about";
+var mnemonic = "leader minute column recall street forest music actor problem crack summer mass";

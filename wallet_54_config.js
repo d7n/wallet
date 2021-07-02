@@ -1,1 +1,1 @@
-var mnemonic = "mammal crumble jazz long swap eternal bag food display kick crystal exercise";
+var mnemonic = "weather then task library side busy portion butter increase space educate soft";

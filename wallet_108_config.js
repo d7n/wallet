@@ -1,1 +1,1 @@
-var mnemonic = "brush cart city program plunge found pony biology sponsor vintage cube maze";
+var mnemonic = "nerve chef pulp phone sponsor ball delay desk sure buyer girl shell";

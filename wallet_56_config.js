@@ -1,1 +1,1 @@
-var mnemonic = "prosper wife below poem glare present merry manage fog cattle define recipe";
+var mnemonic = "mule air pair purse media glove chronic enact scan domain town buffalo";

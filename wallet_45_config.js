@@ -1,1 +1,1 @@
-var mnemonic = "frame select acid table gasp already margin keep satisfy alarm razor powder";
+var mnemonic = "lift infant hobby fox island sun armor fetch smart gown lava later";

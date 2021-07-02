@@ -1,1 +1,1 @@
-var mnemonic = "orient soon absorb wage ask they fatigue rent provide north lizard curve";
+var mnemonic = "chicken you trash gallery price first tonight shield beyond pioneer pilot rack";

@@ -1,1 +1,1 @@
-var mnemonic = "menu yellow odor sand grunt middle upper bread curious label charge movie";
+var mnemonic = "ginger repeat entry grief jaguar enjoy furnace cinnamon fox horn barely trigger";

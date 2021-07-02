@@ -1,1 +1,1 @@
-var mnemonic = "inform grid beach awkward over cash cabbage evil tip project mail finish";
+var mnemonic = "hazard bleak crew child point grant feed wish nest document crouch emotion";

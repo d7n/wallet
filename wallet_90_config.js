@@ -1,1 +1,1 @@
-var mnemonic = "hollow response tuna reveal topple sock indicate permit frequent north ugly feel";
+var mnemonic = "green festival isolate above wealth gas shield cousin estate inhale seven table";

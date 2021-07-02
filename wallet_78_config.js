@@ -1,1 +1,1 @@
-var mnemonic = "position swear insect example arrive mesh battle addict neglect south rubber female";
+var mnemonic = "rubber summer hour dinner taxi swing cover emerge actress way section measure";

@@ -1,1 +1,1 @@
-var mnemonic = "behind return kitten wish village unveil road duty viable this decorate claim";
+var mnemonic = "body begin popular tuna waste glass crowd large imitate catch decide pistol";

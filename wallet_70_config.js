@@ -1,1 +1,1 @@
-var mnemonic = "squirrel drastic nut power desert hint reunion trigger rifle laptop chuckle point";
+var mnemonic = "charge faint script juice author magic dress total evidence script orbit flight";

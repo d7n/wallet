@@ -1,1 +1,1 @@
-var mnemonic = "congress lake online talk follow flame shift recycle owner doll coin beef";
+var mnemonic = "plastic effort trash off antenna climb keen hero proof when seminar chuckle";

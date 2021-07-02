@@ -1,1 +1,1 @@
-var mnemonic = "rate price cheap general drink patch scene latin runway charge auction cause";
+var mnemonic = "toddler nephew dumb asthma vast fault victory reveal blue album clown one";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt canoe nut opera scene mother palm swear wealth member close post";
+var mnemonic = "fly federal task purpose torch bag talk smooth employ tobacco screen mushroom";

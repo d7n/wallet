@@ -1,1 +1,1 @@
-var mnemonic = "dial rocket giant false vapor census year reason possible hotel weapon saddle";
+var mnemonic = "yellow relief clown junk vanish maid attract zero found horn warm copy";

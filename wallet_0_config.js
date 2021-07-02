@@ -1,1 +1,1 @@
-var mnemonic = "crew obscure elegant silver park nerve vapor glad shed slam vehicle kitchen";
+var mnemonic = "remove noble crime glove chest illness apple bike vacuum eager frost hand";

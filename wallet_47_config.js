@@ -1,1 +1,1 @@
-var mnemonic = "little sauce verify index velvet invest dilemma garbage hamster survey humor ahead";
+var mnemonic = "symptom raw horn library core rain empty increase base soccer tenant ring";

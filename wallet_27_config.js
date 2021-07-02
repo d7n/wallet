@@ -1,1 +1,1 @@
-var mnemonic = "drastic explain pig kiss protect subway garment tag admit piece vendor curious";
+var mnemonic = "echo spice leg truth bread similar suit abandon lobster episode dumb ozone";

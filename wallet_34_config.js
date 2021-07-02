@@ -1,1 +1,1 @@
-var mnemonic = "possible sunset sock media marine economy decade save receive tongue cry decade";
+var mnemonic = "school insane flag scatter decade token book renew spread stove soup mixture";

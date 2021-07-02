@@ -1,1 +1,1 @@
-var mnemonic = "lumber ankle dolphin embrace category like liberty emotion audit salmon horror later";
+var mnemonic = "guilt total arrange pilot wine crater daughter already episode obey erase hollow";

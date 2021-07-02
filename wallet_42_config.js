@@ -1,1 +1,1 @@
-var mnemonic = "obtain fog celery human hub maze net cat liberty forest gown peace";
+var mnemonic = "plug lava leg talk gym goose laptop bird awkward ghost quality voice";

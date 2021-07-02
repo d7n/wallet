@@ -1,1 +1,1 @@
-var mnemonic = "treat sadness expand smile student teach floor flavor insane juice snow music";
+var mnemonic = "avoid cigar silent control permit pull shift emotion pave orchard digital window";

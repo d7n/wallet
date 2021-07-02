@@ -1,1 +1,1 @@
-var mnemonic = "wave viable welcome debate member bar tackle sick present fork strike dignity";
+var mnemonic = "logic entry credit slow virus visual puppy spare dolphin outer gym cruise";

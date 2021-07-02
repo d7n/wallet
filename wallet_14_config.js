@@ -1,1 +1,1 @@
-var mnemonic = "drama bachelor cry remain summer tray pen glimpse author grape about wreck";
+var mnemonic = "trumpet length tape dutch betray stick stage apart story dial hole document";

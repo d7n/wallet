@@ -1,1 +1,1 @@
-var mnemonic = "father celery limb crane replace topple cattle pumpkin acquire pig jump ozone";
+var mnemonic = "miracle gate stumble coach shine trophy taste river input flag alien truck";

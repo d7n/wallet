@@ -1,1 +1,1 @@
-var mnemonic = "address save change tomorrow panic melt pen title squirrel shoe fold quick";
+var mnemonic = "traffic champion laptop tortoise stem throw label consider cancel saddle walnut travel";

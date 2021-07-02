@@ -1,1 +1,1 @@
-var mnemonic = "depth measure miracle cradle thing budget anger aim damage cause leg tag";
+var mnemonic = "digital crew also nose describe carpet will unaware artefact hover jewel dirt";

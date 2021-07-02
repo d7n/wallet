@@ -1,1 +1,1 @@
-var mnemonic = "nurse feature top cry clog away liberty obtain judge chapter confirm amount";
+var mnemonic = "home nose trend valley skin truth like flash talent mobile brother polar";

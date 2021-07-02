@@ -1,1 +1,1 @@
-var mnemonic = "page setup patrol sketch profit agree mail vote mechanic erase hood remain";
+var mnemonic = "between ribbon special sleep certain sport bonus stage fan aisle dice record";

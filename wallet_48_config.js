@@ -1,1 +1,1 @@
-var mnemonic = "any exhaust clutch hood fatal ivory lens crunch glide crawl twin favorite";
+var mnemonic = "fiber gate side drive sample random agent wisdom hunt offer wash lottery";

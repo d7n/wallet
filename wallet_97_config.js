@@ -1,1 +1,1 @@
-var mnemonic = "number demand harvest legal october grape scare surface spin ranch couch daughter";
+var mnemonic = "radar hurt crazy album forward undo wisdom glue bulb quote maid maid";

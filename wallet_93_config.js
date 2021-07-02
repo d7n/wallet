@@ -1,1 +1,1 @@
-var mnemonic = "draft seek dumb frog hidden nephew resist orphan sign month vague engine";
+var mnemonic = "upper faint advance forest busy capable bullet horn color fluid horse goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "use loop trade someone october east valve unhappy unfold theme piece nice";
+var mnemonic = "hour math danger science chalk dignity spawn worry typical lake cat divert";

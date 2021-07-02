@@ -1,1 +1,1 @@
-var mnemonic = "gold banana title want all album hen add tower devote best gold";
+var mnemonic = "match essay mirror casino claw mutual spoon potato make network uniform swallow";

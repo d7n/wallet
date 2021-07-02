@@ -1,1 +1,1 @@
-var mnemonic = "mind disagree acquire art child anchor captain certain hello settle shrug energy";
+var mnemonic = "minor only harvest sign exile digital ill submit tray inhale exact spider";

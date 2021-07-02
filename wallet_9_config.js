@@ -1,1 +1,1 @@
-var mnemonic = "reopen lesson robot powder behave onion casual defy power trade night obscure";
+var mnemonic = "scout box canvas assume find hawk welcome retire wolf army zebra guilt";

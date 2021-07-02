@@ -1,1 +1,1 @@
-var mnemonic = "leave knee note sister run skin hour hip wealth glue seek enable";
+var mnemonic = "weird only fiction alarm ripple test unable upon point rocket rice satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger exact birth soccer snack power gossip lawn charge discover stairs onion";
+var mnemonic = "slogan drill adapt found loan rent stuff attend magic under dish shift";

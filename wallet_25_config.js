@@ -1,1 +1,1 @@
-var mnemonic = "pepper shiver oyster actor famous name sibling paddle rude funny beyond shiver";
+var mnemonic = "loud turtle breeze couple vanish jewel bar square excite arrow breeze genre";

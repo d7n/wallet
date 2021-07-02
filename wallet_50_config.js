@@ -1,1 +1,1 @@
-var mnemonic = "embark slam shy rubber sport club until rocket stone hurdle task firm";
+var mnemonic = "grass velvet elevator mix wheat best sweet expect around arena grocery clinic";

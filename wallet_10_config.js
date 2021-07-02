@@ -1,1 +1,1 @@
-var mnemonic = "woman portion elegant rug panic whip survey alert wink subway negative wall";
+var mnemonic = "veteran loyal skin entry seven thumb spray life noble fossil dove access";

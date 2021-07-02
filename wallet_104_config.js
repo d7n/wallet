@@ -1,1 +1,1 @@
-var mnemonic = "seat away anchor ugly cool abandon advance direct inquiry forest feed caught";
+var mnemonic = "purity nation outer text few library orange cricket jazz soul often like";

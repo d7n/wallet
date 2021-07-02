@@ -1,1 +1,1 @@
-var mnemonic = "naive yellow upon private oblige turkey common ski tone yard image limit";
+var mnemonic = "toss wealth library boil body fantasy brown elegant loan act real material";

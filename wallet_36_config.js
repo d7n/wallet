@@ -1,1 +1,1 @@
-var mnemonic = "tackle renew entire wife caution know sudden that family salon slice point";
+var mnemonic = "tiger few vacant grace forum dial taxi say hat position bone equal";

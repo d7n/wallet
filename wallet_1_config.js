@@ -1,1 +1,1 @@
-var mnemonic = "deliver dignity spatial guard arrange stone enable stereo exact surge pear shuffle";
+var mnemonic = "pig clap manage physical core electric insect offer fat hip review damage";

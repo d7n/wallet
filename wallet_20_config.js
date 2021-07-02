@@ -1,1 +1,1 @@
-var mnemonic = "faculty element junior cargo imitate yellow tank antique grit alter describe popular";
+var mnemonic = "junior network common firm good walk cattle property little enhance pigeon addict";

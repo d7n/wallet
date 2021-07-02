@@ -1,1 +1,1 @@
-var mnemonic = "word project question verb cricket name left chunk exist describe amateur snack";
+var mnemonic = "sentence stove fetch hundred forest october west comic crack digital vague gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous coral whisper rule day task size cement cradle amateur fever scorpion";
+var mnemonic = "patrol before arrive coach crater edit cup scrub toddler cover sad arrive";

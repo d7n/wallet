@@ -1,1 +1,1 @@
-var mnemonic = "cover vanish speed turn bid defense fit spatial city detect distance response";
+var mnemonic = "field little craft tired position plug toy eternal promote woman need reunion";

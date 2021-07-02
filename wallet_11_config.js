@@ -1,1 +1,1 @@
-var mnemonic = "enable balcony near abandon purse custom sign evoke explain dry point laugh";
+var mnemonic = "before execute stamp song amateur enemy unique diesel recycle kitten source junior";

@@ -1,1 +1,1 @@
-var mnemonic = "coral reject core float arrow inspire gospel trial upgrade report family deputy";
+var mnemonic = "hand critic list bonus slush inner nurse swim middle family live push";

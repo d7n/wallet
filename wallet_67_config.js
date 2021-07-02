@@ -1,1 +1,1 @@
-var mnemonic = "chef shuffle funny family tank thought orient toddler clean blur abandon prepare";
+var mnemonic = "person repeat wave volcano orbit deliver royal annual heart settle pulse cluster";

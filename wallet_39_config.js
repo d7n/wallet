@@ -1,1 +1,1 @@
-var mnemonic = "true family wine cradle palace quote confirm search vicious field grid fold";
+var mnemonic = "stable hat culture pilot diamond surface tenant century network slam outside label";

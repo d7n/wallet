@@ -1,1 +1,1 @@
-var mnemonic = "service talk expect impulse reason plate day injury animal around danger often";
+var mnemonic = "convince poet glass ice source chef search dynamic aunt wreck visa invite";

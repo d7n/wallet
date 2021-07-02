@@ -1,1 +1,1 @@
-var mnemonic = "wish guide shallow turtle involve tiny spoon aspect cost purchase tonight welcome";
+var mnemonic = "link morning primary project away digital endorse disorder erode silver cupboard absurd";

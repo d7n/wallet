@@ -1,1 +1,1 @@
-var mnemonic = "bronze mechanic pattern pudding sound spread kick word tube alpha river exist";
+var mnemonic = "vital mouse near allow tiny potato prosper derive detail country day lunch";

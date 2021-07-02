@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin pottery clean chronic increase debris timber unfold strike blood problem later";
+var mnemonic = "fire shy bleak struggle core demand rule motion believe dinner nerve rate";

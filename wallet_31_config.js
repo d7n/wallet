@@ -1,1 +1,1 @@
-var mnemonic = "entry guide wrist jaguar swing layer road fury east cruise renew solid";
+var mnemonic = "quote walk special secret april alter detect item hire change end upgrade";

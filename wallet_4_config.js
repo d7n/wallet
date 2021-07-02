@@ -1,1 +1,1 @@
-var mnemonic = "grief yard bird shed absurd edge school indicate clay cruel trend rubber";
+var mnemonic = "turtle vote earn emerge grape candy hobby pipe pave hurt noble marriage";

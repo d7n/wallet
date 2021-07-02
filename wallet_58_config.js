@@ -1,1 +1,1 @@
-var mnemonic = "inside basket swap step color almost peasant seek travel dune act omit";
+var mnemonic = "lobster advance champion hurry gown labor few quick sniff fog put rebuild";

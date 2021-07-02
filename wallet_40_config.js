@@ -1,1 +1,1 @@
-var mnemonic = "develop actual maximum oven video member mule market section under neglect flame";
+var mnemonic = "often urge city you earth inquiry wool devote shoulder job glass liquid";

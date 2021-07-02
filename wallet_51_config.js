@@ -1,1 +1,1 @@
-var mnemonic = "then fresh faith adult since olive increase flame emotion oil bleak custom";
+var mnemonic = "desert must unfold oppose chef walk gym enact pudding lab leader father";

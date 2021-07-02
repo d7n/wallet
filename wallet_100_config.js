@@ -1,1 +1,1 @@
-var mnemonic = "spoon loop museum noise way save release consider jewel chalk swarm tiny";
+var mnemonic = "glove want wreck sand direct excuse skirt skate judge nest limit twenty";

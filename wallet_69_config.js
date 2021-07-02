@@ -1,1 +1,1 @@
-var mnemonic = "lyrics faculty find future just crash disorder one raise angle bring remember";
+var mnemonic = "pulp vast torch provide nuclear certain remind check kiwi hedgehog response bicycle";

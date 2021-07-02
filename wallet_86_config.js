@@ -1,1 +1,1 @@
-var mnemonic = "seek arrive night mobile palace company clap clerk render reward balcony suspect";
+var mnemonic = "credit fit delay wheel pause evoke west kitchen genius token valve cup";

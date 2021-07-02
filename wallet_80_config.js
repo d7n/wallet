@@ -1,1 +1,1 @@
-var mnemonic = "face nominee core involve maximum abuse friend horse noble taxi motor profit";
+var mnemonic = "gasp alien ritual hill curtain flush inspire hotel scheme wing sample unaware";
