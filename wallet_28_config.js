@@ -1,1 +1,1 @@
-var mnemonic = "peasant require snow melt turn dog thumb split ordinary guard acid stable";
+var mnemonic = "scare asthma fancy film tent knee potato gentle you swap secret bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "climb hurdle fluid worry gesture pioneer goddess rude jelly mistake apple raise";
+var mnemonic = "cheese spare leopard glue ripple anchor security crack gas heavy fatal need";

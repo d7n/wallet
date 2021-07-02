@@ -1,1 +1,1 @@
-var mnemonic = "duty stay inherit stage coyote fruit innocent bring deposit skate legal choice";
+var mnemonic = "utility defy often crash such brand few earn funny twice west pact";

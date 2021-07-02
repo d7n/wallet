@@ -1,1 +1,1 @@
-var mnemonic = "unique team ill twenty where annual normal motor clog share fence delay";
+var mnemonic = "news random achieve legal search vast below deliver engine slim path alarm";

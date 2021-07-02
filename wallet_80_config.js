@@ -1,1 +1,1 @@
-var mnemonic = "hundred never winner peanut monkey confirm guitar ring another mansion rookie huge";
+var mnemonic = "figure van practice provide ice elegant below grab hat debris pitch sight";

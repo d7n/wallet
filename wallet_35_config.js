@@ -1,1 +1,1 @@
-var mnemonic = "mango truck essence quiz stadium risk title nice brisk country hurry profit";
+var mnemonic = "afford occur category bind easily usage absorb pair amount usual punch also";

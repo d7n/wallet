@@ -1,1 +1,1 @@
-var mnemonic = "huge case detail rival oak crunch random deal satoshi island dry detect";
+var mnemonic = "lava gospel narrow help arrive pen soul delay cousin net network jungle";

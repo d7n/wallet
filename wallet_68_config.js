@@ -1,1 +1,1 @@
-var mnemonic = "finish together wide move mushroom grocery cram pulse trip farm comic reflect";
+var mnemonic = "hint husband lonely memory replace nose globe typical airport gift east become";

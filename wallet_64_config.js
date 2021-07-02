@@ -1,1 +1,1 @@
-var mnemonic = "hurdle twice reject meadow gauge ship laundry transfer lizard element trumpet market";
+var mnemonic = "hockey three frog horse usage magnet bridge top scatter scout trigger tennis";

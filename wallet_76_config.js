@@ -1,1 +1,1 @@
-var mnemonic = "sketch amused next dish raw plug salmon early bone solar trash crouch";
+var mnemonic = "clump affair october mechanic valve add turkey roof ill flush fossil unfold";

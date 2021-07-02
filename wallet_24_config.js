@@ -1,1 +1,1 @@
-var mnemonic = "indoor rug merge health jelly sick alpha flavor giggle cruise slide suggest";
+var mnemonic = "garlic crime express neither brick cool hello mango modify twenty spike music";

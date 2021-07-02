@@ -1,1 +1,1 @@
-var mnemonic = "web certain candy concert sister rocket scale exotic fence law slam magnet";
+var mnemonic = "fabric action video miss invest occur race rabbit sleep wasp food couple";

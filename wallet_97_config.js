@@ -1,1 +1,1 @@
-var mnemonic = "since flag miss fruit sick easily organ logic salute donkey capable recycle";
+var mnemonic = "inner river memory climb toddler alien shell chest board sketch beauty toilet";

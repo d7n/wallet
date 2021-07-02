@@ -1,1 +1,1 @@
-var mnemonic = "peanut indicate melody coach endless world promote friend curious arrest tattoo rude";
+var mnemonic = "ship thunder slender eager carpet juice useless tumble off gravity section eye";

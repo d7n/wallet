@@ -1,1 +1,1 @@
-var mnemonic = "wool print replace always pact absorb carbon must menu balance permit warfare";
+var mnemonic = "option loop express labor ivory sauce upgrade course around acquire light immune";

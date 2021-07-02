@@ -1,1 +1,1 @@
-var mnemonic = "cause start beach silent seat tornado hamster choose circle front vanish humor";
+var mnemonic = "broken obvious pause local one service castle stock helmet danger penalty circle";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover razor during find sand away hip visa hill street broken agree";
+var mnemonic = "canyon tilt scrap deal scatter share stomach basket poet display wasp priority";

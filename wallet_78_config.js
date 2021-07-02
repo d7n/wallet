@@ -1,1 +1,1 @@
-var mnemonic = "injury welcome swim expand rail final unique ostrich list deny diamond license";
+var mnemonic = "accuse wagon decline paper believe alter elbow swing tray hundred vague online";

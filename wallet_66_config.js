@@ -1,1 +1,1 @@
-var mnemonic = "display quit point result various glove museum broken trust such soldier invite";
+var mnemonic = "then narrow arrow main april kitten vague join name pear float feature";

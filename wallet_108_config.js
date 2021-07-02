@@ -1,1 +1,1 @@
-var mnemonic = "three wine clip slim palm vital later parrot waste enhance tiger hurry";
+var mnemonic = "wall rice prize large agree forum problem confirm vague shop pull govern";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke neck much armed casual next describe frequent will quick wise spare";
+var mnemonic = "ozone purse inform melt fringe rent wheat today trend more cousin sniff";

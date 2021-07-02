@@ -1,1 +1,1 @@
-var mnemonic = "bench snow shove pupil license theme smile snack column season evidence present";
+var mnemonic = "exhibit illness harsh crew story liar distance veteran update dismiss double anxiety";

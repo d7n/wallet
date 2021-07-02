@@ -1,1 +1,1 @@
-var mnemonic = "chair bean minimum open old humor pilot describe runway top hungry economy";
+var mnemonic = "club drama lizard escape prison pink law royal fabric beyond bubble rare";

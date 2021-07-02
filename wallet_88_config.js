@@ -1,1 +1,1 @@
-var mnemonic = "rate domain earth goat absurd cereal neutral tackle strong melody bunker cable";
+var mnemonic = "thought short leave behave random educate detail nerve almost speed caught movie";

@@ -1,1 +1,1 @@
-var mnemonic = "art number scissors circle conduct cradle strategy tip galaxy sample barrel patrol";
+var mnemonic = "alert biology lift domain embrace credit hamster nation people hire notable rocket";

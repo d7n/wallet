@@ -1,1 +1,1 @@
-var mnemonic = "affair brief nut puppy charge weather journey surface dawn way copy blanket";
+var mnemonic = "sell return utility blur bronze sun matrix absent rib bright volcano okay";

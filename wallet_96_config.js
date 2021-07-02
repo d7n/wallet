@@ -1,1 +1,1 @@
-var mnemonic = "letter guide patient keen animal problem acoustic labor chronic talk buzz road";
+var mnemonic = "post tomato ripple merry afford upper observe exile company practice dwarf reveal";

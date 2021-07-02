@@ -1,1 +1,1 @@
-var mnemonic = "torch thunder cry advice stumble diamond oblige birth daring pulse pigeon faculty";
+var mnemonic = "eager winter question scorpion advance post assault small cause collect topic orphan";

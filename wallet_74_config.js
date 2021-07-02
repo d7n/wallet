@@ -1,1 +1,1 @@
-var mnemonic = "asset recall proud buddy mean sing ginger code color trophy visa curve";
+var mnemonic = "keen faint net kid razor demand announce civil trip clock accuse blur";

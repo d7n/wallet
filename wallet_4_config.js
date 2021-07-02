@@ -1,1 +1,1 @@
-var mnemonic = "oyster dinosaur square add thunder atom narrow afford powder net lift hazard";
+var mnemonic = "mix rebel repair powder traffic wire quote believe nephew drip forget turn";

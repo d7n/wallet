@@ -1,1 +1,1 @@
-var mnemonic = "bachelor milk mind order volcano lizard pioneer safe vicious brain fit rebel";
+var mnemonic = "wild cabin result fan annual tired journey season spend love this puzzle";

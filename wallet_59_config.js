@@ -1,1 +1,1 @@
-var mnemonic = "immune robot analyst spawn whisper know obvious indoor simple beyond plunge stairs";
+var mnemonic = "pudding discover pair strong that mixed spoil invest because timber liquid foster";

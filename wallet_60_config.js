@@ -1,1 +1,1 @@
-var mnemonic = "spare model library struggle host pizza rack project ancient betray fade aerobic";
+var mnemonic = "home fury mandate dismiss bacon iron waste inner rigid hold position warfare";

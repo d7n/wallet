@@ -1,1 +1,1 @@
-var mnemonic = "liberty ship cotton clinic cycle border pretty kid donor melody wife violin";
+var mnemonic = "flag market degree maple gesture lazy dash select matrix choose special cargo";

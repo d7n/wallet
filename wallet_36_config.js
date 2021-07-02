@@ -1,1 +1,1 @@
-var mnemonic = "vibrant forget steak benefit wild wait quiz cute excess pledge devote music";
+var mnemonic = "crazy stand badge trade orange casino island order noodle solar lumber wheat";

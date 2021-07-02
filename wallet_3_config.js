@@ -1,1 +1,1 @@
-var mnemonic = "monitor during brother sniff card luggage nut fossil trap feel outdoor pig";
+var mnemonic = "liquid misery fence raccoon disorder reduce close you test victory since kit";

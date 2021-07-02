@@ -1,1 +1,1 @@
-var mnemonic = "power tube traffic crane dust enough tunnel blue beyond isolate hurry gaze";
+var mnemonic = "game layer buffalo record people judge spice before illness old icon chicken";

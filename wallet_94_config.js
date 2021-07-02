@@ -1,1 +1,1 @@
-var mnemonic = "rebuild cabbage predict violin index unveil phrase loud ice apology leader until";
+var mnemonic = "palm forget artist raccoon liar winter drama chapter obscure child first any";

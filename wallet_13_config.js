@@ -1,1 +1,1 @@
-var mnemonic = "great distance quiz own then assault bread riot phrase brave drum behind";
+var mnemonic = "six bargain develop velvet pretty video foil tobacco control execute lecture travel";

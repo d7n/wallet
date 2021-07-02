@@ -1,1 +1,1 @@
-var mnemonic = "hire hour cruise inflict fiscal mutual student scout art various about rack";
+var mnemonic = "radar second relax curtain album hockey amount top move live attend fade";

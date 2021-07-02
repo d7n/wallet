@@ -1,1 +1,1 @@
-var mnemonic = "antique truck mule tenant kiss one enough craft clutch unique medal swarm";
+var mnemonic = "own shock beyond pistol post parade element popular square also tattoo market";

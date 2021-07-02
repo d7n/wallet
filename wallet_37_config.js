@@ -1,1 +1,1 @@
-var mnemonic = "aisle atom rubber question raise young erosion garment spend have magic key";
+var mnemonic = "deputy length shock casual trade patient buyer accident tell mammal fit resist";

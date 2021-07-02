@@ -1,1 +1,1 @@
-var mnemonic = "gravity tuna topic company spring umbrella angry earth program ocean goat timber";
+var mnemonic = "pistol practice box ship update fiction clever sugar extra fatal jelly margin";

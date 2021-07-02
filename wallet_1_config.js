@@ -1,1 +1,1 @@
-var mnemonic = "cigar coral milk result mass connect burst tortoise field tennis elite border";
+var mnemonic = "reward enable wife argue fossil motion maid appear injury this scale problem";

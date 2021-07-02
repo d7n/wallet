@@ -1,1 +1,1 @@
-var mnemonic = "envelope sadness forget demand guard leader multiply bottom drum hip runway market";
+var mnemonic = "cave trap glory actor breeze bachelor sorry blur employ warm pupil movie";

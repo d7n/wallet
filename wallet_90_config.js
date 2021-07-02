@@ -1,1 +1,1 @@
-var mnemonic = "erupt curve captain double involve whisper squirrel culture enlist invite fatigue stereo";
+var mnemonic = "camera sound choice acquire bitter cheap sugar pen unusual neutral candy sound";

@@ -1,1 +1,1 @@
-var mnemonic = "sea order fee sense total unfair skin truly sock poet collect target";
+var mnemonic = "field select saddle grape coil census friend riot wasp bacon brief snack";

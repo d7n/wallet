@@ -1,1 +1,1 @@
-var mnemonic = "cable news oblige opinion girl decrease original hope noodle minor term logic";
+var mnemonic = "inform palm domain long album credit spirit treat skin lend wolf wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "power sail inherit brother join rifle grass body fruit museum pledge bronze";
+var mnemonic = "prize candy auto tackle focus people frozen nest clock seed favorite bottom";

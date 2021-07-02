@@ -1,1 +1,1 @@
-var mnemonic = "dentist category merit cluster riot hammer rule reason hybrid lion question ancient";
+var mnemonic = "marine toss buffalo kitchen ripple happy cricket cream injury burger coyote among";

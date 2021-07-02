@@ -1,1 +1,1 @@
-var mnemonic = "distance payment next six female employ treat ski oppose route damp oval";
+var mnemonic = "depth soccer throw prosper easy song execute shell filter exotic response slice";

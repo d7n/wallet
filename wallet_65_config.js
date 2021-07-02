@@ -1,1 +1,1 @@
-var mnemonic = "open all faculty faint negative noise priority win rifle drill charge screen";
+var mnemonic = "broom verb easy novel unaware hard seven total identify lion couch spare";

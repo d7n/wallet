@@ -1,1 +1,1 @@
-var mnemonic = "hill vanish provide salute describe film hotel current jacket thought response sock";
+var mnemonic = "nut odor omit recycle squirrel fresh sure attitude over skate bird stadium";

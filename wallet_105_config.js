@@ -1,1 +1,1 @@
-var mnemonic = "stereo hawk will label point quick predict video various pen sleep twist";
+var mnemonic = "erase giggle knock sugar coast fatal matrix blind awkward edge island joy";

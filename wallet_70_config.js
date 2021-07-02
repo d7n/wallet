@@ -1,1 +1,1 @@
-var mnemonic = "trigger monster sword observe liquid market faith guess volume path float narrow";
+var mnemonic = "toddler list shrug traffic amazing strike only ketchup build bid seminar group";

@@ -1,1 +1,1 @@
-var mnemonic = "choice muffin relax demand simple become seminar tool tide hood six cement";
+var mnemonic = "opera surge property minor deny misery ship stand industry daughter ginger easily";

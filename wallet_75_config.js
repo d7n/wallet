@@ -1,1 +1,1 @@
-var mnemonic = "expose man motor skill sword speak sock cactus injury mother lift bulb";
+var mnemonic = "section vehicle donor fault soon guitar movie cupboard foot effort gossip stuff";

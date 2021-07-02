@@ -1,1 +1,1 @@
-var mnemonic = "step spread good seek roof session table noise dismiss case concert inflict";
+var mnemonic = "swallow anchor critic dish interest gap assault visit awesome ocean define punch";

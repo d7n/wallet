@@ -1,1 +1,1 @@
-var mnemonic = "floor industry grab sport wrestle hat valid update bring guide ride fee";
+var mnemonic = "scare dignity emerge hazard crowd bind river awful victory tornado soon quality";

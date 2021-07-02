@@ -1,1 +1,1 @@
-var mnemonic = "child again energy food use road blush journey polar notable acquire humor";
+var mnemonic = "erode essence awful volume plug wagon spawn meat brush curtain day cushion";

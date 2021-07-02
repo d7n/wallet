@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog bicycle section salt tuna nose verb cereal proud scrub leg struggle";
+var mnemonic = "hour derive claw word weird that slide coffee armor success trouble finish";

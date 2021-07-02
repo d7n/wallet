@@ -1,1 +1,1 @@
-var mnemonic = "drip fun pattern outdoor recycle picture brown guard clump hidden myself priority";
+var mnemonic = "height analyst face oven profit salon chase aunt consider combine wish dad";

@@ -1,1 +1,1 @@
-var mnemonic = "column planet silver turn behave garden unhappy convince recipe permit benefit shy";
+var mnemonic = "spider deny meadow hidden wheel motor south solve pool permit gauge attract";

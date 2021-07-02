@@ -1,1 +1,1 @@
-var mnemonic = "brother assist kiss urge wrist daughter bounce farm series mass early cycle";
+var mnemonic = "panel ensure scene civil must ozone foster apart wish inquiry gaze behave";

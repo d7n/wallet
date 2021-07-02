@@ -1,1 +1,1 @@
-var mnemonic = "deny scrap mass orphan super piece old one gaze immune garlic ocean";
+var mnemonic = "lottery cabin lunar treat merit labor endless winter faint clip heavy tower";

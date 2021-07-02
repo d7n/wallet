@@ -1,1 +1,1 @@
-var mnemonic = "since marriage awful roof eager warrior emotion match arrest model fan blush";
+var mnemonic = "high pattern segment weekend when bleak reform mosquito hire tunnel jump game";

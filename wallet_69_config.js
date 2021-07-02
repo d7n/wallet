@@ -1,1 +1,1 @@
-var mnemonic = "collect term public that will release magic fine project float forest kite";
+var mnemonic = "traffic kiwi tortoise unaware robot member uphold half among embark forum caught";

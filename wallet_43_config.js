@@ -1,1 +1,1 @@
-var mnemonic = "pull tennis roast gesture treat dolphin polar few employ diagram just online";
+var mnemonic = "corn trash violin fiction number lunch situate maximum car yard put bring";

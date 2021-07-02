@@ -1,1 +1,1 @@
-var mnemonic = "ladder opinion hint visa embody venue arrow once priority hamster couple syrup";
+var mnemonic = "thank confirm iron voyage debate chest milk river lab wing regret session";

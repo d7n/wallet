@@ -1,1 +1,1 @@
-var mnemonic = "gold carpet shrimp goat pen exile spray place sketch buddy rebel gallery";
+var mnemonic = "hint build arrange three expose toilet shed test very cinnamon scale green";

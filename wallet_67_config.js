@@ -1,1 +1,1 @@
-var mnemonic = "asset when foam amount second venture pet program pepper lock deliver radar";
+var mnemonic = "diamond idle tired say dinosaur subject announce spy wrong any change unusual";

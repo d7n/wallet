@@ -1,1 +1,1 @@
-var mnemonic = "ugly modify another fetch trigger simple model math chicken become dish fatigue";
+var mnemonic = "swallow crater service glimpse art enforce chronic isolate option learn organ urban";

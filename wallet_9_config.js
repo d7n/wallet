@@ -1,1 +1,1 @@
-var mnemonic = "toward ship case fit spider chunk arrive addict gun wave stem worry";
+var mnemonic = "mention glide decade pass next rookie budget avoid bitter amazing math reopen";

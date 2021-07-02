@@ -1,1 +1,1 @@
-var mnemonic = "modify sunset label rug wrong fuel sentence hat reopen cliff violin ask";
+var mnemonic = "hard safe cattle peace urban bridge fox decade soul switch wealth collect";

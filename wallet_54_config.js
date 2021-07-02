@@ -1,1 +1,1 @@
-var mnemonic = "sound cloud tennis basket artefact renew roof decide scout unveil fall action";
+var mnemonic = "electric measure among awake decorate spirit patch catch humor angle bomb expect";

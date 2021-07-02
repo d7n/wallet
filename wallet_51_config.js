@@ -1,1 +1,1 @@
-var mnemonic = "cross payment smoke civil august when flash foil coin interest burden awful";
+var mnemonic = "stamp wheel crash ecology cry expose key laugh envelope glove swallow decline";

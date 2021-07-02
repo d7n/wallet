@@ -1,1 +1,1 @@
-var mnemonic = "tomato bamboo brother foil wire breeze aisle trick job intact output journey";
+var mnemonic = "oven strong spare crater wink engine goose spell palm erupt planet bomb";

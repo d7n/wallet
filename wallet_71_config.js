@@ -1,1 +1,1 @@
-var mnemonic = "stand unhappy moon draw quiz juice mail elegant hope clay busy soldier";
+var mnemonic = "cruel bubble analyst torch lens pudding marriage junk notable pencil trade advice";

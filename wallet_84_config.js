@@ -1,1 +1,1 @@
-var mnemonic = "fantasy april burger mutual news mean farm resource reform smart chef bacon";
+var mnemonic = "manual trip fame pulp chalk camp confirm impulse degree evoke round slight";

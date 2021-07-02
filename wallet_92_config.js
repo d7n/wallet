@@ -1,1 +1,1 @@
-var mnemonic = "adapt double tag dizzy direct ripple slim repair helmet guide strong solar";
+var mnemonic = "canal subway power town same outdoor unique broom leisure wear output lava";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran save chat thumb cloud air balance swallow situate fade copy tree";
+var mnemonic = "wagon hair disagree round tired harsh brother melody gentle pig uphold song";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror claw rich program scale siren bonus derive narrow toilet warrior coyote";
+var mnemonic = "primary candy client mosquito eagle success witness basic process draft echo board";

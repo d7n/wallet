@@ -1,1 +1,1 @@
-var mnemonic = "twin close fat boost evidence focus shed embrace false acoustic series ivory";
+var mnemonic = "rib desk degree path drastic syrup soft record again movie dove sorry";

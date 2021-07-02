@@ -1,1 +1,1 @@
-var mnemonic = "bonus raccoon box gap erode ticket shaft logic brave path fetch reflect";
+var mnemonic = "bird deposit virus pudding two garden april diamond light exhibit eagle strike";

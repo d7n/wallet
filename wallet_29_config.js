@@ -1,1 +1,1 @@
-var mnemonic = "divert crack sweet jungle hope lucky kit office chapter approve certain alert";
+var mnemonic = "sentence ladder quick flavor rug alley saddle antenna interest rural razor play";

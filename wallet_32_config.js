@@ -1,1 +1,1 @@
-var mnemonic = "source liberty history busy meadow buffalo float into recall obey fame front";
+var mnemonic = "speed know door violin limb stem away book reform ginger stove sugar";

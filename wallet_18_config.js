@@ -1,1 +1,1 @@
-var mnemonic = "expose basic present person end need lunch program cry broom rural apple";
+var mnemonic = "organ invest vibrant stick oil salt tomorrow planet raise soul saddle cargo";
