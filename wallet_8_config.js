@@ -1,1 +1,1 @@
-var mnemonic = "ship chest wing bag armed talent episode skull among fly tunnel snack";
+var mnemonic = "usage blush noodle cushion figure axis search puzzle priority bronze humor brand";

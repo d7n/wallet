@@ -1,1 +1,1 @@
-var mnemonic = "category deny improve repeat match method apology merit output garlic bundle domain";
+var mnemonic = "buddy option better weird world race sauce near power half copper decrease";

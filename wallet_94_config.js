@@ -1,1 +1,1 @@
-var mnemonic = "sword sting survey issue volume correct dog install section favorite there allow";
+var mnemonic = "curtain favorite rabbit ahead rain celery anger nuclear include stable fashion metal";

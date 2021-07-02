@@ -1,1 +1,1 @@
-var mnemonic = "tennis clarify embrace list spread auto furnace plug push exit dish pride";
+var mnemonic = "unveil hollow move trouble trial mix coral goose fluid road dune there";

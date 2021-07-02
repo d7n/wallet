@@ -1,1 +1,1 @@
-var mnemonic = "deer fold focus sand owner almost favorite target assist sniff audit hen";
+var mnemonic = "fit street proof market arrow hint royal wreck tower swamp dance hunt";

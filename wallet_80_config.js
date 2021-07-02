@@ -1,1 +1,1 @@
-var mnemonic = "tenant security feed spring wasp snake trial help athlete bike clog gravity";
+var mnemonic = "session federal million syrup right theme lady sketch floor earth afraid coral";

@@ -1,1 +1,1 @@
-var mnemonic = "steel wheel forget horse joke story round prosper tape voice recycle tunnel";
+var mnemonic = "ivory pioneer wrap spin stereo cost fix dad ostrich wheel exercise vacant";

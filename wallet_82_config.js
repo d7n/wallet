@@ -1,1 +1,1 @@
-var mnemonic = "exhaust situate oyster indicate doctor avoid grunt clay mention blanket client shock";
+var mnemonic = "script hamster across motion cheap vacant voyage danger jealous image dune enjoy";

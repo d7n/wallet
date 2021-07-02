@@ -1,1 +1,1 @@
-var mnemonic = "foot phrase silver hawk item wool cart endorse stomach volcano dawn daughter";
+var mnemonic = "identify abstract palace earth drama penalty opera remember mind tell music flavor";

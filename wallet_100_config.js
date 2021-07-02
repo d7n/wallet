@@ -1,1 +1,1 @@
-var mnemonic = "ship young market giraffe uncover space earth nurse welcome input tower foot";
+var mnemonic = "response egg calm gun hamster voyage craft meadow fox stick mass shaft";

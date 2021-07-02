@@ -1,1 +1,1 @@
-var mnemonic = "identify maximum icon sun victory cave wrist buzz noise fabric diesel hint";
+var mnemonic = "piece final truth artwork transfer bounce left resource acquire motion heart wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "believe pen jar curtain option chat hedgehog forum finger pottery device slender";
+var mnemonic = "man distance across cube tray know grant mosquito junior cheese friend shift";

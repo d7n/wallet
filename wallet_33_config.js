@@ -1,1 +1,1 @@
-var mnemonic = "length thrive project student stock tilt inflict buddy upset rocket lumber humble";
+var mnemonic = "attract force when pulse spike vendor gift artist lottery woman behave issue";

@@ -1,1 +1,1 @@
-var mnemonic = "odor hollow save tunnel minute text myself cart sugar join rescue inhale";
+var mnemonic = "insane grace undo obey firm chat birth scene achieve gown conduct month";

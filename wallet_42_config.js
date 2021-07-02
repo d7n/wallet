@@ -1,1 +1,1 @@
-var mnemonic = "inmate discover arena bunker ozone satisfy yellow loan huge survey afford become";
+var mnemonic = "hotel produce sea hamster zoo income resource cute horn expect enter focus";

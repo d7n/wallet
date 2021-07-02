@@ -1,1 +1,1 @@
-var mnemonic = "drum live fly clarify perfect prize census monster code aerobic dumb defy";
+var mnemonic = "entry engine visa banner ozone horse hub infant exclude capable start same";

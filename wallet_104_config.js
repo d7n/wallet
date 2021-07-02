@@ -1,1 +1,1 @@
-var mnemonic = "matrix wild okay biology empower humble arctic oval clog boss knife arctic";
+var mnemonic = "matter opinion possible gentle off match ugly erosion dynamic milk sick bright";

@@ -1,1 +1,1 @@
-var mnemonic = "review caution manual annual dice mean good gossip maple diamond cattle monkey";
+var mnemonic = "guess frown field amount card spike wet vicious effort city angry lumber";

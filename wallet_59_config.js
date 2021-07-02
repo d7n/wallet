@@ -1,1 +1,1 @@
-var mnemonic = "matrix present electric sign security embark find refuse only cute toss average";
+var mnemonic = "story peasant draft arrest casino end thing file couch kidney mosquito soft";

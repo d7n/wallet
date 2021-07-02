@@ -1,1 +1,1 @@
-var mnemonic = "axis similar skirt fuel fossil west ten certain sure jaguar average carry";
+var mnemonic = "next silk bind sort argue pyramid upset organ boat advance frog keep";

@@ -1,1 +1,1 @@
-var mnemonic = "armed chaos omit then sniff animal tell shell empty edit setup gown";
+var mnemonic = "elbow cement topple van bamboo tennis indoor luggage journey act tray fiction";

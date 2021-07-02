@@ -1,1 +1,1 @@
-var mnemonic = "more orient favorite daughter twin leopard sad erosion artwork run profit live";
+var mnemonic = "venue ankle gorilla banana fatigue radar vintage replace flush ribbon novel angle";

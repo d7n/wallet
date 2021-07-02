@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin fee pitch judge clown fuel suspect fee release pigeon desk good";
+var mnemonic = "mesh turtle winner stereo drop tumble saddle edit stone trade welcome grass";

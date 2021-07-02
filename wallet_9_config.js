@@ -1,1 +1,1 @@
-var mnemonic = "spin help recipe impulse tray stand duty detail mesh frost mutual wage";
+var mnemonic = "rent pupil permit define avocado enjoy master try garlic hollow lemon wedding";

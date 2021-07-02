@@ -1,1 +1,1 @@
-var mnemonic = "jungle goddess increase visual discover immense will thought yellow wall trim addict";
+var mnemonic = "primary arrest drift regret someone aerobic dog match shoulder combine tiny nasty";

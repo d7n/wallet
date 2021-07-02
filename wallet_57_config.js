@@ -1,1 +1,1 @@
-var mnemonic = "program leisure sample crane matter orange end sunny scout draft bless walnut";
+var mnemonic = "spirit trap alone anchor gaze exile alarm luggage mammal entire jacket float";

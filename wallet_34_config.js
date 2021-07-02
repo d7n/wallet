@@ -1,1 +1,1 @@
-var mnemonic = "kind present pave museum pink crunch pole donkey very tissue excite fade";
+var mnemonic = "welcome clutch steak dismiss canoe neutral puzzle approve master ribbon hunt gun";

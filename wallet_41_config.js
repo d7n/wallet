@@ -1,1 +1,1 @@
-var mnemonic = "knee cactus end diesel can property shuffle charge come rifle divorce coral";
+var mnemonic = "record ugly call obtain during idle ride aspect seed topic caught hair";

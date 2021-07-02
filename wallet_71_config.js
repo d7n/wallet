@@ -1,1 +1,1 @@
-var mnemonic = "violin census kangaroo obtain aspect turn spot atom fault hurt hub update";
+var mnemonic = "fever cousin pig angle fix myself still verb exotic fly balcony danger";

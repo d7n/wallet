@@ -1,1 +1,1 @@
-var mnemonic = "just illness mystery tiger net cave pupil couch riot term medal solution";
+var mnemonic = "famous measure leader glory chapter fantasy amused proof gold swear stomach spirit";

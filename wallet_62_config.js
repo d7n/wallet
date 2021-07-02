@@ -1,1 +1,1 @@
-var mnemonic = "female anchor sunset current cargo burger reward will age build world sad";
+var mnemonic = "open announce earth cry sausage vast force anger nuclear hundred taste vague";

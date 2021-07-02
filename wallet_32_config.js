@@ -1,1 +1,1 @@
-var mnemonic = "train major energy poverty lobster salmon large immense toast demise lemon color";
+var mnemonic = "another duck dynamic donkey collect cabin border cool comic fire coconut carpet";

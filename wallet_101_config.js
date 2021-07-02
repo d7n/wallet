@@ -1,1 +1,1 @@
-var mnemonic = "photo potato solve royal shell upper pioneer crumble ticket exact first sauce";
+var mnemonic = "light dash tragic voice chest mad acquire retreat bottom crumble occur path";

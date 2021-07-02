@@ -1,1 +1,1 @@
-var mnemonic = "hour game crowd visual laptop powder vicious puzzle version hire ghost antique";
+var mnemonic = "dust erode eyebrow armor caught siren train subject include rather deal hospital";

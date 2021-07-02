@@ -1,1 +1,1 @@
-var mnemonic = "soccer celery crazy bulb script roof wheel hidden parade glide swamp caution";
+var mnemonic = "struggle rather quote flock machine hood harsh globe device sudden toddler machine";

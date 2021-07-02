@@ -1,1 +1,1 @@
-var mnemonic = "street task clock river town bridge chicken typical jungle put aerobic amused";
+var mnemonic = "shuffle ocean coil immense equip liar hobby nominee fat daughter exist height";

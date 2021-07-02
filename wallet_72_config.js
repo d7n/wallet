@@ -1,1 +1,1 @@
-var mnemonic = "cancel stuff car divert find decrease popular cream uncover market kitchen pigeon";
+var mnemonic = "bird urban river pledge horn also smile sister acquire obscure suffer eyebrow";

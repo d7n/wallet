@@ -1,1 +1,1 @@
-var mnemonic = "screen soul loyal march minimum entry salon lazy basket ostrich correct way";
+var mnemonic = "purchase depart grab extend bone caution list want cloud hurt wait total";

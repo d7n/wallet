@@ -1,1 +1,1 @@
-var mnemonic = "fun phrase crisp tiny vintage peanut waste scale kiss excess job example";
+var mnemonic = "blue swap upgrade ability adjust raccoon reveal plate refuse cactus blind random";

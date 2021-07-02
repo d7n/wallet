@@ -1,1 +1,1 @@
-var mnemonic = "spider buffalo cat warm warm panic earth safe clutch stand green tortoise";
+var mnemonic = "erosion retreat seven differ fall unit brain win robot summer auction clump";

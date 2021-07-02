@@ -1,1 +1,1 @@
-var mnemonic = "dilemma element neck taxi trophy tree dog uniform trick bless chronic change";
+var mnemonic = "danger bulk width aunt version rather subway endless carbon fish movie rare";

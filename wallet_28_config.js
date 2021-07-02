@@ -1,1 +1,1 @@
-var mnemonic = "surge expose cannon swear model surface plug cram voice outside tag enough";
+var mnemonic = "mystery tank mansion gallery easily garlic right weird luxury laugh piano have";

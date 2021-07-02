@@ -1,1 +1,1 @@
-var mnemonic = "dance van lawn old spread spatial chapter property nasty dish rice cement";
+var mnemonic = "penalty transfer armed easily can moment exclude air save current medal release";

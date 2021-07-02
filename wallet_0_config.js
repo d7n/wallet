@@ -1,1 +1,1 @@
-var mnemonic = "twelve bottom club child lizard across moment design fan van ladder lonely";
+var mnemonic = "grace illness avoid maze monitor powder vehicle trim peasant lyrics client giant";

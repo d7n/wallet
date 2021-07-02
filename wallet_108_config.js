@@ -1,1 +1,1 @@
-var mnemonic = "repeat bracket obtain game exclude very also birth february fuel school awake";
+var mnemonic = "snack second local solution endless country theory flash program crash iron market";

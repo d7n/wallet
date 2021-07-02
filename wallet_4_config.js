@@ -1,1 +1,1 @@
-var mnemonic = "chicken sample client mother apology evidence clip control sort crane script trade";
+var mnemonic = "evil plunge endless view sing bitter unlock unlock victory drive ostrich people";

@@ -1,1 +1,1 @@
-var mnemonic = "purity summer obey noise useful easily supply pizza pride liquid derive neglect";
+var mnemonic = "strike bicycle huge assault cost bronze occur legal erase health labor best";

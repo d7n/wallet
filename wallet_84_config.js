@@ -1,1 +1,1 @@
-var mnemonic = "brand sand shy surprise beef ring bachelor answer tooth output illness cat";
+var mnemonic = "iron kitten frequent soda merge tank rescue artwork salmon fatal evoke eyebrow";

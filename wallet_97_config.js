@@ -1,1 +1,1 @@
-var mnemonic = "spike remain cloth once glow impact elbow great case bulk grief destroy";
+var mnemonic = "civil have spawn duck crazy host very obvious loud energy moon prefer";

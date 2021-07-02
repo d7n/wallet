@@ -1,1 +1,1 @@
-var mnemonic = "coil inspire capital keep donor marble lady clarify rib that brisk industry";
+var mnemonic = "affair have mosquito chest brother actress between royal virus render account unfair";

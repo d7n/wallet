@@ -1,1 +1,1 @@
-var mnemonic = "power buddy screen budget gown have forward brave urge hotel together adjust";
+var mnemonic = "because solve erase exotic charge globe all shift board broken dentist loud";

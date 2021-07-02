@@ -1,1 +1,1 @@
-var mnemonic = "range legend foam maple aspect spring draw buyer foot finger mercy survey";
+var mnemonic = "destroy success junk lamp scene oil stairs ranch three next disease tortoise";

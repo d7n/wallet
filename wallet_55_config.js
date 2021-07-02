@@ -1,1 +1,1 @@
-var mnemonic = "wrist recycle dismiss puppy fix private banana twelve camp vague once olympic";
+var mnemonic = "story suggest twice layer tragic kite forward inner exhibit three clown ill";

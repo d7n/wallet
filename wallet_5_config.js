@@ -1,1 +1,1 @@
-var mnemonic = "column impulse pride special garbage march room neglect sugar quantum tower honey";
+var mnemonic = "inspire dwarf soldier success hammer document supply clog runway helmet rice ten";

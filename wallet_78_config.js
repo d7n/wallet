@@ -1,1 +1,1 @@
-var mnemonic = "blur tower track track exile grow magnet melt high pupil tired pipe";
+var mnemonic = "claim float diet paper romance ice tackle that face era color chief";

@@ -1,1 +1,1 @@
-var mnemonic = "apart bag sort smooth balance brush invite flame frequent symbol trend coast";
+var mnemonic = "height cliff ranch nation zoo asthma thumb below unfold ten seminar diamond";

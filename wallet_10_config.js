@@ -1,1 +1,1 @@
-var mnemonic = "over warfare move payment taste fatal doll border talent credit inherit rapid";
+var mnemonic = "celery sugar artefact village latin gate shoulder job peasant evoke favorite try";

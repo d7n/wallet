@@ -1,1 +1,1 @@
-var mnemonic = "pill media spare check cool veteran decade pause move wild junior faint";
+var mnemonic = "spatial priority best twin inside erode connect refuse rather tackle edit joke";

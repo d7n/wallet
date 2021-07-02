@@ -1,1 +1,1 @@
-var mnemonic = "atom cupboard spray kind coyote awful biology tell armed uncover dove orient";
+var mnemonic = "hurt wise put prison input demand avoid enrich excite charge dinosaur carry";

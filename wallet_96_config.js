@@ -1,1 +1,1 @@
-var mnemonic = "nominee cheese arrow tennis core awkward shy practice wood ability absurd steak";
+var mnemonic = "local student time pepper century art envelope tide educate then note chicken";

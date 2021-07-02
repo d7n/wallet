@@ -1,1 +1,1 @@
-var mnemonic = "dance expire demand fly debate among similar sniff kiwi young kick cart";
+var mnemonic = "weapon celery polar boil wait flight resemble sunset survey raw monkey aware";

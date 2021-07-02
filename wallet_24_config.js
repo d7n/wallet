@@ -1,1 +1,1 @@
-var mnemonic = "ripple wide apart peanut move okay cart hill void grain picnic laptop";
+var mnemonic = "magnet jacket weapon develop poem junk credit peasant indoor merit potato absorb";

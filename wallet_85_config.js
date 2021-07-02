@@ -1,1 +1,1 @@
-var mnemonic = "someone prevent hope royal disease symptom mercy acid ancient claim skate improve";
+var mnemonic = "stomach hero engage spring crew season volcano venture bracket menu fix mango";

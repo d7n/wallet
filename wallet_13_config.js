@@ -1,1 +1,1 @@
-var mnemonic = "talk patient can orchard sunny strategy digital aisle friend punch crisp vintage";
+var mnemonic = "attract slender throw squeeze fee youth nasty rural gentle rural evil broom";

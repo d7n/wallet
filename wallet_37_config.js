@@ -1,1 +1,1 @@
-var mnemonic = "pilot blanket blast vote inherit stumble soul surge toast prevent lottery romance";
+var mnemonic = "satoshi reason project health cargo cash pipe arm bus mountain bonus there";

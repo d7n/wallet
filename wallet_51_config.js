@@ -1,1 +1,1 @@
-var mnemonic = "match run story daring around update alien pyramid sibling foil found case";
+var mnemonic = "regular fine craft great solar attend sentence siege memory jewel spice scrub";

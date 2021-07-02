@@ -1,1 +1,1 @@
-var mnemonic = "force maid hobby army wrong owner frost depart agent theory letter make";
+var mnemonic = "phone swear energy enable fee banner expand rhythm dizzy bench measure clerk";

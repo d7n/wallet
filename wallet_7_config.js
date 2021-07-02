@@ -1,1 +1,1 @@
-var mnemonic = "debate fortune tomorrow shaft illegal gravity sick couch become earn frame invest";
+var mnemonic = "muffin argue mom dog cruel survey volcano hold jazz make steak toilet";

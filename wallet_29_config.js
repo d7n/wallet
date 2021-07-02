@@ -1,1 +1,1 @@
-var mnemonic = "smart palace consider carpet crazy stereo legal session cup amazing squirrel uncle";
+var mnemonic = "good blast script amateur laptop suspect behave minute client because dilemma mushroom";

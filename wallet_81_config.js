@@ -1,1 +1,1 @@
-var mnemonic = "tenant wrap scan ordinary secret frozen aspect able impulse manual exist vicious";
+var mnemonic = "carry about crisp age bag pilot unique hat skirt nest peasant arch";

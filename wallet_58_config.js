@@ -1,1 +1,1 @@
-var mnemonic = "rapid either divert timber cram vault sound identify song smoke attitude enable";
+var mnemonic = "gather ordinary nation vital only profit nose vibrant fashion april genius sugar";

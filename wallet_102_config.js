@@ -1,1 +1,1 @@
-var mnemonic = "build digital height height device situate senior exhaust smoke isolate ceiling purpose";
+var mnemonic = "subway flee fossil lottery slim exit sibling notice relief grape region bike";

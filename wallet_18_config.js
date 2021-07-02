@@ -1,1 +1,1 @@
-var mnemonic = "column unknown arch priority skull grocery mystery toilet castle plunge stairs green";
+var mnemonic = "lobster spice maple shield debate sustain spy churn super dash chicken quality";

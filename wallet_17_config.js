@@ -1,1 +1,1 @@
-var mnemonic = "badge route quality corn museum region limit proof eager right glimpse lake";
+var mnemonic = "renew expand affair month erupt amount economy month luxury pledge cream screen";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory possible harsh promote message impulse midnight few ridge annual recipe reveal";
+var mnemonic = "country pass style atom what author assault collect husband asset sword ski";

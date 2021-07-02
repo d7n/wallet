@@ -1,1 +1,1 @@
-var mnemonic = "race process problem elevator planet impose salt program unit away more receive";
+var mnemonic = "innocent nice clean give response cereal kidney photo nuclear remove shrimp fall";

@@ -1,1 +1,1 @@
-var mnemonic = "custom orphan staff tilt dial pink water picnic together awesome car roof";
+var mnemonic = "course diesel coral topic special sustain traffic garage bubble trim cushion marble";

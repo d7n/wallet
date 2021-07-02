@@ -1,1 +1,1 @@
-var mnemonic = "hold vague social law symbol river champion veteran promote humor attack science";
+var mnemonic = "obscure siren select sand surface sibling twist inform crane dentist upgrade close";

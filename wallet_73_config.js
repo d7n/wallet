@@ -1,1 +1,1 @@
-var mnemonic = "detail list tell truck elbow submit federal host check anchor marriage stay";
+var mnemonic = "congress slab lyrics brave crucial notable manage bulb dust decade rate congress";

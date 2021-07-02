@@ -1,1 +1,1 @@
-var mnemonic = "sound inflict tunnel wet giant guilt typical census flower color become maple";
+var mnemonic = "brother debris throw pretty fit cinnamon home real lesson million undo repeat";

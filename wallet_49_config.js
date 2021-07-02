@@ -1,1 +1,1 @@
-var mnemonic = "ocean surround long east resist adjust actor acoustic myself behave luggage finish";
+var mnemonic = "include learn melody ten weapon car few material lift mixed laptop nothing";

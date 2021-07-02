@@ -1,1 +1,1 @@
-var mnemonic = "surge acid pool enrich hawk resist boy cushion glide echo average urge";
+var mnemonic = "buffalo apart beef train right captain under swear post logic purse wrist";

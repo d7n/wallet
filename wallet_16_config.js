@@ -1,1 +1,1 @@
-var mnemonic = "recipe ensure already gadget close turn please absent puzzle couple melt neck";
+var mnemonic = "color put stage cereal scorpion comic heavy cover food region insane sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese slogan dolphin become spice text picture october hard lawn hamster betray";
+var mnemonic = "portion minimum loan primary silk same crouch stamp cement sheriff crash tell";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude cushion shove game half decide electric car say retreat ozone argue";
+var mnemonic = "reflect dismiss inmate pulse estate fly run shine pumpkin anxiety cost discover";

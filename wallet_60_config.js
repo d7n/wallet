@@ -1,1 +1,1 @@
-var mnemonic = "already jeans observe pole enjoy essence blouse result organ royal trade wise";
+var mnemonic = "shiver tide rare various curve coral tiny reward debris crush lottery link";

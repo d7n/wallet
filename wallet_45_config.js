@@ -1,1 +1,1 @@
-var mnemonic = "unveil lumber figure place patch hair pistol miracle trigger lens cup day";
+var mnemonic = "range smart inspire educate rate yellow dumb cabbage plate mixture page aerobic";

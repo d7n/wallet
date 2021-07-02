@@ -1,1 +1,1 @@
-var mnemonic = "farm anchor over stem few mandate october company engine caught tide nose";
+var mnemonic = "into buyer spy exist alarm range adult input scatter entry snow achieve";

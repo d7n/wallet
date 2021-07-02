@@ -1,1 +1,1 @@
-var mnemonic = "estate cloud craft hidden cute gown grocery have fashion pond draw mail";
+var mnemonic = "clip legend eye elephant ethics trap idea account artwork grape kiwi syrup";

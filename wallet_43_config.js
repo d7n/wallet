@@ -1,1 +1,1 @@
-var mnemonic = "stamp rifle pumpkin list report episode put size fantasy glue frog wild";
+var mnemonic = "state delay fold planet zero jaguar domain diet army candy grief spike";

@@ -1,1 +1,1 @@
-var mnemonic = "unable expire weapon parade enable dry ghost join rebel pumpkin tube fall";
+var mnemonic = "filter all already core junior grant grit labor raccoon sentence like illegal";

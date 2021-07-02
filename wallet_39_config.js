@@ -1,1 +1,1 @@
-var mnemonic = "case ghost future service bean want desert truth this luggage cost father";
+var mnemonic = "tail crush hello wet verb music inside panel galaxy copper hurry boy";
