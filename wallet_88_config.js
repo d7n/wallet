@@ -1,1 +1,1 @@
-var mnemonic = "adjust artefact awful inspire walnut agent knee ability false negative day network";
+var mnemonic = "water renew habit math outer exchange head rely review jump tower runway";

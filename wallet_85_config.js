@@ -1,1 +1,1 @@
-var mnemonic = "huge donkey moon loop skill royal comfort retire million whip example crack";
+var mnemonic = "version gadget collect awkward pattern charge hint cost razor across talk brick";

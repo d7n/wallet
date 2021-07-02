@@ -1,1 +1,1 @@
-var mnemonic = "square sorry pelican one dragon chase agree armed grant media raise attack";
+var mnemonic = "relax gauge rule usual before lonely mixture ivory stock august top clown";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny team cause stay notice unique first paddle turkey text trigger van";
+var mnemonic = "wine moon figure high visit good correct provide injury oil tooth army";

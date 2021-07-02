@@ -1,1 +1,1 @@
-var mnemonic = "gun razor assume talk mammal biology panda impulse measure muscle super chat";
+var mnemonic = "silk armed throw maze chaos coil isolate bird atom buzz tribe awesome";

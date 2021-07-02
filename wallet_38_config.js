@@ -1,1 +1,1 @@
-var mnemonic = "flock area draft scene lottery drip verify city exist pledge chicken congress";
+var mnemonic = "milk innocent firm water stumble ghost alcohol salon entire yard print world";

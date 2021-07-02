@@ -1,1 +1,1 @@
-var mnemonic = "manage eagle few output upgrade cheese hungry glass elevator already harvest security";
+var mnemonic = "help test prosper mimic wealth goose chaos predict stumble false ramp report";

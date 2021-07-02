@@ -1,1 +1,1 @@
-var mnemonic = "slam access toast parrot valve crush they predict weekend diamond keen enemy";
+var mnemonic = "call coast visual motor runway vehicle surface announce involve kiss bid gesture";

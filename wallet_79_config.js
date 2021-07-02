@@ -1,1 +1,1 @@
-var mnemonic = "switch frequent embrace bullet crucial better pottery sketch acquire grain fiscal demise";
+var mnemonic = "calm explain beef advice cloth income depart neutral breeze actress west citizen";

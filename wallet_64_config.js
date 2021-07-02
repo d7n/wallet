@@ -1,1 +1,1 @@
-var mnemonic = "rug fault exercise veteran illegal large broom indicate hover report anchor cushion";
+var mnemonic = "join year cheese bicycle august hurdle toward lonely flame seven number fault";

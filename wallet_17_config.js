@@ -1,1 +1,1 @@
-var mnemonic = "electric frame ocean funny skate champion license web success achieve easily tomato";
+var mnemonic = "alarm bullet biology distance senior tank genre situate muffin course input clerk";

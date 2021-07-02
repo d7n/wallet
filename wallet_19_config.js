@@ -1,1 +1,1 @@
-var mnemonic = "various test approve solution learn rely fork speak month primary throw vocal";
+var mnemonic = "key secret leisure ankle protect tired bleak glare guard talk oyster cushion";

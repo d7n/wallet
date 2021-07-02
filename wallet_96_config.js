@@ -1,1 +1,1 @@
-var mnemonic = "spray harsh liquid machine flush group swamp chronic bus right resource know";
+var mnemonic = "trick this youth dilemma spawn skill ill soldier almost food hurt trust";

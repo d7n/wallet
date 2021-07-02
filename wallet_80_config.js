@@ -1,1 +1,1 @@
-var mnemonic = "slender endorse short away wisdom subject close dutch soda kangaroo gauge range";
+var mnemonic = "radar replace private virtual okay same border empower disease spy weekend impact";

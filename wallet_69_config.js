@@ -1,1 +1,1 @@
-var mnemonic = "thing sausage country humble garment answer minute jar tortoise settle olive explain";
+var mnemonic = "lamp foot gravity holiday tongue since spawn armed seed sketch vehicle divert";

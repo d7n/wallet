@@ -1,1 +1,1 @@
-var mnemonic = "sibling cloud employ truth around member exercise retreat short busy wave neutral";
+var mnemonic = "above hazard position expire pupil room spawn daughter meat enact junior pistol";

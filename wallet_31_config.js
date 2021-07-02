@@ -1,1 +1,1 @@
-var mnemonic = "spare online phrase bean tuna unfold service actress parrot side travel organ";
+var mnemonic = "current enemy mesh cherry hamster option arrive science give grain cereal match";

@@ -1,1 +1,1 @@
-var mnemonic = "slush produce trust view cake festival atom song normal miracle noodle once";
+var mnemonic = "chronic cycle chunk also frost only harbor neglect smile city large december";

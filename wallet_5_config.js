@@ -1,1 +1,1 @@
-var mnemonic = "gold orchard elephant soldier announce palace beyond pipe frost chalk actual pulse";
+var mnemonic = "you snake draw fuel powder crisp leader spray ugly enable cluster task";

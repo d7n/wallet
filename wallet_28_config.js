@@ -1,1 +1,1 @@
-var mnemonic = "purity lend cup zone cabbage talk job plastic cram comic off gain";
+var mnemonic = "festival grass solar wagon armor idea broccoli biology entry wedding chuckle switch";

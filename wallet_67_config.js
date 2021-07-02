@@ -1,1 +1,1 @@
-var mnemonic = "edge cool fly dawn design turn riot rebuild unit upper shoulder type";
+var mnemonic = "floor museum cream deny sun turkey tuition cool collect quantum tragic toilet";

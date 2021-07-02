@@ -1,1 +1,1 @@
-var mnemonic = "observe whale such brain capital raccoon winter wool swarm dust coffee river";
+var mnemonic = "imitate average much base evoke crunch uniform enact caution kidney innocent solve";

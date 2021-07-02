@@ -1,1 +1,1 @@
-var mnemonic = "decrease need slight vocal demise pear emerge spoon ankle black source west";
+var mnemonic = "secret possible matter example neutral topic diamond cancel silly talent mobile hamster";

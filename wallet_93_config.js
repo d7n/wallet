@@ -1,1 +1,1 @@
-var mnemonic = "shrimp vendor nose weasel joy enrich present target term gain fine nephew";
+var mnemonic = "evoke shop face add ask little reduce burst inhale success giggle frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware opera bonus ginger correct fetch farm ride minimum soon phone resource";
+var mnemonic = "exercise broken shoe praise auto right rubber sea benefit page peanut couple";

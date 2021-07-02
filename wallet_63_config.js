@@ -1,1 +1,1 @@
-var mnemonic = "humor adjust disagree truck feel silent surge dawn smoke quantum first idle";
+var mnemonic = "large meat together later stem position wreck embark cube speak plug shoot";

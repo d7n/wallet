@@ -1,1 +1,1 @@
-var mnemonic = "expire try tape service firm refuse oval umbrella mushroom famous tribe shuffle";
+var mnemonic = "actor lonely add diamond equal control jelly account fortune blossom juice now";

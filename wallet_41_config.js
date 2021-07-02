@@ -1,1 +1,1 @@
-var mnemonic = "orbit vault hammer combine park hour gym black apology decade curtain person";
+var mnemonic = "fox daughter monitor manage farm toast zero usual motor struggle basic among";

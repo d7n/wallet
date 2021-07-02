@@ -1,1 +1,1 @@
-var mnemonic = "label inform sentence mouse merry unfair marriage clap bacon october gesture peanut";
+var mnemonic = "trumpet rude obvious hip crouch manual sweet spoon pill push together jar";

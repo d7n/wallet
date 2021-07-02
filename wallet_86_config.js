@@ -1,1 +1,1 @@
-var mnemonic = "sauce path awesome air fix brush coyote during movie trip coconut virus";
+var mnemonic = "plastic derive interest car frequent boil diamond inmate danger candy like process";

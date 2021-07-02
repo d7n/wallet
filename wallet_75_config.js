@@ -1,1 +1,1 @@
-var mnemonic = "fish gesture patch insect large sunny crumble miss ostrich estate picture sound";
+var mnemonic = "earth lyrics absurd goddess shrimp alert bachelor twelve chalk pelican mind time";

@@ -1,1 +1,1 @@
-var mnemonic = "torch basic empty build runway exile blur legend art hobby security argue";
+var mnemonic = "mom artwork crew key faculty tragic decade despair brass alien split stumble";

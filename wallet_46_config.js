@@ -1,1 +1,1 @@
-var mnemonic = "lobster crowd opinion provide draft transfer glow uphold armor juice notable indicate";
+var mnemonic = "secret floor reunion polar gasp surprise major cheap club section warm consider";

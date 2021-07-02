@@ -1,1 +1,1 @@
-var mnemonic = "plate decrease into veteran celery leg camp network myself benefit thing desert";
+var mnemonic = "exchange deliver mail broom pencil online cradle dwarf face minimum reform marine";

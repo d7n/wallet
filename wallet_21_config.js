@@ -1,1 +1,1 @@
-var mnemonic = "deer sting illegal network drift reward polar claim pizza farm sick sphere";
+var mnemonic = "pencil inch guide select someone region argue foil vivid drive visit license";

@@ -1,1 +1,1 @@
-var mnemonic = "glow ability fence sample arrow beauty sense guide panther pull wheel sudden";
+var mnemonic = "census arena menu cloud undo remind garage aunt question strategy walk purpose";

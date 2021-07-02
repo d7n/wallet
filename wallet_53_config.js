@@ -1,1 +1,1 @@
-var mnemonic = "cram eager boost pull fault flush universe honey song fiction rigid stairs";
+var mnemonic = "aware rice derive must sniff state stool focus bulk fruit person orient";

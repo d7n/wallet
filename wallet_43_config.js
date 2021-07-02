@@ -1,1 +1,1 @@
-var mnemonic = "crisp fetch brass manage worth essay labor slide sponsor field there crunch";
+var mnemonic = "document absurd weird assist ancient episode bread budget deny enter parrot change";

@@ -1,1 +1,1 @@
-var mnemonic = "sun spy leader squirrel select verify around lazy humble maple snake govern";
+var mnemonic = "beef elegant knock pony life crouch swim sun age invite tunnel lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "curve glove desert trap sad differ unknown review air recall help ahead";
+var mnemonic = "voice diamond addict mobile inhale slogan record luxury cherry canyon flip item";

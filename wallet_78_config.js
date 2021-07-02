@@ -1,1 +1,1 @@
-var mnemonic = "tip lesson guard cluster bitter club bring wasp relief economy other inquiry";
+var mnemonic = "father donkey already blush eight ski gym heart illness adult inch route";

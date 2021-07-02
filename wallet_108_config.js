@@ -1,1 +1,1 @@
-var mnemonic = "rival patch frozen grunt task spatial opinion immense claim torch render vintage";
+var mnemonic = "police tent ordinary virus prefer neck save submit wreck cabbage differ afraid";

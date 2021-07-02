@@ -1,1 +1,1 @@
-var mnemonic = "relief sell spider eye orbit six wild approve require ketchup have toy";
+var mnemonic = "sunset normal east token subject whip dumb pumpkin solve engine detect master";

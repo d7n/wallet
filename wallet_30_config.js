@@ -1,1 +1,1 @@
-var mnemonic = "three suspect remove catalog fall concert border blast dignity moon viable truck";
+var mnemonic = "fit boost cute either snake entry ramp cluster toe leopard peasant canal";

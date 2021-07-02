@@ -1,1 +1,1 @@
-var mnemonic = "observe baby bulk exhaust tongue dumb crucial tumble father profit any peace";
+var mnemonic = "sister enforce frog virtual year amount vanish atom funny distance grit tape";

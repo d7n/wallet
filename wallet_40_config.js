@@ -1,1 +1,1 @@
-var mnemonic = "resist chaos eight agent thunder volcano circle zebra desk elite vault flag";
+var mnemonic = "lazy uphold subway cousin text obvious cabbage duty vault tube crew scene";

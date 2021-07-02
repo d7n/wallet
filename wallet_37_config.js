@@ -1,1 +1,1 @@
-var mnemonic = "mosquito pelican top review blood document scissors chicken pull aunt hedgehog cattle";
+var mnemonic = "all light attitude away penalty enact pepper spot suspect item float video";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery beauty virtual pretty spring toddler pyramid awful just toddler iron ceiling";
+var mnemonic = "broom duck mystery connect book utility error column hole pig robust genius";

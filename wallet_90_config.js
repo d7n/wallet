@@ -1,1 +1,1 @@
-var mnemonic = "airport neglect pig grunt syrup hat recall equal hawk traffic maximum badge";
+var mnemonic = "swift core silly vehicle spy curve behave grab leader eye hip bunker";

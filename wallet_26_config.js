@@ -1,1 +1,1 @@
-var mnemonic = "grape assault level picnic recycle ribbon immune radar cricket describe total hub";
+var mnemonic = "situate opera path social visa caught woman tower clown island inhale sign";

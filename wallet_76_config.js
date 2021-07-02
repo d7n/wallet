@@ -1,1 +1,1 @@
-var mnemonic = "nasty slice digital unaware bargain wealth tell school indicate federal give hair";
+var mnemonic = "sell stairs rapid oil wrap expose arrive reopen recycle sentence dinner decade";

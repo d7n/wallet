@@ -1,1 +1,1 @@
-var mnemonic = "plastic certain occur book anxiety cereal doctor lab buddy foster object nation";
+var mnemonic = "test piano tenant omit spatial away midnight hollow boss another swallow glad";

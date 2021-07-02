@@ -1,1 +1,1 @@
-var mnemonic = "green alert either wasp demand advice chunk peace valley until feel chair";
+var mnemonic = "battle police early owner velvet awful truly teach remove chat virus shop";

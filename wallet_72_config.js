@@ -1,1 +1,1 @@
-var mnemonic = "because device exercise ramp burger shadow door void ring stomach saddle trumpet";
+var mnemonic = "stamp pudding village nasty price rather note sudden very evoke universe summer";

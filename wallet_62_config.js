@@ -1,1 +1,1 @@
-var mnemonic = "snow draw seed animal couch marble dune kit expose fuel chapter camera";
+var mnemonic = "arena convince swear report swear wear apple pet gadget filter alley trigger";

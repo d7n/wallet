@@ -1,1 +1,1 @@
-var mnemonic = "force service kit repair amazing panel room absorb cart dilemma casino bulb";
+var mnemonic = "upgrade sense joy ski donate trick myself differ banana page reunion want";

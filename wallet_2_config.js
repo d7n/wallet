@@ -1,1 +1,1 @@
-var mnemonic = "whale wall crater now record angry jewel fragile film key elegant express";
+var mnemonic = "party venue heart happy run heavy vacant scale multiply nice brisk luxury";

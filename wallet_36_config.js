@@ -1,1 +1,1 @@
-var mnemonic = "area frog discover virtual pilot whip mask fragile slogan spoon use car";
+var mnemonic = "virus advice quantum apart coin fun speed note language large voice crawl";

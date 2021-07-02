@@ -1,1 +1,1 @@
-var mnemonic = "kiwi chronic enable lamp few donkey tourist syrup cycle nominee hotel lava";
+var mnemonic = "faint tiger dust employ pride speak suit arch drastic observe border pistol";

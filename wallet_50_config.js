@@ -1,1 +1,1 @@
-var mnemonic = "soon razor topple finger file guard toss region kiwi power minor fantasy";
+var mnemonic = "general rose fat combine void tribe wild calm balance man crash sun";

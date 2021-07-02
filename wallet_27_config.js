@@ -1,1 +1,1 @@
-var mnemonic = "sort lawn exist sugar egg orbit cover pizza civil fruit mesh hurry";
+var mnemonic = "diamond access remember glimpse student expire moment arrest sniff oak dance pluck";

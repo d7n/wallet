@@ -1,1 +1,1 @@
-var mnemonic = "two hire orange brave history memory hill flee captain save outer post";
+var mnemonic = "miss city mercy avocado myself bundle arena pool ignore infant worth entire";

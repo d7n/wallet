@@ -1,1 +1,1 @@
-var mnemonic = "reason asset camera ticket priority video make arrest gauge until endless gather";
+var mnemonic = "elbow tape mountain insane air vast duck code hello object enhance shed";

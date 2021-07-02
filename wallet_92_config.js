@@ -1,1 +1,1 @@
-var mnemonic = "fossil point middle universe office luggage wolf fever pen agree split tissue";
+var mnemonic = "barrel farm license merry surround bacon ceiling immense gown damage future vacant";

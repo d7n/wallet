@@ -1,1 +1,1 @@
-var mnemonic = "valve stamp final family dragon yellow obey climb awkward idea donor pulp";
+var mnemonic = "bicycle leopard tail vendor innocent vacuum fossil run raw eternal robust club";

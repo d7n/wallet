@@ -1,1 +1,1 @@
-var mnemonic = "actress luggage busy scheme first few man panic delay mind history shoe";
+var mnemonic = "alert wing carry unlock urge fancy tumble donate coyote about observe hair";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit tree power focus flower plug rabbit baby father gauge wear security";
+var mnemonic = "much tackle above crisp hurt shoot dice cute mask topple because flower";

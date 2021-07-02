@@ -1,1 +1,1 @@
-var mnemonic = "keen veteran diamond thumb marine reveal travel recycle connect desert airport palace";
+var mnemonic = "maze sorry jungle expand pony satisfy move march crunch canvas forward bargain";

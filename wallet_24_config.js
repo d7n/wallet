@@ -1,1 +1,1 @@
-var mnemonic = "brave ribbon rely budget venture net dog innocent robot outer already away";
+var mnemonic = "inch fatigue upset sea engage sphere upset urge style puzzle cloud renew";

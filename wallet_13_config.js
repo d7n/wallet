@@ -1,1 +1,1 @@
-var mnemonic = "cave now crawl ethics logic clarify cloth orange cactus host chunk sea";
+var mnemonic = "link illness romance lawsuit provide economy fun impose bachelor ecology episode dog";

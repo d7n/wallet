@@ -1,1 +1,1 @@
-var mnemonic = "work melt cover spawn beauty magnet film fall because civil coach update";
+var mnemonic = "drive cluster acid stable simple gloom flush year manage job wrap emerge";

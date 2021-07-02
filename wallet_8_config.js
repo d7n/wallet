@@ -1,1 +1,1 @@
-var mnemonic = "slim shrimp expose vibrant fault kid pet romance unveil case burger clump";
+var mnemonic = "decorate firm hammer school engage visual swallow mushroom dismiss fuel tooth code";

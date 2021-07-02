@@ -1,1 +1,1 @@
-var mnemonic = "middle casual mouse smoke hip hat party autumn beyond diagram add door";
+var mnemonic = "cable okay clarify hobby only view filter venture fresh nephew gentle idle";

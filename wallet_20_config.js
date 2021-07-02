@@ -1,1 +1,1 @@
-var mnemonic = "lift retire merit elevator hurry address clutch spike firm tenant project guide";
+var mnemonic = "purse asthma popular squirrel assist nut frost goat orchard idea monster broccoli";

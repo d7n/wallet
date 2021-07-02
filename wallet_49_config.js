@@ -1,1 +1,1 @@
-var mnemonic = "balance spell bring mask whisper captain check tattoo shine casino almost gallery";
+var mnemonic = "expire stamp chaos answer blanket brown burst secret normal piano tissue flock";

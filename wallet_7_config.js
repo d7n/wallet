@@ -1,1 +1,1 @@
-var mnemonic = "wasp kit good decide raw taxi federal mechanic way cabin access spot";
+var mnemonic = "bracket subject decorate opinion churn skill squeeze bone mass raccoon nut wonder";

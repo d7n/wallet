@@ -1,1 +1,1 @@
-var mnemonic = "carry surround know bonus sponsor toddler series mammal comfort ivory web sword";
+var mnemonic = "attract denial always prize second ordinary shell fault version subway arrange blue";

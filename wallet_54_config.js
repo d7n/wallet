@@ -1,1 +1,1 @@
-var mnemonic = "destroy team man machine adjust reason attend mix super sting payment color";
+var mnemonic = "clump recycle cave surround obey portion rabbit evoke hub zoo curious ivory";

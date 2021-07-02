@@ -1,1 +1,1 @@
-var mnemonic = "panel offer cook kick manage occur grain swallow indicate lazy diagram dice";
+var mnemonic = "goat nominee relief wonder faculty destroy trade column blur bamboo off animal";

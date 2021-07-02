@@ -1,1 +1,1 @@
-var mnemonic = "breeze private theme battle winner object over honey gather inflict shadow vacant";
+var mnemonic = "heart rose frame unit sudden mixture occur spawn secret green reject voice";

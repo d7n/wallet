@@ -1,1 +1,1 @@
-var mnemonic = "energy shed ecology please defy ozone paddle garage where nose icon circle";
+var mnemonic = "equal crime board comic burst address vacuum funny auto tired pair rose";

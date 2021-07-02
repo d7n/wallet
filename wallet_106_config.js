@@ -1,1 +1,1 @@
-var mnemonic = "solution leopard intact snake such senior assault trigger foster before shrug expect";
+var mnemonic = "network honey hunt file stove need erase cycle door until grain ivory";

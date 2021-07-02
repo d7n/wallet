@@ -1,1 +1,1 @@
-var mnemonic = "remind moment subway peasant lunar case rather ice empower assault maze fun";
+var mnemonic = "dentist nature razor cross around view spell often foam where abandon salute";

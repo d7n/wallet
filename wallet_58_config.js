@@ -1,1 +1,1 @@
-var mnemonic = "park ranch basket ketchup lounge food history idle divorce bone future nerve";
+var mnemonic = "grass toast foil pudding walk cereal remind surface good source little method";

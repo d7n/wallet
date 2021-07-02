@@ -1,1 +1,1 @@
-var mnemonic = "bright gloom chest remind march hurry work glare brick roast toilet flee";
+var mnemonic = "sponsor mirror impulse corn cave rifle gate zone cute cave online since";

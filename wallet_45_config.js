@@ -1,1 +1,1 @@
-var mnemonic = "spike crisp direct tape diesel bundle large prefer payment very deputy wagon";
+var mnemonic = "sniff post excess admit cave help ancient daughter autumn scene soft call";

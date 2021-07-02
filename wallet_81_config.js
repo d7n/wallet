@@ -1,1 +1,1 @@
-var mnemonic = "monster judge carpet orchard glow wrong benefit fall globe kind drill essay";
+var mnemonic = "wealth attend lock naive found turkey kick fee kitten awful cabbage coast";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt card remind hurt pill alter above dawn toilet fury describe color";
+var mnemonic = "evoke degree liquid old attitude shine alone mirror nothing gauge oval scale";

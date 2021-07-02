@@ -1,1 +1,1 @@
-var mnemonic = "zoo want wealth someone taxi butter slide olympic program solid harsh liquid";
+var mnemonic = "kit average orphan ugly pulp busy eight gauge seat salt series erase";

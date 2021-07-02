@@ -1,1 +1,1 @@
-var mnemonic = "interest stuff ski thank plastic insane install scan idle tired marine chat";
+var mnemonic = "ghost about cereal elder remove face actress great offer fiber ahead hire";
