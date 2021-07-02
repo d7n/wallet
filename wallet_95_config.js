@@ -1,1 +1,1 @@
-var mnemonic = "royal add rebuild kite puppy alone tower tired nice enemy lunch escape";
+var mnemonic = "crash salad spare man fault meat employ hedgehog popular employ credit drama";

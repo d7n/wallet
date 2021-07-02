@@ -1,1 +1,1 @@
-var mnemonic = "worry you elder soda thought pipe else buzz circle install oak kick";
+var mnemonic = "apple seminar exhibit vote civil dynamic enemy play aerobic dwarf display oppose";

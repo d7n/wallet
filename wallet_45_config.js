@@ -1,1 +1,1 @@
-var mnemonic = "acoustic country school craft pitch useful brother glory split theme glass symptom";
+var mnemonic = "away world planet rubber sunset trim foam obvious purchase glimpse obtain blanket";

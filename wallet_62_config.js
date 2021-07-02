@@ -1,1 +1,1 @@
-var mnemonic = "giggle inside sad slide initial invite mix grocery fortune abuse give furnace";
+var mnemonic = "answer toast token girl away what thought grace reward enemy private curve";

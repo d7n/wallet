@@ -1,1 +1,1 @@
-var mnemonic = "drift derive humor occur voice glue vital secret firm inspire soul pause";
+var mnemonic = "young expire better escape bitter mass omit zero romance interest pear then";

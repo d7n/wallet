@@ -1,1 +1,1 @@
-var mnemonic = "destroy bleak name iron bottom sand live basic project peanut own mercy";
+var mnemonic = "cabin butter guard fall warfare fortune glance symbol patient sort forward donate";

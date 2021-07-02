@@ -1,1 +1,1 @@
-var mnemonic = "warm enough box solid zone debris loop exact doll useful plunge bitter";
+var mnemonic = "slice behind village horse shift night badge cactus hint tattoo wave trouble";

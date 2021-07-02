@@ -1,1 +1,1 @@
-var mnemonic = "absorb crawl adapt panther setup various pig celery resemble project inspire miss";
+var mnemonic = "face bicycle such segment acoustic impact cereal random drip fence bench faith";

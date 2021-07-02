@@ -1,1 +1,1 @@
-var mnemonic = "prosper race grape luxury sphere give fetch material tomato dance eager better";
+var mnemonic = "bunker gasp harsh test pond artist donor safe video denial gloom thought";

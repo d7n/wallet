@@ -1,1 +1,1 @@
-var mnemonic = "husband artwork learn dose link tomorrow hotel lounge finish drop early bind";
+var mnemonic = "boil bunker mass ivory hire lobster oyster lizard auto average concert song";

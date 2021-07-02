@@ -1,1 +1,1 @@
-var mnemonic = "chapter opinion evoke stage usage earth relax breeze churn nice insect dream";
+var mnemonic = "apology diamond disorder crunch gift other fluid change engage differ open minor";

@@ -1,1 +1,1 @@
-var mnemonic = "allow wrestle speak fabric ghost coast marriage major glow taste biology protect";
+var mnemonic = "bullet vital cupboard inhale goose frog future reduce will avocado oyster best";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy into very foam install inspire swear cattle dismiss loyal lonely drum";
+var mnemonic = "measure labor alien flat strategy trouble script myself treat enable man chef";

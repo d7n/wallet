@@ -1,1 +1,1 @@
-var mnemonic = "derive noble people prepare hill agent kiwi seed cushion canal tribe eternal";
+var mnemonic = "excite unlock throw entire peanut office hen measure gravity uphold job leaf";

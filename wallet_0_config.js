@@ -1,1 +1,1 @@
-var mnemonic = "orphan skirt arrive gorilla actress exotic salmon area leave soccer remove calm";
+var mnemonic = "horse token gold empty festival decorate fall buffalo empty comfort hospital try";

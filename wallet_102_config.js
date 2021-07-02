@@ -1,1 +1,1 @@
-var mnemonic = "network toast canal sock theory kiwi payment climb floor local gap earn";
+var mnemonic = "book impose slight hedgehog lobster rebel betray fault cake radar cattle crystal";

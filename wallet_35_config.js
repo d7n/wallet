@@ -1,1 +1,1 @@
-var mnemonic = "online humble shuffle category pet cake scheme note priority credit arm outside";
+var mnemonic = "album mosquito shove place sick avoid rather door drastic imitate dignity mechanic";

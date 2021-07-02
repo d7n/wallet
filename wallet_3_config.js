@@ -1,1 +1,1 @@
-var mnemonic = "hope smile vacant lava price mystery level august young fame perfect spice";
+var mnemonic = "reward express midnight enemy fiction novel purity sugar hood present become idea";

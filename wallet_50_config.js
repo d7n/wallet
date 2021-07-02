@@ -1,1 +1,1 @@
-var mnemonic = "mom local type minor absorb recipe gun warm lizard purpose turtle syrup";
+var mnemonic = "admit purchase mushroom air ability during come verb pumpkin color endorse endorse";

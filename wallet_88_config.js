@@ -1,1 +1,1 @@
-var mnemonic = "can safe prevent wrong silk stem click radio faculty believe rate license";
+var mnemonic = "stone pet immune quality solve rib latin direct offer found wait onion";

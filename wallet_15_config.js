@@ -1,1 +1,1 @@
-var mnemonic = "anger embrace sting achieve edge inch surge song boat vote rely jungle";
+var mnemonic = "carry code toast hard motor catalog usual adapt world hazard exist universe";

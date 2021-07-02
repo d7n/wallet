@@ -1,1 +1,1 @@
-var mnemonic = "welcome kingdom exit palm come fuel give hammer aunt sort hello dance";
+var mnemonic = "false banana edit filter latin inch weird hill usual pulse wreck gossip";

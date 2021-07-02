@@ -1,1 +1,1 @@
-var mnemonic = "family pen ability devote replace gas sister actor burst state dish entry";
+var mnemonic = "denial patient muffin pelican rule split pole siege exchange electric foam tell";

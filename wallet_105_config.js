@@ -1,1 +1,1 @@
-var mnemonic = "speak report fresh copy spike priority vocal trumpet omit favorite chest deputy";
+var mnemonic = "stuff fade diagram sea hammer scene happy lounge yard dutch spoon harbor";

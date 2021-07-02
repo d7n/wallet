@@ -1,1 +1,1 @@
-var mnemonic = "sign blouse soldier ripple lonely angry reject involve breeze unhappy produce strong";
+var mnemonic = "tool stick access true monitor will this rice lawn picture heart ship";

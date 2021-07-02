@@ -1,1 +1,1 @@
-var mnemonic = "curve tag there asthma torch test require ugly build eight maximum myth";
+var mnemonic = "artist federal supply absent number hedgehog they arm often unhappy velvet surround";

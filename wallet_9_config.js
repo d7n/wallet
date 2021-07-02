@@ -1,1 +1,1 @@
-var mnemonic = "chronic only flush vacant dirt cactus tissue neck join deer chat west";
+var mnemonic = "yard twist loan reflect clinic bright frozen click leaf soul main wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "warm diamond tunnel month buyer absorb initial into rare rookie boost grain";
+var mnemonic = "opera daring kitchen surface march fog please six sausage cheese letter now";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber wage doctor jelly peasant ginger rug camera raven east art vintage";
+var mnemonic = "magic double cash swim same rough riot film glass evidence cigar various";

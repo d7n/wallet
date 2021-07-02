@@ -1,1 +1,1 @@
-var mnemonic = "game swim amazing cattle symbol antique sand laundry recipe energy sign tree";
+var mnemonic = "divert fat bench awful toe truck other visual peanut fox swift arrive";

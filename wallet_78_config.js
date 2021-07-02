@@ -1,1 +1,1 @@
-var mnemonic = "helmet grit muscle chalk general pole aim lobster arrow candy dune night";
+var mnemonic = "physical garbage loan pull hub actual mass era protect ice lecture marble";

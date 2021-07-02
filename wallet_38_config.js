@@ -1,1 +1,1 @@
-var mnemonic = "bus faith grant buddy music tomorrow filter veteran chaos salon unknown case";
+var mnemonic = "few uncle grit adjust confirm label organ giant solve illegal solve mass";

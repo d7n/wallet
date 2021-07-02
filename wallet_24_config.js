@@ -1,1 +1,1 @@
-var mnemonic = "injury supply wife saddle title sample elder guilt bird wink shop peanut";
+var mnemonic = "tuition violin armor load fine galaxy envelope youth taxi exchange suit conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster history welcome trim skull nut stand face seek drip coral verb";
+var mnemonic = "example brave train radio correct defense pizza tower cube fantasy goose mountain";

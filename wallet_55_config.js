@@ -1,1 +1,1 @@
-var mnemonic = "grape saddle erosion sun girl tube delay shaft science goose crash will";
+var mnemonic = "choose genuine torch unknown area avoid attack alien fitness dawn bundle dose";

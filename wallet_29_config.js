@@ -1,1 +1,1 @@
-var mnemonic = "spin parade budget trap build beach fix front weather zoo exit advance";
+var mnemonic = "nose orphan plastic snack depend visual also install crime nerve obvious guess";

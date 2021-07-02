@@ -1,1 +1,1 @@
-var mnemonic = "canoe used lava alone lesson air brother force smooth sign soap build";
+var mnemonic = "hedgehog raccoon diamond liar festival famous mail marine jewel ramp glory lion";

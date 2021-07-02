@@ -1,1 +1,1 @@
-var mnemonic = "swing honey length hobby faculty pitch depart pave pumpkin judge taste screen";
+var mnemonic = "smoke play cereal tobacco huge shoot truth dentist inner thank buffalo slush";

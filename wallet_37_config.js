@@ -1,1 +1,1 @@
-var mnemonic = "image angle claim gun eyebrow culture start clog marine member elder rare";
+var mnemonic = "worth fine fury danger indoor end vintage dragon emerge fox injury hurry";

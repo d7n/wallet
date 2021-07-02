@@ -1,1 +1,1 @@
-var mnemonic = "sweet end surface choose awkward modify trigger random hen father add bicycle";
+var mnemonic = "intact vanish original team achieve blue clay birth lock shy job model";

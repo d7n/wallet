@@ -1,1 +1,1 @@
-var mnemonic = "there glimpse space kid eyebrow chapter hurdle enjoy stand report brisk music";
+var mnemonic = "describe thank sport hire plunge shoot begin dice gallery repair sauce car";

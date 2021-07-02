@@ -1,1 +1,1 @@
-var mnemonic = "envelope present unhappy pull tiny figure again true artist orphan zero bullet";
+var mnemonic = "clarify middle link universe layer venue nest cousin civil way lift suffer";

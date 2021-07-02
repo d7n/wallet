@@ -1,1 +1,1 @@
-var mnemonic = "prison bamboo prepare novel pitch unfair position sight increase panda rotate avoid";
+var mnemonic = "belt clump gown bubble empower remain clock axis ship possible copy comfort";

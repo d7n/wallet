@@ -1,1 +1,1 @@
-var mnemonic = "detect elbow isolate now toward donate promote satisfy slot long rug play";
+var mnemonic = "sad chapter name palace diesel file hint arrive power strategy odor above";

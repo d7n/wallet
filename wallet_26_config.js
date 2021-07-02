@@ -1,1 +1,1 @@
-var mnemonic = "robot boil egg giant turkey come moon flat lake advice desk pole";
+var mnemonic = "subject decorate law odor excite ski grocery badge daring voyage blood face";

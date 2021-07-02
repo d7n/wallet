@@ -1,1 +1,1 @@
-var mnemonic = "letter miss phone sting stand orange buyer yard library fault cloth worth";
+var mnemonic = "addict album good merit evoke pizza water attitude bamboo replace spray aim";

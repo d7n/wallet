@@ -1,1 +1,1 @@
-var mnemonic = "begin false shy situate foot stand orchard opera found matrix anger today";
+var mnemonic = "mom hollow field tortoise own cactus alpha chair sausage seed shaft easy";

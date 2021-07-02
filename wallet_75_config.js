@@ -1,1 +1,1 @@
-var mnemonic = "draft three embrace model spell purpose copy super soul nation input obscure";
+var mnemonic = "offer enable random attack essence dirt fix ordinary idle permit ship post";

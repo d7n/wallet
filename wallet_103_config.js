@@ -1,1 +1,1 @@
-var mnemonic = "now shed theory nothing friend response very garage bonus meat second cheap";
+var mnemonic = "monitor enlist either blind increase leopard lonely float pistol crystal nominee distance";

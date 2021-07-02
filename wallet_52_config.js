@@ -1,1 +1,1 @@
-var mnemonic = "canyon column mandate grain chase work snow treat you gesture undo flight";
+var mnemonic = "address scissors smile split census leg element priority frame ribbon ability time";

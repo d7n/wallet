@@ -1,1 +1,1 @@
-var mnemonic = "scorpion tower dragon anxiety zebra warfare shaft home tenant asset captain cherry";
+var mnemonic = "account renew mirror vacuum drastic suit inject fiber marriage unit enrich engage";

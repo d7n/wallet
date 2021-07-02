@@ -1,1 +1,1 @@
-var mnemonic = "volume eye burden staff because fluid face wealth render vibrant merit pupil";
+var mnemonic = "thunder audit before duck surface security brass claw link wife throw junk";

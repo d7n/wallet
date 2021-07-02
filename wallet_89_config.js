@@ -1,1 +1,1 @@
-var mnemonic = "sibling high sudden gloom indicate heart nation follow skin pledge swing hockey";
+var mnemonic = "foam capital glue spin worry frequent tumble dolphin tent stadium point blossom";

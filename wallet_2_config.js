@@ -1,1 +1,1 @@
-var mnemonic = "address remind visit mad must kangaroo boost bronze latin base enroll funny";
+var mnemonic = "snack turn feature remind giraffe wine meadow burden paddle snake disease fiscal";

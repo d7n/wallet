@@ -1,1 +1,1 @@
-var mnemonic = "play combine expand income inflict purse feel mushroom derive chronic tool mirror";
+var mnemonic = "opinion verify dose six slab vague adult glance often defy canal toddler";

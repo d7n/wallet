@@ -1,1 +1,1 @@
-var mnemonic = "advance endorse topple regret either mechanic rent edit sound poem brother orbit";
+var mnemonic = "salmon art undo holiday test option mind divide awkward scissors spend license";

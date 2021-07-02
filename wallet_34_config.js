@@ -1,1 +1,1 @@
-var mnemonic = "shaft lumber blush napkin robot monster bundle orbit chair exist jeans attack";
+var mnemonic = "spy staff absurd keep misery correct country submit book street priority mansion";

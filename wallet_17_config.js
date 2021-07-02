@@ -1,1 +1,1 @@
-var mnemonic = "satoshi tool speed sign artwork arrange sausage project brief time crunch cloth";
+var mnemonic = "disorder document siege will tackle decrease timber hidden parent festival cute purpose";

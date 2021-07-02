@@ -1,1 +1,1 @@
-var mnemonic = "autumn mango orange coin rough hedgehog elevator strategy south affair joy toward";
+var mnemonic = "struggle flip best gate garage chief language jealous vote stock menu fatal";

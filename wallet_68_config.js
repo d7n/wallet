@@ -1,1 +1,1 @@
-var mnemonic = "bring negative lawn excuse vibrant canyon festival daring solar vapor foster police";
+var mnemonic = "husband check excess tower portion garden beef mandate possible panel force hello";

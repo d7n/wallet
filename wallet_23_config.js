@@ -1,1 +1,1 @@
-var mnemonic = "horn aim around undo someone south judge gate elevator lottery wife card";
+var mnemonic = "announce fitness steak unaware bunker pudding year course lend eyebrow word situate";

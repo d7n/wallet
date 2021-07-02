@@ -1,1 +1,1 @@
-var mnemonic = "empty profit little share hello spin great boost supply car wire purity";
+var mnemonic = "visit spot ugly prefer grab melt eyebrow health donkey venue that enhance";

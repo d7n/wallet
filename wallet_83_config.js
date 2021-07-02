@@ -1,1 +1,1 @@
-var mnemonic = "luggage slot heart december client return match have situate spike job apple";
+var mnemonic = "local perfect female push permit vote please desk lunar ridge wrap glue";

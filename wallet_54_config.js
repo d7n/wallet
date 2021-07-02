@@ -1,1 +1,1 @@
-var mnemonic = "start once calm artefact burden cricket skin journey deny deny front collect";
+var mnemonic = "coin pizza short glass bind impulse dish artwork pepper media seminar will";

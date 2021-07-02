@@ -1,1 +1,1 @@
-var mnemonic = "cloth rebel admit box talent mule problem rookie cause rescue artefact keep";
+var mnemonic = "engage example reopen emotion flip rubber pull grit sail donkey steel celery";

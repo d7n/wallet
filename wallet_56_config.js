@@ -1,1 +1,1 @@
-var mnemonic = "they cross buddy menu camp poverty today okay clutch stick fury attract";
+var mnemonic = "rural snow marble notice dolphin lobster dentist birth extend april wise network";

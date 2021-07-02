@@ -1,1 +1,1 @@
-var mnemonic = "vehicle elevator magic dog liar then reason coast guilt wish obtain special";
+var mnemonic = "strike source foil video wine hidden advance feed nasty describe crash bullet";

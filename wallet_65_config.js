@@ -1,1 +1,1 @@
-var mnemonic = "memory neither quiz fork essay lazy panic cruise salmon bean squirrel jaguar";
+var mnemonic = "parrot portion sugar virus smart fashion chef loan permit sheriff sample prefer";

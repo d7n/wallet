@@ -1,1 +1,1 @@
-var mnemonic = "now layer fun crunch thought box act crew margin rather roof corn";
+var mnemonic = "into hard emotion whip owner purse erase kiwi alien card magic throw";

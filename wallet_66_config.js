@@ -1,1 +1,1 @@
-var mnemonic = "scale beyond notice motion quiz goddess tourist roof slam empower major busy";
+var mnemonic = "gain pill employ gasp grant name episode express celery busy viable oblige";

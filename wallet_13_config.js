@@ -1,1 +1,1 @@
-var mnemonic = "must wild milk peasant vacant loud order fluid addict travel enemy deliver";
+var mnemonic = "gown tragic foil tooth rookie fish boost virtual object diet vacant obvious";

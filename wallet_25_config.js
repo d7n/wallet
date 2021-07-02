@@ -1,1 +1,1 @@
-var mnemonic = "rabbit soup yard lamp jealous twice edit master update defy wink please";
+var mnemonic = "upon surge bring quiz rice piano kid leg fiber price satoshi zebra";

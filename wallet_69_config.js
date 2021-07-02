@@ -1,1 +1,1 @@
-var mnemonic = "various harsh okay ignore panther clog people diary core treat aisle reunion";
+var mnemonic = "report weird payment breeze area helmet punch patient near excite figure parent";

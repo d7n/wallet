@@ -1,1 +1,1 @@
-var mnemonic = "fresh endorse animal valid staff later match gospel bubble young talk lizard";
+var mnemonic = "blouse worth wink move axis risk poverty board gain acoustic unfold lawn";

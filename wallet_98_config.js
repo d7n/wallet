@@ -1,1 +1,1 @@
-var mnemonic = "decrease discover obscure tray pair tragic dune coast road fever hair enjoy";
+var mnemonic = "truly potato weather arrive wreck cement road sustain jeans ice voice vault";

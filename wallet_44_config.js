@@ -1,1 +1,1 @@
-var mnemonic = "right melody warm hungry fantasy run loud clap mosquito flavor speak claim";
+var mnemonic = "staff same coach business talent love awake cat affair word find wall";

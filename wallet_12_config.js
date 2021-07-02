@@ -1,1 +1,1 @@
-var mnemonic = "situate arena age scare allow earth spike galaxy turkey truth cushion bless";
+var mnemonic = "grace antique humble leaf shell cross father powder digital panic duck night";

@@ -1,1 +1,1 @@
-var mnemonic = "eye noble sadness outer family design simple scorpion medal shoe portion tag";
+var mnemonic = "sheriff east beauty amused penalty team ensure glove require welcome build record";

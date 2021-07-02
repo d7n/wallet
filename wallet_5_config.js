@@ -1,1 +1,1 @@
-var mnemonic = "range evidence alpha runway fluid milk zero setup size orbit please nasty";
+var mnemonic = "rival upgrade turtle tray happy tortoise leader loyal disease adapt witness admit";

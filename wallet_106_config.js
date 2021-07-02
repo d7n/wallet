@@ -1,1 +1,1 @@
-var mnemonic = "secret mushroom voice quick chicken eagle dish wheat base define glimpse picnic";
+var mnemonic = "under hollow battle trick visual portion burger embrace depart vault long industry";

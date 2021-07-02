@@ -1,1 +1,1 @@
-var mnemonic = "spoil equal alley camera page effort mammal hat magic post peace barely";
+var mnemonic = "wrist recipe virus shuffle inspire fade stem hover result library arrive pulp";

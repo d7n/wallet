@@ -1,1 +1,1 @@
-var mnemonic = "east select retreat dilemma oxygen soup dawn album series coconut next avocado";
+var mnemonic = "science odor honey pause habit advance suffer boil error flush dice color";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic grit aspect little wool goose wire carpet pottery basket pink cherry";
+var mnemonic = "legal dance gospel swamp brass civil useless example boat afford episode depart";

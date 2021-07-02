@@ -1,1 +1,1 @@
-var mnemonic = "tide wife debris brand carry bracket assist reason left tower chuckle science";
+var mnemonic = "senior comfort honey concert someone tray armor cheap just chuckle pen yellow";

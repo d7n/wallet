@@ -1,1 +1,1 @@
-var mnemonic = "liquid delay fitness silver script eyebrow forget room lottery diamond now weapon";
+var mnemonic = "spike half loop boss immune grace cloud cherry dice crack lizard detail";

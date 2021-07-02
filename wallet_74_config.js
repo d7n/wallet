@@ -1,1 +1,1 @@
-var mnemonic = "luxury olympic photo syrup marble trash bean nephew scale cool curtain orchard";
+var mnemonic = "tornado mosquito today wall match defy broken foster ill resist what better";

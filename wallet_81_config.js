@@ -1,1 +1,1 @@
-var mnemonic = "target innocent wave run need monitor awake used piano cage ill battle";
+var mnemonic = "couple sting pelican science member tooth filter develop retire quiz loyal month";

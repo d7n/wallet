@@ -1,1 +1,1 @@
-var mnemonic = "planet excess demise double capital assault lens exist notable point view genuine";
+var mnemonic = "body admit hope cushion winner fortune body cake escape beach evil toy";

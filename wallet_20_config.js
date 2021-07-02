@@ -1,1 +1,1 @@
-var mnemonic = "decrease modify comfort power awake dinosaur item excess pave scan draft field";
+var mnemonic = "churn panther render check parade loop clump antique company slide try service";

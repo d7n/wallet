@@ -1,1 +1,1 @@
-var mnemonic = "corn high degree valve runway letter garlic wide document wrap message any";
+var mnemonic = "reveal dance prison radar olympic debris ranch bid ski toe element decade";

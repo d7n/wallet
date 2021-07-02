@@ -1,1 +1,1 @@
-var mnemonic = "goddess misery tenant mask finish future rule indoor unhappy cheap rate blur";
+var mnemonic = "people guilt innocent lab dust assume payment hamster kidney sausage robust lion";

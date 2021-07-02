@@ -1,1 +1,1 @@
-var mnemonic = "chicken crawl tortoise aspect rent quantum rose negative intact multiply possible text";
+var mnemonic = "bacon direct window canoe multiply lens faculty stereo spare stomach stock palm";

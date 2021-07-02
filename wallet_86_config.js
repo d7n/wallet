@@ -1,1 +1,1 @@
-var mnemonic = "bread chicken any release useless tent breeze brick lake renew energy wheat";
+var mnemonic = "switch bronze excite bulb oblige identify joke utility road replace mountain tackle";
