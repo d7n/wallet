@@ -1,1 +1,1 @@
-var mnemonic = "drill melt material inquiry real toss goddess post island genius tomato vague";
+var mnemonic = "hill image farm stem later distance various vibrant universe stamp century urban";

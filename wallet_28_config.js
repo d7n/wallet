@@ -1,1 +1,1 @@
-var mnemonic = "impact globe correct section tone fold remind company useful hedgehog forward sweet";
+var mnemonic = "vote offer domain amused bag sea off order blanket rifle drastic proof";

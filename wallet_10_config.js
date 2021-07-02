@@ -1,1 +1,1 @@
-var mnemonic = "alcohol message action deny dragon north novel mirror equip arrow obtain finger";
+var mnemonic = "repeat naive glow silly gadget because panther history attitude weird afraid alarm";

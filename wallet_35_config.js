@@ -1,1 +1,1 @@
-var mnemonic = "raise wool blossom fancy fluid forest music above lucky grace nation tunnel";
+var mnemonic = "response two radio february trial shell find tiny cigar mother execute clerk";

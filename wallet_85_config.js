@@ -1,1 +1,1 @@
-var mnemonic = "exile pulse screen lunar olive shoe regular blame lawsuit rebuild rule giraffe";
+var mnemonic = "derive bag erupt cheap galaxy fresh oblige desk solar basic observe achieve";

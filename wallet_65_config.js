@@ -1,1 +1,1 @@
-var mnemonic = "utility dance salt pet south lawn correct oval rapid later foster mean";
+var mnemonic = "stamp derive left firm hire vital puzzle engine unable dynamic upper banner";

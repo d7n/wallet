@@ -1,1 +1,1 @@
-var mnemonic = "phrase blast cheese corn total spike abandon piece valid icon swallow develop";
+var mnemonic = "zoo voice spatial foam elbow payment keep coach draw praise deputy impose";

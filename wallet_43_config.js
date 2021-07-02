@@ -1,1 +1,1 @@
-var mnemonic = "say among busy sad stuff grit behave spider bonus tooth come tray";
+var mnemonic = "success engine must clog motion spare scatter target stem toss vast damage";

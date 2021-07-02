@@ -1,1 +1,1 @@
-var mnemonic = "reflect tragic chaos embody knock dad border release devote balcony conduct salon";
+var mnemonic = "spatial include run swift resemble farm income evil ecology stick apple recycle";

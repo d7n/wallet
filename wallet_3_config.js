@@ -1,1 +1,1 @@
-var mnemonic = "grain coffee leg hill kite describe bike dove quick cradle twin addict";
+var mnemonic = "attitude ritual gorilla live napkin crunch round off clever plug wrong disagree";

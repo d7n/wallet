@@ -1,1 +1,1 @@
-var mnemonic = "occur earth leisure object offer drum message write half rotate network surprise";
+var mnemonic = "code napkin provide cluster crucial burger float attend polar blood crisp timber";

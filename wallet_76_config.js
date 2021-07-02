@@ -1,1 +1,1 @@
-var mnemonic = "female case coin fetch zebra sister prison sand sell fringe apple nice";
+var mnemonic = "pink olive despair federal answer exile vessel during bind wall betray come";

@@ -1,1 +1,1 @@
-var mnemonic = "slab believe capital abstract sniff column nuclear athlete limb spray sick thank";
+var mnemonic = "few vague only home lumber egg picture measure air crouch cool liar";

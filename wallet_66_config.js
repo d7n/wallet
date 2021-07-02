@@ -1,1 +1,1 @@
-var mnemonic = "search fade fence beyond feature permit museum arm crop outer coral buffalo";
+var mnemonic = "ride fit sketch tower panda clock crop gasp odor daring region elbow";

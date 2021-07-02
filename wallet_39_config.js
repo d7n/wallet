@@ -1,1 +1,1 @@
-var mnemonic = "stool bone color exhaust green keep guilt cloth that produce hospital mutual";
+var mnemonic = "step hair phrase truth change rice grape upon beach hold fat win";

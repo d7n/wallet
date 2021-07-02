@@ -1,1 +1,1 @@
-var mnemonic = "moral olympic allow sure cereal climb transfer together soccer daughter soft another";
+var mnemonic = "offer bicycle humor shell song hungry carbon truth enhance quick frost decade";

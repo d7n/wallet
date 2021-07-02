@@ -1,1 +1,1 @@
-var mnemonic = "ready tuition climb bean balance market screen voyage baby assume sting goat";
+var mnemonic = "sibling fall kiwi cycle always oval wide verb donkey earn foster sad";

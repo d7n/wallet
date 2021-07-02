@@ -1,1 +1,1 @@
-var mnemonic = "pelican stock clap alley twist mushroom rabbit cloth vague own again legal";
+var mnemonic = "ritual knock movie same prison brick amazing inject salt boat gold mix";

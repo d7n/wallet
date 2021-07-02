@@ -1,1 +1,1 @@
-var mnemonic = "where vehicle rigid trust receive useless runway mango catalog flash romance run";
+var mnemonic = "hope hobby ceiling evidence nut team oblige rural chef curve oval today";

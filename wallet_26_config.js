@@ -1,1 +1,1 @@
-var mnemonic = "below rally enroll green pen kidney recall shoulder social auto future bar";
+var mnemonic = "scene frost love sick knee task adapt motion bicycle birth gun curtain";

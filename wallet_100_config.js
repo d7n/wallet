@@ -1,1 +1,1 @@
-var mnemonic = "mind reflect outer hill pipe receive entry game trophy two side space";
+var mnemonic = "repeat seat laugh forum draw regular favorite daring grant throw analyst gas";

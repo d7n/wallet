@@ -1,1 +1,1 @@
-var mnemonic = "steak chronic upon circle submit language clutch shift hair street useless march";
+var mnemonic = "dry pluck train viable process mother child oyster toddler save fiber verify";

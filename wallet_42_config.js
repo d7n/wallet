@@ -1,1 +1,1 @@
-var mnemonic = "idea flush angle ancient maid chair license spatial below join video favorite";
+var mnemonic = "song push lion thrive angry impact rose glide morning taxi sort draft";

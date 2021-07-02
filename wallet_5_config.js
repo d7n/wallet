@@ -1,1 +1,1 @@
-var mnemonic = "side pioneer engage false buzz unit shrug swing month faint remember dose";
+var mnemonic = "miracle circle derive decade tourist scrap network story visual recycle cable address";

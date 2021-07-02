@@ -1,1 +1,1 @@
-var mnemonic = "card issue inmate apart oppose globe receive seven offer crunch certain bind";
+var mnemonic = "bike unhappy adjust parent weather keen universe puzzle time cream dirt peace";

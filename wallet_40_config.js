@@ -1,1 +1,1 @@
-var mnemonic = "pave major fabric turtle impact member illness coconut pride subject inherit demise";
+var mnemonic = "over raw gaze story spell ask stay hip donate busy bean fix";

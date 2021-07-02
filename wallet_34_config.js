@@ -1,1 +1,1 @@
-var mnemonic = "quality hazard layer follow meat pizza rate chapter ability card thank juice";
+var mnemonic = "junk glue office plate vibrant round kangaroo fit report mask rule immune";

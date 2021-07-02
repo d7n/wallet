@@ -1,1 +1,1 @@
-var mnemonic = "celery ring mouse leader sick weekend shop hunt beach require idle live";
+var mnemonic = "pudding raise fly test seed gloom bachelor equip rifle injury elevator skull";

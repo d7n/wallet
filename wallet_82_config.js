@@ -1,1 +1,1 @@
-var mnemonic = "friend kidney airport grow fox regret ill mad way speak beach axis";
+var mnemonic = "dolphin gun garment pudding knock time gospel burst mutual ramp dirt sign";

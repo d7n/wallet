@@ -1,1 +1,1 @@
-var mnemonic = "relax cool lens misery beyond wolf double vibrant flight broken radar warm";
+var mnemonic = "squeeze owner barely advance reveal ankle problem sibling pitch else noble adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "word soon wheel creek now oblige omit drastic feature icon actual decorate";
+var mnemonic = "orient daring slight silly surge wall south scorpion million together paper oxygen";

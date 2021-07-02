@@ -1,1 +1,1 @@
-var mnemonic = "exile return genre mixed south world winner identify amused blast bread elite";
+var mnemonic = "hedgehog hospital arctic easy train hotel duty trust whale project van torch";

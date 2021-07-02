@@ -1,1 +1,1 @@
-var mnemonic = "expect trumpet income muffin shop canvas raven rich merge pattern benefit melody";
+var mnemonic = "ordinary submit organ dog deer prison subway kingdom voice avocado member sentence";

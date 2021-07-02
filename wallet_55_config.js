@@ -1,1 +1,1 @@
-var mnemonic = "deal receive desk slogan paper jealous canal inherit erupt quick throw pulp";
+var mnemonic = "capable merit equal appear half girl innocent language banner rack chef rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "kit salon convince divorce toddler evolve congress decade leader wash change easy";
+var mnemonic = "glimpse tone cereal matter defy dog theme soon wagon better cat skull";

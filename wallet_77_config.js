@@ -1,1 +1,1 @@
-var mnemonic = "output verify arrange control lawn town deputy convince bind okay under credit";
+var mnemonic = "lottery worry hero crush runway bomb canyon educate later easily lock toilet";

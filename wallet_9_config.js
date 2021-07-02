@@ -1,1 +1,1 @@
-var mnemonic = "chaos ensure addict wheel grow source front amazing fitness maze three motion";
+var mnemonic = "smart blue chat cross degree suit young interest fix pig pitch garment";

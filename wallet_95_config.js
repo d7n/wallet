@@ -1,1 +1,1 @@
-var mnemonic = "analyst try stage joke another pyramid inch brave ladder notice usual impose";
+var mnemonic = "shiver art solution august luggage jungle elegant mechanic submit wheat business birth";

@@ -1,1 +1,1 @@
-var mnemonic = "tell kingdom dress mirror maid surface shoe stool crime bomb jar slush";
+var mnemonic = "motor aunt place guilt barrel novel rose puzzle pen tail tomato mention";

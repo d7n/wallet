@@ -1,1 +1,1 @@
-var mnemonic = "decline chest shop razor mass honey wire author rent enforce fetch cousin";
+var mnemonic = "drill drip lyrics verify autumn grid ethics gesture man satoshi what alone";

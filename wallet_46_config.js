@@ -1,1 +1,1 @@
-var mnemonic = "timber mobile cargo silly crunch lake then shallow flat sponsor setup ensure";
+var mnemonic = "scout alley transfer fade fiscal tide balance screen empty bachelor absent life";

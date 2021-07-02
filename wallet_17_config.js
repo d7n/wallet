@@ -1,1 +1,1 @@
-var mnemonic = "student goddess brand draw guess behind depend grab blush harbor enter sweet";
+var mnemonic = "poem shrimp believe nice melody share bottom vapor thank raven future neck";

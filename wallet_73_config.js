@@ -1,1 +1,1 @@
-var mnemonic = "toy rhythm fruit chef entry myth card resource awake collect scout quick";
+var mnemonic = "chuckle beef polar pattern force gaze guard gossip nose govern oval soldier";

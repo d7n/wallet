@@ -1,1 +1,1 @@
-var mnemonic = "tuna piano inform weekend grocery tennis truth document climb tomorrow prosper morning";
+var mnemonic = "better believe phrase step auto torch offer jelly appear frown ecology street";

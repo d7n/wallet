@@ -1,1 +1,1 @@
-var mnemonic = "absorb come quick faint donate obvious citizen sauce monster dolphin aerobic sudden";
+var mnemonic = "thought luggage trust dance coffee gravity subway noble hurdle weird discover sand";

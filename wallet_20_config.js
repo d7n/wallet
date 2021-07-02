@@ -1,1 +1,1 @@
-var mnemonic = "fish exhibit text siege essay utility exclude share marriage olive chronic clown";
+var mnemonic = "weird loan dentist response safe oven marriage resemble security analyst multiply dial";

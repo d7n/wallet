@@ -1,1 +1,1 @@
-var mnemonic = "frog palm faint pole boss like tank fabric offer attack sure point";
+var mnemonic = "barrel purchase affair click team solution interest seven beyond tray mention buffalo";

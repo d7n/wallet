@@ -1,1 +1,1 @@
-var mnemonic = "staff hobby foil width legal level voice family half relief zero coffee";
+var mnemonic = "weasel debris ritual outside advance student okay galaxy kite urban depend before";

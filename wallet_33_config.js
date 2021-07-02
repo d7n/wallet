@@ -1,1 +1,1 @@
-var mnemonic = "over extend spare latin foil they mule broom wet idea devote parent";
+var mnemonic = "slim addict equip torch net enforce tool horn cause try legend crystal";

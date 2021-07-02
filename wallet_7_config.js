@@ -1,1 +1,1 @@
-var mnemonic = "ten there exact town cross benefit student coyote bar approve cluster anxiety";
+var mnemonic = "pipe nest ostrich pass angle solve face learn monitor number alarm poem";

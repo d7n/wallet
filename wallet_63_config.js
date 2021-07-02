@@ -1,1 +1,1 @@
-var mnemonic = "curious green cart sleep second relief thought laundry panther uncover nice chapter";
+var mnemonic = "verify scare master affair reveal shoulder main pigeon cable pretty powder service";

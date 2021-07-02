@@ -1,1 +1,1 @@
-var mnemonic = "giraffe faith noise hotel surround scare punch fish unfair cat slab waste";
+var mnemonic = "unfold man cook balcony shallow there hour fix dumb gather venture ripple";

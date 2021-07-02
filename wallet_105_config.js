@@ -1,1 +1,1 @@
-var mnemonic = "found ladder food oak urge soda rate since volcano always total practice";
+var mnemonic = "border clean damp eyebrow list champion badge quote banner farm special viable";

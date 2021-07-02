@@ -1,1 +1,1 @@
-var mnemonic = "patient control eyebrow nest carry glimpse blade pill sudden disorder venue matter";
+var mnemonic = "village novel eye predict ghost venue mask actual truth margin save food";

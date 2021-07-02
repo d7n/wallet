@@ -1,1 +1,1 @@
-var mnemonic = "ability panda exclude admit moon head another limit crowd logic gold arrow";
+var mnemonic = "powder essay drill hint oxygen rich output lunch usual require kidney base";

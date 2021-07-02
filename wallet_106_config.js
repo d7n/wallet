@@ -1,1 +1,1 @@
-var mnemonic = "pact wild bird more spare soul once bicycle shed tree broom mother";
+var mnemonic = "afraid cousin nurse cool oxygen process provide join miss blood benefit acoustic";

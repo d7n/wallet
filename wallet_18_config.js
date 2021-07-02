@@ -1,1 +1,1 @@
-var mnemonic = "avocado monster adapt size curve kangaroo ordinary gravity dynamic marble belt bus";
+var mnemonic = "leader sustain occur gesture kind turkey husband arctic wrist update candy eternal";

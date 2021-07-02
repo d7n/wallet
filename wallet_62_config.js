@@ -1,1 +1,1 @@
-var mnemonic = "donate toe disease same bounce wrap beauty dance device evidence parrot neither";
+var mnemonic = "rich wheat divorce feel expand salad lunar crucial raw hybrid hub fall";

@@ -1,1 +1,1 @@
-var mnemonic = "observe before loan creek expose cat mixture visual pulp afraid dust trigger";
+var mnemonic = "outside ranch shine differ fitness fog across that insect brother option butter";

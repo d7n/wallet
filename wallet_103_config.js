@@ -1,1 +1,1 @@
-var mnemonic = "reform wheat improve nation quarter buffalo pig onion forum roast fold submit";
+var mnemonic = "excess drastic family cake mixture electric chalk sword climb library music identify";

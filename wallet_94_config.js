@@ -1,1 +1,1 @@
-var mnemonic = "frozen matrix struggle ten boost already outside inmate image prefer grass coast";
+var mnemonic = "quit rain spray swallow portion yard eagle ice lesson elevator stadium strike";

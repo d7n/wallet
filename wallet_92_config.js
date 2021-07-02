@@ -1,1 +1,1 @@
-var mnemonic = "breeze divorce cry obvious village table oval coyote debris beach expire fetch";
+var mnemonic = "chef bind lend guide core notice spread document envelope clock position vibrant";

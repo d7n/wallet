@@ -1,1 +1,1 @@
-var mnemonic = "humor chef dawn spoon valid dress equip bottom purpose hat silly gold";
+var mnemonic = "home word unveil sadness coin noble used eternal sweet glance material put";

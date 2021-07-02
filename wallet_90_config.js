@@ -1,1 +1,1 @@
-var mnemonic = "crop divorce empty boss crystal way garment connect album young multiply flight";
+var mnemonic = "worth tube regular basic elephant tell human observe just woman oak ability";

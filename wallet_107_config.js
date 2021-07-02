@@ -1,1 +1,1 @@
-var mnemonic = "sound shrimp denial pause warm liberty legend stand drip glue thing rifle";
+var mnemonic = "deal earth next wise raccoon infant tattoo velvet wrong slush rebel arena";

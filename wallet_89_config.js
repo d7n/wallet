@@ -1,1 +1,1 @@
-var mnemonic = "firm amateur boat second swift obvious power fee resemble funny fluid evidence";
+var mnemonic = "twelve husband dumb ridge verify inner bless armor steel gentle among grab";

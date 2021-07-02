@@ -1,1 +1,1 @@
-var mnemonic = "flame lock marine rather casual answer improve disease game volume steel spirit";
+var mnemonic = "fluid top wisdom adjust alien apart family visa pony traffic upon random";

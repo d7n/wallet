@@ -1,1 +1,1 @@
-var mnemonic = "reveal always check neck cycle position regular tank fame goat zone alone";
+var mnemonic = "elite inside safe pizza neutral sting brother member crash tape lucky stereo";

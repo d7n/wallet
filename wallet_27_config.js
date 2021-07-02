@@ -1,1 +1,1 @@
-var mnemonic = "similar search either token once lunch canal eyebrow dish actual hard fatal";
+var mnemonic = "decrease scissors adapt punch opera hen mechanic moon anger link enroll frequent";

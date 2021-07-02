@@ -1,1 +1,1 @@
-var mnemonic = "toilet vendor foot youth clean credit bunker scissors laundry want brand demand";
+var mnemonic = "spend car feed license toddler season matter morning increase spray barely obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "amused idle dilemma churn clay fault elbow infant life sense eyebrow noodle";
+var mnemonic = "rural sure solid bag helmet major monkey sock prosper north middle degree";

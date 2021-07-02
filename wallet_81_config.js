@@ -1,1 +1,1 @@
-var mnemonic = "process unfair gentle then cube letter fix tired meat female festival tree";
+var mnemonic = "present region burst cost essay regular strike novel uniform safe cram assault";

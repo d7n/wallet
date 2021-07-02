@@ -1,1 +1,1 @@
-var mnemonic = "battle prefer woman maid voyage quote case airport either effort isolate equal";
+var mnemonic = "oven trial upon buzz display jealous dad rifle path raise humor enact";

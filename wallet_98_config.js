@@ -1,1 +1,1 @@
-var mnemonic = "digital frown erase dream frost pioneer vital monkey okay airport virtual diary";
+var mnemonic = "fiber angle peace trust can twin help pond stamp win hamster phone";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal rabbit payment parrot endorse snap poverty injury under canal uncle claim";
+var mnemonic = "illness cycle into script swear give silk object buzz exercise tribe catalog";

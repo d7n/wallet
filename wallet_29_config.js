@@ -1,1 +1,1 @@
-var mnemonic = "regret fatigue excite return make convince decline crew bless enough parent print";
+var mnemonic = "rural remain auction safe dinosaur globe direct fortune dinner recipe ball clock";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete trumpet slush dwarf hungry aerobic post absent merry debris inhale peace";
+var mnemonic = "glad common harsh royal critic pole machine flame select cash snow shell";

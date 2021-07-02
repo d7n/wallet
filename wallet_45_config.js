@@ -1,1 +1,1 @@
-var mnemonic = "mandate wife human blossom recall develop attract razor hello layer quiz friend";
+var mnemonic = "ski real leave voyage cricket turkey power section damage diet account feature";

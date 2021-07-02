@@ -1,1 +1,1 @@
-var mnemonic = "ridge file sad stable desk net already history upon possible biology rebel";
+var mnemonic = "genuine raise point south seminar visa long stage motion apple layer actress";

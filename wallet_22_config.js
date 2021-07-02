@@ -1,1 +1,1 @@
-var mnemonic = "melt inside suffer between melody zebra deer feel chair bridge permit roast";
+var mnemonic = "young cheese clinic spray sausage leopard pen below receive home frog fold";

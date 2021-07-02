@@ -1,1 +1,1 @@
-var mnemonic = "zero joy during spike obey screen later slab sheriff nominee swallow space";
+var mnemonic = "voyage glove observe cupboard angry metal doll toe fiber tunnel success solar";

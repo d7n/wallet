@@ -1,1 +1,1 @@
-var mnemonic = "grant tattoo staff bachelor comfort original arctic tunnel dizzy repeat hand allow";
+var mnemonic = "cross canal repeat swap subway pear mango kangaroo tennis wrap butter tiny";

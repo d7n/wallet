@@ -1,1 +1,1 @@
-var mnemonic = "brother essay eye monitor enlist perfect dismiss double bless mobile burst spider";
+var mnemonic = "absurd reward marriage yellow garment laptop album arrest tornado vicious swift airport";

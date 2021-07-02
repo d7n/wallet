@@ -1,1 +1,1 @@
-var mnemonic = "issue animal wire amazing release gesture body course beyond denial mix year";
+var mnemonic = "bright hurt dragon fold letter raise regular sight very wood pencil inhale";

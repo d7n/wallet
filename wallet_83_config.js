@@ -1,1 +1,1 @@
-var mnemonic = "piece lonely history scheme twice weather clip fiction priority stereo mad push";
+var mnemonic = "box fortune mercy head bullet autumn plate fog belt floor avocado afford";

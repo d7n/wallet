@@ -1,1 +1,1 @@
-var mnemonic = "riot oyster bag bean nature adjust enter sing patient symptom cash penalty";
+var mnemonic = "conduct travel skin quit material ten renew siege because connect always plug";

@@ -1,1 +1,1 @@
-var mnemonic = "resource essay car omit bracket embark parade rely attitude wine survey curious";
+var mnemonic = "real stadium author easy replace man camera lizard ride tourist asthma crazy";

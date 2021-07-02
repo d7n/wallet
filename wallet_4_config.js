@@ -1,1 +1,1 @@
-var mnemonic = "crumble stock wear danger woman raw sphere firm glide sadness seed usual";
+var mnemonic = "garlic pet junk lava pepper isolate fever match noise cotton diet device";

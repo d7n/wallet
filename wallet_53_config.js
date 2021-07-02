@@ -1,1 +1,1 @@
-var mnemonic = "flush pledge raven tragic magic board wheat elite warfare razor angry entire";
+var mnemonic = "brisk sorry shock doctor train stadium forest stuff shine sadness balcony symbol";

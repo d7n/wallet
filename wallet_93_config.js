@@ -1,1 +1,1 @@
-var mnemonic = "month tattoo upper spread object trigger jump hire visa sheriff question senior";
+var mnemonic = "gate naive detail park liberty wrestle exhibit inspire ramp jar moon eagle";

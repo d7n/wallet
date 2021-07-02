@@ -1,1 +1,1 @@
-var mnemonic = "fold wall obtain mail puzzle force pulse evoke west drive settle pilot";
+var mnemonic = "sad lonely viable try egg already device able fox rebuild goat vacant";

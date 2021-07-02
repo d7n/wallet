@@ -1,1 +1,1 @@
-var mnemonic = "misery expose gadget bench skull timber helmet urge library act merit say";
+var mnemonic = "bag term nut tide cheap risk napkin public lyrics cloud wine can";

@@ -1,1 +1,1 @@
-var mnemonic = "soul crew exhibit retire fat park game problem speed swing panther oak";
+var mnemonic = "dial luggage into balcony just unfair grace together pact boss amazing bar";

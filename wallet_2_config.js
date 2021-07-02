@@ -1,1 +1,1 @@
-var mnemonic = "load census range core empty round hospital valve hole lady human click";
+var mnemonic = "slab sibling grit push segment flat interest illegal near glare deal secret";
