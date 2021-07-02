@@ -1,1 +1,1 @@
-var mnemonic = "connect road struggle pelican present popular call equal pond best position kiwi";
+var mnemonic = "lunch endorse denial recall present then truly unlock village erase hundred rival";

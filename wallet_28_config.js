@@ -1,1 +1,1 @@
-var mnemonic = "bomb enable various purchase life slice catch apology below train question person";
+var mnemonic = "worth surge recall feature bracket region mask also best gesture opinion one";

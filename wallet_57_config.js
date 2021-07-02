@@ -1,1 +1,1 @@
-var mnemonic = "rent common village weapon party session jazz pottery double add festival escape";
+var mnemonic = "shadow luxury rapid special volcano hen toy object health exact physical carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "arena style skirt siren flower garage burden tragic slide trumpet over firm";
+var mnemonic = "post wing poverty bargain shield steel perfect panther creek stone weasel apple";

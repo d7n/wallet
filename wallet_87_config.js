@@ -1,1 +1,1 @@
-var mnemonic = "front solar poverty curious siege tag squirrel smile term sight unique hurdle";
+var mnemonic = "puzzle thunder alley ability emerge nose october funny siren road swear venture";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion faculty wagon dream armor demise short throw segment wait tiny ocean";
+var mnemonic = "balance address when loop twenty crash shiver fatal suffer pink token apart";

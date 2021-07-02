@@ -1,1 +1,1 @@
-var mnemonic = "flee toddler join want blossom divide brief measure hen bomb nuclear bundle";
+var mnemonic = "finish hobby culture crystal avoid author good admit believe rain layer farm";

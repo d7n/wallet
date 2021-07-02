@@ -1,1 +1,1 @@
-var mnemonic = "model panel shiver host educate fresh circle nurse film achieve thank speed";
+var mnemonic = "amused emerge leopard food siege reject blade bracket caught sudden reflect physical";

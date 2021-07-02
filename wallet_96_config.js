@@ -1,1 +1,1 @@
-var mnemonic = "electric obvious meadow portion popular board stairs rose glance spatial unfold employ";
+var mnemonic = "sphere bottom ridge paddle giant crystal nest coyote strong pull rebuild code";

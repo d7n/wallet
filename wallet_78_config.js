@@ -1,1 +1,1 @@
-var mnemonic = "narrow inflict stove style kind novel basket grit shrug near report field";
+var mnemonic = "fit enact antique tube youth tragic abuse because extra celery thank bright";

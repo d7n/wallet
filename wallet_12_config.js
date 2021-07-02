@@ -1,1 +1,1 @@
-var mnemonic = "wire glimpse buyer drum impact video day someone film immune mammal baby";
+var mnemonic = "invite solar right donor toast acoustic athlete neither wing toe orient awesome";

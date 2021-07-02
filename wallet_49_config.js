@@ -1,1 +1,1 @@
-var mnemonic = "obscure fame melody uncle supreme skin among ride promote magnet undo girl";
+var mnemonic = "mule all tail smile network bike topple decrease remember increase miracle useless";

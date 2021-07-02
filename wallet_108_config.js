@@ -1,1 +1,1 @@
-var mnemonic = "hungry bulk alarm miracle retreat spin survey pistol apart finger shed fantasy";
+var mnemonic = "dice virus spoon shoe mass arm two expand open limit lottery trash";

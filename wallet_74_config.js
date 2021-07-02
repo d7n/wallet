@@ -1,1 +1,1 @@
-var mnemonic = "elite energy shoot mesh noise time disease soup habit torch width tree";
+var mnemonic = "cup fiction flag pair banana depth surround elite black pony exclude monitor";

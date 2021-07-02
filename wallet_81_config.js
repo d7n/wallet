@@ -1,1 +1,1 @@
-var mnemonic = "enough breeze vocal volume furnace obtain angry travel virus uncover sentence turkey";
+var mnemonic = "erase chicken fragile loan silver plunge where mimic whip panel model liar";

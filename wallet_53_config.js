@@ -1,1 +1,1 @@
-var mnemonic = "squeeze green calm favorite hungry filter sentence trash student illness burden auction";
+var mnemonic = "penalty life outdoor emerge affair sound series tired grace turkey depth velvet";

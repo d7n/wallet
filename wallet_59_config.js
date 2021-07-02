@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon top evidence simple remind original arch mouse sell crane improve raise";
+var mnemonic = "weekend tell royal law visit pyramid measure window helmet seat pool spike";

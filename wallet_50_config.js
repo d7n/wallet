@@ -1,1 +1,1 @@
-var mnemonic = "response mosquito vanish ribbon medal move invite weapon allow magic coral spend";
+var mnemonic = "require couch tooth hen snack plug video uniform symptom manage develop mom";

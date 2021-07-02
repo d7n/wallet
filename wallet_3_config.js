@@ -1,1 +1,1 @@
-var mnemonic = "prosper impact solution sure pretty provide riot above peace goddess glare elbow";
+var mnemonic = "organ access crew camp erode bid arm demand bacon join scrub cheap";

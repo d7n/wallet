@@ -1,1 +1,1 @@
-var mnemonic = "sock snow right series shuffle liberty claim nature song oyster dog good";
+var mnemonic = "ticket pass glory still exact buzz weather lemon soul any shoulder deer";

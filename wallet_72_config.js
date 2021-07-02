@@ -1,1 +1,1 @@
-var mnemonic = "document dragon satoshi curious dirt process mirror misery atom become critic grocery";
+var mnemonic = "tiny elevator adult syrup lens fragile drift balance volcano lonely limit rural";

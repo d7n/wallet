@@ -1,1 +1,1 @@
-var mnemonic = "finish patrol chat gym panda casino allow laugh future ghost dose office";
+var mnemonic = "bring hover pool gaze hotel assist horn turtle fossil eager furnace border";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose depend bleak little butter grape scan perfect story critic chase matter";
+var mnemonic = "ceiling arena artist desert cat couple bicycle inherit knee hazard when hundred";

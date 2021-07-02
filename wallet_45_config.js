@@ -1,1 +1,1 @@
-var mnemonic = "game mail boost obvious follow large good curious tiny portion tribe short";
+var mnemonic = "legal fitness grain carpet ripple come time film soul birth trick warrior";

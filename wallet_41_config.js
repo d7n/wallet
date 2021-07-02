@@ -1,1 +1,1 @@
-var mnemonic = "cradle cute useless custom bomb road tragic shoot fog syrup chalk giggle";
+var mnemonic = "borrow mail road desert bundle ethics critic captain number never evidence tide";

@@ -1,1 +1,1 @@
-var mnemonic = "soft visit power net rocket regret soup rack powder gallery sand churn";
+var mnemonic = "fence illness matter carry penalty spawn eternal doll brisk dress eager opinion";

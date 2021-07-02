@@ -1,1 +1,1 @@
-var mnemonic = "blouse slow feel saddle check staff victory crane secret hat dance wreck";
+var mnemonic = "main man muscle switch manual trim quality fault donkey mule frequent motor";

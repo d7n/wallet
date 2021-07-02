@@ -1,1 +1,1 @@
-var mnemonic = "cash response glory sort neutral sadness agree bag moral same rapid stand";
+var mnemonic = "bench edge exist reward anchor market require edge reduce swap glory genre";

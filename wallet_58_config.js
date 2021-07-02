@@ -1,1 +1,1 @@
-var mnemonic = "forward quality aisle animal arrive kitten junior fiscal perfect nose tobacco liar";
+var mnemonic = "vintage renew connect divorce essay north assist announce reveal neutral walnut scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "sad else that dutch major actor giant parent turn door royal duck";
+var mnemonic = "rain general month tumble chief prefer oven inner celery olive island when";

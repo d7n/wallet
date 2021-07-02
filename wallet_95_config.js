@@ -1,1 +1,1 @@
-var mnemonic = "spy rude hard ozone inflict shoot chalk decide peasant trap indoor harbor";
+var mnemonic = "earn click concert table kingdom wet merry venture tobacco impact choose wife";

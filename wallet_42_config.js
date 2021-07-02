@@ -1,1 +1,1 @@
-var mnemonic = "casual gadget loyal you fault boy like tenant topple armed hotel aware";
+var mnemonic = "tray act exist flock charge either civil shoulder random inquiry number chaos";

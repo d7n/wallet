@@ -1,1 +1,1 @@
-var mnemonic = "entire exchange region aerobic bicycle obey click pretty addict video armor manage";
+var mnemonic = "apple oil connect ready cruise large electric mansion balance unit eager fire";

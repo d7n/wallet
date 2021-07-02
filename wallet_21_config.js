@@ -1,1 +1,1 @@
-var mnemonic = "shove basic catch vehicle blouse pupil ordinary staff spend basic stone rude";
+var mnemonic = "tunnel sock pretty shrimp charge party tank car gaze spray immense street";

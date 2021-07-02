@@ -1,1 +1,1 @@
-var mnemonic = "actor noodle december defy child allow shiver lawn soldier pass visual diet";
+var mnemonic = "tag goddess helmet talk giggle crush shoe level debate aware flash vintage";

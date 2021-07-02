@@ -1,1 +1,1 @@
-var mnemonic = "sting gravity also choice brisk dream borrow tool urban flame used bread";
+var mnemonic = "trigger brand sauce crazy habit idle repair foster print hood seek apology";

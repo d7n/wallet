@@ -1,1 +1,1 @@
-var mnemonic = "sniff industry column trumpet buzz trust mixed swim fan either unknown logic";
+var mnemonic = "avoid toss drive bundle one cart arrive idea siren fiber furnace other";

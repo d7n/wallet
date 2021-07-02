@@ -1,1 +1,1 @@
-var mnemonic = "obtain hint they pen mention once guitar giggle club lumber salmon sausage";
+var mnemonic = "prosper mule coral police panda audit floor hybrid vote area seven magnet";

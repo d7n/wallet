@@ -1,1 +1,1 @@
-var mnemonic = "wreck siren nephew shoot ugly deposit jeans inform joy start purchase quick";
+var mnemonic = "chuckle wonder hospital captain transfer exhibit gesture diary craft wolf eye matter";

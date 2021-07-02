@@ -1,1 +1,1 @@
-var mnemonic = "own tomorrow turn chief property sea cactus desk final drum material party";
+var mnemonic = "side rain rough discover across citizen supply guilt vibrant assist luggage maple";

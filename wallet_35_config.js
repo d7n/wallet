@@ -1,1 +1,1 @@
-var mnemonic = "coffee season hire strike clock cake culture focus inch damage cube leave";
+var mnemonic = "bus ahead humble exile isolate carbon height yard gym deputy genius antique";

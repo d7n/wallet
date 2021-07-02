@@ -1,1 +1,1 @@
-var mnemonic = "shadow lounge able image lock fall verb purity sting similar sea sure";
+var mnemonic = "toss section month eyebrow key kidney hub web love basket box protect";

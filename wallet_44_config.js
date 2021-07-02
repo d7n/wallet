@@ -1,1 +1,1 @@
-var mnemonic = "citizen bright discover assume coast lunch nature then regret buffalo toy start";
+var mnemonic = "frame scale mango act sibling wrestle hybrid chuckle ozone nurse cost pig";

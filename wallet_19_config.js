@@ -1,1 +1,1 @@
-var mnemonic = "only island devote glad task rural decline cactus canoe lounge invite toast";
+var mnemonic = "shoulder motion prepare pottery void bus arrange erupt pledge claim relax badge";

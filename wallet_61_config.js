@@ -1,1 +1,1 @@
-var mnemonic = "horror rigid fatigue match bunker this grab gaze video human miss pigeon";
+var mnemonic = "naive depend pole noodle illness useless acoustic divorce seek thunder there gas";

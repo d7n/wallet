@@ -1,1 +1,1 @@
-var mnemonic = "whale energy again pet kingdom weasel wool harvest rate muffin robot barrel";
+var mnemonic = "wear carpet voyage section symptom boil dirt veteran hobby ten path rival";

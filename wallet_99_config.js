@@ -1,1 +1,1 @@
-var mnemonic = "lock rare fall one comfort frog bean split find crime badge fault";
+var mnemonic = "genuine flush trend core toddler menu trade manual leaf exotic shine illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "grant toward core define ridge cheap strike strong vocal radar olympic speak";
+var mnemonic = "banner scan vault oil forum nest panel crucial author flower capable cliff";

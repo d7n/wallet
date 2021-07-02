@@ -1,1 +1,1 @@
-var mnemonic = "average lift under sugar tomato bridge galaxy cinnamon catch able holiday ramp";
+var mnemonic = "bench dance pioneer walnut couch noble practice cupboard second acid poem pistol";

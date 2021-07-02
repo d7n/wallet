@@ -1,1 +1,1 @@
-var mnemonic = "broom phone process fever video vicious empower nose simple feature wine second";
+var mnemonic = "fix pride aware flight seed vapor life car farm mammal chalk grace";

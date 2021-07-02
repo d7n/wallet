@@ -1,1 +1,1 @@
-var mnemonic = "gasp spoon error torch will apple double pizza bonus relief lunar twice";
+var mnemonic = "type cherry diet amazing shuffle blue recall install immense ask hidden kind";

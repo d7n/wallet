@@ -1,1 +1,1 @@
-var mnemonic = "emerge walnut yard climb unhappy motor west junior foster peace wish survey";
+var mnemonic = "festival phrase inherit school involve hundred scrap city health electric pause beauty";

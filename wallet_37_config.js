@@ -1,1 +1,1 @@
-var mnemonic = "picnic vendor affair unit frog math taxi income right innocent ranch web";
+var mnemonic = "best slam flat noble exhaust begin current stomach puppy beyond emerge ginger";

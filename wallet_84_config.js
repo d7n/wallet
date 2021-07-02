@@ -1,1 +1,1 @@
-var mnemonic = "stone hurry muscle faint dog extra inner average divert minor planet vague";
+var mnemonic = "tongue course swing inside motion remain infant require genuine note agree village";

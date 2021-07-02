@@ -1,1 +1,1 @@
-var mnemonic = "approve ripple torch reject culture plate prison file ridge ill siren lonely";
+var mnemonic = "around inquiry rather license struggle piece dove friend exhibit clump kid frog";

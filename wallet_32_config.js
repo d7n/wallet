@@ -1,1 +1,1 @@
-var mnemonic = "alpha sample surprise keen invest team typical copper rough nothing man toast";
+var mnemonic = "dawn farm lucky whisper tomato piece bunker together someone pigeon film tattoo";

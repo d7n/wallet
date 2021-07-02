@@ -1,1 +1,1 @@
-var mnemonic = "change baby hockey popular dish special laundry balance month series trial vital";
+var mnemonic = "foil stay measure festival gesture grant order waste matrix dragon alcohol oak";

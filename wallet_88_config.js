@@ -1,1 +1,1 @@
-var mnemonic = "hero alcohol horse mango leader farm extra work gym until dentist panic";
+var mnemonic = "feel paddle all video matrix canyon garlic pizza buzz matter execute couch";

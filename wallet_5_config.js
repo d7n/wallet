@@ -1,1 +1,1 @@
-var mnemonic = "legal concert banana outdoor virtual mass exchange stool express party chase demise";
+var mnemonic = "ketchup woman palm paper paddle trial seat skin faith board axis sock";

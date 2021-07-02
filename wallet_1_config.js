@@ -1,1 +1,1 @@
-var mnemonic = "ankle grass alien hybrid pattern legend sniff false dial situate amazing love";
+var mnemonic = "wealth receive wonder brown tornado tent tuna despair display stone select evoke";

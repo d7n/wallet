@@ -1,1 +1,1 @@
-var mnemonic = "path wool breeze best wood snow choice immune taxi sea assault pride";
+var mnemonic = "twist life soccer cup later sad neglect fox garment cube umbrella credit";

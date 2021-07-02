@@ -1,1 +1,1 @@
-var mnemonic = "curve blanket myself shoulder around monitor parent razor alcohol cage believe lift";
+var mnemonic = "shrug school garden video claim exact reward pulp come curious will garage";

@@ -1,1 +1,1 @@
-var mnemonic = "object quit large action amateur divide thumb blouse punch business lion later";
+var mnemonic = "tenant black lizard ask pen dwarf maple road unhappy hero obtain retreat";

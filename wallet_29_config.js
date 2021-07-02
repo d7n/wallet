@@ -1,1 +1,1 @@
-var mnemonic = "figure grief butter panic pair common smile exercise finish immense chronic year";
+var mnemonic = "video dirt text play leave security ignore sort melody keep decide worth";

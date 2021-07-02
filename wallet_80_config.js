@@ -1,1 +1,1 @@
-var mnemonic = "license canvas salon cradle divert shallow west play subway screen choice element";
+var mnemonic = "strike predict protect hero home february toy shed harsh nominee excess item";

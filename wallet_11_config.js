@@ -1,1 +1,1 @@
-var mnemonic = "dial team minimum live olive humor clay ice marine people prize echo";
+var mnemonic = "enough seek upset square various response change hungry exact cluster amount jeans";

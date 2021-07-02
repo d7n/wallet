@@ -1,1 +1,1 @@
-var mnemonic = "pudding check voyage luggage delay broom mushroom wine coconut kit cigar finish";
+var mnemonic = "city volume outside weekend afraid shiver chimney seek castle digital swift eager";

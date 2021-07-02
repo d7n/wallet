@@ -1,1 +1,1 @@
-var mnemonic = "mosquito fog crumble front drink differ design fatal vehicle worry giant van";
+var mnemonic = "light clinic fiscal patrol remind scene drive soup high mad drill space";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty opinion merge kid inquiry dentist weekend thing river chimney wagon chase";
+var mnemonic = "road exotic client work pilot stumble select funny strategy dance defense bag";

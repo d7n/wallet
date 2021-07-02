@@ -1,1 +1,1 @@
-var mnemonic = "object orphan monkey document result main oppose country lunch february rebel tenant";
+var mnemonic = "humor daring access rare license amused omit faint spy myself flame brief";

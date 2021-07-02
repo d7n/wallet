@@ -1,1 +1,1 @@
-var mnemonic = "velvet amused useless hip behind resemble slot chair appear sunset lesson baby";
+var mnemonic = "captain afford usage core fox arrest number sweet whisper often helmet material";

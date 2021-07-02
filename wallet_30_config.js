@@ -1,1 +1,1 @@
-var mnemonic = "abandon bid main myself spoil receive usual festival tone profit shop payment";
+var mnemonic = "park poem pen assume essay tail warrior still market traffic sibling purpose";

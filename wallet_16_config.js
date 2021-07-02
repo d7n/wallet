@@ -1,1 +1,1 @@
-var mnemonic = "rebuild paddle snap festival girl recall naive use column situate harbor risk";
+var mnemonic = "thank fluid notable among stone river cactus until profit coast demise ancient";

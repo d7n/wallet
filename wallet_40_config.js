@@ -1,1 +1,1 @@
-var mnemonic = "option banner attract taxi state proud animal coral frame angle sweet base";
+var mnemonic = "invest sketch runway nasty robot jump situate early code other general start";

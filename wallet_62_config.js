@@ -1,1 +1,1 @@
-var mnemonic = "domain unlock hire patrol side debris kiss ladder taste cluster tuna yellow";
+var mnemonic = "auto leopard autumn park spend strike sting cattle drop aspect ring wheat";

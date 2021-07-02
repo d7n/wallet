@@ -1,1 +1,1 @@
-var mnemonic = "gate mushroom acquire seat oblige ankle cousin virtual orient uncle village subway";
+var mnemonic = "sugar assist camp verb guitar reflect youth raw next item answer despair";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon chest original liquid physical romance coin around height busy lawn oyster";
+var mnemonic = "razor plastic expand wish move hamster absurd gospel column curve collect nut";

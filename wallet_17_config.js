@@ -1,1 +1,1 @@
-var mnemonic = "bicycle tortoise onion phone law mad luggage wonder menu insect defy noble";
+var mnemonic = "good demise tennis unknown attack allow access east capable fly cherry scatter";

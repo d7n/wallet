@@ -1,1 +1,1 @@
-var mnemonic = "please keen discover marriage stick plastic vote jar battle dirt okay review";
+var mnemonic = "width live offer glimpse outdoor hamster farm inquiry used draft aunt easy";

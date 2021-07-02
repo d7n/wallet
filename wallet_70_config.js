@@ -1,1 +1,1 @@
-var mnemonic = "bitter orient ring acid lucky crucial sick second just hidden cheese rose";
+var mnemonic = "tuna laundry letter vivid dream lamp question toy arch kidney game language";

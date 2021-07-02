@@ -1,1 +1,1 @@
-var mnemonic = "also expect verify segment bulb album congress pet crazy ball future clerk";
+var mnemonic = "keep carry pumpkin size limb ask pass alley faculty demise custom hat";

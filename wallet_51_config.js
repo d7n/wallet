@@ -1,1 +1,1 @@
-var mnemonic = "glance merit account act school never flat direct child cluster enact hip";
+var mnemonic = "angle organ grass emerge strike pitch gather clinic switch destroy zone exhaust";

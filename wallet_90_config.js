@@ -1,1 +1,1 @@
-var mnemonic = "dynamic pave cricket despair divide tooth sauce this toddler divide silver wear";
+var mnemonic = "lobster art drill diary order raise scene thank grid maze wolf arrest";
