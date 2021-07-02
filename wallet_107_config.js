@@ -1,1 +1,1 @@
-var mnemonic = "curious end mule carry village around calm fossil utility trial flight update";
+var mnemonic = "lake dune veteran hint base grant drip traffic chase churn gain soldier";

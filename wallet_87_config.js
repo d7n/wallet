@@ -1,1 +1,1 @@
-var mnemonic = "gasp speed scan motion copper merit simple boy mobile walk dumb property";
+var mnemonic = "rug venture dumb peace choice base push screen cost hub outer insane";

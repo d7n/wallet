@@ -1,1 +1,1 @@
-var mnemonic = "now caution shrimp talk rice carbon banner pottery actress draw donkey liar";
+var mnemonic = "escape proof royal just cave post endorse behave wasp please tray shuffle";

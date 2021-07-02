@@ -1,1 +1,1 @@
-var mnemonic = "world uniform ritual weekend ahead ghost pause strategy rare chase thing hurdle";
+var mnemonic = "famous ski length lion very orphan jaguar hole shallow depth soul carry";

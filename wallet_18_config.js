@@ -1,1 +1,1 @@
-var mnemonic = "edit skill mean vendor issue visa cattle rain chaos oblige panic that";
+var mnemonic = "water bachelor unaware tunnel regular sniff million trend consider immense cross language";

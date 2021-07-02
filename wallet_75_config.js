@@ -1,1 +1,1 @@
-var mnemonic = "absorb salon silly letter scene hat sphere comic remind exhaust item magic";
+var mnemonic = "bar famous know nuclear group truck lyrics palace timber weird seminar solve";

@@ -1,1 +1,1 @@
-var mnemonic = "clay fish gravity song violin twice unaware abandon print snack raccoon medal";
+var mnemonic = "rookie pen ready captain net wonder trumpet brief stereo choose cheap weather";

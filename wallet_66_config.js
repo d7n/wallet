@@ -1,1 +1,1 @@
-var mnemonic = "priority labor load tiny razor blame husband school speed spirit life predict";
+var mnemonic = "gaze finger infant vivid diet outer radio chest tip able latin accuse";

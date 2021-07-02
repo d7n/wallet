@@ -1,1 +1,1 @@
-var mnemonic = "welcome stock cool sugar chronic model crop knife message fetch gain possible";
+var mnemonic = "either avocado old guilt isolate diagram cliff mix family athlete hub false";

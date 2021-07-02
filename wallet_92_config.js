@@ -1,1 +1,1 @@
-var mnemonic = "because wool behave salmon they citizen again decrease soda protect mosquito remember";
+var mnemonic = "task produce will trade basket elephant fold reward kit liberty pottery normal";

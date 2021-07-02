@@ -1,1 +1,1 @@
-var mnemonic = "always stereo surge supply battle sword daring dash soon reject project balance";
+var mnemonic = "slot cream library salon journey ozone unknown catch addict empower hope leopard";

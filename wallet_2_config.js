@@ -1,1 +1,1 @@
-var mnemonic = "weasel amazing gown amount radio amateur bag cattle jungle token vital strike";
+var mnemonic = "fly such gown sad sketch enact kind fold dice mobile village cluster";

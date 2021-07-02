@@ -1,1 +1,1 @@
-var mnemonic = "ripple snap scheme own east pelican view crush seminar onion ahead soldier";
+var mnemonic = "hire tonight green artefact apart doctor expire trim subway detect moon lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain episode frozen kid zone connect review squirrel produce long relax oxygen";
+var mnemonic = "sight chase tourist flower apple fence awake insane spread soon scorpion lizard";

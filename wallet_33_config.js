@@ -1,1 +1,1 @@
-var mnemonic = "noise spider vibrant course swim food settle film artwork valve novel tragic";
+var mnemonic = "finger dutch tobacco bench citizen fan faculty impact tiny naive among service";

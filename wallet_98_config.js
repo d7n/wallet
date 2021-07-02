@@ -1,1 +1,1 @@
-var mnemonic = "piano fade extra gauge under rabbit confirm shoot attend fever broom asthma";
+var mnemonic = "bind panel blind focus boy mammal kid way curious rigid lamp swift";

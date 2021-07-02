@@ -1,1 +1,1 @@
-var mnemonic = "board owner denial silver salt frog cricket anger same other iron render";
+var mnemonic = "innocent speed slight draw smoke hub torch omit gloom tired police blanket";

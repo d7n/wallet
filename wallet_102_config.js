@@ -1,1 +1,1 @@
-var mnemonic = "upgrade stairs ethics next matrix skill supply collect wagon today diesel champion";
+var mnemonic = "transfer strong custom rude trip cargo coil feature when model tray pipe";

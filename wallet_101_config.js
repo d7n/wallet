@@ -1,1 +1,1 @@
-var mnemonic = "pool catch surprise height prosper flavor cute blood battle ill balcony area";
+var mnemonic = "hungry crisp target rain pepper confirm little around guilt drastic need million";

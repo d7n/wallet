@@ -1,1 +1,1 @@
-var mnemonic = "fantasy hire swap type paddle item ship frown brush belt employ theory";
+var mnemonic = "space below helmet useless dwarf blind before feed frozen cabin sand render";

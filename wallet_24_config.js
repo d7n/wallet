@@ -1,1 +1,1 @@
-var mnemonic = "bronze vapor promote forward smoke october always hole abuse balance life green";
+var mnemonic = "supply claw hybrid mimic rib shrimp sentence begin buyer hope ensure split";

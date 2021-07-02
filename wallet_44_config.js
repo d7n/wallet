@@ -1,1 +1,1 @@
-var mnemonic = "force science execute they soap vacant cushion explain mom safe vocal odor";
+var mnemonic = "purity column cool gospel thunder melody twice glad receive vapor faculty account";

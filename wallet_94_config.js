@@ -1,1 +1,1 @@
-var mnemonic = "crop diagram room bulb trim eager tower surface noodle cram motor obvious";
+var mnemonic = "also uniform lion ready task heavy napkin require potato slow oxygen west";

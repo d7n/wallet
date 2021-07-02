@@ -1,1 +1,1 @@
-var mnemonic = "awful angry output wisdom black warrior salmon choice away tenant cash insane";
+var mnemonic = "cement tomorrow beef autumn multiply rigid pitch check market upset split sniff";

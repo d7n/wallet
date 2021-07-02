@@ -1,1 +1,1 @@
-var mnemonic = "trip weapon weather issue color stone describe burger adapt empower enroll judge";
+var mnemonic = "jeans news tube tackle enough number rocket spider ball again segment staff";

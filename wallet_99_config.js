@@ -1,1 +1,1 @@
-var mnemonic = "sauce now ranch verify dentist pulse glow tone kit someone chest decade";
+var mnemonic = "lens girl useful swarm inch seek vault room current excuse garage gold";

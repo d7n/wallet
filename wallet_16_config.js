@@ -1,1 +1,1 @@
-var mnemonic = "predict brand switch eyebrow biology vintage post zebra situate work canal coffee";
+var mnemonic = "short party cloth renew shiver ritual defense vehicle surround crush mail story";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat argue crane february remember check seed pitch polar science whip sick";
+var mnemonic = "base festival river lyrics clean leave timber victory surround toast celery volume";

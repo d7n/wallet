@@ -1,1 +1,1 @@
-var mnemonic = "such develop wasp hover leaf reward sweet foster violin tragic oven process";
+var mnemonic = "ice town acid need drill enjoy spike move relax deliver spy fitness";

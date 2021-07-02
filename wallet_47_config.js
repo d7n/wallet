@@ -1,1 +1,1 @@
-var mnemonic = "jeans crisp junior side flavor joke accident course virus cluster dizzy scorpion";
+var mnemonic = "jar wrap kangaroo maximum yard tool clever problem receive antenna april cousin";

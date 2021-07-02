@@ -1,1 +1,1 @@
-var mnemonic = "brother live polar zone bomb return draft range cluster beyond guard stay";
+var mnemonic = "spread satoshi setup multiply setup choice exhibit urge candy wall rigid ability";

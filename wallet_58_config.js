@@ -1,1 +1,1 @@
-var mnemonic = "friend coffee inner stone affair bomb pull speak gloom furnace fame police";
+var mnemonic = "hedgehog jeans paper benefit crack borrow tooth bachelor unable only illegal cook";

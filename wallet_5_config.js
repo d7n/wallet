@@ -1,1 +1,1 @@
-var mnemonic = "wine hurdle add loan minimum novel guilt siege retreat six warfare jungle";
+var mnemonic = "shield crane dad female spatial soft guilt purity essay plunge light soccer";

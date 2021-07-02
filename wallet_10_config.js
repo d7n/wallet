@@ -1,1 +1,1 @@
-var mnemonic = "learn guess divert document success film right unit record faculty spider fiction";
+var mnemonic = "sponsor tower duck donkey intact coyote doll aspect equip maximum burden buzz";

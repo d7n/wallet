@@ -1,1 +1,1 @@
-var mnemonic = "interest arrive submit cinnamon phone oil fox pilot meadow lawsuit chimney jaguar";
+var mnemonic = "twice peace monster awful practice exist wonder gun nerve fall length space";

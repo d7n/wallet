@@ -1,1 +1,1 @@
-var mnemonic = "coil coil film observe script swift disease raise dynamic spider when remind";
+var mnemonic = "tuna grant screen congress category morning plate twelve rose kite purchase patrol";

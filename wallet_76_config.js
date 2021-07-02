@@ -1,1 +1,1 @@
-var mnemonic = "fresh relax tennis punch boring fly old check holiday air prosper squirrel";
+var mnemonic = "liquid elite connect minimum bottom rough term ghost vanish ride trap mimic";

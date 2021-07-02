@@ -1,1 +1,1 @@
-var mnemonic = "car swamp evoke faint flash write quarter rib security night patient rely";
+var mnemonic = "ocean stone token drip place hurt short capable treat vanish ridge blossom";

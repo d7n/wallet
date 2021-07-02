@@ -1,1 +1,1 @@
-var mnemonic = "lucky ankle motion various issue shadow inquiry miss ill hunt spot spirit";
+var mnemonic = "drive real matrix woman nice salute swift interest phone speak true blush";

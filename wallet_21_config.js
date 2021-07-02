@@ -1,1 +1,1 @@
-var mnemonic = "duty split slogan scrap coral violin guard fatigue disorder betray plug panic";
+var mnemonic = "thumb vessel about other science garment supreme pyramid december purse guilt often";

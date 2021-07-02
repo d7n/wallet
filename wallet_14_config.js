@@ -1,1 +1,1 @@
-var mnemonic = "foot amount crucial ivory involve ketchup carbon romance fringe attend large test";
+var mnemonic = "weapon move emerge brisk destroy make velvet warm discover garment mansion clap";

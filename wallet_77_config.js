@@ -1,1 +1,1 @@
-var mnemonic = "burger account dinosaur absurd tackle village unique height casual tail donkey enter";
+var mnemonic = "upgrade good earn library alcohol force bronze prefer awesome snow intact order";

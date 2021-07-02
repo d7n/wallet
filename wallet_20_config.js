@@ -1,1 +1,1 @@
-var mnemonic = "mass problem ridge strategy leader allow history hair desert among gather toy";
+var mnemonic = "galaxy again cheese ranch exercise split tomorrow opera giraffe thrive into october";

@@ -1,1 +1,1 @@
-var mnemonic = "horn syrup ripple almost fat corn cupboard hurry metal tourist win sun";
+var mnemonic = "mesh list quiz noodle wink dice hurt cinnamon damp race deal mango";

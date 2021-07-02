@@ -1,1 +1,1 @@
-var mnemonic = "unveil faculty worry tone man cruel only shield lizard weird crime year";
+var mnemonic = "cradle vehicle face tide ten useless lawn panel iron grain siege project";

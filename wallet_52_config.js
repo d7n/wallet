@@ -1,1 +1,1 @@
-var mnemonic = "guitar ankle tilt call build shoe street remove hungry season evoke cat";
+var mnemonic = "love profit news tattoo liberty pitch picture fix panic enough insect amazing";

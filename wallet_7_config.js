@@ -1,1 +1,1 @@
-var mnemonic = "light bachelor patrol uniform truth sword custom symptom roast bullet sand shrug";
+var mnemonic = "want bulk unaware topple misery gossip calm erosion lock damage asthma base";

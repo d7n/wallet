@@ -1,1 +1,1 @@
-var mnemonic = "rate reason uncle share quote acoustic bottom sell soft weather census man";
+var mnemonic = "pyramid symptom cruel used tumble aware pass attitude dish buyer warrior biology";

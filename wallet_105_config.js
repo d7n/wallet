@@ -1,1 +1,1 @@
-var mnemonic = "expire artefact trade guard deposit galaxy goddess nut next then crazy theory";
+var mnemonic = "turtle tattoo rocket tube gate deny immense crisp unfair predict baby kitchen";

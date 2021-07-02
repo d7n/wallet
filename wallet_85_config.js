@@ -1,1 +1,1 @@
-var mnemonic = "elephant sauce sphere absorb hope service oxygen umbrella auto stairs vicious climb";
+var mnemonic = "useless diagram curve buyer evidence use excite misery chief wreck bean swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "identify gaze soccer shield tiger angry ask dose evil cover accident deputy";
+var mnemonic = "rotate pull twenty together film between casual sunset innocent brand unhappy moon";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard choose enemy harbor segment include document push dwarf snow hollow cupboard";
+var mnemonic = "shield erase stumble vast flavor survey find slight planet sustain soccer belt";

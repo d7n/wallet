@@ -1,1 +1,1 @@
-var mnemonic = "siege merit opinion intact twelve awesome course scissors demise evidence twin stomach";
+var mnemonic = "dune square click entire end congress tilt engage sentence deer pilot ski";

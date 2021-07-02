@@ -1,1 +1,1 @@
-var mnemonic = "battle elbow basic horror school pulse frame retire fun sword foam fatal";
+var mnemonic = "credit original pear hill pyramid artist reject sea become there lazy venture";

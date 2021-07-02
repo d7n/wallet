@@ -1,1 +1,1 @@
-var mnemonic = "slogan warm wish meat dad tongue useful fever dry slide endorse stand";
+var mnemonic = "list meadow curve flight mercy desert whisper found option venue bullet pride";

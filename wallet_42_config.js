@@ -1,1 +1,1 @@
-var mnemonic = "water pitch hamster scrub try emerge voice anxiety violin walk brave sleep";
+var mnemonic = "fine stool obscure decide alley panda rookie daring deputy connect dog subway";

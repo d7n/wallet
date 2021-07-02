@@ -1,1 +1,1 @@
-var mnemonic = "shaft fever pipe service network tomorrow orchard carry better weekend mimic opera";
+var mnemonic = "fame roast super among glass surround outdoor galaxy elevator digital stamp foster";

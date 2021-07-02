@@ -1,1 +1,1 @@
-var mnemonic = "coil pluck chronic stadium lake better venture grace arrest census guilt column";
+var mnemonic = "grab east vanish lend avoid deer mouse grape rule congress symptom butter";

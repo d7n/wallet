@@ -1,1 +1,1 @@
-var mnemonic = "spatial nothing awake word galaxy salad project cinnamon drip debris duty piece";
+var mnemonic = "acid afraid adapt brother want copper teach excite spring novel siren trophy";

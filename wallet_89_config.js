@@ -1,1 +1,1 @@
-var mnemonic = "advance anger fabric friend menu inspire warfare ocean morning turkey slide know";
+var mnemonic = "era sword lazy warrior three concert make brown joke size wrong find";

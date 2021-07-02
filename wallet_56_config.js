@@ -1,1 +1,1 @@
-var mnemonic = "spray story shoot squirrel fatigue great remember arch become monitor cable north";
+var mnemonic = "agree volume tree choice upon open fun this guard case middle rack";

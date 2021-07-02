@@ -1,1 +1,1 @@
-var mnemonic = "famous stomach horse sleep paper trial advance sheriff impact price else abstract";
+var mnemonic = "hair random ship analyst oyster fortune vivid fat crack all turkey speak";

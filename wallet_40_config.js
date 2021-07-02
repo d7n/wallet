@@ -1,1 +1,1 @@
-var mnemonic = "mountain success canyon feel version broom nation orbit layer limb split frame";
+var mnemonic = "curious candy always loan tunnel match valid purpose vocal furnace maze device";

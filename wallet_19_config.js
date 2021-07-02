@@ -1,1 +1,1 @@
-var mnemonic = "tape execute garbage match tattoo fortune play pluck entry crop stuff bread";
+var mnemonic = "exhibit wrestle magic crazy phone duty dumb air path trouble gallery flee";

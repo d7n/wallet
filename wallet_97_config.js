@@ -1,1 +1,1 @@
-var mnemonic = "talk sponsor smile mutual lawn legal shiver right kidney solution evolve document";
+var mnemonic = "only focus dwarf olive capital federal super squirrel echo kite throw vital";

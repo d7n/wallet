@@ -1,1 +1,1 @@
-var mnemonic = "kingdom gain manage price token wage catch garment hungry father endorse top";
+var mnemonic = "bag rib atom bundle evidence moral tuna episode gain era portion suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "announce twin tooth plate drive title seminar exile clog patient brand harbor";
+var mnemonic = "hunt kit warm blur abuse apart team ensure debris secret common huge";

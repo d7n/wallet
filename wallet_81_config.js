@@ -1,1 +1,1 @@
-var mnemonic = "then moment defy talent strategy attract real august emerge truly mesh float";
+var mnemonic = "blame picture absorb detail frequent doll walnut blouse minor human token flock";

@@ -1,1 +1,1 @@
-var mnemonic = "winner office raise thought lake cancel scare post vague purpose ensure crystal";
+var mnemonic = "fringe ugly route often planet vault glue tattoo scan media home rare";

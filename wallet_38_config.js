@@ -1,1 +1,1 @@
-var mnemonic = "vintage purpose often steel claim plate wink tooth tiger alter horse solve";
+var mnemonic = "violin cloud clock eager breeze alone security balance start mutual enable arrest";

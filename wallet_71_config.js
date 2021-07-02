@@ -1,1 +1,1 @@
-var mnemonic = "soda alter donor improve isolate winner bracket decorate power tragic check garage";
+var mnemonic = "robust speak caution soft spike idea room grab type penalty field fringe";

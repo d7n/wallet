@@ -1,1 +1,1 @@
-var mnemonic = "draw wrestle soccer firm parrot engage dignity joke slot unknown budget rude";
+var mnemonic = "alter target garden fragile canal name spell output pioneer zone cluster pepper";

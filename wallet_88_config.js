@@ -1,1 +1,1 @@
-var mnemonic = "same inquiry beef sample flush abandon solid apart civil industry gap keen";
+var mnemonic = "behind stadium blur coyote property chair speed scan unlock effort truck mesh";

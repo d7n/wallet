@@ -1,1 +1,1 @@
-var mnemonic = "agent put silver grant portion acid wall daughter arm obtain cave panda";
+var mnemonic = "seed parrot target jaguar review letter obey wing muscle medal toe stairs";

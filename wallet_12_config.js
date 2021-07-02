@@ -1,1 +1,1 @@
-var mnemonic = "hover trash foot organ six feed maximum domain smart admit write faculty";
+var mnemonic = "rack dutch tourist join used slide garlic day inhale timber rally roast";

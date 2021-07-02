@@ -1,1 +1,1 @@
-var mnemonic = "typical dilemma predict reunion wrestle betray correct donate general bid upper mask";
+var mnemonic = "end jaguar example glue reject pattern want dog sword barely sleep exotic";

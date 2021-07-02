@@ -1,1 +1,1 @@
-var mnemonic = "hamster circle comfort giraffe fire wrap wheat gift civil muffin strong sibling";
+var mnemonic = "science recall invite custom correct elephant mixture prepare cricket worry drama salute";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder object urban paddle toilet used total accuse essence better across income";
+var mnemonic = "window under honey kangaroo confirm spatial tag borrow cry feature crystal true";

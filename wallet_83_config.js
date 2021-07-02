@@ -1,1 +1,1 @@
-var mnemonic = "suspect rare famous disorder bargain travel impulse season grunt match hour engage";
+var mnemonic = "address bullet puzzle oxygen aim sudden blanket noble demand include hunt room";

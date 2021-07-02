@@ -1,1 +1,1 @@
-var mnemonic = "oyster royal expect regular car draft spin thrive relax void spread put";
+var mnemonic = "busy memory write perfect shaft ensure amazing offer royal loud relax mirror";

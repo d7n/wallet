@@ -1,1 +1,1 @@
-var mnemonic = "sausage donate garment sentence umbrella badge orchard relief round before clever maid";
+var mnemonic = "soldier skate chat dash time permit scheme such similar leg tone matrix";

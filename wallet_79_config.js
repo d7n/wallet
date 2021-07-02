@@ -1,1 +1,1 @@
-var mnemonic = "perfect bicycle drip any hobby crew reunion super material olive light tiny";
+var mnemonic = "actress divide vicious energy food urban three sport adjust salon panda custom";

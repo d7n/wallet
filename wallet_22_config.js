@@ -1,1 +1,1 @@
-var mnemonic = "phone expire adjust decrease child bracket drip island good stone tongue neglect";
+var mnemonic = "oven elevator notice remember thought wet bounce movie bullet pair fee general";

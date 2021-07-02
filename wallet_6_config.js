@@ -1,1 +1,1 @@
-var mnemonic = "clever fossil sun slab green hand define have predict wife mesh exclude";
+var mnemonic = "feed leave stem neutral neglect wheat cereal egg wool crouch suggest garlic";

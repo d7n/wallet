@@ -1,1 +1,1 @@
-var mnemonic = "height walk text leg spike differ kick festival option boss fine ivory";
+var mnemonic = "cabin pattern climb squeeze muffin gospel plug crane small huge first warrior";

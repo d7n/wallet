@@ -1,1 +1,1 @@
-var mnemonic = "people flash decline peace census history glue bus fringe agent tag wolf";
+var mnemonic = "awful tip warfare reduce kind response bird comfort oval attitude jealous income";

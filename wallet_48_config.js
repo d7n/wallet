@@ -1,1 +1,1 @@
-var mnemonic = "crime weird garbage orchard rice leisure off answer believe develop fancy kid";
+var mnemonic = "edge romance lock upon trim globe erase race chest humble gym emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage security august magnet noodle curtain whip way dial task cat fresh";
+var mnemonic = "cross frost nuclear sausage walnut bulk banner laugh brand cram obvious kidney";

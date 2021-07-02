@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog wait help repair tilt dog orchard success false service lady list";
+var mnemonic = "race hood target lyrics rug silver coast version favorite trouble speed smooth";

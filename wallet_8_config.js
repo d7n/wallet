@@ -1,1 +1,1 @@
-var mnemonic = "mimic coil fire pen gesture film guide swift way current consider exotic";
+var mnemonic = "aerobic gas cool upper curtain dance sister first diamond dynamic loop pigeon";

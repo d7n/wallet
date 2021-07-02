@@ -1,1 +1,1 @@
-var mnemonic = "network school depart habit lemon move knock arrest appear insect cheese skate";
+var mnemonic = "member become cannon enrich door panel scan force rigid attract client episode";

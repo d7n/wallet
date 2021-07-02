@@ -1,1 +1,1 @@
-var mnemonic = "delay when embrace asset barrel donkey chapter victory perfect ethics glove pool";
+var mnemonic = "myth pony deputy crop share insane valve secret illness method film state";
