@@ -1,1 +1,1 @@
-var mnemonic = "still arrest eight mixture finger elbow kick piece camp report raven hard";
+var mnemonic = "sock excuse section small home topic neutral exist tiny use arena sing";

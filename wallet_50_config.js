@@ -1,1 +1,1 @@
-var mnemonic = "galaxy way circle response vivid silent notice swamp twenty carry model orient";
+var mnemonic = "until hold cruel salmon opinion eagle desert three metal baby want deny";

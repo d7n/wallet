@@ -1,1 +1,1 @@
-var mnemonic = "join violin fish arrive pepper decline allow hello inmate slogan umbrella funny";
+var mnemonic = "setup poverty alter scissors detail plate broken jeans usual kite blanket slow";

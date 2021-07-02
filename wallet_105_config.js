@@ -1,1 +1,1 @@
-var mnemonic = "goat gallery tennis purity else fantasy fruit roast poem explain travel noodle";
+var mnemonic = "door auto also desert paddle borrow throw either lemon fit license nation";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow there imitate giraffe client choice close vendor picnic pretty salute leader";
+var mnemonic = "health learn wife crush rare check brick boss region excuse audit check";

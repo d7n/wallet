@@ -1,1 +1,1 @@
-var mnemonic = "lion habit legal news sing path sea imitate sorry cinnamon amazing property";
+var mnemonic = "recipe soda prize face bicycle huge only prize obtain humble rabbit side";

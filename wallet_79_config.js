@@ -1,1 +1,1 @@
-var mnemonic = "term label thunder keen peace panel senior access cotton ask tonight puppy";
+var mnemonic = "olympic prison moon amateur sell eye drink drama turtle guitar dog tortoise";

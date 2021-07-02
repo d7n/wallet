@@ -1,1 +1,1 @@
-var mnemonic = "income lens long burger control vocal false flat orbit insane wear marriage";
+var mnemonic = "menu sting strike blanket diesel skate oyster shoe lamp secret faint embrace";

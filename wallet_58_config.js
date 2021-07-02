@@ -1,1 +1,1 @@
-var mnemonic = "prevent grocery foot talk below dynamic choose slogan fatal sketch jeans extend";
+var mnemonic = "loan hint ridge vote human pet vintage give record cousin mystery soup";

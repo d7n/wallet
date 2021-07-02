@@ -1,1 +1,1 @@
-var mnemonic = "slender comfort mirror weather quit uphold fun cruel bench hundred impulse primary";
+var mnemonic = "keep grain practice page innocent allow invite six wine nature urban impulse";

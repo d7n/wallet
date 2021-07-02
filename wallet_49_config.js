@@ -1,1 +1,1 @@
-var mnemonic = "fade whip journey million match entry badge insect danger invite write worry";
+var mnemonic = "fetch volume light cage dress plastic normal orchard torch deny curious another";

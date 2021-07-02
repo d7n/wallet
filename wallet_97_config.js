@@ -1,1 +1,1 @@
-var mnemonic = "pave tissue opinion option lion follow ill soon dial tiny zero job";
+var mnemonic = "essence during find muscle crumble wire traffic dress diary guess crane kit";

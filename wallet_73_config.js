@@ -1,1 +1,1 @@
-var mnemonic = "guitar opinion veteran safe tape update laptop divert rebel drill key permit";
+var mnemonic = "total message razor whale plug hundred umbrella finish slight silent snap fiber";

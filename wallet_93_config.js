@@ -1,1 +1,1 @@
-var mnemonic = "relief response taxi dose initial push credit income perfect person champion image";
+var mnemonic = "attend mistake knife eight window tree wool human mosquito music pencil sustain";

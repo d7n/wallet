@@ -1,1 +1,1 @@
-var mnemonic = "asthma title camera casino hungry age budget air attend crash method shuffle";
+var mnemonic = "shell tell huge call squirrel blast alarm ankle grief cigar grit flash";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence venue gap degree nature trend rigid cupboard capital disagree talent account";
+var mnemonic = "dragon town include sphere parent pen entire month person body truly drastic";

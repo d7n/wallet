@@ -1,1 +1,1 @@
-var mnemonic = "sock soldier general distance unknown air cause aerobic walk quick purse shadow";
+var mnemonic = "simple south gaze above debris frown town decline used achieve sweet milk";

@@ -1,1 +1,1 @@
-var mnemonic = "slender patch spoil trim disagree tape alarm pet student govern mixed coral";
+var mnemonic = "mammal eye sponsor track chunk hedgehog prosper clog unveil tone limb deal";

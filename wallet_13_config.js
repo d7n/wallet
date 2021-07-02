@@ -1,1 +1,1 @@
-var mnemonic = "tongue soap veteran over bus wool belt brass thought code trumpet foil";
+var mnemonic = "ball agent license total dial fetch trap mirror kid toe unusual cattle";

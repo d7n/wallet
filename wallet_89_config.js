@@ -1,1 +1,1 @@
-var mnemonic = "pulse logic donor media warfare capital stairs boil nature velvet clean rookie";
+var mnemonic = "immense deal room jelly bracket vicious secret pistol invest lamp alone member";

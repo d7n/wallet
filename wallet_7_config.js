@@ -1,1 +1,1 @@
-var mnemonic = "jazz yard planet win vote chimney permit census faith universe where nuclear";
+var mnemonic = "undo other asthma foot kind laptop grocery hockey drum express blind shoot";

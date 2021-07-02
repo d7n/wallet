@@ -1,1 +1,1 @@
-var mnemonic = "core crawl cable ginger dwarf update sniff satisfy ability frozen hollow chapter";
+var mnemonic = "unlock hurt sad shift pepper mom seminar isolate panther glimpse trouble absorb";

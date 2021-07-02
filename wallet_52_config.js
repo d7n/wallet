@@ -1,1 +1,1 @@
-var mnemonic = "twelve deal lawsuit enhance barrel time skirt spice treat this merge sad";
+var mnemonic = "yellow sunset glad toilet rug coyote sketch fly electric lottery drink radar";

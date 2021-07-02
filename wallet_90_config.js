@@ -1,1 +1,1 @@
-var mnemonic = "order dragon purpose just type spring earn collect worth whale post enforce";
+var mnemonic = "open key viable small order buzz hedgehog report input inquiry venue visit";

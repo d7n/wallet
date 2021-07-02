@@ -1,1 +1,1 @@
-var mnemonic = "goose smooth pet desert prosper pave wait stomach end grant home select";
+var mnemonic = "since wheat major pen able arctic tower actor hospital tornado soda pig";

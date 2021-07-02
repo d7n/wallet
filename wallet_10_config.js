@@ -1,1 +1,1 @@
-var mnemonic = "effort wise angry three leaf cram essay child amateur position plug tired";
+var mnemonic = "empty forum hero defense mix lock fiscal fade anxiety drip table guitar";

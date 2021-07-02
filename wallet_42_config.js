@@ -1,1 +1,1 @@
-var mnemonic = "tilt tortoise side crumble cave mechanic rely case system october salute elite";
+var mnemonic = "text lake cup accuse reason grunt wedding home shoot elegant tragic stone";

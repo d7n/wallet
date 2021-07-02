@@ -1,1 +1,1 @@
-var mnemonic = "jealous island business peace across hover ivory sound bird side artist beef";
+var mnemonic = "resemble embody ridge brief half evil claw drop width soon badge love";

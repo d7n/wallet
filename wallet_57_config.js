@@ -1,1 +1,1 @@
-var mnemonic = "minor punch dose sponsor slush lesson age task cruise quantum fetch together";
+var mnemonic = "cute heavy toe ostrich yellow critic write never merry school canal top";

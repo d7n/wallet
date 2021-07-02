@@ -1,1 +1,1 @@
-var mnemonic = "belt bind follow tiger various embody connect can heavy explain cream book";
+var mnemonic = "display market heavy kid jeans betray come safe nose ordinary stable slot";

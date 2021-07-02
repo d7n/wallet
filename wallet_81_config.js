@@ -1,1 +1,1 @@
-var mnemonic = "sheriff depth autumn book trend skirt resemble clock marble shield trash place";
+var mnemonic = "fence forum kit sick coral giggle banner perfect gate purse twenty dutch";

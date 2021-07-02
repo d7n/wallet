@@ -1,1 +1,1 @@
-var mnemonic = "cushion penalty enter charge like knock panther stage stone purse desk junior";
+var mnemonic = "tortoise brown pistol vicious face autumn duty spell near dentist present stereo";

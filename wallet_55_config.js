@@ -1,1 +1,1 @@
-var mnemonic = "resource spray hover sudden cargo voyage jazz divorce exchange capable practice antique";
+var mnemonic = "rain flame raise clay exile supreme box spoon then crime convince novel";

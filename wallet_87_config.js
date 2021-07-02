@@ -1,1 +1,1 @@
-var mnemonic = "admit shy expose steak daughter tornado buyer sunny genuine guilt minute canoe";
+var mnemonic = "concert man hazard situate pull matrix uphold village lucky patrol music lecture";

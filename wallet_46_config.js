@@ -1,1 +1,1 @@
-var mnemonic = "label fiscal grass muscle stand law step hobby thought minute road husband";
+var mnemonic = "peasant apology scare cotton fee lake october gloom remember uniform where sand";

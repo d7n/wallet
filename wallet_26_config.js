@@ -1,1 +1,1 @@
-var mnemonic = "where oak orbit torch acid two evidence skin cruel various lecture denial";
+var mnemonic = "explain pink vicious angry kitchen melody worry private digital august fire dumb";

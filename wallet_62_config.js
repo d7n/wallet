@@ -1,1 +1,1 @@
-var mnemonic = "mail consider acoustic chair rent want fruit exit way august filter dose";
+var mnemonic = "define special traffic account pupil lonely live renew next luxury kingdom wheat";

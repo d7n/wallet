@@ -1,1 +1,1 @@
-var mnemonic = "end nasty session hill dance burden disease build space unfold evoke artwork";
+var mnemonic = "edge stuff transfer noble glance earn click armor merge paper blame fence";

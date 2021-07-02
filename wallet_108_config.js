@@ -1,1 +1,1 @@
-var mnemonic = "foot village muscle accident damage north direct fringe slab cruise leisure drum";
+var mnemonic = "tree sauce forum task reunion pass area release total style refuse basket";

@@ -1,1 +1,1 @@
-var mnemonic = "pet crush chat orchard velvet festival arena knee grow add else tag";
+var mnemonic = "hurry cloth exhaust neck heart example price goddess viable liberty rotate cruise";

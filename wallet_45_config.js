@@ -1,1 +1,1 @@
-var mnemonic = "fold junk maple great young tomorrow awful sugar science chief image have";
+var mnemonic = "ostrich frog end neutral outside avocado extra nephew genius copy tone sight";

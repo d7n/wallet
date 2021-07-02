@@ -1,1 +1,1 @@
-var mnemonic = "wreck explain disease play bus assist hobby envelope clinic brand marine ethics";
+var mnemonic = "alarm bargain cloud seek feature reflect method junk near obey stairs orchard";

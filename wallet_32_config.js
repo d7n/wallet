@@ -1,1 +1,1 @@
-var mnemonic = "price office space unveil innocent click age off possible desk trouble magic";
+var mnemonic = "deputy horse month elder tuna sibling voice craft stand actual science much";

@@ -1,1 +1,1 @@
-var mnemonic = "page grab album episode cigar excite rail wing slight ancient armed loan";
+var mnemonic = "guitar sponsor stool project screen all fortune swift pencil balance siege opinion";

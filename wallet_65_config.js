@@ -1,1 +1,1 @@
-var mnemonic = "sting simple fancy electric rookie left wash rain casual ten lumber undo";
+var mnemonic = "plunge common sad jungle wheat explain can glimpse yellow play orphan genuine";

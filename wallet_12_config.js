@@ -1,1 +1,1 @@
-var mnemonic = "biology menu hollow steel win modify audit camera trophy nut gold glove";
+var mnemonic = "bonus tent vacuum fall open glance divert nuclear diagram bridge invite sort";

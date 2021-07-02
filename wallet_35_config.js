@@ -1,1 +1,1 @@
-var mnemonic = "harvest joy protect trick bread choose clump suit juice boy chalk moon";
+var mnemonic = "worry dose prevent plunge elbow satisfy learn axis network minor ankle main";

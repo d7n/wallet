@@ -1,1 +1,1 @@
-var mnemonic = "endorse cactus thrive upset blush middle bus survey vacant able more asthma";
+var mnemonic = "more maple toast skull draw town smoke south view grocery member robot";

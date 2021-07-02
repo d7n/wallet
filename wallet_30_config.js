@@ -1,1 +1,1 @@
-var mnemonic = "dinner quiz rigid harsh lonely cable regret avoid task celery staff panda";
+var mnemonic = "barrel joke reveal never apple inner object air country true oak cross";

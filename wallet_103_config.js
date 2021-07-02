@@ -1,1 +1,1 @@
-var mnemonic = "nephew churn bless siren situate forest horror mammal deal dizzy soup unique";
+var mnemonic = "scatter vast game tragic capital biology economy sell spring tenant diesel empower";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi seek wall gate two once main story make mango thrive submit";
+var mnemonic = "awful daring blade elevator whisper blue token accuse leisure clever assist blind";

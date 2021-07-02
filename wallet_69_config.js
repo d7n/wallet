@@ -1,1 +1,1 @@
-var mnemonic = "kid same subway denial patrol winner match diesel naive zebra cat hunt";
+var mnemonic = "ozone episode tag bus lucky trust copper web spice wait input fire";

@@ -1,1 +1,1 @@
-var mnemonic = "attack oak desk endorse salute fine illegal detect forward exit birth nuclear";
+var mnemonic = "glass urge design chronic express puppy clay what deputy bottom hundred hand";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit tragic bunker tone rich mask grit foster vapor rescue aim addict";
+var mnemonic = "tiger select else bone guitar survey radar inspire mouse honey scorpion saddle";

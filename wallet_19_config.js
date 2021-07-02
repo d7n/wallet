@@ -1,1 +1,1 @@
-var mnemonic = "assist bid casino live trend special wrap grunt system indoor heavy reduce";
+var mnemonic = "pact gate kitchen peasant letter claw allow suggest stuff duty frame catch";

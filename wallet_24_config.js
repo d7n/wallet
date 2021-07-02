@@ -1,1 +1,1 @@
-var mnemonic = "master success inner now behave brisk deer gauge fringe zero opera ugly";
+var mnemonic = "bundle doctor veteran category festival arm ketchup clock broken situate brave extra";

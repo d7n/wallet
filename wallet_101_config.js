@@ -1,1 +1,1 @@
-var mnemonic = "angry flight seat museum dove round mixed topple cave place rubber focus";
+var mnemonic = "outer pottery harvest display arrest silk size ship island know west provide";

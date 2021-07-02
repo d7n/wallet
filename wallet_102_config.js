@@ -1,1 +1,1 @@
-var mnemonic = "core episode dutch benefit infant urban endorse wreck bachelor amused method hole";
+var mnemonic = "hockey core artist eagle turtle retreat stuff high ginger liquid must evoke";

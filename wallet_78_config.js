@@ -1,1 +1,1 @@
-var mnemonic = "isolate taxi fault civil minor express inner bundle inflict where lens toss";
+var mnemonic = "elite setup round finish tail praise between vintage carbon shrug aware garlic";

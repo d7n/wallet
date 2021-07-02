@@ -1,1 +1,1 @@
-var mnemonic = "bag frog metal gentle win ketchup slot history soft adult shove cloth";
+var mnemonic = "pond coral suspect sample giggle abandon track winner aspect capital member cotton";

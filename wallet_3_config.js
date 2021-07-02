@@ -1,1 +1,1 @@
-var mnemonic = "round icon edge select captain rebel lab grab flame scissors actor garlic";
+var mnemonic = "change inhale appear solve wisdom faculty sport drive bean grit arm goose";

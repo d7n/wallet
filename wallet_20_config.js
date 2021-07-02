@@ -1,1 +1,1 @@
-var mnemonic = "aspect people page slim glue erase follow twelve someone used cancel chapter";
+var mnemonic = "turn swarm account arrive supreme donate devote fire airport canoe lady worth";

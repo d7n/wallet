@@ -1,1 +1,1 @@
-var mnemonic = "two print rhythm crime elder zebra assume library armed taste bone budget";
+var mnemonic = "enemy glass crew install foil jealous today title album conduct surprise panic";

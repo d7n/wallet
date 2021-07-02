@@ -1,1 +1,1 @@
-var mnemonic = "hunt skirt argue payment board image oxygen measure void very curve gun";
+var mnemonic = "exit apple word panda inmate mesh outer action diesel twelve boost regret";

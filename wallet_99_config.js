@@ -1,1 +1,1 @@
-var mnemonic = "fly occur rare visit excess cheap twist peanut box case obey hand";
+var mnemonic = "soon vacant renew horse small future gift have bottom develop cargo normal";

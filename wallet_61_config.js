@@ -1,1 +1,1 @@
-var mnemonic = "absurd exchange measure taxi force between safe possible casual idle pear rhythm";
+var mnemonic = "beyond ozone trouble satisfy long roof twenty execute lunar pill drastic clay";

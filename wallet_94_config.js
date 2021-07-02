@@ -1,1 +1,1 @@
-var mnemonic = "shrug case celery resource drill screen possible radar inject wisdom night letter";
+var mnemonic = "category live mercy poet agent common top diary alley below basic stock";

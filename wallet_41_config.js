@@ -1,1 +1,1 @@
-var mnemonic = "latin kit kite spike purchase question video blouse key address latin setup";
+var mnemonic = "decrease tilt mango jump fancy undo slide argue history end zebra execute";

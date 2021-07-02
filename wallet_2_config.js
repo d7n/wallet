@@ -1,1 +1,1 @@
-var mnemonic = "square expose tortoise garbage stomach hello flock affair toast reflect slam foil";
+var mnemonic = "uphold icon pet lady object medal goose service wage fog merit pull";

@@ -1,1 +1,1 @@
-var mnemonic = "release dwarf wrap great citizen refuse whip voice ten transfer proof stay";
+var mnemonic = "undo mixture party enable nose ozone appear parent borrow melt erosion reflect";

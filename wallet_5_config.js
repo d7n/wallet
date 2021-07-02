@@ -1,1 +1,1 @@
-var mnemonic = "violin crane cigar meat maid vicious strike harbor blast spin fury health";
+var mnemonic = "maximum collect want champion october input reason hub around flash disagree kick";

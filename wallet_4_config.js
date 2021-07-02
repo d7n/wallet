@@ -1,1 +1,1 @@
-var mnemonic = "session volume olympic trend caught prepare expect turn youth champion birth stamp";
+var mnemonic = "churn drift middle suspect need call dance someone kitchen tag hammer skate";

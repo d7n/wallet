@@ -1,1 +1,1 @@
-var mnemonic = "upon rug machine grief uniform scene armed smoke edge eagle indicate few";
+var mnemonic = "drastic fold focus narrow tunnel vote fatigue cradle warrior monkey alcohol eyebrow";

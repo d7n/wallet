@@ -1,1 +1,1 @@
-var mnemonic = "roast lawn assault giant amused mansion filter west capital skill early fitness";
+var mnemonic = "dolphin group juice goat syrup sing boil girl behind reveal pudding lizard";

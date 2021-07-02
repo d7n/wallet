@@ -1,1 +1,1 @@
-var mnemonic = "double bleak turtle arrange slender federal ask ten silk someone marine own";
+var mnemonic = "length vocal undo athlete roof disorder fade sting police biology apple real";

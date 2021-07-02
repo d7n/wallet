@@ -1,1 +1,1 @@
-var mnemonic = "guide fitness profit maple vintage wage erase off net slush fantasy crane";
+var mnemonic = "discover volume wagon wheel honey voice grace hello lens immune real engage";

@@ -1,1 +1,1 @@
-var mnemonic = "panther crack produce index ethics tiger black spare update auction maze swear";
+var mnemonic = "fresh glimpse recipe deer load orphan path swallow globe modify usual master";

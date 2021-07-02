@@ -1,1 +1,1 @@
-var mnemonic = "repair trust army skull absurd adult leader script sense jelly bike cabin";
+var mnemonic = "motor pluck game credit sniff flower myself swallow risk vicious lend amazing";

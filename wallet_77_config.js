@@ -1,1 +1,1 @@
-var mnemonic = "uphold salt grain fish canoe donor dream list harvest talent disorder true";
+var mnemonic = "huge letter chapter saddle girl predict glass minimum secret electric urge siege";

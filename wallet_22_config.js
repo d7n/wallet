@@ -1,1 +1,1 @@
-var mnemonic = "insect session front expect eye knee fly ostrich isolate lock else build";
+var mnemonic = "weapon galaxy asset chimney physical wine garbage sleep turkey fitness trim moment";

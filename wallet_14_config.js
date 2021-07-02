@@ -1,1 +1,1 @@
-var mnemonic = "adjust stem adult submit tilt brown reason fee film vibrant eyebrow butter";
+var mnemonic = "horse dinosaur slush imitate charge moral similar swallow mad possible wire silk";

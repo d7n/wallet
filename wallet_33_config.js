@@ -1,1 +1,1 @@
-var mnemonic = "tide length quantum crouch patrol label sword banner mom trust limb brisk";
+var mnemonic = "enter top chalk rocket city stool universe amused settle cover say recall";

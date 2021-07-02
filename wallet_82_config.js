@@ -1,1 +1,1 @@
-var mnemonic = "embrace copy paddle stairs act decline course skirt process job board someone";
+var mnemonic = "target height robust bargain peasant blouse exclude spike lyrics order quarter mixed";

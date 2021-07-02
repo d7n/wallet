@@ -1,1 +1,1 @@
-var mnemonic = "cover exclude relief depend apology crew fall agree shaft account salt dinner";
+var mnemonic = "uncle pig leader mansion general unit sock ticket loan fame furnace rare";

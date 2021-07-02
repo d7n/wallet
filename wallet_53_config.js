@@ -1,1 +1,1 @@
-var mnemonic = "cause leave boil repair leopard man rifle theme arrest crop lawsuit fire";
+var mnemonic = "flower debris seek chef sister tornado cereal mom empty lava depth rude";

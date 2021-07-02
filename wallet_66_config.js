@@ -1,1 +1,1 @@
-var mnemonic = "deal age network miss stable bike atom hurry moon useless pilot spin";
+var mnemonic = "kidney buyer club bulb price into cash crouch bundle there borrow profit";

@@ -1,1 +1,1 @@
-var mnemonic = "invest diary coffee tree frown weird order tilt obey scorpion beyond dust";
+var mnemonic = "robot decide sponsor gas spoon inner pitch trip tunnel banana depth whip";
