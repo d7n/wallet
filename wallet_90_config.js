@@ -1,1 +1,1 @@
-var mnemonic = "able color donor praise just uncover about scheme input beyond candy income";
+var mnemonic = "rate reason uncle share quote acoustic bottom sell soft weather census man";

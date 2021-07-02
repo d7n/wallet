@@ -1,1 +1,1 @@
-var mnemonic = "theme pull hub soccer coin clock base stem mutual armed use enough";
+var mnemonic = "mountain success canyon feel version broom nation orbit layer limb split frame";

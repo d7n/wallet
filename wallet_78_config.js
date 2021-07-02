@@ -1,1 +1,1 @@
-var mnemonic = "decline subject execute twin fresh net list melt shell science bunker recall";
+var mnemonic = "crack finish hobby nerve rare skull drastic ranch nerve merge garlic drift";

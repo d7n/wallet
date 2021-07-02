@@ -1,1 +1,1 @@
-var mnemonic = "humble immune rural pupil acid sense oblige orient draft antique conduct swear";
+var mnemonic = "perfect bicycle drip any hobby crew reunion super material olive light tiny";

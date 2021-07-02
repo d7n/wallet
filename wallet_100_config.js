@@ -1,1 +1,1 @@
-var mnemonic = "credit school burden garlic bargain scatter sense zebra captain father puppy cave";
+var mnemonic = "siege merit opinion intact twelve awesome course scissors demise evidence twin stomach";

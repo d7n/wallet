@@ -1,1 +1,1 @@
-var mnemonic = "excite fitness earn slot left slim long best rule swing alone chief";
+var mnemonic = "clay fish gravity song violin twice unaware abandon print snack raccoon medal";

@@ -1,1 +1,1 @@
-var mnemonic = "hair acid cherry defense supreme forest step luxury sphere miss beauty six";
+var mnemonic = "car swamp evoke faint flash write quarter rib security night patient rely";

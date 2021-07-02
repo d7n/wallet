@@ -1,1 +1,1 @@
-var mnemonic = "zebra color purchase oil finger can win trade gossip drive observe whip";
+var mnemonic = "advance anger fabric friend menu inspire warfare ocean morning turkey slide know";

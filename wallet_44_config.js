@@ -1,1 +1,1 @@
-var mnemonic = "humor around matter catch auction age sure habit elite faint conduct budget";
+var mnemonic = "force science execute they soap vacant cushion explain mom safe vocal odor";

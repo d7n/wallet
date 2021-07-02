@@ -1,1 +1,1 @@
-var mnemonic = "crash remove tourist whale next jelly network board swim puzzle noodle extend";
+var mnemonic = "slogan warm wish meat dad tongue useful fever dry slide endorse stand";

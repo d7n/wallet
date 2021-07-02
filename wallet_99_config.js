@@ -1,1 +1,1 @@
-var mnemonic = "endless sheriff vapor image patient venue estate sweet motion pet spatial quit";
+var mnemonic = "sauce now ranch verify dentist pulse glow tone kit someone chest decade";

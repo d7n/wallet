@@ -1,1 +1,1 @@
-var mnemonic = "distance enemy before air gather runway school under rotate fault eight window";
+var mnemonic = "height walk text leg spike differ kick festival option boss fine ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "casino category size other same remain game move predict can brain drastic";
+var mnemonic = "priority labor load tiny razor blame husband school speed spirit life predict";

@@ -1,1 +1,1 @@
-var mnemonic = "vague tray mistake sauce reform grunt sadness pond sketch offer bag always";
+var mnemonic = "mass problem ridge strategy leader allow history hair desert among gather toy";

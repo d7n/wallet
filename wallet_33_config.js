@@ -1,1 +1,1 @@
-var mnemonic = "bomb wagon odor glory toward drive wheel apart degree august galaxy tiny";
+var mnemonic = "noise spider vibrant course swim food settle film artwork valve novel tragic";

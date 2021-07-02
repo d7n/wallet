@@ -1,1 +1,1 @@
-var mnemonic = "regret curious release tunnel rough crunch reward release pepper ancient pizza chalk";
+var mnemonic = "predict brand switch eyebrow biology vintage post zebra situate work canal coffee";

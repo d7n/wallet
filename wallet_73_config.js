@@ -1,1 +1,1 @@
-var mnemonic = "theory machine fringe harsh brave sample call squeeze business cruise use also";
+var mnemonic = "always stereo surge supply battle sword daring dash soon reject project balance";

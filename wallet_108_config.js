@@ -1,1 +1,1 @@
-var mnemonic = "chest creek shell regret expect echo aim nice truly mass peanut shallow";
+var mnemonic = "awful angry output wisdom black warrior salmon choice away tenant cash insane";

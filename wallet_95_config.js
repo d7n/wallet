@@ -1,1 +1,1 @@
-var mnemonic = "emotion manage syrup club push other virus forum master accident century lawsuit";
+var mnemonic = "fantasy hire swap type paddle item ship frown brush belt employ theory";

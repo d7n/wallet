@@ -1,1 +1,1 @@
-var mnemonic = "soldier orange drum next monitor sting pair tool ecology pass special payment";
+var mnemonic = "hamster circle comfort giraffe fire wrap wheat gift civil muffin strong sibling";

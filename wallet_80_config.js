@@ -1,1 +1,1 @@
-var mnemonic = "blouse stand bread rural more camp diamond quote enrich recall ball crazy";
+var mnemonic = "repeat argue crane february remember check seed pitch polar science whip sick";

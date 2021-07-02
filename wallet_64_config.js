@@ -1,1 +1,1 @@
-var mnemonic = "sorry model unlock grain favorite error vicious gasp parade mention purity honey";
+var mnemonic = "draw wrestle soccer firm parrot engage dignity joke slot unknown budget rude";

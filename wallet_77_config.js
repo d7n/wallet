@@ -1,1 +1,1 @@
-var mnemonic = "net ordinary much asthma rubber guide drift begin swap swarm kidney fresh";
+var mnemonic = "burger account dinosaur absurd tackle village unique height casual tail donkey enter";

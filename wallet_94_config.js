@@ -1,1 +1,1 @@
-var mnemonic = "wide news skate pave divorce sort web false multiply quality aisle guitar";
+var mnemonic = "crop diagram room bulb trim eager tower surface noodle cram motor obvious";

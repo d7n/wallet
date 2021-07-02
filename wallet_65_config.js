@@ -1,1 +1,1 @@
-var mnemonic = "obtain anger team coil oak device rain verify target bulb tired badge";
+var mnemonic = "end depend gossip middle phone bar shadow gloom guide fiction powder final";

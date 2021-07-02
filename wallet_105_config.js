@@ -1,1 +1,1 @@
-var mnemonic = "hunt slam setup agent attract water bamboo tower liar sword build elder";
+var mnemonic = "expire artefact trade guard deposit galaxy goddess nut next then crazy theory";

@@ -1,1 +1,1 @@
-var mnemonic = "field high awesome leader identify expect snake heavy market ramp despair total";
+var mnemonic = "skull exercise trumpet champion beach emerge acquire foster move brand outside unknown";

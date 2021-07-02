@@ -1,1 +1,1 @@
-var mnemonic = "occur help fetch quality arena inmate door mean reform wheat accident split";
+var mnemonic = "world uniform ritual weekend ahead ghost pause strategy rare chase thing hurdle";

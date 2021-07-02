@@ -1,1 +1,1 @@
-var mnemonic = "picture mind exchange sustain pony width bread hour wait credit describe deny";
+var mnemonic = "interest arrive submit cinnamon phone oil fox pilot meadow lawsuit chimney jaguar";

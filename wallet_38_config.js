@@ -1,1 +1,1 @@
-var mnemonic = "brick turkey cereal pig grab glare foot nephew response endless hello master";
+var mnemonic = "vintage purpose often steel claim plate wink tooth tiger alter horse solve";

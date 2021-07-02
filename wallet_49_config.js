@@ -1,1 +1,1 @@
-var mnemonic = "few capital until vanish swarm draw pet couch capable injury wage pony";
+var mnemonic = "network school depart habit lemon move knock arrest appear insect cheese skate";

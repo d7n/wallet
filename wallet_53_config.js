@@ -1,1 +1,1 @@
-var mnemonic = "risk shift nest interest aerobic mix tiger seat magnet scissors often kiwi";
+var mnemonic = "during hair century spirit sand spatial galaxy vapor dentist lunar offer farm";

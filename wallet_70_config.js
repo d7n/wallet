@@ -1,1 +1,1 @@
-var mnemonic = "mixed kidney code visit reject deposit silly wear knock dose reveal inquiry";
+var mnemonic = "thumb rail axis clinic attend digital embrace armed proof fat kangaroo tourist";

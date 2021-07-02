@@ -1,1 +1,1 @@
-var mnemonic = "used gaze earn hard rack lady avocado crouch peace valley sell shrug";
+var mnemonic = "reflect hub curtain hungry shield develop pencil hybrid wine weapon expire enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado harsh hair morning marine because inflict enjoy battle doll hint brother";
+var mnemonic = "spatial nothing awake word galaxy salad project cinnamon drip debris duty piece";

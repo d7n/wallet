@@ -1,1 +1,1 @@
-var mnemonic = "improve ship shove link rebel dial fee cram gravity stick bachelor legend";
+var mnemonic = "winner office raise thought lake cancel scare post vague purpose ensure crystal";

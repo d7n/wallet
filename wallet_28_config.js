@@ -1,1 +1,1 @@
-var mnemonic = "candy bar intact badge rapid remain point tobacco word labor wasp budget";
+var mnemonic = "diary net latin doctor quantum across camera purpose nasty squeeze inner art";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer tornado box engine dirt soup amazing theory click report deposit deliver";
+var mnemonic = "jeans crisp junior side flavor joke accident course virus cluster dizzy scorpion";

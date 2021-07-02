@@ -1,1 +1,1 @@
-var mnemonic = "action submit rabbit rural winner field cushion nose snake best kitten unfold";
+var mnemonic = "weasel amazing gown amount radio amateur bag cattle jungle token vital strike";

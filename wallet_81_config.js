@@ -1,1 +1,1 @@
-var mnemonic = "attract salmon soap pulse feature tomorrow close game leg pause marble move";
+var mnemonic = "then moment defy talent strategy attract real august emerge truly mesh float";

@@ -1,1 +1,1 @@
-var mnemonic = "pond you rely jazz asthma execute funny apart believe apology tuna job";
+var mnemonic = "coil pluck chronic stadium lake better venture grace arrest census guilt column";

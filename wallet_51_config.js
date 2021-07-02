@@ -1,1 +1,1 @@
-var mnemonic = "squeeze globe chest iron cheese car silly split fancy mix please seminar";
+var mnemonic = "hedgehog wait help repair tilt dog orchard success false service lady list";

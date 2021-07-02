@@ -1,1 +1,1 @@
-var mnemonic = "hub fragile genuine unfair way inform sausage test express syrup inquiry tourist";
+var mnemonic = "talk sponsor smile mutual lawn legal shiver right kidney solution evolve document";

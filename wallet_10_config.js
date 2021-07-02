@@ -1,1 +1,1 @@
-var mnemonic = "recall teach now fashion glove attend rapid spatial box jaguar beef key";
+var mnemonic = "learn guess divert document success film right unit record faculty spider fiction";

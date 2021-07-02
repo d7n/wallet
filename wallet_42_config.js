@@ -1,1 +1,1 @@
-var mnemonic = "artist zero accident doll swap express lava chaos review rebel violin insect";
+var mnemonic = "water pitch hamster scrub try emerge voice anxiety violin walk brave sleep";

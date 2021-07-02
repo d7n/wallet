@@ -1,1 +1,1 @@
-var mnemonic = "social scorpion drill world once chunk panel price burst ritual month impose";
+var mnemonic = "identify gaze soccer shield tiger angry ask dose evil cover accident deputy";

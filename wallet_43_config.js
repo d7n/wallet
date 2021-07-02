@@ -1,1 +1,1 @@
-var mnemonic = "vacant famous frog dove talk notice aunt length permit open palm wheat";
+var mnemonic = "sausage donate garment sentence umbrella badge orchard relief round before clever maid";

@@ -1,1 +1,1 @@
-var mnemonic = "utility thing strike mention long vote slot infant wave banner appear divide";
+var mnemonic = "brother live polar zone bomb return draft range cluster beyond guard stay";

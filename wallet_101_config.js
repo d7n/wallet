@@ -1,1 +1,1 @@
-var mnemonic = "spare witness behind practice razor mimic involve draft faculty stay indoor deliver";
+var mnemonic = "pool catch surprise height prosper flavor cute blood battle ill balcony area";

@@ -1,1 +1,1 @@
-var mnemonic = "owner alien notice horror spawn wait fruit prosper body remind neutral police";
+var mnemonic = "elephant sauce sphere absorb hope service oxygen umbrella auto stairs vicious climb";

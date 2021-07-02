@@ -1,1 +1,1 @@
-var mnemonic = "life logic great section find celery liberty leader tuna glow sure recycle";
+var mnemonic = "gasp speed scan motion copper merit simple boy mobile walk dumb property";

@@ -1,1 +1,1 @@
-var mnemonic = "smart buzz twenty improve disease tilt crime subway right addict panda lunar";
+var mnemonic = "grain suggest morning oppose logic trash allow almost connect ice force story";

@@ -1,1 +1,1 @@
-var mnemonic = "receive table bomb tool bounce hill bubble law cloth awesome fold student";
+var mnemonic = "clever fossil sun slab green hand define have predict wife mesh exclude";

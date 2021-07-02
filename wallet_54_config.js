@@ -1,1 +1,1 @@
-var mnemonic = "trumpet sight bless olympic drip cradle mixture resemble source chuckle milk prison";
+var mnemonic = "such develop wasp hover leaf reward sweet foster violin tragic oven process";

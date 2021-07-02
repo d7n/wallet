@@ -1,1 +1,1 @@
-var mnemonic = "giggle brick corn buddy sea lend envelope innocent enemy divorce hospital idea";
+var mnemonic = "cement metal consider faith tag scrap pretty inform trash sweet extend force";

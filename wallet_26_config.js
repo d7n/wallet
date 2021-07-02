@@ -1,1 +1,1 @@
-var mnemonic = "wedding ripple sound sentence area betray lonely lion token picnic wing add";
+var mnemonic = "concert supply foam eager sting learn equal rubber slam rose define green";

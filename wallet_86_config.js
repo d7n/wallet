@@ -1,1 +1,1 @@
-var mnemonic = "culture skull love ribbon cup cannon wide miss shift skull exercise emotion";
+var mnemonic = "trip weapon weather issue color stone describe burger adapt empower enroll judge";

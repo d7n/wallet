@@ -1,1 +1,1 @@
-var mnemonic = "pole antenna option stick humor attend potato wing logic action syrup banner";
+var mnemonic = "because wool behave salmon they citizen again decrease soda protect mosquito remember";

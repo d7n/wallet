@@ -1,1 +1,1 @@
-var mnemonic = "lunch govern jealous multiply very fabric amateur derive mixed pudding mad say";
+var mnemonic = "curious end mule carry village around calm fossil utility trial flight update";

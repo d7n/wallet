@@ -1,1 +1,1 @@
-var mnemonic = "anxiety argue earn arrest easily truth caution universe spot discover hour truly";
+var mnemonic = "agent put silver grant portion acid wall daughter arm obtain cave panda";

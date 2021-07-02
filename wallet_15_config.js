@@ -1,1 +1,1 @@
-var mnemonic = "magnet twice butter pipe destroy coach relief response rug estate damage fee";
+var mnemonic = "delay when embrace asset barrel donkey chapter victory perfect ethics glove pool";

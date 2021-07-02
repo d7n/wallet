@@ -1,1 +1,1 @@
-var mnemonic = "worry opera subway slow speed sunset potato miracle lecture resist damp excess";
+var mnemonic = "lucky ankle motion various issue shadow inquiry miss ill hunt spot spirit";

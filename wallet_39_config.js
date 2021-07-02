@@ -1,1 +1,1 @@
-var mnemonic = "crazy jar reveal easy verify garlic quiz patient moment great super supply";
+var mnemonic = "garbage security august magnet noodle curtain whip way dial task cat fresh";

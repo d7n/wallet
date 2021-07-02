@@ -1,1 +1,1 @@
-var mnemonic = "time wood abandon rebuild come lawn visit cook sweet avoid gravity awkward";
+var mnemonic = "welcome stock cool sugar chronic model crop knife message fetch gain possible";

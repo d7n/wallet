@@ -1,1 +1,1 @@
-var mnemonic = "slice service force echo shop carbon sight dry myself inch afraid atom";
+var mnemonic = "battle elbow basic horror school pulse frame retire fun sword foam fatal";

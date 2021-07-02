@@ -1,1 +1,1 @@
-var mnemonic = "decide bone harbor gravity have mango reduce skull cute private thumb token";
+var mnemonic = "wonder object urban paddle toilet used total accuse essence better across income";

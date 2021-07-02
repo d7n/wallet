@@ -1,1 +1,1 @@
-var mnemonic = "couch error chalk treat device win monster limb figure coin hobby bird";
+var mnemonic = "tape execute garbage match tattoo fortune play pluck entry crop stuff bread";

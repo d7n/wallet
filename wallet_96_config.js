@@ -1,1 +1,1 @@
-var mnemonic = "risk tape album industry double possible equal buddy else price hungry suffer";
+var mnemonic = "horn syrup ripple almost fat corn cupboard hurry metal tourist win sun";

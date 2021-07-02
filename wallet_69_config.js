@@ -1,1 +1,1 @@
-var mnemonic = "opera ticket amazing cattle museum tiny poem wrong office hidden rice clever";
+var mnemonic = "slender surprise shift canyon material nephew bunker visual mammal episode result invest";

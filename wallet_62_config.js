@@ -1,1 +1,1 @@
-var mnemonic = "custom tree coach rhythm soldier capital often cool exotic economy pyramid enhance";
+var mnemonic = "people flash decline peace census history glue bus fringe agent tag wolf";

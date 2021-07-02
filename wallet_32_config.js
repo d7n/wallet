@@ -1,1 +1,1 @@
-var mnemonic = "today salad author lock quiz day crowd depend enter situate improve ticket";
+var mnemonic = "now caution shrimp talk rice carbon banner pottery actress draw donkey liar";

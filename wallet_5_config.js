@@ -1,1 +1,1 @@
-var mnemonic = "stick sunset vast brown bulk fee sick way evolve army useful faint";
+var mnemonic = "wine hurdle add loan minimum novel guilt siege retreat six warfare jungle";

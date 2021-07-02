@@ -1,1 +1,1 @@
-var mnemonic = "limb urban empower document collect teach cause flat survey culture near ill";
+var mnemonic = "oyster royal expect regular car draft spin thrive relax void spread put";

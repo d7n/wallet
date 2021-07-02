@@ -1,1 +1,1 @@
-var mnemonic = "frost skull timber toilet globe leopard grant sort alley shaft finger summer";
+var mnemonic = "friend coffee inner stone affair bomb pull speak gloom furnace fame police";

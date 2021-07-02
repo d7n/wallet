@@ -1,1 +1,1 @@
-var mnemonic = "economy have melody butter absorb bunker scan almost exile picture exercise vote";
+var mnemonic = "absorb salon silly letter scene hat sphere comic remind exhaust item magic";

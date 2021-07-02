@@ -1,1 +1,1 @@
-var mnemonic = "lava fury run remind armed detail leg gaze chronic divert weasel public";
+var mnemonic = "phone expire adjust decrease child bracket drip island good stone tongue neglect";

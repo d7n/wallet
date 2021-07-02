@@ -1,1 +1,1 @@
-var mnemonic = "weasel clump provide target will shallow biology tonight excite problem cable response";
+var mnemonic = "announce twin tooth plate drive title seminar exile clog patient brand harbor";

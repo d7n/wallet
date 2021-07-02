@@ -1,1 +1,1 @@
-var mnemonic = "hour twice grit pupil kitchen female skate sand shoe shine clip degree";
+var mnemonic = "guitar ankle tilt call build shoe street remove hungry season evoke cat";

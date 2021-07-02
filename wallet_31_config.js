@@ -1,1 +1,1 @@
-var mnemonic = "asthma permit melody denial quiz humor ignore squirrel offer annual kiss harvest";
+var mnemonic = "ripple snap scheme own east pelican view crush seminar onion ahead soldier";

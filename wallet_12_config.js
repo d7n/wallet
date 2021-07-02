@@ -1,1 +1,1 @@
-var mnemonic = "mixture detail quiz term fence advice exchange tent call only session where";
+var mnemonic = "hover trash foot organ six feed maximum domain smart admit write faculty";

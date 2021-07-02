@@ -1,1 +1,1 @@
-var mnemonic = "oxygen grab invest slender industry truth angle can couch unveil tongue diary";
+var mnemonic = "duty split slogan scrap coral violin guard fatigue disorder betray plug panic";

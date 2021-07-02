@@ -1,1 +1,1 @@
-var mnemonic = "display scan math crew cruel awkward simple water basket clip retreat market";
+var mnemonic = "edit skill mean vendor issue visa cattle rain chaos oblige panic that";

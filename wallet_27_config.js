@@ -1,1 +1,1 @@
-var mnemonic = "appear excess provide struggle concert unfair together drill gap drink good orange";
+var mnemonic = "denial glass sand guilt vital grant space stuff already sheriff type fortune";

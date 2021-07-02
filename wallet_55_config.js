@@ -1,1 +1,1 @@
-var mnemonic = "hospital faith void upgrade train effort plunge design resemble brain response frog";
+var mnemonic = "shaft fever pipe service network tomorrow orchard carry better weekend mimic opera";

@@ -1,1 +1,1 @@
-var mnemonic = "water resource tide glad hurdle cushion wrestle great mixture capital margin stadium";
+var mnemonic = "crime weird garbage orchard rice leisure off answer believe develop fancy kid";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion expose old problem video drop excite ramp drink puppy summer photo";
+var mnemonic = "light bachelor patrol uniform truth sword custom symptom roast bullet sand shrug";

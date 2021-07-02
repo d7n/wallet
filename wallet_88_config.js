@@ -1,1 +1,1 @@
-var mnemonic = "viable sock visual dilemma seminar pledge mirror heart nurse much since monster";
+var mnemonic = "same inquiry beef sample flush abandon solid apart civil industry gap keen";

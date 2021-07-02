@@ -1,1 +1,1 @@
-var mnemonic = "round glimpse urge long resemble decline version mistake alpha divert fashion mercy";
+var mnemonic = "orchard choose enemy harbor segment include document push dwarf snow hollow cupboard";

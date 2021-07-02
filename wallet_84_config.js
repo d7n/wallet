@@ -1,1 +1,1 @@
-var mnemonic = "scout giant chuckle install alien lizard atom gasp sister pig include crater";
+var mnemonic = "famous stomach horse sleep paper trial advance sheriff impact price else abstract";
