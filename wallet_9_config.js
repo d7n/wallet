@@ -1,1 +1,1 @@
-var mnemonic = "they board cycle apple clever asthma scale harvest stamp giant camp network";
+var mnemonic = "slice genius help color rude soldier piano pill limit frame list busy";

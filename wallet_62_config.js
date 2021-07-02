@@ -1,1 +1,1 @@
-var mnemonic = "blur mystery pupil link theory awful better clean museum various truth quote";
+var mnemonic = "select describe flag skirt divert badge gold fog topple bird brain canoe";

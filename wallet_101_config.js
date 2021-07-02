@@ -1,1 +1,1 @@
-var mnemonic = "engine behave whisper nation sword scale bread select script auto diesel tray";
+var mnemonic = "define match dash observe list obey cargo crew outer old goose express";

@@ -1,1 +1,1 @@
-var mnemonic = "inject glow produce large quit wife dawn property world lazy staff attack";
+var mnemonic = "initial clip picture race tuna history vehicle claw immense able judge bridge";

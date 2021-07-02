@@ -1,1 +1,1 @@
-var mnemonic = "rescue area good ladder rude result immune skill bronze wool pioneer together";
+var mnemonic = "boss alert voice manage gossip captain afford shadow surge cart fog width";

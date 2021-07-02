@@ -1,1 +1,1 @@
-var mnemonic = "coconut essence magic tomato correct spray depart oxygen ramp wild cute song";
+var mnemonic = "helmet nose desk master moral poem intact fortune book join yellow mean";

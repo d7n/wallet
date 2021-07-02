@@ -1,1 +1,1 @@
-var mnemonic = "glue table size dwarf three path welcome quantum stomach cruel program ladder";
+var mnemonic = "moon august cake cement verify cat dial spider bicycle bounce trade embody";

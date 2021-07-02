@@ -1,1 +1,1 @@
-var mnemonic = "shaft photo border service over sniff surface syrup say theory usage feature";
+var mnemonic = "swarm tuition maze soda silly pizza rebuild left drip vault lend divorce";

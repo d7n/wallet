@@ -1,1 +1,1 @@
-var mnemonic = "either bless fun either sentence toy original aspect limb three comfort play";
+var mnemonic = "banner eight celery volume diet penalty assume thank tackle learn blanket girl";

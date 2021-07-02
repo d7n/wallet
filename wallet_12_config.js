@@ -1,1 +1,1 @@
-var mnemonic = "either settle turn breeze federal usage art van matrix brain nation expire";
+var mnemonic = "ready hobby robust vague morning thumb like judge question soldier dumb tank";

@@ -1,1 +1,1 @@
-var mnemonic = "proud depart inhale lava cute foot peasant envelope measure sea monkey royal";
+var mnemonic = "truck rifle false charge fun drastic permit pipe slight winter pulp car";

@@ -1,1 +1,1 @@
-var mnemonic = "damage emotion arctic attend bag day saddle punch visual surprise entry galaxy";
+var mnemonic = "imitate valid pet vessel slogan pull program admit sphere control pioneer same";

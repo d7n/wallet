@@ -1,1 +1,1 @@
-var mnemonic = "disease tooth rain wisdom auction process question monkey empty embody bacon basic";
+var mnemonic = "vague bamboo lucky tell knife such shield ribbon ski tower lesson leader";

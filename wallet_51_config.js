@@ -1,1 +1,1 @@
-var mnemonic = "liberty such select key oblige business two ship protect faint easy guard";
+var mnemonic = "garlic alien sugar matrix proof bind electric vital evoke tray refuse task";

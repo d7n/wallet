@@ -1,1 +1,1 @@
-var mnemonic = "myself muscle pig all govern wait mask smile throw flash pattern avoid";
+var mnemonic = "drum super copper muscle heavy view skill tenant ripple simple guard lunar";

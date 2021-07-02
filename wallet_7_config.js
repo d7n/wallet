@@ -1,1 +1,1 @@
-var mnemonic = "beyond park window alcohol orange scene inquiry squeeze crane cute tent chat";
+var mnemonic = "drift pistol oven often curious render fit humble pond derive couch penalty";

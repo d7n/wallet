@@ -1,1 +1,1 @@
-var mnemonic = "purity trend dentist father ranch analyst advance square trophy ladder ring dog";
+var mnemonic = "copper dinner escape code sound night entry knife razor minimum pig same";

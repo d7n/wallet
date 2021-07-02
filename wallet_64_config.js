@@ -1,1 +1,1 @@
-var mnemonic = "neither coyote dragon client okay program ahead chest utility flavor pledge order";
+var mnemonic = "gadget wood brass engage case mean parent lift engine glide inch sweet";

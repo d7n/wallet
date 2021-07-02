@@ -1,1 +1,1 @@
-var mnemonic = "senior define dial convince august glass song fetch census slow always bone";
+var mnemonic = "train undo monkey caution casino scatter gadget whisper sense between shuffle foil";

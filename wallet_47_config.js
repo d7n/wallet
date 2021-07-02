@@ -1,1 +1,1 @@
-var mnemonic = "elephant goat protect fault material check amused weird poem awesome predict build";
+var mnemonic = "staff order million saddle sure hockey order industry stone depth engine under";

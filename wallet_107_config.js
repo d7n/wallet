@@ -1,1 +1,1 @@
-var mnemonic = "cliff cluster sing frequent thunder nut bullet oil drastic senior erode pulse";
+var mnemonic = "inner car skate episode unfold repeat duty define census shoot rather divide";

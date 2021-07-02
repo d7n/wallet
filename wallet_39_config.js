@@ -1,1 +1,1 @@
-var mnemonic = "amused control chunk drink drift tonight busy step arena speed hair nuclear";
+var mnemonic = "cable jaguar misery envelope tumble trouble tree essay merry upset parent great";

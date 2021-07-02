@@ -1,1 +1,1 @@
-var mnemonic = "clay enjoy ridge daughter require provide sustain yellow refuse spoil expand congress";
+var mnemonic = "current off ready gas flight shaft illness shoe season spot ice setup";

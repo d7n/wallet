@@ -1,1 +1,1 @@
-var mnemonic = "shock lyrics license maximum mother brain film problem wrong traffic shed promote";
+var mnemonic = "lemon creek bridge differ case garment bundle author drill give index neutral";

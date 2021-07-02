@@ -1,1 +1,1 @@
-var mnemonic = "bottom same page theme chronic wonder arena payment unique people lyrics hollow";
+var mnemonic = "sort unknown truth music oblige matter illness slam leaf innocent immune common";

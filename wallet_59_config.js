@@ -1,1 +1,1 @@
-var mnemonic = "pull budget artwork apple orchard toss tobacco certain oxygen ring harvest cushion";
+var mnemonic = "advance divorce jelly kiss april record letter benefit tribe sample buffalo defy";

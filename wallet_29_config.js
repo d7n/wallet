@@ -1,1 +1,1 @@
-var mnemonic = "wasp peanut expand salad ozone desert rack festival salad lesson system polar";
+var mnemonic = "kiss advance move hill wife whisper door lemon total zoo antenna position";

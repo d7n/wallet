@@ -1,1 +1,1 @@
-var mnemonic = "mixture various buddy fork sing drill raise unit tide sting phrase total";
+var mnemonic = "slight juice rich ball desk face motor crime eye time work begin";

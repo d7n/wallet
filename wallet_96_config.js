@@ -1,1 +1,1 @@
-var mnemonic = "despair fee rival edit reward tragic inch problem until style naive fence";
+var mnemonic = "follow stove reopen vintage attitude index sentence hurt issue absent galaxy subject";

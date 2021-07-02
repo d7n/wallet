@@ -1,1 +1,1 @@
-var mnemonic = "vendor vote survey sketch leaf render decade liquid soccer feature gaze patch";
+var mnemonic = "suggest loop afford castle churn damage online cactus used derive best helmet";

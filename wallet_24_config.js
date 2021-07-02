@@ -1,1 +1,1 @@
-var mnemonic = "this indoor vanish practice lava empty black blouse engage trim caught debate";
+var mnemonic = "absorb ten develop clip reduce sunset bubble drama van father silver timber";

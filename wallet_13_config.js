@@ -1,1 +1,1 @@
-var mnemonic = "zero alert grit hard scrap language slim relief honey yard famous village";
+var mnemonic = "rude drop hour palace account visa neutral kind balance filter inspire wreck";

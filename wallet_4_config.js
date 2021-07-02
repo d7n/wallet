@@ -1,1 +1,1 @@
-var mnemonic = "favorite misery maximum diary divert drama loyal later grab behave disorder slam";
+var mnemonic = "glue dawn trim kiss laundry across fatal employ resource mansion hold pair";

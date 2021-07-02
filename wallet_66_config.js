@@ -1,1 +1,1 @@
-var mnemonic = "wheel pumpkin special damage thunder chunk name cook deal olive network enough";
+var mnemonic = "sibling candy nothing glimpse notable member explain arm rude test still match";

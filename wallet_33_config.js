@@ -1,1 +1,1 @@
-var mnemonic = "auction depend avocado border wagon bounce paddle innocent false donor equip orient";
+var mnemonic = "author warm happy almost spray minimum merit diesel such piano avocado rough";

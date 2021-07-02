@@ -1,1 +1,1 @@
-var mnemonic = "unhappy group mail vintage worth twist skirt differ flush any flip wire";
+var mnemonic = "birth horse pluck ticket judge merit verify divorce october pyramid civil spirit";

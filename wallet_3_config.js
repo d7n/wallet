@@ -1,1 +1,1 @@
-var mnemonic = "either attend dumb chaos same tree buyer rose kangaroo rigid ticket mesh";
+var mnemonic = "exist year history nurse nice tent require patrol lamp aunt gaze hunt";

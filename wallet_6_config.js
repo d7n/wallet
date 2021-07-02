@@ -1,1 +1,1 @@
-var mnemonic = "pony feature shine post typical color carpet cave moral bargain oval match";
+var mnemonic = "onion dawn chat social fun action diamond amount fork gentle crack enrich";

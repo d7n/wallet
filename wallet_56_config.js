@@ -1,1 +1,1 @@
-var mnemonic = "digital april gold child purse useful erode pride outdoor coral congress pond";
+var mnemonic = "purchase elder audit broccoli early invite undo fancy iron fence soda axis";

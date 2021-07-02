@@ -1,1 +1,1 @@
-var mnemonic = "mad husband erode toast congress odor lunar offer buyer sword action tumble";
+var mnemonic = "pelican elite switch plate guitar bar comfort spoil modify green liquid diamond";

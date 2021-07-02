@@ -1,1 +1,1 @@
-var mnemonic = "good certain deny spy brass protect later jar okay nominee figure salt";
+var mnemonic = "hand true plug shadow invest scale away rich nominee year dial ocean";

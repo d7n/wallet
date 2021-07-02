@@ -1,1 +1,1 @@
-var mnemonic = "guess satoshi staff destroy dwarf sick steel option olive envelope have wife";
+var mnemonic = "behind siege space dilemma common autumn blade submit claim shove source skirt";

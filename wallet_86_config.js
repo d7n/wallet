@@ -1,1 +1,1 @@
-var mnemonic = "stone approve glimpse brush save life helmet saddle lion near soldier best";
+var mnemonic = "panel manage spoon guitar hub loud just witness very divide loop blade";

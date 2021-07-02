@@ -1,1 +1,1 @@
-var mnemonic = "kiss output liar away wine credit refuse canyon prepare steel where cabin";
+var mnemonic = "cool movie kid buffalo voyage tired inmate rug team episode spin page";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal huge security urban mosquito onion used cigar gentle what youth twin";
+var mnemonic = "vacant member scissors child depend cage property dwarf chef silent siren pig";

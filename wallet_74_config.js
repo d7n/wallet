@@ -1,1 +1,1 @@
-var mnemonic = "river wish sting donor topple actress other want expect give birth ticket";
+var mnemonic = "suit carpet crisp boost suspect narrow frown twice recipe enemy help mercy";

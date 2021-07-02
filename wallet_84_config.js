@@ -1,1 +1,1 @@
-var mnemonic = "wedding treat tide carbon motor odor exile tooth sheriff orient total fresh";
+var mnemonic = "reveal cute upgrade network target outdoor manual claim sail pigeon industry segment";

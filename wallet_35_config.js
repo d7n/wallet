@@ -1,1 +1,1 @@
-var mnemonic = "swear eternal silver daring credit position simple empty goose filter enter puzzle";
+var mnemonic = "hybrid message rare obey kit kick what urge ramp coil whip cave";

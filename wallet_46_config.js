@@ -1,1 +1,1 @@
-var mnemonic = "crime frost improve pottery sunny capital wrap game invite bar height human";
+var mnemonic = "tiny client rally unfair praise slam rose build general jacket clip combine";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon sing excess member wool emotion goat easy soul they speed shuffle";
+var mnemonic = "various drill metal certain foil dish flee thought end extra wash mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect tumble bronze alarm absurd dry ramp sign tone route fresh pulp";
+var mnemonic = "poverty fog sadness rhythm crucial ozone pretty only load inspire feed settle";

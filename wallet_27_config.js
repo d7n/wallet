@@ -1,1 +1,1 @@
-var mnemonic = "motion inflict stage chaos today warrior ocean rebuild blame unknown hidden abuse";
+var mnemonic = "gather reopen panel disagree robust oblige amused galaxy then sweet sugar job";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely day best chair nose enroll evolve breeze action shield replace main";
+var mnemonic = "business quit drive sweet resemble return desk clock soft inside knee cloud";

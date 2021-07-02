@@ -1,1 +1,1 @@
-var mnemonic = "network disease situate aisle shiver fiber egg stone satoshi attack despair reform";
+var mnemonic = "joy wrap stereo decorate pride zero mansion lava suggest rabbit limb gasp";

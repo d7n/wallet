@@ -1,1 +1,1 @@
-var mnemonic = "old chase problem shift bright quarter sentence random beauty place bronze shift";
+var mnemonic = "economy six milk lucky bone exhibit guide clown injury client party dinner";

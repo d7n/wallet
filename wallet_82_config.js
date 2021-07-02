@@ -1,1 +1,1 @@
-var mnemonic = "evolve close unfair flame level pizza energy hurry upgrade forum mother north";
+var mnemonic = "exclude rare anxiety inspire anchor climb swift expand manage warfare garment vivid";

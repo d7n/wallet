@@ -1,1 +1,1 @@
-var mnemonic = "void trip flee puzzle soul issue volcano place shift comic dream friend";
+var mnemonic = "hamster evolve noodle dance soon mixture vague liar vast object voyage tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain chaos monster cash armed nurse casino deposit box glass draw equip";
+var mnemonic = "among couch year hover inherit wrong denial season pave custom mammal hammer";

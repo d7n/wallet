@@ -1,1 +1,1 @@
-var mnemonic = "loyal ticket problem piece infant video win pill next meat note squirrel";
+var mnemonic = "nature coast twin tourist loud champion attack tree phone hobby weapon seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter chalk anxiety stuff all stay capable inhale volcano wrestle city pretty";
+var mnemonic = "legend flag foot decide nut ankle expect seven use charge turn because";

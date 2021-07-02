@@ -1,1 +1,1 @@
-var mnemonic = "spread enable robot execute rigid scissors minimum pigeon antique letter frog whip";
+var mnemonic = "brick kingdom inform short minimum project seminar multiply height talent hover pioneer";

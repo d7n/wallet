@@ -1,1 +1,1 @@
-var mnemonic = "expand rib medal sword horror taxi eternal section smooth false venue check";
+var mnemonic = "quote shallow garbage almost bread purity mail choose visual hobby sentence essay";

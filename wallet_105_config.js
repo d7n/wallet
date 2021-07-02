@@ -1,1 +1,1 @@
-var mnemonic = "already reject describe wrestle moral either outdoor note rate warrior slush carry";
+var mnemonic = "warrior dentist empower wheel problem oxygen wisdom license impact spatial gesture bench";

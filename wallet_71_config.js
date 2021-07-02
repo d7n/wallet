@@ -1,1 +1,1 @@
-var mnemonic = "guard trash rubber loud lamp hill seminar phone slab domain travel hurry";
+var mnemonic = "nice oven episode relief twenty current helmet coast renew elephant walk smart";

@@ -1,1 +1,1 @@
-var mnemonic = "equal diary bubble update sell entire note keen maid unaware kit senior";
+var mnemonic = "swallow giant eager hour abuse junk menu like current gospel holiday sport";

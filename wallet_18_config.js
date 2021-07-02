@@ -1,1 +1,1 @@
-var mnemonic = "paddle door young demise close hard cross deliver ivory fortune kite champion";
+var mnemonic = "vital pull birth what away amazing wonder effort air style slow harbor";

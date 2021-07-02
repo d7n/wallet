@@ -1,1 +1,1 @@
-var mnemonic = "milk parade poverty mammal two suggest knee used tiger brave glare burst";
+var mnemonic = "female blame pet infant cover kiwi egg donor erase puzzle muffin boy";

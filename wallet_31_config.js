@@ -1,1 +1,1 @@
-var mnemonic = "blame pupil letter reduce warm kiwi throw glow also pact sell check";
+var mnemonic = "matter target monkey rich toe park hole consider board east old sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "either ketchup general hip dilemma judge diesel service toward shuffle exile sea";
+var mnemonic = "pitch split zebra utility island extra clever pave strategy garlic power ostrich";

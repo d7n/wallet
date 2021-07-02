@@ -1,1 +1,1 @@
-var mnemonic = "echo health lend this depth remember mother fish humble rail flock prison";
+var mnemonic = "luggage blossom ankle worry bamboo ladder skirt list razor rubber fury they";

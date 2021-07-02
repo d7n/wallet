@@ -1,1 +1,1 @@
-var mnemonic = "sun sand bridge clog maximum muscle ship beach empty dirt lizard delay";
+var mnemonic = "detect grant approve mouse various panda dolphin rule tumble coach rare possible";

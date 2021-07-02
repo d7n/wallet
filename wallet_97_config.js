@@ -1,1 +1,1 @@
-var mnemonic = "idle betray evidence flush runway talk custom fish tomorrow oven reveal sausage";
+var mnemonic = "vacuum jeans state amateur benefit lobster argue era age pepper swamp bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "payment struggle desert practice process gaze spoil atom cook try boss helmet";
+var mnemonic = "pluck quote sing bean else anchor faith govern shield rail reunion orphan";

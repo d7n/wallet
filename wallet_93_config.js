@@ -1,1 +1,1 @@
-var mnemonic = "organ heart card tornado settle arctic clown floor rent term focus border";
+var mnemonic = "music double hope reveal can future destroy brain orchard armor design brother";

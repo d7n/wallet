@@ -1,1 +1,1 @@
-var mnemonic = "idle cement minor ahead diamond estate mom cart hello real giggle skirt";
+var mnemonic = "arctic possible where goose lava table chaos zone tonight bamboo able gather";

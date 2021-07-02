@@ -1,1 +1,1 @@
-var mnemonic = "crane roast flat slight usual bicycle inhale tuition lumber say scrap outdoor";
+var mnemonic = "daring silk embrace primary exotic winter mansion coin correct myself squirrel vintage";

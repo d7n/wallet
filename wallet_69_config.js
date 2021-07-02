@@ -1,1 +1,1 @@
-var mnemonic = "turtle one receive cost celery razor develop trade jacket garment tank trouble";
+var mnemonic = "coral latin buffalo oyster equip alone add notable only welcome curious night";

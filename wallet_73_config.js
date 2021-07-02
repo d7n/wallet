@@ -1,1 +1,1 @@
-var mnemonic = "category bomb senior subject below danger work field wagon spoon onion cloth";
+var mnemonic = "survey royal any general knock twist pumpkin certain explain alien quit skate";

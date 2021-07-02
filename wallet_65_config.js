@@ -1,1 +1,1 @@
-var mnemonic = "injury fitness rug leave pact stairs hawk lazy kiwi access punch general";
+var mnemonic = "shed fade huge multiply place ceiling december bid review chef invest check";

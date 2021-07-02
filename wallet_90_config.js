@@ -1,1 +1,1 @@
-var mnemonic = "chair suspect strike ketchup rib fortune size forward path blush disorder feature";
+var mnemonic = "portion remain garbage evil tumble stuff desert digital whisper always recycle item";

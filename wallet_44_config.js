@@ -1,1 +1,1 @@
-var mnemonic = "kidney kangaroo discover spy mail label borrow unfair hidden math jelly legal";
+var mnemonic = "man cricket start happy source seven shoulder aisle choice delay blue clock";

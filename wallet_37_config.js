@@ -1,1 +1,1 @@
-var mnemonic = "travel junk artwork cement hurt ceiling motion minor sail possible bind reflect";
+var mnemonic = "audit club setup cactus weather mango double machine kit sorry boss fit";

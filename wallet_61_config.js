@@ -1,1 +1,1 @@
-var mnemonic = "other worry night mouse all jewel idea curve april bless atom cycle";
+var mnemonic = "ghost twice fun unusual favorite ecology pilot kiwi reason shield iron round";

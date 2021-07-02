@@ -1,1 +1,1 @@
-var mnemonic = "magic bag foster relief axis sail grid neck note radio express pizza";
+var mnemonic = "live soup pyramid until between fresh lottery elevator lake chef approve pretty";

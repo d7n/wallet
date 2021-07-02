@@ -1,1 +1,1 @@
-var mnemonic = "country memory night lounge hunt rely invite fury craft define car urban";
+var mnemonic = "error decide stairs admit come model garden adult bundle lab rescue bus";

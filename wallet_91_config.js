@@ -1,1 +1,1 @@
-var mnemonic = "enforce shoulder destroy turtle hotel rent fatal resist interest bag roast eight";
+var mnemonic = "situate cinnamon mixture come erase wall apple innocent jaguar oven material approve";
