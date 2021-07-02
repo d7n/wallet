@@ -1,1 +1,1 @@
-var mnemonic = "evidence woman comic monitor image blade hobby legal hospital dove shallow above";
+var mnemonic = "forum combine enrich tide soon settle strong ticket panic ask snap similar";

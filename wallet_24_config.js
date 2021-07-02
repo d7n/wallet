@@ -1,1 +1,1 @@
-var mnemonic = "enemy intact follow beach world vapor mixture chapter melt perfect sing cause";
+var mnemonic = "tank frame believe jaguar enable grocery canvas alcohol marine cabbage that actual";

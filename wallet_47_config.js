@@ -1,1 +1,1 @@
-var mnemonic = "dynamic icon symbol double crazy swap music foam collect sail shoot pass";
+var mnemonic = "chat armor web gift dust ankle mouse obscure torch group upon twelve";

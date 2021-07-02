@@ -1,1 +1,1 @@
-var mnemonic = "budget peasant solution envelope install tube space peasant tiny urban december soon";
+var mnemonic = "gospel accident video job evolve ship aerobic animal mask unknown between laptop";

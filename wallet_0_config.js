@@ -1,1 +1,1 @@
-var mnemonic = "employ special rocket lawsuit tired turtle strong drum actual apart develop lobster";
+var mnemonic = "recycle cat tape laundry chuckle faith garlic sight much quality sick envelope";

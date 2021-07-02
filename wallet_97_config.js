@@ -1,1 +1,1 @@
-var mnemonic = "dutch fold logic stool repeat mixed average voice liar boring nothing initial";
+var mnemonic = "above used equip alert diary trumpet grace visa another write prison object";

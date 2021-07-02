@@ -1,1 +1,1 @@
-var mnemonic = "insect embody divide lab core orphan topple file minimum occur silk neck";
+var mnemonic = "acid toilet tornado world obvious apple pottery under august inside doctor defense";

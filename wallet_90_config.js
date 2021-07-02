@@ -1,1 +1,1 @@
-var mnemonic = "inspire forum chaos apart nominee hurdle awake change tattoo humor expect truly";
+var mnemonic = "rhythm defy wrestle confirm purity genre rebuild blade relief auto circle salmon";

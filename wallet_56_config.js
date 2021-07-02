@@ -1,1 +1,1 @@
-var mnemonic = "warm fiscal dream brave hub permit silent few luxury example sick holiday";
+var mnemonic = "uncle credit divert warrior deny torch tail endorse web kiwi length require";

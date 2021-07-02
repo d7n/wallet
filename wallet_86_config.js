@@ -1,1 +1,1 @@
-var mnemonic = "recall assist raw invite gloom sniff cradle volcano coral own flush soldier";
+var mnemonic = "disease fragile auto case panel allow paddle skin blur grit economy sample";

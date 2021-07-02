@@ -1,1 +1,1 @@
-var mnemonic = "scissors way feel anger wood pumpkin obscure ginger wreck parrot trial public";
+var mnemonic = "bag random you hunt together wheat fork ticket aunt head eight solve";

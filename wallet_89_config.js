@@ -1,1 +1,1 @@
-var mnemonic = "inhale drum police stamp session tragic shell other bonus nation today animal";
+var mnemonic = "carpet put skin blanket letter basket cement pact truck cinnamon initial toy";

@@ -1,1 +1,1 @@
-var mnemonic = "race lemon celery tent scare business crew add picnic desk burden hurry";
+var mnemonic = "crawl shiver whisper slice toast wash near then meat chunk enlist major";

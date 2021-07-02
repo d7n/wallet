@@ -1,1 +1,1 @@
-var mnemonic = "survey helmet predict emerge choose confirm unusual junior slender current rival pave";
+var mnemonic = "wife mountain same vague mushroom true reward debate letter task split main";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer income youth scene hedgehog timber weasel boring actor ignore turtle bless";
+var mnemonic = "bundle come immune wonder tennis illness demand unhappy flush rich shrug oblige";

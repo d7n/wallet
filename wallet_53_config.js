@@ -1,1 +1,1 @@
-var mnemonic = "garage uncle answer fade forest embody total develop hockey swamp swamp blue";
+var mnemonic = "client inch orange correct click erupt stay virus electric trend trophy young";

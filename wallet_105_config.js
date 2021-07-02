@@ -1,1 +1,1 @@
-var mnemonic = "leave stone property mail service phone awake race upon tail park include";
+var mnemonic = "divorce portion spawn young sibling combine cactus such defense unfold power truth";

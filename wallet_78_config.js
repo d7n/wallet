@@ -1,1 +1,1 @@
-var mnemonic = "remember weapon glance remain tattoo clean follow useless calm life edge teach";
+var mnemonic = "idea neck draft grid degree plate history decide mobile castle attend guard";

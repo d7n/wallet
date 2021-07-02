@@ -1,1 +1,1 @@
-var mnemonic = "resemble bottom man coach bone shuffle retire few clock work hill cable";
+var mnemonic = "blue scheme advance parade scorpion swim box depart list mystery drill load";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion grant setup symptom display noise dwarf credit note ethics ranch humble";
+var mnemonic = "pig error mercy sing genius link student protect above oil then project";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin route hour concert marble gesture ridge define require certain small edit";
+var mnemonic = "scheme message grant suggest ten detect estate shy lemon bulb sweet frown";

@@ -1,1 +1,1 @@
-var mnemonic = "else start coach melody release shaft blanket shallow snap video smart creek";
+var mnemonic = "flee hen agree celery carpet bright charge frequent border clever fold virus";

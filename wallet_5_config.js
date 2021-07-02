@@ -1,1 +1,1 @@
-var mnemonic = "jump situate sunset clap gadget album tray tissue garbage love tennis weasel";
+var mnemonic = "robot myself anxiety glimpse true wheel grunt letter memory all peanut social";

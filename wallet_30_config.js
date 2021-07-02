@@ -1,1 +1,1 @@
-var mnemonic = "traffic comfort lens key risk happy habit fashion cement rescue raccoon hurry";
+var mnemonic = "economy embark shop omit immense divorce patrol fork lounge real noise bacon";

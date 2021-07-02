@@ -1,1 +1,1 @@
-var mnemonic = "exhibit noble split sense capable color enforce payment length arrow prevent pattern";
+var mnemonic = "need hen traffic surge wire mirror family nasty history later onion toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "rice hybrid eternal change shield bronze mother absorb worth since debate vibrant";
+var mnemonic = "stomach dinner hero grunt prefer feel engage chalk pelican side panther thrive";

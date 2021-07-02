@@ -1,1 +1,1 @@
-var mnemonic = "cheese rail buddy trial base reward cram theory response tenant search outdoor";
+var mnemonic = "capable honey satoshi vanish noodle catalog canal assist hard when marriage tank";

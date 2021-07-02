@@ -1,1 +1,1 @@
-var mnemonic = "neither since family tomato display load cram follow scale large acoustic peanut";
+var mnemonic = "cram whisper toilet traffic skate dish abstract among nice place spoil allow";

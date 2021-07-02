@@ -1,1 +1,1 @@
-var mnemonic = "hurry mixed hub into walnut tuition brave enroll bright scale bless thunder";
+var mnemonic = "leaf lyrics impact catalog chest palm dinosaur blood friend rebuild thought wood";

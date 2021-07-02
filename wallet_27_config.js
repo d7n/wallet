@@ -1,1 +1,1 @@
-var mnemonic = "danger ask chef fuel wool either choose real charge wage crew damp";
+var mnemonic = "parrot stumble enter humor absent adjust essay pyramid present empower soda menu";

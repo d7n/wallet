@@ -1,1 +1,1 @@
-var mnemonic = "clown earn decorate parrot also major ozone female spread funny large system";
+var mnemonic = "castle fire vague asthma corn convince forum acquire limb alley outdoor visit";

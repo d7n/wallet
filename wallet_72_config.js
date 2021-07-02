@@ -1,1 +1,1 @@
-var mnemonic = "sugar way garden buzz angle mistake conduct approve stand era motor jungle";
+var mnemonic = "prevent beef biology afford naive anxiety uphold apple couple extra patrol moment";

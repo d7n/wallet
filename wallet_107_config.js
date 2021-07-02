@@ -1,1 +1,1 @@
-var mnemonic = "clerk walnut riot brave cash safe neither print issue cross material road";
+var mnemonic = "taxi walk cloud close design okay torch refuse vital genre inmate coil";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling right mistake parent can number syrup truth explain quantum close episode";
+var mnemonic = "warrior inside best jar high record theme glove good journey unaware gauge";

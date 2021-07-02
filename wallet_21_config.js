@@ -1,1 +1,1 @@
-var mnemonic = "virus hobby ridge define anchor cradle can when drop system govern person";
+var mnemonic = "day stereo depart umbrella lawn bench state nerve suffer ranch devote liberty";

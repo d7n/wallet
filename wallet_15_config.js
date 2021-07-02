@@ -1,1 +1,1 @@
-var mnemonic = "lamp witness below such rich elevator universe very involve misery style hat";
+var mnemonic = "badge pet flower refuse trick bicycle misery space essay gold unfair rotate";

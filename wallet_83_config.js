@@ -1,1 +1,1 @@
-var mnemonic = "affair crystal truly vacuum cross north dress ramp shift trip cave clarify";
+var mnemonic = "extend use avocado worry swap region pumpkin load ask swim clinic install";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard setup glow plate face chase fault sunset expand normal six despair";
+var mnemonic = "discover across extend stuff favorite sick scissors diamond apology spend more ice";

@@ -1,1 +1,1 @@
-var mnemonic = "cash kiss deny stand evoke desert inform arrest ancient shoe better awesome";
+var mnemonic = "matrix bacon amateur quit bike remind inhale capable crazy wage gallery reopen";

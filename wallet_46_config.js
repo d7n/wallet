@@ -1,1 +1,1 @@
-var mnemonic = "sound antique shrimp size girl present news vocal ten they judge sense";
+var mnemonic = "romance cook spell trip fruit about ahead mountain weird march drip fit";

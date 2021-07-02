@@ -1,1 +1,1 @@
-var mnemonic = "anxiety brush lesson same cool imitate same invite december rose update flavor";
+var mnemonic = "coconut shoulder column glide keen essay kite rocket hover hammer thing until";

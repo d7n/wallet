@@ -1,1 +1,1 @@
-var mnemonic = "library sing tongue enroll evolve witness tuition time disorder risk pluck blanket";
+var mnemonic = "cash pilot like harbor inquiry reject list estate great table limit roof";

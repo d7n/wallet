@@ -1,1 +1,1 @@
-var mnemonic = "bench mountain mystery sudden fury fox steak pave candy village orange describe";
+var mnemonic = "gather trip month document lab tank clock modify magnet thrive minimum fan";

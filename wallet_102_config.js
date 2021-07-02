@@ -1,1 +1,1 @@
-var mnemonic = "loyal note post runway mosquito bean trophy zoo wing catch lion hint";
+var mnemonic = "brass muscle banana stuff tank history ridge cover check sorry core combine";

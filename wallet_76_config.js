@@ -1,1 +1,1 @@
-var mnemonic = "alone denial regular spirit frame lens advice potato quantum vacuum swap junior";
+var mnemonic = "flame picnic uphold violin license sure follow taxi laundry pause whip trap";

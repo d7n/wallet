@@ -1,1 +1,1 @@
-var mnemonic = "control sentence choose check canyon autumn proud brief mushroom snap glad left";
+var mnemonic = "very jelly wrap genuine orient portion cat police another upgrade casino labor";

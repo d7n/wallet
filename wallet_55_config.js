@@ -1,1 +1,1 @@
-var mnemonic = "awake risk blood lounge current change truck swamp swap adjust inject vintage";
+var mnemonic = "rally snake blue blouse fortune myself gap under pelican all talent general";

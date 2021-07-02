@@ -1,1 +1,1 @@
-var mnemonic = "truth autumn trophy young idle stuff cross monster energy cluster woman fetch";
+var mnemonic = "kiss capital lesson leave drum eyebrow insect enrich exotic soon valid caught";

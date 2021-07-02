@@ -1,1 +1,1 @@
-var mnemonic = "shuffle chalk pipe tourist final soup velvet paddle bonus velvet judge together";
+var mnemonic = "demand wreck warm lecture stamp invest update comic lunar indoor coffee wife";

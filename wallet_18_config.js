@@ -1,1 +1,1 @@
-var mnemonic = "twist potato dizzy filter primary length fiscal genre clarify dinner outer law";
+var mnemonic = "screen online lens correct base earn inject below abstract crisp adjust mammal";

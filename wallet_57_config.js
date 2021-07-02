@@ -1,1 +1,1 @@
-var mnemonic = "legal priority creek hurry gadget refuse panic gun voice trick filter urban";
+var mnemonic = "lion inform utility message embark dirt square scare burst tail scissors weather";

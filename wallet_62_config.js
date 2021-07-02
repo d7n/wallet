@@ -1,1 +1,1 @@
-var mnemonic = "dinner memory fame raw genre advance rent genre like eagle quit lion";
+var mnemonic = "okay employ interest aware live year dinner music depart task poet bamboo";

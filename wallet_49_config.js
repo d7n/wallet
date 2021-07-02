@@ -1,1 +1,1 @@
-var mnemonic = "analyst duck hunt lounge worry rookie olympic economy until kid group flame";
+var mnemonic = "title east insane blue forum ozone resist erosion charge rack arrow silver";

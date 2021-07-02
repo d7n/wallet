@@ -1,1 +1,1 @@
-var mnemonic = "conduct circle unveil today require beauty arrest occur hawk luxury scorpion saddle";
+var mnemonic = "worry erosion snake spider negative include wolf either ball reject antenna gesture";

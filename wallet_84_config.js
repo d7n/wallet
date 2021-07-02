@@ -1,1 +1,1 @@
-var mnemonic = "edge trophy annual twelve glad lock harsh mobile heavy wolf detect fever";
+var mnemonic = "favorite pencil minimum rail mango walk tower barrel estate habit debris impose";

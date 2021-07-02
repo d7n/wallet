@@ -1,1 +1,1 @@
-var mnemonic = "dolphin under spring guess crop hockey garlic pitch guitar funny script elephant";
+var mnemonic = "drift any depend humble grape wide sheriff insane skull segment rifle find";

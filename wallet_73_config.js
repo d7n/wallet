@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog inflict elephant work evil aware subway master mobile cover fan evidence";
+var mnemonic = "bridge bread bread poet image text van crane warm announce skate toddler";

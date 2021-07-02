@@ -1,1 +1,1 @@
-var mnemonic = "nose stuff client twenty swim hawk clever message art disagree else youth";
+var mnemonic = "snap hub celery talent embody mountain current bachelor balance foil bench salad";

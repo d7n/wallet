@@ -1,1 +1,1 @@
-var mnemonic = "slow walk road affair sand old biology guilt now lesson dawn mom";
+var mnemonic = "bike cause undo december winter strike direct track fit camp legend tooth";

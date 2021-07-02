@@ -1,1 +1,1 @@
-var mnemonic = "put alcohol pistol suffer cinnamon erupt card pool rude list run punch";
+var mnemonic = "orange recipe wasp judge knock utility find design speak gas pigeon purpose";

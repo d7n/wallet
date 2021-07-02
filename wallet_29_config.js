@@ -1,1 +1,1 @@
-var mnemonic = "genuine soap best car guess camera radar debate october hundred dish skin";
+var mnemonic = "spell apple broken raw impose artefact way slice photo attitude start fold";

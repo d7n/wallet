@@ -1,1 +1,1 @@
-var mnemonic = "region spice confirm crazy search animal thing galaxy bean morning youth umbrella";
+var mnemonic = "search fever bargain dice cliff girl transfer train car embrace piece patrol";

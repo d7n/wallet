@@ -1,1 +1,1 @@
-var mnemonic = "pioneer room other yard elevator wrap replace topple limit escape swallow delay";
+var mnemonic = "sadness pepper alpha monkey metal grief door safe cheap badge vicious tiny";

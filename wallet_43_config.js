@@ -1,1 +1,1 @@
-var mnemonic = "young over announce reward void smoke kitten column second cereal dutch junk";
+var mnemonic = "squirrel huge negative region radio trade rocket lawn syrup trust crucial advice";

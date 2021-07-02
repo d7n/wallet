@@ -1,1 +1,1 @@
-var mnemonic = "there genre initial hundred phrase trust broom theory curious grab vote control";
+var mnemonic = "across human today oil hole myth mushroom employ erupt debris base satoshi";

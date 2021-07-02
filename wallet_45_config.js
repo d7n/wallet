@@ -1,1 +1,1 @@
-var mnemonic = "bundle marine harvest medal spirit syrup exchange gravity squeeze embark spike liar";
+var mnemonic = "bamboo regular among seed weather hero action capable kite plastic crouch category";

@@ -1,1 +1,1 @@
-var mnemonic = "certain judge tone captain tuna coin gloom asset demise rose mouse rare";
+var mnemonic = "feed rail cart enforce detail garbage settle unhappy ceiling cricket weekend swarm";

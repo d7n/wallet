@@ -1,1 +1,1 @@
-var mnemonic = "fine useful dinner actress grass edge borrow hole fruit fatigue text noble";
+var mnemonic = "glide detail goddess news primary diagram differ debate become attend split broken";

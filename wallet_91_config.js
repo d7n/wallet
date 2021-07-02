@@ -1,1 +1,1 @@
-var mnemonic = "dragon gauge shuffle move cake day onion top august agent bachelor only";
+var mnemonic = "stove auto drama copy minute capital one tooth orient lawn ready during";

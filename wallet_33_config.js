@@ -1,1 +1,1 @@
-var mnemonic = "ladder click anger burst card infant move husband demise hard pistol discover";
+var mnemonic = "pledge hungry bless busy shiver present onion board famous curtain juice blood";

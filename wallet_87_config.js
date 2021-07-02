@@ -1,1 +1,1 @@
-var mnemonic = "acquire kick client situate hint butter coin excess lock feel diamond elite";
+var mnemonic = "main dust enrich flip salon kidney planet first coconut play jealous diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "oval slide slot squeeze goose naive expand parrot only sand habit rubber";
+var mnemonic = "fork success dad chest entry install initial quality hockey canvas harvest segment";

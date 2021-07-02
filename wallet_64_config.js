@@ -1,1 +1,1 @@
-var mnemonic = "error vacant shield segment figure imitate action clump pair matrix april twin";
+var mnemonic = "coach come tide lecture window hospital ethics apple sick pride hen jewel";

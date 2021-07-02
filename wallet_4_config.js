@@ -1,1 +1,1 @@
-var mnemonic = "leisure click valid interest uncle minute boat scan real cool stay dragon";
+var mnemonic = "dizzy rally have inspire april road lizard sibling change sheriff keep laugh";

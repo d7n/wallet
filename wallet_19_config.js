@@ -1,1 +1,1 @@
-var mnemonic = "legend boat describe actress thank wrap meadow primary clarify bounce divide cliff";
+var mnemonic = "brush depart harsh inject battle fashion act march hamster speed inner climb";

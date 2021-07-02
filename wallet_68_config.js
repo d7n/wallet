@@ -1,1 +1,1 @@
-var mnemonic = "chalk target illness viable cherry token skull hunt present dolphin often wheat";
+var mnemonic = "bring similar topple shrimp burst final float knife random supply anxiety true";

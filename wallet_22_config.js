@@ -1,1 +1,1 @@
-var mnemonic = "use intact enroll reason match detect coyote brief home pipe cabin elephant";
+var mnemonic = "tornado typical such expand orbit arrow negative drip curious mom talk route";

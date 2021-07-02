@@ -1,1 +1,1 @@
-var mnemonic = "client valve shadow skate robust combine stay jeans ozone dwarf gentle sword";
+var mnemonic = "digital tiger leg educate anchor warm main anger biology vacant vote spy";

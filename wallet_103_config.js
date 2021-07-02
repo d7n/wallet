@@ -1,1 +1,1 @@
-var mnemonic = "better result between erosion buzz purchase crush doctor flock invite hold school";
+var mnemonic = "process fatal palace vocal spoil dumb boost evolve crop brisk rural planet";

@@ -1,1 +1,1 @@
-var mnemonic = "topic forum buyer engine basic risk neutral inherit advice upgrade dentist fan";
+var mnemonic = "kiss wire grab wealth cause axis dune heart misery wide kiwi say";

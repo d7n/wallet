@@ -1,1 +1,1 @@
-var mnemonic = "dad pepper inflict laptop sock disease clog deputy fire left clog find";
+var mnemonic = "cheap scatter enrich mother entire brick pact physical grow happy border uphold";

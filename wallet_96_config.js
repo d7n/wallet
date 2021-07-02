@@ -1,1 +1,1 @@
-var mnemonic = "wrap float nurse shy blade dream dinner material able seminar drop crime";
+var mnemonic = "garment zoo focus lonely plug theme panel brush clap chest loud fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "grant panther twenty reopen beyond vendor concert leaf shy sibling jewel giggle";
+var mnemonic = "start soup height fade title fog icon dumb true faint squeeze canal";

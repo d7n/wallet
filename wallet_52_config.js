@@ -1,1 +1,1 @@
-var mnemonic = "bind update cube february main phrase lamp canoe churn narrow board awkward";
+var mnemonic = "congress erosion neutral keep image climb state bunker giant atom creek inmate";

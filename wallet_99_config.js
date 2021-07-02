@@ -1,1 +1,1 @@
-var mnemonic = "ten knee lock dizzy flag armed gown hood melody transfer victory outside";
+var mnemonic = "admit scout dune rubber veteran distance quiz nest sail riot rather audit";

@@ -1,1 +1,1 @@
-var mnemonic = "deal buyer rely hundred shell trial panel mind replace march circle giant";
+var mnemonic = "immense maid recipe quarter work hub basic enemy dignity clown bacon math";

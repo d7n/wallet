@@ -1,1 +1,1 @@
-var mnemonic = "daring census age awake replace sense pave able cage play quit accident";
+var mnemonic = "galaxy garment arm deposit tilt chaos depend resemble question child afraid speak";

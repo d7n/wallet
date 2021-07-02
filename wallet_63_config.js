@@ -1,1 +1,1 @@
-var mnemonic = "history danger front grid clutch orange machine they grit only cricket slush";
+var mnemonic = "satisfy clip certain direct vital foot rug crunch twist quit nose rotate";

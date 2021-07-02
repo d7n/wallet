@@ -1,1 +1,1 @@
-var mnemonic = "runway voice start focus riot update belt arch bar cool month local";
+var mnemonic = "rifle cheap payment mutual subject idea hawk amazing swear chat rigid thing";

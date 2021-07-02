@@ -1,1 +1,1 @@
-var mnemonic = "filter gadget october pluck health swallow mother social fish defy crane zone";
+var mnemonic = "spare body carbon cross obey basic sorry dinosaur sphere click resource exercise";

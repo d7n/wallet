@@ -1,1 +1,1 @@
-var mnemonic = "afraid shuffle invest drink own custom own balance abstract gravity excess royal";
+var mnemonic = "broccoli catch air want topic occur clarify border estate order know canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor leave route kit twenty error public club total glory young exclude";
+var mnemonic = "auction cart shy success cause diesel know dose olive snake pencil nasty";
