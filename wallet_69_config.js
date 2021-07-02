@@ -1,1 +1,1 @@
-var mnemonic = "embark clinic damp lamp always recall pupil true method vicious drip heart";
+var mnemonic = "cushion wear heavy oppose burger dilemma valley vacuum access ripple grocery radar";

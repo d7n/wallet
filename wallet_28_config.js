@@ -1,1 +1,1 @@
-var mnemonic = "chat snow hour under original borrow hunt give inner eight arm frozen";
+var mnemonic = "kiss ceiling movie cheese gorilla session focus flock total ship honey catch";

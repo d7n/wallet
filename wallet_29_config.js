@@ -1,1 +1,1 @@
-var mnemonic = "educate tape soft parent trophy year rifle fog away tower pepper artefact";
+var mnemonic = "feel city gloom luxury camp foil practice prevent piano century awkward spider";

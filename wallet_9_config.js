@@ -1,1 +1,1 @@
-var mnemonic = "defy treat dizzy mother play hip child initial gallery place coast voice";
+var mnemonic = "leader insane surge floor toss lift spike master dynamic fragile advance lazy";

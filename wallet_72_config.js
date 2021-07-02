@@ -1,1 +1,1 @@
-var mnemonic = "penalty able armed dance fiscal intact clock coach tissue panel custom protect";
+var mnemonic = "cup exit omit athlete pet become noble mean festival core raven fiction";

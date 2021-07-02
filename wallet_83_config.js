@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo dawn flash neck flag inspire gorilla pattern lemon polar abandon elder";
+var mnemonic = "have seminar explain unlock purchase grab draft involve field clap because imitate";

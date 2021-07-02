@@ -1,1 +1,1 @@
-var mnemonic = "planet era furnace approve shrug eagle reason worth device elephant setup exotic";
+var mnemonic = "wheat smooth december grunt menu acid nerve fix fluid cliff air unit";

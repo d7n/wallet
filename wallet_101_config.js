@@ -1,1 +1,1 @@
-var mnemonic = "sphere dolphin clean phrase express whisper nuclear oil angle equip offer damage";
+var mnemonic = "slogan survey leaf side size artwork base hole uncle zebra rose network";

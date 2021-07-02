@@ -1,1 +1,1 @@
-var mnemonic = "beauty option garbage tube try link dice pole cupboard tube toss polar";
+var mnemonic = "lumber person mixture umbrella script oven tower test wedding wrong wine science";

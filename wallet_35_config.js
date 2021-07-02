@@ -1,1 +1,1 @@
-var mnemonic = "close host breeze tone common circle know rapid clump solution emotion claw";
+var mnemonic = "skin police second lottery relax gown empower decline people local phone cruel";

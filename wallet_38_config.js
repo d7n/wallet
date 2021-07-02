@@ -1,1 +1,1 @@
-var mnemonic = "movie lazy deny word wage essay flush now near rival fresh drop";
+var mnemonic = "page text ball arrange glow unhappy claim laptop try aim vote country";

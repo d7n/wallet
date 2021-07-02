@@ -1,1 +1,1 @@
-var mnemonic = "galaxy such remain weird leader file coil antenna feel demand verify cave";
+var mnemonic = "any spy correct board strategy arch two danger slogan employ dress repair";

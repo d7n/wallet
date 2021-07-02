@@ -1,1 +1,1 @@
-var mnemonic = "main tackle wall loan kitten master desert icon drama fringe zero across";
+var mnemonic = "save custom secret sport scale stamp attack taste move sick later trust";

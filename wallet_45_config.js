@@ -1,1 +1,1 @@
-var mnemonic = "matrix pupil nephew forum magic survey invite plastic friend salmon web undo";
+var mnemonic = "trim end scissors until noise hen save tiny impulse spare there light";

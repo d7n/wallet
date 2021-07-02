@@ -1,1 +1,1 @@
-var mnemonic = "crop energy loan hollow allow unveil glue escape deposit engage spike present";
+var mnemonic = "remove parrot sphere scrap upon enable end hurdle payment near depend hurry";

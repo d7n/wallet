@@ -1,1 +1,1 @@
-var mnemonic = "bottom sustain wide veteran section region absurd sphere ridge whisper cabin fan";
+var mnemonic = "ill sunset glow random gravity code nut lunar renew coral portion pool";

@@ -1,1 +1,1 @@
-var mnemonic = "venture clay raw infant ride manual hotel gravity crazy flight icon awful";
+var mnemonic = "torch rail dilemma way tourist spray sad goose tongue kid must stone";

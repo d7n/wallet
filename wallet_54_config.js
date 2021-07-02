@@ -1,1 +1,1 @@
-var mnemonic = "vintage electric master gather trophy ignore practice pledge latin adult ahead ensure";
+var mnemonic = "treat appear glue dog gadget speed sentence agree void word sword square";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle tell imitate blue enroll furnace outdoor math sand plate finish patch";
+var mnemonic = "air legend result ring cigar can hollow depend blur divide lyrics rebel";

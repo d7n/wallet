@@ -1,1 +1,1 @@
-var mnemonic = "spin update jewel shine alien secret truly stove comfort lizard sister unit";
+var mnemonic = "march taxi trend veteran battle yellow vocal evidence arm gold armed paper";

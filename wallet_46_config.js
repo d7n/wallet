@@ -1,1 +1,1 @@
-var mnemonic = "cliff indicate recall shrimp tip symptom equal dress visa shell peasant scissors";
+var mnemonic = "lion lyrics forum broccoli eager sad session fresh gas snack cricket ankle";

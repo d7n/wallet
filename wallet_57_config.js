@@ -1,1 +1,1 @@
-var mnemonic = "abandon young develop inject cupboard slight where country ahead limit fuel soon";
+var mnemonic = "glad erupt still strike consider renew razor bird journey slow lamp valid";

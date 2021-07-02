@@ -1,1 +1,1 @@
-var mnemonic = "nation sick write announce spread kid trash stairs alter kick midnight remove";
+var mnemonic = "brave evolve fly turtle patrol repair such sorry laugh decline notice false";

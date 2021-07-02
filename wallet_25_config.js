@@ -1,1 +1,1 @@
-var mnemonic = "reform hello nation trash stool essence van baby flee kind mammal nice";
+var mnemonic = "ticket adapt grid garlic urban camera uncover another local quick peanut shoot";

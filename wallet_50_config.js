@@ -1,1 +1,1 @@
-var mnemonic = "mind museum notice pattern parade crucial opera swarm large swap dust advice";
+var mnemonic = "huge cattle garment magnet order blame robot inside wink spot belt ghost";

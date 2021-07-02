@@ -1,1 +1,1 @@
-var mnemonic = "shop narrow shoe quote room become keen hip desk mystery include debris";
+var mnemonic = "kitchen wrong wreck pole peanut cradle report unable typical remind over addict";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent comfort lock dream truth pottery diet cattle lawsuit slow fiber enroll";
+var mnemonic = "unique soldier heavy cup step require armed tunnel fetch combine potato try";

@@ -1,1 +1,1 @@
-var mnemonic = "crack nest fossil crush pupil retire salmon general media old woman burden";
+var mnemonic = "essence inject sudden ladder volcano genius lizard retire mother special absent diesel";

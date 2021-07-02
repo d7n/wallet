@@ -1,1 +1,1 @@
-var mnemonic = "tone involve exact foot brother behave rely there biology camera town conduct";
+var mnemonic = "jewel fringe edit transfer solar farm repair clutch athlete bless uncle industry";

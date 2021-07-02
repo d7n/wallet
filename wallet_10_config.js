@@ -1,1 +1,1 @@
-var mnemonic = "bus adapt east pluck mixture salon eternal gate chicken pelican find dragon";
+var mnemonic = "live match runway enter oxygen month exact achieve regret kitten have situate";

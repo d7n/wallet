@@ -1,1 +1,1 @@
-var mnemonic = "fee cloth crouch inform float swift kind federal salute place print legal";
+var mnemonic = "armor muscle share dose rebuild welcome satisfy together train blanket unlock domain";

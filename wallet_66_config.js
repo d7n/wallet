@@ -1,1 +1,1 @@
-var mnemonic = "orbit melody diary anchor gentle unusual typical type matter join apology garlic";
+var mnemonic = "salmon enrich wink layer among build notice found sense wealth cart civil";

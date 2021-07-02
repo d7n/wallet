@@ -1,1 +1,1 @@
-var mnemonic = "casino snack accuse possible movie fiction cement output forward road dance message";
+var mnemonic = "gorilla cable embrace vessel ecology shaft later veteran write audit alter subway";

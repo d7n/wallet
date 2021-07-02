@@ -1,1 +1,1 @@
-var mnemonic = "much tape camera soldier february wait purity still gaze high divorce patient";
+var mnemonic = "furnace rent riot seek rough engage motion sustain winter wood excuse track";

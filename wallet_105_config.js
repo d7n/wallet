@@ -1,1 +1,1 @@
-var mnemonic = "planet network van transfer phrase circle snow machine idea coin logic else";
+var mnemonic = "visual shove such anger actor peace tornado trip abstract section perfect capable";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist spray aim chest crash program laugh task method cry nose online";
+var mnemonic = "soup bar olive oblige sudden matter super chicken wonder anxiety print wrist";

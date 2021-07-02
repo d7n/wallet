@@ -1,1 +1,1 @@
-var mnemonic = "congress bird nerve enjoy police armor display crane swamp noodle payment such";
+var mnemonic = "raise mule label recall huge oven february affair sound staff dutch coyote";

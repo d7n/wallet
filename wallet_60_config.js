@@ -1,1 +1,1 @@
-var mnemonic = "episode team owner student blossom crunch village weapon attend write novel soda";
+var mnemonic = "slow dolphin luxury wrap poet inspire steak fortune tribe summer deliver pencil";

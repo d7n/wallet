@@ -1,1 +1,1 @@
-var mnemonic = "cruel comic rifle belt series gauge sleep diamond quiz step invite toast";
+var mnemonic = "snap shop material rice intact possible symptom inquiry copper estate zoo ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "water indoor season claw dose lizard state blood average remind great oven";
+var mnemonic = "scene snap erase rib century educate genuine grain actor adjust coach view";

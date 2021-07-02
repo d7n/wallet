@@ -1,1 +1,1 @@
-var mnemonic = "dawn shadow siege sunny solid cover seed wage city because recall dismiss";
+var mnemonic = "manage huge absurd clinic olive loop kangaroo park despair girl banana flower";

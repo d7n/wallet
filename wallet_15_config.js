@@ -1,1 +1,1 @@
-var mnemonic = "win win cruise common buffalo equip lava glad solid accident foil six";
+var mnemonic = "furnace legend order suffer popular penalty word will deny note upgrade prosper";

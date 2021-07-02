@@ -1,1 +1,1 @@
-var mnemonic = "mind lady spare quiz burden nation neglect any kite hood load enjoy";
+var mnemonic = "estate search tenant parrot cement traffic couch afraid cruise then three orphan";

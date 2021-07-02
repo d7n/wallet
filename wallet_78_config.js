@@ -1,1 +1,1 @@
-var mnemonic = "surge speak acquire rifle shoulder avoid invest print exchange east garbage tornado";
+var mnemonic = "theme glow whale image gauge magnet client citizen fiber nation radar napkin";

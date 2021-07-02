@@ -1,1 +1,1 @@
-var mnemonic = "dismiss liar whip divorce grow castle cinnamon release orient illness front barely";
+var mnemonic = "hollow awesome eight wood scout bicycle despair fly useless spend snow cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "novel film adult dynamic debris boy review ginger dry reject push patient";
+var mnemonic = "magic woman duck runway grass melody artwork rigid bitter deer slab carry";

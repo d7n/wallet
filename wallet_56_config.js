@@ -1,1 +1,1 @@
-var mnemonic = "yellow supreme embody mimic arena blame novel grace relief today plastic hedgehog";
+var mnemonic = "tortoise penalty also spoon frog joy crime excess thing garage bamboo bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "winter oil hood purpose globe taxi cousin rookie stadium glide front magnet";
+var mnemonic = "neither error index innocent system wood mutual run shrimp couple syrup ship";

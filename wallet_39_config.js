@@ -1,1 +1,1 @@
-var mnemonic = "super scatter actress obscure shoulder cruise draw enrich member knife gain night";
+var mnemonic = "lobster champion vehicle announce slight slogan novel work design tube issue model";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose inject fold segment special ahead thumb cross elevator clay apple brand";
+var mnemonic = "ladder fuel imitate all clap bid culture dose before forest cash leave";

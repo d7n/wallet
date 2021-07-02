@@ -1,1 +1,1 @@
-var mnemonic = "fault neck gap spell spoil fox priority fat loyal honey husband gesture";
+var mnemonic = "bitter drastic oyster news castle flight zoo upper play stable reunion absorb";

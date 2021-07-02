@@ -1,1 +1,1 @@
-var mnemonic = "code glue pull tragic act library hammer wrist web rapid chimney joke";
+var mnemonic = "charge harsh inmate song prison seminar ability uphold network used abuse net";

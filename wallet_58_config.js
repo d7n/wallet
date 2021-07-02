@@ -1,1 +1,1 @@
-var mnemonic = "record submit dawn photo elevator tackle exhibit beach pond exercise zoo join";
+var mnemonic = "actress invite olympic inspire boil width best phone extend cricket biology walnut";

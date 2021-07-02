@@ -1,1 +1,1 @@
-var mnemonic = "flat dish expire wave sword response canvas any patrol awkward worry erupt";
+var mnemonic = "mansion occur stage circle antenna number mushroom skin regret wrestle critic width";

@@ -1,1 +1,1 @@
-var mnemonic = "image best section reform trick laundry merit option remove cost tower lawsuit";
+var mnemonic = "float morning loyal book zone script force palace brass unhappy autumn divorce";

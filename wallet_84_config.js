@@ -1,1 +1,1 @@
-var mnemonic = "always august rice pig melt luggage about call please parent tired sea";
+var mnemonic = "exercise inquiry phone toast protect enable salad theme attitude board venture topple";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry process dolphin tiny retire sock acquire since visa process treat alter";
+var mnemonic = "denial maximum fit endless trim eyebrow cradle bag salon cloud chronic meadow";

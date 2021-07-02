@@ -1,1 +1,1 @@
-var mnemonic = "panda hospital gentle rug fluid fence target swallow wealth approve hole fetch";
+var mnemonic = "worth spell arrest play since human task royal abuse silent tape deliver";

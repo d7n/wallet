@@ -1,1 +1,1 @@
-var mnemonic = "merit tilt time special album gift labor rhythm charge until poem hurry";
+var mnemonic = "disease ladder meat result jump black solve fringe stage doctor mixed pet";

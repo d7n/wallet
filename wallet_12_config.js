@@ -1,1 +1,1 @@
-var mnemonic = "fog member meadow result lecture cruise cash pear summer confirm grape kitchen";
+var mnemonic = "enforce pink rare profit differ action squeeze mixture spoon blur foster reveal";

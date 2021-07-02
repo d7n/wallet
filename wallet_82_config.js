@@ -1,1 +1,1 @@
-var mnemonic = "animal visa accuse stairs urban miss squirrel glance local dry dirt message";
+var mnemonic = "glove plastic solid spot agent gaze say absorb mushroom cheese minute sure";

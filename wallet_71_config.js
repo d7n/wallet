@@ -1,1 +1,1 @@
-var mnemonic = "grass right coin notice scrub father large inform guess leopard hard popular";
+var mnemonic = "actress ski brief spread hover drum crucial lonely sketch wash chef large";

@@ -1,1 +1,1 @@
-var mnemonic = "verb diesel aware scrap appear cruise kitchen raven fresh melody post forward";
+var mnemonic = "rail slim trend slab warrior earn nest sword wine govern solar fee";

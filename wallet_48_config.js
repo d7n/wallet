@@ -1,1 +1,1 @@
-var mnemonic = "tuition indoor hire differ quarter visit tribe cage hawk glue dish citizen";
+var mnemonic = "best undo empty immense slide ketchup cube dinosaur pattern jeans army capital";

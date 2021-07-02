@@ -1,1 +1,1 @@
-var mnemonic = "credit beyond dry afford raise choose cinnamon night attract obtain fatal hungry";
+var mnemonic = "vibrant exchange fortune cradle cost hunt hope horn aim identify able month";

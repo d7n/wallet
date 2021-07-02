@@ -1,1 +1,1 @@
-var mnemonic = "prepare kidney daring sunny gun stairs main settle law tide number exist";
+var mnemonic = "pact all fury leopard bomb truth skate ball broken earn oxygen limb";

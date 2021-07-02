@@ -1,1 +1,1 @@
-var mnemonic = "album shoulder story quantum captain dawn jazz ring master plunge sleep cherry";
+var mnemonic = "come other drift repair forest wool negative rapid faith blame green enlist";

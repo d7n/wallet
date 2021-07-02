@@ -1,1 +1,1 @@
-var mnemonic = "beauty entire glad access soccer pyramid cigar dawn hello bless sister devote";
+var mnemonic = "session myself leisure error math shiver broken rural plunge pigeon ski security";

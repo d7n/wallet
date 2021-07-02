@@ -1,1 +1,1 @@
-var mnemonic = "advice demand say planet slot pole cigar warfare slim clip supreme slide";
+var mnemonic = "chapter comic submit fragile mean way faint dry portion parrot concert patient";

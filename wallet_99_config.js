@@ -1,1 +1,1 @@
-var mnemonic = "picnic draft razor front south tank transfer basket mixed deny width immense";
+var mnemonic = "kangaroo phone unit market tomorrow ticket clarify artwork unique language oak tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle waste advance element require aerobic truck asthma truth rival other broom";
+var mnemonic = "payment monster twenty soccer sister size idle desert cry obey suffer anchor";

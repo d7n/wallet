@@ -1,1 +1,1 @@
-var mnemonic = "endorse also baby sketch phone smart food either mimic solution tower two";
+var mnemonic = "chalk brick index chest wedding empower jazz old laundry economy asset normal";

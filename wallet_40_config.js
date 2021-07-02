@@ -1,1 +1,1 @@
-var mnemonic = "produce truck cement canvas uniform bike confirm virus club then gaze anxiety";
+var mnemonic = "beyond cabin hollow betray design eager marine absurd night misery mystery rule";

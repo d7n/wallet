@@ -1,1 +1,1 @@
-var mnemonic = "visual chuckle muffin auto unfold smile quantum observe immune mother there shoulder";
+var mnemonic = "gauge undo hand confirm recycle reward floor position orange enough answer deposit";

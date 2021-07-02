@@ -1,1 +1,1 @@
-var mnemonic = "easily poverty quarter access super select crew lounge sing dirt gift oxygen";
+var mnemonic = "fresh pioneer envelope response sure candy local arrest foil permit bar reflect";

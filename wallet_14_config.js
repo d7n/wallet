@@ -1,1 +1,1 @@
-var mnemonic = "zebra chat erupt leader cave journey motor trap depend person raw tongue";
+var mnemonic = "slender twelve suit retire zero veteran over dragon match field provide price";

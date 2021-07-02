@@ -1,1 +1,1 @@
-var mnemonic = "invite need pave liberty canoe canvas chronic donate oxygen stomach total canvas";
+var mnemonic = "decline song april twin awkward summer fever stadium wolf cart bounce soon";

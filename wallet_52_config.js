@@ -1,1 +1,1 @@
-var mnemonic = "december asset muffin sustain rookie meat unhappy toast exhaust hood ice pear";
+var mnemonic = "duck inflict cram green obtain camera phrase siege steel palm flat identify";

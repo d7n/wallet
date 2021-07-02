@@ -1,1 +1,1 @@
-var mnemonic = "news soon limb bid pulse stuff deal mosquito luxury also stairs vicious";
+var mnemonic = "soon clinic tattoo valid obscure raise dismiss invest seed total way season";

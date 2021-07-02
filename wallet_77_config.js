@@ -1,1 +1,1 @@
-var mnemonic = "clip plate olympic army outside tent hamster stereo humor cup total fossil";
+var mnemonic = "dragon minute oval alone during lava account sad rebuild unique practice alarm";

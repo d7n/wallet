@@ -1,1 +1,1 @@
-var mnemonic = "valley spare magic devote hub method verify act symbol cancel seed seed";
+var mnemonic = "butter famous twin gold lounge venue tobacco tunnel panther deputy shuffle boring";

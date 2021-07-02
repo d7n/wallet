@@ -1,1 +1,1 @@
-var mnemonic = "diagram position scatter turtle crawl work vote grab measure yard walk marine";
+var mnemonic = "inquiry treat wire twin catalog vapor bar safe soldier spirit dutch one";

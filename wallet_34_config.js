@@ -1,1 +1,1 @@
-var mnemonic = "trim bridge clip monitor mad power boost main birth know meadow blood";
+var mnemonic = "funny endorse tuna mechanic enlist candy legend choose loan wave lizard air";

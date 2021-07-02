@@ -1,1 +1,1 @@
-var mnemonic = "giant jump dad toast broccoli soft mystery earth wrestle buffalo syrup tourist";
+var mnemonic = "control day category crunch annual boring figure pause cluster analyst casino excuse";

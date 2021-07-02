@@ -1,1 +1,1 @@
-var mnemonic = "vendor fame current alpha audit music hold gather reunion oval vapor slow";
+var mnemonic = "bracket magnet until cherry elephant field try cost tattoo rapid decorate fit";

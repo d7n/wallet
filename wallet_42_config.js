@@ -1,1 +1,1 @@
-var mnemonic = "limb husband know sauce pass burger soap throw radar letter custom sibling";
+var mnemonic = "future warfare custom filter coin spatial federal cricket moment balance target case";

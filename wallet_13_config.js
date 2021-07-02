@@ -1,1 +1,1 @@
-var mnemonic = "exhibit chunk ridge entry craft federal ill hope arctic mosquito equal timber";
+var mnemonic = "arrow end labor talk bring nose tent mouse lady asset risk mixture";

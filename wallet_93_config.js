@@ -1,1 +1,1 @@
-var mnemonic = "tourist enough diamond stamp stamp oil spider grit pelican critic spare shed";
+var mnemonic = "spoon wish patient candy razor invite task voyage movie work grass morning";

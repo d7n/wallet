@@ -1,1 +1,1 @@
-var mnemonic = "meadow chalk essay unusual dance valid solar license rapid essence alter peasant";
+var mnemonic = "ready style reveal width offer modify oxygen drama there sustain other useful";

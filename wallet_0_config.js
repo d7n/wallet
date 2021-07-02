@@ -1,1 +1,1 @@
-var mnemonic = "virus agent include network custom ankle horror broken must harbor retire chicken";
+var mnemonic = "there wisdom solve project flock maple access test journey refuse upset text";

@@ -1,1 +1,1 @@
-var mnemonic = "burger vanish salmon extra brief story abstract gossip book stuff calm health";
+var mnemonic = "crumble funny patch pluck flash adjust once later kiss crystal erase phone";

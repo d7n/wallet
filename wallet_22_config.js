@@ -1,1 +1,1 @@
-var mnemonic = "tobacco boy rotate grain crucial click master heavy shaft fashion topple awful";
+var mnemonic = "news own unfold glue head transfer bid proof wing purity pledge resource";
