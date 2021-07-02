@@ -1,1 +1,1 @@
-var mnemonic = "bulk cousin mixed skill genius latin craft stuff around fit caught school";
+var mnemonic = "industry wild good erupt before illegal industry eyebrow survey stereo seven viable";

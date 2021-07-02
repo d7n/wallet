@@ -1,1 +1,1 @@
-var mnemonic = "weekend depth wire security elbow soldier salmon coconut general wish rescue essay";
+var mnemonic = "fix boy expand palm lend salute dawn foot violin property dose clap";

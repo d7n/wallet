@@ -1,1 +1,1 @@
-var mnemonic = "cycle desert innocent mouse lion forum amateur fee snow sick drink begin";
+var mnemonic = "quit jump toss slice transfer radar scout trigger arctic forward shy fish";

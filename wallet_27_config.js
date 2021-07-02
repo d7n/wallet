@@ -1,1 +1,1 @@
-var mnemonic = "swim foster rebel banner boring orbit diamond sibling solid verify bleak endless";
+var mnemonic = "sauce chimney property lobster electric park message fix okay sort custom purchase";

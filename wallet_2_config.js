@@ -1,1 +1,1 @@
-var mnemonic = "sock novel clinic priority soft march enlist element outdoor mandate just toe";
+var mnemonic = "giraffe wrap wagon lift wolf parrot dove foil advice flash online organ";

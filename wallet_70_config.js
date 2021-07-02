@@ -1,1 +1,1 @@
-var mnemonic = "gaze vanish health soap dinner stove strike desk midnight slogan horn leopard";
+var mnemonic = "source where country neither dinner cost always broccoli rough defy swing trouble";

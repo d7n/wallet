@@ -1,1 +1,1 @@
-var mnemonic = "space napkin true wink sketch rail enforce elder illegal zero powder alien";
+var mnemonic = "dice lift prevent deposit midnight resource city harbor heart pattern celery wisdom";

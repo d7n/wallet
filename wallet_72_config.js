@@ -1,1 +1,1 @@
-var mnemonic = "park direct dinner rib online hair hope remind catch erosion fiscal scatter";
+var mnemonic = "enemy winter winter veteran silent argue biology attend swim occur trouble brave";

@@ -1,1 +1,1 @@
-var mnemonic = "series castle stove travel claim real analyst live youth sniff clap impulse";
+var mnemonic = "story tribe risk celery ritual describe drama spatial rookie spell witness field";

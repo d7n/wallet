@@ -1,1 +1,1 @@
-var mnemonic = "media either time point sugar before glad library egg lawn curious possible";
+var mnemonic = "industry pet rally manage fat focus tell miss fiction slim little govern";

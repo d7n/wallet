@@ -1,1 +1,1 @@
-var mnemonic = "maple muscle brain state document produce surge cliff blade dizzy question vintage";
+var mnemonic = "gentle enter sun trumpet net vacant snack gesture sail vicious clip fault";

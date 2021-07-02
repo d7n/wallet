@@ -1,1 +1,1 @@
-var mnemonic = "eye forum wheat coral gossip magic pelican shield faith agent pig enough";
+var mnemonic = "fit pact rival gesture repeat dutch chest believe approve sure grace warrior";

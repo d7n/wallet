@@ -1,1 +1,1 @@
-var mnemonic = "pioneer parent raccoon extra scheme flower blanket student entry erode trend brand";
+var mnemonic = "lazy quit verify eternal popular evil manage leg write trophy bundle thrive";

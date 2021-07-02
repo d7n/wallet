@@ -1,1 +1,1 @@
-var mnemonic = "scrap bar addict outer cradle loan hat base portion indoor ignore artefact";
+var mnemonic = "boss crucial negative rookie head erase evil grocery license ribbon era number";

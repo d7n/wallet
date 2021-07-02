@@ -1,1 +1,1 @@
-var mnemonic = "zoo borrow romance history hello royal please syrup short cry access account";
+var mnemonic = "across sight grab artefact amazing odor teach happy struggle coconut mule throw";

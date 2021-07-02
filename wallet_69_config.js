@@ -1,1 +1,1 @@
-var mnemonic = "strategy scrub cloth vital video buzz phone ensure tomorrow shift security round";
+var mnemonic = "eternal flee mobile expect ceiling hurdle eager phrase pull stove trophy notable";

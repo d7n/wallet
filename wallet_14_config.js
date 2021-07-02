@@ -1,1 +1,1 @@
-var mnemonic = "trumpet human keep human problem scout add true coast scissors gun execute";
+var mnemonic = "pluck observe marriage doll latin effort helmet hip box fit company force";

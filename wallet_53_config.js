@@ -1,1 +1,1 @@
-var mnemonic = "spy move fly bubble course divert keep warrior cable narrow century absent";
+var mnemonic = "resource nasty mesh silly radar involve salad license witness mixture firm pelican";

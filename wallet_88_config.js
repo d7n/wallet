@@ -1,1 +1,1 @@
-var mnemonic = "accident flower glance reflect dice rotate office action danger miss lobster laugh";
+var mnemonic = "cheese tilt tide pill earth give detail gauge write decline prevent dignity";

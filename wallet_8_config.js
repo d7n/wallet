@@ -1,1 +1,1 @@
-var mnemonic = "syrup hill jar misery space logic hollow green volume decrease push early";
+var mnemonic = "aunt sea panther deal predict round play alcohol worry forum razor ready";

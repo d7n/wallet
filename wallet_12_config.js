@@ -1,1 +1,1 @@
-var mnemonic = "supreme forward candy chicken poet soul hazard enlist royal alley bitter cage";
+var mnemonic = "action blanket orphan hollow tree until sponsor damp cinnamon spike truck kangaroo";

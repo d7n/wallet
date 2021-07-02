@@ -1,1 +1,1 @@
-var mnemonic = "story popular wheat oxygen sketch regular number true correct vicious impulse escape";
+var mnemonic = "tornado educate dance peasant maid person parade renew repeat giraffe eye clay";

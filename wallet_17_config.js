@@ -1,1 +1,1 @@
-var mnemonic = "bounce interest kingdom funny effort allow random cushion hat lawsuit syrup dad";
+var mnemonic = "attract fade return master mechanic tip north congress neglect detail fever shield";

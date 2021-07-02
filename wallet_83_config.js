@@ -1,1 +1,1 @@
-var mnemonic = "federal confirm silly then twist long vocal team foil monster recipe predict";
+var mnemonic = "raccoon match lend heart supreme novel try ride tell toward slim system";

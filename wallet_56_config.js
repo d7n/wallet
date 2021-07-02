@@ -1,1 +1,1 @@
-var mnemonic = "seek crucial crop steak task practice agent modify there news clog rough";
+var mnemonic = "area patient square fault dizzy pulse inform scene toward crazy settle route";

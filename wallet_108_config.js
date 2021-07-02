@@ -1,1 +1,1 @@
-var mnemonic = "simple local basic stick share design smoke narrow direct language scan obscure";
+var mnemonic = "elegant prevent square avoid salmon response cupboard excess critic cake various define";

@@ -1,1 +1,1 @@
-var mnemonic = "range resource develop round tragic surprise region innocent cause approve van sand";
+var mnemonic = "artist grief trick merry link sort hood foam sunset sad alert source";

@@ -1,1 +1,1 @@
-var mnemonic = "need illegal kick stick clerk episode potato apology bracket noble nature negative";
+var mnemonic = "token spare exercise symbol anger shop volume series infant canal trust poem";

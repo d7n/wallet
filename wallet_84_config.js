@@ -1,1 +1,1 @@
-var mnemonic = "disease ill brick security blue labor among flower result trophy round car";
+var mnemonic = "mad adult wing pony finish tape online fragile board urge charge nothing";

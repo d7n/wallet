@@ -1,1 +1,1 @@
-var mnemonic = "toy side town arm cargo quiz crystal gadget cactus right core reduce";
+var mnemonic = "busy meat surface timber rug broccoli scrub fame second flip jar else";

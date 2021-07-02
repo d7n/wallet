@@ -1,1 +1,1 @@
-var mnemonic = "cactus dutch vacuum now short plastic wave tourist exile detect season nice";
+var mnemonic = "winter effort trick embrace actual dog police saddle salon fragile consider spread";

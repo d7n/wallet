@@ -1,1 +1,1 @@
-var mnemonic = "situate option chapter motion pulse below say payment rally town option eye";
+var mnemonic = "cruel book close draw staff dad perfect weasel easily rubber chuckle half";

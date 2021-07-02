@@ -1,1 +1,1 @@
-var mnemonic = "gate clean first short obtain code ready crisp stumble comic wrestle post";
+var mnemonic = "style awkward school thought kingdom business slim elephant this torch pudding media";

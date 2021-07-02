@@ -1,1 +1,1 @@
-var mnemonic = "casino base gauge under valley sing dog remain someone cry purchase motion";
+var mnemonic = "lyrics shrug bind switch forest wreck flee absurd stick gain extend silver";

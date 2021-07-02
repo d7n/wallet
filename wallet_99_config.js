@@ -1,1 +1,1 @@
-var mnemonic = "endorse powder theme trophy dumb payment path bag direct cruise skate clog";
+var mnemonic = "angry infant velvet journey cupboard issue squirrel expand include recipe slam exist";

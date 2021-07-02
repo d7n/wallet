@@ -1,1 +1,1 @@
-var mnemonic = "debris assault into demise scorpion tide earth dream diet coin boost wait";
+var mnemonic = "spare dice range trim unfair age mother proud defense warrior obtain celery";

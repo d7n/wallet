@@ -1,1 +1,1 @@
-var mnemonic = "craft tank pet lawn army couple height swear type nuclear drama raccoon";
+var mnemonic = "dynamic man upon insane knock hold century virtual talent cradle program acoustic";

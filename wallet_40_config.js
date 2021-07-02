@@ -1,1 +1,1 @@
-var mnemonic = "journey limit spike hill anger oven cereal address risk dream net supreme";
+var mnemonic = "forget drop will quiz table morning swing aim unusual leopard nothing town";

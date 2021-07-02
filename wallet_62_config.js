@@ -1,1 +1,1 @@
-var mnemonic = "gym detect pride label robust gentle script scrap casino safe ice dust";
+var mnemonic = "situate avoid volume vital assume sense lazy wink wall tooth oak right";

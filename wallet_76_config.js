@@ -1,1 +1,1 @@
-var mnemonic = "dismiss grape spawn shine mouse legend play scan brand perfect card idea";
+var mnemonic = "finish eye elder hedgehog entry empower case orphan wash toast rich border";

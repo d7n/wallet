@@ -1,1 +1,1 @@
-var mnemonic = "roof rival ten brave believe laugh crowd birth pulp dolphin critic few";
+var mnemonic = "traffic super cereal found silk wheel flee social job absurd mean dawn";

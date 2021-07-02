@@ -1,1 +1,1 @@
-var mnemonic = "royal borrow record state increase carpet ridge trouble trip repeat possible car";
+var mnemonic = "kitchen gain box hungry vanish car door month aerobic aisle isolate rude";

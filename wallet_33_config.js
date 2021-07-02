@@ -1,1 +1,1 @@
-var mnemonic = "where laugh length fresh aisle spice source run trigger breeze section nation";
+var mnemonic = "direct decrease gallery merit time brisk chaos earth between good transfer uniform";

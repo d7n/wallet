@@ -1,1 +1,1 @@
-var mnemonic = "deposit mixture atom absent season kick sheriff soldier peanut obvious east devote";
+var mnemonic = "present gauge talent note jealous episode insane hockey ladder equip assault practice";

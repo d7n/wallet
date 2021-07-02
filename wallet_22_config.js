@@ -1,1 +1,1 @@
-var mnemonic = "reveal glare enable donkey distance april race title worry deputy chaos text";
+var mnemonic = "taxi foam fix panel robust cage swallow choice hammer celery donate betray";

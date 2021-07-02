@@ -1,1 +1,1 @@
-var mnemonic = "liar antique laptop valve afraid call fish goose foil hill slab large";
+var mnemonic = "expire entire mistake boss neither scout saddle jump tribe hurt poet hurdle";

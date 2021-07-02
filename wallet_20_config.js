@@ -1,1 +1,1 @@
-var mnemonic = "mouse grass solution name outside sound hold course winter media quote urban";
+var mnemonic = "good gown rib increase ginger rubber polar dose orphan impose reopen zero";

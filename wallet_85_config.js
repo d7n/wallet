@@ -1,1 +1,1 @@
-var mnemonic = "slam oppose dignity stamp degree burden head then blade finger adult man";
+var mnemonic = "swap crowd lady excuse drift nerve amateur meat humor garbage sing cheese";

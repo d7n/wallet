@@ -1,1 +1,1 @@
-var mnemonic = "emotion argue job cherry tree benefit oil ranch abstract bring pudding legal";
+var mnemonic = "bike spend camp that talk what usual armor solve frame unable recycle";

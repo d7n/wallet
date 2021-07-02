@@ -1,1 +1,1 @@
-var mnemonic = "budget code forward success shock imitate top cabbage pink cube symptom shuffle";
+var mnemonic = "caution length face eagle advance during digital dilemma drive joy worry swarm";

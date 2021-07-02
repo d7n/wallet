@@ -1,1 +1,1 @@
-var mnemonic = "transfer trick wear three execute north body innocent cream body easy basket";
+var mnemonic = "abandon guard tragic rebuild define edit must trend ladder month fault affair";

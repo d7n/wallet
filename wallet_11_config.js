@@ -1,1 +1,1 @@
-var mnemonic = "hybrid physical pepper damp achieve cost crash monkey arctic arena figure sell";
+var mnemonic = "depart unaware example test coyote jazz inmate rain price solve animal step";

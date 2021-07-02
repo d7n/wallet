@@ -1,1 +1,1 @@
-var mnemonic = "erode priority nice toy twenty issue input milk faint mechanic glove element";
+var mnemonic = "like ability peasant patrol size wolf daughter display eager drum top giraffe";

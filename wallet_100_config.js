@@ -1,1 +1,1 @@
-var mnemonic = "rapid lock file toss olive wear prepare hollow magic portion outer leg";
+var mnemonic = "agree same bone hockey horror labor net taxi learn ramp hospital involve";

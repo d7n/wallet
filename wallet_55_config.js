@@ -1,1 +1,1 @@
-var mnemonic = "soccer shock spread design taxi actress cargo assault blouse genre naive surround";
+var mnemonic = "extra vanish acoustic still hen blouse spray pizza march chapter cupboard chalk";

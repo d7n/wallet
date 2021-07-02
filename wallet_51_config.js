@@ -1,1 +1,1 @@
-var mnemonic = "light animal trouble lake anchor harbor damp guilt vanish embrace despair fruit";
+var mnemonic = "catalog nice find gorilla egg cost uncle travel liquid struggle hunt wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "mean puppy bargain clarify grid seek cart culture glance violin bleak bronze";
+var mnemonic = "omit clinic symptom dust cruel enjoy exchange real destroy promote useless other";

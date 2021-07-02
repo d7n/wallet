@@ -1,1 +1,1 @@
-var mnemonic = "wrestle worth mobile room adjust enable mention latin jewel differ mystery pair";
+var mnemonic = "brain invite steak opera symbol charge garlic seminar cricket original bus ice";

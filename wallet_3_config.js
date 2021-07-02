@@ -1,1 +1,1 @@
-var mnemonic = "nation brick swear beef vacant ridge route tape resist tired course put";
+var mnemonic = "monkey private match replace rare sample tenant large dance judge follow lesson";

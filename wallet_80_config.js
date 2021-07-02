@@ -1,1 +1,1 @@
-var mnemonic = "session observe night shiver ankle shaft broccoli cradle chronic derive habit end";
+var mnemonic = "suffer west license record treat thing label option valley siege cement tumble";

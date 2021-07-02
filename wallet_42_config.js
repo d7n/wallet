@@ -1,1 +1,1 @@
-var mnemonic = "pottery spread left toss piano prosper walnut rapid learn color super mimic";
+var mnemonic = "scale buddy salmon pass festival topic behind curve web zero sound symbol";

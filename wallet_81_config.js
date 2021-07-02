@@ -1,1 +1,1 @@
-var mnemonic = "embody puppy ecology lift ski waste valve deliver odor office duty race";
+var mnemonic = "bean swarm ride metal wet magic drama opinion fragile verb cloth camera";

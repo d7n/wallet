@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow start volume maple warm uncle submit page bleak swallow gallery cream";
+var mnemonic = "bag east call flame creek fly jazz wood bulb aerobic typical oven";

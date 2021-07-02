@@ -1,1 +1,1 @@
-var mnemonic = "sail inspire sorry shell crazy unfold army merit purse excite dial strong";
+var mnemonic = "ten crunch fish share anchor ship saddle tragic bleak slogan caution rare";

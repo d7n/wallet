@@ -1,1 +1,1 @@
-var mnemonic = "cheap luxury kit alcohol banana sail argue attend gap course lyrics dignity";
+var mnemonic = "neck caution will unlock snap aunt pull fetch blossom various charge index";

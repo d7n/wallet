@@ -1,1 +1,1 @@
-var mnemonic = "define process phrase flip city nose vocal avocado measure easily prevent object";
+var mnemonic = "rail secret conduct aim tip donate void doll silk panther double advice";

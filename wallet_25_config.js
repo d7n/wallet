@@ -1,1 +1,1 @@
-var mnemonic = "car jungle you mesh wise rent color derive furnace shrug battle benefit";
+var mnemonic = "mass visit lab usage exclude quit puppy weapon can glare order blast";

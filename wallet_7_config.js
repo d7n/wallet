@@ -1,1 +1,1 @@
-var mnemonic = "apology chapter antenna kick anger sustain dove potato light tube panther forum";
+var mnemonic = "drink diagram repeat shallow version cheap box vapor lazy roast cloud reopen";

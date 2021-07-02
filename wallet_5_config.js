@@ -1,1 +1,1 @@
-var mnemonic = "rose essay rapid file kitchen fun harsh uncover typical market melody umbrella";
+var mnemonic = "balance track hello open outer reward car phone curve net hen quit";

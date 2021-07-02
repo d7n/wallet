@@ -1,1 +1,1 @@
-var mnemonic = "jazz wheel program guilt opera lava magic minute record ring early remain";
+var mnemonic = "dinner bus grab tackle object belt ill end unable wise peace pepper";

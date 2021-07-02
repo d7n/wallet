@@ -1,1 +1,1 @@
-var mnemonic = "scrub pulse butter leaf hand nation movie lonely boss strike cousin lonely";
+var mnemonic = "shed sea mango exact pole together program decide fix device face gloom";

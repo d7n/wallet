@@ -1,1 +1,1 @@
-var mnemonic = "pause slender paper inflict client timber pig uphold animal pluck evoke lucky";
+var mnemonic = "install wife work shallow yellow ramp scatter noodle myself labor zoo large";

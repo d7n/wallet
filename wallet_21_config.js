@@ -1,1 +1,1 @@
-var mnemonic = "extra vintage easily exhibit raccoon wish spatial glance level can more old";
+var mnemonic = "expand enact inherit baby inform ignore obscure mother early dress museum math";

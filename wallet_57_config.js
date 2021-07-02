@@ -1,1 +1,1 @@
-var mnemonic = "lab believe betray bubble coil fold either afraid cluster zoo answer lobster";
+var mnemonic = "clean indicate royal inquiry salad pilot knock lyrics typical slot confirm board";

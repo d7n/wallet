@@ -1,1 +1,1 @@
-var mnemonic = "maple kangaroo era language arrange faint current double bitter scare trend depend";
+var mnemonic = "endorse boat auto flavor decline barrel spoil absurd until pig castle child";

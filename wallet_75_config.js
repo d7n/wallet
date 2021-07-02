@@ -1,1 +1,1 @@
-var mnemonic = "excite tilt apology nurse consider diary pool rib siren afford attack share";
+var mnemonic = "vast athlete merge exhibit patrol swear physical zero gain nest beef flower";

@@ -1,1 +1,1 @@
-var mnemonic = "know solution never bless skull coral salmon robust over faculty impact test";
+var mnemonic = "birth anchor good orient path avocado throw oval deliver more super toss";

@@ -1,1 +1,1 @@
-var mnemonic = "visual dentist stay dinosaur couch witness squirrel supreme switch receive fee humor";
+var mnemonic = "loud region sentence airport remain inhale joy they neutral fury recipe mistake";

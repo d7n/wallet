@@ -1,1 +1,1 @@
-var mnemonic = "negative couple sustain party diesel account vessel glad leaf heavy again employ";
+var mnemonic = "embody panic strong forum wagon jungle movie crunch rib floor assault margin";

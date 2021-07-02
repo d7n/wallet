@@ -1,1 +1,1 @@
-var mnemonic = "plug hint climb chat myth swamp mail salad skin mountain false term";
+var mnemonic = "detect hope again explain card argue upper letter cycle nuclear talent hungry";

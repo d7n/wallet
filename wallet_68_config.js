@@ -1,1 +1,1 @@
-var mnemonic = "struggle scout vacant daring rifle material machine airport shadow spend deal merge";
+var mnemonic = "flight wear flock snack solid critic gold radar will athlete amused debris";

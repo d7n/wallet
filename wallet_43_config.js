@@ -1,1 +1,1 @@
-var mnemonic = "citizen shoulder flee skin parent protect pretty speak peace device rebel toddler";
+var mnemonic = "sense sun aunt enhance dove pet crime luxury bid else daring circle";

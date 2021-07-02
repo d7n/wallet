@@ -1,1 +1,1 @@
-var mnemonic = "select organ suffer essay knee exhibit promote dinosaur robust hood torch fork";
+var mnemonic = "pave essay empty acid void trumpet ginger review deer estate subject soccer";

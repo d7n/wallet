@@ -1,1 +1,1 @@
-var mnemonic = "special topic tone crystal thumb demise insane mass spike drama music brave";
+var mnemonic = "surge bicycle crazy pelican team mix gesture punch disorder chimney ahead long";

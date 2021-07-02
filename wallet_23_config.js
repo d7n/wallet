@@ -1,1 +1,1 @@
-var mnemonic = "bike tree cupboard assault layer clutch spare glance project cloud slam wood";
+var mnemonic = "flavor purity jungle surge pretty net ivory barely lonely large circle output";

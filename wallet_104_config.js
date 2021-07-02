@@ -1,1 +1,1 @@
-var mnemonic = "end jungle cage leisure cushion horse derive super chalk defy prevent wild";
+var mnemonic = "range priority evoke icon thunder light health evolve shy harsh decorate transfer";
