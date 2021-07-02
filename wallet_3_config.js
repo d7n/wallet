@@ -1,1 +1,1 @@
-var mnemonic = "price run person gown neglect crane carry uniform fiction ocean bottom erosion";
+var mnemonic = "prosper impact solution sure pretty provide riot above peace goddess glare elbow";

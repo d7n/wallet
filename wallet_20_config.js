@@ -1,1 +1,1 @@
-var mnemonic = "purchase october enforce plastic stove bleak isolate rough dove upper hip skirt";
+var mnemonic = "depart ancient swear system speak flame invest section world stumble guitar hat";

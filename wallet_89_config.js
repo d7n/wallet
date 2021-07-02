@@ -1,1 +1,1 @@
-var mnemonic = "repair second kangaroo milk figure donkey addict blade grief blame mule never";
+var mnemonic = "sniff industry column trumpet buzz trust mixed swim fan either unknown logic";

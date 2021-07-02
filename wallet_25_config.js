@@ -1,1 +1,1 @@
-var mnemonic = "west market brown deputy wheel neither play entire decade claim husband desert";
+var mnemonic = "fiber place proof misery divide olive gauge hungry yellow glue wheat dawn";

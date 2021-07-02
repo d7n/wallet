@@ -1,1 +1,1 @@
-var mnemonic = "cup proof champion reduce island december siren carry coconut expand broken turkey";
+var mnemonic = "actor noodle december defy child allow shiver lawn soldier pass visual diet";

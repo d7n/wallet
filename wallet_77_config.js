@@ -1,1 +1,1 @@
-var mnemonic = "cluster between song tenant myth shell confirm erase hint enrich nut nation";
+var mnemonic = "path wool breeze best wood snow choice immune taxi sea assault pride";

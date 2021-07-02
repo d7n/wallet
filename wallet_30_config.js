@@ -1,1 +1,1 @@
-var mnemonic = "oval organ exotic offer frog romance damage sword talent pupil number shoe";
+var mnemonic = "abandon bid main myself spoil receive usual festival tone profit shop payment";

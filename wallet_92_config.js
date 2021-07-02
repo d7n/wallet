@@ -1,1 +1,1 @@
-var mnemonic = "element waste rate candy echo salt ostrich bullet maple random afraid major";
+var mnemonic = "lamp author world penalty radio moment climb connect clump radio sign phone";

@@ -1,1 +1,1 @@
-var mnemonic = "census soft exchange grace dragon energy congress pipe sand blush casino claim";
+var mnemonic = "citizen bright discover assume coast lunch nature then regret buffalo toy start";

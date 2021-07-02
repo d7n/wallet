@@ -1,1 +1,1 @@
-var mnemonic = "father tumble future bind flower either gauge gaze skate antenna bonus cool";
+var mnemonic = "model panel shiver host educate fresh circle nurse film achieve thank speed";

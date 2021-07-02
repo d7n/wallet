@@ -1,1 +1,1 @@
-var mnemonic = "connect scan caution tower raven wheel doctor fever find little virus sick";
+var mnemonic = "cotton force interest kangaroo more civil crystal unhappy chunk oak squeeze detail";

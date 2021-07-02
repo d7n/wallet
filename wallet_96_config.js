@@ -1,1 +1,1 @@
-var mnemonic = "oxygen zero unlock case business age slender okay veteran anger broom perfect";
+var mnemonic = "electric obvious meadow portion popular board stairs rose glance spatial unfold employ";

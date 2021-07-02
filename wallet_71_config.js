@@ -1,1 +1,1 @@
-var mnemonic = "notice hidden print scatter raise push code ginger butter decorate axis wave";
+var mnemonic = "carry amount jaguar annual address erase notable cloth believe anchor control scrap";

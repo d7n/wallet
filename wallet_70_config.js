@@ -1,1 +1,1 @@
-var mnemonic = "chair diary later yard uncover morning sleep kitten session floor skull nothing";
+var mnemonic = "bitter orient ring acid lucky crucial sick second just hidden cheese rose";

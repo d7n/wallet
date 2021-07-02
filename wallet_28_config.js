@@ -1,1 +1,1 @@
-var mnemonic = "rug during sunset slice filter clap acoustic unique parrot peasant tissue retreat";
+var mnemonic = "bomb enable various purchase life slice catch apology below train question person";

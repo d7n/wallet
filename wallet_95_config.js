@@ -1,1 +1,1 @@
-var mnemonic = "swift adapt alarm pass bunker jeans ahead spider grief sad soon senior";
+var mnemonic = "spy rude hard ozone inflict shoot chalk decide peasant trap indoor harbor";

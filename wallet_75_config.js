@@ -1,1 +1,1 @@
-var mnemonic = "below table scissors bamboo hint deer broken fish budget only tank soul";
+var mnemonic = "predict miss banana hurry another mind jump tongue toe size cereal trend";

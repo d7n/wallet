@@ -1,1 +1,1 @@
-var mnemonic = "consider exchange little weasel green never fold piano echo slogan task collect";
+var mnemonic = "hero alcohol horse mango leader farm extra work gym until dentist panic";

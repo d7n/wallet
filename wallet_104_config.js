@@ -1,1 +1,1 @@
-var mnemonic = "hunt stay pencil curious penalty imitate defy fish holiday enjoy gift simple";
+var mnemonic = "soft visit power net rocket regret soup rack powder gallery sand churn";

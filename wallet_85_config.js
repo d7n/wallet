@@ -1,1 +1,1 @@
-var mnemonic = "patrol analyst cannon process yard clip endless vast bicycle endless good mention";
+var mnemonic = "arena style skirt siren flower garage burden tragic slide trumpet over firm";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal truly jar lounge dove rice rapid name polar rabbit congress property";
+var mnemonic = "average lift under sugar tomato bridge galaxy cinnamon catch able holiday ramp";

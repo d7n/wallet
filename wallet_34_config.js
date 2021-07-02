@@ -1,1 +1,1 @@
-var mnemonic = "sketch evoke eager require century half theme call grant host venture pattern";
+var mnemonic = "length noise head shed axis tomato anchor setup capable warrior hello february";

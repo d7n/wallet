@@ -1,1 +1,1 @@
-var mnemonic = "forward cliff calm spring bridge anger anxiety leg catch better wave reveal";
+var mnemonic = "cinnamon top evidence simple remind original arch mouse sell crane improve raise";

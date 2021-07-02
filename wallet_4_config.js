@@ -1,1 +1,1 @@
-var mnemonic = "amused fancy brief ostrich sport anger angry south engage kiwi census abandon";
+var mnemonic = "finish patrol chat gym panda casino allow laugh future ghost dose office";

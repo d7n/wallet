@@ -1,1 +1,1 @@
-var mnemonic = "annual alarm upon cruel canyon common index metal legend judge slide edit";
+var mnemonic = "elite energy shoot mesh noise time disease soup habit torch width tree";

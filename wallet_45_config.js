@@ -1,1 +1,1 @@
-var mnemonic = "clutch decline embrace armor rebel local wink kick prison skirt moral salad";
+var mnemonic = "game mail boost obvious follow large good curious tiny portion tribe short";

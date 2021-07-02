@@ -1,1 +1,1 @@
-var mnemonic = "first maid dance mass twin hint skirt damp goat practice pole elder";
+var mnemonic = "stone hurry muscle faint dog extra inner average divert minor planet vague";

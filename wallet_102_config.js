@@ -1,1 +1,1 @@
-var mnemonic = "situate chest frequent bitter vague abandon crisp cliff pull topic brisk wave";
+var mnemonic = "purpose depend bleak little butter grape scan perfect story critic chase matter";

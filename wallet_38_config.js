@@ -1,1 +1,1 @@
-var mnemonic = "solar north ticket fruit amazing allow reveal jewel garbage suit another under";
+var mnemonic = "destroy eyebrow ensure either ivory effort average gas useful guide mother because";

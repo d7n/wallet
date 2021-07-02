@@ -1,1 +1,1 @@
-var mnemonic = "ozone bundle hotel surface also talent cement buffalo soon square crop slight";
+var mnemonic = "license canvas salon cradle divert shallow west play subway screen choice element";

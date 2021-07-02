@@ -1,1 +1,1 @@
-var mnemonic = "item robot check accident kit loop hawk balance square cliff miracle resource";
+var mnemonic = "lecture captain century family bonus image visit mansion barely giant thrive bicycle";

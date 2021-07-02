@@ -1,1 +1,1 @@
-var mnemonic = "view sleep check fork spike social logic estate panel cruise perfect liquid";
+var mnemonic = "coffee season hire strike clock cake culture focus inch damage cube leave";

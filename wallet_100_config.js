@@ -1,1 +1,1 @@
-var mnemonic = "shuffle labor winter radar index model reason crack pass model relief inquiry";
+var mnemonic = "obtain hint they pen mention once guitar giggle club lumber salmon sausage";

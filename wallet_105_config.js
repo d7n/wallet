@@ -1,1 +1,1 @@
-var mnemonic = "reason castle fish impulse dwarf pioneer edge nest truth tomato soap spare";
+var mnemonic = "blouse slow feel saddle check staff victory crane secret hat dance wreck";

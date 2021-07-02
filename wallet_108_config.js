@@ -1,1 +1,1 @@
-var mnemonic = "rapid aerobic ancient lava segment merry wash where cattle stairs scorpion forward";
+var mnemonic = "hungry bulk alarm miracle retreat spin survey pistol apart finger shed fantasy";

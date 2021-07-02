@@ -1,1 +1,1 @@
-var mnemonic = "amused fringe away tray nature cream pioneer wrap lake speak window pet";
+var mnemonic = "obscure fame melody uncle supreme skin among ride promote magnet undo girl";

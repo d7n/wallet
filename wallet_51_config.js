@@ -1,1 +1,1 @@
-var mnemonic = "squeeze luggage total globe comic rib share broken subway follow cart sphere";
+var mnemonic = "glance merit account act school never flat direct child cluster enact hip";

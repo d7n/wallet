@@ -1,1 +1,1 @@
-var mnemonic = "firm list rent viable artwork fly genius seven future oxygen horse toddler";
+var mnemonic = "network depth kidney usage fortune glue arrive warm pilot slam gesture fragile";

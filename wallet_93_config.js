@@ -1,1 +1,1 @@
-var mnemonic = "bronze expose seven chaos reopen wage enroll service cost artefact violin exist";
+var mnemonic = "flee toddler join want blossom divide brief measure hen bomb nuclear bundle";

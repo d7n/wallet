@@ -1,1 +1,1 @@
-var mnemonic = "random feature sign charge twist audit library depart catalog improve visual school";
+var mnemonic = "enough breeze vocal volume furnace obtain angry travel virus uncover sentence turkey";

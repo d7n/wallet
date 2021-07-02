@@ -1,1 +1,1 @@
-var mnemonic = "angry receive error rival steel derive car slow adapt brisk usage fantasy";
+var mnemonic = "cradle cute useless custom bomb road tragic shoot fog syrup chalk giggle";

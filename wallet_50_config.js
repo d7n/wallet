@@ -1,1 +1,1 @@
-var mnemonic = "inspire target volume coral salad illegal network turkey supreme chicken rebuild unhappy";
+var mnemonic = "response mosquito vanish ribbon medal move invite weapon allow magic coral spend";

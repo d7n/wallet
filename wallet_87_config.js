@@ -1,1 +1,1 @@
-var mnemonic = "wild host spray expire glow until adapt cluster ozone mesh first venue";
+var mnemonic = "front solar poverty curious siege tag squirrel smile term sight unique hurdle";

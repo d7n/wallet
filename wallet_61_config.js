@@ -1,1 +1,1 @@
-var mnemonic = "poem valve weasel element athlete agree subject search leader stamp orphan oven";
+var mnemonic = "horror rigid fatigue match bunker this grab gaze video human miss pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "across glow unknown limb loop pumpkin pulse receive razor waste series divide";
+var mnemonic = "faculty opinion merge kid inquiry dentist weekend thing river chimney wagon chase";

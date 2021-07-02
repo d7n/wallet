@@ -1,1 +1,1 @@
-var mnemonic = "topic sniff palace sail beef old enroll ribbon bleak post chunk acquire";
+var mnemonic = "casual gadget loyal you fault boy like tenant topple armed hotel aware";

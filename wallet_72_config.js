@@ -1,1 +1,1 @@
-var mnemonic = "destroy hello exhibit fire feel hockey toss ride casual merry sight crack";
+var mnemonic = "document dragon satoshi curious dirt process mirror misery atom become critic grocery";

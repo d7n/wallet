@@ -1,1 +1,1 @@
-var mnemonic = "visit angle shoulder violin all hero shoe exhibit digital output result arrest";
+var mnemonic = "please keen discover marriage stick plastic vote jar battle dirt okay review";

@@ -1,1 +1,1 @@
-var mnemonic = "tide predict page will battle repeat reject degree pass best script panel";
+var mnemonic = "sting gravity also choice brisk dream borrow tool urban flame used bread";

@@ -1,1 +1,1 @@
-var mnemonic = "debris either tell minute void initial man cruise sock mimic toast interest";
+var mnemonic = "raccoon chest original liquid physical romance coin around height busy lawn oyster";

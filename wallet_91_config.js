@@ -1,1 +1,1 @@
-var mnemonic = "picture motion genius method indicate glow outside nation avoid erase ostrich glance";
+var mnemonic = "shadow lounge able image lock fall verb purity sting similar sea sure";

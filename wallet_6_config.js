@@ -1,1 +1,1 @@
-var mnemonic = "shiver pear error corn become witness million pepper plunge chest jump arrow";
+var mnemonic = "sad else that dutch major actor giant parent turn door royal duck";

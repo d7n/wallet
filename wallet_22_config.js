@@ -1,1 +1,1 @@
-var mnemonic = "kit predict divorce civil mechanic just insect doll mobile base zone flat";
+var mnemonic = "connect road struggle pelican present popular call equal pond best position kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "auction dinosaur bright basic kiwi march balcony mountain bomb toe cupboard badge";
+var mnemonic = "domain unlock hire patrol side debris kiss ladder taste cluster tuna yellow";

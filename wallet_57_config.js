@@ -1,1 +1,1 @@
-var mnemonic = "solve stem allow climb report skate lumber phrase scheme shop tone canvas";
+var mnemonic = "rent common village weapon party session jazz pottery double add festival escape";

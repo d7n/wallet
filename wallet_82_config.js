@@ -1,1 +1,1 @@
-var mnemonic = "genre airport outdoor spirit educate knock asthma burger tube spread flame tiger";
+var mnemonic = "change baby hockey popular dish special laundry balance month series trial vital";

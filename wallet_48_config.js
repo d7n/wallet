@@ -1,1 +1,1 @@
-var mnemonic = "clay burden black pizza wheat service response list motion plastic romance isolate";
+var mnemonic = "own tomorrow turn chief property sea cactus desk final drum material party";

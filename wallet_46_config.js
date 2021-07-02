@@ -1,1 +1,1 @@
-var mnemonic = "avocado roof sunny image strategy cover job lounge humor about zebra save";
+var mnemonic = "hand air dragon awake swarm impose easy insect fox material mask parent";

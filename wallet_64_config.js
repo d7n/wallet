@@ -1,1 +1,1 @@
-var mnemonic = "attend gloom behave large middle cancel reflect quality join umbrella surround random";
+var mnemonic = "gasp spoon error torch will apple double pizza bonus relief lunar twice";

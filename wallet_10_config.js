@@ -1,1 +1,1 @@
-var mnemonic = "orient smart decide faint jealous first vault mad family carry moon evil";
+var mnemonic = "bring hospital dizzy peace lend clock filter pulse list decline begin dignity";

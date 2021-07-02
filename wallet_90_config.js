@@ -1,1 +1,1 @@
-var mnemonic = "express silly ship skate token elevator tent proud when talk planet judge";
+var mnemonic = "dynamic pave cricket despair divide tooth sauce this toddler divide silver wear";

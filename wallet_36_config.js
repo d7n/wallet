@@ -1,1 +1,1 @@
-var mnemonic = "prefer swing multiply verify ribbon opinion cinnamon joy assault tooth general edge";
+var mnemonic = "need outside token idle energy winter electric raise song sustain rival dune";

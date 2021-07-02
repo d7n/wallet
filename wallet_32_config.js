@@ -1,1 +1,1 @@
-var mnemonic = "rapid bench fork discover luggage humble pattern next rigid race omit online";
+var mnemonic = "alpha sample surprise keen invest team typical copper rough nothing man toast";

@@ -1,1 +1,1 @@
-var mnemonic = "asset fury birth neutral capable predict feed wait real feel thrive pet";
+var mnemonic = "velvet amused useless hip behind resemble slot chair appear sunset lesson baby";

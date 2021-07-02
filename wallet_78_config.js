@@ -1,1 +1,1 @@
-var mnemonic = "junior oval level wise famous tank popular pet pilot know swear label";
+var mnemonic = "narrow inflict stove style kind novel basket grit shrug near report field";

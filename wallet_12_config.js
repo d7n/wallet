@@ -1,1 +1,1 @@
-var mnemonic = "trumpet task exercise drive floor shove old bind coffee letter duck small";
+var mnemonic = "wire glimpse buyer drum impact video day someone film immune mammal baby";

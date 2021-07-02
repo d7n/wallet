@@ -1,1 +1,1 @@
-var mnemonic = "globe elder artefact example monster miracle baby decide priority company oblige grace";
+var mnemonic = "dial team minimum live olive humor clay ice marine people prize echo";

@@ -1,1 +1,1 @@
-var mnemonic = "camera loud lunch elder office olive oxygen fashion display idle offer voyage";
+var mnemonic = "grant toward core define ridge cheap strike strong vocal radar olympic speak";

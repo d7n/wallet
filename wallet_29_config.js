@@ -1,1 +1,1 @@
-var mnemonic = "concert hundred dolphin actual liar funny page select inner about trash visual";
+var mnemonic = "figure grief butter panic pair common smile exercise finish immense chronic year";

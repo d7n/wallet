@@ -1,1 +1,1 @@
-var mnemonic = "choose concert veteran kiwi usual silver exhaust coast blanket coyote rotate extend";
+var mnemonic = "sock snow right series shuffle liberty claim nature song oyster dog good";

@@ -1,1 +1,1 @@
-var mnemonic = "apart vibrant donor swap ride impact innocent nice wink donkey drink grit";
+var mnemonic = "daring square together venture tobacco prevent praise color glare capital gym giant";

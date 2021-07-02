@@ -1,1 +1,1 @@
-var mnemonic = "nerve object edit track surprise start sadness slide morning bring faint monster";
+var mnemonic = "wreck siren nephew shoot ugly deposit jeans inform joy start purchase quick";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow divorce tell demand bleak tomato ahead play lesson bar ignore urban";
+var mnemonic = "picnic vendor affair unit frog math taxi income right innocent ranch web";

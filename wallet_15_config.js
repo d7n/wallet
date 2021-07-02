@@ -1,1 +1,1 @@
-var mnemonic = "crop regret speak capital give bitter mandate must three project spider boss";
+var mnemonic = "rapid borrow elder tennis pair behind oval maid chimney fruit bless write";

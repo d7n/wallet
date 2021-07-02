@@ -1,1 +1,1 @@
-var mnemonic = "sauce business diagram fix crazy whisper often observe world mobile chuckle punch";
+var mnemonic = "early pull because doll moment fetch nephew begin ripple vacuum couple century";

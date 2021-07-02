@@ -1,1 +1,1 @@
-var mnemonic = "raccoon energy group obvious oyster unable betray convince blouse act divert tragic";
+var mnemonic = "approve ripple torch reject culture plate prison file ridge ill siren lonely";

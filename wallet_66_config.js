@@ -1,1 +1,1 @@
-var mnemonic = "drill put hammer neither myth escape opinion brave toddler program used define";
+var mnemonic = "gate mushroom acquire seat oblige ankle cousin virtual orient uncle village subway";

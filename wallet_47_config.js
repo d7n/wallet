@@ -1,1 +1,1 @@
-var mnemonic = "kit question brief divorce opinion steel menu donate frequent claw panther first";
+var mnemonic = "curve blanket myself shoulder around monitor parent razor alcohol cage believe lift";

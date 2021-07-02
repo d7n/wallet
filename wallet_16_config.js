@@ -1,1 +1,1 @@
-var mnemonic = "waste run eye erase metal social fog orient aspect turn bleak list";
+var mnemonic = "rebuild paddle snap festival girl recall naive use column situate harbor risk";

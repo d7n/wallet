@@ -1,1 +1,1 @@
-var mnemonic = "typical coyote ketchup public hello edge motion express base brown stuff unfold";
+var mnemonic = "emerge walnut yard climb unhappy motor west junior foster peace wish survey";

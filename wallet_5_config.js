@@ -1,1 +1,1 @@
-var mnemonic = "home room have half dutch decline sail stove often exclude cupboard verify";
+var mnemonic = "legal concert banana outdoor virtual mass exchange stool express party chase demise";

@@ -1,1 +1,1 @@
-var mnemonic = "allow eager burst mention shiver situate odor flock visa border stock viable";
+var mnemonic = "forward quality aisle animal arrive kitten junior fiscal perfect nose tobacco liar";

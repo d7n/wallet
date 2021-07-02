@@ -1,1 +1,1 @@
-var mnemonic = "crowd hedgehog horse practice cry youth stone brass save thrive angry under";
+var mnemonic = "shove basic catch vehicle blouse pupil ordinary staff spend basic stone rude";

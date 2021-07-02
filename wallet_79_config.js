@@ -1,1 +1,1 @@
-var mnemonic = "picnic orphan absurd sight prepare distance calm sweet invest blue foam add";
+var mnemonic = "broom phone process fever video vicious empower nose simple feature wine second";

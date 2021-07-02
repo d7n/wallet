@@ -1,1 +1,1 @@
-var mnemonic = "hip describe buzz spell charge barely razor jeans real cheap civil escape";
+var mnemonic = "trial maximum talk arena extra pool calm carbon hip exhibit alley depth";

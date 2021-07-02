@@ -1,1 +1,1 @@
-var mnemonic = "draft supply warm clever win vendor parent panther clock drip depart upon";
+var mnemonic = "cash response glory sort neutral sadness agree bag moral same rapid stand";

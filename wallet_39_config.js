@@ -1,1 +1,1 @@
-var mnemonic = "live message vanish flush gallery wasp margin elite whisper name arrest better";
+var mnemonic = "pudding check voyage luggage delay broom mushroom wine coconut kit cigar finish";

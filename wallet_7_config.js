@@ -1,1 +1,1 @@
-var mnemonic = "vanish loyal forget cotton physical next lion defense ranch machine pipe forget";
+var mnemonic = "book define bind question goose cube shock defy trip avoid promote hope";
