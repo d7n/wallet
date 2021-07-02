@@ -1,1 +1,1 @@
-var mnemonic = "worth heavy voice second raven fancy onion hammer just correct avoid avoid";
+var mnemonic = "clever maximum insect van armed eye humor talk panel dizzy smoke adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "leader remain job news jungle senior cake service radio fantasy act mistake";
+var mnemonic = "toilet eternal novel purity network picnic wet stereo quote client best vendor";

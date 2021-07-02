@@ -1,1 +1,1 @@
-var mnemonic = "between limit journey chaos guide puzzle path rude swarm swamp pave notice";
+var mnemonic = "crouch curious question camera slow evolve dolphin head snake seven dutch admit";

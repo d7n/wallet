@@ -1,1 +1,1 @@
-var mnemonic = "joke heavy guilt pride brand team point into crash fix answer match";
+var mnemonic = "wear apple kitchen crisp penalty sand habit fish wide share piano eight";

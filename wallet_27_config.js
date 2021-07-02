@@ -1,1 +1,1 @@
-var mnemonic = "gravity method pool hundred avoid shock feed baby yellow bundle gorilla cushion";
+var mnemonic = "lecture mouse genre arch correct play resemble awesome equip mixture put prison";

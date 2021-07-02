@@ -1,1 +1,1 @@
-var mnemonic = "depth note second suggest start orient smooth pencil river fat great artist";
+var mnemonic = "hire drip spatial surround roast verb honey curtain burger pause credit crystal";

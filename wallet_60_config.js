@@ -1,1 +1,1 @@
-var mnemonic = "glass puzzle strategy meat forward piano pencil pyramid hundred salmon ring frequent";
+var mnemonic = "gift sniff fuel lucky minute cruise share reduce cotton age aim hour";

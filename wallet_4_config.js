@@ -1,1 +1,1 @@
-var mnemonic = "horse pact unveil vendor budget trend inner knife decorate city pride limb";
+var mnemonic = "blood puzzle borrow drastic obvious siren indoor open olympic leader tag garlic";

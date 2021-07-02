@@ -1,1 +1,1 @@
-var mnemonic = "cluster wage banner loud project asthma soda lab stock during narrow accuse";
+var mnemonic = "ladder awkward decorate lizard trumpet unusual gold strike certain silent weather capital";

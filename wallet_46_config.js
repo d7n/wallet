@@ -1,1 +1,1 @@
-var mnemonic = "alone once address quick inherit drop confirm usage energy client angry wagon";
+var mnemonic = "field duty odor two wife catalog sentence attitude crawl goose october pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy change suggest joy dragon brand essay case crater ghost avocado fringe";
+var mnemonic = "voice cost myth super group evidence cereal process glory dwarf debate agent";

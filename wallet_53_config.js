@@ -1,1 +1,1 @@
-var mnemonic = "end acid result raven omit gadget express crunch absurd anchor wear case";
+var mnemonic = "buddy noble tornado olympic office liberty resemble cabbage ugly margin mixed bitter";

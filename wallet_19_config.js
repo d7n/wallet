@@ -1,1 +1,1 @@
-var mnemonic = "fever coast okay tomorrow catch concert dignity toss provide problem dress you";
+var mnemonic = "hip tissue muffin correct method mule gallery push salmon drastic coin lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "genius useless ready liquid embrace borrow afford explain shaft chef cash kick";
+var mnemonic = "empty differ visit arm cruise rebuild trumpet dad creek later prison media";

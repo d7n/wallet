@@ -1,1 +1,1 @@
-var mnemonic = "such boy spirit quiz loop supreme black seven purpose cloud job meadow";
+var mnemonic = "text verb update throw floor voice victory memory name silk elevator family";

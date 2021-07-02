@@ -1,1 +1,1 @@
-var mnemonic = "diesel turn amount culture tiger lunar pen lens win next clever convince";
+var mnemonic = "riot attract hobby patch error mixture sketch shoulder lady olympic try street";

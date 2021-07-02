@@ -1,1 +1,1 @@
-var mnemonic = "burger betray island cigar treat catalog option grief bread high human magic";
+var mnemonic = "knee cotton record bus hunt toddler issue truck return enroll peasant today";

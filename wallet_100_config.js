@@ -1,1 +1,1 @@
-var mnemonic = "else recall proud caught quick asset quiz jazz wash direct laundry tornado";
+var mnemonic = "annual pistol sponsor boss moon snap wasp scatter answer dizzy loan tragic";

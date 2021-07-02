@@ -1,1 +1,1 @@
-var mnemonic = "observe travel deal leopard pattern soldier sport velvet law oil still spread";
+var mnemonic = "pole barrel vital arena consider illegal inmate whip symptom retire candy merit";

@@ -1,1 +1,1 @@
-var mnemonic = "save alter hint year idea blouse invest reason amazing journey gift tobacco";
+var mnemonic = "tribe legend enhance olive soccer assume cry still smoke develop response rack";

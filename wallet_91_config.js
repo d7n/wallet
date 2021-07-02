@@ -1,1 +1,1 @@
-var mnemonic = "soup stairs acquire bus enable credit crunch remove bone priority bike scissors";
+var mnemonic = "prison oyster sport wagon bunker surprise army loud prefer lady pulse model";

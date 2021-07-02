@@ -1,1 +1,1 @@
-var mnemonic = "stick love jump boy fantasy scissors truth biology aim rural amused amazing";
+var mnemonic = "disagree chief remind citizen lecture arrive spatial seminar mansion warm unit february";

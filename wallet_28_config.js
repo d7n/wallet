@@ -1,1 +1,1 @@
-var mnemonic = "false model witness elephant surround rapid month program adult street kind ginger";
+var mnemonic = "brick reason frown doll snap stomach area avoid rich gesture lawsuit crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "toss lens mention say large body beef patch have bar cat sail";
+var mnemonic = "topic network cram pencil top shuffle unknown lizard pepper acoustic good blast";

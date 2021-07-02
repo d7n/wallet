@@ -1,1 +1,1 @@
-var mnemonic = "welcome avocado hint earn wagon alone recycle push east shield day census";
+var mnemonic = "collect gas library column nature clerk upon sea lunar impulse holiday genius";

@@ -1,1 +1,1 @@
-var mnemonic = "piano demand grape ocean banner road maple attitude permit tongue actress access";
+var mnemonic = "mountain bomb rug fix glow hire illness client common toy drum baby";

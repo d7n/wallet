@@ -1,1 +1,1 @@
-var mnemonic = "token honey cry scrap notable pass rude door couch slush tiger brisk";
+var mnemonic = "ecology kite address pony stool staff hint trip legal mercy sister young";

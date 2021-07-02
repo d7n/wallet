@@ -1,1 +1,1 @@
-var mnemonic = "message point era crouch bubble same life actor vacant end wish use";
+var mnemonic = "life wide jar glass awkward solar network eight animal tower during appear";

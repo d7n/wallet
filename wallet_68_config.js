@@ -1,1 +1,1 @@
-var mnemonic = "vehicle that polar add pencil fringe rate base hurdle ice valley travel";
+var mnemonic = "aim perfect crash protect debate net avocado talent give danger slim cruise";

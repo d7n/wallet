@@ -1,1 +1,1 @@
-var mnemonic = "female quarter orchard dose predict aim crash jaguar planet daring shop region";
+var mnemonic = "twist table close vibrant story empower powder motor wasp scheme hat bid";

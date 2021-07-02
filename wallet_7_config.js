@@ -1,1 +1,1 @@
-var mnemonic = "margin print provide excess body small filter picture toss manage camp liar";
+var mnemonic = "champion rapid board sea peasant sphere basic adjust hat cricket cannon neglect";

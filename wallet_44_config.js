@@ -1,1 +1,1 @@
-var mnemonic = "audit pencil oppose alpha luggage clock dry people couple initial tortoise erupt";
+var mnemonic = "plastic blur stomach shrug manual inmate sure before carry silk rail very";

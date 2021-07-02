@@ -1,1 +1,1 @@
-var mnemonic = "rival arrange chest club baby diagram oak source absent pull bicycle please";
+var mnemonic = "remember wrestle radar series twenty payment horn sister cereal party giggle grab";

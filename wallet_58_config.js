@@ -1,1 +1,1 @@
-var mnemonic = "immune grief hawk near knee load genuine ugly cattle check advance remember";
+var mnemonic = "core gesture behave chair coast priority horn attend shoulder before situate kit";

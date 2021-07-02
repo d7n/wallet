@@ -1,1 +1,1 @@
-var mnemonic = "truly scrub wrong gun they radar glass lab payment shoulder suspect second";
+var mnemonic = "donate jungle leave waste sauce cable jewel next hungry myself coconut wave";

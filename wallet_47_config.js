@@ -1,1 +1,1 @@
-var mnemonic = "collect antique brisk poem plate saddle couch shiver radio silk dad trip";
+var mnemonic = "when seat garden pause rival rely joy jewel father still wish dinner";

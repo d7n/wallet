@@ -1,1 +1,1 @@
-var mnemonic = "garage harsh blanket truly build toast pond fade arrive butter since essay";
+var mnemonic = "elevator mansion anger genre brief cement scale creek hammer wall barrel coyote";

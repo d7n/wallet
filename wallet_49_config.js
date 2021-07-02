@@ -1,1 +1,1 @@
-var mnemonic = "excuse recall relax deputy spot thought vintage hockey point jacket grow shine";
+var mnemonic = "dish train affair differ spy normal retire burst rule build pepper tower";

@@ -1,1 +1,1 @@
-var mnemonic = "bar torch secret debris snap foster forget brown tape ritual cupboard album";
+var mnemonic = "enroll renew aspect rule drama illness burger message viable file bundle reform";

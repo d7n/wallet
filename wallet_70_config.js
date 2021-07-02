@@ -1,1 +1,1 @@
-var mnemonic = "stuff false cabin various notable width depart deer nothing aunt foam decade";
+var mnemonic = "faculty panther gown beyond urge ritual hand must rebuild farm tell shrug";

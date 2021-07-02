@@ -1,1 +1,1 @@
-var mnemonic = "session disagree echo tank junior attend rough setup square raw orbit speak";
+var mnemonic = "pole tape effort glad code neglect extra deposit govern snap cool fix";

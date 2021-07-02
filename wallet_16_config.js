@@ -1,1 +1,1 @@
-var mnemonic = "metal hip like fluid cage guess guess extra dial blood cave honey";
+var mnemonic = "cage exchange glass bread impact century owner stereo useful increase laundry reveal";

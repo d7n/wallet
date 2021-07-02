@@ -1,1 +1,1 @@
-var mnemonic = "replace cherry ginger bus script divide pudding name slice volume clump tongue";
+var mnemonic = "enforce spring park lounge title rain diary cart guilt lady expose bag";

@@ -1,1 +1,1 @@
-var mnemonic = "dry orient treat insect write move income december relief heavy tuna duck";
+var mnemonic = "split crawl pill divorce resemble file extra cancel pattern melt urge keep";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal banana foster nice wide traffic enforce case inhale simple huge rule";
+var mnemonic = "bring song evoke broken guitar palm install wink ring together pudding over";

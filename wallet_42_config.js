@@ -1,1 +1,1 @@
-var mnemonic = "salute stamp tragic case suit error now plate message decorate melody negative";
+var mnemonic = "confirm cash glare innocent adult jaguar scatter wagon twin long welcome nose";

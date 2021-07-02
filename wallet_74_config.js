@@ -1,1 +1,1 @@
-var mnemonic = "receive genuine onion myself arch festival hello rhythm stomach govern trap grunt";
+var mnemonic = "age alpha agree emotion credit symbol discover assault attract clog clump egg";

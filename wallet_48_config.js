@@ -1,1 +1,1 @@
-var mnemonic = "hurdle final hazard speed guard april fragile gloom supply flash dignity robust";
+var mnemonic = "extra grape athlete alien fee muffin cage alcohol boost luggage mean media";

@@ -1,1 +1,1 @@
-var mnemonic = "banner angry royal tide zero region obey pottery cargo air dose thunder";
+var mnemonic = "hammer wolf recycle stamp lizard potato index traffic raw safe winter toy";

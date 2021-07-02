@@ -1,1 +1,1 @@
-var mnemonic = "still spice music resist again bone proud climb green elephant aim list";
+var mnemonic = "sight rapid where price drink fuel husband more answer trip work east";

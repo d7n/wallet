@@ -1,1 +1,1 @@
-var mnemonic = "nice pitch abstract private file skirt clerk mosquito monkey session phone float";
+var mnemonic = "become gas sketch panel essence winner crane misery apart betray dash bless";

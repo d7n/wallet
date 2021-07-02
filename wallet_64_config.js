@@ -1,1 +1,1 @@
-var mnemonic = "mountain blanket upper prosper animal lock resemble sister old family decorate solid";
+var mnemonic = "buyer punch pond skate onion exclude amazing erase maze romance visa smoke";

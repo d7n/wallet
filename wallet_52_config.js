@@ -1,1 +1,1 @@
-var mnemonic = "arrive genuine plate orbit bind orange together rich hammer maze hammer unveil";
+var mnemonic = "atom explain pluck review gather bleak stone dwarf galaxy engine room term";

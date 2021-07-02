@@ -1,1 +1,1 @@
-var mnemonic = "pair keep town gesture fury fitness calm fringe pet hockey patrol galaxy";
+var mnemonic = "asthma truth predict reason urge track try grocery cake length lumber dash";

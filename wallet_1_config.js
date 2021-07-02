@@ -1,1 +1,1 @@
-var mnemonic = "prefer throw build robot hockey educate lens woman forest office dune machine";
+var mnemonic = "little motor nasty crew sell manual hollow clarify dentist jacket pet noble";

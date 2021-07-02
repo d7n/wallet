@@ -1,1 +1,1 @@
-var mnemonic = "later crop screen crumble night space flip conduct salmon episode loop secret";
+var mnemonic = "engage record rebuild include firm biology giant demise auto tennis piano october";

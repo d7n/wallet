@@ -1,1 +1,1 @@
-var mnemonic = "battle stumble tip kick exhibit home follow wash pudding near dismiss quarter";
+var mnemonic = "file glare time unable hybrid silver refuse wealth number celery axis mule";

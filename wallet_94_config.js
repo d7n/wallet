@@ -1,1 +1,1 @@
-var mnemonic = "dirt flavor gallery young kite divide swamp between awkward lazy wing across";
+var mnemonic = "end uncle fork seven miracle roast become rapid discover donor reform announce";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle dry mammal help final tree forum search invite result cart silver";
+var mnemonic = "reflect want blanket connect school left race grunt caution dad problem close";

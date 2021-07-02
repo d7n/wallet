@@ -1,1 +1,1 @@
-var mnemonic = "dragon busy drama toe empty enrich fiction gown kick install fire cute";
+var mnemonic = "latin axis bargain truck spice daring perfect unveil spy tornado alcohol creek";

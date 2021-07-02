@@ -1,1 +1,1 @@
-var mnemonic = "royal range twist latin person weather item antenna leader trigger reform left";
+var mnemonic = "taxi happy bridge capital arch still essay void rotate assault lesson inside";

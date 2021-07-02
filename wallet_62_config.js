@@ -1,1 +1,1 @@
-var mnemonic = "return whip tree cook abuse half math eternal equal disagree wild news";
+var mnemonic = "bless vivid boring adult token waste option tide submit describe message kitchen";

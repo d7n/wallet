@@ -1,1 +1,1 @@
-var mnemonic = "engage confirm bulk picture fit fetch comic beef economy roast orbit end";
+var mnemonic = "pole scout meat first old token nest bench deal reform panel brown";

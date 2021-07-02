@@ -1,1 +1,1 @@
-var mnemonic = "float plate mouse tower soon donor any theory find calm hunt poet";
+var mnemonic = "sponsor rather copy soldier great wall walnut sadness smoke arch shaft long";

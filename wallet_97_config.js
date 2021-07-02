@@ -1,1 +1,1 @@
-var mnemonic = "gadget student tortoise skin battle flee letter fine sand rhythm pencil two";
+var mnemonic = "monitor husband street render sense feed because turtle air tank resist air";

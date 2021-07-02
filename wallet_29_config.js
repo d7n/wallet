@@ -1,1 +1,1 @@
-var mnemonic = "oppose oxygen sunny target bracket canal rose sorry arm wear jealous grace";
+var mnemonic = "guess expire umbrella cage skirt jaguar bitter dilemma tell accuse subject stay";

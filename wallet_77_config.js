@@ -1,1 +1,1 @@
-var mnemonic = "top pen love electric abuse gravity minor spot guitar insane glance bubble";
+var mnemonic = "chimney myth good token book illegal giant loan ecology top tuna prepare";

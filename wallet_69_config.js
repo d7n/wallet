@@ -1,1 +1,1 @@
-var mnemonic = "cotton town fame wink feel umbrella wrist have suggest choose brand nice";
+var mnemonic = "humble waste crowd ship witness match east random lottery sweet target swarm";

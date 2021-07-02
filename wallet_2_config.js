@@ -1,1 +1,1 @@
-var mnemonic = "route day multiply celery proof brain uphold stage drop reunion exit lawsuit";
+var mnemonic = "galaxy wolf multiply quarter indoor original first banner income february version surround";

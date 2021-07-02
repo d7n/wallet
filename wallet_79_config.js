@@ -1,1 +1,1 @@
-var mnemonic = "zero series frequent inquiry boy cause speed panic electric ocean culture dilemma";
+var mnemonic = "elder orchard used flush crane fiscal duty joke exchange session warm stick";

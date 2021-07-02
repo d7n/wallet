@@ -1,1 +1,1 @@
-var mnemonic = "example symbol social clap flock autumn host swallow bless blanket genuine tank";
+var mnemonic = "else own truth casino pattern snake where page oval ahead usual purchase";

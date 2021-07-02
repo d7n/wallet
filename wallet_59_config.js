@@ -1,1 +1,1 @@
-var mnemonic = "empty project lyrics enforce comic anger sick tourist educate cage divide crisp";
+var mnemonic = "during stay quarter jewel despair theory father term autumn water simple degree";

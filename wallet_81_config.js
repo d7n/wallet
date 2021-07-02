@@ -1,1 +1,1 @@
-var mnemonic = "mom tonight point twenty dog web announce client person cabbage zero trust";
+var mnemonic = "ancient junk broccoli famous scissors index tobacco human solid clarify fatigue panel";

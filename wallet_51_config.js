@@ -1,1 +1,1 @@
-var mnemonic = "grant blame mountain always choice great casino exchange olympic assume pattern tape";
+var mnemonic = "hazard churn envelope grit oyster extend hand health vital clown involve lamp";

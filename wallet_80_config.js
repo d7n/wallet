@@ -1,1 +1,1 @@
-var mnemonic = "rough surround device enable sand benefit mixed remind wisdom casino success bullet";
+var mnemonic = "balance achieve sword elder mirror help pluck then glance piece myth obscure";

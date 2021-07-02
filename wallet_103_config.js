@@ -1,1 +1,1 @@
-var mnemonic = "rough grocery fine case mesh jar nerve green glance taxi current worth";
+var mnemonic = "oblige lottery execute lava spy crew logic boy ancient govern steel produce";

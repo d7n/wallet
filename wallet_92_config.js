@@ -1,1 +1,1 @@
-var mnemonic = "piece wall news waste private vessel giant excite code repeat seven dutch";
+var mnemonic = "ask amount reflect wheat wild moment dignity update involve february material update";

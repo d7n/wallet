@@ -1,1 +1,1 @@
-var mnemonic = "tank drive potato hover quick quiz funny prison uncover hundred green hotel";
+var mnemonic = "pass various sight aim orbit anchor ritual master kid defy evidence extend";

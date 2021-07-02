@@ -1,1 +1,1 @@
-var mnemonic = "trash never quote size prosper demise exile bulb rally faculty because leg";
+var mnemonic = "vacuum spider dry poem cheese walnut blast strategy void green jungle piece";

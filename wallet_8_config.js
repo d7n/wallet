@@ -1,1 +1,1 @@
-var mnemonic = "allow forum season fold senior box indicate fitness cable call torch dentist";
+var mnemonic = "tube genre payment deputy wolf visual glare much frost melody glove umbrella";

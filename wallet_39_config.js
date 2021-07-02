@@ -1,1 +1,1 @@
-var mnemonic = "bunker hamster blind brisk involve table fluid peasant clerk skate practice friend";
+var mnemonic = "neutral fluid almost stuff section life roof organ brother dad mixture unfair";

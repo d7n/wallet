@@ -1,1 +1,1 @@
-var mnemonic = "brick cherry hip method inject typical box immense burden void fun require";
+var mnemonic = "slab elevator extra zoo merit baby daughter drum century half success shallow";

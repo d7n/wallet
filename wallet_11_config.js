@@ -1,1 +1,1 @@
-var mnemonic = "crouch tragic idle token devote medal reform mix dwarf birth elevator address";
+var mnemonic = "obvious ritual quarter pottery essay minute fury battle crew know stay flavor";

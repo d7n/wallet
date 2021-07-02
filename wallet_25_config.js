@@ -1,1 +1,1 @@
-var mnemonic = "tilt end unaware brave best involve hockey flavor hood faint hawk advice";
+var mnemonic = "arctic ethics clog three season law machine lamp where increase ranch apart";

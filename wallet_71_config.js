@@ -1,1 +1,1 @@
-var mnemonic = "goddess clutch zebra push nominee index solar fatigue cause lawn cause inch";
+var mnemonic = "renew cash clever trouble nuclear thing winner champion speak slender also subway";

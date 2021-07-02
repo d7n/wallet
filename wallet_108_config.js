@@ -1,1 +1,1 @@
-var mnemonic = "roof farm burden valve cry surge upset rug minimum avocado foil connect";
+var mnemonic = "glove merge quit life forum manage party injury obvious rate engine neck";

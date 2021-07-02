@@ -1,1 +1,1 @@
-var mnemonic = "moment outside inside lecture velvet uncle error hello transfer spatial clog clinic";
+var mnemonic = "miracle asset cross hub sea quarter index kitten high resource desert blanket";

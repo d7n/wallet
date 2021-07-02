@@ -1,1 +1,1 @@
-var mnemonic = "neglect squeeze stable potato tip other rescue cinnamon never resource emerge coral";
+var mnemonic = "design blue smart fuel cabin fabric lyrics cushion salon trim marriage force";

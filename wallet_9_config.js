@@ -1,1 +1,1 @@
-var mnemonic = "mountain student album birth input cube divorce father echo thank search swift";
+var mnemonic = "gallery praise grape point mention enable rescue deal trigger midnight actor flee";
