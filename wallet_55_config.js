@@ -1,1 +1,1 @@
-var mnemonic = "rain flame raise clay exile supreme box spoon then crime convince novel";
+var mnemonic = "web snap arm box blush neck oval undo retreat science reason mesh";

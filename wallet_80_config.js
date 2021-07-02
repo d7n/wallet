@@ -1,1 +1,1 @@
-var mnemonic = "uncle pig leader mansion general unit sock ticket loan fame furnace rare";
+var mnemonic = "prize puppy donor column real swim woman clean manual desert also element";

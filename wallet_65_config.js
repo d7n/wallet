@@ -1,1 +1,1 @@
-var mnemonic = "plunge common sad jungle wheat explain can glimpse yellow play orphan genuine";
+var mnemonic = "east height judge fetch mixed cube steak bar brain skate refuse flat";

@@ -1,1 +1,1 @@
-var mnemonic = "since wheat major pen able arctic tower actor hospital tornado soda pig";
+var mnemonic = "muscle razor legend cloth price awful exit work rate unit pioneer quiz";

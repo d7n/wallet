@@ -1,1 +1,1 @@
-var mnemonic = "weapon galaxy asset chimney physical wine garbage sleep turkey fitness trim moment";
+var mnemonic = "model pretty annual tonight myself vapor athlete stand trophy usage when trim";

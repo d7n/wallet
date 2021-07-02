@@ -1,1 +1,1 @@
-var mnemonic = "resemble embody ridge brief half evil claw drop width soon badge love";
+var mnemonic = "pilot firm actress army envelope nothing about joke foam casual juice breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "text lake cup accuse reason grunt wedding home shoot elegant tragic stone";
+var mnemonic = "fix domain tape what sea chalk poverty all federal trade mango dolphin";

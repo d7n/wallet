@@ -1,1 +1,1 @@
-var mnemonic = "robot decide sponsor gas spoon inner pitch trip tunnel banana depth whip";
+var mnemonic = "nurse response churn inherit transfer six inflict mixed crop effort key useful";

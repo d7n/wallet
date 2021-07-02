@@ -1,1 +1,1 @@
-var mnemonic = "display mimic curve finger call afford valid shock truly swear tired pride";
+var mnemonic = "chronic zero notable code garment stool host comic cinnamon youth blur liquid";

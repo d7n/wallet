@@ -1,1 +1,1 @@
-var mnemonic = "dragon town include sphere parent pen entire month person body truly drastic";
+var mnemonic = "believe news reopen drink want puppy nuclear renew aunt mixture corn oven";

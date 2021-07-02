@@ -1,1 +1,1 @@
-var mnemonic = "enter top chalk rocket city stool universe amused settle cover say recall";
+var mnemonic = "faith mammal immune chase copy lonely hurdle basic actual tube wool together";

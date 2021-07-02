@@ -1,1 +1,1 @@
-var mnemonic = "hockey core artist eagle turtle retreat stuff high ginger liquid must evoke";
+var mnemonic = "innocent lesson rely grab cruise steel dawn again mystery surface reject loyal";

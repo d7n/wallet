@@ -1,1 +1,1 @@
-var mnemonic = "undo mixture party enable nose ozone appear parent borrow melt erosion reflect";
+var mnemonic = "evoke dress annual enemy basic tooth mistake capital arch galaxy pass gap";

@@ -1,1 +1,1 @@
-var mnemonic = "discover volume wagon wheel honey voice grace hello lens immune real engage";
+var mnemonic = "chicken swear demand wisdom tragic purchase body cluster country property render carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "exit apple word panda inmate mesh outer action diesel twelve boost regret";
+var mnemonic = "file report flock nose slide spring destroy autumn lazy narrow section excess";

@@ -1,1 +1,1 @@
-var mnemonic = "pink hotel salute artwork evil egg grow trick month glare column unaware";
+var mnemonic = "solve elevator input divert pact field three rigid rice coin model decade";

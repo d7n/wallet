@@ -1,1 +1,1 @@
-var mnemonic = "keep grain practice page innocent allow invite six wine nature urban impulse";
+var mnemonic = "aware grain marine spike mixture scheme receive consider decrease best cabin nut";

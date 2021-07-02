@@ -1,1 +1,1 @@
-var mnemonic = "soon vacant renew horse small future gift have bottom develop cargo normal";
+var mnemonic = "right tilt solar primary before already then defense model slab artwork train";

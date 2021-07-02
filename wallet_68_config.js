@@ -1,1 +1,1 @@
-var mnemonic = "edge stuff transfer noble glance earn click armor merge paper blame fence";
+var mnemonic = "shield layer nasty drink hamster vibrant poverty possible vocal obvious early lazy";

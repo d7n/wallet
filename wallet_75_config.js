@@ -1,1 +1,1 @@
-var mnemonic = "custom taste faith delay crater right lunch better leaf rather lift bacon";
+var mnemonic = "gift play seminar typical cry peasant device evil eye limb thank visa";

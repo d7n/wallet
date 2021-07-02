@@ -1,1 +1,1 @@
-var mnemonic = "shell tell huge call squirrel blast alarm ankle grief cigar grit flash";
+var mnemonic = "comic major nerve simple snack normal midnight festival derive couch coyote trade";

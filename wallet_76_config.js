@@ -1,1 +1,1 @@
-var mnemonic = "motor pluck game credit sniff flower myself swallow risk vicious lend amazing";
+var mnemonic = "perfect news tattoo invite crater desert bean hybrid craft mammal almost author";

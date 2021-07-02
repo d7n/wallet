@@ -1,1 +1,1 @@
-var mnemonic = "ask wine tourist roast purchase wife into swarm injury ball jewel wine";
+var mnemonic = "reopen shy collect clip leave satoshi diary romance west feed vocal noise";

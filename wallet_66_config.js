@@ -1,1 +1,1 @@
-var mnemonic = "kidney buyer club bulb price into cash crouch bundle there borrow profit";
+var mnemonic = "social walk assume quality horse clutch state bind million parent lift lift";

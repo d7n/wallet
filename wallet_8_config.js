@@ -1,1 +1,1 @@
-var mnemonic = "mammal eye sponsor track chunk hedgehog prosper clog unveil tone limb deal";
+var mnemonic = "friend bullet seed public slogan soldier shove tide grunt mosquito elegant obtain";

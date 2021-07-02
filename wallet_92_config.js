@@ -1,1 +1,1 @@
-var mnemonic = "hurry cloth exhaust neck heart example price goddess viable liberty rotate cruise";
+var mnemonic = "muffin great sudden until shield rain useless diamond crisp warm sail usage";

@@ -1,1 +1,1 @@
-var mnemonic = "until hold cruel salmon opinion eagle desert three metal baby want deny";
+var mnemonic = "leaf capable donor glimpse all fatal tackle vague sell poet enrich enlist";

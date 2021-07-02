@@ -1,1 +1,1 @@
-var mnemonic = "concert man hazard situate pull matrix uphold village lucky patrol music lecture";
+var mnemonic = "motor edge absurd unaware valve swift fee pottery video wash pupil picture";

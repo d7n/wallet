@@ -1,1 +1,1 @@
-var mnemonic = "setup poverty alter scissors detail plate broken jeans usual kite blanket slow";
+var mnemonic = "absurd electric across collect double permit exile sausage angry jungle escape ride";

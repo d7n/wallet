@@ -1,1 +1,1 @@
-var mnemonic = "display market heavy kid jeans betray come safe nose ordinary stable slot";
+var mnemonic = "isolate choose alpha cabin absurd ranch scatter because tumble curve purchase melody";

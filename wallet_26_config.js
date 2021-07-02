@@ -1,1 +1,1 @@
-var mnemonic = "explain pink vicious angry kitchen melody worry private digital august fire dumb";
+var mnemonic = "prosper junk mandate patch subway pepper gossip result now faculty unknown direct";

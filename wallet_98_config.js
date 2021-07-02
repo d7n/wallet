@@ -1,1 +1,1 @@
-var mnemonic = "tiger select else bone guitar survey radar inspire mouse honey scorpion saddle";
+var mnemonic = "vocal half until eight front rival motor quantum estate bring west fall";

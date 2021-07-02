@@ -1,1 +1,1 @@
-var mnemonic = "rent item describe venture history beach enroll later maximum success struggle cliff";
+var mnemonic = "mandate tornado bring mesh planet blur october panel peace hood display before";

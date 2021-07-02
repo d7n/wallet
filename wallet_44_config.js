@@ -1,1 +1,1 @@
-var mnemonic = "few undo feature bubble flock couple couch monster jealous minute moral dose";
+var mnemonic = "credit session notable infant diet apart country milk wrap left couch peanut";

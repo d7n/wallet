@@ -1,1 +1,1 @@
-var mnemonic = "simple south gaze above debris frown town decline used achieve sweet milk";
+var mnemonic = "raw swing toilet much analyst repeat siren afford fire ensure exhaust vendor";

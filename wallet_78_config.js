@@ -1,1 +1,1 @@
-var mnemonic = "elite setup round finish tail praise between vintage carbon shrug aware garlic";
+var mnemonic = "unit punch foot surface walk denial must mercy peasant key swim odor";

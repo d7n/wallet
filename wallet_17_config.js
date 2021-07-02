@@ -1,1 +1,1 @@
-var mnemonic = "erosion foot still middle margin toddler resemble burden record rookie impose seed";
+var mnemonic = "upset guess pave park impose direct muscle surface grow friend mix dice";

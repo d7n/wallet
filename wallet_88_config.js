@@ -1,1 +1,1 @@
-var mnemonic = "unlock hurt sad shift pepper mom seminar isolate panther glimpse trouble absorb";
+var mnemonic = "diary sting blush talk mobile village tape tilt awkward peanut visual convince";

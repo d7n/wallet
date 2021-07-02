@@ -1,1 +1,1 @@
-var mnemonic = "yellow sunset glad toilet rug coyote sketch fly electric lottery drink radar";
+var mnemonic = "tent huge invite river extend panther exotic organ tuna pattern sausage evidence";

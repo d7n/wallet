@@ -1,1 +1,1 @@
-var mnemonic = "open key viable small order buzz hedgehog report input inquiry venue visit";
+var mnemonic = "chaos duty purchase rally ankle body claim exclude skin fall table right";

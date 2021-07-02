@@ -1,1 +1,1 @@
-var mnemonic = "undo other asthma foot kind laptop grocery hockey drum express blind shoot";
+var mnemonic = "avoid lawn shell day black extend satisfy style olympic umbrella artist donate";

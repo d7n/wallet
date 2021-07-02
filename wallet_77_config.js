@@ -1,1 +1,1 @@
-var mnemonic = "huge letter chapter saddle girl predict glass minimum secret electric urge siege";
+var mnemonic = "core giggle drive actor creek hurdle evil vibrant always try mansion injury";

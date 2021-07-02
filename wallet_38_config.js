@@ -1,1 +1,1 @@
-var mnemonic = "health learn wife crush rare check brick boss region excuse audit check";
+var mnemonic = "resemble border deputy exclude tiger tobacco ladder vault exact mutual people point";

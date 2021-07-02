@@ -1,1 +1,1 @@
-var mnemonic = "custom garlic disorder drop view sea public brisk infant shock comfort off";
+var mnemonic = "staff bright cable claw victory theme hire sister hunt cherry panel innocent";

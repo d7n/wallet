@@ -1,1 +1,1 @@
-var mnemonic = "door auto also desert paddle borrow throw either lemon fit license nation";
+var mnemonic = "adjust skin nuclear wine dwarf rule treat loop metal wall lemon unable";

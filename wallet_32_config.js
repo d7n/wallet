@@ -1,1 +1,1 @@
-var mnemonic = "deputy horse month elder tuna sibling voice craft stand actual science much";
+var mnemonic = "discover spawn promote kitten banana nice boy regular spawn unfold gift fuel";

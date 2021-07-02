@@ -1,1 +1,1 @@
-var mnemonic = "flower debris seek chef sister tornado cereal mom empty lava depth rude";
+var mnemonic = "office dune expose cruel around certain rotate case exercise artist stage ride";

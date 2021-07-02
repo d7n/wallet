@@ -1,1 +1,1 @@
-var mnemonic = "peasant apology scare cotton fee lake october gloom remember uniform where sand";
+var mnemonic = "puppy episode fence ramp nut enter away ecology tennis hour unaware twelve";

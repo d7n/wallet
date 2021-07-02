@@ -1,1 +1,1 @@
-var mnemonic = "tree sauce forum task reunion pass area release total style refuse basket";
+var mnemonic = "space pink spawn analyst own net agent final pact switch flip ladder";

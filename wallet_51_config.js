@@ -1,1 +1,1 @@
-var mnemonic = "moon bring veteran open panel bridge original dress siren into faculty hurdle";
+var mnemonic = "point captain cereal grid lake jewel fuel horror horror chest jelly spoil";

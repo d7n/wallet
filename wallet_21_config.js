@@ -1,1 +1,1 @@
-var mnemonic = "enemy glass crew install foil jealous today title album conduct surprise panic";
+var mnemonic = "van limb patient crush blame couple cement dish thing album female lawsuit";

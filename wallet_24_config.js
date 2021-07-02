@@ -1,1 +1,1 @@
-var mnemonic = "bundle doctor veteran category festival arm ketchup clock broken situate brave extra";
+var mnemonic = "empty great noodle fatigue fluid machine reveal off indicate notice alpha spy";

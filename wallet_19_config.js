@@ -1,1 +1,1 @@
-var mnemonic = "pact gate kitchen peasant letter claw allow suggest stuff duty frame catch";
+var mnemonic = "pear load dream student cross wide invest puzzle blush way wheat lava";

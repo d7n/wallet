@@ -1,1 +1,1 @@
-var mnemonic = "dolphin group juice goat syrup sing boil girl behind reveal pudding lizard";
+var mnemonic = "nephew unveil bean ribbon lock hint crush sleep smooth nice alter message";

@@ -1,1 +1,1 @@
-var mnemonic = "cute heavy toe ostrich yellow critic write never merry school canal top";
+var mnemonic = "learn genius demise puzzle broken service safe oil pool tray champion citizen";

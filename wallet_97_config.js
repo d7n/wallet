@@ -1,1 +1,1 @@
-var mnemonic = "essence during find muscle crumble wire traffic dress diary guess crane kit";
+var mnemonic = "when oil hard loud trend month silly teach crater ice file casino";

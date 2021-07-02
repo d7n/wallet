@@ -1,1 +1,1 @@
-var mnemonic = "fence forum kit sick coral giggle banner perfect gate purse twenty dutch";
+var mnemonic = "possible frog transfer monster ginger give shield maid tent remind surface orbit";

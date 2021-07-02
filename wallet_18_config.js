@@ -1,1 +1,1 @@
-var mnemonic = "alarm bargain cloud seek feature reflect method junk near obey stairs orchard";
+var mnemonic = "party skull quit saddle saddle brass congress hotel acquire sure tag leopard";

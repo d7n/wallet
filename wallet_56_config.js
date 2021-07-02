@@ -1,1 +1,1 @@
-var mnemonic = "era visit endorse siren harvest pole toy radar slogan pepper useful drastic";
+var mnemonic = "river pass unaware maze world ill bomb fabric rail already lunar panda";

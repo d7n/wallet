@@ -1,1 +1,1 @@
-var mnemonic = "sock excuse section small home topic neutral exist tiny use arena sing";
+var mnemonic = "play nut sponsor target dog hold chef soon olive place place army";

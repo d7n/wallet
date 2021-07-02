@@ -1,1 +1,1 @@
-var mnemonic = "guitar sponsor stool project screen all fortune swift pencil balance siege opinion";
+var mnemonic = "guide shiver bullet load have rib float allow weasel wait win tent";

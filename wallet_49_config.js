@@ -1,1 +1,1 @@
-var mnemonic = "fetch volume light cage dress plastic normal orchard torch deny curious another";
+var mnemonic = "stove reveal radio avoid spike donate gate aim engine picnic burst define";

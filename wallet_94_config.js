@@ -1,1 +1,1 @@
-var mnemonic = "category live mercy poet agent common top diary alley below basic stock";
+var mnemonic = "scissors flame choice nut door magic hill bomb clog order alcohol loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "loan hint ridge vote human pet vintage give record cousin mystery soup";
+var mnemonic = "inquiry ticket draft fantasy boy hover twice amateur cat puzzle afraid wrist";

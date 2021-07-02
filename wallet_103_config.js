@@ -1,1 +1,1 @@
-var mnemonic = "scatter vast game tragic capital biology economy sell spring tenant diesel empower";
+var mnemonic = "mansion live frequent option tomorrow salon misery recycle pig coconut fetch absent";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe soda prize face bicycle huge only prize obtain humble rabbit side";
+var mnemonic = "monitor jewel floor wedding fire tattoo staff already crowd drip among federal";

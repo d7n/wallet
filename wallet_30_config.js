@@ -1,1 +1,1 @@
-var mnemonic = "barrel joke reveal never apple inner object air country true oak cross";
+var mnemonic = "essay wagon vague situate ticket public grace impose pink flight funny ceiling";

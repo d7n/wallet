@@ -1,1 +1,1 @@
-var mnemonic = "awful daring blade elevator whisper blue token accuse leisure clever assist blind";
+var mnemonic = "year evoke rent rude alarm miss trigger olympic timber manual canal legend";

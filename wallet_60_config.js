@@ -1,1 +1,1 @@
-var mnemonic = "more maple toast skull draw town smoke south view grocery member robot";
+var mnemonic = "chuckle history soon crater scorpion hour fun nominee wild stay fat ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "immense deal room jelly bracket vicious secret pistol invest lamp alone member";
+var mnemonic = "art photo refuse upset mind notice sell fault biology light alone swap";

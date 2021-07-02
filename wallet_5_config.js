@@ -1,1 +1,1 @@
-var mnemonic = "maximum collect want champion october input reason hub around flash disagree kick";
+var mnemonic = "alter illness defense jazz grab slush pioneer turkey stuff claim outside source";

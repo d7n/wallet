@@ -1,1 +1,1 @@
-var mnemonic = "length vocal undo athlete roof disorder fade sting police biology apple real";
+var mnemonic = "kid bonus give proof rack action pulse era divide cancel eyebrow clip";

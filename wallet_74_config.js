@@ -1,1 +1,1 @@
-var mnemonic = "february trust spawn cushion blue man ocean puzzle wool path seek suit";
+var mnemonic = "uncover firm recall van receive shove chimney search champion series alter immune";

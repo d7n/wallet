@@ -1,1 +1,1 @@
-var mnemonic = "ozone episode tag bus lucky trust copper web spice wait input fire";
+var mnemonic = "enrich suffer dilemma barrel attack suffer interest receive swap expand swim annual";

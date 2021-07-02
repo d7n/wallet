@@ -1,1 +1,1 @@
-var mnemonic = "olympic prison moon amateur sell eye drink drama turtle guitar dog tortoise";
+var mnemonic = "dutch type industry stuff owner female buzz need draw farm magic stadium";

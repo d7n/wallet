@@ -1,1 +1,1 @@
-var mnemonic = "empty forum hero defense mix lock fiscal fade anxiety drip table guitar";
+var mnemonic = "easy remain stage mom snow reunion style clown armed sponsor connect sunny";

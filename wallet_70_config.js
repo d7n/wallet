@@ -1,1 +1,1 @@
-var mnemonic = "pencil drink abstract initial rail cousin piano famous earth moral table life";
+var mnemonic = "cute father drive regular rough rich flush fix inmate home essay design";

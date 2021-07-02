@@ -1,1 +1,1 @@
-var mnemonic = "fresh glimpse recipe deer load orphan path swallow globe modify usual master";
+var mnemonic = "involve only review planet fish trick grace roast fresh excess annual honey";

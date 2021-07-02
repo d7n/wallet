@@ -1,1 +1,1 @@
-var mnemonic = "flee tumble claw human aim announce aim arch glove dial tell busy";
+var mnemonic = "opera near cost resemble favorite where buddy valid output interest trap lake";

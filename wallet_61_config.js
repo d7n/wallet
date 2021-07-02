@@ -1,1 +1,1 @@
-var mnemonic = "beyond ozone trouble satisfy long roof twenty execute lunar pill drastic clay";
+var mnemonic = "price hub unit leader repair tennis circle cluster before urban add squirrel";

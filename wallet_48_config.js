@@ -1,1 +1,1 @@
-var mnemonic = "share business smile lava veteran rack slice reduce soldier thing area level";
+var mnemonic = "control bench wide note second swarm need unusual december world ceiling reduce";

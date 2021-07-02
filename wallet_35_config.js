@@ -1,1 +1,1 @@
-var mnemonic = "worry dose prevent plunge elbow satisfy learn axis network minor ankle main";
+var mnemonic = "shadow evoke solid ahead one friend alpha teach start upper arrange solve";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus tent vacuum fall open glance divert nuclear diagram bridge invite sort";
+var mnemonic = "today before glory omit harsh pole margin slide spring unusual afford knee";

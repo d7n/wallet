@@ -1,1 +1,1 @@
-var mnemonic = "outer pottery harvest display arrest silk size ship island know west provide";
+var mnemonic = "property rapid sad improve drastic eternal solid danger rib swallow benefit deal";

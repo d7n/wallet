@@ -1,1 +1,1 @@
-var mnemonic = "fuel donkey size injury jaguar margin found open badge scatter relief travel";
+var mnemonic = "marble flag dash rare turn mango apart olive weapon hospital churn father";

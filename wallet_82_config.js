@@ -1,1 +1,1 @@
-var mnemonic = "target height robust bargain peasant blouse exclude spike lyrics order quarter mixed";
+var mnemonic = "project item trumpet impact seat false normal disorder exclude arrow gown trend";

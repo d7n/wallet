@@ -1,1 +1,1 @@
-var mnemonic = "ostrich frog end neutral outside avocado extra nephew genius copy tone sight";
+var mnemonic = "brother immune eternal claim survey strong sugar roast all couch scale verb";

@@ -1,1 +1,1 @@
-var mnemonic = "old almost gadget jelly wink chronic jealous round often glide receive control";
+var mnemonic = "cheese wheel test flock hard proud lawsuit boring devote pigeon across poem";
