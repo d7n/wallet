@@ -1,1 +1,1 @@
-var mnemonic = "ready hobby robust vague morning thumb like judge question soldier dumb tank";
+var mnemonic = "member galaxy senior dinner pet seven business impact point horn leisure win";

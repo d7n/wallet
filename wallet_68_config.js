@@ -1,1 +1,1 @@
-var mnemonic = "swarm tuition maze soda silly pizza rebuild left drip vault lend divorce";
+var mnemonic = "employ mirror horse next bracket october bitter lunch ski female indicate good";

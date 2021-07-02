@@ -1,1 +1,1 @@
-var mnemonic = "sibling candy nothing glimpse notable member explain arm rude test still match";
+var mnemonic = "valley foam online silk just asthma ankle trash phrase repair frown embark";

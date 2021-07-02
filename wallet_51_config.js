@@ -1,1 +1,1 @@
-var mnemonic = "garlic alien sugar matrix proof bind electric vital evoke tray refuse task";
+var mnemonic = "artefact disorder arch popular have fall steel shallow capable ranch moment brown";

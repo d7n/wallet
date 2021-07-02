@@ -1,1 +1,1 @@
-var mnemonic = "hamster evolve noodle dance soon mixture vague liar vast object voyage tonight";
+var mnemonic = "cloth south material toddler expose credit welcome cruel giggle inflict today empty";

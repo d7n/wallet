@@ -1,1 +1,1 @@
-var mnemonic = "matter target monkey rich toe park hole consider board east old sugar";
+var mnemonic = "jacket extend captain course million auction boost chest raven round erupt decide";

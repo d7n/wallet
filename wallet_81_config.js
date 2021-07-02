@@ -1,1 +1,1 @@
-var mnemonic = "birth horse pluck ticket judge merit verify divorce october pyramid civil spirit";
+var mnemonic = "buddy sudden moon way mix salute flat pioneer honey dial vessel diagram";

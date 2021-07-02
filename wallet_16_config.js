@@ -1,1 +1,1 @@
-var mnemonic = "arm van artefact surprise detail always panel double pill transfer scan reopen";
+var mnemonic = "worth truck grid divorce hospital escape file clog pepper brass rent urban";

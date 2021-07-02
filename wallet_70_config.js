@@ -1,1 +1,1 @@
-var mnemonic = "moon august cake cement verify cat dial spider bicycle bounce trade embody";
+var mnemonic = "enlist bounce enter success puzzle finish fantasy hotel amused divert damage number";

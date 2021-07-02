@@ -1,1 +1,1 @@
-var mnemonic = "behind siege space dilemma common autumn blade submit claim shove source skirt";
+var mnemonic = "smoke income priority add march weekend cloth crush nuclear keep flock sell";

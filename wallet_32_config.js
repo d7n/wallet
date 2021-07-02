@@ -1,1 +1,1 @@
-var mnemonic = "sorry damage easily boil village small stand zero prevent awful train crouch";
+var mnemonic = "awkward sketch leg craft grief radio three roof bind believe exchange key";

@@ -1,1 +1,1 @@
-var mnemonic = "nature coast twin tourist loud champion attack tree phone hobby weapon seminar";
+var mnemonic = "script night work simple beach party artwork tool joke spin wine devote";

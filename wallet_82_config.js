@@ -1,1 +1,1 @@
-var mnemonic = "exclude rare anxiety inspire anchor climb swift expand manage warfare garment vivid";
+var mnemonic = "silent replace monkey flip leaf sleep radar hold cash apple tumble force";

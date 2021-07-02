@@ -1,1 +1,1 @@
-var mnemonic = "ghost twice fun unusual favorite ecology pilot kiwi reason shield iron round";
+var mnemonic = "mammal feed destroy dinner surprise place boost enact help consider adapt start";

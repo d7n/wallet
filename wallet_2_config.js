@@ -1,1 +1,1 @@
-var mnemonic = "train undo monkey caution casino scatter gadget whisper sense between shuffle foil";
+var mnemonic = "canal nation satisfy stadium stuff law vague galaxy very toward dawn dry";

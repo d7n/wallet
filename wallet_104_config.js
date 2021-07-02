@@ -1,1 +1,1 @@
-var mnemonic = "bachelor deer supply husband vote bunker latin foam help panda design giraffe";
+var mnemonic = "elephant vehicle poverty solution artefact cricket combine act strategy under ancient flavor";

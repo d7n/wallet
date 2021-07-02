@@ -1,1 +1,1 @@
-var mnemonic = "luggage blossom ankle worry bamboo ladder skirt list razor rubber fury they";
+var mnemonic = "lottery around coach else kiwi addict bounce unknown fire obscure someone topic";

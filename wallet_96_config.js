@@ -1,1 +1,1 @@
-var mnemonic = "follow stove reopen vintage attitude index sentence hurt issue absent galaxy subject";
+var mnemonic = "used husband final corn improve loud run special poem exercise amused never";

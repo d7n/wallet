@@ -1,1 +1,1 @@
-var mnemonic = "poverty fog sadness rhythm crucial ozone pretty only load inspire feed settle";
+var mnemonic = "cram cactus wear mad argue sun dream veteran visual any luggage bicycle";

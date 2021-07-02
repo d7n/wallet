@@ -1,1 +1,1 @@
-var mnemonic = "arctic possible where goose lava table chaos zone tonight bamboo able gather";
+var mnemonic = "key amount van witness control cook shoot riot tone office basic tilt";

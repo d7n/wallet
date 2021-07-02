@@ -1,1 +1,1 @@
-var mnemonic = "lemon creek bridge differ case garment bundle author drill give index neutral";
+var mnemonic = "firm badge fever swap pattern can bench view summer crane surge loud";

@@ -1,1 +1,1 @@
-var mnemonic = "brick kingdom inform short minimum project seminar multiply height talent hover pioneer";
+var mnemonic = "unusual stock drive unknown help mobile festival dinosaur picture upset digital random";

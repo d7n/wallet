@@ -1,1 +1,1 @@
-var mnemonic = "drum super copper muscle heavy view skill tenant ripple simple guard lunar";
+var mnemonic = "ankle moral program produce girl clap demand artwork denial card only crash";

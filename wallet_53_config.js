@@ -1,1 +1,1 @@
-var mnemonic = "crisp eager faint artist image mesh hunt fossil pluck acquire wisdom fancy";
+var mnemonic = "sustain letter drama genius please drive involve silent vicious caught close pioneer";

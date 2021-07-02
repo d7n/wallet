@@ -1,1 +1,1 @@
-var mnemonic = "suggest loop afford castle churn damage online cactus used derive best helmet";
+var mnemonic = "rose pilot lady foam pledge trophy rain book security any close floor";

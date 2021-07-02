@@ -1,1 +1,1 @@
-var mnemonic = "gather reopen panel disagree robust oblige amused galaxy then sweet sugar job";
+var mnemonic = "neither uncle river pond fossil best salute buyer just tray relax salt";

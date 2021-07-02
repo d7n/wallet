@@ -1,1 +1,1 @@
-var mnemonic = "slice genius help color rude soldier piano pill limit frame list busy";
+var mnemonic = "census slush check cake maze glide dash record few snake render meadow";

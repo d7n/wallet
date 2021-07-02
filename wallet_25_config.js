@@ -1,1 +1,1 @@
-var mnemonic = "business quit drive sweet resemble return desk clock soft inside knee cloud";
+var mnemonic = "motor blanket bulb bundle squeeze flush permit order cargo rabbit lion situate";

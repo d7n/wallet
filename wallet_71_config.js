@@ -1,1 +1,1 @@
-var mnemonic = "nice oven episode relief twenty current helmet coast renew elephant walk smart";
+var mnemonic = "manage ticket current crawl drastic shaft sadness gaze artefact pottery cherry insane";

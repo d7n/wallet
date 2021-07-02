@@ -1,1 +1,1 @@
-var mnemonic = "situate cinnamon mixture come erase wall apple innocent jaguar oven material approve";
+var mnemonic = "define session nothing glad air empty shoe suit smile jump vibrant unusual";

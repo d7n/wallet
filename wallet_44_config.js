@@ -1,1 +1,1 @@
-var mnemonic = "man cricket start happy source seven shoulder aisle choice delay blue clock";
+var mnemonic = "post gasp armed burst unveil shy shift uncover someone congress absent mercy";

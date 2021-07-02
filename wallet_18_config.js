@@ -1,1 +1,1 @@
-var mnemonic = "vital pull birth what away amazing wonder effort air style slow harbor";
+var mnemonic = "stage rug design purchase have process vapor earth virtual either vivid puppy";

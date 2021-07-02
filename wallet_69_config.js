@@ -1,1 +1,1 @@
-var mnemonic = "coral latin buffalo oyster equip alone add notable only welcome curious night";
+var mnemonic = "grant wall gravity swap also rose syrup horse sing chunk salon crisp";

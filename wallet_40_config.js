@@ -1,1 +1,1 @@
-var mnemonic = "slight juice rich ball desk face motor crime eye time work begin";
+var mnemonic = "clog burger motion brass holiday permit run erase globe crater excite siege";

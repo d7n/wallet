@@ -1,1 +1,1 @@
-var mnemonic = "panel manage spoon guitar hub loud just witness very divide loop blade";
+var mnemonic = "benefit engine veteran volcano amount lemon grant rocket become snake retreat gallery";

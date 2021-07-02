@@ -1,1 +1,1 @@
-var mnemonic = "dismiss must slush film pretty point curtain jacket cross tortoise list vanish";
+var mnemonic = "frog spirit priority april method demand hour second humor dizzy giant fever";

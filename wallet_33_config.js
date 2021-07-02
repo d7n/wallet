@@ -1,1 +1,1 @@
-var mnemonic = "author warm happy almost spray minimum merit diesel such piano avocado rough";
+var mnemonic = "broom soon basket gaze nasty example fence business piano brisk express situate";

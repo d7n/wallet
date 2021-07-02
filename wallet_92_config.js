@@ -1,1 +1,1 @@
-var mnemonic = "average insane strategy limb embody harbor remove client guide develop recipe spot";
+var mnemonic = "claim crew broken universe thought sand paper orchard script obey cousin company";

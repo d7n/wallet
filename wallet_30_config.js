@@ -1,1 +1,1 @@
-var mnemonic = "banner eight celery volume diet penalty assume thank tackle learn blanket girl";
+var mnemonic = "impose spoil action resist before main wage garden lens basic play swarm";

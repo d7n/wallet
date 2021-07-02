@@ -1,1 +1,1 @@
-var mnemonic = "initial clip picture race tuna history vehicle claw immense able judge bridge";
+var mnemonic = "supply sunset fitness lyrics amazing large enter order person thumb blossom earth";

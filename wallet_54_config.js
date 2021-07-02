@@ -1,1 +1,1 @@
-var mnemonic = "economy six milk lucky bone exhibit guide clown injury client party dinner";
+var mnemonic = "load wheat divert push pole tag weasel stereo journey trade material gold";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck quote sing bean else anchor faith govern shield rail reunion orphan";
+var mnemonic = "accuse nephew frequent purity error child abandon hello chunk sword during tunnel";

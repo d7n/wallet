@@ -1,1 +1,1 @@
-var mnemonic = "copper dinner escape code sound night entry knife razor minimum pig same";
+var mnemonic = "coral foot safe aerobic debris version mask neutral tilt soap flame scrap";

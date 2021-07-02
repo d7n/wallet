@@ -1,1 +1,1 @@
-var mnemonic = "like call vintage kidney twelve catch clinic joy cloth drama shield just";
+var mnemonic = "price twist mom motion lunar dress album rice domain rain kite athlete";

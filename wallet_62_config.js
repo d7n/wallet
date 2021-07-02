@@ -1,1 +1,1 @@
-var mnemonic = "select describe flag skirt divert badge gold fog topple bird brain canoe";
+var mnemonic = "lonely quit gauge absent fatal skin future fetch during eight drama wing";

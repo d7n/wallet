@@ -1,1 +1,1 @@
-var mnemonic = "error decide stairs admit come model garden adult bundle lab rescue bus";
+var mnemonic = "leisure toy truck dawn mixture cage furnace attend combine mechanic display female";

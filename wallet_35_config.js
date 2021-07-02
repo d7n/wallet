@@ -1,1 +1,1 @@
-var mnemonic = "hybrid message rare obey kit kick what urge ramp coil whip cave";
+var mnemonic = "manual regular also hero gaze void quote science float frozen fall shield";

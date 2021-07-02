@@ -1,1 +1,1 @@
-var mnemonic = "upset false require swift add clap moral hen exercise come logic carry";
+var mnemonic = "shy chair soup water idle solve credit public tank suffer uncle paper";

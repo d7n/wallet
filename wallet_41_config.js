@@ -1,1 +1,1 @@
-var mnemonic = "vague bamboo lucky tell knife such shield ribbon ski tower lesson leader";
+var mnemonic = "glad liquid mobile inject tooth clog merry rely style dignity vehicle amateur";

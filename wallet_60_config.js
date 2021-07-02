@@ -1,1 +1,1 @@
-var mnemonic = "talk split toddler pudding spend wonder banana control dynamic fly gospel act";
+var mnemonic = "job text borrow burst monkey whisper arrange talent all affair leg media";

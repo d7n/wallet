@@ -1,1 +1,1 @@
-var mnemonic = "warrior dentist empower wheel problem oxygen wisdom license impact spatial gesture bench";
+var mnemonic = "then spice number rubber craft thought mechanic cushion hurry fiscal demand tone";

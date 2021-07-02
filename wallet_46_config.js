@@ -1,1 +1,1 @@
-var mnemonic = "tiny client rally unfair praise slam rose build general jacket clip combine";
+var mnemonic = "shell host you rotate vague nice film brother goose foster nominee silver";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase elder audit broccoli early invite undo fancy iron fence soda axis";
+var mnemonic = "grace obtain say usage session belt topic witness nuclear whip collect eagle";

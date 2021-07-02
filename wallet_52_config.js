@@ -1,1 +1,1 @@
-var mnemonic = "boss alert voice manage gossip captain afford shadow surge cart fog width";
+var mnemonic = "endorse gym scissors among artefact rely page hawk limit flavor evolve dial";

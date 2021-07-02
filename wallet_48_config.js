@@ -1,1 +1,1 @@
-var mnemonic = "among couch year hover inherit wrong denial season pave custom mammal hammer";
+var mnemonic = "high balcony water rabbit buddy tobacco opera potato deposit unhappy fatal visit";

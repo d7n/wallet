@@ -1,1 +1,1 @@
-var mnemonic = "rug anxiety layer cost damp shove black brass used reflect chest clever";
+var mnemonic = "tragic prefer crime ocean master aunt lava more next solid game hire";

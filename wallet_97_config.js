@@ -1,1 +1,1 @@
-var mnemonic = "vacuum jeans state amateur benefit lobster argue era age pepper swamp bargain";
+var mnemonic = "disorder search recipe answer invest settle orient visa cherry escape bone middle";

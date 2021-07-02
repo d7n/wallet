@@ -1,1 +1,1 @@
-var mnemonic = "daring silk embrace primary exotic winter mansion coin correct myself squirrel vintage";
+var mnemonic = "human autumn opinion common upgrade doctor guard frog fuel rack kingdom art";

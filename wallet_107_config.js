@@ -1,1 +1,1 @@
-var mnemonic = "inner car skate episode unfold repeat duty define census shoot rather divide";
+var mnemonic = "sick note hill proud east nice sweet enable wish puzzle nation below";

@@ -1,1 +1,1 @@
-var mnemonic = "scout marble ripple title index boss robot victory random friend carbon patient";
+var mnemonic = "renew exact reduce major negative scrub fortune diesel loan mandate elder season";

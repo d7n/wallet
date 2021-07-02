@@ -1,1 +1,1 @@
-var mnemonic = "gadget wood brass engage case mean parent lift engine glide inch sweet";
+var mnemonic = "denial lamp future web prison gorilla empower lab attract exile found come";

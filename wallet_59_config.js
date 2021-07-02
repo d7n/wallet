@@ -1,1 +1,1 @@
-var mnemonic = "advance divorce jelly kiss april record letter benefit tribe sample buffalo defy";
+var mnemonic = "reform ethics cereal session guilt capital chuckle animal hill supreme beauty egg";

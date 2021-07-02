@@ -1,1 +1,1 @@
-var mnemonic = "shed fade huge multiply place ceiling december bid review chef invest check";
+var mnemonic = "capable hub pause arrow worth galaxy pig daring three toss elder flat";

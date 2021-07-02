@@ -1,1 +1,1 @@
-var mnemonic = "onion dawn chat social fun action diamond amount fork gentle crack enrich";
+var mnemonic = "eyebrow ketchup black grid worth master alarm wealth feel able monkey pledge";

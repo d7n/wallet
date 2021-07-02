@@ -1,1 +1,1 @@
-var mnemonic = "veteran gather maple floor evidence unable student sentence trigger differ picture dad";
+var mnemonic = "noodle pledge come twin stable matter seminar despair rack cancel veteran heavy";

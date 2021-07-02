@@ -1,1 +1,1 @@
-var mnemonic = "vacant member scissors child depend cage property dwarf chef silent siren pig";
+var mnemonic = "wagon upper credit space mass garlic caution balcony panther text excess drum";

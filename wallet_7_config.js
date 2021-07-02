@@ -1,1 +1,1 @@
-var mnemonic = "drift pistol oven often curious render fit humble pond derive couch penalty";
+var mnemonic = "inherit humble add pull permit labor during art pioneer audit alter deer";

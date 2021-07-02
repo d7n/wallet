@@ -1,1 +1,1 @@
-var mnemonic = "thunder build filter casual tiny fringe demand mass solution muscle observe base";
+var mnemonic = "hair option undo become citizen camera exotic legend kidney calm rocket pass";

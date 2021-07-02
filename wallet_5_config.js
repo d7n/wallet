@@ -1,1 +1,1 @@
-var mnemonic = "current off ready gas flight shaft illness shoe season spot ice setup";
+var mnemonic = "fossil nephew surprise stable exit key venue index orange surface urge dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb ten develop clip reduce sunset bubble drama van father silver timber";
+var mnemonic = "smooth stand connect nose diet flag right virtual toddler capital garbage illness";

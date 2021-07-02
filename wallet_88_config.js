@@ -1,1 +1,1 @@
-var mnemonic = "helmet nose desk master moral poem intact fortune book join yellow mean";
+var mnemonic = "coffee craft drive indicate produce trick pole field unfold detail thrive child";

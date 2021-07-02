@@ -1,1 +1,1 @@
-var mnemonic = "various drill metal certain foil dish flee thought end extra wash mouse";
+var mnemonic = "ankle slam doll ridge picture sail sadness market boring tail deliver nurse";

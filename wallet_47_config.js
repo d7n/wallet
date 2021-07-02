@@ -1,1 +1,1 @@
-var mnemonic = "staff order million saddle sure hockey order industry stone depth engine under";
+var mnemonic = "trust lawsuit benefit name odor gold punch choice unique moral lock message";

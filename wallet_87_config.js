@@ -1,1 +1,1 @@
-var mnemonic = "pelican elite switch plate guitar bar comfort spoil modify green liquid diamond";
+var mnemonic = "orphan universe manage thumb lobster loyal cook light clog mobile cigar recall";

@@ -1,1 +1,1 @@
-var mnemonic = "rude drop hour palace account visa neutral kind balance filter inspire wreck";
+var mnemonic = "coral disorder they neutral habit rose false extend rack talk true hand";

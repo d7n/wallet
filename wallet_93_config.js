@@ -1,1 +1,1 @@
-var mnemonic = "music double hope reveal can future destroy brain orchard armor design brother";
+var mnemonic = "proof couch ring huge walk river coin trim nature muscle blue accuse";

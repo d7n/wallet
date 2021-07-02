@@ -1,1 +1,1 @@
-var mnemonic = "pitch split zebra utility island extra clever pave strategy garlic power ostrich";
+var mnemonic = "foot rebel antique tiger cart load disagree punch penalty joy tenant hub";

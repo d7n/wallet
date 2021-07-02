@@ -1,1 +1,1 @@
-var mnemonic = "detect grant approve mouse various panda dolphin rule tumble coach rare possible";
+var mnemonic = "recipe define bread ignore silk title cable loan maximum budget motor junk";

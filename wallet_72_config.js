@@ -1,1 +1,1 @@
-var mnemonic = "swallow giant eager hour abuse junk menu like current gospel holiday sport";
+var mnemonic = "silent rigid song ladder utility flat soup tackle garbage present feature pond";

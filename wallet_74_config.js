@@ -1,1 +1,1 @@
-var mnemonic = "suit carpet crisp boost suspect narrow frown twice recipe enemy help mercy";
+var mnemonic = "zero busy culture absent dream face scheme secret differ twelve ride volcano";

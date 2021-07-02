@@ -1,1 +1,1 @@
-var mnemonic = "legend flag foot decide nut ankle expect seven use charge turn because";
+var mnemonic = "picture sentence twice style argue metal gun reject zoo electric flag decide";

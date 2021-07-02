@@ -1,1 +1,1 @@
-var mnemonic = "abuse bounce profit rain hill quit chimney cargo weekend unit turkey people";
+var mnemonic = "chief soap tenant mountain genius fiber plate lamp young promote amateur tissue";

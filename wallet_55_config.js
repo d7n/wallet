@@ -1,1 +1,1 @@
-var mnemonic = "imitate valid pet vessel slogan pull program admit sphere control pioneer same";
+var mnemonic = "throw mix tube barely chicken bind endless guess anger gate picnic monkey";
