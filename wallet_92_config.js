@@ -1,1 +1,1 @@
-var mnemonic = "bean imitate clown coyote into banner corn prevent people glory wing barely";
+var mnemonic = "inhale sister spice alone chapter mail guitar ski milk skirt quarter total";

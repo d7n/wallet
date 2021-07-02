@@ -1,1 +1,1 @@
-var mnemonic = "penalty life outdoor emerge affair sound series tired grace turkey depth velvet";
+var mnemonic = "grunt remember name metal celery travel correct steel catalog coyote coyote between";

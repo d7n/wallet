@@ -1,1 +1,1 @@
-var mnemonic = "galaxy chaos cram text kite dilemma number limb snack truck stool february";
+var mnemonic = "office damp husband orphan youth between lazy exclude cargo custom future mansion";

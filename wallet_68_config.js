@@ -1,1 +1,1 @@
-var mnemonic = "road exotic client work pilot stumble select funny strategy dance defense bag";
+var mnemonic = "squeeze novel matrix today moment gorilla quality bulb modify outside slam pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "stem burger forget outside window arm cool spike tongue into carpet zero";
+var mnemonic = "road badge globe prize fruit crater bomb bacon system inside truck just";

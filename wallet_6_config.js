@@ -1,1 +1,1 @@
-var mnemonic = "rain general month tumble chief prefer oven inner celery olive island when";
+var mnemonic = "resist will seed huge armed strong slam renew stereo coyote october hard";

@@ -1,1 +1,1 @@
-var mnemonic = "angle organ grass emerge strike pitch gather clinic switch destroy zone exhaust";
+var mnemonic = "blouse enemy concert open decade coast drink neck zoo cactus hair wreck";

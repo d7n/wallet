@@ -1,1 +1,1 @@
-var mnemonic = "humor daring access rare license amused omit faint spy myself flame brief";
+var mnemonic = "gadget baby apple rigid health path roast glove negative eternal round impose";

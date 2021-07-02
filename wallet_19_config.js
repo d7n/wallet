@@ -1,1 +1,1 @@
-var mnemonic = "shoulder motion prepare pottery void bus arrange erupt pledge claim relax badge";
+var mnemonic = "misery track hub donate pole equal fit craft vague dutch glow envelope";

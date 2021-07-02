@@ -1,1 +1,1 @@
-var mnemonic = "soap ladder faint eagle noble enough food relax carry milk empty wreck";
+var mnemonic = "icon language palace devote garbage ecology frame master cement fetch october face";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine flush trend core toddler menu trade manual leaf exotic shine illegal";
+var mnemonic = "payment puppy patient either slam fever jar inmate pear enough young private";

@@ -1,1 +1,1 @@
-var mnemonic = "legal fitness grain carpet ripple come time film soul birth trick warrior";
+var mnemonic = "wood chimney volume relax movie nuclear error hedgehog rug copper episode broom";

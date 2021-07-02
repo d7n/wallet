@@ -1,1 +1,1 @@
-var mnemonic = "best slam flat noble exhaust begin current stomach puppy beyond emerge ginger";
+var mnemonic = "quote chef pave toddler shoot express digital capable section jacket fox result";

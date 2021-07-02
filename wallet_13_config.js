@@ -1,1 +1,1 @@
-var mnemonic = "menu trumpet oppose wrong dynamic maximum teach profit paper stairs rough eight";
+var mnemonic = "problem load dentist rural lucky vivid deposit uncover stuff believe shove today";

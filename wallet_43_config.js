@@ -1,1 +1,1 @@
-var mnemonic = "rent drama park teach furnace diary code cage suspect warfare moon twelve";
+var mnemonic = "strong twelve near oak tone ritual unhappy reunion melt health mind earn";

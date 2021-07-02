@@ -1,1 +1,1 @@
-var mnemonic = "invite solar right donor toast acoustic athlete neither wing toe orient awesome";
+var mnemonic = "shop drastic surround possible master jewel diet trade file sign fancy neglect";

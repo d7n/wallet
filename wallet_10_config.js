@@ -1,1 +1,1 @@
-var mnemonic = "season clinic advice piano outside joy program mask wise supreme bottom success";
+var mnemonic = "soap plate issue settle favorite giant smile else drastic near cannon range";

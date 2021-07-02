@@ -1,1 +1,1 @@
-var mnemonic = "dice virus spoon shoe mass arm two expand open limit lottery trash";
+var mnemonic = "swamp civil novel legend laundry maximum iron path kind vessel blind noodle";

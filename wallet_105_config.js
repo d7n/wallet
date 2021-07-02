@@ -1,1 +1,1 @@
-var mnemonic = "main man muscle switch manual trim quality fault donkey mule frequent motor";
+var mnemonic = "index tennis game myth robust midnight gorilla dove october grit error pistol";

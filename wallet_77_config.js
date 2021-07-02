@@ -1,1 +1,1 @@
-var mnemonic = "twist life soccer cup later sad neglect fox garment cube umbrella credit";
+var mnemonic = "foot organ begin tortoise shift demand recycle alcohol yard outside hill six";

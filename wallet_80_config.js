@@ -1,1 +1,1 @@
-var mnemonic = "strike predict protect hero home february toy shed harsh nominee excess item";
+var mnemonic = "ketchup win equal pen draw weather half sand symptom anxiety flip wrestle";

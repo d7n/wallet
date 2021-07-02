@@ -1,1 +1,1 @@
-var mnemonic = "cargo scheme cabin crew badge frequent theory attitude board snack mimic kite";
+var mnemonic = "bench gather mountain sea split armor elbow party vivid dirt dignity curious";

@@ -1,1 +1,1 @@
-var mnemonic = "naive depend pole noodle illness useless acoustic divorce seek thunder there gas";
+var mnemonic = "measure crowd cloth hat kite leisure exist laundry swear atom drill present";

@@ -1,1 +1,1 @@
-var mnemonic = "thank fluid notable among stone river cactus until profit coast demise ancient";
+var mnemonic = "hope float patrol damp luxury helmet someone taxi brass flame chronic aisle";

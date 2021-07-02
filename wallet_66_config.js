@@ -1,1 +1,1 @@
-var mnemonic = "sugar assist camp verb guitar reflect youth raw next item answer despair";
+var mnemonic = "echo sample detect elder damp exhibit ancient vague autumn fortune wrap police";

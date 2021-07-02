@@ -1,1 +1,1 @@
-var mnemonic = "sphere bottom ridge paddle giant crystal nest coyote strong pull rebuild code";
+var mnemonic = "forum reward verify include account royal toddler tip harsh gorilla latin custom";

@@ -1,1 +1,1 @@
-var mnemonic = "enough seek upset square various response change hungry exact cluster amount jeans";
+var mnemonic = "soft elephant portion ripple benefit impulse waste describe strike engine discover behave";

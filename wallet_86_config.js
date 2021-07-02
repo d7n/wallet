@@ -1,1 +1,1 @@
-var mnemonic = "apple oil connect ready cruise large electric mansion balance unit eager fire";
+var mnemonic = "blanket glory calm brass horror erosion erosion slush wave fruit wish wet";

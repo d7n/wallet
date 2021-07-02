@@ -1,1 +1,1 @@
-var mnemonic = "wear carpet voyage section symptom boil dirt veteran hobby ten path rival";
+var mnemonic = "tent original couch fruit man know ivory bench window burst extend scout";

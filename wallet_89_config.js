@@ -1,1 +1,1 @@
-var mnemonic = "avoid toss drive bundle one cart arrive idea siren fiber furnace other";
+var mnemonic = "quote rhythm clean glad arena couch acquire hospital sock curtain live boil";

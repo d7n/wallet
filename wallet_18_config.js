@@ -1,1 +1,1 @@
-var mnemonic = "feature honey coffee sustain crater day chat effort misery arrange develop diet";
+var mnemonic = "casino unable spell mosquito galaxy robust fat alcohol sniff atom gap ozone";

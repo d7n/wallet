@@ -1,1 +1,1 @@
-var mnemonic = "midnight away fancy scene clip vintage funny marine earn eager blade drop";
+var mnemonic = "pig treat gift parent wrap security shell divide solid observe umbrella essay";

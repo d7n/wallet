@@ -1,1 +1,1 @@
-var mnemonic = "captain afford usage core fox arrest number sweet whisper often helmet material";
+var mnemonic = "bronze honey jealous bring normal toss gadget vacuum rapid other cherry badge";

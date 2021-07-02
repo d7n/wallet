@@ -1,1 +1,1 @@
-var mnemonic = "good demise tennis unknown attack allow access east capable fly cherry scatter";
+var mnemonic = "chronic uphold cruel siren bitter uphold cement aunt expect small evil live";

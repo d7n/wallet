@@ -1,1 +1,1 @@
-var mnemonic = "bench edge exist reward anchor market require edge reduce swap glory genre";
+var mnemonic = "dutch final crime egg post reopen defense meadow cradle random sibling lion";

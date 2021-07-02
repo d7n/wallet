@@ -1,1 +1,1 @@
-var mnemonic = "puzzle thunder alley ability emerge nose october funny siren road swear venture";
+var mnemonic = "panel foil slush again ethics exclude faint session business human before student";

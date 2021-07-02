@@ -1,1 +1,1 @@
-var mnemonic = "fence illness matter carry penalty spawn eternal doll brisk dress eager opinion";
+var mnemonic = "nothing initial foster easy old hero because pistol uphold father finish blind";

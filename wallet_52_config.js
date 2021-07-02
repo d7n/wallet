@@ -1,1 +1,1 @@
-var mnemonic = "quarter tell text train school current top loan summer useful error female";
+var mnemonic = "blossom cabbage slice false veteran snake slow duck champion host order foot";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow luxury rapid special volcano hen toy object health exact physical carpet";
+var mnemonic = "camera quote liar typical recycle check gate laugh valley cruel proof horn";

@@ -1,1 +1,1 @@
-var mnemonic = "city volume outside weekend afraid shiver chimney seek castle digital swift eager";
+var mnemonic = "parent edit eye eye gasp win van final mouse defense absorb lunch";

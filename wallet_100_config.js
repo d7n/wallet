@@ -1,1 +1,1 @@
-var mnemonic = "prosper mule coral police panda audit floor hybrid vote area seven magnet";
+var mnemonic = "roof life inject around approve term scene normal decade promote helmet session";

@@ -1,1 +1,1 @@
-var mnemonic = "morning inform clock avoid focus plunge nut sure oblige tackle loyal horror";
+var mnemonic = "gesture result mask start punch teach firm battle reopen waste opinion category";

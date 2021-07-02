@@ -1,1 +1,1 @@
-var mnemonic = "giggle valve bamboo maple cycle exclude true put lawn focus yellow dragon";
+var mnemonic = "consider confirm grace refuse drama away fiction acid across trophy habit fat";

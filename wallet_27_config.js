@@ -1,1 +1,1 @@
-var mnemonic = "army float ramp ticket congress because bunker sponsor engine caught document feature";
+var mnemonic = "trade tumble invite hundred dawn virtual marine one hello work bean hazard";

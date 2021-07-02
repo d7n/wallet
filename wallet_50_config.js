@@ -1,1 +1,1 @@
-var mnemonic = "require couch tooth hen snack plug video uniform symptom manage develop mom";
+var mnemonic = "number tumble veteran vital noise fatigue exile grief maple better unusual motor";

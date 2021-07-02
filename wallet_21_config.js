@@ -1,1 +1,1 @@
-var mnemonic = "tunnel sock pretty shrimp charge party tank car gaze spray immense street";
+var mnemonic = "wife cloth item adapt absurd funny bronze merge wisdom please resource then";

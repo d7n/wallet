@@ -1,1 +1,1 @@
-var mnemonic = "feel paddle all video matrix canyon garlic pizza buzz matter execute couch";
+var mnemonic = "party promote swamp video reunion gorilla biology rack warfare endorse village west";

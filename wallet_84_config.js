@@ -1,1 +1,1 @@
-var mnemonic = "tongue course swing inside motion remain infant require genuine note agree village";
+var mnemonic = "window engine narrow north question current turtle spoon intact gauge umbrella tank";

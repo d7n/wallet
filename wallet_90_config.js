@@ -1,1 +1,1 @@
-var mnemonic = "lobster art drill diary order raise scene thank grid maze wolf arrest";
+var mnemonic = "siren gauge wife oven unveil canyon road evidence quiz broken material attitude";

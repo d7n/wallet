@@ -1,1 +1,1 @@
-var mnemonic = "labor loud banana patch siege volume flock captain walnut umbrella census amateur";
+var mnemonic = "object jeans chuckle vacant fuel sunset that robot hybrid gospel enrich option";

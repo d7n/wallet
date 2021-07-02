@@ -1,1 +1,1 @@
-var mnemonic = "weekend tell royal law visit pyramid measure window helmet seat pool spike";
+var mnemonic = "relief fee fiber grid absorb phrase injury rocket know cram elder desk";

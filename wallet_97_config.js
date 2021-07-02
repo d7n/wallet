@@ -1,1 +1,1 @@
-var mnemonic = "width live offer glimpse outdoor hamster farm inquiry used draft aunt easy";
+var mnemonic = "ivory humor clap elbow rough devote endless enforce expose wisdom rapid guess";

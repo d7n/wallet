@@ -1,1 +1,1 @@
-var mnemonic = "logic nuclear catalog glove front embrace spider copy more fossil team around";
+var mnemonic = "help banana boy van blue speed forest nose brand design purpose balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "used airport portion milk candy food seed gadget order brick intact naive";
+var mnemonic = "near chaos such front used believe fluid act inspire tennis drama fit";

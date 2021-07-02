@@ -1,1 +1,1 @@
-var mnemonic = "fix pride aware flight seed vapor life car farm mammal chalk grace";
+var mnemonic = "grunt lamp heavy aerobic sentence picnic basic execute lock across hidden unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "organ access crew camp erode bid arm demand bacon join scrub cheap";
+var mnemonic = "human six science dinosaur laundry dance next universe carpet office sample border";

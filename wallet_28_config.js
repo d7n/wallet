@@ -1,1 +1,1 @@
-var mnemonic = "worth surge recall feature bracket region mask also best gesture opinion one";
+var mnemonic = "relax swamp ignore lesson ordinary bike brand maximum exotic dust when song";

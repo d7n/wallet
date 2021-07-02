@@ -1,1 +1,1 @@
-var mnemonic = "lunch endorse denial recall present then truly unlock village erase hundred rival";
+var mnemonic = "suffer degree exchange fragile clutch assist blur base vessel govern leisure absurd";

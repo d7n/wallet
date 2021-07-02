@@ -1,1 +1,1 @@
-var mnemonic = "video dirt text play leave security ignore sort melody keep decide worth";
+var mnemonic = "demise stove dizzy universe rule alley harsh trial toward rescue detect memory";

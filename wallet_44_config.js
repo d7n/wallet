@@ -1,1 +1,1 @@
-var mnemonic = "frame scale mango act sibling wrestle hybrid chuckle ozone nurse cost pig";
+var mnemonic = "lunch tape involve crush favorite fork smoke unusual mammal control whisper cradle";

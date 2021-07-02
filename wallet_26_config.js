@@ -1,1 +1,1 @@
-var mnemonic = "purchase grid walnut end curve usual more reunion seminar race limit sausage";
+var mnemonic = "until way film level rice current still cry engage fee apology chimney";

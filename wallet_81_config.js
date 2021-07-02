@@ -1,1 +1,1 @@
-var mnemonic = "erase chicken fragile loan silver plunge where mimic whip panel model liar";
+var mnemonic = "champion hedgehog sugar royal neutral room update turtle spin message unknown forget";

@@ -1,1 +1,1 @@
-var mnemonic = "auto leopard autumn park spend strike sting cattle drop aspect ring wheat";
+var mnemonic = "gap soda balcony ocean friend cover shoe outer denial twice mass life";

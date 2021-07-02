@@ -1,1 +1,1 @@
-var mnemonic = "dawn farm lucky whisper tomato piece bunker together someone pigeon film tattoo";
+var mnemonic = "must volume win shaft test style economy gospel piece tennis episode step";

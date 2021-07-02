@@ -1,1 +1,1 @@
-var mnemonic = "author rebuild iron differ crowd crazy bread swamp spy iron ripple prefer";
+var mnemonic = "voyage curious arctic remain any stadium absorb crime offer announce around general";

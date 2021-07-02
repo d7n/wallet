@@ -1,1 +1,1 @@
-var mnemonic = "earn click concert table kingdom wet merry venture tobacco impact choose wife";
+var mnemonic = "act mosquito improve first demise blade obey oven thunder dune blossom nice";

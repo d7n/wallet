@@ -1,1 +1,1 @@
-var mnemonic = "vintage renew connect divorce essay north assist announce reveal neutral walnut scrap";
+var mnemonic = "income shove scatter raw pyramid apple wish title mountain test screen pet";

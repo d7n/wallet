@@ -1,1 +1,1 @@
-var mnemonic = "balance address when loop twenty crash shiver fatal suffer pink token apart";
+var mnemonic = "hotel acid fade marriage focus above fruit salt better scout believe magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "post wing poverty bargain shield steel perfect panther creek stone weasel apple";
+var mnemonic = "stick twin office crystal inject purpose era obtain ginger response flash squeeze";

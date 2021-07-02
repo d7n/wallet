@@ -1,1 +1,1 @@
-var mnemonic = "ketchup woman palm paper paddle trial seat skin faith board axis sock";
+var mnemonic = "catalog average clip craft lion market peace horror logic twin game clap";

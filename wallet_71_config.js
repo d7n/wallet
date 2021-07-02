@@ -1,1 +1,1 @@
-var mnemonic = "hen local divert rich ivory viable mosquito rescue trumpet rather dish equip";
+var mnemonic = "opera physical acoustic pilot hazard inside maze spend organ metal weasel minute";

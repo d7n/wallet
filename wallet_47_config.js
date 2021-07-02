@@ -1,1 +1,1 @@
-var mnemonic = "shrug school garden video claim exact reward pulp come curious will garage";
+var mnemonic = "boil able mistake decorate always stable accuse camp old void ripple trouble";

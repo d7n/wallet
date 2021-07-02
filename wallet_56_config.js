@@ -1,1 +1,1 @@
-var mnemonic = "amused emerge leopard food siege reject blade bracket caught sudden reflect physical";
+var mnemonic = "solve buyer wage scheme right avoid very adjust energy cage unique mimic";

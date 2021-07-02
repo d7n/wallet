@@ -1,1 +1,1 @@
-var mnemonic = "chuckle wonder hospital captain transfer exhibit gesture diary craft wolf eye matter";
+var mnemonic = "sniff heart moment usual crowd scan orphan home arch inner style another";

@@ -1,1 +1,1 @@
-var mnemonic = "invest sketch runway nasty robot jump situate early code other general start";
+var mnemonic = "rug cabin peace light oxygen sand medal shiver question dirt whip deny";

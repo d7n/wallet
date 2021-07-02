@@ -1,1 +1,1 @@
-var mnemonic = "park poem pen assume essay tail warrior still market traffic sibling purpose";
+var mnemonic = "correct rude crush weather embrace voyage slab spell hawk assault expand stomach";

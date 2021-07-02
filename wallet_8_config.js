@@ -1,1 +1,1 @@
-var mnemonic = "toddler reason attend light hockey spare spoon emerge behave hand brother web";
+var mnemonic = "network wagon gloom cargo palm prosper token merge wealth dawn baby inhale";

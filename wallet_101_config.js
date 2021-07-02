@@ -1,1 +1,1 @@
-var mnemonic = "keep carry pumpkin size limb ask pass alley faculty demise custom hat";
+var mnemonic = "robust sponsor female stereo garden clap almost silver faculty potato pool all";

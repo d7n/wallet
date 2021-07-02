@@ -1,1 +1,1 @@
-var mnemonic = "foil stay measure festival gesture grant order waste matrix dragon alcohol oak";
+var mnemonic = "adapt control tongue output charge naive candy steel rural lottery museum arrest";

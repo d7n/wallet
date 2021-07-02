@@ -1,1 +1,1 @@
-var mnemonic = "bus ahead humble exile isolate carbon height yard gym deputy genius antique";
+var mnemonic = "face mansion teach differ congress obtain chalk where issue thumb swamp sadness";

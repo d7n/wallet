@@ -1,1 +1,1 @@
-var mnemonic = "mule all tail smile network bike topple decrease remember increase miracle useless";
+var mnemonic = "pride dolphin mechanic slice echo ritual century kiwi bulb six flower into";

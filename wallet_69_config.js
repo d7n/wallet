@@ -1,1 +1,1 @@
-var mnemonic = "trigger brand sauce crazy habit idle repair foster print hood seek apology";
+var mnemonic = "rice guilt gaze year stuff satoshi artefact oblige boy mandate claw assume";

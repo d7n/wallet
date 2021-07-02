@@ -1,1 +1,1 @@
-var mnemonic = "about strategy dove tree mouse provide luxury mango family notable mother call";
+var mnemonic = "shadow sorry twenty steak vapor proof call attract anxiety ride glue unique";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant black lizard ask pen dwarf maple road unhappy hero obtain retreat";
+var mnemonic = "employ chair capital grow camera train appear gun crucial middle acoustic major";

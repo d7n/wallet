@@ -1,1 +1,1 @@
-var mnemonic = "banner scan vault oil forum nest panel crucial author flower capable cliff";
+var mnemonic = "omit embark base bomb soul fog account hunt income tent please cereal";

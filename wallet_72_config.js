@@ -1,1 +1,1 @@
-var mnemonic = "tiny elevator adult syrup lens fragile drift balance volcano lonely limit rural";
+var mnemonic = "luxury steak reform river purpose boring random prepare burger suggest lock mistake";

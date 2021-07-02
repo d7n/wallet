@@ -1,1 +1,1 @@
-var mnemonic = "short excite grief impulse soft dash soap ribbon number memory over bright";
+var mnemonic = "train frozen mesh duck view word sword love street mobile seat story";

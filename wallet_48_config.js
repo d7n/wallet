@@ -1,1 +1,1 @@
-var mnemonic = "side rain rough discover across citizen supply guilt vibrant assist luggage maple";
+var mnemonic = "mention jump uphold disorder image write flash legend jealous exile tortoise pelican";

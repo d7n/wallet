@@ -1,1 +1,1 @@
-var mnemonic = "cup fiction flag pair banana depth surround elite black pony exclude monitor";
+var mnemonic = "glass sail liquid pull final valley frequent burger prosper dismiss donor drama";

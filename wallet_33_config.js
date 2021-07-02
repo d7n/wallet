@@ -1,1 +1,1 @@
-var mnemonic = "tag goddess helmet talk giggle crush shoe level debate aware flash vintage";
+var mnemonic = "reform canyon vivid cattle once such defense lens goat scene caught burger";

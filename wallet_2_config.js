@@ -1,1 +1,1 @@
-var mnemonic = "bench dance pioneer walnut couch noble practice cupboard second acid poem pistol";
+var mnemonic = "summer black ladder original fever require whale bundle adjust extra wolf buyer";

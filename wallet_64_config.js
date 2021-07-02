@@ -1,1 +1,1 @@
-var mnemonic = "type cherry diet amazing shuffle blue recall install immense ask hidden kind";
+var mnemonic = "token soon fossil song index slab budget such desert nut fit spawn";

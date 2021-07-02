@@ -1,1 +1,1 @@
-var mnemonic = "ceiling arena artist desert cat couple bicycle inherit knee hazard when hundred";
+var mnemonic = "sausage later ethics direct recycle wisdom catalog glue best electric wave siren";
