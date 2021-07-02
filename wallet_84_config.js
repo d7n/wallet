@@ -1,1 +1,1 @@
-var mnemonic = "window engine narrow north question current turtle spoon intact gauge umbrella tank";
+var mnemonic = "taxi seek wall gate two once main story make mango thrive submit";

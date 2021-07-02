@@ -1,1 +1,1 @@
-var mnemonic = "quote rhythm clean glad arena couch acquire hospital sock curtain live boil";
+var mnemonic = "pulse logic donor media warfare capital stairs boil nature velvet clean rookie";

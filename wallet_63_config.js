@@ -1,1 +1,1 @@
-var mnemonic = "property glad tragic belt buffalo legend object negative reward tomorrow term strike";
+var mnemonic = "cushion penalty enter charge like knock panther stage stone purse desk junior";

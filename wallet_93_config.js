@@ -1,1 +1,1 @@
-var mnemonic = "sample welcome garment plate scissors vacuum muscle island circle spy taxi acoustic";
+var mnemonic = "relief response taxi dose initial push credit income perfect person champion image";

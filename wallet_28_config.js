@@ -1,1 +1,1 @@
-var mnemonic = "relax swamp ignore lesson ordinary bike brand maximum exotic dust when song";
+var mnemonic = "planet retreat wealth receive raven derive setup gap drift bread focus runway";

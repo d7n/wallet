@@ -1,1 +1,1 @@
-var mnemonic = "squeeze novel matrix today moment gorilla quality bulb modify outside slam pencil";
+var mnemonic = "end nasty session hill dance burden disease build space unfold evoke artwork";

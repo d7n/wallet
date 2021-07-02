@@ -1,1 +1,1 @@
-var mnemonic = "ketchup win equal pen draw weather half sand symptom anxiety flip wrestle";
+var mnemonic = "cover exclude relief depend apology crew fall agree shaft account salt dinner";

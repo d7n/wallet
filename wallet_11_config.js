@@ -1,1 +1,1 @@
-var mnemonic = "soft elephant portion ripple benefit impulse waste describe strike engine discover behave";
+var mnemonic = "evidence venue gap degree nature trend rigid cupboard capital disagree talent account";

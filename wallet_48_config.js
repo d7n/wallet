@@ -1,1 +1,1 @@
-var mnemonic = "mention jump uphold disorder image write flash legend jealous exile tortoise pelican";
+var mnemonic = "cry dentist goose drill bachelor edge owner quarter home chuckle orchard mad";

@@ -1,1 +1,1 @@
-var mnemonic = "employ chair capital grow camera train appear gun crucial middle acoustic major";
+var mnemonic = "front champion peace genuine venture walk thank tray tortoise total clarify bleak";

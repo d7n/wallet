@@ -1,1 +1,1 @@
-var mnemonic = "network wagon gloom cargo palm prosper token merge wealth dawn baby inhale";
+var mnemonic = "slender patch spoil trim disagree tape alarm pet student govern mixed coral";

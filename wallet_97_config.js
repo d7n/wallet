@@ -1,1 +1,1 @@
-var mnemonic = "ivory humor clap elbow rough devote endless enforce expose wisdom rapid guess";
+var mnemonic = "pave tissue opinion option lion follow ill soon dial tiny zero job";

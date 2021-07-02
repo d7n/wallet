@@ -1,1 +1,1 @@
-var mnemonic = "chronic uphold cruel siren bitter uphold cement aunt expect small evil live";
+var mnemonic = "shuffle artefact chuckle pilot material blind fade boat clap top street lumber";

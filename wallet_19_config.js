@@ -1,1 +1,1 @@
-var mnemonic = "misery track hub donate pole equal fit craft vague dutch glow envelope";
+var mnemonic = "assist bid casino live trend special wrap grunt system indoor heavy reduce";

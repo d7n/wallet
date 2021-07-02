@@ -1,1 +1,1 @@
-var mnemonic = "grunt lamp heavy aerobic sentence picnic basic execute lock across hidden unfair";
+var mnemonic = "term label thunder keen peace panel senior access cotton ask tonight puppy";

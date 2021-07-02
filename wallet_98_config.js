@@ -1,1 +1,1 @@
-var mnemonic = "unlock blanket blade milk antenna uphold yellow unknown half discover vintage defense";
+var mnemonic = "benefit tragic bunker tone rich mask grit foster vapor rescue aim addict";

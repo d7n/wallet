@@ -1,1 +1,1 @@
-var mnemonic = "smoke finger frog loud segment manual merry vast fiction quit drip punch";
+var mnemonic = "isolate taxi fault civil minor express inner bundle inflict where lens toss";

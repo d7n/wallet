@@ -1,1 +1,1 @@
-var mnemonic = "wife cloth item adapt absurd funny bronze merge wisdom please resource then";
+var mnemonic = "two print rhythm crime elder zebra assume library armed taste bone budget";

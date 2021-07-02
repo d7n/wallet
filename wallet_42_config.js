@@ -1,1 +1,1 @@
-var mnemonic = "fatigue welcome replace shift mad celery tip oblige grape culture panic obtain";
+var mnemonic = "tilt tortoise side crumble cave mechanic rely case system october salute elite";

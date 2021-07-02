@@ -1,1 +1,1 @@
-var mnemonic = "help banana boy van blue speed forest nose brand design purpose balcony";
+var mnemonic = "label fiscal grass muscle stand law step hobby thought minute road husband";

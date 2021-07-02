@@ -1,1 +1,1 @@
-var mnemonic = "grunt remember name metal celery travel correct steel catalog coyote coyote between";
+var mnemonic = "cause leave boil repair leopard man rifle theme arrest crop lawsuit fire";

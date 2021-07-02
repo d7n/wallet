@@ -1,1 +1,1 @@
-var mnemonic = "suffer degree exchange fragile clutch assist blur base vessel govern leisure absurd";
+var mnemonic = "insect session front expect eye knee fly ostrich isolate lock else build";

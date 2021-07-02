@@ -1,1 +1,1 @@
-var mnemonic = "dutch final crime egg post reopen defense meadow cradle random sibling lion";
+var mnemonic = "sting simple fancy electric rookie left wash rain casual ten lumber undo";

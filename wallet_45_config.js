@@ -1,1 +1,1 @@
-var mnemonic = "wood chimney volume relax movie nuclear error hedgehog rug copper episode broom";
+var mnemonic = "fold junk maple great young tomorrow awful sugar science chief image have";

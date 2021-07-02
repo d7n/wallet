@@ -1,1 +1,1 @@
-var mnemonic = "siren gauge wife oven unveil canyon road evidence quiz broken material attitude";
+var mnemonic = "order dragon purpose just type spring earn collect worth whale post enforce";

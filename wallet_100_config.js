@@ -1,1 +1,1 @@
-var mnemonic = "roof life inject around approve term scene normal decade promote helmet session";
+var mnemonic = "page grab album episode cigar excite rail wing slight ancient armed loan";

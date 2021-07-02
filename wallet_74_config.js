@@ -1,1 +1,1 @@
-var mnemonic = "glass sail liquid pull final valley frequent burger prosper dismiss donor drama";
+var mnemonic = "garage future exhibit this learn stable morning dress occur bracket wife oxygen";

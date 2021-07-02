@@ -1,1 +1,1 @@
-var mnemonic = "near chaos such front used believe fluid act inspire tennis drama fit";
+var mnemonic = "roast lawn assault giant amused mansion filter west capital skill early fitness";

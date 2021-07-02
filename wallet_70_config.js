@@ -1,1 +1,1 @@
-var mnemonic = "crash bounce extend mimic mention bleak invest fee boss empower siege sudden";
+var mnemonic = "vapor fault day tribe awkward that leopard click reform range bulb shield";

@@ -1,1 +1,1 @@
-var mnemonic = "relief better police air roof eternal session north purchase early special laptop";
+var mnemonic = "sock soldier general distance unknown air cause aerobic walk quick purse shadow";

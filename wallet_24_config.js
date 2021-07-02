@@ -1,1 +1,1 @@
-var mnemonic = "bench gather mountain sea split armor elbow party vivid dirt dignity curious";
+var mnemonic = "master success inner now behave brisk deer gauge fringe zero opera ugly";

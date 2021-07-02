@@ -1,1 +1,1 @@
-var mnemonic = "casino unable spell mosquito galaxy robust fat alcohol sniff atom gap ozone";
+var mnemonic = "wreck explain disease play bus assist hobby envelope clinic brand marine ethics";

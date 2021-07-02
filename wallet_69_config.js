@@ -1,1 +1,1 @@
-var mnemonic = "rice guilt gaze year stuff satoshi artefact oblige boy mandate claw assume";
+var mnemonic = "kid same subway denial patrol winner match diesel naive zebra cat hunt";

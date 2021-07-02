@@ -1,1 +1,1 @@
-var mnemonic = "number tumble veteran vital noise fatigue exile grief maple better unusual motor";
+var mnemonic = "galaxy way circle response vivid silent notice swamp twenty carry model orient";

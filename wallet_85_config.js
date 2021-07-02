@@ -1,1 +1,1 @@
-var mnemonic = "stick twin office crystal inject purpose era obtain ginger response flash squeeze";
+var mnemonic = "release dwarf wrap great citizen refuse whip voice ten transfer proof stay";

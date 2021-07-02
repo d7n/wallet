@@ -1,1 +1,1 @@
-var mnemonic = "answer lava flame quit hover juice motor siege talent symptom beyond peasant";
+var mnemonic = "jealous island business peace across hover ivory sound bird side artist beef";

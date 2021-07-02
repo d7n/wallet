@@ -1,1 +1,1 @@
-var mnemonic = "token soon fossil song index slab budget such desert nut fit spawn";
+var mnemonic = "belt bind follow tiger various embody connect can heavy explain cream book";

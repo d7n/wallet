@@ -1,1 +1,1 @@
-var mnemonic = "until cotton sugar quiz luxury bamboo music humor mimic uphold weekend credit";
+var mnemonic = "session volume olympic trend caught prepare expect turn youth champion birth stamp";

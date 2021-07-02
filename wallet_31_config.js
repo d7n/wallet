@@ -1,1 +1,1 @@
-var mnemonic = "icon language palace devote garbage ecology frame master cement fetch october face";
+var mnemonic = "panther crack produce index ethics tiger black spare update auction maze swear";

@@ -1,1 +1,1 @@
-var mnemonic = "must volume win shaft test style economy gospel piece tennis episode step";
+var mnemonic = "price office space unveil innocent click age off possible desk trouble magic";

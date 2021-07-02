@@ -1,1 +1,1 @@
-var mnemonic = "material fresh actual remember float west donate half host vault arm choose";
+var mnemonic = "true fame need flip better route envelope quiz shrimp black abuse marriage";

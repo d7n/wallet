@@ -1,1 +1,1 @@
-var mnemonic = "omit embark base bomb soul fog account hunt income tent please cereal";
+var mnemonic = "endorse cactus thrive upset blush middle bus survey vacant able more asthma";

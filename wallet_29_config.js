@@ -1,1 +1,1 @@
-var mnemonic = "demise stove dizzy universe rule alley harsh trial toward rescue detect memory";
+var mnemonic = "machine burger valve hybrid project level chaos cash foster venue ship machine";

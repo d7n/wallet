@@ -1,1 +1,1 @@
-var mnemonic = "adapt control tongue output charge naive candy steel rural lottery museum arrest";
+var mnemonic = "embrace copy paddle stairs act decline course skirt process job board someone";

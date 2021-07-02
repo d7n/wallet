@@ -1,1 +1,1 @@
-var mnemonic = "solve buyer wage scheme right avoid very adjust energy cage unique mimic";
+var mnemonic = "token transfer farm access debate portion vicious decade violin solar park novel";

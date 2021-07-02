@@ -1,1 +1,1 @@
-var mnemonic = "blouse enemy concert open decade coast drink neck zoo cactus hair wreck";
+var mnemonic = "happy text endorse usage give panel honey noble grit door genre club";

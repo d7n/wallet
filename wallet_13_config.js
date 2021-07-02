@@ -1,1 +1,1 @@
-var mnemonic = "problem load dentist rural lucky vivid deposit uncover stuff believe shove today";
+var mnemonic = "tongue soap veteran over bus wool belt brass thought code trumpet foil";

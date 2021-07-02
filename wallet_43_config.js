@@ -1,1 +1,1 @@
-var mnemonic = "strong twelve near oak tone ritual unhappy reunion melt health mind earn";
+var mnemonic = "asthma title camera casino hungry age budget air attend crash method shuffle";

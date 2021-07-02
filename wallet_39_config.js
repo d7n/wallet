@@ -1,1 +1,1 @@
-var mnemonic = "parent edit eye eye gasp win van final mouse defense absorb lunch";
+var mnemonic = "bag frog metal gentle win ketchup slot history soft adult shove cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "human six science dinosaur laundry dance next universe carpet office sample border";
+var mnemonic = "round icon edge select captain rebel lab grab flame scissors actor garlic";

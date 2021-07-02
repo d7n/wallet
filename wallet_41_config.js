@@ -1,1 +1,1 @@
-var mnemonic = "have behind mammal depth put gun innocent mixed rich wet code climb";
+var mnemonic = "latin kit kite spike purchase question video blouse key address latin setup";

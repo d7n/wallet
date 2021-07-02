@@ -1,1 +1,1 @@
-var mnemonic = "voyage curious arctic remain any stadium absorb crime offer announce around general";
+var mnemonic = "harvest discover sphere meat garment wire ordinary wisdom desk conduct jacket camera";

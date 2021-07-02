@@ -1,1 +1,1 @@
-var mnemonic = "consider confirm grace refuse drama away fiction acid across trophy habit fat";
+var mnemonic = "income lens long burger control vocal false flat orbit insane wear marriage";

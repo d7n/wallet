@@ -1,1 +1,1 @@
-var mnemonic = "sniff heart moment usual crowd scan orphan home arch inner style another";
+var mnemonic = "attack oak desk endorse salute fine illegal detect forward exit birth nuclear";

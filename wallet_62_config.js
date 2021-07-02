@@ -1,1 +1,1 @@
-var mnemonic = "gap soda balcony ocean friend cover shoe outer denial twice mass life";
+var mnemonic = "mail consider acoustic chair rent want fruit exit way august filter dose";

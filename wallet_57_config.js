@@ -1,1 +1,1 @@
-var mnemonic = "camera quote liar typical recycle check gate laugh valley cruel proof horn";
+var mnemonic = "minor punch dose sponsor slush lesson age task cruise quantum fetch together";

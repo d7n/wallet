@@ -1,1 +1,1 @@
-var mnemonic = "soap plate issue settle favorite giant smile else drastic near cannon range";
+var mnemonic = "effort wise angry three leaf cram essay child amateur position plug tired";

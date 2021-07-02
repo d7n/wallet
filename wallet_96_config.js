@@ -1,1 +1,1 @@
-var mnemonic = "forum reward verify include account royal toddler tip harsh gorilla latin custom";
+var mnemonic = "churn ignore people carpet short high clerk common today stomach talent filter";

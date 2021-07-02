@@ -1,1 +1,1 @@
-var mnemonic = "trade tumble invite hundred dawn virtual marine one hello work bean hazard";
+var mnemonic = "swift champion book gate pluck family cake praise broom water chuckle drip";

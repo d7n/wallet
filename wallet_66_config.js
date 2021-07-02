@@ -1,1 +1,1 @@
-var mnemonic = "echo sample detect elder damp exhibit ancient vague autumn fortune wrap police";
+var mnemonic = "deal age network miss stable bike atom hurry moon useless pilot spin";

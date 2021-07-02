@@ -1,1 +1,1 @@
-var mnemonic = "pig treat gift parent wrap security shell divide solid observe umbrella essay";
+var mnemonic = "jazz yard planet win vote chimney permit census faith universe where nuclear";

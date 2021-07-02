@@ -1,1 +1,1 @@
-var mnemonic = "train frozen mesh duck view word sword love street mobile seat story";
+var mnemonic = "resource spray hover sudden cargo voyage jazz divorce exchange capable practice antique";

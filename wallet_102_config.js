@@ -1,1 +1,1 @@
-var mnemonic = "sausage later ethics direct recycle wisdom catalog glue best electric wave siren";
+var mnemonic = "core episode dutch benefit infant urban endorse wreck bachelor amused method hole";

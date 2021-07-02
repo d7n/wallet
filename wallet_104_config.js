@@ -1,1 +1,1 @@
-var mnemonic = "nothing initial foster easy old hero because pistol uphold father finish blind";
+var mnemonic = "hunt skirt argue payment board image oxygen measure void very curve gun";

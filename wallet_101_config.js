@@ -1,1 +1,1 @@
-var mnemonic = "robust sponsor female stereo garden clap almost silver faculty potato pool all";
+var mnemonic = "angry flight seat museum dove round mixed topple cave place rubber focus";

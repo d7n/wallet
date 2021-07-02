@@ -1,1 +1,1 @@
-var mnemonic = "index tennis game myth robust midnight gorilla dove october grit error pistol";
+var mnemonic = "goat gallery tennis purity else fantasy fruit roast poem explain travel noodle";

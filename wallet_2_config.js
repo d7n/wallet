@@ -1,1 +1,1 @@
-var mnemonic = "summer black ladder original fever require whale bundle adjust extra wolf buyer";
+var mnemonic = "square expose tortoise garbage stomach hello flock affair toast reflect slam foil";

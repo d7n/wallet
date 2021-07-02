@@ -1,1 +1,1 @@
-var mnemonic = "opera physical acoustic pilot hazard inside maze spend organ metal weasel minute";
+var mnemonic = "drill pact original police toy liquid wasp flavor upon gallery goat future";

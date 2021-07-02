@@ -1,1 +1,1 @@
-var mnemonic = "boil able mistake decorate always stable accuse camp old void ripple trouble";
+var mnemonic = "slender comfort mirror weather quit uphold fun cruel bench hundred impulse primary";

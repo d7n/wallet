@@ -1,1 +1,1 @@
-var mnemonic = "correct rude crush weather embrace voyage slab spell hawk assault expand stomach";
+var mnemonic = "dinner quiz rigid harsh lonely cable regret avoid task celery staff panda";

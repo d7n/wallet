@@ -1,1 +1,1 @@
-var mnemonic = "tent original couch fruit man know ivory bench window burst extend scout";
+var mnemonic = "guitar opinion veteran safe tape update laptop divert rebel drill key permit";

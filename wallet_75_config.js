@@ -1,1 +1,1 @@
-var mnemonic = "object jeans chuckle vacant fuel sunset that robot hybrid gospel enrich option";
+var mnemonic = "knee unknown knock next interest clown broom mind doll anger layer slam";

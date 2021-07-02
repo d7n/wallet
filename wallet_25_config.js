@@ -1,1 +1,1 @@
-var mnemonic = "consider satoshi drop return daring average ecology umbrella saddle pitch wheat joke";
+var mnemonic = "goose smooth pet desert prosper pave wait stomach end grant home select";

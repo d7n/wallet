@@ -1,1 +1,1 @@
-var mnemonic = "income shove scatter raw pyramid apple wish title mountain test screen pet";
+var mnemonic = "prevent grocery foot talk below dynamic choose slogan fatal sketch jeans extend";

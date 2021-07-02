@@ -1,1 +1,1 @@
-var mnemonic = "gadget baby apple rigid health path roast glove negative eternal round impose";
+var mnemonic = "shrug case celery resource drill screen possible radar inject wisdom night letter";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture result mask start punch teach firm battle reopen waste opinion category";
+var mnemonic = "adjust stem adult submit tilt brown reason fee film vibrant eyebrow butter";

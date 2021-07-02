@@ -1,1 +1,1 @@
-var mnemonic = "panel foil slush again ethics exclude faint session business human before student";
+var mnemonic = "admit shy expose steak daughter tornado buyer sunny genuine guilt minute canoe";

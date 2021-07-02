@@ -1,1 +1,1 @@
-var mnemonic = "shop drastic surround possible master jewel diet trade file sign fancy neglect";
+var mnemonic = "biology menu hollow steel win modify audit camera trophy nut gold glove";

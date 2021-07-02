@@ -1,1 +1,1 @@
-var mnemonic = "rug cabin peace light oxygen sand medal shiver question dirt whip deny";
+var mnemonic = "still arrest eight mixture finger elbow kick piece camp report raven hard";

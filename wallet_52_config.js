@@ -1,1 +1,1 @@
-var mnemonic = "blossom cabbage slice false veteran snake slow duck champion host order foot";
+var mnemonic = "twelve deal lawsuit enhance barrel time skirt spice treat this merge sad";

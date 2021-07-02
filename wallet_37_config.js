@@ -1,1 +1,1 @@
-var mnemonic = "quote chef pave toddler shoot express digital capable section jacket fox result";
+var mnemonic = "guide fitness profit maple vintage wage erase off net slush fantasy crane";

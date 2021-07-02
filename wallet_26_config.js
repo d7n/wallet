@@ -1,1 +1,1 @@
-var mnemonic = "until way film level rice current still cry engage fee apology chimney";
+var mnemonic = "where oak orbit torch acid two evidence skin cruel various lecture denial";

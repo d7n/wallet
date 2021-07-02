@@ -1,1 +1,1 @@
-var mnemonic = "pride dolphin mechanic slice echo ritual century kiwi bulb six flower into";
+var mnemonic = "fade whip journey million match entry badge insect danger invite write worry";

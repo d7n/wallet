@@ -1,1 +1,1 @@
-var mnemonic = "champion hedgehog sugar royal neutral room update turtle spin message unknown forget";
+var mnemonic = "sheriff depth autumn book trend skirt resemble clock marble shield trash place";

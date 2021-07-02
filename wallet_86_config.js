@@ -1,1 +1,1 @@
-var mnemonic = "blanket glory calm brass horror erosion erosion slush wave fruit wish wet";
+var mnemonic = "double bleak turtle arrange slender federal ask ten silk someone marine own";

@@ -1,1 +1,1 @@
-var mnemonic = "reform canyon vivid cattle once such defense lens goat scene caught burger";
+var mnemonic = "tide length quantum crouch patrol label sword banner mom trust limb brisk";

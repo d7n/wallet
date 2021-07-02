@@ -1,1 +1,1 @@
-var mnemonic = "act mosquito improve first demise blade obey oven thunder dune blossom nice";
+var mnemonic = "silent left ribbon involve stumble twelve grain math around vapor rent dune";

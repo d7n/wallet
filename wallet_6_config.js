@@ -1,1 +1,1 @@
-var mnemonic = "resist will seed huge armed strong slam renew stereo coyote october hard";
+var mnemonic = "invest diary coffee tree frown weird order tilt obey scorpion beyond dust";
