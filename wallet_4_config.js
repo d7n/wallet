@@ -1,1 +1,1 @@
-var mnemonic = "cotton major pony wasp loud saddle bag rate client tilt subject number";
+var mnemonic = "clap style leave govern allow feature step vicious cake snake twin trick";

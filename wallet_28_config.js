@@ -1,1 +1,1 @@
-var mnemonic = "marble flag dash rare turn mango apart olive weapon hospital churn father";
+var mnemonic = "gasp mix joke pear deposit labor violin topic welcome critic casual banana";

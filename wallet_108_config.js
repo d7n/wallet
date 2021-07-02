@@ -1,1 +1,1 @@
-var mnemonic = "space pink spawn analyst own net agent final pact switch flip ladder";
+var mnemonic = "echo wisdom cherry web vessel fade thank oven wear swamp hazard helmet";

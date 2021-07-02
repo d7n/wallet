@@ -1,1 +1,1 @@
-var mnemonic = "absurd electric across collect double permit exile sausage angry jungle escape ride";
+var mnemonic = "story connect cable legend pigeon spell advice rookie jump sorry ladder buffalo";

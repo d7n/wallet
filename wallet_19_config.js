@@ -1,1 +1,1 @@
-var mnemonic = "pear load dream student cross wide invest puzzle blush way wheat lava";
+var mnemonic = "possible boil prevent goat october loop urban trigger exist feature special employ";

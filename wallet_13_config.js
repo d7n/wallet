@@ -1,1 +1,1 @@
-var mnemonic = "object horn vast crack pilot error author elephant aisle hole roof suspect";
+var mnemonic = "utility sad lucky pool bulk zebra name elephant excite life cream old";

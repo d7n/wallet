@@ -1,1 +1,1 @@
-var mnemonic = "friend bullet seed public slogan soldier shove tide grunt mosquito elegant obtain";
+var mnemonic = "mind wave swear you simple recipe refuse arrange cousin fortune orchard initial";

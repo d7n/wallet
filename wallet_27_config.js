@@ -1,1 +1,1 @@
-var mnemonic = "reopen shy collect clip leave satoshi diary romance west feed vocal noise";
+var mnemonic = "shift void attract gauge team rather frequent fuel win much output shove";

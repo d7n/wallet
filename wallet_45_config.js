@@ -1,1 +1,1 @@
-var mnemonic = "brother immune eternal claim survey strong sugar roast all couch scale verb";
+var mnemonic = "like estate carbon stage biology transfer welcome swim retreat atom area hire";

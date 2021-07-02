@@ -1,1 +1,1 @@
-var mnemonic = "adjust skin nuclear wine dwarf rule treat loop metal wall lemon unable";
+var mnemonic = "trust goddess weasel foil season can under fitness fragile rely grace much";

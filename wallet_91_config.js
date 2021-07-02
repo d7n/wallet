@@ -1,1 +1,1 @@
-var mnemonic = "deer gravity shaft valve glance survey valley height rapid liquid during still";
+var mnemonic = "fence view envelope gasp marine private please dawn inner subway network permit";

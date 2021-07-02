@@ -1,1 +1,1 @@
-var mnemonic = "vocal half until eight front rival motor quantum estate bring west fall";
+var mnemonic = "remind spice suggest load grocery solution curtain moment visit festival car wire";

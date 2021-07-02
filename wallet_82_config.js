@@ -1,1 +1,1 @@
-var mnemonic = "project item trumpet impact seat false normal disorder exclude arrow gown trend";
+var mnemonic = "copy until fantasy jeans plastic vendor chest submit result ugly discover possible";

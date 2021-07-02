@@ -1,1 +1,1 @@
-var mnemonic = "when oil hard loud trend month silly teach crater ice file casino";
+var mnemonic = "conduct loud slow sort weasel include system deliver rotate lamp kangaroo novel";

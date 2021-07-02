@@ -1,1 +1,1 @@
-var mnemonic = "control bench wide note second swarm need unusual december world ceiling reduce";
+var mnemonic = "wagon capable own wink adjust boat void cake stamp danger indoor critic";

@@ -1,1 +1,1 @@
-var mnemonic = "model pretty annual tonight myself vapor athlete stand trophy usage when trim";
+var mnemonic = "first run any wood pluck forward later claw depth engage mechanic orange";

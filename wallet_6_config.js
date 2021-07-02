@@ -1,1 +1,1 @@
-var mnemonic = "nurse response churn inherit transfer six inflict mixed crop effort key useful";
+var mnemonic = "paper inspire table dynamic fault avocado token invite try draft dynamic dinosaur";

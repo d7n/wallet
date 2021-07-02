@@ -1,1 +1,1 @@
-var mnemonic = "price hub unit leader repair tennis circle cluster before urban add squirrel";
+var mnemonic = "slogan funny lumber conduct girl sketch orient sheriff moral wash elite hard";

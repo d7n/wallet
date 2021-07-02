@@ -1,1 +1,1 @@
-var mnemonic = "shiver used they skate mad stumble coil dune grow fun bomb burger";
+var mnemonic = "decrease pulse muffin brisk glove hidden dad erupt crucial omit jelly split";

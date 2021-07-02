@@ -1,1 +1,1 @@
-var mnemonic = "opera near cost resemble favorite where buddy valid output interest trap lake";
+var mnemonic = "adapt alone witness spice robust stuff above grief another address daring version";

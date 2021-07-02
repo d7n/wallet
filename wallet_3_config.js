@@ -1,1 +1,1 @@
-var mnemonic = "stable uphold animal alien success tuna elder glory similar cinnamon tide uncle";
+var mnemonic = "deal insect sort bicycle stove angle inhale pear erase borrow fog peace";

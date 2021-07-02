@@ -1,1 +1,1 @@
-var mnemonic = "raw swing toilet much analyst repeat siren afford fire ensure exhaust vendor";
+var mnemonic = "sea visa outer mercy carry correct upper spare park hobby buffalo romance";

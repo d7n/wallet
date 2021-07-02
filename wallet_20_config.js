@@ -1,1 +1,1 @@
-var mnemonic = "select once unfair catalog humor party mind usual artist dream scatter mandate";
+var mnemonic = "require icon post glad rural crawl property gun similar thunder sibling pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "staff bright cable claw victory theme hire sister hunt cherry panel innocent";
+var mnemonic = "coast grace remind prize hammer document also broccoli exchange mixture sign half";

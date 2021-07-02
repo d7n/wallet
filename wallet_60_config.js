@@ -1,1 +1,1 @@
-var mnemonic = "chuckle history soon crater scorpion hour fun nominee wild stay fat ocean";
+var mnemonic = "bread rude rich sketch palace multiply exist novel artefact cycle false fox";

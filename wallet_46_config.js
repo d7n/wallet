@@ -1,1 +1,1 @@
-var mnemonic = "puppy episode fence ramp nut enter away ecology tennis hour unaware twelve";
+var mnemonic = "shy bomb turkey hire wool any wrong great hospital hammer iron abandon";

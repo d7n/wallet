@@ -1,1 +1,1 @@
-var mnemonic = "shadow evoke solid ahead one friend alpha teach start upper arrange solve";
+var mnemonic = "reveal resource boy remind sell stumble boat candy real denial purse school";

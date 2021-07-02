@@ -1,1 +1,1 @@
-var mnemonic = "east height judge fetch mixed cube steak bar brain skate refuse flat";
+var mnemonic = "boring produce voyage scan analyst unknown prepare thrive right tobacco elevator festival";

@@ -1,1 +1,1 @@
-var mnemonic = "web snap arm box blush neck oval undo retreat science reason mesh";
+var mnemonic = "cancel frown right cement sister bulk cotton margin surface elbow cry coach";

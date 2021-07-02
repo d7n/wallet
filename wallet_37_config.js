@@ -1,1 +1,1 @@
-var mnemonic = "chicken swear demand wisdom tragic purchase body cluster country property render carbon";
+var mnemonic = "rookie miss sudden glow canvas diary wolf right shaft impose three response";

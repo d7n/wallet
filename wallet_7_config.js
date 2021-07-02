@@ -1,1 +1,1 @@
-var mnemonic = "avoid lawn shell day black extend satisfy style olympic umbrella artist donate";
+var mnemonic = "elite ripple infant kidney base else much old reduce bracket ahead assault";

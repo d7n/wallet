@@ -1,1 +1,1 @@
-var mnemonic = "tent huge invite river extend panther exotic organ tuna pattern sausage evidence";
+var mnemonic = "helmet estate cradle very flight rough battle random cost bracket beach utility";

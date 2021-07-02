@@ -1,1 +1,1 @@
-var mnemonic = "party skull quit saddle saddle brass congress hotel acquire sure tag leopard";
+var mnemonic = "humble cousin want economy minor digital cash law hen easily latin west";

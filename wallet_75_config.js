@@ -1,1 +1,1 @@
-var mnemonic = "gift play seminar typical cry peasant device evil eye limb thank visa";
+var mnemonic = "diagram celery reform chief used stock legend hover sniff vessel mountain fitness";

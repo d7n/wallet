@@ -1,1 +1,1 @@
-var mnemonic = "magnet offer child awful unusual please pulp clay wild upper resist shine";
+var mnemonic = "make ball gold satoshi funny erupt donate hamster car hospital library early";

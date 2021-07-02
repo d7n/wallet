@@ -1,1 +1,1 @@
-var mnemonic = "credit session notable infant diet apart country milk wrap left couch peanut";
+var mnemonic = "polar paper veteran risk observe minimum pride twenty beauty zero advice gadget";

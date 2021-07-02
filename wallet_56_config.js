@@ -1,1 +1,1 @@
-var mnemonic = "river pass unaware maze world ill bomb fabric rail already lunar panda";
+var mnemonic = "giraffe believe position circle pupil drama olympic income east edge leader month";

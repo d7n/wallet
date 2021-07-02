@@ -1,1 +1,1 @@
-var mnemonic = "muscle razor legend cloth price awful exit work rate unit pioneer quiz";
+var mnemonic = "admit elite boost assume film obscure regular uniform physical kid stock remember";

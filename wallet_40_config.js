@@ -1,1 +1,1 @@
-var mnemonic = "play nut sponsor target dog hold chef soon olive place place army";
+var mnemonic = "bounce hotel pretty trick hub syrup pencil verify minimum bottom trust will";

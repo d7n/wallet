@@ -1,1 +1,1 @@
-var mnemonic = "van limb patient crush blame couple cement dish thing album female lawsuit";
+var mnemonic = "blanket rhythm solar trust nose gesture salute course bean speed alone owner";

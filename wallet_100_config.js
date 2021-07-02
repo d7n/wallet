@@ -1,1 +1,1 @@
-var mnemonic = "guide shiver bullet load have rib float allow weasel wait win tent";
+var mnemonic = "bus balcony auction actress month plate opera swift tenant bid fat pitch";

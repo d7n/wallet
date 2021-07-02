@@ -1,1 +1,1 @@
-var mnemonic = "stove reveal radio avoid spike donate gate aim engine picnic burst define";
+var mnemonic = "idea milk village rebel mean turn crush twin bread pyramid rocket frost";

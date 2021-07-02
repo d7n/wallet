@@ -1,1 +1,1 @@
-var mnemonic = "perfect news tattoo invite crater desert bean hybrid craft mammal almost author";
+var mnemonic = "miracle estate vocal visit music gold coach opinion rubber close garbage card";

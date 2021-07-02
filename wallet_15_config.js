@@ -1,1 +1,1 @@
-var mnemonic = "pilot firm actress army envelope nothing about joke foam casual juice breeze";
+var mnemonic = "lottery clump stable umbrella cupboard river siege erode airport during auto rather";

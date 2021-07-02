@@ -1,1 +1,1 @@
-var mnemonic = "lend list inspire wagon push dismiss mushroom piece shiver birth six table";
+var mnemonic = "miracle mandate imitate addict dizzy basic roast lunar lyrics glue whip bone";

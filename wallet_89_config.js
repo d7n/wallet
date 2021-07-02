@@ -1,1 +1,1 @@
-var mnemonic = "art photo refuse upset mind notice sell fault biology light alone swap";
+var mnemonic = "satoshi purity now layer smart inherit sweet cash tomorrow turtle toast luxury";

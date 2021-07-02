@@ -1,1 +1,1 @@
-var mnemonic = "athlete rate spring wet claim lounge kind tomorrow celery rocket miracle buzz";
+var mnemonic = "fiscal truth version right lumber turkey client fashion barely spoon exact regular";

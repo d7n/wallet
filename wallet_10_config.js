@@ -1,1 +1,1 @@
-var mnemonic = "easy remain stage mom snow reunion style clown armed sponsor connect sunny";
+var mnemonic = "champion autumn sentence squeeze seven remove achieve result spell north mercy firm";

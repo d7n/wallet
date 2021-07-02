@@ -1,1 +1,1 @@
-var mnemonic = "embark october coconut rare mango access toe witness evidence artwork judge wage";
+var mnemonic = "sword tube camp enter random limit hamster reduce furnace craft worry vacuum";

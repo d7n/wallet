@@ -1,1 +1,1 @@
-var mnemonic = "involve only review planet fish trick grace roast fresh excess annual honey";
+var mnemonic = "distance ritual scrub eyebrow satoshi dirt bacon kidney rough shy enough shove";

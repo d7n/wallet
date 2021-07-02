@@ -1,1 +1,1 @@
-var mnemonic = "cheese wheel test flock hard proud lawsuit boring devote pigeon across poem";
+var mnemonic = "lawn drastic shadow muscle pig core feed paddle squeeze labor doll oppose";

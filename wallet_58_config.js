@@ -1,1 +1,1 @@
-var mnemonic = "inquiry ticket draft fantasy boy hover twice amateur cat puzzle afraid wrist";
+var mnemonic = "farm polar notable lucky latin topic admit speak grass immense direct swarm";

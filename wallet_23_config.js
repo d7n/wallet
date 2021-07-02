@@ -1,1 +1,1 @@
-var mnemonic = "chronic zero notable code garment stool host comic cinnamon youth blur liquid";
+var mnemonic = "allow couch abandon uncover sustain burden sort crime current thumb sketch upgrade";

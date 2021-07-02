@@ -1,1 +1,1 @@
-var mnemonic = "prize puppy donor column real swim woman clean manual desert also element";
+var mnemonic = "sock verify sword burst usage interest weapon twenty enhance pelican cup hobby";

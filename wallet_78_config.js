@@ -1,1 +1,1 @@
-var mnemonic = "unit punch foot surface walk denial must mercy peasant key swim odor";
+var mnemonic = "couple absurd blade accident happy siege solve survey animal ability pull dolphin";

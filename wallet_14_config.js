@@ -1,1 +1,1 @@
-var mnemonic = "grow claim domain fringe opinion scene now north great popular excess black";
+var mnemonic = "soccer shrug heavy obtain frown quantum culture rain antenna lesson parent trumpet";

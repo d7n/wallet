@@ -1,1 +1,1 @@
-var mnemonic = "gym wrap inch finish merry hockey bench swap area core chronic flavor";
+var mnemonic = "boy snow modify marriage spread hair weapon account alone deposit permit blur";

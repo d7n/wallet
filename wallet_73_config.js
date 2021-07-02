@@ -1,1 +1,1 @@
-var mnemonic = "stairs pumpkin speak sunset because raw exhaust live frequent wear clean drip";
+var mnemonic = "repeat slush panic drum hunt effort math history pudding rebuild fancy peanut";

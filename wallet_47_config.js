@@ -1,1 +1,1 @@
-var mnemonic = "aware grain marine spike mixture scheme receive consider decrease best cabin nut";
+var mnemonic = "differ afraid common blur art square chimney aisle wave baby doctor suit";

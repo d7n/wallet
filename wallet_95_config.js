@@ -1,1 +1,1 @@
-var mnemonic = "debris roof mercy crystal lock only album law pudding void resist spin";
+var mnemonic = "such deputy erode code goose depend blame green blast bounce orbit unknown";

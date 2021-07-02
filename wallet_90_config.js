@@ -1,1 +1,1 @@
-var mnemonic = "chaos duty purchase rally ankle body claim exclude skin fall table right";
+var mnemonic = "visa view index name uphold solve company stem carbon smoke hat arrive";

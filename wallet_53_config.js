@@ -1,1 +1,1 @@
-var mnemonic = "office dune expose cruel around certain rotate case exercise artist stage ride";
+var mnemonic = "blossom skull rebel glory cabbage agree neglect benefit supply liquid quit antenna";

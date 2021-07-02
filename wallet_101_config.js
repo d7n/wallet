@@ -1,1 +1,1 @@
-var mnemonic = "property rapid sad improve drastic eternal solid danger rib swallow benefit deal";
+var mnemonic = "misery endorse ill giant need cliff canyon foster abandon stable angle admit";

@@ -1,1 +1,1 @@
-var mnemonic = "discover spawn promote kitten banana nice boy regular spawn unfold gift fuel";
+var mnemonic = "fiscal please dust clown liar horse theme cluster movie enroll choice casino";

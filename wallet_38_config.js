@@ -1,1 +1,1 @@
-var mnemonic = "resemble border deputy exclude tiger tobacco ladder vault exact mutual people point";
+var mnemonic = "jacket escape warfare pride photo despair prize orient metal metal prize wink";

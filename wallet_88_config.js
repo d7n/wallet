@@ -1,1 +1,1 @@
-var mnemonic = "diary sting blush talk mobile village tape tilt awkward peanut visual convince";
+var mnemonic = "wine rich lecture spare memory there fat jump eagle senior kitten exhibit";

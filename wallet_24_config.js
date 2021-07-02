@@ -1,1 +1,1 @@
-var mnemonic = "empty great noodle fatigue fluid machine reveal off indicate notice alpha spy";
+var mnemonic = "regret kiwi abandon dune umbrella foam maximum thumb cry envelope tray print";

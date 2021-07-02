@@ -1,1 +1,1 @@
-var mnemonic = "right tilt solar primary before already then defense model slab artwork train";
+var mnemonic = "brown gym midnight leg teach away ticket tenant govern accuse obtain candy";

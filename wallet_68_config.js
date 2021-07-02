@@ -1,1 +1,1 @@
-var mnemonic = "shield layer nasty drink hamster vibrant poverty possible vocal obvious early lazy";
+var mnemonic = "taxi strike faith ahead strong level guitar spend program fever stadium tilt";

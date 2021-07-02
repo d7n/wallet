@@ -1,1 +1,1 @@
-var mnemonic = "believe news reopen drink want puppy nuclear renew aunt mixture corn oven";
+var mnemonic = "wedding lemon seek wisdom allow ceiling swim base core text airport ticket";

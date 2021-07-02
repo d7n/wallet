@@ -1,1 +1,1 @@
-var mnemonic = "alter illness defense jazz grab slush pioneer turkey stuff claim outside source";
+var mnemonic = "elite flee south busy faculty suffer more wheat print common state trick";

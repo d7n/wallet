@@ -1,1 +1,1 @@
-var mnemonic = "faith mammal immune chase copy lonely hurdle basic actual tube wool together";
+var mnemonic = "joy defy glass expose beyond file prosper meat leisure bitter jungle lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "resist ride remember dawn fashion empty dance immune escape toe melody orphan";
+var mnemonic = "behave buyer shallow alarm actor image manual guard media able veteran usage";

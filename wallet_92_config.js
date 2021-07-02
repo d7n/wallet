@@ -1,1 +1,1 @@
-var mnemonic = "muffin great sudden until shield rain useless diamond crisp warm sail usage";
+var mnemonic = "struggle wealth soldier craft giggle rate multiply gossip also young fatal man";

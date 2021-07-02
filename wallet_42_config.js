@@ -1,1 +1,1 @@
-var mnemonic = "fix domain tape what sea chalk poverty all federal trade mango dolphin";
+var mnemonic = "cook pizza venture monkey reward sheriff cute switch unable able rail sudden";

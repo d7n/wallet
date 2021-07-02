@@ -1,1 +1,1 @@
-var mnemonic = "year evoke rent rude alarm miss trigger olympic timber manual canal legend";
+var mnemonic = "busy bright runway royal rather speak fancy dune throw field toast faint";

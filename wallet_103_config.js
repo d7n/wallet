@@ -1,1 +1,1 @@
-var mnemonic = "mansion live frequent option tomorrow salon misery recycle pig coconut fetch absent";
+var mnemonic = "another silly make behind nurse mutual around scale suspect correct abandon insect";

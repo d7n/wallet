@@ -1,1 +1,1 @@
-var mnemonic = "essay wagon vague situate ticket public grace impose pink flight funny ceiling";
+var mnemonic = "few female common crush lazy frost balcony winter gadget pause valve want";

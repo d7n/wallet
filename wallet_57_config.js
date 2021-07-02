@@ -1,1 +1,1 @@
-var mnemonic = "learn genius demise puzzle broken service safe oil pool tray champion citizen";
+var mnemonic = "invest master proud bargain cereal either never wide wash opinion arch tribe";

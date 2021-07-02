@@ -1,1 +1,1 @@
-var mnemonic = "kid bonus give proof rack action pulse era divide cancel eyebrow clip";
+var mnemonic = "shy holiday rude garage hill video arrange couch bronze innocent inside coffee";

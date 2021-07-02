@@ -1,1 +1,1 @@
-var mnemonic = "possible frog transfer monster ginger give shield maid tent remind surface orbit";
+var mnemonic = "crater staff urban tooth actor fame chest armor cereal loop announce warm";

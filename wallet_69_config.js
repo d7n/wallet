@@ -1,1 +1,1 @@
-var mnemonic = "enrich suffer dilemma barrel attack suffer interest receive swap expand swim annual";
+var mnemonic = "guide struggle link economy globe drill basket call core erase move message";

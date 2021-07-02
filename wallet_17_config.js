@@ -1,1 +1,1 @@
-var mnemonic = "upset guess pave park impose direct muscle surface grow friend mix dice";
+var mnemonic = "filter flavor tornado stumble lend mirror journey crowd just test wire also";

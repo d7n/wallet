@@ -1,1 +1,1 @@
-var mnemonic = "garden fitness episode oblige bronze hungry debris drift tuition tip height horror";
+var mnemonic = "uncle virus finish radio style category thumb attitude vital spy follow royal";

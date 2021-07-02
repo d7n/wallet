@@ -1,1 +1,1 @@
-var mnemonic = "cute father drive regular rough rich flush fix inmate home essay design";
+var mnemonic = "shallow panel fiber lazy soon ill thing abandon sense film mimic hour";

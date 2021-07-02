@@ -1,1 +1,1 @@
-var mnemonic = "post practice eye country earth luggage print marble regret awful calm renew";
+var mnemonic = "swap lava antique almost floor help flame liquid yellow armed regular height";

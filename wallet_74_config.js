@@ -1,1 +1,1 @@
-var mnemonic = "uncover firm recall van receive shove chimney search champion series alter immune";
+var mnemonic = "catch script truth air diamond rescue scale rib humor hair wide crouch";

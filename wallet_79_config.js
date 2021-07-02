@@ -1,1 +1,1 @@
-var mnemonic = "dutch type industry stuff owner female buzz need draw farm magic stadium";
+var mnemonic = "struggle actress dwarf case electric wish human aspect degree birth start swallow";

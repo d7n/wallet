@@ -1,1 +1,1 @@
-var mnemonic = "innocent lesson rely grab cruise steel dawn again mystery surface reject loyal";
+var mnemonic = "canal ceiling delay cherry test blush boring million topple bicycle jealous food";

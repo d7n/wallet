@@ -1,1 +1,1 @@
-var mnemonic = "scissors flame choice nut door magic hill bomb clog order alcohol loyal";
+var mnemonic = "cereal either farm obey during author home unit catch forest marble garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew unveil bean ribbon lock hint crush sleep smooth nice alter message";
+var mnemonic = "involve defense comfort ceiling junior treat pool mail surround apology lecture dwarf";

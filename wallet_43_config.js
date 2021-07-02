@@ -1,1 +1,1 @@
-var mnemonic = "comic major nerve simple snack normal midnight festival derive couch coyote trade";
+var mnemonic = "hundred present monitor inform retreat gospel brand mirror blue soap pyramid tiny";
