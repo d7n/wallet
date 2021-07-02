@@ -1,1 +1,1 @@
-var mnemonic = "boy limb rule improve smoke ice fee problem govern manual faith cross";
+var mnemonic = "either settle turn breeze federal usage art van matrix brain nation expire";

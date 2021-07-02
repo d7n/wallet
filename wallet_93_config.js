@@ -1,1 +1,1 @@
-var mnemonic = "evidence horror clerk inform book winner say surface kitten congress midnight bike";
+var mnemonic = "organ heart card tornado settle arctic clown floor rent term focus border";

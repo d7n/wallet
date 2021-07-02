@@ -1,1 +1,1 @@
-var mnemonic = "copy until fantasy jeans plastic vendor chest submit result ugly discover possible";
+var mnemonic = "evolve close unfair flame level pizza energy hurry upgrade forum mother north";

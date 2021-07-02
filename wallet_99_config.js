@@ -1,1 +1,1 @@
-var mnemonic = "brown gym midnight leg teach away ticket tenant govern accuse obtain candy";
+var mnemonic = "hungry shove inform tank sail cattle atom build fluid inspire price iron";

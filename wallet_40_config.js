@@ -1,1 +1,1 @@
-var mnemonic = "bounce hotel pretty trick hub syrup pencil verify minimum bottom trust will";
+var mnemonic = "mixture various buddy fork sing drill raise unit tide sting phrase total";

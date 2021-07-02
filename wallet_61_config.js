@@ -1,1 +1,1 @@
-var mnemonic = "slogan funny lumber conduct girl sketch orient sheriff moral wash elite hard";
+var mnemonic = "other worry night mouse all jewel idea curve april bless atom cycle";

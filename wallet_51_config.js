@@ -1,1 +1,1 @@
-var mnemonic = "tennis click loud seed track hub real artefact jelly card update combine";
+var mnemonic = "liberty such select key oblige business two ship protect faint easy guard";

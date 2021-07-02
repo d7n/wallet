@@ -1,1 +1,1 @@
-var mnemonic = "swap lava antique almost floor help flame liquid yellow armed regular height";
+var mnemonic = "amused control chunk drink drift tonight busy step arena speed hair nuclear";

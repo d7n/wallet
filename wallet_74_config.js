@@ -1,1 +1,1 @@
-var mnemonic = "catch script truth air diamond rescue scale rib humor hair wide crouch";
+var mnemonic = "river wish sting donor topple actress other want expect give birth ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding lemon seek wisdom allow ceiling swim base core text airport ticket";
+var mnemonic = "honey shove resemble actress pool impact since health receive easily help inject";

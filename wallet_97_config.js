@@ -1,1 +1,1 @@
-var mnemonic = "conduct loud slow sort weasel include system deliver rotate lamp kangaroo novel";
+var mnemonic = "idle betray evidence flush runway talk custom fish tomorrow oven reveal sausage";

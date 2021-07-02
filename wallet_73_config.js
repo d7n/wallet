@@ -1,1 +1,1 @@
-var mnemonic = "repeat slush panic drum hunt effort math history pudding rebuild fancy peanut";
+var mnemonic = "category bomb senior subject below danger work field wagon spoon onion cloth";

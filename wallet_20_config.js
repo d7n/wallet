@@ -1,1 +1,1 @@
-var mnemonic = "require icon post glad rural crawl property gun similar thunder sibling pepper";
+var mnemonic = "loyal ticket problem piece infant video win pill next meat note squirrel";

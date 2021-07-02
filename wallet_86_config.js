@@ -1,1 +1,1 @@
-var mnemonic = "shy holiday rude garage hill video arrange couch bronze innocent inside coffee";
+var mnemonic = "stone approve glimpse brush save life helmet saddle lion near soldier best";

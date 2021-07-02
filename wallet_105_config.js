@@ -1,1 +1,1 @@
-var mnemonic = "trust goddess weasel foil season can under fitness fragile rely grace much";
+var mnemonic = "already reject describe wrestle moral either outdoor note rate warrior slush carry";

@@ -1,1 +1,1 @@
-var mnemonic = "differ afraid common blur art square chimney aisle wave baby doctor suit";
+var mnemonic = "elephant goat protect fault material check amused weird poem awesome predict build";

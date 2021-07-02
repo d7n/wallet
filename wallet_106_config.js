@@ -1,1 +1,1 @@
-var mnemonic = "behave buyer shallow alarm actor image manual guard media able veteran usage";
+var mnemonic = "until couch nuclear chuckle ivory dizzy crater panic vast ladder injury kick";

@@ -1,1 +1,1 @@
-var mnemonic = "shy bomb turkey hire wool any wrong great hospital hammer iron abandon";
+var mnemonic = "crime frost improve pottery sunny capital wrap game invite bar height human";

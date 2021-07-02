@@ -1,1 +1,1 @@
-var mnemonic = "remind spice suggest load grocery solution curtain moment visit festival car wire";
+var mnemonic = "perfect tumble bronze alarm absurd dry ramp sign tone route fresh pulp";

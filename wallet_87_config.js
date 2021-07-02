@@ -1,1 +1,1 @@
-var mnemonic = "sponsor tool phrase shaft turkey oil copper equal boy stove brown mixed";
+var mnemonic = "mad husband erode toast congress odor lunar offer buyer sword action tumble";

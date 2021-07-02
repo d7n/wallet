@@ -1,1 +1,1 @@
-var mnemonic = "sock verify sword burst usage interest weapon twenty enhance pelican cup hobby";
+var mnemonic = "enrich idea kangaroo jealous clump slender wish silk system daughter cause useful";

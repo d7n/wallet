@@ -1,1 +1,1 @@
-var mnemonic = "cancel frown right cement sister bulk cotton margin surface elbow cry coach";
+var mnemonic = "damage emotion arctic attend bag day saddle punch visual surprise entry galaxy";

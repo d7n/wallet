@@ -1,1 +1,1 @@
-var mnemonic = "believe kingdom indicate bachelor margin nephew solution involve satoshi wasp claw duty";
+var mnemonic = "crystal huge security urban mosquito onion used cigar gentle what youth twin";

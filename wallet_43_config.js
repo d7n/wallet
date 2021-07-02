@@ -1,1 +1,1 @@
-var mnemonic = "hundred present monitor inform retreat gospel brand mirror blue soap pyramid tiny";
+var mnemonic = "kiss output liar away wine credit refuse canyon prepare steel where cabin";

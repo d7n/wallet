@@ -1,1 +1,1 @@
-var mnemonic = "busy bright runway royal rather speak fancy dune throw field toast faint";
+var mnemonic = "wedding treat tide carbon motor odor exile tooth sheriff orient total fresh";

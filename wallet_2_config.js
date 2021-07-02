@@ -1,1 +1,1 @@
-var mnemonic = "coffee wasp kit quick vault smooth glimpse near trim soft long evil";
+var mnemonic = "senior define dial convince august glass song fetch census slow always bone";

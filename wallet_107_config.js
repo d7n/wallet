@@ -1,1 +1,1 @@
-var mnemonic = "miracle mandate imitate addict dizzy basic roast lunar lyrics glue whip bone";
+var mnemonic = "cliff cluster sing frequent thunder nut bullet oil drastic senior erode pulse";

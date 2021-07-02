@@ -1,1 +1,1 @@
-var mnemonic = "story connect cable legend pigeon spell advice rookie jump sorry ladder buffalo";
+var mnemonic = "wasp brief about loop history check multiply resemble search outside vendor mystery";

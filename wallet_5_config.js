@@ -1,1 +1,1 @@
-var mnemonic = "elite flee south busy faculty suffer more wheat print common state trick";
+var mnemonic = "clay enjoy ridge daughter require provide sustain yellow refuse spoil expand congress";

@@ -1,1 +1,1 @@
-var mnemonic = "bus balcony auction actress month plate opera swift tenant bid fat pitch";
+var mnemonic = "milk parade poverty mammal two suggest knee used tiger brave glare burst";

@@ -1,1 +1,1 @@
-var mnemonic = "involve defense comfort ceiling junior treat pool mail surround apology lecture dwarf";
+var mnemonic = "bubble accident cause since pledge vintage about shove analyst camp meat tell";

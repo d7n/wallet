@@ -1,1 +1,1 @@
-var mnemonic = "deny maid eye where acoustic lake giant run fresh erupt begin rain";
+var mnemonic = "bottom same page theme chronic wonder arena payment unique people lyrics hollow";

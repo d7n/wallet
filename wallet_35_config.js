@@ -1,1 +1,1 @@
-var mnemonic = "reveal resource boy remind sell stumble boat candy real denial purse school";
+var mnemonic = "swear eternal silver daring credit position simple empty goose filter enter puzzle";

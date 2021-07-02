@@ -1,1 +1,1 @@
-var mnemonic = "soccer shrug heavy obtain frown quantum culture rain antenna lesson parent trumpet";
+var mnemonic = "prefer evolve crucial guitar mechanic body prevent rule filter anchor make wing";

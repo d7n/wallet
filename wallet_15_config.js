@@ -1,1 +1,1 @@
-var mnemonic = "lottery clump stable umbrella cupboard river siege erode airport during auto rather";
+var mnemonic = "proud depart inhale lava cute foot peasant envelope measure sea monkey royal";

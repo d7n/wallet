@@ -1,1 +1,1 @@
-var mnemonic = "depth strike report castle cube wall also cancel title fantasy basic warrior";
+var mnemonic = "neither coyote dragon client okay program ahead chest utility flavor pledge order";

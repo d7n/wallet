@@ -1,1 +1,1 @@
-var mnemonic = "fence view envelope gasp marine private please dawn inner subway network permit";
+var mnemonic = "enforce shoulder destroy turtle hotel rent fatal resist interest bag roast eight";

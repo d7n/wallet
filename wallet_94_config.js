@@ -1,1 +1,1 @@
-var mnemonic = "cereal either farm obey during author home unit catch forest marble garbage";
+var mnemonic = "void trip flee puzzle soul issue volcano place shift comic dream friend";

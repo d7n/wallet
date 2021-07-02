@@ -1,1 +1,1 @@
-var mnemonic = "decrease pulse muffin brisk glove hidden dad erupt crucial omit jelly split";
+var mnemonic = "spread enable robot execute rigid scissors minimum pigeon antique letter frog whip";

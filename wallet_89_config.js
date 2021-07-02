@@ -1,1 +1,1 @@
-var mnemonic = "satoshi purity now layer smart inherit sweet cash tomorrow turtle toast luxury";
+var mnemonic = "kite rose vacant vicious slush eternal very ivory inside rally shallow negative";

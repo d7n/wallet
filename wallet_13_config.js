@@ -1,1 +1,1 @@
-var mnemonic = "utility sad lucky pool bulk zebra name elephant excite life cream old";
+var mnemonic = "zero alert grit hard scrap language slim relief honey yard famous village";

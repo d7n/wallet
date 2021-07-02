@@ -1,1 +1,1 @@
-var mnemonic = "miracle estate vocal visit music gold coach opinion rubber close garbage card";
+var mnemonic = "cereal island boost lemon ginger swing athlete gloom vocal dutch help tortoise";

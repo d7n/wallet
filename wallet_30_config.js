@@ -1,1 +1,1 @@
-var mnemonic = "few female common crush lazy frost balcony winter gadget pause valve want";
+var mnemonic = "either bless fun either sentence toy original aspect limb three comfort play";

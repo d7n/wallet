@@ -1,1 +1,1 @@
-var mnemonic = "rookie miss sudden glow canvas diary wolf right shaft impose three response";
+var mnemonic = "travel junk artwork cement hurt ceiling motion minor sail possible bind reflect";

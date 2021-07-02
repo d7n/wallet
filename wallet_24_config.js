@@ -1,1 +1,1 @@
-var mnemonic = "regret kiwi abandon dune umbrella foam maximum thumb cry envelope tray print";
+var mnemonic = "this indoor vanish practice lava empty black blouse engage trim caught debate";

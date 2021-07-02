@@ -1,1 +1,1 @@
-var mnemonic = "farm polar notable lucky latin topic admit speak grass immense direct swarm";
+var mnemonic = "purity trend dentist father ranch analyst advance square trophy ladder ring dog";

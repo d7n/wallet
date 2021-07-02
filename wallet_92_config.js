@@ -1,1 +1,1 @@
-var mnemonic = "struggle wealth soldier craft giggle rate multiply gossip also young fatal man";
+var mnemonic = "plate hope build dentist mixed uncle debris donkey addict twin strong mansion";

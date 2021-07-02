@@ -1,1 +1,1 @@
-var mnemonic = "diagram celery reform chief used stock legend hover sniff vessel mountain fitness";
+var mnemonic = "horror share topple salon olive huge refuse topple exhibit large vast depend";

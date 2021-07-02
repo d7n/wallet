@@ -1,1 +1,1 @@
-var mnemonic = "shift void attract gauge team rather frequent fuel win much output shove";
+var mnemonic = "motion inflict stage chaos today warrior ocean rebuild blame unknown hidden abuse";

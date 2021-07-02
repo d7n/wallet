@@ -1,1 +1,1 @@
-var mnemonic = "echo wisdom cherry web vessel fade thank oven wear swamp hazard helmet";
+var mnemonic = "good certain deny spy brass protect later jar okay nominee figure salt";

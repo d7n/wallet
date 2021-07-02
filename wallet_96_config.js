@@ -1,1 +1,1 @@
-var mnemonic = "uncle virus finish radio style category thumb attitude vital spy follow royal";
+var mnemonic = "despair fee rival edit reward tragic inch problem until style naive fence";

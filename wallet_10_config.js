@@ -1,1 +1,1 @@
-var mnemonic = "champion autumn sentence squeeze seven remove achieve result spell north mercy firm";
+var mnemonic = "artist aisle human matrix blast limit artwork crush jeans umbrella verb cute";

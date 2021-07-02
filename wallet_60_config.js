@@ -1,1 +1,1 @@
-var mnemonic = "bread rude rich sketch palace multiply exist novel artefact cycle false fox";
+var mnemonic = "what circle clever ginger boil crowd grab rose one riot nothing fringe";

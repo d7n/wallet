@@ -1,1 +1,1 @@
-var mnemonic = "mind wave swear you simple recipe refuse arrange cousin fortune orchard initial";
+var mnemonic = "crane roast flat slight usual bicycle inhale tuition lumber say scrap outdoor";

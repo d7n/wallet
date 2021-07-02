@@ -1,1 +1,1 @@
-var mnemonic = "chief tiny waste canal few labor best diary scheme argue property egg";
+var mnemonic = "dragon sing excess member wool emotion goat easy soul they speed shuffle";

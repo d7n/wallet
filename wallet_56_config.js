@@ -1,1 +1,1 @@
-var mnemonic = "giraffe believe position circle pupil drama olympic income east edge leader month";
+var mnemonic = "digital april gold child purse useful erode pride outdoor coral congress pond";

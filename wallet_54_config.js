@@ -1,1 +1,1 @@
-var mnemonic = "sea visa outer mercy carry correct upper spare park hobby buffalo romance";
+var mnemonic = "old chase problem shift bright quarter sentence random beauty place bronze shift";

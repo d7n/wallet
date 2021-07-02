@@ -1,1 +1,1 @@
-var mnemonic = "struggle actress dwarf case electric wish human aspect degree birth start swallow";
+var mnemonic = "vendor vote survey sketch leaf render decade liquid soccer feature gaze patch";

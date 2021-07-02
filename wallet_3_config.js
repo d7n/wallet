@@ -1,1 +1,1 @@
-var mnemonic = "deal insect sort bicycle stove angle inhale pear erase borrow fog peace";
+var mnemonic = "either attend dumb chaos same tree buyer rose kangaroo rigid ticket mesh";

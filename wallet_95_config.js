@@ -1,1 +1,1 @@
-var mnemonic = "such deputy erode code goose depend blame green blast bounce orbit unknown";
+var mnemonic = "shock lyrics license maximum mother brain film problem wrong traffic shed promote";

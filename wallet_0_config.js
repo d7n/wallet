@@ -1,1 +1,1 @@
-var mnemonic = "adapt alone witness spice robust stuff above grief another address daring version";
+var mnemonic = "pilot noble network present wrap settle carpet girl empty mother insect spawn";

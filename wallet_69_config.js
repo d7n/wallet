@@ -1,1 +1,1 @@
-var mnemonic = "guide struggle link economy globe drill basket call core erase move message";
+var mnemonic = "turtle one receive cost celery razor develop trade jacket garment tank trouble";

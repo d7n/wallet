@@ -1,1 +1,1 @@
-var mnemonic = "boring produce voyage scan analyst unknown prepare thrive right tobacco elevator festival";
+var mnemonic = "injury fitness rug leave pact stairs hawk lazy kiwi access punch general";

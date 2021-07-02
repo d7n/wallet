@@ -1,1 +1,1 @@
-var mnemonic = "fiscal please dust clown liar horse theme cluster movie enroll choice casino";
+var mnemonic = "ignore summer grow depart insane palace kidney travel dumb planet now mixed";

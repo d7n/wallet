@@ -1,1 +1,1 @@
-var mnemonic = "misery endorse ill giant need cliff canyon foster abandon stable angle admit";
+var mnemonic = "engine behave whisper nation sword scale bread select script auto diesel tray";

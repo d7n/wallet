@@ -1,1 +1,1 @@
-var mnemonic = "boy snow modify marriage spread hair weapon account alone deposit permit blur";
+var mnemonic = "payment struggle desert practice process gaze spoil atom cook try boss helmet";

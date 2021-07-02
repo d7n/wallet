@@ -1,1 +1,1 @@
-var mnemonic = "jacket escape warfare pride photo despair prize orient metal metal prize wink";
+var mnemonic = "network disease situate aisle shiver fiber egg stone satoshi attack despair reform";

@@ -1,1 +1,1 @@
-var mnemonic = "invest master proud bargain cereal either never wide wash opinion arch tribe";
+var mnemonic = "idle cement minor ahead diamond estate mom cart hello real giggle skirt";

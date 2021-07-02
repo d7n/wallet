@@ -1,1 +1,1 @@
-var mnemonic = "omit profit library laundry talent any spend dash swallow heart torch gloom";
+var mnemonic = "country memory night lounge hunt rely invite fury craft define car urban";

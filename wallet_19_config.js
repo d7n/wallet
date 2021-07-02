@@ -1,1 +1,1 @@
-var mnemonic = "possible boil prevent goat october loop urban trigger exist feature special employ";
+var mnemonic = "expand rib medal sword horror taxi eternal section smooth false venue check";

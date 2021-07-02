@@ -1,1 +1,1 @@
-var mnemonic = "first run any wood pluck forward later claw depth engage mechanic orange";
+var mnemonic = "either ketchup general hip dilemma judge diesel service toward shuffle exile sea";

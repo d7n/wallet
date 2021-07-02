@@ -1,1 +1,1 @@
-var mnemonic = "joy defy glass expose beyond file prosper meat leisure bitter jungle lazy";
+var mnemonic = "auction depend avocado border wagon bounce paddle innocent false donor equip orient";

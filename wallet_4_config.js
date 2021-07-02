@@ -1,1 +1,1 @@
-var mnemonic = "clap style leave govern allow feature step vicious cake snake twin trick";
+var mnemonic = "favorite misery maximum diary divert drama loyal later grab behave disorder slam";

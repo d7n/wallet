@@ -1,1 +1,1 @@
-var mnemonic = "poverty asset cycle key soccer account arch rhythm future rigid hold giggle";
+var mnemonic = "disease tooth rain wisdom auction process question monkey empty embody bacon basic";

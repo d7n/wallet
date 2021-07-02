@@ -1,1 +1,1 @@
-var mnemonic = "sword tube camp enter random limit hamster reduce furnace craft worry vacuum";
+var mnemonic = "blur mystery pupil link theory awful better clean museum various truth quote";

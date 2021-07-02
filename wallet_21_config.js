@@ -1,1 +1,1 @@
-var mnemonic = "blanket rhythm solar trust nose gesture salute course bean speed alone owner";
+var mnemonic = "pull zone bread midnight check glue satoshi cheap horse woman screen guitar";

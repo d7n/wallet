@@ -1,1 +1,1 @@
-var mnemonic = "shallow panel fiber lazy soon ill thing abandon sense film mimic hour";
+var mnemonic = "glue table size dwarf three path welcome quantum stomach cruel program ladder";

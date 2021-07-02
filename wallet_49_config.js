@@ -1,1 +1,1 @@
-var mnemonic = "idea milk village rebel mean turn crush twin bread pyramid rocket frost";
+var mnemonic = "force when vital source venue improve chapter choice forward jungle intact crane";

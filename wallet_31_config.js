@@ -1,1 +1,1 @@
-var mnemonic = "distance ritual scrub eyebrow satoshi dirt bacon kidney rough shy enough shove";
+var mnemonic = "blame pupil letter reduce warm kiwi throw glow also pact sell check";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp mix joke pear deposit labor violin topic welcome critic casual banana";
+var mnemonic = "sun south tape table list tell favorite style undo zone power boost";

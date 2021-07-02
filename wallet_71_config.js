@@ -1,1 +1,1 @@
-var mnemonic = "fiscal truth version right lumber turkey client fashion barely spoon exact regular";
+var mnemonic = "guard trash rubber loud lamp hill seminar phone slab domain travel hurry";

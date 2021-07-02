@@ -1,1 +1,1 @@
-var mnemonic = "visa view index name uphold solve company stem carbon smoke hat arrive";
+var mnemonic = "chair suspect strike ketchup rib fortune size forward path blush disorder feature";

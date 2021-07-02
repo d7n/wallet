@@ -1,1 +1,1 @@
-var mnemonic = "elite ripple infant kidney base else much old reduce bracket ahead assault";
+var mnemonic = "beyond park window alcohol orange scene inquiry squeeze crane cute tent chat";

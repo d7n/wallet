@@ -1,1 +1,1 @@
-var mnemonic = "admit elite boost assume film obscure regular uniform physical kid stock remember";
+var mnemonic = "lonely day best chair nose enroll evolve breeze action shield replace main";

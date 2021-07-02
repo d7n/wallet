@@ -1,1 +1,1 @@
-var mnemonic = "lawn drastic shadow muscle pig core feed paddle squeeze labor doll oppose";
+var mnemonic = "wasp peanut expand salad ozone desert rack festival salad lesson system polar";

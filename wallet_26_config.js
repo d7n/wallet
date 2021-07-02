@@ -1,1 +1,1 @@
-var mnemonic = "merge glove address tonight cinnamon share empty urban gun fragile harsh awkward";
+var mnemonic = "increase stumble trade title hundred case mountain rare life avoid spy squirrel";

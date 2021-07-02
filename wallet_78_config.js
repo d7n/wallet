@@ -1,1 +1,1 @@
-var mnemonic = "couple absurd blade accident happy siege solve survey animal ability pull dolphin";
+var mnemonic = "guess satoshi staff destroy dwarf sick steel option olive envelope have wife";

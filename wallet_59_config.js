@@ -1,1 +1,1 @@
-var mnemonic = "coast grace remind prize hammer document also broccoli exchange mixture sign half";
+var mnemonic = "pull budget artwork apple orchard toss tobacco certain oxygen ring harvest cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "stable very example thunder ozone income swing denial sting inherit noise bean";
+var mnemonic = "sun sand bridge clog maximum muscle ship beach empty dirt lizard delay";

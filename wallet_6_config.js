@@ -1,1 +1,1 @@
-var mnemonic = "paper inspire table dynamic fault avocado token invite try draft dynamic dinosaur";
+var mnemonic = "pony feature shine post typical color carpet cave moral bargain oval match";

@@ -1,1 +1,1 @@
-var mnemonic = "humble cousin want economy minor digital cash law hen easily latin west";
+var mnemonic = "paddle door young demise close hard cross deliver ivory fortune kite champion";

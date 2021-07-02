@@ -1,1 +1,1 @@
-var mnemonic = "canal ceiling delay cherry test blush boring million topple bicycle jealous food";
+var mnemonic = "fetch ethics rent soap catch order silk ramp door leader pulse library";

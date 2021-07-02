@@ -1,1 +1,1 @@
-var mnemonic = "like estate carbon stage biology transfer welcome swim retreat atom area hire";
+var mnemonic = "inject glow produce large quit wife dawn property world lazy staff attack";

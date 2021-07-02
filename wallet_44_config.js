@@ -1,1 +1,1 @@
-var mnemonic = "polar paper veteran risk observe minimum pride twenty beauty zero advice gadget";
+var mnemonic = "kidney kangaroo discover spy mail label borrow unfair hidden math jelly legal";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon capable own wink adjust boat void cake stamp danger indoor critic";
+var mnemonic = "bargain chaos monster cash armed nurse casino deposit box glass draw equip";

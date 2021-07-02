@@ -1,1 +1,1 @@
-var mnemonic = "blossom skull rebel glory cabbage agree neglect benefit supply liquid quit antenna";
+var mnemonic = "little child rail case produce solid argue couch mouse muffin improve extra";

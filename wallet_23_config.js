@@ -1,1 +1,1 @@
-var mnemonic = "allow couch abandon uncover sustain burden sort crime current thumb sketch upgrade";
+var mnemonic = "magic bag foster relief axis sail grid neck note radio express pizza";

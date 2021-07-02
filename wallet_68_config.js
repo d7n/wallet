@@ -1,1 +1,1 @@
-var mnemonic = "taxi strike faith ahead strong level guitar spend program fever stadium tilt";
+var mnemonic = "shaft photo border service over sniff surface syrup say theory usage feature";

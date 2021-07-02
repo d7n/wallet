@@ -1,1 +1,1 @@
-var mnemonic = "cook pizza venture monkey reward sheriff cute switch unable able rail sudden";
+var mnemonic = "bitter chalk anxiety stuff all stay capable inhale volcano wrestle city pretty";
