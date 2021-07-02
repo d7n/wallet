@@ -1,1 +1,1 @@
-var mnemonic = "rib desk degree path drastic syrup soft record again movie dove sorry";
+var mnemonic = "pole action umbrella around pool crowd disease must ugly borrow noise finish";

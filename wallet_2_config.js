@@ -1,1 +1,1 @@
-var mnemonic = "marine toss buffalo kitchen ripple happy cricket cream injury burger coyote among";
+var mnemonic = "order shove profit spatial alcohol road comfort mechanic copy figure chat acid";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy stand badge trade orange casino island order noodle solar lumber wheat";
+var mnemonic = "enter prison chaos gym trash hawk scare pumpkin wisdom impulse angry brand";

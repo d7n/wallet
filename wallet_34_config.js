@@ -1,1 +1,1 @@
-var mnemonic = "prize candy auto tackle focus people frozen nest clock seed favorite bottom";
+var mnemonic = "margin romance tomorrow elephant diagram economy autumn chat scatter chronic exhibit pill";

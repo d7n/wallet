@@ -1,1 +1,1 @@
-var mnemonic = "option loop express labor ivory sauce upgrade course around acquire light immune";
+var mnemonic = "behind ill ahead route travel globe sound worth bracket rebuild cross share";

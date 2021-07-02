@@ -1,1 +1,1 @@
-var mnemonic = "stamp wheel crash ecology cry expose key laugh envelope glove swallow decline";
+var mnemonic = "nasty scissors twelve appear bundle forward adult police enlist prefer mansion rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "reward enable wife argue fossil motion maid appear injury this scale problem";
+var mnemonic = "mean local release insect fuel insane safe symptom enable airport harbor slender";

@@ -1,1 +1,1 @@
-var mnemonic = "mix rebel repair powder traffic wire quote believe nephew drip forget turn";
+var mnemonic = "voyage first lemon learn company deputy genius account hundred dream secret deer";

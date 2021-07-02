@@ -1,1 +1,1 @@
-var mnemonic = "cheese spare leopard glue ripple anchor security crack gas heavy fatal need";
+var mnemonic = "fossil bid scale treat urban glory slogan abstract chicken rule alarm nothing";

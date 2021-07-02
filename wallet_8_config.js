@@ -1,1 +1,1 @@
-var mnemonic = "utility defy often crash such brand few earn funny twice west pact";
+var mnemonic = "punch plug ethics citizen tomorrow salute subway say faith novel enjoy kangaroo";

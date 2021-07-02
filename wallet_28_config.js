@@ -1,1 +1,1 @@
-var mnemonic = "scare asthma fancy film tent knee potato gentle you swap secret bronze";
+var mnemonic = "include west rely any hurry stem level tongue buyer broken wisdom doctor";

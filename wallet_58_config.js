@@ -1,1 +1,1 @@
-var mnemonic = "opera surge property minor deny misery ship stand industry daughter ginger easily";
+var mnemonic = "trend wrong sunset close develop civil thrive dawn feed gallery trade trust";

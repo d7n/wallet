@@ -1,1 +1,1 @@
-var mnemonic = "canal subway power town same outdoor unique broom leisure wear output lava";
+var mnemonic = "rude prepare like army album debris dust club miss person liberty truth";

@@ -1,1 +1,1 @@
-var mnemonic = "figure van practice provide ice elegant below grab hat debris pitch sight";
+var mnemonic = "deny student transfer lava hint bubble tortoise stereo pull body pioneer require";

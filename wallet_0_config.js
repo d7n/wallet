@@ -1,1 +1,1 @@
-var mnemonic = "lava gospel narrow help arrive pen soul delay cousin net network jungle";
+var mnemonic = "off flee want quantum napkin install erase veteran dove kiss bulk maximum";

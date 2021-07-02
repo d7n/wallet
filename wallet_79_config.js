@@ -1,1 +1,1 @@
-var mnemonic = "news random achieve legal search vast below deliver engine slim path alarm";
+var mnemonic = "parrot atom similar fury gold man huge among permit reject govern lend";

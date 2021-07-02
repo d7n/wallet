@@ -1,1 +1,1 @@
-var mnemonic = "game layer buffalo record people judge spice before illness old icon chicken";
+var mnemonic = "garbage exile various attract cabbage young liquid elevator effort dress explain like";

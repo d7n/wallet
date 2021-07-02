@@ -1,1 +1,1 @@
-var mnemonic = "electric measure among awake decorate spirit patch catch humor angle bomb expect";
+var mnemonic = "grunt marble example loop tube innocent expose arrange heart lock gesture pipe";

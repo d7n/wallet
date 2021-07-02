@@ -1,1 +1,1 @@
-var mnemonic = "corn trash violin fiction number lunch situate maximum car yard put bring";
+var mnemonic = "ecology slush awful fatal velvet office rich winner electric battle pistol genre";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget harsh rent rug silent build shoot burst gain size eyebrow grocery";
+var mnemonic = "critic panther attract uniform goddess wine soul erupt priority immense crucial worth";

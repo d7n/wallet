@@ -1,1 +1,1 @@
-var mnemonic = "wall rice prize large agree forum problem confirm vague shop pull govern";
+var mnemonic = "reunion medal brush suit member meadow bring firm range leader dizzy avocado";

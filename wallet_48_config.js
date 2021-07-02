@@ -1,1 +1,1 @@
-var mnemonic = "alert biology lift domain embrace credit hamster nation people hire notable rocket";
+var mnemonic = "stool cabin leave master pretty pretty acquire follow trophy athlete destroy acid";

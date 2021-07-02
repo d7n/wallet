@@ -1,1 +1,1 @@
-var mnemonic = "high pattern segment weekend when bleak reform mosquito hire tunnel jump game";
+var mnemonic = "drill lawsuit protect sudden response ready giraffe tree vibrant acquire snap struggle";

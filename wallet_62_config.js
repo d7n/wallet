@@ -1,1 +1,1 @@
-var mnemonic = "provide slush mail guitar burden select perfect leader ostrich vital conduct clip";
+var mnemonic = "riot shed friend wish seminar spin toilet tide left million bubble toward";

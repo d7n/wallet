@@ -1,1 +1,1 @@
-var mnemonic = "hard safe cattle peace urban bridge fox decade soul switch wealth collect";
+var mnemonic = "expect swamp cousin lemon metal slow draft drive subject enlist zoo race";

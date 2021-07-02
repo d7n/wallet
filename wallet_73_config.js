@@ -1,1 +1,1 @@
-var mnemonic = "canyon tilt scrap deal scatter share stomach basket poet display wasp priority";
+var mnemonic = "damp feed stage pottery stairs bachelor faith usual nuclear coffee sister unlock";

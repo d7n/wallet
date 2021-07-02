@@ -1,1 +1,1 @@
-var mnemonic = "six bargain develop velvet pretty video foil tobacco control execute lecture travel";
+var mnemonic = "merry include guitar flush outdoor benefit involve cheap crane flag siren duck";

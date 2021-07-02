@@ -1,1 +1,1 @@
-var mnemonic = "fabric action video miss invest occur race rabbit sleep wasp food couple";
+var mnemonic = "cake post fiction skull price under only surround cactus crop apology network";

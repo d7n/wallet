@@ -1,1 +1,1 @@
-var mnemonic = "erase giggle knock sugar coast fatal matrix blind awkward edge island joy";
+var mnemonic = "image erosion engine evidence garlic off excite common canyon expose panther toss";

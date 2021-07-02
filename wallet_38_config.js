@@ -1,1 +1,1 @@
-var mnemonic = "glove wheel organ citizen insect tell rocket laundry super put despair enjoy";
+var mnemonic = "hip slab breeze express cattle switch energy stage night humor walk book";

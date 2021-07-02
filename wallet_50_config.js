@@ -1,1 +1,1 @@
-var mnemonic = "ship thunder slender eager carpet juice useless tumble off gravity section eye";
+var mnemonic = "trap curious buyer vast enrich exact slender dwarf ticket mystery mass frost";

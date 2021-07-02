@@ -1,1 +1,1 @@
-var mnemonic = "section vehicle donor fault soon guitar movie cupboard foot effort gossip stuff";
+var mnemonic = "okay scale long expire core connect random pizza rotate void extra milk";

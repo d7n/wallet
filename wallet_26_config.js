@@ -1,1 +1,1 @@
-var mnemonic = "thank confirm iron voyage debate chest milk river lab wing regret session";
+var mnemonic = "proud general marble noble wish pilot penalty guard fruit page duty sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy length shock casual trade patient buyer accident tell mammal fit resist";
+var mnemonic = "sudden sign enhance gown antique what loud traffic zero clean peasant enlist";

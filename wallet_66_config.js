@@ -1,1 +1,1 @@
-var mnemonic = "then narrow arrow main april kitten vague join name pear float feature";
+var mnemonic = "crater exchange rough parrot pause leaf snack correct journey method leisure honey";

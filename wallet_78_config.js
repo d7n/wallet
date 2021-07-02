@@ -1,1 +1,1 @@
-var mnemonic = "accuse wagon decline paper believe alter elbow swing tray hundred vague online";
+var mnemonic = "doll vote emerge orchard glue hawk trumpet eye inmate picnic shield vote";

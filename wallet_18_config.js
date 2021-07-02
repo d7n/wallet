@@ -1,1 +1,1 @@
-var mnemonic = "organ invest vibrant stick oil salt tomorrow planet raise soul saddle cargo";
+var mnemonic = "zebra page sunny width client park drop require cupboard enroll shield wisdom";

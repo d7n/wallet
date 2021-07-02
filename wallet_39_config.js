@@ -1,1 +1,1 @@
-var mnemonic = "swallow crater service glimpse art enforce chronic isolate option learn organ urban";
+var mnemonic = "grit judge usual purity camp snow oak jungle reveal cream ecology term";

@@ -1,1 +1,1 @@
-var mnemonic = "demise public laugh stove student accuse shed suffer derive wolf indoor unveil";
+var mnemonic = "vanish blue marriage cover design federal tattoo local such axis avoid mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "mention glide decade pass next rookie budget avoid bitter amazing math reopen";
+var mnemonic = "ripple input scan unable inch organ lecture loyal front busy laugh relief";

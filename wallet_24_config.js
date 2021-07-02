@@ -1,1 +1,1 @@
-var mnemonic = "garlic crime express neither brick cool hello mango modify twenty spike music";
+var mnemonic = "main inherit say fox cheap fault nest spike town ignore mixture smoke";

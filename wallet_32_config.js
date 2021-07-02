@@ -1,1 +1,1 @@
-var mnemonic = "speed know door violin limb stem away book reform ginger stove sugar";
+var mnemonic = "diet vague shiver ensure pelican upon slim oblige area smooth novel lizard";

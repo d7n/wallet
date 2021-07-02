@@ -1,1 +1,1 @@
-var mnemonic = "pudding discover pair strong that mixed spoil invest because timber liquid foster";
+var mnemonic = "flag entire raven chaos risk spread buzz rail team extra ability all";

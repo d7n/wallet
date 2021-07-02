@@ -1,1 +1,1 @@
-var mnemonic = "lottery cabin lunar treat merit labor endless winter faint clip heavy tower";
+var mnemonic = "idea coast crawl place rent fat current live sun fly address control";

@@ -1,1 +1,1 @@
-var mnemonic = "height analyst face oven profit salon chase aunt consider combine wish dad";
+var mnemonic = "aware ridge entire expose surface shine fresh verify plunge tomato diesel flat";

@@ -1,1 +1,1 @@
-var mnemonic = "nut odor omit recycle squirrel fresh sure attitude over skate bird stadium";
+var mnemonic = "spring unusual gun pelican nuclear proud affair tourist violin refuse soda farm";

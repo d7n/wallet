@@ -1,1 +1,1 @@
-var mnemonic = "diamond idle tired say dinosaur subject announce spy wrong any change unusual";
+var mnemonic = "atom gain mercy require heart ten antenna weird client suspect initial orbit";

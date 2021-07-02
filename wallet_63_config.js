@@ -1,1 +1,1 @@
-var mnemonic = "despair dirt clerk lecture avoid endless inject warfare also solid almost picnic";
+var mnemonic = "hill hurry quarter design jaguar december seminar duck pistol orbit private address";

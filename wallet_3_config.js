@@ -1,1 +1,1 @@
-var mnemonic = "liquid misery fence raccoon disorder reduce close you test victory since kit";
+var mnemonic = "wet own road you genre hazard endorse wall exact total fat section";

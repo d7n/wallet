@@ -1,1 +1,1 @@
-var mnemonic = "toddler list shrug traffic amazing strike only ketchup build bid seminar group";
+var mnemonic = "fantasy install gather wear pattern basic devote glad rhythm husband subject talent";

@@ -1,1 +1,1 @@
-var mnemonic = "oven strong spare crater wink engine goose spell palm erupt planet bomb";
+var mnemonic = "step orient copper summer joy stool coast differ parade mechanic become economy";

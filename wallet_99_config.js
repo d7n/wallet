@@ -1,1 +1,1 @@
-var mnemonic = "fat mutual pen summer position tourist crew group wise mass color bless";
+var mnemonic = "gloom depend buyer resist deposit gravity left twist claim laugh follow decline";

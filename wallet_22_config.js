@@ -1,1 +1,1 @@
-var mnemonic = "panel ensure scene civil must ozone foster apart wish inquiry gaze behave";
+var mnemonic = "delay habit job long rival electric paper rate kick wrap example planet";

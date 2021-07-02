@@ -1,1 +1,1 @@
-var mnemonic = "scare dignity emerge hazard crowd bind river awful victory tornado soon quality";
+var mnemonic = "exercise tuition tilt peace sheriff actual crazy farm report talk right ozone";

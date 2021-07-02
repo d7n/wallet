@@ -1,1 +1,1 @@
-var mnemonic = "palm forget artist raccoon liar winter drama chapter obscure child first any";
+var mnemonic = "captain effort apart arena bean vapor tiger quarter door supply aerobic leisure";

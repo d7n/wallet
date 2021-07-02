@@ -1,1 +1,1 @@
-var mnemonic = "thought short leave behave random educate detail nerve almost speed caught movie";
+var mnemonic = "razor ugly shine scout deny butter sunny afraid gaze museum wasp share";

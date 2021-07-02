@@ -1,1 +1,1 @@
-var mnemonic = "erode essence awful volume plug wagon spawn meat brush curtain day cushion";
+var mnemonic = "vendor fury dutch notable draft render sunny pulp harsh squirrel panel shy";

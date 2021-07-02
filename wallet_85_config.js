@@ -1,1 +1,1 @@
-var mnemonic = "party original host convince true obey clerk chief rocket need welcome concert";
+var mnemonic = "permit shy defense spice hybrid reform never similar film wheat melody drama";

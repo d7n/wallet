@@ -1,1 +1,1 @@
-var mnemonic = "slight square number soap innocent alter stumble weasel velvet envelope fancy desk";
+var mnemonic = "lucky perfect there dinosaur skirt mammal seminar diary clarify crush ten jungle";

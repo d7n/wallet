@@ -1,1 +1,1 @@
-var mnemonic = "depth soccer throw prosper easy song execute shell filter exotic response slice";
+var mnemonic = "stick stone ask talk tackle rhythm tool play ozone solution confirm cart";

@@ -1,1 +1,1 @@
-var mnemonic = "flag market degree maple gesture lazy dash select matrix choose special cargo";
+var mnemonic = "mansion hub castle pause hobby rug poet galaxy arrange response vast merit";

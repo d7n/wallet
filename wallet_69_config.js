@@ -1,1 +1,1 @@
-var mnemonic = "traffic kiwi tortoise unaware robot member uphold half among embark forum caught";
+var mnemonic = "inner lounge still voyage arctic link sort wine become imitate ball vehicle";

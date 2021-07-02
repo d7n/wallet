@@ -1,1 +1,1 @@
-var mnemonic = "sell return utility blur bronze sun matrix absent rib bright volcano okay";
+var mnemonic = "divert drip scrap urge diary position crowd sport frog oak velvet tree";

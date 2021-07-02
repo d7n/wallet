@@ -1,1 +1,1 @@
-var mnemonic = "swallow anchor critic dish interest gap assault visit awesome ocean define punch";
+var mnemonic = "onion napkin ensure tell enough heart tourist virtual sell cup grit pen";

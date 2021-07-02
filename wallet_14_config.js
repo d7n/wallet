@@ -1,1 +1,1 @@
-var mnemonic = "noodle second hero clinic guess hour host cart timber crunch tourist snap";
+var mnemonic = "degree lawsuit ordinary office adapt glass drop clinic large uncle situate bulb";

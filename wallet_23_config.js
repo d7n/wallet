@@ -1,1 +1,1 @@
-var mnemonic = "seminar card indicate sauce honey pistol devote winner city tenant sudden venture";
+var mnemonic = "smart tide cherry decade play february abstract clinic fiscal mesh cancel live";

@@ -1,1 +1,1 @@
-var mnemonic = "keen faint net kid razor demand announce civil trip clock accuse blur";
+var mnemonic = "mango shoe guilt remain juice analyst biology acoustic donor embrace monster print";

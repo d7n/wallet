@@ -1,1 +1,1 @@
-var mnemonic = "eager winter question scorpion advance post assault small cause collect topic orphan";
+var mnemonic = "kite fame empower idea beyond common party delay face sniff soon reason";

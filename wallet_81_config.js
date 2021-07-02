@@ -1,1 +1,1 @@
-var mnemonic = "group agent bar convince snack wise cherry frost minor hazard cluster faculty";
+var mnemonic = "media trumpet switch attitude quit diary dilemma dress apology betray pig pill";

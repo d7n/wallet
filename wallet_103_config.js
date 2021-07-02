@@ -1,1 +1,1 @@
-var mnemonic = "wagon hair disagree round tired harsh brother melody gentle pig uphold song";
+var mnemonic = "hedgehog move nominee embody true bag sight alarm birth inform pulp local";

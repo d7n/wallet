@@ -1,1 +1,1 @@
-var mnemonic = "wild cabin result fan annual tired journey season spend love this puzzle";
+var mnemonic = "merit artist taste question flame hundred ensure quiz essence breeze cushion gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "primary candy client mosquito eagle success witness basic process draft echo board";
+var mnemonic = "vintage column symptom interest biology vital bring wall genuine rabbit gravity clay";

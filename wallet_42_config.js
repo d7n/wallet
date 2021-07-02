@@ -1,1 +1,1 @@
-var mnemonic = "club drama lizard escape prison pink law royal fabric beyond bubble rare";
+var mnemonic = "salute resource price tail because someone regular local company fever trial marriage";

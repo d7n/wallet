@@ -1,1 +1,1 @@
-var mnemonic = "hour derive claw word weird that slide coffee armor success trouble finish";
+var mnemonic = "push hybrid crush lounge chalk upon comic game claw despair nominee exile";

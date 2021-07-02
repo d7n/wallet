@@ -1,1 +1,1 @@
-var mnemonic = "broken obvious pause local one service castle stock helmet danger penalty circle";
+var mnemonic = "crucial switch dove orient mask loud movie moral real release tooth south";

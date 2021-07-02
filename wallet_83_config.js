@@ -1,1 +1,1 @@
-var mnemonic = "merit wise lend sort same today shine token figure extra okay pencil";
+var mnemonic = "neither jewel spread critic subway gun shift rubber online sorry artist quarter";

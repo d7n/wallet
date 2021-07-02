@@ -1,1 +1,1 @@
-var mnemonic = "broccoli dentist avocado various melt end burst senior shadow truck school february";
+var mnemonic = "swallow flavor world plunge volcano own point bicycle shield matrix strike chimney";

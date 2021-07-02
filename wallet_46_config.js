@@ -1,1 +1,1 @@
-var mnemonic = "exhibit illness harsh crew story liar distance veteran update dismiss double anxiety";
+var mnemonic = "mass paper lemon cargo divorce column ridge luggage improve design deliver exotic";

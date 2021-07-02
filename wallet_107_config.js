@@ -1,1 +1,1 @@
-var mnemonic = "sand scorpion depth arch decide until globe coffee renew august rule nerve";
+var mnemonic = "oval switch buzz cage invite salon snake violin album theme south exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "broom verb easy novel unaware hard seven total identify lion couch spare";
+var mnemonic = "quote rival project gospel alarm myself earn flower mouse private fitness upper";

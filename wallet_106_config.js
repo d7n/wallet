@@ -1,1 +1,1 @@
-var mnemonic = "boring invite hidden layer save weekend remove valley grant slight bottom eyebrow";
+var mnemonic = "dash lava rebuild affair budget rent elder leader curious cannon yellow gossip";

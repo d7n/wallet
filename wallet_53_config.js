@@ -1,1 +1,1 @@
-var mnemonic = "foil define grocery lizard tuna canoe change faculty goddess lion marriage dizzy";
+var mnemonic = "clerk tail bid quiz course target grunt foil window true dad ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel bubble analyst torch lens pudding marriage junk notable pencil trade advice";
+var mnemonic = "pencil setup range common bomb fiscal typical address bamboo neither machine skate";

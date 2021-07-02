@@ -1,1 +1,1 @@
-var mnemonic = "popular they uphold medal cute rapid gloom coil nominee diet butter pulse";
+var mnemonic = "head nephew strategy hurry fossil wish bicycle rival love top element gadget";

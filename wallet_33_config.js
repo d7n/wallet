@@ -1,1 +1,1 @@
-var mnemonic = "please security stock renew cup scrap fresh bottom disagree strategy voice rib";
+var mnemonic = "victory fashion public cherry spot unlock bubble crime usage humble vehicle adapt";

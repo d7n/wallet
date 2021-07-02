@@ -1,1 +1,1 @@
-var mnemonic = "field select saddle grape coil census friend riot wasp bacon brief snack";
+var mnemonic = "roof brother census topple sketch wild isolate brief twin question change pepper";

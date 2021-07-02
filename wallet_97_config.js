@@ -1,1 +1,1 @@
-var mnemonic = "inner river memory climb toddler alien shell chest board sketch beauty toilet";
+var mnemonic = "poverty crush check clip gentle doll lake few until dirt potato choice";

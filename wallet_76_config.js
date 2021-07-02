@@ -1,1 +1,1 @@
-var mnemonic = "clump affair october mechanic valve add turkey roof ill flush fossil unfold";
+var mnemonic = "drink alone gravity there visit ride error code thought useless flip camera";

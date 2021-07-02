@@ -1,1 +1,1 @@
-var mnemonic = "camera sound choice acquire bitter cheap sugar pen unusual neutral candy sound";
+var mnemonic = "sail laundry science cotton excuse choose cactus coast basic safe hazard excess";
