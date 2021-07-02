@@ -1,1 +1,1 @@
-var mnemonic = "chronic cycle chunk also frost only harbor neglect smile city large december";
+var mnemonic = "mix brass sudden misery badge punch system morning upper style always shove";

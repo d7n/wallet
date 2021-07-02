@@ -1,1 +1,1 @@
-var mnemonic = "calm explain beef advice cloth income depart neutral breeze actress west citizen";
+var mnemonic = "gloom lucky twist trade save shop off basket wall worry patient else";

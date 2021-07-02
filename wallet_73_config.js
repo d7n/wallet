@@ -1,1 +1,1 @@
-var mnemonic = "evoke degree liquid old attitude shine alone mirror nothing gauge oval scale";
+var mnemonic = "junk legal fade siren horn gloom pave truck culture hamster mesh tongue";

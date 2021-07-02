@@ -1,1 +1,1 @@
-var mnemonic = "need under depend struggle venue topple shy coyote crew tunnel sphere merge";
+var mnemonic = "opera clerk pair squirrel because hour foam tragic width life jungle endless";

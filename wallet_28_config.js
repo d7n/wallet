@@ -1,1 +1,1 @@
-var mnemonic = "festival grass solar wagon armor idea broccoli biology entry wedding chuckle switch";
+var mnemonic = "rely milk admit humble shoulder chronic ketchup reform invest odor income final";

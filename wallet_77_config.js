@@ -1,1 +1,1 @@
-var mnemonic = "runway wall cliff own sadness build paper flash because animal idea enable";
+var mnemonic = "foot speak lion enjoy kit sausage drip asthma enhance thank vacant zoo";

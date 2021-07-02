@@ -1,1 +1,1 @@
-var mnemonic = "much tackle above crisp hurt shoot dice cute mask topple because flower";
+var mnemonic = "angle gain over alien vocal mention forward exhaust thing science make riot";

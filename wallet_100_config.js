@@ -1,1 +1,1 @@
-var mnemonic = "skull short addict lesson spread ocean crash else easily wife onion shoulder";
+var mnemonic = "tonight total heart fee soldier know cup claw manual safe race source";

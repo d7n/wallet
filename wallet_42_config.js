@@ -1,1 +1,1 @@
-var mnemonic = "purpose fatal inquiry casino pizza nuclear pelican adult access camp tent load";
+var mnemonic = "dizzy grain build culture march orange purchase core iron winter mechanic aspect";

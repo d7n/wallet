@@ -1,1 +1,1 @@
-var mnemonic = "voice diamond addict mobile inhale slogan record luxury cherry canyon flip item";
+var mnemonic = "turn process distance naive spend nephew girl cattle real vocal another fruit";

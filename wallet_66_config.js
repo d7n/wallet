@@ -1,1 +1,1 @@
-var mnemonic = "kit average orphan ugly pulp busy eight gauge seat salt series erase";
+var mnemonic = "zero relax cement ring remain sister rent tissue forest autumn will section";

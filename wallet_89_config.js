@@ -1,1 +1,1 @@
-var mnemonic = "upgrade sense joy ski donate trick myself differ banana page reunion want";
+var mnemonic = "work genius upgrade castle arena leaf glove person protect grid hawk gossip";

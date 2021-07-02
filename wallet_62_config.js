@@ -1,1 +1,1 @@
-var mnemonic = "arena convince swear report swear wear apple pet gadget filter alley trigger";
+var mnemonic = "ethics gravity clerk young ripple company stable hockey gospel stumble tip farm";

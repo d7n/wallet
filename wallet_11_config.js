@@ -1,1 +1,1 @@
-var mnemonic = "express bomb spread pistol coconut silly wool fluid elbow pupil pulse lady";
+var mnemonic = "virus country sorry amount climb solar pupil next kiss acquire napkin dentist";

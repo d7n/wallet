@@ -1,1 +1,1 @@
-var mnemonic = "elbow tape mountain insane air vast duck code hello object enhance shed";
+var mnemonic = "jaguar tell emotion idea fault dynamic custom you nurse spray guard talk";

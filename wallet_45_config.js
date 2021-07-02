@@ -1,1 +1,1 @@
-var mnemonic = "sniff post excess admit cave help ancient daughter autumn scene soft call";
+var mnemonic = "grass coil version slender decline border blade large race glad weapon utility";

@@ -1,1 +1,1 @@
-var mnemonic = "link long art ozone cigar disease culture century cradle head subject ripple";
+var mnemonic = "acquire marine evoke battle stay toward hand club answer cactus million country";

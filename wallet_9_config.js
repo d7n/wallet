@@ -1,1 +1,1 @@
-var mnemonic = "kick birth drift cattle bulb pepper series deer utility poverty mouse acid";
+var mnemonic = "have release gesture giggle success pistol capital hand bless pluck crisp plate";

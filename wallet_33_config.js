@@ -1,1 +1,1 @@
-var mnemonic = "help test prosper mimic wealth goose chaos predict stumble false ramp report";
+var mnemonic = "oak fancy spend aim father master kick season chicken inform add jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna black awful produce wife pool anger guitar apart lazy onion guitar";
+var mnemonic = "vivid garment width absorb skirt panda extra govern equal drop pupil slot";

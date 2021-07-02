@@ -1,1 +1,1 @@
-var mnemonic = "trumpet rude obvious hip crouch manual sweet spoon pill push together jar";
+var mnemonic = "couch space domain deer purchase friend crew police oyster elevator stairs barely";

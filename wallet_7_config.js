@@ -1,1 +1,1 @@
-var mnemonic = "bracket subject decorate opinion churn skill squeeze bone mass raccoon nut wonder";
+var mnemonic = "market bounce want nose wood become wife floor dizzy cycle series tonight";

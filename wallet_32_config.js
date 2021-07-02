@@ -1,1 +1,1 @@
-var mnemonic = "sponsor mirror impulse corn cave rifle gate zone cute cave online since";
+var mnemonic = "solution rich ridge just hunt chimney prefer road orphan fence home try";

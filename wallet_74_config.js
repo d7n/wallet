@@ -1,1 +1,1 @@
-var mnemonic = "dentist nature razor cross around view spell often foam where abandon salute";
+var mnemonic = "corn will camera dust maximum solve tissue enable dragon mobile book simple";

@@ -1,1 +1,1 @@
-var mnemonic = "father donkey already blush eight ski gym heart illness adult inch route";
+var mnemonic = "budget benefit avocado index screen mansion decrease wall offer tuna alter galaxy";

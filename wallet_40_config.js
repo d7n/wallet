@@ -1,1 +1,1 @@
-var mnemonic = "lazy uphold subway cousin text obvious cabbage duty vault tube crew scene";
+var mnemonic = "sock field calm foot female clog theme soul rain property struggle labor";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup wasp skate butter toe rotate humble bounce future gold ocean song";
+var mnemonic = "payment banner visual second school orange visa august ride skate text team";

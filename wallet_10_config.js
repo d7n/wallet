@@ -1,1 +1,1 @@
-var mnemonic = "sort october seed soap poet liberty chuckle minute demise gospel kitchen machine";
+var mnemonic = "egg priority core truth awake heart moral shine inspire wait afford often";

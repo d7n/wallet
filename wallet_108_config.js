@@ -1,1 +1,1 @@
-var mnemonic = "police tent ordinary virus prefer neck save submit wreck cabbage differ afraid";
+var mnemonic = "filter gift power cigar coconut about ski appear pill question lamp fragile";

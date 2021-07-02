@@ -1,1 +1,1 @@
-var mnemonic = "current enemy mesh cherry hamster option arrive science give grain cereal match";
+var mnemonic = "pulp claw genius kitchen space evil width amazing scatter speak okay catalog";

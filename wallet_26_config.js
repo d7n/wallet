@@ -1,1 +1,1 @@
-var mnemonic = "situate opera path social visa caught woman tower clown island inhale sign";
+var mnemonic = "earn flower milk shoe goat doctor cargo friend release fire upset cancel";

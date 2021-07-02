@@ -1,1 +1,1 @@
-var mnemonic = "decorate firm hammer school engage visual swallow mushroom dismiss fuel tooth code";
+var mnemonic = "proof void choice enable knee orchard today romance canvas stuff hero waste";

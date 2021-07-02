@@ -1,1 +1,1 @@
-var mnemonic = "floor museum cream deny sun turkey tuition cool collect quantum tragic toilet";
+var mnemonic = "feel tiger catalog prefer glare hip mesh blur dial paper page swarm";

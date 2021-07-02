@@ -1,1 +1,1 @@
-var mnemonic = "attract denial always prize second ordinary shell fault version subway arrange blue";
+var mnemonic = "suspect uncle anger private picture laundry dish middle plastic mention equal usual";

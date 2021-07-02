@@ -1,1 +1,1 @@
-var mnemonic = "aware rice derive must sniff state stool focus bulk fruit person orient";
+var mnemonic = "dynamic vast syrup tape boil right pluck mom person drip enlist parent";

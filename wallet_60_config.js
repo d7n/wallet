@@ -1,1 +1,1 @@
-var mnemonic = "call coast visual motor runway vehicle surface announce involve kiss bid gesture";
+var mnemonic = "action engine argue border utility drift awful guilt drum vital build junk";

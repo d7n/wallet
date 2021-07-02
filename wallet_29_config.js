@@ -1,1 +1,1 @@
-var mnemonic = "test piano tenant omit spatial away midnight hollow boss another swallow glad";
+var mnemonic = "usage squirrel enrich train member motion bamboo they panel joke derive inner";

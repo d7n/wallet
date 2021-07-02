@@ -1,1 +1,1 @@
-var mnemonic = "van client term area game end alarm post spoon soccer earn tourist";
+var mnemonic = "arrow olympic exclude cycle clutch key exotic famous tag bright rib almost";

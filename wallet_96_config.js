@@ -1,1 +1,1 @@
-var mnemonic = "trick this youth dilemma spawn skill ill soldier almost food hurt trust";
+var mnemonic = "proof dignity shrimp wink buyer wonder palm battle minute knife scatter trouble";

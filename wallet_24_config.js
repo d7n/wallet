@@ -1,1 +1,1 @@
-var mnemonic = "inch fatigue upset sea engage sphere upset urge style puzzle cloud renew";
+var mnemonic = "obtain wrestle climb over drastic this check rib gospel rather dinosaur rule";

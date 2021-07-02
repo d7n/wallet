@@ -1,1 +1,1 @@
-var mnemonic = "imitate average much base evoke crunch uniform enact caution kidney innocent solve";
+var mnemonic = "roof grape silk virus promote debate round patient fiction envelope must gentle";

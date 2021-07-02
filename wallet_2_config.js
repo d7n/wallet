@@ -1,1 +1,1 @@
-var mnemonic = "party venue heart happy run heavy vacant scale multiply nice brisk luxury";
+var mnemonic = "weapon toward gun sense hungry dentist play west bullet arrest monkey power";

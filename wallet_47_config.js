@@ -1,1 +1,1 @@
-var mnemonic = "above hazard position expire pupil room spawn daughter meat enact junior pistol";
+var mnemonic = "spatial ensure fish either salmon depart pull nest legend large wood tissue";

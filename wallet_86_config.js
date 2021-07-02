@@ -1,1 +1,1 @@
-var mnemonic = "plastic derive interest car frequent boil diamond inmate danger candy like process";
+var mnemonic = "cruise nephew fantasy spring picture cherry anger bean tube thing budget lounge";

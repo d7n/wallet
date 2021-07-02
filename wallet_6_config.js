@@ -1,1 +1,1 @@
-var mnemonic = "goat nominee relief wonder faculty destroy trade column blur bamboo off animal";
+var mnemonic = "foam switch bundle art gravity script all humor human young east report";

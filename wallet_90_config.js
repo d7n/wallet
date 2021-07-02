@@ -1,1 +1,1 @@
-var mnemonic = "swift core silly vehicle spy curve behave grab leader eye hip bunker";
+var mnemonic = "twin sound hood donkey deer acoustic argue shuffle wool skin digital captain";

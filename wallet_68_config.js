@@ -1,1 +1,1 @@
-var mnemonic = "bulb step cash armor twist engage energy raw arrive panda glue pear";
+var mnemonic = "october often remain laptop recipe topple into reopen program zoo pool gap";

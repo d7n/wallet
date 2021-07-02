@@ -1,1 +1,1 @@
-var mnemonic = "diamond access remember glimpse student expire moment arrest sniff oak dance pluck";
+var mnemonic = "flash credit fitness window labor domain young burger panic paddle kangaroo alpha";

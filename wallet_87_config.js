@@ -1,1 +1,1 @@
-var mnemonic = "actor lonely add diamond equal control jelly account fortune blossom juice now";
+var mnemonic = "already extend web purity bacon rely easily thank actual noble penalty busy";

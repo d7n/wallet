@@ -1,1 +1,1 @@
-var mnemonic = "document absurd weird assist ancient episode bread budget deny enter parrot change";
+var mnemonic = "property elevator fog vicious strong hurry boring hard faculty ostrich gadget trap";

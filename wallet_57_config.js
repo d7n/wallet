@@ -1,1 +1,1 @@
-var mnemonic = "battle police early owner velvet awful truly teach remove chat virus shop";
+var mnemonic = "umbrella detail avocado pole destroy matrix vessel hobby entry minute hair switch";

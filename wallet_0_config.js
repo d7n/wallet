@@ -1,1 +1,1 @@
-var mnemonic = "census arena menu cloud undo remind garage aunt question strategy walk purpose";
+var mnemonic = "matrix artwork input please fatal pioneer pudding behind region hire hurry trial";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost about cereal elder remove face actress great offer fiber ahead hire";
+var mnemonic = "trophy two shop pink prefer ancient body this custom gate attract horn";

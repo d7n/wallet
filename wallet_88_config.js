@@ -1,1 +1,1 @@
-var mnemonic = "water renew habit math outer exchange head rely review jump tower runway";
+var mnemonic = "calm limb comfort coral receive expect shift wash cheap lyrics skill shoe";

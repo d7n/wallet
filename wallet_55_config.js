@@ -1,1 +1,1 @@
-var mnemonic = "exercise broken shoe praise auto right rubber sea benefit page peanut couple";
+var mnemonic = "swarm magnet chunk total boy endless category room tip suspect field spoil";

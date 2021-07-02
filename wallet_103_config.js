@@ -1,1 +1,1 @@
-var mnemonic = "alert wing carry unlock urge fancy tumble donate coyote about observe hair";
+var mnemonic = "popular hint ranch scheme tent whip combine option south dutch among naive";

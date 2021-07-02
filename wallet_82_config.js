@@ -1,1 +1,1 @@
-var mnemonic = "key cart purity marble spring aerobic amazing want venture also badge essence";
+var mnemonic = "family pistol gospel bargain grief forget habit flip awkward hill rebel inside";

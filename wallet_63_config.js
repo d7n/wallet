@@ -1,1 +1,1 @@
-var mnemonic = "large meat together later stem position wreck embark cube speak plug shoot";
+var mnemonic = "vicious over able enough pluck edit camera bicycle rival pig faith hole";

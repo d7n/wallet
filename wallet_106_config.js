@@ -1,1 +1,1 @@
-var mnemonic = "network honey hunt file stove need erase cycle door until grain ivory";
+var mnemonic = "ship describe fold speed chuckle sketch blue husband apple daughter arrest hope";

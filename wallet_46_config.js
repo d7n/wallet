@@ -1,1 +1,1 @@
-var mnemonic = "secret floor reunion polar gasp surprise major cheap club section warm consider";
+var mnemonic = "dismiss woman impose amazing act action license tomorrow major foster idea vast";

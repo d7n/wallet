@@ -1,1 +1,1 @@
-var mnemonic = "virus advice quantum apart coin fun speed note language large voice crawl";
+var mnemonic = "ecology kite swear leave civil fortune guitar awkward basic beyond advice pattern";

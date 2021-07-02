@@ -1,1 +1,1 @@
-var mnemonic = "you snake draw fuel powder crisp leader spray ugly enable cluster task";
+var mnemonic = "duty rice judge position legal egg key else until eyebrow view wine";

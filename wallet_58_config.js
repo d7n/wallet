@@ -1,1 +1,1 @@
-var mnemonic = "grass toast foil pudding walk cereal remind surface good source little method";
+var mnemonic = "wet piano sausage fury force hen stuff tomorrow pen rotate fame pulp";

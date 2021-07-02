@@ -1,1 +1,1 @@
-var mnemonic = "lamp foot gravity holiday tongue since spawn armed seed sketch vehicle divert";
+var mnemonic = "duty spare enact wolf tube crack upper pelican another extra planet flag";

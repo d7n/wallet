@@ -1,1 +1,1 @@
-var mnemonic = "evoke shop face add ask little reduce burst inhale success giggle frequent";
+var mnemonic = "candy evidence canvas april various arena limb draw scout earth loud wolf";

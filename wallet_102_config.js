@@ -1,1 +1,1 @@
-var mnemonic = "beef elegant knock pony life crouch swim sun age invite tunnel lumber";
+var mnemonic = "bacon sentence bridge lizard source pen bachelor fever buyer biology prize fine";

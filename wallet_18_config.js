@@ -1,1 +1,1 @@
-var mnemonic = "excess argue lion dizzy plate sunset text very humble wink team staff";
+var mnemonic = "apple aisle tell source agree orphan text purity tip umbrella six teach";

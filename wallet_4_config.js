@@ -1,1 +1,1 @@
-var mnemonic = "glass know insect saddle before melody sure art half cycle suggest invite";
+var mnemonic = "order label vibrant because flat second duty bless curtain poet fantasy peasant";

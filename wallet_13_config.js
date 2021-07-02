@@ -1,1 +1,1 @@
-var mnemonic = "link illness romance lawsuit provide economy fun impose bachelor ecology episode dog";
+var mnemonic = "glory hollow dizzy fiction rebuild eager lady identify print away cash salon";

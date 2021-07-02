@@ -1,1 +1,1 @@
-var mnemonic = "fit boost cute either snake entry ramp cluster toe leopard peasant canal";
+var mnemonic = "funny large safe garlic regret dolphin wise exercise silent damage horror car";

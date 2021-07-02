@@ -1,1 +1,1 @@
-var mnemonic = "version gadget collect awkward pattern charge hint cost razor across talk brick";
+var mnemonic = "orbit olive depart jelly radio giant pipe room hidden nation melody icon";

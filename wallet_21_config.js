@@ -1,1 +1,1 @@
-var mnemonic = "pencil inch guide select someone region argue foil vivid drive visit license";
+var mnemonic = "around material bulk genre sail kidney loan liberty unhappy belt repeat spider";

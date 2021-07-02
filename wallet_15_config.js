@@ -1,1 +1,1 @@
-var mnemonic = "cable okay clarify hobby only view filter venture fresh nephew gentle idle";
+var mnemonic = "skirt assault you wash night snow they attack wise shallow bundle dream";

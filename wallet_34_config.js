@@ -1,1 +1,1 @@
-var mnemonic = "drive cluster acid stable simple gloom flush year manage job wrap emerge";
+var mnemonic = "cry stool physical expand add borrow forest panther trade brick appear lady";

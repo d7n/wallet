@@ -1,1 +1,1 @@
-var mnemonic = "join year cheese bicycle august hurdle toward lonely flame seven number fault";
+var mnemonic = "manual panel hello creek crunch shoot dog pen blast crunch gym swear";

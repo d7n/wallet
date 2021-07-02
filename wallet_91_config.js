@@ -1,1 +1,1 @@
-var mnemonic = "broom duck mystery connect book utility error column hole pig robust genius";
+var mnemonic = "fame stove mention stool buzz wrong display hire butter talk better film";

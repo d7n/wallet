@@ -1,1 +1,1 @@
-var mnemonic = "fox daughter monitor manage farm toast zero usual motor struggle basic among";
+var mnemonic = "section saddle sign idea jazz foil fire emerge inhale immense salon stage";

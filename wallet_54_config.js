@@ -1,1 +1,1 @@
-var mnemonic = "clump recycle cave surround obey portion rabbit evoke hub zoo curious ivory";
+var mnemonic = "lady grief judge wrap crisp ceiling behave decrease dumb similar bleak mention";

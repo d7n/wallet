@@ -1,1 +1,1 @@
-var mnemonic = "sister enforce frog virtual year amount vanish atom funny distance grit tape";
+var mnemonic = "banner float prize gas joke pulp barely gospel smart pill arrive title";

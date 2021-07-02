@@ -1,1 +1,1 @@
-var mnemonic = "miss city mercy avocado myself bundle arena pool ignore infant worth entire";
+var mnemonic = "alpha mesh ensure price frog brush discover ensure check neutral jump toward";

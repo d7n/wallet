@@ -1,1 +1,1 @@
-var mnemonic = "secret possible matter example neutral topic diamond cancel silly talent mobile hamster";
+var mnemonic = "present sugar glue own hybrid there replace couch balcony inject void practice";
