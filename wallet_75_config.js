@@ -1,1 +1,1 @@
-var mnemonic = "foster movie aim awful female rival almost cushion arch move stereo salon";
+var mnemonic = "middle fetch start coyote ticket deposit license laugh swamp inform beauty people";

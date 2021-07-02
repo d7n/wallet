@@ -1,1 +1,1 @@
-var mnemonic = "guide monkey aerobic dirt tortoise load work hold section sound tragic help";
+var mnemonic = "tail fire rebuild genius club maze radio unveil expand spike define extend";

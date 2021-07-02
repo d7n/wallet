@@ -1,1 +1,1 @@
-var mnemonic = "chapter myth know viable spot hobby liar maid hero science plug cousin";
+var mnemonic = "dove abstract company crater acoustic wrap chair decade else clinic entry neck";

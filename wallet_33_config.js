@@ -1,1 +1,1 @@
-var mnemonic = "baby indicate oak drastic regular coconut modify obscure sound ensure seminar suggest";
+var mnemonic = "then apology sick anger detail blossom deliver muffin blossom chimney oppose decline";

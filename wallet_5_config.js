@@ -1,1 +1,1 @@
-var mnemonic = "mass problem crane render fuel picnic library auto evolve purchase behind mirror";
+var mnemonic = "evolve awful swamp drip torch lunch load open regret license zoo twist";

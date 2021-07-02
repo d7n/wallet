@@ -1,1 +1,1 @@
-var mnemonic = "unfair reduce learn token minute cluster ordinary explain park brush armed auction";
+var mnemonic = "adjust song paper foil debate spoil weekend oval shove popular wife utility";

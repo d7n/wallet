@@ -1,1 +1,1 @@
-var mnemonic = "supreme chat dash tilt accuse afford liar wash utility canyon horse virus";
+var mnemonic = "spice capable excess abstract noise glory doll morning run zoo regular cable";

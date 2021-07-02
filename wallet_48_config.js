@@ -1,1 +1,1 @@
-var mnemonic = "card fiscal guilt baby ethics upon fatal clever tongue second will peasant";
+var mnemonic = "add bubble cinnamon current attend steel fiber armed sentence away march liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky length trophy tape attend siren dentist universe antique region large essay";
+var mnemonic = "grab blur shell unable snow decorate open device scorpion fruit smile galaxy";

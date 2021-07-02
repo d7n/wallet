@@ -1,1 +1,1 @@
-var mnemonic = "addict laundry release hole category rebel crew alone solution mango goose west";
+var mnemonic = "atom cement timber daring family elbow mix amazing critic other quit twin";

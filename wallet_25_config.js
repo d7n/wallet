@@ -1,1 +1,1 @@
-var mnemonic = "neglect balcony filter region boat million identify bulb reveal once version copy";
+var mnemonic = "tiny undo tape forum suggest odor catch enlist august final what shaft";

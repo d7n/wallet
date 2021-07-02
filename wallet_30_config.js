@@ -1,1 +1,1 @@
-var mnemonic = "door spice layer puppy foam grit frame shy long ginger combine virtual";
+var mnemonic = "bench tobacco mango cushion dust way blouse snack stock code cost undo";

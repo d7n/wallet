@@ -1,1 +1,1 @@
-var mnemonic = "snap lion parrot marble reject iron leopard shy solve blur easily eagle";
+var mnemonic = "nation demise bar blast life enjoy improve noble scorpion buyer elite health";

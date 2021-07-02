@@ -1,1 +1,1 @@
-var mnemonic = "bag oil early cruise clay actress invest combine sail world brick flip";
+var mnemonic = "toy moon whisper there disorder story return olive visit person cement shift";

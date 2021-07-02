@@ -1,1 +1,1 @@
-var mnemonic = "farm already shove save balcony bridge remain regular attend engage visa fly";
+var mnemonic = "plug drill mean auction actress venue protect major work second fetch seek";

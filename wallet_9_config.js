@@ -1,1 +1,1 @@
-var mnemonic = "bottom move bike silver panel utility lens few critic original garment box";
+var mnemonic = "exit tray level slight knee usual fox message robot undo brief wage";

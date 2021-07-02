@@ -1,1 +1,1 @@
-var mnemonic = "cash book wet lake brisk know garden butter nut regret energy adapt";
+var mnemonic = "ahead winter disagree need sail double begin tattoo work fancy stool symbol";

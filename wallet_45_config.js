@@ -1,1 +1,1 @@
-var mnemonic = "brand into engage weird custom earn disagree apart nut wonder peasant series";
+var mnemonic = "trial drama tumble output unaware february they void occur group angle clown";

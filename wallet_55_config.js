@@ -1,1 +1,1 @@
-var mnemonic = "fetch tray fortune cloth glad where flag core want decade opinion describe";
+var mnemonic = "cart spy fall primary dune lobster wild industry super reflect peace wrist";

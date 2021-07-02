@@ -1,1 +1,1 @@
-var mnemonic = "oven estate second buffalo found amount gesture orchard admit dynamic summer make";
+var mnemonic = "sort wrestle slim step congress collect grab expire police pig liar abuse";

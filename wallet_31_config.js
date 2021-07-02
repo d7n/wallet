@@ -1,1 +1,1 @@
-var mnemonic = "wash lumber seven arch rather annual side obey useful panther trophy mango";
+var mnemonic = "grab hero marble lava bronze private scheme stock tone silver wolf march";

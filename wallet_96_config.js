@@ -1,1 +1,1 @@
-var mnemonic = "wolf actual mouse middle ketchup similar youth modify lab safe prevent govern";
+var mnemonic = "empty tongue asset globe ten impose clip cat book notable merit cupboard";

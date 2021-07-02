@@ -1,1 +1,1 @@
-var mnemonic = "child drift west lend ride duck old lawsuit shrimp domain saddle wish";
+var mnemonic = "dog then just sword turn peace hedgehog bullet pole guilt eagle cigar";

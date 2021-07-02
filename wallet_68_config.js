@@ -1,1 +1,1 @@
-var mnemonic = "hand drill evoke exotic later planet photo share month hat elder relief";
+var mnemonic = "cherry focus side dream divorce all accident margin already update chat typical";

@@ -1,1 +1,1 @@
-var mnemonic = "useless title river patient mind rail fitness valley despair burden wool ritual";
+var mnemonic = "chest debris notice equal brass autumn man order someone skull predict hip";

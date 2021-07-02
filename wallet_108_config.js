@@ -1,1 +1,1 @@
-var mnemonic = "title spot hundred chair divorce marriage web modify remind chimney cup chronic";
+var mnemonic = "image audit rail guide work tag laundry struggle gun vocal pulp message";

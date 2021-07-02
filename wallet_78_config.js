@@ -1,1 +1,1 @@
-var mnemonic = "omit range ozone nice purchase unaware various oblige kiss february front often";
+var mnemonic = "tide old glad evolve again head iron usage object permit napkin flash";

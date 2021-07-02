@@ -1,1 +1,1 @@
-var mnemonic = "weasel laugh voice artefact blossom tackle retreat grant mule carbon melt march";
+var mnemonic = "chat envelope wood great decline catalog brother great soon shaft buddy wrestle";

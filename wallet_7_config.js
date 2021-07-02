@@ -1,1 +1,1 @@
-var mnemonic = "abandon wisdom arctic undo intact start garlic spawn absent render tide cruel";
+var mnemonic = "camera gap season clump catch purse figure cash fly canyon century head";

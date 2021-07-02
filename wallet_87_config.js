@@ -1,1 +1,1 @@
-var mnemonic = "reveal nose home drink glare logic invest bar era defense cruel vessel";
+var mnemonic = "twelve rally shock match dismiss service rookie tilt trim reunion gun lava";

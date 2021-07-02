@@ -1,1 +1,1 @@
-var mnemonic = "symptom pudding fold feed door clay exercise shrimp print energy ozone tuna";
+var mnemonic = "furnace initial intact million eternal exercise view stock party wait aspect unaware";

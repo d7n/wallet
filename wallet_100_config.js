@@ -1,1 +1,1 @@
-var mnemonic = "young grape valid oven this tube farm become giraffe million fold lab";
+var mnemonic = "enemy blast song tone dance bounce grid congress orbit cotton coyote increase";

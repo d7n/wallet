@@ -1,1 +1,1 @@
-var mnemonic = "adapt easy account foot turtle fade pupil husband report convince distance spray";
+var mnemonic = "address dream addict group remain wear piece joke stamp office bless dress";

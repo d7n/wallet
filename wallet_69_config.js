@@ -1,1 +1,1 @@
-var mnemonic = "genre awake found divert fitness viable giraffe airport submit high olive crystal";
+var mnemonic = "odor favorite real depend sister network mandate crunch april bean pave target";

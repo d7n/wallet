@@ -1,1 +1,1 @@
-var mnemonic = "grace moon flock public fee first faculty divert wreck winter acquire another";
+var mnemonic = "hour absurd orchard system glow end liberty van dentist stool sure image";

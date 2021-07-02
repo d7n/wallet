@@ -1,1 +1,1 @@
-var mnemonic = "thumb session horn jeans jealous three doll business hello antenna employ broom";
+var mnemonic = "flee sniff blind ancient borrow bounce brand behave someone humor salon regular";

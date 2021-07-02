@@ -1,1 +1,1 @@
-var mnemonic = "clump base filter name fury slam main ripple capable motion shock smooth";
+var mnemonic = "taste metal great reunion solve need link divert initial page test run";

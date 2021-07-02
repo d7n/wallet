@@ -1,1 +1,1 @@
-var mnemonic = "fancy coast chaos giraffe feed project river exercise web ranch crime trend";
+var mnemonic = "tongue cash ready topple slogan upon shiver yellow silly middle ship total";

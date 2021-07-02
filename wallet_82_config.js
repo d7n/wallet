@@ -1,1 +1,1 @@
-var mnemonic = "index cradle grace phrase donor document young pudding harbor estate kidney junior";
+var mnemonic = "december grant harsh clean stamp staff half armor almost cash high fee";

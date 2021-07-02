@@ -1,1 +1,1 @@
-var mnemonic = "execute aspect monster material shuffle nature firm label random artwork toe wonder";
+var mnemonic = "goddess spawn noodle nose unhappy turtle polar fee place awake pulp sell";

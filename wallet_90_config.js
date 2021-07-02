@@ -1,1 +1,1 @@
-var mnemonic = "reflect stove cabbage want pride unfold begin napkin slogan maple glue impact";
+var mnemonic = "mirror security proud gun paddle tuna girl equal poet kid tag parrot";

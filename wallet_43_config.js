@@ -1,1 +1,1 @@
-var mnemonic = "scrap rack chief road equal mistake pistol aspect humble senior economy parent";
+var mnemonic = "useful point soldier liberty pizza spawn below twelve gossip exchange owner main";

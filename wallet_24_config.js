@@ -1,1 +1,1 @@
-var mnemonic = "duck arena right art uphold image oak trick warfare garage mobile debate";
+var mnemonic = "sauce nest across run reduce quantum year private tattoo electric black push";

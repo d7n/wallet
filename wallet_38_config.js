@@ -1,1 +1,1 @@
-var mnemonic = "tent athlete bulk sauce vibrant loan someone immense close escape age tenant";
+var mnemonic = "either monitor view car bubble member reward issue famous yard dinosaur position";

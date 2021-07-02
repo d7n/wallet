@@ -1,1 +1,1 @@
-var mnemonic = "brave giraffe carpet ankle lesson tornado tennis lion save clump actual category";
+var mnemonic = "almost sudden same fatal useful buyer fragile interest arrest inquiry wife elite";

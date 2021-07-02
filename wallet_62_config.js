@@ -1,1 +1,1 @@
-var mnemonic = "service list cricket tomorrow embark medal force sport help hurt bulb coin";
+var mnemonic = "talk rapid join fun payment approve throw crowd palm moral arctic beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "curve detail copper suffer near crop maple scrub name size quote will";
+var mnemonic = "surface blade chase west wisdom pole swarm drill embrace when honey spread";

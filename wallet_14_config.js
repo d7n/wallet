@@ -1,1 +1,1 @@
-var mnemonic = "brain chair duck zebra minute various early pet income bicycle gym interest";
+var mnemonic = "parent other audit stage worry become minimum guide travel broccoli fix useless";

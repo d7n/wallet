@@ -1,1 +1,1 @@
-var mnemonic = "chase guilt agree trash wire gravity barely toss clarify mixture corn metal";
+var mnemonic = "proud pilot dumb choose payment tiny tongue column cage neutral night wrestle";

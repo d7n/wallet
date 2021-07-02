@@ -1,1 +1,1 @@
-var mnemonic = "oil dentist border dumb book soldier crawl expand mosquito recipe void fog";
+var mnemonic = "attack three expose pupil slush core miss lottery glue quick coconut galaxy";

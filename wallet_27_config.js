@@ -1,1 +1,1 @@
-var mnemonic = "dignity coil purity stick shift sport then razor thunder present fox fault";
+var mnemonic = "seat what kind crisp wrap body begin priority dune master sunset meat";

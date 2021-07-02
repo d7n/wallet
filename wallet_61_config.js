@@ -1,1 +1,1 @@
-var mnemonic = "cube arrow judge butter bargain milk nurse usage snap clarify bird photo";
+var mnemonic = "tomato wrong absorb invest behave level mobile carry poverty sorry lawn alien";

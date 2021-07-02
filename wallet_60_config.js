@@ -1,1 +1,1 @@
-var mnemonic = "weasel index enable peasant ski crunch imitate champion bomb junk rain level";
+var mnemonic = "style public solar usage suspect disease setup gain topple travel quote museum";

@@ -1,1 +1,1 @@
-var mnemonic = "sound mention fly truly jacket video magic unusual shuffle can august tip";
+var mnemonic = "couch wink satoshi trial shell sister absorb present gold dose tank fit";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp theory maximum false window neutral cause list enhance critic control weekend";
+var mnemonic = "film clog economy combine bird blush escape myth valve suggest tumble fat";

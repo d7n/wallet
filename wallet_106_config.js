@@ -1,1 +1,1 @@
-var mnemonic = "uphold accuse thing inner faint glass since figure foster expect waste scene";
+var mnemonic = "jelly cloud trust cargo crumble fragile sound display witness whip luggage ostrich";

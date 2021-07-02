@@ -1,1 +1,1 @@
-var mnemonic = "silly zone icon tone bid giant lazy army kick oak convince faint";
+var mnemonic = "visit fan aerobic possible athlete cotton inspire donate illegal gold firm gap";

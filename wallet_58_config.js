@@ -1,1 +1,1 @@
-var mnemonic = "hill icon cheap biology palace mask design century choose mad wall lumber";
+var mnemonic = "leg better material raw reduce arrive safe across glue ghost all equip";

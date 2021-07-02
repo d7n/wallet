@@ -1,1 +1,1 @@
-var mnemonic = "stadium soldier combine sand what lawn cause display attract blame survey dial";
+var mnemonic = "leader stamp outside joke orbit start imitate earn detail member mountain dice";

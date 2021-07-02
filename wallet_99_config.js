@@ -1,1 +1,1 @@
-var mnemonic = "okay sign valve identify tiny affair secret rapid vocal dust core raise";
+var mnemonic = "bag shrug squeeze wealth twelve cheap scare summer mail popular jeans way";

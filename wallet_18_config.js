@@ -1,1 +1,1 @@
-var mnemonic = "song nasty move kitchen flat hard venue ivory crush virtual august winter";
+var mnemonic = "must canoe aisle menu dolphin course tilt piece burst stay unfold address";

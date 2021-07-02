@@ -1,1 +1,1 @@
-var mnemonic = "body liberty average phone type network gas prevent around idea sister horse";
+var mnemonic = "egg plastic angry middle primary dad toy fresh goddess such pelican sting";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise forward alarm message cargo alpha spoil medal urban gentle trim main";
+var mnemonic = "cart fun private stamp glory rural bulb exhaust donor liberty open shift";

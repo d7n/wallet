@@ -1,1 +1,1 @@
-var mnemonic = "hood people limb melody record any clog spare pigeon kite tool uncover";
+var mnemonic = "mandate exchange bomb trial stay color tissue glide much solar fiscal artwork";

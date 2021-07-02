@@ -1,1 +1,1 @@
-var mnemonic = "clog obvious drill have twist bright corn head divide dry assault green";
+var mnemonic = "credit muffin bring polar among child punch report captain dice unhappy firm";

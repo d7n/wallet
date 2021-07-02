@@ -1,1 +1,1 @@
-var mnemonic = "hurdle seat object ride oil keep heavy true priority glance water hurt";
+var mnemonic = "drastic quick metal total laundry secret dream bachelor exhibit sister innocent amateur";

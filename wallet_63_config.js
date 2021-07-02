@@ -1,1 +1,1 @@
-var mnemonic = "soon edge foil slogan history tilt false helmet help rebuild display what";
+var mnemonic = "kind plate tooth two certain gym moon cancel ethics high bench require";

@@ -1,1 +1,1 @@
-var mnemonic = "assist wrist chimney secret side gravity leader lounge allow aisle mask cross";
+var mnemonic = "quality minute south trouble correct gift clog wife lens stick wrong solid";

@@ -1,1 +1,1 @@
-var mnemonic = "permit identify little deny slow cool six online vivid chaos trophy budget";
+var mnemonic = "path foot save unveil lazy frost negative nice expire runway antenna cricket";

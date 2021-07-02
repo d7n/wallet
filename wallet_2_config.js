@@ -1,1 +1,1 @@
-var mnemonic = "layer slow tree grocery phrase mass solve problem review addict debate possible";
+var mnemonic = "peasant tourist sell tribe sudden biology scene sister bar song lazy that";

@@ -1,1 +1,1 @@
-var mnemonic = "soft swear hover turtle garage knee loan topple trial casino balance decade";
+var mnemonic = "process chat cinnamon fury need easy wrist wasp grid cycle glance dice";

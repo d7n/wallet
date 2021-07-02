@@ -1,1 +1,1 @@
-var mnemonic = "mirror typical rhythm drink slide cover rescue pelican excite lab pig blur";
+var mnemonic = "submit armor theme company repeat kidney oak oppose wheat charge little stage";

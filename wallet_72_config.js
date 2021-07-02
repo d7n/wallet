@@ -1,1 +1,1 @@
-var mnemonic = "hand imitate beauty buzz lounge spray syrup jar sunset deer century history";
+var mnemonic = "kitten mixed element trophy source dentist this depart chalk agent all head";

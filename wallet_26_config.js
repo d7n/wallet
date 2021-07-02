@@ -1,1 +1,1 @@
-var mnemonic = "animal year state abandon tray screen borrow opinion window trust joke diesel";
+var mnemonic = "vivid club offer gossip dizzy puzzle amateur oyster involve cram tattoo spray";

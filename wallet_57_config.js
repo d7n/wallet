@@ -1,1 +1,1 @@
-var mnemonic = "struggle family cry planet avoid ribbon private beef kiwi corn owner exist";
+var mnemonic = "repeat smooth lounge maximum mask address goat science equal grief festival suit";

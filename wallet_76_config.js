@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit earn split annual august winner delay web math reform diamond latin";
+var mnemonic = "boost word table record casual fancy grace portion hidden brown whale holiday";

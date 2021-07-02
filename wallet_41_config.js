@@ -1,1 +1,1 @@
-var mnemonic = "uniform weapon swarm city still orchard credit ordinary shiver forest dice maze";
+var mnemonic = "grow early canvas danger shallow decorate blue scout riot december radar hobby";

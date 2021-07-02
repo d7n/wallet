@@ -1,1 +1,1 @@
-var mnemonic = "prosper drink ladder multiply pride account priority tool muscle now surprise goddess";
+var mnemonic = "carbon carry demand feature coyote devote scrap define glass cherry process village";

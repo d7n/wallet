@@ -1,1 +1,1 @@
-var mnemonic = "yard weapon robot spy enforce shed hole average ladder glimpse more meadow";
+var mnemonic = "okay high squeeze food tail ivory nurse funny depth acquire coral emotion";

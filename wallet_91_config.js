@@ -1,1 +1,1 @@
-var mnemonic = "clock climb prefer hawk wolf hill state budget agree fat beach silver";
+var mnemonic = "cup butter baby lounge where govern please release example check answer renew";

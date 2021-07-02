@@ -1,1 +1,1 @@
-var mnemonic = "this twice legend ski lemon fossil limb shallow deposit electric napkin drill";
+var mnemonic = "swift catalog lemon taxi puzzle rhythm wash six elbow believe mix layer";

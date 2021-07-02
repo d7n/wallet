@@ -1,1 +1,1 @@
-var mnemonic = "dignity era depend rug defy velvet improve shift clinic artwork hen nut";
+var mnemonic = "mesh seek undo silk ocean frown dinosaur grunt jar tell board olympic";

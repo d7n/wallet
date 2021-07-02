@@ -1,1 +1,1 @@
-var mnemonic = "strategy dance present make later truly drop only cousin hello duck movie";
+var mnemonic = "silly turkey spy box mesh sudden sustain soon erupt goat earth goddess";

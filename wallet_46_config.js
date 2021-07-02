@@ -1,1 +1,1 @@
-var mnemonic = "focus camp confirm similar pudding cry flame witness tuition session review grow";
+var mnemonic = "nose shell recycle library tenant hamster lottery reveal picnic bubble thumb hen";

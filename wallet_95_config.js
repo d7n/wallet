@@ -1,1 +1,1 @@
-var mnemonic = "typical extra elbow decline play violin oxygen naive obscure raise sound foster";
+var mnemonic = "limb wash all media output level recipe group fiction stay leaf movie";
