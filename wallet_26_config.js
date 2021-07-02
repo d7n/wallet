@@ -1,1 +1,1 @@
-var mnemonic = "brain invite steak opera symbol charge garlic seminar cricket original bus ice";
+var mnemonic = "check setup company mystery cotton tribe smile moon forget hurry equip solve";

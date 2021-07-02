@@ -1,1 +1,1 @@
-var mnemonic = "surge bicycle crazy pelican team mix gesture punch disorder chimney ahead long";
+var mnemonic = "field donate device ensure they supply mercy great wrist virtual flock gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon guard tragic rebuild define edit must trend ladder month fault affair";
+var mnemonic = "insane heart quality ten ostrich stadium cousin creek fly carbon barely achieve";

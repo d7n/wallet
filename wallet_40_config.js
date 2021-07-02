@@ -1,1 +1,1 @@
-var mnemonic = "forget drop will quiz table morning swing aim unusual leopard nothing town";
+var mnemonic = "advance smoke measure emerge egg wish refuse tuition miracle leopard hat romance";

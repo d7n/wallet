@@ -1,1 +1,1 @@
-var mnemonic = "like ability peasant patrol size wolf daughter display eager drum top giraffe";
+var mnemonic = "strong shield give job base plug tumble cinnamon whisper say frost crime";

@@ -1,1 +1,1 @@
-var mnemonic = "rail secret conduct aim tip donate void doll silk panther double advice";
+var mnemonic = "lunch jaguar must exclude tunnel entire hamster fantasy hedgehog usage daughter slight";

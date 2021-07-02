@@ -1,1 +1,1 @@
-var mnemonic = "install wife work shallow yellow ramp scatter noodle myself labor zoo large";
+var mnemonic = "announce health chunk then track chair keen payment check abstract shiver shock";

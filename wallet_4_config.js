@@ -1,1 +1,1 @@
-var mnemonic = "question panther clock fatal belt shell fruit brand hurry manage hedgehog economy";
+var mnemonic = "blouse actor journey snap angle claim fine mobile normal inner upgrade kitchen";

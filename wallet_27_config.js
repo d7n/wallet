@@ -1,1 +1,1 @@
-var mnemonic = "sauce chimney property lobster electric park message fix okay sort custom purchase";
+var mnemonic = "visual place improve enough sell east ramp public fold town magic exact";

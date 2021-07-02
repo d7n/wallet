@@ -1,1 +1,1 @@
-var mnemonic = "ten crunch fish share anchor ship saddle tragic bleak slogan caution rare";
+var mnemonic = "cricket banana owner eight crystal resist armed silent cable forum diagram fury";

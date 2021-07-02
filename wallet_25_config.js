@@ -1,1 +1,1 @@
-var mnemonic = "mass visit lab usage exclude quit puppy weapon can glare order blast";
+var mnemonic = "eyebrow melt sweet candy cabbage point amazing engine elbow broom liberty mistake";

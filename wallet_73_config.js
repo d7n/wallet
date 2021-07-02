@@ -1,1 +1,1 @@
-var mnemonic = "embody panic strong forum wagon jungle movie crunch rib floor assault margin";
+var mnemonic = "exit shuffle person patch vendor analyst tenant gorilla artwork scrub range total";

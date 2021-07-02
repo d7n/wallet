@@ -1,1 +1,1 @@
-var mnemonic = "raccoon match lend heart supreme novel try ride tell toward slim system";
+var mnemonic = "satoshi fossil scare boring embody similar space time onion legend grape have";

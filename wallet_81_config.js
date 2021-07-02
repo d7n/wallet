@@ -1,1 +1,1 @@
-var mnemonic = "bean swarm ride metal wet magic drama opinion fragile verb cloth camera";
+var mnemonic = "december party box bleak legend company inmate torch tank goat fatigue idea";

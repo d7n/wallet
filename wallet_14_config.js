@@ -1,1 +1,1 @@
-var mnemonic = "pluck observe marriage doll latin effort helmet hip box fit company force";
+var mnemonic = "sick interest repeat immune goat resource text short target under excess only";

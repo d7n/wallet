@@ -1,1 +1,1 @@
-var mnemonic = "myth rural fury gold symptom hazard shiver sure glory ask around master";
+var mnemonic = "slab scout april stadium sword vendor manual crash wonder language ladder need";

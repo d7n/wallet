@@ -1,1 +1,1 @@
-var mnemonic = "range priority evoke icon thunder light health evolve shy harsh decorate transfer";
+var mnemonic = "client bottom tackle text require wrong rocket print forest tent visa cool";

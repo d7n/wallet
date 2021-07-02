@@ -1,1 +1,1 @@
-var mnemonic = "cruel book close draw staff dad perfect weasel easily rubber chuckle half";
+var mnemonic = "rebel hotel grit case base upset base letter cable pause parent boy";

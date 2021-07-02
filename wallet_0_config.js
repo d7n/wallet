@@ -1,1 +1,1 @@
-var mnemonic = "bag east call flame creek fly jazz wood bulb aerobic typical oven";
+var mnemonic = "cabin title safe extra cup antique gasp sun buyer tiger equal soap";

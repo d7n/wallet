@@ -1,1 +1,1 @@
-var mnemonic = "angry infant velvet journey cupboard issue squirrel expand include recipe slam exist";
+var mnemonic = "nothing pepper climb citizen salad tortoise glimpse survey pull outer alien draft";

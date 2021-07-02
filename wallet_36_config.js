@@ -1,1 +1,1 @@
-var mnemonic = "destroy doll park kind reunion prosper grit obvious concert follow transfer neutral";
+var mnemonic = "spice dumb reunion bread sad lock lake hunt wrestle indicate fiber dawn";

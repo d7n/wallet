@@ -1,1 +1,1 @@
-var mnemonic = "flavor purity jungle surge pretty net ivory barely lonely large circle output";
+var mnemonic = "consider enroll sand federal broccoli envelope dune lecture village pistol attack burden";

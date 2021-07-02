@@ -1,1 +1,1 @@
-var mnemonic = "turkey verify sun hunt envelope banner version demand various afraid electric coral";
+var mnemonic = "miracle master wedding assume saddle repeat unfair depend cloud secret cherry practice";

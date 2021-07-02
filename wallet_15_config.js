@@ -1,1 +1,1 @@
-var mnemonic = "donkey mouse latin story end palm poverty suit safe process clown forest";
+var mnemonic = "flush glare frequent text frown quality awful dinosaur trash sentence bench dash";

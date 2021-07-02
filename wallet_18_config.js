@@ -1,1 +1,1 @@
-var mnemonic = "birth anchor good orient path avocado throw oval deliver more super toss";
+var mnemonic = "tide pretty west finish index occur tip knock truly matrix fruit glide";

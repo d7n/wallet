@@ -1,1 +1,1 @@
-var mnemonic = "spare dice range trim unfair age mother proud defense warrior obtain celery";
+var mnemonic = "excite person motion leaf album barrel inhale error lawsuit main wolf risk";

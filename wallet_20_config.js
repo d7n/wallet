@@ -1,1 +1,1 @@
-var mnemonic = "good gown rib increase ginger rubber polar dose orphan impose reopen zero";
+var mnemonic = "chapter mercy cake olive crater prefer cactus globe normal portion cook junk";

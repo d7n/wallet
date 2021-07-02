@@ -1,1 +1,1 @@
-var mnemonic = "extra vanish acoustic still hen blouse spray pizza march chapter cupboard chalk";
+var mnemonic = "faculty melt kind walnut addict spare spin join cable useless reflect smooth";

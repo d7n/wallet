@@ -1,1 +1,1 @@
-var mnemonic = "youth tube stick private crawl kite trigger bench fantasy fame feature machine";
+var mnemonic = "story boring pave title same deputy kangaroo situate vanish tape camera despair";

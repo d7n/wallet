@@ -1,1 +1,1 @@
-var mnemonic = "special ride where cave final oil only age turtle nominee random order";
+var mnemonic = "excess deposit major above trigger size promote loyal pool elevator brave fine";

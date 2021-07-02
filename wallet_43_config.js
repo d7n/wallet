@@ -1,1 +1,1 @@
-var mnemonic = "sense sun aunt enhance dove pet crime luxury bid else daring circle";
+var mnemonic = "city scatter come lyrics stone very camp omit budget hurt inflict manage";

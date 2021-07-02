@@ -1,1 +1,1 @@
-var mnemonic = "detect hope again explain card argue upper letter cycle nuclear talent hungry";
+var mnemonic = "huge source awake glass process invest spirit panther field cricket job purpose";

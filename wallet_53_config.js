@@ -1,1 +1,1 @@
-var mnemonic = "resource nasty mesh silly radar involve salad license witness mixture firm pelican";
+var mnemonic = "alley universe word sleep media earth hello dumb riot they scissors bulk";

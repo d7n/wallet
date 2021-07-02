@@ -1,1 +1,1 @@
-var mnemonic = "mad adult wing pony finish tape online fragile board urge charge nothing";
+var mnemonic = "axis truth glow sick pave amount adjust copper health jump property song";

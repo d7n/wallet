@@ -1,1 +1,1 @@
-var mnemonic = "glad potato acoustic talent fold what pottery innocent film dignity lawsuit urban";
+var mnemonic = "ancient top fury surge ethics either proof scissors width trim juice equal";

@@ -1,1 +1,1 @@
-var mnemonic = "fit pact rival gesture repeat dutch chest believe approve sure grace warrior";
+var mnemonic = "cupboard need artist account fork hire term smile crunch inject work just";

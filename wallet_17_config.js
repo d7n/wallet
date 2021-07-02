@@ -1,1 +1,1 @@
-var mnemonic = "attract fade return master mechanic tip north congress neglect detail fever shield";
+var mnemonic = "panic when volcano hire envelope reveal push truck east option property grain";

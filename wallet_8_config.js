@@ -1,1 +1,1 @@
-var mnemonic = "aunt sea panther deal predict round play alcohol worry forum razor ready";
+var mnemonic = "pen panda enable husband chuckle pool deposit ankle duty window dove hamster";

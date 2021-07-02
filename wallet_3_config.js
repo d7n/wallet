@@ -1,1 +1,1 @@
-var mnemonic = "monkey private match replace rare sample tenant large dance judge follow lesson";
+var mnemonic = "heavy club burst burger fat violin very swarm lion ecology zoo secret";

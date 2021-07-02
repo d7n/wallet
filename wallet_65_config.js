@@ -1,1 +1,1 @@
-var mnemonic = "omit clinic symptom dust cruel enjoy exchange real destroy promote useless other";
+var mnemonic = "recall silver come brand toddler truth soup bronze false delay business peace";

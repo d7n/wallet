@@ -1,1 +1,1 @@
-var mnemonic = "fix boy expand palm lend salute dawn foot violin property dose clap";
+var mnemonic = "sport bonus very fox slab suffer ritual dentist main debris maple arch";

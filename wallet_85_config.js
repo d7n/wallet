@@ -1,1 +1,1 @@
-var mnemonic = "swap crowd lady excuse drift nerve amateur meat humor garbage sing cheese";
+var mnemonic = "phrase control right tonight frequent symbol enrich holiday intact quick crane surge";

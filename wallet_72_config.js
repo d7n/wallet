@@ -1,1 +1,1 @@
-var mnemonic = "enemy winter winter veteran silent argue biology attend swim occur trouble brave";
+var mnemonic = "throw green wrong hold giggle actress sibling bounce bleak latin proud length";

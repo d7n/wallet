@@ -1,1 +1,1 @@
-var mnemonic = "rigid ship glance useful utility naive hidden exact gloom canvas seminar skirt";
+var mnemonic = "video news car canoe repair hood civil search word grape gesture exact";

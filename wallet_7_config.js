@@ -1,1 +1,1 @@
-var mnemonic = "drink diagram repeat shallow version cheap box vapor lazy roast cloud reopen";
+var mnemonic = "beauty inquiry confirm mother width unfair marriage theory autumn monitor sphere decline";

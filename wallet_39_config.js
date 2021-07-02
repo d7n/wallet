@@ -1,1 +1,1 @@
-var mnemonic = "lazy quit verify eternal popular evil manage leg write trophy bundle thrive";
+var mnemonic = "script debate invest loop review between shoe oblige slam devote inner turn";

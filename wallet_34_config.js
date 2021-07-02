@@ -1,1 +1,1 @@
-var mnemonic = "dynamic man upon insane knock hold century virtual talent cradle program acoustic";
+var mnemonic = "sad flee birth mix rate dirt clown shift flavor chef honey goose";

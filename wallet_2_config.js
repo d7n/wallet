@@ -1,1 +1,1 @@
-var mnemonic = "giraffe wrap wagon lift wolf parrot dove foil advice flash online organ";
+var mnemonic = "area trash category print rubber equal whale wear jungle click decide away";

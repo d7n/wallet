@@ -1,1 +1,1 @@
-var mnemonic = "quit jump toss slice transfer radar scout trigger arctic forward shy fish";
+var mnemonic = "robot describe fiscal practice fish find indoor virus cool roast enlist toast";

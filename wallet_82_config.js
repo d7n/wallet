@@ -1,1 +1,1 @@
-var mnemonic = "winter effort trick embrace actual dog police saddle salon fragile consider spread";
+var mnemonic = "finish country craft grant romance nothing long deal liar move amused walnut";

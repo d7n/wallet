@@ -1,1 +1,1 @@
-var mnemonic = "area patient square fault dizzy pulse inform scene toward crazy settle route";
+var mnemonic = "lunar vicious upon poem combine supreme dolphin occur fun bronze drink season";

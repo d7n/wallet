@@ -1,1 +1,1 @@
-var mnemonic = "industry pet rally manage fat focus tell miss fiction slim little govern";
+var mnemonic = "fitness alone warrior number buddy come east maid vicious kit save toward";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness case drip chunk season sadness awake jeans improve enter razor equip";
+var mnemonic = "gain van crime video pear brother picnic float six robot settle own";

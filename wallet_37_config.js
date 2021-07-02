@@ -1,1 +1,1 @@
-var mnemonic = "season country grow still shy exhaust indicate debris odor fetch leg vintage";
+var mnemonic = "faith drill update donate blouse goose spot joy seed illegal monster spy";

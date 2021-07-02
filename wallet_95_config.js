@@ -1,1 +1,1 @@
-var mnemonic = "busy meat surface timber rug broccoli scrub fame second flip jar else";
+var mnemonic = "few post one boil umbrella siege wagon earth fetch volcano solution sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "action blanket orphan hollow tree until sponsor damp cinnamon spike truck kangaroo";
+var mnemonic = "vessel detail narrow fit later jump repeat wash venue soon extend satisfy";

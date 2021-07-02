@@ -1,1 +1,1 @@
-var mnemonic = "caution length face eagle advance during digital dilemma drive joy worry swarm";
+var mnemonic = "throw draw oxygen okay retire analyst loud afford rapid refuse wagon try";

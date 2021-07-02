@@ -1,1 +1,1 @@
-var mnemonic = "traffic super cereal found silk wheel flee social job absurd mean dawn";
+var mnemonic = "grow spoil spirit orchard notable finger essay depart aisle hello frog clump";

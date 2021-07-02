@@ -1,1 +1,1 @@
-var mnemonic = "shed sea mango exact pole together program decide fix device face gloom";
+var mnemonic = "brisk term news dawn vendor ribbon attend float question voyage enrich leave";

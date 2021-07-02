@@ -1,1 +1,1 @@
-var mnemonic = "choice wash jaguar win gospel general image enlist disagree base remind drip";
+var mnemonic = "noodle script bunker seed umbrella tattoo today shoe soft chronic talk level";

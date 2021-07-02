@@ -1,1 +1,1 @@
-var mnemonic = "clean indicate royal inquiry salad pilot knock lyrics typical slot confirm board";
+var mnemonic = "cry false pass sign level clown midnight embark woman glimpse wheel apple";

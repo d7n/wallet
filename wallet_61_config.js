@@ -1,1 +1,1 @@
-var mnemonic = "present gauge talent note jealous episode insane hockey ladder equip assault practice";
+var mnemonic = "catch leopard rocket soft cabbage atom endorse lab client lecture island naive";

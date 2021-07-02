@@ -1,1 +1,1 @@
-var mnemonic = "cheese tilt tide pill earth give detail gauge write decline prevent dignity";
+var mnemonic = "used barely green run master burger sort write ready hip segment raven";

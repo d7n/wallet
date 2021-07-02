@@ -1,1 +1,1 @@
-var mnemonic = "left potato orange amateur august mask transfer casual caution write merge husband";
+var mnemonic = "task recycle exile scorpion wear virus leisure impact common recycle bench equal";

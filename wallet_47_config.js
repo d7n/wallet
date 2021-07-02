@@ -1,1 +1,1 @@
-var mnemonic = "veteran sister brown banner quick gorilla trust fetch dream chest daughter advance";
+var mnemonic = "good axis cool civil toddler proud stool again bargain inherit what green";

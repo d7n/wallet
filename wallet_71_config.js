@@ -1,1 +1,1 @@
-var mnemonic = "hospital speak reopen kind put raise pet civil evolve judge route cherry";
+var mnemonic = "wise meat enhance matrix crash same genius doctor utility version lava debris";

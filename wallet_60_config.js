@@ -1,1 +1,1 @@
-var mnemonic = "expire entire mistake boss neither scout saddle jump tribe hurt poet hurdle";
+var mnemonic = "direct runway duty more visit sustain noble broken hamster color quantum spawn";

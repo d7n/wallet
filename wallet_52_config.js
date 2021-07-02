@@ -1,1 +1,1 @@
-var mnemonic = "dinner bus grab tackle object belt ill end unable wise peace pepper";
+var mnemonic = "depart genre audit grief unknown penalty cave endless sand sausage luxury balance";

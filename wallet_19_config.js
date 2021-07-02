@@ -1,1 +1,1 @@
-var mnemonic = "enhance test sponsor deny clutch inch bind walnut double mistake tackle bicycle";
+var mnemonic = "derive like leave police loan also spy pair day develop matter other";

@@ -1,1 +1,1 @@
-var mnemonic = "expand enact inherit baby inform ignore obscure mother early dress museum math";
+var mnemonic = "situate skin forum inner alone ticket source silly cricket system bag blood";

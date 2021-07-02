@@ -1,1 +1,1 @@
-var mnemonic = "style awkward school thought kingdom business slim elephant this torch pudding media";
+var mnemonic = "coach solve mouse asset stadium earn wise alcohol shiver hat drum will";

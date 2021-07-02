@@ -1,1 +1,1 @@
-var mnemonic = "boss crucial negative rookie head erase evil grocery license ribbon era number";
+var mnemonic = "jazz ignore stool conduct anchor fix earth dismiss unusual differ ten adjust";

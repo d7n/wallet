@@ -1,1 +1,1 @@
-var mnemonic = "elegant prevent square avoid salmon response cupboard excess critic cake various define";
+var mnemonic = "buddy step banner begin what relief hungry rotate sleep day sell excess";

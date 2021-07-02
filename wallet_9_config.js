@@ -1,1 +1,1 @@
-var mnemonic = "lady eager ancient trophy giggle earn donkey extend salt toy ride rubber";
+var mnemonic = "laundry swarm group blood awful merge hire enemy print bridge outer ice";

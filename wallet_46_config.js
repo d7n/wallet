@@ -1,1 +1,1 @@
-var mnemonic = "artist grief trick merry link sort hood foam sunset sad alert source";
+var mnemonic = "grant master course divert thumb sign make comic cloud oyster grant useful";

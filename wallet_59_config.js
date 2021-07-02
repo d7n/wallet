@@ -1,1 +1,1 @@
-var mnemonic = "dice lift prevent deposit midnight resource city harbor heart pattern celery wisdom";
+var mnemonic = "crucial measure diesel asthma prosper record anger decline follow hope engine tissue";

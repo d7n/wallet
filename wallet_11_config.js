@@ -1,1 +1,1 @@
-var mnemonic = "depart unaware example test coyote jazz inmate rain price solve animal step";
+var mnemonic = "moon cave kingdom deputy upon display miracle pottery sight winter hurry tackle";

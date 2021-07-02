@@ -1,1 +1,1 @@
-var mnemonic = "input ability common develop fantasy matrix town picnic climb sense tell remain";
+var mnemonic = "tent you hybrid dial vanish churn canvas stone pizza local business opera";

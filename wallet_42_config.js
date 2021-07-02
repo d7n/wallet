@@ -1,1 +1,1 @@
-var mnemonic = "scale buddy salmon pass festival topic behind curve web zero sound symbol";
+var mnemonic = "size embark crazy suggest exhibit abandon mass gossip layer atom drink palm";

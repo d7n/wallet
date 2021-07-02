@@ -1,1 +1,1 @@
-var mnemonic = "agree same bone hockey horror labor net taxi learn ramp hospital involve";
+var mnemonic = "rose produce sausage bunker among pizza curtain problem jungle garlic vital caught";

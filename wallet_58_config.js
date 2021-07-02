@@ -1,1 +1,1 @@
-var mnemonic = "loud region sentence airport remain inhale joy they neutral fury recipe mistake";
+var mnemonic = "recall lawsuit leader verb keep bone hunt camera phrase hub fluid input";

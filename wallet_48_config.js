@@ -1,1 +1,1 @@
-var mnemonic = "gentle enter sun trumpet net vacant snack gesture sail vicious clip fault";
+var mnemonic = "lunar pony symbol ski frog equip dumb rent model foam occur taxi";

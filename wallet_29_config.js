@@ -1,1 +1,1 @@
-var mnemonic = "endorse boat auto flavor decline barrel spoil absurd until pig castle child";
+var mnemonic = "shell sunset food fever inherit actual adjust horn salute typical educate century";

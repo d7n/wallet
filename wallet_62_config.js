@@ -1,1 +1,1 @@
-var mnemonic = "situate avoid volume vital assume sense lazy wink wall tooth oak right";
+var mnemonic = "usage system unfold hill mixture age twelve puppy icon cactus palace infant";

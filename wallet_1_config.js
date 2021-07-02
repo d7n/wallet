@@ -1,1 +1,1 @@
-var mnemonic = "across sight grab artefact amazing odor teach happy struggle coconut mule throw";
+var mnemonic = "ship cereal scale never duty behave salon arrow voyage orbit either usage";

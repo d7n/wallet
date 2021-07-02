@@ -1,1 +1,1 @@
-var mnemonic = "genius blouse evoke butter display depend miracle deer narrow manage crunch exclude";
+var mnemonic = "tone federal awake roast candy submit clown gloom poet host frost vivid";

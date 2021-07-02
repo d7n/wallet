@@ -1,1 +1,1 @@
-var mnemonic = "story tribe risk celery ritual describe drama spatial rookie spell witness field";
+var mnemonic = "habit swear napkin cash hurry link protect rifle labor diet party banana";

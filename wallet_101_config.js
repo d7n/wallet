@@ -1,1 +1,1 @@
-var mnemonic = "lyrics shrug bind switch forest wreck flee absurd stick gain extend silver";
+var mnemonic = "final dolphin vague book modify manual south foster green believe decide rescue";

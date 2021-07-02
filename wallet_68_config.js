@@ -1,1 +1,1 @@
-var mnemonic = "flight wear flock snack solid critic gold radar will athlete amused debris";
+var mnemonic = "parrot latin toddler season renew regret margin dad hill please faith year";

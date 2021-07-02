@@ -1,1 +1,1 @@
-var mnemonic = "finish eye elder hedgehog entry empower case orphan wash toast rich border";
+var mnemonic = "omit client mansion vessel column enjoy spot news shine garlic ketchup holiday";

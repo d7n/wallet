@@ -1,1 +1,1 @@
-var mnemonic = "tornado educate dance peasant maid person parade renew repeat giraffe eye clay";
+var mnemonic = "plastic salute two fork delay wish only defense adapt acquire fragile cargo";

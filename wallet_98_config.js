@@ -1,1 +1,1 @@
-var mnemonic = "pave essay empty acid void trumpet ginger review deer estate subject soccer";
+var mnemonic = "option pitch dune current skill toy bread knee nerve key ten daring";
