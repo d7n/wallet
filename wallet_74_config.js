@@ -1,1 +1,1 @@
-var mnemonic = "forum save wild immune crisp senior trap ecology ceiling electric train faith";
+var mnemonic = "improve ship shove link rebel dial fee cram gravity stick bachelor legend";

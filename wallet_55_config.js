@@ -1,1 +1,1 @@
-var mnemonic = "merge anger pass naive end minimum flash list say hero trick retreat";
+var mnemonic = "hospital faith void upgrade train effort plunge design resemble brain response frog";

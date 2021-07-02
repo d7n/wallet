@@ -1,1 +1,1 @@
-var mnemonic = "remind raven delay beauty chuckle they flat trust bleak song purpose six";
+var mnemonic = "receive table bomb tool bounce hill bubble law cloth awesome fold student";

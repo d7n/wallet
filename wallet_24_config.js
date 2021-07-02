@@ -1,1 +1,1 @@
-var mnemonic = "aspect owner scale napkin shift burst neither swap dirt tragic great unusual";
+var mnemonic = "bread dress remember defy attend neglect upset shallow erode lab firm make";

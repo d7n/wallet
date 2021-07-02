@@ -1,1 +1,1 @@
-var mnemonic = "erupt oblige magnet rocket abuse gap wing blade wool off goddess glide";
+var mnemonic = "humor around matter catch auction age sure habit elite faint conduct budget";

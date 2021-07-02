@@ -1,1 +1,1 @@
-var mnemonic = "tuition trigger quality wet latin spirit child reason easily remove isolate coach";
+var mnemonic = "slim absent lounge frequent mass rabbit bottom file puppy chaos ostrich label";

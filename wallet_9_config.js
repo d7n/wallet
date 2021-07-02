@@ -1,1 +1,1 @@
-var mnemonic = "pair angle uniform whale equip dice tunnel student west brick hat only";
+var mnemonic = "accuse price wrong energy quantum demise note arrive bird ladder aware find";

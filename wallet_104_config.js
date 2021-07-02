@@ -1,1 +1,1 @@
-var mnemonic = "alone ordinary speak burden govern swing harbor potato patrol paddle angry term";
+var mnemonic = "field high awesome leader identify expect snake heavy market ramp despair total";

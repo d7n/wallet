@@ -1,1 +1,1 @@
-var mnemonic = "artefact dish great vehicle happy common two easy click predict century bone";
+var mnemonic = "hour twice grit pupil kitchen female skate sand shoe shine clip degree";

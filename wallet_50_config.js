@@ -1,1 +1,1 @@
-var mnemonic = "door carpet exchange lady family fancy surround skill chalk debris shoulder member";
+var mnemonic = "mass alien fever repeat embody conduct evil child six diet pizza hour";

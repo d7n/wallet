@@ -1,1 +1,1 @@
-var mnemonic = "nest battle jewel object absurd assume layer adjust joke have ordinary seek";
+var mnemonic = "decide bone harbor gravity have mango reduce skull cute private thumb token";

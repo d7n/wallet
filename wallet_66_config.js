@@ -1,1 +1,1 @@
-var mnemonic = "cook split ugly twist report recall flavor turkey suspect dirt animal worth";
+var mnemonic = "casino category size other same remain game move predict can brain drastic";

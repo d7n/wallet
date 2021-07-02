@@ -1,1 +1,1 @@
-var mnemonic = "stuff sorry punch cool unknown false limit grab broom series tooth whale";
+var mnemonic = "trumpet sight bless olympic drip cradle mixture resemble source chuckle milk prison";

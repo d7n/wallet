@@ -1,1 +1,1 @@
-var mnemonic = "luggage become patient fury visual pencil suffer birth dress organ mystery thought";
+var mnemonic = "brick turkey cereal pig grab glare foot nephew response endless hello master";

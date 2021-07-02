@@ -1,1 +1,1 @@
-var mnemonic = "hire hub soup captain pottery faculty opera grit merge atom soccer club";
+var mnemonic = "wedding ripple sound sentence area betray lonely lion token picnic wing add";

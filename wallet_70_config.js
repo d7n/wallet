@@ -1,1 +1,1 @@
-var mnemonic = "sibling music input spare pipe earth dress tennis skirt coconut start cream";
+var mnemonic = "mixed kidney code visit reject deposit silly wear knock dose reveal inquiry";

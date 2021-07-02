@@ -1,1 +1,1 @@
-var mnemonic = "machine lounge wide artist feel earth farm fresh virtual deposit twelve nest";
+var mnemonic = "bean stumble square planet miracle grain despair render raccoon tray age wage";

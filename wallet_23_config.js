@@ -1,1 +1,1 @@
-var mnemonic = "case obvious wink fish bone quality enjoy focus awesome sleep promote imitate";
+var mnemonic = "soldier orange drum next monitor sting pair tool ecology pass special payment";

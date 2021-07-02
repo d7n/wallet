@@ -1,1 +1,1 @@
-var mnemonic = "trap tide rule pave can bamboo soft effort alarm practice turkey caught";
+var mnemonic = "action submit rabbit rural winner field cushion nose snake best kitten unfold";

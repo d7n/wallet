@@ -1,1 +1,1 @@
-var mnemonic = "snack tip wolf emotion hamster tail uncover scout motion project front horror";
+var mnemonic = "avocado harsh hair morning marine because inflict enjoy battle doll hint brother";

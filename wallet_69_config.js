@@ -1,1 +1,1 @@
-var mnemonic = "scale tiger thing program gap display exhaust anxiety vanish frost cry talk";
+var mnemonic = "opera ticket amazing cattle museum tiny poem wrong office hidden rice clever";

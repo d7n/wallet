@@ -1,1 +1,1 @@
-var mnemonic = "empty flight faith water slide flag morning recipe letter slim slow uniform";
+var mnemonic = "soccer tornado box engine dirt soup amazing theory click report deposit deliver";

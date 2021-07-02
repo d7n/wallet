@@ -1,1 +1,1 @@
-var mnemonic = "trap ketchup surface gossip tissue clerk setup bachelor hockey adjust route film";
+var mnemonic = "today salad author lock quiz day crowd depend enter situate improve ticket";

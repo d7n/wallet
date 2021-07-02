@@ -1,1 +1,1 @@
-var mnemonic = "two coconut bacon sight away timber quality try genuine betray rubber educate";
+var mnemonic = "swear wise struggle retire help maximum boost master language build curtain chapter";

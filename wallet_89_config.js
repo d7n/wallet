@@ -1,1 +1,1 @@
-var mnemonic = "push perfect snack wagon bleak frozen agree myself what toy fiber neutral";
+var mnemonic = "zebra color purchase oil finger can win trade gossip drive observe whip";

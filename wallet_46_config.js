@@ -1,1 +1,1 @@
-var mnemonic = "mesh color gloom umbrella know blood april hat page project cabbage dash";
+var mnemonic = "occur help fetch quality arena inmate door mean reform wheat accident split";

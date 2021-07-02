@@ -1,1 +1,1 @@
-var mnemonic = "blur night tail video sing better media melt sadness lock engage zero";
+var mnemonic = "squeeze globe chest iron cheese car silly split fancy mix please seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "iron mule print bicycle glad sniff panther bronze six pet mind champion";
+var mnemonic = "water resource tide glad hurdle cushion wrestle great mixture capital margin stadium";

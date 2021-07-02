@@ -1,1 +1,1 @@
-var mnemonic = "stay fame bargain same letter perfect wood pistol olive empower immune network";
+var mnemonic = "used gaze earn hard rack lady avocado crouch peace valley sell shrug";

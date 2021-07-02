@@ -1,1 +1,1 @@
-var mnemonic = "crawl depth chapter fresh dawn fatal tired dolphin ankle gun capable economy";
+var mnemonic = "limb urban empower document collect teach cause flat survey culture near ill";

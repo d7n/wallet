@@ -1,1 +1,1 @@
-var mnemonic = "icon wave before camera awful enroll kiss scrap dance health sniff trophy";
+var mnemonic = "smart buzz twenty improve disease tilt crime subway right addict panda lunar";

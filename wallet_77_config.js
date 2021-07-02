@@ -1,1 +1,1 @@
-var mnemonic = "code mercy wise eager choice defy weapon cave crunch mercy marine hazard";
+var mnemonic = "net ordinary much asthma rubber guide drift begin swap swarm kidney fresh";

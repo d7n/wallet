@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin inquiry actual odor east cloth interest oil tennis rocket joy myth";
+var mnemonic = "decline subject execute twin fresh net list melt shell science bunker recall";

@@ -1,1 +1,1 @@
-var mnemonic = "swing adapt over latin bulk honey outer orchard glad hair welcome tree";
+var mnemonic = "social scorpion drill world once chunk panel price burst ritual month impose";

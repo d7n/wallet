@@ -1,1 +1,1 @@
-var mnemonic = "strike armor pen small ridge boil destroy pause metal illness drip talk";
+var mnemonic = "mixture detail quiz term fence advice exchange tent call only session where";

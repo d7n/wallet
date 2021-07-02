@@ -1,1 +1,1 @@
-var mnemonic = "uphold auto myself jazz monkey endorse disease connect wave ancient amount stove";
+var mnemonic = "worry opera subway slow speed sunset potato miracle lecture resist damp excess";

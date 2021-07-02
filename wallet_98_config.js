@@ -1,1 +1,1 @@
-var mnemonic = "sponsor brisk trigger orient cloth dream harvest thumb lemon where sock pledge";
+var mnemonic = "ill bronze erupt reflect vague weasel sadness envelope jazz chair step zone";

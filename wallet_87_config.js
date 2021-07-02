@@ -1,1 +1,1 @@
-var mnemonic = "can weapon size burst close wink issue moon nice nasty forum fabric";
+var mnemonic = "life logic great section find celery liberty leader tuna glow sure recycle";

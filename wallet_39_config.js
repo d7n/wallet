@@ -1,1 +1,1 @@
-var mnemonic = "decide cat blush jealous tank matter outer ranch dream pink cake corn";
+var mnemonic = "crazy jar reveal easy verify garlic quiz patient moment great super supply";

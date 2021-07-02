@@ -1,1 +1,1 @@
-var mnemonic = "humble impose someone rack undo magnet bamboo toward ozone maple garment number";
+var mnemonic = "custom tree coach rhythm soldier capital often cool exotic economy pyramid enhance";

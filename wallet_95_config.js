@@ -1,1 +1,1 @@
-var mnemonic = "puppy relief filter news gaze tent model orbit conduct cattle text mistake";
+var mnemonic = "emotion manage syrup club push other virus forum master accident century lawsuit";

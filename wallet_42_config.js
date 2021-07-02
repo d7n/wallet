@@ -1,1 +1,1 @@
-var mnemonic = "near two cabin critic love flush busy jelly cliff invest silk picture";
+var mnemonic = "artist zero accident doll swap express lava chaos review rebel violin insect";

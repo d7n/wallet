@@ -1,1 +1,1 @@
-var mnemonic = "equip begin keen grape ankle click divide razor step snow economy wish";
+var mnemonic = "lawn embrace arrow faith way mutual hurdle believe project boring file ball";

@@ -1,1 +1,1 @@
-var mnemonic = "member post leg once vibrant chimney melody maximum depth liberty vacant merge";
+var mnemonic = "oxygen grab invest slender industry truth angle can couch unveil tongue diary";

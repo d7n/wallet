@@ -1,1 +1,1 @@
-var mnemonic = "letter scheme staff able fault rice kitchen case prosper casino extra liar";
+var mnemonic = "blouse stand bread rural more camp diamond quote enrich recall ball crazy";

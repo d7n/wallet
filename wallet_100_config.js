@@ -1,1 +1,1 @@
-var mnemonic = "ten crane tongue defy course harsh lucky narrow august ritual nest magic";
+var mnemonic = "credit school burden garlic bargain scatter sense zebra captain father puppy cave";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce poverty culture december fire broom shrimp habit cloth process lemon final";
+var mnemonic = "appear excess provide struggle concert unfair together drill gap drink good orange";

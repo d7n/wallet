@@ -1,1 +1,1 @@
-var mnemonic = "impulse husband happy glad scorpion believe tone elder spirit this clown dumb";
+var mnemonic = "wide news skate pave divorce sort web false multiply quality aisle guitar";

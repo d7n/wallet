@@ -1,1 +1,1 @@
-var mnemonic = "quality affair response among any mobile cabin fox jeans ignore inside wall";
+var mnemonic = "asthma permit melody denial quiz humor ignore squirrel offer annual kiss harvest";

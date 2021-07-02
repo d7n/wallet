@@ -1,1 +1,1 @@
-var mnemonic = "blanket know banana chunk void token motion door will fun delay click";
+var mnemonic = "lava fury run remind armed detail leg gaze chronic divert weasel public";

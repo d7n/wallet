@@ -1,1 +1,1 @@
-var mnemonic = "door lend horror bitter breeze extra rice jazz expire december deposit false";
+var mnemonic = "frost skull timber toilet globe leopard grant sort alley shaft finger summer";

@@ -1,1 +1,1 @@
-var mnemonic = "thank drink clump rhythm expose crisp fox feel risk sphere victory shrimp";
+var mnemonic = "display scan math crew cruel awkward simple water basket clip retreat market";

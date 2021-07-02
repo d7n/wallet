@@ -1,1 +1,1 @@
-var mnemonic = "sadness toward broccoli giant luxury profit wise excuse allow render ride honey";
+var mnemonic = "hub fragile genuine unfair way inform sausage test express syrup inquiry tourist";

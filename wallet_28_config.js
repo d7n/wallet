@@ -1,1 +1,1 @@
-var mnemonic = "cheese action vote glare size run shoe cage emerge wisdom bird odor";
+var mnemonic = "candy bar intact badge rapid remain point tobacco word labor wasp budget";

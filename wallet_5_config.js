@@ -1,1 +1,1 @@
-var mnemonic = "dignity ripple party short host rescue quantum crush laugh disease soup helmet";
+var mnemonic = "stick sunset vast brown bulk fee sick way evolve army useful faint";

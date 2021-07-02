@@ -1,1 +1,1 @@
-var mnemonic = "cry clown clever inmate usual keep april winner address cake need gas";
+var mnemonic = "toast company upper found leave wear again fluid vast boy garbage december";

@@ -1,1 +1,1 @@
-var mnemonic = "wage media churn success divert brother over snap steak soccer lyrics latin";
+var mnemonic = "reunion expose old problem video drop excite ramp drink puppy summer photo";

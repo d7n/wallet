@@ -1,1 +1,1 @@
-var mnemonic = "elephant erupt elder confirm office bulk artist paddle skin junior sunny juice";
+var mnemonic = "couch error chalk treat device win monster limb figure coin hobby bird";

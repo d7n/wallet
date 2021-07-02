@@ -1,1 +1,1 @@
-var mnemonic = "dry bubble era brass skill badge fun sad item garlic country brother";
+var mnemonic = "economy have melody butter absorb bunker scan almost exile picture exercise vote";

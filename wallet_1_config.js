@@ -1,1 +1,1 @@
-var mnemonic = "street unable lawn unveil pluck regular journey disease nose emerge truth eyebrow";
+var mnemonic = "round glimpse urge long resemble decline version mistake alpha divert fashion mercy";

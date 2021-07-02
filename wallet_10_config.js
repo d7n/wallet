@@ -1,1 +1,1 @@
-var mnemonic = "purpose scheme sand liar clap print eyebrow aisle odor fat buffalo convince";
+var mnemonic = "recall teach now fashion glove attend rapid spatial box jaguar beef key";

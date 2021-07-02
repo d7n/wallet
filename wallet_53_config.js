@@ -1,1 +1,1 @@
-var mnemonic = "satoshi hollow horse bind one family silly stadium shed merge satoshi net";
+var mnemonic = "risk shift nest interest aerobic mix tiger seat magnet scissors often kiwi";

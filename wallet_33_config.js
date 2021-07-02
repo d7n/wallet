@@ -1,1 +1,1 @@
-var mnemonic = "proof unit sting true bargain feel ranch brush acquire soap faculty gloom";
+var mnemonic = "bomb wagon odor glory toward drive wheel apart degree august galaxy tiny";

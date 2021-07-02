@@ -1,1 +1,1 @@
-var mnemonic = "volcano measure transfer length palace divide trap glide will face supreme fire";
+var mnemonic = "sorry model unlock grain favorite error vicious gasp parade mention purity honey";

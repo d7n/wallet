@@ -1,1 +1,1 @@
-var mnemonic = "umbrella salmon aisle carbon west bicycle twice fluid hybrid north other possible";
+var mnemonic = "hunt slam setup agent attract water bamboo tower liar sword build elder";

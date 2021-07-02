@@ -1,1 +1,1 @@
-var mnemonic = "fetch satisfy double scatter food curve better left glance scare range bullet";
+var mnemonic = "magic carry hole glide ketchup sudden empty draft suffer ice bubble smart";

@@ -1,1 +1,1 @@
-var mnemonic = "spot first time vintage execute diamond bicycle net demise quality other enforce";
+var mnemonic = "culture skull love ribbon cup cannon wide miss shift skull exercise emotion";

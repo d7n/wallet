@@ -1,1 +1,1 @@
-var mnemonic = "olympic hip into include balcony base pig supreme pencil behave asthma speak";
+var mnemonic = "able color donor praise just uncover about scheme input beyond candy income";

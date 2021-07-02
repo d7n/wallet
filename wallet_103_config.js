@@ -1,1 +1,1 @@
-var mnemonic = "general supreme cause badge effort effort twice goddess tube puppy maple acid";
+var mnemonic = "anxiety argue earn arrest easily truth caution universe spot discover hour truly";

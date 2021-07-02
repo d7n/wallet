@@ -1,1 +1,1 @@
-var mnemonic = "still stone spice smart member remain stable crater risk wise pipe siren";
+var mnemonic = "utility thing strike mention long vote slot infant wave banner appear divide";

@@ -1,1 +1,1 @@
-var mnemonic = "gate wise gym apart behind orange inner boss image clip era success";
+var mnemonic = "theme pull hub soccer coin clock base stem mutual armed use enough";

@@ -1,1 +1,1 @@
-var mnemonic = "unique fault nature draw north option polar broken cage grass liberty giraffe";
+var mnemonic = "picture mind exchange sustain pony width bread hour wait credit describe deny";

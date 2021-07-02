@@ -1,1 +1,1 @@
-var mnemonic = "observe wine deer above mechanic stick march salmon eternal stamp burst odor";
+var mnemonic = "crash remove tourist whale next jelly network board swim puzzle noodle extend";

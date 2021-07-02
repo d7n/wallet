@@ -1,1 +1,1 @@
-var mnemonic = "muscle play scheme total art inmate nephew garage tape since effort advance";
+var mnemonic = "chest creek shell regret expect echo aim nice truly mass peanut shallow";

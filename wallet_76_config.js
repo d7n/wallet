@@ -1,1 +1,1 @@
-var mnemonic = "faint deliver van bunker lock pencil search scene artefact paper enrich add";
+var mnemonic = "label tissue open lecture sock chronic stick stable box clinic cereal family";

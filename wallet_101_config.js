@@ -1,1 +1,1 @@
-var mnemonic = "window enrich toilet siren produce mask bamboo family become until matrix staff";
+var mnemonic = "spare witness behind practice razor mimic involve draft faculty stay indoor deliver";

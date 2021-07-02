@@ -1,1 +1,1 @@
-var mnemonic = "goose scale moon sock pupil learn hybrid music way large want sure";
+var mnemonic = "humble immune rural pupil acid sense oblige orient draft antique conduct swear";

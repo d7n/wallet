@@ -1,1 +1,1 @@
-var mnemonic = "bread gap harbor indoor trouble gentle absorb tennis evolve candy upon educate";
+var mnemonic = "vacant famous frog dove talk notice aunt length permit open palm wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "blush robot tape never enough worry arrange renew hire equip pluck lake";
+var mnemonic = "weasel clump provide target will shallow biology tonight excite problem cable response";

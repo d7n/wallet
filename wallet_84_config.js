@@ -1,1 +1,1 @@
-var mnemonic = "pave own pulp total battle service tobacco minimum midnight spoil field fly";
+var mnemonic = "scout giant chuckle install alien lizard atom gasp sister pig include crater";

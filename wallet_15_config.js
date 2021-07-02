@@ -1,1 +1,1 @@
-var mnemonic = "oval alone pretty deliver ship action boy detail shop abstract cool maze";
+var mnemonic = "magnet twice butter pipe destroy coach relief response rug estate damage fee";

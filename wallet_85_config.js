@@ -1,1 +1,1 @@
-var mnemonic = "capable awkward recall put color usual goose ready bring punch speed crumble";
+var mnemonic = "owner alien notice horror spawn wait fruit prosper body remind neutral police";

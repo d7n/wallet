@@ -1,1 +1,1 @@
-var mnemonic = "pupil collect mimic session stuff army message energy pipe milk attend prize";
+var mnemonic = "romance slab scout swap door catalog business mix badge home hedgehog trash";

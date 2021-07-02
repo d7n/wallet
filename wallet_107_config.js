@@ -1,1 +1,1 @@
-var mnemonic = "rug repeat leopard birth spoil safe pass enemy arrive input trumpet message";
+var mnemonic = "lunch govern jealous multiply very fabric amateur derive mixed pudding mad say";

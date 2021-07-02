@@ -1,1 +1,1 @@
-var mnemonic = "jungle nose web secret moon ugly profit library fancy swim obscure wise";
+var mnemonic = "regret curious release tunnel rough crunch reward release pepper ancient pizza chalk";

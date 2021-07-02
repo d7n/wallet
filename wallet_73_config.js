@@ -1,1 +1,1 @@
-var mnemonic = "tiger digital online satoshi coyote okay easy crash ordinary hair world sound";
+var mnemonic = "theory machine fringe harsh brave sample call squeeze business cruise use also";

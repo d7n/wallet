@@ -1,1 +1,1 @@
-var mnemonic = "risk hope simple daughter diesel famous often water grunt wide pool spin";
+var mnemonic = "endless sheriff vapor image patient venue estate sweet motion pet spatial quit";

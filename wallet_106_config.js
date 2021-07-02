@@ -1,1 +1,1 @@
-var mnemonic = "banana hotel jewel arm kick dash clay list south custom depth early";
+var mnemonic = "lyrics fuel custom produce parade wink ask kind fitness when tonight orange";

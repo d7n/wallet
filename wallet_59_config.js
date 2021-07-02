@@ -1,1 +1,1 @@
-var mnemonic = "there skull this renew gentle sport belt gown grape bid family tone";
+var mnemonic = "excite fitness earn slot left slim long best rule swing alone chief";

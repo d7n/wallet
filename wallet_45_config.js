@@ -1,1 +1,1 @@
-var mnemonic = "trip dentist manual slow carry earn reveal soda equal sorry roof session";
+var mnemonic = "distance enemy before air gather runway school under rotate fault eight window";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage harsh finger found miss glimpse code sea lake tourist rescue behind";
+var mnemonic = "pond you rely jazz asthma execute funny apart believe apology tuna job";

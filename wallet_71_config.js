@@ -1,1 +1,1 @@
-var mnemonic = "thunder off carry romance era tattoo ten kitchen globe million stick rude";
+var mnemonic = "improve domain vocal any oxygen purchase invest clean pull rally claw grape";

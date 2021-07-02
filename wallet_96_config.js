@@ -1,1 +1,1 @@
-var mnemonic = "slide voice insane private orbit practice ocean staff change priority victory bottom";
+var mnemonic = "risk tape album industry double possible equal buddy else price hungry suffer";
