@@ -1,1 +1,1 @@
-var mnemonic = "warrior inside best jar high record theme glove good journey unaware gauge";
+var mnemonic = "body liberty average phone type network gas prevent around idea sister horse";

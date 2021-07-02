@@ -1,1 +1,1 @@
-var mnemonic = "original drift talk rate adjust click recipe broken spoon vivid cup unique";
+var mnemonic = "neglect balcony filter region boat million identify bulb reveal once version copy";

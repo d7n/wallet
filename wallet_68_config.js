@@ -1,1 +1,1 @@
-var mnemonic = "bring similar topple shrimp burst final float knife random supply anxiety true";
+var mnemonic = "hand drill evoke exotic later planet photo share month hat elder relief";

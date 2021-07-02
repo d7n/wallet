@@ -1,1 +1,1 @@
-var mnemonic = "broccoli catch air want topic occur clarify border estate order know canyon";
+var mnemonic = "chase guilt agree trash wire gravity barely toss clarify mixture corn metal";

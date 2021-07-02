@@ -1,1 +1,1 @@
-var mnemonic = "romance cook spell trip fruit about ahead mountain weird march drip fit";
+var mnemonic = "focus camp confirm similar pudding cry flame witness tuition session review grow";

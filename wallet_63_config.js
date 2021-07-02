@@ -1,1 +1,1 @@
-var mnemonic = "satisfy clip certain direct vital foot rug crunch twist quit nose rotate";
+var mnemonic = "soon edge foil slogan history tilt false helmet help rebuild display what";

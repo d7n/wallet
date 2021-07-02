@@ -1,1 +1,1 @@
-var mnemonic = "motor inhale lawsuit tape comfort sustain vintage mandate airport trick swim crazy";
+var mnemonic = "extra inch misery guard fluid retreat child father remember work diamond simple";

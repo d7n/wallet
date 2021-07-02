@@ -1,1 +1,1 @@
-var mnemonic = "client inch orange correct click erupt stay virus electric trend trophy young";
+var mnemonic = "prosper drink ladder multiply pride account priority tool muscle now surprise goddess";

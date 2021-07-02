@@ -1,1 +1,1 @@
-var mnemonic = "rally snake blue blouse fortune myself gap under pelican all talent general";
+var mnemonic = "fetch tray fortune cloth glad where flag core want decade opinion describe";

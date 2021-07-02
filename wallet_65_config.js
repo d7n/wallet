@@ -1,1 +1,1 @@
-var mnemonic = "usage knock quote banana cloud never concert settle matrix daughter same student";
+var mnemonic = "clump base filter name fury slam main ripple capable motion shock smooth";

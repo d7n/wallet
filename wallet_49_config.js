@@ -1,1 +1,1 @@
-var mnemonic = "title east insane blue forum ozone resist erosion charge rack arrow silver";
+var mnemonic = "silly zone icon tone bid giant lazy army kick oak convince faint";

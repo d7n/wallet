@@ -1,1 +1,1 @@
-var mnemonic = "extend use avocado worry swap region pumpkin load ask swim clinic install";
+var mnemonic = "hood people limb melody record any clog spare pigeon kite tool uncover";

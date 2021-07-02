@@ -1,1 +1,1 @@
-var mnemonic = "recycle cat tape laundry chuckle faith garlic sight much quality sick envelope";
+var mnemonic = "permit identify little deny slow cool six online vivid chaos trophy budget";

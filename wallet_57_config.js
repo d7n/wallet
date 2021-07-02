@@ -1,1 +1,1 @@
-var mnemonic = "lion inform utility message embark dirt square scare burst tail scissors weather";
+var mnemonic = "struggle family cry planet avoid ribbon private beef kiwi corn owner exist";

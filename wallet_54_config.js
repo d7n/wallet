@@ -1,1 +1,1 @@
-var mnemonic = "galaxy garment arm deposit tilt chaos depend resemble question child afraid speak";
+var mnemonic = "lunar display dash push drip flip beauty monkey novel broccoli window toast";

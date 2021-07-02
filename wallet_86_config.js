@@ -1,1 +1,1 @@
-var mnemonic = "disease fragile auto case panel allow paddle skin blur grit economy sample";
+var mnemonic = "prefer ridge business blame clown debate salad draw ethics above nice dragon";

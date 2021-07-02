@@ -1,1 +1,1 @@
-var mnemonic = "bike cause undo december winter strike direct track fit camp legend tooth";
+var mnemonic = "vintage boat skate bitter flower forward ecology scene nice energy never confirm";

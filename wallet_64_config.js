@@ -1,1 +1,1 @@
-var mnemonic = "coach come tide lecture window hospital ethics apple sick pride hen jewel";
+var mnemonic = "hub spin fix little wood puppy option couple topic result top ripple";

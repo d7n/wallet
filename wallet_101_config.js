@@ -1,1 +1,1 @@
-var mnemonic = "cram whisper toilet traffic skate dish abstract among nice place spoil allow";
+var mnemonic = "guide monkey aerobic dirt tortoise load work hold section sound tragic help";

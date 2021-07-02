@@ -1,1 +1,1 @@
-var mnemonic = "bridge bread bread poet image text van crane warm announce skate toddler";
+var mnemonic = "strategy dance present make later truly drop only cousin hello duck movie";

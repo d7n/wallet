@@ -1,1 +1,1 @@
-var mnemonic = "main dust enrich flip salon kidney planet first coconut play jealous diesel";
+var mnemonic = "reveal nose home drink glare logic invest bar era defense cruel vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "spare body carbon cross obey basic sorry dinosaur sphere click resource exercise";
+var mnemonic = "frozen what behind audit club female clump creek squeeze sorry insect emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "pig error mercy sing genius link student protect above oil then project";
+var mnemonic = "weasel index enable peasant ski crunch imitate champion bomb junk rain level";

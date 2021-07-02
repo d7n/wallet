@@ -1,1 +1,1 @@
-var mnemonic = "very jelly wrap genuine orient portion cat police another upgrade casino labor";
+var mnemonic = "sound mention fly truly jacket video magic unusual shuffle can august tip";

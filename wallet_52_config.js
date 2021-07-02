@@ -1,1 +1,1 @@
-var mnemonic = "congress erosion neutral keep image climb state bunker giant atom creek inmate";
+var mnemonic = "surprise forward alarm message cargo alpha spoil medal urban gentle trim main";

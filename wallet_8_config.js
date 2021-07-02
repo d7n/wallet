@@ -1,1 +1,1 @@
-var mnemonic = "wait coral industry filter detail exit spider bid they flush slab nasty";
+var mnemonic = "enhance limb rude light history rapid visual kid major coil drop winner";

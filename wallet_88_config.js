@@ -1,1 +1,1 @@
-var mnemonic = "feed rail cart enforce detail garbage settle unhappy ceiling cricket weekend swarm";
+var mnemonic = "supreme chat dash tilt accuse afford liar wash utility canyon horse virus";

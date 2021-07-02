@@ -1,1 +1,1 @@
-var mnemonic = "meadow primary account control argue mention urban fetch empty peace pear use";
+var mnemonic = "fancy coast chaos giraffe feed project river exercise web ranch crime trend";

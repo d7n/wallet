@@ -1,1 +1,1 @@
-var mnemonic = "word promote dress job magic field rose false fever confirm hurdle service";
+var mnemonic = "dignity era depend rug defy velvet improve shift clinic artwork hen nut";

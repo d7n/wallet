@@ -1,1 +1,1 @@
-var mnemonic = "drift any depend humble grape wide sheriff insane skull segment rifle find";
+var mnemonic = "index cradle grace phrase donor document young pudding harbor estate kidney junior";

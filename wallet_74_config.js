@@ -1,1 +1,1 @@
-var mnemonic = "empty cactus craft royal husband twenty purity tree push town term turtle";
+var mnemonic = "curve detail copper suffer near crop maple scrub name size quote will";

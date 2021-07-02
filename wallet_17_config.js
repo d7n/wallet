@@ -1,1 +1,1 @@
-var mnemonic = "across human today oil hole myth mushroom employ erupt debris base satoshi";
+var mnemonic = "oven estate second buffalo found amount gesture orchard admit dynamic summer make";

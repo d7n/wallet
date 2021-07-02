@@ -1,1 +1,1 @@
-var mnemonic = "stomach dinner hero grunt prefer feel engage chalk pelican side panther thrive";
+var mnemonic = "young grape valid oven this tube farm become giraffe million fold lab";

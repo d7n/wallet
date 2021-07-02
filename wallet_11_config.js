@@ -1,1 +1,1 @@
-var mnemonic = "acid toilet tornado world obvious apple pottery under august inside doctor defense";
+var mnemonic = "clog obvious drill have twist bright corn head divide dry assault green";

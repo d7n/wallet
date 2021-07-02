@@ -1,1 +1,1 @@
-var mnemonic = "cheap scatter enrich mother entire brick pact physical grow happy border uphold";
+var mnemonic = "unfair reduce learn token minute cluster ordinary explain park brush armed auction";

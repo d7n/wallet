@@ -1,1 +1,1 @@
-var mnemonic = "flee hen agree celery carpet bright charge frequent border clever fold virus";
+var mnemonic = "farm already shove save balcony bridge remain regular attend engage visa fly";

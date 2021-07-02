@@ -1,1 +1,1 @@
-var mnemonic = "tank frame believe jaguar enable grocery canvas alcohol marine cabbage that actual";
+var mnemonic = "duck arena right art uphold image oak trick warfare garage mobile debate";

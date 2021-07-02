@@ -1,1 +1,1 @@
-var mnemonic = "digital tiger leg educate anchor warm main anger biology vacant vote spy";
+var mnemonic = "useless title river patient mind rail fitness valley despair burden wool ritual";

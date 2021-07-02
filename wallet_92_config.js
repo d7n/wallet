@@ -1,1 +1,1 @@
-var mnemonic = "gather trip month document lab tank clock modify magnet thrive minimum fan";
+var mnemonic = "pulp theory maximum false window neutral cause list enhance critic control weekend";

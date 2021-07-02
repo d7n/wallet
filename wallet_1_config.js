@@ -1,1 +1,1 @@
-var mnemonic = "worry erosion snake spider negative include wolf either ball reject antenna gesture";
+var mnemonic = "thrive subject worth siege tourist crumble very rough green main private record";

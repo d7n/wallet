@@ -1,1 +1,1 @@
-var mnemonic = "dizzy rally have inspire april road lizard sibling change sheriff keep laugh";
+var mnemonic = "weasel laugh voice artefact blossom tackle retreat grant mule carbon melt march";

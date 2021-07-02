@@ -1,1 +1,1 @@
-var mnemonic = "leaf lyrics impact catalog chest palm dinosaur blood friend rebuild thought wood";
+var mnemonic = "card fiscal guilt baby ethics upon fatal clever tongue second will peasant";

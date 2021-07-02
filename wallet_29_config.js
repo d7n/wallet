@@ -1,1 +1,1 @@
-var mnemonic = "spell apple broken raw impose artefact way slice photo attitude start fold";
+var mnemonic = "this twice legend ski lemon fossil limb shallow deposit electric napkin drill";

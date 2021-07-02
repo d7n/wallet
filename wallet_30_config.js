@@ -1,1 +1,1 @@
-var mnemonic = "economy embark shop omit immense divorce patrol fork lounge real noise bacon";
+var mnemonic = "door spice layer puppy foam grit frame shy long ginger combine virtual";

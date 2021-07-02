@@ -1,1 +1,1 @@
-var mnemonic = "clinic old section ahead abstract faith regular cable grief kid laugh coach";
+var mnemonic = "woman lounge fold project cliff august onion text primary rocket mirror dove";

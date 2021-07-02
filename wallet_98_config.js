@@ -1,1 +1,1 @@
-var mnemonic = "upon grunt sick seminar school cigar marriage age bind expand valid above";
+var mnemonic = "stadium soldier combine sand what lawn cause display attract blame survey dial";

@@ -1,1 +1,1 @@
-var mnemonic = "brass muscle banana stuff tank history ridge cover check sorry core combine";
+var mnemonic = "face crop vague chest pupil trade under journey fan common govern license";

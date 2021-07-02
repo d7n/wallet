@@ -1,1 +1,1 @@
-var mnemonic = "process fatal palace vocal spoil dumb boost evolve crop brisk rural planet";
+var mnemonic = "mirror typical rhythm drink slide cover rescue pelican excite lab pig blur";

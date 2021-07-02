@@ -1,1 +1,1 @@
-var mnemonic = "demand wreck warm lecture stamp invest update comic lunar indoor coffee wife";
+var mnemonic = "bottom move bike silver panel utility lens few critic original garment box";

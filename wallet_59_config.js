@@ -1,1 +1,1 @@
-var mnemonic = "start soup height fade title fog icon dumb true faint squeeze canal";
+var mnemonic = "pluck wreck minimum deal vapor silk drift divide honey convince film alarm";

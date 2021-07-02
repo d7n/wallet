@@ -1,1 +1,1 @@
-var mnemonic = "badge pet flower refuse trick bicycle misery space essay gold unfair rotate";
+var mnemonic = "brave giraffe carpet ankle lesson tornado tennis lion save clump actual category";

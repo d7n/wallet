@@ -1,1 +1,1 @@
-var mnemonic = "idea neck draft grid degree plate history decide mobile castle attend guard";
+var mnemonic = "omit range ozone nice purchase unaware various oblige kiss february front often";

@@ -1,1 +1,1 @@
-var mnemonic = "auction cart shy success cause diesel know dose olive snake pencil nasty";
+var mnemonic = "kitchen bundle anchor stumble broccoli wheel demand feature robust cook used awake";

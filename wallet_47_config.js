@@ -1,1 +1,1 @@
-var mnemonic = "chat armor web gift dust ankle mouse obscure torch group upon twelve";
+var mnemonic = "find aspect little awkward tuna trade sample subject truth crucial sure snow";

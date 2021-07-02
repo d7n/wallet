@@ -1,1 +1,1 @@
-var mnemonic = "rifle cheap payment mutual subject idea hawk amazing swear chat rigid thing";
+var mnemonic = "labor ripple assault bronze slight emerge benefit medal orchard govern elevator search";

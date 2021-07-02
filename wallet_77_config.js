@@ -1,1 +1,1 @@
-var mnemonic = "coconut shoulder column glide keen essay kite rocket hover hammer thing until";
+var mnemonic = "grace moon flock public fee first faculty divert wreck winter acquire another";

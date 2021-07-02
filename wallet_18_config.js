@@ -1,1 +1,1 @@
-var mnemonic = "screen online lens correct base earn inject below abstract crisp adjust mammal";
+var mnemonic = "song nasty move kitchen flat hard venue ivory crush virtual august winter";

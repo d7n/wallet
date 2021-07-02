@@ -1,1 +1,1 @@
-var mnemonic = "okay employ interest aware live year dinner music depart task poet bamboo";
+var mnemonic = "service list cricket tomorrow embark medal force sport help hurt bulb coin";

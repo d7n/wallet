@@ -1,1 +1,1 @@
-var mnemonic = "kiss wire grab wealth cause axis dune heart misery wide kiwi say";
+var mnemonic = "cube arrow judge butter bargain milk nurse usage snap clarify bird photo";

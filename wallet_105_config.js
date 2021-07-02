@@ -1,1 +1,1 @@
-var mnemonic = "divorce portion spawn young sibling combine cactus such defense unfold power truth";
+var mnemonic = "clean profit radar image concert science melt buddy gain distance reveal pass";

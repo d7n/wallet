@@ -1,1 +1,1 @@
-var mnemonic = "sweet panther gas coil confirm whale road viable direct general inject stock";
+var mnemonic = "paddle humble south tourist sting bid blouse monitor need liar laptop toast";

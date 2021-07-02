@@ -1,1 +1,1 @@
-var mnemonic = "flame picnic uphold violin license sure follow taxi laundry pause whip trap";
+var mnemonic = "lawsuit earn split annual august winner delay web math reform diamond latin";

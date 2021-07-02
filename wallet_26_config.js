@@ -1,1 +1,1 @@
-var mnemonic = "capable honey satoshi vanish noodle catalog canal assist hard when marriage tank";
+var mnemonic = "animal year state abandon tray screen borrow opinion window trust joke diesel";

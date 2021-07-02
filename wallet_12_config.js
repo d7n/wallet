@@ -1,1 +1,1 @@
-var mnemonic = "wash soccer chicken quit toss timber result penalty cigar slush vast inmate";
+var mnemonic = "oil dentist border dumb book soldier crawl expand mosquito recipe void fog";

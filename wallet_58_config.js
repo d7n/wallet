@@ -1,1 +1,1 @@
-var mnemonic = "bundle come immune wonder tennis illness demand unhappy flush rich shrug oblige";
+var mnemonic = "hill icon cheap biology palace mask design century choose mad wall lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss capital lesson leave drum eyebrow insect enrich exotic soon valid caught";
+var mnemonic = "uniform weapon swarm city still orchard credit ordinary shiver forest dice maze";

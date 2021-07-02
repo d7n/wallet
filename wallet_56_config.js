@@ -1,1 +1,1 @@
-var mnemonic = "uncle credit divert warrior deny torch tail endorse web kiwi length require";
+var mnemonic = "hurdle seat object ride oil keep heavy true priority glance water hurt";

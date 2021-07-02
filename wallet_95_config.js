@@ -1,1 +1,1 @@
-var mnemonic = "bag random you hunt together wheat fork ticket aunt head eight solve";
+var mnemonic = "typical extra elbow decline play violin oxygen naive obscure raise sound foster";

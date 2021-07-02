@@ -1,1 +1,1 @@
-var mnemonic = "expect trim kick forest must thing shine there lawsuit luggage curve salt";
+var mnemonic = "uphold accuse thing inner faint glass since figure foster expect waste scene";

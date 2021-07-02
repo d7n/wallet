@@ -1,1 +1,1 @@
-var mnemonic = "need hen traffic surge wire mirror family nasty history later onion toilet";
+var mnemonic = "pudding left metal south misery letter coffee diamond airport valve april scene";

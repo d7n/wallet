@@ -1,1 +1,1 @@
-var mnemonic = "gospel accident video job evolve ship aerobic animal mask unknown between laptop";
+var mnemonic = "certain prize swing between blossom rhythm soap zoo armor smart coast detect";

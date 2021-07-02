@@ -1,1 +1,1 @@
-var mnemonic = "garment zoo focus lonely plug theme panel brush clap chest loud fiction";
+var mnemonic = "wolf actual mouse middle ketchup similar youth modify lab safe prevent govern";

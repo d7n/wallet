@@ -1,1 +1,1 @@
-var mnemonic = "crawl shiver whisper slice toast wash near then meat chunk enlist major";
+var mnemonic = "flag drop edge fiction kid pill wheat endless bus enrich slab daughter";

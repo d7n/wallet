@@ -1,1 +1,1 @@
-var mnemonic = "prevent beef biology afford naive anxiety uphold apple couple extra patrol moment";
+var mnemonic = "hand imitate beauty buzz lounge spray syrup jar sunset deer century history";

@@ -1,1 +1,1 @@
-var mnemonic = "glide detail goddess news primary diagram differ debate become attend split broken";
+var mnemonic = "assist wrist chimney secret side gravity leader lounge allow aisle mask cross";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo regular among seed weather hero action capable kite plastic crouch category";
+var mnemonic = "brand into engage weird custom earn disagree apart nut wonder peasant series";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix bacon amateur quit bike remind inhale capable crazy wage gallery reopen";
+var mnemonic = "symptom pudding fold feed door clay exercise shrimp print energy ozone tuna";

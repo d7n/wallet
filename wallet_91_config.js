@@ -1,1 +1,1 @@
-var mnemonic = "stove auto drama copy minute capital one tooth orient lawn ready during";
+var mnemonic = "clock climb prefer hawk wolf hill state budget agree fat beach silver";

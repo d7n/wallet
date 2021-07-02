@@ -1,1 +1,1 @@
-var mnemonic = "discover across extend stuff favorite sick scissors diamond apology spend more ice";
+var mnemonic = "brain chair duck zebra minute various early pet income bicycle gym interest";

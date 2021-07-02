@@ -1,1 +1,1 @@
-var mnemonic = "admit scout dune rubber veteran distance quiz nest sail riot rather audit";
+var mnemonic = "okay sign valve identify tiny affair secret rapid vocal dust core raise";

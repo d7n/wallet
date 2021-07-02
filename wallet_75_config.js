@@ -1,1 +1,1 @@
-var mnemonic = "forum combine enrich tide soon settle strong ticket panic ask snap similar";
+var mnemonic = "foster movie aim awful female rival almost cushion arch move stereo salon";

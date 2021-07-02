@@ -1,1 +1,1 @@
-var mnemonic = "pledge hungry bless busy shiver present onion board famous curtain juice blood";
+var mnemonic = "baby indicate oak drastic regular coconut modify obscure sound ensure seminar suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "wife mountain same vague mushroom true reward debate letter task split main";
+var mnemonic = "thumb session horn jeans jealous three doll business hello antenna employ broom";

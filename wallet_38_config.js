@@ -1,1 +1,1 @@
-var mnemonic = "common monkey judge dial ceiling brand prize pottery debris predict pony produce";
+var mnemonic = "tent athlete bulk sauce vibrant loan someone immense close escape age tenant";

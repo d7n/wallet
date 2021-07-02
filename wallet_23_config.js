@@ -1,1 +1,1 @@
-var mnemonic = "snap hub celery talent embody mountain current bachelor balance foil bench salad";
+var mnemonic = "execute aspect monster material shuffle nature firm label random artwork toe wonder";

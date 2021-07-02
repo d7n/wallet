@@ -1,1 +1,1 @@
-var mnemonic = "robot myself anxiety glimpse true wheel grunt letter memory all peanut social";
+var mnemonic = "mass problem crane render fuel picnic library auto evolve purchase behind mirror";

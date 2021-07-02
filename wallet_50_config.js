@@ -1,1 +1,1 @@
-var mnemonic = "blue scheme advance parade scorpion swim box depart list mystery drill load";
+var mnemonic = "snap lion parrot marble reject iron leopard shy solve blur easily eagle";

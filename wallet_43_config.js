@@ -1,1 +1,1 @@
-var mnemonic = "squirrel huge negative region radio trade rocket lawn syrup trust crucial advice";
+var mnemonic = "scrap rack chief road equal mistake pistol aspect humble senior economy parent";

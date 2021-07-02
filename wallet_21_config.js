@@ -1,1 +1,1 @@
-var mnemonic = "day stereo depart umbrella lawn bench state nerve suffer ranch devote liberty";
+var mnemonic = "bullet soda iron view globe arch fashion endless artwork possible involve blind";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi walk cloud close design okay torch refuse vital genre inmate coil";
+var mnemonic = "ghost divert economy cry similar foot since net execute gloom fan jeans";

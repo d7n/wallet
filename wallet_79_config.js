@@ -1,1 +1,1 @@
-var mnemonic = "clean boring puzzle hole share high fan treat monkey isolate later abuse";
+var mnemonic = "child drift west lend ride duck old lawsuit shrimp domain saddle wish";

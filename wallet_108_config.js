@@ -1,1 +1,1 @@
-var mnemonic = "orange recipe wasp judge knock utility find design speak gas pigeon purpose";
+var mnemonic = "title spot hundred chair divorce marriage web modify remind chimney cup chronic";

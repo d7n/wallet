@@ -1,1 +1,1 @@
-var mnemonic = "random account arena deputy surge trust mass famous throw priority pole kingdom";
+var mnemonic = "lucky length trophy tape attend siren dentist universe antique region large essay";

@@ -1,1 +1,1 @@
-var mnemonic = "above used equip alert diary trumpet grace visa another write prison object";
+var mnemonic = "adapt easy account foot turtle fade pupil husband report convince distance spray";

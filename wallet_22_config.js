@@ -1,1 +1,1 @@
-var mnemonic = "tornado typical such expand orbit arrow negative drip curious mom talk route";
+var mnemonic = "addict laundry release hole category rebel crew alone solution mango goose west";
