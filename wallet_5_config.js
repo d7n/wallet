@@ -1,1 +1,1 @@
-var mnemonic = "peace mercy want aware dream over impact december ecology choice toast bundle";
+var mnemonic = "amateur quiz yellow broken insane toward address birth suffer unfair claw swamp";

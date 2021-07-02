@@ -1,1 +1,1 @@
-var mnemonic = "permit side radar betray thought shove cousin student over animal muscle lobster";
+var mnemonic = "oppose oxygen sunny target bracket canal rose sorry arm wear jealous grace";

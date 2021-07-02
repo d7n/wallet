@@ -1,1 +1,1 @@
-var mnemonic = "wage pink bronze endless swift choose plastic original obscure slab fatal clerk";
+var mnemonic = "dry orient treat insect write move income december relief heavy tuna duck";

@@ -1,1 +1,1 @@
-var mnemonic = "steel rapid flat ship oppose drop choose buddy panic physical noise upper";
+var mnemonic = "near wish display obscure peanut protect brother pyramid street attend energy session";

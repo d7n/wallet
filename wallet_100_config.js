@@ -1,1 +1,1 @@
-var mnemonic = "road hard member betray gun naive attack jeans pioneer ozone across host";
+var mnemonic = "else recall proud caught quick asset quiz jazz wash direct laundry tornado";

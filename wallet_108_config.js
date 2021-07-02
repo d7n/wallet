@@ -1,1 +1,1 @@
-var mnemonic = "concert execute simple garment trash leopard giraffe apology razor ghost tuna man";
+var mnemonic = "roof farm burden valve cry surge upset rug minimum avocado foil connect";

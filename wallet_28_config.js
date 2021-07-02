@@ -1,1 +1,1 @@
-var mnemonic = "steel reduce chronic series neutral volcano mirror ten know dinner strike virtual";
+var mnemonic = "false model witness elephant surround rapid month program adult street kind ginger";

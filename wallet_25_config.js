@@ -1,1 +1,1 @@
-var mnemonic = "bachelor maximum squeeze year glimpse shell book domain future basket confirm boring";
+var mnemonic = "tilt end unaware brave best involve hockey flavor hood faint hawk advice";

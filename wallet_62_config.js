@@ -1,1 +1,1 @@
-var mnemonic = "short forest lawsuit pair ivory trim network member tank cannon civil recycle";
+var mnemonic = "return whip tree cook abuse half math eternal equal disagree wild news";

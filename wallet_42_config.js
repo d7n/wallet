@@ -1,1 +1,1 @@
-var mnemonic = "power dragon rude glad duck struggle own kick grocery guide anchor opinion";
+var mnemonic = "salute stamp tragic case suit error now plate message decorate melody negative";

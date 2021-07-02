@@ -1,1 +1,1 @@
-var mnemonic = "enlist bring blade congress mind inform dentist else slot ocean number behind";
+var mnemonic = "glass puzzle strategy meat forward piano pencil pyramid hundred salmon ring frequent";

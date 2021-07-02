@@ -1,1 +1,1 @@
-var mnemonic = "turtle govern unusual invite square imitate learn diesel quiz detail hood panic";
+var mnemonic = "dragon busy drama toe empty enrich fiction gown kick install fire cute";

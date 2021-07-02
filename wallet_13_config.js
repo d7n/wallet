@@ -1,1 +1,1 @@
-var mnemonic = "umbrella seminar base face agree security riot pause under solution obey feed";
+var mnemonic = "depth note second suggest start orient smooth pencil river fat great artist";

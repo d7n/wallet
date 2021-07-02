@@ -1,1 +1,1 @@
-var mnemonic = "now kind junior infant sweet decide season cute save industry grit frame";
+var mnemonic = "erosion nothing salon chapter coach cabbage since liquid garbage scrap ghost exchange";

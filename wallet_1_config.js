@@ -1,1 +1,1 @@
-var mnemonic = "office eagle canvas mandate flip trap boil decrease shield advice state whale";
+var mnemonic = "prefer throw build robot hockey educate lens woman forest office dune machine";

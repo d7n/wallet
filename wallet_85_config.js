@@ -1,1 +1,1 @@
-var mnemonic = "useful point giant urge special anger aisle ranch trap oyster another rebel";
+var mnemonic = "still spice music resist again bone proud climb green elephant aim list";

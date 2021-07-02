@@ -1,1 +1,1 @@
-var mnemonic = "debate cake say aim swamp royal zoo blast chunk ceiling wide life";
+var mnemonic = "bar torch secret debris snap foster forget brown tape ritual cupboard album";

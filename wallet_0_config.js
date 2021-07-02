@@ -1,1 +1,1 @@
-var mnemonic = "play swift eagle legal melody talk soul energy trumpet fancy pitch fatal";
+var mnemonic = "depend reduce monkey when absent memory canal tornado kitten lava hat march";

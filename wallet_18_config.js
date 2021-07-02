@@ -1,1 +1,1 @@
-var mnemonic = "vote fragile hawk wife violin sound lock illegal mind verify problem toy";
+var mnemonic = "brick cherry hip method inject typical box immense burden void fun require";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy engine regular rich trigger sight hope custom put local point breeze";
+var mnemonic = "achieve jacket holiday disease try inject twenty sphere winter powder hero exotic";

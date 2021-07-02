@@ -1,1 +1,1 @@
-var mnemonic = "allow cave armed match pool sauce badge drop safe luggage suggest inflict";
+var mnemonic = "hurdle final hazard speed guard april fragile gloom supply flash dignity robust";

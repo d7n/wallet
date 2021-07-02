@@ -1,1 +1,1 @@
-var mnemonic = "chapter love near wrap inhale crack matter shaft iron head labor recycle";
+var mnemonic = "stuff false cabin various notable width depart deer nothing aunt foam decade";

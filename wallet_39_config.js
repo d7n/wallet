@@ -1,1 +1,1 @@
-var mnemonic = "that level shiver month valley resist pet enough casual act round witness";
+var mnemonic = "bunker hamster blind brisk involve table fluid peasant clerk skate practice friend";

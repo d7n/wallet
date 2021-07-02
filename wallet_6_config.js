@@ -1,1 +1,1 @@
-var mnemonic = "tennis world payment sniff river despair melody impulse addict screen album raccoon";
+var mnemonic = "battle stumble tip kick exhibit home follow wash pudding near dismiss quarter";

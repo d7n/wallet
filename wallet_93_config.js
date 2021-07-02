@@ -1,1 +1,1 @@
-var mnemonic = "youth input donate horror inform focus twist tobacco cool suit bird cradle";
+var mnemonic = "piano demand grape ocean banner road maple attitude permit tongue actress access";

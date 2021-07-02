@@ -1,1 +1,1 @@
-var mnemonic = "gym child lock sword leopard air people what fetch purpose extra pride";
+var mnemonic = "snow small equip nominee travel quote often clown shine potato assault river";

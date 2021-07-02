@@ -1,1 +1,1 @@
-var mnemonic = "atom breeze abstract barrel normal galaxy spirit boring tell drip cereal puppy";
+var mnemonic = "gravity method pool hundred avoid shock feed baby yellow bundle gorilla cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "ice forward mask genuine shoot million during under snack bulk click enter";
+var mnemonic = "pair keep town gesture fury fitness calm fringe pet hockey patrol galaxy";

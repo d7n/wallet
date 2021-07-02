@@ -1,1 +1,1 @@
-var mnemonic = "fork speak wild pave they merge elbow chicken soul exercise gravity giant";
+var mnemonic = "royal range twist latin person weather item antenna leader trigger reform left";

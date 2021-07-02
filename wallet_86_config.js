@@ -1,1 +1,1 @@
-var mnemonic = "other rocket skirt concert because enact please pink spirit tip loan visa";
+var mnemonic = "brisk meat pitch off another local harbor sock control laptop account method";

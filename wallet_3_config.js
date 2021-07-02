@@ -1,1 +1,1 @@
-var mnemonic = "frog consider attract carry script tape clump catalog jazz tomorrow leave pumpkin";
+var mnemonic = "welcome avocado hint earn wagon alone recycle push east shield day census";

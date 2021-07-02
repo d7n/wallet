@@ -1,1 +1,1 @@
-var mnemonic = "bomb business nasty trip green exclude yellow client foam goose sadness world";
+var mnemonic = "tank drive potato hover quick quiz funny prison uncover hundred green hotel";

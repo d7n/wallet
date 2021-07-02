@@ -1,1 +1,1 @@
-var mnemonic = "emotion school doll despair note carpet pizza open during grid end spider";
+var mnemonic = "rival arrange chest club baby diagram oak source absent pull bicycle please";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen find medal document syrup pear economy cliff salad achieve seven analyst";
+var mnemonic = "dirt flavor gallery young kite divide swamp between awkward lazy wing across";

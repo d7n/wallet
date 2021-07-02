@@ -1,1 +1,1 @@
-var mnemonic = "stove scheme seven surprise air usage odor trumpet couple legal trust there";
+var mnemonic = "margin print provide excess body small filter picture toss manage camp liar";

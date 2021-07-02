@@ -1,1 +1,1 @@
-var mnemonic = "image retreat member trust holiday crunch dentist meat cube space post hollow";
+var mnemonic = "style circle bicycle remain feature rapid gas arrive lift into slow normal";

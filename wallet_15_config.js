@@ -1,1 +1,1 @@
-var mnemonic = "resemble example open drama tissue dress warfare all aunt attend clerk office";
+var mnemonic = "fancy change suggest joy dragon brand essay case crater ghost avocado fringe";

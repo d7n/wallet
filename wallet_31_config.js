@@ -1,1 +1,1 @@
-var mnemonic = "length involve exact furnace judge crazy setup glad broken loud express shadow";
+var mnemonic = "genius useless ready liquid embrace borrow afford explain shaft chef cash kick";

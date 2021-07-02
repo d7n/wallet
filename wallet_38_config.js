@@ -1,1 +1,1 @@
-var mnemonic = "mother during giggle guitar device demise pledge fever pink length van target";
+var mnemonic = "float plate mouse tower soon donor any theory find calm hunt poet";

@@ -1,1 +1,1 @@
-var mnemonic = "other never spell category knife box dismiss artist flee barely crime equip";
+var mnemonic = "end acid result raven omit gadget express crunch absurd anchor wear case";

@@ -1,1 +1,1 @@
-var mnemonic = "interest quantum later false sphere flower coin vehicle illness violin remind more";
+var mnemonic = "top pen love electric abuse gravity minor spot guitar insane glance bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "novel check recycle jazz rail expire destroy drift arm tape correct stem";
+var mnemonic = "crystal banana foster nice wide traffic enforce case inhale simple huge rule";

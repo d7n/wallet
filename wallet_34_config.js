@@ -1,1 +1,1 @@
-var mnemonic = "jealous foil source merit between try unhappy famous canal law please cycle";
+var mnemonic = "pyramid swing enforce way uncover maid method dream merge unfair true void";

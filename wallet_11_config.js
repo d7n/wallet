@@ -1,1 +1,1 @@
-var mnemonic = "patient artefact cube album escape person exile subject slush midnight dash team";
+var mnemonic = "crouch tragic idle token devote medal reform mix dwarf birth elevator address";

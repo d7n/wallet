@@ -1,1 +1,1 @@
-var mnemonic = "call wild shove remind milk universe switch kitten language one toss myself";
+var mnemonic = "receive genuine onion myself arch festival hello rhythm stomach govern trap grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "venue profit cushion resource romance search tray secret ready reflect helmet begin";
+var mnemonic = "harvest execute umbrella beauty when essay myself absurd nephew penalty turkey leopard";

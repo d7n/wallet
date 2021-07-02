@@ -1,1 +1,1 @@
-var mnemonic = "smoke cup stomach casual evidence sand rude replace dry twenty tourist input";
+var mnemonic = "cigar sight found filter foam myself enable dune habit damp enrich nasty";

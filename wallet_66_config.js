@@ -1,1 +1,1 @@
-var mnemonic = "monkey pond version push robust true warfare river absorb save junk slender";
+var mnemonic = "prison indicate find network theme beach matter fix theme mystery crystal spider";

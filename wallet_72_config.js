@@ -1,1 +1,1 @@
-var mnemonic = "wrist fashion dad motor expire rhythm run dash twin old system error";
+var mnemonic = "hero umbrella cloth stool brave essay circle guilt turn welcome renew clutch";

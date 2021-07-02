@@ -1,1 +1,1 @@
-var mnemonic = "spare cheese limit arrow access case pelican able swamp aerobic version tank";
+var mnemonic = "arrive genuine plate orbit bind orange together rich hammer maze hammer unveil";

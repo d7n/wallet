@@ -1,1 +1,1 @@
-var mnemonic = "shop this anxiety unable distance gorilla soldier gaze evidence humor model indicate";
+var mnemonic = "gadget student tortoise skin battle flee letter fine sand rhythm pencil two";

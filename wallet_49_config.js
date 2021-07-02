@@ -1,1 +1,1 @@
-var mnemonic = "avocado term muffin cause argue follow special filter crystal soup deposit cart";
+var mnemonic = "excuse recall relax deputy spot thought vintage hockey point jacket grow shine";

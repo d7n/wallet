@@ -1,1 +1,1 @@
-var mnemonic = "pledge present ridge length habit name finish pencil snake keen main rate";
+var mnemonic = "scan club spare awkward jacket salon filter opera curtain blouse peace below";

@@ -1,1 +1,1 @@
-var mnemonic = "book piece upset time angry cattle track amused exercise evil cover photo";
+var mnemonic = "stick love jump boy fantasy scissors truth biology aim rural amused amazing";

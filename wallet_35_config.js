@@ -1,1 +1,1 @@
-var mnemonic = "junk proof derive thumb injury bacon company wasp cliff surprise balance tower";
+var mnemonic = "joke heavy guilt pride brand team point into crash fix answer match";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon awesome fat citizen focus chat until purse flip noise soda alert";
+var mnemonic = "mom tonight point twenty dog web announce client person cabbage zero trust";

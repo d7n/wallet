@@ -1,1 +1,1 @@
-var mnemonic = "attract garment know high purchase deposit age gas barrel seat vacuum antenna";
+var mnemonic = "burger betray island cigar treat catalog option grief bread high human magic";

@@ -1,1 +1,1 @@
-var mnemonic = "actor shine drive stereo envelope chunk wrestle glide second seek teach lamp";
+var mnemonic = "neglect squeeze stable potato tip other rescue cinnamon never resource emerge coral";

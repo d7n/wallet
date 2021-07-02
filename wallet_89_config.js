@@ -1,1 +1,1 @@
-var mnemonic = "moment grocery rice shove pear velvet wing divorce goat method pelican fox";
+var mnemonic = "trash never quote size prosper demise exile bulb rally faculty because leg";

@@ -1,1 +1,1 @@
-var mnemonic = "salon anchor hour lesson glass use unlock coyote urge road summer asthma";
+var mnemonic = "message point era crouch bubble same life actor vacant end wish use";

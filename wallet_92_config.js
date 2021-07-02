@@ -1,1 +1,1 @@
-var mnemonic = "wish mixture ball gravity believe fiscal layer arrange leisure vivid process silk";
+var mnemonic = "piece wall news waste private vessel giant excite code repeat seven dutch";

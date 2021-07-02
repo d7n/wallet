@@ -1,1 +1,1 @@
-var mnemonic = "arrest acid jar slow total local jeans virtual merge fat filter pet";
+var mnemonic = "empty project lyrics enforce comic anger sick tourist educate cage divide crisp";

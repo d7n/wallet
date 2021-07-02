@@ -1,1 +1,1 @@
-var mnemonic = "exhibit major invite educate prevent reason tackle mail curtain path tail strong";
+var mnemonic = "engage confirm bulk picture fit fetch comic beef economy roast orbit end";

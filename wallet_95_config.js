@@ -1,1 +1,1 @@
-var mnemonic = "coral river peasant hover need lawsuit vanish tumble injury world fish isolate";
+var mnemonic = "female quarter orchard dose predict aim crash jaguar planet daring shop region";

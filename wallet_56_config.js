@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur order ketchup tennis evoke man tiger reopen muscle erase myself bar";
+var mnemonic = "later crop screen crumble night space flip conduct salmon episode loop secret";

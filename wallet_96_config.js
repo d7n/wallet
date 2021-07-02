@@ -1,1 +1,1 @@
-var mnemonic = "recall there remain credit already wait hint cricket episode gadget near number";
+var mnemonic = "replace cherry ginger bus script divide pudding name slice volume clump tongue";

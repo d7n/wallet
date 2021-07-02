@@ -1,1 +1,1 @@
-var mnemonic = "nasty luxury entire next wheel tackle affair uncover kingdom will cinnamon follow";
+var mnemonic = "mountain student album birth input cube divorce father echo thank search swift";

@@ -1,1 +1,1 @@
-var mnemonic = "clever later render prevent uphold nation apple stool open gravity suffer van";
+var mnemonic = "rough surround device enable sand benefit mixed remind wisdom casino success bullet";

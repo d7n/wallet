@@ -1,1 +1,1 @@
-var mnemonic = "anger payment ill across cinnamon slow soft clarify soldier jewel when shallow";
+var mnemonic = "route day multiply celery proof brain uphold stage drop reunion exit lawsuit";

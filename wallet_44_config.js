@@ -1,1 +1,1 @@
-var mnemonic = "profit soup weird dutch calm wrap brother bus inhale stone siege excuse";
+var mnemonic = "audit pencil oppose alpha luggage clock dry people couple initial tortoise erupt";

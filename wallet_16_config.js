@@ -1,1 +1,1 @@
-var mnemonic = "broom solution apple luggage powder eager gap lawsuit second yellow company dumb";
+var mnemonic = "metal hip like fluid cage guess guess extra dial blood cave honey";

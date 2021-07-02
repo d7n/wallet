@@ -1,1 +1,1 @@
-var mnemonic = "dirt drop pumpkin cash almost wrong crowd foil cinnamon define shallow hire";
+var mnemonic = "save alter hint year idea blouse invest reason amazing journey gift tobacco";

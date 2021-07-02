@@ -1,1 +1,1 @@
-var mnemonic = "room useful between title half blossom siege about sister tissue wine fade";
+var mnemonic = "alone once address quick inherit drop confirm usage energy client angry wagon";

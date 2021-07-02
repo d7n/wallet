@@ -1,1 +1,1 @@
-var mnemonic = "liquid hamster laugh laundry question cushion rail purchase beef afraid giraffe garage";
+var mnemonic = "collect antique brisk poem plate saddle couch shiver radio silk dad trip";

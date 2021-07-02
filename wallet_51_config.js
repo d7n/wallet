@@ -1,1 +1,1 @@
-var mnemonic = "engage employ fall wide swap rhythm foot risk border rude tree social";
+var mnemonic = "grant blame mountain always choice great casino exchange olympic assume pattern tape";

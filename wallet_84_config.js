@@ -1,1 +1,1 @@
-var mnemonic = "toast snack wagon decide guide stay clog length poem security senior snap";
+var mnemonic = "diesel turn amount culture tiger lunar pen lens win next clever convince";

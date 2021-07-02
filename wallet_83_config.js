@@ -1,1 +1,1 @@
-var mnemonic = "luggage lift salmon lake romance color merit brick promote usage public taste";
+var mnemonic = "such boy spirit quiz loop supreme black seven purpose cloud job meadow";

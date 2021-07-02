@@ -1,1 +1,1 @@
-var mnemonic = "two code surge long quiz minute fall wrist vessel audit piece peace";
+var mnemonic = "between limit journey chaos guide puzzle path rude swarm swamp pave notice";

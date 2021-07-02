@@ -1,1 +1,1 @@
-var mnemonic = "swim shine music dizzy affair betray clip into adjust arena illness parent";
+var mnemonic = "huge traffic enrich world brass share pole saddle jacket clarify permit rebuild";

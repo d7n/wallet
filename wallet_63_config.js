@@ -1,1 +1,1 @@
-var mnemonic = "enroll seed cart mirror pull island false august arctic nerve swing knee";
+var mnemonic = "winter scrub half wife hair traffic coast sock ethics shy they ring";

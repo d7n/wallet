@@ -1,1 +1,1 @@
-var mnemonic = "anger ignore fancy mom kangaroo control give retire crystal artwork fan much";
+var mnemonic = "cotton town fame wink feel umbrella wrist have suggest choose brand nice";

@@ -1,1 +1,1 @@
-var mnemonic = "machine shift hundred lunar abstract quality tape morning film erosion joy practice";
+var mnemonic = "immune grief hawk near knee load genuine ugly cattle check advance remember";

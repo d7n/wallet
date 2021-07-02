@@ -1,1 +1,1 @@
-var mnemonic = "tiger lady recall patrol equip replace abuse tail midnight select wet walk";
+var mnemonic = "float alpha chef van benefit ozone cross radar canvas effort ordinary crystal";

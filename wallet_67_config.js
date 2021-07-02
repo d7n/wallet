@@ -1,1 +1,1 @@
-var mnemonic = "wool news visual forest speak shoot spare close wire defense super boat";
+var mnemonic = "banner angry royal tide zero region obey pottery cargo air dose thunder";

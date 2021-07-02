@@ -1,1 +1,1 @@
-var mnemonic = "inspire jump embody peasant matrix purse atom elbow assist tag fish twelve";
+var mnemonic = "bright appear wait sweet settle creek train athlete daughter lady vast auto";

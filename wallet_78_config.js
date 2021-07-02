@@ -1,1 +1,1 @@
-var mnemonic = "disorder couple permit brain hotel march provide meat swift erupt evolve million";
+var mnemonic = "observe travel deal leopard pattern soldier sport velvet law oil still spread";

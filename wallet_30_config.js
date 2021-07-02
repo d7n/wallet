@@ -1,1 +1,1 @@
-var mnemonic = "recycle bulb avoid dance surge galaxy puzzle skull snake subway exist harsh";
+var mnemonic = "saddle dry mammal help final tree forum search invite result cart silver";

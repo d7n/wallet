@@ -1,1 +1,1 @@
-var mnemonic = "intact fetch evidence capable venue basic slide frown phrase powder palm oblige";
+var mnemonic = "cluster wage banner loud project asthma soda lab stock during narrow accuse";

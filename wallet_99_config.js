@@ -1,1 +1,1 @@
-var mnemonic = "loyal punch trip that fatigue height govern item elder someone hurt skull";
+var mnemonic = "leader remain job news jungle senior cake service radio fantasy act mistake";
