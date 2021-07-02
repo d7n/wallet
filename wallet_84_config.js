@@ -1,1 +1,1 @@
-var mnemonic = "minor only harvest sign exile digital ill submit tray inhale exact spider";
+var mnemonic = "always august rice pig melt luggage about call please parent tired sea";

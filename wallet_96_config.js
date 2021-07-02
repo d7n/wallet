@@ -1,1 +1,1 @@
-var mnemonic = "select antenna leg food arrive agree harvest scorpion pitch amount point attitude";
+var mnemonic = "spin update jewel shine alien secret truly stove comfort lizard sister unit";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow relief clown junk vanish maid attract zero found horn warm copy";
+var mnemonic = "win win cruise common buffalo equip lava glad solid accident foil six";

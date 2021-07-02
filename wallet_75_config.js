@@ -1,1 +1,1 @@
-var mnemonic = "chicken you trash gallery price first tonight shield beyond pioneer pilot rack";
+var mnemonic = "crack nest fossil crush pupil retire salmon general media old woman burden";

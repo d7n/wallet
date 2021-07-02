@@ -1,1 +1,1 @@
-var mnemonic = "gasp alien ritual hill curtain flush inspire hotel scheme wing sample unaware";
+var mnemonic = "tissue frost taxi cousin milk clutch mention must radio proud vast during";

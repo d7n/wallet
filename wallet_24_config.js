@@ -1,1 +1,1 @@
-var mnemonic = "banana menu remember cement struggle month buyer mixture scene daughter burger brisk";
+var mnemonic = "water indoor season claw dose lizard state blood average remind great oven";

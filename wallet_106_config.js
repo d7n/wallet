@@ -1,1 +1,1 @@
-var mnemonic = "fly federal task purpose torch bag talk smooth employ tobacco screen mushroom";
+var mnemonic = "void holiday federal result mutual apple utility wait cradle emotion vault style";

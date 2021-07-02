@@ -1,1 +1,1 @@
-var mnemonic = "credit fit delay wheel pause evoke west kitchen genius token valve cup";
+var mnemonic = "grass accident conduct boy drift member lawsuit parrot affair ice sudden cake";

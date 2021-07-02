@@ -1,1 +1,1 @@
-var mnemonic = "radar hurt crazy album forward undo wisdom glue bulb quote maid maid";
+var mnemonic = "extra try fantasy box upgrade awake wage act hire plate milk object";

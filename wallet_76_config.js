@@ -1,1 +1,1 @@
-var mnemonic = "syrup public palace airport limit police stuff lens nominee lucky wagon blind";
+var mnemonic = "much tape camera soldier february wait purity still gaze high divorce patient";

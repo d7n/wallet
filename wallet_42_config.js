@@ -1,1 +1,1 @@
-var mnemonic = "plug lava leg talk gym goose laptop bird awkward ghost quality voice";
+var mnemonic = "limb husband know sauce pass burger soap throw radar letter custom sibling";

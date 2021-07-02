@@ -1,1 +1,1 @@
-var mnemonic = "weather bench assist today basic bird salute envelope never company dance sniff";
+var mnemonic = "oppose inject fold segment special ahead thumb cross elevator clay apple brand";

@@ -1,1 +1,1 @@
-var mnemonic = "digital crew also nose describe carpet will unaware artefact hover jewel dirt";
+var mnemonic = "easily poverty quarter access super select crew lounge sing dirt gift oxygen";

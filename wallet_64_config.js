@@ -1,1 +1,1 @@
-var mnemonic = "find forum into achieve moral task merry soup bullet sun help powder";
+var mnemonic = "shop narrow shoe quote room become keen hip desk mystery include debris";

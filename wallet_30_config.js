@@ -1,1 +1,1 @@
-var mnemonic = "helmet doctor seven neck glow trap cheap vacant exotic damage leisure garlic";
+var mnemonic = "giant jump dad toast broccoli soft mystery earth wrestle buffalo syrup tourist";

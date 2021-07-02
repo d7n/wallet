@@ -1,1 +1,1 @@
-var mnemonic = "surge decide view task cereal crouch blood eternal knock bracket series liquid";
+var mnemonic = "prepare kidney daring sunny gun stairs main settle law tide number exist";

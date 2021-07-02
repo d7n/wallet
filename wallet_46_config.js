@@ -1,1 +1,1 @@
-var mnemonic = "cart photo gym endless author silk follow various round utility when protect";
+var mnemonic = "cliff indicate recall shrimp tip symptom equal dress visa shell peasant scissors";

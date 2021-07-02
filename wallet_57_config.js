@@ -1,1 +1,1 @@
-var mnemonic = "describe female group alert way charge year excite filter crop release length";
+var mnemonic = "abandon young develop inject cupboard slight where country ahead limit fuel soon";

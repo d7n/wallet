@@ -1,1 +1,1 @@
-var mnemonic = "board broken federal fat object window lecture razor order resource theme rich";
+var mnemonic = "flat dish expire wave sword response canvas any patrol awkward worry erupt";

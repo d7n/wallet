@@ -1,1 +1,1 @@
-var mnemonic = "grass velvet elevator mix wheat best sweet expect around arena grocery clinic";
+var mnemonic = "mind museum notice pattern parade crucial opera swarm large swap dust advice";

@@ -1,1 +1,1 @@
-var mnemonic = "home nose trend valley skin truth like flash talent mobile brother polar";
+var mnemonic = "mind lady spare quiz burden nation neglect any kite hood load enjoy";

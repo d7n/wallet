@@ -1,1 +1,1 @@
-var mnemonic = "display embrace worry salt snow woman okay fall same curious spoon result";
+var mnemonic = "invite need pave liberty canoe canvas chronic donate oxygen stomach total canvas";

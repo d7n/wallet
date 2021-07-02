@@ -1,1 +1,1 @@
-var mnemonic = "photo answer sting mail remember aisle exist cage cancel shine one kingdom";
+var mnemonic = "tone involve exact foot brother behave rely there biology camera town conduct";

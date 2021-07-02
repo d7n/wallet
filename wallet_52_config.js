@@ -1,1 +1,1 @@
-var mnemonic = "behind search begin express firm track potato prosper plunge dish object alert";
+var mnemonic = "december asset muffin sustain rookie meat unhappy toast exhaust hood ice pear";

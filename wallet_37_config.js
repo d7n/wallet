@@ -1,1 +1,1 @@
-var mnemonic = "logic entry credit slow virus visual puppy spare dolphin outer gym cruise";
+var mnemonic = "dentist spray aim chest crash program laugh task method cry nose online";

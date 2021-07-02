@@ -1,1 +1,1 @@
-var mnemonic = "accident glue conduct myself fever dad december drill recall nephew taste depart";
+var mnemonic = "panda hospital gentle rug fluid fence target swallow wealth approve hole fetch";

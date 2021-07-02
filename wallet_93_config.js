@@ -1,1 +1,1 @@
-var mnemonic = "upper faint advance forest busy capable bullet horn color fluid horse goddess";
+var mnemonic = "tourist enough diamond stamp stamp oil spider grit pelican critic spare shed";

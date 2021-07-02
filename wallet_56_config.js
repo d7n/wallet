@@ -1,1 +1,1 @@
-var mnemonic = "mule air pair purse media glove chronic enact scan domain town buffalo";
+var mnemonic = "yellow supreme embody mimic arena blame novel grace relief today plastic hedgehog";

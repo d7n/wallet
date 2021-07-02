@@ -1,1 +1,1 @@
-var mnemonic = "glove want wreck sand direct excuse skirt skate judge nest limit twenty";
+var mnemonic = "galaxy such remain weird leader file coil antenna feel demand verify cave";

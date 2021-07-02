@@ -1,1 +1,1 @@
-var mnemonic = "ginger repeat entry grief jaguar enjoy furnace cinnamon fox horn barely trigger";
+var mnemonic = "penalty able armed dance fiscal intact clock coach tissue panel custom protect";

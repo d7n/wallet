@@ -1,1 +1,1 @@
-var mnemonic = "fiber gate side drive sample random agent wisdom hunt offer wash lottery";
+var mnemonic = "tuition indoor hire differ quarter visit tribe cage hawk glue dish citizen";

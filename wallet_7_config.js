@@ -1,1 +1,1 @@
-var mnemonic = "vehicle route hurt member fork sponsor pole awful cricket nurse ramp artwork";
+var mnemonic = "bottom sustain wide veteran section region absurd sphere ridge whisper cabin fan";

@@ -1,1 +1,1 @@
-var mnemonic = "fire shy bleak struggle core demand rule motion believe dinner nerve rate";
+var mnemonic = "shuffle tell imitate blue enroll furnace outdoor math sand plate finish patch";

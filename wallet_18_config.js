@@ -1,1 +1,1 @@
-var mnemonic = "plastic effort trash off antenna climb keen hero proof when seminar chuckle";
+var mnemonic = "zoo garden east brain divert suit bench cheap double buddy captain sing";

@@ -1,1 +1,1 @@
-var mnemonic = "stable hat culture pilot diamond surface tenant century network slam outside label";
+var mnemonic = "super scatter actress obscure shoulder cruise draw enrich member knife gain night";

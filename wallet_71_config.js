@@ -1,1 +1,1 @@
-var mnemonic = "toddler nephew dumb asthma vast fault victory reveal blue album clown one";
+var mnemonic = "grass right coin notice scrub father large inform guess leopard hard popular";

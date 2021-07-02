@@ -1,1 +1,1 @@
-var mnemonic = "loud turtle breeze couple vanish jewel bar square excite arrow breeze genre";
+var mnemonic = "reform hello nation trash stool essence van baby flee kind mammal nice";

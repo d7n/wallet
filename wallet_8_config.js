@@ -1,1 +1,1 @@
-var mnemonic = "toss wealth library boil body fantasy brown elegant loan act real material";
+var mnemonic = "dawn shadow siege sunny solid cover seed wage city because recall dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard bleak crew child point grant feed wish nest document crouch emotion";
+var mnemonic = "credit beyond dry afford raise choose cinnamon night attract obtain fatal hungry";

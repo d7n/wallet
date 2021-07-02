@@ -1,1 +1,1 @@
-var mnemonic = "patrol before arrive coach crater edit cup scrub toddler cover sad arrive";
+var mnemonic = "fault neck gap spell spoil fox priority fat loyal honey husband gesture";

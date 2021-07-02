@@ -1,1 +1,1 @@
-var mnemonic = "wait job fiscal visual burst ginger opera cave lunch prison cheese situate";
+var mnemonic = "tobacco boy rotate grain crucial click master heavy shaft fashion topple awful";

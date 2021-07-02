@@ -1,1 +1,1 @@
-var mnemonic = "junior network common firm good walk cattle property little enhance pigeon addict";
+var mnemonic = "vendor fame current alpha audit music hold gather reunion oval vapor slow";

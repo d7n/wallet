@@ -1,1 +1,1 @@
-var mnemonic = "scout box canvas assume find hawk welcome retire wolf army zebra guilt";
+var mnemonic = "defy treat dizzy mother play hip child initial gallery place coast voice";

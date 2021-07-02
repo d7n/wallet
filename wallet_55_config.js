@@ -1,1 +1,1 @@
-var mnemonic = "traffic champion laptop tortoise stem throw label consider cancel saddle walnut travel";
+var mnemonic = "nation sick write announce spread kid trash stairs alter kick midnight remove";

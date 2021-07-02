@@ -1,1 +1,1 @@
-var mnemonic = "weird only fiction alarm ripple test unable upon point rocket rice satisfy";
+var mnemonic = "picnic draft razor front south tank transfer basket mixed deny width immense";

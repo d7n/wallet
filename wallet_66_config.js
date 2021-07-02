@@ -1,1 +1,1 @@
-var mnemonic = "leader minute column recall street forest music actor problem crack summer mass";
+var mnemonic = "orbit melody diary anchor gentle unusual typical type matter join apology garlic";

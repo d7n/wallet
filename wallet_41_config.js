@@ -1,1 +1,1 @@
-var mnemonic = "vital mouse near allow tiny potato prosper derive detail country day lunch";
+var mnemonic = "verb diesel aware scrap appear cruise kitchen raven fresh melody post forward";

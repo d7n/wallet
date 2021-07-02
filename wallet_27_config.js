@@ -1,1 +1,1 @@
-var mnemonic = "echo spice leg truth bread similar suit abandon lobster episode dumb ozone";
+var mnemonic = "visual chuckle muffin auto unfold smile quantum observe immune mother there shoulder";

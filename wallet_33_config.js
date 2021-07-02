@@ -1,1 +1,1 @@
-var mnemonic = "link morning primary project away digital endorse disorder erode silver cupboard absurd";
+var mnemonic = "cruel comic rifle belt series gauge sleep diamond quiz step invite toast";

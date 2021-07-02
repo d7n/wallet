@@ -1,1 +1,1 @@
-var mnemonic = "slogan drill adapt found loan rent stuff attend magic under dish shift";
+var mnemonic = "fog member meadow result lecture cruise cash pear summer confirm grape kitchen";

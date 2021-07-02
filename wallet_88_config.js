@@ -1,1 +1,1 @@
-var mnemonic = "avoid cigar silent control permit pull shift emotion pave orchard digital window";
+var mnemonic = "burger vanish salmon extra brief story abstract gossip book stuff calm health";

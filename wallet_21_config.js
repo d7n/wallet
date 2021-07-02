@@ -1,1 +1,1 @@
-var mnemonic = "miracle gate stumble coach shine trophy taste river input flag alien truck";
+var mnemonic = "beauty entire glad access soccer pyramid cigar dawn hello bless sister devote";

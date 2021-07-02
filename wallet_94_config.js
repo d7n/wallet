@@ -1,1 +1,1 @@
-var mnemonic = "pact apple flavor viable pave law volume glance valley village crane electric";
+var mnemonic = "expose clerk cheap wrong airport boil doctor merge reject exhaust finish yard";

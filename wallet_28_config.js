@@ -1,1 +1,1 @@
-var mnemonic = "they muscle resource scrap cover wall sad enhance unable salute fury pencil";
+var mnemonic = "chat snow hour under original borrow hunt give inner eight arm frozen";

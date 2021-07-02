@@ -1,1 +1,1 @@
-var mnemonic = "trumpet length tape dutch betray stick stage apart story dial hole document";
+var mnemonic = "zebra chat erupt leader cave journey motor trap depend person raw tongue";

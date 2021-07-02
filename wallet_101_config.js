@@ -1,1 +1,1 @@
-var mnemonic = "hour math danger science chalk dignity spawn worry typical lake cat divert";
+var mnemonic = "sphere dolphin clean phrase express whisper nuclear oil angle equip offer damage";

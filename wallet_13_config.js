@@ -1,1 +1,1 @@
-var mnemonic = "despair quality taxi cruise invite brain misery number okay satoshi supreme globe";
+var mnemonic = "exhibit chunk ridge entry craft federal ill hope arctic mosquito equal timber";

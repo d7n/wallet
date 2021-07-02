@@ -1,1 +1,1 @@
-var mnemonic = "wrong hazard brand sea stove divert donate melt service vanish loan enforce";
+var mnemonic = "code glue pull tragic act library hammer wrist web rapid chimney joke";

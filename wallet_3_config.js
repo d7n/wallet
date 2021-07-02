@@ -1,1 +1,1 @@
-var mnemonic = "wealth one denial voice skull true test digital zone error foot style";
+var mnemonic = "meadow chalk essay unusual dance valid solar license rapid essence alter peasant";

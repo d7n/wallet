@@ -1,1 +1,1 @@
-var mnemonic = "lobster advance champion hurry gown labor few quick sniff fog put rebuild";
+var mnemonic = "record submit dawn photo elevator tackle exhibit beach pond exercise zoo join";

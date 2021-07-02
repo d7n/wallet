@@ -1,1 +1,1 @@
-var mnemonic = "desert must unfold oppose chef walk gym enact pudding lab leader father";
+var mnemonic = "valley spare magic devote hub method verify act symbol cancel seed seed";

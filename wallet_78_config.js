@@ -1,1 +1,1 @@
-var mnemonic = "rubber summer hour dinner taxi swing cover emerge actress way section measure";
+var mnemonic = "surge speak acquire rifle shoulder avoid invest print exchange east garbage tornado";

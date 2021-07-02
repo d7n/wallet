@@ -1,1 +1,1 @@
-var mnemonic = "pig clap manage physical core electric insect offer fat hip review damage";
+var mnemonic = "crop energy loan hollow allow unveil glue escape deposit engage spike present";

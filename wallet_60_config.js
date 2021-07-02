@@ -1,1 +1,1 @@
-var mnemonic = "income hub cross advance since reveal elbow purse anxiety badge stick torch";
+var mnemonic = "episode team owner student blossom crunch village weapon attend write novel soda";

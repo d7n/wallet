@@ -1,1 +1,1 @@
-var mnemonic = "school insane flag scatter decade token book renew spread stove soup mixture";
+var mnemonic = "trim bridge clip monitor mad power boost main birth know meadow blood";

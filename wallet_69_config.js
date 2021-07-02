@@ -1,1 +1,1 @@
-var mnemonic = "pulp vast torch provide nuclear certain remind check kiwi hedgehog response bicycle";
+var mnemonic = "embark clinic damp lamp always recall pupil true method vicious drip heart";

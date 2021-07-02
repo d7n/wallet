@@ -1,1 +1,1 @@
-var mnemonic = "purity nation outer text few library orange cricket jazz soul often like";
+var mnemonic = "prevent comfort lock dream truth pottery diet cattle lawsuit slow fiber enroll";

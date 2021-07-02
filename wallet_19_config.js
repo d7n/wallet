@@ -1,1 +1,1 @@
-var mnemonic = "sentence stove fetch hundred forest october west comic crack digital vague gloom";
+var mnemonic = "bacon topple rubber build vibrant seminar hurry blame remember split jacket verb";

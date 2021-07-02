@@ -1,1 +1,1 @@
-var mnemonic = "guilt sell hole swarm couple wonder fortune poverty fish lecture sound pattern";
+var mnemonic = "main tackle wall loan kitten master desert icon drama fringe zero across";

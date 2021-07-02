@@ -1,1 +1,1 @@
-var mnemonic = "fork remember avocado witness taxi trim glove paper initial cave orange lion";
+var mnemonic = "close host breeze tone common circle know rapid clump solution emotion claw";

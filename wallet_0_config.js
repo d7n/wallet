@@ -1,1 +1,1 @@
-var mnemonic = "remove noble crime glove chest illness apple bike vacuum eager frost hand";
+var mnemonic = "virus agent include network custom ankle horror broken must harbor retire chicken";

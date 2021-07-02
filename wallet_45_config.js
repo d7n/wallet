@@ -1,1 +1,1 @@
-var mnemonic = "lift infant hobby fox island sun armor fetch smart gown lava later";
+var mnemonic = "matrix pupil nephew forum magic survey invite plastic friend salmon web undo";

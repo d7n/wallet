@@ -1,1 +1,1 @@
-var mnemonic = "between ribbon special sleep certain sport bonus stage fan aisle dice record";
+var mnemonic = "casino snack accuse possible movie fiction cement output forward road dance message";

@@ -1,1 +1,1 @@
-var mnemonic = "charge faint script juice author magic dress total evidence script orbit flight";
+var mnemonic = "diagram position scatter turtle crawl work vote grab measure yard walk marine";

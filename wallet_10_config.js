@@ -1,1 +1,1 @@
-var mnemonic = "veteran loyal skin entry seven thumb spray life noble fossil dove access";
+var mnemonic = "bus adapt east pluck mixture salon eternal gate chicken pelican find dragon";

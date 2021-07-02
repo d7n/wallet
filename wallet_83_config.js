@@ -1,1 +1,1 @@
-var mnemonic = "laugh about security dash crash reflect total nice victory seed winter off";
+var mnemonic = "kangaroo dawn flash neck flag inspire gorilla pattern lemon polar abandon elder";

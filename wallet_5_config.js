@@ -1,1 +1,1 @@
-var mnemonic = "lesson peasant busy grit shadow dance sustain anger tilt mosquito tomato asthma";
+var mnemonic = "copy episode one embrace early slab rely average pig aerobic again chapter";

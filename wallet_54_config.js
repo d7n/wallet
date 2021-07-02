@@ -1,1 +1,1 @@
-var mnemonic = "weather then task library side busy portion butter increase space educate soft";
+var mnemonic = "vintage electric master gather trophy ignore practice pledge latin adult ahead ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "april emerge desk wedding private stairs expire habit safe kite mail proud";
+var mnemonic = "animal visa accuse stairs urban miss squirrel glance local dry dirt message";

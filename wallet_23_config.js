@@ -1,1 +1,1 @@
-var mnemonic = "airport awesome jump original produce drink elephant vocal ozone chapter stomach short";
+var mnemonic = "planet era furnace approve shrug eagle reason worth device elephant setup exotic";

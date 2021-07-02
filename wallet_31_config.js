@@ -1,1 +1,1 @@
-var mnemonic = "quote walk special secret april alter detect item hire change end upgrade";
+var mnemonic = "dismiss liar whip divorce grow castle cinnamon release orient illness front barely";

@@ -1,1 +1,1 @@
-var mnemonic = "vague cigar strategy bomb zoo trade keen issue enjoy body ostrich leave";
+var mnemonic = "planet network van transfer phrase circle snow machine idea coin logic else";

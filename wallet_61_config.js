@@ -1,1 +1,1 @@
-var mnemonic = "match essay mirror casino claw mutual spoon potato make network uniform swallow";
+var mnemonic = "news soon limb bid pulse stuff deal mosquito luxury also stairs vicious";

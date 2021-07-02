@@ -1,1 +1,1 @@
-var mnemonic = "guilt total arrange pilot wine crater daughter already episode obey erase hollow";
+var mnemonic = "advice demand say planet slot pole cigar warfare slim clip supreme slide";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger few vacant grace forum dial taxi say hat position bone equal";
+var mnemonic = "place emotion text net monster bamboo cattle december effort try student flower";

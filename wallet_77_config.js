@@ -1,1 +1,1 @@
-var mnemonic = "run level manage enough wife lend volume tag animal ritual young truck";
+var mnemonic = "clip plate olympic army outside tent hamster stereo humor cup total fossil";

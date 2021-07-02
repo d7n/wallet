@@ -1,1 +1,1 @@
-var mnemonic = "stamp guilt vehicle symptom rotate harvest zone initial just symptom olive vendor";
+var mnemonic = "capable foster rebel write guard toss medal rail mouse unable cycle bless";

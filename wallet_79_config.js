@@ -1,1 +1,1 @@
-var mnemonic = "more solve unlock immune bronze coffee write dream maple purse actor enjoy";
+var mnemonic = "scan decrease useful voyage vault hip survey parent measure number acoustic card";

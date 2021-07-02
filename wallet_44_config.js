@@ -1,1 +1,1 @@
-var mnemonic = "body begin popular tuna waste glass crowd large imitate catch decide pistol";
+var mnemonic = "beauty option garbage tube try link dice pole cupboard tube toss polar";

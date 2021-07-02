@@ -1,1 +1,1 @@
-var mnemonic = "nerve chef pulp phone sponsor ball delay desk sure buyer girl shell";
+var mnemonic = "hurry process dolphin tiny retire sock acquire since visa process treat alter";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology discover hip hybrid mother source gloom genuine public message rule cash";
+var mnemonic = "priority canoe raccoon kingdom climb rotate endorse letter stand next usual cream";

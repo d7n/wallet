@@ -1,1 +1,1 @@
-var mnemonic = "symptom stay alpha source blame sort wife subject mountain prepare wait document";
+var mnemonic = "novel film adult dynamic debris boy review ginger dry reject push patient";

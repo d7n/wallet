@@ -1,1 +1,1 @@
-var mnemonic = "before execute stamp song amateur enemy unique diesel recycle kitten source junior";
+var mnemonic = "planet donate bacon solid benefit rebel vapor voice submit suspect direct true";

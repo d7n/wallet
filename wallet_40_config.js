@@ -1,1 +1,1 @@
-var mnemonic = "often urge city you earth inquiry wool devote shoulder job glass liquid";
+var mnemonic = "produce truck cement canvas uniform bike confirm virus club then gaze anxiety";

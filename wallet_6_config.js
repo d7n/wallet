@@ -1,1 +1,1 @@
-var mnemonic = "slam satoshi air thought joke spike step gold spring glare behind traffic";
+var mnemonic = "album shoulder story quantum captain dawn jazz ring master plunge sleep cherry";

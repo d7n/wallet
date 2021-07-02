@@ -1,1 +1,1 @@
-var mnemonic = "turtle vote earn emerge grape candy hobby pipe pave hurt noble marriage";
+var mnemonic = "venture clay raw infant ride manual hotel gravity crazy flight icon awful";

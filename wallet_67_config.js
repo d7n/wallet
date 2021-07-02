@@ -1,1 +1,1 @@
-var mnemonic = "person repeat wave volcano orbit deliver royal annual heart settle pulse cluster";
+var mnemonic = "attend announce endless piece note vanish problem ordinary regular domain true name";
