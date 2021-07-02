@@ -1,1 +1,1 @@
-var mnemonic = "tomato method notice insane trip equal credit farm clown interest woman toast";
+var mnemonic = "robot boil egg giant turkey come moon flat lake advice desk pole";

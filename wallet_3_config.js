@@ -1,1 +1,1 @@
-var mnemonic = "first caught crystal hidden error consider future toast loop defense frozen viable";
+var mnemonic = "hope smile vacant lava price mystery level august young fame perfect spice";

@@ -1,1 +1,1 @@
-var mnemonic = "sad loop amateur cage arrest brush news fitness opinion case joy dizzy";
+var mnemonic = "begin false shy situate foot stand orchard opera found matrix anger today";

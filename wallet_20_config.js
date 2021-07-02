@@ -1,1 +1,1 @@
-var mnemonic = "adjust history antenna despair assume movie garlic wing draw spoil snack embody";
+var mnemonic = "decrease modify comfort power awake dinosaur item excess pave scan draft field";

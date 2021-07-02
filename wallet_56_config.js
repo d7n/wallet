@@ -1,1 +1,1 @@
-var mnemonic = "wrestle check rapid sort palace direct bright glimpse brand scan icon group";
+var mnemonic = "they cross buddy menu camp poverty today okay clutch stick fury attract";

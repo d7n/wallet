@@ -1,1 +1,1 @@
-var mnemonic = "want rather affair either teach culture pencil you century food fly average";
+var mnemonic = "injury supply wife saddle title sample elder guilt bird wink shop peanut";

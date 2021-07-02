@@ -1,1 +1,1 @@
-var mnemonic = "flip lumber sweet throw silent ankle amazing job become mandate cigar crop";
+var mnemonic = "empty profit little share hello spin great boost supply car wire purity";

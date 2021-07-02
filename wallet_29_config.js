@@ -1,1 +1,1 @@
-var mnemonic = "matrix staff flat main develop original raccoon bind know veteran mixed hungry";
+var mnemonic = "spin parade budget trap build beach fix front weather zoo exit advance";

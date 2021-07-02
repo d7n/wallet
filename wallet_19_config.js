@@ -1,1 +1,1 @@
-var mnemonic = "fantasy receive skull sponsor gorilla snack grain orphan wheat cannon soft armor";
+var mnemonic = "throw alone october label ostrich rally skate afford else collect blanket harbor";

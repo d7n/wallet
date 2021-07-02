@@ -1,1 +1,1 @@
-var mnemonic = "dutch review mind couple fortune joke flavor diary increase speed grace palm";
+var mnemonic = "there glimpse space kid eyebrow chapter hurdle enjoy stand report brisk music";

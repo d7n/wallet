@@ -1,1 +1,1 @@
-var mnemonic = "reform act axis agree effort letter adjust charge gun essence ship you";
+var mnemonic = "warm diamond tunnel month buyer absorb initial into rare rookie boost grain";

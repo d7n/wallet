@@ -1,1 +1,1 @@
-var mnemonic = "nurse lunch produce unlock route outside define purity silly boat draw game";
+var mnemonic = "right melody warm hungry fantasy run loud clap mosquito flavor speak claim";

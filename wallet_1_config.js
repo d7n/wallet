@@ -1,1 +1,1 @@
-var mnemonic = "hub joy error fee custom summer puzzle walk frog rug gauge happy";
+var mnemonic = "absorb crawl adapt panther setup various pig celery resemble project inspire miss";

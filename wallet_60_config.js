@@ -1,1 +1,1 @@
-var mnemonic = "hood seed offer trophy monster mercy filter lift erase inner peasant stove";
+var mnemonic = "jelly wish sauce climb deny august armor survey real mad obey noodle";

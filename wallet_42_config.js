@@ -1,1 +1,1 @@
-var mnemonic = "tribe front rely solve power pigeon split recipe jungle crunch fatal require";
+var mnemonic = "prosper race grape luxury sphere give fetch material tomato dance eager better";

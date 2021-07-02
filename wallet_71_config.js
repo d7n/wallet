@@ -1,1 +1,1 @@
-var mnemonic = "kitchen six width indoor beach play skate fury blush surprise scorpion mechanic";
+var mnemonic = "corn high degree valve runway letter garlic wide document wrap message any";

@@ -1,1 +1,1 @@
-var mnemonic = "steak net absent near page office acoustic lucky forward under maple blame";
+var mnemonic = "derive noble people prepare hill agent kiwi seed cushion canal tribe eternal";

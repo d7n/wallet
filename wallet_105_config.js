@@ -1,1 +1,1 @@
-var mnemonic = "betray edit swap book buddy amused shine awesome kangaroo cage company table";
+var mnemonic = "speak report fresh copy spike priority vocal trumpet omit favorite chest deputy";

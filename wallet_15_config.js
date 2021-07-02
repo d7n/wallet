@@ -1,1 +1,1 @@
-var mnemonic = "news correct crucial bind illegal scissors garbage spider all profit soldier leave";
+var mnemonic = "anger embrace sting achieve edge inch surge song boat vote rely jungle";

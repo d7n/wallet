@@ -1,1 +1,1 @@
-var mnemonic = "memory vessel start stove flush acoustic hello tribe physical february miracle awake";
+var mnemonic = "destroy bleak name iron bottom sand live basic project peanut own mercy";

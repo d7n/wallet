@@ -1,1 +1,1 @@
-var mnemonic = "tape toward verify drift plate cake crazy slight excess fantasy purity deal";
+var mnemonic = "canoe used lava alone lesson air brother force smooth sign soap build";

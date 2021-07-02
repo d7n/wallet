@@ -1,1 +1,1 @@
-var mnemonic = "abuse family picture camera again rescue hill curious torch universe dilemma keep";
+var mnemonic = "giggle inside sad slide initial invite mix grocery fortune abuse give furnace";

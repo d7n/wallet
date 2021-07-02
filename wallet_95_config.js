@@ -1,1 +1,1 @@
-var mnemonic = "drama valve fix ankle cram clerk spend dance evolve cry breeze human";
+var mnemonic = "royal add rebuild kite puppy alone tower tired nice enemy lunch escape";

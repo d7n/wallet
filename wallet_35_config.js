@@ -1,1 +1,1 @@
-var mnemonic = "blame inflict pigeon absent print response shaft into ripple stool mystery grief";
+var mnemonic = "online humble shuffle category pet cake scheme note priority credit arm outside";

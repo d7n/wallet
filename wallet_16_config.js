@@ -1,1 +1,1 @@
-var mnemonic = "food deny twist upon crunch skill cycle inspire tonight capital bike strong";
+var mnemonic = "warm enough box solid zone debris loop exact doll useful plunge bitter";

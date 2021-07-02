@@ -1,1 +1,1 @@
-var mnemonic = "double flat blast tray resist erase inside proud gravity maximum nation source";
+var mnemonic = "must wild milk peasant vacant loud order fluid addict travel enemy deliver";

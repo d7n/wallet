@@ -1,1 +1,1 @@
-var mnemonic = "hip town theory rural chapter coyote vintage double liberty arrest enrich crime";
+var mnemonic = "welcome kingdom exit palm come fuel give hammer aunt sort hello dance";

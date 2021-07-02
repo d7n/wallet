@@ -1,1 +1,1 @@
-var mnemonic = "pave twist cube favorite fringe latin carbon provide connect empty raise upon";
+var mnemonic = "suspect tenant inherit illegal chair quality lumber base elegant nation nerve museum";

@@ -1,1 +1,1 @@
-var mnemonic = "reason call fortune wild fiction explain basic pole tide myself defense pear";
+var mnemonic = "vehicle elevator magic dog liar then reason coast guilt wish obtain special";

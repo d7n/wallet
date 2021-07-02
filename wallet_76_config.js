@@ -1,1 +1,1 @@
-var mnemonic = "loan gas stock life original will kitten wet only arrive rule trade";
+var mnemonic = "drift derive humor occur voice glue vital secret firm inspire soul pause";

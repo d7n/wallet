@@ -1,1 +1,1 @@
-var mnemonic = "keep pause air soul unable sword trip sunny giggle field fashion issue";
+var mnemonic = "traffic grit aspect little wool goose wire carpet pottery basket pink cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "thing pole grape tongue pluck clean joy tennis inherit mention turkey bone";
+var mnemonic = "prison bamboo prepare novel pitch unfair position sight increase panda rotate avoid";

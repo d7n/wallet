@@ -1,1 +1,1 @@
-var mnemonic = "dice special want ignore spirit network scrub pool van domain slab route";
+var mnemonic = "image angle claim gun eyebrow culture start clog marine member elder rare";

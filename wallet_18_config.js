@@ -1,1 +1,1 @@
-var mnemonic = "gym prefer task meadow domain subject tenant return company banner canoe now";
+var mnemonic = "harsh race shy hat dose foot good daughter peasant skin frequent pond";

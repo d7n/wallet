@@ -1,1 +1,1 @@
-var mnemonic = "swamp runway note giraffe junior dose text park cool magnet similar fashion";
+var mnemonic = "liquid delay fitness silver script eyebrow forget room lottery diamond now weapon";

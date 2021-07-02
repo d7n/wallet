@@ -1,1 +1,1 @@
-var mnemonic = "donate wedding license candy image crack aerobic dove endorse inspire injury bachelor";
+var mnemonic = "horn aim around undo someone south judge gate elevator lottery wife card";

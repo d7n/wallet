@@ -1,1 +1,1 @@
-var mnemonic = "shove strike effort album scatter unusual donor solid carry month child series";
+var mnemonic = "secret mushroom voice quick chicken eagle dish wheat base define glimpse picnic";

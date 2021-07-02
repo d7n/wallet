@@ -1,1 +1,1 @@
-var mnemonic = "cave merge wonder wheel find armor salmon spy coast envelope ostrich unlock";
+var mnemonic = "bread chicken any release useless tent breeze brick lake renew energy wheat";

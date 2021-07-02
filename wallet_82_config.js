@@ -1,1 +1,1 @@
-var mnemonic = "minimum crime magic actress have sail sign aim invite favorite bus humble";
+var mnemonic = "autumn mango orange coin rough hedgehog elevator strategy south affair joy toward";

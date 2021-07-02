@@ -1,1 +1,1 @@
-var mnemonic = "pen defy potato enhance farm grow frequent proof hero enroll practice enjoy";
+var mnemonic = "release fine sun burst exit ladder motion sweet soup force meadow vintage";

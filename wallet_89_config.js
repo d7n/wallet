@@ -1,1 +1,1 @@
-var mnemonic = "fire plate code rude supply neutral truly surround nice act motor exhaust";
+var mnemonic = "sibling high sudden gloom indicate heart nation follow skin pledge swing hockey";

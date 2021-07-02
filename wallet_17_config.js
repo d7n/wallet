@@ -1,1 +1,1 @@
-var mnemonic = "mixture off enter afraid tube volcano neck reopen toward ball hard garment";
+var mnemonic = "satoshi tool speed sign artwork arrange sausage project brief time crunch cloth";

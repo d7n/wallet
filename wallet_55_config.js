@@ -1,1 +1,1 @@
-var mnemonic = "chimney spike mesh leisure nominee violin nation afraid quality useful drink find";
+var mnemonic = "grape saddle erosion sun girl tube delay shaft science goose crash will";

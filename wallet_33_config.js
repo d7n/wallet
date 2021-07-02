@@ -1,1 +1,1 @@
-var mnemonic = "dress unit guide buddy ankle argue toward arctic flavor lake grow evidence";
+var mnemonic = "chicken crawl tortoise aspect rent quantum rose negative intact multiply possible text";

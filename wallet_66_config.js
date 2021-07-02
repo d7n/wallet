@@ -1,1 +1,1 @@
-var mnemonic = "space glass absurd equip mistake segment already helmet target call change stomach";
+var mnemonic = "scale beyond notice motion quiz goddess tourist roof slam empower major busy";

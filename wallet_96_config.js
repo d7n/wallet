@@ -1,1 +1,1 @@
-var mnemonic = "image piano luggage motion tunnel addict sure swallow display jewel hurt soon";
+var mnemonic = "chapter opinion evoke stage usage earth relax breeze churn nice insect dream";

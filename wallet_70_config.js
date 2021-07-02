@@ -1,1 +1,1 @@
-var mnemonic = "bottom spin asset inch human sweet lawsuit film vacant fantasy net muscle";
+var mnemonic = "answer trigger exclude someone round stand nature two city turkey piece hamster";

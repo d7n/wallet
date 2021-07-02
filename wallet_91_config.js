@@ -1,1 +1,1 @@
-var mnemonic = "mutual champion nasty kid castle misery uncover gravity pole print pudding canoe";
+var mnemonic = "shy oven van blade soldier roof wink hazard absent junk monster chat";

@@ -1,1 +1,1 @@
-var mnemonic = "focus suffer aerobic quick manage ahead volume armor daring spring husband lunch";
+var mnemonic = "canyon column mandate grain chase work snow treat you gesture undo flight";

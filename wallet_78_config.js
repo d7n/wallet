@@ -1,1 +1,1 @@
-var mnemonic = "weather dwarf very spot book silk prison giggle opera switch huge behave";
+var mnemonic = "helmet grit muscle chalk general pole aim lobster arrow candy dune night";

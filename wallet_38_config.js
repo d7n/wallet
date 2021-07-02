@@ -1,1 +1,1 @@
-var mnemonic = "rigid snap correct throw method list reward famous now palm coach latin";
+var mnemonic = "bus faith grant buddy music tomorrow filter veteran chaos salon unknown case";

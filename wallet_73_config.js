@@ -1,1 +1,1 @@
-var mnemonic = "pencil adult spring lobster stand speak welcome arena surge west ski stand";
+var mnemonic = "family pen ability devote replace gas sister actor burst state dish entry";

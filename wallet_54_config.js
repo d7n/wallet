@@ -1,1 +1,1 @@
-var mnemonic = "valve bonus dog grocery rich round oak sibling tomato salt pet rapid";
+var mnemonic = "start once calm artefact burden cricket skin journey deny deny front collect";

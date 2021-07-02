@@ -1,1 +1,1 @@
-var mnemonic = "embody mandate double cluster pride surface view wink trophy income choose bike";
+var mnemonic = "rabbit soup yard lamp jealous twice edit master update defy wink please";

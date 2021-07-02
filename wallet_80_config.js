@@ -1,1 +1,1 @@
-var mnemonic = "risk animal weather wage number two slam salt scout brown define claw";
+var mnemonic = "demise speed kiss rabbit cinnamon quarter potato people unaware trip hawk cattle";

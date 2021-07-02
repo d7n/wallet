@@ -1,1 +1,1 @@
-var mnemonic = "digital net hire shop dwarf ivory quick pair wood parade home inject";
+var mnemonic = "envelope present unhappy pull tiny figure again true artist orphan zero bullet";

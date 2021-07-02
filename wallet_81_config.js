@@ -1,1 +1,1 @@
-var mnemonic = "bicycle kind journey tell endorse sniff earth future cereal include weasel drama";
+var mnemonic = "target innocent wave run need monitor awake used piano cage ill battle";

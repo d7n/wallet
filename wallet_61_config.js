@@ -1,1 +1,1 @@
-var mnemonic = "teach link maximum uncle scale disagree toward hole join hawk carbon casino";
+var mnemonic = "east select retreat dilemma oxygen soup dawn album series coconut next avocado";

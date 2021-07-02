@@ -1,1 +1,1 @@
-var mnemonic = "party brown sheriff tenant hint bar enact win trend they much genius";
+var mnemonic = "swallow dismiss side tail junk sight liar prize neglect veteran scorpion response";

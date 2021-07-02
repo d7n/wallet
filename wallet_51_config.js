@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog blouse tooth work caught midnight ridge flavor hope number erosion example";
+var mnemonic = "volume eye burden staff because fluid face wealth render vibrant merit pupil";

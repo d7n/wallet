@@ -1,1 +1,1 @@
-var mnemonic = "immense parent garbage shadow food napkin during harbor liar now crazy faint";
+var mnemonic = "century share dirt net develop whip between banana bulb frog bounce energy";

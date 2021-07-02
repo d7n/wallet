@@ -1,1 +1,1 @@
-var mnemonic = "animal unfair math glory net orphan minor balance festival because corn before";
+var mnemonic = "now shed theory nothing friend response very garage bonus meat second cheap";

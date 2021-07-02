@@ -1,1 +1,1 @@
-var mnemonic = "spider horn tip milk path athlete trap frown arena poet afford edge";
+var mnemonic = "worry you elder soda thought pipe else buzz circle install oak kick";

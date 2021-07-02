@@ -1,1 +1,1 @@
-var mnemonic = "angry square negative refuse verify soon point bracket below woman garlic escape";
+var mnemonic = "awful stereo smile amount rib health skate wolf corn there pumpkin shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "spy wealth shallow choose legend wild remember east until biology song taxi";
+var mnemonic = "advance endorse topple regret either mechanic rent edit sound poem brother orbit";

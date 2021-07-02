@@ -1,1 +1,1 @@
-var mnemonic = "print height village piece blouse liquid nut sword issue hedgehog opinion local";
+var mnemonic = "allow wrestle speak fabric ghost coast marriage major glow taste biology protect";

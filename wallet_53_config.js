@@ -1,1 +1,1 @@
-var mnemonic = "lion spirit ignore lumber drift trap need square walk can same thrive";
+var mnemonic = "spoil equal alley camera page effort mammal hat magic post peace barely";

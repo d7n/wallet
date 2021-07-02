@@ -1,1 +1,1 @@
-var mnemonic = "carbon great fuel weird school improve burst pig sort alien present during";
+var mnemonic = "play combine expand income inflict purse feel mushroom derive chronic tool mirror";

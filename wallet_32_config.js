@@ -1,1 +1,1 @@
-var mnemonic = "circle rather crystal talent more diamond confirm cancel grief exotic always autumn";
+var mnemonic = "goddess misery tenant mask finish future rule indoor unhappy cheap rate blur";

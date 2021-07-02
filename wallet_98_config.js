@@ -1,1 +1,1 @@
-var mnemonic = "else pave multiply one stuff noise acoustic dog announce danger uncover infant";
+var mnemonic = "decrease discover obscure tray pair tragic dune coast road fever hair enjoy";

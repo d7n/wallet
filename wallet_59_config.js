@@ -1,1 +1,1 @@
-var mnemonic = "cushion miracle wealth promote music office turtle style chuckle click act permit";
+var mnemonic = "swing honey length hobby faculty pitch depart pave pumpkin judge taste screen";

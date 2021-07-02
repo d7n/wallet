@@ -1,1 +1,1 @@
-var mnemonic = "harsh blast shield pattern bunker inform leader brick quantum inject art chicken";
+var mnemonic = "letter miss phone sting stand orange buyer yard library fault cloth worth";

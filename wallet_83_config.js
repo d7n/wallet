@@ -1,1 +1,1 @@
-var mnemonic = "broccoli cannon urban same state aim lazy soup initial stomach hurdle print";
+var mnemonic = "luggage slot heart december client return match have situate spike job apple";

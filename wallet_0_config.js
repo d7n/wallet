@@ -1,1 +1,1 @@
-var mnemonic = "unlock crime romance primary chunk garage pyramid super wool quarter way local";
+var mnemonic = "orphan skirt arrive gorilla actress exotic salmon area leave soccer remove calm";

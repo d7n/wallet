@@ -1,1 +1,1 @@
-var mnemonic = "practice decade shop punch taxi ordinary twelve father fault unveil around orient";
+var mnemonic = "sign blouse soldier ripple lonely angry reject involve breeze unhappy produce strong";

@@ -1,1 +1,1 @@
-var mnemonic = "undo october force kind become friend fantasy anxiety blood phrase claim shaft";
+var mnemonic = "fresh endorse animal valid staff later match gospel bubble young talk lizard";

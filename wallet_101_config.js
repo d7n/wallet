@@ -1,1 +1,1 @@
-var mnemonic = "soup mixed memory quantum season assault armor route pluck skill term release";
+var mnemonic = "hill night extend chicken blur canyon tattoo cram oyster vehicle eye boy";

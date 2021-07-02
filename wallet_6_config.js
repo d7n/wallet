@@ -1,1 +1,1 @@
-var mnemonic = "evoke trophy veteran educate where jaguar glow life genius boil eye good";
+var mnemonic = "tide wife debris brand carry bracket assist reason left tower chuckle science";

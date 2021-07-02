@@ -1,1 +1,1 @@
-var mnemonic = "shuffle damp van shrimp rate bulb gun steel creek attack banner enemy";
+var mnemonic = "chronic only flush vacant dirt cactus tissue neck join deer chat west";

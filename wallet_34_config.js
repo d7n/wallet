@@ -1,1 +1,1 @@
-var mnemonic = "stove voyage agent lion private syrup surprise chapter jacket feature solve vote";
+var mnemonic = "shaft lumber blush napkin robot monster bundle orbit chair exist jeans attack";

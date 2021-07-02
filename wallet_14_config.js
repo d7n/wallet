@@ -1,1 +1,1 @@
-var mnemonic = "congress confirm fog near useful always fossil garden garage before police ridge";
+var mnemonic = "strategy into very foam install inspire swear cattle dismiss loyal lonely drum";

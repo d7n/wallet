@@ -1,1 +1,1 @@
-var mnemonic = "combine this soda lab bronze tank maple couple clap film outdoor top";
+var mnemonic = "game swim amazing cattle symbol antique sand laundry recipe energy sign tree";

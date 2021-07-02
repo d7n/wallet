@@ -1,1 +1,1 @@
-var mnemonic = "time antenna foster toss educate wage shrimp what bronze upset pond tree";
+var mnemonic = "memory neither quiz fork essay lazy panic cruise salmon bean squirrel jaguar";

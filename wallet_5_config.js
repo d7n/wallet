@@ -1,1 +1,1 @@
-var mnemonic = "acquire give deny adult decade south clown april ginger violin lens name";
+var mnemonic = "range evidence alpha runway fluid milk zero setup size orbit please nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "garage faint path coach they kiss toilet window salute wagon unveil belt";
+var mnemonic = "rubber wage doctor jelly peasant ginger rug camera raven east art vintage";

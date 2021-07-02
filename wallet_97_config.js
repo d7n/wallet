@@ -1,1 +1,1 @@
-var mnemonic = "damage maid nominee print object flight short burst judge city retire index";
+var mnemonic = "tribe rare glue wheat arch banner glance abstract model junior between strategy";

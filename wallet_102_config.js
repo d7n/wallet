@@ -1,1 +1,1 @@
-var mnemonic = "web actress post kid dismiss equal kiwi wall cherry dad giraffe mixture";
+var mnemonic = "network toast canal sock theory kiwi payment climb floor local gap earn";

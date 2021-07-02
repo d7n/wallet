@@ -1,1 +1,1 @@
-var mnemonic = "cup chief venture merry blanket find cricket ripple noise drink purse country";
+var mnemonic = "now layer fun crunch thought box act crew margin rather roof corn";

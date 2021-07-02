@@ -1,1 +1,1 @@
-var mnemonic = "matrix praise say improve group try congress foam limb crisp surround fine";
+var mnemonic = "planet excess demise double capital assault lens exist notable point view genuine";

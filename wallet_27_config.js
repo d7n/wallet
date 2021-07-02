@@ -1,1 +1,1 @@
-var mnemonic = "kiwi devote cream shoot move symbol cancel hour copper fiscal grape express";
+var mnemonic = "oyster history welcome trim skull nut stand face seek drip coral verb";

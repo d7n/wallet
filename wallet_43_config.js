@@ -1,1 +1,1 @@
-var mnemonic = "walnut grocery all inject pigeon snap damage intact across negative good near";
+var mnemonic = "husband artwork learn dose link tomorrow hotel lounge finish drop early bind";

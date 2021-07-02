@@ -1,1 +1,1 @@
-var mnemonic = "project weapon athlete fit army narrow sponsor silver shoot raccoon practice trim";
+var mnemonic = "moment hint echo possible genius stand school repair nurse sad glove mountain";

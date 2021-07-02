@@ -1,1 +1,1 @@
-var mnemonic = "turtle thunder smile judge island cause job virtual amused ethics measure still";
+var mnemonic = "eye noble sadness outer family design simple scorpion medal shoe portion tag";
