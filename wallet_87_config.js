@@ -1,1 +1,1 @@
-var mnemonic = "try bullet dumb scrap mechanic noble leopard gesture bag rich fence marine";
+var mnemonic = "spring bench group subject sun mystery final piece swift panther split engage";

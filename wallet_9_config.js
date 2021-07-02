@@ -1,1 +1,1 @@
-var mnemonic = "domain cotton taste token maximum pond local describe tiger cross chair kind";
+var mnemonic = "interest genre meadow tribe boil limit short hundred scout birth goat repeat";

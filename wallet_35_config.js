@@ -1,1 +1,1 @@
-var mnemonic = "record surface hour toilet poet supreme exile buyer pass reflect always tube";
+var mnemonic = "moment punch gown disorder assault answer salmon element brief hospital exchange impulse";

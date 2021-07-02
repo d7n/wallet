@@ -1,1 +1,1 @@
-var mnemonic = "cheese leisure space oblige already inject clinic rail rude drive accident topic";
+var mnemonic = "century setup void record same neutral armor expire crop enroll clock unveil";

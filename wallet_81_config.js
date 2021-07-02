@@ -1,1 +1,1 @@
-var mnemonic = "thank lounge fiction choose wine pigeon broom color alarm sense vast burger";
+var mnemonic = "absent problem side pink power middle artwork image mad van frequent hair";

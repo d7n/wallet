@@ -1,1 +1,1 @@
-var mnemonic = "math taxi section window hello source idea senior limb come saddle shift";
+var mnemonic = "rescue bless squirrel cluster profit decrease question poverty return soda long broccoli";

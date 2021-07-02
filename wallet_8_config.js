@@ -1,1 +1,1 @@
-var mnemonic = "suggest cute method gold involve monster expand reject style fossil spy idle";
+var mnemonic = "pig bronze hidden hen crucial orchard arrive review option basket scrap ten";

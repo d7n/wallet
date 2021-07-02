@@ -1,1 +1,1 @@
-var mnemonic = "brief easily wrestle yard prize false silent project trust work sort recall";
+var mnemonic = "bamboo wage hidden real cube forum enemy dice jaguar sugar project else";

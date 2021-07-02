@@ -1,1 +1,1 @@
-var mnemonic = "inner humble edit myth quantum merge soap gown audit garden tape fragile";
+var mnemonic = "world add soon hybrid dance robot ginger army crumble planet film snap";

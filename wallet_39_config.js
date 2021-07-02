@@ -1,1 +1,1 @@
-var mnemonic = "fortune option pole inherit amount gym rigid wool viable test rail tide";
+var mnemonic = "arm cloth carpet intact step reward easily rely weapon hurry annual grass";

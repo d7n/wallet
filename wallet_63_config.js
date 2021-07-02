@@ -1,1 +1,1 @@
-var mnemonic = "dentist repair title casino gesture shoe switch panda squeeze soul idea later";
+var mnemonic = "shield feed describe material hub girl move marriage treat panda crazy rail";

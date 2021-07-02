@@ -1,1 +1,1 @@
-var mnemonic = "clown next sick spoil true attitude surge they shed neutral depend mix";
+var mnemonic = "object sense orient list enhance rifle general noble tourist citizen purse gain";

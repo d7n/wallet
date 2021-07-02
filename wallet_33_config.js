@@ -1,1 +1,1 @@
-var mnemonic = "slight release trap solar enroll donor gown vault transfer rain service phone";
+var mnemonic = "choose shrimp mirror master make nation ancient diagram sustain treat merry oyster";

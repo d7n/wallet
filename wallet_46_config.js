@@ -1,1 +1,1 @@
-var mnemonic = "until sentence body pull cabin pluck coffee price pig giggle slim focus";
+var mnemonic = "ethics private tumble they trophy empty ten ticket dad rhythm unhappy credit";

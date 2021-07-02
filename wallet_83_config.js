@@ -1,1 +1,1 @@
-var mnemonic = "slide later human enter first few pluck work antenna slow pact half";
+var mnemonic = "decade sun upper lyrics area kite change forget area razor grocery know";

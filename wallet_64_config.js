@@ -1,1 +1,1 @@
-var mnemonic = "fog depend sausage shed poverty divorce dirt board curious govern jar plug";
+var mnemonic = "donor blood pact mushroom sadness core jump mountain pen latin public pony";

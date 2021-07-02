@@ -1,1 +1,1 @@
-var mnemonic = "mention dry report update rose engine minute fabric wrap crash morning nominee";
+var mnemonic = "loan obvious drip charge oyster apple proud jewel marriage napkin hour loud";

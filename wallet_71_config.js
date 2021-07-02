@@ -1,1 +1,1 @@
-var mnemonic = "indicate forum vital spray hundred primary aspect tray escape favorite execute unit";
+var mnemonic = "impulse tape wait enough impulse text adapt fame harvest decline shoot owner";

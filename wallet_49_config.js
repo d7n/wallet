@@ -1,1 +1,1 @@
-var mnemonic = "economy pigeon mirror sponsor road kitten amazing rice attract mimic news grocery";
+var mnemonic = "spike head sure dune pluck ankle junk metal leopard barely impulse uniform";

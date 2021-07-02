@@ -1,1 +1,1 @@
-var mnemonic = "taste asset abandon traffic window flush napkin solve conduct fiction tiger dream";
+var mnemonic = "page dog report fall cover defy segment frog girl cradle wheat village";

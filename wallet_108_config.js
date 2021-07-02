@@ -1,1 +1,1 @@
-var mnemonic = "hen hurt verb flavor any thought will balance marine give project thrive";
+var mnemonic = "spike tenant reward disagree roof strategy flower rice rocket kit wheat tower";

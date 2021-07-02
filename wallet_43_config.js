@@ -1,1 +1,1 @@
-var mnemonic = "kitchen brother trick exist crystal open rural animal wing select orphan maximum";
+var mnemonic = "exclude bus silk dinner two point crime seat lumber child family undo";

@@ -1,1 +1,1 @@
-var mnemonic = "divide sheriff cat inmate grape south hurdle produce club bread hill note";
+var mnemonic = "local scatter orbit profit alley prefer talent chimney walk bring indoor goat";

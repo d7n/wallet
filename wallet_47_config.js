@@ -1,1 +1,1 @@
-var mnemonic = "provide flag rib minute put rigid human repair wolf penalty street text";
+var mnemonic = "spider adjust milk enforce improve visa cave siren gas limit cart note";

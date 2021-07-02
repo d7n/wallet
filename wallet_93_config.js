@@ -1,1 +1,1 @@
-var mnemonic = "equip rain age wish champion fabric labor stage duty cover onion exist";
+var mnemonic = "vote dirt fork unhappy coconut capable naive rather ability van resemble similar";

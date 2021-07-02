@@ -1,1 +1,1 @@
-var mnemonic = "ice copy alien lesson nuclear sunny manage tag loan fossil slot require";
+var mnemonic = "round jump second category wasp method easily buzz bonus orange nest derive";

@@ -1,1 +1,1 @@
-var mnemonic = "old where tree actual exhaust try exit biology tonight three people wing";
+var mnemonic = "inch side gun attack cancel meadow deer shiver borrow know liberty rose";

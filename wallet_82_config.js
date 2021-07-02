@@ -1,1 +1,1 @@
-var mnemonic = "nephew there useless sketch oval relief flock glow same light response agent";
+var mnemonic = "video carpet grab myth source birth mad book more sausage again pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal blame camera long castle mandate parade lunch resemble upgrade coin version";
+var mnemonic = "around lens garden nest isolate morning estate frown boil canal tourist result";

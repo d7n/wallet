@@ -1,1 +1,1 @@
-var mnemonic = "hospital gap jungle confirm fancy sweet rich promote jar run raven fluid";
+var mnemonic = "brother car humor tuna into device social load dentist bubble trigger educate";

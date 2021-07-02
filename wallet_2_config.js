@@ -1,1 +1,1 @@
-var mnemonic = "spend celery horn uncle gentle later assist weird marble flame proof soft";
+var mnemonic = "camera patient theme more eye cover own adapt price west lawsuit repeat";

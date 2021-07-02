@@ -1,1 +1,1 @@
-var mnemonic = "evoke basic gym assault appear unknown evidence appear when child consider cheap";
+var mnemonic = "gather birth grant zebra degree balcony despair picture stool firm benefit buddy";

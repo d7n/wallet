@@ -1,1 +1,1 @@
-var mnemonic = "broom pencil sketch liar such decorate anchor pitch basic crater praise umbrella";
+var mnemonic = "method decrease sheriff trouble awful frequent mad nest actress lava anchor gadget";

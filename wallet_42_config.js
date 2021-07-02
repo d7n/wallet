@@ -1,1 +1,1 @@
-var mnemonic = "notice inflict food hero village soldier party holiday conduct such rug short";
+var mnemonic = "anxiety menu reunion script hub roast drum train health kidney firm math";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest memory afford scheme satoshi when cannon usual tilt lottery pair reduce";
+var mnemonic = "title cannon hand captain comic pencil shine lemon decorate clerk disagree picture";

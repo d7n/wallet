@@ -1,1 +1,1 @@
-var mnemonic = "gasp report kangaroo explain seek invest faith promote upon enhance finish diesel";
+var mnemonic = "large knock innocent embrace bomb obtain weekend scrub mechanic genre satisfy average";

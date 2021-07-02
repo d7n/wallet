@@ -1,1 +1,1 @@
-var mnemonic = "inject coin chicken energy order mom kiwi nuclear junk cover essay album";
+var mnemonic = "point bundle auto video snow best story inflict false reopen jelly prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "feature supreme champion flush food juice unfair exhibit govern matter glare script";
+var mnemonic = "humble wasp entire dumb concert genius observe wrestle laundry exhibit blame impose";

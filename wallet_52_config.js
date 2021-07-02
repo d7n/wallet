@@ -1,1 +1,1 @@
-var mnemonic = "nest humble alone ice dune chicken shock coral occur chimney give snap";
+var mnemonic = "distance powder hospital shoulder wire easily wear level put fitness armed marriage";

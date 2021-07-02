@@ -1,1 +1,1 @@
-var mnemonic = "cousin radar accuse stage certain estate special lizard easy hat dinner rude";
+var mnemonic = "tower real moral drill core cable isolate plastic horse soccer sorry warm";

@@ -1,1 +1,1 @@
-var mnemonic = "judge evil valid shy debris loud jacket broom harbor ecology street monkey";
+var mnemonic = "spend clog scorpion better book cereal away young abandon drastic obey clock";

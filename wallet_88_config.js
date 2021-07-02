@@ -1,1 +1,1 @@
-var mnemonic = "hunt purpose unknown mass latin embark board delay bitter liberty critic banana";
+var mnemonic = "device laugh lady oppose print clip cake wrestle wink awesome gasp glad";

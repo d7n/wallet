@@ -1,1 +1,1 @@
-var mnemonic = "lawn advice rug absent raccoon wing wage mention exchange roast lizard basic";
+var mnemonic = "basket wonder cheese peanut believe smooth benefit jacket rigid jungle double video";

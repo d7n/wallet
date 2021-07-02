@@ -1,1 +1,1 @@
-var mnemonic = "ugly enact peasant pioneer atom enough apart surround twist jeans small table";
+var mnemonic = "swap book indicate brother code spring crash judge harvest round snap image";

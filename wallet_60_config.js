@@ -1,1 +1,1 @@
-var mnemonic = "remove bread assume harsh offer until member all switch soccer else notice";
+var mnemonic = "pole initial husband weapon gravity crawl million become surface doll blade pottery";

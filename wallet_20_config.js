@@ -1,1 +1,1 @@
-var mnemonic = "solid chair truth know seat antenna inflict cabbage cable enable attract front";
+var mnemonic = "best crystal shine club eye edge impose canyon bomb girl dismiss ethics";

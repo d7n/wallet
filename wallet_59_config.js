@@ -1,1 +1,1 @@
-var mnemonic = "stage entire almost spoil patch electric lens raw ill east purpose shoulder";
+var mnemonic = "still patient hybrid rifle arch ivory message embark proof derive small device";

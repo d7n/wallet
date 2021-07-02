@@ -1,1 +1,1 @@
-var mnemonic = "lonely tired pelican honey outer biology combine soldier job attack walk absurd";
+var mnemonic = "pull mask teach sadness moon square involve bracket found pipe soup coin";

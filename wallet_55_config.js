@@ -1,1 +1,1 @@
-var mnemonic = "rebuild green ripple vacuum thunder current one eye topic bamboo valid carpet";
+var mnemonic = "enact trial follow angry lock close point frozen toss empty floor depth";

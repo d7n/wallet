@@ -1,1 +1,1 @@
-var mnemonic = "regret armor minute boss nation accident broken inhale corn before verify film";
+var mnemonic = "rent explain virus flat horn lesson fury opera grid industry shrimp truck";

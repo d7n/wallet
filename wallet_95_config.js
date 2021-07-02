@@ -1,1 +1,1 @@
-var mnemonic = "engage among bachelor buddy hurry next arctic beyond attitude average goose yellow";
+var mnemonic = "okay acid mercy pilot orphan steak jelly garden glare engine chimney timber";

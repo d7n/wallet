@@ -1,1 +1,1 @@
-var mnemonic = "pony shell rug magic slow angry mixture arctic chicken judge lock bulk";
+var mnemonic = "inside economy six provide crime obscure magnet rib place crunch remind cash";

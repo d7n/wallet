@@ -1,1 +1,1 @@
-var mnemonic = "essay fashion woman apology abuse before pilot near divide maze jealous shallow";
+var mnemonic = "wage shadow finish enforce bring dolphin spy stand lend artist wave drop";

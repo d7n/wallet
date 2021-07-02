@@ -1,1 +1,1 @@
-var mnemonic = "double tuition escape orchard course armed mercy absorb give inject cash crime";
+var mnemonic = "alone pledge figure disagree elevator source luxury final pyramid eagle deputy nose";

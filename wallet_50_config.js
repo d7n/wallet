@@ -1,1 +1,1 @@
-var mnemonic = "quality extend blame mail donate loop fog mystery early festival uncle grunt";
+var mnemonic = "tree useless canyon baby thrive frequent cat slab earth above actor bring";

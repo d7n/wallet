@@ -1,1 +1,1 @@
-var mnemonic = "bus blade moment attack perfect sunset aunt concert teach concert oven umbrella";
+var mnemonic = "width genius vacuum absorb dirt light limit enter floor brass hair exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology camp pause test nerve trend aware travel motion tennis live brisk";
+var mnemonic = "culture morning rice hover turtle under erase garage until learn stuff panic";

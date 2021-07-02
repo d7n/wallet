@@ -1,1 +1,1 @@
-var mnemonic = "mouse penalty bike candy again heart gossip stone egg word what police";
+var mnemonic = "ice motor fix reunion uncle duty close multiply club ranch neglect hint";

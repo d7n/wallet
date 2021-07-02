@@ -1,1 +1,1 @@
-var mnemonic = "trade weapon ball unusual praise beyond slush bubble obtain extend chase rocket";
+var mnemonic = "green physical bamboo subway crazy sword hungry north aisle picture garlic upper";

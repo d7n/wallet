@@ -1,1 +1,1 @@
-var mnemonic = "fish galaxy clever rather comic topple mirror approve hen air scare mind";
+var mnemonic = "crisp problem curtain term artist rival rescue across shine legal damp clutch";

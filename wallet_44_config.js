@@ -1,1 +1,1 @@
-var mnemonic = "neutral wrap draft smooth bar pioneer consider globe divert frog beach scene";
+var mnemonic = "report tattoo valley certain crunch unhappy flower bicycle icon gasp april rail";

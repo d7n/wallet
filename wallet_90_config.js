@@ -1,1 +1,1 @@
-var mnemonic = "skull fault blossom crystal protect kick voyage brother remove biology axis silent";
+var mnemonic = "foot expose front immune render exercise nut safe hire phrase make goddess";

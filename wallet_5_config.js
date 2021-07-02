@@ -1,1 +1,1 @@
-var mnemonic = "safe inflict gas inject wink elephant moon zero equip emotion early air";
+var mnemonic = "inherit electric because spirit choice trumpet case language dial drum ripple simple";

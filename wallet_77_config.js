@@ -1,1 +1,1 @@
-var mnemonic = "prosper bridge wreck beach blossom pride mansion hood absurd medal board okay";
+var mnemonic = "donor inflict vintage badge giggle sort settle photo one own same just";

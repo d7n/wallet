@@ -1,1 +1,1 @@
-var mnemonic = "apple thunder shrimp chuckle bench firm please nature cancel brush smooth design";
+var mnemonic = "grunt brass doll couple assume parade welcome balcony olympic leader script zebra";

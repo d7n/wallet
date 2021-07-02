@@ -1,1 +1,1 @@
-var mnemonic = "piece beef amazing chicken rabbit pistol slogan mouse swing box burden swarm";
+var mnemonic = "material mobile either pretty sunny romance riot joy heart team tobacco artist";

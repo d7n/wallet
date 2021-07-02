@@ -1,1 +1,1 @@
-var mnemonic = "enjoy work resemble gentle supreme box misery mosquito arrest catch tube jacket";
+var mnemonic = "aunt soon easy great uphold affair danger appear worry view time toy";

@@ -1,1 +1,1 @@
-var mnemonic = "group eye decade profit physical miracle dinner citizen soap festival salt execute";
+var mnemonic = "fruit quantum blue hybrid roast exchange island coyote injury outdoor comic used";

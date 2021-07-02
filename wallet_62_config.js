@@ -1,1 +1,1 @@
-var mnemonic = "unveil pyramid laugh skirt panic wife three primary broken power electric eight";
+var mnemonic = "skate bitter icon paper meadow inhale attack raw prepare elder bone skill";

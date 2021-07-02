@@ -1,1 +1,1 @@
-var mnemonic = "announce turtle truth fitness caught decide cluster chunk venture disagree boy forum";
+var mnemonic = "toe relax purse spell elevator resist awesome agent theme exhaust close imitate";

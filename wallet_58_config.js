@@ -1,1 +1,1 @@
-var mnemonic = "cigar will blur scatter recall color cover laptop abandon inject miss hotel";
+var mnemonic = "phrase trick wait coin phone betray top tube glide text sand amazing";

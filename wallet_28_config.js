@@ -1,1 +1,1 @@
-var mnemonic = "hybrid act velvet stable blast mystery chaos produce screen evil planet obvious";
+var mnemonic = "crazy merit dinosaur guard please sketch enhance choice tonight hurt seminar elephant";

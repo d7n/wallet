@@ -1,1 +1,1 @@
-var mnemonic = "awkward join stool space swamp own manage security you card cannon shiver";
+var mnemonic = "parrot actress sand peasant hen crew merge flag bacon evolve cheap outside";

@@ -1,1 +1,1 @@
-var mnemonic = "exact cargo motion polar foil crumble warrior pig desert view cloud apple";
+var mnemonic = "spy fringe firm grant valid frost whisper pause practice oyster labor run";

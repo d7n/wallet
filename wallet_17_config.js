@@ -1,1 +1,1 @@
-var mnemonic = "today soup present word leave crouch sure decrease rocket taste surge laptop";
+var mnemonic = "claim image coyote dilemma ketchup farm better wait car divert escape slice";

@@ -1,1 +1,1 @@
-var mnemonic = "hover burden rebuild cruise vintage valid quiz solid upon cupboard spirit sea";
+var mnemonic = "spin ordinary wise hunt assume lesson student indicate enter glad machine funny";

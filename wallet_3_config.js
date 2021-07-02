@@ -1,1 +1,1 @@
-var mnemonic = "surprise suit check ill math object curtain assist critic garment company opinion";
+var mnemonic = "asset sail special bullet monkey crazy broom lunar force false clean enrich";

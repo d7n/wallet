@@ -1,1 +1,1 @@
-var mnemonic = "unit demand replace talent lend aspect drastic blade hybrid build orbit west";
+var mnemonic = "fat spend ability soon satoshi side quick rotate news admit fiber anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect winner pave island female rural blind wheel spring such forward silent";
+var mnemonic = "pretty coast scene burst ring coach dignity private awesome cover chapter square";

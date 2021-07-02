@@ -1,1 +1,1 @@
-var mnemonic = "unit retire slam game maze cancel chapter gauge gadget assault brother famous";
+var mnemonic = "unfair want entry range virus minimum favorite clinic also input tissue dumb";

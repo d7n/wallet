@@ -1,1 +1,1 @@
-var mnemonic = "razor glass tube typical gentle ribbon spike engage between tenant cart bachelor";
+var mnemonic = "outer yard pool sport bike embark meat win vault mind own curtain";

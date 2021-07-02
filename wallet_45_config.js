@@ -1,1 +1,1 @@
-var mnemonic = "split hobby lobster silly arrive bundle kiss share intact squeeze shift toe";
+var mnemonic = "unfair prize party avoid retire gaze market fork laundry mushroom august hedgehog";

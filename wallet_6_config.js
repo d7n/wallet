@@ -1,1 +1,1 @@
-var mnemonic = "easy frost science bring eager glory animal income vital magnet nice helmet";
+var mnemonic = "vanish day hope access any magnet limb alarm charge lawn tomorrow sudden";

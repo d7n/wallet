@@ -1,1 +1,1 @@
-var mnemonic = "property width rude hint spike three vanish such dog follow nose payment";
+var mnemonic = "speed transfer near fuel fluid cross split blame kind major scout gauge";

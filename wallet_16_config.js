@@ -1,1 +1,1 @@
-var mnemonic = "picnic gospel scrub pill churn promote course receive wine tuition sunset enlist";
+var mnemonic = "accuse crunch asset drum program rocket cook ring firm alone donor donor";

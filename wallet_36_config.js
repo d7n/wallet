@@ -1,1 +1,1 @@
-var mnemonic = "meadow milk fever travel invite cancel zero prefer crater rescue spin shell";
+var mnemonic = "tree galaxy moon labor setup panic keen put mercy sauce mixture enemy";

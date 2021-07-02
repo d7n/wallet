@@ -1,1 +1,1 @@
-var mnemonic = "slam action rail damp denial dose equip cat flight timber category shock";
+var mnemonic = "wide dragon wage come slow click glove harsh awkward swap supply target";

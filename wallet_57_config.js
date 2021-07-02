@@ -1,1 +1,1 @@
-var mnemonic = "govern broken repair gesture jungle fortune antique under invite race mobile rack";
+var mnemonic = "corn office praise surface turtle celery lumber avoid benefit exhibit affair muffin";

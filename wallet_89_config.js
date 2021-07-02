@@ -1,1 +1,1 @@
-var mnemonic = "hockey recipe spot fetch episode reopen roast diamond behave call divorce orient";
+var mnemonic = "polar arrest glimpse motor cruise cake palace coyote produce kiwi monster accident";

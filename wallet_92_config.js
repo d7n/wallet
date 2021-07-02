@@ -1,1 +1,1 @@
-var mnemonic = "suit grace end wash smile attract better say riot figure dinner bonus";
+var mnemonic = "educate lobster celery buzz right lemon diamond shift detail dash borrow because";
