@@ -1,1 +1,1 @@
-var mnemonic = "identify abstract palace earth drama penalty opera remember mind tell music flavor";
+var mnemonic = "wonder patient obey twenty drift you aim puzzle above ten kit defense";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion retreat seven differ fall unit brain win robot summer auction clump";
+var mnemonic = "tonight exercise rifle reopen glance catch van occur flame shaft drama equip";

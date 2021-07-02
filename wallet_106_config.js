@@ -1,1 +1,1 @@
-var mnemonic = "mesh turtle winner stereo drop tumble saddle edit stone trade welcome grass";
+var mnemonic = "dirt canoe nut opera scene mother palm swear wealth member close post";

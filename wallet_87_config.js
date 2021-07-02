@@ -1,1 +1,1 @@
-var mnemonic = "elbow cement topple van bamboo tennis indoor luggage journey act tray fiction";
+var mnemonic = "size impose velvet system upper unusual actual clutch recipe tooth sniff sting";

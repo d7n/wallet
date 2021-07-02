@@ -1,1 +1,1 @@
-var mnemonic = "weapon celery polar boil wait flight resemble sunset survey raw monkey aware";
+var mnemonic = "crack electric radio vibrant off fly kidney situate prison exit quit taste";

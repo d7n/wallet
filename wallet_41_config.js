@@ -1,1 +1,1 @@
-var mnemonic = "record ugly call obtain during idle ride aspect seed topic caught hair";
+var mnemonic = "bronze mechanic pattern pudding sound spread kick word tube alpha river exist";

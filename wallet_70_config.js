@@ -1,1 +1,1 @@
-var mnemonic = "swallow matrix gift vocal area lesson goat bunker maximum crucial labor couch";
+var mnemonic = "squirrel drastic nut power desert hint reunion trigger rifle laptop chuckle point";

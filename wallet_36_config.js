@@ -1,1 +1,1 @@
-var mnemonic = "next silk bind sort argue pyramid upset organ boat advance frog keep";
+var mnemonic = "tackle renew entire wife caution know sudden that family salon slice point";

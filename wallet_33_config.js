@@ -1,1 +1,1 @@
-var mnemonic = "attract force when pulse spike vendor gift artist lottery woman behave issue";
+var mnemonic = "wish guide shallow turtle involve tiny spoon aspect cost purchase tonight welcome";

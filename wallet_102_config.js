@@ -1,1 +1,1 @@
-var mnemonic = "subway flee fossil lottery slim exit sibling notice relief grape region bike";
+var mnemonic = "nurse feature top cry clog away liberty obtain judge chapter confirm amount";

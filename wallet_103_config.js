@@ -1,1 +1,1 @@
-var mnemonic = "buffalo apart beef train right captain under swear post logic purse wrist";
+var mnemonic = "sting heavy intact eagle south emerge slush faith undo engage badge journey";

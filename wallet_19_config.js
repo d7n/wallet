@@ -1,1 +1,1 @@
-var mnemonic = "into buyer spy exist alarm range adult input scatter entry snow achieve";
+var mnemonic = "word project question verb cricket name left chunk exist describe amateur snack";

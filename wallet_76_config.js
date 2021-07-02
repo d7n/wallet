@@ -1,1 +1,1 @@
-var mnemonic = "buddy option better weird world race sauce near power half copper decrease";
+var mnemonic = "grass clever legal any icon seminar civil ten lazy thing wise bunker";

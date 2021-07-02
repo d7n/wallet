@@ -1,1 +1,1 @@
-var mnemonic = "gather ordinary nation vital only profit nose vibrant fashion april genius sugar";
+var mnemonic = "inside basket swap step color almost peasant seek travel dune act omit";

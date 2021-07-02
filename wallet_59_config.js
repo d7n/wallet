@@ -1,1 +1,1 @@
-var mnemonic = "story peasant draft arrest casino end thing file couch kidney mosquito soft";
+var mnemonic = "second ceiling tank act rally seed desert party diary reunion clap various";

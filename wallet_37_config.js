@@ -1,1 +1,1 @@
-var mnemonic = "satoshi reason project health cargo cash pipe arm bus mountain bonus there";
+var mnemonic = "wave viable welcome debate member bar tackle sick present fork strike dignity";

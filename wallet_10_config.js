@@ -1,1 +1,1 @@
-var mnemonic = "celery sugar artefact village latin gate shoulder job peasant evoke favorite try";
+var mnemonic = "woman portion elegant rug panic whip survey alert wink subway negative wall";

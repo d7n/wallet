@@ -1,1 +1,1 @@
-var mnemonic = "penalty transfer armed easily can moment exclude air save current medal release";
+var mnemonic = "skirt space mixture demand web glide turtle insane notable inmate uphold about";

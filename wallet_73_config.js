@@ -1,1 +1,1 @@
-var mnemonic = "congress slab lyrics brave crucial notable manage bulb dust decade rate congress";
+var mnemonic = "turtle ring change share stick possible level ivory tourist cross swamp dance";

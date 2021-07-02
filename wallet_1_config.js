@@ -1,1 +1,1 @@
-var mnemonic = "guess frown field amount card spike wet vicious effort city angry lumber";
+var mnemonic = "deliver dignity spatial guard arrange stone enable stereo exact surge pear shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "affair have mosquito chest brother actress between royal virus render account unfair";
+var mnemonic = "they fever proof check bounce crack circle glory vocal lend frozen job";

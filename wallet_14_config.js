@@ -1,1 +1,1 @@
-var mnemonic = "struggle rather quote flock machine hood harsh globe device sudden toddler machine";
+var mnemonic = "drama bachelor cry remain summer tray pen glimpse author grape about wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "bird urban river pledge horn also smile sister acquire obscure suffer eyebrow";
+var mnemonic = "menu yellow odor sand grunt middle upper bread curious label charge movie";

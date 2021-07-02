@@ -1,1 +1,1 @@
-var mnemonic = "tail crush hello wet verb music inside panel galaxy copper hurry boy";
+var mnemonic = "true family wine cradle palace quote confirm search vicious field grid fold";

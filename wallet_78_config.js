@@ -1,1 +1,1 @@
-var mnemonic = "claim float diet paper romance ice tackle that face era color chief";
+var mnemonic = "position swear insect example arrive mesh battle addict neglect south rubber female";

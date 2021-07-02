@@ -1,1 +1,1 @@
-var mnemonic = "strike bicycle huge assault cost bronze occur legal erase health labor best";
+var mnemonic = "draft seek dumb frog hidden nephew resist orphan sign month vague engine";

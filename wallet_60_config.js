@@ -1,1 +1,1 @@
-var mnemonic = "shiver tide rare various curve coral tiny reward debris crush lottery link";
+var mnemonic = "chimney explain pitch split chair alarm later atom maximum net age light";

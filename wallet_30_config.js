@@ -1,1 +1,1 @@
-var mnemonic = "venue ankle gorilla banana fatigue radar vintage replace flush ribbon novel angle";
+var mnemonic = "allow turkey pull find enroll still science siege inject tray quote host";

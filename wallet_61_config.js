@@ -1,1 +1,1 @@
-var mnemonic = "primary arrest drift regret someone aerobic dog match shoulder combine tiny nasty";
+var mnemonic = "gold banana title want all album hen add tower devote best gold";

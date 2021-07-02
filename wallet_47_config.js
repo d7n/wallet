@@ -1,1 +1,1 @@
-var mnemonic = "mean supply canoe open idle alcohol ankle hover domain roast develop slogan";
+var mnemonic = "little sauce verify index velvet invest dilemma garbage hamster survey humor ahead";

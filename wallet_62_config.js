@@ -1,1 +1,1 @@
-var mnemonic = "open announce earth cry sausage vast force anger nuclear hundred taste vague";
+var mnemonic = "room jaguar genius nose brush dinosaur priority tray seminar patch demand recycle";

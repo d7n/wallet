@@ -1,1 +1,1 @@
-var mnemonic = "ostrich lazy truth solar upgrade awesome foster crime casual emerge vapor cry";
+var mnemonic = "page setup patrol sketch profit agree mail vote mechanic erase hood remain";

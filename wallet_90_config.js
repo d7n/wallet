@@ -1,1 +1,1 @@
-var mnemonic = "destroy success junk lamp scene oil stairs ranch three next disease tortoise";
+var mnemonic = "hollow response tuna reveal topple sock indicate permit frequent north ugly feel";

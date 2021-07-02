@@ -1,1 +1,1 @@
-var mnemonic = "mystery tank mansion gallery easily garlic right weird luxury laugh piano have";
+var mnemonic = "tobacco album push blossom rail explain venture lizard crisp analyst soon chair";

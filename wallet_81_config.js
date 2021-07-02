@@ -1,1 +1,1 @@
-var mnemonic = "carry about crisp age bag pilot unique hat skirt nest peasant arch";
+var mnemonic = "maximum meadow monster alcohol night ask rocket tail company swamp join feed";

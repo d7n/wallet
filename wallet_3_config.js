@@ -1,1 +1,1 @@
-var mnemonic = "ivory pioneer wrap spin stereo cost fix dad ostrich wheel exercise vacant";
+var mnemonic = "broccoli entry exact trip cancel token garment merry pole odor much copy";

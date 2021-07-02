@@ -1,1 +1,1 @@
-var mnemonic = "innocent nice clean give response cereal kidney photo nuclear remove shrimp fall";
+var mnemonic = "seek arrive night mobile palace company clap clerk render reward balcony suspect";

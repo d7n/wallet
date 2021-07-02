@@ -1,1 +1,1 @@
-var mnemonic = "because solve erase exotic charge globe all shift board broken dentist loud";
+var mnemonic = "arch glimpse gold main manage reveal rotate noodle vibrant wing choose whip";

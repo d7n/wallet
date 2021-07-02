@@ -1,1 +1,1 @@
-var mnemonic = "welcome clutch steak dismiss canoe neutral puzzle approve master ribbon hunt gun";
+var mnemonic = "possible sunset sock media marine economy decade save receive tongue cry decade";

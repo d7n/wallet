@@ -1,1 +1,1 @@
-var mnemonic = "clip legend eye elephant ethics trap idea account artwork grape kiwi syrup";
+var mnemonic = "treat sadness expand smile student teach floor flavor insane juice snow music";

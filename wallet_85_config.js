@@ -1,1 +1,1 @@
-var mnemonic = "stomach hero engage spring crew season volcano venture bracket menu fix mango";
+var mnemonic = "seat rebuild embody casino paddle chase frame wheat dirt ancient debate kite";

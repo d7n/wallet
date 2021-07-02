@@ -1,1 +1,1 @@
-var mnemonic = "magnet jacket weapon develop poem junk credit peasant indoor merit potato absorb";
+var mnemonic = "popular toy useful utility fruit pattern old net away safe snake accident";

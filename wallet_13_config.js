@@ -1,1 +1,1 @@
-var mnemonic = "attract slender throw squeeze fee youth nasty rural gentle rural evil broom";
+var mnemonic = "parade pigeon output saddle alcohol vapor fan crush manual apple enough truth";

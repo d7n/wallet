@@ -1,1 +1,1 @@
-var mnemonic = "unveil hollow move trouble trial mix coral goose fluid road dune there";
+var mnemonic = "dawn swarm tumble pact slow horror couple creek warrior quarter pilot uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "apple chief kiwi swim ahead disorder idea sunset profit exhaust income harvest";
+var mnemonic = "dial rocket giant false vapor census year reason possible hotel weapon saddle";

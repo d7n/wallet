@@ -1,1 +1,1 @@
-var mnemonic = "entry engine visa banner ozone horse hub infant exclude capable start same";
+var mnemonic = "reform happy leaf lawsuit labor vital close pill shrug journey month exotic";

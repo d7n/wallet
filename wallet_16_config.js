@@ -1,1 +1,1 @@
-var mnemonic = "color put stage cereal scorpion comic heavy cover food region insane sentence";
+var mnemonic = "pumpkin pottery clean chronic increase debris timber unfold strike blood problem later";

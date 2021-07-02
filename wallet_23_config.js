@@ -1,1 +1,1 @@
-var mnemonic = "coach concert winner motor ritual relief proud ramp design sock oil memory";
+var mnemonic = "gasp despair uniform talent business couch hope fortune violin believe rescue purity";

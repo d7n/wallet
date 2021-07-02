@@ -1,1 +1,1 @@
-var mnemonic = "mention swallow pipe wagon click cool car sense lake grace best spirit";
+var mnemonic = "drastic explain pig kiss protect subway garment tag admit piece vendor curious";

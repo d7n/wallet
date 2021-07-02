@@ -1,1 +1,1 @@
-var mnemonic = "range smart inspire educate rate yellow dumb cabbage plate mixture page aerobic";
+var mnemonic = "frame select acid table gasp already margin keep satisfy alarm razor powder";

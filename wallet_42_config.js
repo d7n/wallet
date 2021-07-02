@@ -1,1 +1,1 @@
-var mnemonic = "hotel produce sea hamster zoo income resource cute horn expect enter focus";
+var mnemonic = "obtain fog celery human hub maze net cat liberty forest gown peace";

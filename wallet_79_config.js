@@ -1,1 +1,1 @@
-var mnemonic = "obscure siren select sand surface sibling twist inform crane dentist upgrade close";
+var mnemonic = "roof very warfare total exhibit echo rebel situate knock panic earth claim";

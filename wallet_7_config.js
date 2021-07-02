@@ -1,1 +1,1 @@
-var mnemonic = "muffin argue mom dog cruel survey volcano hold jazz make steak toilet";
+var mnemonic = "attend keen minimum system small elephant black asset slide today science jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "state delay fold planet zero jaguar domain diet army candy grief spike";
+var mnemonic = "tunnel slice coyote wine shuffle sorry stamp whale tumble stick attract noble";

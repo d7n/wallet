@@ -1,1 +1,1 @@
-var mnemonic = "shuffle ocean coil immense equip liar hobby nominee fat daughter exist height";
+var mnemonic = "curve success daring muffin valley crop buzz decline select behind spawn regular";

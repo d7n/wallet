@@ -1,1 +1,1 @@
-var mnemonic = "filter all already core junior grant grit labor raccoon sentence like illegal";
+var mnemonic = "behind return kitten wish village unveil road duty viable this decorate claim";

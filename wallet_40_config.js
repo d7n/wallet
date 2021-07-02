@@ -1,1 +1,1 @@
-var mnemonic = "spatial priority best twin inside erode connect refuse rather tackle edit joke";
+var mnemonic = "develop actual maximum oven video member mule market section under neglect flame";

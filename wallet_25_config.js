@@ -1,1 +1,1 @@
-var mnemonic = "inhale private ripple cement nose boat mirror cube recipe recipe base patch";
+var mnemonic = "pepper shiver oyster actor famous name sibling paddle rude funny beyond shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "man distance across cube tray know grant mosquito junior cheese friend shift";
+var mnemonic = "faculty element junior cargo imitate yellow tank antique grit alter describe popular";

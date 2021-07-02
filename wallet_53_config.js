@@ -1,1 +1,1 @@
-var mnemonic = "danger bulk width aunt version rather subway endless carbon fish movie rare";
+var mnemonic = "service talk expect impulse reason plate day injury animal around danger often";

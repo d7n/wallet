@@ -1,1 +1,1 @@
-var mnemonic = "light dash tragic voice chest mad acquire retreat bottom crumble occur path";
+var mnemonic = "use loop trade someone october east valve unhappy unfold theme piece nice";

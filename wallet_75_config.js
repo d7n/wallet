@@ -1,1 +1,1 @@
-var mnemonic = "execute tumble nose dress aerobic answer firm knee cost lazy supreme depend";
+var mnemonic = "orient soon absorb wage ask they fatigue rent provide north lizard curve";

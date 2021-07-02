@@ -1,1 +1,1 @@
-var mnemonic = "bless tragic craft excuse asset service cloud tide rule cabbage desert clever";
+var mnemonic = "leave knee note sister run skin hour hip wealth glue seek enable";

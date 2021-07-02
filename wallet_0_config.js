@@ -1,1 +1,1 @@
-var mnemonic = "grace illness avoid maze monitor powder vehicle trim peasant lyrics client giant";
+var mnemonic = "crew obscure elegant silver park nerve vapor glad shed slam vehicle kitchen";

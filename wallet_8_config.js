@@ -1,1 +1,1 @@
-var mnemonic = "usage blush noodle cushion figure axis search puzzle priority bronze humor brand";
+var mnemonic = "naive yellow upon private oblige turkey common ski tone yard image limit";

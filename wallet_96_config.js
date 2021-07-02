@@ -1,1 +1,1 @@
-var mnemonic = "local student time pepper century art envelope tide educate then note chicken";
+var mnemonic = "asthma cliff fly trial snow paper fringe aerobic wrong moment year hamster";

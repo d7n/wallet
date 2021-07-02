@@ -1,1 +1,1 @@
-var mnemonic = "blue swap upgrade ability adjust raccoon reveal plate refuse cactus blind random";
+var mnemonic = "lawn indicate music humble horn sketch setup scissors social awesome abuse fit";

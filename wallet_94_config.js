@@ -1,1 +1,1 @@
-var mnemonic = "curtain favorite rabbit ahead rain celery anger nuclear include stable fashion metal";
+var mnemonic = "educate truck trash blast result snack expect print thought globe decorate garage";

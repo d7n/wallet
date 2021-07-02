@@ -1,1 +1,1 @@
-var mnemonic = "height cliff ranch nation zoo asthma thumb below unfold ten seminar diamond";
+var mnemonic = "enable balcony near abandon purse custom sign evoke explain dry point laugh";

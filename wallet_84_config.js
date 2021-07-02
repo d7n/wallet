@@ -1,1 +1,1 @@
-var mnemonic = "iron kitten frequent soda merge tank rescue artwork salmon fatal evoke eyebrow";
+var mnemonic = "mind disagree acquire art child anchor captain certain hello settle shrug energy";

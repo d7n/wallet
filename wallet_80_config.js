@@ -1,1 +1,1 @@
-var mnemonic = "session federal million syrup right theme lady sketch floor earth afraid coral";
+var mnemonic = "face nominee core involve maximum abuse friend horse noble taxi motor profit";

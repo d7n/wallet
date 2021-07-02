@@ -1,1 +1,1 @@
-var mnemonic = "fever cousin pig angle fix myself still verb exotic fly balcony danger";
+var mnemonic = "rate price cheap general drink patch scene latin runway charge auction cause";

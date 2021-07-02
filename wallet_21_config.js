@@ -1,1 +1,1 @@
-var mnemonic = "level knife suggest again woman tree coyote salmon oxygen scene cradle letter";
+var mnemonic = "father celery limb crane replace topple cattle pumpkin acquire pig jump ozone";

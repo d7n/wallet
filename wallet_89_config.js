@@ -1,1 +1,1 @@
-var mnemonic = "nasty shiver sense sense ankle online mutual zero rookie hard exhaust detail";
+var mnemonic = "video unknown calm moment river since six candy scrap garden conduct very";

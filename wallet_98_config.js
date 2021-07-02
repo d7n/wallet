@@ -1,1 +1,1 @@
-var mnemonic = "purchase depart grab extend bone caution list want cloud hurt wait total";
+var mnemonic = "shrimp indicate tomato arrange account cross crush seminar diamond random spot trap";

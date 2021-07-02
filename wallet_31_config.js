@@ -1,1 +1,1 @@
-var mnemonic = "phone swear energy enable fee banner expand rhythm dizzy bench measure clerk";
+var mnemonic = "entry guide wrist jaguar swing layer road fury east cruise renew solid";

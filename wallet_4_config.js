@@ -1,1 +1,1 @@
-var mnemonic = "evil plunge endless view sing bitter unlock unlock victory drive ostrich people";
+var mnemonic = "grief yard bird shed absurd edge school indicate clay cruel trend rubber";

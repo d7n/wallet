@@ -1,1 +1,1 @@
-var mnemonic = "inspire dwarf soldier success hammer document supply clog runway helmet rice ten";
+var mnemonic = "nest wine exhibit distance prison master episode seek oxygen guilt sound wool";

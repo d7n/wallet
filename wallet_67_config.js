@@ -1,1 +1,1 @@
-var mnemonic = "blouse churn crack glass alien crew village neglect moon cruel trophy tobacco";
+var mnemonic = "chef shuffle funny family tank thought orient toddler clean blur abandon prepare";

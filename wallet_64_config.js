@@ -1,1 +1,1 @@
-var mnemonic = "brother debris throw pretty fit cinnamon home real lesson million undo repeat";
+var mnemonic = "caught slush explain disorder quiz staff family same ladder grant fortune camera";

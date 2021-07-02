@@ -1,1 +1,1 @@
-var mnemonic = "story suggest twice layer tragic kite forward inner exhibit three clown ill";
+var mnemonic = "address save change tomorrow panic melt pen title squirrel shoe fold quick";

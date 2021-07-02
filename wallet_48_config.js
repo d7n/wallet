@@ -1,1 +1,1 @@
-var mnemonic = "design bag return onion twelve design joy private warfare blast panda spare";
+var mnemonic = "any exhaust clutch hood fatal ivory lens crunch glide crawl twin favorite";

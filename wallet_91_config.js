@@ -1,1 +1,1 @@
-var mnemonic = "survey want transfer gossip essence excess unlock exchange insane tip lobster hold";
+var mnemonic = "jealous coral whisper rule day task size cement cradle amateur fever scorpion";

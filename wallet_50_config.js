@@ -1,1 +1,1 @@
-var mnemonic = "system coin taxi report thought guide occur bachelor enroll scatter remain card";
+var mnemonic = "embark slam shy rubber sport club until rocket stone hurdle task firm";

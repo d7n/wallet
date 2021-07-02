@@ -1,1 +1,1 @@
-var mnemonic = "rent pupil permit define avocado enjoy master try garlic hollow lemon wedding";
+var mnemonic = "reopen lesson robot powder behave onion casual defy power trade night obscure";

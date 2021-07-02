@@ -1,1 +1,1 @@
-var mnemonic = "country pass style atom what author assault collect husband asset sword ski";
+var mnemonic = "coral reject core float arrow inspire gospel trial upgrade report family deputy";

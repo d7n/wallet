@@ -1,1 +1,1 @@
-var mnemonic = "lobster spice maple shield debate sustain spy churn super dash chicken quality";
+var mnemonic = "congress lake online talk follow flame shift recycle owner doll coin beef";

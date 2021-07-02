@@ -1,1 +1,1 @@
-var mnemonic = "course diesel coral topic special sustain traffic garage bubble trim cushion marble";
+var mnemonic = "inform grid beach awkward over cash cabbage evil tip project mail finish";

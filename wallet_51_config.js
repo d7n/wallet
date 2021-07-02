@@ -1,1 +1,1 @@
-var mnemonic = "regular fine craft great solar attend sentence siege memory jewel spice scrub";
+var mnemonic = "then fresh faith adult since olive increase flame emotion oil bleak custom";

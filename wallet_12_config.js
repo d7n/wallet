@@ -1,1 +1,1 @@
-var mnemonic = "fit street proof market arrow hint royal wreck tower swamp dance hunt";
+var mnemonic = "ginger exact birth soccer snack power gossip lawn charge discover stairs onion";
