@@ -1,1 +1,1 @@
-var mnemonic = "response two radio february trial shell find tiny cigar mother execute clerk";
+var mnemonic = "plate decrease into veteran celery leg camp network myself benefit thing desert";

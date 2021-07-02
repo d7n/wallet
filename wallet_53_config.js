@@ -1,1 +1,1 @@
-var mnemonic = "brisk sorry shock doctor train stadium forest stuff shine sadness balcony symbol";
+var mnemonic = "cram eager boost pull fault flush universe honey song fiction rigid stairs";

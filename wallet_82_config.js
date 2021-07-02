@@ -1,1 +1,1 @@
-var mnemonic = "dolphin gun garment pudding knock time gospel burst mutual ramp dirt sign";
+var mnemonic = "fluid legal clump pear stamp sudden crane enrich melt dose wild winner";

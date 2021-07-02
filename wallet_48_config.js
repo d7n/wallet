@@ -1,1 +1,1 @@
-var mnemonic = "barrel purchase affair click team solution interest seven beyond tray mention buffalo";
+var mnemonic = "arch melt loan deposit divorce bus love day tonight dilemma shuffle reunion";

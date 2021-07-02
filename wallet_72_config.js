@@ -1,1 +1,1 @@
-var mnemonic = "ritual knock movie same prison brick amazing inject salt boat gold mix";
+var mnemonic = "because device exercise ramp burger shadow door void ring stomach saddle trumpet";

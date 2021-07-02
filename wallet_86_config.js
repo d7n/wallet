@@ -1,1 +1,1 @@
-var mnemonic = "sad lonely viable try egg already device able fox rebuild goat vacant";
+var mnemonic = "sauce path awesome air fix brush coyote during movie trip coconut virus";

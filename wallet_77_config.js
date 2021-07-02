@@ -1,1 +1,1 @@
-var mnemonic = "lottery worry hero crush runway bomb canyon educate later easily lock toilet";
+var mnemonic = "island borrow shaft door float inch sea siege web artwork wealth strategy";

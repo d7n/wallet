@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog hospital arctic easy train hotel duty trust whale project van torch";
+var mnemonic = "green alert either wasp demand advice chunk peace valley until feel chair";

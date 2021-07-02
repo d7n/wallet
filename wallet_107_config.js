@@ -1,1 +1,1 @@
-var mnemonic = "deal earth next wise raccoon infant tattoo velvet wrong slush rebel arena";
+var mnemonic = "two hire orange brave history memory hill flee captain save outer post";

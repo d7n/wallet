@@ -1,1 +1,1 @@
-var mnemonic = "sibling fall kiwi cycle always oval wide verb donkey earn foster sad";
+var mnemonic = "slush produce trust view cake festival atom song normal miracle noodle once";

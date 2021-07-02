@@ -1,1 +1,1 @@
-var mnemonic = "glimpse tone cereal matter defy dog theme soon wagon better cat skull";
+var mnemonic = "cave now crawl ethics logic clarify cloth orange cactus host chunk sea";

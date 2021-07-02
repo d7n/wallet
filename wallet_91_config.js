@@ -1,1 +1,1 @@
-var mnemonic = "elite inside safe pizza neutral sting brother member crash tape lucky stereo";
+var mnemonic = "grocery beauty virtual pretty spring toddler pyramid awful just toddler iron ceiling";

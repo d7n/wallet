@@ -1,1 +1,1 @@
-var mnemonic = "during always genuine access phone enroll tail angry genuine giant trouble below";
+var mnemonic = "orbit vault hammer combine park hour gym black apology decade curtain person";

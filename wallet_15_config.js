@@ -1,1 +1,1 @@
-var mnemonic = "dial luggage into balcony just unfair grace together pact boss amazing bar";
+var mnemonic = "middle casual mouse smoke hip hat party autumn beyond diagram add door";

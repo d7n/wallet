@@ -1,1 +1,1 @@
-var mnemonic = "steak candy dad cotton tomorrow ostrich undo meadow tortoise pepper river stable";
+var mnemonic = "attack elite logic mammal pilot earn prefer canvas thought maple joy virus";

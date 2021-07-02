@@ -1,1 +1,1 @@
-var mnemonic = "absurd reward marriage yellow garment laptop album arrest tornado vicious swift airport";
+var mnemonic = "spray harsh liquid machine flush group swamp chronic bus right resource know";

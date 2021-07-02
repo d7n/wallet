@@ -1,1 +1,1 @@
-var mnemonic = "slim addict equip torch net enforce tool horn cause try legend crystal";
+var mnemonic = "manage eagle few output upgrade cheese hungry glass elevator already harvest security";

@@ -1,1 +1,1 @@
-var mnemonic = "spend car feed license toddler season matter morning increase spray barely obtain";
+var mnemonic = "neck dress logic tool worth craft approve walnut cupboard taxi tag april";

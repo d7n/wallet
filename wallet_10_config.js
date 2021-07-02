@@ -1,1 +1,1 @@
-var mnemonic = "repeat naive glow silly gadget because panther history attitude weird afraid alarm";
+var mnemonic = "anxiety edge uphold news soccer squeeze vendor worth spirit dish fortune annual";

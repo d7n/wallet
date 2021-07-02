@@ -1,1 +1,1 @@
-var mnemonic = "drill drip lyrics verify autumn grid ethics gesture man satoshi what alone";
+var mnemonic = "panel offer cook kick manage occur grain swallow indicate lazy diagram dice";

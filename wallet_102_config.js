@@ -1,1 +1,1 @@
-var mnemonic = "vivid age live beach surprise space wife valid cram leaf forest portion";
+var mnemonic = "sun spy leader squirrel select verify around lazy humble maple snake govern";

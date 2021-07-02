@@ -1,1 +1,1 @@
-var mnemonic = "weasel debris ritual outside advance student okay galaxy kite urban depend before";
+var mnemonic = "adjust artefact awful inspire walnut agent knee ability false negative day network";

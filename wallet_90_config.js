@@ -1,1 +1,1 @@
-var mnemonic = "worth tube regular basic elephant tell human observe just woman oak ability";
+var mnemonic = "airport neglect pig grunt syrup hat recall equal hawk traffic maximum badge";

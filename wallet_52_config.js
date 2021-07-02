@@ -1,1 +1,1 @@
-var mnemonic = "motor aunt place guilt barrel novel rose puzzle pen tail tomato mention";
+var mnemonic = "kiwi chronic enable lamp few donkey tourist syrup cycle nominee hotel lava";

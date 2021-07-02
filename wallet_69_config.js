@@ -1,1 +1,1 @@
-var mnemonic = "real stadium author easy replace man camera lizard ride tourist asthma crazy";
+var mnemonic = "thing sausage country humble garment answer minute jar tortoise settle olive explain";

@@ -1,1 +1,1 @@
-var mnemonic = "few vague only home lumber egg picture measure air crouch cool liar";
+var mnemonic = "interest stuff ski thank plastic insane install scan idle tired marine chat";

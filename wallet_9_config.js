@@ -1,1 +1,1 @@
-var mnemonic = "smart blue chat cross degree suit young interest fix pig pitch garment";
+var mnemonic = "exhibit year dilemma eternal chest lake immense ask hospital auto staff project";

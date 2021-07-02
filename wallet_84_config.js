@@ -1,1 +1,1 @@
-var mnemonic = "rural sure solid bag helmet major monkey sock prosper north middle degree";
+var mnemonic = "breeze private theme battle winner object over honey gather inflict shadow vacant";

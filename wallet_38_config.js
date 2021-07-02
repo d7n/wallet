@@ -1,1 +1,1 @@
-var mnemonic = "hope hobby ceiling evidence nut team oblige rural chef curve oval today";
+var mnemonic = "flock area draft scene lottery drip verify city exist pledge chicken congress";

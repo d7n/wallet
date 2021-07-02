@@ -1,1 +1,1 @@
-var mnemonic = "clarify neglect soldier rough slice portion tail poet melody mad ranch volume";
+var mnemonic = "lemon exhaust cream pioneer surge maid rug actor steel whisper crane way";

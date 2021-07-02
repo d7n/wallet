@@ -1,1 +1,1 @@
-var mnemonic = "slab sibling grit push segment flat interest illegal near glare deal secret";
+var mnemonic = "whale wall crater now record angry jewel fragile film key elegant express";

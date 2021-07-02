@@ -1,1 +1,1 @@
-var mnemonic = "miracle circle derive decade tourist scrap network story visual recycle cable address";
+var mnemonic = "gold orchard elephant soldier announce palace beyond pipe frost chalk actual pulse";

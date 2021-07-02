@@ -1,1 +1,1 @@
-var mnemonic = "verify scare master affair reveal shoulder main pigeon cable pretty powder service";
+var mnemonic = "humor adjust disagree truck feel silent surge dawn smoke quantum first idle";

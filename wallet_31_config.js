@@ -1,1 +1,1 @@
-var mnemonic = "better believe phrase step auto torch offer jelly appear frown ecology street";
+var mnemonic = "spare online phrase bean tuna unfold service actress parrot side travel organ";

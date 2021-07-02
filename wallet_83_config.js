@@ -1,1 +1,1 @@
-var mnemonic = "box fortune mercy head bullet autumn plate fog belt floor avocado afford";
+var mnemonic = "curve glove desert trap sad differ unknown review air recall help ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "bright hurt dragon fold letter raise regular sight very wood pencil inhale";
+var mnemonic = "area frog discover virtual pilot whip mask fragile slogan spoon use car";

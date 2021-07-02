@@ -1,1 +1,1 @@
-var mnemonic = "over raw gaze story spell ask stay hip donate busy bean fix";
+var mnemonic = "resist chaos eight agent thunder volcano circle zebra desk elite vault flag";

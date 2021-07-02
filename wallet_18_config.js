@@ -1,1 +1,1 @@
-var mnemonic = "leader sustain occur gesture kind turkey husband arctic wrist update candy eternal";
+var mnemonic = "capable attend melody broken assault father quiz bright cupboard lock tattoo copper";

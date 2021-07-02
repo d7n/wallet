@@ -1,1 +1,1 @@
-var mnemonic = "rich wheat divorce feel expand salad lunar crucial raw hybrid hub fall";
+var mnemonic = "snow draw seed animal couch marble dune kit expose fuel chapter camera";

@@ -1,1 +1,1 @@
-var mnemonic = "oven trial upon buzz display jealous dad rifle path raise humor enact";
+var mnemonic = "soon razor topple finger file guard toss region kiwi power minor fantasy";

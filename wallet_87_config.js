@@ -1,1 +1,1 @@
-var mnemonic = "squeeze owner barely advance reveal ankle problem sibling pitch else noble adapt";
+var mnemonic = "expire try tape service firm refuse oval umbrella mushroom famous tribe shuffle";

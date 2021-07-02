@@ -1,1 +1,1 @@
-var mnemonic = "cross canal repeat swap subway pear mango kangaroo tennis wrap butter tiny";
+var mnemonic = "observe baby bulk exhaust tongue dumb crucial tumble father profit any peace";

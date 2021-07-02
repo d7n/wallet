@@ -1,1 +1,1 @@
-var mnemonic = "forward weekend nerve wagon finger coil good royal arrest busy defy update";
+var mnemonic = "mosquito pelican top review blood document scissors chicken pull aunt hedgehog cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "glad common harsh royal critic pole machine flame select cash snow shell";
+var mnemonic = "switch frequent embrace bullet crucial better pottery sketch acquire grain fiscal demise";

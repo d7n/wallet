@@ -1,1 +1,1 @@
-var mnemonic = "thought luggage trust dance coffee gravity subway noble hurdle weird discover sand";
+var mnemonic = "three suspect remove catalog fall concert border blast dignity moon viable truck";

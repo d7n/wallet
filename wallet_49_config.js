@@ -1,1 +1,1 @@
-var mnemonic = "pigeon permit energy pair expire river earth edit board deputy visit cage";
+var mnemonic = "balance spell bring mask whisper captain check tattoo shine casino almost gallery";

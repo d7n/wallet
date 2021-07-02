@@ -1,1 +1,1 @@
-var mnemonic = "dentist chef fragile visual fuel enact method inherit media race mushroom isolate";
+var mnemonic = "label inform sentence mouse merry unfair marriage clap bacon october gesture peanut";

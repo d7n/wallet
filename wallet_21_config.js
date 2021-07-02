@@ -1,1 +1,1 @@
-var mnemonic = "bag term nut tide cheap risk napkin public lyrics cloud wine can";
+var mnemonic = "deer sting illegal network drift reward polar claim pizza farm sick sphere";

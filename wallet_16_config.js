@@ -1,1 +1,1 @@
-var mnemonic = "genuine raise point south seminar visa long stage motion apple layer actress";
+var mnemonic = "carry surround know bonus sponsor toddler series mammal comfort ivory web sword";

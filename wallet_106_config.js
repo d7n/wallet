@@ -1,1 +1,1 @@
-var mnemonic = "afraid cousin nurse cool oxygen process provide join miss blood benefit acoustic";
+var mnemonic = "solution leopard intact snake such senior assault trigger foster before shrug expect";

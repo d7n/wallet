@@ -1,1 +1,1 @@
-var mnemonic = "illness cycle into script swear give silk object buzz exercise tribe catalog";
+var mnemonic = "juice subway mansion worry kind suspect this barrel nuclear hello brass juice";

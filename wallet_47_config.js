@@ -1,1 +1,1 @@
-var mnemonic = "pudding raise fly test seed gloom bachelor equip rifle injury elevator skull";
+var mnemonic = "sibling cloud employ truth around member exercise retreat short busy wave neutral";

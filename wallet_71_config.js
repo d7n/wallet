@@ -1,1 +1,1 @@
-var mnemonic = "slight puzzle base once margin hungry salt student reopen shock ethics cat";
+var mnemonic = "vacuum emotion dry drama hair broom skirt camera route cause corn dog";

@@ -1,1 +1,1 @@
-var mnemonic = "village novel eye predict ghost venue mask actual truth margin save food";
+var mnemonic = "slender endorse short away wisdom subject close dutch soda kangaroo gauge range";

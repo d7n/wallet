@@ -1,1 +1,1 @@
-var mnemonic = "unfold man cook balcony shallow there hour fix dumb gather venture ripple";
+var mnemonic = "slim shrimp expose vibrant fault kid pet romance unveil case burger clump";

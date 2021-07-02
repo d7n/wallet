@@ -1,1 +1,1 @@
-var mnemonic = "fluid top wisdom adjust alien apart family visa pony traffic upon random";
+var mnemonic = "gun razor assume talk mammal biology panda impulse measure muscle super chat";

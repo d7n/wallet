@@ -1,1 +1,1 @@
-var mnemonic = "repeat seat laugh forum draw regular favorite daring grant throw analyst gas";
+var mnemonic = "cousin grid connect recycle burger hurdle fragile feed cigar warrior minute clown";

@@ -1,1 +1,1 @@
-var mnemonic = "rural remain auction safe dinosaur globe direct fortune dinner recipe ball clock";
+var mnemonic = "plastic certain occur book anxiety cereal doctor lab buddy foster object nation";

@@ -1,1 +1,1 @@
-var mnemonic = "code napkin provide cluster crucial burger float attend polar blood crisp timber";
+var mnemonic = "glow ability fence sample arrow beauty sense guide panther pull wheel sudden";

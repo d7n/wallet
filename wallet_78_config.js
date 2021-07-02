@@ -1,1 +1,1 @@
-var mnemonic = "alley medal plastic lyrics until consider pond gift goddess turkey item august";
+var mnemonic = "tip lesson guard cluster bitter club bring wasp relief economy other inquiry";

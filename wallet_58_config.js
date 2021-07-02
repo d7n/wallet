@@ -1,1 +1,1 @@
-var mnemonic = "powder essay drill hint oxygen rich output lunch usual require kidney base";
+var mnemonic = "park ranch basket ketchup lounge food history idle divorce bone future nerve";

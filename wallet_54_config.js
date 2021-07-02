@@ -1,1 +1,1 @@
-var mnemonic = "bike unhappy adjust parent weather keen universe puzzle time cream dirt peace";
+var mnemonic = "destroy team man machine adjust reason attend mix super sting payment color";

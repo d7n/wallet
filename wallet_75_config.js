@@ -1,1 +1,1 @@
-var mnemonic = "outside ranch shine differ fitness fog across that insect brother option butter";
+var mnemonic = "fish gesture patch insect large sunny crumble miss ostrich estate picture sound";

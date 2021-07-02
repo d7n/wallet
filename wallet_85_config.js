@@ -1,1 +1,1 @@
-var mnemonic = "derive bag erupt cheap galaxy fresh oblige desk solar basic observe achieve";
+var mnemonic = "huge donkey moon loop skill royal comfort retire million whip example crack";

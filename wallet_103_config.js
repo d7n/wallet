@@ -1,1 +1,1 @@
-var mnemonic = "excess drastic family cake mixture electric chalk sword climb library music identify";
+var mnemonic = "actress luggage busy scheme first few man panic delay mind history shoe";

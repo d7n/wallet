@@ -1,1 +1,1 @@
-var mnemonic = "ski real leave voyage cricket turkey power section damage diet account feature";
+var mnemonic = "spike crisp direct tape diesel bundle large prefer payment very deputy wagon";

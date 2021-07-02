@@ -1,1 +1,1 @@
-var mnemonic = "scene frost love sick knee task adapt motion bicycle birth gun curtain";
+var mnemonic = "grape assault level picnic recycle ribbon immune radar cricket describe total hub";

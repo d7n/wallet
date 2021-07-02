@@ -1,1 +1,1 @@
-var mnemonic = "garlic pet junk lava pepper isolate fever match noise cotton diet device";
+var mnemonic = "foam kiwi glow juice anxiety mean glow table brief riot fabric festival";

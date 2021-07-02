@@ -1,1 +1,1 @@
-var mnemonic = "gate naive detail park liberty wrestle exhibit inspire ramp jar moon eagle";
+var mnemonic = "shrimp vendor nose weasel joy enrich present target term gain fine nephew";

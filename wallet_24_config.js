@@ -1,1 +1,1 @@
-var mnemonic = "push smooth knee primary erase vague mandate sight more pen green security";
+var mnemonic = "brave ribbon rely budget venture net dog innocent robot outer already away";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran beach clog tonight wish amateur portion afford rough size rapid avocado";
+var mnemonic = "shoulder level much almost once doctor sister giraffe awesome summer nasty regret";

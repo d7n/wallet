@@ -1,1 +1,1 @@
-var mnemonic = "vote offer domain amused bag sea off order blanket rifle drastic proof";
+var mnemonic = "purity lend cup zone cabbage talk job plastic cram comic off gain";

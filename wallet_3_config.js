@@ -1,1 +1,1 @@
-var mnemonic = "attitude ritual gorilla live napkin crunch round off clever plug wrong disagree";
+var mnemonic = "decrease need slight vocal demise pear emerge spoon ankle black source west";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial include run swift resemble farm income evil ecology stick apple recycle";
+var mnemonic = "spider clap notice office hollow quick wall embody poverty oyster word march";

@@ -1,1 +1,1 @@
-var mnemonic = "chef bind lend guide core notice spread document envelope clock position vibrant";
+var mnemonic = "fossil point middle universe office luggage wolf fever pen agree split tissue";

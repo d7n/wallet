@@ -1,1 +1,1 @@
-var mnemonic = "rural tower arch pledge control mystery gaze cycle way say thunder harvest";
+var mnemonic = "egg indoor mixed cargo fortune ocean current market color boss habit fire";

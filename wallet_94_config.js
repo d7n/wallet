@@ -1,1 +1,1 @@
-var mnemonic = "quit rain spray swallow portion yard eagle ice lesson elevator stadium strike";
+var mnemonic = "observe whale such brain capital raccoon winter wool swarm dust coffee river";

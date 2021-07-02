@@ -1,1 +1,1 @@
-var mnemonic = "fiber angle peace trust can twin help pond stamp win hamster phone";
+var mnemonic = "blur surge dash depart crop use trial suffer inch eyebrow copper behind";

@@ -1,1 +1,1 @@
-var mnemonic = "scout alley transfer fade fiscal tide balance screen empty bachelor absent life";
+var mnemonic = "lobster crowd opinion provide draft transfer glow uphold armor juice notable indicate";

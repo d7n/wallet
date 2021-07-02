@@ -1,1 +1,1 @@
-var mnemonic = "chuckle beef polar pattern force gaze guard gossip nose govern oval soldier";
+var mnemonic = "aunt card remind hurt pill alter above dawn toilet fury describe color";

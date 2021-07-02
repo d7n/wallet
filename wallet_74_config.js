@@ -1,1 +1,1 @@
-var mnemonic = "offer bicycle humor shell song hungry carbon truth enhance quick frost decade";
+var mnemonic = "remind moment subway peasant lunar case rather ice empower assault maze fun";

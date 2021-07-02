@@ -1,1 +1,1 @@
-var mnemonic = "conduct travel skin quit material ten renew siege because connect always plug";
+var mnemonic = "bright gloom chest remind march hurry work glare brick roast toilet flee";

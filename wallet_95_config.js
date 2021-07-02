@@ -1,1 +1,1 @@
-var mnemonic = "shiver art solution august luggage jungle elegant mechanic submit wheat business birth";
+var mnemonic = "reason asset camera ticket priority video make arrest gauge until endless gather";

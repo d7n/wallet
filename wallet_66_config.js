@@ -1,1 +1,1 @@
-var mnemonic = "ride fit sketch tower panda clock crop gasp odor daring region elbow";
+var mnemonic = "zoo want wealth someone taxi butter slide olympic program solid harsh liquid";

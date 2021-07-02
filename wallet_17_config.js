@@ -1,1 +1,1 @@
-var mnemonic = "poem shrimp believe nice melody share bottom vapor thank raven future neck";
+var mnemonic = "electric frame ocean funny skate champion license web success achieve easily tomato";

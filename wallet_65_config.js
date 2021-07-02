@@ -1,1 +1,1 @@
-var mnemonic = "stamp derive left firm hire vital puzzle engine unable dynamic upper banner";
+var mnemonic = "torch basic empty build runway exile blur legend art hobby security argue";

@@ -1,1 +1,1 @@
-var mnemonic = "capable merit equal appear half girl innocent language banner rack chef rhythm";
+var mnemonic = "unaware opera bonus ginger correct fetch farm ride minimum soon phone resource";

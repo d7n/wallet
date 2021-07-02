@@ -1,1 +1,1 @@
-var mnemonic = "hill image farm stem later distance various vibrant universe stamp century urban";
+var mnemonic = "various test approve solution learn rely fork speak month primary throw vocal";

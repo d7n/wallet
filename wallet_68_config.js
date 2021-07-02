@@ -1,1 +1,1 @@
-var mnemonic = "dry pluck train viable process mother child oyster toddler save fiber verify";
+var mnemonic = "rail trophy robust inject gap fragile business push duck worry random skill";

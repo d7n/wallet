@@ -1,1 +1,1 @@
-var mnemonic = "orient daring slight silly surge wall south scorpion million together paper oxygen";
+var mnemonic = "relief sell spider eye orbit six wild approve require ketchup have toy";

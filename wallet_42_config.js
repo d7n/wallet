@@ -1,1 +1,1 @@
-var mnemonic = "song push lion thrive angry impact rose glide morning taxi sort draft";
+var mnemonic = "diet century keen bar moment exact runway broom reject dizzy sad gentle";

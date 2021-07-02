@@ -1,1 +1,1 @@
-var mnemonic = "junk glue office plate vibrant round kangaroo fit report mask rule immune";
+var mnemonic = "work melt cover spawn beauty magnet film fall because civil coach update";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease scissors adapt punch opera hen mechanic moon anger link enroll frequent";
+var mnemonic = "sort lawn exist sugar egg orbit cover pizza civil fruit mesh hurry";
