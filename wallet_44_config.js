@@ -1,1 +1,1 @@
-var mnemonic = "tent web faint visual distance wild run toss burger drive then extra";
+var mnemonic = "profit soup weird dutch calm wrap brother bus inhale stone siege excuse";

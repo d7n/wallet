@@ -1,1 +1,1 @@
-var mnemonic = "spider pilot cloth spray arch wall actress heart receive leg unhappy hedgehog";
+var mnemonic = "actor shine drive stereo envelope chunk wrestle glide second seek teach lamp";

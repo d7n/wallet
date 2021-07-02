@@ -1,1 +1,1 @@
-var mnemonic = "cube trophy cycle army hair over candy notice sheriff try spoon wasp";
+var mnemonic = "laundry horn devote deputy seat shy try famous detect mansion grief basic";

@@ -1,1 +1,1 @@
-var mnemonic = "rely fitness lab rotate sketch hockey axis attract exist milk derive juice";
+var mnemonic = "veteran rare click truly hazard letter frog cross measure demise must spike";

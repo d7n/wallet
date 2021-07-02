@@ -1,1 +1,1 @@
-var mnemonic = "sight physical rabbit sadness chest guilt call empower fuel syrup clown neck";
+var mnemonic = "salon anchor hour lesson glass use unlock coyote urge road summer asthma";

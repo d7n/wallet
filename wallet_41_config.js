@@ -1,1 +1,1 @@
-var mnemonic = "trumpet alpha wrestle fresh tank permit measure repeat number glimpse item swarm";
+var mnemonic = "debate cake say aim swamp royal zoo blast chunk ceiling wide life";

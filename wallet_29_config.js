@@ -1,1 +1,1 @@
-var mnemonic = "early sketch athlete model fury express produce blind sock suggest quantum lazy";
+var mnemonic = "permit side radar betray thought shove cousin student over animal muscle lobster";

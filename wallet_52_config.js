@@ -1,1 +1,1 @@
-var mnemonic = "motion solid gesture milk slot lake agree pelican stand impact clock vague";
+var mnemonic = "spare cheese limit arrow access case pelican able swamp aerobic version tank";

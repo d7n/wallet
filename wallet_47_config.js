@@ -1,1 +1,1 @@
-var mnemonic = "wrap predict garage file true canvas plunge genre ghost script eternal rate";
+var mnemonic = "liquid hamster laugh laundry question cushion rail purchase beef afraid giraffe garage";

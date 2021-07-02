@@ -1,1 +1,1 @@
-var mnemonic = "net motion swap stay life uncle volume crumble sign loan monitor evoke";
+var mnemonic = "room useful between title half blossom siege about sister tissue wine fade";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna laptop midnight into series frog wife write item item penalty cinnamon";
+var mnemonic = "thumb asset expose run ladder laundry sight oblige parade craft rebel filter";

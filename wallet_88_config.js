@@ -1,1 +1,1 @@
-var mnemonic = "shuffle original burst interest steak elephant pill response subway couple focus knife";
+var mnemonic = "gym child lock sword leopard air people what fetch purpose extra pride";

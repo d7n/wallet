@@ -1,1 +1,1 @@
-var mnemonic = "dentist vehicle head knee health skirt warm crawl bus denial lounge sunny";
+var mnemonic = "image retreat member trust holiday crunch dentist meat cube space post hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "move myself dentist virtual goose electric gain rice attack stick lemon input";
+var mnemonic = "tiger lady recall patrol equip replace abuse tail midnight select wet walk";

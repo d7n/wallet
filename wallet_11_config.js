@@ -1,1 +1,1 @@
-var mnemonic = "urge weapon mesh float puzzle friend anger memory stone scheme cook color";
+var mnemonic = "patient artefact cube album escape person exile subject slush midnight dash team";

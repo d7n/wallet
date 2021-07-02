@@ -1,1 +1,1 @@
-var mnemonic = "actual tag embody tell modify endless mistake settle zebra royal merge believe";
+var mnemonic = "topic wave piece album save pen unhappy wheat human chef now naive";

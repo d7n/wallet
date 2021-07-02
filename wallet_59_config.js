@@ -1,1 +1,1 @@
-var mnemonic = "repair into direct vendor chair theory abstract uniform slogan receive occur online";
+var mnemonic = "arrest acid jar slow total local jeans virtual merge fat filter pet";

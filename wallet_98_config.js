@@ -1,1 +1,1 @@
-var mnemonic = "force unit fish leaf number armor merge modify erase catalog menu evoke";
+var mnemonic = "exhibit major invite educate prevent reason tackle mail curtain path tail strong";

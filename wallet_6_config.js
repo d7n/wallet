@@ -1,1 +1,1 @@
-var mnemonic = "problem aware topple tiny close fossil cradle pelican skirt supreme toward tennis";
+var mnemonic = "tennis world payment sniff river despair melody impulse addict screen album raccoon";

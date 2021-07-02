@@ -1,1 +1,1 @@
-var mnemonic = "little wait truck sponsor chicken wink shop address business transfer regret soft";
+var mnemonic = "genuine host decade help physical system addict solar undo army smooth road";

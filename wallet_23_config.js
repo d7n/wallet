@@ -1,1 +1,1 @@
-var mnemonic = "biology talk risk shift capable powder pet need middle celery ahead voyage";
+var mnemonic = "attract garment know high purchase deposit age gas barrel seat vacuum antenna";

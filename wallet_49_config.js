@@ -1,1 +1,1 @@
-var mnemonic = "spatial opera fun bless badge acoustic satisfy post exile stay unit copy";
+var mnemonic = "avocado term muffin cause argue follow special filter crystal soup deposit cart";

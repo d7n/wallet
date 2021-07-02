@@ -1,1 +1,1 @@
-var mnemonic = "correct domain execute size require shallow grocery later accuse box find drill";
+var mnemonic = "two code surge long quiz minute fall wrist vessel audit piece peace";

@@ -1,1 +1,1 @@
-var mnemonic = "pony item symbol blush keep photo sail embark buyer survey option lock";
+var mnemonic = "coral river peasant hover need lawsuit vanish tumble injury world fish isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "alone convince leg spin pen major magnet trip notable spike uphold text";
+var mnemonic = "ice stool modify large lady airport bubble short portion pave note project";

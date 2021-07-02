@@ -1,1 +1,1 @@
-var mnemonic = "farm phrase retreat involve chaos latin reason sample art mom gospel ethics";
+var mnemonic = "blood gun canvas honey spatial enact shoe era decline laugh reopen engine";

@@ -1,1 +1,1 @@
-var mnemonic = "large island move will blade episode endorse dial crystal trip metal invest";
+var mnemonic = "grocery grit swarm scissors trap control maid draw muffin bottom crowd tower";

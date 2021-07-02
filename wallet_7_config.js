@@ -1,1 +1,1 @@
-var mnemonic = "envelope vocal fantasy match lecture twin tuna salt tiger shine doll program";
+var mnemonic = "stove scheme seven surprise air usage odor trumpet couple legal trust there";

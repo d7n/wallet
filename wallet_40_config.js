@@ -1,1 +1,1 @@
-var mnemonic = "meat action swamp hard this member life rug category roast gun learn";
+var mnemonic = "reunion sword nurse paper turtle crystal front avocado whisper fun connect connect";

@@ -1,1 +1,1 @@
-var mnemonic = "rough update slot airport swap coyote math unaware common stumble zone bitter";
+var mnemonic = "power dragon rude glad duck struggle own kick grocery guide anchor opinion";

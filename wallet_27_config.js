@@ -1,1 +1,1 @@
-var mnemonic = "immune tone obtain together minute dinosaur captain discover neutral present angle indoor";
+var mnemonic = "atom breeze abstract barrel normal galaxy spirit boring tell drip cereal puppy";

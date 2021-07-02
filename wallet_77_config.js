@@ -1,1 +1,1 @@
-var mnemonic = "corn height there early trust scout soul music recall empty expire current";
+var mnemonic = "interest quantum later false sphere flower coin vehicle illness violin remind more";

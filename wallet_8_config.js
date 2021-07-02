@@ -1,1 +1,1 @@
-var mnemonic = "peasant beach clutch option reunion arrest cube much have kid farm melody";
+var mnemonic = "canoe jacket topple among upper umbrella old track border beauty autumn trust";

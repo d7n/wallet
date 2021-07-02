@@ -1,1 +1,1 @@
-var mnemonic = "supreme raw success gadget erupt punch father long hood present pottery want";
+var mnemonic = "enlist bring blade congress mind inform dentist else slot ocean number behind";

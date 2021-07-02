@@ -1,1 +1,1 @@
-var mnemonic = "cheese ball blush load tobacco tank confirm beef prepare shaft hidden side";
+var mnemonic = "wool news visual forest speak shoot spare close wire defense super boat";

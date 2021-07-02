@@ -1,1 +1,1 @@
-var mnemonic = "alpha smooth solution fossil advice number figure weather swap fever race raise";
+var mnemonic = "ice forward mask genuine shoot million during under snack bulk click enter";

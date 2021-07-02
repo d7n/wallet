@@ -1,1 +1,1 @@
-var mnemonic = "grant share purse jungle public noble alert top raise able around renew";
+var mnemonic = "wrist fashion dad motor expire rhythm run dash twin old system error";

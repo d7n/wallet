@@ -1,1 +1,1 @@
-var mnemonic = "agree merge game raven almost bottom thunder toast kid guess cousin helmet";
+var mnemonic = "mother during giggle guitar device demise pledge fever pink length van target";

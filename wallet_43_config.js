@@ -1,1 +1,1 @@
-var mnemonic = "lemon carry cry general symbol enlist cube tourist above antique job achieve";
+var mnemonic = "because consider night name basket viable final unaware extra fork admit minute";

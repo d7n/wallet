@@ -1,1 +1,1 @@
-var mnemonic = "blame sister noise clerk stuff off gate stick enact shield bulb damp";
+var mnemonic = "recycle bulb avoid dance surge galaxy puzzle skull snake subway exist harsh";

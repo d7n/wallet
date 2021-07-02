@@ -1,1 +1,1 @@
-var mnemonic = "jealous toss only idle pluck quick web mirror soon bird opera scene";
+var mnemonic = "frog consider attract carry script tape clump catalog jazz tomorrow leave pumpkin";

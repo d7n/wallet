@@ -1,1 +1,1 @@
-var mnemonic = "anxiety second cradle stand social skull bachelor act sausage vacant aware oxygen";
+var mnemonic = "dirt drop pumpkin cash almost wrong crowd foil cinnamon define shallow hire";

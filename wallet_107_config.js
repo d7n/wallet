@@ -1,1 +1,1 @@
-var mnemonic = "tool sniff kick argue seed awesome stick glass celery view banner beyond";
+var mnemonic = "devote prison jungle play water spoon ginger genre impact fatigue eyebrow promote";

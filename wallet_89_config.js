@@ -1,1 +1,1 @@
-var mnemonic = "ability laugh juice hedgehog foil strike weekend stock resemble voyage view object";
+var mnemonic = "moment grocery rice shove pear velvet wing divorce goat method pelican fox";

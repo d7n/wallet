@@ -1,1 +1,1 @@
-var mnemonic = "bitter yard attack lab steel sugar veteran donkey shine fashion help amount";
+var mnemonic = "bachelor maximum squeeze year glimpse shell book domain future basket confirm boring";

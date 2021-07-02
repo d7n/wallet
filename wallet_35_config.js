@@ -1,1 +1,1 @@
-var mnemonic = "recipe pulp behind vacant caught artist december bar novel dose receive draw";
+var mnemonic = "junk proof derive thumb injury bacon company wasp cliff surprise balance tower";

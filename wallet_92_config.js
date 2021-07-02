@@ -1,1 +1,1 @@
-var mnemonic = "ancient gorilla decade attack reform real again session regret valley street rapid";
+var mnemonic = "wish mixture ball gravity believe fiscal layer arrange leisure vivid process silk";

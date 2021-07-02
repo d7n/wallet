@@ -1,1 +1,1 @@
-var mnemonic = "gate term private hammer clerk bacon burden original casino live adjust diamond";
+var mnemonic = "turtle govern unusual invite square imitate learn diesel quiz detail hood panic";

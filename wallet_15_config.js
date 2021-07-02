@@ -1,1 +1,1 @@
-var mnemonic = "absorb torch hammer ribbon try vacant soft chuckle acquire talent demise strike";
+var mnemonic = "resemble example open drama tissue dress warfare all aunt attend clerk office";

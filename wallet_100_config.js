@@ -1,1 +1,1 @@
-var mnemonic = "stuff exhibit vital depth nurse syrup rather fringe profit scrap decade update";
+var mnemonic = "road hard member betray gun naive attack jeans pioneer ozone across host";

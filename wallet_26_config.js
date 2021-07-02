@@ -1,1 +1,1 @@
-var mnemonic = "sphere civil siege truck boost salt despair list glow game tackle conduct";
+var mnemonic = "cool lunch damp hold hunt misery lamp pause wear story wedding inject";

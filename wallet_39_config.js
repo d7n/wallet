@@ -1,1 +1,1 @@
-var mnemonic = "dinner awful crystal boil stage flock drop blast essay base simple deputy";
+var mnemonic = "that level shiver month valley resist pet enough casual act round witness";

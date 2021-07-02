@@ -1,1 +1,1 @@
-var mnemonic = "pepper card provide road sibling shrug above boring dilemma genius stadium cool";
+var mnemonic = "book piece upset time angry cattle track amused exercise evil cover photo";

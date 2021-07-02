@@ -1,1 +1,1 @@
-var mnemonic = "immune trend window wedding bicycle icon captain fragile tilt patrol affair brand";
+var mnemonic = "this apple occur account captain brisk retire phrase one bag pigeon come";

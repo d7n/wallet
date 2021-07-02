@@ -1,1 +1,1 @@
-var mnemonic = "list hybrid grain drum taxi night pear end song ceiling language list";
+var mnemonic = "broom solution apple luggage powder eager gap lawsuit second yellow company dumb";

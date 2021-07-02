@@ -1,1 +1,1 @@
-var mnemonic = "mechanic silver undo arrow vast dentist van face move fee kiwi document";
+var mnemonic = "slim way become dose hill small fringe say universe wave busy wagon";

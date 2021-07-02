@@ -1,1 +1,1 @@
-var mnemonic = "cheese spread island flower forest diary bracket enlist call census few joke";
+var mnemonic = "short forest lawsuit pair ivory trim network member tank cannon civil recycle";

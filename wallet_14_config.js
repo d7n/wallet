@@ -1,1 +1,1 @@
-var mnemonic = "hybrid north embody visa comfort sport silk grunt giant circle dream school";
+var mnemonic = "refuse property venue matrix panther cliff scorpion mass yard sock gun almost";

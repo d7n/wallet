@@ -1,1 +1,1 @@
-var mnemonic = "hybrid view soup marine run course walnut dream change moment raw heart";
+var mnemonic = "other never spell category knife box dismiss artist flee barely crime equip";

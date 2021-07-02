@@ -1,1 +1,1 @@
-var mnemonic = "young credit weird aim tray curious quality globe injury guard dizzy spatial";
+var mnemonic = "intact fetch evidence capable venue basic slide frown phrase powder palm oblige";

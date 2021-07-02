@@ -1,1 +1,1 @@
-var mnemonic = "fresh cube divert play cry tackle legal approve hidden leisure original water";
+var mnemonic = "smoke cup stomach casual evidence sand rude replace dry twenty tourist input";

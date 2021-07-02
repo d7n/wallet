@@ -1,1 +1,1 @@
-var mnemonic = "among enrich police staff witness gauge edge injury trash sound museum transfer";
+var mnemonic = "wage pink bronze endless swift choose plastic original obscure slab fatal clerk";

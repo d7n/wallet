@@ -1,1 +1,1 @@
-var mnemonic = "already ice believe mad oppose angle jazz foster tank ramp you despair";
+var mnemonic = "now kind junior infant sweet decide season cute save industry grit frame";

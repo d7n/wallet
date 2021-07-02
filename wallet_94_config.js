@@ -1,1 +1,1 @@
-var mnemonic = "dolphin gap cat bind bullet praise snap lift express track quantum equal";
+var mnemonic = "oxygen find medal document syrup pear economy cliff salad achieve seven analyst";

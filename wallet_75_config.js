@@ -1,1 +1,1 @@
-var mnemonic = "butter start unaware sword since inch scale pitch option hat kiss photo";
+var mnemonic = "novel check recycle jazz rail expire destroy drift arm tape correct stem";

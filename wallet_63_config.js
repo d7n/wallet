@@ -1,1 +1,1 @@
-var mnemonic = "gentle again addict squirrel skull hard wasp critic cook once salad warm";
+var mnemonic = "enroll seed cart mirror pull island false august arctic nerve swing knee";

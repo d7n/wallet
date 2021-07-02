@@ -1,1 +1,1 @@
-var mnemonic = "uniform else pole gate evidence biology invite uniform copy crew order because";
+var mnemonic = "pledge present ridge length habit name finish pencil snake keen main rate";

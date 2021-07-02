@@ -1,1 +1,1 @@
-var mnemonic = "live blade robot coach tissue badge parent young birth please certain cabbage";
+var mnemonic = "play swift eagle legal melody talk soul energy trumpet fancy pitch fatal";

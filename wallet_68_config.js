@@ -1,1 +1,1 @@
-var mnemonic = "winner intact fetch law devote prevent gossip travel mistake priority strategy alert";
+var mnemonic = "bless update slush course zone wheel oblige galaxy able during elephant race";

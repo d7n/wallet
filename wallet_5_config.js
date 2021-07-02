@@ -1,1 +1,1 @@
-var mnemonic = "oven good base expect oppose cargo piece radar lemon young bullet plug";
+var mnemonic = "peace mercy want aware dream over impact december ecology choice toast bundle";

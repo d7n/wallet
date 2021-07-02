@@ -1,1 +1,1 @@
-var mnemonic = "ribbon okay seat valve brisk upgrade rifle arrest happy trap sure sudden";
+var mnemonic = "tube divide paper egg brother leave oak unfold thank gorilla slide dish";

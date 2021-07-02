@@ -1,1 +1,1 @@
-var mnemonic = "render invest loud deny again another glow benefit ozone melt diary hand";
+var mnemonic = "load title occur rescue rose planet crazy robot approve similar desert topic";

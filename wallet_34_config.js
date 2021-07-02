@@ -1,1 +1,1 @@
-var mnemonic = "brain fragile dynamic below clump next million outdoor install identify plunge name";
+var mnemonic = "jealous foil source merit between try unhappy famous canal law please cycle";

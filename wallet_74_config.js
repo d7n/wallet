@@ -1,1 +1,1 @@
-var mnemonic = "design rookie wrestle rural victory tower boil broccoli ketchup useless nominee swift";
+var mnemonic = "call wild shove remind milk universe switch kitten language one toss myself";

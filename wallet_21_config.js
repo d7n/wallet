@@ -1,1 +1,1 @@
-var mnemonic = "snap thrive knife final book globe please treat trick radar youth tube";
+var mnemonic = "venue profit cushion resource romance search tray secret ready reflect helmet begin";

@@ -1,1 +1,1 @@
-var mnemonic = "letter subject egg recycle pipe congress wrestle crunch creek globe check suggest";
+var mnemonic = "umbrella seminar base face agree security riot pause under solution obey feed";

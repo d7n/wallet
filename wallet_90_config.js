@@ -1,1 +1,1 @@
-var mnemonic = "lizard brick employ author box demand filter mule critic draw depart genius";
+var mnemonic = "fantasy engine regular rich trigger sight hope custom put local point breeze";

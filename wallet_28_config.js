@@ -1,1 +1,1 @@
-var mnemonic = "detect volcano start crash rigid segment timber turkey auto real reflect boss";
+var mnemonic = "steel reduce chronic series neutral volcano mirror ten know dinner strike virtual";

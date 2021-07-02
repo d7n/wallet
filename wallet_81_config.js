@@ -1,1 +1,1 @@
-var mnemonic = "receive broom sentence away east luggage oval long stone broccoli aim again";
+var mnemonic = "wagon awesome fat citizen focus chat until purse flip noise soda alert";

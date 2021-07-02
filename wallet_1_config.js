@@ -1,1 +1,1 @@
-var mnemonic = "float shadow assault pigeon fox desk blanket modify oxygen stomach coyote good";
+var mnemonic = "office eagle canvas mandate flip trap boil decrease shield advice state whale";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby phone fork fire thunder pulse under pattern super tuna attend man";
+var mnemonic = "toast snack wagon decide guide stay clog length poem security senior snap";

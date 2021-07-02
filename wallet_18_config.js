@@ -1,1 +1,1 @@
-var mnemonic = "bus evoke ketchup armor screen coin adult title divorce actual fan tone";
+var mnemonic = "vote fragile hawk wife violin sound lock illegal mind verify problem toy";

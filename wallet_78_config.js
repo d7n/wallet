@@ -1,1 +1,1 @@
-var mnemonic = "parrot predict will casino silly dragon staff reason dolphin broken elegant spell";
+var mnemonic = "disorder couple permit brain hotel march provide meat swift erupt evolve million";
