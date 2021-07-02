@@ -1,1 +1,1 @@
-var mnemonic = "riot shed friend wish seminar spin toilet tide left million bubble toward";
+var mnemonic = "unveil pyramid laugh skirt panic wife three primary broken power electric eight";

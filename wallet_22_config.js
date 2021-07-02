@@ -1,1 +1,1 @@
-var mnemonic = "delay habit job long rival electric paper rate kick wrap example planet";
+var mnemonic = "evidence whale soon hair canoe rifle crazy file tell awesome route patrol";

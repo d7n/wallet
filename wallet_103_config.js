@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog move nominee embody true bag sight alarm birth inform pulp local";
+var mnemonic = "fish galaxy clever rather comic topple mirror approve hen air scare mind";

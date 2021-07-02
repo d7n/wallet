@@ -1,1 +1,1 @@
-var mnemonic = "quote rival project gospel alarm myself earn flower mouse private fitness upper";
+var mnemonic = "donate text skin boring hawk language only blue rely theme liquid obtain";

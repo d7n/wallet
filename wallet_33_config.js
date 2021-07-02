@@ -1,1 +1,1 @@
-var mnemonic = "victory fashion public cherry spot unlock bubble crime usage humble vehicle adapt";
+var mnemonic = "slight release trap solar enroll donor gown vault transfer rain service phone";

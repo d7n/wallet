@@ -1,1 +1,1 @@
-var mnemonic = "satisfy kit art forum catalog meat evil bonus doctor hill cool rookie";
+var mnemonic = "divide sheriff cat inmate grape south hurdle produce club bread hill note";

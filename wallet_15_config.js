@@ -1,1 +1,1 @@
-var mnemonic = "garlic physical traffic diet clap casual moment effort economy reward property cattle";
+var mnemonic = "double tuition escape orchard course armed mercy absorb give inject cash crime";

@@ -1,1 +1,1 @@
-var mnemonic = "deny student transfer lava hint bubble tortoise stereo pull body pioneer require";
+var mnemonic = "awkward join stool space swamp own manage security you card cannon shiver";

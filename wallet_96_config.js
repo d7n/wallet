@@ -1,1 +1,1 @@
-var mnemonic = "napkin panther laundry fun soul narrow cart raccoon scan guide farm whale";
+var mnemonic = "unit demand replace talent lend aspect drastic blade hybrid build orbit west";

@@ -1,1 +1,1 @@
-var mnemonic = "merry magic palm slight bulk fiscal pole predict flip review embrace drama";
+var mnemonic = "govern broken repair gesture jungle fortune antique under invite race mobile rack";

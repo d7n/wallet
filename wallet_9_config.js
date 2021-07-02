@@ -1,1 +1,1 @@
-var mnemonic = "ripple input scan unable inch organ lecture loyal front busy laugh relief";
+var mnemonic = "domain cotton taste token maximum pond local describe tiger cross chair kind";

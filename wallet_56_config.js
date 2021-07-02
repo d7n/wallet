@@ -1,1 +1,1 @@
-var mnemonic = "example meadow hundred pet bind cruise glue permit shift panda sudden position";
+var mnemonic = "warfare square unaware fragile select ritual help choose judge source siren dutch";

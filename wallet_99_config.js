@@ -1,1 +1,1 @@
-var mnemonic = "gloom depend buyer resist deposit gravity left twist claim laugh follow decline";
+var mnemonic = "property width rude hint spike three vanish such dog follow nose payment";

@@ -1,1 +1,1 @@
-var mnemonic = "degree lawsuit ordinary office adapt glass drop clinic large uncle situate bulb";
+var mnemonic = "reopen awake slim jelly include false buzz innocent crouch brief swing join";

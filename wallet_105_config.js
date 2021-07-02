@@ -1,1 +1,1 @@
-var mnemonic = "image erosion engine evidence garlic off excite common canyon expose panther toss";
+var mnemonic = "inject coin chicken energy order mom kiwi nuclear junk cover essay album";

@@ -1,1 +1,1 @@
-var mnemonic = "coin jazz certain oak any alien tragic gap differ hazard join asset";
+var mnemonic = "piece beef amazing chicken rabbit pistol slogan mouse swing box burden swarm";

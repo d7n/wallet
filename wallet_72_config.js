@@ -1,1 +1,1 @@
-var mnemonic = "vendor fury dutch notable draft render sunny pulp harsh squirrel panel shy";
+var mnemonic = "taste asset abandon traffic window flush napkin solve conduct fiction tiger dream";

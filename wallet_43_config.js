@@ -1,1 +1,1 @@
-var mnemonic = "ecology slush awful fatal velvet office rich winner electric battle pistol genre";
+var mnemonic = "kitchen brother trick exist crystal open rural animal wing select orphan maximum";

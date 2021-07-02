@@ -1,1 +1,1 @@
-var mnemonic = "spring unusual gun pelican nuclear proud affair tourist violin refuse soda farm";
+var mnemonic = "announce turtle truth fitness caught decide cluster chunk venture disagree boy forum";

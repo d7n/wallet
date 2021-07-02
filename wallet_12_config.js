@@ -1,1 +1,1 @@
-var mnemonic = "stick stone ask talk tackle rhythm tool play ozone solution confirm cart";
+var mnemonic = "clown next sick spoil true attitude surge they shed neutral depend mix";

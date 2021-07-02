@@ -1,1 +1,1 @@
-var mnemonic = "gate other doll arrow setup jar marine orange old fun code squeeze";
+var mnemonic = "remove bread assume harsh offer until member all switch soccer else notice";

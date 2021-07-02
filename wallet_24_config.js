@@ -1,1 +1,1 @@
-var mnemonic = "main inherit say fox cheap fault nest spike town ignore mixture smoke";
+var mnemonic = "enjoy work resemble gentle supreme box misery mosquito arrest catch tube jacket";

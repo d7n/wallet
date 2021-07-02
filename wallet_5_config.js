@@ -1,1 +1,1 @@
-var mnemonic = "issue spare case since endorse lawn category quit pear anxiety grass during";
+var mnemonic = "safe inflict gas inject wink elephant moon zero equip emotion early air";

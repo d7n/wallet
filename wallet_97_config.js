@@ -1,1 +1,1 @@
-var mnemonic = "poverty crush check clip gentle doll lake few until dirt potato choice";
+var mnemonic = "unit retire slam game maze cancel chapter gauge gadget assault brother famous";

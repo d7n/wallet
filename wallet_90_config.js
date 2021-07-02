@@ -1,1 +1,1 @@
-var mnemonic = "sail laundry science cotton excuse choose cactus coast basic safe hazard excess";
+var mnemonic = "skull fault blossom crystal protect kick voyage brother remove biology axis silent";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra page sunny width client park drop require cupboard enroll shield wisdom";
+var mnemonic = "math taxi section window hello source idea senior limb come saddle shift";

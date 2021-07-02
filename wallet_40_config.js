@@ -1,1 +1,1 @@
-var mnemonic = "devote reopen update tone basket zebra sting approve potato symptom sibling tube";
+var mnemonic = "tragic air gas auction sail lend remain sing decade inherit bubble loop";

@@ -1,1 +1,1 @@
-var mnemonic = "trend wrong sunset close develop civil thrive dawn feed gallery trade trust";
+var mnemonic = "cigar will blur scatter recall color cover laptop abandon inject miss hotel";

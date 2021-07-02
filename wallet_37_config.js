@@ -1,1 +1,1 @@
-var mnemonic = "sudden sign enhance gown antique what loud traffic zero clean peasant enlist";
+var mnemonic = "slam action rail damp denial dose equip cat flight timber category shock";

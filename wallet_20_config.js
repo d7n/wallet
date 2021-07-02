@@ -1,1 +1,1 @@
-var mnemonic = "vanish blue marriage cover design federal tattoo local such axis avoid mixed";
+var mnemonic = "solid chair truth know seat antenna inflict cabbage cable enable attract front";

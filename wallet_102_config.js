@@ -1,1 +1,1 @@
-var mnemonic = "cake post fiction skull price under only surround cactus crop apology network";
+var mnemonic = "mention dry report update rose engine minute fabric wrap crash morning nominee";

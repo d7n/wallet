@@ -1,1 +1,1 @@
-var mnemonic = "swallow flavor world plunge volcano own point bicycle shield matrix strike chimney";
+var mnemonic = "hill offer quality type spoil album absent runway patch symptom top maple";

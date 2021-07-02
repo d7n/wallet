@@ -1,1 +1,1 @@
-var mnemonic = "enter prison chaos gym trash hawk scare pumpkin wisdom impulse angry brand";
+var mnemonic = "meadow milk fever travel invite cancel zero prefer crater rescue spin shell";

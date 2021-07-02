@@ -1,1 +1,1 @@
-var mnemonic = "pole action umbrella around pool crowd disease must ugly borrow noise finish";
+var mnemonic = "bus blade moment attack perfect sunset aunt concert teach concert oven umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "sort action bright level subway machine salute artist detect volume unique park";
+var mnemonic = "split hobby lobster silly arrive bundle kiss share intact squeeze shift toe";

@@ -1,1 +1,1 @@
-var mnemonic = "drill lawsuit protect sudden response ready giraffe tree vibrant acquire snap struggle";
+var mnemonic = "rebuild green ripple vacuum thunder current one eye topic bamboo valid carpet";

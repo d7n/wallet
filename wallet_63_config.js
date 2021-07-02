@@ -1,1 +1,1 @@
-var mnemonic = "hill hurry quarter design jaguar december seminar duck pistol orbit private address";
+var mnemonic = "dentist repair title casino gesture shoe switch panda squeeze soul idea later";

@@ -1,1 +1,1 @@
-var mnemonic = "critic panther attract uniform goddess wine soul erupt priority immense crucial worth";
+var mnemonic = "nephew there useless sketch oval relief flock glow same light response agent";

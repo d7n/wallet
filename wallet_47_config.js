@@ -1,1 +1,1 @@
-var mnemonic = "vintage column symptom interest biology vital bring wall genuine rabbit gravity clay";
+var mnemonic = "provide flag rib minute put rigid human repair wolf penalty street text";

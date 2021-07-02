@@ -1,1 +1,1 @@
-var mnemonic = "doll vote emerge orchard glue hawk trumpet eye inmate picnic shield vote";
+var mnemonic = "winner industry gather quit couch toilet bone armed evoke attitude night disease";

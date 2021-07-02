@@ -1,1 +1,1 @@
-var mnemonic = "clerk tail bid quiz course target grunt foil window true dad ethics";
+var mnemonic = "tuition whisper access sweet affair bronze stable artwork eager enact loyal cancel";

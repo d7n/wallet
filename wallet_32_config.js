@@ -1,1 +1,1 @@
-var mnemonic = "diet vague shiver ensure pelican upon slim oblige area smooth novel lizard";
+var mnemonic = "broom pencil sketch liar such decorate anchor pitch basic crater praise umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "drink alone gravity there visit ride error code thought useless flip camera";
+var mnemonic = "pony shell rug magic slow angry mixture arctic chicken judge lock bulk";

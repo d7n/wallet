@@ -1,1 +1,1 @@
-var mnemonic = "proud general marble noble wish pilot penalty guard fruit page duty sheriff";
+var mnemonic = "lawn advice rug absent raccoon wing wage mention exchange roast lizard basic";

@@ -1,1 +1,1 @@
-var mnemonic = "merry include guitar flush outdoor benefit involve cheap crane flag siren duck";
+var mnemonic = "group eye decade profit physical miracle dinner citizen soap festival salt execute";

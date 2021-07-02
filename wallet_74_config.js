@@ -1,1 +1,1 @@
-var mnemonic = "mango shoe guilt remain juice analyst biology acoustic donor embrace monster print";
+var mnemonic = "lonely tired pelican honey outer biology combine soldier job attack walk absurd";

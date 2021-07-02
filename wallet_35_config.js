@@ -1,1 +1,1 @@
-var mnemonic = "embark maple island super wing artist marble arrive tell history tape local";
+var mnemonic = "record surface hour toilet poet supreme exile buyer pass reflect always tube";

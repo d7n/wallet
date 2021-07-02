@@ -1,1 +1,1 @@
-var mnemonic = "parrot atom similar fury gold man huge among permit reject govern lend";
+var mnemonic = "essay fashion woman apology abuse before pilot near divide maze jealous shallow";

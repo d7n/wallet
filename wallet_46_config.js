@@ -1,1 +1,1 @@
-var mnemonic = "mass paper lemon cargo divorce column ridge luggage improve design deliver exotic";
+var mnemonic = "until sentence body pull cabin pluck coffee price pig giggle slim focus";

@@ -1,1 +1,1 @@
-var mnemonic = "head nephew strategy hurry fossil wish bicycle rival love top element gadget";
+var mnemonic = "today soup present word leave crouch sure decrease rocket taste surge laptop";

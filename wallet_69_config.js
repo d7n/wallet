@@ -1,1 +1,1 @@
-var mnemonic = "inner lounge still voyage arctic link sort wine become imitate ball vehicle";
+var mnemonic = "exact cargo motion polar foil crumble warrior pig desert view cloud apple";

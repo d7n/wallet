@@ -1,1 +1,1 @@
-var mnemonic = "dash lava rebuild affair budget rent elder leader curious cannon yellow gossip";
+var mnemonic = "whale symbol fiscal cage object grocery update shrimp april cabin mechanic disagree";

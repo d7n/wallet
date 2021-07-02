@@ -1,1 +1,1 @@
-var mnemonic = "idea coast crawl place rent fat current live sun fly address control";
+var mnemonic = "hockey recipe spot fetch episode reopen roast diamond behave call divorce orient";

@@ -1,1 +1,1 @@
-var mnemonic = "onion napkin ensure tell enough heart tourist virtual sell cup grit pen";
+var mnemonic = "judge evil valid shy debris loud jacket broom harbor ecology street monkey";

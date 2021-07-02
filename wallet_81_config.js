@@ -1,1 +1,1 @@
-var mnemonic = "media trumpet switch attitude quit diary dilemma dress apology betray pig pill";
+var mnemonic = "thank lounge fiction choose wine pigeon broom color alarm sense vast burger";

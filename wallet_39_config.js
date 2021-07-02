@@ -1,1 +1,1 @@
-var mnemonic = "grit judge usual purity camp snow oak jungle reveal cream ecology term";
+var mnemonic = "fortune option pole inherit amount gym rigid wool viable test rail tide";

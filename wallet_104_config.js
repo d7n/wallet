@@ -1,1 +1,1 @@
-var mnemonic = "crucial switch dove orient mask loud movie moral real release tooth south";
+var mnemonic = "cereal blame camera long castle mandate parade lunch resemble upgrade coin version";

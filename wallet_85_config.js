@@ -1,1 +1,1 @@
-var mnemonic = "permit shy defense spice hybrid reform never similar film wheat melody drama";
+var mnemonic = "solve blood tunnel equal use couple super kid luxury coconut absent virtual";

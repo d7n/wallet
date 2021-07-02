@@ -1,1 +1,1 @@
-var mnemonic = "voyage first lemon learn company deputy genius account hundred dream secret deer";
+var mnemonic = "moon void emerge student vote very boy erupt garbage toast quantum rich";

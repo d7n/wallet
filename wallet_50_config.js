@@ -1,1 +1,1 @@
-var mnemonic = "trap curious buyer vast enrich exact slender dwarf ticket mystery mass frost";
+var mnemonic = "quality extend blame mail donate loop fog mystery early festival uncle grunt";

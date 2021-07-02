@@ -1,1 +1,1 @@
-var mnemonic = "aware ridge entire expose surface shine fresh verify plunge tomato diesel flat";
+var mnemonic = "economy pigeon mirror sponsor road kitten amazing rice attract mimic news grocery";

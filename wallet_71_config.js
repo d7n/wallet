@@ -1,1 +1,1 @@
-var mnemonic = "pencil setup range common bomb fiscal typical address bamboo neither machine skate";
+var mnemonic = "indicate forum vital spray hundred primary aspect tray escape favorite execute unit";

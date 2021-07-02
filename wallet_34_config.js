@@ -1,1 +1,1 @@
-var mnemonic = "margin romance tomorrow elephant diagram economy autumn chat scatter chronic exhibit pill";
+var mnemonic = "mouse penalty bike candy again heart gossip stone egg word what police";

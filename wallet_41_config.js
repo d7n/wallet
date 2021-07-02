@@ -1,1 +1,1 @@
-var mnemonic = "push hybrid crush lounge chalk upon comic game claw despair nominee exile";
+var mnemonic = "cheese leisure space oblige already inject clinic rail rude drive accident topic";

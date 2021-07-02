@@ -1,1 +1,1 @@
-var mnemonic = "expect swamp cousin lemon metal slow draft drive subject enlist zoo race";
+var mnemonic = "sense arctic record buzz blossom language utility they mesh derive mountain husband";

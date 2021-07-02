@@ -1,1 +1,1 @@
-var mnemonic = "stool cabin leave master pretty pretty acquire follow trophy athlete destroy acid";
+var mnemonic = "razor glass tube typical gentle ribbon spike engage between tenant cart bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil bid scale treat urban glory slogan abstract chicken rule alarm nothing";
+var mnemonic = "sort dance verb destroy fresh veteran unusual thumb version risk pumpkin clip";

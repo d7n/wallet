@@ -1,1 +1,1 @@
-var mnemonic = "nasty scissors twelve appear bundle forward adult police enlist prefer mansion rebuild";
+var mnemonic = "ice copy alien lesson nuclear sunny manage tag loan fossil slot require";

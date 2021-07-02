@@ -1,1 +1,1 @@
-var mnemonic = "oval switch buzz cage invite salon snake violin album theme south exhaust";
+var mnemonic = "gasp report kangaroo explain seek invest faith promote upon enhance finish diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage exile various attract cabbage young liquid elevator effort dress explain like";
+var mnemonic = "suspect winner pave island female rural blind wheel spring such forward silent";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise tuition tilt peace sheriff actual crazy farm report talk right ozone";
+var mnemonic = "engage among bachelor buddy hurry next arctic beyond attitude average goose yellow";

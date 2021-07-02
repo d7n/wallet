@@ -1,1 +1,1 @@
-var mnemonic = "step orient copper summer joy stool coast differ parade mechanic become economy";
+var mnemonic = "tube cargo core ramp memory tiger hobby already arrive start describe spy";

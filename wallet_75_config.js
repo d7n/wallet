@@ -1,1 +1,1 @@
-var mnemonic = "okay scale long expire core connect random pizza rotate void extra milk";
+var mnemonic = "trade weapon ball unusual praise beyond slush bubble obtain extend chase rocket";

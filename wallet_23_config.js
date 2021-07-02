@@ -1,1 +1,1 @@
-var mnemonic = "smart tide cherry decade play february abstract clinic fiscal mesh cancel live";
+var mnemonic = "veteran video smile ticket audit nose switch maid tray over casual purse";

@@ -1,1 +1,1 @@
-var mnemonic = "wet own road you genre hazard endorse wall exact total fat section";
+var mnemonic = "surprise suit check ill math object curtain assist critic garment company opinion";

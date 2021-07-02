@@ -1,1 +1,1 @@
-var mnemonic = "atom gain mercy require heart ten antenna weird client suspect initial orbit";
+var mnemonic = "inner humble edit myth quantum merge soap gown audit garden tape fragile";

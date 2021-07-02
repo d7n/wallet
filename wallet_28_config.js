@@ -1,1 +1,1 @@
-var mnemonic = "include west rely any hurry stem level tongue buyer broken wisdom doctor";
+var mnemonic = "hybrid act velvet stable blast mystery chaos produce screen evil planet obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "order shove profit spatial alcohol road comfort mechanic copy figure chat acid";
+var mnemonic = "spend celery horn uncle gentle later assist weird marble flame proof soft";

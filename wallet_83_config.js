@@ -1,1 +1,1 @@
-var mnemonic = "neither jewel spread critic subway gun shift rubber online sorry artist quarter";
+var mnemonic = "slide later human enter first few pluck work antenna slow pact half";

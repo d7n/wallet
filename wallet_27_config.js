@@ -1,1 +1,1 @@
-var mnemonic = "brass entire dizzy ignore near volcano draw kingdom much shaft team february";
+var mnemonic = "brief easily wrestle yard prize false silent project trust work sort recall";

@@ -1,1 +1,1 @@
-var mnemonic = "behind ill ahead route travel globe sound worth bracket rebuild cross share";
+var mnemonic = "prosper bridge wreck beach blossom pride mansion hood absurd medal board okay";

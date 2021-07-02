@@ -1,1 +1,1 @@
-var mnemonic = "divert drip scrap urge diary position crowd sport frog oak velvet tree";
+var mnemonic = "try bullet dumb scrap mechanic noble leopard gesture bag rich fence marine";

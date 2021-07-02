@@ -1,1 +1,1 @@
-var mnemonic = "reunion medal brush suit member meadow bring firm range leader dizzy avocado";
+var mnemonic = "hen hurt verb flavor any thought will balance marine give project thrive";

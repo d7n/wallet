@@ -1,1 +1,1 @@
-var mnemonic = "damp feed stage pottery stairs bachelor faith usual nuclear coffee sister unlock";
+var mnemonic = "follow utility curtain blame street expand test spirit name spread exchange load";

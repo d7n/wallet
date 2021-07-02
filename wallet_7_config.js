@@ -1,1 +1,1 @@
-var mnemonic = "lucky perfect there dinosaur skirt mammal seminar diary clarify crush ten jungle";
+var mnemonic = "initial swift sugar sadness eagle crawl goddess hybrid believe fan ghost lobster";

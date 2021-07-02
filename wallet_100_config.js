@@ -1,1 +1,1 @@
-var mnemonic = "lonely valve lady fever dumb cliff humble clock duck mass rude joke";
+var mnemonic = "old where tree actual exhaust try exit biology tonight three people wing";
