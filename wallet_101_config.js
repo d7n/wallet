@@ -1,1 +1,1 @@
-var mnemonic = "hungry crisp target rain pepper confirm little around guilt drastic need million";
+var mnemonic = "shy seed width athlete shed quick push seed name program express effort";

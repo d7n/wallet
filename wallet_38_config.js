@@ -1,1 +1,1 @@
-var mnemonic = "violin cloud clock eager breeze alone security balance start mutual enable arrest";
+var mnemonic = "drama figure banner shy ritual source harbor tomato fiber swim purpose keep";

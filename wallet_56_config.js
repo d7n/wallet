@@ -1,1 +1,1 @@
-var mnemonic = "agree volume tree choice upon open fun this guard case middle rack";
+var mnemonic = "educate trigger vendor buffalo final cattle spare motor cube fish club debris";

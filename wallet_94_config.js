@@ -1,1 +1,1 @@
-var mnemonic = "also uniform lion ready task heavy napkin require potato slow oxygen west";
+var mnemonic = "crash arch repeat ghost grit other tuna secret chapter orbit drive sister";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie pen ready captain net wonder trumpet brief stereo choose cheap weather";
+var mnemonic = "thumb brain device curve crunch drum weasel wrap floor turn refuse raise";

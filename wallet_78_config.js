@@ -1,1 +1,1 @@
-var mnemonic = "impose neither only history hat book always hour under mixture grief beef";
+var mnemonic = "round universe behave praise unfair citizen circle pulp divert upper design frame";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade good earn library alcohol force bronze prefer awesome snow intact order";
+var mnemonic = "boil denial runway fish ranch hurt idea trip blossom quality rigid cupboard";

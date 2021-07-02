@@ -1,1 +1,1 @@
-var mnemonic = "era sword lazy warrior three concert make brown joke size wrong find";
+var mnemonic = "dilemma vague calm carbon open maximum curious whisper gossip rebel battle jaguar";

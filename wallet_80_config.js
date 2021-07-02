@@ -1,1 +1,1 @@
-var mnemonic = "base festival river lyrics clean leave timber victory surround toast celery volume";
+var mnemonic = "clean crisp grid until pen nut possible kite mystery rigid spoil surround";

@@ -1,1 +1,1 @@
-var mnemonic = "acid afraid adapt brother want copper teach excite spring novel siren trophy";
+var mnemonic = "embody room neglect happy spot lamp shrimp rubber enter column rule fade";

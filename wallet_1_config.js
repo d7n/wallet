@@ -1,1 +1,1 @@
-var mnemonic = "shield erase stumble vast flavor survey find slight planet sustain soccer belt";
+var mnemonic = "cricket maximum royal forest picture segment oven remain buzz rough drama know";

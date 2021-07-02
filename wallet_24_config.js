@@ -1,1 +1,1 @@
-var mnemonic = "supply claw hybrid mimic rib shrimp sentence begin buyer hope ensure split";
+var mnemonic = "awful lucky isolate off capable prevent rug cattle term flight ecology cave";

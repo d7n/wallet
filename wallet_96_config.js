@@ -1,1 +1,1 @@
-var mnemonic = "mesh list quiz noodle wink dice hurt cinnamon damp race deal mango";
+var mnemonic = "offer outer olympic vendor junk industry fix blouse toddler echo awkward gauge";

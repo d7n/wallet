@@ -1,1 +1,1 @@
-var mnemonic = "actress divide vicious energy food urban three sport adjust salon panda custom";
+var mnemonic = "network hill liberty judge denial kind ice ride manual invite final drill";

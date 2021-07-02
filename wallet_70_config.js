@@ -1,1 +1,1 @@
-var mnemonic = "nuclear heart divorce merge goose bag harsh dish imitate still ostrich sorry";
+var mnemonic = "harvest aim pride member find joy indoor stable bounce word type robot";

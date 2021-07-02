@@ -1,1 +1,1 @@
-var mnemonic = "ice town acid need drill enjoy spike move relax deliver spy fitness";
+var mnemonic = "step vicious chimney sentence output gold silver alcohol pudding into proof antique";

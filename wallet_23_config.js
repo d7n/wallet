@@ -1,1 +1,1 @@
-var mnemonic = "science recall invite custom correct elephant mixture prepare cricket worry drama salute";
+var mnemonic = "nephew reject input hold bounce churn grow find sun time grab pattern";

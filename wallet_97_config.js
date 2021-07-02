@@ -1,1 +1,1 @@
-var mnemonic = "only focus dwarf olive capital federal super squirrel echo kite throw vital";
+var mnemonic = "buffalo limb head cycle pair blue ceiling grow lemon group material turkey";

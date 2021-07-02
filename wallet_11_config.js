@@ -1,1 +1,1 @@
-var mnemonic = "busy memory write perfect shaft ensure amazing offer royal loud relax mirror";
+var mnemonic = "either mind fee that puzzle fancy fury window kitten spice leopard weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "drive real matrix woman nice salute swift interest phone speak true blush";
+var mnemonic = "doll video tobacco spot town purpose buyer achieve sad fox alien crawl";

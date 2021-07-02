@@ -1,1 +1,1 @@
-var mnemonic = "soldier skate chat dash time permit scheme such similar leg tone matrix";
+var mnemonic = "box ivory lamp knife shrug promote flat empower deny clap diet radio";

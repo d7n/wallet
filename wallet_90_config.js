@@ -1,1 +1,1 @@
-var mnemonic = "pyramid symptom cruel used tumble aware pass attitude dish buyer warrior biology";
+var mnemonic = "staff account work away inside echo valid cactus exact regret argue inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "blame picture absorb detail frequent doll walnut blouse minor human token flock";
+var mnemonic = "cool scout detect improve hard crowd range assume key child speak cherry";

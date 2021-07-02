@@ -1,1 +1,1 @@
-var mnemonic = "race hood target lyrics rug silver coast version favorite trouble speed smooth";
+var mnemonic = "essence session icon manual sun rhythm promote admit setup marble middle sausage";

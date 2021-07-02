@@ -1,1 +1,1 @@
-var mnemonic = "warm round vital wisdom hurdle fall away notice genre milk town pass";
+var mnemonic = "lava enact stock drift twelve enact ship gorilla replace chunk finish avocado";

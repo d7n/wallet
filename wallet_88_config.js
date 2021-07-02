@@ -1,1 +1,1 @@
-var mnemonic = "behind stadium blur coyote property chair speed scan unlock effort truck mesh";
+var mnemonic = "bid goose suffer tail liquid east tackle street mandate push super call";

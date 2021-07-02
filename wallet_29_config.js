@@ -1,1 +1,1 @@
-var mnemonic = "agree talent fatigue remain hockey void fit muffin chase brave warrior pull";
+var mnemonic = "chronic eye annual slow minimum waste bamboo hazard parade useless idea man";

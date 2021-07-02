@@ -1,1 +1,1 @@
-var mnemonic = "bar famous know nuclear group truck lyrics palace timber weird seminar solve";
+var mnemonic = "flat vintage execute truly coconut hand want shadow original common pistol fiction";

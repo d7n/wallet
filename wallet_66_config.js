@@ -1,1 +1,1 @@
-var mnemonic = "gaze finger infant vivid diet outer radio chest tip able latin accuse";
+var mnemonic = "visit amount loan breeze vote lecture disagree motor ramp walk climb pink";

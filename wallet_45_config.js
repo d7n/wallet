@@ -1,1 +1,1 @@
-var mnemonic = "cabin pattern climb squeeze muffin gospel plug crane small huge first warrior";
+var mnemonic = "mix ride evolve type april orient sorry test blood club penalty car";

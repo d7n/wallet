@@ -1,1 +1,1 @@
-var mnemonic = "lake dune veteran hint base grant drip traffic chase churn gain soldier";
+var mnemonic = "moon crumble cactus waste weasel attract repair glove arrive spy awkward modify";

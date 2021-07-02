@@ -1,1 +1,1 @@
-var mnemonic = "reform pause eye inch left strike setup update biology absurd father tilt";
+var mnemonic = "afraid pride elite loud install exile weather wall milk canoe climb around";

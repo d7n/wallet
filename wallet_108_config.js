@@ -1,1 +1,1 @@
-var mnemonic = "cement tomorrow beef autumn multiply rigid pitch check market upset split sniff";
+var mnemonic = "color hub ski witness equip rail shoot firm merit way speak damp";

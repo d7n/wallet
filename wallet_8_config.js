@@ -1,1 +1,1 @@
-var mnemonic = "aerobic gas cool upper curtain dance sister first diamond dynamic loop pigeon";
+var mnemonic = "donor shine arctic again stand bitter diamond step burst field deposit index";

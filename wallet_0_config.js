@@ -1,1 +1,1 @@
-var mnemonic = "twice peace monster awful practice exist wonder gun nerve fall length space";
+var mnemonic = "clinic ring silver second demand reunion shoe upgrade when garment cigar habit";

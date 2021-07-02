@@ -1,1 +1,1 @@
-var mnemonic = "short party cloth renew shiver ritual defense vehicle surround crush mail story";
+var mnemonic = "position want luxury among quarter lucky casino voice badge lottery cousin space";

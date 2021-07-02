@@ -1,1 +1,1 @@
-var mnemonic = "spread satoshi setup multiply setup choice exhibit urge candy wall rigid ability";
+var mnemonic = "supreme rate race dinosaur review submit october slot demise asset peace security";

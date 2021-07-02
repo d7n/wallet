@@ -1,1 +1,1 @@
-var mnemonic = "credit original pear hill pyramid artist reject sea become there lazy venture";
+var mnemonic = "nerve cabbage course win viable purpose opera dry margin canal cook save";

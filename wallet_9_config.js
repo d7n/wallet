@@ -1,1 +1,1 @@
-var mnemonic = "oyster flip cloth guard prepare senior matrix sunny impulse north session tomorrow";
+var mnemonic = "sick close fly code task guitar range vacuum design crawl mother inch";

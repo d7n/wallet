@@ -1,1 +1,1 @@
-var mnemonic = "thumb vessel about other science garment supreme pyramid december purse guilt often";
+var mnemonic = "two wool oak bind loud snack digital debate genre defense struggle fix";

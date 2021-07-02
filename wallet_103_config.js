@@ -1,1 +1,1 @@
-var mnemonic = "seed parrot target jaguar review letter obey wing muscle medal toe stairs";
+var mnemonic = "stairs address priority ensure below prepare arm neither juice youth resource drop";

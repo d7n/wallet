@@ -1,1 +1,1 @@
-var mnemonic = "liquid elite connect minimum bottom rough term ghost vanish ride trap mimic";
+var mnemonic = "sing frozen private journey trophy quantum middle toilet fancy dash absurd useless";

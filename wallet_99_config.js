@@ -1,1 +1,1 @@
-var mnemonic = "lens girl useful swarm inch seek vault room current excuse garage gold";
+var mnemonic = "gesture paddle join antique army spirit later sorry under whisper fold brown";

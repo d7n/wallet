@@ -1,1 +1,1 @@
-var mnemonic = "want bulk unaware topple misery gossip calm erosion lock damage asthma base";
+var mnemonic = "win develop bamboo isolate castle hover cash conduct gaze another bonus bundle";

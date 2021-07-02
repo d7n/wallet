@@ -1,1 +1,1 @@
-var mnemonic = "space below helmet useless dwarf blind before feed frozen cabin sand render";
+var mnemonic = "keep destroy major hundred near behave real curve bleak imitate toy amount";

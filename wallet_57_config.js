@@ -1,1 +1,1 @@
-var mnemonic = "innocent speed slight draw smoke hub torch omit gloom tired police blanket";
+var mnemonic = "parrot involve warfare elite response lemon edge elevator reject column truck elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit wrestle magic crazy phone duty dumb air path trouble gallery flee";
+var mnemonic = "token scrub wife rifle excuse carbon retire grain typical load book toilet";

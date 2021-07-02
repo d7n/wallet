@@ -1,1 +1,1 @@
-var mnemonic = "rotate pull twenty together film between casual sunset innocent brand unhappy moon";
+var mnemonic = "inmate erupt print soccer pool frog ordinary arrange parade act urban obscure";

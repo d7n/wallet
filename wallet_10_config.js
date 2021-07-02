@@ -1,1 +1,1 @@
-var mnemonic = "sponsor tower duck donkey intact coyote doll aspect equip maximum burden buzz";
+var mnemonic = "illness kick alcohol rose theme forum raven future enjoy dinosaur chunk rule";

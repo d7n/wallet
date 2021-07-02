@@ -1,1 +1,1 @@
-var mnemonic = "rug venture dumb peace choice base push screen cost hub outer insane";
+var mnemonic = "lizard rain era athlete base spike swim hello debris error toddler topple";

@@ -1,1 +1,1 @@
-var mnemonic = "either avocado old guilt isolate diagram cliff mix family athlete hub false";
+var mnemonic = "hand hazard shadow seven beauty top eager spirit quality sing love pulp";

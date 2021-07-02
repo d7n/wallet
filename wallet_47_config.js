@@ -1,1 +1,1 @@
-var mnemonic = "jar wrap kangaroo maximum yard tool clever problem receive antenna april cousin";
+var mnemonic = "provide pelican unlock twin bamboo correct letter panel stem bicycle master uniform";

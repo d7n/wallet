@@ -1,1 +1,1 @@
-var mnemonic = "window under honey kangaroo confirm spatial tag borrow cry feature crystal true";
+var mnemonic = "donor slice maze fade rebel napkin fence people shrimp strong race holiday";

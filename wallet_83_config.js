@@ -1,1 +1,1 @@
-var mnemonic = "address bullet puzzle oxygen aim sudden blanket noble demand include hunt room";
+var mnemonic = "refuse ridge approve fiction hard fun trade crash boss chalk front protect";

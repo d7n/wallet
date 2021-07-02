@@ -1,1 +1,1 @@
-var mnemonic = "rack dutch tourist join used slide garlic day inhale timber rally roast";
+var mnemonic = "finish object couch dutch grain together album latin cart gospel rabbit ice";

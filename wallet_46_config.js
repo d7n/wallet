@@ -1,1 +1,1 @@
-var mnemonic = "famous ski length lion very orphan jaguar hole shallow depth soul carry";
+var mnemonic = "step theme club there rival jazz uphold gym sister initial case sun";

@@ -1,1 +1,1 @@
-var mnemonic = "alter target garden fragile canal name spell output pioneer zone cluster pepper";
+var mnemonic = "orient wash order armed raccoon present income text spike mirror taxi coil";

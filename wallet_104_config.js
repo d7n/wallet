@@ -1,1 +1,1 @@
-var mnemonic = "reopen evil small brown toward strike umbrella advance diet devote fade decade";
+var mnemonic = "enemy globe economy delay praise surround stay tooth actual scorpion net weasel";

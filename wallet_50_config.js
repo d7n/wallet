@@ -1,1 +1,1 @@
-var mnemonic = "cradle vehicle face tide ten useless lawn panel iron grain siege project";
+var mnemonic = "faint hip below hour easily cargo what skill plastic strategy mirror dad";

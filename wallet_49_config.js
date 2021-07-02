@@ -1,1 +1,1 @@
-var mnemonic = "member become cannon enrich door panel scan force rigid attract client episode";
+var mnemonic = "private weasel primary own smart path donor judge chase almost spoil comfort";

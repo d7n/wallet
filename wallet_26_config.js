@@ -1,1 +1,1 @@
-var mnemonic = "stumble image rival hat duck episode grid loop escape impose wise melody";
+var mnemonic = "legend casual text juice include wave blue roof palace city reform bus";

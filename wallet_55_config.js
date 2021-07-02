@@ -1,1 +1,1 @@
-var mnemonic = "fame roast super among glass surround outdoor galaxy elevator digital stamp foster";
+var mnemonic = "shine remain appear debris material evoke hamster congress whip tilt brother rack";

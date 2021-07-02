@@ -1,1 +1,1 @@
-var mnemonic = "hair random ship analyst oyster fortune vivid fat crack all turkey speak";
+var mnemonic = "mesh stable absent survey six bone couple ghost purchase antenna cram stomach";

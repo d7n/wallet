@@ -1,1 +1,1 @@
-var mnemonic = "useless diagram curve buyer evidence use excite misery chief wreck bean swarm";
+var mnemonic = "decline satisfy wink comfort antenna cool inject lyrics melody eye slow best";

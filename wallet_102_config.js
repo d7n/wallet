@@ -1,1 +1,1 @@
-var mnemonic = "transfer strong custom rude trip cargo coil feature when model tray pipe";
+var mnemonic = "web alpha machine ocean access scrub aware swing tag subject purity hat";

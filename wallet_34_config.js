@@ -1,1 +1,1 @@
-var mnemonic = "ocean stone token drip place hurt short capable treat vanish ridge blossom";
+var mnemonic = "rocket unfair taste fiscal vicious vibrant pelican allow define bargain usual style";

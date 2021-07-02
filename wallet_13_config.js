@@ -1,1 +1,1 @@
-var mnemonic = "bike tail ripple drip gaze capital ethics uniform siren edit before despair";
+var mnemonic = "rough identify arrow hip craft hope leave click horror stadium view rice";

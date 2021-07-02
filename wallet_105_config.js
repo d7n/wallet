@@ -1,1 +1,1 @@
-var mnemonic = "turtle tattoo rocket tube gate deny immense crisp unfair predict baby kitchen";
+var mnemonic = "idle spin school maid custom cage vault chicken shy million neutral crush";

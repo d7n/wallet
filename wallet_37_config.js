@@ -1,1 +1,1 @@
-var mnemonic = "tuna grant screen congress category morning plate twelve rose kite purchase patrol";
+var mnemonic = "decade water pudding gap magic area desk survey clip dignity never dinner";

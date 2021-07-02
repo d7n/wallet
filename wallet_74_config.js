@@ -1,1 +1,1 @@
-var mnemonic = "fringe ugly route often planet vault glue tattoo scan media home rare";
+var mnemonic = "sugar just dose hurt provide royal resist minute ramp genuine oak matter";

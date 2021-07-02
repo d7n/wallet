@@ -1,1 +1,1 @@
-var mnemonic = "awful tip warfare reduce kind response bird comfort oval attitude jealous income";
+var mnemonic = "ankle worry struggle mutual neither hidden filter sunset impose happy garbage quantum";

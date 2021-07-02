@@ -1,1 +1,1 @@
-var mnemonic = "list meadow curve flight mercy desert whisper found option venue bullet pride";
+var mnemonic = "magic airport later tail poverty fiction post blanket critic there piece degree";

@@ -1,1 +1,1 @@
-var mnemonic = "sight chase tourist flower apple fence awake insane spread soon scorpion lizard";
+var mnemonic = "giggle foil fresh sick minimum market vital possible enjoy immense gorilla garage";

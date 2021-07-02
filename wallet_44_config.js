@@ -1,1 +1,1 @@
-var mnemonic = "purity column cool gospel thunder melody twice glad receive vapor faculty account";
+var mnemonic = "violin dry spawn share invest want ride cup velvet misery naive current";

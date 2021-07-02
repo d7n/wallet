@@ -1,1 +1,1 @@
-var mnemonic = "jeans news tube tackle enough number rocket spider ball again segment staff";
+var mnemonic = "ghost nest plate crouch guilt diamond glad dragon thunder group false crisp";

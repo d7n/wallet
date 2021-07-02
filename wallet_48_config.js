@@ -1,1 +1,1 @@
-var mnemonic = "edge romance lock upon trim globe erase race chest humble gym emotion";
+var mnemonic = "glare evolve uphold token siege inflict fit knee buddy right improve lesson";

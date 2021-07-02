@@ -1,1 +1,1 @@
-var mnemonic = "hunt kit warm blur abuse apart team ensure debris secret common huge";
+var mnemonic = "toy hint point tide ozone excuse shallow palm warm table pen student";

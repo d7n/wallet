@@ -1,1 +1,1 @@
-var mnemonic = "galaxy again cheese ranch exercise split tomorrow opera giraffe thrive into october";
+var mnemonic = "rent truth chimney gospel genius already mind edge breeze angry firm long";

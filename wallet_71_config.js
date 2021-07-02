@@ -1,1 +1,1 @@
-var mnemonic = "robust speak caution soft spike idea room grab type penalty field fringe";
+var mnemonic = "expose mixed clarify horror inform slight merge process betray puzzle clump announce";

@@ -1,1 +1,1 @@
-var mnemonic = "finish law plastic hamster crop modify spy oppose forget axis maple build";
+var mnemonic = "lizard scheme wasp spy design sort biology post owner rose bicycle august";

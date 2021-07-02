@@ -1,1 +1,1 @@
-var mnemonic = "dune square click entire end congress tilt engage sentence deer pilot ski";
+var mnemonic = "gap foot piano regular vibrant cycle gentle battle post quote cotton number";

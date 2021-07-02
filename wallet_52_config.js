@@ -1,1 +1,1 @@
-var mnemonic = "love profit news tattoo liberty pitch picture fix panic enough insect amazing";
+var mnemonic = "science labor shoulder rack alley now scout tumble draw couch memory ethics";

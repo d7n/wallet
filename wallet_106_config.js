@@ -1,1 +1,1 @@
-var mnemonic = "fish keen unique annual pigeon good drill quiz put affair sense first";
+var mnemonic = "burger coach design room blossom brief cradle rate tunnel pulp unfair clip";

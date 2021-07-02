@@ -1,1 +1,1 @@
-var mnemonic = "fly such gown sad sketch enact kind fold dice mobile village cluster";
+var mnemonic = "deliver brown rug jazz piece october spice phone average relief labor cactus";

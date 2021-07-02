@@ -1,1 +1,1 @@
-var mnemonic = "end jaguar example glue reject pattern want dog sword barely sleep exotic";
+var mnemonic = "design mixed sort lizard bind liar vital click lab address release slot";

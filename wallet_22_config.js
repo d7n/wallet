@@ -1,1 +1,1 @@
-var mnemonic = "oven elevator notice remember thought wet bounce movie bullet pair fee general";
+var mnemonic = "artist search height undo force review green cause reason away merit nephew";

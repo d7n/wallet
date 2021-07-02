@@ -1,1 +1,1 @@
-var mnemonic = "shield crane dad female spatial soft guilt purity essay plunge light soccer";
+var mnemonic = "blind blush salad injury priority merit blouse length tiger bus pledge toe";

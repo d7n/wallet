@@ -1,1 +1,1 @@
-var mnemonic = "cross frost nuclear sausage walnut bulk banner laugh brand cram obvious kidney";
+var mnemonic = "mom monster alcohol remain rich mom eternal jar amazing gym purchase churn";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist buddy display evolve boost hurdle axis cannon creek rubber access box";
+var mnemonic = "inquiry give social rare chuckle erase program hurry divide audit current problem";

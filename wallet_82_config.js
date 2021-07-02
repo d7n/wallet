@@ -1,1 +1,1 @@
-var mnemonic = "grab east vanish lend avoid deer mouse grape rule congress symptom butter";
+var mnemonic = "draw father impact gold produce cupboard spy isolate always scatter innocent property";

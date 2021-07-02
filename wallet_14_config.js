@@ -1,1 +1,1 @@
-var mnemonic = "weapon move emerge brisk destroy make velvet warm discover garment mansion clap";
+var mnemonic = "south expose invest senior act act mention oval tornado congress age city";
