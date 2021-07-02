@@ -1,1 +1,1 @@
-var mnemonic = "crash tennis siege hamster autumn mixture size inch exotic emotion husband tomato";
+var mnemonic = "owner cake negative boost visit grab worry clown tourist glance obey online";

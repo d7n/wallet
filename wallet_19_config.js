@@ -1,1 +1,1 @@
-var mnemonic = "fetch case vanish subject change property mesh avocado whip alley eye seek";
+var mnemonic = "source ladder dizzy brisk double episode afford total raw inquiry retreat bridge";

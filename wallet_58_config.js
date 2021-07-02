@@ -1,1 +1,1 @@
-var mnemonic = "multiply budget quote whale prefer asthma action syrup say crash fiber aim";
+var mnemonic = "supply slot grass gasp conduct forest news limit cactus brain obey aim";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard flame erase unlock latin gold accident joke young fantasy fix track";
+var mnemonic = "wet scrap naive plug unknown polar loop tattoo trust naive cave keen";

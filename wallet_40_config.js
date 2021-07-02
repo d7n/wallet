@@ -1,1 +1,1 @@
-var mnemonic = "must agent age suffer prepare seven arrest inside punch twin amount swift";
+var mnemonic = "pipe enough sting debris kite bike vague fall outer action rule force";

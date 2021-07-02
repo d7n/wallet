@@ -1,1 +1,1 @@
-var mnemonic = "near pottery kit buyer rely brave below dry play lend portion fitness";
+var mnemonic = "repair salt business mule special ice easy goose fringe lamp mimic maid";

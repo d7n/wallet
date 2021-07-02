@@ -1,1 +1,1 @@
-var mnemonic = "fluid island lift grass syrup apart rich devote twin eager reopen have";
+var mnemonic = "girl minute nice buyer water fire leg improve radar logic once salon";

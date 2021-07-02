@@ -1,1 +1,1 @@
-var mnemonic = "rough taste scan cupboard viable option dish blade join favorite nerve erupt";
+var mnemonic = "knee slab vacant crisp seek snake reduce matter work scan cherry obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "width leg transfer fall victory cheese lava peace faculty cigar hamster swing";
+var mnemonic = "online defense connect popular canvas smart toss motor own spatial valid crash";

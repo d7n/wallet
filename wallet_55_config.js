@@ -1,1 +1,1 @@
-var mnemonic = "devote maximum benefit ten deal clog stuff jazz fall unaware rug street";
+var mnemonic = "ocean charge impulse mass cradle ensure any glimpse want shock tunnel bacon";

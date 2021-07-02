@@ -1,1 +1,1 @@
-var mnemonic = "rabbit soon mean amused east april use robust job erosion orchard dinner";
+var mnemonic = "month domain shoot undo letter thumb feel estate menu leader club correct";

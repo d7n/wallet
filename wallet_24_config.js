@@ -1,1 +1,1 @@
-var mnemonic = "abstract chronic eyebrow three craft guide want proud royal gospel immune stove";
+var mnemonic = "matrix veteran cricket reduce husband funny shoot secret arena pottery brand staff";

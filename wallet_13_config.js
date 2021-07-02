@@ -1,1 +1,1 @@
-var mnemonic = "ecology daring concert toward caution move turkey acquire cable final leaf since";
+var mnemonic = "much nest beyond loyal wish betray mirror tomorrow distance depend jar owner";

@@ -1,1 +1,1 @@
-var mnemonic = "mango echo super inner mimic layer delay question poverty equip mutual inch";
+var mnemonic = "will gun picture easy install nose silly assist erosion globe town draw";

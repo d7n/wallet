@@ -1,1 +1,1 @@
-var mnemonic = "absent hazard execute trend inner stone solar twist embody fancy motion jar";
+var mnemonic = "iron knock service hundred south rare bring welcome there comic actual test";

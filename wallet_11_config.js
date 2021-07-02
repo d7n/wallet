@@ -1,1 +1,1 @@
-var mnemonic = "margin term winner claim discover area pond misery grocery identify couch dune";
+var mnemonic = "animal finger race decline hub convince fossil advance sign fresh script wear";

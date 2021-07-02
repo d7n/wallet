@@ -1,1 +1,1 @@
-var mnemonic = "rough sight siege aim movie switch fiber crucial shield beach nephew kite";
+var mnemonic = "damage illegal season furnace exhibit man rent fury vivid fashion food virus";

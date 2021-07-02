@@ -1,1 +1,1 @@
-var mnemonic = "work loud lecture girl donkey inform pepper insect repeat warrior cheese isolate";
+var mnemonic = "forward stay sting dose erupt prosper debris aunt team rude toward fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "game narrow brief one parade enact pony road blossom team census bubble";
+var mnemonic = "world endorse travel egg detail transfer custom bulb kiwi weird jacket ancient";

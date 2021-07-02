@@ -1,1 +1,1 @@
-var mnemonic = "north suffer again swamp hub scene milk melody unaware crack record blouse";
+var mnemonic = "case good sniff parent bless hurt foil gravity tragic suspect half loyal";

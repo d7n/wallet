@@ -1,1 +1,1 @@
-var mnemonic = "city build agree piano nuclear rotate weapon pill virtual fluid puzzle lamp";
+var mnemonic = "giant execute kite tragic enough soon carry roast post camera trick remove";

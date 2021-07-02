@@ -1,1 +1,1 @@
-var mnemonic = "object gym tone spread before opera cruel response parade kitten doll cargo";
+var mnemonic = "benefit shrimp coin oven grace humor execute nation vast evidence quarter dice";

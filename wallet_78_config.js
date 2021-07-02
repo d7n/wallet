@@ -1,1 +1,1 @@
-var mnemonic = "track gentle exhaust retire build between coffee stuff bike sign frown hint";
+var mnemonic = "pride wheat harsh caution brick brass auction traffic rival rail middle pluck";

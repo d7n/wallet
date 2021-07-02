@@ -1,1 +1,1 @@
-var mnemonic = "merge seed garment ghost layer curtain cabin long young language anxiety crouch";
+var mnemonic = "lend funny warrior decrease inner inject curve order lava lyrics soft chunk";

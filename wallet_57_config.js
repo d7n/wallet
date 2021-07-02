@@ -1,1 +1,1 @@
-var mnemonic = "category magnet potato attend sword deposit ball cloud fish runway frozen attack";
+var mnemonic = "protect boring portion pistol trick grain extra limit three deer vacant account";

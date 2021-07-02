@@ -1,1 +1,1 @@
-var mnemonic = "taxi feature arrow solution stumble asset source general entry grit inner pledge";
+var mnemonic = "citizen transfer write airport okay credit space save aspect armed long tape";

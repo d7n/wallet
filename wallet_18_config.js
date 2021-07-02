@@ -1,1 +1,1 @@
-var mnemonic = "add struggle mandate human hip loud together north praise enjoy code cute";
+var mnemonic = "boring interest fuel uniform wrong hunt load quick sock wash husband royal";

@@ -1,1 +1,1 @@
-var mnemonic = "human merit hint early drum decade lonely solution brown return borrow satisfy";
+var mnemonic = "lecture absent require eye fiction spread credit festival member aunt broken host";

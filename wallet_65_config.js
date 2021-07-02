@@ -1,1 +1,1 @@
-var mnemonic = "pair panel enforce sure market payment number scare auto ticket total domain";
+var mnemonic = "magic second pride friend address jeans series music smart organ horror story";

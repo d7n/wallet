@@ -1,1 +1,1 @@
-var mnemonic = "rhythm taxi ensure entire occur powder okay follow hill squeeze craft guess";
+var mnemonic = "glide theme impose egg hand camp track mean avocado hurt sick clip";

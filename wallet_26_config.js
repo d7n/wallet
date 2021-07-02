@@ -1,1 +1,1 @@
-var mnemonic = "dwarf gap unknown fossil kingdom connect disagree eight beef team gym inmate";
+var mnemonic = "erode meadow topic enhance range leaf oil peasant soft false august lava";

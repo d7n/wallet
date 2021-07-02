@@ -1,1 +1,1 @@
-var mnemonic = "lunar what drink badge call easy mean goose water battle wonder work";
+var mnemonic = "plug display album disease album spike kind reject laptop excite heart size";

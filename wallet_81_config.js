@@ -1,1 +1,1 @@
-var mnemonic = "razor hobby veteran author drift access alone upper about magic attack juice";
+var mnemonic = "fish hotel solution chat cover amazing income wedding helmet wire slide olive";

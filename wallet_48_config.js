@@ -1,1 +1,1 @@
-var mnemonic = "magnet unable truth tent loyal train wide dinner tackle build industry announce";
+var mnemonic = "rose twin still return jump comic brother again slush width orbit fall";

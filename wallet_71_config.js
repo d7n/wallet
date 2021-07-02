@@ -1,1 +1,1 @@
-var mnemonic = "umbrella can penalty cash side salad lobster own sadness decorate spin rotate";
+var mnemonic = "answer satoshi fever baby muffin hundred miss hurt mammal squirrel outside nation";

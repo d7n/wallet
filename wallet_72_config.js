@@ -1,1 +1,1 @@
-var mnemonic = "flight unknown meat forest foster rhythm demise focus anxiety rice bridge need";
+var mnemonic = "inner clutch glory hurry clarify fade edit table hamster bag produce duty";

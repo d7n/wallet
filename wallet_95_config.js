@@ -1,1 +1,1 @@
-var mnemonic = "easily joy rapid duty iron resist attract artefact taste toast catalog forget";
+var mnemonic = "stone same order approve talent when hidden differ carpet canvas width ignore";

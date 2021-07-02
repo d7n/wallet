@@ -1,1 +1,1 @@
-var mnemonic = "number eternal album crouch useful impulse system cat pull tank there deposit";
+var mnemonic = "canyon vast pride vault invite senior casual member round father perfect please";

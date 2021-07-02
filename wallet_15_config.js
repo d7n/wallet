@@ -1,1 +1,1 @@
-var mnemonic = "scissors raccoon fiber wedding cause damp artwork reject father involve farm puzzle";
+var mnemonic = "celery insect dilemma genuine nature fragile region pear hawk scheme abuse tell";

@@ -1,1 +1,1 @@
-var mnemonic = "possible canoe proud wet aware denial humor narrow group diet inmate help";
+var mnemonic = "topple weekend echo intact trophy blanket glow hybrid wisdom sample antenna mystery";

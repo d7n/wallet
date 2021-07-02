@@ -1,1 +1,1 @@
-var mnemonic = "boost normal claw detect pattern remember adjust confirm couch scan biology swing";
+var mnemonic = "blur nuclear cheese salute flame warrior finish barely peasant alter avoid describe";

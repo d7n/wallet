@@ -1,1 +1,1 @@
-var mnemonic = "good girl high machine maple jar base slight prefer any whale umbrella";
+var mnemonic = "table then demand dice sting crawl danger enact mule similar obscure trend";

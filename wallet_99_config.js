@@ -1,1 +1,1 @@
-var mnemonic = "fashion repeat life obey addict thing captain report blast hub charge rug";
+var mnemonic = "fruit boring also blur copy theory frown draft service toy enact lift";

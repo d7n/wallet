@@ -1,1 +1,1 @@
-var mnemonic = "inflict proud jump gate jacket rain youth robot hip expire glare upper";
+var mnemonic = "skin river coral toss antique bring upper peanut minor replace float nest";

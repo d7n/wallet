@@ -1,1 +1,1 @@
-var mnemonic = "genius throw announce worth rebel sunny address humor foster exist october note";
+var mnemonic = "cram zoo pepper invite hand captain walk rifle rare churn bone license";

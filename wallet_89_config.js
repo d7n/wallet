@@ -1,1 +1,1 @@
-var mnemonic = "culture consider orient shallow shadow desert trade symbol truly south sniff slight";
+var mnemonic = "magic demise fiction raise trumpet rare execute must garage expect capital wear";

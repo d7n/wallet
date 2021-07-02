@@ -1,1 +1,1 @@
-var mnemonic = "solid immune above pigeon brain correct blade embrace episode brisk member find";
+var mnemonic = "purse gasp change move bounce next song sheriff orchard garlic dentist spoon";

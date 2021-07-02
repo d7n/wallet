@@ -1,1 +1,1 @@
-var mnemonic = "mind tired basic brisk danger pulse broccoli economy cloth advance blood farm";
+var mnemonic = "coral fun alone length frozen rose addict rare shop water exhibit black";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch rude spin truth carry father soft result cute chronic wire bar";
+var mnemonic = "produce cage mutual abstract under limit check tell fashion oven valley display";

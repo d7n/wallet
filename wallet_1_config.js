@@ -1,1 +1,1 @@
-var mnemonic = "apart inner donor public prosper act wet rival dad faith history host";
+var mnemonic = "gorilla matrix race boy reject siren caution always negative guide swarm saddle";

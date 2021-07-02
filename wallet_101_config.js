@@ -1,1 +1,1 @@
-var mnemonic = "swarm ability return author gap boil intact guard universe silk flash movie";
+var mnemonic = "verify clown core rhythm wash diary coral long term brand olive two";

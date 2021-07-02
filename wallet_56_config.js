@@ -1,1 +1,1 @@
-var mnemonic = "volcano income random intact child coach length census worth series element major";
+var mnemonic = "audit motor hub doll deputy nature deposit perfect educate point quick select";

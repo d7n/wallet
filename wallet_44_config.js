@@ -1,1 +1,1 @@
-var mnemonic = "grief tomorrow alter viable illegal special spell diet crack month walnut between";
+var mnemonic = "session wheat mandate movie task miracle matter screen uncle tomorrow soup country";

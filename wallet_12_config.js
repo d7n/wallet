@@ -1,1 +1,1 @@
-var mnemonic = "vague tilt summer shoe exclude bid shove input enforce broom envelope civil";
+var mnemonic = "educate unlock bulk wrist welcome replace tank nation spawn follow slice south";

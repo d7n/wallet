@@ -1,1 +1,1 @@
-var mnemonic = "noodle second dry cause same garage ten beach bonus south digital people";
+var mnemonic = "ranch afford point treat session enlist refuse seven erosion hammer page left";

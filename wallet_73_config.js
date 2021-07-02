@@ -1,1 +1,1 @@
-var mnemonic = "view layer grunt coast remain suggest sleep wheat clock sudden risk resemble";
+var mnemonic = "shy crisp cycle cousin print crack law swift fog stable idea chest";

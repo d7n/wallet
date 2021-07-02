@@ -1,1 +1,1 @@
-var mnemonic = "oppose light pizza quit true opinion brass stand mistake stadium similar ladder";
+var mnemonic = "paper harsh tree gasp demise enter coconut drift exclude citizen material gaze";

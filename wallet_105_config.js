@@ -1,1 +1,1 @@
-var mnemonic = "slide entire explain trip clutch discover account next pink guard veteran insane";
+var mnemonic = "element protect shiver again drip keen void more unlock sick discover wide";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato transfer allow report maze wheel depend caught lumber pact valve squeeze";
+var mnemonic = "hope candy above divert remind monster stairs trophy tomorrow display exhibit pudding";

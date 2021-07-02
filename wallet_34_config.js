@@ -1,1 +1,1 @@
-var mnemonic = "subject trophy burden hello stand say shoot faint crystal chronic size dutch";
+var mnemonic = "intact hundred ice team runway power much used damp urge inmate hard";

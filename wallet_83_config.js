@@ -1,1 +1,1 @@
-var mnemonic = "blouse stuff ranch festival cycle various pull left moral shine tragic brain";
+var mnemonic = "umbrella boat poet equip garment broom behave truly sword divide target west";

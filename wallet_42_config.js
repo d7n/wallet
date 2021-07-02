@@ -1,1 +1,1 @@
-var mnemonic = "pistol play horn seminar train bargain move diesel innocent pudding peasant mixed";
+var mnemonic = "north hungry visit viable vocal renew impose club cross absent upper spoon";

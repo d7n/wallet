@@ -1,1 +1,1 @@
-var mnemonic = "food actress cushion stadium phone hamster obtain have craft decade property plastic";
+var mnemonic = "bronze analyst capital album film artefact cost practice master grab fatigue coast";

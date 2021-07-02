@@ -1,1 +1,1 @@
-var mnemonic = "immune tide invest coin treat simple yard special work slogan dust boy";
+var mnemonic = "rotate mechanic dose cause proud crack dice humble opera bid vault beauty";

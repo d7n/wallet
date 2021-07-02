@@ -1,1 +1,1 @@
-var mnemonic = "captain jaguar language hold sustain person proof gauge card decide toddler blossom";
+var mnemonic = "vocal good decrease solid affair chief midnight muffin age height wealth mystery";

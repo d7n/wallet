@@ -1,1 +1,1 @@
-var mnemonic = "hammer alley base famous thank mom park inmate struggle bind mutual possible";
+var mnemonic = "imitate invite pave exercise open battle surface lunar draw strong excite trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "labor wish add apple hire envelope remain endorse miss sport hint lock";
+var mnemonic = "scout evil blue step bitter cook brush error carry cream island derive";

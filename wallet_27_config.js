@@ -1,1 +1,1 @@
-var mnemonic = "hollow leg bless monster else silly february oxygen icon slim owner tank";
+var mnemonic = "employ cousin history scorpion next enrich spread earth vault wrestle celery minimum";

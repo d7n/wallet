@@ -1,1 +1,1 @@
-var mnemonic = "obvious spare mansion hundred feature armed wage toast giraffe input reject comic";
+var mnemonic = "drama robust pass divert ecology possible there blouse empty barrel sister forest";

@@ -1,1 +1,1 @@
-var mnemonic = "all reject ten immense left opinion palm ensure vendor pipe ozone bread";
+var mnemonic = "throw current mom matrix ability couch office near sentence dumb napkin diagram";

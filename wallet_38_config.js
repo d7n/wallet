@@ -1,1 +1,1 @@
-var mnemonic = "fire tank camp busy prison buzz spider shallow energy hip melt sad";
+var mnemonic = "hotel retreat deer category evoke mutual good frame civil illegal appear addict";

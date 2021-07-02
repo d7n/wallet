@@ -1,1 +1,1 @@
-var mnemonic = "play abandon oxygen sniff knife evoke mixed cupboard hurt entry arch future";
+var mnemonic = "wear tube brand size come upgrade witness fold tattoo crane ostrich artefact";

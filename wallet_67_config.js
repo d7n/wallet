@@ -1,1 +1,1 @@
-var mnemonic = "trouble draw vivid direct arena select office argue property clock citizen moment";
+var mnemonic = "estate minimum verify purse swim pattern practice neutral business become tired awful";

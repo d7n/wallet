@@ -1,1 +1,1 @@
-var mnemonic = "outside rubber tag giggle breeze void bronze city opinion occur segment hobby";
+var mnemonic = "black always permit moon soft devote vendor organ exile level habit stove";

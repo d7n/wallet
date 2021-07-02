@@ -1,1 +1,1 @@
-var mnemonic = "barely cushion announce regret awkward dynamic gravity toy steak ready story cargo";
+var mnemonic = "ability armed cruise route truck stadium sunny derive rude outside equip camera";

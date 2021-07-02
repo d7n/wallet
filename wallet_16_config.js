@@ -1,1 +1,1 @@
-var mnemonic = "smart help evolve find orient kidney bulk awkward already used immune donor";
+var mnemonic = "busy normal city guilt behave dance orphan cliff whisper almost twelve slush";

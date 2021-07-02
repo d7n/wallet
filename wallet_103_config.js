@@ -1,1 +1,1 @@
-var mnemonic = "notice dirt quarter number inspire guard ready vivid mass situate divert boss";
+var mnemonic = "mixture ecology evoke interest cool debris burden turn blast blast question middle";

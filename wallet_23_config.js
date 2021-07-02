@@ -1,1 +1,1 @@
-var mnemonic = "force say brisk fringe honey blind citizen fantasy glass unit sock rebuild";
+var mnemonic = "click result method joy will toast develop blind envelope gift zone spawn";

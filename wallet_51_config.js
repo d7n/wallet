@@ -1,1 +1,1 @@
-var mnemonic = "glory bracket rug column human balance sound gift volcano dance nest stem";
+var mnemonic = "client strategy blossom uniform muffin charge rabbit visual midnight satisfy address learn";

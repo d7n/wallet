@@ -1,1 +1,1 @@
-var mnemonic = "sweet notice pact door flash office smoke crash vivid ribbon rapid cheese";
+var mnemonic = "over happy claim mimic ridge heavy borrow find cancel useless brother hood";

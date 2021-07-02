@@ -1,1 +1,1 @@
-var mnemonic = "salon coil leave child prepare degree ill slide cash task any valve";
+var mnemonic = "room before hill dash spin drink rebuild thought vault bacon double barely";

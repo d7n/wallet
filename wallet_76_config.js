@@ -1,1 +1,1 @@
-var mnemonic = "clap toy rug race leisure assault crisp strike monitor venture glad assault";
+var mnemonic = "second board toast skate process shadow near time diary sense tube uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "ready flip already public absent list keep survey violin around tragic grit";
+var mnemonic = "enrich nose seminar fade dune uncle spy hole item ship flash fluid";

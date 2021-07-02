@@ -1,1 +1,1 @@
-var mnemonic = "giant route cram yard escape frozen enrich coral two picnic recycle expect";
+var mnemonic = "point tuna check sad inject snap advance adapt elder clump consider brown";

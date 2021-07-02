@@ -1,1 +1,1 @@
-var mnemonic = "smooth buffalo inquiry museum twelve celery olympic false web apart invite top";
+var mnemonic = "maid rice floor involve december noise ticket laugh document screen inmate judge";

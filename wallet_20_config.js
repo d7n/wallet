@@ -1,1 +1,1 @@
-var mnemonic = "napkin ethics swift job urge churn grape moon amused satoshi wedding first";
+var mnemonic = "tissue pistol mix island erupt throw turkey obtain satoshi party satisfy orchard";
