@@ -1,1 +1,1 @@
-var mnemonic = "nation eagle next coast dial canal pilot web idea wink citizen hospital";
+var mnemonic = "immune trend window wedding bicycle icon captain fragile tilt patrol affair brand";

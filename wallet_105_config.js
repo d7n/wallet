@@ -1,1 +1,1 @@
-var mnemonic = "raise cabbage outer alone action more enlist obey urge voyage issue glove";
+var mnemonic = "correct domain execute size require shallow grocery later accuse box find drill";

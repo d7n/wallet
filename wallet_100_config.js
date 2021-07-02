@@ -1,1 +1,1 @@
-var mnemonic = "endorse shed public section quiz save sense choice stone road spoon first";
+var mnemonic = "stuff exhibit vital depth nurse syrup rather fringe profit scrap decade update";

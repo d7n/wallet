@@ -1,1 +1,1 @@
-var mnemonic = "nice first asset try stage arctic debris broom receive web concert brisk";
+var mnemonic = "early sketch athlete model fury express produce blind sock suggest quantum lazy";

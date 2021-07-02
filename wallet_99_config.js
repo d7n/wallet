@@ -1,1 +1,1 @@
-var mnemonic = "caution nut elite park glad offer exhaust merry leader capital inquiry junior";
+var mnemonic = "rigid glad make honey kick future fall brief nature grow mimic follow";

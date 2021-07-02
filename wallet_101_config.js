@@ -1,1 +1,1 @@
-var mnemonic = "pact history diet chat arch defense elbow teach mask swear soul practice";
+var mnemonic = "gate term private hammer clerk bacon burden original casino live adjust diamond";

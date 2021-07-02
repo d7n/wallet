@@ -1,1 +1,1 @@
-var mnemonic = "bind hen soon sudden grocery web essence play unveil elevator until army";
+var mnemonic = "bitter yard attack lab steel sugar veteran donkey shine fashion help amount";

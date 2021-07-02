@@ -1,1 +1,1 @@
-var mnemonic = "symbol vehicle such train believe afford produce top rifle slice fork cradle";
+var mnemonic = "wrap predict garage file true canvas plunge genre ghost script eternal rate";

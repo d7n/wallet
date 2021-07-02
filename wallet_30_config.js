@@ -1,1 +1,1 @@
-var mnemonic = "globe farm delay dumb syrup scatter bracket point later grit today okay";
+var mnemonic = "blame sister noise clerk stuff off gate stick enact shield bulb damp";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire blossom avocado super comfort little pause lamp bag embrace stomach mad";
+var mnemonic = "butter start unaware sword since inch scale pitch option hat kiss photo";

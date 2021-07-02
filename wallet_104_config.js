@@ -1,1 +1,1 @@
-var mnemonic = "bless cannon simple habit seminar harsh crunch isolate play grocery parrot hungry";
+var mnemonic = "sight physical rabbit sadness chest guilt call empower fuel syrup clown neck";

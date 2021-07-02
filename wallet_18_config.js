@@ -1,1 +1,1 @@
-var mnemonic = "blanket police bleak torch beyond blush whip roof heavy cup mom direct";
+var mnemonic = "bus evoke ketchup armor screen coin adult title divorce actual fan tone";

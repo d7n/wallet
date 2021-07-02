@@ -1,1 +1,1 @@
-var mnemonic = "citizen iron police adapt bullet initial rice aspect else foot wage wing";
+var mnemonic = "list hybrid grain drum taxi night pear end song ceiling language list";

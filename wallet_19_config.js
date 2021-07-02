@@ -1,1 +1,1 @@
-var mnemonic = "concert satisfy sword cube false radio slim rocket area meadow poem wife";
+var mnemonic = "render invest loud deny again another glow benefit ozone melt diary hand";

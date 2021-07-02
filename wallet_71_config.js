@@ -1,1 +1,1 @@
-var mnemonic = "battle fiber ring hip antenna dish short old crew cement develop input";
+var mnemonic = "actual tag embody tell modify endless mistake settle zebra royal merge believe";

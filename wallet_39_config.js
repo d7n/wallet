@@ -1,1 +1,1 @@
-var mnemonic = "palace promote census over exotic build display asset miracle regular inherit cruel";
+var mnemonic = "dinner awful crystal boil stage flock drop blast essay base simple deputy";

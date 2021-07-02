@@ -1,1 +1,1 @@
-var mnemonic = "coffee person speak earn parent amused shoot burger produce razor dose remain";
+var mnemonic = "peasant beach clutch option reunion arrest cube much have kid farm melody";

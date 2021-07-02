@@ -1,1 +1,1 @@
-var mnemonic = "expire artwork route frog horror swap club test unique film bench chair";
+var mnemonic = "theory ketchup rapid cost field squirrel swamp element version cattle build jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "hero brave seven artwork retire anxiety delay comic curtain hello wing label";
+var mnemonic = "corn height there early trust scout soul music recall empty expire current";

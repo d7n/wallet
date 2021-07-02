@@ -1,1 +1,1 @@
-var mnemonic = "orbit flat rural process divert fabric sibling distance pigeon gold rude sunset";
+var mnemonic = "clown drift fire prefer choice leg monkey cannon physical issue arrange gather";

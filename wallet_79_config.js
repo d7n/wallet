@@ -1,1 +1,1 @@
-var mnemonic = "addict fitness horror media type ahead sentence village brick illegal panda hazard";
+var mnemonic = "ribbon okay seat valve brisk upgrade rifle arrest happy trap sure sudden";

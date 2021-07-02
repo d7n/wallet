@@ -1,1 +1,1 @@
-var mnemonic = "voice leader detect dove battle piece bird save figure piece increase damp";
+var mnemonic = "chief loud custom divide uphold balcony symptom melt hard explain lonely above";

@@ -1,1 +1,1 @@
-var mnemonic = "wear glance child armor surge december wood aerobic bottom pet corn barely";
+var mnemonic = "dentist vehicle head knee health skirt warm crawl bus denial lounge sunny";

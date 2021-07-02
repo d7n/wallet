@@ -1,1 +1,1 @@
-var mnemonic = "link depend run danger spell any stomach turkey detect paddle canoe earn";
+var mnemonic = "pony item symbol blush keep photo sail embark buyer survey option lock";

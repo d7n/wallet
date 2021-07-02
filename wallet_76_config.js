@@ -1,1 +1,1 @@
-var mnemonic = "depth grow voyage build electric enlist small must ensure picnic evolve father";
+var mnemonic = "move myself dentist virtual goose electric gain rice attack stick lemon input";

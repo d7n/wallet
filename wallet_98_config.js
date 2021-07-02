@@ -1,1 +1,1 @@
-var mnemonic = "model about funny tray benefit wide success almost vault test bring raw";
+var mnemonic = "force unit fish leaf number armor merge modify erase catalog menu evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "letter stable chief fossil hurry suit element jeans bracket nephew canvas loyal";
+var mnemonic = "clump flee margin canoe erase nation try genius harbor curious depend join";

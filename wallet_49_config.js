@@ -1,1 +1,1 @@
-var mnemonic = "crater donor twenty genuine shiver invite slice ridge brief bleak remember artist";
+var mnemonic = "spatial opera fun bless badge acoustic satisfy post exile stay unit copy";

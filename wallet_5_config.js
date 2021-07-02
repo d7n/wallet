@@ -1,1 +1,1 @@
-var mnemonic = "doctor art fly initial remind next subway laugh like want cat blood";
+var mnemonic = "oven good base expect oppose cargo piece radar lemon young bullet plug";

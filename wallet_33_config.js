@@ -1,1 +1,1 @@
-var mnemonic = "shock chat slice wood apart clutch guess battle charge brain grace rare";
+var mnemonic = "cube trophy cycle army hair over candy notice sheriff try spoon wasp";

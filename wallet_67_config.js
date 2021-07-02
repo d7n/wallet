@@ -1,1 +1,1 @@
-var mnemonic = "mixture narrow monster aunt feed appear album goddess weather fuel voice hurt";
+var mnemonic = "cheese ball blush load tobacco tank confirm beef prepare shaft hidden side";

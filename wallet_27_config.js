@@ -1,1 +1,1 @@
-var mnemonic = "screen panther lonely cruel survey survey soup canvas milk cable wise envelope";
+var mnemonic = "immune tone obtain together minute dinosaur captain discover neutral present angle indoor";

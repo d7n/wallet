@@ -1,1 +1,1 @@
-var mnemonic = "only gossip amateur symptom win enforce word grape skate domain length staff";
+var mnemonic = "agree merge game raven almost bottom thunder toast kid guess cousin helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard universe cable cluster mountain dilemma diet cabbage lawn farm foster often";
+var mnemonic = "uniform else pole gate evidence biology invite uniform copy crew order because";

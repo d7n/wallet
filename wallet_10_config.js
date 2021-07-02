@@ -1,1 +1,1 @@
-var mnemonic = "subway body menu mimic equip master sea message innocent wrong merry off";
+var mnemonic = "already ice believe mad oppose angle jazz foster tank ramp you despair";

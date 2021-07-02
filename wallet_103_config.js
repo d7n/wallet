@@ -1,1 +1,1 @@
-var mnemonic = "execute admit direct type twelve response snap damage snack neck trash income";
+var mnemonic = "little wait truck sponsor chicken wink shop address business transfer regret soft";

@@ -1,1 +1,1 @@
-var mnemonic = "hello drip erosion visa solar upset unfold core lonely bike account fly";
+var mnemonic = "detect volcano start crash rigid segment timber turkey auto real reflect boss";

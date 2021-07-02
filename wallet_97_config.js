@@ -1,1 +1,1 @@
-var mnemonic = "shoe rack search pulse angry stone drill hidden road lab scheme lion";
+var mnemonic = "witness cook finger warm erode music old crack swing ask card window";

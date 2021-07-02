@@ -1,1 +1,1 @@
-var mnemonic = "diet front assist goat state magic angry picture shoot welcome mixed desk";
+var mnemonic = "gold blast pigeon almost primary shuffle april raven oval daring tent sign";

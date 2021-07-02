@@ -1,1 +1,1 @@
-var mnemonic = "blush squeeze prize derive mountain express hundred system slow paper pause coffee";
+var mnemonic = "sand leopard upon typical top session library umbrella catalog nasty mutual buzz";

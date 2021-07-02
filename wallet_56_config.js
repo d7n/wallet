@@ -1,1 +1,1 @@
-var mnemonic = "creek steak chuckle puzzle pitch flip theory alien indoor april device embrace";
+var mnemonic = "parent remove away above decorate crew envelope equip bracket giant unusual school";

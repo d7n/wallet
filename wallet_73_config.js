@@ -1,1 +1,1 @@
-var mnemonic = "another feature amused south sword fox wrap suggest jeans either fever focus";
+var mnemonic = "alpha smooth solution fossil advice number figure weather swap fever race raise";

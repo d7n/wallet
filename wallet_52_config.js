@@ -1,1 +1,1 @@
-var mnemonic = "fuel minimum nurse sea blouse decorate borrow normal avocado armed coil own";
+var mnemonic = "motion solid gesture milk slot lake agree pelican stand impact clock vague";

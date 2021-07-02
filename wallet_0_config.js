@@ -1,1 +1,1 @@
-var mnemonic = "crime aspect require measure illness climb pepper fringe supply rather leisure friend";
+var mnemonic = "live blade robot coach tissue badge parent young birth please certain cabbage";

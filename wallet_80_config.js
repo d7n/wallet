@@ -1,1 +1,1 @@
-var mnemonic = "slim mass fitness diesel airport anxiety harsh major saddle humor minor bench";
+var mnemonic = "quarter move lumber ritual car begin predict sentence slow wire sadness very";

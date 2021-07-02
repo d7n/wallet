@@ -1,1 +1,1 @@
-var mnemonic = "false over swallow elephant century anger utility era cat loan gown seek";
+var mnemonic = "fresh cube divert play cry tackle legal approve hidden leisure original water";

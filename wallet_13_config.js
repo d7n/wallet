@@ -1,1 +1,1 @@
-var mnemonic = "work evil among memory sleep text valve fragile silly lobster wish blanket";
+var mnemonic = "letter subject egg recycle pipe congress wrestle crunch creek globe check suggest";

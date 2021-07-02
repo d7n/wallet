@@ -1,1 +1,1 @@
-var mnemonic = "faint avoid close breeze inmate rain harsh crack rifle animal match blanket";
+var mnemonic = "shuffle original burst interest steak elephant pill response subway couple focus knife";

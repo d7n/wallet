@@ -1,1 +1,1 @@
-var mnemonic = "antique sample ball sail vocal shrug audit phrase wagon play huge priority";
+var mnemonic = "recipe pulp behind vacant caught artist december bar novel dose receive draw";

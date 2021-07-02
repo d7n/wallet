@@ -1,1 +1,1 @@
-var mnemonic = "wrap dawn surge suggest join shrimp dream horse camp few assist inspire";
+var mnemonic = "rough update slot airport swap coyote math unaware common stumble zone bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "wide idle across ride peace among behind monitor black deliver gravity primary";
+var mnemonic = "lemon carry cry general symbol enlist cube tourist above antique job achieve";

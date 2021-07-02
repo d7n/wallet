@@ -1,1 +1,1 @@
-var mnemonic = "vintage glare lecture job short burden audit athlete manage silver woman canal";
+var mnemonic = "visa frog roof orbit own end park index ribbon weird sausage language";

@@ -1,1 +1,1 @@
-var mnemonic = "escape fortune man anxiety ketchup various document rapid expire person gadget sand";
+var mnemonic = "winner intact fetch law devote prevent gossip travel mistake priority strategy alert";

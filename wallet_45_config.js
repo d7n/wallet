@@ -1,1 +1,1 @@
-var mnemonic = "derive vacuum neck opera legal cruise bottom common bleak pepper hat song";
+var mnemonic = "pepper card provide road sibling shrug above boring dilemma genius stadium cool";

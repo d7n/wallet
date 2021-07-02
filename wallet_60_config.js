@@ -1,1 +1,1 @@
-var mnemonic = "action horse flavor hedgehog churn miss hen tackle ignore syrup sentence mushroom";
+var mnemonic = "supreme raw success gadget erupt punch father long hood present pottery want";

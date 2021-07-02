@@ -1,1 +1,1 @@
-var mnemonic = "connect pilot noise sort fantasy argue wash post hope steel pond snap";
+var mnemonic = "meat action swamp hard this member life rug category roast gun learn";

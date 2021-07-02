@@ -1,1 +1,1 @@
-var mnemonic = "coin exact quote victory puppy crystal avocado pet marriage churn innocent love";
+var mnemonic = "hybrid view soup marine run course walnut dream change moment raw heart";

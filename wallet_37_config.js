@@ -1,1 +1,1 @@
-var mnemonic = "inch design jacket impose tennis marble allow park teach canvas sound joke";
+var mnemonic = "young credit weird aim tray curious quality globe injury guard dizzy spatial";

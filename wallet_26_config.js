@@ -1,1 +1,1 @@
-var mnemonic = "mix recipe motion minute illness ugly kick above subway victory wedding grant";
+var mnemonic = "sphere civil siege truck boost salt despair list glow game tackle conduct";

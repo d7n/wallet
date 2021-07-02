@@ -1,1 +1,1 @@
-var mnemonic = "scare before glad save oven seminar gas enact pair invest latin armed";
+var mnemonic = "tent web faint visual distance wild run toss burger drive then extra";

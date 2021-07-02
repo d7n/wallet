@@ -1,1 +1,1 @@
-var mnemonic = "film galaxy capable combine damage clap boost cereal text skin rich bacon";
+var mnemonic = "dolphin gap cat bind bullet praise snap lift express track quantum equal";

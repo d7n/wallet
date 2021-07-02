@@ -1,1 +1,1 @@
-var mnemonic = "anxiety green fatigue shiver strike link oak vast enrich raw steel arrange";
+var mnemonic = "float shadow assault pigeon fox desk blanket modify oxygen stomach coyote good";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid usage area cart comfort notable ethics pledge retreat purity flag alley";
+var mnemonic = "parrot predict will casino silly dragon staff reason dolphin broken elegant spell";

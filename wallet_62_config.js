@@ -1,1 +1,1 @@
-var mnemonic = "advice toss gym present earth bullet discover crew silent tomato again attend";
+var mnemonic = "cheese spread island flower forest diary bracket enlist call census few joke";

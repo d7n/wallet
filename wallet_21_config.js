@@ -1,1 +1,1 @@
-var mnemonic = "unfair dose mean answer utility neglect uncover swing panic symbol large scissors";
+var mnemonic = "snap thrive knife final book globe please treat trick radar youth tube";

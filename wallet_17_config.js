@@ -1,1 +1,1 @@
-var mnemonic = "wall mean hub oval rally spatial pen pact ribbon recycle gasp gift";
+var mnemonic = "alone convince leg spin pen major magnet trip notable spike uphold text";

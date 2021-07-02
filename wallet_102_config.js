@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow impose smart mix sister catalog awkward december tent slow close maid";
+var mnemonic = "rely fitness lab rotate sketch hockey axis attract exist milk derive juice";

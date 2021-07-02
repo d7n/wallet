@@ -1,1 +1,1 @@
-var mnemonic = "exchange tiny size slogan raccoon valid call tortoise tunnel boil scissors hurt";
+var mnemonic = "absorb torch hammer ribbon try vacant soft chuckle acquire talent demise strike";

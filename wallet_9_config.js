@@ -1,1 +1,1 @@
-var mnemonic = "example trend isolate embrace decrease repair dream process reject involve photo settle";
+var mnemonic = "castle chronic organ broccoli act lizard boil leisure crater birth discover crack";

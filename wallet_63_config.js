@@ -1,1 +1,1 @@
-var mnemonic = "cotton amused antenna very upper razor belt unfold diet clinic weapon ridge";
+var mnemonic = "gentle again addict squirrel skull hard wasp critic cook once salad warm";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo cabin shell burger ethics inflict employ area evidence scatter clog believe";
+var mnemonic = "ocean put skin over champion tired surprise play permit argue iron notice";

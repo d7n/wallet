@@ -1,1 +1,1 @@
-var mnemonic = "lunar duck bomb volume orange acid economy account receive reason funny scene";
+var mnemonic = "aspect seek people demand hazard obscure kind skate frozen oyster honey refuse";

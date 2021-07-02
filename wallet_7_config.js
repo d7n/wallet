@@ -1,1 +1,1 @@
-var mnemonic = "churn upgrade frost park summer note mule joke capital false toast radar";
+var mnemonic = "envelope vocal fantasy match lecture twin tuna salt tiger shine doll program";

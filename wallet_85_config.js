@@ -1,1 +1,1 @@
-var mnemonic = "deny fade rent fall pistol canyon echo pony lift right save swear";
+var mnemonic = "oven coyote cigar post zebra tube note boat track field burst brother";

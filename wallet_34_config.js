@@ -1,1 +1,1 @@
-var mnemonic = "minor tube worry allow olympic fee diamond tip bus spice come learn";
+var mnemonic = "brain fragile dynamic below clump next million outdoor install identify plunge name";

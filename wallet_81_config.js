@@ -1,1 +1,1 @@
-var mnemonic = "hungry pen such fringe urge verb gallery lunar wagon fine brief vacuum";
+var mnemonic = "receive broom sentence away east luggage oval long stone broccoli aim again";

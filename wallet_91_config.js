@@ -1,1 +1,1 @@
-var mnemonic = "slender onion clog thing anger fork buddy stock gold weekend act need";
+var mnemonic = "antenna laptop midnight into series frog wife write item item penalty cinnamon";

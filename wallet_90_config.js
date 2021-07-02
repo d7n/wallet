@@ -1,1 +1,1 @@
-var mnemonic = "load success defense region true popular nephew census cushion nephew surprise abandon";
+var mnemonic = "lizard brick employ author box demand filter mule critic draw depart genius";

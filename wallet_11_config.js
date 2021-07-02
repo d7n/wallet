@@ -1,1 +1,1 @@
-var mnemonic = "park catch relief setup prison adjust eyebrow room only humble entry august";
+var mnemonic = "urge weapon mesh float puzzle friend anger memory stone scheme cook color";

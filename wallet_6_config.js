@@ -1,1 +1,1 @@
-var mnemonic = "festival raise wish thunder sister security couple tortoise blur grocery tornado action";
+var mnemonic = "problem aware topple tiny close fossil cradle pelican skirt supreme toward tennis";

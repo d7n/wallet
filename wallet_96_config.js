@@ -1,1 +1,1 @@
-var mnemonic = "neck diesel awesome limb pumpkin churn egg apology gap give vague couple";
+var mnemonic = "advance spirit summer staff all occur symptom position imitate shield case split";

@@ -1,1 +1,1 @@
-var mnemonic = "walk left reason dish notable calm range pet swamp tube picnic price";
+var mnemonic = "ivory away capable thank forum humble wolf zoo few style melody goddess";

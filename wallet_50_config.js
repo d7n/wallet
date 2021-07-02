@@ -1,1 +1,1 @@
-var mnemonic = "wet sand olive vintage casual couch stem pigeon enforce canyon govern body";
+var mnemonic = "spider pilot cloth spray arch wall actress heart receive leg unhappy hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "famous depth veteran picnic jump inject version nothing viable defense orchard logic";
+var mnemonic = "design rookie wrestle rural victory tower boil broccoli ketchup useless nominee swift";

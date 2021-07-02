@@ -1,1 +1,1 @@
-var mnemonic = "insane blind urge receive shield relief sting napkin skin alcohol middle code";
+var mnemonic = "either twice trade cluster million mom blur suspect young please you alien";

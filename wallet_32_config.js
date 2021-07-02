@@ -1,1 +1,1 @@
-var mnemonic = "frost ceiling goat wheat anxiety wine when episode second drama lake daring";
+var mnemonic = "black evoke push grid warrior fragile share decide romance dwarf view acoustic";

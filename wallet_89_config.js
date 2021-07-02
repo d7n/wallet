@@ -1,1 +1,1 @@
-var mnemonic = "rally voice knife portion soft pink deputy exhibit focus carry cloth observe";
+var mnemonic = "ability laugh juice hedgehog foil strike weekend stock resemble voyage view object";

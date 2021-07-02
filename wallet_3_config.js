@@ -1,1 +1,1 @@
-var mnemonic = "normal mammal eternal chat illness slice elder certain boy two below fatigue";
+var mnemonic = "jealous toss only idle pluck quick web mirror soon bird opera scene";

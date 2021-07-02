@@ -1,1 +1,1 @@
-var mnemonic = "differ bamboo critic symbol tiger armed almost off cotton rotate knee real";
+var mnemonic = "mechanic silver undo arrow vast dentist van face move fee kiwi document";

@@ -1,1 +1,1 @@
-var mnemonic = "tag foil remember dilemma dawn loyal rug motor bright stock pistol banana";
+var mnemonic = "elbow clerk observe output need fever upset crawl marine mountain gym aspect";

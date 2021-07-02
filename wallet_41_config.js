@@ -1,1 +1,1 @@
-var mnemonic = "right frost similar potato matter poverty remind wrestle popular parrot blue piano";
+var mnemonic = "trumpet alpha wrestle fresh tank permit measure repeat number glimpse item swarm";

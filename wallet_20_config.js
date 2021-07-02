@@ -1,1 +1,1 @@
-var mnemonic = "shadow level security submit expose split crack front envelope rare adult lake";
+var mnemonic = "soldier theory omit milk merge then inflict great risk then vacant garden";

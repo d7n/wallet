@@ -1,1 +1,1 @@
-var mnemonic = "coffee zone force search kidney grab neck arm decide lunar baby come";
+var mnemonic = "net motion swap stay life uncle volume crumble sign loan monitor evoke";

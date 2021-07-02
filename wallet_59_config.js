@@ -1,1 +1,1 @@
-var mnemonic = "desk word volcano stairs repeat dismiss neglect object law grid toilet suspect";
+var mnemonic = "repair into direct vendor chair theory abstract uniform slogan receive occur online";
