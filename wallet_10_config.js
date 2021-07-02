@@ -1,1 +1,1 @@
-var mnemonic = "giant execute kite tragic enough soon carry roast post camera trick remove";
+var mnemonic = "over warfare move payment taste fatal doll border talent credit inherit rapid";

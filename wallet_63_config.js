@@ -1,1 +1,1 @@
-var mnemonic = "damage illegal season furnace exhibit man rent fury vivid fashion food virus";
+var mnemonic = "tennis clarify embrace list spread auto furnace plug push exit dish pride";

@@ -1,1 +1,1 @@
-var mnemonic = "drama robust pass divert ecology possible there blouse empty barrel sister forest";
+var mnemonic = "force maid hobby army wrong owner frost depart agent theory letter make";

@@ -1,1 +1,1 @@
-var mnemonic = "skin river coral toss antique bring upper peanut minor replace float nest";
+var mnemonic = "surge expose cannon swear model surface plug cram voice outside tag enough";

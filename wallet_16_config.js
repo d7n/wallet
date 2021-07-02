@@ -1,1 +1,1 @@
-var mnemonic = "busy normal city guilt behave dance orphan cliff whisper almost twelve slush";
+var mnemonic = "recipe ensure already gadget close turn please absent puzzle couple melt neck";

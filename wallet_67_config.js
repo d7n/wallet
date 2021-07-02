@@ -1,1 +1,1 @@
-var mnemonic = "estate minimum verify purse swim pattern practice neutral business become tired awful";
+var mnemonic = "barrel cliff winter small elite educate wish blade unit left palace naive";

@@ -1,1 +1,1 @@
-var mnemonic = "celery insect dilemma genuine nature fragile region pear hawk scheme abuse tell";
+var mnemonic = "chaos ice stool prize young spring mass appear just acoustic also action";

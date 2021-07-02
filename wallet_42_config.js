@@ -1,1 +1,1 @@
-var mnemonic = "north hungry visit viable vocal renew impose club cross absent upper spoon";
+var mnemonic = "inmate discover arena bunker ozone satisfy yellow loan huge survey afford become";

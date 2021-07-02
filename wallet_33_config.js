@@ -1,1 +1,1 @@
-var mnemonic = "marble breeze amateur proud cruise echo stamp guilt seed panel tube afford";
+var mnemonic = "length thrive project student stock tilt inflict buddy upset rocket lumber humble";

@@ -1,1 +1,1 @@
-var mnemonic = "ability armed cruise route truck stadium sunny derive rude outside equip camera";
+var mnemonic = "steel wheel forget horse joke story round prosper tape voice recycle tunnel";

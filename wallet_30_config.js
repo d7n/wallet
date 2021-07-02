@@ -1,1 +1,1 @@
-var mnemonic = "between brain glow cube vendor lunar donate black foster utility grow disease";
+var mnemonic = "more orient favorite daughter twin leopard sad erosion artwork run profit live";

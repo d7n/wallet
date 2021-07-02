@@ -1,1 +1,1 @@
-var mnemonic = "tumble goat budget deposit wing brick cherry ostrich fish obvious object dash";
+var mnemonic = "unveil lumber figure place patch hair pistol miracle trigger lens cup day";

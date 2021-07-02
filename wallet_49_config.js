@@ -1,1 +1,1 @@
-var mnemonic = "october neither can abstract twelve side focus rookie bless dignity fame since";
+var mnemonic = "ocean surround long east resist adjust actor acoustic myself behave luggage finish";

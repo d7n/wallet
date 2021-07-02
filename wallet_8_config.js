@@ -1,1 +1,1 @@
-var mnemonic = "glide theme impose egg hand camp track mean avocado hurt sick clip";
+var mnemonic = "ship chest wing bag armed talent episode skull among fly tunnel snack";

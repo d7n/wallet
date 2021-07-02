@@ -1,1 +1,1 @@
-var mnemonic = "plug display album disease album spike kind reject laptop excite heart size";
+var mnemonic = "twelve bottom club child lizard across moment design fan van ladder lonely";

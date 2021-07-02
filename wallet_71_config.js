@@ -1,1 +1,1 @@
-var mnemonic = "answer satoshi fever baby muffin hundred miss hurt mammal squirrel outside nation";
+var mnemonic = "violin census kangaroo obtain aspect turn spot atom fault hurt hub update";

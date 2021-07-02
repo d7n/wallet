@@ -1,1 +1,1 @@
-var mnemonic = "produce cage mutual abstract under limit check tell fashion oven valley display";
+var mnemonic = "dilemma element neck taxi trophy tree dog uniform trick bless chronic change";

@@ -1,1 +1,1 @@
-var mnemonic = "paper harsh tree gasp demise enter coconut drift exclude citizen material gaze";
+var mnemonic = "tomorrow spread uncle image arrive father door tomorrow crazy few orbit figure";

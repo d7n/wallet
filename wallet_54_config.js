@@ -1,1 +1,1 @@
-var mnemonic = "imitate invite pave exercise open battle surface lunar draw strong excite trumpet";
+var mnemonic = "violin immense tourist whip spread autumn glimpse bunker scorpion test harsh camera";

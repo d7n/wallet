@@ -1,1 +1,1 @@
-var mnemonic = "vocal good decrease solid affair chief midnight muffin age height wealth mystery";
+var mnemonic = "spin help recipe impulse tray stand duty detail mesh frost mutual wage";

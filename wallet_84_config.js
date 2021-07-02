@@ -1,1 +1,1 @@
-var mnemonic = "this recall wagon whip river crawl degree decide own cram tool skate";
+var mnemonic = "brand sand shy surprise beef ring bachelor answer tooth output illness cat";

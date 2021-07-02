@@ -1,1 +1,1 @@
-var mnemonic = "online defense connect popular canvas smart toss motor own spatial valid crash";
+var mnemonic = "pilot blanket blast vote inherit stumble soul surge toast prevent lottery romance";

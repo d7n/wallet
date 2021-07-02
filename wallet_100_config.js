@@ -1,1 +1,1 @@
-var mnemonic = "topple weekend echo intact trophy blanket glow hybrid wisdom sample antenna mystery";
+var mnemonic = "ship young market giraffe uncover space earth nurse welcome input tower foot";

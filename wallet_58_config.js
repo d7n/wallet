@@ -1,1 +1,1 @@
-var mnemonic = "supply slot grass gasp conduct forest news limit cactus brain obey aim";
+var mnemonic = "rapid either divert timber cram vault sound identify song smoke attitude enable";

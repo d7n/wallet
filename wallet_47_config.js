@@ -1,1 +1,1 @@
-var mnemonic = "purse gasp change move bounce next song sheriff orchard garlic dentist spoon";
+var mnemonic = "second feel blood found provide damp license spice elevator private power tiny";

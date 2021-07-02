@@ -1,1 +1,1 @@
-var mnemonic = "citizen transfer write airport okay credit space save aspect armed long tape";
+var mnemonic = "pumpkin fee pitch judge clown fuel suspect fee release pigeon desk good";

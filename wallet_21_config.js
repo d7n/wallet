@@ -1,1 +1,1 @@
-var mnemonic = "enrich nose seminar fade dune uncle spy hole item ship flash fluid";
+var mnemonic = "subway start train immense enact shuffle chat buddy pass coil clump tank";

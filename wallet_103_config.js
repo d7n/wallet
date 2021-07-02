@@ -1,1 +1,1 @@
-var mnemonic = "mixture ecology evoke interest cool debris burden turn blast blast question middle";
+var mnemonic = "surge acid pool enrich hawk resist boy cushion glide echo average urge";

@@ -1,1 +1,1 @@
-var mnemonic = "people coil remind right spare food couch stuff buffalo wolf gaze radio";
+var mnemonic = "exhaust situate oyster indicate doctor avoid grunt clay mention blanket client shock";

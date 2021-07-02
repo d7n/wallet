@@ -1,1 +1,1 @@
-var mnemonic = "question unlock response creek girl melt weekend jelly rare random approve stone";
+var mnemonic = "hold vague social law symbol river champion veteran promote humor attack science";

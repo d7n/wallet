@@ -1,1 +1,1 @@
-var mnemonic = "room before hill dash spin drink rebuild thought vault bacon double barely";
+var mnemonic = "already jeans observe pole enjoy essence blouse result organ royal trade wise";

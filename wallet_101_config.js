@@ -1,1 +1,1 @@
-var mnemonic = "verify clown core rhythm wash diary coral long term brand olive two";
+var mnemonic = "photo potato solve royal shell upper pioneer crumble ticket exact first sauce";

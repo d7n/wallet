@@ -1,1 +1,1 @@
-var mnemonic = "point tuna check sad inject snap advance adapt elder clump consider brown";
+var mnemonic = "drum live fly clarify perfect prize census monster code aerobic dumb defy";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate mechanic dose cause proud crack dice humble opera bid vault beauty";
+var mnemonic = "atom cupboard spray kind coyote awful biology tell armed uncover dove orient";

@@ -1,1 +1,1 @@
-var mnemonic = "case good sniff parent bless hurt foil gravity tragic suspect half loyal";
+var mnemonic = "sword sting survey issue volume correct dog install section favorite there allow";

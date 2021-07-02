@@ -1,1 +1,1 @@
-var mnemonic = "magic demise fiction raise trumpet rare execute must garage expect capital wear";
+var mnemonic = "doctor hard priority identify census alley puppy across used budget brisk denial";

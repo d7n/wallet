@@ -1,1 +1,1 @@
-var mnemonic = "wet scrap naive plug unknown polar loop tattoo trust naive cave keen";
+var mnemonic = "street task clock river town bridge chicken typical jungle put aerobic amused";

@@ -1,1 +1,1 @@
-var mnemonic = "cram zoo pepper invite hand captain walk rifle rare churn bone license";
+var mnemonic = "spike remain cloth once glow impact elbow great case bulk grief destroy";

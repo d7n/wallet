@@ -1,1 +1,1 @@
-var mnemonic = "hotel retreat deer category evoke mutual good frame civil illegal appear addict";
+var mnemonic = "power buddy screen budget gown have forward brave urge hotel together adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "another cheese cross unique planet lunar lottery reward dinner simple joy response";
+var mnemonic = "cheese slogan dolphin become spice text picture october hard lawn hamster betray";

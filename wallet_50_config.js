@@ -1,1 +1,1 @@
-var mnemonic = "silly fuel melody force skin tiger lawsuit moon pottery rival term fetch";
+var mnemonic = "home spike outdoor core glare daughter tree tongue all camera spin become";

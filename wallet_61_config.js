@@ -1,1 +1,1 @@
-var mnemonic = "repair salt business mule special ice easy goose fringe lamp mimic maid";
+var mnemonic = "jungle goddess increase visual discover immense will thought yellow wall trim addict";

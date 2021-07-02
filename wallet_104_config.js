@@ -1,1 +1,1 @@
-var mnemonic = "owner cake negative boost visit grab worry clown tourist glance obey online";
+var mnemonic = "matrix wild okay biology empower humble arctic oval clog boss knife arctic";

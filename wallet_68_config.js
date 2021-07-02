@@ -1,1 +1,1 @@
-var mnemonic = "pipe clap gate knock fitness brass gauge illegal direct napkin unusual size";
+var mnemonic = "armed brave hold october want rookie rifle warrior away acquire camp erode";

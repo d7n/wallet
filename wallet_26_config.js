@@ -1,1 +1,1 @@
-var mnemonic = "erode meadow topic enhance range leaf oil peasant soft false august lava";
+var mnemonic = "attitude cushion shove game half decide electric car say retreat ozone argue";

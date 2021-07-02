@@ -1,1 +1,1 @@
-var mnemonic = "umbrella boat poet equip garment broom behave truly sword divide target west";
+var mnemonic = "hour game crowd visual laptop powder vicious puzzle version hire ghost antique";

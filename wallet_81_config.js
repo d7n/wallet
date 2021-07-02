@@ -1,1 +1,1 @@
-var mnemonic = "fish hotel solution chat cover amazing income wedding helmet wire slide olive";
+var mnemonic = "tenant wrap scan ordinary secret frozen aspect able impulse manual exist vicious";

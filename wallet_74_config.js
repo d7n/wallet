@@ -1,1 +1,1 @@
-var mnemonic = "black always permit moon soft devote vendor organ exile level habit stove";
+var mnemonic = "echo endless increase around uncover menu entire mirror option bridge huge object";

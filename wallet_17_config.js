@@ -1,1 +1,1 @@
-var mnemonic = "output path display clap dilemma aware sunset admit moral loud dance distance";
+var mnemonic = "badge route quality corn museum region limit proof eager right glimpse lake";

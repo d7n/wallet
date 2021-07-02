@@ -1,1 +1,1 @@
-var mnemonic = "clinic detail erupt game travel genre define antenna salmon ordinary best tag";
+var mnemonic = "ivory possible harsh promote message impulse midnight few ridge annual recipe reveal";

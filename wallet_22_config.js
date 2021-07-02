@@ -1,1 +1,1 @@
-var mnemonic = "over happy claim mimic ridge heavy borrow find cancel useless brother hood";
+var mnemonic = "spider buffalo cat warm warm panic earth safe clutch stand green tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "radar rebuild shuffle chalk cave juice elevator snack ankle blanket baby inherit";
+var mnemonic = "debate fortune tomorrow shaft illegal gravity sick couch become earn frame invest";

@@ -1,1 +1,1 @@
-var mnemonic = "blur nuclear cheese salute flame warrior finish barely peasant alter avoid describe";
+var mnemonic = "just illness mystery tiger net cave pupil couch riot term medal solution";

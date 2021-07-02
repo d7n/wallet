@@ -1,1 +1,1 @@
-var mnemonic = "animal finger race decline hub convince fossil advance sign fresh script wear";
+var mnemonic = "apart bag sort smooth balance brush invite flame frequent symbol trend coast";

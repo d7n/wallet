@@ -1,1 +1,1 @@
-var mnemonic = "inner clutch glory hurry clarify fade edit table hamster bag produce duty";
+var mnemonic = "cancel stuff car divert find decrease popular cream uncover market kitchen pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "sun horror lawn during easily inflict army wide fire skate hazard dance";
+var mnemonic = "dance van lawn old spread spatial chapter property nasty dish rice cement";

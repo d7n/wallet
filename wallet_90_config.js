@@ -1,1 +1,1 @@
-var mnemonic = "lecture absent require eye fiction spread credit festival member aunt broken host";
+var mnemonic = "range legend foam maple aspect spring draw buyer foot finger mercy survey";

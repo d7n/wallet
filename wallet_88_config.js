@@ -1,1 +1,1 @@
-var mnemonic = "maid rice floor involve december noise ticket laugh document screen inmate judge";
+var mnemonic = "estate cloud craft hidden cute gown grocery have fashion pond draw mail";

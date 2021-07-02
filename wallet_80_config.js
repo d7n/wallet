@@ -1,1 +1,1 @@
-var mnemonic = "table then demand dice sting crawl danger enact mule similar obscure trend";
+var mnemonic = "tenant security feed spring wasp snake trial help athlete bike clog gravity";

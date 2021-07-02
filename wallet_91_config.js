@@ -1,1 +1,1 @@
-var mnemonic = "hazard pen adult destroy employ life disease park stove learn robot barely";
+var mnemonic = "bacon quit seven powder debate upset march olive indicate quarter satisfy attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "world endorse travel egg detail transfer custom bulb kiwi weird jacket ancient";
+var mnemonic = "smart palace consider carpet crazy stereo legal session cup amazing squirrel uncle";

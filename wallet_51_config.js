@@ -1,1 +1,1 @@
-var mnemonic = "client strategy blossom uniform muffin charge rabbit visual midnight satisfy address learn";
+var mnemonic = "match run story daring around update alien pyramid sibling foil found case";

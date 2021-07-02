@@ -1,1 +1,1 @@
-var mnemonic = "boring interest fuel uniform wrong hunt load quick sock wash husband royal";
+var mnemonic = "column unknown arch priority skull grocery mystery toilet castle plunge stairs green";

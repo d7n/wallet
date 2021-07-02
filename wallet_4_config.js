@@ -1,1 +1,1 @@
-var mnemonic = "benefit shrimp coin oven grace humor execute nation vast evidence quarter dice";
+var mnemonic = "chicken sample client mother apology evidence clip control sort crane script trade";

@@ -1,1 +1,1 @@
-var mnemonic = "source ladder dizzy brisk double episode afford total raw inquiry retreat bridge";
+var mnemonic = "farm anchor over stem few mandate october company engine caught tide nose";

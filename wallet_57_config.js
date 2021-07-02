@@ -1,1 +1,1 @@
-var mnemonic = "protect boring portion pistol trick grain extra limit three deer vacant account";
+var mnemonic = "program leisure sample crane matter orange end sunny scout draft bless walnut";

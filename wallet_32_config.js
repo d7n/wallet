@@ -1,1 +1,1 @@
-var mnemonic = "climb alien aim spike load guitar opinion grace cousin trigger level enter";
+var mnemonic = "train major energy poverty lobster salmon large immense toast demise lemon color";

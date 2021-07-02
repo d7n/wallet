@@ -1,1 +1,1 @@
-var mnemonic = "coral fun alone length frozen rose addict rare shop water exhibit black";
+var mnemonic = "race process problem elevator planet impose salt program unit away more receive";

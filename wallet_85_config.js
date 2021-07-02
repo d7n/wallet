@@ -1,1 +1,1 @@
-var mnemonic = "ranch afford point treat session enlist refuse seven erosion hammer page left";
+var mnemonic = "someone prevent hope royal disease symptom mercy acid ancient claim skate improve";

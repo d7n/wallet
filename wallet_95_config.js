@@ -1,1 +1,1 @@
-var mnemonic = "stone same order approve talent when hidden differ carpet canvas width ignore";
+var mnemonic = "custom orphan staff tilt dial pink water picnic together awesome car roof";

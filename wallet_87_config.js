@@ -1,1 +1,1 @@
-var mnemonic = "girl minute nice buyer water fire leg improve radar logic once salon";
+var mnemonic = "armed chaos omit then sniff animal tell shell empty edit setup gown";

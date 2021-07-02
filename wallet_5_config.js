@@ -1,1 +1,1 @@
-var mnemonic = "forward stay sting dose erupt prosper debris aunt team rude toward fragile";
+var mnemonic = "column impulse pride special garbage march room neglect sugar quantum tower honey";

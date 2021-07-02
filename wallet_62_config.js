@@ -1,1 +1,1 @@
-var mnemonic = "wear tube brand size come upgrade witness fold tattoo crane ostrich artefact";
+var mnemonic = "female anchor sunset current cargo burger reward will age build world sad";

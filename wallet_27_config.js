@@ -1,1 +1,1 @@
-var mnemonic = "employ cousin history scorpion next enrich spread earth vault wrestle celery minimum";
+var mnemonic = "witness unique timber sting glad sell height style item skin demise high";

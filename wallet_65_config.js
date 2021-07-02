@@ -1,1 +1,1 @@
-var mnemonic = "magic second pride friend address jeans series music smart organ horror story";
+var mnemonic = "coil inspire capital keep donor marble lady clarify rib that brisk industry";

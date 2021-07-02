@@ -1,1 +1,1 @@
-var mnemonic = "matrix veteran cricket reduce husband funny shoot secret arena pottery brand staff";
+var mnemonic = "ripple wide apart peanut move okay cart hill void grain picnic laptop";

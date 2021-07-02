@@ -1,1 +1,1 @@
-var mnemonic = "month domain shoot undo letter thumb feel estate menu leader club correct";
+var mnemonic = "build digital height height device situate senior exhaust smoke isolate ceiling purpose";

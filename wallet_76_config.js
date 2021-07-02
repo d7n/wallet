@@ -1,1 +1,1 @@
-var mnemonic = "second board toast skate process shadow near time diary sense tube uphold";
+var mnemonic = "category deny improve repeat match method apology merit output garlic bundle domain";

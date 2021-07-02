@@ -1,1 +1,1 @@
-var mnemonic = "chimney umbrella round comfort table exit poverty vibrant illegal judge evidence endless";
+var mnemonic = "soccer celery crazy bulb script roof wheel hidden parade glide swamp caution";

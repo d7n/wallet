@@ -1,1 +1,1 @@
-var mnemonic = "element protect shiver again drip keen void more unlock sick discover wide";
+var mnemonic = "dance expire demand fly debate among similar sniff kiwi young kick cart";

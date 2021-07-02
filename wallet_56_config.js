@@ -1,1 +1,1 @@
-var mnemonic = "audit motor hub doll deputy nature deposit perfect educate point quick select";
+var mnemonic = "identify maximum icon sun victory cave wrist buzz noise fabric diesel hint";

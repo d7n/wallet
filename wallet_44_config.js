@@ -1,1 +1,1 @@
-var mnemonic = "session wheat mandate movie task miracle matter screen uncle tomorrow soup country";
+var mnemonic = "unable expire weapon parade enable dry ghost join rebel pumpkin tube fall";

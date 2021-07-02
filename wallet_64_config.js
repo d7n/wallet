@@ -1,1 +1,1 @@
-var mnemonic = "will photo salon party reject test tattoo hill ability menu secret clerk";
+var mnemonic = "sound inflict tunnel wet giant guilt typical census flower color become maple";

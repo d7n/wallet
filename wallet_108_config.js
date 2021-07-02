@@ -1,1 +1,1 @@
-var mnemonic = "lend funny warrior decrease inner inject curve order lava lyrics soft chunk";
+var mnemonic = "repeat bracket obtain game exclude very also birth february fuel school awake";

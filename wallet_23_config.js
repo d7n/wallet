@@ -1,1 +1,1 @@
-var mnemonic = "click result method joy will toast develop blind envelope gift zone spawn";
+var mnemonic = "city ceiling honey timber hood erode extend actor asthma bleak fork uncover";

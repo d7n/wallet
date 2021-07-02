@@ -1,1 +1,1 @@
-var mnemonic = "hope candy above divert remind monster stairs trophy tomorrow display exhibit pudding";
+var mnemonic = "miss device dress paper salon maze put maid armed pride direct head";

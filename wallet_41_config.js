@@ -1,1 +1,1 @@
-var mnemonic = "wife agent survey memory gap invest champion flavor hospital valid size donkey";
+var mnemonic = "knee cactus end diesel can property shuffle charge come rifle divorce coral";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue pistol mix island erupt throw turkey obtain satoshi party satisfy orchard";
+var mnemonic = "believe pen jar curtain option chat hedgehog forum finger pottery device slender";

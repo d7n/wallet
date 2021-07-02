@@ -1,1 +1,1 @@
-var mnemonic = "iron knock service hundred south rare bring welcome there comic actual test";
+var mnemonic = "fun phrase crisp tiny vintage peanut waste scale kiss excess job example";

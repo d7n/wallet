@@ -1,1 +1,1 @@
-var mnemonic = "shy crisp cycle cousin print crack law swift fog stable idea chest";
+var mnemonic = "detail list tell truck elbow submit federal host check anchor marriage stay";

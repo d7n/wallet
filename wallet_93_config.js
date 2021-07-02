@@ -1,1 +1,1 @@
-var mnemonic = "bronze analyst capital album film artefact cost practice master grab fatigue coast";
+var mnemonic = "purity summer obey noise useful easily supply pizza pride liquid derive neglect";

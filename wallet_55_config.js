@@ -1,1 +1,1 @@
-var mnemonic = "ocean charge impulse mass cradle ensure any glimpse want shock tunnel bacon";
+var mnemonic = "wrist recycle dismiss puppy fix private banana twelve camp vague once olympic";
