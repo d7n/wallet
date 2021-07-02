@@ -1,1 +1,1 @@
-var mnemonic = "voice cost myth super group evidence cereal process glory dwarf debate agent";
+var mnemonic = "soul crew exhibit retire fat park game problem speed swing panther oak";

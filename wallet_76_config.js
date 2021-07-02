@@ -1,1 +1,1 @@
-var mnemonic = "elephant double kick fiber super proof exercise catch fantasy between brief general";
+var mnemonic = "female case coin fetch zebra sister prison sand sell fringe apple nice";

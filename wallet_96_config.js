@@ -1,1 +1,1 @@
-var mnemonic = "enforce spring park lounge title rain diary cart guilt lady expose bag";
+var mnemonic = "brother essay eye monitor enlist perfect dismiss double bless mobile burst spider";

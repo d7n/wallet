@@ -1,1 +1,1 @@
-var mnemonic = "elevator mansion anger genre brief cement scale creek hammer wall barrel coyote";
+var mnemonic = "cool cluster morning develop sign eyebrow vital vapor click surge reward idle";

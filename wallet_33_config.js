@@ -1,1 +1,1 @@
-var mnemonic = "pole tape effort glad code neglect extra deposit govern snap cool fix";
+var mnemonic = "over extend spare latin foil they mule broom wet idea devote parent";

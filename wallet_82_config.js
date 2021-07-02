@@ -1,1 +1,1 @@
-var mnemonic = "split crawl pill divorce resemble file extra cancel pattern melt urge keep";
+var mnemonic = "friend kidney airport grow fox regret ill mad way speak beach axis";

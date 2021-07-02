@@ -1,1 +1,1 @@
-var mnemonic = "hip tissue muffin correct method mule gallery push salmon drastic coin lawsuit";
+var mnemonic = "drill melt material inquiry real toss goddess post island genius tomato vague";

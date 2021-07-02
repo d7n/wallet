@@ -1,1 +1,1 @@
-var mnemonic = "reflect buzz stuff portion until allow main champion orange mushroom bench open";
+var mnemonic = "alcohol message action deny dragon north novel mirror equip arrow obtain finger";

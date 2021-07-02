@@ -1,1 +1,1 @@
-var mnemonic = "blood puzzle borrow drastic obvious siren indoor open olympic leader tag garlic";
+var mnemonic = "crumble stock wear danger woman raw sphere firm glide sadness seed usual";

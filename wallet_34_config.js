@@ -1,1 +1,1 @@
-var mnemonic = "horse mango region mixed ankle pink place live help promote pledge perfect";
+var mnemonic = "quality hazard layer follow meat pizza rate chapter ability card thank juice";

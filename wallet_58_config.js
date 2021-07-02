@@ -1,1 +1,1 @@
-var mnemonic = "core gesture behave chair coast priority horn attend shoulder before situate kit";
+var mnemonic = "ability panda exclude admit moon head another limit crowd logic gold arrow";

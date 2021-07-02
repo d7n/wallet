@@ -1,1 +1,1 @@
-var mnemonic = "bleak rebel pudding lab matter since rice confirm lounge mimic blame brick";
+var mnemonic = "crop divorce empty boss crystal way garment connect album young multiply flight";

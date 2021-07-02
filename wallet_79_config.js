@@ -1,1 +1,1 @@
-var mnemonic = "elder orchard used flush crane fiscal duty joke exchange session warm stick";
+var mnemonic = "athlete trumpet slush dwarf hungry aerobic post absent merry debris inhale peace";

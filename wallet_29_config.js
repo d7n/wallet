@@ -1,1 +1,1 @@
-var mnemonic = "guess expire umbrella cage skirt jaguar bitter dilemma tell accuse subject stay";
+var mnemonic = "regret fatigue excite return make convince decline crew bless enough parent print";

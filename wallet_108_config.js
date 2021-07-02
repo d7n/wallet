@@ -1,1 +1,1 @@
-var mnemonic = "glove merge quit life forum manage party injury obvious rate engine neck";
+var mnemonic = "phrase blast cheese corn total spike abandon piece valid icon swallow develop";

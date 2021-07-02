@@ -1,1 +1,1 @@
-var mnemonic = "gift sniff fuel lucky minute cruise share reduce cotton age aim hour";
+var mnemonic = "humor chef dawn spoon valid dress equip bottom purpose hat silly gold";

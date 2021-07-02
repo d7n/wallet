@@ -1,1 +1,1 @@
-var mnemonic = "taxi happy bridge capital arch still essay void rotate assault lesson inside";
+var mnemonic = "melt inside suffer between melody zebra deer feel chair bridge permit roast";

@@ -1,1 +1,1 @@
-var mnemonic = "become gas sketch panel essence winner crane misery apart betray dash bless";
+var mnemonic = "below rally enroll green pen kidney recall shoulder social auto future bar";

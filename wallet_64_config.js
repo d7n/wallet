@@ -1,1 +1,1 @@
-var mnemonic = "buyer punch pond skate onion exclude amazing erase maze romance visa smoke";
+var mnemonic = "expect trumpet income muffin shop canvas raven rich merge pattern benefit melody";

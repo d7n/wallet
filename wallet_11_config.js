@@ -1,1 +1,1 @@
-var mnemonic = "obvious ritual quarter pottery essay minute fury battle crew know stay flavor";
+var mnemonic = "heart crater question then pottery hungry pole shine milk nuclear pool rapid";

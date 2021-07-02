@@ -1,1 +1,1 @@
-var mnemonic = "immune flat weird sudden dwarf job stamp essence crack arch vote fold";
+var mnemonic = "staff hobby foil width legal level voice family half relief zero coffee";

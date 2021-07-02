@@ -1,1 +1,1 @@
-var mnemonic = "clever maximum insect van armed eye humor talk panel dizzy smoke adjust";
+var mnemonic = "pave major fabric turtle impact member illness coconut pride subject inherit demise";

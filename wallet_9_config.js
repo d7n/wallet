@@ -1,1 +1,1 @@
-var mnemonic = "gallery praise grape point mention enable rescue deal trigger midnight actor flee";
+var mnemonic = "chaos ensure addict wheel grow source front amazing fitness maze three motion";

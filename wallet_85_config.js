@@ -1,1 +1,1 @@
-var mnemonic = "sight rapid where price drink fuel husband more answer trip work east";
+var mnemonic = "exile pulse screen lunar olive shoe regular blame lawsuit rebuild rule giraffe";

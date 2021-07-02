@@ -1,1 +1,1 @@
-var mnemonic = "age alpha agree emotion credit symbol discover assault attract clog clump egg";
+var mnemonic = "moral olympic allow sure cereal climb transfer together soccer daughter soft another";

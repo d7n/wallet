@@ -1,1 +1,1 @@
-var mnemonic = "aim perfect crash protect debate net avocado talent give danger slim cruise";
+var mnemonic = "steak chronic upon circle submit language clutch shift hair street useless march";

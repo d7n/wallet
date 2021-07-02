@@ -1,1 +1,1 @@
-var mnemonic = "sponsor rather copy soldier great wall walnut sadness smoke arch shaft long";
+var mnemonic = "where vehicle rigid trust receive useless runway mango catalog flash romance run";

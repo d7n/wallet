@@ -1,1 +1,1 @@
-var mnemonic = "plastic blur stomach shrug manual inmate sure before carry silk rail very";
+var mnemonic = "exhaust enroll bicycle small tragic field page vintage comic illness ranch recycle";

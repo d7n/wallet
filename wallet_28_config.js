@@ -1,1 +1,1 @@
-var mnemonic = "brick reason frown doll snap stomach area avoid rich gesture lawsuit crowd";
+var mnemonic = "impact globe correct section tone fold remind company useful hedgehog forward sweet";

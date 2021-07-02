@@ -1,1 +1,1 @@
-var mnemonic = "miracle asset cross hub sea quarter index kitten high resource desert blanket";
+var mnemonic = "grant tattoo staff bachelor comfort original arctic tunnel dizzy repeat hand allow";

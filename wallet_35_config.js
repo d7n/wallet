@@ -1,1 +1,1 @@
-var mnemonic = "wear apple kitchen crisp penalty sand habit fish wide share piano eight";
+var mnemonic = "raise wool blossom fancy fluid forest music above lucky grace nation tunnel";

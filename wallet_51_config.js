@@ -1,1 +1,1 @@
-var mnemonic = "hazard churn envelope grit oyster extend hand health vital clown involve lamp";
+var mnemonic = "inquiry nest winter nephew life person radar upset candy axis join brave";

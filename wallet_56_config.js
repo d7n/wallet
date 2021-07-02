@@ -1,1 +1,1 @@
-var mnemonic = "engage record rebuild include firm biology giant demise auto tennis piano october";
+var mnemonic = "fat soul remain warfare fruit soon onion never cram dune business pencil";

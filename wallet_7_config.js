@@ -1,1 +1,1 @@
-var mnemonic = "champion rapid board sea peasant sphere basic adjust hat cricket cannon neglect";
+var mnemonic = "ten there exact town cross benefit student coyote bar approve cluster anxiety";

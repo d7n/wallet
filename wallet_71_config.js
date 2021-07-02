@@ -1,1 +1,1 @@
-var mnemonic = "renew cash clever trouble nuclear thing winner champion speak slender also subway";
+var mnemonic = "burst resemble actor bleak obscure normal twelve stock sauce card finger win";

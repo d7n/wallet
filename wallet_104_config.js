@@ -1,1 +1,1 @@
-var mnemonic = "life wide jar glass awkward solar network eight animal tower during appear";
+var mnemonic = "slab believe capital abstract sniff column nuclear athlete limb spray sick thank";

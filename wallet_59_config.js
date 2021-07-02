@@ -1,1 +1,1 @@
-var mnemonic = "during stay quarter jewel despair theory father term autumn water simple degree";
+var mnemonic = "fiscal rabbit payment parrot endorse snap poverty injury under canal uncle claim";

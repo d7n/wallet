@@ -1,1 +1,1 @@
-var mnemonic = "topic network cram pencil top shuffle unknown lizard pepper acoustic good blast";
+var mnemonic = "destroy pitch wreck gentle typical lonely know cage pig remain wage spend";

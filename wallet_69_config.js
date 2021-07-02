@@ -1,1 +1,1 @@
-var mnemonic = "humble waste crowd ship witness match east random lottery sweet target swarm";
+var mnemonic = "resource essay car omit bracket embark parade rely attitude wine survey curious";

@@ -1,1 +1,1 @@
-var mnemonic = "pole scout meat first old token nest bench deal reform panel brown";
+var mnemonic = "digital frown erase dream frost pioneer vital monkey okay airport virtual diary";

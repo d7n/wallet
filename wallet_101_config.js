@@ -1,1 +1,1 @@
-var mnemonic = "latin axis bargain truck spice daring perfect unveil spy tornado alcohol creek";
+var mnemonic = "nation post much what blast type attract history absorb retire horror under";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum spider dry poem cheese walnut blast strategy void green jungle piece";
+var mnemonic = "firm amateur boat second swift obvious power fee resemble funny fluid evidence";

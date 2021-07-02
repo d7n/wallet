@@ -1,1 +1,1 @@
-var mnemonic = "extra grape athlete alien fee muffin cage alcohol boost luggage mean media";
+var mnemonic = "frog palm faint pole boss like tank fabric offer attack sure point";

@@ -1,1 +1,1 @@
-var mnemonic = "else own truth casino pattern snake where page oval ahead usual purchase";
+var mnemonic = "student goddess brand draw guess behind depend grab blush harbor enter sweet";

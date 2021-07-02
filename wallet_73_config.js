@@ -1,1 +1,1 @@
-var mnemonic = "asthma truth predict reason urge track try grocery cake length lumber dash";
+var mnemonic = "toy rhythm fruit chef entry myth card resource awake collect scout quick";

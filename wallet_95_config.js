@@ -1,1 +1,1 @@
-var mnemonic = "twist table close vibrant story empower powder motor wasp scheme hat bid";
+var mnemonic = "analyst try stage joke another pyramid inch brave ladder notice usual impose";

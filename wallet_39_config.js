@@ -1,1 +1,1 @@
-var mnemonic = "neutral fluid almost stuff section life roof organ brother dad mixture unfair";
+var mnemonic = "stool bone color exhaust green keep guilt cloth that produce hospital mutual";

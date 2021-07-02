@@ -1,1 +1,1 @@
-var mnemonic = "path boil end process van output ridge ready roof century plate member";
+var mnemonic = "pelican stock clap alley twist mushroom rabbit cloth vague own again legal";

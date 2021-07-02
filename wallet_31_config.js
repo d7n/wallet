@@ -1,1 +1,1 @@
-var mnemonic = "empty differ visit arm cruise rebuild trumpet dad creek later prison media";
+var mnemonic = "tuna piano inform weekend grocery tennis truth document climb tomorrow prosper morning";

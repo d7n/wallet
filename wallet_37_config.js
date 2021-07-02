@@ -1,1 +1,1 @@
-var mnemonic = "ladder awkward decorate lizard trumpet unusual gold strike certain silent weather capital";
+var mnemonic = "develop tenant enact orphan off whale great inject prefer pyramid cereal aerobic";

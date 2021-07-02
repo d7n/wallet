@@ -1,1 +1,1 @@
-var mnemonic = "prison oyster sport wagon bunker surprise army loud prefer lady pulse model";
+var mnemonic = "reveal always check neck cycle position regular tank fame goat zone alone";

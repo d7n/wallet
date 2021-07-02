@@ -1,1 +1,1 @@
-var mnemonic = "little motor nasty crew sell manual hollow clarify dentist jacket pet noble";
+var mnemonic = "brain useless author jacket employ panther hybrid laugh people hover obscure worth";

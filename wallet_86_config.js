@@ -1,1 +1,1 @@
-var mnemonic = "extend sustain garage clever pen miracle either fluid increase face insane long";
+var mnemonic = "fold wall obtain mail puzzle force pulse evoke west drive settle pilot";

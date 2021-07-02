@@ -1,1 +1,1 @@
-var mnemonic = "buddy noble tornado olympic office liberty resemble cabbage ugly margin mixed bitter";
+var mnemonic = "flush pledge raven tragic magic board wheat elite warfare razor angry entire";

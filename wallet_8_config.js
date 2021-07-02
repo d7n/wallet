@@ -1,1 +1,1 @@
-var mnemonic = "tube genre payment deputy wolf visual glare much frost melody glove umbrella";
+var mnemonic = "giraffe faith noise hotel surround scare punch fish unfair cat slab waste";

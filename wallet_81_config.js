@@ -1,1 +1,1 @@
-var mnemonic = "ancient junk broccoli famous scissors index tobacco human solid clarify fatigue panel";
+var mnemonic = "process unfair gentle then cube letter fix tired meat female festival tree";

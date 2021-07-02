@@ -1,1 +1,1 @@
-var mnemonic = "knee cotton record bus hunt toddler issue truck return enroll peasant today";
+var mnemonic = "flame lock marine rather casual answer improve disease game volume steel spirit";

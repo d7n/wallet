@@ -1,1 +1,1 @@
-var mnemonic = "crouch curious question camera slow evolve dolphin head snake seven dutch admit";
+var mnemonic = "found ladder food oak urge soda rate since volcano always total practice";

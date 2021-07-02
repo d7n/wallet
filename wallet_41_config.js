@@ -1,1 +1,1 @@
-var mnemonic = "enroll renew aspect rule drama illness burger message viable file bundle reform";
+var mnemonic = "ocean bless social animal frost advance capable grid gas bike volume category";

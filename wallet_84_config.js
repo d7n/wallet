@@ -1,1 +1,1 @@
-var mnemonic = "riot attract hobby patch error mixture sketch shoulder lady olympic try street";
+var mnemonic = "amused idle dilemma churn clay fault elbow infant life sense eyebrow noodle";

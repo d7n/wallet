@@ -1,1 +1,1 @@
-var mnemonic = "amazing timber toward ring still doctor benefit copper giggle length juice strong";
+var mnemonic = "riot oyster bag bean nature adjust enter sing patient symptom cash penalty";

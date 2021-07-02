@@ -1,1 +1,1 @@
-var mnemonic = "tribe legend enhance olive soccer assume cry still smoke develop response rack";
+var mnemonic = "delay jazz material fame level syrup effort chronic stem taste shove agent";

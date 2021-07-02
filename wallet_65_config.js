@@ -1,1 +1,1 @@
-var mnemonic = "record rally pet loud negative mind can social extra cart celery style";
+var mnemonic = "utility dance salt pet south lawn correct oval rapid later foster mean";

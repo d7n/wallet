@@ -1,1 +1,1 @@
-var mnemonic = "lecture mouse genre arch correct play resemble awesome equip mixture put prison";
+var mnemonic = "similar search either token once lunch canal eyebrow dish actual hard fatal";

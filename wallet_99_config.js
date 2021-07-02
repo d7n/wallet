@@ -1,1 +1,1 @@
-var mnemonic = "toilet eternal novel purity network picnic wet stereo quote client best vendor";
+var mnemonic = "toilet vendor foot youth clean credit bunker scissors laundry want brand demand";

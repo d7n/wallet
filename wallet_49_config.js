@@ -1,1 +1,1 @@
-var mnemonic = "dish train affair differ spy normal retire burst rule build pepper tower";
+var mnemonic = "buzz scheme valve draft there lift wool ozone upset include weather noble";

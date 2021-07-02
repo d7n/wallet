@@ -1,1 +1,1 @@
-var mnemonic = "ask amount reflect wheat wild moment dignity update involve february material update";
+var mnemonic = "breeze divorce cry obvious village table oval coyote debris beach expire fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle autumn method sheriff liar success relax trust undo soda evil wonder";
+var mnemonic = "curious green cart sleep second relief thought laundry panther uncover nice chapter";

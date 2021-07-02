@@ -1,1 +1,1 @@
-var mnemonic = "tonight lake immune cover cannon thank trip tenant earn knock fluid bean";
+var mnemonic = "claim salad black essay onion sort pilot oppose settle reward dial gate";

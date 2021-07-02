@@ -1,1 +1,1 @@
-var mnemonic = "when seat garden pause rival rely joy jewel father still wish dinner";
+var mnemonic = "celery ring mouse leader sick weekend shop hunt beach require idle live";

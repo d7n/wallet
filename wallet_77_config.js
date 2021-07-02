@@ -1,1 +1,1 @@
-var mnemonic = "chimney myth good token book illegal giant loan ecology top tuna prepare";
+var mnemonic = "output verify arrange control lawn town deputy convince bind okay under credit";

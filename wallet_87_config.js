@@ -1,1 +1,1 @@
-var mnemonic = "pass various sight aim orbit anchor ritual master kid defy evidence extend";
+var mnemonic = "relax cool lens misery beyond wolf double vibrant flight broken radar warm";

@@ -1,1 +1,1 @@
-var mnemonic = "text verb update throw floor voice victory memory name silk elevator family";
+var mnemonic = "piece lonely history scheme twice weather clip fiction priority stereo mad push";

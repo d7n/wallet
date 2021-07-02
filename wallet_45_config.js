@@ -1,1 +1,1 @@
-var mnemonic = "disagree chief remind citizen lecture arrive spatial seminar mansion warm unit february";
+var mnemonic = "mandate wife human blossom recall develop attract razor hello layer quiz friend";

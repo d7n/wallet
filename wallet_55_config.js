@@ -1,1 +1,1 @@
-var mnemonic = "tail near shallow wish pause claw soft crush wash elbow volume water";
+var mnemonic = "deal receive desk slogan paper jealous canal inherit erupt quick throw pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "donate jungle leave waste sauce cable jewel next hungry myself coconut wave";
+var mnemonic = "fish exhibit text siege essay utility exclude share marriage olive chronic clown";

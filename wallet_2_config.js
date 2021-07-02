@@ -1,1 +1,1 @@
-var mnemonic = "galaxy wolf multiply quarter indoor original first banner income february version surround";
+var mnemonic = "load census range core empty round hospital valve hole lady human click";

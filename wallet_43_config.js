@@ -1,1 +1,1 @@
-var mnemonic = "ecology kite address pony stool staff hint trip legal mercy sister young";
+var mnemonic = "say among busy sad stuff grit behave spider bonus tooth come tray";

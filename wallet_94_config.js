@@ -1,1 +1,1 @@
-var mnemonic = "end uncle fork seven miracle roast become rapid discover donor reform announce";
+var mnemonic = "frozen matrix struggle ten boost already outside inmate image prefer grass coast";

@@ -1,1 +1,1 @@
-var mnemonic = "design blue smart fuel cabin fabric lyrics cushion salon trim marriage force";
+var mnemonic = "battle prefer woman maid voyage quote case airport either effort isolate equal";

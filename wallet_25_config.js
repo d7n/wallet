@@ -1,1 +1,1 @@
-var mnemonic = "arctic ethics clog three season law machine lamp where increase ranch apart";
+var mnemonic = "word soon wheel creek now oblige omit drastic feature icon actual decorate";

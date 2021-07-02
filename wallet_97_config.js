@@ -1,1 +1,1 @@
-var mnemonic = "monitor husband street render sense feed because turtle air tank resist air";
+var mnemonic = "reflect tragic chaos embody knock dad border release devote balcony conduct salon";

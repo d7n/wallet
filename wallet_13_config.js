@@ -1,1 +1,1 @@
-var mnemonic = "hire drip spatial surround roast verb honey curtain burger pause credit crystal";
+var mnemonic = "kit salon convince divorce toddler evolve congress decade leader wash change easy";

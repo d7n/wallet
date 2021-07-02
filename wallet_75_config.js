@@ -1,1 +1,1 @@
-var mnemonic = "bring song evoke broken guitar palm install wink ring together pudding over";
+var mnemonic = "observe before loan creek expose cat mixture visual pulp afraid dust trigger";

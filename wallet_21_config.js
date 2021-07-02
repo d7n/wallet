@@ -1,1 +1,1 @@
-var mnemonic = "tunnel aspect across feed favorite stand ostrich blanket matter police busy daughter";
+var mnemonic = "misery expose gadget bench skull timber helmet urge library act merit say";

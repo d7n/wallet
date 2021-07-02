@@ -1,1 +1,1 @@
-var mnemonic = "wreck cash napkin phone trade forum gentle impulse reform material dawn crime";
+var mnemonic = "sound shrimp denial pause warm liberty legend stand drip glue thing rifle";

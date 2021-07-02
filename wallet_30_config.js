@@ -1,1 +1,1 @@
-var mnemonic = "reflect want blanket connect school left race grunt caution dad problem close";
+var mnemonic = "absorb come quick faint donate obvious citizen sauce monster dolphin aerobic sudden";

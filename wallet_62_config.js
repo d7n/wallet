@@ -1,1 +1,1 @@
-var mnemonic = "bless vivid boring adult token waste option tide submit describe message kitchen";
+var mnemonic = "donate toe disease same bounce wrap beauty dance device evidence parrot neither";

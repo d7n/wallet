@@ -1,1 +1,1 @@
-var mnemonic = "pole barrel vital arena consider illegal inmate whip symptom retire candy merit";
+var mnemonic = "limit repeat win annual ask sport champion gesture double nuclear traffic agent";

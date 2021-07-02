@@ -1,1 +1,1 @@
-var mnemonic = "monster lizard tribe swift mammal reason cable imitate expose oyster broken flat";
+var mnemonic = "pact wild bird more spare soul once bicycle shed tree broom mother";

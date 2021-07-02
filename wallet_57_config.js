@@ -1,1 +1,1 @@
-var mnemonic = "ridge tonight again flight green network beauty convince please size steak alert";
+var mnemonic = "exile return genre mixed south world winner identify amused blast bread elite";

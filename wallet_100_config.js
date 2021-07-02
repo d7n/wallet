@@ -1,1 +1,1 @@
-var mnemonic = "annual pistol sponsor boss moon snap wasp scatter answer dizzy loan tragic";
+var mnemonic = "mind reflect outer hill pipe receive entry game trophy two side space";

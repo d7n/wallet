@@ -1,1 +1,1 @@
-var mnemonic = "mountain bomb rug fix glow hire illness client common toy drum baby";
+var mnemonic = "month tattoo upper spread object trigger jump hire visa sheriff question senior";
