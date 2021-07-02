@@ -1,1 +1,1 @@
-var mnemonic = "elevator charge kit hub zero drip unknown link fragile joy step genre";
+var mnemonic = "gold carpet shrimp goat pen exile spray place sketch buddy rebel gallery";

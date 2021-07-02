@@ -1,1 +1,1 @@
-var mnemonic = "thumb brain device curve crunch drum weasel wrap floor turn refuse raise";
+var mnemonic = "immune robot analyst spawn whisper know obvious indoor simple beyond plunge stairs";

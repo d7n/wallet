@@ -1,1 +1,1 @@
-var mnemonic = "science labor shoulder rack alley now scout tumble draw couch memory ethics";
+var mnemonic = "bachelor milk mind order volcano lizard pioneer safe vicious brain fit rebel";

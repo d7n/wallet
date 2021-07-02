@@ -1,1 +1,1 @@
-var mnemonic = "favorite crane glory confirm clog bottom neither perfect filter jazz point gauge";
+var mnemonic = "uncover razor during find sand away hip visa hill street broken agree";

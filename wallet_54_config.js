@@ -1,1 +1,1 @@
-var mnemonic = "step vicious chimney sentence output gold silver alcohol pudding into proof antique";
+var mnemonic = "sound cloud tennis basket artefact renew roof decide scout unveil fall action";

@@ -1,1 +1,1 @@
-var mnemonic = "hand hazard shadow seven beauty top eager spirit quality sing love pulp";
+var mnemonic = "finish together wide move mushroom grocery cram pulse trip farm comic reflect";

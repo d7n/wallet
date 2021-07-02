@@ -1,1 +1,1 @@
-var mnemonic = "educate trigger vendor buffalo final cattle spare motor cube fish club debris";
+var mnemonic = "oxygen marble sand liberty work key critic blast radar shock baby spice";

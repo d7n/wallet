@@ -1,1 +1,1 @@
-var mnemonic = "sugar just dose hurt provide royal resist minute ramp genuine oak matter";
+var mnemonic = "asset recall proud buddy mean sing ginger code color trophy visa curve";

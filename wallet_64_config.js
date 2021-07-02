@@ -1,1 +1,1 @@
-var mnemonic = "orient wash order armed raccoon present income text spike mirror taxi coil";
+var mnemonic = "hurdle twice reject meadow gauge ship laundry transfer lizard element trumpet market";

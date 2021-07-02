@@ -1,1 +1,1 @@
-var mnemonic = "sick close fly code task guitar range vacuum design crawl mother inch";
+var mnemonic = "toward ship case fit spider chunk arrive addict gun wave stem worry";

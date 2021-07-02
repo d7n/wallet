@@ -1,1 +1,1 @@
-var mnemonic = "provide pelican unlock twin bamboo correct letter panel stem bicycle master uniform";
+var mnemonic = "mirror claw rich program scale siren bonus derive narrow toilet warrior coyote";

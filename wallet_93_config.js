@@ -1,1 +1,1 @@
-var mnemonic = "supreme rate race dinosaur review submit october slot demise asset peace security";
+var mnemonic = "cable news oblige opinion girl decrease original hope noodle minor term logic";

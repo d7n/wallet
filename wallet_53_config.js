@@ -1,1 +1,1 @@
-var mnemonic = "dress panic duty remind dawn zero prize ugly quantum weather violin hand";
+var mnemonic = "olive zebra ramp movie ghost blade spoon plunge gallery clerk section attract";

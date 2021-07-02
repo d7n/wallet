@@ -1,1 +1,1 @@
-var mnemonic = "legend casual text juice include wave blue roof palace city reform bus";
+var mnemonic = "ladder opinion hint visa embody venue arrow once priority hamster couple syrup";

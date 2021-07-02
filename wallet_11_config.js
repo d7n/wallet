@@ -1,1 +1,1 @@
-var mnemonic = "either mind fee that puzzle fancy fury window kitten spice leopard weasel";
+var mnemonic = "step spread good seek roof session table noise dismiss case concert inflict";

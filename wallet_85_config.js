@@ -1,1 +1,1 @@
-var mnemonic = "decline satisfy wink comfort antenna cool inject lyrics melody eye slow best";
+var mnemonic = "captain clarify sunset index unhappy island camp long spare history laundry sunset";

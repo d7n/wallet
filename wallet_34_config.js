@@ -1,1 +1,1 @@
-var mnemonic = "rocket unfair taste fiscal vicious vibrant pelican allow define bargain usual style";
+var mnemonic = "power sail inherit brother join rifle grass body fruit museum pledge bronze";

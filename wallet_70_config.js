@@ -1,1 +1,1 @@
-var mnemonic = "harvest aim pride member find joy indoor stable bounce word type robot";
+var mnemonic = "trigger monster sword observe liquid market faith guess volume path float narrow";

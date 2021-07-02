@@ -1,1 +1,1 @@
-var mnemonic = "mesh stable absent survey six bone couple ghost purchase antenna cram stomach";
+var mnemonic = "fantasy april burger mutual news mean farm resource reform smart chef bacon";

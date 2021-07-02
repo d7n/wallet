@@ -1,1 +1,1 @@
-var mnemonic = "mom monster alcohol remain rich mom eternal jar amazing gym purchase churn";
+var mnemonic = "ugly modify another fetch trigger simple model math chicken become dish fatigue";

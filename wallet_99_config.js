@@ -1,1 +1,1 @@
-var mnemonic = "gesture paddle join antique army spirit later sorry under whisper fold brown";
+var mnemonic = "permit vault rescue topple cancel grass stove furnace one chunk disagree bulb";

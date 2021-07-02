@@ -1,1 +1,1 @@
-var mnemonic = "bid goose suffer tail liquid east tackle street mandate push super call";
+var mnemonic = "rate domain earth goat absurd cereal neutral tackle strong melody bunker cable";

@@ -1,1 +1,1 @@
-var mnemonic = "token scrub wife rifle excuse carbon retire grain typical load book toilet";
+var mnemonic = "column planet silver turn behave garden unhappy convince recipe permit benefit shy";

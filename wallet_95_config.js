@@ -1,1 +1,1 @@
-var mnemonic = "keep destroy major hundred near behave real curve bleak imitate toy amount";
+var mnemonic = "floor industry grab sport wrestle hat valid update bring guide ride fee";

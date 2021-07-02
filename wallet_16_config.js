@@ -1,1 +1,1 @@
-var mnemonic = "position want luxury among quarter lucky casino voice badge lottery cousin space";
+var mnemonic = "liberty ship cotton clinic cycle border pretty kid donor melody wife violin";

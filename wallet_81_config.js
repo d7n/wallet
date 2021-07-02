@@ -1,1 +1,1 @@
-var mnemonic = "cool scout detect improve hard crowd range assume key child speak cherry";
+var mnemonic = "denial fatal chuckle ticket ramp tag fashion apology input misery romance wild";

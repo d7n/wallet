@@ -1,1 +1,1 @@
-var mnemonic = "bullet notable rule narrow charge movie globe afraid next slight stay unveil";
+var mnemonic = "tongue double play charge radar village world heart average captain jump demand";

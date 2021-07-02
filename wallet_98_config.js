@@ -1,1 +1,1 @@
-var mnemonic = "cheap bachelor mouse hurdle square half grass siren true clutch actual bachelor";
+var mnemonic = "envelope sadness forget demand guard leader multiply bottom drum hip runway market";

@@ -1,1 +1,1 @@
-var mnemonic = "clap please enrich sentence angle coach ball story student cat demand maid";
+var mnemonic = "evoke neck much armed casual next describe frequent will quick wise spare";

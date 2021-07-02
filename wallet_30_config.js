@@ -1,1 +1,1 @@
-var mnemonic = "select thing magic orbit execute mention pill artefact green bargain mouse pretty";
+var mnemonic = "hill vanish provide salute describe film hotel current jacket thought response sock";

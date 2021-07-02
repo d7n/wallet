@@ -1,1 +1,1 @@
-var mnemonic = "idle spin school maid custom cage vault chicken shy million neutral crush";
+var mnemonic = "stereo hawk will label point quick predict video various pen sleep twist";

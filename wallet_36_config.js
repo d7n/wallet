@@ -1,1 +1,1 @@
-var mnemonic = "toy hint point tide ozone excuse shallow palm warm table pen student";
+var mnemonic = "vibrant forget steak benefit wild wait quiz cute excess pledge devote music";

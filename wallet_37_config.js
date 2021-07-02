@@ -1,1 +1,1 @@
-var mnemonic = "decade water pudding gap magic area desk survey clip dignity never dinner";
+var mnemonic = "aisle atom rubber question raise young erosion garment spend have magic key";

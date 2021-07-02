@@ -1,1 +1,1 @@
-var mnemonic = "stairs address priority ensure below prepare arm neither juice youth resource drop";
+var mnemonic = "veteran save chat thumb cloud air balance swallow situate fade copy tree";

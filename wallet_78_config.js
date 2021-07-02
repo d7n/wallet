@@ -1,1 +1,1 @@
-var mnemonic = "round universe behave praise unfair citizen circle pulp divert upper design frame";
+var mnemonic = "injury welcome swim expand rail final unique ostrich list deny diamond license";

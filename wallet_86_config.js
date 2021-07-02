@@ -1,1 +1,1 @@
-var mnemonic = "ghost nest plate crouch guilt diamond glad dragon thunder group false crisp";
+var mnemonic = "radio afford little achieve gasp junior connect skate swift script lottery actress";

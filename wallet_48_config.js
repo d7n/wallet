@@ -1,1 +1,1 @@
-var mnemonic = "glare evolve uphold token siege inflict fit knee buddy right improve lesson";
+var mnemonic = "art number scissors circle conduct cradle strategy tip galaxy sample barrel patrol";

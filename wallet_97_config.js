@@ -1,1 +1,1 @@
-var mnemonic = "buffalo limb head cycle pair blue ceiling grow lemon group material turkey";
+var mnemonic = "since flag miss fruit sick easily organ logic salute donkey capable recycle";

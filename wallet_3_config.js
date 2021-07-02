@@ -1,1 +1,1 @@
-var mnemonic = "million creek update food lamp nasty fashion wagon slight feel two animal";
+var mnemonic = "monitor during brother sniff card luggage nut fossil trap feel outdoor pig";

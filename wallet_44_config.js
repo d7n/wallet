@@ -1,1 +1,1 @@
-var mnemonic = "violin dry spawn share invest want ride cup velvet misery naive current";
+var mnemonic = "torch thunder cry advice stumble diamond oblige birth daring pulse pigeon faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "shy seed width athlete shed quick push seed name program express effort";
+var mnemonic = "sea order fee sense total unfair skin truly sock poet collect target";

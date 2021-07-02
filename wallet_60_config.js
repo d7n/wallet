@@ -1,1 +1,1 @@
-var mnemonic = "design mixed sort lizard bind liar vital click lab address release slot";
+var mnemonic = "spare model library struggle host pizza rack project ancient betray fade aerobic";

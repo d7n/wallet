@@ -1,1 +1,1 @@
-var mnemonic = "enemy globe economy delay praise surround stay tooth actual scorpion net weasel";
+var mnemonic = "cause start beach silent seat tornado hamster choose circle front vanish humor";

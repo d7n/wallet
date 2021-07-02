@@ -1,1 +1,1 @@
-var mnemonic = "rent truth chimney gospel genius already mind edge breeze angry firm long";
+var mnemonic = "drill brick spoon remove excess renew warrior plastic decorate toilet cook oblige";

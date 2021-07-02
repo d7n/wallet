@@ -1,1 +1,1 @@
-var mnemonic = "arch illegal morning access hotel fetch parrot visa best cattle potato change";
+var mnemonic = "blame grunt maid slush father page prepare similar rare nut shoe spread";

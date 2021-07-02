@@ -1,1 +1,1 @@
-var mnemonic = "lift own betray napkin clay sweet purity sketch empower unveil typical regret";
+var mnemonic = "adapt double tag dizzy direct ripple slim repair helmet guide strong solar";

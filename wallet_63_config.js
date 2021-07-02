@@ -1,1 +1,1 @@
-var mnemonic = "embody room neglect happy spot lamp shrimp rubber enter column rule fade";
+var mnemonic = "run fork budget kitten unfold scorpion hockey tissue domain wash force trip";

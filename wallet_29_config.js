@@ -1,1 +1,1 @@
-var mnemonic = "chronic eye annual slow minimum waste bamboo hazard parade useless idea man";
+var mnemonic = "divert crack sweet jungle hope lucky kit office chapter approve certain alert";

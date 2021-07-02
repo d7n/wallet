@@ -1,1 +1,1 @@
-var mnemonic = "expose mixed clarify horror inform slight merge process betray puzzle clump announce";
+var mnemonic = "stand unhappy moon draw quiz juice mail elegant hope clay busy soldier";

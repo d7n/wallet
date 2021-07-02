@@ -1,1 +1,1 @@
-var mnemonic = "draw father impact gold produce cupboard spy isolate always scatter innocent property";
+var mnemonic = "cherry jelly mixed vintage road laundry general flat mammal broccoli muscle tip";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver brown rug jazz piece october spice phone average relief labor cactus";
+var mnemonic = "dentist category merit cluster riot hammer rule reason hybrid lion question ancient";

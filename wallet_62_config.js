@@ -1,1 +1,1 @@
-var mnemonic = "ankle worry struggle mutual neither hidden filter sunset impose happy garbage quantum";
+var mnemonic = "lonely confirm carpet improve gauge apple erase document exist ivory elephant voyage";

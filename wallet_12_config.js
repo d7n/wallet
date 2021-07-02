@@ -1,1 +1,1 @@
-var mnemonic = "finish object couch dutch grain together album latin cart gospel rabbit ice";
+var mnemonic = "distance payment next six female employ treat ski oppose route damp oval";

@@ -1,1 +1,1 @@
-var mnemonic = "visit amount loan breeze vote lecture disagree motor ramp walk climb pink";
+var mnemonic = "display quit point result various glove museum broken trust such soldier invite";

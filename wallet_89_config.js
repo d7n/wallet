@@ -1,1 +1,1 @@
-var mnemonic = "dilemma vague calm carbon open maximum curious whisper gossip rebel battle jaguar";
+var mnemonic = "deny scrap mass orphan super piece old one gaze immune garlic ocean";

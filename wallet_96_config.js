@@ -1,1 +1,1 @@
-var mnemonic = "offer outer olympic vendor junk industry fix blouse toddler echo awkward gauge";
+var mnemonic = "letter guide patient keen animal problem acoustic labor chronic talk buzz road";

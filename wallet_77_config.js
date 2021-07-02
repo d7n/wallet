@@ -1,1 +1,1 @@
-var mnemonic = "boil denial runway fish ranch hurt idea trip blossom quality rigid cupboard";
+var mnemonic = "wool print replace always pact absorb carbon must menu balance permit warfare";

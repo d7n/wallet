@@ -1,1 +1,1 @@
-var mnemonic = "flat vintage execute truly coconut hand want shadow original common pistol fiction";
+var mnemonic = "expose man motor skill sword speak sock cactus injury mother lift bulb";

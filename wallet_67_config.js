@@ -1,1 +1,1 @@
-var mnemonic = "giggle foil fresh sick minimum market vital possible enjoy immense gorilla garage";
+var mnemonic = "asset when foam amount second venture pet program pepper lock deliver radar";

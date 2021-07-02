@@ -1,1 +1,1 @@
-var mnemonic = "drama figure banner shy ritual source harbor tomato fiber swim purpose keep";
+var mnemonic = "bundle once target sentence rack eager random square tape arctic wonder hill";

@@ -1,1 +1,1 @@
-var mnemonic = "step theme club there rival jazz uphold gym sister initial case sun";
+var mnemonic = "bench snow shove pupil license theme smile snack column season evidence present";

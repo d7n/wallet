@@ -1,1 +1,1 @@
-var mnemonic = "two wool oak bind loud snack digital debate genre defense struggle fix";
+var mnemonic = "tomato bamboo brother foil wire breeze aisle trick job intact output journey";

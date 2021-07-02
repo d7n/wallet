@@ -1,1 +1,1 @@
-var mnemonic = "artist search height undo force review green cause reason away merit nephew";
+var mnemonic = "brother assist kiss urge wrist daughter bounce farm series mass early cycle";

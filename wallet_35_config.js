@@ -1,1 +1,1 @@
-var mnemonic = "doll video tobacco spot town purpose buyer achieve sad fox alien crawl";
+var mnemonic = "mango truck essence quiz stadium risk title nice brisk country hurry profit";

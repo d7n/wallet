@@ -1,1 +1,1 @@
-var mnemonic = "sing frozen private journey trophy quantum middle toilet fancy dash absurd useless";
+var mnemonic = "sketch amused next dish raw plug salmon early bone solar trash crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve cabbage course win viable purpose opera dry margin canal cook save";
+var mnemonic = "oyster dinosaur square add thunder atom narrow afford powder net lift hazard";

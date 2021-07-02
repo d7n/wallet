@@ -1,1 +1,1 @@
-var mnemonic = "clinic ring silver second demand reunion shoe upgrade when garment cigar habit";
+var mnemonic = "huge case detail rival oak crunch random deal satoshi island dry detect";

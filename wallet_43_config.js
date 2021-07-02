@@ -1,1 +1,1 @@
-var mnemonic = "box ivory lamp knife shrug promote flat empower deny clap diet radio";
+var mnemonic = "pull tennis roast gesture treat dolphin polar few employ diagram just online";

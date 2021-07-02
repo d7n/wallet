@@ -1,1 +1,1 @@
-var mnemonic = "awful lucky isolate off capable prevent rug cattle term flight ecology cave";
+var mnemonic = "indoor rug merge health jelly sick alpha flavor giggle cruise slide suggest";

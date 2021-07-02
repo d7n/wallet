@@ -1,1 +1,1 @@
-var mnemonic = "connect frequent dizzy during winner option certain burden where banana enact mention";
+var mnemonic = "chair bean minimum open old humor pilot describe runway top hungry economy";

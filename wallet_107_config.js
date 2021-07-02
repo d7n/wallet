@@ -1,1 +1,1 @@
-var mnemonic = "moon crumble cactus waste weasel attract repair glove arrive spy awkward modify";
+var mnemonic = "tobacco opera shy beauty sort dumb glory theme impulse dose glimpse section";

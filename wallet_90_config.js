@@ -1,1 +1,1 @@
-var mnemonic = "staff account work away inside echo valid cactus exact regret argue inherit";
+var mnemonic = "erupt curve captain double involve whisper squirrel culture enlist invite fatigue stereo";

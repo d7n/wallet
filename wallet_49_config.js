@@ -1,1 +1,1 @@
-var mnemonic = "private weasel primary own smart path donor judge chase almost spoil comfort";
+var mnemonic = "drip fun pattern outdoor recycle picture brown guard clump hidden myself priority";

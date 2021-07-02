@@ -1,1 +1,1 @@
-var mnemonic = "lizard rain era athlete base spike swim hello debris error toddler topple";
+var mnemonic = "affair brief nut puppy charge weather journey surface dawn way copy blanket";

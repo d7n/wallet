@@ -1,1 +1,1 @@
-var mnemonic = "include birth milk belt badge minimum cattle mix social various stage true";
+var mnemonic = "sail hungry media purse quiz labor regret neck filter grow foot exile";

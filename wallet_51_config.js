@@ -1,1 +1,1 @@
-var mnemonic = "essence session icon manual sun rhythm promote admit setup marble middle sausage";
+var mnemonic = "cross payment smoke civil august when flash foil coin interest burden awful";

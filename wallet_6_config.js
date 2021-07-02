@@ -1,1 +1,1 @@
-var mnemonic = "color choice admit pipe switch onion modify mango meadow cage image curve";
+var mnemonic = "gravity tuna topic company spring umbrella angry earth program ocean goat timber";

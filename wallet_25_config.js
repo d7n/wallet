@@ -1,1 +1,1 @@
-var mnemonic = "magic airport later tail poverty fiction post blanket critic there piece degree";
+var mnemonic = "modify sunset label rug wrong fuel sentence hat reopen cliff violin ask";

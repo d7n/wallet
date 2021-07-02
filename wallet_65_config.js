@@ -1,1 +1,1 @@
-var mnemonic = "afraid pride elite loud install exile weather wall milk canoe climb around";
+var mnemonic = "open all faculty faint negative noise priority win rifle drill charge screen";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze struggle book arrow tobacco orient organ accident debris broom feature escape";
+var mnemonic = "source liberty history busy meadow buffalo float into recall obey fame front";

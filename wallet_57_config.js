@@ -1,1 +1,1 @@
-var mnemonic = "parrot involve warfare elite response lemon edge elevator reject column truck elephant";
+var mnemonic = "finish cup mass shiver slide kite elite daughter omit jaguar sister brave";

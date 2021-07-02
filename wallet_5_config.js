@@ -1,1 +1,1 @@
-var mnemonic = "blind blush salad injury priority merit blouse length tiger bus pledge toe";
+var mnemonic = "antique truck mule tenant kiss one enough craft clutch unique medal swarm";

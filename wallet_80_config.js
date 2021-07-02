@@ -1,1 +1,1 @@
-var mnemonic = "clean crisp grid until pen nut possible kite mystery rigid spoil surround";
+var mnemonic = "hundred never winner peanut monkey confirm guitar ring another mansion rookie huge";

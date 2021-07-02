@@ -1,1 +1,1 @@
-var mnemonic = "illness kick alcohol rose theme forum raven future enjoy dinosaur chunk rule";
+var mnemonic = "power tube traffic crane dust enough tunnel blue beyond isolate hurry gaze";

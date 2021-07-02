@@ -1,1 +1,1 @@
-var mnemonic = "donor shine arctic again stand bitter diamond step burst field deposit index";
+var mnemonic = "duty stay inherit stage coyote fruit innocent bring deposit skate legal choice";

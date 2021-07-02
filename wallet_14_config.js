@@ -1,1 +1,1 @@
-var mnemonic = "south expose invest senior act act mention oval tornado congress age city";
+var mnemonic = "carry myth local alien piece remind soon vacant curve repair correct excuse";

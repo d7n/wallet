@@ -1,1 +1,1 @@
-var mnemonic = "mix ride evolve type april orient sorry test blood club penalty car";
+var mnemonic = "hire hour cruise inflict fiscal mutual student scout art various about rack";

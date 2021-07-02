@@ -1,1 +1,1 @@
-var mnemonic = "inmate erupt print soccer pool frog ordinary arrange parade act urban obscure";
+var mnemonic = "child again energy food use road blush journey polar notable acquire humor";
