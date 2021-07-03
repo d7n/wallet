@@ -1,1 +1,1 @@
-var mnemonic = "north nation dish violin push amused science inch stumble mystery weather device";
+var mnemonic = "ribbon juice holiday fit noise grit virtual slide goose fragile scout melt";

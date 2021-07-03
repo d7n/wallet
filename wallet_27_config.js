@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow help stay dog output hidden tiger quick scrub below pig shiver";
+var mnemonic = "slow exit jelly alter combine goddess master dynamic soap series rare possible";

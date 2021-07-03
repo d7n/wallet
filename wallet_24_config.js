@@ -1,1 +1,1 @@
-var mnemonic = "hire either minimum west replace grain clap liquid happy wealth pattern toward";
+var mnemonic = "brother prison fish boost grace artist captain west combine link endless cargo";

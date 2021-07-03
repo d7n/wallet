@@ -1,1 +1,1 @@
-var mnemonic = "endorse material mosquito middle lunar glory this brass young very today web";
+var mnemonic = "plate consider empty piece jaguar library movie ramp wisdom club easily unveil";

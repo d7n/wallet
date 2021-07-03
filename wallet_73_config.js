@@ -1,1 +1,1 @@
-var mnemonic = "lecture general kit dynamic supply pony ceiling concert scale garlic delay shift";
+var mnemonic = "gentle bamboo lottery garage luxury language beyond tooth nuclear pill mass ticket";

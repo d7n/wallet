@@ -1,1 +1,1 @@
-var mnemonic = "owner primary theory inject grunt leave stumble arrive verify obtain verify excite";
+var mnemonic = "fall disagree observe urge spike distance screen early tent buddy ecology region";

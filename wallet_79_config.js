@@ -1,1 +1,1 @@
-var mnemonic = "mind actress enemy glass base baby swift nest portion giggle outdoor laugh";
+var mnemonic = "already argue seed replace divorce total total castle liberty decorate invite axis";

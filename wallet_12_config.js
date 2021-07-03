@@ -1,1 +1,1 @@
-var mnemonic = "faculty balcony inmate card forget asset slush garage hold sniff chicken cabin";
+var mnemonic = "they time popular volcano thumb rare offer toe blue matrix diet gravity";

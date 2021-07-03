@@ -1,1 +1,1 @@
-var mnemonic = "fox shaft feature spring bomb shop case despair early diary afford town";
+var mnemonic = "utility weather pudding spoon club match capable blame park soda tragic domain";

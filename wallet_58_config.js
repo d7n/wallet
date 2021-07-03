@@ -1,1 +1,1 @@
-var mnemonic = "slim fuel place harbor decade twenty toddler fence parent silk obey half";
+var mnemonic = "twelve report group topple initial keen twist awake seat there start juice";

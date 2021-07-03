@@ -1,1 +1,1 @@
-var mnemonic = "expand blossom argue pluck organ chair jar mimic seat crystal jewel vanish";
+var mnemonic = "clarify inmate spawn fence violin mystery village illegal bar butter click file";

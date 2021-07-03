@@ -1,1 +1,1 @@
-var mnemonic = "estate hamster decrease caught injury expect scare certain image verb aisle record";
+var mnemonic = "pipe lottery funny exotic matrix lizard ridge magic happy achieve fee canyon";

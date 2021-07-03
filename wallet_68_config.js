@@ -1,1 +1,1 @@
-var mnemonic = "giant assist detect art remain sniff mansion polar neutral autumn meadow sketch";
+var mnemonic = "clerk wisdom wood dose solid there august leg entry pipe burst awful";

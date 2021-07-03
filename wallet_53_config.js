@@ -1,1 +1,1 @@
-var mnemonic = "wedding broken behave twist film gaze boss quit dizzy awkward diesel toss";
+var mnemonic = "cloth example spatial steak wonder flight minor machine grief animal cream session";

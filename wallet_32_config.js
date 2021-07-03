@@ -1,1 +1,1 @@
-var mnemonic = "helmet uncover marriage earth clarify left addict panther mistake argue trash announce";
+var mnemonic = "execute bubble chaos dice arm horn label silent teach satisfy kiwi lake";

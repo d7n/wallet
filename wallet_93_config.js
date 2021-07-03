@@ -1,1 +1,1 @@
-var mnemonic = "injury repair engine catalog huge object require zero sure lab marriage lecture";
+var mnemonic = "solar tennis bus giant answer ginger release kick drama arch picnic damage";

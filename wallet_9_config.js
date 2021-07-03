@@ -1,1 +1,1 @@
-var mnemonic = "must find wave judge grief swim viable clown country melody coffee chapter";
+var mnemonic = "divert donkey blossom happy unusual confirm zone distance know steak hope east";

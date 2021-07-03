@@ -1,1 +1,1 @@
-var mnemonic = "label oak inspire person layer edit circle clean black walk strike dwarf";
+var mnemonic = "mirror happy chaos lake that puppy absorb casual fence rain price lazy";

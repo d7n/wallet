@@ -1,1 +1,1 @@
-var mnemonic = "theme session used bomb patrol junk arm behave chaos trumpet panther present";
+var mnemonic = "ostrich grant balance tiny that monster grab enroll rigid notable cause love";

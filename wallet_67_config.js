@@ -1,1 +1,1 @@
-var mnemonic = "hybrid legend rocket prepare rocket day swarm alpha ticket nice shell prize";
+var mnemonic = "version now fork peanut awkward alarm three tomato iron harbor kid electric";

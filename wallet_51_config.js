@@ -1,1 +1,1 @@
-var mnemonic = "smoke puzzle weapon initial hotel laugh panda glue blind alley mimic farm";
+var mnemonic = "act icon traffic worth stock ill truly rifle future tongue quiz sign";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz relief cruise now remain stamp episode gain best rich jump derive";
+var mnemonic = "hip isolate paper tree energy insect surge suit still situate deal achieve";

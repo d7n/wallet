@@ -1,1 +1,1 @@
-var mnemonic = "antenna enable faculty able vacuum plastic picnic exotic column legend ketchup poverty";
+var mnemonic = "group audit close piece camp moral warrior stairs banana empty slender supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton glare blade organ submit frame meat gain caution fabric shop parade";
+var mnemonic = "ribbon minor pave error fog flame prevent auto skull custom exercise royal";

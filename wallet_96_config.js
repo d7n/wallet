@@ -1,1 +1,1 @@
-var mnemonic = "boil fun sail pair much source wall stage suffer often crumble window";
+var mnemonic = "twist lesson stuff valley clump tongue elevator organ gym opera olympic parade";

@@ -1,1 +1,1 @@
-var mnemonic = "tree excuse mention candy visa exile drastic loan arena whisper flavor novel";
+var mnemonic = "cake virus useful flavor learn scrap biology aim sort anchor hungry curve";

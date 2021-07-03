@@ -1,1 +1,1 @@
-var mnemonic = "razor visa oxygen area asthma lucky actress slot egg old bike reduce";
+var mnemonic = "skin invest fabric together bottom cash armor found truly sound inject life";

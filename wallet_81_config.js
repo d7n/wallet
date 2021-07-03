@@ -1,1 +1,1 @@
-var mnemonic = "raise arena cover tortoise provide riot person salmon sound slush zero human";
+var mnemonic = "kitchen decide shock help zebra knock fiber bleak sketch physical broccoli festival";

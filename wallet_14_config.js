@@ -1,1 +1,1 @@
-var mnemonic = "gauge sort rice cheap detect point frame page copper error pigeon opera";
+var mnemonic = "gospel remove wedding pause gym toddler exclude ill enlist animal lake time";

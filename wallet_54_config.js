@@ -1,1 +1,1 @@
-var mnemonic = "turn soap below stand truth crane town earn omit awful grab trust";
+var mnemonic = "twenty later discover where sound charge script eagle ahead raise hurry recipe";

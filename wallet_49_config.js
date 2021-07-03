@@ -1,1 +1,1 @@
-var mnemonic = "race pond frown switch tape wish fringe stick emotion check leave that";
+var mnemonic = "give worth job narrow reward panda sausage two figure replace office stick";

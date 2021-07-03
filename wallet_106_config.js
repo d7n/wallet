@@ -1,1 +1,1 @@
-var mnemonic = "knock danger maze envelope caution public deposit fly soup crime unusual digital";
+var mnemonic = "talk repeat nation praise stamp civil actress leg winner elite fatigue lonely";

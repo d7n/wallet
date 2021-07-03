@@ -1,1 +1,1 @@
-var mnemonic = "valid safe happy kiwi laundry tray mix palace kind pony page nothing";
+var mnemonic = "drift until innocent length palm burst sugar pony aspect office inside document";

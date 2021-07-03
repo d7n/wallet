@@ -1,1 +1,1 @@
-var mnemonic = "interest garbage nut panic deer false obtain trouble student hungry pilot bench";
+var mnemonic = "outer sad impose amateur brush oil grief present fade wet essence barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "patient length rice vital turkey unknown file together judge mammal name foster";
+var mnemonic = "search occur sort summer gauge feed control horror orient attend profit crush";

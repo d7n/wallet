@@ -1,1 +1,1 @@
-var mnemonic = "holiday shop flame excuse gain ice torch lock wreck burst program smart";
+var mnemonic = "demise tree later gift point hero bubble fault never stove mail bulk";

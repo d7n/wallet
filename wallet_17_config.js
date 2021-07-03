@@ -1,1 +1,1 @@
-var mnemonic = "success ecology spice case sword end mountain sure bundle ball foot convince";
+var mnemonic = "abstract shed page acoustic spike gallery stairs purity exchange fence relief demise";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow vehicle venue assume enforce say tennis loud logic radio roof hotel";
+var mnemonic = "input purpose owner fiction perfect juice lock warrior novel lens manual juice";

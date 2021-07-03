@@ -1,1 +1,1 @@
-var mnemonic = "tooth ranch maid rigid toward style drastic giant canyon upon universe zone";
+var mnemonic = "join faith smile mouse mango corn world response salt blind clay outer";

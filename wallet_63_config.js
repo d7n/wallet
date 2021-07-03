@@ -1,1 +1,1 @@
-var mnemonic = "best detail laugh token subject mind awake pear render dentist crater carry";
+var mnemonic = "silly note rug fruit leader earn uniform neglect feed caught normal thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "corn dry payment nice supreme wisdom tribe unhappy major wife episode shift";
+var mnemonic = "book siren abstract wait shuffle hurdle pet month breeze disagree turkey prepare";

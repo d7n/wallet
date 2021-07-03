@@ -1,1 +1,1 @@
-var mnemonic = "tongue office athlete cube person reduce stumble pyramid clip flavor aware urban";
+var mnemonic = "wing guess purity purity employ hole soda coin super between hungry small";

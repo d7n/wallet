@@ -1,1 +1,1 @@
-var mnemonic = "huge cliff close equip prevent alpha glance build escape earth wire screen";
+var mnemonic = "jewel various conduct tape solve fragile party horn cabin layer pond code";

@@ -1,1 +1,1 @@
-var mnemonic = "crater ten must remind north silver wrist view casino mother tent comic";
+var mnemonic = "husband loud develop country lend mouse alarm comic else real miracle ill";

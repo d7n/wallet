@@ -1,1 +1,1 @@
-var mnemonic = "hood opera emotion under claw zoo glass lobster praise sail glimpse refuse";
+var mnemonic = "loud bacon unit link aerobic drink next silver girl clay license prevent";

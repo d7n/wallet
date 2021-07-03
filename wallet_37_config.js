@@ -1,1 +1,1 @@
-var mnemonic = "clump broom apology color life vague goddess secret impulse myth icon label";
+var mnemonic = "juice old protect cost stone someone fork pond wedding vibrant faith pulp";

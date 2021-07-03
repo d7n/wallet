@@ -1,1 +1,1 @@
-var mnemonic = "angry vehicle tube toast kitchen employ bullet bleak glass bench habit deliver";
+var mnemonic = "drink video mix boost hospital pass shoot under genuine improve buddy rather";

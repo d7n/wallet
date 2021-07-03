@@ -1,1 +1,1 @@
-var mnemonic = "fault rescue buyer very toast brief inner involve erupt diesel boring orchard";
+var mnemonic = "balcony range vault flip ecology ketchup daughter lunar consider harvest elbow rebel";

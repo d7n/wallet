@@ -1,1 +1,1 @@
-var mnemonic = "want sketch enjoy unknown comic ridge nerve consider peanut resource post code";
+var mnemonic = "soda dice vibrant universe erosion pig hammer help wet wild joke near";

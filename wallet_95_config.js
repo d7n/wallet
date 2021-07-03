@@ -1,1 +1,1 @@
-var mnemonic = "total sibling fog crowd prosper leave wrong ten motion guitar again shallow";
+var mnemonic = "barely reveal cream glory trend razor kit case senior thumb gossip level";

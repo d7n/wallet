@@ -1,1 +1,1 @@
-var mnemonic = "tray wheel spot peace left turkey enter defy twist keen cram opera";
+var mnemonic = "sibling cigar minor private gossip extend frost endorse foot purse biology artist";

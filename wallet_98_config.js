@@ -1,1 +1,1 @@
-var mnemonic = "friend miracle wash august evil dizzy link agree either acid dutch first";
+var mnemonic = "share dolphin winner glory cushion acoustic material street brown bargain level border";

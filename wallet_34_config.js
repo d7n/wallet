@@ -1,1 +1,1 @@
-var mnemonic = "avoid pause uncle dwarf glory annual execute float nasty simple comfort drum";
+var mnemonic = "forest auto amateur wire stumble false dose seminar water actress fabric state";

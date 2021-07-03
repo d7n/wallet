@@ -1,1 +1,1 @@
-var mnemonic = "dream ball satoshi hold truly addict unfold cliff trophy visit choose theme";
+var mnemonic = "hurt obscure dignity alter space pond mirror seek desk zebra wage wealth";

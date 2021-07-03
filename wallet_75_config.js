@@ -1,1 +1,1 @@
-var mnemonic = "asthma virus survey tragic document bacon stuff hint lecture reward inject depth";
+var mnemonic = "melt bench column crucial school debris favorite judge practice helmet sustain spring";

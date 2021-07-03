@@ -1,1 +1,1 @@
-var mnemonic = "top relax leader resource harbor aerobic horse cloud flee flag vapor angle";
+var mnemonic = "reject lazy someone section material wreck march tube there stuff find slow";

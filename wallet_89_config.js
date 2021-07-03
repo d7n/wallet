@@ -1,1 +1,1 @@
-var mnemonic = "connect boost category embark canal endorse bone loop evoke muscle mix spray";
+var mnemonic = "normal leaf neither ensure draft wall slide increase armor price ten slab";

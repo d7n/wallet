@@ -1,1 +1,1 @@
-var mnemonic = "affair whip carry find tuna know inside memory weapon bench receive human";
+var mnemonic = "pelican analyst grunt north infant round public dress attack good insect write";

@@ -1,1 +1,1 @@
-var mnemonic = "system phone busy luxury grunt maze vivid answer bachelor quick bunker crop";
+var mnemonic = "juice lunar siege siege castle dumb brand hawk fork alley tunnel recall";

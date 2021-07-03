@@ -1,1 +1,1 @@
-var mnemonic = "magic disease between search space chat note assist certain imitate index since";
+var mnemonic = "cool citizen describe purpose salt color smart stomach absent month flee behave";

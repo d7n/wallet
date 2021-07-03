@@ -1,1 +1,1 @@
-var mnemonic = "rare raw index safe inside burden catch kitchen bar day radio under";
+var mnemonic = "dignity deputy arrest universe empty learn vicious pact potato thunder mechanic marriage";

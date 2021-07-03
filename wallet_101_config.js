@@ -1,1 +1,1 @@
-var mnemonic = "embark plunge myth good rookie fame real tree client boss common actress";
+var mnemonic = "atom shock reveal beyond mix lunar cereal cover air street brick try";

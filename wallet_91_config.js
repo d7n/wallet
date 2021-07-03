@@ -1,1 +1,1 @@
-var mnemonic = "used pact wink insane win merge leg question gas tribe canvas spoon";
+var mnemonic = "firm fancy dwarf salon urge toward harvest you bicycle hamster diesel drill";

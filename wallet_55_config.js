@@ -1,1 +1,1 @@
-var mnemonic = "detect omit lesson grocery web hello candy main injury grape surge hip";
+var mnemonic = "noise beyond exit neglect lend sail rather diesel flag conduct large minute";

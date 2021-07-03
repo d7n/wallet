@@ -1,1 +1,1 @@
-var mnemonic = "will teach battle wave endless minor body sad life raise cover filter";
+var mnemonic = "between deliver weekend portion few wave soft cargo mountain nose film layer";

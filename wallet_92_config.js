@@ -1,1 +1,1 @@
-var mnemonic = "fiscal strong firm suit dice song runway crumble radio entire huge prevent";
+var mnemonic = "slim gasp soldier razor talent guitar grace dream country region gauge airport";

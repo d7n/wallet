@@ -1,1 +1,1 @@
-var mnemonic = "that still few word text try survey dinosaur knife scatter flip index";
+var mnemonic = "maple actual choice devote motor van behave tuna anxiety fit senior usual";

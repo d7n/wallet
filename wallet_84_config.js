@@ -1,1 +1,1 @@
-var mnemonic = "stadium same rebel work volume obscure mass object across joy circle nut";
+var mnemonic = "cabin maximum lottery blush provide people twin pupil kick health duck security";

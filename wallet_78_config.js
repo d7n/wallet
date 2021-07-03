@@ -1,1 +1,1 @@
-var mnemonic = "liberty wide busy inquiry charge inmate wild emerge eager blur hunt practice";
+var mnemonic = "soft way truth friend okay method crew feature idle december involve bicycle";

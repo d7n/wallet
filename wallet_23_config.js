@@ -1,1 +1,1 @@
-var mnemonic = "minute gorilla exile course mandate solid news alien maple cinnamon into knife";
+var mnemonic = "else feature phone deposit taxi loyal circle double wagon crucial fresh false";

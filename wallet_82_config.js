@@ -1,1 +1,1 @@
-var mnemonic = "color later card pelican window concert section soccer clump cotton post one";
+var mnemonic = "bread egg noise color leave case spring ivory smoke thank soup armed";

@@ -1,1 +1,1 @@
-var mnemonic = "oval citizen satoshi bracket gas year badge target similar estate since juice";
+var mnemonic = "valve possible fatal version police walk digital leisure slide tobacco donkey patrol";

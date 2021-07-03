@@ -1,1 +1,1 @@
-var mnemonic = "paddle resource canvas lens senior debris crazy core negative idea burger kiss";
+var mnemonic = "around maximum nut vapor about gas sword retreat cabbage beef shed boat";

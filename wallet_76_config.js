@@ -1,1 +1,1 @@
-var mnemonic = "pitch candy praise hospital monster pride goddess knee trigger arctic caution remind";
+var mnemonic = "essay level sadness wrist knee canoe estate rate nasty pink awake envelope";

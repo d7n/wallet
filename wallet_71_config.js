@@ -1,1 +1,1 @@
-var mnemonic = "agent excuse bounce trust deal solve milk sorry skin useful emerge age";
+var mnemonic = "small trust twist drift horse snow today fury identify organ tongue hold";

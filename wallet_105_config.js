@@ -1,1 +1,1 @@
-var mnemonic = "shadow final approve angry fix topple dry child enrich lazy buzz rent";
+var mnemonic = "engage fossil quit float sort blind recipe orphan pulp oak ride fly";

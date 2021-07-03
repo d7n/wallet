@@ -1,1 +1,1 @@
-var mnemonic = "blue shift track source potato mechanic build suffer notable deliver hat adapt";
+var mnemonic = "boost toilet resource object narrow caution regular coin parent endless ticket puppy";

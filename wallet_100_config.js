@@ -1,1 +1,1 @@
-var mnemonic = "review dentist pet badge taxi wrong large grace pony acid bitter sign";
+var mnemonic = "parade caution move dynamic teach panic target skull camera similar able left";

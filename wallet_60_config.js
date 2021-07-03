@@ -1,1 +1,1 @@
-var mnemonic = "differ limb village sport barely urban mean prepare group maid mother family";
+var mnemonic = "glance valley company depth frozen cloud hand scorpion found master inhale immune";

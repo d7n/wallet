@@ -1,1 +1,1 @@
-var mnemonic = "obscure legal organ win title sting entire noise mix load spawn must";
+var mnemonic = "document math bamboo era diagram describe convince fluid waste fever cross kit";

@@ -1,1 +1,1 @@
-var mnemonic = "whale banana metal distance payment harvest mom profit ability venture arch slam";
+var mnemonic = "alarm turkey there sponsor farm edge secret dentist wood banana water rule";

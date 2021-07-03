@@ -1,1 +1,1 @@
-var mnemonic = "punch afraid album deputy conduct rescue state giant midnight stock there clown";
+var mnemonic = "camera confirm pencil coconut gas endorse enforce section proof exist excess soda";

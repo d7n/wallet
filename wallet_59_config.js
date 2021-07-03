@@ -1,1 +1,1 @@
-var mnemonic = "genius blind host click involve fever amused village gossip figure later submit";
+var mnemonic = "into leader time lens engine pony buffalo cement daughter mirror melody typical";

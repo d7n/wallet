@@ -1,1 +1,1 @@
-var mnemonic = "torch parrot skill annual kidney bicycle reward blade sign elite pyramid rose";
+var mnemonic = "maple fly shoot version diagram awesome seek lobster resource sketch marriage breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "feel paddle crunch raw tobacco century damage genre simple ten kitchen input";
+var mnemonic = "idea three around daring destroy piano monster divide believe round caught asthma";

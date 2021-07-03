@@ -1,1 +1,1 @@
-var mnemonic = "assist material crumble balance chest dune track annual legal basic crime case";
+var mnemonic = "dune maze mountain slot chuckle buddy ensure stuff box design fresh festival";

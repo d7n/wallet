@@ -1,1 +1,1 @@
-var mnemonic = "good vendor seed tone main kidney dentist rocket welcome warfare unique else";
+var mnemonic = "direct jealous utility dawn shift legal ostrich tiger shallow suggest heart impulse";

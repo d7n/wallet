@@ -1,1 +1,1 @@
-var mnemonic = "frost behave cabbage empty orient ability wave picnic turkey talk toy crumble";
+var mnemonic = "crash icon menu decorate topic safe anger young pizza adjust solution egg";
