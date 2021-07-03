@@ -1,1 +1,1 @@
-var mnemonic = "quit behave prize spirit vital wire buddy army laptop envelope hazard mouse";
+var mnemonic = "prefer student cave junk novel evolve layer route hammer pave spend base";

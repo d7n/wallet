@@ -1,1 +1,1 @@
-var mnemonic = "prefer praise tag author blade rigid change flight nose swap alarm brick";
+var mnemonic = "sponsor rain blast source noble spring unfair emotion eternal pulp strategy climb";

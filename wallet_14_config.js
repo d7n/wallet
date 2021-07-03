@@ -1,1 +1,1 @@
-var mnemonic = "purity film orchard swallow busy raccoon between seed antenna visual foam arctic";
+var mnemonic = "slender author garden say boat myth try crisp cruise legend hand float";

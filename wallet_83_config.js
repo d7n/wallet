@@ -1,1 +1,1 @@
-var mnemonic = "rule game blur myth fitness repair toe myself drink tone slot shallow";
+var mnemonic = "trouble unusual gold admit gaze grace toy wing dash remember kingdom execute";

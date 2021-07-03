@@ -1,1 +1,1 @@
-var mnemonic = "oval anchor duty animal stomach video caution old puppy orange moment salon";
+var mnemonic = "enable uniform demise coin autumn toddler coconut release sign giant either young";

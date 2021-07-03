@@ -1,1 +1,1 @@
-var mnemonic = "dumb mind metal scale conduct consider window involve hood gown pink shop";
+var mnemonic = "poverty april endless undo trend acoustic ranch wide flee benefit boost combine";

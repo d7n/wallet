@@ -1,1 +1,1 @@
-var mnemonic = "accuse street top idle reflect final entry knee glance clinic gold mad";
+var mnemonic = "patrol crane body infant fee legend cube liar shift drama term kite";

@@ -1,1 +1,1 @@
-var mnemonic = "electric ring response stuff april eye cousin silly pledge pattern toilet climb";
+var mnemonic = "clap second neglect dinosaur fatal industry cup cricket dress trick arrest cover";

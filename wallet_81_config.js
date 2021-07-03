@@ -1,1 +1,1 @@
-var mnemonic = "grow mask cherry scare ice deputy lemon program wait lake gorilla topple";
+var mnemonic = "reform learn guilt gravity chunk fit decorate diet rent whisper ahead word";

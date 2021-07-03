@@ -1,1 +1,1 @@
-var mnemonic = "fever have blouse style link love link neglect ahead remove title undo";
+var mnemonic = "trash axis inform earn erosion carpet north manage fiscal above sponsor hen";

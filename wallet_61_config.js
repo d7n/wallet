@@ -1,1 +1,1 @@
-var mnemonic = "detail tissue return cement width blossom napkin venture normal purchase same volume";
+var mnemonic = "aim language dress angle river gym tongue caution siege borrow swift image";

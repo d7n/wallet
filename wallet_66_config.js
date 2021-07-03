@@ -1,1 +1,1 @@
-var mnemonic = "tape gown expect ghost original fatigue scissors wine average debris edge nasty";
+var mnemonic = "actual village all buyer elephant comic add sand pumpkin cart prepare pledge";

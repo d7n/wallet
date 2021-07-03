@@ -1,1 +1,1 @@
-var mnemonic = "day brave year digital coast saddle near margin broken unveil window over";
+var mnemonic = "inherit police thought extra top cave bunker donkey frame hamster space output";

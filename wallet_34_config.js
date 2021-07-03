@@ -1,1 +1,1 @@
-var mnemonic = "rhythm build day void across decade patient shove negative item tumble clean";
+var mnemonic = "dry food bundle bread favorite flock rabbit analyst chunk material alter grocery";

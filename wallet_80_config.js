@@ -1,1 +1,1 @@
-var mnemonic = "connect arm wish input have column proof diesel rebel illegal elbow long";
+var mnemonic = "energy meat goose pioneer almost lake helmet recall hour lounge happy settle";

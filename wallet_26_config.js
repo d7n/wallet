@@ -1,1 +1,1 @@
-var mnemonic = "flee bid humble risk dirt physical thunder height nephew fossil banner drip";
+var mnemonic = "canal prevent priority next limit brain carpet toe fix cotton across baby";

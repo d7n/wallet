@@ -1,1 +1,1 @@
-var mnemonic = "garage curtain travel weasel carry fence pride census mango dad win around";
+var mnemonic = "possible timber job fetch time must picnic bullet miss invest enable sustain";

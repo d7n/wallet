@@ -1,1 +1,1 @@
-var mnemonic = "grace ignore annual slab spell oppose enjoy market health wing receive slender";
+var mnemonic = "chicken decorate idle barely phrase prize fold confirm destroy grid another today";

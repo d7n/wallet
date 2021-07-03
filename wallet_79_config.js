@@ -1,1 +1,1 @@
-var mnemonic = "bunker spoil element west shrimp infant divorce release old belt have nuclear";
+var mnemonic = "three glass topple grain wire lounge frequent stick swarm awful doll emotion";

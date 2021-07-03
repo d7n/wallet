@@ -1,1 +1,1 @@
-var mnemonic = "list vacant immune sheriff curious world rabbit sun avoid cup text main";
+var mnemonic = "only where phrase voyage message labor laptop fashion unaware now swear predict";

@@ -1,1 +1,1 @@
-var mnemonic = "often almost analyst vacant drill amazing guilt unfold reduce sleep badge sell";
+var mnemonic = "proof sight merry zone roof live view success island meat depend whip";

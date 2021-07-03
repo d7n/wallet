@@ -1,1 +1,1 @@
-var mnemonic = "mention used loyal shift stage suspect horse often inner pulp ginger husband";
+var mnemonic = "joy illness prevent skull hedgehog hint lecture banner shock wage donor say";

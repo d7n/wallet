@@ -1,1 +1,1 @@
-var mnemonic = "devote tongue march hurdle choice fragile bicycle attract glass replace summer few";
+var mnemonic = "document knee book panther boat lake convince fence update analyst raw ordinary";

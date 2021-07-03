@@ -1,1 +1,1 @@
-var mnemonic = "run volume attend bronze country boil symbol chase region laptop chase sick";
+var mnemonic = "napkin cinnamon attract real yellow embrace welcome brief round depth thrive select";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo prefer rose universe ticket able toe peanut destroy region panda mass";
+var mnemonic = "rose absurd myth one artist ahead autumn school auction figure result motor";

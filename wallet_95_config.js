@@ -1,1 +1,1 @@
-var mnemonic = "give employ dragon area lazy few throw annual exit tuna vicious mean";
+var mnemonic = "hurdle army hard volcano able blind pencil dry sketch shoot grant potato";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm renew offer champion relax network bid man drill cheap shrug kick";
+var mnemonic = "drum page until utility wish piano latin vibrant typical broccoli direct dog";

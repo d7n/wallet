@@ -1,1 +1,1 @@
-var mnemonic = "since carpet wave always grit bacon river panic park three night north";
+var mnemonic = "gap bread garbage warfare cigar mix skin brush couch romance warrior ripple";

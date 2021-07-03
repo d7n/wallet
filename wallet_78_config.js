@@ -1,1 +1,1 @@
-var mnemonic = "drip kit depth village razor convince scrub glove coil sea similar noodle";
+var mnemonic = "there debate gaze raw east snack soup figure frame source blast main";

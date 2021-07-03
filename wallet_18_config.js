@@ -1,1 +1,1 @@
-var mnemonic = "fan thrive essence destroy reform salute shallow crush maximum couch budget answer";
+var mnemonic = "shuffle visual draft crack valve winter original february save beyond kit squeeze";

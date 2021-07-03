@@ -1,1 +1,1 @@
-var mnemonic = "huge maid sport nut dentist unique mention lonely couple mule verify addict";
+var mnemonic = "burst fuel slam kangaroo depart rather assault name tissue snack stove become";

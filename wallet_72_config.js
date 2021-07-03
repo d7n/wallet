@@ -1,1 +1,1 @@
-var mnemonic = "combine emerge toast excuse mammal course resemble jeans brother rabbit hand cube";
+var mnemonic = "battle shield brief half accident swap tiger spice fruit cinnamon gravity knee";

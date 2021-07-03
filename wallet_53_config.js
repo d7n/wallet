@@ -1,1 +1,1 @@
-var mnemonic = "shadow travel vapor theory bubble coral grass renew victory resist access capable";
+var mnemonic = "marriage universe plunge minute tortoise aerobic window output allow typical shrug high";

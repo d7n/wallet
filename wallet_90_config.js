@@ -1,1 +1,1 @@
-var mnemonic = "bar abandon purpose purse west pipe approve midnight loan subject cage sausage";
+var mnemonic = "alone mobile glove they cigar bone crumble child gun dress zone again";

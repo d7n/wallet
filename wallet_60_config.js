@@ -1,1 +1,1 @@
-var mnemonic = "region maximum cattle motion talk trumpet swear shoe test rough divert icon";
+var mnemonic = "legend inner urge caution pond define bulk taxi resemble bullet top verb";

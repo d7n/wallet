@@ -1,1 +1,1 @@
-var mnemonic = "message current flip chief laundry staff slogan rabbit appear yellow sausage raise";
+var mnemonic = "head write order ready turn dentist visual place eyebrow hover protect nest";

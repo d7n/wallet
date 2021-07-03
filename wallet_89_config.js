@@ -1,1 +1,1 @@
-var mnemonic = "palace health shrimp latin broom scatter palm proof pink warm priority chunk";
+var mnemonic = "shop hedgehog practice food thunder crime lobster baby veteran silly maximum outdoor";

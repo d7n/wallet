@@ -1,1 +1,1 @@
-var mnemonic = "busy bring genius capital innocent any phrase economy entry december blast kid";
+var mnemonic = "shed cigar unable gloom guilt opera mad fury math paddle goose fever";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage present office veteran comic round cancel bike sword tissue scout emotion";
+var mnemonic = "scissors source denial symptom idle pride flock resist patch inside critic armor";

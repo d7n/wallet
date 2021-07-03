@@ -1,1 +1,1 @@
-var mnemonic = "census holiday evidence solve bacon such key inherit differ law snap fade";
+var mnemonic = "glue alpha also chapter midnight until about light dutch maid manage output";

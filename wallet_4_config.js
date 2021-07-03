@@ -1,1 +1,1 @@
-var mnemonic = "orient trend breeze write must top improve brown bench crop work rebuild";
+var mnemonic = "estate pattern pyramid rule dish ready stove gravity typical foster bamboo acoustic";

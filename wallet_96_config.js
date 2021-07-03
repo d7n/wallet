@@ -1,1 +1,1 @@
-var mnemonic = "ensure digital waste solution ranch flight usage major world useful gorilla vote";
+var mnemonic = "decide foam rule unable adapt feel rigid humble twice heart skin novel";

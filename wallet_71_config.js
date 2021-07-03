@@ -1,1 +1,1 @@
-var mnemonic = "major omit urban void young betray engine maid combine include assist grab";
+var mnemonic = "bundle alter market isolate arrive silly exile squirrel cliff push drive arm";

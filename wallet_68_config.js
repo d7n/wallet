@@ -1,1 +1,1 @@
-var mnemonic = "veteran physical member venture unknown apology typical muffin truly deer visit use";
+var mnemonic = "warfare master hundred pair measure symptom muffin feed defy regular okay cabin";

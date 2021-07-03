@@ -1,1 +1,1 @@
-var mnemonic = "umbrella vast south bundle trim still crucial thumb plate prison fish pluck";
+var mnemonic = "athlete valve crew rail caught check cereal range horse sea curious jealous";

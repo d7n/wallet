@@ -1,1 +1,1 @@
-var mnemonic = "monkey dynamic wise mind defy hybrid domain dad crater walk panic coyote";
+var mnemonic = "again grit warrior trumpet another clown major weekend audit frame horn drama";

@@ -1,1 +1,1 @@
-var mnemonic = "embark better already predict phrase detail crane toward plug stay recall success";
+var mnemonic = "cradle dust isolate stay used then coil build pioneer try open slush";

@@ -1,1 +1,1 @@
-var mnemonic = "improve door correct carbon fragile stage noble egg main seminar win loop";
+var mnemonic = "fever helmet organ mobile bachelor more border journey property require market airport";

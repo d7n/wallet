@@ -1,1 +1,1 @@
-var mnemonic = "metal spoil loop pause kitten lens fix iron uniform intact rose point";
+var mnemonic = "comic knife neck undo address water sponsor pepper neglect bubble uphold bounce";

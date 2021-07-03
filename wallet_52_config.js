@@ -1,1 +1,1 @@
-var mnemonic = "ship idle hammer about dad suggest device autumn away account giraffe stand";
+var mnemonic = "link cave risk please essay tumble eagle produce wage plug future aunt";

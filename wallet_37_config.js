@@ -1,1 +1,1 @@
-var mnemonic = "silk indoor admit adapt lucky captain people raise peanut grace idea gold";
+var mnemonic = "shoe venture pride hip sport drastic fine ride resemble clinic tower west";

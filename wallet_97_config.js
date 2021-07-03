@@ -1,1 +1,1 @@
-var mnemonic = "scout canoe fold account wrap worry churn crouch unit giant salute stomach";
+var mnemonic = "observe stomach damp civil mad gym gather chronic avocado focus correct swim";

@@ -1,1 +1,1 @@
-var mnemonic = "blush float roof garlic aware bleak travel roast number life motion wasp";
+var mnemonic = "there patient over parade they capital chapter bless source spoil wine chief";

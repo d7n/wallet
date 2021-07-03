@@ -1,1 +1,1 @@
-var mnemonic = "situate side hollow better medal allow lunch course list input half medal";
+var mnemonic = "glad fitness chronic current small bar attitude grant dynamic replace later price";

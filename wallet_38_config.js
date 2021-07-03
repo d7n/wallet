@@ -1,1 +1,1 @@
-var mnemonic = "west pink zoo equip hen wet job army machine much assume wild";
+var mnemonic = "moment under tornado own guitar client palace priority mechanic palace comic joy";

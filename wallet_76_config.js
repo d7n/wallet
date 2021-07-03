@@ -1,1 +1,1 @@
-var mnemonic = "elegant submit victory cinnamon crouch close reduce crane noodle sniff spoon math";
+var mnemonic = "foster never alien dumb cherry height palm brief wear creek dad wire";

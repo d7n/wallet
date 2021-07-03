@@ -1,1 +1,1 @@
-var mnemonic = "market fiscal corn gossip april nation point casual aspect convince garden hen";
+var mnemonic = "model cat delay snow tongue knock modify nurse scatter flash unit pattern";

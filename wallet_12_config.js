@@ -1,1 +1,1 @@
-var mnemonic = "hour tissue vanish behave parent state miss rug permit will impact swift";
+var mnemonic = "enter horror corn elegant blast stock jump struggle just sing riot hungry";

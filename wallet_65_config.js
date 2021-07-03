@@ -1,1 +1,1 @@
-var mnemonic = "curve usage jazz illegal gentle debate spice elegant powder sunset amused rotate";
+var mnemonic = "holiday term fiction empty cute twice cloud monkey exit page mixed approve";

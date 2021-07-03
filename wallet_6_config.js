@@ -1,1 +1,1 @@
-var mnemonic = "blush sword web surge scheme retreat rule arrive later glide panic rhythm";
+var mnemonic = "power worth strike minute clown wait trust sick tooth light bullet couch";

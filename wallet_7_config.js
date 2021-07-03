@@ -1,1 +1,1 @@
-var mnemonic = "cannon hat involve attract venue banana crisp soap ozone point output risk";
+var mnemonic = "canvas erase dash crazy warm change embark unique favorite knife lyrics gentle";

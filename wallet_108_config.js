@@ -1,1 +1,1 @@
-var mnemonic = "beef sunset long scout shock trend laundry void food minor remove chalk";
+var mnemonic = "basic fashion divert average draw wire legend surge uniform click auto glory";

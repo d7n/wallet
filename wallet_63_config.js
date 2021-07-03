@@ -1,1 +1,1 @@
-var mnemonic = "derive suspect connect list transfer long service bitter output struggle federal practice";
+var mnemonic = "glad camp gauge talent divert double diesel music torch antenna iron turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "dust desk garment industry couple alpha huge apart rubber arm wisdom manage";
+var mnemonic = "wool mimic task embody early whisper sick finish dune oppose toddler trade";

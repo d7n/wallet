@@ -1,1 +1,1 @@
-var mnemonic = "alone dice change lesson flight aunt catalog price orbit lab plate anger";
+var mnemonic = "valid hub remember poet barrel area guilt below hamster such crawl certain";

@@ -1,1 +1,1 @@
-var mnemonic = "duck dumb casino skill beauty curious blanket frost quantum wheel coral couch";
+var mnemonic = "basic cube borrow abuse lottery swing tattoo normal orient happy combine indoor";

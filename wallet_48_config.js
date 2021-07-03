@@ -1,1 +1,1 @@
-var mnemonic = "stereo various produce charge outside hollow theme giraffe wish practice program pulp";
+var mnemonic = "electric symbol gain smoke hour change awful race urge guess warfare choice";

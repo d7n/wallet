@@ -1,1 +1,1 @@
-var mnemonic = "maid region thank turn clerk umbrella ankle cry crawl demise column exhaust";
+var mnemonic = "path ordinary kingdom mango border walk bench cradle excite rabbit mammal quit";

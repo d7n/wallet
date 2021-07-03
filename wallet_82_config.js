@@ -1,1 +1,1 @@
-var mnemonic = "guard alert genius lock urban fluid wash hawk because twice mix retire";
+var mnemonic = "bonus scissors pool neglect sell debris hen alien elder egg mail endorse";

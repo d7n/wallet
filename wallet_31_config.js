@@ -1,1 +1,1 @@
-var mnemonic = "use vapor vital hold hobby oval sport tonight romance shaft hybrid artefact";
+var mnemonic = "slogan one loop penalty gesture cross grain lift honey movie hard dwarf";

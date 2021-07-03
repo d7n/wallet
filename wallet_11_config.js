@@ -1,1 +1,1 @@
-var mnemonic = "embark thank load blade dad maid action super food cinnamon arctic silent";
+var mnemonic = "uncover people much divorce burger space describe fever february friend real cube";

@@ -1,1 +1,1 @@
-var mnemonic = "island merit hospital unable miss cement stand solution million produce recycle lion";
+var mnemonic = "broccoli kangaroo banner reopen hub fringe brother govern raise blossom riot spoil";

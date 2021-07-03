@@ -1,1 +1,1 @@
-var mnemonic = "measure ramp digital merit ladder auto boring capable until language ramp mansion";
+var mnemonic = "skill cause urge memory rapid gap firm duty exchange despair noodle cupboard";

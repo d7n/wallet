@@ -1,1 +1,1 @@
-var mnemonic = "heavy later fly balcony coil wet emotion tree country quality ranch brick";
+var mnemonic = "struggle cook burger rabbit sniff dentist obtain become resist drum volume want";

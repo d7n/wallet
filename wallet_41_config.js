@@ -1,1 +1,1 @@
-var mnemonic = "main blur soccer focus country measure helmet spot unusual cargo wood fold";
+var mnemonic = "sign case mother bullet rice fine claim pink seven collect grass meadow";

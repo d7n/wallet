@@ -1,1 +1,1 @@
-var mnemonic = "hazard fatigue boy blur icon ritual wreck proof letter saddle moral beauty";
+var mnemonic = "pledge code wish syrup clerk promote anchor vintage bleak kiss monster text";

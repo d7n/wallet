@@ -1,1 +1,1 @@
-var mnemonic = "annual helmet above horse depart forward reward ancient flip jaguar switch test";
+var mnemonic = "large tone exhaust express soldier art alley child eight used gap primary";

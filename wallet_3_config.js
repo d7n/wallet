@@ -1,1 +1,1 @@
-var mnemonic = "harvest fire camp wreck sketch original garbage undo cash dismiss remember credit";
+var mnemonic = "machine satisfy humble gloom three enable scheme uphold tobacco inquiry will before";

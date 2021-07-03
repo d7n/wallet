@@ -1,1 +1,1 @@
-var mnemonic = "employ saddle orange lawn reflect garage traffic tiny foot front grow arm";
+var mnemonic = "jazz essay spot flock emotion toe series word where issue napkin oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan vague vote exotic label public decide accuse churn south choose royal";
+var mnemonic = "autumn tragic word sun opera damage fortune foot method staff wire tourist";

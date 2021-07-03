@@ -1,1 +1,1 @@
-var mnemonic = "wire cake innocent assault burden vanish banana success deal rural daring history";
+var mnemonic = "coil atom possible tiger diamond inflict blouse assume very sorry before work";

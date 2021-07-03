@@ -1,1 +1,1 @@
-var mnemonic = "try pause quiz enlist album elevator urban swallow wine flash sadness coil";
+var mnemonic = "empty spawn visual person razor flee father celery donkey accuse emotion trophy";

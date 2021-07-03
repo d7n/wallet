@@ -1,1 +1,1 @@
-var mnemonic = "strike link injury slim myself rough protect neutral whip merit earth couch";
+var mnemonic = "donor hidden attract lonely summer coral journey drum insane correct crater phrase";

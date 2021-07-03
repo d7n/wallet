@@ -1,1 +1,1 @@
-var mnemonic = "daughter toward attitude one position clean pink reform range guitar unveil lens";
+var mnemonic = "copy stool alert upon welcome mesh teach debris cake opera method expand";

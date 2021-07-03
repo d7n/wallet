@@ -1,1 +1,1 @@
-var mnemonic = "strike boss shiver remind wild exile usage crash hamster gadget angry match";
+var mnemonic = "blue wave math vibrant drip prevent episode soon together fold color test";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum other tragic current quiz antenna oyster primary phrase animal area cactus";
+var mnemonic = "axis scene insane prevent silent catch clinic blind flight similar unhappy cricket";

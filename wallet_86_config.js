@@ -1,1 +1,1 @@
-var mnemonic = "until parent luxury glue because way spy price deer sand target silver";
+var mnemonic = "animal love chief decide range eternal shell innocent laptop radio note immense";

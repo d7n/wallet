@@ -1,1 +1,1 @@
-var mnemonic = "fog glow peasant own ripple wife honey obey master spare renew crazy";
+var mnemonic = "gravity accident mind skin execute hobby snake aware tuition poet sister zebra";

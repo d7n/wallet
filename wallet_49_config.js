@@ -1,1 +1,1 @@
-var mnemonic = "ride crack mango capable dice address diesel hold elevator swim perfect identify";
+var mnemonic = "member viable picnic marble charge debris cigar weapon ordinary slot dinner sell";

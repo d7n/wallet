@@ -1,1 +1,1 @@
-var mnemonic = "they stock dismiss nose humble ahead song multiply enroll top upon fork";
+var mnemonic = "clerk train dinosaur refuse glad current unfair actress twelve false bronze certain";

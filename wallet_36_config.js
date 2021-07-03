@@ -1,1 +1,1 @@
-var mnemonic = "slice unlock exile surround split enlist two scare arch firm cloth surround";
+var mnemonic = "fence long clinic glare flip draft type bone question tiny aerobic agent";
