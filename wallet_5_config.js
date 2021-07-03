@@ -1,1 +1,1 @@
-var mnemonic = "museum depth helmet shift trumpet blood jelly culture powder panic isolate gloom";
+var mnemonic = "pond control extend elephant horse kangaroo castle indicate mind idle boring lab";

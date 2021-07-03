@@ -1,1 +1,1 @@
-var mnemonic = "youth bird accuse gesture mandate tent fan fruit sick autumn drive oxygen";
+var mnemonic = "satoshi shock grass bottom brush position state flip people captain swallow dune";

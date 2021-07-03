@@ -1,1 +1,1 @@
-var mnemonic = "cargo evoke what wide acquire round cherry notable ball spring force side";
+var mnemonic = "border citizen audit burst library logic ghost submit profit aim alien oval";

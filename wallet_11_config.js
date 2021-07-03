@@ -1,1 +1,1 @@
-var mnemonic = "mistake inch story absorb liar special pepper ancient lift age donkey frown";
+var mnemonic = "very rifle mushroom salon kite resist snack easily tired correct miss reveal";

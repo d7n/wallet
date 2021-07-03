@@ -1,1 +1,1 @@
-var mnemonic = "raven language tiger enter switch access divide couple jump grief betray fun";
+var mnemonic = "board found buffalo early relief adjust member useless toe drum open canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "spice same cry purpose accident curtain afraid side word jump edge crystal";
+var mnemonic = "achieve steel biology fox issue crew pink suspect sausage scrub category genius";

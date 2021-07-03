@@ -1,1 +1,1 @@
-var mnemonic = "coach common phone fetch raven mango drive approve flip grid monkey topple";
+var mnemonic = "romance install same destroy muffin rhythm heavy soap normal rude camp predict";

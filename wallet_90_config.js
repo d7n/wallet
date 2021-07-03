@@ -1,1 +1,1 @@
-var mnemonic = "thrive urge mixed online slush work furnace isolate bean artwork wing panel";
+var mnemonic = "sphere deliver language unique timber jewel pig ecology merit certain rare wave";

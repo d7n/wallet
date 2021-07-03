@@ -1,1 +1,1 @@
-var mnemonic = "essay nasty cricket pact network clean supply despair bread net fit ask";
+var mnemonic = "grocery canyon patch casino vivid pelican vast resist hood weasel cruise soda";

@@ -1,1 +1,1 @@
-var mnemonic = "scare wide rare neglect census scene curtain into pupil tag blade breeze";
+var mnemonic = "wink spawn during rifle insect vintage toilet swamp industry glad video also";

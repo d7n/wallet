@@ -1,1 +1,1 @@
-var mnemonic = "art visual logic review century team again noble rifle scare quarter run";
+var mnemonic = "hour burden begin tell space protect crater squirrel index skull mesh giraffe";

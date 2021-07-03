@@ -1,1 +1,1 @@
-var mnemonic = "inner input seminar knee clog thunder flock matter outdoor diesel arrive master";
+var mnemonic = "false always pact cradle castle guess buzz rely web panel release inmate";

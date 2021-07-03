@@ -1,1 +1,1 @@
-var mnemonic = "diamond attend grief cry sketch speed dose matter vacant concert month patrol";
+var mnemonic = "loop brown scrub culture crisp video aerobic jazz leaf flower inform few";

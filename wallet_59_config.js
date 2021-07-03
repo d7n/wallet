@@ -1,1 +1,1 @@
-var mnemonic = "social promote walnut scale hybrid strategy vanish napkin assume harsh hospital trouble";
+var mnemonic = "secret talk return congress cargo umbrella anxiety bless client flower worry grief";

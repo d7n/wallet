@@ -1,1 +1,1 @@
-var mnemonic = "awake frown steak possible pull torch joke engage vintage finish shrimp rural";
+var mnemonic = "size category behind carpet clap wait twist civil doll work hazard minimum";

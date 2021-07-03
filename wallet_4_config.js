@@ -1,1 +1,1 @@
-var mnemonic = "beach fancy version bicycle clever accident marriage orient fine useful young cage";
+var mnemonic = "seek apart ship motor degree age insane drastic keep rose tomato spice";

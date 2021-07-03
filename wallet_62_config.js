@@ -1,1 +1,1 @@
-var mnemonic = "three wrap people chalk spirit wrist rail unusual toe news atom useful";
+var mnemonic = "stuff dance wait fence zoo mercy basket enroll final cream robust exclude";

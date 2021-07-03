@@ -1,1 +1,1 @@
-var mnemonic = "grape then tilt tank worry kid logic switch hurdle secret monkey pudding";
+var mnemonic = "narrow obvious organ hobby excuse ahead flip coil hire pear wing vendor";

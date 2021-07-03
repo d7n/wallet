@@ -1,1 +1,1 @@
-var mnemonic = "monkey rain cry occur radar box urge act argue enter kiss napkin";
+var mnemonic = "toe skin segment erupt hungry gap dawn gate aware ticket post armor";

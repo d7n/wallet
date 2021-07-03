@@ -1,1 +1,1 @@
-var mnemonic = "box payment process unusual spring prosper fame inch banner install sphere hockey";
+var mnemonic = "noise fence dizzy medal bonus ticket shoot angry stamp twist pretty obtain";

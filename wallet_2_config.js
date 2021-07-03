@@ -1,1 +1,1 @@
-var mnemonic = "act garbage manage off vintage sleep movie sad quarter either nest vast";
+var mnemonic = "tape unveil hood lemon update rapid doctor property valve wear globe about";

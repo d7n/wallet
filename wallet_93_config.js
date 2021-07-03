@@ -1,1 +1,1 @@
-var mnemonic = "job divide usual satisfy barrel mystery dream home blush more boost toddler";
+var mnemonic = "spare drop sample sorry educate afraid antique rural harsh wrist reunion manual";

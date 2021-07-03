@@ -1,1 +1,1 @@
-var mnemonic = "square armed taste truck drastic pigeon lumber bullet approve hen pink brave";
+var mnemonic = "brisk rib toddler orphan screen caution shock step exotic speed fine december";

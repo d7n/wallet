@@ -1,1 +1,1 @@
-var mnemonic = "steak allow caution coffee salmon ocean verify video rule stairs brain cool";
+var mnemonic = "enroll flavor slim design plastic gaze stock bracket consider square praise vocal";

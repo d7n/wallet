@@ -1,1 +1,1 @@
-var mnemonic = "news exile flower silk attitude cover various mobile run length cotton option";
+var mnemonic = "else pilot lunar empower extra ignore gather dose trial evoke reward exist";

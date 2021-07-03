@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow candy bamboo price distance label govern about aerobic quit nominee general";
+var mnemonic = "bag manual maid raven custom enjoy label width slab hard interest oxygen";

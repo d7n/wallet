@@ -1,1 +1,1 @@
-var mnemonic = "inject magic autumn lemon relax include note pledge stool sand link wide";
+var mnemonic = "exist immense gate nest blue snake crazy drama describe deny gaze physical";

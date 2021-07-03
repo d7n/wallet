@@ -1,1 +1,1 @@
-var mnemonic = "wrap shy swap service planet clip merge purpose gentle couch device age";
+var mnemonic = "jar recall save race slam cactus spike young gossip join check popular";

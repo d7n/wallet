@@ -1,1 +1,1 @@
-var mnemonic = "rose hospital guide stay deny weasel whip winter scout person sick salt";
+var mnemonic = "absorb doctor target beach chalk foster black raise desk axis gadget unfair";

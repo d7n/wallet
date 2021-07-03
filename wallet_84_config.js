@@ -1,1 +1,1 @@
-var mnemonic = "rare degree improve upper little ability situate that forest social pass paper";
+var mnemonic = "boss flight notice nominee wheel wall outside cannon strike hurt city ugly";

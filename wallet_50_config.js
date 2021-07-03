@@ -1,1 +1,1 @@
-var mnemonic = "gallery gold fan rate give circle miracle engine stone web dune cruel";
+var mnemonic = "occur treat mother swim beach yard prosper cruise dilemma flower gospel diamond";

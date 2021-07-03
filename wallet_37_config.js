@@ -1,1 +1,1 @@
-var mnemonic = "enough fly dream strategy disagree diamond raise mandate envelope jungle win robot";
+var mnemonic = "dog bench suspect bracket gossip suggest trap shallow casino private scan ball";

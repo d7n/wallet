@@ -1,1 +1,1 @@
-var mnemonic = "clinic biology enemy frown bitter open churn post target nothing carbon pledge";
+var mnemonic = "two address flash coin gun innocent diary wheat canoe actress economy scout";

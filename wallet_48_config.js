@@ -1,1 +1,1 @@
-var mnemonic = "captain shine devote forward brave snack shove april legal fashion shoe artwork";
+var mnemonic = "category degree tuna rain intact index blush unusual reopen correct foam reduce";

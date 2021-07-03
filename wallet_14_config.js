@@ -1,1 +1,1 @@
-var mnemonic = "tool risk pride net kite knee copy acoustic super eager column relief";
+var mnemonic = "side safe civil arch like snack steak glimpse orphan crazy exact hire";

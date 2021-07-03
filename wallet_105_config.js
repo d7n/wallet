@@ -1,1 +1,1 @@
-var mnemonic = "normal scrub mail lucky total relax spoil fruit cash good embark thumb";
+var mnemonic = "blue baby hidden steak chimney glimpse labor sponsor salute convince reunion battle";

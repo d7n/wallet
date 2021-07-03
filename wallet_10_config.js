@@ -1,1 +1,1 @@
-var mnemonic = "nasty ripple excite alter grocery mushroom armed deal game hat ginger bid";
+var mnemonic = "bomb key unfair roast upgrade tomorrow position clutch process bird toss prepare";

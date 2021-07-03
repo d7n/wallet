@@ -1,1 +1,1 @@
-var mnemonic = "forward enrich frog rifle skull surge point anxiety dinner dash frog try";
+var mnemonic = "giraffe pool arrow settle shoe unfair blade gown crash olympic tool detect";

@@ -1,1 +1,1 @@
-var mnemonic = "plate history unfair hedgehog total prison joy awful cage cloud beef junk";
+var mnemonic = "street machine trip dance identify talk digital knock unfold desk picnic peace";

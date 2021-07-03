@@ -1,1 +1,1 @@
-var mnemonic = "hockey feel degree bid physical agent combine diesel axis shed escape shop";
+var mnemonic = "party hidden receive dream shrimp color road orbit balcony race welcome firm";

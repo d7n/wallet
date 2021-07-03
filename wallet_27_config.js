@@ -1,1 +1,1 @@
-var mnemonic = "drop state smoke cabin spray spoil rally uphold pigeon poem mistake stereo";
+var mnemonic = "sign power expire broccoli syrup must frog onion dial gain pass insect";

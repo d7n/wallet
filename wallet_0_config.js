@@ -1,1 +1,1 @@
-var mnemonic = "fragile mushroom destroy skate task annual move way layer mail book vintage";
+var mnemonic = "forum open harbor brass spray cherry elder inform power scissors patrol pencil";

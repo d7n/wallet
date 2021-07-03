@@ -1,1 +1,1 @@
-var mnemonic = "leg insect worry trophy tackle cheap topic spell arm combine toy bleak";
+var mnemonic = "loan purchase attitude isolate dust tired speak talk intact climb museum round";

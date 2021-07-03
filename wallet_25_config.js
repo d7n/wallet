@@ -1,1 +1,1 @@
-var mnemonic = "banner option render soup mutual nurse bird black glory decade panel tape";
+var mnemonic = "poet lady surprise left ordinary share drop visa dentist chaos suffer small";

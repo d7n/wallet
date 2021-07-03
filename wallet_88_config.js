@@ -1,1 +1,1 @@
-var mnemonic = "skate unaware reward list melody diet rather screen exile cherry slot magnet";
+var mnemonic = "decide toast fantasy act music ridge solid attract essay extra duck library";

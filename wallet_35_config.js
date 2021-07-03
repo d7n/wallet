@@ -1,1 +1,1 @@
-var mnemonic = "merit control brief draft choice begin toilet news act gold inform crawl";
+var mnemonic = "kidney family embark praise drama rug spend purity person bread start nerve";

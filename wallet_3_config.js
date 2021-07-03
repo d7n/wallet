@@ -1,1 +1,1 @@
-var mnemonic = "cycle amazing trophy immune spring garbage flip churn tape word unfair warm";
+var mnemonic = "student collect bar gym scissors coyote pepper orphan unique usage party stove";

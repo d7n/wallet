@@ -1,1 +1,1 @@
-var mnemonic = "faculty glory walk sing fine dutch release orange help grass dress cross";
+var mnemonic = "inner thing walnut economy fiscal mixture annual soon mad sadness endless camp";

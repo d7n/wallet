@@ -1,1 +1,1 @@
-var mnemonic = "maze always quiz armed area quick potato climb rule federal visit earth";
+var mnemonic = "web destroy appear hotel moral lyrics retire top shallow horse perfect benefit";

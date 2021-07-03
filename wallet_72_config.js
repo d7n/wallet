@@ -1,1 +1,1 @@
-var mnemonic = "sing arrow random feed biology room canvas rigid media cause train ocean";
+var mnemonic = "habit steel eager lecture feature visit divert butter elite curious romance fall";

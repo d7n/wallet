@@ -1,1 +1,1 @@
-var mnemonic = "thrive vote evoke neglect grocery century famous cake style enroll pumpkin dress";
+var mnemonic = "fish hard unknown empty demand fold online normal code ceiling laptop wing";

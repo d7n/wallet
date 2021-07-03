@@ -1,1 +1,1 @@
-var mnemonic = "bottom hint gap replace mountain soon allow balcony balance depend arctic flock";
+var mnemonic = "coast where know abstract window target trap essay taste dance evoke pledge";

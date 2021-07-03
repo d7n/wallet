@@ -1,1 +1,1 @@
-var mnemonic = "acid toast pulp survey bone luggage burden finger kitchen front discover unhappy";
+var mnemonic = "bottom carpet spend negative buzz bench agree narrow shell south power clever";

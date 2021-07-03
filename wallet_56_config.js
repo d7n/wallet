@@ -1,1 +1,1 @@
-var mnemonic = "sponsor endorse patrol morning half bracket alter hurt elite squirrel bring fragile";
+var mnemonic = "brain interest hollow puppy hole dash carry pepper crunch favorite nerve squirrel";

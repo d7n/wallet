@@ -1,1 +1,1 @@
-var mnemonic = "easy popular during hidden regret pause session prepare vanish tackle submit electric";
+var mnemonic = "lecture tissue already aerobic victory alpha rookie trend enhance theory either order";

@@ -1,1 +1,1 @@
-var mnemonic = "useful cattle shiver slam gasp crack valve magic onion urban mutual hero";
+var mnemonic = "theory exchange pulp seven trick urge donate erase armed name license blur";

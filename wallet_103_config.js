@@ -1,1 +1,1 @@
-var mnemonic = "aunt stand picnic junior fiction pony quantum weather enjoy alpha harvest miracle";
+var mnemonic = "blind interest affair eight reform since paddle enough biology glance spirit they";

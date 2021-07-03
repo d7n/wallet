@@ -1,1 +1,1 @@
-var mnemonic = "pond middle shine sketch ribbon process easy gloom trip tape destroy arctic";
+var mnemonic = "adjust sleep erupt laugh trigger file cart wise bulb hat same miss";

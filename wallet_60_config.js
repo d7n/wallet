@@ -1,1 +1,1 @@
-var mnemonic = "jungle small fog deal usual jar glad capable quantum destroy view trouble";
+var mnemonic = "taste culture wage often quit whisper apple protect actor inside permit spray";

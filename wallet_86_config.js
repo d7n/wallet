@@ -1,1 +1,1 @@
-var mnemonic = "enjoy detail phrase soup auction dad unknown squeeze ribbon skirt dilemma cigar";
+var mnemonic = "final wheel wave gain cannon flat virtual seven control certain ability stay";

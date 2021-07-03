@@ -1,1 +1,1 @@
-var mnemonic = "nice judge term develop also parade piece spider album large tuna smile";
+var mnemonic = "pulse arrest hero kid armor clarify machine demise case survey alley priority";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil walk brush bar width correct cargo genre magic dust shine cheese";
+var mnemonic = "come sail celery fame walnut fuel level vacuum achieve point swim fortune";

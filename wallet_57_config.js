@@ -1,1 +1,1 @@
-var mnemonic = "witness school hawk random food immense fever tide goddess mosquito network stadium";
+var mnemonic = "error peace nut inform ocean foil vital act toe orchard science rough";

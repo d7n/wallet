@@ -1,1 +1,1 @@
-var mnemonic = "awake pride song trouble click planet prepare mimic since crew belt oyster";
+var mnemonic = "wine zero ship join inch arrest sister album lazy speak vintage maze";

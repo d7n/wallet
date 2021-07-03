@@ -1,1 +1,1 @@
-var mnemonic = "rocket fine fragile hope bar screen sugar hen crash library appear eternal";
+var mnemonic = "able budget nut economy near share release below afraid material legend sock";

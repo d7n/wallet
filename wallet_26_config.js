@@ -1,1 +1,1 @@
-var mnemonic = "broom danger depth find master recall have wagon bike kiss view scatter";
+var mnemonic = "slogan media green energy hub please pudding arrest patrol cannon visit quote";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic lonely rigid nuclear craft tennis fantasy there you vanish wrong kiss";
+var mnemonic = "program trust layer receive blossom young saddle patrol effort sort harbor dutch";

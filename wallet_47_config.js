@@ -1,1 +1,1 @@
-var mnemonic = "expire tree peace outdoor gauge obvious crash fatigue alert unhappy adapt enrich";
+var mnemonic = "carry naive tip viable hidden clock produce luggage will unfold dolphin bridge";

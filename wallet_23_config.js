@@ -1,1 +1,1 @@
-var mnemonic = "sort wreck liquid morning around quote promote say skin mountain gold accident";
+var mnemonic = "ability kid kiwi happy blast trouble bullet hedgehog fly auction olympic erosion";

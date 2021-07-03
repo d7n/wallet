@@ -1,1 +1,1 @@
-var mnemonic = "equip damage answer keep liquid share card crew promote enact hedgehog weird";
+var mnemonic = "battle explain power cake antique material write spoon width grit ice harvest";

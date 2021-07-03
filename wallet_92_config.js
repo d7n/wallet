@@ -1,1 +1,1 @@
-var mnemonic = "chuckle stereo mistake praise flip february wall shiver fiscal chimney material dial";
+var mnemonic = "hire hollow when pulp salt arrest anchor lock wing wreck crunch cool";

@@ -1,1 +1,1 @@
-var mnemonic = "select pave tray scrap fade tongue want find electric captain build roof";
+var mnemonic = "laptop wreck step two soap junior absorb fringe sausage horror survey uphold";

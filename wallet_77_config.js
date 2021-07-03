@@ -1,1 +1,1 @@
-var mnemonic = "fabric toss drum glove dutch crouch vapor bless gesture cool color laundry";
+var mnemonic = "top chunk upgrade love limb miracle adjust canvas outdoor method cotton drip";

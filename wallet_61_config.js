@@ -1,1 +1,1 @@
-var mnemonic = "zoo bone feed often scheme scan birth language base abuse office disorder";
+var mnemonic = "all child autumn mixture insane regret session flip same pumpkin trim trap";

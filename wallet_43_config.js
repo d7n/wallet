@@ -1,1 +1,1 @@
-var mnemonic = "school romance elite dinosaur extend unhappy thumb rose someone pill moment crisp";
+var mnemonic = "assist check fringe they smart hero decide saddle minor asset submit width";

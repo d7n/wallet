@@ -1,1 +1,1 @@
-var mnemonic = "obtain marble anchor risk resemble coffee script pulse blue wise boat purity";
+var mnemonic = "damage charge round spatial dial clay chuckle vivid lesson undo decrease couple";

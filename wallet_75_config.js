@@ -1,1 +1,1 @@
-var mnemonic = "interest try absurd rare host gadget rather grace engine fresh render cost";
+var mnemonic = "exercise staff kick peace tunnel color stone direct gather hard angle situate";

@@ -1,1 +1,1 @@
-var mnemonic = "gym actor oyster protect label novel mimic width kind cliff soldier cram";
+var mnemonic = "end debate uncle sweet visual twice lobster dream act deal okay private";

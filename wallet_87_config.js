@@ -1,1 +1,1 @@
-var mnemonic = "early window force cloud grab message track mammal ridge farm table exercise";
+var mnemonic = "sign spike dove cake case tobacco drastic rotate boat beauty ticket crop";

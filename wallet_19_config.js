@@ -1,1 +1,1 @@
-var mnemonic = "dwarf choose jazz wonder hello nut rival elbow sense decrease bleak empty";
+var mnemonic = "drastic will power prefer high invite design ship occur success physical dose";

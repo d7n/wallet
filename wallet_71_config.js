@@ -1,1 +1,1 @@
-var mnemonic = "gorilla fuel slush fame odor ship motor swift venture marriage exotic left";
+var mnemonic = "setup merry time hurdle raw champion visual exit actress favorite cost shuffle";

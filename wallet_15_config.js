@@ -1,1 +1,1 @@
-var mnemonic = "link defy armed plunge betray session doll fat rich couch episode lab";
+var mnemonic = "fork pig cactus afford zebra keen cattle cost volume woman equip harsh";
