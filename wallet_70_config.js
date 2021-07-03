@@ -1,1 +1,1 @@
-var mnemonic = "way frog pull west canoe hidden decrease anchor section people wrong sweet";
+var mnemonic = "student review about brass edge cannon goose wrap mother verify canyon awful";

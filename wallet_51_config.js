@@ -1,1 +1,1 @@
-var mnemonic = "anchor sibling camp artefact mail require poem skin list trigger post organ";
+var mnemonic = "sign rose inform maximum garbage genre clinic into sense canvas inform aware";

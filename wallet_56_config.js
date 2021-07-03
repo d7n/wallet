@@ -1,1 +1,1 @@
-var mnemonic = "scorpion kidney step daring couch banana palm gaze slush language still hidden";
+var mnemonic = "secret cake despair violin work kiwi improve hawk diesel miss total people";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt grid useless document mix dynamic bag slice aerobic deliver issue physical";
+var mnemonic = "sail someone exclude venture mountain rare together sock approve double develop spray";

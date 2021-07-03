@@ -1,1 +1,1 @@
-var mnemonic = "height model aware oval any decorate smoke leader mutual poem pulse expect";
+var mnemonic = "glass brisk become junk manage admit health bundle similar whip stamp prevent";

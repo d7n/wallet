@@ -1,1 +1,1 @@
-var mnemonic = "arrest buffalo grass educate spend cost alarm sun toy swing invite then";
+var mnemonic = "tortoise able job garbage mountain rotate hole flock undo dirt sunset urge";

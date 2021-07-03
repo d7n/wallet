@@ -1,1 +1,1 @@
-var mnemonic = "evoke advice supply pudding tornado student office rent virus wool metal obey";
+var mnemonic = "bike across aim enhance travel maze metal raccoon size test captain stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "drip ozone alone hole universe buzz nature track purpose disease chunk fiscal";
+var mnemonic = "garbage cement demand horn climb flip steel invite upgrade echo rapid nurse";

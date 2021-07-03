@@ -1,1 +1,1 @@
-var mnemonic = "only plate uniform stage outer shove cart ice taxi beyond lobster alone";
+var mnemonic = "patrol north term inflict bag zoo robust retreat double very mosquito guard";

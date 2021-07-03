@@ -1,1 +1,1 @@
-var mnemonic = "flag about weird inherit conduct sort vapor prosper improve shoe shaft furnace";
+var mnemonic = "diary toast behave kind pull document major force roof fold ball grab";

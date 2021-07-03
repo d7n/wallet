@@ -1,1 +1,1 @@
-var mnemonic = "deny entry cannon dice slight hire hour rain lumber security between dove";
+var mnemonic = "better nest short crop vivid creek truly unfair atom rural away zebra";

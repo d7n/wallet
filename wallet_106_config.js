@@ -1,1 +1,1 @@
-var mnemonic = "sleep source public video involve index toy subway enter crouch injury riot";
+var mnemonic = "swarm slide task design crumble stem shrimp lunch noise walnut conduct rabbit";

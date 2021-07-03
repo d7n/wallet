@@ -1,1 +1,1 @@
-var mnemonic = "leader retire pudding hospital brief midnight coffee fitness vague grief share fork";
+var mnemonic = "dinosaur hood satoshi mercy gadget brass trim term unique amused patch tattoo";

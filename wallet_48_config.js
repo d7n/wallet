@@ -1,1 +1,1 @@
-var mnemonic = "amazing know discover venture diesel violin wheat pride cycle animal weekend punch";
+var mnemonic = "fancy area midnight author clarify joke leader fire dream stadium predict cabbage";

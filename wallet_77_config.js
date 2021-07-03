@@ -1,1 +1,1 @@
-var mnemonic = "cancel shine mimic sign dove enemy loud wrist old harvest magnet canoe";
+var mnemonic = "gadget kangaroo penalty sight swim gold viable clerk result animal clean crater";

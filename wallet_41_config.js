@@ -1,1 +1,1 @@
-var mnemonic = "analyst cause marble minute remember clap vast stand sick long story tissue";
+var mnemonic = "burger when merry private drill produce funny myself squeeze such quantum super";

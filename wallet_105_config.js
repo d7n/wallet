@@ -1,1 +1,1 @@
-var mnemonic = "impact hint ask help regular door become under main fitness word garment";
+var mnemonic = "wheel fine wall duty breeze foot bacon walnut taxi average valve insect";

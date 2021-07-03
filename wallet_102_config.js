@@ -1,1 +1,1 @@
-var mnemonic = "bulk evidence glad organ crop camera room unique pyramid hungry spell merit";
+var mnemonic = "hint glimpse garlic prefer island romance impact hockey hidden sketch notable alarm";

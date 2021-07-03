@@ -1,1 +1,1 @@
-var mnemonic = "aspect amount firm topic walk cricket hobby begin stay pluck blanket swift";
+var mnemonic = "chaos keen alley nut cactus census grid accident busy symptom actor fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "come bag van ozone clay purpose session sell door above achieve ranch";
+var mnemonic = "sense snake leisure skull unfold salute lottery kitten coil caution indoor alley";

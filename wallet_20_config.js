@@ -1,1 +1,1 @@
-var mnemonic = "flight clutch nurse broccoli barely valid blossom shove hint never file middle";
+var mnemonic = "dirt doctor autumn table economy cream emerge feature buffalo fossil brass burst";

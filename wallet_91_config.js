@@ -1,1 +1,1 @@
-var mnemonic = "bitter clever file display sand nut luxury bless fury solid cluster leave";
+var mnemonic = "amused want apology maid shine paper wisdom try pen ozone movie lens";

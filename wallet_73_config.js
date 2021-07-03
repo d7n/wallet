@@ -1,1 +1,1 @@
-var mnemonic = "trophy bargain parrot grain crunch liberty blush mimic find essence amateur sun";
+var mnemonic = "lyrics seek shrug huge broccoli joke effort decrease rail ladder ugly latin";

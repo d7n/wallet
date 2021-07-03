@@ -1,1 +1,1 @@
-var mnemonic = "voyage industry clerk grow glare enlist organ riot dash naive peasant release";
+var mnemonic = "enhance mention fruit win govern young swamp actual supreme spatial garage century";

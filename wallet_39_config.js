@@ -1,1 +1,1 @@
-var mnemonic = "imitate chaos drum cruel cement want unique upgrade split drama bullet century";
+var mnemonic = "suspect initial planet novel legal trumpet acid hybrid exact transfer process skull";

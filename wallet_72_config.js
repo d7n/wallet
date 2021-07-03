@@ -1,1 +1,1 @@
-var mnemonic = "inform behave slow select primary design quiz unveil someone attend blood gate";
+var mnemonic = "usage science wreck usage online jar arrow amazing pepper call weather mobile";

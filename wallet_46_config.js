@@ -1,1 +1,1 @@
-var mnemonic = "scrap simple curtain alcohol sure essay bitter recall sail brown fire shaft";
+var mnemonic = "chief frame bulk bike vintage gravity glue faculty check tag stand charge";

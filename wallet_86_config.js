@@ -1,1 +1,1 @@
-var mnemonic = "shuffle learn umbrella winner reform fox smile company credit oppose typical slush";
+var mnemonic = "step rent noise vocal obtain worth gentle rice father catalog stadium cable";

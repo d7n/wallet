@@ -1,1 +1,1 @@
-var mnemonic = "witness pepper soldier kind news zoo force year metal eternal enact latin";
+var mnemonic = "major write entire blood tuna rubber human wasp quality monkey crazy marine";

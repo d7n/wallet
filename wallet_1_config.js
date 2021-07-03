@@ -1,1 +1,1 @@
-var mnemonic = "slow orient whisper never parrot fan cargo genius february circle enter meat";
+var mnemonic = "smooth rich voyage infant camp prison deposit rival poverty congress exit length";

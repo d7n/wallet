@@ -1,1 +1,1 @@
-var mnemonic = "shrimp spirit warrior couch project region orient oyster iron begin elegant casino";
+var mnemonic = "trust again cage useful dinner flock topic blast stock correct juice grace";

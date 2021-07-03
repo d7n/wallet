@@ -1,1 +1,1 @@
-var mnemonic = "forest sister baby across cycle later illness width pride accuse surface stuff";
+var mnemonic = "drink laundry dwarf art breeze genre improve open mule modify arrange cricket";

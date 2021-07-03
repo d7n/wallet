@@ -1,1 +1,1 @@
-var mnemonic = "relax prefer length token rigid seed under injury inner problem match skull";
+var mnemonic = "expect believe funny cliff clutch menu census thrive wealth sugar cloud exercise";

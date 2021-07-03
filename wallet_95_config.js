@@ -1,1 +1,1 @@
-var mnemonic = "green athlete blur stereo own canoe wagon media able gloom upgrade panel";
+var mnemonic = "capable client physical damage eagle road sibling knee walnut palm banana garlic";

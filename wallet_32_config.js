@@ -1,1 +1,1 @@
-var mnemonic = "dress inch use upset opinion funny purpose dust basic distance brush remember";
+var mnemonic = "member oval donor island arrange column lesson huge token dumb glow obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "below yellow become mind copper height useless fashion cigar enjoy marble penalty";
+var mnemonic = "foam sentence fold provide afford crane drift pencil tray opera lumber toy";

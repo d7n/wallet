@@ -1,1 +1,1 @@
-var mnemonic = "punch correct swim keep silk town dream grocery gather fatal tenant same";
+var mnemonic = "notable knee possible load dove forum solution primary excuse talk churn diamond";

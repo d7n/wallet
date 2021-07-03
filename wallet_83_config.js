@@ -1,1 +1,1 @@
-var mnemonic = "order grocery maze interest divert gossip brother also tent confirm catch cave";
+var mnemonic = "tree drama outside erase merry innocent ritual crack minute voyage spice talk";

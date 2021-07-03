@@ -1,1 +1,1 @@
-var mnemonic = "flat goddess ancient clock embody know robust domain bargain know business expand";
+var mnemonic = "surge stomach oyster diary column member distance expand ring winter half pet";

@@ -1,1 +1,1 @@
-var mnemonic = "owner sun giraffe march monitor horror elevator guilt eight spice volcano cover";
+var mnemonic = "process feature boat size timber torch bag again boss practice output valve";

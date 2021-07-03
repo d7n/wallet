@@ -1,1 +1,1 @@
-var mnemonic = "goddess fly wagon lock like buddy helmet fine hybrid sick front segment";
+var mnemonic = "cannon gift soup gauge cereal flash cargo easy scene hundred refuse innocent";

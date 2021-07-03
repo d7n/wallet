@@ -1,1 +1,1 @@
-var mnemonic = "fluid before pulse dial dutch month vendor dune load choice elbow govern";
+var mnemonic = "basic make off science warm opera amazing cause despair praise capable obvious";

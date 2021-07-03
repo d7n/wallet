@@ -1,1 +1,1 @@
-var mnemonic = "uncle allow rail elegant vehicle tragic shrug ladder glue gravity horror minor";
+var mnemonic = "card print marriage leader opinion snake furnace march desk cupboard sudden lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "play dilemma life steel slender harvest choose citizen gown among wisdom arrive";
+var mnemonic = "margin nest devote mercy type proud scrub ostrich steak fluid various height";

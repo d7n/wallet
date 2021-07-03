@@ -1,1 +1,1 @@
-var mnemonic = "repeat attack water gas task submit become make lava quit bulk device";
+var mnemonic = "brush prison rhythm surface view what subject nerve horn tank unaware erupt";

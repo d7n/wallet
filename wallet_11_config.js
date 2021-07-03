@@ -1,1 +1,1 @@
-var mnemonic = "pioneer announce gossip danger trend cause gun decorate stem hip celery duck";
+var mnemonic = "alley galaxy come frog impact manage slot shuffle iron soft tell toast";

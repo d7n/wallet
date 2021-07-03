@@ -1,1 +1,1 @@
-var mnemonic = "tone life pill climb sniff crumble toy erode warfare door guide dragon";
+var mnemonic = "beauty casino awake disease enable deal endorse sense denial flash april burden";

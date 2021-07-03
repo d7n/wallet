@@ -1,1 +1,1 @@
-var mnemonic = "refuse pigeon suspect area dream pencil group exotic cricket person twenty nuclear";
+var mnemonic = "celery remind undo canal royal person silver chalk tornado remind record bike";

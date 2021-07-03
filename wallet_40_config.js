@@ -1,1 +1,1 @@
-var mnemonic = "flush gorilla aspect must usual post walnut gallery letter vibrant wasp lab";
+var mnemonic = "matter zone movie jazz spare foil powder truly rely omit above other";

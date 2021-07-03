@@ -1,1 +1,1 @@
-var mnemonic = "hurdle cream suffer series diagram siege inmate citizen joy trophy anchor account";
+var mnemonic = "trumpet clarify clever analyst boy extend weasel husband eager birth armed elegant";

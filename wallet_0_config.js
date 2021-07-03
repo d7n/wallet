@@ -1,1 +1,1 @@
-var mnemonic = "moon ladder toast public under culture use organ moment meat fame tobacco";
+var mnemonic = "fresh space napkin cement tape olive clown often trust expose bus spawn";

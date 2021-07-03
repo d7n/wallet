@@ -1,1 +1,1 @@
-var mnemonic = "ramp enough spoon alcohol shuffle market miracle parent hand page situate captain";
+var mnemonic = "cupboard divide turkey twelve exhaust act onion struggle shiver solid pond evil";

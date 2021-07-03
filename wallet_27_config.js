@@ -1,1 +1,1 @@
-var mnemonic = "bless metal allow avoid napkin believe portion spoil matter surface chalk chunk";
+var mnemonic = "cave secret assume gravity company guard coach gather drop toilet theory laptop";

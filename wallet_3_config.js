@@ -1,1 +1,1 @@
-var mnemonic = "hero duty grief panther tenant open cake envelope ritual because buddy adapt";
+var mnemonic = "world example bless suggest double key must broken chapter squeeze lizard sign";

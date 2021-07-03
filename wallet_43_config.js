@@ -1,1 +1,1 @@
-var mnemonic = "ankle reopen pool kitten tone panel corn symptom clean animal camp dynamic";
+var mnemonic = "oxygen panic loan flash belt rabbit recycle unknown embody valve lens forum";

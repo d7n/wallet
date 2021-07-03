@@ -1,1 +1,1 @@
-var mnemonic = "dragon vicious spoil dolphin clap pigeon remind vote couch dynamic fork aware";
+var mnemonic = "torch strike crater wedding coconut pass boy blind unveil token rain disorder";

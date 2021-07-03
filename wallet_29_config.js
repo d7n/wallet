@@ -1,1 +1,1 @@
-var mnemonic = "fiber wear dolphin area crucial van fun walnut blind puzzle bag tuition";
+var mnemonic = "awesome brief doll noodle girl random squeeze measure gospel two early bracket";

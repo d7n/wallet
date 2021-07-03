@@ -1,1 +1,1 @@
-var mnemonic = "rebel gentle joy polar busy letter dream away another tooth ice happy";
+var mnemonic = "door fan drift arrive still pudding sustain reform cradle fade abstract chair";

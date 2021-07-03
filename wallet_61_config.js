@@ -1,1 +1,1 @@
-var mnemonic = "plug accuse mandate jewel raw garlic satoshi number kiss high thank episode";
+var mnemonic = "claim scheme youth assist squeeze industry tragic hello near wide energy mask";

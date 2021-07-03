@@ -1,1 +1,1 @@
-var mnemonic = "sausage crunch hollow patch about rescue clerk poverty cycle asthma mule library";
+var mnemonic = "naive diamond quality age hard tomato practice bread stamp wing undo tube";

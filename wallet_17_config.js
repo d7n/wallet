@@ -1,1 +1,1 @@
-var mnemonic = "apple cross walnut slight vapor deliver salute rack message rebel setup artist";
+var mnemonic = "fly aisle crowd olive boss cluster opinion swallow august raccoon snap trash";

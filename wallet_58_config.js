@@ -1,1 +1,1 @@
-var mnemonic = "hen hill two afraid immune rescue quantum glove merit lamp task mad";
+var mnemonic = "rule frost scrub weird suspect foster resist uniform hire toast perfect such";

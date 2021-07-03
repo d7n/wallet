@@ -1,1 +1,1 @@
-var mnemonic = "enough educate wear basket north off firm mistake valley manual public hire";
+var mnemonic = "pole only tiny cushion dutch way silver satisfy umbrella tragic pattern ride";

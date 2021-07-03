@@ -1,1 +1,1 @@
-var mnemonic = "valid pretty virtual ten female toddler title profit vocal knee near camera";
+var mnemonic = "head leader loud doctor choose exercise uncle atom attitude verify family cute";

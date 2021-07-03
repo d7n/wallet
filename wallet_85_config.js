@@ -1,1 +1,1 @@
-var mnemonic = "pony stone planet urge wine velvet negative beyond soul pole craft family";
+var mnemonic = "grass grace arrange blue taste learn argue top front soft curious protect";

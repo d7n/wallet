@@ -1,1 +1,1 @@
-var mnemonic = "pudding clock reduce spike town cigar boss left lizard will bus edit";
+var mnemonic = "prefer cancel abstract either obvious stool cave supply volume tourist knee jump";

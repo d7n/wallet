@@ -1,1 +1,1 @@
-var mnemonic = "bubble nice spring wife modify jeans firm tomorrow ceiling legend exhibit tissue";
+var mnemonic = "lawsuit apology find angle pluck client black between frozen rotate pull hand";

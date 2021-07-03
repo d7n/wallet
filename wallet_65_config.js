@@ -1,1 +1,1 @@
-var mnemonic = "supreme ritual awkward ten fault school cousin hat hard number agree spell";
+var mnemonic = "crane casino excess bleak emerge safe desk mountain better spider later isolate";

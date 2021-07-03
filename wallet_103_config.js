@@ -1,1 +1,1 @@
-var mnemonic = "cargo rich abandon wire unique scatter enforce elevator install pretty purity custom";
+var mnemonic = "angry eight fade ball hope inside enroll license curve parent capable fan";

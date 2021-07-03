@@ -1,1 +1,1 @@
-var mnemonic = "weapon slush nice soup remove mix various soccer sponsor educate mean theme";
+var mnemonic = "patch image relief right drive walnut foam ball local salmon crunch wall";

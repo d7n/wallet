@@ -1,1 +1,1 @@
-var mnemonic = "kit portion flush world advance soft pause item jacket wife casino smile";
+var mnemonic = "lawn senior science tag match setup breeze access gold lion galaxy price";

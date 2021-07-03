@@ -1,1 +1,1 @@
-var mnemonic = "sheriff prosper wasp uniform taxi seat coral drastic fault nest uncover correct";
+var mnemonic = "congress erupt twenty banana alley awesome clutch exhaust shuffle leisure roast rare";

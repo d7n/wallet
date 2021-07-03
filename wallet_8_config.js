@@ -1,1 +1,1 @@
-var mnemonic = "require film energy planet detect flip spawn evidence dynamic year film height";
+var mnemonic = "census rare rather reveal slight exercise farm various media cliff mosquito size";

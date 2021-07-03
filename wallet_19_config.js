@@ -1,1 +1,1 @@
-var mnemonic = "recall knife visual ripple viable clutch enough split person traffic quit enjoy";
+var mnemonic = "fossil clip cereal color wisdom local grab awesome element lizard shift lucky";

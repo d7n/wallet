@@ -1,1 +1,1 @@
-var mnemonic = "mercy portion brand possible under arrow dance merge polar skin fatigue strategy";
+var mnemonic = "wedding interest filter fringe spirit siege chapter because code enough flip patrol";

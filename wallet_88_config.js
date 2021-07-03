@@ -1,1 +1,1 @@
-var mnemonic = "fetch market zebra skin kingdom leader pen again hurry stereo fall ankle";
+var mnemonic = "female ketchup draft east tobacco method true captain cement ostrich arrest direct";

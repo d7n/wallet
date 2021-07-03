@@ -1,1 +1,1 @@
-var mnemonic = "crazy spatial vote whale invest movie display degree fish action dismiss lizard";
+var mnemonic = "ski repair rabbit lazy carpet bus game mushroom health latin remind raven";

@@ -1,1 +1,1 @@
-var mnemonic = "theory pigeon pigeon panic organ over taxi lottery police return entire thing";
+var mnemonic = "boy option repeat total mushroom cattle forest flight spot welcome lend future";

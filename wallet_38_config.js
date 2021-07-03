@@ -1,1 +1,1 @@
-var mnemonic = "final train stem kingdom spread scout amazing blouse claim penalty lucky fix";
+var mnemonic = "desert human punch spread ride card coil have harvest oxygen cart away";

@@ -1,1 +1,1 @@
-var mnemonic = "world supreme entire dignity school blouse fury elevator naive text either night";
+var mnemonic = "fatal expect year clean slight peasant north balcony fly circle shoe zone";

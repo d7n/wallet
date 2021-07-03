@@ -1,1 +1,1 @@
-var mnemonic = "adjust piece tiger change march humble allow dumb turtle panel please anxiety";
+var mnemonic = "buzz original lunch usual disease tower flame polar rose together cheese boost";

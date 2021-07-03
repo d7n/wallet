@@ -1,1 +1,1 @@
-var mnemonic = "enact size razor loud east piano math very hello misery anchor fence";
+var mnemonic = "daughter ring work brick muffin section system radar cannon claim lunar super";

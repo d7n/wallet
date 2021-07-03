@@ -1,1 +1,1 @@
-var mnemonic = "travel onion fortune eager staff wage found hobby average hammer talent critic";
+var mnemonic = "shuffle twin major hundred emotion lyrics liar tackle leopard tower you ladder";

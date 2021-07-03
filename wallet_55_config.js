@@ -1,1 +1,1 @@
-var mnemonic = "slight illegal school spawn casino step hospital focus move flash deliver tomorrow";
+var mnemonic = "maximum gold agent write snap exile legal swamp inch virus learn latin";

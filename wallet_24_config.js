@@ -1,1 +1,1 @@
-var mnemonic = "lift salon only radio vibrant define attitude forest fringe vivid oxygen ivory";
+var mnemonic = "plastic explain penalty work across major chalk silk fire escape annual primary";

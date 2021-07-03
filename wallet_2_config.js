@@ -1,1 +1,1 @@
-var mnemonic = "next domain level tobacco merge bitter roast soccer craft stage dance whip";
+var mnemonic = "summer possible common coin claw oven cabin admit exit regret honey position";

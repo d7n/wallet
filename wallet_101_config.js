@@ -1,1 +1,1 @@
-var mnemonic = "song like inspire original nest digital because fruit render assist finger half";
+var mnemonic = "vehicle permit mind wonder buddy panel endorse maximum diet catalog lock virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease edit output slow extend roast empty clever mother follow exercise milk";
+var mnemonic = "act mind kind crime control ordinary adult verb heart shell sniff year";

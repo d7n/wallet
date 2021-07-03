@@ -1,1 +1,1 @@
-var mnemonic = "easy half tell impulse peanut inner upper cigar twin educate bread general";
+var mnemonic = "add view squirrel adjust mimic popular rival damage exhibit forward busy payment";

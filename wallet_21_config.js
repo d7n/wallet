@@ -1,1 +1,1 @@
-var mnemonic = "song change scheme sail coast stem about raise trip aspect another emotion";
+var mnemonic = "uniform crane ten arena stem push boss brother idea isolate alley shoot";

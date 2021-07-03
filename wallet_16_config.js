@@ -1,1 +1,1 @@
-var mnemonic = "shine oil enough mango banana need lottery rent nuclear noodle crime flee";
+var mnemonic = "sheriff harsh senior raven vague scheme shrug body range buffalo various forum";

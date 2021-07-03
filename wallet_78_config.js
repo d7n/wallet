@@ -1,1 +1,1 @@
-var mnemonic = "ancient movie promote neutral post magnet clerk cheese decrease tent arena blur";
+var mnemonic = "fiction extra october surface common plate river rural into viable trade hurry";

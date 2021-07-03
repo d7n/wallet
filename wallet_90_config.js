@@ -1,1 +1,1 @@
-var mnemonic = "town demise journey dinosaur fit pen raise ignore drip tiger story appear";
+var mnemonic = "dwarf salt banner seat view pistol drip humor split cabin parade anxiety";

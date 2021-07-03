@@ -1,1 +1,1 @@
-var mnemonic = "vendor brown length clump razor dentist maid hungry bottom total vehicle remember";
+var mnemonic = "upon story seminar inspire palm drill stove brother celery giant club domain";

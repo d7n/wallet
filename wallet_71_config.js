@@ -1,1 +1,1 @@
-var mnemonic = "hungry private garage anchor sweet put word manual armor cancel employ smooth";
+var mnemonic = "keep guitar clap wheat thunder peasant admit hover clinic feed food owner";
