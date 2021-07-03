@@ -1,1 +1,1 @@
-var mnemonic = "frequent embark energy donate pony remain grab code rare scorpion trigger scissors";
+var mnemonic = "foil cave fade flight mobile toe silk eight supreme solar damp drift";

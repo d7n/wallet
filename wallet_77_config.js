@@ -1,1 +1,1 @@
-var mnemonic = "pigeon step cushion ill jealous bulk wink liquid minute bargain much poem";
+var mnemonic = "board police impulse cabin pitch holiday describe meadow cool magnet setup dish";

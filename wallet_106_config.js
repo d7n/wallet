@@ -1,1 +1,1 @@
-var mnemonic = "trend already plastic notable razor couch quick wise arrive digital age harvest";
+var mnemonic = "west wrong crystal crop mutual globe caution lock segment quit eight dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "air fiction border coach evil tissue mule arrive tortoise also upon hand";
+var mnemonic = "always forest draft frog scorpion must fault witness question ankle blouse spell";

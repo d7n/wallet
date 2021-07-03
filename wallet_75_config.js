@@ -1,1 +1,1 @@
-var mnemonic = "glue afraid hobby monitor dry explain dress clinic push reason timber soldier";
+var mnemonic = "lawn mirror army poem emerge lake decade peasant hair museum track supply";

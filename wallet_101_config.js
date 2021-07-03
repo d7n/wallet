@@ -1,1 +1,1 @@
-var mnemonic = "convince bubble width dance begin crash achieve above detect program toilet cheap";
+var mnemonic = "recycle olive secret minimum truck arrest tag absurd woman idea talk camera";

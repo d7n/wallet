@@ -1,1 +1,1 @@
-var mnemonic = "extra castle language awkward coin dove garden radio start flush baby push";
+var mnemonic = "party wisdom echo guitar plug write nurse attitude problem mass proof mad";

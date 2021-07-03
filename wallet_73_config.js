@@ -1,1 +1,1 @@
-var mnemonic = "vibrant fire enough wreck around light violin omit buffalo exhaust work time";
+var mnemonic = "matter daughter time settle achieve mask uncover primary genius visual notable asthma";

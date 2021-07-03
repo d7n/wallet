@@ -1,1 +1,1 @@
-var mnemonic = "milk deny session winner egg screen away citizen bomb tape lemon alarm";
+var mnemonic = "uncover eye ecology today monster world orchard cruel whale venue arrest bring";

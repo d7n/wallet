@@ -1,1 +1,1 @@
-var mnemonic = "duty few kiss little umbrella favorite deliver camera chronic bind kiwi lobster";
+var mnemonic = "future decline weather spy fiction pizza movie tuition silly shrug front island";

@@ -1,1 +1,1 @@
-var mnemonic = "awake upper because chair more task trap mean can quiz digital forget";
+var mnemonic = "claim eager action law wagon whip soup humble acquire infant shed recipe";

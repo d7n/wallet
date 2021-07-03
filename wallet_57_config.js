@@ -1,1 +1,1 @@
-var mnemonic = "wire level poem cup sniff aspect lyrics chief clip check pact ritual";
+var mnemonic = "amount half this then collect cake decade fox concert ugly report quarter";

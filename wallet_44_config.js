@@ -1,1 +1,1 @@
-var mnemonic = "staff glare cable group mirror comfort okay long flavor language brave twin";
+var mnemonic = "globe unusual secret rabbit nominee common canoe bitter filter escape normal lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion phone wasp dinner host cousin card enable flame rotate hover jealous";
+var mnemonic = "speak thank book danger fun ensure amount scare humble health kingdom screen";

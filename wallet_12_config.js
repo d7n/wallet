@@ -1,1 +1,1 @@
-var mnemonic = "decorate quote script library legend gadget trend illness attack evoke help drink";
+var mnemonic = "ready mandate mushroom horn insane palm eager scrap same hand pulse almost";

@@ -1,1 +1,1 @@
-var mnemonic = "social luggage leave just never stumble humble alley capital taste comic seed";
+var mnemonic = "cushion napkin mirror quick bracket enjoy parrot banner fall deposit melody replace";

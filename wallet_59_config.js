@@ -1,1 +1,1 @@
-var mnemonic = "pluck screen vivid home quit fix mask mystery paddle chief puzzle vanish";
+var mnemonic = "minor defense honey rice depth thing exist drama grit action laundry program";

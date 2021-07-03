@@ -1,1 +1,1 @@
-var mnemonic = "august royal auction ribbon forest nice tortoise convince rigid spread doctor silent";
+var mnemonic = "aspect electric execute purse outdoor example history aisle phone divorce list void";

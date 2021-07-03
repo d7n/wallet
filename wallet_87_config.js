@@ -1,1 +1,1 @@
-var mnemonic = "wire shy broken fine cheap pair damage tourist only friend illegal feed";
+var mnemonic = "cargo real output stamp doll grant favorite lens crane inflict talent alter";

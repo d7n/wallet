@@ -1,1 +1,1 @@
-var mnemonic = "mom quick practice helmet shoot knee two error regular table capital away";
+var mnemonic = "sound limit rebuild clinic frame chronic order regular race barely clever host";

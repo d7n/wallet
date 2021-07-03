@@ -1,1 +1,1 @@
-var mnemonic = "earn grit silk grocery object elbow render forward cream magic acquire enough";
+var mnemonic = "kit dentist inspire palace joke clever sweet raven gesture say one kind";

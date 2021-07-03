@@ -1,1 +1,1 @@
-var mnemonic = "obvious ankle humble pause rain grunt ostrich sense actor baby salute tell";
+var mnemonic = "embody glass upset success modify black walk calm stay economy exile kit";

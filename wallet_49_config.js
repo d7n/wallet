@@ -1,1 +1,1 @@
-var mnemonic = "toast another field west noise trap good race prison angry grape busy";
+var mnemonic = "lend reason planet degree material bring cover genius business check enable island";

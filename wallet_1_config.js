@@ -1,1 +1,1 @@
-var mnemonic = "peanut amateur oil dress apple school theme spring cherry rare coin brush";
+var mnemonic = "first blast glass bone robot climb husband crawl seven pet caught pottery";

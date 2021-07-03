@@ -1,1 +1,1 @@
-var mnemonic = "switch anchor lyrics private shoot warm blind miss police penalty donate hamster";
+var mnemonic = "comfort senior include author slow keen embark little blast earn palace crack";

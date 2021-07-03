@@ -1,1 +1,1 @@
-var mnemonic = "regular slender topic host tape sphere hair jar chef expose tomato zebra";
+var mnemonic = "hood carpet renew expect usual fringe among long ride drill shallow vessel";

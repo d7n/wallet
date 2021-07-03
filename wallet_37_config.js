@@ -1,1 +1,1 @@
-var mnemonic = "arrange card rebuild bar cup smart kind across bomb aim network autumn";
+var mnemonic = "balcony clap nominee memory travel actual web about inner limit screen time";

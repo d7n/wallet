@@ -1,1 +1,1 @@
-var mnemonic = "garlic distance seminar soul hospital inner shell rely cost slogan moment vague";
+var mnemonic = "case blast spring labor where ancient rule exchange gossip stock home meadow";

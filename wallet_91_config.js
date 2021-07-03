@@ -1,1 +1,1 @@
-var mnemonic = "believe boy wall cherry vendor knock glow cool liar lizard balance disorder";
+var mnemonic = "original puppy fantasy salon detect whale vocal leg jewel hen happy coast";

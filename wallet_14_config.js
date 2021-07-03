@@ -1,1 +1,1 @@
-var mnemonic = "left lawsuit town bus erode they truth enlist grow pizza nature normal";
+var mnemonic = "icon thank document drastic walnut beyond hub cry gloom loop book general";

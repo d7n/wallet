@@ -1,1 +1,1 @@
-var mnemonic = "throw shed pulp paddle mother upper walk use valley dynamic aerobic august";
+var mnemonic = "reveal present vintage laundry april wrong velvet area shield result mention arrow";

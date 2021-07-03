@@ -1,1 +1,1 @@
-var mnemonic = "edge camp govern fold matter flame bulb beach style tiger story muscle";
+var mnemonic = "priority security faith pepper neglect later segment hint clown beyond skill year";

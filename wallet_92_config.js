@@ -1,1 +1,1 @@
-var mnemonic = "slow arm much media miss unique net quiz pill they news current";
+var mnemonic = "reduce loyal action about tourist hamster vapor hair entire outdoor achieve own";

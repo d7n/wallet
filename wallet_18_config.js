@@ -1,1 +1,1 @@
-var mnemonic = "virus feel promote ride mixture tuna journey virtual clutch kick walk trumpet";
+var mnemonic = "travel owner vehicle decorate glue friend include gossip cover potato exact army";

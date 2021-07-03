@@ -1,1 +1,1 @@
-var mnemonic = "allow absent visit accident upgrade birth mimic disease orbit erupt stay home";
+var mnemonic = "clap medal unfair own utility muscle air foster auction seek flash canyon";

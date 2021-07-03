@@ -1,1 +1,1 @@
-var mnemonic = "leaf doctor roof enable toss year fire devote lecture width mom mango";
+var mnemonic = "scout across phone jealous phone tonight fiction know picnic field dirt scale";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant trigger frost attract opinion dragon elbow funny state limit vapor paddle";
+var mnemonic = "dwarf lumber car hungry stool coconut reform hen recycle venture high kiss";

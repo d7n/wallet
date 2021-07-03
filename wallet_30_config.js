@@ -1,1 +1,1 @@
-var mnemonic = "boil repair tent regret gun exotic rebuild thunder idle dose thought fashion";
+var mnemonic = "melody brief man famous act reason lobster betray network funny car matrix";

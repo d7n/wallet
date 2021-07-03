@@ -1,1 +1,1 @@
-var mnemonic = "always pulse april album usage joy toward tomorrow bachelor exhibit coconut home";
+var mnemonic = "guilt zone despair adult churn symptom left planet panda uphold chalk ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber color sword sea cute head hub bone prosper dish cloud few";
+var mnemonic = "write mosquito bamboo giraffe unaware silk ski random special outdoor action fragile";

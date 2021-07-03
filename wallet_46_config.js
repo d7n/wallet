@@ -1,1 +1,1 @@
-var mnemonic = "solution robust pony hour range walk dilemma recipe renew nasty clever repair";
+var mnemonic = "borrow scare stand finish year dumb twin cluster angry rice slide dry";

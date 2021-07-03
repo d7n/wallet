@@ -1,1 +1,1 @@
-var mnemonic = "prize hedgehog tiny concert foot actor hamster member direct click fade erase";
+var mnemonic = "post early middle pizza inch end usage member like confirm render guess";

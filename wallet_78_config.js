@@ -1,1 +1,1 @@
-var mnemonic = "salt warm tobacco minimum logic purpose verb supply jealous elevator fire myth";
+var mnemonic = "math eye mystery tooth fluid filter play core garden fortune pony cart";

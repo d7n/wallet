@@ -1,1 +1,1 @@
-var mnemonic = "fee youth better tenant budget lottery crunch spoon pig ten still grunt";
+var mnemonic = "gain salon rail empower enhance eyebrow draw display valve leave ancient crazy";

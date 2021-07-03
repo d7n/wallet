@@ -1,1 +1,1 @@
-var mnemonic = "current reopen wedding shock bless bunker initial still text rare rice document";
+var mnemonic = "mechanic direct defy cherry cloud hundred galaxy helmet build require sister spend";

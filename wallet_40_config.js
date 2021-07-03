@@ -1,1 +1,1 @@
-var mnemonic = "outdoor tower library ranch dune scrub tribe prosper busy price market scrap";
+var mnemonic = "treat pulp artist amused happy slide gadget walnut rubber melt olive false";

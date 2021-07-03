@@ -1,1 +1,1 @@
-var mnemonic = "cave belt seat engine nephew cliff room discover walk mechanic convince common";
+var mnemonic = "finger wish good taxi motor dose unlock bright nasty fancy tail rate";

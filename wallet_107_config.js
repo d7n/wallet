@@ -1,1 +1,1 @@
-var mnemonic = "tiger trick employ invest innocent still rhythm clean divorce month guard hobby";
+var mnemonic = "impact image book fury wreck bone joke blossom regret gather guide shrimp";

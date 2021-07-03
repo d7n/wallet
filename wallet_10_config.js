@@ -1,1 +1,1 @@
-var mnemonic = "rain frog sure middle clever quit dentist slide path ribbon welcome coach";
+var mnemonic = "front taste group you grass symptom file genre hunt lava vote pretty";

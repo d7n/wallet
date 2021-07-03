@@ -1,1 +1,1 @@
-var mnemonic = "piano divide scout moral gravity shoot shoot kick stamp puppy check decade";
+var mnemonic = "ladder infant nice bundle sauce infant ozone art walnut need gold long";

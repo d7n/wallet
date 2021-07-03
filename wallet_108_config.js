@@ -1,1 +1,1 @@
-var mnemonic = "produce ride dice slam nothing hand lawsuit frown write gesture country describe";
+var mnemonic = "embody dinner trap pulse observe hello hero noodle opera winter indicate harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "culture oil trigger rescue sample eyebrow other village horse attack coffee disorder";
+var mnemonic = "seat concert grunt apology captain witness rival charge layer armor business south";

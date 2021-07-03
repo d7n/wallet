@@ -1,1 +1,1 @@
-var mnemonic = "travel family govern wedding oyster office raccoon divert relax lazy choice box";
+var mnemonic = "cotton person one rack double eager balcony creek pool slight frown stairs";

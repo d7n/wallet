@@ -1,1 +1,1 @@
-var mnemonic = "limb concert invest name bright birth place pretty buyer cage law tornado";
+var mnemonic = "fiber dog math page wonder offer ask term trick jeans guard merge";

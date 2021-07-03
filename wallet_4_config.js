@@ -1,1 +1,1 @@
-var mnemonic = "urban phone because merge possible club family wine into plunge disease vague";
+var mnemonic = "unlock demise tone usage uncover jelly alcohol hungry garbage find tiny skirt";

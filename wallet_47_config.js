@@ -1,1 +1,1 @@
-var mnemonic = "adjust absurd arch inherit pottery tortoise unfair vintage radar crack empower citizen";
+var mnemonic = "ridge spirit tennis quiz split whisper satoshi rib turtle derive portion spawn";

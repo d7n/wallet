@@ -1,1 +1,1 @@
-var mnemonic = "wolf comfort maze fit immense feature main letter nerve bind glove trade";
+var mnemonic = "thumb when smoke swing length video enforce awkward broken recycle cinnamon sniff";

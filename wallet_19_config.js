@@ -1,1 +1,1 @@
-var mnemonic = "tennis cycle frog ladder maple task brand key cause fiscal enrich fold";
+var mnemonic = "fashion spend glue cheese romance party half report fantasy exhaust loan vendor";

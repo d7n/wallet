@@ -1,1 +1,1 @@
-var mnemonic = "employ endorse mention pause gospel figure soldier state olive romance response march";
+var mnemonic = "mule mule humor clap sudden brave glare enlist joy forest subway crush";

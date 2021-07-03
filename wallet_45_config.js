@@ -1,1 +1,1 @@
-var mnemonic = "search diary detect arena embrace mom wealth imitate struggle again trip chief";
+var mnemonic = "frame width side convince awful road warrior bracket repair grunt fault rack";

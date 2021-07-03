@@ -1,1 +1,1 @@
-var mnemonic = "winner next caught remind figure web airport shrimp nation erase anchor scare";
+var mnemonic = "average just window obtain whip need mistake copper march robot hood sock";

@@ -1,1 +1,1 @@
-var mnemonic = "remind garment extend alien dune light change good tube slab tattoo nation";
+var mnemonic = "palace globe thing number document arena insect talk hub chief shoulder between";

@@ -1,1 +1,1 @@
-var mnemonic = "october electric hold limb wrap alien jeans deputy coyote false quick gadget";
+var mnemonic = "time film brand release young syrup dynamic enact capital track retreat smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual key survey core second friend amused connect offer emotion mass mobile";
+var mnemonic = "ten connect three exit rack fame material brief twist indicate maximum wolf";

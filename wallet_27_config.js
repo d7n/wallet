@@ -1,1 +1,1 @@
-var mnemonic = "fluid record train number excite speed dice stone conduct delay latin slogan";
+var mnemonic = "fetch tackle elephant desk gown route ginger mind belt few pattern catch";

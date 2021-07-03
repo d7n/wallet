@@ -1,1 +1,1 @@
-var mnemonic = "private enhance track damage print already toe play shy flavor balance text";
+var mnemonic = "develop monster nephew cheap loud reason river lobster stand ribbon gesture stage";

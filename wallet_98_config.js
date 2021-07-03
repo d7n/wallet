@@ -1,1 +1,1 @@
-var mnemonic = "area tissue situate moral post chimney ride buzz rely camp cabbage sand";
+var mnemonic = "visa flip gentle buyer harbor hold half crisp virtual screen ketchup act";

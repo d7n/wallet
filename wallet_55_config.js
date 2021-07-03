@@ -1,1 +1,1 @@
-var mnemonic = "rookie loop entire subway crunch choose section title athlete shy fluid try";
+var mnemonic = "rare genius grief fog veteran initial saddle decorate secret abandon used unfair";

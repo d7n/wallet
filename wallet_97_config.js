@@ -1,1 +1,1 @@
-var mnemonic = "onion advice penalty alarm wheat property execute that smooth imitate siege enough";
+var mnemonic = "cattle dutch labor mandate nest fatal shell favorite cube hundred milk farm";

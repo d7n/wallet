@@ -1,1 +1,1 @@
-var mnemonic = "arrive toward social awesome box roast tower salmon shoulder meat differ beauty";
+var mnemonic = "surface novel easy birth snake series among sell milk travel dilemma clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "child surprise absent shield pipe smile mystery fitness cage voice flame elite";
+var mnemonic = "lab visit sorry middle april increase soft trouble puzzle cycle analyst crunch";

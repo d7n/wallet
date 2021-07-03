@@ -1,1 +1,1 @@
-var mnemonic = "tone end panel torch pledge then swap inform congress basic tool fancy";
+var mnemonic = "comic almost place notice general ill firm remove end thank repair brief";

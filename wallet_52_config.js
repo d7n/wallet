@@ -1,1 +1,1 @@
-var mnemonic = "pony sunny awful bicycle fall priority deny drill dream damage eagle steel";
+var mnemonic = "pass deposit wide length baby equal club wood very useless sing ancient";

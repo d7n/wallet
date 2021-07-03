@@ -1,1 +1,1 @@
-var mnemonic = "balance price left dry vintage suggest salon match angle galaxy million awful";
+var mnemonic = "cloth office wire test rice left limit often lottery flavor grocery apple";

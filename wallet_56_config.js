@@ -1,1 +1,1 @@
-var mnemonic = "sister dune syrup tip advice bitter marble country share cave machine ill";
+var mnemonic = "birth pistol odor repeat orient pretty panther armor travel lemon purse video";

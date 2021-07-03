@@ -1,1 +1,1 @@
-var mnemonic = "obvious endless canyon shell hub guide assume thunder acoustic marble found squirrel";
+var mnemonic = "random prosper leg gain movie cinnamon return tired boat bonus craft popular";

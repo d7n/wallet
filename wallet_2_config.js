@@ -1,1 +1,1 @@
-var mnemonic = "buyer mass treat clinic owner iron agent apple broccoli pear trick around";
+var mnemonic = "alert tree winner hill bundle diary bread place sell enhance hybrid happy";

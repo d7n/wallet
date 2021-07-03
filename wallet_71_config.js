@@ -1,1 +1,1 @@
-var mnemonic = "dream genre assume denial net scale blush seminar describe patient shrug party";
+var mnemonic = "alarm artwork skate scrub margin exit enhance century phrase notable twelve satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "maple appear off lounge slice daughter still reduce right have fortune work";
+var mnemonic = "leg inch predict jar beef nuclear must boil adult mask foot carbon";

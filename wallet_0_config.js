@@ -1,1 +1,1 @@
-var mnemonic = "verify fish old cradle wage boost genuine uncover captain tribe arrive refuse";
+var mnemonic = "drive license wasp kingdom ceiling bubble doll base execute someone please dune";

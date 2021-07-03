@@ -1,1 +1,1 @@
-var mnemonic = "lunch movie hazard floor foil bundle shadow bitter loop solve goose knife";
+var mnemonic = "often also hill pottery water dizzy laptop steel cave position canoe purse";

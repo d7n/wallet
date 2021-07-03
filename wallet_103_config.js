@@ -1,1 +1,1 @@
-var mnemonic = "rebel park arch uncle odor talk scale humor ghost amazing easily now";
+var mnemonic = "knock giant census plunge throw same device need panel ketchup govern disorder";

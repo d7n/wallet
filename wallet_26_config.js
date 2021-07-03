@@ -1,1 +1,1 @@
-var mnemonic = "hunt expose rate mercy jewel start body visit easy initial imitate over";
+var mnemonic = "boil amateur shine puzzle lion endless visual slab cable update heavy service";

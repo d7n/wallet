@@ -1,1 +1,1 @@
-var mnemonic = "name luggage arrive spoil ozone echo goose favorite donkey someone arrest nut";
+var mnemonic = "tonight tattoo convince target chest blanket element hurt injury citizen umbrella elder";

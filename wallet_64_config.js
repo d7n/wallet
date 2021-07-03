@@ -1,1 +1,1 @@
-var mnemonic = "human uphold cushion finish young knee train step nominee lottery voice afford";
+var mnemonic = "bleak lottery silver comfort hole humor black summer pave demise tragic timber";

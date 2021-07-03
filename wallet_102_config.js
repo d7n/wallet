@@ -1,1 +1,1 @@
-var mnemonic = "chapter friend glue spare purchase tuition document roof lonely drive valve tip";
+var mnemonic = "vague uniform school question ranch elegant device basic filter belt swallow chimney";

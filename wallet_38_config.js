@@ -1,1 +1,1 @@
-var mnemonic = "evidence grass example force concert window robot agent pulp file ginger pattern";
+var mnemonic = "palace speed tomato screen frown clown diamond they frown cancel lunar youth";
