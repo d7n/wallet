@@ -1,1 +1,1 @@
-var mnemonic = "letter often science stable budget angle toast hold hundred best holiday reunion";
+var mnemonic = "devote jaguar armor kidney wrestle final grunt quiz avocado deliver banana burst";

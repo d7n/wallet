@@ -1,1 +1,1 @@
-var mnemonic = "armor sniff lizard cheap occur fog truck write real draw correct stove";
+var mnemonic = "ranch joke seat sibling same spread reveal giggle venture course wood screen";

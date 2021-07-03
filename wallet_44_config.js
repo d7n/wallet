@@ -1,1 +1,1 @@
-var mnemonic = "acoustic portion into dismiss warrior amused enable gentle people monitor husband organ";
+var mnemonic = "luggage then laugh sibling essay acid hello humble ancient enemy drip scheme";

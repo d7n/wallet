@@ -1,1 +1,1 @@
-var mnemonic = "yard weasel decide tone obvious sport broom earth boss odor empower myself";
+var mnemonic = "develop supreme decade become joke coral deny art deposit trim member bench";

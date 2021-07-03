@@ -1,1 +1,1 @@
-var mnemonic = "exit tragic cargo asthma autumn change because recycle custom lonely smart fabric";
+var mnemonic = "aunt joy vivid tragic hammer drop intact torch one trim version crazy";

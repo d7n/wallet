@@ -1,1 +1,1 @@
-var mnemonic = "neither fancy father tennis few lady north ocean dignity spike consider kingdom";
+var mnemonic = "wrestle more video water biology fame wealth robust aspect stem tag admit";

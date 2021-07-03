@@ -1,1 +1,1 @@
-var mnemonic = "bike time ill canvas strategy embody slot exchange feel rigid risk vibrant";
+var mnemonic = "ability choose prison decrease cheese wild song young tide cook there enable";

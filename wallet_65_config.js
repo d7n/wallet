@@ -1,1 +1,1 @@
-var mnemonic = "unaware chicken wife usage account spread chalk tree rebuild salute field topic";
+var mnemonic = "van inmate core swift report limit amount either end frog busy thrive";

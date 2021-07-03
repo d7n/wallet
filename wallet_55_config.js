@@ -1,1 +1,1 @@
-var mnemonic = "achieve people hen brass violin orient peace wave elbow critic run salt";
+var mnemonic = "choice carbon stamp elevator obtain sing injury donate width exist shrug sense";

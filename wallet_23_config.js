@@ -1,1 +1,1 @@
-var mnemonic = "swap must idle series leader scissors vicious skull kangaroo suit body adult";
+var mnemonic = "shock foot amount fan couch involve jealous illegal anchor nerve exist better";

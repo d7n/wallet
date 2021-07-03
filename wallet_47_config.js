@@ -1,1 +1,1 @@
-var mnemonic = "imitate post flee century desert truth nominee illegal garlic gravity buffalo grab";
+var mnemonic = "uncover eyebrow hunt blind check unhappy fall begin staff tunnel gospel report";

@@ -1,1 +1,1 @@
-var mnemonic = "sword moral jar jeans return gap anger casual man demise wink cool";
+var mnemonic = "sorry sphere lemon inquiry infant flock brief crane stove spy cradle expand";

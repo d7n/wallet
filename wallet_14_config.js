@@ -1,1 +1,1 @@
-var mnemonic = "leader rice erode silly eternal wreck pluck merge stick memory useless motor";
+var mnemonic = "cabin topple canoe crazy chief direct picture miss atom series soccer verb";

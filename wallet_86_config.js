@@ -1,1 +1,1 @@
-var mnemonic = "neck attack assist short eight say pyramid estate jump never include romance";
+var mnemonic = "bulb miracle manual young wedding arrow mushroom birth advice raise avocado awake";

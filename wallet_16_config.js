@@ -1,1 +1,1 @@
-var mnemonic = "few long amount lend close humble reform hockey length home turtle outer";
+var mnemonic = "life border address mushroom hover spatial person update boat illness total category";

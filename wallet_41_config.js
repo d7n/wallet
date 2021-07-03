@@ -1,1 +1,1 @@
-var mnemonic = "lobster rebuild broccoli discover explain dream large deer swamp junk mobile manage";
+var mnemonic = "tiger poet amused logic during enact reject derive cattle kind reflect alarm";

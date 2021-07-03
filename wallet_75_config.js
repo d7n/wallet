@@ -1,1 +1,1 @@
-var mnemonic = "series comfort smoke talk impulse trip absent decide mother punch funny focus";
+var mnemonic = "helmet ginger present just pride donate hawk rain average plunge they captain";

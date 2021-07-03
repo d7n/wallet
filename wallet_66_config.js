@@ -1,1 +1,1 @@
-var mnemonic = "size core trumpet jealous giraffe inflict damage silver anxiety fish alarm enter";
+var mnemonic = "million gas need tonight adjust order nature exchange race smile enact rich";

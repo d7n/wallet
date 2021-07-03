@@ -1,1 +1,1 @@
-var mnemonic = "modify protect poem vacuum among sword sentence shine rate detail grunt expand";
+var mnemonic = "soon merry must deputy siege ketchup tuna model decorate day bulk romance";

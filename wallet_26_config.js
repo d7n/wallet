@@ -1,1 +1,1 @@
-var mnemonic = "mask alter cricket possible ticket shed stomach reward hand robust cable try";
+var mnemonic = "check inner fashion rent radar cereal matter retire hard budget license key";

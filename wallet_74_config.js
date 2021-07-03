@@ -1,1 +1,1 @@
-var mnemonic = "tissue reward risk stumble only snap code ladder head mother program aim";
+var mnemonic = "yellow express fitness execute final edit copper print antenna model position clever";

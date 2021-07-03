@@ -1,1 +1,1 @@
-var mnemonic = "spatial champion result cycle advice cloth brave calm stem kidney opera budget";
+var mnemonic = "patch lawsuit flee panda canoe segment start will elder noise uphold tool";

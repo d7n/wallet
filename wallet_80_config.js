@@ -1,1 +1,1 @@
-var mnemonic = "neglect federal occur share pig oppose flee gallery effort lazy food orange";
+var mnemonic = "canoe confirm region display shed wage isolate cattle film uphold black minimum";

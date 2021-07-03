@@ -1,1 +1,1 @@
-var mnemonic = "scrub office review oblige rebel naive exclude enemy ladder disorder flee fever";
+var mnemonic = "citizen zone negative reunion alcohol soldier treat cycle rice minor tongue diagram";

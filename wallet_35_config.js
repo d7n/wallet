@@ -1,1 +1,1 @@
-var mnemonic = "already sort dumb acquire gentle seminar venture puppy burger flat enlist sun";
+var mnemonic = "december large version absent cushion stove romance own couch hat goat path";

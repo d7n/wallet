@@ -1,1 +1,1 @@
-var mnemonic = "orbit hazard local tuna income metal chaos copy repair dad evidence because";
+var mnemonic = "decade hybrid sorry vapor object latin page black picture shoulder wasp mail";

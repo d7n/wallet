@@ -1,1 +1,1 @@
-var mnemonic = "leaf ozone sign unhappy enter wide piano valve stone bright magic birth";
+var mnemonic = "unaware bacon light lecture proud maid rebel priority happy prize sail victory";

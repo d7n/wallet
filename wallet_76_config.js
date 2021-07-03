@@ -1,1 +1,1 @@
-var mnemonic = "series mom claim green produce crop either type amateur galaxy anchor harbor";
+var mnemonic = "grow delay stomach special spirit witness stage okay turn list bind aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "save crisp orbit creek profit draft observe prepare raven piano accident brown";
+var mnemonic = "life rule valve lava miracle input virtual letter another hover diagram benefit";

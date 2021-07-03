@@ -1,1 +1,1 @@
-var mnemonic = "vendor trouble youth permit during funny indicate quote glory fruit clarify arrive";
+var mnemonic = "glare swallow noodle diamond runway good develop voyage tonight stumble liquid syrup";

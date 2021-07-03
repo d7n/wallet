@@ -1,1 +1,1 @@
-var mnemonic = "either minute scene term angle light ticket cave talk flower library wise";
+var mnemonic = "advice device wish casino asset snap vivid chunk soccer burden same regret";

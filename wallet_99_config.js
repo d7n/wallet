@@ -1,1 +1,1 @@
-var mnemonic = "adjust know fringe antique calm resource hobby cloud denial sphere parrot chalk";
+var mnemonic = "phrase muffin issue bring lamp joy sausage midnight orient powder arrange night";

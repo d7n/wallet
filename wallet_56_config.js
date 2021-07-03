@@ -1,1 +1,1 @@
-var mnemonic = "acquire produce good scout noise metal nut eye season hand odor industry";
+var mnemonic = "culture maze rigid duty spoon loyal add again attitude extra wrong blush";

@@ -1,1 +1,1 @@
-var mnemonic = "crash genius cry fame electric snake bottom illness rigid gym heart chair";
+var mnemonic = "debris electric surprise cream program drive group congress argue raw museum acquire";

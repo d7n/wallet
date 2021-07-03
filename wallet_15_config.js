@@ -1,1 +1,1 @@
-var mnemonic = "cushion wool cool member voyage virus fuel flush pepper answer leave exchange";
+var mnemonic = "month margin follow design loud choose hammer stool coffee myth whale runway";

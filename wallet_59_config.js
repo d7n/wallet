@@ -1,1 +1,1 @@
-var mnemonic = "broccoli fitness glove add abstract renew retreat title amazing vivid symbol country";
+var mnemonic = "slot suspect amazing century cereal churn fence stool close height shift destroy";

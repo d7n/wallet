@@ -1,1 +1,1 @@
-var mnemonic = "burger mimic green photo emerge obtain fancy faint kid cliff void broom";
+var mnemonic = "alarm auto weasel churn power tuna spawn patch street fit wheel glance";

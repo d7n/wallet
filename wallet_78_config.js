@@ -1,1 +1,1 @@
-var mnemonic = "drum school explain wood frown reunion write prosper choose glance you glory";
+var mnemonic = "edit speak peanut run lounge remain question category warrior evoke brush age";

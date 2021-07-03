@@ -1,1 +1,1 @@
-var mnemonic = "filter object tackle actor toy ball door lion blossom gap actual unhappy";
+var mnemonic = "portion amateur admit border avocado valid treat gentle exercise hunt vacant wife";

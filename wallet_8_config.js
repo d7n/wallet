@@ -1,1 +1,1 @@
-var mnemonic = "brother glad wisdom fix unlock equal veteran today hello coffee grant armor";
+var mnemonic = "coyote beach banana fee chalk unaware use riot evil can action ignore";

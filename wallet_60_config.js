@@ -1,1 +1,1 @@
-var mnemonic = "supply online chest spray fish sign swarm vendor sure plate pair wreck";
+var mnemonic = "lawsuit inner slice security cattle ask merry pond orbit expand mandate cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "boat swim brave spy giggle aunt suffer pig wing book adapt castle";
+var mnemonic = "fly marble twice easy black stock miss gadget gun buddy oyster play";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt discover later casino object actor comfort can come empower fringe world";
+var mnemonic = "cousin apology visit beef foam armor clown extra estate category teach walnut";

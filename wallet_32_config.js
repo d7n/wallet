@@ -1,1 +1,1 @@
-var mnemonic = "priority talent medal camera intact idle horror tragic grid isolate rapid genuine";
+var mnemonic = "infant document broccoli slow dream hat hip middle century poem gown danger";

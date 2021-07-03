@@ -1,1 +1,1 @@
-var mnemonic = "conduct duck brown cable shift once coffee regular ripple cheap ritual crunch";
+var mnemonic = "craft tongue garage lamp quick cram fancy kind pretty over near vocal";

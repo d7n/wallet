@@ -1,1 +1,1 @@
-var mnemonic = "blind spare wrestle diagram lunar female return issue protect slide ahead fix";
+var mnemonic = "wild organ bacon mail rain coffee corn stand riot behave wave affair";

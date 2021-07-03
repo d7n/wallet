@@ -1,1 +1,1 @@
-var mnemonic = "balcony rotate cart cup lamp grass salute sweet almost that despair spoon";
+var mnemonic = "please keen filter ozone organ river apology doctor window title maze phone";

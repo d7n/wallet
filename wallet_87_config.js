@@ -1,1 +1,1 @@
-var mnemonic = "later clock unhappy boost jungle common penalty beyond kitten camera kind entire";
+var mnemonic = "pistol clean smart average nephew carpet acid they tag hover pistol scale";

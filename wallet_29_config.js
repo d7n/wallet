@@ -1,1 +1,1 @@
-var mnemonic = "picnic pear siren grace tide sudden item primary jeans brass stable approve";
+var mnemonic = "book file battle brown case race govern vital casual replace squirrel spirit";

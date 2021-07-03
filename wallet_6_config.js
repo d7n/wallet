@@ -1,1 +1,1 @@
-var mnemonic = "fuel barrel police tail execute dirt donkey edit aspect quantum wolf upgrade";
+var mnemonic = "argue adjust depth inject neither broom leader decrease stuff subway tragic door";

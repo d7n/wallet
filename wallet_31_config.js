@@ -1,1 +1,1 @@
-var mnemonic = "sibling wash oblige visit twice defy yard hammer person midnight neglect walnut";
+var mnemonic = "brief share swing fortune later century struggle into human jealous team chef";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt photo fat genre ripple phrase purse piano rent carbon ozone six";
+var mnemonic = "fire icon know awful where chunk view connect creek beach another buddy";

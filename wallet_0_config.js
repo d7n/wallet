@@ -1,1 +1,1 @@
-var mnemonic = "window lonely copy plug column will jar clean ill filter beach fine";
+var mnemonic = "receive win coyote game quit shove outer salt tortoise bargain garden series";

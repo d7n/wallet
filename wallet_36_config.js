@@ -1,1 +1,1 @@
-var mnemonic = "relief merry figure dove seven tilt hobby push height purse attack oval";
+var mnemonic = "envelope feed distance hungry decorate six symptom artist tissue recall chest cute";

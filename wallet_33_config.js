@@ -1,1 +1,1 @@
-var mnemonic = "bamboo among hour bicycle salt enough mobile illness tribe danger valve gadget";
+var mnemonic = "dolphin trap mix matter mammal garage lab cabin agree cry rent habit";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper exact denial task author panther legend square wild wide escape nest";
+var mnemonic = "radar tree title fade shift private corn prefer alpha brother warrior march";

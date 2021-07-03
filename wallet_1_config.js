@@ -1,1 +1,1 @@
-var mnemonic = "index hundred trust blast enroll build flat labor garage romance more talent";
+var mnemonic = "arrest menu little stool scout april hover drift whip donor ladder kind";

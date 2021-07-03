@@ -1,1 +1,1 @@
-var mnemonic = "main renew limb also display service menu surprise among manage priority analyst";
+var mnemonic = "box carbon element idle million gospel agree salon stock click jewel tree";

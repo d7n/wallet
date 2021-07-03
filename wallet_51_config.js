@@ -1,1 +1,1 @@
-var mnemonic = "roof lens wild loan garage message physical cactus fruit bird viable romance";
+var mnemonic = "distance banana food trade scheme audit remove gallery top rescue capital frame";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan inmate vault vanish error cloth pudding forward climb birth ginger then";
+var mnemonic = "glory table crop edit fiber piano typical bleak monster identify lottery spray";

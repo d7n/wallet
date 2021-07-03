@@ -1,1 +1,1 @@
-var mnemonic = "spin truth love swarm legend dentist copper snap caution weasel simple census";
+var mnemonic = "kid album enrich myself radio laugh ranch current naive issue bottom priority";

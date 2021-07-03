@@ -1,1 +1,1 @@
-var mnemonic = "despair skate seed square upset drip odor owner cable squirrel lesson mom";
+var mnemonic = "educate image foam weapon brain punch announce front conduct frown fringe fragile";

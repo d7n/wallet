@@ -1,1 +1,1 @@
-var mnemonic = "stove dignity chronic shrug toddler regret cave horror cliff canoe direct recycle";
+var mnemonic = "soap pluck layer canvas cancel pink cricket act pony wing alert fault";

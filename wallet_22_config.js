@@ -1,1 +1,1 @@
-var mnemonic = "album dad volume arrange butter that shadow advice panda trick gift smile";
+var mnemonic = "avoid prize below another month other clay unaware fortune evidence general safe";

@@ -1,1 +1,1 @@
-var mnemonic = "orient speak stumble pink medal minor pool yard hand better scissors vapor";
+var mnemonic = "shallow afraid cool example leisure doctor estate moon zebra bean climb bundle";

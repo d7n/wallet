@@ -1,1 +1,1 @@
-var mnemonic = "glue scorpion gasp thing wife choice coconut model opinion follow behave tomorrow";
+var mnemonic = "width exhaust neutral enforce fiber enjoy few tenant leopard sorry pass regular";

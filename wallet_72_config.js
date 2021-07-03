@@ -1,1 +1,1 @@
-var mnemonic = "example ill idle head clown round depth hollow lawn critic grid staff";
+var mnemonic = "guard chair there doll service empower jealous shield response labor youth lunar";

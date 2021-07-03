@@ -1,1 +1,1 @@
-var mnemonic = "mushroom august fiction account regular taxi match problem relax answer chef budget";
+var mnemonic = "number quantum want dragon rich blame jaguar surround keen wall clutch goose";

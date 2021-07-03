@@ -1,1 +1,1 @@
-var mnemonic = "margin hub again share offer lend guide slow media ice strong alcohol";
+var mnemonic = "spend alley unveil collect heavy cart health combine because spring surface hire";

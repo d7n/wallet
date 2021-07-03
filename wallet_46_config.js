@@ -1,1 +1,1 @@
-var mnemonic = "oil water wheel card choose antique shiver heavy trophy close solve lake";
+var mnemonic = "task evidence smile surface swear initial corn wet since vessel still merge";

@@ -1,1 +1,1 @@
-var mnemonic = "view number bright scatter split huge top gravity accident unlock basket cable";
+var mnemonic = "angry laundry year eager uncle eight excite sibling arrange tired pattern tuition";

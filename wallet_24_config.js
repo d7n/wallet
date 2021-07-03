@@ -1,1 +1,1 @@
-var mnemonic = "delay lawn short feel ticket north review visual lunch smart critic major";
+var mnemonic = "ticket gift equal judge observe polar bundle mixed soda mountain key stumble";

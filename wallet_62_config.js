@@ -1,1 +1,1 @@
-var mnemonic = "wife muscle level coral tissue stamp pond wealth minute universe awkward police";
+var mnemonic = "genius special coral check carry plug skirt genius label practice juice fame";

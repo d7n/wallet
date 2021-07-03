@@ -1,1 +1,1 @@
-var mnemonic = "damp noodle elder hen sleep worth device world silk spatial buzz clog";
+var mnemonic = "profit flock pride chunk uncover canoe grass carpet virus flavor remain bar";

@@ -1,1 +1,1 @@
-var mnemonic = "turn hotel cattle acoustic never mushroom glare seek hope help dash junior";
+var mnemonic = "vacuum blue hood evil teach calm auction example cushion busy vessel measure";

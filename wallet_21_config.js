@@ -1,1 +1,1 @@
-var mnemonic = "wide pudding journey plunge sun sad usage sure cinnamon hundred tobacco inherit";
+var mnemonic = "column champion range educate author license uphold siege ice direct secret drastic";

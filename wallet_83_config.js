@@ -1,1 +1,1 @@
-var mnemonic = "ready rally glove drama voice glad tonight enlist eager capable icon slice";
+var mnemonic = "cotton calm light public thought banana degree easy can know barely omit";

@@ -1,1 +1,1 @@
-var mnemonic = "release sing jar slender armed wrist best hand sunny post pretty citizen";
+var mnemonic = "market design cost place dolphin keen below menu fan solution amount point";

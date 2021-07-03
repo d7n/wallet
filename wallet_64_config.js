@@ -1,1 +1,1 @@
-var mnemonic = "body cute episode crouch cereal base laugh club immune nose nature mutual";
+var mnemonic = "cement still utility fantasy work race purchase loan actual wage polar illness";

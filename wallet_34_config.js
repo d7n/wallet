@@ -1,1 +1,1 @@
-var mnemonic = "trick athlete lava owner dial foam near name arrange response annual tissue";
+var mnemonic = "army radar chaos album moment tunnel lemon smart miss essence flash omit";

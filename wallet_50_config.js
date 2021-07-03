@@ -1,1 +1,1 @@
-var mnemonic = "bundle walk pipe canal fame reflect flat another pony globe champion sustain";
+var mnemonic = "arm edit napkin furnace blast science then alpha diet tongue pond lawn";

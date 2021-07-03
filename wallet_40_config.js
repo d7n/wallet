@@ -1,1 +1,1 @@
-var mnemonic = "throw term remain wise cube inch apart peanut book allow laundry real";
+var mnemonic = "disorder common side pact tube film review announce ivory magnet pudding click";

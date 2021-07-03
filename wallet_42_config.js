@@ -1,1 +1,1 @@
-var mnemonic = "push shove crawl judge good type ramp chimney warrior cruel midnight ozone";
+var mnemonic = "access miracle rebel ankle leopard gift behind inspire body broom conduct remove";

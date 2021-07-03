@@ -1,1 +1,1 @@
-var mnemonic = "behind aware knife smooth breeze fiscal shrug liar service high clay knock";
+var mnemonic = "cabin sunset taste hood symptom impact valid drift sibling quick mask copy";

@@ -1,1 +1,1 @@
-var mnemonic = "rib chase alter alien heavy during unknown hurdle melody accuse creek cup";
+var mnemonic = "clump addict illness beach erupt usual era liar under rival salmon arrive";

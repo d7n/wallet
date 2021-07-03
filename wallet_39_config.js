@@ -1,1 +1,1 @@
-var mnemonic = "wisdom decorate boss slight climb hollow essay twist position tribe genre close";
+var mnemonic = "urban creek wait guard jewel hour churn vast enable item inhale clutch";

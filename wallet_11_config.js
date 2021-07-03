@@ -1,1 +1,1 @@
-var mnemonic = "devote monster clean noble orchard anxiety few spare voyage exist height replace";
+var mnemonic = "motor column galaxy impulse common thrive candy west tiny route flock squirrel";

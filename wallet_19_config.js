@@ -1,1 +1,1 @@
-var mnemonic = "produce connect apology belt manual chaos eyebrow drop hurt funny subject argue";
+var mnemonic = "hold electric relax cave grocery rescue pluck fun boy lava account toilet";

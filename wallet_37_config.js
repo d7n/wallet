@@ -1,1 +1,1 @@
-var mnemonic = "weekend donor spread accuse gloom movie olympic combine humor pretty plate burger";
+var mnemonic = "join situate guard bulk session immune true what achieve bottom town board";
