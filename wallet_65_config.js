@@ -1,1 +1,1 @@
-var mnemonic = "cup mechanic meadow desk chat great abandon veteran acid act steak roast";
+var mnemonic = "fuel gadget wave evil junior moon very cannon beauty metal artist inspire";

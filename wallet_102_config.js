@@ -1,1 +1,1 @@
-var mnemonic = "vapor staff business jealous mistake decrease artefact height kiwi stem sun bullet";
+var mnemonic = "stairs glare core idea sphere voice monkey cram trouble myth refuse moral";

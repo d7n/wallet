@@ -1,1 +1,1 @@
-var mnemonic = "imitate grid forum crane van vanish space easily reduce canoe peanut cave";
+var mnemonic = "usual month text pelican derive steel card shed coin service remember expand";

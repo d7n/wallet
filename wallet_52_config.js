@@ -1,1 +1,1 @@
-var mnemonic = "absorb wild copy rough liberty pulp craft exhaust inside estate chaos priority";
+var mnemonic = "base stove tool renew flock wrestle blood sausage rate glance taste inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "airport video zoo wide black mushroom script sound rely possible extend inflict";
+var mnemonic = "vast result outdoor liberty gesture behind involve faith shop since special recycle";

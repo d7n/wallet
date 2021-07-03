@@ -1,1 +1,1 @@
-var mnemonic = "issue banner sing page domain sport area tiny bottom clown stamp omit";
+var mnemonic = "empower jeans magnet climb abstract output powder sell coconut lesson stomach furnace";

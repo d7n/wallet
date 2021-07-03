@@ -1,1 +1,1 @@
-var mnemonic = "decrease nose brave together property enemy stone advance slush crop carbon monster";
+var mnemonic = "vocal scrap hard old extend horror select guide capital until autumn tobacco";

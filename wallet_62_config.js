@@ -1,1 +1,1 @@
-var mnemonic = "can nominee equal renew pizza buzz vacant hockey planet suggest gasp coconut";
+var mnemonic = "worth rival trim project popular million mix trim vacant home glimpse banana";

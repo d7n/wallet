@@ -1,1 +1,1 @@
-var mnemonic = "still buyer payment text argue exile girl budget mask valid harvest coach";
+var mnemonic = "suggest tenant soccer cost pull enrich inside jaguar amazing grid pass exclude";

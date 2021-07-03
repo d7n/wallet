@@ -1,1 +1,1 @@
-var mnemonic = "divorce endorse various veteran pitch blame life enjoy erase seat picture wonder";
+var mnemonic = "inquiry fix raw side above window stomach uphold unable nominee second canvas";

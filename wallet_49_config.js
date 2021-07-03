@@ -1,1 +1,1 @@
-var mnemonic = "style energy near afraid target vacant arrest moon rice kit carpet casual";
+var mnemonic = "current goose season cigar panther another guide sunset clay enough column vivid";

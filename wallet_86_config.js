@@ -1,1 +1,1 @@
-var mnemonic = "super bike strategy exchange hope load pilot goose elder near grow way";
+var mnemonic = "scout jewel pen common limit clarify real motion trade rebel copy unique";

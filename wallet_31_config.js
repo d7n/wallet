@@ -1,1 +1,1 @@
-var mnemonic = "expose innocent enable bargain fiscal title ability hospital frame hobby wedding arena";
+var mnemonic = "rival season merry blanket arrest soap garden settle bean general trigger menu";

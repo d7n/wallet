@@ -1,1 +1,1 @@
-var mnemonic = "vacant casual dad often sport give blood absurd wet lecture rotate stamp";
+var mnemonic = "cycle final control unfold kick now spike drum add gadget fine catalog";

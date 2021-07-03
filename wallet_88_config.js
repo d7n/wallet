@@ -1,1 +1,1 @@
-var mnemonic = "payment rabbit birth subject room slice very loop sorry work replace light";
+var mnemonic = "perfect banana equal speed century summer badge friend online fox opera snow";

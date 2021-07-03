@@ -1,1 +1,1 @@
-var mnemonic = "focus display oppose polar control judge gaze gown grass text under lottery";
+var mnemonic = "horse monitor zone upset dynamic prison marriage sing outer include time miracle";

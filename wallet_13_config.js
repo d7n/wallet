@@ -1,1 +1,1 @@
-var mnemonic = "fault deposit purse away oil scissors build coconut clutch tent hill hurdle";
+var mnemonic = "wash van scan mesh sister pool island amused cause fruit black attack";

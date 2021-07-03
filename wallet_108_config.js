@@ -1,1 +1,1 @@
-var mnemonic = "adapt donate ocean vote eyebrow taxi length coin first enroll blush cabin";
+var mnemonic = "culture balcony discover soda distance forum rocket flower history arrow emerge reflect";

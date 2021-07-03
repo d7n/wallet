@@ -1,1 +1,1 @@
-var mnemonic = "crisp witness talent patrol there ring lounge cloth raven security neither echo";
+var mnemonic = "perfect height judge fox path cheese quantum flight order energy leg hole";

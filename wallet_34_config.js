@@ -1,1 +1,1 @@
-var mnemonic = "return nerve more lizard song pioneer suspect total crawl damage pond arena";
+var mnemonic = "pistol cause razor lawn secret diet tonight feature aisle joke mask local";

@@ -1,1 +1,1 @@
-var mnemonic = "what mercy devote risk mammal hint ten awesome winner pumpkin resist resemble";
+var mnemonic = "inside all found omit snake rent sudden clever tree jump cost lab";

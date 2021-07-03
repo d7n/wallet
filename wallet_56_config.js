@@ -1,1 +1,1 @@
-var mnemonic = "morning zebra milk brush awkward castle design sound bachelor effort repair across";
+var mnemonic = "burger indoor choose truly duck rocket that token love fragile soda network";

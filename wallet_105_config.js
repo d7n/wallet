@@ -1,1 +1,1 @@
-var mnemonic = "trash autumn tree flat fit smart shuffle job ring diesel special royal";
+var mnemonic = "guess list kiwi sort retire furnace afford together hazard fame giant state";

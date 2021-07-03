@@ -1,1 +1,1 @@
-var mnemonic = "puzzle weasel youth shrug hand priority awful task blossom head despair perfect";
+var mnemonic = "loyal exotic father immune hover place vicious immune decline pride success worth";

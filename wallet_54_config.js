@@ -1,1 +1,1 @@
-var mnemonic = "resemble pass top when pencil plug bonus inherit laundry traffic squirrel tornado";
+var mnemonic = "mosquito magic annual hint left erupt whisper cereal economy observe coffee kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "wish repair whip license minimum solution pitch high hour gravity bird bunker";
+var mnemonic = "joy say valve ozone purchase symptom satoshi labor grid thank forget soon";

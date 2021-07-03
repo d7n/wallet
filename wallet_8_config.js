@@ -1,1 +1,1 @@
-var mnemonic = "bachelor leave pudding insane become elephant credit marriage caught annual belt glory";
+var mnemonic = "rebuild kiwi bounce hello need possible settle top involve pave popular soup";

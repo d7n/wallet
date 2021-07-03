@@ -1,1 +1,1 @@
-var mnemonic = "cliff truth add neutral thunder output hover fork busy throw boss robot";
+var mnemonic = "spoil laugh legend equip royal play doll glimpse example account vibrant hen";

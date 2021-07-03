@@ -1,1 +1,1 @@
-var mnemonic = "piano valley curve oven leopard grid kick knife wrestle bullet artefact prize";
+var mnemonic = "pen fence worth parade eager harbor verb diamond route detail afford cream";

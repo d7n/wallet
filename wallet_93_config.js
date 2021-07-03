@@ -1,1 +1,1 @@
-var mnemonic = "report grunt badge pave oil cost write bean bullet magic struggle between";
+var mnemonic = "crumble erode orchard pizza snow pond boat desert angry artefact mimic must";

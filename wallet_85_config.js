@@ -1,1 +1,1 @@
-var mnemonic = "foot exchange boat disorder pond mother please master aspect pyramid olympic dirt";
+var mnemonic = "excite acoustic focus orbit loyal ring reason service local pumpkin embrace close";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate much clarify stereo push enter suffer keen faint opinion reject index";
+var mnemonic = "transfer cupboard leisure problem assault wear canvas short dutch gloom flight grass";

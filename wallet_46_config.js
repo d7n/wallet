@@ -1,1 +1,1 @@
-var mnemonic = "blade shy program attract board artwork prize scissors adult lobster check search";
+var mnemonic = "elite dragon honey team club robust office sample quantum decorate spend blanket";

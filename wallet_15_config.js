@@ -1,1 +1,1 @@
-var mnemonic = "load under kangaroo fatal industry defy three mango milk eight strategy gas";
+var mnemonic = "glance donor grass unknown hair left donor autumn library raven fiction ordinary";

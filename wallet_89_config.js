@@ -1,1 +1,1 @@
-var mnemonic = "junior become banana above chimney bean radar cheap person trouble neutral ask";
+var mnemonic = "hurt address smile leopard long champion tray test sustain gorilla badge present";

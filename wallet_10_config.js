@@ -1,1 +1,1 @@
-var mnemonic = "throw flip weasel put amateur tail sick derive boy tiger private tomato";
+var mnemonic = "setup industry drip truth muffin cheap scene scissors episode prevent orient hungry";

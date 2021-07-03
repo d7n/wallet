@@ -1,1 +1,1 @@
-var mnemonic = "carpet hundred art breeze step brand push arch pulse extend rally hub";
+var mnemonic = "casual rebuild output pitch weird hen panic rare visa south salon easy";

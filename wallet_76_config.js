@@ -1,1 +1,1 @@
-var mnemonic = "asset toe urge enough heavy portion pyramid pet wealth blast lounge census";
+var mnemonic = "bargain wise loud bleak rhythm neck float horse loan stable narrow hobby";

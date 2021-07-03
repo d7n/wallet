@@ -1,1 +1,1 @@
-var mnemonic = "amazing action abstract stock fragile street upset grunt supply canal arrive unhappy";
+var mnemonic = "need check rather balance fury miracle segment judge blast hazard cave enforce";

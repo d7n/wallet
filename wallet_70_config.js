@@ -1,1 +1,1 @@
-var mnemonic = "play blast disorder flock say cause settle tribe syrup pool industry nest";
+var mnemonic = "try cloud put useless clerk drink employ bus license clock stand portion";

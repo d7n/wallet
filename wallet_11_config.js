@@ -1,1 +1,1 @@
-var mnemonic = "before voice flame course focus issue fit indoor junior volcano fatigue cherry";
+var mnemonic = "bring keep barely crater top garlic broom shallow news joke priority unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "chase come farm soap mosquito inside bullet enable next lunch fit cigar";
+var mnemonic = "supreme vital version talk drill spread skull sing reject glance hand indoor";

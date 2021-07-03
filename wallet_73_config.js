@@ -1,1 +1,1 @@
-var mnemonic = "best shrimp pair depart kite rather explain scissors velvet short purity opera";
+var mnemonic = "spare junior burger dentist alcohol slide soul unique license clutch crowd demand";

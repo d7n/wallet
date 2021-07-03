@@ -1,1 +1,1 @@
-var mnemonic = "almost swing divorce polar coconut side flip copy warfare lyrics eight length";
+var mnemonic = "sting type pill warrior soldier review math exhibit master away bus clinic";

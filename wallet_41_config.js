@@ -1,1 +1,1 @@
-var mnemonic = "that better disagree manage cook drastic ball chicken odor question sad limit";
+var mnemonic = "used story elevator melt hard trick stove force result tunnel always twenty";

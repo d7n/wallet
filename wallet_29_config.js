@@ -1,1 +1,1 @@
-var mnemonic = "axis position blue awake enhance around wet sword oval lens swamp decrease";
+var mnemonic = "lens boat motor inmate burger aim apology snake second auto spoon cannon";

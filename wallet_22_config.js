@@ -1,1 +1,1 @@
-var mnemonic = "need student rocket author dry stock fantasy flip eye color affair arrange";
+var mnemonic = "increase course helmet business census paper afford clap yard sphere rail warrior";

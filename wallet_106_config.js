@@ -1,1 +1,1 @@
-var mnemonic = "deal height future jelly acoustic road brief quiz vocal equal puppy brick";
+var mnemonic = "wine table exercise staff conduct split liquid derive cool conduct day prison";

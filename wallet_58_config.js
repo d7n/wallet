@@ -1,1 +1,1 @@
-var mnemonic = "shove mixed accuse leader apart end tornado hill road dice slice citizen";
+var mnemonic = "draw aerobic job rescue minimum bring clinic remove craft muscle learn middle";

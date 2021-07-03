@@ -1,1 +1,1 @@
-var mnemonic = "frown mango expect copy sight opera service language car thank bring lawsuit";
+var mnemonic = "rose drill end parrot settle much plate theme eternal lake frequent food";

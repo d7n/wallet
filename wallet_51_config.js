@@ -1,1 +1,1 @@
-var mnemonic = "dose illness attitude cherry quick soon endorse jeans enroll protect liberty trumpet";
+var mnemonic = "toddler elephant reject friend improve post wall snap bind identify average snack";

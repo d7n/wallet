@@ -1,1 +1,1 @@
-var mnemonic = "just water grunt favorite high kite during talent alpha motor hobby similar";
+var mnemonic = "heart write exotic slogan cotton size mechanic robot vacant among ability finger";

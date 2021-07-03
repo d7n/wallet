@@ -1,1 +1,1 @@
-var mnemonic = "drive flag deposit rural october damage group opinion attend another mimic level";
+var mnemonic = "spot page spike mouse slide defense toilet dune author sentence tomorrow bulk";

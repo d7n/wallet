@@ -1,1 +1,1 @@
-var mnemonic = "brother chalk final hurt equip inform always female glass hidden boost teach";
+var mnemonic = "couple visa all clock young visual seat pioneer decorate submit face capable";

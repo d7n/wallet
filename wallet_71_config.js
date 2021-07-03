@@ -1,1 +1,1 @@
-var mnemonic = "siren aware wife amount pottery analyst knee mother window relief prepare air";
+var mnemonic = "culture pulp early shallow swift girl bench citizen between exclude canyon wrist";

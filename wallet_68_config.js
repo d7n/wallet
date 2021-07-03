@@ -1,1 +1,1 @@
-var mnemonic = "elite pony essence version orbit current window column brisk ride general journey";
+var mnemonic = "either weasel fever glance cook become weasel worth elegant fun napkin ecology";

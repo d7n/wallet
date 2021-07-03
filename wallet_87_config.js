@@ -1,1 +1,1 @@
-var mnemonic = "badge spell love invite twenty remind metal ankle one jaguar marble little";
+var mnemonic = "extra harvest blade favorite speak lawsuit spray crucial quick impulse slam mixed";

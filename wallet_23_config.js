@@ -1,1 +1,1 @@
-var mnemonic = "donate beef multiply dad differ furnace indicate staff fade observe mechanic excite";
+var mnemonic = "awake labor monster palace calm sunset bean drum parade remember thunder vendor";

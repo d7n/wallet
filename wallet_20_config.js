@@ -1,1 +1,1 @@
-var mnemonic = "rail give long move destroy today remember pattern steel asthma abandon tornado";
+var mnemonic = "swallow chalk yellow forest dinosaur sword casino garden worth lamp hint vendor";

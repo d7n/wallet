@@ -1,1 +1,1 @@
-var mnemonic = "behave air post health lab protect hour mosquito various citizen dinosaur trash";
+var mnemonic = "spatial sausage embody dolphin expect aim vault category method drift fruit draw";

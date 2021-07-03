@@ -1,1 +1,1 @@
-var mnemonic = "soap apple equip jazz isolate neglect chapter excite gauge indicate curtain quick";
+var mnemonic = "fatigue degree wild approve wild usual carpet erupt unknown fuel jaguar transfer";

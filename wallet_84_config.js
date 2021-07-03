@@ -1,1 +1,1 @@
-var mnemonic = "unique scan bronze reform pear actor clip host scare twin situate left";
+var mnemonic = "drip concert orphan siege fold basket diagram home feature cry shine bless";

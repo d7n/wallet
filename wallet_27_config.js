@@ -1,1 +1,1 @@
-var mnemonic = "seat coil squeeze grit risk glad arrow amateur wrestle benefit pool axis";
+var mnemonic = "traffic orient suit silk antique salon only crush multiply dilemma wire palm";

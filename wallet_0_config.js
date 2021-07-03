@@ -1,1 +1,1 @@
-var mnemonic = "twenty gloom dentist metal brother accuse ribbon advice believe impose surprise element";
+var mnemonic = "merit tuna sponsor senior hand permit vital shiver exile audit assault phrase";

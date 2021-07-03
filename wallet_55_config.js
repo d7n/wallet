@@ -1,1 +1,1 @@
-var mnemonic = "reopen mimic husband heavy argue retreat capable move wolf chase scorpion client";
+var mnemonic = "wage input throw tonight judge quote wall top elite mirror chicken sight";

@@ -1,1 +1,1 @@
-var mnemonic = "fade decline trouble collect dove enlist catalog city job soap woman caution";
+var mnemonic = "lucky flame organ ozone scan lesson foil argue museum sad please crisp";

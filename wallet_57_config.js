@@ -1,1 +1,1 @@
-var mnemonic = "name brown raven try grocery invite market adjust sausage suggest ahead salmon";
+var mnemonic = "bar east board ribbon edit shaft weird basic notice picture system shift";

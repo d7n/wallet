@@ -1,1 +1,1 @@
-var mnemonic = "canal trash act wish decorate absurd shiver wealth marble sponsor flavor clump";
+var mnemonic = "donor diet alien sponsor harvest frown net crucial success east priority magic";

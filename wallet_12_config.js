@@ -1,1 +1,1 @@
-var mnemonic = "planet gloom estate pattern pill buddy cream business latin clever any vote";
+var mnemonic = "capable blossom congress rescue neutral patch have borrow wood donkey decide weather";

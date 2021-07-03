@@ -1,1 +1,1 @@
-var mnemonic = "language poverty mushroom taste supply oblige memory illegal idea pumpkin flavor screen";
+var mnemonic = "clever change amazing smart doctor net foster consider cloud weird august flee";

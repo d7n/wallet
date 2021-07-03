@@ -1,1 +1,1 @@
-var mnemonic = "lava immune stage half remove pond bike rain brisk error exist census";
+var mnemonic = "amused matrix work cherry chat pencil gown fence custom neck cube club";

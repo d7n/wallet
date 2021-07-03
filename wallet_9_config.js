@@ -1,1 +1,1 @@
-var mnemonic = "man above throw suit moral daughter vintage office agent coin crisp husband";
+var mnemonic = "north wet apology bright split hybrid diesel brother flag reason mention donkey";

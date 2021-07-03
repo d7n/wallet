@@ -1,1 +1,1 @@
-var mnemonic = "danger city stable segment inhale goat trap common happy picnic valid worth";
+var mnemonic = "replace execute hurry network erupt cattle jump wisdom shock provide ripple honey";

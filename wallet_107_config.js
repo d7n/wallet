@@ -1,1 +1,1 @@
-var mnemonic = "program when cotton budget pledge category visit mom pause nephew second office";
+var mnemonic = "over plug mercy cluster border space stable minor fit rack discover hard";

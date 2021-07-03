@@ -1,1 +1,1 @@
-var mnemonic = "grocery artefact flip brown execute vessel uphold absurd sphere rate payment dad";
+var mnemonic = "father walk book meadow rose surround destroy filter layer joke invest hand";

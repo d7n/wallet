@@ -1,1 +1,1 @@
-var mnemonic = "rhythm sorry autumn dinosaur rocket oxygen enemy bag wedding artefact patient marriage";
+var mnemonic = "diet hub mind punch cluster name happy butter shine increase rural warfare";

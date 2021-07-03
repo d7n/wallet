@@ -1,1 +1,1 @@
-var mnemonic = "cruel other claim smoke code ankle tourist large rabbit record entire steak";
+var mnemonic = "hard arrive enemy mercy exotic evoke earn weekend riot fluid finger crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil double lesson crop smooth panda shed tumble monkey amateur wasp island";
+var mnemonic = "light off obvious unveil differ soap ladder auto fork car fee enhance";

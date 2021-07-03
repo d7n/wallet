@@ -1,1 +1,1 @@
-var mnemonic = "invite explain cram exhaust sun dune tortoise render main hundred proud mobile";
+var mnemonic = "stuff abandon fantasy aspect draw river good ice noise piece wink pencil";

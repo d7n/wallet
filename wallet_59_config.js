@@ -1,1 +1,1 @@
-var mnemonic = "merry whip mosquito treat ship click glide digital illegal wedding shield churn";
+var mnemonic = "want spike veteran text wheel present tobacco fat brush brown travel drift";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf more home cube month bird lobster fury tower prison clerk never";
+var mnemonic = "grass prize ethics track twist relax knife tuition skill top round nasty";

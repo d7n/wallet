@@ -1,1 +1,1 @@
-var mnemonic = "gospel insect pause always head syrup donor round settle dignity chef crop";
+var mnemonic = "volume season enact usual urge pipe panic glass genuine name marriage wisdom";

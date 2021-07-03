@@ -1,1 +1,1 @@
-var mnemonic = "aerobic evoke mystery wood current tourist vintage wet chaos during enjoy fox";
+var mnemonic = "salute saddle online borrow deer crawl tomorrow flavor calm february usual bachelor";

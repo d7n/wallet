@@ -1,1 +1,1 @@
-var mnemonic = "finish bread bone stairs zone kite merry victory slight rifle divide exercise";
+var mnemonic = "entire flash traffic roof flip jelly arm globe certain april prize fan";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance slight rifle grid lamp answer vapor bread special win wink rich";
+var mnemonic = "catch army result level cloth eyebrow rhythm grape october border romance liquid";

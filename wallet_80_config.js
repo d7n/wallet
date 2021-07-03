@@ -1,1 +1,1 @@
-var mnemonic = "work crumble evolve turtle misery buyer next indoor save three lend fitness";
+var mnemonic = "motor parade express board route write side tuna hub donor december label";

@@ -1,1 +1,1 @@
-var mnemonic = "win nasty obscure shoulder wreck black kind debris finish grass sunny rally";
+var mnemonic = "party spirit normal invest kit width dentist suit video assist tonight bread";

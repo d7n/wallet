@@ -1,1 +1,1 @@
-var mnemonic = "odor news tooth health aunt noodle swarm else step salad evil street";
+var mnemonic = "senior depth easy point ethics awake medal urge wisdom pave doll sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "drift copper hood tissue kidney give decade employ plunge human vacuum birth";
+var mnemonic = "solution multiply dish year grunt angry tape puppy lumber doctor gravity loyal";

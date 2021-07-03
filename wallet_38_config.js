@@ -1,1 +1,1 @@
-var mnemonic = "gaze loop cinnamon shuffle service remain point dwarf laundry remind century what";
+var mnemonic = "exit person upgrade web payment wage color leopard seven vivid vessel know";

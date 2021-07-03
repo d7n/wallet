@@ -1,1 +1,1 @@
-var mnemonic = "swap middle true olive can onion master sword army board educate shift";
+var mnemonic = "crucial shield sunset test certain pink stick volcano north air column obey";

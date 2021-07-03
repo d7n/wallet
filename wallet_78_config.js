@@ -1,1 +1,1 @@
-var mnemonic = "hint differ report opinion type wreck pull mass napkin dutch book bind";
+var mnemonic = "key term drum voyage catch satisfy devote pave fabric whip victory cliff";

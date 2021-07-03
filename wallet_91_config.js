@@ -1,1 +1,1 @@
-var mnemonic = "garbage uncover tongue stick usual kangaroo romance improve holiday spice silver adult";
+var mnemonic = "city worry favorite road toss vast essay diesel warm emotion urge vocal";

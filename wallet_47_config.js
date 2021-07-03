@@ -1,1 +1,1 @@
-var mnemonic = "pistol asset degree special valley faculty chimney shrimp island main brother obscure";
+var mnemonic = "enough beef hurt relax size caught budget priority album purpose chief latin";

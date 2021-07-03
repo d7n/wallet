@@ -1,1 +1,1 @@
-var mnemonic = "neither chimney achieve congress vivid submit skin pizza priority fatal food song";
+var mnemonic = "heart age tip west genius screen way story engage spray salon winner";

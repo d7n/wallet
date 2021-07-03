@@ -1,1 +1,1 @@
-var mnemonic = "crumble hybrid wine nasty choice ripple pond canvas tent knock hospital concert";
+var mnemonic = "holiday key damage name buddy ship lounge recall antenna enemy horror digital";

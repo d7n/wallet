@@ -1,1 +1,1 @@
-var mnemonic = "wall denial scene recycle vapor cake grain sweet include guide floor sick";
+var mnemonic = "phrase ice shift cry put discover glide increase super scheme hen ancient";
