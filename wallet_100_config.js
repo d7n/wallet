@@ -1,1 +1,1 @@
-var mnemonic = "hood total lemon record lift renew laugh grace ticket seek blanket tornado";
+var mnemonic = "review dentist pet badge taxi wrong large grace pony acid bitter sign";

@@ -1,1 +1,1 @@
-var mnemonic = "trim inside strike soft case around bird junk agent abuse identify dish";
+var mnemonic = "paddle resource canvas lens senior debris crazy core negative idea burger kiss";

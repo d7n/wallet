@@ -1,1 +1,1 @@
-var mnemonic = "trap pelican play lawn twice own draw soon depth apple snake innocent";
+var mnemonic = "antenna enable faculty able vacuum plastic picnic exotic column legend ketchup poverty";

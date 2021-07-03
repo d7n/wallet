@@ -1,1 +1,1 @@
-var mnemonic = "vacuum general arrest spawn judge pilot educate either cause unveil champion trigger";
+var mnemonic = "rocket strategy fuel include license size grid amazing have punch filter trouble";

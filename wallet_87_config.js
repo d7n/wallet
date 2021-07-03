@@ -1,1 +1,1 @@
-var mnemonic = "auction increase pelican program muscle energy picnic empty state photo brand breeze";
+var mnemonic = "lazy liquid palace fan useful green tribe torch route vote mobile world";

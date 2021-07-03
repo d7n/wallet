@@ -1,1 +1,1 @@
-var mnemonic = "price major visa help predict juice chunk patient drop provide antenna picnic";
+var mnemonic = "agent excuse bounce trust deal solve milk sorry skin useful emerge age";

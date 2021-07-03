@@ -1,1 +1,1 @@
-var mnemonic = "envelope clump smart moon grid shed chest banner anxiety loud census crawl";
+var mnemonic = "detect omit lesson grocery web hello candy main injury grape surge hip";

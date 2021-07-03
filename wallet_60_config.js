@@ -1,1 +1,1 @@
-var mnemonic = "behave avocado height increase ill curtain unfold clinic clay hire rabbit short";
+var mnemonic = "differ limb village sport barely urban mean prepare group maid mother family";

@@ -1,1 +1,1 @@
-var mnemonic = "discover faith zebra lava slogan card powder oblige axis basket melt blue";
+var mnemonic = "tree excuse mention candy visa exile drastic loan arena whisper flavor novel";

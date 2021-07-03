@@ -1,1 +1,1 @@
-var mnemonic = "despair camera patch between rebel reflect speed maximum urge lonely sentence episode";
+var mnemonic = "razor visa oxygen area asthma lucky actress slot egg old bike reduce";

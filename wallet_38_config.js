@@ -1,1 +1,1 @@
-var mnemonic = "reveal liquid vapor gun bench hold intact boring proud popular scorpion rhythm";
+var mnemonic = "frost behave cabbage empty orient ability wave picnic turkey talk toy crumble";

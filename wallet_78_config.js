@@ -1,1 +1,1 @@
-var mnemonic = "seat route style try minor element gauge drop void neck side exercise";
+var mnemonic = "liberty wide busy inquiry charge inmate wild emerge eager blur hunt practice";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend skirt clown goat spoon sort cargo breeze mushroom sad vibrant tank";
+var mnemonic = "injury repair engine catalog huge object require zero sure lab marriage lecture";

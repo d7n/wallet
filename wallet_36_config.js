@@ -1,1 +1,1 @@
-var mnemonic = "brain rifle surprise dawn dance emerge green route laptop empower world lab";
+var mnemonic = "tornado sponsor devote adult solar enforce client infant hidden rug divide amazing";

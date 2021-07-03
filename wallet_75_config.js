@@ -1,1 +1,1 @@
-var mnemonic = "chuckle detect pulp system clever check wet fitness hazard frog half know";
+var mnemonic = "asthma virus survey tragic document bacon stuff hint lecture reward inject depth";

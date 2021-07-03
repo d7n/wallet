@@ -1,1 +1,1 @@
-var mnemonic = "zone glass attack stool dish pull dash online mushroom torch shoot improve";
+var mnemonic = "magic disease between search space chat note assist certain imitate index since";

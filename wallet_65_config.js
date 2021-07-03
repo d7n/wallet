@@ -1,1 +1,1 @@
-var mnemonic = "battle model nut wonder snack height sheriff fresh quit adapt drip paddle";
+var mnemonic = "north nation dish violin push amused science inch stumble mystery weather device";

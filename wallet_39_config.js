@@ -1,1 +1,1 @@
-var mnemonic = "angle agree faculty girl tobacco crisp vault immune mandate coral half private";
+var mnemonic = "tongue office athlete cube person reduce stumble pyramid clip flavor aware urban";

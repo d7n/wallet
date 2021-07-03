@@ -1,1 +1,1 @@
-var mnemonic = "kind budget lunch twin myself depend silk degree hamster rich hello ostrich";
+var mnemonic = "turn soap below stand truth crane town earn omit awful grab trust";

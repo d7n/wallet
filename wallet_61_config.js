@@ -1,1 +1,1 @@
-var mnemonic = "afraid nation tumble minute lake finger chapter view favorite anchor end index";
+var mnemonic = "cotton glare blade organ submit frame meat gain caution fabric shop parade";

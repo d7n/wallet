@@ -1,1 +1,1 @@
-var mnemonic = "ceiling vivid bunker reduce diamond deposit peasant nominee knife cliff boost kitchen";
+var mnemonic = "buzz relief cruise now remain stamp episode gain best rich jump derive";

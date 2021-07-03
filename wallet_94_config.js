@@ -1,1 +1,1 @@
-var mnemonic = "nose inside all pizza goat way virus rice only tortoise pyramid able";
+var mnemonic = "good vendor seed tone main kidney dentist rocket welcome warfare unique else";

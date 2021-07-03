@@ -1,1 +1,1 @@
-var mnemonic = "tuna mutual onion upon there obey pulse soul item evoke violin morning";
+var mnemonic = "marriage sting connect pave image ship hamster tuition race suffer flat thank";

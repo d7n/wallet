@@ -1,1 +1,1 @@
-var mnemonic = "corn comfort monster sorry position adult candy scale produce secret tenant custom";
+var mnemonic = "helmet uncover marriage earth clarify left addict panther mistake argue trash announce";

@@ -1,1 +1,1 @@
-var mnemonic = "picture pause burst mom broccoli foam omit increase observe calm meadow fantasy";
+var mnemonic = "stadium same rebel work volume obscure mass object across joy circle nut";

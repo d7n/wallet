@@ -1,1 +1,1 @@
-var mnemonic = "design observe immense boss term elite young glue inspire wash fog farm";
+var mnemonic = "mind actress enemy glass base baby swift nest portion giggle outdoor laugh";

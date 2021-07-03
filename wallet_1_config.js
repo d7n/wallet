@@ -1,1 +1,1 @@
-var mnemonic = "faculty battle online excuse embark ring fine smart top thrive fabric task";
+var mnemonic = "eyebrow vehicle venue assume enforce say tennis loud logic radio roof hotel";

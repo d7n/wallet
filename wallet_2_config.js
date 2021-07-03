@@ -1,1 +1,1 @@
-var mnemonic = "angry horror inner civil earn furnace gloom aunt cruise question hen simple";
+var mnemonic = "hood opera emotion under claw zoo glass lobster praise sail glimpse refuse";

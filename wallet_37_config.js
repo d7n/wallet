@@ -1,1 +1,1 @@
-var mnemonic = "monkey buzz glide cricket achieve worth express bacon surge leaf patch small";
+var mnemonic = "clump broom apology color life vague goddess secret impulse myth icon label";

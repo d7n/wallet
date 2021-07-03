@@ -1,1 +1,1 @@
-var mnemonic = "upset link call waste library gravity bachelor secret amazing skate wrist clump";
+var mnemonic = "angry vehicle tube toast kitchen employ bullet bleak glass bench habit deliver";

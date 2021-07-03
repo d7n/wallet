@@ -1,1 +1,1 @@
-var mnemonic = "power size aisle device vintage cage recycle purchase attend check soup prize";
+var mnemonic = "arena tunnel inherit when laptop hurt fun consider abuse mad horn clap";

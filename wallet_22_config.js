@@ -1,1 +1,1 @@
-var mnemonic = "image stadium front thrive winner fashion chalk this poverty second february ladder";
+var mnemonic = "expand blossom argue pluck organ chair jar mimic seat crystal jewel vanish";

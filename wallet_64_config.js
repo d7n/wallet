@@ -1,1 +1,1 @@
-var mnemonic = "journey throw label kind debate journey leave supply night about antenna faint";
+var mnemonic = "estate hamster decrease caught injury expect scare certain image verb aisle record";

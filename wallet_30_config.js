@@ -1,1 +1,1 @@
-var mnemonic = "clarify dress demise carpet stool umbrella ceiling electric blossom rally genre stand";
+var mnemonic = "endorse material mosquito middle lunar glory this brass young very today web";

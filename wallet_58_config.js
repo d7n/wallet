@@ -1,1 +1,1 @@
-var mnemonic = "final blast dizzy cross other girl mind alpha hand magnet sight medal";
+var mnemonic = "slim fuel place harbor decade twenty toddler fence parent silk obey half";

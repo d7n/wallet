@@ -1,1 +1,1 @@
-var mnemonic = "scatter pelican craft combine airport wrong love announce fee horn tray solid";
+var mnemonic = "owner primary theory inject grunt leave stumble arrive verify obtain verify excite";

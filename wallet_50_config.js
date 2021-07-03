@@ -1,1 +1,1 @@
-var mnemonic = "ancient ostrich into treat then myself basic another hurdle embrace smoke resemble";
+var mnemonic = "that still few word text try survey dinosaur knife scatter flip index";

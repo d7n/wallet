@@ -1,1 +1,1 @@
-var mnemonic = "near coconut unknown allow say lady soda snack budget winner scale cricket";
+var mnemonic = "youth suffer advance state size tornado rich remind correct nature mobile hotel";

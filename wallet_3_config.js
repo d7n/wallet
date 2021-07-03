@@ -1,1 +1,1 @@
-var mnemonic = "sell churn exclude lonely stadium patch menu attack cattle patient scatter quantum";
+var mnemonic = "wisdom fantasy decade fashion exotic trigger romance good asthma blast nephew announce";

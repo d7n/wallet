@@ -1,1 +1,1 @@
-var mnemonic = "around avoid feel winner price blush doll sand volume actual couple abstract";
+var mnemonic = "interest garbage nut panic deer false obtain trouble student hungry pilot bench";

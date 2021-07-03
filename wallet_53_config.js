@@ -1,1 +1,1 @@
-var mnemonic = "hammer team believe farm follow cook jaguar tennis come hunt amazing mention";
+var mnemonic = "wedding broken behave twist film gaze boss quit dizzy awkward diesel toss";

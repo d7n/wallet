@@ -1,1 +1,1 @@
-var mnemonic = "art shove approve other address winner little romance acoustic among build color";
+var mnemonic = "must find wave judge grief swim viable clown country melody coffee chapter";

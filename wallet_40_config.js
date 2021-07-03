@@ -1,1 +1,1 @@
-var mnemonic = "foam eyebrow pond phone bridge vote betray write space eager lunar moment";
+var mnemonic = "rule moment vessel voyage ill praise acquire bamboo artefact taste try require";

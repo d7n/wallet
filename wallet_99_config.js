@@ -1,1 +1,1 @@
-var mnemonic = "foam just enjoy stamp swift soda news gauge still fresh vote fragile";
+var mnemonic = "tooth ranch maid rigid toward style drastic giant canyon upon universe zone";

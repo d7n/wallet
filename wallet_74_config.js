@@ -1,1 +1,1 @@
-var mnemonic = "latin spend blossom column diagram extra crisp misery skate flame impulse stool";
+var mnemonic = "valid safe happy kiwi laundry tray mix palace kind pony page nothing";

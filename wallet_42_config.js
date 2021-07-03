@@ -1,1 +1,1 @@
-var mnemonic = "post talk fun increase enter bundle hidden solar wreck index recycle access";
+var mnemonic = "scan card awful kit term stadium diesel electric razor noise chef proud";

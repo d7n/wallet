@@ -1,1 +1,1 @@
-var mnemonic = "seven quantum hill capable baby blush execute spatial snake make soft country";
+var mnemonic = "knock danger maze envelope caution public deposit fly soup crime unusual digital";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin meadow twin there apology skill wrist initial amused cabbage seek tobacco";
+var mnemonic = "will teach battle wave endless minor body sad life raise cover filter";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter isolate oyster aware daughter sorry misery cotton truth rigid mandate adjust";
+var mnemonic = "smoke puzzle weapon initial hotel laugh panda glue blind alley mimic farm";

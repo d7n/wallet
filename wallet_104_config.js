@@ -1,1 +1,1 @@
-var mnemonic = "antique amazing crouch arrest tongue palm rare coconut steak skull monkey arrange";
+var mnemonic = "oppose license above control fetch daring spawn verb transfer garage acoustic expect";

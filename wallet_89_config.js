@@ -1,1 +1,1 @@
-var mnemonic = "ability maze lobster trouble solar avoid wheat bind glory anchor once describe";
+var mnemonic = "connect boost category embark canal endorse bone loop evoke muscle mix spray";

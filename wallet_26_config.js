@@ -1,1 +1,1 @@
-var mnemonic = "decide web spatial case glide deny coffee old party clinic sign example";
+var mnemonic = "torch parrot skill annual kidney bicycle reward blade sign elite pyramid rose";

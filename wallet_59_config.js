@@ -1,1 +1,1 @@
-var mnemonic = "phrase angle planet convince remind artist sick supreme flat afraid average ridge";
+var mnemonic = "genius blind host click involve fever amused village gossip figure later submit";

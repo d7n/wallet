@@ -1,1 +1,1 @@
-var mnemonic = "hotel behave senior outdoor creek festival drive flavor veteran champion help where";
+var mnemonic = "glue quiz case portion wrestle wool trouble gap citizen daring govern fame";

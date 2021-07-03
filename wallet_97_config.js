@@ -1,1 +1,1 @@
-var mnemonic = "juice guard rotate raise power federal board capital answer spin fitness short";
+var mnemonic = "feed pizza stadium control put flower close defense flush march dinner husband";

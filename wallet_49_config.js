@@ -1,1 +1,1 @@
-var mnemonic = "certain enhance move enroll artwork illegal panic bleak motor laugh over timber";
+var mnemonic = "race pond frown switch tape wish fringe stick emotion check leave that";

@@ -1,1 +1,1 @@
-var mnemonic = "raise tissue audit marriage depth crew prevent lumber sustain harbor exit immune";
+var mnemonic = "best detail laugh token subject mind awake pear render dentist crater carry";

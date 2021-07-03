@@ -1,1 +1,1 @@
-var mnemonic = "exhibit more armor skate victory immense museum swift crane blast connect wheel";
+var mnemonic = "friend miracle wash august evil dizzy link agree either acid dutch first";

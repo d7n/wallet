@@ -1,1 +1,1 @@
-var mnemonic = "life document copy member age warrior bracket evolve slight extend devote cabbage";
+var mnemonic = "want sketch enjoy unknown comic ridge nerve consider peanut resource post code";

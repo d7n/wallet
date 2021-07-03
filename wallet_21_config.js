@@ -1,1 +1,1 @@
-var mnemonic = "valley betray fatigue grace sauce uncle ocean dune broom room drum small";
+var mnemonic = "crater ten must remind north silver wrist view casino mother tent comic";

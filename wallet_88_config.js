@@ -1,1 +1,1 @@
-var mnemonic = "slim absurd record vital electric autumn network hand impulse shield model learn";
+var mnemonic = "grocery vapor lucky wheat hour powder flower legend grass glory nature ghost";

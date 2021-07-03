@@ -1,1 +1,1 @@
-var mnemonic = "minimum major kid will exchange exchange truth walk syrup degree toilet perfect";
+var mnemonic = "system phone busy luxury grunt maze vivid answer bachelor quick bunker crop";

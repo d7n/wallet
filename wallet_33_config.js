@@ -1,1 +1,1 @@
-var mnemonic = "knife genuine person glare practice town cat sauce relax rely razor certain";
+var mnemonic = "obscure legal organ win title sting entire noise mix load spawn must";

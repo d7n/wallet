@@ -1,1 +1,1 @@
-var mnemonic = "coil penalty summer coconut paddle body neglect derive pony tenant sound civil";
+var mnemonic = "blue shift track source potato mechanic build suffer notable deliver hat adapt";

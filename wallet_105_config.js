@@ -1,1 +1,1 @@
-var mnemonic = "deputy diesel foot fix floor volume fiber bundle people pipe tornado surface";
+var mnemonic = "shadow final approve angry fix topple dry child enrich lazy buzz rent";

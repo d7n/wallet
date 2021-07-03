@@ -1,1 +1,1 @@
-var mnemonic = "deputy abstract tomato mercy screen december dismiss mind adapt citizen fade youth";
+var mnemonic = "rare raw index safe inside burden catch kitchen bar day radio under";

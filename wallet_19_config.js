@@ -1,1 +1,1 @@
-var mnemonic = "tornado narrow weapon injury visit clap uphold olive where reveal tooth hybrid";
+var mnemonic = "joke destroy theme proud catch spend property page animal sort supreme mansion";

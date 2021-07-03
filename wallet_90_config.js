@@ -1,1 +1,1 @@
-var mnemonic = "moral slim settle tone urban remind price rose vanish behave yellow goose";
+var mnemonic = "whale banana metal distance payment harvest mom profit ability venture arch slam";

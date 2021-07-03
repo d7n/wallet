@@ -1,1 +1,1 @@
-var mnemonic = "excuse fall guilt small napkin orbit fever script soap smooth often dwarf";
+var mnemonic = "huge cliff close equip prevent alpha glance build escape earth wire screen";

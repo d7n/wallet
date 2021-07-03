@@ -1,1 +1,1 @@
-var mnemonic = "story resist hover surround inflict damage nation hollow enjoy shift stairs latin";
+var mnemonic = "tree gospel enable coast hedgehog scissors maple fire pause quality goose weapon";

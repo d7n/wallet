@@ -1,1 +1,1 @@
-var mnemonic = "stomach wall pretty acid group twist tunnel woman laptop seek donate wire";
+var mnemonic = "faculty balcony inmate card forget asset slush garage hold sniff chicken cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "page this blouse soldier slush uphold order unaware agree kit swallow need";
+var mnemonic = "indoor dust useful force duty physical fashion reunion future subway gold wall";

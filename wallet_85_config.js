@@ -1,1 +1,1 @@
-var mnemonic = "derive million swallow law balcony sock hazard mix zebra oil scan exclude";
+var mnemonic = "worry arm coyote aerobic assist improve dish play sand vehicle lizard lift";

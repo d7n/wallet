@@ -1,1 +1,1 @@
-var mnemonic = "danger shoot robust once first law leg nothing bonus pudding stomach pilot";
+var mnemonic = "boil fun sail pair much source wall stage suffer often crumble window";

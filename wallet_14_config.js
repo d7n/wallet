@@ -1,1 +1,1 @@
-var mnemonic = "moment slam agent sock ancient comfort stove annual resist initial day theme";
+var mnemonic = "gauge sort rice cheap detect point frame page copper error pigeon opera";

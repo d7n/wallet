@@ -1,1 +1,1 @@
-var mnemonic = "laugh own wide couch crane sweet culture abuse barely ceiling man rigid";
+var mnemonic = "fault rescue buyer very toast brief inner involve erupt diesel boring orchard";

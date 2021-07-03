@@ -1,1 +1,1 @@
-var mnemonic = "food token oxygen lunch track damp derive cannon sport blame ugly wish";
+var mnemonic = "assist material crumble balance chest dune track annual legal basic crime case";

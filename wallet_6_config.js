@@ -1,1 +1,1 @@
-var mnemonic = "pipe inquiry you globe almost lesson bullet caught soccer cement patrol hill";
+var mnemonic = "tray wheel spot peace left turkey enter defy twist keen cram opera";

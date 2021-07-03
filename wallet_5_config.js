@@ -1,1 +1,1 @@
-var mnemonic = "web dry opinion envelope tree employ minute object alarm news lumber unable";
+var mnemonic = "dream ball satoshi hold truly addict unfold cliff trophy visit choose theme";

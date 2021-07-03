@@ -1,1 +1,1 @@
-var mnemonic = "monster rare amused tired control narrow time patient kitten post eternal quarter";
+var mnemonic = "color later card pelican window concert section soccer clump cotton post one";

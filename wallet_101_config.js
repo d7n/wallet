@@ -1,1 +1,1 @@
-var mnemonic = "tree differ modify cabbage blind gadget like reward airport feel service mirror";
+var mnemonic = "embark plunge myth good rookie fame real tree client boss common actress";

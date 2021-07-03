@@ -1,1 +1,1 @@
-var mnemonic = "spring kid lawn unfold concert pair field isolate any spread palm quality";
+var mnemonic = "hybrid legend rocket prepare rocket day swarm alpha ticket nice shell prize";

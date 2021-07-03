@@ -1,1 +1,1 @@
-var mnemonic = "spot bone merry major thrive way cook wagon pelican edge all potato";
+var mnemonic = "minute gorilla exile course mandate solid news alien maple cinnamon into knife";

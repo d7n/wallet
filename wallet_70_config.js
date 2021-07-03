@@ -1,1 +1,1 @@
-var mnemonic = "exhaust right cave cover mask lecture wrap plunge moon trip hurry know";
+var mnemonic = "top relax leader resource harbor aerobic horse cloud flee flag vapor angle";

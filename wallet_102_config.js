@@ -1,1 +1,1 @@
-var mnemonic = "loan genuine upset gold virus sniff note cousin mix error choose random";
+var mnemonic = "label oak inspire person layer edit circle clean black walk strike dwarf";

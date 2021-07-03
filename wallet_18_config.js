@@ -1,1 +1,1 @@
-var mnemonic = "nerve clarify melt fuel flip peasant forget face marriage canvas sight any";
+var mnemonic = "theme session used bomb patrol junk arm behave chaos trumpet panther present";

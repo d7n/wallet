@@ -1,1 +1,1 @@
-var mnemonic = "video organ fragile where inside fire else nature box cradle feed cool";
+var mnemonic = "total sibling fog crowd prosper leave wrong ten motion guitar again shallow";

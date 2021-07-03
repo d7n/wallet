@@ -1,1 +1,1 @@
-var mnemonic = "faith finish hill method chicken galaxy ten flight erosion dutch speed explain";
+var mnemonic = "raise arena cover tortoise provide riot person salmon sound slush zero human";

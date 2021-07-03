@@ -1,1 +1,1 @@
-var mnemonic = "unit host huge build differ accuse scan genuine assault quick case observe";
+var mnemonic = "blind measure mix bench ball donor vault gap when apple parent van";

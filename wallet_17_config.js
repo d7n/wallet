@@ -1,1 +1,1 @@
-var mnemonic = "casino ability pear forest buffalo noise review brave have crunch punch once";
+var mnemonic = "success ecology spice case sword end mountain sure bundle ball foot convince";
