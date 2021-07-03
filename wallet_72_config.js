@@ -1,1 +1,1 @@
-var mnemonic = "slice coral material song discover mistake ability ten ripple educate eight enhance";
+var mnemonic = "lazy tuition fun embark bridge lonely spice sun gravity sorry work inform";

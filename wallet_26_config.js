@@ -1,1 +1,1 @@
-var mnemonic = "day sure auction online hockey pizza glass vacant amazing opinion spring tent";
+var mnemonic = "crew what together crowd fragile exile fade fade traffic dutch wave artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage web radar front track card keen that armed come erosion dial";
+var mnemonic = "supply large holiday message dog host salute soda seminar runway inch priority";

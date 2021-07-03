@@ -1,1 +1,1 @@
-var mnemonic = "style palm life mom foot know expect border jaguar risk swarm layer";
+var mnemonic = "fall small grunt divorce lion title garage motion typical problem hotel profit";

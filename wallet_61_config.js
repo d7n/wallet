@@ -1,1 +1,1 @@
-var mnemonic = "escape candy amazing fuel furnace winner collect nature jealous broken myth hungry";
+var mnemonic = "noble glory kid venue flight cupboard time spy royal garage bar hurdle";

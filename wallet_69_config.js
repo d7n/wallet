@@ -1,1 +1,1 @@
-var mnemonic = "find canyon toward angry club obtain lion swallow view cover soon spell";
+var mnemonic = "ice like force riot robot correct arena path treat drift guide throw";

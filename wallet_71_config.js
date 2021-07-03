@@ -1,1 +1,1 @@
-var mnemonic = "item capital burst clinic portion real feed cherry salt patient core layer";
+var mnemonic = "finger chef nasty naive peace staff ritual space bread basket artist grief";

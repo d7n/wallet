@@ -1,1 +1,1 @@
-var mnemonic = "tobacco want gravity horse myth supply want steel file fork minor put";
+var mnemonic = "addict prison tonight session lady cover brain soup skate level object clerk";

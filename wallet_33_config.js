@@ -1,1 +1,1 @@
-var mnemonic = "develop crucial false guitar direct clock slide foil observe afford wreck claim";
+var mnemonic = "horror core insect pond ready fall obvious practice vibrant mixed come mule";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors pink soul column amused ask unhappy margin danger ticket badge mixture";
+var mnemonic = "infant toss trust assault girl idle royal venture rough oppose illness mad";

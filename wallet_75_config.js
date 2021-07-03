@@ -1,1 +1,1 @@
-var mnemonic = "federal magic sting hold course joy mystery cheap bargain move draft silent";
+var mnemonic = "pause idle donor erupt grocery omit defy picnic kind calm keep badge";

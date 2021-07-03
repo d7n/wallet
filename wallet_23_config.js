@@ -1,1 +1,1 @@
-var mnemonic = "original lens shop antenna clever blur jelly deliver please acquire ahead arrow";
+var mnemonic = "damp indicate turn present path buddy spider people during secret stereo post";

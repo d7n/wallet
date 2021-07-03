@@ -1,1 +1,1 @@
-var mnemonic = "walnut relax plastic fine open absent broom lunar void express latin sword";
+var mnemonic = "blouse okay ripple that spy wife cement raccoon salad switch visit sphere";

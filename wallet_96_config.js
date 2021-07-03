@@ -1,1 +1,1 @@
-var mnemonic = "van giggle plastic acquire sting among water vanish auction tooth chicken lady";
+var mnemonic = "clerk feed manage vapor indoor tone avocado snake safe couch culture oak";

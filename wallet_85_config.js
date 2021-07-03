@@ -1,1 +1,1 @@
-var mnemonic = "echo supply alter desert laptop dizzy vacuum rose daring client output truly";
+var mnemonic = "office oval hand raise fever desk amount afraid sun employ cheap skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "bench august stairs hood sustain badge air high census private absorb observe";
+var mnemonic = "birth spare soap trap awesome festival purity stool bomb mushroom purity strategy";

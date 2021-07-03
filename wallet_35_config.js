@@ -1,1 +1,1 @@
-var mnemonic = "speed current brown alarm aim found flag second gravity hollow invest loop";
+var mnemonic = "any orange scatter fold wing ladder journey bus forum poverty face liberty";

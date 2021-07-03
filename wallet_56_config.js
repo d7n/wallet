@@ -1,1 +1,1 @@
-var mnemonic = "organ loan runway need title bind amount sick actor core energy mouse";
+var mnemonic = "soccer achieve around jar deer dune wage degree sustain beauty maximum truck";

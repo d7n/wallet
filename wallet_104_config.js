@@ -1,1 +1,1 @@
-var mnemonic = "simple season discover symbol planet oxygen priority cram clinic verify mushroom embrace";
+var mnemonic = "weapon plastic tube stumble game view snow affair chapter humor cash grid";

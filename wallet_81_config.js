@@ -1,1 +1,1 @@
-var mnemonic = "lend frame original energy kid reopen crew bachelor rack slice clog odor";
+var mnemonic = "weasel finish answer exclude later assault couch dry hidden permit canoe increase";

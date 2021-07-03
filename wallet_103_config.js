@@ -1,1 +1,1 @@
-var mnemonic = "deer bicycle family toilet since outdoor bachelor dog skull eyebrow moon bean";
+var mnemonic = "key fan pigeon ill media expose version annual cereal genius blind rubber";

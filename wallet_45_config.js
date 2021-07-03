@@ -1,1 +1,1 @@
-var mnemonic = "panic panda robust replace foil book hollow student situate absurd ridge dolphin";
+var mnemonic = "slush pony harvest announce region case melt clinic outer rebuild caution stick";

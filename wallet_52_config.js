@@ -1,1 +1,1 @@
-var mnemonic = "decorate essay warfare napkin guard insect end forward lesson shoulder dirt food";
+var mnemonic = "color dragon cable pistol involve van indoor primary frozen acid shadow stumble";

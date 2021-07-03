@@ -1,1 +1,1 @@
-var mnemonic = "twice small session before month certain excess dignity need shine tip dish";
+var mnemonic = "deliver acid basic resemble shoot fiction snake moment modify extend happy arctic";

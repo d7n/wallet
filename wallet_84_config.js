@@ -1,1 +1,1 @@
-var mnemonic = "grab sunset fox into recipe endless juice renew stone dutch absurd night";
+var mnemonic = "bitter taxi sting undo gas raccoon eager maid grid short alter table";

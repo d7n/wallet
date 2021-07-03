@@ -1,1 +1,1 @@
-var mnemonic = "garden shove verify chest gather axis rotate burst nose demand peanut process";
+var mnemonic = "strike labor quiz novel scrub hold yard home cup talk pair divert";

@@ -1,1 +1,1 @@
-var mnemonic = "other broom actual truck diary curtain true adult cinnamon orient water sponsor";
+var mnemonic = "reward antenna candy lizard squeeze toe cloth foam patient door wide drastic";

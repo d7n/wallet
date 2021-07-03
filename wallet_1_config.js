@@ -1,1 +1,1 @@
-var mnemonic = "olympic strong news rocket short melt oyster combine physical turtle rice shy";
+var mnemonic = "chest wink juice plate also glimpse phrase clock first elegant slot worth";

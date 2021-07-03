@@ -1,1 +1,1 @@
-var mnemonic = "rapid fall yellow sun pear baby person snow used apology hint lake";
+var mnemonic = "same gown honey luggage giant move income ozone team noodle pear rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "supply can rate mountain decline virus fat deputy arena mirror company dance";
+var mnemonic = "retreat spread coil attack melt visual hover hammer spoil fog nephew curtain";

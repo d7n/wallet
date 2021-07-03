@@ -1,1 +1,1 @@
-var mnemonic = "bleak home wear cannon clay sea tank desk mammal enroll exile table";
+var mnemonic = "used cable forest bundle walnut major visit shell curve rural icon bike";

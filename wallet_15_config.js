@@ -1,1 +1,1 @@
-var mnemonic = "minimum breeze dismiss morning hunt sustain picture urge proof adjust sort they";
+var mnemonic = "apple tomato illegal march sad motor dry mention stairs fold vessel world";

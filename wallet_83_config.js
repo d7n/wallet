@@ -1,1 +1,1 @@
-var mnemonic = "assume exile edit lava neither mask draft pigeon average poem sample hole";
+var mnemonic = "planet drum similar swear destroy gospel shoe scrap survey win gravity version";

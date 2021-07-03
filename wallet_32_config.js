@@ -1,1 +1,1 @@
-var mnemonic = "emotion left alert angle output endless shock suit crane maid media aware";
+var mnemonic = "soldier year armor dignity hint banana taxi kiss analyst amount enlist memory";

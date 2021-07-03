@@ -1,1 +1,1 @@
-var mnemonic = "paper gloom spider awful elder soda proud term ancient reject estate grid";
+var mnemonic = "canvas burger panic word olive diet same either rescue pool auction pony";

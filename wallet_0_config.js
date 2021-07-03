@@ -1,1 +1,1 @@
-var mnemonic = "type atom focus captain will color solar snap public captain angle biology";
+var mnemonic = "bean muscle depend crash burger credit adult enable ceiling exercise carbon nice";

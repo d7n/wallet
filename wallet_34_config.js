@@ -1,1 +1,1 @@
-var mnemonic = "board check infant copy permit battle goat release west group evolve alpha";
+var mnemonic = "palace climb blossom occur polar vast witness bacon fetch noble cloth analyst";

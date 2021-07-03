@@ -1,1 +1,1 @@
-var mnemonic = "lift spring tag soul main tunnel nice weekend patient since peasant cement";
+var mnemonic = "net february alien enter melody mosquito vote quarter shy elephant rude pull";

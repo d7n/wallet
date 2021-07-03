@@ -1,1 +1,1 @@
-var mnemonic = "design young pulse initial fatal tip balance seven shiver chicken unlock melody";
+var mnemonic = "inject ankle change soldier lyrics victory ahead cheap tumble walk reopen abuse";

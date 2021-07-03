@@ -1,1 +1,1 @@
-var mnemonic = "group length news essence maid easily float choose immune ugly grid invite";
+var mnemonic = "clerk repeat shed damp very mask embark typical envelope shove employ gym";

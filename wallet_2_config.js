@@ -1,1 +1,1 @@
-var mnemonic = "evidence fresh grit badge machine century fit stage various seminar fuel gift";
+var mnemonic = "muffin warfare entire ivory boring lonely barrel erode nest brisk civil license";

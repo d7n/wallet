@@ -1,1 +1,1 @@
-var mnemonic = "crime hundred secret spare absurd vicious raw monkey item shrimp shrimp damp";
+var mnemonic = "trap stove hurdle useful child boy trash punch walk shoot clip viable";

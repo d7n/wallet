@@ -1,1 +1,1 @@
-var mnemonic = "crisp breeze demise solution ill orbit million scatter planet void maid upon";
+var mnemonic = "divorce tray sudden cup cat stock lawsuit theme basket concert antenna panda";

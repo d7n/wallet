@@ -1,1 +1,1 @@
-var mnemonic = "assume ostrich area tree scale payment quantum sting upon asthma name seven";
+var mnemonic = "loyal coach fish simple animal swear vote gun again silk kind arrest";

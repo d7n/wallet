@@ -1,1 +1,1 @@
-var mnemonic = "turn panda fluid knife essence front future buddy west offer taste news";
+var mnemonic = "mountain muscle snack result glow surprise family hurdle what loop basket lava";

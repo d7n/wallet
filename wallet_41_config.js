@@ -1,1 +1,1 @@
-var mnemonic = "finish field smart render wink cage very method puzzle later stool fossil";
+var mnemonic = "ahead bargain inch admit cream intact phone shed evidence develop position fabric";

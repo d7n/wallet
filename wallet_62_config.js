@@ -1,1 +1,1 @@
-var mnemonic = "salt turkey hockey flight attend ozone quantum bicycle vivid angle mistake void";
+var mnemonic = "tornado street drive diary pear current slot midnight walnut leader merge half";

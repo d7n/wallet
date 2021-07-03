@@ -1,1 +1,1 @@
-var mnemonic = "same dance blur alpha school ramp hazard panda dutch shoot ten join";
+var mnemonic = "record exit cabbage empty habit legend grocery scrap idle dentist swing detect";

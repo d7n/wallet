@@ -1,1 +1,1 @@
-var mnemonic = "stove swap census feed argue canoe that offer various common tank diamond";
+var mnemonic = "spare picnic metal excess hover pony car shy fun scene mule country";

@@ -1,1 +1,1 @@
-var mnemonic = "rather crew one skirt grass side mix horse badge turtle crush blouse";
+var mnemonic = "style merry verify sustain hen flight evolve youth region uncle nominee laundry";

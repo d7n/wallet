@@ -1,1 +1,1 @@
-var mnemonic = "profit tunnel speak dismiss general purse favorite sock umbrella any home accuse";
+var mnemonic = "leopard protect orphan ahead around forum one ramp wave vintage junior animal";

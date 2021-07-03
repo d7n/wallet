@@ -1,1 +1,1 @@
-var mnemonic = "right sunny vendor rule stuff spike cigar session human news change monster";
+var mnemonic = "copy undo flash six heart electric crew inhale diet hole cricket general";

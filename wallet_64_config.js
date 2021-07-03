@@ -1,1 +1,1 @@
-var mnemonic = "island inherit gaze opera pudding tumble abuse just minute matrix coach below";
+var mnemonic = "few web connect manage float tunnel type flush coin sorry parrot friend";

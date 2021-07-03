@@ -1,1 +1,1 @@
-var mnemonic = "salad task cinnamon boil hybrid puzzle viable misery virus large absurd frog";
+var mnemonic = "month humble local valley jelly story add evil rain bounce host inquiry";

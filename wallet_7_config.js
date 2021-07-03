@@ -1,1 +1,1 @@
-var mnemonic = "van believe then sad metal eagle regret near borrow skill provide answer";
+var mnemonic = "oyster year float fame clown oil father hood bronze random word guess";

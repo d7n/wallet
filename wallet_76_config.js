@@ -1,1 +1,1 @@
-var mnemonic = "exist approve rigid tuna sure riot world kit deny glow filter physical";
+var mnemonic = "edit left neglect weekend inflict below immense auto come aerobic stage neither";

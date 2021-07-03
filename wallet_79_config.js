@@ -1,1 +1,1 @@
-var mnemonic = "submit guide traffic response walnut segment adjust oyster tennis small sing onion";
+var mnemonic = "salon scissors enough place board approve black cliff ice dial rigid inquiry";

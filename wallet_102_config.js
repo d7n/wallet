@@ -1,1 +1,1 @@
-var mnemonic = "hospital faint brand dream cigar view school lottery lecture ginger naive sudden";
+var mnemonic = "expand review funny gospel pyramid now slogan neglect advance improve volume zone";

@@ -1,1 +1,1 @@
-var mnemonic = "stone sample basket source gym turkey nation arena human salmon gas eye";
+var mnemonic = "ticket era horn put border gym dutch fancy team crunch shuffle lyrics";

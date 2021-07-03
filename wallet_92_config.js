@@ -1,1 +1,1 @@
-var mnemonic = "spy scrub own issue penalty cruise orange dove race legend cause prosper";
+var mnemonic = "path glide blur honey regular divide paddle evolve taxi box fun auction";

@@ -1,1 +1,1 @@
-var mnemonic = "panda feel syrup soon ship evidence sign dose magic flee tourist gloom";
+var mnemonic = "hold useful vast snack suspect sound cargo away report vapor citizen planet";

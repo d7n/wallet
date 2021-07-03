@@ -1,1 +1,1 @@
-var mnemonic = "punch phone crystal blue small valve exile twenty predict fury olympic gown";
+var mnemonic = "clap legend traffic bread pelican bachelor essay response addict pact wheat view";

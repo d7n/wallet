@@ -1,1 +1,1 @@
-var mnemonic = "change used age hand base ask inquiry alien replace common rose road";
+var mnemonic = "canoe become plunge battle sister isolate suggest tilt dream puzzle assault thing";

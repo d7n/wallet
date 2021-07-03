@@ -1,1 +1,1 @@
-var mnemonic = "cross jeans chuckle lawn genius nuclear unable play narrow element laundry famous";
+var mnemonic = "brass one dish forward quality notable flag absent sugar pizza twenty moral";

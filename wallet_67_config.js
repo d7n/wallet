@@ -1,1 +1,1 @@
-var mnemonic = "peasant crime pool kind hood athlete swear deposit sudden increase salute quick";
+var mnemonic = "trip seed regret strategy border scrub fence foster slow volume idea blame";

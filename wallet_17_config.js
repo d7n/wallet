@@ -1,1 +1,1 @@
-var mnemonic = "club deputy canvas limb unique donkey occur easily avoid hint borrow bus";
+var mnemonic = "dwarf try hope else blood maze napkin few glory aspect open advice";

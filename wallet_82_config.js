@@ -1,1 +1,1 @@
-var mnemonic = "approve wolf clump chalk forward degree street title earn rule sponsor frown";
+var mnemonic = "must include warrior this exchange riot wage fruit item wild napkin post";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit orphan legend local object kid olympic invest ostrich merit giant find";
+var mnemonic = "embark cancel hungry glue cluster spot toilet item either era talent carbon";

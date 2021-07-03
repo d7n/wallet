@@ -1,1 +1,1 @@
-var mnemonic = "canal south dwarf divert spray fluid sniff scare job forest matter cancel";
+var mnemonic = "security race gadget galaxy horn iron yard cost large flip weekend receive";

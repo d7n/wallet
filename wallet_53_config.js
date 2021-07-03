@@ -1,1 +1,1 @@
-var mnemonic = "old try audit damp mass inner adult parent improve soup usual robust";
+var mnemonic = "hazard daring foam flower alley point kingdom valve reveal bargain cereal auction";

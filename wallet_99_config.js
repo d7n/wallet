@@ -1,1 +1,1 @@
-var mnemonic = "main soda industry cost radio lava crush region kiwi detect warm urge";
+var mnemonic = "twenty wild pride letter cool carbon reward service kid aerobic code arm";

@@ -1,1 +1,1 @@
-var mnemonic = "rough fortune budget write dinosaur idea over stage gift melt general vacant";
+var mnemonic = "engage topic other funny aspect monitor swing damp bachelor sell tool address";

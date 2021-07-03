@@ -1,1 +1,1 @@
-var mnemonic = "shallow fatal elegant hobby move behave host father move obvious tenant grape";
+var mnemonic = "carry earn degree moon inmate attack light arctic spider hollow math script";

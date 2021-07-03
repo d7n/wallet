@@ -1,1 +1,1 @@
-var mnemonic = "cradle wall fat call cross galaxy deputy chunk six thank leader bachelor";
+var mnemonic = "clarify ivory scrub display congress sting basic gather bike alpha kitchen glow";

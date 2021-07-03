@@ -1,1 +1,1 @@
-var mnemonic = "divorce furnace saddle thumb trouble guard trend first border upgrade army clock";
+var mnemonic = "dinosaur soup hotel crisp hurry ghost tattoo desk defy ride gallery annual";

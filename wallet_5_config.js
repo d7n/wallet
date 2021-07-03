@@ -1,1 +1,1 @@
-var mnemonic = "evolve gift inside panther rhythm wheat draft snow link pave accuse aunt";
+var mnemonic = "diesel maid mother sock perfect walk paper resemble false useless indoor repeat";

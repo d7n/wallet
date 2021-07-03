@@ -1,1 +1,1 @@
-var mnemonic = "vault favorite topple like example case feature food defy vivid screen neutral";
+var mnemonic = "turtle kitchen topic tattoo museum regret blouse salute moral slam ocean congress";

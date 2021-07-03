@@ -1,1 +1,1 @@
-var mnemonic = "weasel valley oval sad taxi poet lucky crush deputy bitter steak tongue";
+var mnemonic = "wing maximum time noble unveil evil item license design carry multiply almost";

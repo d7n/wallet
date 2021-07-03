@@ -1,1 +1,1 @@
-var mnemonic = "reveal around dragon plate success ticket injury palm case high glide bright";
+var mnemonic = "noble hello author clump flash please only health crush boil orchard repeat";

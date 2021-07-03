@@ -1,1 +1,1 @@
-var mnemonic = "sight jar whale tiger secret exclude transfer know demand gentle minimum liberty";
+var mnemonic = "purse jar clog sleep color intact level cancel twenty deal swarm custom";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble weather sail obey tribe science august sweet silent wood romance much";
+var mnemonic = "hello vehicle service fringe place merge shell barrel spike camera basic flip";
