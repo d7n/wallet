@@ -1,1 +1,1 @@
-var mnemonic = "sheriff enrich coil salute exile zero net romance differ route jealous solid";
+var mnemonic = "drama angry session erode wedding diary repeat inform radar useful warm napkin";

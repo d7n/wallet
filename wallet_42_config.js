@@ -1,1 +1,1 @@
-var mnemonic = "diagram sand live armor name ketchup cradle carbon basic olympic lounge cat";
+var mnemonic = "people near skirt gun peace misery delay horse school film file mail";

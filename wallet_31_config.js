@@ -1,1 +1,1 @@
-var mnemonic = "purity cream hair differ mandate silly damage start habit resist crouch leg";
+var mnemonic = "judge sea artefact attract minute trial wise grape april mansion miracle quote";

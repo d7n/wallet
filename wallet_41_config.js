@@ -1,1 +1,1 @@
-var mnemonic = "rescue ridge bicycle any useful bright stadium rebuild disease police mercy gossip";
+var mnemonic = "heart valve own maximum model rebel certain taste empower wing offer merit";

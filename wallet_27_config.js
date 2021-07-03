@@ -1,1 +1,1 @@
-var mnemonic = "forward forward shed easy seat crouch arrest immense security blush mushroom pool";
+var mnemonic = "enhance collect note repair inmate wish gas visual ghost creek spread hope";

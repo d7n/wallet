@@ -1,1 +1,1 @@
-var mnemonic = "sense unaware disease process exit cake mimic stable capital pair dog sort";
+var mnemonic = "mystery addict grab sound moral runway excite famous search palm loan acoustic";

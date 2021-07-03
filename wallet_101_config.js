@@ -1,1 +1,1 @@
-var mnemonic = "timber easy rotate usual pluck abuse romance high memory develop drama illegal";
+var mnemonic = "fringe way once feed brave pond option patrol street escape helmet cake";

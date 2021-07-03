@@ -1,1 +1,1 @@
-var mnemonic = "inform liberty chair twin input before height canyon deliver eight better sing";
+var mnemonic = "evolve light half such canoe wise sample boy pear pelican economy combine";

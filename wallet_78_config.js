@@ -1,1 +1,1 @@
-var mnemonic = "still behave around phrase adjust keep purchase inch cover away visit insect";
+var mnemonic = "expire harvest slow bridge crucial magic asthma weapon remind van winner chronic";

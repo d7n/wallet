@@ -1,1 +1,1 @@
-var mnemonic = "demise lemon bone soul develop rally jealous adult life bottom chicken clap";
+var mnemonic = "nature clump witness chase damp day choice copper interest artwork phrase artwork";

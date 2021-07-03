@@ -1,1 +1,1 @@
-var mnemonic = "drive piece during adapt combine debate mistake retreat canvas crawl dumb stamp";
+var mnemonic = "lawn silly goat gravity rough melt trip eternal recipe dose action nephew";

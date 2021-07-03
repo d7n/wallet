@@ -1,1 +1,1 @@
-var mnemonic = "possible art live salute judge crew nothing document expect rough job cotton";
+var mnemonic = "tank upset aim pond other galaxy taste mail search fire crop science";

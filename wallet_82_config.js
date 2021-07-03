@@ -1,1 +1,1 @@
-var mnemonic = "drill leisure cruise train range dust poem cupboard embrace catch lonely vivid";
+var mnemonic = "olive pen knee essay bamboo glass deposit mask message desert outside viable";

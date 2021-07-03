@@ -1,1 +1,1 @@
-var mnemonic = "party resource flame blanket north minor fever problem plate execute resemble camera";
+var mnemonic = "conduct series pulp mention blue remain category negative live tragic athlete toy";

@@ -1,1 +1,1 @@
-var mnemonic = "game virtual vacant convince erupt never change hand clock oxygen bread struggle";
+var mnemonic = "across ready clay clean gossip route knee mother twenty genuine scrap rug";

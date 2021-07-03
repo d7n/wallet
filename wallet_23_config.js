@@ -1,1 +1,1 @@
-var mnemonic = "puppy slice mushroom comfort valve describe armed pledge tunnel few flame glimpse";
+var mnemonic = "midnight kiss apology crumble tissue exchange net resemble illness captain property ridge";

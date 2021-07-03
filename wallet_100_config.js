@@ -1,1 +1,1 @@
-var mnemonic = "evolve crumble dignity interest advice grab ritual purity stuff speak major adult";
+var mnemonic = "sea follow travel solid target six vehicle inform electric feature shrug inside";

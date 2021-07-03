@@ -1,1 +1,1 @@
-var mnemonic = "wear erupt hurt gorilla lawsuit chat survey business knock popular quiz faint";
+var mnemonic = "mystery donate size interest address forward future step gate good throw afraid";

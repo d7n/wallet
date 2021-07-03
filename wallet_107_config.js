@@ -1,1 +1,1 @@
-var mnemonic = "lamp obvious cigar economy author flat mix enjoy blur butter club detail";
+var mnemonic = "loyal cage erupt dog pulse midnight grid panic creek ordinary tube flower";

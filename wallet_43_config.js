@@ -1,1 +1,1 @@
-var mnemonic = "flush charge medal danger risk auction wool iron gasp state trap suit";
+var mnemonic = "strategy hole stereo festival office pudding mesh usual right truly wagon obey";

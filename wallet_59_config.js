@@ -1,1 +1,1 @@
-var mnemonic = "more organ impulse pulp brief deer divert inhale style detail glass swear";
+var mnemonic = "flip ostrich resist dentist stairs dream basket option angry claim reject noodle";

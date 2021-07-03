@@ -1,1 +1,1 @@
-var mnemonic = "half innocent tuition aisle brand tunnel depend stem reduce thumb rhythm toast";
+var mnemonic = "govern thank initial despair basket busy say diet taste auction bar lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect midnight spoil point coyote siege maximum tortoise palm soup indoor trouble";
+var mnemonic = "wool barrel base song biology mandate hero artefact fine foam candy fall";

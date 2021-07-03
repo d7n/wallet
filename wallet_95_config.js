@@ -1,1 +1,1 @@
-var mnemonic = "race palm kingdom since bamboo despair grace pink jacket salute december twice";
+var mnemonic = "borrow castle grunt glow flee robust evil laundry burst federal derive napkin";

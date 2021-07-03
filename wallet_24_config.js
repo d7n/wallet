@@ -1,1 +1,1 @@
-var mnemonic = "dune net begin warm wage piece metal view cover palace before bunker";
+var mnemonic = "vast mask version catalog give zoo float smart lion fabric legal bike";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese appear virtual stool awful sudden shield bubble artefact industry stadium collect";
+var mnemonic = "involve dinner forest sketch raven icon strike code entry affair exchange child";

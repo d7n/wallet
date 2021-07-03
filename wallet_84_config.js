@@ -1,1 +1,1 @@
-var mnemonic = "effort frequent candy math auto monkey phrase master intact radio move rail";
+var mnemonic = "shadow service yard canyon pig dream song kangaroo plunge december swear quote";

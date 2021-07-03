@@ -1,1 +1,1 @@
-var mnemonic = "abandon capital material poet juice tobacco knee pony ceiling firm giraffe rain";
+var mnemonic = "grant lecture hold enable island quick also doctor domain puppy agent vehicle";

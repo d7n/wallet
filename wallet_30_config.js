@@ -1,1 +1,1 @@
-var mnemonic = "melody charge cannon fluid sauce comic loan act hen tape carry kingdom";
+var mnemonic = "mean loud venue bench exclude safe athlete apart valley rain screen cover";

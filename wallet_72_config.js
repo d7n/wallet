@@ -1,1 +1,1 @@
-var mnemonic = "air just act tent brave school frame bacon tuition morning marble busy";
+var mnemonic = "special eye polar clerk borrow ankle sense fog apology tell topic collect";

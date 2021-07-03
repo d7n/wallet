@@ -1,1 +1,1 @@
-var mnemonic = "canyon ability hair pulse slide decade return faint elephant common twelve retreat";
+var mnemonic = "involve blouse fury robust pumpkin angle exercise paper confirm dragon wrist tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage play ugly pencil secret name torch tragic utility green renew sport";
+var mnemonic = "brown miracle neutral cave size foam advance vocal also want risk month";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy patrol erase face anchor girl trend increase fan nephew saddle retreat";
+var mnemonic = "swallow recipe need mosquito need vague device wild rebuild false deputy person";

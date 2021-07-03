@@ -1,1 +1,1 @@
-var mnemonic = "utility trim summer upon point salt forest wing scale swallow renew fence";
+var mnemonic = "hockey banner trophy abuse arena cinnamon deposit payment lesson make abandon emerge";

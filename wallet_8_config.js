@@ -1,1 +1,1 @@
-var mnemonic = "inflict street robot verify one bid evoke village diesel wave junior episode";
+var mnemonic = "century judge ship firm myth board exist stadium interest fiscal ill pink";

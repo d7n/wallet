@@ -1,1 +1,1 @@
-var mnemonic = "cotton artwork bread maple funny feature disorder ecology cargo oppose cinnamon later";
+var mnemonic = "forum space leisure fatigue chicken shield arch luggage barrel custom pink hole";

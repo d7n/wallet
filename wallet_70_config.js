@@ -1,1 +1,1 @@
-var mnemonic = "dial anxiety post hood fiction broom neither symbol kiwi mention frame noodle";
+var mnemonic = "seed napkin neutral jelly joy name plate pride wrong pelican outside gentle";

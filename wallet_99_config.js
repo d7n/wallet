@@ -1,1 +1,1 @@
-var mnemonic = "cargo excite put language hockey proof flight jewel once immune biology puzzle";
+var mnemonic = "dutch magic little hello narrow dinosaur bread radar pupil nest fit market";

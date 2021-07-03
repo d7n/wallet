@@ -1,1 +1,1 @@
-var mnemonic = "input swamp raccoon also order client prepare romance topic victory bind crouch";
+var mnemonic = "inhale script caught main mystery swap buffalo cheap wreck craft nasty skill";

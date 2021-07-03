@@ -1,1 +1,1 @@
-var mnemonic = "bleak enrich under shoot bird own pass dutch obey bracket blood network";
+var mnemonic = "cash globe law noise ribbon ankle detail laptop mixture mirror off degree";

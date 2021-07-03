@@ -1,1 +1,1 @@
-var mnemonic = "glue woman eyebrow trim foam drift hello fly replace approve bacon shadow";
+var mnemonic = "elite casual dumb grit sleep cereal crime admit project uncover hurry fragile";

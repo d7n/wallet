@@ -1,1 +1,1 @@
-var mnemonic = "over veteran vicious appear benefit shove surge apple plunge banana ball token";
+var mnemonic = "immune boil there toast write cry afraid arctic transfer fever possible exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "glove disagree illness gravity tuna spy tattoo slam debris hidden success film";
+var mnemonic = "divorce glass help satoshi gate provide you enter garbage dog pen hint";

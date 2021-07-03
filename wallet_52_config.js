@@ -1,1 +1,1 @@
-var mnemonic = "uphold gold they unveil person dash crazy control stay auto pole common";
+var mnemonic = "fresh rug access express immune ridge pattern town leopard crucial brisk wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "cause march never asset join finger cake clump heart need session harbor";
+var mnemonic = "vicious crane party pill gap link bird organ sick gift lens refuse";

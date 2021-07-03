@@ -1,1 +1,1 @@
-var mnemonic = "slice buffalo mule betray merit machine example visit aunt market fox broccoli";
+var mnemonic = "update obey hockey degree auction olympic cousin table beach safe mechanic fan";

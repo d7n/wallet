@@ -1,1 +1,1 @@
-var mnemonic = "resemble direct toilet frequent elite sauce busy spider reunion wisdom view inch";
+var mnemonic = "lab sauce sun ability battle denial chat dilemma powder assault rack clutch";

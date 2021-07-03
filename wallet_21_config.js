@@ -1,1 +1,1 @@
-var mnemonic = "engine carry rhythm theme roof license ask under flock inflict oppose number";
+var mnemonic = "code obtain rabbit release dynamic skill modify gown enemy pass rich half";

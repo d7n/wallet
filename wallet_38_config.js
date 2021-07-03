@@ -1,1 +1,1 @@
-var mnemonic = "range access tennis index popular erase magic zone act voyage obey scrub";
+var mnemonic = "inspire thrive bulk since craft mother divide hero anchor cram physical useful";

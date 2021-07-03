@@ -1,1 +1,1 @@
-var mnemonic = "this gas wheel fetch lumber amused isolate morning treat grocery worth interest";
+var mnemonic = "jeans move urge future swarm short accident pole behave ugly recipe soon";

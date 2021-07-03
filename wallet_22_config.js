@@ -1,1 +1,1 @@
-var mnemonic = "sell tornado nerve select emotion ship dwarf network token blast owner delay";
+var mnemonic = "alarm jacket royal mushroom jacket silly gate pill evolve garment night undo";

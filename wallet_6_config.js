@@ -1,1 +1,1 @@
-var mnemonic = "rare forum million ask detect clump tape aunt civil student demise demise";
+var mnemonic = "share illness clock cube example spare disagree alien bonus approve airport setup";

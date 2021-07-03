@@ -1,1 +1,1 @@
-var mnemonic = "filter parrot runway future wise switch unlock hub dragon plate unlock vessel";
+var mnemonic = "blind open modify inquiry spring lunch black rather blur slice robot short";

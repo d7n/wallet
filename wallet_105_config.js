@@ -1,1 +1,1 @@
-var mnemonic = "talk west current online chapter arena guilt curtain hub hurdle letter rhythm";
+var mnemonic = "material cheese boring orange knock pigeon solar proof mail genuine knee exhaust";

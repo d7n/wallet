@@ -1,1 +1,1 @@
-var mnemonic = "photo rapid cage protect calm cheese mad ribbon mother dice anger repair";
+var mnemonic = "dutch vapor cherry code acoustic quality bind inmate flat step green spell";

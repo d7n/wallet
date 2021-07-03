@@ -1,1 +1,1 @@
-var mnemonic = "scorpion despair van false trust renew brisk brand best rice cupboard bike";
+var mnemonic = "draft inch expose wild winter salt coconut visa erupt random lounge dad";

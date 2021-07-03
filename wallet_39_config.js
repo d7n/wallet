@@ -1,1 +1,1 @@
-var mnemonic = "bottom vivid major car clay pink nominee liquid deny control orange food";
+var mnemonic = "segment bubble ostrich impact cup cycle diet cluster input coast tired repair";

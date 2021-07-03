@@ -1,1 +1,1 @@
-var mnemonic = "almost olympic lawsuit perfect party never volume august silent effort damp fog";
+var mnemonic = "excess desk venture fetch surprise super bridge sun hunt exist become position";

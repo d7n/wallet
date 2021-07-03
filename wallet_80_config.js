@@ -1,1 +1,1 @@
-var mnemonic = "excite general wheat patrol steel holiday join sphere render canyon omit stool";
+var mnemonic = "huge evoke enough axis fan disorder unlock crane seven weird burger curve";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain carry crucial piano give polar humor ankle gossip judge inside order";
+var mnemonic = "dolphin detect pistol balcony skull bridge broom vacuum great alert rebuild faculty";

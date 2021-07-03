@@ -1,1 +1,1 @@
-var mnemonic = "junior avocado disorder true own danger oxygen dune abstract priority urban soap";
+var mnemonic = "youth day material brave nation tone endless fever degree airport pledge ability";

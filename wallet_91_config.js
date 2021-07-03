@@ -1,1 +1,1 @@
-var mnemonic = "fan theory trophy edge crack patrol gospel feed monster shop left laptop";
+var mnemonic = "island indicate spot title wreck biology scorpion cruel blood permit tooth extend";

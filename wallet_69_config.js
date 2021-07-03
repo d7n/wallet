@@ -1,1 +1,1 @@
-var mnemonic = "digital rain huge aerobic elder rate noodle confirm wheel soul remind bamboo";
+var mnemonic = "picnic liquid knife angry nut walnut unfold rival remove casino patient sport";

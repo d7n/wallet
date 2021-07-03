@@ -1,1 +1,1 @@
-var mnemonic = "harbor kick laptop dilemma cricket unhappy useful pool route bind order oval";
+var mnemonic = "pluck erupt wine brown cargo enrich ticket stay exact plastic ship office";

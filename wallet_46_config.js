@@ -1,1 +1,1 @@
-var mnemonic = "address original blade smoke evil loud arm real square amused record moment";
+var mnemonic = "crowd genre spin fitness taste life cluster once equal movie wage cement";

@@ -1,1 +1,1 @@
-var mnemonic = "snow creek diagram shed polar harbor purse ribbon fun setup flash special";
+var mnemonic = "elbow lab surprise trade fox require course memory flash please aerobic orbit";

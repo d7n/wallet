@@ -1,1 +1,1 @@
-var mnemonic = "merge bid hollow meat quantum bless lucky bachelor off educate together together";
+var mnemonic = "attitude unhappy knee thunder easy seed chaos uphold drift panda quality machine";

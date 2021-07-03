@@ -1,1 +1,1 @@
-var mnemonic = "steel flip once pioneer bamboo game economy lecture meat fork beach coach";
+var mnemonic = "dose wolf inherit dog cement vanish bag win behind ask pulse boring";

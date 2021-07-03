@@ -1,1 +1,1 @@
-var mnemonic = "refuse page today narrow order poet stool frost chicken often meadow couch";
+var mnemonic = "bargain lens chaos catch census matrix endorse smart under exist pony settle";

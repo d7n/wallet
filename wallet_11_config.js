@@ -1,1 +1,1 @@
-var mnemonic = "remain second oven canal exotic one comfort enact receive trade yard ordinary";
+var mnemonic = "jelly survey tooth toast drum aisle acid idea supply live design maid";

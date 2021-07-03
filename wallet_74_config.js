@@ -1,1 +1,1 @@
-var mnemonic = "alter magic senior humor husband tree flash puppy level miss security damage";
+var mnemonic = "salmon mesh advice jelly upgrade define trick clip hard sell wrap tent";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse muffin donor limb exile cluster outer critic virtual float noble silent";
+var mnemonic = "switch flavor bamboo captain game fever crane merit caution youth aunt spatial";

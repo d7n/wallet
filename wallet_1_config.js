@@ -1,1 +1,1 @@
-var mnemonic = "physical craft child salt hood pact car parade spread often scatter abstract";
+var mnemonic = "rifle trip flee senior large rocket regret purse negative kind blush color";

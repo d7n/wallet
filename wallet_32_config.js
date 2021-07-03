@@ -1,1 +1,1 @@
-var mnemonic = "erupt pear method fame expect quantum fashion giggle learn rack guitar night";
+var mnemonic = "smile census spoil decade puppy winter profit once bracket tape review interest";

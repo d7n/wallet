@@ -1,1 +1,1 @@
-var mnemonic = "slim add honey gallery section coast elbow prevent public motor sight prefer";
+var mnemonic = "staff trumpet coyote extra census dust range just juice screen curtain spray";

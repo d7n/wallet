@@ -1,1 +1,1 @@
-var mnemonic = "basic panther choose uncover suit maze popular crawl shine turtle wedding neglect";
+var mnemonic = "bind laugh oak verify thing addict belt salt miracle dry roast problem";

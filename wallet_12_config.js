@@ -1,1 +1,1 @@
-var mnemonic = "depth vocal bread kick bright shuffle vicious green omit whisper shuffle east";
+var mnemonic = "flight joy quote hurry hole boss raven correct exit point reward direct";

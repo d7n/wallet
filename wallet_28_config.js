@@ -1,1 +1,1 @@
-var mnemonic = "delay never midnight place curtain foam isolate famous camp month school comfort";
+var mnemonic = "false panda measure current decorate attend wealth diary stamp rough beef stage";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry you raccoon park rain weapon cherry silly letter replace nothing boy";
+var mnemonic = "wolf odor kit mask quick shallow kidney space acoustic pretty water aware";

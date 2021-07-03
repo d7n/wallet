@@ -1,1 +1,1 @@
-var mnemonic = "basket limb permit fiscal accuse cousin brain noodle join hollow assault parent";
+var mnemonic = "burst vintage ignore battle outer wrestle run beauty refuse cake basic thing";

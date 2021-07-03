@@ -1,1 +1,1 @@
-var mnemonic = "jeans predict people aunt trial vicious regret brief inside mosquito tennis album";
+var mnemonic = "avocado acquire try tongue strategy lock school again tonight deliver emotion afraid";

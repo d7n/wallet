@@ -1,1 +1,1 @@
-var mnemonic = "super bulb foam equal roast decline wait deposit erupt liquid retreat lizard";
+var mnemonic = "custom later domain yard shield deer embody dust office history patient despair";

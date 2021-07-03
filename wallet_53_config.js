@@ -1,1 +1,1 @@
-var mnemonic = "hover patient drive void yard portion spice alter cabbage allow comic shy";
+var mnemonic = "sausage scan guide stadium thank estate rally art notice virus version spoil";

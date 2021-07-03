@@ -1,1 +1,1 @@
-var mnemonic = "oyster rude choose occur grow march tower organ name blanket earth lazy";
+var mnemonic = "regret supply inject obtain shield island polar throw street vanish dinner panel";

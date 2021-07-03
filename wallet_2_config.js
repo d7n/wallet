@@ -1,1 +1,1 @@
-var mnemonic = "soup juice want another creek silly practice flag brass tenant scorpion panel";
+var mnemonic = "supreme enrich supreme envelope target gap panther police blur vault bubble dice";

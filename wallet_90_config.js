@@ -1,1 +1,1 @@
-var mnemonic = "jewel behave edit health hotel speed emerge stumble dizzy maple wine orphan";
+var mnemonic = "remove ball version panda volcano fun belt regret add script lizard donate";

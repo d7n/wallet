@@ -1,1 +1,1 @@
-var mnemonic = "argue forget tree net royal label cheese ordinary science oxygen ceiling nose";
+var mnemonic = "pulse art afford spice cheese trade view kangaroo announce expand tag banner";

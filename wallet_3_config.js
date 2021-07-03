@@ -1,1 +1,1 @@
-var mnemonic = "vessel squeeze glare rose bamboo decide segment orbit sorry critic power sing";
+var mnemonic = "exhaust riot trim lend feature cook couch club suspect field blast spread";

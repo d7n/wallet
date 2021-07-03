@@ -1,1 +1,1 @@
-var mnemonic = "cabbage thumb easy bundle orchard female cheap choose rare stand measure opera";
+var mnemonic = "trust trophy barely net doll biology nice quarter fringe device chase awkward";
