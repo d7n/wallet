@@ -1,1 +1,1 @@
-var mnemonic = "sure imitate acoustic hamster elevator fit carry mutual knee trend night trip";
+var mnemonic = "island frequent volcano provide speed run giggle achieve steel quantum fault habit";

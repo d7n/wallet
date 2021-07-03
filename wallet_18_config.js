@@ -1,1 +1,1 @@
-var mnemonic = "idle cash dinosaur fox gravity ridge hollow shed shallow cream face tip";
+var mnemonic = "quiz start spend estate choice shiver helmet blush online bench achieve bread";

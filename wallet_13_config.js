@@ -1,1 +1,1 @@
-var mnemonic = "juice advice mask shock donate chaos asset inhale baby together bronze survey";
+var mnemonic = "glove lab spend absurd enforce wing matrix retreat weather summer exact sausage";

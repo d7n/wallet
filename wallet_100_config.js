@@ -1,1 +1,1 @@
-var mnemonic = "doctor endless squeeze eyebrow harsh weapon surface live snow index what season";
+var mnemonic = "nest hole achieve lake clump ignore color struggle say congress two boost";

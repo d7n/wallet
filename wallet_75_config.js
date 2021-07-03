@@ -1,1 +1,1 @@
-var mnemonic = "hurt fluid position vintage valid knee border narrow blossom quick scissors scene";
+var mnemonic = "donkey sound burden armed often oak monkey catch actor shell bounce differ";

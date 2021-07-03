@@ -1,1 +1,1 @@
-var mnemonic = "mistake kit quarter check wool chunk delay gate step south tower toast";
+var mnemonic = "hotel reveal mechanic resource solid evil shield unfair predict slot miss inquiry";

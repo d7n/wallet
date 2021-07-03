@@ -1,1 +1,1 @@
-var mnemonic = "father stock biology fold glance curtain coral jungle base ranch cheap defense";
+var mnemonic = "creek place blue spring ticket rather index sadness party moment fade buddy";

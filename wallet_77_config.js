@@ -1,1 +1,1 @@
-var mnemonic = "muffin melody bounce violin search only bright heart chief orphan follow season";
+var mnemonic = "ready fan guard amount insane clock pulse mention maid lecture okay usual";

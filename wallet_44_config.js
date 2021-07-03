@@ -1,1 +1,1 @@
-var mnemonic = "essay traffic salad craft sadness book floor snap cube provide boss initial";
+var mnemonic = "radio ripple rapid drama gun scorpion enroll hobby unveil water uncover hub";

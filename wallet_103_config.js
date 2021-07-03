@@ -1,1 +1,1 @@
-var mnemonic = "loan ugly wonder never brief dad illegal offer turtle inform need giant";
+var mnemonic = "pattern hard corn vivid dirt elbow century strategy neck camp holiday wrong";

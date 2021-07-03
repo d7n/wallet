@@ -1,1 +1,1 @@
-var mnemonic = "move end crucial attitude soul reduce street speed leave nature century hair";
+var mnemonic = "nerve ring boat scatter injury fabric biology lava sausage aerobic build lunch";

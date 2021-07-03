@@ -1,1 +1,1 @@
-var mnemonic = "foil stable boss culture orient method century suffer cabbage boss admit entry";
+var mnemonic = "boil unknown width wine pyramid embrace produce loud demise captain actress pupil";

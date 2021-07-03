@@ -1,1 +1,1 @@
-var mnemonic = "island fiber ask hub height venture salad awake dune unique arrest follow";
+var mnemonic = "dawn gift owner office able trend people pupil boring fortune venue nuclear";

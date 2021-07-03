@@ -1,1 +1,1 @@
-var mnemonic = "pepper title remain type hold trap vicious raw praise diagram measure rule";
+var mnemonic = "web kid tail cool purse inspire guess fiction december coral dumb cousin";

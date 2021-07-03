@@ -1,1 +1,1 @@
-var mnemonic = "tent stick spirit drum kick mail catch client champion myself basic swarm";
+var mnemonic = "sleep enforce south file amateur calm quality cross deny goddess sea seminar";

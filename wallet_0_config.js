@@ -1,1 +1,1 @@
-var mnemonic = "sight involve human top wide cave borrow devote become please hurdle fatigue";
+var mnemonic = "because bind element harbor drift alley donkey aerobic rack swing comic happy";

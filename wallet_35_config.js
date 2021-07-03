@@ -1,1 +1,1 @@
-var mnemonic = "place jaguar lumber salon mind under pledge tongue fragile sauce assault text";
+var mnemonic = "pair caught prepare glare suit evoke label now comic tissue lyrics palm";

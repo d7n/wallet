@@ -1,1 +1,1 @@
-var mnemonic = "group install offer today file tent fold wine gun else drift robust";
+var mnemonic = "eight chat innocent unfold height ginger october bulb help gallery blame pupil";

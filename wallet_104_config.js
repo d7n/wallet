@@ -1,1 +1,1 @@
-var mnemonic = "recall resist biology subway awkward magnet choose wear avocado waste shine jungle";
+var mnemonic = "budget believe live brave hedgehog write gentle devote analyst pelican elegant index";

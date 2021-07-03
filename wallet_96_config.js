@@ -1,1 +1,1 @@
-var mnemonic = "fever concert easily chest flock stomach bring will belt midnight unknown discover";
+var mnemonic = "space quit wet panic annual enhance expose outdoor message work thumb hard";

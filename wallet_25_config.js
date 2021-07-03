@@ -1,1 +1,1 @@
-var mnemonic = "lab chaos eternal soldier cook aspect runway pass push rack woman vague";
+var mnemonic = "organ genuine stove they quote slab rebel coil wheel render robot dutch";

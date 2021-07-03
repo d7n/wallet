@@ -1,1 +1,1 @@
-var mnemonic = "nation train busy south fish minimum safe stick marble actual eyebrow garbage";
+var mnemonic = "segment refuse garden hundred iron forum august element smile yellow mad trust";

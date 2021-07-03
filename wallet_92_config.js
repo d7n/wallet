@@ -1,1 +1,1 @@
-var mnemonic = "click axis knife fun birth accident sheriff evidence dune trumpet bounce season";
+var mnemonic = "piece accuse hobby essay ivory sand dilemma waste surface ritual tube end";

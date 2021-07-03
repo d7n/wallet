@@ -1,1 +1,1 @@
-var mnemonic = "picnic speed song evolve asthma canyon cabbage apology income fit gas gorilla";
+var mnemonic = "broom jacket village strike blame direct trophy desert agree skill aim trial";

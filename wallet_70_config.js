@@ -1,1 +1,1 @@
-var mnemonic = "mutual then arctic wing inquiry undo ecology dune inherit destroy spice universe";
+var mnemonic = "potato comfort culture carbon lift tattoo auto sail tackle twice host play";

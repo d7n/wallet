@@ -1,1 +1,1 @@
-var mnemonic = "grape moment bright flame fiber never gap calm meadow hello tenant paper";
+var mnemonic = "melody offer extra silk forest neither crush coach dial retire admit melody";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon husband true dish okay mystery party place when advance near win";
+var mnemonic = "athlete churn cable flash auction model neutral field wink organ tent panel";

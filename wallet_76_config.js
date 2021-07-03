@@ -1,1 +1,1 @@
-var mnemonic = "devote remain goddess replace crisp december jacket talent loop lyrics spatial trick";
+var mnemonic = "begin push begin provide title cushion noodle burger report kangaroo frown question";

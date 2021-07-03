@@ -1,1 +1,1 @@
-var mnemonic = "drip napkin engine water broken book pudding rhythm bacon include dirt flee";
+var mnemonic = "treat window title rabbit lonely iron define bottom dish shiver comfort swear";

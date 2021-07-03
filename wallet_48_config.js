@@ -1,1 +1,1 @@
-var mnemonic = "route pelican away endless army fence order describe today gather domain impact";
+var mnemonic = "fuel sign chalk genius pizza shield enough also sing stereo wasp athlete";

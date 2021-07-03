@@ -1,1 +1,1 @@
-var mnemonic = "earn social guitar palm notice junior shove impact boil already dove prevent";
+var mnemonic = "artwork finger corn balance blade attitude kitchen clip female phrase member gap";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel dune trim chronic client human body series blade clip believe remind";
+var mnemonic = "quote top profit false deal fluid gossip parade useful column suffer buffalo";

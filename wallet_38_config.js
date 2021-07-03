@@ -1,1 +1,1 @@
-var mnemonic = "fee theory fan siren coil retreat security indoor oval abandon daring side";
+var mnemonic = "below you burden often alpha beef idle dove mesh mercy heavy cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "sting wish other valve whip glance pact toward spatial smoke ritual cliff";
+var mnemonic = "hero senior cloth prosper answer dawn warfare rescue food obey earth camp";

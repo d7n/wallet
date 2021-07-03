@@ -1,1 +1,1 @@
-var mnemonic = "worth crash become grace race guitar buddy cactus kidney dwarf odor atom";
+var mnemonic = "hub chaos city coast current what doll air earth close they review";

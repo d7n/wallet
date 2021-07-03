@@ -1,1 +1,1 @@
-var mnemonic = "vibrant raccoon cloud sock peasant host palace gauge casual ribbon wrestle slam";
+var mnemonic = "wool bless such retreat present pink employ neutral tide canyon venue blanket";

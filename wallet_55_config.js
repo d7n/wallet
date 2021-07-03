@@ -1,1 +1,1 @@
-var mnemonic = "occur place speak truck devote camera earth ripple winter image polar among";
+var mnemonic = "asset word marriage label south radar balance grace ancient swear domain transfer";

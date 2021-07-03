@@ -1,1 +1,1 @@
-var mnemonic = "pattern clutch apple ship onion profit find toilet tank wear seven pink";
+var mnemonic = "upset renew diagram unfair else excess spike swing move yellow robot arm";

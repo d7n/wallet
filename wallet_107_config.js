@@ -1,1 +1,1 @@
-var mnemonic = "report burst world patch gallery wheel click yard quiz poverty cloud name";
+var mnemonic = "narrow napkin walnut enjoy blush torch stool tribe marine radio push hold";

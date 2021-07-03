@@ -1,1 +1,1 @@
-var mnemonic = "erupt pencil clutch chalk genius when profit orchard way grid target fetch";
+var mnemonic = "virus claw best ginger minimum mango light alert bright chapter mask pioneer";

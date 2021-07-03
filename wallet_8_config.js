@@ -1,1 +1,1 @@
-var mnemonic = "torch ranch surface ghost struggle trap identify arm gift purse agent way";
+var mnemonic = "real actress about mad parent fun flame number glide rally child legal";

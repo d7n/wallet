@@ -1,1 +1,1 @@
-var mnemonic = "science service sun paddle feature have anxiety parent sample mix fluid size";
+var mnemonic = "play advance insect awesome female soft squirrel little opinion arrow upset field";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery auto cover provide little force wood creek author sudden arctic hard";
+var mnemonic = "churn green pretty hunt zebra three wrap about cost slice glass caught";

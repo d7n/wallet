@@ -1,1 +1,1 @@
-var mnemonic = "license lazy roast finger legal next apart near turn gentle already slot";
+var mnemonic = "orchard agree dad often crush frame firm early girl there scheme film";

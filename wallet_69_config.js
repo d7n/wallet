@@ -1,1 +1,1 @@
-var mnemonic = "box title pause auction balcony sudden cram wool decade vehicle swim forum";
+var mnemonic = "idle evoke buyer exercise moment volume unknown awful response prison faith life";

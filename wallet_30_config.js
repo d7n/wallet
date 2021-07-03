@@ -1,1 +1,1 @@
-var mnemonic = "sword oppose dismiss jump excuse anxiety twist history envelope divert believe spoil";
+var mnemonic = "utility length buffalo air ski swim coffee modify load waste cover page";

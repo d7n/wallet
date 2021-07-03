@@ -1,1 +1,1 @@
-var mnemonic = "battle away grass math resist surprise twist garage slush age other betray";
+var mnemonic = "midnight flush zebra dizzy charge useful toe inject fun transfer woman chief";

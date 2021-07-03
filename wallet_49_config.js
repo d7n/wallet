@@ -1,1 +1,1 @@
-var mnemonic = "crumble harbor visa kit update museum alert fluid dignity denial arrive clerk";
+var mnemonic = "trap rule oppose bus critic else bracket board arctic rabbit sponsor celery";

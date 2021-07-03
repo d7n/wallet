@@ -1,1 +1,1 @@
-var mnemonic = "finger wrestle bulk logic retreat aspect inch iron ghost suspect dizzy fold";
+var mnemonic = "fetch unlock test seat eye hand glare staff catch more finger shop";

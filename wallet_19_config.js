@@ -1,1 +1,1 @@
-var mnemonic = "dilemma hospital enact talent grace stamp crystal okay skin filter shell rain";
+var mnemonic = "diet above blouse trim cat balance plate wrist fruit adult turkey mercy";

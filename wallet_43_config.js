@@ -1,1 +1,1 @@
-var mnemonic = "deputy embrace cable river tenant tackle fork fat minute arrange devote already";
+var mnemonic = "either perfect fluid spring often spot improve water dolphin march pet cigar";

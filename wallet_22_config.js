@@ -1,1 +1,1 @@
-var mnemonic = "wedding monster mushroom nice mesh spoil broccoli equip devote add resemble across";
+var mnemonic = "spot strategy youth sphere goose fortune collect rare topple pave garbage this";

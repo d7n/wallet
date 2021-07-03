@@ -1,1 +1,1 @@
-var mnemonic = "sight jeans casino cargo fun camp net perfect exile saddle transfer best";
+var mnemonic = "report chair escape tuition uphold morning that blame visual inside pull floor";

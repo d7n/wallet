@@ -1,1 +1,1 @@
-var mnemonic = "until youth dress reveal fever veteran elephant hurdle fence cheese sign elevator";
+var mnemonic = "trouble trouble hip youth baby increase burst tag between unknown friend gospel";

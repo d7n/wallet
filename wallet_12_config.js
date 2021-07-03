@@ -1,1 +1,1 @@
-var mnemonic = "ribbon finish view sauce visit spatial sell model derive cake adult mimic";
+var mnemonic = "escape future fun mixture surround novel ethics device ignore echo cement spike";

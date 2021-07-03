@@ -1,1 +1,1 @@
-var mnemonic = "strategy such increase small female broccoli skin wisdom envelope resource special reunion";
+var mnemonic = "weapon oyster blind gas fat rule staff pill diamond filter climb fox";

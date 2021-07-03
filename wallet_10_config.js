@@ -1,1 +1,1 @@
-var mnemonic = "shed flat budget decrease wise brown deny knee slide expect zero truly";
+var mnemonic = "gold arm still spray desk time advance true green practice oblige recall";

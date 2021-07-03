@@ -1,1 +1,1 @@
-var mnemonic = "monster exhaust beach step april verify treat ill pave blood seminar gorilla";
+var mnemonic = "danger hamster firm dress vicious saddle number solid morning minute gauge dad";

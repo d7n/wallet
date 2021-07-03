@@ -1,1 +1,1 @@
-var mnemonic = "aim riot purpose exile gas idea couch random note eternal odor scan";
+var mnemonic = "season step protect weekend room ahead skin federal dwarf sauce similar noble";

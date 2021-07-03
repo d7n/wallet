@@ -1,1 +1,1 @@
-var mnemonic = "gym raise boil habit crumble rough chunk dinner crawl swap spring steel";
+var mnemonic = "swallow major illness hundred purchase debris course kangaroo chapter hole aisle laugh";

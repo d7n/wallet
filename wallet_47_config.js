@@ -1,1 +1,1 @@
-var mnemonic = "slab bulb virtual add tumble jelly island reason thing lake mushroom lecture";
+var mnemonic = "pony bitter age busy foam audit alpha cherry inherit because card february";

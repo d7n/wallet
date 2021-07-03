@@ -1,1 +1,1 @@
-var mnemonic = "review ostrich mutual stadium cage goddess vocal stuff genuine way label victory";
+var mnemonic = "aim during purpose network valid real book make person pen escape infant";

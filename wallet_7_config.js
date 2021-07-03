@@ -1,1 +1,1 @@
-var mnemonic = "engage real draw input canoe magnet merge barely bar angry delay survey";
+var mnemonic = "can shuffle grow bamboo always festival penalty food brush floor jeans desk";

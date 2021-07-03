@@ -1,1 +1,1 @@
-var mnemonic = "across stairs damp february stuff romance stool forest keep brush habit cram";
+var mnemonic = "club stay predict prison story impose venue romance detect forget equal tobacco";

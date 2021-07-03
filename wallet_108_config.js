@@ -1,1 +1,1 @@
-var mnemonic = "age mobile obvious vacuum educate about invite uniform tiny hint dentist clutch";
+var mnemonic = "carry carry all pen cake young slab time relief boy secret gate";

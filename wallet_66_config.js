@@ -1,1 +1,1 @@
-var mnemonic = "base diagram priority chunk harbor scene seminar attitude strategy shy logic sand";
+var mnemonic = "possible dirt vacant coffee body toddler curve width art need guard winter";

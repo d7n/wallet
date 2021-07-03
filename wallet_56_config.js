@@ -1,1 +1,1 @@
-var mnemonic = "collect frozen crunch tragic boy wise garage work child hint allow vanish";
+var mnemonic = "family weird layer abandon real maximum grass mail brain frozen lobster more";

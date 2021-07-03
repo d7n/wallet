@@ -1,1 +1,1 @@
-var mnemonic = "genre across win uncover friend fatigue average capable zero indoor gorilla umbrella";
+var mnemonic = "alcohol area image only shadow illness welcome tent quit neutral enforce blossom";

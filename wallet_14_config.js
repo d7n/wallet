@@ -1,1 +1,1 @@
-var mnemonic = "author snack noble process coffee later sniff ready neglect tattoo canvas leader";
+var mnemonic = "soap tongue blame matter lumber impact swarm spoon stool duty upper distance";

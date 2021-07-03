@@ -1,1 +1,1 @@
-var mnemonic = "region total lady icon modify uphold ready miss lazy badge ignore range";
+var mnemonic = "turn carry ignore jeans amount replace fix auto muscle sail law room";

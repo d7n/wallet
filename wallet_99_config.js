@@ -1,1 +1,1 @@
-var mnemonic = "fabric couch wealth correct dirt surge input immense vital tide tragic fury";
+var mnemonic = "wool job convince around cart tail brain trade design shed choice jump";

@@ -1,1 +1,1 @@
-var mnemonic = "olive cost bounce toward report guide business expect yellow allow wasp urban";
+var mnemonic = "hat circle submit kangaroo gloom decrease west reopen scare dial habit spot";

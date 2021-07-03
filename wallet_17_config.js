@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo found blossom settle forest chalk issue crisp fury message subject sauce";
+var mnemonic = "maze pottery mechanic sentence grain involve divert slam penalty police alert orange";

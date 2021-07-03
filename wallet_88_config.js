@@ -1,1 +1,1 @@
-var mnemonic = "decline visit blind crucial solar glue chalk foster gauge tackle infant long";
+var mnemonic = "happy object clay dynamic monitor bicycle echo front math agent coil disorder";

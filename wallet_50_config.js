@@ -1,1 +1,1 @@
-var mnemonic = "rigid column exhibit cash glide use cheap dog taxi energy guard relief";
+var mnemonic = "merit science drama round trumpet catch notable muscle soul robot monster wave";

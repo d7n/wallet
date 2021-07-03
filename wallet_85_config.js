@@ -1,1 +1,1 @@
-var mnemonic = "deliver print young mystery vote repair whale squirrel choose animal stay invite";
+var mnemonic = "figure broom inherit confirm country flock vicious payment radar aware home danger";

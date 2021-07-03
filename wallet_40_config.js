@@ -1,1 +1,1 @@
-var mnemonic = "ancient kite educate fine motion trick auction safe very green card ecology";
+var mnemonic = "enact addict cabin drink tattoo board elevator daring patient educate extend spend";

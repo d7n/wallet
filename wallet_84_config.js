@@ -1,1 +1,1 @@
-var mnemonic = "police mask shed sentence giggle deny harbor mail coin trigger fence uncover";
+var mnemonic = "crew kiss cushion auction amazing purpose coach vital glad give earn peasant";

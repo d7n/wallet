@@ -1,1 +1,1 @@
-var mnemonic = "group clay weasel route throw potato goddess faith leaf used explain mom";
+var mnemonic = "wine latin riot museum trap daughter pizza jealous brass banner sentence clean";

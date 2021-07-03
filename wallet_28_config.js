@@ -1,1 +1,1 @@
-var mnemonic = "tongue bacon street purity now acoustic dry disorder stamp tooth submit divide";
+var mnemonic = "stamp jeans begin hundred spawn leopard success radio bulb cousin include kitten";

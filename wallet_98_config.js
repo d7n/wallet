@@ -1,1 +1,1 @@
-var mnemonic = "spice rich jar light attract wise wait vital move tower series more";
+var mnemonic = "milk lumber survey deputy receive jar onion regular lady love must crowd";

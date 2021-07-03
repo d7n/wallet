@@ -1,1 +1,1 @@
-var mnemonic = "candy pull balance subway valid outside place gain symptom side kitten venture";
+var mnemonic = "van evoke speed husband debris enter mom valid couch drill fiscal just";

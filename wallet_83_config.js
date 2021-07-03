@@ -1,1 +1,1 @@
-var mnemonic = "patrol sword saddle film doll drama lake brave fancy ensure cart example";
+var mnemonic = "sell equal north crew smile run zero eye note document town problem";

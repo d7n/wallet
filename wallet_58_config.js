@@ -1,1 +1,1 @@
-var mnemonic = "clog bounce mixture tower pole occur wedding energy come cup remain fashion";
+var mnemonic = "increase decide start rebuild one manage damp print charge innocent camp warfare";

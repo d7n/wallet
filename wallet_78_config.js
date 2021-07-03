@@ -1,1 +1,1 @@
-var mnemonic = "ill secret staff body sword biology zero dinner pledge strike atom cradle";
+var mnemonic = "suggest vote prize great rubber gym remain impact usual truly walnut clerk";

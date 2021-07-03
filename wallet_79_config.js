@@ -1,1 +1,1 @@
-var mnemonic = "initial leopard learn vote door chat actual stage island burst grape fly";
+var mnemonic = "verb annual gun cause desk waste shoot cricket stage quote comfort apology";

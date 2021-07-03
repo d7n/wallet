@@ -1,1 +1,1 @@
-var mnemonic = "agree annual super crowd patient tent dutch merry account now coffee feel";
+var mnemonic = "online protect subway coyote prepare truth scare lazy ice grid globe dawn";

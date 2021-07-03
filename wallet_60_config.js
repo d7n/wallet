@@ -1,1 +1,1 @@
-var mnemonic = "discover food please glow error board mercy sauce proud shiver ghost lake";
+var mnemonic = "slide hamster piece wire cushion dinner trial manage argue own toast kid";

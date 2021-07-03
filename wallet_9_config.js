@@ -1,1 +1,1 @@
-var mnemonic = "obvious decline snap come dance derive heart pull grain marriage flat nerve";
+var mnemonic = "erosion guilt plunge awesome alpha scissors custom much label benefit artist range";

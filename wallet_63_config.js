@@ -1,1 +1,1 @@
-var mnemonic = "surface taste upon benefit sorry wait charge charge dial evil what luggage";
+var mnemonic = "mind amateur cry property unknown luggage bulk wealth loud rough anger left";

@@ -1,1 +1,1 @@
-var mnemonic = "junk deny phrase million situate digital myth general zero room pledge brand";
+var mnemonic = "together roast pill series drama spell toe apple into pill gap view";

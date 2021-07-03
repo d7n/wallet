@@ -1,1 +1,1 @@
-var mnemonic = "upset lens cost ensure pitch mail tragic stairs cupboard earth hello brass";
+var mnemonic = "exile path future drop film labor blush talent negative that price ring";

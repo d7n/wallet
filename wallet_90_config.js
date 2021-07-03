@@ -1,1 +1,1 @@
-var mnemonic = "verify office help buyer priority exit tray child credit theory vocal example";
+var mnemonic = "auto beef chronic legend giant outer jewel please jazz gift expect mushroom";
