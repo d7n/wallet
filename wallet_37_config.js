@@ -1,1 +1,1 @@
-var mnemonic = "tank delay entire daughter wild drum style fence clean cliff love model";
+var mnemonic = "satoshi once orient abuse seat budget please shop seat art october tent";

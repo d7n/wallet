@@ -1,1 +1,1 @@
-var mnemonic = "report inhale seek copper verify napkin soup extend culture grain rate oxygen";
+var mnemonic = "jeans device gather enrich alley kidney piano portion shield kangaroo silver obvious";

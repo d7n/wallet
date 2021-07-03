@@ -1,1 +1,1 @@
-var mnemonic = "glass since sheriff company stand potato jeans build vocal deer hungry used";
+var mnemonic = "rude praise transfer pupil liquid retire spare turkey social ordinary know quality";

@@ -1,1 +1,1 @@
-var mnemonic = "view bone loop above car cable iron hunt law toast jacket army";
+var mnemonic = "print glimpse width genre tortoise second close spot caution nice uncover what";

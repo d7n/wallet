@@ -1,1 +1,1 @@
-var mnemonic = "unit major innocent rich hire normal aim quick near frequent jacket north";
+var mnemonic = "flat absent purchase parent harvest detect coil next team rude tooth lyrics";

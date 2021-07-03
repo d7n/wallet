@@ -1,1 +1,1 @@
-var mnemonic = "people rare rebuild smooth shock gaze chunk scheme when toast peace carbon";
+var mnemonic = "bird law nasty hollow estate connect pudding island tribe vessel oblige soup";

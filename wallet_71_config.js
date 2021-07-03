@@ -1,1 +1,1 @@
-var mnemonic = "initial impose journey sock victory hybrid people roast toe orchard brief evoke";
+var mnemonic = "soup hold holiday dream creek blouse happy extend garment master material peanut";

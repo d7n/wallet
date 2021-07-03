@@ -1,1 +1,1 @@
-var mnemonic = "holiday purity jar fabric kind essay electric employ poem sister enable obtain";
+var mnemonic = "usage glory update word stool tree viable cabbage curious hungry funny foil";

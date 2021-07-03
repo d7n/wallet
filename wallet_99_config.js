@@ -1,1 +1,1 @@
-var mnemonic = "rain cruise plug police canal nerve silver rapid taxi phrase width swamp";
+var mnemonic = "bundle similar wealth unfair obey blind proud text giant shed hour sleep";

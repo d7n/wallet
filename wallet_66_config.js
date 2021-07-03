@@ -1,1 +1,1 @@
-var mnemonic = "strike floor hold later poem slush fence vintage useful little dwarf vague";
+var mnemonic = "arena luggage real casual taste place vicious marriage glory cloud leaf sponsor";

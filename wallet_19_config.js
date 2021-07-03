@@ -1,1 +1,1 @@
-var mnemonic = "cluster drive chaos excuse kiwi shine purchase wife volcano cause grant swallow";
+var mnemonic = "south lucky clarify clown poet kid curious trumpet sing disease dolphin setup";

@@ -1,1 +1,1 @@
-var mnemonic = "region plug clog clean labor add lift crucial exist tower strategy guitar";
+var mnemonic = "topple sock upset raise rent divorce among fetch bomb census tray beach";

@@ -1,1 +1,1 @@
-var mnemonic = "remind stadium antenna region music example apart high bread habit appear around";
+var mnemonic = "high inside never robot slab black feel use knock forest lawsuit have";

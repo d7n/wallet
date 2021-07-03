@@ -1,1 +1,1 @@
-var mnemonic = "green million refuse galaxy innocent toss breeze general vital save merge vapor";
+var mnemonic = "zebra wild face develop hammer hybrid meadow stand glue joke cloud census";

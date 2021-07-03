@@ -1,1 +1,1 @@
-var mnemonic = "arrive yard concert push stuff wrist brisk coach pencil scan table path";
+var mnemonic = "soon code violin science holiday bracket couch guide tray opera potato wing";

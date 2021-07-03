@@ -1,1 +1,1 @@
-var mnemonic = "inject skill wagon siren cousin remember elbow feed mushroom gap desert force";
+var mnemonic = "they uphold daughter ivory reject gorilla also teach bone soap wonder junior";

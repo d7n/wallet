@@ -1,1 +1,1 @@
-var mnemonic = "enforce achieve assault regular brand shoulder exile equal speak absent cargo suit";
+var mnemonic = "coach movie seed addict story tooth impulse same guess elevator order surface";

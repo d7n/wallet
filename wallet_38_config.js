@@ -1,1 +1,1 @@
-var mnemonic = "baby crawl drive comfort excess nose buddy push fit unfold april cry";
+var mnemonic = "toddler recipe permit odor popular shuffle wall trick plunge promote circle swallow";

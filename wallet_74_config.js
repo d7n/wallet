@@ -1,1 +1,1 @@
-var mnemonic = "bike destroy talent grab outer where ramp cactus fault pride move disorder";
+var mnemonic = "cheap charge extra creek night solid that panel bottom later rate assume";

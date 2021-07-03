@@ -1,1 +1,1 @@
-var mnemonic = "puppy chunk mother paddle omit sight midnight type access giant private rather";
+var mnemonic = "rib repeat express gather inflict blast attack this blouse vehicle fluid caution";

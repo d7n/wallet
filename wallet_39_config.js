@@ -1,1 +1,1 @@
-var mnemonic = "fabric evoke whale piece view one zebra mammal hunt code rose output";
+var mnemonic = "sight term pool sword pretty swallow hold coyote vast leaf inquiry build";

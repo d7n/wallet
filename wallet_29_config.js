@@ -1,1 +1,1 @@
-var mnemonic = "twenty guide tiger film intact universe damp turtle lunar glory inflict area";
+var mnemonic = "minimum pepper demand brief left fox random vacuum sketch learn rebuild hospital";

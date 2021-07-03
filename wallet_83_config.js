@@ -1,1 +1,1 @@
-var mnemonic = "become sauce neither jewel endless cry script uncle pact inflict runway brand";
+var mnemonic = "mechanic bulk process below congress rail lizard any exclude news win antique";

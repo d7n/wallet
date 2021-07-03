@@ -1,1 +1,1 @@
-var mnemonic = "response wolf mobile meadow trend bless steel alert galaxy wheel ancient perfect";
+var mnemonic = "guitar rug sell capable provide phrase cereal empower bone cram spare table";

@@ -1,1 +1,1 @@
-var mnemonic = "theory among outer hole slab wear penalty room saddle shy notice forum";
+var mnemonic = "wagon today snake game series payment hire dentist false warm include fold";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder hour art gesture case blossom motor balcony balcony picnic borrow stick";
+var mnemonic = "announce whale alarm degree guard only alien rare family attend fire shiver";

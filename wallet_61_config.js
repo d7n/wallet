@@ -1,1 +1,1 @@
-var mnemonic = "share frown kite excess congress design basket evil creek stool frequent jungle";
+var mnemonic = "myself hurt next control ancient bracket immense trial dune foam funny inch";

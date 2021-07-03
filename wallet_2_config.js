@@ -1,1 +1,1 @@
-var mnemonic = "amazing fork fat sock address vacant derive foil void embark bag renew";
+var mnemonic = "twist engage large cliff topic muscle grant tribe orange hope stumble nerve";

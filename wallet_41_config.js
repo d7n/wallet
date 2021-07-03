@@ -1,1 +1,1 @@
-var mnemonic = "front either vessel indoor math involve orbit blanket bleak near life eye";
+var mnemonic = "success traffic feature chapter aerobic relax camera lizard used entry unknown spoon";

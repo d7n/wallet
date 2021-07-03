@@ -1,1 +1,1 @@
-var mnemonic = "attack champion robust future vital gospel exercise snow park fame purchase discover";
+var mnemonic = "spread slight select appear skin vapor slide jelly dilemma mixture canyon text";

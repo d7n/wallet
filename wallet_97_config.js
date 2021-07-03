@@ -1,1 +1,1 @@
-var mnemonic = "shine stamp always foster will inquiry hurdle pudding antique escape beauty table";
+var mnemonic = "symptom normal chimney later fit youth dynamic lion brand claim insane uncover";

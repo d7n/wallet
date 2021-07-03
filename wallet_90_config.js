@@ -1,1 +1,1 @@
-var mnemonic = "fame vote network online student nut visit melody whip because sick fit";
+var mnemonic = "zoo only try endorse whale wish inquiry simple sock elder escape devote";

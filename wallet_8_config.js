@@ -1,1 +1,1 @@
-var mnemonic = "whale ivory shop tide dose soft room ridge include choice tail kitten";
+var mnemonic = "glimpse prevent hat right genuine weird gorilla evoke execute misery teach envelope";

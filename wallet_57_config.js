@@ -1,1 +1,1 @@
-var mnemonic = "earth end rain van list april drastic tragic nothing spring fold expose";
+var mnemonic = "ski rate stand umbrella vocal sheriff motor pelican patch easy live arena";

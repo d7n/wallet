@@ -1,1 +1,1 @@
-var mnemonic = "invite web add fence wolf tree behave goat secret maid option panic";
+var mnemonic = "tag clay myself elbow various bomb process fortune blue snack amazing trophy";

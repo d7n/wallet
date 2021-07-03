@@ -1,1 +1,1 @@
-var mnemonic = "candy truth inject swear gold brisk lady flush silk panther rabbit glass";
+var mnemonic = "ginger name eye trigger quantum vintage sister marriage matrix opera upon gasp";

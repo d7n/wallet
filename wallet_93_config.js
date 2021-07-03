@@ -1,1 +1,1 @@
-var mnemonic = "surprise supreme sponsor fury cat minimum chair slide spray bicycle achieve firm";
+var mnemonic = "swallow combine engine pride edit general woman sad clever poet violin frog";

@@ -1,1 +1,1 @@
-var mnemonic = "opera envelope quote often combine favorite dirt enable word surround already smile";
+var mnemonic = "citizen blossom nerve wall cook buzz peace turn muffin tornado life system";

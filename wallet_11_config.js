@@ -1,1 +1,1 @@
-var mnemonic = "long legal clinic mountain noodle tattoo sentence faith slim exist employ squirrel";
+var mnemonic = "vivid cheap skirt husband cost color oblige trap impact dirt dentist alcohol";

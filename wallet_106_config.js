@@ -1,1 +1,1 @@
-var mnemonic = "lady number velvet snow observe wrong number album fatal unknown repair basket";
+var mnemonic = "erase exile axis best resemble garage often trial kind weapon second eight";

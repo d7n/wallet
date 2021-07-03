@@ -1,1 +1,1 @@
-var mnemonic = "labor design veteran push few income beauty belt venue involve train about";
+var mnemonic = "fly suggest garden wild equal enough burger actress laugh tray exclude true";

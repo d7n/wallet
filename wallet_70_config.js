@@ -1,1 +1,1 @@
-var mnemonic = "wreck receive goose leaf crew ticket bag ancient dwarf space loyal group";
+var mnemonic = "solution novel midnight betray fatigue laugh stay lens icon giant dentist matter";

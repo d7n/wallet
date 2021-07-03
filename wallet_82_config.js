@@ -1,1 +1,1 @@
-var mnemonic = "orchard party betray marble bind miracle already plug dilemma park pig clutch";
+var mnemonic = "gesture among rose meat define teach love ivory damage property narrow brush";

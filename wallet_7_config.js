@@ -1,1 +1,1 @@
-var mnemonic = "feed verb reunion recipe image leopard emerge piano junk pluck knee nature";
+var mnemonic = "mother sustain regret asset disease tent gloom couch smooth wall often power";

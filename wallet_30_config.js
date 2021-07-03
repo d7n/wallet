@@ -1,1 +1,1 @@
-var mnemonic = "limit usual dirt wine cotton mind modify army wheat health six dune";
+var mnemonic = "brave shed aware cruise stairs shy cute uncle limit cube hazard tell";

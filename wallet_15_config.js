@@ -1,1 +1,1 @@
-var mnemonic = "priority scheme similar trim shove sausage sound become trend hair rally honey";
+var mnemonic = "approve seed radar drop wing hurt imitate sad inject slogan depart cake";

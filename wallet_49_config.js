@@ -1,1 +1,1 @@
-var mnemonic = "uphold raccoon library crawl sand close spring muscle immune violin hope salon";
+var mnemonic = "spread husband sell miracle door derive assume system absent bullet polar rather";

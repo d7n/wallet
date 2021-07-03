@@ -1,1 +1,1 @@
-var mnemonic = "leopard rifle mesh join bottom also address join rain fox uniform maze";
+var mnemonic = "exact frost drive grow abstract depth tumble valley repair spot ahead castle";

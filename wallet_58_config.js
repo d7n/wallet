@@ -1,1 +1,1 @@
-var mnemonic = "wool among box country blouse trash diamond measure pumpkin merit vanish gain";
+var mnemonic = "comfort dwarf cereal volcano beach right believe great upgrade owner front mask";

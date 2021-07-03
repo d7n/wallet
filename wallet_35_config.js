@@ -1,1 +1,1 @@
-var mnemonic = "home castle hazard airport water october bind ask pride arrest math all";
+var mnemonic = "mail divert that rotate make merit high start rescue puppy unable soap";

@@ -1,1 +1,1 @@
-var mnemonic = "actress feel awful include pear view sunny glimpse hope visit result sniff";
+var mnemonic = "notable possible roof spend glimpse essay icon sing nation enter fault scan";

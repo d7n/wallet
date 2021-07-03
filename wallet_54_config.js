@@ -1,1 +1,1 @@
-var mnemonic = "catch hospital pretty wheat fine because chief erase inherit blame leisure antenna";
+var mnemonic = "snake kingdom once chunk above circle twelve left hair notice grant dragon";

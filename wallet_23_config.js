@@ -1,1 +1,1 @@
-var mnemonic = "original sweet era machine giraffe obtain chest fortune fence end erode pride";
+var mnemonic = "keen one gun height guard used slot replace injury noble young jazz";

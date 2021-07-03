@@ -1,1 +1,1 @@
-var mnemonic = "casual analyst own hurry miracle dinosaur panther visit loud input forest old";
+var mnemonic = "indicate lumber lizard fun inherit dismiss income patient vapor glide idle congress";

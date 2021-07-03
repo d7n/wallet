@@ -1,1 +1,1 @@
-var mnemonic = "fog pottery tag exist female artist bargain glimpse eight mother mistake clinic";
+var mnemonic = "filter hockey cruel carry domain excess pizza danger senior exhaust scan ladder";

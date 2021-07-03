@@ -1,1 +1,1 @@
-var mnemonic = "scissors between scare upset upset topple drink social pupil salon beef world";
+var mnemonic = "fall pistol rough beach way answer action physical help enjoy found void";

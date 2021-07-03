@@ -1,1 +1,1 @@
-var mnemonic = "differ pluck unlock theme chase space host believe essay fox silk worth";
+var mnemonic = "curtain slim drop balcony model steel engine moon elder similar robust damage";

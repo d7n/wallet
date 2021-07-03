@@ -1,1 +1,1 @@
-var mnemonic = "grunt radar column thumb impose turn use wine tourist real aware option";
+var mnemonic = "nasty harvest soup purchase wool parent process entry honey practice device cash";

@@ -1,1 +1,1 @@
-var mnemonic = "thank comfort select legend model erode believe message vote clip describe slab";
+var mnemonic = "student snack immense melt suffer satoshi scatter final dizzy true brisk once";

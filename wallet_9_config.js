@@ -1,1 +1,1 @@
-var mnemonic = "gentle share jungle possible chat infant off banana domain fix airport rose";
+var mnemonic = "vicious twice recycle east burst pony danger rule term grow talent pretty";

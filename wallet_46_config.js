@@ -1,1 +1,1 @@
-var mnemonic = "skirt number chief buyer mass tank onion sing receive reflect achieve craft";
+var mnemonic = "thought artwork enlist happy dash amount jelly canoe liberty immune mind sting";

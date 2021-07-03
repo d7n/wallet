@@ -1,1 +1,1 @@
-var mnemonic = "enhance learn kiss want excess tuition still eternal matrix lucky rapid truth";
+var mnemonic = "wrestle confirm cotton thunder mix clinic income earth squeeze error tone once";

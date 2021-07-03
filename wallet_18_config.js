@@ -1,1 +1,1 @@
-var mnemonic = "carry toss pave home uncover coffee decline street general nephew comic swear";
+var mnemonic = "item result calm script woman fancy canyon arctic coffee main light ancient";

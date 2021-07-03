@@ -1,1 +1,1 @@
-var mnemonic = "drink layer ramp already cricket typical country two dolphin east crack promote";
+var mnemonic = "few family sample dentist beef present salad puzzle office pizza miss few";

@@ -1,1 +1,1 @@
-var mnemonic = "differ always concert coyote faint call squirrel addict tennis inquiry position excite";
+var mnemonic = "prize pitch follow code million theme share involve strong turtle twenty man";

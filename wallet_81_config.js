@@ -1,1 +1,1 @@
-var mnemonic = "forget brave duty average entry dawn build winter afford orient stone food";
+var mnemonic = "assist tourist honey leg sunset describe identify grunt butter success basic funny";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb bleak night zebra bird spray math flower mind expand right notice";
+var mnemonic = "early muscle genuine snack hand verb tourist pink ill battle crime rigid";

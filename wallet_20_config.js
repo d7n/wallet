@@ -1,1 +1,1 @@
-var mnemonic = "develop talent child kiss tumble spawn taxi brief lock maple absent timber";
+var mnemonic = "indicate invest access team rain match surprise ship initial call involve slight";

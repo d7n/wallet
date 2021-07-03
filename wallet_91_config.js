@@ -1,1 +1,1 @@
-var mnemonic = "desk truth insane inspire later huge wave reason erase uncle anger fiction";
+var mnemonic = "swap wolf ready awesome void parrot electric museum blanket method degree crawl";

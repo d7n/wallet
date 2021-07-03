@@ -1,1 +1,1 @@
-var mnemonic = "bamboo win tumble inject pluck finger thunder economy churn title able climb";
+var mnemonic = "vehicle door rural need finger clump flower capital slab unusual sign advice";

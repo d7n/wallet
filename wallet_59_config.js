@@ -1,1 +1,1 @@
-var mnemonic = "response floor menu visual script gorilla forward torch erase token panther share";
+var mnemonic = "donor rough today wet educate museum pluck man fossil draft distance essence";

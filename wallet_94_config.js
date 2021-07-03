@@ -1,1 +1,1 @@
-var mnemonic = "suffer exclude trust stove wash fantasy asthma ripple boost abandon cloth cool";
+var mnemonic = "safe month breeze system flash mass diesel crack turn autumn glad copy";

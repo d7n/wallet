@@ -1,1 +1,1 @@
-var mnemonic = "believe foot midnight raw upon smooth blanket imitate truck ladder protect coffee";
+var mnemonic = "increase online damage high reopen small anchor home measure panda track pistol";

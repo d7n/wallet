@@ -1,1 +1,1 @@
-var mnemonic = "evil bless honey stock cause buddy fence theme describe essay stove arm";
+var mnemonic = "piano gravity dad canal hard base banner bird fatigue town exercise photo";

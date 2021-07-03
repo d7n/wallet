@@ -1,1 +1,1 @@
-var mnemonic = "heart mercy cousin initial plastic illegal rabbit degree elephant what siege north";
+var mnemonic = "amused escape rude logic zero junior sense spring middle horror garlic jealous";

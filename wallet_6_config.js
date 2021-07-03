@@ -1,1 +1,1 @@
-var mnemonic = "record then million type rate mule pretty bracket clean rice soldier among";
+var mnemonic = "enjoy pair boat turn piano assist mansion relief century add minute knock";

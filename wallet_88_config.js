@@ -1,1 +1,1 @@
-var mnemonic = "practice wire tube ahead scene satoshi plastic flame dog dinner inform illegal";
+var mnemonic = "gasp lake frog lava discover burst knee dinosaur depart toe question limb";

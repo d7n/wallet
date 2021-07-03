@@ -1,1 +1,1 @@
-var mnemonic = "nominee olive limit normal reunion dream clever property allow tooth zero century";
+var mnemonic = "violin early venue liquid pigeon party flower blue seven fringe dress remind";

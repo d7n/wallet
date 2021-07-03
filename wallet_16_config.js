@@ -1,1 +1,1 @@
-var mnemonic = "pet scene join ozone family script destroy lake sing erupt lamp cargo";
+var mnemonic = "salad crowd observe candy flee switch toss olive nurse girl negative seven";

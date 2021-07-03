@@ -1,1 +1,1 @@
-var mnemonic = "subway result river number frog refuse joke sugar consider magic chronic amateur";
+var mnemonic = "media soon tent trade light write frog devote best glory lens tower";

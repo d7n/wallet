@@ -1,1 +1,1 @@
-var mnemonic = "above attend hub boring journey evolve leg ticket congress cry exotic mammal";
+var mnemonic = "fire ghost million borrow there there armed acquire note scene swing jacket";

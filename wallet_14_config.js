@@ -1,1 +1,1 @@
-var mnemonic = "violin close link crisp donate business fault loop bright cloud ensure license";
+var mnemonic = "you deal category pyramid there canvas lion cross scale stove afraid mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe end fine satoshi burst invite pony act great offer wash urge";
+var mnemonic = "since program day salt select auction fashion stamp punch decorate return inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel tent fly robot edit brick grass find board enrich road scare";
+var mnemonic = "fan stereo brown sweet stick power useful venture much leader reason notable";

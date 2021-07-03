@@ -1,1 +1,1 @@
-var mnemonic = "pool broken spend pumpkin high short apology ring zone pretty hard easily";
+var mnemonic = "hurdle shoe entry wife shift stay frown letter ordinary damp document around";

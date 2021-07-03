@@ -1,1 +1,1 @@
-var mnemonic = "ranch burden give group verb major excite advice hub basket dismiss wise";
+var mnemonic = "kitten strong noble child catch ginger candy giggle dice permit hazard space";

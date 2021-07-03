@@ -1,1 +1,1 @@
-var mnemonic = "fault surface frown fit cloud moment during denial lounge health shy congress";
+var mnemonic = "escape afraid goose hour rapid jaguar trophy mutual enemy nasty tip story";

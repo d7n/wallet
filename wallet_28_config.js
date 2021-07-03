@@ -1,1 +1,1 @@
-var mnemonic = "feature wool river antenna account question matter metal comfort also bus insect";
+var mnemonic = "matter grass logic medal dilemma retreat repair coconut high shift notice middle";

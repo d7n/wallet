@@ -1,1 +1,1 @@
-var mnemonic = "merit blue view side eight repair picnic ecology summer clay bundle trade";
+var mnemonic = "design curve income awkward envelope garment affair suspect sea arrive lesson rely";

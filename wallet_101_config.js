@@ -1,1 +1,1 @@
-var mnemonic = "skirt old canvas upgrade possible grass turtle trash affair win deputy track";
+var mnemonic = "fever decade various popular canal vintage salute put chuckle lava trade try";
