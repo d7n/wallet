@@ -1,1 +1,1 @@
-var mnemonic = "expand review funny gospel pyramid now slogan neglect advance improve volume zone";
+var mnemonic = "despair skate seed square upset drip odor owner cable squirrel lesson mom";

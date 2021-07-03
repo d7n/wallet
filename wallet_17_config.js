@@ -1,1 +1,1 @@
-var mnemonic = "dwarf try hope else blood maze napkin few glory aspect open advice";
+var mnemonic = "bounce future tube trip luggage federal regular level master top gorilla error";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket era horn put border gym dutch fancy team crunch shuffle lyrics";
+var mnemonic = "leaf ozone sign unhappy enter wide piano valve stone bright magic birth";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado street drive diary pear current slot midnight walnut leader merge half";
+var mnemonic = "wife muscle level coral tissue stamp pond wealth minute universe awkward police";

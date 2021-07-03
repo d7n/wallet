@@ -1,1 +1,1 @@
-var mnemonic = "filter plunge dumb person hat clip man symbol unique exclude draft aunt";
+var mnemonic = "fuel afford able universe guitar whale absurd never stay autumn help fragile";

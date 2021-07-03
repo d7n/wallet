@@ -1,1 +1,1 @@
-var mnemonic = "chef style brief despair cause final stand oval apple congress join recycle";
+var mnemonic = "drum school explain wood frown reunion write prosper choose glance you glory";

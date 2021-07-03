@@ -1,1 +1,1 @@
-var mnemonic = "canoe become plunge battle sister isolate suggest tilt dream puzzle assault thing";
+var mnemonic = "imitate post flee century desert truth nominee illegal garlic gravity buffalo grab";

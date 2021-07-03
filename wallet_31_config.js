@@ -1,1 +1,1 @@
-var mnemonic = "cabin south coyote skirt fever cover sustain remain case glue animal can";
+var mnemonic = "sibling wash oblige visit twice defy yard hammer person midnight neglect walnut";

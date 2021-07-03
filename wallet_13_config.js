@@ -1,1 +1,1 @@
-var mnemonic = "divorce tray sudden cup cat stock lawsuit theme basket concert antenna panda";
+var mnemonic = "spatial champion result cycle advice cloth brave calm stem kidney opera budget";

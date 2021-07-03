@@ -1,1 +1,1 @@
-var mnemonic = "economy robot marriage antique begin cricket short prison gasp ritual giraffe cram";
+var mnemonic = "devote monster clean noble orchard anxiety few spare voyage exist height replace";

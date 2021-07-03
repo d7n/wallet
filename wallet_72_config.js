@@ -1,1 +1,1 @@
-var mnemonic = "lazy tuition fun embark bridge lonely spice sun gravity sorry work inform";
+var mnemonic = "example ill idle head clown round depth hollow lawn critic grid staff";

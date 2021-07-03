@@ -1,1 +1,1 @@
-var mnemonic = "slide diesel audit butter wait wood ability brain undo edge pull crowd";
+var mnemonic = "wide pudding journey plunge sun sad usage sure cinnamon hundred tobacco inherit";

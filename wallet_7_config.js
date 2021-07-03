@@ -1,1 +1,1 @@
-var mnemonic = "oyster year float fame clown oil father hood bronze random word guess";
+var mnemonic = "blind spare wrestle diagram lunar female return issue protect slide ahead fix";

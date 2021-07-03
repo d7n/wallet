@@ -1,1 +1,1 @@
-var mnemonic = "ice like force riot robot correct arena path treat drift guide throw";
+var mnemonic = "turn hotel cattle acoustic never mushroom glare seek hope help dash junior";

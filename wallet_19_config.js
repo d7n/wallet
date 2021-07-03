@@ -1,1 +1,1 @@
-var mnemonic = "nest keen arctic asset gown dial gap throw quarter trophy convince fancy";
+var mnemonic = "produce connect apology belt manual chaos eyebrow drop hurt funny subject argue";

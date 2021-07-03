@@ -1,1 +1,1 @@
-var mnemonic = "style merry verify sustain hen flight evolve youth region uncle nominee laundry";
+var mnemonic = "balcony rotate cart cup lamp grass salute sweet almost that despair spoon";

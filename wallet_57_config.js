@@ -1,1 +1,1 @@
-var mnemonic = "midnight fire ill tumble rabbit have pledge oxygen moment swift scorpion salt";
+var mnemonic = "rib chase alter alien heavy during unknown hurdle melody accuse creek cup";

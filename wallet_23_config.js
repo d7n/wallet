@@ -1,1 +1,1 @@
-var mnemonic = "damp indicate turn present path buddy spider people during secret stereo post";
+var mnemonic = "swap must idle series leader scissors vicious skull kangaroo suit body adult";

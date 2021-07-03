@@ -1,1 +1,1 @@
-var mnemonic = "birth spare soap trap awesome festival purity stool bomb mushroom purity strategy";
+var mnemonic = "burger mimic green photo emerge obtain fancy faint kid cliff void broom";

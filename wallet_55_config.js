@@ -1,1 +1,1 @@
-var mnemonic = "nest quiz stamp simple glory express small axis fortune monkey govern open";
+var mnemonic = "achieve people hen brass violin orient peace wave elbow critic run salt";

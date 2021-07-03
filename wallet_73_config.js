@@ -1,1 +1,1 @@
-var mnemonic = "retreat spread coil attack melt visual hover hammer spoil fog nephew curtain";
+var mnemonic = "filter object tackle actor toy ball door lion blossom gap actual unhappy";

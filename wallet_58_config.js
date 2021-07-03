@@ -1,1 +1,1 @@
-var mnemonic = "inject ankle change soldier lyrics victory ahead cheap tumble walk reopen abuse";
+var mnemonic = "adapt photo fat genre ripple phrase purse piano rent carbon ozone six";

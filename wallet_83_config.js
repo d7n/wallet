@@ -1,1 +1,1 @@
-var mnemonic = "planet drum similar swear destroy gospel shoe scrap survey win gravity version";
+var mnemonic = "ready rally glove drama voice glad tonight enlist eager capable icon slice";

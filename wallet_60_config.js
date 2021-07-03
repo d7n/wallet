@@ -1,1 +1,1 @@
-var mnemonic = "brass one dish forward quality notable flag absent sugar pizza twenty moral";
+var mnemonic = "supply online chest spray fish sign swarm vendor sure plate pair wreck";

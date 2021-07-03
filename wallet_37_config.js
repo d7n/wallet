@@ -1,1 +1,1 @@
-var mnemonic = "turtle kitchen topic tattoo museum regret blouse salute moral slam ocean congress";
+var mnemonic = "weekend donor spread accuse gloom movie olympic combine humor pretty plate burger";

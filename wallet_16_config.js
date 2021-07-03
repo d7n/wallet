@@ -1,1 +1,1 @@
-var mnemonic = "trap stove hurdle useful child boy trash punch walk shoot clip viable";
+var mnemonic = "few long amount lend close humble reform hockey length home turtle outer";

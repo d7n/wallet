@@ -1,1 +1,1 @@
-var mnemonic = "loyal coach fish simple animal swear vote gun again silk kind arrest";
+var mnemonic = "relief merry figure dove seven tilt hobby push height purse attack oval";

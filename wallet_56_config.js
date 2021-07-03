@@ -1,1 +1,1 @@
-var mnemonic = "soccer achieve around jar deer dune wage degree sustain beauty maximum truck";
+var mnemonic = "acquire produce good scout noise metal nut eye season hand odor industry";

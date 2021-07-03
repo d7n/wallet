@@ -1,1 +1,1 @@
-var mnemonic = "mountain muscle snack result glow surprise family hurdle what loop basket lava";
+var mnemonic = "delay lawn short feel ticket north review visual lunch smart critic major";

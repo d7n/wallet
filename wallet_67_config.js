@@ -1,1 +1,1 @@
-var mnemonic = "trip seed regret strategy border scrub fence foster slow volume idea blame";
+var mnemonic = "trip brain gift soldier ethics amazing curve alert corn volume sustain zoo";

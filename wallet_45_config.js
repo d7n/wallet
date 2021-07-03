@@ -1,1 +1,1 @@
-var mnemonic = "slush pony harvest announce region case melt clinic outer rebuild caution stick";
+var mnemonic = "behind aware knife smooth breeze fiscal shrug liar service high clay knock";

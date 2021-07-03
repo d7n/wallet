@@ -1,1 +1,1 @@
-var mnemonic = "purse jar clog sleep color intact level cancel twenty deal swarm custom";
+var mnemonic = "armor sniff lizard cheap occur fog truck write real draw correct stove";

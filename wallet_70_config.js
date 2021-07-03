@@ -1,1 +1,1 @@
-var mnemonic = "security race gadget galaxy horn iron yard cost large flip weekend receive";
+var mnemonic = "neither fancy father tennis few lady north ocean dignity spike consider kingdom";

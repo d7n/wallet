@@ -1,1 +1,1 @@
-var mnemonic = "clerk repeat shed damp very mask embark typical envelope shove employ gym";
+var mnemonic = "mushroom august fiction account regular taxi match problem relax answer chef budget";

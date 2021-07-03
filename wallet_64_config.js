@@ -1,1 +1,1 @@
-var mnemonic = "few web connect manage float tunnel type flush coin sorry parrot friend";
+var mnemonic = "body cute episode crouch cereal base laugh club immune nose nature mutual";

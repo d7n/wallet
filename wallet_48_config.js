@@ -1,1 +1,1 @@
-var mnemonic = "carry earn degree moon inmate attack light arctic spider hollow math script";
+var mnemonic = "skirt discover later casino object actor comfort can come empower fringe world";

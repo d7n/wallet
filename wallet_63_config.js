@@ -1,1 +1,1 @@
-var mnemonic = "fall small grunt divorce lion title garage motion typical problem hotel profit";
+var mnemonic = "vehicle offer test wage liquid dragon wreck chair wink spot detail distance";

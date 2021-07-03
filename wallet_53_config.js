@@ -1,1 +1,1 @@
-var mnemonic = "hazard daring foam flower alley point kingdom valve reveal bargain cereal auction";
+var mnemonic = "confirm track work change submit elbow rhythm unique twice aspect enforce record";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas burger panic word olive diet same either rescue pool auction pony";
+var mnemonic = "bike time ill canvas strategy embody slot exchange feel rigid risk vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "crew what together crowd fragile exile fade fade traffic dutch wave artefact";
+var mnemonic = "mask alter cricket possible ticket shed stomach reward hand robust cable try";

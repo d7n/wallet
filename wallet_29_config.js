@@ -1,1 +1,1 @@
-var mnemonic = "blouse okay ripple that spy wife cement raccoon salad switch visit sphere";
+var mnemonic = "picnic pear siren grace tide sudden item primary jeans brass stable approve";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel maid mother sock perfect walk paper resemble false useless indoor repeat";
+var mnemonic = "glue scorpion gasp thing wife choice coconut model opinion follow behave tomorrow";

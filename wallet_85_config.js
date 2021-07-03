@@ -1,1 +1,1 @@
-var mnemonic = "office oval hand raise fever desk amount afraid sun employ cheap skirt";
+var mnemonic = "boat swim brave spy giggle aunt suffer pig wing book adapt castle";

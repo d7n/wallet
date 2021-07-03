@@ -1,1 +1,1 @@
-var mnemonic = "logic calm cave hybrid ski domain earth type current ostrich boost ahead";
+var mnemonic = "side leg kind develop result retire hour pool surprise resemble cinnamon culture";

@@ -1,1 +1,1 @@
-var mnemonic = "fit like name taste hotel usage such west element mixed cinnamon weather";
+var mnemonic = "album dad volume arrange butter that shadow advice panda trick gift smile";

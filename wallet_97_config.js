@@ -1,1 +1,1 @@
-var mnemonic = "season entry slush invest ring mule edit addict dignity despair practice pepper";
+var mnemonic = "butter turkey illness off odor half satoshi marine pluck edit note pluck";

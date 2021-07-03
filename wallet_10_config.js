@@ -1,1 +1,1 @@
-var mnemonic = "leopard protect orphan ahead around forum one ramp wave vintage junior animal";
+var mnemonic = "spread garbage lawn stand modify damage bundle warm include stock vendor visual";

@@ -1,1 +1,1 @@
-var mnemonic = "noble hello author clump flash please only health crush boil orchard repeat";
+var mnemonic = "acoustic portion into dismiss warrior amused enable gentle people monitor husband organ";

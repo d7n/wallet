@@ -1,1 +1,1 @@
-var mnemonic = "film patient way deputy squeeze guilt original refuse detail erase laptop increase";
+var mnemonic = "wisdom decorate boss slight climb hollow essay twist position tribe genre close";

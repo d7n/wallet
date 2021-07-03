@@ -1,1 +1,1 @@
-var mnemonic = "noble glory kid venue flight cupboard time spy royal garage bar hurdle";
+var mnemonic = "kitchen crumble maple negative vapor custom crack scan shoulder repeat weird universe";

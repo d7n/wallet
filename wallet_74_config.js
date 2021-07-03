@@ -1,1 +1,1 @@
-var mnemonic = "slide upon panel canyon matrix update fence unable voyage toss vehicle quarter";
+var mnemonic = "tissue reward risk stumble only snap code ladder head mother program aim";

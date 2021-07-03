@@ -1,1 +1,1 @@
-var mnemonic = "clerk feed manage vapor indoor tone avocado snake safe couch culture oak";
+var mnemonic = "sword moral jar jeans return gap anger casual man demise wink cool";

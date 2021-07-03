@@ -1,1 +1,1 @@
-var mnemonic = "bitter taxi sting undo gas raccoon eager maid grid short alter table";
+var mnemonic = "stove dignity chronic shrug toddler regret cave horror cliff canoe direct recycle";

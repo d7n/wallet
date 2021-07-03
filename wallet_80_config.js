@@ -1,1 +1,1 @@
-var mnemonic = "leg elder response danger bracket joy chase more excess ticket peace issue";
+var mnemonic = "neglect federal occur share pig oppose flee gallery effort lazy food orange";

@@ -1,1 +1,1 @@
-var mnemonic = "any orange scatter fold wing ladder journey bus forum poverty face liberty";
+var mnemonic = "already sort dumb acquire gentle seminar venture puppy burger flat enlist sun";

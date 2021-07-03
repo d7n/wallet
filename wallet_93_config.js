@@ -1,1 +1,1 @@
-var mnemonic = "amazing stable other top venture harvest member camp load pave ride valve";
+var mnemonic = "vapor recall exclude holiday blade history often plastic tribe pitch garbage fatigue";

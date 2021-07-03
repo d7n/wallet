@@ -1,1 +1,1 @@
-var mnemonic = "addict prison tonight session lady cover brain soup skate level object clerk";
+var mnemonic = "lottery divorce review flower okay bus glue hungry hurdle domain daughter bird";

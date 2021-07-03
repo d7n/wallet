@@ -1,1 +1,1 @@
-var mnemonic = "hold useful vast snack suspect sound cargo away report vapor citizen planet";
+var mnemonic = "later clock unhappy boost jungle common penalty beyond kitten camera kind entire";

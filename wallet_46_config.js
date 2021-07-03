@@ -1,1 +1,1 @@
-var mnemonic = "tiny fork before spoil winter social pumpkin rapid bus wrestle jar draw";
+var mnemonic = "oil water wheel card choose antique shiver heavy trophy close solve lake";

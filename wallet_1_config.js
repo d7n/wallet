@@ -1,1 +1,1 @@
-var mnemonic = "chest wink juice plate also glimpse phrase clock first elegant slot worth";
+var mnemonic = "index hundred trust blast enroll build flat labor garage romance more talent";

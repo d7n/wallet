@@ -1,1 +1,1 @@
-var mnemonic = "weapon plastic tube stumble game view snow affair chapter humor cash grid";
+var mnemonic = "yard weasel decide tone obvious sport broom earth boss odor empower myself";

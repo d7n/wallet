@@ -1,1 +1,1 @@
-var mnemonic = "month humble local valley jelly story add evil rain bounce host inquiry";
+var mnemonic = "cliff strike kingdom umbrella gain knife away crouch strategy library caution private";

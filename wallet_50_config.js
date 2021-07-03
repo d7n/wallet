@@ -1,1 +1,1 @@
-var mnemonic = "clap legend traffic bread pelican bachelor essay response addict pact wheat view";
+var mnemonic = "bundle walk pipe canal fame reflect flat another pony globe champion sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "true exotic decade jealous asthma clean summer sense able pencil enrich parade";
+var mnemonic = "conduct duck brown cable shift once coffee regular ripple cheap ritual crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "same gown honey luggage giant move income ozone team noodle pear rigid";
+var mnemonic = "neck attack assist short eight say pyramid estate jump never include romance";

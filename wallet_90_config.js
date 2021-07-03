@@ -1,1 +1,1 @@
-var mnemonic = "menu congress ball cigar term unhappy enemy spring music muscle marine middle";
+var mnemonic = "margin hub again share offer lend guide slow media ice strong alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor kitten pudding biology tomorrow flag vast confirm fever speed avocado camp";
+var mnemonic = "fuel barrel police tail execute dirt donkey edit aspect quantum wolf upgrade";

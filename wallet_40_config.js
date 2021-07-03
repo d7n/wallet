@@ -1,1 +1,1 @@
-var mnemonic = "net february alien enter melody mosquito vote quarter shy elephant rude pull";
+var mnemonic = "throw term remain wise cube inch apart peanut book allow laundry real";

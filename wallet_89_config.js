@@ -1,1 +1,1 @@
-var mnemonic = "deliver acid basic resemble shoot fiction snake moment modify extend happy arctic";
+var mnemonic = "spin truth love swarm legend dentist copper snap caution weasel simple census";

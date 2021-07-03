@@ -1,1 +1,1 @@
-var mnemonic = "style bone verb kitchen chalk label loan neither fire hover mesh grocery";
+var mnemonic = "roof lens wild loan garage message physical cactus fruit bird viable romance";

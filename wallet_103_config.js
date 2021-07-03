@@ -1,1 +1,1 @@
-var mnemonic = "key fan pigeon ill media expose version annual cereal genius blind rubber";
+var mnemonic = "release sing jar slender armed wrist best hand sunny post pretty citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "reward antenna candy lizard squeeze toe cloth foam patient door wide drastic";
+var mnemonic = "view number bright scatter split huge top gravity accident unlock basket cable";

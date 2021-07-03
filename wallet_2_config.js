@@ -1,1 +1,1 @@
-var mnemonic = "muffin warfare entire ivory boring lonely barrel erode nest brisk civil license";
+var mnemonic = "face defy magnet picture suggest hotel bamboo give inhale flavor height spike";

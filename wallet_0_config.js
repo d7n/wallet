@@ -1,1 +1,1 @@
-var mnemonic = "bean muscle depend crash burger credit adult enable ceiling exercise carbon nice";
+var mnemonic = "window lonely copy plug column will jar clean ill filter beach fine";

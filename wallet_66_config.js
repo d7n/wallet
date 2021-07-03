@@ -1,1 +1,1 @@
-var mnemonic = "radio group solution mushroom father artwork secret mansion sock box feel brief";
+var mnemonic = "size core trumpet jealous giraffe inflict damage silver anxiety fish alarm enter";

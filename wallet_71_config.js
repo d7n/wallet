@@ -1,1 +1,1 @@
-var mnemonic = "finger chef nasty naive peace staff ritual space bread basket artist grief";
+var mnemonic = "vendor trouble youth permit during funny indicate quote glory fruit clarify arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "infant toss trust assault girl idle royal venture rough oppose illness mad";
+var mnemonic = "either minute scene term angle light ticket cave talk flower library wise";

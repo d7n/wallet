@@ -1,1 +1,1 @@
-var mnemonic = "must include warrior this exchange riot wage fruit item wild napkin post";
+var mnemonic = "exit tragic cargo asthma autumn change because recycle custom lonely smart fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge wrap symptom ankle taste explain draft hundred dash six window forward";
+var mnemonic = "decade then stairs firm express gaze excess volume federal only lawsuit pond";

@@ -1,1 +1,1 @@
-var mnemonic = "spare picnic metal excess hover pony car shy fun scene mule country";
+var mnemonic = "crash genius cry fame electric snake bottom illness rigid gym heart chair";

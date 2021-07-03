@@ -1,1 +1,1 @@
-var mnemonic = "wing maximum time noble unveil evil item license design carry multiply almost";
+var mnemonic = "brother glad wisdom fix unlock equal veteran today hello coffee grant armor";

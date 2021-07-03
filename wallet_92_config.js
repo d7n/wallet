@@ -1,1 +1,1 @@
-var mnemonic = "path glide blur honey regular divide paddle evolve taxi box fun auction";
+var mnemonic = "orbit hazard local tuna income metal chaos copy repair dad evidence because";

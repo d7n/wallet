@@ -1,1 +1,1 @@
-var mnemonic = "engage topic other funny aspect monitor swing damp bachelor sell tool address";
+var mnemonic = "cancel dolphin future evolve rather release year mirror asset pigeon young similar";

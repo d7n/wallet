@@ -1,1 +1,1 @@
-var mnemonic = "color dragon cable pistol involve van indoor primary frozen acid shadow stumble";
+var mnemonic = "scrub office review oblige rebel naive exclude enemy ladder disorder flee fever";

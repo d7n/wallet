@@ -1,1 +1,1 @@
-var mnemonic = "pause idle donor erupt grocery omit defy picnic kind calm keep badge";
+var mnemonic = "series comfort smoke talk impulse trip absent decide mother punch funny focus";

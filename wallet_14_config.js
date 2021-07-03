@@ -1,1 +1,1 @@
-var mnemonic = "pact budget identify sustain correct uphold group sister update sound modify search";
+var mnemonic = "leader rice erode silly eternal wreck pluck merge stick memory useless motor";
