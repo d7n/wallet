@@ -1,1 +1,1 @@
-var mnemonic = "trend hover fox master track enforce trip field aspect flush minor salute";
+var mnemonic = "leisure cup dinosaur depend awesome record phone shrimp approve letter mad seven";

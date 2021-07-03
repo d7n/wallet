@@ -1,1 +1,1 @@
-var mnemonic = "radio lava suffer giraffe know caught tell three praise boy loan vanish";
+var mnemonic = "regular answer deputy barely melt three label doll twenty gun cave dog";

@@ -1,1 +1,1 @@
-var mnemonic = "clip usage eight leader off correct gadget cover since noise copy mesh";
+var mnemonic = "type elder slender rigid search mass say milk hurt eight fly clap";

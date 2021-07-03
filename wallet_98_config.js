@@ -1,1 +1,1 @@
-var mnemonic = "fossil disorder road sense antenna brisk boat advice army early group kiss";
+var mnemonic = "jar buffalo mail penalty capital word satisfy bless antenna robot gather valley";

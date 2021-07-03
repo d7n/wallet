@@ -1,1 +1,1 @@
-var mnemonic = "canal wealth exile shock curtain crouch avocado cradle potato detect slush solve";
+var mnemonic = "enrich shoulder chicken fragile dumb pizza mansion blouse behind bid awesome loop";

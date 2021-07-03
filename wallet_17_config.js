@@ -1,1 +1,1 @@
-var mnemonic = "okay mixture battle decade real coil claw essence promote next uncover shift";
+var mnemonic = "entry glove crew metal predict yard hybrid inform lyrics lake nose unhappy";

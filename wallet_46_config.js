@@ -1,1 +1,1 @@
-var mnemonic = "group blind salute opera kite mimic barely super lava surprise offer negative";
+var mnemonic = "topple kitchen street increase clump kingdom robust lonely park rapid still dwarf";

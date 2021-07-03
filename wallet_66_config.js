@@ -1,1 +1,1 @@
-var mnemonic = "tooth horse moon defy piece gown luggage dash retreat title sport wisdom";
+var mnemonic = "author envelope evolve sniff renew math melody reject cereal cabbage digital mirror";

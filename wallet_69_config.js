@@ -1,1 +1,1 @@
-var mnemonic = "ahead reveal solution post farm swallow tumble grow treat deal sort horn";
+var mnemonic = "mule expire defy front picnic dignity taxi process flag session ghost pitch";

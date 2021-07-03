@@ -1,1 +1,1 @@
-var mnemonic = "giggle brain car room tornado fine hand chat suggest tag write account";
+var mnemonic = "plate possible milk disease venue swamp tray parent dash bubble give excite";

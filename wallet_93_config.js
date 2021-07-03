@@ -1,1 +1,1 @@
-var mnemonic = "decline unable devote fat celery enforce fiber long deer room check maid";
+var mnemonic = "aisle term delay cruise dolphin senior peace marriage loyal outdoor battle dove";

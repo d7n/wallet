@@ -1,1 +1,1 @@
-var mnemonic = "silk morning cargo valve mosquito lawsuit luxury seven thrive feature tray truly";
+var mnemonic = "earth opinion easy cement situate spray praise bacon situate resist easily nominee";

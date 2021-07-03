@@ -1,1 +1,1 @@
-var mnemonic = "copper antenna sad owner puppy abuse fork symbol time exchange clown recipe";
+var mnemonic = "actual okay year nurse patch virus cake slot crush spring floor cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha rice rich monkey toss story embark pulp stay margin hungry fetch";
+var mnemonic = "culture pulp opera off garlic basket excuse inhale shiver neglect sniff lab";

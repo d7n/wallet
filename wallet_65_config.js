@@ -1,1 +1,1 @@
-var mnemonic = "false grape save income position wheel monitor stairs stem stove grocery duty";
+var mnemonic = "enforce more december eternal potato parrot burst pencil divide wall leopard office";

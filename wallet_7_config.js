@@ -1,1 +1,1 @@
-var mnemonic = "negative text weird shift social second predict paper riot that rate castle";
+var mnemonic = "friend leaf vibrant lumber enroll laundry know legal coral dynamic curve coast";

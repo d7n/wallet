@@ -1,1 +1,1 @@
-var mnemonic = "salad always million tourist suggest drift grief worry west alone dawn shoot";
+var mnemonic = "cabbage stock fruit equip salad across involve endless lounge curious earn light";

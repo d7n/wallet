@@ -1,1 +1,1 @@
-var mnemonic = "rare kitchen final prepare trade either just genre obvious orphan route steak";
+var mnemonic = "until produce gravity license alter deliver mail vendor kit flag eagle whale";

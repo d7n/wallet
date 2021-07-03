@@ -1,1 +1,1 @@
-var mnemonic = "awake punch remove oval grape verify horse nerve proof dream result talk";
+var mnemonic = "orient will tornado mushroom floor neither debris farm arm sister sibling idea";

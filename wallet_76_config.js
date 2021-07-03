@@ -1,1 +1,1 @@
-var mnemonic = "peace stomach trouble knife inherit embody dirt math daughter damp indicate bunker";
+var mnemonic = "cliff card amused bring auto east neglect witness actual assist donate expand";

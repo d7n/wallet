@@ -1,1 +1,1 @@
-var mnemonic = "panic shiver settle profit stereo wonder enrich cup group double field merge";
+var mnemonic = "license grunt large calm any frame era sport amateur hurt abandon noodle";

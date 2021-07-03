@@ -1,1 +1,1 @@
-var mnemonic = "option fantasy envelope squeeze regret cupboard palace wood calm profit horn body";
+var mnemonic = "afraid grant hungry indicate radio judge secret dash require bridge circle veteran";

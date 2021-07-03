@@ -1,1 +1,1 @@
-var mnemonic = "air life damp timber sure sausage manual era teach place improve version";
+var mnemonic = "volcano cereal energy spread school economy chronic ridge accuse sunset cause logic";

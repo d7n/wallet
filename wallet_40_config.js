@@ -1,1 +1,1 @@
-var mnemonic = "access world couch ancient fringe armor open lend excuse gather decline left";
+var mnemonic = "rose sister imitate nasty kite check spy you rose enjoy cupboard regular";

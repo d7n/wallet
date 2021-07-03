@@ -1,1 +1,1 @@
-var mnemonic = "march describe recipe melt expire daughter time mixed file gallery help together";
+var mnemonic = "lawn physical raccoon canal pig palm doll trumpet slab bone attract knock";

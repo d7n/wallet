@@ -1,1 +1,1 @@
-var mnemonic = "utility confirm kitten female interest mystery property bacon silly puzzle hello glue";
+var mnemonic = "town stairs bulk ill sketch normal kangaroo satisfy shock slim plug farm";

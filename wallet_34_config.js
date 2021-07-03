@@ -1,1 +1,1 @@
-var mnemonic = "attack area symbol taxi baby verb token recall rocket hub sample dust";
+var mnemonic = "shaft gorilla mosquito oak royal inside runway lend modify make tortoise wash";

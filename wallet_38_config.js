@@ -1,1 +1,1 @@
-var mnemonic = "prison marine involve hurt lens remain near toward trumpet blade type floor";
+var mnemonic = "sunny rocket dismiss away defense indoor shrimp quit acquire pipe second crash";

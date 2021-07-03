@@ -1,1 +1,1 @@
-var mnemonic = "strong fault beef they rally stereo yard dice festival left pretty hazard";
+var mnemonic = "exercise thank virtual giggle purity wage crime test exhibit job talk quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "afford inspire stand author kitten guard master hood live enlist pigeon govern";
+var mnemonic = "eagle slam vault cargo maze prefer soft crouch used orbit stool vicious";

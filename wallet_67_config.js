@@ -1,1 +1,1 @@
-var mnemonic = "stool voice brand mechanic praise hockey pottery awkward struggle emerge peasant spray";
+var mnemonic = "bounce limit patch left horn service buzz pact people master adult wear";

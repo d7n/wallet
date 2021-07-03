@@ -1,1 +1,1 @@
-var mnemonic = "plunge manage purse smart obtain soccer bless execute document cheap caution whale";
+var mnemonic = "chronic involve retreat strategy wrestle speed language spatial evoke lava settle walk";

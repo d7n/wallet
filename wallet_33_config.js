@@ -1,1 +1,1 @@
-var mnemonic = "emotion earth arrive pizza frozen dial spoon gauge way hello prepare display";
+var mnemonic = "runway sunny report token meadow trend gap fly barely letter hand embark";

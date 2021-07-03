@@ -1,1 +1,1 @@
-var mnemonic = "fossil couch crawl churn destroy this toss manual obscure hawk bomb unfold";
+var mnemonic = "pigeon achieve sell label vague logic wrap picnic kid picture dignity salad";

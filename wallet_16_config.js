@@ -1,1 +1,1 @@
-var mnemonic = "result search exclude perfect health project unknown frost school crouch slice misery";
+var mnemonic = "odor nephew add try mother mechanic present lumber option minute desert boost";

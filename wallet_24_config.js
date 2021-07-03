@@ -1,1 +1,1 @@
-var mnemonic = "help shield few fish chalk near cover want plastic dice arch people";
+var mnemonic = "delay outside board plug reveal relax fun best fish wet second meat";

@@ -1,1 +1,1 @@
-var mnemonic = "can license human reject olive hidden castle educate pill rescue salt ginger";
+var mnemonic = "garden toilet nature share palace oval float urge custom swallow already park";

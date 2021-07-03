@@ -1,1 +1,1 @@
-var mnemonic = "final hurt twist sudden frown write split divide nation rocket square bacon";
+var mnemonic = "barely rocket boy hint cactus atom host goose nut sword marriage dynamic";

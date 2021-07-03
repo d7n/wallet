@@ -1,1 +1,1 @@
-var mnemonic = "aunt wrong total park rapid sister maid invite hero title double prosper";
+var mnemonic = "winner palm pony plunge lyrics day dad juice build discover seven cargo";

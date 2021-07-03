@@ -1,1 +1,1 @@
-var mnemonic = "toss bright mansion cart captain trumpet bulk retreat empower extra infant boss";
+var mnemonic = "walk giant destroy reveal wrestle enroll staff warm moral affair toilet priority";

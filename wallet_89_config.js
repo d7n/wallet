@@ -1,1 +1,1 @@
-var mnemonic = "marble spice shy giant busy armed juice fragile potato picture vacuum oppose";
+var mnemonic = "change civil rigid media order gun dune latin absorb satoshi grab favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "renew sibling build crisp crawl swarm clump walnut seminar wool gain squirrel";
+var mnemonic = "tape warfare whale thought swallow cheese general consider jeans million drama shy";

@@ -1,1 +1,1 @@
-var mnemonic = "universe color about image female column derive hand sphere wing cluster course";
+var mnemonic = "garlic cheap suspect frozen used inner venture scissors weird brush two make";

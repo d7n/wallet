@@ -1,1 +1,1 @@
-var mnemonic = "solve where chest hotel fog choose lift direct sign direct swap course";
+var mnemonic = "hurdle lonely grid secret burden radar section general shrug genre provide powder";

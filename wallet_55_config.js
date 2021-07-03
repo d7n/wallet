@@ -1,1 +1,1 @@
-var mnemonic = "weekend quick total wagon label wood barrel sibling cattle rocket creek flame";
+var mnemonic = "run pencil flush what quote cube various zero render sound camp sudden";

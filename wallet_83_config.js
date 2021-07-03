@@ -1,1 +1,1 @@
-var mnemonic = "club dizzy maze local network relief rose capable try hood cliff pride";
+var mnemonic = "torch depend army alpha explain eight cost lock patrol sad cover stool";

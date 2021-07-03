@@ -1,1 +1,1 @@
-var mnemonic = "steak wreck actor vault text social north say ring exotic utility hand";
+var mnemonic = "trigger pulp speed local security case illness clap rely wait hope matrix";

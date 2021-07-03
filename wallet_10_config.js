@@ -1,1 +1,1 @@
-var mnemonic = "sand time gate seminar pudding capital table dress load nurse base black";
+var mnemonic = "fat domain beyond vault outdoor blush ugly post opinion dose boss art";

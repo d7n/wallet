@@ -1,1 +1,1 @@
-var mnemonic = "other fold pretty click return biology club audit return prosper cereal conduct";
+var mnemonic = "funny put session despair decrease market celery know decade fence wedding ocean";

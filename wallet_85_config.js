@@ -1,1 +1,1 @@
-var mnemonic = "best step order vapor give average boil pistol spoil genius latin tooth";
+var mnemonic = "run plug fashion abstract spend solar strong humble lawn betray happy side";

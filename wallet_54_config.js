@@ -1,1 +1,1 @@
-var mnemonic = "slim ankle sphere vehicle hat public helmet jar poem actress dry wasp";
+var mnemonic = "print snake mesh basic model tank feed general pretty fun candy safe";

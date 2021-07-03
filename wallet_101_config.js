@@ -1,1 +1,1 @@
-var mnemonic = "rain manage escape patch middle circle illegal name divide skirt coil lottery";
+var mnemonic = "junk pattern rib box like marble impact junior album arrow plug short";

@@ -1,1 +1,1 @@
-var mnemonic = "pact man noodle snow plug amazing prosper fall intact wave act ancient";
+var mnemonic = "venue awake upset family family message test unit cliff glow turkey hub";

@@ -1,1 +1,1 @@
-var mnemonic = "undo train sentence coast duty need always expose oven trumpet web topple";
+var mnemonic = "lend weasel swim latin never convince nature inside art analyst valve globe";

@@ -1,1 +1,1 @@
-var mnemonic = "glance custom struggle upgrade picture sail wild below primary mouse cigar opera";
+var mnemonic = "rain end tornado noble tunnel stone fiber trash flat gather all muffin";

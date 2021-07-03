@@ -1,1 +1,1 @@
-var mnemonic = "okay mother puzzle exile sight acid obtain second waste artwork favorite love";
+var mnemonic = "convince tuna hen health elder sausage valve fancy grass float desk cluster";

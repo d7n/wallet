@@ -1,1 +1,1 @@
-var mnemonic = "sure captain enroll spy patch tunnel trumpet bitter party hero nephew panther";
+var mnemonic = "wife bitter install prevent skate drip antenna cage renew season vanish orchard";

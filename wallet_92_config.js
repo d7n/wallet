@@ -1,1 +1,1 @@
-var mnemonic = "saddle ten change wolf blade upset wage sort marine walk frog corn";
+var mnemonic = "have actual race begin crazy sudden keep auto artwork furnace cushion way";

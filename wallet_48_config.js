@@ -1,1 +1,1 @@
-var mnemonic = "movie title purchase fine door top amount fuel special enough any battle";
+var mnemonic = "question lamp acid leave can brush appear ridge dish own powder disease";

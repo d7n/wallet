@@ -1,1 +1,1 @@
-var mnemonic = "voyage obtain manage risk congress find affair vocal imitate prepare such road";
+var mnemonic = "despair canoe answer mad blur yellow chat card sea pulp salon dismiss";

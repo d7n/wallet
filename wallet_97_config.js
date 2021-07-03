@@ -1,1 +1,1 @@
-var mnemonic = "balance brick ozone cat artwork digital alert manage soda system victory ketchup";
+var mnemonic = "artist jar pluck labor once antenna observe company note snake crop retreat";

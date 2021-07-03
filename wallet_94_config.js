@@ -1,1 +1,1 @@
-var mnemonic = "zone print truly want beach liquid normal later property color grace hedgehog";
+var mnemonic = "already canal target kind math exercise spin join ship vanish initial hotel";

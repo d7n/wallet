@@ -1,1 +1,1 @@
-var mnemonic = "swift nice excite remind enable ride oxygen attitude initial rigid shine dismiss";
+var mnemonic = "south link sniff weasel recipe ivory rebuild crunch mountain ten figure recall";

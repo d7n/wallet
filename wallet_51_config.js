@@ -1,1 +1,1 @@
-var mnemonic = "field ethics tourist brass during wet above steel that pumpkin cliff connect";
+var mnemonic = "budget direct trouble mom woman there layer fire enhance robot expire local";

@@ -1,1 +1,1 @@
-var mnemonic = "width horse stuff away object twin glare favorite catch mansion club region";
+var mnemonic = "marine yellow trip wood bid father nose cheap border turtle lottery boss";

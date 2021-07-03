@@ -1,1 +1,1 @@
-var mnemonic = "goat bird carpet outdoor world bachelor guide eyebrow sausage dizzy fade major";
+var mnemonic = "weasel embody typical lonely tell oven drum cactus spike flip side air";

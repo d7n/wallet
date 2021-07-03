@@ -1,1 +1,1 @@
-var mnemonic = "various rail bubble photo diet fetch travel language fat rail foam mother";
+var mnemonic = "brother shy submit swift onion cram various picture cable bird antique chaos";

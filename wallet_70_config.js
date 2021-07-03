@@ -1,1 +1,1 @@
-var mnemonic = "venue window sniff either robust horn thing kid ugly catalog increase inherit";
+var mnemonic = "abstract much easily truly fortune beach inner cannon spring hip shoe educate";

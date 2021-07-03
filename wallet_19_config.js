@@ -1,1 +1,1 @@
-var mnemonic = "hair deal wall latin author auction phrase suggest combine humor swamp pluck";
+var mnemonic = "tooth include transfer carbon hybrid kingdom screen boss deny tilt toddler own";

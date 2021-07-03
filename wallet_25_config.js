@@ -1,1 +1,1 @@
-var mnemonic = "coast item primary fit face side double balcony long good execute emerge";
+var mnemonic = "crop embody rail humor point token unhappy marine stairs guard bamboo ceiling";

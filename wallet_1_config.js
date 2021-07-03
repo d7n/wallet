@@ -1,1 +1,1 @@
-var mnemonic = "risk across together audit once noodle glue palm same again extra estate";
+var mnemonic = "reflect melody travel arrow elder gain grant wrist manage brown live rigid";

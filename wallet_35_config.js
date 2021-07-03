@@ -1,1 +1,1 @@
-var mnemonic = "foster loud priority era you neck fog column jazz memory cliff embody";
+var mnemonic = "race birth wagon border clutch frog tattoo wait ensure copy permit renew";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere reflect evoke alert panic undo virtual alley glance network eye gravity";
+var mnemonic = "window into chapter siren mass knock enable system truth cube outer bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "merit clever shuffle use bargain uniform judge picnic cash scheme know ski";
+var mnemonic = "truth squirrel best cream force educate quarter chef agree play found expire";

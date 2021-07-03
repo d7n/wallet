@@ -1,1 +1,1 @@
-var mnemonic = "online proof sock mesh funny tattoo mesh avoid unlock bus orbit sheriff";
+var mnemonic = "injury protect coffee wolf hollow census potato dream above december adjust pluck";

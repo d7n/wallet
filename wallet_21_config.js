@@ -1,1 +1,1 @@
-var mnemonic = "modify hotel author chat stone debate move obtain sudden treat exact cool";
+var mnemonic = "blade dash home acquire dynamic joke endless west length violin tail two";

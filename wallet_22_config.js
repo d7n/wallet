@@ -1,1 +1,1 @@
-var mnemonic = "saddle digital clean sibling maple unfair industry ugly wisdom announce agree clog";
+var mnemonic = "hood glance slide timber slam elder nuclear burst shadow undo slush romance";

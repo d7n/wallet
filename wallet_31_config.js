@@ -1,1 +1,1 @@
-var mnemonic = "parent business science school method hub identify monster region carbon poverty dry";
+var mnemonic = "robust favorite dust above sick reduce ball art cherry picnic check nose";

@@ -1,1 +1,1 @@
-var mnemonic = "because spy table under happy assault beef jacket travel mask hero deputy";
+var mnemonic = "network useful element conduct cheap demise wagon rigid liquid suggest drift wagon";

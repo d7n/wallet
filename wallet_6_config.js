@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow elevator exile cereal suspect random tornado arrange protect inform glue outside";
+var mnemonic = "trouble sudden cliff wise style swear cycle inside neither slide blanket blur";

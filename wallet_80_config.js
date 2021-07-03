@@ -1,1 +1,1 @@
-var mnemonic = "invest select drip love rice general dry across mixture interest army blouse";
+var mnemonic = "hair stairs year apple hello patrol syrup spice home summer sorry believe";

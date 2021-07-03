@@ -1,1 +1,1 @@
-var mnemonic = "guitar penalty enrich bench before reveal charge tip original clap dash few";
+var mnemonic = "shove whip come future bleak order work enforce arrive clay dream unique";

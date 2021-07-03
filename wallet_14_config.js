@@ -1,1 +1,1 @@
-var mnemonic = "sting decline matrix urban defy patient genius cabin urban camp resemble alley";
+var mnemonic = "wagon enhance certain swarm vital main motor wrap magic hand antique excite";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal base loyal true sense excuse barely abuse make cart wrestle bean";
+var mnemonic = "festival lobster parent knee dynamic heart memory wagon just very profit pottery";

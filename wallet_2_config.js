@@ -1,1 +1,1 @@
-var mnemonic = "spot runway modify squeeze claim quality excess banana accident page address raw";
+var mnemonic = "taxi april pigeon whale nature squeeze vital wild entry stuff rural arm";

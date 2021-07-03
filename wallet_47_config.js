@@ -1,1 +1,1 @@
-var mnemonic = "gap suffer auto gift appear cloth appear bag remind tired gravity physical";
+var mnemonic = "crucial salmon balcony all mail spider trim carbon absent onion sword into";

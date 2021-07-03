@@ -1,1 +1,1 @@
-var mnemonic = "culture slim never egg mother evoke element fun valley sausage piano lift";
+var mnemonic = "gate occur burden promote file erupt wrong huge rally game say law";
