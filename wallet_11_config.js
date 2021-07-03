@@ -1,1 +1,1 @@
-var mnemonic = "payment dice have volume cereal zebra desert renew ginger adult patrol script";
+var mnemonic = "isolate frozen special dignity oval control dose once wrist globe tide travel";

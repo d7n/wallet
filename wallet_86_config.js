@@ -1,1 +1,1 @@
-var mnemonic = "plate obtain assume wise mansion head attract moon apology erosion today wink";
+var mnemonic = "canal aerobic chicken talk cement cart bulb future maze clean universe vague";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel kick foot during globe plate bar two attend genuine hat gun";
+var mnemonic = "remain run steel floor rhythm strategy phrase there verb method hurry slow";

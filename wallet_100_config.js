@@ -1,1 +1,1 @@
-var mnemonic = "erosion security entry average panther kick rubber light proof web boat goat";
+var mnemonic = "ribbon city artwork draw near tape moment caught axis gauge cave banana";

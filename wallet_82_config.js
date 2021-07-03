@@ -1,1 +1,1 @@
-var mnemonic = "clean spoil say until all isolate security swear patient inside panther right";
+var mnemonic = "dragon fossil say salmon unknown electric such supreme illegal hunt cool purpose";

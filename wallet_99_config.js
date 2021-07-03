@@ -1,1 +1,1 @@
-var mnemonic = "foster sea flavor fetch then humble inner claw genius shed adult puppy";
+var mnemonic = "panda lift find fish another cousin jealous jacket adjust category east senior";

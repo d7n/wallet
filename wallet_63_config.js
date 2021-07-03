@@ -1,1 +1,1 @@
-var mnemonic = "auto speak rice focus fish safe april note umbrella expire mask beach";
+var mnemonic = "equip please zone three tell leader hover spike ordinary fabric able risk";

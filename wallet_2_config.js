@@ -1,1 +1,1 @@
-var mnemonic = "april board brain harsh situate antique shiver proud like unaware index run";
+var mnemonic = "winner strike foam figure alarm clock narrow drink jump car rib initial";

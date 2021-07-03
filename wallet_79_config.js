@@ -1,1 +1,1 @@
-var mnemonic = "snap unveil mixed humor rent myth tomato brain mom museum pulse they";
+var mnemonic = "drastic dilemma quick merit dawn wool fossil tray budget flee inmate hammer";

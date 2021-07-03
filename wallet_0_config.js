@@ -1,1 +1,1 @@
-var mnemonic = "uniform acoustic rent marriage boss combine puppy worry left choice melt mouse";
+var mnemonic = "casual bridge trophy price left elder praise nature butter episode equip noise";

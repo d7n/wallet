@@ -1,1 +1,1 @@
-var mnemonic = "law slot victory piano wall direct much oval embody order attract broom";
+var mnemonic = "hollow feature pulse unaware fashion vital soldier moment talent noise year obvious";

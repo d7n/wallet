@@ -1,1 +1,1 @@
-var mnemonic = "cactus dilemma gaze scrap lucky tragic half gown legend machine client brisk";
+var mnemonic = "sausage clog smoke rapid pretty various elder science truth make post deposit";

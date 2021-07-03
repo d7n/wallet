@@ -1,1 +1,1 @@
-var mnemonic = "mandate split shallow diesel flee toddler struggle claw involve hill talent frog";
+var mnemonic = "hold skirt labor slogan broccoli device mix wise steel almost dream super";

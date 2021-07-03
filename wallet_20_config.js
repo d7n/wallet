@@ -1,1 +1,1 @@
-var mnemonic = "neglect tortoise wrestle know alarm address always fine next zoo route live";
+var mnemonic = "hole mechanic eagle hotel dream rotate tourist humble enroll vehicle avocado mixture";

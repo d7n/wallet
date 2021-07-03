@@ -1,1 +1,1 @@
-var mnemonic = "again news regret obtain call flash series cluster victory marine uphold orphan";
+var mnemonic = "shove unveil gravity acquire fish canoe crazy learn scare inspire honey forget";

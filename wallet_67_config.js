@@ -1,1 +1,1 @@
-var mnemonic = "organ blush champion matter category ignore else mutual business bread hurdle room";
+var mnemonic = "cancel dwarf cube exhaust board athlete guilt reunion casino symptom runway candy";

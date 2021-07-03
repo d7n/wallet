@@ -1,1 +1,1 @@
-var mnemonic = "yellow make insect loyal satisfy turkey club movie stock chunk ahead huge";
+var mnemonic = "clarify design climb visual cradle shell ski flavor maze hotel spare frown";

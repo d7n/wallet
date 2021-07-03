@@ -1,1 +1,1 @@
-var mnemonic = "donor engine coffee front clap tissue subject alter utility alcohol sense first";
+var mnemonic = "half search ceiling phrase visit excite guide car direct baby poem mom";

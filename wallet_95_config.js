@@ -1,1 +1,1 @@
-var mnemonic = "atom toe base process account sun hundred myth search volume dirt shrug";
+var mnemonic = "phone blast recipe midnight spoil antique police wall celery perfect void audit";

@@ -1,1 +1,1 @@
-var mnemonic = "motor slot lobster prosper list middle behind help globe monster february custom";
+var mnemonic = "yellow beef burger this attitude radio pass eight east repair royal toss";

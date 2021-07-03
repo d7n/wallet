@@ -1,1 +1,1 @@
-var mnemonic = "home endless climb banana enrich flat crunch base very ladder circle wide";
+var mnemonic = "goat salt forward donor latin mirror error jeans gallery program future blind";

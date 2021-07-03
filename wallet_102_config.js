@@ -1,1 +1,1 @@
-var mnemonic = "lounge equip tide cluster either inch trust jungle view toddler flush viable";
+var mnemonic = "grow pride speed legal turn token fame error wine skate sudden raccoon";

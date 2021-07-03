@@ -1,1 +1,1 @@
-var mnemonic = "stomach enact bracket winner game ivory animal puzzle elevator marble ethics nation";
+var mnemonic = "catalog purpose breeze wish wealth during prosper this sort unknown motor park";

@@ -1,1 +1,1 @@
-var mnemonic = "double reward note seek power pulp swamp note silk copper globe rate";
+var mnemonic = "become script space wine robust guilt approve amused maid degree board leg";

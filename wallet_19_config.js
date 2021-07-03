@@ -1,1 +1,1 @@
-var mnemonic = "shove bright size axis limb tomato swamp morning such ride now envelope";
+var mnemonic = "alley remain north where rival maple meadow neck soup wolf pink cereal";

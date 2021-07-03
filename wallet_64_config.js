@@ -1,1 +1,1 @@
-var mnemonic = "vanish trick armor panda fatal squirrel glimpse deer about tone silk envelope";
+var mnemonic = "maple face zone trap jungle giraffe basic cycle video walk drip people";

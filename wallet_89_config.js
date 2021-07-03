@@ -1,1 +1,1 @@
-var mnemonic = "mind found cargo betray report error submit cargo uncover speak desk army";
+var mnemonic = "fly gas uniform snap auto decrease only region slab quit cross elder";

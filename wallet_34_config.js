@@ -1,1 +1,1 @@
-var mnemonic = "found aisle expect feed alert exact lonely bargain surround banana easy veteran";
+var mnemonic = "hint actual fiction bid retreat question awesome depend blanket medal consider arena";

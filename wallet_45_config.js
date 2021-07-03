@@ -1,1 +1,1 @@
-var mnemonic = "math jelly uphold salt possible fit dawn course repair long similar easy";
+var mnemonic = "fresh margin churn below valve initial million salt legend ozone dinner inside";

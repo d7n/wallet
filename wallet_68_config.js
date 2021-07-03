@@ -1,1 +1,1 @@
-var mnemonic = "gloom stuff response parrot degree fantasy hen twenty bus turtle creek clerk";
+var mnemonic = "orange dinner warfare pig prepare where rate gain priority maple swamp mandate";

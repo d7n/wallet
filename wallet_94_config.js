@@ -1,1 +1,1 @@
-var mnemonic = "private economy friend bright limit shove spike reflect neck social above depart";
+var mnemonic = "story clap receive nose planet stairs come rate rail police detect split";

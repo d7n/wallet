@@ -1,1 +1,1 @@
-var mnemonic = "increase swallow smoke option dilemma transfer obey zone hard mass put egg";
+var mnemonic = "awful acquire first life airport trophy judge sail wire spoon sign remain";

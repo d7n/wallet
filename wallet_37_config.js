@@ -1,1 +1,1 @@
-var mnemonic = "radar boring any general empower raise this priority easily local raise outer";
+var mnemonic = "carpet screen decorate carry square deal injury pact bench actor pipe spell";

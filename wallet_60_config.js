@@ -1,1 +1,1 @@
-var mnemonic = "anxiety rose crawl airport twin hidden mushroom media cram vanish pass govern";
+var mnemonic = "concert zero spawn cactus include pitch answer dance syrup include cheese scale";

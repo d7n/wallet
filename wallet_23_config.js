@@ -1,1 +1,1 @@
-var mnemonic = "hood lizard employ hazard liar twin remember category property decade home illegal";
+var mnemonic = "way rug snap solid near uncover chaos uniform shoulder tragic naive cool";

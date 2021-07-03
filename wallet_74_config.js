@@ -1,1 +1,1 @@
-var mnemonic = "cabbage inherit jealous sleep purity hope oxygen man hole diagram satoshi cat";
+var mnemonic = "betray route spin when model net file hawk piece neglect notice thought";

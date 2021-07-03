@@ -1,1 +1,1 @@
-var mnemonic = "thrive mixed into mask air elite cluster annual design flat play noodle";
+var mnemonic = "because always suggest two tunnel fork goat polar sweet domain often tobacco";

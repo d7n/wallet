@@ -1,1 +1,1 @@
-var mnemonic = "develop observe arrest globe peanut illegal shaft share slab shed neglect robust";
+var mnemonic = "pave lesson dragon divorce choose smart detect property pole fold proof tide";

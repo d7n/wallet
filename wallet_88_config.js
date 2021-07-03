@@ -1,1 +1,1 @@
-var mnemonic = "neck sure cream gown stadium immense remember caution attack pulse armed sea";
+var mnemonic = "flash fuel admit rhythm excess interest hen soldier grass monster track forest";

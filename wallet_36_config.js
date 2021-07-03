@@ -1,1 +1,1 @@
-var mnemonic = "wish month omit dinosaur spider random focus cluster ask brass essay guide";
+var mnemonic = "what grit surround soccer club pulp omit into puzzle between harsh need";

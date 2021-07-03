@@ -1,1 +1,1 @@
-var mnemonic = "major banana planet time author banana brick depart person poet milk cruise";
+var mnemonic = "style student emotion title glory antique awful cook mind day pond shrimp";

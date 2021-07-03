@@ -1,1 +1,1 @@
-var mnemonic = "toddler elegant vital theme erosion suffer huge rule best camp jump egg";
+var mnemonic = "primary square spread appear thumb clog year stadium bounce duty canvas that";

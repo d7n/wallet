@@ -1,1 +1,1 @@
-var mnemonic = "novel disorder verb cotton plate tank pistol wall option junior coconut frog";
+var mnemonic = "bomb imitate patrol promote heart lock abstract lonely spice stick license claw";

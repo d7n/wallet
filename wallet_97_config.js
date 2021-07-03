@@ -1,1 +1,1 @@
-var mnemonic = "aim asset plastic erase calm cactus measure space fit permit visual silver";
+var mnemonic = "issue small vast ship tackle castle weekend damp inflict disagree south spread";

@@ -1,1 +1,1 @@
-var mnemonic = "worth tone monitor clever team swear betray parade endorse adjust various crawl";
+var mnemonic = "jungle scare visit camera upset era addict bamboo gap blush tell shock";

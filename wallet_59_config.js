@@ -1,1 +1,1 @@
-var mnemonic = "attack guilt cash trap vital panther then unaware enjoy toddler muffin island";
+var mnemonic = "work shift cat deposit female taxi shiver someone cliff they barrel daughter";

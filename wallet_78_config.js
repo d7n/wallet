@@ -1,1 +1,1 @@
-var mnemonic = "entry similar mansion urban cherry front claw bench bullet harvest letter enemy";
+var mnemonic = "assault river fine supply few sheriff memory cash aim scorpion valley critic";

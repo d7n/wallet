@@ -1,1 +1,1 @@
-var mnemonic = "reunion anxiety traffic advance fatal car clinic oven crunch discover know video";
+var mnemonic = "super crisp evolve cross fish adapt woman jewel royal diary force mansion";

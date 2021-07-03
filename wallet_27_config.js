@@ -1,1 +1,1 @@
-var mnemonic = "aunt what lesson pioneer rotate include step fetch erupt stuff pole puppy";
+var mnemonic = "where sure pact prize undo deputy pottery deer transfer entry pelican relief";

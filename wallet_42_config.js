@@ -1,1 +1,1 @@
-var mnemonic = "area salad scissors kind upgrade arm woman theme plate mad dice food";
+var mnemonic = "special panel caught grass cluster pink field night marble produce churn fortune";

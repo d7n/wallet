@@ -1,1 +1,1 @@
-var mnemonic = "tennis best satisfy woman chunk pink obscure supply solution junk appear february";
+var mnemonic = "deliver parade shed flip affair chuckle expect color between goose acquire universe";

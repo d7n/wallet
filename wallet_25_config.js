@@ -1,1 +1,1 @@
-var mnemonic = "fitness bounce floor seek unknown spider embrace joke detect faith inject unusual";
+var mnemonic = "skate wheel worry clutch people under leg false paper venue parrot random";

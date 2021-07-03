@@ -1,1 +1,1 @@
-var mnemonic = "quote rely crunch crunch yard muscle liquid vivid raccoon view poem include";
+var mnemonic = "dance wage debris ordinary gravity attract point mom cram dinner summer west";

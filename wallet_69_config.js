@@ -1,1 +1,1 @@
-var mnemonic = "aerobic special below pudding wear cluster lobster issue culture bachelor outdoor glory";
+var mnemonic = "torch brief suffer hand festival garden pen accident win ancient nose home";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge fringe truck deputy valid region hobby envelope reduce wheel soldier fit";
+var mnemonic = "annual tooth mule ladder uncover glad owner party wave razor urban between";

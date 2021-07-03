@@ -1,1 +1,1 @@
-var mnemonic = "faint lonely please dune merit post royal filter open jeans hill save";
+var mnemonic = "expose hundred school address whisper include local search knee category bracket blood";

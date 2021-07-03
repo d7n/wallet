@@ -1,1 +1,1 @@
-var mnemonic = "recycle hotel quiz gravity want chronic bridge six proof figure path accuse";
+var mnemonic = "champion drink trap still toe trial ladder sound pyramid achieve ecology repeat";

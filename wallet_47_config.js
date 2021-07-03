@@ -1,1 +1,1 @@
-var mnemonic = "turtle despair awful glory broccoli force winner radar then ahead pink morning";
+var mnemonic = "toward chicken leisure split lucky marine employ action mountain advance crime purity";

@@ -1,1 +1,1 @@
-var mnemonic = "main wild manual dilemma veteran travel brisk scout fiction pudding salt action";
+var mnemonic = "icon upset style cream risk few usual behind time tooth fan prosper";

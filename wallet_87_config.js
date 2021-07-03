@@ -1,1 +1,1 @@
-var mnemonic = "give cargo funny manage clerk certain novel speed abstract card squeeze neck";
+var mnemonic = "trouble myth vapor envelope genre about random gentle loan worth rack loan";

@@ -1,1 +1,1 @@
-var mnemonic = "immense problem summer often avocado ladder weather hat fatal unusual nerve dice";
+var mnemonic = "figure slam among fame alcohol flip few alter shaft exact still betray";

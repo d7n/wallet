@@ -1,1 +1,1 @@
-var mnemonic = "foil orange curve prevent three busy confirm suggest useless fee hedgehog armor";
+var mnemonic = "brand universe start differ tourist agree ritual thunder mimic rebel require hole";

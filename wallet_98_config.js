@@ -1,1 +1,1 @@
-var mnemonic = "together shy buddy viable vacuum expire hub garlic two click parent dragon";
+var mnemonic = "myth quantum egg stamp laugh insect flat copper forget tree luxury mask";

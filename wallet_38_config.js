@@ -1,1 +1,1 @@
-var mnemonic = "bamboo recall current cave aerobic pigeon catalog then aspect grant skill squeeze";
+var mnemonic = "subway away upset embody taste hedgehog tip pilot typical vibrant year divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot crisp fringe quote alien envelope swallow goat scene noise garbage shell";
+var mnemonic = "rely bomb few tuition spread much spare ask quantum creek ridge soap";

@@ -1,1 +1,1 @@
-var mnemonic = "body artwork price rocket post visual bless hurdle base raw choice stem";
+var mnemonic = "hub again blur vital eyebrow train again bundle ugly law outside sail";

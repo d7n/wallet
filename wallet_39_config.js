@@ -1,1 +1,1 @@
-var mnemonic = "next pilot dress funny saddle relax now ramp rural offer daring reject";
+var mnemonic = "slow slab catch ostrich dress reject end boat roast outer divert diary";

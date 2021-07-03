@@ -1,1 +1,1 @@
-var mnemonic = "lady angle pole clock topple elegant gun west pass enforce tourist reward";
+var mnemonic = "awesome horse surprise brother broccoli sibling crunch limit finish prize gaze vanish";

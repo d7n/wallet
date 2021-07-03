@@ -1,1 +1,1 @@
-var mnemonic = "foil risk buzz frown cluster neck favorite hazard wing bleak essence gain";
+var mnemonic = "hawk bag stove wonder hard give piano detect weapon inform color retire";

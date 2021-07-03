@@ -1,1 +1,1 @@
-var mnemonic = "various blame all ritual cake galaxy skull remember fragile indicate business stamp";
+var mnemonic = "candy tone concert remain possible honey beef zoo video pair major drama";

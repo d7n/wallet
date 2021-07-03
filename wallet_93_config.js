@@ -1,1 +1,1 @@
-var mnemonic = "hope same decide flip depend blame hurry foster another ticket bird renew";
+var mnemonic = "item father focus relief such science success seven reduce tiger process industry";

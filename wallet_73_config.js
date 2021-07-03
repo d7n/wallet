@@ -1,1 +1,1 @@
-var mnemonic = "media pond prevent black habit swarm rack equip gloom sure ginger pulse";
+var mnemonic = "ecology noble crop mistake merit detect ethics already enemy disagree clarify order";

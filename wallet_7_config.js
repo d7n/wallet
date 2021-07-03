@@ -1,1 +1,1 @@
-var mnemonic = "fluid blush absurd execute helmet term fade obscure middle already glue vicious";
+var mnemonic = "they front diary slim regular raven carbon exclude script table impact hybrid";

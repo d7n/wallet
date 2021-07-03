@@ -1,1 +1,1 @@
-var mnemonic = "address skin ozone card behind stove baby camp toddler fog vacuum taste";
+var mnemonic = "noodle chapter thought help ordinary early hurdle parent music skirt venture palace";

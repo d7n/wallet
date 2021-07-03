@@ -1,1 +1,1 @@
-var mnemonic = "mix song guard slam shiver job home measure lava way little bless";
+var mnemonic = "news calm lion quit census apart typical design inform clever panel mistake";

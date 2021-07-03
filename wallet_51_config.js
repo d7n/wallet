@@ -1,1 +1,1 @@
-var mnemonic = "negative eager fame panic betray actress tray pencil orphan treat vast brush";
+var mnemonic = "april gaze fence shuffle manage final island scout tragic physical salute amused";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse extra wrestle lava napkin gate grocery action once muscle awesome meadow";
+var mnemonic = "faith jungle dolphin decade face panda pioneer play scan boil turkey swift";

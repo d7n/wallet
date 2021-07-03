@@ -1,1 +1,1 @@
-var mnemonic = "history brush image chronic guitar foam must shaft false doll forum manage";
+var mnemonic = "solid other habit creek airport endless person lava theme super fashion model";

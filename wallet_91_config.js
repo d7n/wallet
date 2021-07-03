@@ -1,1 +1,1 @@
-var mnemonic = "knife blur wheat goat weasel lady salmon card merge duck license dutch";
+var mnemonic = "cost any pen pottery rent marine wrap law salmon laundry relax only";

@@ -1,1 +1,1 @@
-var mnemonic = "lab unit fashion useful engine wait series switch female gas column east";
+var mnemonic = "bean ahead toy staff upgrade dilemma find like elephant seven just awful";

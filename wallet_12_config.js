@@ -1,1 +1,1 @@
-var mnemonic = "pledge forest mango struggle field window skin pass govern salute lecture food";
+var mnemonic = "matrix immune dizzy zebra company afford electric visual demand grape hour belt";

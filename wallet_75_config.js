@@ -1,1 +1,1 @@
-var mnemonic = "tortoise belt insane expect argue urban gather enact drink fuel keen area";
+var mnemonic = "retreat gap boil category kiwi gate shiver alert wish aerobic trumpet have";

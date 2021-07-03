@@ -1,1 +1,1 @@
-var mnemonic = "denial board demise fruit wrong cook category future school inch magnet obey";
+var mnemonic = "pyramid finish sea supply tent dizzy view vapor foil foam toe orange";

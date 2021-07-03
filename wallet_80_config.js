@@ -1,1 +1,1 @@
-var mnemonic = "palm hello solar draw program hello cheap frozen buyer provide congress fall";
+var mnemonic = "disease bright bright then cricket silent erase thank sketch reopen save above";

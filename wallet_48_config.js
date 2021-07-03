@@ -1,1 +1,1 @@
-var mnemonic = "crystal hobby famous father lecture hamster abuse vanish maze claw ridge number";
+var mnemonic = "castle air motion lemon tip amount elegant lens board horse indicate still";

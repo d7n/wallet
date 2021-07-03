@@ -1,1 +1,1 @@
-var mnemonic = "wing tattoo fury sure fish family off duty obscure salon cart crush";
+var mnemonic = "hub keep moral half advice include setup during found demise wing leopard";

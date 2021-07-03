@@ -1,1 +1,1 @@
-var mnemonic = "relief into gaze basic either oppose salmon bonus extend invite spring mad";
+var mnemonic = "solution labor era topple bunker stadium stumble banner abstract music soccer index";

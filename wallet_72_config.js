@@ -1,1 +1,1 @@
-var mnemonic = "success ring city idea afraid stool path fuel vital asset snap thing";
+var mnemonic = "ensure disagree wink laptop parent main educate strong result child lounge poverty";

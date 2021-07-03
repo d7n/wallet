@@ -1,1 +1,1 @@
-var mnemonic = "stock slam stable copy clump kick cable puzzle island horror stick logic";
+var mnemonic = "version enable debate swamp panic position because vehicle finger subject coach below";

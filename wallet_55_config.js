@@ -1,1 +1,1 @@
-var mnemonic = "chronic hub foam cash sustain gown rubber eager wrist domain heavy bench";
+var mnemonic = "page border famous text party glimpse word aisle indoor puppy kite view";

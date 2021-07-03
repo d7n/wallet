@@ -1,1 +1,1 @@
-var mnemonic = "brick hurt sport enable still fragile thumb spawn peace observe reform veteran";
+var mnemonic = "level rose captain knee tunnel damp slot bounce century recall course elder";

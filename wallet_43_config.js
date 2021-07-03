@@ -1,1 +1,1 @@
-var mnemonic = "noise shove game circle glove vacant excite rail inquiry infant symbol grow";
+var mnemonic = "heavy exclude attitude quality album apart visa omit final board embrace rice";

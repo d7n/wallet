@@ -1,1 +1,1 @@
-var mnemonic = "invite protect prize suit oval title defense advance vibrant canoe like test";
+var mnemonic = "bird jeans original same raise accident disorder card coconut lunch token ancient";

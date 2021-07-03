@@ -1,1 +1,1 @@
-var mnemonic = "wife setup patch sheriff virtual card crunch goddess place eyebrow devote exact";
+var mnemonic = "draft assume creek present moon faint weird coral fitness finish crew fish";

@@ -1,1 +1,1 @@
-var mnemonic = "elite scissors follow eagle bag angry glare quote swap pottery brass trim";
+var mnemonic = "chef promote ramp carbon car cable wash nerve nature mouse engine enact";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum derive cruise pull egg gather faint eternal room rigid genuine duty";
+var mnemonic = "tiny edge slim crew foil hero road trouble evoke rib dwarf harbor";
