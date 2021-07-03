@@ -1,1 +1,1 @@
-var mnemonic = "surprise feed amateur solve measure obscure excuse mean cream eyebrow breeze like";
+var mnemonic = "later begin leader rug asset waste tooth dog story napkin van route";

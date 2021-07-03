@@ -1,1 +1,1 @@
-var mnemonic = "dwarf basic wide retreat rebuild universe spread coach rocket hard muscle cushion";
+var mnemonic = "fever clown sting claim job twelve boat gold high exist type sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "keep tobacco huge expand attack flock spatial tragic imitate silent print future";
+var mnemonic = "kiwi elephant length fuel say thank mystery prefer gentle figure trip scan";

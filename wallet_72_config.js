@@ -1,1 +1,1 @@
-var mnemonic = "chase quiz rebel december arch dinner autumn hero canal swift payment bid";
+var mnemonic = "leisure angry always buddy bird note nothing focus seminar peasant various crater";

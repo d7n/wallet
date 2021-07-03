@@ -1,1 +1,1 @@
-var mnemonic = "verb common curtain rate okay muscle maze pizza live error glimpse switch";
+var mnemonic = "toss best imitate oppose atom mansion own yard major talk chest invest";

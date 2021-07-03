@@ -1,1 +1,1 @@
-var mnemonic = "fashion erosion jazz easily dry super hover symptom diamond east alter peanut";
+var mnemonic = "mixed hedgehog practice penalty gaze faint flat stable enough sniff text garage";

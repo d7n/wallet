@@ -1,1 +1,1 @@
-var mnemonic = "chaos shrimp afford unable arrange intact gate model dice phrase stand night";
+var mnemonic = "satoshi time liar embark lesson rescue disease color vendor desk melody limit";

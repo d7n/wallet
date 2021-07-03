@@ -1,1 +1,1 @@
-var mnemonic = "reject trip run below neutral museum audit echo duck minimum mercy fade";
+var mnemonic = "royal mountain inhale mass net priority spin cable annual age boil diet";

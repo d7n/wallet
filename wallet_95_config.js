@@ -1,1 +1,1 @@
-var mnemonic = "false delay nominee wrap matter language atom battle defy lottery level position";
+var mnemonic = "explain dragon rude staff shaft cereal orphan pig exhaust carbon funny educate";

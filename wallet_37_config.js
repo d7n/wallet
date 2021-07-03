@@ -1,1 +1,1 @@
-var mnemonic = "junior foam effort aerobic patch orbit floor behave chef scale glad beyond";
+var mnemonic = "aim buddy flip waste grass update midnight outer weekend awkward wagon cigar";

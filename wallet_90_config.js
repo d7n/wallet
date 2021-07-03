@@ -1,1 +1,1 @@
-var mnemonic = "neglect wash inform decide march hammer order remember inject vintage step rule";
+var mnemonic = "sock crowd bounce brief curve urban ten tooth ball seek one proud";

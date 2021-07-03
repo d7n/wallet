@@ -1,1 +1,1 @@
-var mnemonic = "tent exact time awake pig sea method cook best butter napkin general";
+var mnemonic = "hurt pizza flock palace demise give seed degree child fire celery arm";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic ancient market better submit crumble discover cook elevator crash agree enrich";
+var mnemonic = "slim frozen hub lizard pink gospel element usage stairs arctic utility picnic";

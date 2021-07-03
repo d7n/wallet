@@ -1,1 +1,1 @@
-var mnemonic = "tragic hedgehog they need elbow weather soul report inform cross forget sausage";
+var mnemonic = "aisle acid paper dad usual dumb slim attract royal arch federal sword";

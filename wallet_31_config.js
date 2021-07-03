@@ -1,1 +1,1 @@
-var mnemonic = "share offer example snow soldier wealth into daughter throw wrong common pull";
+var mnemonic = "coffee wife swing else carbon gaze vacuum client omit disagree donkey subject";

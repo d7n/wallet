@@ -1,1 +1,1 @@
-var mnemonic = "remain general pass pumpkin again demand avocado require together position few chaos";
+var mnemonic = "slight mobile expand soldier point merry layer april conduct glare medal unfair";

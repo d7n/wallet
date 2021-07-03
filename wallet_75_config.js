@@ -1,1 +1,1 @@
-var mnemonic = "away pulse host quality upgrade window sister leg harvest judge runway dumb";
+var mnemonic = "breeze lottery stereo truly access mansion hollow garden misery tattoo dry breeze";

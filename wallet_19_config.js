@@ -1,1 +1,1 @@
-var mnemonic = "crop cover bonus chair clutch receive excite struggle ask raven exhaust basic";
+var mnemonic = "oblige pill brisk interest diamond boat movie quarter party slide odor fancy";

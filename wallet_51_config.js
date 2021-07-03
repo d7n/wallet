@@ -1,1 +1,1 @@
-var mnemonic = "antique offer expire buddy together amount kit potato order dwarf margin grid";
+var mnemonic = "next universe pink crush forum jeans clean short flip fantasy govern method";

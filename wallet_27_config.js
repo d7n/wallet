@@ -1,1 +1,1 @@
-var mnemonic = "dry toward game machine middle exit erase airport still physical volume vibrant";
+var mnemonic = "rebuild nothing muscle almost hollow benefit assist tag recipe profit worry hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "there swarm kind drink security among stem account better unfair gloom image";
+var mnemonic = "across parade lazy cupboard air chuckle funny labor ski venue taste cable";

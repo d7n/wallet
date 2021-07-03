@@ -1,1 +1,1 @@
-var mnemonic = "symbol power narrow diesel zoo outside thank jewel isolate smart undo hood";
+var mnemonic = "dolphin rookie puzzle collect future rhythm clown brother plunge nurse citizen strong";

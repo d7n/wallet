@@ -1,1 +1,1 @@
-var mnemonic = "unable luxury chase word apple employ suspect approve just moon dentist observe";
+var mnemonic = "author retire cup bag pyramid tired fringe remain energy oil toy sister";

@@ -1,1 +1,1 @@
-var mnemonic = "extra crane noise shop panic immense slush grain angry report term suspect";
+var mnemonic = "engage project inherit napkin female unfair midnight piano offer know copy random";

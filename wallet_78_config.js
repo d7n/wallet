@@ -1,1 +1,1 @@
-var mnemonic = "mass kick crash eternal that hub detail elegant velvet network cabin mom";
+var mnemonic = "glory hold simple vicious heavy reduce prevent nut trim medal lunch slogan";

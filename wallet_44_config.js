@@ -1,1 +1,1 @@
-var mnemonic = "sleep sustain assume globe game giant thumb spy current flower trash clock";
+var mnemonic = "coconut remove accident arch practice fall alley ignore aisle tail car cute";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew shock grid pool digital spice hammer seat picture else young acoustic";
+var mnemonic = "lazy ten sauce behind capable sick mother lunar service brief cycle online";

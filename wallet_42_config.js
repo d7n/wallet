@@ -1,1 +1,1 @@
-var mnemonic = "father core catalog spread culture galaxy ceiling tray walnut tide initial cushion";
+var mnemonic = "stomach jazz sunset orbit already void exile pave mechanic later solid any";

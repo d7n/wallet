@@ -1,1 +1,1 @@
-var mnemonic = "beauty siren series rescue breeze balance virtual connect bridge depth pact hover";
+var mnemonic = "pig siege retreat airport limb stool thought false recall trial awkward modify";

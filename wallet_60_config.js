@@ -1,1 +1,1 @@
-var mnemonic = "first spice news find donate cart dust vicious since fault vicious empty";
+var mnemonic = "small affair traffic cute bomb harvest minor when captain pig noodle paper";

@@ -1,1 +1,1 @@
-var mnemonic = "document rather biology author fatal camera vehicle sell list bomb oxygen you";
+var mnemonic = "short speed attitude forum grab siege outer habit harbor happy again have";

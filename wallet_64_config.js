@@ -1,1 +1,1 @@
-var mnemonic = "maid lottery million trend dog record motor tongue current monkey must pulse";
+var mnemonic = "toy guilt federal deputy tribe cute daughter dirt nation stairs million announce";

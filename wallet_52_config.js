@@ -1,1 +1,1 @@
-var mnemonic = "cheese limit depth film awake essence obscure nut beauty tattoo room animal";
+var mnemonic = "stumble come fitness erosion art loop brave treat mystery month alpha mango";

@@ -1,1 +1,1 @@
-var mnemonic = "swing total tumble true invest nerve movie original utility tortoise short snap";
+var mnemonic = "assault spend rebuild coil timber nest trophy inmate buddy inform oppose cherry";

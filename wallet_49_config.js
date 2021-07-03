@@ -1,1 +1,1 @@
-var mnemonic = "denial order curve proud regret best mandate lamp swift entry sausage debris";
+var mnemonic = "mimic nerve tourist base rack home grid boat ten reveal mention fantasy";

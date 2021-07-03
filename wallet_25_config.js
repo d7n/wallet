@@ -1,1 +1,1 @@
-var mnemonic = "dragon list thing exclude gallery runway tell evolve enemy avoid mercy initial";
+var mnemonic = "divide acquire sunset palace man wonder bench verb eyebrow original two embody";

@@ -1,1 +1,1 @@
-var mnemonic = "misery hire thought hire turn quality glance foster slam video axis buddy";
+var mnemonic = "swear light acoustic place supply honey change boat knock situate coach accident";

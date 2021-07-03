@@ -1,1 +1,1 @@
-var mnemonic = "push win what ski digital erosion birth crouch torch walnut hazard twelve";
+var mnemonic = "rose dash taxi february dream find top snack excite sword tide already";

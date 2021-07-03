@@ -1,1 +1,1 @@
-var mnemonic = "rough truth message loan burger moment awkward dentist once rhythm bunker put";
+var mnemonic = "gown ugly become innocent ladder seed increase vendor exile forget luxury stuff";

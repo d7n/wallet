@@ -1,1 +1,1 @@
-var mnemonic = "exit silver derive present shallow acoustic capable gossip crouch become subway bulk";
+var mnemonic = "giggle rival sign ketchup mimic child panda spoon renew toy liquid shrug";

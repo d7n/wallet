@@ -1,1 +1,1 @@
-var mnemonic = "actress baby century answer regret twin immense wealth biology noodle saddle manual";
+var mnemonic = "erode expand margin require film lock often awake hover stone source item";

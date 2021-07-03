@@ -1,1 +1,1 @@
-var mnemonic = "regret bleak skate lobster force casual result humor inspire exit ability odor";
+var mnemonic = "parade zoo girl thing echo assault manual limb innocent easy olympic endorse";

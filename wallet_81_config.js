@@ -1,1 +1,1 @@
-var mnemonic = "symptom exist patch theory zebra cage void account square law celery ball";
+var mnemonic = "sniff shoot huge ivory chicken just disease common guitar relief vacuum glide";

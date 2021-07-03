@@ -1,1 +1,1 @@
-var mnemonic = "material typical jeans wedding resource winter such retreat caution woman market absurd";
+var mnemonic = "seed mirror cradle public crime hub such slice mesh apple real start";

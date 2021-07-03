@@ -1,1 +1,1 @@
-var mnemonic = "west beauty token suspect stuff copy talk easily walk spare oven quarter";
+var mnemonic = "wide vibrant try weasel devote muscle spoon regular thing salon live harsh";

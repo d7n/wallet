@@ -1,1 +1,1 @@
-var mnemonic = "office laptop cabbage diamond relief foil mobile leg latin network assist action";
+var mnemonic = "glad reason multiply vocal capital romance say expand impact fat hat pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "client gasp problem grape ribbon want spike dawn crumble across essence warrior";
+var mnemonic = "stock gadget advance siren despair large cover route shove parrot shy subject";

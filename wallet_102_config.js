@@ -1,1 +1,1 @@
-var mnemonic = "senior gravity envelope yellow area survey illegal athlete column donkey ranch daring";
+var mnemonic = "movie inner impact lesson skirt inmate picture private zone model horse social";

@@ -1,1 +1,1 @@
-var mnemonic = "picture hungry speak stove message ketchup demand session slight marriage shaft step";
+var mnemonic = "drip ring breeze index damage lion gentle angry venue weasel beauty wagon";

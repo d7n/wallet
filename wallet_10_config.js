@@ -1,1 +1,1 @@
-var mnemonic = "reveal cost arena online credit blur oyster taxi cool drill head excite";
+var mnemonic = "energy symptom where tuna kite ozone purse tunnel undo garment master access";

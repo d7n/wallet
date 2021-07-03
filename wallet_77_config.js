@@ -1,1 +1,1 @@
-var mnemonic = "sweet glad army miss since subway quantum merge seven laundry reward ugly";
+var mnemonic = "syrup hospital story mouse grit account spread luggage elbow song perfect whip";

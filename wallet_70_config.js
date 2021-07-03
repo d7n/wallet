@@ -1,1 +1,1 @@
-var mnemonic = "choose resemble stamp shrug appear camp almost canal ill strike vault wage";
+var mnemonic = "talent type disorder report mixture apart ozone frozen jelly broken gesture casino";

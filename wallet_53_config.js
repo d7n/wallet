@@ -1,1 +1,1 @@
-var mnemonic = "core evolve dish captain slender bargain day glue gym equal skull enforce";
+var mnemonic = "lesson ignore pill opera refuse monitor juice hospital record defy budget enter";

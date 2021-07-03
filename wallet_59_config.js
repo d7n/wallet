@@ -1,1 +1,1 @@
-var mnemonic = "universe repair upon suspect add emotion fitness vanish pottery scheme burger vicious";
+var mnemonic = "profit critic ill topic own south champion walk human silk praise rotate";

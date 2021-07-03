@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo bike pulse series certain impact trophy drift viable laundry drive copy";
+var mnemonic = "divorce beach clerk later dolphin runway fresh crouch wide toss foster comfort";

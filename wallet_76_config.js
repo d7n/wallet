@@ -1,1 +1,1 @@
-var mnemonic = "wall fox settle coffee hour decline slogan unusual junk lake ill sign";
+var mnemonic = "recall piece icon promote decide miss course term obtain harvest engage soup";

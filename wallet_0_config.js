@@ -1,1 +1,1 @@
-var mnemonic = "trumpet caught senior science glass denial venture holiday chief clog robust fiscal";
+var mnemonic = "slush gun trial axis genre advance people lemon atom assume guide ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "chat record urge frog video ignore feed genuine museum news order bracket";
+var mnemonic = "sustain twenty lamp loyal escape infant goose cup pole toy cry exclude";

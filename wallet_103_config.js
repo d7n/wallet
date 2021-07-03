@@ -1,1 +1,1 @@
-var mnemonic = "attract mosquito soon labor donkey blind town green ride length then hidden";
+var mnemonic = "cruel identify book critic slab carpet coyote sock quit reveal around hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "recall deposit oil swamp excess wrestle roast dress survey approve pudding wood";
+var mnemonic = "sausage crucial pioneer clerk tennis ghost loan move estate eternal elbow during";

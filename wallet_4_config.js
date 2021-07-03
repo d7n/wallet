@@ -1,1 +1,1 @@
-var mnemonic = "forum similar bench special bulb basket pipe seven drive royal vehicle rather";
+var mnemonic = "link between alley phrase bunker wild athlete burger noise cereal luggage magic";

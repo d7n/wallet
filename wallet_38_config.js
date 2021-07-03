@@ -1,1 +1,1 @@
-var mnemonic = "track guard caution expect shoot fresh seat distance spoil volcano million swear";
+var mnemonic = "raw review exist history always bitter unhappy weekend profit panda emerge exact";

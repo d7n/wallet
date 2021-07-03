@@ -1,1 +1,1 @@
-var mnemonic = "trumpet adult battle license various liberty remain sibling mimic vehicle song squeeze";
+var mnemonic = "rough frost travel dawn thing veteran fog spell real silk screen entry";

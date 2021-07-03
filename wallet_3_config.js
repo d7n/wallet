@@ -1,1 +1,1 @@
-var mnemonic = "marriage menu globe daring skate cable force pair increase tomorrow luxury what";
+var mnemonic = "chat clay behind gain like coffee sign cluster poverty response near describe";

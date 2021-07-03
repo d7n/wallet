@@ -1,1 +1,1 @@
-var mnemonic = "surface interest melody hood dutch robust cousin movie uphold crew when code";
+var mnemonic = "fuel popular dog stove nurse leisure unable mushroom rigid term kick diagram";

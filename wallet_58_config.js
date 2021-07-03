@@ -1,1 +1,1 @@
-var mnemonic = "spring also surge title goose attitude exact cage adult bike jar absorb";
+var mnemonic = "useless boring unhappy slice valley enact glue file adjust anger fame allow";

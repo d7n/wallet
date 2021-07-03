@@ -1,1 +1,1 @@
-var mnemonic = "unveil sustain quit elbow upper item notable general release stage grief ticket";
+var mnemonic = "private leisure kiwi trick throw close person brisk shoe script abstract merge";

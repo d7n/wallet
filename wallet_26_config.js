@@ -1,1 +1,1 @@
-var mnemonic = "robot churn height innocent useless few post gift ketchup october hunt danger";
+var mnemonic = "comfort scatter shrug arch uphold buzz beyond dose rose add flavor toe";

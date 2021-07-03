@@ -1,1 +1,1 @@
-var mnemonic = "wrestle sunny approve burden tone yellow school capital bone bench frown heavy";
+var mnemonic = "hint found popular bonus diamond error noise minute royal helmet renew sword";

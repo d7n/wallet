@@ -1,1 +1,1 @@
-var mnemonic = "drama floor result return balcony agent connect chef portion success train agent";
+var mnemonic = "echo replace final suffer leaf image rural wagon above prison garage achieve";

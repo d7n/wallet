@@ -1,1 +1,1 @@
-var mnemonic = "finish uniform demise river same always turkey hazard dial dry cave wage";
+var mnemonic = "fly violin pigeon sunny appear random grief forest raven blue swim wrap";

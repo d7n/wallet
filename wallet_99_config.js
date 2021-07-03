@@ -1,1 +1,1 @@
-var mnemonic = "sniff sketch elder gift artwork soldier leader boil liquid liquid pudding casual";
+var mnemonic = "offer cereal wash during crunch scare oval timber unit horror burden tone";

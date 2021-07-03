@@ -1,1 +1,1 @@
-var mnemonic = "pill meat skill bracket supreme column section begin cost sun arena purity";
+var mnemonic = "exhaust myth suggest glare fatal simple library holiday eyebrow decorate north rebel";

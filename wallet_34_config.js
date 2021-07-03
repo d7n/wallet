@@ -1,1 +1,1 @@
-var mnemonic = "cake chief remember omit grocery cheese liberty quiz high scrub trade input";
+var mnemonic = "between year fury tongue neither update case fetch fragile fruit consider supreme";

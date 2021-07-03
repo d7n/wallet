@@ -1,1 +1,1 @@
-var mnemonic = "cake million beach engine busy card exact guilt raccoon task student timber";
+var mnemonic = "unlock promote luxury frozen connect unknown admit rough suit confirm deputy move";

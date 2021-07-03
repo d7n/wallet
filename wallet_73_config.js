@@ -1,1 +1,1 @@
-var mnemonic = "tobacco palace empty assume clay betray fetch next mean patch lawsuit add";
+var mnemonic = "under lyrics deliver feed load inmate one hour bean history document hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid vanish asset dog survey puppy major october twice exotic despair day";
+var mnemonic = "funny tone bind core estate beef nature arm hold guitar dilemma play";

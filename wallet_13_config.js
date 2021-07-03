@@ -1,1 +1,1 @@
-var mnemonic = "arm acid wisdom appear devote fossil viable rubber napkin permit sphere claw";
+var mnemonic = "glove square action buffalo waste ball purpose ritual art laptop action consider";

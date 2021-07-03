@@ -1,1 +1,1 @@
-var mnemonic = "glove rigid cabbage whip draw lunar concert goose tonight pear behave hard";
+var mnemonic = "grow aware collect kid nut elite shaft candy velvet episode grunt game";

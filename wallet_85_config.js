@@ -1,1 +1,1 @@
-var mnemonic = "mercy measure deputy crucial discover panther mammal order soup valley destroy toe";
+var mnemonic = "curve sustain enemy bulb finish east endorse else unfold denial aware theory";

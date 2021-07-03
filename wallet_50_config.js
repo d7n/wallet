@@ -1,1 +1,1 @@
-var mnemonic = "advance amazing business example bean prepare vendor card little taxi smile motion";
+var mnemonic = "twin fancy muffin night net display message spare equal olive retreat nasty";

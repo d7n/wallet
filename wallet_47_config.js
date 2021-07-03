@@ -1,1 +1,1 @@
-var mnemonic = "romance refuse rather van elevator deputy orphan steel rule enable wise home";
+var mnemonic = "focus cousin awkward donkey adjust trend else claim cattle alley hero faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond syrup unknown average best select dash box fiscal start black evidence";
+var mnemonic = "replace fiber city weasel victory exile crunch initial topple lesson inherit taste";

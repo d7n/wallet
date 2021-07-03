@@ -1,1 +1,1 @@
-var mnemonic = "profit thank pumpkin borrow effort aspect cage major ocean drift boy city";
+var mnemonic = "put fade pudding hood category kangaroo business skirt bid evolve van review";

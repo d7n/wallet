@@ -1,1 +1,1 @@
-var mnemonic = "ecology square seed usage flight brush valley silk art obtain critic act";
+var mnemonic = "hill mass genius hurdle juice various tornado artwork add poem private garden";

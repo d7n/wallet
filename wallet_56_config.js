@@ -1,1 +1,1 @@
-var mnemonic = "six exhaust blind police disorder ball tribe visual huge little pumpkin autumn";
+var mnemonic = "want weather fever illegal fade because lizard answer melt wink brief pioneer";

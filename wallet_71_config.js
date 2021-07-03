@@ -1,1 +1,1 @@
-var mnemonic = "sport animal attend blast unit coyote armed brother hand retreat replace end";
+var mnemonic = "stomach camera brush trust tilt cinnamon task bonus reunion catch fancy risk";

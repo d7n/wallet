@@ -1,1 +1,1 @@
-var mnemonic = "trumpet humor donate cruel angle obey pear mother initial century olive neutral";
+var mnemonic = "grief joy private below close very twelve change oxygen camp popular solid";
