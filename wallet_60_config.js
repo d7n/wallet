@@ -1,1 +1,1 @@
-var mnemonic = "vessel drum believe fun carbon price tide cube boost physical pepper away";
+var mnemonic = "iron gun business hard iron divide rescue gadget cover unveil subway alert";

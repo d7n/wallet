@@ -1,1 +1,1 @@
-var mnemonic = "dash boat human room rally rifle prefer correct siren chapter identify real";
+var mnemonic = "increase onion six gospel indoor enemy fitness evil vessel mushroom either swamp";

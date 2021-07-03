@@ -1,1 +1,1 @@
-var mnemonic = "prosper shield estate fatal swim palm under step zoo clever example initial";
+var mnemonic = "biology crowd wing custom range swim dash salad chicken tool world adjust";

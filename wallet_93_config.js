@@ -1,1 +1,1 @@
-var mnemonic = "adjust frost diet hover equal question wish column symptom disagree coconut mixture";
+var mnemonic = "chunk soft unveil swift scale brave oxygen slush blouse voyage scene blue";

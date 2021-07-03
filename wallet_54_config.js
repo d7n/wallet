@@ -1,1 +1,1 @@
-var mnemonic = "plastic chalk spirit seed benefit globe march like enforce repair purse evil";
+var mnemonic = "color toward believe cube idea salt wing fan basket garden brain aspect";

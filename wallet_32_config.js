@@ -1,1 +1,1 @@
-var mnemonic = "despair dirt panther magnet either airport mechanic board output genius setup fatal";
+var mnemonic = "soft ethics find pride unable atom local general habit proud loud web";

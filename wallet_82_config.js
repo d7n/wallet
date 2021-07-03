@@ -1,1 +1,1 @@
-var mnemonic = "heavy fog when wall cat sweet night shell twice follow common south";
+var mnemonic = "regular rib attend guitar bargain easy seminar expire live sadness fold banner";

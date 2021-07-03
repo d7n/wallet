@@ -1,1 +1,1 @@
-var mnemonic = "solution cherry matter one orchard destroy label friend advance scatter enroll blur";
+var mnemonic = "upper clerk dismiss soon upper short build cycle stem fatal own dune";

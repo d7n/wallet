@@ -1,1 +1,1 @@
-var mnemonic = "left evoke swing panel seed night desk wealth example scatter lady penalty";
+var mnemonic = "noodle emotion snake right relax public cradle company square slush connect wall";

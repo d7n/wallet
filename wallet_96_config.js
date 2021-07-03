@@ -1,1 +1,1 @@
-var mnemonic = "surprise mention sister royal must magnet call hero glimpse surge rookie select";
+var mnemonic = "blouse number token leader december plug venue inform sting tent prefer better";

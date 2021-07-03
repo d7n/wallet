@@ -1,1 +1,1 @@
-var mnemonic = "sort typical doll lonely town wait market stamp dawn debris choose puppy";
+var mnemonic = "worry friend enemy congress jealous famous double loop winner element offer nose";

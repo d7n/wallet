@@ -1,1 +1,1 @@
-var mnemonic = "route insect brain pumpkin accuse garbage jacket tenant spatial canal ocean virus";
+var mnemonic = "door list feed surround start security simple recycle unhappy creek timber genius";

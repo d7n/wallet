@@ -1,1 +1,1 @@
-var mnemonic = "give embark crouch where april love leopard movie clutch flame face hair";
+var mnemonic = "simple tuition emerge night hazard buffalo shiver mule beef quiz hub custom";

@@ -1,1 +1,1 @@
-var mnemonic = "vault priority purity banana lend fluid priority enlist gravity wage wedding acid";
+var mnemonic = "bounce deputy produce mind now pear pool mad income audit tattoo capital";

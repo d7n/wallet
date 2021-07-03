@@ -1,1 +1,1 @@
-var mnemonic = "naive pact limit crawl wage universe between dirt then lecture brush arrow";
+var mnemonic = "hub melody leader ripple company garbage stand dilemma grow february gallery manage";

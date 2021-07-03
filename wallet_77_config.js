@@ -1,1 +1,1 @@
-var mnemonic = "boost wife moment casual loyal butter pair father canoe boil option frame";
+var mnemonic = "damage kit just student train car crunch input market crunch culture polar";

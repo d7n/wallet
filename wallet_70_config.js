@@ -1,1 +1,1 @@
-var mnemonic = "vast kid crystal thank rabbit title goose lady multiply isolate bone mouse";
+var mnemonic = "welcome quote name cable file plastic protect rack cake giant kiwi indicate";

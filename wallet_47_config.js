@@ -1,1 +1,1 @@
-var mnemonic = "salon army wing seed work prosper physical price wet toy spike original";
+var mnemonic = "until slush apple follow fault speed dumb bind strong eternal romance family";

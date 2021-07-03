@@ -1,1 +1,1 @@
-var mnemonic = "concert sun boost field frozen also fish tag exist crack drip depend";
+var mnemonic = "milk board develop budget marriage couch organ large narrow slight tone misery";

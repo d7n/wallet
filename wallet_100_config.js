@@ -1,1 +1,1 @@
-var mnemonic = "act fortune have section only stock now slush ability lend roast dutch";
+var mnemonic = "parrot milk guilt endless rib south unique depth equal dumb night deny";

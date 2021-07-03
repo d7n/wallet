@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur intact company chief swift kitten faith loyal rule scout lamp spread";
+var mnemonic = "lunch high coin present tissue zero curtain anger session blouse rebuild insect";

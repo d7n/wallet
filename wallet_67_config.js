@@ -1,1 +1,1 @@
-var mnemonic = "chest blood liar burger note prepare audit witness indoor define outside comfort";
+var mnemonic = "author chef puppy method lazy awake casual grass salt era turtle fence";

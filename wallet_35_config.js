@@ -1,1 +1,1 @@
-var mnemonic = "party pyramid gown must favorite plunge record ordinary differ farm mango spot";
+var mnemonic = "finger picture cricket arrive frame scheme burger client genuine end indoor rapid";

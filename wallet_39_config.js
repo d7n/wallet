@@ -1,1 +1,1 @@
-var mnemonic = "ostrich cover north brown radio fuel wine monkey tortoise coach survey choice";
+var mnemonic = "civil about subject lion indoor inspire swing ribbon burst stomach horn news";

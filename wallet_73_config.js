@@ -1,1 +1,1 @@
-var mnemonic = "remain clarify fancy mother grass monkey admit siege tape abandon manual pact";
+var mnemonic = "employ ranch two organ appear layer insane worth describe race point butter";

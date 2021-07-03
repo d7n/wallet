@@ -1,1 +1,1 @@
-var mnemonic = "during output olive brush expand great drop try carry flag seek enhance";
+var mnemonic = "universe essay drum athlete welcome east search purpose lunch essay remember unknown";

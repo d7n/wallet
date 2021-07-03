@@ -1,1 +1,1 @@
-var mnemonic = "roast work phone decide spy shed nephew elephant powder orient oil close";
+var mnemonic = "perfect fabric safe buzz enjoy puppy useful distance wet web knee elder";

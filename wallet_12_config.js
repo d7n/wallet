@@ -1,1 +1,1 @@
-var mnemonic = "task disease modify orbit olive flat entire order absent mix scare major";
+var mnemonic = "ribbon follow add inject hope leg exclude edit grit runway wonder era";

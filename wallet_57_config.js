@@ -1,1 +1,1 @@
-var mnemonic = "scrap deny object path quantum across document wolf panel culture head primary";
+var mnemonic = "physical bomb diesel ski viable board method trigger prison false brown world";

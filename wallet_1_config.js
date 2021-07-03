@@ -1,1 +1,1 @@
-var mnemonic = "awake exit only boost child year account apart faint liar piece pill";
+var mnemonic = "comic effort soccer culture captain circle trip lunar hospital welcome salmon shrimp";

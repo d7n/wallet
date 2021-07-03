@@ -1,1 +1,1 @@
-var mnemonic = "method advance enough brown argue crouch lawsuit car normal trend zebra void";
+var mnemonic = "dream palace young indicate curtain million magnet merry wash ahead junior bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence solar illness police lock slow velvet empty zero lucky theory cross";
+var mnemonic = "melt twelve library client battle blanket salt law direct select cotton rabbit";

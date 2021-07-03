@@ -1,1 +1,1 @@
-var mnemonic = "erase ahead speak there mind van candy hospital frown tuna almost topic";
+var mnemonic = "success vacant banana spike nest glove way tiny loyal reason hedgehog young";

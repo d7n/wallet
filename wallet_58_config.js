@@ -1,1 +1,1 @@
-var mnemonic = "diet lava happy ankle stuff virtual vibrant bulb cart truth oyster fatigue";
+var mnemonic = "crew wreck eye daughter media pistol aerobic symbol fragile course follow produce";

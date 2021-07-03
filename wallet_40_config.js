@@ -1,1 +1,1 @@
-var mnemonic = "napkin shiver service foster parade slight stay wet great hair clutch good";
+var mnemonic = "board brave pyramid much weird file penalty net ski present wide wrestle";

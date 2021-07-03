@@ -1,1 +1,1 @@
-var mnemonic = "burger pluck option kick holiday useful mechanic begin hundred asthma rubber duck";
+var mnemonic = "accuse unit spread success slim divert nephew bicycle vast author chapter check";

@@ -1,1 +1,1 @@
-var mnemonic = "term cheap dragon dove task olympic problem six adapt goddess response purpose";
+var mnemonic = "isolate system october decade diesel climb detect list truck brand cream enlist";

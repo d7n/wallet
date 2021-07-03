@@ -1,1 +1,1 @@
-var mnemonic = "cherry ribbon cruise champion tomato key tube pledge nominee update tiger film";
+var mnemonic = "settle net tiger prefer tired edit margin impact truck hello roast public";

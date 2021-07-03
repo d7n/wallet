@@ -1,1 +1,1 @@
-var mnemonic = "club weather ostrich quantum frost involve present wreck gate pen ethics athlete";
+var mnemonic = "option predict grant chaos awkward bring gasp usual achieve remove amused stock";

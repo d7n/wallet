@@ -1,1 +1,1 @@
-var mnemonic = "ostrich lab guess come resist language sight clock enlist average attend mail";
+var mnemonic = "picnic render game hamster today clever castle mention genius teach attend network";

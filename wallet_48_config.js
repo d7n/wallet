@@ -1,1 +1,1 @@
-var mnemonic = "ramp frown calm pull engage owner check damp hair busy buyer bacon";
+var mnemonic = "easy oblige cricket gaze basic eager suffer narrow cup hungry spring rain";

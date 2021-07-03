@@ -1,1 +1,1 @@
-var mnemonic = "insect visa iron mixed gaze slender bread refuse human muscle horse stadium";
+var mnemonic = "nose save oven weapon legal barely certain rural cycle pride asthma few";

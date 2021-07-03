@@ -1,1 +1,1 @@
-var mnemonic = "cricket chapter scorpion swamp shy message fortune trip long assault chunk possible";
+var mnemonic = "reopen add else unknown analyst inner shrimp about prosper avoid garden nasty";

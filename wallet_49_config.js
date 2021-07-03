@@ -1,1 +1,1 @@
-var mnemonic = "decorate spray seek adapt endless noise afford lonely balance civil bundle almost";
+var mnemonic = "manual opinion slender vote gorilla peace blue turn letter thumb medal teach";

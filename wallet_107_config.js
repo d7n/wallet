@@ -1,1 +1,1 @@
-var mnemonic = "clerk scrub profit universe tobacco find frost trophy fee resist evil clarify";
+var mnemonic = "apart buffalo member candy vote parent planet client flag pond armor divorce";

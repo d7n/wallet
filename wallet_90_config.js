@@ -1,1 +1,1 @@
-var mnemonic = "stuff you still eight sense wrist kick family normal polar video area";
+var mnemonic = "upper venue inject inch crater deliver tunnel ankle detail member lion urge";

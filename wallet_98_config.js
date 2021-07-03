@@ -1,1 +1,1 @@
-var mnemonic = "domain upgrade front engage prefer mouse logic slim wild damage until title";
+var mnemonic = "frame undo alpha desk alter into bulb warm increase lonely chaos solar";

@@ -1,1 +1,1 @@
-var mnemonic = "run rate verb fresh rifle grief share discover attract chef sibling unknown";
+var mnemonic = "modify climb banner frost afford same result little supreme absurd business foam";

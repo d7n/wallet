@@ -1,1 +1,1 @@
-var mnemonic = "dragon office announce near million cement oppose sustain matter elegant minimum blast";
+var mnemonic = "kind initial order bargain system document sorry soldier hood vacuum output spice";

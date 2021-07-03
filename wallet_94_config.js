@@ -1,1 +1,1 @@
-var mnemonic = "glimpse exact resemble pepper wink layer main crash start fossil merry supreme";
+var mnemonic = "once mouse punch step music shoe enrich isolate mercy disagree defy pole";

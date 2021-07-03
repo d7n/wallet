@@ -1,1 +1,1 @@
-var mnemonic = "speak quit grape hockey shrimp emotion coin sugar result source thought defy";
+var mnemonic = "gold knock jealous city rather nose attract mixed tank orchard devote inform";

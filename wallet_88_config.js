@@ -1,1 +1,1 @@
-var mnemonic = "crash snow cousin moment island arch salmon boost wall vapor noble music";
+var mnemonic = "rural insect ahead theme sure ketchup tissue tip art coil lesson spare";

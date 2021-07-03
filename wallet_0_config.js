@@ -1,1 +1,1 @@
-var mnemonic = "jaguar mesh mule camera large joke drip possible key theory narrow creek";
+var mnemonic = "narrow forest miss umbrella elite path milk catalog shield spirit unveil earn";

@@ -1,1 +1,1 @@
-var mnemonic = "neither agent then mimic dog brand correct useful state comfort skate wool";
+var mnemonic = "allow exhaust rely business govern foot palm wait ramp laptop make very";

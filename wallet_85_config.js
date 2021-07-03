@@ -1,1 +1,1 @@
-var mnemonic = "canvas mule volume stuff prevent illness step decade marriage disease sure scene";
+var mnemonic = "health wonder voice ice airport little drastic park paper play large inner";

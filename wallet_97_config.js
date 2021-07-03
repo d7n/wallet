@@ -1,1 +1,1 @@
-var mnemonic = "foil crawl drink poverty length interest pulse various later shuffle critic core";
+var mnemonic = "gorilla fancy veteran expand smart bottom lizard achieve swarm change envelope ride";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract junk motor success left install any region impulse detect combine slice";
+var mnemonic = "hollow attend shuffle silk license feature rough note exile snack rhythm swap";

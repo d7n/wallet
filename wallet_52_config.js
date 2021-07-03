@@ -1,1 +1,1 @@
-var mnemonic = "foam stem alcohol pulse wall sleep palace solid piano seek blind bone";
+var mnemonic = "video antique main toilet around oven return world riot august bulk course";

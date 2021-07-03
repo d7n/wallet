@@ -1,1 +1,1 @@
-var mnemonic = "annual treat legal sausage dose meadow cabbage curve lonely turn speed torch";
+var mnemonic = "region giggle snap river caught school exchange letter matter theory balance faculty";

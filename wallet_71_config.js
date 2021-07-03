@@ -1,1 +1,1 @@
-var mnemonic = "nominee never dish retire bamboo invest mom tennis actual kitchen theme kiwi";
+var mnemonic = "follow system awesome slogan swift air prepare wet cruise atom post winter";

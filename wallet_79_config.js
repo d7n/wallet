@@ -1,1 +1,1 @@
-var mnemonic = "salon vehicle illness company victory protect this wrestle kid usage they rack";
+var mnemonic = "language local spare fly inside brother speak leisure coral increase skirt bench";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd often audit will relief elephant cabbage thank sponsor pass trend inherit";
+var mnemonic = "duck fork sorry stairs two neither oxygen shine thank identify whisper believe";

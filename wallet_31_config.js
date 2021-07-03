@@ -1,1 +1,1 @@
-var mnemonic = "public market fly net sail accident moment kiss gaze girl wing begin";
+var mnemonic = "climb learn panda mountain length neutral bullet mean renew major swap scan";

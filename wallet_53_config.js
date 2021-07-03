@@ -1,1 +1,1 @@
-var mnemonic = "rely snow identify bring rent column budget attract canvas provide small vibrant";
+var mnemonic = "hard during memory sound happy unfair dry razor try column crane obscure";

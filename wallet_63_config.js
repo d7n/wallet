@@ -1,1 +1,1 @@
-var mnemonic = "fury piece hamster pony canoe reveal middle useful unaware arch dust wine";
+var mnemonic = "shop text salad foam unit online kingdom path host strategy give menu";

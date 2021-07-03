@@ -1,1 +1,1 @@
-var mnemonic = "garment riot try example change cart sustain item flower winter flip frown";
+var mnemonic = "marble cool amused nominee spread fence run meadow squirrel case lock warm";

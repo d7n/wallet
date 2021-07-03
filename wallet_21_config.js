@@ -1,1 +1,1 @@
-var mnemonic = "kitchen car pottery switch ripple general appear bus strategy avoid consider distance";
+var mnemonic = "online twist six mandate hope universe core hollow afford pigeon open habit";

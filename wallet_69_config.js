@@ -1,1 +1,1 @@
-var mnemonic = "pigeon two again nut frost excess stool obtain wage repair borrow chronic";
+var mnemonic = "clap bar alter taxi ostrich fan hour bid burger govern weird copper";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling blind grace filter since resource impact foam wear juice sample chalk";
+var mnemonic = "tray hollow scare exhaust broom stumble front inner silly shiver check tribe";

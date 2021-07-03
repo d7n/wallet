@@ -1,1 +1,1 @@
-var mnemonic = "horn awake disorder craft diet remove shy domain alone play color tuition";
+var mnemonic = "dinner whip milk swallow this blouse picnic series leg swift leave peasant";

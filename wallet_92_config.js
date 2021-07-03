@@ -1,1 +1,1 @@
-var mnemonic = "kidney quantum inhale swamp elegant pear lens inch price toast slam siren";
+var mnemonic = "dismiss begin air trash write later update dilemma help bag beach company";

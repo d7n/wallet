@@ -1,1 +1,1 @@
-var mnemonic = "nephew employ bench replace accuse fiber acoustic pilot forum animal priority access";
+var mnemonic = "orient blood hungry ridge lucky agree mesh door reunion finish over mass";

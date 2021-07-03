@@ -1,1 +1,1 @@
-var mnemonic = "bullet plastic science rug peasant neglect buffalo margin accident myself cry arm";
+var mnemonic = "cousin member shift endorse aim flag dignity thing term essay trouble innocent";

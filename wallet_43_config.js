@@ -1,1 +1,1 @@
-var mnemonic = "trust curtain tonight lazy whip mirror lab head salon rough soup moment";
+var mnemonic = "attract mirror swap marble extra slide initial alarm enrich gown major pitch";

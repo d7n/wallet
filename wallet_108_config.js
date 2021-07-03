@@ -1,1 +1,1 @@
-var mnemonic = "lava disagree shoulder rough final creek slide control beef blanket hire nation";
+var mnemonic = "barely inherit vehicle pitch van else math extend category fetch solve unique";

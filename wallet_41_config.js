@@ -1,1 +1,1 @@
-var mnemonic = "regular chef favorite question palm maze various speak between basic empower property";
+var mnemonic = "machine blue match educate logic doll hire work fever volcano length casino";

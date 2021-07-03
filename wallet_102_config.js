@@ -1,1 +1,1 @@
-var mnemonic = "between grid depth dentist doll husband flag army man adjust remind gather";
+var mnemonic = "token glue veteran luggage birth reason hair almost maximum slight record lumber";

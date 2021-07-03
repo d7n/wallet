@@ -1,1 +1,1 @@
-var mnemonic = "stage silly snack grain happy once raven reflect unique attend endless you";
+var mnemonic = "weapon error crystal bench spirit supreme logic giggle hat violin box young";

@@ -1,1 +1,1 @@
-var mnemonic = "slender theory inherit attitude renew road magic ready arena tooth grow boss";
+var mnemonic = "this picture proud describe word rally garlic job castle soft patient hen";

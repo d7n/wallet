@@ -1,1 +1,1 @@
-var mnemonic = "exist almost fade trouble diesel busy guard north expand roof oppose violin";
+var mnemonic = "ceiling earn rough walk soft calm spice miracle grant situate expose foam";

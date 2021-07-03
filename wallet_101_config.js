@@ -1,1 +1,1 @@
-var mnemonic = "short lounge kit load intact tragic nurse castle act aim enhance captain";
+var mnemonic = "erupt stomach enough broken soldier fog pepper robust own vapor rural eagle";

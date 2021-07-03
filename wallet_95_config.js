@@ -1,1 +1,1 @@
-var mnemonic = "gown action almost illegal discover soldier wheat royal betray phone disorder basket";
+var mnemonic = "witness mountain resource remain damp bunker announce purity gain rebuild ceiling into";

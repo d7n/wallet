@@ -1,1 +1,1 @@
-var mnemonic = "inject camera move design relief mandate ladder often tag accident yard wheat";
+var mnemonic = "insane happy major moral warfare pig twist vintage soul earth pioneer paddle";

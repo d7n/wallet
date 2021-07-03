@@ -1,1 +1,1 @@
-var mnemonic = "possible example bottom people ripple reject wide cram robot size evoke puzzle";
+var mnemonic = "ghost spray embark lecture frost minor trim stem envelope bronze long sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar olympic local twelve oyster demise damage vacant please need multiply margin";
+var mnemonic = "person doll energy give immense derive daughter snap cluster evoke swallow hedgehog";

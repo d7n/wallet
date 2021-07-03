@@ -1,1 +1,1 @@
-var mnemonic = "fade danger term afraid dove path ice always jungle slam face remember";
+var mnemonic = "famous lab rib audit educate armed west female culture present seek cram";
