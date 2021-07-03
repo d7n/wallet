@@ -1,1 +1,1 @@
-var mnemonic = "horse industry village teach grass citizen battle motion swap cherry addict accuse";
+var mnemonic = "where damage faint parade suffer nation grow ancient tuition dirt notable beauty";

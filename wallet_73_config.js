@@ -1,1 +1,1 @@
-var mnemonic = "glide whisper estate project pause moment define sheriff pretty announce pupil agree";
+var mnemonic = "roof garlic walk warrior gorilla amazing example food afford few shallow audit";

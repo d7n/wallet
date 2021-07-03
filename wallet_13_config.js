@@ -1,1 +1,1 @@
-var mnemonic = "pitch pigeon mobile mean world stick scheme icon cruise prosper shoe mansion";
+var mnemonic = "shrug smoke excuse render retire sting mammal wrist unusual satisfy arm promote";

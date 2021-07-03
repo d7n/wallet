@@ -1,1 +1,1 @@
-var mnemonic = "weekend piano west joke code powder immense rare shock clever crystal grace";
+var mnemonic = "impose defy day tonight embody clarify benefit orchard blade snack tank require";

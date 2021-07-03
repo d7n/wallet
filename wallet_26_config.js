@@ -1,1 +1,1 @@
-var mnemonic = "call own cargo gaze alter laundry rate ahead road drip exercise walk";
+var mnemonic = "tumble master switch unveil fire panel inspire degree gas goddess impose bright";

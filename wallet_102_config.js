@@ -1,1 +1,1 @@
-var mnemonic = "identify blast burst odor measure wrap relief magnet shell hedgehog save exotic";
+var mnemonic = "feel obvious diesel media attitude tomorrow library blade cross fade uphold catch";

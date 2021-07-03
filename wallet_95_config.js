@@ -1,1 +1,1 @@
-var mnemonic = "true pair cause odor raccoon lounge illness sketch federal gallery cash dilemma";
+var mnemonic = "myself squirrel index sibling dash eager final this farm curious scorpion taxi";

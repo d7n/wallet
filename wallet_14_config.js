@@ -1,1 +1,1 @@
-var mnemonic = "gap usual smart video attitude remove skill birth negative resist alcohol plate";
+var mnemonic = "wheat search green network wheat main sand run wife mobile shine mirror";

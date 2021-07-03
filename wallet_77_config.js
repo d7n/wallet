@@ -1,1 +1,1 @@
-var mnemonic = "fly home camera hammer parrot proof media potato donkey cream route maid";
+var mnemonic = "collect share hood license quick cactus symbol display skirt chalk summer tackle";

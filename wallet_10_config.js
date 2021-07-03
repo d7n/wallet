@@ -1,1 +1,1 @@
-var mnemonic = "tower physical place monitor warm sponsor field grow kangaroo elder shop absent";
+var mnemonic = "reunion whip already ugly chalk noodle audit service unfold mind trip together";

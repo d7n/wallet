@@ -1,1 +1,1 @@
-var mnemonic = "earth someone latin dad squeeze become invite steel custom luxury embody edit";
+var mnemonic = "traffic umbrella wealth novel attract code outside vault one spread baby coach";

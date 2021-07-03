@@ -1,1 +1,1 @@
-var mnemonic = "idle tide citizen bulk sport kite dinner worth image warfare birth pelican";
+var mnemonic = "tomato argue dirt spirit sail burst burger rifle tail trophy fiscal hero";

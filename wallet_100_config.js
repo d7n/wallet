@@ -1,1 +1,1 @@
-var mnemonic = "cheese light private mimic street join rifle cheap task vintage blush box";
+var mnemonic = "hope deposit helmet easily drastic oblige window render quantum relax steak theme";

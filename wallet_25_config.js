@@ -1,1 +1,1 @@
-var mnemonic = "slogan stereo debate dress lunch frame verify home wisdom girl grocery danger";
+var mnemonic = "universe range snake margin figure fame vendor dove bitter weapon vault quick";

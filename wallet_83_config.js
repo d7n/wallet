@@ -1,1 +1,1 @@
-var mnemonic = "speed estate sponsor potato beef lab project wasp silent universe aerobic humor";
+var mnemonic = "spirit silent ivory elegant stomach hollow outdoor write mixed tip glass chat";

@@ -1,1 +1,1 @@
-var mnemonic = "bone dress video chief giant install window announce rule old leave cattle";
+var mnemonic = "liberty jar student trash wing beef buyer subway rigid they attitude allow";

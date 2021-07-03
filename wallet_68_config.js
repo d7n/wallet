@@ -1,1 +1,1 @@
-var mnemonic = "analyst crumble grow green observe exact claim library hawk napkin federal doll";
+var mnemonic = "among siege pony early auto pair sort duck omit retreat captain dish";

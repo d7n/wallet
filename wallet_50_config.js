@@ -1,1 +1,1 @@
-var mnemonic = "hint immune auction tumble flavor winter perfect twenty tone style forest struggle";
+var mnemonic = "rich spoil churn favorite today insane test current hurry lab seek wink";

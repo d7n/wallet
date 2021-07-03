@@ -1,1 +1,1 @@
-var mnemonic = "fiction tobacco ahead fitness rebel steak paper favorite version topple oppose ankle";
+var mnemonic = "pear review found equal tape vivid gauge danger symptom cube eternal position";

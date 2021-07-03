@@ -1,1 +1,1 @@
-var mnemonic = "cricket wise wild okay list reveal choose drip obvious flame syrup blush";
+var mnemonic = "defy embark hope tree chuckle post twist strike tongue income cattle already";

@@ -1,1 +1,1 @@
-var mnemonic = "drive narrow lend march vibrant athlete degree coyote girl core scatter motion";
+var mnemonic = "hover affair identify tuna comfort orchard nut dirt motion clean double slogan";

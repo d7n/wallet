@@ -1,1 +1,1 @@
-var mnemonic = "purpose squeeze change jelly dignity fortune draft wish pet apple hero honey";
+var mnemonic = "loud ahead olive kit iron elegant receive sleep super concert spy verify";

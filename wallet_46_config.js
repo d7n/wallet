@@ -1,1 +1,1 @@
-var mnemonic = "field number brick cluster coffee mix hold weird lucky spawn visit flip";
+var mnemonic = "alley hold scrap staff cousin target office lunar load gas caution note";

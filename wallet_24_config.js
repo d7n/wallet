@@ -1,1 +1,1 @@
-var mnemonic = "tunnel cradle merit abuse minute return sadness chapter tattoo wall update sock";
+var mnemonic = "mad own high nerve tribe pumpkin pair february shoe frame bachelor piano";

@@ -1,1 +1,1 @@
-var mnemonic = "quit boy latin delay what depart swamp initial hurry mansion more razor";
+var mnemonic = "belt shaft science monkey trade frozen animal model thing order snake dumb";

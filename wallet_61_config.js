@@ -1,1 +1,1 @@
-var mnemonic = "axis scheme bring swim volcano cliff buzz medal dilemma dust melody ostrich";
+var mnemonic = "perfect grid cart dress leave essay oval mosquito surge actual umbrella neither";

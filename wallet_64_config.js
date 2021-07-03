@@ -1,1 +1,1 @@
-var mnemonic = "excite virtual robot sea awful abandon ignore sponsor loop say hungry enter";
+var mnemonic = "annual when demise search expect spot busy hover differ kid october violin";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard error chimney volume second play empty heavy snow short blue demise";
+var mnemonic = "rally sell buzz skin oil gauge carry state vocal mutual mouse region";

@@ -1,1 +1,1 @@
-var mnemonic = "child hungry crop slot jelly idle buddy student submit eternal actress talk";
+var mnemonic = "session amused giraffe crane edit snow detect march must risk scatter angle";

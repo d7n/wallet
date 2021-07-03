@@ -1,1 +1,1 @@
-var mnemonic = "mansion name safe ticket photo motor stomach muffin resist define wonder follow";
+var mnemonic = "peasant have express frog stumble decorate island zebra fatal spin way thunder";

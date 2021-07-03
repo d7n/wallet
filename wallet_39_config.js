@@ -1,1 +1,1 @@
-var mnemonic = "armor accuse ugly flat lock just spoon dress muffin regular appear champion";
+var mnemonic = "amount crunch wall olympic scissors clip wedding simple gold kitchen veteran visa";

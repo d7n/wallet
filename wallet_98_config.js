@@ -1,1 +1,1 @@
-var mnemonic = "liberty orbit cloth across vital engage blood tortoise trigger valve cruel shell";
+var mnemonic = "cheese next game project vacant output luggage tube struggle satisfy buyer retire";

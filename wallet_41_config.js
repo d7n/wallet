@@ -1,1 +1,1 @@
-var mnemonic = "pact grow tool double spare master reopen extra best script sentence door";
+var mnemonic = "cinnamon series shed vessel marble quit warm history dove hammer silent brisk";

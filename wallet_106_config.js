@@ -1,1 +1,1 @@
-var mnemonic = "regular horse someone robot cheese fortune describe ordinary hawk brother rack drink";
+var mnemonic = "primary hill fatigue layer olive physical choose assist ridge leader dentist actual";

@@ -1,1 +1,1 @@
-var mnemonic = "session document usage flower include judge foam normal follow fence carbon equal";
+var mnemonic = "misery another inch adult announce design happy kidney track depend cancel cheap";

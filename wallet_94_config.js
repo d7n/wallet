@@ -1,1 +1,1 @@
-var mnemonic = "debris involve congress smile sketch poem wing add trouble shadow able found";
+var mnemonic = "sadness discover tide assault obscure major reward pond buyer stick life copper";

@@ -1,1 +1,1 @@
-var mnemonic = "under balance one tunnel script goose lazy debate mask upon sentence task";
+var mnemonic = "object genius youth round hybrid brand mushroom define evoke own bar extend";

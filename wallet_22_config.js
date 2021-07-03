@@ -1,1 +1,1 @@
-var mnemonic = "camp amused defy bind drum reunion install repeat brass life keep magnet";
+var mnemonic = "kingdom blame author furnace tent clip bundle fancy paper shuffle deliver ticket";

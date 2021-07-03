@@ -1,1 +1,1 @@
-var mnemonic = "heavy vehicle ivory used invest avocado audit need shrimp debris matter creek";
+var mnemonic = "frown prefer invest quarter unhappy club warfare holiday slim bar gown burger";

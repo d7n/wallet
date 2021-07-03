@@ -1,1 +1,1 @@
-var mnemonic = "sort detect aspect perfect hedgehog twice kidney harbor tattoo success scene assault";
+var mnemonic = "father wolf sign canyon hello sail observe humor clarify lunar obvious any";

@@ -1,1 +1,1 @@
-var mnemonic = "material mercy jungle review swap truly wreck grocery about close hub round";
+var mnemonic = "sustain use unhappy bamboo chuckle slim myself glory style stage parent oppose";

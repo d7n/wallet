@@ -1,1 +1,1 @@
-var mnemonic = "impact already turn minor flip kite bless churn trial tray south helmet";
+var mnemonic = "hundred novel express bomb address place royal marriage transfer connect deny west";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder trade earth lock card pipe captain spot such proud wealth move";
+var mnemonic = "shiver snack cruise insect wood robot swap trick gym napkin file sort";

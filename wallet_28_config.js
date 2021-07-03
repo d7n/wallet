@@ -1,1 +1,1 @@
-var mnemonic = "judge double safe glad syrup drill chalk crumble scout above above cruise";
+var mnemonic = "slow math member believe true rose olympic solution gas scan open clean";

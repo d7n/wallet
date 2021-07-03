@@ -1,1 +1,1 @@
-var mnemonic = "minute poem cream message woman cage liberty judge coil that corn bomb";
+var mnemonic = "envelope tortoise okay cat soap quit december coast invite orchard version journey";

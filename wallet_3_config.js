@@ -1,1 +1,1 @@
-var mnemonic = "spirit action earn ball arena host hidden coconut garage other kind good";
+var mnemonic = "lock eternal orbit burden impulse bus you fat render unlock number tiny";

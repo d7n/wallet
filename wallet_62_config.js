@@ -1,1 +1,1 @@
-var mnemonic = "lake transfer balcony diamond child slush excite wild reward window finish into";
+var mnemonic = "crouch echo garage input skull attack purchase code noise distance there coach";

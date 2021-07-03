@@ -1,1 +1,1 @@
-var mnemonic = "oxygen battle real female dial curious fly vintage square flavor purpose romance";
+var mnemonic = "cupboard pencil initial rural verb rubber expand series shed love powder problem";

@@ -1,1 +1,1 @@
-var mnemonic = "chief misery curtain distance sweet ready same hand divert dog keen strong";
+var mnemonic = "space picnic mixed code sunny dust box occur draft meadow polar squirrel";

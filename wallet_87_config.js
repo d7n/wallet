@@ -1,1 +1,1 @@
-var mnemonic = "laundry answer rocket assist danger maximum venue favorite science volcano settle unable";
+var mnemonic = "sound sting dust another auction always punch vanish enrich box soda security";

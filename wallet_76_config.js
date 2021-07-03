@@ -1,1 +1,1 @@
-var mnemonic = "autumn firm wet survey pause exclude hill filter baby exotic pet ahead";
+var mnemonic = "latin actress release silent myself alien aim glass gallery section weird inspire";

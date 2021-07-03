@@ -1,1 +1,1 @@
-var mnemonic = "roof focus toy remove eternal sick offer toss ticket mandate stay dumb";
+var mnemonic = "water reason teach unhappy boring gift suspect loan earn attitude police divide";

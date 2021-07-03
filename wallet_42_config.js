@@ -1,1 +1,1 @@
-var mnemonic = "trade spin valley health private object enemy pioneer approve smile market betray";
+var mnemonic = "antique virtual simple lottery clump brush correct trap absorb gauge leader armor";

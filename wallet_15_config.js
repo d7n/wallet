@@ -1,1 +1,1 @@
-var mnemonic = "identify sock spread pencil inch cube poem travel mechanic beauty fresh comic";
+var mnemonic = "law pet police never join feature toe away pyramid praise beef carpet";

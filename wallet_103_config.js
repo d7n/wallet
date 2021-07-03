@@ -1,1 +1,1 @@
-var mnemonic = "milk physical hospital coast include orbit hockey captain sting render capital fresh";
+var mnemonic = "bacon lady used error picnic genuine foot sea token prosper father century";

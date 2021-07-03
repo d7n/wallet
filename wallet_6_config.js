@@ -1,1 +1,1 @@
-var mnemonic = "usual stable anchor puzzle one can hybrid scout divert congress access viable";
+var mnemonic = "false negative luggage spider change squirrel alert lemon gas welcome voyage athlete";

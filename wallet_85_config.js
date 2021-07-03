@@ -1,1 +1,1 @@
-var mnemonic = "upgrade mirror solve often clean absurd age vessel iron muscle level random";
+var mnemonic = "element loud confirm omit chaos park north junk more wrist flat muscle";

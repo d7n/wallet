@@ -1,1 +1,1 @@
-var mnemonic = "legal tennis country frequent strong broccoli truck erode lawn shy index arm";
+var mnemonic = "flavor defy tool warm drive vintage wagon pitch jealous apology defense either";

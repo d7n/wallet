@@ -1,1 +1,1 @@
-var mnemonic = "tortoise youth stick dance army glad flower next hole term surface question";
+var mnemonic = "short advice enrich engine festival tell cable birth voyage essence know leave";

@@ -1,1 +1,1 @@
-var mnemonic = "skate gaze supreme fire unhappy retreat entry idea correct cement outside welcome";
+var mnemonic = "honey mosquito toast track fit kidney tumble negative eagle kiwi gentle toddler";

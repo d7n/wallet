@@ -1,1 +1,1 @@
-var mnemonic = "army auction animal document dizzy expect web beyond zone air double crucial";
+var mnemonic = "hello stick coach auto almost element oyster donor power fringe crucial uncle";

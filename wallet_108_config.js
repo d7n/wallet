@@ -1,1 +1,1 @@
-var mnemonic = "diet tray heart pluck ivory trust lunar rebel canvas matrix trouble metal";
+var mnemonic = "industry slim hotel soft ripple coil grunt bunker crop process salmon clip";

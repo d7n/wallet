@@ -1,1 +1,1 @@
-var mnemonic = "rule relief flee alcohol vague merit typical purse release crush maze creek";
+var mnemonic = "guilt diagram kiwi dragon work danger matter short report punch mom derive";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe copy mass axis crucial news sock match universe rule salon cash";
+var mnemonic = "room almost sentence need zero neither scare twin skull ladder soda dirt";

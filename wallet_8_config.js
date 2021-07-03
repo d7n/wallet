@@ -1,1 +1,1 @@
-var mnemonic = "garment side glimpse avoid submit odor lizard supreme turn slush cereal faint";
+var mnemonic = "army coconut hour ripple proud similar hope level artefact uphold cereal curve";

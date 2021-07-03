@@ -1,1 +1,1 @@
-var mnemonic = "pig prison attend couch faith rhythm agree own child magic uncle gym";
+var mnemonic = "syrup goose lumber quarter wrong zebra obey name arch enter alley will";

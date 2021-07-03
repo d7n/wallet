@@ -1,1 +1,1 @@
-var mnemonic = "cheese owner artwork lobster same fiction adapt interest hazard arm rocket party";
+var mnemonic = "pole hill kingdom misery destroy portion scene tone evolve skirt museum income";

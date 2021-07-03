@@ -1,1 +1,1 @@
-var mnemonic = "shallow lend popular pink visa fashion sign blanket leave basic pelican auction";
+var mnemonic = "crater onion session fame rare beach slice same slender hope benefit inquiry";

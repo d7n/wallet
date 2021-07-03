@@ -1,1 +1,1 @@
-var mnemonic = "beef faculty hint attack secret fog charge nerve coyote silver hero verify";
+var mnemonic = "head velvet slab direct problem spider broom abandon impose ceiling orphan print";

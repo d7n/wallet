@@ -1,1 +1,1 @@
-var mnemonic = "clog unit bitter solar myself curious memory wood shock unlock gadget faint";
+var mnemonic = "there hobby throw solid wrist antique rival replace banner monitor order canyon";

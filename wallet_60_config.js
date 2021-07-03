@@ -1,1 +1,1 @@
-var mnemonic = "ill skin become draw zebra twin stay soft spoil sign snap essence";
+var mnemonic = "end village iron act identify mind never hat point airport aerobic proud";

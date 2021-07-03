@@ -1,1 +1,1 @@
-var mnemonic = "belt super biology version mix question table orange parade fiction fitness aerobic";
+var mnemonic = "dove alpha taxi disorder case sentence decline frog hen soup flash cloud";

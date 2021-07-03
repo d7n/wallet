@@ -1,1 +1,1 @@
-var mnemonic = "biology trade layer cable soup gesture voyage venue layer quote fame job";
+var mnemonic = "tribe kitchen brother exact tourist lady catch lake resist local occur box";

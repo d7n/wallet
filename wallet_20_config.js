@@ -1,1 +1,1 @@
-var mnemonic = "twice climb gadget feed wedding rural win thought scare lift sword silent";
+var mnemonic = "cycle scare will fold share member dune pumpkin capable shoe general ladder";

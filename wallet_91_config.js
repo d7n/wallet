@@ -1,1 +1,1 @@
-var mnemonic = "skate aspect special excess script such talent rude corn moment list stable";
+var mnemonic = "inject split phone grow drill lunar envelope tomorrow win sauce street history";

@@ -1,1 +1,1 @@
-var mnemonic = "exile brass zebra swim rather sibling arena jaguar van piece outer engine";
+var mnemonic = "spoil hamster gift camp win bottom volcano rude number shaft tortoise next";

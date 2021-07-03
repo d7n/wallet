@@ -1,1 +1,1 @@
-var mnemonic = "what carpet wreck wood gorilla arch gaze level buddy fuel fruit wing";
+var mnemonic = "casino borrow deliver magnet birth timber chuckle satoshi fiscal cliff struggle skull";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage excuse humor merge nice exile purchase easily snow unlock cram hip";
+var mnemonic = "room blossom measure pact kiss isolate fire snake crunch hawk dress universe";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend bid ivory oil earth lumber cruel cart oak act innocent sing";
+var mnemonic = "fold noble horn humble cotton opera youth bag hint profit casual airport";

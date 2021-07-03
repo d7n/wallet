@@ -1,1 +1,1 @@
-var mnemonic = "snap fence judge front survey inner suit fragile large buffalo shed never";
+var mnemonic = "choice bonus history switch family slow major woman vibrant prize effort cycle";

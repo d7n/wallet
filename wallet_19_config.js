@@ -1,1 +1,1 @@
-var mnemonic = "ranch vintage bonus toast sunny funny one else feel announce opera cruel";
+var mnemonic = "curtain liquid what marble modify charge aerobic inside orange lunch minor paddle";

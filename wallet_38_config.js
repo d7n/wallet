@@ -1,1 +1,1 @@
-var mnemonic = "craft panic way core pistol cactus shield vapor unveil again normal claw";
+var mnemonic = "mask heavy creek curve bubble turtle limit decorate inspire enemy exile better";

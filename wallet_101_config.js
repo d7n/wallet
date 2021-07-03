@@ -1,1 +1,1 @@
-var mnemonic = "say wrap wall stand gas settle praise nurse catalog around bleak ask";
+var mnemonic = "imitate confirm online journey faculty day page disease eagle execute exact mother";

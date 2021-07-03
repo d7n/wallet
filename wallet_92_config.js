@@ -1,1 +1,1 @@
-var mnemonic = "party hunt ridge clock hair antenna swing suffer patch example tunnel history";
+var mnemonic = "client clog please detect media pair quarter ordinary system demand age brother";

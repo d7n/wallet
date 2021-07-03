@@ -1,1 +1,1 @@
-var mnemonic = "rural fortune pass curtain crouch fury blade fog manual shallow fury combine";
+var mnemonic = "whisper script submit electric fortune layer opera cattle poet ranch illness fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus sad source gentle museum margin interest ready cancel reveal another tube";
+var mnemonic = "tourist town post nasty bundle forum february fan memory salmon helmet army";

@@ -1,1 +1,1 @@
-var mnemonic = "amused come alert labor confirm trash cycle demand diary century disorder swift";
+var mnemonic = "penalty page pond weather private siren crop key gain main inmate else";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle admit idea clip must bounce tackle course drift enlist trend cupboard";
+var mnemonic = "advice elegant dentist post device brain elegant mouse dwarf skate mansion purse";

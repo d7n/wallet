@@ -1,1 +1,1 @@
-var mnemonic = "hundred turn staff crater omit squirrel arch other tired wait abandon mammal";
+var mnemonic = "shallow hospital tuition ritual belt retire embrace throw announce about game pave";

@@ -1,1 +1,1 @@
-var mnemonic = "brass pen outer pencil hero scene beef universe flat half venue find";
+var mnemonic = "metal champion title school first history harvest acoustic prison city forward motion";

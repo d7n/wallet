@@ -1,1 +1,1 @@
-var mnemonic = "swarm episode effort pole artist glance six shiver arch fault machine slender";
+var mnemonic = "rubber image armed clean loyal hair forget net that snack bulb month";
