@@ -1,1 +1,1 @@
-var mnemonic = "ten connect three exit rack fame material brief twist indicate maximum wolf";
+var mnemonic = "develop crucial false guitar direct clock slide foil observe afford wreck claim";

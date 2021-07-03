@@ -1,1 +1,1 @@
-var mnemonic = "time film brand release young syrup dynamic enact capital track retreat smooth";
+var mnemonic = "right sunny vendor rule stuff spike cigar session human news change monster";

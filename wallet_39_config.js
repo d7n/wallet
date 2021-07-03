@@ -1,1 +1,1 @@
-var mnemonic = "develop monster nephew cheap loud reason river lobster stand ribbon gesture stage";
+var mnemonic = "bulb lyrics range token shine club danger people gun wait access giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "morning ripple trip eager bring city agent busy broccoli mutual oil addict";
+var mnemonic = "twice small session before month certain excess dignity need shine tip dish";

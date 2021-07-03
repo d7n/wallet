@@ -1,1 +1,1 @@
-var mnemonic = "sick economy loop doll invest awful maid solid devote donate dutch reject";
+var mnemonic = "other broom actual truck diary curtain true adult cinnamon orient water sponsor";

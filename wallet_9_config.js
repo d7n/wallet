@@ -1,1 +1,1 @@
-var mnemonic = "possible problem catalog strike gown copper daring tube loop tired sister junior";
+var mnemonic = "bench august stairs hood sustain badge air high census private absorb observe";

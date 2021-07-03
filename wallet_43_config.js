@@ -1,1 +1,1 @@
-var mnemonic = "gain salon rail empower enhance eyebrow draw display valve leave ancient crazy";
+var mnemonic = "vehicle peasant imitate fold toilet option celery clown limit virus hard any";

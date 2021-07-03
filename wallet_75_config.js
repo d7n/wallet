@@ -1,1 +1,1 @@
-var mnemonic = "lawn mirror army poem emerge lake decade peasant hair museum track supply";
+var mnemonic = "federal magic sting hold course joy mystery cheap bargain move draft silent";

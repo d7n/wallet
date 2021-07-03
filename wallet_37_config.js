@@ -1,1 +1,1 @@
-var mnemonic = "balcony clap nominee memory travel actual web about inner limit screen time";
+var mnemonic = "vault favorite topple like example case feature food defy vivid screen neutral";

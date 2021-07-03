@@ -1,1 +1,1 @@
-var mnemonic = "borrow scare stand finish year dumb twin cluster angry rice slide dry";
+var mnemonic = "dove kick chase under army setup rabbit differ dust hunt hotel obscure";

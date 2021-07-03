@@ -1,1 +1,1 @@
-var mnemonic = "front taste group you grass symptom file genre hunt lava vote pretty";
+var mnemonic = "profit tunnel speak dismiss general purse favorite sock umbrella any home accuse";

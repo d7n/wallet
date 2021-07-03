@@ -1,1 +1,1 @@
-var mnemonic = "ridge spirit tennis quiz split whisper satoshi rib turtle derive portion spawn";
+var mnemonic = "change used age hand base ask inquiry alien replace common rose road";

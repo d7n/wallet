@@ -1,1 +1,1 @@
-var mnemonic = "cloth office wire test rice left limit often lottery flavor grocery apple";
+var mnemonic = "taxi already scrap mercy vanish wage endorse success afford learn color sword";

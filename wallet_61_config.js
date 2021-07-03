@@ -1,1 +1,1 @@
-var mnemonic = "priority security faith pepper neglect later segment hint clown beyond skill year";
+var mnemonic = "escape candy amazing fuel furnace winner collect nature jealous broken myth hungry";

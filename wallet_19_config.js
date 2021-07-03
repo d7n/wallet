@@ -1,1 +1,1 @@
-var mnemonic = "fashion spend glue cheese romance party half report fantasy exhaust loan vendor";
+var mnemonic = "address inmate dolphin sudden source fever flavor weasel matter equal pluck attract";

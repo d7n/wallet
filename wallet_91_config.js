@@ -1,1 +1,1 @@
-var mnemonic = "original puppy fantasy salon detect whale vocal leg jewel hen happy coast";
+var mnemonic = "divorce furnace saddle thumb trouble guard trend first border upgrade army clock";

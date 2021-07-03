@@ -1,1 +1,1 @@
-var mnemonic = "kit dentist inspire palace joke clever sweet raven gesture say one kind";
+var mnemonic = "pottery moment normal alpha fatigue art bean joke chef deputy struggle tunnel";

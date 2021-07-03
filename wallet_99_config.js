@@ -1,1 +1,1 @@
-var mnemonic = "guilt zone despair adult churn symptom left planet panda uphold chalk ostrich";
+var mnemonic = "main soda industry cost radio lava crush region kiwi detect warm urge";

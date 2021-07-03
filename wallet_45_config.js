@@ -1,1 +1,1 @@
-var mnemonic = "frame width side convince awful road warrior bracket repair grunt fault rack";
+var mnemonic = "panic panda robust replace foil book hollow student situate absurd ridge dolphin";

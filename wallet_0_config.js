@@ -1,1 +1,1 @@
-var mnemonic = "drive license wasp kingdom ceiling bubble doll base execute someone please dune";
+var mnemonic = "type atom focus captain will color solar snap public captain angle biology";

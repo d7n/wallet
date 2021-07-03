@@ -1,1 +1,1 @@
-var mnemonic = "initial lumber fan donkey situate purse rigid retreat rural noise volume shy";
+var mnemonic = "club deputy canvas limb unique donkey occur easily avoid hint borrow bus";

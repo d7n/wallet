@@ -1,1 +1,1 @@
-var mnemonic = "cheap fade wine fancy suspect moral video avoid secret culture shop kiwi";
+var mnemonic = "deposit orphan legend local object kid olympic invest ostrich merit giant find";

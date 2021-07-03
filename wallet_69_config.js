@@ -1,1 +1,1 @@
-var mnemonic = "uncover eye ecology today monster world orchard cruel whale venue arrest bring";
+var mnemonic = "find canyon toward angry club obtain lion swallow view cover soon spell";

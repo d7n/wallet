@@ -1,1 +1,1 @@
-var mnemonic = "carbon broccoli swap stock inside tongue rural detect pride process lunar net";
+var mnemonic = "gate merit army segment submit project hard gift shove demand citizen scrap";

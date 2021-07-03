@@ -1,1 +1,1 @@
-var mnemonic = "always forest draft frog scorpion must fault witness question ankle blouse spell";
+var mnemonic = "cradle wall fat call cross galaxy deputy chunk six thank leader bachelor";

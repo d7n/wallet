@@ -1,1 +1,1 @@
-var mnemonic = "ready mandate mushroom horn insane palm eager scrap same hand pulse almost";
+var mnemonic = "cycle satoshi polar host stable decade churn usage easily field remind bread";

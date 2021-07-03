@@ -1,1 +1,1 @@
-var mnemonic = "matter daughter time settle achieve mask uncover primary genius visual notable asthma";
+var mnemonic = "supply can rate mountain decline virus fat deputy arena mirror company dance";

@@ -1,1 +1,1 @@
-var mnemonic = "west wrong crystal crop mutual globe caution lock segment quit eight dirt";
+var mnemonic = "shrug radar advance bind student best blouse report cannon kitten couple fiscal";

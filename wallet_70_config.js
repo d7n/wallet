@@ -1,1 +1,1 @@
-var mnemonic = "surface novel easy birth snake series among sell milk travel dilemma clerk";
+var mnemonic = "canal south dwarf divert spray fluid sniff scare job forest matter cancel";

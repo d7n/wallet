@@ -1,1 +1,1 @@
-var mnemonic = "ladder infant nice bundle sauce infant ozone art walnut need gold long";
+var mnemonic = "assume ostrich area tree scale payment quantum sting upon asthma name seven";

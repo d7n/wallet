@@ -1,1 +1,1 @@
-var mnemonic = "scout across phone jealous phone tonight fiction know picnic field dirt scale";
+var mnemonic = "same dance blur alpha school ramp hazard panda dutch shoot ten join";

@@ -1,1 +1,1 @@
-var mnemonic = "board police impulse cabin pitch holiday describe meadow cool magnet setup dish";
+var mnemonic = "tumble weather sail obey tribe science august sweet silent wood romance much";

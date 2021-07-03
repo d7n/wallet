@@ -1,1 +1,1 @@
-var mnemonic = "palace globe thing number document arena insect talk hub chief shoulder between";
+var mnemonic = "design young pulse initial fatal tip balance seven shiver chicken unlock melody";

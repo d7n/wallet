@@ -1,1 +1,1 @@
-var mnemonic = "brown mobile latin spot place federal nature satisfy orchard click lonely torch";
+var mnemonic = "mirror develop dance wheel winner bread ancient name unlock deer foster plate";

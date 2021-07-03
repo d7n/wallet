@@ -1,1 +1,1 @@
-var mnemonic = "party wisdom echo guitar plug write nurse attitude problem mass proof mad";
+var mnemonic = "approve wolf clump chalk forward degree street title earn rule sponsor frown";

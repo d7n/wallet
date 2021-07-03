@@ -1,1 +1,1 @@
-var mnemonic = "comfort senior include author slow keen embark little blast earn palace crack";
+var mnemonic = "exist approve rigid tuna sure riot world kit deny glow filter physical";

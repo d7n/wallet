@@ -1,1 +1,1 @@
-var mnemonic = "alarm artwork skate scrub margin exit enhance century phrase notable twelve satoshi";
+var mnemonic = "item capital burst clinic portion real feed cherry salt patient core layer";

@@ -1,1 +1,1 @@
-var mnemonic = "cave trip cover genius gate flight unfair offer teach unit load hungry";
+var mnemonic = "assume exile edit lava neither mask draft pigeon average poem sample hole";

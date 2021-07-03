@@ -1,1 +1,1 @@
-var mnemonic = "rare genius grief fog veteran initial saddle decorate secret abandon used unfair";
+var mnemonic = "extra aware cruise metal duty exist defense human shift select eternal black";

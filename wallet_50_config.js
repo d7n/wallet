@@ -1,1 +1,1 @@
-var mnemonic = "lab visit sorry middle april increase soft trouble puzzle cycle analyst crunch";
+var mnemonic = "punch phone crystal blue small valve exile twenty predict fury olympic gown";

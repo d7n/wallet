@@ -1,1 +1,1 @@
-var mnemonic = "recycle olive secret minimum truck arrest tag absurd woman idea talk camera";
+var mnemonic = "garden shove verify chest gather axis rotate burst nose demand peanut process";

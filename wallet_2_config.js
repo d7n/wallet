@@ -1,1 +1,1 @@
-var mnemonic = "alert tree winner hill bundle diary bread place sell enhance hybrid happy";
+var mnemonic = "evidence fresh grit badge machine century fit stage various seminar fuel gift";

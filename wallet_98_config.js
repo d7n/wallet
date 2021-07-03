@@ -1,1 +1,1 @@
-var mnemonic = "visa flip gentle buyer harbor hold half crisp virtual screen ketchup act";
+var mnemonic = "party puzzle pulse cushion humor marble deer cover negative diet blood special";

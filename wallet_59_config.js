@@ -1,1 +1,1 @@
-var mnemonic = "minor defense honey rice depth thing exist drama grit action laundry program";
+var mnemonic = "vintage web radar front track card keen that armed come erosion dial";

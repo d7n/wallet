@@ -1,1 +1,1 @@
-var mnemonic = "dwarf lumber car hungry stool coconut reform hen recycle venture high kiss";
+var mnemonic = "finish field smart render wink cage very method puzzle later stool fossil";

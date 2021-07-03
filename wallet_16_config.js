@@ -1,1 +1,1 @@
-var mnemonic = "tonight tattoo convince target chest blanket element hurt injury citizen umbrella elder";
+var mnemonic = "crime hundred secret spare absurd vicious raw monkey item shrimp shrimp damp";

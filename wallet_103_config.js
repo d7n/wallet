@@ -1,1 +1,1 @@
-var mnemonic = "knock giant census plunge throw same device need panel ketchup govern disorder";
+var mnemonic = "deer bicycle family toilet since outdoor bachelor dog skull eyebrow moon bean";

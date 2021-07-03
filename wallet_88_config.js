@@ -1,1 +1,1 @@
-var mnemonic = "case blast spring labor where ancient rule exchange gossip stock home meadow";
+var mnemonic = "stove swap census feed argue canoe that offer various common tank diamond";

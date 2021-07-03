@@ -1,1 +1,1 @@
-var mnemonic = "embody glass upset success modify black walk calm stay economy exile kit";
+var mnemonic = "style palm life mom foot know expect border jaguar risk swarm layer";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton person one rack double eager balcony creek pool slight frown stairs";
+var mnemonic = "lend frame original energy kid reopen crew bachelor rack slice clog odor";

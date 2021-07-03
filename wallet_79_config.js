@@ -1,1 +1,1 @@
-var mnemonic = "random prosper leg gain movie cinnamon return tired boat bonus craft popular";
+var mnemonic = "submit guide traffic response walnut segment adjust oyster tennis small sing onion";

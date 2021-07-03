@@ -1,1 +1,1 @@
-var mnemonic = "write mosquito bamboo giraffe unaware silk ski random special outdoor action fragile";
+var mnemonic = "calm table snap lounge rug morning subway club guard duck awesome pitch";

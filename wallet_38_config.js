@@ -1,1 +1,1 @@
-var mnemonic = "palace speed tomato screen frown clown diamond they frown cancel lunar youth";
+var mnemonic = "smart vault earth fragile moment ask perfect wolf daughter year seek warrior";

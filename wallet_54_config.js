@@ -1,1 +1,1 @@
-var mnemonic = "average just window obtain whip need mistake copper march robot hood sock";
+var mnemonic = "scissors pink soul column amused ask unhappy margin danger ticket badge mixture";

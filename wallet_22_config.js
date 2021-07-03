@@ -1,1 +1,1 @@
-var mnemonic = "razor park camp virtual lion pottery receive blast sing card approve adult";
+var mnemonic = "spider canyon device road parade plunge biology market hazard physical mutual public";

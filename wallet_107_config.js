@@ -1,1 +1,1 @@
-var mnemonic = "impact image book fury wreck bone joke blossom regret gather guide shrimp";
+var mnemonic = "bleak home wear cannon clay sea tank desk mammal enroll exile table";

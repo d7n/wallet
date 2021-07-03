@@ -1,1 +1,1 @@
-var mnemonic = "lab member gym lazy senior please outside thrive poet marine system pluck";
+var mnemonic = "evolve gift inside panther rhythm wheat draft snow link pave accuse aunt";

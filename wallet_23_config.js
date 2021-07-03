@@ -1,1 +1,1 @@
-var mnemonic = "leg inch predict jar beef nuclear must boil adult mask foot carbon";
+var mnemonic = "original lens shop antenna clever blur jelly deliver please acquire ahead arrow";

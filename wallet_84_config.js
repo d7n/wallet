@@ -1,1 +1,1 @@
-var mnemonic = "again paddle under deliver service dumb armor surround sand scrub morning vocal";
+var mnemonic = "grab sunset fox into recipe endless juice renew stone dutch absurd night";

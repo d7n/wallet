@@ -1,1 +1,1 @@
-var mnemonic = "fiber dog math page wonder offer ask term trick jeans guard merge";
+var mnemonic = "salt turkey hockey flight attend ozone quantum bicycle vivid angle mistake void";

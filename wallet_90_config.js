@@ -1,1 +1,1 @@
-var mnemonic = "glad adult regular boring suit brother copy alert noodle zero you consider";
+var mnemonic = "soon team release kid panic legal laugh lock alarm club daughter pet";

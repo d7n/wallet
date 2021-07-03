@@ -1,1 +1,1 @@
-var mnemonic = "finger wish good taxi motor dose unlock bright nasty fancy tail rate";
+var mnemonic = "echo supply alter desert laptop dizzy vacuum rose daring client output truly";

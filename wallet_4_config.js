@@ -1,1 +1,1 @@
-var mnemonic = "unlock demise tone usage uncover jelly alcohol hungry garbage find tiny skirt";
+var mnemonic = "tobacco want gravity horse myth supply want steel file fork minor put";

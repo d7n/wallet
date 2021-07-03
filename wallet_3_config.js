@@ -1,1 +1,1 @@
-var mnemonic = "planet thought melt bless usage festival couch thumb midnight potato soldier rude";
+var mnemonic = "onion twelve hawk feature quality choose skirt debris coyote picture near hidden";

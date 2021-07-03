@@ -1,1 +1,1 @@
-var mnemonic = "seat concert grunt apology captain witness rival charge layer armor business south";
+var mnemonic = "fix garage knife under nerve another mass match bring pair auto lottery";

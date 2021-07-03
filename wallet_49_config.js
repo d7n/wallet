@@ -1,1 +1,1 @@
-var mnemonic = "lend reason planet degree material bring cover genius business check enable island";
+var mnemonic = "rather crew one skirt grass side mix horse badge turtle crush blouse";

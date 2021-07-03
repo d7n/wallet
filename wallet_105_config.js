@@ -1,1 +1,1 @@
-var mnemonic = "comic almost place notice general ill firm remove end thank repair brief";
+var mnemonic = "sight jar whale tiger secret exclude transfer know demand gentle minimum liberty";

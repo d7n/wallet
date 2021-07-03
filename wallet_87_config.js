@@ -1,1 +1,1 @@
-var mnemonic = "cargo real output stamp doll grant favorite lens crane inflict talent alter";
+var mnemonic = "panda feel syrup soon ship evidence sign dose magic flee tourist gloom";

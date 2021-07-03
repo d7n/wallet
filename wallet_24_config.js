@@ -1,1 +1,1 @@
-var mnemonic = "foil cave fade flight mobile toe silk eight supreme solar damp drift";
+var mnemonic = "turn panda fluid knife essence front future buddy west offer taste news";

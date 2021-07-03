@@ -1,1 +1,1 @@
-var mnemonic = "pool crush payment pond rich asset birth return scatter world vehicle inside";
+var mnemonic = "senior deny aspect warfare iron odor little fix stadium alter arrest lyrics";

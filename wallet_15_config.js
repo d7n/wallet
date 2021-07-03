@@ -1,1 +1,1 @@
-var mnemonic = "clap medal unfair own utility muscle air foster auction seek flash canyon";
+var mnemonic = "minimum breeze dismiss morning hunt sustain picture urge proof adjust sort they";

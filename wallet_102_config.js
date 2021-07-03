@@ -1,1 +1,1 @@
-var mnemonic = "vague uniform school question ranch elegant device basic filter belt swallow chimney";
+var mnemonic = "hospital faint brand dream cigar view school lottery lecture ginger naive sudden";

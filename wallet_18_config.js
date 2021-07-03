@@ -1,1 +1,1 @@
-var mnemonic = "travel owner vehicle decorate glue friend include gossip cover potato exact army";
+var mnemonic = "paper gloom spider awful elder soda proud term ancient reject estate grid";

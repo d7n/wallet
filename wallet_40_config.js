@@ -1,1 +1,1 @@
-var mnemonic = "treat pulp artist amused happy slide gadget walnut rubber melt olive false";
+var mnemonic = "lift spring tag soul main tunnel nice weekend patient since peasant cement";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle dutch labor mandate nest fatal shell favorite cube hundred milk farm";
+var mnemonic = "drop cable fly banana club tool milk select hockey amused later repeat";

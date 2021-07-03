@@ -1,1 +1,1 @@
-var mnemonic = "boil amateur shine puzzle lion endless visual slab cable update heavy service";
+var mnemonic = "day sure auction online hockey pizza glass vacant amazing opinion spring tent";

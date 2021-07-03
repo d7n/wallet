@@ -1,1 +1,1 @@
-var mnemonic = "aspect electric execute purse outdoor example history aisle phone divorce list void";
+var mnemonic = "group length news essence maid easily float choose immune ugly grid invite";

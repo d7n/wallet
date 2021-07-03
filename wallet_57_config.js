@@ -1,1 +1,1 @@
-var mnemonic = "amount half this then collect cake decade fox concert ugly report quarter";
+var mnemonic = "monkey girl alien rotate witness genre upper roof rain vague moral deal";

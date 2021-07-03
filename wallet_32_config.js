@@ -1,1 +1,1 @@
-var mnemonic = "sound limit rebuild clinic frame chronic order regular race barely clever host";
+var mnemonic = "emotion left alert angle output endless shock suit crane maid media aware";

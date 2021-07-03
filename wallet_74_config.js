@@ -1,1 +1,1 @@
-var mnemonic = "toe lucky weird frozen figure square prefer demise scissors blush gossip text";
+var mnemonic = "manage copy usage situate beauty feel twist region wrap catalog lava unfair";

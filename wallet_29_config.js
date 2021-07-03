@@ -1,1 +1,1 @@
-var mnemonic = "future decline weather spy fiction pizza movie tuition silly shrug front island";
+var mnemonic = "walnut relax plastic fine open absent broom lunar void express latin sword";

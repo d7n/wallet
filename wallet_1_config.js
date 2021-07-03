@@ -1,1 +1,1 @@
-var mnemonic = "first blast glass bone robot climb husband crawl seven pet caught pottery";
+var mnemonic = "olympic strong news rocket short melt oyster combine physical turtle rice shy";

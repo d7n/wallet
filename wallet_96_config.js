@@ -1,1 +1,1 @@
-var mnemonic = "topple quote cloud item remain material express floor gloom drift spoon note";
+var mnemonic = "van giggle plastic acquire sting among water vanish auction tooth chicken lady";

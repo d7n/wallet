@@ -1,1 +1,1 @@
-var mnemonic = "globe return warm magic simple deposit future boil matrix scene dawn ankle";
+var mnemonic = "return faint deer category invite dad nasty bitter level print diary pool";

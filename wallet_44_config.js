@@ -1,1 +1,1 @@
-var mnemonic = "globe unusual secret rabbit nominee common canoe bitter filter escape normal lottery";
+var mnemonic = "reveal around dragon plate success ticket injury palm case high glide bright";

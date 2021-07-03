@@ -1,1 +1,1 @@
-var mnemonic = "cushion napkin mirror quick bracket enjoy parrot banner fall deposit melody replace";
+var mnemonic = "stone sample basket source gym turkey nation arena human salmon gas eye";

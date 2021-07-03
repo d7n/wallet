@@ -1,1 +1,1 @@
-var mnemonic = "reveal present vintage laundry april wrong velvet area shield result mention arrow";
+var mnemonic = "simple season discover symbol planet oxygen priority cram clinic verify mushroom embrace";

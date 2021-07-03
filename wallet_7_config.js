@@ -1,1 +1,1 @@
-var mnemonic = "mule mule humor clap sudden brave glare enlist joy forest subway crush";
+var mnemonic = "van believe then sad metal eagle regret near borrow skill provide answer";

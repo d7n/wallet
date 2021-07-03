@@ -1,1 +1,1 @@
-var mnemonic = "infant drip bounce hover chat moral stumble rocket trend lava arrest space";
+var mnemonic = "crisp breeze demise solution ill orbit million scatter planet void maid upon";

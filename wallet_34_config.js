@@ -1,1 +1,1 @@
-var mnemonic = "describe analyst tunnel hold must this tape write author skirt reject cousin";
+var mnemonic = "board check infant copy permit battle goat release west group evolve alpha";

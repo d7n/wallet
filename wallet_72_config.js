@@ -1,1 +1,1 @@
-var mnemonic = "sun suggest ability unhappy negative turtle parade pistol timber resource team glare";
+var mnemonic = "slice coral material song discover mistake ability ten ripple educate eight enhance";

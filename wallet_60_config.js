@@ -1,1 +1,1 @@
-var mnemonic = "claim eager action law wagon whip soup humble acquire infant shed recipe";
+var mnemonic = "cross jeans chuckle lawn genius nuclear unable play narrow element laundry famous";

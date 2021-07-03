@@ -1,1 +1,1 @@
-var mnemonic = "fetch tackle elephant desk gown route ginger mind belt few pattern catch";
+var mnemonic = "salad task cinnamon boil hybrid puzzle viable misery virus large absurd frog";
