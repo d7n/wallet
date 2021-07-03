@@ -1,1 +1,1 @@
-var mnemonic = "replace case traffic reward option vapor long void settle walnut curtain elevator";
+var mnemonic = "kite legend giant kiss antique naive corn cycle kick until become flash";

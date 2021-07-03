@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow globe wing give angry desert wisdom flight second point moment weird";
+var mnemonic = "icon twice sign vapor inquiry topic alien pelican like alpha mobile today";

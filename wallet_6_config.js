@@ -1,1 +1,1 @@
-var mnemonic = "icon gospel rifle crater ski scrub say lizard grape afraid cherry deal";
+var mnemonic = "bread squirrel strong mass scrub hill error hire bring lizard upon lawsuit";

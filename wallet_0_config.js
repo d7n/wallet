@@ -1,1 +1,1 @@
-var mnemonic = "remember situate master badge ahead unfair minute ahead cart search lobster casual";
+var mnemonic = "liberty bonus actress actual glow step debate van loud lobster view rate";

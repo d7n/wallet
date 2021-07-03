@@ -1,1 +1,1 @@
-var mnemonic = "endless grace boring flock sword viable spare couple guard tail dawn core";
+var mnemonic = "unlock fatigue minor tragic spend trigger cushion check tuition tuition melt analyst";

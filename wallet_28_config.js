@@ -1,1 +1,1 @@
-var mnemonic = "affair oak copper fan price cream pause throw hour trash tomato afraid";
+var mnemonic = "finger collect boring volcano wire road dawn salute parrot time lab kind";

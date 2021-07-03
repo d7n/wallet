@@ -1,1 +1,1 @@
-var mnemonic = "wise feature section frequent pluck jazz gate vague fossil cube salad skill";
+var mnemonic = "basic point mushroom absorb proof kiss forward approve echo muscle vast shy";

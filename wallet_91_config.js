@@ -1,1 +1,1 @@
-var mnemonic = "grow inform whisper beach regular able polar alien school festival timber blush";
+var mnemonic = "blur monster banana true gesture brush pioneer sweet upgrade twin snack agree";

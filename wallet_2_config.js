@@ -1,1 +1,1 @@
-var mnemonic = "pond vocal harbor shine little guide punch wheat name chicken anxiety cup";
+var mnemonic = "avoid swing lunch excite police gasp hat symptom shy space board light";

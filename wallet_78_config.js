@@ -1,1 +1,1 @@
-var mnemonic = "hold spoon evidence quit fragile pottery print genre sunset sausage recall wink";
+var mnemonic = "wife orange bicycle gas curve bike cloth camp rose author foot fit";

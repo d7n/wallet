@@ -1,1 +1,1 @@
-var mnemonic = "cloud plate excuse kitchen sausage two odor mail size middle achieve novel";
+var mnemonic = "hamster genuine put aspect saddle move fatigue attitude knock supply rookie toward";

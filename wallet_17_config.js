@@ -1,1 +1,1 @@
-var mnemonic = "outer glory buzz kitchen iron title mystery salute toe nurse naive surge";
+var mnemonic = "weird bike nation where film person similar domain flee barely top until";

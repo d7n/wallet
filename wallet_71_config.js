@@ -1,1 +1,1 @@
-var mnemonic = "force sport off yard meadow detect drill often grit bench lecture filter";
+var mnemonic = "equal course sing rifle item smoke cinnamon collect faint fix mean camp";

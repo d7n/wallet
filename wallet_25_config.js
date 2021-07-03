@@ -1,1 +1,1 @@
-var mnemonic = "someone mad vessel legal six virus educate breeze shaft they dutch program";
+var mnemonic = "slogan ranch guide spawn error camera afford injury tail sheriff artist fetch";

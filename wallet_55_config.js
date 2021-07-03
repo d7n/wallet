@@ -1,1 +1,1 @@
-var mnemonic = "skill eye exact ivory west lion dream puzzle subway wet trend army";
+var mnemonic = "vanish good object slice post insane system minor engine employ worry betray";

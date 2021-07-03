@@ -1,1 +1,1 @@
-var mnemonic = "rural occur portion inch orphan ethics alter range alcohol stairs defy gather";
+var mnemonic = "odor awful fury aisle leader romance crowd pool cute enact match royal";

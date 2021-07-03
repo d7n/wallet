@@ -1,1 +1,1 @@
-var mnemonic = "toss parent until goat check journey funny alpha base inmate prefer seven";
+var mnemonic = "victory mind episode clock pink coin reject erosion hour ancient steel soldier";

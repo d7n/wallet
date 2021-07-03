@@ -1,1 +1,1 @@
-var mnemonic = "minor hover camp delay metal razor minor stool such case desk icon";
+var mnemonic = "patient donor own draft kit wrist doctor hero field elder damp husband";

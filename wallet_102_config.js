@@ -1,1 +1,1 @@
-var mnemonic = "merge company pizza connect demise hawk real scorpion early club fetch fire";
+var mnemonic = "rude world magic lift rude foil west miracle tree surround matrix endless";

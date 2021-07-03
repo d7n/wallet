@@ -1,1 +1,1 @@
-var mnemonic = "sleep near next cost fold write cause cradle chuckle acid coast romance";
+var mnemonic = "thunder amazing glare health destroy twenty crash wrist mix pole chat problem";

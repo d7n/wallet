@@ -1,1 +1,1 @@
-var mnemonic = "spin must depart carbon thumb eye flash enjoy wrestle column cycle detail";
+var mnemonic = "inspire song solid end arrange vibrant core runway rebuild real bargain swear";

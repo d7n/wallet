@@ -1,1 +1,1 @@
-var mnemonic = "maple core diet library riot glue dash slab frequent destroy clarify bitter";
+var mnemonic = "small outer proud become oyster orphan tissue left magnet eight uncover border";

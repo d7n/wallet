@@ -1,1 +1,1 @@
-var mnemonic = "absurd where innocent enact motion width across okay little arena leave way";
+var mnemonic = "goat fitness gossip keen jump distance raise trend jealous photo will city";

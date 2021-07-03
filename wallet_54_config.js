@@ -1,1 +1,1 @@
-var mnemonic = "leaf minute buzz car fox hedgehog industry path dwarf derive slot slam";
+var mnemonic = "huge cook neutral lava december excess art wrestle prize fluid donor private";

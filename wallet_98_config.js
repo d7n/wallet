@@ -1,1 +1,1 @@
-var mnemonic = "consider turkey wait artist hamster concert crash cart couple tilt result supply";
+var mnemonic = "toast comic protect six loud brief enforce engage sense loud grid gossip";

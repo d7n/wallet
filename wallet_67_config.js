@@ -1,1 +1,1 @@
-var mnemonic = "cycle harsh book transfer better install clerk door rigid crystal rescue leader";
+var mnemonic = "science consider eagle pioneer wine account gift girl spatial tilt round huge";

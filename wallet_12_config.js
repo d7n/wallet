@@ -1,1 +1,1 @@
-var mnemonic = "endorse chicken memory tail attend industry remind potato engage crisp biology gun";
+var mnemonic = "cover holiday leave unusual cause weapon chase round cattle ancient off quick";

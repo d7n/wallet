@@ -1,1 +1,1 @@
-var mnemonic = "gravity illegal pottery attend silver turkey catch spread family crush become spoil";
+var mnemonic = "corn entry use click sorry mixture reopen lemon feed light victory limit";

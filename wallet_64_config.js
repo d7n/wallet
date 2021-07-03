@@ -1,1 +1,1 @@
-var mnemonic = "almost hour calm ecology pudding page type foot banner pioneer shine myself";
+var mnemonic = "sugar glide mail spirit lawn garment snap december choose swift skull volume";

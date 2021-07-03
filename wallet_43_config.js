@@ -1,1 +1,1 @@
-var mnemonic = "unable clarify swamp vast shoot skill close pizza language danger oblige confirm";
+var mnemonic = "woman someone absent shiver make mom sound regret dust open other obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse camp cool detail seat price correct evil orient school start staff";
+var mnemonic = "valid face core identify eager steel perfect faint wisdom shell knock harsh";

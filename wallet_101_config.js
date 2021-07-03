@@ -1,1 +1,1 @@
-var mnemonic = "summer cupboard spoil notable deal crop labor marriage network economy fault churn";
+var mnemonic = "drop level half indoor lady fan august satoshi fold behind dash balance";

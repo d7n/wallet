@@ -1,1 +1,1 @@
-var mnemonic = "improve stumble slab dwarf aim fabric price slender trumpet century theme wave";
+var mnemonic = "car manage midnight smart stand spray torch essay genre reject reveal fatal";

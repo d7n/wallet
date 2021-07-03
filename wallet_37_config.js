@@ -1,1 +1,1 @@
-var mnemonic = "cereal riot mango bench symptom satoshi negative tooth oyster relax amused laundry";
+var mnemonic = "obscure castle thumb ill maid apple enter enact hurdle weapon ensure foam";

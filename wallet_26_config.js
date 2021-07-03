@@ -1,1 +1,1 @@
-var mnemonic = "stable dinner squirrel legal cream solution practice swallow lawsuit average party bubble";
+var mnemonic = "shuffle negative friend reject history pill fabric whale during file deliver equip";

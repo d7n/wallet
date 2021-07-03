@@ -1,1 +1,1 @@
-var mnemonic = "concert animal infant cloud donate elbow early sting start family reunion reduce";
+var mnemonic = "rhythm wave shed scheme video harbor person general cricket feed later ensure";

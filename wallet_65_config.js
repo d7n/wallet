@@ -1,1 +1,1 @@
-var mnemonic = "save shoot lottery carry symbol harsh ramp make army cabin enact spike";
+var mnemonic = "drastic artwork spend genuine gather dream gym unable sock frog uphold final";

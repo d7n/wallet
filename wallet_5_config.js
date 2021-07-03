@@ -1,1 +1,1 @@
-var mnemonic = "elbow copy burst banana shrug cannon raise toward slide horror analyst aspect";
+var mnemonic = "silent body scrap wrap caught scene tomato silent method uniform tornado settle";

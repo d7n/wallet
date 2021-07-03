@@ -1,1 +1,1 @@
-var mnemonic = "gentle lemon dove orchard mixture pave conduct seek rough claim middle goat";
+var mnemonic = "dawn ladder toward subject useful order need among merge inject tourist height";

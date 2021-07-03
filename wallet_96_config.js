@@ -1,1 +1,1 @@
-var mnemonic = "execute cushion reflect blade grid balance jazz drive someone push fire pupil";
+var mnemonic = "useless clock plunge bridge cover spirit move build pair cattle apple voyage";

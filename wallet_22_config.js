@@ -1,1 +1,1 @@
-var mnemonic = "own liberty acid labor lecture maximum solar rich car owner know come";
+var mnemonic = "amateur apple shrug project zoo grape mechanic siren torch knock time grass";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer below glory put sample nasty front robot song second image ancient";
+var mnemonic = "rail enough ridge black turn chalk great describe pole heart small bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "equal assist balcony stone situate remain spatial panther garage tenant purse promote";
+var mnemonic = "dash rabbit never lens fade daughter prefer spike cook drama hair access";

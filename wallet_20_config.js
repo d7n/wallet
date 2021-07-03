@@ -1,1 +1,1 @@
-var mnemonic = "quantum pool blood glide victory until roof blame sadness grow girl strong";
+var mnemonic = "doll forget outer effort orbit check speed airport zero family gift body";

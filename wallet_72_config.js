@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow ladder grass canoe glare equip first avocado merit pond icon mountain";
+var mnemonic = "wine between evidence friend feel have knock sound reveal drink stadium onion";

@@ -1,1 +1,1 @@
-var mnemonic = "dad project inquiry potato divert outer amazing shock inside velvet junior vocal";
+var mnemonic = "develop noise retreat royal aisle because sound vintage radar option nation mind";

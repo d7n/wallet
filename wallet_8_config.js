@@ -1,1 +1,1 @@
-var mnemonic = "audit return kiss sheriff price sample conduct amateur gauge swarm lazy next";
+var mnemonic = "outer seed business tattoo bitter start canoe cash easily drive minor leader";

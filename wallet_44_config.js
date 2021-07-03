@@ -1,1 +1,1 @@
-var mnemonic = "gloom pulp goddess okay pyramid legend junior offer supply snake minimum into";
+var mnemonic = "stuff trend exhibit lyrics close ski picnic avocado feed remain airport install";

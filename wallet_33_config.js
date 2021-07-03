@@ -1,1 +1,1 @@
-var mnemonic = "smoke describe pledge middle employ lyrics media mention joy engage gas machine";
+var mnemonic = "judge moral gorilla salute holiday bench net limit era lesson citizen blossom";

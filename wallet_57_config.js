@@ -1,1 +1,1 @@
-var mnemonic = "body plastic tongue rival flee barely toilet spot lift smile tree more";
+var mnemonic = "regular soon blood pull decorate egg vast agree pumpkin beach screen comfort";

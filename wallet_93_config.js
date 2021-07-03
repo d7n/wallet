@@ -1,1 +1,1 @@
-var mnemonic = "arrest very mutual immune cement pulp surprise laptop match live layer judge";
+var mnemonic = "design cupboard ride phone social sheriff palace equip upgrade inflict remove science";

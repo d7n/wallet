@@ -1,1 +1,1 @@
-var mnemonic = "grass sniff lesson garlic siren census slush flower alarm supreme that floor";
+var mnemonic = "baby task ship salt spider auction toast danger extend page remain north";

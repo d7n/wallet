@@ -1,1 +1,1 @@
-var mnemonic = "stairs taste antique cloud banana evoke pelican hat deliver curve home arm";
+var mnemonic = "unable hen ship great weasel senior recall jewel decline pluck push void";

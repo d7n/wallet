@@ -1,1 +1,1 @@
-var mnemonic = "cradle summer credit another chair stage prepare jelly gauge lamp extend glance";
+var mnemonic = "mimic robot purchase load trumpet process honey kitchen bonus turkey supreme old";

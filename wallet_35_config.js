@@ -1,1 +1,1 @@
-var mnemonic = "supreme level abandon wear spray heart crater october segment keen lift spike";
+var mnemonic = "captain chronic boring wide way exact survey puzzle sketch observe quit monster";

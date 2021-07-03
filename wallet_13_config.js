@@ -1,1 +1,1 @@
-var mnemonic = "wreck power vessel payment buddy pizza wait arrest nuclear issue enact swift";
+var mnemonic = "arrive egg live story biology time sport rack project spring guide empty";

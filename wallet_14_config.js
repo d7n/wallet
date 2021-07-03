@@ -1,1 +1,1 @@
-var mnemonic = "tuition diamond palace emotion easy outside decide coin media alley dune gloom";
+var mnemonic = "velvet spice puppy desk small jump hen drip orange icon fork race";

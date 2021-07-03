@@ -1,1 +1,1 @@
-var mnemonic = "noble diet scout very life chalk brush next mind buddy leader leaf";
+var mnemonic = "treat hollow discover peasant cross about hill tiny supply copper meadow clutch";

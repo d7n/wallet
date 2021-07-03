@@ -1,1 +1,1 @@
-var mnemonic = "wreck scan congress innocent school electric valve subway current afraid never often";
+var mnemonic = "body chat decrease notable give gas wood blush make say sure object";

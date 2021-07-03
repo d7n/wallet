@@ -1,1 +1,1 @@
-var mnemonic = "wide render breeze bitter neutral spring useless dawn rib fossil goddess strategy";
+var mnemonic = "group mechanic tomato churn photo pig curtain snow fox fragile reveal banner";

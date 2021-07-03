@@ -1,1 +1,1 @@
-var mnemonic = "pole large victory siren repeat trophy swift recycle doctor frame ensure jump";
+var mnemonic = "lawsuit uncle various menu crucial cycle extra alone horn inhale law brown";

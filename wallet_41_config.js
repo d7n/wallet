@@ -1,1 +1,1 @@
-var mnemonic = "buyer report typical poem harsh expect void west tennis physical language bridge";
+var mnemonic = "mask hill actual divide detail fabric service legend obtain feature flag slam";

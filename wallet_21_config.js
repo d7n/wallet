@@ -1,1 +1,1 @@
-var mnemonic = "mammal chaos host soon reason impulse final hockey capital square slice cover";
+var mnemonic = "apple claw such increase neither extra name series cabin orchard bridge crime";

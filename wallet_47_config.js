@@ -1,1 +1,1 @@
-var mnemonic = "sight connect put kiss verb silly pluck palm prepare what cave notice";
+var mnemonic = "hill monitor desert bike custom jazz tag lunar gas tomorrow slush virus";

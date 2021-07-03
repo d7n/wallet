@@ -1,1 +1,1 @@
-var mnemonic = "boring evidence valid mammal hawk flag mesh cage bring enter degree future";
+var mnemonic = "awkward oblige trend purse video little plastic stomach cable join door leader";

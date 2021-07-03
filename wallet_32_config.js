@@ -1,1 +1,1 @@
-var mnemonic = "flee rifle indicate cram denial build often neutral decline stamp cradle logic";
+var mnemonic = "lounge normal property banana hover company brother stove rabbit neck basic mixture";

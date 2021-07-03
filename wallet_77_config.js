@@ -1,1 +1,1 @@
-var mnemonic = "uphold hidden elite grant oblige stairs hard wool brother caution merge machine";
+var mnemonic = "vote lazy carpet flash tuition game goose apple lake differ coach devote";

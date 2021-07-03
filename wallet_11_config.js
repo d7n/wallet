@@ -1,1 +1,1 @@
-var mnemonic = "wonder true model jar deer wink suit switch vast between october note";
+var mnemonic = "affair exile century uncover dose attitude sorry pulp trade staff canyon mother";

@@ -1,1 +1,1 @@
-var mnemonic = "weird moment also monster ginger tank captain olive negative perfect today stay";
+var mnemonic = "night puzzle remove husband device bring version pledge situate rather story quick";

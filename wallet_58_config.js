@@ -1,1 +1,1 @@
-var mnemonic = "cactus fantasy million slot input congress fat human thunder message illegal globe";
+var mnemonic = "liar method museum author runway insane defy crazy aerobic trust photo lizard";

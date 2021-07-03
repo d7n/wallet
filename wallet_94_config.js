@@ -1,1 +1,1 @@
-var mnemonic = "fork brisk good diary arrange agent leaf affair resource cool when liar";
+var mnemonic = "void portion joy whisper where squirrel minor alpha symbol crime art that";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd witness miracle crunch various donate loud edge fade exhibit horror glance";
+var mnemonic = "model repeat gallery hurt myself great token net grief glimpse report ten";

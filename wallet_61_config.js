@@ -1,1 +1,1 @@
-var mnemonic = "antenna paper flash output dove gentle render bid pyramid convince fit above";
+var mnemonic = "festival air betray dream session lucky dumb swap pupil exhibit wish economy";

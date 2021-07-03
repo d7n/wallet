@@ -1,1 +1,1 @@
-var mnemonic = "hub autumn grit neglect fragile hamster stable bachelor fabric disorder travel all";
+var mnemonic = "fun stomach egg canyon pottery approve material honey point utility famous announce";

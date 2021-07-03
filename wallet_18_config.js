@@ -1,1 +1,1 @@
-var mnemonic = "toy monster believe adult wish enlist gown left sweet awful useless galaxy";
+var mnemonic = "actor benefit life sponsor pill unveil possible knock humor raven unit imitate";

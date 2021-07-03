@@ -1,1 +1,1 @@
-var mnemonic = "shy build document cargo slight stairs elephant dinner crumble monster puzzle before";
+var mnemonic = "margin roast fat equip fiber trigger suspect alone else cannon candy weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "need leaf film potato lunar syrup jeans pottery warm version absent gift";
+var mnemonic = "harbor couch chicken trade concert tide sweet bronze grab grace excite work";

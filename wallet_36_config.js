@@ -1,1 +1,1 @@
-var mnemonic = "kiwi repeat mistake lift movie loud appear muscle member jump meat access";
+var mnemonic = "obvious exclude sad advance west that property concert wrist double ahead harvest";

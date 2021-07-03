@@ -1,1 +1,1 @@
-var mnemonic = "cactus choose build valve phrase glimpse tennis device lock accuse idle crack";
+var mnemonic = "age oval funny scout success illness easily spin main damp fetch fortune";

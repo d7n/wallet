@@ -1,1 +1,1 @@
-var mnemonic = "betray guitar tent direct denial celery dust woman tell now shock strong";
+var mnemonic = "example risk renew churn carry plastic shift palace absent world dolphin mystery";

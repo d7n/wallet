@@ -1,1 +1,1 @@
-var mnemonic = "like wet pizza fruit claw winter ketchup basic march hobby weekend pluck";
+var mnemonic = "extra mansion spell bitter ridge manual guide stomach deal ginger analyst agent";

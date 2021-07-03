@@ -1,1 +1,1 @@
-var mnemonic = "asthma interest enable trim zoo aim conduct twenty crater vote pole cake";
+var mnemonic = "toast scatter trim cream error window monitor nut palace sister round able";

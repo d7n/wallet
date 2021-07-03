@@ -1,1 +1,1 @@
-var mnemonic = "blind mushroom laugh short process suffer invite dune lemon forest flag friend";
+var mnemonic = "inner lesson system oval jazz race fog expire van garage cake tackle";

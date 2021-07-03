@@ -1,1 +1,1 @@
-var mnemonic = "wood mad wagon chronic aunt viable angry deliver radar advice quantum fame";
+var mnemonic = "light pigeon exist rally simple give peace patient help poet network speak";

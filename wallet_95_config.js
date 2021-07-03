@@ -1,1 +1,1 @@
-var mnemonic = "double case trip syrup eagle humble draw announce among wire hole mimic";
+var mnemonic = "invite usage check escape refuse layer toast link top pig topic hungry";

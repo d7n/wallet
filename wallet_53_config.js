@@ -1,1 +1,1 @@
-var mnemonic = "draft bunker sister shrug pottery scout settle double road bitter scissors amount";
+var mnemonic = "cook reform silk dumb palm begin mixture scale fall gap exist nut";

@@ -1,1 +1,1 @@
-var mnemonic = "okay wink spatial shy guitar rib basic orphan riot miracle expire mail";
+var mnemonic = "bamboo shoe peanut stock photo soda symbol legal novel use dial abandon";

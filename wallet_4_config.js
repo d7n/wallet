@@ -1,1 +1,1 @@
-var mnemonic = "identify resemble another arrange color hurdle blame script coast bird true shiver";
+var mnemonic = "bulk practice physical history road history rifle husband leave tide crew wheel";

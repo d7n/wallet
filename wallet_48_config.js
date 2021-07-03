@@ -1,1 +1,1 @@
-var mnemonic = "fruit entire trick minute social decorate defy ski bring hard stuff burst";
+var mnemonic = "believe skin relax monkey stool still above fold because consider era idea";

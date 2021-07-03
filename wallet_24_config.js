@@ -1,1 +1,1 @@
-var mnemonic = "vendor seed ethics copper screen magnet urban wisdom magic steel draft mammal";
+var mnemonic = "solid accuse spin change cart move warm donate hover hurdle frog toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry deal dutch scale miracle betray potato seek pass exotic fork chat";
+var mnemonic = "brass grief pottery stuff dad soon despair sauce onion witness pitch blind";
