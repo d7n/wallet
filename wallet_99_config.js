@@ -1,1 +1,1 @@
-var mnemonic = "document knee book panther boat lake convince fence update analyst raw ordinary";
+var mnemonic = "mirror reason double ensure measure anxiety obscure inmate marble trip stomach speak";

@@ -1,1 +1,1 @@
-var mnemonic = "power worth strike minute clown wait trust sick tooth light bullet couch";
+var mnemonic = "wing tent goddess champion beauty garage team bracket tide fabric alcohol entry";

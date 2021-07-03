@@ -1,1 +1,1 @@
-var mnemonic = "basic cube borrow abuse lottery swing tattoo normal orient happy combine indoor";
+var mnemonic = "vicious comfort rapid cash wait seminar chunk throw sure bachelor correct once";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle cook burger rabbit sniff dentist obtain become resist drum volume want";
+var mnemonic = "gift follow play roof ketchup dentist attitude misery inmate fury donor close";

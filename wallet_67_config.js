@@ -1,1 +1,1 @@
-var mnemonic = "there patient over parade they capital chapter bless source spoil wine chief";
+var mnemonic = "final machine village genre slender flag join seat gauge pattern menu artist";

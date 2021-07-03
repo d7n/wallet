@@ -1,1 +1,1 @@
-var mnemonic = "reform learn guilt gravity chunk fit decorate diet rent whisper ahead word";
+var mnemonic = "frost decade pen announce bring extra supreme base demand quick popular walnut";

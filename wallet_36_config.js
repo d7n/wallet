@@ -1,1 +1,1 @@
-var mnemonic = "fence long clinic glare flip draft type bone question tiny aerobic agent";
+var mnemonic = "truth win unfair recipe media fiscal alone welcome arrange toast acid person";

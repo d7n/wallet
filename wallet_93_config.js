@@ -1,1 +1,1 @@
-var mnemonic = "only where phrase voyage message labor laptop fashion unaware now swear predict";
+var mnemonic = "inch hero limit tomato forward thunder pulp good genre crop deputy rug";

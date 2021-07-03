@@ -1,1 +1,1 @@
-var mnemonic = "taste usual check close exile october hen fame material sting drink motion";
+var mnemonic = "wish aunt raven venue decorate acquire helmet cube food twice benefit sausage";

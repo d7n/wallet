@@ -1,1 +1,1 @@
-var mnemonic = "warfare master hundred pair measure symptom muffin feed defy regular okay cabin";
+var mnemonic = "invest pear into sting zero hire radar actress pet method trophy cube";

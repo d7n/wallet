@@ -1,1 +1,1 @@
-var mnemonic = "shuffle visual draft crack valve winter original february save beyond kit squeeze";
+var mnemonic = "three shine artefact pretty treat level affair rabbit copy host luggage text";

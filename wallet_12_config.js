@@ -1,1 +1,1 @@
-var mnemonic = "enter horror corn elegant blast stock jump struggle just sing riot hungry";
+var mnemonic = "install box prefer eyebrow upper summer almost prevent ketchup guitar cute wisdom";

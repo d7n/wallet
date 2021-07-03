@@ -1,1 +1,1 @@
-var mnemonic = "swap design human churn once very salt muscle april real rapid fun";
+var mnemonic = "debris purse future empty venture genre matter double dutch camera helmet frown";

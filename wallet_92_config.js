@@ -1,1 +1,1 @@
-var mnemonic = "fever helmet organ mobile bachelor more border journey property require market airport";
+var mnemonic = "expose lucky disorder unit forum link brass museum simple crush narrow hello";

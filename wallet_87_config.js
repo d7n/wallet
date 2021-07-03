@@ -1,1 +1,1 @@
-var mnemonic = "athlete valve crew rail caught check cereal range horse sea curious jealous";
+var mnemonic = "elite warrior nature vocal trash brain dentist sunset inquiry alarm crystal train";

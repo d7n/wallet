@@ -1,1 +1,1 @@
-var mnemonic = "glad fitness chronic current small bar attitude grant dynamic replace later price";
+var mnemonic = "mixed cover accident broom regular gain enrich heavy hungry blame fresh session";

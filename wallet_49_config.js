@@ -1,1 +1,1 @@
-var mnemonic = "member viable picnic marble charge debris cigar weapon ordinary slot dinner sell";
+var mnemonic = "quiz fuel attitude hamster still exile chef vault charge all rice script";

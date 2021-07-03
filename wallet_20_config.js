@@ -1,1 +1,1 @@
-var mnemonic = "sail edge help suspect possible satoshi soccer wet hen floor afford slender";
+var mnemonic = "uncover curve ketchup air live lawn fade scatter over enter engine black";

@@ -1,1 +1,1 @@
-var mnemonic = "grape divide point grid team fringe bronze kite foil crack unusual attitude";
+var mnemonic = "grief meat view mix capable enact vicious comfort addict shaft goat armed";

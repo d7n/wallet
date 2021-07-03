@@ -1,1 +1,1 @@
-var mnemonic = "again grit warrior trumpet another clown major weekend audit frame horn drama";
+var mnemonic = "sphere vicious quality opinion pull initial enable purpose beyond verb knife salmon";

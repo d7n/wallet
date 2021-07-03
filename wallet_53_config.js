@@ -1,1 +1,1 @@
-var mnemonic = "marriage universe plunge minute tortoise aerobic window output allow typical shrug high";
+var mnemonic = "parent fork model yard come north bachelor mansion tilt course just consider";

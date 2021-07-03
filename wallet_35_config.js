@@ -1,1 +1,1 @@
-var mnemonic = "sponsor rain blast source noble spring unfair emotion eternal pulp strategy climb";
+var mnemonic = "render chalk such swing horror crash aim shift shrimp crew area cart";

@@ -1,1 +1,1 @@
-var mnemonic = "universe topple mad art effort math student ahead report fee ancient feed";
+var mnemonic = "diagram version physical critic train prison lucky clinic actor evidence police hero";

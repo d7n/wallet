@@ -1,1 +1,1 @@
-var mnemonic = "shop hedgehog practice food thunder crime lobster baby veteran silly maximum outdoor";
+var mnemonic = "razor latin century scare casual coin biology acquire funny salmon romance bullet";

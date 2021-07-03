@@ -1,1 +1,1 @@
-var mnemonic = "bonus scissors pool neglect sell debris hen alien elder egg mail endorse";
+var mnemonic = "bleak acquire crane utility normal space episode doctor clap chest boy express";

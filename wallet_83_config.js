@@ -1,1 +1,1 @@
-var mnemonic = "trouble unusual gold admit gaze grace toy wing dash remember kingdom execute";
+var mnemonic = "kangaroo ripple radar comic wave address runway spy cactus inform extend neither";

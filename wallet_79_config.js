@@ -1,1 +1,1 @@
-var mnemonic = "three glass topple grain wire lounge frequent stick swarm awful doll emotion";
+var mnemonic = "delay reject since decade mushroom define decrease lottery sock diet yard youth";

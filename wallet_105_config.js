@@ -1,1 +1,1 @@
-var mnemonic = "august track decorate poet turn exercise donate spike domain salute kind tuna";
+var mnemonic = "equip bless sound hawk crew wheat size bracket fire enlist divert squirrel";

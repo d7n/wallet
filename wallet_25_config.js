@@ -1,1 +1,1 @@
-var mnemonic = "possible timber job fetch time must picnic bullet miss invest enable sustain";
+var mnemonic = "number sausage race blame execute pulp guitar maid tissue midnight assist slot";

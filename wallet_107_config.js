@@ -1,1 +1,1 @@
-var mnemonic = "gravity accident mind skin execute hobby snake aware tuition poet sister zebra";
+var mnemonic = "sheriff hold lock write kiss enhance aerobic inquiry divert gauge sight frequent";

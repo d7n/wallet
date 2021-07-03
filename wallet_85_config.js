@@ -1,1 +1,1 @@
-var mnemonic = "proof sight merry zone roof live view success island meat depend whip";
+var mnemonic = "indicate raw matter slender submit rail leisure paper expire fiction paper ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday term fiction empty cute twice cloud monkey exit page mixed approve";
+var mnemonic = "equip door gossip law faith wave exhibit fringe above antique address useless";

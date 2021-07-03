@@ -1,1 +1,1 @@
-var mnemonic = "model cat delay snow tongue knock modify nurse scatter flash unit pattern";
+var mnemonic = "wine true fan company law banner story uncover oak success crane despair";

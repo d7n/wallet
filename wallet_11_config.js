@@ -1,1 +1,1 @@
-var mnemonic = "uncover people much divorce burger space describe fever february friend real cube";
+var mnemonic = "grief velvet puppy slogan foster owner okay citizen year youth resemble board";

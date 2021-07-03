@@ -1,1 +1,1 @@
-var mnemonic = "blue wave math vibrant drip prevent episode soon together fold color test";
+var mnemonic = "render wagon amount legal cancel year picnic birth ivory salt joke toilet";

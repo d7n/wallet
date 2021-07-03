@@ -1,1 +1,1 @@
-var mnemonic = "glue alpha also chapter midnight until about light dutch maid manage output";
+var mnemonic = "celery office drill cross evolve divorce junior initial winner indicate swing wheel";

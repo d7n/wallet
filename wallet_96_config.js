@@ -1,1 +1,1 @@
-var mnemonic = "decide foam rule unable adapt feel rigid humble twice heart skin novel";
+var mnemonic = "uphold cattle match world conduct uncover forget student alpha tunnel later usage";

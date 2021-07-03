@@ -1,1 +1,1 @@
-var mnemonic = "sense together rural miss wait execute evolve zero wrist air canvas heart";
+var mnemonic = "banner robot sad nice stamp shell eagle fame orange federal label eternal";

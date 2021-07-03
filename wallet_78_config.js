@@ -1,1 +1,1 @@
-var mnemonic = "there debate gaze raw east snack soup figure frame source blast main";
+var mnemonic = "silly pitch cheap bullet aspect reveal child grit sauce boy bomb blood";

@@ -1,1 +1,1 @@
-var mnemonic = "valid hub remember poet barrel area guilt below hamster such crawl certain";
+var mnemonic = "tunnel fault home avoid develop member approve bar intact furnace nerve drift";

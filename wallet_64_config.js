@@ -1,1 +1,1 @@
-var mnemonic = "path ordinary kingdom mango border walk bench cradle excite rabbit mammal quit";
+var mnemonic = "slush apart cool emotion fade found lift fatal normal alter noodle neutral";

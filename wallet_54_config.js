@@ -1,1 +1,1 @@
-var mnemonic = "coil atom possible tiger diamond inflict blouse assume very sorry before work";
+var mnemonic = "scheme leisure salad miracle approve pattern choice melody alcohol tell couch unable";

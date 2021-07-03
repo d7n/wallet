@@ -1,1 +1,1 @@
-var mnemonic = "cradle dust isolate stay used then coil build pioneer try open slush";
+var mnemonic = "idle drive annual meadow anxiety provide main cage submit slender today olive";

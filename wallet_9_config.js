@@ -1,1 +1,1 @@
-var mnemonic = "jump crush alpha radar anchor age shift position electric impact plunge rug";
+var mnemonic = "midnight beach pass shiver swift surface release oxygen uncover useful bar build";

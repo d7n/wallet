@@ -1,1 +1,1 @@
-var mnemonic = "chicken decorate idle barely phrase prize fold confirm destroy grid another today";
+var mnemonic = "pupil tone topic check prison clever exit below damage work blood extend";

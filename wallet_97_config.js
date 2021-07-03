@@ -1,1 +1,1 @@
-var mnemonic = "observe stomach damp civil mad gym gather chronic avocado focus correct swim";
+var mnemonic = "situate hedgehog detail helmet tomorrow fruit concert fortune enable design grow super";

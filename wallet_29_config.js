@@ -1,1 +1,1 @@
-var mnemonic = "drum page until utility wish piano latin vibrant typical broccoli direct dog";
+var mnemonic = "frozen sadness throw bitter income become furnace there castle swift skull gospel";

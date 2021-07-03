@@ -1,1 +1,1 @@
-var mnemonic = "large tone exhaust express soldier art alley child eight used gap primary";
+var mnemonic = "ethics wisdom cargo industry math foot skin left promote coffee invest harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "salad outdoor among accuse target pull educate inject river firm evolve health";
+var mnemonic = "concert similar elbow hero clever damage giant forget shy injury auto word";

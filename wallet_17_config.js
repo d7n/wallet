@@ -1,1 +1,1 @@
-var mnemonic = "enable uniform demise coin autumn toddler coconut release sign giant either young";
+var mnemonic = "truly anger face learn diet cross walk salad fix wood wheel focus";

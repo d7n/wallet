@@ -1,1 +1,1 @@
-var mnemonic = "jump scissors apology result someone beauty unknown cost lens magic inspire ensure";
+var mnemonic = "skin hotel dentist limb decide setup knee eye phone mind ability jealous";

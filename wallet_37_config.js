@@ -1,1 +1,1 @@
-var mnemonic = "shoe venture pride hip sport drastic fine ride resemble clinic tower west";
+var mnemonic = "idea sheriff obvious pass arrange boss gospel salt crane body talent sphere";

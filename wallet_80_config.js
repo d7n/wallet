@@ -1,1 +1,1 @@
-var mnemonic = "energy meat goose pioneer almost lake helmet recall hour lounge happy settle";
+var mnemonic = "debris apart ten middle heavy wisdom rebuild enjoy rabbit bacon soap orchard";

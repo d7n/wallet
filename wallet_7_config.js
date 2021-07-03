@@ -1,1 +1,1 @@
-var mnemonic = "canvas erase dash crazy warm change embark unique favorite knife lyrics gentle";
+var mnemonic = "burger hood invest hub grow hand inner you employ bag music wasp";

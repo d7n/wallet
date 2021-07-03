@@ -1,1 +1,1 @@
-var mnemonic = "trash axis inform earn erosion carpet north manage fiscal above sponsor hen";
+var mnemonic = "today advice wall planet chunk race casual struggle swarm wave hazard scan";

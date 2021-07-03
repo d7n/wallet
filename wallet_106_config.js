@@ -1,1 +1,1 @@
-var mnemonic = "wool mimic task embody early whisper sick finish dune oppose toddler trade";
+var mnemonic = "core effort toward broken gift tent heavy want act icon fetch urban";

@@ -1,1 +1,1 @@
-var mnemonic = "slender author garden say boat myth try crisp cruise legend hand float";
+var mnemonic = "essay hope figure ranch eternal length olive suspect attend vapor tennis ugly";

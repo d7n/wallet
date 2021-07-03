@@ -1,1 +1,1 @@
-var mnemonic = "dry food bundle bread favorite flock rabbit analyst chunk material alter grocery";
+var mnemonic = "capital paper fossil beach enemy spread bright afford iron marble vital oak";

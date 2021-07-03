@@ -1,1 +1,1 @@
-var mnemonic = "hurdle army hard volcano able blind pencil dry sketch shoot grant potato";
+var mnemonic = "pact tip tag spawn length key rescue pull runway upon muscle catalog";

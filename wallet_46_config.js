@@ -1,1 +1,1 @@
-var mnemonic = "design need only quality moral deputy come drill winner lunar process horror";
+var mnemonic = "lounge pony submit hand earn deliver knee enemy rebuild summer produce grain";

@@ -1,1 +1,1 @@
-var mnemonic = "donor hidden attract lonely summer coral journey drum insane correct crater phrase";
+var mnemonic = "provide collect minute video tip lava cruise thing expect marble illegal choice";

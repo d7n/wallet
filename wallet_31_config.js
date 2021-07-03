@@ -1,1 +1,1 @@
-var mnemonic = "slogan one loop penalty gesture cross grain lift honey movie hard dwarf";
+var mnemonic = "frost drift doll wasp cannon genuine wear output inherit garden glow evolve";

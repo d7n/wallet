@@ -1,1 +1,1 @@
-var mnemonic = "clap second neglect dinosaur fatal industry cup cricket dress trick arrest cover";
+var mnemonic = "barrel point visa hazard proud blade void angry silk crater when plastic";

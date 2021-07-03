@@ -1,1 +1,1 @@
-var mnemonic = "gap bread garbage warfare cigar mix skin brush couch romance warrior ripple";
+var mnemonic = "prepare drama toast web fame scissors athlete gasp material gap enhance sentence";

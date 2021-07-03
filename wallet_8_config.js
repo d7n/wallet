@@ -1,1 +1,1 @@
-var mnemonic = "axis scene insane prevent silent catch clinic blind flight similar unhappy cricket";
+var mnemonic = "custom orbit soda oval very trim dice magic discover forum allow reduce";

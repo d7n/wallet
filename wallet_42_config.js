@@ -1,1 +1,1 @@
-var mnemonic = "leave cabbage coyote champion hamster globe neutral jungle agree mercy chuckle width";
+var mnemonic = "wreck artwork shaft bar expire recall worry shell derive hire parade task";

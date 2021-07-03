@@ -1,1 +1,1 @@
-var mnemonic = "legend inner urge caution pond define bulk taxi resemble bullet top verb";
+var mnemonic = "whisper connect carpet warrior flower moon strategy wedding doll own ramp option";

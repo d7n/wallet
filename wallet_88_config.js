@@ -1,1 +1,1 @@
-var mnemonic = "knee uniform disagree liberty machine dinner eight february deer cinnamon sunny excuse";
+var mnemonic = "unit happy vacuum gloom shed zoo earth trumpet hip tennis gather maximum";

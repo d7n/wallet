@@ -1,1 +1,1 @@
-var mnemonic = "aim language dress angle river gym tongue caution siege borrow swift image";
+var mnemonic = "list hobby rookie diet quick jar feel range cruise tool make educate";

@@ -1,1 +1,1 @@
-var mnemonic = "sign case mother bullet rice fine claim pink seven collect grass meadow";
+var mnemonic = "oval cruel pattern future salon this squirrel unaware snap peace injury wrestle";

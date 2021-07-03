@@ -1,1 +1,1 @@
-var mnemonic = "celery sport front combine heart cart uncle discover shed divorce this olive";
+var mnemonic = "hammer hedgehog book apple note vocal wasp depart lake swear lens half";

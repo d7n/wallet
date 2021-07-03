@@ -1,1 +1,1 @@
-var mnemonic = "scissors source denial symptom idle pride flock resist patch inside critic armor";
+var mnemonic = "actress olympic either sauce tag truck evolve clock sell step quit slam";

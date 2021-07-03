@@ -1,1 +1,1 @@
-var mnemonic = "pledge code wish syrup clerk promote anchor vintage bleak kiss monster text";
+var mnemonic = "connect east flip because open rival raise victory tree world spawn obtain";

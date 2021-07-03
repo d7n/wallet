@@ -1,1 +1,1 @@
-var mnemonic = "basic fashion divert average draw wire legend surge uniform click auto glory";
+var mnemonic = "barrel phrase situate island river end beyond promote index depth fat hedgehog";

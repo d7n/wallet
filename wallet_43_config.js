@@ -1,1 +1,1 @@
-var mnemonic = "prefer student cave junk novel evolve layer route hammer pave spend base";
+var mnemonic = "eight attract inherit party eternal girl trumpet defense army moment cushion quality";

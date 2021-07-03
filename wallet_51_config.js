@@ -1,1 +1,1 @@
-var mnemonic = "joy illness prevent skull hedgehog hint lecture banner shock wage donor say";
+var mnemonic = "swear ethics chest replace across silk gesture float coyote strong defy cattle";

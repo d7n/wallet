@@ -1,1 +1,1 @@
-var mnemonic = "jazz essay spot flock emotion toe series word where issue napkin oppose";
+var mnemonic = "taxi verb usage stadium general tide duck gold parrot inquiry surround market";

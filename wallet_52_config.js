@@ -1,1 +1,1 @@
-var mnemonic = "link cave risk please essay tumble eagle produce wage plug future aunt";
+var mnemonic = "empty salmon fall sock mass piano potato evil comic boat file ready";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle alter market isolate arrive silly exile squirrel cliff push drive arm";
+var mnemonic = "raw impulse often view zone fantasy price drip modify chapter bullet shoe";

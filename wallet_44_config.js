@@ -1,1 +1,1 @@
-var mnemonic = "burst fuel slam kangaroo depart rather assault name tissue snack stove become";
+var mnemonic = "canyon mask sign raise leopard milk sleep zero panther sudden near address";

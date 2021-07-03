@@ -1,1 +1,1 @@
-var mnemonic = "alone mobile glove they cigar bone crumble child gun dress zone again";
+var mnemonic = "pyramid mobile joke shallow soda illness crush chunk laptop twelve talent divide";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit police thought extra top cave bunker donkey frame hamster space output";
+var mnemonic = "iron benefit illegal torch shoot parade impose cycle gossip whip wide boss";

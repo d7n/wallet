@@ -1,1 +1,1 @@
-var mnemonic = "empty spawn visual person razor flee father celery donkey accuse emotion trophy";
+var mnemonic = "frequent thrive dismiss chef world clerk legal transfer about novel lawn leader";

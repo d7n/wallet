@@ -1,1 +1,1 @@
-var mnemonic = "electric symbol gain smoke hour change awful race urge guess warfare choice";
+var mnemonic = "marble frozen renew object bounce love easily lift ginger motor type west";

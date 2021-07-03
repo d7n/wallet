@@ -1,1 +1,1 @@
-var mnemonic = "comic knife neck undo address water sponsor pepper neglect bubble uphold bounce";
+var mnemonic = "grow armor double panther couple family push walk knife finger canal electric";

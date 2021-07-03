@@ -1,1 +1,1 @@
-var mnemonic = "keen expose horn argue boss cause daughter iron body envelope final check";
+var mnemonic = "canyon virus scare rapid tunnel category fame educate sketch call solution dial";

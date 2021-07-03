@@ -1,1 +1,1 @@
-var mnemonic = "copy stool alert upon welcome mesh teach debris cake opera method expand";
+var mnemonic = "tower toe web must urge ketchup digital nose used nurse tape tree";

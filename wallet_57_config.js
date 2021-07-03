@@ -1,1 +1,1 @@
-var mnemonic = "air shy place fit sudden thing hurry afford forget nation wild genre";
+var mnemonic = "stairs shy produce armor virus morning boat apart theme notable level party";

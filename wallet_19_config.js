@@ -1,1 +1,1 @@
-var mnemonic = "clerk train dinosaur refuse glad current unfair actress twelve false bronze certain";
+var mnemonic = "eager crisp cradle fork social used reopen exile useless spray toast sadness";

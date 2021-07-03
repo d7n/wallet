@@ -1,1 +1,1 @@
-var mnemonic = "patrol crane body infant fee legend cube liar shift drama term kite";
+var mnemonic = "gloom solution attack alcohol camera require prepare mention winter tenant margin airport";

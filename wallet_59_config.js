@@ -1,1 +1,1 @@
-var mnemonic = "poverty april endless undo trend acoustic ranch wide flee benefit boost combine";
+var mnemonic = "climb noodle ring peanut quick message solid office junk pink trim cargo";
