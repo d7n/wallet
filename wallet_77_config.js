@@ -1,1 +1,1 @@
-var mnemonic = "drop emerge park country client mesh garden section punch submit admit cause";
+var mnemonic = "strike boss shiver remind wild exile usage crash hamster gadget angry match";

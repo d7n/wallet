@@ -1,1 +1,1 @@
-var mnemonic = "immune barrel verb nothing deliver sunny illness ozone drill organ wise subject";
+var mnemonic = "ensure digital waste solution ranch flight usage major world useful gorilla vote";

@@ -1,1 +1,1 @@
-var mnemonic = "draw private across ball market pipe pole kitten burst nominee romance rural";
+var mnemonic = "dust desk garment industry couple alpha huge apart rubber arm wisdom manage";

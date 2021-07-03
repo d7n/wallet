@@ -1,1 +1,1 @@
-var mnemonic = "tail scare task inmate potato believe bone dilemma grid useless seat bag";
+var mnemonic = "hazard fatigue boy blur icon ritual wreck proof letter saddle moral beauty";

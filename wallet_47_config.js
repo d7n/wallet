@@ -1,1 +1,1 @@
-var mnemonic = "payment jewel during forget wave cost hover session duty goddess lion honey";
+var mnemonic = "ecology safe robust initial sample screen also bamboo churn ski quote author";

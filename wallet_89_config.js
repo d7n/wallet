@@ -1,1 +1,1 @@
-var mnemonic = "embark mango dice drive pass volcano start math unit repeat method vault";
+var mnemonic = "palace health shrimp latin broom scatter palm proof pink warm priority chunk";

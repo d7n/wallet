@@ -1,1 +1,1 @@
-var mnemonic = "noise sleep purse ketchup food system razor also badge minor creek movie";
+var mnemonic = "census holiday evidence solve bacon such key inherit differ law snap fade";

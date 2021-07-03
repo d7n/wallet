@@ -1,1 +1,1 @@
-var mnemonic = "escape jewel thing now dentist casual tool truly body custom office decline";
+var mnemonic = "monkey dynamic wise mind defy hybrid domain dad crater walk panic coyote";

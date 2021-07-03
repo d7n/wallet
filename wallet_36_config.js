@@ -1,1 +1,1 @@
-var mnemonic = "order pear fit couch abstract become apple half human receive together this";
+var mnemonic = "slice unlock exile surround split enlist two scare arch firm cloth surround";

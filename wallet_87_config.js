@@ -1,1 +1,1 @@
-var mnemonic = "grow kiwi medal seed myth weird stay kingdom eternal loan exist salmon";
+var mnemonic = "umbrella vast south bundle trim still crucial thumb plate prison fish pluck";

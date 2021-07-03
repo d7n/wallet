@@ -1,1 +1,1 @@
-var mnemonic = "vicious pilot thought confirm display teach census dream across twin wrestle carpet";
+var mnemonic = "open vast salmon family river wagon horse number decline glue minimum keep";

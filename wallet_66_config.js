@@ -1,1 +1,1 @@
-var mnemonic = "immune slender mobile bamboo dose power badge ivory fade material analyst shy";
+var mnemonic = "tape gown expect ghost original fatigue scissors wine average debris edge nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "icon chalk main chef cricket melody page over cheap weird plate ethics";
+var mnemonic = "over patrol among sport apology south height ribbon write talent burden parrot";

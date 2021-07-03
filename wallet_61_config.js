@@ -1,1 +1,1 @@
-var mnemonic = "adjust produce host slot pulp monster erosion random antique illegal make use";
+var mnemonic = "detail tissue return cement width blossom napkin venture normal purchase same volume";

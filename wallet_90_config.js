@@ -1,1 +1,1 @@
-var mnemonic = "segment awesome stick gap must goat arrive eternal ceiling alone ill affair";
+var mnemonic = "bar abandon purpose purse west pipe approve midnight loan subject cage sausage";

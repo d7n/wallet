@@ -1,1 +1,1 @@
-var mnemonic = "hungry kitten lab betray angry multiply knife reason goose vanish inquiry fiction";
+var mnemonic = "grace ignore annual slab spell oppose enjoy market health wing receive slender";

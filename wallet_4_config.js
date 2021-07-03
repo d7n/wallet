@@ -1,1 +1,1 @@
-var mnemonic = "arrange rich segment trend burden media home south fantasy violin inject galaxy";
+var mnemonic = "orient trend breeze write must top improve brown bench crop work rebuild";

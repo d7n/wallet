@@ -1,1 +1,1 @@
-var mnemonic = "staff wagon bargain nose breeze increase amazing ankle bounce foot confirm hospital";
+var mnemonic = "west pink zoo equip hen wet job army machine much assume wild";

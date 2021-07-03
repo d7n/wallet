@@ -1,1 +1,1 @@
-var mnemonic = "basket need humble brass trial age exclude sure chicken impulse tornado bleak";
+var mnemonic = "grow mask cherry scare ice deputy lemon program wait lake gorilla topple";

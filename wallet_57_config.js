@@ -1,1 +1,1 @@
-var mnemonic = "only trigger safe shoe join tennis syrup move ahead clutch oxygen book";
+var mnemonic = "defense leopard runway jar rule mixed involve sentence blouse accident next manual";

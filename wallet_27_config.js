@@ -1,1 +1,1 @@
-var mnemonic = "arrest cruise verb key wide august spray lunar stable stamp spare oxygen";
+var mnemonic = "strike link injury slim myself rough protect neutral whip merit earth couch";

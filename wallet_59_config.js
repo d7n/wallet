@@ -1,1 +1,1 @@
-var mnemonic = "where share stem pink subject lady tuition frog clutch defense pattern fade";
+var mnemonic = "dumb mind metal scale conduct consider window involve hood gown pink shop";

@@ -1,1 +1,1 @@
-var mnemonic = "brain rare grass perfect network clean flee upset hood razor race need";
+var mnemonic = "tube sure elegant pilot apology main spy wife suggest castle armor family";

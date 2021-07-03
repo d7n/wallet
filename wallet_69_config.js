@@ -1,1 +1,1 @@
-var mnemonic = "private immense process laundry thank lonely style hedgehog net zone toe cause";
+var mnemonic = "accuse street top idle reflect final entry knee glance clinic gold mad";

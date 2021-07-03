@@ -1,1 +1,1 @@
-var mnemonic = "salute fog auction soup enroll neglect pole habit captain convince ignore defense";
+var mnemonic = "list vacant immune sheriff curious world rabbit sun avoid cup text main";

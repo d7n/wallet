@@ -1,1 +1,1 @@
-var mnemonic = "cabin very question rack team similar apart what solution boss payment body";
+var mnemonic = "elegant submit victory cinnamon crouch close reduce crane noodle sniff spoon math";

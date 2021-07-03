@@ -1,1 +1,1 @@
-var mnemonic = "layer knee morning element income panic congress magnet syrup must skate comfort";
+var mnemonic = "gauge still dune mule spring dish stay reduce deal silver wall damp";

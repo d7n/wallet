@@ -1,1 +1,1 @@
-var mnemonic = "version trigger response gloom grunt tower stove critic exhibit wise capital creek";
+var mnemonic = "give employ dragon area lazy few throw annual exit tuna vicious mean";

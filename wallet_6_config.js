@@ -1,1 +1,1 @@
-var mnemonic = "physical west dog word gaze nominee relief regret feel bag piece neglect";
+var mnemonic = "blush sword web surge scheme retreat rule arrive later glide panic rhythm";

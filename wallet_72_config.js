@@ -1,1 +1,1 @@
-var mnemonic = "caught dress mom hungry today youth patch actress control dynamic shuffle offer";
+var mnemonic = "combine emerge toast excuse mammal course resemble jeans brother rabbit hand cube";

@@ -1,1 +1,1 @@
-var mnemonic = "term worth earth elegant few convince fly auto reform club salute bomb";
+var mnemonic = "humble sustain mind casual orchard dream false smile water twist famous trumpet";

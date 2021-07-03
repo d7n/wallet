@@ -1,1 +1,1 @@
-var mnemonic = "diesel little open deer provide else seminar smooth maid camera noodle atom";
+var mnemonic = "prefer praise tag author blade rigid change flight nose swap alarm brick";

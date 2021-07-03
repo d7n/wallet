@@ -1,1 +1,1 @@
-var mnemonic = "face ahead pyramid lecture boring weekend trumpet oval mention task silly group";
+var mnemonic = "drip kit depth village razor convince scrub glove coil sea similar noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla spoil sentence holiday depth novel right bless craft member thumb action";
+var mnemonic = "beef sunset long scout shock trend laundry void food minor remove chalk";

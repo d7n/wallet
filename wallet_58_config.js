@@ -1,1 +1,1 @@
-var mnemonic = "market moon mix foster upon abuse comic asthma elite mean range fortune";
+var mnemonic = "island merit hospital unable miss cement stand solution million produce recycle lion";

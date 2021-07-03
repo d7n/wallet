@@ -1,1 +1,1 @@
-var mnemonic = "stereo satisfy shadow jungle unusual theme advance problem actual finish tower feature";
+var mnemonic = "main blur soccer focus country measure helmet spot unusual cargo wood fold";

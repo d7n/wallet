@@ -1,1 +1,1 @@
-var mnemonic = "crew purchase entire very siege razor spirit badge organ feed glance pull";
+var mnemonic = "soccer cool garbage chicken exile heart cram chicken online basket leopard abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "interest draw liar banana gaze onion balcony crater woman tilt nest demand";
+var mnemonic = "shadow travel vapor theory bubble coral grass renew victory resist access capable";

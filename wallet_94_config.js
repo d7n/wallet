@@ -1,1 +1,1 @@
-var mnemonic = "cube enter start song miracle train short old brown add about athlete";
+var mnemonic = "day brave year digital coast saddle near margin broken unveil window over";

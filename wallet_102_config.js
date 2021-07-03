@@ -1,1 +1,1 @@
-var mnemonic = "coffee brown castle ostrich melt eagle absorb minor this abuse dash dynamic";
+var mnemonic = "electric ring response stuff april eye cousin silly pledge pattern toilet climb";

@@ -1,1 +1,1 @@
-var mnemonic = "there friend bright wealth there wink poet caught wing gift second radar";
+var mnemonic = "leisure lock point media foster mobile slice faint flash host chuckle crash";

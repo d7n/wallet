@@ -1,1 +1,1 @@
-var mnemonic = "cotton frame dynamic trigger absurd old foot snow debris abstract train staff";
+var mnemonic = "flee bid humble risk dirt physical thunder height nephew fossil banner drip";

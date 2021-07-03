@@ -1,1 +1,1 @@
-var mnemonic = "wolf husband dawn board very twelve wisdom opera cheese mirror system journey";
+var mnemonic = "connect arm wish input have column proof diesel rebel illegal elbow long";

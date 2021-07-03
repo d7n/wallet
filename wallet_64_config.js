@@ -1,1 +1,1 @@
-var mnemonic = "strong inhale profit cheese vivid before grass term business file alter manage";
+var mnemonic = "maid region thank turn clerk umbrella ankle cry crawl demise column exhaust";

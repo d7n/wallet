@@ -1,1 +1,1 @@
-var mnemonic = "deny giant easy frown resist inquiry until thunder exclude alpha stamp alley";
+var mnemonic = "devote tongue march hurdle choice fragile bicycle attract glass replace summer few";

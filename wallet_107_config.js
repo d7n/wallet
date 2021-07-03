@@ -1,1 +1,1 @@
-var mnemonic = "caution pioneer lamp wait forest lecture eyebrow scissors sugar garage you orchard";
+var mnemonic = "fog glow peasant own ripple wife honey obey master spare renew crazy";

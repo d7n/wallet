@@ -1,1 +1,1 @@
-var mnemonic = "fitness utility nose throw unfair bike whisper stuff young feature damage series";
+var mnemonic = "veteran physical member venture unknown apology typical muffin truly deer visit use";

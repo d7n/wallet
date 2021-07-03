@@ -1,1 +1,1 @@
-var mnemonic = "antenna tree night rug major cigar marble silly end key magnet lizard";
+var mnemonic = "employ saddle orange lawn reflect garage traffic tiny foot front grow arm";

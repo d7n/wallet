@@ -1,1 +1,1 @@
-var mnemonic = "plastic crazy marine hover half mind lunch amount trip gas holiday index";
+var mnemonic = "alarm renew offer champion relax network bid man drill cheap shrug kick";

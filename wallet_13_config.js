@@ -1,1 +1,1 @@
-var mnemonic = "social thank spoon pigeon zone oak arrive lens horn favorite matter fly";
+var mnemonic = "busy bring genius capital innocent any phrase economy entry december blast kid";

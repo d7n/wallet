@@ -1,1 +1,1 @@
-var mnemonic = "slot blast ahead damp service tragic shoulder reunion modify option connect elegant";
+var mnemonic = "rhythm build day void across decade patient shove negative item tumble clean";

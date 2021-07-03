@@ -1,1 +1,1 @@
-var mnemonic = "canvas monitor now near tree patch void lend brand arena issue uphold";
+var mnemonic = "huge maid sport nut dentist unique mention lonely couple mule verify addict";

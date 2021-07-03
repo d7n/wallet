@@ -1,1 +1,1 @@
-var mnemonic = "penalty move age logic vague laundry pass upper memory present van fringe";
+var mnemonic = "major omit urban void young betray engine maid combine include assist grab";

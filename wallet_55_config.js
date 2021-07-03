@@ -1,1 +1,1 @@
-var mnemonic = "mesh poet swap monitor hidden crystal surge grass door pulse mountain scare";
+var mnemonic = "sausage present office veteran comic round cancel bike sword tissue scout emotion";

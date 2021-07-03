@@ -1,1 +1,1 @@
-var mnemonic = "atom anger town lonely drastic mystery analyst promote rude gift scene crack";
+var mnemonic = "bunker spoil element west shrimp infant divorce release old belt have nuclear";

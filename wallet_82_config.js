@@ -1,1 +1,1 @@
-var mnemonic = "adult joy faculty argue wife away replace grow yard move pilot dance";
+var mnemonic = "guard alert genius lock urban fluid wash hawk because twice mix retire";

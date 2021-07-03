@@ -1,1 +1,1 @@
-var mnemonic = "gospel walnut stomach talent march shuffle ordinary flag combine child age gesture";
+var mnemonic = "hour tissue vanish behave parent state miss rug permit will impact swift";

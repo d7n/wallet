@@ -1,1 +1,1 @@
-var mnemonic = "two erode pioneer forest omit ladder flash melody permit glass canvas food";
+var mnemonic = "ship idle hammer about dad suggest device autumn away account giraffe stand";

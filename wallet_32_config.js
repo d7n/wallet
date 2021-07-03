@@ -1,1 +1,1 @@
-var mnemonic = "host soccer inform draft fury output access layer situate exercise flat belt";
+var mnemonic = "heavy later fly balcony coil wet emotion tree country quality ranch brick";

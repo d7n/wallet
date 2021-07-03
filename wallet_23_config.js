@@ -1,1 +1,1 @@
-var mnemonic = "swap position awful thunder brush main alone enact cabbage mosquito two grape";
+var mnemonic = "jealous buyer kidney science ostrich exile industry source baby pet usage birth";

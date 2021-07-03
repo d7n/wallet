@@ -1,1 +1,1 @@
-var mnemonic = "need innocent curve where neck dog genre struggle draft much vehicle appear";
+var mnemonic = "duck dumb casino skill beauty curious blanket frost quantum wheel coral couch";

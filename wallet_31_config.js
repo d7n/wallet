@@ -1,1 +1,1 @@
-var mnemonic = "stage strong mad ocean helmet absent ask scissors hollow text ozone voyage";
+var mnemonic = "use vapor vital hold hobby oval sport tonight romance shaft hybrid artefact";

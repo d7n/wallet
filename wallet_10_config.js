@@ -1,1 +1,1 @@
-var mnemonic = "express educate palace nest convince educate theme list bounce myth fruit under";
+var mnemonic = "metal spoil loop pause kitten lens fix iron uniform intact rose point";

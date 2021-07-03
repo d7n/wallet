@@ -1,1 +1,1 @@
-var mnemonic = "include mobile smoke task bench spring bracket leave impose mirror skull sphere";
+var mnemonic = "rule game blur myth fitness repair toe myself drink tone slot shallow";

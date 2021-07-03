@@ -1,1 +1,1 @@
-var mnemonic = "joy tip spoil major interest wheel excess cruel neglect duck seminar body";
+var mnemonic = "fever have blouse style link love link neglect ahead remove title undo";

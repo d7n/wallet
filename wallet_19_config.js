@@ -1,1 +1,1 @@
-var mnemonic = "equip dish report envelope good profit reveal tooth style enact lock close";
+var mnemonic = "they stock dismiss nose humble ahead song multiply enroll top upon fork";

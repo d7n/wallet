@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow bleak bike winter proof crowd crash like pen squeeze crime boat";
+var mnemonic = "fan thrive essence destroy reform salute shallow crush maximum couch budget answer";

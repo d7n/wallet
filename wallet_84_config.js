@@ -1,1 +1,1 @@
-var mnemonic = "version entry parent neck captain crunch animal harbor spatial climb draft mansion";
+var mnemonic = "slogan vague vote exotic label public decide accuse churn south choose royal";

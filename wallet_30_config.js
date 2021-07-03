@@ -1,1 +1,1 @@
-var mnemonic = "crop camera satoshi clown duty apology trip road bus giant blast universe";
+var mnemonic = "market fiscal corn gossip april nation point casual aspect convince garden hen";

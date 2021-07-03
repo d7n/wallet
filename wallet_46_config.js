@@ -1,1 +1,1 @@
-var mnemonic = "layer tooth access inner spice elegant worry involve receive midnight make story";
+var mnemonic = "voyage camera cave human monster elephant consider vehicle dignity oxygen science witness";

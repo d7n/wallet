@@ -1,1 +1,1 @@
-var mnemonic = "wire bottom wealth spring math hotel thumb post empty clean ocean seat";
+var mnemonic = "often almost analyst vacant drill amazing guilt unfold reduce sleep badge sell";

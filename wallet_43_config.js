@@ -1,1 +1,1 @@
-var mnemonic = "member scene acquire resemble robust vessel pyramid seed supreme about marble absurd";
+var mnemonic = "quit behave prize spirit vital wire buddy army laptop envelope hazard mouse";

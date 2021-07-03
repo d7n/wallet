@@ -1,1 +1,1 @@
-var mnemonic = "canyon crew merge pact tackle digital another half economy gentle wild speak";
+var mnemonic = "chase blind decline nose danger deer tuna remember vacuum edge cash capital";

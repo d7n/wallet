@@ -1,1 +1,1 @@
-var mnemonic = "story enrich observe bundle develop pink leaf social false hair release ball";
+var mnemonic = "alone dice change lesson flight aunt catalog price orbit lab plate anger";

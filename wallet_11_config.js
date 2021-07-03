@@ -1,1 +1,1 @@
-var mnemonic = "sauce job battle nut unfold direct audit offer peasant below surge safe";
+var mnemonic = "embark thank load blade dad maid action super food cinnamon arctic silent";

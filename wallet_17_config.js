@@ -1,1 +1,1 @@
-var mnemonic = "doll smooth primary comic company chief wife recycle business keen bag quit";
+var mnemonic = "oval anchor duty animal stomach video caution old puppy orange moment salon";

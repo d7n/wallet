@@ -1,1 +1,1 @@
-var mnemonic = "hold day quiz wink miss lesson dirt match fox peasant borrow script";
+var mnemonic = "stereo various produce charge outside hollow theme giraffe wish practice program pulp";

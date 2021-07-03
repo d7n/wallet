@@ -1,1 +1,1 @@
-var mnemonic = "prevent access false leaf hint grow round used office creek grid orchard";
+var mnemonic = "educate viable shrug syrup major confirm enrich train hospital blast level dune";

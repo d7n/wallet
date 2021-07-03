@@ -1,1 +1,1 @@
-var mnemonic = "fury robot giggle husband cluster whip taxi math humble course chief dress";
+var mnemonic = "scout canoe fold account wrap worry churn crouch unit giant salute stomach";

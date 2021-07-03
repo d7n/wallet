@@ -1,1 +1,1 @@
-var mnemonic = "nose ignore double turn dream blade assume case duty panda silk heart";
+var mnemonic = "quantum other tragic current quiz antenna oyster primary phrase animal area cactus";

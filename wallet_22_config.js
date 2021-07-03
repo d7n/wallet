@@ -1,1 +1,1 @@
-var mnemonic = "message bullet power ethics eager mistake online dance awake boss weasel festival";
+var mnemonic = "message current flip chief laundry staff slogan rabbit appear yellow sausage raise";

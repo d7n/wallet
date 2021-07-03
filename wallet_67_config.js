@@ -1,1 +1,1 @@
-var mnemonic = "cheap wisdom start fish because box coin mention knife zoo destroy have";
+var mnemonic = "blush float roof garlic aware bleak travel roast number life motion wasp";

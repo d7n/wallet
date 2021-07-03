@@ -1,1 +1,1 @@
-var mnemonic = "sea race oval suggest claw dragon lobster alley false battle capital genuine";
+var mnemonic = "harvest fire camp wreck sketch original garbage undo cash dismiss remember credit";

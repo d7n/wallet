@@ -1,1 +1,1 @@
-var mnemonic = "romance stuff brick peace trick museum rally evolve base melody own unknown";
+var mnemonic = "embark better already predict phrase detail crane toward plug stay recall success";

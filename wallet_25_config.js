@@ -1,1 +1,1 @@
-var mnemonic = "leisure supreme champion just vivid tired admit stuff cage permit page crisp";
+var mnemonic = "garage curtain travel weasel carry fence pride census mango dad win around";
