@@ -1,1 +1,1 @@
-var mnemonic = "wheel fine wall duty breeze foot bacon walnut taxi average valve insect";
+var mnemonic = "visual diagram execute strike wife able security water truth install wheat toward";

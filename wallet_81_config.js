@@ -1,1 +1,1 @@
-var mnemonic = "boy option repeat total mushroom cattle forest flight spot welcome lend future";
+var mnemonic = "wide render breeze bitter neutral spring useless dawn rib fossil goddess strategy";

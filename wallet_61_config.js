@@ -1,1 +1,1 @@
-var mnemonic = "claim scheme youth assist squeeze industry tragic hello near wide energy mask";
+var mnemonic = "antenna paper flash output dove gentle render bid pyramid convince fit above";

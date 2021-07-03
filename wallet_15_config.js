@@ -1,1 +1,1 @@
-var mnemonic = "margin nest devote mercy type proud scrub ostrich steak fluid various height";
+var mnemonic = "concert animal infant cloud donate elbow early sting start family reunion reduce";

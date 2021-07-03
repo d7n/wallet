@@ -1,1 +1,1 @@
-var mnemonic = "cupboard divide turkey twelve exhaust act onion struggle shiver solid pond evil";
+var mnemonic = "like wet pizza fruit claw winter ketchup basic march hobby weekend pluck";

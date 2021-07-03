@@ -1,1 +1,1 @@
-var mnemonic = "act mind kind crime control ordinary adult verb heart shell sniff year";
+var mnemonic = "spin must depart carbon thumb eye flash enjoy wrestle column cycle detail";

@@ -1,1 +1,1 @@
-var mnemonic = "capable client physical damage eagle road sibling knee walnut palm banana garlic";
+var mnemonic = "double case trip syrup eagle humble draw announce among wire hole mimic";

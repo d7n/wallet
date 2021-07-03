@@ -1,1 +1,1 @@
-var mnemonic = "burger when merry private drill produce funny myself squeeze such quantum super";
+var mnemonic = "buyer report typical poem harsh expect void west tennis physical language bridge";

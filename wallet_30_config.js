@@ -1,1 +1,1 @@
-var mnemonic = "wedding interest filter fringe spirit siege chapter because code enough flip patrol";
+var mnemonic = "alpha minimum moral cement various warm tooth cycle unlock gesture purity arrest";

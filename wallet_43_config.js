@@ -1,1 +1,1 @@
-var mnemonic = "oxygen panic loan flash belt rabbit recycle unknown embody valve lens forum";
+var mnemonic = "unable clarify swamp vast shoot skill close pizza language danger oblige confirm";

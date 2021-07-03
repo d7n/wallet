@@ -1,1 +1,1 @@
-var mnemonic = "brush prison rhythm surface view what subject nerve horn tank unaware erupt";
+var mnemonic = "minute soon ill spread error tell grab sphere mercy retire violin divorce";

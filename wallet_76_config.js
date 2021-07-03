@@ -1,1 +1,1 @@
-var mnemonic = "surge stomach oyster diary column member distance expand ring winter half pet";
+var mnemonic = "cloud plate excuse kitchen sausage two odor mail size middle achieve novel";

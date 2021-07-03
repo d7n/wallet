@@ -1,1 +1,1 @@
-var mnemonic = "sign rose inform maximum garbage genre clinic into sense canvas inform aware";
+var mnemonic = "hub autumn grit neglect fragile hamster stable bachelor fabric disorder travel all";

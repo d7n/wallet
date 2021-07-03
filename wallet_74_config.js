@@ -1,1 +1,1 @@
-var mnemonic = "swear when jungle cactus lemon arena barely network fire need mammal success";
+var mnemonic = "hurry deal dutch scale miracle betray potato seek pass exotic fork chat";

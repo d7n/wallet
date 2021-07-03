@@ -1,1 +1,1 @@
-var mnemonic = "bike across aim enhance travel maze metal raccoon size test captain stereo";
+var mnemonic = "toss parent until goat check journey funny alpha base inmate prefer seven";

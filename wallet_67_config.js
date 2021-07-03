@@ -1,1 +1,1 @@
-var mnemonic = "buzz original lunch usual disease tower flame polar rose together cheese boost";
+var mnemonic = "cycle harsh book transfer better install clerk door rigid crystal rescue leader";

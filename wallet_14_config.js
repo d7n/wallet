@@ -1,1 +1,1 @@
-var mnemonic = "fatal expect year clean slight peasant north balcony fly circle shoe zone";
+var mnemonic = "tuition diamond palace emotion easy outside decide coin media alley dune gloom";

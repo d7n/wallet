@@ -1,1 +1,1 @@
-var mnemonic = "hurt comfort check sing grief copy ride teach idle collect recall soft";
+var mnemonic = "gloom pulp goddess okay pyramid legend junior offer supply snake minimum into";

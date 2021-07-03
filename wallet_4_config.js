@@ -1,1 +1,1 @@
-var mnemonic = "naive diamond quality age hard tomato practice bread stamp wing undo tube";
+var mnemonic = "identify resemble another arrange color hurdle blame script coast bird true shiver";

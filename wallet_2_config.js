@@ -1,1 +1,1 @@
-var mnemonic = "summer possible common coin claw oven cabin admit exit regret honey position";
+var mnemonic = "pond vocal harbor shine little guide punch wheat name chicken anxiety cup";

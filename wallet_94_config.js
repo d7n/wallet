@@ -1,1 +1,1 @@
-var mnemonic = "tortoise able job garbage mountain rotate hole flock undo dirt sunset urge";
+var mnemonic = "fork brisk good diary arrange agent leaf affair resource cool when liar";

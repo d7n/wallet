@@ -1,1 +1,1 @@
-var mnemonic = "feel second cause muscle dinner unfold describe good impact flash enemy adult";
+var mnemonic = "wise feature section frequent pluck jazz gate vague fossil cube salad skill";

@@ -1,1 +1,1 @@
-var mnemonic = "better nest short crop vivid creek truly unfair atom rural away zebra";
+var mnemonic = "dad project inquiry potato divert outer amazing shock inside velvet junior vocal";

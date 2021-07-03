@@ -1,1 +1,1 @@
-var mnemonic = "member oval donor island arrange column lesson huge token dumb glow obvious";
+var mnemonic = "flee rifle indicate cram denial build often neutral decline stamp cradle logic";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol north term inflict bag zoo robust retreat double very mosquito guard";
+var mnemonic = "wreck power vessel payment buddy pizza wait arrest nuclear issue enact swift";

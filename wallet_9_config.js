@@ -1,1 +1,1 @@
-var mnemonic = "skirt sibling leopard sponsor peanut heart few erase mosquito make layer siren";
+var mnemonic = "blind mushroom laugh short process suffer invite dune lemon forest flag friend";

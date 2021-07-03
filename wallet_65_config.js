@@ -1,1 +1,1 @@
-var mnemonic = "crane casino excess bleak emerge safe desk mountain better spider later isolate";
+var mnemonic = "save shoot lottery carry symbol harsh ramp make army cabin enact spike";

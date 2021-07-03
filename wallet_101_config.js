@@ -1,1 +1,1 @@
-var mnemonic = "vehicle permit mind wonder buddy panel endorse maximum diet catalog lock virtual";
+var mnemonic = "summer cupboard spoil notable deal crop labor marriage network economy fault churn";

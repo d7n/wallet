@@ -1,1 +1,1 @@
-var mnemonic = "suspect initial planet novel legal trumpet acid hybrid exact transfer process skull";
+var mnemonic = "cactus choose build valve phrase glimpse tennis device lock accuse idle crack";

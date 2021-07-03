@@ -1,1 +1,1 @@
-var mnemonic = "diary toast behave kind pull document major force roof fold ball grab";
+var mnemonic = "improve stumble slab dwarf aim fabric price slender trumpet century theme wave";

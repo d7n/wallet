@@ -1,1 +1,1 @@
-var mnemonic = "maximum gold agent write snap exile legal swamp inch virus learn latin";
+var mnemonic = "skill eye exact ivory west lion dream puzzle subway wet trend army";

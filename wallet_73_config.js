@@ -1,1 +1,1 @@
-var mnemonic = "lyrics seek shrug huge broccoli joke effort decrease rail ladder ugly latin";
+var mnemonic = "stone acquire danger wisdom chaos tennis ignore license walk glass live limb";

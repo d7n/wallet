@@ -1,1 +1,1 @@
-var mnemonic = "daughter ring work brick muffin section system radar cannon claim lunar super";
+var mnemonic = "silent half double family rice switch city step poem seat club tide";

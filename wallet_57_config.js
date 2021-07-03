@@ -1,1 +1,1 @@
-var mnemonic = "pole only tiny cushion dutch way silver satisfy umbrella tragic pattern ride";
+var mnemonic = "body plastic tongue rival flee barely toilet spot lift smile tree more";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty casino awake disease enable deal endorse sense denial flash april burden";
+var mnemonic = "shy build document cargo slight stairs elephant dinner crumble monster puzzle before";

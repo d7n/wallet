@@ -1,1 +1,1 @@
-var mnemonic = "add view squirrel adjust mimic popular rival damage exhibit forward busy payment";
+var mnemonic = "gravity illegal pottery attend silver turkey catch spread family crush become spoil";

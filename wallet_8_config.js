@@ -1,1 +1,1 @@
-var mnemonic = "census rare rather reveal slight exercise farm various media cliff mosquito size";
+var mnemonic = "audit return kiss sheriff price sample conduct amateur gauge swarm lazy next";

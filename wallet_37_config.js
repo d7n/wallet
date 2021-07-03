@@ -1,1 +1,1 @@
-var mnemonic = "shuffle twin major hundred emotion lyrics liar tackle leopard tower you ladder";
+var mnemonic = "cereal riot mango bench symptom satoshi negative tooth oyster relax amused laundry";

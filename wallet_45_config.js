@@ -1,1 +1,1 @@
-var mnemonic = "cannon gift soup gauge cereal flash cargo easy scene hundred refuse innocent";
+var mnemonic = "suffer below glory put sample nasty front robot song second image ancient";

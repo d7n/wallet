@@ -1,1 +1,1 @@
-var mnemonic = "celery remind undo canal royal person silver chalk tornado remind record bike";
+var mnemonic = "consider turkey wait artist hamster concert crash cart couple tilt result supply";

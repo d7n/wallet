@@ -1,1 +1,1 @@
-var mnemonic = "tree drama outside erase merry innocent ritual crack minute voyage spice talk";
+var mnemonic = "review wheel replace ritual accuse absent always excuse power rotate assist decade";

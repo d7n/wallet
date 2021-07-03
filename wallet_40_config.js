@@ -1,1 +1,1 @@
-var mnemonic = "matter zone movie jazz spare foil powder truly rely omit above other";
+var mnemonic = "accident east rifle acoustic smoke birth human wing pass dust found knife";

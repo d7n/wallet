@@ -1,1 +1,1 @@
-var mnemonic = "grass grace arrange blue taste learn argue top front soft curious protect";
+var mnemonic = "grass sniff lesson garlic siren census slush flower alarm supreme that floor";

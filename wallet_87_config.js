@@ -1,1 +1,1 @@
-var mnemonic = "sense snake leisure skull unfold salute lottery kitten coil caution indoor alley";
+var mnemonic = "maple core diet library riot glue dash slab frequent destroy clarify bitter";

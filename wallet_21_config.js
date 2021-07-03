@@ -1,1 +1,1 @@
-var mnemonic = "uniform crane ten arena stem push boss brother idea isolate alley shoot";
+var mnemonic = "mammal chaos host soon reason impulse final hockey capital square slice cover";

@@ -1,1 +1,1 @@
-var mnemonic = "student review about brass edge cannon goose wrap mother verify canyon awful";
+var mnemonic = "table piano cube plug novel essay barely weird unfold abandon enough short";

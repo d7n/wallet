@@ -1,1 +1,1 @@
-var mnemonic = "trust again cage useful dinner flock topic blast stock correct juice grace";
+var mnemonic = "endorse chicken memory tail attend industry remind potato engage crisp biology gun";

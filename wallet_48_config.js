@@ -1,1 +1,1 @@
-var mnemonic = "fancy area midnight author clarify joke leader fire dream stadium predict cabbage";
+var mnemonic = "fruit entire trick minute social decorate defy ski bring hard stuff burst";

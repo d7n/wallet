@@ -1,1 +1,1 @@
-var mnemonic = "ski repair rabbit lazy carpet bus game mushroom health latin remind raven";
+var mnemonic = "consider timber market can prison divert attract reunion subway empty peasant object";

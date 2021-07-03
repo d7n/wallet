@@ -1,1 +1,1 @@
-var mnemonic = "basic make off science warm opera amazing cause despair praise capable obvious";
+var mnemonic = "icon gospel rifle crater ski scrub say lizard grape afraid cherry deal";

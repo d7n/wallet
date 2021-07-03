@@ -1,1 +1,1 @@
-var mnemonic = "cave secret assume gravity company guard coach gather drop toilet theory laptop";
+var mnemonic = "sleep near next cost fold write cause cradle chuckle acid coast romance";

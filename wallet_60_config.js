@@ -1,1 +1,1 @@
-var mnemonic = "torch strike crater wedding coconut pass boy blind unveil token rain disorder";
+var mnemonic = "tomorrow globe wing give angry desert wisdom flight second point moment weird";

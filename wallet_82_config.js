@@ -1,1 +1,1 @@
-var mnemonic = "door fan drift arrive still pudding sustain reform cradle fade abstract chair";
+var mnemonic = "asthma interest enable trim zoo aim conduct twenty crater vote pole cake";

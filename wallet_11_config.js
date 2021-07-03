@@ -1,1 +1,1 @@
-var mnemonic = "alley galaxy come frog impact manage slot shuffle iron soft tell toast";
+var mnemonic = "wonder true model jar deer wink suit switch vast between october note";

@@ -1,1 +1,1 @@
-var mnemonic = "rude birth blouse ring gap divorce final junk that catch cable hybrid";
+var mnemonic = "draft bunker sister shrug pottery scout settle double road bitter scissors amount";

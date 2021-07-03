@@ -1,1 +1,1 @@
-var mnemonic = "cushion dilemma sadness install violin crisp vague raccoon armed woman ride air";
+var mnemonic = "smoke describe pledge middle employ lyrics media mention joy engage gas machine";

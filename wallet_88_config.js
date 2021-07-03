@@ -1,1 +1,1 @@
-var mnemonic = "female ketchup draft east tobacco method true captain cement ostrich arrest direct";
+var mnemonic = "fiber drop tomato vapor cherry soap illegal example boring dizzy vibrant salad";

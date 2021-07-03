@@ -1,1 +1,1 @@
-var mnemonic = "sail someone exclude venture mountain rare together sock approve double develop spray";
+var mnemonic = "equal assist balcony stone situate remain spatial panther garage tenant purse promote";

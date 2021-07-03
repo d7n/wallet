@@ -1,1 +1,1 @@
-var mnemonic = "secret cake despair violin work kiwi improve hawk diesel miss total people";
+var mnemonic = "near inflict miracle suggest club buffalo then what naive this scheme day";

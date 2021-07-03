@@ -1,1 +1,1 @@
-var mnemonic = "force depart decade dynamic rack angle vintage faith flame brand trouble combine";
+var mnemonic = "almost hour calm ecology pudding page type foot banner pioneer shine myself";

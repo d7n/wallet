@@ -1,1 +1,1 @@
-var mnemonic = "keep guitar clap wheat thunder peasant admit hover clinic feed food owner";
+var mnemonic = "force sport off yard meadow detect drill often grit bench lecture filter";

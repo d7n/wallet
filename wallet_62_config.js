@@ -1,1 +1,1 @@
-var mnemonic = "drink laundry dwarf art breeze genre improve open mule modify arrange cricket";
+var mnemonic = "blossom team forget olympic outdoor trend sauce ignore blood core axis wise";

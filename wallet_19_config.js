@@ -1,1 +1,1 @@
-var mnemonic = "fossil clip cereal color wisdom local grab awesome element lizard shift lucky";
+var mnemonic = "boring evidence valid mammal hawk flag mesh cage bring enter degree future";

@@ -1,1 +1,1 @@
-var mnemonic = "foam sentence fold provide afford crane drift pencil tray opera lumber toy";
+var mnemonic = "execute cushion reflect blade grid balance jazz drive someone push fire pupil";

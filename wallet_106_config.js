@@ -1,1 +1,1 @@
-var mnemonic = "swarm slide task design crumble stem shrimp lunch noise walnut conduct rabbit";
+var mnemonic = "rely useful state crane border motor mixture atom govern garment rice indoor";

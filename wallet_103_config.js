@@ -1,1 +1,1 @@
-var mnemonic = "angry eight fade ball hope inside enroll license curve parent capable fan";
+var mnemonic = "minor hover camp delay metal razor minor stool such case desk icon";

@@ -1,1 +1,1 @@
-var mnemonic = "head leader loud doctor choose exercise uncle atom attitude verify family cute";
+var mnemonic = "supreme level abandon wear spray heart crater october segment keen lift spike";

@@ -1,1 +1,1 @@
-var mnemonic = "glass brisk become junk manage admit health bundle similar whip stamp prevent";
+var mnemonic = "someone mad vessel legal six virus educate breeze shaft they dutch program";

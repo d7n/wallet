@@ -1,1 +1,1 @@
-var mnemonic = "smooth rich voyage infant camp prison deposit rival poverty congress exit length";
+var mnemonic = "rural occur portion inch orphan ethics alter range alcohol stairs defy gather";

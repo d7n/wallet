@@ -1,1 +1,1 @@
-var mnemonic = "prefer cancel abstract either obvious stool cave supply volume tourist knee jump";
+var mnemonic = "bamboo thumb evolve lawsuit illegal bitter tumble taxi either super bread usual";

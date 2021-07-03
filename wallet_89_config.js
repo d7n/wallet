@@ -1,1 +1,1 @@
-var mnemonic = "switch peanut sustain water puzzle dress leader enjoy invest soccer mystery alpha";
+var mnemonic = "cradle summer credit another chair stage prepare jelly gauge lamp extend glance";

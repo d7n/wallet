@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur hood satoshi mercy gadget brass trim term unique amused patch tattoo";
+var mnemonic = "leaf minute buzz car fox hedgehog industry path dwarf derive slot slam";

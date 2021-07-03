@@ -1,1 +1,1 @@
-var mnemonic = "raccoon neck hammer guard wheel venture glory detail grain youth settle bulk";
+var mnemonic = "okay wink spatial shy guitar rib basic orphan riot miracle expire mail";

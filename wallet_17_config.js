@@ -1,1 +1,1 @@
-var mnemonic = "fly aisle crowd olive boss cluster opinion swallow august raccoon snap trash";
+var mnemonic = "outer glory buzz kitchen iron title mystery salute toe nurse naive surge";

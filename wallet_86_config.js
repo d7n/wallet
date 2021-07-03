@@ -1,1 +1,1 @@
-var mnemonic = "step rent noise vocal obtain worth gentle rice father catalog stadium cable";
+var mnemonic = "absurd witness miracle crunch various donate loud edge fade exhibit horror glance";

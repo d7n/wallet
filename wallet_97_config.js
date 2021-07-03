@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit apology find angle pluck client black between frozen rotate pull hand";
+var mnemonic = "weird moment also monster ginger tank captain olive negative perfect today stay";

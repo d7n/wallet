@@ -1,1 +1,1 @@
-var mnemonic = "scan famous friend organ alien term can shoot flavor moon pill later";
+var mnemonic = "affair oak copper fan price cream pause throw hour trash tomato afraid";

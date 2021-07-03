@@ -1,1 +1,1 @@
-var mnemonic = "patch image relief right drive walnut foam ball local salmon crunch wall";
+var mnemonic = "elbow copy burst banana shrug cannon raise toward slide horror analyst aspect";

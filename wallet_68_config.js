@@ -1,1 +1,1 @@
-var mnemonic = "major write entire blood tuna rubber human wasp quality monkey crazy marine";
+var mnemonic = "excuse camp cool detail seat price correct evil orient school start staff";

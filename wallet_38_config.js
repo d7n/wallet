@@ -1,1 +1,1 @@
-var mnemonic = "desert human punch spread ride card coil have harvest oxygen cart away";
+var mnemonic = "endless grace boring flock sword viable spare couple guard tail dawn core";

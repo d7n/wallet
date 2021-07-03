@@ -1,1 +1,1 @@
-var mnemonic = "toward luggage involve female any team wheel clay vacuum quiz crumble soldier";
+var mnemonic = "wreck scan congress innocent school electric valve subway current afraid never often";

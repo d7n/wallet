@@ -1,1 +1,1 @@
-var mnemonic = "awesome brief doll noodle girl random squeeze measure gospel two early bracket";
+var mnemonic = "pole large victory siren repeat trophy swift recycle doctor frame ensure jump";

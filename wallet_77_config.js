@@ -1,1 +1,1 @@
-var mnemonic = "gadget kangaroo penalty sight swim gold viable clerk result animal clean crater";
+var mnemonic = "uphold hidden elite grant oblige stairs hard wool brother caution merge machine";

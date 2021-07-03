@@ -1,1 +1,1 @@
-var mnemonic = "notable knee possible load dove forum solution primary excuse talk churn diamond";
+var mnemonic = "need leaf film potato lunar syrup jeans pottery warm version absent gift";

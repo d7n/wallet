@@ -1,1 +1,1 @@
-var mnemonic = "usage science wreck usage online jar arrow amazing pepper call weather mobile";
+var mnemonic = "tomorrow ladder grass canoe glare equip first avocado merit pond icon mountain";

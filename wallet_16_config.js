@@ -1,1 +1,1 @@
-var mnemonic = "sheriff harsh senior raven vague scheme shrug body range buffalo various forum";
+var mnemonic = "anxiety pet news genius media taxi play february peanut outdoor frog inherit";
