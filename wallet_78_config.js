@@ -1,1 +1,1 @@
-var mnemonic = "actor like above borrow agree puppy high shop little motor scissors early";
+var mnemonic = "mass kick crash eternal that hub detail elegant velvet network cabin mom";

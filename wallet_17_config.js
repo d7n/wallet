@@ -1,1 +1,1 @@
-var mnemonic = "short advice enrich engine festival tell cable birth voyage essence know leave";
+var mnemonic = "verb common curtain rate okay muscle maze pizza live error glimpse switch";

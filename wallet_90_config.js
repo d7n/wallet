@@ -1,1 +1,1 @@
-var mnemonic = "almost hole lend history tackle decrease embark vehicle mistake height tumble knee";
+var mnemonic = "neglect wash inform decide march hammer order remember inject vintage step rule";

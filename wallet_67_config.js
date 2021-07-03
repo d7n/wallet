@@ -1,1 +1,1 @@
-var mnemonic = "guilt diagram kiwi dragon work danger matter short report punch mom derive";
+var mnemonic = "there swarm kind drink security among stem account better unfair gloom image";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire duck cross coast garbage drill drama mother finish define carbon diagram";
+var mnemonic = "trumpet caught senior science glass denial venture holiday chief clog robust fiscal";

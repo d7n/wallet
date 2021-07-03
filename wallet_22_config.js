@@ -1,1 +1,1 @@
-var mnemonic = "kingdom blame author furnace tent clip bundle fancy paper shuffle deliver ticket";
+var mnemonic = "own paddle scene position fish employ hip ivory have unusual mask club";

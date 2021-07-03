@@ -1,1 +1,1 @@
-var mnemonic = "shallow hospital tuition ritual belt retire embrace throw announce about game pave";
+var mnemonic = "unable luxury chase word apple employ suspect approve just moon dentist observe";

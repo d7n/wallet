@@ -1,1 +1,1 @@
-var mnemonic = "sound sting dust another auction always punch vanish enrich box soda security";
+var mnemonic = "glove rigid cabbage whip draw lunar concert goose tonight pear behave hard";

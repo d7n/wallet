@@ -1,1 +1,1 @@
-var mnemonic = "metal champion title school first history harvest acoustic prison city forward motion";
+var mnemonic = "sniff sketch elder gift artwork soldier leader boil liquid liquid pudding casual";

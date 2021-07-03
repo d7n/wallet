@@ -1,1 +1,1 @@
-var mnemonic = "traffic umbrella wealth novel attract code outside vault one spread baby coach";
+var mnemonic = "choose resemble stamp shrug appear camp almost canal ill strike vault wage";

@@ -1,1 +1,1 @@
-var mnemonic = "prison shine broken tired skate boss inside try march glare always useful";
+var mnemonic = "spring also surge title goose attitude exact cage adult bike jar absorb";

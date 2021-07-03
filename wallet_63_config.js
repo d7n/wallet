@@ -1,1 +1,1 @@
-var mnemonic = "impose defy day tonight embody clarify benefit orchard blade snack tank require";
+var mnemonic = "office laptop cabbage diamond relief foil mobile leg latin network assist action";

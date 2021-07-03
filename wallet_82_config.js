@@ -1,1 +1,1 @@
-var mnemonic = "wealth hobby abstract firm silver spy maze bring unit divert volume cloud";
+var mnemonic = "recall deposit oil swamp excess wrestle roast dress survey approve pudding wood";

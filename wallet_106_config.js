@@ -1,1 +1,1 @@
-var mnemonic = "primary hill fatigue layer olive physical choose assist ridge leader dentist actual";
+var mnemonic = "misery hire thought hire turn quality glance foster slam video axis buddy";

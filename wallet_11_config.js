@@ -1,1 +1,1 @@
-var mnemonic = "object genius youth round hybrid brand mushroom define evoke own bar extend";
+var mnemonic = "pill meat skill bracket supreme column section begin cost sun arena purity";

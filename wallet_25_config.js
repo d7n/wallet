@@ -1,1 +1,1 @@
-var mnemonic = "universe range snake margin figure fame vendor dove bitter weapon vault quick";
+var mnemonic = "dragon list thing exclude gallery runway tell evolve enemy avoid mercy initial";

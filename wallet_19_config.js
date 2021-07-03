@@ -1,1 +1,1 @@
-var mnemonic = "curtain liquid what marble modify charge aerobic inside orange lunch minor paddle";
+var mnemonic = "crop cover bonus chair clutch receive excite struggle ask raven exhaust basic";

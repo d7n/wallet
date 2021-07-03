@@ -1,1 +1,1 @@
-var mnemonic = "antique virtual simple lottery clump brush correct trap absorb gauge leader armor";
+var mnemonic = "father core catalog spread culture galaxy ceiling tray walnut tide initial cushion";

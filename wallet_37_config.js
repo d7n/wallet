@@ -1,1 +1,1 @@
-var mnemonic = "bitter helmet walnut raccoon elephant rack wrestle oak hunt gloom travel share";
+var mnemonic = "junior foam effort aerobic patch orbit floor behave chef scale glad beyond";

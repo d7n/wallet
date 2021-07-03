@@ -1,1 +1,1 @@
-var mnemonic = "pole hill kingdom misery destroy portion scene tone evolve skirt museum income";
+var mnemonic = "actress baby century answer regret twin immense wealth biology noodle saddle manual";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm verify setup traffic priority sphere general radio oval prepare wish unique";
+var mnemonic = "skirt universe slam ignore when ginger bonus yard laundry female ugly patient";

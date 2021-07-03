@@ -1,1 +1,1 @@
-var mnemonic = "rice frequent guide bread success find climb quiz list melody buyer hole";
+var mnemonic = "swing total tumble true invest nerve movie original utility tortoise short snap";

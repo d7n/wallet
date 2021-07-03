@@ -1,1 +1,1 @@
-var mnemonic = "tumble master switch unveil fire panel inspire degree gas goddess impose bright";
+var mnemonic = "robot churn height innocent useless few post gift ketchup october hunt danger";

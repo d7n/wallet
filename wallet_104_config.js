@@ -1,1 +1,1 @@
-var mnemonic = "liberty jar student trash wing beef buyer subway rigid they attitude allow";
+var mnemonic = "between kid find surprise legend lesson multiply reward crumble reform regular enlist";

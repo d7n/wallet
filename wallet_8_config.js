@@ -1,1 +1,1 @@
-var mnemonic = "army coconut hour ripple proud similar hope level artefact uphold cereal curve";
+var mnemonic = "local erupt flash diagram reduce hill breeze grab used snow noise secret";

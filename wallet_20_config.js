@@ -1,1 +1,1 @@
-var mnemonic = "cycle scare will fold share member dune pumpkin capable shoe general ladder";
+var mnemonic = "chaos shrimp afford unable arrange intact gate model dice phrase stand night";

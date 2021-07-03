@@ -1,1 +1,1 @@
-var mnemonic = "father wolf sign canyon hello sail observe humor clarify lunar obvious any";
+var mnemonic = "want energy capable rabbit theory age consider tube island apart friend panel";

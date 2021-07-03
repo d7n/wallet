@@ -1,1 +1,1 @@
-var mnemonic = "envelope tortoise okay cat soap quit december coast invite orchard version journey";
+var mnemonic = "beyond syrup unknown average best select dash box fiscal start black evidence";

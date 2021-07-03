@@ -1,1 +1,1 @@
-var mnemonic = "whisper script submit electric fortune layer opera cattle poet ranch illness fancy";
+var mnemonic = "raise property biology need toss journey brand creek enact miracle jungle undo";

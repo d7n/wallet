@@ -1,1 +1,1 @@
-var mnemonic = "rich spoil churn favorite today insane test current hurry lab seek wink";
+var mnemonic = "advance amazing business example bean prepare vendor card little taxi smile motion";

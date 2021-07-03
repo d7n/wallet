@@ -1,1 +1,1 @@
-var mnemonic = "bitter cram crystal mountain athlete whip ball thunder master gossip upper train";
+var mnemonic = "hazard exercise onion despair option raccoon give consider other core option excess";

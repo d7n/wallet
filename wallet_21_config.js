@@ -1,1 +1,1 @@
-var mnemonic = "honey mosquito toast track fit kidney tumble negative eagle kiwi gentle toddler";
+var mnemonic = "surprise feed amateur solve measure obscure excuse mean cream eyebrow breeze like";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon series shed vessel marble quit warm history dove hammer silent brisk";
+var mnemonic = "client gasp problem grape ribbon want spike dawn crumble across essence warrior";

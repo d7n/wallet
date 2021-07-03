@@ -1,1 +1,1 @@
-var mnemonic = "alley hold scrap staff cousin target office lunar load gas caution note";
+var mnemonic = "tragic hedgehog they need elbow weather soul report inform cross forget sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "hover affair identify tuna comfort orchard nut dirt motion clean double slogan";
+var mnemonic = "share offer example snow soldier wealth into daughter throw wrong common pull";

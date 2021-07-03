@@ -1,1 +1,1 @@
-var mnemonic = "penalty page pond weather private siren crop key gain main inmate else";
+var mnemonic = "west beauty token suspect stuff copy talk easily walk spare oven quarter";

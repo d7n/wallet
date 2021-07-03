@@ -1,1 +1,1 @@
-var mnemonic = "spoil hamster gift camp win bottom volcano rude number shaft tortoise next";
+var mnemonic = "tent exact time awake pig sea method cook best butter napkin general";

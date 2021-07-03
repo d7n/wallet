@@ -1,1 +1,1 @@
-var mnemonic = "misery another inch adult announce design happy kidney track depend cancel cheap";
+var mnemonic = "document rather biology author fatal camera vehicle sell list bomb oxygen you";

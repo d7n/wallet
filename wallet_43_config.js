@@ -1,1 +1,1 @@
-var mnemonic = "belt shaft science monkey trade frozen animal model thing order snake dumb";
+var mnemonic = "extra crane noise shop panic immense slush grain angry report term suspect";

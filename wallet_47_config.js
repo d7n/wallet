@@ -1,1 +1,1 @@
-var mnemonic = "tourist town post nasty bundle forum february fan memory salmon helmet army";
+var mnemonic = "romance refuse rather van elevator deputy orphan steel rule enable wise home";

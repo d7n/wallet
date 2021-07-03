@@ -1,1 +1,1 @@
-var mnemonic = "law pet police never join feature toe away pyramid praise beef carpet";
+var mnemonic = "keep tobacco huge expand attack flock spatial tragic imitate silent print future";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate confirm online journey faculty day page disease eagle execute exact mother";
+var mnemonic = "finish uniform demise river same always turkey hazard dial dry cave wage";

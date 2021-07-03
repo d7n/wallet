@@ -1,1 +1,1 @@
-var mnemonic = "client clog please detect media pair quarter ordinary system demand age brother";
+var mnemonic = "symbol power narrow diesel zoo outside thank jewel isolate smart undo hood";

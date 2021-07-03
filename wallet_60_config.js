@@ -1,1 +1,1 @@
-var mnemonic = "end village iron act identify mind never hat point airport aerobic proud";
+var mnemonic = "first spice news find donate cart dust vicious since fault vicious empty";

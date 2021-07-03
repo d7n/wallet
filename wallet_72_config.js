@@ -1,1 +1,1 @@
-var mnemonic = "room almost sentence need zero neither scare twin skull ladder soda dirt";
+var mnemonic = "chase quiz rebel december arch dinner autumn hero canal swift payment bid";

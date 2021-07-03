@@ -1,1 +1,1 @@
-var mnemonic = "dentist settle wisdom pact simple east siege kangaroo cactus air cost lounge";
+var mnemonic = "ordinary patch alter toe lamp purity fantasy kidney gain wrong million please";

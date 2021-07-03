@@ -1,1 +1,1 @@
-var mnemonic = "loud ahead olive kit iron elegant receive sleep super concert spy verify";
+var mnemonic = "denial order curve proud regret best mandate lamp swift entry sausage debris";

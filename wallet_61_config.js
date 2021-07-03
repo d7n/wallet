@@ -1,1 +1,1 @@
-var mnemonic = "perfect grid cart dress leave essay oval mosquito surge actual umbrella neither";
+var mnemonic = "rough truth message loan burger moment awkward dentist once rhythm bunker put";

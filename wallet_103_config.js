@@ -1,1 +1,1 @@
-var mnemonic = "bacon lady used error picnic genuine foot sea token prosper father century";
+var mnemonic = "attract mosquito soon labor donkey blind town green ride length then hidden";

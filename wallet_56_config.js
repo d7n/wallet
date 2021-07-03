@@ -1,1 +1,1 @@
-var mnemonic = "sustain use unhappy bamboo chuckle slim myself glory style stage parent oppose";
+var mnemonic = "six exhaust blind police disorder ball tribe visual huge little pumpkin autumn";

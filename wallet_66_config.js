@@ -1,1 +1,1 @@
-var mnemonic = "hundred novel express bomb address place royal marriage transfer connect deny west";
+var mnemonic = "kangaroo bike pulse series certain impact trophy drift viable laundry drive copy";

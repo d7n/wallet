@@ -1,1 +1,1 @@
-var mnemonic = "tribe kitchen brother exact tourist lady catch lake resist local occur box";
+var mnemonic = "sport animal attend blast unit coyote armed brother hand retreat replace end";

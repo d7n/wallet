@@ -1,1 +1,1 @@
-var mnemonic = "choice bonus history switch family slow major woman vibrant prize effort cycle";
+var mnemonic = "fashion erosion jazz easily dry super hover symptom diamond east alter peanut";

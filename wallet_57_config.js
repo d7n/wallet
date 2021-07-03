@@ -1,1 +1,1 @@
-var mnemonic = "certain rebuild area tray first noble gift client flag clean stay inherit";
+var mnemonic = "bird album orphan bench west rebel cool juice parrot slice latin afford";

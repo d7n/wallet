@@ -1,1 +1,1 @@
-var mnemonic = "swap rabbit above jazz pretty program learn desert develop find palm excite";
+var mnemonic = "unveil sustain quit elbow upper item notable general release stage grief ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "fold noble horn humble cotton opera youth bag hint profit casual airport";
+var mnemonic = "away pulse host quality upgrade window sister leg harvest judge runway dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "hope deposit helmet easily drastic oblige window render quantum relax steak theme";
+var mnemonic = "remain general pass pumpkin again demand avocado require together position few chaos";

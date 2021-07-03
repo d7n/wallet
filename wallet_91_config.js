@@ -1,1 +1,1 @@
-var mnemonic = "inject split phone grow drill lunar envelope tomorrow win sauce street history";
+var mnemonic = "nephew shock grid pool digital spice hammer seat picture else young acoustic";

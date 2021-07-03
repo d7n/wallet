@@ -1,1 +1,1 @@
-var mnemonic = "myself squirrel index sibling dash eager final this farm curious scorpion taxi";
+var mnemonic = "false delay nominee wrap matter language atom battle defy lottery level position";

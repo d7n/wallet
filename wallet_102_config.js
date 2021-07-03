@@ -1,1 +1,1 @@
-var mnemonic = "feel obvious diesel media attitude tomorrow library blade cross fade uphold catch";
+var mnemonic = "senior gravity envelope yellow area survey illegal athlete column donkey ranch daring";

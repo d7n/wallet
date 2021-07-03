@@ -1,1 +1,1 @@
-var mnemonic = "room blossom measure pact kiss isolate fire snake crunch hawk dress universe";
+var mnemonic = "ecology square seed usage flight brush valley silk art obtain critic act";

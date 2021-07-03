@@ -1,1 +1,1 @@
-var mnemonic = "latin actress release silent myself alien aim glass gallery section weird inspire";
+var mnemonic = "wall fox settle coffee hour decline slogan unusual junk lake ill sign";

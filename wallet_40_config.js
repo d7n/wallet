@@ -1,1 +1,1 @@
-var mnemonic = "rubber image armed clean loyal hair forget net that snack bulb month";
+var mnemonic = "lake run cabbage one moment nut expose section enter double income hole";

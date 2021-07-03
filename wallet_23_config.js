@@ -1,1 +1,1 @@
-var mnemonic = "shiver snack cruise insect wood robot swap trick gym napkin file sort";
+var mnemonic = "reject trip run below neutral museum audit echo duck minimum mercy fade";

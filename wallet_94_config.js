@@ -1,1 +1,1 @@
-var mnemonic = "sadness discover tide assault obscure major reward pond buyer stick life copper";
+var mnemonic = "drama floor result return balcony agent connect chef portion success train agent";

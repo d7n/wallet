@@ -1,1 +1,1 @@
-var mnemonic = "crash age advice vote force arrive great panda thrive egg undo race";
+var mnemonic = "trumpet humor donate cruel angle obey pear mother initial century olive neutral";

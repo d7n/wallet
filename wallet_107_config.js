@@ -1,1 +1,1 @@
-var mnemonic = "advice elegant dentist post device brain elegant mouse dwarf skate mansion purse";
+var mnemonic = "material typical jeans wedding resource winter such retreat caution woman market absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt priority trumpet hundred evidence hat list plug silk noble layer never";
+var mnemonic = "curtain member blossom extra wealth party slight champion salute cupboard senior naive";

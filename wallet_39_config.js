@@ -1,1 +1,1 @@
-var mnemonic = "amount crunch wall olympic scissors clip wedding simple gold kitchen veteran visa";
+var mnemonic = "wrestle sunny approve burden tone yellow school capital bone bench frown heavy";

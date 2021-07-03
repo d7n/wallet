@@ -1,1 +1,1 @@
-var mnemonic = "session amused giraffe crane edit snow detect march must risk scatter angle";
+var mnemonic = "wrist drop scale universe oppose blue six caught sword genius piano print";

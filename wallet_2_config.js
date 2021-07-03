@@ -1,1 +1,1 @@
-var mnemonic = "split rug margin music phone iron glory decide question fetch exhibit license";
+var mnemonic = "hire crouch decrease frost symbol animal disorder blur abstract alien corn unhappy";

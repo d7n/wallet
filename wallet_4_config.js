@@ -1,1 +1,1 @@
-var mnemonic = "hello stick coach auto almost element oyster donor power fringe crucial uncle";
+var mnemonic = "forum similar bench special bulb basket pipe seven drive royal vehicle rather";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion whip already ugly chalk noodle audit service unfold mind trip together";
+var mnemonic = "reveal cost arena online credit blur oyster taxi cool drill head excite";

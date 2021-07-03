@@ -1,1 +1,1 @@
-var mnemonic = "rally sell buzz skin oil gauge carry state vocal mutual mouse region";
+var mnemonic = "core evolve dish captain slender bargain day glue gym equal skull enforce";

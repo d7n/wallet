@@ -1,1 +1,1 @@
-var mnemonic = "collect share hood license quick cactus symbol display skirt chalk summer tackle";
+var mnemonic = "sweet glad army miss since subway quantum merge seven laundry reward ugly";

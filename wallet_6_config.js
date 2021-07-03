@@ -1,1 +1,1 @@
-var mnemonic = "false negative luggage spider change squirrel alert lemon gas welcome voyage athlete";
+var mnemonic = "impulse chuckle truly mosquito artwork father grass dune pretty sting airport assist";

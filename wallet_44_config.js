@@ -1,1 +1,1 @@
-var mnemonic = "dutch priority chimney trigger grape glimpse circle omit plug fitness slight census";
+var mnemonic = "sleep sustain assume globe game giant thumb spy current flower trash clock";

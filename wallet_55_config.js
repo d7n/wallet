@@ -1,1 +1,1 @@
-var mnemonic = "frown prefer invest quarter unhappy club warfare holiday slim bar gown burger";
+var mnemonic = "exit silver derive present shallow acoustic capable gossip crouch become subway bulk";

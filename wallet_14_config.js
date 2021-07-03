@@ -1,1 +1,1 @@
-var mnemonic = "wheat search green network wheat main sand run wife mobile shine mirror";
+var mnemonic = "regret bleak skate lobster force casual result humor inspire exit ability odor";

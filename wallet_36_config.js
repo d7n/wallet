@@ -1,1 +1,1 @@
-var mnemonic = "dove alpha taxi disorder case sentence decline frog hen soup flash cloud";
+var mnemonic = "company tower surprise seminar scale funny major script nurse machine swing marble";

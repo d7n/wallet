@@ -1,1 +1,1 @@
-var mnemonic = "annual when demise search expect spot busy hover differ kid october violin";
+var mnemonic = "maid lottery million trend dog record motor tongue current monkey must pulse";

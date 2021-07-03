@@ -1,1 +1,1 @@
-var mnemonic = "casino borrow deliver magnet birth timber chuckle satoshi fiscal cliff struggle skull";
+var mnemonic = "picture hungry speak stove message ketchup demand session slight marriage shaft step";

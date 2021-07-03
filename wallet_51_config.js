@@ -1,1 +1,1 @@
-var mnemonic = "space picnic mixed code sunny dust box occur draft meadow polar squirrel";
+var mnemonic = "antique offer expire buddy together amount kit potato order dwarf margin grid";

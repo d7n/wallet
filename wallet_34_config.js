@@ -1,1 +1,1 @@
-var mnemonic = "flavor defy tool warm drive vintage wagon pitch jealous apology defense either";
+var mnemonic = "cake chief remember omit grocery cheese liberty quiz high scrub trade input";

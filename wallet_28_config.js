@@ -1,1 +1,1 @@
-var mnemonic = "slow math member believe true rose olympic solution gas scan open clean";
+var mnemonic = "thank glance boat opera balance pilot obvious point swarm bachelor cancel tonight";

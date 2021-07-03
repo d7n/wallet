@@ -1,1 +1,1 @@
-var mnemonic = "shrug smoke excuse render retire sting mammal wrist unusual satisfy arm promote";
+var mnemonic = "arm acid wisdom appear devote fossil viable rubber napkin permit sphere claw";

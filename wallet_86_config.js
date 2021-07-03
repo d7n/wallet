@@ -1,1 +1,1 @@
-var mnemonic = "defy embark hope tree chuckle post twist strike tongue income cattle already";
+var mnemonic = "cake million beach engine busy card exact guilt raccoon task student timber";

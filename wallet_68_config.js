@@ -1,1 +1,1 @@
-var mnemonic = "among siege pony early auto pair sort duck omit retreat captain dish";
+var mnemonic = "grace blouse lunar enact carpet desert animal seed educate cloth skill engage";
