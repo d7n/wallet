@@ -1,1 +1,1 @@
-var mnemonic = "volume cherry cake act execute problem muscle dutch net pair jewel salt";
+var mnemonic = "goddess fly wagon lock like buddy helmet fine hybrid sick front segment";

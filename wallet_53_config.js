@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow yellow marble world affair radio sword sort ivory dirt such pair";
+var mnemonic = "current hollow addict enroll twenty rough aerobic mother glad amateur object matrix";

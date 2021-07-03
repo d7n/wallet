@@ -1,1 +1,1 @@
-var mnemonic = "black gold tent faint kid love venture budget pattern slide strategy skull";
+var mnemonic = "manage south timber attend obvious clever shiver gym chat crouch seek skirt";

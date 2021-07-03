@@ -1,1 +1,1 @@
-var mnemonic = "celery depend promote dynamic deliver metal erase battle frozen ghost penalty three";
+var mnemonic = "come bag van ozone clay purpose session sell door above achieve ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky rough tip hobby warrior session distance latin video skirt today cruise";
+var mnemonic = "theory pigeon pigeon panic organ over taxi lottery police return entire thing";

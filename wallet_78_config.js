@@ -1,1 +1,1 @@
-var mnemonic = "excess dirt artist shiver orchard elbow jewel hub segment expire diesel motor";
+var mnemonic = "ancient movie promote neutral post magnet clerk cheese decrease tent arena blur";

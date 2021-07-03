@@ -1,1 +1,1 @@
-var mnemonic = "camera bone tilt gold tribe input jeans spare material giraffe galaxy antique";
+var mnemonic = "supreme ritual awkward ten fault school cousin hat hard number agree spell";

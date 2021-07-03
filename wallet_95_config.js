@@ -1,1 +1,1 @@
-var mnemonic = "truth cable lobster city gentle disagree uncover detect flight economy annual treat";
+var mnemonic = "green athlete blur stereo own canoe wagon media able gloom upgrade panel";

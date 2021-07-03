@@ -1,1 +1,1 @@
-var mnemonic = "ketchup debate talk dwarf release material elevator spell glow draw eager false";
+var mnemonic = "hungry private garage anchor sweet put word manual armor cancel employ smooth";

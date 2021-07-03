@@ -1,1 +1,1 @@
-var mnemonic = "monkey scan rude interest demand bread ostrich relief enable also regular hamster";
+var mnemonic = "slow orient whisper never parrot fan cargo genius february circle enter meat";

@@ -1,1 +1,1 @@
-var mnemonic = "news elegant intact mistake ridge weapon devote mammal donor fuel sick fitness";
+var mnemonic = "require film energy planet detect flip spawn evidence dynamic year film height";

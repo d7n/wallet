@@ -1,1 +1,1 @@
-var mnemonic = "crumble own accident piano fault dress scheme flee destroy nerve hybrid artefact";
+var mnemonic = "imitate chaos drum cruel cement want unique upgrade split drama bullet century";

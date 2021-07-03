@@ -1,1 +1,1 @@
-var mnemonic = "fruit kingdom praise man category nominee canyon damage tired joke burger circle";
+var mnemonic = "lift salon only radio vibrant define attitude forest fringe vivid oxygen ivory";

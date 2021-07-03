@@ -1,1 +1,1 @@
-var mnemonic = "title sleep elbow alpha ketchup envelope crystal genuine spike estate transfer barrel";
+var mnemonic = "drip ozone alone hole universe buzz nature track purpose disease chunk fiscal";

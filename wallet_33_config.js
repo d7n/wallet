@@ -1,1 +1,1 @@
-var mnemonic = "turkey robust twice pair genius maximum mobile better eyebrow apart drive avocado";
+var mnemonic = "firm observe venue light giraffe omit skull ticket egg round excuse rely";

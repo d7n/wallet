@@ -1,1 +1,1 @@
-var mnemonic = "under mesh little fee girl orbit draw dance forest monkey undo crystal";
+var mnemonic = "pudding clock reduce spike town cigar boss left lizard will bus edit";

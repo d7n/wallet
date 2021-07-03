@@ -1,1 +1,1 @@
-var mnemonic = "amused brain surround cake home spoon curious collect hair spatial family kidney";
+var mnemonic = "decrease edit output slow extend roast empty clever mother follow exercise milk";

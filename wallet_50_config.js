@@ -1,1 +1,1 @@
-var mnemonic = "shallow room crime aim echo neutral wage mutual elbow upset boss pair";
+var mnemonic = "hurdle cream suffer series diagram siege inmate citizen joy trophy anchor account";

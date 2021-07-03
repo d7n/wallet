@@ -1,1 +1,1 @@
-var mnemonic = "elephant exhibit always wrist reward range jewel float chalk symbol siren memory";
+var mnemonic = "impact hint ask help regular door become under main fitness word garment";

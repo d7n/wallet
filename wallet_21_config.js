@@ -1,1 +1,1 @@
-var mnemonic = "shy tell trip grit used success cushion fire moral reflect submit abstract";
+var mnemonic = "song change scheme sail coast stem about raise trip aspect another emotion";

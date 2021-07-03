@@ -1,1 +1,1 @@
-var mnemonic = "monster arrange hood throw prefer stamp giggle cloud pool keen trim eyebrow";
+var mnemonic = "shuffle learn umbrella winner reform fox smile company credit oppose typical slush";

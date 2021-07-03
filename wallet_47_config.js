@@ -1,1 +1,1 @@
-var mnemonic = "scrap length forward devote art faith like change sudden crush rookie blouse";
+var mnemonic = "owner sun giraffe march monitor horror elevator guilt eight spice volcano cover";

@@ -1,1 +1,1 @@
-var mnemonic = "enter wait gun supply absorb mad omit obscure north machine guard until";
+var mnemonic = "fluid before pulse dial dutch month vendor dune load choice elbow govern";

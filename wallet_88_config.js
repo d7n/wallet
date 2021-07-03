@@ -1,1 +1,1 @@
-var mnemonic = "stamp trend thing offer project annual gym sign green unaware problem swarm";
+var mnemonic = "fetch market zebra skin kingdom leader pen again hurry stereo fall ankle";

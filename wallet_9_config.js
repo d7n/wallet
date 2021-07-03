@@ -1,1 +1,1 @@
-var mnemonic = "canal parade wrap situate actress uphold general wide enjoy stadium enhance casino";
+var mnemonic = "rib shoot frog stand danger skin off sword shift flee arrive mammal";

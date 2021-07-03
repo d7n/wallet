@@ -1,1 +1,1 @@
-var mnemonic = "price river current sweet crowd educate book correct almost snake digital position";
+var mnemonic = "narrow vital charge vital pattern hire moral property twelve benefit crawl fury";

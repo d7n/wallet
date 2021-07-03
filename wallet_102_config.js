@@ -1,1 +1,1 @@
-var mnemonic = "rocket valid amateur control lawn episode suit home tortoise trial raccoon thought";
+var mnemonic = "bulk evidence glad organ crop camera room unique pyramid hungry spell merit";

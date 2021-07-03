@@ -1,1 +1,1 @@
-var mnemonic = "office jaguar theme robust large master give enlist caution soap control leaf";
+var mnemonic = "account voice wrap source spider initial panel try action stand poet begin";

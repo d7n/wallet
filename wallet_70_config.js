@@ -1,1 +1,1 @@
-var mnemonic = "crucial word install matter clock remind kitchen game slide board finish bleak";
+var mnemonic = "way frog pull west canoe hidden decrease anchor section people wrong sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "okay lizard grant remember supreme allow barely protect aisle apart measure away";
+var mnemonic = "repeat attack water gas task submit become make lava quit bulk device";

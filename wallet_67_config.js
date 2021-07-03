@@ -1,1 +1,1 @@
-var mnemonic = "expire best slender fence woman budget quit myself security scene modify divorce";
+var mnemonic = "adjust piece tiger change march humble allow dumb turtle panel please anxiety";

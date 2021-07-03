@@ -1,1 +1,1 @@
-var mnemonic = "maple want rug amount oyster harvest milk apple depend favorite auto ostrich";
+var mnemonic = "grunt grid useless document mix dynamic bag slice aerobic deliver issue physical";

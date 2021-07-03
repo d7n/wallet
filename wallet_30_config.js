@@ -1,1 +1,1 @@
-var mnemonic = "marine rain rotate enrich unknown zebra various minimum cruel help supply frost";
+var mnemonic = "mercy portion brand possible under arrow dance merge polar skin fatigue strategy";

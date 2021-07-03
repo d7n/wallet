@@ -1,1 +1,1 @@
-var mnemonic = "desert brave deal multiply rib affair market erosion pony possible cup dove";
+var mnemonic = "arrest buffalo grass educate spend cost alarm sun toy swing invite then";

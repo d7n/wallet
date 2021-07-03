@@ -1,1 +1,1 @@
-var mnemonic = "crumble plunge demand skull expire banana inner divorce symbol great evoke young";
+var mnemonic = "tone life pill climb sniff crumble toy erode warfare door guide dragon";

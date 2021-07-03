@@ -1,1 +1,1 @@
-var mnemonic = "other blast cousin kiwi switch inside output banana measure cross purse basic";
+var mnemonic = "leader retire pudding hospital brief midnight coffee fitness vague grief share fork";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare lady worth forum bubble sound hotel link habit mask member color";
+var mnemonic = "next domain level tobacco merge bitter roast soccer craft stage dance whip";

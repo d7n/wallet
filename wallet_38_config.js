@@ -1,1 +1,1 @@
-var mnemonic = "six shoot wheat zebra artist demand toy royal elephant album outside among";
+var mnemonic = "final train stem kingdom spread scout amazing blouse claim penalty lucky fix";

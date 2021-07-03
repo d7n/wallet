@@ -1,1 +1,1 @@
-var mnemonic = "puzzle nominee neglect lady pitch timber fragile birth ask ginger hospital sausage";
+var mnemonic = "slight illegal school spawn casino step hospital focus move flash deliver tomorrow";

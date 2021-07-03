@@ -1,1 +1,1 @@
-var mnemonic = "match result airport render scan virus rubber verb still lazy lake rich";
+var mnemonic = "hero duty grief panther tenant open cake envelope ritual because buddy adapt";

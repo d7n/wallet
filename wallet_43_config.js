@@ -1,1 +1,1 @@
-var mnemonic = "wool tower shell stem convince wreck bargain alcohol boring dolphin odor hard";
+var mnemonic = "ankle reopen pool kitten tone panel corn symptom clean animal camp dynamic";

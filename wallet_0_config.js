@@ -1,1 +1,1 @@
-var mnemonic = "educate wall much slush horse spare gentle burden rapid glimpse regular front";
+var mnemonic = "moon ladder toast public under culture use organ moment meat fame tobacco";

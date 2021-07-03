@@ -1,1 +1,1 @@
-var mnemonic = "flush cost tuition soul cabin leaf blade glad thing cruise blanket crush";
+var mnemonic = "vendor brown length clump razor dentist maid hungry bottom total vehicle remember";

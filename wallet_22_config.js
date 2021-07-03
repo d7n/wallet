@@ -1,1 +1,1 @@
-var mnemonic = "umbrella update dumb mesh gain saddle bulk pair reflect tooth mechanic rubber";
+var mnemonic = "uncle allow rail elegant vehicle tragic shrug ladder glue gravity horror minor";

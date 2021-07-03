@@ -1,1 +1,1 @@
-var mnemonic = "race spider wedding spike timber flat bind luxury tuition thank since mail";
+var mnemonic = "punch correct swim keep silk town dream grocery gather fatal tenant same";

@@ -1,1 +1,1 @@
-var mnemonic = "soft sword glimpse reward cheap town shed shrimp alien flavor velvet ugly";
+var mnemonic = "shoot episode frequent drive also autumn conduct hunt major system maid weasel";

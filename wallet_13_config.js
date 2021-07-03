@@ -1,1 +1,1 @@
-var mnemonic = "board lunar mammal uncover budget exotic bracket program admit civil master proud";
+var mnemonic = "only plate uniform stage outer shove cart ice taxi beyond lobster alone";

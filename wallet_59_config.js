@@ -1,1 +1,1 @@
-var mnemonic = "absent rebel normal student range soda tortoise lock army piece drum become";
+var mnemonic = "enact size razor loud east piano math very hello misery anchor fence";

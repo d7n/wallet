@@ -1,1 +1,1 @@
-var mnemonic = "dress genuine recycle bundle skin curious crane rhythm flee pact enough culture";
+var mnemonic = "relax prefer length token rigid seed under injury inner problem match skull";

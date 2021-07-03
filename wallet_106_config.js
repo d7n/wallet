@@ -1,1 +1,1 @@
-var mnemonic = "parent video ice picture uphold like strong hungry lottery aerobic lamp explain";
+var mnemonic = "sleep source public video involve index toy subway enter crouch injury riot";

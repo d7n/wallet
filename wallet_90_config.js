@@ -1,1 +1,1 @@
-var mnemonic = "pigeon hold task dish license sphere easily flower thought gain mesh beef";
+var mnemonic = "town demise journey dinosaur fit pen raise ignore drip tiger story appear";

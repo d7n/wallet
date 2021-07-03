@@ -1,1 +1,1 @@
-var mnemonic = "caution normal figure wave guide avoid actual flight tilt bench cliff wave";
+var mnemonic = "easy half tell impulse peanut inner upper cigar twin educate bread general";

@@ -1,1 +1,1 @@
-var mnemonic = "about upgrade coyote genius fatigue true normal depend sadness solar used health";
+var mnemonic = "shine oil enough mango banana need lottery rent nuclear noodle crime flee";

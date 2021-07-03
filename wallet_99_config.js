@@ -1,1 +1,1 @@
-var mnemonic = "unhappy shove very dish arm arctic sadness kiwi yellow situate quality common";
+var mnemonic = "deny entry cannon dice slight hire hour rain lumber security between dove";

@@ -1,1 +1,1 @@
-var mnemonic = "purse during crawl flavor spoon champion view matter right lesson trophy broken";
+var mnemonic = "play dilemma life steel slender harvest choose citizen gown among wisdom arrive";

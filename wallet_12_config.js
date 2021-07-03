@@ -1,1 +1,1 @@
-var mnemonic = "success flag common action penalty winner patch provide disorder identify silver pet";
+var mnemonic = "shrimp spirit warrior couch project region orient oyster iron begin elegant casino";

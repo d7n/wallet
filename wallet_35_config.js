@@ -1,1 +1,1 @@
-var mnemonic = "copy view cost rare video powder adapt foot aware butter fiber decade";
+var mnemonic = "valid pretty virtual ten female toddler title profit vocal knee near camera";

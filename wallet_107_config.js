@@ -1,1 +1,1 @@
-var mnemonic = "output weird what giraffe bullet detail memory online obey stadium leisure digital";
+var mnemonic = "evoke advice supply pudding tornado student office rent virus wool metal obey";

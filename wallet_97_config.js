@@ -1,1 +1,1 @@
-var mnemonic = "audit chief wise evolve since army dilemma quarter ten dwarf able crawl";
+var mnemonic = "bubble nice spring wife modify jeans firm tomorrow ceiling legend exhibit tissue";

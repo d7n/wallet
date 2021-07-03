@@ -1,1 +1,1 @@
-var mnemonic = "daring amused review boring elbow mind feel armor true size trim armed";
+var mnemonic = "fiber wear dolphin area crucial van fun walnut blind puzzle bag tuition";

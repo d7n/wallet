@@ -1,1 +1,1 @@
-var mnemonic = "casino joy scatter panther message ozone entire outside reopen south faint daughter";
+var mnemonic = "flag about weird inherit conduct sort vapor prosper improve shoe shaft furnace";

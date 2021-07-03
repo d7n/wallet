@@ -1,1 +1,1 @@
-var mnemonic = "diesel toe ranch dove good used guilt tackle image danger boring snack";
+var mnemonic = "cancel shine mimic sign dove enemy loud wrist old harvest magnet canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "silk symptom eight paddle vicious hero find dismiss defense unlock ginger shove";
+var mnemonic = "bitter clever file display sand nut luxury bless fury solid cluster leave";

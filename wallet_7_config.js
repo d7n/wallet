@@ -1,1 +1,1 @@
-var mnemonic = "stamp pepper obey popular album ridge plunge alcohol because east object escape";
+var mnemonic = "aspect amount firm topic walk cricket hobby begin stay pluck blanket swift";

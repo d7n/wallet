@@ -1,1 +1,1 @@
-var mnemonic = "glimpse angle squirrel verify work coin kangaroo consider void miracle couple salmon";
+var mnemonic = "rebel gentle joy polar busy letter dream away another tooth ice happy";

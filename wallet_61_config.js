@@ -1,1 +1,1 @@
-var mnemonic = "hollow report august maze expose outdoor this recall harvest empower slim label";
+var mnemonic = "plug accuse mandate jewel raw garlic satoshi number kiss high thank episode";

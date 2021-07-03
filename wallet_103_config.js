@@ -1,1 +1,1 @@
-var mnemonic = "biology permit seed grocery unit twist type bullet usual settle supply mutual";
+var mnemonic = "cargo rich abandon wire unique scatter enforce elevator install pretty purity custom";

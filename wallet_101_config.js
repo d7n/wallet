@@ -1,1 +1,1 @@
-var mnemonic = "fee ozone gossip rebel lawn fatal fatal print liar trip trade artist";
+var mnemonic = "song like inspire original nest digital because fruit render assist finger half";

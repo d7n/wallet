@@ -1,1 +1,1 @@
-var mnemonic = "spy trash enemy animal tackle bless evidence boss sentence hip all survey";
+var mnemonic = "crazy spatial vote whale invest movie display degree fish action dismiss lizard";

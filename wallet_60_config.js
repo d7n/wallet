@@ -1,1 +1,1 @@
-var mnemonic = "tape stomach amazing obey fitness can engine police survey industry soft average";
+var mnemonic = "dragon vicious spoil dolphin clap pigeon remind vote couch dynamic fork aware";

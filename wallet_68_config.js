@@ -1,1 +1,1 @@
-var mnemonic = "basic winner photo walk prefer slow master vault avoid sense lecture mouse";
+var mnemonic = "witness pepper soldier kind news zoo force year metal eternal enact latin";

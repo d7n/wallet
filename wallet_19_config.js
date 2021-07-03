@@ -1,1 +1,1 @@
-var mnemonic = "cool seed uniform mystery seat volume force juice winter world deer couch";
+var mnemonic = "recall knife visual ripple viable clutch enough split person traffic quit enjoy";

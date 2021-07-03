@@ -1,1 +1,1 @@
-var mnemonic = "junior educate few school gain verify lake junior energy vital vital heavy";
+var mnemonic = "inform behave slow select primary design quiz unveil someone attend blood gate";

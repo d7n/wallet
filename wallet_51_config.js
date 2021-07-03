@@ -1,1 +1,1 @@
-var mnemonic = "unaware total lake tail drop nerve gloom icon magnet range ozone trip";
+var mnemonic = "anchor sibling camp artefact mail require poem skin list trigger post organ";

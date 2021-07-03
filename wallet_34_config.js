@@ -1,1 +1,1 @@
-var mnemonic = "vocal capable blanket thrive equal during autumn good trouble evolve slam since";
+var mnemonic = "salute result laundry genre must visa roof animal someone buzz outdoor approve";

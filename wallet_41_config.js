@@ -1,1 +1,1 @@
-var mnemonic = "cheese divorce play bean art speed cheese anger water tuition lunar asthma";
+var mnemonic = "analyst cause marble minute remember clap vast stand sick long story tissue";

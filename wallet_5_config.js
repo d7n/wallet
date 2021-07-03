@@ -1,1 +1,1 @@
-var mnemonic = "fruit canoe alone cool wire sibling cost link area farm elephant loud";
+var mnemonic = "weapon slush nice soup remove mix various soccer sponsor educate mean theme";

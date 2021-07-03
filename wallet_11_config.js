@@ -1,1 +1,1 @@
-var mnemonic = "dilemma aspect work faint disease all sunset bar rug beyond clock access";
+var mnemonic = "pioneer announce gossip danger trend cause gun decorate stem hip celery duck";

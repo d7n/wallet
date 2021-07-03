@@ -1,1 +1,1 @@
-var mnemonic = "merry cereal east snap night sniff exit bread fabric tail asset circle";
+var mnemonic = "kit portion flush world advance soft pause item jacket wife casino smile";

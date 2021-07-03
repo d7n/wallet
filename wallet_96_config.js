@@ -1,1 +1,1 @@
-var mnemonic = "lemon vague carry fade junior seven humble flag control derive useless churn";
+var mnemonic = "below yellow become mind copper height useless fashion cigar enjoy marble penalty";

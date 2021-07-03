@@ -1,1 +1,1 @@
-var mnemonic = "wait rifle bicycle please pool stomach cage envelope armed mimic never voyage";
+var mnemonic = "flight clutch nurse broccoli barely valid blossom shove hint never file middle";

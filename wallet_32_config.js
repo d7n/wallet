@@ -1,1 +1,1 @@
-var mnemonic = "humble evolve mobile pudding guilt book link table defy cash curve renew";
+var mnemonic = "dress inch use upset opinion funny purpose dust basic distance brush remember";

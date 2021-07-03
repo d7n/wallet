@@ -1,1 +1,1 @@
-var mnemonic = "auto team bargain similar fiscal rookie fringe increase dance old reform speed";
+var mnemonic = "ramp enough spoon alcohol shuffle market miracle parent hand page situate captain";

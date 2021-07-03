@@ -1,1 +1,1 @@
-var mnemonic = "grocery slush ahead shuffle town exact kitchen segment below warm bone emerge";
+var mnemonic = "pony stone planet urge wine velvet negative beyond soul pole craft family";

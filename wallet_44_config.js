@@ -1,1 +1,1 @@
-var mnemonic = "ski sort pudding market humble lawn scan easily bless tortoise hope surface";
+var mnemonic = "obscure fall trust season recycle dignity theory motion wool picnic like patient";
