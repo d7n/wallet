@@ -1,1 +1,1 @@
-var mnemonic = "vacuum car general verb imitate humor rifle swarm life twenty gate animal";
+var mnemonic = "cherry water infant battle unusual hedgehog slender what review swap neck apology";

@@ -1,1 +1,1 @@
-var mnemonic = "assist tourist honey leg sunset describe identify grunt butter success basic funny";
+var mnemonic = "vibrant health reward bone quiz they toss fever another decline knock inhale";

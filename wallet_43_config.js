@@ -1,1 +1,1 @@
-var mnemonic = "zebra wild face develop hammer hybrid meadow stand glue joke cloud census";
+var mnemonic = "loop crush neutral nominee balcony marine relief carbon affair profit drama apart";

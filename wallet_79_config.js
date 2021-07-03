@@ -1,1 +1,1 @@
-var mnemonic = "behind cry cycle extend piece balance buddy brain picture orbit filter promote";
+var mnemonic = "match focus exit adult angle flame water thrive notice fossil chronic foot";

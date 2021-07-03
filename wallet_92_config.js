@@ -1,1 +1,1 @@
-var mnemonic = "fly suggest garden wild equal enough burger actress laugh tray exclude true";
+var mnemonic = "utility virtual grid fault erode scale size early grant call knife latin";

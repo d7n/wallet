@@ -1,1 +1,1 @@
-var mnemonic = "coach movie seed addict story tooth impulse same guess elevator order surface";
+var mnemonic = "pulse nice mechanic earth rapid minor wing work renew street total caution";

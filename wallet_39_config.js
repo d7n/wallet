@@ -1,1 +1,1 @@
-var mnemonic = "sight term pool sword pretty swallow hold coyote vast leaf inquiry build";
+var mnemonic = "glow radar legend peasant tumble six barrel inflict bright barely exclude wide";

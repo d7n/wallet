@@ -1,1 +1,1 @@
-var mnemonic = "spread husband sell miracle door derive assume system absent bullet polar rather";
+var mnemonic = "world minor fringe ritual harbor mouse mule drift crack cool involve world";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen blossom nerve wall cook buzz peace turn muffin tornado life system";
+var mnemonic = "law merry spice prison foil pony immense private voice push believe taxi";

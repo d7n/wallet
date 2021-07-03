@@ -1,1 +1,1 @@
-var mnemonic = "you deal category pyramid there canvas lion cross scale stove afraid mercy";
+var mnemonic = "sustain art lamp mechanic original alter fit then sail attack muscle document";

@@ -1,1 +1,1 @@
-var mnemonic = "tag clay myself elbow various bomb process fortune blue snack amazing trophy";
+var mnemonic = "boost virus tissue voice hour gravity warm expose ocean guilt tattoo loyal";

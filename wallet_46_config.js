@@ -1,1 +1,1 @@
-var mnemonic = "thought artwork enlist happy dash amount jelly canoe liberty immune mind sting";
+var mnemonic = "clean ill iron amused session bread erase room penalty valve someone educate";

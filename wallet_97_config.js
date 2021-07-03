@@ -1,1 +1,1 @@
-var mnemonic = "symptom normal chimney later fit youth dynamic lion brand claim insane uncover";
+var mnemonic = "electric average drill bamboo left gospel cabbage future kite quiz trade winter";

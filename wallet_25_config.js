@@ -1,1 +1,1 @@
-var mnemonic = "they uphold daughter ivory reject gorilla also teach bone soap wonder junior";
+var mnemonic = "language next mix patrol slam say rose service guide winner exchange outside";

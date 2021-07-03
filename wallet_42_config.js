@@ -1,1 +1,1 @@
-var mnemonic = "trim luggage essence lemon panther nation village neutral join glide ten camp";
+var mnemonic = "wall discover tornado anxiety paddle casino cause where shell science area again";

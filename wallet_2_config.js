@@ -1,1 +1,1 @@
-var mnemonic = "twist engage large cliff topic muscle grant tribe orange hope stumble nerve";
+var mnemonic = "all path strategy response question clown blanket flush water domain over clock";

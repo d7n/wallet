@@ -1,1 +1,1 @@
-var mnemonic = "comfort dwarf cereal volcano beach right believe great upgrade owner front mask";
+var mnemonic = "valid ordinary damage apple have secret observe box all together light tray";

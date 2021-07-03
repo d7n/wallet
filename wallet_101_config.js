@@ -1,1 +1,1 @@
-var mnemonic = "fever decade various popular canal vintage salute put chuckle lava trade try";
+var mnemonic = "enhance capable control member crunch unknown mosquito apple shadow message dolphin trouble";

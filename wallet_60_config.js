@@ -1,1 +1,1 @@
-var mnemonic = "student snack immense melt suffer satoshi scatter final dizzy true brisk once";
+var mnemonic = "hair canvas sell hurry bitter bar vanish call hole biology trade alpha";

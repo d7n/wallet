@@ -1,1 +1,1 @@
-var mnemonic = "zoo only try endorse whale wish inquiry simple sock elder escape devote";
+var mnemonic = "recall garbage remind leave wait suit replace airport fold obey tourist crop";

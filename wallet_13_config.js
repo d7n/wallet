@@ -1,1 +1,1 @@
-var mnemonic = "test plunge club prevent awake old diagram lumber bargain novel glove quantum";
+var mnemonic = "sunny purse visit garlic sound lecture benefit diet display federal upon body";

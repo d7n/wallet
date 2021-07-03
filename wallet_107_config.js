@@ -1,1 +1,1 @@
-var mnemonic = "nasty harvest soup purchase wool parent process entry honey practice device cash";
+var mnemonic = "tell foam sugar steel urban maple young fetch fold brave royal suspect";

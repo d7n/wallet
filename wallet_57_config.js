@@ -1,1 +1,1 @@
-var mnemonic = "ski rate stand umbrella vocal sheriff motor pelican patch easy live arena";
+var mnemonic = "crazy keen science kitchen mom wet such theory admit dizzy tuition act";

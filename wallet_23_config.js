@@ -1,1 +1,1 @@
-var mnemonic = "keen one gun height guard used slot replace injury noble young jazz";
+var mnemonic = "crane wash merit interest rude code place model furnace spy liquid jeans";

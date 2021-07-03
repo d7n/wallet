@@ -1,1 +1,1 @@
-var mnemonic = "indicate invest access team rain match surprise ship initial call involve slight";
+var mnemonic = "wisdom escape layer ticket trap wood sudden grant board rather muscle mammal";

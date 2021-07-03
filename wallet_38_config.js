@@ -1,1 +1,1 @@
-var mnemonic = "toddler recipe permit odor popular shuffle wall trick plunge promote circle swallow";
+var mnemonic = "control shoe arena call gun virus outer tank detect need iron arctic";

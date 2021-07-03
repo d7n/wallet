@@ -1,1 +1,1 @@
-var mnemonic = "fire ghost million borrow there there armed acquire note scene swing jacket";
+var mnemonic = "object fantasy dash rifle behind kidney hood diesel connect use mixture tip";

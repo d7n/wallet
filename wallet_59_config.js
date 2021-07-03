@@ -1,1 +1,1 @@
-var mnemonic = "donor rough today wet educate museum pluck man fossil draft distance essence";
+var mnemonic = "level mobile aim elder tone kick nominee doll gentle trade immense teach";

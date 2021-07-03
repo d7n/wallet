@@ -1,1 +1,1 @@
-var mnemonic = "sense lawsuit maple someone peace shoulder rate flock iron antenna abstract stadium";
+var mnemonic = "evil gain maid notable stairs lounge silent second assist arena motor mandate";

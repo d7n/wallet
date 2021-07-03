@@ -1,1 +1,1 @@
-var mnemonic = "enjoy pair boat turn piano assist mansion relief century add minute knock";
+var mnemonic = "tobacco negative relax spirit copy claim loud describe fun burden pause brother";

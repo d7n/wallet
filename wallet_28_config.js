@@ -1,1 +1,1 @@
-var mnemonic = "matter grass logic medal dilemma retreat repair coconut high shift notice middle";
+var mnemonic = "shop express fun tell maid imitate couch knife blind enroll shield board";

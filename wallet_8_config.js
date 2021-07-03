@@ -1,1 +1,1 @@
-var mnemonic = "glimpse prevent hat right genuine weird gorilla evoke execute misery teach envelope";
+var mnemonic = "habit jewel hotel punch width street toe steel gossip circle entry warm";

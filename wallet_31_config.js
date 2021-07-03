@@ -1,1 +1,1 @@
-var mnemonic = "hurdle shoe entry wife shift stay frown letter ordinary damp document around";
+var mnemonic = "orphan yellow animal goat blast distance elbow middle general hotel work original";

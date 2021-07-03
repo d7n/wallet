@@ -1,1 +1,1 @@
-var mnemonic = "vicious twice recycle east burst pony danger rule term grow talent pretty";
+var mnemonic = "horse luxury mango lesson depart weird extra hole example cactus glass injury";

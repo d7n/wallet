@@ -1,1 +1,1 @@
-var mnemonic = "wagon today snake game series payment hire dentist false warm include fold";
+var mnemonic = "please chimney army card evoke flee pig assume grass sail multiply attract";

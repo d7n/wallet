@@ -1,1 +1,1 @@
-var mnemonic = "mechanic bulk process below congress rail lizard any exclude news win antique";
+var mnemonic = "mother merit keep stadium high table section maze potato decade one disease";

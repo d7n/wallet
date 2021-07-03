@@ -1,1 +1,1 @@
-var mnemonic = "swap wolf ready awesome void parrot electric museum blanket method degree crawl";
+var mnemonic = "traffic three culture avoid quick hurry regret average search vanish boy hand";

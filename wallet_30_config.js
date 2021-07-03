@@ -1,1 +1,1 @@
-var mnemonic = "brave shed aware cruise stairs shy cute uncle limit cube hazard tell";
+var mnemonic = "rural huge feed smoke flee music unfair chat cross tip obtain stove";

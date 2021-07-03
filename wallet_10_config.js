@@ -1,1 +1,1 @@
-var mnemonic = "inside broom twist switch caution buffalo glare fashion field swing blame skate";
+var mnemonic = "cruise session conduct between window saddle push innocent oppose dentist copy point";

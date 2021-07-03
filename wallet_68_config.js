@@ -1,1 +1,1 @@
-var mnemonic = "filter hockey cruel carry domain excess pizza danger senior exhaust scan ladder";
+var mnemonic = "cup differ gravity column since grow install bomb regret fork under smoke";

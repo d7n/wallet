@@ -1,1 +1,1 @@
-var mnemonic = "piano gravity dad canal hard base banner bird fatigue town exercise photo";
+var mnemonic = "category memory battle purchase boss lake avoid rate aware green broom lazy";

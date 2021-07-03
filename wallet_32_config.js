@@ -1,1 +1,1 @@
-var mnemonic = "soon code violin science holiday bracket couch guide tray opera potato wing";
+var mnemonic = "execute upset shaft embody clay portion bean wink mammal uphold rule add";

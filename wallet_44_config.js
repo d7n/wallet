@@ -1,1 +1,1 @@
-var mnemonic = "fall pistol rough beach way answer action physical help enjoy found void";
+var mnemonic = "throw dial wonder face second wait blue kind harvest plastic receive run";

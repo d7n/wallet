@@ -1,1 +1,1 @@
-var mnemonic = "ignore middle suggest crisp october meat place device onion soda uncover opinion";
+var mnemonic = "hint combine robust emerge lion wreck pumpkin erupt rally axis original imitate";

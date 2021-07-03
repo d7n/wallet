@@ -1,1 +1,1 @@
-var mnemonic = "jeans device gather enrich alley kidney piano portion shield kangaroo silver obvious";
+var mnemonic = "matter student maze sister yard wise diary lonely buzz silk spider blossom";

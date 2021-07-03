@@ -1,1 +1,1 @@
-var mnemonic = "since program day salt select auction fashion stamp punch decorate return inmate";
+var mnemonic = "hill father breeze hidden brand gasp flavor adult bounce unusual twist young";

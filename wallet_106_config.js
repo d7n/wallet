@@ -1,1 +1,1 @@
-var mnemonic = "erase exile axis best resemble garage often trial kind weapon second eight";
+var mnemonic = "opinion ginger where unique more tower mesh unaware shop cannon laugh shoot";

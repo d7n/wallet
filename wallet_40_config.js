@@ -1,1 +1,1 @@
-var mnemonic = "fiscal tiny prize tell cloth piece pact smart victory develop then roast";
+var mnemonic = "have uncover chronic draft slot fall envelope liquid razor warm unveil bonus";

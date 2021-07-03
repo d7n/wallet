@@ -1,1 +1,1 @@
-var mnemonic = "vivid cheap skirt husband cost color oblige trap impact dirt dentist alcohol";
+var mnemonic = "sight rich report affair dove axis innocent quick beef gas march evolve";

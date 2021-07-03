@@ -1,1 +1,1 @@
-var mnemonic = "success traffic feature chapter aerobic relax camera lizard used entry unknown spoon";
+var mnemonic = "peasant ten figure someone glass trap balance plug fit employ cabbage pretty";

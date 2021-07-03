@@ -1,1 +1,1 @@
-var mnemonic = "flat absent purchase parent harvest detect coil next team rude tooth lyrics";
+var mnemonic = "affair cash allow unfair mix light judge traffic fury want execute volume";

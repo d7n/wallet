@@ -1,1 +1,1 @@
-var mnemonic = "mail divert that rotate make merit high start rescue puppy unable soap";
+var mnemonic = "bronze merry song harvest enhance daring fatal there loud kit laptop skill";

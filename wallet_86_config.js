@@ -1,1 +1,1 @@
-var mnemonic = "stage pull oyster mind valve pistol myth series initial globe resist friend";
+var mnemonic = "noodle space outside draw avocado utility accident kangaroo cricket air torch guide";

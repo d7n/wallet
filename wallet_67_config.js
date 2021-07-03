@@ -1,1 +1,1 @@
-var mnemonic = "police hint depend doll trade prevent inspire scout walk weird hunt siren";
+var mnemonic = "text buffalo fit air elegant suggest layer clap nurse stock doctor transfer";

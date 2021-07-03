@@ -1,1 +1,1 @@
-var mnemonic = "design curve income awkward envelope garment affair suspect sea arrive lesson rely";
+var mnemonic = "purity lounge job any stone desert example price denial end upon attack";

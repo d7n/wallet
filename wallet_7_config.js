@@ -1,1 +1,1 @@
-var mnemonic = "mother sustain regret asset disease tent gloom couch smooth wall often power";
+var mnemonic = "swim road sure swift strike iron trial blood crisp wink soccer absurd";

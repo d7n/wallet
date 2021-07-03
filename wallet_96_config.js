@@ -1,1 +1,1 @@
-var mnemonic = "fan stereo brown sweet stick power useful venture much leader reason notable";
+var mnemonic = "express diagram alter rough crop bread lend vibrant hour journey glide gate";

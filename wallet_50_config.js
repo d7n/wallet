@@ -1,1 +1,1 @@
-var mnemonic = "creek loud slogan someone cup address behave general account alley high analyst";
+var mnemonic = "laundry mandate sport elegant stumble witness lake shoulder emotion property gadget orange";

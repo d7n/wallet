@@ -1,1 +1,1 @@
-var mnemonic = "scheme permit river march media lumber gloom better emerge rug quick bar";
+var mnemonic = "resource regular puppy whisper angle lawsuit genuine harvest wrong category assist umbrella";

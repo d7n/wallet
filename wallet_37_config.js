@@ -1,1 +1,1 @@
-var mnemonic = "satoshi once orient abuse seat budget please shop seat art october tent";
+var mnemonic = "yard fog snake elegant inherit usage adjust hover possible surface clinic column";

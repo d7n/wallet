@@ -1,1 +1,1 @@
-var mnemonic = "early muscle genuine snack hand verb tourist pink ill battle crime rigid";
+var mnemonic = "flag nurse consider spin expect turtle pyramid riot table kick escape live";

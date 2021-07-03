@@ -1,1 +1,1 @@
-var mnemonic = "violin early venue liquid pigeon party flower blue seven fringe dress remind";
+var mnemonic = "spot round liberty board seminar argue rule finger gossip fever laundry fiction";

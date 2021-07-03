@@ -1,1 +1,1 @@
-var mnemonic = "announce whale alarm degree guard only alien rare family attend fire shiver";
+var mnemonic = "bicycle foam gentle popular quantum tobacco couch safe pretty legal change stadium";

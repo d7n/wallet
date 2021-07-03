@@ -1,1 +1,1 @@
-var mnemonic = "curtain slim drop balcony model steel engine moon elder similar robust damage";
+var mnemonic = "trial often mixed foster twist traffic tone much script title random stay";

@@ -1,1 +1,1 @@
-var mnemonic = "escape afraid goose hour rapid jaguar trophy mutual enemy nasty tip story";
+var mnemonic = "conduct push garlic knife please flock erode city crew glue final venue";

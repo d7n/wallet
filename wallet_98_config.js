@@ -1,1 +1,1 @@
-var mnemonic = "tortoise mention seek trade screen weird fabric unveil wide index churn nest";
+var mnemonic = "strategy range clean voyage excuse sunny title sad flame shrimp barrel cinnamon";

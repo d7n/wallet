@@ -1,1 +1,1 @@
-var mnemonic = "wrestle confirm cotton thunder mix clinic income earth squeeze error tone once";
+var mnemonic = "asthma hand divert hurt person soul another crime decorate heart fringe field";

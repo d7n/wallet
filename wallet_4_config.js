@@ -1,1 +1,1 @@
-var mnemonic = "exact frost drive grow abstract depth tumble valley repair spot ahead castle";
+var mnemonic = "candy wink crater jar eyebrow solve alpha oblige soul gauge immune keep";

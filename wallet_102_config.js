@@ -1,1 +1,1 @@
-var mnemonic = "indicate lumber lizard fun inherit dismiss income patient vapor glide idle congress";
+var mnemonic = "citizen disease hurry frog parrot winter fame assault chunk bundle drive puppy";

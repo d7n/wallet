@@ -1,1 +1,1 @@
-var mnemonic = "safe month breeze system flash mass diesel crack turn autumn glad copy";
+var mnemonic = "text alone one glance dust depart inmate input debris bundle crystal sad";

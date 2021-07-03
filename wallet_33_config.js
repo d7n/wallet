@@ -1,1 +1,1 @@
-var mnemonic = "ginger name eye trigger quantum vintage sister marriage matrix opera upon gasp";
+var mnemonic = "once receive horn mimic useless dune stone blind please lumber galaxy tip";

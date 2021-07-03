@@ -1,1 +1,1 @@
-var mnemonic = "expect black prison world mad arch cotton fossil tragic math fly wreck";
+var mnemonic = "girl doctor clever erosion chimney fossil depth holiday side rice mixed aerobic";

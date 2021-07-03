@@ -1,1 +1,1 @@
-var mnemonic = "south lucky clarify clown poet kid curious trumpet sing disease dolphin setup";
+var mnemonic = "snack fuel hazard install piano gadget mean exchange exotic dizzy insane core";

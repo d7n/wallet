@@ -1,1 +1,1 @@
-var mnemonic = "arena luggage real casual taste place vicious marriage glory cloud leaf sponsor";
+var mnemonic = "catalog pyramid transfer rhythm cigar risk afraid flavor term error pattern concert";

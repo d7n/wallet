@@ -1,1 +1,1 @@
-var mnemonic = "snake kingdom once chunk above circle twelve left hair notice grant dragon";
+var mnemonic = "angry wheel ecology wrestle choice upgrade shed city hour script enough before";

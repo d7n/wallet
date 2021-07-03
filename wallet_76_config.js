@@ -1,1 +1,1 @@
-var mnemonic = "rib repeat express gather inflict blast attack this blouse vehicle fluid caution";
+var mnemonic = "nominee quit prize fence interest unknown clerk tomorrow click spike absorb raccoon";

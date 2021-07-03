@@ -1,1 +1,1 @@
-var mnemonic = "approve seed radar drop wing hurt imitate sad inject slogan depart cake";
+var mnemonic = "practice equip theory van appear antenna time run unknown risk camera pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp lake frog lava discover burst knee dinosaur depart toe question limb";
+var mnemonic = "cash quarter apart critic winter frog you similar host idea mom law";

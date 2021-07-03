@@ -1,1 +1,1 @@
-var mnemonic = "open also tooth rack crush lyrics hope seek tortoise series bounce jewel";
+var mnemonic = "song chronic old help include finger unhappy shrimp return usual twin endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "spread slight select appear skin vapor slide jelly dilemma mixture canyon text";
+var mnemonic = "reform panda mansion hello stadium vibrant label able elevator unaware topic tiny";

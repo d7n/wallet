@@ -1,1 +1,1 @@
-var mnemonic = "vehicle door rural need finger clump flower capital slab unusual sign advice";
+var mnemonic = "gym visa army between machine bleak brief unknown ankle arm clean gun";

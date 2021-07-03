@@ -1,1 +1,1 @@
-var mnemonic = "kitten strong noble child catch ginger candy giggle dice permit hazard space";
+var mnemonic = "shove when garbage solution edge seat area crumble state mechanic pear witness";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle message hire pattern adult trust pride goose inmate horn father mosquito";
+var mnemonic = "tennis index undo marble bicycle shrimp menu shuffle leaf bar hollow pattern";

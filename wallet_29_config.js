@@ -1,1 +1,1 @@
-var mnemonic = "minimum pepper demand brief left fox random vacuum sketch learn rebuild hospital";
+var mnemonic = "rough vote poverty miss domain charge trip dash action bleak input bean";

@@ -1,1 +1,1 @@
-var mnemonic = "rude praise transfer pupil liquid retire spare turkey social ordinary know quality";
+var mnemonic = "rug web pause enter afraid common electric anger crane silly disorder chicken";

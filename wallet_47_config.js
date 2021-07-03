@@ -1,1 +1,1 @@
-var mnemonic = "notable possible roof spend glimpse essay icon sing nation enter fault scan";
+var mnemonic = "panda jazz pistol silver birth garlic region illness fabric canal walnut pitch";

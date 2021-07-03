@@ -1,1 +1,1 @@
-var mnemonic = "increase online damage high reopen small anchor home measure panda track pistol";
+var mnemonic = "gold accuse moment size lazy wrestle market talent kingdom venture mother west";

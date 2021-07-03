@@ -1,1 +1,1 @@
-var mnemonic = "few family sample dentist beef present salad puzzle office pizza miss few";
+var mnemonic = "group result casino boss matter also asset retreat stool bottom uncle film";

@@ -1,1 +1,1 @@
-var mnemonic = "item result calm script woman fancy canyon arctic coffee main light ancient";
+var mnemonic = "outer lesson wonder fatal impact office lottery hope globe trust close harsh";
