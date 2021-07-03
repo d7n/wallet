@@ -1,1 +1,1 @@
-var mnemonic = "bonus dune save multiply square boring smart okay rich mercy ramp solve";
+var mnemonic = "animal century diary blush chest holiday business ice useful hurry between device";

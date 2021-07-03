@@ -1,1 +1,1 @@
-var mnemonic = "spend small chimney connect replace adult brand robust wine treat way diagram";
+var mnemonic = "husband face tube step fold purity depend illness garage special fame sure";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe original deny luxury buzz forum cage onion tumble blanket affair bronze";
+var mnemonic = "faint stomach injury winner hybrid title nasty then firm arm useful capital";

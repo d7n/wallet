@@ -1,1 +1,1 @@
-var mnemonic = "finger jacket inmate lounge barely sail earth cave object aerobic settle debris";
+var mnemonic = "machine film gaze action urge thrive tide cat pig cup web govern";

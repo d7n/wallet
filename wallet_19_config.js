@@ -1,1 +1,1 @@
-var mnemonic = "behave myself cannon foil sunny gauge rug lucky carbon kiss jeans pepper";
+var mnemonic = "time visit mixture blanket opinion embark leave stock mansion biology concert hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber wonder best visual slight home reward stem flush cushion fish bless";
+var mnemonic = "note comfort borrow column elbow exist puppy defense paddle section forum raccoon";

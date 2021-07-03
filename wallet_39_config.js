@@ -1,1 +1,1 @@
-var mnemonic = "prize jump diet game love wear behave sketch angry core eyebrow ignore";
+var mnemonic = "mirror cargo behave amazing inspire sleep evolve consider unfair tattoo gadget symbol";

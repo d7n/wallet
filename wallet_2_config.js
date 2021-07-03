@@ -1,1 +1,1 @@
-var mnemonic = "cheese early item island gospel cycle host novel junk stay warrior emotion";
+var mnemonic = "radio able repeat drip globe network razor federal photo phone degree kingdom";

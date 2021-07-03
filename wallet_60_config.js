@@ -1,1 +1,1 @@
-var mnemonic = "ginger movie gospel neck current coffee sadness beach moment wealth minute horse";
+var mnemonic = "cabin quality fitness pupil machine repeat trouble resist equip output liar pole";

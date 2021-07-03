@@ -1,1 +1,1 @@
-var mnemonic = "reason above digital path moon nest relief true quiz valid sunset end";
+var mnemonic = "nature canyon clean pudding blanket use dynamic humor execute daring nose clown";

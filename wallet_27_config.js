@@ -1,1 +1,1 @@
-var mnemonic = "bottom sleep puppy cheap season sample federal play spike eagle virtual winner";
+var mnemonic = "eager stereo kit guitar denial sausage effort jungle hunt object chronic ketchup";

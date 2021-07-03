@@ -1,1 +1,1 @@
-var mnemonic = "salmon photo good mention inform attend index weasel view network jump kind";
+var mnemonic = "crowd skull enable pretty phone where chief crater busy march credit ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "island miss arrest voyage oyster corn dumb hammer keen damp jar dutch";
+var mnemonic = "radio hen cram only shell donkey music nephew panic bullet olive waste";

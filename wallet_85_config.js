@@ -1,1 +1,1 @@
-var mnemonic = "small motion spawn happy mask speak seek diet quantum later axis nice";
+var mnemonic = "casual express address crouch fetch siege guard lens monkey boat vicious fetch";

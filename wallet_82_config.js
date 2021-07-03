@@ -1,1 +1,1 @@
-var mnemonic = "pet absurd bag skin lonely imitate skill ordinary any scout evoke tuition";
+var mnemonic = "media labor never digital tone flower visit link movie such stove sketch";

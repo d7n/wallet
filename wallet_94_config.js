@@ -1,1 +1,1 @@
-var mnemonic = "treat dinosaur load coil tongue essence young casino system ask degree awake";
+var mnemonic = "couple lens profit feature abuse village alien boy innocent great either pen";

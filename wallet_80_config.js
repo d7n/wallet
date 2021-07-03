@@ -1,1 +1,1 @@
-var mnemonic = "steel gesture avoid mixed awesome husband horror split teach rug again arrow";
+var mnemonic = "battle kick detail sugar spy purse similar dismiss eager leopard habit machine";

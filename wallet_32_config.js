@@ -1,1 +1,1 @@
-var mnemonic = "blade interest fade reject speed tomato relax sheriff mask lake shed erosion";
+var mnemonic = "ginger flash furnace voice onion insect claw still hazard distance balcony carpet";

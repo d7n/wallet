@@ -1,1 +1,1 @@
-var mnemonic = "fossil sadness require history head same view dentist bracket city spoon certain";
+var mnemonic = "sunny fit hour useless artwork noise spring secret valid rib fox slide";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt display next clarify lion robot celery tell grant vivid inflict ostrich";
+var mnemonic = "organ empty enough canyon diesel often sibling waste wage umbrella shrug cushion";

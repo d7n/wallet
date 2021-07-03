@@ -1,1 +1,1 @@
-var mnemonic = "later day skirt dish police vintage protect service original toy upper seminar";
+var mnemonic = "panther host clever lend gauge duty abuse effort north siren rebuild local";

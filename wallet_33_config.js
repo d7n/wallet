@@ -1,1 +1,1 @@
-var mnemonic = "model pill quit borrow wink calm cluster congress bridge barely oxygen drink";
+var mnemonic = "tower pluck error warm record lunch figure lounge flee culture erupt rural";

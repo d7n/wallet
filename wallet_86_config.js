@@ -1,1 +1,1 @@
-var mnemonic = "betray lonely broccoli cycle noble simple alter siege fresh easily plug neglect";
+var mnemonic = "dizzy kangaroo genius island evidence glue trophy sun assault bullet domain quiz";

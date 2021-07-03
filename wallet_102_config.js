@@ -1,1 +1,1 @@
-var mnemonic = "trap marble access wool mouse convince dance lake blue farm there outdoor";
+var mnemonic = "tape elegant cabin face airport soon negative bench fabric congress will fault";

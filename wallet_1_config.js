@@ -1,1 +1,1 @@
-var mnemonic = "amount swallow various gate chief swift bargain lava seven success view bottom";
+var mnemonic = "catalog label capital together inform clinic match lab exotic quick phone proud";

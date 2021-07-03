@@ -1,1 +1,1 @@
-var mnemonic = "regular must force cave arctic december yard pretty orchard slide awkward luggage";
+var mnemonic = "rail unfair decade enough master motion delay diesel misery prepare metal half";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle pioneer average upon scout patch file morning pulp pipe wing movie";
+var mnemonic = "lottery enemy hurry denial swing art vague extend sail social client object";

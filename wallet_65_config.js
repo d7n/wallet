@@ -1,1 +1,1 @@
-var mnemonic = "prison margin kit real goddess whisper section real track floor drift adjust";
+var mnemonic = "forget make chicken dizzy estate tank finish energy oblige noble frown evil";

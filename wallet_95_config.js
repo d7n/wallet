@@ -1,1 +1,1 @@
-var mnemonic = "volume dirt arrest pledge infant rural live march turkey mammal notable flame";
+var mnemonic = "similar outdoor blood duck inquiry hockey grit initial dinner reform banana cancel";

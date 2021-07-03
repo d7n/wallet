@@ -1,1 +1,1 @@
-var mnemonic = "crucial infant frog thing goose urge multiply orphan circle deposit night use";
+var mnemonic = "cute sing resource orchard arch enact onion alert sun cost vital squirrel";

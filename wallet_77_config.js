@@ -1,1 +1,1 @@
-var mnemonic = "roast lemon tonight october armor ceiling aspect useful fine vivid pond excuse";
+var mnemonic = "stock dog pig cable meadow mind network pole giant winter lock analyst";

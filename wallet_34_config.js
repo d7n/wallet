@@ -1,1 +1,1 @@
-var mnemonic = "april screen canyon taste tent quality very section deal tree tobacco dignity";
+var mnemonic = "tonight inhale tourist rebuild elegant gown throw luggage alien scan lottery limit";

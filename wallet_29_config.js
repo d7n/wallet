@@ -1,1 +1,1 @@
-var mnemonic = "earth corn canvas fiscal surround attack remember episode cruel can huge wide";
+var mnemonic = "use drift hub urge feel render boil tonight enter sugar egg disease";

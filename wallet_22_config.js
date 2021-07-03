@@ -1,1 +1,1 @@
-var mnemonic = "genuine piano space disease best ridge shoe mixture trumpet another claw alley";
+var mnemonic = "right wink dragon reject segment trigger robot couch crawl that speed carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal stumble april area satoshi food medal orbit cement laptop coffee insect";
+var mnemonic = "old label matter title used health worry border desk require birth issue";

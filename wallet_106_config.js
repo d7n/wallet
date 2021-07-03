@@ -1,1 +1,1 @@
-var mnemonic = "moment civil wave sail mechanic syrup steak faculty ripple lab sort before";
+var mnemonic = "protect swallow debris oxygen rebuild village issue photo approve elephant travel grid";

@@ -1,1 +1,1 @@
-var mnemonic = "candy twin august velvet zebra host teach involve wasp million hat perfect";
+var mnemonic = "vocal canoe kit observe exotic novel crumble crawl leader grain category rib";

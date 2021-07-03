@@ -1,1 +1,1 @@
-var mnemonic = "volcano woman trade rib web critic fun happy engine relief link oyster";
+var mnemonic = "minor mass immune gorilla timber rebuild fragile alien cattle patrol lens index";

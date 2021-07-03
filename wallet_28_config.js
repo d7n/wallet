@@ -1,1 +1,1 @@
-var mnemonic = "pave note process neglect vault cousin bracket pluck flip aware order fine";
+var mnemonic = "bacon child approve call frown wish horn mansion virus rookie add project";

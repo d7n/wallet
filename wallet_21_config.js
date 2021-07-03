@@ -1,1 +1,1 @@
-var mnemonic = "tent wire catalog mix profit aisle arm embark powder mask crack ranch";
+var mnemonic = "unusual future bless noise sun spider obey fold decline edge void monkey";

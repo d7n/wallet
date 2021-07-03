@@ -1,1 +1,1 @@
-var mnemonic = "real spare current plunge little candy mask invite join differ slim truly";
+var mnemonic = "jewel vital foil wing oak twelve inform smile soup blur dwarf dust";

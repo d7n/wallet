@@ -1,1 +1,1 @@
-var mnemonic = "census wisdom situate torch normal rifle extend cart this drip quit rug";
+var mnemonic = "shuffle intact kitchen mom endorse custom payment clown now right original lawn";

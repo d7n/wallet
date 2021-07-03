@@ -1,1 +1,1 @@
-var mnemonic = "stove muscle frown track hen pigeon broom travel disagree now verb access";
+var mnemonic = "distance sick eternal cabin liberty salute tone cushion amused flavor abstract purse";

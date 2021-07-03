@@ -1,1 +1,1 @@
-var mnemonic = "soldier fringe cousin keep budget into student supply mosquito flee volcano nation";
+var mnemonic = "spring crew clutch idle donor found cup crawl burger merry question eagle";

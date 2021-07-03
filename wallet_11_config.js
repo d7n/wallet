@@ -1,1 +1,1 @@
-var mnemonic = "motion crane limb umbrella cactus symbol blood lava slim shed behind defy";
+var mnemonic = "draw control mother chunk sniff alter ozone approve penalty permit gun type";

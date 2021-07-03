@@ -1,1 +1,1 @@
-var mnemonic = "inside predict wink uniform comic zone fitness ripple forum clock pepper enter";
+var mnemonic = "fatal usage silent measure icon volcano fortune hybrid seat silver hungry language";

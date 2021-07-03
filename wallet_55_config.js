@@ -1,1 +1,1 @@
-var mnemonic = "control virus awake peasant hip cabbage asset alien stay shallow goose penalty";
+var mnemonic = "praise scale various dry come segment lizard uncle normal elder cabbage mountain";

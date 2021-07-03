@@ -1,1 +1,1 @@
-var mnemonic = "invest brick echo flag fresh two armor input jump youth sting educate";
+var mnemonic = "keep soldier order pioneer disease cushion noise pact banana stem monitor feature";

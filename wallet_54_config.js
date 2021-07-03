@@ -1,1 +1,1 @@
-var mnemonic = "faith response base melody humor meat void silver furnace remove master question";
+var mnemonic = "cream announce legal laundry deny damage awful task swing ladder venue wall";

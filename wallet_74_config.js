@@ -1,1 +1,1 @@
-var mnemonic = "nice pepper proof educate march immune accuse little gossip identify domain skate";
+var mnemonic = "churn monkey ozone hidden ring cage clerk portion cattle license noble siren";

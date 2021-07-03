@@ -1,1 +1,1 @@
-var mnemonic = "treat river tray blind stove fresh ball west sport already pitch kitchen";
+var mnemonic = "trumpet romance cry alley hazard wing nature frog slide custom three wreck";

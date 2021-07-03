@@ -1,1 +1,1 @@
-var mnemonic = "poem town sound display toe innocent spoon cricket find hockey shrug tag";
+var mnemonic = "tuition gauge country regret book april about welcome original purchase what abuse";

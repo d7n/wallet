@@ -1,1 +1,1 @@
-var mnemonic = "kid hundred ensure cry casual vivid blouse empty trade occur ask language";
+var mnemonic = "absent dream tonight rotate coral base gun brown must bean van appear";

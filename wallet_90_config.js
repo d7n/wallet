@@ -1,1 +1,1 @@
-var mnemonic = "group adult bomb tape carpet vintage punch kite repair label label oxygen";
+var mnemonic = "stem off ice monkey spare cry thing admit century goose thumb dad";

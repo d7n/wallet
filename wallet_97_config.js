@@ -1,1 +1,1 @@
-var mnemonic = "dinner filter fiber churn flag anger dad nuclear raven true involve chief";
+var mnemonic = "sustain sorry differ cheese stairs fetch suffer odor rather nurse journey collect";

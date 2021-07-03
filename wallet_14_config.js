@@ -1,1 +1,1 @@
-var mnemonic = "project village ready talent pig negative eager category dress tennis enemy zero";
+var mnemonic = "topple slide can gaze twenty immense undo exile weird fragile say join";

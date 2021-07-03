@@ -1,1 +1,1 @@
-var mnemonic = "street language bind result trouble kite caught joy kiss fall fade squeeze";
+var mnemonic = "whip donor fortune special short melt push home coin coral slim tooth";

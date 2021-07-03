@@ -1,1 +1,1 @@
-var mnemonic = "link lottery west clown margin opinion soldier lake silver country topic ozone";
+var mnemonic = "pen access maximum lazy switch tongue become print nerve shallow salt file";

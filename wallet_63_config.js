@@ -1,1 +1,1 @@
-var mnemonic = "pet that shield ahead still blind pretty vendor coconut hundred notable armed";
+var mnemonic = "primary wrap hybrid under verb lawn paper shoulder globe alter wash card";

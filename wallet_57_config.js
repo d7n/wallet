@@ -1,1 +1,1 @@
-var mnemonic = "select cereal behave exhaust hungry ceiling flock hill floor reason strike quit";
+var mnemonic = "myself noodle almost extend supreme quality awful tennis shallow company option pipe";

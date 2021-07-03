@@ -1,1 +1,1 @@
-var mnemonic = "deny opinion erase segment scout wrong weasel imitate smooth photo hungry bike";
+var mnemonic = "icon early upgrade curve arena august mesh link monitor this merry poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "trend awake hunt glue spice express share awkward first blade lumber flee";
+var mnemonic = "aunt cycle maximum slogan doctor harsh upon inner glory celery old use";

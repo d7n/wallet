@@ -1,1 +1,1 @@
-var mnemonic = "primary pear call festival van struggle siege car flat crush orchard bubble";
+var mnemonic = "three sort police level setup kangaroo snake minute offer spend order tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "metal arrow brave bulk art miracle defense panther pulse couple orient power";
+var mnemonic = "bridge clinic leave exact casino display gym code recall slam invite benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "load ankle milk apology tape unfold tip name essay hole when trial";
+var mnemonic = "debate dolphin another bread manage six jungle energy canal mutual hammer avoid";

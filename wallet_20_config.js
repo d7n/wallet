@@ -1,1 +1,1 @@
-var mnemonic = "face thunder chase reason crack expire zero maid plastic tent shoot usage";
+var mnemonic = "atom all tiger girl wasp happy slogan moral lawsuit drop produce inner";

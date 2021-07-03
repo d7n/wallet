@@ -1,1 +1,1 @@
-var mnemonic = "easy call talent gold shoe light sauce number very seven flat surge";
+var mnemonic = "lift account feature holiday leaf recycle birth drum buffalo rough taste feel";

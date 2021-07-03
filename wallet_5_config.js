@@ -1,1 +1,1 @@
-var mnemonic = "year surround over crucial sail spell devote north cricket elevator pizza mad";
+var mnemonic = "feel general sudden garlic pudding trigger crush agent trust despair fuel draw";

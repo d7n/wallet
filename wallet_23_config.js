@@ -1,1 +1,1 @@
-var mnemonic = "gain vibrant sound refuse bracket play cluster pumpkin type trial relief method";
+var mnemonic = "orbit fetch coil cattle retreat evolve artwork whale initial space cycle fat";

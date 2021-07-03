@@ -1,1 +1,1 @@
-var mnemonic = "design crane assault orchard tackle since mechanic upset car giggle dutch useful";
+var mnemonic = "dynamic great boy puzzle boil combine girl coffee correct topic check manual";

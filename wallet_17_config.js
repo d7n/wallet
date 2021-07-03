@@ -1,1 +1,1 @@
-var mnemonic = "lake city little gift chapter tag slam auto speak endorse shadow top";
+var mnemonic = "congress cricket float very theory icon confirm budget goat gate craft wheel";

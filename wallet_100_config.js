@@ -1,1 +1,1 @@
-var mnemonic = "question blade burger together monitor tenant embody lawsuit depend pill nose small";
+var mnemonic = "shoulder toe elbow marble prevent one dry spoil grit tackle track dawn";

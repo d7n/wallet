@@ -1,1 +1,1 @@
-var mnemonic = "price fatigue sugar fatigue wash chronic same story ladder young arrest address";
+var mnemonic = "midnight candy crouch cry second record enhance hospital spirit excite forest equal";

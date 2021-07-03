@@ -1,1 +1,1 @@
-var mnemonic = "tell verify syrup pelican month chair cement suffer cover live retreat canal";
+var mnemonic = "lottery swallow high tail motor express punch prison jealous open bonus ribbon";

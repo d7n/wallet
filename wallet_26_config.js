@@ -1,1 +1,1 @@
-var mnemonic = "gravity review borrow tail celery avoid remain write cabbage despair kitten inform";
+var mnemonic = "appear marble enable there thought fiber squirrel follow walk lava dawn voice";

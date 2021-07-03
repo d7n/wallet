@@ -1,1 +1,1 @@
-var mnemonic = "aisle panther basket dignity cool parent prison side when prison where giggle";
+var mnemonic = "weather glue claw annual point rigid stairs example muscle nut fatigue exhibit";

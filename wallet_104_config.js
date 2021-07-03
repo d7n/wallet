@@ -1,1 +1,1 @@
-var mnemonic = "vast caution average until envelope bamboo track picture fiction autumn amount vault";
+var mnemonic = "bid venue target coyote mix where twenty found benefit census effort strategy";

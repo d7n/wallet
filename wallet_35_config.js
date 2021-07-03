@@ -1,1 +1,1 @@
-var mnemonic = "lake buffalo degree poet hurt brand remind hurt produce science twist exotic";
+var mnemonic = "loyal senior danger evolve knife goose siege rifle inmate case lonely fine";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect snap object moral check book fatigue small very always rib among";
+var mnemonic = "promote boy cloud noble wolf decrease scrap fish oval appear pear kit";

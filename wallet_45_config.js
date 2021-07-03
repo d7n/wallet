@@ -1,1 +1,1 @@
-var mnemonic = "salmon before shaft grant ostrich garden grab tobacco odor bacon one peasant";
+var mnemonic = "phone network remind asthma version foam shiver grow nut drink desk elevator";

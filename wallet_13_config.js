@@ -1,1 +1,1 @@
-var mnemonic = "satoshi second giggle motor amount baby mushroom outside party mountain lens kitchen";
+var mnemonic = "problem sight planet bright emerge annual trophy renew load enemy enhance matter";

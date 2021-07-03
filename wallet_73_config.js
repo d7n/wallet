@@ -1,1 +1,1 @@
-var mnemonic = "radio camp tank direct tackle version crack ankle final attack fix pioneer";
+var mnemonic = "crew offer connect stock nerve wagon auto basket fever island hill theme";

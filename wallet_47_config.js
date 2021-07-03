@@ -1,1 +1,1 @@
-var mnemonic = "edit noise enhance faculty fiber team palace harvest security drill yard prefer";
+var mnemonic = "tide prize language cargo blush crop oyster notice intact casual seat tourist";

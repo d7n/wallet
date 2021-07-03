@@ -1,1 +1,1 @@
-var mnemonic = "because burden merit brick december kitchen crumble bind mushroom wonder twenty begin";
+var mnemonic = "skill parrot side alley speed print share sell toast staff receive drink";

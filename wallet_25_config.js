@@ -1,1 +1,1 @@
-var mnemonic = "inhale afford click cruel matrix jacket theory wonder bus attack best fuel";
+var mnemonic = "scrap speed what banner endorse gap frame kit shiver zebra outdoor thrive";

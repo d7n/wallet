@@ -1,1 +1,1 @@
-var mnemonic = "mirror box awful reward wheat undo salad indoor bus weekend pet regret";
+var mnemonic = "tent orient symbol avoid play wheel use scrub burden bomb acoustic nuclear";
