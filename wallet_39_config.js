@@ -1,1 +1,1 @@
-var mnemonic = "hint found popular bonus diamond error noise minute royal helmet renew sword";
+var mnemonic = "anger breeze scatter violin cinnamon guard cup flat junk mixture blade deposit";

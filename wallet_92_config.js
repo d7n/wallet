@@ -1,1 +1,1 @@
-var mnemonic = "dolphin rookie puzzle collect future rhythm clown brother plunge nurse citizen strong";
+var mnemonic = "chuckle stereo mistake praise flip february wall shiver fiscal chimney material dial";

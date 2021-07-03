@@ -1,1 +1,1 @@
-var mnemonic = "oblige pill brisk interest diamond boat movie quarter party slide odor fancy";
+var mnemonic = "dwarf choose jazz wonder hello nut rival elbow sense decrease bleak empty";

@@ -1,1 +1,1 @@
-var mnemonic = "assault spend rebuild coil timber nest trophy inmate buddy inform oppose cherry";
+var mnemonic = "spice same cry purpose accident curtain afraid side word jump edge crystal";

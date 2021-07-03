@@ -1,1 +1,1 @@
-var mnemonic = "leisure angry always buddy bird note nothing focus seminar peasant various crater";
+var mnemonic = "sing arrow random feed biology room canvas rigid media cause train ocean";

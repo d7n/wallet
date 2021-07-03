@@ -1,1 +1,1 @@
-var mnemonic = "sick near rely poverty plunge raw tell fold situate rough purchase upset";
+var mnemonic = "job divide usual satisfy barrel mystery dream home blush more boost toddler";

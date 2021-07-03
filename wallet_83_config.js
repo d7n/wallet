@@ -1,1 +1,1 @@
-var mnemonic = "rough frost travel dawn thing veteran fog spell real silk screen entry";
+var mnemonic = "mimic lonely rigid nuclear craft tennis fantasy there you vanish wrong kiss";

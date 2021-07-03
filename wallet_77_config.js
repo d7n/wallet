@@ -1,1 +1,1 @@
-var mnemonic = "syrup hospital story mouse grit account spread luggage elbow song perfect whip";
+var mnemonic = "fabric toss drum glove dutch crouch vapor bless gesture cool color laundry";

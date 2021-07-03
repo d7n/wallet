@@ -1,1 +1,1 @@
-var mnemonic = "comfort scatter shrug arch uphold buzz beyond dose rose add flavor toe";
+var mnemonic = "broom danger depth find master recall have wagon bike kiss view scatter";

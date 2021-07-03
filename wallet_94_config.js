@@ -1,1 +1,1 @@
-var mnemonic = "echo replace final suffer leaf image rural wagon above prison garage achieve";
+var mnemonic = "segment shed unknown wolf priority cave lamp creek remove west limb tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "erode expand margin require film lock often awake hover stone source item";
+var mnemonic = "vivid crowd lyrics mom pretty price lunar climb neither expose copy process";

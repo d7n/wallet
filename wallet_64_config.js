@@ -1,1 +1,1 @@
-var mnemonic = "toy guilt federal deputy tribe cute daughter dirt nation stairs million announce";
+var mnemonic = "leg insect worry trophy tackle cheap topic spell arm combine toy bleak";

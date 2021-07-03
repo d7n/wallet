@@ -1,1 +1,1 @@
-var mnemonic = "glad reason multiply vocal capital romance say expand impact fat hat pumpkin";
+var mnemonic = "rose hospital guide stay deny weasel whip winter scout person sick salt";

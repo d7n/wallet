@@ -1,1 +1,1 @@
-var mnemonic = "chat clay behind gain like coffee sign cluster poverty response near describe";
+var mnemonic = "cycle amazing trophy immune spring garbage flip churn tape word unfair warm";

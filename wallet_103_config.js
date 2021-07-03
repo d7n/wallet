@@ -1,1 +1,1 @@
-var mnemonic = "cruel identify book critic slab carpet coyote sock quit reveal around hurry";
+var mnemonic = "aunt stand picnic junior fiction pony quantum weather enjoy alpha harvest miracle";

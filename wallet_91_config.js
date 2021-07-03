@@ -1,1 +1,1 @@
-var mnemonic = "lazy ten sauce behind capable sick mother lunar service brief cycle online";
+var mnemonic = "public observe margin reason behave acid deliver table visual alter ability matrix";

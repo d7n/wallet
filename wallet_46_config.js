@@ -1,1 +1,1 @@
-var mnemonic = "aisle acid paper dad usual dumb slim attract royal arch federal sword";
+var mnemonic = "toilet off undo consider element attack virtual minute wisdom blame aspect rather";

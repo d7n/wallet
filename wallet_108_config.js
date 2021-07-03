@@ -1,1 +1,1 @@
-var mnemonic = "slim frozen hub lizard pink gospel element usage stairs arctic utility picnic";
+var mnemonic = "silver crane pause empower clock wedding assault cabin ladder dad census author";

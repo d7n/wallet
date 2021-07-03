@@ -1,1 +1,1 @@
-var mnemonic = "drip ring breeze index damage lion gentle angry venue weasel beauty wagon";
+var mnemonic = "news exile flower silk attitude cover various mobile run length cotton option";

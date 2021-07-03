@@ -1,1 +1,1 @@
-var mnemonic = "flight year top mobile chalk disease frame baby leisure roof flame birth";
+var mnemonic = "diamond attend grief cry sketch speed dose matter vacant concert month patrol";

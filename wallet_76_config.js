@@ -1,1 +1,1 @@
-var mnemonic = "recall piece icon promote decide miss course term obtain harvest engage soup";
+var mnemonic = "select pave tray scrap fade tongue want find electric captain build roof";

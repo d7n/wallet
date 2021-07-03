@@ -1,1 +1,1 @@
-var mnemonic = "weasel funny divert bicycle warrior cotton jar typical service pole bread solution";
+var mnemonic = "awake pride song trouble click planet prepare mimic since crew belt oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "slush gun trial axis genre advance people lemon atom assume guide ordinary";
+var mnemonic = "fragile mushroom destroy skate task annual move way layer mail book vintage";

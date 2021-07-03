@@ -1,1 +1,1 @@
-var mnemonic = "small affair traffic cute bomb harvest minor when captain pig noodle paper";
+var mnemonic = "jungle small fog deal usual jar glad capable quantum destroy view trouble";

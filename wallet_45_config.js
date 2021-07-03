@@ -1,1 +1,1 @@
-var mnemonic = "funny tone bind core estate beef nature arm hold guitar dilemma play";
+var mnemonic = "buffalo garden green logic race escape industry trial cattle upset train east";

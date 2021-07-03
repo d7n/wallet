@@ -1,1 +1,1 @@
-var mnemonic = "find paddle case glad music lake edge vault voice thunder sell what";
+var mnemonic = "act garbage manage off vintage sleep movie sad quarter either nest vast";

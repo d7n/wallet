@@ -1,1 +1,1 @@
-var mnemonic = "mimic nerve tourist base rack home grid boat ten reveal mention fantasy";
+var mnemonic = "tomorrow candy bamboo price distance label govern about aerobic quit nominee general";

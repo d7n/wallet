@@ -1,1 +1,1 @@
-var mnemonic = "raw review exist history always bitter unhappy weekend profit panda emerge exact";
+var mnemonic = "art visual logic review century team again noble rifle scare quarter run";

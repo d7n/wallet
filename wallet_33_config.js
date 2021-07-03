@@ -1,1 +1,1 @@
-var mnemonic = "grief joy private below close very twelve change oxygen camp popular solid";
+var mnemonic = "spatial round angle crater shallow man image birth mention dance unfold you";

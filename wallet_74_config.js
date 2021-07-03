@@ -1,1 +1,1 @@
-var mnemonic = "fuel popular dog stove nurse leisure unable mushroom rigid term kick diagram";
+var mnemonic = "struggle twenty wheel check remind virus toilet flip fresh unveil dizzy donate";

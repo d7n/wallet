@@ -1,1 +1,1 @@
-var mnemonic = "solution gap session broken profit idea way usual casual pulse proud salon";
+var mnemonic = "monkey rain cry occur radar box urge act argue enter kiss napkin";

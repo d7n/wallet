@@ -1,1 +1,1 @@
-var mnemonic = "energy symptom where tuna kite ozone purse tunnel undo garment master access";
+var mnemonic = "nasty ripple excite alter grocery mushroom armed deal game hat ginger bid";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed hedgehog practice penalty gaze faint flat stable enough sniff text garage";
+var mnemonic = "include dress remind hamster taxi body addict nature ceiling fresh demand smile";

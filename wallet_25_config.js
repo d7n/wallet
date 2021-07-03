@@ -1,1 +1,1 @@
-var mnemonic = "divide acquire sunset palace man wonder bench verb eyebrow original two embody";
+var mnemonic = "banner option render soup mutual nurse bird black glory decade panel tape";

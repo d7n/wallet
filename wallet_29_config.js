@@ -1,1 +1,1 @@
-var mnemonic = "hurt pizza flock palace demise give seed degree child fire celery arm";
+var mnemonic = "grape then tilt tank worry kid logic switch hurdle secret monkey pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock promote luxury frozen connect unknown admit rough suit confirm deputy move";
+var mnemonic = "enjoy detail phrase soup auction dad unknown squeeze ribbon skirt dilemma cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "truck inner enact apart minute strategy honey hedgehog bounce few faith feel";
+var mnemonic = "three wrap people chalk spirit wrist rail unusual toe news atom useful";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut remove accident arch practice fall alley ignore aisle tail car cute";
+var mnemonic = "forward enrich frog rifle skull surge point anxiety dinner dash frog try";

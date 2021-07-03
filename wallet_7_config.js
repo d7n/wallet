@@ -1,1 +1,1 @@
-var mnemonic = "short speed attitude forum grab siege outer habit harbor happy again have";
+var mnemonic = "hockey feel degree bid physical agent combine diesel axis shed escape shop";

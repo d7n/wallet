@@ -1,1 +1,1 @@
-var mnemonic = "satoshi time liar embark lesson rescue disease color vendor desk melody limit";
+var mnemonic = "plate history unfair hedgehog total prison joy awful cage cloud beef junk";

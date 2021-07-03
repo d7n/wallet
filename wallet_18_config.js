@@ -1,1 +1,1 @@
-var mnemonic = "author retire cup bag pyramid tired fringe remain energy oil toy sister";
+var mnemonic = "section make soon boy tiny raise panic lamp inspire account retire fossil";

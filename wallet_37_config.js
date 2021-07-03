@@ -1,1 +1,1 @@
-var mnemonic = "aim buddy flip waste grass update midnight outer weekend awkward wagon cigar";
+var mnemonic = "enough fly dream strategy disagree diamond raise mandate envelope jungle win robot";

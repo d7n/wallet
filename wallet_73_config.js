@@ -1,1 +1,1 @@
-var mnemonic = "under lyrics deliver feed load inmate one hour bean history document hospital";
+var mnemonic = "current aim link cluster question interest recycle rose demise truck wasp margin";

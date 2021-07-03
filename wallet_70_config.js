@@ -1,1 +1,1 @@
-var mnemonic = "talent type disorder report mixture apart ozone frozen jelly broken gesture casino";
+var mnemonic = "wrap shy swap service planet clip merge purpose gentle couch device age";

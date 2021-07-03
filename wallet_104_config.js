@@ -1,1 +1,1 @@
-var mnemonic = "spirit now long popular glad churn weapon twelve slice upset coconut grow";
+var mnemonic = "nice judge term develop also parade piece spider album large tuna smile";

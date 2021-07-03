@@ -1,1 +1,1 @@
-var mnemonic = "object nasty burst hen jar rifle whip lab damage permit excuse outdoor";
+var mnemonic = "wild reduce hedgehog canoe mix mammal link trophy lyrics symbol novel tackle";

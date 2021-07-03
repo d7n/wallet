@@ -1,1 +1,1 @@
-var mnemonic = "stomach camera brush trust tilt cinnamon task bonus reunion catch fancy risk";
+var mnemonic = "gorilla fuel slush fame odor ship motor swift venture marriage exotic left";

@@ -1,1 +1,1 @@
-var mnemonic = "sock crowd bounce brief curve urban ten tooth ball seek one proud";
+var mnemonic = "thrive urge mixed online slush work furnace isolate bean artwork wing panel";

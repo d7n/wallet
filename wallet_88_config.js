@@ -1,1 +1,1 @@
-var mnemonic = "wide vibrant try weasel devote muscle spoon regular thing salon live harsh";
+var mnemonic = "skate unaware reward list melody diet rather screen exile cherry slot magnet";

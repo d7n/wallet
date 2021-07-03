@@ -1,1 +1,1 @@
-var mnemonic = "juice intact wolf enhance soon daring earth evoke abandon thunder awake diamond";
+var mnemonic = "rare degree improve upper little ability situate that forest social pass paper";

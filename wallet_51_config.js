@@ -1,1 +1,1 @@
-var mnemonic = "next universe pink crush forum jeans clean short flip fantasy govern method";
+var mnemonic = "thrive vote evoke neglect grocery century famous cake style enroll pumpkin dress";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle rival sign ketchup mimic child panda spoon renew toy liquid shrug";
+var mnemonic = "scale drastic pony town copper bachelor mesh blast cruel depend repeat album";

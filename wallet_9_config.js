@@ -1,1 +1,1 @@
-var mnemonic = "kit test advance decide trigger talent pole dream globe sick pioneer mail";
+var mnemonic = "obtain marble anchor risk resemble coffee script pulse blue wise boat purity";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth column stem napkin winner sleep whale crop bridge burst diagram excess";
+var mnemonic = "box payment process unusual spring prosper fame inch banner install sphere hockey";

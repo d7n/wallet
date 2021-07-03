@@ -1,1 +1,1 @@
-var mnemonic = "lesson ignore pill opera refuse monitor juice hospital record defy budget enter";
+var mnemonic = "pond middle shine sketch ribbon process easy gloom trip tape destroy arctic";

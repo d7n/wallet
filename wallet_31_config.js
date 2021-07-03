@@ -1,1 +1,1 @@
-var mnemonic = "coffee wife swing else carbon gaze vacuum client omit disagree donkey subject";
+var mnemonic = "valve jelly claim inch help reflect cycle object candy meadow announce outer";

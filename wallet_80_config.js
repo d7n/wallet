@@ -1,1 +1,1 @@
-var mnemonic = "wealth aunt hammer ensure age access spare file dolphin guide abandon diet";
+var mnemonic = "cargo evoke what wide acquire round cherry notable ball spring force side";

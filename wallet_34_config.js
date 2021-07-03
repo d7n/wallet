@@ -1,1 +1,1 @@
-var mnemonic = "between year fury tongue neither update case fetch fragile fruit consider supreme";
+var mnemonic = "faculty glory walk sing fine dutch release orange help grass dress cross";

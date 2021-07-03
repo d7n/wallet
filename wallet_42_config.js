@@ -1,1 +1,1 @@
-var mnemonic = "stomach jazz sunset orbit already void exile pave mechanic later solid any";
+var mnemonic = "episode weekend oppose border move wild age sugar person sword napkin forward";

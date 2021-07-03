@@ -1,1 +1,1 @@
-var mnemonic = "private leisure kiwi trick throw close person brisk shoe script abstract merge";
+var mnemonic = "normal scrub mail lucky total relax spoil fruit cash good embark thumb";

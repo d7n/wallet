@@ -1,1 +1,1 @@
-var mnemonic = "glove square action buffalo waste ball purpose ritual art laptop action consider";
+var mnemonic = "coach common phone fetch raven mango drive approve flip grid monkey topple";

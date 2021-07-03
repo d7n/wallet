@@ -1,1 +1,1 @@
-var mnemonic = "later begin leader rug asset waste tooth dog story napkin van route";
+var mnemonic = "comfort tunnel prize define network uphold army club truth venture flash federal";

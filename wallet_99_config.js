@@ -1,1 +1,1 @@
-var mnemonic = "offer cereal wash during crunch scare oval timber unit horror burden tone";
+var mnemonic = "steak allow caution coffee salmon ocean verify video rule stairs brain cool";

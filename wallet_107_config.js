@@ -1,1 +1,1 @@
-var mnemonic = "seed mirror cradle public crime hub such slice mesh apple real start";
+var mnemonic = "rocket fine fragile hope bar screen sugar hen crash library appear eternal";

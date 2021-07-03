@@ -1,1 +1,1 @@
-var mnemonic = "curve sustain enemy bulb finish east endorse else unfold denial aware theory";
+var mnemonic = "armed electric gorilla arch gate desk glad neglect about old index upgrade";

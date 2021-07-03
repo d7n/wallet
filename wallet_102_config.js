@@ -1,1 +1,1 @@
-var mnemonic = "movie inner impact lesson skirt inmate picture private zone model horse social";
+var mnemonic = "acid toast pulp survey bone luggage burden finger kitchen front discover unhappy";

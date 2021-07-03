@@ -1,1 +1,1 @@
-var mnemonic = "breeze lottery stereo truly access mansion hollow garden misery tattoo dry breeze";
+var mnemonic = "interest try absurd rare host gadget rather grace engine fresh render cost";

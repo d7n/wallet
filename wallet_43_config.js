@@ -1,1 +1,1 @@
-var mnemonic = "engage project inherit napkin female unfair midnight piano offer know copy random";
+var mnemonic = "school romance elite dinosaur extend unhappy thumb rose someone pill moment crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "gun forward heavy hockey drop swallow animal unable shy this forget another";
+var mnemonic = "pencil walk brush bar width correct cargo genre magic dust shine cheese";

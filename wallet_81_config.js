@@ -1,1 +1,1 @@
-var mnemonic = "sniff shoot huge ivory chicken just disease common guitar relief vacuum glide";
+var mnemonic = "silent result fuel hungry twice capital own spare lawn minimum hover wool";

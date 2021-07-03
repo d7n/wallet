@@ -1,1 +1,1 @@
-var mnemonic = "hill mass genius hurdle juice various tornado artwork add poem private garden";
+var mnemonic = "great trip stem ring various box genre kitten elder beach monitor month";

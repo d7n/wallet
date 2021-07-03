@@ -1,1 +1,1 @@
-var mnemonic = "toss best imitate oppose atom mansion own yard major talk chest invest";
+var mnemonic = "equip damage answer keep liquid share card crew promote enact hedgehog weird";

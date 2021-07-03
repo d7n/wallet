@@ -1,1 +1,1 @@
-var mnemonic = "crush report galaxy method forward key wolf kid wrist mesh quality submit";
+var mnemonic = "museum depth helmet shift trumpet blood jelly culture powder panic isolate gloom";

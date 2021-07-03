@@ -1,1 +1,1 @@
-var mnemonic = "sausage crucial pioneer clerk tennis ghost loan move estate eternal elbow during";
+var mnemonic = "maze always quiz armed area quick potato climb rule federal visit earth";

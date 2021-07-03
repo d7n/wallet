@@ -1,1 +1,1 @@
-var mnemonic = "profit critic ill topic own south champion walk human silk praise rotate";
+var mnemonic = "social promote walnut scale hybrid strategy vanish napkin assume harsh hospital trouble";

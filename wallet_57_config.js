@@ -1,1 +1,1 @@
-var mnemonic = "powder swift summer vehicle stand penalty lawn bone deposit property pumpkin offer";
+var mnemonic = "witness school hawk random food immense fever tide goddess mosquito network stadium";

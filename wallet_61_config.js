@@ -1,1 +1,1 @@
-var mnemonic = "gown ugly become innocent ladder seed increase vendor exile forget luxury stuff";
+var mnemonic = "zoo bone feed often scheme scan birth language base abuse office disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "glory hold simple vicious heavy reduce prevent nut trim medal lunch slogan";
+var mnemonic = "clinic biology enemy frown bitter open churn post target nothing carbon pledge";

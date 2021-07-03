@@ -1,1 +1,1 @@
-var mnemonic = "half basic bind assault effort present capable comic index palm jewel occur";
+var mnemonic = "inject magic autumn lemon relax include note pledge stool sand link wide";

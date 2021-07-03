@@ -1,1 +1,1 @@
-var mnemonic = "helmet song toss special drastic task recycle clerk box dynamic actress embark";
+var mnemonic = "gym actor oyster protect label novel mimic width kind cliff soldier cram";

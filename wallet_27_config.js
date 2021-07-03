@@ -1,1 +1,1 @@
-var mnemonic = "rebuild nothing muscle almost hollow benefit assist tag recipe profit worry hurry";
+var mnemonic = "drop state smoke cabin spray spoil rally uphold pigeon poem mistake stereo";

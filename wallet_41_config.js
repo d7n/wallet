@@ -1,1 +1,1 @@
-var mnemonic = "stock gadget advance siren despair large cover route shove parrot shy subject";
+var mnemonic = "jewel gather feature gain never physical zone network sausage rookie obtain assault";

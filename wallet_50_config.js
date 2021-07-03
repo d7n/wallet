@@ -1,1 +1,1 @@
-var mnemonic = "twin fancy muffin night net display message spare equal olive retreat nasty";
+var mnemonic = "gallery gold fan rate give circle miracle engine stone web dune cruel";

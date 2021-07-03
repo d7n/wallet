@@ -1,1 +1,1 @@
-var mnemonic = "explain dragon rude staff shaft cereal orphan pig exhaust carbon funny educate";
+var mnemonic = "easy popular during hidden regret pause session prepare vanish tackle submit electric";

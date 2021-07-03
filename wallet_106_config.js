@@ -1,1 +1,1 @@
-var mnemonic = "swear light acoustic place supply honey change boat knock situate coach accident";
+var mnemonic = "useful cattle shiver slam gasp crack valve magic onion urban mutual hero";

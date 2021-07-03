@@ -1,1 +1,1 @@
-var mnemonic = "link between alley phrase bunker wild athlete burger noise cereal luggage magic";
+var mnemonic = "beach fancy version bicycle clever accident marriage orient fine useful young cage";

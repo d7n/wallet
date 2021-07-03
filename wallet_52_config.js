@@ -1,1 +1,1 @@
-var mnemonic = "stumble come fitness erosion art loop brave treat mystery month alpha mango";
+var mnemonic = "follow water control toward bicycle mystery home pupil average milk casino cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "slight mobile expand soldier point merry layer april conduct glare medal unfair";
+var mnemonic = "inner input seminar knee clog thunder flock matter outdoor diesel arrive master";
