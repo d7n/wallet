@@ -1,1 +1,1 @@
-var mnemonic = "liar document rhythm noble timber enjoy cheap envelope wear frost enough brief";
+var mnemonic = "rapid correct cherry horror lazy hour surge model either promote uphold amount";

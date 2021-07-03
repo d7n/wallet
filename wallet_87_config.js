@@ -1,1 +1,1 @@
-var mnemonic = "push act resource hundred kangaroo impulse purity essence brush piece elder worth";
+var mnemonic = "silent burger code blame capital zoo toilet fruit leg eye crystal flee";

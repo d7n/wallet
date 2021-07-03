@@ -1,1 +1,1 @@
-var mnemonic = "kitchen ethics course myth wonder country knee stone frequent rain silent orbit";
+var mnemonic = "polar program cash teach tenant learn require expect street tomorrow hover charge";

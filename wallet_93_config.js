@@ -1,1 +1,1 @@
-var mnemonic = "fork champion ivory boring guilt scatter tonight middle degree gospel city guitar";
+var mnemonic = "illegal happy plate girl debate renew top blind danger project fire drastic";

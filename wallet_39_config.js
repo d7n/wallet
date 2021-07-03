@@ -1,1 +1,1 @@
-var mnemonic = "moment blast timber solve lucky social frame hand ceiling whip office idea";
+var mnemonic = "path expect index security ill vast hood under cloth today scheme fetch";

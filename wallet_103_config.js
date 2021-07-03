@@ -1,1 +1,1 @@
-var mnemonic = "obscure rule immune ten until giant fantasy surprise bean must tenant fence";
+var mnemonic = "chef square carry cream wage all spring private romance stamp faculty hero";

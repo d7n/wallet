@@ -1,1 +1,1 @@
-var mnemonic = "supreme puzzle grief hub arena dilemma correct author surround merry unaware sure";
+var mnemonic = "spirit answer cousin educate core snack fatigue spend vapor jazz verb extend";

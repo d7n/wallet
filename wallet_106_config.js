@@ -1,1 +1,1 @@
-var mnemonic = "direct sustain nose attitude armed gloom wool cake olive link check tent";
+var mnemonic = "situate certain blossom trap task venue parrot athlete cup release rebuild ordinary";

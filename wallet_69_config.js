@@ -1,1 +1,1 @@
-var mnemonic = "poet swarm casual nice cupboard can deny heart meadow argue social ankle";
+var mnemonic = "arm wet treat identify enrich aunt orient minute poverty session ecology neck";

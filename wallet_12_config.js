@@ -1,1 +1,1 @@
-var mnemonic = "crime innocent liberty quote collect make antenna siege govern clump analyst energy";
+var mnemonic = "demand shop wisdom exhibit caught wire salmon cheese wrap require wonder great";

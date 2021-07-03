@@ -1,1 +1,1 @@
-var mnemonic = "dinner local help tray blush alarm hazard symptom unit bench sugar meadow";
+var mnemonic = "reveal boring fury trophy piano taxi pen purpose athlete possible siren run";

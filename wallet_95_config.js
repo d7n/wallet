@@ -1,1 +1,1 @@
-var mnemonic = "spoil pigeon valve teach invest clay twist skill midnight together various wall";
+var mnemonic = "east jelly nature segment fabric victory frost song wheel trade bone ten";

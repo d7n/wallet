@@ -1,1 +1,1 @@
-var mnemonic = "organ canoe quick acoustic barrel music huge bulk humble atom sea broom";
+var mnemonic = "resource believe scan silent dream weather outdoor vote wine rabbit risk flavor";

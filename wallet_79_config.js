@@ -1,1 +1,1 @@
-var mnemonic = "then leave chuckle grow decrease pair change cycle unaware include team avocado";
+var mnemonic = "volcano have noodle edit cheese hobby elevator primary float render virtual balance";

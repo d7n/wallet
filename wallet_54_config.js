@@ -1,1 +1,1 @@
-var mnemonic = "neither innocent oblige swap loop agree aunt trim paddle life claim disease";
+var mnemonic = "cotton final youth hurry trap motor toilet benefit obtain crawl wrap bike";

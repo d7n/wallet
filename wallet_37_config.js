@@ -1,1 +1,1 @@
-var mnemonic = "choose federal trip tribe label inhale mandate sauce pink august muffin ladder";
+var mnemonic = "wonder result walnut load alter doctor injury observe solid town abstract table";

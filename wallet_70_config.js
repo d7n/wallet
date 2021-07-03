@@ -1,1 +1,1 @@
-var mnemonic = "sail improve electric deer west answer museum review grape learn arrange genius";
+var mnemonic = "common salmon vanish night health art lizard van already pitch arrange index";

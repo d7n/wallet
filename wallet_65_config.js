@@ -1,1 +1,1 @@
-var mnemonic = "code column day camp tray shoot detail fragile donate since truth space";
+var mnemonic = "trust echo group amount deal assume girl access gown blush actress wealth";

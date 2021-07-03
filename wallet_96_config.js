@@ -1,1 +1,1 @@
-var mnemonic = "harvest install gold need bacon pottery cotton pitch hand wrap fragile void";
+var mnemonic = "cereal please royal orbit girl divorce excess damage october deputy sea candy";

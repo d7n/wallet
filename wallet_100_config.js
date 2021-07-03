@@ -1,1 +1,1 @@
-var mnemonic = "odor stuff aim account proud congress friend very priority crystal glare bonus";
+var mnemonic = "detect express veteran runway rose current oven resemble also lift jeans priority";

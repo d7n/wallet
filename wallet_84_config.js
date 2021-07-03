@@ -1,1 +1,1 @@
-var mnemonic = "purity acquire virus during early scale mosquito sunset east again clock cheese";
+var mnemonic = "scout transfer smoke trim path expire elephant fold warrior satoshi valley favorite";

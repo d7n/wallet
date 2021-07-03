@@ -1,1 +1,1 @@
-var mnemonic = "squeeze dolphin sister valley upper moment error credit blossom matter solar pioneer";
+var mnemonic = "owner tortoise sting lottery tomorrow cousin dish damp nest squirrel filter job";

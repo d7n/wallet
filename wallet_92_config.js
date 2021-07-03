@@ -1,1 +1,1 @@
-var mnemonic = "sadness grid picnic candy knock valid exclude cycle seat meat blade because";
+var mnemonic = "nut envelope health brass protect square animal athlete awesome flat exchange rack";

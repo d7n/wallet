@@ -1,1 +1,1 @@
-var mnemonic = "upset fantasy brown advice abandon camera velvet panther friend calm slam original";
+var mnemonic = "vocal stool trip disease myth consider label around eyebrow blame friend oxygen";

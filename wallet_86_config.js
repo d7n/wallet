@@ -1,1 +1,1 @@
-var mnemonic = "urge wash assist color fence claim client unhappy mad palace cube obtain";
+var mnemonic = "ensure sauce long admit select alter brain lecture rabbit jaguar cement afraid";

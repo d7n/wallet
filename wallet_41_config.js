@@ -1,1 +1,1 @@
-var mnemonic = "knee wagon dose valve unusual hospital glare culture absorb bone force butter";
+var mnemonic = "inquiry also sketch satisfy border spider virus gorilla hunt purse thumb inner";

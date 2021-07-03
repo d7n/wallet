@@ -1,1 +1,1 @@
-var mnemonic = "hour anger smart pelican spread laundry person dust term treat thumb ranch";
+var mnemonic = "zoo ignore river either discover quiz citizen cannon squeeze glue visit brisk";

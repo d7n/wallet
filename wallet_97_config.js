@@ -1,1 +1,1 @@
-var mnemonic = "direct female recall van bomb theme output radar negative crater orchard huge";
+var mnemonic = "ignore choice badge business enhance laundry over pair walnut razor feed always";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry close gaze dust original rhythm parade vintage diesel isolate audit maze";
+var mnemonic = "sense outer century hen reward disorder danger van grocery health dragon venture";

@@ -1,1 +1,1 @@
-var mnemonic = "document fragile lounge letter welcome suffer crisp dirt stamp secret friend dutch";
+var mnemonic = "away sleep north collect husband style relief range pear twist smooth remove";

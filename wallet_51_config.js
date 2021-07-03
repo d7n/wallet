@@ -1,1 +1,1 @@
-var mnemonic = "clip rail ensure clock certain fog need gain dance clown flip drink";
+var mnemonic = "cattle sibling gaze animal tumble shock soap stay barrel what rail ethics";

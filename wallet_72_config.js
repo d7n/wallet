@@ -1,1 +1,1 @@
-var mnemonic = "change speed enable speak rice lift there regular moon input bag buyer";
+var mnemonic = "anchor unknown aware youth license album chapter clump usage patrol web couple";

@@ -1,1 +1,1 @@
-var mnemonic = "chief plunge talk lift ramp sponsor liquid carry sunset inch penalty invest";
+var mnemonic = "bullet rich appear change shy assault feed priority absent tank staff duty";

@@ -1,1 +1,1 @@
-var mnemonic = "universe spoon match purchase fluid market ghost grow bus alone there milk";
+var mnemonic = "ski avoid wonder sail industry embody dice fitness maid way evoke worry";

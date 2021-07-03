@@ -1,1 +1,1 @@
-var mnemonic = "tragic letter illness cherry pigeon idle barrel genius narrow prosper denial injury";
+var mnemonic = "oyster fly scorpion frog upper screen tomorrow sentence human lesson win neck";

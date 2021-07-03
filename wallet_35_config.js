@@ -1,1 +1,1 @@
-var mnemonic = "maximum cabin debris alien gift juice deposit canoe scatter brand able volcano";
+var mnemonic = "virtual win left just choose tower foster truth aisle fortune area isolate";

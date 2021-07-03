@@ -1,1 +1,1 @@
-var mnemonic = "prepare solution struggle pitch example math gift inflict hamster enable jungle dash";
+var mnemonic = "skate either bird advance random camp trigger today assault saddle grocery sick";

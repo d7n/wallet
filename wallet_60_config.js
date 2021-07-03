@@ -1,1 +1,1 @@
-var mnemonic = "just drama build enhance risk tooth plug smoke sponsor emotion roast put";
+var mnemonic = "custom symptom hen obtain inch gain maple caution cruise describe day stick";

@@ -1,1 +1,1 @@
-var mnemonic = "vague twice student clog quantum label valley dismiss rely blood matrix elephant";
+var mnemonic = "vibrant earth law exotic follow genuine cool stick tragic bean taxi endless";

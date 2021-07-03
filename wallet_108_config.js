@@ -1,1 +1,1 @@
-var mnemonic = "pizza cat credit avocado super interest wife device glad chef clean brain";
+var mnemonic = "unknown donkey nuclear move inject lunar real pottery try picnic planet valve";

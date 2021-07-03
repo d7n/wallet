@@ -1,1 +1,1 @@
-var mnemonic = "sudden enroll accuse deny panel useless gun animal clump veteran crop pull";
+var mnemonic = "weasel ranch lesson pause upset hundred lounge range very offer acoustic occur";

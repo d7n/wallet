@@ -1,1 +1,1 @@
-var mnemonic = "twist lucky hello rabbit cushion over illness spice mountain lounge middle popular";
+var mnemonic = "ahead twist oblige type dance car among teach offer warm pigeon job";

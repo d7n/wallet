@@ -1,1 +1,1 @@
-var mnemonic = "hungry topple coil ensure trick mixture gentle blue december fluid shell glory";
+var mnemonic = "evoke hello coin effort vivid cruel okay brisk icon end exercise bonus";

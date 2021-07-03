@@ -1,1 +1,1 @@
-var mnemonic = "long timber current become desert bind humble knife sentence timber glass swarm";
+var mnemonic = "click milk valve gloom addict horror actor wing rail enlist render cup";

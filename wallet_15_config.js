@@ -1,1 +1,1 @@
-var mnemonic = "truly edge inquiry solar shrug baby orchard bacon alarm possible next toe";
+var mnemonic = "section lake innocent glue grid gauge double fluid field leaf art clutch";

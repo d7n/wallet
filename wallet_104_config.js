@@ -1,1 +1,1 @@
-var mnemonic = "foot play butter achieve adjust rack badge parade cool crop large narrow";
+var mnemonic = "hotel female gun choose until earth month country donor sugar improve absurd";

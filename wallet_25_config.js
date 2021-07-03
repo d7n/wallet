@@ -1,1 +1,1 @@
-var mnemonic = "hint engine worry vicious smooth chaos keep exact frequent cute summer girl";
+var mnemonic = "attract citizen cause diamond rifle improve warm wall swarm anxiety clap embrace";

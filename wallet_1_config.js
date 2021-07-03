@@ -1,1 +1,1 @@
-var mnemonic = "shuffle develop whip spy hint lava acquire member feed cruel recall ghost";
+var mnemonic = "pet wing afford avocado pulse assault genuine walnut jacket bubble inquiry plunge";

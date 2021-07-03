@@ -1,1 +1,1 @@
-var mnemonic = "chimney announce pulp sick blur level point hair ribbon federal beef rack";
+var mnemonic = "face purpose sample finger unique chuckle mercy actor pause ranch size food";

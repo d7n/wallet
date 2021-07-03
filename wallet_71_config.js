@@ -1,1 +1,1 @@
-var mnemonic = "source barrel outside recipe across second master tree sister electric orphan hurt";
+var mnemonic = "wolf gold stadium immense cycle beach soda finish race cry permit like";

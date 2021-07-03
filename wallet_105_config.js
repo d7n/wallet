@@ -1,1 +1,1 @@
-var mnemonic = "dash cash trumpet rice rack forum mean panda hole almost plastic february";
+var mnemonic = "gaze crumble effort celery easily artefact tired like village affair humor giggle";

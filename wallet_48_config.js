@@ -1,1 +1,1 @@
-var mnemonic = "stumble nephew lecture solar one knock category rally crazy swear total company";
+var mnemonic = "owner broom tail shove track deny keen shuffle floor barrel pull survey";

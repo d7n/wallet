@@ -1,1 +1,1 @@
-var mnemonic = "sponsor maximum desert normal news inspire sense aerobic connect assume wedding couple";
+var mnemonic = "faculty churn again case hair left ready churn shuffle cupboard aspect add";

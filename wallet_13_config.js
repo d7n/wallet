@@ -1,1 +1,1 @@
-var mnemonic = "agent uphold canyon frost adjust ticket series mention because crash candy leg";
+var mnemonic = "pave mean online either rival project audit lens brass okay twelve tomorrow";

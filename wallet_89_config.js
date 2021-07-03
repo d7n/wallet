@@ -1,1 +1,1 @@
-var mnemonic = "stool safe brass later outside material olive child swing rather medal vibrant";
+var mnemonic = "issue company copper radio wine west wet network define reward small pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "brain shy trap timber fortune virus market survey minor insane side glimpse";
+var mnemonic = "north drum turkey high flip tool real knock anchor tribe ostrich nasty";

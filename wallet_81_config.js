@@ -1,1 +1,1 @@
-var mnemonic = "allow observe roof wire foster shuffle fish fish script man solid fame";
+var mnemonic = "only fine venture glance chalk soft symptom sport upgrade tip test ball";

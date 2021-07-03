@@ -1,1 +1,1 @@
-var mnemonic = "arm admit spawn about share input eight ignore walk genius wink reason";
+var mnemonic = "twin finger enrich change satisfy bring device pole buddy party famous main";

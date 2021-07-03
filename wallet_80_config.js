@@ -1,1 +1,1 @@
-var mnemonic = "hidden gospel other orphan aim cool entire throw exchange panda weapon inform";
+var mnemonic = "chase twist buyer leg empower jealous crystal attend position embark entire blue";

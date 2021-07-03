@@ -1,1 +1,1 @@
-var mnemonic = "enhance tooth maid glance pumpkin vital pair when equip relax cupboard always";
+var mnemonic = "fiber enemy hole spoil mask reject menu resist cook gun attack sting";

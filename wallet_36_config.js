@@ -1,1 +1,1 @@
-var mnemonic = "menu race sand inmate replace biology method bulk balcony popular sunny slight";
+var mnemonic = "victory someone jar bar attract organ manage skirt riot swim captain blouse";

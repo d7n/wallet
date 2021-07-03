@@ -1,1 +1,1 @@
-var mnemonic = "program search awake naive tube eyebrow hazard canoe slender kid claw humor";
+var mnemonic = "unusual wealth blossom negative better afford ginger february off meadow rich title";

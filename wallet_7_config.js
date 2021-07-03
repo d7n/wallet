@@ -1,1 +1,1 @@
-var mnemonic = "dial educate casino sudden slot scrub angle arrest slot blur earth flat";
+var mnemonic = "special rose woman quiz wagon kitchen stumble artefact oxygen tortoise pelican prepare";

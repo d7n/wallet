@@ -1,1 +1,1 @@
-var mnemonic = "clutch ozone leaf fine captain rib write tomato index setup cabin off";
+var mnemonic = "brother fancy small decorate proud shy pistol hope make ensure manual wire";

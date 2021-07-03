@@ -1,1 +1,1 @@
-var mnemonic = "broken hard tomato video often fly cave poem rare credit appear cycle";
+var mnemonic = "salmon pear learn grass door senior memory stadium airport capable open decorate";

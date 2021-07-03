@@ -1,1 +1,1 @@
-var mnemonic = "unveil remind employ foil body clinic tooth speak gloom foil manage like";
+var mnemonic = "input orange anchor hint ten glove voice art middle powder avoid rate";

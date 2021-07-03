@@ -1,1 +1,1 @@
-var mnemonic = "tool agent claim logic page better guard evolve arrive cattle must chunk";
+var mnemonic = "happy slice ecology vapor lock fall senior siren vital donate ordinary large";

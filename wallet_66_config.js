@@ -1,1 +1,1 @@
-var mnemonic = "powder dignity bind pigeon paddle glow across orient ask flat donate dilemma";
+var mnemonic = "minimum runway razor replace require spoil true exact describe wet few file";

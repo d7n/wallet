@@ -1,1 +1,1 @@
-var mnemonic = "oven kit crumble demand exercise cage avocado beach ball cruel boring parent";
+var mnemonic = "buyer critic aim barrel entry movie private mosquito find room pact coyote";

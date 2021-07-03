@@ -1,1 +1,1 @@
-var mnemonic = "attract load doctor fruit equal camp crater place quote pottery finish horror";
+var mnemonic = "allow fade nation record depend unfair coil search notable material fish door";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic sock twist blur intact spoon poverty tray bottom clean creek high";
+var mnemonic = "network exact chapter program real auction found series crumble company exhibit evoke";

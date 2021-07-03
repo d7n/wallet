@@ -1,1 +1,1 @@
-var mnemonic = "process wolf usage drip enjoy issue crush once wreck monkey lend bulk";
+var mnemonic = "tiger hamster carbon session cloud fix spare trial warrior life wait hair";

@@ -1,1 +1,1 @@
-var mnemonic = "entire private famous glue slender scheme ranch grit tonight fix practice dizzy";
+var mnemonic = "permit hamster mutual where sick drive mercy smart slight list huge panther";

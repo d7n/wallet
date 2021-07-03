@@ -1,1 +1,1 @@
-var mnemonic = "neutral invite divorce gym fish shell hand range resemble nephew exotic century";
+var mnemonic = "indoor trust tackle bunker fan faculty snack rate note motor edge load";

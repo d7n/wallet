@@ -1,1 +1,1 @@
-var mnemonic = "phone coral resemble ribbon frown sauce effort swap song little appear pizza";
+var mnemonic = "narrow long shift make live vicious column farm warfare bridge title latin";

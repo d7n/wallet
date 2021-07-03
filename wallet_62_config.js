@@ -1,1 +1,1 @@
-var mnemonic = "theory elder north subject tooth rookie gallery alter steak faint muscle bronze";
+var mnemonic = "ball crouch cliff night walk punch rib despair half gas off useful";

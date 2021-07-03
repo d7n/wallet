@@ -1,1 +1,1 @@
-var mnemonic = "special disagree denial seed siege bacon sight pencil defy crash nose apology";
+var mnemonic = "dentist laundry short picture aware air parent ginger sport time uncover crack";

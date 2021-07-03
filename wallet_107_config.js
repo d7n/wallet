@@ -1,1 +1,1 @@
-var mnemonic = "indicate quote service cycle scale defense wonder cancel leg shield clump arena";
+var mnemonic = "net clip habit session raven rice vicious drive claim dynamic tumble regret";

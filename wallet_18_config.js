@@ -1,1 +1,1 @@
-var mnemonic = "hurdle witness sudden hungry shove blossom happy course total caught cost easy";
+var mnemonic = "smooth smart omit shrug near tumble armed shield venture exist off found";

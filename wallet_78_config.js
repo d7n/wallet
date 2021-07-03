@@ -1,1 +1,1 @@
-var mnemonic = "demise cherry try exhaust faint rack process awful mobile pool potato theory";
+var mnemonic = "nerve never rebuild ostrich list buffalo engine obey throw film gossip anchor";

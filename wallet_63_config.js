@@ -1,1 +1,1 @@
-var mnemonic = "refuse usual guess antenna pioneer yellow syrup much trial syrup pause whale";
+var mnemonic = "badge doll cliff fluid sign subway forget include fox object soda quit";

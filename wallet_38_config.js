@@ -1,1 +1,1 @@
-var mnemonic = "jeans raise soon shell situate fine rely lens height half possible demand";
+var mnemonic = "gain potato recipe crane base expand oblige rally grant civil ski delay";

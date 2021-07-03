@@ -1,1 +1,1 @@
-var mnemonic = "curtain present slim tag rifle tuna acquire pistol juice rookie elder belt";
+var mnemonic = "pupil remember balance move rapid enhance wood relief robust ask abandon call";

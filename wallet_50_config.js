@@ -1,1 +1,1 @@
-var mnemonic = "muffin try flight assume act achieve awkward cactus host dash observe eagle";
+var mnemonic = "shove matrix jelly fashion diet bus indicate heavy pause wonder elephant rocket";
