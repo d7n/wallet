@@ -1,1 +1,1 @@
-var mnemonic = "insane happy major moral warfare pig twist vintage soul earth pioneer paddle";
+var mnemonic = "problem vehicle science finish auction miracle weekend oblige bless piece pledge income";

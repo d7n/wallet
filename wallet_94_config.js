@@ -1,1 +1,1 @@
-var mnemonic = "once mouse punch step music shoe enrich isolate mercy disagree defy pole";
+var mnemonic = "depend auto inherit chair work treat smoke denial anchor still december intact";

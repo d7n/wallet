@@ -1,1 +1,1 @@
-var mnemonic = "author chef puppy method lazy awake casual grass salt era turtle fence";
+var mnemonic = "loop fluid area noodle bus monkey size jealous genius globe poem monster";

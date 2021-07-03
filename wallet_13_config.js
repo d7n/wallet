@@ -1,1 +1,1 @@
-var mnemonic = "token execute fall scrub fuel lecture rescue outer misery mule frost laundry";
+var mnemonic = "prefer father sustain mention long potato ripple thunder total dizzy infant february";

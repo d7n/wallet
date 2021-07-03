@@ -1,1 +1,1 @@
-var mnemonic = "lemon mother nest undo plate dad glow genius purity raccoon close cash";
+var mnemonic = "sniff used funny tired expire tortoise talk consider image use labor knock";

@@ -1,1 +1,1 @@
-var mnemonic = "biology crowd wing custom range swim dash salad chicken tool world adjust";
+var mnemonic = "nation toe category coast submit mind mesh toy valve valve alone easy";

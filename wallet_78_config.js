@@ -1,1 +1,1 @@
-var mnemonic = "town table jacket measure torch absurd fatal sand true parent come globe";
+var mnemonic = "easy ordinary middle check miracle humor defy crumble solution caution toast panic";

@@ -1,1 +1,1 @@
-var mnemonic = "increase onion six gospel indoor enemy fitness evil vessel mushroom either swamp";
+var mnemonic = "truly debris loyal move rapid spy snow suffer suspect traffic opera margin";

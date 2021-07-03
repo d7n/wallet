@@ -1,1 +1,1 @@
-var mnemonic = "parrot milk guilt endless rib south unique depth equal dumb night deny";
+var mnemonic = "total file quick company embrace mouse cave grape runway hen expect female";

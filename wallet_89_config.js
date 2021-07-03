@@ -1,1 +1,1 @@
-var mnemonic = "dream palace young indicate curtain million magnet merry wash ahead junior bounce";
+var mnemonic = "embody vapor sword spirit clarify sound perfect peasant good stomach crouch ethics";

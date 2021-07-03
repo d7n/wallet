@@ -1,1 +1,1 @@
-var mnemonic = "nose save oven weapon legal barely certain rural cycle pride asthma few";
+var mnemonic = "ketchup dizzy crash addict feature agent ivory foil canyon remain display average";

@@ -1,1 +1,1 @@
-var mnemonic = "option predict grant chaos awkward bring gasp usual achieve remove amused stock";
+var mnemonic = "rule raise perfect life intact girl include champion day popular emerge same";

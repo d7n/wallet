@@ -1,1 +1,1 @@
-var mnemonic = "bounce deputy produce mind now pear pool mad income audit tattoo capital";
+var mnemonic = "mixture dirt program void liquid usage label together nerve slight ordinary rude";

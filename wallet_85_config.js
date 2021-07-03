@@ -1,1 +1,1 @@
-var mnemonic = "health wonder voice ice airport little drastic park paper play large inner";
+var mnemonic = "nose rubber frozen bicycle finger bone talk orbit horror sadness butter horror";

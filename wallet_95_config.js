@@ -1,1 +1,1 @@
-var mnemonic = "witness mountain resource remain damp bunker announce purity gain rebuild ceiling into";
+var mnemonic = "high humble unusual eye soft chalk crunch dignity join private picnic rug";

@@ -1,1 +1,1 @@
-var mnemonic = "shop text salad foam unit online kingdom path host strategy give menu";
+var mnemonic = "myth love fiction tail cycle mimic confirm toddler special flock hero amount";

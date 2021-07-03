@@ -1,1 +1,1 @@
-var mnemonic = "enact orange host dirt want dad grow raccoon consider empower crane twenty";
+var mnemonic = "exotic icon island reflect anger brain hover finish appear injury busy tide";

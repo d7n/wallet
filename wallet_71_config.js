@@ -1,1 +1,1 @@
-var mnemonic = "follow system awesome slogan swift air prepare wet cruise atom post winter";
+var mnemonic = "glance merge hat type shaft sleep box always clerk badge adapt sustain";

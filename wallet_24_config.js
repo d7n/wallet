@@ -1,1 +1,1 @@
-var mnemonic = "bronze design chef fat rubber play heart receive price shove shiver seek";
+var mnemonic = "rent road vanish answer drop common venue wife absorb unknown punch grape";

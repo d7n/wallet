@@ -1,1 +1,1 @@
-var mnemonic = "hollow attend shuffle silk license feature rough note exile snack rhythm swap";
+var mnemonic = "ridge vicious swing mirror diet leave wear speed fire column act pitch";

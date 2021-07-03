@@ -1,1 +1,1 @@
-var mnemonic = "board brave pyramid much weird file penalty net ski present wide wrestle";
+var mnemonic = "rain brass stay panel expire memory setup point taste drama asset ceiling";

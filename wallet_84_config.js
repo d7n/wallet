@@ -1,1 +1,1 @@
-var mnemonic = "ghost spray embark lecture frost minor trim stem envelope bronze long sleep";
+var mnemonic = "gain wedding eight dish depth train destroy degree income wish sheriff seek";

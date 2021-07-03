@@ -1,1 +1,1 @@
-var mnemonic = "suggest remind depart mutual shaft lesson label ship hurry innocent impact renew";
+var mnemonic = "grab inject hollow guitar grace sense amateur dignity math survey ghost model";

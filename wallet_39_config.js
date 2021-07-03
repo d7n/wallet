@@ -1,1 +1,1 @@
-var mnemonic = "civil about subject lion indoor inspire swing ribbon burst stomach horn news";
+var mnemonic = "drip tragic timber junior response hope harbor antenna home shop art original";

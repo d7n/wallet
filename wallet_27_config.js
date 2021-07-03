@@ -1,1 +1,1 @@
-var mnemonic = "good actress usual bundle oxygen great exhibit team few carbon ignore canvas";
+var mnemonic = "bulk foster squeeze husband point clean twenty small keen lunar battle message";

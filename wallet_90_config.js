@@ -1,1 +1,1 @@
-var mnemonic = "upper venue inject inch crater deliver tunnel ankle detail member lion urge";
+var mnemonic = "disorder install palm sense riot involve path owner upper era pledge vacant";

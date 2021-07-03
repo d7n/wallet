@@ -1,1 +1,1 @@
-var mnemonic = "blouse number token leader december plug venue inform sting tent prefer better";
+var mnemonic = "profit budget recipe light random enlist attract genius damp again blade emerge";

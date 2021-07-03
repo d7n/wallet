@@ -1,1 +1,1 @@
-var mnemonic = "door list feed surround start security simple recycle unhappy creek timber genius";
+var mnemonic = "snack upper sick immune horse faint foam mother pole trumpet lab awake";

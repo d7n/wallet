@@ -1,1 +1,1 @@
-var mnemonic = "color toward believe cube idea salt wing fan basket garden brain aspect";
+var mnemonic = "bacon vocal act seven hello manual tenant corn pave resource you delay";

@@ -1,1 +1,1 @@
-var mnemonic = "basic gorilla wall disagree clap lamp strong attract guitar away mixture video";
+var mnemonic = "goddess task pistol perfect chef train sheriff act grass noodle hill flash";

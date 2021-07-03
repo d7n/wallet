@@ -1,1 +1,1 @@
-var mnemonic = "tray hollow scare exhaust broom stumble front inner silly shiver check tribe";
+var mnemonic = "inmate deputy awkward tennis blossom dinosaur struggle share love flag ask hover";

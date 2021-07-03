@@ -1,1 +1,1 @@
-var mnemonic = "cousin member shift endorse aim flag dignity thing term essay trouble innocent";
+var mnemonic = "trial cage witness suit source tornado ice alarm hurry judge east rocket";

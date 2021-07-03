@@ -1,1 +1,1 @@
-var mnemonic = "upper clerk dismiss soon upper short build cycle stem fatal own dune";
+var mnemonic = "ghost top until save fatigue asset chicken toast spice margin garlic detail";

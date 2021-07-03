@@ -1,1 +1,1 @@
-var mnemonic = "perfect fabric safe buzz enjoy puppy useful distance wet web knee elder";
+var mnemonic = "scorpion toss note stem marine vote palace disagree field shadow document issue";

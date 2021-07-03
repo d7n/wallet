@@ -1,1 +1,1 @@
-var mnemonic = "gold knock jealous city rather nose attract mixed tank orchard devote inform";
+var mnemonic = "tourist balance window fame degree initial creek pledge ozone edit food poverty";

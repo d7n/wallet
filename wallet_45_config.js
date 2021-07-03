@@ -1,1 +1,1 @@
-var mnemonic = "moral theory jealous card teach kitchen tiny width acid lecture airport token";
+var mnemonic = "damage elephant feature tide museum bless before disorder leg lock alien gorilla";

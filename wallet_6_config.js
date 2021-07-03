@@ -1,1 +1,1 @@
-var mnemonic = "space fabric staff rail follow add old shadow avocado corn walnut board";
+var mnemonic = "scout claw north scene collect census luxury model wait excess file learn";

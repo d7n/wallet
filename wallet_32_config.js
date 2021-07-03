@@ -1,1 +1,1 @@
-var mnemonic = "soft ethics find pride unable atom local general habit proud loud web";
+var mnemonic = "session swap laundry live unknown normal cry measure elevator arrive addict frost";

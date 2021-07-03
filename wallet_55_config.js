@@ -1,1 +1,1 @@
-var mnemonic = "modify climb banner frost afford same result little supreme absurd business foam";
+var mnemonic = "skate ready dial dawn fade replace damp cram that inherit loud eight";

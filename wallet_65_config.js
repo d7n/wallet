@@ -1,1 +1,1 @@
-var mnemonic = "reopen add else unknown analyst inner shrimp about prosper avoid garden nasty";
+var mnemonic = "whip skate asthma witness rely pizza duty until family mail lake rent";

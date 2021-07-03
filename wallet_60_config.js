@@ -1,1 +1,1 @@
-var mnemonic = "iron gun business hard iron divide rescue gadget cover unveil subway alert";
+var mnemonic = "wash doctor transfer bright dress lift left trust output toddler pass alpha";

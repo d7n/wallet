@@ -1,1 +1,1 @@
-var mnemonic = "sing once engage reveal female wide bubble solution service crumble note universe";
+var mnemonic = "leader cradle travel wife orchard sadness tag hurry miracle like license duty";

@@ -1,1 +1,1 @@
-var mnemonic = "hub melody leader ripple company garbage stand dilemma grow february gallery manage";
+var mnemonic = "pull quick load address social stairs erode envelope olympic royal sibling divide";

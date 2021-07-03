@@ -1,1 +1,1 @@
-var mnemonic = "rural insect ahead theme sure ketchup tissue tip art coil lesson spare";
+var mnemonic = "tennis proud audit remember surround gadget service say digital brain laugh foot";

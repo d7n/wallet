@@ -1,1 +1,1 @@
-var mnemonic = "machine blue match educate logic doll hire work fever volcano length casino";
+var mnemonic = "amount display bachelor rather afford spray boring eight fiction guess file merge";

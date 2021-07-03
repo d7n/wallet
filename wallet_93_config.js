@@ -1,1 +1,1 @@
-var mnemonic = "chunk soft unveil swift scale brave oxygen slush blouse voyage scene blue";
+var mnemonic = "script find mushroom roof into double learn situate table diesel else dash";

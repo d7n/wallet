@@ -1,1 +1,1 @@
-var mnemonic = "apart buffalo member candy vote parent planet client flag pond armor divorce";
+var mnemonic = "property misery comic talent style open chuckle reopen fire merge clay rhythm";

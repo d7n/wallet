@@ -1,1 +1,1 @@
-var mnemonic = "duck fork sorry stairs two neither oxygen shine thank identify whisper believe";
+var mnemonic = "ghost hole trip learn hamster favorite target beauty jungle indicate pepper annual";

@@ -1,1 +1,1 @@
-var mnemonic = "case shaft indicate danger medal oak oppose protect vast become gesture pumpkin";
+var mnemonic = "burst minor seek breeze female luggage jealous fringe situate minor crouch deposit";

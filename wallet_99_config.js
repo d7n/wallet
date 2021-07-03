@@ -1,1 +1,1 @@
-var mnemonic = "accuse unit spread success slim divert nephew bicycle vast author chapter check";
+var mnemonic = "marble immune grid find belt gather taste ready cherry exhaust fold chat";

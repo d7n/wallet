@@ -1,1 +1,1 @@
-var mnemonic = "ceiling earn rough walk soft calm spice miracle grant situate expose foam";
+var mnemonic = "rebuild sunny area mutual grain sound identify saddle reward smile soda window";

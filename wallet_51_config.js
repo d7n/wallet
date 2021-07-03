@@ -1,1 +1,1 @@
-var mnemonic = "simple tuition emerge night hazard buffalo shiver mule beef quiz hub custom";
+var mnemonic = "north viable grocery skate master fold spider jeans image enjoy lucky rice";

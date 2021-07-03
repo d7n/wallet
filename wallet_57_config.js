@@ -1,1 +1,1 @@
-var mnemonic = "physical bomb diesel ski viable board method trigger prison false brown world";
+var mnemonic = "grocery mask movie adapt winner vessel crush upon gravity voyage prefer bracket";

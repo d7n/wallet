@@ -1,1 +1,1 @@
-var mnemonic = "worry friend enemy congress jealous famous double loop winner element offer nose";
+var mnemonic = "rain leave goat naive young tooth again garlic dress antenna travel wet";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate system october decade diesel climb detect list truck brand cream enlist";
+var mnemonic = "sphere lake lunar oval crime music save access mass device never shift";

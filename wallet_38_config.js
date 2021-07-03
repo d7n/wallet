@@ -1,1 +1,1 @@
-var mnemonic = "noodle emotion snake right relax public cradle company square slush connect wall";
+var mnemonic = "crew merge resource face session erase advice caution enhance leave elbow fog";

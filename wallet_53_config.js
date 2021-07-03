@@ -1,1 +1,1 @@
-var mnemonic = "hard during memory sound happy unfair dry razor try column crane obscure";
+var mnemonic = "emotion faint anger syrup repeat put sail appear segment crime grief zebra";

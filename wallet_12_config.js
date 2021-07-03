@@ -1,1 +1,1 @@
-var mnemonic = "ribbon follow add inject hope leg exclude edit grit runway wonder era";
+var mnemonic = "public evil finish loop hobby frog charge van pottery rebuild spread slush";

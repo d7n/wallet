@@ -1,1 +1,1 @@
-var mnemonic = "welcome quote name cable file plastic protect rack cake giant kiwi indicate";
+var mnemonic = "coach way assist stove grit piano lamp royal usual toss accuse say";

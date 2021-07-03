@@ -1,1 +1,1 @@
-var mnemonic = "narrow forest miss umbrella elite path milk catalog shield spirit unveil earn";
+var mnemonic = "guide twice away shallow toilet fat nature street narrow cover decline egg";

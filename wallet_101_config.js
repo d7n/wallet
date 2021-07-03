@@ -1,1 +1,1 @@
-var mnemonic = "erupt stomach enough broken soldier fog pepper robust own vapor rural eagle";
+var mnemonic = "shock sight guide ski stand beauty bring various space must candy enroll";

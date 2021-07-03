@@ -1,1 +1,1 @@
-var mnemonic = "token glue veteran luggage birth reason hair almost maximum slight record lumber";
+var mnemonic = "initial wrong jar when other pilot artefact team ensure around lend filter";

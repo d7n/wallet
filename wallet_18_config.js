@@ -1,1 +1,1 @@
-var mnemonic = "allow exhaust rely business govern foot palm wait ramp laptop make very";
+var mnemonic = "isolate sister client video swing meadow cabbage infant flat famous hello virus";

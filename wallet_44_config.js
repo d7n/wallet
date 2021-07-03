@@ -1,1 +1,1 @@
-var mnemonic = "dinner whip milk swallow this blouse picnic series leg swift leave peasant";
+var mnemonic = "fire fence ivory clog drink clap struggle kiss off provide easily current";

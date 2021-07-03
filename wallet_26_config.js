@@ -1,1 +1,1 @@
-var mnemonic = "dance permit birth layer bar cool universe modify swear flash jump cradle";
+var mnemonic = "negative pause glad diagram stay february spare barely practice walk scene able";

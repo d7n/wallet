@@ -1,1 +1,1 @@
-var mnemonic = "orient blood hungry ridge lucky agree mesh door reunion finish over mass";
+var mnemonic = "audit hill juice fun garbage pepper property fall other fold crack identify";

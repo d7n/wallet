@@ -1,1 +1,1 @@
-var mnemonic = "picnic render game hamster today clever castle mention genius teach attend network";
+var mnemonic = "hurdle boy asset enhance arm sweet surprise tuna ancient general deliver doctor";

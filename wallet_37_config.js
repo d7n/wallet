@@ -1,1 +1,1 @@
-var mnemonic = "basket level margin melody bronze cost curtain certain dress bulk pencil guide";
+var mnemonic = "awesome donkey bid coral stamp now dust label clay rescue finger hazard";

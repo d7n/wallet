@@ -1,1 +1,1 @@
-var mnemonic = "wise usual erase usual agent giraffe crazy record cloth print cinnamon pull";
+var mnemonic = "night fashion pyramid input record erosion energy analyst dice cable excite action";

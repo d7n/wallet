@@ -1,1 +1,1 @@
-var mnemonic = "language local spare fly inside brother speak leisure coral increase skirt bench";
+var mnemonic = "latin cry scan deny duck metal junk ripple smooth entry mule blast";

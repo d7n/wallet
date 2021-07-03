@@ -1,1 +1,1 @@
-var mnemonic = "easy oblige cricket gaze basic eager suffer narrow cup hungry spring rain";
+var mnemonic = "diamond fault salmon flight strike process scout chaos umbrella clap avocado duty";

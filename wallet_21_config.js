@@ -1,1 +1,1 @@
-var mnemonic = "online twist six mandate hope universe core hollow afford pigeon open habit";
+var mnemonic = "lab chuckle feel portion table asthma enjoy harbor narrow picnic asset harbor";

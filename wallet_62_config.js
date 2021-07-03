@@ -1,1 +1,1 @@
-var mnemonic = "safe leg recall donkey episode rack country that quick jacket shoot man";
+var mnemonic = "limit produce fox wash sad improve gold fine fee erase fantasy portion";

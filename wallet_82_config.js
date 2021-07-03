@@ -1,1 +1,1 @@
-var mnemonic = "regular rib attend guitar bargain easy seminar expire live sadness fold banner";
+var mnemonic = "forest giggle hello theory girl cinnamon real knock predict unique inflict garlic";

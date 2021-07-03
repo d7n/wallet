@@ -1,1 +1,1 @@
-var mnemonic = "damage kit just student train car crunch input market crunch culture polar";
+var mnemonic = "lyrics just hockey cabbage young lava robust nerve sort alone around child";

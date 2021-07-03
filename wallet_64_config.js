@@ -1,1 +1,1 @@
-var mnemonic = "leaf cruise include lounge much camp rescue win dream funny comic blade";
+var mnemonic = "expect gadget always position develop utility gold honey popular toward organ damage";

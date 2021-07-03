@@ -1,1 +1,1 @@
-var mnemonic = "frame undo alpha desk alter into bulb warm increase lonely chaos solar";
+var mnemonic = "brief kiwi humble define mass dirt hip kiwi wear unusual account escape";

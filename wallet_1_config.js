@@ -1,1 +1,1 @@
-var mnemonic = "comic effort soccer culture captain circle trip lunar hospital welcome salmon shrimp";
+var mnemonic = "cruise deputy gym until great chalk best segment gadget service sea zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "situate coconut blade soup bid charge diamond vibrant lawsuit hello attack tiny";
+var mnemonic = "purse sunset boss soldier script fat roof patrol dose copy alert enable";

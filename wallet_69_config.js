@@ -1,1 +1,1 @@
-var mnemonic = "clap bar alter taxi ostrich fan hour bid burger govern weird copper";
+var mnemonic = "sphere grace quarter child witness split derive drastic benefit soda orchard oyster";

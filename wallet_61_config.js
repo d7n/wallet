@@ -1,1 +1,1 @@
-var mnemonic = "month foster arctic combine permit cousin recall east fly siren peanut regular";
+var mnemonic = "rapid forest erode spare original quiz street hawk dwarf maid mammal daughter";

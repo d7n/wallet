@@ -1,1 +1,1 @@
-var mnemonic = "milk board develop budget marriage couch organ large narrow slight tone misery";
+var mnemonic = "diagram bunker hidden wink seek hammer hundred offer filter trick waste dog";

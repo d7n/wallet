@@ -1,1 +1,1 @@
-var mnemonic = "remind truck bottom bird guide dust enhance leave quarter undo law embark";
+var mnemonic = "aware vicious agree enact select guide bonus lab symbol rubber twist bike";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch high coin present tissue zero curtain anger session blouse rebuild insect";
+var mnemonic = "describe useful admit cricket result feature tunnel party place anxiety lend timber";

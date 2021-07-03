@@ -1,1 +1,1 @@
-var mnemonic = "universe essay drum athlete welcome east search purpose lunch essay remember unknown";
+var mnemonic = "purse harvest remind shoulder february chest stem exile end twelve reflect excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "person doll energy give immense derive daughter snap cluster evoke swallow hedgehog";
+var mnemonic = "smile nasty explain soap aunt struggle apart comic excess onion axis ahead";

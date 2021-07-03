@@ -1,1 +1,1 @@
-var mnemonic = "region giggle snap river caught school exchange letter matter theory balance faculty";
+var mnemonic = "blind casino shift soon daughter neglect box curious tube own hammer remove";

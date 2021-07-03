@@ -1,1 +1,1 @@
-var mnemonic = "dismiss begin air trash write later update dilemma help bag beach company";
+var mnemonic = "rocket key style whale become master slab unit token hidden planet before";

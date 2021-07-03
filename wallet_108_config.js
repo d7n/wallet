@@ -1,1 +1,1 @@
-var mnemonic = "barely inherit vehicle pitch van else math extend category fetch solve unique";
+var mnemonic = "anger grace trim intact outside once budget guide iron final morning celery";

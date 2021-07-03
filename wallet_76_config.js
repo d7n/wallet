@@ -1,1 +1,1 @@
-var mnemonic = "success vacant banana spike nest glove way tiny loyal reason hedgehog young";
+var mnemonic = "discover danger light biology clock today vivid core surface enroll deliver rhythm";

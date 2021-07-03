@@ -1,1 +1,1 @@
-var mnemonic = "keen giraffe over note guitar liar village wheel valley spoon shine deal";
+var mnemonic = "wool unknown trophy thunder lizard prefer various shift hold song frost excess";

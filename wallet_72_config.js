@@ -1,1 +1,1 @@
-var mnemonic = "melt twelve library client battle blanket salt law direct select cotton rabbit";
+var mnemonic = "limb menu busy flight present use power comfort response grief medal unique";

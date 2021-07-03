@@ -1,1 +1,1 @@
-var mnemonic = "manual opinion slender vote gorilla peace blue turn letter thumb medal teach";
+var mnemonic = "since lumber faculty pill regret air alpha antenna goddess main input jazz";

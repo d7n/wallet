@@ -1,1 +1,1 @@
-var mnemonic = "chat hope box wife release achieve sentence nation possible siren spend identify";
+var mnemonic = "abandon garden column way evidence swamp evil nurse silly knee horse alley";
