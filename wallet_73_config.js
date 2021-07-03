@@ -1,1 +1,1 @@
-var mnemonic = "damp spoon arch need ceiling sausage actual spy item royal make extra";
+var mnemonic = "remain clarify fancy mother grass monkey admit siege tape abandon manual pact";

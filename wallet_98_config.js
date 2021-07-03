@@ -1,1 +1,1 @@
-var mnemonic = "evoke hello coin effort vivid cruel okay brisk icon end exercise bonus";
+var mnemonic = "domain upgrade front engage prefer mouse logic slim wild damage until title";

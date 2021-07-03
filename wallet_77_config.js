@@ -1,1 +1,1 @@
-var mnemonic = "hole local trip air misery rubber grocery gossip usage earn rely concert";
+var mnemonic = "boost wife moment casual loyal butter pair father canoe boil option frame";

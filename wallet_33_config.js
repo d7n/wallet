@@ -1,1 +1,1 @@
-var mnemonic = "uphold learn nominee world illegal heavy spatial apart jewel custom cream old";
+var mnemonic = "stage silly snack grain happy once raven reflect unique attend endless you";

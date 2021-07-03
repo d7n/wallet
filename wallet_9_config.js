@@ -1,1 +1,1 @@
-var mnemonic = "brother fancy small decorate proud shy pistol hope make ensure manual wire";
+var mnemonic = "speak quit grape hockey shrimp emotion coin sugar result source thought defy";

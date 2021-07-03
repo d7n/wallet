@@ -1,1 +1,1 @@
-var mnemonic = "net clip habit session raven rice vicious drive claim dynamic tumble regret";
+var mnemonic = "clerk scrub profit universe tobacco find frost trophy fee resist evil clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth smart omit shrug near tumble armed shield venture exist off found";
+var mnemonic = "neither agent then mimic dog brand correct useful state comfort skate wool";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal boring fury trophy piano taxi pen purpose athlete possible siren run";
+var mnemonic = "jaguar mesh mule camera large joke drip possible key theory narrow creek";

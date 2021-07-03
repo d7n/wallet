@@ -1,1 +1,1 @@
-var mnemonic = "faculty churn again case hair left ready churn shuffle cupboard aspect add";
+var mnemonic = "rely snow identify bring rent column budget attract canvas provide small vibrant";

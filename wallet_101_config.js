@@ -1,1 +1,1 @@
-var mnemonic = "vocal stool trip disease myth consider label around eyebrow blame friend oxygen";
+var mnemonic = "short lounge kit load intact tragic nurse castle act aim enhance captain";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow long shift make live vicious column farm warfare bridge title latin";
+var mnemonic = "sock stick unique upset moon gas citizen pioneer thought liberty goose gap";

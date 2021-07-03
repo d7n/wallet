@@ -1,1 +1,1 @@
-var mnemonic = "north drum turkey high flip tool real knock anchor tribe ostrich nasty";
+var mnemonic = "can wreck defense inherit doll approve enlist boring wave cheap sound unhappy";

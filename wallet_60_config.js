@@ -1,1 +1,1 @@
-var mnemonic = "custom symptom hen obtain inch gain maple caution cruise describe day stick";
+var mnemonic = "vessel drum believe fun carbon price tide cube boost physical pepper away";

@@ -1,1 +1,1 @@
-var mnemonic = "only fine venture glance chalk soft symptom sport upgrade tip test ball";
+var mnemonic = "roast work phone decide spy shed nephew elephant powder orient oil close";

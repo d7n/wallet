@@ -1,1 +1,1 @@
-var mnemonic = "happy slice ecology vapor lock fall senior siren vital donate ordinary large";
+var mnemonic = "fade danger term afraid dove path ice always jungle slam face remember";

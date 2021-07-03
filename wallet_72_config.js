@@ -1,1 +1,1 @@
-var mnemonic = "anchor unknown aware youth license album chapter clump usage patrol web couple";
+var mnemonic = "evidence solar illness police lock slow velvet empty zero lucky theory cross";

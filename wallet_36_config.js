@@ -1,1 +1,1 @@
-var mnemonic = "victory someone jar bar attract organ manage skirt riot swim captain blouse";
+var mnemonic = "select canal winter cash hold level soul verb dirt attack fat picnic";

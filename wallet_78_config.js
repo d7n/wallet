@@ -1,1 +1,1 @@
-var mnemonic = "nerve never rebuild ostrich list buffalo engine obey throw film gossip anchor";
+var mnemonic = "sugar ghost short fresh promote river feel push aware retreat critic arch";

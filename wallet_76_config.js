@@ -1,1 +1,1 @@
-var mnemonic = "allow fade nation record depend unfair coil search notable material fish door";
+var mnemonic = "erase ahead speak there mind van candy hospital frown tuna almost topic";

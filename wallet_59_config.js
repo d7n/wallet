@@ -1,1 +1,1 @@
-var mnemonic = "vault clump capable lunar absent drink coyote scorpion soldier mind more famous";
+var mnemonic = "cherry ribbon cruise champion tomato key tube pledge nominee update tiger film";

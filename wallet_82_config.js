@@ -1,1 +1,1 @@
-var mnemonic = "asthma fly lunar gossip brisk fuel side shoe deer obey bus normal";
+var mnemonic = "heavy fog when wall cat sweet night shell twice follow common south";

@@ -1,1 +1,1 @@
-var mnemonic = "gain potato recipe crane base expand oblige rally grant civil ski delay";
+var mnemonic = "left evoke swing panel seed night desk wealth example scatter lady penalty";

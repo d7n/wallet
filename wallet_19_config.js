@@ -1,1 +1,1 @@
-var mnemonic = "zoo ignore river either discover quiz citizen cannon squeeze glue visit brisk";
+var mnemonic = "dash boat human room rally rifle prefer correct siren chapter identify real";

@@ -1,1 +1,1 @@
-var mnemonic = "online script round impact pulp method apart enter goose say prefer gorilla";
+var mnemonic = "cigar olympic local twelve oyster demise damage vacant please need multiply margin";

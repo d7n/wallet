@@ -1,1 +1,1 @@
-var mnemonic = "shoot permit metal nephew police guide cash group remind protect cream aspect";
+var mnemonic = "foam stem alcohol pulse wall sleep palace solid piano seek blind bone";

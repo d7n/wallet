@@ -1,1 +1,1 @@
-var mnemonic = "parade tongue crush sight reflect bean near toward town outer solid clean";
+var mnemonic = "between grid depth dentist doll husband flag army man adjust remind gather";

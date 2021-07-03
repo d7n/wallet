@@ -1,1 +1,1 @@
-var mnemonic = "shove matrix jelly fashion diet bus indicate heavy pause wonder elephant rocket";
+var mnemonic = "naive pact limit crawl wage universe between dirt then lecture brush arrow";

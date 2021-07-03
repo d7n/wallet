@@ -1,1 +1,1 @@
-var mnemonic = "pave mean online either rival project audit lens brass okay twelve tomorrow";
+var mnemonic = "screen gown palace trick maple observe small humor grain charge picture bleak";

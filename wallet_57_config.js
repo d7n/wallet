@@ -1,1 +1,1 @@
-var mnemonic = "skate either bird advance random camp trigger today assault saddle grocery sick";
+var mnemonic = "scrap deny object path quantum across document wolf panel culture head primary";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor trust tackle bunker fan faculty snack rate note motor edge load";
+var mnemonic = "age spatial accuse color pulse swallow wise often pitch young salmon crush";

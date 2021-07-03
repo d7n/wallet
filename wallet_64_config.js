@@ -1,1 +1,1 @@
-var mnemonic = "normal steel laundry fresh jewel gasp tilt retreat cradle onion debate one";
+var mnemonic = "animal usual trade wonder pitch still defense diary reduce release student engine";

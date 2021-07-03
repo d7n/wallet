@@ -1,1 +1,1 @@
-var mnemonic = "owner tortoise sting lottery tomorrow cousin dish damp nest squirrel filter job";
+var mnemonic = "slender theory inherit attitude renew road magic ready arena tooth grow boss";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze crumble effort celery easily artefact tired like village affair humor giggle";
+var mnemonic = "inject camera move design relief mandate ladder often tag accident yard wheat";

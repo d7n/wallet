@@ -1,1 +1,1 @@
-var mnemonic = "situate certain blossom trap task venue parrot athlete cup release rebuild ordinary";
+var mnemonic = "annual treat legal sausage dose meadow cabbage curve lonely turn speed torch";

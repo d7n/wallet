@@ -1,1 +1,1 @@
-var mnemonic = "badge doll cliff fluid sign subway forget include fox object soda quit";
+var mnemonic = "fury piece hamster pony canoe reveal middle useful unaware arch dust wine";

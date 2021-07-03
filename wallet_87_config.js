@@ -1,1 +1,1 @@
-var mnemonic = "silent burger code blame capital zoo toilet fruit leg eye crystal flee";
+var mnemonic = "ostrich lab guess come resist language sight clock enlist average attend mail";

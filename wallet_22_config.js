@@ -1,1 +1,1 @@
-var mnemonic = "click milk valve gloom addict horror actor wing rail enlist render cup";
+var mnemonic = "vault priority purity banana lend fluid priority enlist gravity wage wedding acid";

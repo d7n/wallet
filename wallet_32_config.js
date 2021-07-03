@@ -1,1 +1,1 @@
-var mnemonic = "describe fame merry output heavy aware orchard worry parrot knife zebra warfare";
+var mnemonic = "despair dirt panther magnet either airport mechanic board output genius setup fatal";

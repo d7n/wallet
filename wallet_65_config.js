@@ -1,1 +1,1 @@
-var mnemonic = "trust echo group amount deal assume girl access gown blush actress wealth";
+var mnemonic = "cricket chapter scorpion swamp shy message fortune trip long assault chunk possible";

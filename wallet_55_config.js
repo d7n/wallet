@@ -1,1 +1,1 @@
-var mnemonic = "dentist laundry short picture aware air parent ginger sport time uncover crack";
+var mnemonic = "run rate verb fresh rifle grief share discover attract chef sibling unknown";

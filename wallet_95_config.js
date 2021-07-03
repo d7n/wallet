@@ -1,1 +1,1 @@
-var mnemonic = "east jelly nature segment fabric victory frost song wheel trade bone ten";
+var mnemonic = "gown action almost illegal discover soldier wheat royal betray phone disorder basket";

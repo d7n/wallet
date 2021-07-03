@@ -1,1 +1,1 @@
-var mnemonic = "hotel female gun choose until earth month country donor sugar improve absurd";
+var mnemonic = "club weather ostrich quantum frost involve present wreck gate pen ethics athlete";

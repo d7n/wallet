@@ -1,1 +1,1 @@
-var mnemonic = "ski avoid wonder sail industry embody dice fitness maid way evoke worry";
+var mnemonic = "canvas mule volume stuff prevent illness step decade marriage disease sure scene";

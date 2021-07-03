@@ -1,1 +1,1 @@
-var mnemonic = "chase twist buyer leg empower jealous crystal attend position embark entire blue";
+var mnemonic = "prosper shield estate fatal swim palm under step zoo clever example initial";

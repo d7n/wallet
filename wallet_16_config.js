@@ -1,1 +1,1 @@
-var mnemonic = "salmon pear learn grass door senior memory stadium airport capable open decorate";
+var mnemonic = "fuel transfer present improve rule soon fire embody syrup search bid carry";

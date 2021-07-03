@@ -1,1 +1,1 @@
-var mnemonic = "jelly month seminar figure fall design noise lecture space elite pattern doctor";
+var mnemonic = "decorate spray seek adapt endless noise afford lonely balance civil bundle almost";

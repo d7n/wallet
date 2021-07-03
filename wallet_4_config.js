@@ -1,1 +1,1 @@
-var mnemonic = "away sleep north collect husband style relief range pear twist smooth remove";
+var mnemonic = "concert sun boost field frozen also fish tag exist crack drip depend";

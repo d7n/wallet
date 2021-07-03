@@ -1,1 +1,1 @@
-var mnemonic = "course lecture craft flower card upset sniff memory pencil view wild gesture";
+var mnemonic = "during output olive brush expand great drop try carry flag seek enhance";

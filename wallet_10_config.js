@@ -1,1 +1,1 @@
-var mnemonic = "oyster fly scorpion frog upper screen tomorrow sentence human lesson win neck";
+var mnemonic = "absurd often audit will relief elephant cabbage thank sponsor pass trend inherit";

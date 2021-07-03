@@ -1,1 +1,1 @@
-var mnemonic = "ahead twist oblige type dance car among teach offer warm pigeon job";
+var mnemonic = "burger pluck option kick holiday useful mechanic begin hundred asthma rubber duck";

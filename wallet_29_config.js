@@ -1,1 +1,1 @@
-var mnemonic = "scheme survey journey mouse endless select inhale tortoise visual raven satisfy gate";
+var mnemonic = "punch sausage october frost when trouble knock hungry increase rack ankle amazing";

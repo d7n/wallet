@@ -1,1 +1,1 @@
-var mnemonic = "rapid correct cherry horror lazy hour surge model either promote uphold amount";
+var mnemonic = "kitchen car pottery switch ripple general appear bus strategy avoid consider distance";

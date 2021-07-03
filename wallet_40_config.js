@@ -1,1 +1,1 @@
-var mnemonic = "reopen jump enlist surface learn canal chunk napkin estate next van spy";
+var mnemonic = "napkin shiver service foster parade slight stay wet great hair clutch good";

@@ -1,1 +1,1 @@
-var mnemonic = "ball crouch cliff night walk punch rib despair half gas off useful";
+var mnemonic = "such trash silk cluster gesture humble neither type fluid require pluck school";

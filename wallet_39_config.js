@@ -1,1 +1,1 @@
-var mnemonic = "path expect index security ill vast hood under cloth today scheme fetch";
+var mnemonic = "ostrich cover north brown radio fuel wine monkey tortoise coach survey choice";

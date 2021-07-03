@@ -1,1 +1,1 @@
-var mnemonic = "essay apology slam black cycle link indicate derive equip dwarf purity arrange";
+var mnemonic = "change allow blur heavy harsh photo media sand bind solution unlock approve";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown donkey nuclear move inject lunar real pottery try picnic planet valve";
+var mnemonic = "lava disagree shoulder rough final creek slide control beef blanket hire nation";

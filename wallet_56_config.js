@@ -1,1 +1,1 @@
-var mnemonic = "network exact chapter program real auction found series crumble company exhibit evoke";
+var mnemonic = "quote sibling capital brisk word famous coast wash guess sound notice teach";

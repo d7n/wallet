@@ -1,1 +1,1 @@
-var mnemonic = "issue company copper radio wine west wet network define reward small pistol";
+var mnemonic = "method advance enough brown argue crouch lawsuit car normal trend zebra void";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder result walnut load alter doctor injury observe solid town abstract table";
+var mnemonic = "lift estate ancient nephew hammer profit usual lab analyst search permit visit";

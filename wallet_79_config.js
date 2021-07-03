@@ -1,1 +1,1 @@
-var mnemonic = "volcano have noodle edit cheese hobby elevator primary float render virtual balance";
+var mnemonic = "salon vehicle illness company victory protect this wrestle kid usage they rack";

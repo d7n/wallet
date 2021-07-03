@@ -1,1 +1,1 @@
-var mnemonic = "virtual win left just choose tower foster truth aisle fortune area isolate";
+var mnemonic = "party pyramid gown must favorite plunge record ordinary differ farm mango spot";

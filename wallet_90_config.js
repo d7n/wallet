@@ -1,1 +1,1 @@
-var mnemonic = "resource believe scan silent dream weather outdoor vote wine rabbit risk flavor";
+var mnemonic = "stuff you still eight sense wrist kick family normal polar video area";

@@ -1,1 +1,1 @@
-var mnemonic = "document brick bike sea more label device elegant punch trade under month";
+var mnemonic = "paddle will december audit earn garment space worry post quiz slab width";

@@ -1,1 +1,1 @@
-var mnemonic = "input orange anchor hint ten glove voice art middle powder avoid rate";
+var mnemonic = "horn awake disorder craft diet remove shy domain alone play color tuition";

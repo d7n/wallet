@@ -1,1 +1,1 @@
-var mnemonic = "dignity local old ready field rich cigar harsh scissors fabric embark thrive";
+var mnemonic = "exist almost fade trouble diesel busy guard north expand roof oppose violin";

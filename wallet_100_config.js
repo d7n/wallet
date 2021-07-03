@@ -1,1 +1,1 @@
-var mnemonic = "detect express veteran runway rose current oven resemble also lift jeans priority";
+var mnemonic = "act fortune have section only stock now slush ability lend roast dutch";

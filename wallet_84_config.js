@@ -1,1 +1,1 @@
-var mnemonic = "scout transfer smoke trim path expire elephant fold warrior satoshi valley favorite";
+var mnemonic = "possible example bottom people ripple reject wide cram robot size evoke puzzle";

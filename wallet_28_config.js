@@ -1,1 +1,1 @@
-var mnemonic = "pupil remember balance move rapid enhance wood relief robust ask abandon call";
+var mnemonic = "garment riot try example change cart sustain item flower winter flip frown";

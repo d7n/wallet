@@ -1,1 +1,1 @@
-var mnemonic = "common salmon vanish night health art lizard van already pitch arrange index";
+var mnemonic = "vast kid crystal thank rabbit title goose lady multiply isolate bone mouse";

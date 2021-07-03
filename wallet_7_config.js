@@ -1,1 +1,1 @@
-var mnemonic = "special rose woman quiz wagon kitchen stumble artefact oxygen tortoise pelican prepare";
+var mnemonic = "soup broccoli example flat still mass pact produce current dinner worry bubble";

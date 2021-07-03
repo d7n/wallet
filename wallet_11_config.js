@@ -1,1 +1,1 @@
-var mnemonic = "sort lyrics reveal throw voyage rude inject spare oyster idea pact siren";
+var mnemonic = "sibling blind grace filter since resource impact foam wear juice sample chalk";

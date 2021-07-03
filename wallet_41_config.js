@@ -1,1 +1,1 @@
-var mnemonic = "inquiry also sketch satisfy border spider virus gorilla hunt purse thumb inner";
+var mnemonic = "regular chef favorite question palm maze various speak between basic empower property";

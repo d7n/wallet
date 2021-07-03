@@ -1,1 +1,1 @@
-var mnemonic = "wolf gold stadium immense cycle beach soda finish race cry permit like";
+var mnemonic = "nominee never dish retire bamboo invest mom tennis actual kitchen theme kiwi";

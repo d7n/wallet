@@ -1,1 +1,1 @@
-var mnemonic = "face purpose sample finger unique chuckle mercy actor pause ranch size food";
+var mnemonic = "moon witness gain expose equip goddess scheme robust spell erode suggest clinic";

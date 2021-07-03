@@ -1,1 +1,1 @@
-var mnemonic = "local maze mouse brief shine omit blouse welcome husband venue resemble canoe";
+var mnemonic = "sort typical doll lonely town wait market stamp dawn debris choose puppy";

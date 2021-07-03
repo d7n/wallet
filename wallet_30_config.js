@@ -1,1 +1,1 @@
-var mnemonic = "afford gaze gun upon kiss topple duty gasp champion dove element work";
+var mnemonic = "insect visa iron mixed gaze slender bread refuse human muscle horse stadium";

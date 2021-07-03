@@ -1,1 +1,1 @@
-var mnemonic = "fiber enemy hole spoil mask reject menu resist cook gun attack sting";
+var mnemonic = "chest blood liar burger note prepare audit witness indoor define outside comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet rich appear change shy assault feed priority absent tank staff duty";
+var mnemonic = "dragon office announce near million cement oppose sustain matter elegant minimum blast";

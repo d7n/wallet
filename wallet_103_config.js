@@ -1,1 +1,1 @@
-var mnemonic = "chef square carry cream wage all spring private romance stamp faculty hero";
+var mnemonic = "abstract junk motor success left install any region impulse detect combine slice";

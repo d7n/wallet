@@ -1,1 +1,1 @@
-var mnemonic = "ensure sauce long admit select alter brain lecture rabbit jaguar cement afraid";
+var mnemonic = "route insect brain pumpkin accuse garbage jacket tenant spatial canal ocean virus";

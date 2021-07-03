@@ -1,1 +1,1 @@
-var mnemonic = "permit hamster mutual where sick drive mercy smart slight list huge panther";
+var mnemonic = "glimpse exact resemble pepper wink layer main crash start fossil merry supreme";

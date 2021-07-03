@@ -1,1 +1,1 @@
-var mnemonic = "weasel ranch lesson pause upset hundred lounge range very offer acoustic occur";
+var mnemonic = "crash snow cousin moment island arch salmon boost wall vapor noble music";

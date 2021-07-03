@@ -1,1 +1,1 @@
-var mnemonic = "illegal happy plate girl debate renew top blind danger project fire drastic";
+var mnemonic = "adjust frost diet hover equal question wish column symptom disagree coconut mixture";

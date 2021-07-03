@@ -1,1 +1,1 @@
-var mnemonic = "ignore choice badge business enhance laundry over pair walnut razor feed always";
+var mnemonic = "foil crawl drink poverty length interest pulse various later shuffle critic core";

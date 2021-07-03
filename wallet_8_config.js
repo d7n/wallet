@@ -1,1 +1,1 @@
-var mnemonic = "apology thank traffic despair figure unfold usage there group decrease cup witness";
+var mnemonic = "bullet plastic science rug peasant neglect buffalo margin accident myself cry arm";

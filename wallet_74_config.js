@@ -1,1 +1,1 @@
-var mnemonic = "buyer critic aim barrel entry movie private mosquito find room pact coyote";
+var mnemonic = "dinosaur intact company chief swift kitten faith loyal rule scout lamp spread";

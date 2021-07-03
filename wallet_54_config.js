@@ -1,1 +1,1 @@
-var mnemonic = "cotton final youth hurry trap motor toilet benefit obtain crawl wrap bike";
+var mnemonic = "plastic chalk spirit seed benefit globe march like enforce repair purse evil";
