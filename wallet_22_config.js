@@ -1,1 +1,1 @@
-var mnemonic = "mixture dirt program void liquid usage label together nerve slight ordinary rude";
+var mnemonic = "crucial eight acquire strike loan prevent inform gasp ball gadget genius upon";

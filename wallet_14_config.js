@@ -1,1 +1,1 @@
-var mnemonic = "ghost top until save fatigue asset chicken toast spice margin garlic detail";
+var mnemonic = "flee flash dragon around problem river ring enact truth satisfy chunk elite";

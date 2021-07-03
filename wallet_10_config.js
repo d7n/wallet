@@ -1,1 +1,1 @@
-var mnemonic = "ghost hole trip learn hamster favorite target beauty jungle indicate pepper annual";
+var mnemonic = "film wonder rack chief cabbage interest reflect draw wait fork amount brain";

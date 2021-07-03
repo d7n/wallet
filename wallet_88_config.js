@@ -1,1 +1,1 @@
-var mnemonic = "tennis proud audit remember surround gadget service say digital brain laugh foot";
+var mnemonic = "stand glad mercy riot donor purchase hole enjoy material scatter little venue";

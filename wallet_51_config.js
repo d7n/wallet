@@ -1,1 +1,1 @@
-var mnemonic = "north viable grocery skate master fold spider jeans image enjoy lucky rice";
+var mnemonic = "pen pattern destroy forest sample gasp first whisper employ sock steel favorite";

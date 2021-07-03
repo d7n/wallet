@@ -1,1 +1,1 @@
-var mnemonic = "truly debris loyal move rapid spy snow suffer suspect traffic opera margin";
+var mnemonic = "car weekend average rug kick once bullet please argue method when above";

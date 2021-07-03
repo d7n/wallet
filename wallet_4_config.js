@@ -1,1 +1,1 @@
-var mnemonic = "diagram bunker hidden wink seek hammer hundred offer filter trick waste dog";
+var mnemonic = "fire seat rack stamp nation between vintage prize head earn course curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "nose rubber frozen bicycle finger bone talk orbit horror sadness butter horror";
+var mnemonic = "social churn wrestle caution valve cost one narrow casual vintage dismiss neck";

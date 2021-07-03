@@ -1,1 +1,1 @@
-var mnemonic = "ridge vicious swing mirror diet leave wear speed fire column act pitch";
+var mnemonic = "program century drift draft assault decorate camera flip ensure horse maple manual";

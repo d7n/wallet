@@ -1,1 +1,1 @@
-var mnemonic = "shock sight guide ski stand beauty bring various space must candy enroll";
+var mnemonic = "admit enroll reason purchase need certain assist antique future summer fat cupboard";

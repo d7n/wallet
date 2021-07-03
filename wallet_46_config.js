@@ -1,1 +1,1 @@
-var mnemonic = "dragon kit visa gown lend reveal flag trip reunion circle hard side";
+var mnemonic = "slim ill catch ribbon idle image situate song episode turkey improve pulse";

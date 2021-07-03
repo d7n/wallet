@@ -1,1 +1,1 @@
-var mnemonic = "panda salmon produce pitch chalk symbol oppose sand scrap thank scissors voice";
+var mnemonic = "crucial neither inch hold truck provide during immune kidney life suggest brief";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon vocal act seven hello manual tenant corn pave resource you delay";
+var mnemonic = "muffin artwork mosquito dream toast cancel nut brand shed eternal spirit horse";

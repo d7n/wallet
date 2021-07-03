@@ -1,1 +1,1 @@
-var mnemonic = "leader cradle travel wife orchard sadness tag hurry miracle like license duty";
+var mnemonic = "hybrid illness visit topic razor perfect chef chaos lonely network old gaze";

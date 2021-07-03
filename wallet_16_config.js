@@ -1,1 +1,1 @@
-var mnemonic = "grab inject hollow guitar grace sense amateur dignity math survey ghost model";
+var mnemonic = "undo will arm huge turkey cook domain kangaroo correct ozone immense cream";

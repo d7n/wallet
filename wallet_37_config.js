@@ -1,1 +1,1 @@
-var mnemonic = "awesome donkey bid coral stamp now dust label clay rescue finger hazard";
+var mnemonic = "joy much already wolf hedgehog focus blade usual crash divert inhale net";

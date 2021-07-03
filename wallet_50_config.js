@@ -1,1 +1,1 @@
-var mnemonic = "pull quick load address social stairs erode envelope olympic royal sibling divide";
+var mnemonic = "lounge trend priority caught van tunnel digital student actual soul recycle risk";

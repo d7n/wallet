@@ -1,1 +1,1 @@
-var mnemonic = "property misery comic talent style open chuckle reopen fire merge clay rhythm";
+var mnemonic = "foil claw gas shed lava mad tag absorb grain rural practice extra";

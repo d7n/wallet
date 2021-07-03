@@ -1,1 +1,1 @@
-var mnemonic = "goddess task pistol perfect chef train sheriff act grass noodle hill flash";
+var mnemonic = "library verb only next they puzzle dolphin carbon phone test pear little";

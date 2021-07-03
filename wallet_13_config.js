@@ -1,1 +1,1 @@
-var mnemonic = "prefer father sustain mention long potato ripple thunder total dizzy infant february";
+var mnemonic = "stove brain shoot bullet pond clean voyage permit foot believe bottom give";

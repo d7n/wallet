@@ -1,1 +1,1 @@
-var mnemonic = "burst minor seek breeze female luggage jealous fringe situate minor crouch deposit";
+var mnemonic = "genre nation brief relax begin embark wall assist kangaroo tissue whale argue";

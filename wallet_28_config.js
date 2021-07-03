@@ -1,1 +1,1 @@
-var mnemonic = "limb eight muffin author club excite rally cruise flower appear spot crystal";
+var mnemonic = "brown nut fee item truly weird pact almost fatigue issue ensure avocado";

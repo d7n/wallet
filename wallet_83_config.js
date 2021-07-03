@@ -1,1 +1,1 @@
-var mnemonic = "purse sunset boss soldier script fat roof patrol dose copy alert enable";
+var mnemonic = "eternal now mention satoshi artwork badge fly account peace recall bright beyond";

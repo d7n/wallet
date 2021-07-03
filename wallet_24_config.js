@@ -1,1 +1,1 @@
-var mnemonic = "rent road vanish answer drop common venue wife absorb unknown punch grape";
+var mnemonic = "spot match mammal tape label review length actual ghost private alter glove";

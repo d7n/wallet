@@ -1,1 +1,1 @@
-var mnemonic = "ketchup dizzy crash addict feature agent ivory foil canyon remain display average";
+var mnemonic = "lens movie true matrix debate cruel shine force top skull notable smile";

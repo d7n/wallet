@@ -1,1 +1,1 @@
-var mnemonic = "scout claw north scene collect census luxury model wait excess file learn";
+var mnemonic = "chat harsh budget slight analyst mention tower hover beach negative trick language";

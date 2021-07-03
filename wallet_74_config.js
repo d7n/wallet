@@ -1,1 +1,1 @@
-var mnemonic = "describe useful admit cricket result feature tunnel party place anxiety lend timber";
+var mnemonic = "mushroom spawn motor armor huge raise simple work happy poem differ usual";

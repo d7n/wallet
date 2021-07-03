@@ -1,1 +1,1 @@
-var mnemonic = "rapid forest erode spare original quiz street hawk dwarf maid mammal daughter";
+var mnemonic = "runway scatter stage guide hat color argue city annual output program suffer";

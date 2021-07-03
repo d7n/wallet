@@ -1,1 +1,1 @@
-var mnemonic = "gain wedding eight dish depth train destroy degree income wish sheriff seek";
+var mnemonic = "voyage face vehicle blade ship slam duck length mixture wrist right more";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder install palm sense riot involve path owner upper era pledge vacant";
+var mnemonic = "brick armed awkward shoulder there check soap size attack midnight holiday help";

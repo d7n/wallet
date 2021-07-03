@@ -1,1 +1,1 @@
-var mnemonic = "loop fluid area noodle bus monkey size jealous genius globe poem monster";
+var mnemonic = "trash fade lock obey pottery lamp retreat boy father monster release art";

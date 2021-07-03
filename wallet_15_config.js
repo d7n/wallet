@@ -1,1 +1,1 @@
-var mnemonic = "audit hill juice fun garbage pepper property fall other fold crack identify";
+var mnemonic = "thank text popular zone motion someone lunar remind mosquito pill arrive bubble";

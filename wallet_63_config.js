@@ -1,1 +1,1 @@
-var mnemonic = "myth love fiction tail cycle mimic confirm toddler special flock hero amount";
+var mnemonic = "doctor income expose priority recycle bottom gate attend same advice park anchor";

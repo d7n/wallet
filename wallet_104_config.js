@@ -1,1 +1,1 @@
-var mnemonic = "rule raise perfect life intact girl include champion day popular emerge same";
+var mnemonic = "blanket candy turn thrive draw ten shuffle moon photo laugh equal unfair";

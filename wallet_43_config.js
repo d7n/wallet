@@ -1,1 +1,1 @@
-var mnemonic = "liberty pet embark adapt eyebrow push opera measure blast differ raw tennis";
+var mnemonic = "shell dwarf under avocado grow life dinosaur ready nerve mule flock route";

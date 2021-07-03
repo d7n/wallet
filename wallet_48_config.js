@@ -1,1 +1,1 @@
-var mnemonic = "diamond fault salmon flight strike process scout chaos umbrella clap avocado duty";
+var mnemonic = "destroy symbol winter boat tray arm huge umbrella glass giant trumpet multiply";

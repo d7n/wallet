@@ -1,1 +1,1 @@
-var mnemonic = "limb menu busy flight present use power comfort response grief medal unique";
+var mnemonic = "test lunch salt minor vacuum give base noble indicate february cradle fire";

@@ -1,1 +1,1 @@
-var mnemonic = "fire fence ivory clog drink clap struggle kiss off provide easily current";
+var mnemonic = "album number little case idea measure run obvious final distance tongue anger";

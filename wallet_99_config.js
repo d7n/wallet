@@ -1,1 +1,1 @@
-var mnemonic = "marble immune grid find belt gather taste ready cherry exhaust fold chat";
+var mnemonic = "puppy source prepare normal become shuffle nose sustain rigid survey remain viable";

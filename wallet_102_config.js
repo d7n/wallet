@@ -1,1 +1,1 @@
-var mnemonic = "initial wrong jar when other pilot artefact team ensure around lend filter";
+var mnemonic = "economy brass lyrics patch group artist want puppy elevator erase blue idle";

@@ -1,1 +1,1 @@
-var mnemonic = "glance merge hat type shaft sleep box always clerk badge adapt sustain";
+var mnemonic = "zebra orient debate retire scatter runway wing ride sugar meat citizen depth";

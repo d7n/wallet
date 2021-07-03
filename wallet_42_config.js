@@ -1,1 +1,1 @@
-var mnemonic = "whale master fat orbit shield invest series beauty among end royal oblige";
+var mnemonic = "gloom claw bird screen agree robust pistol fence pepper brain rally laptop";

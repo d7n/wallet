@@ -1,1 +1,1 @@
-var mnemonic = "coach way assist stove grit piano lamp royal usual toss accuse say";
+var mnemonic = "onion betray project kiss zone under weird long chef swift offer inch";

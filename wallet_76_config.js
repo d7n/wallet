@@ -1,1 +1,1 @@
-var mnemonic = "discover danger light biology clock today vivid core surface enroll deliver rhythm";
+var mnemonic = "wave bag connect sight arrange mushroom pigeon coral minute provide lecture stomach";

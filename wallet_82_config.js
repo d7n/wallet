@@ -1,1 +1,1 @@
-var mnemonic = "forest giggle hello theory girl cinnamon real knock predict unique inflict garlic";
+var mnemonic = "cabbage ostrich retreat attitude govern govern gravity direct riot approve buyer pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "guide twice away shallow toilet fat nature street narrow cover decline egg";
+var mnemonic = "behind vicious trigger fan rain civil help exile analyst material primary typical";

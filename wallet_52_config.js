@@ -1,1 +1,1 @@
-var mnemonic = "tortoise shadow captain clog supply flock ridge rain hobby pond fan time";
+var mnemonic = "hamster file rice prepare require help zoo father stove palm flush nurse";

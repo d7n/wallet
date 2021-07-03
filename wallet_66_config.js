@@ -1,1 +1,1 @@
-var mnemonic = "sphere lake lunar oval crime music save access mass device never shift";
+var mnemonic = "miracle width flat avocado sugar nut crew involve patch host ugly cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "public evil finish loop hobby frog charge van pottery rebuild spread slush";
+var mnemonic = "nature sand link wink fiction immense water budget horse capital hundred raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "present exhibit can disorder file viable review ski prize elbow blossom camp";
+var mnemonic = "vicious fatigue royal bless spatial transfer flush glare faith hollow card galaxy";

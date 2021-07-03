@@ -1,1 +1,1 @@
-var mnemonic = "latin cry scan deny duck metal junk ripple smooth entry mule blast";
+var mnemonic = "face bamboo rocket april turkey blade provide hope swift only print all";

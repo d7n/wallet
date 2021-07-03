@@ -1,1 +1,1 @@
-var mnemonic = "inmate deputy awkward tennis blossom dinosaur struggle share love flag ask hover";
+var mnemonic = "park vault uncover right faint uniform bus offer segment absent cricket design";

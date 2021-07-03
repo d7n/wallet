@@ -1,1 +1,1 @@
-var mnemonic = "easy ordinary middle check miracle humor defy crumble solution caution toast panic";
+var mnemonic = "renew bulb kite patch absorb license carbon check wine cart crush romance";

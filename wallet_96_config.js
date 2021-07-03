@@ -1,1 +1,1 @@
-var mnemonic = "profit budget recipe light random enlist attract genius damp again blade emerge";
+var mnemonic = "piano process machine rug mix air that outdoor once similar pill fury";

@@ -1,1 +1,1 @@
-var mnemonic = "high humble unusual eye soft chalk crunch dignity join private picnic rug";
+var mnemonic = "sport firm remain surface gym suffer merge basic address cabin scorpion ostrich";

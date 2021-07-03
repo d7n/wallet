@@ -1,1 +1,1 @@
-var mnemonic = "wash doctor transfer bright dress lift left trust output toddler pass alpha";
+var mnemonic = "conduct rug theme hedgehog announce lizard boy ugly burst salad lend disease";

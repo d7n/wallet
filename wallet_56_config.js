@@ -1,1 +1,1 @@
-var mnemonic = "wool unknown trophy thunder lizard prefer various shift hold song frost excess";
+var mnemonic = "tube dragon wish surround vacant rival effort bargain album city silk hello";

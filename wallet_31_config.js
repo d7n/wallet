@@ -1,1 +1,1 @@
-var mnemonic = "letter return spot fog visit rack merge steak fancy sorry mimic wedding";
+var mnemonic = "essay save drive live sphere build run exit slogan spawn when fantasy";

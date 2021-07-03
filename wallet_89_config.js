@@ -1,1 +1,1 @@
-var mnemonic = "embody vapor sword spirit clarify sound perfect peasant good stomach crouch ethics";
+var mnemonic = "damage quarter element door female switch attitude laundry kidney lake cousin coin";

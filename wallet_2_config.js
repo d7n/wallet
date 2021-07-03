@@ -1,1 +1,1 @@
-var mnemonic = "abandon garden column way evidence swamp evil nurse silly knee horse alley";
+var mnemonic = "glove brave shaft layer rifle execute shield cake ridge exhibit tomorrow egg";

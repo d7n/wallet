@@ -1,1 +1,1 @@
-var mnemonic = "isolate sister client video swing meadow cabbage infant flat famous hello virus";
+var mnemonic = "valve noodle town image sight fortune chalk ankle legal future nurse hover";

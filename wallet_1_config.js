@@ -1,1 +1,1 @@
-var mnemonic = "cruise deputy gym until great chalk best segment gadget service sea zebra";
+var mnemonic = "round shrug snack pistol rain argue text merit tag canoe candy naive";

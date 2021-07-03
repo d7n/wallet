@@ -1,1 +1,1 @@
-var mnemonic = "reduce people stomach apology magnet market fan chicken exact donate employ wreck";
+var mnemonic = "magic solid bronze pyramid series lava little mention just pepper rotate urge";

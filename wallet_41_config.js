@@ -1,1 +1,1 @@
-var mnemonic = "amount display bachelor rather afford spray boring eight fiction guess file merge";
+var mnemonic = "perfect panda pact snake fog month come wolf head topple ski endorse";

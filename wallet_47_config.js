@@ -1,1 +1,1 @@
-var mnemonic = "enforce loop marriage effort warm walk camp girl document inch pair road";
+var mnemonic = "arch sound skirt nation squeeze gate reduce emerge master flight receive joy";

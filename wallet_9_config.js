@@ -1,1 +1,1 @@
-var mnemonic = "tourist balance window fame degree initial creek pledge ozone edit food poverty";
+var mnemonic = "across fatal world riot indoor sing royal strong correct wrong assist patient";

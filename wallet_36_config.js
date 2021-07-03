@@ -1,1 +1,1 @@
-var mnemonic = "aware vicious agree enact select guide bonus lab symbol rubber twist bike";
+var mnemonic = "hollow teach step laptop source arctic pilot clump multiply wage call fade";

@@ -1,1 +1,1 @@
-var mnemonic = "since lumber faculty pill regret air alpha antenna goddess main input jazz";
+var mnemonic = "noodle truth fantasy dragon cigar siege smooth broccoli awful wagon marriage favorite";

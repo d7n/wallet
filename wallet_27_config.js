@@ -1,1 +1,1 @@
-var mnemonic = "bulk foster squeeze husband point clean twenty small keen lunar battle message";
+var mnemonic = "way devote problem poem width globe extra volume noble treat tired genius";

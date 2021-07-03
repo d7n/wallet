@@ -1,1 +1,1 @@
-var mnemonic = "brief kiwi humble define mass dirt hip kiwi wear unusual account escape";
+var mnemonic = "year venue boil raw genuine coral usual depart hello minute skate quit";

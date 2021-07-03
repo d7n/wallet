@@ -1,1 +1,1 @@
-var mnemonic = "twelve sunset regret cement lift jacket envelope reason damage brand vacant pet";
+var mnemonic = "airport pumpkin company forest boss normal heart hurdle skin mesh rare height";

@@ -1,1 +1,1 @@
-var mnemonic = "limit produce fox wash sad improve gold fine fee erase fantasy portion";
+var mnemonic = "reopen twice game swift limit amazing height marble radio sister turtle desk";

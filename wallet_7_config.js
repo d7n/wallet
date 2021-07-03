@@ -1,1 +1,1 @@
-var mnemonic = "night fashion pyramid input record erosion energy analyst dice cable excite action";
+var mnemonic = "fabric light want fitness today note cupboard grace inject reason expire elite";

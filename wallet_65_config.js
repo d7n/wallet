@@ -1,1 +1,1 @@
-var mnemonic = "whip skate asthma witness rely pizza duty until family mail lake rent";
+var mnemonic = "tree shadow same urban system castle tide way ordinary chair decade long";

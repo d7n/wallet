@@ -1,1 +1,1 @@
-var mnemonic = "rocket key style whale become master slab unit token hidden planet before";
+var mnemonic = "aunt under cloud marriage theme radar diet resist leave walk fiscal radio";

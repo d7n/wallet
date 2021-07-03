@@ -1,1 +1,1 @@
-var mnemonic = "exotic icon island reflect anger brain hover finish appear injury busy tide";
+var mnemonic = "oven neutral sure steak pass danger helmet leaf parade team stage board";

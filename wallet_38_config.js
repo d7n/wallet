@@ -1,1 +1,1 @@
-var mnemonic = "crew merge resource face session erase advice caution enhance leave elbow fog";
+var mnemonic = "wash explain canyon actual choose grocery cousin strategy pretty public neutral bean";

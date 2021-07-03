@@ -1,1 +1,1 @@
-var mnemonic = "lyrics just hockey cabbage young lava robust nerve sort alone around child";
+var mnemonic = "damp scout unit tragic cricket antenna wait giant chase model decade orbit";

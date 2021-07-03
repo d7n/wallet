@@ -1,1 +1,1 @@
-var mnemonic = "script find mushroom roof into double learn situate table diesel else dash";
+var mnemonic = "evil wolf gloom embody drastic rubber trick group finger mother nice dune";

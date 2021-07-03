@@ -1,1 +1,1 @@
-var mnemonic = "sniff used funny tired expire tortoise talk consider image use labor knock";
+var mnemonic = "cram spawn naive nice police hotel neutral wing attack reason cool input";

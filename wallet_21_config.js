@@ -1,1 +1,1 @@
-var mnemonic = "lab chuckle feel portion table asthma enjoy harbor narrow picnic asset harbor";
+var mnemonic = "tiger oxygen eager foot frame clog current impose search inherit become puzzle";

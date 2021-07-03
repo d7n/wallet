@@ -1,1 +1,1 @@
-var mnemonic = "rain brass stay panel expire memory setup point taste drama asset ceiling";
+var mnemonic = "october develop exchange family buzz current find shy cost ethics extend public";

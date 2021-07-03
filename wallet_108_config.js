@@ -1,1 +1,1 @@
-var mnemonic = "anger grace trim intact outside once budget guide iron final morning celery";
+var mnemonic = "crack close jungle unable twin master bubble update car bracket awkward brass";

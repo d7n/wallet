@@ -1,1 +1,1 @@
-var mnemonic = "expect gadget always position develop utility gold honey popular toward organ damage";
+var mnemonic = "spike buddy outer furnace august master return decide pond modify plate chimney";

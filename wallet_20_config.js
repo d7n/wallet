@@ -1,1 +1,1 @@
-var mnemonic = "rebuild sunny area mutual grain sound identify saddle reward smile soda window";
+var mnemonic = "lift area wine donkey cement scout trophy cherry speed prison bone blast";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle boy asset enhance arm sweet surprise tuna ancient general deliver doctor";
+var mnemonic = "isolate orange civil regular curve frozen stick door shrimp chapter airport palace";

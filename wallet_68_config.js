@@ -1,1 +1,1 @@
-var mnemonic = "smile nasty explain soap aunt struggle apart comic excess onion axis ahead";
+var mnemonic = "scorpion together prison cheap hollow brain scrub where margin abuse broccoli stage";

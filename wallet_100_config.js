@@ -1,1 +1,1 @@
-var mnemonic = "total file quick company embrace mouse cave grape runway hen expect female";
+var mnemonic = "lyrics machine code sunny work tone girl unlock ugly lens shrimp come";

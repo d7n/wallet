@@ -1,1 +1,1 @@
-var mnemonic = "trial cage witness suit source tornado ice alarm hurry judge east rocket";
+var mnemonic = "point clip craft inherit vibrant traffic square pluck rain eyebrow draft certain";

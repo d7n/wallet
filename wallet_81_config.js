@@ -1,1 +1,1 @@
-var mnemonic = "scorpion toss note stem marine vote palace disagree field shadow document issue";
+var mnemonic = "oil symbol ladder endless toilet response night winter glass alpha release doll";

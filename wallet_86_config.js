@@ -1,1 +1,1 @@
-var mnemonic = "snack upper sick immune horse faint foam mother pole trumpet lab awake";
+var mnemonic = "develop squirrel boy borrow wreck citizen dinner popular illegal tornado supreme west";

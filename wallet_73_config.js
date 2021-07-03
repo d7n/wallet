@@ -1,1 +1,1 @@
-var mnemonic = "power era village shell crater thing trumpet pen immense amount weird interest";
+var mnemonic = "alley wire refuse total clutch exit silk rude stage assist vacant moment";

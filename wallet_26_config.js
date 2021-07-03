@@ -1,1 +1,1 @@
-var mnemonic = "negative pause glad diagram stay february spare barely practice walk scene able";
+var mnemonic = "onion basic grit happy bulk spray injury six valley pact depth race";
