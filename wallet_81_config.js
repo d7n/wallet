@@ -1,1 +1,1 @@
-var mnemonic = "sadness better special fragile hammer hire print wink mosquito glow humble online";
+var mnemonic = "winter recycle buffalo used vicious seek gossip congress glass steel damp cinnamon";

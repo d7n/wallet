@@ -1,1 +1,1 @@
-var mnemonic = "jar recall save race slam cactus spike young gossip join check popular";
+var mnemonic = "pig huge approve april wreck speak load naive march salon eight little";

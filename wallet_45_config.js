@@ -1,1 +1,1 @@
-var mnemonic = "december sock wet true peasant puppy denial horse round tooth fox magnet";
+var mnemonic = "inspire pony tray couple layer remove lens ill ski define fabric detail";

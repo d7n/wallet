@@ -1,1 +1,1 @@
-var mnemonic = "scale fire wasp flight story spike author velvet leisure help gossip stomach";
+var mnemonic = "odor spell globe galaxy mouse nothing orchard swallow loan cheap warrior visa";

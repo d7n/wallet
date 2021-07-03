@@ -1,1 +1,1 @@
-var mnemonic = "zoo birth arrange produce hurry genius original sport buyer small emerge isolate";
+var mnemonic = "spare wing notable spirit hat snack fluid bench hurt bar peace swim";

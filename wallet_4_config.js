@@ -1,1 +1,1 @@
-var mnemonic = "seek apart ship motor degree age insane drastic keep rose tomato spice";
+var mnemonic = "fault deal ahead oppose motion course hotel shoulder toy agent hurdle symbol";

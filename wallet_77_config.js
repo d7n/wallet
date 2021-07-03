@@ -1,1 +1,1 @@
-var mnemonic = "top chunk upgrade love limb miracle adjust canvas outdoor method cotton drip";
+var mnemonic = "lounge acid absorb velvet sort topple early engine swing pact save gloom";

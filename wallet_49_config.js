@@ -1,1 +1,1 @@
-var mnemonic = "bag manual maid raven custom enjoy label width slab hard interest oxygen";
+var mnemonic = "shrimp clip security acoustic collect trip private hair regular brand below hamster";

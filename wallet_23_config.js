@@ -1,1 +1,1 @@
-var mnemonic = "ability kid kiwi happy blast trouble bullet hedgehog fly auction olympic erosion";
+var mnemonic = "problem grain bonus observe drama action focus they action spatial proof process";

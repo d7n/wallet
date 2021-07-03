@@ -1,1 +1,1 @@
-var mnemonic = "portion between vivid sudden luggage joy clog mercy common best crash moon";
+var mnemonic = "daughter innocent glow disease north move know lottery sentence fever fetch inject";

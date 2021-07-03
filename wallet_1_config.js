@@ -1,1 +1,1 @@
-var mnemonic = "else pilot lunar empower extra ignore gather dose trial evoke reward exist";
+var mnemonic = "blur brief neglect tomorrow slender home chef mango there moon injury possible";

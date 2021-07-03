@@ -1,1 +1,1 @@
-var mnemonic = "forum open harbor brass spray cherry elder inform power scissors patrol pencil";
+var mnemonic = "base board man cat west victory ridge once seek exercise decide delay";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve steel biology fox issue crew pink suspect sausage scrub category genius";
+var mnemonic = "ladder song struggle alarm know math penalty odor zone donkey crucial lunch";

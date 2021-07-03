@@ -1,1 +1,1 @@
-var mnemonic = "decide toast fantasy act music ridge solid attract essay extra duck library";
+var mnemonic = "across situate setup banner elevator crash country marble sea renew plunge enter";

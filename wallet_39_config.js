@@ -1,1 +1,1 @@
-var mnemonic = "elephant crumble fence click potato upon harbor course hood bread cash swift";
+var mnemonic = "eager guard flee army symptom thumb become question again nation security parrot";

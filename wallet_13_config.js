@@ -1,1 +1,1 @@
-var mnemonic = "romance install same destroy muffin rhythm heavy soap normal rude camp predict";
+var mnemonic = "scatter potato smooth under decrease web match beyond mistake laptop stem quantum";

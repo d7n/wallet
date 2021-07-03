@@ -1,1 +1,1 @@
-var mnemonic = "noise fence dizzy medal bonus ticket shoot angry stamp twist pretty obtain";
+var mnemonic = "educate impulse weird need bubble illegal area bar anchor rude helmet visual";

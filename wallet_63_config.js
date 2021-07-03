@@ -1,1 +1,1 @@
-var mnemonic = "absorb doctor target beach chalk foster black raise desk axis gadget unfair";
+var mnemonic = "labor gadget wide girl laugh nice adult squeeze rotate awake gadget hen";

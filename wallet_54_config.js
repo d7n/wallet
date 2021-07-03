@@ -1,1 +1,1 @@
-var mnemonic = "wine zero ship join inch arrest sister album lazy speak vintage maze";
+var mnemonic = "type away stone frown shock shock gravity fish depth submit number eight";

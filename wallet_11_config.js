@@ -1,1 +1,1 @@
-var mnemonic = "very rifle mushroom salon kite resist snack easily tired correct miss reveal";
+var mnemonic = "slim diamond save more mom case pulse current fragile clarify theory exotic";

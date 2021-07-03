@@ -1,1 +1,1 @@
-var mnemonic = "size category behind carpet clap wait twist civil doll work hazard minimum";
+var mnemonic = "blouse exhaust vacant tuna culture twenty idle local steel zoo enjoy pig";

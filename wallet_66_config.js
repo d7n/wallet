@@ -1,1 +1,1 @@
-var mnemonic = "wink spawn during rifle insect vintage toilet swamp industry glad video also";
+var mnemonic = "spring whip hospital where liberty tackle picture horse stadium amateur street hour";

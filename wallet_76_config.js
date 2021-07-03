@@ -1,1 +1,1 @@
-var mnemonic = "laptop wreck step two soap junior absorb fringe sausage horror survey uphold";
+var mnemonic = "club athlete front artwork arm gap accident tuition soul credit hawk carpet";

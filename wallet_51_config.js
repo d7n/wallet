@@ -1,1 +1,1 @@
-var mnemonic = "fish hard unknown empty demand fold online normal code ceiling laptop wing";
+var mnemonic = "true anger domain tape mixture awake earth wonder monitor unusual wild later";

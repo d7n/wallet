@@ -1,1 +1,1 @@
-var mnemonic = "sphere deliver language unique timber jewel pig ecology merit certain rare wave";
+var mnemonic = "uniform ski success car salmon old race horn position special erase catch";

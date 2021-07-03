@@ -1,1 +1,1 @@
-var mnemonic = "volcano pony input still tenant eye move maid fabric mirror foil mobile";
+var mnemonic = "stay miracle onion gossip focus wisdom earn put mountain throw shop hammer";

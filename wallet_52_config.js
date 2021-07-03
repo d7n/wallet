@@ -1,1 +1,1 @@
-var mnemonic = "runway speed unlock yellow coffee regret retire cloth net vital flame swim";
+var mnemonic = "typical pluck modify try trust gather comic gown junior fame minute must";

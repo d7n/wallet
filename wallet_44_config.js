@@ -1,1 +1,1 @@
-var mnemonic = "giraffe pool arrow settle shoe unfair blade gown crash olympic tool detect";
+var mnemonic = "moon loud diary episode unknown cart human voice menu magnet erase scare";

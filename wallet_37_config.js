@@ -1,1 +1,1 @@
-var mnemonic = "dog bench suspect bracket gossip suggest trap shallow casino private scan ball";
+var mnemonic = "steel visit trophy unveil talent brown float busy flower around dragon steak";

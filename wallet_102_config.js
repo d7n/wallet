@@ -1,1 +1,1 @@
-var mnemonic = "bottom carpet spend negative buzz bench agree narrow shell south power clever";
+var mnemonic = "desk hint steak avocado crew belt elite soccer surge labor vicious frown";

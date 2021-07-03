@@ -1,1 +1,1 @@
-var mnemonic = "tube comfort same together human pass during engage acquire job behind alcohol";
+var mnemonic = "degree insane claw soldier dutch casual song online pony fluid logic social";

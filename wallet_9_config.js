@@ -1,1 +1,1 @@
-var mnemonic = "damage charge round spatial dial clay chuckle vivid lesson undo decrease couple";
+var mnemonic = "enrich word income sunny keen aisle earn social bronze gift recipe cup";

@@ -1,1 +1,1 @@
-var mnemonic = "sign power expire broccoli syrup must frog onion dial gain pass insect";
+var mnemonic = "frown two canvas pet medal regret shock hole fence smile test winner";

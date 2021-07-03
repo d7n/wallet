@@ -1,1 +1,1 @@
-var mnemonic = "theory exchange pulp seven trick urge donate erase armed name license blur";
+var mnemonic = "suit salute visual cook obey city track foam sweet lounge icon eagle";

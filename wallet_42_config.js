@@ -1,1 +1,1 @@
-var mnemonic = "fly game key exist sentence bullet item valid law solid bracket casual";
+var mnemonic = "health bag slide chef client bus false fan naive gap seed liberty";

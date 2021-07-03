@@ -1,1 +1,1 @@
-var mnemonic = "secret talk return congress cargo umbrella anxiety bless client flower worry grief";
+var mnemonic = "trophy disorder skill shuffle video utility happy solar never frequent mandate oppose";

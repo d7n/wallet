@@ -1,1 +1,1 @@
-var mnemonic = "banner opinion together cook security toy burden height grab parade cat riot";
+var mnemonic = "veteran wide shaft upper tube undo roof sweet rhythm coil shock shift";

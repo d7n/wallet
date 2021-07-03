@@ -1,1 +1,1 @@
-var mnemonic = "lecture tissue already aerobic victory alpha rookie trend enhance theory either order";
+var mnemonic = "symbol spatial final supreme what clog object silk jungle mistake point metal";

@@ -1,1 +1,1 @@
-var mnemonic = "setup merry time hurdle raw champion visual exit actress favorite cost shuffle";
+var mnemonic = "turtle life uncle physical local drop federal inch grocery silly swear fragile";

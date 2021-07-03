@@ -1,1 +1,1 @@
-var mnemonic = "raise chronic own people year avocado grid flip coil alone city budget";
+var mnemonic = "benefit better pair century weather claw float author grid napkin glare october";

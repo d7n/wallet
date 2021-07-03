@@ -1,1 +1,1 @@
-var mnemonic = "coast where know abstract window target trap essay taste dance evoke pledge";
+var mnemonic = "short insect action north grief anchor tone camp wheat speed heavy doll";

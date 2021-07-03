@@ -1,1 +1,1 @@
-var mnemonic = "party hidden receive dream shrimp color road orbit balcony race welcome firm";
+var mnemonic = "drip old ask grid output crane lottery space scout control orbit digital";

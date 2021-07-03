@@ -1,1 +1,1 @@
-var mnemonic = "border citizen audit burst library logic ghost submit profit aim alien oval";
+var mnemonic = "summer awful sail phone paddle example hair leader recall north deliver oblige";

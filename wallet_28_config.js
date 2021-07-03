@@ -1,1 +1,1 @@
-var mnemonic = "hover minimum wealth cherry rigid naive riot ribbon size push high build";
+var mnemonic = "cement manage enrich useful hazard zero identify drop behind bracket trouble uncover";

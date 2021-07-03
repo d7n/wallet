@@ -1,1 +1,1 @@
-var mnemonic = "inner thing walnut economy fiscal mixture annual soon mad sadness endless camp";
+var mnemonic = "prepare alley photo sort blood ghost stick ceiling orchard echo thought tuna";

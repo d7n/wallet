@@ -1,1 +1,1 @@
-var mnemonic = "occur treat mother swim beach yard prosper cruise dilemma flower gospel diamond";
+var mnemonic = "scatter program decline slam horn aim head fish journey cereal avocado biology";

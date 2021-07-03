@@ -1,1 +1,1 @@
-var mnemonic = "carry naive tip viable hidden clock produce luggage will unfold dolphin bridge";
+var mnemonic = "spice salt onion wrong object rude outside erosion web ozone huge total";

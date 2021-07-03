@@ -1,1 +1,1 @@
-var mnemonic = "brisk rib toddler orphan screen caution shock step exotic speed fine december";
+var mnemonic = "merry tattoo amused candy arrest fruit panther pony harbor confirm inquiry paper";

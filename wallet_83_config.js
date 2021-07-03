@@ -1,1 +1,1 @@
-var mnemonic = "program trust layer receive blossom young saddle patrol effort sort harbor dutch";
+var mnemonic = "bracket display build praise jeans develop huge movie traffic agree praise acquire";

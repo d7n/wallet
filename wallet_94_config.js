@@ -1,1 +1,1 @@
-var mnemonic = "stick depart brain enough best young balance nut today boil bleak resemble";
+var mnemonic = "echo rebuild utility better own joke romance bundle daughter horn wood grass";

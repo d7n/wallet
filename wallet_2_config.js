@@ -1,1 +1,1 @@
-var mnemonic = "tape unveil hood lemon update rapid doctor property valve wear globe about";
+var mnemonic = "always main rice stadium feel foot rack clog hawk matrix invest hat";

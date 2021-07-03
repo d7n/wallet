@@ -1,1 +1,1 @@
-var mnemonic = "end debate uncle sweet visual twice lobster dream act deal okay private";
+var mnemonic = "hood attack trap avocado multiply symbol sell spawn worth clay lava lady";

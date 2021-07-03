@@ -1,1 +1,1 @@
-var mnemonic = "calm guitar wood dose able liar anger equal move jar insect air";
+var mnemonic = "crush slide force soldier board engage umbrella hunt resemble video immense dream";

@@ -1,1 +1,1 @@
-var mnemonic = "slow kind crush wrestle burden door whisper lonely voyage health liar whisper";
+var mnemonic = "sphere treat predict like orbit news thank amazing milk try hair version";

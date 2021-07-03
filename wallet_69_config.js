@@ -1,1 +1,1 @@
-var mnemonic = "grocery canyon patch casino vivid pelican vast resist hood weasel cruise soda";
+var mnemonic = "time pond fiscal nest party material submit vivid fish loud decorate assume";

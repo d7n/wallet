@@ -1,1 +1,1 @@
-var mnemonic = "street machine trip dance identify talk digital knock unfold desk picnic peace";
+var mnemonic = "nuclear renew soon mandate chef test flavor option nuclear palace first roof";

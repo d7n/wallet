@@ -1,1 +1,1 @@
-var mnemonic = "stuff dance wait fence zoo mercy basket enroll final cream robust exclude";
+var mnemonic = "anchor yard citizen message board rookie member initial cart foam napkin harbor";

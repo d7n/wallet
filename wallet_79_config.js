@@ -1,1 +1,1 @@
-var mnemonic = "best slight auto wage neck burden burst half height magnet what electric";
+var mnemonic = "misery always custom open you science gain dish knock suspect alpha health";

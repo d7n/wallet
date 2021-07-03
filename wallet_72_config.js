@@ -1,1 +1,1 @@
-var mnemonic = "habit steel eager lecture feature visit divert butter elite curious romance fall";
+var mnemonic = "balcony under excess dad glue siege liquid ice motion universe limb chief";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb key unfair roast upgrade tomorrow position clutch process bird toss prepare";
+var mnemonic = "height crime fringe vendor manual despair narrow author card detect fun whale";

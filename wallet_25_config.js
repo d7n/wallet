@@ -1,1 +1,1 @@
-var mnemonic = "poet lady surprise left ordinary share drop visa dentist chaos suffer small";
+var mnemonic = "artist hill grocery nurse fire oblige hard syrup ketchup tip luxury crazy";

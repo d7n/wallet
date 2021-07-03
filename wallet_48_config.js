@@ -1,1 +1,1 @@
-var mnemonic = "category degree tuna rain intact index blush unusual reopen correct foam reduce";
+var mnemonic = "vehicle ring badge alcohol bread brave dove toddler domain amused moral permit";

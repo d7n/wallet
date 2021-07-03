@@ -1,1 +1,1 @@
-var mnemonic = "all child autumn mixture insane regret session flip same pumpkin trim trap";
+var mnemonic = "lesson foil recycle weekend regular frame ability captain general useful catalog broccoli";

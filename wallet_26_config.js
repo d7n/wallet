@@ -1,1 +1,1 @@
-var mnemonic = "slogan media green energy hub please pudding arrest patrol cannon visit quote";
+var mnemonic = "brother quiz install pact match vibrant couple ritual enable fox true know";

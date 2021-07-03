@@ -1,1 +1,1 @@
-var mnemonic = "blind interest affair eight reform since paddle enough biology glance spirit they";
+var mnemonic = "reopen clay round spider crush dignity oxygen behave because flee female neutral";

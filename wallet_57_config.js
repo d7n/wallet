@@ -1,1 +1,1 @@
-var mnemonic = "error peace nut inform ocean foil vital act toe orchard science rough";
+var mnemonic = "equip hundred peasant romance test impulse blade myself believe vote illness asset";

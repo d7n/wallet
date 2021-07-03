@@ -1,1 +1,1 @@
-var mnemonic = "sign spike dove cake case tobacco drastic rotate boat beauty ticket crop";
+var mnemonic = "ability away abuse diary reveal demand sauce attitude cheap cross illness unveil";

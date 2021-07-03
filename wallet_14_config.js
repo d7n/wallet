@@ -1,1 +1,1 @@
-var mnemonic = "side safe civil arch like snack steak glimpse orphan crazy exact hire";
+var mnemonic = "retreat awkward token raven expand pioneer equal clock joke capable alter life";

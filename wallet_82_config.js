@@ -1,1 +1,1 @@
-var mnemonic = "web destroy appear hotel moral lyrics retire top shallow horse perfect benefit";
+var mnemonic = "consider margin south pool whale situate draft easy light control notable rookie";

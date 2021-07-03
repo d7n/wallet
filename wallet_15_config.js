@@ -1,1 +1,1 @@
-var mnemonic = "fork pig cactus afford zebra keen cattle cost volume woman equip harsh";
+var mnemonic = "equip pass cement story donor cup obey cotton print south frozen crop";

@@ -1,1 +1,1 @@
-var mnemonic = "two address flash coin gun innocent diary wheat canoe actress economy scout";
+var mnemonic = "join spot dinosaur violin hurt suffer ribbon head alien proof debris school";

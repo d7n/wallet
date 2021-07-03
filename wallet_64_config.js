@@ -1,1 +1,1 @@
-var mnemonic = "loan purchase attitude isolate dust tired speak talk intact climb museum round";
+var mnemonic = "mesh chunk people nuclear primary mixed inject child dinosaur short degree vibrant";

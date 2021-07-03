@@ -1,1 +1,1 @@
-var mnemonic = "error basket episode few enroll stool abstract bless pear light aerobic issue";
+var mnemonic = "brass same eagle cry thank balcony lottery flash soap dutch resist joy";

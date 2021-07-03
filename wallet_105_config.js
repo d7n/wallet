@@ -1,1 +1,1 @@
-var mnemonic = "blue baby hidden steak chimney glimpse labor sponsor salute convince reunion battle";
+var mnemonic = "blood renew patch fruit pizza already gloom cupboard undo account report beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse arrest hero kid armor clarify machine demise case survey alley priority";
+var mnemonic = "expand cluster feel express trouble couch inner arm plate repeat grace cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "brain interest hollow puppy hole dash carry pepper crunch favorite nerve squirrel";
+var mnemonic = "clay night balcony bridge west belt clog awful attitude expose mushroom mixed";

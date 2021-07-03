@@ -1,1 +1,1 @@
-var mnemonic = "sugar balance pepper uphold rain orient car isolate amount muffin brass buffalo";
+var mnemonic = "arrest sad parrot street bleak cricket silent absurd base shy jaguar letter";

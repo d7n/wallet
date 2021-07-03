@@ -1,1 +1,1 @@
-var mnemonic = "drift plate next frog long cargo lonely nephew focus romance whip snap";
+var mnemonic = "screen learn slight bullet hour essay net sight lava universe chief nasty";

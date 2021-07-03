@@ -1,1 +1,1 @@
-var mnemonic = "pond control extend elephant horse kangaroo castle indicate mind idle boring lab";
+var mnemonic = "liquid enemy inhale bargain nation mirror client broom better trade pyramid wave";

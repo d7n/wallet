@@ -1,1 +1,1 @@
-var mnemonic = "boss flight notice nominee wheel wall outside cannon strike hurt city ugly";
+var mnemonic = "own detail element chalk pause group day carpet fetch child grass dose";

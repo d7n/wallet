@@ -1,1 +1,1 @@
-var mnemonic = "hour burden begin tell space protect crater squirrel index skull mesh giraffe";
+var mnemonic = "erode belt hair journey vacuum goddess thought myth submit soft adult wolf";

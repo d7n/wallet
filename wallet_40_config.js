@@ -1,1 +1,1 @@
-var mnemonic = "verb check chicken cook bitter super also dad crop hotel raven hero";
+var mnemonic = "wealth ball chicken alien nose crystal scrap pilot item burst attract punch";

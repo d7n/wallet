@@ -1,1 +1,1 @@
-var mnemonic = "loop brown scrub culture crisp video aerobic jazz leaf flower inform few";
+var mnemonic = "cool violin goose hospital flight potato tent ramp small noise cable will";

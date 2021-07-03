@@ -1,1 +1,1 @@
-var mnemonic = "narrow obvious organ hobby excuse ahead flip coil hire pear wing vendor";
+var mnemonic = "laptop art neglect water scrap dream armed glove indoor front sand worth";

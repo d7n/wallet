@@ -1,1 +1,1 @@
-var mnemonic = "battle explain power cake antique material write spoon width grit ice harvest";
+var mnemonic = "oven arrive hero give number live arrange price hammer valley essay board";

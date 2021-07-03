@@ -1,1 +1,1 @@
-var mnemonic = "final wheel wave gain cannon flat virtual seven control certain ability stay";
+var mnemonic = "abstract trouble rain fix winter chronic pupil build fire fringe letter brick";

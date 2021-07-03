@@ -1,1 +1,1 @@
-var mnemonic = "spare drop sample sorry educate afraid antique rural harsh wrist reunion manual";
+var mnemonic = "soccer saddle thumb swamp dignity slow warfare afraid slow hazard just lumber";

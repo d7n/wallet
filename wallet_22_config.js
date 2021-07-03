@@ -1,1 +1,1 @@
-var mnemonic = "exist immense gate nest blue snake crazy drama describe deny gaze physical";
+var mnemonic = "position ball poverty carry six sun vote payment noise reveal capable agree";

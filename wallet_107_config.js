@@ -1,1 +1,1 @@
-var mnemonic = "able budget nut economy near share release below afraid material legend sock";
+var mnemonic = "match cart chapter empower survey tennis link erode damage income bread flower";

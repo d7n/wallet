@@ -1,1 +1,1 @@
-var mnemonic = "assist check fringe they smart hero decide saddle minor asset submit width";
+var mnemonic = "shell exit bike noodle egg demand kangaroo amused gain swarm segment exchange";

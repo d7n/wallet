@@ -1,1 +1,1 @@
-var mnemonic = "hire hollow when pulp salt arrest anchor lock wing wreck crunch cool";
+var mnemonic = "hint champion frozen rocket rice attitude ski patient symptom coconut barely alpha";

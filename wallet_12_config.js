@@ -1,1 +1,1 @@
-var mnemonic = "satoshi shock grass bottom brush position state flip people captain swallow dune";
+var mnemonic = "sentence palm already usage success tank bitter pink boy butter catalog close";

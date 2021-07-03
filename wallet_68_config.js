@@ -1,1 +1,1 @@
-var mnemonic = "genius palm patch captain maximum shoulder grant excite battle mean analyst blanket";
+var mnemonic = "helmet confirm vocal debris always private buzz benefit key dawn couple army";

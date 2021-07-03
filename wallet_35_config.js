@@ -1,1 +1,1 @@
-var mnemonic = "kidney family embark praise drama rug spend purity person bread start nerve";
+var mnemonic = "genre ankle twist nurse laugh other inner borrow decrease clip position truth";
