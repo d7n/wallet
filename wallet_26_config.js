@@ -1,1 +1,1 @@
-var mnemonic = "isolate fatigue sing time certain stand monkey return light bottom good absorb";
+var mnemonic = "gravity review borrow tail celery avoid remain write cabbage despair kitten inform";

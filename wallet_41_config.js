@@ -1,1 +1,1 @@
-var mnemonic = "oval cruel pattern future salon this squirrel unaware snap peace injury wrestle";
+var mnemonic = "deny opinion erase segment scout wrong weasel imitate smooth photo hungry bike";

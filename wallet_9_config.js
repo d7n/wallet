@@ -1,1 +1,1 @@
-var mnemonic = "midnight beach pass shiver swift surface release oxygen uncover useful bar build";
+var mnemonic = "search hood various problem case victory tuna idle subway scissors stomach round";

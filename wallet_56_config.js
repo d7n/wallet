@@ -1,1 +1,1 @@
-var mnemonic = "tunnel fault home avoid develop member approve bar intact furnace nerve drift";
+var mnemonic = "snow end potato believe spike siren betray mystery angry three close follow";

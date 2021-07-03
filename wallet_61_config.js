@@ -1,1 +1,1 @@
-var mnemonic = "list hobby rookie diet quick jar feel range cruise tool make educate";
+var mnemonic = "street language bind result trouble kite caught joy kiss fall fade squeeze";

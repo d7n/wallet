@@ -1,1 +1,1 @@
-var mnemonic = "number sausage race blame execute pulp guitar maid tissue midnight assist slot";
+var mnemonic = "inhale afford click cruel matrix jacket theory wonder bus attack best fuel";

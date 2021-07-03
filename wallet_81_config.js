@@ -1,1 +1,1 @@
-var mnemonic = "frost decade pen announce bring extra supreme base demand quick popular walnut";
+var mnemonic = "primary pear call festival van struggle siege car flat crush orchard bubble";

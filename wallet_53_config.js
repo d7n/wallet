@@ -1,1 +1,1 @@
-var mnemonic = "parent fork model yard come north bachelor mansion tilt course just consider";
+var mnemonic = "history choice shove brave strong topic together dad clock catalog praise swift";

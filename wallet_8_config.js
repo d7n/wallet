@@ -1,1 +1,1 @@
-var mnemonic = "custom orbit soda oval very trim dice magic discover forum allow reduce";
+var mnemonic = "fiscal stumble april area satoshi food medal orbit cement laptop coffee insect";

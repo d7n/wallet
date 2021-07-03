@@ -1,1 +1,1 @@
-var mnemonic = "debris apart ten middle heavy wisdom rebuild enjoy rabbit bacon soap orchard";
+var mnemonic = "steel gesture avoid mixed awesome husband horror split teach rug again arrow";

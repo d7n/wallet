@@ -1,1 +1,1 @@
-var mnemonic = "silly pitch cheap bullet aspect reveal child grit sauce boy bomb blood";
+var mnemonic = "price fatigue sugar fatigue wash chronic same story ladder young arrest address";

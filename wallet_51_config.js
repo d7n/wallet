@@ -1,1 +1,1 @@
-var mnemonic = "swear ethics chest replace across silk gesture float coyote strong defy cattle";
+var mnemonic = "because burden merit brick december kitchen crumble bind mushroom wonder twenty begin";

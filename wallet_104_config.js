@@ -1,1 +1,1 @@
-var mnemonic = "actor improve ranch card plastic entire evil invest slam spray attitude scatter";
+var mnemonic = "vast caution average until envelope bamboo track picture fiction autumn amount vault";

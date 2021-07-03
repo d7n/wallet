@@ -1,1 +1,1 @@
-var mnemonic = "bridge exclude morning post train derive actor method quarter property proud tunnel";
+var mnemonic = "pet that shield ahead still blind pretty vendor coconut hundred notable armed";

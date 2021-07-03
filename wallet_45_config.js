@@ -1,1 +1,1 @@
-var mnemonic = "tower toe web must urge ketchup digital nose used nurse tape tree";
+var mnemonic = "salmon before shaft grant ostrich garden grab tobacco odor bacon one peasant";

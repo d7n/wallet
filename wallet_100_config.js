@@ -1,1 +1,1 @@
-var mnemonic = "quick pencil loop apart climb lobster guilt stock bless panther armed able";
+var mnemonic = "question blade burger together monitor tenant embody lawsuit depend pill nose small";

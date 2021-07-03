@@ -1,1 +1,1 @@
-var mnemonic = "whisper connect carpet warrior flower moon strategy wedding doll own ramp option";
+var mnemonic = "ginger movie gospel neck current coffee sadness beach moment wealth minute horse";

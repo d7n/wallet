@@ -1,1 +1,1 @@
-var mnemonic = "climb noodle ring peanut quick message solid office junk pink trim cargo";
+var mnemonic = "later day skirt dish police vintage protect service original toy upper seminar";

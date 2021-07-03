@@ -1,1 +1,1 @@
-var mnemonic = "pencil betray network settle team turtle pear cup impact frost beach spoon";
+var mnemonic = "census wisdom situate torch normal rifle extend cart this drip quit rug";

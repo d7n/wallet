@@ -1,1 +1,1 @@
-var mnemonic = "render wagon amount legal cancel year picnic birth ivory salt joke toilet";
+var mnemonic = "roast lemon tonight october armor ceiling aspect useful fine vivid pond excuse";

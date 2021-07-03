@@ -1,1 +1,1 @@
-var mnemonic = "debris purse future empty venture genre matter double dutch camera helmet frown";
+var mnemonic = "muscle glue miracle cabin cube sound december dinosaur wire often episode rack";

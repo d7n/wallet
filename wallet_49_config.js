@@ -1,1 +1,1 @@
-var mnemonic = "quiz fuel attitude hamster still exile chef vault charge all rice script";
+var mnemonic = "mirror box awful reward wheat undo salad indoor bus weekend pet regret";

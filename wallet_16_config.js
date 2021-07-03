@@ -1,1 +1,1 @@
-var mnemonic = "pupil tone topic check prison clever exit below damage work blood extend";
+var mnemonic = "regular must force cave arctic december yard pretty orchard slide awkward luggage";

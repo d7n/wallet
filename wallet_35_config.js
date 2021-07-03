@@ -1,1 +1,1 @@
-var mnemonic = "render chalk such swing horror crash aim shift shrimp crew area cart";
+var mnemonic = "lake buffalo degree poet hurt brand remind hurt produce science twist exotic";

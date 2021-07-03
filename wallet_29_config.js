@@ -1,1 +1,1 @@
-var mnemonic = "frozen sadness throw bitter income become furnace there castle swift skull gospel";
+var mnemonic = "earth corn canvas fiscal surround attack remember episode cruel can huge wide";

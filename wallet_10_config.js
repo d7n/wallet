@@ -1,1 +1,1 @@
-var mnemonic = "grow armor double panther couple family push walk knife finger canal electric";
+var mnemonic = "universe banner fitness cruel nest employ tourist improve stumble uncover direct verify";

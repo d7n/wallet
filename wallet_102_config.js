@@ -1,1 +1,1 @@
-var mnemonic = "barrel point visa hazard proud blade void angry silk crater when plastic";
+var mnemonic = "trap marble access wool mouse convince dance lake blue farm there outdoor";

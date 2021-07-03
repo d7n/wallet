@@ -1,1 +1,1 @@
-var mnemonic = "celery office drill cross evolve divorce junior initial winner indicate swing wheel";
+var mnemonic = "nice pepper proof educate march immune accuse little gossip identify domain skate";

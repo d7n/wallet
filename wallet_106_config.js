@@ -1,1 +1,1 @@
-var mnemonic = "core effort toward broken gift tent heavy want act icon fetch urban";
+var mnemonic = "moment civil wave sail mechanic syrup steak faculty ripple lab sort before";

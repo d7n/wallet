@@ -1,1 +1,1 @@
-var mnemonic = "invest pear into sting zero hire radar actress pet method trophy cube";
+var mnemonic = "rubber wonder best visual slight home reward stem flush cushion fish bless";

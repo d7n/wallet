@@ -1,1 +1,1 @@
-var mnemonic = "truth win unfair recipe media fiscal alone welcome arrange toast acid person";
+var mnemonic = "shoe inmate north useless sick supreme abandon basket ordinary stick rotate miss";

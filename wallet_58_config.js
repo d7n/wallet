@@ -1,1 +1,1 @@
-var mnemonic = "cabin glimpse vicious brother grant decline album ride hidden middle belt tent";
+var mnemonic = "reason above digital path moon nest relief true quiz valid sunset end";

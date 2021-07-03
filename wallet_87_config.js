@@ -1,1 +1,1 @@
-var mnemonic = "elite warrior nature vocal trash brain dentist sunset inquiry alarm crystal train";
+var mnemonic = "pipe original deny luxury buzz forum cage onion tumble blanket affair bronze";

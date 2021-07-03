@@ -1,1 +1,1 @@
-var mnemonic = "hammer hedgehog book apple note vocal wasp depart lake swear lens half";
+var mnemonic = "gain vibrant sound refuse bracket play cluster pumpkin type trial relief method";

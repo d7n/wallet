@@ -1,1 +1,1 @@
-var mnemonic = "equip bless sound hawk crew wheat size bracket fire enlist divert squirrel";
+var mnemonic = "swear skirt badge neglect dust rely wear size rural senior badge use";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror reason double ensure measure anxiety obscure inmate marble trip stomach speak";
+var mnemonic = "length eternal reduce lunar track day clock stamp frost dry canal honey";

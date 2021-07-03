@@ -1,1 +1,1 @@
-var mnemonic = "canyon mask sign raise leopard milk sleep zero panther sudden near address";
+var mnemonic = "barely buzz parent poverty giraffe capital shed remove pattern improve enrich dash";

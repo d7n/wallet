@@ -1,1 +1,1 @@
-var mnemonic = "install box prefer eyebrow upper summer almost prevent ketchup guitar cute wisdom";
+var mnemonic = "link lottery west clown margin opinion soldier lake silver country topic ozone";

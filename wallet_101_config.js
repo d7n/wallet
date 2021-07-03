@@ -1,1 +1,1 @@
-var mnemonic = "taxi verb usage stadium general tide duck gold parrot inquiry surround market";
+var mnemonic = "number empty artefact hunt daring neither sword junk gadget narrow build veteran";

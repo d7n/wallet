@@ -1,1 +1,1 @@
-var mnemonic = "burger hood invest hub grow hand inner you employ bag music wasp";
+var mnemonic = "treat river tray blind stove fresh ball west sport already pitch kitchen";

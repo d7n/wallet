@@ -1,1 +1,1 @@
-var mnemonic = "razor latin century scare casual coin biology acquire funny salmon romance bullet";
+var mnemonic = "salmon photo good mention inform attend index weasel view network jump kind";

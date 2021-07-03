@@ -1,1 +1,1 @@
-var mnemonic = "initial mad erase thought hint brave cycle adult episode call blush eternal";
+var mnemonic = "cargo love artwork alcohol pass angle shoulder rabbit shine mother thank enact";

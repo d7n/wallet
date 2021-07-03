@@ -1,1 +1,1 @@
-var mnemonic = "truly anger face learn diet cross walk salad fix wood wheel focus";
+var mnemonic = "lake city little gift chapter tag slam auto speak endorse shadow top";

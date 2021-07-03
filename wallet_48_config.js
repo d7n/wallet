@@ -1,1 +1,1 @@
-var mnemonic = "marble frozen renew object bounce love easily lift ginger motor type west";
+var mnemonic = "spend small chimney connect replace adult brand robust wine treat way diagram";

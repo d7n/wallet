@@ -1,1 +1,1 @@
-var mnemonic = "shift pencil battle tomorrow service negative labor apart swallow canvas jungle lens";
+var mnemonic = "bonus dune save multiply square boring smart okay rich mercy ramp solve";

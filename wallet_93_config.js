@@ -1,1 +1,1 @@
-var mnemonic = "inch hero limit tomato forward thunder pulp good genre crop deputy rug";
+var mnemonic = "skin guide prize modify neck museum stem glass crop tiny truck timber";

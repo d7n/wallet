@@ -1,1 +1,1 @@
-var mnemonic = "uncover curve ketchup air live lawn fade scatter over enter engine black";
+var mnemonic = "face thunder chase reason crack expire zero maid plastic tent shoot usage";

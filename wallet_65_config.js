@@ -1,1 +1,1 @@
-var mnemonic = "equip door gossip law faith wave exhibit fringe above antique address useless";
+var mnemonic = "prison margin kit real goddess whisper section real track floor drift adjust";

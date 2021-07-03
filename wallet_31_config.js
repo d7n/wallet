@@ -1,1 +1,1 @@
-var mnemonic = "frost drift doll wasp cannon genuine wear output inherit garden glow evolve";
+var mnemonic = "metal arrow brave bulk art miracle defense panther pulse couple orient power";

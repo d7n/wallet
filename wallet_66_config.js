@@ -1,1 +1,1 @@
-var mnemonic = "inquiry attitude person picture shiver usage desk express scissors gather decorate aunt";
+var mnemonic = "invest brick echo flag fresh two armor input jump youth sting educate";

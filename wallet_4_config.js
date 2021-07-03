@@ -1,1 +1,1 @@
-var mnemonic = "black snake frog room life about excess stamp rain laugh chat achieve";
+var mnemonic = "tell verify syrup pelican month chair cement suffer cover live retreat canal";

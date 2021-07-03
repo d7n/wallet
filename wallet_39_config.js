@@ -1,1 +1,1 @@
-var mnemonic = "before provide crime anger myth speak quote glide buffalo glow next express";
+var mnemonic = "prize jump diet game love wear behave sketch angry core eyebrow ignore";

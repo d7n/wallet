@@ -1,1 +1,1 @@
-var mnemonic = "property issue hold taxi struggle traffic melody obtain census note dwarf couch";
+var mnemonic = "stove muscle frown track hen pigeon broom travel disagree now verb access";

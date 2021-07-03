@@ -1,1 +1,1 @@
-var mnemonic = "wreck artwork shaft bar expire recall worry shell derive hire parade task";
+var mnemonic = "range reason custom letter strike inhale march viable verify lunar very story";

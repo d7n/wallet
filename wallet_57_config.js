@@ -1,1 +1,1 @@
-var mnemonic = "stairs shy produce armor virus morning boat apart theme notable level party";
+var mnemonic = "select cereal behave exhaust hungry ceiling flock hill floor reason strike quit";

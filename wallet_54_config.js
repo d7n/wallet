@@ -1,1 +1,1 @@
-var mnemonic = "scheme leisure salad miracle approve pattern choice melody alcohol tell couch unable";
+var mnemonic = "faith response base melody humor meat void silver furnace remove master question";

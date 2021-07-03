@@ -1,1 +1,1 @@
-var mnemonic = "delay reject since decade mushroom define decrease lottery sock diet yard youth";
+var mnemonic = "galaxy such pulse violin south provide spider ring kidney napkin nerve tell";

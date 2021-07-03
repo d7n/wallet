@@ -1,1 +1,1 @@
-var mnemonic = "actress olympic either sauce tag truck evolve clock sell step quit slam";
+var mnemonic = "control virus awake peasant hip cabbage asset alien stay shallow goose penalty";

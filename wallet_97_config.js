@@ -1,1 +1,1 @@
-var mnemonic = "situate hedgehog detail helmet tomorrow fruit concert fortune enable design grow super";
+var mnemonic = "dinner filter fiber churn flag anger dad nuclear raven true involve chief";

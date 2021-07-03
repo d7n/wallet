@@ -1,1 +1,1 @@
-var mnemonic = "diagram version physical critic train prison lucky clinic actor evidence police hero";
+var mnemonic = "year surround over crucial sail spell devote north cricket elevator pizza mad";

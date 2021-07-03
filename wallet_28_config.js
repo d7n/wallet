@@ -1,1 +1,1 @@
-var mnemonic = "prepare drama toast web fame scissors athlete gasp material gap enhance sentence";
+var mnemonic = "pave note process neglect vault cousin bracket pluck flip aware order fine";

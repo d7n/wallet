@@ -1,1 +1,1 @@
-var mnemonic = "mixed cover accident broom regular gain enrich heavy hungry blame fresh session";
+var mnemonic = "size purse weird fault hen betray wage discover response chronic robust omit";

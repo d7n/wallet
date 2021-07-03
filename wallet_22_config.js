@@ -1,1 +1,1 @@
-var mnemonic = "horn come ability divide execute spot expire tomato topic strike cube strike";
+var mnemonic = "genuine piano space disease best ridge shoe mixture trumpet another claw alley";

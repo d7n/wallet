@@ -1,1 +1,1 @@
-var mnemonic = "unit happy vacuum gloom shed zoo earth trumpet hip tennis gather maximum";
+var mnemonic = "sting like chest captain woman change north invest narrow monitor enjoy install";

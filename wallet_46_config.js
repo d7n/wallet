@@ -1,1 +1,1 @@
-var mnemonic = "lounge pony submit hand earn deliver knee enemy rebuild summer produce grain";
+var mnemonic = "inside predict wink uniform comic zone fitness ripple forum clock pepper enter";

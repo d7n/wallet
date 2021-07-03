@@ -1,1 +1,1 @@
-var mnemonic = "pact tip tag spawn length key rescue pull runway upon muscle catalog";
+var mnemonic = "volume dirt arrest pledge infant rural live march turkey mammal notable flame";

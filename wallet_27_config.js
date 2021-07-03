@@ -1,1 +1,1 @@
-var mnemonic = "provide collect minute video tip lava cruise thing expect marble illegal choice";
+var mnemonic = "bottom sleep puppy cheap season sample federal play spike eagle virtual winner";

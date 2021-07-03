@@ -1,1 +1,1 @@
-var mnemonic = "canyon virus scare rapid tunnel category fame educate sketch call solution dial";
+var mnemonic = "edit noise enhance faculty fiber team palace harvest security drill yard prefer";

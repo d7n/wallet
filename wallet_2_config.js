@@ -1,1 +1,1 @@
-var mnemonic = "today advice wall planet chunk race casual struggle swarm wave hazard scan";
+var mnemonic = "cheese early item island gospel cycle host novel junk stay warrior emotion";

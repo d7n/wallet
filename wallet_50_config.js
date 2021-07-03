@@ -1,1 +1,1 @@
-var mnemonic = "skin hotel dentist limb decide setup knee eye phone mind ability jealous";
+var mnemonic = "decline chimney broom soon wealth desk flame pelican opera beef tonight biology";

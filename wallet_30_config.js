@@ -1,1 +1,1 @@
-var mnemonic = "wine true fan company law banner story uncover oak success crane despair";
+var mnemonic = "soldier fringe cousin keep budget into student supply mosquito flee volcano nation";

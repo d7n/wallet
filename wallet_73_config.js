@@ -1,1 +1,1 @@
-var mnemonic = "connect east flip because open rival raise victory tree world spawn obtain";
+var mnemonic = "radio camp tank direct tackle version crack ankle final attack fix pioneer";

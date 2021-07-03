@@ -1,1 +1,1 @@
-var mnemonic = "essay hope figure ranch eternal length olive suspect attend vapor tennis ugly";
+var mnemonic = "project village ready talent pig negative eager category dress tennis enemy zero";

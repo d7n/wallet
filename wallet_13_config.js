@@ -1,1 +1,1 @@
-var mnemonic = "reform gorilla avocado violin sudden boil square outer gaze essay fine uncle";
+var mnemonic = "satoshi second giggle motor amount baby mushroom outside party mountain lens kitchen";

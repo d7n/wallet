@@ -1,1 +1,1 @@
-var mnemonic = "gloom solution attack alcohol camera require prepare mention winter tenant margin airport";
+var mnemonic = "kid hundred ensure cry casual vivid blouse empty trade occur ask language";

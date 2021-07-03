@@ -1,1 +1,1 @@
-var mnemonic = "series tuition envelope term dumb reduce unusual defy record slice marine festival";
+var mnemonic = "finger jacket inmate lounge barely sail earth cave object aerobic settle debris";

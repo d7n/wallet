@@ -1,1 +1,1 @@
-var mnemonic = "iron benefit illegal torch shoot parade impose cycle gossip whip wide boss";
+var mnemonic = "treat dinosaur load coil tongue essence young casino system ask degree awake";

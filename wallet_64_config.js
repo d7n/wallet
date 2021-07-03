@@ -1,1 +1,1 @@
-var mnemonic = "slush apart cool emotion fade found lift fatal normal alter noodle neutral";
+var mnemonic = "gain disease rocket manual fuel often catch screen crawl grocery solve erupt";

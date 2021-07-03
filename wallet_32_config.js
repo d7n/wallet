@@ -1,1 +1,1 @@
-var mnemonic = "gift follow play roof ketchup dentist attitude misery inmate fury donor close";
+var mnemonic = "blade interest fade reject speed tomato relax sheriff mask lake shed erosion";

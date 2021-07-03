@@ -1,1 +1,1 @@
-var mnemonic = "uphold cattle match world conduct uncover forget student alpha tunnel later usage";
+var mnemonic = "trend awake hunt glue spice express share awkward first blade lumber flee";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut host snow spread spider pill reveal major flip engine science they";
+var mnemonic = "grunt display next clarify lion robot celery tell grant vivid inflict ostrich";

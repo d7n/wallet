@@ -1,1 +1,1 @@
-var mnemonic = "eager crisp cradle fork social used reopen exile useless spray toast sadness";
+var mnemonic = "behave myself cannon foil sunny gauge rug lucky carbon kiss jeans pepper";

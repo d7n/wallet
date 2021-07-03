@@ -1,1 +1,1 @@
-var mnemonic = "three shine artefact pretty treat level affair rabbit copy host luggage text";
+var mnemonic = "fossil sadness require history head same view dentist bracket city spoon certain";

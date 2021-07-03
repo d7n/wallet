@@ -1,1 +1,1 @@
-var mnemonic = "idle drive annual meadow anxiety provide main cage submit slender today olive";
+var mnemonic = "model pill quit borrow wink calm cluster congress bridge barely oxygen drink";

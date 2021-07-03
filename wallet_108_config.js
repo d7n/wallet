@@ -1,1 +1,1 @@
-var mnemonic = "barrel phrase situate island river end beyond promote index depth fat hedgehog";
+var mnemonic = "suspect snap object moral check book fatigue small very always rib among";

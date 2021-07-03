@@ -1,1 +1,1 @@
-var mnemonic = "banner robot sad nice stamp shell eagle fame orange federal label eternal";
+var mnemonic = "amount swallow various gate chief swift bargain lava seven success view bottom";

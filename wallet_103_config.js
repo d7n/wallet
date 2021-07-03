@@ -1,1 +1,1 @@
-var mnemonic = "wish aunt raven venue decorate acquire helmet cube food twice benefit sausage";
+var mnemonic = "tonight point prize news left heart robot cage else tongue hospital sponsor";

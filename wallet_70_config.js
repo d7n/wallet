@@ -1,1 +1,1 @@
-var mnemonic = "vicious comfort rapid cash wait seminar chunk throw sure bachelor correct once";
+var mnemonic = "load ankle milk apology tape unfold tip name essay hole when trial";

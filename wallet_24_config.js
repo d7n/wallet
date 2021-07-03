@@ -1,1 +1,1 @@
-var mnemonic = "ethics wisdom cargo industry math foot skin left promote coffee invest harsh";
+var mnemonic = "aisle panther basket dignity cool parent prison side when prison where giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "capital paper fossil beach enemy spread bright afford iron marble vital oak";
+var mnemonic = "april screen canyon taste tent quality very section deal tree tobacco dignity";

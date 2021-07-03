@@ -1,1 +1,1 @@
-var mnemonic = "grief meat view mix capable enact vicious comfort addict shaft goat armed";
+var mnemonic = "matter act orange hollow february embrace life marine rich month scare topic";

@@ -1,1 +1,1 @@
-var mnemonic = "idea sheriff obvious pass arrange boss gospel salt crane body talent sphere";
+var mnemonic = "uncle pioneer average upon scout patch file morning pulp pipe wing movie";

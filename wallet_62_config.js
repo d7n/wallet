@@ -1,1 +1,1 @@
-var mnemonic = "concert similar elbow hero clever damage giant forget shy injury auto word";
+var mnemonic = "oven gaze fee file cinnamon palace desk spice stage hundred bag weapon";

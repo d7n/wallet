@@ -1,1 +1,1 @@
-var mnemonic = "pyramid mobile joke shallow soda illness crush chunk laptop twelve talent divide";
+var mnemonic = "group adult bomb tape carpet vintage punch kite repair label label oxygen";

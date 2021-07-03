@@ -1,1 +1,1 @@
-var mnemonic = "bleak acquire crane utility normal space episode doctor clap chest boy express";
+var mnemonic = "pet absurd bag skin lonely imitate skill ordinary any scout evoke tuition";
