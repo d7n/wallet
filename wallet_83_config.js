@@ -1,1 +1,1 @@
-var mnemonic = "gate twin milk position input cherry dentist minimum uphold cabin glory round";
+var mnemonic = "door people income slam tornado practice labor quick lawn alert drop grow";

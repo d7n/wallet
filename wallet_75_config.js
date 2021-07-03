@@ -1,1 +1,1 @@
-var mnemonic = "harbor couch chicken trade concert tide sweet bronze grab grace excite work";
+var mnemonic = "have call insane minute divert artefact option bean jewel square bone clog";

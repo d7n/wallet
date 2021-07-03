@@ -1,1 +1,1 @@
-var mnemonic = "science consider eagle pioneer wine account gift girl spatial tilt round huge";
+var mnemonic = "sign despair impact ride near oxygen silly analyst sunny lyrics episode crater";

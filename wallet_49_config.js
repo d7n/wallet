@@ -1,1 +1,1 @@
-var mnemonic = "body chat decrease notable give gas wood blush make say sure object";
+var mnemonic = "guard clock push where danger salute actor fortune melt decade father exit";

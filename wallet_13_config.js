@@ -1,1 +1,1 @@
-var mnemonic = "arrive egg live story biology time sport rack project spring guide empty";
+var mnemonic = "candy exotic blade decline own task antenna narrow receive bring provide funny";

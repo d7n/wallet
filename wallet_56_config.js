@@ -1,1 +1,1 @@
-var mnemonic = "balance damp normal guilt flower nuclear siege wise shoulder wrap clay control";
+var mnemonic = "unlock hedgehog hat uphold drama right current amateur banner same artist hamster";

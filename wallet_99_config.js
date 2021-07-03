@@ -1,1 +1,1 @@
-var mnemonic = "develop noise retreat royal aisle because sound vintage radar option nation mind";
+var mnemonic = "this lava west certain hill fox credit million friend olive message vague";

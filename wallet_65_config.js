@@ -1,1 +1,1 @@
-var mnemonic = "drastic artwork spend genuine gather dream gym unable sock frog uphold final";
+var mnemonic = "fold funny timber happy tennis able thank camp before valve coffee bright";

@@ -1,1 +1,1 @@
-var mnemonic = "inner lesson system oval jazz race fog expire van garage cake tackle";
+var mnemonic = "bless claim hub resemble pledge lunch client asset address creek demand drift";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster genuine put aspect saddle move fatigue attitude knock supply rookie toward";
+var mnemonic = "leisure certain duck cradle retire hip dry system water double connect habit";

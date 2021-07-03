@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit uncle various menu crucial cycle extra alone horn inhale law brown";
+var mnemonic = "mix game carbon pig top exercise word drive pear devote bless defense";

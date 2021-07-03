@@ -1,1 +1,1 @@
-var mnemonic = "wine between evidence friend feel have knock sound reveal drink stadium onion";
+var mnemonic = "fun worry jacket arch nest protect armed beauty another hidden life social";

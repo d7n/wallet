@@ -1,1 +1,1 @@
-var mnemonic = "reduce cruise object eager describe loyal hint leaf steak soldier impact alarm";
+var mnemonic = "inflict chat under roof submit anchor nuclear elegant nation install twist rigid";

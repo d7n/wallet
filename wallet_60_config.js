@@ -1,1 +1,1 @@
-var mnemonic = "icon twice sign vapor inquiry topic alien pelican like alpha mobile today";
+var mnemonic = "crater mad bubble elbow leisure limit canyon rhythm gaze noodle mammal grief";

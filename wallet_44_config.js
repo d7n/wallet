@@ -1,1 +1,1 @@
-var mnemonic = "stuff trend exhibit lyrics close ski picnic avocado feed remain airport install";
+var mnemonic = "crop lyrics high rubber crack minor unknown film appear elevator grid enlist";

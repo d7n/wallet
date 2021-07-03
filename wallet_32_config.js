@@ -1,1 +1,1 @@
-var mnemonic = "lounge normal property banana hover company brother stove rabbit neck basic mixture";
+var mnemonic = "install early behind grant random lobster decade history achieve kangaroo dog outer";

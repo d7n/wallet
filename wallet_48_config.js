@@ -1,1 +1,1 @@
-var mnemonic = "believe skin relax monkey stool still above fold because consider era idea";
+var mnemonic = "tube clean luggage forest short push like sport attract permit cheese hill";

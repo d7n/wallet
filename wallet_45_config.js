@@ -1,1 +1,1 @@
-var mnemonic = "rail enough ridge black turn chalk great describe pole heart small bomb";
+var mnemonic = "have top skull mail citizen embrace desert boat fruit found pipe wise";

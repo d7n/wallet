@@ -1,1 +1,1 @@
-var mnemonic = "dawn ladder toward subject useful order need among merge inject tourist height";
+var mnemonic = "coach energy payment tissue ripple elevator laptop picture tree pig loyal damage";

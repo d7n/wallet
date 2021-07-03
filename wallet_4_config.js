@@ -1,1 +1,1 @@
-var mnemonic = "bulk practice physical history road history rifle husband leave tide crew wheel";
+var mnemonic = "educate entire drip play south engine snake cushion inch material evil gun";

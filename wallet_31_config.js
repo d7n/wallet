@@ -1,1 +1,1 @@
-var mnemonic = "unable hen ship great weasel senior recall jewel decline pluck push void";
+var mnemonic = "frown miracle affair truly category rent inch search series exit rebuild exercise";

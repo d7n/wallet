@@ -1,1 +1,1 @@
-var mnemonic = "slogan ranch guide spawn error camera afford injury tail sheriff artist fetch";
+var mnemonic = "artist shock mechanic cactus ranch demand common meadow spread fuel diesel absorb";

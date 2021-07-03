@@ -1,1 +1,1 @@
-var mnemonic = "blur monster banana true gesture brush pioneer sweet upgrade twin snack agree";
+var mnemonic = "sad aerobic melody kitten rose vault monitor rare theme talk dinosaur above";

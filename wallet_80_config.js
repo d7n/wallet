@@ -1,1 +1,1 @@
-var mnemonic = "margin roast fat equip fiber trigger suspect alone else cannon candy weapon";
+var mnemonic = "three enter van orange album tragic early harsh tape picnic first pelican";

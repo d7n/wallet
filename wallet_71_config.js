@@ -1,1 +1,1 @@
-var mnemonic = "equal course sing rifle item smoke cinnamon collect faint fix mean camp";
+var mnemonic = "remain fence scan lamp shop force alcohol merry wedding foot squirrel struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward oblige trend purse video little plastic stomach cable join door leader";
+var mnemonic = "legal drop reward shop surge exact bunker nephew animal same saddle kidney";

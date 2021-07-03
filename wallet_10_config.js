@@ -1,1 +1,1 @@
-var mnemonic = "false pond elder old thunder never abuse quit retreat action window tobacco";
+var mnemonic = "region thrive ordinary ritual clever enable aware memory story woman impulse current";

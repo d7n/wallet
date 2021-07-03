@@ -1,1 +1,1 @@
-var mnemonic = "soon analyst damage borrow renew common host depth scene car raven pilot";
+var mnemonic = "cash this alien buyer load inform session evolve enable grain october label";

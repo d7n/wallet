@@ -1,1 +1,1 @@
-var mnemonic = "apple claw such increase neither extra name series cabin orchard bridge crime";
+var mnemonic = "stereo maximum boil deposit jealous engine toe stumble lumber stumble entire language";

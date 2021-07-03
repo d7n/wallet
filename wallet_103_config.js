@@ -1,1 +1,1 @@
-var mnemonic = "patient donor own draft kit wrist doctor hero field elder damp husband";
+var mnemonic = "gap lend wall dove certain poet huge door poverty drink excuse trophy";

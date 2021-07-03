@@ -1,1 +1,1 @@
-var mnemonic = "captain chronic boring wide way exact survey puzzle sketch observe quit monster";
+var mnemonic = "siren rude return expect crazy reveal unknown weasel major diesel dismiss absent";

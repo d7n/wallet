@@ -1,1 +1,1 @@
-var mnemonic = "woman someone absent shiver make mom sound regret dust open other obscure";
+var mnemonic = "emerge source pull extend key skull input boss keen actor prefer evidence";

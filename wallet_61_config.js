@@ -1,1 +1,1 @@
-var mnemonic = "festival air betray dream session lucky dumb swap pupil exhibit wish economy";
+var mnemonic = "humor game enhance pave where prize fluid night firm unusual catch pig";

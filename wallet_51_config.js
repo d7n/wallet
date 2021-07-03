@@ -1,1 +1,1 @@
-var mnemonic = "fun stomach egg canyon pottery approve material honey point utility famous announce";
+var mnemonic = "sting omit connect inmate purchase reveal merit hobby harsh century blanket wine";

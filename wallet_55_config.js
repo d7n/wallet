@@ -1,1 +1,1 @@
-var mnemonic = "vanish good object slice post insane system minor engine employ worry betray";
+var mnemonic = "kiss wash dune minor food wealth stomach movie decade husband exile parade";

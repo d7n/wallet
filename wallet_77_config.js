@@ -1,1 +1,1 @@
-var mnemonic = "vote lazy carpet flash tuition game goose apple lake differ coach devote";
+var mnemonic = "inmate door unfold bonus divert apology throw lunch ethics scan sword predict";

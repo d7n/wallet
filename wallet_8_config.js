@@ -1,1 +1,1 @@
-var mnemonic = "outer seed business tattoo bitter start canoe cash easily drive minor leader";
+var mnemonic = "police whip else boat tide crime skull curious immune rude art enroll";

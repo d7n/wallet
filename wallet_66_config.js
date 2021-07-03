@@ -1,1 +1,1 @@
-var mnemonic = "corn entry use click sorry mixture reopen lemon feed light victory limit";
+var mnemonic = "fish unlock bitter drill figure apple control smart agree cinnamon light weapon";

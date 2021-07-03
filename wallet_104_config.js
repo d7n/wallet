@@ -1,1 +1,1 @@
-var mnemonic = "light pigeon exist rally simple give peace patient help poet network speak";
+var mnemonic = "pony laptop expand uncover badge rather regular spot curtain dial atom frozen";

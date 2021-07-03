@@ -1,1 +1,1 @@
-var mnemonic = "goat fitness gossip keen jump distance raise trend jealous photo will city";
+var mnemonic = "suggest gap fix eager patient buffalo term caught vehicle safe goddess bamboo";

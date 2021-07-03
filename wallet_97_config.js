@@ -1,1 +1,1 @@
-var mnemonic = "night puzzle remove husband device bring version pledge situate rather story quick";
+var mnemonic = "include timber mouse avocado grant square they uniform pizza attitude expand onion";

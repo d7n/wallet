@@ -1,1 +1,1 @@
-var mnemonic = "group mechanic tomato churn photo pig curtain snow fox fragile reveal banner";
+var mnemonic = "collect betray whip feature permit slush stone giant maximum cradle drop snow";

@@ -1,1 +1,1 @@
-var mnemonic = "invite usage check escape refuse layer toast link top pig topic hungry";
+var mnemonic = "dish suit police saddle electric banana velvet vanish boost pet cement weird";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock fatigue minor tragic spend trigger cushion check tuition tuition melt analyst";
+var mnemonic = "ugly combine awake cushion toy knife pond reflect industry brush best transfer";

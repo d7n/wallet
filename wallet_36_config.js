@@ -1,1 +1,1 @@
-var mnemonic = "obvious exclude sad advance west that property concert wrist double ahead harvest";
+var mnemonic = "insect van spatial denial achieve deal obscure renew valve illness toe find";

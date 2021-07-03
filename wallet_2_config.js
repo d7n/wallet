@@ -1,1 +1,1 @@
-var mnemonic = "avoid swing lunch excite police gasp hat symptom shy space board light";
+var mnemonic = "update saddle hood describe slim obscure spoil screen luxury rhythm only front";

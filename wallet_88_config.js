@@ -1,1 +1,1 @@
-var mnemonic = "weapon century virtual mention desk rookie six seminar guilt glance exile net";
+var mnemonic = "occur public youth payment price mother immense live monster crane hover film";

@@ -1,1 +1,1 @@
-var mnemonic = "extra mansion spell bitter ridge manual guide stomach deal ginger analyst agent";
+var mnemonic = "gesture scatter profit type paper south choose define skate season artefact vibrant";

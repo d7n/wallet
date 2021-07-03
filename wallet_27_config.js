@@ -1,1 +1,1 @@
-var mnemonic = "thunder amazing glare health destroy twenty crash wrist mix pole chat problem";
+var mnemonic = "jar child spider sauce safe sample more order lesson kitten brush yard";

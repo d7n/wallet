@@ -1,1 +1,1 @@
-var mnemonic = "huge cook neutral lava december excess art wrestle prize fluid donor private";
+var mnemonic = "marble fat behave judge federal exact hamster caution another also moon label";

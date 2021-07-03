@@ -1,1 +1,1 @@
-var mnemonic = "inspire song solid end arrange vibrant core runway rebuild real bargain swear";
+var mnemonic = "canoe plunge minute shoe thumb casino jazz lottery endless dog tip bless";

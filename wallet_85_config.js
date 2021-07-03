@@ -1,1 +1,1 @@
-var mnemonic = "baby task ship salt spider auction toast danger extend page remain north";
+var mnemonic = "garlic hammer chicken easy trend puzzle attract slim critic evidence puzzle tomorrow";

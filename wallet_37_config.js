@@ -1,1 +1,1 @@
-var mnemonic = "obscure castle thumb ill maid apple enter enact hurdle weapon ensure foam";
+var mnemonic = "rack iron guide divert suspect pill chuckle broom example ethics emerge retire";

@@ -1,1 +1,1 @@
-var mnemonic = "design cupboard ride phone social sheriff palace equip upgrade inflict remove science";
+var mnemonic = "dynamic grocery addict strike knock poem movie hope under inch visual crunch";

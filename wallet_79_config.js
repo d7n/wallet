@@ -1,1 +1,1 @@
-var mnemonic = "basic point mushroom absorb proof kiss forward approve echo muscle vast shy";
+var mnemonic = "empty annual same lens desk gaze hurt suggest future raccoon erase annual";

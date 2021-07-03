@@ -1,1 +1,1 @@
-var mnemonic = "rude world magic lift rude foil west miracle tree surround matrix endless";
+var mnemonic = "flame minimum window mammal enemy cluster pulse income spare science dinosaur fun";

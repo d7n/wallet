@@ -1,1 +1,1 @@
-var mnemonic = "velvet spice puppy desk small jump hen drip orange icon fork race";
+var mnemonic = "sea wide oak rib utility unique morning sting certain wrong empty picture";

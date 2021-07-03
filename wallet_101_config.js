@@ -1,1 +1,1 @@
-var mnemonic = "drop level half indoor lady fan august satoshi fold behind dash balance";
+var mnemonic = "keep usual happy sudden panther fetch priority invite notice infant hobby joy";

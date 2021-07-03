@@ -1,1 +1,1 @@
-var mnemonic = "toast scatter trim cream error window monitor nut palace sister round able";
+var mnemonic = "city cage sugar lazy buyer follow rescue mix raise van ordinary corn";

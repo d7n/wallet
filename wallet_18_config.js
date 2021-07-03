@@ -1,1 +1,1 @@
-var mnemonic = "actor benefit life sponsor pill unveil possible knock humor raven unit imitate";
+var mnemonic = "assume ginger clutch round load ring verb lady balcony art strong cheap";

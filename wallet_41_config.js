@@ -1,1 +1,1 @@
-var mnemonic = "mask hill actual divide detail fabric service legend obtain feature flag slam";
+var mnemonic = "jacket exact curve citizen core scatter verb spot upon slam forum candy";

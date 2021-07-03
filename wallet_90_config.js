@@ -1,1 +1,1 @@
-var mnemonic = "despair discover youth tackle network mixture hybrid actual unveil enemy empty essence";
+var mnemonic = "response weekend undo doll dignity patch wrestle frequent orient pipe weapon burger";

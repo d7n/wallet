@@ -1,1 +1,1 @@
-var mnemonic = "victory mind episode clock pink coin reject erosion hour ancient steel soldier";
+var mnemonic = "slim party chair verify hub setup film bottom charge myth robust grain";

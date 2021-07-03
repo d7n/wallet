@@ -1,1 +1,1 @@
-var mnemonic = "doll forget outer effort orbit check speed airport zero family gift body";
+var mnemonic = "hair ritual grow bulk desert banana village skull loyal record prepare grape";

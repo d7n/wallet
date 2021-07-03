@@ -1,1 +1,1 @@
-var mnemonic = "toast comic protect six loud brief enforce engage sense loud grid gossip";
+var mnemonic = "beach foster peanut furnace tonight crawl wide modify pool cousin fetch fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "notable excuse pact network media tell raw brush federal later upgrade great";
+var mnemonic = "flat razor amazing regular alarm rifle fashion thumb file machine man buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "brass grief pottery stuff dad soon despair sauce onion witness pitch blind";
+var mnemonic = "loud forget sort fly midnight head material vague laundry pretty card shaft";

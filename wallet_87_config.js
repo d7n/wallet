@@ -1,1 +1,1 @@
-var mnemonic = "small outer proud become oyster orphan tissue left magnet eight uncover border";
+var mnemonic = "torch excess side exotic zoo fun impose design cube state pipe custom";

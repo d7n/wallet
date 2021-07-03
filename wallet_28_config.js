@@ -1,1 +1,1 @@
-var mnemonic = "finger collect boring volcano wire road dawn salute parrot time lab kind";
+var mnemonic = "purity season income cage uncle goat force twice rhythm quiz atom addict";

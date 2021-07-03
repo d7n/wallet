@@ -1,1 +1,1 @@
-var mnemonic = "rhythm wave shed scheme video harbor person general cricket feed later ensure";
+var mnemonic = "above hospital heart error leopard plate add stay van sweet common surface";

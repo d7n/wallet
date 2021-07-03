@@ -1,1 +1,1 @@
-var mnemonic = "tent luggage hair universe address zebra people cluster ship lyrics range strong";
+var mnemonic = "desert like prison dream share type auction matter sea second tape hobby";

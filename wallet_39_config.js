@@ -1,1 +1,1 @@
-var mnemonic = "age oval funny scout success illness easily spin main damp fetch fortune";
+var mnemonic = "omit stadium alcohol pill style situate such awesome spy violin tattoo engage";

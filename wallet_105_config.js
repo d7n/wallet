@@ -1,1 +1,1 @@
-var mnemonic = "bright frog glow will stairs document adapt craft liquid purity waste raven";
+var mnemonic = "topple manual master first axis donor honey degree imitate toy expire quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "hill monitor desert bike custom jazz tag lunar gas tomorrow slush virus";
+var mnemonic = "letter alone spread letter must song remember punch fade joke add near";

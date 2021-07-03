@@ -1,1 +1,1 @@
-var mnemonic = "adapt blame they insane moon lecture private also bomb chicken duck zebra";
+var mnemonic = "clever panel twin rescue thunder own runway person champion casino great olive";

@@ -1,1 +1,1 @@
-var mnemonic = "wife orange bicycle gas curve bike cloth camp rose author foot fit";
+var mnemonic = "awful fly face test such spot lemon spy analyst plate color winner";

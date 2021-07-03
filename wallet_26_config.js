@@ -1,1 +1,1 @@
-var mnemonic = "shuffle negative friend reject history pill fabric whale during file deliver equip";
+var mnemonic = "kitchen exhaust relief faith prize ladder float void deny actress emotion wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "affair exile century uncover dose attitude sorry pulp trade staff canyon mother";
+var mnemonic = "under panther warm grief roof enforce ill enjoy shoot upon dinner slight";

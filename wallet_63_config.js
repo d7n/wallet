@@ -1,1 +1,1 @@
-var mnemonic = "among tag fruit donate common defense include orange jacket unique prison mammal";
+var mnemonic = "pact mechanic olive vivid popular hedgehog cattle cousin brisk bounce either rotate";

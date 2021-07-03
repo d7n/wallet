@@ -1,1 +1,1 @@
-var mnemonic = "mimic robot purchase load trumpet process honey kitchen bonus turkey supreme old";
+var mnemonic = "intact stamp check couch this destroy dad admit master assist bundle team";

@@ -1,1 +1,1 @@
-var mnemonic = "model repeat gallery hurt myself great token net grief glimpse report ten";
+var mnemonic = "burden dove menu shine include brown hammer knife reform game green dawn";

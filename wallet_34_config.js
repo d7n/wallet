@@ -1,1 +1,1 @@
-var mnemonic = "kite legend giant kiss antique naive corn cycle kick until become flash";
+var mnemonic = "citizen portion patch surprise viable intact boil seed unit fashion among mask";

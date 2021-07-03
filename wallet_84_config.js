@@ -1,1 +1,1 @@
-var mnemonic = "slam pulp letter large defy dignity remind leader name raw knee rack";
+var mnemonic = "girl side just renew protect orchard soccer banner person angle real scorpion";

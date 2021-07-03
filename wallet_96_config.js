@@ -1,1 +1,1 @@
-var mnemonic = "useless clock plunge bridge cover spirit move build pair cattle apple voyage";
+var mnemonic = "install actual sense eight music dumb phrase prefer jeans hundred disorder horse";

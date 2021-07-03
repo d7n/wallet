@@ -1,1 +1,1 @@
-var mnemonic = "car manage midnight smart stand spray torch essay genre reject reveal fatal";
+var mnemonic = "civil truly ocean ladder hip process whisper tomato pioneer fetch tobacco issue";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur apple shrug project zoo grape mechanic siren torch knock time grass";
+var mnemonic = "okay category such busy axis inner fix magnet grant fiber ability seek";

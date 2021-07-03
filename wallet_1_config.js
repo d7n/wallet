@@ -1,1 +1,1 @@
-var mnemonic = "odor awful fury aisle leader romance crowd pool cute enact match royal";
+var mnemonic = "habit child unfair virus script this bring key title steak general drill";
