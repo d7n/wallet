@@ -1,1 +1,1 @@
-var mnemonic = "life rule valve lava miracle input virtual letter another hover diagram benefit";
+var mnemonic = "gospel walnut stomach talent march shuffle ordinary flag combine child age gesture";

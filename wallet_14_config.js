@@ -1,1 +1,1 @@
-var mnemonic = "cabin topple canoe crazy chief direct picture miss atom series soccer verb";
+var mnemonic = "anxiety cage romance wolf below inflict pitch sauce acoustic detect duck kid";

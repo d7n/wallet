@@ -1,1 +1,1 @@
-var mnemonic = "second trap announce loop clerk fortune useful guide fruit brave play blur";
+var mnemonic = "foil awesome main cable supply saddle midnight anxiety list ticket void antique";

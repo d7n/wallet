@@ -1,1 +1,1 @@
-var mnemonic = "unaware bacon light lecture proud maid rebel priority happy prize sail victory";
+var mnemonic = "canyon crew merge pact tackle digital another half economy gentle wild speak";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch era sword duck tray cable girl obvious wage follow feel erupt";
+var mnemonic = "express educate palace nest convince educate theme list bounce myth fruit under";

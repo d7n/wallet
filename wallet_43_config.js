@@ -1,1 +1,1 @@
-var mnemonic = "swamp gain north just burst twelve bird payment section skull way fly";
+var mnemonic = "member scene acquire resemble robust vessel pyramid seed supreme about marble absurd";

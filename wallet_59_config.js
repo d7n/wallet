@@ -1,1 +1,1 @@
-var mnemonic = "slot suspect amazing century cereal churn fence stool close height shift destroy";
+var mnemonic = "where share stem pink subject lady tuition frog clutch defense pattern fade";

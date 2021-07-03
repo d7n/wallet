@@ -1,1 +1,1 @@
-var mnemonic = "join situate guard bulk session immune true what achieve bottom town board";
+var mnemonic = "lyrics since crowd funny say shrimp kite toss blood sunset version cook";

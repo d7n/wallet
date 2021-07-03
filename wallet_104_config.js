@@ -1,1 +1,1 @@
-var mnemonic = "develop supreme decade become joke coral deny art deposit trim member bench";
+var mnemonic = "calm strike degree matter tool shoe attack force jeans pet enact extra";

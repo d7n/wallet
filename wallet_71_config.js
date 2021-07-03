@@ -1,1 +1,1 @@
-var mnemonic = "glare swallow noodle diamond runway good develop voyage tonight stumble liquid syrup";
+var mnemonic = "penalty move age logic vague laundry pass upper memory present van fringe";

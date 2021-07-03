@@ -1,1 +1,1 @@
-var mnemonic = "access miracle rebel ankle leopard gift behind inspire body broom conduct remove";
+var mnemonic = "belt term trap shaft prison color tongue state apple fold frozen fever";

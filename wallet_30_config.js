@@ -1,1 +1,1 @@
-var mnemonic = "bean woman fish submit food renew stamp actor enough rich vacuum panther";
+var mnemonic = "crop camera satoshi clown duty apology trip road bus giant blast universe";

@@ -1,1 +1,1 @@
-var mnemonic = "argue adjust depth inject neither broom leader decrease stuff subway tragic door";
+var mnemonic = "physical west dog word gaze nominee relief regret feel bag piece neglect";

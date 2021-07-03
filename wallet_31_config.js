@@ -1,1 +1,1 @@
-var mnemonic = "brief share swing fortune later century struggle into human jealous team chef";
+var mnemonic = "stage strong mad ocean helmet absent ask scissors hollow text ozone voyage";

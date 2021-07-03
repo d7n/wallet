@@ -1,1 +1,1 @@
-var mnemonic = "helmet ginger present just pride donate hawk rain average plunge they captain";
+var mnemonic = "there friend bright wealth there wink poet caught wing gift second radar";

@@ -1,1 +1,1 @@
-var mnemonic = "grow delay stomach special spirit witness stage okay turn list bind aunt";
+var mnemonic = "cabin very question rack team similar apart what solution boss payment body";

@@ -1,1 +1,1 @@
-var mnemonic = "dad reflect fancy deputy marriage swing sign ship heart stumble orchard raccoon";
+var mnemonic = "near way motor gaze awesome art suit umbrella brother husband balance size";

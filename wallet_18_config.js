@@ -1,1 +1,1 @@
-var mnemonic = "ability choose prison decrease cheese wild song young tide cook there enable";
+var mnemonic = "tomorrow bleak bike winter proof crowd crash like pen squeeze crime boat";

@@ -1,1 +1,1 @@
-var mnemonic = "people army gloom pistol gun below broken design wealth wrap exhibit boy";
+var mnemonic = "adjust produce host slot pulp monster erosion random antique illegal make use";

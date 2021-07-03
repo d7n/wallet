@@ -1,1 +1,1 @@
-var mnemonic = "life border address mushroom hover spatial person update boat illness total category";
+var mnemonic = "hungry kitten lab betray angry multiply knife reason goose vanish inquiry fiction";

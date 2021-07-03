@@ -1,1 +1,1 @@
-var mnemonic = "canoe confirm region display shed wage isolate cattle film uphold black minimum";
+var mnemonic = "wolf husband dawn board very twelve wisdom opera cheese mirror system journey";

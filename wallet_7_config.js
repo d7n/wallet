@@ -1,1 +1,1 @@
-var mnemonic = "wild organ bacon mail rain coffee corn stand riot behave wave affair";
+var mnemonic = "keep dignity pelican banner hollow disagree scare guard frozen foam source neck";

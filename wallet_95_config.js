@@ -1,1 +1,1 @@
-var mnemonic = "angry laundry year eager uncle eight excite sibling arrange tired pattern tuition";
+var mnemonic = "version trigger response gloom grunt tower stove critic exhibit wise capital creek";

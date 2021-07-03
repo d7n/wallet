@@ -1,1 +1,1 @@
-var mnemonic = "debris electric surprise cream program drive group congress argue raw museum acquire";
+var mnemonic = "calm flavor dream cherry welcome balcony must intact climb start deal field";

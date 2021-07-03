@@ -1,1 +1,1 @@
-var mnemonic = "million gas need tonight adjust order nature exchange race smile enact rich";
+var mnemonic = "immune slender mobile bamboo dose power badge ivory fade material analyst shy";

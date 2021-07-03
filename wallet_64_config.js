@@ -1,1 +1,1 @@
-var mnemonic = "cement still utility fantasy work race purchase loan actual wage polar illness";
+var mnemonic = "strong inhale profit cheese vivid before grass term business file alter manage";

@@ -1,1 +1,1 @@
-var mnemonic = "width exhaust neutral enforce fiber enjoy few tenant leopard sorry pass regular";
+var mnemonic = "funny expose art tide screen able option another replace make history assault";

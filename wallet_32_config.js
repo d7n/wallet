@@ -1,1 +1,1 @@
-var mnemonic = "infant document broccoli slow dream hat hip middle century poem gown danger";
+var mnemonic = "host soccer inform draft fury output access layer situate exercise flat belt";

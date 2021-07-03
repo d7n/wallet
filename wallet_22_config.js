@@ -1,1 +1,1 @@
-var mnemonic = "avoid prize below another month other clay unaware fortune evidence general safe";
+var mnemonic = "message bullet power ethics eager mistake online dance awake boss weasel festival";

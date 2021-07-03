@@ -1,1 +1,1 @@
-var mnemonic = "task evidence smile surface swear initial corn wet since vessel still merge";
+var mnemonic = "layer tooth access inner spice elegant worry involve receive midnight make story";

@@ -1,1 +1,1 @@
-var mnemonic = "effort describe twin share fame morning sleep tray switch ketchup kiwi rice";
+var mnemonic = "fury robot giggle husband cluster whip taxi math humble course chief dress";

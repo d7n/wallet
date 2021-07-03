@@ -1,1 +1,1 @@
-var mnemonic = "decade hybrid sorry vapor object latin page black picture shoulder wasp mail";
+var mnemonic = "pelican round leader crush blade always quantum galaxy claw nut glow arctic";

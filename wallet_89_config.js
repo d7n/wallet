@@ -1,1 +1,1 @@
-var mnemonic = "kid album enrich myself radio laugh ranch current naive issue bottom priority";
+var mnemonic = "embark mango dice drive pass volcano start math unit repeat method vault";

@@ -1,1 +1,1 @@
-var mnemonic = "motor column galaxy impulse common thrive candy west tiny route flock squirrel";
+var mnemonic = "sauce job battle nut unfold direct audit offer peasant below surge safe";

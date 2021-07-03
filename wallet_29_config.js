@@ -1,1 +1,1 @@
-var mnemonic = "book file battle brown case race govern vital casual replace squirrel spirit";
+var mnemonic = "plastic crazy marine hover half mind lunch amount trip gas holiday index";

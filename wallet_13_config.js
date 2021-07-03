@@ -1,1 +1,1 @@
-var mnemonic = "patch lawsuit flee panda canoe segment start will elder noise uphold tool";
+var mnemonic = "social thank spoon pigeon zone oak arrive lens horn favorite matter fly";

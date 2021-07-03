@@ -1,1 +1,1 @@
-var mnemonic = "column champion range educate author license uphold siege ice direct secret drastic";
+var mnemonic = "escape jewel thing now dentist casual tool truly body custom office decline";

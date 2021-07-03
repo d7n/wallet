@@ -1,1 +1,1 @@
-var mnemonic = "sorry sphere lemon inquiry infant flock brief crane stove spy cradle expand";
+var mnemonic = "immune barrel verb nothing deliver sunny illness ozone drill organ wise subject";

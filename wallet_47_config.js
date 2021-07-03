@@ -1,1 +1,1 @@
-var mnemonic = "uncover eyebrow hunt blind check unhappy fall begin staff tunnel gospel report";
+var mnemonic = "payment jewel during forget wave cost hover session duty goddess lion honey";

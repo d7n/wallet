@@ -1,1 +1,1 @@
-var mnemonic = "soap pluck layer canvas cancel pink cricket act pony wing alert fault";
+var mnemonic = "version entry parent neck captain crunch animal harbor spatial climb draft mansion";

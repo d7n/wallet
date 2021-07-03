@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit inner slice security cattle ask merry pond orbit expand mandate cycle";
+var mnemonic = "owner enlist obscure cricket aim upon place rug grit royal muscle coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "army radar chaos album moment tunnel lemon smart miss essence flash omit";
+var mnemonic = "slot blast ahead damp service tragic shoulder reunion modify option connect elegant";

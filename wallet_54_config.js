@@ -1,1 +1,1 @@
-var mnemonic = "advice device wish casino asset snap vivid chunk soccer burden same regret";
+var mnemonic = "action orphan income ozone quantum trend nerve action dynamic loop gadget crazy";

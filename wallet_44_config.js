@@ -1,1 +1,1 @@
-var mnemonic = "luggage then laugh sibling essay acid hello humble ancient enemy drip scheme";
+var mnemonic = "canvas monitor now near tree patch void lend brand arena issue uphold";

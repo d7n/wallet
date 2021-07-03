@@ -1,1 +1,1 @@
-var mnemonic = "citizen zone negative reunion alcohol soldier treat cycle rice minor tongue diagram";
+var mnemonic = "two erode pioneer forest omit ladder flash melody permit glass canvas food";

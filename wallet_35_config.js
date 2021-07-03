@@ -1,1 +1,1 @@
-var mnemonic = "december large version absent cushion stove romance own couch hat goat path";
+var mnemonic = "diesel little open deer provide else seminar smooth maid camera noodle atom";

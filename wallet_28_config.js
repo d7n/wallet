@@ -1,1 +1,1 @@
-var mnemonic = "devote jaguar armor kidney wrestle final grunt quiz avocado deliver banana burst";
+var mnemonic = "market follow monster busy punch lion stock drastic wish nut fluid visual";

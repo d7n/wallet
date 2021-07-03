@@ -1,1 +1,1 @@
-var mnemonic = "convince differ giant impulse wage recipe glad orphan click shift century river";
+var mnemonic = "doll smooth primary comic company chief wife recycle business keen bag quit";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle more video water biology fame wealth robust aspect stem tag admit";
+var mnemonic = "need innocent curve where neck dog genre struggle draft much vehicle appear";

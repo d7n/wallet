@@ -1,1 +1,1 @@
-var mnemonic = "profit flock pride chunk uncover canoe grass carpet virus flavor remain bar";
+var mnemonic = "leisure supreme champion just vivid tired admit stuff cage permit page crisp";

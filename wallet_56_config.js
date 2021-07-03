@@ -1,1 +1,1 @@
-var mnemonic = "culture maze rigid duty spoon loyal add again attitude extra wrong blush";
+var mnemonic = "story enrich observe bundle develop pink leaf social false hair release ball";

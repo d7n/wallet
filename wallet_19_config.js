@@ -1,1 +1,1 @@
-var mnemonic = "hold electric relax cave grocery rescue pluck fun boy lava account toilet";
+var mnemonic = "equip dish report envelope good profit reveal tooth style enact lock close";

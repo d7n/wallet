@@ -1,1 +1,1 @@
-var mnemonic = "spend alley unveil collect heavy cart health combine because spring surface hire";
+var mnemonic = "segment awesome stick gap must goat arrive eternal ceiling alone ill affair";

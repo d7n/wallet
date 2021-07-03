@@ -1,1 +1,1 @@
-var mnemonic = "cabin sunset taste hood symptom impact valid drift sibling quick mask copy";
+var mnemonic = "tissue legend advance where space void parade gauge limit travel drop solid";

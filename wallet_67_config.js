@@ -1,1 +1,1 @@
-var mnemonic = "marriage finger piece account material box around stay material practice school decade";
+var mnemonic = "cheap wisdom start fish because box coin mention knife zoo destroy have";

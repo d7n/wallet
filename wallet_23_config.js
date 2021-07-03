@@ -1,1 +1,1 @@
-var mnemonic = "shock foot amount fan couch involve jealous illegal anchor nerve exist better";
+var mnemonic = "swap position awful thunder brush main alone enact cabbage mosquito two grape";

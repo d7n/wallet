@@ -1,1 +1,1 @@
-var mnemonic = "ticket gift equal judge observe polar bundle mixed soda mountain key stumble";
+var mnemonic = "squeeze act strategy flavor polar gun slim prize length spoil civil peanut";

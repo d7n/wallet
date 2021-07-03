@@ -1,1 +1,1 @@
-var mnemonic = "check inner fashion rent radar cereal matter retire hard budget license key";
+var mnemonic = "cotton frame dynamic trigger absurd old foot snow debris abstract train staff";

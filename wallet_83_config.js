@@ -1,1 +1,1 @@
-var mnemonic = "cotton calm light public thought banana degree easy can know barely omit";
+var mnemonic = "include mobile smoke task bench spring bracket leave impose mirror skull sphere";

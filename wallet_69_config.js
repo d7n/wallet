@@ -1,1 +1,1 @@
-var mnemonic = "vacuum blue hood evil teach calm auction example cushion busy vessel measure";
+var mnemonic = "private immense process laundry thank lonely style hedgehog net zone toe cause";

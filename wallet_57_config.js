@@ -1,1 +1,1 @@
-var mnemonic = "clump addict illness beach erupt usual era liar under rival salmon arrive";
+var mnemonic = "only trigger safe shoe join tennis syrup move ahead clutch oxygen book";

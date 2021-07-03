@@ -1,1 +1,1 @@
-var mnemonic = "receive win coyote game quit shove outer salt tortoise bargain garden series";
+var mnemonic = "icon chalk main chef cricket melody page over cheap weird plate ethics";

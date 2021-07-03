@@ -1,1 +1,1 @@
-var mnemonic = "arrest menu little stool scout april hover drift whip donor ladder kind";
+var mnemonic = "prevent access false leaf hint grow round used office creek grid orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow afraid cool example leisure doctor estate moon zebra bean climb bundle";
+var mnemonic = "antenna tree night rug major cigar marble silly end key magnet lizard";

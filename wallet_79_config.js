@@ -1,1 +1,1 @@
-var mnemonic = "box carbon element idle million gospel agree salon stock click jewel tree";
+var mnemonic = "atom anger town lonely drastic mystery analyst promote rude gift scene crack";

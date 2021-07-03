@@ -1,1 +1,1 @@
-var mnemonic = "junior moment current crowd tattoo slogan kidney refuse foot keen taxi rocket";
+var mnemonic = "interest draw liar banana gaze onion balcony crater woman tilt nest demand";

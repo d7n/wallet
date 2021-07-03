@@ -1,1 +1,1 @@
-var mnemonic = "month margin follow design loud choose hammer stool coffee myth whale runway";
+var mnemonic = "fence undo light refuse measure fox worry rather maid glimpse banana chaos";

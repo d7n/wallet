@@ -1,1 +1,1 @@
-var mnemonic = "portion amateur admit border avocado valid treat gentle exercise hunt vacant wife";
+var mnemonic = "tail scare task inmate potato believe bone dilemma grid useless seat bag";

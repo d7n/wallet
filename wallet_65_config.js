@@ -1,1 +1,1 @@
-var mnemonic = "van inmate core swift report limit amount either end frog busy thrive";
+var mnemonic = "note account crime buzz topple speed evil carry repair goat behave banner";

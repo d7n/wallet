@@ -1,1 +1,1 @@
-var mnemonic = "guard chair there doll service empower jealous shield response labor youth lunar";
+var mnemonic = "caught dress mom hungry today youth patch actress control dynamic shuffle offer";

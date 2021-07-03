@@ -1,1 +1,1 @@
-var mnemonic = "kite ski sting useful pudding paper attack snap wire march crime glass";
+var mnemonic = "joy tip spoil major interest wheel excess cruel neglect duck seminar body";

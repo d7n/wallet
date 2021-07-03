@@ -1,1 +1,1 @@
-var mnemonic = "glory table crop edit fiber piano typical bleak monster identify lottery spray";
+var mnemonic = "latin clerk select void sadness farm reduce universe wink decide lucky lounge";

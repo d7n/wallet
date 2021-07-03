@@ -1,1 +1,1 @@
-var mnemonic = "phrase muffin issue bring lamp joy sausage midnight orient powder arrange night";
+var mnemonic = "deny giant easy frown resist inquiry until thunder exclude alpha stamp alley";

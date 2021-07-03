@@ -1,1 +1,1 @@
-var mnemonic = "arm edit napkin furnace blast science then alpha diet tongue pond lawn";
+var mnemonic = "brain rare grass perfect network clean flee upset hood razor race need";

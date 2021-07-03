@@ -1,1 +1,1 @@
-var mnemonic = "soon merry must deputy siege ketchup tuna model decorate day bulk romance";
+var mnemonic = "glass sport frozen column clean symptom opera vacant cargo submit employ finger";

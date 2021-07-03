@@ -1,1 +1,1 @@
-var mnemonic = "dolphin trap mix matter mammal garage lab cabin agree cry rent habit";
+var mnemonic = "romance stuff brick peace trick museum rally evolve base melody own unknown";

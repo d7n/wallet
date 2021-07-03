@@ -1,1 +1,1 @@
-var mnemonic = "disorder common side pact tube film review announce ivory magnet pudding click";
+var mnemonic = "basic cement category runway reduce charge coral need reform impulse green crime";

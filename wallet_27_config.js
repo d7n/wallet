@@ -1,1 +1,1 @@
-var mnemonic = "lonely treat virtual illness surge please come general burst convince this dragon";
+var mnemonic = "arrest cruise verb key wide august spray lunar stable stamp spare oxygen";

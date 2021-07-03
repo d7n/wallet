@@ -1,1 +1,1 @@
-var mnemonic = "cousin apology visit beef foam armor clown extra estate category teach walnut";
+var mnemonic = "hold day quiz wink miss lesson dirt match fox peasant borrow script";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote beach banana fee chalk unaware use riot evil can action ignore";
+var mnemonic = "nose ignore double turn dream blade assume case duty panda silk heart";

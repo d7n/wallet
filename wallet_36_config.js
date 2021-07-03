@@ -1,1 +1,1 @@
-var mnemonic = "envelope feed distance hungry decorate six symptom artist tissue recall chest cute";
+var mnemonic = "order pear fit couch abstract become apple half human receive together this";

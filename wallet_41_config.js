@@ -1,1 +1,1 @@
-var mnemonic = "tiger poet amused logic during enact reject derive cattle kind reflect alarm";
+var mnemonic = "stereo satisfy shadow jungle unusual theme advance problem actual finish tower feature";

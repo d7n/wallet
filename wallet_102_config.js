@@ -1,1 +1,1 @@
-var mnemonic = "educate image foam weapon brain punch announce front conduct frown fringe fragile";
+var mnemonic = "coffee brown castle ostrich melt eagle absorb minor this abuse dash dynamic";

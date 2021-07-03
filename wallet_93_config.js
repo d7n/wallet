@@ -1,1 +1,1 @@
-var mnemonic = "behave apology become spray salad inner coyote survey subject stumble chronic burger";
+var mnemonic = "salute fog auction soup enroll neglect pole habit captain convince ignore defense";

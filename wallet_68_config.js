@@ -1,1 +1,1 @@
-var mnemonic = "number quantum want dragon rich blame jaguar surround keen wall clutch goose";
+var mnemonic = "fitness utility nose throw unfair bike whisper stuff young feature damage series";

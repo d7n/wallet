@@ -1,1 +1,1 @@
-var mnemonic = "alarm auto weasel churn power tuna spawn patch street fit wheel glance";
+var mnemonic = "layer knee morning element income panic congress magnet syrup must skate comfort";

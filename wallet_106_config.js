@@ -1,1 +1,1 @@
-var mnemonic = "police winner suffer bridge cruise lesson reunion average fat gaze invite effort";
+var mnemonic = "draw private across ball market pipe pole kitten burst nominee romance rural";

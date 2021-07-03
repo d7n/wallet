@@ -1,1 +1,1 @@
-var mnemonic = "urban creek wait guard jewel hour churn vast enable item inhale clutch";
+var mnemonic = "vicious pilot thought confirm display teach census dream across twin wrestle carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "distance banana food trade scheme audit remove gallery top rescue capital frame";
+var mnemonic = "chicken ship seven collect bike expose report cry plate gossip predict diagram";
