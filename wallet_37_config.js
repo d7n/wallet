@@ -1,1 +1,1 @@
-var mnemonic = "juice old protect cost stone someone fork pond wedding vibrant faith pulp";
+var mnemonic = "sunny uncover motion frown grief maid joke slice alone satoshi dismiss meat";

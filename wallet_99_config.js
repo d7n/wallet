@@ -1,1 +1,1 @@
-var mnemonic = "join faith smile mouse mango corn world response salt blind clay outer";
+var mnemonic = "they mad emerge guess vacant provide awful lawsuit crawl unique supply combine";

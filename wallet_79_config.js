@@ -1,1 +1,1 @@
-var mnemonic = "already argue seed replace divorce total total castle liberty decorate invite axis";
+var mnemonic = "misery clap can green deny oppose lake resist secret crush seven people";

@@ -1,1 +1,1 @@
-var mnemonic = "version now fork peanut awkward alarm three tomato iron harbor kid electric";
+var mnemonic = "charge quarter lonely direct polar tide pill smile silver office siren pottery";

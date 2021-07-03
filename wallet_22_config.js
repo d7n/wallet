@@ -1,1 +1,1 @@
-var mnemonic = "clarify inmate spawn fence violin mystery village illegal bar butter click file";
+var mnemonic = "minimum great theory world body pepper mention away outer size asthma typical";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel various conduct tape solve fragile party horn cabin layer pond code";
+var mnemonic = "asset verify pink caught certain panel light animal eternal elbow stick supply";

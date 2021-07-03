@@ -1,1 +1,1 @@
-var mnemonic = "cloth example spatial steak wonder flight minor machine grief animal cream session";
+var mnemonic = "quality adult icon laundry flee danger when chalk argue shiver oak myth";

@@ -1,1 +1,1 @@
-var mnemonic = "elder fly bag primary defense pumpkin sniff state tobacco paddle strong movie";
+var mnemonic = "south chronic shrug evil vault broccoli put primary used inherit side economy";

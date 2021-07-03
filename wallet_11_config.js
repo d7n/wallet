@@ -1,1 +1,1 @@
-var mnemonic = "vapor require comic slim frequent damp wheat drink reform release river alley";
+var mnemonic = "glue online truly detail suspect wrestle enact stadium sustain man fork lonely";

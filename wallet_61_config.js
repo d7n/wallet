@@ -1,1 +1,1 @@
-var mnemonic = "ribbon minor pave error fog flame prevent auto skull custom exercise royal";
+var mnemonic = "such busy avoid whale paddle nothing alley flat soap scatter umbrella state";

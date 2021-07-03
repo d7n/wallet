@@ -1,1 +1,1 @@
-var mnemonic = "demise tree later gift point hero bubble fault never stove mail bulk";
+var mnemonic = "park sunny setup embrace eternal innocent glory gossip kitten aware vague eye";

@@ -1,1 +1,1 @@
-var mnemonic = "small trust twist drift horse snow today fury identify organ tongue hold";
+var mnemonic = "voice wish charge reason engage regular easy giggle produce volcano rack resource";

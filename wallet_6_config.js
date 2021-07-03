@@ -1,1 +1,1 @@
-var mnemonic = "sibling cigar minor private gossip extend frost endorse foot purse biology artist";
+var mnemonic = "glimpse anxiety switch element abstract armed angry decide auction same drift name";

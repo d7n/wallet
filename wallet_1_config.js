@@ -1,1 +1,1 @@
-var mnemonic = "input purpose owner fiction perfect juice lock warrior novel lens manual juice";
+var mnemonic = "festival filter hybrid desert guess another wheel kitten used drum heart delay";

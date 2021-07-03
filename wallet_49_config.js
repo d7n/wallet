@@ -1,1 +1,1 @@
-var mnemonic = "give worth job narrow reward panda sausage two figure replace office stick";
+var mnemonic = "vendor rather reflect cereal occur key matter drive find describe below skirt";

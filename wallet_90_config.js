@@ -1,1 +1,1 @@
-var mnemonic = "alarm turkey there sponsor farm edge secret dentist wood banana water rule";
+var mnemonic = "metal quit nest human window airport diary lounge kitten since afford over";

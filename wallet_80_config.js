@@ -1,1 +1,1 @@
-var mnemonic = "boost toilet resource object narrow caution regular coin parent endless ticket puppy";
+var mnemonic = "position eye sound fortune pistol orphan borrow decide thrive canal live gravity";

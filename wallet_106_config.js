@@ -1,1 +1,1 @@
-var mnemonic = "talk repeat nation praise stamp civil actress leg winner elite fatigue lonely";
+var mnemonic = "polar frozen three vacant flame cupboard bird element quiz update model prefer";

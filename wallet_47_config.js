@@ -1,1 +1,1 @@
-var mnemonic = "valve possible fatal version police walk digital leisure slide tobacco donkey patrol";
+var mnemonic = "kid subway argue original travel mistake purpose found slight during gorilla accident";

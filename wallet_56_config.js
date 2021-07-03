@@ -1,1 +1,1 @@
-var mnemonic = "outer sad impose amateur brush oil grief present fade wet essence barrel";
+var mnemonic = "wagon identify pond panda heart merit maximum neutral equal measure garden mad";

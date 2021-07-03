@@ -1,1 +1,1 @@
-var mnemonic = "soft way truth friend okay method crew feature idle december involve bicycle";
+var mnemonic = "someone picture scheme capable boss crop detail inner wink nominee pioneer drive";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle bamboo lottery garage luxury language beyond tooth nuclear pill mass ticket";
+var mnemonic = "ocean online actress woman panel armed neglect valid will auto middle million";

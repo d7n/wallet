@@ -1,1 +1,1 @@
-var mnemonic = "search maximum amateur brother brick tomorrow address flame comfort voyage man math";
+var mnemonic = "just fee mask one basket suffer miss venture hen carpet rubber logic";

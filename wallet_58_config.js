@@ -1,1 +1,1 @@
-var mnemonic = "twelve report group topple initial keen twist awake seat there start juice";
+var mnemonic = "upper motion habit book toss surround else you hidden whisper sure inflict";

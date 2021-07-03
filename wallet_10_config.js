@@ -1,1 +1,1 @@
-var mnemonic = "thought concert initial fringe debris flight letter pull electric resemble crater novel";
+var mnemonic = "sorry idle bamboo off brain action journey depth insane soldier genre enroll";

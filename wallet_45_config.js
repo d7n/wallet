@@ -1,1 +1,1 @@
-var mnemonic = "sugar advance castle raven plastic junk slim midnight piano satoshi grape pioneer";
+var mnemonic = "radio motor focus hedgehog course clump idea spin order expose immune slogan";

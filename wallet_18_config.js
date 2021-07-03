@@ -1,1 +1,1 @@
-var mnemonic = "ostrich grant balance tiny that monster grab enroll rigid notable cause love";
+var mnemonic = "omit shock thumb aspect prefer boil shoulder trend roast pulp pigeon pyramid";

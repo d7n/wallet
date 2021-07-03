@@ -1,1 +1,1 @@
-var mnemonic = "glance valley company depth frozen cloud hand scorpion found master inhale immune";
+var mnemonic = "boss office dust reflect stamp cover garbage spend discover face cloud brisk";

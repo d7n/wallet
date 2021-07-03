@@ -1,1 +1,1 @@
-var mnemonic = "utility weather pudding spoon club match capable blame park soda tragic domain";
+var mnemonic = "seat frog moral blanket float turkey knife exact common stadium slow umbrella";

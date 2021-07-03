@@ -1,1 +1,1 @@
-var mnemonic = "firm fancy dwarf salon urge toward harvest you bicycle hamster diesel drill";
+var mnemonic = "short text scissors insane coffee call cluster chuckle couple bring chief unusual";

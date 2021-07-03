@@ -1,1 +1,1 @@
-var mnemonic = "coconut egg merit supply empower siren fantasy category giant proof silk tent";
+var mnemonic = "brother custom connect story program baby blouse faint acid idle system battle";

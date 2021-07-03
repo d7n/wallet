@@ -1,1 +1,1 @@
-var mnemonic = "engage fossil quit float sort blind recipe orphan pulp oak ride fly";
+var mnemonic = "excess oil medal client bind bargain brass strategy fine settle brother sea";

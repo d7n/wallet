@@ -1,1 +1,1 @@
-var mnemonic = "direct jealous utility dawn shift legal ostrich tiger shallow suggest heart impulse";
+var mnemonic = "index flame atom rib switch cook spoon current course ensure tower physical";

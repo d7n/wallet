@@ -1,1 +1,1 @@
-var mnemonic = "fall disagree observe urge spike distance screen early tent buddy ecology region";
+var mnemonic = "safe pioneer advance fortune invest float hawk decade green never cabbage denial";

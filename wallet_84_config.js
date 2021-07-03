@@ -1,1 +1,1 @@
-var mnemonic = "cabin maximum lottery blush provide people twin pupil kick health duck security";
+var mnemonic = "call announce fatigue vacant garden match state swear sample duck balance mandate";

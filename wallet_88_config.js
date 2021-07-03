@@ -1,1 +1,1 @@
-var mnemonic = "hint such borrow spell fix calm tourist invest six mistake fish desk";
+var mnemonic = "alone shrimp wide stumble clap panic armed clerk parent dentist title between";

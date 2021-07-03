@@ -1,1 +1,1 @@
-var mnemonic = "book siren abstract wait shuffle hurdle pet month breeze disagree turkey prepare";
+var mnemonic = "obey pitch often believe matter march action paddle addict mention lesson level";

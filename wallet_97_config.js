@@ -1,1 +1,1 @@
-var mnemonic = "flower damp buyer fire travel borrow unhappy humor seminar fall lion feed";
+var mnemonic = "nose reform rare twelve rough scale lottery enroll siege loan transfer simple";

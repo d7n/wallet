@@ -1,1 +1,1 @@
-var mnemonic = "melt bench column crucial school debris favorite judge practice helmet sustain spring";
+var mnemonic = "enroll wire mirror stand ride divide net bulk flip soda cereal sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "solution where inquiry mix cable copy seminar onion rich cactus giggle long";
+var mnemonic = "pencil erupt man coast rely bunker action double office october nothing person";

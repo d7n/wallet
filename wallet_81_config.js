@@ -1,1 +1,1 @@
-var mnemonic = "kitchen decide shock help zebra knock fiber bleak sketch physical broccoli festival";
+var mnemonic = "author drama hawk final clinic lounge hover deer autumn reward kick brain";

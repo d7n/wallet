@@ -1,1 +1,1 @@
-var mnemonic = "maple actual choice devote motor van behave tuna anxiety fit senior usual";
+var mnemonic = "shy wife night radar spin hurdle panda pulp major sock example inmate";

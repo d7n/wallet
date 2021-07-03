@@ -1,1 +1,1 @@
-var mnemonic = "stick disease tiny gaze chronic scene parrot rival color brick yellow inmate";
+var mnemonic = "hurt remind sheriff rubber harvest duck increase below wonder window hidden jump";

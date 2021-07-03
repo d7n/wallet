@@ -1,1 +1,1 @@
-var mnemonic = "into leader time lens engine pony buffalo cement daughter mirror melody typical";
+var mnemonic = "receive devote subject author interest talk athlete broom inherit dinosaur enforce exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "divert donkey blossom happy unusual confirm zone distance know steak hope east";
+var mnemonic = "lamp logic express either direct creek wife mountain scissors frame decrease exclude";

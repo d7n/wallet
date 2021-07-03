@@ -1,1 +1,1 @@
-var mnemonic = "cool citizen describe purpose salt color smart stomach absent month flee behave";
+var mnemonic = "then unaware soul token siren cloud wide defense midnight barrel stay mushroom";

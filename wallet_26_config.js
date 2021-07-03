@@ -1,1 +1,1 @@
-var mnemonic = "maple fly shoot version diagram awesome seek lobster resource sketch marriage breeze";
+var mnemonic = "utility grain author section icon bright gospel laugh assault human skill coconut";

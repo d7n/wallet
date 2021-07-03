@@ -1,1 +1,1 @@
-var mnemonic = "solar tennis bus giant answer ginger release kick drama arch picnic damage";
+var mnemonic = "hello afford put raw future kidney number trouble mercy banner angle reject";

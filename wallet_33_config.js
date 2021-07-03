@@ -1,1 +1,1 @@
-var mnemonic = "document math bamboo era diagram describe convince fluid waste fever cross kit";
+var mnemonic = "miracle cactus congress error plunge crouch else exclude upper guess promote grocery";

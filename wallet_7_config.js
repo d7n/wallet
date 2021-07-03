@@ -1,1 +1,1 @@
-var mnemonic = "cake virus useful flavor learn scrap biology aim sort anchor hungry curve";
+var mnemonic = "around load pulp slender stomach napkin explain useless gap mammal agent flame";

@@ -1,1 +1,1 @@
-var mnemonic = "soda dice vibrant universe erosion pig hammer help wet wild joke near";
+var mnemonic = "peasant cloud train fame peasant cry very mushroom despair soul budget leg";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony range vault flip ecology ketchup daughter lunar consider harvest elbow rebel";
+var mnemonic = "viable safe forward away enable wrong battle attract donkey shell leopard curtain";

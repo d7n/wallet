@@ -1,1 +1,1 @@
-var mnemonic = "hurt obscure dignity alter space pond mirror seek desk zebra wage wealth";
+var mnemonic = "hotel distance gravity ranch ancient inspire toy pioneer loud defy fortune tennis";

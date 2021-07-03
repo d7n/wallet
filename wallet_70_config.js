@@ -1,1 +1,1 @@
-var mnemonic = "reject lazy someone section material wreck march tube there stuff find slow";
+var mnemonic = "sure dial average stuff ship pilot endorse mail sustain chimney topic attend";

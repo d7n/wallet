@@ -1,1 +1,1 @@
-var mnemonic = "twist lesson stuff valley clump tongue elevator organ gym opera olympic parade";
+var mnemonic = "reject kangaroo border mean umbrella quantum require special point corn media swarm";

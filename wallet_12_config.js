@@ -1,1 +1,1 @@
-var mnemonic = "they time popular volcano thumb rare offer toe blue matrix diet gravity";
+var mnemonic = "wine off gallery bring best umbrella speak ignore enough focus insane output";

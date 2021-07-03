@@ -1,1 +1,1 @@
-var mnemonic = "fiscal middle virtual song hood lawn fix trap wink put eye lounge";
+var mnemonic = "near collect twist gun peanut alone slab torch panel silk grant december";

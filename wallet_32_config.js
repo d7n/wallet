@@ -1,1 +1,1 @@
-var mnemonic = "execute bubble chaos dice arm horn label silent teach satisfy kiwi lake";
+var mnemonic = "floor apology bird slab cause supply teach pear risk foot possible vague";

@@ -1,1 +1,1 @@
-var mnemonic = "atom shock reveal beyond mix lunar cereal cover air street brick try";
+var mnemonic = "smoke cover seat order method garment humor badge indoor sound absent tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder capable dish spare phone shell pizza solar heavy cute design radar";
+var mnemonic = "recycle march dance cup dinner bus cage zone wedding shallow say apple";

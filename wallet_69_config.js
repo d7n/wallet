@@ -1,1 +1,1 @@
-var mnemonic = "skin invest fabric together bottom cash armor found truly sound inject life";
+var mnemonic = "story valid fly film sauce mosquito cage source boil trim copy bracket";

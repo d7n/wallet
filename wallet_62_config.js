@@ -1,1 +1,1 @@
-var mnemonic = "idea three around daring destroy piano monster divide believe round caught asthma";
+var mnemonic = "cattle aerobic warfare soccer intact obvious bicycle friend sadness long donkey squirrel";

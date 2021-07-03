@@ -1,1 +1,1 @@
-var mnemonic = "clerk wisdom wood dose solid there august leg entry pipe burst awful";
+var mnemonic = "speed ring achieve cabbage remind pair rule glimpse force grocery renew pull";

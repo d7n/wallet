@@ -1,1 +1,1 @@
-var mnemonic = "juice lunar siege siege castle dumb brand hawk fork alley tunnel recall";
+var mnemonic = "category time clip burst special old lady chimney pause market neither decade";

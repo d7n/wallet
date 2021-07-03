@@ -1,1 +1,1 @@
-var mnemonic = "stand boost comfort fever impulse title buffalo innocent banner buzz snow eyebrow";
+var mnemonic = "letter crack north weather knock act voice bone search tomorrow monitor year";

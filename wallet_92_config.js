@@ -1,1 +1,1 @@
-var mnemonic = "slim gasp soldier razor talent guitar grace dream country region gauge airport";
+var mnemonic = "organ recycle renew forget praise notable diet fashion nerve salon payment machine";

@@ -1,1 +1,1 @@
-var mnemonic = "rug breeze sing wasp legal faculty lab cherry alley ahead abuse only";
+var mnemonic = "year flight average pretty hen pause ski admit liberty cup pair lawsuit";

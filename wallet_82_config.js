@@ -1,1 +1,1 @@
-var mnemonic = "bread egg noise color leave case spring ivory smoke thank soup armed";
+var mnemonic = "flight inside defy lab nasty check erode lion uphold unveil lawsuit smart";

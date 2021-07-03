@@ -1,1 +1,1 @@
-var mnemonic = "noise beyond exit neglect lend sail rather diesel flag conduct large minute";
+var mnemonic = "torch sun eternal animal mule speak fold icon scare powder actor fury";

@@ -1,1 +1,1 @@
-var mnemonic = "brother prison fish boost grace artist captain west combine link endless cargo";
+var mnemonic = "crystal buzz arrange dwarf wild awake drift lecture tribe champion canyon hill";

@@ -1,1 +1,1 @@
-var mnemonic = "around maximum nut vapor about gas sword retreat cabbage beef shed boat";
+var mnemonic = "attack they bamboo object mechanic master female bitter tired cupboard often sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "silly note rug fruit leader earn uniform neglect feed caught normal thumb";
+var mnemonic = "prefer patrol mean sniff erupt lyrics route safe south jar prevent add";

@@ -1,1 +1,1 @@
-var mnemonic = "hip isolate paper tree energy insect surge suit still situate deal achieve";
+var mnemonic = "theme choose love hover agent echo benefit matter future field detail give";

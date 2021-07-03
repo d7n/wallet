@@ -1,1 +1,1 @@
-var mnemonic = "drink video mix boost hospital pass shoot under genuine improve buddy rather";
+var mnemonic = "kitten program monitor labor fragile recall struggle grant muscle noble breeze honey";

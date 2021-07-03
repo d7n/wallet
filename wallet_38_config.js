@@ -1,1 +1,1 @@
-var mnemonic = "crash icon menu decorate topic safe anger young pizza adjust solution egg";
+var mnemonic = "vacant crazy swap dust giraffe cabin treat gasp gossip wisdom betray motion";

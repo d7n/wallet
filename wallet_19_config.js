@@ -1,1 +1,1 @@
-var mnemonic = "connect still orange weasel left vocal area garment siren panel present ordinary";
+var mnemonic = "weird donor segment agent predict wealth state lazy unusual jump maximum session";

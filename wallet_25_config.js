@@ -1,1 +1,1 @@
-var mnemonic = "pluck tell leaf claim gallery glide spice slot garment enable scatter note";
+var mnemonic = "sketch inherit want order permit impulse parrot panic charge slender spot absent";

@@ -1,1 +1,1 @@
-var mnemonic = "parade caution move dynamic teach panic target skull camera similar able left";
+var mnemonic = "employ pig invite velvet pill code coffee style shaft afraid raccoon frog";

@@ -1,1 +1,1 @@
-var mnemonic = "forest auto amateur wire stumble false dose seminar water actress fabric state";
+var mnemonic = "evoke wave series audit salmon sunny film curious lock uniform suffer stone";

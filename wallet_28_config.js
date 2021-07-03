@@ -1,1 +1,1 @@
-var mnemonic = "pelican analyst grunt north infant round public dress attack good insect write";
+var mnemonic = "sheriff else absurd curve omit ice please win labor window swear load";

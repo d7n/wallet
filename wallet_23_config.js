@@ -1,1 +1,1 @@
-var mnemonic = "else feature phone deposit taxi loyal circle double wagon crucial fresh false";
+var mnemonic = "edit action lens cannon beach cruel fiscal alarm prize silly october best";

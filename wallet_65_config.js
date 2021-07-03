@@ -1,1 +1,1 @@
-var mnemonic = "ribbon juice holiday fit noise grit virtual slide goose fragile scout melt";
+var mnemonic = "glow broccoli typical glory fly stomach endless ring action wait excess water";

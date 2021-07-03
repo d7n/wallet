@@ -1,1 +1,1 @@
-var mnemonic = "barely reveal cream glory trend razor kit case senior thumb gossip level";
+var mnemonic = "robust bid hamster hair floor coffee mansion garage hope horn wild dust";

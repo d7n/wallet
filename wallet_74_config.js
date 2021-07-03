@@ -1,1 +1,1 @@
-var mnemonic = "drift until innocent length palm burst sugar pony aspect office inside document";
+var mnemonic = "mass blossom black pretty luxury blossom wave economy acoustic lamp forget enter";

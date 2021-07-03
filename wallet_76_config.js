@@ -1,1 +1,1 @@
-var mnemonic = "essay level sadness wrist knee canoe estate rate nasty pink awake envelope";
+var mnemonic = "wrestle chicken genius prize broccoli hip priority ancient phone museum common uniform";

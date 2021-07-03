@@ -1,1 +1,1 @@
-var mnemonic = "share dolphin winner glory cushion acoustic material street brown bargain level border";
+var mnemonic = "census program turn risk since unknown sphere spy rule critic mixture resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "normal leaf neither ensure draft wall slide increase armor price ten slab";
+var mnemonic = "front boss track dizzy popular diagram find wise federal story fashion violin";

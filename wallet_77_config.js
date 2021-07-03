@@ -1,1 +1,1 @@
-var mnemonic = "search occur sort summer gauge feed control horror orient attend profit crush";
+var mnemonic = "doctor during fog summer cactus whale race curious pigeon noble kid anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle pool sense wide member attitude year energy turn chase travel silk";
+var mnemonic = "sample welcome head gas fatal heart soon pear purse kidney foot eight";
