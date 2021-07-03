@@ -1,1 +1,1 @@
-var mnemonic = "sentence palm already usage success tank bitter pink boy butter catalog close";
+var mnemonic = "plunge manage purse smart obtain soccer bless execute document cheap caution whale";

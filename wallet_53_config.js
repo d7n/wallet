@@ -1,1 +1,1 @@
-var mnemonic = "south work recall bamboo account toilet keep joke vanish wine vintage worry";
+var mnemonic = "sphere reflect evoke alert panic undo virtual alley glance network eye gravity";

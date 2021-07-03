@@ -1,1 +1,1 @@
-var mnemonic = "merry tattoo amused candy arrest fruit panther pony harbor confirm inquiry paper";
+var mnemonic = "stool voice brand mechanic praise hockey pottery awkward struggle emerge peasant spray";

@@ -1,1 +1,1 @@
-var mnemonic = "screen learn slight bullet hour essay net sight lava universe chief nasty";
+var mnemonic = "group blind salute opera kite mimic barely super lava surprise offer negative";

@@ -1,1 +1,1 @@
-var mnemonic = "ride plunge spawn dune head slight control tortoise develop usual reform aim";
+var mnemonic = "clip usage eight leader off correct gadget cover since noise copy mesh";

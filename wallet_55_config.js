@@ -1,1 +1,1 @@
-var mnemonic = "degree insane claw soldier dutch casual song online pony fluid logic social";
+var mnemonic = "weekend quick total wagon label wood barrel sibling cattle rocket creek flame";

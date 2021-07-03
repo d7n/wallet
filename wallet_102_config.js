@@ -1,1 +1,1 @@
-var mnemonic = "desk hint steak avocado crew belt elite soccer surge labor vicious frown";
+var mnemonic = "final hurt twist sudden frown write split divide nation rocket square bacon";

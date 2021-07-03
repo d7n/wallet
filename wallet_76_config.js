@@ -1,1 +1,1 @@
-var mnemonic = "club athlete front artwork arm gap accident tuition soul credit hawk carpet";
+var mnemonic = "peace stomach trouble knife inherit embody dirt math daughter damp indicate bunker";

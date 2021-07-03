@@ -1,1 +1,1 @@
-var mnemonic = "pig huge approve april wreck speak load naive march salon eight little";
+var mnemonic = "venue window sniff either robust horn thing kid ugly catalog increase inherit";

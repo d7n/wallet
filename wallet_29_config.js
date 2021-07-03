@@ -1,1 +1,1 @@
-var mnemonic = "laptop art neglect water scrap dream armed glove indoor front sand worth";
+var mnemonic = "other fold pretty click return biology club audit return prosper cereal conduct";

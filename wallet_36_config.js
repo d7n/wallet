@@ -1,1 +1,1 @@
-var mnemonic = "cool violin goose hospital flight potato tent ramp small noise cable will";
+var mnemonic = "because spy table under happy assault beef jacket travel mask hero deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "hood attack trap avocado multiply symbol sell spawn worth clay lava lady";
+var mnemonic = "marble spice shy giant busy armed juice fragile potato picture vacuum oppose";

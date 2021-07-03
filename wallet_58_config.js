@@ -1,1 +1,1 @@
-var mnemonic = "wire perfect super square choice fire cry lemon sausage grunt scout camp";
+var mnemonic = "okay mother puzzle exile sight acid obtain second waste artwork favorite love";

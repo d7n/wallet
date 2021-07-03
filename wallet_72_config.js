@@ -1,1 +1,1 @@
-var mnemonic = "balcony under excess dad glue siege liquid ice motion universe limb chief";
+var mnemonic = "noodle world member purchase off divide coast squeeze athlete other credit virtual";

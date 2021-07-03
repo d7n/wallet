@@ -1,1 +1,1 @@
-var mnemonic = "bracket display build praise jeans develop huge movie traffic agree praise acquire";
+var mnemonic = "club dizzy maze local network relief rose capable try hood cliff pride";

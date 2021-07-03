@@ -1,1 +1,1 @@
-var mnemonic = "spice salt onion wrong object rude outside erosion web ozone huge total";
+var mnemonic = "gap suffer auto gift appear cloth appear bag remind tired gravity physical";

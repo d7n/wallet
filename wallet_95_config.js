@@ -1,1 +1,1 @@
-var mnemonic = "symbol spatial final supreme what clog object silk jungle mistake point metal";
+var mnemonic = "sure captain enroll spy patch tunnel trumpet bitter party hero nephew panther";

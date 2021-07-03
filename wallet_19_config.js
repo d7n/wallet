@@ -1,1 +1,1 @@
-var mnemonic = "unhappy kite pioneer matter cave purpose program dune exhaust erode pilot okay";
+var mnemonic = "hair deal wall latin author auction phrase suggest combine humor swamp pluck";

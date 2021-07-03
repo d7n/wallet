@@ -1,1 +1,1 @@
-var mnemonic = "lesson foil recycle weekend regular frame ability captain general useful catalog broccoli";
+var mnemonic = "shallow aerobic hair element divorce present royal reunion bracket canvas exist book";

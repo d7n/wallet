@@ -1,1 +1,1 @@
-var mnemonic = "shrimp clip security acoustic collect trip private hair regular brand below hamster";
+var mnemonic = "alien follow system defense accuse bicycle meadow liberty mimic drama supply wink";

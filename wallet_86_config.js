@@ -1,1 +1,1 @@
-var mnemonic = "abstract trouble rain fix winter chronic pupil build fire fringe letter brick";
+var mnemonic = "govern depth census hybrid wait myself judge fancy much tower ahead follow";

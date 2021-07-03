@@ -1,1 +1,1 @@
-var mnemonic = "veteran wide shaft upper tube undo roof sweet rhythm coil shock shift";
+var mnemonic = "air life damp timber sure sausage manual era teach place improve version";

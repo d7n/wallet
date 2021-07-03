@@ -1,1 +1,1 @@
-var mnemonic = "moon excess beef stove potato book rain high render sugar siren turn";
+var mnemonic = "best step order vapor give average boil pistol spoil genius latin tooth";

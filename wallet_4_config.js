@@ -1,1 +1,1 @@
-var mnemonic = "fault deal ahead oppose motion course hotel shoulder toy agent hurdle symbol";
+var mnemonic = "undo train sentence coast duty need always expose oven trumpet web topple";

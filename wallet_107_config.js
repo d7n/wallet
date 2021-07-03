@@ -1,1 +1,1 @@
-var mnemonic = "match cart chapter empower survey tennis link erode damage income bread flower";
+var mnemonic = "strong fault beef they rally stereo yard dice festival left pretty hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "labor gadget wide girl laugh nice adult squeeze rotate awake gadget hen";
+var mnemonic = "tumble salad inmate tissue rebel such doctor sunset food capital strategy come";

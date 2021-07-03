@@ -1,1 +1,1 @@
-var mnemonic = "equip pass cement story donor cup obey cotton print south frozen crop";
+var mnemonic = "universe color about image female column derive hand sphere wing cluster course";

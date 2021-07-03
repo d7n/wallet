@@ -1,1 +1,1 @@
-var mnemonic = "odor spell globe galaxy mouse nothing orchard swallow loan cheap warrior visa";
+var mnemonic = "canal wealth exile shock curtain crouch avocado cradle potato detect slush solve";

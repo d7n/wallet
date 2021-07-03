@@ -1,1 +1,1 @@
-var mnemonic = "moon loud diary episode unknown cart human voice menu magnet erase scare";
+var mnemonic = "giggle brain car room tornado fine hand chat suggest tag write account";

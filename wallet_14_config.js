@@ -1,1 +1,1 @@
-var mnemonic = "retreat awkward token raven expand pioneer equal clock joke capable alter life";
+var mnemonic = "sting decline matrix urban defy patient genius cabin urban camp resemble alley";

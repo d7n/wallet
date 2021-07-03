@@ -1,1 +1,1 @@
-var mnemonic = "sphere treat predict like orbit news thank amazing milk try hair version";
+var mnemonic = "modify hotel author chat stone debate move obtain sudden treat exact cool";

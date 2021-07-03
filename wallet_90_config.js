@@ -1,1 +1,1 @@
-var mnemonic = "uniform ski success car salmon old race horn position special erase catch";
+var mnemonic = "guitar penalty enrich bench before reveal charge tip original clap dash few";

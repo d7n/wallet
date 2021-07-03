@@ -1,1 +1,1 @@
-var mnemonic = "frown two canvas pet medal regret shock hole fence smile test winner";
+var mnemonic = "merit clever shuffle use bargain uniform judge picnic cash scheme know ski";

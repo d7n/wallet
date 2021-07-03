@@ -1,1 +1,1 @@
-var mnemonic = "echo rebuild utility better own joke romance bundle daughter horn wood grass";
+var mnemonic = "zone print truly want beach liquid normal later property color grace hedgehog";

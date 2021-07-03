@@ -1,1 +1,1 @@
-var mnemonic = "problem grain bonus observe drama action focus they action spatial proof process";
+var mnemonic = "gaze wine series require purchase mother tunnel age twelve flee wire liquid";

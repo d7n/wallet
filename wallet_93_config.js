@@ -1,1 +1,1 @@
-var mnemonic = "soccer saddle thumb swamp dignity slow warfare afraid slow hazard just lumber";
+var mnemonic = "decline unable devote fat celery enforce fiber long deer room check maid";

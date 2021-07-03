@@ -1,1 +1,1 @@
-var mnemonic = "own detail element chalk pause group day carpet fetch child grass dose";
+var mnemonic = "awake punch remove oval grape verify horse nerve proof dream result talk";

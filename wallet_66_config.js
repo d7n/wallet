@@ -1,1 +1,1 @@
-var mnemonic = "spring whip hospital where liberty tackle picture horse stadium amateur street hour";
+var mnemonic = "tooth horse moon defy piece gown luggage dash retreat title sport wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "shell exit bike noodle egg demand kangaroo amused gain swarm segment exchange";
+var mnemonic = "good coyote brown skate tonight tomorrow solution antique huge monster absurd ethics";

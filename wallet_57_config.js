@@ -1,1 +1,1 @@
-var mnemonic = "equip hundred peasant romance test impulse blade myself believe vote illness asset";
+var mnemonic = "culture slim never egg mother evoke element fun valley sausage piano lift";

@@ -1,1 +1,1 @@
-var mnemonic = "oven arrive hero give number live arrange price hammer valley essay board";
+var mnemonic = "okay mixture battle decade real coil claw essence promote next uncover shift";

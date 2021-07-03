@@ -1,1 +1,1 @@
-var mnemonic = "slim diamond save more mom case pulse current fragile clarify theory exotic";
+var mnemonic = "various rail bubble photo diet fetch travel language fat rail foam mother";

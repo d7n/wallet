@@ -1,1 +1,1 @@
-var mnemonic = "prepare alley photo sort blood ghost stick ceiling orchard echo thought tuna";
+var mnemonic = "attack area symbol taxi baby verb token recall rocket hub sample dust";

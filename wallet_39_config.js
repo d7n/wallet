@@ -1,1 +1,1 @@
-var mnemonic = "eager guard flee army symptom thumb become question again nation security parrot";
+var mnemonic = "solve where chest hotel fog choose lift direct sign direct swap course";

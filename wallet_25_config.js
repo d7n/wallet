@@ -1,1 +1,1 @@
-var mnemonic = "artist hill grocery nurse fire oblige hard syrup ketchup tip luxury crazy";
+var mnemonic = "coast item primary fit face side double balcony long good execute emerge";

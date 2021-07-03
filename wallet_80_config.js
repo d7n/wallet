@@ -1,1 +1,1 @@
-var mnemonic = "summer awful sail phone paddle example hair leader recall north deliver oblige";
+var mnemonic = "invest select drip love rice general dry across mixture interest army blouse";

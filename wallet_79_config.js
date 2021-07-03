@@ -1,1 +1,1 @@
-var mnemonic = "misery always custom open you science gain dish knock suspect alpha health";
+var mnemonic = "bless fetch note mutual vendor bike satoshi guard sister obtain they together";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire pony tray couple layer remove lens ill ski define fabric detail";
+var mnemonic = "swift nice excite remind enable ride oxygen attitude initial rigid shine dismiss";

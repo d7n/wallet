@@ -1,1 +1,1 @@
-var mnemonic = "consider margin south pool whale situate draft easy light control notable rookie";
+var mnemonic = "judge twelve luggage image access apple post sunny object taxi move trumpet";

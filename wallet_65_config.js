@@ -1,1 +1,1 @@
-var mnemonic = "crush slide force soldier board engage umbrella hunt resemble video immense dream";
+var mnemonic = "false grape save income position wheel monitor stairs stem stove grocery duty";

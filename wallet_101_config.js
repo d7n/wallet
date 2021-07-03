@@ -1,1 +1,1 @@
-var mnemonic = "blouse exhaust vacant tuna culture twenty idle local steel zoo enjoy pig";
+var mnemonic = "rain manage escape patch middle circle illegal name divide skirt coil lottery";

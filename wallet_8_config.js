@@ -1,1 +1,1 @@
-var mnemonic = "around bar misery author private access name neck bread odor morning humble";
+var mnemonic = "brand rude onion exclude pause furnace cash credit coil leave early roof";

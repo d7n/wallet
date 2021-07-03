@@ -1,1 +1,1 @@
-var mnemonic = "suit salute visual cook obey city track foam sweet lounge icon eagle";
+var mnemonic = "alpha rice rich monkey toss story embark pulp stay margin hungry fetch";

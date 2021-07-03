@@ -1,1 +1,1 @@
-var mnemonic = "scatter potato smooth under decrease web match beyond mistake laptop stem quantum";
+var mnemonic = "drive flee parade mango fee soldier analyst pool creek mechanic parent blur";

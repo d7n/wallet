@@ -1,1 +1,1 @@
-var mnemonic = "always main rice stadium feel foot rack clog hawk matrix invest hat";
+var mnemonic = "spot runway modify squeeze claim quality excess banana accident page address raw";

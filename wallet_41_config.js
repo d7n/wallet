@@ -1,1 +1,1 @@
-var mnemonic = "arrest sad parrot street bleak cricket silent absurd base shy jaguar letter";
+var mnemonic = "pact man noodle snow plug amazing prosper fall intact wave act ancient";

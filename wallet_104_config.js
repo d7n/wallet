@@ -1,1 +1,1 @@
-var mnemonic = "expand cluster feel express trouble couch inner arm plate repeat grace cycle";
+var mnemonic = "woman fame cruise clarify then elite broken fall wolf dog brisk lion";

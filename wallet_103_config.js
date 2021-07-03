@@ -1,1 +1,1 @@
-var mnemonic = "reopen clay round spider crush dignity oxygen behave because flee female neutral";
+var mnemonic = "joke captain nothing farm lake sunny drastic survey spider author obey cable";

@@ -1,1 +1,1 @@
-var mnemonic = "position ball poverty carry six sun vote payment noise reveal capable agree";
+var mnemonic = "saddle digital clean sibling maple unfair industry ugly wisdom announce agree clog";

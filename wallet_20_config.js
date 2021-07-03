@@ -1,1 +1,1 @@
-var mnemonic = "nuclear renew soon mandate chef test flavor option nuclear palace first roof";
+var mnemonic = "goat bird carpet outdoor world bachelor guide eyebrow sausage dizzy fade major";

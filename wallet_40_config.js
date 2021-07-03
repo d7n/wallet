@@ -1,1 +1,1 @@
-var mnemonic = "wealth ball chicken alien nose crystal scrap pilot item burst attract punch";
+var mnemonic = "access world couch ancient fringe armor open lend excuse gather decline left";

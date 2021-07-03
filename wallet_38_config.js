@@ -1,1 +1,1 @@
-var mnemonic = "erode belt hair journey vacuum goddess thought myth submit soft adult wolf";
+var mnemonic = "prison marine involve hurt lens remain near toward trumpet blade type floor";

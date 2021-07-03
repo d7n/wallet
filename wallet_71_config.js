@@ -1,1 +1,1 @@
-var mnemonic = "turtle life uncle physical local drop federal inch grocery silly swear fragile";
+var mnemonic = "march describe recipe melt expire daughter time mixed file gallery help together";

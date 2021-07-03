@@ -1,1 +1,1 @@
-var mnemonic = "type away stone frown shock shock gravity fish depth submit number eight";
+var mnemonic = "slim ankle sphere vehicle hat public helmet jar poem actress dry wasp";

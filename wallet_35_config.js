@@ -1,1 +1,1 @@
-var mnemonic = "genre ankle twist nurse laugh other inner borrow decrease clip position truth";
+var mnemonic = "foster loud priority era you neck fog column jazz memory cliff embody";

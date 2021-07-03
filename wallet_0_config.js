@@ -1,1 +1,1 @@
-var mnemonic = "base board man cat west victory ridge once seek exercise decide delay";
+var mnemonic = "rhythm own snack dignity razor only fossil bunker express woman trap laugh";

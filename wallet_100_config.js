@@ -1,1 +1,1 @@
-var mnemonic = "obvious shoulder hole bulk wagon approve suspect army alley floor stomach always";
+var mnemonic = "velvet suffer indicate traffic small adapt check broom kingdom blouse awake own";

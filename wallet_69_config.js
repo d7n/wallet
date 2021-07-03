@@ -1,1 +1,1 @@
-var mnemonic = "time pond fiscal nest party material submit vivid fish loud decorate assume";
+var mnemonic = "ahead reveal solution post farm swallow tumble grow treat deal sort horn";

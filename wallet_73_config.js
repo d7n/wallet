@@ -1,1 +1,1 @@
-var mnemonic = "spare wing notable spirit hat snack fluid bench hurt bar peace swim";
+var mnemonic = "panic shiver settle profit stereo wonder enrich cup group double field merge";

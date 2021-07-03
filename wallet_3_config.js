@@ -1,1 +1,1 @@
-var mnemonic = "general extend area area where various hobby payment smooth timber abuse cluster";
+var mnemonic = "utility confirm kitten female interest mystery property bacon silly puzzle hello glue";

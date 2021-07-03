@@ -1,1 +1,1 @@
-var mnemonic = "hint champion frozen rocket rice attitude ski patient symptom coconut barely alpha";
+var mnemonic = "saddle ten change wolf blade upset wage sort marine walk frog corn";

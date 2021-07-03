@@ -1,1 +1,1 @@
-var mnemonic = "blur brief neglect tomorrow slender home chef mango there moon injury possible";
+var mnemonic = "risk across together audit once noodle glue palm same again extra estate";

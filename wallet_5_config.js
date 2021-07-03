@@ -1,1 +1,1 @@
-var mnemonic = "liquid enemy inhale bargain nation mirror client broom better trade pyramid wave";
+var mnemonic = "steak wreck actor vault text social north say ring exotic utility hand";

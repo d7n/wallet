@@ -1,1 +1,1 @@
-var mnemonic = "short insect action north grief anchor tone camp wheat speed heavy doll";
+var mnemonic = "radio lava suffer giraffe know caught tell three praise boy loan vanish";

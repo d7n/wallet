@@ -1,1 +1,1 @@
-var mnemonic = "lounge acid absorb velvet sort topple early engine swing pact save gloom";
+var mnemonic = "option fantasy envelope squeeze regret cupboard palace wood calm profit horn body";

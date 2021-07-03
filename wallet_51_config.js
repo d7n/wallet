@@ -1,1 +1,1 @@
-var mnemonic = "true anger domain tape mixture awake earth wonder monitor unusual wild later";
+var mnemonic = "field ethics tourist brass during wet above steel that pumpkin cliff connect";

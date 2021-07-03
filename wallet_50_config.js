@@ -1,1 +1,1 @@
-var mnemonic = "scatter program decline slam horn aim head fish journey cereal avocado biology";
+var mnemonic = "aunt wrong total park rapid sister maid invite hero title double prosper";

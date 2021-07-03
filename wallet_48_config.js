@@ -1,1 +1,1 @@
-var mnemonic = "vehicle ring badge alcohol bread brave dove toddler domain amused moral permit";
+var mnemonic = "movie title purchase fine door top amount fuel special enough any battle";

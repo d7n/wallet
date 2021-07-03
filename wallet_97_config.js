@@ -1,1 +1,1 @@
-var mnemonic = "educate impulse weird need bubble illegal area bar anchor rude helmet visual";
+var mnemonic = "balance brick ozone cat artwork digital alert manage soda system victory ketchup";

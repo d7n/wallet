@@ -1,1 +1,1 @@
-var mnemonic = "health bag slide chef client bus false fan naive gap seed liberty";
+var mnemonic = "rare kitchen final prepare trade either just genre obvious orphan route steak";

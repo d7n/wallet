@@ -1,1 +1,1 @@
-var mnemonic = "ladder song struggle alarm know math penalty odor zone donkey crucial lunch";
+var mnemonic = "result search exclude perfect health project unknown frost school crouch slice misery";

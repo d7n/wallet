@@ -1,1 +1,1 @@
-var mnemonic = "cement manage enrich useful hazard zero identify drop behind bracket trouble uncover";
+var mnemonic = "afford inspire stand author kitten guard master hood live enlist pigeon govern";

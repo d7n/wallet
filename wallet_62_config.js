@@ -1,1 +1,1 @@
-var mnemonic = "anchor yard citizen message board rookie member initial cart foam napkin harbor";
+var mnemonic = "silk morning cargo valve mosquito lawsuit luxury seven thrive feature tray truly";

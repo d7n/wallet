@@ -1,1 +1,1 @@
-var mnemonic = "benefit better pair century weather claw float author grid napkin glare october";
+var mnemonic = "online proof sock mesh funny tattoo mesh avoid unlock bus orbit sheriff";

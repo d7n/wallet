@@ -1,1 +1,1 @@
-var mnemonic = "helmet confirm vocal debris always private buzz benefit key dawn couple army";
+var mnemonic = "glance custom struggle upgrade picture sail wild below primary mouse cigar opera";

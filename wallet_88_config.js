@@ -1,1 +1,1 @@
-var mnemonic = "across situate setup banner elevator crash country marble sea renew plunge enter";
+var mnemonic = "fossil couch crawl churn destroy this toss manual obscure hawk bomb unfold";

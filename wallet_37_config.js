@@ -1,1 +1,1 @@
-var mnemonic = "steel visit trophy unveil talent brown float busy flower around dragon steak";
+var mnemonic = "renew sibling build crisp crawl swarm clump walnut seminar wool gain squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "three cactus winner apology afford beyond imitate run ocean jacket example select";
+var mnemonic = "security blossom ecology patrol melody start room outdoor play boat truly wealth";

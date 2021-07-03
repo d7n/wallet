@@ -1,1 +1,1 @@
-var mnemonic = "clay night balcony bridge west belt clog awful attitude expose mushroom mixed";
+var mnemonic = "hockey rice gather heavy muscle human parade anxiety roast false until proof";
