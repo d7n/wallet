@@ -1,1 +1,1 @@
-var mnemonic = "charge quarter lonely direct polar tide pill smile silver office siren pottery";
+var mnemonic = "sick original matter scatter certain weapon private giggle anxiety miracle sugar regret";

@@ -1,1 +1,1 @@
-var mnemonic = "nose reform rare twelve rough scale lottery enroll siege loan transfer simple";
+var mnemonic = "steak scorpion keep jungle divorce acquire file interest kid insect absorb festival";

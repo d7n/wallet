@@ -1,1 +1,1 @@
-var mnemonic = "debate pizza cake lazy hurdle blue voyage beauty rocket avoid pulp pear";
+var mnemonic = "refuse page today narrow order poet stool frost chicken often meadow couch";

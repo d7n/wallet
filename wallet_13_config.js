@@ -1,1 +1,1 @@
-var mnemonic = "million ahead thumb boost expand basic wrestle undo demise comfort soon trap";
+var mnemonic = "cause march never asset join finger cake clump heart need session harbor";

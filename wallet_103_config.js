@@ -1,1 +1,1 @@
-var mnemonic = "theme choose love hover agent echo benefit matter future field detail give";
+var mnemonic = "party resource flame blanket north minor fever problem plate execute resemble camera";

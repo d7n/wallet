@@ -1,1 +1,1 @@
-var mnemonic = "boss office dust reflect stamp cover garbage spend discover face cloud brisk";
+var mnemonic = "glue woman eyebrow trim foam drift hello fly replace approve bacon shadow";

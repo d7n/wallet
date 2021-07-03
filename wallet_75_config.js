@@ -1,1 +1,1 @@
-var mnemonic = "enroll wire mirror stand ride divide net bulk flip soda cereal sugar";
+var mnemonic = "antique resemble frozen domain sock differ physical mention tonight modify panel rotate";

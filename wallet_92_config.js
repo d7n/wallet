@@ -1,1 +1,1 @@
-var mnemonic = "organ recycle renew forget praise notable diet fashion nerve salon payment machine";
+var mnemonic = "fetch erase false boring fit shell exit autumn lecture text quantum sister";

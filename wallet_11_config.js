@@ -1,1 +1,1 @@
-var mnemonic = "glue online truly detail suspect wrestle enact stadium sustain man fork lonely";
+var mnemonic = "remain second oven canal exotic one comfort enact receive trade yard ordinary";

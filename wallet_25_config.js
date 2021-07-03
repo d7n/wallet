@@ -1,1 +1,1 @@
-var mnemonic = "sketch inherit want order permit impulse parrot panic charge slender spot absent";
+var mnemonic = "scorpion despair van false trust renew brisk brand best rice cupboard bike";

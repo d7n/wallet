@@ -1,1 +1,1 @@
-var mnemonic = "sample welcome head gas fatal heart soon pear purse kidney foot eight";
+var mnemonic = "rescue ridge bicycle any useful bright stadium rebuild disease police mercy gossip";

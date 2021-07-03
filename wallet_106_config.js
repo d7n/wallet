@@ -1,1 +1,1 @@
-var mnemonic = "polar frozen three vacant flame cupboard bird element quiz update model prefer";
+var mnemonic = "basket limb permit fiscal accuse cousin brain noodle join hollow assault parent";

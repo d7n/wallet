@@ -1,1 +1,1 @@
-var mnemonic = "brother custom connect story program baby blouse faint acid idle system battle";
+var mnemonic = "game virtual vacant convince erupt never change hand clock oxygen bread struggle";

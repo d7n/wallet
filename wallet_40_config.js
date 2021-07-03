@@ -1,1 +1,1 @@
-var mnemonic = "south chronic shrug evil vault broccoli put primary used inherit side economy";
+var mnemonic = "excess whale sleep miss source fatigue welcome super evoke topple satoshi lens";

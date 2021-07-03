@@ -1,1 +1,1 @@
-var mnemonic = "such busy avoid whale paddle nothing alley flat soap scatter umbrella state";
+var mnemonic = "fancy patrol erase face anchor girl trend increase fan nephew saddle retreat";

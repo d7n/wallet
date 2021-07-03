@@ -1,1 +1,1 @@
-var mnemonic = "sure dial average stuff ship pilot endorse mail sustain chimney topic attend";
+var mnemonic = "dial anxiety post hood fiction broom neither symbol kiwi mention frame noodle";

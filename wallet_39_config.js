@@ -1,1 +1,1 @@
-var mnemonic = "rescue reflect hole airport demise stable sort snow sign height lawsuit fatal";
+var mnemonic = "bottom vivid major car clay pink nominee liquid deny control orange food";

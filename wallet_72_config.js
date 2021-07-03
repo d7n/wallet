@@ -1,1 +1,1 @@
-var mnemonic = "kitten program monitor labor fragile recall struggle grant muscle noble breeze honey";
+var mnemonic = "air just act tent brave school frame bacon tuition morning marble busy";

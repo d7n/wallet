@@ -1,1 +1,1 @@
-var mnemonic = "lamp logic express either direct creek wife mountain scissors frame decrease exclude";
+var mnemonic = "abandon capital material poet juice tobacco knee pony ceiling firm giraffe rain";

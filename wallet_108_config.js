@@ -1,1 +1,1 @@
-var mnemonic = "seat frog moral blanket float turkey knife exact common stadium slow umbrella";
+var mnemonic = "junior avocado disorder true own danger oxygen dune abstract priority urban soap";

@@ -1,1 +1,1 @@
-var mnemonic = "reject kangaroo border mean umbrella quantum require special point corn media swarm";
+var mnemonic = "demise lemon bone soul develop rally jealous adult life bottom chicken clap";

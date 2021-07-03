@@ -1,1 +1,1 @@
-var mnemonic = "speed ring achieve cabbage remind pair rule glimpse force grocery renew pull";
+var mnemonic = "steel flip once pioneer bamboo game economy lecture meat fork beach coach";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle march dance cup dinner bus cage zone wedding shallow say apple";
+var mnemonic = "wear erupt hurt gorilla lawsuit chat survey business knock popular quiz faint";

@@ -1,1 +1,1 @@
-var mnemonic = "festival filter hybrid desert guess another wheel kitten used drum heart delay";
+var mnemonic = "physical craft child salt hood pact car parade spread often scatter abstract";

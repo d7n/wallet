@@ -1,1 +1,1 @@
-var mnemonic = "quality adult icon laundry flee danger when chalk argue shiver oak myth";
+var mnemonic = "hover patient drive void yard portion spice alter cabbage allow comic shy";

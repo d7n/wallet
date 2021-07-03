@@ -1,1 +1,1 @@
-var mnemonic = "rally lift basic all draft oyster unhappy vapor click door coin husband";
+var mnemonic = "neglect midnight spoil point coyote siege maximum tortoise palm soup indoor trouble";

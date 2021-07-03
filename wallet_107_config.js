@@ -1,1 +1,1 @@
-var mnemonic = "peasant cloud train fame peasant cry very mushroom despair soul budget leg";
+var mnemonic = "lamp obvious cigar economy author flat mix enjoy blur butter club detail";

@@ -1,1 +1,1 @@
-var mnemonic = "burger have damage wish kite hundred flash friend clean potato control crystal";
+var mnemonic = "engine carry rhythm theme roof license ask under flock inflict oppose number";

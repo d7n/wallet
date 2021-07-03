@@ -1,1 +1,1 @@
-var mnemonic = "minimum great theory world body pepper mention away outer size asthma typical";
+var mnemonic = "sell tornado nerve select emotion ship dwarf network token blast owner delay";

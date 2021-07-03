@@ -1,1 +1,1 @@
-var mnemonic = "kid subway argue original travel mistake purpose found slight during gorilla accident";
+var mnemonic = "almost olympic lawsuit perfect party never volume august silent effort damp fog";

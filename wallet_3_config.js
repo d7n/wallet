@@ -1,1 +1,1 @@
-var mnemonic = "letter crack north weather knock act voice bone search tomorrow monitor year";
+var mnemonic = "vessel squeeze glare rose bamboo decide segment orbit sorry critic power sing";

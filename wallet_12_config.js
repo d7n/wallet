@@ -1,1 +1,1 @@
-var mnemonic = "wine off gallery bring best umbrella speak ignore enough focus insane output";
+var mnemonic = "depth vocal bread kick bright shuffle vicious green omit whisper shuffle east";

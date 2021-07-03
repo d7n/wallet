@@ -1,1 +1,1 @@
-var mnemonic = "asset verify pink caught certain panel light animal eternal elbow stick supply";
+var mnemonic = "slice buffalo mule betray merit machine example visit aunt market fox broccoli";

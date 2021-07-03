@@ -1,1 +1,1 @@
-var mnemonic = "wrestle chicken genius prize broccoli hip priority ancient phone museum common uniform";
+var mnemonic = "dizzy work upon quote urge walnut decorate during ozone brother carry recipe";

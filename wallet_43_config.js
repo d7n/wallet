@@ -1,1 +1,1 @@
-var mnemonic = "hurt remind sheriff rubber harvest duck increase below wonder window hidden jump";
+var mnemonic = "flush charge medal danger risk auction wool iron gasp state trap suit";

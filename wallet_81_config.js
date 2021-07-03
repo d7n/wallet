@@ -1,1 +1,1 @@
-var mnemonic = "author drama hawk final clinic lounge hover deer autumn reward kick brain";
+var mnemonic = "obtain carry crucial piano give polar humor ankle gossip judge inside order";

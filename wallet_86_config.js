@@ -1,1 +1,1 @@
-var mnemonic = "viable safe forward away enable wrong battle attract donkey shell leopard curtain";
+var mnemonic = "more renew maid wild must news clever describe evidence century luxury undo";

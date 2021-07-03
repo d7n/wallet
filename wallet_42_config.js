@@ -1,1 +1,1 @@
-var mnemonic = "near collect twist gun peanut alone slab torch panel silk grant december";
+var mnemonic = "diagram sand live armor name ketchup cradle carbon basic olympic lounge cat";

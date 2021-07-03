@@ -1,1 +1,1 @@
-var mnemonic = "index flame atom rib switch cook spoon current course ensure tower physical";
+var mnemonic = "basic panther choose uncover suit maze popular crawl shine turtle wedding neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "call announce fatigue vacant garden match state swear sample duck balance mandate";
+var mnemonic = "effort frequent candy math auto monkey phrase master intact radio move rail";

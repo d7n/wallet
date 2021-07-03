@@ -1,1 +1,1 @@
-var mnemonic = "attack they bamboo object mechanic master female bitter tired cupboard often sudden";
+var mnemonic = "snow creek diagram shed polar harbor purse ribbon fun setup flash special";

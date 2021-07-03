@@ -1,1 +1,1 @@
-var mnemonic = "short text scissors insane coffee call cluster chuckle couple bring chief unusual";
+var mnemonic = "fan theory trophy edge crack patrol gospel feed monster shop left laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "floor apology bird slab cause supply teach pear risk foot possible vague";
+var mnemonic = "erupt pear method fame expect quantum fashion giggle learn rack guitar night";

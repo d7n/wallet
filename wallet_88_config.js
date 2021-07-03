@@ -1,1 +1,1 @@
-var mnemonic = "alone shrimp wide stumble clap panic armed clerk parent dentist title between";
+var mnemonic = "float theme error raise small pudding next just lawn lonely tape service";

@@ -1,1 +1,1 @@
-var mnemonic = "hello afford put raw future kidney number trouble mercy banner angle reject";
+var mnemonic = "input swamp raccoon also order client prepare romance topic victory bind crouch";

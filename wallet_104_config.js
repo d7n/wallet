@@ -1,1 +1,1 @@
-var mnemonic = "year flight average pretty hen pause ski admit liberty cup pair lawsuit";
+var mnemonic = "harbor kick laptop dilemma cricket unhappy useful pool route bind order oval";

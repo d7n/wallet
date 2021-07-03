@@ -1,1 +1,1 @@
-var mnemonic = "miracle cactus congress error plunge crouch else exclude upper guess promote grocery";
+var mnemonic = "similar smooth provide pluck defy pilot sense age round nation draft admit";

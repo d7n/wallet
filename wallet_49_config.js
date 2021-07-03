@@ -1,1 +1,1 @@
-var mnemonic = "vendor rather reflect cereal occur key matter drive find describe below skirt";
+var mnemonic = "oyster rude choose occur grow march tower organ name blanket earth lazy";

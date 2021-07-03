@@ -1,1 +1,1 @@
-var mnemonic = "omit shock thumb aspect prefer boil shoulder trend roast pulp pigeon pyramid";
+var mnemonic = "spy degree discover festival oil region ancient hire advance treat limb trial";

@@ -1,1 +1,1 @@
-var mnemonic = "shy wife night radar spin hurdle panda pulp major sock example inmate";
+var mnemonic = "blood cherry wrist sense brief tip era proof surface early climb suffer";

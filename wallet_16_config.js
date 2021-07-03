@@ -1,1 +1,1 @@
-var mnemonic = "wreck robust vocal camera awkward sting brass under question route abstract curve";
+var mnemonic = "possible art live salute judge crew nothing document expect rough job cotton";

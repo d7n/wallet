@@ -1,1 +1,1 @@
-var mnemonic = "pen dynamic thank acquire exist arch want donate sight vicious like indicate";
+var mnemonic = "recall hood blood myth brother private reform audit there decline little car";

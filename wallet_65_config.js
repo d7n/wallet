@@ -1,1 +1,1 @@
-var mnemonic = "glow broccoli typical glory fly stomach endless ring action wait excess water";
+var mnemonic = "sense unaware disease process exit cake mimic stable capital pair dog sort";

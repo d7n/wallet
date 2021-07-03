@@ -1,1 +1,1 @@
-var mnemonic = "someone picture scheme capable boss crop detail inner wink nominee pioneer drive";
+var mnemonic = "still behave around phrase adjust keep purchase inch cover away visit insect";

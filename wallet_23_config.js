@@ -1,1 +1,1 @@
-var mnemonic = "edit action lens cannon beach cruel fiscal alarm prize silly october best";
+var mnemonic = "puppy slice mushroom comfort valve describe armed pledge tunnel few flame glimpse";

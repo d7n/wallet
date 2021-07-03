@@ -1,1 +1,1 @@
-var mnemonic = "receive devote subject author interest talk athlete broom inherit dinosaur enforce exchange";
+var mnemonic = "more organ impulse pulp brief deer divert inhale style detail glass swear";

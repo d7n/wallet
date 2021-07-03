@@ -1,1 +1,1 @@
-var mnemonic = "swallow chapter chronic inherit bullet absurd memory suspect valid atom include wear";
+var mnemonic = "cotton artwork bread maple funny feature disorder ecology cargo oppose cinnamon later";

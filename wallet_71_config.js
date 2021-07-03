@@ -1,1 +1,1 @@
-var mnemonic = "voice wish charge reason engage regular easy giggle produce volcano rack resource";
+var mnemonic = "maid vital inch cliff thunder enlist game jacket sing casual hundred normal";

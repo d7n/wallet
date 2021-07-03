@@ -1,1 +1,1 @@
-var mnemonic = "ocean online actress woman panel armed neglect valid will auto middle million";
+var mnemonic = "glove disagree illness gravity tuna spy tattoo slam debris hidden success film";

@@ -1,1 +1,1 @@
-var mnemonic = "message gym situate acoustic mule flee nest must seek collect history unaware";
+var mnemonic = "purity cream hair differ mandate silly damage start habit resist crouch leg";

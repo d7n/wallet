@@ -1,1 +1,1 @@
-var mnemonic = "mass blossom black pretty luxury blossom wave economy acoustic lamp forget enter";
+var mnemonic = "alter magic senior humor husband tree flash puppy level miss security damage";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle aerobic warfare soccer intact obvious bicycle friend sadness long donkey squirrel";
+var mnemonic = "frost boost marine final side wrap combine hotel dwarf cake rabbit margin";

@@ -1,1 +1,1 @@
-var mnemonic = "flight inside defy lab nasty check erode lion uphold unveil lawsuit smart";
+var mnemonic = "drill leisure cruise train range dust poem cupboard embrace catch lonely vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "below jar away piece board elite fence loop moment term sick fetch";
+var mnemonic = "bleak enrich under shoot bird own pass dutch obey bracket blood network";

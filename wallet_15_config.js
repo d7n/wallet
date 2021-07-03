@@ -1,1 +1,1 @@
-var mnemonic = "park sunny setup embrace eternal innocent glory gossip kitten aware vague eye";
+var mnemonic = "filter parrot runway future wise switch unlock hub dragon plate unlock vessel";

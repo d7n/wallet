@@ -1,1 +1,1 @@
-var mnemonic = "pig advice jealous ginger idea differ seed color fiction cereal abuse civil";
+var mnemonic = "this gas wheel fetch lumber amused isolate morning treat grocery worth interest";

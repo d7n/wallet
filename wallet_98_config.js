@@ -1,1 +1,1 @@
-var mnemonic = "census program turn risk since unknown sphere spy rule critic mixture resemble";
+var mnemonic = "struggle copper execute vicious motion farm celery actual alter mixed identify amused";

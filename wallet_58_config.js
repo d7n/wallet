@@ -1,1 +1,1 @@
-var mnemonic = "upper motion habit book toss surround else you hidden whisper sure inflict";
+var mnemonic = "dash episode average recycle mango real amused unique south hollow humble scale";

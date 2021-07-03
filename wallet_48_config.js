@@ -1,1 +1,1 @@
-var mnemonic = "category time clip burst special old lady chimney pause market neither decade";
+var mnemonic = "over veteran vicious appear benefit shove surge apple plunge banana ball token";

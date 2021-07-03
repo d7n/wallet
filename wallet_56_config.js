@@ -1,1 +1,1 @@
-var mnemonic = "wagon identify pond panda heart merit maximum neutral equal measure garden mad";
+var mnemonic = "photo rapid cage protect calm cheese mad ribbon mother dice anger repair";

@@ -1,1 +1,1 @@
-var mnemonic = "utility grain author section icon bright gospel laugh assault human skill coconut";
+var mnemonic = "sheriff enrich coil salute exile zero net romance differ route jealous solid";

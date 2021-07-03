@@ -1,1 +1,1 @@
-var mnemonic = "just fee mask one basket suffer miss venture hen carpet rubber logic";
+var mnemonic = "voyage play ugly pencil secret name torch tragic utility green renew sport";

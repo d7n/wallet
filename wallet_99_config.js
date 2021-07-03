@@ -1,1 +1,1 @@
-var mnemonic = "they mad emerge guess vacant provide awful lawsuit crawl unique supply combine";
+var mnemonic = "cargo excite put language hockey proof flight jewel once immune biology puzzle";

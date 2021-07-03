@@ -1,1 +1,1 @@
-var mnemonic = "easily purity great jump slide senior van select wave today ugly claw";
+var mnemonic = "forward forward shed easy seat crouch arrest immense security blush mushroom pool";

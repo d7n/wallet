@@ -1,1 +1,1 @@
-var mnemonic = "position eye sound fortune pistol orphan borrow decide thrive canal live gravity";
+var mnemonic = "excite general wheat patrol steel holiday join sphere render canyon omit stool";

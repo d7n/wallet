@@ -1,1 +1,1 @@
-var mnemonic = "radio motor focus hedgehog course clump idea spin order expose immune slogan";
+var mnemonic = "next dune mercy liar caution sure oak canvas fruit attitude destroy rack";

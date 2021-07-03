@@ -1,1 +1,1 @@
-var mnemonic = "smoke cover seat order method garment humor badge indoor sound absent tourist";
+var mnemonic = "timber easy rotate usual pluck abuse romance high memory develop drama illegal";

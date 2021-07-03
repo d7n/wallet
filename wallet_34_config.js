@@ -1,1 +1,1 @@
-var mnemonic = "evoke wave series audit salmon sunny film curious lock uniform suffer stone";
+var mnemonic = "slim add honey gallery section coast elbow prevent public motor sight prefer";

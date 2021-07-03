@@ -1,1 +1,1 @@
-var mnemonic = "swallow tongue leopard seven hurdle burst ensure climb inflict art vapor prosper";
+var mnemonic = "hundred provide deal start summer library ozone option bulk fitness wave example";

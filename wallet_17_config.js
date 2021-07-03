@@ -1,1 +1,1 @@
-var mnemonic = "before measure badge ride fabric chest clap awkward hazard ladder clown tuna";
+var mnemonic = "hurry you raccoon park rain weapon cherry silly letter replace nothing boy";

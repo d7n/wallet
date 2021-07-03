@@ -1,1 +1,1 @@
-var mnemonic = "patch eternal recall taste gallery pool boring talk write genuine best mind";
+var mnemonic = "argue forget tree net royal label cheese ordinary science oxygen ceiling nose";

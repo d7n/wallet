@@ -1,1 +1,1 @@
-var mnemonic = "pistol cradle scan index chicken young guide endorse antique moral decorate narrow";
+var mnemonic = "melody charge cannon fluid sauce comic loan act hen tape carry kingdom";

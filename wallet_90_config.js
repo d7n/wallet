@@ -1,1 +1,1 @@
-var mnemonic = "metal quit nest human window airport diary lounge kitten since afford over";
+var mnemonic = "jewel behave edit health hotel speed emerge stumble dizzy maple wine orphan";

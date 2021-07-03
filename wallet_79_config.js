@@ -1,1 +1,1 @@
-var mnemonic = "misery clap can green deny oppose lake resist secret crush seven people";
+var mnemonic = "jeans predict people aunt trial vicious regret brief inside mosquito tennis album";

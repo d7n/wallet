@@ -1,1 +1,1 @@
-var mnemonic = "lecture slice moral party busy mistake bonus portion multiply situate pen sign";
+var mnemonic = "soup juice want another creek silly practice flag brass tenant scorpion panel";

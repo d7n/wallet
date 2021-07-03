@@ -1,1 +1,1 @@
-var mnemonic = "excess oil medal client bind bargain brass strategy fine settle brother sea";
+var mnemonic = "talk west current online chapter arena guilt curtain hub hurdle letter rhythm";
