@@ -1,1 +1,1 @@
-var mnemonic = "aim during purpose network valid real book make person pen escape infant";
+var mnemonic = "fiction tobacco ahead fitness rebel steak paper favorite version topple oppose ankle";

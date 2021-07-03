@@ -1,1 +1,1 @@
-var mnemonic = "nest hole achieve lake clump ignore color struggle say congress two boost";
+var mnemonic = "cheese light private mimic street join rifle cheap task vintage blush box";

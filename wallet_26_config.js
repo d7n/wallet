@@ -1,1 +1,1 @@
-var mnemonic = "nerve ring boat scatter injury fabric biology lava sausage aerobic build lunch";
+var mnemonic = "call own cargo gaze alter laundry rate ahead road drip exercise walk";

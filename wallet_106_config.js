@@ -1,1 +1,1 @@
-var mnemonic = "broom jacket village strike blame direct trophy desert agree skill aim trial";
+var mnemonic = "regular horse someone robot cheese fortune describe ordinary hawk brother rack drink";

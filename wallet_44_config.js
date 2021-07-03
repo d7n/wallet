@@ -1,1 +1,1 @@
-var mnemonic = "radio ripple rapid drama gun scorpion enroll hobby unveil water uncover hub";
+var mnemonic = "wine service cabbage fruit arrow ahead head punch sea patient expire plunge";

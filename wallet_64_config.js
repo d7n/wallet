@@ -1,1 +1,1 @@
-var mnemonic = "dawn gift owner office able trend people pupil boring fortune venue nuclear";
+var mnemonic = "excite virtual robot sea awful abandon ignore sponsor loop say hungry enter";

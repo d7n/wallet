@@ -1,1 +1,1 @@
-var mnemonic = "avocado lab time toward scan parade liberty shove they slush front token";
+var mnemonic = "chief misery curtain distance sweet ready same hand divert dog keen strong";

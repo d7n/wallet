@@ -1,1 +1,1 @@
-var mnemonic = "season step protect weekend room ahead skin federal dwarf sauce similar noble";
+var mnemonic = "skate aspect special excess script such talent rude corn moment list stable";

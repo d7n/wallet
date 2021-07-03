@@ -1,1 +1,1 @@
-var mnemonic = "senior cabin slam exchange slow alpha witness mosquito permit ready fatigue short";
+var mnemonic = "upper list coconut dragon jeans gasp change tonight bean image guess van";

@@ -1,1 +1,1 @@
-var mnemonic = "maze pottery mechanic sentence grain involve divert slam penalty police alert orange";
+var mnemonic = "tortoise youth stick dance army glad flower next hole term surface question";

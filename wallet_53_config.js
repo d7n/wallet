@@ -1,1 +1,1 @@
-var mnemonic = "van evoke speed husband debris enter mom valid couch drill fiscal just";
+var mnemonic = "cupboard error chimney volume second play empty heavy snow short blue demise";

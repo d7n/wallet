@@ -1,1 +1,1 @@
-var mnemonic = "real actress about mad parent fun flame number glide rally child legal";
+var mnemonic = "garment side glimpse avoid submit odor lizard supreme turn slush cereal faint";

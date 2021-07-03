@@ -1,1 +1,1 @@
-var mnemonic = "virus claw best ginger minimum mango light alert bright chapter mask pioneer";
+var mnemonic = "field number brick cluster coffee mix hold weird lucky spawn visit flip";

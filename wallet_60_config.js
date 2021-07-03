@@ -1,1 +1,1 @@
-var mnemonic = "slide hamster piece wire cushion dinner trial manage argue own toast kid";
+var mnemonic = "ill skin become draw zebra twin stay soft spoil sign snap essence";

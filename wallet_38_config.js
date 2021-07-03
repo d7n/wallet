@@ -1,1 +1,1 @@
-var mnemonic = "below you burden often alpha beef idle dove mesh mercy heavy cycle";
+var mnemonic = "craft panic way core pistol cactus shield vapor unveil again normal claw";

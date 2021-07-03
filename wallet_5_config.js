@@ -1,1 +1,1 @@
-var mnemonic = "weapon oyster blind gas fat rule staff pill diamond filter climb fox";
+var mnemonic = "arrive chat brick cupboard swallow tissue swing noodle weather away front scrub";

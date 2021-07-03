@@ -1,1 +1,1 @@
-var mnemonic = "increase decide start rebuild one manage damp print charge innocent camp warfare";
+var mnemonic = "expire hair train merit stomach ribbon churn spoil adapt robot meat bus";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp jeans begin hundred spawn leopard success radio bulb cousin include kitten";
+var mnemonic = "judge double safe glad syrup drill chalk crumble scout above above cruise";

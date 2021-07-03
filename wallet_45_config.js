@@ -1,1 +1,1 @@
-var mnemonic = "artwork finger corn balance blade attitude kitchen clip female phrase member gap";
+var mnemonic = "crunch column decorate blanket nuclear dish ignore sand later resource umbrella poet";

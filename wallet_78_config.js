@@ -1,1 +1,1 @@
-var mnemonic = "suggest vote prize great rubber gym remain impact usual truly walnut clerk";
+var mnemonic = "friend cube fortune trim sorry render hire slogan gadget mail curtain strategy";

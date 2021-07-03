@@ -1,1 +1,1 @@
-var mnemonic = "mother already accuse hood witness impact energy garlic mandate rhythm nerve come";
+var mnemonic = "beef faculty hint attack secret fog charge nerve coyote silver hero verify";

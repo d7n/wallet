@@ -1,1 +1,1 @@
-var mnemonic = "pair caught prepare glare suit evoke label now comic tissue lyrics palm";
+var mnemonic = "idle tide citizen bulk sport kite dinner worth image warfare birth pelican";

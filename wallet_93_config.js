@@ -1,1 +1,1 @@
-var mnemonic = "hub chaos city coast current what doll air earth close they review";
+var mnemonic = "shallow lend popular pink visa fashion sign blanket leave basic pelican auction";

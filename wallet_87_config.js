@@ -1,1 +1,1 @@
-var mnemonic = "together roast pill series drama spell toe apple into pill gap view";
+var mnemonic = "laundry answer rocket assist danger maximum venue favorite science volcano settle unable";

@@ -1,1 +1,1 @@
-var mnemonic = "milk lumber survey deputy receive jar onion regular lady love must crowd";
+var mnemonic = "liberty orbit cloth across vital engage blood tortoise trigger valve cruel shell";

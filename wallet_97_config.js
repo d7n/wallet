@@ -1,1 +1,1 @@
-var mnemonic = "play advance insect awesome female soft squirrel little opinion arrow upset field";
+var mnemonic = "rural fortune pass curtain crouch fury blade fog manual shallow fury combine";

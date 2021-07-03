@@ -1,1 +1,1 @@
-var mnemonic = "fuel sign chalk genius pizza shield enough also sing stereo wasp athlete";
+var mnemonic = "ladder maze slender assault elevator auction notice speed grunt drift air eager";

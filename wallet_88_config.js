@@ -1,1 +1,1 @@
-var mnemonic = "happy object clay dynamic monitor bicycle echo front math agent coil disorder";
+var mnemonic = "amused come alert labor confirm trash cycle demand diary century disorder swift";

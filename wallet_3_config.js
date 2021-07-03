@@ -1,1 +1,1 @@
-var mnemonic = "midnight flush zebra dizzy charge useful toe inject fun transfer woman chief";
+var mnemonic = "spirit action earn ball arena host hidden coconut garage other kind good";

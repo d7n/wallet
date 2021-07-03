@@ -1,1 +1,1 @@
-var mnemonic = "erosion guilt plunge awesome alpha scissors custom much label benefit artist range";
+var mnemonic = "resemble hockey cook sure pistol gallery stand garage area fire shield argue";

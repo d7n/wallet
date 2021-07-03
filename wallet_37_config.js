@@ -1,1 +1,1 @@
-var mnemonic = "wool bless such retreat present pink employ neutral tide canyon venue blanket";
+var mnemonic = "snow marble fox asset result road voyage author distance worry ozone exhibit";

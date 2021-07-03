@@ -1,1 +1,1 @@
-var mnemonic = "online protect subway coyote prepare truth scare lazy ice grid globe dawn";
+var mnemonic = "horse industry village teach grass citizen battle motion swap cherry addict accuse";

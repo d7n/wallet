@@ -1,1 +1,1 @@
-var mnemonic = "hotel reveal mechanic resource solid evil shield unfair predict slot miss inquiry";
+var mnemonic = "identify sock spread pencil inch cube poem travel mechanic beauty fresh comic";

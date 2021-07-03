@@ -1,1 +1,1 @@
-var mnemonic = "athlete churn cable flash auction model neutral field wink organ tent panel";
+var mnemonic = "rule relief flee alcohol vague merit typical purse release crush maze creek";

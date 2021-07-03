@@ -1,1 +1,1 @@
-var mnemonic = "mind amateur cry property unknown luggage bulk wealth loud rough anger left";
+var mnemonic = "weekend piano west joke code powder immense rare shock clever crystal grace";

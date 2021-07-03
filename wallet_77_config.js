@@ -1,1 +1,1 @@
-var mnemonic = "ready fan guard amount insane clock pulse mention maid lecture okay usual";
+var mnemonic = "fly home camera hammer parrot proof media potato donkey cream route maid";

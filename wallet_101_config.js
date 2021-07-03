@@ -1,1 +1,1 @@
-var mnemonic = "top turtle expire truck garage print powder roof essence hire another dune";
+var mnemonic = "say wrap wall stand gas settle praise nurse catalog around bleak ask";

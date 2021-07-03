@@ -1,1 +1,1 @@
-var mnemonic = "wool job convince around cart tail brain trade design shed choice jump";
+var mnemonic = "brass pen outer pencil hero scene beef universe flat half venue find";

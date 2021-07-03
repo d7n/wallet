@@ -1,1 +1,1 @@
-var mnemonic = "possible dirt vacant coffee body toddler curve width art need guard winter";
+var mnemonic = "impact already turn minor flip kite bless churn trial tray south helmet";

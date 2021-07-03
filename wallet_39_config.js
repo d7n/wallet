@@ -1,1 +1,1 @@
-var mnemonic = "club stay predict prison story impose venue romance detect forget equal tobacco";
+var mnemonic = "armor accuse ugly flat lock just spoon dress muffin regular appear champion";

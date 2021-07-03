@@ -1,1 +1,1 @@
-var mnemonic = "danger hamster firm dress vicious saddle number solid morning minute gauge dad";
+var mnemonic = "exile brass zebra swim rather sibling arena jaguar van piece outer engine";

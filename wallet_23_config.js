@@ -1,1 +1,1 @@
-var mnemonic = "hat circle submit kangaroo gloom decrease west reopen scare dial habit spot";
+var mnemonic = "ladder trade earth lock card pipe captain spot such proud wealth move";

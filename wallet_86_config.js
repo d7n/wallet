@@ -1,1 +1,1 @@
-var mnemonic = "sniff bread ecology prevent best material acid language cool narrow hard bracket";
+var mnemonic = "cricket wise wild okay list reveal choose drip obvious flame syrup blush";

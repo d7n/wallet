@@ -1,1 +1,1 @@
-var mnemonic = "merit science drama round trumpet catch notable muscle soul robot monster wave";
+var mnemonic = "hint immune auction tumble flavor winter perfect twenty tone style forest struggle";

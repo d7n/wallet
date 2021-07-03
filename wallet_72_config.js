@@ -1,1 +1,1 @@
-var mnemonic = "trouble trouble hip youth baby increase burst tag between unknown friend gospel";
+var mnemonic = "canoe copy mass axis crucial news sock match universe rule salon cash";

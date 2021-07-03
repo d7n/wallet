@@ -1,1 +1,1 @@
-var mnemonic = "fetch unlock test seat eye hand glare staff catch more finger shop";
+var mnemonic = "drive narrow lend march vibrant athlete degree coyote girl core scatter motion";

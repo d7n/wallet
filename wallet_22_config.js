@@ -1,1 +1,1 @@
-var mnemonic = "spot strategy youth sphere goose fortune collect rare topple pave garbage this";
+var mnemonic = "camp amused defy bind drum reunion install repeat brass life keep magnet";

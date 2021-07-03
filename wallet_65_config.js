@@ -1,1 +1,1 @@
-var mnemonic = "segment refuse garden hundred iron forum august element smile yellow mad trust";
+var mnemonic = "roof focus toy remove eternal sick offer toss ticket mandate stay dumb";

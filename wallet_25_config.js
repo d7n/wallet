@@ -1,1 +1,1 @@
-var mnemonic = "organ genuine stove they quote slab rebel coil wheel render robot dutch";
+var mnemonic = "slogan stereo debate dress lunch frame verify home wisdom girl grocery danger";

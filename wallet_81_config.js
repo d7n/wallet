@@ -1,1 +1,1 @@
-var mnemonic = "hero senior cloth prosper answer dawn warfare rescue food obey earth camp";
+var mnemonic = "oxygen battle real female dial curious fly vintage square flavor purpose romance";

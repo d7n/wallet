@@ -1,1 +1,1 @@
-var mnemonic = "budget believe live brave hedgehog write gentle devote analyst pelican elegant index";
+var mnemonic = "bone dress video chief giant install window announce rule old leave cattle";

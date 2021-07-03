@@ -1,1 +1,1 @@
-var mnemonic = "swallow major illness hundred purchase debris course kangaroo chapter hole aisle laugh";
+var mnemonic = "identify blast burst odor measure wrap relief magnet shell hedgehog save exotic";

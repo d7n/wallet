@@ -1,1 +1,1 @@
-var mnemonic = "family weird layer abandon real maximum grass mail brain frozen lobster more";
+var mnemonic = "material mercy jungle review swap truly wreck grocery about close hub round";

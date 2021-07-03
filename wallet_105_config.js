@@ -1,1 +1,1 @@
-var mnemonic = "island frequent volcano provide speed run giggle achieve steel quantum fault habit";
+var mnemonic = "country ancient manual apology token toward flee autumn into exotic roast manage";

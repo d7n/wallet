@@ -1,1 +1,1 @@
-var mnemonic = "crew kiss cushion auction amazing purpose coach vital glad give earn peasant";
+var mnemonic = "violin brand tape razor erode develop adapt pudding rice neglect reveal innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors tail barrel pole draw boost expire brick film proud omit february";
+var mnemonic = "pact grow tool double spare master reopen extra best script sentence door";

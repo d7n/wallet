@@ -1,1 +1,1 @@
-var mnemonic = "enact addict cabin drink tattoo board elevator daring patient educate extend spend";
+var mnemonic = "swarm episode effort pole artist glance six shiver arch fault machine slender";

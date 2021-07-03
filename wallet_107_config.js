@@ -1,1 +1,1 @@
-var mnemonic = "narrow napkin walnut enjoy blush torch stool tribe marine radio push hold";
+var mnemonic = "hurdle admit idea clip must bounce tackle course drift enlist trend cupboard";

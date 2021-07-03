@@ -1,1 +1,1 @@
-var mnemonic = "escape future fun mixture surround novel ethics device ignore echo cement spike";
+var mnemonic = "minute poem cream message woman cage liberty judge coil that corn bomb";

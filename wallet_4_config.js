@@ -1,1 +1,1 @@
-var mnemonic = "cement keep normal grocery age census satisfy sibling skin auto false sock";
+var mnemonic = "army auction animal document dizzy expect web beyond zone air double crucial";

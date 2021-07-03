@@ -1,1 +1,1 @@
-var mnemonic = "depart ivory pen govern volume maple piece balcony then loud actress wing";
+var mnemonic = "clog unit bitter solar myself curious memory wood shock unlock gadget faint";

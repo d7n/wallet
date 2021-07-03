@@ -1,1 +1,1 @@
-var mnemonic = "orchard agree dad often crush frame firm early girl there scheme film";
+var mnemonic = "glide whisper estate project pause moment define sheriff pretty announce pupil agree";

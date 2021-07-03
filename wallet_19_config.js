@@ -1,1 +1,1 @@
-var mnemonic = "diet above blouse trim cat balance plate wrist fruit adult turkey mercy";
+var mnemonic = "ranch vintage bonus toast sunny funny one else feel announce opera cruel";

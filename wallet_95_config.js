@@ -1,1 +1,1 @@
-var mnemonic = "boil unknown width wine pyramid embrace produce loud demise captain actress pupil";
+var mnemonic = "true pair cause odor raccoon lounge illness sketch federal gallery cash dilemma";

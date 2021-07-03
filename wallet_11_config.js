@@ -1,1 +1,1 @@
-var mnemonic = "burst vague hero monitor menu filter knee bike slam wild divert parade";
+var mnemonic = "under balance one tunnel script goose lazy debate mask upon sentence task";

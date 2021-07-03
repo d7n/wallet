@@ -1,1 +1,1 @@
-var mnemonic = "pony bitter age busy foam audit alpha cherry inherit because card february";
+var mnemonic = "cactus sad source gentle museum margin interest ready cancel reveal another tube";

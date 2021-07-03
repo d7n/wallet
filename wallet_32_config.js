@@ -1,1 +1,1 @@
-var mnemonic = "donor local capital cup strong salute fiber tunnel cigar egg road jacket";
+var mnemonic = "snap fence judge front survey inner suit fragile large buffalo shed never";

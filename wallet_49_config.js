@@ -1,1 +1,1 @@
-var mnemonic = "trap rule oppose bus critic else bracket board arctic rabbit sponsor celery";
+var mnemonic = "purpose squeeze change jelly dignity fortune draft wish pet apple hero honey";

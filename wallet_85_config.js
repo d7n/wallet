@@ -1,1 +1,1 @@
-var mnemonic = "figure broom inherit confirm country flock vicious payment radar aware home danger";
+var mnemonic = "upgrade mirror solve often clean absurd age vessel iron muscle level random";

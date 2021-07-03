@@ -1,1 +1,1 @@
-var mnemonic = "voice chest popular unveil clinic need coin priority assume inner shine rib";
+var mnemonic = "sort detect aspect perfect hedgehog twice kidney harbor tattoo success scene assault";

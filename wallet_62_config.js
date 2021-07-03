@@ -1,1 +1,1 @@
-var mnemonic = "video aim beyond remind middle quantum credit pencil lava dog fault ginger";
+var mnemonic = "lake transfer balcony diamond child slush excite wild reward window finish into";

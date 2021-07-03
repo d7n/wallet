@@ -1,1 +1,1 @@
-var mnemonic = "report chair escape tuition uphold morning that blame visual inside pull floor";
+var mnemonic = "debris involve congress smile sketch poem wing add trouble shadow able found";

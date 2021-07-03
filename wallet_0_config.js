@@ -1,1 +1,1 @@
-var mnemonic = "because bind element harbor drift alley donkey aerobic rack swing comic happy";
+var mnemonic = "anchor chair cable palm shaft advance pottery language child deal perfect devote";

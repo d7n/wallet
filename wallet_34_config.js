@@ -1,1 +1,1 @@
-var mnemonic = "exile path future drop film labor blush talent negative that price ring";
+var mnemonic = "legal tennis country frequent strong broccoli truck erode lawn shy index arm";

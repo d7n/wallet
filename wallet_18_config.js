@@ -1,1 +1,1 @@
-var mnemonic = "quiz start spend estate choice shiver helmet blush online bench achieve bread";
+var mnemonic = "hundred turn staff crater omit squirrel arch other tired wait abandon mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "carry carry all pen cake young slab time relief boy secret gate";
+var mnemonic = "diet tray heart pluck ivory trust lunar rebel canvas matrix trouble metal";

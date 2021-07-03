@@ -1,1 +1,1 @@
-var mnemonic = "begin push begin provide title cushion noodle burger report kangaroo frown question";
+var mnemonic = "autumn firm wet survey pause exclude hill filter baby exotic pet ahead";

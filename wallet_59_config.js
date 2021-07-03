@@ -1,1 +1,1 @@
-var mnemonic = "melody offer extra silk forest neither crush coach dial retire admit melody";
+var mnemonic = "mansion name safe ticket photo motor stomach muffin resist define wonder follow";

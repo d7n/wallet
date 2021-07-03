@@ -1,1 +1,1 @@
-var mnemonic = "either perfect fluid spring often spot improve water dolphin march pet cigar";
+var mnemonic = "quit boy latin delay what depart swamp initial hurry mansion more razor";

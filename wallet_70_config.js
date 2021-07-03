@@ -1,1 +1,1 @@
-var mnemonic = "potato comfort culture carbon lift tattoo auto sail tackle twice host play";
+var mnemonic = "earth someone latin dad squeeze become invite steel custom luxury embody edit";

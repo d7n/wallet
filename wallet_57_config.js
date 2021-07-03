@@ -1,1 +1,1 @@
-var mnemonic = "churn green pretty hunt zebra three wrap about cost slice glass caught";
+var mnemonic = "sudden device exclude custom toilet wheat distance adapt maximum wine capable churn";

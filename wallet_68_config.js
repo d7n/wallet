@@ -1,1 +1,1 @@
-var mnemonic = "turn carry ignore jeans amount replace fix auto muscle sail law room";
+var mnemonic = "analyst crumble grow green observe exact claim library hawk napkin federal doll";

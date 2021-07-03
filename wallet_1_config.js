@@ -1,1 +1,1 @@
-var mnemonic = "alcohol area image only shadow illness welcome tent quit neutral enforce blossom";
+var mnemonic = "what carpet wreck wood gorilla arch gaze level buddy fuel fruit wing";

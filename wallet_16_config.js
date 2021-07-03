@@ -1,1 +1,1 @@
-var mnemonic = "quote top profit false deal fluid gossip parade useful column suffer buffalo";
+var mnemonic = "shop proud exile enrich swarm time stem smile capital hamster leg about";

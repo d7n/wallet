@@ -1,1 +1,1 @@
-var mnemonic = "wine latin riot museum trap daughter pizza jealous brass banner sentence clean";
+var mnemonic = "twice climb gadget feed wedding rural win thought scare lift sword silent";

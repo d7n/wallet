@@ -1,1 +1,1 @@
-var mnemonic = "can shuffle grow bamboo always festival penalty food brush floor jeans desk";
+var mnemonic = "session document usage flower include judge foam normal follow fence carbon equal";

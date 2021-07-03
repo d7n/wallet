@@ -1,1 +1,1 @@
-var mnemonic = "donkey sound burden armed often oak monkey catch actor shell bounce differ";
+var mnemonic = "weekend bid ivory oil earth lumber cruel cart oak act innocent sing";

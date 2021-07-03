@@ -1,1 +1,1 @@
-var mnemonic = "glove lab spend absurd enforce wing matrix retreat weather summer exact sausage";
+var mnemonic = "pitch pigeon mobile mean world stick scheme icon cruise prosper shoe mansion";
