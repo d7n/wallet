@@ -1,1 +1,1 @@
-var mnemonic = "battle kick detail sugar spy purse similar dismiss eager leopard habit machine";
+var mnemonic = "hidden gospel other orphan aim cool entire throw exchange panda weapon inform";

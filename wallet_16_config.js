@@ -1,1 +1,1 @@
-var mnemonic = "rail unfair decade enough master motion delay diesel misery prepare metal half";
+var mnemonic = "broken hard tomato video often fly cave poem rare credit appear cycle";

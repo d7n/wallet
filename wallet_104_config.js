@@ -1,1 +1,1 @@
-var mnemonic = "bid venue target coyote mix where twenty found benefit census effort strategy";
+var mnemonic = "foot play butter achieve adjust rack badge parade cool crop large narrow";

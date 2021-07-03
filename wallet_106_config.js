@@ -1,1 +1,1 @@
-var mnemonic = "protect swallow debris oxygen rebuild village issue photo approve elephant travel grid";
+var mnemonic = "direct sustain nose attitude armed gloom wool cake olive link check tent";

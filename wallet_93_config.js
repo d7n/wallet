@@ -1,1 +1,1 @@
-var mnemonic = "caution all siren pride two review future will typical salad fluid bus";
+var mnemonic = "fork champion ivory boring guilt scatter tonight middle degree gospel city guitar";

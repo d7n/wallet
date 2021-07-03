@@ -1,1 +1,1 @@
-var mnemonic = "minor mass immune gorilla timber rebuild fragile alien cattle patrol lens index";
+var mnemonic = "source barrel outside recipe across second master tree sister electric orphan hurt";

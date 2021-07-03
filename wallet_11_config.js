@@ -1,1 +1,1 @@
-var mnemonic = "draw control mother chunk sniff alter ozone approve penalty permit gun type";
+var mnemonic = "phrase stove long allow design zoo video thank fitness pride saddle immense";

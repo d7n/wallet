@@ -1,1 +1,1 @@
-var mnemonic = "note comfort borrow column elbow exist puppy defense paddle section forum raccoon";
+var mnemonic = "rude bridge spot island immune approve beach lunar spy else spy ugly";

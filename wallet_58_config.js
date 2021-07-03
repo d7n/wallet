@@ -1,1 +1,1 @@
-var mnemonic = "nature canyon clean pudding blanket use dynamic humor execute daring nose clown";
+var mnemonic = "cherry close gaze dust original rhythm parade vintage diesel isolate audit maze";

@@ -1,1 +1,1 @@
-var mnemonic = "time visit mixture blanket opinion embark leave stock mansion biology concert hedgehog";
+var mnemonic = "hour anger smart pelican spread laundry person dust term treat thumb ranch";

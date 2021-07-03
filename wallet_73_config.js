@@ -1,1 +1,1 @@
-var mnemonic = "crew offer connect stock nerve wagon auto basket fever island hill theme";
+var mnemonic = "tank science skin chief lumber canyon exchange cup gauge provide creek flush";

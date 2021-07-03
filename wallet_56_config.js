@@ -1,1 +1,1 @@
-var mnemonic = "lab useful taxi sustain loan exhaust cup balance cupboard peanut solid giggle";
+var mnemonic = "exotic sock twist blur intact spoon poverty tray bottom clean creek high";

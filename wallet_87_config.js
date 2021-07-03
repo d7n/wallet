@@ -1,1 +1,1 @@
-var mnemonic = "faint stomach injury winner hybrid title nasty then firm arm useful capital";
+var mnemonic = "push act resource hundred kangaroo impulse purity essence brush piece elder worth";

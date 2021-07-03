@@ -1,1 +1,1 @@
-var mnemonic = "topple slide can gaze twenty immense undo exile weird fragile say join";
+var mnemonic = "program search awake naive tube eyebrow hazard canoe slender kid claw humor";

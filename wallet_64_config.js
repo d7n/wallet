@@ -1,1 +1,1 @@
-var mnemonic = "census stumble sea daughter wet network muscle drum blind horror amount course";
+var mnemonic = "giraffe pepper acoustic remember huge interest level margin other police exchange fancy";

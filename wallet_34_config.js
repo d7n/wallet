@@ -1,1 +1,1 @@
-var mnemonic = "tonight inhale tourist rebuild elegant gown throw luggage alien scan lottery limit";
+var mnemonic = "brain shy trap timber fortune virus market survey minor insane side glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "blue vanish drink black claim gate brother school excuse moon crew flag";
+var mnemonic = "muffin try flight assume act achieve awkward cactus host dash observe eagle";

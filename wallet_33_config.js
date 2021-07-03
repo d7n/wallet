@@ -1,1 +1,1 @@
-var mnemonic = "tower pluck error warm record lunch figure lounge flee culture erupt rural";
+var mnemonic = "resemble where fiber peasant trigger nice siege six evolve short retire vintage";

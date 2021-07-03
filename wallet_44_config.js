@@ -1,1 +1,1 @@
-var mnemonic = "swap crisp wedding gasp dizzy truly motion tape clock tobacco old level";
+var mnemonic = "unveil remind employ foil body clinic tooth speak gloom foil manage like";

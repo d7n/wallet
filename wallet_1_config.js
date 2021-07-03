@@ -1,1 +1,1 @@
-var mnemonic = "catalog label capital together inform clinic match lab exotic quick phone proud";
+var mnemonic = "shuffle develop whip spy hint lava acquire member feed cruel recall ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "stock dog pig cable meadow mind network pole giant winter lock analyst";
+var mnemonic = "minor flee keen ripple struggle already sustain manual disagree concert slam tobacco";

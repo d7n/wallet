@@ -1,1 +1,1 @@
-var mnemonic = "tent orient symbol avoid play wheel use scrub burden bomb acoustic nuclear";
+var mnemonic = "slice runway that erosion secret aisle bronze beef sheriff media amused cute";

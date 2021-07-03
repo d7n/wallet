@@ -1,1 +1,1 @@
-var mnemonic = "lottery swallow high tail motor express punch prison jealous open bonus ribbon";
+var mnemonic = "document fragile lounge letter welcome suffer crisp dirt stamp secret friend dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "radio able repeat drip globe network razor federal photo phone degree kingdom";
+var mnemonic = "dolphin key spawn collect antique great insect theory reason problem hour oak";

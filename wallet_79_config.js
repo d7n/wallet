@@ -1,1 +1,1 @@
-var mnemonic = "tiger alarm error special pulp neglect balance still occur damp guitar child";
+var mnemonic = "then leave chuckle grow decrease pair change cycle unaware include team avocado";

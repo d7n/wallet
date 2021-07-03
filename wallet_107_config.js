@@ -1,1 +1,1 @@
-var mnemonic = "jewel vital foil wing oak twelve inform smile soup blur dwarf dust";
+var mnemonic = "indicate quote service cycle scale defense wonder cancel leg shield clump arena";

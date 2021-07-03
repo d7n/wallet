@@ -1,1 +1,1 @@
-var mnemonic = "spring crew clutch idle donor found cup crawl burger merry question eagle";
+var mnemonic = "curtain will net shoe use goose immense upper cube height nerve today";

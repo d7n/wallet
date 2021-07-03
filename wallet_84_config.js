@@ -1,1 +1,1 @@
-var mnemonic = "organ empty enough canyon diesel often sibling waste wage umbrella shrug cushion";
+var mnemonic = "purity acquire virus during early scale mosquito sunset east again clock cheese";

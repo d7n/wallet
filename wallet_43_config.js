@@ -1,1 +1,1 @@
-var mnemonic = "smooth across alley police water crawl kitten someone paddle thought process right";
+var mnemonic = "process wolf usage drip enjoy issue crush once wreck monkey lend bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "husband face tube step fold purity depend illness garage special fame sure";
+var mnemonic = "stumble nephew lecture solar one knock category rally crazy swear total company";

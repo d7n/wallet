@@ -1,1 +1,1 @@
-var mnemonic = "praise scale various dry come segment lizard uncle normal elder cabbage mountain";
+var mnemonic = "special disagree denial seed siege bacon sight pencil defy crash nose apology";

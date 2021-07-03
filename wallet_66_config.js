@@ -1,1 +1,1 @@
-var mnemonic = "keep soldier order pioneer disease cushion noise pact banana stem monitor feature";
+var mnemonic = "powder dignity bind pigeon paddle glow across orient ask flat donate dilemma";

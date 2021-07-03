@@ -1,1 +1,1 @@
-var mnemonic = "scrap speed what banner endorse gap frame kit shiver zebra outdoor thrive";
+var mnemonic = "hint engine worry vicious smooth chaos keep exact frequent cute summer girl";

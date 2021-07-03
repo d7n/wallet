@@ -1,1 +1,1 @@
-var mnemonic = "snap oxygen display dance open scissors hockey swift exit flag file stuff";
+var mnemonic = "sadness grid picnic candy knock valid exclude cycle seat meat blade because";

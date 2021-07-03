@@ -1,1 +1,1 @@
-var mnemonic = "whip donor fortune special short melt push home coin coral slim tooth";
+var mnemonic = "that arrest blast response ramp turn bounce bone trust latin boring select";

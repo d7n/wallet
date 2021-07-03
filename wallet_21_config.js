@@ -1,1 +1,1 @@
-var mnemonic = "unusual future bless noise sun spider obey fold decline edge void monkey";
+var mnemonic = "liar document rhythm noble timber enjoy cheap envelope wear frost enough brief";

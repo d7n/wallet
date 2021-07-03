@@ -1,1 +1,1 @@
-var mnemonic = "cute sing resource orchard arch enact onion alert sun cost vital squirrel";
+var mnemonic = "vague twice student clog quantum label valley dismiss rely blood matrix elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "couple lens profit feature abuse village alien boy innocent great either pen";
+var mnemonic = "entire private famous glue slender scheme ranch grit tonight fix practice dizzy";

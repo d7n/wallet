@@ -1,1 +1,1 @@
-var mnemonic = "fatal usage silent measure icon volcano fortune hybrid seat silver hungry language";
+var mnemonic = "squeeze dolphin sister valley upper moment error credit blossom matter solar pioneer";

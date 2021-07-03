@@ -1,1 +1,1 @@
-var mnemonic = "phone network remind asthma version foam shiver grow nut drink desk elevator";
+var mnemonic = "arm admit spawn about share input eight ignore walk genius wink reason";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor foster able guitar creek rubber unlock must enough price anxiety dumb";
+var mnemonic = "twist lucky hello rabbit cushion over illness spice mountain lounge middle popular";

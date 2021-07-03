@@ -1,1 +1,1 @@
-var mnemonic = "sadness velvet kid funny father series visit total mosquito mutual sort blade";
+var mnemonic = "dinner local help tray blush alarm hazard symptom unit bench sugar meadow";

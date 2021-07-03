@@ -1,1 +1,1 @@
-var mnemonic = "icon early upgrade curve arena august mesh link monitor this merry poverty";
+var mnemonic = "knee wagon dose valve unusual hospital glare culture absorb bone force butter";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle balcony bus crush course stone worth will install talk letter razor";
+var mnemonic = "upset fantasy brown advice abandon camera velvet panther friend calm slam original";

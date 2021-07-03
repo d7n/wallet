@@ -1,1 +1,1 @@
-var mnemonic = "three sort police level setup kangaroo snake minute offer spend order tackle";
+var mnemonic = "allow observe roof wire foster shuffle fish fish script man solid fame";

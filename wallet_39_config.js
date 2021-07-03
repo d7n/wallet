@@ -1,1 +1,1 @@
-var mnemonic = "mirror cargo behave amazing inspire sleep evolve consider unfair tattoo gadget symbol";
+var mnemonic = "moment blast timber solve lucky social frame hand ceiling whip office idea";

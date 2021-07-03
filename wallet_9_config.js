@@ -1,1 +1,1 @@
-var mnemonic = "boost destroy voice cup lyrics garden disagree initial auction example inject heart";
+var mnemonic = "clutch ozone leaf fine captain rib write tomato index setup cabin off";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery enemy hurry denial swing art vague extend sail social client object";
+var mnemonic = "choose federal trip tribe label inhale mandate sauce pink august muffin ladder";

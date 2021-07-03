@@ -1,1 +1,1 @@
-var mnemonic = "bridge clinic leave exact casino display gym code recall slam invite benefit";
+var mnemonic = "supreme puzzle grief hub arena dilemma correct author surround merry unaware sure";

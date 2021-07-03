@@ -1,1 +1,1 @@
-var mnemonic = "tide prize language cargo blush crop oyster notice intact casual seat tourist";
+var mnemonic = "destroy person fall wine nerve legal park tape swarm blanket seek idle";

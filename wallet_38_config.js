@@ -1,1 +1,1 @@
-var mnemonic = "machine film gaze action urge thrive tide cat pig cup web govern";
+var mnemonic = "jeans raise soon shell situate fine rely lens height half possible demand";

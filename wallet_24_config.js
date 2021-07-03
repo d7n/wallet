@@ -1,1 +1,1 @@
-var mnemonic = "weather glue claw annual point rigid stairs example muscle nut fatigue exhibit";
+var mnemonic = "despair exist rice comfort accuse minor father drip century tenant tent gaze";

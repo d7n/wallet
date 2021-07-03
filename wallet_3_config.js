@@ -1,1 +1,1 @@
-var mnemonic = "animal century diary blush chest holiday business ice useful hurry between device";
+var mnemonic = "tool agent claim logic page better guard evolve arrive cattle must chunk";

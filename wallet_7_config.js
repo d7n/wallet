@@ -1,1 +1,1 @@
-var mnemonic = "trumpet romance cry alley hazard wing nature frog slide custom three wreck";
+var mnemonic = "dial educate casino sudden slot scrub angle arrest slot blur earth flat";

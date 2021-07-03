@@ -1,1 +1,1 @@
-var mnemonic = "vocal canoe kit observe exotic novel crumble crawl leader grain category rib";
+var mnemonic = "capable deposit next violin wire project unknown middle brown between law just";

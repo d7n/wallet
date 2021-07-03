@@ -1,1 +1,1 @@
-var mnemonic = "occur sea spring voice final mimic swift grace mail coyote wine squeeze";
+var mnemonic = "chimney announce pulp sick blur level point hair ribbon federal beef rack";

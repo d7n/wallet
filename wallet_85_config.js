@@ -1,1 +1,1 @@
-var mnemonic = "casual express address crouch fetch siege guard lens monkey boat vicious fetch";
+var mnemonic = "universe spoon match purchase fluid market ghost grow bus alone there milk";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden inside raven better spirit rail bridge leaf gas bone benefit work";
+var mnemonic = "sudden enroll accuse deny panel useless gun animal clump veteran crop pull";

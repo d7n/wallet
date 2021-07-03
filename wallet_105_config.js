@@ -1,1 +1,1 @@
-var mnemonic = "daring trend plug meat north claim music cupboard swing elder put obey";
+var mnemonic = "dash cash trumpet rice rack forum mean panda hole almost plastic february";

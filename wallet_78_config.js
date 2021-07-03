@@ -1,1 +1,1 @@
-var mnemonic = "midnight candy crouch cry second record enhance hospital spirit excite forest equal";
+var mnemonic = "demise cherry try exhaust faint rack process awful mobile pool potato theory";

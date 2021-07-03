@@ -1,1 +1,1 @@
-var mnemonic = "promote boy cloud noble wolf decrease scrap fish oval appear pear kit";
+var mnemonic = "pizza cat credit avocado super interest wife device glad chef clean brain";

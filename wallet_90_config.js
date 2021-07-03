@@ -1,1 +1,1 @@
-var mnemonic = "stem off ice monkey spare cry thing admit century goose thumb dad";
+var mnemonic = "organ canoe quick acoustic barrel music huge bulk humble atom sea broom";

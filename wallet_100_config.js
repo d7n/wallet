@@ -1,1 +1,1 @@
-var mnemonic = "shoulder toe elbow marble prevent one dry spoil grit tackle track dawn";
+var mnemonic = "odor stuff aim account proud congress friend very priority crystal glare bonus";

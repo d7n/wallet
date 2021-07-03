@@ -1,1 +1,1 @@
-var mnemonic = "eager stereo kit guitar denial sausage effort jungle hunt object chronic ketchup";
+var mnemonic = "phone coral resemble ribbon frown sauce effort swap song little appear pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal senior danger evolve knife goose siege rifle inmate case lonely fine";
+var mnemonic = "maximum cabin debris alien gift juice deposit canoe scatter brand able volcano";

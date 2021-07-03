@@ -1,1 +1,1 @@
-var mnemonic = "dizzy kangaroo genius island evidence glue trophy sun assault bullet domain quiz";
+var mnemonic = "urge wash assist color fence claim client unhappy mad palace cube obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "media labor never digital tone flower visit link movie such stove sketch";
+var mnemonic = "hospital invite nephew electric evolve hobby cute bean better dragon liar reveal";

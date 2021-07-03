@@ -1,1 +1,1 @@
-var mnemonic = "shallow course daring life hold destroy twice loan resemble copy minute phrase";
+var mnemonic = "chief plunge talk lift ramp sponsor liquid carry sunset inch penalty invest";

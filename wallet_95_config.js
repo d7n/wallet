@@ -1,1 +1,1 @@
-var mnemonic = "similar outdoor blood duck inquiry hockey grit initial dinner reform banana cancel";
+var mnemonic = "spoil pigeon valve teach invest clay twist skill midnight together various wall";

@@ -1,1 +1,1 @@
-var mnemonic = "cream announce legal laundry deny damage awful task swing ladder venue wall";
+var mnemonic = "neither innocent oblige swap loop agree aunt trim paddle life claim disease";

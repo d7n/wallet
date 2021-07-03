@@ -1,1 +1,1 @@
-var mnemonic = "avoid final plate embark affair badge leaf ready fetch junk domain brave";
+var mnemonic = "theory elder north subject tooth rookie gallery alter steak faint muscle bronze";

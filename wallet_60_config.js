@@ -1,1 +1,1 @@
-var mnemonic = "cabin quality fitness pupil machine repeat trouble resist equip output liar pole";
+var mnemonic = "just drama build enhance risk tooth plug smoke sponsor emotion roast put";

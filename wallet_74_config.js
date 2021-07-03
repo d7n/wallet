@@ -1,1 +1,1 @@
-var mnemonic = "churn monkey ozone hidden ring cage clerk portion cattle license noble siren";
+var mnemonic = "oven kit crumble demand exercise cage avocado beach ball cruel boring parent";

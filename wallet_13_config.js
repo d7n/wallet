@@ -1,1 +1,1 @@
-var mnemonic = "problem sight planet bright emerge annual trophy renew load enemy enhance matter";
+var mnemonic = "agent uphold canyon frost adjust ticket series mention because crash candy leg";

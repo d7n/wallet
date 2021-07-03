@@ -1,1 +1,1 @@
-var mnemonic = "absent dream tonight rotate coral base gun brown must bean van appear";
+var mnemonic = "poet swarm casual nice cupboard can deny heart meadow argue social ankle";

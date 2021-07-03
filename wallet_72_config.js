@@ -1,1 +1,1 @@
-var mnemonic = "distance sick eternal cabin liberty salute tone cushion amused flavor abstract purse";
+var mnemonic = "change speed enable speak rice lift there regular moon input bag buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "use drift hub urge feel render boil tonight enter sugar egg disease";
+var mnemonic = "scrub junior visual soul timber forum stand curtain swap jump give puzzle";

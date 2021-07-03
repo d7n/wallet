@@ -1,1 +1,1 @@
-var mnemonic = "primary wrap hybrid under verb lawn paper shoulder globe alter wash card";
+var mnemonic = "refuse usual guess antenna pioneer yellow syrup much trial syrup pause whale";

@@ -1,1 +1,1 @@
-var mnemonic = "panther host clever lend gauge duty abuse effort north siren rebuild local";
+var mnemonic = "exile switch blind hello rare one energy indoor mushroom cactus debate method";

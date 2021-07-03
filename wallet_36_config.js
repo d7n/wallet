@@ -1,1 +1,1 @@
-var mnemonic = "arctic end neutral robot birth purchase fluid excess moment flee horn blush";
+var mnemonic = "menu race sand inmate replace biology method bulk balcony popular sunny slight";

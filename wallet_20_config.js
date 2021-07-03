@@ -1,1 +1,1 @@
-var mnemonic = "atom all tiger girl wasp happy slogan moral lawsuit drop produce inner";
+var mnemonic = "stone online barely gospel melody skate media wreck expose initial victory convince";

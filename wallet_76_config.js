@@ -1,1 +1,1 @@
-var mnemonic = "radio hen cram only shell donkey music nephew panic bullet olive waste";
+var mnemonic = "attract load doctor fruit equal camp crater place quote pottery finish horror";

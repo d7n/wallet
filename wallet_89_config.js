@@ -1,1 +1,1 @@
-var mnemonic = "crowd skull enable pretty phone where chief crater busy march credit ugly";
+var mnemonic = "stool safe brass later outside material olive child swing rather medal vibrant";

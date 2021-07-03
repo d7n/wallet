@@ -1,1 +1,1 @@
-var mnemonic = "ginger flash furnace voice onion insect claw still hazard distance balcony carpet";
+var mnemonic = "protect sick deal actress giggle media fluid base gas velvet globe parade";

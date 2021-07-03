@@ -1,1 +1,1 @@
-var mnemonic = "nerve flame curve rug gadget enrich parent surge clump fit athlete race";
+var mnemonic = "nephew organ where era boil engine play coffee squirrel ability garbage control";

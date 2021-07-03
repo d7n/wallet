@@ -1,1 +1,1 @@
-var mnemonic = "sunny fit hour useless artwork noise spring secret valid rib fox slide";
+var mnemonic = "hurdle witness sudden hungry shove blossom happy course total caught cost easy";

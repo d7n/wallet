@@ -1,1 +1,1 @@
-var mnemonic = "forget make chicken dizzy estate tank finish energy oblige noble frown evil";
+var mnemonic = "code column day camp tray shoot detail fragile donate since truth space";

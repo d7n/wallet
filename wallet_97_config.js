@@ -1,1 +1,1 @@
-var mnemonic = "sustain sorry differ cheese stairs fetch suffer odor rather nurse journey collect";
+var mnemonic = "direct female recall van bomb theme output radar negative crater orchard huge";

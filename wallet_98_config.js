@@ -1,1 +1,1 @@
-var mnemonic = "tuition gauge country regret book april about welcome original purchase what abuse";
+var mnemonic = "hungry topple coil ensure trick mixture gentle blue december fluid shell glory";

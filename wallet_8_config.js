@@ -1,1 +1,1 @@
-var mnemonic = "old label matter title used health worry border desk require birth issue";
+var mnemonic = "aspect fortune insect rhythm high secret final denial stem hospital obtain lady";
