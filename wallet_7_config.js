@@ -1,1 +1,1 @@
-var mnemonic = "suggest gap fix eager patient buffalo term caught vehicle safe goddess bamboo";
+var mnemonic = "fluid blush absurd execute helmet term fade obscure middle already glue vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "civil truly ocean ladder hip process whisper tomato pioneer fetch tobacco issue";
+var mnemonic = "hood lizard employ hazard liar twin remember category property decade home illegal";

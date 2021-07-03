@@ -1,1 +1,1 @@
-var mnemonic = "awful fly face test such spot lemon spy analyst plate color winner";
+var mnemonic = "entry similar mansion urban cherry front claw bench bullet harvest letter enemy";

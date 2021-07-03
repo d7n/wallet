@@ -1,1 +1,1 @@
-var mnemonic = "jacket exact curve citizen core scatter verb spot upon slam forum candy";
+var mnemonic = "relief into gaze basic either oppose salmon bonus extend invite spring mad";

@@ -1,1 +1,1 @@
-var mnemonic = "hair ritual grow bulk desert banana village skull loyal record prepare grape";
+var mnemonic = "neglect tortoise wrestle know alarm address always fine next zoo route live";

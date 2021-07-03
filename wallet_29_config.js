@@ -1,1 +1,1 @@
-var mnemonic = "mix game carbon pig top exercise word drive pear devote bless defense";
+var mnemonic = "develop observe arrest globe peanut illegal shaft share slab shed neglect robust";

@@ -1,1 +1,1 @@
-var mnemonic = "remain fence scan lamp shop force alcohol merry wedding foot squirrel struggle";
+var mnemonic = "again news regret obtain call flash series cluster victory marine uphold orphan";

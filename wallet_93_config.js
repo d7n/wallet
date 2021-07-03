@@ -1,1 +1,1 @@
-var mnemonic = "dynamic grocery addict strike knock poem movie hope under inch visual crunch";
+var mnemonic = "hope same decide flip depend blame hurry foster another ticket bird renew";

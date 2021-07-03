@@ -1,1 +1,1 @@
-var mnemonic = "topple manual master first axis donor honey degree imitate toy expire quarter";
+var mnemonic = "thrive mixed into mask air elite cluster annual design flat play noodle";

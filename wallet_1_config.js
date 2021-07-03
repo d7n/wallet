@@ -1,1 +1,1 @@
-var mnemonic = "habit child unfair virus script this bring key title steak general drill";
+var mnemonic = "tissue bean disorder swear radar lucky fresh judge miracle fitness dash stuff";

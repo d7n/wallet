@@ -1,1 +1,1 @@
-var mnemonic = "gap lend wall dove certain poet huge door poverty drink excuse trophy";
+var mnemonic = "toddler elegant vital theme erosion suffer huge rule best camp jump egg";

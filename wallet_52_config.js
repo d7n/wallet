@@ -1,1 +1,1 @@
-var mnemonic = "hair fancy symbol record canoe birth live tackle lab tooth raw give";
+var mnemonic = "major banana planet time author banana brick depart person poet milk cruise";

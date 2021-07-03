@@ -1,1 +1,1 @@
-var mnemonic = "marble fat behave judge federal exact hamster caution another also moon label";
+var mnemonic = "wing tattoo fury sure fish family off duty obscure salon cart crush";

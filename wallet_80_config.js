@@ -1,1 +1,1 @@
-var mnemonic = "three enter van orange album tragic early harsh tape picnic first pelican";
+var mnemonic = "palm hello solar draw program hello cheap frozen buyer provide congress fall";

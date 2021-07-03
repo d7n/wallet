@@ -1,1 +1,1 @@
-var mnemonic = "tube clean luggage forest short push like sport attract permit cheese hill";
+var mnemonic = "crystal hobby famous father lecture hamster abuse vanish maze claw ridge number";

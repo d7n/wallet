@@ -1,1 +1,1 @@
-var mnemonic = "fish unlock bitter drill figure apple control smart agree cinnamon light weapon";
+var mnemonic = "foil orange curve prevent three busy confirm suggest useless fee hedgehog armor";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict chat under roof submit anchor nuclear elegant nation install twist rigid";
+var mnemonic = "wife setup patch sheriff virtual card crunch goddess place eyebrow devote exact";

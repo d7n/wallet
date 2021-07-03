@@ -1,1 +1,1 @@
-var mnemonic = "sign place genius ill minimum joy predict thumb grow cover keep grape";
+var mnemonic = "patch youth rebuild guard quit crush daughter disease pudding someone ghost bounce";

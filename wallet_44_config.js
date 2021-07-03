@@ -1,1 +1,1 @@
-var mnemonic = "crop lyrics high rubber crack minor unknown film appear elevator grid enlist";
+var mnemonic = "recycle argue cube globe equip damp trend arctic double source loan danger";

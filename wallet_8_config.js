@@ -1,1 +1,1 @@
-var mnemonic = "police whip else boat tide crime skull curious immune rude art enroll";
+var mnemonic = "stock slam stable copy clump kick cable puzzle island horror stick logic";

@@ -1,1 +1,1 @@
-var mnemonic = "candy exotic blade decline own task antenna narrow receive bring provide funny";
+var mnemonic = "history brush image chronic guitar foam must shaft false doll forum manage";

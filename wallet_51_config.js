@@ -1,1 +1,1 @@
-var mnemonic = "sting omit connect inmate purchase reveal merit hobby harsh century blanket wine";
+var mnemonic = "negative eager fame panic betray actress tray pencil orphan treat vast brush";

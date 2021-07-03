@@ -1,1 +1,1 @@
-var mnemonic = "amateur junior helmet step tonight define accuse allow envelope suspect giggle frame";
+var mnemonic = "invite protect prize suit oval title defense advance vibrant canoe like test";

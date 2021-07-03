@@ -1,1 +1,1 @@
-var mnemonic = "pact mechanic olive vivid popular hedgehog cattle cousin brisk bounce either rotate";
+var mnemonic = "auto speak rice focus fish safe april note umbrella expire mask beach";

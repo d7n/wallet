@@ -1,1 +1,1 @@
-var mnemonic = "gesture scatter profit type paper south choose define skate season artefact vibrant";
+var mnemonic = "aerobic special below pudding wear cluster lobster issue culture bachelor outdoor glory";

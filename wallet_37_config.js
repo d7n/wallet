@@ -1,1 +1,1 @@
-var mnemonic = "rack iron guide divert suspect pill chuckle broom example ethics emerge retire";
+var mnemonic = "radar boring any general empower raise this priority easily local raise outer";

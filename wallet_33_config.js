@@ -1,1 +1,1 @@
-var mnemonic = "hungry attitude word rice plug mango pistol orient local supreme excite chalk";
+var mnemonic = "quantum derive cruise pull egg gather faint eternal room rigid genuine duty";

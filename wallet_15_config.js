@@ -1,1 +1,1 @@
-var mnemonic = "above hospital heart error leopard plate add stay van sweet common surface";
+var mnemonic = "mix song guard slam shiver job home measure lava way little bless";

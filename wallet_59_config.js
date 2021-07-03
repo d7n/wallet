@@ -1,1 +1,1 @@
-var mnemonic = "flat razor amazing regular alarm rifle fashion thumb file machine man buffalo";
+var mnemonic = "attack guilt cash trap vital panther then unaware enjoy toddler muffin island";

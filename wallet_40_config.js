@@ -1,1 +1,1 @@
-var mnemonic = "member cable announce someone aisle donkey struggle thought grace job soft panel";
+var mnemonic = "motor slot lobster prosper list middle behind help globe monster february custom";

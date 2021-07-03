@@ -1,1 +1,1 @@
-var mnemonic = "humor game enhance pave where prize fluid night firm unusual catch pig";
+var mnemonic = "kit hurdle addict remember refuse glad myth elite rack silly industry bacon";

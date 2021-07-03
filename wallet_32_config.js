@@ -1,1 +1,1 @@
-var mnemonic = "install early behind grant random lobster decade history achieve kangaroo dog outer";
+var mnemonic = "body artwork price rocket post visual bless hurdle base raw choice stem";

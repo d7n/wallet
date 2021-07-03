@@ -1,1 +1,1 @@
-var mnemonic = "flame minimum window mammal enemy cluster pulse income spare science dinosaur fun";
+var mnemonic = "lounge equip tide cluster either inch trust jungle view toddler flush viable";

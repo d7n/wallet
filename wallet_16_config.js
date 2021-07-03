@@ -1,1 +1,1 @@
-var mnemonic = "cash this alien buyer load inform session evolve enable grain october label";
+var mnemonic = "stomach enact bracket winner game ivory animal puzzle elevator marble ethics nation";

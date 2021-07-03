@@ -1,1 +1,1 @@
-var mnemonic = "grab erode trial jungle harsh friend spice young this doll sword convince";
+var mnemonic = "main wild manual dilemma veteran travel brisk scout fiction pudding salt action";

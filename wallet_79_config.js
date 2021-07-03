@@ -1,1 +1,1 @@
-var mnemonic = "empty annual same lens desk gaze hurt suggest future raccoon erase annual";
+var mnemonic = "snap unveil mixed humor rent myth tomato brain mom museum pulse they";

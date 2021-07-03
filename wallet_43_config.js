@@ -1,1 +1,1 @@
-var mnemonic = "emerge source pull extend key skull input boss keen actor prefer evidence";
+var mnemonic = "noise shove game circle glove vacant excite rail inquiry infant symbol grow";

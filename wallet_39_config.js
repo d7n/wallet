@@ -1,1 +1,1 @@
-var mnemonic = "omit stadium alcohol pill style situate such awesome spy violin tattoo engage";
+var mnemonic = "next pilot dress funny saddle relax now ramp rural offer daring reject";

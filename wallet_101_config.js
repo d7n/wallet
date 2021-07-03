@@ -1,1 +1,1 @@
-var mnemonic = "keep usual happy sudden panther fetch priority invite notice infant hobby joy";
+var mnemonic = "home endless climb banana enrich flat crunch base very ladder circle wide";

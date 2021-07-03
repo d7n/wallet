@@ -1,1 +1,1 @@
-var mnemonic = "kiss wash dune minor food wealth stomach movie decade husband exile parade";
+var mnemonic = "chronic hub foam cash sustain gown rubber eager wrist domain heavy bench";

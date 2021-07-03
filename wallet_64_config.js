@@ -1,1 +1,1 @@
-var mnemonic = "fly innocent strike depart also rapid morning ranch ability excess because weekend";
+var mnemonic = "vanish trick armor panda fatal squirrel glimpse deer about tone silk envelope";

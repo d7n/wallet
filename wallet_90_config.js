@@ -1,1 +1,1 @@
-var mnemonic = "response weekend undo doll dignity patch wrestle frequent orient pipe weapon burger";
+var mnemonic = "worth motor tide brief deputy together round weekend arrest oak skull universe";

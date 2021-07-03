@@ -1,1 +1,1 @@
-var mnemonic = "pony laptop expand uncover badge rather regular spot curtain dial atom frozen";
+var mnemonic = "worth tone monitor clever team swear betray parade endorse adjust various crawl";

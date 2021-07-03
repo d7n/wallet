@@ -1,1 +1,1 @@
-var mnemonic = "slim party chair verify hub setup film bottom charge myth robust grain";
+var mnemonic = "lady angle pole clock topple elegant gun west pass enforce tourist reward";

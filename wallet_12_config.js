@@ -1,1 +1,1 @@
-var mnemonic = "push sister force mix uphold obey stairs edit purchase topic awkward dwarf";
+var mnemonic = "pledge forest mango struggle field window skin pass govern salute lecture food";

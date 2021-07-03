@@ -1,1 +1,1 @@
-var mnemonic = "legal drop reward shop surge exact bunker nephew animal same saddle kidney";
+var mnemonic = "shove bright size axis limb tomato swamp morning such ride now envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty gloom flip initial velvet arrow grid nice pencil valid iron banner";
+var mnemonic = "private economy friend bright limit shove spike reflect neck social above depart";

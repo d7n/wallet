@@ -1,1 +1,1 @@
-var mnemonic = "collect betray whip feature permit slush stone giant maximum cradle drop snow";
+var mnemonic = "clean remain trend bullet memory right caught hire lady express push economy";

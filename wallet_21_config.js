@@ -1,1 +1,1 @@
-var mnemonic = "stereo maximum boil deposit jealous engine toe stumble lumber stumble entire language";
+var mnemonic = "lumber split sense region sport define allow drill produce venture pear snap";

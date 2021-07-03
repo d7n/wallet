@@ -1,1 +1,1 @@
-var mnemonic = "under panther warm grief roof enforce ill enjoy shoot upon dinner slight";
+var mnemonic = "payment dice have volume cereal zebra desert renew ginger adult patrol script";

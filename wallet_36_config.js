@@ -1,1 +1,1 @@
-var mnemonic = "insect van spatial denial achieve deal obscure renew valve illness toe find";
+var mnemonic = "wish month omit dinosaur spider random focus cluster ask brass essay guide";

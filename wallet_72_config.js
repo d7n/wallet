@@ -1,1 +1,1 @@
-var mnemonic = "fun worry jacket arch nest protect armed beauty another hidden life social";
+var mnemonic = "success ring city idea afraid stool path fuel vital asset snap thing";

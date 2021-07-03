@@ -1,1 +1,1 @@
-var mnemonic = "palm arrive begin boost quiz ball evolve tell vault forum keen soon";
+var mnemonic = "media pond prevent black habit swarm rack equip gloom sure ginger pulse";

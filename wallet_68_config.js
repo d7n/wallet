@@ -1,1 +1,1 @@
-var mnemonic = "dolphin blush holiday one poet helmet admit below defense shop surprise hundred";
+var mnemonic = "gloom stuff response parrot degree fantasy hen twenty bus turtle creek clerk";

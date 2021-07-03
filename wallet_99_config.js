@@ -1,1 +1,1 @@
-var mnemonic = "this lava west certain hill fox credit million friend olive message vague";
+var mnemonic = "foster sea flavor fetch then humble inner claw genius shed adult puppy";

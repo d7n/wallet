@@ -1,1 +1,1 @@
-var mnemonic = "city cage sugar lazy buyer follow rescue mix raise van ordinary corn";
+var mnemonic = "clean spoil say until all isolate security swear patient inside panther right";

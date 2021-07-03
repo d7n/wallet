@@ -1,1 +1,1 @@
-var mnemonic = "sign despair impact ride near oxygen silly analyst sunny lyrics episode crater";
+var mnemonic = "organ blush champion matter category ignore else mutual business bread hurdle room";

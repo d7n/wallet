@@ -1,1 +1,1 @@
-var mnemonic = "region thrive ordinary ritual clever enable aware memory story woman impulse current";
+var mnemonic = "lab unit fashion useful engine wait series switch female gas column east";

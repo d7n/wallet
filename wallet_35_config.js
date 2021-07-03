@@ -1,1 +1,1 @@
-var mnemonic = "siren rude return expect crazy reveal unknown weasel major diesel dismiss absent";
+var mnemonic = "weasel kick foot during globe plate bar two attend genuine hat gun";

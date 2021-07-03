@@ -1,1 +1,1 @@
-var mnemonic = "jar child spider sauce safe sample more order lesson kitten brush yard";
+var mnemonic = "aunt what lesson pioneer rotate include step fetch erupt stuff pole puppy";

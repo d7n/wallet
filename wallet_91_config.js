@@ -1,1 +1,1 @@
-var mnemonic = "sad aerobic melody kitten rose vault monitor rare theme talk dinosaur above";
+var mnemonic = "knife blur wheat goat weasel lady salmon card merge duck license dutch";

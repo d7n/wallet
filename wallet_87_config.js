@@ -1,1 +1,1 @@
-var mnemonic = "torch excess side exotic zoo fun impose design cube state pipe custom";
+var mnemonic = "give cargo funny manage clerk certain novel speed abstract card squeeze neck";

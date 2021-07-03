@@ -1,1 +1,1 @@
-var mnemonic = "beach foster peanut furnace tonight crawl wide modify pool cousin fetch fiscal";
+var mnemonic = "together shy buddy viable vacuum expire hub garlic two click parent dragon";

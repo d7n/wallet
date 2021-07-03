@@ -1,1 +1,1 @@
-var mnemonic = "crater mad bubble elbow leisure limit canyon rhythm gaze noodle mammal grief";
+var mnemonic = "anxiety rose crawl airport twin hidden mushroom media cram vanish pass govern";

@@ -1,1 +1,1 @@
-var mnemonic = "dish suit police saddle electric banana velvet vanish boost pet cement weird";
+var mnemonic = "atom toe base process account sun hundred myth search volume dirt shrug";

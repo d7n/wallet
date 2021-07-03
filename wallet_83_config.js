@@ -1,1 +1,1 @@
-var mnemonic = "door people income slam tornado practice labor quick lawn alert drop grow";
+var mnemonic = "immense problem summer often avocado ladder weather hat fatal unusual nerve dice";

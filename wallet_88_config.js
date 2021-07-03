@@ -1,1 +1,1 @@
-var mnemonic = "occur public youth payment price mother immense live monster crane hover film";
+var mnemonic = "neck sure cream gown stadium immense remember caution attack pulse armed sea";

@@ -1,1 +1,1 @@
-var mnemonic = "vote glimpse autumn donkey minimum ivory soul effort define novel usage educate";
+var mnemonic = "uniform acoustic rent marriage boss combine puppy worry left choice melt mouse";

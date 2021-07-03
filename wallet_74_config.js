@@ -1,1 +1,1 @@
-var mnemonic = "loud forget sort fly midnight head material vague laundry pretty card shaft";
+var mnemonic = "cabbage inherit jealous sleep purity hope oxygen man hole diagram satoshi cat";

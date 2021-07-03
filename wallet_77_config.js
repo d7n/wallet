@@ -1,1 +1,1 @@
-var mnemonic = "inmate door unfold bonus divert apology throw lunch ethics scan sword predict";
+var mnemonic = "donor engine coffee front clap tissue subject alter utility alcohol sense first";

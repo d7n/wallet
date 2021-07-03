@@ -1,1 +1,1 @@
-var mnemonic = "coach energy payment tissue ripple elevator laptop picture tree pig loyal damage";
+var mnemonic = "yellow make insect loyal satisfy turkey club movie stock chunk ahead huge";

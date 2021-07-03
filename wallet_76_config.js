@@ -1,1 +1,1 @@
-var mnemonic = "leisure certain duck cradle retire hip dry system water double connect habit";
+var mnemonic = "reunion anxiety traffic advance fatal car clinic oven crunch discover know video";

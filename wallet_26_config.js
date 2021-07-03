@@ -1,1 +1,1 @@
-var mnemonic = "kitchen exhaust relief faith prize ladder float void deny actress emotion wreck";
+var mnemonic = "brick hurt sport enable still fragile thumb spawn peace observe reform veteran";

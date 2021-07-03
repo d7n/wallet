@@ -1,1 +1,1 @@
-var mnemonic = "artist shock mechanic cactus ranch demand common meadow spread fuel diesel absorb";
+var mnemonic = "fitness bounce floor seek unknown spider embrace joke detect faith inject unusual";

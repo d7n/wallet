@@ -1,1 +1,1 @@
-var mnemonic = "garlic hammer chicken easy trend puzzle attract slim critic evidence puzzle tomorrow";
+var mnemonic = "half feel horn also athlete twist profit property notable awesome cloud garden";

@@ -1,1 +1,1 @@
-var mnemonic = "burden dove menu shine include brown hammer knife reform game green dawn";
+var mnemonic = "plate obtain assume wise mansion head attract moon apology erosion today wink";

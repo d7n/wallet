@@ -1,1 +1,1 @@
-var mnemonic = "assume ginger clutch round load ring verb lady balcony art strong cheap";
+var mnemonic = "faint lonely please dune merit post royal filter open jeans hill save";

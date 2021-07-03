@@ -1,1 +1,1 @@
-var mnemonic = "have top skull mail citizen embrace desert boat fruit found pipe wise";
+var mnemonic = "math jelly uphold salt possible fit dawn course repair long similar easy";

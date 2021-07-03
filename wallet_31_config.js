@@ -1,1 +1,1 @@
-var mnemonic = "frown miracle affair truly category rent inch search series exit rebuild exercise";
+var mnemonic = "quote rely crunch crunch yard muscle liquid vivid raccoon view poem include";

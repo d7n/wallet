@@ -1,1 +1,1 @@
-var mnemonic = "educate entire drip play south engine snake cushion inch material evil gun";
+var mnemonic = "double reward note seek power pulp swamp note silk copper globe rate";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure jacket fringe fruit fold night harvest lab concert flavor bomb erupt";
+var mnemonic = "solar already find kind vicious clog vital black syrup use equal bachelor";

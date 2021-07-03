@@ -1,1 +1,1 @@
-var mnemonic = "have call insane minute divert artefact option bean jewel square bone clog";
+var mnemonic = "tortoise belt insane expect argue urban gather enact drink fuel keen area";

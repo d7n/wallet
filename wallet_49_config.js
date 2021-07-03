@@ -1,1 +1,1 @@
-var mnemonic = "guard clock push where danger salute actor fortune melt decade father exit";
+var mnemonic = "impulse extra wrestle lava napkin gate grocery action once muscle awesome meadow";

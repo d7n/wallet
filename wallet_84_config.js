@@ -1,1 +1,1 @@
-var mnemonic = "girl side just renew protect orchard soccer banner person angle real scorpion";
+var mnemonic = "pair senior absurd fitness size defy theory average bar guess door seek";

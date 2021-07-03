@@ -1,1 +1,1 @@
-var mnemonic = "update saddle hood describe slim obscure spoil screen luxury rhythm only front";
+var mnemonic = "april board brain harsh situate antique shiver proud like unaware index run";

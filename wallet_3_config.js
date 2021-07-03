@@ -1,1 +1,1 @@
-var mnemonic = "fashion mother auto cover approve gauge bleak always spin night mistake vessel";
+var mnemonic = "offer coach dish alert age steak style ranch hub box notice carry";
