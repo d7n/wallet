@@ -1,1 +1,1 @@
-var mnemonic = "gloom claw bird screen agree robust pistol fence pepper brain rally laptop";
+var mnemonic = "behave air post health lab protect hour mosquito various citizen dinosaur trash";

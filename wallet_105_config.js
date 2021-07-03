@@ -1,1 +1,1 @@
-var mnemonic = "lava online tourist skill rival clip fabric inhale cash road hamster all";
+var mnemonic = "trash autumn tree flat fit smart shuffle job ring diesel special royal";

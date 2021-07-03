@@ -1,1 +1,1 @@
-var mnemonic = "brick armed awkward shoulder there check soap size attack midnight holiday help";
+var mnemonic = "amazing action abstract stock fragile street upset grunt supply canal arrive unhappy";

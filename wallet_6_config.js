@@ -1,1 +1,1 @@
-var mnemonic = "chat harsh budget slight analyst mention tower hover beach negative trick language";
+var mnemonic = "danger city stable segment inhale goat trap common happy picnic valid worth";

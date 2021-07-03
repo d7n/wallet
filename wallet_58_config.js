@@ -1,1 +1,1 @@
-var mnemonic = "vicious fatigue royal bless spatial transfer flush glare faith hollow card galaxy";
+var mnemonic = "shove mixed accuse leader apart end tornado hill road dice slice citizen";

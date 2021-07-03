@@ -1,1 +1,1 @@
-var mnemonic = "spot match mammal tape label review length actual ghost private alter glove";
+var mnemonic = "canal trash act wish decorate absurd shiver wealth marble sponsor flavor clump";

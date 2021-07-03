@@ -1,1 +1,1 @@
-var mnemonic = "admit enroll reason purchase need certain assist antique future summer fat cupboard";
+var mnemonic = "vacant casual dad often sport give blood absurd wet lecture rotate stamp";

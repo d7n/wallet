@@ -1,1 +1,1 @@
-var mnemonic = "oil symbol ladder endless toilet response night winter glass alpha release doll";
+var mnemonic = "local open ridge chase engine cross shop print elegant must rigid repeat";

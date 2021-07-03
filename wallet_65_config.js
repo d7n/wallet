@@ -1,1 +1,1 @@
-var mnemonic = "tree shadow same urban system castle tide way ordinary chair decade long";
+var mnemonic = "cup mechanic meadow desk chat great abandon veteran acid act steak roast";

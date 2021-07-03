@@ -1,1 +1,1 @@
-var mnemonic = "tube dragon wish surround vacant rival effort bargain album city silk hello";
+var mnemonic = "morning zebra milk brush awkward castle design sound bachelor effort repair across";

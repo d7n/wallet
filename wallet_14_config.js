@@ -1,1 +1,1 @@
-var mnemonic = "flee flash dragon around problem river ring enact truth satisfy chunk elite";
+var mnemonic = "chase come farm soap mosquito inside bullet enable next lunch fit cigar";

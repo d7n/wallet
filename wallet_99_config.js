@@ -1,1 +1,1 @@
-var mnemonic = "puppy source prepare normal become shuffle nose sustain rigid survey remain viable";
+var mnemonic = "truly spin when jar saddle napkin hood trouble box another stock sun";

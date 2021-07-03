@@ -1,1 +1,1 @@
-var mnemonic = "economy brass lyrics patch group artist want puppy elevator erase blue idle";
+var mnemonic = "vapor staff business jealous mistake decrease artefact height kiwi stem sun bullet";

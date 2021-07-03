@@ -1,1 +1,1 @@
-var mnemonic = "foil claw gas shed lava mad tag absorb grain rural practice extra";
+var mnemonic = "program when cotton budget pledge category visit mom pause nephew second office";

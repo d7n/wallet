@@ -1,1 +1,1 @@
-var mnemonic = "onion betray project kiss zone under weird long chef swift offer inch";
+var mnemonic = "play blast disorder flock say cause settle tribe syrup pool industry nest";

@@ -1,1 +1,1 @@
-var mnemonic = "oven neutral sure steak pass danger helmet leaf parade team stage board";
+var mnemonic = "donate beef multiply dad differ furnace indicate staff fade observe mechanic excite";

@@ -1,1 +1,1 @@
-var mnemonic = "arch sound skirt nation squeeze gate reduce emerge master flight receive joy";
+var mnemonic = "pistol asset degree special valley faculty chimney shrimp island main brother obscure";

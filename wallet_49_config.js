@@ -1,1 +1,1 @@
-var mnemonic = "noodle truth fantasy dragon cigar siege smooth broccoli awful wagon marriage favorite";
+var mnemonic = "style energy near afraid target vacant arrest moon rice kit carpet casual";

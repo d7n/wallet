@@ -1,1 +1,1 @@
-var mnemonic = "brown nut fee item truly weird pact almost fatigue issue ensure avocado";
+var mnemonic = "focus display oppose polar control judge gaze gown grass text under lottery";

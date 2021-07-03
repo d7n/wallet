@@ -1,1 +1,1 @@
-var mnemonic = "fire seat rack stamp nation between vintage prize head earn course curtain";
+var mnemonic = "what mercy devote risk mammal hint ten awesome winner pumpkin resist resemble";

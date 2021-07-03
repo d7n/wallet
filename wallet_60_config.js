@@ -1,1 +1,1 @@
-var mnemonic = "conduct rug theme hedgehog announce lizard boy ugly burst salad lend disease";
+var mnemonic = "drive flag deposit rural october damage group opinion attend another mimic level";

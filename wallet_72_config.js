@@ -1,1 +1,1 @@
-var mnemonic = "test lunch salt minor vacuum give base noble indicate february cradle fire";
+var mnemonic = "cliff truth add neutral thunder output hover fork busy throw boss robot";

@@ -1,1 +1,1 @@
-var mnemonic = "park vault uncover right faint uniform bus offer segment absent cricket design";
+var mnemonic = "before voice flame course focus issue fit indoor junior volcano fatigue cherry";

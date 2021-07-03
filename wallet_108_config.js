@@ -1,1 +1,1 @@
-var mnemonic = "crack close jungle unable twin master bubble update car bracket awkward brass";
+var mnemonic = "adapt donate ocean vote eyebrow taxi length coin first enroll blush cabin";

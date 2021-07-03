@@ -1,1 +1,1 @@
-var mnemonic = "voyage face vehicle blade ship slam duck length mixture wrist right more";
+var mnemonic = "unique scan bronze reform pear actor clip host scare twin situate left";

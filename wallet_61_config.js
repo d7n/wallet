@@ -1,1 +1,1 @@
-var mnemonic = "runway scatter stage guide hat color argue city annual output program suffer";
+var mnemonic = "cruel other claim smoke code ankle tourist large rabbit record entire steak";

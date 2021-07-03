@@ -1,1 +1,1 @@
-var mnemonic = "round shrug snack pistol rain argue text merit tag canoe candy naive";
+var mnemonic = "just water grunt favorite high kite during talent alpha motor hobby similar";

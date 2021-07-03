@@ -1,1 +1,1 @@
-var mnemonic = "lounge trend priority caught van tunnel digital student actual soul recycle risk";
+var mnemonic = "win nasty obscure shoulder wreck black kind debris finish grass sunny rally";

@@ -1,1 +1,1 @@
-var mnemonic = "lift area wine donkey cement scout trophy cherry speed prison bone blast";
+var mnemonic = "rail give long move destroy today remember pattern steel asthma abandon tornado";

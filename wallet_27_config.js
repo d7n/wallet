@@ -1,1 +1,1 @@
-var mnemonic = "way devote problem poem width globe extra volume noble treat tired genius";
+var mnemonic = "seat coil squeeze grit risk glad arrow amateur wrestle benefit pool axis";

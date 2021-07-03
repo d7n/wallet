@@ -1,1 +1,1 @@
-var mnemonic = "behind vicious trigger fan rain civil help exile analyst material primary typical";
+var mnemonic = "twenty gloom dentist metal brother accuse ribbon advice believe impose surprise element";

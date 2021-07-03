@@ -1,1 +1,1 @@
-var mnemonic = "magic solid bronze pyramid series lava little mention just pepper rotate urge";
+var mnemonic = "return nerve more lizard song pioneer suspect total crawl damage pond arena";

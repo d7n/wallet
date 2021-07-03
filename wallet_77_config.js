@@ -1,1 +1,1 @@
-var mnemonic = "damp scout unit tragic cricket antenna wait giant chase model decade orbit";
+var mnemonic = "lava immune stage half remove pond bike rain brisk error exist census";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy symbol winter boat tray arm huge umbrella glass giant trumpet multiply";
+var mnemonic = "frown mango expect copy sight opera service language car thank bring lawsuit";

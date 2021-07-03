@@ -1,1 +1,1 @@
-var mnemonic = "scorpion together prison cheap hollow brain scrub where margin abuse broccoli stage";
+var mnemonic = "elite pony essence version orbit current window column brisk ride general journey";

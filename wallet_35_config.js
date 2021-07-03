@@ -1,1 +1,1 @@
-var mnemonic = "renew lunar latin surge iron barrel oval crime correct proof purchase anchor";
+var mnemonic = "language poverty mushroom taste supply oblige memory illegal idea pumpkin flavor screen";

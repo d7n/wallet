@@ -1,1 +1,1 @@
-var mnemonic = "aunt under cloud marriage theme radar diet resist leave walk fiscal radio";
+var mnemonic = "decrease nose brave together property enemy stone advance slush crop carbon monster";

@@ -1,1 +1,1 @@
-var mnemonic = "joy much already wolf hedgehog focus blade usual crash divert inhale net";
+var mnemonic = "drift copper hood tissue kidney give decade employ plunge human vacuum birth";

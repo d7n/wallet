@@ -1,1 +1,1 @@
-var mnemonic = "renew bulb kite patch absorb license carbon check wine cart crush romance";
+var mnemonic = "hint differ report opinion type wreck pull mass napkin dutch book bind";

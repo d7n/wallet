@@ -1,1 +1,1 @@
-var mnemonic = "damage quarter element door female switch attitude laundry kidney lake cousin coin";
+var mnemonic = "junior become banana above chimney bean radar cheap person trouble neutral ask";

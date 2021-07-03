@@ -1,1 +1,1 @@
-var mnemonic = "muffin artwork mosquito dream toast cancel nut brand shed eternal spirit horse";
+var mnemonic = "resemble pass top when pencil plug bonus inherit laundry traffic squirrel tornado";

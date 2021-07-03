@@ -1,1 +1,1 @@
-var mnemonic = "sport firm remain surface gym suffer merge basic address cabin scorpion ostrich";
+var mnemonic = "unveil double lesson crop smooth panda shed tumble monkey amateur wasp island";

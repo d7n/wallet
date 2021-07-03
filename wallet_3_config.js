@@ -1,1 +1,1 @@
-var mnemonic = "crowd regret bunker cross hint now argue shadow winter ticket addict basket";
+var mnemonic = "odor news tooth health aunt noodle swarm else step salad evil street";

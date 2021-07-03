@@ -1,1 +1,1 @@
-var mnemonic = "blanket candy turn thrive draw ten shuffle moon photo laugh equal unfair";
+var mnemonic = "garden mention race reunion sausage very dice away tilt scorpion alcohol tomorrow";

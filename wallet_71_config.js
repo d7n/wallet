@@ -1,1 +1,1 @@
-var mnemonic = "zebra orient debate retire scatter runway wing ride sugar meat citizen depth";
+var mnemonic = "siren aware wife amount pottery analyst knee mother window relief prepare air";

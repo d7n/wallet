@@ -1,1 +1,1 @@
-var mnemonic = "crucial eight acquire strike loan prevent inform gasp ball gadget genius upon";
+var mnemonic = "need student rocket author dry stock fantasy flip eye color affair arrange";

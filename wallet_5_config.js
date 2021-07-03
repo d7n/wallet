@@ -1,1 +1,1 @@
-var mnemonic = "concert brave learn solve sentence harbor swarm carpet talent merit burst speed";
+var mnemonic = "monitor decide guitar eternal attack open victory enable mystery venture enforce pledge";

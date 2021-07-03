@@ -1,1 +1,1 @@
-var mnemonic = "wave bag connect sight arrange mushroom pigeon coral minute provide lecture stomach";
+var mnemonic = "asset toe urge enough heavy portion pyramid pet wealth blast lounge census";

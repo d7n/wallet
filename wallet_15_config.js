@@ -1,1 +1,1 @@
-var mnemonic = "thank text popular zone motion someone lunar remind mosquito pill arrive bubble";
+var mnemonic = "load under kangaroo fatal industry defy three mango milk eight strategy gas";

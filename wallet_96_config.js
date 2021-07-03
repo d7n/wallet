@@ -1,1 +1,1 @@
-var mnemonic = "piano process machine rug mix air that outdoor once similar pill fury";
+var mnemonic = "stamp travel master primary wisdom tone flock glance alley diesel ticket route";

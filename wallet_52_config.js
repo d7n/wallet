@@ -1,1 +1,1 @@
-var mnemonic = "hamster file rice prepare require help zoo father stove palm flush nurse";
+var mnemonic = "absorb wild copy rough liberty pulp craft exhaust inside estate chaos priority";

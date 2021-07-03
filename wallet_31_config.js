@@ -1,1 +1,1 @@
-var mnemonic = "essay save drive live sphere build run exit slogan spawn when fantasy";
+var mnemonic = "expose innocent enable bargain fiscal title ability hospital frame hobby wedding arena";

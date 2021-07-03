@@ -1,1 +1,1 @@
-var mnemonic = "sun dust base verify aspect sail left script milk armor tail high";
+var mnemonic = "deal height future jelly acoustic road brief quiz vocal equal puppy brick";

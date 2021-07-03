@@ -1,1 +1,1 @@
-var mnemonic = "repair hair click capable ancient enable attitude camp machine remove celery never";
+var mnemonic = "crumble hybrid wine nasty choice ripple pond canvas tent knock hospital concert";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom spawn motor armor huge raise simple work happy poem differ usual";
+var mnemonic = "wall denial scene recycle vapor cake grain sweet include guide floor sick";

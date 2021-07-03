@@ -1,1 +1,1 @@
-var mnemonic = "cram spawn naive nice police hotel neutral wing attack reason cool input";
+var mnemonic = "dust topple surprise vendor bonus galaxy present pair frost hidden cool involve";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter attract lunar practice husband machine betray thing zero unhappy jazz opera";
+var mnemonic = "invite explain cram exhaust sun dune tortoise render main hundred proud mobile";

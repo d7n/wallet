@@ -1,1 +1,1 @@
-var mnemonic = "undo will arm huge turkey cook domain kangaroo correct ozone immense cream";
+var mnemonic = "grocery artefact flip brown execute vessel uphold absurd sphere rate payment dad";

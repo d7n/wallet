@@ -1,1 +1,1 @@
-var mnemonic = "lunar student milk moon quick bomb cram embrace provide confirm exotic monitor";
+var mnemonic = "inmate much clarify stereo push enter suffer keen faint opinion reject index";

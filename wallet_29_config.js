@@ -1,1 +1,1 @@
-var mnemonic = "library verb only next they puzzle dolphin carbon phone test pear little";
+var mnemonic = "axis position blue awake enhance around wet sword oval lens swamp decrease";

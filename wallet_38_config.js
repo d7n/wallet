@@ -1,1 +1,1 @@
-var mnemonic = "wash explain canyon actual choose grocery cousin strategy pretty public neutral bean";
+var mnemonic = "gaze loop cinnamon shuffle service remain point dwarf laundry remind century what";

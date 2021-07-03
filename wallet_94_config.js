@@ -1,1 +1,1 @@
-var mnemonic = "wet improve decade still phrase gap mountain confirm liquid rely admit swarm";
+var mnemonic = "puzzle weasel youth shrug hand priority awful task blossom head despair perfect";

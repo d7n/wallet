@@ -1,1 +1,1 @@
-var mnemonic = "cabbage ostrich retreat attitude govern govern gravity direct riot approve buyer pudding";
+var mnemonic = "crisp witness talent patrol there ring lounge cloth raven security neither echo";

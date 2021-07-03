@@ -1,1 +1,1 @@
-var mnemonic = "spy wet exercise entry sausage lyrics close atom rapid lumber divert tooth";
+var mnemonic = "aerobic evoke mystery wood current tourist vintage wet chaos during enjoy fox";

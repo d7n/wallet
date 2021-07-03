@@ -1,1 +1,1 @@
-var mnemonic = "hybrid illness visit topic razor perfect chef chaos lonely network old gaze";
+var mnemonic = "garbage uncover tongue stick usual kangaroo romance improve holiday spice silver adult";

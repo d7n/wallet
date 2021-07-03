@@ -1,1 +1,1 @@
-var mnemonic = "eternal now mention satoshi artwork badge fly account peace recall bright beyond";
+var mnemonic = "swap middle true olive can onion master sword army board educate shift";

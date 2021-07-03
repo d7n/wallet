@@ -1,1 +1,1 @@
-var mnemonic = "car weekend average rug kick once bullet please argue method when above";
+var mnemonic = "remember supply powder owner entry mansion spray march setup lake project number";

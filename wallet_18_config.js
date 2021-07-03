@@ -1,1 +1,1 @@
-var mnemonic = "valve noodle town image sight fortune chalk ankle legal future nurse hover";
+var mnemonic = "issue banner sing page domain sport area tiny bottom clown stamp omit";

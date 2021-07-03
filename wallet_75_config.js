@@ -1,1 +1,1 @@
-var mnemonic = "wine exhibit journey stem hungry web olive strike onion poem distance nation";
+var mnemonic = "fence tuition verify hire output diet swim crystal social festival else luxury";

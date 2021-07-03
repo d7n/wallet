@@ -1,1 +1,1 @@
-var mnemonic = "onion basic grit happy bulk spray injury six valley pact depth race";
+var mnemonic = "finish bread bone stairs zone kite merry victory slight rifle divide exercise";

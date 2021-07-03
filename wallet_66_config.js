@@ -1,1 +1,1 @@
-var mnemonic = "miracle width flat avocado sugar nut crew involve patch host ugly cradle";
+var mnemonic = "divorce endorse various veteran pitch blame life enjoy erase seat picture wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "pen pattern destroy forest sample gasp first whisper employ sock steel favorite";
+var mnemonic = "dose illness attitude cherry quick soon endorse jeans enroll protect liberty trumpet";

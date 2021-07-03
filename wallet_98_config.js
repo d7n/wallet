@@ -1,1 +1,1 @@
-var mnemonic = "year venue boil raw genuine coral usual depart hello minute skate quit";
+var mnemonic = "wish repair whip license minimum solution pitch high hour gravity bird bunker";

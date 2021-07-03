@@ -1,1 +1,1 @@
-var mnemonic = "reopen twice game swift limit amazing height marble radio sister turtle desk";
+var mnemonic = "can nominee equal renew pizza buzz vacant hockey planet suggest gasp coconut";

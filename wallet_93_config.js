@@ -1,1 +1,1 @@
-var mnemonic = "evil wolf gloom embody drastic rubber trick group finger mother nice dune";
+var mnemonic = "report grunt badge pave oil cost write bean bullet magic struggle between";

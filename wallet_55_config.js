@@ -1,1 +1,1 @@
-var mnemonic = "myself rebel help sauce walk donkey yellow achieve possible image act exist";
+var mnemonic = "reopen mimic husband heavy argue retreat capable move wolf chase scorpion client";

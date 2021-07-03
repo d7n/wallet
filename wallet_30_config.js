@@ -1,1 +1,1 @@
-var mnemonic = "lens movie true matrix debate cruel shine force top skull notable smile";
+var mnemonic = "rhythm sorry autumn dinosaur rocket oxygen enemy bag wedding artefact patient marriage";

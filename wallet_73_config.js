@@ -1,1 +1,1 @@
-var mnemonic = "alley wire refuse total clutch exit silk rude stage assist vacant moment";
+var mnemonic = "best shrimp pair depart kite rather explain scissors velvet short purity opera";

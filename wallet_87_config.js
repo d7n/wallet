@@ -1,1 +1,1 @@
-var mnemonic = "isolate orange civil regular curve frozen stick door shrimp chapter airport palace";
+var mnemonic = "badge spell love invite twenty remind metal ankle one jaguar marble little";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger oxygen eager foot frame clog current impose search inherit become puzzle";
+var mnemonic = "carpet hundred art breeze step brand push arch pulse extend rally hub";

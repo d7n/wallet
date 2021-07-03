@@ -1,1 +1,1 @@
-var mnemonic = "salt doll mass claim glance popular minute canvas tonight achieve person clog";
+var mnemonic = "work crumble evolve turtle misery buyer next indoor save three lend fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "across fatal world riot indoor sing royal strong correct wrong assist patient";
+var mnemonic = "man above throw suit moral daughter vintage office agent coin crisp husband";

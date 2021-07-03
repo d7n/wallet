@@ -1,1 +1,1 @@
-var mnemonic = "hollow teach step laptop source arctic pilot clump multiply wage call fade";
+var mnemonic = "gospel insect pause always head syrup donor round settle dignity chef crop";

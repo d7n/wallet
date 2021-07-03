@@ -1,1 +1,1 @@
-var mnemonic = "album number little case idea measure run obvious final distance tongue anger";
+var mnemonic = "airport video zoo wide black mushroom script sound rely possible extend inflict";

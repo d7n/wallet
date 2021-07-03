@@ -1,1 +1,1 @@
-var mnemonic = "spike buddy outer furnace august master return decide pond modify plate chimney";
+var mnemonic = "imitate grid forum crane van vanish space easily reduce canoe peanut cave";

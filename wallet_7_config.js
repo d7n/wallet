@@ -1,1 +1,1 @@
-var mnemonic = "fabric light want fitness today note cupboard grace inject reason expire elite";
+var mnemonic = "still buyer payment text argue exile girl budget mask valid harvest coach";

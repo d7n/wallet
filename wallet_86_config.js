@@ -1,1 +1,1 @@
-var mnemonic = "develop squirrel boy borrow wreck citizen dinner popular illegal tornado supreme west";
+var mnemonic = "super bike strategy exchange hope load pilot goose elder near grow way";

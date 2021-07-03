@@ -1,1 +1,1 @@
-var mnemonic = "social churn wrestle caution valve cost one narrow casual vintage dismiss neck";
+var mnemonic = "foot exchange boat disorder pond mother please master aspect pyramid olympic dirt";

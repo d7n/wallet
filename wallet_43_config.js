@@ -1,1 +1,1 @@
-var mnemonic = "shell dwarf under avocado grow life dinosaur ready nerve mule flock route";
+var mnemonic = "fade decline trouble collect dove enlist catalog city job soap woman caution";

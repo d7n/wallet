@@ -1,1 +1,1 @@
-var mnemonic = "lyrics machine code sunny work tone girl unlock ugly lens shrimp come";
+var mnemonic = "bike relief chalk piece summer rate borrow rescue market frozen clap topple";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor income expose priority recycle bottom gate attend same advice park anchor";
+var mnemonic = "neither chimney achieve congress vivid submit skin pizza priority fatal food song";

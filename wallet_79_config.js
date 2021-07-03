@@ -1,1 +1,1 @@
-var mnemonic = "face bamboo rocket april turkey blade provide hope swift only print all";
+var mnemonic = "enhance slight rifle grid lamp answer vapor bread special win wink rich";

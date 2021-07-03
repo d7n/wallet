@@ -1,1 +1,1 @@
-var mnemonic = "glove brave shaft layer rifle execute shield cake ridge exhibit tomorrow egg";
+var mnemonic = "cigar cluster army company fossil oppose absorb soap foster brisk ranch middle";
