@@ -1,1 +1,1 @@
-var mnemonic = "leg better material raw reduce arrive safe across glue ghost all equip";
+var mnemonic = "wool among box country blouse trash diamond measure pumpkin merit vanish gain";

@@ -1,1 +1,1 @@
-var mnemonic = "noble since call coil apple arrest win found benefit thumb route forget";
+var mnemonic = "casual analyst own hurry miracle dinosaur panther visit loud input forest old";

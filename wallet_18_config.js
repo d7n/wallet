@@ -1,1 +1,1 @@
-var mnemonic = "must canoe aisle menu dolphin course tilt piece burst stay unfold address";
+var mnemonic = "carry toss pave home uncover coffee decline street general nephew comic swear";

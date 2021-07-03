@@ -1,1 +1,1 @@
-var mnemonic = "flee sniff blind ancient borrow bounce brand behave someone humor salon regular";
+var mnemonic = "robust wrong used shoot citizen talk visual transfer great true panic mobile";

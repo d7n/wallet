@@ -1,1 +1,1 @@
-var mnemonic = "parent other audit stage worry become minimum guide travel broccoli fix useless";
+var mnemonic = "violin close link crisp donate business fault loop bright cloud ensure license";

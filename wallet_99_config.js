@@ -1,1 +1,1 @@
-var mnemonic = "bag shrug squeeze wealth twelve cheap scare summer mail popular jeans way";
+var mnemonic = "rain cruise plug police canal nerve silver rapid taxi phrase width swamp";

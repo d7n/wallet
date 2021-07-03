@@ -1,1 +1,1 @@
-var mnemonic = "tail fire rebuild genius club maze radio unveil expand spike define extend";
+var mnemonic = "skirt old canvas upgrade possible grass turtle trash affair win deputy track";

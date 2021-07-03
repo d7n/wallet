@@ -1,1 +1,1 @@
-var mnemonic = "concert time portion screen crazy cheap close girl raven hen joke mutual";
+var mnemonic = "arrive yard concert push stuff wrist brisk coach pencil scan table path";

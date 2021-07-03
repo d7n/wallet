@@ -1,1 +1,1 @@
-var mnemonic = "chest debris notice equal brass autumn man order someone skull predict hip";
+var mnemonic = "develop talent child kiss tumble spawn taxi brief lock maple absent timber";

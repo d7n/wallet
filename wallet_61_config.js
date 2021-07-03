@@ -1,1 +1,1 @@
-var mnemonic = "tomato wrong absorb invest behave level mobile carry poverty sorry lawn alien";
+var mnemonic = "share frown kite excess congress design basket evil creek stool frequent jungle";

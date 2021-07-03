@@ -1,1 +1,1 @@
-var mnemonic = "purity unique employ involve young yard imitate twenty elder quote mom allow";
+var mnemonic = "exhaust tell bind clown system noodle strong layer account scare gas life";

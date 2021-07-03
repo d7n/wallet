@@ -1,1 +1,1 @@
-var mnemonic = "taste metal great reunion solve need link divert initial page test run";
+var mnemonic = "nominee olive limit normal reunion dream clever property allow tooth zero century";

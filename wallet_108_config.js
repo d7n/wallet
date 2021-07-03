@@ -1,1 +1,1 @@
-var mnemonic = "image audit rail guide work tag laundry struggle gun vocal pulp message";
+var mnemonic = "alter cabbage sample marble weasel pistol seminar clown vital swift nice visual";

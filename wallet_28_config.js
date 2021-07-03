@@ -1,1 +1,1 @@
-var mnemonic = "plug drill mean auction actress venue protect major work second fetch seek";
+var mnemonic = "feature wool river antenna account question matter metal comfort also bus insect";

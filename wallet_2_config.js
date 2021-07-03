@@ -1,1 +1,1 @@
-var mnemonic = "peasant tourist sell tribe sudden biology scene sister bar song lazy that";
+var mnemonic = "amazing fork fat sock address vacant derive foil void embark bag renew";

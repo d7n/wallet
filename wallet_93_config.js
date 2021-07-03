@@ -1,1 +1,1 @@
-var mnemonic = "dove abstract company crater acoustic wrap chair decade else clinic entry neck";
+var mnemonic = "surprise supreme sponsor fury cat minimum chair slide spray bicycle achieve firm";

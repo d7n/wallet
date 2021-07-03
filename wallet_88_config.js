@@ -1,1 +1,1 @@
-var mnemonic = "spice capable excess abstract noise glory doll morning run zoo regular cable";
+var mnemonic = "practice wire tube ahead scene satoshi plastic flame dog dinner inform illegal";

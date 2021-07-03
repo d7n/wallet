@@ -1,1 +1,1 @@
-var mnemonic = "useful point soldier liberty pizza spawn below twelve gossip exchange owner main";
+var mnemonic = "green million refuse galaxy innocent toss breeze general vital save merge vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "attack three expose pupil slush core miss lottery glue quick coconut galaxy";
+var mnemonic = "october grape horror desk photo fitness attract luggage range spider magnet actor";

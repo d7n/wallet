@@ -1,1 +1,1 @@
-var mnemonic = "process chat cinnamon fury need easy wrist wasp grid cycle glance dice";
+var mnemonic = "scissors between scare upset upset topple drink social pupil salon beef world";

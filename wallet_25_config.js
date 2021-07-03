@@ -1,1 +1,1 @@
-var mnemonic = "tiny undo tape forum suggest odor catch enlist august final what shaft";
+var mnemonic = "inject skill wagon siren cousin remember elbow feed mushroom gap desert force";

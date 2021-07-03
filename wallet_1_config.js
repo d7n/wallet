@@ -1,1 +1,1 @@
-var mnemonic = "picture kiwi bring march planet decide cargo wrong divert method core awful";
+var mnemonic = "drink layer ramp already cricket typical country two dolphin east crack promote";

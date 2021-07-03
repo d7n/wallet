@@ -1,1 +1,1 @@
-var mnemonic = "adjust song paper foil debate spoil weekend oval shove popular wife utility";
+var mnemonic = "forget brave duty average entry dawn build winter afford orient stone food";

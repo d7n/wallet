@@ -1,1 +1,1 @@
-var mnemonic = "couch wink satoshi trial shell sister absorb present gold dose tank fit";
+var mnemonic = "initial impose journey sock victory hybrid people roast toe orchard brief evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry focus side dream divorce all accident margin already update chat typical";
+var mnemonic = "fog pottery tag exist female artist bargain glimpse eight mother mistake clinic";

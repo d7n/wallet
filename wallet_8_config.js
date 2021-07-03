@@ -1,1 +1,1 @@
-var mnemonic = "section notable prepare coach couch impulse brother tennis divert urban lift uncover";
+var mnemonic = "whale ivory shop tide dose soft room ridge include choice tail kitten";

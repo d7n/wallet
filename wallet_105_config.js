@@ -1,1 +1,1 @@
-var mnemonic = "horse hidden rich casino between turtle fade street breeze melt any insane";
+var mnemonic = "draft used valve unlock right ethics impose rain stomach candy minute embrace";

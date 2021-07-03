@@ -1,1 +1,1 @@
-var mnemonic = "devote frozen bundle net lock pave need wife milk void believe arrest";
+var mnemonic = "actress feel awful include pear view sunny glimpse hope visit result sniff";

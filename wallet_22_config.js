@@ -1,1 +1,1 @@
-var mnemonic = "atom cement timber daring family elbow mix amazing critic other quit twin";
+var mnemonic = "thumb bleak night zebra bird spray math flower mind expand right notice";

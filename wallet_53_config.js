@@ -1,1 +1,1 @@
-var mnemonic = "carbon carry demand feature coyote devote scrap define glass cherry process village";
+var mnemonic = "differ always concert coyote faint call squirrel addict tennis inquiry position excite";

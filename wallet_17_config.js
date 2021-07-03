@@ -1,1 +1,1 @@
-var mnemonic = "sort wrestle slim step congress collect grab expire police pig liar abuse";
+var mnemonic = "differ pluck unlock theme chase space host believe essay fox silk worth";

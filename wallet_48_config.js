@@ -1,1 +1,1 @@
-var mnemonic = "add bubble cinnamon current attend steel fiber armed sentence away march liquid";
+var mnemonic = "enforce achieve assault regular brand shoulder exile equal speak absent cargo suit";

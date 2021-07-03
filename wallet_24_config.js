@@ -1,1 +1,1 @@
-var mnemonic = "sauce nest across run reduce quantum year private tattoo electric black push";
+var mnemonic = "view bone loop above car cable iron hunt law toast jacket army";

@@ -1,1 +1,1 @@
-var mnemonic = "bright pupil toilet tenant garlic often cover dash shift illness capital crush";
+var mnemonic = "home castle hazard airport water october bind ask pride arrest math all";

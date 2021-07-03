@@ -1,1 +1,1 @@
-var mnemonic = "camera gap season clump catch purse figure cash fly canyon century head";
+var mnemonic = "feed verb reunion recipe image leopard emerge piano junk pluck knee nature";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly cloud trust cargo crumble fragile sound display witness whip luggage ostrich";
+var mnemonic = "lady number velvet snow observe wrong number album fatal unknown repair basket";

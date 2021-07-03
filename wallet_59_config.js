@@ -1,1 +1,1 @@
-var mnemonic = "cousin jump tuna ceiling media clump labor oil enforce clap furnace city";
+var mnemonic = "response floor menu visual script gorilla forward torch erase token panther share";

@@ -1,1 +1,1 @@
-var mnemonic = "leader stamp outside joke orbit start imitate earn detail member mountain dice";
+var mnemonic = "lion sudden position extra sight real park call identify scale science weasel";

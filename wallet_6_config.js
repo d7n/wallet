@@ -1,1 +1,1 @@
-var mnemonic = "quality minute south trouble correct gift clog wife lens stick wrong solid";
+var mnemonic = "record then million type rate mule pretty bracket clean rice soldier among";

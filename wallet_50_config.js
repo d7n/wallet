@@ -1,1 +1,1 @@
-var mnemonic = "nation demise bar blast life enjoy improve noble scorpion buyer elite health";
+var mnemonic = "host victory board moon alcohol sight wear credit powder title ramp hour";

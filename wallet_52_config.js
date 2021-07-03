@@ -1,1 +1,1 @@
-var mnemonic = "cart fun private stamp glory rural bulb exhaust donor liberty open shift";
+var mnemonic = "response wolf mobile meadow trend bless steel alert galaxy wheel ancient perfect";

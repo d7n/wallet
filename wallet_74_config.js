@@ -1,1 +1,1 @@
-var mnemonic = "surface blade chase west wisdom pole swarm drill embrace when honey spread";
+var mnemonic = "bike destroy talent grab outer where ramp cactus fault pride move disorder";

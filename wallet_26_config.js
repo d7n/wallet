@@ -1,1 +1,1 @@
-var mnemonic = "vivid club offer gossip dizzy puzzle amateur oyster involve cram tattoo spray";
+var mnemonic = "fringe end fine satoshi burst invite pony act great offer wash urge";

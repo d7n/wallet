@@ -1,1 +1,1 @@
-var mnemonic = "visit fan aerobic possible athlete cotton inspire donate illegal gold firm gap";
+var mnemonic = "uphold raccoon library crawl sand close spring muscle immune violin hope salon";

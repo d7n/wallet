@@ -1,1 +1,1 @@
-var mnemonic = "frost chase champion duty garbage dance save bitter decrease confirm excuse embark";
+var mnemonic = "cluster drive chaos excuse kiwi shine purchase wife volcano cause grant swallow";

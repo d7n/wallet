@@ -1,1 +1,1 @@
-var mnemonic = "credit muffin bring polar among child punch report captain dice unhappy firm";
+var mnemonic = "long legal clinic mountain noodle tattoo sentence faith slim exist employ squirrel";

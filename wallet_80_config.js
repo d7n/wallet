@@ -1,1 +1,1 @@
-var mnemonic = "tongue cash ready topple slogan upon shiver yellow silly middle ship total";
+var mnemonic = "theory among outer hole slab wear penalty room saddle shy notice forum";

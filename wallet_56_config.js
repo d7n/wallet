@@ -1,1 +1,1 @@
-var mnemonic = "drastic quick metal total laundry secret dream bachelor exhibit sister innocent amateur";
+var mnemonic = "heart mercy cousin initial plastic illegal rabbit degree elephant what siege north";

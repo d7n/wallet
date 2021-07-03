@@ -1,1 +1,1 @@
-var mnemonic = "evolve awful swamp drip torch lunch load open regret license zoo twist";
+var mnemonic = "merit blue view side eight repair picnic ecology summer clay bundle trade";

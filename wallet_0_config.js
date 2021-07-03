@@ -1,1 +1,1 @@
-var mnemonic = "path foot save unveil lazy frost negative nice expire runway antenna cricket";
+var mnemonic = "bamboo win tumble inject pluck finger thunder economy churn title able climb";

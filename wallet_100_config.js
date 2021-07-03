@@ -1,1 +1,1 @@
-var mnemonic = "enemy blast song tone dance bounce grid congress orbit cotton coyote increase";
+var mnemonic = "witness pen local grunt clock powder alert hazard woman quiz hen pretty";

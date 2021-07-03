@@ -1,1 +1,1 @@
-var mnemonic = "seat what kind crisp wrap body begin priority dune master sunset meat";
+var mnemonic = "glass since sheriff company stand potato jeans build vocal deer hungry used";

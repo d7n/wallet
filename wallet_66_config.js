@@ -1,1 +1,1 @@
-var mnemonic = "reunion negative mountain punch spider special ugly slow purse speak entire print";
+var mnemonic = "strike floor hold later poem slush fence vintage useful little dwarf vague";

@@ -1,1 +1,1 @@
-var mnemonic = "almost sudden same fatal useful buyer fragile interest arrest inquiry wife elite";
+var mnemonic = "priority scheme similar trim shove sausage sound become trend hair rally honey";

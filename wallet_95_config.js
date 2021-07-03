@@ -1,1 +1,1 @@
-var mnemonic = "limb wash all media output level recipe group fiction stay leaf movie";
+var mnemonic = "ranch burden give group verb major excite advice hub basket dismiss wise";

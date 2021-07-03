@@ -1,1 +1,1 @@
-var mnemonic = "ahead winter disagree need sail double begin tattoo work fancy stool symbol";
+var mnemonic = "lunch loan runway repeat rival cash pencil raven hazard gossip eye pig";

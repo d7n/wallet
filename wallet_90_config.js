@@ -1,1 +1,1 @@
-var mnemonic = "mirror security proud gun paddle tuna girl equal poet kid tag parrot";
+var mnemonic = "fame vote network online student nut visit melody whip because sick fit";

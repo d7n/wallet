@@ -1,1 +1,1 @@
-var mnemonic = "lamp student service drama winter ostrich reflect live outdoor decline thing depth";
+var mnemonic = "tank delay entire daughter wild drum style fence clean cliff love model";

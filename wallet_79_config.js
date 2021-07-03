@@ -1,1 +1,1 @@
-var mnemonic = "dog then just sword turn peace hedgehog bullet pole guilt eagle cigar";
+var mnemonic = "someone supply slice kingdom fly friend boss cabbage beef jump arrive alert";

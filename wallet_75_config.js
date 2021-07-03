@@ -1,1 +1,1 @@
-var mnemonic = "middle fetch start coyote ticket deposit license laugh swamp inform beauty people";
+var mnemonic = "fault surface frown fit cloud moment during denial lounge health shy congress";

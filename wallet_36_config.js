@@ -1,1 +1,1 @@
-var mnemonic = "proud pilot dumb choose payment tiny tongue column cage neutral night wrestle";
+var mnemonic = "unit major innocent rich hire normal aim quick near frequent jacket north";

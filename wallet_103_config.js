@@ -1,1 +1,1 @@
-var mnemonic = "submit armor theme company repeat kidney oak oppose wheat charge little stage";
+var mnemonic = "enhance learn kiss want excess tuition still eternal matrix lucky rapid truth";

@@ -1,1 +1,1 @@
-var mnemonic = "exit tray level slight knee usual fox message robot undo brief wage";
+var mnemonic = "gentle share jungle possible chat infant off banana domain fix airport rose";

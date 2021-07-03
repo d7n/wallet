@@ -1,1 +1,1 @@
-var mnemonic = "mandate exchange bomb trial stay color tissue glide much solar fiscal artwork";
+var mnemonic = "become sauce neither jewel endless cry script uncle pact inflict runway brand";

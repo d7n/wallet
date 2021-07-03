@@ -1,1 +1,1 @@
-var mnemonic = "blue bitter dad wine laundry armor raccoon squeeze recall office crowd client";
+var mnemonic = "fabric evoke whale piece view one zebra mammal hunt code rose output";

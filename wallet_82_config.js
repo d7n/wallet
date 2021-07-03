@@ -1,1 +1,1 @@
-var mnemonic = "december grant harsh clean stamp staff half armor almost cash high fee";
+var mnemonic = "orchard party betray marble bind miracle already plug dilemma park pig clutch";

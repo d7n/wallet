@@ -1,1 +1,1 @@
-var mnemonic = "tide old glad evolve again head iron usage object permit napkin flash";
+var mnemonic = "skull toward donate output pretty history pet grunt library brush spatial seat";

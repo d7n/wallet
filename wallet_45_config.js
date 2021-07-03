@@ -1,1 +1,1 @@
-var mnemonic = "trial drama tumble output unaware february they void occur group angle clown";
+var mnemonic = "believe foot midnight raw upon smooth blanket imitate truck ladder protect coffee";

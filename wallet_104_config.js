@@ -1,1 +1,1 @@
-var mnemonic = "furnace initial intact million eternal exercise view stock party wait aspect unaware";
+var mnemonic = "subway result river number frog refuse joke sugar consider magic chronic amateur";

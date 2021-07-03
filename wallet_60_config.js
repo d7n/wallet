@@ -1,1 +1,1 @@
-var mnemonic = "style public solar usage suspect disease setup gain topple travel quote museum";
+var mnemonic = "thank comfort select legend model erode believe message vote clip describe slab";

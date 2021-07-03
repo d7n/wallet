@@ -1,1 +1,1 @@
-var mnemonic = "kitten mixed element trophy source dentist this depart chalk agent all head";
+var mnemonic = "region plug clog clean labor add lift crucial exist tower strategy guitar";

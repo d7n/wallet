@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow miracle ginger clinic oak exile human airport clever radio velvet choice";
+var mnemonic = "pet scene join ozone family script destroy lake sing erupt lamp cargo";

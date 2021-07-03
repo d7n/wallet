@@ -1,1 +1,1 @@
-var mnemonic = "summer ceiling stable rain climb action idle warrior tragic slam grain blue";
+var mnemonic = "wealth daughter voice squirrel pottery crucial person cradle situate isolate buffalo order";

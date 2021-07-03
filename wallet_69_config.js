@@ -1,1 +1,1 @@
-var mnemonic = "odor favorite real depend sister network mandate crunch april bean pave target";
+var mnemonic = "food gate chimney future amount globe width alien since frown river twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "couch life kind during power sentence exile copy nerve horn jeans style";
+var mnemonic = "main gorilla ritual bring series search shift cream play best suspect powder";

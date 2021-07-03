@@ -1,1 +1,1 @@
-var mnemonic = "then apology sick anger detail blossom deliver muffin blossom chimney oppose decline";
+var mnemonic = "candy truth inject swear gold brisk lady flush silk panther rabbit glass";

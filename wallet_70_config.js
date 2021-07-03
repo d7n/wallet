@@ -1,1 +1,1 @@
-var mnemonic = "street pioneer dove dice deny tomato pizza crew diesel butter shoe garage";
+var mnemonic = "wreck receive goose leaf crew ticket bag ancient dwarf space loyal group";

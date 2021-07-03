@@ -1,1 +1,1 @@
-var mnemonic = "address dream addict group remain wear piece joke stamp office bless dress";
+var mnemonic = "shine stamp always foster will inquiry hurdle pudding antique escape beauty table";

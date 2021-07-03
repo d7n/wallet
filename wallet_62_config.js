@@ -1,1 +1,1 @@
-var mnemonic = "talk rapid join fun payment approve throw crowd palm moral arctic beauty";
+var mnemonic = "attack champion robust future vital gospel exercise snow park fame purchase discover";

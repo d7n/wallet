@@ -1,1 +1,1 @@
-var mnemonic = "toy moon whisper there disorder story return olive visit person cement shift";
+var mnemonic = "remind stadium antenna region music example apart high bread habit appear around";

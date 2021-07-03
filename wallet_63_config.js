@@ -1,1 +1,1 @@
-var mnemonic = "kind plate tooth two certain gym moon cancel ethics high bench require";
+var mnemonic = "people rare rebuild smooth shock gaze chunk scheme when toast peace carbon";

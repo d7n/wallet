@@ -1,1 +1,1 @@
-var mnemonic = "hole reflect afraid blue just plug spider design share zone cattle glass";
+var mnemonic = "monitor more impose enforce road secret radar doll moral oxygen reunion win";

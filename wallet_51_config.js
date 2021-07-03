@@ -1,1 +1,1 @@
-var mnemonic = "egg plastic angry middle primary dad toy fresh goddess such pelican sting";
+var mnemonic = "opera envelope quote often combine favorite dirt enable word surround already smile";

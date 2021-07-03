@@ -1,1 +1,1 @@
-var mnemonic = "empty tongue asset globe ten impose clip cat book notable merit cupboard";
+var mnemonic = "barrel tent fly robot edit brick grass find board enrich road scare";

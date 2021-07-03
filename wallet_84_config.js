@@ -1,1 +1,1 @@
-var mnemonic = "okay high squeeze food tail ivory nurse funny depth acquire coral emotion";
+var mnemonic = "now siren web outside orchard use begin food myself blind ranch divorce";

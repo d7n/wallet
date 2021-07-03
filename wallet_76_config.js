@@ -1,1 +1,1 @@
-var mnemonic = "boost word table record casual fancy grace portion hidden brown whale holiday";
+var mnemonic = "puppy chunk mother paddle omit sight midnight type access giant private rather";

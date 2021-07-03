@@ -1,1 +1,1 @@
-var mnemonic = "grab hero marble lava bronze private scheme stock tone silver wolf march";
+var mnemonic = "pool broken spend pumpkin high short apology ring zone pretty hard easily";

@@ -1,1 +1,1 @@
-var mnemonic = "cart spy fall primary dune lobster wild industry super reflect peace wrist";
+var mnemonic = "evil bless honey stock cause buddy fence theme describe essay stove arm";

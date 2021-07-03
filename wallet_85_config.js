@@ -1,1 +1,1 @@
-var mnemonic = "immense column wine pride length track replace umbrella avocado pioneer tiny elevator";
+var mnemonic = "report inhale seek copper verify napkin soup extend culture grain rate oxygen";

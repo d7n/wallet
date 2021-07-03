@@ -1,1 +1,1 @@
-var mnemonic = "atom stomach squeeze soft night hammer enable egg post pen local grain";
+var mnemonic = "grunt radar column thumb impose turn use wine tourist real aware option";

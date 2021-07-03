@@ -1,1 +1,1 @@
-var mnemonic = "circle opinion peasant assist style ecology aunt metal abuse swear cage collect";
+var mnemonic = "palace portion indoor gaze ability angry initial exotic buffalo patient around athlete";

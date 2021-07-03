@@ -1,1 +1,1 @@
-var mnemonic = "either monitor view car bubble member reward issue famous yard dinosaur position";
+var mnemonic = "baby crawl drive comfort excess nose buddy push fit unfold april cry";
