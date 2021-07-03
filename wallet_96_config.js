@@ -1,1 +1,1 @@
-var mnemonic = "champion drink trap still toe trial ladder sound pyramid achieve ecology repeat";
+var mnemonic = "danger shoot robust once first law leg nothing bonus pudding stomach pilot";

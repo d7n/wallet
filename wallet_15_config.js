@@ -1,1 +1,1 @@
-var mnemonic = "news calm lion quit census apart typical design inform clever panel mistake";
+var mnemonic = "enable consider edge happy negative drama system suspect trumpet eagle that practice";

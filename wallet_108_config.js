@@ -1,1 +1,1 @@
-var mnemonic = "bomb imitate patrol promote heart lock abstract lonely spice stick license claw";
+var mnemonic = "matter bread pulse add life maple sweet swift group cloud panda solar";

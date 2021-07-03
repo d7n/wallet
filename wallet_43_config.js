@@ -1,1 +1,1 @@
-var mnemonic = "heavy exclude attitude quality album apart visa omit final board embrace rice";
+var mnemonic = "hotel behave senior outdoor creek festival drive flavor veteran champion help where";

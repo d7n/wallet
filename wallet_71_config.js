@@ -1,1 +1,1 @@
-var mnemonic = "shove unveil gravity acquire fish canoe crazy learn scare inspire honey forget";
+var mnemonic = "price major visa help predict juice chunk patient drop provide antenna picnic";

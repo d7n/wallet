@@ -1,1 +1,1 @@
-var mnemonic = "page border famous text party glimpse word aisle indoor puppy kite view";
+var mnemonic = "envelope clump smart moon grid shed chest banner anxiety loud census crawl";

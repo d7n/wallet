@@ -1,1 +1,1 @@
-var mnemonic = "what grit surround soccer club pulp omit into puzzle between harsh need";
+var mnemonic = "brain rifle surprise dawn dance emerge green route laptop empower world lab";

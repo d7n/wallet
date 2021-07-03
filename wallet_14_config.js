@@ -1,1 +1,1 @@
-var mnemonic = "chef promote ramp carbon car cable wash nerve nature mouse engine enact";
+var mnemonic = "moment slam agent sock ancient comfort stove annual resist initial day theme";

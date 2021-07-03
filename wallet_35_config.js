@@ -1,1 +1,1 @@
-var mnemonic = "remain run steel floor rhythm strategy phrase there verb method hurry slow";
+var mnemonic = "power size aisle device vintage cage recycle purchase attend check soup prize";

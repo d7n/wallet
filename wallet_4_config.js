@@ -1,1 +1,1 @@
-var mnemonic = "become script space wine robust guilt approve amused maid degree board leg";
+var mnemonic = "trap pelican play lawn twice own draw soon depth apple snake innocent";

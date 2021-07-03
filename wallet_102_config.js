@@ -1,1 +1,1 @@
-var mnemonic = "grow pride speed legal turn token fame error wine skate sudden raccoon";
+var mnemonic = "loan genuine upset gold virus sniff note cousin mix error choose random";

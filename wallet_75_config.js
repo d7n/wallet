@@ -1,1 +1,1 @@
-var mnemonic = "retreat gap boil category kiwi gate shiver alert wish aerobic trumpet have";
+var mnemonic = "chuckle detect pulp system clever check wet fitness hazard frog half know";

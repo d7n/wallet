@@ -1,1 +1,1 @@
-var mnemonic = "disease bright bright then cricket silent erase thank sketch reopen save above";
+var mnemonic = "coil penalty summer coconut paddle body neglect derive pony tenant sound civil";

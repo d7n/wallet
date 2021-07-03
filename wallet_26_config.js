@@ -1,1 +1,1 @@
-var mnemonic = "level rose captain knee tunnel damp slot bounce century recall course elder";
+var mnemonic = "decide web spatial case glide deny coffee old party clinic sign example";

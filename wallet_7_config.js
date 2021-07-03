@@ -1,1 +1,1 @@
-var mnemonic = "they front diary slim regular raven carbon exclude script table impact hybrid";
+var mnemonic = "discover faith zebra lava slogan card powder oblige axis basket melt blue";

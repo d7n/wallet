@@ -1,1 +1,1 @@
-var mnemonic = "toward chicken leisure split lucky marine employ action mountain advance crime purity";
+var mnemonic = "maze film wealth humor write sauce raw change cover point trumpet pink";

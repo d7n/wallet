@@ -1,1 +1,1 @@
-var mnemonic = "because always suggest two tunnel fork goat polar sweet domain often tobacco";
+var mnemonic = "deputy diesel foot fix floor volume fiber bundle people pipe tornado surface";

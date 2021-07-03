@@ -1,1 +1,1 @@
-var mnemonic = "sausage clog smoke rapid pretty various elder science truth make post deposit";
+var mnemonic = "trim inside strike soft case around bird junk agent abuse identify dish";

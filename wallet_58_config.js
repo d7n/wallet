@@ -1,1 +1,1 @@
-var mnemonic = "hold skirt labor slogan broccoli device mix wise steel almost dream super";
+var mnemonic = "final blast dizzy cross other girl mind alpha hand magnet sight medal";

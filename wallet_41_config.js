@@ -1,1 +1,1 @@
-var mnemonic = "solution labor era topple bunker stadium stumble banner abstract music soccer index";
+var mnemonic = "near coconut unknown allow say lady soda snack budget winner scale cricket";

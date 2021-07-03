@@ -1,1 +1,1 @@
-var mnemonic = "ribbon city artwork draw near tape moment caught axis gauge cave banana";
+var mnemonic = "hood total lemon record lift renew laugh grace ticket seek blanket tornado";

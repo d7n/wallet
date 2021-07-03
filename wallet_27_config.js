@@ -1,1 +1,1 @@
-var mnemonic = "where sure pact prize undo deputy pottery deer transfer entry pelican relief";
+var mnemonic = "remain observe eternal lawn clerk long silly sentence huge summer search engine";

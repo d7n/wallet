@@ -1,1 +1,1 @@
-var mnemonic = "betray route spin when model net file hawk piece neglect notice thought";
+var mnemonic = "latin spend blossom column diagram extra crisp misery skate flame impulse stool";

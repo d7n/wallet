@@ -1,1 +1,1 @@
-var mnemonic = "hollow feature pulse unaware fashion vital soldier moment talent noise year obvious";
+var mnemonic = "art shove approve other address winner little romance acoustic among build color";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny edge slim crew foil hero road trouble evoke rib dwarf harbor";
+var mnemonic = "knife genuine person glare practice town cat sauce relax rely razor certain";

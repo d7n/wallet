@@ -1,1 +1,1 @@
-var mnemonic = "version enable debate swamp panic position because vehicle finger subject coach below";
+var mnemonic = "scatter pelican craft combine airport wrong love announce fee horn tray solid";

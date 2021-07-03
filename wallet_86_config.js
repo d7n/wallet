@@ -1,1 +1,1 @@
-var mnemonic = "canal aerobic chicken talk cement cart bulb future maze clean universe vague";
+var mnemonic = "laugh own wide couch crane sweet culture abuse barely ceiling man rigid";

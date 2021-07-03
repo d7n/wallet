@@ -1,1 +1,1 @@
-var mnemonic = "draft assume creek present moon faint weird coral fitness finish crew fish";
+var mnemonic = "grief park until adult retreat offer toe burden mechanic indicate advance goddess";

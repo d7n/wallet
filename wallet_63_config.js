@@ -1,1 +1,1 @@
-var mnemonic = "equip please zone three tell leader hover spike ordinary fabric able risk";
+var mnemonic = "raise tissue audit marriage depth crew prevent lumber sustain harbor exit immune";

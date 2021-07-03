@@ -1,1 +1,1 @@
-var mnemonic = "bean ahead toy staff upgrade dilemma find like elephant seven just awful";
+var mnemonic = "trim carbon check cute kingdom ignore ship cement uncover nothing donor place";

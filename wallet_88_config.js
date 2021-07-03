@@ -1,1 +1,1 @@
-var mnemonic = "flash fuel admit rhythm excess interest hen soldier grass monster track forest";
+var mnemonic = "slim absurd record vital electric autumn network hand impulse shield model learn";

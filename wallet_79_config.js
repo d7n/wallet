@@ -1,1 +1,1 @@
-var mnemonic = "drastic dilemma quick merit dawn wool fossil tray budget flee inmate hammer";
+var mnemonic = "design observe immense boss term elite young glue inspire wash fog farm";

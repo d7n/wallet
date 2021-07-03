@@ -1,1 +1,1 @@
-var mnemonic = "solid other habit creek airport endless person lava theme super fashion model";
+var mnemonic = "badge sport rookie fragile swim tree security audit chest shift crawl purpose";

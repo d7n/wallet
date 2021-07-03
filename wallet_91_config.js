@@ -1,1 +1,1 @@
-var mnemonic = "cost any pen pottery rent marine wrap law salmon laundry relax only";
+var mnemonic = "observe safe grief ability column purity soap around either list foot body";

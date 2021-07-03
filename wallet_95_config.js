@@ -1,1 +1,1 @@
-var mnemonic = "phone blast recipe midnight spoil antique police wall celery perfect void audit";
+var mnemonic = "video organ fragile where inside fire else nature box cradle feed cool";

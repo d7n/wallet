@@ -1,1 +1,1 @@
-var mnemonic = "figure slam among fame alcohol flip few alter shaft exact still betray";
+var mnemonic = "food token oxygen lunch track damp derive cannon sport blame ugly wish";

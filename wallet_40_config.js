@@ -1,1 +1,1 @@
-var mnemonic = "yellow beef burger this attitude radio pass eight east repair royal toss";
+var mnemonic = "foam eyebrow pond phone bridge vote betray write space eager lunar moment";

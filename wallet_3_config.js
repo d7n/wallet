@@ -1,1 +1,1 @@
-var mnemonic = "donkey puzzle sibling pelican teach fragile brave flight craft method naive aisle";
+var mnemonic = "sell churn exclude lonely stadium patch menu attack cattle patient scatter quantum";

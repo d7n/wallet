@@ -1,1 +1,1 @@
-var mnemonic = "primary square spread appear thumb clog year stadium bounce duty canvas that";
+var mnemonic = "ceiling vivid bunker reduce diamond deposit peasant nominee knife cliff boost kitchen";

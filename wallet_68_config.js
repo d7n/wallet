@@ -1,1 +1,1 @@
-var mnemonic = "orange dinner warfare pig prepare where rate gain priority maple swamp mandate";
+var mnemonic = "story dad wonder lava wine joy wine fun welcome wasp dish fossil";

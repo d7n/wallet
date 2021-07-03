@@ -1,1 +1,1 @@
-var mnemonic = "wine punch eager fine olive devote blue stamp myself stem cricket throw";
+var mnemonic = "picture pause burst mom broccoli foam omit increase observe calm meadow fantasy";

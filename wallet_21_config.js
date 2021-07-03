@@ -1,1 +1,1 @@
-var mnemonic = "vibrant reform open nominee nasty gym build enhance invest addict grass glide";
+var mnemonic = "valley betray fatigue grace sauce uncle ocean dune broom room drum small";

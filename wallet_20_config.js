@@ -1,1 +1,1 @@
-var mnemonic = "hole mechanic eagle hotel dream rotate tourist humble enroll vehicle avocado mixture";
+var mnemonic = "zone glass attack stool dish pull dash online mushroom torch shoot improve";

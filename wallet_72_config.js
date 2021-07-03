@@ -1,1 +1,1 @@
-var mnemonic = "ensure disagree wink laptop parent main educate strong result child lounge poverty";
+var mnemonic = "upset link call waste library gravity bachelor secret amazing skate wrist clump";

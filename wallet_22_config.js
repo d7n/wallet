@@ -1,1 +1,1 @@
-var mnemonic = "noodle chapter thought help ordinary early hurdle parent music skirt venture palace";
+var mnemonic = "image stadium front thrive winner fashion chalk this poverty second february ladder";

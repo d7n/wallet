@@ -1,1 +1,1 @@
-var mnemonic = "deliver parade shed flip affair chuckle expect color between goose acquire universe";
+var mnemonic = "pipe inquiry you globe almost lesson bullet caught soccer cement patrol hill";

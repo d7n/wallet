@@ -1,1 +1,1 @@
-var mnemonic = "item father focus relief such science success seven reduce tiger process industry";
+var mnemonic = "weekend skirt clown goat spoon sort cargo breeze mushroom sad vibrant tank";

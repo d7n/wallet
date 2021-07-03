@@ -1,1 +1,1 @@
-var mnemonic = "maple face zone trap jungle giraffe basic cycle video walk drip people";
+var mnemonic = "journey throw label kind debate journey leave supply night about antenna faint";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil switch teach between damp page innocent program tuition soul olympic define";
+var mnemonic = "web dry opinion envelope tree employ minute object alarm news lumber unable";

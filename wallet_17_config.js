@@ -1,1 +1,1 @@
-var mnemonic = "candy tone concert remain possible honey beef zoo video pair major drama";
+var mnemonic = "casino ability pear forest buffalo noise review brave have crunch punch once";

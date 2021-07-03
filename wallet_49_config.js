@@ -1,1 +1,1 @@
-var mnemonic = "faith jungle dolphin decade face panda pioneer play scan boil turkey swift";
+var mnemonic = "certain enhance move enroll artwork illegal panic bleak motor laugh over timber";

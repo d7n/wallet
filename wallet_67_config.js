@@ -1,1 +1,1 @@
-var mnemonic = "cancel dwarf cube exhaust board athlete guilt reunion casino symptom runway candy";
+var mnemonic = "spring kid lawn unfold concert pair field isolate any spread palm quality";

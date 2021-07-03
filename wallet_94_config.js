@@ -1,1 +1,1 @@
-var mnemonic = "story clap receive nose planet stairs come rate rail police detect split";
+var mnemonic = "nose inside all pizza goat way virus rice only tortoise pyramid able";

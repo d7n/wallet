@@ -1,1 +1,1 @@
-var mnemonic = "awesome horse surprise brother broccoli sibling crunch limit finish prize gaze vanish";
+var mnemonic = "life document copy member age warrior bracket evolve slight extend devote cabbage";

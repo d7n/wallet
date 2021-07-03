@@ -1,1 +1,1 @@
-var mnemonic = "subway away upset embody taste hedgehog tip pilot typical vibrant year divorce";
+var mnemonic = "reveal liquid vapor gun bench hold intact boring proud popular scorpion rhythm";

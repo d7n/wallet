@@ -1,1 +1,1 @@
-var mnemonic = "style student emotion title glory antique awful cook mind day pond shrimp";
+var mnemonic = "allow raven crane almost adjust erupt police garden aspect hospital off gift";

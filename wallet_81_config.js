@@ -1,1 +1,1 @@
-var mnemonic = "element whip consider spirit only appear spoon spread reopen chapter cereal thumb";
+var mnemonic = "faith finish hill method chicken galaxy ten flight erosion dutch speed explain";

@@ -1,1 +1,1 @@
-var mnemonic = "brand universe start differ tourist agree ritual thunder mimic rebel require hole";
+var mnemonic = "excuse fall guilt small napkin orbit fever script soap smooth often dwarf";

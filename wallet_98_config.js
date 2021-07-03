@@ -1,1 +1,1 @@
-var mnemonic = "myth quantum egg stamp laugh insect flat copper forget tree luxury mask";
+var mnemonic = "exhibit more armor skate victory immense museum swift crane blast connect wheel";

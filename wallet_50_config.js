@@ -1,1 +1,1 @@
-var mnemonic = "clarify design climb visual cradle shell ski flavor maze hotel spare frown";
+var mnemonic = "ancient ostrich into treat then myself basic another hurdle embrace smoke resemble";

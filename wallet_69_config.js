@@ -1,1 +1,1 @@
-var mnemonic = "torch brief suffer hand festival garden pen accident win ancient nose home";
+var mnemonic = "despair camera patch between rebel reflect speed maximum urge lonely sentence episode";

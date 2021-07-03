@@ -1,1 +1,1 @@
-var mnemonic = "ecology noble crop mistake merit detect ethics already enemy disagree clarify order";
+var mnemonic = "upset become device fade fit medal turn public salmon mix crowd medal";

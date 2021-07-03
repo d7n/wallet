@@ -1,1 +1,1 @@
-var mnemonic = "work shift cat deposit female taxi shiver someone cliff they barrel daughter";
+var mnemonic = "phrase angle planet convince remind artist sick supreme flat afraid average ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "hub again blur vital eyebrow train again bundle ugly law outside sail";
+var mnemonic = "corn comfort monster sorry position adult candy scale produce secret tenant custom";

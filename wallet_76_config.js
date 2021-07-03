@@ -1,1 +1,1 @@
-var mnemonic = "super crisp evolve cross fish adapt woman jewel royal diary force mansion";
+var mnemonic = "weird unusual auto better lobster shrug lemon wise license lawsuit promote harsh";

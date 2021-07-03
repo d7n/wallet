@@ -1,1 +1,1 @@
-var mnemonic = "issue small vast ship tackle castle weekend damp inflict disagree south spread";
+var mnemonic = "juice guard rotate raise power federal board capital answer spin fitness short";

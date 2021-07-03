@@ -1,1 +1,1 @@
-var mnemonic = "slow slab catch ostrich dress reject end boat roast outer divert diary";
+var mnemonic = "angle agree faculty girl tobacco crisp vault immune mandate coral half private";

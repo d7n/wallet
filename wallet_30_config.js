@@ -1,1 +1,1 @@
-var mnemonic = "bird jeans original same raise accident disorder card coconut lunch token ancient";
+var mnemonic = "clarify dress demise carpet stool umbrella ceiling electric blossom rally genre stand";

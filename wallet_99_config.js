@@ -1,1 +1,1 @@
-var mnemonic = "panda lift find fish another cousin jealous jacket adjust category east senior";
+var mnemonic = "foam just enjoy stamp swift soda news gauge still fresh vote fragile";

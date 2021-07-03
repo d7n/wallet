@@ -1,1 +1,1 @@
-var mnemonic = "jungle scare visit camera upset era addict bamboo gap blush tell shock";
+var mnemonic = "antique amazing crouch arrest tongue palm rare coconut steak skull monkey arrange";

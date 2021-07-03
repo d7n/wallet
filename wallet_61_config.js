@@ -1,1 +1,1 @@
-var mnemonic = "notice couch shoot pipe horror empty sweet velvet remember holiday seed stand";
+var mnemonic = "afraid nation tumble minute lake finger chapter view favorite anchor end index";

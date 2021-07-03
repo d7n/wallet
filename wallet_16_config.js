@@ -1,1 +1,1 @@
-var mnemonic = "catalog purpose breeze wish wealth during prosper this sort unknown motor park";
+var mnemonic = "tuna mutual onion upon there obey pulse soul item evoke violin morning";

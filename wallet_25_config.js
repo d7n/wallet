@@ -1,1 +1,1 @@
-var mnemonic = "skate wheel worry clutch people under leg false paper venue parrot random";
+var mnemonic = "page this blouse soldier slush uphold order unaware agree kit swallow need";

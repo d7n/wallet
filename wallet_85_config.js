@@ -1,1 +1,1 @@
-var mnemonic = "hammer sight offer enter more sail letter hello once height elephant crystal";
+var mnemonic = "derive million swallow law balcony sock hazard mix zebra oil scan exclude";

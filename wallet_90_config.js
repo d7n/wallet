@@ -1,1 +1,1 @@
-var mnemonic = "happy today fetch edit crouch mosquito addict what crystal puzzle muscle tool";
+var mnemonic = "moral slim settle tone urban remind price rose vanish behave yellow goose";

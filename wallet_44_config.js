@@ -1,1 +1,1 @@
-var mnemonic = "mask draft next brand flush juice lock join involve anchor system day";
+var mnemonic = "napkin meadow twin there apology skill wrist initial amused cabbage seek tobacco";

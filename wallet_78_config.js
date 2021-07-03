@@ -1,1 +1,1 @@
-var mnemonic = "assault river fine supply few sheriff memory cash aim scorpion valley critic";
+var mnemonic = "seat route style try minor element gauge drop void neck side exercise";

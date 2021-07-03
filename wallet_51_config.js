@@ -1,1 +1,1 @@
-var mnemonic = "april gaze fence shuffle manage final island scout tragic physical salute amused";
+var mnemonic = "scatter isolate oyster aware daughter sorry misery cotton truth rigid mandate adjust";

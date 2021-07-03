@@ -1,1 +1,1 @@
-var mnemonic = "stem slice warfare exit team east near engine afford young library another";
+var mnemonic = "exhaust right cave cover mask lecture wrap plunge moon trip hurry know";

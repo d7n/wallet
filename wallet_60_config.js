@@ -1,1 +1,1 @@
-var mnemonic = "concert zero spawn cactus include pitch answer dance syrup include cheese scale";
+var mnemonic = "behave avocado height increase ill curtain unfold clinic clay hire rabbit short";

@@ -1,1 +1,1 @@
-var mnemonic = "hen excess churn vague park junk naive sand morning mechanic guard ivory";
+var mnemonic = "hover common you world symbol artist cricket magic airport winter box exit";

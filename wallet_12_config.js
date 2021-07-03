@@ -1,1 +1,1 @@
-var mnemonic = "matrix immune dizzy zebra company afford electric visual demand grape hour belt";
+var mnemonic = "stomach wall pretty acid group twist tunnel woman laptop seek donate wire";

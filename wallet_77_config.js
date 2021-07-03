@@ -1,1 +1,1 @@
-var mnemonic = "half search ceiling phrase visit excite guide car direct baby poem mom";
+var mnemonic = "slab soft kind suspect tattoo hour climb swear shallow giggle input census";

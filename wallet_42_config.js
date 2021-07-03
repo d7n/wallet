@@ -1,1 +1,1 @@
-var mnemonic = "special panel caught grass cluster pink field night marble produce churn fortune";
+var mnemonic = "post talk fun increase enter bundle hidden solar wreck index recycle access";

@@ -1,1 +1,1 @@
-var mnemonic = "way rug snap solid near uncover chaos uniform shoulder tragic naive cool";
+var mnemonic = "spot bone merry major thrive way cook wagon pelican edge all potato";

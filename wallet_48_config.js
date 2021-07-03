@@ -1,1 +1,1 @@
-var mnemonic = "castle air motion lemon tip amount elegant lens board horse indicate still";
+var mnemonic = "minimum major kid will exchange exchange truth walk syrup degree toilet perfect";
