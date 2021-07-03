@@ -1,1 +1,1 @@
-var mnemonic = "senior depth easy point ethics awake medal urge wisdom pave doll sketch";
+var mnemonic = "match result airport render scan virus rubber verb still lazy lake rich";

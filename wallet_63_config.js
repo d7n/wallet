@@ -1,1 +1,1 @@
-var mnemonic = "heart age tip west genius screen way story engage spray salon winner";
+var mnemonic = "under mesh little fee girl orbit draw dance forest monkey undo crystal";

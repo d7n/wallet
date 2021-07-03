@@ -1,1 +1,1 @@
-var mnemonic = "pen fence worth parade eager harbor verb diamond route detail afford cream";
+var mnemonic = "audit chief wise evolve since army dilemma quarter ten dwarf able crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "empower jeans magnet climb abstract output powder sell coconut lesson stomach furnace";
+var mnemonic = "title sleep elbow alpha ketchup envelope crystal genuine spike estate transfer barrel";

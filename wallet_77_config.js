@@ -1,1 +1,1 @@
-var mnemonic = "amused matrix work cherry chat pencil gown fence custom neck cube club";
+var mnemonic = "diesel toe ranch dove good used guilt tackle image danger boring snack";

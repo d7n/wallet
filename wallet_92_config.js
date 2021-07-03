@@ -1,1 +1,1 @@
-var mnemonic = "vocal scrap hard old extend horror select guide capital until autumn tobacco";
+var mnemonic = "spy trash enemy animal tackle bless evidence boss sentence hip all survey";

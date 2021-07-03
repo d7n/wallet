@@ -1,1 +1,1 @@
-var mnemonic = "impact mystery exercise approve dress pyramid ill round earth dad spice unknown";
+var mnemonic = "lemon vague carry fade junior seven humble flag control derive useless churn";

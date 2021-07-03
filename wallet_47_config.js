@@ -1,1 +1,1 @@
-var mnemonic = "enough beef hurt relax size caught budget priority album purpose chief latin";
+var mnemonic = "scrap length forward devote art faith like change sudden crush rookie blouse";

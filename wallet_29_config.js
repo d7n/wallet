@@ -1,1 +1,1 @@
-var mnemonic = "lens boat motor inmate burger aim apology snake second auto spoon cannon";
+var mnemonic = "daring amused review boring elbow mind feel armor true size trim armed";

@@ -1,1 +1,1 @@
-var mnemonic = "over plug mercy cluster border space stable minor fit rack discover hard";
+var mnemonic = "output weird what giraffe bullet detail memory online obey stadium leisure digital";

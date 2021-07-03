@@ -1,1 +1,1 @@
-var mnemonic = "sting type pill warrior soldier review math exhibit master away bus clinic";
+var mnemonic = "humble evolve mobile pudding guilt book link table defy cash curve renew";

@@ -1,1 +1,1 @@
-var mnemonic = "replace execute hurry network erupt cattle jump wisdom shock provide ripple honey";
+var mnemonic = "enter wait gun supply absorb mad omit obscure north machine guard until";

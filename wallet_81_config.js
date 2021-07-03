@@ -1,1 +1,1 @@
-var mnemonic = "tattoo sugar mouse cliff used name point secret right lottery health like";
+var mnemonic = "lucky rough tip hobby warrior session distance latin video skirt today cruise";

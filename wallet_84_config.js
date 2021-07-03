@@ -1,1 +1,1 @@
-var mnemonic = "drip concert orphan siege fold basket diagram home feature cry shine bless";
+var mnemonic = "merry cereal east snap night sniff exit bread fabric tail asset circle";

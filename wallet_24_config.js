@@ -1,1 +1,1 @@
-var mnemonic = "donor diet alien sponsor harvest frown net crucial success east priority magic";
+var mnemonic = "fruit kingdom praise man category nominee canyon damage tired joke burger circle";

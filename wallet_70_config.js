@@ -1,1 +1,1 @@
-var mnemonic = "try cloud put useless clerk drink employ bus license clock stand portion";
+var mnemonic = "crucial word install matter clock remind kitchen game slide board finish bleak";

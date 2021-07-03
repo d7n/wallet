@@ -1,1 +1,1 @@
-var mnemonic = "figure gain goddess deputy express skin salon bubble mimic feel thunder hockey";
+var mnemonic = "cool seed uniform mystery seat volume force juice winter world deer couch";

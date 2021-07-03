@@ -1,1 +1,1 @@
-var mnemonic = "phrase ice shift cry put discover glide increase super scheme hen ancient";
+var mnemonic = "office jaguar theme robust large master give enlist caution soap control leaf";

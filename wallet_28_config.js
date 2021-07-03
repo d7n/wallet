@@ -1,1 +1,1 @@
-var mnemonic = "horse monitor zone upset dynamic prison marriage sing outer include time miracle";
+var mnemonic = "drive train mystery tide tree tenant ball grid lab puzzle today try";

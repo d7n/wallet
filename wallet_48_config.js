@@ -1,1 +1,1 @@
-var mnemonic = "rose drill end parrot settle much plate theme eternal lake frequent food";
+var mnemonic = "surface ethics category flat wing raw city unknown industry regular morning absent";

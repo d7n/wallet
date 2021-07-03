@@ -1,1 +1,1 @@
-var mnemonic = "mosquito magic annual hint left erupt whisper cereal economy observe coffee kidney";
+var mnemonic = "other blast cousin kiwi switch inside output banana measure cross purse basic";

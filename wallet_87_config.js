@@ -1,1 +1,1 @@
-var mnemonic = "extra harvest blade favorite speak lawsuit spray crucial quick impulse slam mixed";
+var mnemonic = "celery depend promote dynamic deliver metal erase battle frozen ghost penalty three";

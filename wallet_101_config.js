@@ -1,1 +1,1 @@
-var mnemonic = "cycle final control unfold kick now spike drum add gadget fine catalog";
+var mnemonic = "fee ozone gossip rebel lawn fatal fatal print liar trip trade artist";

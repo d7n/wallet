@@ -1,1 +1,1 @@
-var mnemonic = "supreme vital version talk drill spread skull sing reject glance hand indoor";
+var mnemonic = "coconut bacon open real clinic bless second perfect notable describe person novel";

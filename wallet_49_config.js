@@ -1,1 +1,1 @@
-var mnemonic = "current goose season cigar panther another guide sunset clay enough column vivid";
+var mnemonic = "hub cheese glory skate nerve hip occur behave dad repeat history slow";

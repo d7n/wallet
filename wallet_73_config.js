@@ -1,1 +1,1 @@
-var mnemonic = "spare junior burger dentist alcohol slide soul unique license clutch crowd demand";
+var mnemonic = "elder connect gas brother spirit snack identify miss bracket chest biology sea";

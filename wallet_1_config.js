@@ -1,1 +1,1 @@
-var mnemonic = "heart write exotic slogan cotton size mechanic robot vacant among ability finger";
+var mnemonic = "monkey scan rude interest demand bread ostrich relief enable also regular hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "burger indoor choose truly duck rocket that token love fragile soda network";
+var mnemonic = "undo expect antenna voyage bottom push solid fog evoke father weird usage";

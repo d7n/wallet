@@ -1,1 +1,1 @@
-var mnemonic = "city worry favorite road toss vast essay diesel warm emotion urge vocal";
+var mnemonic = "silk symptom eight paddle vicious hero find dismiss defense unlock ginger shove";

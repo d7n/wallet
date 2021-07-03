@@ -1,1 +1,1 @@
-var mnemonic = "spot page spike mouse slide defense toilet dune author sentence tomorrow bulk";
+var mnemonic = "tape stomach amazing obey fitness can engine police survey industry soft average";

@@ -1,1 +1,1 @@
-var mnemonic = "wage input throw tonight judge quote wall top elite mirror chicken sight";
+var mnemonic = "puzzle nominee neglect lady pitch timber fragile birth ask ginger hospital sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "culture balcony discover soda distance forum rocket flower history arrow emerge reflect";
+var mnemonic = "amused brain surround cake home spoon curious collect hair spatial family kidney";

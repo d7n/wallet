@@ -1,1 +1,1 @@
-var mnemonic = "spatial sausage embody dolphin expect aim vault category method drift fruit draw";
+var mnemonic = "maple want rug amount oyster harvest milk apple depend favorite auto ostrich";

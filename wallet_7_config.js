@@ -1,1 +1,1 @@
-var mnemonic = "suggest tenant soccer cost pull enrich inside jaguar amazing grid pass exclude";
+var mnemonic = "stamp pepper obey popular album ridge plunge alcohol because east object escape";

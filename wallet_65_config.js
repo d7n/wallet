@@ -1,1 +1,1 @@
-var mnemonic = "fuel gadget wave evil junior moon very cannon beauty metal artist inspire";
+var mnemonic = "camera bone tilt gold tribe input jeans spare material giraffe galaxy antique";

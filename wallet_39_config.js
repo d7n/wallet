@@ -1,1 +1,1 @@
-var mnemonic = "holiday key damage name buddy ship lounge recall antenna enemy horror digital";
+var mnemonic = "crumble own accident piano fault dress scheme flee destroy nerve hybrid artefact";

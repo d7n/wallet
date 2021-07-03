@@ -1,1 +1,1 @@
-var mnemonic = "finish minor lock relief vacuum earn lava they hire goose edit sad";
+var mnemonic = "biology permit seed grocery unit twist type bullet usual settle supply mutual";

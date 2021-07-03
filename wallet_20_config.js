@@ -1,1 +1,1 @@
-var mnemonic = "swallow chalk yellow forest dinosaur sword casino garden worth lamp hint vendor";
+var mnemonic = "wait rifle bicycle please pool stomach cage envelope armed mimic never voyage";

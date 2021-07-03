@@ -1,1 +1,1 @@
-var mnemonic = "casual rebuild output pitch weird hen panic rare visa south salon easy";
+var mnemonic = "shy tell trip grit used success cushion fire moral reflect submit abstract";

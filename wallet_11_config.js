@@ -1,1 +1,1 @@
-var mnemonic = "bring keep barely crater top garlic broom shallow news joke priority unfold";
+var mnemonic = "dilemma aspect work faint disease all sunset bar rug beyond clock access";

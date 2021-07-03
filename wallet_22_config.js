@@ -1,1 +1,1 @@
-var mnemonic = "increase course helmet business census paper afford clap yard sphere rail warrior";
+var mnemonic = "umbrella update dumb mesh gain saddle bulk pair reflect tooth mechanic rubber";

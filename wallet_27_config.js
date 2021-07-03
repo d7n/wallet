@@ -1,1 +1,1 @@
-var mnemonic = "traffic orient suit silk antique salon only crush multiply dilemma wire palm";
+var mnemonic = "ranch pool raccoon renew salt kiwi rug ripple chaos hole error organ";

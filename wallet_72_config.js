@@ -1,1 +1,1 @@
-var mnemonic = "spoil laugh legend equip royal play doll glimpse example account vibrant hen";
+var mnemonic = "junior educate few school gain verify lake junior energy vital vital heavy";

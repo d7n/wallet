@@ -1,1 +1,1 @@
-var mnemonic = "entire flash traffic roof flip jelly arm globe certain april prize fan";
+var mnemonic = "master ball blossom sand pool fluid sing actor nominee puzzle lonely ill";

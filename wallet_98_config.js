@@ -1,1 +1,1 @@
-var mnemonic = "joy say valve ozone purchase symptom satoshi labor grid thank forget soon";
+var mnemonic = "morning oppose luggage divorce pluck layer random cement lens awkward course menu";

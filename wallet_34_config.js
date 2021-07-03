@@ -1,1 +1,1 @@
-var mnemonic = "pistol cause razor lawn secret diet tonight feature aisle joke mask local";
+var mnemonic = "vocal capable blanket thrive equal during autumn good trouble evolve slam since";

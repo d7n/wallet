@@ -1,1 +1,1 @@
-var mnemonic = "want spike veteran text wheel present tobacco fat brush brown travel drift";
+var mnemonic = "absent rebel normal student range soda tortoise lock army piece drum become";

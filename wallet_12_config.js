@@ -1,1 +1,1 @@
-var mnemonic = "capable blossom congress rescue neutral patch have borrow wood donkey decide weather";
+var mnemonic = "success flag common action penalty winner patch provide disorder identify silver pet";

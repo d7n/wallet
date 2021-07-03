@@ -1,1 +1,1 @@
-var mnemonic = "setup industry drip truth muffin cheap scene scissors episode prevent orient hungry";
+var mnemonic = "okay lizard grant remember supreme allow barely protect aisle apart measure away";

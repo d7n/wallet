@@ -1,1 +1,1 @@
-var mnemonic = "rival season merry blanket arrest soap garden settle bean general trigger menu";
+var mnemonic = "close fog exotic raw disorder paddle mom permit insect solution list because";

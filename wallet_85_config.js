@@ -1,1 +1,1 @@
-var mnemonic = "excite acoustic focus orbit loyal ring reason service local pumpkin embrace close";
+var mnemonic = "grocery slush ahead shuffle town exact kitchen segment below warm bone emerge";

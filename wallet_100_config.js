@@ -1,1 +1,1 @@
-var mnemonic = "trophy erupt pet immense wear tiny swear rate message copper only option";
+var mnemonic = "quarter enrich peace loud isolate food gain crawl laptop lucky scorpion nut";

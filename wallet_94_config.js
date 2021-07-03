@@ -1,1 +1,1 @@
-var mnemonic = "loyal exotic father immune hover place vicious immune decline pride success worth";
+var mnemonic = "desert brave deal multiply rib affair market erosion pony possible cup dove";

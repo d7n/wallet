@@ -1,1 +1,1 @@
-var mnemonic = "usual month text pelican derive steel card shed coin service remember expand";
+var mnemonic = "soft sword glimpse reward cheap town shed shrimp alien flavor velvet ugly";

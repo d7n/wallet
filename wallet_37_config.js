@@ -1,1 +1,1 @@
-var mnemonic = "solution multiply dish year grunt angry tape puppy lumber doctor gravity loyal";
+var mnemonic = "spread orbit please talent switch cabin network ball indicate wreck melt cancel";

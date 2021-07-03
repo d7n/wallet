@@ -1,1 +1,1 @@
-var mnemonic = "either weasel fever glance cook become weasel worth elegant fun napkin ecology";
+var mnemonic = "basic winner photo walk prefer slow master vault avoid sense lecture mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "wine table exercise staff conduct split liquid derive cool conduct day prison";
+var mnemonic = "parent video ice picture uphold like strong hungry lottery aerobic lamp explain";

@@ -1,1 +1,1 @@
-var mnemonic = "awake labor monster palace calm sunset bean drum parade remember thunder vendor";
+var mnemonic = "casino joy scatter panther message ozone entire outside reopen south faint daughter";

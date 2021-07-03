@@ -1,1 +1,1 @@
-var mnemonic = "need check rather balance fury miracle segment judge blast hazard cave enforce";
+var mnemonic = "pigeon hold task dish license sphere easily flower thought gain mesh beef";

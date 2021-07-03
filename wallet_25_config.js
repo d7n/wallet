@@ -1,1 +1,1 @@
-var mnemonic = "fatigue degree wild approve wild usual carpet erupt unknown fuel jaguar transfer";
+var mnemonic = "able frost today wear come print love because ball you food limit";

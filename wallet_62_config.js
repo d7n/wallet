@@ -1,1 +1,1 @@
-var mnemonic = "worth rival trim project popular million mix trim vacant home glimpse banana";
+var mnemonic = "crash mango vendor concert flat pledge left tonight maple jungle host search";

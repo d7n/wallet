@@ -1,1 +1,1 @@
-var mnemonic = "bar east board ribbon edit shaft weird basic notice picture system shift";
+var mnemonic = "tunnel fan announce elbow jar damp door slab ghost mother mass copper";

@@ -1,1 +1,1 @@
-var mnemonic = "key term drum voyage catch satisfy devote pave fabric whip victory cliff";
+var mnemonic = "excess dirt artist shiver orchard elbow jewel hub segment expire diesel motor";

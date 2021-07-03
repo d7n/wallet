@@ -1,1 +1,1 @@
-var mnemonic = "draw aerobic job rescue minimum bring clinic remove craft muscle learn middle";
+var mnemonic = "pizza recall index review license stick ski neck when voyage trash pioneer";

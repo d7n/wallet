@@ -1,1 +1,1 @@
-var mnemonic = "clever change amazing smart doctor net foster consider cloud weird august flee";
+var mnemonic = "copy view cost rare video powder adapt foot aware butter fiber decade";

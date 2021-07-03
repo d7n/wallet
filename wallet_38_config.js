@@ -1,1 +1,1 @@
-var mnemonic = "exit person upgrade web payment wage color leopard seven vivid vessel know";
+var mnemonic = "six shoot wheat zebra artist demand toy royal elephant album outside among";

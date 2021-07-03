@@ -1,1 +1,1 @@
-var mnemonic = "fever power father behind manage twice unusual minimum omit harvest seat you";
+var mnemonic = "fruit canoe alone cool wire sibling cost link area farm elephant loud";

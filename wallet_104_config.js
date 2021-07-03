@@ -1,1 +1,1 @@
-var mnemonic = "shell gain valley water place ozone cattle light castle candy skull mirror";
+var mnemonic = "black gold tent faint kid love venture budget pattern slide strategy skull";

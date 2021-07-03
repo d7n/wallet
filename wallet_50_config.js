@@ -1,1 +1,1 @@
-var mnemonic = "party spirit normal invest kit width dentist suit video assist tonight bread";
+var mnemonic = "shallow room crime aim echo neutral wage mutual elbow upset boss pair";

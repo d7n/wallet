@@ -1,1 +1,1 @@
-var mnemonic = "grass prize ethics track twist relax knife tuition skill top round nasty";
+var mnemonic = "ocean since raccoon lyrics twenty prize hawk true inquiry bomb rebel someone";

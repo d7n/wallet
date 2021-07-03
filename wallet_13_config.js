@@ -1,1 +1,1 @@
-var mnemonic = "wash van scan mesh sister pool island amused cause fruit black attack";
+var mnemonic = "board lunar mammal uncover budget exotic bracket program admit civil master proud";

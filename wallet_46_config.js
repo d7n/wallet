@@ -1,1 +1,1 @@
-var mnemonic = "elite dragon honey team club robust office sample quantum decorate spend blanket";
+var mnemonic = "praise diagram submit then idle onion loud uniform trumpet foster fox flag";

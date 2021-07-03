@@ -1,1 +1,1 @@
-var mnemonic = "stuff abandon fantasy aspect draw river good ice noise piece wink pencil";
+var mnemonic = "turkey robust twice pair genius maximum mobile better eyebrow apart drive avocado";

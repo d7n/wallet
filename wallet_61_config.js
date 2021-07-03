@@ -1,1 +1,1 @@
-var mnemonic = "hard arrive enemy mercy exotic evoke earn weekend riot fluid finger crucial";
+var mnemonic = "hollow report august maze expose outdoor this recall harvest empower slim label";

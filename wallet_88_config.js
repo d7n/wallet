@@ -1,1 +1,1 @@
-var mnemonic = "perfect banana equal speed century summer badge friend online fox opera snow";
+var mnemonic = "stamp trend thing offer project annual gym sign green unaware problem swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "used story elevator melt hard trick stove force result tunnel always twenty";
+var mnemonic = "cheese divorce play bean art speed cheese anger water tuition lunar asthma";

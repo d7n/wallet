@@ -1,1 +1,1 @@
-var mnemonic = "catch army result level cloth eyebrow rhythm grape october border romance liquid";
+var mnemonic = "swap title lesson load panther meat burst nose cradle yard curve zero";

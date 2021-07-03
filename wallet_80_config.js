@@ -1,1 +1,1 @@
-var mnemonic = "motor parade express board route write side tuna hub donor december label";
+var mnemonic = "crumble plunge demand skull expire banana inner divorce symbol great evoke young";

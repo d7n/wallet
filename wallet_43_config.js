@@ -1,1 +1,1 @@
-var mnemonic = "lucky flame organ ozone scan lesson foil argue museum sad please crisp";
+var mnemonic = "wool tower shell stem convince wreck bargain alcohol boring dolphin odor hard";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs glare core idea sphere voice monkey cram trouble myth refuse moral";
+var mnemonic = "rocket valid amateur control lawn episode suit home tortoise trial raccoon thought";

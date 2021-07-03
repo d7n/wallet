@@ -1,1 +1,1 @@
-var mnemonic = "father walk book meadow rose surround destroy filter layer joke invest hand";
+var mnemonic = "about upgrade coyote genius fatigue true normal depend sadness solar used health";

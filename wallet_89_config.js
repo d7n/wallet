@@ -1,1 +1,1 @@
-var mnemonic = "hurt address smile leopard long champion tray test sustain gorilla badge present";
+var mnemonic = "price river current sweet crowd educate book correct almost snake digital position";

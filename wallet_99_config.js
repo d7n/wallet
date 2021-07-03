@@ -1,1 +1,1 @@
-var mnemonic = "ankle right crucial bone resist recall junior taxi general right century muffin";
+var mnemonic = "unhappy shove very dish arm arctic sadness kiwi yellow situate quality common";

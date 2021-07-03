@@ -1,1 +1,1 @@
-var mnemonic = "volume season enact usual urge pipe panic glass genuine name marriage wisdom";
+var mnemonic = "rail zero online juice there twist police afraid normal brand small rebuild";

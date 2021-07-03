@@ -1,1 +1,1 @@
-var mnemonic = "perfect height judge fox path cheese quantum flight order energy leg hole";
+var mnemonic = "glimpse angle squirrel verify work coin kangaroo consider void miracle couple salmon";

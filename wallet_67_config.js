@@ -1,1 +1,1 @@
-var mnemonic = "junior task soda play whip thank hamster task tiny stable echo spike";
+var mnemonic = "expire best slender fence woman budget quit myself security scene modify divorce";

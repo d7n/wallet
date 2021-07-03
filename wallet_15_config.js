@@ -1,1 +1,1 @@
-var mnemonic = "glance donor grass unknown hair left donor autumn library raven fiction ordinary";
+var mnemonic = "purse during crawl flavor spoon champion view matter right lesson trophy broken";

@@ -1,1 +1,1 @@
-var mnemonic = "inside all found omit snake rent sudden clever tree jump cost lab";
+var mnemonic = "poverty valid ankle delay brief trust soda around bamboo debate excuse yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "vast result outdoor liberty gesture behind involve faith shop since special recycle";
+var mnemonic = "ski sort pudding market humble lawn scan easily bless tortoise hope surface";

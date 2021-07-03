@@ -1,1 +1,1 @@
-var mnemonic = "transfer cupboard leisure problem assault wear canvas short dutch gloom flight grass";
+var mnemonic = "eyebrow yellow marble world affair radio sword sort ivory dirt such pair";

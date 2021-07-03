@@ -1,1 +1,1 @@
-var mnemonic = "culture pulp early shallow swift girl bench citizen between exclude canyon wrist";
+var mnemonic = "ketchup debate talk dwarf release material elevator spell glow draw eager false";
