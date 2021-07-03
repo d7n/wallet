@@ -1,1 +1,1 @@
-var mnemonic = "surface summer funny unfold wet supply room goose fly guitar stock become";
+var mnemonic = "salt warm tobacco minimum logic purpose verb supply jealous elevator fire myth";

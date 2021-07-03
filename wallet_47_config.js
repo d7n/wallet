@@ -1,1 +1,1 @@
-var mnemonic = "crucial salmon balcony all mail spider trim carbon absent onion sword into";
+var mnemonic = "adjust absurd arch inherit pottery tortoise unfair vintage radar crack empower citizen";

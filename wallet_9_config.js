@@ -1,1 +1,1 @@
-var mnemonic = "actual okay year nurse patch virus cake slot crush spring floor cheap";
+var mnemonic = "critic summer matter dirt mechanic citizen long decide tribe another evoke soldier";

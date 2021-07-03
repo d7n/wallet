@@ -1,1 +1,1 @@
-var mnemonic = "enforce more december eternal potato parrot burst pencil divide wall leopard office";
+var mnemonic = "balance price left dry vintage suggest salon match angle galaxy million awful";

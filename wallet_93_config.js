@@ -1,1 +1,1 @@
-var mnemonic = "aisle term delay cruise dolphin senior peace marriage loyal outdoor battle dove";
+var mnemonic = "hand december wealth submit satoshi keep shallow bleak project cattle guess step";

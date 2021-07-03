@@ -1,1 +1,1 @@
-var mnemonic = "mobile base occur random panic scatter blood ill theory sadness host arrest";
+var mnemonic = "current reopen wedding shock bless bunker initial still text rare rice document";

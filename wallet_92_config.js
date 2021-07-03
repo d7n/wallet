@@ -1,1 +1,1 @@
-var mnemonic = "have actual race begin crazy sudden keep auto artwork furnace cushion way";
+var mnemonic = "slow arm much media miss unique net quiz pill they news current";

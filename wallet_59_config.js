@@ -1,1 +1,1 @@
-var mnemonic = "crime debris duck affair panda jelly pen cherry field educate slight push";
+var mnemonic = "pluck screen vivid home quit fix mask mystery paddle chief puzzle vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "truth squirrel best cream force educate quarter chef agree play found expire";
+var mnemonic = "fluid record train number excite speed dice stone conduct delay latin slogan";

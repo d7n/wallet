@@ -1,1 +1,1 @@
-var mnemonic = "window into chapter siren mass knock enable system truth cube outer bargain";
+var mnemonic = "wolf comfort maze fit immense feature main letter nerve bind glove trade";

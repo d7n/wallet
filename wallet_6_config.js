@@ -1,1 +1,1 @@
-var mnemonic = "trouble sudden cliff wise style swear cycle inside neither slide blanket blur";
+var mnemonic = "culture oil trigger rescue sample eyebrow other village horse attack coffee disorder";

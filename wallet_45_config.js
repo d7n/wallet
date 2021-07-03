@@ -1,1 +1,1 @@
-var mnemonic = "south link sniff weasel recipe ivory rebuild crunch mountain ten figure recall";
+var mnemonic = "search diary detect arena embrace mom wealth imitate struggle again trip chief";

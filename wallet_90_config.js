@@ -1,1 +1,1 @@
-var mnemonic = "shove whip come future bleak order work enforce arrive clay dream unique";
+var mnemonic = "sword top excite dune main game conduct flush recall cover suffer ghost";

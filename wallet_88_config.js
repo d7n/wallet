@@ -1,1 +1,1 @@
-var mnemonic = "pigeon achieve sell label vague logic wrap picnic kid picture dignity salad";
+var mnemonic = "garlic distance seminar soul hospital inner shell rely cost slogan moment vague";

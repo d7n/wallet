@@ -1,1 +1,1 @@
-var mnemonic = "runway sunny report token meadow trend gap fly barely letter hand embark";
+var mnemonic = "virtual key survey core second friend amused connect offer emotion mass mobile";

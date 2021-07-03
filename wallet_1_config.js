@@ -1,1 +1,1 @@
-var mnemonic = "reflect melody travel arrow elder gain grant wrist manage brown live rigid";
+var mnemonic = "peanut amateur oil dress apple school theme spring cherry rare coin brush";

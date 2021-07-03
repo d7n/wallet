@@ -1,1 +1,1 @@
-var mnemonic = "gun clump diet benefit pudding bundle kite shock tonight recycle section thumb";
+var mnemonic = "rebel park arch uncle odor talk scale humor ghost amazing easily now";

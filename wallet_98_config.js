@@ -1,1 +1,1 @@
-var mnemonic = "jar buffalo mail penalty capital word satisfy bless antenna robot gather valley";
+var mnemonic = "area tissue situate moral post chimney ride buzz rely camp cabbage sand";

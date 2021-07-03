@@ -1,1 +1,1 @@
-var mnemonic = "hurdle lonely grid secret burden radar section general shrug genre provide powder";
+var mnemonic = "private enhance track damage print already toe play shy flavor balance text";

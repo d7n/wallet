@@ -1,1 +1,1 @@
-var mnemonic = "garden toilet nature share palace oval float urge custom swallow already park";
+var mnemonic = "always pulse april album usage joy toward tomorrow bachelor exhibit coconut home";

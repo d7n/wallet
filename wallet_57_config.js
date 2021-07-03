@@ -1,1 +1,1 @@
-var mnemonic = "gate occur burden promote file erupt wrong huge rally game say law";
+var mnemonic = "wire level poem cup sniff aspect lyrics chief clip check pact ritual";

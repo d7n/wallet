@@ -1,1 +1,1 @@
-var mnemonic = "run pencil flush what quote cube various zero render sound camp sudden";
+var mnemonic = "rookie loop entire subway crunch choose section title athlete shy fluid try";

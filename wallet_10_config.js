@@ -1,1 +1,1 @@
-var mnemonic = "fat domain beyond vault outdoor blush ugly post opinion dose boss art";
+var mnemonic = "rain frog sure middle clever quit dentist slide path ribbon welcome coach";

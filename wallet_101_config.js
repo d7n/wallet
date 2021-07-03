@@ -1,1 +1,1 @@
-var mnemonic = "junk pattern rib box like marble impact junior album arrow plug short";
+var mnemonic = "convince bubble width dance begin crash achieve above detect program toilet cheap";

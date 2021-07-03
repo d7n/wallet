@@ -1,1 +1,1 @@
-var mnemonic = "lawn physical raccoon canal pig palm doll trumpet slab bone attract knock";
+var mnemonic = "dream genre assume denial net scale blush seminar describe patient shrug party";

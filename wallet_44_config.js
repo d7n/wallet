@@ -1,1 +1,1 @@
-var mnemonic = "plate possible milk disease venue swamp tray parent dash bubble give excite";
+var mnemonic = "staff glare cable group mirror comfort okay long flavor language brave twin";

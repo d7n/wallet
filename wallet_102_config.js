@@ -1,1 +1,1 @@
-var mnemonic = "barely rocket boy hint cactus atom host goose nut sword marriage dynamic";
+var mnemonic = "chapter friend glue spare purchase tuition document roof lonely drive valve tip";

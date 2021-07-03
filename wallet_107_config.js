@@ -1,1 +1,1 @@
-var mnemonic = "exercise thank virtual giggle purity wage crime test exhibit job talk quantum";
+var mnemonic = "tiger trick employ invest innocent still rhythm clean divorce month guard hobby";

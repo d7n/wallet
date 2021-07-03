@@ -1,1 +1,1 @@
-var mnemonic = "weasel embody typical lonely tell oven drum cactus spike flip side air";
+var mnemonic = "stairs fun palace hobby action disorder capital habit country green near parade";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger pulp speed local security case illness clap rely wait hope matrix";
+var mnemonic = "edit purpose run sing flush marine violin report repair wagon fish trial";

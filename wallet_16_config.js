@@ -1,1 +1,1 @@
-var mnemonic = "odor nephew add try mother mechanic present lumber option minute desert boost";
+var mnemonic = "name luggage arrive spoil ozone echo goose favorite donkey someone arrest nut";

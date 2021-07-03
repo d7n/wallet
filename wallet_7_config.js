@@ -1,1 +1,1 @@
-var mnemonic = "friend leaf vibrant lumber enroll laundry know legal coral dynamic curve coast";
+var mnemonic = "employ endorse mention pause gospel figure soldier state olive romance response march";

@@ -1,1 +1,1 @@
-var mnemonic = "collect burger person erupt emerge hint anchor barrel company digital begin void";
+var mnemonic = "extra castle language awkward coin dove garden radio start flush baby push";

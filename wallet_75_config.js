@@ -1,1 +1,1 @@
-var mnemonic = "cabbage stock fruit equip salad across involve endless lounge curious earn light";
+var mnemonic = "glue afraid hobby monitor dry explain dress clinic push reason timber soldier";

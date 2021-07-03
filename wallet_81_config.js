@@ -1,1 +1,1 @@
-var mnemonic = "spy item cash before nation whip interest slim reduce since impact coil";
+var mnemonic = "travel family govern wedding oyster office raccoon divert relax lazy choice box";

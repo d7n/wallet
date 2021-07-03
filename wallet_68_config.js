@@ -1,1 +1,1 @@
-var mnemonic = "rain end tornado noble tunnel stone fiber trash flat gather all muffin";
+var mnemonic = "august royal auction ribbon forest nice tortoise convince rigid spread doctor silent";

@@ -1,1 +1,1 @@
-var mnemonic = "lend weasel swim latin never convince nature inside art analyst valve globe";
+var mnemonic = "urban phone because merge possible club family wine into plunge disease vague";

@@ -1,1 +1,1 @@
-var mnemonic = "race plunge warrior voice satoshi they vault diesel sell hover picture country";
+var mnemonic = "hunt expose rate mercy jewel start body visit easy initial imitate over";

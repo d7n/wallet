@@ -1,1 +1,1 @@
-var mnemonic = "winner palm pony plunge lyrics day dad juice build discover seven cargo";
+var mnemonic = "child surprise absent shield pipe smile mystery fitness cage voice flame elite";

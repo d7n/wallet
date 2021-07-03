@@ -1,1 +1,1 @@
-var mnemonic = "tape warfare whale thought swallow cheese general consider jeans million drama shy";
+var mnemonic = "arrange card rebuild bar cup smart kind across bomb aim network autumn";

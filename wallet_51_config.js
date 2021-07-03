@@ -1,1 +1,1 @@
-var mnemonic = "budget direct trouble mom woman there layer fire enhance robot expire local";
+var mnemonic = "rubber color sword sea cute head hub bone prosper dish cloud few";

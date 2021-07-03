@@ -1,1 +1,1 @@
-var mnemonic = "topple kitchen street increase clump kingdom robust lonely park rapid still dwarf";
+var mnemonic = "solution robust pony hour range walk dilemma recipe renew nasty clever repair";

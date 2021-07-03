@@ -1,1 +1,1 @@
-var mnemonic = "choice surprise hair differ resemble vibrant choose pool noodle attract snap spoon";
+var mnemonic = "throw shed pulp paddle mother upper walk use valley dynamic aerobic august";

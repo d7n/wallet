@@ -1,1 +1,1 @@
-var mnemonic = "also ethics goat ribbon betray kingdom rubber grit such year knock crack";
+var mnemonic = "scorpion phone wasp dinner host cousin card enable flame rotate hover jealous";

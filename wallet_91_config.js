@@ -1,1 +1,1 @@
-var mnemonic = "injury protect coffee wolf hollow census potato dream above december adjust pluck";
+var mnemonic = "believe boy wall cherry vendor knock glow cool liar lizard balance disorder";

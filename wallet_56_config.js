@@ -1,1 +1,1 @@
-var mnemonic = "rule child road festival control develop employ pride erode copper immune rigid";
+var mnemonic = "sister dune syrup tip advice bitter marble country share cave machine ill";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich above better dutch any carbon immense oxygen maid rubber slush siren";
+var mnemonic = "pony sunny awful bicycle fall priority deny drill dream damage eagle steel";

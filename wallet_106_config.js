@@ -1,1 +1,1 @@
-var mnemonic = "culture pulp opera off garlic basket excuse inhale shiver neglect sniff lab";
+var mnemonic = "trend already plastic notable razor couch quick wise arrive digital age harvest";

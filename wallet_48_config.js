@@ -1,1 +1,1 @@
-var mnemonic = "question lamp acid leave can brush appear ridge dish own powder disease";
+var mnemonic = "acid burger tissue skull tomorrow quantum piano tissue gorilla minimum build round";

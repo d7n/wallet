@@ -1,1 +1,1 @@
-var mnemonic = "orient will tornado mushroom floor neither debris farm arm sister sibling idea";
+var mnemonic = "plunge screen top menu adult mercy try deputy purchase future radio embody";

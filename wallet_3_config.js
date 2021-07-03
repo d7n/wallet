@@ -1,1 +1,1 @@
-var mnemonic = "town stairs bulk ill sketch normal kangaroo satisfy shock slim plug farm";
+var mnemonic = "immense detail renew when need margin vocal echo until electric athlete tank";

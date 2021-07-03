@@ -1,1 +1,1 @@
-var mnemonic = "leave curtain oxygen party then search phone top menu bullet glue used";
+var mnemonic = "toast another field west noise trap good race prison angry grape busy";

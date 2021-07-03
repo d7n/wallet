@@ -1,1 +1,1 @@
-var mnemonic = "type elder slender rigid search mass say milk hurt eight fly clap";
+var mnemonic = "virus feel promote ride mixture tuna journey virtual clutch kick walk trumpet";

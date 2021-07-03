@@ -1,1 +1,1 @@
-var mnemonic = "sunny rocket dismiss away defense indoor shrimp quit acquire pipe second crash";
+var mnemonic = "evidence grass example force concert window robot agent pulp file ginger pattern";

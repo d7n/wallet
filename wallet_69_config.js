@@ -1,1 +1,1 @@
-var mnemonic = "mule expire defy front picnic dignity taxi process flag session ghost pitch";
+var mnemonic = "milk deny session winner egg screen away citizen bomb tape lemon alarm";

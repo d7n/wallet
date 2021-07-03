@@ -1,1 +1,1 @@
-var mnemonic = "run plug fashion abstract spend solar strong humble lawn betray happy side";
+var mnemonic = "cave belt seat engine nephew cliff room discover walk mechanic convince common";

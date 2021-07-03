@@ -1,1 +1,1 @@
-var mnemonic = "spoil cable shrimp horse walk movie foster column claw blanket school dignity";
+var mnemonic = "maple appear off lounge slice daughter still reduce right have fortune work";

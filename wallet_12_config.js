@@ -1,1 +1,1 @@
-var mnemonic = "chronic involve retreat strategy wrestle speed language spatial evoke lava settle walk";
+var mnemonic = "decorate quote script library legend gadget trend illness attack evoke help drink";

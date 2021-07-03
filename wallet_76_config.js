@@ -1,1 +1,1 @@
-var mnemonic = "cliff card amused bring auto east neglect witness actual assist donate expand";
+var mnemonic = "switch anchor lyrics private shoot warm blind miss police penalty donate hamster";

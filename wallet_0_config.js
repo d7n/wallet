@@ -1,1 +1,1 @@
-var mnemonic = "again sniff health exact grit aerobic always wait symptom narrow feel used";
+var mnemonic = "verify fish old cradle wage boost genuine uncover captain tribe arrive refuse";

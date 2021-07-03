@@ -1,1 +1,1 @@
-var mnemonic = "wife bitter install prevent skate drip antenna cage renew season vanish orchard";
+var mnemonic = "half gift embrace animal consider surface brick lemon puppy age under ramp";

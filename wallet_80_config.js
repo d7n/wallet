@@ -1,1 +1,1 @@
-var mnemonic = "hair stairs year apple hello patrol syrup spice home summer sorry believe";
+var mnemonic = "stage suggest remind stool bomb remember collect lawn oxygen upgrade body post";

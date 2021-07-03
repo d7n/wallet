@@ -1,1 +1,1 @@
-var mnemonic = "taxi april pigeon whale nature squeeze vital wild entry stuff rural arm";
+var mnemonic = "buyer mass treat clinic owner iron agent apple broccoli pear trick around";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle slam vault cargo maze prefer soft crouch used orbit stool vicious";
+var mnemonic = "senior solar question dove adjust peace kiss old push school spray fly";

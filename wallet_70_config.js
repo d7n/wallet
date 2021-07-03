@@ -1,1 +1,1 @@
-var mnemonic = "abstract much easily truly fortune beach inner cannon spring hip shoe educate";
+var mnemonic = "arrive toward social awesome box roast tower salmon shoulder meat differ beauty";

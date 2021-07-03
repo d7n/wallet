@@ -1,1 +1,1 @@
-var mnemonic = "hood glance slide timber slam elder nuclear burst shadow undo slush romance";
+var mnemonic = "second interest salad number icon tongue best divide below spring logic list";

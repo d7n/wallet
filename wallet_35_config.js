@@ -1,1 +1,1 @@
-var mnemonic = "race birth wagon border clutch frog tattoo wait ensure copy permit renew";
+var mnemonic = "lunch movie hazard floor foil bundle shadow bitter loop solve goose knife";

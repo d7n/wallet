@@ -1,1 +1,1 @@
-var mnemonic = "blade dash home acquire dynamic joke endless west length violin tail two";
+var mnemonic = "earn grit silk grocery object elbow render forward cream magic acquire enough";

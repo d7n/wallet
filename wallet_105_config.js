@@ -1,1 +1,1 @@
-var mnemonic = "leisure cup dinosaur depend awesome record phone shrimp approve letter mad seven";
+var mnemonic = "tone end panel torch pledge then swap inform congress basic tool fancy";

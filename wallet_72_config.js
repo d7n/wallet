@@ -1,1 +1,1 @@
-var mnemonic = "width move primary license couch ride crime panic decrease orbit cloth zoo";
+var mnemonic = "iron maple afraid bunker carbon walk end snake mesh true soldier garlic";

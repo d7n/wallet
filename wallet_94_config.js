@@ -1,1 +1,1 @@
-var mnemonic = "already canal target kind math exercise spin join ship vanish initial hotel";
+var mnemonic = "air fiction border coach evil tissue mule arrive tortoise also upon hand";

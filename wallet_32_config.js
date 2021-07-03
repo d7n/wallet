@@ -1,1 +1,1 @@
-var mnemonic = "despair canoe answer mad blur yellow chat card sea pulp salon dismiss";
+var mnemonic = "mom quick practice helmet shoot knee two error regular table capital away";

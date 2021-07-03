@@ -1,1 +1,1 @@
-var mnemonic = "print snake mesh basic model tank feed general pretty fun candy safe";
+var mnemonic = "winner next caught remind figure web airport shrimp nation erase anchor scare";

@@ -1,1 +1,1 @@
-var mnemonic = "delay outside board plug reveal relax fun best fish wet second meat";
+var mnemonic = "frequent embark energy donate pony remain grab code rare scorpion trigger scissors";

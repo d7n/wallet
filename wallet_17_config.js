@@ -1,1 +1,1 @@
-var mnemonic = "entry glove crew metal predict yard hybrid inform lyrics lake nose unhappy";
+var mnemonic = "rug pottery prize guard flash festival canal brave rifle kick undo basic";

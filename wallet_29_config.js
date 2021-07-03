@@ -1,1 +1,1 @@
-var mnemonic = "funny put session despair decrease market celery know decade fence wedding ocean";
+var mnemonic = "duty few kiss little umbrella favorite deliver camera chronic bind kiwi lobster";

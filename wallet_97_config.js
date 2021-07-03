@@ -1,1 +1,1 @@
-var mnemonic = "artist jar pluck labor once antenna observe company note snake crop retreat";
+var mnemonic = "onion advice penalty alarm wheat property execute that smooth imitate siege enough";

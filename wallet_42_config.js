@@ -1,1 +1,1 @@
-var mnemonic = "until produce gravity license alter deliver mail vendor kit flag eagle whale";
+var mnemonic = "leaf doctor roof enable toss year fire devote lecture width mom mango";

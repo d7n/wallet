@@ -1,1 +1,1 @@
-var mnemonic = "festival lobster parent knee dynamic heart memory wagon just very profit pottery";
+var mnemonic = "awake upper because chair more task trap mean can quiz digital forget";

@@ -1,1 +1,1 @@
-var mnemonic = "rose sister imitate nasty kite check spy you rose enjoy cupboard regular";
+var mnemonic = "outdoor tower library ranch dune scrub tribe prosper busy price market scrap";

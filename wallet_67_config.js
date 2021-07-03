@@ -1,1 +1,1 @@
-var mnemonic = "bounce limit patch left horn service buzz pact people master adult wear";
+var mnemonic = "prize hedgehog tiny concert foot actor hamster member direct click fade erase";

@@ -1,1 +1,1 @@
-var mnemonic = "calm sad hover analyst mouse frequent torch protect worth ancient penalty avoid";
+var mnemonic = "obvious ankle humble pause rain grunt ostrich sense actor baby salute tell";

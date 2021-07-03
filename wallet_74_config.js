@@ -1,1 +1,1 @@
-var mnemonic = "nice mixture session morning discover annual oxygen rival trick danger window know";
+var mnemonic = "scan torch foot twin green east ready rival unhappy leaf pause horse";

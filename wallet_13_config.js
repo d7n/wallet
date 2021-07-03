@@ -1,1 +1,1 @@
-var mnemonic = "cabin indoor ugly multiply bag whisper actress arm glide curve wait steel";
+var mnemonic = "major potato across thumb unique choose club tattoo victory pave wink receive";

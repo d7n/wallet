@@ -1,1 +1,1 @@
-var mnemonic = "marine yellow trip wood bid father nose cheap border turtle lottery boss";
+var mnemonic = "human uphold cushion finish young knee train step nominee lottery voice afford";

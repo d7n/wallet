@@ -1,1 +1,1 @@
-var mnemonic = "liberty wire remove pen youth crime banana lion choice defy stool wide";
+var mnemonic = "edge camp govern fold matter flame bulb beach style tiger story muscle";

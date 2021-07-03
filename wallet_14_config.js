@@ -1,1 +1,1 @@
-var mnemonic = "wagon enhance certain swarm vital main motor wrap magic hand antique excite";
+var mnemonic = "left lawsuit town bus erode they truth enlist grow pizza nature normal";
