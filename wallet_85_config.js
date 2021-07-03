@@ -1,1 +1,1 @@
-var mnemonic = "matter student maze sister yard wise diary lonely buzz silk spider blossom";
+var mnemonic = "deliver print young mystery vote repair whale squirrel choose animal stay invite";

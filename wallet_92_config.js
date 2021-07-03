@@ -1,1 +1,1 @@
-var mnemonic = "utility virtual grid fault erode scale size early grant call knife latin";
+var mnemonic = "click axis knife fun birth accident sheriff evidence dune trumpet bounce season";

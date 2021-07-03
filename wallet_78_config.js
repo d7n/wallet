@@ -1,1 +1,1 @@
-var mnemonic = "smart resource bird strategy little gas life nest viable edge fever wagon";
+var mnemonic = "ill secret staff body sword biology zero dinner pledge strike atom cradle";

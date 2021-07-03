@@ -1,1 +1,1 @@
-var mnemonic = "panda jazz pistol silver birth garlic region illness fabric canal walnut pitch";
+var mnemonic = "slab bulb virtual add tumble jelly island reason thing lake mushroom lecture";

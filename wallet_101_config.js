@@ -1,1 +1,1 @@
-var mnemonic = "enhance capable control member crunch unknown mosquito apple shadow message dolphin trouble";
+var mnemonic = "cart web nerve build media comfort humor august smile token knee episode";

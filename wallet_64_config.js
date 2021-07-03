@@ -1,1 +1,1 @@
-var mnemonic = "hint combine robust emerge lion wreck pumpkin erupt rally axis original imitate";
+var mnemonic = "island fiber ask hub height venture salad awake dune unique arrest follow";

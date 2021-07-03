@@ -1,1 +1,1 @@
-var mnemonic = "express diagram alter rough crop bread lend vibrant hour journey glide gate";
+var mnemonic = "fever concert easily chest flock stomach bring will belt midnight unknown discover";

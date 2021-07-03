@@ -1,1 +1,1 @@
-var mnemonic = "horse luxury mango lesson depart weird extra hole example cactus glass injury";
+var mnemonic = "obvious decline snap come dance derive heart pull grain marriage flat nerve";

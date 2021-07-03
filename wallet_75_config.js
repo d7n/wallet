@@ -1,1 +1,1 @@
-var mnemonic = "conduct push garlic knife please flock erode city crew glue final venue";
+var mnemonic = "hurt fluid position vintage valid knee border narrow blossom quick scissors scene";

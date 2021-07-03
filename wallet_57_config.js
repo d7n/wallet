@@ -1,1 +1,1 @@
-var mnemonic = "crazy keen science kitchen mom wet such theory admit dizzy tuition act";
+var mnemonic = "lottery auto cover provide little force wood creek author sudden arctic hard";

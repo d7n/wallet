@@ -1,1 +1,1 @@
-var mnemonic = "fire moral uncle fringe black often coin flag start travel duty heavy";
+var mnemonic = "recall resist biology subway awkward magnet choose wear avocado waste shine jungle";

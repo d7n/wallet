@@ -1,1 +1,1 @@
-var mnemonic = "catalog pyramid transfer rhythm cigar risk afraid flavor term error pattern concert";
+var mnemonic = "base diagram priority chunk harbor scene seminar attitude strategy shy logic sand";

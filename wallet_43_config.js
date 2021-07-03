@@ -1,1 +1,1 @@
-var mnemonic = "loop crush neutral nominee balcony marine relief carbon affair profit drama apart";
+var mnemonic = "deputy embrace cable river tenant tackle fork fat minute arrange devote already";

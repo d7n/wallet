@@ -1,1 +1,1 @@
-var mnemonic = "text alone one glance dust depart inmate input debris bundle crystal sad";
+var mnemonic = "sight jeans casino cargo fun camp net perfect exile saddle transfer best";

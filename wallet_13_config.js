@@ -1,1 +1,1 @@
-var mnemonic = "sunny purse visit garlic sound lecture benefit diet display federal upon body";
+var mnemonic = "juice advice mask shock donate chaos asset inhale baby together bronze survey";

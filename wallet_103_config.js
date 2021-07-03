@@ -1,1 +1,1 @@
-var mnemonic = "asthma hand divert hurt person soul another crime decorate heart fringe field";
+var mnemonic = "loan ugly wonder never brief dad illegal offer turtle inform need giant";

@@ -1,1 +1,1 @@
-var mnemonic = "hill father breeze hidden brand gasp flavor adult bounce unusual twist young";
+var mnemonic = "move end crucial attitude soul reduce street speed leave nature century hair";

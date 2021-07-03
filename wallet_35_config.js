@@ -1,1 +1,1 @@
-var mnemonic = "bronze merry song harvest enhance daring fatal there loud kit laptop skill";
+var mnemonic = "place jaguar lumber salon mind under pledge tongue fragile sauce assault text";

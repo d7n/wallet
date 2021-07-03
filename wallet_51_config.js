@@ -1,1 +1,1 @@
-var mnemonic = "law merry spice prison foil pony immense private voice push believe taxi";
+var mnemonic = "jealous illness term frozen embrace margin expand benefit elite all kind renew";

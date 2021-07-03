@@ -1,1 +1,1 @@
-var mnemonic = "allow special marine destroy transfer naive mail depend coil praise text hollow";
+var mnemonic = "tent stick spirit drum kick mail catch client champion myself basic swarm";

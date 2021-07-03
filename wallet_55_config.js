@@ -1,1 +1,1 @@
-var mnemonic = "category memory battle purchase boss lake avoid rate aware green broom lazy";
+var mnemonic = "occur place speak truck devote camera earth ripple winter image polar among";

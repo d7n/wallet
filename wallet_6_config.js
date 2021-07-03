@@ -1,1 +1,1 @@
-var mnemonic = "tobacco negative relax spirit copy claim loud describe fun burden pause brother";
+var mnemonic = "multiply limit deliver river piece uncle town much jewel fun news length";

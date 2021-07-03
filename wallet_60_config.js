@@ -1,1 +1,1 @@
-var mnemonic = "hair canvas sell hurry bitter bar vanish call hole biology trade alpha";
+var mnemonic = "discover food please glow error board mercy sauce proud shiver ghost lake";

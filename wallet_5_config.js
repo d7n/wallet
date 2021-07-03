@@ -1,1 +1,1 @@
-var mnemonic = "purity lounge job any stone desert example price denial end upon attack";
+var mnemonic = "strategy such increase small female broccoli skin wisdom envelope resource special reunion";

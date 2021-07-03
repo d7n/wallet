@@ -1,1 +1,1 @@
-var mnemonic = "match focus exit adult angle flame water thrive notice fossil chronic foot";
+var mnemonic = "initial leopard learn vote door chat actual stage island burst grape fly";

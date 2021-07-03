@@ -1,1 +1,1 @@
-var mnemonic = "ginger then keep neck sing burden include price dizzy giraffe one club";
+var mnemonic = "junk deny phrase million situate digital myth general zero room pledge brand";

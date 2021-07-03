@@ -1,1 +1,1 @@
-var mnemonic = "yard fog snake elegant inherit usage adjust hover possible surface clinic column";
+var mnemonic = "vibrant raccoon cloud sock peasant host palace gauge casual ribbon wrestle slam";

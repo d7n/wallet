@@ -1,1 +1,1 @@
-var mnemonic = "later end cradle virus drink fringe soul charge hope teach prison vague";
+var mnemonic = "review ostrich mutual stadium cage goddess vocal stuff genuine way label victory";

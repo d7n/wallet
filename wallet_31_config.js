@@ -1,1 +1,1 @@
-var mnemonic = "orphan yellow animal goat blast distance elbow middle general hotel work original";
+var mnemonic = "finger wrestle bulk logic retreat aspect inch iron ghost suspect dizzy fold";

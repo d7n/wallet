@@ -1,1 +1,1 @@
-var mnemonic = "recall garbage remind leave wait suit replace airport fold obey tourist crop";
+var mnemonic = "verify office help buyer priority exit tray child credit theory vocal example";

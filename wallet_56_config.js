@@ -1,1 +1,1 @@
-var mnemonic = "equip hill very robot dismiss author cash visa visit book hat any";
+var mnemonic = "collect frozen crunch tragic boy wise garage work child hint allow vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion ginger where unique more tower mesh unaware shop cannon laugh shoot";
+var mnemonic = "picnic speed song evolve asthma canyon cabbage apology income fit gas gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "gold accuse moment size lazy wrestle market talent kingdom venture mother west";
+var mnemonic = "earn social guitar palm notice junior shove impact boil already dove prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry water infant battle unusual hedgehog slender what review swap neck apology";
+var mnemonic = "police mask shed sentence giggle deny harbor mail coin trigger fence uncover";

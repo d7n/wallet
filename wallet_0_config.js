@@ -1,1 +1,1 @@
-var mnemonic = "gym visa army between machine bleak brief unknown ankle arm clean gun";
+var mnemonic = "sight involve human top wide cave borrow devote become please hurdle fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "rug web pause enter afraid common electric anger crane silly disorder chicken";
+var mnemonic = "pepper title remain type hold trap vicious raw praise diagram measure rule";

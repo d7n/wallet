@@ -1,1 +1,1 @@
-var mnemonic = "cruise session conduct between window saddle push innocent oppose dentist copy point";
+var mnemonic = "shed flat budget decrease wise brown deny knee slide expect zero truly";

@@ -1,1 +1,1 @@
-var mnemonic = "world minor fringe ritual harbor mouse mule drift crack cool involve world";
+var mnemonic = "crumble harbor visa kit update museum alert fluid dignity denial arrive clerk";

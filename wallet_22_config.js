@@ -1,1 +1,1 @@
-var mnemonic = "flag nurse consider spin expect turtle pyramid riot table kick escape live";
+var mnemonic = "wedding monster mushroom nice mesh spoil broccoli equip devote add resemble across";

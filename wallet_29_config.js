@@ -1,1 +1,1 @@
-var mnemonic = "rough vote poverty miss domain charge trip dash action bleak input bean";
+var mnemonic = "monster exhaust beach step april verify treat ill pave blood seminar gorilla";

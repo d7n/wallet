@@ -1,1 +1,1 @@
-var mnemonic = "outer lesson wonder fatal impact office lottery hope globe trust close harsh";
+var mnemonic = "idle cash dinosaur fox gravity ridge hollow shed shallow cream face tip";

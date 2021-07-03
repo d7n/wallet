@@ -1,1 +1,1 @@
-var mnemonic = "sustain art lamp mechanic original alter fit then sail attack muscle document";
+var mnemonic = "author snack noble process coffee later sniff ready neglect tattoo canvas leader";

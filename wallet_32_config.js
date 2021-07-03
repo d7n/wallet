@@ -1,1 +1,1 @@
-var mnemonic = "execute upset shaft embody clay portion bean wink mammal uphold rule add";
+var mnemonic = "inherit brief toe keep rather will radar dignity work glide whip sail";

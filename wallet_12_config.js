@@ -1,1 +1,1 @@
-var mnemonic = "song chronic old help include finger unhappy shrimp return usual twin endorse";
+var mnemonic = "ribbon finish view sauce visit spatial sell model derive cake adult mimic";

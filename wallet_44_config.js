@@ -1,1 +1,1 @@
-var mnemonic = "throw dial wonder face second wait blue kind harvest plastic receive run";
+var mnemonic = "essay traffic salad craft sadness book floor snap cube provide boss initial";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse nice mechanic earth rapid minor wing work renew street total caution";
+var mnemonic = "route pelican away endless army fence order describe today gather domain impact";

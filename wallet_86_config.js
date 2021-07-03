@@ -1,1 +1,1 @@
-var mnemonic = "noodle space outside draw avocado utility accident kangaroo cricket air torch guide";
+var mnemonic = "phrase prevent keep recall silent issue bless devote city expand vanish traffic";

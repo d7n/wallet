@@ -1,1 +1,1 @@
-var mnemonic = "level mobile aim elder tone kick nominee doll gentle trade immense teach";
+var mnemonic = "grape moment bright flame fiber never gap calm meadow hello tenant paper";

@@ -1,1 +1,1 @@
-var mnemonic = "object fantasy dash rifle behind kidney hood diesel connect use mixture tip";
+var mnemonic = "muffin melody bounce violin search only bright heart chief orphan follow season";

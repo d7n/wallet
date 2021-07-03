@@ -1,1 +1,1 @@
-var mnemonic = "control shoe arena call gun virus outer tank detect need iron arctic";
+var mnemonic = "fee theory fan siren coil retreat security indoor oval abandon daring side";

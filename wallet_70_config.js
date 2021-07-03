@@ -1,1 +1,1 @@
-var mnemonic = "frown because outside tone shell service surprise ignore negative hill rude rocket";
+var mnemonic = "mutual then arctic wing inquiry undo ecology dune inherit destroy spice universe";

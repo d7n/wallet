@@ -1,1 +1,1 @@
-var mnemonic = "trouble teach armor tackle pave tortoise toddler beef cattle october raw inject";
+var mnemonic = "age mobile obvious vacuum educate about invite uniform tiny hint dentist clutch";

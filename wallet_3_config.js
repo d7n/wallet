@@ -1,1 +1,1 @@
-var mnemonic = "tennis index undo marble bicycle shrimp menu shuffle leaf bar hollow pattern";
+var mnemonic = "battle away grass math resist surprise twist garage slush age other betray";

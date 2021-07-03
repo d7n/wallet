@@ -1,1 +1,1 @@
-var mnemonic = "trial often mixed foster twist traffic tone much script title random stay";
+var mnemonic = "kangaroo found blossom settle forest chalk issue crisp fury message subject sauce";

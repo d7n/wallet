@@ -1,1 +1,1 @@
-var mnemonic = "glow radar legend peasant tumble six barrel inflict bright barely exclude wide";
+var mnemonic = "across stairs damp february stuff romance stool forest keep brush habit cram";

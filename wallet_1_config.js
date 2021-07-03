@@ -1,1 +1,1 @@
-var mnemonic = "group result casino boss matter also asset retreat stool bottom uncle film";
+var mnemonic = "genre across win uncover friend fatigue average capable zero indoor gorilla umbrella";

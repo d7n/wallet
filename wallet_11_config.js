@@ -1,1 +1,1 @@
-var mnemonic = "sight rich report affair dove axis innocent quick beef gas march evolve";
+var mnemonic = "remind light pupil keep rival crop wing maze exotic pill come near";

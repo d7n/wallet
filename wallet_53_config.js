@@ -1,1 +1,1 @@
-var mnemonic = "salt chest sponsor worry mistake case struggle beef suggest skull busy author";
+var mnemonic = "candy pull balance subway valid outside place gain symptom side kitten venture";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage polar cloud shell adult able beach ethics doctor search lecture split";
+var mnemonic = "vessel dune trim chronic client human body series blade clip believe remind";

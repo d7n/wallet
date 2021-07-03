@@ -1,1 +1,1 @@
-var mnemonic = "candy wink crater jar eyebrow solve alpha oblige soul gauge immune keep";
+var mnemonic = "betray cinnamon bench hen orbit canal daring photo crash rate hint animal";

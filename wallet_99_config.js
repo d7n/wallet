@@ -1,1 +1,1 @@
-var mnemonic = "live ring sponsor radio copy afraid absent vintage police duck control curious";
+var mnemonic = "fabric couch wealth correct dirt surge input immense vital tide tragic fury";

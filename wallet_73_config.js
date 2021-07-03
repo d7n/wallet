@@ -1,1 +1,1 @@
-var mnemonic = "boost virus tissue voice hour gravity warm expose ocean guilt tattoo loyal";
+var mnemonic = "license lazy roast finger legal next apart near turn gentle already slot";

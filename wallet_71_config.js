@@ -1,1 +1,1 @@
-var mnemonic = "garlic vessel faculty sea scrub acoustic please cycle trumpet smoke wreck nothing";
+var mnemonic = "worry shiver legal tonight chalk affair gift there very annual gauge tent";

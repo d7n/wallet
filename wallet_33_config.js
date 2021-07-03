@@ -1,1 +1,1 @@
-var mnemonic = "once receive horn mimic useless dune stone blind please lumber galaxy tip";
+var mnemonic = "drip napkin engine water broken book pudding rhythm bacon include dirt flee";

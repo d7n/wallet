@@ -1,1 +1,1 @@
-var mnemonic = "cup differ gravity column since grow install bomb regret fork under smoke";
+var mnemonic = "region total lady icon modify uphold ready miss lazy badge ignore range";

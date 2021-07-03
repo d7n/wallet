@@ -1,1 +1,1 @@
-var mnemonic = "stool scout federal pass affair salad ridge dish awkward enforce message flat";
+var mnemonic = "until youth dress reveal fever veteran elephant hurdle fence cheese sign elevator";

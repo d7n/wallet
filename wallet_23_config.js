@@ -1,1 +1,1 @@
-var mnemonic = "crane wash merit interest rude code place model furnace spy liquid jeans";
+var mnemonic = "olive cost bounce toward report guide business expect yellow allow wasp urban";

@@ -1,1 +1,1 @@
-var mnemonic = "all path strategy response question clown blanket flush water domain over clock";
+var mnemonic = "work absorb real bid winner thunder distance funny minor coyote sail burden";

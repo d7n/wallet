@@ -1,1 +1,1 @@
-var mnemonic = "choose maid moral found sauce slush legal faint ivory finish verb ceiling";
+var mnemonic = "sure imitate acoustic hamster elevator fit carry mutual knee trend night trip";

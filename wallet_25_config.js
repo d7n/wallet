@@ -1,1 +1,1 @@
-var mnemonic = "language next mix patrol slam say rose service guide winner exchange outside";
+var mnemonic = "lab chaos eternal soldier cook aspect runway pass push rack woman vague";

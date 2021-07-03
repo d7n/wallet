@@ -1,1 +1,1 @@
-var mnemonic = "rural huge feed smoke flee music unfair chat cross tip obtain stove";
+var mnemonic = "sword oppose dismiss jump excuse anxiety twist history envelope divert believe spoil";

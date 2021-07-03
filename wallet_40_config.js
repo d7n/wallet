@@ -1,1 +1,1 @@
-var mnemonic = "have uncover chronic draft slot fall envelope liquid razor warm unveil bonus";
+var mnemonic = "ancient kite educate fine motion trick auction safe very green card ecology";

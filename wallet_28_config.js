@@ -1,1 +1,1 @@
-var mnemonic = "shop express fun tell maid imitate couch knife blind enroll shield board";
+var mnemonic = "tongue bacon street purity now acoustic dry disorder stamp tooth submit divide";

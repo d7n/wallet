@@ -1,1 +1,1 @@
-var mnemonic = "strategy range clean voyage excuse sunny title sad flame shrimp barrel cinnamon";
+var mnemonic = "spice rich jar light attract wise wait vital move tower series more";

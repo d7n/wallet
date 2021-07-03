@@ -1,1 +1,1 @@
-var mnemonic = "galaxy ride already grid woman dinner panther decorate follow year arm dish";
+var mnemonic = "father stock biology fold glance curtain coral jungle base ranch cheap defense";

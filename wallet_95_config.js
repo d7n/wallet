@@ -1,1 +1,1 @@
-var mnemonic = "shove when garbage solution edge seat area crumble state mechanic pear witness";
+var mnemonic = "foil stable boss culture orient method century suffer cabbage boss admit entry";

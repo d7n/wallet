@@ -1,1 +1,1 @@
-var mnemonic = "diamond cricket trash open voice august elevator unlock snap valid frequent harbor";
+var mnemonic = "worth crash become grace race guitar buddy cactus kidney dwarf odor atom";

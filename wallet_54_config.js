@@ -1,1 +1,1 @@
-var mnemonic = "angry wheel ecology wrestle choice upgrade shed city hour script enough before";
+var mnemonic = "chicken spin rookie kangaroo catch puzzle start casual wool joy recipe silly";

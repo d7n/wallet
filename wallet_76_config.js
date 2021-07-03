@@ -1,1 +1,1 @@
-var mnemonic = "nominee quit prize fence interest unknown clerk tomorrow click spike absorb raccoon";
+var mnemonic = "devote remain goddess replace crisp december jacket talent loop lyrics spatial trick";

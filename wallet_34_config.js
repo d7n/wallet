@@ -1,1 +1,1 @@
-var mnemonic = "resource regular puppy whisper angle lawsuit genuine harvest wrong category assist umbrella";
+var mnemonic = "upset lens cost ensure pitch mail tragic stairs cupboard earth hello brass";

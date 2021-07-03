@@ -1,1 +1,1 @@
-var mnemonic = "laundry mandate sport elegant stumble witness lake shoulder emotion property gadget orange";
+var mnemonic = "rigid column exhibit cash glide use cheap dog taxi energy guard relief";

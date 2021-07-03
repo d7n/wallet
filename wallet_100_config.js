@@ -1,1 +1,1 @@
-var mnemonic = "evil gain maid notable stairs lounge silent second assist arena motor mandate";
+var mnemonic = "doctor endless squeeze eyebrow harsh weapon surface live snow index what season";

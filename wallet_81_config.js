@@ -1,1 +1,1 @@
-var mnemonic = "vibrant health reward bone quiz they toss fever another decline knock inhale";
+var mnemonic = "sting wish other valve whip glance pact toward spatial smoke ritual cliff";

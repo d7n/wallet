@@ -1,1 +1,1 @@
-var mnemonic = "coyote rather scene mansion luxury between arrest claim crop vehicle entry egg";
+var mnemonic = "surface taste upon benefit sorry wait charge charge dial evil what luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "clean ill iron amused session bread erase room penalty valve someone educate";
+var mnemonic = "erupt pencil clutch chalk genius when profit orchard way grid target fetch";

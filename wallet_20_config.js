@@ -1,1 +1,1 @@
-var mnemonic = "wisdom escape layer ticket trap wood sudden grant board rather muscle mammal";
+var mnemonic = "group clay weasel route throw potato goddess faith leaf used explain mom";

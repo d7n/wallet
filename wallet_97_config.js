@@ -1,1 +1,1 @@
-var mnemonic = "electric average drill bamboo left gospel cabbage future kite quiz trade winter";
+var mnemonic = "science service sun paddle feature have anxiety parent sample mix fluid size";
