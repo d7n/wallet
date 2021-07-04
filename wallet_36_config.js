@@ -1,1 +1,1 @@
-var mnemonic = "merit tenant hand chalk differ rug rain uncle kiss fee argue glimpse";
+var mnemonic = "confirm lab surprise adult produce battle dynamic slender unhappy unfold myself toward";

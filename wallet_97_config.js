@@ -1,1 +1,1 @@
-var mnemonic = "trial romance economy reform scan enhance armed build shadow actor gallery solve";
+var mnemonic = "river weapon hope goddess cook false salt hint cave limit miss autumn";

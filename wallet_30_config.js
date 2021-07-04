@@ -1,1 +1,1 @@
-var mnemonic = "target doll awkward glide deliver cart dog almost cupboard border check intact";
+var mnemonic = "oyster crop nice fluid refuse swift base orange apology such choice can";

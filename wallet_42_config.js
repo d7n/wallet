@@ -1,1 +1,1 @@
-var mnemonic = "oxygen leg stable now there diary rotate prize fix wish avocado result";
+var mnemonic = "trick duty lunar layer filter asset possible faint smooth under detail canal";

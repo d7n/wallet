@@ -1,1 +1,1 @@
-var mnemonic = "tired casino coyote pact carpet derive pulp chunk vehicle island message tumble";
+var mnemonic = "shiver marine frown hundred insect brisk thought task book symptom pupil vessel";

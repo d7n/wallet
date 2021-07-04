@@ -1,1 +1,1 @@
-var mnemonic = "master slight hollow miracle kitten height will cruel federal rigid board scheme";
+var mnemonic = "insane virus can ghost audit garage brush during truly virtual core tiger";

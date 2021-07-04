@@ -1,1 +1,1 @@
-var mnemonic = "found panel alcohol gather total thrive sentence twenty ginger stable recall south";
+var mnemonic = "doll rich loan erupt diary quick sponsor end pen key surround fall";

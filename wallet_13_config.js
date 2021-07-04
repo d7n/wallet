@@ -1,1 +1,1 @@
-var mnemonic = "ceiling carry moment stable annual round secret enlist park cotton frown able";
+var mnemonic = "pink carry wet local settle unhappy magic victory leaf ivory wear captain";

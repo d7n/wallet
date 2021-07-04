@@ -1,1 +1,1 @@
-var mnemonic = "wear risk december blood ugly poem success lion vehicle grain judge unlock";
+var mnemonic = "payment saddle patrol useful filter wreck around rug pelican wine chimney useful";

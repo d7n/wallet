@@ -1,1 +1,1 @@
-var mnemonic = "tail height spoon idle change dust stage render hard nasty vault disorder";
+var mnemonic = "lion test talk because mystery wild mixed taxi cotton powder sudden bamboo";

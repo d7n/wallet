@@ -1,1 +1,1 @@
-var mnemonic = "pioneer manual hybrid sheriff close tomorrow stock magic office food slot select";
+var mnemonic = "seek muscle enhance lawn isolate since verb melt pigeon claim flush keen";

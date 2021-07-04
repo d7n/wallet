@@ -1,1 +1,1 @@
-var mnemonic = "park agree wagon ask color cabbage base unveil shrug soda smart assault";
+var mnemonic = "salad pluck appear route future wear green connect hollow cereal warfare honey";

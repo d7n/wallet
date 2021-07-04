@@ -1,1 +1,1 @@
-var mnemonic = "wrist glow only picnic physical right apology direct thrive alter add primary";
+var mnemonic = "gold pigeon fashion swap crumble few acoustic range lava security security member";

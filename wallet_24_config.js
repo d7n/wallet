@@ -1,1 +1,1 @@
-var mnemonic = "copy boil talent exhibit also avoid mom grace soap visual dirt yard";
+var mnemonic = "pelican dirt hidden snake drama siege rural march wide elite shaft timber";

@@ -1,1 +1,1 @@
-var mnemonic = "main recipe curve accident fever gold knock yellow spirit pole engine present";
+var mnemonic = "accident rocket barely usual road output neutral wash machine also trip audit";

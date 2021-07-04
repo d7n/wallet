@@ -1,1 +1,1 @@
-var mnemonic = "question cabin shield filter update sunset final sock tongue act balcony clown";
+var mnemonic = "basic city pudding lemon tent panther mushroom warrior paddle panda slot device";

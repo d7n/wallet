@@ -1,1 +1,1 @@
-var mnemonic = "barrel ribbon hint critic category garlic gown outdoor hover apple shock host";
+var mnemonic = "sword visual output rate answer relax club melt clog busy owner invest";

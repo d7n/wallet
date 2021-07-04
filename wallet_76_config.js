@@ -1,1 +1,1 @@
-var mnemonic = "sphere poem early gym tray hazard debris praise company tragic broom void";
+var mnemonic = "ramp section teach six fade lizard smile erode public phone usage author";

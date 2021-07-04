@@ -1,1 +1,1 @@
-var mnemonic = "cost ridge adapt dolphin thought forward gate renew crumble resemble deliver eternal";
+var mnemonic = "dignity wisdom glance target heart lion first female blossom solar finish wish";

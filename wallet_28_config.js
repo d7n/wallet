@@ -1,1 +1,1 @@
-var mnemonic = "click document youth comic radio tonight brick athlete purchase cigar screen box";
+var mnemonic = "rabbit crunch kangaroo wrestle warfare traffic client hover board market major nut";

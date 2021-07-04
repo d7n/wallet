@@ -1,1 +1,1 @@
-var mnemonic = "sustain mimic humor amazing steel crawl journey horror design suspect tower dignity";
+var mnemonic = "need wet transfer phrase fantasy taxi scrub topple alley card ride bean";

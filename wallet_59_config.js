@@ -1,1 +1,1 @@
-var mnemonic = "behind aisle neither sound dumb dash process arrest earn they north jar";
+var mnemonic = "arrow enhance crucial wrestle laundry solve wife fabric april flee intact future";

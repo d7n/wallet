@@ -1,1 +1,1 @@
-var mnemonic = "traffic champion message erupt weather shrug grant bachelor subject swap reform brief";
+var mnemonic = "teach mobile payment identify quote debate appear deliver home airport stamp doll";

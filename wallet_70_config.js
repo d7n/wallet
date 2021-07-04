@@ -1,1 +1,1 @@
-var mnemonic = "pulse blast wink pulp hero say bronze hurry audit because pledge gallery";
+var mnemonic = "length vital blood edit extra private earth across whip boat gate obey";

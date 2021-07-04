@@ -1,1 +1,1 @@
-var mnemonic = "divert riot daughter lady depth exist useless occur aware paddle end possible";
+var mnemonic = "cost bean tag gym hawk green stove crack token damp harsh reflect";

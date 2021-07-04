@@ -1,1 +1,1 @@
-var mnemonic = "rude affair blouse section victory exchange giggle large pigeon claw labor hero";
+var mnemonic = "gather pelican course disorder great habit enact rich someone parent tail alone";

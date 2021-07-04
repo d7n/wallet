@@ -1,1 +1,1 @@
-var mnemonic = "cup then fork happy globe cluster net asset luggage volcano they online";
+var mnemonic = "ribbon master tourist fancy snow work early employ leopard cool female harvest";

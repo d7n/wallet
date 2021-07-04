@@ -1,1 +1,1 @@
-var mnemonic = "direct decade main review stage reflect thought similar ostrich van this ice";
+var mnemonic = "dragon property celery drink transfer foam melt olive cute fashion steel risk";

@@ -1,1 +1,1 @@
-var mnemonic = "brown chat can estate mixture arrange rubber obey joy pupil picnic invest";
+var mnemonic = "host stay keep camera giant model change maze youth walk faculty tooth";

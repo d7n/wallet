@@ -1,1 +1,1 @@
-var mnemonic = "speak review cable elephant great sunny draw rescue dish kitchen interest animal";
+var mnemonic = "sting nice fork visa say decide school around series hello grunt issue";

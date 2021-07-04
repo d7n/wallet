@@ -1,1 +1,1 @@
-var mnemonic = "increase can column east frozen alley october fit kitchen solid album primary";
+var mnemonic = "beyond fun crack slim town voyage foot fitness play honey chunk patch";

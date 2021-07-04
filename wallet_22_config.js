@@ -1,1 +1,1 @@
-var mnemonic = "useful speak spice blossom balance autumn garden they clump blue taste same";
+var mnemonic = "circle fancy shoulder wing spend gown habit behind heart doctor coffee kingdom";

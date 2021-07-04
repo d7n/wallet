@@ -1,1 +1,1 @@
-var mnemonic = "animal urge question velvet age camera mandate tortoise crew hello essence crouch";
+var mnemonic = "thunder setup envelope primary jewel wrestle that raven south rhythm release round";

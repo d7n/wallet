@@ -1,1 +1,1 @@
-var mnemonic = "truly ginger have alpha feed million success entry shield crack sport ordinary";
+var mnemonic = "cliff surprise praise twin comfort subway assault puzzle nasty blade sea cotton";

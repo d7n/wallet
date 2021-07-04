@@ -1,1 +1,1 @@
-var mnemonic = "wife final peace ethics jaguar kid picnic polar clerk phrase hunt panda";
+var mnemonic = "volcano solution achieve horn credit energy chuckle tunnel claim upgrade increase ticket";

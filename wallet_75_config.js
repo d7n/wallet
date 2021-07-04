@@ -1,1 +1,1 @@
-var mnemonic = "result travel wall monitor glare zoo inflict bomb element shell output turkey";
+var mnemonic = "meadow carbon truck drum essence confirm coach major sad sweet judge oil";

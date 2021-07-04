@@ -1,1 +1,1 @@
-var mnemonic = "post picnic stick file prepare purpose pencil manage error april renew acid";
+var mnemonic = "march vast jewel ill fringe deliver lonely faith fury hospital cradle tongue";

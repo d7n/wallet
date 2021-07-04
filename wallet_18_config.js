@@ -1,1 +1,1 @@
-var mnemonic = "decline town stamp hurdle wall process cause dumb spawn business vapor hazard";
+var mnemonic = "toe wealth still person brick eight planet wonder cherry supply either bar";

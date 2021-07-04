@@ -1,1 +1,1 @@
-var mnemonic = "evolve arrest turkey under private pistol slim suggest agree regular float benefit";
+var mnemonic = "near unlock issue ill coin analyst shiver zero farm comfort false flash";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet color tank isolate gasp between wheel sunset elbow away garden fat";
+var mnemonic = "talent claim damage sketch market tenant violin enlist cross better canyon rich";

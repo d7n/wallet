@@ -1,1 +1,1 @@
-var mnemonic = "exact reduce twenty seed fringe envelope glass wage hub help sun resource";
+var mnemonic = "grid shoulder brush again tank lemon control awkward ride glue place term";

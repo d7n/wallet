@@ -1,1 +1,1 @@
-var mnemonic = "urge junior idea jungle turtle evidence need sketch tape hurdle uncover rent";
+var mnemonic = "east suit essay either void catalog load large october cram pen pet";

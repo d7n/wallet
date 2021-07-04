@@ -1,1 +1,1 @@
-var mnemonic = "level bubble barrel denial tray toast emotion hurry attract collect hero wreck";
+var mnemonic = "problem million foil merry siege into shine mango hood cloud beauty million";

@@ -1,1 +1,1 @@
-var mnemonic = "always purpose urge maple runway merit quick install wear actor robot urge";
+var mnemonic = "bench drill vague miss transfer olive negative roast skill unfold husband letter";

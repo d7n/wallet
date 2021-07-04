@@ -1,1 +1,1 @@
-var mnemonic = "business spirit long scan enough clap account lawsuit toilet jazz similar crack";
+var mnemonic = "input deputy december pair little cattle march drive fiction agent breeze trumpet";

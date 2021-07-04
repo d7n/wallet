@@ -1,1 +1,1 @@
-var mnemonic = "split amount during slot bacon absurd hard engage below green radio width";
+var mnemonic = "duty enact neglect ankle snap estate young morning false army scale kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "celery bridge attract hip device favorite horn salute ocean grunt draft pond";
+var mnemonic = "crouch ugly private artwork rural split swing used school movie alone sport";

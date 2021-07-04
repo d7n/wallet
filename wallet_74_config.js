@@ -1,1 +1,1 @@
-var mnemonic = "old raw steak envelope exact ignore obtain gather gather bunker april alone";
+var mnemonic = "topic nose broken brief damage material such style edit consider broccoli hen";

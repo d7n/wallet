@@ -1,1 +1,1 @@
-var mnemonic = "lecture method depart language female glory gadget climb chimney faculty celery coral";
+var mnemonic = "when camera open chicken hard insane pudding attend hollow castle cake credit";

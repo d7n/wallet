@@ -1,1 +1,1 @@
-var mnemonic = "feature swallow rocket belt abandon donkey rookie series weird coast engine man";
+var mnemonic = "miss grocery cram violin catalog nation abstract pudding flock build odor peasant";

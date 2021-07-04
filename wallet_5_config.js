@@ -1,1 +1,1 @@
-var mnemonic = "goose crucial fruit hour age ridge furnace other cereal invest lyrics caution";
+var mnemonic = "museum ostrich orchard lunar cradle common win property rough cycle matter brass";

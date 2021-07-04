@@ -1,1 +1,1 @@
-var mnemonic = "alone crush tumble alcohol team neither denial asthma poem blouse buzz sheriff";
+var mnemonic = "cream novel fat ribbon emerge slot almost regular gorilla point purpose vacuum";

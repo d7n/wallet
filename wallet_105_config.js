@@ -1,1 +1,1 @@
-var mnemonic = "patrol youth risk boy grow north panther review crew route prevent economy";
+var mnemonic = "general tennis cup insane tank tumble zone plastic vast middle obvious sorry";

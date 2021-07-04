@@ -1,1 +1,1 @@
-var mnemonic = "session crazy differ regular leave essay behave merit buzz silly pluck electric";
+var mnemonic = "wing detect warm lunch wire order wreck enact oil erosion swim pigeon";

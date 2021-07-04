@@ -1,1 +1,1 @@
-var mnemonic = "simple mixture another van sauce agent priority fruit fork awful chunk awake";
+var mnemonic = "tornado eight manual night waste wagon define oval route sun ride twist";

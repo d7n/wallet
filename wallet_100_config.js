@@ -1,1 +1,1 @@
-var mnemonic = "bargain settle melt huge inject fringe vault believe spin category report program";
+var mnemonic = "short noodle dice foil rebel combine blush slim swim garden net relief";

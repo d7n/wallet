@@ -1,1 +1,1 @@
-var mnemonic = "wedding cliff detail yard secret fetch olympic gift victory gas state person";
+var mnemonic = "pipe symbol kind bulk category daring among panic brave taste junk clump";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee lawsuit embrace fluid ladder veteran world pepper exact joy crew tunnel";
+var mnemonic = "vessel situate salt blame odor lady damage solid grunt someone sheriff toy";

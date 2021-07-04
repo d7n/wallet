@@ -1,1 +1,1 @@
-var mnemonic = "size fringe guilt magic shoe dismiss mom course girl fabric hello suit";
+var mnemonic = "admit ball bus shaft cup level skill mean core glad math violin";

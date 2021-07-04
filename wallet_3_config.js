@@ -1,1 +1,1 @@
-var mnemonic = "spawn across miracle peanut rigid sick kiwi define maple alert lonely theory";
+var mnemonic = "replace few among door hello cupboard snow sick online fine next silver";

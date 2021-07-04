@@ -1,1 +1,1 @@
-var mnemonic = "lock insane blanket hundred protect dash super faint sort total remove diet";
+var mnemonic = "theory river future fan dismiss security sense damp word brief decide indicate";

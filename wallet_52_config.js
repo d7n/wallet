@@ -1,1 +1,1 @@
-var mnemonic = "inherit problem grain naive deputy luxury equip series wheat pattern jeans custom";
+var mnemonic = "reject fetch dust tool shiver oil sunset mosquito monster tennis canoe agent";

@@ -1,1 +1,1 @@
-var mnemonic = "omit candy second upgrade shrimp elder bone senior lamp lunar can inquiry";
+var mnemonic = "undo derive transfer fence believe become music discover online surface next clever";

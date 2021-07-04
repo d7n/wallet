@@ -1,1 +1,1 @@
-var mnemonic = "green swing curtain decade tent shell demise evil grab upper long blush";
+var mnemonic = "decide license eight hard have picture century another civil brown weasel sausage";

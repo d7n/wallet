@@ -1,1 +1,1 @@
-var mnemonic = "cotton amount industry gentle athlete smoke life addict leg segment bullet priority";
+var mnemonic = "excite pull morning vessel awkward romance damage actual hamster tennis theory deny";

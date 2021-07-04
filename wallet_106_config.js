@@ -1,1 +1,1 @@
-var mnemonic = "bulb web purse normal staff extend ahead comfort cool street yard become";
+var mnemonic = "hobby egg party govern fox craft grunt give capable hen rookie teach";

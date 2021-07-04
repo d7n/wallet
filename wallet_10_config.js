@@ -1,1 +1,1 @@
-var mnemonic = "shoulder area letter ghost one uncle expand embark juice genre hood sponsor";
+var mnemonic = "custom story rate drive casino east raccoon account pepper what buffalo ride";

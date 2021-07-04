@@ -1,1 +1,1 @@
-var mnemonic = "trophy limb brick biology celery same sure flock captain tag decide exhaust";
+var mnemonic = "desert matrix glance lock depart segment galaxy multiply pyramid infant lend tired";

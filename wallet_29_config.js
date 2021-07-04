@@ -1,1 +1,1 @@
-var mnemonic = "purpose choose meat season draw fee siege armor culture vessel bind dress";
+var mnemonic = "parrot hurt cry segment moral wash aware awful pluck allow where awkward";

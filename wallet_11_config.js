@@ -1,1 +1,1 @@
-var mnemonic = "luggage tissue roast edge pair picnic quiz involve solution trouble useful mistake";
+var mnemonic = "nation mixture boil wasp rather chapter dress aim pepper smile salmon engine";

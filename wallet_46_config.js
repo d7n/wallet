@@ -1,1 +1,1 @@
-var mnemonic = "gaze coyote among police sadness harsh symptom wheel mixed during crush cluster";
+var mnemonic = "advance service young under venture valve squeeze unlock kingdom captain brisk layer";

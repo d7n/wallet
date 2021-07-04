@@ -1,1 +1,1 @@
-var mnemonic = "shrimp fatigue lizard mother flavor evoke card afford price unhappy resist mechanic";
+var mnemonic = "better subway lift object pretty hero erupt bomb punch luxury chuckle seven";

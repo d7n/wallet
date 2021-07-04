@@ -1,1 +1,1 @@
-var mnemonic = "ordinary palace roof champion talk treat clog couch harvest vivid spray flush";
+var mnemonic = "blade convince thunder able allow oak panther garbage soup left tenant depth";

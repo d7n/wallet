@@ -1,1 +1,1 @@
-var mnemonic = "group okay muscle august hover team rely expect coil amazing elbow exchange";
+var mnemonic = "tragic home arrow company crystal property spring struggle hub recycle frown zebra";

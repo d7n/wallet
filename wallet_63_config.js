@@ -1,1 +1,1 @@
-var mnemonic = "clinic notable maple glare resist athlete small youth random foil upon measure";
+var mnemonic = "test engine ancient father industry mixed height cave column lift pitch train";

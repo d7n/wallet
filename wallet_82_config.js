@@ -1,1 +1,1 @@
-var mnemonic = "furnace space elite venue merge unit target island exist achieve pool million";
+var mnemonic = "pause dial magnet marriage sun nothing organ patch faith boy venture wink";

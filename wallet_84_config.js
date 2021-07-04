@@ -1,1 +1,1 @@
-var mnemonic = "write afraid creek awkward winner captain equip proof depart genre void obtain";
+var mnemonic = "mix guard door reject army napkin athlete unlock office junior thrive antique";

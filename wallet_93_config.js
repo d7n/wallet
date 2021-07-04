@@ -1,1 +1,1 @@
-var mnemonic = "census decade airport cage jealous stuff common awake emotion swap hope place";
+var mnemonic = "stadium start pave enable glove scrap confirm delay grunt medal story shiver";

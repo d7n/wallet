@@ -1,1 +1,1 @@
-var mnemonic = "mail pill dignity canvas flee health maze about mom flat lion face";
+var mnemonic = "laptop mansion flush idle child portion slab dose metal range wage broccoli";

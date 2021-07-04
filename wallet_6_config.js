@@ -1,1 +1,1 @@
-var mnemonic = "release harbor accuse sunset purse glimpse code behave author deputy rabbit exotic";
+var mnemonic = "nuclear tower year depth room wheel under earn law stairs carpet risk";

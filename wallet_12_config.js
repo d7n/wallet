@@ -1,1 +1,1 @@
-var mnemonic = "voyage poem random earn absent woman comic blind cook social turkey alien";
+var mnemonic = "benefit fetch call local auction nation giant noodle obtain payment guitar great";

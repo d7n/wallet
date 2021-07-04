@@ -1,1 +1,1 @@
-var mnemonic = "ordinary inflict armor prosper foot staff voice acid bicycle feed praise food";
+var mnemonic = "accuse problem purpose curve current process odor verify churn sleep trade repair";

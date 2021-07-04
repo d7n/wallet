@@ -1,1 +1,1 @@
-var mnemonic = "pave scorpion shine catch easy volcano trick switch conduct catch three mirror";
+var mnemonic = "census tooth hundred fashion fuel build jazz rate hello orphan squirrel transfer";

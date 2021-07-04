@@ -1,1 +1,1 @@
-var mnemonic = "cement inquiry sad uncle protect okay hero normal orphan plate early talk";
+var mnemonic = "punch voyage scare olive transfer fade oak winner squeeze forward mind episode";

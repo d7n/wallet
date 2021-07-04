@@ -1,1 +1,1 @@
-var mnemonic = "add correct onion angry vital arch victory street goddess grape sausage save";
+var mnemonic = "deputy thing battle cruel gun execute fury absurd south hub universe zone";

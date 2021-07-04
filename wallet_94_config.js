@@ -1,1 +1,1 @@
-var mnemonic = "require phone truly tourist define regret dress reject trip imitate grocery churn";
+var mnemonic = "chimney grow taxi all because segment sleep penalty hen album diet wall";

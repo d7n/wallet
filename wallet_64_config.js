@@ -1,1 +1,1 @@
-var mnemonic = "brown mixed front draft flee face extend genre oxygen machine dutch iron";
+var mnemonic = "grain fatigue end sunny utility catalog valid ship bachelor shaft hole address";

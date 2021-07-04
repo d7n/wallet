@@ -1,1 +1,1 @@
-var mnemonic = "rebel drill autumn shine mechanic float pilot photo gym someone number horse";
+var mnemonic = "climb world nominee joy cinnamon lock civil quick what horror fan potato";

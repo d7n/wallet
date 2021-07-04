@@ -1,1 +1,1 @@
-var mnemonic = "brave can turtle bomb bright father lesson narrow industry tape ankle since";
+var mnemonic = "gospel permit shoe myself dragon write embody spike deliver series student giant";

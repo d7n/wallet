@@ -1,1 +1,1 @@
-var mnemonic = "student elite excite broom gift job actual fluid exhaust hundred hire term";
+var mnemonic = "say crisp salt try alone valve sight tube spatial clever mouse taxi";

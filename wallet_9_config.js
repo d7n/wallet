@@ -1,1 +1,1 @@
-var mnemonic = "bacon ceiling treat phone detail innocent suit test enforce give siren kind";
+var mnemonic = "survey swift portion ring sick tornado wrap soda number elegant near toddler";

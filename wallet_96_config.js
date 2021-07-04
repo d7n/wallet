@@ -1,1 +1,1 @@
-var mnemonic = "echo correct era leader main derive effort series sphere edge token faith";
+var mnemonic = "faculty tornado square route bag danger source embrace second inquiry hen catalog";

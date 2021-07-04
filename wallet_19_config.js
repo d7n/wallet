@@ -1,1 +1,1 @@
-var mnemonic = "youth vivid tower liberty festival creek win senior certain virus hip mistake";
+var mnemonic = "stool save arrange deposit scan van wall rain jaguar fatigue notice spray";
