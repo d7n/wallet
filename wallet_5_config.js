@@ -1,1 +1,1 @@
-var mnemonic = "donor setup balcony repeat pretty decide iron average tourist dentist hundred hat";
+var mnemonic = "food hundred strike model focus pizza below october example sad ethics exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "attend indicate excite veteran indicate pigeon canal danger bid issue fitness approve";
+var mnemonic = "stairs estate satoshi echo strike typical rare brother monkey coconut circle punch";

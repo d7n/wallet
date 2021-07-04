@@ -1,1 +1,1 @@
-var mnemonic = "glance punch forest mandate open holiday wheat vendor fringe lava brick tunnel";
+var mnemonic = "amateur infant try rookie apple bicycle struggle ignore powder hover lobster attitude";

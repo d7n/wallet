@@ -1,1 +1,1 @@
-var mnemonic = "witness miracle black pull mechanic advance supreme assist jump lawsuit eternal glare";
+var mnemonic = "update winter pact crumble wisdom border service miracle horn atom actual slight";

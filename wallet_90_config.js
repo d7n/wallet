@@ -1,1 +1,1 @@
-var mnemonic = "that long used one august slow session wheat point slam art velvet";
+var mnemonic = "they bike forest team father result dizzy door ridge notice push dance";

@@ -1,1 +1,1 @@
-var mnemonic = "lend three vendor damage sorry search stay almost robot benefit burger gym";
+var mnemonic = "defense model cannon want wish kitten feel strategy reduce glass target frame";

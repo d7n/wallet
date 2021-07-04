@@ -1,1 +1,1 @@
-var mnemonic = "embark silly vacuum jump achieve source child provide attend toe carry feel";
+var mnemonic = "hawk general raccoon mean friend immune reunion nasty drama quit rib cute";

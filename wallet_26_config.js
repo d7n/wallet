@@ -1,1 +1,1 @@
-var mnemonic = "hat they bachelor knee spend page heart blanket response safe ski bring";
+var mnemonic = "good follow voyage decline increase travel joke arrange choice problem current exhaust";

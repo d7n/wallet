@@ -1,1 +1,1 @@
-var mnemonic = "sugar angle tomorrow wreck december guitar digital smart napkin copy expose empower";
+var mnemonic = "vessel sand sugar nerve lizard hurry soon call pattern lake must fish";

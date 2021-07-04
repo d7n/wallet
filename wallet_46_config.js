@@ -1,1 +1,1 @@
-var mnemonic = "seat visual anchor public scale little neither sport rate absorb brother era";
+var mnemonic = "naive come random wear repeat census gossip monkey jelly popular raise more";

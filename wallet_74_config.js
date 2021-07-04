@@ -1,1 +1,1 @@
-var mnemonic = "shrimp smoke entry fresh grit thing appear ice also diet tackle diamond";
+var mnemonic = "sugar tiny fuel peanut crucial output test ask network annual stairs ginger";

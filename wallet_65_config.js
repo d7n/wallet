@@ -1,1 +1,1 @@
-var mnemonic = "sphere fish depth stand enemy neglect gown small awkward inform leisure begin";
+var mnemonic = "arrive brass exchange raccoon grab jaguar cash ship pepper ice clinic sense";

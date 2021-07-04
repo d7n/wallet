@@ -1,1 +1,1 @@
-var mnemonic = "banana review right degree rocket arena code what uncle host flower lunar";
+var mnemonic = "eager rib relax cream people leader knock film six south entry fault";

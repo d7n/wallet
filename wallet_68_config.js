@@ -1,1 +1,1 @@
-var mnemonic = "culture select foil wisdom term arch mobile shy leopard adapt canyon best";
+var mnemonic = "merit loan project custom egg cupboard nut park object dilemma spare cereal";

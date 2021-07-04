@@ -1,1 +1,1 @@
-var mnemonic = "soldier gravity better candy able curve diamond joke usual near chicken coil";
+var mnemonic = "shiver liar word glad ship involve record maximum vendor easily custom barrel";

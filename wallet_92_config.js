@@ -1,1 +1,1 @@
-var mnemonic = "poverty spice forum innocent talk shop audit toilet bargain panel they outdoor";
+var mnemonic = "evil exhibit gesture token business floor solar loop tell shed history song";

@@ -1,1 +1,1 @@
-var mnemonic = "gown leaf share skirt royal dizzy ordinary mention blouse solid actress attend";
+var mnemonic = "extend angle elite path battle base network reflect penalty misery shiver scale";

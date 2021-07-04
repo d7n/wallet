@@ -1,1 +1,1 @@
-var mnemonic = "kit hello game pluck snap gloom doll laugh soup napkin spin month";
+var mnemonic = "season defy ostrich clean nice old movie rude crater keen zebra detect";

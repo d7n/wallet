@@ -1,1 +1,1 @@
-var mnemonic = "amazing nephew language slim eight onion weapon patient attract castle avocado smooth";
+var mnemonic = "promote what kid aware guide attract lawsuit similar able stove shallow arctic";

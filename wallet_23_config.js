@@ -1,1 +1,1 @@
-var mnemonic = "soup guess turtle point response width basket eight friend crater camp whale";
+var mnemonic = "indicate tattoo prepare wonder gospel gap nut awkward purse reject nominee pudding";

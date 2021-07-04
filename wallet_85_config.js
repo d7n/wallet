@@ -1,1 +1,1 @@
-var mnemonic = "cheap melody rigid minor tower rib share sense entire deputy phone sound";
+var mnemonic = "spot text shoe mechanic swift jump exhibit term announce immune cousin okay";

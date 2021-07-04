@@ -1,1 +1,1 @@
-var mnemonic = "urge help jeans guide illegal explain minor agree blast height indoor resource";
+var mnemonic = "torch cancel bleak blush relief assume local peace because negative veteran auction";

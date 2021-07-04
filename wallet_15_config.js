@@ -1,1 +1,1 @@
-var mnemonic = "merge exact secret bubble warm other that apology glance top summer zero";
+var mnemonic = "blush warm youth kit since world maple mean iron forward outer lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "clean essay hammer identify nest dance pottery awake unknown dumb together tag";
+var mnemonic = "hurry surge have thrive feel dizzy you fan virtual image walnut aisle";

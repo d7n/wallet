@@ -1,1 +1,1 @@
-var mnemonic = "knee multiply direct three oyster rebel blind ritual nut crazy lamp credit";
+var mnemonic = "orbit crack country seat atom insane add dragon between tunnel hazard obey";

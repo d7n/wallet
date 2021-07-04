@@ -1,1 +1,1 @@
-var mnemonic = "cloth sort chair tiny idle cradle danger car brief trust success any";
+var mnemonic = "fitness wash bulk shiver smooth consider amateur grief lottery cart stone subject";

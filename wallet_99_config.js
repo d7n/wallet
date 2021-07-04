@@ -1,1 +1,1 @@
-var mnemonic = "cigar mirror slogan wash indoor battle torch method obtain rose common slam";
+var mnemonic = "pig tattoo remain above choice volcano blame critic jaguar knock perfect viable";

@@ -1,1 +1,1 @@
-var mnemonic = "any seed melt ship cry island antique predict science dignity expect wrist";
+var mnemonic = "distance unlock olympic deny material fossil acid bar peanut sand assault risk";

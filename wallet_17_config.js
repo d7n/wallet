@@ -1,1 +1,1 @@
-var mnemonic = "armed flee object conduct fun evil bright country genius chalk hero stove";
+var mnemonic = "inject shock hurt decade switch faculty shop arrive pizza urban beef crane";

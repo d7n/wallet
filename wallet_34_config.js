@@ -1,1 +1,1 @@
-var mnemonic = "cram puppy matter blast mention favorite response evolve beach pride diet code";
+var mnemonic = "fit emerge year tattoo story diamond student repair juice draw stairs fly";

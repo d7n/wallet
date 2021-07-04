@@ -1,1 +1,1 @@
-var mnemonic = "oyster two raccoon gather path pen private disorder average potato country resource";
+var mnemonic = "cake maximum noodle jacket pole speak become hill slender night tornado cause";

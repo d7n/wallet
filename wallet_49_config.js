@@ -1,1 +1,1 @@
-var mnemonic = "behave light cluster balcony undo crawl naive tunnel neutral vendor hole guard";
+var mnemonic = "panda copy observe fox scene identify fortune yellow ancient paddle skate ginger";

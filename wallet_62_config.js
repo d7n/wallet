@@ -1,1 +1,1 @@
-var mnemonic = "tape merry ride subject brass wild daughter cannon echo month soon south";
+var mnemonic = "sell then meadow ability eyebrow roof mesh replace luggage suffer heart month";

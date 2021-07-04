@@ -1,1 +1,1 @@
-var mnemonic = "hurt phrase panther mimic gather faith sting stock range dilemma image stomach";
+var mnemonic = "creek error dynamic future deer cruise below salute quiz bracket giraffe ostrich";

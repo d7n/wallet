@@ -1,1 +1,1 @@
-var mnemonic = "manual else capable lizard immune never moral annual mimic balance chronic spirit";
+var mnemonic = "slice magnet hint open wrap increase duty fatigue pause grace question endorse";

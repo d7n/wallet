@@ -1,1 +1,1 @@
-var mnemonic = "live miss range cactus awake sand grace symptom vapor clerk pilot account";
+var mnemonic = "slim bundle talk rabbit concert sword cliff believe cradle fetch quarter smoke";

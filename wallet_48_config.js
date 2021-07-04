@@ -1,1 +1,1 @@
-var mnemonic = "add vast machine kitchen dinner grow charge time airport sleep coconut scene";
+var mnemonic = "beach super stamp fly turkey visa left idea dirt outer ankle snack";

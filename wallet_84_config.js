@@ -1,1 +1,1 @@
-var mnemonic = "destroy other camera recipe black claim drink aunt domain custom fitness ritual";
+var mnemonic = "false forest purse rib ready found mix custom stuff meadow dinner race";

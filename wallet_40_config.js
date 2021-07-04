@@ -1,1 +1,1 @@
-var mnemonic = "draft major illegal vicious only absurd venture glove lizard crowd gauge people";
+var mnemonic = "pumpkin assist moral guess since guard effort unveil harsh coyote inflict trumpet";

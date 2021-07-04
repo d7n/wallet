@@ -1,1 +1,1 @@
-var mnemonic = "retire boring ribbon narrow rice coral shoulder tenant mesh devote add grape";
+var mnemonic = "chunk project crawl rack bullet flight depart wish dress gather police peace";

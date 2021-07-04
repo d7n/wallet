@@ -1,1 +1,1 @@
-var mnemonic = "text length track lecture clog wish rail video estate hurdle mail great";
+var mnemonic = "raise execute sick fine copper swear timber traffic immense patient shy stomach";

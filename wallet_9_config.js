@@ -1,1 +1,1 @@
-var mnemonic = "collect dentist tooth seek squirrel sun item satisfy program final captain blind";
+var mnemonic = "pet wear mad resource genius hood rose prize balcony embody engage bomb";

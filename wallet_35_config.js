@@ -1,1 +1,1 @@
-var mnemonic = "wine interest metal work drum powder chat above junk turkey essay acquire";
+var mnemonic = "you teach frown sunset impact endless patch sweet weird fever air phone";

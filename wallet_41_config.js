@@ -1,1 +1,1 @@
-var mnemonic = "resist across allow depth stem domain monkey heavy filter excess metal coffee";
+var mnemonic = "trim cheese relax stumble vacant picnic where slim festival clap mention same";

@@ -1,1 +1,1 @@
-var mnemonic = "double physical defy slot bracket acoustic notice pelican congress chronic dwarf feed";
+var mnemonic = "club doctor lawn nephew tourist impact public gospel sustain mixture fruit hunt";

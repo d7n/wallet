@@ -1,1 +1,1 @@
-var mnemonic = "release bright logic soft fun theory chimney whisper drive gravity remember battle";
+var mnemonic = "dawn crane essence collect switch put jungle explain nephew actual appear exit";

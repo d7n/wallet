@@ -1,1 +1,1 @@
-var mnemonic = "earn belt hold spatial craft clerk toward pitch asset hawk prefer adult";
+var mnemonic = "kingdom tool ring smooth polar real copy number scene ordinary toilet paper";

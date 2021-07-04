@@ -1,1 +1,1 @@
-var mnemonic = "topic dune whip coffee pet fringe sadness make nephew stone hurt novel";
+var mnemonic = "winner inner city clever reason soft play reform grape loop donate yellow";

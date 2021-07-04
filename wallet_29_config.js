@@ -1,1 +1,1 @@
-var mnemonic = "funny power bless phone awkward office divert symbol race filter town improve";
+var mnemonic = "sun copy stable beef topple dragon receive appear stock model crawl forest";

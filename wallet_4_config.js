@@ -1,1 +1,1 @@
-var mnemonic = "image hero fog version include frown lock select disagree merge creek result";
+var mnemonic = "vote shed alone trim pull tiny priority senior arrow school apart zebra";

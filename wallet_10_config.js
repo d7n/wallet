@@ -1,1 +1,1 @@
-var mnemonic = "arrange milk joy arrow hidden sample certain daughter tornado company engine staff";
+var mnemonic = "enter safe renew next flash trend width test version regular hint dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "document rent deer gun guess tornado blur gold antenna mutual cook fault";
+var mnemonic = "process still comic sphere shift elite audit critic apart inside weather glory";

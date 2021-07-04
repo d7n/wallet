@@ -1,1 +1,1 @@
-var mnemonic = "bronze boat animal anchor chuckle resource step scan piano receive spread describe";
+var mnemonic = "tennis agent nothing pipe visa tennis couch priority screen stamp clean skate";

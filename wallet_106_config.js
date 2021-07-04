@@ -1,1 +1,1 @@
-var mnemonic = "decorate erupt dirt smart squirrel remain face shadow fame suffer file change";
+var mnemonic = "drip alien puzzle sausage payment orange car steak isolate twelve corn snake";

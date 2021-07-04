@@ -1,1 +1,1 @@
-var mnemonic = "same faith inmate sick drink dinosaur bubble lab armor impose wall impulse";
+var mnemonic = "canal faint useful gossip bundle expose runway impose ancient ahead rich eight";

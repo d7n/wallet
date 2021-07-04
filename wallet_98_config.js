@@ -1,1 +1,1 @@
-var mnemonic = "across grab cheap salute scatter evoke night scheme bulk legal tone source";
+var mnemonic = "tortoise essence service kitten slice tomato initial gift super couple atom ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "escape equip hurry expect original soon vintage sun cattle frown prison replace";
+var mnemonic = "enable salmon crisp stool toast wise rebel gauge use coral mask blade";

@@ -1,1 +1,1 @@
-var mnemonic = "finger sunny day weekend tone exchange mobile ethics convince enjoy fragile team";
+var mnemonic = "image road nation blanket frost aim winter worth robot digital predict vibrant";

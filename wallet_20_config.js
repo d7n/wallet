@@ -1,1 +1,1 @@
-var mnemonic = "legend razor shaft market melt damage region trigger cook august senior sail";
+var mnemonic = "answer ceiling card suspect copy wild word depth crack wish bring drill";

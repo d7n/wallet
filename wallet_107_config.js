@@ -1,1 +1,1 @@
-var mnemonic = "oyster dad lucky error adapt chalk label oyster eight erosion valve undo";
+var mnemonic = "riot teach dry country permit marine cattle novel pitch copper cart stable";

@@ -1,1 +1,1 @@
-var mnemonic = "history want wisdom example drum shrimp leaf light suspect border need bargain";
+var mnemonic = "panel sting page abstract hungry deer later safe bracket mansion castle occur";

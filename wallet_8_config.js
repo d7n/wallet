@@ -1,1 +1,1 @@
-var mnemonic = "horse milk battle gym number exact couch deliver flight artefact firm explain";
+var mnemonic = "drastic move pyramid process cook distance daughter easily picnic dinosaur hint tomorrow";

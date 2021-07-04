@@ -1,1 +1,1 @@
-var mnemonic = "chronic wire mesh matter dice donkey stem smoke list coin erode april";
+var mnemonic = "total oyster month crisp mean ring prize hub frog dutch print vicious";

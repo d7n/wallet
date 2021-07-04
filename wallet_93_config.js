@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow fix country leaf civil music foil finger dignity expand frame lion";
+var mnemonic = "name creek sphere evil steel update army sad ball essence certain manual";

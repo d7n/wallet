@@ -1,1 +1,1 @@
-var mnemonic = "present type cycle camera fish shift blush run ship ugly hockey usage";
+var mnemonic = "topic hedgehog canoe stereo demise hobby achieve scale abandon brother risk hunt";

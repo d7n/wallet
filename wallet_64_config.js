@@ -1,1 +1,1 @@
-var mnemonic = "earth lab dad broom brain shrug exhibit theme cruise maximum maze course";
+var mnemonic = "firm test trade table barely surround trust shine humble acoustic like grape";

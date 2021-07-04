@@ -1,1 +1,1 @@
-var mnemonic = "switch unit banner consider gaze friend hammer mountain polar exhibit flock eye";
+var mnemonic = "extra enter brother fly gentle hybrid hamster deer monster unhappy sunny injury";

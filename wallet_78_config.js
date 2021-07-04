@@ -1,1 +1,1 @@
-var mnemonic = "soap merit thank deal west cheap absurd clinic parade reunion such sunny";
+var mnemonic = "picnic scale flash secret either weapon vocal gate loyal grass siege august";

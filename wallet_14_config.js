@@ -1,1 +1,1 @@
-var mnemonic = "bid need useful vibrant lizard segment prosper must thumb carbon volcano bird";
+var mnemonic = "giraffe sketch tower soft daring matter bitter argue zebra come unknown lend";

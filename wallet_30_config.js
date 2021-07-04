@@ -1,1 +1,1 @@
-var mnemonic = "recycle parrot ginger symptom violin fury mesh frost uncle blouse federal enforce";
+var mnemonic = "rebuild lunar sense town ask lion harvest basic panther boy sketch eagle";

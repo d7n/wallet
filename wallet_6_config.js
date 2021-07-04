@@ -1,1 +1,1 @@
-var mnemonic = "lyrics dilemma acoustic earth best cherry fancy time supreme forest method between";
+var mnemonic = "dwarf sheriff garbage apart prevent own universe cigar item diet gloom glare";

@@ -1,1 +1,1 @@
-var mnemonic = "sand ramp wagon curve just eternal party okay picnic alpha fantasy sponsor";
+var mnemonic = "culture cage cruise doll crunch shiver relief napkin resemble skill open enable";

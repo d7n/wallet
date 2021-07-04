@@ -1,1 +1,1 @@
-var mnemonic = "powder category stamp honey husband one random fiscal season bicycle friend birth";
+var mnemonic = "shadow talent equal divide horror increase stuff power attend squeeze secret exile";

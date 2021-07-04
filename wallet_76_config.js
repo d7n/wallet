@@ -1,1 +1,1 @@
-var mnemonic = "menu march save banana isolate rude verify useful inner quality top science";
+var mnemonic = "gap person panic casino satisfy orange bid snow alone couple decorate tent";

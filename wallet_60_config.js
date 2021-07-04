@@ -1,1 +1,1 @@
-var mnemonic = "upset dawn seat parade mansion fiction diary patient little indicate sorry discover";
+var mnemonic = "exhibit release pattern frog wreck typical gold donor gauge submit injury know";

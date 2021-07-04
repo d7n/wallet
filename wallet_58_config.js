@@ -1,1 +1,1 @@
-var mnemonic = "lawn resemble radio general alley name scene senior approve remind intact end";
+var mnemonic = "organ foil sun square phrase donor panel harbor victory sense angle snack";

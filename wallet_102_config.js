@@ -1,1 +1,1 @@
-var mnemonic = "wild jungle turn duty armed title swing holiday sense soft ball wrestle";
+var mnemonic = "trim draw phone human peasant eye glare access hurry balcony like include";

@@ -1,1 +1,1 @@
-var mnemonic = "empty verb thought rose surge endless border game stuff lawn dilemma people";
+var mnemonic = "protect deny neutral pave industry arctic trouble sure include reform one flee";

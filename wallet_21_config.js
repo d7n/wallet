@@ -1,1 +1,1 @@
-var mnemonic = "twenty agree fiction voyage already ranch replace earn blush episode carbon motor";
+var mnemonic = "blade swap vivid describe fault fence vibrant pluck oval olive elegant end";
