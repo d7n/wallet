@@ -1,1 +1,1 @@
-var mnemonic = "convince tree resemble parent lumber word place lend draw general join acoustic";
+var mnemonic = "useful cricket mad suggest engage cook sketch drama silly tornado neutral cradle";

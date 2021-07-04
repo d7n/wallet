@@ -1,1 +1,1 @@
-var mnemonic = "pelican marble among animal sugar nice decrease arrest rotate click mammal library";
+var mnemonic = "tenant leg margin net true slim equal similar battle odor rubber win";

@@ -1,1 +1,1 @@
-var mnemonic = "december silver hammer tuna route gather typical foam jaguar high indicate increase";
+var mnemonic = "audit bench other mixture elevator mountain bright remove logic domain nose sheriff";

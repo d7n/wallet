@@ -1,1 +1,1 @@
-var mnemonic = "cheap key scatter old palm lamp police bulk yard rebuild outer refuse";
+var mnemonic = "enrich phrase leg jungle stem urban educate recipe caught hello pigeon rent";

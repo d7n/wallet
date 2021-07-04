@@ -1,1 +1,1 @@
-var mnemonic = "theory flavor couch leg affair agent smart tobacco civil cereal garage custom";
+var mnemonic = "hammer imitate civil access case choose notable slab future share mobile worry";

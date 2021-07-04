@@ -1,1 +1,1 @@
-var mnemonic = "coffee rural put memory baby nothing act mosquito figure purity walk ostrich";
+var mnemonic = "lumber salmon economy track trap vapor various obey horror struggle title plunge";

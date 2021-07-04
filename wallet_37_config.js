@@ -1,1 +1,1 @@
-var mnemonic = "skate fame supply myth gown able obvious thunder faint state retreat runway";
+var mnemonic = "swear vehicle pumpkin smart demand tornado crime erode island fragile history clump";

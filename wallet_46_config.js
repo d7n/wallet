@@ -1,1 +1,1 @@
-var mnemonic = "target tent act wonder dance liquid top knife swing crouch mutual vibrant";
+var mnemonic = "observe own drill learn beyond enhance cricket clay bone stay galaxy truck";

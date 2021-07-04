@@ -1,1 +1,1 @@
-var mnemonic = "enroll hotel enrich then feed learn small motion distance cupboard twelve fatigue";
+var mnemonic = "squirrel level off orchard tower hybrid dismiss large cricket boil region orbit";

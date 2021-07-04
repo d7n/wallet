@@ -1,1 +1,1 @@
-var mnemonic = "quantum hire patient close seek tag stand mercy surface job claim topple";
+var mnemonic = "tissue champion solution occur involve culture earn victory dance fire skirt more";

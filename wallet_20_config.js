@@ -1,1 +1,1 @@
-var mnemonic = "main cushion vague unaware this opinion decorate hotel much fancy skull rescue";
+var mnemonic = "comfort throw learn kit inch load night art suffer thank tissue lab";

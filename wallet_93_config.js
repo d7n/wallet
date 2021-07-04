@@ -1,1 +1,1 @@
-var mnemonic = "fork sister fly energy gather push hub connect such purse walk exist";
+var mnemonic = "race afford tank embrace hungry provide educate suit timber miss crime capable";

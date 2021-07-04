@@ -1,1 +1,1 @@
-var mnemonic = "clock drum gaze shrug soccer enact keen loud pelican net surprise borrow";
+var mnemonic = "mammal fiber dizzy series width stone group modify produce split sell cactus";

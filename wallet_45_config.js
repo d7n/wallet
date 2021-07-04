@@ -1,1 +1,1 @@
-var mnemonic = "sugar mother middle main order pottery capable naive wink ranch name poem";
+var mnemonic = "pole into jewel struggle daring mix brother canal fit seek excuse emerge";

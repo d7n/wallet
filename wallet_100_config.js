@@ -1,1 +1,1 @@
-var mnemonic = "ill lottery sort bright funny tent group actual bag inspire enforce silk";
+var mnemonic = "cat famous enter spider indicate innocent cry mask domain honey universe cradle";

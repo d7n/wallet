@@ -1,1 +1,1 @@
-var mnemonic = "rail elegant husband express rebel sail lemon layer drink achieve dwarf wheel";
+var mnemonic = "object wagon high puppy swarm route radio enable inmate all chat popular";

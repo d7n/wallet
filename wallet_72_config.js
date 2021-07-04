@@ -1,1 +1,1 @@
-var mnemonic = "goddess myth juice local pass nose market unhappy recycle carpet salute panic";
+var mnemonic = "spirit jar angle question water wear neck rice bean toward burst anger";

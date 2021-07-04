@@ -1,1 +1,1 @@
-var mnemonic = "wrist onion minor volume hand flame stadium truck mean jungle melt exile";
+var mnemonic = "bargain exchange result allow ecology trumpet castle axis near enforce light cousin";

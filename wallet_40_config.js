@@ -1,1 +1,1 @@
-var mnemonic = "raven split original festival allow ski team dune leaf act pride forget";
+var mnemonic = "umbrella gesture advice high limit evidence student away what spy chaos inject";

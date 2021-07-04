@@ -1,1 +1,1 @@
-var mnemonic = "match swear special warm absent film reunion leisure invest uniform beef wear";
+var mnemonic = "parrot just knock avocado lion march bundle sniff kingdom talent rib defy";

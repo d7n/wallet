@@ -1,1 +1,1 @@
-var mnemonic = "few source foot spread hockey chat uncover tooth artist before level bottom";
+var mnemonic = "rapid jelly leader bullet keep book device seven chair pass patch fossil";

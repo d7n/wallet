@@ -1,1 +1,1 @@
-var mnemonic = "receive time lake plunge happy total endless resource uphold girl bulb skirt";
+var mnemonic = "claim umbrella weasel float assume picnic sunset thing west purity arena castle";

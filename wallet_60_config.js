@@ -1,1 +1,1 @@
-var mnemonic = "maximum absorb south matrix dignity public sustain pulse love hood soldier bulk";
+var mnemonic = "talent session artist merry excess intact excess equip collect steak gasp magic";

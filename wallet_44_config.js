@@ -1,1 +1,1 @@
-var mnemonic = "sock armed economy exotic spice youth ring hair solution merit orbit engage";
+var mnemonic = "mask receive physical lamp pen wood program anger security together grape heart";

@@ -1,1 +1,1 @@
-var mnemonic = "either stadium baby leader traffic pretty talent cattle west voice cry trip";
+var mnemonic = "script illegal like fringe load grain music between exile funny magic jungle";

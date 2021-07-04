@@ -1,1 +1,1 @@
-var mnemonic = "payment south want describe glory pet erase relax youth together broom inner";
+var mnemonic = "grow mind oval vibrant little about quarter ozone veteran hybrid divorce minor";

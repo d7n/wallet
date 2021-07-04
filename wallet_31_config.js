@@ -1,1 +1,1 @@
-var mnemonic = "couch trip desert cliff neck chief talk combine collect exit mail treat";
+var mnemonic = "mammal list rice oven swap fault hockey rude tackle coil exist royal";

@@ -1,1 +1,1 @@
-var mnemonic = "census little finger other coconut flame merit message feature sheriff joy wrap";
+var mnemonic = "sad boat monkey tape skate proof alcohol round ordinary unaware section trial";

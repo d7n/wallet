@@ -1,1 +1,1 @@
-var mnemonic = "guess lava cloth ripple imitate slim fat ten hurt equal holiday torch";
+var mnemonic = "angry rough smooth rubber marriage void custom ball erupt cream wheat hand";

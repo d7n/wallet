@@ -1,1 +1,1 @@
-var mnemonic = "crew asset tower critic beef neck pass talk protect dune attend detail";
+var mnemonic = "receive genuine mystery thumb few employ humor salute slush gun chase valley";

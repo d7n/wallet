@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin quick various visit brisk toilet acid menu banana flight collect duck";
+var mnemonic = "mutual body patient need enter real arrest forest power raccoon reject whip";

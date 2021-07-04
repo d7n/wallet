@@ -1,1 +1,1 @@
-var mnemonic = "pepper antenna right repeat nephew employ gown salt mixture mistake critic blade";
+var mnemonic = "fuel force marble twenty injury nerve spawn main shop decide bulb never";

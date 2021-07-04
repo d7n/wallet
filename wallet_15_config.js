@@ -1,1 +1,1 @@
-var mnemonic = "citizen plug learn seek fall pen scene cushion galaxy latin prefer oven";
+var mnemonic = "error dignity weird receive security fiber sword word monster kite obtain sentence";

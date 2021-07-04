@@ -1,1 +1,1 @@
-var mnemonic = "right raw dice word weird also flat candy cat owner aunt cram";
+var mnemonic = "appear pottery raise believe ability wine cave chaos fault spend praise flight";

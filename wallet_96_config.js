@@ -1,1 +1,1 @@
-var mnemonic = "check prosper smooth emotion enter acid close leg apology raven chunk mango";
+var mnemonic = "barrel gate school claw hollow utility antique solar coach certain orange second";

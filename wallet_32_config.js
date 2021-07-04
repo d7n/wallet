@@ -1,1 +1,1 @@
-var mnemonic = "slide awkward vessel teach turkey write buffalo civil brave degree rain exercise";
+var mnemonic = "wood direct caught denial foot moon short bounce sport awake help tennis";

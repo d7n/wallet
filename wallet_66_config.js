@@ -1,1 +1,1 @@
-var mnemonic = "stay eagle truly room grid divide brain warm eyebrow liquid verb phone";
+var mnemonic = "average cloud pioneer tube cattle chief finger lunar survey carry buffalo grab";

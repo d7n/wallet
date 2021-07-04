@@ -1,1 +1,1 @@
-var mnemonic = "enemy stamp demand have swear have mask movie ozone quality manage obvious";
+var mnemonic = "gap north lottery predict siren tennis section extra today winter vacant cousin";

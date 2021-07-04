@@ -1,1 +1,1 @@
-var mnemonic = "bring innocent galaxy fade joke goat sick prefer library smooth guilt judge";
+var mnemonic = "kind school lunar hawk inspire prefer off planet iron net fatal kingdom";

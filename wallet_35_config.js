@@ -1,1 +1,1 @@
-var mnemonic = "rail giraffe issue ride permit damp journey into summer habit broom relax";
+var mnemonic = "hub divert similar trial refuse favorite glare sense inch joke quarter vessel";

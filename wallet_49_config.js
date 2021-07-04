@@ -1,1 +1,1 @@
-var mnemonic = "alert answer game fork term name elevator spread clever next foster layer";
+var mnemonic = "maple pudding real donkey web pitch absent medal ignore cushion segment waste";

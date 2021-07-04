@@ -1,1 +1,1 @@
-var mnemonic = "dash story fiscal today junior script clock voyage awful gossip pioneer express";
+var mnemonic = "zone flee welcome kangaroo garage employ echo syrup endorse stand victory raw";

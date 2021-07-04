@@ -1,1 +1,1 @@
-var mnemonic = "style world cereal rough leaf tissue pizza subject enlist where item shoot";
+var mnemonic = "boss rely distance empower glare edge acoustic radio tree intact casual grit";

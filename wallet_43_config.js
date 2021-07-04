@@ -1,1 +1,1 @@
-var mnemonic = "effort resource version axis meadow marine attitude lumber chase pear odor section";
+var mnemonic = "rug police near filter stomach palm like fall cement fatigue joke animal";

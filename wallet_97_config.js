@@ -1,1 +1,1 @@
-var mnemonic = "obey blouse coil alcohol escape left life biology famous museum cage mule";
+var mnemonic = "rookie prevent curve benefit immune essay rice profit ketchup cricket pluck pink";

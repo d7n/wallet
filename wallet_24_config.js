@@ -1,1 +1,1 @@
-var mnemonic = "together novel donate moon program tiny wear gesture fiber erode neck scout";
+var mnemonic = "dial win zone dune wheel infant shoulder infant raccoon grow hundred entry";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll actual swap fine plastic robust soldier unit dune asset festival okay";
+var mnemonic = "future wasp season clock blue beauty swallow length head barely sword zebra";

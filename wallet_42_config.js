@@ -1,1 +1,1 @@
-var mnemonic = "thumb grit dizzy point satoshi order swap drop surround absent swing business";
+var mnemonic = "brother state topic dinosaur dice elegant bottom pet medal doll diary number";

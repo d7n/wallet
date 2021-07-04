@@ -1,1 +1,1 @@
-var mnemonic = "cake replace visa call yard end during fence awkward ghost fade second";
+var mnemonic = "flag home artist subway sock art illegal surprise doll estate sudden empty";

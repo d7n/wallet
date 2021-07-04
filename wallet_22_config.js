@@ -1,1 +1,1 @@
-var mnemonic = "polar blouse rotate better near road giraffe display purchase gossip accident rib";
+var mnemonic = "kangaroo crane nut apple ritual play core bulb inhale artefact razor quiz";

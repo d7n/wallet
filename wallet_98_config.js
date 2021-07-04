@@ -1,1 +1,1 @@
-var mnemonic = "illegal bunker good famous exclude mule lady future lift injury welcome fantasy";
+var mnemonic = "fringe stock document supreme sunny gas wide shadow acid liar alarm forget";

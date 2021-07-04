@@ -1,1 +1,1 @@
-var mnemonic = "present empower cruel advice report midnight spice delay satisfy situate faint oxygen";
+var mnemonic = "leave true glad goddess theory curtain agent sleep rhythm clown key diagram";

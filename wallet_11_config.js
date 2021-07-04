@@ -1,1 +1,1 @@
-var mnemonic = "sphere biology kite sweet palm explain time found exclude climb else olympic";
+var mnemonic = "victory funny verify tower forward private dirt dial they elephant cabin gold";

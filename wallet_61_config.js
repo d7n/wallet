@@ -1,1 +1,1 @@
-var mnemonic = "essay lunch hat fuel seat next improve spoon trap theme ride equip";
+var mnemonic = "check make edit finger cup draw neck female sleep blade walnut shine";

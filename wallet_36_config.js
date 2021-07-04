@@ -1,1 +1,1 @@
-var mnemonic = "grid aisle copper artist elephant sample october nest rough cluster hidden turtle";
+var mnemonic = "divert fix reflect divide analyst student junior story annual drastic donkey tip";

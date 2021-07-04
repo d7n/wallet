@@ -1,1 +1,1 @@
-var mnemonic = "wasp walk discover mutual state copper moment special easily armor fever shrimp";
+var mnemonic = "enable leg finish tail shove turn start smart grocery travel square empty";

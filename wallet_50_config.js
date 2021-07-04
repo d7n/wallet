@@ -1,1 +1,1 @@
-var mnemonic = "palace marble oyster cube ghost still dose december tenant company birth response";
+var mnemonic = "fit scene ozone never upper gallery search play teach final brain more";

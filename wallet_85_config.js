@@ -1,1 +1,1 @@
-var mnemonic = "spoil solid child beef dial silly grain gossip mother grocery brief devote";
+var mnemonic = "need erupt group close shove sting patient vault category human build kind";

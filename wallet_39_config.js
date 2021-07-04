@@ -1,1 +1,1 @@
-var mnemonic = "illness tenant torch race sphere rally camera girl snack clay lawsuit dust";
+var mnemonic = "trigger twist alter magic venue dentist smoke sea company impulse shove wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "credit shoe match strike theme physical agree grant action patch erosion silly";
+var mnemonic = "fold gadget hub oyster sudden choose describe stumble night mom all unaware";

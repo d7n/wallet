@@ -1,1 +1,1 @@
-var mnemonic = "fork soup refuse stereo swear fork crime secret table person better avoid";
+var mnemonic = "spray symbol moment country heart bracket peace garlic tail essay slice cluster";

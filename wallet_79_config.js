@@ -1,1 +1,1 @@
-var mnemonic = "wire razor hybrid route crazy major wrestle smart smart embark pioneer trade";
+var mnemonic = "gadget cricket task alone equal clap fever garment village render force ice";

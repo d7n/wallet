@@ -1,1 +1,1 @@
-var mnemonic = "scout north output olive mandate people piece total unhappy industry job corn";
+var mnemonic = "inflict train certain capable chunk round curve candy hint dumb spoon nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant crunch advance whip eagle tired visual faculty gate melody lecture share";
+var mnemonic = "scale display away spider post priority hidden artwork foot mango quick biology";

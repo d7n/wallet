@@ -1,1 +1,1 @@
-var mnemonic = "very mosquito world visual peanut alter change butter salmon song bind advice";
+var mnemonic = "satoshi you agent easily friend shy dune monster tank found response note";

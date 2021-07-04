@@ -1,1 +1,1 @@
-var mnemonic = "volcano lawsuit glow woman dune material kind orange involve skirt town palm";
+var mnemonic = "ensure sheriff exist north fortune force mouse mango fiction hat describe orbit";

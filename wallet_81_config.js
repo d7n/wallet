@@ -1,1 +1,1 @@
-var mnemonic = "athlete cotton top cluster club sea cycle sound chair logic warrior aerobic";
+var mnemonic = "occur fade latin crowd hill turn panic bright firm butter faculty effort";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant coach blur problem fame exchange scene pluck kite glove leopard flame";
+var mnemonic = "hub bachelor frog rough denial order chase nuclear aunt just catch fever";

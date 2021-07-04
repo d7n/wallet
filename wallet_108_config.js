@@ -1,1 +1,1 @@
-var mnemonic = "frog execute design sad debate any average tongue glow stamp risk gate";
+var mnemonic = "drama cousin detect chaos private thunder swap luxury nasty treat chef hazard";

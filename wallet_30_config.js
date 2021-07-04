@@ -1,1 +1,1 @@
-var mnemonic = "inherit devote again rigid provide luggage make perfect recall lesson pact stereo";
+var mnemonic = "fury anchor cash pony lawsuit popular hunt company frown prepare gown bread";

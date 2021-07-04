@@ -1,1 +1,1 @@
-var mnemonic = "suspect proof stay swim evoke forum service sudden cluster leave student nasty";
+var mnemonic = "celery bronze tired sell copper swarm local brush same few three ridge";

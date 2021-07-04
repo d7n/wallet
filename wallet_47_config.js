@@ -1,1 +1,1 @@
-var mnemonic = "wrist awkward fall atom kitten silent erase heavy client auto spin behave";
+var mnemonic = "next ritual tackle sand measure verify accident story shock fresh betray muscle";

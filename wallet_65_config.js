@@ -1,1 +1,1 @@
-var mnemonic = "shove midnight route drama travel account depth hedgehog obvious sorry funny also";
+var mnemonic = "vicious beyond type ring net cousin welcome exercise text one build slice";

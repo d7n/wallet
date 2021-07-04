@@ -1,1 +1,1 @@
-var mnemonic = "orbit carbon journey cricket toddler spirit method hen install split hair brother";
+var mnemonic = "struggle way panic trap change enroll harsh muscle will sure comic sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "brand cruise under essence wine bind copy goose panda alley actress output";
+var mnemonic = "donate motion slush develop coil book reduce empty base camp agent spy";

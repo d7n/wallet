@@ -1,1 +1,1 @@
-var mnemonic = "river lake tattoo easy space then staff fly vendor about below grow";
+var mnemonic = "cash deliver gesture donor crystal midnight inform shrug glow excess rescue chief";

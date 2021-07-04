@@ -1,1 +1,1 @@
-var mnemonic = "dismiss cattle chest camp thumb concert receive guide maid wrestle seed allow";
+var mnemonic = "office dwarf fish tobacco actress solve pond roast merit chest cargo novel";

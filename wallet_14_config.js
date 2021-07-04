@@ -1,1 +1,1 @@
-var mnemonic = "author nation brick cash neutral chief together diet hair wing before raise";
+var mnemonic = "carbon soul remember vehicle actual lemon normal chief bicycle wrist science sorry";

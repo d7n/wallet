@@ -1,1 +1,1 @@
-var mnemonic = "cruel hundred cage civil improve junior thank exile list suspect slight today";
+var mnemonic = "region section float oven renew female arrive replace cotton maze know lamp";

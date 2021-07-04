@@ -1,1 +1,1 @@
-var mnemonic = "clinic public shallow toss rigid favorite ramp elegant recycle weasel mushroom share";
+var mnemonic = "hat isolate rapid unveil keen enroll virus ladder atom distance genius twin";

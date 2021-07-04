@@ -1,1 +1,1 @@
-var mnemonic = "spread refuse august patrol story always rapid bench where age bar sausage";
+var mnemonic = "wild client rival fine silly luggage where buzz twist soul honey depend";

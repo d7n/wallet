@@ -1,1 +1,1 @@
-var mnemonic = "illegal long cry glow glass certain outside brown require popular pitch episode";
+var mnemonic = "obvious stool alcohol charge mystery emerge smooth green olympic jeans twin demand";

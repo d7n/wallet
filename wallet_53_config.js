@@ -1,1 +1,1 @@
-var mnemonic = "limit noise burst slogan spike mesh rich sketch write quantum public step";
+var mnemonic = "hour six cave pave hour nice unknown faint happy unhappy lion among";

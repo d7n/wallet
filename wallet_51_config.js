@@ -1,1 +1,1 @@
-var mnemonic = "liar girl slogan blade element six ball enlist abandon rapid talent giggle";
+var mnemonic = "maid raise sauce marine diet lemon maid lazy toast buddy bar unhappy";

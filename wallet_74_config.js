@@ -1,1 +1,1 @@
-var mnemonic = "night brief aisle couch link fix easily clay jump source furnace stand";
+var mnemonic = "fantasy list convince field spatial venture orbit hawk icon online skill reject";

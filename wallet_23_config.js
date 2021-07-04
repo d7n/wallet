@@ -1,1 +1,1 @@
-var mnemonic = "law old nature shove replace library flag inch cement gain permit under";
+var mnemonic = "thunder caution friend repeat illegal lounge apple bleak potato hybrid involve entry";

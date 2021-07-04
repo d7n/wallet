@@ -1,1 +1,1 @@
-var mnemonic = "sword blade wrestle measure adapt ramp bright leopard bus oyster run index";
+var mnemonic = "despair diary aware toy image cream indicate approve very repeat over payment";

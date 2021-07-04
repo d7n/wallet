@@ -1,1 +1,1 @@
-var mnemonic = "cool apart scrap tip saddle still fatal page health carbon neither few";
+var mnemonic = "belt mother weasel elevator ripple lucky dog define jeans rebel tip pledge";

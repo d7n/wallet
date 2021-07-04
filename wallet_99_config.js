@@ -1,1 +1,1 @@
-var mnemonic = "ginger judge once window hold pencil combine wet segment knife dizzy expire";
+var mnemonic = "stock good tuition scrap dizzy spot diesel struggle split whisper tuna fantasy";

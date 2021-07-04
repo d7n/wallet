@@ -1,1 +1,1 @@
-var mnemonic = "garment reward print parent silver axis column federal install flush suffer few";
+var mnemonic = "orange trade aunt present bachelor winner bread genre exact front innocent output";

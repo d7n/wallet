@@ -1,1 +1,1 @@
-var mnemonic = "feature act ketchup chuckle process talent shadow lobster angle traffic entry answer";
+var mnemonic = "sell bracket world measure chase dose bracket aware together leader wasp scare";

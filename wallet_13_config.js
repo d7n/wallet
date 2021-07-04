@@ -1,1 +1,1 @@
-var mnemonic = "case fatigue rich lunar expire clown twenty rack borrow grocery fame remember";
+var mnemonic = "small beauty snake remain heavy bind craft addict bind scout road skull";

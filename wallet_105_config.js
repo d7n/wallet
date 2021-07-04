@@ -1,1 +1,1 @@
-var mnemonic = "uniform wrestle pudding fetch ethics neck vehicle tissue derive train unveil seat";
+var mnemonic = "depend kit shine good opinion diet endless goat body loyal young tide";
