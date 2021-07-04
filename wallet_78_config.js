@@ -1,1 +1,1 @@
-var mnemonic = "heavy purity cloud banner disorder egg kite matrix salt price great success";
+var mnemonic = "boring similar mixture mammal arm guess february roast ankle victory photo stone";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor buffalo tuna pave suit shoot sample ritual correct casino cliff retreat";
+var mnemonic = "install nice hurt unknown finger decrease there shadow update aspect barely wire";

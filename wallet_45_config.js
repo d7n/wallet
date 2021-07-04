@@ -1,1 +1,1 @@
-var mnemonic = "filter easily film inch figure myth unknown diagram marriage there bacon slush";
+var mnemonic = "fish fly vibrant gate abstract frog super auto galaxy fitness pencil case";

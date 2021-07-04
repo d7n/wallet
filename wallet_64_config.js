@@ -1,1 +1,1 @@
-var mnemonic = "subway foster sail palm noodle guilt home multiply violin lamp allow ski";
+var mnemonic = "blouse coral owner ramp fade fiber border giant range trend window pistol";

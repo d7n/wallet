@@ -1,1 +1,1 @@
-var mnemonic = "lesson dice strong solar obtain junior spell coconut must spawn indicate error";
+var mnemonic = "pill humor isolate oxygen tennis ugly away cruel fossil hazard panther south";

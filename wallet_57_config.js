@@ -1,1 +1,1 @@
-var mnemonic = "cook abuse morning nation ball record fever welcome trophy abuse nation horn";
+var mnemonic = "plunge scale arm report tag judge common alert pelican error idle update";

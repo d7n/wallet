@@ -1,1 +1,1 @@
-var mnemonic = "jazz path similar error toy ancient diary velvet ceiling dolphin inflict solar";
+var mnemonic = "regret catalog gadget jealous behave crucial salt gravity toe merry mother trap";

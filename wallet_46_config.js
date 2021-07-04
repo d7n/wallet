@@ -1,1 +1,1 @@
-var mnemonic = "donkey tobacco spy later reduce suspect wave rose arctic floor accident glory";
+var mnemonic = "enough brisk neutral radar subject luggage expire describe tiger present afraid amused";

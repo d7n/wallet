@@ -1,1 +1,1 @@
-var mnemonic = "chronic accident claim shell fork melody water quantum animal rely aisle stick";
+var mnemonic = "lady gadget jar symbol easy adult bean hair fold fiction praise include";

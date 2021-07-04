@@ -1,1 +1,1 @@
-var mnemonic = "snap funny senior spend hold gadget praise ketchup slab royal alarm focus";
+var mnemonic = "alien false cupboard roof clock draft twice patrol menu sad elbow finish";

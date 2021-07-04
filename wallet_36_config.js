@@ -1,1 +1,1 @@
-var mnemonic = "rose water olive ice battle flat equal ladder symbol antique vibrant hospital";
+var mnemonic = "kangaroo learn damp reason wheel adult fork infant bitter south enable blood";

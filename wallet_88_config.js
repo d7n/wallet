@@ -1,1 +1,1 @@
-var mnemonic = "lobster supply update city help gap exile inquiry minute find alert timber";
+var mnemonic = "slide able owner heavy keep hungry negative monster appear mandate need barrel";

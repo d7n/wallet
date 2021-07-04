@@ -1,1 +1,1 @@
-var mnemonic = "can alley trim guilt peanut fever enforce double crucial company receive thunder";
+var mnemonic = "gallery pepper tube recipe trick protect life maid hundred dinner hen hire";

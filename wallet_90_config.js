@@ -1,1 +1,1 @@
-var mnemonic = "medal voyage card oppose trust pioneer sponsor member manage broken certain boring";
+var mnemonic = "eye daughter measure tip stereo cactus client scorpion student crumble course kingdom";

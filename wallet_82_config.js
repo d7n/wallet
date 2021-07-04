@@ -1,1 +1,1 @@
-var mnemonic = "cheese prison craft staff coach electric wheat shine blast suit magnet category";
+var mnemonic = "cupboard audit annual village private essence display connect quantum because seven bid";

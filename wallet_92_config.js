@@ -1,1 +1,1 @@
-var mnemonic = "globe risk capital raw make broccoli true office notice wrong mammal air";
+var mnemonic = "clean segment later husband interest discover embark rubber type nasty amount adapt";

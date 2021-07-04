@@ -1,1 +1,1 @@
-var mnemonic = "wagon coconut water slender budget they wolf toilet maid arm pitch figure";
+var mnemonic = "toy drama pact kid task warfare leisure shed fog shell endless clip";

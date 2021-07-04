@@ -1,1 +1,1 @@
-var mnemonic = "antique fury require evoke tuition reflect cook rebuild excite host rent pistol";
+var mnemonic = "olive goose member hotel ginger morning pluck melody sustain maximum wet insane";

@@ -1,1 +1,1 @@
-var mnemonic = "silver middle talent nurse nasty capital alone shell card history use remind";
+var mnemonic = "uphold fine brain fly twelve grocery answer crouch boy cause source solid";

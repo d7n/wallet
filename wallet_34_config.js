@@ -1,1 +1,1 @@
-var mnemonic = "north seven barely gentle hazard cruise girl elite lawsuit lounge extend fade";
+var mnemonic = "empty step laptop hip airport local gas nest umbrella window scale rabbit";

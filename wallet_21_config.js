@@ -1,1 +1,1 @@
-var mnemonic = "soda travel detail charge same return left blast endless sadness item sudden";
+var mnemonic = "inhale usage crush company just cliff area display this asset impact chronic";

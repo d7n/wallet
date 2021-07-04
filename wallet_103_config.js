@@ -1,1 +1,1 @@
-var mnemonic = "margin gift kitten try clown jealous face change lawsuit valid camp crime";
+var mnemonic = "improve clip item maple hurry response rent bright system person inquiry load";

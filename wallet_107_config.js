@@ -1,1 +1,1 @@
-var mnemonic = "shield mutual example very guard game budget east develop torch immense install";
+var mnemonic = "gain thought midnight benefit shaft scorpion goat mail kiss edit law neglect";

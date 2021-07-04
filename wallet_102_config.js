@@ -1,1 +1,1 @@
-var mnemonic = "glare thing artefact sound save goat identify apple scan clown rifle steel";
+var mnemonic = "spider awake lazy boring patch member wine leaf drastic blast certain sketch";

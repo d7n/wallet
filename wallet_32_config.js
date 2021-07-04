@@ -1,1 +1,1 @@
-var mnemonic = "razor pigeon sting sphere size work puppy still next agent easily whisper";
+var mnemonic = "quality struggle price enroll decorate guess process dial soft mosquito deal claim";

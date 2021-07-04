@@ -1,1 +1,1 @@
-var mnemonic = "neck swift brisk beach initial maple lift breeze virus pink split drill";
+var mnemonic = "art network fatal sing toward tiny genre control enrich item load try";

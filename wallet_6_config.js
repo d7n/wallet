@@ -1,1 +1,1 @@
-var mnemonic = "jealous depart own attract right image jewel rifle tourist admit language bridge";
+var mnemonic = "soft board idea grunt senior used moral put enrich announce forward museum";

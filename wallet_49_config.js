@@ -1,1 +1,1 @@
-var mnemonic = "tattoo dune derive certain kingdom syrup gold shell record wrestle dizzy mail";
+var mnemonic = "voice ivory craft health cable perfect portion rotate simple cake frame balance";

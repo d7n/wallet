@@ -1,1 +1,1 @@
-var mnemonic = "north fiber oyster inner rival ticket festival entry gorilla almost list ensure";
+var mnemonic = "parrot label area rare harbor copy powder front also chest illness mail";

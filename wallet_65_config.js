@@ -1,1 +1,1 @@
-var mnemonic = "mule arrange rose beach puzzle vague goat spatial favorite entire mother anchor";
+var mnemonic = "way sweet staff coconut surface volcano term brick guilt song two champion";

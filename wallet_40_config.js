@@ -1,1 +1,1 @@
-var mnemonic = "mystery uncle smart seven rally cover find soft mechanic relax noise people";
+var mnemonic = "shrug dove hidden fade chimney stock december evil close wait unable pepper";

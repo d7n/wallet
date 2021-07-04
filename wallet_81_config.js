@@ -1,1 +1,1 @@
-var mnemonic = "shrimp tiny anchor alarm toy idea deputy point final shoe ugly nasty";
+var mnemonic = "forum until try truly tide pill network lend fall truly theme obey";

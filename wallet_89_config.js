@@ -1,1 +1,1 @@
-var mnemonic = "alley inspire boil ugly own peanut salmon phone need replace true scale";
+var mnemonic = "purity scale suspect tattoo warm please online keep maximum above educate inflict";

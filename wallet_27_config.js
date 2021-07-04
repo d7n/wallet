@@ -1,1 +1,1 @@
-var mnemonic = "then dial immune lady prison pulp copper purpose fiber quarter coast wrong";
+var mnemonic = "grit lazy inch quick citizen famous misery order wait term master access";

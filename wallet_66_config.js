@@ -1,1 +1,1 @@
-var mnemonic = "swap grab brass pipe rough shrimp gain grape chase enrich admit stay";
+var mnemonic = "section comic slice addict often post script seek include ivory estate ivory";

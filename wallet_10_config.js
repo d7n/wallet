@@ -1,1 +1,1 @@
-var mnemonic = "chaos entire much edge clerk cherry pupil shrimp hard account gym hen";
+var mnemonic = "spawn street verify hip limb fabric divide grain chicken exhibit congress gas";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare mix inquiry amateur echo sea aisle reflect pretty across often license";
+var mnemonic = "symptom sick train regret rather firm river buddy eyebrow domain ride disagree";

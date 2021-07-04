@@ -1,1 +1,1 @@
-var mnemonic = "addict rotate ecology follow expire goose chase ten film announce desk inject";
+var mnemonic = "fragile girl satoshi length rain fever window salute animal crane edit foam";

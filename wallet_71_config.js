@@ -1,1 +1,1 @@
-var mnemonic = "two sort mention place fame glow comfort token dune elephant version enhance";
+var mnemonic = "volume virus intact height emotion wasp tuition sea cart liberty fiction relief";

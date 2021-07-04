@@ -1,1 +1,1 @@
-var mnemonic = "quiz picture river discover remain rally close vacant creek normal south extra";
+var mnemonic = "dutch winter net that wet awesome robust gasp this canvas science setup";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant model expose song hockey awesome rude toss divert rose much royal";
+var mnemonic = "solid debris census tonight trade indicate vague pioneer blossom danger few silk";

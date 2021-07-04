@@ -1,1 +1,1 @@
-var mnemonic = "rose stuff lucky organ crop deer base defy buffalo random cloud dream";
+var mnemonic = "excite guess insane pyramid govern clay lobster erosion noodle rely bench capital";

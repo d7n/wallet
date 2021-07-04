@@ -1,1 +1,1 @@
-var mnemonic = "debris clarify rude huge dial cabin warrior wisdom fault claw seek bonus";
+var mnemonic = "floor amount extend smooth have name fall attract trial infant seed outer";

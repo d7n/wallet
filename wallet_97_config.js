@@ -1,1 +1,1 @@
-var mnemonic = "donate chaos curtain caught chronic clip length either appear royal grief wall";
+var mnemonic = "first current fat dirt finish knee unable bulb clap ankle gather cloud";

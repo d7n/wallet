@@ -1,1 +1,1 @@
-var mnemonic = "end ski drop foot ride like hidden column smooth caught thumb cabbage";
+var mnemonic = "century approve music bread cheap hospital suggest wink ensure profit illegal blast";

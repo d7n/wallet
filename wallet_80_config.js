@@ -1,1 +1,1 @@
-var mnemonic = "devote toddler lottery benefit north degree switch end omit water speed random";
+var mnemonic = "ethics useful one couch father exchange reform crime similar burden odor panic";

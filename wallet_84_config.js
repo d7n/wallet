@@ -1,1 +1,1 @@
-var mnemonic = "auto credit soft impose blush siren void patch debate twin venture dose";
+var mnemonic = "ball reward cute below supply history march height air hundred balcony security";

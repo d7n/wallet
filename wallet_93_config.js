@@ -1,1 +1,1 @@
-var mnemonic = "vibrant claim frost fruit buzz horn lamp discover emerge magic canyon addict";
+var mnemonic = "secret village elder congress buyer dinner under belt decide token degree soup";

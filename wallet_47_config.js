@@ -1,1 +1,1 @@
-var mnemonic = "annual page industry scale tourist pool arena want offer lock soup six";
+var mnemonic = "cruise festival they love disagree success broom must burger able sibling floor";

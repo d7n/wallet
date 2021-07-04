@@ -1,1 +1,1 @@
-var mnemonic = "life explain theory glass route exhibit reveal hint engine income robust wing";
+var mnemonic = "hurdle retreat alcohol lock sick flash leisure force state gain hat hurt";

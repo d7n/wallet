@@ -1,1 +1,1 @@
-var mnemonic = "riot old faculty kiss abstract food call else announce fish ripple prison";
+var mnemonic = "despair tell romance drip gorilla patch enable average luggage business critic image";

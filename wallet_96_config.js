@@ -1,1 +1,1 @@
-var mnemonic = "attitude breeze assist shell fashion error bone shiver tissue into mule boy";
+var mnemonic = "sheriff runway silent pill arrange coconut wreck foil tattoo price ensure glare";

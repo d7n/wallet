@@ -1,1 +1,1 @@
-var mnemonic = "response equip more rug deal olive town conduct range off shy debris";
+var mnemonic = "bar bulb essay furnace embark opinion drop laugh assist inflict boss soda";

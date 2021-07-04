@@ -1,1 +1,1 @@
-var mnemonic = "deputy hair cinnamon news conduct double hidden card orbit minor inside artefact";
+var mnemonic = "wise disagree leaf approve choice air arm door cram plunge slot grape";

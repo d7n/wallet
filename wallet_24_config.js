@@ -1,1 +1,1 @@
-var mnemonic = "box play fade foot renew cupboard moment paddle bounce fury again shield";
+var mnemonic = "habit load alone depend tone cash spoon bonus lamp canoe orbit flat";

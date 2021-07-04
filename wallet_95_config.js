@@ -1,1 +1,1 @@
-var mnemonic = "labor dress rail sort please nature light once shrug broom snack egg";
+var mnemonic = "cave mail lounge apple exhibit glory patch board reward scan monitor health";

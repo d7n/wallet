@@ -1,1 +1,1 @@
-var mnemonic = "immune evolve never addict shell despair need return spirit satisfy van card";
+var mnemonic = "help spatial stool fluid photo ball beauty wife present maple hidden canvas";

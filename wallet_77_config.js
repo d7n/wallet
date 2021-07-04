@@ -1,1 +1,1 @@
-var mnemonic = "coil melt toddler wheel episode stem journey lady puzzle choice unfold survey";
+var mnemonic = "any light album frozen unable tool skull head dolphin foster giant once";

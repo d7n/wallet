@@ -1,1 +1,1 @@
-var mnemonic = "lab floor upgrade tenant struggle service fuel unable ski traffic device repair";
+var mnemonic = "wine lyrics water neglect enable never lottery undo honey outdoor habit chronic";

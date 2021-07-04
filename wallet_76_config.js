@@ -1,1 +1,1 @@
-var mnemonic = "rib fun explain marriage afford elite lady fossil cross run hair nice";
+var mnemonic = "clown just nasty they goddess notable three fine gaze urge fashion village";

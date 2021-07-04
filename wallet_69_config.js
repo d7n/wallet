@@ -1,1 +1,1 @@
-var mnemonic = "total divert agree budget capital burger twenty laugh citizen ahead tool embark";
+var mnemonic = "salon local unusual ripple slab angle limb gift canoe raise crater rice";

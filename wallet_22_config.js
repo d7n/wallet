@@ -1,1 +1,1 @@
-var mnemonic = "analyst age actor puzzle prize level grit seed wheel choose soul relief";
+var mnemonic = "renew vault earn practice license small original true jelly exercise weapon just";

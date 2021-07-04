@@ -1,1 +1,1 @@
-var mnemonic = "early evolve found daughter essence track chief dolphin loud under ask renew";
+var mnemonic = "ugly mass cash pill work actual buzz blossom annual ginger knock wood";

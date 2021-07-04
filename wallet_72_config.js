@@ -1,1 +1,1 @@
-var mnemonic = "illegal boil paper caution adult cave hold valid response vehicle faint dilemma";
+var mnemonic = "imitate inch claim order music ride squeeze begin possible liquid vendor sweet";

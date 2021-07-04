@@ -1,1 +1,1 @@
-var mnemonic = "clock sample high winter photo dove knife wonder water panther history slim";
+var mnemonic = "doll patrol basket van express kidney secret chat oil sentence goat whip";

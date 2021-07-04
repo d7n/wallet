@@ -1,1 +1,1 @@
-var mnemonic = "alley pioneer announce crowd ridge gaze maximum check glow elephant gym source";
+var mnemonic = "analyst elbow green clean pear post text yard good neck side early";

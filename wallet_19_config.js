@@ -1,1 +1,1 @@
-var mnemonic = "cool derive sound search february tackle live holiday wedding ability identify fruit";
+var mnemonic = "capital sponsor reward fold safe excuse key ensure jeans agent month mushroom";

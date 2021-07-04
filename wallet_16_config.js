@@ -1,1 +1,1 @@
-var mnemonic = "member sugar jump push speed credit pepper candy limit grocery soup palm";
+var mnemonic = "diet own ankle fossil cluster erase critic small sudden jump science garage";

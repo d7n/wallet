@@ -1,1 +1,1 @@
-var mnemonic = "lottery sport outdoor grow citizen pelican nothing army frame lawsuit scale screen";
+var mnemonic = "usage long tiger floor whip seminar select knock flee assume solar section";

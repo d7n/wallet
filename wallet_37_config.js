@@ -1,1 +1,1 @@
-var mnemonic = "aware recycle fatigue milk this suit balcony lamp scrub into sight squeeze";
+var mnemonic = "ocean chunk you jealous claim pool bubble vehicle salad ride pepper corn";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly cricket elbow soda burst game stamp season alert increase tell hurt";
+var mnemonic = "empower affair involve paper thought pause wrist hope film aerobic offer marble";

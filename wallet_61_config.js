@@ -1,1 +1,1 @@
-var mnemonic = "tower faint urge only gain again bright awkward powder census produce energy";
+var mnemonic = "describe bread pig relief buzz mushroom spend inside airport mesh silk cradle";

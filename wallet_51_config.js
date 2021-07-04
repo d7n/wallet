@@ -1,1 +1,1 @@
-var mnemonic = "drift coil visa income relax fiction person extra point panda case pitch";
+var mnemonic = "scene slender rabbit force limit local van beef faint color august tip";

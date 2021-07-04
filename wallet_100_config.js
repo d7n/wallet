@@ -1,1 +1,1 @@
-var mnemonic = "clock tray peasant input remember run mistake staff void lottery fold erode";
+var mnemonic = "canyon sphere wool name walk menu shuffle car design reward saddle awesome";

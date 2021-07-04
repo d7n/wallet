@@ -1,1 +1,1 @@
-var mnemonic = "put quote current suffer ceiling special mention lizard brother fold fitness baby";
+var mnemonic = "arm dragon slab guard setup empty cave express aisle sense indoor chalk";

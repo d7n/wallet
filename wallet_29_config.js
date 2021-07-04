@@ -1,1 +1,1 @@
-var mnemonic = "west amount polar federal dress trash gorilla tribe better unveil trip reason";
+var mnemonic = "aware bone swing voyage input educate lens seven habit vibrant act ship";

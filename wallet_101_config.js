@@ -1,1 +1,1 @@
-var mnemonic = "help rack slush fun flock session mom odor liberty suggest pottery fuel";
+var mnemonic = "spoil symptom toast still coffee fan truth ghost curve catalog warm bless";

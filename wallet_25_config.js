@@ -1,1 +1,1 @@
-var mnemonic = "dial link correct exist crucial dignity patch electric venture wood suit tag";
+var mnemonic = "toddler mixture design blossom build any twenty salute provide void pave work";

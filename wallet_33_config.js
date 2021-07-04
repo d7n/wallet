@@ -1,1 +1,1 @@
-var mnemonic = "carry gesture tide mention iron change mouse entire rigid bag case farm";
+var mnemonic = "supply sand wreck grace talk flash coral group measure wing rival wink";

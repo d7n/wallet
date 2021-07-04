@@ -1,1 +1,1 @@
-var mnemonic = "thunder arrive slim trade hamster category stomach prevent deposit bacon admit leopard";
+var mnemonic = "silk meadow humor sick pipe prevent monster fan opera robust nut fault";

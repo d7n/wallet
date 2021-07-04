@@ -1,1 +1,1 @@
-var mnemonic = "spoil just abstract inner token hole mention cereal knife rifle front ahead";
+var mnemonic = "cram ramp matrix garden canal present ocean keep spread warm giraffe rapid";

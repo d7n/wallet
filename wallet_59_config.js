@@ -1,1 +1,1 @@
-var mnemonic = "route vehicle file produce soup know shock satoshi empty step cruise section";
+var mnemonic = "buffalo inhale pencil december pulp will soup north van age mixed various";

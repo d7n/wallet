@@ -1,1 +1,1 @@
-var mnemonic = "exhibit right media bounce safe spider park cheap fame fog other next";
+var mnemonic = "shoe comic dance action guilt rich cotton recipe pink oak ordinary flee";

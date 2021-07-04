@@ -1,1 +1,1 @@
-var mnemonic = "cabin slam purity orange casual bird cage trash disagree youth champion emotion";
+var mnemonic = "future time path easy measure vast jar peanut dismiss comfort tribe damp";

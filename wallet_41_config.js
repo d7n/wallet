@@ -1,1 +1,1 @@
-var mnemonic = "nurse project similar bone aisle edit blush notice zero hobby lend merge";
+var mnemonic = "pluck afraid able pig virus hawk nose journey tackle find destroy alien";

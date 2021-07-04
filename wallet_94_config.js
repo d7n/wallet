@@ -1,1 +1,1 @@
-var mnemonic = "capable trial hobby social obscure airport shock grape slot wonder shoulder castle";
+var mnemonic = "vacant govern amount denial build trash charge sting program rubber finish pave";

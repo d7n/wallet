@@ -1,1 +1,1 @@
-var mnemonic = "proof amused green cover couple loan repair drama maximum timber gravity between";
+var mnemonic = "near provide rigid organ clever sorry middle dove february acid skin enact";

@@ -1,1 +1,1 @@
-var mnemonic = "promote despair orbit ride spike excite very faith reform sustain elite blur";
+var mnemonic = "clarify zero duty share will world uphold one enact timber quantum reunion";
