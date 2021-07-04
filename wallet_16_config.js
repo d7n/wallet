@@ -1,1 +1,1 @@
-var mnemonic = "float notice need latin animal man relief tissue stereo dumb protect plastic";
+var mnemonic = "jazz cream lock sight hen they there jungle about food craft fury";

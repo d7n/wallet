@@ -1,1 +1,1 @@
-var mnemonic = "okay number depend elbow direct brand man evoke moral produce gallery ring";
+var mnemonic = "change column transfer flip detail access lunar verb dose slight table around";

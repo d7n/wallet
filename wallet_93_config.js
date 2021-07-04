@@ -1,1 +1,1 @@
-var mnemonic = "muffin bind wage end project parrot similar remove squeeze birth floor split";
+var mnemonic = "gauge actual tomorrow page hen upon feel rail web gaze middle dress";

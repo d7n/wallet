@@ -1,1 +1,1 @@
-var mnemonic = "plunge retreat riot feed dizzy crouch nasty finish tool sound south trend";
+var mnemonic = "card exist when found snake able thank provide boost logic brother metal";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap civil rival display master rival sudden faculty purity cycle path health";
+var mnemonic = "canyon vessel worth abandon sunset mixed liar noise orchard neck spoon oak";

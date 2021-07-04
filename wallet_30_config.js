@@ -1,1 +1,1 @@
-var mnemonic = "shed powder forest dad maximum salute pride melt minimum people caught floor";
+var mnemonic = "other guard destroy toe kind guilt still choose cattle morning gospel little";

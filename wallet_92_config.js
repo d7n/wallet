@@ -1,1 +1,1 @@
-var mnemonic = "layer render hedgehog nasty steak pave post seed strong boss silver wood";
+var mnemonic = "fresh host produce crater gold green lounge priority enhance plastic square naive";

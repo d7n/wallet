@@ -1,1 +1,1 @@
-var mnemonic = "suggest enrich tent nuclear heart neck shed road such million foster fun";
+var mnemonic = "want brick cook local crouch maple provide record tennis analyst brain erode";

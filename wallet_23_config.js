@@ -1,1 +1,1 @@
-var mnemonic = "slot force used brown wagon twin wait pig just language elder together";
+var mnemonic = "nurse describe clip disease pitch there faint term veteran public warm wisdom";

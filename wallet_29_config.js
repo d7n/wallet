@@ -1,1 +1,1 @@
-var mnemonic = "cigar bonus female crime fan sibling umbrella belt become quarter sausage charge";
+var mnemonic = "drip penalty judge love skill exile margin jacket cheese cup skull stool";

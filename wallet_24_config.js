@@ -1,1 +1,1 @@
-var mnemonic = "tobacco reject joy song float angle fiction essay rebuild error twist near";
+var mnemonic = "guard render affair jungle equal rocket debris undo dash gift boat merit";

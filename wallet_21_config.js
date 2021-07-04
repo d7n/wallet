@@ -1,1 +1,1 @@
-var mnemonic = "seat spread clutch view soup drive carpet icon magnet any amazing copy";
+var mnemonic = "list knife glare absent void melt draw shop toilet dawn file trap";

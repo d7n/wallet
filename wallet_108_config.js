@@ -1,1 +1,1 @@
-var mnemonic = "wrestle spoon trash pizza coach motor left elbow quit reveal wood ginger";
+var mnemonic = "today that illegal frown asthma right learn match weekend walk liquid genuine";

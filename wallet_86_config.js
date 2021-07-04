@@ -1,1 +1,1 @@
-var mnemonic = "carry civil robot trigger forget together scrap mail neutral skin certain oxygen";
+var mnemonic = "puzzle train search tissue fire anchor all shed vapor around shaft arctic";

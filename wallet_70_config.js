@@ -1,1 +1,1 @@
-var mnemonic = "actor van village resist agent similar eternal stereo quarter hotel tank segment";
+var mnemonic = "trick muffin strong worth faith mushroom age wire hollow main bunker bus";

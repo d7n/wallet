@@ -1,1 +1,1 @@
-var mnemonic = "toddler help emerge trap nominee fire multiply door echo orient only reason";
+var mnemonic = "pool knee actor state leisure art breeze human frost census net suspect";

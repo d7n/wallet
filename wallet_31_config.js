@@ -1,1 +1,1 @@
-var mnemonic = "spatial evil heavy envelope play gadget alpha argue dutch siren coast mango";
+var mnemonic = "stuff smoke extra close symbol flat scale vacuum morning coffee awesome limit";

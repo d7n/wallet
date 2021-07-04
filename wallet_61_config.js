@@ -1,1 +1,1 @@
-var mnemonic = "glare screen ill orient powder lounge wall twenty accuse record beauty network";
+var mnemonic = "dust river exclude sniff certain vote arrest fork legal glove render grit";

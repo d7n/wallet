@@ -1,1 +1,1 @@
-var mnemonic = "glance chase nasty hawk loan fortune once prefer view skirt mind convince";
+var mnemonic = "boil wait vendor diary alpha equal loan must sea rude bubble target";

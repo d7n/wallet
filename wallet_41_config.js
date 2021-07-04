@@ -1,1 +1,1 @@
-var mnemonic = "deputy flame riot announce party become west outer welcome mandate nice trend";
+var mnemonic = "state adapt wrong anchor foot credit donate brisk attack ritual jazz glance";

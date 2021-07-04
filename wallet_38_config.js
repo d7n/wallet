@@ -1,1 +1,1 @@
-var mnemonic = "east buffalo harvest year police dress casual victory palace matrix casual elephant";
+var mnemonic = "swallow crane goat boil fantasy song tiger steak domain apple since myth";

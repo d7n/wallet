@@ -1,1 +1,1 @@
-var mnemonic = "chalk choice solid meat notable little just main gossip curious buddy song";
+var mnemonic = "pear purity next thumb notice final health rural cave limit cloth select";

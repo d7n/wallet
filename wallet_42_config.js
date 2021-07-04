@@ -1,1 +1,1 @@
-var mnemonic = "gown rule flip region ripple chaos pilot capable park section royal bunker";
+var mnemonic = "rail school soccer general equip figure gown dice manage pelican raccoon profit";

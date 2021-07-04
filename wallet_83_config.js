@@ -1,1 +1,1 @@
-var mnemonic = "north boss unable artwork gain second call siege essay brush stumble toy";
+var mnemonic = "tower fork sentence myself foil common stable below soap myself thumb transfer";

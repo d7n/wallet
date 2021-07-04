@@ -1,1 +1,1 @@
-var mnemonic = "roof waste ten over decrease retreat window sport shield stairs post make";
+var mnemonic = "avoid note obey six sunset hour rude party ankle useless bid play";

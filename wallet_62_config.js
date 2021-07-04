@@ -1,1 +1,1 @@
-var mnemonic = "funny crime coconut mule hope know flag mean swim staff absurd comfort";
+var mnemonic = "quiz paddle inherit prefer book error useless rich loyal carry jazz salmon";

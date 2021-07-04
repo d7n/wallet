@@ -1,1 +1,1 @@
-var mnemonic = "divide physical grunt cattle warfare autumn approve champion hair often unknown elephant";
+var mnemonic = "sing sustain phone dish swap toilet install tunnel laugh forget topple speak";

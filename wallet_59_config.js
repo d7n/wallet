@@ -1,1 +1,1 @@
-var mnemonic = "simple evil hurry betray dad version laundry smile slide call already chair";
+var mnemonic = "devote stool scene tank object island paddle design identify divide oval three";

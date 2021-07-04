@@ -1,1 +1,1 @@
-var mnemonic = "raw zebra meadow upset obtain worry also couch remind firm govern unknown";
+var mnemonic = "beach torch space leopard total rescue pipe accuse trim robot record pelican";

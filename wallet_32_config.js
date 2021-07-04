@@ -1,1 +1,1 @@
-var mnemonic = "response attack crane charge awkward brass menu victory canvas recipe use quarter";
+var mnemonic = "equip range cradle aunt original member vast number ankle honey cherry snap";

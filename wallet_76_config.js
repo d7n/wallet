@@ -1,1 +1,1 @@
-var mnemonic = "wish inhale thing sauce pilot endless exclude glow book bottom return resource";
+var mnemonic = "action cabbage gentle absent sheriff friend finish promote harsh casino mother host";

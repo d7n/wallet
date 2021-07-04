@@ -1,1 +1,1 @@
-var mnemonic = "orient gold cruel onion dress jeans surprise iron cherry cruise emerge turkey";
+var mnemonic = "end source dismiss document rare fancy cube plate music crime logic legend";

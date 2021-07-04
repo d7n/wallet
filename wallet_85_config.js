@@ -1,1 +1,1 @@
-var mnemonic = "caution clutch matrix disagree spider diary leg voice dream system empty belt";
+var mnemonic = "grass merry dash access sail only rookie vanish hospital become bargain mean";

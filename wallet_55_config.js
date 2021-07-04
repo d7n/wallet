@@ -1,1 +1,1 @@
-var mnemonic = "hand eager ozone heart rather hunt hold wrong eagle slide left denial";
+var mnemonic = "early color enter churn ice market middle strike gospel breeze distance advice";

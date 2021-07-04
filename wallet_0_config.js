@@ -1,1 +1,1 @@
-var mnemonic = "now brass ketchup panther system melt cry tag raven input twice craft";
+var mnemonic = "sister actor learn glory rack will twelve mass fade solution alpha kitchen";

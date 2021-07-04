@@ -1,1 +1,1 @@
-var mnemonic = "safe royal connect ride medal deer swallow matter dose kitten purpose pill";
+var mnemonic = "sun stadium lake sing agent general harvest exchange tattoo tool trim kiss";

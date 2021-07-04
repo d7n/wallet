@@ -1,1 +1,1 @@
-var mnemonic = "apart cruel gauge wave filter wood make settle jar proud chicken winner";
+var mnemonic = "loyal report tool endorse walk corn biology marine hello medal donor juice";

@@ -1,1 +1,1 @@
-var mnemonic = "unique orbit gauge win they game supply car near switch pelican obscure";
+var mnemonic = "vacuum actor possible panic robot memory home eager shell near vault reduce";

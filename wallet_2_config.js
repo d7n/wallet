@@ -1,1 +1,1 @@
-var mnemonic = "tonight update cannon just time portion casual pink mix rabbit anger have";
+var mnemonic = "duty frequent wish anxiety budget art patch develop furnace road blouse lumber";

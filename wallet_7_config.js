@@ -1,1 +1,1 @@
-var mnemonic = "culture web just detect eight allow sorry boil parade priority jeans diesel";
+var mnemonic = "kid ignore park idea dynamic foil dance velvet cake time trick hero";

@@ -1,1 +1,1 @@
-var mnemonic = "smart school win spin erosion notable solution foot sad rare purpose mimic";
+var mnemonic = "above orphan gloom drop three scrap mixed chest toast first remind glide";

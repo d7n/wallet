@@ -1,1 +1,1 @@
-var mnemonic = "float bounce acoustic occur frequent shop tissue divorce act journey mango trust";
+var mnemonic = "myself document kick depend health convince awkward sound awesome card advice feel";

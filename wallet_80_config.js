@@ -1,1 +1,1 @@
-var mnemonic = "double dinosaur brown social cargo gallery science north eyebrow shoot until shrug";
+var mnemonic = "observe produce coral captain guess mail offer legal focus someone detail fury";

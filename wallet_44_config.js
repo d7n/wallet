@@ -1,1 +1,1 @@
-var mnemonic = "reopen oak evidence example pact puzzle window inherit illegal village fragile dune";
+var mnemonic = "grid light injury rebuild next oak green sun trade drama board invite";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware off animal recall alter title cherry vast rent regret click tone";
+var mnemonic = "raw panda spray future program bird always water toilet trip save dry";

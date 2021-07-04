@@ -1,1 +1,1 @@
-var mnemonic = "cotton biology tackle taxi train blind session jeans badge diary awful summer";
+var mnemonic = "original profit remain dream phone style person expand address venue pistol whip";

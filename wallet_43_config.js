@@ -1,1 +1,1 @@
-var mnemonic = "crucial uncover candy junk nose favorite rally bitter social pool oppose depend";
+var mnemonic = "submit wish model garage truth life voyage start slam bunker ensure choice";

@@ -1,1 +1,1 @@
-var mnemonic = "now public require jealous dice east erase circle open trend ball friend";
+var mnemonic = "monitor okay debate much kite tank short switch goose negative inquiry tragic";

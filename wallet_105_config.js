@@ -1,1 +1,1 @@
-var mnemonic = "federal private pledge filter room punch rude only size test display razor";
+var mnemonic = "pioneer disease pond section easy breeze conduct humble want switch mail match";

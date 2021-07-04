@@ -1,1 +1,1 @@
-var mnemonic = "perfect trash edit elder curious congress urge into salmon tone caution team";
+var mnemonic = "six tennis train account hollow beach cliff evolve rifle party void cross";

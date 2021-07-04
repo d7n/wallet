@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit right swim festival easily consider twice cup exhaust ring village circle";
+var mnemonic = "angry ethics vehicle duty come corn bid tortoise barrel inform finger awful";

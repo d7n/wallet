@@ -1,1 +1,1 @@
-var mnemonic = "gospel rack grace empty seven castle hedgehog despair fault rare disorder parent";
+var mnemonic = "pact used bundle drop annual element thrive witness ripple clinic possible gloom";

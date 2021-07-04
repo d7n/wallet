@@ -1,1 +1,1 @@
-var mnemonic = "oxygen dwarf govern visa peace borrow brick draw movie success dove before";
+var mnemonic = "embody suffer nasty almost weekend phrase carpet absent news erosion avoid morning";

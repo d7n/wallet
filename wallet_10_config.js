@@ -1,1 +1,1 @@
-var mnemonic = "cattle type stone candy deer owner check mosquito hill today fatigue sphere";
+var mnemonic = "beauty grocery between icon series capital doll endless palace gap enlist book";

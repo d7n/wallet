@@ -1,1 +1,1 @@
-var mnemonic = "solid labor loop mechanic dove elite open amount slight excess accuse blast";
+var mnemonic = "ability pair hospital bread pipe segment upset cage card garbage alter topple";

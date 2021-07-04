@@ -1,1 +1,1 @@
-var mnemonic = "gate range pony sadness brief sunset pair dial occur foot stumble chimney";
+var mnemonic = "happy crush bamboo spy coil regular turtle depend genius endorse approve effort";

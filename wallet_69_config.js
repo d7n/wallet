@@ -1,1 +1,1 @@
-var mnemonic = "banner pottery awake carpet toddler person list junior weather knee violin defense";
+var mnemonic = "rib second again project bleak exhaust rail net sock change rent acquire";

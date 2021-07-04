@@ -1,1 +1,1 @@
-var mnemonic = "picnic among second wheel novel loan pledge nasty ribbon ignore snack chunk";
+var mnemonic = "ocean stairs dice jealous quote such surge drum cherry december joke exist";

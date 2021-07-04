@@ -1,1 +1,1 @@
-var mnemonic = "donate belt mad merry spray celery solve zebra table cave supply album";
+var mnemonic = "wedding sauce cart injury citizen much audit boil dance flush dignity pumpkin";

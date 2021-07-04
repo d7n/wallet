@@ -1,1 +1,1 @@
-var mnemonic = "gate hood defy junior coyote donkey demise oppose enhance topic page beyond";
+var mnemonic = "dizzy discover strike orchard metal shine yellow flip west index umbrella jewel";

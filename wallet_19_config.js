@@ -1,1 +1,1 @@
-var mnemonic = "source define weekend marriage fine clock front arrange gentle kit dirt find";
+var mnemonic = "collect dream game avoid bubble coffee hidden inside visual clock sting relief";

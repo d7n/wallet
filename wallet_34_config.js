@@ -1,1 +1,1 @@
-var mnemonic = "ritual ten gospel indicate nerve fox kite lemon minor melody coffee shock";
+var mnemonic = "lock elevator toy that mind retire pluck sell credit boring match announce";

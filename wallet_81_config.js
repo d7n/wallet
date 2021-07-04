@@ -1,1 +1,1 @@
-var mnemonic = "orange donate orange raven adapt slush urge enrich travel sample hunt multiply";
+var mnemonic = "mix slot album dolphin stomach bonus maze middle slab emotion toy cream";

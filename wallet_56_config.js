@@ -1,1 +1,1 @@
-var mnemonic = "denial pattern remind ladder version sorry sort smile uphold melt erase deposit";
+var mnemonic = "route beyond vendor note exhibit view monitor quarter mobile area sock clown";

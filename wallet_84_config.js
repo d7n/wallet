@@ -1,1 +1,1 @@
-var mnemonic = "save myth reward ketchup capable talk blast frame moment misery pear emerge";
+var mnemonic = "planet embrace loan supply battle finish habit circle wait various cinnamon fatigue";

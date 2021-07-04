@@ -1,1 +1,1 @@
-var mnemonic = "label ozone woman pony wolf pen hurry dust gloom such please transfer";
+var mnemonic = "lonely shoot mesh fly muffin canal breeze tank island damp wheel rigid";

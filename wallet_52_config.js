@@ -1,1 +1,1 @@
-var mnemonic = "vacant among economy utility camp album bunker isolate pool step phrase border";
+var mnemonic = "draw park wing ticket patient garment dirt crawl sign tribe naive april";

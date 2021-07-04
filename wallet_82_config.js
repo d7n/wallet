@@ -1,1 +1,1 @@
-var mnemonic = "chase number roast ordinary subway found conduct recipe unique sample limb suit";
+var mnemonic = "clog creek buffalo pulse crime engine connect mystery inch fossil elevator novel";

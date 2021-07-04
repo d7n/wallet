@@ -1,1 +1,1 @@
-var mnemonic = "you stand effort keep whip jaguar phone calm beef almost wedding category";
+var mnemonic = "bulk gift aerobic resist imitate suggest follow ritual actress edge umbrella rib";

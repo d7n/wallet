@@ -1,1 +1,1 @@
-var mnemonic = "enemy ripple afford drastic burger invest van sniff couch bus age ten";
+var mnemonic = "voice claim nurse glow hire blush pistol cluster thumb sense promote across";

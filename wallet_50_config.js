@@ -1,1 +1,1 @@
-var mnemonic = "fun cricket setup coin fortune awake outer insect cluster original airport torch";
+var mnemonic = "analyst review push absent custom vacant grace trial road enable country salute";

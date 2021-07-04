@@ -1,1 +1,1 @@
-var mnemonic = "message estate tide absurd use purchase absorb expect blush cycle virtual utility";
+var mnemonic = "whip ahead olympic carbon keen dismiss real gap limit crunch scrap panther";

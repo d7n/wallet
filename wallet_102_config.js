@@ -1,1 +1,1 @@
-var mnemonic = "neglect decline slender impulse carpet modify harvest large online rather peace rival";
+var mnemonic = "wage voice poem glow smart immune mechanic fog advance disease nose midnight";

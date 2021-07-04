@@ -1,1 +1,1 @@
-var mnemonic = "diagram prevent congress govern canyon click dad satisfy tattoo payment sing acid";
+var mnemonic = "album manage rebuild series fork camera inside oppose science submit else prize";

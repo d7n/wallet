@@ -1,1 +1,1 @@
-var mnemonic = "core dismiss manual when bleak blood valve snap stem expand entry impulse";
+var mnemonic = "group access champion spend cause badge galaxy then message cash rapid pretty";

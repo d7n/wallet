@@ -1,1 +1,1 @@
-var mnemonic = "ocean donkey girl decrease pride lawn bubble tobacco cause example mountain virus";
+var mnemonic = "recall shell whip make shiver ill emotion soul diary future provide such";

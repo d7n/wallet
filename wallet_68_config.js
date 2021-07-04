@@ -1,1 +1,1 @@
-var mnemonic = "cactus case beach action rare click orphan copper squeeze happy creek flower";
+var mnemonic = "elephant spray math dolphin throw obvious tenant control arrow comic ozone employ";

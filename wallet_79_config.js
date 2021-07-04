@@ -1,1 +1,1 @@
-var mnemonic = "reason fiber target pony shine frown bachelor toddler key entry surge price";
+var mnemonic = "lawn notice viable orphan abuse collect inform space castle crumble dignity virtual";

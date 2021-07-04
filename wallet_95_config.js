@@ -1,1 +1,1 @@
-var mnemonic = "dutch pretty banner cram song young term fantasy accuse recycle rhythm cry";
+var mnemonic = "sight napkin bounce engage episode suggest comic success wash hold shrimp shoulder";

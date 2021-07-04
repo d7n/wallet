@@ -1,1 +1,1 @@
-var mnemonic = "sauce decade stick arrange labor victory answer topic interest orphan super monitor";
+var mnemonic = "only earth chronic barrel lady domain child size vocal group mistake review";

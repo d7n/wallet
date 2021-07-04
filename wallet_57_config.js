@@ -1,1 +1,1 @@
-var mnemonic = "bone polar final room bus below trap evolve model symptom round pizza";
+var mnemonic = "salad climb ramp candy ocean extend enable royal early decade amazing approve";

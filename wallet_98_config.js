@@ -1,1 +1,1 @@
-var mnemonic = "abstract deer jealous spoon cram table usage apology cargo defy reform final";
+var mnemonic = "nest huge patrol tuition alarm transfer visual deliver tiny pyramid lava view";

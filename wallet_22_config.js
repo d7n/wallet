@@ -1,1 +1,1 @@
-var mnemonic = "celery limit smart flight gentle popular vendor execute diamond student solve record";
+var mnemonic = "notice enact glass pull stone carpet omit twin quantum cherry park escape";

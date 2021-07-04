@@ -1,1 +1,1 @@
-var mnemonic = "novel joke hurt escape brisk broccoli card custom element ceiling page solar";
+var mnemonic = "left assault pluck main point pilot castle license gravity olympic skin rule";

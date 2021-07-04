@@ -1,1 +1,1 @@
-var mnemonic = "patient symptom violin great prosper cancel slim shaft south field execute solar";
+var mnemonic = "depth submit unfair rule despair choice palace lecture million isolate path portion";

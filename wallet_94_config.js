@@ -1,1 +1,1 @@
-var mnemonic = "cannon give auction mansion desert flash display legal limb fit inform forest";
+var mnemonic = "cube neglect flush reward airport turtle shoot weekend pole labor dutch fashion";

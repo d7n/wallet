@@ -1,1 +1,1 @@
-var mnemonic = "swing mansion view during copy slab great rescue afraid purity economy permit";
+var mnemonic = "limit easy jazz pen eight genius humor legend catch elephant endless index";

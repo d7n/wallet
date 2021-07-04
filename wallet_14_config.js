@@ -1,1 +1,1 @@
-var mnemonic = "still few south cradle lab fantasy crush judge theory comic cricket salad";
+var mnemonic = "tone drastic amazing depart panther truck leg dawn elephant illegal depend deer";

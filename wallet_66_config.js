@@ -1,1 +1,1 @@
-var mnemonic = "monitor magic gauge board bar gorilla flee absurd hockey lecture business reform";
+var mnemonic = "glory offer agree city edge zero simple bitter burst off pledge member";

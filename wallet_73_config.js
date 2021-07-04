@@ -1,1 +1,1 @@
-var mnemonic = "blast sorry interest hurry pill select sting response gadget auction honey pudding";
+var mnemonic = "cruel bid pool assault story curious lunch rotate lyrics noodle defense apology";

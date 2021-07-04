@@ -1,1 +1,1 @@
-var mnemonic = "fashion innocent leg oblige organ east solution scatter man kidney neglect praise";
+var mnemonic = "garment trophy section nation monitor obtain famous usual lift foam sphere real";

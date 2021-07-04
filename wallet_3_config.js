@@ -1,1 +1,1 @@
-var mnemonic = "blast split sound absent medal habit divide digital segment describe violin cinnamon";
+var mnemonic = "echo screen hobby boy diesel gossip imitate always defense victory angle raise";

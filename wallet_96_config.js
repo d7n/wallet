@@ -1,1 +1,1 @@
-var mnemonic = "icon clerk couch grab local hour matrix case weapon record drum oppose";
+var mnemonic = "gate caught mad park stadium royal evidence perfect egg carpet wedding search";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst ethics ring page arrange fitness half chronic scatter train lobster release";
+var mnemonic = "session poet dwarf suspect second utility increase disorder feed spring soldier omit";

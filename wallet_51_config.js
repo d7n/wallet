@@ -1,1 +1,1 @@
-var mnemonic = "announce van will gown excite horror pipe author couple spoil dentist rent";
+var mnemonic = "rather happy expect sword salmon biology couch bid lab vague rule coil";

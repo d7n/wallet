@@ -1,1 +1,1 @@
-var mnemonic = "type around negative agree script during arctic novel gentle paper observe poverty";
+var mnemonic = "tray myself process right edge rough plug clinic arrow cloud absent grape";
