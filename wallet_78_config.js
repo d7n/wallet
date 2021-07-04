@@ -1,1 +1,1 @@
-var mnemonic = "pledge rapid reveal poverty quit never believe obtain cotton impose puppy proud";
+var mnemonic = "sniff crouch tail enjoy you moment insect hard warm lesson acoustic sauce";

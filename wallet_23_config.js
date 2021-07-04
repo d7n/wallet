@@ -1,1 +1,1 @@
-var mnemonic = "notable hunt office life robot blame auction parent three palm embrace give";
+var mnemonic = "increase august web lottery execute identify exile brief tackle window license spot";

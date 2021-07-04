@@ -1,1 +1,1 @@
-var mnemonic = "rescue cube gun twelve plug affair aerobic wide glue jaguar coconut twenty";
+var mnemonic = "avoid omit much stairs unique moment excess vote poverty ecology glide walnut";

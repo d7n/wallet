@@ -1,1 +1,1 @@
-var mnemonic = "wool gap father ship clay angle empty link require situate jewel ecology";
+var mnemonic = "link sauce give edge bind merit park soldier album cart steel clean";

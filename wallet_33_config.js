@@ -1,1 +1,1 @@
-var mnemonic = "sure robot between soft damp boring avocado fee unfold worry stadium invest";
+var mnemonic = "venue will sadness mail parent better doll jelly govern enrich bus squeeze";

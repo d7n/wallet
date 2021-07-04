@@ -1,1 +1,1 @@
-var mnemonic = "initial betray cruise wine find clever wait special three scheme soon race";
+var mnemonic = "child submit step stove limit add turtle erupt spider winter census peasant";

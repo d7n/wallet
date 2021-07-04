@@ -1,1 +1,1 @@
-var mnemonic = "obtain zebra family poverty couple festival license cattle diagram chuckle hub nothing";
+var mnemonic = "office harbor advance enjoy decide decade clown refuse west now urge jewel";

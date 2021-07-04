@@ -1,1 +1,1 @@
-var mnemonic = "law spy wheat rather maximum canal express stuff there sheriff idea panel";
+var mnemonic = "bring fuel secret degree witness weasel foot divide excuse valley canoe host";

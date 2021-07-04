@@ -1,1 +1,1 @@
-var mnemonic = "page skill prevent pigeon trap idea planet regret brand riot artefact evoke";
+var mnemonic = "antique hero bridge reunion expose vote print oblige cradle aware month weather";

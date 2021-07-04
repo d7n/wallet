@@ -1,1 +1,1 @@
-var mnemonic = "melt danger assume share hybrid nasty museum tell stone range hat valid";
+var mnemonic = "limb above crowd forest axis culture crawl feel awesome improve angry group";

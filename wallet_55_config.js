@@ -1,1 +1,1 @@
-var mnemonic = "reduce wide armed spin pass assault grass govern wise identify common road";
+var mnemonic = "collect silent exhibit question post sun remind hard apple quote load pen";

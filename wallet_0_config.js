@@ -1,1 +1,1 @@
-var mnemonic = "belt play copper satoshi gift umbrella fringe mixed crew kitten picture steak";
+var mnemonic = "outdoor puzzle enforce order borrow human green umbrella earth elite unknown adult";

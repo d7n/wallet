@@ -1,1 +1,1 @@
-var mnemonic = "banana apple spike poem depend blossom giraffe buyer forward limb until business";
+var mnemonic = "mind now finger jaguar please anxiety proof snap timber grocery leopard energy";

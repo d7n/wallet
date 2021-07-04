@@ -1,1 +1,1 @@
-var mnemonic = "sell follow rebel pole beauty record march prosper rug erosion knock faith";
+var mnemonic = "drift spread husband margin glove endorse liquid brisk cluster viable bright only";

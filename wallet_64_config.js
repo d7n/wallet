@@ -1,1 +1,1 @@
-var mnemonic = "skull color guess moral valve image mistake swing trap enroll tribe purse";
+var mnemonic = "custom near family arena whip message sound awkward ketchup remember memory height";

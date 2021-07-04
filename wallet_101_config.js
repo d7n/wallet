@@ -1,1 +1,1 @@
-var mnemonic = "wood canvas where unaware pink inspire game toast sausage blame exist nut";
+var mnemonic = "tent comic cross this rain balance glad jealous rookie elbow arrive quantum";

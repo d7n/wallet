@@ -1,1 +1,1 @@
-var mnemonic = "foot stay lunar wreck artefact notice success panther rubber trash brush witness";
+var mnemonic = "dinosaur story original guitar canoe flip enter typical forward gravity doctor question";

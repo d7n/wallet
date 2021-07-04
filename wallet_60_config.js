@@ -1,1 +1,1 @@
-var mnemonic = "danger inflict million portion pepper venue acquire mango cat fork begin chase";
+var mnemonic = "caught parade awesome field shoot receive sadness copper gravity pattern modify hire";

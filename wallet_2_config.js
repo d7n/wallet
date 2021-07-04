@@ -1,1 +1,1 @@
-var mnemonic = "reunion scout divide slab pony beef rack public salt broken sunny blouse";
+var mnemonic = "impact keen movie soup degree crowd slot drastic arm embark swamp replace";

@@ -1,1 +1,1 @@
-var mnemonic = "blind choose kid ring choose rib hybrid obtain sample old twist helmet";
+var mnemonic = "royal stick rack foot print galaxy bronze ignore silk pen write luxury";

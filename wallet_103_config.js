@@ -1,1 +1,1 @@
-var mnemonic = "advance danger valve net hair tuna surface improve wheel loyal sting glance";
+var mnemonic = "taste advance sunny copy ceiling tilt finish slight mosquito direct divorce title";

@@ -1,1 +1,1 @@
-var mnemonic = "boy arm behave mesh craft sight remove duty arrange tank sick shrug";
+var mnemonic = "spray cram diesel habit index toward clinic path predict waste mistake torch";

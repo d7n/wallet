@@ -1,1 +1,1 @@
-var mnemonic = "fringe honey ready noodle blanket spray anxiety sudden behave gossip apple hello";
+var mnemonic = "juice dream timber put light student sick inject day lend rapid grow";

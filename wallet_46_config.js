@@ -1,1 +1,1 @@
-var mnemonic = "nerve cattle inmate super over lonely lecture random index scene grit industry";
+var mnemonic = "rug say october equal area trap inmate coin imitate find slow virus";

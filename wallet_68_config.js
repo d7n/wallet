@@ -1,1 +1,1 @@
-var mnemonic = "swarm gauge power episode decline poet erase west panda unfold volcano defy";
+var mnemonic = "clump lava record fence sun another embody innocent fatal device course where";

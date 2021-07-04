@@ -1,1 +1,1 @@
-var mnemonic = "come melody enough abuse athlete mercy level tiger replace disagree anger uniform";
+var mnemonic = "culture web way all yard ski foot help enhance pretty dry error";

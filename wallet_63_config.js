@@ -1,1 +1,1 @@
-var mnemonic = "erosion autumn volcano cream excess genuine lens three lock volcano wolf neither";
+var mnemonic = "tomorrow speak erupt lady oak sunny pave youth arrest affair muscle aerobic";

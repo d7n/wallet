@@ -1,1 +1,1 @@
-var mnemonic = "spell vicious child vibrant wrong assume stay prepare potato impulse broom scheme";
+var mnemonic = "squeeze submit picnic bitter model bird poet token skin faculty dash start";

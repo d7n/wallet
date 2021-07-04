@@ -1,1 +1,1 @@
-var mnemonic = "ladder elevator penalty baby poverty old topic print twin area thumb urge";
+var mnemonic = "when once vapor slide victory kite comfort marine news card door arrive";

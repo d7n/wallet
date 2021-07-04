@@ -1,1 +1,1 @@
-var mnemonic = "claim fringe patient minor park uncle forest various danger finish chat blossom";
+var mnemonic = "kiss decorate monkey maze rhythm stable jump negative practice pepper boss salon";

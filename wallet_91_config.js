@@ -1,1 +1,1 @@
-var mnemonic = "worth desert fossil solve plug unique armed safe fragile brown someone ugly";
+var mnemonic = "fantasy slide test tell weird charge quarter toe enjoy piano romance fun";

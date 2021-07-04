@@ -1,1 +1,1 @@
-var mnemonic = "budget squeeze crater curve inform gravity burger hair enact tomorrow airport woman";
+var mnemonic = "hundred sort more auto lake island venue just soft identify embody walk";

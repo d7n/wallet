@@ -1,1 +1,1 @@
-var mnemonic = "wreck praise until lottery fiscal nephew mother knock enforce coyote educate ball";
+var mnemonic = "hope figure neither nut advice salt craft cement fresh frozen charge range";

@@ -1,1 +1,1 @@
-var mnemonic = "theory elite beauty switch coast fever gloom ugly correct child right march";
+var mnemonic = "auto vendor between lake retire clog asset buddy chunk whisper loop interest";

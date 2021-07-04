@@ -1,1 +1,1 @@
-var mnemonic = "visit shop lunch witness secret cake amazing funny rely enroll crush clinic";
+var mnemonic = "genre town chest picture close giraffe cool follow measure churn treat birth";

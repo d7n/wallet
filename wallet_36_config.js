@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin crucial sausage unhappy evil stand smile such news napkin rookie blame";
+var mnemonic = "theme absent fine stone lizard list alien decorate forward tongue attitude bomb";

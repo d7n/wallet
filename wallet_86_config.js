@@ -1,1 +1,1 @@
-var mnemonic = "knock venture middle caught strike hello width zoo oyster survey observe crystal";
+var mnemonic = "spin wait abuse february spin emerge come hammer slogan rent sell outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "legal unveil scale lyrics alpha kiss say airport pretty result maid amount";
+var mnemonic = "trigger soccer opinion chase company company bonus item iron punch slice divorce";

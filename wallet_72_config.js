@@ -1,1 +1,1 @@
-var mnemonic = "cloth amount arch walk tattoo sponsor modify glide strong skull fog senior";
+var mnemonic = "steel bird lava fault hard mesh collect water egg toilet profit case";

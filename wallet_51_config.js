@@ -1,1 +1,1 @@
-var mnemonic = "grape basic virtual negative popular eight sport expect diesel age inch tomorrow";
+var mnemonic = "siren knee youth catch behind monkey purse subject glare trim comfort protect";

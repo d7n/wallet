@@ -1,1 +1,1 @@
-var mnemonic = "envelope scrap maze flight repeat mimic obscure chase fire travel unknown omit";
+var mnemonic = "lens deny video one toy dolphin paddle vocal hover state kick critic";

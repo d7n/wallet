@@ -1,1 +1,1 @@
-var mnemonic = "flat aisle enact expect address apple entry cube bullet tag secret patch";
+var mnemonic = "render trim announce resist rate draft point gas access crush slow situate";

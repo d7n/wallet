@@ -1,1 +1,1 @@
-var mnemonic = "orchard concert modify clip rigid account topic orchard adapt step drift wall";
+var mnemonic = "ridge remember whisper average faith animal parade tomorrow sure endless climb moment";

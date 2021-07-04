@@ -1,1 +1,1 @@
-var mnemonic = "remain tape draft blouse ill spider agent daughter capital van company distance";
+var mnemonic = "ladder gorilla change battle trophy crack ceiling trial future breeze dutch sort";

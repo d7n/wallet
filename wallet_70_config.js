@@ -1,1 +1,1 @@
-var mnemonic = "bread include still mouse pig loop chicken misery fragile boost gown rebuild";
+var mnemonic = "grace item roast fiscal almost human odor slab large stock master minor";

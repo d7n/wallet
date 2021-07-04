@@ -1,1 +1,1 @@
-var mnemonic = "sell hub clutch cost maze dawn step favorite forget dose transfer deer";
+var mnemonic = "cousin custom wide ski winter unveil welcome cargo naive axis coral chef";

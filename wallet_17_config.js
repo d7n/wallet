@@ -1,1 +1,1 @@
-var mnemonic = "clump maximum practice process charge wheel opinion jealous oyster escape bitter orient";
+var mnemonic = "employ absorb unknown enter update bullet thunder change permit favorite sheriff advance";

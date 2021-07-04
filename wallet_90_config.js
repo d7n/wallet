@@ -1,1 +1,1 @@
-var mnemonic = "bid sibling mimic page turkey uncover salad oppose music rule chief peace";
+var mnemonic = "worth liquid again ahead wide crack task old install shell reward bachelor";

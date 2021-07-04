@@ -1,1 +1,1 @@
-var mnemonic = "night biology slim slide phrase title borrow connect palm glad isolate merge";
+var mnemonic = "electric afraid budget forget morning assume cabbage rely cherry vault travel legend";

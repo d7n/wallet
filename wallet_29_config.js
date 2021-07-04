@@ -1,1 +1,1 @@
-var mnemonic = "plastic twice fox rose canoe unknown dove three cliff language kiss agree";
+var mnemonic = "phone dentist scrap brave skirt seed ring farm transfer oppose episode unlock";

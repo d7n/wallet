@@ -1,1 +1,1 @@
-var mnemonic = "undo escape face october document elegant diesel lawsuit mystery borrow spot sense";
+var mnemonic = "give number garbage endorse index sponsor gun awkward grass purpose stove cream";

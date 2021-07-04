@@ -1,1 +1,1 @@
-var mnemonic = "visit upgrade segment suffer join supply leaf lab flame knock figure fragile";
+var mnemonic = "few hello machine flush pottery client prepare history bundle crystal today under";

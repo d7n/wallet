@@ -1,1 +1,1 @@
-var mnemonic = "insect casual lunch twice bachelor knock script century skate match build polar";
+var mnemonic = "grass debate envelope craft engage response sadness behind pelican ancient giant cool";

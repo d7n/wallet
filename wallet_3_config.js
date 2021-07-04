@@ -1,1 +1,1 @@
-var mnemonic = "spawn field modify anger credit recycle black dwarf when else modify vintage";
+var mnemonic = "thunder believe century noise submit leisure sing need output give proud drift";

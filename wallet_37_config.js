@@ -1,1 +1,1 @@
-var mnemonic = "ceiling twelve useful trick balance print engine rail nest bronze undo jar";
+var mnemonic = "false arm method struggle spend one this avoid control jeans tower reflect";

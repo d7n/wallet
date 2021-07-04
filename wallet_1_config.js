@@ -1,1 +1,1 @@
-var mnemonic = "chat useful poem track airport pet guilt fox worry winter crash above";
+var mnemonic = "profit polar video brush wash glue final earn runway embrace wear general";

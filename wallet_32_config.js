@@ -1,1 +1,1 @@
-var mnemonic = "unknown critic route puzzle shop like relief future gold beauty erupt banner";
+var mnemonic = "chef reduce guard abandon lazy glue custom skirt utility rotate spread crane";

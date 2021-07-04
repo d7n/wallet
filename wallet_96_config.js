@@ -1,1 +1,1 @@
-var mnemonic = "solve chief home cinnamon skull glass lady toddler debris unfair inherit symptom";
+var mnemonic = "confirm size economy keen erase blind debris layer clerk suit wheel permit";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt olympic job item grunt kitten adult flash vacant glance know juice";
+var mnemonic = "refuse face whisper multiply surround dose better vibrant heavy sister tribe clutch";

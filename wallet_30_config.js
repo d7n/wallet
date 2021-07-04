@@ -1,1 +1,1 @@
-var mnemonic = "apple gesture black myth floor gadget iron dynamic ring cigar wasp assist";
+var mnemonic = "much engage grow soldier report leaf proud glass music impulse traffic couple";

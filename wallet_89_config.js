@@ -1,1 +1,1 @@
-var mnemonic = "raccoon around provide once text stuff noodle torch grant novel repair van";
+var mnemonic = "chuckle potato kid opinion radio sibling torch donate aunt chronic slight fine";

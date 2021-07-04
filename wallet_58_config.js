@@ -1,1 +1,1 @@
-var mnemonic = "sound cheap ghost direct vivid frame renew lemon name notable dial salmon";
+var mnemonic = "usual couch genuine soldier corn sleep burden cruel save guess awesome tag";

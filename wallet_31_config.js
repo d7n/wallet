@@ -1,1 +1,1 @@
-var mnemonic = "oval lazy more brain ladder tilt firm shallow two few anger sea";
+var mnemonic = "high benefit drum kitten coil upgrade have satisfy pole slot recall retreat";

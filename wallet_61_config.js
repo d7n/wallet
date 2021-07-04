@@ -1,1 +1,1 @@
-var mnemonic = "critic august unhappy present cattle denial umbrella spell evidence girl such order";
+var mnemonic = "dutch raw exile inspire arrive alien comfort level deal action final web";

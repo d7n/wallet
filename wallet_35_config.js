@@ -1,1 +1,1 @@
-var mnemonic = "file praise detect pumpkin soul deputy inmate physical point recycle thunder banner";
+var mnemonic = "giant comic pretty odor uphold wine movie library dutch decorate sweet quantum";

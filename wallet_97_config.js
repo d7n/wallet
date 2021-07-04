@@ -1,1 +1,1 @@
-var mnemonic = "reunion above universe lamp snack glow autumn banner slab hundred cart feel";
+var mnemonic = "artefact employ fantasy east canal melody kitten parent address mask argue flush";

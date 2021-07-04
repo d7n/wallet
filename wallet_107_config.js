@@ -1,1 +1,1 @@
-var mnemonic = "pattern abuse angle carry tray second kitten fall shove reunion oak cruel";
+var mnemonic = "robust across cup grid viable lizard oval entire patch canoe jaguar demand";

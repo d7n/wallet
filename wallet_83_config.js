@@ -1,1 +1,1 @@
-var mnemonic = "blanket infant squeeze improve pitch sphere solid kiss race ceiling uncle curve";
+var mnemonic = "bonus transfer battle syrup pave dutch address defy appear oppose ranch royal";

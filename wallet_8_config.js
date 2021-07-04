@@ -1,1 +1,1 @@
-var mnemonic = "brass speak embark web speed little eye sort walk velvet stove smart";
+var mnemonic = "fiction scene business radar glow interest visit animal symbol meadow punch confirm";

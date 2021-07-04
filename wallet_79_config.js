@@ -1,1 +1,1 @@
-var mnemonic = "impulse sudden rug liar rebel rapid whip mutual tank fruit live brick";
+var mnemonic = "good acid life inject energy protect exclude column chaos regret lottery vote";

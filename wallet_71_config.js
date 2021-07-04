@@ -1,1 +1,1 @@
-var mnemonic = "rotate camp robust blur one bike camp remove wait harsh fringe also";
+var mnemonic = "menu hover solar any usage slow scale profit curve review wall announce";

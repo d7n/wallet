@@ -1,1 +1,1 @@
-var mnemonic = "thrive assault biology breeze decorate guilt want earth angle ginger stove capital";
+var mnemonic = "snack above march robot price sunny cool neglect spray behind panda forward";

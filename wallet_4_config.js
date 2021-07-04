@@ -1,1 +1,1 @@
-var mnemonic = "rocket produce husband piano miracle vapor ugly exclude vehicle isolate timber genuine";
+var mnemonic = "woman violin slide initial put search usage canal canal game giraffe output";

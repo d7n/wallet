@@ -1,1 +1,1 @@
-var mnemonic = "salt input mad emerge toe hungry climb ritual wolf use raise install";
+var mnemonic = "crash gas rescue easily pigeon forward candy athlete grant embrace apart velvet";

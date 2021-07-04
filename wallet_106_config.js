@@ -1,1 +1,1 @@
-var mnemonic = "sorry flavor sword tornado bring sustain shadow calm theory balcony draft moon";
+var mnemonic = "bread used ask problem survey repeat fan predict involve empower elevator evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "short okay thrive isolate apology library image tornado luggage office remind piano";
+var mnemonic = "wink gallery organ bicycle honey noodle firm settle word library pony bargain";

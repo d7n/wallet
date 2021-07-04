@@ -1,1 +1,1 @@
-var mnemonic = "rocket vapor soon shove interest curtain minor fringe elder decade parent cross";
+var mnemonic = "rescue lemon wedding cotton erupt memory finger victory large monkey unfair board";

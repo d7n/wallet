@@ -1,1 +1,1 @@
-var mnemonic = "nose tobacco twin oak verb lonely celery seminar ride diamond episode scene";
+var mnemonic = "amateur replace lunar urge rebel senior between guide invest rose slow fragile";

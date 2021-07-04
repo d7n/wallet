@@ -1,1 +1,1 @@
-var mnemonic = "grit pledge useless wish brick feel brown surface version novel odor all";
+var mnemonic = "leopard float attitude giraffe pool tooth bamboo welcome mad wreck volume prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain hard ice inherit either traffic enough clean exhaust receive rib alpha";
+var mnemonic = "goat history rubber life lecture monkey two flash three ladder ordinary fine";

@@ -1,1 +1,1 @@
-var mnemonic = "reject clarify measure inject fame zone topple snow travel cook confirm sign";
+var mnemonic = "puppy spin rather usual earth ivory address trigger energy vocal true female";

@@ -1,1 +1,1 @@
-var mnemonic = "first mother father plug panic when pulse clarify lunar spawn buffalo gasp";
+var mnemonic = "rib machine edit quantum safe drive young try wet undo base rifle";

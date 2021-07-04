@@ -1,1 +1,1 @@
-var mnemonic = "above ketchup broccoli knock rare remind wild uncle sell run ahead glare";
+var mnemonic = "whisper truck page romance doctor muffin balcony cream iron injury future faint";

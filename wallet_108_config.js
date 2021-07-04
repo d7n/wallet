@@ -1,1 +1,1 @@
-var mnemonic = "margin present antique find word gallery sand lucky degree teach ramp rail";
+var mnemonic = "swear spirit service coast syrup rifle network toddler dizzy safe purse reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive category put various naive reform caught weekend meadow winter puzzle surround";
+var mnemonic = "hobby exhaust man squirrel repeat motor tail vast reflect profit hockey today";

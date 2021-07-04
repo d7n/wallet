@@ -1,1 +1,1 @@
-var mnemonic = "beef expose future peace catch tree nuclear report surprise ready session wonder";
+var mnemonic = "swap settle dune wide tell icon under theme treat globe viable ethics";

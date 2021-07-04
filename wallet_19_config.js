@@ -1,1 +1,1 @@
-var mnemonic = "sister creek clerk chapter faint wage fashion barely hurdle stable near scale";
+var mnemonic = "plate boss remain story balance mean mention broken guitar stadium topic rude";

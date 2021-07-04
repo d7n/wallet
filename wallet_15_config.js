@@ -1,1 +1,1 @@
-var mnemonic = "cheese rather skill pattern sword tiny avoid already toast morning face join";
+var mnemonic = "damage corn subway say apology hole deal equip wife wise welcome giant";
