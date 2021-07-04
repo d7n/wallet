@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo volume boring aisle maid velvet main aunt across organ fortune glove";
+var mnemonic = "where admit jungle rug regret bird salon extend gate fold jeans learn";

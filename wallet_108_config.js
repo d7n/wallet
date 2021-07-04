@@ -1,1 +1,1 @@
-var mnemonic = "daring refuse try donor another ill alien then remove gain bar win";
+var mnemonic = "nut verify trend predict million move proud unaware inmate what front rely";

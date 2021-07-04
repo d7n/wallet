@@ -1,1 +1,1 @@
-var mnemonic = "ahead soon leg bargain valley lens speak teach display afford west hedgehog";
+var mnemonic = "sunny split spare village pattern team zero soda patrol pause require door";

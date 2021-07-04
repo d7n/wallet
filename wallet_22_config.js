@@ -1,1 +1,1 @@
-var mnemonic = "private embark attend cupboard drastic donate civil furnace coffee payment pig tongue";
+var mnemonic = "slot over quarter exhibit dilemma danger dose hybrid wolf camera actor return";

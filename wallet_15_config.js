@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur dolphin onion spider skill glimpse enact fiber coach cry assume pen";
+var mnemonic = "slow foil milk truly zebra apple diesel please quick joy nest anger";

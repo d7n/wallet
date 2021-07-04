@@ -1,1 +1,1 @@
-var mnemonic = "silver midnight myself mirror february foster security device notice wage city next";
+var mnemonic = "sunset blush rude honey door figure cube final furnace luggage reunion depart";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade news pizza raven clown blossom find rack similar pulp inch worry";
+var mnemonic = "drink square today weasel sick voice unaware mouse brief argue unusual glass";

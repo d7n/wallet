@@ -1,1 +1,1 @@
-var mnemonic = "ranch deposit soft bonus pair orphan clown stay net title auction raven";
+var mnemonic = "normal tobacco rule job churn ladder quote pitch have equal lounge correct";

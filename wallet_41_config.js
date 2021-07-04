@@ -1,1 +1,1 @@
-var mnemonic = "swear fiber void pigeon virus random cake arm parent sniff joke job";
+var mnemonic = "bag emerge post owner company design duty acoustic spot swarm relax where";

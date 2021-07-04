@@ -1,1 +1,1 @@
-var mnemonic = "slam veteran wagon cross kiss advance reason romance desk maid regular milk";
+var mnemonic = "wrist peace they salmon split vivid lend wash area pyramid end humble";

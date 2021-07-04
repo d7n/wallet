@@ -1,1 +1,1 @@
-var mnemonic = "dose universe meadow trial now fall knee index flight loop home alcohol";
+var mnemonic = "risk cliff brown security sudden add parade gorilla arm abuse rebuild solar";

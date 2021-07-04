@@ -1,1 +1,1 @@
-var mnemonic = "lesson mountain buyer they garlic cake public jump answer crunch regular main";
+var mnemonic = "wood false shift crew valve receive avocado cement mammal oblige half multiply";

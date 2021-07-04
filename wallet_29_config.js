@@ -1,1 +1,1 @@
-var mnemonic = "escape crater debris sustain focus exhibit argue credit gossip jeans strategy myth";
+var mnemonic = "couple combine lecture chunk swallow kid sponsor design blur belt sudden tiger";

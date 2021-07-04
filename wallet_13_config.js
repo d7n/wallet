@@ -1,1 +1,1 @@
-var mnemonic = "narrow invest cheap wage fork pottery ankle envelope merge column season movie";
+var mnemonic = "toy rice song strategy jacket clever bronze hair surge write cloud side";

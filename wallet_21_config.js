@@ -1,1 +1,1 @@
-var mnemonic = "pass gasp unlock riot typical slim relax ginger together bone tell rude";
+var mnemonic = "smile again hidden gasp trash verify small impulse dutch rice used switch";

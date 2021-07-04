@@ -1,1 +1,1 @@
-var mnemonic = "million leave soccer genre room outer glide legend ignore miss grunt fancy";
+var mnemonic = "hand ivory swing kiwi plastic crew exact nasty panic flame people emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd sword kingdom glide person announce mirror dizzy talent hero hollow coffee";
+var mnemonic = "festival physical salt pair accident warfare gorilla unlock impulse tuition grain model";

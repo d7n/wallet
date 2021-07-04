@@ -1,1 +1,1 @@
-var mnemonic = "unfair cotton useless expand neither oven close profit defense brisk sample match";
+var mnemonic = "memory expire high try skill caution vessel search afford neck latin bulb";

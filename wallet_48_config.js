@@ -1,1 +1,1 @@
-var mnemonic = "attack luggage loud anger mom goddess ecology impact rate oppose finish tide";
+var mnemonic = "warm require icon save excite icon spy essence game cruise prevent interest";

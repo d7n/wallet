@@ -1,1 +1,1 @@
-var mnemonic = "unveil moral runway repair decrease rare army talk spice often energy fix";
+var mnemonic = "midnight minimum degree damage excess phrase gauge pair grocery busy ivory coffee";

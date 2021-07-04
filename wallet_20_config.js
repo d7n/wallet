@@ -1,1 +1,1 @@
-var mnemonic = "level sick coral attract nerve speed strategy neck tonight hurry cherry remind";
+var mnemonic = "drum ivory fame finger spot future dash share license crowd awful spare";

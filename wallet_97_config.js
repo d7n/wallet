@@ -1,1 +1,1 @@
-var mnemonic = "gas street relief section flee neck mixture detail catalog category prefer panel";
+var mnemonic = "trigger horror today history amateur carry gift school amused toy bicycle stove";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder claim truth detect insect twice series develop boil train decrease ethics";
+var mnemonic = "drift result else obtain ensure know educate bunker exclude virtual title regular";

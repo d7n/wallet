@@ -1,1 +1,1 @@
-var mnemonic = "phone kidney slide actual ahead next twelve polar soap pilot umbrella public";
+var mnemonic = "divert slice dose airport budget domain flavor fox immense fatal patrol faith";

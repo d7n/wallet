@@ -1,1 +1,1 @@
-var mnemonic = "practice dinosaur swarm misery more repeat moral process rapid column promote injury";
+var mnemonic = "merge collect grow author adult account daring motor equal lens minimum reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt broccoli poverty amused three jungle siren shove sadness wild solid phrase";
+var mnemonic = "sport protect save intact bullet review puzzle fit security unfair merit aerobic";

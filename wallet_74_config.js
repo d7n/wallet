@@ -1,1 +1,1 @@
-var mnemonic = "hip market stomach trick detect shield soul evidence rough food neither split";
+var mnemonic = "convince great mosquito thought garlic diesel town recall math today mule improve";

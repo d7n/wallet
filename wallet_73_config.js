@@ -1,1 +1,1 @@
-var mnemonic = "permit grid bird tuition crystal room mind clump total avoid art estate";
+var mnemonic = "brain together across exclude fiber explain elder smile useless parrot scissors spirit";

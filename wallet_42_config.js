@@ -1,1 +1,1 @@
-var mnemonic = "where combine cake guide immense rapid bind tumble type luxury heavy nature";
+var mnemonic = "exact program diesel clutch odor monster scissors basic turkey pill size front";

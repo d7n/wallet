@@ -1,1 +1,1 @@
-var mnemonic = "reject output across vicious cheese twelve fly apology avocado idea canal pyramid";
+var mnemonic = "police insane away rapid timber over acquire subject crunch repeat bracket old";

@@ -1,1 +1,1 @@
-var mnemonic = "hood egg shrimp dolphin hidden punch truck bone girl record paddle decade";
+var mnemonic = "normal extend unit tent boat question maze thrive waste buddy adult time";

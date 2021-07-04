@@ -1,1 +1,1 @@
-var mnemonic = "know act lake boring unhappy choose furnace kid fatal vessel elder income";
+var mnemonic = "thank coral day viable soap chronic tobacco jewel nerve nature brave sustain";

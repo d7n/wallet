@@ -1,1 +1,1 @@
-var mnemonic = "omit giggle almost nice size banner coach dolphin royal equal wide move";
+var mnemonic = "release equal title cradle labor holiday actress illness dragon burger kick conduct";

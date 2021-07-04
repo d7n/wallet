@@ -1,1 +1,1 @@
-var mnemonic = "liar velvet warm twelve midnight shell hobby since fragile smart bench affair";
+var mnemonic = "supreme tag lion limit chunk filter expand jazz chapter enter industry force";

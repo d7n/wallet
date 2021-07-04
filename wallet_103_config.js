@@ -1,1 +1,1 @@
-var mnemonic = "episode educate action next portion half gather thumb oval squirrel crater pony";
+var mnemonic = "grace slam twelve tomorrow you loyal hurdle puppy seed duck curious song";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil earn combine few hand bounce clarify congress winner crush similar shine";
+var mnemonic = "shove sunset escape lava twenty poverty youth praise couple vote exercise manage";

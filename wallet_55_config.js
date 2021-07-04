@@ -1,1 +1,1 @@
-var mnemonic = "possible disorder razor slab truth young old correct sea act raccoon glad";
+var mnemonic = "moral minor machine battle river pepper sport scene office wagon pelican front";

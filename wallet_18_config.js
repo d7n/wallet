@@ -1,1 +1,1 @@
-var mnemonic = "token trim blouse lake type float vicious opera always negative sea work";
+var mnemonic = "margin river capable much audit erupt strong attract phrase grief destroy culture";

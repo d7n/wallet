@@ -1,1 +1,1 @@
-var mnemonic = "person foot rebel sign profit cattle exit hammer march blade universe million";
+var mnemonic = "grunt media grunt industry come image also easily index aunt knock melt";

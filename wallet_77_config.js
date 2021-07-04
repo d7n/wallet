@@ -1,1 +1,1 @@
-var mnemonic = "flee uncle fiscal patrol fold enroll invite fatigue buyer age hand cherry";
+var mnemonic = "raw tribe heavy they possible pact impact unit speed among walk hen";

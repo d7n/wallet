@@ -1,1 +1,1 @@
-var mnemonic = "announce before absurd math pact long meadow inch normal caution sing gift";
+var mnemonic = "glide public buyer maximum banner dust beauty vault advice flash lock sail";

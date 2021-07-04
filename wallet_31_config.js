@@ -1,1 +1,1 @@
-var mnemonic = "current cup crunch detail dinner tomato trip catalog poem fork annual aerobic";
+var mnemonic = "mimic talk fly input father snow wheat broom chronic abstract remain section";

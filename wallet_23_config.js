@@ -1,1 +1,1 @@
-var mnemonic = "zero arena dinosaur rabbit insane clay trick add measure stable noodle innocent";
+var mnemonic = "juice fine primary cost idea travel wool they cloud sleep boring dilemma";

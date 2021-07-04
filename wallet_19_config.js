@@ -1,1 +1,1 @@
-var mnemonic = "debris card proof able maid casual heavy final vehicle blade because tag";
+var mnemonic = "tuition spring truth dinosaur police outer interest hobby public party relief finish";

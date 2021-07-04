@@ -1,1 +1,1 @@
-var mnemonic = "moment chimney bid spot capital bonus unveil gap web access female absurd";
+var mnemonic = "island mushroom world stomach spy dog blood video pluck this stick half";

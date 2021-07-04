@@ -1,1 +1,1 @@
-var mnemonic = "eye old issue reject only cover original badge drama project bus slender";
+var mnemonic = "village return faith change crystal pulse reason define chimney notable gentle book";

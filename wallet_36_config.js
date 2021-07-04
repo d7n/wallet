@@ -1,1 +1,1 @@
-var mnemonic = "mixed opera illness simple reform crane kitchen kite industry short fever clay";
+var mnemonic = "tide chapter ranch coach write carpet abstract blanket similar over oppose goat";

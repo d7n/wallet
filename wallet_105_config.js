@@ -1,1 +1,1 @@
-var mnemonic = "brief matter fish add say later lumber oven empower avoid require weird";
+var mnemonic = "royal father hint bracket crucial ketchup silly cliff cost chunk yellow analyst";

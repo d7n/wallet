@@ -1,1 +1,1 @@
-var mnemonic = "bless second giant grit filter apart mutual captain reveal usage uncle disorder";
+var mnemonic = "arctic infant tomato enemy cup guitar sauce favorite outside dress urge sadness";

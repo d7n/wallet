@@ -1,1 +1,1 @@
-var mnemonic = "noble service just curtain direct upper couple slice grocery knife swing discover";
+var mnemonic = "file exile lava mixed trial zebra actor join safe welcome photo satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "tell dream ignore elbow olive amateur bunker path asset art crunch champion";
+var mnemonic = "beauty tooth board cost any pass mechanic pioneer hole plate great crew";

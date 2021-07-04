@@ -1,1 +1,1 @@
-var mnemonic = "belt bag resist laptop nose mean other length spy team entire used";
+var mnemonic = "grape earn what degree demise alert refuse extend forget pulse print exclude";

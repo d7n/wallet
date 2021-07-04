@@ -1,1 +1,1 @@
-var mnemonic = "barrel share scrap update message vehicle exotic laugh dress travel witness people";
+var mnemonic = "issue alarm habit actor liberty acoustic crystal fiber vivid submit image mosquito";

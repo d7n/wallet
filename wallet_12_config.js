@@ -1,1 +1,1 @@
-var mnemonic = "glove topple used orphan tool version garage erase eager thought thrive depart";
+var mnemonic = "mail clip help strike acoustic endless soldier candy laugh admit know betray";

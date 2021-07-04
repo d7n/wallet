@@ -1,1 +1,1 @@
-var mnemonic = "service mechanic giggle fault lake weather zebra volcano cheap spray venture climb";
+var mnemonic = "celery razor balance copy basket general taste carpet few fresh bind mirror";

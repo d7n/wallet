@@ -1,1 +1,1 @@
-var mnemonic = "unfair turtle organ timber copy cherry report pole copper any major book";
+var mnemonic = "ranch foil spare myth bless outside ankle bless vehicle drop resemble issue";

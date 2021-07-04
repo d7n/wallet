@@ -1,1 +1,1 @@
-var mnemonic = "imitate transfer lens whisper tornado romance multiply retire romance same soap sword";
+var mnemonic = "purchase lamp cattle logic away journey provide lake crater gaze agent moon";

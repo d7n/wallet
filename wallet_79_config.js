@@ -1,1 +1,1 @@
-var mnemonic = "pluck accident drama decline cry extend drastic bullet glass online tomorrow betray";
+var mnemonic = "suggest theme find borrow ankle mystery valid social limit super badge sing";

@@ -1,1 +1,1 @@
-var mnemonic = "affair okay rent song onion dawn recycle trophy armed addict fit child";
+var mnemonic = "nature popular violin trick again palm into cruel tag accident meat give";

@@ -1,1 +1,1 @@
-var mnemonic = "bar scene switch lazy truth echo piano correct manage kangaroo save exotic";
+var mnemonic = "notice swing flush viable fortune opera peanut child moment clap key student";

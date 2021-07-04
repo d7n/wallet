@@ -1,1 +1,1 @@
-var mnemonic = "ocean square clerk stomach zero build dolphin siren day essay glove cup";
+var mnemonic = "walk setup bicycle check spatial dash circle nuclear safe decorate nothing ribbon";

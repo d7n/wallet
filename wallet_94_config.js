@@ -1,1 +1,1 @@
-var mnemonic = "egg fog license limit eight noble cheap vital worry perfect manual plate";
+var mnemonic = "pass talent solution maze pond voyage impact family permit emerge pulse vast";

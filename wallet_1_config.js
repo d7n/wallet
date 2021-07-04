@@ -1,1 +1,1 @@
-var mnemonic = "anchor relief clown curve blossom deer oxygen emerge country flight seed describe";
+var mnemonic = "catch depend crawl float any toilet rabbit pond permit pole mercy material";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial jewel ocean ancient metal nothing vivid apart assault only odor message";
+var mnemonic = "olive zone copper message rigid below team wasp purpose divorce juice flip";

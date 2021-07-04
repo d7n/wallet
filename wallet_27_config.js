@@ -1,1 +1,1 @@
-var mnemonic = "expire mandate useless leaf infant affair genre ozone few bright man elegant";
+var mnemonic = "pass giggle robot elder cigar flip begin circle destroy true green initial";

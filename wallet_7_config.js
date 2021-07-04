@@ -1,1 +1,1 @@
-var mnemonic = "curve faint kitchen width tag goat dragon zoo security rubber sword fantasy";
+var mnemonic = "eyebrow joy rally salad repeat shield that lunar jealous wonder humble guess";

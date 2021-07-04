@@ -1,1 +1,1 @@
-var mnemonic = "slight tunnel trumpet allow crisp member flower enough safe wreck heavy crane";
+var mnemonic = "glove dial gauge dwarf jazz differ foam simple again hedgehog glance gadget";

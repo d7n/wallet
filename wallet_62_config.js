@@ -1,1 +1,1 @@
-var mnemonic = "sting nuclear easily venue light finish prison hungry hockey similar boy garbage";
+var mnemonic = "topic tired zoo miss cement achieve bulk expand cute humble veteran indoor";

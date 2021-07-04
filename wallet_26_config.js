@@ -1,1 +1,1 @@
-var mnemonic = "tenant garment gorilla promote purity deny robust organ plunge radar system lion";
+var mnemonic = "drill truth harsh cup senior drive become juice easy achieve rose transfer";

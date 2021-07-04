@@ -1,1 +1,1 @@
-var mnemonic = "leave pledge frozen aim pioneer boost zone bulk tail million tower gallery";
+var mnemonic = "original used patient violin hybrid air weird option atom soft slogan spawn";

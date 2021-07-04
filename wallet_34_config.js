@@ -1,1 +1,1 @@
-var mnemonic = "neutral timber urban upper stuff rapid soap family derive walk frame disorder";
+var mnemonic = "blue spatial manage attend truly unhappy couple require hand consider treat rotate";

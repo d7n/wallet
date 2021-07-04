@@ -1,1 +1,1 @@
-var mnemonic = "fabric play early crazy horse diary bird tissue crew balcony strike mail";
+var mnemonic = "endless weird medal involve pioneer filter swear nose ability gun pluck ugly";

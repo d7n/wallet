@@ -1,1 +1,1 @@
-var mnemonic = "magnet digital drop thing tennis skin trouble father giraffe someone method gold";
+var mnemonic = "leg purpose legal raccoon oval hint face collect local trim medal surround";

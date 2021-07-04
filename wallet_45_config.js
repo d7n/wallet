@@ -1,1 +1,1 @@
-var mnemonic = "subway hen thumb mesh latin slight hurt drive cousin soap jar chest";
+var mnemonic = "skate sense cruel sweet lemon rack remain fuel empower logic come truck";

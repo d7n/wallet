@@ -1,1 +1,1 @@
-var mnemonic = "hen point robust order embody logic dash option bullet hammer owner blind";
+var mnemonic = "silk industry shuffle explain slender minor chalk viable link enlist across tuition";

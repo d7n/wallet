@@ -1,1 +1,1 @@
-var mnemonic = "mad vintage receive deputy grape report recipe sign must inform undo dream";
+var mnemonic = "arrow exchange inject erupt column ten degree program loud betray olympic clay";

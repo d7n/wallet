@@ -1,1 +1,1 @@
-var mnemonic = "sentence napkin tip rookie nose wave damage dolphin organ welcome embark clock";
+var mnemonic = "punch exotic receive lizard believe snap once rookie path suspect ranch fit";

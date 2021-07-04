@@ -1,1 +1,1 @@
-var mnemonic = "memory knife clap similar maid series beyond rifle patient glove capital venue";
+var mnemonic = "frequent silk whale mountain famous alarm slice fan city cram asset manage";

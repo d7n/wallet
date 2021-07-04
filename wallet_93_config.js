@@ -1,1 +1,1 @@
-var mnemonic = "violin kite puppy innocent junk broken grab sunny source flame clean aware";
+var mnemonic = "warfare comfort dish craft mobile immune airport amazing address order miss fun";

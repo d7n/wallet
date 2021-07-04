@@ -1,1 +1,1 @@
-var mnemonic = "belt anxiety galaxy soft trust corn oxygen symptom prosper orbit impact lift";
+var mnemonic = "genius tennis extend alter mention way pistol task august song palm come";

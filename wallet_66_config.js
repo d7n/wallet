@@ -1,1 +1,1 @@
-var mnemonic = "elevator slice refuse garden replace eternal coffee kitten indicate final neglect glue";
+var mnemonic = "test human video forest hero motor section liquid float february detect call";

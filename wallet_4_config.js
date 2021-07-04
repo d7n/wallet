@@ -1,1 +1,1 @@
-var mnemonic = "gain piece cake genius curve soap spice quantum toe fold betray when";
+var mnemonic = "reduce moon easy paddle object candy reject tackle any approve enlist whisper";

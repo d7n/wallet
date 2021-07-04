@@ -1,1 +1,1 @@
-var mnemonic = "ride pencil moral trial until member fatal unfold strategy faith cost tortoise";
+var mnemonic = "display mansion battle pill boss midnight grain visual half review earn unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "mean curious neither spring win metal census animal car coin exile aspect";
+var mnemonic = "forget shift dream black abandon vital clap angry dream elevator reopen what";

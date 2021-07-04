@@ -1,1 +1,1 @@
-var mnemonic = "security blade song advance film maximum online ill recipe afford earn furnace";
+var mnemonic = "device matter iron blush empty school unfold issue merry artwork paper plunge";

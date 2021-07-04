@@ -1,1 +1,1 @@
-var mnemonic = "orient raw belt trouble index visit silly nephew onion school mesh bid";
+var mnemonic = "blouse globe renew burger tent alarm sand roof shift bar virtual rally";

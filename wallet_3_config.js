@@ -1,1 +1,1 @@
-var mnemonic = "victory sing carpet consider chalk planet minute fence hungry napkin link shuffle";
+var mnemonic = "hollow moon light segment away lock under property broom color price junk";

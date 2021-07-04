@@ -1,1 +1,1 @@
-var mnemonic = "note smooth range figure inhale depth raccoon else sustain plastic envelope winter";
+var mnemonic = "drastic inmate pull amused february fiscal amateur belt treat hurdle swift burger";

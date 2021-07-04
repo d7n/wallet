@@ -1,1 +1,1 @@
-var mnemonic = "emotion upset forward grief leaf manual tell risk solution pudding match amount";
+var mnemonic = "pet bracket finish lazy matter oyster ice become ugly elder patient omit";

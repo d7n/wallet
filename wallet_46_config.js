@@ -1,1 +1,1 @@
-var mnemonic = "ten van multiply radio pottery sea fly discover trade wood cannon baby";
+var mnemonic = "region carry novel canyon tape agent angry define market network ability infant";
