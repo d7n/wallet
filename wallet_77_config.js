@@ -1,1 +1,1 @@
-var mnemonic = "donor runway monkey also rebel capable ship letter tornado ordinary surprise shoulder";
+var mnemonic = "venture blood sausage coyote program question spice sweet green exclude become replace";

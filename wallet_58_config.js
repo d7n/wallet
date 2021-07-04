@@ -1,1 +1,1 @@
-var mnemonic = "blade enough trade list click spell allow stock check easily remain notice";
+var mnemonic = "vote notice vapor pottery story need receive inject abandon sword slow leader";

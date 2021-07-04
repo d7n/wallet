@@ -1,1 +1,1 @@
-var mnemonic = "turn organ click taxi bubble trip tower inner quote final canvas scare";
+var mnemonic = "hurry scrap essence basic decorate enjoy behave flame skull garden lamp file";

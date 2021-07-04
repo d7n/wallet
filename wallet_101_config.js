@@ -1,1 +1,1 @@
-var mnemonic = "timber elite spoil giraffe whale bomb mention doctor morning jeans anxiety because";
+var mnemonic = "kitten vital flower mountain deputy pigeon bamboo grant throw conduct symbol glow";

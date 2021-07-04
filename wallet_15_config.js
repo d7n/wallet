@@ -1,1 +1,1 @@
-var mnemonic = "display injury frame panda decade young clean frequent hazard health flat nephew";
+var mnemonic = "slab slice desert head fog novel goat special narrow mean risk erase";

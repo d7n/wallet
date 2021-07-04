@@ -1,1 +1,1 @@
-var mnemonic = "jewel pen flip base poet kid prison bargain juice drum mistake soul";
+var mnemonic = "poem help wave tray fiscal ozone horn message fever coral youth bamboo";

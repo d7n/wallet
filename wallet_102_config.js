@@ -1,1 +1,1 @@
-var mnemonic = "road alter income situate taxi number battle blast lend hire repair unveil";
+var mnemonic = "truly spice maze oxygen depend consider pipe drink range virus donate unfold";

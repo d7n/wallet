@@ -1,1 +1,1 @@
-var mnemonic = "swallow weasel review toe sense egg into smile junk boring buffalo cool";
+var mnemonic = "ticket top merit cash lady liar champion rigid disorder poverty scrub emerge";

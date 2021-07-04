@@ -1,1 +1,1 @@
-var mnemonic = "security sustain mimic govern hint tell jewel crane together split capital method";
+var mnemonic = "weekend test fold pig seat island connect glare quick fun inherit owner";

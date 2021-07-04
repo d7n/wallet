@@ -1,1 +1,1 @@
-var mnemonic = "adult away camp embark soap more casino police lens debate universe custom";
+var mnemonic = "cloud asset mechanic stamp into cargo ladder churn toward hole kingdom lady";

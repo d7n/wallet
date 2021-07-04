@@ -1,1 +1,1 @@
-var mnemonic = "kite acid banner wise swallow genius diary minimum garlic cross check devote";
+var mnemonic = "crack remember deal wealth vault gadget name video daughter retreat today local";

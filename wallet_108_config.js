@@ -1,1 +1,1 @@
-var mnemonic = "theory all tent perfect tongue gun enable deliver drive side leaf casual";
+var mnemonic = "frequent crime eternal love love cool castle coyote forget opera slow follow";

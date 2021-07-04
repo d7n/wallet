@@ -1,1 +1,1 @@
-var mnemonic = "thought swing lounge process way vendor brown two chunk swing ostrich sausage";
+var mnemonic = "bulk palm rule warrior wealth chef vehicle season cat harvest unaware usage";

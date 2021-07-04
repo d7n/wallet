@@ -1,1 +1,1 @@
-var mnemonic = "used shock gravity crunch code modify reject define faith indoor stadium reform";
+var mnemonic = "black smoke globe reunion dry enlist orphan ancient jazz right stage jar";

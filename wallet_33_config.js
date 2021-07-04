@@ -1,1 +1,1 @@
-var mnemonic = "swap use legal decade lawn fortune deputy mail summer walk general truck";
+var mnemonic = "senior daring document trigger end face deliver off vague practice when rigid";

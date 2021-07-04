@@ -1,1 +1,1 @@
-var mnemonic = "today any laugh pottery flower lake jewel move moral coin verb stand";
+var mnemonic = "cousin hollow expire elbow east element random survey organ kit gossip squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect vintage market people disagree maze duck share saddle green similar defy";
+var mnemonic = "control know kind brown engine sleep coffee vast alert about release talk";

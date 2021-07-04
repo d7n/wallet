@@ -1,1 +1,1 @@
-var mnemonic = "various obscure doll regular page figure hint feature decline absorb bicycle accuse";
+var mnemonic = "eyebrow bar south ecology document champion table cause theory laptop produce bulb";

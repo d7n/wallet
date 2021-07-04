@@ -1,1 +1,1 @@
-var mnemonic = "peasant bicycle allow bag total voyage brown wall face nose exact napkin";
+var mnemonic = "mechanic air budget tenant decrease error return market pave cherry crush list";

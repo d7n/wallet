@@ -1,1 +1,1 @@
-var mnemonic = "slot come rose horn thumb rebuild brush zoo meat extra art ticket";
+var mnemonic = "myself deputy social loop outside ill success produce coconut news issue scene";

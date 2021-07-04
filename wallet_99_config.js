@@ -1,1 +1,1 @@
-var mnemonic = "walnut garden balance rare entire rebuild crouch gesture stick vessel disorder oak";
+var mnemonic = "lady tank cherry pet destroy business thumb outside ordinary day legal limb";

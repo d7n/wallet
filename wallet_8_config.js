@@ -1,1 +1,1 @@
-var mnemonic = "memory aim rate price start alert biology start obvious bean surround smooth";
+var mnemonic = "hub mango say soon relax sudden goddess soft reveal liberty drip someone";

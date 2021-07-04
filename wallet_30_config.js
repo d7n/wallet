@@ -1,1 +1,1 @@
-var mnemonic = "bike beyond survey idle alert tail fever marble monitor soon bar canal";
+var mnemonic = "fat hair woman okay critic sand scare hair chest shuffle brother kiwi";

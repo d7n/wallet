@@ -1,1 +1,1 @@
-var mnemonic = "intact strong about glory picnic will arrive grit indoor produce always plunge";
+var mnemonic = "dash dove grit story crop salute butter detect arm reject ketchup elder";

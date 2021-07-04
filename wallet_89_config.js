@@ -1,1 +1,1 @@
-var mnemonic = "wheel parent music open decline print say twin monitor left curve slight";
+var mnemonic = "cabbage kind glow ketchup option clever smart birth welcome supply below enlist";

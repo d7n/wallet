@@ -1,1 +1,1 @@
-var mnemonic = "ribbon online length swear pluck inspire discover pipe bargain grit nut when";
+var mnemonic = "rhythm boost whisper sadness acid tank outside width love dish merge tank";

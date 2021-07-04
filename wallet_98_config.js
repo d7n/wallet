@@ -1,1 +1,1 @@
-var mnemonic = "demand brass remember advice pool heavy fee saddle tortoise program illegal cry";
+var mnemonic = "sheriff era proud soap purpose artefact fury genius asset hawk lecture extra";

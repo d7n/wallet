@@ -1,1 +1,1 @@
-var mnemonic = "atom police awkward husband crystal conduct couple address shoe salute where marble";
+var mnemonic = "kite joke wear combine garage solution swing invest flush hunt teach online";

@@ -1,1 +1,1 @@
-var mnemonic = "undo ocean giraffe turn people ancient head oak rebel crawl carpet future";
+var mnemonic = "success snake evidence wing cream pilot range six heart click cushion amazing";

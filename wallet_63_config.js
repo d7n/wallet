@@ -1,1 +1,1 @@
-var mnemonic = "craft glance tunnel thing lemon mistake parent squirrel donkey kangaroo brass taste";
+var mnemonic = "reject wedding stay eight column struggle behind paper hello cave puppy large";

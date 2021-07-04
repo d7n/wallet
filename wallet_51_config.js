@@ -1,1 +1,1 @@
-var mnemonic = "wife enrich desk together olive slow inmate vacuum column soup aim night";
+var mnemonic = "onion now drill broken viable profit never plate salon adult section water";

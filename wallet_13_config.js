@@ -1,1 +1,1 @@
-var mnemonic = "jelly orient maid describe rapid hard spy phone shoe exact enforce title";
+var mnemonic = "bleak wall island odor like lawsuit rifle end loyal goose birth remain";

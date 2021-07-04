@@ -1,1 +1,1 @@
-var mnemonic = "torch worry virus extra caution input ship ticket strategy moment onion hungry";
+var mnemonic = "coyote umbrella idle month assault use prepare delay dice piano capable entire";

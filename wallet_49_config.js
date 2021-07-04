@@ -1,1 +1,1 @@
-var mnemonic = "alcohol damage later verb clock dry promote title crumble spray clarify mimic";
+var mnemonic = "person noodle reject mixed best renew ramp crime embark ecology clean used";

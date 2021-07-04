@@ -1,1 +1,1 @@
-var mnemonic = "citizen draw habit choose sting organ nation hour grow motor dance call";
+var mnemonic = "scale ride major rack mistake wedding flee spatial drop tonight palace country";

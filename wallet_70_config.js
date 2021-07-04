@@ -1,1 +1,1 @@
-var mnemonic = "replace salon vacuum unlock recycle mother knee want better maid century sight";
+var mnemonic = "beauty oyster build two motor season wheel yard palm route flee measure";

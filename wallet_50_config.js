@@ -1,1 +1,1 @@
-var mnemonic = "vault defy remember message choice crawl wonder kitchen security turn spawn amount";
+var mnemonic = "coach bunker shadow door mask real harsh tower demise burger eternal hunt";

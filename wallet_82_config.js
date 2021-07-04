@@ -1,1 +1,1 @@
-var mnemonic = "extend exercise cry describe child dinner soda genre submit small belt future";
+var mnemonic = "trial worth snake split list valve waste window year reform enhance cool";

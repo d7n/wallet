@@ -1,1 +1,1 @@
-var mnemonic = "stem want lock spawn thunder industry ankle cave dwarf leaf message pole";
+var mnemonic = "tooth give obscure endorse rival define pig drum bus sponsor patient current";

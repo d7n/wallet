@@ -1,1 +1,1 @@
-var mnemonic = "speed black vast burst jump distance mother improve setup gorilla dilemma tiger";
+var mnemonic = "cliff puppy table purchase jump stomach master supply behind achieve grain gaze";

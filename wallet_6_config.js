@@ -1,1 +1,1 @@
-var mnemonic = "like virus spoil document okay lazy aware live only sound state endless";
+var mnemonic = "hollow onion mandate often clown steel leopard deal bitter strategy skate design";

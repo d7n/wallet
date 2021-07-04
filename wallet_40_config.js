@@ -1,1 +1,1 @@
-var mnemonic = "swift flash ostrich skirt ugly enable kiwi casino blush stick artist over";
+var mnemonic = "stairs such club horse inhale inflict space sword suspect buffalo note love";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut dice devote gaze glimpse glass midnight quarter sentence inflict mass easily";
+var mnemonic = "plunge ketchup option supreme hood cause record style require used zero hand";

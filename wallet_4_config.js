@@ -1,1 +1,1 @@
-var mnemonic = "butter flat room funny atom pact sugar monkey fiction bronze imitate leisure";
+var mnemonic = "license item spot undo midnight submit culture poverty execute birth deny glove";

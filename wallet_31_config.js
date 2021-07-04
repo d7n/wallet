@@ -1,1 +1,1 @@
-var mnemonic = "clump panda ketchup close robust human tissue nation width mansion fuel elbow";
+var mnemonic = "mobile cross shallow song hungry cactus recall thrive cry athlete marine turn";

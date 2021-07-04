@@ -1,1 +1,1 @@
-var mnemonic = "net vocal curtain garbage wall song prefer truck brain stable trophy dawn";
+var mnemonic = "erupt marble physical antique wine guess cycle run curve alone artist index";

@@ -1,1 +1,1 @@
-var mnemonic = "behind silly spider diagram frown rely gym chaos surge accident violin anxiety";
+var mnemonic = "layer improve time piano magnet shy major slow tube paper material setup";

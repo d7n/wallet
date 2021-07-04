@@ -1,1 +1,1 @@
-var mnemonic = "earth pride organ trip impact fat blame prevent spread ranch avocado indoor";
+var mnemonic = "saddle spend below exhaust click hammer cage avoid permit polar metal number";

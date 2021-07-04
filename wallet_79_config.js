@@ -1,1 +1,1 @@
-var mnemonic = "skate shock police expand desk core size sport grunt step green service";
+var mnemonic = "hammer wish hard apology kangaroo grocery jungle fiction airport trial leisure sponsor";

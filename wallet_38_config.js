@@ -1,1 +1,1 @@
-var mnemonic = "million clever baby castle news away success chaos tape brain meat slam";
+var mnemonic = "destroy unusual lift rack chunk october twelve divert love unaware destroy zero";

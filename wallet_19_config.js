@@ -1,1 +1,1 @@
-var mnemonic = "accident you lake mistake gossip harsh ladder museum hub barrel million vendor";
+var mnemonic = "egg kidney huge carbon must quiz layer blast nation amateur mosquito start";

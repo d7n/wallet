@@ -1,1 +1,1 @@
-var mnemonic = "brown birth bread brass citizen oil unusual antenna guilt regular ridge tattoo";
+var mnemonic = "exclude wall various naive photo trumpet salon sunny merry text expand salute";

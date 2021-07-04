@@ -1,1 +1,1 @@
-var mnemonic = "potato shine wisdom price solid river average air explain welcome globe bleak";
+var mnemonic = "what law amount health desk virtual trash lamp put garden horse ketchup";

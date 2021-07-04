@@ -1,1 +1,1 @@
-var mnemonic = "relax now intact fancy special wait glue initial bamboo hammer anger boat";
+var mnemonic = "away know indoor quick never sleep jeans clap load bonus book crater";

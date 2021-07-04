@@ -1,1 +1,1 @@
-var mnemonic = "ketchup identify again scrub select toe tide twenty satisfy wrap settle position";
+var mnemonic = "miss visa sudden sudden account used fashion lift antenna runway total plate";

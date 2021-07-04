@@ -1,1 +1,1 @@
-var mnemonic = "belt iron remind fortune veteran side crucial april ozone obtain evidence machine";
+var mnemonic = "twelve throw wheel horn cry label unlock cause vanish plastic unfair wet";

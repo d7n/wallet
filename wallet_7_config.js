@@ -1,1 +1,1 @@
-var mnemonic = "payment stable magic ensure airport gorilla tired subway wagon half announce once";
+var mnemonic = "much excite sock space one speak devote marble prosper thunder run mistake";

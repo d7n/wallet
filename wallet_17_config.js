@@ -1,1 +1,1 @@
-var mnemonic = "pole wash thrive diamond negative edge kingdom dish anchor attend bicycle cream";
+var mnemonic = "express soft mixed follow scissors tree task segment million gossip sing various";

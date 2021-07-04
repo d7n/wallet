@@ -1,1 +1,1 @@
-var mnemonic = "actress cash found type turkey settle visual arch normal morning luggage attract";
+var mnemonic = "pitch airport tennis maple firm anger tape road basket always price combine";

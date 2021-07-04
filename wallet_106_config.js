@@ -1,1 +1,1 @@
-var mnemonic = "relax coconut service acquire erase autumn deputy produce found art engage elder";
+var mnemonic = "hurt acid frozen feature famous belt solution indoor glove aware salt mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "eight emotion weekend tilt space pen silk suggest cannon exchange health season";
+var mnemonic = "correct chief leaf grit sport morning aisle ocean room hawk sustain mammal";

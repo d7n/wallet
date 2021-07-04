@@ -1,1 +1,1 @@
-var mnemonic = "angle spray stable work occur genius mercy apple brief utility immune tattoo";
+var mnemonic = "affair erase correct bike notable combine gas minor moral diary play avocado";

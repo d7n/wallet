@@ -1,1 +1,1 @@
-var mnemonic = "bag glide soldier critic icon unusual check odor inquiry yard limb base";
+var mnemonic = "tomato fiber voice height riot tomato decorate program dwarf marriage minor ignore";

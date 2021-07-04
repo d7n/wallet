@@ -1,1 +1,1 @@
-var mnemonic = "tragic record health across already spread above almost cheap auto accident slice";
+var mnemonic = "outdoor ahead game jump actress awful finish solve combine spin adjust drink";

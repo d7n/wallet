@@ -1,1 +1,1 @@
-var mnemonic = "story shock private beach air confirm year receive shrimp bench saddle curious";
+var mnemonic = "sibling matrix ripple invite glimpse hold canoe quarter betray small inhale twice";

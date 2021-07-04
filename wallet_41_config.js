@@ -1,1 +1,1 @@
-var mnemonic = "group smooth acoustic flock chalk diet soon tomato curious tiny cage drastic";
+var mnemonic = "battle meat omit mix stable into discover nominee fade guard require pulse";

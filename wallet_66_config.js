@@ -1,1 +1,1 @@
-var mnemonic = "practice ice banana hover violin spot earn elder board hold oblige essay";
+var mnemonic = "install dish glow move waste holiday year more lemon rare hood develop";

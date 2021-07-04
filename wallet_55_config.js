@@ -1,1 +1,1 @@
-var mnemonic = "split tomato hip toddler dice glare rifle harbor canyon drip acid mandate";
+var mnemonic = "pill pave erase various mutual goat member drop cheese bamboo vital athlete";

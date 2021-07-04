@@ -1,1 +1,1 @@
-var mnemonic = "disagree gown lawn basic tuition method conduct merit client defy family survey";
+var mnemonic = "talk buyer local unusual find you direct crime february estate add wrap";

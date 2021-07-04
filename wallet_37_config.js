@@ -1,1 +1,1 @@
-var mnemonic = "east position jar surprise bread include hungry dirt anxiety artist auto special";
+var mnemonic = "rely priority engage addict group promote mosquito wise want cactus muscle smile";

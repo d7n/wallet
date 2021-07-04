@@ -1,1 +1,1 @@
-var mnemonic = "warm enlist hair undo segment dignity tank put cup cabbage barely atom";
+var mnemonic = "maple twelve say try coconut sing bar visit guide derive perfect target";

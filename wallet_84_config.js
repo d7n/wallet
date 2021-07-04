@@ -1,1 +1,1 @@
-var mnemonic = "pupil human animal update decide erupt tragic pipe pear ocean advice mixed";
+var mnemonic = "decade oval recall suggest scrub math clean company sample skin chef response";

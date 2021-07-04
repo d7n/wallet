@@ -1,1 +1,1 @@
-var mnemonic = "use carry direct buffalo once term clump load surface clinic pear brain";
+var mnemonic = "capable inside flower baby master festival shrimp mail kitchen inch cluster intact";

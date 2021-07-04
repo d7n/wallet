@@ -1,1 +1,1 @@
-var mnemonic = "shift vocal song dream ugly seek museum puzzle adjust globe build circle";
+var mnemonic = "note glimpse ignore elder stomach great sort mimic lesson tomato camera chat";

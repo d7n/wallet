@@ -1,1 +1,1 @@
-var mnemonic = "leisure crunch door danger endless scene jazz increase portion size dove cross";
+var mnemonic = "green fence that derive wall snow ride swear federal setup similar fat";

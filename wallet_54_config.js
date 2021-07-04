@@ -1,1 +1,1 @@
-var mnemonic = "habit diary elephant moment loan broom stock entry eternal random brain volume";
+var mnemonic = "other stomach brush dry robot moral another crisp puzzle fashion misery oblige";

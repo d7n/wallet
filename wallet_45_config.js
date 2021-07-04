@@ -1,1 +1,1 @@
-var mnemonic = "anger top sentence base weather choice field subway rule lava turn orchard";
+var mnemonic = "peasant mansion sense control unlock umbrella humble glance venue under absorb wall";

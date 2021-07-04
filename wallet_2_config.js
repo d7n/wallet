@@ -1,1 +1,1 @@
-var mnemonic = "danger such embark town behave entire mass slow fragile erupt brother twin";
+var mnemonic = "hurt spirit episode jeans cement rescue ski small lemon rhythm dinner eye";

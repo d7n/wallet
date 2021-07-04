@@ -1,1 +1,1 @@
-var mnemonic = "reflect chronic follow sand argue drama film hollow skirt flash gown brisk";
+var mnemonic = "run inform harbor warfare nominee slight push trade pulp route rhythm account";

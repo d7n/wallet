@@ -1,1 +1,1 @@
-var mnemonic = "grit edit uncover stairs inspire amazing kick leaf course theme armed canoe";
+var mnemonic = "much slow fury math point fresh voyage door surge furnace apology almost";

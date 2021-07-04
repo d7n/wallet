@@ -1,1 +1,1 @@
-var mnemonic = "unveil above robot over lend hawk book curtain problem south devote purse";
+var mnemonic = "dash share crumble success monster among power replace print gauge trigger boring";

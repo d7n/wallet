@@ -1,1 +1,1 @@
-var mnemonic = "affair east modify frequent ring patrol amused excess idea quarter tube father";
+var mnemonic = "grocery garage riot hundred clever announce clutch toddler grape wise pottery ticket";

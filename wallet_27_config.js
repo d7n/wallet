@@ -1,1 +1,1 @@
-var mnemonic = "roof elephant unaware laptop minor celery nose cluster range sting wagon tomato";
+var mnemonic = "extra journey race finger exotic depart teach member oval bachelor daring federal";

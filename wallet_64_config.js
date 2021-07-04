@@ -1,1 +1,1 @@
-var mnemonic = "hero note silent gesture dove motor drum obey fossil supply search video";
+var mnemonic = "settle deer know upset trial vast nasty drink hint fiber enough deny";

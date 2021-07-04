@@ -1,1 +1,1 @@
-var mnemonic = "degree invest scare false junior inmate aware corn case essay plastic grunt";
+var mnemonic = "bring pretty pull hold carry know angry shift arrive rigid unaware snap";

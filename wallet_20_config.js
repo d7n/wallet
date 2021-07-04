@@ -1,1 +1,1 @@
-var mnemonic = "budget online sorry misery business pottery digital final fee arena river turn";
+var mnemonic = "slice impose enjoy rather crisp steel dish noise symbol ridge memory various";

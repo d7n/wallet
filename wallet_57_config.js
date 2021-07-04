@@ -1,1 +1,1 @@
-var mnemonic = "limb plunge can burden action axis plug lend depth emerge long either";
+var mnemonic = "social office leg affair dizzy moral scatter real method huge wage cable";

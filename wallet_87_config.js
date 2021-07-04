@@ -1,1 +1,1 @@
-var mnemonic = "jazz sound museum photo any nephew charge million kitchen eternal reject column";
+var mnemonic = "slush reject birth universe net curve swing alarm else silly timber swamp";

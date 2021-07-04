@@ -1,1 +1,1 @@
-var mnemonic = "object razor bus trouble cheap crane jelly item dinosaur time lock virus";
+var mnemonic = "car yard question offer exit spend emotion struggle neutral trigger visit want";

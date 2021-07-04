@@ -1,1 +1,1 @@
-var mnemonic = "copy squirrel pig minimum quote amazing run raven exercise employ nasty move";
+var mnemonic = "trash path off salon area birth age present expire recipe mandate raise";

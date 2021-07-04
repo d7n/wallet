@@ -1,1 +1,1 @@
-var mnemonic = "denial radar cheap remember number oxygen candy economy insect quote apart net";
+var mnemonic = "evoke ask bag stick emerge album often forward sword phone coin question";

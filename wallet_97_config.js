@@ -1,1 +1,1 @@
-var mnemonic = "bundle element attract concert harsh ski question scan collect penalty deliver cram";
+var mnemonic = "health tree example pair describe argue sphere arrive confirm alpha there tongue";

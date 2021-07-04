@@ -1,1 +1,1 @@
-var mnemonic = "spray proud muscle ship situate unknown immune infant artist dog step present";
+var mnemonic = "husband panda december disease language course cream wood guitar strong tower lift";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe dune suspect catalog foot mass master rotate deposit answer rare excuse";
+var mnemonic = "betray panic genuine month swarm utility below diamond shaft silver auction sock";
