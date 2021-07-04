@@ -1,1 +1,1 @@
-var mnemonic = "agree debris render surprise distance oak milk cause adapt measure clerk cigar";
+var mnemonic = "perfect vintage market people disagree maze duck share saddle green similar defy";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory daring vague duty beyond opinion tooth grab pioneer embark worth winter";
+var mnemonic = "sense aunt recall jeans bulk popular actual arrest guitar fade connect sign";

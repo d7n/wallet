@@ -1,1 +1,1 @@
-var mnemonic = "rapid decrease plug calm butter orphan limb eagle century capable erase maid";
+var mnemonic = "stem want lock spawn thunder industry ankle cave dwarf leaf message pole";

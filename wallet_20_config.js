@@ -1,1 +1,1 @@
-var mnemonic = "host clog defense lecture busy junior board page liquid midnight despair proud";
+var mnemonic = "budget online sorry misery business pottery digital final fee arena river turn";

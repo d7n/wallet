@@ -1,1 +1,1 @@
-var mnemonic = "hill sketch train wage start mule miracle actor crack fan maid angle";
+var mnemonic = "behind silly spider diagram frown rely gym chaos surge accident violin anxiety";

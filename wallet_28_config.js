@@ -1,1 +1,1 @@
-var mnemonic = "turn frown mail original require gentle found nurse physical blame either feel";
+var mnemonic = "tragic record health across already spread above almost cheap auto accident slice";

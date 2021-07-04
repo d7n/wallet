@@ -1,1 +1,1 @@
-var mnemonic = "movie moment caught skate tired fun heavy tip fence rotate noodle enforce";
+var mnemonic = "craft glance tunnel thing lemon mistake parent squirrel donkey kangaroo brass taste";

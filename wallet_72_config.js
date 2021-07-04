@@ -1,1 +1,1 @@
-var mnemonic = "two wisdom clarify mule cave regret civil lake drift vital upon space";
+var mnemonic = "relax now intact fancy special wait glue initial bamboo hammer anger boat";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin goat become rather give unhappy liar speed vocal syrup neglect original";
+var mnemonic = "demand brass remember advice pool heavy fee saddle tortoise program illegal cry";

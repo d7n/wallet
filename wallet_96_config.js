@@ -1,1 +1,1 @@
-var mnemonic = "summer endorse bulb peanut acquire reflect pet ghost exhaust ball duck circle";
+var mnemonic = "earth pride organ trip impact fat blame prevent spread ranch avocado indoor";

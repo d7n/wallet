@@ -1,1 +1,1 @@
-var mnemonic = "eagle sorry jump enlist chapter vague item hybrid leopard stomach liberty mechanic";
+var mnemonic = "relax coconut service acquire erase autumn deputy produce found art engage elder";

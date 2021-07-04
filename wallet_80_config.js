@@ -1,1 +1,1 @@
-var mnemonic = "win smile federal faith mind attitude drive jeans adapt hollow twist shaft";
+var mnemonic = "shift vocal song dream ugly seek museum puzzle adjust globe build circle";

@@ -1,1 +1,1 @@
-var mnemonic = "charge seminar pupil slush strategy swarm youth frost idle lonely resemble asthma";
+var mnemonic = "undo ocean giraffe turn people ancient head oak rebel crawl carpet future";

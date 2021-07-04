@@ -1,1 +1,1 @@
-var mnemonic = "exchange observe century hedgehog cradle pave beyond wave today wish source oxygen";
+var mnemonic = "belt stamp boy core find narrow live damage spatial soul mention drop";

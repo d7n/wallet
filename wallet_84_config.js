@@ -1,1 +1,1 @@
-var mnemonic = "guitar wet pluck nut dress eye purpose border eye grant enhance gauge";
+var mnemonic = "pupil human animal update decide erupt tragic pipe pear ocean advice mixed";

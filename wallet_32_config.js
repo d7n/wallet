@@ -1,1 +1,1 @@
-var mnemonic = "velvet fruit zoo dove skull core story job horn parent convince plate";
+var mnemonic = "grit edit uncover stairs inspire amazing kick leaf course theme armed canoe";

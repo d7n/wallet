@@ -1,1 +1,1 @@
-var mnemonic = "jaguar buddy pipe same lawn wing chapter pulp judge update anxiety claim";
+var mnemonic = "swallow weasel review toe sense egg into smile junk boring buffalo cool";

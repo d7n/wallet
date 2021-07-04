@@ -1,1 +1,1 @@
-var mnemonic = "empty border stamp fury scheme settle airport uncle fringe across twelve earn";
+var mnemonic = "adult away camp embark soap more casino police lens debate universe custom";

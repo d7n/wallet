@@ -1,1 +1,1 @@
-var mnemonic = "artefact shock ethics mobile stay crunch talent bind remove kind author belt";
+var mnemonic = "skate shock police expand desk core size sport grunt step green service";

@@ -1,1 +1,1 @@
-var mnemonic = "remember elegant drive cup rug various coyote bind prison purpose harsh rival";
+var mnemonic = "various obscure doll regular page figure hint feature decline absorb bicycle accuse";

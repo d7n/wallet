@@ -1,1 +1,1 @@
-var mnemonic = "tape alarm unusual race ride venue south muscle twenty office say churn";
+var mnemonic = "leisure crunch door danger endless scene jazz increase portion size dove cross";

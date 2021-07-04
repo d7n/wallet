@@ -1,1 +1,1 @@
-var mnemonic = "under exit insane neglect soon burger fatigue action venue rail magnet poet";
+var mnemonic = "hat obtain one general juice make harvest silk enemy jazz remain fury";

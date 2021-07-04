@@ -1,1 +1,1 @@
-var mnemonic = "club churn yellow unaware stem job develop enforce promote image mushroom feature";
+var mnemonic = "eight emotion weekend tilt space pen silk suggest cannon exchange health season";

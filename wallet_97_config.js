@@ -1,1 +1,1 @@
-var mnemonic = "flee off accuse gauge ginger cruise spider pact moon despair direct kiwi";
+var mnemonic = "bundle element attract concert harsh ski question scan collect penalty deliver cram";

@@ -1,1 +1,1 @@
-var mnemonic = "hub warm uniform apology useful educate angle erupt square tissue notable thought";
+var mnemonic = "story shock private beach air confirm year receive shrimp bench saddle curious";

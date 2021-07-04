@@ -1,1 +1,1 @@
-var mnemonic = "scorpion grief smile speed smart pony gossip cruel what cross give visa";
+var mnemonic = "citizen draw habit choose sting organ nation hour grow motor dance call";

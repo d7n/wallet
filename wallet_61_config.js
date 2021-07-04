@@ -1,1 +1,1 @@
-var mnemonic = "hover fruit thank tenant able bunker august parrot index witness salon spoon";
+var mnemonic = "atom police awkward husband crystal conduct couple address shoe salute where marble";

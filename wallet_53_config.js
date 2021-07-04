@@ -1,1 +1,1 @@
-var mnemonic = "exact mirror domain goddess okay tilt funny document fortune renew alpha issue";
+var mnemonic = "reflect chronic follow sand argue drama film hollow skirt flash gown brisk";

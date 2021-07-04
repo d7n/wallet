@@ -1,1 +1,1 @@
-var mnemonic = "capable tomato text luggage verify fruit chat master shadow bargain pill wrap";
+var mnemonic = "ketchup identify again scrub select toe tide twenty satisfy wrap settle position";

@@ -1,1 +1,1 @@
-var mnemonic = "host pulp step paper seek chunk borrow joke midnight legal dolphin bargain";
+var mnemonic = "actress cash found type turkey settle visual arch normal morning luggage attract";

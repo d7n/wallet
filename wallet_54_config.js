@@ -1,1 +1,1 @@
-var mnemonic = "despair evolve decorate year bonus tonight menu divorce connect kitten hole injury";
+var mnemonic = "habit diary elephant moment loan broom stock entry eternal random brain volume";

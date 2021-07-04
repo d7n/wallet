@@ -1,1 +1,1 @@
-var mnemonic = "mosquito whip virus rigid novel punch tuition damage nasty nation slow jungle";
+var mnemonic = "like virus spoil document okay lazy aware live only sound state endless";

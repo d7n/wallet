@@ -1,1 +1,1 @@
-var mnemonic = "lunch minimum cargo purity tray flush sun mobile cheap fog make uphold";
+var mnemonic = "buffalo defy output book rhythm leg ignore current token merit such misery";

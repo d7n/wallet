@@ -1,1 +1,1 @@
-var mnemonic = "turn move primary topic choice cry patrol bacon heavy desert original dose";
+var mnemonic = "memory aim rate price start alert biology start obvious bean surround smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn reopen extend legal satisfy salon basic present social fancy various sample";
+var mnemonic = "east position jar surprise bread include hungry dirt anxiety artist auto special";

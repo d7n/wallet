@@ -1,1 +1,1 @@
-var mnemonic = "legend hint cube please rice beyond fatal include wrap confirm that arrange";
+var mnemonic = "belt iron remind fortune veteran side crucial april ozone obtain evidence machine";

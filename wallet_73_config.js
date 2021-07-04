@@ -1,1 +1,1 @@
-var mnemonic = "tissue fall giant spice rally champion duck noodle pride lonely figure about";
+var mnemonic = "devote say clay degree nut under reward puzzle pull bunker taxi wood";

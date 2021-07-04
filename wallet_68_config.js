@@ -1,1 +1,1 @@
-var mnemonic = "march permit drift dog silk school floor cat file frown forget bronze";
+var mnemonic = "thought swing lounge process way vendor brown two chunk swing ostrich sausage";

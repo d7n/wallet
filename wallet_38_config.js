@@ -1,1 +1,1 @@
-var mnemonic = "frost vacant ill cupboard stage garage crazy olympic devote vacant fat hen";
+var mnemonic = "million clever baby castle news away success chaos tape brain meat slam";

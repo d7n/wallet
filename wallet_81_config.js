@@ -1,1 +1,1 @@
-var mnemonic = "apology tornado snap stem trouble citizen health cat view bleak result lawn";
+var mnemonic = "tribe dune suspect catalog foot mass master rotate deposit answer rare excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "defense lucky body divert beauty shadow until pact figure capital clay decide";
+var mnemonic = "pole wash thrive diamond negative edge kingdom dish anchor attend bicycle cream";

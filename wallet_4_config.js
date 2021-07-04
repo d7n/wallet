@@ -1,1 +1,1 @@
-var mnemonic = "cram general flight lake ethics weekend trumpet boss loop strike sorry zone";
+var mnemonic = "butter flat room funny atom pact sugar monkey fiction bronze imitate leisure";

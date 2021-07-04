@@ -1,1 +1,1 @@
-var mnemonic = "cost dad alpha throw moon emerge exist giraffe disease when grunt kind";
+var mnemonic = "bike beyond survey idle alert tail fever marble monitor soon bar canal";

@@ -1,1 +1,1 @@
-var mnemonic = "garage boat warfare proud own fat electric endorse afford fortune illegal spray";
+var mnemonic = "clump panda ketchup close robust human tissue nation width mansion fuel elbow";

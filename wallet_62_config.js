@@ -1,1 +1,1 @@
-var mnemonic = "champion twist enjoy struggle install amateur amused sunny world object attract update";
+var mnemonic = "disagree gown lawn basic tuition method conduct merit client defy family survey";

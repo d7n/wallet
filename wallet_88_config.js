@@ -1,1 +1,1 @@
-var mnemonic = "park account people gossip buffalo hero embody possible wink camp page subway";
+var mnemonic = "used shock gravity crunch code modify reject define faith indoor stadium reform";

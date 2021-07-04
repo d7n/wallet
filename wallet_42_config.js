@@ -1,1 +1,1 @@
-var mnemonic = "scale primary century quality jar peace equal bench acoustic drift wear rhythm";
+var mnemonic = "object razor bus trouble cheap crane jelly item dinosaur time lock virus";

@@ -1,1 +1,1 @@
-var mnemonic = "ski seat carbon welcome clock spatial only stamp destroy female sure pitch";
+var mnemonic = "jelly orient maid describe rapid hard spy phone shoe exact enforce title";

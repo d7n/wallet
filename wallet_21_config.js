@@ -1,1 +1,1 @@
-var mnemonic = "cousin setup slide cross arm sell cry transfer flower truck moral bench";
+var mnemonic = "net vocal curtain garbage wall song prefer truck brain stable trophy dawn";

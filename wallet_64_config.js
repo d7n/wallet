@@ -1,1 +1,1 @@
-var mnemonic = "wink theory ski asthma viable body bid audit trend hollow ancient timber";
+var mnemonic = "hero note silent gesture dove motor drum obey fossil supply search video";

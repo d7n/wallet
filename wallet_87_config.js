@@ -1,1 +1,1 @@
-var mnemonic = "surface plug avoid second disagree shallow remember police obscure rescue diet hint";
+var mnemonic = "jazz sound museum photo any nephew charge million kitchen eternal reject column";

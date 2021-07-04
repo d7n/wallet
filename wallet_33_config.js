@@ -1,1 +1,1 @@
-var mnemonic = "word foam outer ball between eager gaze cash mesh into december rough";
+var mnemonic = "swap use legal decade lawn fortune deputy mail summer walk general truck";

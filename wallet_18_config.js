@@ -1,1 +1,1 @@
-var mnemonic = "book trial daughter wedding check keen mercy answer budget reopen blur drill";
+var mnemonic = "today any laugh pottery flower lake jewel move moral coin verb stand";

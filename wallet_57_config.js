@@ -1,1 +1,1 @@
-var mnemonic = "erode industry salute punch alcohol check doctor bag noodle also dynamic soda";
+var mnemonic = "limb plunge can burden action axis plug lend depth emerge long either";

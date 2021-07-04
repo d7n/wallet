@@ -1,1 +1,1 @@
-var mnemonic = "quit dish dinosaur narrow canvas process problem marble fiber buffalo output december";
+var mnemonic = "alcohol damage later verb clock dry promote title crumble spray clarify mimic";

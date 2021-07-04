@@ -1,1 +1,1 @@
-var mnemonic = "suit boost more level there spoil fashion ride feature seven gate rival";
+var mnemonic = "theory all tent perfect tongue gun enable deliver drive side leaf casual";

@@ -1,1 +1,1 @@
-var mnemonic = "sort client chair museum author little account vibrant inherit stem horn frame";
+var mnemonic = "group smooth acoustic flock chalk diet soon tomato curious tiny cage drastic";

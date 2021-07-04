@@ -1,1 +1,1 @@
-var mnemonic = "genuine arrest refuse place aim leisure dash key certain garlic quote moral";
+var mnemonic = "soccer trick pretty summer autumn dizzy omit easy assist grace robust title";

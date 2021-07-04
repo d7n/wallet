@@ -1,1 +1,1 @@
-var mnemonic = "weasel toe sell learn fury confirm crisp primary sword hybrid quantum daring";
+var mnemonic = "earth split faint common orange rate turkey bitter make glimpse work expire";

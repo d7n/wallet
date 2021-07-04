@@ -1,1 +1,1 @@
-var mnemonic = "exchange access middle pig swift illness outside either giraffe foot disagree airport";
+var mnemonic = "jewel pen flip base poet kid prison bargain juice drum mistake soul";

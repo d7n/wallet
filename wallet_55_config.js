@@ -1,1 +1,1 @@
-var mnemonic = "ripple ensure avoid whisper giant brass when false quantum peasant angry glance";
+var mnemonic = "split tomato hip toddler dice glare rifle harbor canyon drip acid mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "day pride source exist zone potato rifle elegant aisle sad snap just";
+var mnemonic = "wife enrich desk together olive slow inmate vacuum column soup aim night";

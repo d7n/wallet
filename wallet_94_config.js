@@ -1,1 +1,1 @@
-var mnemonic = "talk belt sadness expand canoe hover hour price neutral still angle surge";
+var mnemonic = "copy squirrel pig minimum quote amazing run raven exercise employ nasty move";

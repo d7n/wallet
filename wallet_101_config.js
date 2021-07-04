@@ -1,1 +1,1 @@
-var mnemonic = "calm estate general win promote filter such spot demand impulse corn thunder";
+var mnemonic = "timber elite spoil giraffe whale bomb mention doctor morning jeans anxiety because";

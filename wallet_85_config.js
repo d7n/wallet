@@ -1,1 +1,1 @@
-var mnemonic = "february club lucky claim silent frown travel tenant belt sentence tiger fetch";
+var mnemonic = "warm enlist hair undo segment dignity tank put cup cabbage barely atom";

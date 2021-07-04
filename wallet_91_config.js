@@ -1,1 +1,1 @@
-var mnemonic = "bridge tape blouse anxiety dish lunch shuffle repair exact tackle prevent rookie";
+var mnemonic = "coyote payment vibrant stem access goddess sound give all dry avocado urge";

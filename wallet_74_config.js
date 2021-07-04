@@ -1,1 +1,1 @@
-var mnemonic = "attract desk trigger liquid can moment monitor broccoli half coyote addict erase";
+var mnemonic = "angle spray stable work occur genius mercy apple brief utility immune tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry width fortune mule place purpose math clerk process daughter pull tooth";
+var mnemonic = "foot quit mechanic brown accident element video voyage eyebrow carry cube length";

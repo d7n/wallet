@@ -1,1 +1,1 @@
-var mnemonic = "hold pluck zone spawn exercise coyote advance erase day dial horror novel";
+var mnemonic = "wheel parent music open decline print say twin monitor left curve slight";

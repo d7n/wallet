@@ -1,1 +1,1 @@
-var mnemonic = "slam fine gown brown giggle couple smile stick multiply extra solar there";
+var mnemonic = "ribbon online length swear pluck inspire discover pipe bargain grit nut when";

@@ -1,1 +1,1 @@
-var mnemonic = "wave address rapid wine able menu kick ritual obvious raise quantum alone";
+var mnemonic = "intact strong about glory picnic will arrive grit indoor produce always plunge";

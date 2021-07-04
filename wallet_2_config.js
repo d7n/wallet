@@ -1,1 +1,1 @@
-var mnemonic = "trust wide dune unaware faint oil outside enhance exile green improve security";
+var mnemonic = "danger such embark town behave entire mass slow fragile erupt brother twin";

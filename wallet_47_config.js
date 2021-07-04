@@ -1,1 +1,1 @@
-var mnemonic = "sphere bar cheese sphere neglect planet harvest style electric youth broken love";
+var mnemonic = "picture bomb romance trigger tomorrow bean razor lawsuit bacon stay banana denial";

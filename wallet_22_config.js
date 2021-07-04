@@ -1,1 +1,1 @@
-var mnemonic = "divide banana afraid cactus cash simple such pitch anger kind harvest winner";
+var mnemonic = "use carry direct buffalo once term clump load surface clinic pear brain";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal welcome casino vintage decade disagree wrist similar dress giraffe favorite canyon";
+var mnemonic = "payment stable magic ensure airport gorilla tired subway wagon half announce once";

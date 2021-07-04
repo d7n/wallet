@@ -1,1 +1,1 @@
-var mnemonic = "offer bonus utility upon foam walk bracket until broccoli park stay steak";
+var mnemonic = "practice ice banana hover violin spot earn elder board hold oblige essay";

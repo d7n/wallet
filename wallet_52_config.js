@@ -1,1 +1,1 @@
-var mnemonic = "nuclear travel saddle mail immune jungle vocal execute happy couch flee only";
+var mnemonic = "spray proud muscle ship situate unknown immune infant artist dog step present";

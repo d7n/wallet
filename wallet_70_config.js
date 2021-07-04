@@ -1,1 +1,1 @@
-var mnemonic = "price seminar solar salmon protect skirt winner shallow mind exhibit labor target";
+var mnemonic = "replace salon vacuum unlock recycle mother knee want better maid century sight";

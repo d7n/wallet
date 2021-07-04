@@ -1,1 +1,1 @@
-var mnemonic = "flower endless half pony shove vague thank lumber dance elite garlic veteran";
+var mnemonic = "oppose eye enough group source pact snap small fever oxygen exist sport";

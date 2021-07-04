@@ -1,1 +1,1 @@
-var mnemonic = "forward either expect true autumn over quarter fence bird alert flock sad";
+var mnemonic = "unveil above robot over lend hawk book curtain problem south devote purse";

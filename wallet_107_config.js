@@ -1,1 +1,1 @@
-var mnemonic = "youth hour face velvet neither arrive old profit twist equal enemy try";
+var mnemonic = "ankle grape asset need pistol absurd jump clever marble rely roast vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "smile cash orphan inspire control room evil anchor dose found apple observe";
+var mnemonic = "blade enough trade list click spell allow stock check easily remain notice";

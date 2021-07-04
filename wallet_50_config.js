@@ -1,1 +1,1 @@
-var mnemonic = "regret dilemma snake snack episode route thumb author media crystal truly situate";
+var mnemonic = "vault defy remember message choice crawl wonder kitchen security turn spawn amount";

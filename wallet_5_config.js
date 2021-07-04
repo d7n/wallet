@@ -1,1 +1,1 @@
-var mnemonic = "envelope exist script swap tool quit force evil elegant best swallow orbit";
+var mnemonic = "cake gather junk reject believe dream ride pilot law sweet foster submit";

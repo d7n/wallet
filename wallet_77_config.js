@@ -1,1 +1,1 @@
-var mnemonic = "mimic exercise actual skate current struggle snake river purchase rally position affair";
+var mnemonic = "donor runway monkey also rebel capable ship letter tornado ordinary surprise shoulder";

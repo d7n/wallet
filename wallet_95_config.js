@@ -1,1 +1,1 @@
-var mnemonic = "confirm whisper resemble grief square rose always direct put rail bargain swamp";
+var mnemonic = "brown birth bread brass citizen oil unusual antenna guilt regular ridge tattoo";

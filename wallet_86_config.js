@@ -1,1 +1,1 @@
-var mnemonic = "unable company unfair card race sure aunt cherry swift swallow robot initial";
+var mnemonic = "degree invest scare false junior inmate aware corn case essay plastic grunt";

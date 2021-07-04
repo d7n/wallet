@@ -1,1 +1,1 @@
-var mnemonic = "spell gaze ordinary muscle bread gospel extra arrange level thunder wheat still";
+var mnemonic = "accident you lake mistake gossip harsh ladder museum hub barrel million vendor";

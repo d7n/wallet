@@ -1,1 +1,1 @@
-var mnemonic = "legal trap icon area twelve elevator original abandon essence put tuna toss";
+var mnemonic = "extend exercise cry describe child dinner soda genre submit small belt future";

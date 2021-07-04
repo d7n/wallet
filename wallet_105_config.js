@@ -1,1 +1,1 @@
-var mnemonic = "like plunge sugar connect public match simple ring put exact flat rabbit";
+var mnemonic = "potato shine wisdom price solid river average air explain welcome globe bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "silk oval crop arrange current eager rely credit muffin worry dumb reason";
+var mnemonic = "peanut dice devote gaze glimpse glass midnight quarter sentence inflict mass easily";

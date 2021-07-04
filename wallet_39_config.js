@@ -1,1 +1,1 @@
-var mnemonic = "toy fee member galaxy slim stone cotton start globe tooth bracket start";
+var mnemonic = "torch worry virus extra caution input ship ticket strategy moment onion hungry";
