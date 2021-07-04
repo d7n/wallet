@@ -1,1 +1,1 @@
-var mnemonic = "view federal bar rug shift truck sport valid vacuum rib duty muffin";
+var mnemonic = "save suit dutch finger ability next defy miss rack hawk quit wasp";

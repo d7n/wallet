@@ -1,1 +1,1 @@
-var mnemonic = "custom price ugly nest tragic shine release toddler copper crash waste sail";
+var mnemonic = "drum aspect similar wagon catalog real endorse burst desert copy hurry angle";

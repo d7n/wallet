@@ -1,1 +1,1 @@
-var mnemonic = "bundle month include slice flock next symbol hello hedgehog trend portion shuffle";
+var mnemonic = "chronic vast picnic fan garlic alley there century humor pitch super velvet";

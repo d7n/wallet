@@ -1,1 +1,1 @@
-var mnemonic = "lonely slim eternal cupboard scan split history smile list help toss pill";
+var mnemonic = "law convince sure tennis section member fatal model material salon bid tuna";

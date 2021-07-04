@@ -1,1 +1,1 @@
-var mnemonic = "october year science that reveal artwork hamster pottery true portion blouse want";
+var mnemonic = "oval child surround mixed noodle review that acquire practice card rice inherit";

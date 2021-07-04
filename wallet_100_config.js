@@ -1,1 +1,1 @@
-var mnemonic = "antique level hockey heavy begin twenty tragic veteran best prefer vibrant wrong";
+var mnemonic = "umbrella boy resemble nephew stereo enjoy behave auction office crunch close craft";

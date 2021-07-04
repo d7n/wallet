@@ -1,1 +1,1 @@
-var mnemonic = "vintage own label govern glove coral treat kiwi cricket evoke help split";
+var mnemonic = "remind sauce aspect kiss immense curve retreat hello else deer powder exclude";

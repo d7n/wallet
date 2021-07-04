@@ -1,1 +1,1 @@
-var mnemonic = "brain coil pitch sea thank steak weekend runway opinion water repair orphan";
+var mnemonic = "web cycle easily clinic act adapt among animal supply school space fault";

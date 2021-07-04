@@ -1,1 +1,1 @@
-var mnemonic = "width dress change egg indoor tilt poem pool display number glass among";
+var mnemonic = "brush debris view boil toddler cruise ladder eternal bridge pencil bag dog";

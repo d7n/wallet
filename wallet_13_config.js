@@ -1,1 +1,1 @@
-var mnemonic = "deputy sense repeat fault broom wrap peanut frown canoe voyage east zebra";
+var mnemonic = "range client acquire once traffic sound balcony panel educate effort junk practice";

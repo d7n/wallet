@@ -1,1 +1,1 @@
-var mnemonic = "square clump harvest ethics lamp embark gorilla canal anger meat walnut already";
+var mnemonic = "supreme pass broccoli fiber crush student unable acoustic denial tower panda parade";

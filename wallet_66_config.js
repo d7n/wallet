@@ -1,1 +1,1 @@
-var mnemonic = "throw inch napkin staff sign neutral father exchange indoor expect review infant";
+var mnemonic = "time push wave absorb secret snow know mansion people coast shy wave";

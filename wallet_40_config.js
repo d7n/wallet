@@ -1,1 +1,1 @@
-var mnemonic = "agree hope bubble park kite talk kiwi middle cloth chuckle panel sweet";
+var mnemonic = "unique parent magnet orange again spell giant harvest spawn together copy screen";

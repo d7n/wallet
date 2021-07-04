@@ -1,1 +1,1 @@
-var mnemonic = "rose grid long innocent bamboo impulse liar excuse secret guess affair invest";
+var mnemonic = "few install change nerve promote blossom ostrich evil bus stable few sponsor";

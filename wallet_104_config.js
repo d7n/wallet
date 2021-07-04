@@ -1,1 +1,1 @@
-var mnemonic = "disorder myself cupboard access media neither run sail style outside sort shove";
+var mnemonic = "affair pyramid people staff add oven toss orphan lunar document borrow oxygen";

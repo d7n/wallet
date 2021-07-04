@@ -1,1 +1,1 @@
-var mnemonic = "inflict churn session obvious melt fish enforce vault episode side world auction";
+var mnemonic = "spice awesome company suffer mimic apart dose ball kingdom hollow ability senior";

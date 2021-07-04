@@ -1,1 +1,1 @@
-var mnemonic = "melody sad weather clinic desk flock dry shrug surface very book comfort";
+var mnemonic = "fame treat cheap satisfy annual round marble dry skull cry burst human";

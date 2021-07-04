@@ -1,1 +1,1 @@
-var mnemonic = "error include jaguar prosper regular enforce faint resist rebel cruel leopard swing";
+var mnemonic = "adjust gospel word flush owner inherit gaze toss thought equip flower poet";

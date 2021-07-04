@@ -1,1 +1,1 @@
-var mnemonic = "moment way hamster boss under resist fluid silver bitter trigger struggle flock";
+var mnemonic = "inmate chase conduct relax swallow cash author marriage oxygen phone cinnamon castle";

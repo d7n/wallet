@@ -1,1 +1,1 @@
-var mnemonic = "toilet pact grape shoulder that knee alter into truly maid measure flower";
+var mnemonic = "any black result sort paddle smoke method visit runway merit satoshi purity";

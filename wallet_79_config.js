@@ -1,1 +1,1 @@
-var mnemonic = "prevent slice matter puppy spring ozone impose typical mix behind amazing stuff";
+var mnemonic = "globe ethics cabin employ mobile that can sure weekend sword flock twist";

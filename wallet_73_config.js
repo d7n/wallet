@@ -1,1 +1,1 @@
-var mnemonic = "mystery wish gospel cube detect question market story clinic load display sniff";
+var mnemonic = "donate toy ceiling frozen hotel funny walnut shed table trend volcano citizen";

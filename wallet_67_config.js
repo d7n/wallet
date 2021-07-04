@@ -1,1 +1,1 @@
-var mnemonic = "champion brass smooth bridge buffalo demise moon book club suit polar fatal";
+var mnemonic = "banana cook proof riot keep genuine feel similar age blush balcony ritual";

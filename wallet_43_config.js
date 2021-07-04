@@ -1,1 +1,1 @@
-var mnemonic = "exact flame fence must media join since business skin expand breeze cluster";
+var mnemonic = "stone rib turtle setup warm front aerobic choose local evolve under coach";

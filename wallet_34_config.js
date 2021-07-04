@@ -1,1 +1,1 @@
-var mnemonic = "farm click mutual glare vacant oak jacket fork submit lab tent affair";
+var mnemonic = "among play boat language retreat near symptom kind seed rifle crawl team";

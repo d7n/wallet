@@ -1,1 +1,1 @@
-var mnemonic = "exclude scrub cargo maple rhythm chat fatigue wolf reform icon bus grocery";
+var mnemonic = "lab reason install apart soccer forum nation false pear family goddess episode";

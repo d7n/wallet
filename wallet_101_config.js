@@ -1,1 +1,1 @@
-var mnemonic = "salad logic buffalo liquid drum try refuse erode wide common shock gap";
+var mnemonic = "desk erosion monitor wrong pencil stage cash absurd tooth nothing drip rare";

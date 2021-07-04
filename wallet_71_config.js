@@ -1,1 +1,1 @@
-var mnemonic = "proof marriage message control grass notable orbit short elevator crime shoot enough";
+var mnemonic = "label easily holiday liquid runway fresh gallery slam dizzy analyst wave board";

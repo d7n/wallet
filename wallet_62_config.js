@@ -1,1 +1,1 @@
-var mnemonic = "insect intact boost wide scheme dial ring burst student flavor exile side";
+var mnemonic = "shallow awful monster liberty ribbon camera faint avocado onion lecture romance nest";

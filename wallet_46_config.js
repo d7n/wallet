@@ -1,1 +1,1 @@
-var mnemonic = "mean day round fresh abuse entry faculty bunker visual resource reflect bamboo";
+var mnemonic = "train credit glass thought explain giggle decrease spend metal crumble option person";

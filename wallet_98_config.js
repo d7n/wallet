@@ -1,1 +1,1 @@
-var mnemonic = "planet captain nominee say network bike ball caught decorate avoid piano celery";
+var mnemonic = "enjoy drama bread diamond struggle poem mule hotel wave brief secret field";

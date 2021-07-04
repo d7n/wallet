@@ -1,1 +1,1 @@
-var mnemonic = "ticket fluid aim empower humble craft alert tunnel brother draw bronze table";
+var mnemonic = "squeeze hill cheap potato cost fold clump blossom eagle veteran canoe first";

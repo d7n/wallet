@@ -1,1 +1,1 @@
-var mnemonic = "into voice end flip grief forest egg spawn parrot fashion lawn tornado";
+var mnemonic = "save critic sport skill crunch lamp obscure happy reason faculty proof despair";

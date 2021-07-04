@@ -1,1 +1,1 @@
-var mnemonic = "salt elite quantum size correct pluck labor gown melt world used supply";
+var mnemonic = "subway honey breeze patch invest legal dream guilt affair strike space boat";

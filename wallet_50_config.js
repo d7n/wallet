@@ -1,1 +1,1 @@
-var mnemonic = "castle resist dawn spin powder odor benefit patch dentist exercise truth own";
+var mnemonic = "pulse prison where victory upon lift rabbit night issue daughter file rocket";

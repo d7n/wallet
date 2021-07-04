@@ -1,1 +1,1 @@
-var mnemonic = "stairs speak figure lawsuit sight tumble junk laugh visit liar spare flag";
+var mnemonic = "admit price kite win open similar hospital balcony way system icon huge";

@@ -1,1 +1,1 @@
-var mnemonic = "cute balcony dawn discover body right exhaust salute jazz artefact episode approve";
+var mnemonic = "settle flag divert illness announce bomb judge indoor treat sing category kiwi";

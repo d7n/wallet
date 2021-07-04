@@ -1,1 +1,1 @@
-var mnemonic = "card response east radar foil roof inject label wall paddle boost rebuild";
+var mnemonic = "census need review remind fatigue enroll grab exotic canyon fancy supply heart";

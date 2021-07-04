@@ -1,1 +1,1 @@
-var mnemonic = "duty whisper coach merit destroy clown faculty eternal earn coast inside pole";
+var mnemonic = "stem leopard bike sword beauty install brick nuclear velvet twin spot piano";

@@ -1,1 +1,1 @@
-var mnemonic = "burden able term whale salad thank resource cruel tape between canyon chicken";
+var mnemonic = "viable mountain select label yard home lobster muffin silk avocado cinnamon evolve";

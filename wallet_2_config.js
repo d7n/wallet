@@ -1,1 +1,1 @@
-var mnemonic = "wash dream sudden shaft trash good add follow hockey exile wrestle sniff";
+var mnemonic = "angle hybrid roast walk clap frog property trumpet damage satoshi voice refuse";

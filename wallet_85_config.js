@@ -1,1 +1,1 @@
-var mnemonic = "razor then rice loyal series scene shove misery upgrade gap wise dove";
+var mnemonic = "confirm pony youth gloom monkey cattle stand feed glance when comic check";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle farm convince metal pig gadget idea tragic gorilla unusual angle volume";
+var mnemonic = "salon vague buzz float yellow shallow project someone dial erase reopen oxygen";

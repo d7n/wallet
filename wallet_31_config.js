@@ -1,1 +1,1 @@
-var mnemonic = "slush discover rent club fame state oppose clock muscle below neutral team";
+var mnemonic = "purity when absorb ensure deposit chef render during fitness craft cactus argue";

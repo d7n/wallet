@@ -1,1 +1,1 @@
-var mnemonic = "humble confirm orient found fresh beauty aerobic frown swim alien axis explain";
+var mnemonic = "coyote motion produce seat waste world fiction enough same oyster lamp ship";

@@ -1,1 +1,1 @@
-var mnemonic = "leg gauge walk pride build welcome during equip space crash cabbage cloth";
+var mnemonic = "crazy segment minute clay vintage stable round mind razor pudding ceiling depth";

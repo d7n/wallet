@@ -1,1 +1,1 @@
-var mnemonic = "fabric fat rack scissors front reform latin cotton fruit vintage surge risk";
+var mnemonic = "hobby noble funny square enlist panel tower gold ill junk slot sting";

@@ -1,1 +1,1 @@
-var mnemonic = "target envelope mechanic coconut thunder dynamic attitude water animal island bag survey";
+var mnemonic = "network parade expose scout rack canyon act bracket truth lunar tell chalk";

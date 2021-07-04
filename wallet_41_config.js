@@ -1,1 +1,1 @@
-var mnemonic = "whale catalog bean cinnamon timber minute power grocery bright become excite high";
+var mnemonic = "neutral invest charge cannon obvious seed math buffalo volume summer elite advice";

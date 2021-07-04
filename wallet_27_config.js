@@ -1,1 +1,1 @@
-var mnemonic = "spice mind poet left wild rail fence blood ceiling fire feel nice";
+var mnemonic = "joke area math bacon royal legend regular quiz what beach there door";

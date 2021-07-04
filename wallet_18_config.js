@@ -1,1 +1,1 @@
-var mnemonic = "tourist space credit ivory coral mammal space language sketch ordinary prepare category";
+var mnemonic = "exact rival dream approve soon bone grass wrong expire sudden double farm";

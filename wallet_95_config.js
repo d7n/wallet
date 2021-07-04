@@ -1,1 +1,1 @@
-var mnemonic = "town obvious merge skate tackle cereal galaxy endorse reunion slogan fantasy cargo";
+var mnemonic = "brave element wrestle giggle local robust nothing conduct raven mixture slow glove";

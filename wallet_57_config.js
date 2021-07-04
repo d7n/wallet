@@ -1,1 +1,1 @@
-var mnemonic = "away undo gossip satoshi rescue embark fetch control talent unfold fame hint";
+var mnemonic = "slot royal shiver wool language alert round item short dress adapt base";

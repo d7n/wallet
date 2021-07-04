@@ -1,1 +1,1 @@
-var mnemonic = "cousin novel initial lunar convince ride measure fluid shell combine tiger okay";
+var mnemonic = "guilt leave glad march hen february cycle clock pilot prosper second rally";

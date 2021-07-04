@@ -1,1 +1,1 @@
-var mnemonic = "river van found clock earn naive next prosper dice blossom wish side";
+var mnemonic = "impose excuse cover despair live blue valve filter help matter object salute";

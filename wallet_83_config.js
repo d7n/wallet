@@ -1,1 +1,1 @@
-var mnemonic = "reason snack lift grain civil gesture tip science apart sudden click erosion";
+var mnemonic = "hockey cement stock address index rack utility patch walk where legal coyote";

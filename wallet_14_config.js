@@ -1,1 +1,1 @@
-var mnemonic = "gather winter business shrimp exhaust gossip voice gift very scatter ordinary any";
+var mnemonic = "wolf unhappy worry mansion prize excess general comic runway protect thrive permit";

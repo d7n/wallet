@@ -1,1 +1,1 @@
-var mnemonic = "language tell lunch panel junior stadium auto select neglect brown buyer bench";
+var mnemonic = "forest base antique immense problem slot desk bunker badge pen slam because";

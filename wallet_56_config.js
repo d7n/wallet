@@ -1,1 +1,1 @@
-var mnemonic = "keep service canyon tonight hurry trash street disease snack disagree tone early";
+var mnemonic = "oak opera lift hero just doctor robust harbor lamp power cat mail";

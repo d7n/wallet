@@ -1,1 +1,1 @@
-var mnemonic = "method gather whip humor become slim stand town diagram rescue shuffle scrub";
+var mnemonic = "hawk clip toe clarify mystery scrap embody desert electric fiber excuse finger";

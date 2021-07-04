@@ -1,1 +1,1 @@
-var mnemonic = "letter rubber vital oven chuckle faith aware clay eternal scorpion word daring";
+var mnemonic = "patrol smart ethics toast shine gauge plate virtual sport vendor empty bulk";

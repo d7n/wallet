@@ -1,1 +1,1 @@
-var mnemonic = "grain lady ozone latin famous sustain rude hair peanut sketch canyon visa";
+var mnemonic = "sadness club soldier ribbon coil mesh accuse dust endorse tuna cheap obvious";

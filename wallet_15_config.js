@@ -1,1 +1,1 @@
-var mnemonic = "drift bounce borrow power zebra eight expand furnace focus proud ancient stumble";
+var mnemonic = "boil pulse such cheap chaos hurdle lucky metal track champion youth kingdom";

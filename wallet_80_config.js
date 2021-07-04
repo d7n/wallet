@@ -1,1 +1,1 @@
-var mnemonic = "wrist bone neither truck quarter screen apple appear uphold fame lunch current";
+var mnemonic = "security pill clip awesome surface stick service pen grow captain shoe purchase";

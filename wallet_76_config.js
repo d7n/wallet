@@ -1,1 +1,1 @@
-var mnemonic = "arm bench notice warrior dish lizard same shiver sauce dragon cake buffalo";
+var mnemonic = "valid walnut sugar cliff snack wolf curious pitch mix lunar express erode";

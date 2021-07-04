@@ -1,1 +1,1 @@
-var mnemonic = "glare relief wild pluck erase card laundry attend example mimic mixture another";
+var mnemonic = "old planet globe coin blanket brick buzz trash step wealth praise seed";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar burden solve wink wolf pill crawl twist myth visual captain draft";
+var mnemonic = "coin tenant airport resource feed reason fragile pigeon bird kite author useless";

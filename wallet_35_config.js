@@ -1,1 +1,1 @@
-var mnemonic = "hello cluster blouse diesel focus mosquito heavy road moral clay happy casual";
+var mnemonic = "phrase airport sign napkin today anger home monster upper agent output rail";

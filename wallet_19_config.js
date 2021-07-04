@@ -1,1 +1,1 @@
-var mnemonic = "confirm bracket ten educate pelican before betray tone absurd inherit rescue word";
+var mnemonic = "army scatter fashion sport glory breeze three behind leaf olympic library glide";

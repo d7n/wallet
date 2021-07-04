@@ -1,1 +1,1 @@
-var mnemonic = "wall worth theory north crouch away symbol fall firm label please captain";
+var mnemonic = "saddle account area post alcohol sugar pledge unlock plate candy spray crawl";

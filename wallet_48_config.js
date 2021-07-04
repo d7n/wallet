@@ -1,1 +1,1 @@
-var mnemonic = "holiday curious dial worth inspire finish win garage panic dust insane bench";
+var mnemonic = "rookie desert mother agree sea bean physical nasty baby region measure long";

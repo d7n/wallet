@@ -1,1 +1,1 @@
-var mnemonic = "square lesson awesome spring unknown apple attack top slam canal dynamic cup";
+var mnemonic = "task two early toast divorce seed reform ritual initial wash sound mention";

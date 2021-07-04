@@ -1,1 +1,1 @@
-var mnemonic = "element will tree amateur awake mention cream health end comic exile bid";
+var mnemonic = "fire vocal praise display pattern sock fatal scheme video fortune ski imitate";

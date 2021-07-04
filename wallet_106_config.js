@@ -1,1 +1,1 @@
-var mnemonic = "pony rare drive race tackle relief rapid bargain embody smile bike relax";
+var mnemonic = "lady umbrella try retire angle trial mail exercise dirt curious vault swarm";

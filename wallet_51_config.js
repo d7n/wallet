@@ -1,1 +1,1 @@
-var mnemonic = "champion spread caution tattoo circle marine clump venture flash pass opinion list";
+var mnemonic = "wait poverty pulp business jelly error dignity away wisdom fresh twin around";

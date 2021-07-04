@@ -1,1 +1,1 @@
-var mnemonic = "food monster manage exhaust hurdle true grow tail relax urge cattle lab";
+var mnemonic = "solid nation knee peasant fall naive jazz spring dress salt speak nose";

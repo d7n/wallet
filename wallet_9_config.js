@@ -1,1 +1,1 @@
-var mnemonic = "strategy donkey disagree ripple wage uncle lazy label tail eye army hobby";
+var mnemonic = "erupt document virus october please input walk ketchup ozone trick setup access";

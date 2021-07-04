@@ -1,1 +1,1 @@
-var mnemonic = "monitor nephew donkey mushroom exile start barrel magnet sign clean before bulb";
+var mnemonic = "curious assault average someone pudding enable ketchup flat salon zero throw enough";

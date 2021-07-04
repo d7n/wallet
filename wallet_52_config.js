@@ -1,1 +1,1 @@
-var mnemonic = "bonus rare coin topic exhibit relax hobby creek north ketchup vault oil";
+var mnemonic = "bleak chapter crush country cricket dizzy traffic between cheap link check cruise";

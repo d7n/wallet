@@ -1,1 +1,1 @@
-var mnemonic = "scatter speed tornado gas buddy rude sea alone vintage cute cover income";
+var mnemonic = "verify correct lock blood ski rain story entire more useful maze witness";

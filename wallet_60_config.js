@@ -1,1 +1,1 @@
-var mnemonic = "garlic chimney advance armor clarify dune laptop race seek few core leopard";
+var mnemonic = "day peasant cart impose sugar shrimp talent essence scare brush advance cram";

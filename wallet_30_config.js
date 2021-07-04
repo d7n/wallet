@@ -1,1 +1,1 @@
-var mnemonic = "general flee tomorrow slim table step motion perfect news either domain false";
+var mnemonic = "antenna lecture bulb wet combine grain riot just drama current cliff farm";

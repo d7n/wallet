@@ -1,1 +1,1 @@
-var mnemonic = "crane way march farm entire indicate oven bullet soda parrot wealth deputy";
+var mnemonic = "sister poem you improve senior ecology sustain record design december side door";

@@ -1,1 +1,1 @@
-var mnemonic = "detect obey joy strong elephant middle wrist once office tool loop plastic";
+var mnemonic = "fatigue talk crop forget suggest crystal huge carbon attack auto end creek";

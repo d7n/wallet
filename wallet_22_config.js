@@ -1,1 +1,1 @@
-var mnemonic = "best winter tragic grid cute seed pledge planet audit genuine usual sell";
+var mnemonic = "evidence arrest army poet test fall hundred aware sample water shop visual";

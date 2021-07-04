@@ -1,1 +1,1 @@
-var mnemonic = "improve gadget cactus spoil flavor unable kitchen remove chef sign return express";
+var mnemonic = "expose wait stone field diesel mass same wing venture more crucial burst";

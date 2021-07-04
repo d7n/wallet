@@ -1,1 +1,1 @@
-var mnemonic = "web bike warrior cross initial ride ring title raw exclude toss follow";
+var mnemonic = "timber basic trap warrior belt bag sense coin mix sunny cover behave";

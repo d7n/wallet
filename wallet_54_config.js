@@ -1,1 +1,1 @@
-var mnemonic = "vintage public fiction economy future endorse velvet square hammer draft detect pull";
+var mnemonic = "fancy exact body latin spy carry final gravity recipe nurse call alone";

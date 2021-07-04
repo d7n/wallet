@@ -1,1 +1,1 @@
-var mnemonic = "right slush display pact enforce craft purpose kangaroo keep issue tooth have";
+var mnemonic = "hub ketchup bean library test plug frozen usual aspect finger rain window";

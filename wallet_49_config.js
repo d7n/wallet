@@ -1,1 +1,1 @@
-var mnemonic = "lottery boost sorry inflict decide bench federal siege police vicious donor patrol";
+var mnemonic = "speak search error blush produce alley enemy tortoise dinosaur attitude rice either";

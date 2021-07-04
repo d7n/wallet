@@ -1,1 +1,1 @@
-var mnemonic = "energy key require silver copper party deny release letter crime innocent cousin";
+var mnemonic = "sad oxygen orient buddy cannon barrel glow vital track urban guitar gallery";

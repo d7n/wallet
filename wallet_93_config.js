@@ -1,1 +1,1 @@
-var mnemonic = "mom dish speed midnight about lemon beef drop unaware forward peace such";
+var mnemonic = "winner blade frog gravity violin myself street dizzy chef flush melody junk";
