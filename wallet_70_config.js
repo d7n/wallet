@@ -1,1 +1,1 @@
-var mnemonic = "crowd enroll acquire vintage gift blossom empty melody gravity call gas tired";
+var mnemonic = "history tip place mushroom film pave session junior decade bag tribe virus";

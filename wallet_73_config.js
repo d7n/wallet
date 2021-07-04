@@ -1,1 +1,1 @@
-var mnemonic = "upgrade outside curve must tenant armed source hill crew fan system athlete";
+var mnemonic = "deputy hair cinnamon news conduct double hidden card orbit minor inside artefact";

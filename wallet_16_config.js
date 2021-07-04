@@ -1,1 +1,1 @@
-var mnemonic = "list whale goose glory cancel vibrant ridge palace stool inquiry someone shrug";
+var mnemonic = "member sugar jump push speed credit pepper candy limit grocery soup palm";

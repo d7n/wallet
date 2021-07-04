@@ -1,1 +1,1 @@
-var mnemonic = "under load filter climb salmon flock whale wait burger define wait post";
+var mnemonic = "kiwi wagon lesson horror silk noise hammer absorb viable grit find chair";

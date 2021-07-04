@@ -1,1 +1,1 @@
-var mnemonic = "jealous guilt bonus giant autumn phrase feature liquid prize will race exit";
+var mnemonic = "witness paper flee artefact harsh avoid rose beach goat jacket urge alter";

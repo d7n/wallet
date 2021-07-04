@@ -1,1 +1,1 @@
-var mnemonic = "verb amused brother auto comfort urge shoe crater logic vacuum prevent any";
+var mnemonic = "life explain theory glass route exhibit reveal hint engine income robust wing";

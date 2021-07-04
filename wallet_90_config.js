@@ -1,1 +1,1 @@
-var mnemonic = "alley seven truth broken frost decrease under identify turn drink jazz spend";
+var mnemonic = "medal voyage card oppose trust pioneer sponsor member manage broken certain boring";

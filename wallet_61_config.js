@@ -1,1 +1,1 @@
-var mnemonic = "faculty switch canvas appear guide depart fire tomato feel old cake mystery";
+var mnemonic = "tower faint urge only gain again bright awkward powder census produce energy";

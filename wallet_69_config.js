@@ -1,1 +1,1 @@
-var mnemonic = "pupil original drive velvet defy mercy sun fever nuclear fiction ahead pilot";
+var mnemonic = "total divert agree budget capital burger twenty laugh citizen ahead tool embark";

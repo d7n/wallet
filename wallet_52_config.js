@@ -1,1 +1,1 @@
-var mnemonic = "turtle debris top enact inner citizen silver enhance team february shrug festival";
+var mnemonic = "response equip more rug deal olive town conduct range off shy debris";

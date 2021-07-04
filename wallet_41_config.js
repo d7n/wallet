@@ -1,1 +1,1 @@
-var mnemonic = "tiny guilt balcony popular acquire suspect rival remain fence garment absent artwork";
+var mnemonic = "nurse project similar bone aisle edit blush notice zero hobby lend merge";

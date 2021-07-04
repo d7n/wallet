@@ -1,1 +1,1 @@
-var mnemonic = "depart soda warfare nuclear body flee glue upset exit love vocal change";
+var mnemonic = "help rack slush fun flock session mom odor liberty suggest pottery fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "best typical pause describe eye join lumber scheme parrot another measure rebuild";
+var mnemonic = "elegant model expose song hockey awesome rude toss divert rose much royal";

@@ -1,1 +1,1 @@
-var mnemonic = "move submit happy wash power usual office vote expire object demand guide";
+var mnemonic = "cheese prison craft staff coach electric wheat shine blast suit magnet category";

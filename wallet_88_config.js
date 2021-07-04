@@ -1,1 +1,1 @@
-var mnemonic = "unhappy crane practice hill soon own drive speed cable wave cause smooth";
+var mnemonic = "lobster supply update city help gap exile inquiry minute find alert timber";

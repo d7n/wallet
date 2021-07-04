@@ -1,1 +1,1 @@
-var mnemonic = "zone fuel brass love blouse reduce history gaze write fiction rent blur";
+var mnemonic = "route vehicle file produce soup know shock satoshi empty step cruise section";

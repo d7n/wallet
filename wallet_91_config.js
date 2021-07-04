@@ -1,1 +1,1 @@
-var mnemonic = "upset nasty thumb oxygen label need engage worth rail same rude when";
+var mnemonic = "cliff garbage chuckle plunge then ecology awake potato reveal best sell valve";

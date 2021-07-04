@@ -1,1 +1,1 @@
-var mnemonic = "invest soccer engage tag spice file long dune popular demand naive control";
+var mnemonic = "cook abuse morning nation ball record fever welcome trophy abuse nation horn";

@@ -1,1 +1,1 @@
-var mnemonic = "knee couple car pitch situate shift year bracket injury above head tribe";
+var mnemonic = "annual subject since twelve gym horror balance notice wish genuine slight rib";

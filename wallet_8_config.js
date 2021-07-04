@@ -1,1 +1,1 @@
-var mnemonic = "pretty latin police simple effort vocal banner sell idle special smoke wreck";
+var mnemonic = "put quote current suffer ceiling special mention lizard brother fold fitness baby";

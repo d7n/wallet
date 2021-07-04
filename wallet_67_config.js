@@ -1,1 +1,1 @@
-var mnemonic = "way agent loud leopard enforce mosquito tank soul swamp space escape foster";
+var mnemonic = "spoil just abstract inner token hole mention cereal knife rifle front ahead";

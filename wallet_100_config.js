@@ -1,1 +1,1 @@
-var mnemonic = "what flee inside hospital link latin sort steel home rule afford lunar";
+var mnemonic = "clock tray peasant input remember run mistake staff void lottery fold erode";

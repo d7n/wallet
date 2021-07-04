@@ -1,1 +1,1 @@
-var mnemonic = "where gold pipe canal churn glare empower decrease lamp cause enhance eye";
+var mnemonic = "addict rotate ecology follow expire goose chase ten film announce desk inject";

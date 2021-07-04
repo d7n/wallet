@@ -1,1 +1,1 @@
-var mnemonic = "deliver office east sustain truck course goose other divide gun crystal lunch";
+var mnemonic = "rose stuff lucky organ crop deer base defy buffalo random cloud dream";

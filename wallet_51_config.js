@@ -1,1 +1,1 @@
-var mnemonic = "lady legal arm inch boat erase shell across hungry top beauty flee";
+var mnemonic = "drift coil visa income relax fiction person extra point panda case pitch";

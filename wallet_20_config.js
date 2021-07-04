@@ -1,1 +1,1 @@
-var mnemonic = "volcano robot rifle wear acid slice aim green daughter fan vivid way";
+var mnemonic = "early evolve found daughter essence track chief dolphin loud under ask renew";

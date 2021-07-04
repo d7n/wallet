@@ -1,1 +1,1 @@
-var mnemonic = "piece celery trap umbrella asset depend orbit tuition nasty token uncover you";
+var mnemonic = "north seven barely gentle hazard cruise girl elite lawsuit lounge extend fade";

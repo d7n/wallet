@@ -1,1 +1,1 @@
-var mnemonic = "panel tribe mammal law party cycle note wisdom skill puzzle lonely cement";
+var mnemonic = "apology meat cereal april melody tired call alter hard mail come debate";

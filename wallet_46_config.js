@@ -1,1 +1,1 @@
-var mnemonic = "horse derive sting leave behind enough pudding busy merit price razor dumb";
+var mnemonic = "donkey tobacco spy later reduce suspect wave rose arctic floor accident glory";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid mention unfold cry pipe toe cute cream cheap evoke fox subway";
+var mnemonic = "raise payment object spare pool during filter inside carpet walk express execute";

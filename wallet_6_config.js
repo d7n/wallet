@@ -1,1 +1,1 @@
-var mnemonic = "sun cherry company asthma law retreat couch brass agree canyon orbit confirm";
+var mnemonic = "jealous depart own attract right image jewel rifle tourist admit language bridge";

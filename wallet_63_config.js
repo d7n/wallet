@@ -1,1 +1,1 @@
-var mnemonic = "segment ugly arctic march change trend atom grocery museum unhappy box typical";
+var mnemonic = "wagon coconut water slender budget they wolf toilet maid arm pitch figure";

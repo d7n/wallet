@@ -1,1 +1,1 @@
-var mnemonic = "matrix kit midnight submit vital protect post sample moment soul night defense";
+var mnemonic = "mule arrange rose beach puzzle vague goat spatial favorite entire mother anchor";

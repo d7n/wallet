@@ -1,1 +1,1 @@
-var mnemonic = "holiday cancel afford stamp honey vicious diary story flavor actress cargo visual";
+var mnemonic = "derive plunge furnace hobby install service mimic divide fuel gun orphan celery";

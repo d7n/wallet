@@ -1,1 +1,1 @@
-var mnemonic = "effort end short employ brown hurry edit method sauce little often ankle";
+var mnemonic = "illegal boil paper caution adult cave hold valid response vehicle faint dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "couple dove rather bike scout assume museum jeans glow glove below slight";
+var mnemonic = "carry gesture tide mention iron change mouse entire rigid bag case farm";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow camp select term rain curious wealth wine obtain cool news elegant";
+var mnemonic = "riot old faculty kiss abstract food call else announce fish ripple prison";

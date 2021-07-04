@@ -1,1 +1,1 @@
-var mnemonic = "alcohol journey raven renew couch fog prefer leaf uniform fatigue can fall";
+var mnemonic = "filter easily film inch figure myth unknown diagram marriage there bacon slush";

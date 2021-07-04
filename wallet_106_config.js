@@ -1,1 +1,1 @@
-var mnemonic = "negative quality tilt will palace frost fall chat luggage same struggle walnut";
+var mnemonic = "lab floor upgrade tenant struggle service fuel unable ski traffic device repair";

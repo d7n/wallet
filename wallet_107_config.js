@@ -1,1 +1,1 @@
-var mnemonic = "twin combine symbol kangaroo loyal naive square actual yellow position pulp spray";
+var mnemonic = "shield mutual example very guard game budget east develop torch immense install";

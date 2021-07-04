@@ -1,1 +1,1 @@
-var mnemonic = "arm arctic august knee lady arctic skill march random family ozone robot";
+var mnemonic = "swap grab brass pipe rough shrimp gain grape chase enrich admit stay";

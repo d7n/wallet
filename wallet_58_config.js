@@ -1,1 +1,1 @@
-var mnemonic = "tone hurdle bundle essay unaware that violin matter marriage afford kid duck";
+var mnemonic = "elephant paper easy tone motion drastic lake grass helmet wink surprise slush";

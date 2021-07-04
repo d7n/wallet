@@ -1,1 +1,1 @@
-var mnemonic = "exile reform brown upper reduce divorce obtain castle want more pole busy";
+var mnemonic = "north fiber oyster inner rival ticket festival entry gorilla almost list ensure";

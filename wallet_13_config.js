@@ -1,1 +1,1 @@
-var mnemonic = "foam behave sponsor treat nice act pill subject citizen beauty print scrub";
+var mnemonic = "avoid scissors smart move jelly awkward spoil enforce reunion garage faith interest";

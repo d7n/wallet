@@ -1,1 +1,1 @@
-var mnemonic = "rhythm item stem clump model toss warm upset garlic rally border coin";
+var mnemonic = "chaos entire much edge clerk cherry pupil shrimp hard account gym hen";

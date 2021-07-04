@@ -1,1 +1,1 @@
-var mnemonic = "modify broom deliver silly tragic until nuclear elder adult initial million acoustic";
+var mnemonic = "tattoo dune derive certain kingdom syrup gold shell record wrestle dizzy mail";

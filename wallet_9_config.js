@@ -1,1 +1,1 @@
-var mnemonic = "add sting hotel near adult west math fringe type grid rural candy";
+var mnemonic = "promote despair orbit ride spike excite very faith reform sustain elite blur";

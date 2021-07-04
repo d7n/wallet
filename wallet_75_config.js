@@ -1,1 +1,1 @@
-var mnemonic = "online occur camp fly detect dutch gallery script better uncle grass reopen";
+var mnemonic = "can alley trim guilt peanut fever enforce double crucial company receive thunder";

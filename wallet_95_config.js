@@ -1,1 +1,1 @@
-var mnemonic = "bike fantasy brother april dash state regular follow faculty vendor cigar stadium";
+var mnemonic = "labor dress rail sort please nature light once shrug broom snack egg";

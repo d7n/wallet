@@ -1,1 +1,1 @@
-var mnemonic = "chalk scissors merry zoo pluck suit weather define split penalty wide crime";
+var mnemonic = "debris clarify rude huge dial cabin warrior wisdom fault claw seek bonus";

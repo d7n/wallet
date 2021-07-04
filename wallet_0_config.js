@@ -1,1 +1,1 @@
-var mnemonic = "olympic corn phone negative stuff defy diamond original symbol skate length normal";
+var mnemonic = "lesson dice strong solar obtain junior spell coconut must spawn indicate error";

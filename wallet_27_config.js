@@ -1,1 +1,1 @@
-var mnemonic = "dizzy odor resist inflict option enjoy drastic innocent champion improve blind index";
+var mnemonic = "then dial immune lady prison pulp copper purpose fiber quarter coast wrong";

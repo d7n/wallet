@@ -1,1 +1,1 @@
-var mnemonic = "rabbit tongue include few saddle inform write taxi fury oak frozen enjoy";
+var mnemonic = "aware recycle fatigue milk this suit balcony lamp scrub into sight squeeze";

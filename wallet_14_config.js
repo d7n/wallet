@@ -1,1 +1,1 @@
-var mnemonic = "curious devote index divorce sight live announce parent alien toilet stumble liquid";
+var mnemonic = "snap funny senior spend hold gadget praise ketchup slab royal alarm focus";

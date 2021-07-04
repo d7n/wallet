@@ -1,1 +1,1 @@
-var mnemonic = "bring priority husband bird crowd idea number reject hair fine pledge iron";
+var mnemonic = "annual page industry scale tourist pool arena want offer lock soup six";

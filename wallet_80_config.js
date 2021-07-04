@@ -1,1 +1,1 @@
-var mnemonic = "hand young warrior cry tree tower auction enemy inquiry jungle oyster negative";
+var mnemonic = "devote toddler lottery benefit north degree switch end omit water speed random";

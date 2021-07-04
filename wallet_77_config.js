@@ -1,1 +1,1 @@
-var mnemonic = "rich brave switch love try night furnace engage off peace oak describe";
+var mnemonic = "coil melt toddler wheel episode stem journey lady puzzle choice unfold survey";

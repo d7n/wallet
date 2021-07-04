@@ -1,1 +1,1 @@
-var mnemonic = "panic spoon furnace window rifle answer peanut gallery scrub undo latin hole";
+var mnemonic = "cool derive sound search february tackle live holiday wedding ability identify fruit";

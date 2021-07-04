@@ -1,1 +1,1 @@
-var mnemonic = "jeans mechanic fetch lucky broom fuel skirt rough follow husband tobacco weekend";
+var mnemonic = "jazz path similar error toy ancient diary velvet ceiling dolphin inflict solar";

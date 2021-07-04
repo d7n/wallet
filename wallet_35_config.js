@@ -1,1 +1,1 @@
-var mnemonic = "boil merit cabbage want fluid endless faint fade parent tumble doctor frog";
+var mnemonic = "define expire creek add already purity pottery flee visual final scatter mean";

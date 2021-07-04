@@ -1,1 +1,1 @@
-var mnemonic = "owner economy cycle tiger become advance drip dragon flag shy swift surge";
+var mnemonic = "silver middle talent nurse nasty capital alone shell card history use remind";

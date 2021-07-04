@@ -1,1 +1,1 @@
-var mnemonic = "tool dolphin bind blouse search life mosquito spice alert romance light permit";
+var mnemonic = "rose water olive ice battle flat equal ladder symbol antique vibrant hospital";

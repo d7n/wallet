@@ -1,1 +1,1 @@
-var mnemonic = "wire skirt thrive salon tiger ship talk delay vintage popular vacant process";
+var mnemonic = "dial link correct exist crucial dignity patch electric venture wood suit tag";

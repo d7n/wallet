@@ -1,1 +1,1 @@
-var mnemonic = "height any involve mystery trial ancient polar science example picture fog rack";
+var mnemonic = "vapor buffalo tuna pave suit shoot sample ritual correct casino cliff retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "remain swift jump practice drop gauge need unit train suit wrong giant";
+var mnemonic = "ride buddy giraffe shaft render fiber uncover because task tonight olympic toy";

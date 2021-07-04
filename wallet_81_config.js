@@ -1,1 +1,1 @@
-var mnemonic = "cousin ghost bounce beyond drill display motor obey few seed build give";
+var mnemonic = "shrimp tiny anchor alarm toy idea deputy point final shoe ugly nasty";

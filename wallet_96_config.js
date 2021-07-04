@@ -1,1 +1,1 @@
-var mnemonic = "use credit lunch review awake oven detail dumb online neutral digital pumpkin";
+var mnemonic = "attitude breeze assist shell fashion error bone shiver tissue into mule boy";

@@ -1,1 +1,1 @@
-var mnemonic = "receive exotic banana settle scorpion cargo napkin spy cereal beauty argue absurd";
+var mnemonic = "rib fun explain marriage afford elite lady fossil cross run hair nice";

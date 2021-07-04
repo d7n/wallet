@@ -1,1 +1,1 @@
-var mnemonic = "merry solar original artwork alcohol pulse become oblige slow fury tell amount";
+var mnemonic = "antique fury require evoke tuition reflect cook rebuild excite host rent pistol";

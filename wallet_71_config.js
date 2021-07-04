@@ -1,1 +1,1 @@
-var mnemonic = "innocent else goat mean tourist faith demise hidden wise mass tongue quick";
+var mnemonic = "two sort mention place fame glow comfort token dune elephant version enhance";

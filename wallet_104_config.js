@@ -1,1 +1,1 @@
-var mnemonic = "point rabbit mean endorse beach bottom place first supply hold surge unfold";
+var mnemonic = "effort glide blood denial tank wave curtain dose thing raccoon father fiction";

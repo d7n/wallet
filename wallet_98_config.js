@@ -1,1 +1,1 @@
-var mnemonic = "shock similar used color order sun mail abandon kitten install abstract owner";
+var mnemonic = "nice motion market approve song cushion link joy lion one bronze open";

@@ -1,1 +1,1 @@
-var mnemonic = "win bubble original machine sorry bid meat diamond elegant train soft limit";
+var mnemonic = "end ski drop foot ride like hidden column smooth caught thumb cabbage";

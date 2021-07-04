@@ -1,1 +1,1 @@
-var mnemonic = "shiver fan dash sea icon essay never easy clay insane gun boss";
+var mnemonic = "alley pioneer announce crowd ridge gaze maximum check glow elephant gym source";

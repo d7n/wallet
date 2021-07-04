@@ -1,1 +1,1 @@
-var mnemonic = "sight van sunny bus raise knife awful group gift tuna aisle tattoo";
+var mnemonic = "cabin slam purity orange casual bird cage trash disagree youth champion emotion";

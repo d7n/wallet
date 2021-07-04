@@ -1,1 +1,1 @@
-var mnemonic = "bind include busy dial warm rifle olive dad crack animal deer machine";
+var mnemonic = "vibrant claim frost fruit buzz horn lamp discover emerge magic canyon addict";

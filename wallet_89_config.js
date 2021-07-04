@@ -1,1 +1,1 @@
-var mnemonic = "banner fork still fringe orange mother add pepper genre pass clever buzz";
+var mnemonic = "alley inspire boil ugly own peanut salmon phone need replace true scale";

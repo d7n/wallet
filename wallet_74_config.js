@@ -1,1 +1,1 @@
-var mnemonic = "ball world outdoor wait field team congress dumb surge delay cat always";
+var mnemonic = "prepare mix inquiry amateur echo sea aisle reflect pretty across often license";

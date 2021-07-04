@@ -1,1 +1,1 @@
-var mnemonic = "allow kidney emotion fabric stand brother stay scatter voice company begin drift";
+var mnemonic = "capable trial hobby social obscure airport shock grape slot wonder shoulder castle";

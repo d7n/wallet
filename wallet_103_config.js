@@ -1,1 +1,1 @@
-var mnemonic = "dutch post good glad network mail plastic pattern harsh number crumble cabin";
+var mnemonic = "margin gift kitten try clown jealous face change lawsuit valid camp crime";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen height axis series envelope response fashion key else betray pen air";
+var mnemonic = "clock sample high winter photo dove knife wonder water panther history slim";

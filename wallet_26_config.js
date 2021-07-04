@@ -1,1 +1,1 @@
-var mnemonic = "goose defense square acquire update someone kangaroo scissors exchange erase pudding height";
+var mnemonic = "calm topic improve ramp distance fossil diary easily share pluck crazy angry";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze million drink mansion team sport flip retire term try planet twin";
+var mnemonic = "tragic solid iron toward negative night wish brain special cloud apology goat";

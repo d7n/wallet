@@ -1,1 +1,1 @@
-var mnemonic = "key jacket coffee moral party strong orchard erase crucial dizzy grass dash";
+var mnemonic = "neck swift brisk beach initial maple lift breeze virus pink split drill";

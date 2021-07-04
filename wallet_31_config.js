@@ -1,1 +1,1 @@
-var mnemonic = "vicious smart cream hair valid high liar fold because simple satisfy plug";
+var mnemonic = "thunder arrive slim trade hamster category stomach prevent deposit bacon admit leopard";

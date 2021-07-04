@@ -1,1 +1,1 @@
-var mnemonic = "defy cabin delay onion action vote urge volume because snack horn tomato";
+var mnemonic = "proof amused green cover couple loan repair drama maximum timber gravity between";

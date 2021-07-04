@@ -1,1 +1,1 @@
-var mnemonic = "deal artist olympic click unfair brother praise artefact box employ door exile";
+var mnemonic = "mystery uncle smart seven rally cover find soft mechanic relax noise people";

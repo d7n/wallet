@@ -1,1 +1,1 @@
-var mnemonic = "whale sport indoor sand travel honey idle mystery limit deposit neck scheme";
+var mnemonic = "expand hen pistol language seat draw enough little damp mango identify rocket";
