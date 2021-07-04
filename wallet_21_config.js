@@ -1,1 +1,1 @@
-var mnemonic = "list knife glare absent void melt draw shop toilet dawn file trap";
+var mnemonic = "clean mask puppy blue post slush develop ancient orient blood okay cart";

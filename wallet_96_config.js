@@ -1,1 +1,1 @@
-var mnemonic = "gate caught mad park stadium royal evidence perfect egg carpet wedding search";
+var mnemonic = "meat cereal wear giant loud scatter hungry hybrid load across roof plunge";

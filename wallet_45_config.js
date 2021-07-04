@@ -1,1 +1,1 @@
-var mnemonic = "vacuum actor possible panic robot memory home eager shell near vault reduce";
+var mnemonic = "solar rally world negative melody level sustain amount record destroy ozone spatial";

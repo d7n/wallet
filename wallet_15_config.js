@@ -1,1 +1,1 @@
-var mnemonic = "sun stadium lake sing agent general harvest exchange tattoo tool trim kiss";
+var mnemonic = "open cart sword anxiety visual flush curve brother viable perfect usage sure";

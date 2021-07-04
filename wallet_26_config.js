@@ -1,1 +1,1 @@
-var mnemonic = "patch glove horror rubber extra sand throw chair lucky sleep atom pull";
+var mnemonic = "panic pulp bubble height prize live spring bounce swarm sword symptom snap";

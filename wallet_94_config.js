@@ -1,1 +1,1 @@
-var mnemonic = "cube neglect flush reward airport turtle shoot weekend pole labor dutch fashion";
+var mnemonic = "chronic armed subway print solar pudding roof cross weird gallery basket submit";

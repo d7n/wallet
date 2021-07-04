@@ -1,1 +1,1 @@
-var mnemonic = "lonely shoot mesh fly muffin canal breeze tank island damp wheel rigid";
+var mnemonic = "omit when shiver before ski human explain day bleak door grain desert";

@@ -1,1 +1,1 @@
-var mnemonic = "trick muffin strong worth faith mushroom age wire hollow main bunker bus";
+var mnemonic = "layer forget speak maid move hundred female grow orchard coast label patient";

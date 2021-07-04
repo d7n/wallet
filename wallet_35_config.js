@@ -1,1 +1,1 @@
-var mnemonic = "avoid note obey six sunset hour rude party ankle useless bid play";
+var mnemonic = "holiday swim bridge know flock nature network electric execute wine exhaust badge";

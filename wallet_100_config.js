@@ -1,1 +1,1 @@
-var mnemonic = "pear purity next thumb notice final health rural cave limit cloth select";
+var mnemonic = "novel tell parent shoulder energy animal grant vacuum then fatal clerk boss";

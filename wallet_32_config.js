@@ -1,1 +1,1 @@
-var mnemonic = "equip range cradle aunt original member vast number ankle honey cherry snap";
+var mnemonic = "razor letter text crucial eternal blouse cycle perfect food sleep hollow arrest";

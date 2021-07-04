@@ -1,1 +1,1 @@
-var mnemonic = "girl child quality vague safe harbor idle erode crazy goose now garlic";
+var mnemonic = "argue intact oyster ball edit uncover nuclear cute captain spot lumber extra";

@@ -1,1 +1,1 @@
-var mnemonic = "grid light injury rebuild next oak green sun trade drama board invite";
+var mnemonic = "allow pole vapor burden north purchase chapter drip doctor tortoise unique toss";

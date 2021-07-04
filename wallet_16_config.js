@@ -1,1 +1,1 @@
-var mnemonic = "jazz cream lock sight hen they there jungle about food craft fury";
+var mnemonic = "profit matter limit armor inmate device dice source force photo adapt sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff smoke extra close symbol flat scale vacuum morning coffee awesome limit";
+var mnemonic = "act father wealth list dolphin canal casino solve direct bar draft gloom";

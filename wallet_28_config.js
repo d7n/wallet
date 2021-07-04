@@ -1,1 +1,1 @@
-var mnemonic = "want brick cook local crouch maple provide record tennis analyst brain erode";
+var mnemonic = "fresh treat attitude length flock main what enact tail exist appear divorce";

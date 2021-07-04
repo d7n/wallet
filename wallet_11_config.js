@@ -1,1 +1,1 @@
-var mnemonic = "myself document kick depend health convince awkward sound awesome card advice feel";
+var mnemonic = "file void minute moon angle focus girl muffin jelly online deputy eight";

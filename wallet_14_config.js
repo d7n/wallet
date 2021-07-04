@@ -1,1 +1,1 @@
-var mnemonic = "tone drastic amazing depart panther truck leg dawn elephant illegal depend deer";
+var mnemonic = "kite flat soda resource feed swarm unhappy clump aim catalog object mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "devote stool scene tank object island paddle design identify divide oval three";
+var mnemonic = "erode venture plate decline winter this enter anchor april volcano push trend";

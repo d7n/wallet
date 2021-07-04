@@ -1,1 +1,1 @@
-var mnemonic = "notice enact glass pull stone carpet omit twin quantum cherry park escape";
+var mnemonic = "scare wheel pact idea dial enact rug normal shop actor bullet game";

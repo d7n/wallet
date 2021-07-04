@@ -1,1 +1,1 @@
-var mnemonic = "pool knee actor state leisure art breeze human frost census net suspect";
+var mnemonic = "arrow chase utility caution embark become heavy front siren bottom clerk drive";

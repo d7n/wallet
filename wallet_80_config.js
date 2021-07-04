@@ -1,1 +1,1 @@
-var mnemonic = "observe produce coral captain guess mail offer legal focus someone detail fury";
+var mnemonic = "book venture news provide cricket sketch daughter next elite response organ reopen";

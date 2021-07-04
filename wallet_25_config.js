@@ -1,1 +1,1 @@
-var mnemonic = "escape stereo sick zero praise alone quick trend record exercise gasp gate";
+var mnemonic = "math pelican chronic drip wagon immense entry runway drift slot wish radar";

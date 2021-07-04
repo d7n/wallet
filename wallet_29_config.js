@@ -1,1 +1,1 @@
-var mnemonic = "drip penalty judge love skill exile margin jacket cheese cup skull stool";
+var mnemonic = "choose wheel kingdom damage come blush mad about pigeon border never plunge";

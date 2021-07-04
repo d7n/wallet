@@ -1,1 +1,1 @@
-var mnemonic = "pact used bundle drop annual element thrive witness ripple clinic possible gloom";
+var mnemonic = "slab skirt hamster park pigeon banner apology pass odor drift glare rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "kind combine actual cricket script arrive mother father truly veteran word tuition";
+var mnemonic = "dolphin play summer kingdom language hollow midnight just point borrow genre sunset";

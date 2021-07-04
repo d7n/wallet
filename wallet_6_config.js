@@ -1,1 +1,1 @@
-var mnemonic = "happy crush bamboo spy coil regular turtle depend genius endorse approve effort";
+var mnemonic = "assume cup page toast mosquito speak sweet organ orbit evolve clay crumble";

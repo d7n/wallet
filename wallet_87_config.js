@@ -1,1 +1,1 @@
-var mnemonic = "dizzy discover strike orchard metal shine yellow flip west index umbrella jewel";
+var mnemonic = "initial anger notice ankle usage palm evil vast champion letter script mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "raw panda spray future program bird always water toilet trip save dry";
+var mnemonic = "monster essay view flower upset animal initial rough february surprise glide note";

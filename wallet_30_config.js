@@ -1,1 +1,1 @@
-var mnemonic = "other guard destroy toe kind guilt still choose cattle morning gospel little";
+var mnemonic = "over grass defy enact satisfy bread talent outside shell various always human";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz paddle inherit prefer book error useless rich loyal carry jazz salmon";
+var mnemonic = "normal breeze door bracket option fever flower subject renew guitar inhale skirt";

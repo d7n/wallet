@@ -1,1 +1,1 @@
-var mnemonic = "mix slot album dolphin stomach bonus maze middle slab emotion toy cream";
+var mnemonic = "local practice impulse detail miracle size joke file reject puppy powder despair";

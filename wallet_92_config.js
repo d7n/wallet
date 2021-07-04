@@ -1,1 +1,1 @@
-var mnemonic = "fresh host produce crater gold green lounge priority enhance plastic square naive";
+var mnemonic = "next radio hole outer canoe ladder hole joke rule arrest essay casino";

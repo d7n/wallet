@@ -1,1 +1,1 @@
-var mnemonic = "cruel bid pool assault story curious lunch rotate lyrics noodle defense apology";
+var mnemonic = "lecture crash media shadow unable believe real travel drink rally monitor soda";

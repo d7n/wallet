@@ -1,1 +1,1 @@
-var mnemonic = "puzzle train search tissue fire anchor all shed vapor around shaft arctic";
+var mnemonic = "honey snack belt result zebra harsh elevator off analyst loyal predict jump";

@@ -1,1 +1,1 @@
-var mnemonic = "sight napkin bounce engage episode suggest comic success wash hold shrimp shoulder";
+var mnemonic = "before bronze ranch sight share enroll hybrid banner spike measure notice smile";

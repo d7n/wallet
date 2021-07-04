@@ -1,1 +1,1 @@
-var mnemonic = "lock elevator toy that mind retire pluck sell credit boring match announce";
+var mnemonic = "spider satisfy safe refuse bar job make differ divide talent gift rain";

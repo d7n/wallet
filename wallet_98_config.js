@@ -1,1 +1,1 @@
-var mnemonic = "nest huge patrol tuition alarm transfer visual deliver tiny pyramid lava view";
+var mnemonic = "helmet goose random fitness section purpose tiger similar next clip slogan mechanic";

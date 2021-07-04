@@ -1,1 +1,1 @@
-var mnemonic = "sample warrior possible cycle cause west undo endorse judge catch uncle inquiry";
+var mnemonic = "hand green under upon canal reform ride cause parade frost exile bacon";

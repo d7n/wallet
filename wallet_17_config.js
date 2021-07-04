@@ -1,1 +1,1 @@
-var mnemonic = "only earth chronic barrel lady domain child size vocal group mistake review";
+var mnemonic = "false bitter version vicious nasty attack mixture trap bracket credit couch lamp";

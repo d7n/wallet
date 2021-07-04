@@ -1,1 +1,1 @@
-var mnemonic = "angry ethics vehicle duty come corn bid tortoise barrel inform finger awful";
+var mnemonic = "stadium cactus acoustic wink economy actress cycle increase gym solid above cupboard";

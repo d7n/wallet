@@ -1,1 +1,1 @@
-var mnemonic = "water survey bracket gallery spread real solution tenant wing dose pill nose";
+var mnemonic = "milk bench good holiday wage isolate once attend silly vapor net tomato";

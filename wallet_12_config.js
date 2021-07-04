@@ -1,1 +1,1 @@
-var mnemonic = "embody suffer nasty almost weekend phrase carpet absent news erosion avoid morning";
+var mnemonic = "chat waste cherry door edge video artefact beauty elegant divert need turkey";

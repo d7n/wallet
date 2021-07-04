@@ -1,1 +1,1 @@
-var mnemonic = "wedding sauce cart injury citizen much audit boil dance flush dignity pumpkin";
+var mnemonic = "output harvest mutual grid live advance grab weapon angle travel huge document";

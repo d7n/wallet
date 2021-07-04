@@ -1,1 +1,1 @@
-var mnemonic = "planet embrace loan supply battle finish habit circle wait various cinnamon fatigue";
+var mnemonic = "ignore nominee ball wheel width camera pipe wife praise police mango marine";

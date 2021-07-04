@@ -1,1 +1,1 @@
-var mnemonic = "six tennis train account hollow beach cliff evolve rifle party void cross";
+var mnemonic = "problem brick wink trumpet humor clever kingdom chalk forum minor topple bullet";

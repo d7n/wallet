@@ -1,1 +1,1 @@
-var mnemonic = "dust river exclude sniff certain vote arrest fork legal glove render grit";
+var mnemonic = "maximum cereal cash bike quantum bachelor flash bike whale bar shine spider";

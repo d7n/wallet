@@ -1,1 +1,1 @@
-var mnemonic = "route beyond vendor note exhibit view monitor quarter mobile area sock clown";
+var mnemonic = "antenna whale confirm current favorite wrist have waste undo among coin address";

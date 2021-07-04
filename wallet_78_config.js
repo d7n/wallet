@@ -1,1 +1,1 @@
-var mnemonic = "loyal report tool endorse walk corn biology marine hello medal donor juice";
+var mnemonic = "series luggage over second machine doll help mountain device addict price front";

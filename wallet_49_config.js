@@ -1,1 +1,1 @@
-var mnemonic = "session poet dwarf suspect second utility increase disorder feed spring soldier omit";
+var mnemonic = "remind because dignity keen verb patient timber process cause amazing pencil lawn";

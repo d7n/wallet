@@ -1,1 +1,1 @@
-var mnemonic = "echo screen hobby boy diesel gossip imitate always defense victory angle raise";
+var mnemonic = "bacon addict maximum banner cry dwarf enforce topic load ugly scrap similar";

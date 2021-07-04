@@ -1,1 +1,1 @@
-var mnemonic = "analyst review push absent custom vacant grace trial road enable country salute";
+var mnemonic = "ticket snow else tragic shaft average bracket clump potato inject rate voice";

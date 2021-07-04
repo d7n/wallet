@@ -1,1 +1,1 @@
-var mnemonic = "recall shell whip make shiver ill emotion soul diary future provide such";
+var mnemonic = "void ready derive elegant scout avoid duck actress erode canal security quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "above orphan gloom drop three scrap mixed chest toast first remind glide";
+var mnemonic = "ritual grab dance village music uphold ugly one tray add wish jelly";

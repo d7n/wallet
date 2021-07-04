@@ -1,1 +1,1 @@
-var mnemonic = "boil wait vendor diary alpha equal loan must sea rude bubble target";
+var mnemonic = "damp blossom hat luggage measure genuine sausage guide subway few aim note";

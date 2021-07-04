@@ -1,1 +1,1 @@
-var mnemonic = "grass merry dash access sail only rookie vanish hospital become bargain mean";
+var mnemonic = "pigeon alien sun funny churn nation erode dignity suffer toast vessel ugly";

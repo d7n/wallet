@@ -1,1 +1,1 @@
-var mnemonic = "action cabbage gentle absent sheriff friend finish promote harsh casino mother host";
+var mnemonic = "purchase output woman beach cloud sure bar fat subject offer donkey owner";

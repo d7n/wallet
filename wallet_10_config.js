@@ -1,1 +1,1 @@
-var mnemonic = "beauty grocery between icon series capital doll endless palace gap enlist book";
+var mnemonic = "ordinary order interest trade rhythm tool aunt flock lake jaguar strong lens";

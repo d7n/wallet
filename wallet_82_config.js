@@ -1,1 +1,1 @@
-var mnemonic = "clog creek buffalo pulse crime engine connect mystery inch fossil elevator novel";
+var mnemonic = "water similar mobile cupboard begin false frog enjoy announce stage balcony hour";

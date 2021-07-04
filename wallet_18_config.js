@@ -1,1 +1,1 @@
-var mnemonic = "depth submit unfair rule despair choice palace lecture million isolate path portion";
+var mnemonic = "view sport impact common junior struggle win effort skate hip term mail";

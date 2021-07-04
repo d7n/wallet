@@ -1,1 +1,1 @@
-var mnemonic = "group access champion spend cause badge galaxy then message cash rapid pretty";
+var mnemonic = "family throw luxury mansion pilot voyage atom mask tiny general assist kitten";

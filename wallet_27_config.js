@@ -1,1 +1,1 @@
-var mnemonic = "voice claim nurse glow hire blush pistol cluster thumb sense promote across";
+var mnemonic = "carry helmet fox lend doll practice era leaf slush hazard goose lesson";

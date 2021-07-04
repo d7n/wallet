@@ -1,1 +1,1 @@
-var mnemonic = "cushion power reason obey case art zebra future project inform chaos write";
+var mnemonic = "entire crop problem water blush vocal move ripple midnight mother decrease fossil";

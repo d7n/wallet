@@ -1,1 +1,1 @@
-var mnemonic = "original profit remain dream phone style person expand address venue pistol whip";
+var mnemonic = "clean promote banana that abuse bless area dry tree cinnamon exercise exercise";

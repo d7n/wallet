@@ -1,1 +1,1 @@
-var mnemonic = "monitor okay debate much kite tank short switch goose negative inquiry tragic";
+var mnemonic = "flavor midnight door lecture rocket horror history digital pass dove flower annual";

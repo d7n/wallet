@@ -1,1 +1,1 @@
-var mnemonic = "rib second again project bleak exhaust rail net sock change rent acquire";
+var mnemonic = "answer bus mandate spread shop ski jelly fuel axis quarter surge slam";

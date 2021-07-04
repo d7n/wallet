@@ -1,1 +1,1 @@
-var mnemonic = "rail school soccer general equip figure gown dice manage pelican raccoon profit";
+var mnemonic = "reveal share nose asset fire harvest toe argue viable sound crime need";

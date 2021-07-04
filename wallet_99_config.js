@@ -1,1 +1,1 @@
-var mnemonic = "gloom vehicle young save aspect leopard process join spy link neither submit";
+var mnemonic = "call clutch where old note first laugh soft job sting fortune art";

@@ -1,1 +1,1 @@
-var mnemonic = "early color enter churn ice market middle strike gospel breeze distance advice";
+var mnemonic = "shield rude skin fancy broken race hammer ring brother concert often jump";

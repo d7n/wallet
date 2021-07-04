@@ -1,1 +1,1 @@
-var mnemonic = "elephant spray math dolphin throw obvious tenant control arrow comic ozone employ";
+var mnemonic = "art more mammal opera body beef general inherit curious walnut fall genuine";

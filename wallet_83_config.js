@@ -1,1 +1,1 @@
-var mnemonic = "tower fork sentence myself foil common stable below soap myself thumb transfer";
+var mnemonic = "solid sense fit game suggest pottery twice impact nerve elegant book local";

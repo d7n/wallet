@@ -1,1 +1,1 @@
-var mnemonic = "ability pair hospital bread pipe segment upset cage card garbage alter topple";
+var mnemonic = "mechanic forward advice wedding cup slight trend learn grid bridge account merry";

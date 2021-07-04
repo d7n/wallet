@@ -1,1 +1,1 @@
-var mnemonic = "change column transfer flip detail access lunar verb dose slight table around";
+var mnemonic = "water lava spawn wine shy space remember mass lunch desert allow trigger";

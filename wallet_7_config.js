@@ -1,1 +1,1 @@
-var mnemonic = "kid ignore park idea dynamic foil dance velvet cake time trick hero";
+var mnemonic = "doctor shed motion example distance nothing raccoon heavy crime maze melody mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "salad climb ramp candy ocean extend enable royal early decade amazing approve";
+var mnemonic = "symptom quantum select cigar quantum click evidence script pretty error chaos resource";

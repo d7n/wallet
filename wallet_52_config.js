@@ -1,1 +1,1 @@
-var mnemonic = "draw park wing ticket patient garment dirt crawl sign tribe naive april";
+var mnemonic = "exile choose gold enact point goddess exile demand half balance success tag";

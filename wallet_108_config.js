@@ -1,1 +1,1 @@
-var mnemonic = "today that illegal frown asthma right learn match weekend walk liquid genuine";
+var mnemonic = "crack height sibling milk camp chapter color govern embrace accuse hollow illness";

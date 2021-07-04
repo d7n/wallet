@@ -1,1 +1,1 @@
-var mnemonic = "wage voice poem glow smart immune mechanic fog advance disease nose midnight";
+var mnemonic = "comfort gravity candy advice hobby adapt level limit truly token false speed";

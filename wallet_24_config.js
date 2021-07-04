@@ -1,1 +1,1 @@
-var mnemonic = "guard render affair jungle equal rocket debris undo dash gift boat merit";
+var mnemonic = "learn novel avocado bunker system cash measure indicate wine build fancy require";

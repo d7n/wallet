@@ -1,1 +1,1 @@
-var mnemonic = "state adapt wrong anchor foot credit donate brisk attack ritual jazz glance";
+var mnemonic = "asset ostrich warrior victory erosion scorpion grass average panic holiday cousin hub";

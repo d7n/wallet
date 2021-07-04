@@ -1,1 +1,1 @@
-var mnemonic = "submit wish model garage truth life voyage start slam bunker ensure choice";
+var mnemonic = "review beef fame tobacco armed cook tattoo science wave pilot virus expire";

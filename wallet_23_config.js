@@ -1,1 +1,1 @@
-var mnemonic = "nurse describe clip disease pitch there faint term veteran public warm wisdom";
+var mnemonic = "logic love blossom once protect pill race nominee diamond apart swim dry";

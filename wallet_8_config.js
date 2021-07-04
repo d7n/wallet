@@ -1,1 +1,1 @@
-var mnemonic = "album manage rebuild series fork camera inside oppose science submit else prize";
+var mnemonic = "copy hand school clerk license spy ladder credit crater eager youth secret";

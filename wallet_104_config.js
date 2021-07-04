@@ -1,1 +1,1 @@
-var mnemonic = "left assault pluck main point pilot castle license gravity olympic skin rule";
+var mnemonic = "eagle divert size walk arena fat dirt tag tumble accident plate skull";

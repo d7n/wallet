@@ -1,1 +1,1 @@
-var mnemonic = "canyon vessel worth abandon sunset mixed liar noise orchard neck spoon oak";
+var mnemonic = "panic spy chief theory trap text swallow blast oyster maple odor guess";

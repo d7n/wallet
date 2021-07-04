@@ -1,1 +1,1 @@
-var mnemonic = "ocean stairs dice jealous quote such surge drum cherry december joke exist";
+var mnemonic = "cruise nothing urban trophy entire afford solution method spot menu youth draw";

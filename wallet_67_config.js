@@ -1,1 +1,1 @@
-var mnemonic = "tray myself process right edge rough plug clinic arrow cloud absent grape";
+var mnemonic = "warm corn critic clay notice color loop unique fit coral film assume";

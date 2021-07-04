@@ -1,1 +1,1 @@
-var mnemonic = "sibling double weird glass course infant leaf hold chase derive disease labor";
+var mnemonic = "few vessel wonder stock almost sing mad sample elite possible permit ill";

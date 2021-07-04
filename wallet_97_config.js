@@ -1,1 +1,1 @@
-var mnemonic = "elbow monkey tonight level round inner shop disagree morning into curious divide";
+var mnemonic = "route gravity caught rebuild kingdom turtle suit spirit coffee siege wave yellow";

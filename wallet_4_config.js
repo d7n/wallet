@@ -1,1 +1,1 @@
-var mnemonic = "garment trophy section nation monitor obtain famous usual lift foam sphere real";
+var mnemonic = "citizen flower crack gain utility retreat female skate fluid vivid raccoon expect";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer disease pond section easy breeze conduct humble want switch mail match";
+var mnemonic = "noise laptop sketch differ area now tag pioneer witness crazy yellow employ";

@@ -1,1 +1,1 @@
-var mnemonic = "sing sustain phone dish swap toilet install tunnel laugh forget topple speak";
+var mnemonic = "half judge segment claw milk oppose music hunt laugh tilt negative skirt";

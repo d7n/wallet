@@ -1,1 +1,1 @@
-var mnemonic = "whip ahead olympic carbon keen dismiss real gap limit crunch scrap panther";
+var mnemonic = "peace cushion flower episode extra voyage ahead elevator album relax place put";

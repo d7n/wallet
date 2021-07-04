@@ -1,1 +1,1 @@
-var mnemonic = "lawn notice viable orphan abuse collect inform space castle crumble dignity virtual";
+var mnemonic = "palace recipe process neutral pony ghost magnet wolf accident unit brave crane";

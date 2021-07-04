@@ -1,1 +1,1 @@
-var mnemonic = "beach torch space leopard total rescue pipe accuse trim robot record pelican";
+var mnemonic = "hub affair argue ice moment sunny endorse village comfort road opinion main";

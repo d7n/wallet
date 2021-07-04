@@ -1,1 +1,1 @@
-var mnemonic = "glory offer agree city edge zero simple bitter burst off pledge member";
+var mnemonic = "talent sudden kangaroo tunnel feel aim opera arm animal evidence can roof";

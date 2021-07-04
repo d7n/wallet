@@ -1,1 +1,1 @@
-var mnemonic = "card exist when found snake able thank provide boost logic brother metal";
+var mnemonic = "eyebrow drive scene illness evoke senior group bulb wet train hybrid midnight";

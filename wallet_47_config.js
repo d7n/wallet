@@ -1,1 +1,1 @@
-var mnemonic = "design tool fragile rifle happy people future silk kangaroo spoon balcony reveal";
+var mnemonic = "summer sight clinic picnic correct club swarm insect agree dinner day legal";
