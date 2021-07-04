@@ -1,1 +1,1 @@
-var mnemonic = "end choice hedgehog scout manage rail clay news grid appear fuel slight";
+var mnemonic = "aisle relief plate tent legal soda easily slam visa cram shock curtain";

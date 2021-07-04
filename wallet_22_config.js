@@ -1,1 +1,1 @@
-var mnemonic = "inherit when chase stand twice rhythm light trim infant aisle issue unusual";
+var mnemonic = "gate seat train siege member wreck aisle address step alert advice pitch";

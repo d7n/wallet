@@ -1,1 +1,1 @@
-var mnemonic = "proof what hub common kid verify auto rural light trip yellow key";
+var mnemonic = "edge diagram juice unfold physical never tribe ski off ticket gaze aisle";

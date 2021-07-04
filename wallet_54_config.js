@@ -1,1 +1,1 @@
-var mnemonic = "enemy turtle picture sand slide run antique decline stool hunt pipe cruise";
+var mnemonic = "giggle tide bar impulse drama crisp sing ramp edit gas canal elbow";

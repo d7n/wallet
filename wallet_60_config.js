@@ -1,1 +1,1 @@
-var mnemonic = "twin special glue cycle track angry april actor cotton across rubber practice";
+var mnemonic = "session often exotic tackle flock cruel crazy mention select oven wrong issue";

@@ -1,1 +1,1 @@
-var mnemonic = "push cabbage once evidence search error silk recycle favorite scene absurd grief";
+var mnemonic = "audit embark cheese correct change clown input pumpkin shoe hood correct parrot";

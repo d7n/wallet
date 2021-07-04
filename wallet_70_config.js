@@ -1,1 +1,1 @@
-var mnemonic = "panel blast method front farm initial scrub busy vendor image skin envelope";
+var mnemonic = "impulse like frozen crack journey drive story fever depend involve image meadow";

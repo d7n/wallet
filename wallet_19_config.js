@@ -1,1 +1,1 @@
-var mnemonic = "save snap rich razor pool subject mansion acid cube secret shiver faculty";
+var mnemonic = "prize category segment film okay century unusual multiply derive require job avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty digital false cousin decline drill today drop shoot slim onion discover";
+var mnemonic = "story girl job mention lazy table grace sense pluck similar drink tomato";

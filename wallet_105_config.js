@@ -1,1 +1,1 @@
-var mnemonic = "pulse output olympic ticket soup super offer rubber unable system address weekend";
+var mnemonic = "gate reduce swap wear harvest pipe pet derive misery opera accident fame";

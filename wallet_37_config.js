@@ -1,1 +1,1 @@
-var mnemonic = "enrich cliff lunar hazard moment mail august project area wealth any forward";
+var mnemonic = "govern lady palace various welcome bamboo artefact abstract ask candy scorpion mechanic";

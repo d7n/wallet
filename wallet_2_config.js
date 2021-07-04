@@ -1,1 +1,1 @@
-var mnemonic = "echo behave jealous strategy stock bird addict pony blame into basic patient";
+var mnemonic = "deny attend music casino stuff vendor human slow open hunt ripple exact";

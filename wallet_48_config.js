@@ -1,1 +1,1 @@
-var mnemonic = "vintage stay title inform fruit model divert forward empty priority come coral";
+var mnemonic = "height unfair unknown segment couch expand wagon behind erupt muscle discover child";

@@ -1,1 +1,1 @@
-var mnemonic = "sure east wash cram man crumble leave jar mention annual fluid warrior";
+var mnemonic = "there smile urge license box legal will grab shock style copy goddess";

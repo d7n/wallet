@@ -1,1 +1,1 @@
-var mnemonic = "call napkin suffer useful favorite honey asset scare trophy ticket cycle dinner";
+var mnemonic = "invite auction refuse drama afraid organ turkey tuna effort onion slight jeans";

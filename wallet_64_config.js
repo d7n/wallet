@@ -1,1 +1,1 @@
-var mnemonic = "smile curtain praise canvas gold ready usual mandate pencil try abstract husband";
+var mnemonic = "expect silent jar ready audit mutual unusual ivory notice neglect sun what";

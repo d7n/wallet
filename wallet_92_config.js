@@ -1,1 +1,1 @@
-var mnemonic = "drama wheel armor awake math pencil script spell resemble brain pass laugh";
+var mnemonic = "father fire artist plug asthma obtain anger naive they rose gorilla myth";

@@ -1,1 +1,1 @@
-var mnemonic = "parent true animal corn mistake power bargain clean quick friend treat wagon";
+var mnemonic = "ski tool mushroom water reform parrot island nephew quarter south isolate tuition";

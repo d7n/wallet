@@ -1,1 +1,1 @@
-var mnemonic = "rally rice bless print home click divert common involve street grass oppose";
+var mnemonic = "roast bridge arrest team inner deposit fork evolve maid winter very yellow";

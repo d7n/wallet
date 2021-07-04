@@ -1,1 +1,1 @@
-var mnemonic = "cousin version already level dinner vapor vessel together true soft must bulb";
+var mnemonic = "faculty ahead raccoon weather cake cushion pet sword leader episode reject stamp";

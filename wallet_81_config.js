@@ -1,1 +1,1 @@
-var mnemonic = "artwork entry tomorrow coast empower before use taxi mistake gadget lake maple";
+var mnemonic = "soldier rug accuse able soul tape bleak roof best during amused royal";

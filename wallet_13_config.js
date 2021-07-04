@@ -1,1 +1,1 @@
-var mnemonic = "aerobic reform blood say staff top picnic magic use day alien depart";
+var mnemonic = "better insect hurt sleep online chat sweet phrase calm endless ask lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "next between perfect trash old crew enhance glass extra cage robot angle";
+var mnemonic = "car excess seven panel dose metal begin hedgehog leader rain cheap orchard";

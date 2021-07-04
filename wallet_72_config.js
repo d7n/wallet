@@ -1,1 +1,1 @@
-var mnemonic = "frequent caught innocent mechanic term police oak assist jaguar industry fly protect";
+var mnemonic = "day equip explain music home blossom receive depth box priority income vast";

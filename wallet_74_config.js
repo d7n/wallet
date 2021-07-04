@@ -1,1 +1,1 @@
-var mnemonic = "emotion label find polar album fine dice relief menu nominee ring exit";
+var mnemonic = "mix couch online clock exist husband onion swing table thrive caught kitchen";

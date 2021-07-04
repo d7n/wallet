@@ -1,1 +1,1 @@
-var mnemonic = "index taxi disagree torch sick moral earth echo evil funny work fee";
+var mnemonic = "rule once latin casino castle wasp notice honey add shiver noble spin";

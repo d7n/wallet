@@ -1,1 +1,1 @@
-var mnemonic = "model dress borrow foot material baby success rule display print blade tragic";
+var mnemonic = "skill carpet shrimp lemon captain host health electric method design gift label";

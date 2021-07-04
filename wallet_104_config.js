@@ -1,1 +1,1 @@
-var mnemonic = "embark pizza school enemy script impulse vanish polar scene blue water man";
+var mnemonic = "life joke crouch trend medal interest extend screen night corn truck pave";

@@ -1,1 +1,1 @@
-var mnemonic = "elite submit indicate urge aerobic auction mobile siege family deposit snap afford";
+var mnemonic = "discover churn recycle satisfy bright bridge empower salute seminar dumb edit sadness";

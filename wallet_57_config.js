@@ -1,1 +1,1 @@
-var mnemonic = "regret wrestle limit fragile foil venture deputy industry icon stock impact tragic";
+var mnemonic = "bleak envelope boil develop guitar diesel equal shy more hurt range antenna";

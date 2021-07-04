@@ -1,1 +1,1 @@
-var mnemonic = "trap dance today arch truck clown recall dune front cave today onion";
+var mnemonic = "delay unlock exotic ladder member school survey credit hover virus bench marble";

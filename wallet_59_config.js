@@ -1,1 +1,1 @@
-var mnemonic = "train define tail warrior modify clap nothing diary melody bulk wagon win";
+var mnemonic = "climb ugly harbor speed energy fish drive tank special helmet enroll tube";

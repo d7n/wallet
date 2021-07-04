@@ -1,1 +1,1 @@
-var mnemonic = "all pave scan mouse fix mix cave bamboo song market dream certain";
+var mnemonic = "crush rabbit priority doctor oxygen flavor whale material surface cloth slush release";

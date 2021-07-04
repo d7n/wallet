@@ -1,1 +1,1 @@
-var mnemonic = "kid tomorrow lift sample syrup bring route wood clock resource render mind";
+var mnemonic = "umbrella cool birth obtain devote cover toward citizen lobster royal elite type";

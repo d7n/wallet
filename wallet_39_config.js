@@ -1,1 +1,1 @@
-var mnemonic = "soap lamp suspect pretty metal mouse pupil helmet goddess mix badge season";
+var mnemonic = "smile bleak excite hand diagram furnace eye spice diet parrot check idea";

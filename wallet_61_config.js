@@ -1,1 +1,1 @@
-var mnemonic = "crime abandon pudding talk intact foster leg club broken scan ribbon magnet";
+var mnemonic = "tail foam relax auction sport outdoor ghost leave abstract manage pink magnet";

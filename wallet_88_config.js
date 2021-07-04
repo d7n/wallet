@@ -1,1 +1,1 @@
-var mnemonic = "genre vicious abuse hundred tape meadow mirror spike cradle unfold boost estate";
+var mnemonic = "table member give symbol close zoo invite noodle trim cream coral patrol";

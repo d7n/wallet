@@ -1,1 +1,1 @@
-var mnemonic = "actor pledge host circle beach interest slow poet crouch music success milk";
+var mnemonic = "venue cat magic federal plastic ritual claim maple bottom stick more garage";

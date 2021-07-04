@@ -1,1 +1,1 @@
-var mnemonic = "try sort soda ball pipe winner biology expand crucial ring vacant ticket";
+var mnemonic = "amazing fresh guide pulse snack melody trust text earth online clerk favorite";

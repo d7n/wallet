@@ -1,1 +1,1 @@
-var mnemonic = "across degree record trade sunny sorry brand iron hello main trigger penalty";
+var mnemonic = "all stay crowd tomorrow whale pair manage physical good squirrel when jealous";

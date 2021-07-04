@@ -1,1 +1,1 @@
-var mnemonic = "gold drill empower prison visual define art start fabric snap capital sunny";
+var mnemonic = "calm remove abuse rookie flee cabbage slim actor latin punch broccoli medal";

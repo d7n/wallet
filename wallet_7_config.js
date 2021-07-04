@@ -1,1 +1,1 @@
-var mnemonic = "cream drive favorite search ecology ill luggage kangaroo brand practice theory tower";
+var mnemonic = "amount damp before supreme claw country elder feature casual chimney angle recall";

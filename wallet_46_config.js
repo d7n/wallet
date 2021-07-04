@@ -1,1 +1,1 @@
-var mnemonic = "rally sheriff monitor desk logic crumble sing depart surge pilot sweet aim";
+var mnemonic = "beef garbage debris rough general envelope click happy cause curve nest health";

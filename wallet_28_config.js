@@ -1,1 +1,1 @@
-var mnemonic = "certain ahead tomorrow avocado music make loyal immune help pond chase object";
+var mnemonic = "morning plate risk shaft sauce differ addict entry trigger purpose own bachelor";

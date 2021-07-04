@@ -1,1 +1,1 @@
-var mnemonic = "label dice mirror neither maze anxiety evolve top charge digital column club";
+var mnemonic = "sauce swap fiscal blur meadow afford page decline long fish zone combine";

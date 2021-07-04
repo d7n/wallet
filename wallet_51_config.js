@@ -1,1 +1,1 @@
-var mnemonic = "daring vapor antique seed network aware eight border giraffe lobster auction accident";
+var mnemonic = "sword sail antenna essay spatial owner celery buddy math mixed place party";

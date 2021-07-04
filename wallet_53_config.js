@@ -1,1 +1,1 @@
-var mnemonic = "orchard timber ten original harsh keep oblige urge net fan letter eye";
+var mnemonic = "mushroom joke civil buyer confirm essay image settle acquire blue powder tent";

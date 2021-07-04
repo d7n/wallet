@@ -1,1 +1,1 @@
-var mnemonic = "orient final odor school guitar pretty expire open little found elephant inner";
+var mnemonic = "space onion stadium endless answer teach among addict nose unit off glide";

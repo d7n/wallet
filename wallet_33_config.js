@@ -1,1 +1,1 @@
-var mnemonic = "category add range final palm below scorpion payment coffee urban track road";
+var mnemonic = "tackle sing swarm achieve sick awful ticket usage silk weapon fix execute";

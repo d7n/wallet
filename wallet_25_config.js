@@ -1,1 +1,1 @@
-var mnemonic = "seat dutch fee unable cute timber borrow glimpse farm page enjoy wreck";
+var mnemonic = "wheat pave price help stomach first issue shoot erode aspect clay rigid";

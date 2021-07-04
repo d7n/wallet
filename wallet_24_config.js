@@ -1,1 +1,1 @@
-var mnemonic = "gesture six ankle similar dilemma million blanket entry sorry clap vehicle long";
+var mnemonic = "few wish buzz toe alley sand profit defy list salon point rhythm";

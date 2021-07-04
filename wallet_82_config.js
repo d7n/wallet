@@ -1,1 +1,1 @@
-var mnemonic = "spice rice struggle step diagram grass glass tonight want grain collect update";
+var mnemonic = "beyond minimum tail oven sorry butter salute mountain security borrow public wasp";

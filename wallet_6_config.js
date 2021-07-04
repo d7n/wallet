@@ -1,1 +1,1 @@
-var mnemonic = "trade enrich people afford blood motor science butter bracket doll open pioneer";
+var mnemonic = "drive notable discover woman ask scissors scrub spin inject again now stamp";

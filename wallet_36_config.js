@@ -1,1 +1,1 @@
-var mnemonic = "solve toast coffee head jeans violin record popular average follow output cancel";
+var mnemonic = "miss stable country jungle subway middle wasp erosion list mix slush winter";

@@ -1,1 +1,1 @@
-var mnemonic = "idle jungle tenant pitch spy foot health noise coach pet dentist split";
+var mnemonic = "club reason finish trick quit razor outer this deputy better trap gain";

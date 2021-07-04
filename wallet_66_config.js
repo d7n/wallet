@@ -1,1 +1,1 @@
-var mnemonic = "dry rapid slogan lumber cute wage all fault cousin true shell castle";
+var mnemonic = "chimney turtle risk light lab key talent jar test estate during kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "apart strong aim luggage fiction medal sail dune garlic media embark snack";
+var mnemonic = "art vintage gym mutual scout helmet tunnel pride wheat service board gloom";

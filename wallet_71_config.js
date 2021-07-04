@@ -1,1 +1,1 @@
-var mnemonic = "during minimum cereal toward hidden asset enrich earn theme burst tattoo near";
+var mnemonic = "weather usage joy bundle equal vanish mule stove sister similar seek dust";

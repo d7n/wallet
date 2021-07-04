@@ -1,1 +1,1 @@
-var mnemonic = "zoo joke episode oven hold rebuild impact column clarify parade where predict";
+var mnemonic = "badge damage slight diary share broccoli miss grass short ranch identify guilt";

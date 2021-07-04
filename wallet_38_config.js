@@ -1,1 +1,1 @@
-var mnemonic = "swift mosquito scene matrix head test liquid color island arrive clever letter";
+var mnemonic = "gym burden wreck access depart promote cabin speak enact image spice gasp";

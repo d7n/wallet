@@ -1,1 +1,1 @@
-var mnemonic = "knee palm humor bonus divert few fade labor wood differ include upper";
+var mnemonic = "fortune soccer omit loan reflect acquire normal seek library code vehicle today";

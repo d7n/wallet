@@ -1,1 +1,1 @@
-var mnemonic = "jar multiply grain enable jelly loyal buyer magic manual wise wheel park";
+var mnemonic = "regret snake maid age reveal pony ball hand skull palm cheap close";

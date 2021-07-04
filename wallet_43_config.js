@@ -1,1 +1,1 @@
-var mnemonic = "faculty bulk wrist bamboo angry odor toast carry garage cup page derive";
+var mnemonic = "ahead barely people staff leisure hybrid fossil silly limb love kidney frame";

@@ -1,1 +1,1 @@
-var mnemonic = "bird assist faculty coach affair comfort rabbit foot obtain jaguar wealth balcony";
+var mnemonic = "luggage dune gun kind measure melt cloud odor private warfare program brave";

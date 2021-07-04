@@ -1,1 +1,1 @@
-var mnemonic = "box picnic unaware hover face undo hold almost spot sentence chat ceiling";
+var mnemonic = "govern simple jungle slam pretty celery arrest document custom genre ball nominee";

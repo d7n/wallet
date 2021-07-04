@@ -1,1 +1,1 @@
-var mnemonic = "book furnace speed wait tomorrow danger lemon boil kit space evoke snap";
+var mnemonic = "empower sure tooth scheme sausage problem swamp rival invite strike candy wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "power chuckle jaguar humble exercise start vocal wish ecology pyramid proud monitor";
+var mnemonic = "place tray cotton know fury cricket box orient erode agent notice problem";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble rack slogan often aim genuine much gift vocal track story dad";
+var mnemonic = "frequent execute replace lion suspect scrap cause repair spray crane capital legal";

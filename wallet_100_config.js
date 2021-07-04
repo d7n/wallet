@@ -1,1 +1,1 @@
-var mnemonic = "surround ozone reduce live upon unfold joke deer lazy sure violin awake";
+var mnemonic = "stage vote prefer legal awake puzzle mention useful extend mask educate caution";

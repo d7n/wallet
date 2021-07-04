@@ -1,1 +1,1 @@
-var mnemonic = "pyramid prepare total human actual neglect student sphere choice figure strategy daughter";
+var mnemonic = "high give autumn soul sense animal fog reject car fence couch seven";

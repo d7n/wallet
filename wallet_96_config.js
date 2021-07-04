@@ -1,1 +1,1 @@
-var mnemonic = "organ urban helmet rate usage emerge bounce village apart journey negative target";
+var mnemonic = "ancient that crew tourist squirrel tobacco live oval mixed pig girl across";

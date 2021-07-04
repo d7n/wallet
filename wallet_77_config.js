@@ -1,1 +1,1 @@
-var mnemonic = "napkin canal sell void mobile coconut fork august radar arctic dwarf odor";
+var mnemonic = "exercise pet wool virtual become awful car cream icon ancient believe regret";

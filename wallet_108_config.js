@@ -1,1 +1,1 @@
-var mnemonic = "mistake usual crowd never public vocal riot gate divorce broken arrange rebel";
+var mnemonic = "only already belt eye make inspire ladder curve shoulder worth always return";

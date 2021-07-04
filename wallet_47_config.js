@@ -1,1 +1,1 @@
-var mnemonic = "slush text spike float gap become cry nice tell view fitness ball";
+var mnemonic = "firm such wool small rabbit choice dune open student razor survey exclude";

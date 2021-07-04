@@ -1,1 +1,1 @@
-var mnemonic = "solid image canal friend inmate over canoe tent reason quote coffee wool";
+var mnemonic = "lecture body sister cricket assume kangaroo picnic pear cup inquiry impose attend";

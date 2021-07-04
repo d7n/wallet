@@ -1,1 +1,1 @@
-var mnemonic = "dragon junior advice timber nation general cattle wise morning tube hen choice";
+var mnemonic = "wild among huge wrist consider arrow control side lucky brisk elegant common";

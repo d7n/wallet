@@ -1,1 +1,1 @@
-var mnemonic = "panic oyster episode peasant slogan volcano oppose hazard evolve elite lunar direct";
+var mnemonic = "critic boy battle virtual grit solve flag glue machine lunar loud replace";

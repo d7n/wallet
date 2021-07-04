@@ -1,1 +1,1 @@
-var mnemonic = "tent chief milk nose cram cover adjust supreme field puzzle result into";
+var mnemonic = "sad teach punch language wish diamond pause peasant enter retreat crack then";

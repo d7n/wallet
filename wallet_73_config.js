@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit text release soon music wedding raven exile dilemma equal divert jealous";
+var mnemonic = "sauce volcano kite student arctic trap reason purity chef slim vehicle pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "fall supreme region april feed switch uncover fatal cup october hospital filter";
+var mnemonic = "maple uncover train frog heavy sauce copper jealous company able metal such";

@@ -1,1 +1,1 @@
-var mnemonic = "sword vapor erase language mind legal wrong excuse vapor cause blanket palm";
+var mnemonic = "finish illegal ankle always attack hungry unique decrease noise cruise now charge";

@@ -1,1 +1,1 @@
-var mnemonic = "virus valid patrol custom body river adjust educate narrow upper confirm before";
+var mnemonic = "rocket furnace advance unveil aspect unique call circle bundle athlete main build";

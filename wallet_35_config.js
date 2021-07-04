@@ -1,1 +1,1 @@
-var mnemonic = "teach wise wrist weather favorite panda honey join fashion nature dress awful";
+var mnemonic = "visual wheel flag smart horn valve simple donor access steel arrow limit";

@@ -1,1 +1,1 @@
-var mnemonic = "more electric clog prevent crazy update element slab rather omit seminar salute";
+var mnemonic = "exclude dwarf young six harsh rural clown joy violin huge stuff endorse";

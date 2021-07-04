@@ -1,1 +1,1 @@
-var mnemonic = "differ garment peanut purchase scout capable matter material jeans replace wife work";
+var mnemonic = "surface rocket gentle snow destroy spider super gauge welcome range benefit scrub";

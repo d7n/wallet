@@ -1,1 +1,1 @@
-var mnemonic = "chuckle equip maze salute impulse turtle range blanket bracket letter loud dragon";
+var mnemonic = "other click fruit split valid race there family online cannon kiss math";

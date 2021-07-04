@@ -1,1 +1,1 @@
-var mnemonic = "garage moment copy wheat mushroom poem until filter half detect recall notice";
+var mnemonic = "exile vehicle repair include faculty reveal good around dial buddy twenty secret";

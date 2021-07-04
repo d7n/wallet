@@ -1,1 +1,1 @@
-var mnemonic = "castle ring planet decrease tuition panel december only purity cart deer enjoy";
+var mnemonic = "stick give oblige census oak scatter tomato choice either blur flavor resource";

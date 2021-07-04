@@ -1,1 +1,1 @@
-var mnemonic = "lion huge capable list child manual task deny parade echo sadness blame";
+var mnemonic = "giraffe riot depend bonus wing bread item shine valve permit change remain";
