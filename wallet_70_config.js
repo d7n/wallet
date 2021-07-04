@@ -1,1 +1,1 @@
-var mnemonic = "repair frozen blue orange defy series effort detect tennis rail sound barely";
+var mnemonic = "december angle unfair jump local expose gather monkey process other december benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "design fatal clay post meat best cash actual tourist reunion pear era";
+var mnemonic = "way pride property amazing school that skull settle puzzle potato half board";

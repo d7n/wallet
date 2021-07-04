@@ -1,1 +1,1 @@
-var mnemonic = "display animal either bleak coyote wagon gospel pen physical trial grass select";
+var mnemonic = "permit judge mercy banana donor picture insect gaze wide crop whale actress";

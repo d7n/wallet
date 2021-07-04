@@ -1,1 +1,1 @@
-var mnemonic = "deputy crop shy cool net pudding estate water pass reform oil reason";
+var mnemonic = "barely sort reform myth staff spatial region enter fortune glide calm supreme";

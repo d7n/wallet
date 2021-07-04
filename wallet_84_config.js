@@ -1,1 +1,1 @@
-var mnemonic = "grit essence way outside metal ugly then labor people buffalo edit deer";
+var mnemonic = "earth warm cabin tube adjust surround sweet food when census memory birth";

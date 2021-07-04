@@ -1,1 +1,1 @@
-var mnemonic = "wise armor student scare august similar skirt execute glance elder slender check";
+var mnemonic = "avocado vessel hammer ceiling stand order light analyst network nothing huge vivid";

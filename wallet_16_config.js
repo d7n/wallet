@@ -1,1 +1,1 @@
-var mnemonic = "display shuffle bomb song mom carbon buddy special blur latin planet fragile";
+var mnemonic = "pepper swear gaze early loan impact shrimp diet mask moral enlist raise";

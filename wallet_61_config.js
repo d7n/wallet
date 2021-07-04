@@ -1,1 +1,1 @@
-var mnemonic = "photo clap art renew situate either earn truth cube absurd sponsor chaos";
+var mnemonic = "direct half charge chair struggle curious teach frequent pelican student pottery leave";

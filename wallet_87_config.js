@@ -1,1 +1,1 @@
-var mnemonic = "hold foot taste polar bless express enable inner meadow drama tree middle";
+var mnemonic = "tail thunder assist film gloom home diesel alcohol gravity sign gloom enlist";

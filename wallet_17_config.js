@@ -1,1 +1,1 @@
-var mnemonic = "demand crumble abstract shrug attitude rack hope green multiply muffin picture sense";
+var mnemonic = "grass okay rapid lava liar seek trip cable forum stem gate desk";

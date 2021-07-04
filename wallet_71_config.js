@@ -1,1 +1,1 @@
-var mnemonic = "consider desk space snack unique enhance spoil town soccer mobile chicken way";
+var mnemonic = "trigger disease purpose street first boy scan neutral short claw asset orbit";

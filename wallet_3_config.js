@@ -1,1 +1,1 @@
-var mnemonic = "method donor another pioneer firm filter solution practice luggage home stomach civil";
+var mnemonic = "sniff usual debate injury edge penalty mention bunker bag stay occur pact";

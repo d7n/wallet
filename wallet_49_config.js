@@ -1,1 +1,1 @@
-var mnemonic = "speed fit same rebel satisfy jelly okay culture brain wet estate ceiling";
+var mnemonic = "mechanic rocket federal umbrella gun village rocket hunt blast win remain welcome";

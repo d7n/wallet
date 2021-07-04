@@ -1,1 +1,1 @@
-var mnemonic = "frame cabin plate doctor solution friend major cinnamon ritual panda peanut arch";
+var mnemonic = "taxi concert crime scout memory screen away barrel task asthma kite park";

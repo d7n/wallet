@@ -1,1 +1,1 @@
-var mnemonic = "exhibit need deposit achieve iron rich fork play want curtain rack chicken";
+var mnemonic = "antenna minor evoke charge usual decline reform glove defense web language depart";

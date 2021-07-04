@@ -1,1 +1,1 @@
-var mnemonic = "device devote course episode february narrow weapon reunion polar river bomb lawsuit";
+var mnemonic = "topic utility manage pact very use humor oak only clap brisk cram";

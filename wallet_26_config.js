@@ -1,1 +1,1 @@
-var mnemonic = "sword clump banana garment kind arena regret burden ice aerobic example issue";
+var mnemonic = "enjoy rail vital what water depart aisle scatter segment mind response ship";

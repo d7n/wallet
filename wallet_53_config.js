@@ -1,1 +1,1 @@
-var mnemonic = "keep funny cushion wife advice assault child apology mercy pupil gossip convince";
+var mnemonic = "prize potato deliver rain flee whisper caught pizza plate trap just horse";

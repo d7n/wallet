@@ -1,1 +1,1 @@
-var mnemonic = "country sweet rug elder easy start urban couch kangaroo flash today antique";
+var mnemonic = "acoustic slight dirt enough few include reveal people agent anxiety elevator advance";

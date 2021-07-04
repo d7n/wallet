@@ -1,1 +1,1 @@
-var mnemonic = "casino hawk police swing pledge stem olive onion lava toddler excuse clever";
+var mnemonic = "glimpse predict dish steel poet involve alley strategy interest broom alien regret";

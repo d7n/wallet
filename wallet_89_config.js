@@ -1,1 +1,1 @@
-var mnemonic = "trash lecture coffee general frost flame note rally fly gospel crucial diamond";
+var mnemonic = "evidence gap chest witness attend ensure beef you view object obscure giant";

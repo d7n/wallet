@@ -1,1 +1,1 @@
-var mnemonic = "patient attract proof coconut egg tip size south shock tiny witness mind";
+var mnemonic = "twenty bar distance pistol amused honey metal emotion shoot lens front plate";

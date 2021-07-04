@@ -1,1 +1,1 @@
-var mnemonic = "trust weird yard wisdom slogan able wolf usual title exhaust pudding uphold";
+var mnemonic = "potato direct scrap attitude else trophy friend define glare gown banana maid";

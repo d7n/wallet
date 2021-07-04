@@ -1,1 +1,1 @@
-var mnemonic = "dizzy muscle define flavor almost suspect bid trick soccer ribbon sustain quiz";
+var mnemonic = "early crater fat trumpet vast century capital rifle sand toward portion flat";

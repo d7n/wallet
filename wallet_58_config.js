@@ -1,1 +1,1 @@
-var mnemonic = "edge gaze copy embark boring destroy quit soldier gauge order total property";
+var mnemonic = "column apart bridge sunny phone volcano novel evolve valley round skin stem";

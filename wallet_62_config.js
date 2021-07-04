@@ -1,1 +1,1 @@
-var mnemonic = "auto heart thunder just humor runway denial dash dizzy wrestle eye erase";
+var mnemonic = "foam salt they concert garment demand toilet whale gap trust churn endless";

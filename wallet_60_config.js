@@ -1,1 +1,1 @@
-var mnemonic = "word giggle border episode such habit vault aspect party render rough pulp";
+var mnemonic = "level vendor actual result require stadium layer square input diamond antenna dumb";

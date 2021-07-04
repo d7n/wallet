@@ -1,1 +1,1 @@
-var mnemonic = "rabbit champion canyon flock dirt yard stone merge topple surge test monster";
+var mnemonic = "lobster dinosaur square camp actor oyster quarter alert police suffer sport emerge";

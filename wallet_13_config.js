@@ -1,1 +1,1 @@
-var mnemonic = "direct fix odor spin spatial buffalo country portion scatter nephew luggage mechanic";
+var mnemonic = "pipe direct trumpet comic life bring apology harsh deal inherit flavor cube";

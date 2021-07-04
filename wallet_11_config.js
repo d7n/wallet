@@ -1,1 +1,1 @@
-var mnemonic = "chat item current depth uniform stairs zebra unique bulk surge much estate";
+var mnemonic = "uncover dog shaft wash actual slender text minimum afford frog peanut sauce";

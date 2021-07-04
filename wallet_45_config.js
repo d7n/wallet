@@ -1,1 +1,1 @@
-var mnemonic = "town cable throw bargain bike below behave since street slab visa bullet";
+var mnemonic = "goose pact legal drip knife clerk wrong sweet produce bounce capable prize";

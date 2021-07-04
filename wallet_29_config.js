@@ -1,1 +1,1 @@
-var mnemonic = "grid actual clay design orphan series space faint pill genuine crack bachelor";
+var mnemonic = "grit insane inherit huge morning tent axis olympic target magic autumn envelope";

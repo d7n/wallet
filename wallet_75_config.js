@@ -1,1 +1,1 @@
-var mnemonic = "peanut giant nominee scorpion daring say throw magnet wash stick easily window";
+var mnemonic = "stomach siege fence sample uncle gospel earn sadness crash quarter you august";

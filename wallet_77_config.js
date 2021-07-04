@@ -1,1 +1,1 @@
-var mnemonic = "wing course boil ridge rose damp armor tooth merge call hungry assault";
+var mnemonic = "rent visit fame zebra body edge space script embrace sight squirrel margin";

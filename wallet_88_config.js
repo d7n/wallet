@@ -1,1 +1,1 @@
-var mnemonic = "history hub language wall brain jump bounce gift robust indicate wolf waste";
+var mnemonic = "dove because category else resist curve add gloom habit episode unique mistake";

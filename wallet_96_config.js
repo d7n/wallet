@@ -1,1 +1,1 @@
-var mnemonic = "rigid logic wage worry fiber summer approve tragic sunset stumble hotel situate";
+var mnemonic = "harbor dog detail reveal skate inherit penalty slow hip pave cry purchase";

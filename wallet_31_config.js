@@ -1,1 +1,1 @@
-var mnemonic = "wreck regret enough waste orchard duty step bar giraffe artwork render notable";
+var mnemonic = "boat animal hundred inhale erase naive neck muscle what glory guide duck";

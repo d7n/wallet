@@ -1,1 +1,1 @@
-var mnemonic = "spike mind leisure tuition dentist drop drill rule cheap cool alcohol series";
+var mnemonic = "morning orchard say aerobic gloom bright near laundry potato dilemma raven repair";

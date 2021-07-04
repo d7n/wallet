@@ -1,1 +1,1 @@
-var mnemonic = "company indicate they group tunnel lemon head select squirrel accuse assault submit";
+var mnemonic = "minimum pass pass ginger ahead enjoy tide pill trophy miss pony arm";

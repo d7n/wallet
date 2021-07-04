@@ -1,1 +1,1 @@
-var mnemonic = "liberty lend high chest beyond drill ginger jeans purity shaft damp leader";
+var mnemonic = "blanket sock abuse soap carbon trip elegant ankle wrestle donkey ethics clutch";

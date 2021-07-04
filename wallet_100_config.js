@@ -1,1 +1,1 @@
-var mnemonic = "year army swear snake brush ramp hero vote embark detail faint crack";
+var mnemonic = "diagram club kick shy stage cherry strong unfold bottom key theory tongue";

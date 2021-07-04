@@ -1,1 +1,1 @@
-var mnemonic = "oxygen cousin gift young true item rhythm average brass range priority derive";
+var mnemonic = "pluck oxygen neck globe toast shoot clog disagree envelope warm real word";

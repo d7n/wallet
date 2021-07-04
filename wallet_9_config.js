@@ -1,1 +1,1 @@
-var mnemonic = "clarify unlock flip mimic upper ready unusual submit silk track humor fan";
+var mnemonic = "receive romance hidden betray urge march visit left version patrol razor erupt";

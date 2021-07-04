@@ -1,1 +1,1 @@
-var mnemonic = "almost suffer emerge harbor dad require kid puppy slender unfair arrow picture";
+var mnemonic = "describe cool maze icon goat cattle heavy wink dress list one indicate";

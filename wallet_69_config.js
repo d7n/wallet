@@ -1,1 +1,1 @@
-var mnemonic = "fortune strong hole village alarm language antique mix blush spike coin deny";
+var mnemonic = "stool resemble tiny pet alert enforce color fork sleep host inquiry rice";

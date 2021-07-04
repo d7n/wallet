@@ -1,1 +1,1 @@
-var mnemonic = "slab glass devote toast glare swap anxiety sponsor place chicken ketchup pool";
+var mnemonic = "rich slender chaos unit trigger excite victory soap worry parade leader museum";

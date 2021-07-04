@@ -1,1 +1,1 @@
-var mnemonic = "verb frost soda list soft mix opinion voyage coin require fly credit";
+var mnemonic = "sick claw brother sand forum rotate balance camera circle adult garlic then";

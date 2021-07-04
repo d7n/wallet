@@ -1,1 +1,1 @@
-var mnemonic = "ball tennis result adjust toy cannon surge destroy grain shrimp repeat enroll";
+var mnemonic = "fence sing control wet open annual chronic casual nuclear useful emerge afraid";

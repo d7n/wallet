@@ -1,1 +1,1 @@
-var mnemonic = "enable edge inherit rough enforce tool copy office lecture polar impact night";
+var mnemonic = "among comic cram caution either leaf flip uncle mass vague swift public";

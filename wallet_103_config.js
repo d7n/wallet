@@ -1,1 +1,1 @@
-var mnemonic = "warrior wish opera age cannon near resist math rigid bachelor guitar tiger";
+var mnemonic = "grain dentist letter average bargain forest rate zebra finish draw access birth";

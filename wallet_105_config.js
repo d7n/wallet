@@ -1,1 +1,1 @@
-var mnemonic = "track tuna august inspire narrow fuel sibling heart bamboo rocket segment require";
+var mnemonic = "trick salmon mother humor electric mouse argue ball salad magnet people example";

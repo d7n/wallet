@@ -1,1 +1,1 @@
-var mnemonic = "fancy help pupil comfort lonely force jelly obvious myself furnace congress join";
+var mnemonic = "choice space goat guess ring such field luggage region lift aerobic comfort";

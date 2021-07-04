@@ -1,1 +1,1 @@
-var mnemonic = "always person wrap south sad ribbon chef next couple accident lawsuit resemble";
+var mnemonic = "bulb churn various bag screen alley shop bring matter grief iron keep";

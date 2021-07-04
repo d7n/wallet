@@ -1,1 +1,1 @@
-var mnemonic = "grid century naive file despair eight anxiety ozone entry decide edit bounce";
+var mnemonic = "bird process sort chest mountain kid expire robust pattern live left extra";

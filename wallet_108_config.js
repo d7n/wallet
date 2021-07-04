@@ -1,1 +1,1 @@
-var mnemonic = "coffee wheat hurry fish segment nurse bulb opinion unable clap debate basket";
+var mnemonic = "option art sort all hair october depart blame scrap link ladder drum";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot scrub chair online mosquito much area expire fever degree vicious weasel";
+var mnemonic = "blush artist hole speed ozone wage absurd lonely huge ankle ice sketch";

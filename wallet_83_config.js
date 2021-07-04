@@ -1,1 +1,1 @@
-var mnemonic = "position force desert mandate argue stand jeans dress merry magic stairs foot";
+var mnemonic = "tobacco pretty friend acoustic awful upon draft seed lend mountain slab nature";

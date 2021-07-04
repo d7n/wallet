@@ -1,1 +1,1 @@
-var mnemonic = "bubble toward ski fame lyrics start ethics ankle deliver squeeze hamster wonder";
+var mnemonic = "cancel coach satisfy boy endless cute pioneer comic hockey curious dwarf lamp";

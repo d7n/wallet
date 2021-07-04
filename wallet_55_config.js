@@ -1,1 +1,1 @@
-var mnemonic = "rival excite frog tired exercise naive soap diamond mail hazard unable safe";
+var mnemonic = "fantasy lumber bullet style safe upset retire fuel casual mechanic spend filter";

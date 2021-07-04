@@ -1,1 +1,1 @@
-var mnemonic = "arrest spray drill airport rookie pottery vote supply bone cement club north";
+var mnemonic = "oblige oppose ozone prevent silly evolve coconut laugh clean top expose chronic";

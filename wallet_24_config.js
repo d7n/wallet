@@ -1,1 +1,1 @@
-var mnemonic = "key gather eye armed clown zero update control like clarify during fatal";
+var mnemonic = "pool subject pear frown promote donkey panther cradle guitar check tip pigeon";

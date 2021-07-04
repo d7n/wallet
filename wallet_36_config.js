@@ -1,1 +1,1 @@
-var mnemonic = "resource someone height broom float mechanic romance lab mom canyon zero heavy";
+var mnemonic = "trouble destroy electric surround fatal define elder bonus success throw ugly gown";

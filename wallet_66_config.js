@@ -1,1 +1,1 @@
-var mnemonic = "victory chunk erosion expand ring hawk trial dwarf obtain turkey trim blush";
+var mnemonic = "bubble immense buzz excess grow rug worry story betray gauge frown better";

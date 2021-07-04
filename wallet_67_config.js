@@ -1,1 +1,1 @@
-var mnemonic = "elegant staff rose mass crew desk void zone guilt jealous harbor nose";
+var mnemonic = "stumble cherry safe grow atom obscure biology busy tape laundry hole question";

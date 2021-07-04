@@ -1,1 +1,1 @@
-var mnemonic = "wise junior tumble scrap distance daring water coyote renew glare genre avocado";
+var mnemonic = "foil weird bridge provide easily spare again gesture august warrior brave lesson";

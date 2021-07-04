@@ -1,1 +1,1 @@
-var mnemonic = "plug chief age often skate dress phone tent thought crumble opinion casual";
+var mnemonic = "zero cupboard lunar day noble gift bright pilot broken file time village";

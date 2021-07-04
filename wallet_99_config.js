@@ -1,1 +1,1 @@
-var mnemonic = "other busy glory pride target tool bamboo project concert shoulder enjoy trust";
+var mnemonic = "sunny axis excite glance height slice cycle dice genuine guard expect cement";

@@ -1,1 +1,1 @@
-var mnemonic = "need license boat slogan drive mountain avoid series book beach screen hip";
+var mnemonic = "secret portion pretty century range fog wife ladder electric item dice faculty";

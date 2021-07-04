@@ -1,1 +1,1 @@
-var mnemonic = "defy state try pink length slight puzzle march fantasy never rapid consider";
+var mnemonic = "flat object skill orange private during rich avoid boat ball ticket input";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral urge oak wolf win aim rare door core help word type";
+var mnemonic = "joy wire flower bronze cloth rural nerve tube suspect elder tower stuff";

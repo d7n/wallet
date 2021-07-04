@@ -1,1 +1,1 @@
-var mnemonic = "raise heart biology imitate below ramp inhale verb save hair educate push";
+var mnemonic = "churn bring industry list rural tone solid stamp hamster chalk infant kick";

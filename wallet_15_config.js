@@ -1,1 +1,1 @@
-var mnemonic = "comic goddess lion topple slogan because cycle pair riot desk lock charge";
+var mnemonic = "jacket gift giggle topic dinosaur club timber brother group juice shrug ketchup";

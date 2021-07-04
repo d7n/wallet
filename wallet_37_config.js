@@ -1,1 +1,1 @@
-var mnemonic = "assault circle similar enforce police dish boy idea cloth embrace ranch aim";
+var mnemonic = "sheriff rug logic behind crash derive alarm famous analyst arena protect deposit";

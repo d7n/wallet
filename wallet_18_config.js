@@ -1,1 +1,1 @@
-var mnemonic = "heart insane shell safe sand junk toilet pistol dance deny exercise girl";
+var mnemonic = "lyrics salmon confirm sound music problem today fee ride divert window normal";

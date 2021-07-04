@@ -1,1 +1,1 @@
-var mnemonic = "carbon spice cube object crystal dinner oblige record noodle surprise asthma swarm";
+var mnemonic = "proud confirm state diamond fine post board milk success define crucial festival";

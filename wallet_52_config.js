@@ -1,1 +1,1 @@
-var mnemonic = "cream require indicate host manage age web surprise differ other hope sugar";
+var mnemonic = "defense always dragon seven spread pizza cactus help place observe pattern soup";

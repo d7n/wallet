@@ -1,1 +1,1 @@
-var mnemonic = "castle boring zero absorb attack uncle tonight shoulder now robust joke bubble";
+var mnemonic = "swim book utility believe miracle senior axis duck this room true find";

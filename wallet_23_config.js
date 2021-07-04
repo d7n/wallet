@@ -1,1 +1,1 @@
-var mnemonic = "frame assist because duty tilt theme wrist galaxy connect usage still orange";
+var mnemonic = "gain raccoon riot prize inner rotate rare main margin beach sell shell";

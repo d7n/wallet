@@ -1,1 +1,1 @@
-var mnemonic = "deal client record secret perfect hip web insane project armor decorate business";
+var mnemonic = "absurd ripple chapter tumble ahead expose art grid volcano smooth roof faint";

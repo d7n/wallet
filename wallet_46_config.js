@@ -1,1 +1,1 @@
-var mnemonic = "provide hazard suggest course month found peace prepare embrace system front grit";
+var mnemonic = "dwarf conduct breeze sustain father member direct shock involve mask example suggest";

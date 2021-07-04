@@ -1,1 +1,1 @@
-var mnemonic = "velvet treat rich volume scan dish second jewel unit sell glow second";
+var mnemonic = "heart elegant inhale exhaust silver oval under giraffe million liberty oyster aware";

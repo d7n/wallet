@@ -1,1 +1,1 @@
-var mnemonic = "asthma summer evil edit wool angle genuine lady film bamboo work item";
+var mnemonic = "van primary winner soul style left tuition chimney upper spoil runway parrot";

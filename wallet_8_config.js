@@ -1,1 +1,1 @@
-var mnemonic = "actor game anxiety team cruise fragile vacuum sad twin address twice fiber";
+var mnemonic = "cement excite amazing object gather behave carpet pitch rather gravity vast obey";

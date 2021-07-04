@@ -1,1 +1,1 @@
-var mnemonic = "speed rail prison yard session human start mimic relax saddle blossom jaguar";
+var mnemonic = "awful web slab company pink derive vacuum rural sweet stage save grant";

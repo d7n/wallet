@@ -1,1 +1,1 @@
-var mnemonic = "desert lonely unlock dumb lunch clarify spot inmate tooth moment adapt miss";
+var mnemonic = "task warm warrior imitate injury ancient enforce example spoon silent burden scene";

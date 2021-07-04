@@ -1,1 +1,1 @@
-var mnemonic = "dry kiwi crouch like program police mother apple dune future first sadness";
+var mnemonic = "length skirt debris promote absurd logic fever clutch foot usual often worry";

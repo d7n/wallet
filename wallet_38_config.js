@@ -1,1 +1,1 @@
-var mnemonic = "marble excuse salt energy scout wealth aisle alcohol teach ankle bronze timber";
+var mnemonic = "kidney ecology spread swap romance family joke mutual stove side cable wide";

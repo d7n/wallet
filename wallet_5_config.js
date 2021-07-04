@@ -1,1 +1,1 @@
-var mnemonic = "harsh antique bubble chat route else column minute weekend federal pear today";
+var mnemonic = "rescue gloom glance cliff direct boss final weird fantasy sketch almost average";

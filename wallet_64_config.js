@@ -1,1 +1,1 @@
-var mnemonic = "almost beef blanket race couple strike victory clock judge people protect nerve";
+var mnemonic = "bunker ride maple lava follow foam cousin powder install focus average shy";

@@ -1,1 +1,1 @@
-var mnemonic = "ski insane credit museum enter kangaroo umbrella whip test surround siege afford";
+var mnemonic = "ribbon tumble delay symptom fruit candy solar cycle adjust maid width tomato";

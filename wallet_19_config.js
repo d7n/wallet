@@ -1,1 +1,1 @@
-var mnemonic = "hood aspect glare often embrace giant pen dream cargo food wage sweet";
+var mnemonic = "inflict oval chase reveal million tray like bus borrow hungry hotel rookie";

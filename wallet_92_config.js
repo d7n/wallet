@@ -1,1 +1,1 @@
-var mnemonic = "category knock vehicle dolphin manage ecology green ceiling tornado fortune unfold scale";
+var mnemonic = "tip fog math attitude sleep sell execute diet start busy year chest";
