@@ -1,1 +1,1 @@
-var mnemonic = "sing laundry under combine rebuild absorb economy shift injury custom furnace swarm";
+var mnemonic = "glove topple used orphan tool version garage erase eager thought thrive depart";

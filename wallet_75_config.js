@@ -1,1 +1,1 @@
-var mnemonic = "bring humor burger horn govern learn glimpse mask devote vivid bar pelican";
+var mnemonic = "unfair turtle organ timber copy cherry report pole copper any major book";

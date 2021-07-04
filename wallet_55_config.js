@@ -1,1 +1,1 @@
-var mnemonic = "table jealous crew endorse unit dilemma exchange person clinic figure nurse record";
+var mnemonic = "possible disorder razor slab truth young old correct sea act raccoon glad";

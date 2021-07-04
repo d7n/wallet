@@ -1,1 +1,1 @@
-var mnemonic = "owner toe develop claw frown such faint jar grant cross fault property";
+var mnemonic = "hood egg shrimp dolphin hidden punch truck bone girl record paddle decade";

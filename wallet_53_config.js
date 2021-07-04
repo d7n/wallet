@@ -1,1 +1,1 @@
-var mnemonic = "bitter lady silver raw session smart cliff clip shop shiver rally notable";
+var mnemonic = "thunder claim truth detect insect twice series develop boil train decrease ethics";

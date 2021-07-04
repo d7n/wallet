@@ -1,1 +1,1 @@
-var mnemonic = "youth egg riot vibrant random home clutch company lens solid hurry denial";
+var mnemonic = "know act lake boring unhappy choose furnace kid fatal vessel elder income";

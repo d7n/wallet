@@ -1,1 +1,1 @@
-var mnemonic = "prefer alarm timber youth treat hip decrease casual body young clinic bonus";
+var mnemonic = "mad vintage receive deputy grape report recipe sign must inform undo dream";

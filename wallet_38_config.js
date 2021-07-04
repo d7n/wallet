@@ -1,1 +1,1 @@
-var mnemonic = "broken input economy erase rally basket time exotic culture business fabric learn";
+var mnemonic = "student upon dizzy utility olympic approve hire state fat ahead spatial fiction";

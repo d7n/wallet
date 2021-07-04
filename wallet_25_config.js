@@ -1,1 +1,1 @@
-var mnemonic = "congress cliff ability crack matrix giggle spirit eternal jealous furnace mixture cluster";
+var mnemonic = "imitate transfer lens whisper tornado romance multiply retire romance same soap sword";

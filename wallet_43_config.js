@@ -1,1 +1,1 @@
-var mnemonic = "labor flush vintage waste man magic rather aisle amazing fragile kid shine";
+var mnemonic = "essence cook cluster tired fabric spy sick next nut admit peace almost";

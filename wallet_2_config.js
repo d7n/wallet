@@ -1,1 +1,1 @@
-var mnemonic = "snap govern plug shop economy copper total damp battle delay banner tired";
+var mnemonic = "announce before absurd math pact long meadow inch normal caution sing gift";

@@ -1,1 +1,1 @@
-var mnemonic = "segment walk december engage ready sleep misery screen emerge solve iron example";
+var mnemonic = "expire mandate useless leaf infant affair genre ozone few bright man elegant";

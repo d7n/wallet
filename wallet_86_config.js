@@ -1,1 +1,1 @@
-var mnemonic = "blade web course build myself merit artefact fortune control poem squirrel maze";
+var mnemonic = "security blade song advance film maximum online ill recipe afford earn furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "game badge tilt cruel asthma cloth diamond affair crazy pact mixed arm";
+var mnemonic = "practice dinosaur swarm misery more repeat moral process rapid column promote injury";

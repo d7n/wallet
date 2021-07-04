@@ -1,1 +1,1 @@
-var mnemonic = "route laugh defense crew crush tip test dutch video gain leisure shadow";
+var mnemonic = "asthma help couple verify sunset whale identify hybrid soap liberty cable truly";

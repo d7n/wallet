@@ -1,1 +1,1 @@
-var mnemonic = "trophy together frequent grab hour bronze castle adjust pass sniff estate dawn";
+var mnemonic = "mean curious neither spring win metal census animal car coin exile aspect";

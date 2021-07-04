@@ -1,1 +1,1 @@
-var mnemonic = "text debris lawn forward genuine glad company arctic cash ancient armor snap";
+var mnemonic = "sentence napkin tip rookie nose wave damage dolphin organ welcome embark clock";

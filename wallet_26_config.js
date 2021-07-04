@@ -1,1 +1,1 @@
-var mnemonic = "second company loan tenant mirror saddle pause thank gadget creek banana speak";
+var mnemonic = "tenant garment gorilla promote purity deny robust organ plunge radar system lion";

@@ -1,1 +1,1 @@
-var mnemonic = "such grunt accident purity clump steel affair mushroom arctic identify two cargo";
+var mnemonic = "egg fog license limit eight noble cheap vital worry perfect manual plate";

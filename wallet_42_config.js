@@ -1,1 +1,1 @@
-var mnemonic = "concert dry destroy ball cover miss violin pigeon onion mistake midnight accident";
+var mnemonic = "where combine cake guide immense rapid bind tumble type luxury heavy nature";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk west glare cousin silk audit issue claim must make brick august";
+var mnemonic = "magnet digital drop thing tennis skin trouble father giraffe someone method gold";

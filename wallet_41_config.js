@@ -1,1 +1,1 @@
-var mnemonic = "hollow mention skill liar mesh junior derive marble dust feed forest spoon";
+var mnemonic = "swear fiber void pigeon virus random cake arm parent sniff joke job";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose trust crowd husband rapid wine cook security hint turtle acoustic sign";
+var mnemonic = "slight tunnel trumpet allow crisp member flower enough safe wreck heavy crane";

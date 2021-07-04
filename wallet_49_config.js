@@ -1,1 +1,1 @@
-var mnemonic = "field frozen pitch abandon exercise wrestle spider display bounce series intact surround";
+var mnemonic = "small blush robust wolf romance skirt myself fever good final ride night";

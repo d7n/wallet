@@ -1,1 +1,1 @@
-var mnemonic = "beyond name discover whale rice runway aisle vehicle hold medal burden enhance";
+var mnemonic = "flee uncle fiscal patrol fold enroll invite fatigue buyer age hand cherry";

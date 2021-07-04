@@ -1,1 +1,1 @@
-var mnemonic = "cream police adapt almost empower chief pluck cube tribe carpet drum sausage";
+var mnemonic = "tell dream ignore elbow olive amateur bunker path asset art crunch champion";

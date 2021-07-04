@@ -1,1 +1,1 @@
-var mnemonic = "axis large scatter protect concert order allow mushroom tiger decorate visit easy";
+var mnemonic = "zero arena dinosaur rabbit insane clay trick add measure stable noodle innocent";

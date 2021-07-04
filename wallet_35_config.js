@@ -1,1 +1,1 @@
-var mnemonic = "lunch approve purpose movie misery company devote ancient cry melt kite grunt";
+var mnemonic = "crater vast clarify trip blame equal chuckle wolf clump indicate call gorilla";

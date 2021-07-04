@@ -1,1 +1,1 @@
-var mnemonic = "state flavor walnut knock boost drum exile pact impulse enroll rifle desert";
+var mnemonic = "belt bag resist laptop nose mean other length spy team entire used";

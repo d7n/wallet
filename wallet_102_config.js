@@ -1,1 +1,1 @@
-var mnemonic = "web obvious mosquito kangaroo tank setup expand soldier project fever robot talent";
+var mnemonic = "phone kidney slide actual ahead next twelve polar soap pilot umbrella public";

@@ -1,1 +1,1 @@
-var mnemonic = "behave machine problem wing matrix endless kingdom skate pear journey media response";
+var mnemonic = "permit grid bird tuition crystal room mind clump total avoid art estate";

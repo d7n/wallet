@@ -1,1 +1,1 @@
-var mnemonic = "weekend vendor smoke welcome lake thrive panel poverty minimum brass pistol world";
+var mnemonic = "change lawsuit hint desert two rate behind build glance income just grant";

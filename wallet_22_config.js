@@ -1,1 +1,1 @@
-var mnemonic = "dragon hockey horn blade prosper winter promote crouch elite robot bunker wrist";
+var mnemonic = "private embark attend cupboard drastic donate civil furnace coffee payment pig tongue";

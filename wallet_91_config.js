@@ -1,1 +1,1 @@
-var mnemonic = "salt bacon hollow sail illegal swallow divorce okay eyebrow fall clean crop";
+var mnemonic = "ranch deposit soft bonus pair orphan clown stay net title auction raven";

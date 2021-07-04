@@ -1,1 +1,1 @@
-var mnemonic = "note have example math feed wool throw solve gather luxury job uncle";
+var mnemonic = "debris card proof able maid casual heavy final vehicle blade because tag";

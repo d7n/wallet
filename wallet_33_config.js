@@ -1,1 +1,1 @@
-var mnemonic = "quality panel subway oblige already tobacco sugar teach uncover almost way place";
+var mnemonic = "fabric play early crazy horse diary bird tissue crew balcony strike mail";

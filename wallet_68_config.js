@@ -1,1 +1,1 @@
-var mnemonic = "ring twelve empower hobby swim there south undo muffin below lobster foster";
+var mnemonic = "ahead soon leg bargain valley lens speak teach display afford west hedgehog";

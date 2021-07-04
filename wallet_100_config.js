@@ -1,1 +1,1 @@
-var mnemonic = "refuse myself edit height skill short abstract bicycle senior celery circle net";
+var mnemonic = "dose universe meadow trial now fall knee index flight loop home alcohol";

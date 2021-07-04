@@ -1,1 +1,1 @@
-var mnemonic = "tooth elegant diesel rookie spin elephant forum naive pride chaos monitor prize";
+var mnemonic = "menu kick about use pony armor color stereo fish pipe wedding impact";

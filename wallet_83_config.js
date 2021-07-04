@@ -1,1 +1,1 @@
-var mnemonic = "addict doctor list buyer sound invite amazing patrol guard one sand earth";
+var mnemonic = "emotion upset forward grief leaf manual tell risk solution pudding match amount";

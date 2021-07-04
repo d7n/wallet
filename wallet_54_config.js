@@ -1,1 +1,1 @@
-var mnemonic = "milk jungle upgrade roast liar maze heart diesel unlock muscle juice chapter";
+var mnemonic = "negative robot actual park series cross tiny spy hamster spell garment dove";

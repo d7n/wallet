@@ -1,1 +1,1 @@
-var mnemonic = "example gauge feel total extend unfold clean gas carpet soccer skill satisfy";
+var mnemonic = "bar scene switch lazy truth echo piano correct manage kangaroo save exotic";

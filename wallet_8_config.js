@@ -1,1 +1,1 @@
-var mnemonic = "unveil boy child female wire ritual frost element follow wild face myself";
+var mnemonic = "moment chimney bid spot capital bonus unveil gap web access female absurd";

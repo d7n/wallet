@@ -1,1 +1,1 @@
-var mnemonic = "acid short claim cliff morning allow cruise month deer sister twice dust";
+var mnemonic = "pass gasp unlock riot typical slim relax ginger together bone tell rude";

@@ -1,1 +1,1 @@
-var mnemonic = "romance oval toast head hybrid tank web scorpion forest valley dance service";
+var mnemonic = "escape crater debris sustain focus exhibit argue credit gossip jeans strategy myth";

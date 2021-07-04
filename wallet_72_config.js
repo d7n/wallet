@@ -1,1 +1,1 @@
-var mnemonic = "gorilla inherit mistake brief garden supreme angle account puppy own usage chat";
+var mnemonic = "service mechanic giggle fault lake weather zebra volcano cheap spray venture climb";

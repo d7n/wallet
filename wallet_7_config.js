@@ -1,1 +1,1 @@
-var mnemonic = "firm wet lonely panic usage solve garbage photo caution amazing eagle capital";
+var mnemonic = "curve faint kitchen width tag goat dragon zoo security rubber sword fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "maple zero blouse extend betray purpose flock shove health velvet saddle promote";
+var mnemonic = "alpha staff area unveil east diet life blue hawk crawl sudden wear";

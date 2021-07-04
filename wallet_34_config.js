@@ -1,1 +1,1 @@
-var mnemonic = "life party cricket rail method frame million unusual original crime entry pumpkin";
+var mnemonic = "neutral timber urban upper stuff rapid soap family derive walk frame disorder";

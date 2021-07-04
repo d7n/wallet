@@ -1,1 +1,1 @@
-var mnemonic = "clever pistol rival pair better gossip drip grass april detect loan marble";
+var mnemonic = "anchor relief clown curve blossom deer oxygen emerge country flight seed describe";

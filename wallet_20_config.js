@@ -1,1 +1,1 @@
-var mnemonic = "uphold vault click science usage clip nominee skin galaxy echo wolf essay";
+var mnemonic = "level sick coral attract nerve speed strategy neck tonight hurry cherry remind";

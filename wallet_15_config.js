@@ -1,1 +1,1 @@
-var mnemonic = "make joy main allow section camera six soap year sheriff comic envelope";
+var mnemonic = "dinosaur dolphin onion spider skill glimpse enact fiber coach cry assume pen";

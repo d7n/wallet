@@ -1,1 +1,1 @@
-var mnemonic = "fine stable medal bachelor hard possible flip shove vanish verb beauty aim";
+var mnemonic = "leave pledge frozen aim pioneer boost zone bulk tail million tower gallery";

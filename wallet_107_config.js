@@ -1,1 +1,1 @@
-var mnemonic = "arch salad seek recall copper winter layer learn pave retire city income";
+var mnemonic = "unveil moral runway repair decrease rare army talk spice often energy fix";

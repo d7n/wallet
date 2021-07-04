@@ -1,1 +1,1 @@
-var mnemonic = "rice adjust method drink ceiling online fuel usual yard under again ocean";
+var mnemonic = "noble service just curtain direct upper couple slice grocery knife swing discover";

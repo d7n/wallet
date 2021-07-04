@@ -1,1 +1,1 @@
-var mnemonic = "egg keen submit shaft visual found indoor juice lounge rebel river circle";
+var mnemonic = "attack luggage loud anger mom goddess ecology impact rate oppose finish tide";

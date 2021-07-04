@@ -1,1 +1,1 @@
-var mnemonic = "rabbit off sick better program merry draft unable honey mad type shift";
+var mnemonic = "belt anxiety galaxy soft trust corn oxygen symptom prosper orbit impact lift";

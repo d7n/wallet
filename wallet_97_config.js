@@ -1,1 +1,1 @@
-var mnemonic = "choice almost village rebel attack napkin area away open noble copy still";
+var mnemonic = "gas street relief section flee neck mixture detail catalog category prefer panel";

@@ -1,1 +1,1 @@
-var mnemonic = "say twice fatigue chalk boat gym derive defense rigid gravity woman win";
+var mnemonic = "absurd sword kingdom glide person announce mirror dizzy talent hero hollow coffee";

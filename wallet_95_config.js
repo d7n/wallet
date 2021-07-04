@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow wrestle below print myth mushroom canvas identify speak domain ladder mixed";
+var mnemonic = "barrel share scrap update message vehicle exotic laugh dress travel witness people";

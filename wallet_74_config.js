@@ -1,1 +1,1 @@
-var mnemonic = "erosion ensure robust problem hard ghost act throw verify drastic family mistake";
+var mnemonic = "hip market stomach trick detect shield soul evidence rough food neither split";

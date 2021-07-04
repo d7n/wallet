@@ -1,1 +1,1 @@
-var mnemonic = "what segment aspect agent help gas magic exclude civil basic always public";
+var mnemonic = "kangaroo volume boring aisle maid velvet main aunt across organ fortune glove";

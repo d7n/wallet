@@ -1,1 +1,1 @@
-var mnemonic = "inch short gospel spin reunion anchor brisk reveal original brick length salute";
+var mnemonic = "harsh soft mother once believe dwarf diamond illegal silent skull odor negative";

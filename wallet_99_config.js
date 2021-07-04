@@ -1,1 +1,1 @@
-var mnemonic = "result bird noise pole ripple sudden all hold cream trap pony balance";
+var mnemonic = "lunar girl admit blame mixed kick canoe husband answer december siren siege";

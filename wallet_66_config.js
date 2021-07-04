@@ -1,1 +1,1 @@
-var mnemonic = "fun void husband language knock phrase include recall emerge clog obvious switch";
+var mnemonic = "elevator slice refuse garden replace eternal coffee kitten indicate final neglect glue";

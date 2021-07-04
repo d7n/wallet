@@ -1,1 +1,1 @@
-var mnemonic = "model route program visual become novel arm fault refuse soda eyebrow near";
+var mnemonic = "ocean square clerk stomach zero build dolphin siren day essay glove cup";

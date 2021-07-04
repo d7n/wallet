@@ -1,1 +1,1 @@
-var mnemonic = "kidney session minute long destroy reject devote valve cradle peace ring medal";
+var mnemonic = "upgrade news pizza raven clown blossom find rack similar pulp inch worry";

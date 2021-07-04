@@ -1,1 +1,1 @@
-var mnemonic = "want chef balcony trial happy toe story program print funny journey tide";
+var mnemonic = "token trim blouse lake type float vicious opera always negative sea work";

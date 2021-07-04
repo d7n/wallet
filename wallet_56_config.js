@@ -1,1 +1,1 @@
-var mnemonic = "fat angry wasp someone fury senior vacant theme pudding only van slice";
+var mnemonic = "note smooth range figure inhale depth raccoon else sustain plastic envelope winter";

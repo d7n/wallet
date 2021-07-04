@@ -1,1 +1,1 @@
-var mnemonic = "dumb judge grace parade ten trade scene appear movie transfer team certain";
+var mnemonic = "current cup crunch detail dinner tomato trip catalog poem fork annual aerobic";

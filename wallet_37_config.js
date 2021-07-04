@@ -1,1 +1,1 @@
-var mnemonic = "tonight minute infant high surface trash taxi write seven captain unveil hawk";
+var mnemonic = "liar velvet warm twelve midnight shell hobby since fragile smart bench affair";

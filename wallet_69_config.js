@@ -1,1 +1,1 @@
-var mnemonic = "loop source regret crisp flavor spot pipe betray script gown mechanic claim";
+var mnemonic = "million leave soccer genre room outer glide legend ignore miss grunt fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "marine gospel help erase hub carbon dog deliver shrug brother sight zebra";
+var mnemonic = "ten van multiply radio pottery sea fly discover trade wood cannon baby";

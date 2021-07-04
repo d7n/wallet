@@ -1,1 +1,1 @@
-var mnemonic = "measure plastic narrow airport dream same frog crawl lift demand pond sand";
+var mnemonic = "sting nuclear easily venue light finish prison hungry hockey similar boy garbage";

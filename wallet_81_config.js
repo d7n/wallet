@@ -1,1 +1,1 @@
-var mnemonic = "all choose ketchup choose first blind reopen slam giant exact shop property";
+var mnemonic = "unveil earn combine few hand bounce clarify congress winner crush similar shine";

@@ -1,1 +1,1 @@
-var mnemonic = "release dice clerk stairs frozen modify bind quality model jar dismiss zoo";
+var mnemonic = "spatial jewel ocean ancient metal nothing vivid apart assault only odor message";

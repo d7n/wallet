@@ -1,1 +1,1 @@
-var mnemonic = "zero glue fly mobile raccoon zero resist burst pulp grain license humor";
+var mnemonic = "bless second giant grit filter apart mutual captain reveal usage uncle disorder";

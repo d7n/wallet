@@ -1,1 +1,1 @@
-var mnemonic = "tuition foam strong merge fine obvious expose team syrup stuff nurse sell";
+var mnemonic = "mixed opera illness simple reform crane kitchen kite industry short fever clay";

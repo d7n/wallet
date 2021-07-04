@@ -1,1 +1,1 @@
-var mnemonic = "sketch agree peace tip opinion scale garment neutral soft race merge humor";
+var mnemonic = "tank chicken tenant human marriage stove gallery warrior satoshi enlist blame owner";

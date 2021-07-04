@@ -1,1 +1,1 @@
-var mnemonic = "spatial endorse kitten innocent beach session supply divide region under denial cancel";
+var mnemonic = "slam veteran wagon cross kiss advance reason romance desk maid regular milk";

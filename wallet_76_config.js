@@ -1,1 +1,1 @@
-var mnemonic = "turkey pistol gather craft major okay kick bid term discover faith believe";
+var mnemonic = "glide matter arrow museum skull zebra input humble sugar churn grab ethics";

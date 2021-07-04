@@ -1,1 +1,1 @@
-var mnemonic = "summer gasp sibling increase fall enrich they vintage sample style device inspire";
+var mnemonic = "uncle shallow network battle patrol theme juice quality pond adult repeat equal";

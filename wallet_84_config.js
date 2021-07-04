@@ -1,1 +1,1 @@
-var mnemonic = "much lonely spare gas brown symbol area replace change goat best issue";
+var mnemonic = "affair okay rent song onion dawn recycle trophy armed addict fit child";

@@ -1,1 +1,1 @@
-var mnemonic = "desk force friend panda need repair error upgrade verify vacant brain exchange";
+var mnemonic = "credit mango demise pear master debate barrel first blast retreat tuition actress";

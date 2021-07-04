@@ -1,1 +1,1 @@
-var mnemonic = "donkey near change act tragic invest lamp pepper fall helmet reflect infant";
+var mnemonic = "tissue quit science digital document faith rigid crater march nation tube impact";

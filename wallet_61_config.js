@@ -1,1 +1,1 @@
-var mnemonic = "story stem deer helmet predict treat left clever security worry pepper movie";
+var mnemonic = "omit giggle almost nice size banner coach dolphin royal equal wide move";
