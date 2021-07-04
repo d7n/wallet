@@ -1,1 +1,1 @@
-var mnemonic = "feel search rhythm pepper mistake point brush chunk insane young shoulder fall";
+var mnemonic = "rude affair blouse section victory exchange giggle large pigeon claw labor hero";

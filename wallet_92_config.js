@@ -1,1 +1,1 @@
-var mnemonic = "try drop fat retreat muscle breeze stem define circle need diagram glimpse";
+var mnemonic = "tail height spoon idle change dust stage render hard nasty vault disorder";

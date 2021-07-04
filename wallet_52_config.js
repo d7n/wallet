@@ -1,1 +1,1 @@
-var mnemonic = "drop carpet cloud canal fatal mosquito innocent jump grid inside bring gown";
+var mnemonic = "inherit problem grain naive deputy luxury equip series wheat pattern jeans custom";

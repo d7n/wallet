@@ -1,1 +1,1 @@
-var mnemonic = "draw light despair juice crystal pool impulse skate timber volcano post mutual";
+var mnemonic = "divert riot daughter lady depth exist useless occur aware paddle end possible";

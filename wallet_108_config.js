@@ -1,1 +1,1 @@
-var mnemonic = "winter draft dream science muffin tornado version chief region dynamic primary whip";
+var mnemonic = "enough swap disorder unable chat original mechanic cactus chalk tackle wonder edit";

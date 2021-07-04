@@ -1,1 +1,1 @@
-var mnemonic = "raccoon puppy arena crawl blanket unable hood life kiss stove column govern";
+var mnemonic = "voyage poem random earn absent woman comic blind cook social turkey alien";

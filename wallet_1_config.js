@@ -1,1 +1,1 @@
-var mnemonic = "flower harvest toddler crowd subway public vicious cement similar gallery pottery relief";
+var mnemonic = "panic open buzz movie flee awake arrest ginger enroll radio catch check";

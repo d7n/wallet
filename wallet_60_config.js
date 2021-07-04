@@ -1,1 +1,1 @@
-var mnemonic = "parent refuse struggle flight certain lecture agree rose rural smart boy rate";
+var mnemonic = "post picnic stick file prepare purpose pencil manage error april renew acid";

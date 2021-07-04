@@ -1,1 +1,1 @@
-var mnemonic = "castle deliver quiz audit kiss walk field mosquito sea depend slender exact";
+var mnemonic = "pig safe chunk address salad ordinary doll boost answer dream oak neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "photo make cattle antique cattle divert okay device save alley glimpse upper";
+var mnemonic = "goose crucial fruit hour age ridge furnace other cereal invest lyrics caution";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom hero reflect umbrella rifle owner measure zone grunt bright method craft";
+var mnemonic = "shrimp fatigue lizard mother flavor evoke card afford price unhappy resist mechanic";

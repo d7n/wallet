@@ -1,1 +1,1 @@
-var mnemonic = "version rate method protect any crop over marble scissors best bleak wait";
+var mnemonic = "urge junior idea jungle turtle evidence need sketch tape hurdle uncover rent";

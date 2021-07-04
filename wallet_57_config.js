@@ -1,1 +1,1 @@
-var mnemonic = "below slim only adjust monster grape extra badge popular spoil culture provide";
+var mnemonic = "rebel drill autumn shine mechanic float pilot photo gym someone number horse";

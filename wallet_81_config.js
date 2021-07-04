@@ -1,1 +1,1 @@
-var mnemonic = "grow sting clinic pumpkin unable rigid awful easy dwarf jazz error target";
+var mnemonic = "lecture method depart language female glory gadget climb chimney faculty celery coral";

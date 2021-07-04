@@ -1,1 +1,1 @@
-var mnemonic = "scrap ramp junior tool wall stock minute recycle category remind holiday lunch";
+var mnemonic = "luggage tissue roast edge pair picnic quiz involve solution trouble useful mistake";

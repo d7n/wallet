@@ -1,1 +1,1 @@
-var mnemonic = "parent scene clog potato wall toss chef violin train trial shadow vicious";
+var mnemonic = "bargain settle melt huge inject fringe vault believe spin category report program";

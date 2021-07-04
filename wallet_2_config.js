@@ -1,1 +1,1 @@
-var mnemonic = "subway cargo snake feed turn knife dress glide advance right find help";
+var mnemonic = "evolve bottom athlete turtle stand letter silly used claw tired label copper";

@@ -1,1 +1,1 @@
-var mnemonic = "receive pause peanut theme allow salad shuffle hard spoil orange know puppy";
+var mnemonic = "result travel wall monitor glare zoo inflict bomb element shell output turkey";

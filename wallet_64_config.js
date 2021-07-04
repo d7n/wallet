@@ -1,1 +1,1 @@
-var mnemonic = "tenant lazy street awake nose start require arena future sand chef execute";
+var mnemonic = "brown mixed front draft flee face extend genre oxygen machine dutch iron";

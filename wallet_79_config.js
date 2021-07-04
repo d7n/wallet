@@ -1,1 +1,1 @@
-var mnemonic = "rich label alert village quick oxygen fork accident prize have island box";
+var mnemonic = "have scout lunch soon grocery west universe student vibrant skull already tiny";

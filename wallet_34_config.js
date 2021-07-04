@@ -1,1 +1,1 @@
-var mnemonic = "wink trash into wrong giraffe box sample argue april bridge ill manage";
+var mnemonic = "trophy limb brick biology celery same sure flock captain tag decide exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect joke glory thrive coffee alien veteran spring addict coral point behind";
+var mnemonic = "useful speak spice blossom balance autumn garden they clump blue taste same";

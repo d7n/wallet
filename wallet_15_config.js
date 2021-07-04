@@ -1,1 +1,1 @@
-var mnemonic = "park program danger heavy fever absurd subject wave moon swing change tooth";
+var mnemonic = "brown chat can estate mixture arrange rubber obey joy pupil picnic invest";

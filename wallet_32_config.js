@@ -1,1 +1,1 @@
-var mnemonic = "famous hollow hold lazy client case timber toe ketchup loyal thumb tape";
+var mnemonic = "question cabin shield filter update sunset final sock tongue act balcony clown";

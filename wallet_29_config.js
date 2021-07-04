@@ -1,1 +1,1 @@
-var mnemonic = "vast learn property devote science owner tenant movie earth laptop next club";
+var mnemonic = "purpose choose meat season draw fee siege armor culture vessel bind dress";

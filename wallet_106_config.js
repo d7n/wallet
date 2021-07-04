@@ -1,1 +1,1 @@
-var mnemonic = "exact climb woman rally knife hen hip clerk above father lens expose";
+var mnemonic = "bulb web purse normal staff extend ahead comfort cool street yard become";

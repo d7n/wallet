@@ -1,1 +1,1 @@
-var mnemonic = "mobile egg home good message usage dismiss tonight pool thought turtle harbor";
+var mnemonic = "mail pill dignity canvas flee health maze about mom flat lion face";

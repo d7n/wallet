@@ -1,1 +1,1 @@
-var mnemonic = "cloth glimpse walk idea snow access insane raven govern grow zero test";
+var mnemonic = "feature swallow rocket belt abandon donkey rookie series weird coast engine man";

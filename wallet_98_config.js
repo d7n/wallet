@@ -1,1 +1,1 @@
-var mnemonic = "zero basket arena coconut antenna educate bird equal extra permit hire forward";
+var mnemonic = "wedding cliff detail yard secret fetch olympic gift victory gas state person";

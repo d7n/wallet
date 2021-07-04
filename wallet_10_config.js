@@ -1,1 +1,1 @@
-var mnemonic = "ride scrap fresh exclude festival room inch film legend minute nut head";
+var mnemonic = "shoulder area letter ghost one uncle expand embark juice genre hood sponsor";

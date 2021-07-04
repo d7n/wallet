@@ -1,1 +1,1 @@
-var mnemonic = "action copy bone benefit ask claim sun act wife deliver gasp coast";
+var mnemonic = "lock insane blanket hundred protect dash super faint sort total remove diet";

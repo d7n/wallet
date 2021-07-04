@@ -1,1 +1,1 @@
-var mnemonic = "light roof depend trophy nephew world figure winter muscle spider pulse add";
+var mnemonic = "increase can column east frozen alley october fit kitchen solid album primary";

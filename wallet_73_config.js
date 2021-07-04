@@ -1,1 +1,1 @@
-var mnemonic = "orient wall almost cloud erase siege employ slight process shoulder dust speak";
+var mnemonic = "business spirit long scan enough clap account lawsuit toilet jazz similar crack";

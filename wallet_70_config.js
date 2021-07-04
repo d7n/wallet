@@ -1,1 +1,1 @@
-var mnemonic = "field agent broken chest noble master habit oblige snap dirt flower dance";
+var mnemonic = "pulse blast wink pulp hero say bronze hurry audit because pledge gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "great liquid used main noble wall spirit clock chair love scheme sing";
+var mnemonic = "require phone truly tourist define regret dress reject trip imitate grocery churn";

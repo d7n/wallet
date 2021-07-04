@@ -1,1 +1,1 @@
-var mnemonic = "nose frost cake trend permit board neutral mimic quality inquiry retreat roast";
+var mnemonic = "alone crush tumble alcohol team neither denial asthma poem blouse buzz sheriff";

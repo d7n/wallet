@@ -1,1 +1,1 @@
-var mnemonic = "chimney cradle squirrel shock pumpkin mercy alley pull ice federal knee term";
+var mnemonic = "animal urge question velvet age camera mandate tortoise crew hello essence crouch";

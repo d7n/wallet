@@ -1,1 +1,1 @@
-var mnemonic = "tired message robot embody power clump rapid crisp antenna merry funny century";
+var mnemonic = "want sample wheel glimpse eye appear opera employ arm oblige grant shock";

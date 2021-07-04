@@ -1,1 +1,1 @@
-var mnemonic = "hard page spare early twist jar order balance blind canyon brass awkward";
+var mnemonic = "sponsor person uniform dress motion vacant aspect divide pupil include please trial";

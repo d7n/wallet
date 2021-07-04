@@ -1,1 +1,1 @@
-var mnemonic = "method hint oven future turn advice lesson change index palace dawn fish";
+var mnemonic = "click document youth comic radio tonight brick athlete purchase cigar screen box";

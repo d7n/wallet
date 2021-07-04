@@ -1,1 +1,1 @@
-var mnemonic = "paddle space exact eyebrow corn text crouch right clay cute stable smart";
+var mnemonic = "bacon ceiling treat phone detail innocent suit test enforce give siren kind";

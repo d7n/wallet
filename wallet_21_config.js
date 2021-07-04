@@ -1,1 +1,1 @@
-var mnemonic = "accident shallow hero bring sword render phrase explain thumb enemy soon wrong";
+var mnemonic = "evolve arrest turkey under private pistol slim suggest agree regular float benefit";

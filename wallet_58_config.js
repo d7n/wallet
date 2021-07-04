@@ -1,1 +1,1 @@
-var mnemonic = "empty define coyote asset violin load please axis wreck regular list jump";
+var mnemonic = "sustain mimic humor amazing steel crawl journey horror design suspect tower dignity";

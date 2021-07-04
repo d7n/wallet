@@ -1,1 +1,1 @@
-var mnemonic = "palace goat fiction tunnel guitar current fold obey point suspect clutch lunch";
+var mnemonic = "merit tenant hand chalk differ rug rain uncle kiss fee argue glimpse";

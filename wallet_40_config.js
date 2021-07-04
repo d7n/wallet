@@ -1,1 +1,1 @@
-var mnemonic = "banner mind fox virus switch flight that wedding anxiety three winner attract";
+var mnemonic = "reject pull elevator occur festival transfer expect zero hawk brief unfold divide";

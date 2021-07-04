@@ -1,1 +1,1 @@
-var mnemonic = "now injury play goat antenna joy stock opera lecture hawk off music";
+var mnemonic = "student elite excite broom gift job actual fluid exhaust hundred hire term";

@@ -1,1 +1,1 @@
-var mnemonic = "raise search decide track agree calm island argue submit pole tail hurt";
+var mnemonic = "truly ginger have alpha feed million success entry shield crack sport ordinary";

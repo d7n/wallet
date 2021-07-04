@@ -1,1 +1,1 @@
-var mnemonic = "horror strategy type dance cliff strike decade patch resist eight solar refuse";
+var mnemonic = "midnight inherit caution fabric tonight strong blossom bar ill element gap police";

@@ -1,1 +1,1 @@
-var mnemonic = "truth used pencil noise sure balance theme skin mountain dizzy media phone";
+var mnemonic = "master slight hollow miracle kitten height will cruel federal rigid board scheme";

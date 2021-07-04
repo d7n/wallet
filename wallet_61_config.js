@@ -1,1 +1,1 @@
-var mnemonic = "top knee range today turtle alien develop ketchup tragic until doctor foster";
+var mnemonic = "pioneer manual hybrid sheriff close tomorrow stock magic office food slot select";

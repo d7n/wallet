@@ -1,1 +1,1 @@
-var mnemonic = "explain nothing noise smile sun frame wrap divert fuel rebel soon history";
+var mnemonic = "decline town stamp hurdle wall process cause dumb spawn business vapor hazard";

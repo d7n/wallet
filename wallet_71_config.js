@@ -1,1 +1,1 @@
-var mnemonic = "level ugly shoe arrive dirt empty over decide lyrics nice width road";
+var mnemonic = "fish depart rescue toast primary chaos gain hip mushroom eye soccer topple";

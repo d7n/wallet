@@ -1,1 +1,1 @@
-var mnemonic = "unusual obtain prefer segment silent dice trade neutral ripple student profit sting";
+var mnemonic = "home path cluster reject nurse guess poet voyage airport rescue fish brisk";

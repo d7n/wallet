@@ -1,1 +1,1 @@
-var mnemonic = "sting enrich daring electric still blossom matrix fashion lend dilemma call dance";
+var mnemonic = "exact reduce twenty seed fringe envelope glass wage hub help sun resource";

@@ -1,1 +1,1 @@
-var mnemonic = "maze warfare oyster file tide source lonely tooth lucky carbon occur hard";
+var mnemonic = "coffee lawsuit embrace fluid ladder veteran world pepper exact joy crew tunnel";

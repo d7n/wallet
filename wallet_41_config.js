@@ -1,1 +1,1 @@
-var mnemonic = "walk taxi board anger manual legend range way caught disorder sound zone";
+var mnemonic = "wreck royal damp merry creek eight version asthma nice comic room sword";

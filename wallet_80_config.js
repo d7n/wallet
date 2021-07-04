@@ -1,1 +1,1 @@
-var mnemonic = "pave between captain sudden parent satoshi cement option found dragon never future";
+var mnemonic = "tired casino coyote pact carpet derive pulp chunk vehicle island message tumble";

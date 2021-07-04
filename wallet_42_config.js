@@ -1,1 +1,1 @@
-var mnemonic = "vacant lounge frame breeze powder wasp column tackle ugly banner south never";
+var mnemonic = "oxygen leg stable now there diary rotate prize fix wish avocado result";

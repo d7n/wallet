@@ -1,1 +1,1 @@
-var mnemonic = "grunt force strike work million clip confirm boss divorce abuse budget awake";
+var mnemonic = "group okay muscle august hover team rely expect coil amazing elbow exchange";

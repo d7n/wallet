@@ -1,1 +1,1 @@
-var mnemonic = "dirt swap hazard shaft use coil harsh hidden error payment spike begin";
+var mnemonic = "cement inquiry sad uncle protect okay hero normal orphan plate early talk";

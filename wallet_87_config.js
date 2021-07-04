@@ -1,1 +1,1 @@
-var mnemonic = "immune unfold scare parent morning moment august critic cry fresh shift stem";
+var mnemonic = "add correct onion angry vital arch victory street goddess grape sausage save";

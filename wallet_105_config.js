@@ -1,1 +1,1 @@
-var mnemonic = "daring hidden recycle brown flat slender provide session click cushion medal medal";
+var mnemonic = "patrol youth risk boy grow north panther review crew route prevent economy";

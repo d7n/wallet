@@ -1,1 +1,1 @@
-var mnemonic = "judge cousin asset during winner melt adult dolphin grit spatial lend step";
+var mnemonic = "wear risk december blood ugly poem success lion vehicle grain judge unlock";

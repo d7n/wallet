@@ -1,1 +1,1 @@
-var mnemonic = "food stove give destroy glow save february major nose rescue drama vibrant";
+var mnemonic = "sphere poem early gym tray hazard debris praise company tragic broom void";

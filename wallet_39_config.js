@@ -1,1 +1,1 @@
-var mnemonic = "local comfort major security seminar release small axis infant order fluid try";
+var mnemonic = "simple mixture another van sauce agent priority fruit fork awful chunk awake";

@@ -1,1 +1,1 @@
-var mnemonic = "script dune enroll fragile trick reflect element random inject gospel drive stable";
+var mnemonic = "cotton amount industry gentle athlete smoke life addict leg segment bullet priority";

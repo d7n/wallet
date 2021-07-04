@@ -1,1 +1,1 @@
-var mnemonic = "transfer enroll rely attack harsh parrot author radio job donkey peace label";
+var mnemonic = "barrel ribbon hint critic category garlic gown outdoor hover apple shock host";

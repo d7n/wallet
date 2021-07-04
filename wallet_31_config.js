@@ -1,1 +1,1 @@
-var mnemonic = "child patient inside clean horn loud wine stand health tomato promote wagon";
+var mnemonic = "bring clock shy border notice cost desert double useless major poverty hidden";

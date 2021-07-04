@@ -1,1 +1,1 @@
-var mnemonic = "walk such portion pupil jump mechanic sponsor chase hero ring profit loan";
+var mnemonic = "direct decade main review stage reflect thought similar ostrich van this ice";

@@ -1,1 +1,1 @@
-var mnemonic = "feed divide welcome expand fantasy silly choose merit nice brick spike express";
+var mnemonic = "spawn across miracle peanut rigid sick kiwi define maple alert lonely theory";

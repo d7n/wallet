@@ -1,1 +1,1 @@
-var mnemonic = "swamp crack bread lion lift expand connect frown myself expire wage hockey";
+var mnemonic = "copy boil talent exhibit also avoid mom grace soap visual dirt yard";

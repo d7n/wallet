@@ -1,1 +1,1 @@
-var mnemonic = "dash web album curious still inspire genre before under eagle wet gold";
+var mnemonic = "size fringe guilt magic shoe dismiss mom course girl fabric hello suit";

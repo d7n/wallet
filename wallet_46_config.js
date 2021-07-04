@@ -1,1 +1,1 @@
-var mnemonic = "guard planet air crash giant dad gaze supreme system ozone element powder";
+var mnemonic = "gaze coyote among police sadness harsh symptom wheel mixed during crush cluster";

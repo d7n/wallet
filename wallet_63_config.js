@@ -1,1 +1,1 @@
-var mnemonic = "trip nerve foot slice axis violin life danger fabric april snap wool";
+var mnemonic = "clinic notable maple glare resist athlete small youth random foil upon measure";

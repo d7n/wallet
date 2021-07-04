@@ -1,1 +1,1 @@
-var mnemonic = "shock coral eye sting funny young humble lazy despair phrase summer boring";
+var mnemonic = "omit candy second upgrade shrimp elder bone senior lamp lunar can inquiry";

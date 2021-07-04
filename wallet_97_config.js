@@ -1,1 +1,1 @@
-var mnemonic = "fold tone claim visit income prosper practice legal brief region cook idea";
+var mnemonic = "trial romance economy reform scan enhance armed build shadow actor gallery solve";

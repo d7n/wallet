@@ -1,1 +1,1 @@
-var mnemonic = "guard screen embody index glad robust divorce zero glow candy uniform arrow";
+var mnemonic = "ceiling carry moment stable annual round secret enlist park cotton frown able";

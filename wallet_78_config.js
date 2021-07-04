@@ -1,1 +1,1 @@
-var mnemonic = "session general cloth holiday bean alone husband appear horn return census table";
+var mnemonic = "ordinary palace roof champion talk treat clog couch harvest vivid spray flush";

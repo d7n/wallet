@@ -1,1 +1,1 @@
-var mnemonic = "violin dial wish live security embody action art gain soul aspect over";
+var mnemonic = "behind aisle neither sound dumb dash process arrest earn they north jar";

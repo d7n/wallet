@@ -1,1 +1,1 @@
-var mnemonic = "pluck source lucky latin nest hill stove chat protect ring police feel";
+var mnemonic = "toilet color tank isolate gasp between wheel sunset elbow away garden fat";

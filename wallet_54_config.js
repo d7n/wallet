@@ -1,1 +1,1 @@
-var mnemonic = "taste limb often awake short right such parrot female snow aim sword";
+var mnemonic = "found panel alcohol gather total thrive sentence twenty ginger stable recall south";

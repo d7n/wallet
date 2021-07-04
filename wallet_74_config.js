@@ -1,1 +1,1 @@
-var mnemonic = "oak floor year logic hover segment frozen tool assist profit fault reason";
+var mnemonic = "old raw steak envelope exact ignore obtain gather gather bunker april alone";

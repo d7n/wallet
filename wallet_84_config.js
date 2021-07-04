@@ -1,1 +1,1 @@
-var mnemonic = "assault indicate truly hat expire bulk public circle crop twenty claw tuna";
+var mnemonic = "write afraid creek awkward winner captain equip proof depart genre void obtain";
