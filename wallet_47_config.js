@@ -1,1 +1,1 @@
-var mnemonic = "put wrong diagram document ocean opinion dawn liar rocket ugly deputy coconut";
+var mnemonic = "basket chuckle flat love success warm plug fringe wisdom million together february";

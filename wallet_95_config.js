@@ -1,1 +1,1 @@
-var mnemonic = "clap lava will nest random order sing artwork furnace tiny minor visa";
+var mnemonic = "flush ritual canal orient relax frown invest lawsuit hold grow silver myth";

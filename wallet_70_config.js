@@ -1,1 +1,1 @@
-var mnemonic = "tent combine employ orbit oval obey about adapt grace draw slogan oppose";
+var mnemonic = "oblige angry plastic you child rail day indoor sock friend deal skirt";

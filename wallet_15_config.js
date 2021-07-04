@@ -1,1 +1,1 @@
-var mnemonic = "access jacket another sleep treat brown shove warfare muffin volcano lizard juice";
+var mnemonic = "lemon differ either awake design crouch swap jewel radio canoe notice piano";

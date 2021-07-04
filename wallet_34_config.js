@@ -1,1 +1,1 @@
-var mnemonic = "step elite plate cloud squirrel peasant wealth sick frozen dune concert stick";
+var mnemonic = "pluck future until dice sorry begin grow tone slender woman brick refuse";

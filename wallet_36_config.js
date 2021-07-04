@@ -1,1 +1,1 @@
-var mnemonic = "guess just service oxygen cruise garlic fall federal thumb coast light pill";
+var mnemonic = "trial setup jaguar recycle desert load topic adapt vicious program exclude series";

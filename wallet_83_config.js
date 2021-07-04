@@ -1,1 +1,1 @@
-var mnemonic = "belt endorse bargain exit amount grit virus dutch riot pencil merit beauty";
+var mnemonic = "supply near gain forward crunch other element antique wild armed castle mention";

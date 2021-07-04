@@ -1,1 +1,1 @@
-var mnemonic = "theme bread control fresh bag win assault image sell chat deer elephant";
+var mnemonic = "scrap peasant escape orient town blanket remove rescue annual kidney rural bar";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige correct infant salon dwarf sudden frame capital run strategy bid pigeon";
+var mnemonic = "calm soccer until amount breeze perfect ice position animal upon live boss";

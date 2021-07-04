@@ -1,1 +1,1 @@
-var mnemonic = "depart satoshi immense year asset ranch relax two loop suggest liquid hover";
+var mnemonic = "tell spare sustain outside humor sheriff wing salute finish cherry today retire";

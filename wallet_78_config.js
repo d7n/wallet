@@ -1,1 +1,1 @@
-var mnemonic = "wet crazy gap lady course purity quality day two rebel pet rule";
+var mnemonic = "prison battle actor aware often double submit stable dragon waste crunch hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "true differ wisdom solution ivory hazard capable loyal feature clump dress toy";
+var mnemonic = "ethics marriage sniff palm rocket hero crumble wait nerve sight assist butter";

@@ -1,1 +1,1 @@
-var mnemonic = "sister wheel scrap awkward divert actress report stadium void have sphere mystery";
+var mnemonic = "giant view horn gadget damp weird crawl arena shield skill melody morning";

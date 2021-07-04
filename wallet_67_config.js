@@ -1,1 +1,1 @@
-var mnemonic = "churn brain shrimp recall inner valley shock phone shaft feel this peace";
+var mnemonic = "weird resource liquid primary grid school garage lava craft task shiver achieve";

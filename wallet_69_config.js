@@ -1,1 +1,1 @@
-var mnemonic = "guide good differ bus field expand crime inform soon decrease neglect camp";
+var mnemonic = "eagle bus heavy fancy divorce island great sock lizard fuel uncover race";

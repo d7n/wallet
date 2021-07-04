@@ -1,1 +1,1 @@
-var mnemonic = "trial lion maid rely decorate urban auction verify gesture weird gospel catch";
+var mnemonic = "denial rose evolve guilt weapon order live glow exercise nerve open tuna";

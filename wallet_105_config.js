@@ -1,1 +1,1 @@
-var mnemonic = "weird cattle club shoe clinic frog purpose viable report access toe citizen";
+var mnemonic = "floor spoon bless raise unfold sweet desert danger village party tide attract";

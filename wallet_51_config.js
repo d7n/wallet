@@ -1,1 +1,1 @@
-var mnemonic = "marriage tenant warfare fog card funny mention accuse curtain shoulder cabin choose";
+var mnemonic = "rice frequent avocado train rapid used ignore salt scale broom job around";

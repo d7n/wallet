@@ -1,1 +1,1 @@
-var mnemonic = "burger order school quarter cart illegal swear climb crouch rocket hello off";
+var mnemonic = "soul face race walnut juice blanket idea frequent eager above fold grocery";

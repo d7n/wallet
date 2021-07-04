@@ -1,1 +1,1 @@
-var mnemonic = "harbor tell any accident season able vehicle style enough shallow exotic recall";
+var mnemonic = "service will prepare surround close plug brief quality give peasant ugly atom";

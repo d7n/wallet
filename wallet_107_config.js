@@ -1,1 +1,1 @@
-var mnemonic = "pen acid invite busy exhaust oil orphan road behind together honey equip";
+var mnemonic = "success width during hand rival science wing grid carbon speak face adult";

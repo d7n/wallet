@@ -1,1 +1,1 @@
-var mnemonic = "master train traffic report menu scene fire hungry ridge trip coconut blue";
+var mnemonic = "above detail impose turkey thing next there pair repair remove welcome million";

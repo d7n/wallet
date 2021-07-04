@@ -1,1 +1,1 @@
-var mnemonic = "sight wrist glove dirt remain sausage juice cool alcohol flavor seven soon";
+var mnemonic = "develop flock tiger arch during wing truth voice shallow before ridge trouble";

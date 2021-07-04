@@ -1,1 +1,1 @@
-var mnemonic = "woman oil cargo night must apart tennis simple hollow zoo earth urge";
+var mnemonic = "cliff oppose desk toy chimney doctor dignity napkin disorder where wisdom gesture";

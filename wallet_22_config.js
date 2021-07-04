@@ -1,1 +1,1 @@
-var mnemonic = "shuffle laugh gorilla life lawn remove enforce pledge sustain involve shuffle flock";
+var mnemonic = "hurdle item asthma able visa raw work tell fence original tiger maple";

@@ -1,1 +1,1 @@
-var mnemonic = "upper follow charge soap usage hotel soon actress day couch crawl hair";
+var mnemonic = "dignity utility congress fog reason endless rally air judge switch wolf jacket";

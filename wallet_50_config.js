@@ -1,1 +1,1 @@
-var mnemonic = "table review discover clock false dog share alone resist omit false then";
+var mnemonic = "panic field expand task speak hospital sand figure hotel cluster trend salad";

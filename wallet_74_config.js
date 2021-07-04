@@ -1,1 +1,1 @@
-var mnemonic = "embark dismiss despair agree neutral gravity army license urge wing item ensure";
+var mnemonic = "search define box already view engine blur blame paper vague social indoor";

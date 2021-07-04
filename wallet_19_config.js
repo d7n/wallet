@@ -1,1 +1,1 @@
-var mnemonic = "fresh reason donor sphere empty design absorb conduct chalk act escape warm";
+var mnemonic = "work wheat assault ecology carpet inherit cream fuel grunt vague mad wagon";

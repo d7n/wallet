@@ -1,1 +1,1 @@
-var mnemonic = "comfort negative cousin remember track tobacco tiny world enrich apology smile knock";
+var mnemonic = "stumble seed route jungle before apart game cake rally gasp unlock rich";

@@ -1,1 +1,1 @@
-var mnemonic = "around nest miracle broom end throw gadget cake income deposit brisk suggest";
+var mnemonic = "fame alert entire manual demand spread track air coyote upon prevent direct";

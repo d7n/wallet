@@ -1,1 +1,1 @@
-var mnemonic = "weird file noise chase album six prevent long lunch letter clap around";
+var mnemonic = "confirm damage shift shrug genius planet lab chicken glad hammer inhale infant";

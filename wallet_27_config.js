@@ -1,1 +1,1 @@
-var mnemonic = "burst guitar shift song finish entry viable leisure attack brisk multiply license";
+var mnemonic = "will total ten eagle urge pass impulse develop believe cross media smile";

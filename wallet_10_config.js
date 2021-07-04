@@ -1,1 +1,1 @@
-var mnemonic = "helmet quantum deny company meadow danger nasty pave afford hill salon crack";
+var mnemonic = "tortoise animal glow maid quality salon announce present flee outer disease muscle";

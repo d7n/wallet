@@ -1,1 +1,1 @@
-var mnemonic = "token bachelor region fan shop thought present debate strong record drop glory";
+var mnemonic = "weather damp pizza give bronze escape monitor behave drop connect animal absurd";

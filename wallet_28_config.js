@@ -1,1 +1,1 @@
-var mnemonic = "diary vocal praise awesome recipe join soon soul garden pipe ridge pen";
+var mnemonic = "hotel slow panther spot liar seminar hotel chief muffin nurse force interest";

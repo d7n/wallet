@@ -1,1 +1,1 @@
-var mnemonic = "powder icon cheese dust park coffee light combine barrel draw soccer flush";
+var mnemonic = "way lonely bachelor abstract dog milk odor gift income shed short monitor";

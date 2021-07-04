@@ -1,1 +1,1 @@
-var mnemonic = "base emerge average suspect category list verb leaf utility ready skin tip";
+var mnemonic = "combine apology loyal sure naive egg tumble fence keen jacket silent fever";

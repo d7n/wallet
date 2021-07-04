@@ -1,1 +1,1 @@
-var mnemonic = "envelope resource connect book live ozone much twice clog twenty tribe buffalo";
+var mnemonic = "swim lumber mirror expire plunge pelican stadium glove issue sense tonight volcano";

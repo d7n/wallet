@@ -1,1 +1,1 @@
-var mnemonic = "peace meat ecology alley bulk enhance fat join shove swear leisure stay";
+var mnemonic = "father custom deputy economy dress right advice axis sentence abuse wisdom buzz";

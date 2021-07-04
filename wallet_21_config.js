@@ -1,1 +1,1 @@
-var mnemonic = "hen crane enrich flock special essence clinic hunt faith achieve gadget reason";
+var mnemonic = "hole mask viable rifle afford inspire immune sun random myth bag invest";

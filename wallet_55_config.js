@@ -1,1 +1,1 @@
-var mnemonic = "burger curtain elbow siren reduce wet cross silly assist zoo genius suit";
+var mnemonic = "young prepare climb purity faint holiday front stem electric toddler scissors recipe";

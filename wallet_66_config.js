@@ -1,1 +1,1 @@
-var mnemonic = "bean cook dad swap survey name old remove ridge woman axis fork";
+var mnemonic = "crew useful sugar remain half midnight result nerve few stem cross kid";

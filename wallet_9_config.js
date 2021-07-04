@@ -1,1 +1,1 @@
-var mnemonic = "price lesson draw smart slide vault injury salmon require gaze present guide";
+var mnemonic = "gauge sadness dog rubber silly gym beef belt boil session acoustic knee";

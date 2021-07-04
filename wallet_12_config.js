@@ -1,1 +1,1 @@
-var mnemonic = "annual little swift circle habit stool vault menu want struggle arctic unfair";
+var mnemonic = "dog squeeze maze gesture news dance federal monkey satisfy choice stick music";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise bronze suggest aerobic payment find purity have sure hip success tube";
+var mnemonic = "stamp thunder debris stand club early approve rabbit under guide police trip";

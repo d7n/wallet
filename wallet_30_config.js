@@ -1,1 +1,1 @@
-var mnemonic = "travel small brush certain eternal chief account version element liquid child sample";
+var mnemonic = "document husband boat discover stool museum garment host attend broccoli erosion kit";

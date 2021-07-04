@@ -1,1 +1,1 @@
-var mnemonic = "luggage absent shell apology parent what bean present cry screen dinosaur labor";
+var mnemonic = "pull lion negative legal object east must copper notable main ramp spy";

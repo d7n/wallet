@@ -1,1 +1,1 @@
-var mnemonic = "fiber empower razor divorce express crane cool supreme hole toilet aisle random";
+var mnemonic = "joy snack expire vital camp sorry isolate woman twenty clump smart dizzy";

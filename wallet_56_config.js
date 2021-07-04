@@ -1,1 +1,1 @@
-var mnemonic = "sad arctic advance sense rather crumble cruel camp ivory stumble noodle merit";
+var mnemonic = "eternal mountain drama bench surge other menu type apology wealth security copy";

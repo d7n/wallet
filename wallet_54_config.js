@@ -1,1 +1,1 @@
-var mnemonic = "mutual horn sunny stadium gentle monkey jump scorpion visa design foil grape";
+var mnemonic = "rookie uphold diagram erase rough tube excite nest rocket panther address false";

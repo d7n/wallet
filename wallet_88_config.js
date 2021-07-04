@@ -1,1 +1,1 @@
-var mnemonic = "diagram tool hazard sentence despair aunt smile prize pelican victory skill news";
+var mnemonic = "frost misery leader phrase fall glow analyst odor estate submit come peanut";

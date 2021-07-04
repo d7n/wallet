@@ -1,1 +1,1 @@
-var mnemonic = "hollow else ride situate young divide thrive wing bunker green auto congress";
+var mnemonic = "wrong palace deer umbrella employ quick help remind exotic lunch giraffe fuel";

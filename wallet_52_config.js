@@ -1,1 +1,1 @@
-var mnemonic = "like razor liar connect cheese alpha crunch property grief dice eight measure";
+var mnemonic = "tilt pottery recycle damage embrace need puzzle body empty mail fever zoo";

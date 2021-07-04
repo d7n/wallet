@@ -1,1 +1,1 @@
-var mnemonic = "envelope life yellow fall away armor eternal athlete begin cart dinosaur rebel";
+var mnemonic = "eagle fox inform clean ahead feel base wing expose mom crunch pear";

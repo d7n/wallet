@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon office silk rather engine train fatal siege silk client tomato helmet";
+var mnemonic = "daring key sentence minute magic lake pistol library frame grab orient road";

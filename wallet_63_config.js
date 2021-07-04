@@ -1,1 +1,1 @@
-var mnemonic = "waste improve post north nurse swamp sibling pony interest concert tomorrow buyer";
+var mnemonic = "picnic empower spin mother daughter result almost report sentence sign ahead fatigue";

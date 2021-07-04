@@ -1,1 +1,1 @@
-var mnemonic = "virus normal lottery dirt whale art awake night library honey tree goat";
+var mnemonic = "hand rookie tissue dizzy invest cave various canal cabbage today turn tragic";

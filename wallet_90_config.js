@@ -1,1 +1,1 @@
-var mnemonic = "gown army worry pass gown time rookie knock pill outside ability august";
+var mnemonic = "room ready curious idea sunny dice team cushion science tattoo creek cotton";

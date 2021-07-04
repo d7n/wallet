@@ -1,1 +1,1 @@
-var mnemonic = "twice rather rail object denial stool blade yard post van eight earth";
+var mnemonic = "narrow capable van menu salute weasel expand camera spider question city width";

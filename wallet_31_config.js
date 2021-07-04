@@ -1,1 +1,1 @@
-var mnemonic = "possible purchase trick cherry zero cake ability observe taste clog wine face";
+var mnemonic = "stick online chapter office casino guess hockey shock walk staff whisper equip";

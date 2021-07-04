@@ -1,1 +1,1 @@
-var mnemonic = "follow garage shuffle first clarify network aspect expect proud cover join harbor";
+var mnemonic = "hip weird rude soup door usage family giraffe off fame drive hollow";

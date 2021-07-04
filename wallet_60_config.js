@@ -1,1 +1,1 @@
-var mnemonic = "bounce mosquito use gun train diagram build alter pave attract steak maze";
+var mnemonic = "couch glow bargain view wedding food enemy bamboo word judge bicycle acquire";

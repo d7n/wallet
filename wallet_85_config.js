@@ -1,1 +1,1 @@
-var mnemonic = "velvet ready strategy occur culture dog rich odor random cause spice broken";
+var mnemonic = "rebuild jacket grass midnight forum scan artefact round cry able visa rival";

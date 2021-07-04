@@ -1,1 +1,1 @@
-var mnemonic = "always rocket weird orchard develop program random pulse movie cube icon paper";
+var mnemonic = "file orange dish apart bind kitten scan frown gym pistol scorpion credit";

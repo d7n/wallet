@@ -1,1 +1,1 @@
-var mnemonic = "sausage enforce opinion jealous effort snack cradle nuclear company donkey glad pepper";
+var mnemonic = "minute spawn aunt comic before elegant myself erupt celery fuel three wave";

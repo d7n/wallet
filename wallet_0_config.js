@@ -1,1 +1,1 @@
-var mnemonic = "leave notable disorder level embark coconut mask unfair brown defense envelope increase";
+var mnemonic = "market cloth notice core suit mobile silk clip toast update inside gym";

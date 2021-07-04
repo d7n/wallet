@@ -1,1 +1,1 @@
-var mnemonic = "fringe husband elder eagle dune spin cute nest session stove electric episode";
+var mnemonic = "season federal chapter tone problem fly script used across gloom puppy easy";

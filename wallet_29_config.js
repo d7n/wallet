@@ -1,1 +1,1 @@
-var mnemonic = "leader control void inform cruel glow dwarf fitness rally drive slight empower";
+var mnemonic = "doll frequent brick habit dilemma vintage ladder vehicle wrist innocent sand confirm";

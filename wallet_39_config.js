@@ -1,1 +1,1 @@
-var mnemonic = "ugly trash mushroom juice noble merit fish toy control life picture anxiety";
+var mnemonic = "flavor soldier smart bean dumb topple gather true addict advance swim dizzy";

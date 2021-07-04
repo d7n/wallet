@@ -1,1 +1,1 @@
-var mnemonic = "give time material father scorpion mistake pelican soap summer involve write vital";
+var mnemonic = "bike crystal consider parrot ten derive business arctic rebuild salon practice want";

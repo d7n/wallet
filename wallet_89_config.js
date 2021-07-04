@@ -1,1 +1,1 @@
-var mnemonic = "romance age hour use economy exhaust present ugly iron apple loyal provide";
+var mnemonic = "fitness dismiss borrow text repeat ketchup film cram tribe high verb total";

@@ -1,1 +1,1 @@
-var mnemonic = "social jaguar nut height forget swarm embrace boost moment whip spider task";
+var mnemonic = "boy bus gown antenna legal amount camp sting duck fan wheel erode";

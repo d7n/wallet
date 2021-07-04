@@ -1,1 +1,1 @@
-var mnemonic = "fine cotton assault name arena reward sail remember mammal country quiz endless";
+var mnemonic = "rifle crazy gasp tank canvas display build duty visa tone zoo timber";

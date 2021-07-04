@@ -1,1 +1,1 @@
-var mnemonic = "buddy prevent admit salon praise broken sport crucial second sketch march door";
+var mnemonic = "mystery infant list soft first wrist february piece damp squeeze good allow";

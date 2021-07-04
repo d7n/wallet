@@ -1,1 +1,1 @@
-var mnemonic = "fortune predict artist recycle gravity merry index unaware deposit sausage list field";
+var mnemonic = "dad social drift depth lecture undo maximum worth essay into trap chaos";

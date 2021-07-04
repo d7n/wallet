@@ -1,1 +1,1 @@
-var mnemonic = "palm frozen lava enter spawn drink junior roast pudding pipe enroll arch";
+var mnemonic = "hawk tag pulse involve derive fun announce rookie nest laundry enlist eternal";

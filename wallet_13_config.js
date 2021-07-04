@@ -1,1 +1,1 @@
-var mnemonic = "market border battle verb bulk draw crouch exact vicious flower alert lamp";
+var mnemonic = "chapter material oven when donor note august general edge payment raw pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "blush syrup act hat assume panther come inhale alley atom bench real";
+var mnemonic = "lesson group issue number exercise bacon bleak pulse coral coin donate marine";

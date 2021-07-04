@@ -1,1 +1,1 @@
-var mnemonic = "element want tongue link differ strike library twenty clip park city exit";
+var mnemonic = "novel will rack sword suit describe since arctic damp service exhibit scare";

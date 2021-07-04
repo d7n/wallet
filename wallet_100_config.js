@@ -1,1 +1,1 @@
-var mnemonic = "hazard add replace bundle chaos below scrub crumble total episode east autumn";
+var mnemonic = "wage drip screen bench skate welcome floor review lizard fitness canvas noodle";

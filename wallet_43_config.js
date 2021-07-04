@@ -1,1 +1,1 @@
-var mnemonic = "equal repair napkin shell violin visual insane time club noble raise measure";
+var mnemonic = "cook arrow glimpse turkey peanut junior tiny top upper spider trip apology";

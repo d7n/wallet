@@ -1,1 +1,1 @@
-var mnemonic = "figure stand stable solve casual social jar small cereal talk say pool";
+var mnemonic = "yard upset portion unknown half figure robot hill arrive before cancel garden";

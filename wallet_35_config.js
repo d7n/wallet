@@ -1,1 +1,1 @@
-var mnemonic = "kit fun potato flush elder invest govern ocean kitten shock odor trick";
+var mnemonic = "inform sad sentence pig key bring enhance two merge obey exercise avoid";

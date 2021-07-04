@@ -1,1 +1,1 @@
-var mnemonic = "rocket gesture arch toilet body flash fork disagree sunset august bleak main";
+var mnemonic = "gown stage online trigger collect stomach fold hood cinnamon turkey intact reward";

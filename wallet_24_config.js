@@ -1,1 +1,1 @@
-var mnemonic = "then face deputy flight young cabin monster change open twelve same time";
+var mnemonic = "tragic use theme toddler miss grief local picture twenty bachelor twin vacuum";

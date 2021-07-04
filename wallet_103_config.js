@@ -1,1 +1,1 @@
-var mnemonic = "figure fire same inflict suffer private nasty rival prosper ramp limb era";
+var mnemonic = "easily involve exit vault rural engage taxi tuna song tragic viable robust";

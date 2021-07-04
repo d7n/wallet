@@ -1,1 +1,1 @@
-var mnemonic = "act first endless wire laptop soccer swear comfort mushroom motor ordinary upset";
+var mnemonic = "nation ordinary drop else spy face satoshi behind disorder illegal speed skin";
