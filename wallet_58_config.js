@@ -1,1 +1,1 @@
-var mnemonic = "mom glow absorb result better journey inspire best rebel earn number accident";
+var mnemonic = "edge gaze copy embark boring destroy quit soldier gauge order total property";

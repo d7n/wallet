@@ -1,1 +1,1 @@
-var mnemonic = "news blur consider income thank phone very pulp cricket alien human hawk";
+var mnemonic = "enable edge inherit rough enforce tool copy office lecture polar impact night";

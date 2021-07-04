@@ -1,1 +1,1 @@
-var mnemonic = "legend antenna fetch whip famous lonely blade various unable boat own wrestle";
+var mnemonic = "asthma summer evil edit wool angle genuine lady film bamboo work item";

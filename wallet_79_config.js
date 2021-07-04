@@ -1,1 +1,1 @@
-var mnemonic = "buffalo acid lend denial easy among exile like liquid quarter call super";
+var mnemonic = "almost suffer emerge harbor dad require kid puppy slender unfair arrow picture";

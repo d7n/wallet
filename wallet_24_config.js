@@ -1,1 +1,1 @@
-var mnemonic = "horse coral disorder reward average nurse actress fashion arm despair document law";
+var mnemonic = "key gather eye armed clown zero update control like clarify during fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen bar mother thunder picture fringe amazing copper snack then autumn seek";
+var mnemonic = "clarify unlock flip mimic upper ready unusual submit silk track humor fan";

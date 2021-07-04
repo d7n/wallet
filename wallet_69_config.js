@@ -1,1 +1,1 @@
-var mnemonic = "planet social worth resource credit milk expire bacon juice tool clarify orphan";
+var mnemonic = "fortune strong hole village alarm language antique mix blush spike coin deny";

@@ -1,1 +1,1 @@
-var mnemonic = "there syrup task animal alarm rotate general urban tag clay save wing";
+var mnemonic = "coffee wheat hurry fish segment nurse bulb opinion unable clap debate basket";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy silver time deposit brother range pony green enter asset cool transfer";
+var mnemonic = "arrest spray drill airport rookie pottery vote supply bone cement club north";

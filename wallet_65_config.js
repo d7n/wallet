@@ -1,1 +1,1 @@
-var mnemonic = "outside setup squeeze mixed horse romance cream rival gentle struggle rude strong";
+var mnemonic = "verb frost soda list soft mix opinion voyage coin require fly credit";

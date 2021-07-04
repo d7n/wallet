@@ -1,1 +1,1 @@
-var mnemonic = "author flavor ladder general combine diesel hockey swallow bag inch flag velvet";
+var mnemonic = "cream require indicate host manage age web surprise differ other hope sugar";

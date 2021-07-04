@@ -1,1 +1,1 @@
-var mnemonic = "dutch crane economy course journey decrease horror little vintage sea concert oval";
+var mnemonic = "dry kiwi crouch like program police mother apple dune future first sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "noble identify reason left surround march life belt kiss please account rebuild";
+var mnemonic = "poem ridge learn spot oblige reunion fitness gentle success habit choose govern";

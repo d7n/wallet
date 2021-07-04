@@ -1,1 +1,1 @@
-var mnemonic = "silly riot need humble pull say stock barely boss essence magic wage";
+var mnemonic = "carbon spice cube object crystal dinner oblige record noodle surprise asthma swarm";

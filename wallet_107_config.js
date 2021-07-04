@@ -1,1 +1,1 @@
-var mnemonic = "eight oyster correct empty office midnight outdoor current own turkey discover ripple";
+var mnemonic = "velvet treat rich volume scan dish second jewel unit sell glow second";

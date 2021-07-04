@@ -1,1 +1,1 @@
-var mnemonic = "flight goddess spray shiver genre auction way gravity switch cluster document laundry";
+var mnemonic = "sword clump banana garment kind arena regret burden ice aerobic example issue";

@@ -1,1 +1,1 @@
-var mnemonic = "matter net table clarify pistol forum thought evolve smooth picture humble end";
+var mnemonic = "category knock vehicle dolphin manage ecology green ceiling tornado fortune unfold scale";

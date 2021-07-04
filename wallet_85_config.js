@@ -1,1 +1,1 @@
-var mnemonic = "frequent ivory state hybrid silent kite accuse festival blush frequent swift armed";
+var mnemonic = "ski insane credit museum enter kangaroo umbrella whip test surround siege afford";

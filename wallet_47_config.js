@@ -1,1 +1,1 @@
-var mnemonic = "sustain rough inquiry panda vacant game sponsor eyebrow lunar bachelor ten trumpet";
+var mnemonic = "rib affair region fossil armed coffee exile diagram entry normal bamboo helmet";

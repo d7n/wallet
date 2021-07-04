@@ -1,1 +1,1 @@
-var mnemonic = "talk salute increase throw kick caution educate bounce ring unable lesson modify";
+var mnemonic = "speed fit same rebel satisfy jelly okay culture brain wet estate ceiling";

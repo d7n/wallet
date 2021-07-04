@@ -1,1 +1,1 @@
-var mnemonic = "solve minor away process bind kick surprise large buzz high spirit start";
+var mnemonic = "year army swear snake brush ramp hero vote embark detail faint crack";

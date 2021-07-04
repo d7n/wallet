@@ -1,1 +1,1 @@
-var mnemonic = "spike shaft season crane oval cactus fury bleak genuine talk endorse lesson";
+var mnemonic = "heart insane shell safe sand junk toilet pistol dance deny exercise girl";

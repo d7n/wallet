@@ -1,1 +1,1 @@
-var mnemonic = "wall spatial loud laptop tiny long divert timber pair poverty barrel dial";
+var mnemonic = "neutral urge oak wolf win aim rare door core help word type";

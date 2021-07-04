@@ -1,1 +1,1 @@
-var mnemonic = "alone dune error road umbrella detail usage gossip clutch piece super ask";
+var mnemonic = "pencil option document ring copy nominee digital cabin face open fluid trick";

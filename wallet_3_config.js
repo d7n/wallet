@@ -1,1 +1,1 @@
-var mnemonic = "achieve flock gravity actress satisfy eagle gun secret wire right embark stuff";
+var mnemonic = "method donor another pioneer firm filter solution practice luggage home stomach civil";

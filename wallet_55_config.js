@@ -1,1 +1,1 @@
-var mnemonic = "library split banana joy again horror pluck voyage staff planet enforce during";
+var mnemonic = "rival excite frog tired exercise naive soap diamond mail hazard unable safe";

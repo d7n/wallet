@@ -1,1 +1,1 @@
-var mnemonic = "easily ginger method hat exact portion drift rule vital correct trip reject";
+var mnemonic = "need license boat slogan drive mountain avoid series book beach screen hip";

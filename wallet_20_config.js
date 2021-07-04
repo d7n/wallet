@@ -1,1 +1,1 @@
-var mnemonic = "evolve swim auto farm palm mountain traffic team another dirt alert garlic";
+var mnemonic = "device devote course episode february narrow weapon reunion polar river bomb lawsuit";

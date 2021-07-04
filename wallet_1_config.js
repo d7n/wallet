@@ -1,1 +1,1 @@
-var mnemonic = "harvest embrace pipe salt file honey close ozone theme thumb material sentence";
+var mnemonic = "exhibit need deposit achieve iron rich fork play want curtain rack chicken";

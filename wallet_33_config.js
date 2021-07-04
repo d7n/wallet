@@ -1,1 +1,1 @@
-var mnemonic = "belt fork cost win minute pluck harvest remind pulse chuckle episode yard";
+var mnemonic = "purse merit model initial enrich injury trade crash fork sketch board undo";

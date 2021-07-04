@@ -1,1 +1,1 @@
-var mnemonic = "between upper crowd wheat life again miracle garment gate universe student object";
+var mnemonic = "resource someone height broom float mechanic romance lab mom canyon zero heavy";

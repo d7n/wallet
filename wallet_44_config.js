@@ -1,1 +1,1 @@
-var mnemonic = "convince style salad word seminar base crisp clock hospital fork stamp spawn";
+var mnemonic = "magnet arrow scout shock cousin almost slice swamp sauce nominee warrior wheel";

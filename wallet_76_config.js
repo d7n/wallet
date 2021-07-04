@@ -1,1 +1,1 @@
-var mnemonic = "taste safe orange dance flavor use radio fatigue later stairs equip lonely";
+var mnemonic = "wise junior tumble scrap distance daring water coyote renew glare genre avocado";

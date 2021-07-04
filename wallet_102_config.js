@@ -1,1 +1,1 @@
-var mnemonic = "sauce notable slight wash tattoo minimum glove wave age number buzz custom";
+var mnemonic = "wise armor student scare august similar skirt execute glance elder slender check";

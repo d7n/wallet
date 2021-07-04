@@ -1,1 +1,1 @@
-var mnemonic = "mass shop gold student appear during bless margin athlete license struggle athlete";
+var mnemonic = "oak ceiling recycle romance toss steel kitchen joy emerge route address evidence";

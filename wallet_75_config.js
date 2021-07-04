@@ -1,1 +1,1 @@
-var mnemonic = "pencil fog square want this cricket bundle bomb merry chicken debate ten";
+var mnemonic = "peanut giant nominee scorpion daring say throw magnet wash stick easily window";

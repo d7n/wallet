@@ -1,1 +1,1 @@
-var mnemonic = "wedding cost dragon multiply panther analyst kingdom coffee display soft disease mixed";
+var mnemonic = "trash lecture coffee general frost flame note rally fly gospel crucial diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "width couple guitar travel trial walk heart good crunch whisper hobby matrix";
+var mnemonic = "display shuffle bomb song mom carbon buddy special blur latin planet fragile";

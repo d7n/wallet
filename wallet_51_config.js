@@ -1,1 +1,1 @@
-var mnemonic = "supreme ice lock achieve chest cherry eternal swarm duck barrel ladder envelope";
+var mnemonic = "dizzy muscle define flavor almost suspect bid trick soccer ribbon sustain quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "merry swarm arrest cat orchard truth must forget size flight wet jewel";
+var mnemonic = "display animal either bleak coyote wagon gospel pen physical trial grass select";

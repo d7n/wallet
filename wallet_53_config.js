@@ -1,1 +1,1 @@
-var mnemonic = "afraid valley veteran hammer lawsuit toilet deliver decline useless expect protect hybrid";
+var mnemonic = "keep funny cushion wife advice assault child apology mercy pupil gossip convince";

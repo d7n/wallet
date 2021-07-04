@@ -1,1 +1,1 @@
-var mnemonic = "host general pave mutual twelve six outside bulk ramp depth brick boil";
+var mnemonic = "town cable throw bargain bike below behave since street slab visa bullet";

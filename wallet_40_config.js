@@ -1,1 +1,1 @@
-var mnemonic = "vendor rotate three dignity sheriff hello domain misery north fragile salad slender";
+var mnemonic = "company indicate they group tunnel lemon head select squirrel accuse assault submit";

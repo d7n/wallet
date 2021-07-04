@@ -1,1 +1,1 @@
-var mnemonic = "smooth scan neglect glory purchase predict buyer lady ridge gauge chief wonder";
+var mnemonic = "genre clinic improve surprise mass script inject outer tool warm behind resource";

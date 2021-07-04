@@ -1,1 +1,1 @@
-var mnemonic = "rent provide proof basic fire way mind sample sheriff transfer derive usage";
+var mnemonic = "comic goddess lion topple slogan because cycle pair riot desk lock charge";

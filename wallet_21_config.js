@@ -1,1 +1,1 @@
-var mnemonic = "major sustain ability jar peanut flame asthma type host hobby summer gas";
+var mnemonic = "speed rail prison yard session human start mimic relax saddle blossom jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm october flat gun famous lawn captain royal know process tree what";
+var mnemonic = "direct fix odor spin spatial buffalo country portion scatter nephew luggage mechanic";

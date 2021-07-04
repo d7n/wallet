@@ -1,1 +1,1 @@
-var mnemonic = "wait secret tower invite drift armor recipe worth make pave venue jeans";
+var mnemonic = "oxygen cousin gift young true item rhythm average brass range priority derive";

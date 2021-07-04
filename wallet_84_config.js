@@ -1,1 +1,1 @@
-var mnemonic = "churn bench ostrich hammer rough glue paddle young shed organ old twenty";
+var mnemonic = "grit essence way outside metal ugly then labor people buffalo edit deer";

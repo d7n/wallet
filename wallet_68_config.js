@@ -1,1 +1,1 @@
-var mnemonic = "negative polar need room leg nation alert must february round govern card";
+var mnemonic = "shoe pen whisper own derive question ankle claw drip release zebra flock";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm chief divorce light pudding rescue document aunt series joke witness language";
+var mnemonic = "there section enjoy mixture food reject develop primary board image critic detect";

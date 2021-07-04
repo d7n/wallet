@@ -1,1 +1,1 @@
-var mnemonic = "arrest permit car trend grass blur betray exact milk approve tooth knock";
+var mnemonic = "photo clap art renew situate either earn truth cube absurd sponsor chaos";

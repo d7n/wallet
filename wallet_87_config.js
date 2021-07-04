@@ -1,1 +1,1 @@
-var mnemonic = "rally section typical smoke chuckle message poem avoid split early sugar bubble";
+var mnemonic = "hold foot taste polar bless express enable inner meadow drama tree middle";

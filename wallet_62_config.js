@@ -1,1 +1,1 @@
-var mnemonic = "search gaze drink sea siege pink fence twenty sample evoke hover noble";
+var mnemonic = "auto heart thunder just humor runway denial dash dizzy wrestle eye erase";

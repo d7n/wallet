@@ -1,1 +1,1 @@
-var mnemonic = "position when stadium tattoo faith master inherit release plastic case assault light";
+var mnemonic = "chat item current depth uniform stairs zebra unique bulk surge much estate";

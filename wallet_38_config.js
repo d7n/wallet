@@ -1,1 +1,1 @@
-var mnemonic = "purpose salt affair drop employ spice horn celery derive file resemble include";
+var mnemonic = "marble excuse salt energy scout wealth aisle alcohol teach ankle bronze timber";

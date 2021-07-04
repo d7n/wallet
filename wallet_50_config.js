@@ -1,1 +1,1 @@
-var mnemonic = "nose three airport impulse super clinic noodle heart review depend guide version";
+var mnemonic = "deputy crop shy cool net pudding estate water pass reform oil reason";

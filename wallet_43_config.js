@@ -1,1 +1,1 @@
-var mnemonic = "burst isolate calm mansion spray raw salmon science tail vocal grow now";
+var mnemonic = "plug chief age often skate dress phone tent thought crumble opinion casual";

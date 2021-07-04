@@ -1,1 +1,1 @@
-var mnemonic = "model swim mushroom pepper junior belt plastic bounce can wrong excite exist";
+var mnemonic = "ball tennis result adjust toy cannon surge destroy grain shrimp repeat enroll";

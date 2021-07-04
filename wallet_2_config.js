@@ -1,1 +1,1 @@
-var mnemonic = "wall act square awake rigid phrase hover top dynamic thank slam tag";
+var mnemonic = "frame cabin plate doctor solution friend major cinnamon ritual panda peanut arch";

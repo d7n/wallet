@@ -1,1 +1,1 @@
-var mnemonic = "radar thank answer divorce bright dry aim robust skill blanket adapt logic";
+var mnemonic = "pilot scrub chair online mosquito much area expire fever degree vicious weasel";

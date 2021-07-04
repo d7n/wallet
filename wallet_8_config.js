@@ -1,1 +1,1 @@
-var mnemonic = "broom lemon spoon imitate rocket canvas length six occur express pink journey";
+var mnemonic = "actor game anxiety team cruise fragile vacuum sad twin address twice fiber";

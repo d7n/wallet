@@ -1,1 +1,1 @@
-var mnemonic = "olive audit final apology swamp entire coast notable grid sheriff fortune glove";
+var mnemonic = "repair frozen blue orange defy series effort detect tennis rail sound barely";

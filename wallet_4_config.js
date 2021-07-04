@@ -1,1 +1,1 @@
-var mnemonic = "tomato nature assume avoid hollow wisdom pony caught flee lens thrive grab";
+var mnemonic = "desert lonely unlock dumb lunch clarify spot inmate tooth moment adapt miss";

@@ -1,1 +1,1 @@
-var mnemonic = "eight hawk owner else monkey metal wise invite add index pause pumpkin";
+var mnemonic = "water bullet solar decorate crop resource receive ridge shield rich wage toward";

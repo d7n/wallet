@@ -1,1 +1,1 @@
-var mnemonic = "include ozone cloth brush question film mimic gym reduce utility umbrella chief";
+var mnemonic = "victory chunk erosion expand ring hawk trial dwarf obtain turkey trim blush";

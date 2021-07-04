@@ -1,1 +1,1 @@
-var mnemonic = "fiction jump reject wrestle fabric prison dismiss artwork hunt dutch flight flower";
+var mnemonic = "elegant staff rose mass crew desk void zone guilt jealous harbor nose";

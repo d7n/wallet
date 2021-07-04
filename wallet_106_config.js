@@ -1,1 +1,1 @@
-var mnemonic = "camera concert street inner hammer left return goat dragon story recipe rich";
+var mnemonic = "spike mind leisure tuition dentist drop drill rule cheap cool alcohol series";

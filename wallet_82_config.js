@@ -1,1 +1,1 @@
-var mnemonic = "innocent addict bone foot loan fee torch inhale slow essay furnace glow";
+var mnemonic = "rabbit champion canyon flock dirt yard stone merge topple surge test monster";

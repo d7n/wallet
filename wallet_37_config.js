@@ -1,1 +1,1 @@
-var mnemonic = "hungry nose jealous fossil various walnut bulk stairs safe weekend service lock";
+var mnemonic = "assault circle similar enforce police dish boy idea cloth embrace ranch aim";

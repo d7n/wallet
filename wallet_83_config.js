@@ -1,1 +1,1 @@
-var mnemonic = "desert brief tape nasty phone track turkey convince rebel region live cloud";
+var mnemonic = "position force desert mandate argue stand jeans dress merry magic stairs foot";

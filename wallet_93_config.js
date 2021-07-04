@@ -1,1 +1,1 @@
-var mnemonic = "torch fan slam virus fun another rib curious arm clip mule silly";
+var mnemonic = "design fatal clay post meat best cash actual tourist reunion pear era";

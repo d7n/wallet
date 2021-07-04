@@ -1,1 +1,1 @@
-var mnemonic = "frame loan stumble invite casino mesh salt mercy impulse require stumble either";
+var mnemonic = "shoe clown giraffe bridge private kite usual useful sight blush arrive chef";

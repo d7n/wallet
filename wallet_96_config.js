@@ -1,1 +1,1 @@
-var mnemonic = "clerk grape motor message fury dream together idea coconut opinion convince ship";
+var mnemonic = "rigid logic wage worry fiber summer approve tragic sunset stumble hotel situate";

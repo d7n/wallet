@@ -1,1 +1,1 @@
-var mnemonic = "language office timber piece climb client awesome morning damage right inner wasp";
+var mnemonic = "castle boring zero absorb attack uncle tonight shoulder now robust joke bubble";

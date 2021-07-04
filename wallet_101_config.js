@@ -1,1 +1,1 @@
-var mnemonic = "fault survey dinner boat slim veteran monitor emotion wall sick tail young";
+var mnemonic = "budget museum devote enough tribe shed vendor fossil culture chicken cross clay";

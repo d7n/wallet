@@ -1,1 +1,1 @@
-var mnemonic = "mandate holiday shrug width torch film impulse permit nut eagle gather total";
+var mnemonic = "provide hazard suggest course month found peace prepare embrace system front grit";

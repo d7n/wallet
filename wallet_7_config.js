@@ -1,1 +1,1 @@
-var mnemonic = "social lamp verb divorce volume neglect joy parade scheme height must snack";
+var mnemonic = "combine bargain borrow blind subject illegal spell obvious blur absorb chuckle opinion";

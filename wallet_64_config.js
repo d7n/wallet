@@ -1,1 +1,1 @@
-var mnemonic = "universe laugh collect scheme nature inflict glad appear symptom atom veteran fame";
+var mnemonic = "almost beef blanket race couple strike victory clock judge people protect nerve";

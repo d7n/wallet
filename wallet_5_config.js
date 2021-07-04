@@ -1,1 +1,1 @@
-var mnemonic = "mimic climb joy piece main find arctic unfold music obscure model ladder";
+var mnemonic = "harsh antique bubble chat route else column minute weekend federal pear today";

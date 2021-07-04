@@ -1,1 +1,1 @@
-var mnemonic = "bread dove seven damage ecology crouch position action confirm ordinary vote pulse";
+var mnemonic = "wing course boil ridge rose damp armor tooth merge call hungry assault";

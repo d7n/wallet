@@ -1,1 +1,1 @@
-var mnemonic = "hint boost cat canyon group captain nest behind interest aspect fan grape";
+var mnemonic = "always person wrap south sad ribbon chef next couple accident lawsuit resemble";

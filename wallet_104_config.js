@@ -1,1 +1,1 @@
-var mnemonic = "act admit alien giraffe client great sponsor crouch eyebrow exclude tide soon";
+var mnemonic = "casino hawk police swing pledge stem olive onion lava toddler excuse clever";

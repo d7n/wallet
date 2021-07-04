@@ -1,1 +1,1 @@
-var mnemonic = "decline comic pulse cute mixture false heavy ice defy wet hard regular";
+var mnemonic = "raise heart biology imitate below ramp inhale verb save hair educate push";

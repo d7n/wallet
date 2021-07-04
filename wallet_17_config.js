@@ -1,1 +1,1 @@
-var mnemonic = "child farm dose earn club gather then grief then neither denial design";
+var mnemonic = "demand crumble abstract shrug attitude rack hope green multiply muffin picture sense";

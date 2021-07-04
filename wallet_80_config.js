@@ -1,1 +1,1 @@
-var mnemonic = "aerobic issue punch because consider vendor expand tool hood ring fortune affair";
+var mnemonic = "fancy help pupil comfort lonely force jelly obvious myself furnace congress join";

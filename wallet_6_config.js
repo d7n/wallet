@@ -1,1 +1,1 @@
-var mnemonic = "park volcano dinosaur zone cigar lock under oval pelican already idea begin";
+var mnemonic = "bubble toward ski fame lyrics start ethics ankle deliver squeeze hamster wonder";

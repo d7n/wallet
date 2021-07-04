@@ -1,1 +1,1 @@
-var mnemonic = "senior idea fetch auction ritual country range area crane judge evoke bulb";
+var mnemonic = "track tuna august inspire narrow fuel sibling heart bamboo rocket segment require";

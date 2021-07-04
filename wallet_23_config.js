@@ -1,1 +1,1 @@
-var mnemonic = "empower okay kiss toddler whisper what early gain crunch slot laugh produce";
+var mnemonic = "frame assist because duty tilt theme wrist galaxy connect usage still orange";

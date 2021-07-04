@@ -1,1 +1,1 @@
-var mnemonic = "spend also betray purchase rate display educate manage elbow song border fatal";
+var mnemonic = "grid actual clay design orphan series space faint pill genuine crack bachelor";

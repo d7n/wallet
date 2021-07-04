@@ -1,1 +1,1 @@
-var mnemonic = "survey upgrade humble game limb filter round organ corn volume barrel first";
+var mnemonic = "consider desk space snack unique enhance spoil town soccer mobile chicken way";

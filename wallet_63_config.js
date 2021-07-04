@@ -1,1 +1,1 @@
-var mnemonic = "hybrid group album hospital fork purse insect icon industry length path panic";
+var mnemonic = "coral village sketch angry hand mansion proud neutral nest blanket retire pear";

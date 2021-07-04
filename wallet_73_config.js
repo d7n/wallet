@@ -1,1 +1,1 @@
-var mnemonic = "motor emotion disagree whale bar shop meat faith letter speed life spread";
+var mnemonic = "liberty lend high chest beyond drill ginger jeans purity shaft damp leader";

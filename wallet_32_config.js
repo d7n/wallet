@@ -1,1 +1,1 @@
-var mnemonic = "two nice trigger flight pave six avocado tennis truck average hammer anger";
+var mnemonic = "grid century naive file despair eight anxiety ozone entry decide edit bounce";

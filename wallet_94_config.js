@@ -1,1 +1,1 @@
-var mnemonic = "coral tiny junk whisper anxiety royal notice voice leg curious bind brother";
+var mnemonic = "three nose fox shell glimpse soda double royal dog feel mutual swift";
