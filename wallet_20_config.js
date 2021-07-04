@@ -1,1 +1,1 @@
-var mnemonic = "teach mobile payment identify quote debate appear deliver home airport stamp doll";
+var mnemonic = "believe law purity lottery ceiling upset brown change satisfy broom segment garbage";

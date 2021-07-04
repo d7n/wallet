@@ -1,1 +1,1 @@
-var mnemonic = "mix guard door reject army napkin athlete unlock office junior thrive antique";
+var mnemonic = "renew half tomorrow feature man book spin venture put split rack result";

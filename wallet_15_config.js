@@ -1,1 +1,1 @@
-var mnemonic = "host stay keep camera giant model change maze youth walk faculty tooth";
+var mnemonic = "cloud middle smoke copper duck garage toilet other jaguar such cat craft";

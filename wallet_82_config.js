@@ -1,1 +1,1 @@
-var mnemonic = "pause dial magnet marriage sun nothing organ patch faith boy venture wink";
+var mnemonic = "village whip aware script unaware route alter winter agent item fuel oxygen";

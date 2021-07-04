@@ -1,1 +1,1 @@
-var mnemonic = "usage goat mirror fabric frozen bind unhappy orchard expire march ramp melt";
+var mnemonic = "boat crime meat clown call addict december topic gaze relief foil help";

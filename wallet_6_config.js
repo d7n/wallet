@@ -1,1 +1,1 @@
-var mnemonic = "nuclear tower year depth room wheel under earn law stairs carpet risk";
+var mnemonic = "early industry hamster surround fat project immune direct brief level asset repair";

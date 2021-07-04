@@ -1,1 +1,1 @@
-var mnemonic = "problem million foil merry siege into shine mango hood cloud beauty million";
+var mnemonic = "comic amateur relief eyebrow ask entire gravity height jeans screen genius giant";

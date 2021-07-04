@@ -1,1 +1,1 @@
-var mnemonic = "climb world nominee joy cinnamon lock civil quick what horror fan potato";
+var mnemonic = "weekend image produce rose valid act remind fetch supreme voyage wash crawl";

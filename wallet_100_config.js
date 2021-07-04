@@ -1,1 +1,1 @@
-var mnemonic = "short noodle dice foil rebel combine blush slim swim garden net relief";
+var mnemonic = "dolphin snack fantasy power become original fee manual success reject myself sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "payment saddle patrol useful filter wreck around rug pelican wine chimney useful";
+var mnemonic = "come giggle syrup file direct useful raven awkward steel sample scheme photo";

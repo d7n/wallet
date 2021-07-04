@@ -1,1 +1,1 @@
-var mnemonic = "shiver marine frown hundred insect brisk thought task book symptom pupil vessel";
+var mnemonic = "baby theory unusual exchange stereo amused siege beauty agent brother hockey cousin";

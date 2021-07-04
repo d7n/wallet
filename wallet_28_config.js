@@ -1,1 +1,1 @@
-var mnemonic = "rabbit crunch kangaroo wrestle warfare traffic client hover board market major nut";
+var mnemonic = "goddess denial pyramid drop inherit truth loan bright senior physical measure dry";

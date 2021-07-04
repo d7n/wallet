@@ -1,1 +1,1 @@
-var mnemonic = "pelican dirt hidden snake drama siege rural march wide elite shaft timber";
+var mnemonic = "virtual ask romance minimum theory review embrace measure exile depart mass crucial";

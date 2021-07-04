@@ -1,1 +1,1 @@
-var mnemonic = "deputy thing battle cruel gun execute fury absurd south hub universe zone";
+var mnemonic = "protect keep spring item plate actual scrub visa spray quantum denial drama";

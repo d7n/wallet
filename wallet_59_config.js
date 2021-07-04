@@ -1,1 +1,1 @@
-var mnemonic = "arrow enhance crucial wrestle laundry solve wife fabric april flee intact future";
+var mnemonic = "phone keep toward stereo aspect hungry define prefer drama curve soft add";

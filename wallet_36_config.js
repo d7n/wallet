@@ -1,1 +1,1 @@
-var mnemonic = "confirm lab surprise adult produce battle dynamic slender unhappy unfold myself toward";
+var mnemonic = "pioneer wait make power trade volcano inside cinnamon stable exhibit copy develop";

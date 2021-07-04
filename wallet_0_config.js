@@ -1,1 +1,1 @@
-var mnemonic = "arena cannon submit submit chunk ring muffin snow roast peasant truly budget";
+var mnemonic = "tray helmet youth bean achieve situate sniff educate monitor crop exchange island";

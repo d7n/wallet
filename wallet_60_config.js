@@ -1,1 +1,1 @@
-var mnemonic = "march vast jewel ill fringe deliver lonely faith fury hospital cradle tongue";
+var mnemonic = "leaf solution lion test patch hen donate around hint struggle approve type";

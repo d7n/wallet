@@ -1,1 +1,1 @@
-var mnemonic = "miss grocery cram violin catalog nation abstract pudding flock build odor peasant";
+var mnemonic = "announce plastic saddle join better entry card invite carry skate stick message";

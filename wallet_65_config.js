@@ -1,1 +1,1 @@
-var mnemonic = "gospel permit shoe myself dragon write embody spike deliver series student giant";
+var mnemonic = "cargo forest hill faith amused burst bag nature warfare member brush book";

@@ -1,1 +1,1 @@
-var mnemonic = "crime harbor brave way pencil yellow test interest century figure expect kind";
+var mnemonic = "legal vintage vapor shoe lend apart gap real concert dice oven project";

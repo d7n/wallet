@@ -1,1 +1,1 @@
-var mnemonic = "stool save arrange deposit scan van wall rain jaguar fatigue notice spray";
+var mnemonic = "acoustic girl miss bag cattle distance divorce saddle dwarf token network destroy";

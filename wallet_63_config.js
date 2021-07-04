@@ -1,1 +1,1 @@
-var mnemonic = "test engine ancient father industry mixed height cave column lift pitch train";
+var mnemonic = "comic genre goddess maid silly job say fish mushroom gun surge picture";

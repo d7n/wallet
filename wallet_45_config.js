@@ -1,1 +1,1 @@
-var mnemonic = "cliff surprise praise twin comfort subway assault puzzle nasty blade sea cotton";
+var mnemonic = "level symptom borrow federal throw fold final chef option chicken current offer";

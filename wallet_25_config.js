@@ -1,1 +1,1 @@
-var mnemonic = "exclude spare casino point loan raise clock shift tumble allow decrease grief";
+var mnemonic = "wood exit capable throw book mushroom life heavy bike range glide spike";

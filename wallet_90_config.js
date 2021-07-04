@@ -1,1 +1,1 @@
-var mnemonic = "gold pigeon fashion swap crumble few acoustic range lava security security member";
+var mnemonic = "gospel report piano topple fitness draw message swear priority survey text regret";

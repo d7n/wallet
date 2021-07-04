@@ -1,1 +1,1 @@
-var mnemonic = "excite pull morning vessel awkward romance damage actual hamster tennis theory deny";
+var mnemonic = "alone opera coach casual rotate boring wheel velvet icon unfair marble tail";

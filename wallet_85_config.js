@@ -1,1 +1,1 @@
-var mnemonic = "say crisp salt try alone valve sight tube spatial clever mouse taxi";
+var mnemonic = "unable guard bomb rapid draw beauty hire labor version shadow boost blush";

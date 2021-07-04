@@ -1,1 +1,1 @@
-var mnemonic = "grid shoulder brush again tank lemon control awkward ride glue place term";
+var mnemonic = "garlic maze weird erupt language cage erupt rough radar pottery proof gaze";

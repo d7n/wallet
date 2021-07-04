@@ -1,1 +1,1 @@
-var mnemonic = "punch voyage scare olive transfer fade oak winner squeeze forward mind episode";
+var mnemonic = "hour affair accident dose boost kidney urban tragic unveil rocket museum jar";

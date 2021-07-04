@@ -1,1 +1,1 @@
-var mnemonic = "input deputy december pair little cattle march drive fiction agent breeze trumpet";
+var mnemonic = "deal dry fire aspect absurd east birth news hurry morning cousin spice";

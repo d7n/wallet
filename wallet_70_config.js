@@ -1,1 +1,1 @@
-var mnemonic = "length vital blood edit extra private earth across whip boat gate obey";
+var mnemonic = "tide season screen element bacon dirt spread front nice income nuclear grid";

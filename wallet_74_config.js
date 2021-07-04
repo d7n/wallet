@@ -1,1 +1,1 @@
-var mnemonic = "topic nose broken brief damage material such style edit consider broccoli hen";
+var mnemonic = "inside oil feed journey pledge album deny flat script grit hockey crane";

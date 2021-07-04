@@ -1,1 +1,1 @@
-var mnemonic = "sting nice fork visa say decide school around series hello grunt issue";
+var mnemonic = "nephew hat learn praise defy negative achieve friend ahead fortune suspect uphold";

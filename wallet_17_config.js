@@ -1,1 +1,1 @@
-var mnemonic = "accuse problem purpose curve current process odor verify churn sleep trade repair";
+var mnemonic = "boy clay try crane beauty profit razor gain humor zone census audit";

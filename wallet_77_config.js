@@ -1,1 +1,1 @@
-var mnemonic = "volcano solution achieve horn credit energy chuckle tunnel claim upgrade increase ticket";
+var mnemonic = "year pink regret devote secret deny decade music abstract family couple egg";

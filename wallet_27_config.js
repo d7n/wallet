@@ -1,1 +1,1 @@
-var mnemonic = "salad pluck appear route future wear green connect hollow cereal warfare honey";
+var mnemonic = "sleep source inspire assist kick stem sign maximum few multiply alcohol enemy";

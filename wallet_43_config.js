@@ -1,1 +1,1 @@
-var mnemonic = "undo derive transfer fence believe become music discover online surface next clever";
+var mnemonic = "pink return result kid shoe orphan police piano scene cushion festival sentence";

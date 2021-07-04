@@ -1,1 +1,1 @@
-var mnemonic = "toe wealth still person brick eight planet wonder cherry supply either bar";
+var mnemonic = "anger uncover icon section limb card guilt biology uncle sure park live";

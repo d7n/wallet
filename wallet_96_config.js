@@ -1,1 +1,1 @@
-var mnemonic = "faculty tornado square route bag danger source embrace second inquiry hen catalog";
+var mnemonic = "entire fence urge memory vessel latin champion divide hawk assist display priority";

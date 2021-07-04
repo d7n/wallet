@@ -1,1 +1,1 @@
-var mnemonic = "cost bean tag gym hawk green stove crack token damp harsh reflect";
+var mnemonic = "old stay camp call ill empty buzz space mountain ostrich latin soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "accident rocket barely usual road output neutral wash machine also trip audit";
+var mnemonic = "spring meat divide wisdom limit man erase coffee bounce hero once question";

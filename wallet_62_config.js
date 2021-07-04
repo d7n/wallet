@@ -1,1 +1,1 @@
-var mnemonic = "laptop mansion flush idle child portion slab dose metal range wage broccoli";
+var mnemonic = "spot liberty leisure ranch mother anxiety lava leg okay apology syrup cupboard";

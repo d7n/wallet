@@ -1,1 +1,1 @@
-var mnemonic = "dignity wisdom glance target heart lion first female blossom solar finish wish";
+var mnemonic = "nominee web garage tide borrow super gain avocado story glue army sheriff";

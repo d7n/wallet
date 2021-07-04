@@ -1,1 +1,1 @@
-var mnemonic = "ramp section teach six fade lizard smile erode public phone usage author";
+var mnemonic = "usual urge rabbit garden coast wild notice copy captain joy wing eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch ugly private artwork rural split swing used school movie alone sport";
+var mnemonic = "turtle tourist rival snake annual drop cigar protect maple you obey crucial";

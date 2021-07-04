@@ -1,1 +1,1 @@
-var mnemonic = "desert matrix glance lock depart segment galaxy multiply pyramid infant lend tired";
+var mnemonic = "skill lens sample genre strike hub describe gold thrive term fan prevent";

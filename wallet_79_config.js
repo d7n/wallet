@@ -1,1 +1,1 @@
-var mnemonic = "jungle donkey twin clean giggle pass fish window year round taste year";
+var mnemonic = "soft fancy category pipe buffalo enough miss south basket tell clip figure";

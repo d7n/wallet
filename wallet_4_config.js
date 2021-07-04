@@ -1,1 +1,1 @@
-var mnemonic = "wisdom either heart arch hobby issue arrange pony trial hobby blossom feel";
+var mnemonic = "cancel add float absurd couple pear mention glare piece excuse museum special";

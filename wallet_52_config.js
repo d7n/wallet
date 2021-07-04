@@ -1,1 +1,1 @@
-var mnemonic = "reject fetch dust tool shiver oil sunset mosquito monster tennis canoe agent";
+var mnemonic = "rely shrimp pill beach spell toilet over jump brown curtain bronze magnet";

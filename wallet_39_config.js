@@ -1,1 +1,1 @@
-var mnemonic = "tornado eight manual night waste wagon define oval route sun ride twist";
+var mnemonic = "medal dress congress diamond raise uncover fuel parent destroy industry april grape";

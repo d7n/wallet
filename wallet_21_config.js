@@ -1,1 +1,1 @@
-var mnemonic = "near unlock issue ill coin analyst shiver zero farm comfort false flash";
+var mnemonic = "chief gauge reject fix junk light palm adjust ugly minimum daughter mask";

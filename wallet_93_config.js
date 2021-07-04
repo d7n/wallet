@@ -1,1 +1,1 @@
-var mnemonic = "stadium start pave enable glove scrap confirm delay grunt medal story shiver";
+var mnemonic = "business taxi truly crisp pigeon saddle current penalty maple salad olympic cradle";

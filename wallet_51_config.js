@@ -1,1 +1,1 @@
-var mnemonic = "insane virus can ghost audit garage brush during truly virtual core tiger";
+var mnemonic = "bless extra sting scout genius service post youth betray exclude scrap air";

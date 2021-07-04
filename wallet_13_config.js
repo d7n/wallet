@@ -1,1 +1,1 @@
-var mnemonic = "pink carry wet local settle unhappy magic victory leaf ivory wear captain";
+var mnemonic = "insane canoe obtain fatigue copper bridge inspire mistake broom whale fresh battle";

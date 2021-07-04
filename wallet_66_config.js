@@ -1,1 +1,1 @@
-var mnemonic = "better subway lift object pretty hero erupt bomb punch luxury chuckle seven";
+var mnemonic = "chunk aspect glow daughter believe spider common huge pulp genre waste quarter";

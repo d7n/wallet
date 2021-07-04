@@ -1,1 +1,1 @@
-var mnemonic = "duty enact neglect ankle snap estate young morning false army scale kitten";
+var mnemonic = "clock tongue tackle save ridge swallow method grit topple tip ghost floor";

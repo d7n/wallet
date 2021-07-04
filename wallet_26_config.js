@@ -1,1 +1,1 @@
-var mnemonic = "east suit essay either void catalog load large october cram pen pet";
+var mnemonic = "control cheap goddess pass puzzle dash cargo grape artefact barely regular urge";

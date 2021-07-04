@@ -1,1 +1,1 @@
-var mnemonic = "wing detect warm lunch wire order wreck enact oil erosion swim pigeon";
+var mnemonic = "fuel drama grunt illegal cloud quantum asthma hurdle small neglect young phone";

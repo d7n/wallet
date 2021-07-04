@@ -1,1 +1,1 @@
-var mnemonic = "orbit armed cup orchard teach object hill stool mosquito human stadium patient";
+var mnemonic = "quote ethics bring bread van forest choice myself dune tumble smooth execute";

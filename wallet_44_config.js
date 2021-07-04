@@ -1,1 +1,1 @@
-var mnemonic = "vessel situate salt blame odor lady damage solid grunt someone sheriff toy";
+var mnemonic = "orchard cereal violin accuse stick lion plug harvest dumb doctor rally awesome";

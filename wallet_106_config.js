@@ -1,1 +1,1 @@
-var mnemonic = "hobby egg party govern fox craft grunt give capable hen rookie teach";
+var mnemonic = "limit during coral bid detect equal sorry engage hurdle horror wedding question";

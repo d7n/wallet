@@ -1,1 +1,1 @@
-var mnemonic = "upgrade word option unique game same lobster goose few genius distance scan";
+var mnemonic = "mix hungry describe question bundle coconut economy defense taste stage index border";

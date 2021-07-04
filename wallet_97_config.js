@@ -1,1 +1,1 @@
-var mnemonic = "river weapon hope goddess cook false salt hint cave limit miss autumn";
+var mnemonic = "daughter heart salt state defense hunt rather spell hurt ladder acoustic occur";

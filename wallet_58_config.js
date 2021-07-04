@@ -1,1 +1,1 @@
-var mnemonic = "need wet transfer phrase fantasy taxi scrub topple alley card ride bean";
+var mnemonic = "help found sibling demand reject license reform coral time bicycle boss task";

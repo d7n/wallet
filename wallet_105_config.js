@@ -1,1 +1,1 @@
-var mnemonic = "general tennis cup insane tank tumble zone plastic vast middle obvious sorry";
+var mnemonic = "giant subway picture slow capable cancel torch puzzle solar false twelve fragile";

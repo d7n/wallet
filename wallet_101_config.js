@@ -1,1 +1,1 @@
-var mnemonic = "gather pelican course disorder great habit enact rich someone parent tail alone";
+var mnemonic = "amazing sausage list advice doctor ostrich light cargo still gesture lunch over";

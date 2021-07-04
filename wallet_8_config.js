@@ -1,1 +1,1 @@
-var mnemonic = "decide license eight hard have picture century another civil brown weasel sausage";
+var mnemonic = "bacon peanut chunk rocket brave tattoo silly crack ocean loan can mountain";

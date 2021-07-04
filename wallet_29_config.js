@@ -1,1 +1,1 @@
-var mnemonic = "parrot hurt cry segment moral wash aware awful pluck allow where awkward";
+var mnemonic = "raccoon pulse maximum oblige gun vote patrol wagon candy one jelly sweet";

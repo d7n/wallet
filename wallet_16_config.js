@@ -1,1 +1,1 @@
-var mnemonic = "census tooth hundred fashion fuel build jazz rate hello orphan squirrel transfer";
+var mnemonic = "screen drive grow humble spoil monkey all wise usage castle autumn minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "basic city pudding lemon tent panther mushroom warrior paddle panda slot device";
+var mnemonic = "soldier trade cart keen text famous pink omit bus control merit canal";

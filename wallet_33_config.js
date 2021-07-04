@@ -1,1 +1,1 @@
-var mnemonic = "admit ball bus shaft cup level skill mean core glad math violin";
+var mnemonic = "until hockey tuna mean give amateur orient desert speak mixture kingdom cause";

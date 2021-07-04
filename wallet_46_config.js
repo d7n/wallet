@@ -1,1 +1,1 @@
-var mnemonic = "advance service young under venture valve squeeze unlock kingdom captain brisk layer";
+var mnemonic = "face hill robot poverty play common shiver nature nephew firm night random";

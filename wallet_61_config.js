@@ -1,1 +1,1 @@
-var mnemonic = "seek muscle enhance lawn isolate since verb melt pigeon claim flush keen";
+var mnemonic = "agent cat subject glimpse ugly sick begin thumb harbor tank wolf faith";

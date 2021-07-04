@@ -1,1 +1,1 @@
-var mnemonic = "when camera open chicken hard insane pudding attend hollow castle cake credit";
+var mnemonic = "music meat hover machine inner window awake ranch hundred certain great morning";

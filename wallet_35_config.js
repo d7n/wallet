@@ -1,1 +1,1 @@
-var mnemonic = "thunder setup envelope primary jewel wrestle that raven south rhythm release round";
+var mnemonic = "meat youth canoe volcano funny inside saddle occur slide cinnamon wink salt";

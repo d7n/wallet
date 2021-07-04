@@ -1,1 +1,1 @@
-var mnemonic = "meadow carbon truck drum essence confirm coach major sad sweet judge oil";
+var mnemonic = "asset earn bind hello mass obvious fossil culture elite tumble enlist say";

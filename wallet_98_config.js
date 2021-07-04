@@ -1,1 +1,1 @@
-var mnemonic = "pipe symbol kind bulk category daring among panic brave taste junk clump";
+var mnemonic = "family target resist cool rose celery vague hybrid have estate cook sugar";

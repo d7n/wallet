@@ -1,1 +1,1 @@
-var mnemonic = "ribbon master tourist fancy snow work early employ leopard cool female harvest";
+var mnemonic = "margin license horror divert elegant negative hour pet steel brown chunk soon";

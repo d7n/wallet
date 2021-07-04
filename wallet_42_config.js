@@ -1,1 +1,1 @@
-var mnemonic = "trick duty lunar layer filter asset possible faint smooth under detail canal";
+var mnemonic = "harsh moment face range riot boss survey uncle donkey hospital because grass";

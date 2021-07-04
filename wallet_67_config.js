@@ -1,1 +1,1 @@
-var mnemonic = "dragon property celery drink transfer foam melt olive cute fashion steel risk";
+var mnemonic = "agree oak vibrant check color plastic spot physical bar green cage nasty";

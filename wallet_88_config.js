@@ -1,1 +1,1 @@
-var mnemonic = "dad calm dry donate orient stable absorb ripple style beach stereo company";
+var mnemonic = "hybrid various truth design loyal brother benefit shop dress stereo debris light";

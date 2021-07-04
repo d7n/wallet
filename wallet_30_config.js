@@ -1,1 +1,1 @@
-var mnemonic = "oyster crop nice fluid refuse swift base orange apology such choice can";
+var mnemonic = "host delay mass similar enhance avoid lens depth soon odor siren business";

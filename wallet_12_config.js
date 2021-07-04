@@ -1,1 +1,1 @@
-var mnemonic = "benefit fetch call local auction nation giant noodle obtain payment guitar great";
+var mnemonic = "negative blame tornado trash blush type visual cage neck artwork moment gravity";

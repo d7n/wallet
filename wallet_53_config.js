@@ -1,1 +1,1 @@
-var mnemonic = "tragic home arrow company crystal property spring struggle hub recycle frown zebra";
+var mnemonic = "advance minor glimpse habit fine net govern rail hard dial evolve fork";

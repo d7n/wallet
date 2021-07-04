@@ -1,1 +1,1 @@
-var mnemonic = "beyond fun crack slim town voyage foot fitness play honey chunk patch";
+var mnemonic = "flavor opera artist adapt rain used connect april scrap various paddle truly";

@@ -1,1 +1,1 @@
-var mnemonic = "doll rich loan erupt diary quick sponsor end pen key surround fall";
+var mnemonic = "follow key minute quick shoe eight tank outside ask agree woman fork";
