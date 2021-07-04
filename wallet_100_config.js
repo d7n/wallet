@@ -1,1 +1,1 @@
-var mnemonic = "turn deal tiny awkward dilemma brain shadow snack right neutral segment lucky";
+var mnemonic = "burst edit tobacco foam garment claw add wool churn door loud aisle";

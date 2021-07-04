@@ -1,1 +1,1 @@
-var mnemonic = "bless federal word brief evidence assault rely average kiwi solution track trick";
+var mnemonic = "diagram mammal night busy village puzzle fire base ridge cabin snow tent";

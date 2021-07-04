@@ -1,1 +1,1 @@
-var mnemonic = "boring cheap sick pyramid leisure load begin task either affair code shove";
+var mnemonic = "receive life two rain push track fitness senior enroll police creek critic";

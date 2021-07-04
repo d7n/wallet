@@ -1,1 +1,1 @@
-var mnemonic = "poet brush delay slush audit rich student wagon stomach prosper brick heavy";
+var mnemonic = "hybrid inhale enforce one almost engine park maze engage crystal camera smile";

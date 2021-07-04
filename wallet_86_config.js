@@ -1,1 +1,1 @@
-var mnemonic = "portion share model thunder harbor hour law virtual scorpion toss weekend forest";
+var mnemonic = "talk sample foam rotate insect spend resemble update chronic crunch loop boss";

@@ -1,1 +1,1 @@
-var mnemonic = "burst bunker actress spirit modify style album shiver whip sad candy chunk";
+var mnemonic = "verb stamp length photo tornado cash music month topple hole hybrid leave";

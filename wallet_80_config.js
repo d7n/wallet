@@ -1,1 +1,1 @@
-var mnemonic = "home winner zero thank guess midnight legend south panda good yard hedgehog";
+var mnemonic = "sheriff angry goat figure orange frown lyrics relax badge drip tower clinic";

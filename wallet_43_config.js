@@ -1,1 +1,1 @@
-var mnemonic = "ladder toast flame oval drink vital client agent budget core thought dumb";
+var mnemonic = "wealth tone invite practice build couple foam fox spirit hand lumber movie";

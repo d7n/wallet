@@ -1,1 +1,1 @@
-var mnemonic = "cattle column symptom fluid sister basket duty shell deposit frozen music lift";
+var mnemonic = "genre nice romance stumble invite today dragon design elevator rule filter child";

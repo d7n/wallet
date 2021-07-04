@@ -1,1 +1,1 @@
-var mnemonic = "picture file hobby sword picture route cinnamon devote put spin high tired";
+var mnemonic = "nasty bid length prefer seven length skin drive fuel airport wrap fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke beef ridge proof voyage derive flee rack rookie click service excuse";
+var mnemonic = "fever gown worry castle scout dirt mountain receive protect lock help worry";

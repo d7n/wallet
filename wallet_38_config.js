@@ -1,1 +1,1 @@
-var mnemonic = "warm topic describe sad struggle season alter minor general glow place surface";
+var mnemonic = "uncle narrow goose put snap mango sight casual royal bleak glance cup";

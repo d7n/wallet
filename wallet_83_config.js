@@ -1,1 +1,1 @@
-var mnemonic = "huge guard clump two word net fringe toddler produce ill slow dolphin";
+var mnemonic = "barely sleep flip install filter anxiety sample purchase coach make citizen field";

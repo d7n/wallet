@@ -1,1 +1,1 @@
-var mnemonic = "toast reopen warrior acquire spring frost eight pet connect clown success first";
+var mnemonic = "truly rude machine vivid sword pigeon game wrong motor barely body oil";

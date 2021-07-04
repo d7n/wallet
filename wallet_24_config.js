@@ -1,1 +1,1 @@
-var mnemonic = "violin lamp diagram orchard flavor august token hidden idea prepare elder anger";
+var mnemonic = "canyon omit front ugly trim photo year bring hazard wave priority scrap";

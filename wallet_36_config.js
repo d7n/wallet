@@ -1,1 +1,1 @@
-var mnemonic = "sand bread song know bargain rude mother choose flat since cycle shoot";
+var mnemonic = "local sunny apart list photo annual monitor crash front sail napkin unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "upon west move pottery credit win cool review real fun domain neutral";
+var mnemonic = "reunion rally artist unusual dawn relax initial sing student dust pitch hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget wolf race among rack puppy subject correct flip soon height want";
+var mnemonic = "galaxy worth exist miss banana hurry hill adult hello tooth range waste";

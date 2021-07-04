@@ -1,1 +1,1 @@
-var mnemonic = "maze cushion penalty degree mystery reform define loyal window between stable cheap";
+var mnemonic = "useful asthma canoe column device asthma wink gauge grunt absorb secret network";

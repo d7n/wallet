@@ -1,1 +1,1 @@
-var mnemonic = "runway tuna evidence actress drum annual clerk wash cage twenty scrap tuition";
+var mnemonic = "device runway gallery glue such vote casual diet sauce series shock then";

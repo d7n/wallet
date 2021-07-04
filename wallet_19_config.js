@@ -1,1 +1,1 @@
-var mnemonic = "anchor ginger notice seek area other frozen civil earth illegal pattern visa";
+var mnemonic = "gaze bargain auction candy prison silver rocket trophy slim raven smart sleep";

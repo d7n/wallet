@@ -1,1 +1,1 @@
-var mnemonic = "laugh certain own hole burden scale circle under fiber predict sketch zone";
+var mnemonic = "vessel garbage quiz position extend estate walnut use female flash famous tuna";

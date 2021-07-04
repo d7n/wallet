@@ -1,1 +1,1 @@
-var mnemonic = "enemy rude van surround twin forward seven supreme flight practice beauty share";
+var mnemonic = "route entire exit over across ask blue custom repair lab kid nuclear";

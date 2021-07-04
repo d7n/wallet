@@ -1,1 +1,1 @@
-var mnemonic = "feel glad original spare salon empty chronic scissors dismiss inject tomato belt";
+var mnemonic = "glow undo attend girl foot spring detect fiction kangaroo explain recall bonus";

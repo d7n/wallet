@@ -1,1 +1,1 @@
-var mnemonic = "number debate bless frequent unfold casino few transfer fiscal rather easy random";
+var mnemonic = "aunt sad arrest vast elbow renew swim task pioneer parent math glue";

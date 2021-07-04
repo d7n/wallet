@@ -1,1 +1,1 @@
-var mnemonic = "speak machine protect valley plug lemon nest spell civil magnet maze prize";
+var mnemonic = "card father canvas steel render mountain spray apology powder spend museum alley";

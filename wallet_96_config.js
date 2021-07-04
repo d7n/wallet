@@ -1,1 +1,1 @@
-var mnemonic = "junk drum leopard ask cruise rival topic educate mother mom dream speed";
+var mnemonic = "ginger clerk smoke goat junior barrel practice island salon talent deal frog";

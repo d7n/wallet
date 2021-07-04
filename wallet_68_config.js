@@ -1,1 +1,1 @@
-var mnemonic = "solve velvet earth armor help drum only young tape bar memory vibrant";
+var mnemonic = "joy shoot public orbit also cradle poet brush shallow marriage uphold inquiry";

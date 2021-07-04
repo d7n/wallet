@@ -1,1 +1,1 @@
-var mnemonic = "cash rabbit sustain gym follow spend festival noodle control become secret enact";
+var mnemonic = "neglect vital cancel detect catalog wish action ridge print absurd keep dirt";

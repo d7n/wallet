@@ -1,1 +1,1 @@
-var mnemonic = "win device predict decorate music gospel develop ability fluid prosper oxygen hat";
+var mnemonic = "tornado spider stomach deal annual onion robot color traffic secret list around";

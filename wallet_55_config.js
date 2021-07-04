@@ -1,1 +1,1 @@
-var mnemonic = "credit approve casino urban suspect custom scrap swim journey chase act rapid";
+var mnemonic = "pluck voice cool truck aunt chunk crime defense beach forget torch lend";

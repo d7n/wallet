@@ -1,1 +1,1 @@
-var mnemonic = "essence assault matrix rare effort anchor hero cook assume ivory satisfy amused";
+var mnemonic = "under love rhythm page property become sight dirt address eager volcano display";

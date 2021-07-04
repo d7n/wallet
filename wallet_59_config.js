@@ -1,1 +1,1 @@
-var mnemonic = "exhibit sting album salad exchange alter often concert vacant spider opera area";
+var mnemonic = "bullet brass glow local behind finger broken bright invite orbit shell point";

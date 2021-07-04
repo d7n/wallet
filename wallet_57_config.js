@@ -1,1 +1,1 @@
-var mnemonic = "olive vote side mutual rocket script chicken oxygen senior various interest fun";
+var mnemonic = "rely hawk toss hand fringe lady champion clay fence fame genre taxi";

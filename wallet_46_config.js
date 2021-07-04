@@ -1,1 +1,1 @@
-var mnemonic = "mom easily grow tattoo despair chair better reveal model cereal upper mushroom";
+var mnemonic = "soda club area grant smoke weasel slogan wonder memory make tiger december";

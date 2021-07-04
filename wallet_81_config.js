@@ -1,1 +1,1 @@
-var mnemonic = "three sustain hover embrace toddler junk toward shed dice scheme faint ugly";
+var mnemonic = "measure add jungle ceiling garbage layer improve enlist picnic target urge balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "pet involve know enrich sell talk bar leisure rocket off census battle";
+var mnemonic = "lemon ring hand melt pony cool rescue upon betray liquid mechanic ski";

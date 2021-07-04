@@ -1,1 +1,1 @@
-var mnemonic = "vacant about choose possible slim normal dragon april leisure exhaust square drip";
+var mnemonic = "globe couple someone age faculty fuel office course rug sound faith eye";

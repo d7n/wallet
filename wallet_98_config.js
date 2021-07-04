@@ -1,1 +1,1 @@
-var mnemonic = "desk bench fly kite refuse royal unable minimum hockey banana culture clown";
+var mnemonic = "multiply domain endorse despair lens fan kit evidence audit pumpkin police direct";

@@ -1,1 +1,1 @@
-var mnemonic = "vital oyster syrup laundry game rude faculty just cave just amused favorite";
+var mnemonic = "expire mobile limb cost coin pitch retreat trap top smart champion elephant";

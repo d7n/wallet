@@ -1,1 +1,1 @@
-var mnemonic = "explain card puzzle script suffer divorce hole unaware coconut smart display voyage";
+var mnemonic = "hub tray arrive sorry wine proof vote monkey keen mad hold chicken";

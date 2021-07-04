@@ -1,1 +1,1 @@
-var mnemonic = "network wise warrior have joy supreme coil tiny giraffe easily loyal body";
+var mnemonic = "color solar castle zebra skin topple trust blind consider calm grain key";

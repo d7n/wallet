@@ -1,1 +1,1 @@
-var mnemonic = "enact elite reward tide degree dress resemble soda fortune pave world super";
+var mnemonic = "whip monkey bullet kick inner life parrot uniform cinnamon release gorilla tuition";

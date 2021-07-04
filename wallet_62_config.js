@@ -1,1 +1,1 @@
-var mnemonic = "menu airport inch lonely debate mention brave daughter husband inflict grain random";
+var mnemonic = "bone quality diamond wedding reopen public sign stay robot manage subway uniform";

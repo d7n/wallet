@@ -1,1 +1,1 @@
-var mnemonic = "can judge sail pilot chunk huge grab spike ancient usage clarify oxygen";
+var mnemonic = "limit job acid daughter size decade supply grid maximum unique paper perfect";

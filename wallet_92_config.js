@@ -1,1 +1,1 @@
-var mnemonic = "brave junk unit fan similar question feel hello hip brave gaze canyon";
+var mnemonic = "silk vessel arrow write fish month mule hundred taste drum chair hen";

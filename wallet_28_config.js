@@ -1,1 +1,1 @@
-var mnemonic = "kitchen cattle raw entry mammal symptom father guide fog mix tortoise poverty";
+var mnemonic = "sight aunt outdoor divide video tell angle daughter category banner crack cement";

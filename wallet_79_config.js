@@ -1,1 +1,1 @@
-var mnemonic = "surprise beach bomb stage grace visa robust tumble mom laundry raise world";
+var mnemonic = "fox lobster medal grocery until wrong genius survey arch broken wait pen";

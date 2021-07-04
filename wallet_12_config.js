@@ -1,1 +1,1 @@
-var mnemonic = "distance chase rabbit regret just give basket purse royal library pill round";
+var mnemonic = "eight sauce fold require shoot cereal private street better hire foot horse";

@@ -1,1 +1,1 @@
-var mnemonic = "spell inmate winner cage among magnet long account when spy slim steel";
+var mnemonic = "place wish capital alpha inform what system cinnamon appear extra disease wealth";

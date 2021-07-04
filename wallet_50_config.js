@@ -1,1 +1,1 @@
-var mnemonic = "bunker blue auction denial genre gain pulp spray cinnamon fork cruel input";
+var mnemonic = "impact pigeon snow stand rug object hundred bicycle hospital believe uphold slender";

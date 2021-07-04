@@ -1,1 +1,1 @@
-var mnemonic = "helmet jump advice budget dizzy excuse verify enlist erode country this write";
+var mnemonic = "fetch inmate believe kite load vicious suffer fresh team cruise badge doctor";

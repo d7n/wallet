@@ -1,1 +1,1 @@
-var mnemonic = "quantum addict stock forest agent amateur weird act web head iron permit";
+var mnemonic = "rib place ecology submit wagon clutch coach boss sight segment alien polar";

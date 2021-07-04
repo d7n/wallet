@@ -1,1 +1,1 @@
-var mnemonic = "inch kick awful sand ship kidney alcohol bind filter move tornado dinner";
+var mnemonic = "wait snow behind stairs elbow sauce cover stable myself tree void vibrant";

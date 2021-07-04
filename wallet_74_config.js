@@ -1,1 +1,1 @@
-var mnemonic = "gap extend news eager away game topple vacant traffic seminar fox hole";
+var mnemonic = "mule welcome exact poverty puppy donor female outside cheap barrel purse media";

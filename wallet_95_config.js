@@ -1,1 +1,1 @@
-var mnemonic = "believe city urge power soccer blade swap elder patch impose intact sock";
+var mnemonic = "verb whisper choice normal capital oxygen neither below aerobic connect brain two";

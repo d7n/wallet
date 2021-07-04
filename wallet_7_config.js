@@ -1,1 +1,1 @@
-var mnemonic = "present quit task such off dirt engine certain express manage earn float";
+var mnemonic = "neither expose vehicle prefer team soul flat snap river device garlic vague";

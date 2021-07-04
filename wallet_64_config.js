@@ -1,1 +1,1 @@
-var mnemonic = "crucial funny divert derive purpose much language love jacket sense catch dose";
+var mnemonic = "alter cushion pave wrong wild make tray page round north verify arrange";

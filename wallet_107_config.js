@@ -1,1 +1,1 @@
-var mnemonic = "endless what curve pistol fetch news humble seed head cat derive army";
+var mnemonic = "mass chaos arm hole cause rather magic silent flat woman dune balcony";

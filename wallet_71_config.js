@@ -1,1 +1,1 @@
-var mnemonic = "arrive acquire shield opinion egg zebra student follow mean team vast foster";
+var mnemonic = "intact movie metal rubber urge cargo travel puzzle divide ill guess flock";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper apology rare cute stand soap enable confirm skirt panda asthma mixed";
+var mnemonic = "heart plate super vote slush novel desert symptom eyebrow cabbage food permit";

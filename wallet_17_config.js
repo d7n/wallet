@@ -1,1 +1,1 @@
-var mnemonic = "web human world patient never spring skin impose kit clown sure rural";
+var mnemonic = "appear wild crazy erase extend wing wagon buyer traffic cool rather valve";

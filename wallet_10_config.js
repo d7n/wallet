@@ -1,1 +1,1 @@
-var mnemonic = "inject gas cliff accident august rare junior path fiber plastic catalog entry";
+var mnemonic = "cat either fever denial cradle glass sunset lawn wasp reopen cherry attack";

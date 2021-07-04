@@ -1,1 +1,1 @@
-var mnemonic = "scheme arrest squirrel ginger turtle basic loan idle reason later syrup bicycle";
+var mnemonic = "drill surface blur snap belt field sample ignore three brief wood never";

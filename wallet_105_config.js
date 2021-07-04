@@ -1,1 +1,1 @@
-var mnemonic = "shuffle vague mass actress aerobic jazz nose music math nut human strike";
+var mnemonic = "position document evidence hero avoid jaguar frozen father team crew sign hand";

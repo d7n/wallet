@@ -1,1 +1,1 @@
-var mnemonic = "soft ritual boring interest mechanic mixed rural kangaroo rough cry engine seminar";
+var mnemonic = "dad winner clerk fabric afford creek foil oblige jeans magnet busy phrase";

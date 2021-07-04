@@ -1,1 +1,1 @@
-var mnemonic = "pool clump balcony prize anger property wise repair turtle biology hawk lazy";
+var mnemonic = "blood silent library turtle south velvet bench erupt lobster duck fade convince";

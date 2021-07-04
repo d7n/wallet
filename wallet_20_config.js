@@ -1,1 +1,1 @@
-var mnemonic = "shoulder enough decorate south rotate token mistake quiz display frown crater pull";
+var mnemonic = "toss allow obey that version since october put wise avoid oval worth";

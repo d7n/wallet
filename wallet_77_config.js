@@ -1,1 +1,1 @@
-var mnemonic = "crunch fall again deliver web ancient diesel bacon doll normal deposit cute";
+var mnemonic = "combine repair scheme employ suspect claim script enlist kick theme delay bean";

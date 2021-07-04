@@ -1,1 +1,1 @@
-var mnemonic = "truck mobile uphold ocean about dizzy pupil put muffin want impact club";
+var mnemonic = "analyst visa chaos visual merit frequent nominee warrior calm render you absorb";

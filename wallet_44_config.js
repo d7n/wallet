@@ -1,1 +1,1 @@
-var mnemonic = "winter casual amused trash remain maple afraid brother curve early frown daring";
+var mnemonic = "item motor ship poverty awake kiss heart gallery prize involve sand tissue";

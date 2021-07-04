@@ -1,1 +1,1 @@
-var mnemonic = "benefit fitness senior model winter cycle awesome wink vocal brick wide fork";
+var mnemonic = "erosion habit range daring uphold heart cost effort fatigue other expose together";

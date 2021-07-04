@@ -1,1 +1,1 @@
-var mnemonic = "include false ski cancel caught punch worth gain harvest flag rate chicken";
+var mnemonic = "thunder wait athlete dwarf brand minute kick bind quiz small interest age";

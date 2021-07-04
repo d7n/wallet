@@ -1,1 +1,1 @@
-var mnemonic = "artwork moon limit era twice dirt flee repeat coyote human tag scorpion";
+var mnemonic = "maid silver pyramid bonus taste own vintage much clutch glare swing flag";

@@ -1,1 +1,1 @@
-var mnemonic = "two inherit prefer lake mercy slide energy anchor desert melody field chef";
+var mnemonic = "dance gossip either general draft gossip satoshi other action rule random rare";

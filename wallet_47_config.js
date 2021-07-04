@@ -1,1 +1,1 @@
-var mnemonic = "comfort safe frozen antique inform witness museum phone cotton rescue winter must";
+var mnemonic = "still nurse public cream evil drop number ginger retire occur dash announce";

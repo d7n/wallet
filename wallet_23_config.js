@@ -1,1 +1,1 @@
-var mnemonic = "hammer bring solution wink win track budget shine snow nut wine shuffle";
+var mnemonic = "public stairs orange rabbit upset resource baby execute aware unfold perfect fence";

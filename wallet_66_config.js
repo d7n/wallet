@@ -1,1 +1,1 @@
-var mnemonic = "cube moment merge skin child correct never slab wise faint lecture dizzy";
+var mnemonic = "drama diet head brick gorilla deer tower retreat later mass chair waste";

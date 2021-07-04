@@ -1,1 +1,1 @@
-var mnemonic = "faint save chair state fuel alpha ecology ball enlist crowd network believe";
+var mnemonic = "unique narrow praise live bomb column celery bullet there hungry joke attack";

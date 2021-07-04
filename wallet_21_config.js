@@ -1,1 +1,1 @@
-var mnemonic = "weird bacon filter pepper helmet milk tired path because excuse horse february";
+var mnemonic = "gun wreck put rubber matter donkey wrestle kidney craft gorilla patient dove";

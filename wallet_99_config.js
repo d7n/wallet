@@ -1,1 +1,1 @@
-var mnemonic = "cake truth culture connect tooth fortune relief judge aim wagon seek people";
+var mnemonic = "old heart brush parrot nose school venture chicken vital thing economy dumb";

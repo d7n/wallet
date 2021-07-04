@@ -1,1 +1,1 @@
-var mnemonic = "orient project correct idle waste blouse other hospital portion remove license obey";
+var mnemonic = "release adapt soap hurdle timber abstract flat carry heart amateur turkey resource";

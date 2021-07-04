@@ -1,1 +1,1 @@
-var mnemonic = "strong burst electric enlist alert wing cluster purpose west motor fiscal opera";
+var mnemonic = "bird skate state trust pelican clever syrup quality trial taxi evoke dinner";

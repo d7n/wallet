@@ -1,1 +1,1 @@
-var mnemonic = "nephew panel long exile host museum pipe produce jeans youth patient erode";
+var mnemonic = "gate tribe strong strong style room lazy easy master state like trumpet";

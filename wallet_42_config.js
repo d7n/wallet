@@ -1,1 +1,1 @@
-var mnemonic = "job alley runway dove animal popular fence glance blue permit duty market";
+var mnemonic = "garden where gadget toss buffalo try ostrich lesson crush wait vital subject";

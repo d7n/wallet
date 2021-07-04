@@ -1,1 +1,1 @@
-var mnemonic = "merry cheese kick open sell prevent resemble quality blame advance end refuse";
+var mnemonic = "fit enroll crew intact bicycle cousin comic bulb divert vacant come clutch";

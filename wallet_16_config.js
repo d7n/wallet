@@ -1,1 +1,1 @@
-var mnemonic = "diesel laugh either illegal code tower card bamboo onion vault settle rebuild";
+var mnemonic = "mouse chair crush seat relax found below banner body volume give nasty";

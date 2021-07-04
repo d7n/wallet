@@ -1,1 +1,1 @@
-var mnemonic = "cheap decrease reflect ancient can puppy fruit another vendor industry ridge elephant";
+var mnemonic = "vicious hover loop easy clay ring venue market title cover lottery weapon";

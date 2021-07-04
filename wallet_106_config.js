@@ -1,1 +1,1 @@
-var mnemonic = "assist wonder project milk mask speed endless switch domain busy flee hire";
+var mnemonic = "green miracle crucial scare flee truth list eagle rifle raccoon tag school";

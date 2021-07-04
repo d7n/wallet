@@ -1,1 +1,1 @@
-var mnemonic = "visa remain clog boy casino dove hotel report parade mosquito basic matter";
+var mnemonic = "give narrow snow magic neutral leisure castle cook town supply share absent";

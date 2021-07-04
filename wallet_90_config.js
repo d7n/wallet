@@ -1,1 +1,1 @@
-var mnemonic = "grab dwarf asthma fog spoon screen foam please scrub mind sustain double";
+var mnemonic = "idea fox reason where infant tattoo cross grief hurdle connect cannon utility";

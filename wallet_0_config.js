@@ -1,1 +1,1 @@
-var mnemonic = "arrest rug draft alien width witness bid consider safe sea museum genius";
+var mnemonic = "business cover primary silly remember charge lock tiny balance guard immense season";

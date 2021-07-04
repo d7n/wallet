@@ -1,1 +1,1 @@
-var mnemonic = "nothing exit sport kingdom fatigue lesson nice tunnel share proud join reduce";
+var mnemonic = "update sphere devote valid start aunt either remember region air visual slot";
