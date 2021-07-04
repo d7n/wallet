@@ -1,1 +1,1 @@
-var mnemonic = "pilot bring yard globe behind stay check betray anger gown foster tenant";
+var mnemonic = "pave prepare valve firm office family must music envelope test cannon display";

@@ -1,1 +1,1 @@
-var mnemonic = "repair almost note bridge bounce direct wall disorder artwork twin body suggest";
+var mnemonic = "leader broccoli scrub profit network million slush place fantasy snap chunk rescue";

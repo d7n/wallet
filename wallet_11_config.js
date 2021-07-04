@@ -1,1 +1,1 @@
-var mnemonic = "entry salt play tuna excite hover divide below sense convince grunt subway";
+var mnemonic = "discover unveil elevator chef brass belt green token crack build grace route";

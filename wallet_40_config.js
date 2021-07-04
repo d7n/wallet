@@ -1,1 +1,1 @@
-var mnemonic = "nominee design dynamic chef pulp decade pole text island goddess recycle silly";
+var mnemonic = "mind distance record bulb trip obey thumb nerve absorb capital modify mom";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist around kingdom favorite divert coast breeze deliver pet grass cheap unknown";
+var mnemonic = "convince embrace warm walk ring arrange famous giraffe obey picnic left surround";

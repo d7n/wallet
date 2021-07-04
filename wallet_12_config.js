@@ -1,1 +1,1 @@
-var mnemonic = "inherit below glare trim salt need text ability flock okay sniff lab";
+var mnemonic = "stage type ghost cable radio system material quarter book hill snap vault";

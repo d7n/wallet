@@ -1,1 +1,1 @@
-var mnemonic = "great slide attack neck submit pledge student swift annual animal chunk nice";
+var mnemonic = "require noble toss flavor relax wish believe decade common sketch secret engine";

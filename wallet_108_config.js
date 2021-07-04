@@ -1,1 +1,1 @@
-var mnemonic = "modify effort away kitten angle defense street venue run fade helmet arrow";
+var mnemonic = "hint paddle strategy kingdom ice theme silver couch upset rifle omit veteran";

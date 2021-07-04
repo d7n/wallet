@@ -1,1 +1,1 @@
-var mnemonic = "major truth business neglect isolate useful soccer leg reflect know elite occur";
+var mnemonic = "bring lunch hole juice knock surround ugly engage pitch shine then kid";

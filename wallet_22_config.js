@@ -1,1 +1,1 @@
-var mnemonic = "afraid subject second code series seminar gadget census pledge measure attack echo";
+var mnemonic = "bus flat apple giraffe vault faculty vocal anxiety leopard know describe large";

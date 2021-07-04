@@ -1,1 +1,1 @@
-var mnemonic = "supreme sing cheese coach oven view panther sudden mutual clown chase nephew";
+var mnemonic = "flag midnight evidence plunge hollow nose lazy youth situate toilet wisdom bullet";

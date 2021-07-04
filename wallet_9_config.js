@@ -1,1 +1,1 @@
-var mnemonic = "guitar rather muscle wire mad modify laugh thunder expire carpet common have";
+var mnemonic = "usage intact code style next jewel romance cost excite park puppy chimney";

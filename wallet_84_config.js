@@ -1,1 +1,1 @@
-var mnemonic = "build parrot neglect gossip wash worry scatter travel dolphin energy deal betray";
+var mnemonic = "lamp umbrella bullet tired virus oblige abuse broken now vicious life lava";

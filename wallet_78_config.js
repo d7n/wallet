@@ -1,1 +1,1 @@
-var mnemonic = "legend cousin place mystery aspect into kid puppy butter sign horn slide";
+var mnemonic = "wealth oppose area sword crime enough garbage hybrid car actor bean control";

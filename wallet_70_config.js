@@ -1,1 +1,1 @@
-var mnemonic = "idea combine perfect void oyster biology tired core extra until shrimp analyst";
+var mnemonic = "table negative clerk spray cargo tonight fun nothing limit tornado trade unfair";

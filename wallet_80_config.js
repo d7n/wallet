@@ -1,1 +1,1 @@
-var mnemonic = "broom hunt garage surge anger orient alien ocean air cattle prevent elephant";
+var mnemonic = "ensure black ocean only dentist vast forest fat appear better any load";

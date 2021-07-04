@@ -1,1 +1,1 @@
-var mnemonic = "menu yellow alpha blind card huge boat spatial old skin now piano";
+var mnemonic = "fade blind thumb recipe leisure antenna edge goose affair matter mountain scan";

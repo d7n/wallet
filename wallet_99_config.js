@@ -1,1 +1,1 @@
-var mnemonic = "merge vicious web input arrest exact nature trust seminar force shop angle";
+var mnemonic = "duty volcano dish salute doll best crater patch wonder sight forest this";

@@ -1,1 +1,1 @@
-var mnemonic = "blame razor relax elegant deposit vital wear solve arrange month noodle blue";
+var mnemonic = "infant mix bamboo sadness lizard ensure power harsh dragon kitchen split artwork";

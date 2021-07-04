@@ -1,1 +1,1 @@
-var mnemonic = "salt tonight else comic mushroom fabric route casino alarm ask gorilla brief";
+var mnemonic = "pink index dog render place strong mail fury shield chase novel welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "list dad pond summer final pretty ahead network orchard achieve elephant affair";
+var mnemonic = "romance century cause tomorrow observe fork chronic warm desert price this dad";

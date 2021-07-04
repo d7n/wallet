@@ -1,1 +1,1 @@
-var mnemonic = "calm mimic doctor dose hurry human beauty digital sphere able tornado forget";
+var mnemonic = "evoke onion nest solid toilet pill check present arena million success expand";

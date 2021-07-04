@@ -1,1 +1,1 @@
-var mnemonic = "pyramid abuse amateur garden false brother neck chuckle crew grunt normal avocado";
+var mnemonic = "fly magic struggle today install region business practice one shield viable retreat";

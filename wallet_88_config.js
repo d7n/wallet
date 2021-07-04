@@ -1,1 +1,1 @@
-var mnemonic = "live second cargo finish apart retire pilot maid guitar one weekend virus";
+var mnemonic = "keen child around crack plunge core submit print hair imitate scare exhibit";

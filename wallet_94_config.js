@@ -1,1 +1,1 @@
-var mnemonic = "monkey disease solar cloud milk festival staff stage tide train deer open";
+var mnemonic = "govern laundry glory chicken web appear copper away round harvest thumb noble";

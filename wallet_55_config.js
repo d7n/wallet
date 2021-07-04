@@ -1,1 +1,1 @@
-var mnemonic = "property income buyer stomach receive soup worry afford capital ramp diesel vacuum";
+var mnemonic = "neither kick zoo between burst life table image hover chef group room";

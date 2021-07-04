@@ -1,1 +1,1 @@
-var mnemonic = "arrive achieve praise rug add liar physical renew slot toss fold until";
+var mnemonic = "slogan stereo danger fringe trade pelican clock final dice pause evidence erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild priority soap speak alert rude concert menu endorse winter mobile cram";
+var mnemonic = "naive scan flash large manual artist damp another zebra mammal good alarm";

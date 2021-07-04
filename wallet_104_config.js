@@ -1,1 +1,1 @@
-var mnemonic = "pause suspect eye ask october task relief meadow stick reunion vintage joke";
+var mnemonic = "seven phone tank price leg yellow admit infant hub sunny era wonder";

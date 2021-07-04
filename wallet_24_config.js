@@ -1,1 +1,1 @@
-var mnemonic = "sleep first hidden ahead session color vital trash scan lazy whisper gallery";
+var mnemonic = "meat effort enemy elephant coach toilet measure fortune gate news verify fork";

@@ -1,1 +1,1 @@
-var mnemonic = "brass mind enrich dumb rapid gift know column valve album eye egg";
+var mnemonic = "vicious engine token focus sunset debate involve gallery unique assault december sketch";

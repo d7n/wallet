@@ -1,1 +1,1 @@
-var mnemonic = "love patrol scan list snake crumble video cricket message chimney ball case";
+var mnemonic = "web shoe hand motor original finish law casual palm talent argue forum";

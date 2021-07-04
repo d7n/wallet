@@ -1,1 +1,1 @@
-var mnemonic = "develop tuna race present multiply dry enforce spike boil detect trade load";
+var mnemonic = "paddle together dirt giraffe rebuild engage vehicle ethics diary zebra elbow renew";

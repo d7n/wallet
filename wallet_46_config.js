@@ -1,1 +1,1 @@
-var mnemonic = "foster similar hero peanut proud dinner pilot verify drip envelope drill only";
+var mnemonic = "misery inherit solve isolate major attract dry decide baby boil issue arena";

@@ -1,1 +1,1 @@
-var mnemonic = "exit envelope wood margin picture ticket right paddle wagon shrimp help squeeze";
+var mnemonic = "market gaze taste timber twenty rain fork build coral tilt measure seek";

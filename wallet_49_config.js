@@ -1,1 +1,1 @@
-var mnemonic = "cousin gentle decade kind chaos liquid vanish found pair noodle item crumble";
+var mnemonic = "twice hospital usual caught grit drama fun approve firm lesson century arena";

@@ -1,1 +1,1 @@
-var mnemonic = "sting good cause future attend bless federal coil drop much retreat cry";
+var mnemonic = "dilemma inside neck cross field hand fantasy start earn teach soap smooth";

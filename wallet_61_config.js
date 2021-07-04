@@ -1,1 +1,1 @@
-var mnemonic = "anger cruise ivory warrior cake slab holiday boss stage library rubber prepare";
+var mnemonic = "cloth nose list silver double skill mosquito cool travel sun lab journey";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas divert supply mesh hidden impose time youth tuna desk side hold";
+var mnemonic = "broken alarm cube guess narrow trial ocean off brave volcano grab author";

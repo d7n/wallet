@@ -1,1 +1,1 @@
-var mnemonic = "table eager hill exist select area clip clip south kid embrace garbage";
+var mnemonic = "candy ski raven correct vast aisle pigeon reunion about morning human neutral";

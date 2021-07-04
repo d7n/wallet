@@ -1,1 +1,1 @@
-var mnemonic = "portion start pave rose decrease receive arena uncle salad error wave hawk";
+var mnemonic = "rough comfort obtain bicycle embark frost potato unit deposit junk stem session";

@@ -1,1 +1,1 @@
-var mnemonic = "december bulk unveil winter business crane salmon language walk between chaos horn";
+var mnemonic = "idea divorce armed unhappy repair depth lend movie jewel survey meat ritual";

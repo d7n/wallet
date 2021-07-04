@@ -1,1 +1,1 @@
-var mnemonic = "afford phrase imitate cannon later champion road cage web cabbage child innocent";
+var mnemonic = "frequent early enrich sail symptom bundle frown month two alpha federal absurd";

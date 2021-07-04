@@ -1,1 +1,1 @@
-var mnemonic = "embody success gift twin card frequent march spray move oppose age cradle";
+var mnemonic = "target debris dawn range trophy snake panther tide inside play divorce ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "retire multiply scene flush ring purity file planet phone bonus salt great";
+var mnemonic = "joke occur buyer vote hurt trip vital tourist later offer hope joy";

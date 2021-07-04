@@ -1,1 +1,1 @@
-var mnemonic = "mean zero mesh lonely left offer sphere tumble method direct clump chef";
+var mnemonic = "nose private calm neck also motor bright humor reopen trash canyon clip";

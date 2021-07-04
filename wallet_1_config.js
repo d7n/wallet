@@ -1,1 +1,1 @@
-var mnemonic = "girl tray series tuna tired exile correct strong girl gas lonely meat";
+var mnemonic = "miss occur keep female steak alarm smoke tongue kitten height resist prevent";

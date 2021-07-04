@@ -1,1 +1,1 @@
-var mnemonic = "south iron measure tower dose daring guide plastic kite eye water olympic";
+var mnemonic = "distance cruise arena amused this unlock praise issue scan awkward urban another";

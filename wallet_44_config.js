@@ -1,1 +1,1 @@
-var mnemonic = "coil zero heavy slam churn wine click bridge boring accuse simple vendor";
+var mnemonic = "fine bar better time general strategy accuse entire resource share library jealous";

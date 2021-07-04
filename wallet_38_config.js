@@ -1,1 +1,1 @@
-var mnemonic = "flat give wool cigar advance decade culture cabbage truck theme stage afford";
+var mnemonic = "card mirror always feed trend divert crew clutch connect basket poem police";

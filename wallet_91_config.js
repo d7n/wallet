@@ -1,1 +1,1 @@
-var mnemonic = "person cave furnace bottom slight october gloom never sock garbage draft uncover";
+var mnemonic = "average provide art purity game demise doll distance artist almost finger play";

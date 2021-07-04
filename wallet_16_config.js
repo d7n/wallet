@@ -1,1 +1,1 @@
-var mnemonic = "angle choose gadget provide weasel focus hard bench marble shop coconut video";
+var mnemonic = "pattern comfort symptom bright drill another start alpha nurse panic decide miracle";

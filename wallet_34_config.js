@@ -1,1 +1,1 @@
-var mnemonic = "large oven female metal sport mechanic satisfy excuse weather dash pretty orient";
+var mnemonic = "split omit biology honey umbrella zero robust soap broccoli erode boring skill";

@@ -1,1 +1,1 @@
-var mnemonic = "upon music meat situate zoo vacant lunch arrive design merry burst whale";
+var mnemonic = "club almost food news vibrant spray myth buzz guilt fabric diary net";

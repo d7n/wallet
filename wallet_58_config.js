@@ -1,1 +1,1 @@
-var mnemonic = "path shaft bottom toilet leopard region half connect keep box illegal close";
+var mnemonic = "daughter thrive unhappy attitude paddle diet know actual sheriff decade genre drum";

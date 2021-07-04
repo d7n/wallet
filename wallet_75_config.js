@@ -1,1 +1,1 @@
-var mnemonic = "another sphere thumb stove cat faint kind mad decrease this liberty select";
+var mnemonic = "pioneer weird hat shadow until accident dice federal term forward approve toast";

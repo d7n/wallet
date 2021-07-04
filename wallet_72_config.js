@@ -1,1 +1,1 @@
-var mnemonic = "cash penalty twice zero plug gun wave gain kitchen fashion spread knee";
+var mnemonic = "sentence upper step apology bamboo clutch fade appear token math rail gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "lion cable metal doctor write lava primary describe trick enemy rhythm drum";
+var mnemonic = "thing adjust ahead scissors hire board throw chapter exchange vault address cheese";

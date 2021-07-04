@@ -1,1 +1,1 @@
-var mnemonic = "whisper case lizard shy nephew school february various leader cattle seminar crater";
+var mnemonic = "youth marine hurdle sausage much swarm plug wrong promote strike virtual silly";

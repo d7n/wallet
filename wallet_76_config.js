@@ -1,1 +1,1 @@
-var mnemonic = "cause message loud labor guitar laundry fog day random chat ill omit";
+var mnemonic = "mixture already gym merge island car anxiety vault genre unable faith helmet";

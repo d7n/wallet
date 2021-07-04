@@ -1,1 +1,1 @@
-var mnemonic = "mercy erode milk wine garlic piece turkey upper faculty later father goat";
+var mnemonic = "old make bulb confirm gap muffin street truth slice primary session taxi";

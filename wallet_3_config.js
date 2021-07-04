@@ -1,1 +1,1 @@
-var mnemonic = "garden brand erosion suffer yellow ecology farm alien embody hidden home film";
+var mnemonic = "flat insane laundry dice shallow jungle mutual people never lonely daring novel";

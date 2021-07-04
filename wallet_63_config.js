@@ -1,1 +1,1 @@
-var mnemonic = "envelope enrich comic frog purchase find style ocean blind bounce face purse";
+var mnemonic = "title sword early siege horn twice plastic car dismiss drive velvet door";

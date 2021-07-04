@@ -1,1 +1,1 @@
-var mnemonic = "tumble dizzy switch peanut naive east ugly chaos taste sign rather verb";
+var mnemonic = "bamboo siege predict pull cabin fence toss warm morning coyote mask link";

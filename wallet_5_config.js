@@ -1,1 +1,1 @@
-var mnemonic = "smart farm shove end bounce gloom convince female hotel grace fuel viable";
+var mnemonic = "call narrow clarify mountain patch electric teach clinic place car woman tank";

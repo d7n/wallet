@@ -1,1 +1,1 @@
-var mnemonic = "vault margin east eyebrow plastic taxi save flame tourist penalty renew alley";
+var mnemonic = "eyebrow reason slot satoshi sting effort snow oyster oppose release unable bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "next modify palace diagram august door ring service betray control cram elegant";
+var mnemonic = "blush improve stove core random meat question subject what coach fee onion";

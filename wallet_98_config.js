@@ -1,1 +1,1 @@
-var mnemonic = "boss same require six animal cabin ranch sudden since animal open ball";
+var mnemonic = "elder lift lizard cram group bomb illness web recall cattle play erode";

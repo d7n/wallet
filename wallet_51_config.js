@@ -1,1 +1,1 @@
-var mnemonic = "pencil salt crunch sustain endless top purchase idea lamp usual since way";
+var mnemonic = "rude venture quote young moment capable fat finish isolate devote neutral rhythm";

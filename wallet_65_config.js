@@ -1,1 +1,1 @@
-var mnemonic = "gown mention garment subject bind nuclear shiver tube buffalo wink expand art";
+var mnemonic = "rhythm island rabbit mechanic wedding captain rule gossip dilemma blast off then";

@@ -1,1 +1,1 @@
-var mnemonic = "card come turn sibling drastic total hub unit book pattern glance piece";
+var mnemonic = "family essence dynamic music music alley reflect require rare dance tiny flee";

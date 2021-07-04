@@ -1,1 +1,1 @@
-var mnemonic = "round achieve title decorate transfer parrot finish angle patch salad ice explain";
+var mnemonic = "blame runway tag method improve tourist clump correct voyage same curious attract";

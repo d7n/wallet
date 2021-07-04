@@ -1,1 +1,1 @@
-var mnemonic = "genre bamboo early trap index apart damage dance prefer erupt cousin cliff";
+var mnemonic = "south check legend multiply rather aspect success athlete absurd woman bone stove";

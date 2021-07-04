@@ -1,1 +1,1 @@
-var mnemonic = "jelly blue coach time grant asset fork tobacco that path giggle snap";
+var mnemonic = "bamboo club oblige bean more swap fortune keep beauty term tooth empty";

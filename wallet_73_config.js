@@ -1,1 +1,1 @@
-var mnemonic = "news install couple prevent public notice leisure shrug spider slow liar large";
+var mnemonic = "ocean latin honey toddler net original owner glance copper such green click";

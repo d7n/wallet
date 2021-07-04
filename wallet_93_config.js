@@ -1,1 +1,1 @@
-var mnemonic = "list believe weapon grit rail wealth cover inherit capable happy despair find";
+var mnemonic = "illness modify history cherry carbon tower expand edge example wrist voice bachelor";

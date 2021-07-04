@@ -1,1 +1,1 @@
-var mnemonic = "modify secret sight note myth want erupt wedding dolphin friend essence blast";
+var mnemonic = "option prosper street access coast expire radio hip hawk taste fall draw";

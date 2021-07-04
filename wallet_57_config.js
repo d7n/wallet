@@ -1,1 +1,1 @@
-var mnemonic = "fox cluster inherit jar speak flush elbow stage bar hire deny brush";
+var mnemonic = "gravity vault riot pulp vanish general more task fiction between replace crop";

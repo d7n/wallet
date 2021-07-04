@@ -1,1 +1,1 @@
-var mnemonic = "lake journey choice balcony often artist concert saddle exile clever reflect unveil";
+var mnemonic = "match august fabric ocean hover novel limit final pluck diesel urban artist";

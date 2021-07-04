@@ -1,1 +1,1 @@
-var mnemonic = "daring shuffle lemon gossip culture either twelve since gasp domain bike despair";
+var mnemonic = "cause clever level slight glimpse hair much robust unknown build fault link";

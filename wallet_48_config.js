@@ -1,1 +1,1 @@
-var mnemonic = "work surround increase girl brick grant syrup spin waste furnace jealous learn";
+var mnemonic = "advice polar curious body actual math convince elbow rocket loop caught dish";

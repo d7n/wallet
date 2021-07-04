@@ -1,1 +1,1 @@
-var mnemonic = "spell mandate fix almost decade gloom shaft survey diesel flock lazy cushion";
+var mnemonic = "have slot swallow language hen smart situate wealth increase inflict sight account";

@@ -1,1 +1,1 @@
-var mnemonic = "model pond corn uncle target also voyage water false rack gossip decline";
+var mnemonic = "enact title shaft casual creek adjust action wagon soon catch degree letter";

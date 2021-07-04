@@ -1,1 +1,1 @@
-var mnemonic = "else gym nest select all screen neck error pig brain entry possible";
+var mnemonic = "chicken toast color okay wet zone attract roof route carpet race absurd";

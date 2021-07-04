@@ -1,1 +1,1 @@
-var mnemonic = "organ bomb spin worth shoot hill jungle nice into ozone media raw";
+var mnemonic = "step swing clerk choice mango question draw nominee heavy wreck raccoon weapon";

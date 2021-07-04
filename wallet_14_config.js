@@ -1,1 +1,1 @@
-var mnemonic = "wing swallow camp carry photo diesel sun move bind coyote agent copy";
+var mnemonic = "pave know black expose pretty leaf crash novel fix monkey pipe bubble";

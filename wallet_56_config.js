@@ -1,1 +1,1 @@
-var mnemonic = "surface artist rebel shrimp curious deposit certain crystal waste goddess spell tiny";
+var mnemonic = "fossil section funny owner suspect pause night defy hammer coil bleak curve";

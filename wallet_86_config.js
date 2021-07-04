@@ -1,1 +1,1 @@
-var mnemonic = "spring purchase shoe question produce aisle brown scorpion industry original nothing addict";
+var mnemonic = "mask novel summer oyster draft balance extend tell celery story phone actual";

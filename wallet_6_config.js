@@ -1,1 +1,1 @@
-var mnemonic = "talent wire leopard only green sunset flame blame hollow exhaust paddle bracket";
+var mnemonic = "donkey faint sea memory second kidney stone boring upper field wink arch";

@@ -1,1 +1,1 @@
-var mnemonic = "dose twelve endless cushion holiday alarm deposit screen ketchup shy goddess beyond";
+var mnemonic = "pride task true improve average flight field rescue anxiety dash stock design";
