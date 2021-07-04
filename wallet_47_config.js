@@ -1,1 +1,1 @@
-var mnemonic = "still nurse public cream evil drop number ginger retire occur dash announce";
+var mnemonic = "clown depend table bubble castle have film recycle property vapor action keep";

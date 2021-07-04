@@ -1,1 +1,1 @@
-var mnemonic = "barely sleep flip install filter anxiety sample purchase coach make citizen field";
+var mnemonic = "pill print injury peace gather orphan text able strategy moral liquid angle";

@@ -1,1 +1,1 @@
-var mnemonic = "hub tray arrive sorry wine proof vote monkey keen mad hold chicken";
+var mnemonic = "royal document attitude copy ladder share inject depend ticket idea banner brush";

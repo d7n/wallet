@@ -1,1 +1,1 @@
-var mnemonic = "tornado spider stomach deal annual onion robot color traffic secret list around";
+var mnemonic = "hurdle absorb decrease turkey toilet inch peanut gadget spoon join vintage alcohol";

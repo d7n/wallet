@@ -1,1 +1,1 @@
-var mnemonic = "genre nice romance stumble invite today dragon design elevator rule filter child";
+var mnemonic = "page carbon illegal paddle mango kitchen silent tumble office tag regular state";

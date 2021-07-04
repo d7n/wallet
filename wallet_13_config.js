@@ -1,1 +1,1 @@
-var mnemonic = "vicious hover loop easy clay ring venue market title cover lottery weapon";
+var mnemonic = "wood rural duty prepare pig scorpion asthma coin catch air tell aunt";

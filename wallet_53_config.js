@@ -1,1 +1,1 @@
-var mnemonic = "bird skate state trust pelican clever syrup quality trial taxi evoke dinner";
+var mnemonic = "fringe rent pen lazy exact relief fragile rhythm friend expose off act";

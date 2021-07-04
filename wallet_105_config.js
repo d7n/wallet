@@ -1,1 +1,1 @@
-var mnemonic = "position document evidence hero avoid jaguar frozen father team crew sign hand";
+var mnemonic = "layer girl little vessel pulp valley cream say jeans paper panel inside";

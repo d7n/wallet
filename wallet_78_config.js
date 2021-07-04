@@ -1,1 +1,1 @@
-var mnemonic = "hybrid inhale enforce one almost engine park maze engage crystal camera smile";
+var mnemonic = "unaware ten can concert view join anxiety rhythm giggle region october junk";

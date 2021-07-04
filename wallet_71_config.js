@@ -1,1 +1,1 @@
-var mnemonic = "intact movie metal rubber urge cargo travel puzzle divide ill guess flock";
+var mnemonic = "demise trial subway burden bounce dilemma render sure join buffalo alone village";

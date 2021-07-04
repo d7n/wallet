@@ -1,1 +1,1 @@
-var mnemonic = "coffee cry genre salmon spray crazy oppose private renew brass catalog list";
+var mnemonic = "office elder sentence soldier vanish balance labor month over dream letter border";

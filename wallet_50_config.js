@@ -1,1 +1,1 @@
-var mnemonic = "impact pigeon snow stand rug object hundred bicycle hospital believe uphold slender";
+var mnemonic = "twelve pencil like admit trouble kangaroo have isolate street monitor fashion unusual";

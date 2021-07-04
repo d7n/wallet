@@ -1,1 +1,1 @@
-var mnemonic = "burst edit tobacco foam garment claw add wool churn door loud aisle";
+var mnemonic = "mobile flock produce knife library seat hammer wisdom marble leisure pretty loop";

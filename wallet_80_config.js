@@ -1,1 +1,1 @@
-var mnemonic = "sheriff angry goat figure orange frown lyrics relax badge drip tower clinic";
+var mnemonic = "helmet scan grief square grass song session neither truth museum key weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "garden where gadget toss buffalo try ostrich lesson crush wait vital subject";
+var mnemonic = "tennis rival ignore kiwi mammal layer party hungry leave luxury potato limb";

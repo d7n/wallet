@@ -1,1 +1,1 @@
-var mnemonic = "glow undo attend girl foot spring detect fiction kangaroo explain recall bonus";
+var mnemonic = "glue there prize lawsuit staff thank party muffin fold valid crouch bike";

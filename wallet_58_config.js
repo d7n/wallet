@@ -1,1 +1,1 @@
-var mnemonic = "neglect vital cancel detect catalog wish action ridge print absurd keep dirt";
+var mnemonic = "abstract myself frequent know almost immense digital sword merit short jelly arctic";

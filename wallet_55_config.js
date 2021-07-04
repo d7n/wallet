@@ -1,1 +1,1 @@
-var mnemonic = "pluck voice cool truck aunt chunk crime defense beach forget torch lend";
+var mnemonic = "attitude duty erode juice slot subject toy copy van soccer foil ski";

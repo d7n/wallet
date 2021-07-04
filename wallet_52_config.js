@@ -1,1 +1,1 @@
-var mnemonic = "erosion habit range daring uphold heart cost effort fatigue other expose together";
+var mnemonic = "juice dream genre busy comfort sense deny corn meadow flight keen finish";

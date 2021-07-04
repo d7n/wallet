@@ -1,1 +1,1 @@
-var mnemonic = "gaze bargain auction candy prison silver rocket trophy slim raven smart sleep";
+var mnemonic = "south spoil unknown gravity asset such gain upset neck ski cattle there";

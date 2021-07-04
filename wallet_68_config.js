@@ -1,1 +1,1 @@
-var mnemonic = "joy shoot public orbit also cradle poet brush shallow marriage uphold inquiry";
+var mnemonic = "setup asthma belt know quarter vacuum maze expand grace distance cube marriage";

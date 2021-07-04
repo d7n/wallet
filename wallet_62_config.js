@@ -1,1 +1,1 @@
-var mnemonic = "bone quality diamond wedding reopen public sign stay robot manage subway uniform";
+var mnemonic = "era fruit laugh jacket buyer same hazard cheap dragon light time soon";

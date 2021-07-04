@@ -1,1 +1,1 @@
-var mnemonic = "diagram mammal night busy village puzzle fire base ridge cabin snow tent";
+var mnemonic = "ready smile canyon actor soon top denial into crop virus join cousin";

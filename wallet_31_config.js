@@ -1,1 +1,1 @@
-var mnemonic = "device runway gallery glue such vote casual diet sauce series shock then";
+var mnemonic = "snack general hand coyote universe advice sister column remember neck record text";

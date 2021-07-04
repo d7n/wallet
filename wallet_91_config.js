@@ -1,1 +1,1 @@
-var mnemonic = "useful asthma canoe column device asthma wink gauge grunt absorb secret network";
+var mnemonic = "garlic joke license pet bulk marine salmon glow village region skirt patch";

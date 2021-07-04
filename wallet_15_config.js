@@ -1,1 +1,1 @@
-var mnemonic = "whip monkey bullet kick inner life parrot uniform cinnamon release gorilla tuition";
+var mnemonic = "normal carpet addict knife expose story wasp measure civil blue fossil episode";

@@ -1,1 +1,1 @@
-var mnemonic = "limit job acid daughter size decade supply grid maximum unique paper perfect";
+var mnemonic = "elevator funny lake leisure become cabin picnic spike month they frost dirt";

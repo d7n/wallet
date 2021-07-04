@@ -1,1 +1,1 @@
-var mnemonic = "maid silver pyramid bonus taste own vintage much clutch glare swing flag";
+var mnemonic = "much decline symptom enemy office surface alcohol prison weasel tourist weasel poverty";

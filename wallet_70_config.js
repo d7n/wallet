@@ -1,1 +1,1 @@
-var mnemonic = "ridge spy truck sentence buffalo view impose pause high kit local forum";
+var mnemonic = "tone eternal symptom setup rate mixture filter inspire prosper cram reveal problem";

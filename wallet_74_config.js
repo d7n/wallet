@@ -1,1 +1,1 @@
-var mnemonic = "mule welcome exact poverty puppy donor female outside cheap barrel purse media";
+var mnemonic = "salute trick win gadget scene dutch runway kiwi warrior nature west elder";

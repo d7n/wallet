@@ -1,1 +1,1 @@
-var mnemonic = "thunder wait athlete dwarf brand minute kick bind quiz small interest age";
+var mnemonic = "bench defense fee series coach fat bitter kidney educate dumb fee enlist";

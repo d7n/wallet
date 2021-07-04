@@ -1,1 +1,1 @@
-var mnemonic = "blood silent library turtle south velvet bench erupt lobster duck fade convince";
+var mnemonic = "again laugh shed trigger upgrade coil never engine steel belt swift denial";

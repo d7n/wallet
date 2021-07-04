@@ -1,1 +1,1 @@
-var mnemonic = "fetch inmate believe kite load vicious suffer fresh team cruise badge doctor";
+var mnemonic = "tell flock spot lab cereal profit rail attract pilot taste text boost";

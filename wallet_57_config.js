@@ -1,1 +1,1 @@
-var mnemonic = "rely hawk toss hand fringe lady champion clay fence fame genre taxi";
+var mnemonic = "victory hedgehog virtual company release build rival dwarf post immune upper guard";

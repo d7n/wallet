@@ -1,1 +1,1 @@
-var mnemonic = "rib place ecology submit wagon clutch coach boss sight segment alien polar";
+var mnemonic = "question step tent alter hurry spin manage tuna suit siren symptom annual";

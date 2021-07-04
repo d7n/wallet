@@ -1,1 +1,1 @@
-var mnemonic = "radar burst dial damp asset effort eternal return afraid country seven voyage";
+var mnemonic = "wise produce lazy ghost matrix bottom guide legend foam marble short any";

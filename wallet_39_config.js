@@ -1,1 +1,1 @@
-var mnemonic = "release adapt soap hurdle timber abstract flat carry heart amateur turkey resource";
+var mnemonic = "enlist badge olive artwork river hurdle rug tower foam catalog diet menu";

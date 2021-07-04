@@ -1,1 +1,1 @@
-var mnemonic = "analyst visa chaos visual merit frequent nominee warrior calm render you absorb";
+var mnemonic = "prize hat lecture need cube gas arrange shiver indoor issue liberty fiscal";

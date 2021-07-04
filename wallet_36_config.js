@@ -1,1 +1,1 @@
-var mnemonic = "local sunny apart list photo annual monitor crash front sail napkin unfair";
+var mnemonic = "envelope joy section office alien stairs resource anxiety zoo weasel learn tiny";

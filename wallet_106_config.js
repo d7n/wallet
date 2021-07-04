@@ -1,1 +1,1 @@
-var mnemonic = "green miracle crucial scare flee truth list eagle rifle raccoon tag school";
+var mnemonic = "cattle demand inherit question book spray split object theory brain ladder cluster";

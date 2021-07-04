@@ -1,1 +1,1 @@
-var mnemonic = "dad winner clerk fabric afford creek foil oblige jeans magnet busy phrase";
+var mnemonic = "rather tuna occur flush various dog allow promote disease panther mango bid";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon dance regular virtual bird area symptom three warfare pact infant focus";
+var mnemonic = "female trade holiday canyon security such genuine trouble make grant north again";

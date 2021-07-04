@@ -1,1 +1,1 @@
-var mnemonic = "measure add jungle ceiling garbage layer improve enlist picnic target urge balcony";
+var mnemonic = "execute extend similar pulse reveal loop crowd main black purchase virus entire";

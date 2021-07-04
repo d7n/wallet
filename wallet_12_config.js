@@ -1,1 +1,1 @@
-var mnemonic = "eight sauce fold require shoot cereal private street better hire foot horse";
+var mnemonic = "sheriff can grant rebuild plate today silly bundle dismiss picnic tape enrich";

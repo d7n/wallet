@@ -1,1 +1,1 @@
-var mnemonic = "toss allow obey that version since october put wise avoid oval worth";
+var mnemonic = "ball group surprise culture opinion team quarter trophy submit use cloud endorse";

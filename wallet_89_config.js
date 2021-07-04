@@ -1,1 +1,1 @@
-var mnemonic = "gate tribe strong strong style room lazy easy master state like trumpet";
+var mnemonic = "reveal space sense bleak together exchange little beach disease crop jelly fly";

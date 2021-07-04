@@ -1,1 +1,1 @@
-var mnemonic = "heart plate super vote slush novel desert symptom eyebrow cabbage food permit";
+var mnemonic = "gown universe coffee knife call deliver maze melt vanish pottery rent practice";

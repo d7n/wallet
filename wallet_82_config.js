@@ -1,1 +1,1 @@
-var mnemonic = "update sphere devote valid start aunt either remember region air visual slot";
+var mnemonic = "hood calm prevent burden base lift vintage humble wrist mercy fantasy lawsuit";

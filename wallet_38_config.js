@@ -1,1 +1,1 @@
-var mnemonic = "uncle narrow goose put snap mango sight casual royal bleak glance cup";
+var mnemonic = "lemon clever fit jump industry worth series purity actor pulse hub motion";

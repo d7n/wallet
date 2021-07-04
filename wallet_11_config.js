@@ -1,1 +1,1 @@
-var mnemonic = "route entire exit over across ask blue custom repair lab kid nuclear";
+var mnemonic = "become nominee vibrant piano goddess boss seminar found school myself trip state";

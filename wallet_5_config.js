@@ -1,1 +1,1 @@
-var mnemonic = "comfort menu fiscal remind fold pull solve announce upset brisk cram cheap";
+var mnemonic = "trade balance lawn tag capable decide nut web lock verify afraid style";

@@ -1,1 +1,1 @@
-var mnemonic = "idle leaf order fun kind repeat risk bind achieve meadow brass alien";
+var mnemonic = "spider odor slam forget clean average dash easily because satoshi trial until";

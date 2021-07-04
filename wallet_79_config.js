@@ -1,1 +1,1 @@
-var mnemonic = "fox lobster medal grocery until wrong genius survey arch broken wait pen";
+var mnemonic = "pluck chicken pool creek pink impact obscure ancient project later energy fantasy";

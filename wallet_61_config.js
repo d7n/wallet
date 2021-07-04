@@ -1,1 +1,1 @@
-var mnemonic = "brother fury other effort scrub burger review start ahead shrimp chief become";
+var mnemonic = "robust left modify extend blouse eternal caught jungle duck warfare now veteran";

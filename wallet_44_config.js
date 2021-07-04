@@ -1,1 +1,1 @@
-var mnemonic = "item motor ship poverty awake kiss heart gallery prize involve sand tissue";
+var mnemonic = "clinic rare vocal change stadium expire collect nuclear occur despair fiscal fan";

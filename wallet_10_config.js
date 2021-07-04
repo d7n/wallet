@@ -1,1 +1,1 @@
-var mnemonic = "cat either fever denial cradle glass sunset lawn wasp reopen cherry attack";
+var mnemonic = "pelican town liquid donate february stomach gain slam priority recycle ask spin";

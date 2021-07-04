@@ -1,1 +1,1 @@
-var mnemonic = "timber faculty amateur retire smooth forward merry dwarf original exchange become amount";
+var mnemonic = "cage gadget power ski rich fruit sand almost chicken benefit afford traffic";

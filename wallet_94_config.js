@@ -1,1 +1,1 @@
-var mnemonic = "aunt sad arrest vast elbow renew swim task pioneer parent math glue";
+var mnemonic = "segment unable trap together balance sand viable custom run turn sentence ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "under love rhythm page property become sight dirt address eager volcano display";
+var mnemonic = "beauty phrase plastic crunch angle tube boss income play pottery layer left";

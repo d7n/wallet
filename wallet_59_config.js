@@ -1,1 +1,1 @@
-var mnemonic = "bullet brass glow local behind finger broken bright invite orbit shell point";
+var mnemonic = "combine innocent shiver plate tiny will correct idle long joy hand issue";

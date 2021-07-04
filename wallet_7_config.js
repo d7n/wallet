@@ -1,1 +1,1 @@
-var mnemonic = "neither expose vehicle prefer team soul flat snap river device garlic vague";
+var mnemonic = "boat local pause shrimp mixed fix inject bench burden used push decorate";

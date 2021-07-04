@@ -1,1 +1,1 @@
-var mnemonic = "appear wild crazy erase extend wing wagon buyer traffic cool rather valve";
+var mnemonic = "worth ill blossom donor pact radio sort blouse leave chase eternal brand";

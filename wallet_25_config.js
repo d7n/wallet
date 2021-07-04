@@ -1,1 +1,1 @@
-var mnemonic = "truly rude machine vivid sword pigeon game wrong motor barely body oil";
+var mnemonic = "mimic business since season doll six very right shoe guard replace snow";

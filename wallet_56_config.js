@@ -1,1 +1,1 @@
-var mnemonic = "verb stamp length photo tornado cash music month topple hole hybrid leave";
+var mnemonic = "wait enrich surround comfort hint doll soon fish view soul victory vast";

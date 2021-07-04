@@ -1,1 +1,1 @@
-var mnemonic = "canyon omit front ugly trim photo year bring hazard wave priority scrap";
+var mnemonic = "seminar solution equip hour virtual sphere coil prize program puzzle develop crater";

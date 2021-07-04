@@ -1,1 +1,1 @@
-var mnemonic = "talk sample foam rotate insect spend resemble update chronic crunch loop boss";
+var mnemonic = "dinner vocal flat guilt oak scale stuff check blade news sport lunar";

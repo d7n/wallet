@@ -1,1 +1,1 @@
-var mnemonic = "gun wreck put rubber matter donkey wrestle kidney craft gorilla patient dove";
+var mnemonic = "fetch seven toward round assume chief alter solution myth lecture key oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato spend can cheap session warrior apart return bean casino script rubber";
+var mnemonic = "lumber enrich museum embrace vapor ski move click pride virus kidney wave";

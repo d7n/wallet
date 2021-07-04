@@ -1,1 +1,1 @@
-var mnemonic = "receive life two rain push track fitness senior enroll police creek critic";
+var mnemonic = "logic tank token shift ship jaguar enact kiss grid canyon spoon minute";

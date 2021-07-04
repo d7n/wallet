@@ -1,1 +1,1 @@
-var mnemonic = "public stairs orange rabbit upset resource baby execute aware unfold perfect fence";
+var mnemonic = "mushroom chicken aspect powder lucky enrich speed muscle match three curtain enjoy";

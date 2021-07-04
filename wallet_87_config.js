@@ -1,1 +1,1 @@
-var mnemonic = "give narrow snow magic neutral leisure castle cook town supply share absent";
+var mnemonic = "near sand antenna remove tag crater wink stage transfer real ceiling plate";

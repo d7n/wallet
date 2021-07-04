@@ -1,1 +1,1 @@
-var mnemonic = "alter cushion pave wrong wild make tray page round north verify arrange";
+var mnemonic = "jungle art novel spike catch blanket ski faculty cave document alarm lava";

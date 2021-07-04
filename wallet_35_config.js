@@ -1,1 +1,1 @@
-var mnemonic = "expire mobile limb cost coin pitch retreat trap top smart champion elephant";
+var mnemonic = "monkey badge upon fashion impose faculty mobile syrup erosion six humor tiny";

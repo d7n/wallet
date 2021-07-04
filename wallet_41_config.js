@@ -1,1 +1,1 @@
-var mnemonic = "unique narrow praise live bomb column celery bullet there hungry joke attack";
+var mnemonic = "height admit initial unique plate guard coil term bus car uphold legend";

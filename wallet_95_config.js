@@ -1,1 +1,1 @@
-var mnemonic = "verb whisper choice normal capital oxygen neither below aerobic connect brain two";
+var mnemonic = "submit lizard face design torch mass detail pink tunnel plastic purity diesel";

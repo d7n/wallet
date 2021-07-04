@@ -1,1 +1,1 @@
-var mnemonic = "soda club area grant smoke weasel slogan wonder memory make tiger december";
+var mnemonic = "fog city run cement nest mule depth family chief endless once donor";

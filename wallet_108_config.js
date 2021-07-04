@@ -1,1 +1,1 @@
-var mnemonic = "vessel garbage quiz position extend estate walnut use female flash famous tuna";
+var mnemonic = "glue crystal west view this bracket robust broom multiply enhance soul leader";

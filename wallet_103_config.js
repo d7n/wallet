@@ -1,1 +1,1 @@
-var mnemonic = "globe couple someone age faculty fuel office course rug sound faith eye";
+var mnemonic = "pipe more year country ostrich rose divert couple divide vague turtle coin";

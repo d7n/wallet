@@ -1,1 +1,1 @@
-var mnemonic = "combine repair scheme employ suspect claim script enlist kick theme delay bean";
+var mnemonic = "pioneer maid reduce toe anxiety into assault neutral clown marriage bridge strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol visit garment duck crunch hollow lonely soul street silent pen outdoor";
+var mnemonic = "eager major ill secret above buyer flat cloud obtain keen mail include";

@@ -1,1 +1,1 @@
-var mnemonic = "fit enroll crew intact bicycle cousin comic bulb divert vacant come clutch";
+var mnemonic = "lava away evil diamond blur like fish oblige nothing magnet deal foil";

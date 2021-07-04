@@ -1,1 +1,1 @@
-var mnemonic = "color solar castle zebra skin topple trust blind consider calm grain key";
+var mnemonic = "desk reveal staff tornado spell monster practice sugar steel chair apple neglect";

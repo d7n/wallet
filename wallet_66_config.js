@@ -1,1 +1,1 @@
-var mnemonic = "drama diet head brick gorilla deer tower retreat later mass chair waste";
+var mnemonic = "soccer apple flee bacon stand guilt trouble civil energy pull identify pencil";
