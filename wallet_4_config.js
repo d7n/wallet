@@ -1,1 +1,1 @@
-var mnemonic = "merge brass sort increase letter syrup nephew radio maximum pulse bulk clutch";
+var mnemonic = "embark cupboard rule upper law arm scrap mansion carbon trade vibrant various";

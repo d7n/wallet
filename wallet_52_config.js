@@ -1,1 +1,1 @@
-var mnemonic = "stay manage drill clay boring wolf oval lounge modify tree evil grain";
+var mnemonic = "grunt strategy enlist comic armed matter modify cross future brass funny switch";

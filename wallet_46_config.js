@@ -1,1 +1,1 @@
-var mnemonic = "merry prevent buyer clay wolf harsh bacon anchor absurd climb poem social";
+var mnemonic = "husband write deny change result surprise planet bachelor secret element palace giant";

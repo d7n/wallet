@@ -1,1 +1,1 @@
-var mnemonic = "always mushroom uncle measure wild lucky analyst divorce scale frown fat release";
+var mnemonic = "kind roast borrow cradle plate edge fish erase olympic possible effort amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal affair slow poet birth walnut soft bean hawk ice nasty harvest";
+var mnemonic = "glow power wool stem syrup bulb nature ghost brisk choice earth inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "fox fury armor invite copper series parrot mushroom noble random share myth";
+var mnemonic = "that banana reopen object motion margin frost riot own diamond awkward neutral";

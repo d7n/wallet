@@ -1,1 +1,1 @@
-var mnemonic = "miracle tooth bomb present shock pause excuse tenant hero grain runway large";
+var mnemonic = "general vital boost traffic cat that ride link search exile slam cloud";

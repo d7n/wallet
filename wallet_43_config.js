@@ -1,1 +1,1 @@
-var mnemonic = "tourist about chef derive injury tourist rule put mixed trigger crumble liar";
+var mnemonic = "dolphin one cliff essay salmon ritual celery output hood mix fly metal";

@@ -1,1 +1,1 @@
-var mnemonic = "toe general idea hope fantasy drink flight screen hurry among thought shoulder";
+var mnemonic = "leader raven hand nephew mechanic boss mystery maple area risk walk tiger";

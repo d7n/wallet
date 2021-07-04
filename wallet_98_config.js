@@ -1,1 +1,1 @@
-var mnemonic = "pond cactus opera soup close purpose input old rival vicious forum save";
+var mnemonic = "tag reflect illegal ask river donate heavy strike echo edge message deliver";

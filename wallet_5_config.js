@@ -1,1 +1,1 @@
-var mnemonic = "faith enrich auto twist craft elephant glare hamster industry sword poet vocal";
+var mnemonic = "often advance captain edit silent matrix distance host memory motion tired web";

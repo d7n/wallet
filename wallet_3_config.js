@@ -1,1 +1,1 @@
-var mnemonic = "lumber pool random thought aspect minor spy raise chef guilt foam cross";
+var mnemonic = "file key skirt gather valve humor dragon penalty stool federal model enemy";

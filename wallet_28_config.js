@@ -1,1 +1,1 @@
-var mnemonic = "weekend hundred purpose short burger brown analyst north price fiber fiction eager";
+var mnemonic = "dad isolate render crawl alley satoshi reopen render anger panda hair bread";

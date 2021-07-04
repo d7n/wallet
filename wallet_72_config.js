@@ -1,1 +1,1 @@
-var mnemonic = "slide winner loan invite net grass laundry point result illness child connect";
+var mnemonic = "cruel foster food web glass nature page gather lock pause cloud source";

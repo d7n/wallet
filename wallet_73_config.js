@@ -1,1 +1,1 @@
-var mnemonic = "crunch dry action sudden path song leg during lady easily aware job";
+var mnemonic = "frost such sound brand time shadow summer bonus enrich snap gold slam";

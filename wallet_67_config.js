@@ -1,1 +1,1 @@
-var mnemonic = "cigar season room analyst mistake table this marble lens laundry tenant balance";
+var mnemonic = "please pluck assist earn control ginger move vendor kick brave broccoli myself";

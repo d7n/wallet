@@ -1,1 +1,1 @@
-var mnemonic = "stand below body lucky labor rival fever gain gun promote pave glare";
+var mnemonic = "foster trust improve gravity phone mixed make pen three mention industry pool";

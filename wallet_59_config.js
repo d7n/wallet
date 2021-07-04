@@ -1,1 +1,1 @@
-var mnemonic = "swarm guard ready health leader peanut fun unable warrior voice dismiss attack";
+var mnemonic = "primary exhaust ceiling depend acquire major jewel talk act thunder involve witness";

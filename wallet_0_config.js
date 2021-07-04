@@ -1,1 +1,1 @@
-var mnemonic = "estate away tip any genre rain fall rich day there child chicken";
+var mnemonic = "sorry trumpet radio sibling please hotel voice then change acquire invite will";

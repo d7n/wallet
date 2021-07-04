@@ -1,1 +1,1 @@
-var mnemonic = "tomato calm marriage square twelve exhibit blanket law welcome nest green side";
+var mnemonic = "vault summer title embrace pony guilt monster birth glass butter oven vicious";

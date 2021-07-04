@@ -1,1 +1,1 @@
-var mnemonic = "pyramid more sound divert room bench jungle girl leopard hazard flag chapter";
+var mnemonic = "dune daring payment today vast embrace metal number gather strike beyond diary";

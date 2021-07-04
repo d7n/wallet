@@ -1,1 +1,1 @@
-var mnemonic = "behave license cancel predict book light math surge enable general loud soft";
+var mnemonic = "message erode lucky barrel drink board valve drill pulse fancy stock amateur";

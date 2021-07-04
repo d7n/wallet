@@ -1,1 +1,1 @@
-var mnemonic = "scale great mixed void mosquito damage meat fence feed regular note motion";
+var mnemonic = "soap goose youth custom light juice meat next type august used repair";

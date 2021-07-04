@@ -1,1 +1,1 @@
-var mnemonic = "powder immune main again fault three voice walnut ostrich foam heavy genuine";
+var mnemonic = "stock limit return blast tired area display remind choice suffer unlock proud";

@@ -1,1 +1,1 @@
-var mnemonic = "legend common farm tomato invite super educate hurt despair among grant bubble";
+var mnemonic = "idea crouch tide oblige lumber glimpse chat give volume cricket kidney tank";

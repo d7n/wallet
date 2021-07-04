@@ -1,1 +1,1 @@
-var mnemonic = "leg art ancient permit peasant suggest tornado announce lion screen shiver monkey";
+var mnemonic = "breeze pink burger salute desert couple apart assist focus oyster cushion raccoon";

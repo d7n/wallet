@@ -1,1 +1,1 @@
-var mnemonic = "neglect kidney roast cart size noble cash lecture dawn mix card trouble";
+var mnemonic = "owner spoon vivid when park subway twist jaguar pole marble taste anchor";

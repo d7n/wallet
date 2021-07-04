@@ -1,1 +1,1 @@
-var mnemonic = "husband spice exist resemble token protect dash patch open trick chimney sure";
+var mnemonic = "material chimney exile help casino clock wave ride undo bounce rhythm sample";

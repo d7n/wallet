@@ -1,1 +1,1 @@
-var mnemonic = "online champion tree all faint prize myth soft gold total glad seed";
+var mnemonic = "hunt matrix stand guilt scare length welcome peasant enemy play gadget gun";

@@ -1,1 +1,1 @@
-var mnemonic = "include steak oblige sauce endless shock stereo vacuum system rubber gospel shoe";
+var mnemonic = "expire artefact yellow kidney promote retire economy pause will drama civil account";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut message trip dynamic orphan local pulp stand scatter bone wedding planet";
+var mnemonic = "custom leg salute identify trust fetch pulse rather seed coyote delay protect";

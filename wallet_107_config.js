@@ -1,1 +1,1 @@
-var mnemonic = "canvas bind trend search ribbon knock casual scrub nose short scorpion camera";
+var mnemonic = "coconut opera visa cliff wreck box bring vibrant hurry memory arrow zoo";

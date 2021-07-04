@@ -1,1 +1,1 @@
-var mnemonic = "topic autumn excuse biology object soft guide game ankle genius sport flush";
+var mnemonic = "zone tell client crazy level grunt orange avocado cheap fan mom reunion";

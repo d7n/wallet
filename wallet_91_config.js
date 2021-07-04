@@ -1,1 +1,1 @@
-var mnemonic = "curious express exclude skill clog fantasy boring dumb decade during record tumble";
+var mnemonic = "antenna law entry patch crack water shock argue surround review entry sound";

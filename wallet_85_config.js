@@ -1,1 +1,1 @@
-var mnemonic = "desert group balance liquid exhibit edge know rigid want toilet way village";
+var mnemonic = "marriage cream whale buyer banner taste liquid thank patrol idea evidence actress";

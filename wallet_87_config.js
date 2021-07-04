@@ -1,1 +1,1 @@
-var mnemonic = "kit trial upset husband fat exact burst proof giant elegant chapter garbage";
+var mnemonic = "trap topple assault badge charge easily bronze market offer smoke topic wage";

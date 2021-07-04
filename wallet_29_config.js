@@ -1,1 +1,1 @@
-var mnemonic = "rack pulp below since tiger explain traffic feel few erase pride laugh";
+var mnemonic = "immense police moment fix daughter napkin only display memory regret razor off";

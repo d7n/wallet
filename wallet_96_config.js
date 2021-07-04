@@ -1,1 +1,1 @@
-var mnemonic = "unit weather shove offer bleak melody bright settle castle skirt moon credit";
+var mnemonic = "toast pencil decide budget throw random prize kangaroo cereal ticket rifle meadow";

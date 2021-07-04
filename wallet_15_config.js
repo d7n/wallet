@@ -1,1 +1,1 @@
-var mnemonic = "dice fringe judge milk kind purse episode across delay narrow viable crazy";
+var mnemonic = "sick food ill custom cheese couple spend report heart win tiger over";

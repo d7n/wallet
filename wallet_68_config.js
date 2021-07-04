@@ -1,1 +1,1 @@
-var mnemonic = "valid harbor medal wave joy empty awful beauty sight suit silver such";
+var mnemonic = "response type series runway sand inch border silly level fever object wrestle";

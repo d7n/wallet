@@ -1,1 +1,1 @@
-var mnemonic = "layer plunge juice fish media version sustain kiss common scare dumb marble";
+var mnemonic = "print powder theory system false weasel seek slim evidence comfort caution alley";

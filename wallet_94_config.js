@@ -1,1 +1,1 @@
-var mnemonic = "copper thumb oil invest shop update traffic best fish december alcohol blanket";
+var mnemonic = "siege hello turkey useless scatter area wink virus play fatal trust saddle";

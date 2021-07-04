@@ -1,1 +1,1 @@
-var mnemonic = "undo decade faculty loan wire burden exile panther trial umbrella inform visual";
+var mnemonic = "mention flip differ outer custom celery strategy metal river present dance neutral";

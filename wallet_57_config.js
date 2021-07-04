@@ -1,1 +1,1 @@
-var mnemonic = "upset poverty wealth struggle crane sniff delay crumble shoe bomb champion youth";
+var mnemonic = "gospel size kingdom forest inherit heart degree logic need regular moment unaware";

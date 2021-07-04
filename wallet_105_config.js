@@ -1,1 +1,1 @@
-var mnemonic = "uncle person pet remind busy brand document priority move tube then keen";
+var mnemonic = "relax hip price drastic hungry earn embark upgrade slogan typical plate inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "vital labor pigeon erupt risk size birth critic tornado airport another damage";
+var mnemonic = "tag when often coyote dose pipe slush mass panel scheme pledge latin";

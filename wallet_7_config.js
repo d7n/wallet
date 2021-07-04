@@ -1,1 +1,1 @@
-var mnemonic = "various multiply dinosaur reveal about village bag album monster wall neglect arch";
+var mnemonic = "certain cube payment resource layer shaft once film crew dune perfect window";

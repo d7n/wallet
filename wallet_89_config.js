@@ -1,1 +1,1 @@
-var mnemonic = "elbow dirt dash destroy friend mistake comfort mixed grief dish solution bind";
+var mnemonic = "mimic frequent relax skull cushion captain fluid arrive purity margin castle valve";

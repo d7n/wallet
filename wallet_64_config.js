@@ -1,1 +1,1 @@
-var mnemonic = "observe avoid emotion reunion avoid desk skull orient demise ritual eight gate";
+var mnemonic = "hand uncle regret clog oblige excess ramp grow urban impulse unit brass";

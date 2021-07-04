@@ -1,1 +1,1 @@
-var mnemonic = "predict guess sand rough desert shallow regret normal clown skirt mesh accident";
+var mnemonic = "couple rose area trap icon edit mesh deal obtain network potato brain";

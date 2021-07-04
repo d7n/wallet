@@ -1,1 +1,1 @@
-var mnemonic = "slot cousin nerve replace stove ugly trash surface since skin dismiss stomach";
+var mnemonic = "tunnel vendor era stool settle case render vehicle cart dog rather kiwi";

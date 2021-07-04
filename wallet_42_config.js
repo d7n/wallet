@@ -1,1 +1,1 @@
-var mnemonic = "world endorse cabin pattern conduct about mimic admit raise rescue pen leader";
+var mnemonic = "scissors fabric spell planet mother recipe crash boss spider weapon bike code";

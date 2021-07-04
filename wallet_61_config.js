@@ -1,1 +1,1 @@
-var mnemonic = "crazy slight forum mango cheap winter stage clog range great fish pledge";
+var mnemonic = "pyramid miss session shove fringe column wrong vote together govern chunk reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "nature advance release source stuff illegal exchange glance lizard mimic vague pottery";
+var mnemonic = "hidden miracle wolf tomorrow humble milk sunset sting change fish spatial exit";

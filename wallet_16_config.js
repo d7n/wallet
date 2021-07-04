@@ -1,1 +1,1 @@
-var mnemonic = "image inner phone hood color marine expire assume spawn season pioneer borrow";
+var mnemonic = "borrow margin novel crowd ice document field edit alley salmon angry music";

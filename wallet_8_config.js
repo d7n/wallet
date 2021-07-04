@@ -1,1 +1,1 @@
-var mnemonic = "frozen egg unable gold amazing powder sample flush frog grow hockey addict";
+var mnemonic = "emotion guard brown merry cage neutral error trip whip next label atom";

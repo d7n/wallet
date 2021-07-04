@@ -1,1 +1,1 @@
-var mnemonic = "duck another notice lab rotate april prefer return again electric whale else";
+var mnemonic = "biology word nose supreme drift monitor cereal pen hundred settle dove loud";

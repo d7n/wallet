@@ -1,1 +1,1 @@
-var mnemonic = "coyote glory before vote box replace dignity lyrics lottery crunch media main";
+var mnemonic = "hope limit bronze warrior load treat blouse into rely stomach weasel world";

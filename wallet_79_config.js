@@ -1,1 +1,1 @@
-var mnemonic = "twice boil wreck shy hen feed height honey jewel enemy name devote";
+var mnemonic = "slice announce stand rescue hope baby radio river secret island quiz express";

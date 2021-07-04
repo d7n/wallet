@@ -1,1 +1,1 @@
-var mnemonic = "resist skin album method subject then oxygen gallery output banana child multiply";
+var mnemonic = "floor marble just ocean sing slender type enable feature invite camp entire";

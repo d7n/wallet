@@ -1,1 +1,1 @@
-var mnemonic = "shine universe amateur hockey couch limb person return scorpion wave exotic thumb";
+var mnemonic = "method teach drum hello rescue settle panda rack father music prosper term";

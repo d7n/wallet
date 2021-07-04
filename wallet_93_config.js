@@ -1,1 +1,1 @@
-var mnemonic = "shine inside muscle repeat idle open drink cactus name guard trash memory";
+var mnemonic = "heavy panel payment normal earn doctor swim net mammal become surface pizza";

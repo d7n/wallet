@@ -1,1 +1,1 @@
-var mnemonic = "broom copy blur lazy grain true cat provide giraffe grit oyster target";
+var mnemonic = "taxi style capable antique grid dove mushroom profit prison tomato they physical";

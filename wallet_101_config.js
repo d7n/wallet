@@ -1,1 +1,1 @@
-var mnemonic = "suit surge ticket lunch kind stamp gas unique faint baby bar stadium";
+var mnemonic = "final retreat endless south matter above rotate fringe edge month inhale camera";

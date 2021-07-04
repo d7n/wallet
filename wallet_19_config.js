@@ -1,1 +1,1 @@
-var mnemonic = "drum stone success minute design basic transfer patch bright call vessel kidney";
+var mnemonic = "clutch sure glass engage rival outdoor moral toast hint sound razor cat";

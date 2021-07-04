@@ -1,1 +1,1 @@
-var mnemonic = "edge symptom exit crucial project field pilot filter amount exhaust party diesel";
+var mnemonic = "tunnel space escape purpose okay swift include tower carbon canal guess lemon";

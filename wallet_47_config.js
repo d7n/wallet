@@ -1,1 +1,1 @@
-var mnemonic = "stick random distance race define diamond nurse coast slab split giraffe monkey";
+var mnemonic = "select business flight disagree parrot net club step response entire accident neck";

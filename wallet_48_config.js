@@ -1,1 +1,1 @@
-var mnemonic = "swap also tiny coffee help warrior spirit keen segment truly hawk admit";
+var mnemonic = "crew meat fall assault portion audit vault ensure crew fruit easily limit";

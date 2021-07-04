@@ -1,1 +1,1 @@
-var mnemonic = "broccoli six usage dolphin spatial acid agent author calm finish shift enable";
+var mnemonic = "truck cost penalty chunk tree car heart kingdom chat palace lamp antique";

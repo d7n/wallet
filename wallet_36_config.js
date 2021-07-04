@@ -1,1 +1,1 @@
-var mnemonic = "stool distance year tail seek purpose stem nut fly dutch balance choice";
+var mnemonic = "quiz since decrease fringe execute again jewel decline crystal lumber cabbage false";

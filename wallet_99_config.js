@@ -1,1 +1,1 @@
-var mnemonic = "push flush type social praise ring school regular rain provide equal crew";
+var mnemonic = "wild wrist upgrade trust entry rack panther siren until talk effort rough";

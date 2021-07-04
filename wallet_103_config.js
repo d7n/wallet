@@ -1,1 +1,1 @@
-var mnemonic = "brick suspect ability legal search fog draft stage unveil dream square lumber";
+var mnemonic = "execute beyond fresh smoke spot biology beef congress ask charge short seed";

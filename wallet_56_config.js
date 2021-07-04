@@ -1,1 +1,1 @@
-var mnemonic = "ritual drama harvest fat awake dizzy happy fetch rib coyote clog great";
+var mnemonic = "dust orbit problem enemy ceiling zoo there brick desk apology seek report";

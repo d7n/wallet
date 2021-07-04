@@ -1,1 +1,1 @@
-var mnemonic = "spy merge ozone bulk endorse beach antique worth illness picture fly regular";
+var mnemonic = "extend black whale bracket because afford author panel squirrel sausage casual super";

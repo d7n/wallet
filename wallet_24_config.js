@@ -1,1 +1,1 @@
-var mnemonic = "tent total weasel witness kite place found idle concert casino educate bronze";
+var mnemonic = "rail unfair common cinnamon frozen vital idle dish old sail glow stem";

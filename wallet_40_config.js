@@ -1,1 +1,1 @@
-var mnemonic = "stereo can culture month crawl unaware raise amateur empty agree alley security";
+var mnemonic = "table office million reflect casual tenant illness ski shine solid all reflect";

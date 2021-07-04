@@ -1,1 +1,1 @@
-var mnemonic = "faculty abuse shallow embody language spy capital general uniform surprise dose praise";
+var mnemonic = "crisp local gold solar tail gauge lend knee nasty title join master";

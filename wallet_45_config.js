@@ -1,1 +1,1 @@
-var mnemonic = "air design bag more idea blanket cycle easy nurse beef sing antenna";
+var mnemonic = "network cradle very review stool clown assume option sister elbow chalk ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "advice famous possible endless knee nephew impulse borrow mesh mom blur broken";
+var mnemonic = "earth critic dry idea earth notice cannon cry impulse noise clarify display";

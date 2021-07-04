@@ -1,1 +1,1 @@
-var mnemonic = "horror zone reduce glad alter hotel custom circle wood sign crush gain";
+var mnemonic = "wrist alcohol use future danger patient glide rice father recall pizza tube";

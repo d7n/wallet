@@ -1,1 +1,1 @@
-var mnemonic = "diesel enrich area impose second celery two high spirit left miss manage";
+var mnemonic = "option phrase enhance gallery man there word bottom abuse digital face grunt";

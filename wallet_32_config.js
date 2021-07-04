@@ -1,1 +1,1 @@
-var mnemonic = "furnace genre balance game strategy garlic outdoor hood truth fee mammal this";
+var mnemonic = "emerge have reunion angle ecology wild forum utility dress state present illness";

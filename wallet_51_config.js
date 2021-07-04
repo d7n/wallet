@@ -1,1 +1,1 @@
-var mnemonic = "mask bargain robust leg rib flash beauty escape rigid elevator exit grass";
+var mnemonic = "tuition escape provide blood fluid hole candy whale charge path viable emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon swim account again version supreme danger outer vote hope elite blade";
+var mnemonic = "please cable mind chapter almost fix harvest room horn correct differ retreat";

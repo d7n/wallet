@@ -1,1 +1,1 @@
-var mnemonic = "bring clump pond knee tape december work bid fit burst access destroy";
+var mnemonic = "guard warrior party draw false access wrist funny thing case easily guard";

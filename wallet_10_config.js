@@ -1,1 +1,1 @@
-var mnemonic = "curve floor melt diet upper horror door strategy capital symbol surface cushion";
+var mnemonic = "own below utility detail reject license panel flight swear avoid ice satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle forest alcohol salute pool black scatter silly vacuum film squeeze joy";
+var mnemonic = "element suit caught nose solar vanish parent gift involve process various duty";
