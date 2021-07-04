@@ -1,1 +1,1 @@
-var mnemonic = "rabbit violin stay prefer monkey unusual voyage dinosaur guess magic brand side";
+var mnemonic = "solve chief home cinnamon skull glass lady toddler debris unfair inherit symptom";

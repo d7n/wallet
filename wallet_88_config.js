@@ -1,1 +1,1 @@
-var mnemonic = "clown fortune umbrella shell brass ocean exhibit parade city hamster donkey easy";
+var mnemonic = "theory elite beauty switch coast fever gloom ugly correct child right march";

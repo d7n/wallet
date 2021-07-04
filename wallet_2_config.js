@@ -1,1 +1,1 @@
-var mnemonic = "during economy among pulp garment exhaust act crater pottery jungle next prison";
+var mnemonic = "reunion scout divide slab pony beef rack public salt broken sunny blouse";

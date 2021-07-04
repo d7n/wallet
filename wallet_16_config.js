@@ -1,1 +1,1 @@
-var mnemonic = "fiction wedding awesome antique twelve monkey universe fault hurt belt job define";
+var mnemonic = "night biology slim slide phrase title borrow connect palm glad isolate merge";

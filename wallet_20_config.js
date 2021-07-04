@@ -1,1 +1,1 @@
-var mnemonic = "off produce artist riot race attract era kitchen mutual minor tape point";
+var mnemonic = "nose tobacco twin oak verb lonely celery seminar ride diamond episode scene";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh damp brass coach rhythm install essence stick final illegal until minor";
+var mnemonic = "pattern abuse angle carry tray second kitten fall shove reunion oak cruel";

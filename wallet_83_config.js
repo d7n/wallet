@@ -1,1 +1,1 @@
-var mnemonic = "index pet quarter hope friend foster mobile badge blue sign manage bachelor";
+var mnemonic = "blanket infant squeeze improve pitch sphere solid kiss race ceiling uncle curve";

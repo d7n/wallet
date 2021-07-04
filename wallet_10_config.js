@@ -1,1 +1,1 @@
-var mnemonic = "social frost west proud elder among use flame jazz notice face force";
+var mnemonic = "fruit punch settle loop insane hello nerve always alert lecture alarm fence";

@@ -1,1 +1,1 @@
-var mnemonic = "door rabbit glimpse certain run forum sadness dream own design income say";
+var mnemonic = "short okay thrive isolate apology library image tornado luggage office remind piano";

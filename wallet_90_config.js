@@ -1,1 +1,1 @@
-var mnemonic = "fiction cheap arch struggle charge pony mechanic chapter heavy sleep document loan";
+var mnemonic = "bid sibling mimic page turkey uncover salad oppose music rule chief peace";

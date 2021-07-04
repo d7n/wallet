@@ -1,1 +1,1 @@
-var mnemonic = "resource tag fat topic reunion because fitness near scale sample guitar version";
+var mnemonic = "orchard blouse syrup bachelor ordinary despair tackle dignity federal elbow claim cheese";

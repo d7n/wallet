@@ -1,1 +1,1 @@
-var mnemonic = "wealth vicious whisper reason gym license belt pistol leopard wood process also";
+var mnemonic = "chronic tube joke wet indicate quarter buzz outside crime amused cousin rival";

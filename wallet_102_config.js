@@ -1,1 +1,1 @@
-var mnemonic = "gossip stay soul scare shaft icon purse girl chimney song similar vault";
+var mnemonic = "caution push mean nominee flip bomb fly change correct repeat north decrease";

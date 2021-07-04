@@ -1,1 +1,1 @@
-var mnemonic = "hen minimum whisper park tank trade sound make hold tooth person three";
+var mnemonic = "flat aisle enact expect address apple entry cube bullet tag secret patch";

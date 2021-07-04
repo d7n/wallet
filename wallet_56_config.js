@@ -1,1 +1,1 @@
-var mnemonic = "film clown hedgehog success tackle crash holiday enforce average duck solar elder";
+var mnemonic = "foot stay lunar wreck artefact notice success panther rubber trash brush witness";

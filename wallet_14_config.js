@@ -1,1 +1,1 @@
-var mnemonic = "mad verify hawk scene peace spell often alpha acid clean survey gown";
+var mnemonic = "legal unveil scale lyrics alpha kiss say airport pretty result maid amount";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry ecology brother hundred business afford head version olympic absent rotate sniff";
+var mnemonic = "first mother father plug panic when pulse clarify lunar spawn buffalo gasp";

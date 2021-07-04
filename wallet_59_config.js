@@ -1,1 +1,1 @@
-var mnemonic = "curtain still logic rent impose above inflict adjust mandate august deputy sadness";
+var mnemonic = "essay dirt corn endless nominee episode spoil bottom diamond inspire advance ensure";

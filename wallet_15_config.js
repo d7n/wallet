@@ -1,1 +1,1 @@
-var mnemonic = "loud tail ginger comic oppose abuse involve symptom woman fruit country slogan";
+var mnemonic = "cheese rather skill pattern sword tiny avoid already toast morning face join";

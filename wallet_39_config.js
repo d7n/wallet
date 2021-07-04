@@ -1,1 +1,1 @@
-var mnemonic = "impact utility normal danger scatter kick mail message fury mom bulb answer";
+var mnemonic = "pioneer choice suffer submit income protect emerge force jewel blouse account clump";

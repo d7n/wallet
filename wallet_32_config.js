@@ -1,1 +1,1 @@
-var mnemonic = "local february rebuild dune motor tag about boil panther law smart chef";
+var mnemonic = "unknown critic route puzzle shop like relief future gold beauty erupt banner";

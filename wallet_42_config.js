@@ -1,1 +1,1 @@
-var mnemonic = "denial print until trick unfold morning found enforce crop cook joy early";
+var mnemonic = "arrive category put various naive reform caught weekend meadow winter puzzle surround";

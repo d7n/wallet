@@ -1,1 +1,1 @@
-var mnemonic = "this sketch entry amused cause verify orphan glad sock fix false glory";
+var mnemonic = "critic august unhappy present cattle denial umbrella spell evidence girl such order";

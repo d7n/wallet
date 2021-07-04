@@ -1,1 +1,1 @@
-var mnemonic = "cabbage bottom other true pet sand prize fork office charge avocado party";
+var mnemonic = "grit pledge useless wish brick feel brown surface version novel odor all";

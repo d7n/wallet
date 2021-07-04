@@ -1,1 +1,1 @@
-var mnemonic = "solution dilemma desk away genius hawk civil expect drift differ settle vacuum";
+var mnemonic = "raccoon around provide once text stuff noodle torch grant novel repair van";

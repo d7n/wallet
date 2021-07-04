@@ -1,1 +1,1 @@
-var mnemonic = "era color must say rescue neglect hockey frozen attack run gauge adult";
+var mnemonic = "margin present antique find word gallery sand lucky degree teach ramp rail";

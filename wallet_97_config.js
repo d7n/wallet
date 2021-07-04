@@ -1,1 +1,1 @@
-var mnemonic = "letter find warfare organ world peasant figure six beef echo quote excess";
+var mnemonic = "reunion above universe lamp snack glow autumn banner slab hundred cart feel";

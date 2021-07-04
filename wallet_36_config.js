@@ -1,1 +1,1 @@
-var mnemonic = "state until pink remind latin long vivid device afford plug media cannon";
+var mnemonic = "pumpkin crucial sausage unhappy evil stand smile such news napkin rookie blame";

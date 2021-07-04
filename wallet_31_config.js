@@ -1,1 +1,1 @@
-var mnemonic = "force hat tower rule defy chef army admit strategy goat book response";
+var mnemonic = "oval lazy more brain ladder tilt firm shallow two few anger sea";

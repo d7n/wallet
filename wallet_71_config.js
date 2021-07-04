@@ -1,1 +1,1 @@
-var mnemonic = "dumb express person again actor tree effort okay vacuum shine nurse example";
+var mnemonic = "rotate camp robust blur one bike camp remove wait harsh fringe also";

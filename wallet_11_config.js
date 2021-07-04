@@ -1,1 +1,1 @@
-var mnemonic = "brain since air absent notable exercise announce opera cliff novel sponsor cycle";
+var mnemonic = "visit shop lunch witness secret cake amazing funny rely enroll crush clinic";

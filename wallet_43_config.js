@@ -1,1 +1,1 @@
-var mnemonic = "hospital sunny virtual wall crisp shock lesson upgrade dial hard grow govern";
+var mnemonic = "obtain zebra family poverty couple festival license cattle diagram chuckle hub nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "art loan twenty auto aspect clump injury wet waste electric illness year";
+var mnemonic = "pulp hybrid daughter ankle bicycle tuition number match gossip monster short rocket";

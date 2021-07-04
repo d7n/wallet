@@ -1,1 +1,1 @@
-var mnemonic = "saddle defense concert buddy thing cheese stuff syrup cloth swing output until";
+var mnemonic = "sorry flavor sword tornado bring sustain shadow calm theory balcony draft moon";

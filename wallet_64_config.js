@@ -1,1 +1,1 @@
-var mnemonic = "ring route output knee sponsor during dutch include question gain key wheel";
+var mnemonic = "skull color guess moral valve image mistake swing trap enroll tribe purse";

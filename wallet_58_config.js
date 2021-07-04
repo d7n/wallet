@@ -1,1 +1,1 @@
-var mnemonic = "indicate enjoy expire index river pink slab door rate sniff impact fiction";
+var mnemonic = "sound cheap ghost direct vivid frame renew lemon name notable dial salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "prize sample build snake expand vacuum current ask expand fury soda royal";
+var mnemonic = "wood canvas where unaware pink inspire game toast sausage blame exist nut";

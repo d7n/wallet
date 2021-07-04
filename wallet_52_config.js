@@ -1,1 +1,1 @@
-var mnemonic = "claw skin draft express potato snow hungry over hidden forget venue toast";
+var mnemonic = "salt input mad emerge toe hungry climb ritual wolf use raise install";

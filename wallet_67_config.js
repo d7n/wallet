@@ -1,1 +1,1 @@
-var mnemonic = "tourist atom axis sport carpet account fiber control pupil energy protect shoulder";
+var mnemonic = "shrimp lottery refuse mention peasant this kit valid joy vague spirit spike";

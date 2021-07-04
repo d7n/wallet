@@ -1,1 +1,1 @@
-var mnemonic = "myth clip drop text addict fringe remain orchard settle owner stuff ride";
+var mnemonic = "hurt olympic job item grunt kitten adult flash vacant glance know juice";

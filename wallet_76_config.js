@@ -1,1 +1,1 @@
-var mnemonic = "uncle desert puzzle wing thought soft mobile life ecology virtual session silk";
+var mnemonic = "rib dish response staff foster beyond crop joy feel inch spice absent";

@@ -1,1 +1,1 @@
-var mnemonic = "play proud define merge family cabin civil ethics modify unfold track exotic";
+var mnemonic = "plastic twice fox rose canoe unknown dove three cliff language kiss agree";

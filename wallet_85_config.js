@@ -1,1 +1,1 @@
-var mnemonic = "ritual toward march post fuel scrub gaze nasty seek time inmate fruit";
+var mnemonic = "undo escape face october document elegant diesel lawsuit mystery borrow spot sense";

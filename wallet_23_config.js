@@ -1,1 +1,1 @@
-var mnemonic = "deal super battle sword ask setup episode legend carbon embrace field kidney";
+var mnemonic = "notable hunt office life robot blame auction parent three palm embrace give";

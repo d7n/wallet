@@ -1,1 +1,1 @@
-var mnemonic = "quantum mouse denial february bench copy drum off release walnut student resource";
+var mnemonic = "come melody enough abuse athlete mercy level tiger replace disagree anger uniform";

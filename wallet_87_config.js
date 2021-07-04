@@ -1,1 +1,1 @@
-var mnemonic = "double auction extra turkey fold whisper title screen sting stove fiber gorilla";
+var mnemonic = "envelope scrap maze flight repeat mimic obscure chase fire travel unknown omit";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist pool gesture famous half inspire absorb normal health pluck glow spawn";
+var mnemonic = "grid unlock lend police curtain polar member cushion word stuff end alien";

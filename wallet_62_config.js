@@ -1,1 +1,1 @@
-var mnemonic = "palm example junior kick solid fault favorite fade canoe burden kick slow";
+var mnemonic = "fringe honey ready noodle blanket spray anxiety sudden behave gossip apple hello";

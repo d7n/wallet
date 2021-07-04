@@ -1,1 +1,1 @@
-var mnemonic = "creek attitude knee issue coyote ugly salt era where assault warm senior";
+var mnemonic = "rocket vapor soon shove interest curtain minor fringe elder decade parent cross";

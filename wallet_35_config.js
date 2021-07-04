@@ -1,1 +1,1 @@
-var mnemonic = "clever element enlist wage invite finish try strategy system circle caution assist";
+var mnemonic = "file praise detect pumpkin soul deputy inmate physical point recycle thunder banner";

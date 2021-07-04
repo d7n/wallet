@@ -1,1 +1,1 @@
-var mnemonic = "switch lucky spread kidney tooth casual blind hard strategy collect shed dance";
+var mnemonic = "knock venture middle caught strike hello width zoo oyster survey observe crystal";

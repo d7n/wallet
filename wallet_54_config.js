@@ -1,1 +1,1 @@
-var mnemonic = "clog security food soccer knife rebel image draw resemble rich oven jazz";
+var mnemonic = "push imitate fancy engage mix slow donate cancel flash glory daughter tackle";

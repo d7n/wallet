@@ -1,1 +1,1 @@
-var mnemonic = "sponsor talk scout forum heavy smoke round depart honey square gown reason";
+var mnemonic = "worth desert fossil solve plug unique armed safe fragile brown someone ugly";

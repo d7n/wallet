@@ -1,1 +1,1 @@
-var mnemonic = "delay report force spend glare alter march more find shoe spirit cause";
+var mnemonic = "wool gap father ship clay angle empty link require situate jewel ecology";

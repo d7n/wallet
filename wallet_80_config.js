@@ -1,1 +1,1 @@
-var mnemonic = "concert nuclear upper spell monkey way near exhibit click ring flight proof";
+var mnemonic = "initial betray cruise wine find clever wait special three scheme soon race";

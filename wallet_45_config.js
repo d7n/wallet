@@ -1,1 +1,1 @@
-var mnemonic = "possible balance prevent bronze horse risk curious drama hover know aerobic clap";
+var mnemonic = "budget squeeze crater curve inform gravity burger hair enact tomorrow airport woman";

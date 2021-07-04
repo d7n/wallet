@@ -1,1 +1,1 @@
-var mnemonic = "furnace best seek upset track cruel thought hammer village gallery fade picnic";
+var mnemonic = "diary sugar warfare unveil reason exile morning board cradle ethics genius begin";

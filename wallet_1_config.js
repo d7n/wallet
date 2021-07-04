@@ -1,1 +1,1 @@
-var mnemonic = "basket grocery notable glide barrel make speak salt stuff sort vote guide";
+var mnemonic = "chat useful poem track airport pet guilt fox worry winter crash above";

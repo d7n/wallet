@@ -1,1 +1,1 @@
-var mnemonic = "attract exercise galaxy moon vibrant trim skill sniff ribbon kidney artefact room";
+var mnemonic = "arrive chat diamond autumn dutch point poverty hazard random voice flock sing";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel ethics soda arena morning robot sign maze belt reduce bonus chunk";
+var mnemonic = "swarm gauge power episode decline poet erase west panda unfold volcano defy";

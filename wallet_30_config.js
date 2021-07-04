@@ -1,1 +1,1 @@
-var mnemonic = "abandon decide unit tomorrow rely tone pause vote giraffe mass expose excite";
+var mnemonic = "apple gesture black myth floor gadget iron dynamic ring cigar wasp assist";

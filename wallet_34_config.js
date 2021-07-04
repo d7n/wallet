@@ -1,1 +1,1 @@
-var mnemonic = "sugar frown nest leaf pen lens remove unaware never grant embrace insect";
+var mnemonic = "boy arm behave mesh craft sight remove duty arrange tank sick shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "caution submit marine verify push child tube wheat rib amateur sponsor become";
+var mnemonic = "spawn field modify anger credit recycle black dwarf when else modify vintage";

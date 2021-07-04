@@ -1,1 +1,1 @@
-var mnemonic = "myself tube click brass deputy usage crystal blue bike example nerve truth";
+var mnemonic = "melt danger assume share hybrid nasty museum tell stone range hat valid";

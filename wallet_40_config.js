@@ -1,1 +1,1 @@
-var mnemonic = "vote doll fiction virtual rich bike acid stage swamp give plug more";
+var mnemonic = "law spy wheat rather maximum canal express stuff there sheriff idea panel";

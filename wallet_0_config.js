@@ -1,1 +1,1 @@
-var mnemonic = "ginger maze slight jacket insect cousin letter lamp assume ankle retreat recall";
+var mnemonic = "belt play copper satoshi gift umbrella fringe mixed crew kitten picture steak";

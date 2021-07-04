@@ -1,1 +1,1 @@
-var mnemonic = "soccer omit initial update margin much method follow supreme jealous flip switch";
+var mnemonic = "beef expose future peace catch tree nuclear report surprise ready session wonder";

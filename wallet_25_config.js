@@ -1,1 +1,1 @@
-var mnemonic = "kite when raise crazy pottery atom fall public skill merit calm between";
+var mnemonic = "direct armed club party great goddess ostrich purchase spend program champion thought";

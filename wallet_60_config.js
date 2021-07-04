@@ -1,1 +1,1 @@
-var mnemonic = "proud airport net trick under dad wink effort entry tent hobby script";
+var mnemonic = "danger inflict million portion pepper venue acquire mango cat fork begin chase";

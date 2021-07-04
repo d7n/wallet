@@ -1,1 +1,1 @@
-var mnemonic = "language twelve always admit lend bonus inhale tiger receive sing install cigar";
+var mnemonic = "tail void pulse dizzy slam because ski float little govern faculty argue";

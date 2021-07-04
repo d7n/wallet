@@ -1,1 +1,1 @@
-var mnemonic = "trouble cradle dice digital possible fire menu cheese edit sample glance say";
+var mnemonic = "spike typical wall resource innocent walnut oak connect brick boy frequent evoke";

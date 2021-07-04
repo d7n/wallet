@@ -1,1 +1,1 @@
-var mnemonic = "tiger bulk option canvas despair away foil social ostrich habit gain grant";
+var mnemonic = "pledge rapid reveal poverty quit never believe obtain cotton impose puppy proud";

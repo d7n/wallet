@@ -1,1 +1,1 @@
-var mnemonic = "whisper potato permit pear stem general neglect suffer other dust equip card";
+var mnemonic = "brass motion exact tragic buzz arch reveal tunnel wrap loop aisle lift";

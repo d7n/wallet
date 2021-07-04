@@ -1,1 +1,1 @@
-var mnemonic = "giraffe vessel bunker benefit hat mandate raven casino doll crime often load";
+var mnemonic = "coconut work broccoli eager spoon impose hobby shadow advance dolphin aisle slot";

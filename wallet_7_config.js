@@ -1,1 +1,1 @@
-var mnemonic = "notice pepper tongue master manual hobby casino prize yard citizen fade drop";
+var mnemonic = "truth cannon expose load multiply action focus artist relax nation type hip";

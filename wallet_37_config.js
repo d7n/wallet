@@ -1,1 +1,1 @@
-var mnemonic = "leopard rookie awake nurse roast talent avoid leader tail gain tape live";
+var mnemonic = "ceiling twelve useful trick balance print engine rail nest bronze undo jar";

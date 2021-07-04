@@ -1,1 +1,1 @@
-var mnemonic = "asthma foam release century maximum neutral glory infant outer glad almost arrange";
+var mnemonic = "claim fringe patient minor park uncle forest various danger finish chat blossom";

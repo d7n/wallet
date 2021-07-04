@@ -1,1 +1,1 @@
-var mnemonic = "early vibrant truth ensure prevent use loop lion believe ethics jacket squeeze";
+var mnemonic = "rescue cube gun twelve plug affair aerobic wide glue jaguar coconut twenty";

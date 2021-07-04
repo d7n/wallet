@@ -1,1 +1,1 @@
-var mnemonic = "answer forget steel shadow organ human pipe decorate sick sock knock vast";
+var mnemonic = "remain tape draft blouse ill spider agent daughter capital van company distance";

@@ -1,1 +1,1 @@
-var mnemonic = "air olive arrest online receive pencil garden anchor illness dentist outer truly";
+var mnemonic = "sell follow rebel pole beauty record march prosper rug erosion knock faith";

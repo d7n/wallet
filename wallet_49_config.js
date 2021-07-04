@@ -1,1 +1,1 @@
-var mnemonic = "chase work exercise scissors oak upper point merge brand case drum palace";
+var mnemonic = "wreck praise until lottery fiscal nephew mother knock enforce coyote educate ball";

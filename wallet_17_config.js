@@ -1,1 +1,1 @@
-var mnemonic = "another ritual among east select parade quote shallow rice bike reduce cube";
+var mnemonic = "clump maximum practice process charge wheel opinion jealous oyster escape bitter orient";

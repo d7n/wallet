@@ -1,1 +1,1 @@
-var mnemonic = "ladder wall dwarf happy glow west physical spy business distance cross coin";
+var mnemonic = "sell hub clutch cost maze dawn step favorite forget dose transfer deer";

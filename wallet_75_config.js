@@ -1,1 +1,1 @@
-var mnemonic = "survey find toss sustain weasel happy buffalo solid excite soft turn butter";
+var mnemonic = "reject clarify measure inject fame zone topple snow travel cook confirm sign";

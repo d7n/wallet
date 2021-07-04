@@ -1,1 +1,1 @@
-var mnemonic = "salute web waste expire excite reflect stool mouse truth minute minute pill";
+var mnemonic = "brass speak embark web speed little eye sort walk velvet stove smart";

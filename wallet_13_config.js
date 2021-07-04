@@ -1,1 +1,1 @@
-var mnemonic = "circle clap enhance penalty code oven problem holiday plate food grief program";
+var mnemonic = "thrive assault biology breeze decorate guilt want earth angle ginger stove capital";

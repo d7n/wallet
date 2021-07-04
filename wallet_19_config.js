@@ -1,1 +1,1 @@
-var mnemonic = "leg text slot pistol grass assume weird tag lottery echo disorder suspect";
+var mnemonic = "sister creek clerk chapter faint wage fashion barely hurdle stable near scale";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney pair palace brand upgrade knee rug elder unusual exile juice income";
+var mnemonic = "bread include still mouse pig loop chicken misery fragile boost gown rebuild";

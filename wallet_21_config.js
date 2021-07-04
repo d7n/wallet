@@ -1,1 +1,1 @@
-var mnemonic = "beauty armed fire hobby fantasy mean gospel motor horror fitness become symptom";
+var mnemonic = "page skill prevent pigeon trap idea planet regret brand riot artefact evoke";

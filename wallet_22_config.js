@@ -1,1 +1,1 @@
-var mnemonic = "chicken able caution mixed cute eternal ice shadow cabin power orchard require";
+var mnemonic = "lion arctic joke cram ill move nasty trigger job brass elevator surge";

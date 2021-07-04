@@ -1,1 +1,1 @@
-var mnemonic = "talk girl bike fine noble artist skirt fortune surprise impact body claim";
+var mnemonic = "visit upgrade segment suffer join supply leaf lab flame knock figure fragile";
