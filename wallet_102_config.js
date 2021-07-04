@@ -1,1 +1,1 @@
-var mnemonic = "swim favorite company secret bulb chicken lake flag festival alter purity behind";
+var mnemonic = "fortune predict artist recycle gravity merry index unaware deposit sausage list field";

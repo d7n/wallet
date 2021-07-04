@@ -1,1 +1,1 @@
-var mnemonic = "supply deer script bicycle lobster frozen analyst curtain transfer history enroll piece";
+var mnemonic = "sight wrist glove dirt remain sausage juice cool alcohol flavor seven soon";

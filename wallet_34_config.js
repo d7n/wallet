@@ -1,1 +1,1 @@
-var mnemonic = "guide essence artefact moment pottery soup conduct prepare mouse balcony choice receive";
+var mnemonic = "step elite plate cloud squirrel peasant wealth sick frozen dune concert stick";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard nice swarm cancel gauge raccoon jar task because visit photo tiny";
+var mnemonic = "element want tongue link differ strike library twenty clip park city exit";

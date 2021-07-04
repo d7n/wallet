@@ -1,1 +1,1 @@
-var mnemonic = "seed roof true endless daughter acquire cat alarm ugly couch portion gain";
+var mnemonic = "token bachelor region fan shop thought present debate strong record drop glory";

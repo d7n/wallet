@@ -1,1 +1,1 @@
-var mnemonic = "soul differ together pistol ketchup perfect purpose arrest cliff remember charge party";
+var mnemonic = "figure stand stable solve casual social jar small cereal talk say pool";

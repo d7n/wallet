@@ -1,1 +1,1 @@
-var mnemonic = "roast reject race sell letter glide token spawn claim load empower tunnel";
+var mnemonic = "belt endorse bargain exit amount grit virus dutch riot pencil merit beauty";

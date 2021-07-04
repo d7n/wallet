@@ -1,1 +1,1 @@
-var mnemonic = "fade scare side letter sea fetch width mask satisfy amount uniform dice";
+var mnemonic = "hen crane enrich flock special essence clinic hunt faith achieve gadget reason";

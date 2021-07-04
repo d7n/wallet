@@ -1,1 +1,1 @@
-var mnemonic = "curve coin gauge ketchup waste paddle example food risk drama kind maid";
+var mnemonic = "depart satoshi immense year asset ranch relax two loop suggest liquid hover";

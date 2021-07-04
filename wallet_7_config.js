@@ -1,1 +1,1 @@
-var mnemonic = "remind pulp another enhance rule impulse social visit dumb limb invest double";
+var mnemonic = "sausage enforce opinion jealous effort snack cradle nuclear company donkey glad pepper";

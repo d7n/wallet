@@ -1,1 +1,1 @@
-var mnemonic = "dad broccoli immense material brush horn knee estate illness bomb feed excess";
+var mnemonic = "bounce mosquito use gun train diagram build alter pave attract steak maze";

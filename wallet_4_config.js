@@ -1,1 +1,1 @@
-var mnemonic = "history body sauce answer eager stamp tissue absent impulse denial mammal rain";
+var mnemonic = "around nest miracle broom end throw gadget cake income deposit brisk suggest";

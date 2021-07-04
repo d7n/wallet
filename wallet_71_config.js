@@ -1,1 +1,1 @@
-var mnemonic = "battle inhale piece notable sick recipe wedding salmon what second can gown";
+var mnemonic = "surprise bronze suggest aerobic payment find purity have sure hip success tube";

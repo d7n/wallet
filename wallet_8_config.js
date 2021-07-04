@@ -1,1 +1,1 @@
-var mnemonic = "shed pill neither drill dance hour social express dose have enact clap";
+var mnemonic = "power identify tortoise lucky wet bleak maze comfort future employ mixed behind";

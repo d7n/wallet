@@ -1,1 +1,1 @@
-var mnemonic = "change hope file divide remain spin quick supreme jazz afraid equip catch";
+var mnemonic = "churn brain shrimp recall inner valley shock phone shaft feel this peace";

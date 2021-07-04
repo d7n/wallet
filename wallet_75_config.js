@@ -1,1 +1,1 @@
-var mnemonic = "sword imitate reject replace asthma color virtual chef chuckle talk sound final";
+var mnemonic = "base emerge average suspect category list verb leaf utility ready skin tip";

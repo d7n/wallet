@@ -1,1 +1,1 @@
-var mnemonic = "clump hunt black seat you during private example prepare match kitten afford";
+var mnemonic = "equal repair napkin shell violin visual insane time club noble raise measure";

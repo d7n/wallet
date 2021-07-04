@@ -1,1 +1,1 @@
-var mnemonic = "dog shrug window copy dog jar pet permit rug insect move father";
+var mnemonic = "tomato few enable own cruel bulb silly file ice leaf twenty damage";

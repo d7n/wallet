@@ -1,1 +1,1 @@
-var mnemonic = "final rain olympic retire typical benefit audit moon embody engage patrol fragile";
+var mnemonic = "travel small brush certain eternal chief account version element liquid child sample";

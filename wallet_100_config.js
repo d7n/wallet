@@ -1,1 +1,1 @@
-var mnemonic = "violin sting girl coral memory honey bulb opera parent appear around style";
+var mnemonic = "hazard add replace bundle chaos below scrub crumble total episode east autumn";

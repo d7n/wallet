@@ -1,1 +1,1 @@
-var mnemonic = "consider winter nasty edge thrive keep crane hold use mobile sail attract";
+var mnemonic = "upper follow charge soap usage hotel soon actress day couch crawl hair";

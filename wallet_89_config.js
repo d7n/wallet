@@ -1,1 +1,1 @@
-var mnemonic = "album add neglect borrow apart obvious ski double news pizza include toilet";
+var mnemonic = "romance age hour use economy exhaust present ugly iron apple loyal provide";

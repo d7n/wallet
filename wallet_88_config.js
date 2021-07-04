@@ -1,1 +1,1 @@
-var mnemonic = "option oxygen basic police toilet tomorrow oxygen slam elephant table drama weird";
+var mnemonic = "diagram tool hazard sentence despair aunt smile prize pelican victory skill news";

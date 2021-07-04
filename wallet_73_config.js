@@ -1,1 +1,1 @@
-var mnemonic = "gallery tooth bottom reason army stomach mercy venue faith post process marine";
+var mnemonic = "always rocket weird orchard develop program random pulse movie cube icon paper";

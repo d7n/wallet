@@ -1,1 +1,1 @@
-var mnemonic = "sister sound weasel similar gaze solid obvious boring female rough million stool";
+var mnemonic = "fringe husband elder eagle dune spin cute nest session stove electric episode";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid afraid useful news spin wife anger usual love submit nuclear give";
+var mnemonic = "wet crazy gap lady course purity quality day two rebel pet rule";

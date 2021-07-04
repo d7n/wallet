@@ -1,1 +1,1 @@
-var mnemonic = "pair ordinary cement manage rocket travel office patch huge wire grass soda";
+var mnemonic = "master train traffic report menu scene fire hungry ridge trip coconut blue";

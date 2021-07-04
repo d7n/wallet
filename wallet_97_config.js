@@ -1,1 +1,1 @@
-var mnemonic = "trick stairs provide large renew tribe cross pause still agent cargo drink";
+var mnemonic = "mosquito cloud music source ancient verb drift cactus day slender know rail";

@@ -1,1 +1,1 @@
-var mnemonic = "august rather mean asset air cannon defense pretty flower hollow merit miracle";
+var mnemonic = "marriage tenant warfare fog card funny mention accuse curtain shoulder cabin choose";

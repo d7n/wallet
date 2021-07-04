@@ -1,1 +1,1 @@
-var mnemonic = "call disagree elite census kite jazz goat switch useless silk swear limb";
+var mnemonic = "virus normal lottery dirt whale art awake night library honey tree goat";

@@ -1,1 +1,1 @@
-var mnemonic = "soda token loan lonely flush gloom stage inhale forget sibling oyster eye";
+var mnemonic = "fresh reason donor sphere empty design absorb conduct chalk act escape warm";

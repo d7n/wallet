@@ -1,1 +1,1 @@
-var mnemonic = "network pulse coral liquid shift journey envelope firm eager scrub ceiling humble";
+var mnemonic = "prosper certain patrol puppy garlic diesel lock album labor erode average glimpse";

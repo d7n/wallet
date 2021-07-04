@@ -1,1 +1,1 @@
-var mnemonic = "fashion moon object clog emotion cream will lumber buffalo decline try wolf";
+var mnemonic = "diary vocal praise awesome recipe join soon soul garden pipe ridge pen";

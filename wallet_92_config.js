@@ -1,1 +1,1 @@
-var mnemonic = "rose floor smile gospel erupt increase project west guard airport oak fuel";
+var mnemonic = "social jaguar nut height forget swarm embrace boost moment whip spider task";

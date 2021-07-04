@@ -1,1 +1,1 @@
-var mnemonic = "indoor define season sea green release brother foil close virus squeeze push";
+var mnemonic = "comfort negative cousin remember track tobacco tiny world enrich apology smile knock";

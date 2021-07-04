@@ -1,1 +1,1 @@
-var mnemonic = "hope gather gym tonight apology place victory dilemma sting educate huge control";
+var mnemonic = "praise adult ancient couple intact occur adjust genre wage field solar limb";

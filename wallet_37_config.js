@@ -1,1 +1,1 @@
-var mnemonic = "bike input warrior wish dentist escape analyst vendor smoke ankle peanut neglect";
+var mnemonic = "muscle alpha ability ginger sing clinic devote afraid wrap tongue slot lend";

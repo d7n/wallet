@@ -1,1 +1,1 @@
-var mnemonic = "nose chase kangaroo copy uncover toilet fall combine bread ocean earn fish";
+var mnemonic = "mutual horn sunny stadium gentle monkey jump scorpion visa design foil grape";

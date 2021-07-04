@@ -1,1 +1,1 @@
-var mnemonic = "fruit slender talent error cloth situate broccoli always blouse lunar large april";
+var mnemonic = "harbor tell any accident season able vehicle style enough shallow exotic recall";

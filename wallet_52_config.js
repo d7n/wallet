@@ -1,1 +1,1 @@
-var mnemonic = "then own source either start cry smooth claim give bag game cross";
+var mnemonic = "like razor liar connect cheese alpha crunch property grief dice eight measure";

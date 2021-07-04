@@ -1,1 +1,1 @@
-var mnemonic = "night assist month place judge enjoy soon inside horn spell valid host";
+var mnemonic = "burst guitar shift song finish entry viable leisure attack brisk multiply license";

@@ -1,1 +1,1 @@
-var mnemonic = "sing police viable surround shift document horn layer enemy wrong film index";
+var mnemonic = "helmet quantum deny company meadow danger nasty pave afford hill salon crack";

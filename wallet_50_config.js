@@ -1,1 +1,1 @@
-var mnemonic = "barely dry menu destroy home rate green ridge apple ugly flame embark";
+var mnemonic = "table review discover clock false dog share alone resist omit false then";

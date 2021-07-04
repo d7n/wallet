@@ -1,1 +1,1 @@
-var mnemonic = "file arrest ivory hollow deny release dog steak logic wise chaos lawsuit";
+var mnemonic = "trial lion maid rely decorate urban auction verify gesture weird gospel catch";

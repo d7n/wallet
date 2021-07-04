@@ -1,1 +1,1 @@
-var mnemonic = "mean throw grunt bring evidence wreck inner flame tent swift noble slab";
+var mnemonic = "then face deputy flight young cabin monster change open twelve same time";

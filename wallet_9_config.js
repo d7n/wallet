@@ -1,1 +1,1 @@
-var mnemonic = "toss behind tobacco excess this rigid circle fresh spirit alone club crouch";
+var mnemonic = "price lesson draw smart slide vault injury salmon require gaze present guide";

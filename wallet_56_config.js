@@ -1,1 +1,1 @@
-var mnemonic = "tide rich father squeeze enemy skirt regret soccer shift hub any rival";
+var mnemonic = "sad arctic advance sense rather crumble cruel camp ivory stumble noodle merit";

@@ -1,1 +1,1 @@
-var mnemonic = "recall gospel fantasy broken year original film diesel exotic panda wife undo";
+var mnemonic = "lawn tooth remove piano clump salon tower scare silent range parade olive";

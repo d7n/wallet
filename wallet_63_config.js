@@ -1,1 +1,1 @@
-var mnemonic = "enjoy jungle field sibling powder derive raw traffic shine patient follow monkey";
+var mnemonic = "waste improve post north nurse swamp sibling pony interest concert tomorrow buyer";

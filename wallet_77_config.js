@@ -1,1 +1,1 @@
-var mnemonic = "moment cream young opinion option cereal shine exact position fly elbow vacant";
+var mnemonic = "cloud odor enough math act fox breeze enact fancy woman drama puppy";

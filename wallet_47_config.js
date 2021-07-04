@@ -1,1 +1,1 @@
-var mnemonic = "depend funny short garlic guard advance ugly employ connect canvas echo smart";
+var mnemonic = "put wrong diagram document ocean opinion dawn liar rocket ugly deputy coconut";

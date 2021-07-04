@@ -1,1 +1,1 @@
-var mnemonic = "guard dry follow tennis add blanket left skate fever cave bullet delay";
+var mnemonic = "rocket gesture arch toilet body flash fork disagree sunset august bleak main";

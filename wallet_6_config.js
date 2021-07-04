@@ -1,1 +1,1 @@
-var mnemonic = "cart shadow grit fabric empty virtual dust vivid improve subject differ museum";
+var mnemonic = "blush syrup act hat assume panther come inhale alley atom bench real";

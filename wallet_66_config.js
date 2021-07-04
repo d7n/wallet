@@ -1,1 +1,1 @@
-var mnemonic = "lab valve word lobster march clay athlete donkey quick december skate tonight";
+var mnemonic = "bean cook dad swap survey name old remove ridge woman axis fork";

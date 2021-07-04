@@ -1,1 +1,1 @@
-var mnemonic = "daring brisk educate label again vacant toward purse daughter cinnamon fiber woman";
+var mnemonic = "pear that regret name hammer service float text round palm system gaze";

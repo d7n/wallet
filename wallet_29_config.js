@@ -1,1 +1,1 @@
-var mnemonic = "black muscle duck insect puppy balcony hotel correct victory dust slim ill";
+var mnemonic = "leader control void inform cruel glow dwarf fitness rally drive slight empower";

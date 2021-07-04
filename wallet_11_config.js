@@ -1,1 +1,1 @@
-var mnemonic = "hip ready crop west nose craft logic nation clog youth width guide";
+var mnemonic = "act first endless wire laptop soccer swear comfort mushroom motor ordinary upset";

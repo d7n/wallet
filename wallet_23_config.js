@@ -1,1 +1,1 @@
-var mnemonic = "near love early either shrug fence burger ridge lawn frog enemy parent";
+var mnemonic = "absorb spice sick clip school cup tackle enter good alarm struggle bid";

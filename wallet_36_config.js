@@ -1,1 +1,1 @@
-var mnemonic = "harsh gas coconut slight program begin girl hundred mean sauce rural census";
+var mnemonic = "guess just service oxygen cruise garlic fall federal thumb coast light pill";

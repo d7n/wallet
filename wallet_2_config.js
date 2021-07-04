@@ -1,1 +1,1 @@
-var mnemonic = "panda stumble fence metal ill library scissors short series cluster jealous strategy";
+var mnemonic = "pizza swap split horror pull history kingdom tribe weapon demise asthma prison";

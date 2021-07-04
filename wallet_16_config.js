@@ -1,1 +1,1 @@
-var mnemonic = "proof eye wire view private shaft connect know essay noble letter dentist";
+var mnemonic = "hollow else ride situate young divide thrive wing bunker green auto congress";

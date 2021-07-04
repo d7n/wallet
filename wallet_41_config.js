@@ -1,1 +1,1 @@
-var mnemonic = "scrub begin cluster woman vehicle peace twice gate evidence abuse life void";
+var mnemonic = "oblige correct infant salon dwarf sudden frame capital run strategy bid pigeon";

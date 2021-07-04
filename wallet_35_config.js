@@ -1,1 +1,1 @@
-var mnemonic = "make night fashion disease claw gloom dawn amused predict dirt impact soccer";
+var mnemonic = "kit fun potato flush elder invest govern ocean kitten shock odor trick";

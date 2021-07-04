@@ -1,1 +1,1 @@
-var mnemonic = "amount crunch party dose clean labor devote view primary curve border brown";
+var mnemonic = "true differ wisdom solution ivory hazard capable loyal feature clump dress toy";

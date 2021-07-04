@@ -1,1 +1,1 @@
-var mnemonic = "trial mansion butter chimney fade kid fish tag fluid someone plug ship";
+var mnemonic = "guide good differ bus field expand crime inform soon decrease neglect camp";

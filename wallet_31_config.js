@@ -1,1 +1,1 @@
-var mnemonic = "weasel surround cheese catch resist sausage raccoon south shrimp engage primary engage";
+var mnemonic = "possible purchase trick cherry zero cake ability observe taste clog wine face";

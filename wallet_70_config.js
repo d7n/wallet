@@ -1,1 +1,1 @@
-var mnemonic = "fan craft member artwork fix tip employ mystery dry hazard meadow paper";
+var mnemonic = "tent combine employ orbit oval obey about adapt grace draw slogan oppose";

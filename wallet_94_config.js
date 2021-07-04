@@ -1,1 +1,1 @@
-var mnemonic = "deputy palm tonight find tenant sunny rescue inquiry bracket vast regular control";
+var mnemonic = "result apple hat hello hazard use exile casino raise priority liquid glimpse";

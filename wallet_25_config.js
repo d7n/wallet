@@ -1,1 +1,1 @@
-var mnemonic = "room gap spider hurt happy like amount glory cat vague enemy coyote";
+var mnemonic = "fiber empower razor divorce express crane cool supreme hole toilet aisle random";

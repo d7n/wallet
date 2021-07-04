@@ -1,1 +1,1 @@
-var mnemonic = "brown sentence woman identify little logic unfair affair maximum travel evidence myself";
+var mnemonic = "flower combine envelope ask aspect hobby fringe present furnace bid aunt wedding";

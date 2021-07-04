@@ -1,1 +1,1 @@
-var mnemonic = "fabric advance age inmate one capital cruise combine gorilla stadium giant festival";
+var mnemonic = "sister wheel scrap awkward divert actress report stadium void have sphere mystery";

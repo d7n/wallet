@@ -1,1 +1,1 @@
-var mnemonic = "wheat whip pull video pizza live silk horror novel insane shield illness";
+var mnemonic = "mobile basic polar public topic people spider thrive emotion pizza mistake weird";

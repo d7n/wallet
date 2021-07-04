@@ -1,1 +1,1 @@
-var mnemonic = "release venture swift inch water domain mirror jazz calm include chunk width";
+var mnemonic = "clap lava will nest random order sing artwork furnace tiny minor visa";

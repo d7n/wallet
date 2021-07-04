@@ -1,1 +1,1 @@
-var mnemonic = "happy cross awkward drop random mammal leaf slush filter canal fetch edge";
+var mnemonic = "annual little swift circle habit stool vault menu want struggle arctic unfair";

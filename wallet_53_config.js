@@ -1,1 +1,1 @@
-var mnemonic = "echo phone oven rely song tool civil execute pizza sand task trick";
+var mnemonic = "luggage absent shell apology parent what bean present cry screen dinosaur labor";

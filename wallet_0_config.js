@@ -1,1 +1,1 @@
-var mnemonic = "pigeon unlock alcohol kidney involve potato grape left behave arena what stamp";
+var mnemonic = "leave notable disorder level embark coconut mask unfair brown defense envelope increase";

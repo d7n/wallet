@@ -1,1 +1,1 @@
-var mnemonic = "judge oxygen trade spider unusual lake dry file domain stool east connect";
+var mnemonic = "market border battle verb bulk draw crouch exact vicious flower alert lamp";

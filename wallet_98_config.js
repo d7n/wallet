@@ -1,1 +1,1 @@
-var mnemonic = "inject birth smile body armor occur common mesh garden snake segment charge";
+var mnemonic = "give time material father scorpion mistake pelican soap summer involve write vital";

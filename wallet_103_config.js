@@ -1,1 +1,1 @@
-var mnemonic = "cushion hire defense still sunny immense lesson confirm bone unfair diamond air";
+var mnemonic = "figure fire same inflict suffer private nasty rival prosper ramp limb era";

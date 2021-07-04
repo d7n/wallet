@@ -1,1 +1,1 @@
-var mnemonic = "nature gloom gather bamboo boring december stone canvas buyer wet salute wash";
+var mnemonic = "pen acid invite busy exhaust oil orphan road behind together honey equip";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty must border garment describe craft moral any wave relax suggest filter";
+var mnemonic = "woman oil cargo night must apart tennis simple hollow zoo earth urge";

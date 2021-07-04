@@ -1,1 +1,1 @@
-var mnemonic = "photo still shaft slab remember prize face under tattoo pistol sad friend";
+var mnemonic = "envelope life yellow fall away armor eternal athlete begin cart dinosaur rebel";

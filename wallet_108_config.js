@@ -1,1 +1,1 @@
-var mnemonic = "rent panda tomato lecture erase explain slight analyst cat wife east season";
+var mnemonic = "peace meat ecology alley bulk enhance fat join shove swear leisure stay";

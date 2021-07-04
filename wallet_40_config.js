@@ -1,1 +1,1 @@
-var mnemonic = "unique real foster recall ability stamp shine tennis hurt grace loop world";
+var mnemonic = "example nasty exit debris pair season torch grain symbol sick scrub radar";

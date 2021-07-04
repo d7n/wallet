@@ -1,1 +1,1 @@
-var mnemonic = "captain caught noble float toast path shaft wish glove fish bleak once";
+var mnemonic = "fine cotton assault name arena reward sail remember mammal country quiz endless";

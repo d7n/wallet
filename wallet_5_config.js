@@ -1,1 +1,1 @@
-var mnemonic = "vicious peace whip true embark drive gap test morning company owner custom";
+var mnemonic = "follow garage shuffle first clarify network aspect expect proud cover join harbor";

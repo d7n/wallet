@@ -1,1 +1,1 @@
-var mnemonic = "orange leave iron square stool proof hundred iron affair jaguar pelican armed";
+var mnemonic = "envelope resource connect book live ozone much twice clog twenty tribe buffalo";

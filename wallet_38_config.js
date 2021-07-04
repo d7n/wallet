@@ -1,1 +1,1 @@
-var mnemonic = "share divert hat label among small squeeze define vendor risk vote country";
+var mnemonic = "rural spoil host increase situate crane social rough hope uncle true library";
