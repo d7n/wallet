@@ -1,1 +1,1 @@
-var mnemonic = "damage corn subway say apology hole deal equip wife wise welcome giant";
+var mnemonic = "enact elite reward tide degree dress resemble soda fortune pave world super";

@@ -1,1 +1,1 @@
-var mnemonic = "rug say october equal area trap inmate coin imitate find slow virus";
+var mnemonic = "mom easily grow tattoo despair chair better reveal model cereal upper mushroom";

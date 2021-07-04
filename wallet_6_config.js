@@ -1,1 +1,1 @@
-var mnemonic = "squeeze submit picnic bitter model bird poet token skin faculty dash start";
+var mnemonic = "two inherit prefer lake mercy slide energy anchor desert melody field chef";

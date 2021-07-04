@@ -1,1 +1,1 @@
-var mnemonic = "rescue lemon wedding cotton erupt memory finger victory large monkey unfair board";
+var mnemonic = "speak machine protect valley plug lemon nest spell civil magnet maze prize";

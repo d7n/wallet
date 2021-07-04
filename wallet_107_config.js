@@ -1,1 +1,1 @@
-var mnemonic = "robust across cup grid viable lizard oval entire patch canoe jaguar demand";
+var mnemonic = "endless what curve pistol fetch news humble seed head cat derive army";

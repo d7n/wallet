@@ -1,1 +1,1 @@
-var mnemonic = "hundred sort more auto lake island venue just soft identify embody walk";
+var mnemonic = "artwork moon limit era twice dirt flee repeat coyote human tag scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "become erode drill call patch series adult city move father across october";
+var mnemonic = "pepper apology rare cute stand soap enable confirm skirt panda asthma mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "give number garbage endorse index sponsor gun awkward grass purpose stove cream";
+var mnemonic = "merry cheese kick open sell prevent resemble quality blame advance end refuse";

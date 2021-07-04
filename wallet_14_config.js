@@ -1,1 +1,1 @@
-var mnemonic = "trigger soccer opinion chase company company bonus item iron punch slice divorce";
+var mnemonic = "lobster narrow betray fix wait ozone mosquito canvas double recipe artefact economy";

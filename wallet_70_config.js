@@ -1,1 +1,1 @@
-var mnemonic = "grace item roast fiscal almost human odor slab large stock master minor";
+var mnemonic = "rule manage nut vocal infant right pioneer myself pulp body anchor traffic";

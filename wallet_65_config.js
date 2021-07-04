@@ -1,1 +1,1 @@
-var mnemonic = "acid transfer ride burger mango pen mandate arrow boss then bike despair";
+var mnemonic = "feel glad original spare salon empty chronic scissors dismiss inject tomato belt";

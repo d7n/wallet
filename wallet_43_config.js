@@ -1,1 +1,1 @@
-var mnemonic = "office harbor advance enjoy decide decade clown refuse west now urge jewel";
+var mnemonic = "ladder toast flame oval drink vital client agent budget core thought dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap goose inspire fashion harbor dish cycle solid urban rebuild layer basic";
+var mnemonic = "present quit task such off dirt engine certain express manage earn float";

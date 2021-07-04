@@ -1,1 +1,1 @@
-var mnemonic = "outdoor puzzle enforce order borrow human green umbrella earth elite unknown adult";
+var mnemonic = "arrest rug draft alien width witness bid consider safe sea museum genius";

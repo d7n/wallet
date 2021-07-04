@@ -1,1 +1,1 @@
-var mnemonic = "title year lonely toddler sugar fog domain ship mixture master category guitar";
+var mnemonic = "green wash race tennis legal grow degree true figure snap verb grunt";

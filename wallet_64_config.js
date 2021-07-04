@@ -1,1 +1,1 @@
-var mnemonic = "custom near family arena whip message sound awkward ketchup remember memory height";
+var mnemonic = "crucial funny divert derive purpose much language love jacket sense catch dose";

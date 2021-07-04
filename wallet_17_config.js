@@ -1,1 +1,1 @@
-var mnemonic = "employ absorb unknown enter update bullet thunder change permit favorite sheriff advance";
+var mnemonic = "web human world patient never spring skin impose kit clown sure rural";

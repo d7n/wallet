@@ -1,1 +1,1 @@
-var mnemonic = "chef reduce guard abandon lazy glue custom skirt utility rotate spread crane";
+var mnemonic = "truck mobile uphold ocean about dizzy pupil put muffin want impact club";

@@ -1,1 +1,1 @@
-var mnemonic = "bring fuel secret degree witness weasel foot divide excuse valley canoe host";
+var mnemonic = "slogan bike essay they rocket endorse state veteran scrap estate daughter alpha";

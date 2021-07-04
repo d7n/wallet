@@ -1,1 +1,1 @@
-var mnemonic = "tongue scene ribbon novel library true trim market math grass toilet inform";
+var mnemonic = "number debate bless frequent unfold casino few transfer fiscal rather easy random";

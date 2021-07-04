@@ -1,1 +1,1 @@
-var mnemonic = "venue will sadness mail parent better doll jelly govern enrich bus squeeze";
+var mnemonic = "pool clump balcony prize anger property wise repair turtle biology hawk lazy";

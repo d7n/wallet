@@ -1,1 +1,1 @@
-var mnemonic = "firm shine weird axis wage sausage web neither execute two quarter situate";
+var mnemonic = "kitchen cattle raw entry mammal symptom father guide fog mix tortoise poverty";

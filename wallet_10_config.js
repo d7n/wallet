@@ -1,1 +1,1 @@
-var mnemonic = "venue jungle million moral canvas foil that return nature elbow diamond enemy";
+var mnemonic = "inject gas cliff accident august rare junior path fiber plastic catalog entry";

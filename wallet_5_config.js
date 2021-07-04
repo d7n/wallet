@@ -1,1 +1,1 @@
-var mnemonic = "mind now finger jaguar please anxiety proof snap timber grocery leopard energy";
+var mnemonic = "bachelor bone token clutch border quick device play seat super result raccoon";

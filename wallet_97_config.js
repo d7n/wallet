@@ -1,1 +1,1 @@
-var mnemonic = "artefact employ fantasy east canal melody kitten parent address mask argue flush";
+var mnemonic = "picture file hobby sword picture route cinnamon devote put spin high tired";

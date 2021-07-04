@@ -1,1 +1,1 @@
-var mnemonic = "usual couch genuine soldier corn sleep burden cruel save guess awesome tag";
+var mnemonic = "cash rabbit sustain gym follow spend festival noodle control become secret enact";

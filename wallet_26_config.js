@@ -1,1 +1,1 @@
-var mnemonic = "royal stick rack foot print galaxy bronze ignore silk pen write luxury";
+var mnemonic = "can judge sail pilot chunk huge grab spike ancient usage clarify oxygen";

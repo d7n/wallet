@@ -1,1 +1,1 @@
-var mnemonic = "culture web way all yard ski foot help enhance pretty dry error";
+var mnemonic = "winter casual amused trash remain maple afraid brother curve early frown daring";

@@ -1,1 +1,1 @@
-var mnemonic = "drift spread husband margin glove endorse liquid brisk cluster viable bright only";
+var mnemonic = "violin lamp diagram orchard flavor august token hidden idea prepare elder anger";

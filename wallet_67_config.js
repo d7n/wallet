@@ -1,1 +1,1 @@
-var mnemonic = "ghost mesh lawn welcome anchor million much buzz modify weasel razor speed";
+var mnemonic = "hover mention kit float like afraid dove reveal erode supreme mistake satisfy";

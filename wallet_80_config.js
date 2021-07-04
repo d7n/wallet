@@ -1,1 +1,1 @@
-var mnemonic = "child submit step stove limit add turtle erupt spider winter census peasant";
+var mnemonic = "home winner zero thank guess midnight legend south panda good yard hedgehog";

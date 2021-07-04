@@ -1,1 +1,1 @@
-var mnemonic = "increase august web lottery execute identify exile brief tackle window license spot";
+var mnemonic = "hammer bring solution wink win track budget shine snow nut wine shuffle";

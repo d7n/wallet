@@ -1,1 +1,1 @@
-var mnemonic = "spin wait abuse february spin emerge come hammer slogan rent sell outdoor";
+var mnemonic = "portion share model thunder harbor hour law virtual scorpion toss weekend forest";

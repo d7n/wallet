@@ -1,1 +1,1 @@
-var mnemonic = "worth liquid again ahead wide crack task old install shell reward bachelor";
+var mnemonic = "grab dwarf asthma fog spoon screen foam please scrub mind sustain double";

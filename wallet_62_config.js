@@ -1,1 +1,1 @@
-var mnemonic = "juice dream timber put light student sick inject day lend rapid grow";
+var mnemonic = "menu airport inch lonely debate mention brave daughter husband inflict grain random";

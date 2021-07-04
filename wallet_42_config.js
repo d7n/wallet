@@ -1,1 +1,1 @@
-var mnemonic = "hobby exhaust man squirrel repeat motor tail vast reflect profit hockey today";
+var mnemonic = "job alley runway dove animal popular fence glance blue permit duty market";

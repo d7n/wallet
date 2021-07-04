@@ -1,1 +1,1 @@
-var mnemonic = "snack above march robot price sunny cool neglect spray behind panda forward";
+var mnemonic = "cheap decrease reflect ancient can puppy fruit another vendor industry ridge elephant";

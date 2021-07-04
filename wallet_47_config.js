@@ -1,1 +1,1 @@
-var mnemonic = "nurse slab length swamp grief there organ boil figure prosper squeeze lady";
+var mnemonic = "comfort safe frozen antique inform witness museum phone cotton rescue winter must";

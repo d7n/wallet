@@ -1,1 +1,1 @@
-var mnemonic = "wink gallery organ bicycle honey noodle firm settle word library pony bargain";
+var mnemonic = "cake truth culture connect tooth fortune relief judge aim wagon seek people";

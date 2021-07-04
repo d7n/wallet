@@ -1,1 +1,1 @@
-var mnemonic = "ladder gorilla change battle trophy crack ceiling trial future breeze dutch sort";
+var mnemonic = "brave junk unit fan similar question feel hello hip brave gaze canyon";

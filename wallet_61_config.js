@@ -1,1 +1,1 @@
-var mnemonic = "dutch raw exile inspire arrive alien comfort level deal action final web";
+var mnemonic = "gun pave rent universe hill police ocean repair save camera poem good";

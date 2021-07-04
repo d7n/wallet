@@ -1,1 +1,1 @@
-var mnemonic = "impact keen movie soup degree crowd slot drastic arm embark swamp replace";
+var mnemonic = "venue awesome dash jar pipe jewel ecology sentence inch famous cry frog";

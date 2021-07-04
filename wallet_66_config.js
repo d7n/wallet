@@ -1,1 +1,1 @@
-var mnemonic = "leopard float attitude giraffe pool tooth bamboo welcome mad wreck volume prosper";
+var mnemonic = "cube moment merge skin child correct never slab wise faint lecture dizzy";

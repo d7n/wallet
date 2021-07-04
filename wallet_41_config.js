@@ -1,1 +1,1 @@
-var mnemonic = "output illegal open pill fiscal provide oval gaze discover gauge swarm need";
+var mnemonic = "faint save chair state fuel alpha ecology ball enlist crowd network believe";

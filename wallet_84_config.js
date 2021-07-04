@@ -1,1 +1,1 @@
-var mnemonic = "kiss decorate monkey maze rhythm stable jump negative practice pepper boss salon";
+var mnemonic = "helmet jump advice budget dizzy excuse verify enlist erode country this write";

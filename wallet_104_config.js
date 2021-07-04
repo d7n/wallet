@@ -1,1 +1,1 @@
-var mnemonic = "hurt can sting disagree coffee elegant beef night penalty lava turkey about";
+var mnemonic = "tattoo cattle soda ability hair govern process knee glue rhythm stamp math";

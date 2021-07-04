@@ -1,1 +1,1 @@
-var mnemonic = "bonus transfer battle syrup pave dutch address defy appear oppose ranch royal";
+var mnemonic = "huge guard clump two word net fringe toddler produce ill slow dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "good acid life inject energy protect exclude column chaos regret lottery vote";
+var mnemonic = "surprise beach bomb stage grace visa robust tumble mom laundry raise world";

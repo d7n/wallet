@@ -1,1 +1,1 @@
-var mnemonic = "web trip this win cupboard antique mushroom gossip park lemon armed pond";
+var mnemonic = "distance chase rabbit regret just give basket purse royal library pill round";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff crouch tail enjoy you moment insect hard warm lesson acoustic sauce";
+var mnemonic = "poet brush delay slush audit rich student wagon stomach prosper brick heavy";

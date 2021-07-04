@@ -1,1 +1,1 @@
-var mnemonic = "much engage grow soldier report leaf proud glass music impulse traffic couple";
+var mnemonic = "quantum addict stock forest agent amateur weird act web head iron permit";

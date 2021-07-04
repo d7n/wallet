@@ -1,1 +1,1 @@
-var mnemonic = "caught parade awesome field shoot receive sadness copper gravity pattern modify hire";
+var mnemonic = "network wise warrior have joy supreme coil tiny giraffe easily loyal body";

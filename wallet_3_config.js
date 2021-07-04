@@ -1,1 +1,1 @@
-var mnemonic = "thunder believe century noise submit leisure sing need output give proud drift";
+var mnemonic = "boring cheap sick pyramid leisure load begin task either affair code shove";

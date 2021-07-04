@@ -1,1 +1,1 @@
-var mnemonic = "swear spirit service coast syrup rifle network toddler dizzy safe purse reflect";
+var mnemonic = "laugh certain own hole burden scale circle under fiber predict sketch zone";

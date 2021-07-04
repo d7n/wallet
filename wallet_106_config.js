@@ -1,1 +1,1 @@
-var mnemonic = "bread used ask problem survey repeat fan predict involve empower elevator evidence";
+var mnemonic = "assist wonder project milk mask speed endless switch domain busy flee hire";

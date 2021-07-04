@@ -1,1 +1,1 @@
-var mnemonic = "menu hover solar any usage slow scale profit curve review wall announce";
+var mnemonic = "arrive acquire shield opinion egg zebra student follow mean team vast foster";

@@ -1,1 +1,1 @@
-var mnemonic = "spray cram diesel habit index toward clinic path predict waste mistake torch";
+var mnemonic = "win device predict decorate music gospel develop ability fluid prosper oxygen hat";

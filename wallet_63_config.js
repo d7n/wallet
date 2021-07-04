@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow speak erupt lady oak sunny pave youth arrest affair muscle aerobic";
+var mnemonic = "such cube inspire winner fossil post sign pilot final reflect neglect great";

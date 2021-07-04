@@ -1,1 +1,1 @@
-var mnemonic = "theme absent fine stone lizard list alien decorate forward tongue attitude bomb";
+var mnemonic = "sand bread song know bargain rude mother choose flat since cycle shoot";

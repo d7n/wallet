@@ -1,1 +1,1 @@
-var mnemonic = "clump lava record fence sun another embody innocent fatal device course where";
+var mnemonic = "solve velvet earth armor help drum only young tape bar memory vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "hope figure neither nut advice salt craft cement fresh frozen charge range";
+var mnemonic = "evoke beef ridge proof voyage derive flee rack rookie click service excuse";

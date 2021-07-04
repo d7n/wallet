@@ -1,1 +1,1 @@
-var mnemonic = "few hello machine flush pottery client prepare history bundle crystal today under";
+var mnemonic = "nothing exit sport kingdom fatigue lesson nice tunnel share proud join reduce";

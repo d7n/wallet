@@ -1,1 +1,1 @@
-var mnemonic = "side forest oppose snack satisfy beyond side escape timber debate wear sure";
+var mnemonic = "three sustain hover embrace toddler junk toward shed dice scheme faint ugly";

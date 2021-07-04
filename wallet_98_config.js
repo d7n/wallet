@@ -1,1 +1,1 @@
-var mnemonic = "when once vapor slide victory kite comfort marine news card door arrive";
+var mnemonic = "desk bench fly kite refuse royal unable minimum hockey banana culture clown";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy spin rather usual earth ivory address trigger energy vocal true female";
+var mnemonic = "switch tortoise maximum fitness group punch theme various stamp flash ginger claim";

@@ -1,1 +1,1 @@
-var mnemonic = "siren knee youth catch behind monkey purse subject glare trim comfort protect";
+var mnemonic = "essence assault matrix rare effort anchor hero cook assume ivory satisfy amused";

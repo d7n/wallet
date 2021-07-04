@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur story original guitar canoe flip enter typical forward gravity doctor question";
+var mnemonic = "burst bunker actress spirit modify style album shiver whip sad candy chunk";

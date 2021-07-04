@@ -1,1 +1,1 @@
-var mnemonic = "woman violin slide initial put search usage canal canal game giraffe output";
+var mnemonic = "spell inmate winner cage among magnet long account when spy slim steel";

@@ -1,1 +1,1 @@
-var mnemonic = "auto vendor between lake retire clog asset buddy chunk whisper loop interest";
+var mnemonic = "cattle column symptom fluid sister basket duty shell deposit frozen music lift";

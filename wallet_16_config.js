@@ -1,1 +1,1 @@
-var mnemonic = "electric afraid budget forget morning assume cabbage rely cherry vault travel legend";
+var mnemonic = "diesel laugh either illegal code tower card bamboo onion vault settle rebuild";

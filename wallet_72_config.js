@@ -1,1 +1,1 @@
-var mnemonic = "steel bird lava fault hard mesh collect water egg toilet profit case";
+var mnemonic = "stable report stadium river best cost elephant address local wonder coyote milk";

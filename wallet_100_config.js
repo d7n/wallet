@@ -1,1 +1,1 @@
-var mnemonic = "ridge remember whisper average faith animal parade tomorrow sure endless climb moment";
+var mnemonic = "turn deal tiny awkward dilemma brain shadow snack right neutral segment lucky";

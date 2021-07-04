@@ -1,1 +1,1 @@
-var mnemonic = "plate boss remain story balance mean mention broken guitar stadium topic rude";
+var mnemonic = "anchor ginger notice seek area other frozen civil earth illegal pattern visa";

@@ -1,1 +1,1 @@
-var mnemonic = "side capable lemon blossom current better cycle cross earn baby ill grow";
+var mnemonic = "soft ritual boring interest mechanic mixed rural kangaroo rough cry engine seminar";

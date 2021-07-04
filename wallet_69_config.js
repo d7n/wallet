@@ -1,1 +1,1 @@
-var mnemonic = "goat history rubber life lecture monkey two flash three ladder ordinary fine";
+var mnemonic = "inch kick awful sand ship kidney alcohol bind filter move tornado dinner";

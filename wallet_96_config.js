@@ -1,1 +1,1 @@
-var mnemonic = "confirm size economy keen erase blind debris layer clerk suit wheel permit";
+var mnemonic = "junk drum leopard ask cruise rival topic educate mother mom dream speed";

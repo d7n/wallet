@@ -1,1 +1,1 @@
-var mnemonic = "amateur replace lunar urge rebel senior between guide invest rose slow fragile";
+var mnemonic = "shoulder enough decorate south rotate token mistake quiz display frown crater pull";

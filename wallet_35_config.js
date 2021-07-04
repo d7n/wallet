@@ -1,1 +1,1 @@
-var mnemonic = "giant comic pretty odor uphold wine movie library dutch decorate sweet quantum";
+var mnemonic = "vital oyster syrup laundry game rude faculty just cave just amused favorite";

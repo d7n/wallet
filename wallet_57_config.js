@@ -1,1 +1,1 @@
-var mnemonic = "rib machine edit quantum safe drive young try wet undo base rifle";
+var mnemonic = "olive vote side mutual rocket script chicken oxygen senior various interest fun";

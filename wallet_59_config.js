@@ -1,1 +1,1 @@
-var mnemonic = "estate absorb world unlock sunset destroy special child assist observe motion any";
+var mnemonic = "exhibit sting album salad exchange alter often concert vacant spider opera area";

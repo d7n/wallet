@@ -1,1 +1,1 @@
-var mnemonic = "avoid omit much stairs unique moment excess vote poverty ecology glide walnut";
+var mnemonic = "believe city urge power soccer blade swap elder patch impose intact sock";

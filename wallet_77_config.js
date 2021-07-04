@@ -1,1 +1,1 @@
-var mnemonic = "render trim announce resist rate draft point gas access crush slow situate";
+var mnemonic = "crunch fall again deliver web ancient diesel bacon doll normal deposit cute";

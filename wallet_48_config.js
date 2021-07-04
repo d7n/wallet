@@ -1,1 +1,1 @@
-var mnemonic = "moment menu slight sense bounce anxiety key canal ivory october unveil letter";
+var mnemonic = "sleep snap castle power pencil tragic ball educate appear online health general";

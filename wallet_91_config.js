@@ -1,1 +1,1 @@
-var mnemonic = "fantasy slide test tell weird charge quarter toe enjoy piano romance fun";
+var mnemonic = "maze cushion penalty degree mystery reform define loyal window between stable cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin custom wide ski winter unveil welcome cargo naive axis coral chef";
+var mnemonic = "strong burst electric enlist alert wing cluster purpose west motor fiscal opera";

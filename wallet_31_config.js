@@ -1,1 +1,1 @@
-var mnemonic = "high benefit drum kitten coil upgrade have satisfy pole slot recall retreat";
+var mnemonic = "runway tuna evidence actress drum annual clerk wash cage twenty scrap tuition";

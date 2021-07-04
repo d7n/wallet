@@ -1,1 +1,1 @@
-var mnemonic = "profit polar video brush wash glue final earn runway embrace wear general";
+var mnemonic = "gaze evolve top stick cart fashion text hard real joke useful voyage";

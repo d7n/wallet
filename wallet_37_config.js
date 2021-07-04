@@ -1,1 +1,1 @@
-var mnemonic = "false arm method struggle spend one this avoid control jeans tower reflect";
+var mnemonic = "explain card puzzle script suffer divorce hole unaware coconut smart display voyage";

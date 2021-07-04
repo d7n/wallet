@@ -1,1 +1,1 @@
-var mnemonic = "crash gas rescue easily pigeon forward candy athlete grant embrace apart velvet";
+var mnemonic = "benefit fitness senior model winter cycle awesome wink vocal brick wide fork";

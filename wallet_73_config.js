@@ -1,1 +1,1 @@
-var mnemonic = "whisper truck page romance doctor muffin balcony cream iron injury future faint";
+var mnemonic = "upon west move pottery credit win cool review real fun domain neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "genre town chest picture close giraffe cool follow measure churn treat birth";
+var mnemonic = "enemy rude van surround twin forward seven supreme flight practice beauty share";

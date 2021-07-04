@@ -1,1 +1,1 @@
-var mnemonic = "antique hero bridge reunion expose vote print oblige cradle aware month weather";
+var mnemonic = "weird bacon filter pepper helmet milk tired path because excuse horse february";
