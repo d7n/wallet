@@ -1,1 +1,1 @@
-var mnemonic = "school that choose profit couple history cross lobster around differ gather tomorrow";
+var mnemonic = "example gauge feel total extend unfold clean gas carpet soccer skill satisfy";

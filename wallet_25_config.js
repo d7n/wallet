@@ -1,1 +1,1 @@
-var mnemonic = "outer raven harbor sudden valid middle mass cram aerobic about enough floor";
+var mnemonic = "congress cliff ability crack matrix giggle spirit eternal jealous furnace mixture cluster";

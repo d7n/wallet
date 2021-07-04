@@ -1,1 +1,1 @@
-var mnemonic = "useless design doctor maid rhythm trend floor steak hire boil draw space";
+var mnemonic = "bring humor burger horn govern learn glimpse mask devote vivid bar pelican";

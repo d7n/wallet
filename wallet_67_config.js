@@ -1,1 +1,1 @@
-var mnemonic = "clarify sustain erase supreme unaware noble bar obvious hair absorb mosquito pelican";
+var mnemonic = "fine stable medal bachelor hard possible flip shove vanish verb beauty aim";

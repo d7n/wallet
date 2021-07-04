@@ -1,1 +1,1 @@
-var mnemonic = "elevator express space runway silent tissue assume response lady angle globe that";
+var mnemonic = "tooth elegant diesel rookie spin elephant forum naive pride chaos monitor prize";

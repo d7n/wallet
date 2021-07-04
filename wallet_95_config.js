@@ -1,1 +1,1 @@
-var mnemonic = "eagle orphan profit laptop tent myself obtain vague forest option treat swear";
+var mnemonic = "tomorrow wrestle below print myth mushroom canvas identify speak domain ladder mixed";

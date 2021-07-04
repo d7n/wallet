@@ -1,1 +1,1 @@
-var mnemonic = "fork mirror divert knee absorb stage silly burden relief puppy alter name";
+var mnemonic = "bag fly jump master pen guide vessel half success knock claw settle";

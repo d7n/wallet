@@ -1,1 +1,1 @@
-var mnemonic = "slush heavy fortune glide local eight buyer fade boss focus erode faint";
+var mnemonic = "upon bargain illegal language grit crop put call bid garden fold post";

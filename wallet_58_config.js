@@ -1,1 +1,1 @@
-var mnemonic = "april jealous cycle warm salt gather leader crew basket hip sport suit";
+var mnemonic = "capital rhythm cabbage verify fall work sound thrive toward cradle glare assault";

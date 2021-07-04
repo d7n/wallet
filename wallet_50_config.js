@@ -1,1 +1,1 @@
-var mnemonic = "special april mobile before design genius melt ankle public afraid wheat fabric";
+var mnemonic = "clerk west glare cousin silk audit issue claim must make brick august";

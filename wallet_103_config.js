@@ -1,1 +1,1 @@
-var mnemonic = "hurry script merry yellow pigeon vote travel fiscal lottery soon sorry hidden";
+var mnemonic = "hope dawn orphan machine utility elevator witness squirrel border sock salute debate";

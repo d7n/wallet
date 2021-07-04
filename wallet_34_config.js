@@ -1,1 +1,1 @@
-var mnemonic = "card north fix sibling live kiss skin song discover buffalo name banana";
+var mnemonic = "life party cricket rail method frame million unusual original crime entry pumpkin";

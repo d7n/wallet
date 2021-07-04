@@ -1,1 +1,1 @@
-var mnemonic = "dismiss dragon hammer prison infant husband park build electric ship lonely plastic";
+var mnemonic = "field frozen pitch abandon exercise wrestle spider display bounce series intact surround";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent security pear pudding buyer benefit ahead outdoor denial into punch sorry";
+var mnemonic = "want chef balcony trial happy toe story program print funny journey tide";

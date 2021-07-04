@@ -1,1 +1,1 @@
-var mnemonic = "bundle regret trade vote indicate avocado address confirm diagram action start napkin";
+var mnemonic = "surround alien finish pony pistol winter problem fragile super project useless spice";

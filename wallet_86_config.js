@@ -1,1 +1,1 @@
-var mnemonic = "movie scare cliff tonight remember tennis napkin hood cram model method marine";
+var mnemonic = "blade web course build myself merit artefact fortune control poem squirrel maze";

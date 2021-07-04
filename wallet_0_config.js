@@ -1,1 +1,1 @@
-var mnemonic = "chief hundred bar ignore toward valve boost face lunar token rhythm defy";
+var mnemonic = "rice adjust method drink ceiling online fuel usual yard under again ocean";

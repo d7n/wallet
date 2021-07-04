@@ -1,1 +1,1 @@
-var mnemonic = "novel easily major ocean harbor habit raise limb way picture scrap inflict";
+var mnemonic = "arch salad seek recall copper winter layer learn pave retire city income";

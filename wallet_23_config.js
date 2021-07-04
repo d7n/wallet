@@ -1,1 +1,1 @@
-var mnemonic = "gather only glimpse tenant review cannon bacon involve sudden drip nice famous";
+var mnemonic = "axis large scatter protect concert order allow mushroom tiger decorate visit easy";

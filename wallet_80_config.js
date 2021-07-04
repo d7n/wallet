@@ -1,1 +1,1 @@
-var mnemonic = "huge dove beauty galaxy pool hole fit other length thing master wave";
+var mnemonic = "release dice clerk stairs frozen modify bind quality model jar dismiss zoo";

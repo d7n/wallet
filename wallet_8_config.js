@@ -1,1 +1,1 @@
-var mnemonic = "universe arrive motion deer battle budget couch original flock warrior adult venue";
+var mnemonic = "unveil boy child female wire ritual frost element follow wild face myself";

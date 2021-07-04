@@ -1,1 +1,1 @@
-var mnemonic = "swing fame human barely comic midnight arctic nuclear satisfy vivid elevator brain";
+var mnemonic = "table jealous crew endorse unit dilemma exchange person clinic figure nurse record";

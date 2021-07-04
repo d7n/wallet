@@ -1,1 +1,1 @@
-var mnemonic = "lake inner digital bright sing alley mystery stick harvest foil pig mass";
+var mnemonic = "total capital moon eagle legal vault sister ancient evidence inner jungle deny";

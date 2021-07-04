@@ -1,1 +1,1 @@
-var mnemonic = "scissors pink fall insane kangaroo dust scatter drive vast resemble buddy traffic";
+var mnemonic = "split spirit kiwi false frequent joy black dress problem local verify chaos";

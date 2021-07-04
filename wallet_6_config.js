@@ -1,1 +1,1 @@
-var mnemonic = "flock loyal acquire expect stuff crush traffic allow legend admit pepper menu";
+var mnemonic = "weekend vendor smoke welcome lake thrive panel poverty minimum brass pistol world";

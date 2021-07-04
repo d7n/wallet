@@ -1,1 +1,1 @@
-var mnemonic = "certain fade excite panic reflect engage endorse escape latin vault focus slim";
+var mnemonic = "gorilla inherit mistake brief garden supreme angle account puppy own usage chat";

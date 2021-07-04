@@ -1,1 +1,1 @@
-var mnemonic = "infant parrot code online engine husband royal rely lizard crew swallow absorb";
+var mnemonic = "acid short claim cliff morning allow cruise month deer sister twice dust";

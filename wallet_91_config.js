@@ -1,1 +1,1 @@
-var mnemonic = "hollow outer veteran call album picnic doll object course chaos horror lonely";
+var mnemonic = "salt bacon hollow sail illegal swallow divorce okay eyebrow fall clean crop";

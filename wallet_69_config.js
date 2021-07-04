@@ -1,1 +1,1 @@
-var mnemonic = "can illegal bottom much quiz vanish hundred bulk churn fun fog exhaust";
+var mnemonic = "loop source regret crisp flavor spot pipe betray script gown mechanic claim";

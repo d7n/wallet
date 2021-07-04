@@ -1,1 +1,1 @@
-var mnemonic = "salon lunch man royal cash odor hour rescue erupt oil process slow";
+var mnemonic = "text debris lawn forward genuine glad company arctic cash ancient armor snap";

@@ -1,1 +1,1 @@
-var mnemonic = "horn panda desert target gym student quarter time tornado west arrest else";
+var mnemonic = "route laugh defense crew crush tip test dutch video gain leisure shadow";

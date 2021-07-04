@@ -1,1 +1,1 @@
-var mnemonic = "this gas nature leisure connect romance about item ill diamond mimic mass";
+var mnemonic = "oppose trust crowd husband rapid wine cook security hint turtle acoustic sign";

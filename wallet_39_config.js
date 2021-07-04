@@ -1,1 +1,1 @@
-var mnemonic = "clown ostrich hunt drill hurdle virtual praise drill layer portion seven capable";
+var mnemonic = "game badge tilt cruel asthma cloth diamond affair crazy pact mixed arm";

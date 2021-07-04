@@ -1,1 +1,1 @@
-var mnemonic = "correct achieve project ring axis bridge student bullet scare melt cover sick";
+var mnemonic = "firm wet lonely panic usage solve garbage photo caution amazing eagle capital";

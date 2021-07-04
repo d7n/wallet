@@ -1,1 +1,1 @@
-var mnemonic = "accident team loud journey credit dove dream unaware jacket poverty unhappy stand";
+var mnemonic = "much lonely spare gas brown symbol area replace change goat best issue";

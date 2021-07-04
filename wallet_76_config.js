@@ -1,1 +1,1 @@
-var mnemonic = "bench coach together system world cattle demise attack during rail slender truck";
+var mnemonic = "turkey pistol gather craft major okay kick bid term discover faith believe";

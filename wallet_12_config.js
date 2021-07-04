@@ -1,1 +1,1 @@
-var mnemonic = "year symptom couple apple hurt program current crazy clerk dune snap adult";
+var mnemonic = "sing laundry under combine rebuild absorb economy shift injury custom furnace swarm";

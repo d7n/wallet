@@ -1,1 +1,1 @@
-var mnemonic = "promote vivid frame heavy scatter walk edit toss piano cluster when marine";
+var mnemonic = "pole mushroom marriage note can quarter goddess message throw excess asthma liberty";

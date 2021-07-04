@@ -1,1 +1,1 @@
-var mnemonic = "eight uncover iron rude endless avocado pill diamond bind desk bulb margin";
+var mnemonic = "result bird noise pole ripple sudden all hold cream trap pony balance";

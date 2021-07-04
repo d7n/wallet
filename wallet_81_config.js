@@ -1,1 +1,1 @@
-var mnemonic = "enough burden seven palm exhibit dolphin sample govern morning vessel border cradle";
+var mnemonic = "all choose ketchup choose first blind reopen slam giant exact shop property";

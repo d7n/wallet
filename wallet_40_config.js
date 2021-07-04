@@ -1,1 +1,1 @@
-var mnemonic = "under visa chuckle disorder warfare session high walnut train congress desk nothing";
+var mnemonic = "alone giant manage collect camp ordinary wedding enrich focus grant impose grass";

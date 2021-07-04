@@ -1,1 +1,1 @@
-var mnemonic = "deny fine song strike message warfare endless nephew radio resemble bubble renew";
+var mnemonic = "drill blood logic culture custom wing abandon buffalo describe echo kit wolf";

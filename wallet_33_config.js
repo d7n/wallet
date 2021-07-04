@@ -1,1 +1,1 @@
-var mnemonic = "hold foam library list honey pass hospital bag edit sibling advance sugar";
+var mnemonic = "quality panel subway oblige already tobacco sugar teach uncover almost way place";

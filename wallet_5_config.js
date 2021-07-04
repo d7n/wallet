@@ -1,1 +1,1 @@
-var mnemonic = "insane vehicle impact segment shock obscure wage wagon search glue type hundred";
+var mnemonic = "kidney session minute long destroy reject devote valve cradle peace ring medal";

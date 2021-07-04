@@ -1,1 +1,1 @@
-var mnemonic = "enrich park tooth biology reward sunny movie quantum chapter funny profit speed";
+var mnemonic = "donkey near change act tragic invest lamp pepper fall helmet reflect infant";

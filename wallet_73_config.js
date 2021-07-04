@@ -1,1 +1,1 @@
-var mnemonic = "anger mixed radar expand forest enrich wrist captain case refuse deposit tomorrow";
+var mnemonic = "behave machine problem wing matrix endless kingdom skate pear journey media response";

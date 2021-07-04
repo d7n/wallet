@@ -1,1 +1,1 @@
-var mnemonic = "ceiling sponsor mom biology paper okay tobacco tree hurt buzz artist kind";
+var mnemonic = "stand interest inmate just embark away snow humble tiger erase arrange horn";

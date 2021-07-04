@@ -1,1 +1,1 @@
-var mnemonic = "scatter cave echo arch unable lamp during water number illness knee foster";
+var mnemonic = "desk force friend panda need repair error upgrade verify vacant brain exchange";

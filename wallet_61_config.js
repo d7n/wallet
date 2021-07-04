@@ -1,1 +1,1 @@
-var mnemonic = "toward drum gate word language clown monster entry loyal deal sound subway";
+var mnemonic = "story stem deer helmet predict treat left clever security worry pepper movie";

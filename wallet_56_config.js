@@ -1,1 +1,1 @@
-var mnemonic = "hair inside animal west scare gate pelican lava bicycle pear zoo regret";
+var mnemonic = "fat angry wasp someone fury senior vacant theme pudding only van slice";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion grain check audit soap license pause prepare motor then mean rescue";
+var mnemonic = "trophy together frequent grab hour bronze castle adjust pass sniff estate dawn";

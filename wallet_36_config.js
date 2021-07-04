@@ -1,1 +1,1 @@
-var mnemonic = "decorate poem parade print wait wrong destroy edit pair maple motion brave";
+var mnemonic = "tuition foam strong merge fine obvious expose team syrup stuff nurse sell";

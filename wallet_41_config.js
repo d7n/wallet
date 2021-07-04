@@ -1,1 +1,1 @@
-var mnemonic = "olive negative corn rough dignity execute aware what inform result fruit man";
+var mnemonic = "hollow mention skill liar mesh junior derive marble dust feed forest spoon";

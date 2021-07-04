@@ -1,1 +1,1 @@
-var mnemonic = "news toward mushroom miss wreck dice unlock sample daring squeeze faith exist";
+var mnemonic = "summer gasp sibling increase fall enrich they vintage sample style device inspire";

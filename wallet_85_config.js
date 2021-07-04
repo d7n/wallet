@@ -1,1 +1,1 @@
-var mnemonic = "stick click attract rain lady anger festival govern spatial snap detect industry";
+var mnemonic = "spatial endorse kitten innocent beach session supply divide region under denial cancel";

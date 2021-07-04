@@ -1,1 +1,1 @@
-var mnemonic = "wire split glue blanket radio vacant sausage random leader remember kit mixture";
+var mnemonic = "slim fragile crisp fit arrest buddy pride rug wheel sunset silly coil";

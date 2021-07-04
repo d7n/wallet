@@ -1,1 +1,1 @@
-var mnemonic = "wink illegal distance prepare token punch wrist tattoo volcano later belt bright";
+var mnemonic = "choice almost village rebel attack napkin area away open noble copy still";

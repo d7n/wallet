@@ -1,1 +1,1 @@
-var mnemonic = "grass spot donkey gain glad whale arrow meat mechanic comfort puzzle negative";
+var mnemonic = "model route program visual become novel arm fault refuse soda eyebrow near";

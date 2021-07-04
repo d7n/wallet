@@ -1,1 +1,1 @@
-var mnemonic = "canyon once sweet scale lake pluck enact viable ginger over choose sell";
+var mnemonic = "broken input economy erase rally basket time exotic culture business fabric learn";

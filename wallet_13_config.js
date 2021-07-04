@@ -1,1 +1,1 @@
-var mnemonic = "surround junk galaxy prison kind lady van siege crunch educate young tobacco";
+var mnemonic = "tip stereo glow depend attract gas shy kind swamp theory mirror crumble";

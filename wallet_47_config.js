@@ -1,1 +1,1 @@
-var mnemonic = "gravity churn life hundred prison dawn still biology silver guess trim blue";
+var mnemonic = "say twice fatigue chalk boat gym derive defense rigid gravity woman win";

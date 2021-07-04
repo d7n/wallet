@@ -1,1 +1,1 @@
-var mnemonic = "paddle weekend deer hard rebuild gorilla abstract flame essay drill donkey dutch";
+var mnemonic = "carpet upon bench green peanut angle intact conduct bacon stereo unfold rhythm";

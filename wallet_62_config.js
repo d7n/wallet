@@ -1,1 +1,1 @@
-var mnemonic = "misery south real law battle fence warrior poverty problem only slender axis";
+var mnemonic = "measure plastic narrow airport dream same frog crawl lift demand pond sand";

@@ -1,1 +1,1 @@
-var mnemonic = "candy over turtle world skin upon involve afraid try final solar velvet";
+var mnemonic = "rabbit off sick better program merry draft unable honey mad type shift";

@@ -1,1 +1,1 @@
-var mnemonic = "assist spatial inmate satisfy faint addict audit butter knee prepare night miracle";
+var mnemonic = "concert dry destroy ball cover miss violin pigeon onion mistake midnight accident";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics glad erupt source slow flat spike toddler clerk copper verb spy";
+var mnemonic = "ring twelve empower hobby swim there south undo muffin below lobster foster";

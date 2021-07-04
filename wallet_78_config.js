@@ -1,1 +1,1 @@
-var mnemonic = "clump input vague mammal exit gather vast wing ridge feed stadium account";
+var mnemonic = "mail behind enter guard useless illegal decrease bright polar finish black cliff";

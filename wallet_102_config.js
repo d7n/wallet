@@ -1,1 +1,1 @@
-var mnemonic = "mistake banana twist fog boat uncle palace design zoo deputy volume enrich";
+var mnemonic = "web obvious mosquito kangaroo tank setup expand soldier project fever robot talent";

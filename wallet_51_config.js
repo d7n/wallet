@@ -1,1 +1,1 @@
-var mnemonic = "congress sock trap liar oyster image potato magic lava illness nose acquire";
+var mnemonic = "inch short gospel spin reunion anchor brisk reveal original brick length salute";

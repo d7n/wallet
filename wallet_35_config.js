@@ -1,1 +1,1 @@
-var mnemonic = "chair share rent fly goat jealous weather pony piece promote puzzle brick";
+var mnemonic = "lunch approve purpose movie misery company devote ancient cry melt kite grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb space staff short guide material chair fix oval eager kitten dismiss";
+var mnemonic = "finger width whale pull road curtain snap angry female current trash below";

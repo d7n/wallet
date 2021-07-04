@@ -1,1 +1,1 @@
-var mnemonic = "under town divorce pretty sibling later cream vapor cycle lottery hollow diagram";
+var mnemonic = "erosion ensure robust problem hard ghost act throw verify drastic family mistake";

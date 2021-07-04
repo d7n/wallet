@@ -1,1 +1,1 @@
-var mnemonic = "tip holiday cover satoshi curious arrest spray faith smile stomach afraid fatal";
+var mnemonic = "fun void husband language knock phrase include recall emerge clog obvious switch";

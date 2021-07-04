@@ -1,1 +1,1 @@
-var mnemonic = "large gap name train axis urge theme bulk radar wool heart furnace";
+var mnemonic = "owner toe develop claw frown such faint jar grant cross fault property";

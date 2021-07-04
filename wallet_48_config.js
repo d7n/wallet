@@ -1,1 +1,1 @@
-var mnemonic = "panther upgrade potato try wrestle learn garage captain output armed genuine skirt";
+var mnemonic = "egg keen submit shaft visual found indoor juice lounge rebel river circle";

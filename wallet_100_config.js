@@ -1,1 +1,1 @@
-var mnemonic = "social group screen tomato october topple pact wire mutual arm rate grunt";
+var mnemonic = "refuse myself edit height skill short abstract bicycle senior celery circle net";

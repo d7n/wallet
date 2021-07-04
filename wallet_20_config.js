@@ -1,1 +1,1 @@
-var mnemonic = "wear actress border fan kiss private lunch oven club all endless wall";
+var mnemonic = "uphold vault click science usage clip nominee skin galaxy echo wolf essay";

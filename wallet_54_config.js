@@ -1,1 +1,1 @@
-var mnemonic = "glare observe price hurry again shoulder alien height snow bounce polar trim";
+var mnemonic = "milk jungle upgrade roast liar maze heart diesel unlock muscle juice chapter";

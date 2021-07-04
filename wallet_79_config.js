@@ -1,1 +1,1 @@
-var mnemonic = "top person flame napkin warfare scrub glimpse drum blush divorce universe drop";
+var mnemonic = "sibling runway hint middle image index beyond annual park cheap fly lend";

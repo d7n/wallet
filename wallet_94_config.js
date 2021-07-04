@@ -1,1 +1,1 @@
-var mnemonic = "frog verify canvas course reward response priority action obvious stereo climb coyote";
+var mnemonic = "such grunt accident purity clump steel affair mushroom arctic identify two cargo";

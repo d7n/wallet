@@ -1,1 +1,1 @@
-var mnemonic = "napkin drama season choice amused public chunk type inflict surprise wing obtain";
+var mnemonic = "zero glue fly mobile raccoon zero resist burst pulp grain license humor";

@@ -1,1 +1,1 @@
-var mnemonic = "dune hover glue reason candy february holiday stone size carry cram bulb";
+var mnemonic = "note have example math feed wool throw solve gather luxury job uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "govern phrase team solution echo tool lab balcony access brother brown exotic";
+var mnemonic = "snap govern plug shop economy copper total damp battle delay banner tired";

@@ -1,1 +1,1 @@
-var mnemonic = "list verb lend box scene access life license cable rely social spider";
+var mnemonic = "state flavor walnut knock boost drum exile pact impulse enroll rifle desert";

@@ -1,1 +1,1 @@
-var mnemonic = "bind indoor conduct pond project web hand view zone nuclear maze immense";
+var mnemonic = "bitter lady silver raw session smart cliff clip shop shiver rally notable";

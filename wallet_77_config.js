@@ -1,1 +1,1 @@
-var mnemonic = "alcohol alcohol other figure poem pave favorite dumb install property where atom";
+var mnemonic = "beyond name discover whale rice runway aisle vehicle hold medal burden enhance";

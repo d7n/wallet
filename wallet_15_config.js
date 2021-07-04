@@ -1,1 +1,1 @@
-var mnemonic = "kid chat dinosaur urge hidden among invest bar blue chalk dismiss kiwi";
+var mnemonic = "make joy main allow section camera six soap year sheriff comic envelope";

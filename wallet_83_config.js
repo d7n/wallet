@@ -1,1 +1,1 @@
-var mnemonic = "wealth zoo load tiger frown car cool feature teach half faint humble";
+var mnemonic = "addict doctor list buyer sound invite amazing patrol guard one sand earth";

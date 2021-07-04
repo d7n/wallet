@@ -1,1 +1,1 @@
-var mnemonic = "track timber aunt zoo animal vehicle atom noise initial lava door donate";
+var mnemonic = "prefer alarm timber youth treat hip decrease casual body young clinic bonus";

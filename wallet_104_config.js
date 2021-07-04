@@ -1,1 +1,1 @@
-var mnemonic = "south reduce pistol tunnel donkey exercise toy ceiling material inflict source rude";
+var mnemonic = "maple zero blouse extend betray purpose flock shove health velvet saddle promote";

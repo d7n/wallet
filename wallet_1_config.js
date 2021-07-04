@@ -1,1 +1,1 @@
-var mnemonic = "spy beef path pill three two bread sleep suggest battle inject alone";
+var mnemonic = "clever pistol rival pair better gossip drip grass april detect loan marble";

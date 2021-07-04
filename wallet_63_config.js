@@ -1,1 +1,1 @@
-var mnemonic = "thrive repeat version olympic elephant beyond spring marble record tooth cinnamon draft";
+var mnemonic = "youth egg riot vibrant random home clutch company lens solid hurry denial";
