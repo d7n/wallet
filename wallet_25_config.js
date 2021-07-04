@@ -1,1 +1,1 @@
-var mnemonic = "joy snack expire vital camp sorry isolate woman twenty clump smart dizzy";
+var mnemonic = "next modify palace diagram august door ring service betray control cram elegant";

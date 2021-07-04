@@ -1,1 +1,1 @@
-var mnemonic = "hole mask viable rifle afford inspire immune sun random myth bag invest";
+var mnemonic = "student consider concert orient dish rare hair wing lonely switch culture evil";

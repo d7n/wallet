@@ -1,1 +1,1 @@
-var mnemonic = "lemon differ either awake design crouch swap jewel radio canoe notice piano";
+var mnemonic = "lion cable metal doctor write lava primary describe trick enemy rhythm drum";

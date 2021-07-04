@@ -1,1 +1,1 @@
-var mnemonic = "document husband boat discover stool museum garment host attend broccoli erosion kit";
+var mnemonic = "else gym nest select all screen neck error pig brain entry possible";

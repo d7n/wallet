@@ -1,1 +1,1 @@
-var mnemonic = "pride desert recipe solve decide excite fault novel profit leopard render cycle";
+var mnemonic = "flat give wool cigar advance decade culture cabbage truck theme stage afford";

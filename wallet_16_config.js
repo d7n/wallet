@@ -1,1 +1,1 @@
-var mnemonic = "wrong palace deer umbrella employ quick help remind exotic lunch giraffe fuel";
+var mnemonic = "angle choose gadget provide weasel focus hard bench marble shop coconut video";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp thunder debris stand club early approve rabbit under guide police trip";
+var mnemonic = "major truth business neglect isolate useful soccer leg reflect know elite occur";

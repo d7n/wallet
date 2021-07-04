@@ -1,1 +1,1 @@
-var mnemonic = "flush ritual canal orient relax frown invest lawsuit hold grow silver myth";
+var mnemonic = "card come turn sibling drastic total hub unit book pattern glance piece";

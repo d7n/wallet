@@ -1,1 +1,1 @@
-var mnemonic = "hand rookie tissue dizzy invest cave various canal cabbage today turn tragic";
+var mnemonic = "gown mention garment subject bind nuclear shiver tube buffalo wink expand art";

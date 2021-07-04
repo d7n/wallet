@@ -1,1 +1,1 @@
-var mnemonic = "search define box already view engine blur blame paper vague social indoor";
+var mnemonic = "supreme sing cheese coach oven view panther sudden mutual clown chase nephew";

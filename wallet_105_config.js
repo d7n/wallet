@@ -1,1 +1,1 @@
-var mnemonic = "floor spoon bless raise unfold sweet desert danger village party tide attract";
+var mnemonic = "pilot bring yard globe behind stay check betray anger gown foster tenant";

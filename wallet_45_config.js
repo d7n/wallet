@@ -1,1 +1,1 @@
-var mnemonic = "hawk tag pulse involve derive fun announce rookie nest laundry enlist eternal";
+var mnemonic = "jelly blue coach time grant asset fork tobacco that path giggle snap";

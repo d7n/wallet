@@ -1,1 +1,1 @@
-var mnemonic = "tell spare sustain outside humor sheriff wing salute finish cherry today retire";
+var mnemonic = "vault margin east eyebrow plastic taxi save flame tourist penalty renew alley";

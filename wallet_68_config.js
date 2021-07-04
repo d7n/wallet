@@ -1,1 +1,1 @@
-var mnemonic = "novel will rack sword suit describe since arctic damp service exhibit scare";
+var mnemonic = "model pond corn uncle target also voyage water false rack gossip decline";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery infant list soft first wrist february piece damp squeeze good allow";
+var mnemonic = "upon music meat situate zoo vacant lunch arrive design merry burst whale";

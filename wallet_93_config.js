@@ -1,1 +1,1 @@
-var mnemonic = "cliff oppose desk toy chimney doctor dignity napkin disorder where wisdom gesture";
+var mnemonic = "list believe weapon grit rail wealth cover inherit capable happy despair find";

@@ -1,1 +1,1 @@
-var mnemonic = "trial setup jaguar recycle desert load topic adapt vicious program exclude series";
+var mnemonic = "retire multiply scene flush ring purity file planet phone bonus salt great";

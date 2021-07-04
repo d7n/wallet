@@ -1,1 +1,1 @@
-var mnemonic = "crew useful sugar remain half midnight result nerve few stem cross kid";
+var mnemonic = "canvas divert supply mesh hidden impose time youth tuna desk side hold";

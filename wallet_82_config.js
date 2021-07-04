@@ -1,1 +1,1 @@
-var mnemonic = "develop flock tiger arch during wing truth voice shallow before ridge trouble";
+var mnemonic = "calm mimic doctor dose hurry human beauty digital sphere able tornado forget";

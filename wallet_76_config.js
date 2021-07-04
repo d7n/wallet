@@ -1,1 +1,1 @@
-var mnemonic = "swim lumber mirror expire plunge pelican stadium glove issue sense tonight volcano";
+var mnemonic = "cause message loud labor guitar laundry fog day random chat ill omit";

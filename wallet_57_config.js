@@ -1,1 +1,1 @@
-var mnemonic = "couple paper large island require size obvious rule patrol remain milk arctic";
+var mnemonic = "fox cluster inherit jar speak flush elbow stage bar hire deny brush";

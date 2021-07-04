@@ -1,1 +1,1 @@
-var mnemonic = "gown stage online trigger collect stomach fold hood cinnamon turkey intact reward";
+var mnemonic = "love patrol scan list snake crumble video cricket message chimney ball case";

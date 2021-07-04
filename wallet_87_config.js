@@ -1,1 +1,1 @@
-var mnemonic = "denial rose evolve guilt weapon order live glow exercise nerve open tuna";
+var mnemonic = "lake journey choice balcony often artist concert saddle exile clever reflect unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "minute spawn aunt comic before elegant myself erupt celery fuel three wave";
+var mnemonic = "face walk wall home blossom behind skate genre music tide season sail";

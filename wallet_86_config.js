@@ -1,1 +1,1 @@
-var mnemonic = "subway document invite salt trial tuna thank steel cannon govern toy follow";
+var mnemonic = "spring purchase shoe question produce aisle brown scorpion industry original nothing addict";

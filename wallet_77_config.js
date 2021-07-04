@@ -1,1 +1,1 @@
-var mnemonic = "royal mystery rose easily awesome arctic repair knife surprise chalk enrich casual";
+var mnemonic = "pyramid abuse amateur garden false brother neck chuckle crew grunt normal avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "hip weird rude soup door usage family giraffe off fame drive hollow";
+var mnemonic = "smart farm shove end bounce gloom convince female hotel grace fuel viable";

@@ -1,1 +1,1 @@
-var mnemonic = "combine apology loyal sure naive egg tumble fence keen jacket silent fever";
+var mnemonic = "another sphere thumb stove cat faint kind mad decrease this liberty select";

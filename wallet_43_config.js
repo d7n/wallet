@@ -1,1 +1,1 @@
-var mnemonic = "cook arrow glimpse turkey peanut junior tiny top upper spider trip apology";
+var mnemonic = "modify secret sight note myth want erupt wedding dolphin friend essence blast";

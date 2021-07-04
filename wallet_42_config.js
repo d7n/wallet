@@ -1,1 +1,1 @@
-var mnemonic = "weather damp pizza give bronze escape monitor behave drop connect animal absurd";
+var mnemonic = "list dad pond summer final pretty ahead network orchard achieve elephant affair";

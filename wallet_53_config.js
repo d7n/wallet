@@ -1,1 +1,1 @@
-var mnemonic = "pull lion negative legal object east must copper notable main ramp spy";
+var mnemonic = "salt tonight else comic mushroom fabric route casino alarm ask gorilla brief";

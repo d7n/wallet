@@ -1,1 +1,1 @@
-var mnemonic = "soul face race walnut juice blanket idea frequent eager above fold grocery";
+var mnemonic = "portion start pave rose decrease receive arena uncle salad error wave hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "stable egg team glimpse party human puppy taxi library pepper hunt gallery";
+var mnemonic = "tumble dizzy switch peanut naive east ugly chaos taste sign rather verb";

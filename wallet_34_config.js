@@ -1,1 +1,1 @@
-var mnemonic = "pluck future until dice sorry begin grow tone slender woman brick refuse";
+var mnemonic = "large oven female metal sport mechanic satisfy excuse weather dash pretty orient";

@@ -1,1 +1,1 @@
-var mnemonic = "young prepare climb purity faint holiday front stem electric toddler scissors recipe";
+var mnemonic = "property income buyer stomach receive soup worry afford capital ramp diesel vacuum";

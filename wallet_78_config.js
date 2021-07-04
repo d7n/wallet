@@ -1,1 +1,1 @@
-var mnemonic = "prison battle actor aware often double submit stable dragon waste crunch hundred";
+var mnemonic = "legend cousin place mystery aspect into kid puppy butter sign horn slide";

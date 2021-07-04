@@ -1,1 +1,1 @@
-var mnemonic = "bike crystal consider parrot ten derive business arctic rebuild salon practice want";
+var mnemonic = "boss same require six animal cabin ranch sudden since animal open ball";

@@ -1,1 +1,1 @@
-var mnemonic = "season federal chapter tone problem fly script used across gloom puppy easy";
+var mnemonic = "pause suspect eye ask october task relief meadow stick reunion vintage joke";

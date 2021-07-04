@@ -1,1 +1,1 @@
-var mnemonic = "confirm damage shift shrug genius planet lab chicken glad hammer inhale infant";
+var mnemonic = "cash penalty twice zero plug gun wave gain kitchen fashion spread knee";

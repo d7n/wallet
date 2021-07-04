@@ -1,1 +1,1 @@
-var mnemonic = "hotel slow panther spot liar seminar hotel chief muffin nurse force interest";
+var mnemonic = "repair almost note bridge bounce direct wall disorder artwork twin body suggest";

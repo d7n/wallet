@@ -1,1 +1,1 @@
-var mnemonic = "service will prepare surround close plug brief quality give peasant ugly atom";
+var mnemonic = "boy valve claw equip speed north voice trash disorder build inch tragic";

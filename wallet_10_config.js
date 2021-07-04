@@ -1,1 +1,1 @@
-var mnemonic = "tortoise animal glow maid quality salon announce present flee outer disease muscle";
+var mnemonic = "great slide attack neck submit pledge student swift annual animal chunk nice";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble seed route jungle before apart game cake rally gasp unlock rich";
+var mnemonic = "cousin gentle decade kind chaos liquid vanish found pair noodle item crumble";

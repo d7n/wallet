@@ -1,1 +1,1 @@
-var mnemonic = "dad social drift depth lecture undo maximum worth essay into trap chaos";
+var mnemonic = "enlist around kingdom favorite divert coast breeze deliver pet grass cheap unknown";

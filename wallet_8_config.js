@@ -1,1 +1,1 @@
-var mnemonic = "grunt more choose above electric boss salt crumble survey follow select area";
+var mnemonic = "crucial ghost reform concert taste loan actor daughter flash sweet track extend";

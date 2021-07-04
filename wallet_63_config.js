@@ -1,1 +1,1 @@
-var mnemonic = "picnic empower spin mother daughter result almost report sentence sign ahead fatigue";
+var mnemonic = "envelope enrich comic frog purchase find style ocean blind bounce face purse";

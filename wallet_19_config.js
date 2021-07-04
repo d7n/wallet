@@ -1,1 +1,1 @@
-var mnemonic = "work wheat assault ecology carpet inherit cream fuel grunt vague mad wagon";
+var mnemonic = "hamster riot mobile axis nominee resist mix sister very item name critic";

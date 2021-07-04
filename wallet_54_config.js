@@ -1,1 +1,1 @@
-var mnemonic = "rookie uphold diagram erase rough tube excite nest rocket panther address false";
+var mnemonic = "main cactus radio draft quality toddler oven property pulp clog reason soda";

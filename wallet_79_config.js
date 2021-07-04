@@ -1,1 +1,1 @@
-var mnemonic = "cupboard help bounce regular street chief verify razor neck need pulp mammal";
+var mnemonic = "lion similar matter romance dance fold grid dove account exhibit whisper river";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild jacket grass midnight forum scan artefact round cry able visa rival";
+var mnemonic = "motor dinosaur nephew elite father insect green ramp card pass wink sword";

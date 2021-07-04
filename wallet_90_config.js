@@ -1,1 +1,1 @@
-var mnemonic = "room ready curious idea sunny dice team cushion science tattoo creek cotton";
+var mnemonic = "dose twelve endless cushion holiday alarm deposit screen ketchup shy goddess beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal cram floor engine dirt slim jungle frequent obey crisp rather lobster";
+var mnemonic = "coil zero heavy slam churn wine click bridge boring accuse simple vendor";

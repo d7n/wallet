@@ -1,1 +1,1 @@
-var mnemonic = "mushroom party live project gravity typical tomorrow leader giraffe lady click believe";
+var mnemonic = "blame razor relax elegant deposit vital wear solve arrange month noodle blue";

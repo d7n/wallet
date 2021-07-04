@@ -1,1 +1,1 @@
-var mnemonic = "narrow capable van menu salute weasel expand camera spider question city width";
+var mnemonic = "girl tray series tuna tired exile correct strong girl gas lonely meat";

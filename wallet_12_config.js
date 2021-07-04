@@ -1,1 +1,1 @@
-var mnemonic = "dog squeeze maze gesture news dance federal monkey satisfy choice stick music";
+var mnemonic = "inherit below glare trim salt need text ability flock okay sniff lab";

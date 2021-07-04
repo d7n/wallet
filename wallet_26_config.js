@@ -1,1 +1,1 @@
-var mnemonic = "above detail impose turkey thing next there pair repair remove welcome million";
+var mnemonic = "humble vendor enforce vibrant elbow mass toilet boss mercy key laptop jungle";

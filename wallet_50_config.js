@@ -1,1 +1,1 @@
-var mnemonic = "panic field expand task speak hospital sand figure hotel cluster trend salad";
+var mnemonic = "assume spot ribbon sample vague hello egg find castle radar estate goat";

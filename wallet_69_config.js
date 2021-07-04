@@ -1,1 +1,1 @@
-var mnemonic = "eagle bus heavy fancy divorce island great sock lizard fuel uncover race";
+var mnemonic = "nut quote destroy next wash hidden picture hundred grief radar observe eight";

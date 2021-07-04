@@ -1,1 +1,1 @@
-var mnemonic = "length frozen save payment tide worth various sight dust phrase couple elevator";
+var mnemonic = "person cave furnace bottom slight october gloom never sock garbage draft uncover";

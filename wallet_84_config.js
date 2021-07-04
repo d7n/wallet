@@ -1,1 +1,1 @@
-var mnemonic = "solution security stove such feel spend parade syrup someone school useful olive";
+var mnemonic = "build parrot neglect gossip wash worry scatter travel dolphin energy deal betray";

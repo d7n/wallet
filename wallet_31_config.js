@@ -1,1 +1,1 @@
-var mnemonic = "stick online chapter office casino guess hockey shock walk staff whisper equip";
+var mnemonic = "arrive achieve praise rug add liar physical renew slot toss fold until";

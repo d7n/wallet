@@ -1,1 +1,1 @@
-var mnemonic = "weird resource liquid primary grid school garage lava craft task shiver achieve";
+var mnemonic = "round achieve title decorate transfer parrot finish angle patch salad ice explain";

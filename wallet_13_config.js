@@ -1,1 +1,1 @@
-var mnemonic = "chapter material oven when donor note august general edge payment raw pizza";
+var mnemonic = "south iron measure tower dose daring guide plastic kite eye water olympic";

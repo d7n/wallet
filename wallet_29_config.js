@@ -1,1 +1,1 @@
-var mnemonic = "doll frequent brick habit dilemma vintage ladder vehicle wrist innocent sand confirm";
+var mnemonic = "sting good cause future attend bless federal coil drop much retreat cry";

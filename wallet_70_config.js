@@ -1,1 +1,1 @@
-var mnemonic = "oblige angry plastic you child rail day indoor sock friend deal skirt";
+var mnemonic = "idea combine perfect void oyster biology tired core extra until shrimp analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap peasant escape orient town blanket remove rescue annual kidney rural bar";
+var mnemonic = "path shaft bottom toilet leopard region half connect keep box illegal close";

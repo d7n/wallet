@@ -1,1 +1,1 @@
-var mnemonic = "eternal mountain drama bench surge other menu type apology wealth security copy";
+var mnemonic = "surface artist rebel shrimp curious deposit certain crystal waste goddess spell tiny";

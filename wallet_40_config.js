@@ -1,1 +1,1 @@
-var mnemonic = "ready limb salon bar foam miracle antenna accident wash language decrease okay";
+var mnemonic = "nominee design dynamic chef pulp decade pole text island goddess recycle silly";

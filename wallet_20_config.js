@@ -1,1 +1,1 @@
-var mnemonic = "myself dress tail town flash biology right success butter disease medal drastic";
+var mnemonic = "exit envelope wood margin picture ticket right paddle wagon shrimp help squeeze";

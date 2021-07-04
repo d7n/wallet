@@ -1,1 +1,1 @@
-var mnemonic = "ethics marriage sniff palm rocket hero crumble wait nerve sight assist butter";
+var mnemonic = "rebuild priority soap speak alert rude concert menu endorse winter mobile cram";

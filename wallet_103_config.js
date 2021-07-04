@@ -1,1 +1,1 @@
-var mnemonic = "easily involve exit vault rural engage taxi tuna song tragic viable robust";
+var mnemonic = "december bulk unveil winter business crane salmon language walk between chaos horn";

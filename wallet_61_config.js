@@ -1,1 +1,1 @@
-var mnemonic = "add switch green alert member plastic rotate warfare clerk model chaos around";
+var mnemonic = "anger cruise ivory warrior cake slab holiday boss stage library rubber prepare";

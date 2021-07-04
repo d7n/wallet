@@ -1,1 +1,1 @@
-var mnemonic = "flavor soldier smart bean dumb topple gather true addict advance swim dizzy";
+var mnemonic = "embody success gift twin card frequent march spray move oppose age cradle";

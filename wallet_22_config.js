@@ -1,1 +1,1 @@
-var mnemonic = "hurdle item asthma able visa raw work tell fence original tiger maple";
+var mnemonic = "afraid subject second code series seminar gadget census pledge measure attack echo";

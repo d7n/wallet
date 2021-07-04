@@ -1,1 +1,1 @@
-var mnemonic = "focus keen scheme brick music piece half company forum nephew rough tube";
+var mnemonic = "monkey disease solar cloud milk festival staff stage tide train deer open";

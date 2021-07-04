@@ -1,1 +1,1 @@
-var mnemonic = "supply near gain forward crunch other element antique wild armed castle mention";
+var mnemonic = "whisper case lizard shy nephew school february various leader cattle seminar crater";

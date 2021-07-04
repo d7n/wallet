@@ -1,1 +1,1 @@
-var mnemonic = "estate bullet judge pudding rib feature toy review narrow hold nerve dentist";
+var mnemonic = "broom hunt garage surge anger orient alien ocean air cattle prevent elephant";

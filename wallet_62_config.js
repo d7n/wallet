@@ -1,1 +1,1 @@
-var mnemonic = "giant view horn gadget damp weird crawl arena shield skill melody morning";
+var mnemonic = "develop tuna race present multiply dry enforce spike boil detect trade load";

@@ -1,1 +1,1 @@
-var mnemonic = "success width during hand rival science wing grid carbon speak face adult";
+var mnemonic = "barrel sunny sock blame brave quiz patrol size destroy fence runway episode";

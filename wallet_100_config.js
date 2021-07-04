@@ -1,1 +1,1 @@
-var mnemonic = "wage drip screen bench skate welcome floor review lizard fitness canvas noodle";
+var mnemonic = "tonight govern address rare angle notable head about bike knife bench dove";

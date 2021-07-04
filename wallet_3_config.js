@@ -1,1 +1,1 @@
-var mnemonic = "eagle fox inform clean ahead feel base wing expose mom crunch pear";
+var mnemonic = "garden brand erosion suffer yellow ecology farm alien embody hidden home film";

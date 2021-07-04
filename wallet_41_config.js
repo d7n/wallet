@@ -1,1 +1,1 @@
-var mnemonic = "calm soccer until amount breeze perfect ice position animal upon live boss";
+var mnemonic = "spell mandate fix almost decade gloom shaft survey diesel flock lazy cushion";

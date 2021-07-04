@@ -1,1 +1,1 @@
-var mnemonic = "frost misery leader phrase fall glow analyst odor estate submit come peanut";
+var mnemonic = "live second cargo finish apart retire pilot maid guitar one weekend virus";

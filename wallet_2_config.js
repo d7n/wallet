@@ -1,1 +1,1 @@
-var mnemonic = "please ride muffin decorate sound indicate pizza volume kitchen display soul high";
+var mnemonic = "pet exist add float rally uniform sauce salt balance process gloom park";

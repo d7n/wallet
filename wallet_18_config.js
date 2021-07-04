@@ -1,1 +1,1 @@
-var mnemonic = "buzz behind pact helmet maze resemble october twist ramp valid move office";
+var mnemonic = "table eager hill exist select area clip clip south kid embrace garbage";

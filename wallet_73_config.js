@@ -1,1 +1,1 @@
-var mnemonic = "file orange dish apart bind kitten scan frown gym pistol scorpion credit";
+var mnemonic = "news install couple prevent public notice leisure shrug spider slow liar large";

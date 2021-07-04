@@ -1,1 +1,1 @@
-var mnemonic = "return foam pipe math brief core shrimp public lava ridge online cherry";
+var mnemonic = "repeat fluid make salute modify biology warrior engage market balcony spring circle";

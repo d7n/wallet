@@ -1,1 +1,1 @@
-var mnemonic = "inform sad sentence pig key bring enhance two merge obey exercise avoid";
+var mnemonic = "mercy erode milk wine garlic piece turkey upper faculty later father goat";

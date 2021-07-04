@@ -1,1 +1,1 @@
-var mnemonic = "grow leave crouch mom venue library wash enough bid display chuckle people";
+var mnemonic = "wing swallow camp carry photo diesel sun move bind coyote agent copy";

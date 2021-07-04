@@ -1,1 +1,1 @@
-var mnemonic = "market cloth notice core suit mobile silk clip toast update inside gym";
+var mnemonic = "crime flock scene reduce sea tent timber race device indoor icon magic";

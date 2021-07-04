@@ -1,1 +1,1 @@
-var mnemonic = "rifle crazy gasp tank canvas display build duty visa tone zoo timber";
+var mnemonic = "mean zero mesh lonely left offer sphere tumble method direct clump chef";

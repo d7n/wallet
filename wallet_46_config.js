@@ -1,1 +1,1 @@
-var mnemonic = "way lonely bachelor abstract dog milk odor gift income shed short monitor";
+var mnemonic = "foster similar hero peanut proud dinner pilot verify drip envelope drill only";

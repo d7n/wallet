@@ -1,1 +1,1 @@
-var mnemonic = "boy bus gown antenna legal amount camp sting duck fan wheel erode";
+var mnemonic = "menu yellow alpha blind card huge boat spatial old skin now piano";
