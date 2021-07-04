@@ -1,1 +1,1 @@
-var mnemonic = "abuse bleak dynamic oval hair edit maple divide produce uniform shoulder orient";
+var mnemonic = "teach wise wrist weather favorite panda honey join fashion nature dress awful";

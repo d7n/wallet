@@ -1,1 +1,1 @@
-var mnemonic = "ethics artist control urban pond clock example remove sense chunk post ready";
+var mnemonic = "drink pattern path grief panel refuse lizard offer code lock series service";

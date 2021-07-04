@@ -1,1 +1,1 @@
-var mnemonic = "daughter you harsh cattle fame front puzzle broken stand junior crunch above";
+var mnemonic = "napkin canal sell void mobile coconut fork august radar arctic dwarf odor";

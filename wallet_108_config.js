@@ -1,1 +1,1 @@
-var mnemonic = "because sheriff predict riot guilt perfect route enlist client service rare produce";
+var mnemonic = "mistake usual crowd never public vocal riot gate divorce broken arrange rebel";

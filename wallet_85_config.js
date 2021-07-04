@@ -1,1 +1,1 @@
-var mnemonic = "brother layer flight high usage shift twelve walk flower over black forget";
+var mnemonic = "wink before kingdom caught divorce jungle blouse express fabric tree lounge shuffle";

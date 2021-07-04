@@ -1,1 +1,1 @@
-var mnemonic = "street core fever power milk stay copy imitate immune filter account accident";
+var mnemonic = "habit super captain wet spoon modify exist assist innocent lyrics alert hello";

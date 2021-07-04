@@ -1,1 +1,1 @@
-var mnemonic = "risk save thought source dog hole auto buddy chat duck science sing";
+var mnemonic = "vintage stay title inform fruit model divert forward empty priority come coral";

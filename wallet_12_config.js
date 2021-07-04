@@ -1,1 +1,1 @@
-var mnemonic = "desert ugly maximum monster topple where jungle sleep fury pink guilt polar";
+var mnemonic = "knee palm humor bonus divert few fade labor wood differ include upper";

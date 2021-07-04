@@ -1,1 +1,1 @@
-var mnemonic = "leg wheel juice kiwi panda tilt fluid bulb minor cliff cake invite";
+var mnemonic = "call napkin suffer useful favorite honey asset scare trophy ticket cycle dinner";

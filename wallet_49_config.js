@@ -1,1 +1,1 @@
-var mnemonic = "tissue endless escape brass squeeze poverty judge case dumb fish differ little";
+var mnemonic = "parent true animal corn mistake power bargain clean quick friend treat wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey have reunion agent public also donate diesel first cheap stomach shop";
+var mnemonic = "sword vapor erase language mind legal wrong excuse vapor cause blanket palm";

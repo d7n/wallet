@@ -1,1 +1,1 @@
-var mnemonic = "child pioneer acquire sight narrow sadness purpose depth south rural siren friend";
+var mnemonic = "coconut beach climb outdoor protect stool door boy comfort play design task";

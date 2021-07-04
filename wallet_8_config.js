@@ -1,1 +1,1 @@
-var mnemonic = "joke deny hidden filter debate burger buzz notable joy cricket addict rate";
+var mnemonic = "lion huge capable list child manual task deny parade echo sadness blame";

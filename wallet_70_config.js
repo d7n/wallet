@@ -1,1 +1,1 @@
-var mnemonic = "slice typical client yellow broom song beyond expect love equip test police";
+var mnemonic = "panel blast method front farm initial scrub busy vendor image skin envelope";

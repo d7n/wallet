@@ -1,1 +1,1 @@
-var mnemonic = "pipe prevent unit ceiling salad minimum cross obtain absent trim come away";
+var mnemonic = "lake gas voyage afraid weapon worry village gesture drop warrior venue decide";

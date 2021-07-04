@@ -1,1 +1,1 @@
-var mnemonic = "patch coil indicate fit electric turn shoe end volcano bottom volume range";
+var mnemonic = "gesture six ankle similar dilemma million blanket entry sorry clap vehicle long";

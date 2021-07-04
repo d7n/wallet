@@ -1,1 +1,1 @@
-var mnemonic = "group connect novel chef when ring quality bicycle grief option rubber warfare";
+var mnemonic = "series swap bike obtain reject borrow situate loud setup because across harbor";

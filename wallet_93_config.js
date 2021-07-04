@@ -1,1 +1,1 @@
-var mnemonic = "burden define misery vanish stem bright mansion decorate ostrich color aspect salad";
+var mnemonic = "differ garment peanut purchase scout capable matter material jeans replace wife work";

@@ -1,1 +1,1 @@
-var mnemonic = "million matrix project floor fold fork diet noise woman heavy deposit leg";
+var mnemonic = "aerobic reform blood say staff top picnic magic use day alien depart";

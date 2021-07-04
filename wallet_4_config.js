@@ -1,1 +1,1 @@
-var mnemonic = "east hole lock violin pull entire canoe little paddle rail abuse divorce";
+var mnemonic = "label dice mirror neither maze anxiety evolve top charge digital column club";

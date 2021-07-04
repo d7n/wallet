@@ -1,1 +1,1 @@
-var mnemonic = "spray glide law fall picnic evidence teach mammal tail away cycle level";
+var mnemonic = "artwork entry tomorrow coast empower before use taxi mistake gadget lake maple";

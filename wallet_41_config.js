@@ -1,1 +1,1 @@
-var mnemonic = "wheel tumble cabbage case tag sorry valid dismiss aware submit symbol arch";
+var mnemonic = "hockey must dilemma quality disorder horse junior fire rely supreme disorder drop";

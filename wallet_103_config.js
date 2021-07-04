@@ -1,1 +1,1 @@
-var mnemonic = "error card brisk point budget identify ostrich siren tag good jaguar roof";
+var mnemonic = "elite submit indicate urge aerobic auction mobile siege family deposit snap afford";

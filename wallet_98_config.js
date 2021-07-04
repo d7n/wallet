@@ -1,1 +1,1 @@
-var mnemonic = "cereal love broccoli useful extend dune text season twelve medal maple feature";
+var mnemonic = "all pave scan mouse fix mix cave bamboo song market dream certain";

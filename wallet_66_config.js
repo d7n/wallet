@@ -1,1 +1,1 @@
-var mnemonic = "snack close fog ugly decorate snow finish exact increase winter arrange empty";
+var mnemonic = "dry rapid slogan lumber cute wage all fault cousin true shell castle";

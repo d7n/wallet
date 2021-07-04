@@ -1,1 +1,1 @@
-var mnemonic = "submit process turkey equal body ship pretty common twelve gentle dove practice";
+var mnemonic = "apart strong aim luggage fiction medal sail dune garlic media embark snack";

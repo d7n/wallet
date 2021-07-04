@@ -1,1 +1,1 @@
-var mnemonic = "banner boil all term debate loyal undo harsh note advance tray success";
+var mnemonic = "garage moment copy wheat mushroom poem until filter half detect recall notice";

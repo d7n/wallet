@@ -1,1 +1,1 @@
-var mnemonic = "gravity pill kick undo tag chase fiber gain interest message gossip puzzle";
+var mnemonic = "trade enrich people afford blood motor science butter bracket doll open pioneer";

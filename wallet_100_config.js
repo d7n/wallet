@@ -1,1 +1,1 @@
-var mnemonic = "number accident coin tortoise have derive interest indicate say jungle december loan";
+var mnemonic = "surround ozone reduce live upon unfold joke deer lazy sure violin awake";

@@ -1,1 +1,1 @@
-var mnemonic = "urban nest negative develop own hurt diet original kidney iron armed region";
+var mnemonic = "bird assist faculty coach affair comfort rabbit foot obtain jaguar wealth balcony";

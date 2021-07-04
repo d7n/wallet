@@ -1,1 +1,1 @@
-var mnemonic = "artwork burger surge travel holiday luggage crunch universe always unfold top session";
+var mnemonic = "virus valid patrol custom body river adjust educate narrow upper confirm before";

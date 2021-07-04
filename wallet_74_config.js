@@ -1,1 +1,1 @@
-var mnemonic = "wave option day proof envelope disorder hollow offer peasant spawn history grid";
+var mnemonic = "emotion label find polar album fine dice relief menu nominee ring exit";

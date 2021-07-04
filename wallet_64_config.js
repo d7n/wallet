@@ -1,1 +1,1 @@
-var mnemonic = "always try remember bullet person sing avoid kangaroo news hurdle sentence enroll";
+var mnemonic = "smile curtain praise canvas gold ready usual mandate pencil try abstract husband";

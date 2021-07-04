@@ -1,1 +1,1 @@
-var mnemonic = "inform left simple sick clown tone bless suspect ignore mom flee sketch";
+var mnemonic = "faculty bulk wrist bamboo angry odor toast carry garage cup page derive";

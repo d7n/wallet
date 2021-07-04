@@ -1,1 +1,1 @@
-var mnemonic = "impulse wise supply apart allow east then property letter clean market cram";
+var mnemonic = "certain ahead tomorrow avocado music make loyal immune help pond chase object";

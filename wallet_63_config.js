@@ -1,1 +1,1 @@
-var mnemonic = "unfair gadget erosion rapid upper economy race become group orphan fine utility";
+var mnemonic = "ribbon crouch deal spawn wire novel tip custom lemon whip happy buzz";

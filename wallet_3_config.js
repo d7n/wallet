@@ -1,1 +1,1 @@
-var mnemonic = "seminar cream invite blast funny anger slush engine oyster armed few feed";
+var mnemonic = "follow destroy damp dial about flower wasp enemy worth abandon midnight fetch";

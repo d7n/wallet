@@ -1,1 +1,1 @@
-var mnemonic = "rural segment country mercy hospital picnic slender squeeze choose salt section still";
+var mnemonic = "stumble rack slogan often aim genuine much gift vocal track story dad";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise flee orange panic witness blind phrase cake loud mutual inflict imitate";
+var mnemonic = "proof what hub common kid verify auto rural light trip yellow key";

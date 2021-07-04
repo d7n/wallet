@@ -1,1 +1,1 @@
-var mnemonic = "guitar hobby paddle story palace joy endorse ranch issue praise planet quarter";
+var mnemonic = "enrich cliff lunar hazard moment mail august project area wealth any forward";

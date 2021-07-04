@@ -1,1 +1,1 @@
-var mnemonic = "present harbor excuse cause electric casino hybrid empower sustain glide void arch";
+var mnemonic = "solve toast coffee head jeans violin record popular average follow output cancel";

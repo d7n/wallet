@@ -1,1 +1,1 @@
-var mnemonic = "auction twelve amazing convince twist proof better rule wear suffer weapon burst";
+var mnemonic = "core fire dog bomb impose album bright noodle cushion mountain fresh doll";

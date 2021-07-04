@@ -1,1 +1,1 @@
-var mnemonic = "move fever era dilemma mix spread gospel slim novel identify expose rely";
+var mnemonic = "end choice hedgehog scout manage rail clay news grid appear fuel slight";

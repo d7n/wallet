@@ -1,1 +1,1 @@
-var mnemonic = "spawn magic cause mass palace sugar chief era crucial warrior gift orphan";
+var mnemonic = "floor throw olive galaxy manage salmon whip game jelly fee leaf rapid";

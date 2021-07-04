@@ -1,1 +1,1 @@
-var mnemonic = "guard indicate damp hunt found vault hip taste carbon copy leave wear";
+var mnemonic = "actor pledge host circle beach interest slow poet crouch music success milk";

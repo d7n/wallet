@@ -1,1 +1,1 @@
-var mnemonic = "essay kind mango private fix bulk blood copy sun tone peasant neither";
+var mnemonic = "spice rice struggle step diagram grass glass tonight want grain collect update";

@@ -1,1 +1,1 @@
-var mnemonic = "resist roast position inject snow soccer have mountain symbol velvet recipe crowd";
+var mnemonic = "more electric clog prevent crazy update element slab rather omit seminar salute";

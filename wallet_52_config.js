@@ -1,1 +1,1 @@
-var mnemonic = "census voice curious token tissue myself decline venture parrot banner guess someone";
+var mnemonic = "shine glass dinosaur marble feed caught popular chicken bracket fire cram rack";

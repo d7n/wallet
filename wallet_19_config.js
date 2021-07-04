@@ -1,1 +1,1 @@
-var mnemonic = "siege resource ripple also glove fatal humble conduct engine cement lizard onion";
+var mnemonic = "save snap rich razor pool subject mansion acid cube secret shiver faculty";

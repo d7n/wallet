@@ -1,1 +1,1 @@
-var mnemonic = "nominee endorse soft embrace vocal october clerk group banner crouch village nephew";
+var mnemonic = "pulse output olympic ticket soup super offer rubber unable system address weekend";

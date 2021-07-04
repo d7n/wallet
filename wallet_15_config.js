@@ -1,1 +1,1 @@
-var mnemonic = "bench track vivid cruel famous emerge brother honey genuine club finish cover";
+var mnemonic = "vanish until balance merit column stay scout category arm drink extend clip";

@@ -1,1 +1,1 @@
-var mnemonic = "zone buffalo drama comic resource vault sting like among exhibit sausage harvest";
+var mnemonic = "dragon junior advice timber nation general cattle wise morning tube hen choice";

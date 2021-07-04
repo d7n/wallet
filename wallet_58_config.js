@@ -1,1 +1,1 @@
-var mnemonic = "dream history often split shield quantum brand cram usual property cool flag";
+var mnemonic = "kid tomorrow lift sample syrup bring route wood clock resource render mind";

@@ -1,1 +1,1 @@
-var mnemonic = "fit next jar disagree plunge man amused piece stereo tip afford ladder";
+var mnemonic = "erase define tilt found cattle mention setup crater exist ketchup laptop stove";

@@ -1,1 +1,1 @@
-var mnemonic = "position output tone chronic found elbow remain field joy raise laugh unit";
+var mnemonic = "gold drill empower prison visual define art start fabric snap capital sunny";

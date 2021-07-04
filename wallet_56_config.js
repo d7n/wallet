@@ -1,1 +1,1 @@
-var mnemonic = "nerve elder toe few sense exact aisle tree guard wool rose crew";
+var mnemonic = "tent chief milk nose cram cover adjust supreme field puzzle result into";

@@ -1,1 +1,1 @@
-var mnemonic = "sail correct trouble trial present goose outdoor inquiry wish knife mechanic advice";
+var mnemonic = "seat dutch fee unable cute timber borrow glimpse farm page enjoy wreck";

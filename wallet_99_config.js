@@ -1,1 +1,1 @@
-var mnemonic = "paper visit ship tortoise they melody column mobile history mushroom helmet cloud";
+var mnemonic = "chuckle equip maze salute impulse turtle range blanket bracket letter loud dragon";

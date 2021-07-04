@@ -1,1 +1,1 @@
-var mnemonic = "brief thing cash address grief tumble math suit brick envelope middle original";
+var mnemonic = "idle jungle tenant pitch spy foot health noise coach pet dentist split";

@@ -1,1 +1,1 @@
-var mnemonic = "receive jeans web glance enemy relief margin hair desk lawsuit crazy refuse";
+var mnemonic = "trap dance today arch truck clown recall dune front cave today onion";

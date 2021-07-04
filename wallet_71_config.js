@@ -1,1 +1,1 @@
-var mnemonic = "season until copy goat buffalo column flavor upset fiction any helmet else";
+var mnemonic = "during minimum cereal toward hidden asset enrich earn theme burst tattoo near";

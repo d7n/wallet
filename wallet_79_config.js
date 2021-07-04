@@ -1,1 +1,1 @@
-var mnemonic = "perfect ready receive whisper educate diary table mouse equal inject outdoor gorilla";
+var mnemonic = "sure east wash cram man crumble leave jar mention annual fluid warrior";

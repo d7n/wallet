@@ -1,1 +1,1 @@
-var mnemonic = "drastic fancy banner luggage outdoor dial destroy above rifle alcohol zero remind";
+var mnemonic = "organ urban helmet rate usage emerge bounce village apart journey negative target";

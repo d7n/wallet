@@ -1,1 +1,1 @@
-var mnemonic = "calm wolf brief oak fun consider mimic olympic space poet beef hint";
+var mnemonic = "cousin version already level dinner vapor vessel together true soft must bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "scene nurse chicken section asset material absent bonus found sword concert excuse";
+var mnemonic = "box picnic unaware hover face undo hold almost spot sentence chat ceiling";

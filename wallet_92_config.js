@@ -1,1 +1,1 @@
-var mnemonic = "ignore truck urge mail skill hole stereo south coast tide culture viable";
+var mnemonic = "drama wheel armor awake math pencil script spell resemble brain pass laugh";

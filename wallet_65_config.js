@@ -1,1 +1,1 @@
-var mnemonic = "kiwi bunker bread entry upset child seek wrist fossil involve disease follow";
+var mnemonic = "recall weird help animal scene much box wink milk define split disease";

@@ -1,1 +1,1 @@
-var mnemonic = "silver will royal genre gather eternal ticket butter spin among patient tuition";
+var mnemonic = "book furnace speed wait tomorrow danger lemon boil kit space evoke snap";

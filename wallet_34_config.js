@@ -1,1 +1,1 @@
-var mnemonic = "sand rough evoke pond speak travel term art mango valley blast hand";
+var mnemonic = "power chuckle jaguar humble exercise start vocal wish ecology pyramid proud monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "cute scatter february lottery dial poverty tone whisper quote elbow short frown";
+var mnemonic = "panic oyster episode peasant slogan volcano oppose hazard evolve elite lunar direct";

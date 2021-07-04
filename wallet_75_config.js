@@ -1,1 +1,1 @@
-var mnemonic = "divide shrug pet rich arrow because they someone long hour there front";
+var mnemonic = "model dress borrow foot material baby success rule display print blade tragic";

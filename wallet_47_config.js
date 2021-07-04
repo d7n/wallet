@@ -1,1 +1,1 @@
-var mnemonic = "snap tonight empower seminar between leg document advance grit person head size";
+var mnemonic = "slush text spike float gap become cry nice tell view fitness ball";

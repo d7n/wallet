@@ -1,1 +1,1 @@
-var mnemonic = "enjoy humble true top onion wreck meat brick warm left search wall";
+var mnemonic = "pyramid prepare total human actual neglect student sphere choice figure strategy daughter";

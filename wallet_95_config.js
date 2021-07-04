@@ -1,1 +1,1 @@
-var mnemonic = "flight pact wheel theme sunny visual delay memory deputy odor gather estate";
+var mnemonic = "hat canyon modify sense cactus little ceiling include throw voyage ivory wear";

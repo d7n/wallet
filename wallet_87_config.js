@@ -1,1 +1,1 @@
-var mnemonic = "shadow chef cradle bar prize envelope flip skate gauge follow always faith";
+var mnemonic = "wife erupt access slim expose boil execute speed dish must intact volume";

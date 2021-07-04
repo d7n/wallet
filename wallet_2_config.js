@@ -1,1 +1,1 @@
-var mnemonic = "eight long airport dry stem memory couple fish trouble dismiss phone raw";
+var mnemonic = "echo behave jealous strategy stock bird addict pony blame into basic patient";

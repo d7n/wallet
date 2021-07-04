@@ -1,1 +1,1 @@
-var mnemonic = "velvet process sentence guard exact deliver salon unable ladder wire kite label";
+var mnemonic = "fall supreme region april feed switch uncover fatal cup october hospital filter";

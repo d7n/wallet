@@ -1,1 +1,1 @@
-var mnemonic = "weather seminar exist melody scale truth company diagram slight royal lunch perfect";
+var mnemonic = "rally sheriff monitor desk logic crumble sing depart surge pilot sweet aim";

@@ -1,1 +1,1 @@
-var mnemonic = "someone clever observe collect flame velvet equal regret mix permit opera illness";
+var mnemonic = "frequent caught innocent mechanic term police oak assist jaguar industry fly protect";

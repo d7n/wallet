@@ -1,1 +1,1 @@
-var mnemonic = "install budget left unfold canal jaguar rail city open ginger magic actress";
+var mnemonic = "push cabbage once evidence search error silk recycle favorite scene absurd grief";

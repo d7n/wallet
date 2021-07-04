@@ -1,1 +1,1 @@
-var mnemonic = "prosper ranch bike letter grief stool wasp pipe acoustic weather south stairs";
+var mnemonic = "regret wrestle limit fragile foil venture deputy industry icon stock impact tragic";

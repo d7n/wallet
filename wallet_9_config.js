@@ -1,1 +1,1 @@
-var mnemonic = "crystal ask clip reopen dish body immense hammer bicycle burst cement extend";
+var mnemonic = "try sort soda ball pipe winner biology expand crucial ring vacant ticket";

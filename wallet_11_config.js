@@ -1,1 +1,1 @@
-var mnemonic = "smooth almost kit put aspect zoo vacuum future cycle crouch debris wedding";
+var mnemonic = "option add coffee worry scan bid suggest slim dust grant coyote history";

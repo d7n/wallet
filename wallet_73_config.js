@@ -1,1 +1,1 @@
-var mnemonic = "carry normal rent choice grief coil agree citizen web range design actual";
+var mnemonic = "lawsuit text release soon music wedding raven exile dilemma equal divert jealous";

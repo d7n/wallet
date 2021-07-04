@@ -1,1 +1,1 @@
-var mnemonic = "mercy easily patch mirror prosper world report name always minute brush habit";
+var mnemonic = "daring vapor antique seed network aware eight border giraffe lobster auction accident";

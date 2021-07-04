@@ -1,1 +1,1 @@
-var mnemonic = "fetch carbon old census pilot cliff job tomorrow tip kangaroo quiz dice";
+var mnemonic = "soap lamp suspect pretty metal mouse pupil helmet goddess mix badge season";

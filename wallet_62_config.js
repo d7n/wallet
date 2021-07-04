@@ -1,1 +1,1 @@
-var mnemonic = "dream praise shop deer grunt album trend gesture question web unfair easily";
+var mnemonic = "index taxi disagree torch sick moral earth echo evil funny work fee";

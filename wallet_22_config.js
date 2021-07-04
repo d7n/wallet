@@ -1,1 +1,1 @@
-var mnemonic = "wish model differ skin tomorrow size cruel intact notable donkey together embrace";
+var mnemonic = "inherit when chase stand twice rhythm light trim infant aisle issue unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse human shell ball egg mail normal menu exotic labor kit piano";
+var mnemonic = "orient final odor school guitar pretty expire open little found elephant inner";

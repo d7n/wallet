@@ -1,1 +1,1 @@
-var mnemonic = "chuckle power often total earn exhibit deer decide suffer vacant renew skill";
+var mnemonic = "across degree record trade sunny sorry brand iron hello main trigger penalty";

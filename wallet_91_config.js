@@ -1,1 +1,1 @@
-var mnemonic = "island exotic love alley receive man mom cup rookie dune short upon";
+var mnemonic = "color pave surface gorilla nature reward kidney salute globe skull sweet near";

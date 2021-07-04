@@ -1,1 +1,1 @@
-var mnemonic = "learn hover harvest sorry language tone topple accuse plunge minor soccer relief";
+var mnemonic = "rally rice bless print home click divert common involve street grass oppose";

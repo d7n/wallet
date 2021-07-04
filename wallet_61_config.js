@@ -1,1 +1,1 @@
-var mnemonic = "pudding result inherit aisle absent magnet arctic funny final act habit history";
+var mnemonic = "crime abandon pudding talk intact foster leg club broken scan ribbon magnet";

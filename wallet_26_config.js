@@ -1,1 +1,1 @@
-var mnemonic = "latin orange supply illness vapor example man provide asthma devote hazard cargo";
+var mnemonic = "tuna surprise obey play twelve deal scare gown client pear nose drill";
