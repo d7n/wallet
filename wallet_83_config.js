@@ -1,1 +1,1 @@
-var mnemonic = "audit forum pull myself valley scene chicken neither scale quality soldier lava";
+var mnemonic = "tank target armed lab club fiction weird champion equal scorpion rare pass";

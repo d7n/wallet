@@ -1,1 +1,1 @@
-var mnemonic = "vivid popular glue wash stand surprise word chef annual voice toward bleak";
+var mnemonic = "buddy describe danger syrup draw balcony fog rich under jump illness talk";

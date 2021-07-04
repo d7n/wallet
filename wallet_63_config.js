@@ -1,1 +1,1 @@
-var mnemonic = "minimum island rocket fault hire empty conduct quantum open brisk collect sentence";
+var mnemonic = "long lonely unhappy glue stock market sauce draw spray spy stuff bamboo";

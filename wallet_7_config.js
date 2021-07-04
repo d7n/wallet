@@ -1,1 +1,1 @@
-var mnemonic = "recall broom humor drip seven check ceiling height congress regret try comfort";
+var mnemonic = "unfold stable gaze blade drum client buffalo entry web dish crop kangaroo";

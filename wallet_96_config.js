@@ -1,1 +1,1 @@
-var mnemonic = "major uphold cluster favorite tube tuna front work satoshi panther sustain someone";
+var mnemonic = "crystal oppose awesome clean step badge decide tackle join annual senior advance";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue negative artwork inhale curtain aware saddle dry credit solve palace antique";
+var mnemonic = "wish toward unable bronze chalk rent boost flag onion napkin violin expose";

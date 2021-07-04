@@ -1,1 +1,1 @@
-var mnemonic = "divorce ginger frog express answer bomb vessel green muscle raise two cereal";
+var mnemonic = "scare cook federal power employ pipe soul liberty explain small result settle";

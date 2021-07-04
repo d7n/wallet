@@ -1,1 +1,1 @@
-var mnemonic = "scrub vacant misery clap vehicle inmate company praise throw paddle rail know";
+var mnemonic = "success more remain gym bone atom spin rule island foam flame spike";

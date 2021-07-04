@@ -1,1 +1,1 @@
-var mnemonic = "afraid lab melody point parade inspire lawn bridge aim tower dose muscle";
+var mnemonic = "envelope quarter open mansion rug raven long inhale affair alone decade among";

@@ -1,1 +1,1 @@
-var mnemonic = "stone same casino enjoy bring merit agent reveal turkey violin idea floor";
+var mnemonic = "shop bean daughter breeze cloud drive deny urban gesture daring make crunch";

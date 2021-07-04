@@ -1,1 +1,1 @@
-var mnemonic = "tongue one obey antenna sugar utility strategy uncover holiday morning inquiry various";
+var mnemonic = "wife live menu eight own quiz write hold cloth check shop lunch";

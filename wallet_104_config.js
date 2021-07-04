@@ -1,1 +1,1 @@
-var mnemonic = "strike cradle pride inform river sight bench empty butter explain cable during";
+var mnemonic = "tuna wink lottery flag base angle race tired debate beef twice identify";

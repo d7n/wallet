@@ -1,1 +1,1 @@
-var mnemonic = "cruise ten brick rail wet program glove empty hidden various any total";
+var mnemonic = "stamp dial example prefer museum float sketch miracle split vacant rhythm bomb";

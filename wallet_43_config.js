@@ -1,1 +1,1 @@
-var mnemonic = "dry such faculty forward kind royal embody essay wool tilt similar garden";
+var mnemonic = "champion tattoo gentle genius lesson bridge crystal hedgehog tent fossil main casino";

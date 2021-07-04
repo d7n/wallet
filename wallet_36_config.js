@@ -1,1 +1,1 @@
-var mnemonic = "sketch sudden autumn enroll bleak offer hold cereal hen uniform art because";
+var mnemonic = "planet mosquito kangaroo later daughter deputy parent alter demise frog bag reveal";

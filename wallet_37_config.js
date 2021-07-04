@@ -1,1 +1,1 @@
-var mnemonic = "squeeze supply raven clean inherit output path vast echo cave embrace cream";
+var mnemonic = "cross skull clinic click angry figure sing antique purse voyage jaguar detect";

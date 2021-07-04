@@ -1,1 +1,1 @@
-var mnemonic = "mammal witness rich genre noodle risk shadow consider fiction draft certain arrange";
+var mnemonic = "oval morning arctic prison choose embark job maze royal liberty enroll start";

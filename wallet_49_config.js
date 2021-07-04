@@ -1,1 +1,1 @@
-var mnemonic = "seed bacon rent indoor involve stairs jealous render bench machine manage assume";
+var mnemonic = "fitness outer milk farm seat inhale hip license diamond program borrow pioneer";

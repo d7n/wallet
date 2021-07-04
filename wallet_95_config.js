@@ -1,1 +1,1 @@
-var mnemonic = "meadow tiger fence shiver okay alone whip paper repair uncover face whip";
+var mnemonic = "genuine gorilla glance thunder powder pumpkin true egg dune ankle purpose aisle";

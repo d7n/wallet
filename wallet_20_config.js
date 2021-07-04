@@ -1,1 +1,1 @@
-var mnemonic = "pipe brand glove flight mobile year true canal doll federal light place";
+var mnemonic = "assume best velvet electric night rug warm few clarify buffalo supreme hurdle";

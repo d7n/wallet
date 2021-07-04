@@ -1,1 +1,1 @@
-var mnemonic = "smile harsh bounce attitude critic party baby jump wave bench brass oyster";
+var mnemonic = "road problem mistake penalty extend raccoon club banana skirt fluid hire height";

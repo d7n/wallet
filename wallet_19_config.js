@@ -1,1 +1,1 @@
-var mnemonic = "diagram mansion core grape tired explain purpose gentle scrub table hold atom";
+var mnemonic = "raise gospel skirt later pistol uniform hard pattern need half virus emerge";

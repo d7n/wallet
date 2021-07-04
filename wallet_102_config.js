@@ -1,1 +1,1 @@
-var mnemonic = "train rib nose okay security tribe empower excite obtain matrix relax polar";
+var mnemonic = "case idle viable under orange wet retreat when interest crunch forest claw";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme setup wise wagon dawn release case enough elevator into column good";
+var mnemonic = "stand vacuum night shaft twist gym resource pulse demise nature bright pumpkin";

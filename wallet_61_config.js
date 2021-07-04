@@ -1,1 +1,1 @@
-var mnemonic = "offer student cabbage dress suggest repair joy sketch pear imitate decline load";
+var mnemonic = "area galaxy mention latin hazard sketch obtain income snake soda peace pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "knock poet laptop drift hood prize defense when below topple frown property";
+var mnemonic = "brass grief cabin ten park fade comfort always shed sign despair submit";

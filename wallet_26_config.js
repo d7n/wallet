@@ -1,1 +1,1 @@
-var mnemonic = "result cattle census canvas addict joy asset abuse guess skull predict target";
+var mnemonic = "trick minor million note rhythm hover proof mule eagle medal message spawn";

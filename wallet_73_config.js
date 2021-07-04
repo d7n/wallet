@@ -1,1 +1,1 @@
-var mnemonic = "party develop vicious music enroll wool wisdom useless unhappy tunnel faculty oxygen";
+var mnemonic = "brother mango bacon wrist identify valve differ crisp business raccoon chapter smile";

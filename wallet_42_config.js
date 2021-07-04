@@ -1,1 +1,1 @@
-var mnemonic = "admit husband pull nut stage menu captain truth body pottery six warm";
+var mnemonic = "trigger reveal soap doll senior doll bamboo flight destroy gadget basic icon";

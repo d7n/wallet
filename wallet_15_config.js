@@ -1,1 +1,1 @@
-var mnemonic = "tonight edge destroy canoe south truth question lion awful siren bring evoke";
+var mnemonic = "lady crew meat cat convince cotton style all arch valid wood uphold";

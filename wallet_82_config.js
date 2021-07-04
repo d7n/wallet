@@ -1,1 +1,1 @@
-var mnemonic = "curious awkward stay dragon thunder alley fine hand talk voyage shoe lend";
+var mnemonic = "daughter trash select fence museum blossom tennis pilot fatal lab silk expand";

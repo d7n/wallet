@@ -1,1 +1,1 @@
-var mnemonic = "celery gorilla stage pig love disease before polar siege trumpet evil receive";
+var mnemonic = "age wealth multiply permit cliff fresh ten prize proud predict dress actress";

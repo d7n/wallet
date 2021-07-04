@@ -1,1 +1,1 @@
-var mnemonic = "slot interest gun mother brave note relief era tilt pulp motion forest";
+var mnemonic = "large kid silver artefact wash fire twist piece cross belt cluster analyst";

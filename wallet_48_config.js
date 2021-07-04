@@ -1,1 +1,1 @@
-var mnemonic = "sun imitate load maze valve issue fashion puppy prosper broom hedgehog right";
+var mnemonic = "below meat raw trophy lunch provide tennis empty myself category original neutral";

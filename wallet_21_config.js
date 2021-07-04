@@ -1,1 +1,1 @@
-var mnemonic = "embrace subject chat appear express vessel nature tray choice trophy slow crucial";
+var mnemonic = "bread march wait excite tape pave car worry various vote rocket coffee";

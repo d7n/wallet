@@ -1,1 +1,1 @@
-var mnemonic = "laugh head imitate void roast feature street flock hurt song advice next";
+var mnemonic = "crazy simple skin gadget credit peasant assist under funny render good rabbit";

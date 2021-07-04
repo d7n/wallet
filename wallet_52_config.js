@@ -1,1 +1,1 @@
-var mnemonic = "crucial antique stove sentence neutral coconut horror joke fabric verify satoshi puzzle";
+var mnemonic = "hungry wait banner cube column rhythm usage pitch stove coconut armed melody";

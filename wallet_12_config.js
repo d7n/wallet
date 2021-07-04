@@ -1,1 +1,1 @@
-var mnemonic = "sort honey monitor put try genius neither lock clever faculty bid organ";
+var mnemonic = "blouse sheriff quantum silly track long deer goat viable year until noise";

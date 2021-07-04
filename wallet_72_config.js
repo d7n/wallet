@@ -1,1 +1,1 @@
-var mnemonic = "giraffe romance survey whip border episode very loop basic festival before announce";
+var mnemonic = "cute candy depth often plug comic swamp innocent measure awesome border prevent";

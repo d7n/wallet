@@ -1,1 +1,1 @@
-var mnemonic = "acid attract later rather major express bird laugh bag general answer weekend";
+var mnemonic = "payment shallow muffin base eye step rib asthma enemy wool obey worry";

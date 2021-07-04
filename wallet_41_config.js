@@ -1,1 +1,1 @@
-var mnemonic = "risk solve coast wrestle please slogan will maid system spider thing never";
+var mnemonic = "banner jar mask master tobacco tomorrow market slam soft version chief mass";

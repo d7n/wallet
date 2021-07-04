@@ -1,1 +1,1 @@
-var mnemonic = "supply under boss local neutral above crisp push mammal left spirit side";
+var mnemonic = "flower spray gossip route master useless girl slide between jazz empty panel";

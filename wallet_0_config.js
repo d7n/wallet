@@ -1,1 +1,1 @@
-var mnemonic = "rail peanut gym mercy inject giraffe such increase task ability brother punch";
+var mnemonic = "illegal success piece leader satisfy shiver among double slogan elevator access script";

@@ -1,1 +1,1 @@
-var mnemonic = "glove diagram able wine pioneer fun deposit park heavy urge clap purity";
+var mnemonic = "junk balance express barrel frost party axis melt palace gun beach inspire";

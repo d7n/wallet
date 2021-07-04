@@ -1,1 +1,1 @@
-var mnemonic = "math match allow sea warrior cry frown motion security boat vote solid";
+var mnemonic = "correct before false upgrade erode hedgehog say fruit scout cheap multiply ecology";

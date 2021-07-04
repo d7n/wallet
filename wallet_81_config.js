@@ -1,1 +1,1 @@
-var mnemonic = "slam ripple muffin company solution bone act mistake document spot actor come";
+var mnemonic = "cliff alert chuckle ignore virtual gesture major truth pepper escape act size";

@@ -1,1 +1,1 @@
-var mnemonic = "urge snake awake oppose exclude reflect oppose pluck defy melody dignity bronze";
+var mnemonic = "long spell order anchor race few review joy sun grape option mirror";

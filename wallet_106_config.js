@@ -1,1 +1,1 @@
-var mnemonic = "chicken romance measure attend loan egg air desert have divide tobacco goose";
+var mnemonic = "car deposit either relief layer diagram lobster power panther lab unfair orange";

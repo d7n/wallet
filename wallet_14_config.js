@@ -1,1 +1,1 @@
-var mnemonic = "flight mixed pitch pond gesture circle topple jealous unable draft afford fun";
+var mnemonic = "nest just used artwork crystal beach attitude river final road exact oven";

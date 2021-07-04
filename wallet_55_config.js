@@ -1,1 +1,1 @@
-var mnemonic = "coin arrest chat hint coyote pottery cattle denial shy pride maze gorilla";
+var mnemonic = "fiction attract struggle alarm appear replace wink near box enact health model";

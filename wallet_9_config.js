@@ -1,1 +1,1 @@
-var mnemonic = "cotton spare magnet anger save dose modify carpet island miss eager volume";
+var mnemonic = "present lady together elbow spy require bus copper rack front drift sun";

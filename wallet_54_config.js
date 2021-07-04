@@ -1,1 +1,1 @@
-var mnemonic = "prison enact fox choose fantasy fit must famous forget vocal mad helmet";
+var mnemonic = "piano fan ocean hospital swap vicious patient capable either accuse canvas day";

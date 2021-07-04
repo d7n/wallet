@@ -1,1 +1,1 @@
-var mnemonic = "orange feel fun enjoy return crush select manage polar scan festival tower";
+var mnemonic = "bounce fit palm copper spider enter math hurdle become project antenna cradle";

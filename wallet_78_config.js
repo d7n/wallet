@@ -1,1 +1,1 @@
-var mnemonic = "dentist another initial brick pulp fork bullet parent census disagree else degree";
+var mnemonic = "you limb vital flush marine coffee urge ostrich monster hospital banner decide";

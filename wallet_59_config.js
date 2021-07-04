@@ -1,1 +1,1 @@
-var mnemonic = "dragon virtual wrap leave feel cigar affair then immune shop eyebrow begin";
+var mnemonic = "pigeon split fringe steel nice gospel inhale void demand evolve physical interest";

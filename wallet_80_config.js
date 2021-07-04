@@ -1,1 +1,1 @@
-var mnemonic = "suggest hold gap outer share will mind metal ecology banana clerk pill";
+var mnemonic = "fame narrow win brand culture decade misery note kingdom close rhythm purity";

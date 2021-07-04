@@ -1,1 +1,1 @@
-var mnemonic = "biology chief account bounce input arrive sample ignore hero addict salt razor";
+var mnemonic = "portion high pass time inspire foot lucky ten buzz arctic degree salt";

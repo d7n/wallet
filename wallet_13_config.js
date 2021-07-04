@@ -1,1 +1,1 @@
-var mnemonic = "fragile famous payment weapon public salute sketch blast toy comic width ten";
+var mnemonic = "piano mix someone bright certain pepper monitor clay genuine neck dirt nerve";

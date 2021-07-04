@@ -1,1 +1,1 @@
-var mnemonic = "grace typical eagle embark toss violin bounce buddy tent potato design alpha";
+var mnemonic = "pluck pelican inmate real sting flame error island extra weird local alone";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse explain cereal tourist tragic board first enroll voyage relax elbow elder";
+var mnemonic = "reform barrel solar great assume word control leader birth velvet output lazy";

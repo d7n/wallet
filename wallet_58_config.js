@@ -1,1 +1,1 @@
-var mnemonic = "west lock liberty gorilla arm sound into pattern riot host item inform";
+var mnemonic = "swarm october control damp delay hole agree margin enemy raccoon south asset";

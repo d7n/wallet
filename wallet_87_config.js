@@ -1,1 +1,1 @@
-var mnemonic = "net joy daughter essence trust habit flat able check history cup burst";
+var mnemonic = "goose time unusual term cute evolve control eyebrow power attract depend also";

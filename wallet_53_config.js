@@ -1,1 +1,1 @@
-var mnemonic = "tumble air harvest inject orchard only famous feed west notice security milk";
+var mnemonic = "exile author blur march lesson push bar credit moment across lab trend";

@@ -1,1 +1,1 @@
-var mnemonic = "fly price tank weird table peanut tent hand poem slab segment exile";
+var mnemonic = "flip glance bundle hockey polar pottery fox poet renew solid rescue smooth";

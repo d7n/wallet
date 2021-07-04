@@ -1,1 +1,1 @@
-var mnemonic = "girl kit cattle toward fatal fog polar liberty solve save sweet immune";
+var mnemonic = "cable chicken flavor awesome scrub pen kangaroo captain improve scrub cluster cable";

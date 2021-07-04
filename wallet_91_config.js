@@ -1,1 +1,1 @@
-var mnemonic = "exit twice crumble autumn canyon put club blush trip slush coach caught";
+var mnemonic = "liar worry junior obey dad moment bomb nasty swarm zoo collect winner";

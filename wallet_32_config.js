@@ -1,1 +1,1 @@
-var mnemonic = "excuse upon essence proof ugly benefit enforce space accident jungle ozone whisper";
+var mnemonic = "fruit alert also runway comfort fringe rough monster divorce canal table cheese";

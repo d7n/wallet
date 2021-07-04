@@ -1,1 +1,1 @@
-var mnemonic = "toast fan luggage frog foot live salad retire amused ship stomach expire";
+var mnemonic = "forest post miracle theory time logic job cheese orchard suggest arrest wall";

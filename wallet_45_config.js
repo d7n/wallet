@@ -1,1 +1,1 @@
-var mnemonic = "theory normal exclude castle autumn close network spot silly almost control enrich";
+var mnemonic = "lab program spike crazy define pass sorry furnace identify eager history below";

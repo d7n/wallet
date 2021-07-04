@@ -1,1 +1,1 @@
-var mnemonic = "trial curve genius prison despair flame decrease olympic capable fantasy bottom traffic";
+var mnemonic = "possible skate burden lazy artefact dismiss elevator pyramid industry again lounge long";

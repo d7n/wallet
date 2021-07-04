@@ -1,1 +1,1 @@
-var mnemonic = "derive say truth nuclear filter elite search zone giggle crowd invite love";
+var mnemonic = "absurd drastic gloom purse garbage lesson behind vibrant connect then filter hip";

@@ -1,1 +1,1 @@
-var mnemonic = "horse claw client profit object number steel vanish pencil jeans double decline";
+var mnemonic = "visa bench debris inch vendor umbrella bring shrug renew success job pause";

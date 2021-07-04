@@ -1,1 +1,1 @@
-var mnemonic = "solar hole august unknown fiction tuna source alien truck member butter choose";
+var mnemonic = "price unfold nose flat author scale anxiety hospital clean unfair world vintage";

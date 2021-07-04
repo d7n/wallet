@@ -1,1 +1,1 @@
-var mnemonic = "promote donkey disagree gallery make lamp attitude fiscal senior flash chalk text";
+var mnemonic = "issue foam truly inspire pelican amazing october nephew palm shallow measure injury";

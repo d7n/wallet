@@ -1,1 +1,1 @@
-var mnemonic = "estate radar wedding approve lottery citizen good curve grape spell shine tone";
+var mnemonic = "stable priority pepper spring ghost old moon start vintage party senior identify";

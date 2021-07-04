@@ -1,1 +1,1 @@
-var mnemonic = "meat horse actor cabbage obvious cake reform buddy soldier typical barrel school";
+var mnemonic = "retreat clever various follow tongue stove rose draft simple cloth bottom finger";

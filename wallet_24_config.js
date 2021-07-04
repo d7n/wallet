@@ -1,1 +1,1 @@
-var mnemonic = "attack enlist stand kind wisdom task voyage excite canoe jacket charge ensure";
+var mnemonic = "purpose rookie material gun august near husband jeans elephant excess wedding unlock";

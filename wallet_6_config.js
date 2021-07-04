@@ -1,1 +1,1 @@
-var mnemonic = "check play enhance guilt truth velvet wealth nurse chimney sweet bachelor special";
+var mnemonic = "absorb pyramid spatial off window practice tooth social measure end leg airport";

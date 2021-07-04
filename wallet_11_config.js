@@ -1,1 +1,1 @@
-var mnemonic = "guilt stumble wage pool direct invest oppose public walnut wall primary raccoon";
+var mnemonic = "into age jar step attack orient guide nominee stove skirt impulse frame";

@@ -1,1 +1,1 @@
-var mnemonic = "hour tobacco barrel wave orphan finish audit brother dish pigeon erase robot";
+var mnemonic = "differ sing turtle split napkin resist update fame liquid teach soft cool";

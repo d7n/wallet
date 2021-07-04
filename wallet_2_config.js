@@ -1,1 +1,1 @@
-var mnemonic = "shop rude return diesel dance moon business valid jar learn erosion direct";
+var mnemonic = "degree typical orchard squeeze trumpet music bomb tunnel fancy fluid bird still";

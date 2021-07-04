@@ -1,1 +1,1 @@
-var mnemonic = "slim indicate reduce oval venue rigid cousin crime eager stereo often promote";
+var mnemonic = "annual volcano border public slam crouch beauty yard wood deliver trip vague";

@@ -1,1 +1,1 @@
-var mnemonic = "actress alien love spoon moon banana trophy fiber ensure pause nasty climb";
+var mnemonic = "feed pupil arena shrimp entry pottery general learn lift click popular dragon";

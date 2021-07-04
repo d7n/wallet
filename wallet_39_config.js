@@ -1,1 +1,1 @@
-var mnemonic = "sunset fancy doll monkey amount term spread someone measure absent trial luggage";
+var mnemonic = "flip insane pride pencil host local violin grab teach finish spike tackle";

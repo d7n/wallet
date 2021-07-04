@@ -1,1 +1,1 @@
-var mnemonic = "tunnel audit pitch squirrel carpet assume whale olympic absorb theory equal toward";
+var mnemonic = "twelve arrow west artwork current canvas crouch drop video senior cute around";

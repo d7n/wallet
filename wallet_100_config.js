@@ -1,1 +1,1 @@
-var mnemonic = "find runway make album material horse eternal error act letter recall goose";
+var mnemonic = "month scout slight negative donor cereal broccoli sound fossil mansion pact scrap";

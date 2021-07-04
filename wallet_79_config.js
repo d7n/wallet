@@ -1,1 +1,1 @@
-var mnemonic = "decrease act drama height language dumb moment grab focus mix gentle tornado";
+var mnemonic = "outside velvet face angry problem elder reward border feed garment parade brain";

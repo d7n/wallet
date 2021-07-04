@@ -1,1 +1,1 @@
-var mnemonic = "fancy oblige system awkward success wolf enact enroll scout amused gain acoustic";
+var mnemonic = "crouch photo jazz lizard height maze infant lawsuit senior lion symptom reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "walk police cream please field sure palace skill enter nose letter genre";
+var mnemonic = "chair lamp ship when despair giggle traffic strong swamp maple add oblige";

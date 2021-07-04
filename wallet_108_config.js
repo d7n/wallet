@@ -1,1 +1,1 @@
-var mnemonic = "pelican pool bunker script uniform method curtain hip addict later solar february";
+var mnemonic = "coral drastic strike whisper addict shaft slam cream human rifle dumb color";

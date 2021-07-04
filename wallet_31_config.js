@@ -1,1 +1,1 @@
-var mnemonic = "cry garden deputy pear mask recall amazing jacket surprise near cook enemy";
+var mnemonic = "rent elbow island section slender under december popular shuffle grocery venue milk";

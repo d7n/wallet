@@ -1,1 +1,1 @@
-var mnemonic = "rifle ethics system wisdom during awake erase shield design knock end poverty";
+var mnemonic = "among village word alpha snake twenty chaos liberty sample have repair zone";

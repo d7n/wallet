@@ -1,1 +1,1 @@
-var mnemonic = "office bread dilemma action manual leader injury thought property range antique horse";
+var mnemonic = "kit guard album ginger initial property session kite tuition month spy brisk";

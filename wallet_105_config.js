@@ -1,1 +1,1 @@
-var mnemonic = "enable undo prefer certain tiger wolf circle little until civil tape sail";
+var mnemonic = "benefit recall balance suit captain head east black culture laundry hurt slogan";
