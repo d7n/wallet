@@ -1,1 +1,1 @@
-var mnemonic = "fade citizen rely copy sand method lecture panel pond sail gauge foil";
+var mnemonic = "raccoon puppy arena crawl blanket unable hood life kiss stove column govern";

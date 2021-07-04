@@ -1,1 +1,1 @@
-var mnemonic = "boil pulse such cheap chaos hurdle lucky metal track champion youth kingdom";
+var mnemonic = "park program danger heavy fever absurd subject wave moon swing change tooth";

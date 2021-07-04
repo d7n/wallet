@@ -1,1 +1,1 @@
-var mnemonic = "sadness club soldier ribbon coil mesh accuse dust endorse tuna cheap obvious";
+var mnemonic = "accident shallow hero bring sword render phrase explain thumb enemy soon wrong";

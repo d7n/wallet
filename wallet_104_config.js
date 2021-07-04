@@ -1,1 +1,1 @@
-var mnemonic = "affair pyramid people staff add oven toss orphan lunar document borrow oxygen";
+var mnemonic = "transfer enroll rely attack harsh parrot author radio job donkey peace label";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle account area post alcohol sugar pledge unlock plate candy spray crawl";
+var mnemonic = "dirt swap hazard shaft use coil harsh hidden error payment spike begin";

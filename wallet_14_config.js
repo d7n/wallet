@@ -1,1 +1,1 @@
-var mnemonic = "wolf unhappy worry mansion prize excess general comic runway protect thrive permit";
+var mnemonic = "squirrel chief moment faint diamond antenna client clinic rug grant later alarm";

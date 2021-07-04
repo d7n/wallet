@@ -1,1 +1,1 @@
-var mnemonic = "sister poem you improve senior ecology sustain record design december side door";
+var mnemonic = "reopen rocket nurse thought govern license shed change agree flock cover provide";

@@ -1,1 +1,1 @@
-var mnemonic = "train credit glass thought explain giggle decrease spend metal crumble option person";
+var mnemonic = "guard planet air crash giant dad gaze supreme system ozone element powder";

@@ -1,1 +1,1 @@
-var mnemonic = "any black result sort paddle smoke method visit runway merit satoshi purity";
+var mnemonic = "tired message robot embody power clump rapid crisp antenna merry funny century";

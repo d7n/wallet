@@ -1,1 +1,1 @@
-var mnemonic = "desk erosion monitor wrong pencil stage cash absurd tooth nothing drip rare";
+var mnemonic = "feel search rhythm pepper mistake point brush chunk insane young shoulder fall";

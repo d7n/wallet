@@ -1,1 +1,1 @@
-var mnemonic = "coyote motion produce seat waste world fiction enough same oyster lamp ship";
+var mnemonic = "fold tone claim visit income prosper practice legal brief region cook idea";

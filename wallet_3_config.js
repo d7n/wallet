@@ -1,1 +1,1 @@
-var mnemonic = "common skirt length raw afraid raw leader differ warfare twist canvas original";
+var mnemonic = "feed divide welcome expand fantasy silly choose merit nice brick spike express";

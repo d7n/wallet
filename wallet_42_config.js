@@ -1,1 +1,1 @@
-var mnemonic = "crazy segment minute clay vintage stable round mind razor pudding ceiling depth";
+var mnemonic = "vacant lounge frame breeze powder wasp column tackle ugly banner south never";

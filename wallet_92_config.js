@@ -1,1 +1,1 @@
-var mnemonic = "chronic vast picnic fan garlic alley there century humor pitch super velvet";
+var mnemonic = "try drop fat retreat muscle breeze stem define circle need diagram glimpse";

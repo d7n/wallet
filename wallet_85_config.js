@@ -1,1 +1,1 @@
-var mnemonic = "confirm pony youth gloom monkey cattle stand feed glance when comic check";
+var mnemonic = "now injury play goat antenna joy stock opera lecture hawk off music";

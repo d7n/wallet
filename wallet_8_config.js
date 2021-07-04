@@ -1,1 +1,1 @@
-var mnemonic = "settle flag divert illness announce bomb judge indoor treat sing category kiwi";
+var mnemonic = "neck noble update icon august jelly walk science term reunion need wink";

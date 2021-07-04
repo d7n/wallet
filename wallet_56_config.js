@@ -1,1 +1,1 @@
-var mnemonic = "oak opera lift hero just doctor robust harbor lamp power cat mail";
+var mnemonic = "horror strategy type dance cliff strike decade patch resist eight solar refuse";

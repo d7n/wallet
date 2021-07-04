@@ -1,1 +1,1 @@
-var mnemonic = "donate toy ceiling frozen hotel funny walnut shed table trend volcano citizen";
+var mnemonic = "orient wall almost cloud erase siege employ slight process shoulder dust speak";

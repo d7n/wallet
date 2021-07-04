@@ -1,1 +1,1 @@
-var mnemonic = "save critic sport skill crunch lamp obscure happy reason faculty proof despair";
+var mnemonic = "dash web album curious still inspire genre before under eagle wet gold";

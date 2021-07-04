@@ -1,1 +1,1 @@
-var mnemonic = "unique parent magnet orange again spell giant harvest spawn together copy screen";
+var mnemonic = "banner mind fox virus switch flight that wedding anxiety three winner attract";

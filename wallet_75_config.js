@@ -1,1 +1,1 @@
-var mnemonic = "admit price kite win open similar hospital balcony way system icon huge";
+var mnemonic = "receive pause peanut theme allow salad shuffle hard spoil orange know puppy";

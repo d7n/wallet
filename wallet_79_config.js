@@ -1,1 +1,1 @@
-var mnemonic = "globe ethics cabin employ mobile that can sure weekend sword flock twist";
+var mnemonic = "rich label alert village quick oxygen fork accident prize have island box";

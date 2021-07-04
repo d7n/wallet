@@ -1,1 +1,1 @@
-var mnemonic = "slot royal shiver wool language alert round item short dress adapt base";
+var mnemonic = "below slim only adjust monster grape extra badge popular spoil culture provide";

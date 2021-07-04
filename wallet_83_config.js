@@ -1,1 +1,1 @@
-var mnemonic = "hockey cement stock address index rack utility patch walk where legal coyote";
+var mnemonic = "judge cousin asset during winner melt adult dolphin grit spatial lend step";

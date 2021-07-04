@@ -1,1 +1,1 @@
-var mnemonic = "silver grief beach drill burger spirit canyon scheme art mesh step social";
+var mnemonic = "hair among rally butter lawsuit nurse fiction fat quick club energy exact";

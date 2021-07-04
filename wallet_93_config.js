@@ -1,1 +1,1 @@
-var mnemonic = "winner blade frog gravity violin myself street dizzy chef flush melody junk";
+var mnemonic = "milk axis desert refuse moral artist fashion manual fit there salmon person";

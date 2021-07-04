@@ -1,1 +1,1 @@
-var mnemonic = "stone rib turtle setup warm front aerobic choose local evolve under coach";
+var mnemonic = "shock coral eye sting funny young humble lazy despair phrase summer boring";

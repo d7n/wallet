@@ -1,1 +1,1 @@
-var mnemonic = "guilt leave glad march hen february cycle clock pilot prosper second rally";
+var mnemonic = "local comfort major security seminar release small axis infant order fluid try";

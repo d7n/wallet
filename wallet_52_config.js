@@ -1,1 +1,1 @@
-var mnemonic = "bleak chapter crush country cricket dizzy traffic between cheap link check cruise";
+var mnemonic = "drop carpet cloud canal fatal mosquito innocent jump grid inside bring gown";

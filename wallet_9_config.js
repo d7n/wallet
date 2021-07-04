@@ -1,1 +1,1 @@
-var mnemonic = "erupt document virus october please input walk ketchup ozone trick setup access";
+var mnemonic = "paddle space exact eyebrow corn text crouch right clay cute stable smart";

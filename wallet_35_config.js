@@ -1,1 +1,1 @@
-var mnemonic = "phrase airport sign napkin today anger home monster upper agent output rail";
+var mnemonic = "chimney cradle squirrel shock pumpkin mercy alley pull ice federal knee term";

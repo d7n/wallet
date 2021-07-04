@@ -1,1 +1,1 @@
-var mnemonic = "define genius grit ticket hamster middle describe cousin engine grit gas keen";
+var mnemonic = "immune unfold scare parent morning moment august critic cry fresh shift stem";

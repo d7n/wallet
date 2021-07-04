@@ -1,1 +1,1 @@
-var mnemonic = "remind sauce aspect kiss immense curve retreat hello else deer powder exclude";
+var mnemonic = "unusual obtain prefer segment silent dice trade neutral ripple student profit sting";

@@ -1,1 +1,1 @@
-var mnemonic = "web cycle easily clinic act adapt among animal supply school space fault";
+var mnemonic = "seed cushion city daring trial spell purchase dry pistol taste party feel";

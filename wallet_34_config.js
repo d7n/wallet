@@ -1,1 +1,1 @@
-var mnemonic = "among play boat language retreat near symptom kind seed rifle crawl team";
+var mnemonic = "wink trash into wrong giraffe box sample argue april bridge ill manage";

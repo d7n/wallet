@@ -1,1 +1,1 @@
-var mnemonic = "expose occur swing void across maximum uncle hurt neutral museum young recipe";
+var mnemonic = "raise search decide track agree calm island argue submit pole tail hurt";

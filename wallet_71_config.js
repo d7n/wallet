@@ -1,1 +1,1 @@
-var mnemonic = "label easily holiday liquid runway fresh gallery slam dizzy analyst wave board";
+var mnemonic = "level ugly shoe arrive dirt empty over decide lyrics nice width road";

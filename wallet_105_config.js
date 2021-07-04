@@ -1,1 +1,1 @@
-var mnemonic = "sad oxygen orient buddy cannon barrel glow vital track urban guitar gallery";
+var mnemonic = "daring hidden recycle brown flat slender provide session click cushion medal medal";

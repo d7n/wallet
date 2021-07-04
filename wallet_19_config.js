@@ -1,1 +1,1 @@
-var mnemonic = "army scatter fashion sport glory breeze three behind leaf olympic library glide";
+var mnemonic = "three trade season parrot game defense file zone waste excess lend stone";

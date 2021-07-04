@@ -1,1 +1,1 @@
-var mnemonic = "old planet globe coin blanket brick buzz trash step wealth praise seed";
+var mnemonic = "field agent broken chest noble master habit oblige snap dirt flower dance";

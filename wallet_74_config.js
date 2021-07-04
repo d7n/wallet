@@ -1,1 +1,1 @@
-var mnemonic = "stem leopard bike sword beauty install brick nuclear velvet twin spot piano";
+var mnemonic = "oak floor year logic hover segment frozen tool assist profit fault reason";

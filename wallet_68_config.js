@@ -1,1 +1,1 @@
-var mnemonic = "salute wrist bounce dawn divorce wreck weird path hundred heavy evolve detect";
+var mnemonic = "defense theme loop cost surface mix route hurdle impulse gather dad list";

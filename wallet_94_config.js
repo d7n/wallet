@@ -1,1 +1,1 @@
-var mnemonic = "lens please brand winner flush cheese diagram access fish what dilemma grocery";
+var mnemonic = "great liquid used main noble wall spirit clock chair love scheme sing";

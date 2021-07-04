@@ -1,1 +1,1 @@
-var mnemonic = "day peasant cart impose sugar shrimp talent essence scare brush advance cram";
+var mnemonic = "parent refuse struggle flight certain lecture agree rose rural smart boy rate";

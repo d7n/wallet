@@ -1,1 +1,1 @@
-var mnemonic = "inmate chase conduct relax swallow cash author marriage oxygen phone cinnamon castle";
+var mnemonic = "unhappy just vivid used reunion repair coconut panther monitor dilemma flag copy";

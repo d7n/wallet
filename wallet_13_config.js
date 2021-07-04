@@ -1,1 +1,1 @@
-var mnemonic = "range client acquire once traffic sound balcony panel educate effort junk practice";
+var mnemonic = "guard screen embody index glad robust divorce zero glow candy uniform arrow";

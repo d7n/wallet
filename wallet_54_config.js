@@ -1,1 +1,1 @@
-var mnemonic = "fancy exact body latin spy carry final gravity recipe nurse call alone";
+var mnemonic = "taste limb often awake short right such parrot female snow aim sword";

@@ -1,1 +1,1 @@
-var mnemonic = "lab reason install apart soccer forum nation false pear family goddess episode";
+var mnemonic = "produce survey member ship fury brown cart forget flat label pink float";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby noble funny square enlist panel tower gold ill junk slot sting";
+var mnemonic = "script dune enroll fragile trick reflect element random inject gospel drive stable";

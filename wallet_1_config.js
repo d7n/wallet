@@ -1,1 +1,1 @@
-var mnemonic = "save suit dutch finger ability next defy miss rack hawk quit wasp";
+var mnemonic = "flower harvest toddler crowd subway public vicious cement similar gallery pottery relief";

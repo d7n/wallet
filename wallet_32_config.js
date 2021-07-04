@@ -1,1 +1,1 @@
-var mnemonic = "adjust gospel word flush owner inherit gaze toss thought equip flower poet";
+var mnemonic = "famous hollow hold lazy client case timber toe ketchup loyal thumb tape";

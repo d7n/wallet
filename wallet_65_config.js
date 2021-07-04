@@ -1,1 +1,1 @@
-var mnemonic = "law convince sure tennis section member fatal model material salon bid tuna";
+var mnemonic = "youth slight addict choice crazy oak buddy erase iron month damp blade";

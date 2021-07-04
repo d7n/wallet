@@ -1,1 +1,1 @@
-var mnemonic = "lawn embark warfare volcano client airport grocery sad thank later shoe circle";
+var mnemonic = "grow sting clinic pumpkin unable rigid awful easy dwarf jazz error target";

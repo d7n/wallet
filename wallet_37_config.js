@@ -1,1 +1,1 @@
-var mnemonic = "subway honey breeze patch invest legal dream guilt affair strike space boat";
+var mnemonic = "endorse travel happy indicate pumpkin knee balance imitate you guilt noise shop";

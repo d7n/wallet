@@ -1,1 +1,1 @@
-var mnemonic = "impose excuse cover despair live blue valve filter help matter object salute";
+var mnemonic = "session general cloth holiday bean alone husband appear horn return census table";

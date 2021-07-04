@@ -1,1 +1,1 @@
-var mnemonic = "vacant worry ice broom pigeon ignore draw famous bomb cash minimum pink";
+var mnemonic = "hard page spare early twist jar order balance blind canyon brass awkward";

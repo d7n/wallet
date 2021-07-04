@@ -1,1 +1,1 @@
-var mnemonic = "that twelve slot change giraffe opinion sting transfer camp mixed castle wear";
+var mnemonic = "put grant write stereo ancient thunder enable uniform average antique churn honey";

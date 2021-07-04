@@ -1,1 +1,1 @@
-var mnemonic = "shallow awful monster liberty ribbon camera faint avocado onion lecture romance nest";
+var mnemonic = "mobile egg home good message usage dismiss tonight pool thought turtle harbor";

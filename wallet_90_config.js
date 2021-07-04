@@ -1,1 +1,1 @@
-var mnemonic = "timber basic trap warrior belt bag sense coin mix sunny cover behave";
+var mnemonic = "again cupboard age guard index train project fix wrist excite fall night";

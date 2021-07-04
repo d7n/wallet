@@ -1,1 +1,1 @@
-var mnemonic = "purity when absorb ensure deposit chef render during fitness craft cactus argue";
+var mnemonic = "child patient inside clean horn loud wine stand health tomato promote wagon";

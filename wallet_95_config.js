@@ -1,1 +1,1 @@
-var mnemonic = "brave element wrestle giggle local robust nothing conduct raven mixture slow glove";
+var mnemonic = "castle deliver quiz audit kiss walk field mosquito sea depend slender exact";

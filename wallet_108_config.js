@@ -1,1 +1,1 @@
-var mnemonic = "fire vocal praise display pattern sock fatal scheme video fortune ski imitate";
+var mnemonic = "winter draft dream science muffin tornado version chief region dynamic primary whip";

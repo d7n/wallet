@@ -1,1 +1,1 @@
-var mnemonic = "patrol smart ethics toast shine gauge plate virtual sport vendor empty bulk";
+var mnemonic = "trip nerve foot slice axis violin life danger fabric april snap wool";

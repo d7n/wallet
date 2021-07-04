@@ -1,1 +1,1 @@
-var mnemonic = "fatigue talk crop forget suggest crystal huge carbon attack auto end creek";
+var mnemonic = "action copy bone benefit ask claim sun act wife deliver gasp coast";

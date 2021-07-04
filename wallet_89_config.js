@@ -1,1 +1,1 @@
-var mnemonic = "fame treat cheap satisfy annual round marble dry skull cry burst human";
+var mnemonic = "panic dune present egg strategy taxi control fold quarter lounge tape prosper";

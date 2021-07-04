@@ -1,1 +1,1 @@
-var mnemonic = "umbrella boy resemble nephew stereo enjoy behave auction office crunch close craft";
+var mnemonic = "parent scene clog potato wall toss chef violin train trial shadow vicious";

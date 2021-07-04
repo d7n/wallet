@@ -1,1 +1,1 @@
-var mnemonic = "task two early toast divorce seed reform ritual initial wash sound mention";
+var mnemonic = "empty define coyote asset violin load please axis wreck regular list jump";

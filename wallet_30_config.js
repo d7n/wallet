@@ -1,1 +1,1 @@
-var mnemonic = "antenna lecture bulb wet combine grain riot just drama current cliff farm";
+var mnemonic = "net cluster similar super nominee erosion foot belt shuffle repeat limb prison";

@@ -1,1 +1,1 @@
-var mnemonic = "few install change nerve promote blossom ostrich evil bus stable few sponsor";
+var mnemonic = "palace goat fiction tunnel guitar current fold obey point suspect clutch lunch";

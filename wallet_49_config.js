@@ -1,1 +1,1 @@
-var mnemonic = "speak search error blush produce alley enemy tortoise dinosaur attitude rice either";
+var mnemonic = "light roof depend trophy nephew world figure winter muscle spider pulse add";

@@ -1,1 +1,1 @@
-var mnemonic = "viable mountain select label yard home lobster muffin silk avocado cinnamon evolve";
+var mnemonic = "vast learn property devote science owner tenant movie earth laptop next club";

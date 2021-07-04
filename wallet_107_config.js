@@ -1,1 +1,1 @@
-var mnemonic = "rule list hamster that cream weasel episode breeze dirt aim powder fashion";
+var mnemonic = "cloth glimpse walk idea snow access insane raven govern grow zero test";

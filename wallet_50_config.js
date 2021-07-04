@@ -1,1 +1,1 @@
-var mnemonic = "pulse prison where victory upon lift rabbit night issue daughter file rocket";
+var mnemonic = "pony south swift frozen discover loan illegal raccoon crane citizen clap kick";

@@ -1,1 +1,1 @@
-var mnemonic = "spice awesome company suffer mimic apart dose ball kingdom hollow ability senior";
+var mnemonic = "scrap ramp junior tool wall stock minute recycle category remind holiday lunch";

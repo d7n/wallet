@@ -1,1 +1,1 @@
-var mnemonic = "solid nation knee peasant fall naive jazz spring dress salt speak nose";
+var mnemonic = "sting enrich daring electric still blossom matrix fashion lend dilemma call dance";

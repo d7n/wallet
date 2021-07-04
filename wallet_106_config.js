@@ -1,1 +1,1 @@
-var mnemonic = "lady umbrella try retire angle trial mail exercise dirt curious vault swarm";
+var mnemonic = "exact climb woman rally knife hen hip clerk above father lens expose";

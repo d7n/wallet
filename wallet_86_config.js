@@ -1,1 +1,1 @@
-var mnemonic = "verify correct lock blood ski rain story entire more useful maze witness";
+var mnemonic = "nose frost cake trend permit board neutral mimic quality inquiry retreat roast";

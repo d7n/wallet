@@ -1,1 +1,1 @@
-var mnemonic = "worry mosquito client zero wise soul demise exchange fit elephant radio exchange";
+var mnemonic = "easy awesome fitness magic token predict top noodle agent thank anxiety lemon";

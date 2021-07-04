@@ -1,1 +1,1 @@
-var mnemonic = "banana cook proof riot keep genuine feel similar age blush balcony ritual";
+var mnemonic = "walk such portion pupil jump mechanic sponsor chase hero ring profit loan";

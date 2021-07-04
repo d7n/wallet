@@ -1,1 +1,1 @@
-var mnemonic = "time push wave absorb secret snow know mansion people coast shy wave";
+var mnemonic = "gloom hero reflect umbrella rifle owner measure zone grunt bright method craft";

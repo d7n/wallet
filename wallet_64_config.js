@@ -1,1 +1,1 @@
-var mnemonic = "despair liquid slight shaft sugar frost century typical ocean sort old danger";
+var mnemonic = "tenant lazy street awake nose start require arena future sand chef execute";

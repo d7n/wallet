@@ -1,1 +1,1 @@
-var mnemonic = "curious assault average someone pudding enable ketchup flat salon zero throw enough";
+var mnemonic = "length novel alone maid smoke must kit embark volcano quarter panda tortoise";

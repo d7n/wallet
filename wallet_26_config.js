@@ -1,1 +1,1 @@
-var mnemonic = "network parade expose scout rack canyon act bracket truth lunar tell chalk";
+var mnemonic = "version rate method protect any crop over marble scissors best bleak wait";

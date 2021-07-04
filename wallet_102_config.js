@@ -1,1 +1,1 @@
-var mnemonic = "breeze bone guilt outside captain message wagon fade magnet vocal safe echo";
+var mnemonic = "pluck source lucky latin nest hill stove chat protect ring police feel";

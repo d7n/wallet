@@ -1,1 +1,1 @@
-var mnemonic = "drum aspect similar wagon catalog real endorse burst desert copy hurry angle";
+var mnemonic = "ride scrap fresh exclude festival room inch film legend minute nut head";

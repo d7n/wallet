@@ -1,1 +1,1 @@
-var mnemonic = "hub ketchup bean library test plug frozen usual aspect finger rain window";
+var mnemonic = "chat curve detail narrow gun scatter move small poet desert eight fluid";

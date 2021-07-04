@@ -1,1 +1,1 @@
-var mnemonic = "census need review remind fatigue enroll grab exotic canyon fancy supply heart";
+var mnemonic = "top knee range today turtle alien develop ketchup tragic until doctor foster";

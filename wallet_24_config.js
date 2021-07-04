@@ -1,1 +1,1 @@
-var mnemonic = "squeeze hill cheap potato cost fold clump blossom eagle veteran canoe first";
+var mnemonic = "swamp crack bread lion lift expand connect frown myself expire wage hockey";

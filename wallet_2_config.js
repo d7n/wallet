@@ -1,1 +1,1 @@
-var mnemonic = "angle hybrid roast walk clap frog property trumpet damage satoshi voice refuse";
+var mnemonic = "subway cargo snake feed turn knife dress glide advance right find help";

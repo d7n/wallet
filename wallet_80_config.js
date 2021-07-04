@@ -1,1 +1,1 @@
-var mnemonic = "security pill clip awesome surface stick service pen grow captain shoe purchase";
+var mnemonic = "pave between captain sudden parent satoshi cement option found dragon never future";

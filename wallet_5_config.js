@@ -1,1 +1,1 @@
-var mnemonic = "oval child surround mixed noodle review that acquire practice card rice inherit";
+var mnemonic = "photo make cattle antique cattle divert okay device save alley glimpse upper";

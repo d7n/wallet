@@ -1,1 +1,1 @@
-var mnemonic = "exact rival dream approve soon bone grass wrong expire sudden double farm";
+var mnemonic = "explain nothing noise smile sun frame wrap divert fuel rebel soon history";

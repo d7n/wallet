@@ -1,1 +1,1 @@
-var mnemonic = "ripple cloth claim glide action unhappy chimney kiwi mandate gloom small helmet";
+var mnemonic = "unique swear rebuild labor sun visa goat mountain slow shift satisfy empty";
