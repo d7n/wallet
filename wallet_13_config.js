@@ -1,1 +1,1 @@
-var mnemonic = "foster trust improve gravity phone mixed make pen three mention industry pool";
+var mnemonic = "foam behave sponsor treat nice act pill subject citizen beauty print scrub";

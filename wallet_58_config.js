@@ -1,1 +1,1 @@
-var mnemonic = "print powder theory system false weasel seek slim evidence comfort caution alley";
+var mnemonic = "tone hurdle bundle essay unaware that violin matter marriage afford kid duck";

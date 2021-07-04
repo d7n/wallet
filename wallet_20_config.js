@@ -1,1 +1,1 @@
-var mnemonic = "certain again arrest amazing shallow faith swim mango all ceiling hunt close";
+var mnemonic = "volcano robot rifle wear acid slice aim green daughter fan vivid way";

@@ -1,1 +1,1 @@
-var mnemonic = "sun marble endless impose hockey antique stick salute uphold thrive student train";
+var mnemonic = "what flee inside hospital link latin sort steel home rule afford lunar";

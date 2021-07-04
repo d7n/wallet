@@ -1,1 +1,1 @@
-var mnemonic = "disorder use coral social iron false friend pattern cry loud intact erase";
+var mnemonic = "online occur camp fly detect dutch gallery script better uncle grass reopen";

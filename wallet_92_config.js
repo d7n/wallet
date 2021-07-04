@@ -1,1 +1,1 @@
-var mnemonic = "breeze pink burger salute desert couple apart assist focus oyster cushion raccoon";
+var mnemonic = "indoor potato special hockey pig inject warm ostrich disease shift lonely firm";

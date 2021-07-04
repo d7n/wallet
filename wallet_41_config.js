@@ -1,1 +1,1 @@
-var mnemonic = "stock limit return blast tired area display remind choice suffer unlock proud";
+var mnemonic = "tiny guilt balcony popular acquire suspect rival remain fence garment absent artwork";

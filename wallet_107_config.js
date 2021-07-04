@@ -1,1 +1,1 @@
-var mnemonic = "coconut opera visa cliff wreck box bring vibrant hurry memory arrow zoo";
+var mnemonic = "twin combine symbol kangaroo loyal naive square actual yellow position pulp spray";

@@ -1,1 +1,1 @@
-var mnemonic = "kind roast borrow cradle plate edge fish erase olympic possible effort amazing";
+var mnemonic = "boss fuel skin increase miss humor unlock turtle pride close health match";

@@ -1,1 +1,1 @@
-var mnemonic = "idea crouch tide oblige lumber glimpse chat give volume cricket kidney tank";
+var mnemonic = "balance human smooth belt reunion album corn wage great duck cute unaware";

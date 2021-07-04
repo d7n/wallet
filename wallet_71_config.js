@@ -1,1 +1,1 @@
-var mnemonic = "hunt matrix stand guilt scare length welcome peasant enemy play gadget gun";
+var mnemonic = "innocent else goat mean tourist faith demise hidden wise mass tongue quick";

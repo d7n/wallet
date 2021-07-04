@@ -1,1 +1,1 @@
-var mnemonic = "frost such sound brand time shadow summer bonus enrich snap gold slam";
+var mnemonic = "upgrade outside curve must tenant armed source hill crew fan system athlete";

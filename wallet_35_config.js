@@ -1,1 +1,1 @@
-var mnemonic = "please cable mind chapter almost fix harvest room horn correct differ retreat";
+var mnemonic = "boil merit cabbage want fluid endless faint fade parent tumble doctor frog";

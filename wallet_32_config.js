@@ -1,1 +1,1 @@
-var mnemonic = "emerge have reunion angle ecology wild forum utility dress state present illness";
+var mnemonic = "stumble glove tuna gold bamboo oak ribbon sudden expose race leopard enforce";

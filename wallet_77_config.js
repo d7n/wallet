@@ -1,1 +1,1 @@
-var mnemonic = "dilemma room mixed summer brisk waste alert success tool robust hawk habit";
+var mnemonic = "rich brave switch love try night furnace engage off peace oak describe";

@@ -1,1 +1,1 @@
-var mnemonic = "floor marble just ocean sing slender type enable feature invite camp entire";
+var mnemonic = "alley seven truth broken frost decrease under identify turn drink jazz spend";

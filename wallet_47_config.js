@@ -1,1 +1,1 @@
-var mnemonic = "select business flight disagree parrot net club step response entire accident neck";
+var mnemonic = "bring priority husband bird crowd idea number reject hair fine pledge iron";

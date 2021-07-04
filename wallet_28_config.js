@@ -1,1 +1,1 @@
-var mnemonic = "dad isolate render crawl alley satoshi reopen render anger panda hair bread";
+var mnemonic = "knee couple car pitch situate shift year bracket injury above head tribe";

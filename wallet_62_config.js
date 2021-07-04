@@ -1,1 +1,1 @@
-var mnemonic = "leader raven hand nephew mechanic boss mystery maple area risk walk tiger";
+var mnemonic = "exile reform brown upper reduce divorce obtain castle want more pole busy";

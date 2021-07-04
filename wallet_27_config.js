@@ -1,1 +1,1 @@
-var mnemonic = "mention flip differ outer custom celery strategy metal river present dance neutral";
+var mnemonic = "dizzy odor resist inflict option enjoy drastic innocent champion improve blind index";

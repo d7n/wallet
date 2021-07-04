@@ -1,1 +1,1 @@
-var mnemonic = "truck cost penalty chunk tree car heart kingdom chat palace lamp antique";
+var mnemonic = "receive exotic banana settle scorpion cargo napkin spy cereal beauty argue absurd";

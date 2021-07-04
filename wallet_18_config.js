@@ -1,1 +1,1 @@
-var mnemonic = "hamster pony someone sibling odor category grunt monitor jelly slush cheap van";
+var mnemonic = "where gold pipe canal churn glare empower decrease lamp cause enhance eye";

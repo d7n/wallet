@@ -1,1 +1,1 @@
-var mnemonic = "toast pencil decide budget throw random prize kangaroo cereal ticket rifle meadow";
+var mnemonic = "use credit lunch review awake oven detail dumb online neutral digital pumpkin";

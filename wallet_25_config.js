@@ -1,1 +1,1 @@
-var mnemonic = "soap goose youth custom light juice meat next type august used repair";
+var mnemonic = "wire skirt thrive salon tiger ship talk delay vintage popular vacant process";

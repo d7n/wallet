@@ -1,1 +1,1 @@
-var mnemonic = "vacant flat sea start execute flame theory brown walnut napkin sauce ability";
+var mnemonic = "modify broom deliver silly tragic until nuclear elder adult initial million acoustic";

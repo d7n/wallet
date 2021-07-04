@@ -1,1 +1,1 @@
-var mnemonic = "hope limit bronze warrior load treat blouse into rely stomach weasel world";
+var mnemonic = "deliver office east sustain truck course goose other divide gun crystal lunch";

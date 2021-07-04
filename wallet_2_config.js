@@ -1,1 +1,1 @@
-var mnemonic = "picnic slab pink join budget fantasy way track fall pause shallow burden";
+var mnemonic = "certain weapon woman render avocado predict muscle end peanut worry scrub jelly";

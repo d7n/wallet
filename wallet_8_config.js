@@ -1,1 +1,1 @@
-var mnemonic = "emotion guard brown merry cage neutral error trip whip next label atom";
+var mnemonic = "pretty latin police simple effort vocal banner sell idle special smoke wreck";

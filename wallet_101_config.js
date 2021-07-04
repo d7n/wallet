@@ -1,1 +1,1 @@
-var mnemonic = "final retreat endless south matter above rotate fringe edge month inhale camera";
+var mnemonic = "depart soda warfare nuclear body flee glue upset exit love vocal change";

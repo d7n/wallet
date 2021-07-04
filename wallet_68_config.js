@@ -1,1 +1,1 @@
-var mnemonic = "response type series runway sand inch border silly level fever object wrestle";
+var mnemonic = "merry solar original artwork alcohol pulse become oblige slow fury tell amount";

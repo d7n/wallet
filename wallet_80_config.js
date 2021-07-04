@@ -1,1 +1,1 @@
-var mnemonic = "that banana reopen object motion margin frost riot own diamond awkward neutral";
+var mnemonic = "hand young warrior cry tree tower auction enemy inquiry jungle oyster negative";

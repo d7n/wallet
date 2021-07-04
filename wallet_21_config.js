@@ -1,1 +1,1 @@
-var mnemonic = "vault summer title embrace pony guilt monster birth glass butter oven vicious";
+var mnemonic = "desk prepare sibling sick birth keen author upset fancy turn anchor gauge";

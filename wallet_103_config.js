@@ -1,1 +1,1 @@
-var mnemonic = "execute beyond fresh smoke spot biology beef congress ask charge short seed";
+var mnemonic = "dutch post good glad network mail plastic pattern harsh number crumble cabin";

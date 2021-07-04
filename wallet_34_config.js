@@ -1,1 +1,1 @@
-var mnemonic = "custom leg salute identify trust fetch pulse rather seed coyote delay protect";
+var mnemonic = "piece celery trap umbrella asset depend orbit tuition nasty token uncover you";

@@ -1,1 +1,1 @@
-var mnemonic = "brain siege until until whale language achieve rebuild mixture roof genius poem";
+var mnemonic = "sight van sunny bus raise knife awful group gift tuna aisle tattoo";

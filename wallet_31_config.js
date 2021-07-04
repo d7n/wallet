@@ -1,1 +1,1 @@
-var mnemonic = "dune daring payment today vast embrace metal number gather strike beyond diary";
+var mnemonic = "vicious smart cream hair valid high liar fold because simple satisfy plug";

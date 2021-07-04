@@ -1,1 +1,1 @@
-var mnemonic = "option phrase enhance gallery man there word bottom abuse digital face grunt";
+var mnemonic = "curious devote index divorce sight live announce parent alien toilet stumble liquid";

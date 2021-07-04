@@ -1,1 +1,1 @@
-var mnemonic = "typical pool wealth orient sauce salad diet typical illness van salmon odor";
+var mnemonic = "under load filter climb salmon flock whale wait burger define wait post";

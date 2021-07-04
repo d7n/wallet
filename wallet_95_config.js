@@ -1,1 +1,1 @@
-var mnemonic = "glow power wool stem syrup bulb nature ghost brisk choice earth inhale";
+var mnemonic = "bike fantasy brother april dash state regular follow faculty vendor cigar stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "relax hip price drastic hungry earn embark upgrade slogan typical plate inflict";
+var mnemonic = "time distance strong material limit dolphin escape phrase march auto globe already";

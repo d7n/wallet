@@ -1,1 +1,1 @@
-var mnemonic = "crew meat fall assault portion audit vault ensure crew fruit easily limit";
+var mnemonic = "chalk scissors merry zoo pluck suit weather define split penalty wide crime";

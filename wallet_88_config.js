@@ -1,1 +1,1 @@
-var mnemonic = "guard warrior party draw false access wrist funny thing case easily guard";
+var mnemonic = "unhappy crane practice hill soon own drive speed cable wave cause smooth";

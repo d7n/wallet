@@ -1,1 +1,1 @@
-var mnemonic = "earth critic dry idea earth notice cannon cry impulse noise clarify display";
+var mnemonic = "arm arctic august knee lady arctic skill march random family ozone robot";

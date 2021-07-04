@@ -1,1 +1,1 @@
-var mnemonic = "extend black whale bracket because afford author panel squirrel sausage casual super";
+var mnemonic = "holiday cancel afford stamp honey vicious diary story flavor actress cargo visual";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist alcohol use future danger patient glide rice father recall pizza tube";
+var mnemonic = "best typical pause describe eye join lumber scheme parrot another measure rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "trap topple assault badge charge easily bronze market offer smoke topic wage";
+var mnemonic = "bubble foil gaze train want fix leisure deputy record skate sausage junior";

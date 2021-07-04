@@ -1,1 +1,1 @@
-var mnemonic = "clutch sure glass engage rival outdoor moral toast hint sound razor cat";
+var mnemonic = "panic spoon furnace window rifle answer peanut gallery scrub undo latin hole";

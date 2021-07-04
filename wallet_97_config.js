@@ -1,1 +1,1 @@
-var mnemonic = "source voyage mammal mirror ginger flip parade lawsuit price lunch same spatial";
+var mnemonic = "certain farm narrow warrior guard zero keen dutch know aim total there";

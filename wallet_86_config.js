@@ -1,1 +1,1 @@
-var mnemonic = "oppose end trigger index fox amateur thought whale rice upgrade police coconut";
+var mnemonic = "produce salmon budget vintage road boil then mad address wine rather right";

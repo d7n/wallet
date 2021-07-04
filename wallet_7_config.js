@@ -1,1 +1,1 @@
-var mnemonic = "certain cube payment resource layer shaft once film crew dune perfect window";
+var mnemonic = "remain swift jump practice drop gauge need unit train suit wrong giant";

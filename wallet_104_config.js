@@ -1,1 +1,1 @@
-var mnemonic = "crater sustain salt critic method harvest spatial slender sick fame digital kangaroo";
+var mnemonic = "point rabbit mean endorse beach bottom place first supply hold surge unfold";

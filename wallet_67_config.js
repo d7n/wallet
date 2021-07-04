@@ -1,1 +1,1 @@
-var mnemonic = "please pluck assist earn control ginger move vendor kick brave broccoli myself";
+var mnemonic = "way agent loud leopard enforce mosquito tank soul swamp space escape foster";

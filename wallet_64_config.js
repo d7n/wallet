@@ -1,1 +1,1 @@
-var mnemonic = "hand uncle regret clog oblige excess ramp grow urban impulse unit brass";
+var mnemonic = "feature nature sun dumb trophy body list debris slice bullet convince obscure";

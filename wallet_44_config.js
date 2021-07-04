@@ -1,1 +1,1 @@
-var mnemonic = "nominee sign nest snow gown topic prepare since ocean enter area weapon";
+var mnemonic = "height any involve mystery trial ancient polar science example picture fog rack";

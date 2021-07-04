@@ -1,1 +1,1 @@
-var mnemonic = "trend february icon refuse teach taxi fatigue expire festival bulb process oak";
+var mnemonic = "move submit happy wash power usual office vote expire object demand guide";

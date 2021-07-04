@@ -1,1 +1,1 @@
-var mnemonic = "table office million reflect casual tenant illness ski shine solid all reflect";
+var mnemonic = "deal artist olympic click unfair brother praise artefact box employ door exile";

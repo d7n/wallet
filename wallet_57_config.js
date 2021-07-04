@@ -1,1 +1,1 @@
-var mnemonic = "gospel size kingdom forest inherit heart degree logic need regular moment unaware";
+var mnemonic = "invest soccer engage tag spice file long dune popular demand naive control";

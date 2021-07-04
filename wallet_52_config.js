@@ -1,1 +1,1 @@
-var mnemonic = "grunt strategy enlist comic armed matter modify cross future brass funny switch";
+var mnemonic = "turtle debris top enact inner citizen silver enhance team february shrug festival";

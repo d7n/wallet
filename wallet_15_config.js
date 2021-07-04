@@ -1,1 +1,1 @@
-var mnemonic = "sick food ill custom cheese couple spend report heart win tiger over";
+var mnemonic = "drift subject fat demise bulb setup tool ceiling broccoli airport trip earn";

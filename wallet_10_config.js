@@ -1,1 +1,1 @@
-var mnemonic = "own below utility detail reject license panel flight swear avoid ice satisfy";
+var mnemonic = "rhythm item stem clump model toss warm upset garlic rally border coin";

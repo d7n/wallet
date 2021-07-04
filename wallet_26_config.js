@@ -1,1 +1,1 @@
-var mnemonic = "talent various cattle major true junior visa torch can awful another card";
+var mnemonic = "goose defense square acquire update someone kangaroo scissors exchange erase pudding height";

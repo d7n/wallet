@@ -1,1 +1,1 @@
-var mnemonic = "quiz since decrease fringe execute again jewel decline crystal lumber cabbage false";
+var mnemonic = "tool dolphin bind blouse search life mosquito spice alert romance light permit";

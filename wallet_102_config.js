@@ -1,1 +1,1 @@
-var mnemonic = "hundred edit local host october sudden harsh guard only season caught love";
+var mnemonic = "state quick memory capable crystal gas glad festival label lawsuit vanish retire";

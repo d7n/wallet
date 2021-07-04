@@ -1,1 +1,1 @@
-var mnemonic = "husband write deny change result surprise planet bachelor secret element palace giant";
+var mnemonic = "horse derive sting leave behind enough pudding busy merit price razor dumb";

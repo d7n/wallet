@@ -1,1 +1,1 @@
-var mnemonic = "often advance captain edit silent matrix distance host memory motion tired web";
+var mnemonic = "squeeze million drink mansion team sport flip retire term try planet twin";

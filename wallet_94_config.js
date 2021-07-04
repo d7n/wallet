@@ -1,1 +1,1 @@
-var mnemonic = "siege hello turkey useless scatter area wink virus play fatal trust saddle";
+var mnemonic = "allow kidney emotion fabric stand brother stay scatter voice company begin drift";

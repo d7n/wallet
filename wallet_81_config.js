@@ -1,1 +1,1 @@
-var mnemonic = "taxi style capable antique grid dove mushroom profit prison tomato they physical";
+var mnemonic = "cousin ghost bounce beyond drill display motor obey few seed build give";

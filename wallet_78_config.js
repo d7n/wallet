@@ -1,1 +1,1 @@
-var mnemonic = "tunnel space escape purpose okay swift include tower carbon canal guess lemon";
+var mnemonic = "glimpse tortoise fee call tuition ugly list must gather toss primary curtain";

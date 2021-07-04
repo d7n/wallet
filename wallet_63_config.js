@@ -1,1 +1,1 @@
-var mnemonic = "tag when often coyote dose pipe slush mass panel scheme pledge latin";
+var mnemonic = "segment ugly arctic march change trend atom grocery museum unhappy box typical";

@@ -1,1 +1,1 @@
-var mnemonic = "slice announce stand rescue hope baby radio river secret island quiz express";
+var mnemonic = "vital equip grain dice topic garden conduct rice pride match avocado will";

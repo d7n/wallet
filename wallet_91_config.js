@@ -1,1 +1,1 @@
-var mnemonic = "antenna law entry patch crack water shock argue surround review entry sound";
+var mnemonic = "upset nasty thumb oxygen label need engage worth rail same rude when";

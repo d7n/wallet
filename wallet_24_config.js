@@ -1,1 +1,1 @@
-var mnemonic = "rail unfair common cinnamon frozen vital idle dish old sail glow stem";
+var mnemonic = "boil abuse version obey forum taste outdoor meadow chalk before spot lava";

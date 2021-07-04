@@ -1,1 +1,1 @@
-var mnemonic = "network cradle very review stool clown assume option sister elbow chalk ankle";
+var mnemonic = "alcohol journey raven renew couch fog prefer leaf uniform fatigue can fall";

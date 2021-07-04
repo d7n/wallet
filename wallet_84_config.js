@@ -1,1 +1,1 @@
-var mnemonic = "crisp local gold solar tail gauge lend knee nasty title join master";
+var mnemonic = "tiny laundry army dial major whale elite lawn unknown thunder donkey transfer";

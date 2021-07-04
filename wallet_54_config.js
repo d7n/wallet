@@ -1,1 +1,1 @@
-var mnemonic = "scare chronic shiver cricket cinnamon giggle flight parrot amazing clay police hunt";
+var mnemonic = "frozen height axis series envelope response fashion key else betray pen air";

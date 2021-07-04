@@ -1,1 +1,1 @@
-var mnemonic = "message erode lucky barrel drink board valve drill pulse fancy stock amateur";
+var mnemonic = "matrix kit midnight submit vital protect post sample moment soul night defense";

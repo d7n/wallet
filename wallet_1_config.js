@@ -1,1 +1,1 @@
-var mnemonic = "element suit caught nose solar vanish parent gift involve process various duty";
+var mnemonic = "jealous guilt bonus giant autumn phrase feature liquid prize will race exit";

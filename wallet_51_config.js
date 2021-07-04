@@ -1,1 +1,1 @@
-var mnemonic = "tuition escape provide blood fluid hole candy whale charge path viable emerge";
+var mnemonic = "lady legal arm inch boat erase shell across hungry top beauty flee";

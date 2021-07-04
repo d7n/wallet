@@ -1,1 +1,1 @@
-var mnemonic = "material chimney exile help casino clock wave ride undo bounce rhythm sample";
+var mnemonic = "crowd enroll acquire vintage gift blossom empty melody gravity call gas tired";

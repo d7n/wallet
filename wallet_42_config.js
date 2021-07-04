@@ -1,1 +1,1 @@
-var mnemonic = "scissors fabric spell planet mother recipe crash boss spider weapon bike code";
+var mnemonic = "key jacket coffee moral party strong orchard erase crucial dizzy grass dash";

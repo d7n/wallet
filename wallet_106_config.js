@@ -1,1 +1,1 @@
-var mnemonic = "diagram firm cement farm patient exchange industry refuse armor across balance priority";
+var mnemonic = "negative quality tilt will palace frost fall chat luggage same struggle walnut";

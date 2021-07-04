@@ -1,1 +1,1 @@
-var mnemonic = "wild wrist upgrade trust entry rack panther siren until talk effort rough";
+var mnemonic = "swallow camp select term rain curious wealth wine obtain cool news elegant";

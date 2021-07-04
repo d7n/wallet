@@ -1,1 +1,1 @@
-var mnemonic = "tunnel vendor era stool settle case render vehicle cart dog rather kiwi";
+var mnemonic = "sun cherry company asthma law retreat couch brass agree canyon orbit confirm";

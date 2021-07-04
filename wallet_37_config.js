@@ -1,1 +1,1 @@
-var mnemonic = "upon mountain culture tourist effort vibrant false pig report occur easy return";
+var mnemonic = "rabbit tongue include few saddle inform write taxi fury oak frozen enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "owner spoon vivid when park subway twist jaguar pole marble taste anchor";
+var mnemonic = "add sting hotel near adult west math fringe type grid rural candy";

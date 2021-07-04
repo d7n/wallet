@@ -1,1 +1,1 @@
-var mnemonic = "expire artefact yellow kidney promote retire economy pause will drama civil account";
+var mnemonic = "shiver fan dash sea icon essay never easy clay insane gun boss";

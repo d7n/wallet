@@ -1,1 +1,1 @@
-var mnemonic = "heavy panel payment normal earn doctor swim net mammal become surface pizza";
+var mnemonic = "bind include busy dial warm rifle olive dad crack animal deer machine";

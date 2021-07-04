@@ -1,1 +1,1 @@
-var mnemonic = "method teach drum hello rescue settle panda rack father music prosper term";
+var mnemonic = "couple dove rather bike scout assume museum jeans glow glove below slight";

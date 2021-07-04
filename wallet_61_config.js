@@ -1,1 +1,1 @@
-var mnemonic = "pyramid miss session shove fringe column wrong vote together govern chunk reopen";
+var mnemonic = "faculty switch canvas appear guide depart fire tomato feel old cake mystery";

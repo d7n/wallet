@@ -1,1 +1,1 @@
-var mnemonic = "dolphin one cliff essay salmon ritual celery output hood mix fly metal";
+var mnemonic = "rapid mention unfold cry pipe toe cute cream cheap evoke fox subway";

@@ -1,1 +1,1 @@
-var mnemonic = "file key skirt gather valve humor dragon penalty stool federal model enemy";
+var mnemonic = "verb amused brother auto comfort urge shoe crater logic vacuum prevent any";

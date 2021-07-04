@@ -1,1 +1,1 @@
-var mnemonic = "hidden miracle wolf tomorrow humble milk sunset sting change fish spatial exit";
+var mnemonic = "whale sport indoor sand travel honey idle mystery limit deposit neck scheme";

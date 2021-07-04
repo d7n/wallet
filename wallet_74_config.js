@@ -1,1 +1,1 @@
-var mnemonic = "profit talk news blood find verify canoe salon stairs blast fringe mean";
+var mnemonic = "ball world outdoor wait field team congress dumb surge delay cat always";

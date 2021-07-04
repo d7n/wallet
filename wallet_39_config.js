@@ -1,1 +1,1 @@
-var mnemonic = "zone tell client crazy level grunt orange avocado cheap fan mom reunion";
+var mnemonic = "defy cabin delay onion action vote urge volume because snack horn tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry trumpet radio sibling please hotel voice then change acquire invite will";
+var mnemonic = "olympic corn phone negative stuff defy diamond original symbol skate length normal";

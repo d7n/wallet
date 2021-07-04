@@ -1,1 +1,1 @@
-var mnemonic = "primary exhaust ceiling depend acquire major jewel talk act thunder involve witness";
+var mnemonic = "zone fuel brass love blouse reduce history gaze write fiction rent blur";

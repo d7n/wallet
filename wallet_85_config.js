@@ -1,1 +1,1 @@
-var mnemonic = "marriage cream whale buyer banner taste liquid thank patrol idea evidence actress";
+var mnemonic = "win bubble original machine sorry bid meat diamond elegant train soft limit";

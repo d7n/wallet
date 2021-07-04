@@ -1,1 +1,1 @@
-var mnemonic = "immense police moment fix daughter napkin only display memory regret razor off";
+var mnemonic = "accuse subway promote casual stereo click pretty rug insect swift venue duck";
