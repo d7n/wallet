@@ -1,1 +1,1 @@
-var mnemonic = "village return faith change crystal pulse reason define chimney notable gentle book";
+var mnemonic = "hurry typical shed gloom embark venture fortune refuse video horror caution render";

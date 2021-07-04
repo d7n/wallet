@@ -1,1 +1,1 @@
-var mnemonic = "genius tennis extend alter mention way pistol task august song palm come";
+var mnemonic = "music female charge pet village huge fish joy cube purpose volcano credit";

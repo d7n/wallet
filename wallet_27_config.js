@@ -1,1 +1,1 @@
-var mnemonic = "pass giggle robot elder cigar flip begin circle destroy true green initial";
+var mnemonic = "spy walnut skill input piece avoid answer pair diagram hawk dilemma pumpkin";

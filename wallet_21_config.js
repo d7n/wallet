@@ -1,1 +1,1 @@
-var mnemonic = "smile again hidden gasp trash verify small impulse dutch rice used switch";
+var mnemonic = "only bar frozen emerge treat suit change peanut real day adult rib";

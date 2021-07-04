@@ -1,1 +1,1 @@
-var mnemonic = "enemy family make polar panther burger correct sudden match wheat any youth";
+var mnemonic = "rather fossil wagon camera quit shift lounge camp blood paddle swarm forum";

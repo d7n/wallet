@@ -1,1 +1,1 @@
-var mnemonic = "giant design fold camera chuckle screen cause wide nuclear beach donkey trap";
+var mnemonic = "accuse tank poet tobacco innocent mother attack ordinary erode blame stool average";

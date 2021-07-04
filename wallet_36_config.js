@@ -1,1 +1,1 @@
-var mnemonic = "tide chapter ranch coach write carpet abstract blanket similar over oppose goat";
+var mnemonic = "arm cry cage tonight wood spoon flame fish dawn marriage cream hair";

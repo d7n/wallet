@@ -1,1 +1,1 @@
-var mnemonic = "arrow exchange inject erupt column ten degree program loud betray olympic clay";
+var mnemonic = "kind time gift believe piano sword holiday track steak stone strong lamp";

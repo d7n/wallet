@@ -1,1 +1,1 @@
-var mnemonic = "police insane away rapid timber over acquire subject crunch repeat bracket old";
+var mnemonic = "canal wrap jaguar bounce depart frequent manage hurdle web endorse foster session";

@@ -1,1 +1,1 @@
-var mnemonic = "display mansion battle pill boss midnight grain visual half review earn unaware";
+var mnemonic = "secret coin toilet tourist cargo logic prize swim habit bus present romance";

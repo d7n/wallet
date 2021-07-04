@@ -1,1 +1,1 @@
-var mnemonic = "arctic infant tomato enemy cup guitar sauce favorite outside dress urge sadness";
+var mnemonic = "often damage cattle injury abuse borrow buddy force print object dismiss toddler";

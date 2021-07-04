@@ -1,1 +1,1 @@
-var mnemonic = "endless give bless video tiny ball general random diagram slow length maximum";
+var mnemonic = "vapor wolf burger dutch drama group width require puzzle wage useful address";

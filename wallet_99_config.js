@@ -1,1 +1,1 @@
-var mnemonic = "palm nephew layer recall victory stadium thought length alter license frequent already";
+var mnemonic = "genius disorder inner fly annual twelve evolve call cradle silver awkward deal";

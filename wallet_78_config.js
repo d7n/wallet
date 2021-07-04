@@ -1,1 +1,1 @@
-var mnemonic = "wood false shift crew valve receive avocado cement mammal oblige half multiply";
+var mnemonic = "trick verify estate theme cash verify eager theme home energy sudden wrap";

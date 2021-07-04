@@ -1,1 +1,1 @@
-var mnemonic = "release equal title cradle labor holiday actress illness dragon burger kick conduct";
+var mnemonic = "reason stairs meadow draft prison parent wish sheriff crouch neck orchard cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "nature popular violin trick again palm into cruel tag accident meat give";
+var mnemonic = "diary doll whisper aunt talent suit rude wool hair maid gather park";

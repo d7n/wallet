@@ -1,1 +1,1 @@
-var mnemonic = "sport protect save intact bullet review puzzle fit security unfair merit aerobic";
+var mnemonic = "kiwi wood round daring annual holiday energy polar fame female skin beauty";

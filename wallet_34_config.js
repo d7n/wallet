@@ -1,1 +1,1 @@
-var mnemonic = "blue spatial manage attend truly unhappy couple require hand consider treat rotate";
+var mnemonic = "donate chicken alert bonus brief spray toss tuna tomorrow useless suffer assist";

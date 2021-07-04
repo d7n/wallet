@@ -1,1 +1,1 @@
-var mnemonic = "pass talent solution maze pond voyage impact family permit emerge pulse vast";
+var mnemonic = "multiply airport cement nasty umbrella crop inhale sure social harvest gauge such";

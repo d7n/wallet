@@ -1,1 +1,1 @@
-var mnemonic = "drink square today weasel sick voice unaware mouse brief argue unusual glass";
+var mnemonic = "gap wing method fatal object stock fox carbon venture thought come shove";

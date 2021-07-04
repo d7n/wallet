@@ -1,1 +1,1 @@
-var mnemonic = "warm require icon save excite icon spy essence game cruise prevent interest";
+var mnemonic = "divide waste much fantasy wheel confirm toss silk half spare style cloth";

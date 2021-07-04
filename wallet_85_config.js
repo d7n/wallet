@@ -1,1 +1,1 @@
-var mnemonic = "wrist peace they salmon split vivid lend wash area pyramid end humble";
+var mnemonic = "soap document about target faith sustain canoe jelly castle absorb mountain whip";

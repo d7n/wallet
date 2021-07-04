@@ -1,1 +1,1 @@
-var mnemonic = "blind crack spring man farm awesome rate obvious coil phone lake athlete";
+var mnemonic = "suggest gain voyage soft frequent toast utility witness elevator gadget soup segment";

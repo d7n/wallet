@@ -1,1 +1,1 @@
-var mnemonic = "drum ivory fame finger spot future dash share license crowd awful spare";
+var mnemonic = "menu local large put sing moral glide liquid fiction spin law eager";

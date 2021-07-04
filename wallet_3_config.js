@@ -1,1 +1,1 @@
-var mnemonic = "hollow moon light segment away lock under property broom color price junk";
+var mnemonic = "wild idea repair will spread decrease enemy found often replace guard food";

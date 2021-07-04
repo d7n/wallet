@@ -1,1 +1,1 @@
-var mnemonic = "original used patient violin hybrid air weird option atom soft slogan spawn";
+var mnemonic = "friend ethics crazy often team chef attend thing nurse someone venture picture";

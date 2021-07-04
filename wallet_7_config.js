@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow joy rally salad repeat shield that lunar jealous wonder humble guess";
+var mnemonic = "capable short category engage tag soon vehicle air choice escape infant uphold";

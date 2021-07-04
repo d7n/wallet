@@ -1,1 +1,1 @@
-var mnemonic = "bag emerge post owner company design duty acoustic spot swarm relax where";
+var mnemonic = "gospel develop walk yellow deny chief bamboo dynamic tail citizen vibrant pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "celery razor balance copy basket general taste carpet few fresh bind mirror";
+var mnemonic = "canyon sad poverty release onion eager maple trigger accident obey ocean panel";

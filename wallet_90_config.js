@@ -1,1 +1,1 @@
-var mnemonic = "walk setup bicycle check spatial dash circle nuclear safe decorate nothing ribbon";
+var mnemonic = "sadness push tower rice athlete train essence bean duck tower romance metal";

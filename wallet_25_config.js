@@ -1,1 +1,1 @@
-var mnemonic = "purchase lamp cattle logic away journey provide lake crater gaze agent moon";
+var mnemonic = "fitness enroll sea method cannon jungle banner market vanish hidden juice still";

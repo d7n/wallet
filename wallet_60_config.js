@@ -1,1 +1,1 @@
-var mnemonic = "blouse globe renew burger tent alarm sand roof shift bar virtual rally";
+var mnemonic = "orchard visa action sudden current iron fashion kitten cloth bridge vivid long";

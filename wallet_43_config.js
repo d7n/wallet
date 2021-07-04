@@ -1,1 +1,1 @@
-var mnemonic = "reopen before fiscal stone wisdom solution poverty crew twist arrange kiwi ostrich";
+var mnemonic = "toward receive replace lottery adjust tiger dish lizard police cloud ethics sport";

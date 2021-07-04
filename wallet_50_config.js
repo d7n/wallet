@@ -1,1 +1,1 @@
-var mnemonic = "leg purpose legal raccoon oval hint face collect local trim medal surround";
+var mnemonic = "fog furnace mechanic whisper kingdom case income hungry idea gather accident include";

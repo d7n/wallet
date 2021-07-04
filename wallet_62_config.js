@@ -1,1 +1,1 @@
-var mnemonic = "topic tired zoo miss cement achieve bulk expand cute humble veteran indoor";
+var mnemonic = "outdoor ancient crater canoe firm abuse pause object elegant exile army garlic";

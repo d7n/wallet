@@ -1,1 +1,1 @@
-var mnemonic = "warfare comfort dish craft mobile immune airport amazing address order miss fun";
+var mnemonic = "nice ginger shove illegal lift hair film true enlist salt evidence army";

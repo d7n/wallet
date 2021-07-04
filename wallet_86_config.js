@@ -1,1 +1,1 @@
-var mnemonic = "device matter iron blush empty school unfold issue merry artwork paper plunge";
+var mnemonic = "sand balance raise body maple object sustain give mountain genre author reform";

@@ -1,1 +1,1 @@
-var mnemonic = "normal extend unit tent boat question maze thrive waste buddy adult time";
+var mnemonic = "come venture setup slab toddler still lend hospital shift clerk affair meadow";

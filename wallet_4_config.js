@@ -1,1 +1,1 @@
-var mnemonic = "reduce moon easy paddle object candy reject tackle any approve enlist whisper";
+var mnemonic = "wing mechanic pledge have toy prison furnace fury appear motion piano impact";

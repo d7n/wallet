@@ -1,1 +1,1 @@
-var mnemonic = "tongue fog fatal track fun recycle moment stone anchor cart bulk maple";
+var mnemonic = "horse useful antique proud real leg boring supreme find safe gravity misery";

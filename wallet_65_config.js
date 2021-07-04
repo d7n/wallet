@@ -1,1 +1,1 @@
-var mnemonic = "grape earn what degree demise alert refuse extend forget pulse print exclude";
+var mnemonic = "sadness network drill attend clip horn canyon isolate blood army any photo";

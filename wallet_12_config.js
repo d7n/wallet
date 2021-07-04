@@ -1,1 +1,1 @@
-var mnemonic = "mail clip help strike acoustic endless soldier candy laugh admit know betray";
+var mnemonic = "stairs type fish festival inch give impose task cost next room robot";

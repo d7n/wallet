@@ -1,1 +1,1 @@
-var mnemonic = "beauty tooth board cost any pass mechanic pioneer hole plate great crew";
+var mnemonic = "keep jump message hire mention language fun sound turn slight seek danger";

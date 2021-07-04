@@ -1,1 +1,1 @@
-var mnemonic = "endless weird medal involve pioneer filter swear nose ability gun pluck ugly";
+var mnemonic = "obvious input medal sponsor october gift globe sail horse category start wheat";

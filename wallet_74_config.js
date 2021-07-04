@@ -1,1 +1,1 @@
-var mnemonic = "convince great mosquito thought garlic diesel town recall math today mule improve";
+var mnemonic = "cart swear trap marriage assist ankle mixture success acoustic senior athlete glow";

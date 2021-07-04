@@ -1,1 +1,1 @@
-var mnemonic = "pet bracket finish lazy matter oyster ice become ugly elder patient omit";
+var mnemonic = "shoot pencil dose pond either asthma judge genuine lock deputy wealth crawl";

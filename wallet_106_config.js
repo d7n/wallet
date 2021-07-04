@@ -1,1 +1,1 @@
-var mnemonic = "cram punch tennis gown violin galaxy side guilt demise rib car summer";
+var mnemonic = "quote bacon pill bridge notable few busy fuel shine skill tape tourist";

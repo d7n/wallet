@@ -1,1 +1,1 @@
-var mnemonic = "drift result else obtain ensure know educate bunker exclude virtual title regular";
+var mnemonic = "stick lizard shallow lunar boring upset dawn toy tip sponsor net dream";

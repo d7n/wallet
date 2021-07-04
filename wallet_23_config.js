@@ -1,1 +1,1 @@
-var mnemonic = "juice fine primary cost idea travel wool they cloud sleep boring dilemma";
+var mnemonic = "brass simple stamp among reason poverty carry armor shop bachelor decade again";

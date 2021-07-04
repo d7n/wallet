@@ -1,1 +1,1 @@
-var mnemonic = "punch exotic receive lizard believe snap once rookie path suspect ranch fit";
+var mnemonic = "border skin stock good online purity still resist they hybrid price other";

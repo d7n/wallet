@@ -1,1 +1,1 @@
-var mnemonic = "army tell chef omit game remember update entry tape cave body mechanic";
+var mnemonic = "once elder tragic clay crawl width little drum police social ability twice";

@@ -1,1 +1,1 @@
-var mnemonic = "royal father hint bracket crucial ketchup silly cliff cost chunk yellow analyst";
+var mnemonic = "impose boost balcony insect beyond music steel room permit quiz walnut diesel";

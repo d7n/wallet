@@ -1,1 +1,1 @@
-var mnemonic = "brain together across exclude fiber explain elder smile useless parrot scissors spirit";
+var mnemonic = "cement call tube hard treat hill device that tissue when awkward forget";

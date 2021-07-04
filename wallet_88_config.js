@@ -1,1 +1,1 @@
-var mnemonic = "frequent silk whale mountain famous alarm slice fan city cram asset manage";
+var mnemonic = "right sense double tongue green truth taxi gravity humble peasant method decide";

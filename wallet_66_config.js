@@ -1,1 +1,1 @@
-var mnemonic = "test human video forest hero motor section liquid float february detect call";
+var mnemonic = "target distance alcohol chuckle woman boring machine beef oxygen nominee spider test";

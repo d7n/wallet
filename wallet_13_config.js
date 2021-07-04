@@ -1,1 +1,1 @@
-var mnemonic = "toy rice song strategy jacket clever bronze hair surge write cloud side";
+var mnemonic = "first side trophy clerk awake spread erupt body feel genius young actor";

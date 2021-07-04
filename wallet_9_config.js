@@ -1,1 +1,1 @@
-var mnemonic = "shop genre crowd smile science section noodle various hurdle message scare ranch";
+var mnemonic = "lock endless fatal lesson town where april cloud canvas army oblige rally";

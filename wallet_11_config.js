@@ -1,1 +1,1 @@
-var mnemonic = "glove dial gauge dwarf jazz differ foam simple again hedgehog glance gadget";
+var mnemonic = "dirt wish rigid board humor decide cherry wage mammal notable brass judge";

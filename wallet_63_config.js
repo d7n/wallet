@@ -1,1 +1,1 @@
-var mnemonic = "thank coral day viable soap chronic tobacco jewel nerve nature brave sustain";
+var mnemonic = "bitter scan damage layer silent demand desk coconut tornado robust medal come";

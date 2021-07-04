@@ -1,1 +1,1 @@
-var mnemonic = "farm hedgehog used turn gold intact furnace tree bleak remind file power";
+var mnemonic = "accident mammal ribbon happy virtual blossom actor harvest pair eye jeans piece";

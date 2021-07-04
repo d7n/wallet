@@ -1,1 +1,1 @@
-var mnemonic = "hand ivory swing kiwi plastic crew exact nasty panic flame people emerge";
+var mnemonic = "enough roof snow concert organ diet entry play pool tongue position stand";

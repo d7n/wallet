@@ -1,1 +1,1 @@
-var mnemonic = "midnight minimum degree damage excess phrase gauge pair grocery busy ivory coffee";
+var mnemonic = "occur identify thought assault motion crisp canal kangaroo kite lend celery engine";

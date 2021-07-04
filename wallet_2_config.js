@@ -1,1 +1,1 @@
-var mnemonic = "glide public buyer maximum banner dust beauty vault advice flash lock sail";
+var mnemonic = "lecture mix excess balcony skill wide police economy alien two elegant differ";

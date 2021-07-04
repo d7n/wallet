@@ -1,1 +1,1 @@
-var mnemonic = "include smooth forget holiday top physical manual smooth junk spread near shell";
+var mnemonic = "clap gift talent wide skate pledge pact crop mistake struggle guilt rich";

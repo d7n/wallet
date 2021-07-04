@@ -1,1 +1,1 @@
-var mnemonic = "sunset blush rude honey door figure cube final furnace luggage reunion depart";
+var mnemonic = "liberty field spawn bleak sell glove rain magnet mobile shop luxury prefer";

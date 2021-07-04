@@ -1,1 +1,1 @@
-var mnemonic = "divert slice dose airport budget domain flavor fox immense fatal patrol faith";
+var mnemonic = "inner company edit giggle weapon title enhance project exchange twist face morning";

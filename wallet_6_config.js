@@ -1,1 +1,1 @@
-var mnemonic = "depend olive maximum differ truly dizzy scheme rebel menu old weather banner";
+var mnemonic = "rhythm disagree royal chunk screen uniform cupboard crop ride dolphin violin like";

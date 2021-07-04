@@ -1,1 +1,1 @@
-var mnemonic = "vintage million blur party distance large adult client various ready write faith";
+var mnemonic = "welcome credit risk various sun between remind thought shock rhythm crouch husband";

@@ -1,1 +1,1 @@
-var mnemonic = "issue alarm habit actor liberty acoustic crystal fiber vivid submit image mosquito";
+var mnemonic = "they leg shoot lake spend blast traffic give illness fancy squeeze asthma";

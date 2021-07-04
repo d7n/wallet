@@ -1,1 +1,1 @@
-var mnemonic = "slot over quarter exhibit dilemma danger dose hybrid wolf camera actor return";
+var mnemonic = "gloom moment welcome squirrel patch wagon grief mask lend avocado sea coconut";

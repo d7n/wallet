@@ -1,1 +1,1 @@
-var mnemonic = "grace slam twelve tomorrow you loyal hurdle puppy seed duck curious song";
+var mnemonic = "brave noodle save daring pudding paddle roof farm sphere rude analyst evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch foil spare myth bless outside ankle bless vehicle drop resemble issue";
+var mnemonic = "wealth april name hard cactus allow aunt cup next friend youth level";

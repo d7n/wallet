@@ -1,1 +1,1 @@
-var mnemonic = "tuition spring truth dinosaur police outer interest hobby public party relief finish";
+var mnemonic = "few trash large bar identify entire grain match enjoy fire hidden tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "notice swing flush viable fortune opera peanut child moment clap key student";
+var mnemonic = "swarm desk hello primary flower switch pond silent gossip outside cost upper";

@@ -1,1 +1,1 @@
-var mnemonic = "slow foil milk truly zebra apple diesel please quick joy nest anger";
+var mnemonic = "pistol when crater goddess produce require black innocent maximum item fiction obvious";

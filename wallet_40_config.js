@@ -1,1 +1,1 @@
-var mnemonic = "silk industry shuffle explain slender minor chalk viable link enlist across tuition";
+var mnemonic = "kitchen pelican brain wing tenant point force number melody maple blood extra";

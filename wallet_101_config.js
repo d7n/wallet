@@ -1,1 +1,1 @@
-var mnemonic = "grunt media grunt industry come image also easily index aunt knock melt";
+var mnemonic = "sauce cereal cotton pupil wine bid upgrade salon focus broken wash pride";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm meat brother reunion lion burden cancel improve fence swift drift pink";
+var mnemonic = "grief jeans swamp spot bus shoe aim voyage program destroy monitor expect";

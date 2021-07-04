@@ -1,1 +1,1 @@
-var mnemonic = "moral minor machine battle river pepper sport scene office wagon pelican front";
+var mnemonic = "bicycle call flat toast tooth solve flee galaxy energy mercy upper step";

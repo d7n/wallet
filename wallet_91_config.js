@@ -1,1 +1,1 @@
-var mnemonic = "normal tobacco rule job churn ladder quote pitch have equal lounge correct";
+var mnemonic = "barrel often bounce inspire spy borrow movie miracle night holiday educate vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "castle win chunk tomorrow sunset keep appear goat puzzle woman error auto";
+var mnemonic = "illegal obtain rally fresh auction quarter roof office advice sunset smooth network";

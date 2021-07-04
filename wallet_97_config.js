@@ -1,1 +1,1 @@
-var mnemonic = "trigger horror today history amateur carry gift school amused toy bicycle stove";
+var mnemonic = "fix song abstract potato promote couch please loan trouble speed advice put";

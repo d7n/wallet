@@ -1,1 +1,1 @@
-var mnemonic = "olive zone copper message rigid below team wasp purpose divorce juice flip";
+var mnemonic = "begin tray fetch physical dawn stay kid token pony electric brave melody";

@@ -1,1 +1,1 @@
-var mnemonic = "region carry novel canyon tape agent angry define market network ability infant";
+var mnemonic = "jungle quiz ginger idle knife busy into corn slot wreck riot easily";

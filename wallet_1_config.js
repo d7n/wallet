@@ -1,1 +1,1 @@
-var mnemonic = "catch depend crawl float any toilet rabbit pond permit pole mercy material";
+var mnemonic = "over drop venue lazy spy violin want girl fatigue loyal educate ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "margin river capable much audit erupt strong attract phrase grief destroy culture";
+var mnemonic = "attack attack upon country tomorrow discover mango poet soul hundred burger erupt";

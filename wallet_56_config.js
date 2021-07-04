@@ -1,1 +1,1 @@
-var mnemonic = "drastic inmate pull amused february fiscal amateur belt treat hurdle swift burger";
+var mnemonic = "wealth click decorate either quick worry smart tunnel hurdle account rebel oak";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest theme find borrow ankle mystery valid social limit super badge sing";
+var mnemonic = "evil butter foot athlete organ hawk success uncle street trade laptop nephew";

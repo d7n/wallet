@@ -1,1 +1,1 @@
-var mnemonic = "file exile lava mixed trial zebra actor join safe welcome photo satisfy";
+var mnemonic = "place traffic escape mimic good atom fade answer stomach quote organ sister";

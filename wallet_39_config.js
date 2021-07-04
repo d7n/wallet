@@ -1,1 +1,1 @@
-var mnemonic = "merge collect grow author adult account daring motor equal lens minimum reunion";
+var mnemonic = "bike budget govern bind slice coffee lava crew shy analyst session unique";

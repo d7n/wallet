@@ -1,1 +1,1 @@
-var mnemonic = "skate sense cruel sweet lemon rack remain fuel empower logic come truck";
+var mnemonic = "ten cradle report dentist raven season harsh fiscal miss legend keen history";

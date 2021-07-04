@@ -1,1 +1,1 @@
-var mnemonic = "mimic talk fly input father snow wheat broom chronic abstract remain section";
+var mnemonic = "antique animal rely adult wagon thumb pulse zoo run boil quiz person";

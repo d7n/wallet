@@ -1,1 +1,1 @@
-var mnemonic = "exact program diesel clutch odor monster scissors basic turkey pill size front";
+var mnemonic = "intact parrot fantasy valley arrange grunt happy mouse sort ten torch peanut";

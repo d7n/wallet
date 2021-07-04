@@ -1,1 +1,1 @@
-var mnemonic = "combine young subject secret sign unfold monster three danger olympic retreat boil";
+var mnemonic = "urge destroy recycle advance aim page upon awesome resemble under sudden burden";

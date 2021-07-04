@@ -1,1 +1,1 @@
-var mnemonic = "nut verify trend predict million move proud unaware inmate what front rely";
+var mnemonic = "vanish toe basic hurdle output size miracle must trigger injury shoot crop";

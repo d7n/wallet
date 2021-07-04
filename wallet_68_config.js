@@ -1,1 +1,1 @@
-var mnemonic = "sunny split spare village pattern team zero soda patrol pause require door";
+var mnemonic = "high mom mechanic coach modify frame congress remember display pony ecology nurse";

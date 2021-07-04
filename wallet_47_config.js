@@ -1,1 +1,1 @@
-var mnemonic = "festival physical salt pair accident warfare gorilla unlock impulse tuition grain model";
+var mnemonic = "limit flock decorate tree cheap into umbrella cream mixture matrix sample bomb";

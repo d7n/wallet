@@ -1,1 +1,1 @@
-var mnemonic = "shove sunset escape lava twenty poverty youth praise couple vote exercise manage";
+var mnemonic = "property real grunt keen arrive lumber mango autumn possible jewel farm satoshi";
