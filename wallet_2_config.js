@@ -1,1 +1,1 @@
-var mnemonic = "deny attend music casino stuff vendor human slow open hunt ripple exact";
+var mnemonic = "live miss range cactus awake sand grace symptom vapor clerk pilot account";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce swap fiscal blur meadow afford page decline long fish zone combine";
+var mnemonic = "image hero fog version include frown lock select disagree merge creek result";

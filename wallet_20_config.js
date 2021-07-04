@@ -1,1 +1,1 @@
-var mnemonic = "car excess seven panel dose metal begin hedgehog leader rain cheap orchard";
+var mnemonic = "legend razor shaft market melt damage region trigger cook august senior sail";

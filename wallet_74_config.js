@@ -1,1 +1,1 @@
-var mnemonic = "mix couch online clock exist husband onion swing table thrive caught kitchen";
+var mnemonic = "shrimp smoke entry fresh grit thing appear ice also diet tackle diamond";

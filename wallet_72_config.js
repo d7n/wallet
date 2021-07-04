@@ -1,1 +1,1 @@
-var mnemonic = "day equip explain music home blossom receive depth box priority income vast";
+var mnemonic = "sand ramp wagon curve just eternal party okay picnic alpha fantasy sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom joke civil buyer confirm essay image settle acquire blue powder tent";
+var mnemonic = "similar fun evolve submit grid slow sauce midnight abuse cotton stool shine";

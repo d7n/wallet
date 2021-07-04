@@ -1,1 +1,1 @@
-var mnemonic = "skill carpet shrimp lemon captain host health electric method design gift label";
+var mnemonic = "tank glue crack couple token text torch copy intact into shoot soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "roast bridge arrest team inner deposit fork evolve maid winter very yellow";
+var mnemonic = "soap merit thank deal west cheap absurd clinic parade reunion such sunny";

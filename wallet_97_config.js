@@ -1,1 +1,1 @@
-var mnemonic = "edge diagram juice unfold physical never tribe ski off ticket gaze aisle";
+var mnemonic = "finger month exact effort very frog assault pepper burger like wide alien";

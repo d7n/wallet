@@ -1,1 +1,1 @@
-var mnemonic = "exclude dwarf young six harsh rural clown joy violin huge stuff endorse";
+var mnemonic = "friend where dutch elephant outside gorilla possible dream olive excite tiny meat";

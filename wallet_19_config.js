@@ -1,1 +1,1 @@
-var mnemonic = "prize category segment film okay century unusual multiply derive require job avoid";
+var mnemonic = "empower success art section outdoor kingdom dry gown decade wink bright scrap";

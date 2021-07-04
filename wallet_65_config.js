@@ -1,1 +1,1 @@
-var mnemonic = "sorry rice wreck until shell lock undo clever account vacant danger mansion";
+var mnemonic = "sphere fish depth stand enemy neglect gown small awkward inform leisure begin";

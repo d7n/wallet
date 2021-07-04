@@ -1,1 +1,1 @@
-var mnemonic = "audit embark cheese correct change clown input pumpkin shoe hood correct parrot";
+var mnemonic = "present type cycle camera fish shift blush run ship ugly hockey usage";

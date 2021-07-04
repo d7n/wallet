@@ -1,1 +1,1 @@
-var mnemonic = "tail foam relax auction sport outdoor ghost leave abstract manage pink magnet";
+var mnemonic = "sugar angle tomorrow wreck december guitar digital smart napkin copy expose empower";

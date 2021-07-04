@@ -1,1 +1,1 @@
-var mnemonic = "frequent execute replace lion suspect scrap cause repair spray crane capital legal";
+var mnemonic = "armed flee object conduct fun evil bright country genius chalk hero stove";

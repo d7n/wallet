@@ -1,1 +1,1 @@
-var mnemonic = "wheat pave price help stomach first issue shoot erode aspect clay rigid";
+var mnemonic = "clean essay hammer identify nest dance pottery awake unknown dumb together tag";

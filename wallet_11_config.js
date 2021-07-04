@@ -1,1 +1,1 @@
-var mnemonic = "youth pair tired extend shift gravity point night adjust sunset gorilla club";
+var mnemonic = "urge help jeans guide illegal explain minor agree blast height indoor resource";

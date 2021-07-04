@@ -1,1 +1,1 @@
-var mnemonic = "only already belt eye make inspire ladder curve shoulder worth always return";
+var mnemonic = "soldier gravity better candy able curve diamond joke usual near chicken coil";

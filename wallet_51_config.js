@@ -1,1 +1,1 @@
-var mnemonic = "sword sail antenna essay spatial owner celery buddy math mixed place party";
+var mnemonic = "winter confirm satoshi gain bonus present umbrella broom decorate because obvious butter";

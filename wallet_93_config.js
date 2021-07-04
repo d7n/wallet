@@ -1,1 +1,1 @@
-var mnemonic = "surface rocket gentle snow destroy spider super gauge welcome range benefit scrub";
+var mnemonic = "tomorrow fix country leaf civil music foil finger dignity expand frame lion";

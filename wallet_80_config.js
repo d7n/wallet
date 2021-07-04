@@ -1,1 +1,1 @@
-var mnemonic = "usual reason purity nice trim pact curious swallow title just garment hood";
+var mnemonic = "kit hello game pluck snap gloom doll laugh soup napkin spin month";

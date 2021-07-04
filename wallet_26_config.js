@@ -1,1 +1,1 @@
-var mnemonic = "lunch base correct deal side select glance thought tuition slam live neck";
+var mnemonic = "hat they bachelor knee spend page heart blanket response safe ski bring";

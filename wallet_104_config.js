@@ -1,1 +1,1 @@
-var mnemonic = "life joke crouch trend medal interest extend screen night corn truck pave";
+var mnemonic = "document rent deer gun guess tornado blur gold antenna mutual cook fault";

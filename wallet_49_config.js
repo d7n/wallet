@@ -1,1 +1,1 @@
-var mnemonic = "ski tool mushroom water reform parrot island nephew quarter south isolate tuition";
+var mnemonic = "behave light cluster balcony undo crawl naive tunnel neutral vendor hole guard";

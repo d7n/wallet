@@ -1,1 +1,1 @@
-var mnemonic = "club reason finish trick quit razor outer this deputy better trap gain";
+var mnemonic = "culture select foil wisdom term arch mobile shy leopard adapt canyon best";

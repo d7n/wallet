@@ -1,1 +1,1 @@
-var mnemonic = "finish illegal ankle always attack hungry unique decrease noise cruise now charge";
+var mnemonic = "warm become behind zoo renew lumber obvious equip bacon throw truck brush";

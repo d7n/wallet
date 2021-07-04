@@ -1,1 +1,1 @@
-var mnemonic = "maximum air old vicious woman drum horror vast bottom craft owner weapon";
+var mnemonic = "earn belt hold spatial craft clerk toward pitch asset hawk prefer adult";

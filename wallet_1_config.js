@@ -1,1 +1,1 @@
-var mnemonic = "invite auction refuse drama afraid organ turkey tuna effort onion slight jeans";
+var mnemonic = "release bright logic soft fun theory chimney whisper drive gravity remember battle";

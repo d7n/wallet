@@ -1,1 +1,1 @@
-var mnemonic = "gym burden wreck access depart promote cabin speak enact image spice gasp";
+var mnemonic = "witness miracle black pull mechanic advance supreme assist jump lawsuit eternal glare";

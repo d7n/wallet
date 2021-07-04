@@ -1,1 +1,1 @@
-var mnemonic = "forest rebuild shell army increase extra used certain tennis over film seminar";
+var mnemonic = "bridge victory erupt cruel icon rapid diary casual expand cloth absent pioneer";

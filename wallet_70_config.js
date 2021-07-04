@@ -1,1 +1,1 @@
-var mnemonic = "impulse like frozen crack journey drive story fever depend involve image meadow";
+var mnemonic = "wide master taste frown chief potato layer dizzy speak school hole hard";

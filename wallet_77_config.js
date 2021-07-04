@@ -1,1 +1,1 @@
-var mnemonic = "exercise pet wool virtual become awful car cream icon ancient believe regret";
+var mnemonic = "escape equip hurry expect original soon vintage sun cattle frown prison replace";

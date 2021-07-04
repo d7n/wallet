@@ -1,1 +1,1 @@
-var mnemonic = "exile vehicle repair include faculty reveal good around dial buddy twenty secret";
+var mnemonic = "that long used one august slow session wheat point slam art velvet";

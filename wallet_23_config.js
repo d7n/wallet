@@ -1,1 +1,1 @@
-var mnemonic = "art vintage gym mutual scout helmet tunnel pride wheat service board gloom";
+var mnemonic = "soup guess turtle point response width basket eight friend crater camp whale";

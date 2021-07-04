@@ -1,1 +1,1 @@
-var mnemonic = "height unfair unknown segment couch expand wagon behind erupt muscle discover child";
+var mnemonic = "add vast machine kitchen dinner grow charge time airport sleep coconut scene";

@@ -1,1 +1,1 @@
-var mnemonic = "viable manual major eyebrow unusual subject hip coast must panther sponsor system";
+var mnemonic = "merge exact secret bubble warm other that apology glance top summer zero";

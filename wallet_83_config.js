@@ -1,1 +1,1 @@
-var mnemonic = "crowd recycle parrot license vague found stove cat hunt language news join";
+var mnemonic = "dirt together mail shoe announce hedgehog pioneer crack net illness wine bless";

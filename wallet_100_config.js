@@ -1,1 +1,1 @@
-var mnemonic = "stage vote prefer legal awake puzzle mention useful extend mask educate caution";
+var mnemonic = "typical soldier code denial aim faculty hub allow crack magic creek nasty";

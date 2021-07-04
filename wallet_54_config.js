@@ -1,1 +1,1 @@
-var mnemonic = "giggle tide bar impulse drama crisp sing ramp edit gas canal elbow";
+var mnemonic = "garden truth robust churn humor dry push almost famous lemon fabric brick";

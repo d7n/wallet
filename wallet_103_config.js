@@ -1,1 +1,1 @@
-var mnemonic = "discover churn recycle satisfy bright bridge empower salute seminar dumb edit sadness";
+var mnemonic = "finger sunny day weekend tone exchange mobile ethics convince enjoy fragile team";

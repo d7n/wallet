@@ -1,1 +1,1 @@
-var mnemonic = "tackle sing swarm achieve sick awful ticket usage silk weapon fix execute";
+var mnemonic = "history want wisdom example drum shrimp leaf light suspect border need bargain";

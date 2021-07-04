@@ -1,1 +1,1 @@
-var mnemonic = "table member give symbol close zoo invite noodle trim cream coral patrol";
+var mnemonic = "excess course olive useless reveal interest galaxy used come canvas essence dolphin";

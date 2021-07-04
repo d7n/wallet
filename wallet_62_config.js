@@ -1,1 +1,1 @@
-var mnemonic = "rule once latin casino castle wasp notice honey add shiver noble spin";
+var mnemonic = "tape merry ride subject brass wild daughter cannon echo month soon south";

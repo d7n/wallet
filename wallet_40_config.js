@@ -1,1 +1,1 @@
-var mnemonic = "repair gather behave shallow ivory medal simple type female grid evidence fever";
+var mnemonic = "draft major illegal vicious only absurd venture glove lizard crowd gauge people";

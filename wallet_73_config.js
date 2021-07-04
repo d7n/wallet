@@ -1,1 +1,1 @@
-var mnemonic = "sauce volcano kite student arctic trap reason purity chef slim vehicle pluck";
+var mnemonic = "text length track lecture clog wish rail video estate hurdle mail great";

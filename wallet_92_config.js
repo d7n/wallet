@@ -1,1 +1,1 @@
-var mnemonic = "father fire artist plug asthma obtain anger naive they rose gorilla myth";
+var mnemonic = "poverty spice forum innocent talk shop audit toilet bargain panel they outdoor";

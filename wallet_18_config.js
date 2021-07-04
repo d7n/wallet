@@ -1,1 +1,1 @@
-var mnemonic = "rocket furnace advance unveil aspect unique call circle bundle athlete main build";
+var mnemonic = "embark silly vacuum jump achieve source child provide attend toe carry feel";

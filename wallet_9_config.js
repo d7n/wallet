@@ -1,1 +1,1 @@
-var mnemonic = "amazing fresh guide pulse snack melody trust text earth online clerk favorite";
+var mnemonic = "collect dentist tooth seek squirrel sun item satisfy program final captain blind";

@@ -1,1 +1,1 @@
-var mnemonic = "critic boy battle virtual grit solve flag glue machine lunar loud replace";
+var mnemonic = "rail across tail fetch diesel glory horror skate trash actor believe will";

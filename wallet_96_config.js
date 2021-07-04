@@ -1,1 +1,1 @@
-var mnemonic = "ancient that crew tourist squirrel tobacco live oval mixed pig girl across";
+var mnemonic = "any seed melt ship cry island antique predict science dignity expect wrist";

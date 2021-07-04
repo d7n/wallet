@@ -1,1 +1,1 @@
-var mnemonic = "beef garbage debris rough general envelope click happy cause curve nest health";
+var mnemonic = "seat visual anchor public scale little neither sport rate absorb brother era";

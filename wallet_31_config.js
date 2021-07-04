@@ -1,1 +1,1 @@
-var mnemonic = "faculty ahead raccoon weather cake cushion pet sword leader episode reject stamp";
+var mnemonic = "retire boring ribbon narrow rice coral shoulder tenant mesh devote add grape";

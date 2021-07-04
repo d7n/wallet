@@ -1,1 +1,1 @@
-var mnemonic = "project security sing wear stuff trade flat carry mask guide dream blood";
+var mnemonic = "cheap melody rigid minor tower rib share sense entire deputy phone sound";

@@ -1,1 +1,1 @@
-var mnemonic = "govern lady palace various welcome bamboo artefact abstract ask candy scorpion mechanic";
+var mnemonic = "double physical defy slot bracket acoustic notice pelican congress chronic dwarf feed";

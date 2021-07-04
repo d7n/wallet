@@ -1,1 +1,1 @@
-var mnemonic = "session often exotic tackle flock cruel crazy mention select oven wrong issue";
+var mnemonic = "upset dawn seat parade mansion fiction diary patient little indicate sorry discover";

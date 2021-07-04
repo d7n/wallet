@@ -1,1 +1,1 @@
-var mnemonic = "gate seat train siege member wreck aisle address step alert advice pitch";
+var mnemonic = "topic dune whip coffee pet fringe sadness make nephew stone hurt novel";

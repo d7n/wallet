@@ -1,1 +1,1 @@
-var mnemonic = "fortune soccer omit loan reflect acquire normal seek library code vehicle today";
+var mnemonic = "powder category stamp honey husband one random fiscal season bicycle friend birth";

@@ -1,1 +1,1 @@
-var mnemonic = "smile bleak excite hand diagram furnace eye spice diet parrot check idea";
+var mnemonic = "amazing nephew language slim eight onion weapon patient attract castle avocado smooth";

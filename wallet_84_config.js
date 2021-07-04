@@ -1,1 +1,1 @@
-var mnemonic = "govern simple jungle slam pretty celery arrest document custom genre ball nominee";
+var mnemonic = "destroy other camera recipe black claim drink aunt domain custom fitness ritual";

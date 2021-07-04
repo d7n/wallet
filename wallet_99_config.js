@@ -1,1 +1,1 @@
-var mnemonic = "other click fruit split valid race there family online cannon kiss math";
+var mnemonic = "cigar mirror slogan wash indoor battle torch method obtain rose common slam";

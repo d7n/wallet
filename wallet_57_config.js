@@ -1,1 +1,1 @@
-var mnemonic = "bleak envelope boil develop guitar diesel equal shy more hurt range antenna";
+var mnemonic = "empty verb thought rose surge endless border game stuff lawn dilemma people";

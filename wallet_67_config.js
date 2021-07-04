@@ -1,1 +1,1 @@
-var mnemonic = "empower sure tooth scheme sausage problem swamp rival invite strike candy wrist";
+var mnemonic = "hurt phrase panther mimic gather faith sting stock range dilemma image stomach";

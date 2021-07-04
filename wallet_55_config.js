@@ -1,1 +1,1 @@
-var mnemonic = "calm remove abuse rookie flee cabbage slim actor latin punch broccoli medal";
+var mnemonic = "power cook merit salad slight silk august minute repeat seven draw viable";

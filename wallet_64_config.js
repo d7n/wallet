@@ -1,1 +1,1 @@
-var mnemonic = "expect silent jar ready audit mutual unusual ivory notice neglect sun what";
+var mnemonic = "earth lab dad broom brain shrug exhibit theme cruise maximum maze course";

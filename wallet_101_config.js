@@ -1,1 +1,1 @@
-var mnemonic = "story girl job mention lazy table grace sense pluck similar drink tomato";
+var mnemonic = "banana review right degree rocket arena code what uncle host flower lunar";

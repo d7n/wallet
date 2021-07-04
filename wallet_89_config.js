@@ -1,1 +1,1 @@
-var mnemonic = "aisle relief plate tent legal soda easily slam visa cram shock curtain";
+var mnemonic = "remind coconut discover laundry such minor load crack flame lunch museum jaguar";

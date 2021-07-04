@@ -1,1 +1,1 @@
-var mnemonic = "place tray cotton know fury cricket box orient erode agent notice problem";
+var mnemonic = "cram puppy matter blast mention favorite response evolve beach pride diet code";

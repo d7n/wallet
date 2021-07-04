@@ -1,1 +1,1 @@
-var mnemonic = "canal fitness repeat front army abuse dose benefit wise undo iron damage";
+var mnemonic = "resist across allow depth stem domain monkey heavy filter excess metal coffee";

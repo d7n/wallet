@@ -1,1 +1,1 @@
-var mnemonic = "umbrella cool birth obtain devote cover toward citizen lobster royal elite type";
+var mnemonic = "lawn resemble radio general alley name scene senior approve remind intact end";

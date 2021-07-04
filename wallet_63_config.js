@@ -1,1 +1,1 @@
-var mnemonic = "wedding cup rapid force jaguar unaware wheat verb play woman coil mimic";
+var mnemonic = "distance wife bamboo arch safe wall cradle end case viable boy couple";

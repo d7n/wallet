@@ -1,1 +1,1 @@
-var mnemonic = "better insect hurt sleep online chat sweet phrase calm endless ask lounge";
+var mnemonic = "program good sell online chaos room enter enter airport foam idle shove";

@@ -1,1 +1,1 @@
-var mnemonic = "miss stable country jungle subway middle wasp erosion list mix slush winter";
+var mnemonic = "quality spawn civil harbor toddler goose pigeon crunch first put alone account";

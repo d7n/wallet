@@ -1,1 +1,1 @@
-var mnemonic = "unique daring vintage burden extend infant okay solar museum thought toe capable";
+var mnemonic = "menu march save banana isolate rude verify useful inner quality top science";

@@ -1,1 +1,1 @@
-var mnemonic = "firm such wool small rabbit choice dune open student razor survey exclude";
+var mnemonic = "attend indicate excite veteran indicate pigeon canal danger bid issue fitness approve";

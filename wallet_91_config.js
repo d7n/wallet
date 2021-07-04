@@ -1,1 +1,1 @@
-var mnemonic = "exercise empower source clay luxury ozone next pepper admit dream zone pause";
+var mnemonic = "switch unit banner consider gaze friend hammer mountain polar exhibit flock eye";

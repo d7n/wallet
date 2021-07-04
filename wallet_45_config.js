@@ -1,1 +1,1 @@
-var mnemonic = "gather gasp taxi present supply lazy animal flight cereal forget camp secret";
+var mnemonic = "evolve cost below puppy resist course car bike grocery miss advice shadow";

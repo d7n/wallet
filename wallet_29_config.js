@@ -1,1 +1,1 @@
-var mnemonic = "badge damage slight diary share broccoli miss grass short ranch identify guilt";
+var mnemonic = "funny power bless phone awkward office divert symbol race filter town improve";

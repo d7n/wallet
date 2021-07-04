@@ -1,1 +1,1 @@
-var mnemonic = "giraffe riot depend bonus wing bread item shine valve permit change remain";
+var mnemonic = "horse milk battle gym number exact couch deliver flight artefact firm explain";

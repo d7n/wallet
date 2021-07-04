@@ -1,1 +1,1 @@
-var mnemonic = "soldier rug accuse able soul tape bleak roof best during amused royal";
+var mnemonic = "visual virus settle vapor sport spring ticket skirt rely tomato depth dove";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen eight raven oval present thank unknown bird basic fault ceiling inquiry";
+var mnemonic = "manual else capable lizard immune never moral annual mimic balance chronic spirit";

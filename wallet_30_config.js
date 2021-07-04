@@ -1,1 +1,1 @@
-var mnemonic = "world time antique zoo frog cotton snap sound blast dirt treat practice";
+var mnemonic = "recycle parrot ginger symptom violin fury mesh frost uncle blouse federal enforce";

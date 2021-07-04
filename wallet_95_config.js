@@ -1,1 +1,1 @@
-var mnemonic = "ghost hurry pelican coconut wear flip sad tower bean hair steel cute";
+var mnemonic = "cloth sort chair tiny idle cradle danger car brief trust success any";

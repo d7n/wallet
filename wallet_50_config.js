@@ -1,1 +1,1 @@
-var mnemonic = "regret snake maid age reveal pony ball hand skull palm cheap close";
+var mnemonic = "bronze boat animal anchor chuckle resource step scan piano receive spread describe";

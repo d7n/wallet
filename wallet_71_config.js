@@ -1,1 +1,1 @@
-var mnemonic = "weather usage joy bundle equal vanish mule stove sister similar seek dust";
+var mnemonic = "scare jungle lady smooth copy airport alcohol acquire bleak swap online combine";

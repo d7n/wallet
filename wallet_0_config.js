@@ -1,1 +1,1 @@
-var mnemonic = "luggage dune gun kind measure melt cloud odor private warfare program brave";
+var mnemonic = "switch lend chair fluid coast raccoon reward little slam disorder speed slogan";

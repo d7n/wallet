@@ -1,1 +1,1 @@
-var mnemonic = "beyond minimum tail oven sorry butter salute mountain security borrow public wasp";
+var mnemonic = "glance punch forest mandate open holiday wheat vendor fringe lava brick tunnel";

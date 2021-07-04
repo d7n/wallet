@@ -1,1 +1,1 @@
-var mnemonic = "amount damp before supreme claw country elder feature casual chimney angle recall";
+var mnemonic = "ethics infant swallow satoshi jacket turn fatigue clip carbon feature convince twin";

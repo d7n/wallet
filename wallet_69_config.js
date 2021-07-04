@@ -1,1 +1,1 @@
-var mnemonic = "cook morning sibling mind pole chase brass predict just heart tape mask";
+var mnemonic = "oyster two raccoon gather path pen private disorder average potato country resource";

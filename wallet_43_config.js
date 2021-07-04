@@ -1,1 +1,1 @@
-var mnemonic = "ahead barely people staff leisure hybrid fossil silly limb love kidney frame";
+var mnemonic = "movie paddle seek mixed cream list clog absorb lion nest fish vacuum";

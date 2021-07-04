@@ -1,1 +1,1 @@
-var mnemonic = "drive notable discover woman ask scissors scrub spin inject again now stamp";
+var mnemonic = "lyrics dilemma acoustic earth best cherry fancy time supreme forest method between";
