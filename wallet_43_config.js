@@ -1,1 +1,1 @@
-var mnemonic = "miss visa sudden sudden account used fashion lift antenna runway total plate";
+var mnemonic = "clump hunt black seat you during private example prepare match kitten afford";

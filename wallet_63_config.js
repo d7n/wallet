@@ -1,1 +1,1 @@
-var mnemonic = "reject wedding stay eight column struggle behind paper hello cave puppy large";
+var mnemonic = "enjoy jungle field sibling powder derive raw traffic shine patient follow monkey";

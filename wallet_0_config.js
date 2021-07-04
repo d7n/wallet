@@ -1,1 +1,1 @@
-var mnemonic = "jeans chicken fitness confirm account equal know tool peasant buddy tuna member";
+var mnemonic = "pigeon unlock alcohol kidney involve potato grape left behave arena what stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "dash share crumble success monster among power replace print gauge trigger boring";
+var mnemonic = "change hope file divide remain spin quick supreme jazz afraid equip catch";

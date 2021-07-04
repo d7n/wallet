@@ -1,1 +1,1 @@
-var mnemonic = "other stomach brush dry robot moral another crisp puzzle fashion misery oblige";
+var mnemonic = "nose chase kangaroo copy uncover toilet fall combine bread ocean earn fish";

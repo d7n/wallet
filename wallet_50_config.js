@@ -1,1 +1,1 @@
-var mnemonic = "coach bunker shadow door mask real harsh tower demise burger eternal hunt";
+var mnemonic = "barely dry menu destroy home rate green ridge apple ugly flame embark";

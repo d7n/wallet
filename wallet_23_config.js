@@ -1,1 +1,1 @@
-var mnemonic = "green fence that derive wall snow ride swear federal setup similar fat";
+var mnemonic = "near love early either shrug fence burger ridge lawn frog enemy parent";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum dirt clinic path bunker raw jelly brother life sea patch dynamic";
+var mnemonic = "sing police viable surround shift document horn layer enemy wrong film index";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude wall various naive photo trumpet salon sunny merry text expand salute";
+var mnemonic = "release venture swift inch water domain mirror jazz calm include chunk width";

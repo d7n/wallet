@@ -1,1 +1,1 @@
-var mnemonic = "bone sing theme motor cereal forget gentle fabric initial clinic write orange";
+var mnemonic = "make night fashion disease claw gloom dawn amused predict dirt impact soccer";

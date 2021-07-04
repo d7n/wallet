@@ -1,1 +1,1 @@
-var mnemonic = "poem help wave tray fiscal ozone horn message fever coral youth bamboo";
+var mnemonic = "battle inhale piece notable sick recipe wedding salmon what second can gown";

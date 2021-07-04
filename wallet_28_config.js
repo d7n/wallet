@@ -1,1 +1,1 @@
-var mnemonic = "outdoor ahead game jump actress awful finish solve combine spin adjust drink";
+var mnemonic = "fashion moon object clog emotion cream will lumber buffalo decline try wolf";

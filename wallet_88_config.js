@@ -1,1 +1,1 @@
-var mnemonic = "black smoke globe reunion dry enlist orphan ancient jazz right stage jar";
+var mnemonic = "option oxygen basic police toilet tomorrow oxygen slam elephant table drama weird";

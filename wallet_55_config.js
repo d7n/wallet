@@ -1,1 +1,1 @@
-var mnemonic = "pill pave erase various mutual goat member drop cheese bamboo vital athlete";
+var mnemonic = "ahead glide forget winner purpose tide duty detect scissors shiver slush key";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin hollow expire elbow east element random survey organ kit gossip squirrel";
+var mnemonic = "jaguar when west virus flower used pass peasant wife garbage accuse creek";

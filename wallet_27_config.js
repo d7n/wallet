@@ -1,1 +1,1 @@
-var mnemonic = "extra journey race finger exotic depart teach member oval bachelor daring federal";
+var mnemonic = "night assist month place judge enjoy soon inside horn spell valid host";

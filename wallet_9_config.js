@@ -1,1 +1,1 @@
-var mnemonic = "sibling matrix ripple invite glimpse hold canoe quarter betray small inhale twice";
+var mnemonic = "toss behind tobacco excess this rigid circle fresh spirit alone club crouch";

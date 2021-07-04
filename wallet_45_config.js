@@ -1,1 +1,1 @@
-var mnemonic = "peasant mansion sense control unlock umbrella humble glance venue under absorb wall";
+var mnemonic = "lawsuit blind foot connect original fall glare flat refuse erosion oyster define";

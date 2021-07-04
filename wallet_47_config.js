@@ -1,1 +1,1 @@
-var mnemonic = "horror genuine master road motor obvious brass artwork almost other suggest welcome";
+var mnemonic = "depend funny short garlic guard advance ugly employ connect canvas echo smart";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth give obscure endorse rival define pig drum bus sponsor patient current";
+var mnemonic = "mean throw grunt bring evidence wreck inner flame tent swift noble slab";

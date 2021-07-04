@@ -1,1 +1,1 @@
-var mnemonic = "young surge give lobster inquiry captain hamster tobacco genius tell there remember";
+var mnemonic = "dad broccoli immense material brush horn knee estate illness bomb feed excess";

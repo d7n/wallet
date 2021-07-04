@@ -1,1 +1,1 @@
-var mnemonic = "note glimpse ignore elder stomach great sort mimic lesson tomato camera chat";
+var mnemonic = "brown sentence woman identify little logic unfair affair maximum travel evidence myself";

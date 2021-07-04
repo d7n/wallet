@@ -1,1 +1,1 @@
-var mnemonic = "venture blood sausage coyote program question spice sweet green exclude become replace";
+var mnemonic = "moment cream young opinion option cereal shine exact position fly elbow vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "myself deputy social loop outside ill success produce coconut news issue scene";
+var mnemonic = "violin sting girl coral memory honey bulb opera parent appear around style";

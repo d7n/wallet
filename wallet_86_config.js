@@ -1,1 +1,1 @@
-var mnemonic = "bring pretty pull hold carry know angry shift arrive rigid unaware snap";
+var mnemonic = "hope gather gym tonight apology place victory dilemma sting educate huge control";

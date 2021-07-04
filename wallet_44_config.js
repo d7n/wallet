@@ -1,1 +1,1 @@
-var mnemonic = "success snake evidence wing cream pilot range six heart click cushion amazing";
+var mnemonic = "recall gospel fantasy broken year original film diesel exotic panda wife undo";

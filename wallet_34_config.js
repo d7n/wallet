@@ -1,1 +1,1 @@
-var mnemonic = "quote save abstract maximum dismiss imitate shoulder spot brush frost pigeon prevent";
+var mnemonic = "guide essence artefact moment pottery soup conduct prepare mouse balcony choice receive";

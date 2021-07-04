@@ -1,1 +1,1 @@
-var mnemonic = "blame used urban stool maximum build pair uniform slam capital top skin";
+var mnemonic = "gallery tooth bottom reason army stomach mercy venue faith post process marine";

@@ -1,1 +1,1 @@
-var mnemonic = "maple twelve say try coconut sing bar visit guide derive perfect target";
+var mnemonic = "act nothing sure mushroom unusual dismiss monkey kick tornado vendor dilemma know";

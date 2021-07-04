@@ -1,1 +1,1 @@
-var mnemonic = "control know kind brown engine sleep coffee vast alert about release talk";
+var mnemonic = "proof eye wire view private shaft connect know essay noble letter dentist";

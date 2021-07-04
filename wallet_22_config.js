@@ -1,1 +1,1 @@
-var mnemonic = "capable inside flower baby master festival shrimp mail kitchen inch cluster intact";
+var mnemonic = "cupboard sister sign tip merit immune special infant nut curious brisk lizard";

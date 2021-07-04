@@ -1,1 +1,1 @@
-var mnemonic = "trash path off salon area birth age present expire recipe mandate raise";
+var mnemonic = "deputy palm tonight find tenant sunny rescue inquiry bracket vast regular control";

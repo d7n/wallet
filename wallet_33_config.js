@@ -1,1 +1,1 @@
-var mnemonic = "senior daring document trigger end face deliver off vague practice when rigid";
+var mnemonic = "soul differ together pistol ketchup perfect purpose arrest cliff remember charge party";

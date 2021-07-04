@@ -1,1 +1,1 @@
-var mnemonic = "egg kidney huge carbon must quiz layer blast nation amateur mosquito start";
+var mnemonic = "soda token loan lonely flush gloom stage inhale forget sibling oyster eye";

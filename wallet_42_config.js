@@ -1,1 +1,1 @@
-var mnemonic = "car yard question offer exit spend emotion struggle neutral trigger visit want";
+var mnemonic = "seed roof true endless daughter acquire cat alarm ugly couch portion gain";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm boost whisper sadness acid tank outside width love dish merge tank";
+var mnemonic = "trial mansion butter chimney fade kid fish tag fluid someone plug ship";

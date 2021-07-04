@@ -1,1 +1,1 @@
-var mnemonic = "ticket top merit cash lady liar champion rigid disorder poverty scrub emerge";
+var mnemonic = "history mushroom circle daughter neither lounge loud sponsor major later treat magnet";

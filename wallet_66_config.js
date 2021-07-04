@@ -1,1 +1,1 @@
-var mnemonic = "install dish glow move waste holiday year more lemon rare hood develop";
+var mnemonic = "lab valve word lobster march clay athlete donkey quick december skate tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy unusual lift rack chunk october twelve divert love unaware destroy zero";
+var mnemonic = "share divert hat label among small squeeze define vendor risk vote country";

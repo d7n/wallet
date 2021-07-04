@@ -1,1 +1,1 @@
-var mnemonic = "license item spot undo midnight submit culture poverty execute birth deny glove";
+var mnemonic = "history body sauce answer eager stamp tissue absent impulse denial mammal rain";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend test fold pig seat island connect glare quick fun inherit owner";
+var mnemonic = "room gap spider hurt happy like amount glory cat vague enemy coyote";

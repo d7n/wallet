@@ -1,1 +1,1 @@
-var mnemonic = "race expose shoulder kid involve round aim team forward broccoli erupt worth";
+var mnemonic = "nature gloom gather bamboo boring december stone canvas buyer wet salute wash";

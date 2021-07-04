@@ -1,1 +1,1 @@
-var mnemonic = "beauty oyster build two motor season wheel yard palm route flee measure";
+var mnemonic = "fan craft member artwork fix tip employ mystery dry hazard meadow paper";

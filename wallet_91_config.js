@@ -1,1 +1,1 @@
-var mnemonic = "physical enjoy struggle section stem fat canyon left acquire icon swing obscure";
+var mnemonic = "network pulse coral liquid shift journey envelope firm eager scrub ceiling humble";

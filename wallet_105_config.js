@@ -1,1 +1,1 @@
-var mnemonic = "what law amount health desk virtual trash lamp put garden horse ketchup";
+var mnemonic = "stand seed shuffle inside demand crawl decade top crane link labor diesel";

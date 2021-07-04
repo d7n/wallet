@@ -1,1 +1,1 @@
-var mnemonic = "plunge ketchup option supreme hood cause record style require used zero hand";
+var mnemonic = "session broken donate protect season pistol time scout brass same cloth govern";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt spirit episode jeans cement rescue ski small lemon rhythm dinner eye";
+var mnemonic = "panda stumble fence metal ill library scissors short series cluster jealous strategy";

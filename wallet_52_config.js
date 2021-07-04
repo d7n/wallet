@@ -1,1 +1,1 @@
-var mnemonic = "husband panda december disease language course cream wood guitar strong tower lift";
+var mnemonic = "then own source either start cry smooth claim give bag game cross";

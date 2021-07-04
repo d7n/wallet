@@ -1,1 +1,1 @@
-var mnemonic = "pitch airport tennis maple firm anger tape road basket always price combine";
+var mnemonic = "hip ready crop west nose craft logic nation clog youth width guide";

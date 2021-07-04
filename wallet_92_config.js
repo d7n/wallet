@@ -1,1 +1,1 @@
-var mnemonic = "mechanic air budget tenant decrease error return market pave cherry crush list";
+var mnemonic = "rose floor smile gospel erupt increase project west guard airport oak fuel";

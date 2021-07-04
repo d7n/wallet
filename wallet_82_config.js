@@ -1,1 +1,1 @@
-var mnemonic = "trial worth snake split list valve waste window year reform enhance cool";
+var mnemonic = "supply deer script bicycle lobster frozen analyst curtain transfer history enroll piece";

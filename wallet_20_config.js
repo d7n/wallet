@@ -1,1 +1,1 @@
-var mnemonic = "slice impose enjoy rather crisp steel dish noise symbol ridge memory various";
+var mnemonic = "awkward common ability leave theory lunch render approve this rabbit soon acoustic";

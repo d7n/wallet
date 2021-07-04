@@ -1,1 +1,1 @@
-var mnemonic = "slush reject birth universe net curve swing alarm else silly timber swamp";
+var mnemonic = "file arrest ivory hollow deny release dog steak logic wise chaos lawsuit";

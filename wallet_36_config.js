@@ -1,1 +1,1 @@
-var mnemonic = "dove same random pride special train planet seek mushroom congress horror ball";
+var mnemonic = "harsh gas coconut slight program begin girl hundred mean sauce rural census";

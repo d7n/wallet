@@ -1,1 +1,1 @@
-var mnemonic = "betray panic genuine month swarm utility below diamond shaft silver auction sock";
+var mnemonic = "amount crunch party dose clean labor devote view primary curve border brown";

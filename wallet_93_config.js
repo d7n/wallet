@@ -1,1 +1,1 @@
-var mnemonic = "cloud asset mechanic stamp into cargo ladder churn toward hole kingdom lady";
+var mnemonic = "twenty must border garment describe craft moral any wave relax suggest filter";

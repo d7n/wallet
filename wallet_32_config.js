@@ -1,1 +1,1 @@
-var mnemonic = "much slow fury math point fresh voyage door surge furnace apology almost";
+var mnemonic = "guard dry follow tennis add blanket left skate fever cave bullet delay";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle spend below exhaust click hammer cage avoid permit polar metal number";
+var mnemonic = "vapor claim favorite humble struggle recall finish artefact acid rich youth salute";

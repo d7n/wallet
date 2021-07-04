@@ -1,1 +1,1 @@
-var mnemonic = "crack remember deal wealth vault gadget name video daughter retreat today local";
+var mnemonic = "pair ordinary cement manage rocket travel office patch huge wire grass soda";

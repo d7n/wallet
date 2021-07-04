@@ -1,1 +1,1 @@
-var mnemonic = "settle deer know upset trial vast nasty drink hint fiber enough deny";
+var mnemonic = "fruit slender talent error cloth situate broccoli always blouse lunar large april";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt acid frozen feature famous belt solution indoor glove aware salt mansion";
+var mnemonic = "curve coin gauge ketchup waste paddle example food risk drama kind maid";

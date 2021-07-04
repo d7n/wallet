@@ -1,1 +1,1 @@
-var mnemonic = "layer improve time piano magnet shy major slow tube paper material setup";
+var mnemonic = "roast reject race sell letter glide token spawn claim load empower tunnel";

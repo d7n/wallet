@@ -1,1 +1,1 @@
-var mnemonic = "run inform harbor warfare nominee slight push trade pulp route rhythm account";
+var mnemonic = "echo phone oven rely song tool civil execute pizza sand task trick";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow onion mandate often clown steel leopard deal bitter strategy skate design";
+var mnemonic = "cart shadow grit fabric empty virtual dust vivid improve subject differ museum";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy chief insect consider friend finger kitten episode soft oil weasel lawn";
+var mnemonic = "happy cross awkward drop random mammal leaf slush filter canal fetch edge";

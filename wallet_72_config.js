@@ -1,1 +1,1 @@
-var mnemonic = "away know indoor quick never sleep jeans clap load bonus book crater";
+var mnemonic = "coin ghost fire minimum track episode camp devote sphere nerve enter roast";

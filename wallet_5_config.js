@@ -1,1 +1,1 @@
-var mnemonic = "vacuum tag discover exile under web peace dust urban lady census arctic";
+var mnemonic = "vicious peace whip true embark drive gap test morning company owner custom";

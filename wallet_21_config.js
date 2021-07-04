@@ -1,1 +1,1 @@
-var mnemonic = "erupt marble physical antique wine guess cycle run curve alone artist index";
+var mnemonic = "fade scare side letter sea fetch width mask satisfy amount uniform dice";

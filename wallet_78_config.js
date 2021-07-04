@@ -1,1 +1,1 @@
-var mnemonic = "scale ride major rack mistake wedding flee spatial drop tonight palace country";
+var mnemonic = "hybrid afraid useful news spin wife anger usual love submit nuclear give";

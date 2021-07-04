@@ -1,1 +1,1 @@
-var mnemonic = "evoke ask bag stick emerge album often forward sword phone coin question";
+var mnemonic = "tide rich father squeeze enemy skirt regret soccer shift hub any rival";

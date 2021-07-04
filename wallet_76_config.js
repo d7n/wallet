@@ -1,1 +1,1 @@
-var mnemonic = "tomato fiber voice height riot tomato decorate program dwarf marriage minor ignore";
+var mnemonic = "orange leave iron square stool proof hundred iron affair jaguar pelican armed";

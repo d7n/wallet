@@ -1,1 +1,1 @@
-var mnemonic = "coyote umbrella idle month assault use prepare delay dice piano capable entire";
+var mnemonic = "ripple margin record kiss tomorrow plate leader lottery employ erase comic calm";

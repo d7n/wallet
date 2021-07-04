@@ -1,1 +1,1 @@
-var mnemonic = "person noodle reject mixed best renew ramp crime embark ecology clean used";
+var mnemonic = "indoor define season sea green release brother foil close virus squeeze push";

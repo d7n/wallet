@@ -1,1 +1,1 @@
-var mnemonic = "truly spice maze oxygen depend consider pipe drink range virus donate unfold";
+var mnemonic = "swim favorite company secret bulb chicken lake flag festival alter purity behind";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten vital flower mountain deputy pigeon bamboo grant throw conduct symbol glow";
+var mnemonic = "captain caught noble float toast path shaft wish glove fish bleak once";

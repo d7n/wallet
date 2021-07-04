@@ -1,1 +1,1 @@
-var mnemonic = "fat hair woman okay critic sand scare hair chest shuffle brother kiwi";
+var mnemonic = "final rain olympic retire typical benefit audit moon embody engage patrol fragile";

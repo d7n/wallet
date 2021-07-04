@@ -1,1 +1,1 @@
-var mnemonic = "express soft mixed follow scissors tree task segment million gossip sing various";
+var mnemonic = "empty crane skate achieve post memory impact adult silver side improve legal";

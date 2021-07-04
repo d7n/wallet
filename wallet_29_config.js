@@ -1,1 +1,1 @@
-var mnemonic = "cliff puppy table purchase jump stomach master supply behind achieve grain gaze";
+var mnemonic = "black muscle duck insect puppy balcony hotel correct victory dust slim ill";

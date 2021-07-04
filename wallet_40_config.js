@@ -1,1 +1,1 @@
-var mnemonic = "stairs such club horse inhale inflict space sword suspect buffalo note love";
+var mnemonic = "unique real foster recall ability stamp shine tennis hurt grace loop world";

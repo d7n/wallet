@@ -1,1 +1,1 @@
-var mnemonic = "vote notice vapor pottery story need receive inject abandon sword slow leader";
+var mnemonic = "earth juice knock pitch loop faculty angry vacuum minimum finish axis depth";

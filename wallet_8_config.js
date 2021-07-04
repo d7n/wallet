@@ -1,1 +1,1 @@
-var mnemonic = "hub mango say soon relax sudden goddess soft reveal liberty drip someone";
+var mnemonic = "shed pill neither drill dance hour social express dose have enact clap";

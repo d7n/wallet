@@ -1,1 +1,1 @@
-var mnemonic = "grocery garage riot hundred clever announce clutch toddler grape wise pottery ticket";
+var mnemonic = "call disagree elite census kite jazz goat switch useless silk swear limb";

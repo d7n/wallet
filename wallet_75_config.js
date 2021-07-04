@@ -1,1 +1,1 @@
-var mnemonic = "riot aerobic air afford ring fabric verify critic average peanut hotel loud";
+var mnemonic = "sword imitate reject replace asthma color virtual chef chuckle talk sound final";

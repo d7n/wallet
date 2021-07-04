@@ -1,1 +1,1 @@
-var mnemonic = "decade oval recall suggest scrub math clean company sample skin chef response";
+var mnemonic = "loop globe rapid slush ticket owner roof happy magic deal abandon couch";

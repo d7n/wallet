@@ -1,1 +1,1 @@
-var mnemonic = "mobile cross shallow song hungry cactus recall thrive cry athlete marine turn";
+var mnemonic = "weasel surround cheese catch resist sausage raccoon south shrimp engage primary engage";

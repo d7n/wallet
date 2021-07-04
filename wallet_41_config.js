@@ -1,1 +1,1 @@
-var mnemonic = "battle meat omit mix stable into discover nominee fade guard require pulse";
+var mnemonic = "scrub begin cluster woman vehicle peace twice gate evidence abuse life void";

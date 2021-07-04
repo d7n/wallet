@@ -1,1 +1,1 @@
-var mnemonic = "slab slice desert head fog novel goat special narrow mean risk erase";
+var mnemonic = "clip census drip paper steel inject lens paper rebel choose urban transfer";

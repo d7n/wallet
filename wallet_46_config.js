@@ -1,1 +1,1 @@
-var mnemonic = "dash dove grit story crop salute butter detect arm reject ketchup elder";
+var mnemonic = "science half crop toy boil sadness smart run burden sword win earn";

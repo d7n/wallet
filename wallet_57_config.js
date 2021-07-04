@@ -1,1 +1,1 @@
-var mnemonic = "social office leg affair dizzy moral scatter real method huge wage cable";
+var mnemonic = "wheat whip pull video pizza live silk horror novel insane shield illness";
