@@ -1,1 +1,1 @@
-var mnemonic = "victory funny verify tower forward private dirt dial they elephant cabin gold";
+var mnemonic = "this gas nature leisure connect romance about item ill diamond mimic mass";

@@ -1,1 +1,1 @@
-var mnemonic = "claim umbrella weasel float assume picnic sunset thing west purity arena castle";
+var mnemonic = "cave chest upon circle gorilla camp truth lens notice chuckle immune alert";

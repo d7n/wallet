@@ -1,1 +1,1 @@
-var mnemonic = "six ring home biology title spice invest turkey simple pigeon pluck calm";
+var mnemonic = "require mouse ride wagon toilet top round hockey core under popular thank";

@@ -1,1 +1,1 @@
-var mnemonic = "maple pudding real donkey web pitch absent medal ignore cushion segment waste";
+var mnemonic = "dismiss dragon hammer prison infant husband park build electric ship lonely plastic";

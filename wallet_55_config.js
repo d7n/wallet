@@ -1,1 +1,1 @@
-var mnemonic = "script illegal like fringe load grain music between exile funny magic jungle";
+var mnemonic = "swing fame human barely comic midnight arctic nuclear satisfy vivid elevator brain";

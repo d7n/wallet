@@ -1,1 +1,1 @@
-var mnemonic = "useful cricket mad suggest engage cook sketch drama silly tornado neutral cradle";
+var mnemonic = "promote vivid frame heavy scatter walk edit toss piano cluster when marine";

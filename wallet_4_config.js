@@ -1,1 +1,1 @@
-var mnemonic = "fold gadget hub oyster sudden choose describe stumble night mom all unaware";
+var mnemonic = "thumb space staff short guide material chair fix oval eager kitten dismiss";

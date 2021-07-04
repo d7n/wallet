@@ -1,1 +1,1 @@
-var mnemonic = "enable leg finish tail shove turn start smart grocery travel square empty";
+var mnemonic = "news toward mushroom miss wreck dice unlock sample daring squeeze faith exist";

@@ -1,1 +1,1 @@
-var mnemonic = "spray symbol moment country heart bracket peace garlic tail essay slice cluster";
+var mnemonic = "laundry crunch key host whip pony tourist wedding warfare example name deputy";

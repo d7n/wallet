@@ -1,1 +1,1 @@
-var mnemonic = "satoshi you agent easily friend shy dune monster tank found response note";
+var mnemonic = "card north fix sibling live kiss skin song discover buffalo name banana";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich phrase leg jungle stem urban educate recipe caught hello pigeon rent";
+var mnemonic = "accident team loud journey credit dove dream unaware jacket poverty unhappy stand";

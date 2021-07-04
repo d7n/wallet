@@ -1,1 +1,1 @@
-var mnemonic = "defy glow bulb atom empty whale term gesture beef unusual alien kitchen";
+var mnemonic = "outer raven harbor sudden valid middle mass cram aerobic about enough floor";

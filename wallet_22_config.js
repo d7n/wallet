@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo crane nut apple ritual play core bulb inhale artefact razor quiz";
+var mnemonic = "drill dust network immense network wire stage olive erase fan river reward";

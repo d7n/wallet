@@ -1,1 +1,1 @@
-var mnemonic = "flag home artist subway sock art illegal surprise doll estate sudden empty";
+var mnemonic = "salon lunch man royal cash odor hour rescue erupt oil process slow";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious stool alcohol charge mystery emerge smooth green olympic jeans twin demand";
+var mnemonic = "buzz pride table turn bleak teach assume profit access distance parade gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "gate minute search pioneer rocket soon island winter moral note hole useless";
+var mnemonic = "frog verify canvas course reward response priority action obvious stereo climb coyote";

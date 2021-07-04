@@ -1,1 +1,1 @@
-var mnemonic = "depend kit shine good opinion diet endless goat body loyal young tide";
+var mnemonic = "lake inner digital bright sing alley mystery stick harvest foil pig mass";

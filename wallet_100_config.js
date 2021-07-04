@@ -1,1 +1,1 @@
-var mnemonic = "cat famous enter spider indicate innocent cry mask domain honey universe cradle";
+var mnemonic = "social group screen tomato october topple pact wire mutual arm rate grunt";

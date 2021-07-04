@@ -1,1 +1,1 @@
-var mnemonic = "donate motion slush develop coil book reduce empty base camp agent spy";
+var mnemonic = "radio try same people will return mask roof company wool tumble exercise";

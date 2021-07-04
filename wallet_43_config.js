@@ -1,1 +1,1 @@
-var mnemonic = "rug police near filter stomach palm like fall cement fatigue joke animal";
+var mnemonic = "upset subject mutual tragic quarter lend science ugly match clinic shoulder economy";

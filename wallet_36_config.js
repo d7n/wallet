@@ -1,1 +1,1 @@
-var mnemonic = "divert fix reflect divide analyst student junior story annual drastic donkey tip";
+var mnemonic = "decorate poem parade print wait wrong destroy edit pair maple motion brave";

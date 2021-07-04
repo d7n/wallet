@@ -1,1 +1,1 @@
-var mnemonic = "stock good tuition scrap dizzy spot diesel struggle split whisper tuna fantasy";
+var mnemonic = "eight uncover iron rude endless avocado pill diamond bind desk bulb margin";

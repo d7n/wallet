@@ -1,1 +1,1 @@
-var mnemonic = "brother state topic dinosaur dice elegant bottom pet medal doll diary number";
+var mnemonic = "assist spatial inmate satisfy faint addict audit butter knee prepare night miracle";

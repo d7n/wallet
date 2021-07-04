@@ -1,1 +1,1 @@
-var mnemonic = "hour six cave pave hour nice unknown faint happy unhappy lion among";
+var mnemonic = "bind indoor conduct pond project web hand view zone nuclear maze immense";

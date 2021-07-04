@@ -1,1 +1,1 @@
-var mnemonic = "boss rely distance empower glare edge acoustic radio tree intact casual grit";
+var mnemonic = "slush heavy fortune glide local eight buyer fade boss focus erode faint";

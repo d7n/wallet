@@ -1,1 +1,1 @@
-var mnemonic = "mask receive physical lamp pen wood program anger security together grape heart";
+var mnemonic = "scissors pink fall insane kangaroo dust scatter drive vast resemble buddy traffic";

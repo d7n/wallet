@@ -1,1 +1,1 @@
-var mnemonic = "squirrel level off orchard tower hybrid dismiss large cricket boil region orbit";
+var mnemonic = "grass spot donkey gain glad whale arrow meat mechanic comfort puzzle negative";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella gesture advice high limit evidence student away what spy chaos inject";
+var mnemonic = "under visa chuckle disorder warfare session high walnut train congress desk nothing";

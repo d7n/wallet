@@ -1,1 +1,1 @@
-var mnemonic = "hammer imitate civil access case choose notable slab future share mobile worry";
+var mnemonic = "chief hundred bar ignore toward valve boost face lunar token rhythm defy";

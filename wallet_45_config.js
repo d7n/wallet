@@ -1,1 +1,1 @@
-var mnemonic = "pole into jewel struggle daring mix brother canal fit seek excuse emerge";
+var mnemonic = "fork mirror divert knee absorb stage silly burden relief puppy alter name";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort throw learn kit inch load night art suffer thank tissue lab";
+var mnemonic = "wear actress border fan kiss private lunch oven club all endless wall";

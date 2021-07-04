@@ -1,1 +1,1 @@
-var mnemonic = "kind school lunar hawk inspire prefer off planet iron net fatal kingdom";
+var mnemonic = "lyrics glad erupt source slow flat spike toddler clerk copper verb spy";

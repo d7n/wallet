@@ -1,1 +1,1 @@
-var mnemonic = "cash deliver gesture donor crystal midnight inform shrug glow excess rescue chief";
+var mnemonic = "misery south real law battle fence warrior poverty problem only slender axis";

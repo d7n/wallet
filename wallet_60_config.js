@@ -1,1 +1,1 @@
-var mnemonic = "talent session artist merry excess intact excess equip collect steak gasp magic";
+var mnemonic = "quality drama raven close apple approve material venue gold pretty churn mom";

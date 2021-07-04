@@ -1,1 +1,1 @@
-var mnemonic = "fuel force marble twenty injury nerve spawn main shop decide bulb never";
+var mnemonic = "hurry script merry yellow pigeon vote travel fiscal lottery soon sorry hidden";

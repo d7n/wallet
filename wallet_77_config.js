@@ -1,1 +1,1 @@
-var mnemonic = "gap north lottery predict siren tennis section extra today winter vacant cousin";
+var mnemonic = "alcohol alcohol other figure poem pave favorite dumb install property where atom";

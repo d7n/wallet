@@ -1,1 +1,1 @@
-var mnemonic = "zone flee welcome kangaroo garage employ echo syrup endorse stand victory raw";
+var mnemonic = "large gap name train axis urge theme bulk radar wool heart furnace";

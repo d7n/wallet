@@ -1,1 +1,1 @@
-var mnemonic = "hub bachelor frog rough denial order chase nuclear aunt just catch fever";
+var mnemonic = "flock loyal acquire expect stuff crush traffic allow legend admit pepper menu";

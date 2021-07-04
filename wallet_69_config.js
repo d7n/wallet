@@ -1,1 +1,1 @@
-var mnemonic = "crunch expect daring once unhappy fetch hole unusual control action virus motor";
+var mnemonic = "can illegal bottom much quiz vanish hundred bulk churn fun fog exhaust";

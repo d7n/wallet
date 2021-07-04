@@ -1,1 +1,1 @@
-var mnemonic = "lumber salmon economy track trap vapor various obey horror struggle title plunge";
+var mnemonic = "canyon once sweet scale lake pluck enact viable ginger over choose sell";

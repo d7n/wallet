@@ -1,1 +1,1 @@
-var mnemonic = "appear pottery raise believe ability wine cave chaos fault spend praise flight";
+var mnemonic = "hold foam library list honey pass hospital bag edit sibling advance sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie prevent curve benefit immune essay rice profit ketchup cricket pluck pink";
+var mnemonic = "wink illegal distance prepare token punch wrist tattoo volcano later belt bright";

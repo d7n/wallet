@@ -1,1 +1,1 @@
-var mnemonic = "wood direct caught denial foot moon short bounce sport awake help tennis";
+var mnemonic = "scatter cave echo arch unable lamp during water number illness knee foster";

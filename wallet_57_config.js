@@ -1,1 +1,1 @@
-var mnemonic = "despair diary aware toy image cream indicate approve very repeat over payment";
+var mnemonic = "bundle regret trade vote indicate avocado address confirm diagram action start napkin";

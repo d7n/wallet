@@ -1,1 +1,1 @@
-var mnemonic = "next ritual tackle sand measure verify accident story shock fresh betray muscle";
+var mnemonic = "gravity churn life hundred prison dawn still biology silver guess trim blue";

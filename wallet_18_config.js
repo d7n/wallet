@@ -1,1 +1,1 @@
-var mnemonic = "drop fortune empty update again quote exact ladder client more zero lunch";
+var mnemonic = "prevent security pear pudding buyer benefit ahead outdoor denial into punch sorry";

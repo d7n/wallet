@@ -1,1 +1,1 @@
-var mnemonic = "mutual body patient need enter real arrest forest power raccoon reject whip";
+var mnemonic = "dune hover glue reason candy february holiday stone size carry cram bulb";

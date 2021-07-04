@@ -1,1 +1,1 @@
-var mnemonic = "scale display away spider post priority hidden artwork foot mango quick biology";
+var mnemonic = "mistake banana twist fog boat uncle palace design zoo deputy volume enrich";

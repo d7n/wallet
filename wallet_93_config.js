@@ -1,1 +1,1 @@
-var mnemonic = "race afford tank embrace hungry provide educate suit timber miss crime capable";
+var mnemonic = "capable amazing best absurd exile seat forest happy gentle unaware never aisle";

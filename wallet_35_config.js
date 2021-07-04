@@ -1,1 +1,1 @@
-var mnemonic = "hub divert similar trial refuse favorite glare sense inch joke quarter vessel";
+var mnemonic = "chair share rent fly goat jealous weather pony piece promote puzzle brick";

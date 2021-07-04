@@ -1,1 +1,1 @@
-var mnemonic = "observe own drill learn beyond enhance cricket clay bone stay galaxy truck";
+var mnemonic = "try private verb history worry inform school rice employ weekend farm unfold";

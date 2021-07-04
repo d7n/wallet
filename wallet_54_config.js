@@ -1,1 +1,1 @@
-var mnemonic = "obtain crater motor romance spy decline hub replace bless build appear brass";
+var mnemonic = "glare observe price hurry again shoulder alien height snow bounce polar trim";

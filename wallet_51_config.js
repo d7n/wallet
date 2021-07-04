@@ -1,1 +1,1 @@
-var mnemonic = "maid raise sauce marine diet lemon maid lazy toast buddy bar unhappy";
+var mnemonic = "congress sock trap liar oyster image potato magic lava illness nose acquire";

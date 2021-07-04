@@ -1,1 +1,1 @@
-var mnemonic = "bargain exchange result allow ecology trumpet castle axis near enforce light cousin";
+var mnemonic = "clump input vague mammal exit gather vast wing ridge feed stadium account";

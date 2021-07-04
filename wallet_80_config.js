@@ -1,1 +1,1 @@
-var mnemonic = "future wasp season clock blue beauty swallow length head barely sword zebra";
+var mnemonic = "huge dove beauty galaxy pool hole fit other length thing master wave";

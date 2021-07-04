@@ -1,1 +1,1 @@
-var mnemonic = "swear vehicle pumpkin smart demand tornado crime erode island fragile history clump";
+var mnemonic = "outer harvest jealous knee language tobacco street dice inner ride electric now";

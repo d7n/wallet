@@ -1,1 +1,1 @@
-var mnemonic = "parrot just knock avocado lion march bundle sniff kingdom talent rib defy";
+var mnemonic = "horn panda desert target gym student quarter time tornado west arrest else";

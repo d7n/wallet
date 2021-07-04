@@ -1,1 +1,1 @@
-var mnemonic = "average cloud pioneer tube cattle chief finger lunar survey carry buffalo grab";
+var mnemonic = "tip holiday cover satoshi curious arrest spray faith smile stomach afraid fatal";

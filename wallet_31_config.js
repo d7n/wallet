@@ -1,1 +1,1 @@
-var mnemonic = "mammal list rice oven swap fault hockey rude tackle coil exist royal";
+var mnemonic = "smooth that fossil stereo final season unable future giant umbrella favorite small";

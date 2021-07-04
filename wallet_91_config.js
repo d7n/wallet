@@ -1,1 +1,1 @@
-var mnemonic = "receive genuine mystery thumb few employ humor salute slush gun chase valley";
+var mnemonic = "hollow outer veteran call album picnic doll object course chaos horror lonely";

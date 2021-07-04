@@ -1,1 +1,1 @@
-var mnemonic = "object wagon high puppy swarm route radio enable inmate all chat popular";
+var mnemonic = "wealth zoo load tiger frown car cool feature teach half faint humble";

@@ -1,1 +1,1 @@
-var mnemonic = "dial win zone dune wheel infant shoulder infant raccoon grow hundred entry";
+var mnemonic = "wine ride huge chimney promote cross voyage rescue push audit often ready";

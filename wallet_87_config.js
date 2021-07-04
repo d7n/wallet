@@ -1,1 +1,1 @@
-var mnemonic = "lab stem engage enhance seek shrug absent organ brisk drink nuclear wrestle";
+var mnemonic = "enrich park tooth biology reward sunny movie quantum chapter funny profit speed";

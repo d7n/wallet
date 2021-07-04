@@ -1,1 +1,1 @@
-var mnemonic = "grow mind oval vibrant little about quarter ozone veteran hybrid divorce minor";
+var mnemonic = "olive negative corn rough dignity execute aware what inform result fruit man";

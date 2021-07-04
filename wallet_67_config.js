@@ -1,1 +1,1 @@
-var mnemonic = "inflict train certain capable chunk round curve candy hint dumb spoon nurse";
+var mnemonic = "clarify sustain erase supreme unaware noble bar obvious hair absorb mosquito pelican";

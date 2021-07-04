@@ -1,1 +1,1 @@
-var mnemonic = "audit bench other mixture elevator mountain bright remove logic domain nose sheriff";
+var mnemonic = "insane vehicle impact segment shock obscure wage wagon search glue type hundred";

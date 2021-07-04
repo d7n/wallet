@@ -1,1 +1,1 @@
-var mnemonic = "sell bracket world measure chase dose bracket aware together leader wasp scare";
+var mnemonic = "anger mixed radar expand forest enrich wrist captain case refuse deposit tomorrow";

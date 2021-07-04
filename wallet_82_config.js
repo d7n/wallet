@@ -1,1 +1,1 @@
-var mnemonic = "cross remember scan crucial wrestle health jar pulse citizen grace awesome twice";
+var mnemonic = "napkin drama season choice amused public chunk type inflict surprise wing obtain";

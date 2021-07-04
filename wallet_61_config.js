@@ -1,1 +1,1 @@
-var mnemonic = "check make edit finger cup draw neck female sleep blade walnut shine";
+var mnemonic = "toward drum gate word language clown monster entry loyal deal sound subway";

@@ -1,1 +1,1 @@
-var mnemonic = "office dwarf fish tobacco actress solve pond roast merit chest cargo novel";
+var mnemonic = "novel easily major ocean harbor habit raise limb way picture scrap inflict";

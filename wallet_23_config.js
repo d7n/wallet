@@ -1,1 +1,1 @@
-var mnemonic = "thunder caution friend repeat illegal lounge apple bleak potato hybrid involve entry";
+var mnemonic = "gather only glimpse tenant review cannon bacon involve sudden drip nice famous";

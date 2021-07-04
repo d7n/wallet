@@ -1,1 +1,1 @@
-var mnemonic = "barrel gate school claw hollow utility antique solar coach certain orange second";
+var mnemonic = "better mandate thrive spend misery whale trap scrap fish ordinary sing mail";

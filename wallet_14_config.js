@@ -1,1 +1,1 @@
-var mnemonic = "carbon soul remember vehicle actual lemon normal chief bicycle wrist science sorry";
+var mnemonic = "school that choose profit couple history cross lobster around differ gather tomorrow";

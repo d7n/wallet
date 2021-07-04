@@ -1,1 +1,1 @@
-var mnemonic = "drama cousin detect chaos private thunder swap luxury nasty treat chef hazard";
+var mnemonic = "paddle weekend deer hard rebuild gorilla abstract flame essay drill donkey dutch";

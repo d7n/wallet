@@ -1,1 +1,1 @@
-var mnemonic = "ensure sheriff exist north fortune force mouse mango fiction hat describe orbit";
+var mnemonic = "year symptom couple apple hurt program current crazy clerk dune snap adult";

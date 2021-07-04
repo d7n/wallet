@@ -1,1 +1,1 @@
-var mnemonic = "struggle way panic trap change enroll harsh muscle will sure comic sustain";
+var mnemonic = "erosion grain check audit soap license pause prepare motor then mean rescue";

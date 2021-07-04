@@ -1,1 +1,1 @@
-var mnemonic = "occur fade latin crowd hill turn panic bright firm butter faculty effort";
+var mnemonic = "enough burden seven palm exhibit dolphin sample govern morning vessel border cradle";

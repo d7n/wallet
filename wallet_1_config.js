@@ -1,1 +1,1 @@
-var mnemonic = "celery bronze tired sell copper swarm local brush same few three ridge";
+var mnemonic = "spy beef path pill three two bread sleep suggest battle inject alone";

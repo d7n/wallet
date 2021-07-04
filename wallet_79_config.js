@@ -1,1 +1,1 @@
-var mnemonic = "gadget cricket task alone equal clap fever garment village render force ice";
+var mnemonic = "top person flame napkin warfare scrub glimpse drum blush divorce universe drop";

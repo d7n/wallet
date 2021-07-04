@@ -1,1 +1,1 @@
-var mnemonic = "tissue champion solution occur involve culture earn victory dance fire skirt more";
+var mnemonic = "wire split glue blanket radio vacant sausage random leader remember kit mixture";

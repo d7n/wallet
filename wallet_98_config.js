@@ -1,1 +1,1 @@
-var mnemonic = "fringe stock document supreme sunny gas wide shadow acid liar alarm forget";
+var mnemonic = "candy over turtle world skin upon involve afraid try final solar velvet";

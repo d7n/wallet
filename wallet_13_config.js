@@ -1,1 +1,1 @@
-var mnemonic = "small beauty snake remain heavy bind craft addict bind scout road skull";
+var mnemonic = "surround junk galaxy prison kind lady van siege crunch educate young tobacco";

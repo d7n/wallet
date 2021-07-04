@@ -1,1 +1,1 @@
-var mnemonic = "angry rough smooth rubber marriage void custom ball erupt cream wheat hand";
+var mnemonic = "useless design doctor maid rhythm trend floor steak hire boil draw space";

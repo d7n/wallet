@@ -1,1 +1,1 @@
-var mnemonic = "hat isolate rapid unveil keen enroll virus ladder atom distance genius twin";
+var mnemonic = "thrive repeat version olympic elephant beyond spring marble record tooth cinnamon draft";

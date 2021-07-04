@@ -1,1 +1,1 @@
-var mnemonic = "armor salon acquire miracle dune suggest dentist stomach satisfy output glare client";
+var mnemonic = "october dial treat relief motor royal leg edge annual body mule radar";

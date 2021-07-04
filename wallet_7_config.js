@@ -1,1 +1,1 @@
-var mnemonic = "tenant leg margin net true slim equal similar battle odor rubber win";
+var mnemonic = "correct achieve project ring axis bridge student bullet scare melt cover sick";

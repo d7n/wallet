@@ -1,1 +1,1 @@
-var mnemonic = "belt mother weasel elevator ripple lucky dog define jeans rebel tip pledge";
+var mnemonic = "elevator express space runway silent tissue assume response lady angle globe that";
