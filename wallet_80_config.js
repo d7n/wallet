@@ -1,1 +1,1 @@
-var mnemonic = "warm strike kiss tackle version attend mouse draft dice inspire magic virtual";
+var mnemonic = "fox fury armor invite copper series parrot mushroom noble random share myth";

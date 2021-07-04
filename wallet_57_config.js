@@ -1,1 +1,1 @@
-var mnemonic = "furnace twin code case travel easily harvest story pipe tell source crane";
+var mnemonic = "upset poverty wealth struggle crane sniff delay crumble shoe bomb champion youth";

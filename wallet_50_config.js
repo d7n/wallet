@@ -1,1 +1,1 @@
-var mnemonic = "dune proud gap forest border member have gorilla focus traffic throw click";
+var mnemonic = "spy merge ozone bulk endorse beach antique worth illness picture fly regular";

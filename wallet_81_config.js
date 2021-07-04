@@ -1,1 +1,1 @@
-var mnemonic = "assume harsh one wrist layer skirt plug thought cattle era achieve february";
+var mnemonic = "broom copy blur lazy grain true cat provide giraffe grit oyster target";

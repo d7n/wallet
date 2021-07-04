@@ -1,1 +1,1 @@
-var mnemonic = "kick judge input worry under trumpet razor sense bamboo nature drill silent";
+var mnemonic = "eyebrow woman pill screen cloth planet error erode tunnel couple vicious problem";

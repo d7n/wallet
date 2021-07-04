@@ -1,1 +1,1 @@
-var mnemonic = "month above gadget sheriff ability alone ivory divert snap copy veteran treat";
+var mnemonic = "advice famous possible endless knee nephew impulse borrow mesh mom blur broken";

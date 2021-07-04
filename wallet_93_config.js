@@ -1,1 +1,1 @@
-var mnemonic = "unit square chair beef social cigar capital dragon tumble apart curve faint";
+var mnemonic = "shine inside muscle repeat idle open drink cactus name guard trash memory";

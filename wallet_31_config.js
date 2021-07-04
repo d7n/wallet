@@ -1,1 +1,1 @@
-var mnemonic = "lesson dish unable cluster private shoe chuckle gallery satoshi lonely belt strategy";
+var mnemonic = "pyramid more sound divert room bench jungle girl leopard hazard flag chapter";

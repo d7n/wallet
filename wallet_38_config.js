@@ -1,1 +1,1 @@
-var mnemonic = "owner ginger effort casino edit weekend happy wasp chimney marine trial buddy";
+var mnemonic = "bar cart discover tenant loud year flight canvas student bottom degree diet";

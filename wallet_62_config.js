@@ -1,1 +1,1 @@
-var mnemonic = "year hybrid earth bird outer source stage visa hidden dog void switch";
+var mnemonic = "toe general idea hope fantasy drink flight screen hurry among thought shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom arrow jacket train loud honey opinion floor online bag nasty maze";
+var mnemonic = "neglect kidney roast cart size noble cash lecture dawn mix card trouble";

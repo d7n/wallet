@@ -1,1 +1,1 @@
-var mnemonic = "lottery old spot include another keen pear share wrestle guitar loyal sister";
+var mnemonic = "swarm guard ready health leader peanut fun unable warrior voice dismiss attack";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato pause fiscal museum merge hedgehog seven clutch peasant warm install piano";
+var mnemonic = "merge brass sort increase letter syrup nephew radio maximum pulse bulk clutch";

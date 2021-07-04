@@ -1,1 +1,1 @@
-var mnemonic = "special creek north pepper ozone panel turtle genuine group capital state amateur";
+var mnemonic = "image inner phone hood color marine expire assume spawn season pioneer borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "under salt strategy hub hidden hurry arm valve coconut panel stomach daring";
+var mnemonic = "edge symptom exit crucial project field pilot filter amount exhaust party diesel";

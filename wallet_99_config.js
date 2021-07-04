@@ -1,1 +1,1 @@
-var mnemonic = "afraid fog balcony lamp vocal lady clerk history position snow weapon solve";
+var mnemonic = "push flush type social praise ring school regular rain provide equal crew";

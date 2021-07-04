@@ -1,1 +1,1 @@
-var mnemonic = "slogan ecology embody fruit smoke bullet rigid present worry enhance naive crazy";
+var mnemonic = "canyon swim account again version supreme danger outer vote hope elite blade";

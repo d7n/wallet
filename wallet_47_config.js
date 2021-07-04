@@ -1,1 +1,1 @@
-var mnemonic = "siren regret oppose gain soccer scare burger barrel napkin retire weather budget";
+var mnemonic = "stick random distance race define diamond nurse coast slab split giraffe monkey";

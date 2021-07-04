@@ -1,1 +1,1 @@
-var mnemonic = "black depart soccer view swim pupil indoor festival expand cube permit clay";
+var mnemonic = "horror zone reduce glad alter hotel custom circle wood sign crush gain";

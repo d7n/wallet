@@ -1,1 +1,1 @@
-var mnemonic = "cruise expect push habit access tuna choose skirt choose loud dove conduct";
+var mnemonic = "detail light fury object indoor medal method pitch used coast sell during";

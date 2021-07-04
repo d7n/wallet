@@ -1,1 +1,1 @@
-var mnemonic = "treat fade ability relax glass absorb fire bike obvious wink just nothing";
+var mnemonic = "index apple horror visit dizzy hospital either win movie build rigid night";

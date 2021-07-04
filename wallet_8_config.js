@@ -1,1 +1,1 @@
-var mnemonic = "ancient need immense gesture wrong sleep vital raw obscure common silver other";
+var mnemonic = "frozen egg unable gold amazing powder sample flush frog grow hockey addict";

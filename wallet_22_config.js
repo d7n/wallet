@@ -1,1 +1,1 @@
-var mnemonic = "design always rose demise deer decrease answer exile report amazing cruise occur";
+var mnemonic = "visa elite flame later wash system dry save tower logic crane slogan";

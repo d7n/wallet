@@ -1,1 +1,1 @@
-var mnemonic = "salon online ethics couple erupt circle flag spy lend mind crumble actor";
+var mnemonic = "faith enrich auto twist craft elephant glare hamster industry sword poet vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "give twice hurt one crucial amazing address mixture lesson buyer mask cat";
+var mnemonic = "include steak oblige sauce endless shock stereo vacuum system rubber gospel shoe";

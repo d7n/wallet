@@ -1,1 +1,1 @@
-var mnemonic = "antenna wave strike seminar rifle deliver health shoe trash young leader isolate";
+var mnemonic = "miracle tooth bomb present shock pause excuse tenant hero grain runway large";

@@ -1,1 +1,1 @@
-var mnemonic = "mention pudding nest regret clock phrase avoid erode rigid version region ranch";
+var mnemonic = "slot cousin nerve replace stove ugly trash surface since skin dismiss stomach";

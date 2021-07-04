@@ -1,1 +1,1 @@
-var mnemonic = "rebel morning friend drum stone priority hint estate name hotel duck pink";
+var mnemonic = "estate away tip any genre rain fall rich day there child chicken";

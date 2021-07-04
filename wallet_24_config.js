@@ -1,1 +1,1 @@
-var mnemonic = "venture neutral estate produce album dust pottery quality impact cement refuse hello";
+var mnemonic = "tent total weasel witness kite place found idle concert casino educate bronze";

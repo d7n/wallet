@@ -1,1 +1,1 @@
-var mnemonic = "cargo obey horror decline butter goat decade govern shoulder catalog beauty buzz";
+var mnemonic = "faculty abuse shallow embody language spy capital general uniform surprise dose praise";

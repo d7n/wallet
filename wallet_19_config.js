@@ -1,1 +1,1 @@
-var mnemonic = "marriage spread lawn obscure number safe rather lens area wisdom nerve extra";
+var mnemonic = "drum stone success minute design basic transfer patch bright call vessel kidney";

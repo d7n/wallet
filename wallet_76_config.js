@@ -1,1 +1,1 @@
-var mnemonic = "vanish output deposit eagle boost diagram hurdle tuna economy horn tuition donate";
+var mnemonic = "broccoli six usage dolphin spatial acid agent author calm finish shift enable";

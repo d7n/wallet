@@ -1,1 +1,1 @@
-var mnemonic = "cry brass song cycle hair museum sport reduce resist fresh truth soccer";
+var mnemonic = "pond cactus opera soup close purpose input old rival vicious forum save";

@@ -1,1 +1,1 @@
-var mnemonic = "electric whip dragon trash there peasant night busy tragic city violin leaf";
+var mnemonic = "lumber pool random thought aspect minor spy raise chef guilt foam cross";

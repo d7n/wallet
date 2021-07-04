@@ -1,1 +1,1 @@
-var mnemonic = "awake sunset mystery cliff hill income clinic spoon since fog truck narrow";
+var mnemonic = "hair yard cancel sleep certain say thing tortoise truly bring mango ranch";

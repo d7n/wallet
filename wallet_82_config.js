@@ -1,1 +1,1 @@
-var mnemonic = "drastic breeze future pumpkin below pipe spend switch lab miss kidney payment";
+var mnemonic = "half neutral milk bounce blame spoon guide kidney save neck jeans bright";

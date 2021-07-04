@@ -1,1 +1,1 @@
-var mnemonic = "fence yard decade law potato mouse hotel term avoid winter interest mix";
+var mnemonic = "stool distance year tail seek purpose stem nut fly dutch balance choice";

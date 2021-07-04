@@ -1,1 +1,1 @@
-var mnemonic = "blood talk live flash huge bar cook brother clump odor vague brave";
+var mnemonic = "crunch dry action sudden path song leg during lady easily aware job";

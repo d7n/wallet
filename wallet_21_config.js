@@ -1,1 +1,1 @@
-var mnemonic = "expand machine magic reunion dose short average lift into fine chicken finger";
+var mnemonic = "tomato calm marriage square twelve exhibit blanket law welcome nest green side";

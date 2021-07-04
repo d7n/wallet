@@ -1,1 +1,1 @@
-var mnemonic = "render carpet wash pitch video rose abandon rib option can deal close";
+var mnemonic = "swap also tiny coffee help warrior spirit keen segment truly hawk admit";

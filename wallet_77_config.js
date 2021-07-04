@@ -1,1 +1,1 @@
-var mnemonic = "few tent dinner famous foam cat because hope peanut robust initial clinic";
+var mnemonic = "differ velvet gesture ghost runway gas argue basket often impact chaos junior";

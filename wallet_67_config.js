@@ -1,1 +1,1 @@
-var mnemonic = "warrior whip usual tornado crumble rate edge narrow trophy finish puzzle blush";
+var mnemonic = "cigar season room analyst mistake table this marble lens laundry tenant balance";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma canyon rubber figure ghost amused buddy trade lunar ozone east rude";
+var mnemonic = "addict toy hair utility impact used puppy employ shed card focus accident";

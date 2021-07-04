@@ -1,1 +1,1 @@
-var mnemonic = "snow panda sign swap front forum side salon wave high super acoustic";
+var mnemonic = "resist skin album method subject then oxygen gallery output banana child multiply";

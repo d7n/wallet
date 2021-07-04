@@ -1,1 +1,1 @@
-var mnemonic = "fat strike web cave antique aware clump match hammer receive shed square";
+var mnemonic = "ritual drama harvest fat awake dizzy happy fetch rib coyote clog great";

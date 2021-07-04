@@ -1,1 +1,1 @@
-var mnemonic = "beach rule cargo abstract rich budget guard dutch drop smooth they foot";
+var mnemonic = "always mushroom uncle measure wild lucky analyst divorce scale frown fat release";

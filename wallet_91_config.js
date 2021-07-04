@@ -1,1 +1,1 @@
-var mnemonic = "shift abuse scorpion below tattoo decide setup abandon silly purpose retire treat";
+var mnemonic = "curious express exclude skill clog fantasy boring dumb decade during record tumble";

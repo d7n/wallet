@@ -1,1 +1,1 @@
-var mnemonic = "person frame couch license process cook team fog truck island real they";
+var mnemonic = "silent want poem legend degree all enemy consider announce mom hello endless";

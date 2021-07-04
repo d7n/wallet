@@ -1,1 +1,1 @@
-var mnemonic = "shell where famous gasp bleak chuckle feed fuel clump decrease pig material";
+var mnemonic = "suit surge ticket lunch kind stamp gas unique faint baby bar stadium";

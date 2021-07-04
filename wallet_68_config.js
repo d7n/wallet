@@ -1,1 +1,1 @@
-var mnemonic = "problem arch birth never scissors trip month crane banana service street inhale";
+var mnemonic = "valid harbor medal wave joy empty awful beauty sight suit silver such";

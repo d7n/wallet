@@ -1,1 +1,1 @@
-var mnemonic = "circle case brush pitch avoid monster flavor angle brand mule act pet";
+var mnemonic = "mask bargain robust leg rib flash beauty escape rigid elevator exit grass";

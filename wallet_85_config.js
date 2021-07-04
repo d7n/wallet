@@ -1,1 +1,1 @@
-var mnemonic = "scrub spatial hover promote welcome stuff pulse virus shell junk fat speed";
+var mnemonic = "desert group balance liquid exhibit edge know rigid want toilet way village";

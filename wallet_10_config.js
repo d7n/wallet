@@ -1,1 +1,1 @@
-var mnemonic = "casino expire wagon sausage trumpet review snack cross extend grow favorite mountain";
+var mnemonic = "curve floor melt diet upper horror door strategy capital symbol surface cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "master mango cactus panda scorpion matrix element mango come purity rural dilemma";
+var mnemonic = "bean silly tornado gasp fly fiber misery inhale general idea involve kit";

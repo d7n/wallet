@@ -1,1 +1,1 @@
-var mnemonic = "inflict either birth smoke blossom civil mimic warm life few need cereal";
+var mnemonic = "world endorse cabin pattern conduct about mimic admit raise rescue pen leader";

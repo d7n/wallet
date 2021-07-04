@@ -1,1 +1,1 @@
-var mnemonic = "anger punch brown vessel tenant that lock drive vault exit end cause";
+var mnemonic = "scale great mixed void mosquito damage meat fence feed regular note motion";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon bitter three shell width consider fine pitch cause shock pony kidney";
+var mnemonic = "stay manage drill clay boring wolf oval lounge modify tree evil grain";

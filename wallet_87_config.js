@@ -1,1 +1,1 @@
-var mnemonic = "start giraffe armor liberty secret mirror hair avocado ready prepare item split";
+var mnemonic = "kit trial upset husband fat exact burst proof giant elegant chapter garbage";

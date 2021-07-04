@@ -1,1 +1,1 @@
-var mnemonic = "crawl rapid celery fork acid arctic twice room actual mushroom awful omit";
+var mnemonic = "fatal affair slow poet birth walnut soft bean hawk ice nasty harvest";

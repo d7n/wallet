@@ -1,1 +1,1 @@
-var mnemonic = "idea devote arrow grid potato rain annual alter runway sniff result account";
+var mnemonic = "dad boring bread accident scout tackle cat duck alpha purity adult still";

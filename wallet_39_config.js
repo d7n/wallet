@@ -1,1 +1,1 @@
-var mnemonic = "barrel brown engine tongue size trouble utility tooth train magnet grit game";
+var mnemonic = "topic autumn excuse biology object soft guide game ankle genius sport flush";

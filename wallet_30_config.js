@@ -1,1 +1,1 @@
-var mnemonic = "stand script theme around glide trick unveil legend brass garage cart wine";
+var mnemonic = "nature advance release source stuff illegal exchange glance lizard mimic vague pottery";

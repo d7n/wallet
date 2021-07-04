@@ -1,1 +1,1 @@
-var mnemonic = "urge expose miracle only body repeat sample parade ketchup science melody bargain";
+var mnemonic = "stand below body lucky labor rival fever gain gun promote pave glare";

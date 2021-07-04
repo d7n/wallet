@@ -1,1 +1,1 @@
-var mnemonic = "luggage found enjoy palm raise maze dose change transfer orbit eyebrow mango";
+var mnemonic = "layer plunge juice fish media version sustain kiss common scare dumb marble";

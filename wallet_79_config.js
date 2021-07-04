@@ -1,1 +1,1 @@
-var mnemonic = "toddler sweet divorce toy chief arrange slight flag youth slice wing width";
+var mnemonic = "twice boil wreck shy hen feed height honey jewel enemy name devote";

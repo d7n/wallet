@@ -1,1 +1,1 @@
-var mnemonic = "void sea square ancient brain connect divert reject mercy waste can artwork";
+var mnemonic = "robust suffer yard burden sword card great theory helmet hole garlic diet";

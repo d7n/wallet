@@ -1,1 +1,1 @@
-var mnemonic = "float system girl grace cost author multiply develop glue old achieve drill";
+var mnemonic = "vital labor pigeon erupt risk size birth critic tornado airport another damage";

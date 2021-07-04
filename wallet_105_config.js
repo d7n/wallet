@@ -1,1 +1,1 @@
-var mnemonic = "plug invite metal coffee airport where decade state nest seven sand boil";
+var mnemonic = "uncle person pet remind busy brand document priority move tube then keen";

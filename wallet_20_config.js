@@ -1,1 +1,1 @@
-var mnemonic = "rotate earn symptom alert spot castle toy palm measure swift believe real";
+var mnemonic = "estate minute nut debate screen tomorrow thought drink capable empty still blur";

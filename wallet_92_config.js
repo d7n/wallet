@@ -1,1 +1,1 @@
-var mnemonic = "blouse broom shrimp polar rival insect vivid lobster rocket flip million siege";
+var mnemonic = "leg art ancient permit peasant suggest tornado announce lion screen shiver monkey";

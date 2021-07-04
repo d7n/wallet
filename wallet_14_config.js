@@ -1,1 +1,1 @@
-var mnemonic = "soap romance morning fossil recall present assault repair hidden melody rely coil";
+var mnemonic = "diesel enrich area impose second celery two high spirit left miss manage";

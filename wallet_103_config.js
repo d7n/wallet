@@ -1,1 +1,1 @@
-var mnemonic = "other square sadness grow error random initial dice daring return nuclear impact";
+var mnemonic = "brick suspect ability legal search fog draft stage unveil dream square lumber";

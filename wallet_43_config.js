@@ -1,1 +1,1 @@
-var mnemonic = "desert roof awake seat dolphin budget average capital dwarf exotic festival flower";
+var mnemonic = "tourist about chef derive injury tourist rule put mixed trigger crumble liar";

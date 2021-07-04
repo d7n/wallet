@@ -1,1 +1,1 @@
-var mnemonic = "hidden trumpet denial luggage soldier fatigue salt dwarf road focus current young";
+var mnemonic = "coconut message trip dynamic orphan local pulp stand scatter bone wedding planet";

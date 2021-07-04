@@ -1,1 +1,1 @@
-var mnemonic = "among jacket volcano diamond push spot feel summer addict firm various build";
+var mnemonic = "canvas bind trend search ribbon knock casual scrub nose short scorpion camera";

@@ -1,1 +1,1 @@
-var mnemonic = "raw guide modify alien grant concert finger frown ticket enrich scale mad";
+var mnemonic = "furnace genre balance game strategy garlic outdoor hood truth fee mammal this";

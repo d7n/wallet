@@ -1,1 +1,1 @@
-var mnemonic = "later rare enough pole coral hawk sound sure merry dawn foil move";
+var mnemonic = "slide winner loan invite net grass laundry point result illness child connect";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow peace fat dirt perfect rate parrot derive vacuum square piano busy";
+var mnemonic = "legend common farm tomato invite super educate hurt despair among grant bubble";

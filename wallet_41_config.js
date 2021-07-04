@@ -1,1 +1,1 @@
-var mnemonic = "mosquito pretty crop outside lucky toy there kind honey supply gown cheese";
+var mnemonic = "powder immune main again fault three voice walnut ostrich foam heavy genuine";

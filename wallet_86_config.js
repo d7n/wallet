@@ -1,1 +1,1 @@
-var mnemonic = "letter option disagree swamp alter creek name dinner tilt food craft scare";
+var mnemonic = "arrow kind worth walnut thing indoor civil bulk comfort pioneer member museum";

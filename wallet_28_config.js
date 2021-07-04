@@ -1,1 +1,1 @@
-var mnemonic = "bind forest add vault right laptop script galaxy cross field fashion right";
+var mnemonic = "weekend hundred purpose short burger brown analyst north price fiber fiction eager";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli address among clock cradle menu lecture cook oven again demise gather";
+var mnemonic = "shine universe amateur hockey couch limb person return scorpion wave exotic thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "salad candy deposit code lab disorder local top film bleak debris spike";
+var mnemonic = "burden life buyer bronze kind effort mean purchase bag shrug nest reject";

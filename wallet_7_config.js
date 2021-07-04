@@ -1,1 +1,1 @@
-var mnemonic = "make erosion trophy pattern leaf fault dad diamond post enable borrow seven";
+var mnemonic = "various multiply dinosaur reveal about village bag album monster wall neglect arch";

@@ -1,1 +1,1 @@
-var mnemonic = "lens satisfy family candy alien fold debris awake shiver shop blast install";
+var mnemonic = "behave license cancel predict book light math surge enable general loud soft";

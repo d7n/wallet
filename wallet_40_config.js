@@ -1,1 +1,1 @@
-var mnemonic = "use junior pony settle runway client harsh final mixed term visual genuine";
+var mnemonic = "stereo can culture month crawl unaware raise amateur empty agree alley security";

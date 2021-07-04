@@ -1,1 +1,1 @@
-var mnemonic = "giggle satisfy alpha phrase mushroom chase act drop rifle decline bag certain";
+var mnemonic = "observe avoid emotion reunion avoid desk skull orient demise ritual eight gate";

@@ -1,1 +1,1 @@
-var mnemonic = "afford tip twin assist phone fiction fuel squirrel old snake review cheese";
+var mnemonic = "undo decade faculty loan wire burden exile panther trial umbrella inform visual";

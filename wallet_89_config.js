@@ -1,1 +1,1 @@
-var mnemonic = "buzz scan install fish round bronze beauty mercy crane vanish move husband";
+var mnemonic = "elbow dirt dash destroy friend mistake comfort mixed grief dish solution bind";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge top donkey sentence print leave daring shadow steel aerobic dial pyramid";
+var mnemonic = "coyote glory before vote box replace dignity lyrics lottery crunch media main";

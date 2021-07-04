@@ -1,1 +1,1 @@
-var mnemonic = "next siege come face coconut school reform unique super model stage clown";
+var mnemonic = "rack pulp below since tiger explain traffic feel few erase pride laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion act math wrist fury salt verb time robust sense caught replace";
+var mnemonic = "online champion tree all faint prize myth soft gold total glad seed";
