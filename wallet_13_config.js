@@ -1,1 +1,1 @@
-var mnemonic = "insane canoe obtain fatigue copper bridge inspire mistake broom whale fresh battle";
+var mnemonic = "unaware off animal recall alter title cherry vast rent regret click tone";

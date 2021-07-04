@@ -1,1 +1,1 @@
-var mnemonic = "goddess denial pyramid drop inherit truth loan bright senior physical measure dry";
+var mnemonic = "suggest enrich tent nuclear heart neck shed road such million foster fun";

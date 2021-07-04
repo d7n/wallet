@@ -1,1 +1,1 @@
-var mnemonic = "level symptom borrow federal throw fold final chef option chicken current offer";
+var mnemonic = "unique orbit gauge win they game supply car near switch pelican obscure";

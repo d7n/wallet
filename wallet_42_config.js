@@ -1,1 +1,1 @@
-var mnemonic = "harsh moment face range riot boss survey uncle donkey hospital because grass";
+var mnemonic = "gown rule flip region ripple chaos pilot capable park section royal bunker";

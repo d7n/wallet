@@ -1,1 +1,1 @@
-var mnemonic = "village whip aware script unaware route alter winter agent item fuel oxygen";
+var mnemonic = "chase number roast ordinary subway found conduct recipe unique sample limb suit";

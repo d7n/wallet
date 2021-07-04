@@ -1,1 +1,1 @@
-var mnemonic = "usual urge rabbit garden coast wild notice copy captain joy wing eyebrow";
+var mnemonic = "wish inhale thing sauce pilot endless exclude glow book bottom return resource";

@@ -1,1 +1,1 @@
-var mnemonic = "advance minor glimpse habit fine net govern rail hard dial evolve fork";
+var mnemonic = "orient gold cruel onion dress jeans surprise iron cherry cruise emerge turkey";

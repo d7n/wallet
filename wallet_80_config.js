@@ -1,1 +1,1 @@
-var mnemonic = "baby theory unusual exchange stereo amused siege beauty agent brother hockey cousin";
+var mnemonic = "double dinosaur brown social cargo gallery science north eyebrow shoot until shrug";

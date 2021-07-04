@@ -1,1 +1,1 @@
-var mnemonic = "artwork awful ritual today apology brass spice bitter fit long thought excite";
+var mnemonic = "spatial evil heavy envelope play gadget alpha argue dutch siren coast mango";

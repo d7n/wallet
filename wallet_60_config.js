@@ -1,1 +1,1 @@
-var mnemonic = "leaf solution lion test patch hen donate around hint struggle approve type";
+var mnemonic = "swing mansion view during copy slab great rescue afraid purity economy permit";

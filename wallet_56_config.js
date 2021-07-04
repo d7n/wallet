@@ -1,1 +1,1 @@
-var mnemonic = "boat crime meat clown call addict december topic gaze relief foil help";
+var mnemonic = "denial pattern remind ladder version sorry sort smile uphold melt erase deposit";

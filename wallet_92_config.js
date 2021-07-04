@@ -1,1 +1,1 @@
-var mnemonic = "attitude diet hire skull repeat also forward wonder decline beef carry please";
+var mnemonic = "layer render hedgehog nasty steak pave post seed strong boss silver wood";

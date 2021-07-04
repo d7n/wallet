@@ -1,1 +1,1 @@
-var mnemonic = "toward alley series mutual off title wear say royal rival blouse chalk";
+var mnemonic = "blast split sound absent medal habit divide digital segment describe violin cinnamon";

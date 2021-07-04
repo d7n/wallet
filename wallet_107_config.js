@@ -1,1 +1,1 @@
-var mnemonic = "announce plastic saddle join better entry card invite carry skate stick message";
+var mnemonic = "robot lab erode destroy busy unfold section lyrics exhaust defense woman nice";

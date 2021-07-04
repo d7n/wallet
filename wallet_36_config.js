@@ -1,1 +1,1 @@
-var mnemonic = "pioneer wait make power trade volcano inside cinnamon stable exhibit copy develop";
+var mnemonic = "text genuine either quote laundry category bird error keen jungle hockey eight";

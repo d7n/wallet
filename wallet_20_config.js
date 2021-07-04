@@ -1,1 +1,1 @@
-var mnemonic = "believe law purity lottery ceiling upset brown change satisfy broom segment garbage";
+var mnemonic = "cotton biology tackle taxi train blind session jeans badge diary awful summer";

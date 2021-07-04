@@ -1,1 +1,1 @@
-var mnemonic = "old stay camp call ill empty buzz space mountain ostrich latin soldier";
+var mnemonic = "slot force used brown wagon twin wait pig just language elder together";

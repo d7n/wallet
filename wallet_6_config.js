@@ -1,1 +1,1 @@
-var mnemonic = "early industry hamster surround fat project immune direct brief level asset repair";
+var mnemonic = "gate range pony sadness brief sunset pair dial occur foot stumble chimney";

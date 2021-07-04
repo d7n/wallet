@@ -1,1 +1,1 @@
-var mnemonic = "asset earn bind hello mass obvious fossil culture elite tumble enlist say";
+var mnemonic = "client spatial junior verb story flower rich predict memory patrol enhance pole";

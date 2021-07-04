@@ -1,1 +1,1 @@
-var mnemonic = "face hill robot poverty play common shiver nature nephew firm night random";
+var mnemonic = "bomb observe dentist notable outside guitar ozone wisdom reason rigid sad goose";

@@ -1,1 +1,1 @@
-var mnemonic = "agree oak vibrant check color plastic spot physical bar green cage nasty";
+var mnemonic = "type around negative agree script during arctic novel gentle paper observe poverty";

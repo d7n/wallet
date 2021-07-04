@@ -1,1 +1,1 @@
-var mnemonic = "dolphin snack fantasy power become original fee manual success reject myself sniff";
+var mnemonic = "chalk choice solid meat notable little just main gossip curious buddy song";

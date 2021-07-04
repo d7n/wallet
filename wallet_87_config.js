@@ -1,1 +1,1 @@
-var mnemonic = "protect keep spring item plate actual scrub visa spray quantum denial drama";
+var mnemonic = "gate hood defy junior coyote donkey demise oppose enhance topic page beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "quote ethics bring bread van forest choice myself dune tumble smooth execute";
+var mnemonic = "lawsuit right swim festival easily consider twice cup exhaust ring village circle";

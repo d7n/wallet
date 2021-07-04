@@ -1,1 +1,1 @@
-var mnemonic = "control cheap goddess pass puzzle dash cargo grape artefact barely regular urge";
+var mnemonic = "outer bronze clever useful web eternal false patrol club squeeze theme balcony";

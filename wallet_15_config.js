@@ -1,1 +1,1 @@
-var mnemonic = "cloud middle smoke copper duck garage toilet other jaguar such cat craft";
+var mnemonic = "safe royal connect ride medal deer swallow matter dose kitten purpose pill";

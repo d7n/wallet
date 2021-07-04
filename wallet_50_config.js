@@ -1,1 +1,1 @@
-var mnemonic = "nominee web garage tide borrow super gain avocado story glue army sheriff";
+var mnemonic = "fun cricket setup coin fortune awake outer insect cluster original airport torch";

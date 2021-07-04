@@ -1,1 +1,1 @@
-var mnemonic = "raccoon pulse maximum oblige gun vote patrol wagon candy one jelly sweet";
+var mnemonic = "cigar bonus female crime fan sibling umbrella belt become quarter sausage charge";

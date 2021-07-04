@@ -1,1 +1,1 @@
-var mnemonic = "punch genius lecture pave such depend lucky else garment train virtual drip";
+var mnemonic = "you stand effort keep whip jaguar phone calm beef almost wedding category";

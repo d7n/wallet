@@ -1,1 +1,1 @@
-var mnemonic = "follow key minute quick shoe eight tank outside ask agree woman fork";
+var mnemonic = "gospel rack grace empty seven castle hedgehog despair fault rare disorder parent";

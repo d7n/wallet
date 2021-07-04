@@ -1,1 +1,1 @@
-var mnemonic = "pink return result kid shoe orphan police piano scene cushion festival sentence";
+var mnemonic = "crucial uncover candy junk nose favorite rally bitter social pool oppose depend";

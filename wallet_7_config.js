@@ -1,1 +1,1 @@
-var mnemonic = "comic amateur relief eyebrow ask entire gravity height jeans screen genius giant";
+var mnemonic = "culture web just detect eight allow sorry boil parade priority jeans diesel";

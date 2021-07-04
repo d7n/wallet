@@ -1,1 +1,1 @@
-var mnemonic = "inside oil feed journey pledge album deny flat script grit hockey crane";
+var mnemonic = "solid labor loop mechanic dove elite open amount slight excess accuse blast";

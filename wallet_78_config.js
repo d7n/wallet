@@ -1,1 +1,1 @@
-var mnemonic = "flat gesture puzzle enrich zero acoustic thumb chief cart solar lesson exclude";
+var mnemonic = "apart cruel gauge wave filter wood make settle jar proud chicken winner";

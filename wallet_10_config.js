@@ -1,1 +1,1 @@
-var mnemonic = "purpose destroy salmon strong hole census absent focus toy welcome together neglect";
+var mnemonic = "cattle type stone candy deer owner check mosquito hill today fatigue sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid various truth design loyal brother benefit shop dress stereo debris light";
+var mnemonic = "raw zebra meadow upset obtain worry also couch remind firm govern unknown";

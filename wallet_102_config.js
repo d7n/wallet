@@ -1,1 +1,1 @@
-var mnemonic = "skull picnic hammer plate mouse hour smart law comic chimney cliff check";
+var mnemonic = "neglect decline slender impulse carpet modify harvest large online rather peace rival";

@@ -1,1 +1,1 @@
-var mnemonic = "giant subway picture slow capable cancel torch puzzle solar false twelve fragile";
+var mnemonic = "federal private pledge filter room punch rude only size test display razor";

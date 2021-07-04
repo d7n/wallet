@@ -1,1 +1,1 @@
-var mnemonic = "flavor opera artist adapt rain used connect april scrap various paddle truly";
+var mnemonic = "analyst ethics ring page arrange fitness half chronic scatter train lobster release";

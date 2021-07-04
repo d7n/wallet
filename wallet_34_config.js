@@ -1,1 +1,1 @@
-var mnemonic = "skill lens sample genre strike hub describe gold thrive term fan prevent";
+var mnemonic = "ritual ten gospel indicate nerve fox kite lemon minor melody coffee shock";

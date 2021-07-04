@@ -1,1 +1,1 @@
-var mnemonic = "soldier trade cart keen text famous pink omit bus control merit canal";
+var mnemonic = "response attack crane charge awkward brass menu victory canvas recipe use quarter";

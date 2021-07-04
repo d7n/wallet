@@ -1,1 +1,1 @@
-var mnemonic = "chief gauge reject fix junk light palm adjust ugly minimum daughter mask";
+var mnemonic = "seat spread clutch view soup drive carpet icon magnet any amazing copy";

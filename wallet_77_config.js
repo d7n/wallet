@@ -1,1 +1,1 @@
-var mnemonic = "year pink regret devote secret deny decade music abstract family couple egg";
+var mnemonic = "donate belt mad merry spray celery solve zebra table cave supply album";

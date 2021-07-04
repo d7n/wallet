@@ -1,1 +1,1 @@
-var mnemonic = "screen drive grow humble spoil monkey all wise usage castle autumn minimum";
+var mnemonic = "float notice need latin animal man relief tissue stereo dumb protect plastic";

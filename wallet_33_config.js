@@ -1,1 +1,1 @@
-var mnemonic = "until hockey tuna mean give amateur orient desert speak mixture kingdom cause";
+var mnemonic = "divide physical grunt cattle warfare autumn approve champion hair often unknown elephant";

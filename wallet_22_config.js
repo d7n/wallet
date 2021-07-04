@@ -1,1 +1,1 @@
-var mnemonic = "cousin good album clip giraffe elder category nasty subway error huge uncle";
+var mnemonic = "celery limit smart flight gentle popular vendor execute diamond student solve record";

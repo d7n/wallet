@@ -1,1 +1,1 @@
-var mnemonic = "medal dress congress diamond raise uncover fuel parent destroy industry april grape";
+var mnemonic = "organ siege escape all debate leaf broccoli wealth invite oak liquid rug";

@@ -1,1 +1,1 @@
-var mnemonic = "hour affair accident dose boost kidney urban tragic unveil rocket museum jar";
+var mnemonic = "banner pottery awake carpet toddler person list junior weather knee violin defense";

@@ -1,1 +1,1 @@
-var mnemonic = "tray helmet youth bean achieve situate sniff educate monitor crop exchange island";
+var mnemonic = "now brass ketchup panther system melt cry tag raven input twice craft";

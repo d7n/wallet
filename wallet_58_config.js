@@ -1,1 +1,1 @@
-var mnemonic = "help found sibling demand reject license reform coral time bicycle boss task";
+var mnemonic = "message estate tide absurd use purchase absorb expect blush cycle virtual utility";

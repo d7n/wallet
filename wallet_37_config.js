@@ -1,1 +1,1 @@
-var mnemonic = "clock tongue tackle save ridge swallow method grit topple tip ghost floor";
+var mnemonic = "perfect trash edit elder curious congress urge into salmon tone caution team";

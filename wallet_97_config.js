@@ -1,1 +1,1 @@
-var mnemonic = "daughter heart salt state defense hunt rather spell hurt ladder acoustic occur";
+var mnemonic = "corn autumn antique ship any invest radio field crawl close spray use";

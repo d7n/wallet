@@ -1,1 +1,1 @@
-var mnemonic = "wear voice black perfect pattern claw hard solid away sand design clutch";
+var mnemonic = "wrestle spoon trash pizza coach motor left elbow quit reveal wood ginger";

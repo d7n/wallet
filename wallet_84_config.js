@@ -1,1 +1,1 @@
-var mnemonic = "renew half tomorrow feature man book spin venture put split rack result";
+var mnemonic = "save myth reward ketchup capable talk blast frame moment misery pear emerge";

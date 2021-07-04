@@ -1,1 +1,1 @@
-var mnemonic = "chunk aspect glow daughter believe spider common huge pulp genre waste quarter";
+var mnemonic = "monitor magic gauge board bar gorilla flee absurd hockey lecture business reform";

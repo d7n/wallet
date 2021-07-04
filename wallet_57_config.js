@@ -1,1 +1,1 @@
-var mnemonic = "weekend image produce rose valid act remind fetch supreme voyage wash crawl";
+var mnemonic = "bone polar final room bus below trap evolve model symptom round pizza";

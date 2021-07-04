@@ -1,1 +1,1 @@
-var mnemonic = "agent cat subject glimpse ugly sick begin thumb harbor tank wolf faith";
+var mnemonic = "glare screen ill orient powder lounge wall twenty accuse record beauty network";

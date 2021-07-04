@@ -1,1 +1,1 @@
-var mnemonic = "soft fancy category pipe buffalo enough miss south basket tell clip figure";
+var mnemonic = "reason fiber target pony shine frown bachelor toddler key entry surge price";

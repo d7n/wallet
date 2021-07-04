@@ -1,1 +1,1 @@
-var mnemonic = "monster reopen owner accuse crunch harbor cupboard wage castle black defense kick";
+var mnemonic = "concert receive garbage grace frog bundle neck cause husband remember panel wedding";

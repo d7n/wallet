@@ -1,1 +1,1 @@
-var mnemonic = "virtual ask romance minimum theory review embrace measure exile depart mass crucial";
+var mnemonic = "tobacco reject joy song float angle fiction essay rebuild error twist near";

@@ -1,1 +1,1 @@
-var mnemonic = "apple attitude affair gap family force remain border sea file outer library";
+var mnemonic = "cannon give auction mansion desert flash display legal limb fit inform forest";

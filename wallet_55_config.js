@@ -1,1 +1,1 @@
-var mnemonic = "nephew hat learn praise defy negative achieve friend ahead fortune suspect uphold";
+var mnemonic = "hand eager ozone heart rather hunt hold wrong eagle slide left denial";

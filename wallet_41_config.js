@@ -1,1 +1,1 @@
-var mnemonic = "broken swing route wash apple metal depend basket grace middle permit snap";
+var mnemonic = "deputy flame riot announce party become west outer welcome mandate nice trend";

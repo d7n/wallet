@@ -1,1 +1,1 @@
-var mnemonic = "spring meat divide wisdom limit man erase coffee bounce hero once question";
+var mnemonic = "cactus case beach action rare click orphan copper squeeze happy creek flower";

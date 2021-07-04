@@ -1,1 +1,1 @@
-var mnemonic = "amazing sausage list advice doctor ostrich light cargo still gesture lunch over";
+var mnemonic = "pact trial glide explain vicious lizard cliff test marriage curtain nature multiply";

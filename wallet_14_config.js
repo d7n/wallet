@@ -1,1 +1,1 @@
-var mnemonic = "turtle tourist rival snake annual drop cigar protect maple you obey crucial";
+var mnemonic = "still few south cradle lab fantasy crush judge theory comic cricket salad";

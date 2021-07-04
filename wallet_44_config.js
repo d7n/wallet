@@ -1,1 +1,1 @@
-var mnemonic = "orchard cereal violin accuse stick lion plug harvest dumb doctor rally awesome";
+var mnemonic = "reopen oak evidence example pact puzzle window inherit illegal village fragile dune";

@@ -1,1 +1,1 @@
-var mnemonic = "tide season screen element bacon dirt spread front nice income nuclear grid";
+var mnemonic = "actor van village resist agent similar eternal stereo quarter hotel tank segment";

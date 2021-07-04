@@ -1,1 +1,1 @@
-var mnemonic = "acoustic girl miss bag cattle distance divorce saddle dwarf token network destroy";
+var mnemonic = "source define weekend marriage fine clock front arrange gentle kit dirt find";

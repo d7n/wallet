@@ -1,1 +1,1 @@
-var mnemonic = "negative blame tornado trash blush type visual cage neck artwork moment gravity";
+var mnemonic = "oxygen dwarf govern visa peace borrow brick draw movie success dove before";

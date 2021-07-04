@@ -1,1 +1,1 @@
-var mnemonic = "host delay mass similar enhance avoid lens depth soon odor siren business";
+var mnemonic = "shed powder forest dad maximum salute pride melt minimum people caught floor";

@@ -1,1 +1,1 @@
-var mnemonic = "come giggle syrup file direct useful raven awkward steel sample scheme photo";
+var mnemonic = "north boss unable artwork gain second call siege essay brush stumble toy";

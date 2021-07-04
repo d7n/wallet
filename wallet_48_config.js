@@ -1,1 +1,1 @@
-var mnemonic = "rug connect genre joy innocent fiction trip wagon project never refuse patch";
+var mnemonic = "picnic among second wheel novel loan pledge nasty ribbon ignore snack chunk";

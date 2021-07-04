@@ -1,1 +1,1 @@
-var mnemonic = "produce planet hotel panic better trigger brisk cook paddle plate cloth mountain";
+var mnemonic = "float bounce acoustic occur frequent shop tissue divorce act journey mango trust";

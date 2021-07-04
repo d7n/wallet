@@ -1,1 +1,1 @@
-var mnemonic = "cancel add float absurd couple pear mention glare piece excuse museum special";
+var mnemonic = "fashion innocent leg oblige organ east solution scatter man kidney neglect praise";

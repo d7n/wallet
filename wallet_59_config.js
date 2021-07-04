@@ -1,1 +1,1 @@
-var mnemonic = "phone keep toward stereo aspect hungry define prefer drama curve soft add";
+var mnemonic = "simple evil hurry betray dad version laundry smile slide call already chair";

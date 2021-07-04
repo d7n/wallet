@@ -1,1 +1,1 @@
-var mnemonic = "meat youth canoe volcano funny inside saddle occur slide cinnamon wink salt";
+var mnemonic = "roof waste ten over decrease retreat window sport shield stairs post make";

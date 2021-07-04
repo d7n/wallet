@@ -1,1 +1,1 @@
-var mnemonic = "music meat hover machine inner window awake ranch hundred certain great morning";
+var mnemonic = "orange donate orange raven adapt slush urge enrich travel sample hunt multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "rely shrimp pill beach spell toilet over jump brown curtain bronze magnet";
+var mnemonic = "vacant among economy utility camp album bunker isolate pool step phrase border";

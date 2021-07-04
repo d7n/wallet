@@ -1,1 +1,1 @@
-var mnemonic = "bacon peanut chunk rocket brave tattoo silly crack ocean loan can mountain";
+var mnemonic = "diagram prevent congress govern canyon click dad satisfy tattoo payment sing acid";

@@ -1,1 +1,1 @@
-var mnemonic = "comic genre goddess maid silly job say fish mushroom gun surge picture";
+var mnemonic = "plunge retreat riot feed dizzy crouch nasty finish tool sound south trend";

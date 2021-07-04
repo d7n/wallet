@@ -1,1 +1,1 @@
-var mnemonic = "antenna deal problem volume client still embody turn suggest stumble rate alert";
+var mnemonic = "now public require jealous dice east erase circle open trend ball friend";

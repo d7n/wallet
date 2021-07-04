@@ -1,1 +1,1 @@
-var mnemonic = "entire fence urge memory vessel latin champion divide hawk assist display priority";
+var mnemonic = "icon clerk couch grab local hour matrix case weapon record drum oppose";

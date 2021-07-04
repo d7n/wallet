@@ -1,1 +1,1 @@
-var mnemonic = "spot liberty leisure ranch mother anxiety lava leg okay apology syrup cupboard";
+var mnemonic = "funny crime coconut mule hope know flag mean swim staff absurd comfort";

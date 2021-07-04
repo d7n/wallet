@@ -1,1 +1,1 @@
-var mnemonic = "garlic maze weird erupt language cage erupt rough radar pottery proof gaze";
+var mnemonic = "ocean donkey girl decrease pride lawn bubble tobacco cause example mountain virus";

@@ -1,1 +1,1 @@
-var mnemonic = "truck balcony copper crucial fan word parrot pole lesson recipe chunk invest";
+var mnemonic = "dutch pretty banner cram song young term fantasy accuse recycle rhythm cry";

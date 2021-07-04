@@ -1,1 +1,1 @@
-var mnemonic = "margin license horror divert elegant negative hour pet steel brown chunk soon";
+var mnemonic = "club govern raw version poet thunder display garment ripple usage virus jacket";

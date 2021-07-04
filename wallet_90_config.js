@@ -1,1 +1,1 @@
-var mnemonic = "gospel report piano topple fitness draw message swear priority survey text regret";
+var mnemonic = "okay number depend elbow direct brand man evoke moral produce gallery ring";

@@ -1,1 +1,1 @@
-var mnemonic = "deal dry fire aspect absurd east birth news hurry morning cousin spice";
+var mnemonic = "blast sorry interest hurry pill select sting response gadget auction honey pudding";

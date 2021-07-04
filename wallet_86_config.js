@@ -1,1 +1,1 @@
-var mnemonic = "earn rich casino worth army rug light crush medal electric scissors ready";
+var mnemonic = "carry civil robot trigger forget together scrap mail neutral skin certain oxygen";
