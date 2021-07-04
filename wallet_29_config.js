@@ -1,1 +1,1 @@
-var mnemonic = "issue foam truly inspire pelican amazing october nephew palm shallow measure injury";
+var mnemonic = "inch crush ranch engine stomach replace blame mule okay modify march turn";

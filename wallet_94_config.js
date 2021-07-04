@@ -1,1 +1,1 @@
-var mnemonic = "wife live menu eight own quiz write hold cloth check shop lunch";
+var mnemonic = "crucial acquire excuse sphere degree manage submit warfare style screen quality essence";

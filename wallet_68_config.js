@@ -1,1 +1,1 @@
-var mnemonic = "correct before false upgrade erode hedgehog say fruit scout cheap multiply ecology";
+var mnemonic = "gift sing mail present short inherit raw guard cover bracket poem bind";

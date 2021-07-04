@@ -1,1 +1,1 @@
-var mnemonic = "reform barrel solar great assume word control leader birth velvet output lazy";
+var mnemonic = "power segment average loyal cigar toss grace renew raccoon tell pepper fiction";

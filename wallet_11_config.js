@@ -1,1 +1,1 @@
-var mnemonic = "into age jar step attack orient guide nominee stove skirt impulse frame";
+var mnemonic = "party misery effort bird mom govern autumn swarm film use diet chef";

@@ -1,1 +1,1 @@
-var mnemonic = "below meat raw trophy lunch provide tennis empty myself category original neutral";
+var mnemonic = "blast weather relax journey spoil interest swamp tube fragile boost join system";

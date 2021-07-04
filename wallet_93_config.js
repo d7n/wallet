@@ -1,1 +1,1 @@
-var mnemonic = "portion high pass time inspire foot lucky ten buzz arctic degree salt";
+var mnemonic = "diesel grain toward joy lemon stool tilt latin amount current weapon razor";

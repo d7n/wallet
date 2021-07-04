@@ -1,1 +1,1 @@
-var mnemonic = "present lady together elbow spy require bus copper rack front drift sun";
+var mnemonic = "gauge ozone copy load gesture slice supreme behind north crouch math open";

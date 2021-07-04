@@ -1,1 +1,1 @@
-var mnemonic = "pact obvious piece master detect nothing bar aisle better paddle notable language";
+var mnemonic = "silent frozen gather major palace sound sting faint display hunt loud fluid";

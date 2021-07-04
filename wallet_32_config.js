@@ -1,1 +1,1 @@
-var mnemonic = "fruit alert also runway comfort fringe rough monster divorce canal table cheese";
+var mnemonic = "deliver menu blade diary grain royal drive globe web transfer pole whale";

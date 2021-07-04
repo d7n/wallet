@@ -1,1 +1,1 @@
-var mnemonic = "flip glance bundle hockey polar pottery fox poet renew solid rescue smooth";
+var mnemonic = "online credit answer guilt park load airport holiday whip horn zoo inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "brass grief cabin ten park fade comfort always shed sign despair submit";
+var mnemonic = "carpet forget pass uncle waste orange term enhance board situate tool hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "flower spray gossip route master useless girl slide between jazz empty panel";
+var mnemonic = "odor captain burst enrich december latin device seek toddler insect embrace purpose";

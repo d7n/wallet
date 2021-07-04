@@ -1,1 +1,1 @@
-var mnemonic = "month scout slight negative donor cereal broccoli sound fossil mansion pact scrap";
+var mnemonic = "loop ahead inflict erase venture love tone person exotic shop faculty zone";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp dial example prefer museum float sketch miracle split vacant rhythm bomb";
+var mnemonic = "rose fragile toward erosion manual lecture mention anchor sing claw kangaroo derive";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger reveal soap doll senior doll bamboo flight destroy gadget basic icon";
+var mnemonic = "swarm day cry song mutual various nature around pottery bird receive insane";

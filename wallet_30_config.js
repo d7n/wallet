@@ -1,1 +1,1 @@
-var mnemonic = "bounce fit palm copper spider enter math hurdle become project antenna cradle";
+var mnemonic = "patrol exact treat pigeon limit proof raccoon all shock canyon chimney badge";

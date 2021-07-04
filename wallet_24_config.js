@@ -1,1 +1,1 @@
-var mnemonic = "purpose rookie material gun august near husband jeans elephant excess wedding unlock";
+var mnemonic = "bachelor van afford sure census dawn liar ancient century body roast middle";

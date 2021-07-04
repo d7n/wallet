@@ -1,1 +1,1 @@
-var mnemonic = "fitness outer milk farm seat inhale hip license diamond program borrow pioneer";
+var mnemonic = "time flavor company crystal blouse reason walnut dutch naive income rough labor";

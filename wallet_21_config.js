@@ -1,1 +1,1 @@
-var mnemonic = "bread march wait excite tape pave car worry various vote rocket coffee";
+var mnemonic = "castle harvest mountain game half cannon essence bullet festival unique snake lend";

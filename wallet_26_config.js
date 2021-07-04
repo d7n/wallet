@@ -1,1 +1,1 @@
-var mnemonic = "trick minor million note rhythm hover proof mule eagle medal message spawn";
+var mnemonic = "lemon damp science crush chronic cushion radio hair wear violin glance menu";

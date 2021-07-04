@@ -1,1 +1,1 @@
-var mnemonic = "case idle viable under orange wet retreat when interest crunch forest claw";
+var mnemonic = "family stage biology palace milk drive cube fetch trick swing tape slot";

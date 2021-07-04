@@ -1,1 +1,1 @@
-var mnemonic = "genuine gorilla glance thunder powder pumpkin true egg dune ankle purpose aisle";
+var mnemonic = "digital bamboo leg fatal eye candy decrease program hard despair number junior";

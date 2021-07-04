@@ -1,1 +1,1 @@
-var mnemonic = "shop bean daughter breeze cloud drive deny urban gesture daring make crunch";
+var mnemonic = "require rebel genre tool cake swift glow trick piece there enter when";

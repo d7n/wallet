@@ -1,1 +1,1 @@
-var mnemonic = "hungry wait banner cube column rhythm usage pitch stove coconut armed melody";
+var mnemonic = "unknown cash wrestle eyebrow today pole art wet series gorilla ocean again";

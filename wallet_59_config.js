@@ -1,1 +1,1 @@
-var mnemonic = "pigeon split fringe steel nice gospel inhale void demand evolve physical interest";
+var mnemonic = "enforce high stage actress sphere step glance boost thumb beef food travel";

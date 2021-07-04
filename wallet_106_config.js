@@ -1,1 +1,1 @@
-var mnemonic = "car deposit either relief layer diagram lobster power panther lab unfair orange";
+var mnemonic = "about sword warfare relax grunt menu need dog umbrella indoor pizza enlist";

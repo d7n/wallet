@@ -1,1 +1,1 @@
-var mnemonic = "area galaxy mention latin hazard sketch obtain income snake soda peace pioneer";
+var mnemonic = "vault equal robust sugar shallow burst crack alpha critic village correct road";

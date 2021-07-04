@@ -1,1 +1,1 @@
-var mnemonic = "envelope quarter open mansion rug raven long inhale affair alone decade among";
+var mnemonic = "that garment cross face maximum pizza measure spike wheel hammer robust airport";

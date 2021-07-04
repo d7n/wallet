@@ -1,1 +1,1 @@
-var mnemonic = "you limb vital flush marine coffee urge ostrich monster hospital banner decide";
+var mnemonic = "proud myself relax alcohol supreme cattle decorate clinic box uncle double wealth";

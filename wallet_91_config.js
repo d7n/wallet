@@ -1,1 +1,1 @@
-var mnemonic = "liar worry junior obey dad moment bomb nasty swarm zoo collect winner";
+var mnemonic = "abstract body will web primary arrest benefit welcome duck mango quick unaware";

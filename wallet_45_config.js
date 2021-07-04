@@ -1,1 +1,1 @@
-var mnemonic = "lab program spike crazy define pass sorry furnace identify eager history below";
+var mnemonic = "guess dry recall twenty dice moral scale aim fine tired dentist grain";

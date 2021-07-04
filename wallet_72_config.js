@@ -1,1 +1,1 @@
-var mnemonic = "cute candy depth often plug comic swamp innocent measure awesome border prevent";
+var mnemonic = "science outer stay abuse output harvest warm must write hub enjoy file";

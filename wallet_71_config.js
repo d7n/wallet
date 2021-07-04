@@ -1,1 +1,1 @@
-var mnemonic = "buddy describe danger syrup draw balcony fog rich under jump illness talk";
+var mnemonic = "clean little sphere describe mosquito width spike news famous hire pioneer camp";

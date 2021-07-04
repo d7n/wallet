@@ -1,1 +1,1 @@
-var mnemonic = "exile author blur march lesson push bar credit moment across lab trend";
+var mnemonic = "alpha nuclear vehicle silent ancient shed recipe ranch endorse exit violin summer";

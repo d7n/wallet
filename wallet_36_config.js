@@ -1,1 +1,1 @@
-var mnemonic = "planet mosquito kangaroo later daughter deputy parent alter demise frog bag reveal";
+var mnemonic = "plastic expire wedding era figure melt embark crane soldier exhaust butter seat";

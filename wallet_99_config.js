@@ -1,1 +1,1 @@
-var mnemonic = "large kid silver artefact wash fire twist piece cross belt cluster analyst";
+var mnemonic = "boring glue suffer notice aware fence old review rotate unaware injury village";

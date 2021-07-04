@@ -1,1 +1,1 @@
-var mnemonic = "half file view actress special aerobic truth upon mango leg angry blame";
+var mnemonic = "spring bag swing first general able arrow menu scheme together fit hollow";

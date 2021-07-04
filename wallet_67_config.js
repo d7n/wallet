@@ -1,1 +1,1 @@
-var mnemonic = "pluck pelican inmate real sting flame error island extra weird local alone";
+var mnemonic = "never vanish solution era situate gap wedding umbrella credit pitch idea clip";

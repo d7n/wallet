@@ -1,1 +1,1 @@
-var mnemonic = "long lonely unhappy glue stock market sauce draw spray spy stuff bamboo";
+var mnemonic = "grow april robust action leave coast label novel dust keep unfold income";

@@ -1,1 +1,1 @@
-var mnemonic = "issue cannon degree miss clay sniff update tray mask ill quick chat";
+var mnemonic = "stick wood angle strong head chunk slice hover material jelly example monitor";

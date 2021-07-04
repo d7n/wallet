@@ -1,1 +1,1 @@
-var mnemonic = "talk mask lawn will exist soccer grief lizard mystery language mad analyst";
+var mnemonic = "copy float right one arm asset dignity pattern bitter beach raise embody";

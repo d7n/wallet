@@ -1,1 +1,1 @@
-var mnemonic = "banner jar mask master tobacco tomorrow market slam soft version chief mass";
+var mnemonic = "frozen grab primary clump run swallow wild emotion luxury surround damage cruise";

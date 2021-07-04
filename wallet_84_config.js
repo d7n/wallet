@@ -1,1 +1,1 @@
-var mnemonic = "crazy simple skin gadget credit peasant assist under funny render good rabbit";
+var mnemonic = "rate firm quarter talent icon bid hedgehog slam point earth rug predict";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit recall balance suit captain head east black culture laundry hurt slogan";
+var mnemonic = "diary cart reason gift this bread novel bind another special news divide";

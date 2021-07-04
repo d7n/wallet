@@ -1,1 +1,1 @@
-var mnemonic = "unfold stable gaze blade drum client buffalo entry web dish crop kangaroo";
+var mnemonic = "risk pluck history chicken device nominee siege link reason digital labor slot";

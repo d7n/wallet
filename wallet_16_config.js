@@ -1,1 +1,1 @@
-var mnemonic = "butter danger enforce rib train onion trophy outer hollow tray glimpse hospital";
+var mnemonic = "verify tortoise roast visa wheat close exchange honey shift approve warfare long";

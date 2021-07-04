@@ -1,1 +1,1 @@
-var mnemonic = "annual volcano border public slam crouch beauty yard wood deliver trip vague";
+var mnemonic = "open kidney address size trust usage face bronze lawsuit badge acoustic asset";

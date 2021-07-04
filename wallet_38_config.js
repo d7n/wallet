@@ -1,1 +1,1 @@
-var mnemonic = "nest tonight warm cook mule alarm elite decade punch eagle own photo";
+var mnemonic = "spot train sample asset belt knock weather midnight answer point tobacco harvest";

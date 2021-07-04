@@ -1,1 +1,1 @@
-var mnemonic = "cable chicken flavor awesome scrub pen kangaroo captain improve scrub cluster cable";
+var mnemonic = "possible boil erosion dash update cube elbow moral laugh term maid young";

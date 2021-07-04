@@ -1,1 +1,1 @@
-var mnemonic = "scare cook federal power employ pipe soul liberty explain small result settle";
+var mnemonic = "essence prepare dawn embody ribbon book gesture remove force forget letter desk";

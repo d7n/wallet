@@ -1,1 +1,1 @@
-var mnemonic = "payment shallow muffin base eye step rib asthma enemy wool obey worry";
+var mnemonic = "sea much mom daughter theme range maple cheap warrior lounge swim present";

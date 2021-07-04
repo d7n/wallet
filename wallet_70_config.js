@@ -1,1 +1,1 @@
-var mnemonic = "fee saddle donkey bone punch tobacco achieve collect faint install gadget churn";
+var mnemonic = "pact opera scout art warfare unlock chuckle gift silver electric twin sphere";

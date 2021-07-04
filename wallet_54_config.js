@@ -1,1 +1,1 @@
-var mnemonic = "piano fan ocean hospital swap vicious patient capable either accuse canvas day";
+var mnemonic = "distance monkey wall oppose enable between kiss waste winter also market amateur";

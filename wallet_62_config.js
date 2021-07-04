@@ -1,1 +1,1 @@
-var mnemonic = "aim scatter route boat way help sponsor amateur capable dinosaur pitch piece";
+var mnemonic = "mom labor deal brisk session salon draft daughter arrange cash surround quarter";

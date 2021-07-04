@@ -1,1 +1,1 @@
-var mnemonic = "among village word alpha snake twenty chaos liberty sample have repair zone";
+var mnemonic = "usage teach copy powder network surge marriage what better gun trophy knock";

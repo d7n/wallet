@@ -1,1 +1,1 @@
-var mnemonic = "outside velvet face angry problem elder reward border feed garment parade brain";
+var mnemonic = "because endless foster siren cushion sunny brush sister stay soda borrow high";

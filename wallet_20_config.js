@@ -1,1 +1,1 @@
-var mnemonic = "assume best velvet electric night rug warm few clarify buffalo supreme hurdle";
+var mnemonic = "brave math inject march balcony deliver absorb ostrich champion dwarf state element";

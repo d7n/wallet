@@ -1,1 +1,1 @@
-var mnemonic = "tuna wink lottery flag base angle race tired debate beef twice identify";
+var mnemonic = "hill rug dice ethics train sweet innocent horse language catch hold armed";

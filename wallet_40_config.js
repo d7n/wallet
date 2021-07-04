@@ -1,1 +1,1 @@
-var mnemonic = "long spell order anchor race few review joy sun grape option mirror";
+var mnemonic = "now pride wife hurdle real balance upset anchor crop obtain remain stamp";

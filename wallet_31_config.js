@@ -1,1 +1,1 @@
-var mnemonic = "rent elbow island section slender under december popular shuffle grocery venue milk";
+var mnemonic = "during peasant together capable easy lesson spatial absent exhibit nurse blouse salt";

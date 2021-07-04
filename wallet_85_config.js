@@ -1,1 +1,1 @@
-var mnemonic = "road problem mistake penalty extend raccoon club banana skirt fluid hire height";
+var mnemonic = "youth bone shrug soccer title property sign good silly jeans few scare";

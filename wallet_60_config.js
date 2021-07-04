@@ -1,1 +1,1 @@
-var mnemonic = "humor crazy labor goddess asthma strategy joke jazz nut grid fire anger";
+var mnemonic = "album twin short ugly depend van street burden flower dignity online hurdle";

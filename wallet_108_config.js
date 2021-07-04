@@ -1,1 +1,1 @@
-var mnemonic = "coral drastic strike whisper addict shaft slam cream human rifle dumb color";
+var mnemonic = "cause ride company proof grow soldier repair craft lonely shadow runway lesson";

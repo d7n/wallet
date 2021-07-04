@@ -1,1 +1,1 @@
-var mnemonic = "ignore prevent empower cruel one craft reflect dad movie plug bachelor produce";
+var mnemonic = "episode reward hurt group fall fury lawn east involve aim mass find";

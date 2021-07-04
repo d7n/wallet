@@ -1,1 +1,1 @@
-var mnemonic = "feed pupil arena shrimp entry pottery general learn lift click popular dragon";
+var mnemonic = "ceiling desert icon apple piece spike token outdoor hour accident sphere save";

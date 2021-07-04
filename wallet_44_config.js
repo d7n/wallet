@@ -1,1 +1,1 @@
-var mnemonic = "possible skate burden lazy artefact dismiss elevator pyramid industry again lounge long";
+var mnemonic = "sick tobacco enrich tube horse work cancel doll twice burst wing under";

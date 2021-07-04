@@ -1,1 +1,1 @@
-var mnemonic = "illegal success piece leader satisfy shiver among double slogan elevator access script";
+var mnemonic = "food clever forest model struggle tragic elegant ocean left chunk police dentist";

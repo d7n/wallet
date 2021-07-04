@@ -1,1 +1,1 @@
-var mnemonic = "absurd drastic gloom purse garbage lesson behind vibrant connect then filter hip";
+var mnemonic = "globe trigger turn ahead autumn noise deposit wish swing fun limb lesson";

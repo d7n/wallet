@@ -1,1 +1,1 @@
-var mnemonic = "absorb pyramid spatial off window practice tooth social measure end leg airport";
+var mnemonic = "fly bring entire bench oyster soul fork quarter because oil coil clarify";

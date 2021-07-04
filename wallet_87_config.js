@@ -1,1 +1,1 @@
-var mnemonic = "goose time unusual term cute evolve control eyebrow power attract depend also";
+var mnemonic = "hurry sentence silly text divorce diesel expand desert random foil invest nerve";

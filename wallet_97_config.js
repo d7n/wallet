@@ -1,1 +1,1 @@
-var mnemonic = "price unfold nose flat author scale anxiety hospital clean unfair world vintage";
+var mnemonic = "elegant small decrease since beauty earn venue evoke thought swim spell chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "champion tattoo gentle genius lesson bridge crystal hedgehog tent fossil main casino";
+var mnemonic = "offer chapter order universe path miss pear blind oven urban badge trial";

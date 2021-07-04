@@ -1,1 +1,1 @@
-var mnemonic = "daughter trash select fence museum blossom tennis pilot fatal lab silk expand";
+var mnemonic = "hazard chair baby old apology sand execute wedding basket protect bike jar";

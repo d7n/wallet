@@ -1,1 +1,1 @@
-var mnemonic = "tank target armed lab club fiction weird champion equal scorpion rare pass";
+var mnemonic = "film decorate aunt refuse slam embody outdoor prison hood whisper cave vintage";

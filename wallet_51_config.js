@@ -1,1 +1,1 @@
-var mnemonic = "kit guard album ginger initial property session kite tuition month spy brisk";
+var mnemonic = "area bread swing side rich prize volcano next high lunar build forest";

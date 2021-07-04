@@ -1,1 +1,1 @@
-var mnemonic = "success more remain gym bone atom spin rule island foam flame spike";
+var mnemonic = "then paper mean foam assault lucky parade chronic alert remember raven shine";

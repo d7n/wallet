@@ -1,1 +1,1 @@
-var mnemonic = "age wealth multiply permit cliff fresh ten prize proud predict dress actress";
+var mnemonic = "film require rather feel crunch unit off clinic tube hungry ordinary shift";

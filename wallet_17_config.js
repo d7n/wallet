@@ -1,1 +1,1 @@
-var mnemonic = "twelve arrow west artwork current canvas crouch drop video senior cute around";
+var mnemonic = "wine bullet grow process wild noise pen tool grid depart garbage demand";

@@ -1,1 +1,1 @@
-var mnemonic = "nest just used artwork crystal beach attitude river final road exact oven";
+var mnemonic = "leisure sting space raw steel cannon useless decade tiger rent language friend";

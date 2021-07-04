@@ -1,1 +1,1 @@
-var mnemonic = "swarm october control damp delay hole agree margin enemy raccoon south asset";
+var mnemonic = "fit kidney this matrix absorb betray infant fossil antenna wife merit plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "resource art sentence access call demise grape coil device loud raccoon park";
+var mnemonic = "tide drop damage welcome spoil absorb current butter priority cricket weapon rude";

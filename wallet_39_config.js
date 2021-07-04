@@ -1,1 +1,1 @@
-var mnemonic = "flip insane pride pencil host local violin grab teach finish spike tackle";
+var mnemonic = "civil funny sudden tank sight ticket forest lucky slim hill rule accident";

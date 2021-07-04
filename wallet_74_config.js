@@ -1,1 +1,1 @@
-var mnemonic = "chair lamp ship when despair giggle traffic strong swamp maple add oblige";
+var mnemonic = "render funny empty correct rude elegant any again swim addict nuclear pig";

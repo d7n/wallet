@@ -1,1 +1,1 @@
-var mnemonic = "forest post miracle theory time logic job cheese orchard suggest arrest wall";
+var mnemonic = "electric rebuild observe pave copy glimpse fragile enact suspect plate cycle legend";

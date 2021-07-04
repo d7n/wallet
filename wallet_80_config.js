@@ -1,1 +1,1 @@
-var mnemonic = "fame narrow win brand culture decade misery note kingdom close rhythm purity";
+var mnemonic = "empower hire apart black spider shove smoke weapon amused humor load weapon";

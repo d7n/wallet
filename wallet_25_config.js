@@ -1,1 +1,1 @@
-var mnemonic = "wish toward unable bronze chalk rent boost flag onion napkin violin expose";
+var mnemonic = "comfort author width toss profit cotton like adult burger dress human silver";

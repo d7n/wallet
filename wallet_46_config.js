@@ -1,1 +1,1 @@
-var mnemonic = "crouch photo jazz lizard height maze infant lawsuit senior lion symptom reveal";
+var mnemonic = "supreme topple hawk clown blue figure stick logic agree alarm real comic";

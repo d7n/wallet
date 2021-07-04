@@ -1,1 +1,1 @@
-var mnemonic = "raise gospel skirt later pistol uniform hard pattern need half virus emerge";
+var mnemonic = "noble trap bread gasp combine clarify fabric torch olive seminar project glove";

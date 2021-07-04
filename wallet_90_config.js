@@ -1,1 +1,1 @@
-var mnemonic = "junk balance express barrel frost party axis melt palace gun beach inspire";
+var mnemonic = "diary merry what tone wave sponsor notice tortoise scatter basket furnace pact";

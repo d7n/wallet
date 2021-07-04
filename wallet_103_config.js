@@ -1,1 +1,1 @@
-var mnemonic = "retreat clever various follow tongue stove rose draft simple cloth bottom finger";
+var mnemonic = "unfold doctor waste broccoli kind rose banana summer fluid envelope suit stock";

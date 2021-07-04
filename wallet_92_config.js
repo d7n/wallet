@@ -1,1 +1,1 @@
-var mnemonic = "visa bench debris inch vendor umbrella bring shrug renew success job pause";
+var mnemonic = "off drum meadow trouble adapt trap weekend barrel ranch what casino olive";

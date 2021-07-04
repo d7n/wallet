@@ -1,1 +1,1 @@
-var mnemonic = "piano mix someone bright certain pepper monitor clay genuine neck dirt nerve";
+var mnemonic = "autumn bundle call split please crawl mixture diesel husband theme field magic";

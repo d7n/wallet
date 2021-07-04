@@ -1,1 +1,1 @@
-var mnemonic = "oval morning arctic prison choose embark job maze royal liberty enroll start";
+var mnemonic = "valley become vacuum dinosaur glove box blame dwarf wisdom frown pelican maze";
