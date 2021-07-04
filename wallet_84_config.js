@@ -1,1 +1,1 @@
-var mnemonic = "rate firm quarter talent icon bid hedgehog slam point earth rug predict";
+var mnemonic = "guitar wet pluck nut dress eye purpose border eye grant enhance gauge";

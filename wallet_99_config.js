@@ -1,1 +1,1 @@
-var mnemonic = "boring glue suffer notice aware fence old review rotate unaware injury village";
+var mnemonic = "siege resist morning theme plastic knee hamster bless online clip vacuum advice";

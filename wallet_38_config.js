@@ -1,1 +1,1 @@
-var mnemonic = "spot train sample asset belt knock weather midnight answer point tobacco harvest";
+var mnemonic = "frost vacant ill cupboard stage garage crazy olympic devote vacant fat hen";

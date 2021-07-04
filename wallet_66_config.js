@@ -1,1 +1,1 @@
-var mnemonic = "power segment average loyal cigar toss grace renew raccoon tell pepper fiction";
+var mnemonic = "offer bonus utility upon foam walk bracket until broccoli park stay steak";

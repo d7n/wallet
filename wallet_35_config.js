@@ -1,1 +1,1 @@
-var mnemonic = "pitch joke rice split stick process capital original sound case road quiz";
+var mnemonic = "flower endless half pony shove vague thank lumber dance elite garlic veteran";

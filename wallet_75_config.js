@@ -1,1 +1,1 @@
-var mnemonic = "rose fragile toward erosion manual lecture mention anchor sing claw kangaroo derive";
+var mnemonic = "weasel toe sell learn fury confirm crisp primary sword hybrid quantum daring";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry culture pond provide autumn judge wife coyote learn misery luggage hint";
+var mnemonic = "sphere bar cheese sphere neglect planet harvest style electric youth broken love";

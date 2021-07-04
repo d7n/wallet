@@ -1,1 +1,1 @@
-var mnemonic = "electric rebuild observe pave copy glimpse fragile enact suspect plate cycle legend";
+var mnemonic = "genuine arrest refuse place aim leisure dash key certain garlic quote moral";

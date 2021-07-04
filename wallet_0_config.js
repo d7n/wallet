@@ -1,1 +1,1 @@
-var mnemonic = "food clever forest model struggle tragic elegant ocean left chunk police dentist";
+var mnemonic = "ivory daring vague duty beyond opinion tooth grab pioneer embark worth winter";

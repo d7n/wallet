@@ -1,1 +1,1 @@
-var mnemonic = "pact opera scout art warfare unlock chuckle gift silver electric twin sphere";
+var mnemonic = "price seminar solar salmon protect skirt winner shallow mind exhibit labor target";

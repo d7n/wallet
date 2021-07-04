@@ -1,1 +1,1 @@
-var mnemonic = "carpet forget pass uncle waste orange term enhance board situate tool hedgehog";
+var mnemonic = "jaguar buddy pipe same lawn wing chapter pulp judge update anxiety claim";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol exact treat pigeon limit proof raccoon all shock canyon chimney badge";
+var mnemonic = "cost dad alpha throw moon emerge exist giraffe disease when grunt kind";

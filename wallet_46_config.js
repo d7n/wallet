@@ -1,1 +1,1 @@
-var mnemonic = "supreme topple hawk clown blue figure stick logic agree alarm real comic";
+var mnemonic = "wave address rapid wine able menu kick ritual obvious raise quantum alone";

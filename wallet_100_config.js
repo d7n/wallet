@@ -1,1 +1,1 @@
-var mnemonic = "loop ahead inflict erase venture love tone person exotic shop faculty zone";
+var mnemonic = "age position motion donkey hotel expose dirt alter spread foil salon maid";

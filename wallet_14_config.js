@@ -1,1 +1,1 @@
-var mnemonic = "leisure sting space raw steel cannon useless decade tiger rent language friend";
+var mnemonic = "club churn yellow unaware stem job develop enforce promote image mushroom feature";

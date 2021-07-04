@@ -1,1 +1,1 @@
-var mnemonic = "fly bring entire bench oyster soul fork quarter because oil coil clarify";
+var mnemonic = "mosquito whip virus rigid novel punch tuition damage nasty nation slow jungle";

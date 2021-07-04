@@ -1,1 +1,1 @@
-var mnemonic = "vault equal robust sugar shallow burst crack alpha critic village correct road";
+var mnemonic = "hover fruit thank tenant able bunker august parrot index witness salon spoon";

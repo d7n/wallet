@@ -1,1 +1,1 @@
-var mnemonic = "cause ride company proof grow soldier repair craft lonely shadow runway lesson";
+var mnemonic = "suit boost more level there spoil fashion ride feature seven gate rival";

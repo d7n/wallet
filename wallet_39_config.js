@@ -1,1 +1,1 @@
-var mnemonic = "civil funny sudden tank sight ticket forest lucky slim hill rule accident";
+var mnemonic = "toy fee member galaxy slim stone cotton start globe tooth bracket start";

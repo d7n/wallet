@@ -1,1 +1,1 @@
-var mnemonic = "clean little sphere describe mosquito width spike news famous hire pioneer camp";
+var mnemonic = "exchange access middle pig swift illness outside either giraffe foot disagree airport";

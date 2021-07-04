@@ -1,1 +1,1 @@
-var mnemonic = "student length problem oxygen mention tree blast recall miss regret chicken drift";
+var mnemonic = "tissue fall giant spice rally champion duck noodle pride lonely figure about";

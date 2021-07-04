@@ -1,1 +1,1 @@
-var mnemonic = "verify tortoise roast visa wheat close exchange honey shift approve warfare long";
+var mnemonic = "agree debris render surprise distance oak milk cause adapt measure clerk cigar";

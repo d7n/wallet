@@ -1,1 +1,1 @@
-var mnemonic = "noble trap bread gasp combine clarify fabric torch olive seminar project glove";
+var mnemonic = "spell gaze ordinary muscle bread gospel extra arrange level thunder wheat still";

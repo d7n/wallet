@@ -1,1 +1,1 @@
-var mnemonic = "guess dry recall twenty dice moral scale aim fine tired dentist grain";
+var mnemonic = "grab fade impact rotate recipe camera material swim crane unlock become science";

@@ -1,1 +1,1 @@
-var mnemonic = "stick wood angle strong head chunk slice hover material jelly example monitor";
+var mnemonic = "endorse winner ketchup slam alone trouble analyst dish ready axis awkward skill";

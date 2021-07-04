@@ -1,1 +1,1 @@
-var mnemonic = "offer chapter order universe path miss pear blind oven urban badge trial";
+var mnemonic = "capable tomato text luggage verify fruit chat master shadow bargain pill wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial acquire excuse sphere degree manage submit warfare style screen quality essence";
+var mnemonic = "talk belt sadness expand canoe hover hour price neutral still angle surge";

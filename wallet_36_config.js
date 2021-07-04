@@ -1,1 +1,1 @@
-var mnemonic = "plastic expire wedding era figure melt embark crane soldier exhaust butter seat";
+var mnemonic = "lunch minimum cargo purity tray flush sun mobile cheap fog make uphold";

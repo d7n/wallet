@@ -1,1 +1,1 @@
-var mnemonic = "gauge ozone copy load gesture slice supreme behind north crouch math open";
+var mnemonic = "hub warm uniform apology useful educate angle erupt square tissue notable thought";

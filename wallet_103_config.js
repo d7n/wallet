@@ -1,1 +1,1 @@
-var mnemonic = "unfold doctor waste broccoli kind rose banana summer fluid envelope suit stock";
+var mnemonic = "stamp camera soccer piano lens track gift cloth produce survey dynamic rotate";

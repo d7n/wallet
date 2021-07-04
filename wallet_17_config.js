@@ -1,1 +1,1 @@
-var mnemonic = "wine bullet grow process wild noise pen tool grid depart garbage demand";
+var mnemonic = "defense lucky body divert beauty shadow until pact figure capital clay decide";

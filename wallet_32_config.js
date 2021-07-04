@@ -1,1 +1,1 @@
-var mnemonic = "deliver menu blade diary grain royal drive globe web transfer pole whale";
+var mnemonic = "velvet fruit zoo dove skull core story job horn parent convince plate";

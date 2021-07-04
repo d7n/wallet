@@ -1,1 +1,1 @@
-var mnemonic = "giant demand distance impulse lunar frost wire more fat stable typical snake";
+var mnemonic = "toilet famous normal mixed urge doctor raw length ribbon rude taste grant";

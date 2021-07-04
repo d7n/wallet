@@ -1,1 +1,1 @@
-var mnemonic = "season subject tennis inside wasp soft man judge discover vocal calm husband";
+var mnemonic = "wink theory ski asthma viable body bid audit trend hollow ancient timber";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract body will web primary arrest benefit welcome duck mango quick unaware";
+var mnemonic = "bridge tape blouse anxiety dish lunch shuffle repair exact tackle prevent rookie";

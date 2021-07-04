@@ -1,1 +1,1 @@
-var mnemonic = "distance monkey wall oppose enable between kiss waste winter also market amateur";
+var mnemonic = "despair evolve decorate year bonus tonight menu divorce connect kitten hole injury";

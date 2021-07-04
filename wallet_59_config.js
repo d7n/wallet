@@ -1,1 +1,1 @@
-var mnemonic = "enforce high stage actress sphere step glance boost thumb beef food travel";
+var mnemonic = "legend hint cube please rice beyond fatal include wrap confirm that arrange";

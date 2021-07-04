@@ -1,1 +1,1 @@
-var mnemonic = "valley become vacuum dinosaur glove box blame dwarf wisdom frown pelican maze";
+var mnemonic = "tape alarm unusual race ride venue south muscle twenty office say churn";

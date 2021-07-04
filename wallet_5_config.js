@@ -1,1 +1,1 @@
-var mnemonic = "ceiling desert icon apple piece spike token outdoor hour accident sphere save";
+var mnemonic = "envelope exist script swap tool quit force evil elegant best swallow orbit";

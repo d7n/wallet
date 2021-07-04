@@ -1,1 +1,1 @@
-var mnemonic = "sea much mom daughter theme range maple cheap warrior lounge swim present";
+var mnemonic = "cram general flight lake ethics weekend trumpet boss loop strike sorry zone";

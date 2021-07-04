@@ -1,1 +1,1 @@
-var mnemonic = "film require rather feel crunch unit off clinic tube hungry ordinary shift";
+var mnemonic = "turn move primary topic choice cry patrol bacon heavy desert original dose";

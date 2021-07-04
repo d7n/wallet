@@ -1,1 +1,1 @@
-var mnemonic = "crime myth angry bind entry grid change history broken expect anchor still";
+var mnemonic = "this bargain ring pipe dinosaur delay tide census vote long total august";

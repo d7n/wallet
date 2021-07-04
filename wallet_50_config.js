@@ -1,1 +1,1 @@
-var mnemonic = "then paper mean foam assault lucky parade chronic alert remember raven shine";
+var mnemonic = "regret dilemma snake snack episode route thumb author media crystal truly situate";

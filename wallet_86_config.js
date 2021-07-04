@@ -1,1 +1,1 @@
-var mnemonic = "episode reward hurt group fall fury lawn east involve aim mass find";
+var mnemonic = "unable company unfair card race sure aunt cherry swift swallow robot initial";

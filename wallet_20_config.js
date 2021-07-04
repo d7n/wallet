@@ -1,1 +1,1 @@
-var mnemonic = "brave math inject march balcony deliver absorb ostrich champion dwarf state element";
+var mnemonic = "host clog defense lecture busy junior board page liquid midnight despair proud";

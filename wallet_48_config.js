@@ -1,1 +1,1 @@
-var mnemonic = "blast weather relax journey spoil interest swamp tube fragile boost join system";
+var mnemonic = "remember elegant drive cup rug various coyote bind prison purpose harsh rival";

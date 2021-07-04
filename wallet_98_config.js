@@ -1,1 +1,1 @@
-var mnemonic = "spirit purchase barely spice phone mixture story fitness imitate evoke today ugly";
+var mnemonic = "cousin goat become rather give unhappy liar speed vocal syrup neglect original";

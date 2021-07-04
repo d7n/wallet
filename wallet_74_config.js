@@ -1,1 +1,1 @@
-var mnemonic = "render funny empty correct rude elegant any again swim addict nuclear pig";
+var mnemonic = "attract desk trigger liquid can moment monitor broccoli half coyote addict erase";

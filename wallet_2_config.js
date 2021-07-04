@@ -1,1 +1,1 @@
-var mnemonic = "window exact hungry tail reopen position sibling oblige inch close winter tissue";
+var mnemonic = "trust wide dune unaware faint oil outside enhance exile green improve security";

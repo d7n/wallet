@@ -1,1 +1,1 @@
-var mnemonic = "diesel grain toward joy lemon stool tilt latin amount current weapon razor";
+var mnemonic = "empty border stamp fury scheme settle airport uncle fringe across twelve earn";

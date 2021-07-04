@@ -1,1 +1,1 @@
-var mnemonic = "wear square lab talent journey odor latin actor absorb fish club member";
+var mnemonic = "calm estate general win promote filter such spot demand impulse corn thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "because endless foster siren cushion sunny brush sister stay soda borrow high";
+var mnemonic = "artefact shock ethics mobile stay crunch talent bind remove kind author belt";

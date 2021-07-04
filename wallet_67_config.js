@@ -1,1 +1,1 @@
-var mnemonic = "never vanish solution era situate gap wedding umbrella credit pitch idea clip";
+var mnemonic = "forward either expect true autumn over quarter fence bird alert flock sad";

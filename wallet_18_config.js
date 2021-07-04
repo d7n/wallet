@@ -1,1 +1,1 @@
-var mnemonic = "tide drop damage welcome spoil absorb current butter priority cricket weapon rude";
+var mnemonic = "book trial daughter wedding check keen mercy answer budget reopen blur drill";

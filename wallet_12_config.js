@@ -1,1 +1,1 @@
-var mnemonic = "night actor economy east hint favorite maximum will shoot drill lobster belt";
+var mnemonic = "under exit insane neglect soon burger fatigue action venue rail magnet poet";

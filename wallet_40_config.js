@@ -1,1 +1,1 @@
-var mnemonic = "now pride wife hurdle real balance upset anchor crop obtain remain stamp";
+var mnemonic = "hundred vast delay depart giant popular much confirm birth decorate enroll muscle";

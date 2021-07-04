@@ -1,1 +1,1 @@
-var mnemonic = "risk pluck history chicken device nominee siege link reason digital labor slot";
+var mnemonic = "vocal welcome casino vintage decade disagree wrist similar dress giraffe favorite canyon";

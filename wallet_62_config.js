@@ -1,1 +1,1 @@
-var mnemonic = "mom labor deal brisk session salon draft daughter arrange cash surround quarter";
+var mnemonic = "champion twist enjoy struggle install amateur amused sunny world object attract update";

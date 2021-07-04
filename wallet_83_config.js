@@ -1,1 +1,1 @@
-var mnemonic = "film decorate aunt refuse slam embody outdoor prison hood whisper cave vintage";
+var mnemonic = "hill sketch train wage start mule miracle actor crack fan maid angle";

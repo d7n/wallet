@@ -1,1 +1,1 @@
-var mnemonic = "digital bamboo leg fatal eye candy decrease program hard despair number junior";
+var mnemonic = "confirm whisper resemble grief square rose always direct put rail bargain swamp";

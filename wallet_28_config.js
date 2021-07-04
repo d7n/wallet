@@ -1,1 +1,1 @@
-var mnemonic = "retreat pyramid you write runway master cloth post illness maze first surface";
+var mnemonic = "turn frown mail original require gentle found nurse physical blame either feel";

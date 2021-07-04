@@ -1,1 +1,1 @@
-var mnemonic = "autumn bundle call split please crawl mixture diesel husband theme field magic";
+var mnemonic = "ski seat carbon welcome clock spatial only stamp destroy female sure pitch";

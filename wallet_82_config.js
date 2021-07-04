@@ -1,1 +1,1 @@
-var mnemonic = "hazard chair baby old apology sand execute wedding basket protect bike jar";
+var mnemonic = "legal trap icon area twelve elevator original abandon essence put tuna toss";

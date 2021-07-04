@@ -1,1 +1,1 @@
-var mnemonic = "usage teach copy powder network surge marriage what better gun trophy knock";
+var mnemonic = "youth hour face velvet neither arrive old profit twist equal enemy try";

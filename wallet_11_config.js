@@ -1,1 +1,1 @@
-var mnemonic = "party misery effort bird mom govern autumn swarm film use diet chef";
+var mnemonic = "host pulp step paper seek chunk borrow joke midnight legal dolphin bargain";

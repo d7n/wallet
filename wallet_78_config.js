@@ -1,1 +1,1 @@
-var mnemonic = "proud myself relax alcohol supreme cattle decorate clinic box uncle double wealth";
+var mnemonic = "scorpion grief smile speed smart pony gossip cruel what cross give visa";

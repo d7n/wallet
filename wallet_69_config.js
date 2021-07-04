@@ -1,1 +1,1 @@
-var mnemonic = "silent frozen gather major palace sound sting faint display hunt loud fluid";
+var mnemonic = "slam fine gown brown giggle couple smile stick multiply extra solar there";

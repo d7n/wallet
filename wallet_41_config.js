@@ -1,1 +1,1 @@
-var mnemonic = "frozen grab primary clump run swallow wild emotion luxury surround damage cruise";
+var mnemonic = "sort client chair museum author little account vibrant inherit stem horn frame";

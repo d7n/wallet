@@ -1,1 +1,1 @@
-var mnemonic = "quarter theory angle list expose bridge payment someone sphere front jar plug";
+var mnemonic = "spawn reopen extend legal satisfy salon basic present social fancy various sample";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon damp science crush chronic cushion radio hair wear violin glance menu";
+var mnemonic = "sibling chief ring drive galaxy fix wire ostrich sister ribbon useful harbor";

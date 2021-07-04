@@ -1,1 +1,1 @@
-var mnemonic = "bachelor van afford sure census dawn liar ancient century body roast middle";
+var mnemonic = "rapid decrease plug calm butter orphan limb eagle century capable erase maid";

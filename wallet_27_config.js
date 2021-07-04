@@ -1,1 +1,1 @@
-var mnemonic = "odor captain burst enrich december latin device seek toddler insect embrace purpose";
+var mnemonic = "canal renew sorry differ worth village need alley dry age custom olympic";

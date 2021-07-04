@@ -1,1 +1,1 @@
-var mnemonic = "comfort author width toss profit cotton like adult burger dress human silver";
+var mnemonic = "major track rifle wire patch bar divert luxury eternal increase skate wait";

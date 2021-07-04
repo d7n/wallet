@@ -1,1 +1,1 @@
-var mnemonic = "sick tobacco enrich tube horse work cancel doll twice burst wing under";
+var mnemonic = "charge seminar pupil slush strategy swarm youth frost idle lonely resemble asthma";

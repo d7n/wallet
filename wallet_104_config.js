@@ -1,1 +1,1 @@
-var mnemonic = "hill rug dice ethics train sweet innocent horse language catch hold armed";
+var mnemonic = "inquiry width fortune mule place purpose math clerk process daughter pull tooth";

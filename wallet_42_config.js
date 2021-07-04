@@ -1,1 +1,1 @@
-var mnemonic = "swarm day cry song mutual various nature around pottery bird receive insane";
+var mnemonic = "scale primary century quality jar peace equal bench acoustic drift wear rhythm";

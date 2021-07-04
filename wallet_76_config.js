@@ -1,1 +1,1 @@
-var mnemonic = "copy float right one arm asset dignity pattern bitter beach raise embody";
+var mnemonic = "funny resist ten peace erode early raccoon office cupboard uphold family lyrics";

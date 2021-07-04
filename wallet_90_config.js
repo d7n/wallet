@@ -1,1 +1,1 @@
-var mnemonic = "diary merry what tone wave sponsor notice tortoise scatter basket furnace pact";
+var mnemonic = "silk oval crop arrange current eager rely credit muffin worry dumb reason";

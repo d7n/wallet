@@ -1,1 +1,1 @@
-var mnemonic = "grow april robust action leave coast label novel dust keep unfold income";
+var mnemonic = "movie moment caught skate tired fun heavy tip fence rotate noodle enforce";

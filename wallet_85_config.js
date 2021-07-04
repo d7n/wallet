@@ -1,1 +1,1 @@
-var mnemonic = "youth bone shrug soccer title property sign good silly jeans few scare";
+var mnemonic = "february club lucky claim silent frown travel tenant belt sentence tiger fetch";

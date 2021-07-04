@@ -1,1 +1,1 @@
-var mnemonic = "spring bag swing first general able arrow menu scheme together fit hollow";
+var mnemonic = "divide banana afraid cactus cash simple such pitch anger kind harvest winner";

@@ -1,1 +1,1 @@
-var mnemonic = "inside caution impose accident file rely key gravity potato volcano world offer";
+var mnemonic = "ripple ensure avoid whisper giant brass when false quantum peasant angry glance";

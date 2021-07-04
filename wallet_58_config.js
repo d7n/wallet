@@ -1,1 +1,1 @@
-var mnemonic = "fit kidney this matrix absorb betray infant fossil antenna wife merit plunge";
+var mnemonic = "smile cash orphan inspire control room evil anchor dose found apple observe";

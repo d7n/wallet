@@ -1,1 +1,1 @@
-var mnemonic = "online credit answer guilt park load airport holiday whip horn zoo inmate";
+var mnemonic = "oak fire awake dumb shy glove ramp elephant tent elegant summer follow";

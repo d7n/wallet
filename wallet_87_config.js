@@ -1,1 +1,1 @@
-var mnemonic = "hurry sentence silly text divorce diesel expand desert random foil invest nerve";
+var mnemonic = "surface plug avoid second disagree shallow remember police obscure rescue diet hint";

@@ -1,1 +1,1 @@
-var mnemonic = "castle harvest mountain game half cannon essence bullet festival unique snake lend";
+var mnemonic = "cousin setup slide cross arm sell cry transfer flower truck moral bench";

@@ -1,1 +1,1 @@
-var mnemonic = "album twin short ugly depend van street burden flower dignity online hurdle";
+var mnemonic = "exchange observe century hedgehog cradle pave beyond wave today wish source oxygen";
