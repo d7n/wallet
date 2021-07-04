@@ -1,1 +1,1 @@
-var mnemonic = "awake leg electric cage velvet chunk over basket seat cave buddy drop";
+var mnemonic = "mimic climb joy piece main find arctic unfold music obscure model ladder";

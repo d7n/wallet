@@ -1,1 +1,1 @@
-var mnemonic = "cupboard audit annual village private essence display connect quantum because seven bid";
+var mnemonic = "innocent addict bone foot loan fee torch inhale slow essay furnace glow";

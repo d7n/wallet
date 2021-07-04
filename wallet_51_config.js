@@ -1,1 +1,1 @@
-var mnemonic = "scene slender rabbit force limit local van beef faint color august tip";
+var mnemonic = "supreme ice lock achieve chest cherry eternal swarm duck barrel ladder envelope";

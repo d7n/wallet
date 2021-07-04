@@ -1,1 +1,1 @@
-var mnemonic = "floor amount extend smooth have name fall attract trial infant seed outer";
+var mnemonic = "easily ginger method hat exact portion drift rule vital correct trip reject";

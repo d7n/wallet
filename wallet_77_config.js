@@ -1,1 +1,1 @@
-var mnemonic = "any light album frozen unable tool skull head dolphin foster giant once";
+var mnemonic = "bread dove seven damage ecology crouch position action confirm ordinary vote pulse";

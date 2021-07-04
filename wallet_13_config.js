@@ -1,1 +1,1 @@
-var mnemonic = "assume pet cigar lunar put shrug benefit basic wife mystery chimney oven";
+var mnemonic = "confirm october flat gun famous lawn captain royal know process tree what";

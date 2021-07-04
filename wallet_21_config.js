@@ -1,1 +1,1 @@
-var mnemonic = "inhale usage crush company just cliff area display this asset impact chronic";
+var mnemonic = "major sustain ability jar peanut flame asthma type host hobby summer gas";

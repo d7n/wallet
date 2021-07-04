@@ -1,1 +1,1 @@
-var mnemonic = "story coconut assault already okay ripple rural make sentence kitten vote destroy";
+var mnemonic = "flight goddess spray shiver genre auction way gravity switch cluster document laundry";

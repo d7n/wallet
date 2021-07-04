@@ -1,1 +1,1 @@
-var mnemonic = "salon topic cake bind love pave acquire trust gorilla renew tobacco leave";
+var mnemonic = "rent provide proof basic fire way mind sample sheriff transfer derive usage";

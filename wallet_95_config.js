@@ -1,1 +1,1 @@
-var mnemonic = "cave mail lounge apple exhibit glory patch board reward scan monitor health";
+var mnemonic = "swarm chief divorce light pudding rescue document aunt series joke witness language";

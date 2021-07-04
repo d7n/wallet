@@ -1,1 +1,1 @@
-var mnemonic = "voice ivory craft health cable perfect portion rotate simple cake frame balance";
+var mnemonic = "talk salute increase throw kick caution educate bounce ring unable lesson modify";

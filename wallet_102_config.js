@@ -1,1 +1,1 @@
-var mnemonic = "spider awake lazy boring patch member wine leaf drastic blast certain sketch";
+var mnemonic = "sauce notable slight wash tattoo minimum glove wave age number buzz custom";

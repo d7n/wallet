@@ -1,1 +1,1 @@
-var mnemonic = "wise disagree leaf approve choice air arm door cram plunge slot grape";
+var mnemonic = "motor emotion disagree whale bar shop meat faith letter speed life spread";

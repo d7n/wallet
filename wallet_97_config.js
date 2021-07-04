@@ -1,1 +1,1 @@
-var mnemonic = "first current fat dirt finish knee unable bulb clap ankle gather cloud";
+var mnemonic = "smooth scan neglect glory purchase predict buyer lady ridge gauge chief wonder";

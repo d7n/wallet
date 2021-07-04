@@ -1,1 +1,1 @@
-var mnemonic = "buffalo inhale pencil december pulp will soup north van age mixed various";
+var mnemonic = "suffer mercy obscure track quote toss aunt jewel nuclear umbrella loyal job";

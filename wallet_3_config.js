@@ -1,1 +1,1 @@
-var mnemonic = "hurdle retreat alcohol lock sick flash leisure force state gain hat hurt";
+var mnemonic = "achieve flock gravity actress satisfy eagle gun secret wire right embark stuff";

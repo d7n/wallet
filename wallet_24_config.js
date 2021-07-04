@@ -1,1 +1,1 @@
-var mnemonic = "habit load alone depend tone cash spoon bonus lamp canoe orbit flat";
+var mnemonic = "horse coral disorder reward average nurse actress fashion arm despair document law";

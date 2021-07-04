@@ -1,1 +1,1 @@
-var mnemonic = "secret village elder congress buyer dinner under belt decide token degree soup";
+var mnemonic = "torch fan slam virus fun another rib curious arm clip mule silly";

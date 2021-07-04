@@ -1,1 +1,1 @@
-var mnemonic = "spoil symptom toast still coffee fan truth ghost curve catalog warm bless";
+var mnemonic = "fault survey dinner boat slim veteran monitor emotion wall sick tail young";

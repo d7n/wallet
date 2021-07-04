@@ -1,1 +1,1 @@
-var mnemonic = "drill today seven aim screen parrot adult match engage leg kind electric";
+var mnemonic = "legend antenna fetch whip famous lonely blade various unable boat own wrestle";

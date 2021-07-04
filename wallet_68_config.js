@@ -1,1 +1,1 @@
-var mnemonic = "olive goose member hotel ginger morning pluck melody sustain maximum wet insane";
+var mnemonic = "negative polar need room leg nation alert must february round govern card";

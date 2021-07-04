@@ -1,1 +1,1 @@
-var mnemonic = "capital sponsor reward fold safe excuse key ensure jeans agent month mushroom";
+var mnemonic = "talk best blue dilemma dentist play echo opinion require grid cliff corn";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol rare way cheap easy spare monitor loud slim romance economy deputy";
+var mnemonic = "there syrup task animal alarm rotate general urban tag clay save wing";

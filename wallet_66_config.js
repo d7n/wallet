@@ -1,1 +1,1 @@
-var mnemonic = "section comic slice addict often post script seek include ivory estate ivory";
+var mnemonic = "include ozone cloth brush question film mimic gym reduce utility umbrella chief";

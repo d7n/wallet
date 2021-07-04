@@ -1,1 +1,1 @@
-var mnemonic = "arm dragon slab guard setup empty cave express aisle sense indoor chalk";
+var mnemonic = "broom lemon spoon imitate rocket canvas length six occur express pink journey";

@@ -1,1 +1,1 @@
-var mnemonic = "improve clip item maple hurry response rent bright system person inquiry load";
+var mnemonic = "supreme door curious risk input salon movie tribe life cupboard scheme apology";

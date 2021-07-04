@@ -1,1 +1,1 @@
-var mnemonic = "dutch winter net that wet awesome robust gasp this canvas science setup";
+var mnemonic = "child farm dose earn club gather then grief then neither denial design";

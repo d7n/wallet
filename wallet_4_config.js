@@ -1,1 +1,1 @@
-var mnemonic = "shoe comic dance action guilt rich cotton recipe pink oak ordinary flee";
+var mnemonic = "tomato nature assume avoid hollow wisdom pony caught flee lens thrive grab";

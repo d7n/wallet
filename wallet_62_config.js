@@ -1,1 +1,1 @@
-var mnemonic = "parrot label area rare harbor copy powder front also chest illness mail";
+var mnemonic = "search gaze drink sea siege pink fence twenty sample evoke hover noble";

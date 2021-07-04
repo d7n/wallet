@@ -1,1 +1,1 @@
-var mnemonic = "regret catalog gadget jealous behave crucial salt gravity toe merry mother trap";
+var mnemonic = "purpose salt affair drop employ spice horn celery derive file resemble include";

@@ -1,1 +1,1 @@
-var mnemonic = "silk meadow humor sick pipe prevent monster fan opera robust nut fault";
+var mnemonic = "divide unaware pull cave runway guess warfare blame throw pioneer good dish";

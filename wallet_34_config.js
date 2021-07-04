@@ -1,1 +1,1 @@
-var mnemonic = "empty step laptop hip airport local gas nest umbrella window scale rabbit";
+var mnemonic = "news blur consider income thank phone very pulp cricket alien human hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse coral owner ramp fade fiber border giant range trend window pistol";
+var mnemonic = "universe laugh collect scheme nature inflict glad appear symptom atom veteran fame";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify zero duty share will world uphold one enact timber quantum reunion";
+var mnemonic = "reopen bar mother thunder picture fringe amazing copper snack then autumn seek";

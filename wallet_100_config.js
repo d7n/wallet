@@ -1,1 +1,1 @@
-var mnemonic = "canyon sphere wool name walk menu shuffle car design reward saddle awesome";
+var mnemonic = "solve minor away process bind kick surprise large buzz high spirit start";

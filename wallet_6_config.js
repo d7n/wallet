@@ -1,1 +1,1 @@
-var mnemonic = "soft board idea grunt senior used moral put enrich announce forward museum";
+var mnemonic = "park volcano dinosaur zone cigar lock under oval pelican already idea begin";

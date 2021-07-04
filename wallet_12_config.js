@@ -1,1 +1,1 @@
-var mnemonic = "usage long tiger floor whip seminar select knock flee assume solar section";
+var mnemonic = "deal good antique chase coyote feed rebel mixed chalk tribe direct cabin";

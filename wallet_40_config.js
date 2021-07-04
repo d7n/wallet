@@ -1,1 +1,1 @@
-var mnemonic = "shrug dove hidden fade chimney stock december evil close wait unable pepper";
+var mnemonic = "vendor rotate three dignity sheriff hello domain misery north fragile salad slender";

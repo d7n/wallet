@@ -1,1 +1,1 @@
-var mnemonic = "wine lyrics water neglect enable never lottery undo honey outdoor habit chronic";
+var mnemonic = "camera concert street inner hammer left return goat dragon story recipe rich";

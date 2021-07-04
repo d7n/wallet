@@ -1,1 +1,1 @@
-var mnemonic = "aware bone swing voyage input educate lens seven habit vibrant act ship";
+var mnemonic = "spend also betray purchase rate display educate manage elbow song border fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "cram ramp matrix garden canal present ocean keep spread warm giraffe rapid";
+var mnemonic = "fiction jump reject wrestle fabric prison dismiss artwork hunt dutch flight flower";

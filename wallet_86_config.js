@@ -1,1 +1,1 @@
-var mnemonic = "account reveal core spoon enemy jelly gadget animal helmet surface fog series";
+var mnemonic = "model swim mushroom pepper junior belt plastic bounce can wrong excite exist";

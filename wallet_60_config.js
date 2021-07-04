@@ -1,1 +1,1 @@
-var mnemonic = "circle any stable execute voice exact capital tortoise author limit trend novel";
+var mnemonic = "key chat entry mandate nest solid seminar submit person velvet mixture load";

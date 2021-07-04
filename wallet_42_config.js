@@ -1,1 +1,1 @@
-var mnemonic = "art network fatal sing toward tiny genre control enrich item load try";
+var mnemonic = "mass shop gold student appear during bless margin athlete license struggle athlete";

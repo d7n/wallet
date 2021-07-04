@@ -1,1 +1,1 @@
-var mnemonic = "enough brisk neutral radar subject luggage expire describe tiger present afraid amused";
+var mnemonic = "mandate holiday shrug width torch film impulse permit nut eagle gather total";

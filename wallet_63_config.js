@@ -1,1 +1,1 @@
-var mnemonic = "toy drama pact kid task warfare leisure shed fog shell endless clip";
+var mnemonic = "hybrid group album hospital fork purse insect icon industry length path panic";

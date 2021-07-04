@@ -1,1 +1,1 @@
-var mnemonic = "imitate inch claim order music ride squeeze begin possible liquid vendor sweet";
+var mnemonic = "young what market gold give oil pause correct above bread poem dash";

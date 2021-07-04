@@ -1,1 +1,1 @@
-var mnemonic = "purity scale suspect tattoo warm please online keep maximum above educate inflict";
+var mnemonic = "wedding cost dragon multiply panther analyst kingdom coffee display soft disease mixed";

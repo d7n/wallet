@@ -1,1 +1,1 @@
-var mnemonic = "uphold fine brain fly twelve grocery answer crouch boy cause source solid";
+var mnemonic = "wall spatial loud laptop tiny long divert timber pair poverty barrel dial";

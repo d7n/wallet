@@ -1,1 +1,1 @@
-var mnemonic = "salon local unusual ripple slab angle limb gift canoe raise crater rice";
+var mnemonic = "planet social worth resource credit milk expire bacon juice tool clarify orphan";

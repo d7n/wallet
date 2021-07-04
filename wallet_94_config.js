@@ -1,1 +1,1 @@
-var mnemonic = "vacant govern amount denial build trash charge sting program rubber finish pave";
+var mnemonic = "coral tiny junk whisper anxiety royal notice voice leg curious bind brother";

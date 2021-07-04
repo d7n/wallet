@@ -1,1 +1,1 @@
-var mnemonic = "empower affair involve paper thought pause wrist hope film aerobic offer marble";
+var mnemonic = "senior idea fetch auction ritual country range area crane judge evoke bulb";

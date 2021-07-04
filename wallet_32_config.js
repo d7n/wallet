@@ -1,1 +1,1 @@
-var mnemonic = "quality struggle price enroll decorate guess process dial soft mosquito deal claim";
+var mnemonic = "two nice trigger flight pave six avocado tennis truck average hammer anger";

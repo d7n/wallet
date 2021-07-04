@@ -1,1 +1,1 @@
-var mnemonic = "century approve music bread cheap hospital suggest wink ensure profit illegal blast";
+var mnemonic = "frequent ivory state hybrid silent kite accuse festival blush frequent swift armed";

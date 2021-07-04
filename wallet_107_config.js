@@ -1,1 +1,1 @@
-var mnemonic = "gain thought midnight benefit shaft scorpion goat mail kiss edit law neglect";
+var mnemonic = "eight oyster correct empty office midnight outdoor current own turkey discover ripple";

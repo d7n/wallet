@@ -1,1 +1,1 @@
-var mnemonic = "analyst elbow green clean pear post text yard good neck side early";
+var mnemonic = "desert brief tape nasty phone track turkey convince rebel region live cloud";

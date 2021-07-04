@@ -1,1 +1,1 @@
-var mnemonic = "spawn street verify hip limb fabric divide grain chicken exhibit congress gas";
+var mnemonic = "frame loan stumble invite casino mesh salt mercy impulse require stumble either";

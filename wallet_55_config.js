@@ -1,1 +1,1 @@
-var mnemonic = "future time path easy measure vast jar peanut dismiss comfort tribe damp";
+var mnemonic = "library split banana joy again horror pluck voyage staff planet enforce during";

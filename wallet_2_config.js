@@ -1,1 +1,1 @@
-var mnemonic = "lady gadget jar symbol easy adult bean hair fold fiction praise include";
+var mnemonic = "wall act square awake rigid phrase hover top dynamic thank slam tag";

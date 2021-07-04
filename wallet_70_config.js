@@ -1,1 +1,1 @@
-var mnemonic = "unable rather together hip swing clap link crime diamond wagon fire solid";
+var mnemonic = "olive audit final apology swamp entire coast notable grid sheriff fortune glove";

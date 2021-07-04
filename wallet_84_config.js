@@ -1,1 +1,1 @@
-var mnemonic = "ball reward cute below supply history march height air hundred balcony security";
+var mnemonic = "churn bench ostrich hammer rough glue paddle young shed organ old twenty";

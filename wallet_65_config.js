@@ -1,1 +1,1 @@
-var mnemonic = "way sweet staff coconut surface volcano term brick guilt song two champion";
+var mnemonic = "outside setup squeeze mixed horse romance cream rival gentle struggle rude strong";

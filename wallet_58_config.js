@@ -1,1 +1,1 @@
-var mnemonic = "tail render shock home divide minor range dismiss will amateur mansion topple";
+var mnemonic = "mom glow absorb result better journey inspire best rebel earn number accident";

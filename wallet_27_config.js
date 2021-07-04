@@ -1,1 +1,1 @@
-var mnemonic = "grit lazy inch quick citizen famous misery order wait term master access";
+var mnemonic = "language office timber piece climb client awesome morning damage right inner wasp";

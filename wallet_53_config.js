@@ -1,1 +1,1 @@
-var mnemonic = "solid debris census tonight trade indicate vague pioneer blossom danger few silk";
+var mnemonic = "afraid valley veteran hammer lawsuit toilet deliver decline useless expect protect hybrid";

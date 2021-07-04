@@ -1,1 +1,1 @@
-var mnemonic = "fragile girl satoshi length rain fever window salute animal crane edit foam";
+var mnemonic = "spike shaft season crane oval cactus fury bleak genuine talk endorse lesson";

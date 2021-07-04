@@ -1,1 +1,1 @@
-var mnemonic = "toddler mixture design blossom build any twenty salute provide void pave work";
+var mnemonic = "lonely eight vacuum chuckle bag hire riot sleep opinion ramp journey stuff";

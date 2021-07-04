@@ -1,1 +1,1 @@
-var mnemonic = "vanish daring misery thumb local venture clerk model garbage butter blood census";
+var mnemonic = "burst isolate calm mansion spray raw salmon science tail vocal grow now";

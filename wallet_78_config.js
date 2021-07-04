@@ -1,1 +1,1 @@
-var mnemonic = "boring similar mixture mammal arm guess february roast ankle victory photo stone";
+var mnemonic = "silly riot need humble pull say stock barely boss essence magic wage";

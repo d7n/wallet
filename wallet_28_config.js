@@ -1,1 +1,1 @@
-var mnemonic = "hungry flag area teach hip peanut crew sock arena happy rhythm today";
+var mnemonic = "dutch crane economy course journey decrease horror little vintage sea concert oval";

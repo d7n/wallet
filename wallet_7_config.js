@@ -1,1 +1,1 @@
-var mnemonic = "cave slow install mixed code trend upon differ quarter worry inspire same";
+var mnemonic = "social lamp verb divorce volume neglect joy parade scheme height must snack";

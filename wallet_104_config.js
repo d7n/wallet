@@ -1,1 +1,1 @@
-var mnemonic = "merry text whip please unique else vast image apology during try warrior";
+var mnemonic = "act admit alien giraffe client great sponsor crouch eyebrow exclude tide soon";

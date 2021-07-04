@@ -1,1 +1,1 @@
-var mnemonic = "quarter only icon thumb find life ride easy journey aisle plate know";
+var mnemonic = "rally section typical smoke chuckle message poem avoid split early sugar bubble";

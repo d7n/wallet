@@ -1,1 +1,1 @@
-var mnemonic = "alien false cupboard roof clock draft twice patrol menu sad elbow finish";
+var mnemonic = "radar thank answer divorce bright dry aim robust skill blanket adapt logic";

@@ -1,1 +1,1 @@
-var mnemonic = "supply sand wreck grace talk flash coral group measure wing rival wink";
+var mnemonic = "belt fork cost win minute pluck harvest remind pulse chuckle episode yard";

@@ -1,1 +1,1 @@
-var mnemonic = "repair cigar east collect slam vicious stadium ice pride tail school pulp";
+var mnemonic = "empower okay kiss toddler whisper what early gain crunch slot laugh produce";

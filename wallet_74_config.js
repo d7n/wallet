@@ -1,1 +1,1 @@
-var mnemonic = "symptom sick train regret rather firm river buddy eyebrow domain ride disagree";
+var mnemonic = "leopard alert salute easily device ladder position provide yellow chunk field gorilla";

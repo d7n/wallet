@@ -1,1 +1,1 @@
-var mnemonic = "volume virus intact height emotion wasp tuition sea cart liberty fiction relief";
+var mnemonic = "survey upgrade humble game limb filter round organ corn volume barrel first";

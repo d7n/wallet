@@ -1,1 +1,1 @@
-var mnemonic = "despair tell romance drip gorilla patch enable average luggage business critic image";
+var mnemonic = "alpha tower pudding chat shrimp indoor crack web peanut country mechanic gloom";

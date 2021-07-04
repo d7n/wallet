@@ -1,1 +1,1 @@
-var mnemonic = "renew vault earn practice license small original true jelly exercise weapon just";
+var mnemonic = "hint boost cat canyon group captain nest behind interest aspect fan grape";

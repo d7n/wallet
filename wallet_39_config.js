@@ -1,1 +1,1 @@
-var mnemonic = "near provide rigid organ clever sorry middle dove february acid skin enact";
+var mnemonic = "alone dune error road umbrella detail usage gossip clutch piece super ask";

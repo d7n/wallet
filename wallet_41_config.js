@@ -1,1 +1,1 @@
-var mnemonic = "pluck afraid able pig virus hawk nose journey tackle find destroy alien";
+var mnemonic = "enjoy silver time deposit brother range pony green enter asset cool transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff runway silent pill arrange coconut wreck foil tattoo price ensure glare";
+var mnemonic = "clerk grape motor message fury dream together idea coconut opinion convince ship";

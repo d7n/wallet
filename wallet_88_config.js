@@ -1,1 +1,1 @@
-var mnemonic = "slide able owner heavy keep hungry negative monster appear mandate need barrel";
+var mnemonic = "intact rabbit eternal crucial never tool eye river hurry three bird outside";

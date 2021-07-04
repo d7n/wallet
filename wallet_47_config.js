@@ -1,1 +1,1 @@
-var mnemonic = "cruise festival they love disagree success broom must burger able sibling floor";
+var mnemonic = "sustain rough inquiry panda vacant game sponsor eyebrow lunar bachelor ten trumpet";

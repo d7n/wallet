@@ -1,1 +1,1 @@
-var mnemonic = "help spatial stool fluid photo ball beauty wife present maple hidden canvas";
+var mnemonic = "buffalo acid lend denial easy among exile like liquid quarter call super";

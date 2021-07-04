@@ -1,1 +1,1 @@
-var mnemonic = "clown just nasty they goddess notable three fine gaze urge fashion village";
+var mnemonic = "taste safe orange dance flavor use radio fatigue later stairs equip lonely";

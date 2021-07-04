@@ -1,1 +1,1 @@
-var mnemonic = "ocean chunk you jealous claim pool bubble vehicle salad ride pepper corn";
+var mnemonic = "hungry nose jealous fossil various walnut bulk stairs safe weekend service lock";

@@ -1,1 +1,1 @@
-var mnemonic = "clean segment later husband interest discover embark rubber type nasty amount adapt";
+var mnemonic = "matter net table clarify pistol forum thought evolve smooth picture humble end";

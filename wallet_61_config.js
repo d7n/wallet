@@ -1,1 +1,1 @@
-var mnemonic = "describe bread pig relief buzz mushroom spend inside airport mesh silk cradle";
+var mnemonic = "arrest permit car trend grass blur betray exact milk approve tooth knock";

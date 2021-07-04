@@ -1,1 +1,1 @@
-var mnemonic = "ugly mass cash pill work actual buzz blossom annual ginger knock wood";
+var mnemonic = "evolve swim auto farm palm mountain traffic team another dirt alert garlic";

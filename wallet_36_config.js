@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo learn damp reason wheel adult fork infant bitter south enable blood";
+var mnemonic = "between upper crowd wheat life again miracle garment gate universe student object";
