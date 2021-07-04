@@ -1,1 +1,1 @@
-var mnemonic = "chicken toast color okay wet zone attract roof route carpet race absurd";
+var mnemonic = "abandon decide unit tomorrow rely tone pause vote giraffe mass expose excite";

@@ -1,1 +1,1 @@
-var mnemonic = "pave know black expose pretty leaf crash novel fix monkey pipe bubble";
+var mnemonic = "mad verify hawk scene peace spell often alpha acid clean survey gown";

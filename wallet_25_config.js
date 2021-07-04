@@ -1,1 +1,1 @@
-var mnemonic = "blush improve stove core random meat question subject what coach fee onion";
+var mnemonic = "kite when raise crazy pottery atom fall public skill merit calm between";

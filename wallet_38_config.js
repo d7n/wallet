@@ -1,1 +1,1 @@
-var mnemonic = "card mirror always feed trend divert crew clutch connect basket poem police";
+var mnemonic = "myself tube click brass deputy usage crystal blue bike example nerve truth";

@@ -1,1 +1,1 @@
-var mnemonic = "romance century cause tomorrow observe fork chronic warm desert price this dad";
+var mnemonic = "denial print until trick unfold morning found enforce crop cook joy early";

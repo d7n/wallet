@@ -1,1 +1,1 @@
-var mnemonic = "neither kick zoo between burst life table image hover chef group room";
+var mnemonic = "this power cup west silver inform fiscal pause have match custom crisp";

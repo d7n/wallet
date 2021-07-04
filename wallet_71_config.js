@@ -1,1 +1,1 @@
-var mnemonic = "bring lunch hole juice knock surround ugly engage pitch shine then kid";
+var mnemonic = "dumb express person again actor tree effort okay vacuum shine nurse example";

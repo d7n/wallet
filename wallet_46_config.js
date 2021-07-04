@@ -1,1 +1,1 @@
-var mnemonic = "misery inherit solve isolate major attract dry decide baby boil issue arena";
+var mnemonic = "junk reveal resist artwork load blur practice make raise vessel add knee";

@@ -1,1 +1,1 @@
-var mnemonic = "blame runway tag method improve tourist clump correct voyage same curious attract";
+var mnemonic = "tourist atom axis sport carpet account fiber control pupil energy protect shoulder";

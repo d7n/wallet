@@ -1,1 +1,1 @@
-var mnemonic = "broken alarm cube guess narrow trial ocean off brave volcano grab author";
+var mnemonic = "cabbage bottom other true pet sand prize fork office charge avocado party";

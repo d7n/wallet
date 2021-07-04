@@ -1,1 +1,1 @@
-var mnemonic = "table negative clerk spray cargo tonight fun nothing limit tornado trade unfair";
+var mnemonic = "kidney pair palace brand upgrade knee rug elder unusual exile juice income";

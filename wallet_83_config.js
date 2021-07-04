@@ -1,1 +1,1 @@
-var mnemonic = "youth marine hurdle sausage much swarm plug wrong promote strike virtual silly";
+var mnemonic = "index pet quarter hope friend foster mobile badge blue sign manage bachelor";

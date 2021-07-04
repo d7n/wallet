@@ -1,1 +1,1 @@
-var mnemonic = "miss occur keep female steak alarm smoke tongue kitten height resist prevent";
+var mnemonic = "basket grocery notable glide barrel make speak salt stuff sort vote guide";

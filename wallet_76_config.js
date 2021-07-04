@@ -1,1 +1,1 @@
-var mnemonic = "mixture already gym merge island car anxiety vault genre unable faith helmet";
+var mnemonic = "uncle desert puzzle wing thought soft mobile life ecology virtual session silk";

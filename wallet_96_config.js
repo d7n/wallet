@@ -1,1 +1,1 @@
-var mnemonic = "urban isolate layer price sponsor aerobic boss clap thunder home media coyote";
+var mnemonic = "rabbit violin stay prefer monkey unusual voyage dinosaur guess magic brand side";

@@ -1,1 +1,1 @@
-var mnemonic = "keen child around crack plunge core submit print hair imitate scare exhibit";
+var mnemonic = "clown fortune umbrella shell brass ocean exhibit parade city hamster donkey easy";

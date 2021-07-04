@@ -1,1 +1,1 @@
-var mnemonic = "mask novel summer oyster draft balance extend tell celery story phone actual";
+var mnemonic = "switch lucky spread kidney tooth casual blind hard strategy collect shed dance";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan stereo danger fringe trade pelican clock final dice pause evidence erosion";
+var mnemonic = "force hat tower rule defy chef army admit strategy goat book response";

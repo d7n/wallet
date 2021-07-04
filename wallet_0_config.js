@@ -1,1 +1,1 @@
-var mnemonic = "art critic depend hood early like detect jump anxiety view spray join";
+var mnemonic = "ginger maze slight jacket insect cousin letter lamp assume ankle retreat recall";

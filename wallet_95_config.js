@@ -1,1 +1,1 @@
-var mnemonic = "family essence dynamic music music alley reflect require rare dance tiny flee";
+var mnemonic = "early vibrant truth ensure prevent use loop lion believe ethics jacket squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey faint sea memory second kidney stone boring upper field wink arch";
+var mnemonic = "unfold donkey boil rebuild limb club virus interest just culture cabin city";

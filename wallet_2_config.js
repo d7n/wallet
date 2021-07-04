@@ -1,1 +1,1 @@
-var mnemonic = "cup impulse kitten dirt tree scatter buddy still again orient quarter final";
+var mnemonic = "during economy among pulp garment exhaust act crater pottery jungle next prison";

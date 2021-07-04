@@ -1,1 +1,1 @@
-var mnemonic = "call narrow clarify mountain patch electric teach clinic place car woman tank";
+var mnemonic = "account code hair topple attend time try adult flush cluster soup govern";

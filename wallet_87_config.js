@@ -1,1 +1,1 @@
-var mnemonic = "match august fabric ocean hover novel limit final pluck diesel urban artist";
+var mnemonic = "double auction extra turkey fold whisper title screen sting stove fiber gorilla";

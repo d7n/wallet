@@ -1,1 +1,1 @@
-var mnemonic = "enact title shaft casual creek adjust action wagon soon catch degree letter";
+var mnemonic = "barrel ethics soda arena morning robot sign maze belt reduce bonus chunk";

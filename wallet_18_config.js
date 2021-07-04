@@ -1,1 +1,1 @@
-var mnemonic = "candy ski raven correct vast aisle pigeon reunion about morning human neutral";
+var mnemonic = "giraffe vessel bunker benefit hat mandate raven casino doll crime often load";

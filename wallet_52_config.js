@@ -1,1 +1,1 @@
-var mnemonic = "cause clever level slight glimpse hair much robust unknown build fault link";
+var mnemonic = "claw skin draft express potato snow hungry over hidden forget venue toast";

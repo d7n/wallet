@@ -1,1 +1,1 @@
-var mnemonic = "evoke onion nest solid toilet pill check present arena million success expand";
+var mnemonic = "talk girl bike fine noble artist skirt fortune surprise impact body claim";

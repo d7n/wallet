@@ -1,1 +1,1 @@
-var mnemonic = "concert note drive cruise virtual strategy face friend census welcome gesture twist";
+var mnemonic = "print camp dry ready symbol rubber cover advice faint armor unable gravity";

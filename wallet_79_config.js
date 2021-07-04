@@ -1,1 +1,1 @@
-var mnemonic = "edge addict solar reduce wealth tragic feel number badge festival disease bus";
+var mnemonic = "night flock obtain lottery giant pact fade attract subway intact frog collect";

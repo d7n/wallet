@@ -1,1 +1,1 @@
-var mnemonic = "thing adjust ahead scissors hire board throw chapter exchange vault address cheese";
+var mnemonic = "loud tail ginger comic oppose abuse involve symptom woman fruit country slogan";

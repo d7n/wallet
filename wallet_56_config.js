@@ -1,1 +1,1 @@
-var mnemonic = "fossil section funny owner suspect pause night defy hammer coil bleak curve";
+var mnemonic = "film clown hedgehog success tackle crash holiday enforce average duck solar elder";

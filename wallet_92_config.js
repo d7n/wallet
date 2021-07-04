@@ -1,1 +1,1 @@
-var mnemonic = "fade blind thumb recipe leisure antenna edge goose affair matter mountain scan";
+var mnemonic = "answer forget steel shadow organ human pipe decorate sick sock knock vast";

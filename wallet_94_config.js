@@ -1,1 +1,1 @@
-var mnemonic = "govern laundry glory chicken web appear copper away round harvest thumb noble";
+var mnemonic = "language twelve always admit lend bonus inhale tiger receive sing install cigar";

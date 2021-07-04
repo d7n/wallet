@@ -1,1 +1,1 @@
-var mnemonic = "target debris dawn range trophy snake panther tide inside play divorce ordinary";
+var mnemonic = "impact utility normal danger scatter kick mail message fury mom bulb answer";

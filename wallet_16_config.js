@@ -1,1 +1,1 @@
-var mnemonic = "pattern comfort symptom bright drill another start alpha nurse panic decide miracle";
+var mnemonic = "fiction wedding awesome antique twelve monkey universe fault hurt belt job define";

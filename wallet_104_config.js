@@ -1,1 +1,1 @@
-var mnemonic = "seven phone tank price leg yellow admit infant hub sunny era wonder";
+var mnemonic = "furnace best seek upset track cruel thought hammer village gallery fade picnic";

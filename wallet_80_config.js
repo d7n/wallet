@@ -1,1 +1,1 @@
-var mnemonic = "ensure black ocean only dentist vast forest fat appear better any load";
+var mnemonic = "concert nuclear upper spell monkey way near exhibit click ring flight proof";

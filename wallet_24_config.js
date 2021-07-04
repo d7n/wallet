@@ -1,1 +1,1 @@
-var mnemonic = "meat effort enemy elephant coach toilet measure fortune gate news verify fork";
+var mnemonic = "air olive arrest online receive pencil garden anchor illness dentist outer truly";

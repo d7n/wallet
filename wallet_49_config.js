@@ -1,1 +1,1 @@
-var mnemonic = "twice hospital usual caught grit drama fun approve firm lesson century arena";
+var mnemonic = "chase work exercise scissors oak upper point merge brand case drum palace";

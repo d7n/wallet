@@ -1,1 +1,1 @@
-var mnemonic = "option prosper street access coast expire radio hip hawk taste fall draw";
+var mnemonic = "hospital sunny virtual wall crisp shock lesson upgrade dial hard grow govern";

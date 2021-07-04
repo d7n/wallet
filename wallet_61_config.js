@@ -1,1 +1,1 @@
-var mnemonic = "cloth nose list silver double skill mosquito cool travel sun lab journey";
+var mnemonic = "this sketch entry amused cause verify orphan glad sock fix false glory";

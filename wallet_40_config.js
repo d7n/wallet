@@ -1,1 +1,1 @@
-var mnemonic = "mind distance record bulb trip obey thumb nerve absorb capital modify mom";
+var mnemonic = "vote doll fiction virtual rich bike acid stage swamp give plug more";

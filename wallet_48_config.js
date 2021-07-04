@@ -1,1 +1,1 @@
-var mnemonic = "advice polar curious body actual math convince elbow rocket loop caught dish";
+var mnemonic = "wealth vicious whisper reason gym license belt pistol leopard wood process also";

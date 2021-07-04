@@ -1,1 +1,1 @@
-var mnemonic = "often input just panic country subway arch lens half dignity amateur elite";
+var mnemonic = "ritual toward march post fuel scrub gaze nasty seek time inmate fruit";

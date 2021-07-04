@@ -1,1 +1,1 @@
-var mnemonic = "paddle together dirt giraffe rebuild engage vehicle ethics diary zebra elbow renew";
+var mnemonic = "palm example junior kick solid fault favorite fade canoe burden kick slow";

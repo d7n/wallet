@@ -1,1 +1,1 @@
-var mnemonic = "pioneer weird hat shadow until accident dice federal term forward approve toast";
+var mnemonic = "survey find toss sustain weasel happy buffalo solid excite soft turn butter";

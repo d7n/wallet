@@ -1,1 +1,1 @@
-var mnemonic = "require noble toss flavor relax wish believe decade common sketch secret engine";
+var mnemonic = "social frost west proud elder among use flame jazz notice face force";

@@ -1,1 +1,1 @@
-var mnemonic = "web shoe hand motor original finish law casual palm talent argue forum";
+var mnemonic = "local february rebuild dune motor tag about boil panther law smart chef";

@@ -1,1 +1,1 @@
-var mnemonic = "rude venture quote young moment capable fat finish isolate devote neutral rhythm";
+var mnemonic = "cotton cluster drop embody scissors imitate more dentist industry basic wedding shrug";

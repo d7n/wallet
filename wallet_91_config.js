@@ -1,1 +1,1 @@
-var mnemonic = "average provide art purity game demise doll distance artist almost finger play";
+var mnemonic = "sponsor talk scout forum heavy smoke round depart honey square gown reason";

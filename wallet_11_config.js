@@ -1,1 +1,1 @@
-var mnemonic = "discover unveil elevator chef brass belt green token crack build grace route";
+var mnemonic = "brain since air absent notable exercise announce opera cliff novel sponsor cycle";

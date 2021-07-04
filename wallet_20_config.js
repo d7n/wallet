@@ -1,1 +1,1 @@
-var mnemonic = "market gaze taste timber twenty rain fork build coral tilt measure seek";
+var mnemonic = "off produce artist riot race attract era kitchen mutual minor tape point";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma inside neck cross field hand fantasy start earn teach soap smooth";
+var mnemonic = "play proud define merge family cabin civil ethics modify unfold track exotic";

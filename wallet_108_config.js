@@ -1,1 +1,1 @@
-var mnemonic = "hint paddle strategy kingdom ice theme silver couch upset rifle omit veteran";
+var mnemonic = "era color must say rescue neglect hockey frozen attack run gauge adult";

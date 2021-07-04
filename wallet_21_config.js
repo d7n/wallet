@@ -1,1 +1,1 @@
-var mnemonic = "weasel oak ecology anchor junior slab survey confirm dune spirit bright upper";
+var mnemonic = "beauty armed fire hobby fantasy mean gospel motor horror fitness become symptom";

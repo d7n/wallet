@@ -1,1 +1,1 @@
-var mnemonic = "globe sunset eternal script gap venture wealth input intact public erosion nose";
+var mnemonic = "leg text slot pistol grass assume weird tag lottery echo disorder suspect";

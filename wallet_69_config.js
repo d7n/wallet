@@ -1,1 +1,1 @@
-var mnemonic = "quit execute brisk enough club release popular under boy own surface gather";
+var mnemonic = "discover desk swap usage stuff travel smile blossom noble dragon link toast";

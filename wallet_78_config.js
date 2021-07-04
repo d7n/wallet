@@ -1,1 +1,1 @@
-var mnemonic = "wealth oppose area sword crime enough garbage hybrid car actor bean control";
+var mnemonic = "tiger bulk option canvas despair away foil social ostrich habit gain grant";

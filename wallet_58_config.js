@@ -1,1 +1,1 @@
-var mnemonic = "daughter thrive unhappy attitude paddle diet know actual sheriff decade genre drum";
+var mnemonic = "indicate enjoy expire index river pink slab door rate sniff impact fiction";

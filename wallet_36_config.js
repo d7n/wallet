@@ -1,1 +1,1 @@
-var mnemonic = "joke occur buyer vote hurt trip vital tourist later offer hope joy";
+var mnemonic = "state until pink remind latin long vivid device afford plug media cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "fine bar better time general strategy accuse entire resource share library jealous";
+var mnemonic = "quantum mouse denial february bench copy drum off release walnut student resource";

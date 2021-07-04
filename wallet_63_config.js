@@ -1,1 +1,1 @@
-var mnemonic = "title sword early siege horn twice plastic car dismiss drive velvet door";
+var mnemonic = "expect garage share mirror all recipe party sadness quiz rent few clay";

@@ -1,1 +1,1 @@
-var mnemonic = "rough comfort obtain bicycle embark frost potato unit deposit junk stem session";
+var mnemonic = "another ritual among east select parade quote shallow rice bike reduce cube";

@@ -1,1 +1,1 @@
-var mnemonic = "flag midnight evidence plunge hollow nose lazy youth situate toilet wisdom bullet";
+var mnemonic = "evoke dust amateur bachelor sword turtle punch priority arctic mad anchor silly";

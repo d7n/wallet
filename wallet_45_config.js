@@ -1,1 +1,1 @@
-var mnemonic = "bamboo club oblige bean more swap fortune keep beauty term tooth empty";
+var mnemonic = "possible balance prevent bronze horse risk curious drama hover know aerobic clap";

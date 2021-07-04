@@ -1,1 +1,1 @@
-var mnemonic = "loyal civil jazz boy island man gap keen energy garden certain people";
+var mnemonic = "leopard rookie awake nurse roast talent avoid leader tail gain tape live";

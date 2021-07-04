@@ -1,1 +1,1 @@
-var mnemonic = "club almost food news vibrant spray myth buzz guilt fabric diary net";
+var mnemonic = "curtain still logic rent impose above inflict adjust mandate august deputy sadness";

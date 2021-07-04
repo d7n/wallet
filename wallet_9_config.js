@@ -1,1 +1,1 @@
-var mnemonic = "usage intact code style next jewel romance cost excite park puppy chimney";
+var mnemonic = "soccer omit initial update margin much method follow supreme jealous flip switch";

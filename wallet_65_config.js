@@ -1,1 +1,1 @@
-var mnemonic = "rhythm island rabbit mechanic wedding captain rule gossip dilemma blast off then";
+var mnemonic = "dentist pool gesture famous half inspire absorb normal health pluck glow spawn";

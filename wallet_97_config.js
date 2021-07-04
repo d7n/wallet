@@ -1,1 +1,1 @@
-var mnemonic = "infant mix bamboo sadness lizard ensure power harsh dragon kitchen split artwork";
+var mnemonic = "letter find warfare organ world peasant figure six beef echo quote excess";

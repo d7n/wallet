@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow reason slot satoshi sting effort snow oyster oppose release unable bulb";
+var mnemonic = "saddle defense concert buddy thing cheese stuff syrup cloth swing output until";

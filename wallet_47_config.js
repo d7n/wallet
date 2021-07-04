@@ -1,1 +1,1 @@
-var mnemonic = "reveal milk detect hollow crawl muscle hungry copy early announce grape festival";
+var mnemonic = "resource tag fat topic reunion because fitness near scale sample guitar version";

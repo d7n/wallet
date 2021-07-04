@@ -1,1 +1,1 @@
-var mnemonic = "swallow weather nuclear trap now march body unfold green gather cannon design";
+var mnemonic = "clog security food soccer knife rebel image draw resemble rich oven jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent early enrich sail symptom bundle frown month two alpha federal absurd";
+var mnemonic = "solution dilemma desk away genius hawk civil expect drift differ settle vacuum";

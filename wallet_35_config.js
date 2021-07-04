@@ -1,1 +1,1 @@
-var mnemonic = "old make bulb confirm gap muffin street truth slice primary session taxi";
+var mnemonic = "clever element enlist wage invite finish try strategy system circle caution assist";

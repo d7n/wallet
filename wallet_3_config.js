@@ -1,1 +1,1 @@
-var mnemonic = "flat insane laundry dice shallow jungle mutual people never lonely daring novel";
+var mnemonic = "caution submit marine verify push child tube wheat rib amateur sponsor become";

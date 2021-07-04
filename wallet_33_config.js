@@ -1,1 +1,1 @@
-var mnemonic = "south check legend multiply rather aspect success athlete absurd woman bone stove";
+var mnemonic = "gospel spice spend cabbage act laundry wide affair suit sport beyond fee";

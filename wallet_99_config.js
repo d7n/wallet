@@ -1,1 +1,1 @@
-var mnemonic = "duty volcano dish salute doll best crater patch wonder sight forest this";
+var mnemonic = "door rabbit glimpse certain run forum sadness dream own design income say";

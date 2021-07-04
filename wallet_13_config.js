@@ -1,1 +1,1 @@
-var mnemonic = "distance cruise arena amused this unlock praise issue scan awkward urban another";
+var mnemonic = "circle clap enhance penalty code oven problem holiday plate food grief program";

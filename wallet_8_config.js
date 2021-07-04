@@ -1,1 +1,1 @@
-var mnemonic = "tired ivory identify worth skin fatal lounge betray child city above buzz";
+var mnemonic = "salute web waste expire excite reflect stool mouse truth minute minute pill";

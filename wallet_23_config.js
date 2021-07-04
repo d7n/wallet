@@ -1,1 +1,1 @@
-var mnemonic = "bamboo siege predict pull cabin fence toss warm morning coyote mask link";
+var mnemonic = "deal super battle sword ask setup episode legend carbon embrace field kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "churn leaf shed loud baby what reunion inject ribbon oyster pistol emotion";
+var mnemonic = "myth clip drop text addict fringe remain orchard settle owner stuff ride";

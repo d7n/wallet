@@ -1,1 +1,1 @@
-var mnemonic = "split omit biology honey umbrella zero robust soap broccoli erode boring skill";
+var mnemonic = "sugar frown nest leaf pen lens remove unaware never grant embrace insect";

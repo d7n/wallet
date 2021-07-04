@@ -1,1 +1,1 @@
-var mnemonic = "stage type ghost cable radio system material quarter book hill snap vault";
+var mnemonic = "whisper potato permit pear stem general neglect suffer other dust equip card";
