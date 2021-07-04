@@ -1,1 +1,1 @@
-var mnemonic = "wool barrel base song biology mandate hero artefact fine foam candy fall";
+var mnemonic = "vibrant crunch advance whip eagle tired visual faculty gate melody lecture share";

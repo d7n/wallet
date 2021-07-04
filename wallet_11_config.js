@@ -1,1 +1,1 @@
-var mnemonic = "jelly survey tooth toast drum aisle acid idea supply live design maid";
+var mnemonic = "sphere biology kite sweet palm explain time found exclude climb else olympic";

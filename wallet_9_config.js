@@ -1,1 +1,1 @@
-var mnemonic = "grant lecture hold enable island quick also doctor domain puppy agent vehicle";
+var mnemonic = "wasp walk discover mutual state copper moment special easily armor fever shrimp";

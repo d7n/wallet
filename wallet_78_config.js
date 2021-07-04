@@ -1,1 +1,1 @@
-var mnemonic = "expire harvest slow bridge crucial magic asthma weapon remind van winner chronic";
+var mnemonic = "wrist onion minor volume hand flame stadium truck mean jungle melt exile";

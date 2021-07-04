@@ -1,1 +1,1 @@
-var mnemonic = "attitude unhappy knee thunder easy seed chaos uphold drift panda quality machine";
+var mnemonic = "fork soup refuse stereo swear fork crime secret table person better avoid";

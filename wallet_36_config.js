@@ -1,1 +1,1 @@
-var mnemonic = "crash tuition riot expand develop trust hood same exclude beauty express interest";
+var mnemonic = "grid aisle copper artist elephant sample october nest rough cluster hidden turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "cash globe law noise ribbon ankle detail laptop mixture mirror off degree";
+var mnemonic = "fatigue skull family shoe cricket enroll ivory pear misery horn turn plug";

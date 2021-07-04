@@ -1,1 +1,1 @@
-var mnemonic = "defense lesson effort gun critic violin goat pond absent polar split clinic";
+var mnemonic = "sugar mother middle main order pottery capable naive wink ranch name poem";

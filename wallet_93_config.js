@@ -1,1 +1,1 @@
-var mnemonic = "inhale script caught main mystery swap buffalo cheap wreck craft nasty skill";
+var mnemonic = "fork sister fly energy gather push hub connect such purse walk exist";

@@ -1,1 +1,1 @@
-var mnemonic = "judge sea artefact attract minute trial wise grape april mansion miracle quote";
+var mnemonic = "couch trip desert cliff neck chief talk combine collect exit mail treat";

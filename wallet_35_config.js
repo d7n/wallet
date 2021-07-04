@@ -1,1 +1,1 @@
-var mnemonic = "brown miracle neutral cave size foam advance vocal also want risk month";
+var mnemonic = "rail giraffe issue ride permit damp journey into summer habit broom relax";

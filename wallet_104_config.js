@@ -1,1 +1,1 @@
-var mnemonic = "pluck erupt wine brown cargo enrich ticket stay exact plastic ship office";
+var mnemonic = "spread refuse august patrol story always rapid bench where age bar sausage";

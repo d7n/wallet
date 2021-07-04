@@ -1,1 +1,1 @@
-var mnemonic = "evolve light half such canoe wise sample boy pear pelican economy combine";
+var mnemonic = "author nation brick cash neutral chief together diet hair wing before raise";

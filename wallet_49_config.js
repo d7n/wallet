@@ -1,1 +1,1 @@
-var mnemonic = "regret supply inject obtain shield island polar throw street vanish dinner panel";
+var mnemonic = "alert answer game fork term name elevator spread clever next foster layer";

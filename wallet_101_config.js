@@ -1,1 +1,1 @@
-var mnemonic = "fringe way once feed brave pond option patrol street escape helmet cake";
+var mnemonic = "brand cruise under essence wine bind copy goose panda alley actress output";

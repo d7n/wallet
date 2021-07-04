@@ -1,1 +1,1 @@
-var mnemonic = "borrow castle grunt glow flee robust evil laundry burst federal derive napkin";
+var mnemonic = "census little finger other coconut flame merit message feature sheriff joy wrap";

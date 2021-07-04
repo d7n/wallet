@@ -1,1 +1,1 @@
-var mnemonic = "divorce glass help satoshi gate provide you enter garbage dog pen hint";
+var mnemonic = "feature act ketchup chuckle process talent shadow lobster angle traffic entry answer";

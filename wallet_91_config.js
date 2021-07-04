@@ -1,1 +1,1 @@
-var mnemonic = "island indicate spot title wreck biology scorpion cruel blood permit tooth extend";
+var mnemonic = "crew asset tower critic beef neck pass talk protect dune attend detail";

@@ -1,1 +1,1 @@
-var mnemonic = "govern thank initial despair basket busy say diet taste auction bar lumber";
+var mnemonic = "orbit carbon journey cricket toddler spirit method hen install split hair brother";

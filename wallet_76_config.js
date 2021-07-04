@@ -1,1 +1,1 @@
-var mnemonic = "stairs brass neutral siege marine unusual pole state cricket alley cannon blade";
+var mnemonic = "few source foot spread hockey chat uncover tooth artist before level bottom";

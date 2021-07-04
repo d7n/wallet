@@ -1,1 +1,1 @@
-var mnemonic = "shoot dizzy animal awkward census same wonder topic pigeon check absurd rally";
+var mnemonic = "obey blouse coil alcohol escape left life biology famous museum cage mule";

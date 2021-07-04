@@ -1,1 +1,1 @@
-var mnemonic = "avocado acquire try tongue strategy lock school again tonight deliver emotion afraid";
+var mnemonic = "wire razor hybrid route crazy major wrestle smart smart embark pioneer trade";

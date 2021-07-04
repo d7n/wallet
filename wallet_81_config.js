@@ -1,1 +1,1 @@
-var mnemonic = "dolphin detect pistol balcony skull bridge broom vacuum great alert rebuild faculty";
+var mnemonic = "athlete cotton top cluster club sea cycle sound chair logic warrior aerobic";

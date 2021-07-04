@@ -1,1 +1,1 @@
-var mnemonic = "burst vintage ignore battle outer wrestle run beauty refuse cake basic thing";
+var mnemonic = "quantum hire patient close seek tag stand mercy surface job claim topple";

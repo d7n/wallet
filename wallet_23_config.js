@@ -1,1 +1,1 @@
-var mnemonic = "midnight kiss apology crumble tissue exchange net resemble illness captain property ridge";
+var mnemonic = "law old nature shove replace library flag inch cement gain permit under";

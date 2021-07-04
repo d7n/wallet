@@ -1,1 +1,1 @@
-var mnemonic = "vicious crane party pill gap link bird organ sick gift lens refuse";
+var mnemonic = "case fatigue rich lunar expire clown twenty rack borrow grocery fame remember";

@@ -1,1 +1,1 @@
-var mnemonic = "brave confirm used pair ensure casual duck outside gate acquire false intact";
+var mnemonic = "you wave exclude throw push just palace swallow destroy tag thumb coconut";

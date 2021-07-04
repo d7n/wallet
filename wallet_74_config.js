@@ -1,1 +1,1 @@
-var mnemonic = "salmon mesh advice jelly upgrade define trick clip hard sell wrap tent";
+var mnemonic = "night brief aisle couch link fix easily clay jump source furnace stand";

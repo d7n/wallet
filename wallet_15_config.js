@@ -1,1 +1,1 @@
-var mnemonic = "blind open modify inquiry spring lunch black rather blur slice robot short";
+var mnemonic = "citizen plug learn seek fall pen scene cushion galaxy latin prefer oven";

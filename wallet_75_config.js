@@ -1,1 +1,1 @@
-var mnemonic = "february endorse mushroom smoke update reveal stand predict banana slice praise exchange";
+var mnemonic = "guess lava cloth ripple imitate slim fat ten hurt equal holiday torch";

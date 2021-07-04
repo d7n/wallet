@@ -1,1 +1,1 @@
-var mnemonic = "dutch vapor cherry code acoustic quality bind inmate flat step green spell";
+var mnemonic = "mule squirrel matrix puzzle baby kit hedgehog steak target humble expect more";

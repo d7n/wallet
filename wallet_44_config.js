@@ -1,1 +1,1 @@
-var mnemonic = "ticket aisle baby review drive swamp steak village fish same minimum private";
+var mnemonic = "sock armed economy exotic spice youth ring hair solution merit orbit engage";

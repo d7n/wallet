@@ -1,1 +1,1 @@
-var mnemonic = "segment bubble ostrich impact cup cycle diet cluster input coast tired repair";
+var mnemonic = "illness tenant torch race sphere rally camera girl snack clay lawsuit dust";

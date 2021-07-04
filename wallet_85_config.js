@@ -1,1 +1,1 @@
-var mnemonic = "pulse art afford spice cheese trade view kangaroo announce expand tag banner";
+var mnemonic = "spoil solid child beef dial silly grain gossip mother grocery brief devote";

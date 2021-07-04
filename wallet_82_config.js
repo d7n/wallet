@@ -1,1 +1,1 @@
-var mnemonic = "olive pen knee essay bamboo glass deposit mask message desert outside viable";
+var mnemonic = "table scrap unknown text topic worth knock viable kingdom metal entry plug";

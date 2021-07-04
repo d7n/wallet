@@ -1,1 +1,1 @@
-var mnemonic = "immune boil there toast write cry afraid arctic transfer fever possible exclude";
+var mnemonic = "garment reward print parent silver axis column federal install flush suffer few";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit loop near science knock area eagle update hip sudden law assist";
+var mnemonic = "raven split original festival allow ski team dune leaf act pride forget";

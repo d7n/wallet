@@ -1,1 +1,1 @@
-var mnemonic = "mystery donate size interest address forward future step gate good throw afraid";
+var mnemonic = "grass notable nature situate gravity vanish uniform bubble use permit minor glass";

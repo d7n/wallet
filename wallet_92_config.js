@@ -1,1 +1,1 @@
-var mnemonic = "ask enjoy field nut drastic ignore cancel lend issue tumble hole knock";
+var mnemonic = "cake replace visa call yard end during fence awkward ghost fade second";

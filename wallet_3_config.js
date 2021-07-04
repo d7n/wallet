@@ -1,1 +1,1 @@
-var mnemonic = "exhaust riot trim lend feature cook couch club suspect field blast spread";
+var mnemonic = "party road case account spring primary zoo finger prison year embark curve";

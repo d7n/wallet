@@ -1,1 +1,1 @@
-var mnemonic = "glare submit stand husband oil ivory tornado cigar someone trigger clerk caught";
+var mnemonic = "style world cereal rough leaf tissue pizza subject enlist where item shoot";

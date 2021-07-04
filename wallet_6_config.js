@@ -1,1 +1,1 @@
-var mnemonic = "share illness clock cube example spare disagree alien bonus approve airport setup";
+var mnemonic = "vacant coach blur problem fame exchange scene pluck kite glove leopard flame";

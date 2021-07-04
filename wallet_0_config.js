@@ -1,1 +1,1 @@
-var mnemonic = "hockey banner trophy abuse arena cinnamon deposit payment lesson make abandon emerge";
+var mnemonic = "theory flavor couch leg affair agent smart tobacco civil cereal garage custom";

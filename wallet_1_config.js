@@ -1,1 +1,1 @@
-var mnemonic = "rifle trip flee senior large rocket regret purse negative kind blush color";
+var mnemonic = "suspect proof stay swim evoke forum service sudden cluster leave student nasty";

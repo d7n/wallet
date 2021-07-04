@@ -1,1 +1,1 @@
-var mnemonic = "mystery addict grab sound moral runway excite famous search palm loan acoustic";
+var mnemonic = "shove midnight route drama travel account depth hedgehog obvious sorry funny also";

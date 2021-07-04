@@ -1,1 +1,1 @@
-var mnemonic = "detail path anger simple flock master attitude panic draw first unit farm";
+var mnemonic = "river lake tattoo easy space then staff fly vendor about below grow";

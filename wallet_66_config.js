@@ -1,1 +1,1 @@
-var mnemonic = "update obey hockey degree auction olympic cousin table beach safe mechanic fan";
+var mnemonic = "stay eagle truly room grid divide brain warm eyebrow liquid verb phone";

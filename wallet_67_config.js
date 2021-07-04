@@ -1,1 +1,1 @@
-var mnemonic = "wait castle equip find gold innocent drum shell suggest episode jacket sting";
+var mnemonic = "scout north output olive mandate people piece total unhappy industry job corn";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow recipe need mosquito need vague device wild rebuild false deputy person";
+var mnemonic = "essay lunch hat fuel seat next improve spoon trap theme ride equip";

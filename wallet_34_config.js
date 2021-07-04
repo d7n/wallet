@@ -1,1 +1,1 @@
-var mnemonic = "staff trumpet coyote extra census dust range just juice screen curtain spray";
+var mnemonic = "very mosquito world visual peanut alter change butter salmon song bind advice";

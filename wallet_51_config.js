@@ -1,1 +1,1 @@
-var mnemonic = "bargain lens chaos catch census matrix endorse smart under exist pony settle";
+var mnemonic = "liar girl slogan blade element six ball enlist abandon rapid talent giggle";

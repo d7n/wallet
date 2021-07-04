@@ -1,1 +1,1 @@
-var mnemonic = "fresh rug access express immune ridge pattern town leopard crucial brisk wreck";
+var mnemonic = "dash story fiscal today junior script clock voyage awful gossip pioneer express";

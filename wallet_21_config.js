@@ -1,1 +1,1 @@
-var mnemonic = "code obtain rabbit release dynamic skill modify gown enemy pass rich half";
+var mnemonic = "matrix around brisk tired link poverty they funny program immune urge device";

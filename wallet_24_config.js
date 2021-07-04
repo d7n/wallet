@@ -1,1 +1,1 @@
-var mnemonic = "vast mask version catalog give zoo float smart lion fabric legal bike";
+var mnemonic = "together novel donate moon program tiny wear gesture fiber erode neck scout";

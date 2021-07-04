@@ -1,1 +1,1 @@
-var mnemonic = "custom later domain yard shield deer embody dust office history patient despair";
+var mnemonic = "pelican marble among animal sugar nice decrease arrest rotate click mammal library";

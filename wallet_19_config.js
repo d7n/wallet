@@ -1,1 +1,1 @@
-var mnemonic = "lawn silly goat gravity rough melt trip eternal recipe dose action nephew";
+var mnemonic = "pumpkin quick various visit brisk toilet acid menu banana flight collect duck";

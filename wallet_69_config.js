@@ -1,1 +1,1 @@
-var mnemonic = "picnic liquid knife angry nut walnut unfold rival remove casino patient sport";
+var mnemonic = "invest globe mind alarm couple lonely champion sad raccoon online flee hat";

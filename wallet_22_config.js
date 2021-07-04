@@ -1,1 +1,1 @@
-var mnemonic = "alarm jacket royal mushroom jacket silly gate pill evolve garment night undo";
+var mnemonic = "polar blouse rotate better near road giraffe display purchase gossip accident rib";

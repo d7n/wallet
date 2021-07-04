@@ -1,1 +1,1 @@
-var mnemonic = "wolf odor kit mask quick shallow kidney space acoustic pretty water aware";
+var mnemonic = "present empower cruel advice report midnight spice delay satisfy situate faint oxygen";

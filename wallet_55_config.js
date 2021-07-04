@@ -1,1 +1,1 @@
-var mnemonic = "trust trophy barely net doll biology nice quarter fringe device chase awkward";
+var mnemonic = "either stadium baby leader traffic pretty talent cattle west voice cry trip";

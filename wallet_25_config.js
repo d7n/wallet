@@ -1,1 +1,1 @@
-var mnemonic = "draft inch expose wild winter salt coconut visa erupt random lounge dad";
+var mnemonic = "about market spatial lyrics tonight discover endorse wait gesture refuse voyage push";

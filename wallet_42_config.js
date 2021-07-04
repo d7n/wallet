@@ -1,1 +1,1 @@
-var mnemonic = "people near skirt gun peace misery delay horse school film file mail";
+var mnemonic = "thumb grit dizzy point satoshi order swap drop surround absent swing business";

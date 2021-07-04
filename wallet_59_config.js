@@ -1,1 +1,1 @@
-var mnemonic = "flip ostrich resist dentist stairs dream basket option angry claim reject noodle";
+var mnemonic = "trap rose trim jaguar risk light hawk pumpkin air despair spend repair";

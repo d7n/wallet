@@ -1,1 +1,1 @@
-var mnemonic = "jeans move urge future swarm short accident pole behave ugly recipe soon";
+var mnemonic = "rail elegant husband express rebel sail lemon layer drink achieve dwarf wheel";

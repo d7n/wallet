@@ -1,1 +1,1 @@
-var mnemonic = "excess desk venture fetch surprise super bridge sun hunt exist become position";
+var mnemonic = "wrist awkward fall atom kitten silent erase heavy client auto spin behave";

@@ -1,1 +1,1 @@
-var mnemonic = "seed napkin neutral jelly joy name plate pride wrong pelican outside gentle";
+var mnemonic = "match swear special warm absent film reunion leisure invest uniform beef wear";

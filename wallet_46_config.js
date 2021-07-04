@@ -1,1 +1,1 @@
-var mnemonic = "crowd genre spin fitness taste life cluster once equal movie wage cement";
+var mnemonic = "target tent act wonder dance liquid top knife swing crouch mutual vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "false panda measure current decorate attend wealth diary stamp rough beef stage";
+var mnemonic = "cool apart scrap tip saddle still fatal page health carbon neither few";

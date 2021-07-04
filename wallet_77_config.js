@@ -1,1 +1,1 @@
-var mnemonic = "same purity double arena answer rely away urge because involve spy lyrics";
+var mnemonic = "enemy stamp demand have swear have mask movie ozone quality manage obvious";

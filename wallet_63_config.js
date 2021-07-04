@@ -1,1 +1,1 @@
-var mnemonic = "involve blouse fury robust pumpkin angle exercise paper confirm dragon wrist tooth";
+var mnemonic = "clinic public shallow toss rigid favorite ramp elegant recycle weasel mushroom share";

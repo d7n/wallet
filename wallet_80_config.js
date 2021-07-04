@@ -1,1 +1,1 @@
-var mnemonic = "huge evoke enough axis fan disorder unlock crane seven weird burger curve";
+var mnemonic = "enroll actual swap fine plastic robust soldier unit dune asset festival okay";

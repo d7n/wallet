@@ -1,1 +1,1 @@
-var mnemonic = "across ready clay clean gossip route knee mother twenty genuine scrap rug";
+var mnemonic = "job state credit sleep nominee ozone eight detail march bonus boy suspect";

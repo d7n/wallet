@@ -1,1 +1,1 @@
-var mnemonic = "strategy hole stereo festival office pudding mesh usual right truly wagon obey";
+var mnemonic = "effort resource version axis meadow marine attitude lumber chase pear odor section";

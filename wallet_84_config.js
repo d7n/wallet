@@ -1,1 +1,1 @@
-var mnemonic = "shadow service yard canyon pig dream song kangaroo plunge december swear quote";
+var mnemonic = "cheap key scatter old palm lamp police bulk yard rebuild outer refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "mean loud venue bench exclude safe athlete apart valley rain screen cover";
+var mnemonic = "inherit devote again rigid provide luggage make perfect recall lesson pact stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme enrich supreme envelope target gap panther police blur vault bubble dice";
+var mnemonic = "discover night drive jar glass people goat brief local bubble grass misery";

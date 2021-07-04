@@ -1,1 +1,1 @@
-var mnemonic = "ivory giggle squirrel glance prefer honey margin there napkin conduct blanket digital";
+var mnemonic = "palace marble oyster cube ghost still dose december tenant company birth response";

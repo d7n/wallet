@@ -1,1 +1,1 @@
-var mnemonic = "elite casual dumb grit sleep cereal crime admit project uncover hurry fragile";
+var mnemonic = "maximum absorb south matrix dignity public sustain pulse love hood soldier bulk";

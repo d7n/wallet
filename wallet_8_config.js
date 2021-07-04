@@ -1,1 +1,1 @@
-var mnemonic = "century judge ship firm myth board exist stadium interest fiscal ill pink";
+var mnemonic = "heavy seek weather soft strong yard ring monkey insane crush august utility";

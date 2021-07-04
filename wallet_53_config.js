@@ -1,1 +1,1 @@
-var mnemonic = "sausage scan guide stadium thank estate rally art notice virus version spoil";
+var mnemonic = "limit noise burst slogan spike mesh rich sketch write quantum public step";

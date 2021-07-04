@@ -1,1 +1,1 @@
-var mnemonic = "lab sauce sun ability battle denial chat dilemma powder assault rack clutch";
+var mnemonic = "main cushion vague unaware this opinion decorate hotel much fancy skull rescue";

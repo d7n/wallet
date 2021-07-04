@@ -1,1 +1,1 @@
-var mnemonic = "flight joy quote hurry hole boss raven correct exit point reward direct";
+var mnemonic = "volcano lawsuit glow woman dune material kind orange involve skirt town palm";

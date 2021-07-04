@@ -1,1 +1,1 @@
-var mnemonic = "heart valve own maximum model rebel certain taste empower wing offer merit";
+var mnemonic = "payment south want describe glory pet erase relax youth together broom inner";

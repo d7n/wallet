@@ -1,1 +1,1 @@
-var mnemonic = "tank upset aim pond other galaxy taste mail search fire crop science";
+var mnemonic = "convince tree resemble parent lumber word place lend draw general join acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire thrive bulk since craft mother divide hero anchor cram physical useful";
+var mnemonic = "coffee rural put memory baby nothing act mosquito figure purity walk ostrich";
