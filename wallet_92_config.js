@@ -1,1 +1,1 @@
-var mnemonic = "next radio hole outer canoe ladder hole joke rule arrest essay casino";
+var mnemonic = "blouse broom shrimp polar rival insect vivid lobster rocket flip million siege";

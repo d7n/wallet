@@ -1,1 +1,1 @@
-var mnemonic = "chat waste cherry door edge video artefact beauty elegant divert need turkey";
+var mnemonic = "beach rule cargo abstract rich budget guard dutch drop smooth they foot";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon alien sun funny churn nation erode dignity suffer toast vessel ugly";
+var mnemonic = "scrub spatial hover promote welcome stuff pulse virus shell junk fat speed";

@@ -1,1 +1,1 @@
-var mnemonic = "original lake ghost yellow win animal ecology harsh primary easily evolve orbit";
+var mnemonic = "buzz scan install fish round bronze beauty mercy crane vanish move husband";

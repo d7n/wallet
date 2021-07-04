@@ -1,1 +1,1 @@
-var mnemonic = "panic spy chief theory trap text swallow blast oyster maple odor guess";
+var mnemonic = "shift abuse scorpion below tattoo decide setup abandon silly purpose retire treat";

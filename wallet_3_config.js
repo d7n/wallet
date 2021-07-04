@@ -1,1 +1,1 @@
-var mnemonic = "bacon addict maximum banner cry dwarf enforce topic load ugly scrap similar";
+var mnemonic = "electric whip dragon trash there peasant night busy tragic city violin leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "allow pole vapor burden north purchase chapter drip doctor tortoise unique toss";
+var mnemonic = "master mango cactus panda scorpion matrix element mango come purity rural dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow chase utility caution embark become heavy front siren bottom clerk drive";
+var mnemonic = "cabin regular blossom misery sniff phone stem right find volcano drip help";

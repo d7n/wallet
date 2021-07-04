@@ -1,1 +1,1 @@
-var mnemonic = "local practice impulse detail miracle size joke file reject puppy powder despair";
+var mnemonic = "assume harsh one wrist layer skirt plug thought cattle era achieve february";

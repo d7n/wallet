@@ -1,1 +1,1 @@
-var mnemonic = "pond write slab inside later toilet license mail inherit salon sorry crunch";
+var mnemonic = "salad candy deposit code lab disorder local top film bleak debris spike";

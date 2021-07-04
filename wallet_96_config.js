@@ -1,1 +1,1 @@
-var mnemonic = "meat cereal wear giant loud scatter hungry hybrid load across roof plunge";
+var mnemonic = "wrestle print salad basic fit usual chase lava tip need legal flight";

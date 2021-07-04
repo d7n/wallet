@@ -1,1 +1,1 @@
-var mnemonic = "profit matter limit armor inmate device dice source force photo adapt sausage";
+var mnemonic = "special creek north pepper ozone panel turtle genuine group capital state amateur";

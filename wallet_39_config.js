@@ -1,1 +1,1 @@
-var mnemonic = "dolphin play summer kingdom language hollow midnight just point borrow genre sunset";
+var mnemonic = "barrel brown engine tongue size trouble utility tooth train magnet grit game";

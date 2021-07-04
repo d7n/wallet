@@ -1,1 +1,1 @@
-var mnemonic = "fresh treat attitude length flock main what enact tail exist appear divorce";
+var mnemonic = "bind forest add vault right laptop script galaxy cross field fashion right";

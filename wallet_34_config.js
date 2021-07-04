@@ -1,1 +1,1 @@
-var mnemonic = "spider satisfy safe refuse bar job make differ divide talent gift rain";
+var mnemonic = "hidden trumpet denial luggage soldier fatigue salt dwarf road focus current young";

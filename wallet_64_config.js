@@ -1,1 +1,1 @@
-var mnemonic = "omit when shiver before ski human explain day bleak door grain desert";
+var mnemonic = "giggle satisfy alpha phrase mushroom chase act drop rifle decline bag certain";

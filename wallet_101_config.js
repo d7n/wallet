@@ -1,1 +1,1 @@
-var mnemonic = "few vessel wonder stock almost sing mad sample elite possible permit ill";
+var mnemonic = "shell where famous gasp bleak chuckle feed fuel clump decrease pig material";

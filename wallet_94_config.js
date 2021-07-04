@@ -1,1 +1,1 @@
-var mnemonic = "chronic armed subway print solar pudding roof cross weird gallery basket submit";
+var mnemonic = "provide planet unit rule clap scatter eagle know chimney quiz aspect paper";

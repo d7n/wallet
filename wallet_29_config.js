@@ -1,1 +1,1 @@
-var mnemonic = "choose wheel kingdom damage come blush mad about pigeon border never plunge";
+var mnemonic = "next siege come face coconut school reform unique super model stage clown";

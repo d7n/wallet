@@ -1,1 +1,1 @@
-var mnemonic = "remind because dignity keen verb patient timber process cause amazing pencil lawn";
+var mnemonic = "bean steak anger giraffe motion warfare surround dune tourist ill bacon chimney";

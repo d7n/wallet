@@ -1,1 +1,1 @@
-var mnemonic = "eagle divert size walk arena fat dirt tag tumble accident plate skull";
+var mnemonic = "void sea square ancient brain connect divert reject mercy waste can artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal share nose asset fire harvest toe argue viable sound crime need";
+var mnemonic = "inflict either birth smoke blossom civil mimic warm life few need cereal";

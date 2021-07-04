@@ -1,1 +1,1 @@
-var mnemonic = "art more mammal opera body beef general inherit curious walnut fall genuine";
+var mnemonic = "problem arch birth never scissors trip month crane banana service street inhale";

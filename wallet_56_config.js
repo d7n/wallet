@@ -1,1 +1,1 @@
-var mnemonic = "antenna whale confirm current favorite wrist have waste undo among coin address";
+var mnemonic = "fat strike web cave antique aware clump match hammer receive shed square";

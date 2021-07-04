@@ -1,1 +1,1 @@
-var mnemonic = "entire crop problem water blush vocal move ripple midnight mother decrease fossil";
+var mnemonic = "asthma canyon rubber figure ghost amused buddy trade lunar ozone east rude";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase output woman beach cloud sure bar fat subject offer donkey owner";
+var mnemonic = "vanish output deposit eagle boost diagram hurdle tuna economy horn tuition donate";

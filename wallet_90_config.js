@@ -1,1 +1,1 @@
-var mnemonic = "water lava spawn wine shy space remember mass lunch desert allow trigger";
+var mnemonic = "snow panda sign swap front forum side salon wave high super acoustic";

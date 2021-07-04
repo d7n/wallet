@@ -1,1 +1,1 @@
-var mnemonic = "void ready derive elegant scout avoid duck actress erode canal security quarter";
+var mnemonic = "other square sadness grow error random initial dice daring return nuclear impact";

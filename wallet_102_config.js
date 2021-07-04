@@ -1,1 +1,1 @@
-var mnemonic = "comfort gravity candy advice hobby adapt level limit truly token false speed";
+var mnemonic = "typical space badge public vast two image target seek define rug hire";

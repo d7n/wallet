@@ -1,1 +1,1 @@
-var mnemonic = "argue intact oyster ball edit uncover nuclear cute captain spot lumber extra";
+var mnemonic = "fence yard decade law potato mouse hotel term avoid winter interest mix";

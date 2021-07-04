@@ -1,1 +1,1 @@
-var mnemonic = "sense veteran love refuse pet vital round stadium fence flip penalty slight";
+var mnemonic = "circle case brush pitch avoid monster flavor angle brand mule act pet";

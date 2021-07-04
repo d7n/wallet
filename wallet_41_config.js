@@ -1,1 +1,1 @@
-var mnemonic = "asset ostrich warrior victory erosion scorpion grass average panic holiday cousin hub";
+var mnemonic = "mosquito pretty crop outside lucky toy there kind honey supply gown cheese";

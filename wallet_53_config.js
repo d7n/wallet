@@ -1,1 +1,1 @@
-var mnemonic = "thing exercise token left drill marriage breeze marine eager phone senior thank";
+var mnemonic = "black depart soccer view swim pupil indoor festival expand cube permit clay";

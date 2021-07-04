@@ -1,1 +1,1 @@
-var mnemonic = "talent sudden kangaroo tunnel feel aim opera arm animal evidence can roof";
+var mnemonic = "month above gadget sheriff ability alone ivory divert snap copy veteran treat";

@@ -1,1 +1,1 @@
-var mnemonic = "before bronze ranch sight share enroll hybrid banner spike measure notice smile";
+var mnemonic = "crawl rapid celery fork acid arctic twice room actual mushroom awful omit";

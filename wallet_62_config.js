@@ -1,1 +1,1 @@
-var mnemonic = "normal breeze door bracket option fever flower subject renew guitar inhale skirt";
+var mnemonic = "year hybrid earth bird outer source stage visa hidden dog void switch";

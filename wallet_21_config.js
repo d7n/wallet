@@ -1,1 +1,1 @@
-var mnemonic = "clean mask puppy blue post slush develop ancient orient blood okay cart";
+var mnemonic = "expand machine magic reunion dose short average lift into fine chicken finger";

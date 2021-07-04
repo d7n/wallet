@@ -1,1 +1,1 @@
-var mnemonic = "book venture news provide cricket sketch daughter next elite response organ reopen";
+var mnemonic = "warm strike kiss tackle version attend mouse draft dice inspire magic virtual";

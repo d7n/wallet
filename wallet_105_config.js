@@ -1,1 +1,1 @@
-var mnemonic = "noise laptop sketch differ area now tag pioneer witness crazy yellow employ";
+var mnemonic = "plug invite metal coffee airport where decade state nest seven sand boil";

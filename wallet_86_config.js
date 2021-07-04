@@ -1,1 +1,1 @@
-var mnemonic = "honey snack belt result zebra harsh elevator off analyst loyal predict jump";
+var mnemonic = "letter option disagree swamp alter creek name dinner tilt food craft scare";

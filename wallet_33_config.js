@@ -1,1 +1,1 @@
-var mnemonic = "half judge segment claw milk oppose music hunt laugh tilt negative skirt";
+var mnemonic = "broccoli address among clock cradle menu lecture cook oven again demise gather";

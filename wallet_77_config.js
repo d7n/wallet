@@ -1,1 +1,1 @@
-var mnemonic = "output harvest mutual grid live advance grab weapon angle travel huge document";
+var mnemonic = "few tent dinner famous foam cat because hope peanut robust initial clinic";

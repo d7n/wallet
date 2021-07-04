@@ -1,1 +1,1 @@
-var mnemonic = "palace recipe process neutral pony ghost magnet wolf accident unit brave crane";
+var mnemonic = "toddler sweet divorce toy chief arrange slight flag youth slice wing width";

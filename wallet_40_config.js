@@ -1,1 +1,1 @@
-var mnemonic = "family throw luxury mansion pilot voyage atom mask tiny general assist kitten";
+var mnemonic = "use junior pony settle runway client harsh final mixed term visual genuine";

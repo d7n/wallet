@@ -1,1 +1,1 @@
-var mnemonic = "cruise nothing urban trophy entire afford solution method spot menu youth draw";
+var mnemonic = "render carpet wash pitch video rose abandon rib option can deal close";

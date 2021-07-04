@@ -1,1 +1,1 @@
-var mnemonic = "layer forget speak maid move hundred female grow orchard coast label patient";
+var mnemonic = "fringe organ knock soda mountain inspire dune record busy patrol bright exotic";

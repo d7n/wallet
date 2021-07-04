@@ -1,1 +1,1 @@
-var mnemonic = "call clutch where old note first laugh soft job sting fortune art";
+var mnemonic = "afraid fog balcony lamp vocal lady clerk history position snow weapon solve";

@@ -1,1 +1,1 @@
-var mnemonic = "slab skirt hamster park pigeon banner apology pass odor drift glare rebel";
+var mnemonic = "boil candy monitor adjust cable donkey turtle glimpse topple visit mix glove";

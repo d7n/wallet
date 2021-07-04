@@ -1,1 +1,1 @@
-var mnemonic = "lake stamp asthma stool gain creek opera super garage fork cage medal";
+var mnemonic = "wisdom arrow jacket train loud honey opinion floor online bag nasty maze";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet goose random fitness section purpose tiger similar next clip slogan mechanic";
+var mnemonic = "cry brass song cycle hair museum sport reduce resist fresh truth soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "file void minute moon angle focus girl muffin jelly online deputy eight";
+var mnemonic = "bridge top donkey sentence print leave daring shadow steel aerobic dial pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "act father wealth list dolphin canal casino solve direct bar draft gloom";
+var mnemonic = "lesson dish unable cluster private shoe chuckle gallery satoshi lonely belt strategy";

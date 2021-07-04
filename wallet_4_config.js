@@ -1,1 +1,1 @@
-var mnemonic = "citizen flower crack gain utility retreat female skate fluid vivid raccoon expect";
+var mnemonic = "tomato pause fiscal museum merge hedgehog seven clutch peasant warm install piano";

@@ -1,1 +1,1 @@
-var mnemonic = "math pelican chronic drip wagon immense entry runway drift slot wish radar";
+var mnemonic = "anger punch brown vessel tenant that lock drive vault exit end cause";

@@ -1,1 +1,1 @@
-var mnemonic = "copy hand school clerk license spy ladder credit crater eager youth secret";
+var mnemonic = "ancient need immense gesture wrong sleep vital raw obscure common silver other";

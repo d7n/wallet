@@ -1,1 +1,1 @@
-var mnemonic = "warm corn critic clay notice color loop unique fit coral film assume";
+var mnemonic = "warrior whip usual tornado crumble rate edge narrow trophy finish puzzle blush";

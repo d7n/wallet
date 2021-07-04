@@ -1,1 +1,1 @@
-var mnemonic = "maximum cereal cash bike quantum bachelor flash bike whale bar shine spider";
+var mnemonic = "book worth pole trap false hen field unlock icon interest panther stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "series luggage over second machine doll help mountain device addict price front";
+var mnemonic = "under salt strategy hub hidden hurry arm valve coconut panel stomach daring";

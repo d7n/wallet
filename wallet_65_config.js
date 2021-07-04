@@ -1,1 +1,1 @@
-var mnemonic = "ritual grab dance village music uphold ugly one tray add wish jelly";
+var mnemonic = "lens satisfy family candy alien fold debris awake shiver shop blast install";

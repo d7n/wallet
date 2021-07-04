@@ -1,1 +1,1 @@
-var mnemonic = "clip vast snake trust pink fever ahead cup poverty museum match coral";
+var mnemonic = "unit square chair beef social cigar capital dragon tumble apart curve faint";

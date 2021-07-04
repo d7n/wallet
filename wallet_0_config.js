@@ -1,1 +1,1 @@
-var mnemonic = "fury toddler ostrich fee tent slice main giggle blossom segment illegal inform";
+var mnemonic = "rebel morning friend drum stone priority hint estate name hotel duck pink";

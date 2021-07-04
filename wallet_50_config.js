@@ -1,1 +1,1 @@
-var mnemonic = "ticket snow else tragic shaft average bracket clump potato inject rate voice";
+var mnemonic = "dune proud gap forest border member have gorilla focus traffic throw click";

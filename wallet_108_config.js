@@ -1,1 +1,1 @@
-var mnemonic = "crack height sibling milk camp chapter color govern embrace accuse hollow illness";
+var mnemonic = "jeans provide foster grass host unhappy winter surprise spell saddle demise range";

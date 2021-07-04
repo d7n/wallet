@@ -1,1 +1,1 @@
-var mnemonic = "horse desert vicious start wealth blame radar solve oblige security grit adapt";
+var mnemonic = "curve nation tower secret any aunt float swim quick work hunt rare";

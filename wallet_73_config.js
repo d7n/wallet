@@ -1,1 +1,1 @@
-var mnemonic = "lecture crash media shadow unable believe real travel drink rally monitor soda";
+var mnemonic = "blood talk live flash huge bar cook brother clump odor vague brave";

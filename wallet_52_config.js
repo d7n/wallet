@@ -1,1 +1,1 @@
-var mnemonic = "exile choose gold enact point goddess exile demand half balance success tag";
+var mnemonic = "dragon bitter three shell width consider fine pitch cause shock pony kidney";

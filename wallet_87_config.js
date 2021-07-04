@@ -1,1 +1,1 @@
-var mnemonic = "initial anger notice ankle usage palm evil vast champion letter script mistake";
+var mnemonic = "start giraffe armor liberty secret mirror hair avocado ready prepare item split";

@@ -1,1 +1,1 @@
-var mnemonic = "view sport impact common junior struggle win effort skate hip term mail";
+var mnemonic = "only delay muscle ramp gaze access enemy adapt chimney walk garden master";

@@ -1,1 +1,1 @@
-var mnemonic = "kite flat soda resource feed swarm unhappy clump aim catalog object mesh";
+var mnemonic = "soap romance morning fossil recall present assault repair hidden melody rely coil";

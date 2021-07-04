@@ -1,1 +1,1 @@
-var mnemonic = "holiday swim bridge know flock nature network electric execute wine exhaust badge";
+var mnemonic = "slogan ecology embody fruit smoke bullet rigid present worry enhance naive crazy";

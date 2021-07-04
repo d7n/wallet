@@ -1,1 +1,1 @@
-var mnemonic = "review beef fame tobacco armed cook tattoo science wave pilot virus expire";
+var mnemonic = "desert roof awake seat dolphin budget average capital dwarf exotic festival flower";

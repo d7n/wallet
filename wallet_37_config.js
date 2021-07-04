@@ -1,1 +1,1 @@
-var mnemonic = "problem brick wink trumpet humor clever kingdom chalk forum minor topple bullet";
+var mnemonic = "fine gesture blade reason orbit school praise swing weapon eternal elite beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "shield rude skin fancy broken race hammer ring brother concert often jump";
+var mnemonic = "treat fade ability relax glass absorb fire bike obvious wink just nothing";

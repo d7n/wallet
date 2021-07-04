@@ -1,1 +1,1 @@
-var mnemonic = "clean promote banana that abuse bless area dry tree cinnamon exercise exercise";
+var mnemonic = "rotate earn symptom alert spot castle toy palm measure swift believe real";

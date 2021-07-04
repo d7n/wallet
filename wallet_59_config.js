@@ -1,1 +1,1 @@
-var mnemonic = "erode venture plate decline winter this enter anchor april volcano push trend";
+var mnemonic = "lottery old spot include another keen pear share wrestle guitar loyal sister";

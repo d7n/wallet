@@ -1,1 +1,1 @@
-var mnemonic = "peace cushion flower episode extra voyage ahead elevator album relax place put";
+var mnemonic = "luggage found enjoy palm raise maze dose change transfer orbit eyebrow mango";

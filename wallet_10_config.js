@@ -1,1 +1,1 @@
-var mnemonic = "ordinary order interest trade rhythm tool aunt flock lake jaguar strong lens";
+var mnemonic = "casino expire wagon sausage trumpet review snack cross extend grow favorite mountain";

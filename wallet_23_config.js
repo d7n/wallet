@@ -1,1 +1,1 @@
-var mnemonic = "logic love blossom once protect pill race nominee diamond apart swim dry";
+var mnemonic = "coral rigid razor normal icon tornado tone pioneer vote renew soldier erosion";

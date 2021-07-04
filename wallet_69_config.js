@@ -1,1 +1,1 @@
-var mnemonic = "answer bus mandate spread shop ski jelly fuel axis quarter surge slam";
+var mnemonic = "antenna wave strike seminar rifle deliver health shoe trash young leader isolate";

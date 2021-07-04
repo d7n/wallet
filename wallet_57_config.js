@@ -1,1 +1,1 @@
-var mnemonic = "symptom quantum select cigar quantum click evidence script pretty error chaos resource";
+var mnemonic = "furnace twin code case travel easily harvest story pipe tell source crane";

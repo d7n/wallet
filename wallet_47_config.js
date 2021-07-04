@@ -1,1 +1,1 @@
-var mnemonic = "summer sight clinic picnic correct club swarm insect agree dinner day legal";
+var mnemonic = "siren regret oppose gain soccer scare burger barrel napkin retire weather budget";

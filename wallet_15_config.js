@@ -1,1 +1,1 @@
-var mnemonic = "open cart sword anxiety visual flush curve brother viable perfect usage sure";
+var mnemonic = "misery leaf wing liar grape entire deputy divide quiz milk bargain cup";

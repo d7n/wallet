@@ -1,1 +1,1 @@
-var mnemonic = "damp blossom hat luggage measure genuine sausage guide subway few aim note";
+var mnemonic = "awake sunset mystery cliff hill income clinic spoon since fog truck narrow";

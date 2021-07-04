@@ -1,1 +1,1 @@
-var mnemonic = "route gravity caught rebuild kingdom turtle suit spirit coffee siege wave yellow";
+var mnemonic = "person frame couch license process cook team fog truck island real they";

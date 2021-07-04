@@ -1,1 +1,1 @@
-var mnemonic = "panic pulp bubble height prize live spring bounce swarm sword symptom snap";
+var mnemonic = "owner dance model dynamic cotton bike clock lyrics nephew quarter please health";

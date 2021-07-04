@@ -1,1 +1,1 @@
-var mnemonic = "false bitter version vicious nasty attack mixture trap bracket credit couch lamp";
+var mnemonic = "tomorrow peace fat dirt perfect rate parrot derive vacuum square piano busy";

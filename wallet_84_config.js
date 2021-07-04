@@ -1,1 +1,1 @@
-var mnemonic = "ignore nominee ball wheel width camera pipe wife praise police mango marine";
+var mnemonic = "cargo obey horror decline butter goat decade govern shoulder catalog beauty buzz";

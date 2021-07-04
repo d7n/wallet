@@ -1,1 +1,1 @@
-var mnemonic = "assume cup page toast mosquito speak sweet organ orbit evolve clay crumble";
+var mnemonic = "mention pudding nest regret clock phrase avoid erode rigid version region ranch";

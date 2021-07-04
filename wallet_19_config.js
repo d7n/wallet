@@ -1,1 +1,1 @@
-var mnemonic = "eagle ten fetch dad rifle joy manual pact hill error whip section";
+var mnemonic = "marriage spread lawn obscure number safe rather lens area wisdom nerve extra";

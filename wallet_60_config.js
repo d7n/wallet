@@ -1,1 +1,1 @@
-var mnemonic = "proof document permit patrol write silly busy night school ancient hidden draw";
+var mnemonic = "idea devote arrow grid potato rain annual alter runway sniff result account";

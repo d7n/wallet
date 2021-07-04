@@ -1,1 +1,1 @@
-var mnemonic = "over grass defy enact satisfy bread talent outside shell various always human";
+var mnemonic = "stand script theme around glide trick unveil legend brass garage cart wine";

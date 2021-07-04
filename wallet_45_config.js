@@ -1,1 +1,1 @@
-var mnemonic = "solar rally world negative melody level sustain amount record destroy ozone spatial";
+var mnemonic = "speed dutch sister walk curve pencil escape furnace effort slice stairs key";

@@ -1,1 +1,1 @@
-var mnemonic = "novel tell parent shoulder energy animal grant vacuum then fatal clerk boss";
+var mnemonic = "cruise expect push habit access tuna choose skirt choose loud dove conduct";
