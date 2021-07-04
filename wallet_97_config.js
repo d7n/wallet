@@ -1,1 +1,1 @@
-var mnemonic = "fix song abstract potato promote couch please loan trouble speed advice put";
+var mnemonic = "solar hole august unknown fiction tuna source alien truck member butter choose";

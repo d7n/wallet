@@ -1,1 +1,1 @@
-var mnemonic = "clap gift talent wide skate pledge pact crop mistake struggle guilt rich";
+var mnemonic = "guilt father aware sick empower know confirm switch middle slab conduct plastic";

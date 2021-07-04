@@ -1,1 +1,1 @@
-var mnemonic = "evil butter foot athlete organ hawk success uncle street trade laptop nephew";
+var mnemonic = "decrease act drama height language dumb moment grab focus mix gentle tornado";

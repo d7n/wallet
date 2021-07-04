@@ -1,1 +1,1 @@
-var mnemonic = "wing mechanic pledge have toy prison furnace fury appear motion piano impact";
+var mnemonic = "acid attract later rather major express bird laugh bag general answer weekend";

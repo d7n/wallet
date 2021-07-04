@@ -1,1 +1,1 @@
-var mnemonic = "vapor wolf burger dutch drama group width require puzzle wage useful address";
+var mnemonic = "seed bacon rent indoor involve stairs jealous render bench machine manage assume";

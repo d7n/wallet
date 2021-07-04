@@ -1,1 +1,1 @@
-var mnemonic = "police toe advance thunder wise blush fancy together seven monitor rather clip";
+var mnemonic = "dragon virtual wrap leave feel cigar affair then immune shop eyebrow begin";

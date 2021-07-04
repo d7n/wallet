@@ -1,1 +1,1 @@
-var mnemonic = "brave noodle save daring pudding paddle roof farm sphere rude analyst evoke";
+var mnemonic = "meat horse actor cabbage obvious cake reform buddy soldier typical barrel school";

@@ -1,1 +1,1 @@
-var mnemonic = "kind time gift believe piano sword holiday track steak stone strong lamp";
+var mnemonic = "orange feel fun enjoy return crush select manage polar scan festival tower";

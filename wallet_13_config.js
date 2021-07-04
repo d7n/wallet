@@ -1,1 +1,1 @@
-var mnemonic = "first side trophy clerk awake spread erupt body feel genius young actor";
+var mnemonic = "fragile famous payment weapon public salute sketch blast toy comic width ten";

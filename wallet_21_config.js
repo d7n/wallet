@@ -1,1 +1,1 @@
-var mnemonic = "only bar frozen emerge treat suit change peanut real day adult rib";
+var mnemonic = "embrace subject chat appear express vessel nature tray choice trophy slow crucial";

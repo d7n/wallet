@@ -1,1 +1,1 @@
-var mnemonic = "shoot pencil dose pond either asthma judge genuine lock deputy wealth crawl";
+var mnemonic = "audit forum pull myself valley scene chicken neither scale quality soldier lava";

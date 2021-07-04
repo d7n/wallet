@@ -1,1 +1,1 @@
-var mnemonic = "hurry typical shed gloom embark venture fortune refuse video horror caution render";
+var mnemonic = "vivid popular glue wash stand surprise word chef annual voice toward bleak";

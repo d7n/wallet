@@ -1,1 +1,1 @@
-var mnemonic = "sadness push tower rice athlete train essence bean duck tower romance metal";
+var mnemonic = "glove diagram able wine pioneer fun deposit park heavy urge clap purity";

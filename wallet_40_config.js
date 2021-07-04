@@ -1,1 +1,1 @@
-var mnemonic = "kitchen pelican brain wing tenant point force number melody maple blood extra";
+var mnemonic = "urge snake awake oppose exclude reflect oppose pluck defy melody dignity bronze";

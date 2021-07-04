@@ -1,1 +1,1 @@
-var mnemonic = "inner company edit giggle weapon title enhance project exchange twist face morning";
+var mnemonic = "train rib nose okay security tribe empower excite obtain matrix relax polar";

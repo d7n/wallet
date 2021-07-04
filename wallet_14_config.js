@@ -1,1 +1,1 @@
-var mnemonic = "swarm desk hello primary flower switch pond silent gossip outside cost upper";
+var mnemonic = "flight mixed pitch pond gesture circle topple jealous unable draft afford fun";

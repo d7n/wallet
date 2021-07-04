@@ -1,1 +1,1 @@
-var mnemonic = "recycle man fatal demand december gossip venue glare proof foam insane mutual";
+var mnemonic = "celery gorilla stage pig love disease before polar siege trumpet evil receive";

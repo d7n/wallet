@@ -1,1 +1,1 @@
-var mnemonic = "forum afford slogan bring drink system range home snap duck harbor already";
+var mnemonic = "section hospital tornado later bamboo wolf crawl notice hover rack flame game";

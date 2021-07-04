@@ -1,1 +1,1 @@
-var mnemonic = "border skin stock good online purity still resist they hybrid price other";
+var mnemonic = "horse claw client profit object number steel vanish pencil jeans double decline";

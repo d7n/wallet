@@ -1,1 +1,1 @@
-var mnemonic = "bitter scan damage layer silent demand desk coconut tornado robust medal come";
+var mnemonic = "minimum island rocket fault hire empty conduct quantum open brisk collect sentence";

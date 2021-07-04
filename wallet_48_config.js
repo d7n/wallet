@@ -1,1 +1,1 @@
-var mnemonic = "divide waste much fantasy wheel confirm toss silk half spare style cloth";
+var mnemonic = "sun imitate load maze valve issue fashion puppy prosper broom hedgehog right";

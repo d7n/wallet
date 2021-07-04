@@ -1,1 +1,1 @@
-var mnemonic = "jungle quiz ginger idle knife busy into corn slot wreck riot easily";
+var mnemonic = "fancy oblige system awkward success wolf enact enroll scout amused gain acoustic";

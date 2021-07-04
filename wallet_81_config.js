@@ -1,1 +1,1 @@
-var mnemonic = "property real grunt keen arrive lumber mango autumn possible jewel farm satoshi";
+var mnemonic = "slam ripple muffin company solution bone act mistake document spot actor come";

@@ -1,1 +1,1 @@
-var mnemonic = "merit street foster begin display valid control pupil matrix loyal shed latin";
+var mnemonic = "result cattle census canvas addict joy asset abuse guess skull predict target";

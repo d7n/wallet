@@ -1,1 +1,1 @@
-var mnemonic = "bounce sponsor veteran burst idle artwork combine length weird clay garage kitchen";
+var mnemonic = "squeeze supply raven clean inherit output path vast echo cave embrace cream";

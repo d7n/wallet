@@ -1,1 +1,1 @@
-var mnemonic = "nice ginger shove illegal lift hair film true enlist salt evidence army";
+var mnemonic = "biology chief account bounce input arrive sample ignore hero addict salt razor";

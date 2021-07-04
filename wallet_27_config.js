@@ -1,1 +1,1 @@
-var mnemonic = "spy walnut skill input piece avoid answer pair diagram hawk dilemma pumpkin";
+var mnemonic = "supply under boss local neutral above crisp push mammal left spirit side";

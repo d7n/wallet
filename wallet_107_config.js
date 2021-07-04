@@ -1,1 +1,1 @@
-var mnemonic = "occur identify thought assault motion crisp canal kangaroo kite lend celery engine";
+var mnemonic = "rifle ethics system wisdom during awake erase shield design knock end poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth click decorate either quick worry smart tunnel hurdle account rebel oak";
+var mnemonic = "reunion tornado grant mass catch talk comic cause accident dynamic wood hotel";

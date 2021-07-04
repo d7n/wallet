@@ -1,1 +1,1 @@
-var mnemonic = "lecture mix excess balcony skill wide police economy alien two elegant differ";
+var mnemonic = "shop rude return diesel dance moon business valid jar learn erosion direct";

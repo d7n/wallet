@@ -1,1 +1,1 @@
-var mnemonic = "suggest gain voyage soft frequent toast utility witness elevator gadget soup segment";
+var mnemonic = "excuse upon essence proof ugly benefit enforce space accident jungle ozone whisper";

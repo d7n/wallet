@@ -1,1 +1,1 @@
-var mnemonic = "canyon sad poverty release onion eager maple trigger accident obey ocean panel";
+var mnemonic = "giraffe romance survey whip border episode very loop basic festival before announce";

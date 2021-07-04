@@ -1,1 +1,1 @@
-var mnemonic = "lock endless fatal lesson town where april cloud canvas army oblige rally";
+var mnemonic = "cotton spare magnet anger save dose modify carpet island miss eager volume";

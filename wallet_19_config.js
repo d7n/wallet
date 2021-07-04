@@ -1,1 +1,1 @@
-var mnemonic = "few trash large bar identify entire grain match enjoy fire hidden tribe";
+var mnemonic = "diagram mansion core grape tired explain purpose gentle scrub table hold atom";

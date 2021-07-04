@@ -1,1 +1,1 @@
-var mnemonic = "cement call tube hard treat hill device that tissue when awkward forget";
+var mnemonic = "party develop vicious music enroll wool wisdom useless unhappy tunnel faculty oxygen";

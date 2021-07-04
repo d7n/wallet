@@ -1,1 +1,1 @@
-var mnemonic = "urge destroy recycle advance aim page upon awesome resemble under sudden burden";
+var mnemonic = "tunnel audit pitch squirrel carpet assume whale olympic absorb theory equal toward";

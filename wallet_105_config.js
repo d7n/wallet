@@ -1,1 +1,1 @@
-var mnemonic = "impose boost balcony insect beyond music steel room permit quiz walnut diesel";
+var mnemonic = "enable undo prefer certain tiger wolf circle little until civil tape sail";

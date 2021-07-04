@@ -1,1 +1,1 @@
-var mnemonic = "right sense double tongue green truth taxi gravity humble peasant method decide";
+var mnemonic = "slim indicate reduce oval venue rigid cousin crime eager stereo often promote";

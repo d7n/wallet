@@ -1,1 +1,1 @@
-var mnemonic = "intact parrot fantasy valley arrange grunt happy mouse sort ten torch peanut";
+var mnemonic = "admit husband pull nut stage menu captain truth body pottery six warm";

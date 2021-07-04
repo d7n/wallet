@@ -1,1 +1,1 @@
-var mnemonic = "capable short category engage tag soon vehicle air choice escape infant uphold";
+var mnemonic = "recall broom humor drip seven check ceiling height congress regret try comfort";

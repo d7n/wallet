@@ -1,1 +1,1 @@
-var mnemonic = "rather fossil wagon camera quit shift lounge camp blood paddle swarm forum";
+var mnemonic = "scheme setup wise wagon dawn release case enough elevator into column good";

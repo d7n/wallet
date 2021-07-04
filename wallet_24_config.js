@@ -1,1 +1,1 @@
-var mnemonic = "dust dinosaur short bundle robot fringe artwork harvest parent ill round journey";
+var mnemonic = "attack enlist stand kind wisdom task voyage excite canoe jacket charge ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "place traffic escape mimic good atom fade answer stomach quote organ sister";
+var mnemonic = "rail peanut gym mercy inject giraffe such increase task ability brother punch";

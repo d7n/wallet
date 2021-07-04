@@ -1,1 +1,1 @@
-var mnemonic = "multiply airport cement nasty umbrella crop inhale sure social harvest gauge such";
+var mnemonic = "tongue one obey antenna sugar utility strategy uncover holiday morning inquiry various";

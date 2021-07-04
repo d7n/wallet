@@ -1,1 +1,1 @@
-var mnemonic = "ten cradle report dentist raven season harsh fiscal miss legend keen history";
+var mnemonic = "theory normal exclude castle autumn close network spot silly almost control enrich";

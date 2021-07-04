@@ -1,1 +1,1 @@
-var mnemonic = "high mom mechanic coach modify frame congress remember display pony ecology nurse";
+var mnemonic = "math match allow sea warrior cry frown motion security boat vote solid";

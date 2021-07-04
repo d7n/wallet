@@ -1,1 +1,1 @@
-var mnemonic = "reason stairs meadow draft prison parent wish sheriff crouch neck orchard cluster";
+var mnemonic = "offer student cabbage dress suggest repair joy sketch pear imitate decline load";

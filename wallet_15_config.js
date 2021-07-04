@@ -1,1 +1,1 @@
-var mnemonic = "pistol when crater goddess produce require black innocent maximum item fiction obvious";
+var mnemonic = "tonight edge destroy canoe south truth question lion awful siren bring evoke";

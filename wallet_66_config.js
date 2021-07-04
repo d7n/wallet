@@ -1,1 +1,1 @@
-var mnemonic = "target distance alcohol chuckle woman boring machine beef oxygen nominee spider test";
+var mnemonic = "refuse explain cereal tourist tragic board first enroll voyage relax elbow elder";

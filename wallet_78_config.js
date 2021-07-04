@@ -1,1 +1,1 @@
-var mnemonic = "trick verify estate theme cash verify eager theme home energy sudden wrap";
+var mnemonic = "dentist another initial brick pulp fork bullet parent census disagree else degree";

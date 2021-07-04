@@ -1,1 +1,1 @@
-var mnemonic = "scissors identify engine strategy perfect frame tribe three metal genre census ahead";
+var mnemonic = "promote donkey disagree gallery make lamp attitude fiscal senior flash chalk text";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel develop walk yellow deny chief bamboo dynamic tail citizen vibrant pipe";
+var mnemonic = "risk solve coast wrestle please slogan will maid system spider thing never";

@@ -1,1 +1,1 @@
-var mnemonic = "accident mammal ribbon happy virtual blossom actor harvest pair eye jeans piece";
+var mnemonic = "prison enact fox choose fantasy fit must famous forget vocal mad helmet";

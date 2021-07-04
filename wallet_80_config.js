@@ -1,1 +1,1 @@
-var mnemonic = "begin tray fetch physical dawn stay kid token pony electric brave melody";
+var mnemonic = "suggest hold gap outer share will mind metal ecology banana clerk pill";

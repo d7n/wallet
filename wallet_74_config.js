@@ -1,1 +1,1 @@
-var mnemonic = "cart swear trap marriage assist ankle mixture success acoustic senior athlete glow";
+var mnemonic = "walk police cream please field sure palace skill enter nose letter genre";

@@ -1,1 +1,1 @@
-var mnemonic = "limit flock decorate tree cheap into umbrella cream mixture matrix sample bomb";
+var mnemonic = "hour tobacco barrel wave orphan finish audit brother dish pigeon erase robot";

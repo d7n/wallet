@@ -1,1 +1,1 @@
-var mnemonic = "gloom moment welcome squirrel patch wagon grief mask lend avocado sea coconut";
+var mnemonic = "trumpet swap pyramid slab setup describe limit lumber fabric donor doll fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "horse useful antique proud real leg boring supreme find safe gravity misery";
+var mnemonic = "gun hood width bulk drip salmon owner illegal range bus forward steak";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma test plastic famous plug act industry venture employ gravity fish slot";
+var mnemonic = "afraid lab melody point parade inspire lawn bridge aim tower dose muscle";

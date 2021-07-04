@@ -1,1 +1,1 @@
-var mnemonic = "diary doll whisper aunt talent suit rude wool hair maid gather park";
+var mnemonic = "laugh head imitate void roast feature street flock hurt song advice next";

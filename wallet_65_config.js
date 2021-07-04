@@ -1,1 +1,1 @@
-var mnemonic = "sadness network drill attend clip horn canyon isolate blood army any photo";
+var mnemonic = "fly price tank weird table peanut tent hand poem slab segment exile";

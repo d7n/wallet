@@ -1,1 +1,1 @@
-var mnemonic = "obvious input medal sponsor october gift globe sail horse category start wheat";
+var mnemonic = "girl kit cattle toward fatal fog polar liberty solve save sweet immune";

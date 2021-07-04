@@ -1,1 +1,1 @@
-var mnemonic = "acoustic giant food trouble dress enforce pumpkin resource guess lemon excuse mule";
+var mnemonic = "strike cradle pride inform river sight bench empty butter explain cable during";

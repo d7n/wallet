@@ -1,1 +1,1 @@
-var mnemonic = "quote bacon pill bridge notable few busy fuel shine skill tape tourist";
+var mnemonic = "chicken romance measure attend loan egg air desert have divide tobacco goose";

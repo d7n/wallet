@@ -1,1 +1,1 @@
-var mnemonic = "gap wing method fatal object stock fox carbon venture thought come shove";
+var mnemonic = "actress alien love spoon moon banana trophy fiber ensure pause nasty climb";

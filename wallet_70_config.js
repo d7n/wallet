@@ -1,1 +1,1 @@
-var mnemonic = "grief jeans swamp spot bus shoe aim voyage program destroy monitor expect";
+var mnemonic = "thunder kit industry tattoo stone little margin circle census can catalog question";

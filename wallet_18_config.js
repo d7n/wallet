@@ -1,1 +1,1 @@
-var mnemonic = "attack attack upon country tomorrow discover mango poet soul hundred burger erupt";
+var mnemonic = "slender base control sleep region pair ranch nice shallow trigger wine predict";

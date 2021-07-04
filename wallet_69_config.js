@@ -1,1 +1,1 @@
-var mnemonic = "enough roof snow concert organ diet entry play pool tongue position stand";
+var mnemonic = "banana super suit smoke strike boil copper crop present congress huge wire";

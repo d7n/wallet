@@ -1,1 +1,1 @@
-var mnemonic = "illegal execute need arrive body express reflect chimney must sail raccoon parrot";
+var mnemonic = "derive say truth nuclear filter elite search zone giggle crowd invite love";

@@ -1,1 +1,1 @@
-var mnemonic = "arm cry cage tonight wood spoon flame fish dawn marriage cream hair";
+var mnemonic = "sketch sudden autumn enroll bleak offer hold cereal hen uniform art because";

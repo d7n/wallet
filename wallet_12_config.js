@@ -1,1 +1,1 @@
-var mnemonic = "stairs type fish festival inch give impose task cost next room robot";
+var mnemonic = "sort honey monitor put try genius neither lock clever faculty bid organ";

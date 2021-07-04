@@ -1,1 +1,1 @@
-var mnemonic = "genius disorder inner fly annual twelve evolve call cradle silver awkward deal";
+var mnemonic = "slot interest gun mother brave note relief era tilt pulp motion forest";

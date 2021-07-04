@@ -1,1 +1,1 @@
-var mnemonic = "accuse tank poet tobacco innocent mother attack ordinary erode blame stool average";
+var mnemonic = "net joy daughter essence trust habit flat able check history cup burst";

@@ -1,1 +1,1 @@
-var mnemonic = "stick lizard shallow lunar boring upset dawn toy tip sponsor net dream";
+var mnemonic = "tumble air harvest inject orchard only famous feed west notice security milk";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel often bounce inspire spy borrow movie miracle night holiday educate vapor";
+var mnemonic = "exit twice crumble autumn canyon put club blush trip slush coach caught";

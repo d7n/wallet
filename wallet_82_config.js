@@ -1,1 +1,1 @@
-var mnemonic = "often damage cattle injury abuse borrow buddy force print object dismiss toddler";
+var mnemonic = "curious awkward stay dragon thunder alley fine hand talk voyage shoe lend";

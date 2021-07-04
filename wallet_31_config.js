@@ -1,1 +1,1 @@
-var mnemonic = "antique animal rely adult wagon thumb pulse zoo run boil quiz person";
+var mnemonic = "cry garden deputy pear mask recall amazing jacket surprise near cook enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce cereal cotton pupil wine bid upgrade salon focus broken wash pride";
+var mnemonic = "estate radar wedding approve lottery citizen good curve grape spell shine tone";

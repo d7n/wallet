@@ -1,1 +1,1 @@
-var mnemonic = "kiwi wood round daring annual holiday energy polar fame female skin beauty";
+var mnemonic = "stone same casino enjoy bring merit agent reveal turkey violin idea floor";

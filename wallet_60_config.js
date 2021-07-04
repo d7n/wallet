@@ -1,1 +1,1 @@
-var mnemonic = "orchard visa action sudden current iron fashion kitten cloth bridge vivid long";
+var mnemonic = "funny proud trigger soda worth sun taxi vocal uncle echo floor rail";

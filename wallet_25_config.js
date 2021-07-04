@@ -1,1 +1,1 @@
-var mnemonic = "fitness enroll sea method cannon jungle banner market vanish hidden juice still";
+var mnemonic = "rescue negative artwork inhale curtain aware saddle dry credit solve palace antique";

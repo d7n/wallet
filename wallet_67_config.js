@@ -1,1 +1,1 @@
-var mnemonic = "friend ethics crazy often team chef attend thing nurse someone venture picture";
+var mnemonic = "grace typical eagle embark toss violin bounce buddy tent potato design alpha";

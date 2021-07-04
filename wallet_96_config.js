@@ -1,1 +1,1 @@
-var mnemonic = "keep jump message hire mention language fun sound turn slight seek danger";
+var mnemonic = "major uphold cluster favorite tube tuna front work satoshi panther sustain someone";

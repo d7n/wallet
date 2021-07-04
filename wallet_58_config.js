@@ -1,1 +1,1 @@
-var mnemonic = "liberty field spawn bleak sell glove rain magnet mobile shop luxury prefer";
+var mnemonic = "west lock liberty gorilla arm sound into pattern riot host item inform";

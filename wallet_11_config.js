@@ -1,1 +1,1 @@
-var mnemonic = "dirt wish rigid board humor decide cherry wage mammal notable brass judge";
+var mnemonic = "guilt stumble wage pool direct invest oppose public walnut wall primary raccoon";

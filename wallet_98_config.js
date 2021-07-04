@@ -1,1 +1,1 @@
-var mnemonic = "music female charge pet village huge fish joy cube purpose volcano credit";
+var mnemonic = "island hobby end rebel agent weird scatter dinner jazz vocal comfort shuffle";

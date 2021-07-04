@@ -1,1 +1,1 @@
-var mnemonic = "they leg shoot lake spend blast traffic give illness fancy squeeze asthma";
+var mnemonic = "meadow tiger fence shiver okay alone whip paper repair uncover face whip";

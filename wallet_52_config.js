@@ -1,1 +1,1 @@
-var mnemonic = "come venture setup slab toddler still lend hospital shift clerk affair meadow";
+var mnemonic = "crucial antique stove sentence neutral coconut horror joke fabric verify satoshi puzzle";

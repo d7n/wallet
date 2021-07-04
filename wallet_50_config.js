@@ -1,1 +1,1 @@
-var mnemonic = "fog furnace mechanic whisper kingdom case income hungry idea gather accident include";
+var mnemonic = "scrub vacant misery clap vehicle inmate company praise throw paddle rail know";

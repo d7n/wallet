@@ -1,1 +1,1 @@
-var mnemonic = "vanish toe basic hurdle output size miracle must trigger injury shoot crop";
+var mnemonic = "pelican pool bunker script uniform method curtain hip addict later solar february";
