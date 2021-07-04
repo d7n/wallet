@@ -1,1 +1,1 @@
-var mnemonic = "prize potato deliver rain flee whisper caught pizza plate trap just horse";
+var mnemonic = "thumb deposit similar rotate track column tissue remove edit chronic unlock pyramid";

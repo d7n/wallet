@@ -1,1 +1,1 @@
-var mnemonic = "column apart bridge sunny phone volcano novel evolve valley round skin stem";
+var mnemonic = "distance slide current anxiety merit energy option fat admit team knock refuse";

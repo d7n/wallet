@@ -1,1 +1,1 @@
-var mnemonic = "absurd ripple chapter tumble ahead expose art grid volcano smooth roof faint";
+var mnemonic = "matrix drama flower bus laptop solar brand learn give velvet wrap subway";

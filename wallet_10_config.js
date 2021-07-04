@@ -1,1 +1,1 @@
-var mnemonic = "chunk divorce jacket comic narrow pair cause method panther agree practice kick";
+var mnemonic = "rescue blossom close tonight misery then danger theory also manage faith warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "flat object skill orange private during rich avoid boat ball ticket input";
+var mnemonic = "over song mix fashion target impact oyster student leave faith august secret";

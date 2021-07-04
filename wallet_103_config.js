@@ -1,1 +1,1 @@
-var mnemonic = "grain dentist letter average bargain forest rate zebra finish draw access birth";
+var mnemonic = "wash poem say banner mandate escape ocean liar shed six steel waste";

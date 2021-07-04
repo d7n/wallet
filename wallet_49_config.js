@@ -1,1 +1,1 @@
-var mnemonic = "mechanic rocket federal umbrella gun village rocket hunt blast win remain welcome";
+var mnemonic = "napkin maid country brass jeans speed seven original dolphin maze solve fine";

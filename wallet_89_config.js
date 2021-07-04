@@ -1,1 +1,1 @@
-var mnemonic = "evidence gap chest witness attend ensure beef you view object obscure giant";
+var mnemonic = "harbor couple change federal judge fit wave cat gold sword fresh guitar";

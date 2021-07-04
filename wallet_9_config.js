@@ -1,1 +1,1 @@
-var mnemonic = "receive romance hidden betray urge march visit left version patrol razor erupt";
+var mnemonic = "elbow coin already tag erase motor wonder above whisper sight impose mammal";

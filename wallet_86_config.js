@@ -1,1 +1,1 @@
-var mnemonic = "fence sing control wet open annual chronic casual nuclear useful emerge afraid";
+var mnemonic = "minute bullet nuclear identify slab kitchen raw net jelly harvest blush indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit physical they embrace century foil stuff garment simple sure brown vocal";
+var mnemonic = "cloud humble ramp tenant hub hover dilemma shoulder cushion into flash side";

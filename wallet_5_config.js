@@ -1,1 +1,1 @@
-var mnemonic = "rescue gloom glance cliff direct boss final weird fantasy sketch almost average";
+var mnemonic = "spell flat mushroom depend gym smoke magic lumber find walk track version";

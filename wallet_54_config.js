@@ -1,1 +1,1 @@
-var mnemonic = "pluck oxygen neck globe toast shoot clog disagree envelope warm real word";
+var mnemonic = "regret vast picnic crumble gun chapter surge approve happy topple fatigue harvest";

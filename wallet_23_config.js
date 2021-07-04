@@ -1,1 +1,1 @@
-var mnemonic = "gain raccoon riot prize inner rotate rare main margin beach sell shell";
+var mnemonic = "capable supreme bid can electric burst staff scout autumn wrap accuse cattle";

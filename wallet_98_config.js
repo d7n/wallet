@@ -1,1 +1,1 @@
-var mnemonic = "churn bring industry list rural tone solid stamp hamster chalk infant kick";
+var mnemonic = "confirm tobacco case twice curious dry balance thumb drink save swear second";

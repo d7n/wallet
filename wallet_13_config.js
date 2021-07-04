@@ -1,1 +1,1 @@
-var mnemonic = "pipe direct trumpet comic life bring apology harsh deal inherit flavor cube";
+var mnemonic = "eager fruit reward capable ice proud swing glide design economy leave define";

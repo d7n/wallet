@@ -1,1 +1,1 @@
-var mnemonic = "tobacco pretty friend acoustic awful upon draft seed lend mountain slab nature";
+var mnemonic = "praise retreat gap cereal lesson dismiss chunk amused figure cloth there office";

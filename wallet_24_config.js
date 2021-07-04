@@ -1,1 +1,1 @@
-var mnemonic = "pool subject pear frown promote donkey panther cradle guitar check tip pigeon";
+var mnemonic = "toe speak grow theme search dentist view outdoor toe tool happy aim";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics salmon confirm sound music problem today fee ride divert window normal";
+var mnemonic = "usage minor defy infant six tumble demand blanket obtain parent grow fortune";

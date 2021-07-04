@@ -1,1 +1,1 @@
-var mnemonic = "kidney ecology spread swap romance family joke mutual stove side cable wide";
+var mnemonic = "insane cactus position admit person text sea wrong october message index gravity";

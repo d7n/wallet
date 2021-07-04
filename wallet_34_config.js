@@ -1,1 +1,1 @@
-var mnemonic = "among comic cram caution either leaf flip uncle mass vague swift public";
+var mnemonic = "animal energy movie miracle text three vivid still reduce position salute sketch";

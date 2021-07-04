@@ -1,1 +1,1 @@
-var mnemonic = "return seminar pretty entry cluster zoo predict make avoid since wood crime";
+var mnemonic = "post fragile dynamic forum fine dream toddler shoe favorite type together pilot";

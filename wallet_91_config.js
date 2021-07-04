@@ -1,1 +1,1 @@
-var mnemonic = "van primary winner soul style left tuition chimney upper spoil runway parrot";
+var mnemonic = "melody disagree own vacant remove bring accident sure attract cereal ensure change";

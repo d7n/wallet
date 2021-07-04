@@ -1,1 +1,1 @@
-var mnemonic = "boat animal hundred inhale erase naive neck muscle what glory guide duck";
+var mnemonic = "exclude flush purity knee nominee skate swallow inch humble spatial return output";

@@ -1,1 +1,1 @@
-var mnemonic = "similar law isolate float moral calm amount sand auction frequent uncover lizard";
+var mnemonic = "crucial input into gold curious peasant remain juice sister bread must sing";

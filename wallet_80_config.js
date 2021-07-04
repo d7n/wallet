@@ -1,1 +1,1 @@
-var mnemonic = "choice space goat guess ring such field luggage region lift aerobic comfort";
+var mnemonic = "detail buzz dice happy nice poverty strategy subway sister useless awesome system";

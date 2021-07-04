@@ -1,1 +1,1 @@
-var mnemonic = "sick claw brother sand forum rotate balance camera circle adult garlic then";
+var mnemonic = "forget time east squirrel joy quantum extra laugh slow helmet drift stove";

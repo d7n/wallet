@@ -1,1 +1,1 @@
-var mnemonic = "twenty bar distance pistol amused honey metal emotion shoot lens front plate";
+var mnemonic = "stamp kitchen kiss dwarf assist bridge fit measure face settle avoid orphan";

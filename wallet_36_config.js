@@ -1,1 +1,1 @@
-var mnemonic = "trouble destroy electric surround fatal define elder bonus success throw ugly gown";
+var mnemonic = "usage thought vague spend bottom predict east caught organ boss online solar";

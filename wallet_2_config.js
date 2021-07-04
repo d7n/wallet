@@ -1,1 +1,1 @@
-var mnemonic = "taxi concert crime scout memory screen away barrel task asthma kite park";
+var mnemonic = "wagon update trouble oppose clap sibling year sail transfer dawn embark step";

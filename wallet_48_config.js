@@ -1,1 +1,1 @@
-var mnemonic = "secret portion pretty century range fog wife ladder electric item dice faculty";
+var mnemonic = "aware auto funny scheme width black midnight chef shaft primary quiz math";

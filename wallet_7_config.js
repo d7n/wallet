@@ -1,1 +1,1 @@
-var mnemonic = "speed obtain shaft club fruit fatigue forward motion atom dune loan leopard";
+var mnemonic = "village tree wool asthma because fish symbol hill student action term profit";

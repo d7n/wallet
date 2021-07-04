@@ -1,1 +1,1 @@
-var mnemonic = "diagram club kick shy stage cherry strong unfold bottom key theory tongue";
+var mnemonic = "consider green trigger word juice chat violin salmon material hobby gravity sudden";

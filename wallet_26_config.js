@@ -1,1 +1,1 @@
-var mnemonic = "enjoy rail vital what water depart aisle scatter segment mind response ship";
+var mnemonic = "hospital yellow piece chat wine join matter oblige weekend primary minor skin";

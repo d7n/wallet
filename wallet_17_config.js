@@ -1,1 +1,1 @@
-var mnemonic = "grass okay rapid lava liar seek trip cable forum stem gate desk";
+var mnemonic = "riot remain goat celery name foam seven smile ostrich quantum kiss gain";

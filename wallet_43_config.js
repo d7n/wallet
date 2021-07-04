@@ -1,1 +1,1 @@
-var mnemonic = "zero cupboard lunar day noble gift bright pilot broken file time village";
+var mnemonic = "anchor harbor vendor person safe guitar disagree flame neglect valid tortoise apology";

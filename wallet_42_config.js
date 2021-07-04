@@ -1,1 +1,1 @@
-var mnemonic = "penalty powder empower such win local escape census chase worry senior alley";
+var mnemonic = "deliver stay meadow scrap fly chief local lady you tiny task have";

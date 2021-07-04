@@ -1,1 +1,1 @@
-var mnemonic = "level vendor actual result require stadium layer square input diamond antenna dumb";
+var mnemonic = "light thumb physical adapt gate neglect gasp noble able afford tail raw";

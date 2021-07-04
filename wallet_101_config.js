@@ -1,1 +1,1 @@
-var mnemonic = "catch kidney abuse mom field peanut blush finger giant jaguar atom know";
+var mnemonic = "blame under churn spider tumble pair inherit chaos minimum spawn amazing correct";

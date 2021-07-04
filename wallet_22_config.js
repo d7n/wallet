@@ -1,1 +1,1 @@
-var mnemonic = "bulb churn various bag screen alley shop bring matter grief iron keep";
+var mnemonic = "umbrella kind right answer legal panel glass zero enable rack slim plug";

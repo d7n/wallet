@@ -1,1 +1,1 @@
-var mnemonic = "sheriff rug logic behind crash derive alarm famous analyst arena protect deposit";
+var mnemonic = "toss ecology around song segment such clip amazing vivid can joy hire";

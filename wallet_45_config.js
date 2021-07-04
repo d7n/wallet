@@ -1,1 +1,1 @@
-var mnemonic = "goose pact legal drip knife clerk wrong sweet produce bounce capable prize";
+var mnemonic = "intact pill salad target ship quantum fault april hover meadow black pony";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket gift giggle topic dinosaur club timber brother group juice shrug ketchup";
+var mnemonic = "plug cash audit history actor agent deliver ready slight mean unlock reject";

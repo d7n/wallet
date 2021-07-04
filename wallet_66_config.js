@@ -1,1 +1,1 @@
-var mnemonic = "bubble immense buzz excess grow rug worry story betray gauge frown better";
+var mnemonic = "decrease top employ together steak female attack consider pledge mutual aisle ritual";

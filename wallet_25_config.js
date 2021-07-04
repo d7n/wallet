@@ -1,1 +1,1 @@
-var mnemonic = "potato direct scrap attitude else trophy friend define glare gown banana maid";
+var mnemonic = "series spring peace segment crop pigeon poverty mean casual bulb coffee slush";

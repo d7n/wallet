@@ -1,1 +1,1 @@
-var mnemonic = "foam salt they concert garment demand toilet whale gap trust churn endless";
+var mnemonic = "tell since agree body round marine angry ball happy love mask media";

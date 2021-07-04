@@ -1,1 +1,1 @@
-var mnemonic = "harbor dog detail reveal skate inherit penalty slow hip pave cry purchase";
+var mnemonic = "entire speak spice space pencil rely pull company picture cave curve slogan";

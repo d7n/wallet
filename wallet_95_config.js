@@ -1,1 +1,1 @@
-var mnemonic = "lazy chat dial quit require old knife ring mixed notable hobby unaware";
+var mnemonic = "recycle blanket output pink effort always tonight double tragic fit air moment";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado vessel hammer ceiling stand order light analyst network nothing huge vivid";
+var mnemonic = "diamond other test wild attend prevent session garage inside coast scale rapid";

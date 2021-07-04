@@ -1,1 +1,1 @@
-var mnemonic = "trick salmon mother humor electric mouse argue ball salad magnet people example";
+var mnemonic = "jewel moment shallow fly riot rapid imitate hour true catch thank unfair";

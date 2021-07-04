@@ -1,1 +1,1 @@
-var mnemonic = "bird process sort chest mountain kid expire robust pattern live left extra";
+var mnemonic = "industry gallery sniff extend garment race knock horn stereo tiny please stable";

@@ -1,1 +1,1 @@
-var mnemonic = "rent visit fame zebra body edge space script embrace sight squirrel margin";
+var mnemonic = "uncle cradle crater imitate little inside radar anger wheel various clown hawk";

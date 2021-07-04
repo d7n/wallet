@@ -1,1 +1,1 @@
-var mnemonic = "blanket sock abuse soap carbon trip elegant ankle wrestle donkey ethics clutch";
+var mnemonic = "cinnamon stick jealous great diary offer balcony moral today because screen teach";

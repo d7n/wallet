@@ -1,1 +1,1 @@
-var mnemonic = "edge razor bean panda festival wide era process trophy daughter item hood";
+var mnemonic = "stick rib poem destroy shiver chase shuffle tenant grow divorce tray merge";

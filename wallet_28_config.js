@@ -1,1 +1,1 @@
-var mnemonic = "length skirt debris promote absurd logic fever clutch foot usual often worry";
+var mnemonic = "trim dwarf shiver embrace typical hurdle crater camera test apology able hedgehog";

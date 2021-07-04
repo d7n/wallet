@@ -1,1 +1,1 @@
-var mnemonic = "glimpse predict dish steel poet involve alley strategy interest broom alien regret";
+var mnemonic = "weather coach link clutch mushroom music sniff useless enrich number phone cute";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach siege fence sample uncle gospel earn sadness crash quarter you august";
+var mnemonic = "found social song teach mutual avocado hair approve audit pet arrow random";

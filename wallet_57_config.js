@@ -1,1 +1,1 @@
-var mnemonic = "ivory manage honey dolphin pyramid slam predict pact type canvas mimic outdoor";
+var mnemonic = "initial model rookie runway fee upper reject oven pulse depend speed loan";

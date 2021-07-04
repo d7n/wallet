@@ -1,1 +1,1 @@
-var mnemonic = "early crater fat trumpet vast century capital rifle sand toward portion flat";
+var mnemonic = "amateur dry mother glide awkward forest energy flame wife educate cluster fatal";

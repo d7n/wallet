@@ -1,1 +1,1 @@
-var mnemonic = "fantasy lumber bullet style safe upset retire fuel casual mechanic spend filter";
+var mnemonic = "give lazy learn catch damp firm nature spray child hood drip middle";

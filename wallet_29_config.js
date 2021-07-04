@@ -1,1 +1,1 @@
-var mnemonic = "grit insane inherit huge morning tent axis olympic target magic autumn envelope";
+var mnemonic = "market observe together powder tilt hip punch fun bracket list chef blood";

@@ -1,1 +1,1 @@
-var mnemonic = "december angle unfair jump local expose gather monkey process other december benefit";
+var mnemonic = "rhythm police source banner grape any citizen limit odor wife brief field";

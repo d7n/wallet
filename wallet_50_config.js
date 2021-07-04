@@ -1,1 +1,1 @@
-var mnemonic = "barely sort reform myth staff spatial region enter fortune glide calm supreme";
+var mnemonic = "access fiscal soldier census boil quit onion derive diary fever yellow blame";

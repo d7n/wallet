@@ -1,1 +1,1 @@
-var mnemonic = "heart elegant inhale exhaust silver oval under giraffe million liberty oyster aware";
+var mnemonic = "pitch option enact loop usual oval wolf notable blossom sense usual pill";

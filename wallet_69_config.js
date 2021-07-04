@@ -1,1 +1,1 @@
-var mnemonic = "stool resemble tiny pet alert enforce color fork sleep host inquiry rice";
+var mnemonic = "entire involve tuna inflict advance text report circle act ordinary soap mutual";

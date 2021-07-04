@@ -1,1 +1,1 @@
-var mnemonic = "acoustic slight dirt enough few include reveal people agent anxiety elevator advance";
+var mnemonic = "loop genius blush air spin degree strategy small sea electric race hidden";

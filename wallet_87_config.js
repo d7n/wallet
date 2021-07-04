@@ -1,1 +1,1 @@
-var mnemonic = "tail thunder assist film gloom home diesel alcohol gravity sign gloom enlist";
+var mnemonic = "armor then humor neck profit indicate farm under warfare way swim glove";

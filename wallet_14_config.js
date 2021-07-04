@@ -1,1 +1,1 @@
-var mnemonic = "blush artist hole speed ozone wage absurd lonely huge ankle ice sketch";
+var mnemonic = "shell total plug fire print lion bulb addict expire young ancient jeans";

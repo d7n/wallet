@@ -1,1 +1,1 @@
-var mnemonic = "inflict oval chase reveal million tray like bus borrow hungry hotel rookie";
+var mnemonic = "car fruit myth cherry believe junk lonely tip interest attack afford engage";

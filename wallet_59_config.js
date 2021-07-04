@@ -1,1 +1,1 @@
-var mnemonic = "squeeze maze behave traffic list penalty friend disease state jealous about math";
+var mnemonic = "scare gasp scan miss basic sort fatigue adult trust abstract fashion eager";

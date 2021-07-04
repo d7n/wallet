@@ -1,1 +1,1 @@
-var mnemonic = "tip fog math attitude sleep sell execute diet start busy year chest";
+var mnemonic = "flower amateur enact loyal copy parrot virtual jewel stumble false vapor ill";

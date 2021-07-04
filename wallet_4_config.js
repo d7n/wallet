@@ -1,1 +1,1 @@
-var mnemonic = "task warm warrior imitate injury ancient enforce example spoon silent burden scene";
+var mnemonic = "sustain buzz limit carbon dolphin stuff hen road mutual demand empty page";

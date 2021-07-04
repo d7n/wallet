@@ -1,1 +1,1 @@
-var mnemonic = "rich slender chaos unit trigger excite victory soap worry parade leader museum";
+var mnemonic = "team glove bicycle seminar sample select liquid asthma lizard join pause rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "direct half charge chair struggle curious teach frequent pelican student pottery leave";
+var mnemonic = "vacant timber release wise dizzy fever student view palace pistol thrive end";

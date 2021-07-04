@@ -1,1 +1,1 @@
-var mnemonic = "describe cool maze icon goat cattle heavy wink dress list one indicate";
+var mnemonic = "tunnel club pill labor churn lecture scorpion strong canyon dismiss model oven";

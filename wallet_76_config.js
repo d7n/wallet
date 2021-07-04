@@ -1,1 +1,1 @@
-var mnemonic = "foil weird bridge provide easily spare again gesture august warrior brave lesson";
+var mnemonic = "song fashion boring cloth please food flush virtual address will peace subject";

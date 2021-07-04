@@ -1,1 +1,1 @@
-var mnemonic = "oblige oppose ozone prevent silly evolve coconut laugh clean top expose chronic";
+var mnemonic = "future click exist utility fluid arrange reduce describe grit step return coyote";

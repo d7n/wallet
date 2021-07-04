@@ -1,1 +1,1 @@
-var mnemonic = "cancel coach satisfy boy endless cute pioneer comic hockey curious dwarf lamp";
+var mnemonic = "fault evoke carbon treat common identify electric buzz unhappy year under skull";

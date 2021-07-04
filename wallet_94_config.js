@@ -1,1 +1,1 @@
-var mnemonic = "film raise permit budget episode emerge marriage weather egg congress indoor diesel";
+var mnemonic = "track diet canoe story nurse ensure size talent jaguar juice glimpse enrich";

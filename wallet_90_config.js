@@ -1,1 +1,1 @@
-var mnemonic = "permit judge mercy banana donor picture insect gaze wide crop whale actress";
+var mnemonic = "buddy seed impulse ocean tomato tiny tray exile ordinary alley man hat";

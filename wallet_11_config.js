@@ -1,1 +1,1 @@
-var mnemonic = "uncover dog shaft wash actual slender text minimum afford frog peanut sauce";
+var mnemonic = "empty sense wife session rookie chunk bracket female unknown kiss confirm wheat";

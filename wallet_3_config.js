@@ -1,1 +1,1 @@
-var mnemonic = "sniff usual debate injury edge penalty mention bunker bag stay occur pact";
+var mnemonic = "woman indicate talent screen rebuild side shift board six mechanic post present";

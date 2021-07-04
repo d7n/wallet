@@ -1,1 +1,1 @@
-var mnemonic = "defense always dragon seven spread pizza cactus help place observe pattern soup";
+var mnemonic = "rent basket uphold foam sorry artwork cheese output nature warrior kangaroo wave";

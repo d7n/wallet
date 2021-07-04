@@ -1,1 +1,1 @@
-var mnemonic = "rabbit earn push clap pumpkin combine mystery stamp horror bulk quiz frost";
+var mnemonic = "transfer error enforce coral license speed blame virtual alpha critic armed front";

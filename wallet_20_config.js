@@ -1,1 +1,1 @@
-var mnemonic = "topic utility manage pact very use humor oak only clap brisk cram";
+var mnemonic = "worth lawn token cook cave salt addict gallery idle verb session dizzy";

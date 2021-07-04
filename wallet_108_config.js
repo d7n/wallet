@@ -1,1 +1,1 @@
-var mnemonic = "option art sort all hair october depart blame scrap link ladder drum";
+var mnemonic = "vital nephew put direct hire slab science mean food gather era enact";

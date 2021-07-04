@@ -1,1 +1,1 @@
-var mnemonic = "lobster dinosaur square camp actor oyster quarter alert police suffer sport emerge";
+var mnemonic = "drip hand script picture credit position bounce tooth nice pride arctic project";

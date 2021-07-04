@@ -1,1 +1,1 @@
-var mnemonic = "dove because category else resist curve add gloom habit episode unique mistake";
+var mnemonic = "bomb popular urban lucky they dumb jaguar small balance question stay client";

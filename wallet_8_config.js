@@ -1,1 +1,1 @@
-var mnemonic = "cement excite amazing object gather behave carpet pitch rather gravity vast obey";
+var mnemonic = "mimic genuine dizzy text accuse near solar mobile afford above guard agree";
