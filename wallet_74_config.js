@@ -1,1 +1,1 @@
-var mnemonic = "salute trick win gadget scene dutch runway kiwi warrior nature west elder";
+var mnemonic = "wave option day proof envelope disorder hollow offer peasant spawn history grid";

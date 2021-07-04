@@ -1,1 +1,1 @@
-var mnemonic = "monkey badge upon fashion impose faculty mobile syrup erosion six humor tiny";
+var mnemonic = "abuse bleak dynamic oval hair edit maple divide produce uniform shoulder orient";

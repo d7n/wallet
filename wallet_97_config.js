@@ -1,1 +1,1 @@
-var mnemonic = "jazz above account rigid casino tourist genuine close excess awesome broom path";
+var mnemonic = "tortoise flee orange panic witness blind phrase cake loud mutual inflict imitate";

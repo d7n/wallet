@@ -1,1 +1,1 @@
-var mnemonic = "become nominee vibrant piano goddess boss seminar found school myself trip state";
+var mnemonic = "smooth almost kit put aspect zoo vacuum future cycle crouch debris wedding";

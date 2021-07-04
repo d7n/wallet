@@ -1,1 +1,1 @@
-var mnemonic = "execute extend similar pulse reveal loop crowd main black purchase virus entire";
+var mnemonic = "spray glide law fall picnic evidence teach mammal tail away cycle level";

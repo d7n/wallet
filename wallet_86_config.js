@@ -1,1 +1,1 @@
-var mnemonic = "dinner vocal flat guilt oak scale stuff check blade news sport lunar";
+var mnemonic = "glass network actress enough country pink cousin peace champion delay fade gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "royal document attitude copy ladder share inject depend ticket idea banner brush";
+var mnemonic = "guitar hobby paddle story palace joy endorse ranch issue praise planet quarter";

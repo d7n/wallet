@@ -1,1 +1,1 @@
-var mnemonic = "favorite mail miracle kitten tuition jewel buffalo tackle room movie grit fine";
+var mnemonic = "leg wheel juice kiwi panda tilt fluid bulb minor cliff cake invite";

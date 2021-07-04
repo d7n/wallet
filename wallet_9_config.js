@@ -1,1 +1,1 @@
-var mnemonic = "ready smile canyon actor soon top denial into crop virus join cousin";
+var mnemonic = "crystal ask clip reopen dish body immense hammer bicycle burst cement extend";

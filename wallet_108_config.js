@@ -1,1 +1,1 @@
-var mnemonic = "glue crystal west view this bracket robust broom multiply enhance soul leader";
+var mnemonic = "because sheriff predict riot guilt perfect route enlist client service rare produce";

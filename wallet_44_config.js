@@ -1,1 +1,1 @@
-var mnemonic = "clinic rare vocal change stadium expire collect nuclear occur despair fiscal fan";
+var mnemonic = "resist roast position inject snow soccer have mountain symbol velvet recipe crowd";

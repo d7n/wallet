@@ -1,1 +1,1 @@
-var mnemonic = "double forum rally harbor intact work fan mistake cash move exile example";
+var mnemonic = "drastic fancy banner luggage outdoor dial destroy above rifle alcohol zero remind";

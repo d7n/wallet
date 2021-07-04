@@ -1,1 +1,1 @@
-var mnemonic = "attitude duty erode juice slot subject toy copy van soccer foil ski";
+var mnemonic = "position output tone chronic found elbow remain field joy raise laugh unit";

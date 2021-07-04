@@ -1,1 +1,1 @@
-var mnemonic = "near sand antenna remove tag crater wink stage transfer real ceiling plate";
+var mnemonic = "shadow chef cradle bar prize envelope flip skate gauge follow always faith";

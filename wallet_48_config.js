@@ -1,1 +1,1 @@
-var mnemonic = "lumber enrich museum embrace vapor ski move click pride virus kidney wave";
+var mnemonic = "risk save thought source dog hole auto buddy chat duck science sing";

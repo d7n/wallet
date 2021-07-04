@@ -1,1 +1,1 @@
-var mnemonic = "question step tent alter hurry spin manage tuna suit siren symptom annual";
+var mnemonic = "ethics artist control urban pond clock example remove sense chunk post ready";

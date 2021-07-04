@@ -1,1 +1,1 @@
-var mnemonic = "wife option retire surprise defense minimum vote improve squeeze once glue cargo";
+var mnemonic = "tissue endless escape brass squeeze poverty judge case dumb fish differ little";

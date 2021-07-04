@@ -1,1 +1,1 @@
-var mnemonic = "pluck chicken pool creek pink impact obscure ancient project later energy fantasy";
+var mnemonic = "perfect ready receive whisper educate diary table mouse equal inject outdoor gorilla";

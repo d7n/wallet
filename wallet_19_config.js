@@ -1,1 +1,1 @@
-var mnemonic = "south spoil unknown gravity asset such gain upset neck ski cattle there";
+var mnemonic = "siege resource ripple also glove fatal humble conduct engine cement lizard onion";

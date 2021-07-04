@@ -1,1 +1,1 @@
-var mnemonic = "ball group surprise culture opinion team quarter trophy submit use cloud endorse";
+var mnemonic = "visit air yard upgrade timber assist pitch nation elder doctor force own";

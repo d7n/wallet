@@ -1,1 +1,1 @@
-var mnemonic = "soccer apple flee bacon stand guilt trouble civil energy pull identify pencil";
+var mnemonic = "snack close fog ugly decorate snow finish exact increase winter arrange empty";

@@ -1,1 +1,1 @@
-var mnemonic = "other adapt end clap produce uniform icon axis bright coil ocean gun";
+var mnemonic = "fit next jar disagree plunge man amused piece stereo tip afford ladder";

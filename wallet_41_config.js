@@ -1,1 +1,1 @@
-var mnemonic = "height admit initial unique plate guard coil term bus car uphold legend";
+var mnemonic = "wheel tumble cabbage case tag sorry valid dismiss aware submit symbol arch";

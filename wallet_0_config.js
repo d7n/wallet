@@ -1,1 +1,1 @@
-var mnemonic = "present brief monkey common teach unit this animal soap together record soup";
+var mnemonic = "urban nest negative develop own hurt diet original kidney iron armed region";

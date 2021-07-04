@@ -1,1 +1,1 @@
-var mnemonic = "layer girl little vessel pulp valley cream say jeans paper panel inside";
+var mnemonic = "nominee endorse soft embrace vocal october clerk group banner crouch village nephew";

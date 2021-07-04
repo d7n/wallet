@@ -1,1 +1,1 @@
-var mnemonic = "envelope joy section office alien stairs resource anxiety zoo weasel learn tiny";
+var mnemonic = "present harbor excuse cause electric casino hybrid empower sustain glide void arch";

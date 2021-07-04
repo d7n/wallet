@@ -1,1 +1,1 @@
-var mnemonic = "tell flock spot lab cereal profit rail attract pilot taste text boost";
+var mnemonic = "scene nurse chicken section asset material absent bonus found sword concert excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "eager major ill secret above buyer flat cloud obtain keen mail include";
+var mnemonic = "chuckle power often total earn exhibit deer decide suffer vacant renew skill";

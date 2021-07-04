@@ -1,1 +1,1 @@
-var mnemonic = "female trade holiday canyon security such genuine trouble make grant north again";
+var mnemonic = "silver will royal genre gather eternal ticket butter spin among patient tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff can grant rebuild plate today silly bundle dismiss picnic tape enrich";
+var mnemonic = "desert ugly maximum monster topple where jungle sleep fury pink guilt polar";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel below raven series enhance fun trial enable appear august public diet";
+var mnemonic = "ignore truck urge mail skill hole stereo south coast tide culture viable";

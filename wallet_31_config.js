@@ -1,1 +1,1 @@
-var mnemonic = "snack general hand coyote universe advice sister column remember neck record text";
+var mnemonic = "calm wolf brief oak fun consider mimic olympic space poet beef hint";

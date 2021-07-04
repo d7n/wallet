@@ -1,1 +1,1 @@
-var mnemonic = "demise trial subway burden bounce dilemma render sure join buffalo alone village";
+var mnemonic = "season until copy goat buffalo column flavor upset fiction any helmet else";

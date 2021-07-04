@@ -1,1 +1,1 @@
-var mnemonic = "desk reveal staff tornado spell monster practice sugar steel chair apple neglect";
+var mnemonic = "outside reveal absorb bench swap latin token forward suggest market congress april";

@@ -1,1 +1,1 @@
-var mnemonic = "wait enrich surround comfort hint doll soon fish view soul victory vast";
+var mnemonic = "nerve elder toe few sense exact aisle tree guard wool rose crew";

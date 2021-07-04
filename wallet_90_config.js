@@ -1,1 +1,1 @@
-var mnemonic = "birth grid coral carbon casual stock execute concert boil cram hurt fish";
+var mnemonic = "banner boil all term debate loyal undo harsh note advance tray success";

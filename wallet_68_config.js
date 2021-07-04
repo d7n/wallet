@@ -1,1 +1,1 @@
-var mnemonic = "setup asthma belt know quarter vacuum maze expand grace distance cube marriage";
+var mnemonic = "brief thing cash address grief tumble math suit brick envelope middle original";

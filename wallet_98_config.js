@@ -1,1 +1,1 @@
-var mnemonic = "roast van salad summer rich fork harsh unusual slight leaf double observe";
+var mnemonic = "cereal love broccoli useful extend dune text season twelve medal maple feature";

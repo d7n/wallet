@@ -1,1 +1,1 @@
-var mnemonic = "labor very bubble ginger bachelor clerk coin riot parrot uniform problem lend";
+var mnemonic = "velvet process sentence guard exact deliver salon unable ladder wire kite label";

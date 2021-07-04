@@ -1,1 +1,1 @@
-var mnemonic = "worth ill blossom donor pact radio sort blouse leave chase eternal brand";
+var mnemonic = "rural segment country mercy hospital picnic slender squeeze choose salt section still";

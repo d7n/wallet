@@ -1,1 +1,1 @@
-var mnemonic = "wood rural duty prepare pig scorpion asthma coin catch air tell aunt";
+var mnemonic = "million matrix project floor fold fork diet noise woman heavy deposit leg";

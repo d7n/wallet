@@ -1,1 +1,1 @@
-var mnemonic = "suspect stomach liberty system usage whisper shuffle scout connect noble animal catalog";
+var mnemonic = "burden define misery vanish stem bright mansion decorate ostrich color aspect salad";

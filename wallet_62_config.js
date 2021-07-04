@@ -1,1 +1,1 @@
-var mnemonic = "era fruit laugh jacket buyer same hazard cheap dragon light time soon";
+var mnemonic = "dream praise shop deer grunt album trend gesture question web unfair easily";

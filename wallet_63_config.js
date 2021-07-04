@@ -1,1 +1,1 @@
-var mnemonic = "wise produce lazy ghost matrix bottom guide legend foam marble short any";
+var mnemonic = "unfair gadget erosion rapid upper economy race become group orphan fine utility";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond gentle neither frown gasp make end pole blast rib legal ability";
+var mnemonic = "street core fever power milk stay copy imitate immune filter account accident";

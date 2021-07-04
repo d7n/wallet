@@ -1,1 +1,1 @@
-var mnemonic = "hood calm prevent burden base lift vintage humble wrist mercy fantasy lawsuit";
+var mnemonic = "essay kind mango private fix bulk blood copy sun tone peasant neither";

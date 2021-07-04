@@ -1,1 +1,1 @@
-var mnemonic = "robust left modify extend blouse eternal caught jungle duck warfare now veteran";
+var mnemonic = "pudding result inherit aisle absent magnet arctic funny final act habit history";

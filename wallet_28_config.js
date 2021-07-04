@@ -1,1 +1,1 @@
-var mnemonic = "merge ghost traffic panther luggage rose mean clap peanut number diary raven";
+var mnemonic = "impulse wise supply apart allow east then property letter clean market cram";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon clever fit jump industry worth series purity actor pulse hub motion";
+var mnemonic = "alcohol void biology quiz milk worry coffee raw engage chat kangaroo rebuild";

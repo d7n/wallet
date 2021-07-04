@@ -1,1 +1,1 @@
-var mnemonic = "much decline symptom enemy office surface alcohol prison weasel tourist weasel poverty";
+var mnemonic = "pipe prevent unit ceiling salad minimum cross obtain absent trim come away";

@@ -1,1 +1,1 @@
-var mnemonic = "boat local pause shrimp mixed fix inject bench burden used push decorate";
+var mnemonic = "reward lawn season multiply episode senior brief opinion street dragon initial gorilla";

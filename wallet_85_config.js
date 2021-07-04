@@ -1,1 +1,1 @@
-var mnemonic = "lava away evil diamond blur like fish oblige nothing magnet deal foil";
+var mnemonic = "brother layer flight high usage shift twelve walk flower over black forget";

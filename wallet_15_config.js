@@ -1,1 +1,1 @@
-var mnemonic = "normal carpet addict knife expose story wasp measure civil blue fossil episode";
+var mnemonic = "bench track vivid cruel famous emerge brother honey genuine club finish cover";

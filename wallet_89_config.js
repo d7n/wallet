@@ -1,1 +1,1 @@
-var mnemonic = "reveal space sense bleak together exchange little beach disease crop jelly fly";
+var mnemonic = "move fever era dilemma mix spread gospel slim novel identify expose rely";

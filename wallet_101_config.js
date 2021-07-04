@@ -1,1 +1,1 @@
-var mnemonic = "foot digital negative like tornado walk artwork midnight concert toy asset base";
+var mnemonic = "open crystal firm ginger almost brown join image buddy poverty attract melody";

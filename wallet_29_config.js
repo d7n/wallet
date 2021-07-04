@@ -1,1 +1,1 @@
-var mnemonic = "velvet endless regret steel draft draft throw merge seven fiscal relief balcony";
+var mnemonic = "face knock ritual intact juice essay gesture wasp attract battle duck taxi";

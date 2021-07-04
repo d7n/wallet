@@ -1,1 +1,1 @@
-var mnemonic = "fringe rent pen lazy exact relief fragile rhythm friend expose off act";
+var mnemonic = "live wife cherry oak nuclear margin despair cinnamon sponsor avoid spawn balcony";

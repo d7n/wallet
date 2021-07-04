@@ -1,1 +1,1 @@
-var mnemonic = "enlist badge olive artwork river hurdle rug tower foam catalog diet menu";
+var mnemonic = "fetch carbon old census pilot cliff job tomorrow tip kangaroo quiz dice";

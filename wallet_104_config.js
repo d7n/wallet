@@ -1,1 +1,1 @@
-var mnemonic = "muffin sting cheap vote mistake bundle test legend parrot symptom nasty member";
+var mnemonic = "flee drastic gap address wave fog avoid nest fabric economy flight kid";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle art novel spike catch blanket ski faculty cave document alarm lava";
+var mnemonic = "always try remember bullet person sing avoid kangaroo news hurdle sentence enroll";

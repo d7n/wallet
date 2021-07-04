@@ -1,1 +1,1 @@
-var mnemonic = "spider odor slam forget clean average dash easily because satoshi trial until";
+var mnemonic = "divide shrug pet rich arrow because they someone long hour there front";

@@ -1,1 +1,1 @@
-var mnemonic = "fly nurse grace blast twist wrestle potato swallow orange slight eagle rocket";
+var mnemonic = "zone buffalo drama comic resource vault sting like among exhibit sausage harvest";

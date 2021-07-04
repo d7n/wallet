@@ -1,1 +1,1 @@
-var mnemonic = "essay hat crunch tool cluster island stock rack method fun stick choice";
+var mnemonic = "cute scatter february lottery dial poverty tone whisper quote elbow short frown";

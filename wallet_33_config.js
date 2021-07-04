@@ -1,1 +1,1 @@
-var mnemonic = "again laugh shed trigger upgrade coil never engine steel belt swift denial";
+var mnemonic = "ostrich boss urge erode goddess sentence exit stove better marriage roast clock";

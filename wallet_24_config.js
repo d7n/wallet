@@ -1,1 +1,1 @@
-var mnemonic = "seminar solution equip hour virtual sphere coil prize program puzzle develop crater";
+var mnemonic = "patch coil indicate fit electric turn shoe end volcano bottom volume range";

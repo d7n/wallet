@@ -1,1 +1,1 @@
-var mnemonic = "elevator funny lake leisure become cabin picnic spike month they frost dirt";
+var mnemonic = "latin orange supply illness vapor example man provide asthma devote hazard cargo";

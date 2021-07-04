@@ -1,1 +1,1 @@
-var mnemonic = "zebra envelope uncover oyster mad extra sell exclude emerge music sense crisp";
+var mnemonic = "inform left simple sick clown tone bless suspect ignore mom flee sketch";

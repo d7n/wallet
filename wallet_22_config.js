@@ -1,1 +1,1 @@
-var mnemonic = "gown universe coffee knife call deliver maze melt vanish pottery rent practice";
+var mnemonic = "wish model differ skin tomorrow size cruel intact notable donkey together embrace";

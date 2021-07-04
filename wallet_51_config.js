@@ -1,1 +1,1 @@
-var mnemonic = "beauty phrase plastic crunch angle tube boss income play pottery layer left";
+var mnemonic = "mercy easily patch mirror prosper world report name always minute brush habit";

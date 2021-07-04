@@ -1,1 +1,1 @@
-var mnemonic = "page carbon illegal paddle mango kitchen silent tumble office tag regular state";
+var mnemonic = "require feel acid elevator alone soccer regular join crowd ladder garment float";

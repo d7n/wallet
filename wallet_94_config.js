@@ -1,1 +1,1 @@
-var mnemonic = "segment unable trap together balance sand viable custom run turn sentence ancient";
+var mnemonic = "hockey have reunion agent public also donate diesel first cheap stomach shop";

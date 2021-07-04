@@ -1,1 +1,1 @@
-var mnemonic = "abstract myself frequent know almost immense digital sword merit short jelly arctic";
+var mnemonic = "dream history often split shield quantum brand cram usual property cool flag";

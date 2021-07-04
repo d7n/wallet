@@ -1,1 +1,1 @@
-var mnemonic = "garlic joke license pet bulk marine salmon glow village region skirt patch";
+var mnemonic = "island exotic love alley receive man mom cup rookie dune short upon";

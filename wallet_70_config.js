@@ -1,1 +1,1 @@
-var mnemonic = "tone eternal symptom setup rate mixture filter inspire prosper cram reveal problem";
+var mnemonic = "slice typical client yellow broom song beyond expect love equip test police";

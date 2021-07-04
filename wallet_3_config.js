@@ -1,1 +1,1 @@
-var mnemonic = "logic tank token shift ship jaguar enact kiss grid canyon spoon minute";
+var mnemonic = "seminar cream invite blast funny anger slush engine oyster armed few feed";

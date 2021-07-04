@@ -1,1 +1,1 @@
-var mnemonic = "mushroom chicken aspect powder lucky enrich speed muscle match three curtain enjoy";
+var mnemonic = "submit process turkey equal body ship pretty common twelve gentle dove practice";

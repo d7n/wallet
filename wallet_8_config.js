@@ -1,1 +1,1 @@
-var mnemonic = "marble picnic error clap rigid quick hire permit romance artist magnet reopen";
+var mnemonic = "joke deny hidden filter debate burger buzz notable joy cricket addict rate";

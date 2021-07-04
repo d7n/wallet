@@ -1,1 +1,1 @@
-var mnemonic = "victory hedgehog virtual company release build rival dwarf post immune upper guard";
+var mnemonic = "prosper ranch bike letter grief stool wasp pipe acoustic weather south stairs";

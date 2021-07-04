@@ -1,1 +1,1 @@
-var mnemonic = "submit lizard face design torch mass detail pink tunnel plastic purity diesel";
+var mnemonic = "flight pact wheel theme sunny visual delay memory deputy odor gather estate";

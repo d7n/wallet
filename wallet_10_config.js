@@ -1,1 +1,1 @@
-var mnemonic = "pelican town liquid donate february stomach gain slam priority recycle ask spin";
+var mnemonic = "glimpse human shell ball egg mail normal menu exotic labor kit piano";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer maid reduce toe anxiety into assault neutral clown marriage bridge strategy";
+var mnemonic = "daughter you harsh cattle fame front puzzle broken stand junior crunch above";

@@ -1,1 +1,1 @@
-var mnemonic = "juice dream genre busy comfort sense deny corn meadow flight keen finish";
+var mnemonic = "census voice curious token tissue myself decline venture parrot banner guess someone";

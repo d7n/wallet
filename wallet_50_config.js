@@ -1,1 +1,1 @@
-var mnemonic = "twelve pencil like admit trouble kangaroo have isolate street monitor fashion unusual";
+var mnemonic = "wrap huge ocean violin bulb satisfy camera layer cricket pattern love consider";

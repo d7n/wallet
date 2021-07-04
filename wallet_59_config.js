@@ -1,1 +1,1 @@
-var mnemonic = "combine innocent shiver plate tiny will correct idle long joy hand issue";
+var mnemonic = "boost drop unit piano intact broken relief eagle cat earth post grace";

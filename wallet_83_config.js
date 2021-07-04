@@ -1,1 +1,1 @@
-var mnemonic = "pill print injury peace gather orphan text able strategy moral liquid angle";
+var mnemonic = "group connect novel chef when ring quality bicycle grief option rubber warfare";

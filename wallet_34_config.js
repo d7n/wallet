@@ -1,1 +1,1 @@
-var mnemonic = "hurdle absorb decrease turkey toilet inch peanut gadget spoon join vintage alcohol";
+var mnemonic = "sand rough evoke pond speak travel term art mango valley blast hand";

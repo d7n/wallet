@@ -1,1 +1,1 @@
-var mnemonic = "bench defense fee series coach fat bitter kidney educate dumb fee enlist";
+var mnemonic = "auction twelve amazing convince twist proof better rule wear suffer weapon burst";

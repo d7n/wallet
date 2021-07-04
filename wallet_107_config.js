@@ -1,1 +1,1 @@
-var mnemonic = "swamp inner genre magnet skin rose quality water coffee rule view rebuild";
+var mnemonic = "such sea hawk burden tired guess brisk green day attend flag arm";

@@ -1,1 +1,1 @@
-var mnemonic = "prize hat lecture need cube gas arrange shiver indoor issue liberty fiscal";
+var mnemonic = "install budget left unfold canal jaguar rail city open ginger magic actress";

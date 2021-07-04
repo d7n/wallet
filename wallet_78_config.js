@@ -1,1 +1,1 @@
-var mnemonic = "unaware ten can concert view join anxiety rhythm giggle region october junk";
+var mnemonic = "learn hover harvest sorry language tone topple accuse plunge minor soccer relief";

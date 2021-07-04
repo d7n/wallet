@@ -1,1 +1,1 @@
-var mnemonic = "cage gadget power ski rich fruit sand almost chicken benefit afford traffic";
+var mnemonic = "artwork burger surge travel holiday luggage crunch universe always unfold top session";

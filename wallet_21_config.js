@@ -1,1 +1,1 @@
-var mnemonic = "fetch seven toward round assume chief alter solution myth lecture key oppose";
+var mnemonic = "spawn magic cause mass palace sugar chief era crucial warrior gift orphan";
