@@ -1,1 +1,1 @@
-var mnemonic = "winner inner city clever reason soft play reform grape loop donate yellow";
+var mnemonic = "best winter tragic grid cute seed pledge planet audit genuine usual sell";

@@ -1,1 +1,1 @@
-var mnemonic = "answer ceiling card suspect copy wild word depth crack wish bring drill";
+var mnemonic = "moment way hamster boss under resist fluid silver bitter trigger struggle flock";

@@ -1,1 +1,1 @@
-var mnemonic = "they bike forest team father result dizzy door ridge notice push dance";
+var mnemonic = "web bike warrior cross initial ride ring title raw exclude toss follow";

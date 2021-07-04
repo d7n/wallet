@@ -1,1 +1,1 @@
-var mnemonic = "merit loan project custom egg cupboard nut park object dilemma spare cereal";
+var mnemonic = "front under reform sheriff spare grass giraffe robust above crew ice check";

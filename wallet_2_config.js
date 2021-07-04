@@ -1,1 +1,1 @@
-var mnemonic = "slim bundle talk rabbit concert sword cliff believe cradle fetch quarter smoke";
+var mnemonic = "wash dream sudden shaft trash good add follow hockey exile wrestle sniff";

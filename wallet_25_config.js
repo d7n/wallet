@@ -1,1 +1,1 @@
-var mnemonic = "hurry surge have thrive feel dizzy you fan virtual image walnut aisle";
+var mnemonic = "stable olympic gravity gather short stairs veteran say saddle unit flock public";

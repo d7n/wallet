@@ -1,1 +1,1 @@
-var mnemonic = "virus stairs insane gospel field buffalo satisfy uphold caught sword cave aspect";
+var mnemonic = "vintage public fiction economy future endorse velvet square hammer draft detect pull";

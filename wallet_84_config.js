@@ -1,1 +1,1 @@
-var mnemonic = "false forest purse rib ready found mix custom stuff meadow dinner race";
+var mnemonic = "width dress change egg indoor tilt poem pool display number glass among";

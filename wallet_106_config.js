@@ -1,1 +1,1 @@
-var mnemonic = "drip alien puzzle sausage payment orange car steak isolate twelve corn snake";
+var mnemonic = "pony rare drive race tackle relief rapid bargain embody smile bike relax";

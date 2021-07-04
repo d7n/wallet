@@ -1,1 +1,1 @@
-var mnemonic = "dwarf sheriff garbage apart prevent own universe cigar item diet gloom glare";
+var mnemonic = "crane way march farm entire indicate oven bullet soda parrot wealth deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel sand sugar nerve lizard hurry soon call pattern lake must fish";
+var mnemonic = "card response east radar foil roof inject label wall paddle boost rebuild";

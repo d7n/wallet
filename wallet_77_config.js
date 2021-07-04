@@ -1,1 +1,1 @@
-var mnemonic = "enable salmon crisp stool toast wise rebel gauge use coral mask blade";
+var mnemonic = "canvas theory screen rib middle salon blame shrimp language grocery fancy post";

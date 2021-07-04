@@ -1,1 +1,1 @@
-var mnemonic = "creek error dynamic future deer cruise below salute quiz bracket giraffe ostrich";
+var mnemonic = "champion brass smooth bridge buffalo demise moon book club suit polar fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "update winter pact crumble wisdom border service miracle horn atom actual slight";
+var mnemonic = "obvious flavor begin fox corn decline exhaust better base dove grief hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange rebel sausage symptom swear math name demand deposit clean develop warfare";
+var mnemonic = "confirm bracket ten educate pelican before betray tone absurd inherit rescue word";

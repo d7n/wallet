@@ -1,1 +1,1 @@
-var mnemonic = "defense model cannon want wish kitten feel strategy reduce glass target frame";
+var mnemonic = "scatter speed tornado gas buddy rude sea alone vintage cute cover income";

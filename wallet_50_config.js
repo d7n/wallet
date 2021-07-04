@@ -1,1 +1,1 @@
-var mnemonic = "tennis agent nothing pipe visa tennis couch priority screen stamp clean skate";
+var mnemonic = "castle resist dawn spin powder odor benefit patch dentist exercise truth own";

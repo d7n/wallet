@@ -1,1 +1,1 @@
-var mnemonic = "organ foil sun square phrase donor panel harbor victory sense angle snack";
+var mnemonic = "square lesson awesome spring unknown apple attack top slam canal dynamic cup";

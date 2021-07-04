@@ -1,1 +1,1 @@
-var mnemonic = "room visit proof achieve burden inflict aerobic decide wave fitness valid victory";
+var mnemonic = "spice mind poet left wild rail fence blood ceiling fire feel nice";

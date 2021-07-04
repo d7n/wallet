@@ -1,1 +1,1 @@
-var mnemonic = "promote what kid aware guide attract lawsuit similar able stove shallow arctic";
+var mnemonic = "cousin novel initial lunar convince ride measure fluid shell combine tiger okay";

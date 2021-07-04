@@ -1,1 +1,1 @@
-var mnemonic = "kingdom tool ring smooth polar real copy number scene ordinary toilet paper";
+var mnemonic = "bonus rare coin topic exhibit relax hobby creek north ketchup vault oil";

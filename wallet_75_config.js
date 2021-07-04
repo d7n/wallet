@@ -1,1 +1,1 @@
-var mnemonic = "ivory prosper wire shoulder sorry health distance parent divide success know fat";
+var mnemonic = "stairs speak figure lawsuit sight tumble junk laugh visit liar spare flag";

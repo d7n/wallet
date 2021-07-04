@@ -1,1 +1,1 @@
-var mnemonic = "prison imitate subject scale arm deer rapid direct ensure noise suggest sponsor";
+var mnemonic = "reason snack lift grain civil gesture tip science apart sudden click erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "eager rib relax cream people leader knock film six south entry fault";
+var mnemonic = "salad logic buffalo liquid drum try refuse erode wide common shock gap";

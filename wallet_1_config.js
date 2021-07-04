@@ -1,1 +1,1 @@
-var mnemonic = "dawn crane essence collect switch put jungle explain nephew actual appear exit";
+var mnemonic = "view federal bar rug shift truck sport valid vacuum rib duty muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs estate satoshi echo strike typical rare brother monkey coconut circle punch";
+var mnemonic = "detect obey joy strong elephant middle wrist once office tool loop plastic";

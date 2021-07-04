@@ -1,1 +1,1 @@
-var mnemonic = "canal faint useful gossip bundle expose runway impose ancient ahead rich eight";
+var mnemonic = "ticket fluid aim empower humble craft alert tunnel brother draw bronze table";

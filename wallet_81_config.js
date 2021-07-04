@@ -1,1 +1,1 @@
-var mnemonic = "scale dwarf rail hood alpha inch toward laptop sell radio pave margin";
+var mnemonic = "blame market curious man leader agree gauge leave spend trophy wealth extra";

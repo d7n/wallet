@@ -1,1 +1,1 @@
-var mnemonic = "piano repair all later plunge green drama dolphin labor always capable finish";
+var mnemonic = "vintage own label govern glove coral treat kiwi cricket evoke help split";

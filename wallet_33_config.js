@@ -1,1 +1,1 @@
-var mnemonic = "panel sting page abstract hungry deer later safe bracket mansion castle occur";
+var mnemonic = "into voice end flip grief forest egg spawn parrot fashion lawn tornado";

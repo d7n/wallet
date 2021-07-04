@@ -1,1 +1,1 @@
-var mnemonic = "fine program trend poet mosquito atom enforce angle sheriff river buyer doll";
+var mnemonic = "gesture priority trick claim course item oak shine country steel amused loop";

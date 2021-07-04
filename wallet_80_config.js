@@ -1,1 +1,1 @@
-var mnemonic = "season defy ostrich clean nice old movie rude crater keen zebra detect";
+var mnemonic = "wrist bone neither truck quarter screen apple appear uphold fame lunch current";

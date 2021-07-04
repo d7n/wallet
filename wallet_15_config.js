@@ -1,1 +1,1 @@
-var mnemonic = "blush warm youth kit since world maple mean iron forward outer lonely";
+var mnemonic = "drift bounce borrow power zebra eight expand furnace focus proud ancient stumble";

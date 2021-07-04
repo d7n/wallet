@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin assist moral guess since guard effort unveil harsh coyote inflict trumpet";
+var mnemonic = "agree hope bubble park kite talk kiwi middle cloth chuckle panel sweet";

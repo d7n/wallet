@@ -1,1 +1,1 @@
-var mnemonic = "beach super stamp fly turkey visa left idea dirt outer ankle snack";
+var mnemonic = "holiday curious dial worth inspire finish win garage panic dust insane bench";

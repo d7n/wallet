@@ -1,1 +1,1 @@
-var mnemonic = "distance unlock olympic deny material fossil acid bar peanut sand assault risk";
+var mnemonic = "square clump harvest ethics lamp embark gorilla canal anger meat walnut already";

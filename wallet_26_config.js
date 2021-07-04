@@ -1,1 +1,1 @@
-var mnemonic = "good follow voyage decline increase travel joke arrange choice problem current exhaust";
+var mnemonic = "target envelope mechanic coconut thunder dynamic attitude water animal island bag survey";

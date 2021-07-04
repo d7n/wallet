@@ -1,1 +1,1 @@
-var mnemonic = "culture cage cruise doll crunch shiver relief napkin resemble skill open enable";
+var mnemonic = "choice jacket stomach cook rule wrist rival marine garbage sketch among page";

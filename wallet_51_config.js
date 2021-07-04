@@ -1,1 +1,1 @@
-var mnemonic = "lend hungry thing lady front pizza tenant title empower match minor accuse";
+var mnemonic = "champion spread caution tattoo circle marine clump venture flash pass opinion list";

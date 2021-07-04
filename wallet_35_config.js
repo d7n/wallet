@@ -1,1 +1,1 @@
-var mnemonic = "you teach frown sunset impact endless patch sweet weird fever air phone";
+var mnemonic = "hello cluster blouse diesel focus mosquito heavy road moral clay happy casual";

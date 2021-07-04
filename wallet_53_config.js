@@ -1,1 +1,1 @@
-var mnemonic = "dragon rib behind file rib beauty abandon random goose finger oil please";
+var mnemonic = "method gather whip humor become slim stand town diagram rescue shuffle scrub";

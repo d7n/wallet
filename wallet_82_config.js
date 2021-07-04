@@ -1,1 +1,1 @@
-var mnemonic = "amateur infant try rookie apple bicycle struggle ignore powder hover lobster attitude";
+var mnemonic = "language tell lunch panel junior stadium auto select neglect brown buyer bench";

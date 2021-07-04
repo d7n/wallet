@@ -1,1 +1,1 @@
-var mnemonic = "drastic move pyramid process cook distance daughter easily picnic dinosaur hint tomorrow";
+var mnemonic = "cute balcony dawn discover body right exhaust salute jazz artefact episode approve";

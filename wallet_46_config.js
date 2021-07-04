@@ -1,1 +1,1 @@
-var mnemonic = "naive come random wear repeat census gossip monkey jelly popular raise more";
+var mnemonic = "mean day round fresh abuse entry faculty bunker visual resource reflect bamboo";

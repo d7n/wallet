@@ -1,1 +1,1 @@
-var mnemonic = "name creek sphere evil steel update army sad ball essence certain manual";
+var mnemonic = "mom dish speed midnight about lemon beef drop unaware forward peace such";

@@ -1,1 +1,1 @@
-var mnemonic = "switch coach simple fabric post relax despair object syrup where aware range";
+var mnemonic = "energy key require silver copper party deny release letter crime innocent cousin";

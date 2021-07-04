@@ -1,1 +1,1 @@
-var mnemonic = "indicate tattoo prepare wonder gospel gap nut awkward purse reject nominee pudding";
+var mnemonic = "improve gadget cactus spoil flavor unable kitchen remove chef sign return express";

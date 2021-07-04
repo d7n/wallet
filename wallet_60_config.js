@@ -1,1 +1,1 @@
-var mnemonic = "exhibit release pattern frog wreck typical gold donor gauge submit injury know";
+var mnemonic = "garlic chimney advance armor clarify dune laptop race seek few core leopard";

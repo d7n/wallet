@@ -1,1 +1,1 @@
-var mnemonic = "sugar tiny fuel peanut crucial output test ask network annual stairs ginger";
+var mnemonic = "duty whisper coach merit destroy clown faculty eternal earn coast inside pole";

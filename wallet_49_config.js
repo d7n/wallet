@@ -1,1 +1,1 @@
-var mnemonic = "panda copy observe fox scene identify fortune yellow ancient paddle skate ginger";
+var mnemonic = "lottery boost sorry inflict decide bench federal siege police vicious donor patrol";

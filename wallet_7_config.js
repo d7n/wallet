@@ -1,1 +1,1 @@
-var mnemonic = "bid farm involve bracket dove honey roast clock easy bind forward control";
+var mnemonic = "monitor nephew donkey mushroom exile start barrel magnet sign clean before bulb";

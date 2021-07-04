@@ -1,1 +1,1 @@
-var mnemonic = "evil exhibit gesture token business floor solar loop tell shed history song";
+var mnemonic = "bundle month include slice flock next symbol hello hedgehog trend portion shuffle";

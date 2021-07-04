@@ -1,1 +1,1 @@
-var mnemonic = "tortoise essence service kitten slice tomato initial gift super couple atom ginger";
+var mnemonic = "planet captain nominee say network bike ball caught decorate avoid piano celery";

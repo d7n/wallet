@@ -1,1 +1,1 @@
-var mnemonic = "blade swap vivid describe fault fence vibrant pluck oval olive elegant end";
+var mnemonic = "grain lady ozone latin famous sustain rude hair peanut sketch canyon visa";

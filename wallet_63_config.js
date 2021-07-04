@@ -1,1 +1,1 @@
-var mnemonic = "turn pigeon divert zoo lazy hawk ring swim update mail pole ozone";
+var mnemonic = "letter rubber vital oven chuckle faith aware clay eternal scorpion word daring";

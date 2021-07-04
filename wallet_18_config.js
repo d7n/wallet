@@ -1,1 +1,1 @@
-var mnemonic = "hawk general raccoon mean friend immune reunion nasty drama quit rib cute";
+var mnemonic = "tourist space credit ivory coral mammal space language sketch ordinary prepare category";

@@ -1,1 +1,1 @@
-var mnemonic = "total oyster month crisp mean ring prize hub frog dutch print vicious";
+var mnemonic = "leg gauge walk pride build welcome during equip space crash cabbage cloth";

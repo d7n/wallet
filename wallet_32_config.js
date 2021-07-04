@@ -1,1 +1,1 @@
-var mnemonic = "topic hedgehog canoe stereo demise hobby achieve scale abandon brother risk hunt";
+var mnemonic = "error include jaguar prosper regular enforce faint resist rebel cruel leopard swing";

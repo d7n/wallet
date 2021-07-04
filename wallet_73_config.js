@@ -1,1 +1,1 @@
-var mnemonic = "raise execute sick fine copper swear timber traffic immense patient shy stomach";
+var mnemonic = "mystery wish gospel cube detect question market story clinic load display sniff";

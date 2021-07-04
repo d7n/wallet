@@ -1,1 +1,1 @@
-var mnemonic = "shiver liar word glad ship involve record maximum vendor easily custom barrel";
+var mnemonic = "element will tree amateur awake mention cream health end comic exile bid";

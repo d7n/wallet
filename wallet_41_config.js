@@ -1,1 +1,1 @@
-var mnemonic = "trim cheese relax stumble vacant picnic where slim festival clap mention same";
+var mnemonic = "whale catalog bean cinnamon timber minute power grocery bright become excite high";

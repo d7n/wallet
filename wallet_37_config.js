@@ -1,1 +1,1 @@
-var mnemonic = "club doctor lawn nephew tourist impact public gospel sustain mixture fruit hunt";
+var mnemonic = "salt elite quantum size correct pluck labor gown melt world used supply";

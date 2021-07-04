@@ -1,1 +1,1 @@
-var mnemonic = "extend angle elite path battle base network reflect penalty misery shiver scale";
+var mnemonic = "throw inch napkin staff sign neutral father exchange indoor expect review infant";

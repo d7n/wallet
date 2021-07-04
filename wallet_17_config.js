@@ -1,1 +1,1 @@
-var mnemonic = "inject shock hurt decade switch faculty shop arrive pizza urban beef crane";
+var mnemonic = "brain coil pitch sea thank steak weekend runway opinion water repair orphan";

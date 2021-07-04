@@ -1,1 +1,1 @@
-var mnemonic = "spot text shoe mechanic swift jump exhibit term announce immune cousin okay";
+var mnemonic = "razor then rice loyal series scene shove misery upgrade gap wise dove";

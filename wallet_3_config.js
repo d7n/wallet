@@ -1,1 +1,1 @@
-var mnemonic = "slice magnet hint open wrap increase duty fatigue pause grace question endorse";
+var mnemonic = "almost visa slam smile absurd buffalo ranch often know put endless remind";

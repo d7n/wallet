@@ -1,1 +1,1 @@
-var mnemonic = "result course country winter group profit genius cry ability detect that faculty";
+var mnemonic = "glare relief wild pluck erase card laundry attend example mimic mixture another";

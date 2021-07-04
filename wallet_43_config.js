@@ -1,1 +1,1 @@
-var mnemonic = "broom swap supreme box monitor run install budget mixed proof venture admit";
+var mnemonic = "exact flame fence must media join since business skin expand breeze cluster";

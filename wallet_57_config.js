@@ -1,1 +1,1 @@
-var mnemonic = "protect deny neutral pave industry arctic trouble sure include reform one flee";
+var mnemonic = "away undo gossip satoshi rescue embark fetch control talent unfold fame hint";

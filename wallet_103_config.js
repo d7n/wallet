@@ -1,1 +1,1 @@
-var mnemonic = "image road nation blanket frost aim winter worth robot digital predict vibrant";
+var mnemonic = "food monster manage exhaust hurdle true grow tail relax urge cattle lab";

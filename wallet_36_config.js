@@ -1,1 +1,1 @@
-var mnemonic = "hub citizen mirror lamp egg crush angle eternal various trophy weather jealous";
+var mnemonic = "rose grid long innocent bamboo impulse liar excuse secret guess affair invest";

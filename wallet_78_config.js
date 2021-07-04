@@ -1,1 +1,1 @@
-var mnemonic = "picnic scale flash secret either weapon vocal gate loyal grass siege august";
+var mnemonic = "river van found clock earn naive next prosper dice blossom wish side";

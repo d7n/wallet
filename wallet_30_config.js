@@ -1,1 +1,1 @@
-var mnemonic = "rebuild lunar sense town ask lion harvest basic panther boy sketch eagle";
+var mnemonic = "general flee tomorrow slim table step motion perfect news either domain false";

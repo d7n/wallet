@@ -1,1 +1,1 @@
-var mnemonic = "pig tattoo remain above choice volcano blame critic jaguar knock perfect viable";
+var mnemonic = "shine long leg knife crime sleep true brain exist enter video trade";

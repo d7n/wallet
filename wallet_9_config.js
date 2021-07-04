@@ -1,1 +1,1 @@
-var mnemonic = "pet wear mad resource genius hood rose prize balcony embody engage bomb";
+var mnemonic = "strategy donkey disagree ripple wage uncle lazy label tail eye army hobby";

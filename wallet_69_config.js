@@ -1,1 +1,1 @@
-var mnemonic = "cake maximum noodle jacket pole speak become hill slender night tornado cause";
+var mnemonic = "wall worth theory north crouch away symbol fall firm label please captain";

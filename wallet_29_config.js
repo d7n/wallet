@@ -1,1 +1,1 @@
-var mnemonic = "sun copy stable beef topple dragon receive appear stock model crawl forest";
+var mnemonic = "burden able term whale salad thank resource cruel tape between canyon chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "process still comic sphere shift elite audit critic apart inside weather glory";
+var mnemonic = "disorder myself cupboard access media neither run sail style outside sort shove";

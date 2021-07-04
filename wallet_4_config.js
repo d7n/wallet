@@ -1,1 +1,1 @@
-var mnemonic = "vote shed alone trim pull tiny priority senior arrow school apart zebra";
+var mnemonic = "exclude scrub cargo maple rhythm chat fatigue wolf reform icon bus grocery";

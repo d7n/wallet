@@ -1,1 +1,1 @@
-var mnemonic = "mutual amount stomach ensure effort ahead energy lion spend need biology below";
+var mnemonic = "humble confirm orient found fresh beauty aerobic frown swim alien axis explain";

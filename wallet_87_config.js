@@ -1,1 +1,1 @@
-var mnemonic = "plate draw program coyote fancy curve wide diary educate junk rather point";
+var mnemonic = "spawn twice feed cabin print vacuum rocket photo admit year abandon picture";

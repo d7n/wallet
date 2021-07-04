@@ -1,1 +1,1 @@
-var mnemonic = "arrive brass exchange raccoon grab jaguar cash ship pepper ice clinic sense";
+var mnemonic = "lonely slim eternal cupboard scan split history smile list help toss pill";

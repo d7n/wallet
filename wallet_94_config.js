@@ -1,1 +1,1 @@
-var mnemonic = "elite image stadium problem save liquid trend lunar time soldier monster early";
+var mnemonic = "mention outdoor grain team crane journey before inch actual cannon gaze pretty";

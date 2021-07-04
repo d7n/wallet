@@ -1,1 +1,1 @@
-var mnemonic = "enter safe renew next flash trend width test version regular hint dilemma";
+var mnemonic = "custom price ugly nest tragic shine release toddler copper crash waste sail";

@@ -1,1 +1,1 @@
-var mnemonic = "render shock segment analyst van lock kite hurdle deal actual accident moral";
+var mnemonic = "antique level hockey heavy begin twenty tragic veteran best prefer vibrant wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair rail bleak wrestle people doll shrug warfare blur hollow uphold endorse";
+var mnemonic = "prevent slice matter puppy spring ozone impose typical mix behind amazing stuff";

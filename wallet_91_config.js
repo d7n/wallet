@@ -1,1 +1,1 @@
-var mnemonic = "extra enter brother fly gentle hybrid hamster deer monster unhappy sunny injury";
+var mnemonic = "fabric fat rack scissors front reform latin cotton fruit vintage surge risk";

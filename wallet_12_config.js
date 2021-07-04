@@ -1,1 +1,1 @@
-var mnemonic = "shadow talent equal divide horror increase stuff power attend squeeze secret exile";
+var mnemonic = "expose auction sauce check again wine under sign number view excite stable";
