@@ -1,1 +1,1 @@
-var mnemonic = "retire swing setup dynamic page text spider version dose plate harsh cruise";
+var mnemonic = "slight control tell cup trouble fiscal avocado safe glue sock crime intact";

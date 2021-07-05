@@ -1,1 +1,1 @@
-var mnemonic = "sustain angle real federal medal pet result roast vivid hub female lawsuit";
+var mnemonic = "alter crisp huge spatial tube girl tent express soap will blind carbon";

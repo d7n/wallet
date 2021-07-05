@@ -1,1 +1,1 @@
-var mnemonic = "plate action dry mind hundred mad wrap safe turtle tiny tired soup";
+var mnemonic = "mass group genius bless soap sad run fine price buyer ocean early";

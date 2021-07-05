@@ -1,1 +1,1 @@
-var mnemonic = "cycle pyramid wedding lazy invest measure vendor drill pride unit liar design";
+var mnemonic = "share typical garlic other little spy cliff weapon volume undo trash twist";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter million jar enrich illness rib similar grief short sustain rule install";
+var mnemonic = "palace tower ribbon average miracle wrong real zoo home carbon hover pizza";

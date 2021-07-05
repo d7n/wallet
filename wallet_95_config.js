@@ -1,1 +1,1 @@
-var mnemonic = "useless candy cushion unhappy habit lion settle hill evoke sting market venue";
+var mnemonic = "twenty wealth misery other fossil ladder genuine monkey word job hockey keen";

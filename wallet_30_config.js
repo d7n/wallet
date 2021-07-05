@@ -1,1 +1,1 @@
-var mnemonic = "recipe snake fiber snap vault garlic ability clump pelican cup oak stereo";
+var mnemonic = "ancient trash hand mention undo purpose shoot lunar trim deny little dignity";

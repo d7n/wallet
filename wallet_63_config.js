@@ -1,1 +1,1 @@
-var mnemonic = "fault fruit office under chapter improve void laptop knee devote extend bring";
+var mnemonic = "museum real essay rival diagram pumpkin color habit wedding repair walnut noise";

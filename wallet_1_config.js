@@ -1,1 +1,1 @@
-var mnemonic = "build cancel knee genuine fee wife breeze once ability dentist future winter";
+var mnemonic = "race zero defense february monster grace human vague range size flavor switch";

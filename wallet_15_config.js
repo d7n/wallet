@@ -1,1 +1,1 @@
-var mnemonic = "gospel almost expire raise excite eager bridge chuckle evil fortune hotel elephant";
+var mnemonic = "coconut ranch oblige appear lift parent viable whisper stamp sphere account only";

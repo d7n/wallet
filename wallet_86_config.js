@@ -1,1 +1,1 @@
-var mnemonic = "rain rebuild obey wedding puppy key what define follow heart obscure often";
+var mnemonic = "ice artwork garage warm buddy rifle vague hint rug capable image lumber";

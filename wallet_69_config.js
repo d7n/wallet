@@ -1,1 +1,1 @@
-var mnemonic = "purpose island peace move inch silk movie garage marine submit state draft";
+var mnemonic = "interest release six danger chuckle fall purchase tomorrow find dice snack opera";

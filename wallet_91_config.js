@@ -1,1 +1,1 @@
-var mnemonic = "smile delay jealous click enhance major stable wrap one fever soldier engine";
+var mnemonic = "salad police stove pretty crystal biology achieve subway inspire echo corn fat";

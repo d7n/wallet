@@ -1,1 +1,1 @@
-var mnemonic = "brown square spice junior wet wish flight syrup define palm sugar wall";
+var mnemonic = "theme brisk play pear fashion kind diagram trip ill model bronze echo";

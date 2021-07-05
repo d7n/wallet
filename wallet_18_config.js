@@ -1,1 +1,1 @@
-var mnemonic = "solve soul wet same diet glide alpha enjoy imitate ghost rhythm dance";
+var mnemonic = "shrug donkey soon mail almost avoid act anchor trap interest soon dust";

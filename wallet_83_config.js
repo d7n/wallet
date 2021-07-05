@@ -1,1 +1,1 @@
-var mnemonic = "history image cinnamon hurdle coach mammal trophy vague winner night pepper surprise";
+var mnemonic = "pizza cousin bread track deny train hospital cover neither champion prize slim";

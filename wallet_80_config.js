@@ -1,1 +1,1 @@
-var mnemonic = "special copy damage sort agree luggage try there penalty achieve mad budget";
+var mnemonic = "frozen scatter bamboo course provide crater round orange cat hazard guitar silent";

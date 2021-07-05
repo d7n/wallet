@@ -1,1 +1,1 @@
-var mnemonic = "useless mail honey answer grit result draw cart canal rifle other own";
+var mnemonic = "dose deny swamp check basic cotton image junk harsh curtain rely wise";

@@ -1,1 +1,1 @@
-var mnemonic = "barely sudden cupboard humble install unaware arrive venture income vote turtle divert";
+var mnemonic = "animal then remove fault silk stock sphere universe original client brand vendor";

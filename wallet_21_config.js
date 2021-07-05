@@ -1,1 +1,1 @@
-var mnemonic = "sport retreat chunk cruel real when wrist chicken argue bar insect eight";
+var mnemonic = "gift illness march useless toast theory brave sort nation wise position bulb";

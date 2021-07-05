@@ -1,1 +1,1 @@
-var mnemonic = "mushroom decade aerobic say identify suspect easy pencil whale join gun island";
+var mnemonic = "cannon barrel person favorite half identify pencil call spend knife cost board";

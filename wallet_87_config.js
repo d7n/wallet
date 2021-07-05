@@ -1,1 +1,1 @@
-var mnemonic = "veteran rebuild spy spike trash dirt can hunt legal pitch method eager";
+var mnemonic = "engage loop hobby try hamster around damp issue swallow access kid panther";

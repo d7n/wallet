@@ -1,1 +1,1 @@
-var mnemonic = "social crush toss around bubble ensure sword eight true basket muffin margin";
+var mnemonic = "subject mango ball whisper social change because eternal model title reopen couple";

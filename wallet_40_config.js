@@ -1,1 +1,1 @@
-var mnemonic = "upper purchase multiply poverty vacant crouch attract senior night crucial garbage easily";
+var mnemonic = "fog ski dinosaur broom advance gown front spring citizen kite fury unique";

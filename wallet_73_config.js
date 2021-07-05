@@ -1,1 +1,1 @@
-var mnemonic = "sausage square tissue whale result tooth typical teach steel tent play volcano";
+var mnemonic = "emotion gloom panel arrive sugar venue release reason shop small guess harbor";

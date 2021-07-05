@@ -1,1 +1,1 @@
-var mnemonic = "theory key main mercy heart purity raw peace range illegal warrior vote";
+var mnemonic = "army category plunge extend ensure car feel tackle stage pen soul purchase";

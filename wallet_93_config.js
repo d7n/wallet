@@ -1,1 +1,1 @@
-var mnemonic = "corn palace more science detect focus since mango unveil fog name visit";
+var mnemonic = "rapid flavor penalty shield furnace tornado evoke assault goose grit wide during";

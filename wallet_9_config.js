@@ -1,1 +1,1 @@
-var mnemonic = "velvet empty spring lyrics bright side extra stove into card negative employ";
+var mnemonic = "frost clip method month sad toy access soccer vivid stadium decide spread";

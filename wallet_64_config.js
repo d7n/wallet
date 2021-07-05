@@ -1,1 +1,1 @@
-var mnemonic = "vital tourist empty jaguar wolf cabbage admit invite much hawk crush faint";
+var mnemonic = "carry ocean end pluck borrow correct insane weird next inch drop luggage";

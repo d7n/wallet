@@ -1,1 +1,1 @@
-var mnemonic = "vivid peanut embark alley high lunar confirm woman trip taste cruel seed";
+var mnemonic = "country pepper icon donor proof media behave grow net jewel find account";

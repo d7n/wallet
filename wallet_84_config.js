@@ -1,1 +1,1 @@
-var mnemonic = "village curious sugar artist virtual result dutch fluid dragon turn essence few";
+var mnemonic = "soul same aware soldier outdoor october budget stomach actress move wrist rather";

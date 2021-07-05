@@ -1,1 +1,1 @@
-var mnemonic = "ball void lizard stamp elevator share define wear rate screen pond raw";
+var mnemonic = "walk laundry crumble hole lawn flip arrest loyal guilt mutual echo refuse";

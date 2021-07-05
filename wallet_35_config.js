@@ -1,1 +1,1 @@
-var mnemonic = "daring detail idle lab winner finish consider web love snake oil payment";
+var mnemonic = "cattle pull excess board method master scorpion symptom what luggage sniff oblige";

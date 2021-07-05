@@ -1,1 +1,1 @@
-var mnemonic = "jazz card tag sunset beef square rigid best govern coyote worry metal";
+var mnemonic = "together wait debris shrimp shoulder sure dinner salmon tell spin token impose";

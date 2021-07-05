@@ -1,1 +1,1 @@
-var mnemonic = "moon river bag soda call very subject barrel box lady ensure arm";
+var mnemonic = "brother album genius jump donkey dynamic achieve cannon behind all cloud icon";

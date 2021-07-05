@@ -1,1 +1,1 @@
-var mnemonic = "close wheat police truly trust used banana marriage live riot coin awesome";
+var mnemonic = "napkin portion emotion muffin video fiscal taxi half smoke begin toward member";

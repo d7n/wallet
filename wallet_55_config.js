@@ -1,1 +1,1 @@
-var mnemonic = "uniform outside police basket clutch all panda good outer mountain rely pause";
+var mnemonic = "drink strong exercise flavor gold strike mango sentence rebel canoe doctor cram";

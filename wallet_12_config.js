@@ -1,1 +1,1 @@
-var mnemonic = "maple hazard test cover net minimum fix hunt mention absent dwarf away";
+var mnemonic = "wrist sense copy lab dash trick shove road faint sell barely clarify";

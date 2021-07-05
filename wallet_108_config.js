@@ -1,1 +1,1 @@
-var mnemonic = "current animal kick aim oxygen segment edit demise sentence bleak best glory";
+var mnemonic = "reform gauge wool soft abandon relax harsh quality mandate entire usual lab";

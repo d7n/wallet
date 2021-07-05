@@ -1,1 +1,1 @@
-var mnemonic = "head sentence demand tide table crowd milk unhappy ten favorite angry abuse";
+var mnemonic = "leader front render stuff swim wild camp spoon mass salmon tilt parent";

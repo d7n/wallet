@@ -1,1 +1,1 @@
-var mnemonic = "brief donate identify aerobic over brush trophy jacket gloom drift wisdom range";
+var mnemonic = "truly equal aisle atom gun thunder number fix divide absorb slush this";

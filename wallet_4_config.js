@@ -1,1 +1,1 @@
-var mnemonic = "raw lumber second amateur original aspect file van spend palm dumb abuse";
+var mnemonic = "punch moon walk clump discover cliff speak depart gaze panda bubble grow";

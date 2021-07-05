@@ -1,1 +1,1 @@
-var mnemonic = "waste video scorpion ask random evil seek lecture eager example dream vault";
+var mnemonic = "better matrix canyon mercy salt hair check cost reveal author spend labor";

@@ -1,1 +1,1 @@
-var mnemonic = "resource mobile cargo trash clutch wave eager school nominee note youth license";
+var mnemonic = "clarify habit reopen doctor auto cousin elder hood mule hire vehicle situate";

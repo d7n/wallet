@@ -1,1 +1,1 @@
-var mnemonic = "hold casino oval car unlock any inch ability review acid happy eternal";
+var mnemonic = "hope rare citizen sport theme eye portion celery awkward matrix bread arm";

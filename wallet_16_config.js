@@ -1,1 +1,1 @@
-var mnemonic = "prison sister army accuse wink enforce tool draw caught invite bird theme";
+var mnemonic = "negative fantasy atom gossip hard sorry deer aerobic hour educate clutch phone";

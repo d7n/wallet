@@ -1,1 +1,1 @@
-var mnemonic = "glove subway avocado input upgrade will traffic mechanic review essence tribe link";
+var mnemonic = "pitch sound own asset color leave health river powder sell purchase exclude";

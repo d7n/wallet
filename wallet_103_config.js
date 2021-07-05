@@ -1,1 +1,1 @@
-var mnemonic = "tortoise narrow divide future attitude dolphin hip oxygen keep deny amount home";
+var mnemonic = "rail mountain expect office mutual maple garlic wheat jump ozone security mass";

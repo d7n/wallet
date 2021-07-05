@@ -1,1 +1,1 @@
-var mnemonic = "expand meadow dinosaur average drink weather blood rice pluck napkin place miracle";
+var mnemonic = "normal burden evidence home shallow wish mushroom goat height gorilla wool hungry";

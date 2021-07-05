@@ -1,1 +1,1 @@
-var mnemonic = "dash that code drive hand bicycle feed pole village intact unveil federal";
+var mnemonic = "grocery globe live ethics scrap staff alert shed melt execute focus style";

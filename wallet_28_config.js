@@ -1,1 +1,1 @@
-var mnemonic = "venture link cable rough vacant elite company hobby charge zoo twin output";
+var mnemonic = "funny inside eyebrow easily odor panel fall clinic since usual video canal";

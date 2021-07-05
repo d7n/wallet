@@ -1,1 +1,1 @@
-var mnemonic = "runway monkey dragon lucky enable bargain small own police shoe door have";
+var mnemonic = "novel summer pill fetch caught airport lock document foster toy among solid";

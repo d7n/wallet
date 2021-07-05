@@ -1,1 +1,1 @@
-var mnemonic = "scorpion loud unhappy acquire since myth enlist veteran hobby any pistol talent";
+var mnemonic = "tribe social firm brush tenant that retreat valley meat unusual lock lunar";

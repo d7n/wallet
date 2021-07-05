@@ -1,1 +1,1 @@
-var mnemonic = "assume scale planet river stay slogan twist bubble happy laptop library fish";
+var mnemonic = "car misery federal bulk loud special mesh advance cluster version method monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "today fly tumble wasp rough narrow hand digital rigid lobster sentence glide";
+var mnemonic = "milk pond muscle level large source fragile few civil omit route old";

@@ -1,1 +1,1 @@
-var mnemonic = "visit state drill fluid elegant jar hole tool weather drink recycle remain";
+var mnemonic = "capital visual water knee gun noodle cement pepper excite paper rib simple";

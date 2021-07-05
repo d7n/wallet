@@ -1,1 +1,1 @@
-var mnemonic = "talent excite hill nuclear deliver prosper nut object denial rather hint praise";
+var mnemonic = "human luxury margin front earth text beef jump congress define pioneer hire";

@@ -1,1 +1,1 @@
-var mnemonic = "grant prosper run tag maze success silly gun ramp home penalty cost";
+var mnemonic = "secret ceiling please trap century element candy hurt twist chunk clog access";

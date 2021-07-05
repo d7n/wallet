@@ -1,1 +1,1 @@
-var mnemonic = "pause amount term hen second energy ecology eagle entire cover door scorpion";
+var mnemonic = "sport miss gasp pull chapter right egg near obey grass load arch";

@@ -1,1 +1,1 @@
-var mnemonic = "banner virtual mind special hood spider deer illness year peanut aware collect";
+var mnemonic = "grace nothing lady improve cliff dust humble loan width edge mouse annual";

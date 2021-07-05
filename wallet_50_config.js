@@ -1,1 +1,1 @@
-var mnemonic = "armor spatial evoke phrase custom original expect survey humble viable foot dismiss";
+var mnemonic = "clump debate lens gossip cook tube shock capital piece weird thumb book";

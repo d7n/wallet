@@ -1,1 +1,1 @@
-var mnemonic = "cousin release horn merit alley uniform quick unfold ethics rescue vendor pony";
+var mnemonic = "afraid flee forward crisp piece keep wood select clerk admit salad skull";

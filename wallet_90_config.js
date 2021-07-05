@@ -1,1 +1,1 @@
-var mnemonic = "diesel assault crazy initial path logic leader short service jazz target unique";
+var mnemonic = "syrup slender august satisfy super caught nurse title expect ball question bundle";

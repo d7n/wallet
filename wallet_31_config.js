@@ -1,1 +1,1 @@
-var mnemonic = "soldier special boss today favorite fault kangaroo congress warfare panel undo hunt";
+var mnemonic = "render ozone burst tourist explain man risk aware patch stuff select grab";

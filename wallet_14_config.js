@@ -1,1 +1,1 @@
-var mnemonic = "motor alpha draft code picture hurry sure plate inquiry extra much chunk";
+var mnemonic = "salt alert drop steel option client gold dutch dumb retire nothing rib";

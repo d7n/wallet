@@ -1,1 +1,1 @@
-var mnemonic = "sort foam snack pulse stock sleep enlist true badge icon diary family";
+var mnemonic = "crush lamp total nephew survey sister island water grant decide length shine";

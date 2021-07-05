@@ -1,1 +1,1 @@
-var mnemonic = "wagon speed destroy also museum slush speed asthma angle power hotel april";
+var mnemonic = "alcohol canal scrub lizard vote wife appear fiscal yellow earn must squirrel";

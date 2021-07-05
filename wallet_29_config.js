@@ -1,1 +1,1 @@
-var mnemonic = "bean rigid rough rescue betray author math engage snow tragic future immense";
+var mnemonic = "perfect illness odor glimpse write piece sphere clock promote day unveil select";

@@ -1,1 +1,1 @@
-var mnemonic = "trade soccer sound effort green spare panel donate armed country shadow engage";
+var mnemonic = "leaf call chase urban disorder sleep learn wrestle person hover cute bulk";

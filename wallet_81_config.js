@@ -1,1 +1,1 @@
-var mnemonic = "crew fly behind palm silly awake apple giant boil fatal usual effort";
+var mnemonic = "celery shed pool outdoor leopard fossil fancy fiscal owner despair route nuclear";

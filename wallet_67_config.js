@@ -1,1 +1,1 @@
-var mnemonic = "whale reunion brass fossil invest tilt payment embody muffin load sauce cushion";
+var mnemonic = "increase cabbage depart door ceiling hotel sentence poem kind unaware account engage";

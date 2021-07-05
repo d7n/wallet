@@ -1,1 +1,1 @@
-var mnemonic = "soda kiss object lend rain isolate mask farm live razor shed taste";
+var mnemonic = "carry broom erode talent imitate genre praise horn verify alert ensure level";

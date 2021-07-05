@@ -1,1 +1,1 @@
-var mnemonic = "picnic act raven soccer cabin sauce divide scorpion cherry prepare boat walk";
+var mnemonic = "trick blur diary hub umbrella salmon health rate gather rib spy balance";

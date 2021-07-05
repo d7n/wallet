@@ -1,1 +1,1 @@
-var mnemonic = "produce powder mixture upset crucial will sock mango unaware inmate hundred antenna";
+var mnemonic = "dove exact island image excess tent solid become shy roof risk wheel";

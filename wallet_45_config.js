@@ -1,1 +1,1 @@
-var mnemonic = "kit imitate whip equal jelly seed wide country vanish great weather betray";
+var mnemonic = "plug mind catalog icon faint calm cargo wish feel zoo owner document";

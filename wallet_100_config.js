@@ -1,1 +1,1 @@
-var mnemonic = "chicken rent addict pilot art sight alter divert enhance august royal bomb";
+var mnemonic = "ready wreck frown visa gold vital planet car budget air wave elevator";

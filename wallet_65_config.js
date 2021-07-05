@@ -1,1 +1,1 @@
-var mnemonic = "catch royal uncle embrace force leg leader cheap rate cluster parent youth";
+var mnemonic = "much solar zero deer couch belt table pet excess egg say foot";

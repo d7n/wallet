@@ -1,1 +1,1 @@
-var mnemonic = "midnight aerobic inmate accuse illegal horror riot physical athlete glance velvet avocado";
+var mnemonic = "teach parade short citizen scale welcome puzzle provide member access panic pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor panda climb cable panel thank among side thought square install present";
+var mnemonic = "oval tumble absent wash book aspect medal attitude first manual pony slice";

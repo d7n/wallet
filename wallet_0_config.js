@@ -1,1 +1,1 @@
-var mnemonic = "orphan pony rack harvest surround scout post input monitor bid comfort boring";
+var mnemonic = "impose adapt drastic potato nothing draft program escape tunnel flee layer quick";

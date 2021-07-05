@@ -1,1 +1,1 @@
-var mnemonic = "rebel position despair clinic cake rifle chapter uncover pitch horror rhythm observe";
+var mnemonic = "caught kid aspect orbit party sad brother still gift silent fame broom";

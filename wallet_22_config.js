@@ -1,1 +1,1 @@
-var mnemonic = "team borrow useless loud spin dice almost local what cycle result dial";
+var mnemonic = "satoshi betray describe soap outdoor kitten asset actual surround stem mule prefer";

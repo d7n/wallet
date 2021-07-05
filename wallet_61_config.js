@@ -1,1 +1,1 @@
-var mnemonic = "skull spawn cabbage junior side author protect ring session duck unaware tongue";
+var mnemonic = "wild panda oval imitate debate few razor athlete clay motion require gap";

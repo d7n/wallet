@@ -1,1 +1,1 @@
-var mnemonic = "transfer frog benefit ecology tornado level insane bread promote alter stairs have";
+var mnemonic = "negative mule put affair brain camera wait friend sea buffalo better grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge bag position quit dad topic exist impact unfair lion happy guilt";
+var mnemonic = "airport opera split then flower pupil build vault parrot filter survey mechanic";

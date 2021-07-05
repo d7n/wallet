@@ -1,1 +1,1 @@
-var mnemonic = "cereal tuna hover depend cliff anxiety snack secret will later easy assist";
+var mnemonic = "diesel kick item quick improve salute path civil weather pulp mixed assume";

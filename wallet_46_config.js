@@ -1,1 +1,1 @@
-var mnemonic = "involve young wrist lucky walnut they ability order wisdom wage iron round";
+var mnemonic = "dog fog captain perfect afford alley harsh begin meat tube worry benefit";

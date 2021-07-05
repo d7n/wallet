@@ -1,1 +1,1 @@
-var mnemonic = "lava mention number arrive rural hidden remind crawl moon ship engine dice";
+var mnemonic = "egg brave merry jump regret rate auto report image daring strong skin";

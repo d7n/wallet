@@ -1,1 +1,1 @@
-var mnemonic = "rich sun midnight athlete fire cruel blush wood gadget asthma polar spin";
+var mnemonic = "frost spring animal slice duty artist music arrow maximum consider melody nation";

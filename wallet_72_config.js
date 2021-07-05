@@ -1,1 +1,1 @@
-var mnemonic = "either client unknown pipe poet clean success protect twenty expand update abandon";
+var mnemonic = "foster swarm unable camera wise fire thrive express artwork decrease off hole";
