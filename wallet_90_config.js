@@ -1,1 +1,1 @@
-var mnemonic = "aware hen panel quote any youth angle term pill size suggest catalog";
+var mnemonic = "shoulder draft uphold submit wedding rotate grief vivid quiz athlete learn pill";

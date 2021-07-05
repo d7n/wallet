@@ -1,1 +1,1 @@
-var mnemonic = "settle suit omit timber lecture economy jar around mercy gown salon foot";
+var mnemonic = "enemy suit base ladder prepare seat own bonus category slow snack stock";

@@ -1,1 +1,1 @@
-var mnemonic = "access poet sauce fly angry chef fix disagree anxiety umbrella mushroom naive";
+var mnemonic = "result can cram steel broken royal best combine fog harsh because million";

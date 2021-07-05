@@ -1,1 +1,1 @@
-var mnemonic = "nominee indoor fee point skirt able zoo lounge liar pumpkin glad twin";
+var mnemonic = "rhythm tunnel window ripple angle exhaust fuel code cinnamon what uncover second";

@@ -1,1 +1,1 @@
-var mnemonic = "you power retreat audit fine congress need artwork air tube poet vessel";
+var mnemonic = "swear six decide source lounge frost fee test paper enemy unable phrase";

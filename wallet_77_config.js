@@ -1,1 +1,1 @@
-var mnemonic = "beach fiber noodle suffer runway hood acoustic chief club man front spell";
+var mnemonic = "option between future cupboard element glue ability mystery flavor buzz trial saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "token pistol penalty door glory benefit wasp kiwi magnet rib never travel";
+var mnemonic = "cricket diamond debate furnace spatial hawk damage hello cool false sleep genre";

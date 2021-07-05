@@ -1,1 +1,1 @@
-var mnemonic = "salute harsh alarm arrange deer pond have clock chief magnet among develop";
+var mnemonic = "girl owner neglect alert push sun write powder perfect obey fury drop";

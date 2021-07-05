@@ -1,1 +1,1 @@
-var mnemonic = "say gentle abstract squeeze chalk video foam adapt cream range gift direct";
+var mnemonic = "swallow elite ocean skate canoe erase merry rigid idle move tennis answer";

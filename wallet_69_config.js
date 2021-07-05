@@ -1,1 +1,1 @@
-var mnemonic = "antenna exact curious junior camp square elite antenna clerk check tilt uniform";
+var mnemonic = "elbow shy green glow analyst oppose rack ritual purchase usage engine meadow";

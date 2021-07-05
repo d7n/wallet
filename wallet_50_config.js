@@ -1,1 +1,1 @@
-var mnemonic = "crane tooth family tobacco mobile two tribe filter employ lock call simple";
+var mnemonic = "hammer maze code art gas modify input rubber trim melody spare pulp";

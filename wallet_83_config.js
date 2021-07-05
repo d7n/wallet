@@ -1,1 +1,1 @@
-var mnemonic = "sure cram measure faith elegant network wet note breeze this depend devote";
+var mnemonic = "impact also dog defense oblige forum share hill layer gesture stone keep";

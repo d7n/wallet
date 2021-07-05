@@ -1,1 +1,1 @@
-var mnemonic = "chase foam decide school swamp able finish danger inform gauge kid degree";
+var mnemonic = "mobile eternal chaos large thrive panic below token sun theme boat legend";

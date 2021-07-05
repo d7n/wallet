@@ -1,1 +1,1 @@
-var mnemonic = "honey cancel nose bachelor donkey squirrel divide surface deny sustain income symbol";
+var mnemonic = "wagon scrap romance coffee arrange online unhappy camera fame history suffer lesson";

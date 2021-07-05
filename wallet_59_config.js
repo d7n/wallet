@@ -1,1 +1,1 @@
-var mnemonic = "bullet call cycle leader monkey exile kite chase exile august afraid flame";
+var mnemonic = "gospel dust brave soda fringe few regular butter insect pudding monkey quiz";

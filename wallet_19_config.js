@@ -1,1 +1,1 @@
-var mnemonic = "mean gun captain earn hello vivid immune drip plunge outdoor drive tenant";
+var mnemonic = "bread brother buyer pole notable modify certain music finish license warfare swift";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious robust puzzle engine until chicken field gauge carry chaos exotic feed";
+var mnemonic = "eyebrow found abstract divert october race grief genius monkey power same youth";

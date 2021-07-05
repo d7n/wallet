@@ -1,1 +1,1 @@
-var mnemonic = "clerk super rebel street year moon accident boat water polar will tragic";
+var mnemonic = "tonight series picnic minimum risk ozone betray boost among shadow prosper april";

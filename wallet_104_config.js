@@ -1,1 +1,1 @@
-var mnemonic = "infant expect kidney account announce pumpkin waste orchard carpet place length sausage";
+var mnemonic = "rabbit garage domain dash fee bulb stuff episode area hotel picnic crazy";

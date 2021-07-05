@@ -1,1 +1,1 @@
-var mnemonic = "country lake soon weekend height census scout vocal absurd trumpet treat never";
+var mnemonic = "report toe cactus upset obscure clog daring icon bargain claw royal bronze";

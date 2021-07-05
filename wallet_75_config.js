@@ -1,1 +1,1 @@
-var mnemonic = "cry brother regret domain width ivory bronze mansion hurry raw enroll swing";
+var mnemonic = "response tribe divorce miracle snake act motor box clutch radio assault glimpse";

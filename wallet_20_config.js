@@ -1,1 +1,1 @@
-var mnemonic = "fluid tenant federal wire toy hello cool cable cry jungle liar hurt";
+var mnemonic = "nurse raise need joy pluck speak legal perfect home obey involve exhaust";

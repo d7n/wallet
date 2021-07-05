@@ -1,1 +1,1 @@
-var mnemonic = "dune nothing judge buzz candy cross develop gather produce pyramid bitter raw";
+var mnemonic = "banner observe logic because useless noodle toast snake black silent shallow grit";

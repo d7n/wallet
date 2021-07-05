@@ -1,1 +1,1 @@
-var mnemonic = "keen force metal easy choose crane blade guitar secret dress brown tomato";
+var mnemonic = "health verb myself beach ship job yellow multiply pupil obey detect imitate";

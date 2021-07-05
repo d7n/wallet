@@ -1,1 +1,1 @@
-var mnemonic = "join mention approve avoid unfair toast famous good awake mail bacon tongue";
+var mnemonic = "guitar burger vicious beyond split note exit drum system report replace mystery";

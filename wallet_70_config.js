@@ -1,1 +1,1 @@
-var mnemonic = "spot pink warfare loan nothing common erupt unaware number series accident minimum";
+var mnemonic = "meat mountain settle sentence item dawn oxygen hire attack sketch visit refuse";

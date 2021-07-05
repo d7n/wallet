@@ -1,1 +1,1 @@
-var mnemonic = "chimney beauty inner truly eyebrow stamp input delay damage guess return wet";
+var mnemonic = "ladder satoshi swing kiwi afford predict fantasy observe squirrel control mistake siren";

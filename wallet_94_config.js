@@ -1,1 +1,1 @@
-var mnemonic = "fiscal receive royal best pill direct animal health provide honey husband secret";
+var mnemonic = "paddle coach spread crisp first utility trim glare tortoise host nice title";

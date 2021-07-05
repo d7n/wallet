@@ -1,1 +1,1 @@
-var mnemonic = "palace hover token length battle dwarf math sure hammer draw state save";
+var mnemonic = "range abstract uncle swarm hotel laptop history bamboo faculty local weird found";

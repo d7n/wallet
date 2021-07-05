@@ -1,1 +1,1 @@
-var mnemonic = "march shadow giggle between ivory danger behind sign essay spawn galaxy sphere";
+var mnemonic = "law range act vehicle half blouse fresh general man mechanic already trigger";

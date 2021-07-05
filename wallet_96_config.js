@@ -1,1 +1,1 @@
-var mnemonic = "frost actor answer market legend dizzy earn pipe pulse direct need paper";
+var mnemonic = "rich satoshi version caught stick holiday soap mixture december sustain exact jewel";

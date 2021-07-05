@@ -1,1 +1,1 @@
-var mnemonic = "hill flock brass mixture celery state source material whip dash aerobic behave";
+var mnemonic = "curtain mixed canal hat roast other avocado explain organ squeeze agent seed";

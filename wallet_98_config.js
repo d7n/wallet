@@ -1,1 +1,1 @@
-var mnemonic = "avocado ranch trap junior ketchup turn you already source seed mix laugh";
+var mnemonic = "label curtain sleep wedding service work cave uphold hour trim grocery screen";

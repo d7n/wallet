@@ -1,1 +1,1 @@
-var mnemonic = "elite orbit under reform impose today thrive end table until giraffe rocket";
+var mnemonic = "police mutual address volcano public proof flee adult shy depart absurd wrestle";

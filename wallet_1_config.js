@@ -1,1 +1,1 @@
-var mnemonic = "major camp wagon priority solve demise song silent visual valid cream fly";
+var mnemonic = "horn evolve tray drive metal future cherry lecture bulb brand there toss";

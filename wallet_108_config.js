@@ -1,1 +1,1 @@
-var mnemonic = "raven grace chest gossip fork water exist bunker aunt alpha visa sense";
+var mnemonic = "chest wrap emerge cactus job desk frequent predict flash hobby brother cry";

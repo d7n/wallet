@@ -1,1 +1,1 @@
-var mnemonic = "dust pill clog vacant into traffic small rifle inherit brush enemy carbon";
+var mnemonic = "miracle scrap aerobic language rail immune thumb auto runway wagon high pair";

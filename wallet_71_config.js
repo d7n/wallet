@@ -1,1 +1,1 @@
-var mnemonic = "trap model first motion act basic over pass blind zero renew cactus";
+var mnemonic = "violin season knock multiply olive inquiry era transfer document occur bounce tent";

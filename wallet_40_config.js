@@ -1,1 +1,1 @@
-var mnemonic = "exotic rack tip forest envelope inmate over sting long hybrid gas shrimp";
+var mnemonic = "cost barely remove shine elder fall pluck sign obscure swift tonight ecology";

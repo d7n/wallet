@@ -1,1 +1,1 @@
-var mnemonic = "doctor pass naive hotel wait truly glory soon accident actress increase symbol";
+var mnemonic = "message sun ready access resist venue juice auction pass before hurt reunion";

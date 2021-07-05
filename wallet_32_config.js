@@ -1,1 +1,1 @@
-var mnemonic = "kidney panel fruit repair payment govern idea round ugly almost hint carry";
+var mnemonic = "skirt onion give core curve violin mammal order engine core pitch fuel";

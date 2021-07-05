@@ -1,1 +1,1 @@
-var mnemonic = "cannon capital empower tide outer swing toast try harvest sad attitude jar";
+var mnemonic = "web bag nephew enlist key arm entry coyote bullet shoulder diagram ready";

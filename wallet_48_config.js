@@ -1,1 +1,1 @@
-var mnemonic = "essence congress glow foster reopen cherry round eye occur front night borrow";
+var mnemonic = "spoil save electric man right flower glimpse pelican coach suit ostrich arctic";

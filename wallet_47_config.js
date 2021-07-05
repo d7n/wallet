@@ -1,1 +1,1 @@
-var mnemonic = "gun soup envelope regular fine indicate rural disagree battle balance year pitch";
+var mnemonic = "problem rain quiz lab guard alpha orphan survey loan level limb toe";

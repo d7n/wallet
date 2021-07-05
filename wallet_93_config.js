@@ -1,1 +1,1 @@
-var mnemonic = "shy float kiss strong brief blast pitch fossil library trial calm reduce";
+var mnemonic = "vapor car mix donor nephew invest volume honey inside belt annual radio";

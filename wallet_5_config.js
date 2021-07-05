@@ -1,1 +1,1 @@
-var mnemonic = "device physical coin smoke topic people song nice achieve student topple useful";
+var mnemonic = "tell multiply vacuum zoo kingdom fat twice they reflect pencil gloom toe";

@@ -1,1 +1,1 @@
-var mnemonic = "naive switch season neglect shift humor monster bus tortoise old protect scare";
+var mnemonic = "donate winner boring resist surface erosion figure ancient mansion layer scrub maze";

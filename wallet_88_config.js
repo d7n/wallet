@@ -1,1 +1,1 @@
-var mnemonic = "board walk jealous stand use wealth pretty mammal prison cause bike ready";
+var mnemonic = "rate rent mail school word dumb zoo control level wonder fade exact";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich enlist egg cruise olympic uncover zoo write logic mushroom patrol visual";
+var mnemonic = "wave shove spirit then evoke orchard shuffle sea animal bomb mean first";

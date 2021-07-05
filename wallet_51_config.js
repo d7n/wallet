@@ -1,1 +1,1 @@
-var mnemonic = "space level glory hockey goose economy humor process torch diary hidden tornado";
+var mnemonic = "require next outer slight scatter athlete buyer sight track person distance giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist deposit muscle jeans kingdom space mix toast urban penalty fancy diet";
+var mnemonic = "trash twice arch torch inject south priority car divert siege hurt rose";

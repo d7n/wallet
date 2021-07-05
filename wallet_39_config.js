@@ -1,1 +1,1 @@
-var mnemonic = "misery acquire either daughter quality brain slim surprise manual artefact floor maid";
+var mnemonic = "junior wagon ship vapor pause obvious forward end hunt oppose unfair solve";

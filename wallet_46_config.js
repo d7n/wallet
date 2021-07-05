@@ -1,1 +1,1 @@
-var mnemonic = "boil ridge thank trumpet save chunk review water flight post honey liar";
+var mnemonic = "neglect slight mercy banana peace quiz camera hockey enforce much project nature";

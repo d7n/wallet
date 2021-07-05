@@ -1,1 +1,1 @@
-var mnemonic = "vote noise distance salad fold second venue admit bird alarm stock wedding";
+var mnemonic = "member point bronze victory field essence cactus add indoor extra join guess";

@@ -1,1 +1,1 @@
-var mnemonic = "left shift fabric vehicle cube stool regular current world clean skill senior";
+var mnemonic = "idle top light furnace concert ankle bacon give castle wage clinic elbow";

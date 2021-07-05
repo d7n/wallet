@@ -1,1 +1,1 @@
-var mnemonic = "essence eye uncover follow engage elegant avoid dose cluster pilot nuclear bean";
+var mnemonic = "bag gloom woman paddle antenna muffin because artist ignore vacant crater region";

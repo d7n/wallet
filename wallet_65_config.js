@@ -1,1 +1,1 @@
-var mnemonic = "have table autumn indicate dream plate before enable fatigue cart answer regular";
+var mnemonic = "fee exist isolate strike flower rely best vessel dove depth desert cancel";

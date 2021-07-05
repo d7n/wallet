@@ -1,1 +1,1 @@
-var mnemonic = "wolf noodle tribe agree car iron burst hungry song place tip satisfy";
+var mnemonic = "just split coyote census make wing place pool design lady beyond useless";

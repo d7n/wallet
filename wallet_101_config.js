@@ -1,1 +1,1 @@
-var mnemonic = "laptop enlist choose head original hello jazz blur express enact cabbage light";
+var mnemonic = "slide century kit parent vibrant method sail curtain divide mass vibrant enforce";

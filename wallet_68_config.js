@@ -1,1 +1,1 @@
-var mnemonic = "cigar bread illegal water visit chest lobster trick engage coconut easy embark";
+var mnemonic = "return wet equal way affair walk crack foil skin resource try soul";

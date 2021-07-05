@@ -1,1 +1,1 @@
-var mnemonic = "wealth list duck believe bunker morning hammer gun aim museum flush type";
+var mnemonic = "club media give lonely badge dance cave matter fever bind develop much";

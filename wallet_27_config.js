@@ -1,1 +1,1 @@
-var mnemonic = "path spread beef couch evolve tide power spare memory winter fatigue palace";
+var mnemonic = "hundred heart liar glimpse vault prepare odor salad lake gown session stomach";

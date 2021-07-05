@@ -1,1 +1,1 @@
-var mnemonic = "trouble pitch atom hidden merit tower thought cloud usage tired flower private";
+var mnemonic = "pattern worry crazy gossip adapt monitor spin like express early bullet install";

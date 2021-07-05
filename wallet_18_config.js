@@ -1,1 +1,1 @@
-var mnemonic = "gather budget business social test rule armor lounge ketchup organ nose crunch";
+var mnemonic = "say focus leisure recipe quit month stumble cannon focus stomach ethics clock";

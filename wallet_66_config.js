@@ -1,1 +1,1 @@
-var mnemonic = "pledge lake used bright stay come emotion increase butter century exotic marble";
+var mnemonic = "feature dragon morning cool stuff learn dust obey laugh route honey alter";

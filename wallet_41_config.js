@@ -1,1 +1,1 @@
-var mnemonic = "matter fine whisper coconut sphere anger frequent grain various wrestle holiday asthma";
+var mnemonic = "offer dinner mouse load train chapter paper loyal holiday diary dynamic nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "neither lend say myself actual fall benefit quarter fat cousin wise helmet";
+var mnemonic = "public embody guard logic betray slim panel donor birth view hunt adapt";

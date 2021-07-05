@@ -1,1 +1,1 @@
-var mnemonic = "certain insect tape fruit drastic edit true people garden vivid gallery mammal";
+var mnemonic = "cream cradle away symbol bring deliver sponsor ribbon cook fire green cheese";

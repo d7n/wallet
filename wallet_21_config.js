@@ -1,1 +1,1 @@
-var mnemonic = "great tray sketch puppy private cage emerge inform must analyst find certain";
+var mnemonic = "absorb else edge distance art hamster breeze sock ostrich jacket fat swing";

@@ -1,1 +1,1 @@
-var mnemonic = "gift home valid input define notable margin dignity whale neither neglect sun";
+var mnemonic = "obvious surge peasant craft lazy cruise report mix naive fetch during else";

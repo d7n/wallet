@@ -1,1 +1,1 @@
-var mnemonic = "lottery digital pause night afraid bulk damage foam comfort nurse correct law";
+var mnemonic = "real cause guilt bonus sand ability zero arena under twenty mutual base";

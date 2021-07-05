@@ -1,1 +1,1 @@
-var mnemonic = "regret pumpkin valley exact powder tape camera forget buzz prison fancy total";
+var mnemonic = "rich dinosaur cabin hammer winner claw resource earn cram decorate glove civil";

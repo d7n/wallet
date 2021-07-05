@@ -1,1 +1,1 @@
-var mnemonic = "knife ecology decline initial wage public exchange pledge duty grow move firm";
+var mnemonic = "spike nurse slush shine label corn hole soup oxygen army kingdom upon";

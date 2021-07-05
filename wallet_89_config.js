@@ -1,1 +1,1 @@
-var mnemonic = "fluid lend that between bless any useful behave print rubber lucky involve";
+var mnemonic = "equal box month fuel digital bean rescue ride series join grace trial";

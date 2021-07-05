@@ -1,1 +1,1 @@
-var mnemonic = "dirt ranch peanut enough nothing rough under path bulk nuclear canoe beauty";
+var mnemonic = "decline sea noise close hood nature dragon garden unlock thought negative kangaroo";

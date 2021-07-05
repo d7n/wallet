@@ -1,1 +1,1 @@
-var mnemonic = "degree carry another clarify provide write exact junior unique crunch physical gain";
+var mnemonic = "asthma save spare rival rally scan antique negative pretty unfold laugh swing";

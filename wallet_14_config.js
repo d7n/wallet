@@ -1,1 +1,1 @@
-var mnemonic = "amazing soldier just table artefact burst more common path private mobile purchase";
+var mnemonic = "warfare phone eye puppy decrease hawk brand hidden adult absurd mandate earth";

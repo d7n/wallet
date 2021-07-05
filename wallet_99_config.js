@@ -1,1 +1,1 @@
-var mnemonic = "actor angry pledge dolphin acquire exotic excite fork hello surprise joy drum";
+var mnemonic = "pipe angry famous mobile soap web enroll gather devote grief mirror foot";

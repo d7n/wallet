@@ -1,1 +1,1 @@
-var mnemonic = "acid will sock away churn small donor recall coyote hobby van zoo";
+var mnemonic = "slam senior else service glory envelope whale scrap grant flower excuse unaware";

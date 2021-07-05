@@ -1,1 +1,1 @@
-var mnemonic = "speed gym say laptop describe false morning reject cruise grit gun unhappy";
+var mnemonic = "night identify cross announce secret crazy talk ribbon stage empty pulse hobby";

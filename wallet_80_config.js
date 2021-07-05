@@ -1,1 +1,1 @@
-var mnemonic = "almost receive romance banana roof detail bless thunder gain chaos palace way";
+var mnemonic = "raccoon calm road tiger attitude marble toward claim cash insect master process";

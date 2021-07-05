@@ -1,1 +1,1 @@
-var mnemonic = "shove lobster develop twist rally tool peanut nose stay eager abstract vapor";
+var mnemonic = "chuckle wreck reward donor remove click bus shoulder swift spice chaos cupboard";

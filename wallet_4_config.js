@@ -1,1 +1,1 @@
-var mnemonic = "wing humble glow possible include burst peasant curve piano few network release";
+var mnemonic = "raw thumb tree pear disorder wide token dutch ketchup resource wrestle option";

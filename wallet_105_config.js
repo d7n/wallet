@@ -1,1 +1,1 @@
-var mnemonic = "truly lazy know vague chicken online balance actress waste gorilla hobby dumb";
+var mnemonic = "doctor expect know key tuna model rice pyramid truly slice idea identify";

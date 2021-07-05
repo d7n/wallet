@@ -1,1 +1,1 @@
-var mnemonic = "mom quick lesson river elephant cupboard celery fetch ticket ankle sight gentle";
+var mnemonic = "certain orient wheat loop ritual expect worth expect credit desert isolate record";

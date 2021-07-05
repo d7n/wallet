@@ -1,1 +1,1 @@
-var mnemonic = "kid fence noise canoe minor squeeze segment sniff horror hen famous skill";
+var mnemonic = "mouse pipe absent pulse cabbage ghost velvet nurse online kingdom glue few";

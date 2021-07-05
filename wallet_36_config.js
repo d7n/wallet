@@ -1,1 +1,1 @@
-var mnemonic = "clarify great type grunt danger clog hurdle domain hard toddler basic labor";
+var mnemonic = "shiver attack trade fever flock tooth surface focus fun scissors patient recipe";

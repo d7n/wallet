@@ -1,1 +1,1 @@
-var mnemonic = "goddess siren margin chuckle labor cook point vicious combine small favorite dilemma";
+var mnemonic = "seat cliff wealth double public type bar shadow excess prepare praise vote";

@@ -1,1 +1,1 @@
-var mnemonic = "cage liar climb myself title swamp flat truth armed decade announce maze";
+var mnemonic = "element arctic near claim margin survey deer tomato benefit napkin flower shop";

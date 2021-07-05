@@ -1,1 +1,1 @@
-var mnemonic = "picnic nasty among victory tonight glare arrive artwork want destroy short transfer";
+var mnemonic = "barrel balcony tenant acoustic funny jeans guide loyal upper arrange detect exotic";

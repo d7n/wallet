@@ -1,1 +1,1 @@
-var mnemonic = "pony mountain success dynamic lava punch social autumn corn title fashion kick";
+var mnemonic = "interest vessel flight extra saddle chapter sustain suffer material trigger path surge";
