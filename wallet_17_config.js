@@ -1,1 +1,1 @@
-var mnemonic = "pet farm hover fat maximum govern absurd celery repair suit impulse thunder";
+var mnemonic = "brown around seek pudding jungle sample relief robust quantum cluster today gesture";

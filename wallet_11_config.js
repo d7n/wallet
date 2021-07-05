@@ -1,1 +1,1 @@
-var mnemonic = "such clip wheat nose goddess pizza misery rigid cactus palm include space";
+var mnemonic = "deposit electric help fine cart cement nature milk ice sausage clerk comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "rail model language real subject include scrub orchard range recall link siege";
+var mnemonic = "suit ripple wheel bamboo will feel leopard endorse kind river burst chief";

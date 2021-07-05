@@ -1,1 +1,1 @@
-var mnemonic = "soup fragile peasant question rough sword boy shiver wonder account joke bulk";
+var mnemonic = "gown giraffe satisfy witness injury oppose infant future busy found live before";

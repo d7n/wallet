@@ -1,1 +1,1 @@
-var mnemonic = "rapid brass earth tragic awful skate bottom milk bitter chest toss giggle";
+var mnemonic = "police push joke fever earth nurse busy trophy inside squeeze divert mobile";

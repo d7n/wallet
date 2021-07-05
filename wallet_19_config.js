@@ -1,1 +1,1 @@
-var mnemonic = "exercise access stem circle oven attend fruit lens salad enact wreck legal";
+var mnemonic = "flower sport sort modify topic call flat chief hip ivory copper tag";

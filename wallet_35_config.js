@@ -1,1 +1,1 @@
-var mnemonic = "frost retire title recipe produce silver obtain vicious wink vicious access inmate";
+var mnemonic = "already recycle share begin together fever conduct dolphin achieve slim trend jaguar";

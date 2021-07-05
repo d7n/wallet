@@ -1,1 +1,1 @@
-var mnemonic = "behind supreme stock mystery quick flavor find taste dinosaur fiscal narrow carpet";
+var mnemonic = "clean this two emotion venture pave dinosaur impulse solid prepare resource candy";

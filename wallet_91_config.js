@@ -1,1 +1,1 @@
-var mnemonic = "hobby neck gravity famous cost color dash kid radar daring library tooth";
+var mnemonic = "dentist country atom rain pact float rough unhappy solve tuition glass escape";

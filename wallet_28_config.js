@@ -1,1 +1,1 @@
-var mnemonic = "woman paper dinosaur lizard film target mystery snack they page found shed";
+var mnemonic = "heavy atom magnet deny rigid girl drink arrive invest enough little reform";

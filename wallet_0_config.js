@@ -1,1 +1,1 @@
-var mnemonic = "grab where whisper blood image inflict odor loop dove whip blouse game";
+var mnemonic = "win buddy law iron moment coyote night such ski satoshi artist flat";

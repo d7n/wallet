@@ -1,1 +1,1 @@
-var mnemonic = "razor robust act much tuition amazing vague tenant student ugly one learn";
+var mnemonic = "minute shove funny swap slush repair aware toy sausage film toe over";

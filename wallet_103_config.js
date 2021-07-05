@@ -1,1 +1,1 @@
-var mnemonic = "topple oblige match pull click credit betray girl people top angle visit";
+var mnemonic = "absurd success south amused weasel camera solution ill domain casual coil jeans";

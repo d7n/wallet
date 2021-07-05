@@ -1,1 +1,1 @@
-var mnemonic = "example dumb inspire present tunnel choice easily rail cream ripple above lonely";
+var mnemonic = "useful bench man siege fine pistol book bread jar purpose food spell";

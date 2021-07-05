@@ -1,1 +1,1 @@
-var mnemonic = "lemon history clump check calm moment car history jacket column save task";
+var mnemonic = "pilot quick behind dentist include bubble include depend carbon broken dignity twist";

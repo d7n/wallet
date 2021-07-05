@@ -1,1 +1,1 @@
-var mnemonic = "want leaf broccoli axis behind question photo fringe alley live donkey kiss";
+var mnemonic = "delay century cushion piece viable jaguar lucky camera elder link sing express";

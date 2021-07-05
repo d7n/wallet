@@ -1,1 +1,1 @@
-var mnemonic = "scheme middle few remain voice tone twin vital hurdle turn captain hope";
+var mnemonic = "announce rely delay menu what crane rubber tired favorite alien shaft certain";

@@ -1,1 +1,1 @@
-var mnemonic = "morning proud pride bubble intact pig scrap fancy reflect seminar use skill";
+var mnemonic = "cabbage spray increase amazing suggest mad item tattoo domain more throw father";

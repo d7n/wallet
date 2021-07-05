@@ -1,1 +1,1 @@
-var mnemonic = "solution speed soon train thing segment phrase clinic wine leg embrace picture";
+var mnemonic = "glue bunker define time truth keen normal marble message pulse gown pulp";

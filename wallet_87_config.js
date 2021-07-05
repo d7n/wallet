@@ -1,1 +1,1 @@
-var mnemonic = "water nurse drift antique cram crystal educate gather purity pool staff token";
+var mnemonic = "card boat indicate discover frown phrase brisk never federal arch sword seven";

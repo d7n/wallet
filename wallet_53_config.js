@@ -1,1 +1,1 @@
-var mnemonic = "fall country move doll feature sniff gas punch feed insect awful cargo";
+var mnemonic = "cliff point artwork brand wait message inform hole soft reunion blur oblige";

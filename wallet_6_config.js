@@ -1,1 +1,1 @@
-var mnemonic = "sea keen actress labor mouse protect step city ridge legal hurdle wine";
+var mnemonic = "rookie galaxy random awesome false clay fat used race salon anxiety prosper";

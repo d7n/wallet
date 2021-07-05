@@ -1,1 +1,1 @@
-var mnemonic = "kite advance nature behind work tank force donkey estate kite ripple ceiling";
+var mnemonic = "menu resource gloom upon until exclude obscure tide alarm panic tribe decline";

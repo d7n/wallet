@@ -1,1 +1,1 @@
-var mnemonic = "coach usage car aisle coach tunnel other want rescue original decade raw";
+var mnemonic = "asthma canal differ pride figure crumble credit sing push symptom hungry lobster";

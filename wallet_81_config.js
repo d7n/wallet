@@ -1,1 +1,1 @@
-var mnemonic = "artist document describe where burger later brother enroll lab finish tool cheese";
+var mnemonic = "digital truck foster memory shuffle forget repair brief orchard income easy foot";

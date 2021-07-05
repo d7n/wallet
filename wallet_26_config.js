@@ -1,1 +1,1 @@
-var mnemonic = "knee legend seat diet weird school rain permit harsh plastic example smile";
+var mnemonic = "ozone initial oyster ridge together royal ankle guess merit essence enforce hazard";

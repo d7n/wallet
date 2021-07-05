@@ -1,1 +1,1 @@
-var mnemonic = "six moment food symbol beach payment outer text hospital document print spray";
+var mnemonic = "sing outer siege person silver gloom vault sport seed prison sing story";

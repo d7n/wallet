@@ -1,1 +1,1 @@
-var mnemonic = "mom luggage peanut elbow call clog other scene usual square tennis crush";
+var mnemonic = "genuine grab decide couple theme cargo dry decade team uniform rookie vital";

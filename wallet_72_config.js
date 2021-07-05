@@ -1,1 +1,1 @@
-var mnemonic = "elite rigid split legal spider maple rifle grit left install auction prison";
+var mnemonic = "warfare judge syrup mom sight quiz solar comic super glimpse claim link";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar wisdom weapon receive arch bench phrase kiwi able glimpse axis setup";
+var mnemonic = "romance ketchup ice club sadness conduct north dry cattle slam device kitchen";

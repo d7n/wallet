@@ -1,1 +1,1 @@
-var mnemonic = "fragile true broccoli bitter army pioneer lab plate patient loan sibling anger";
+var mnemonic = "antique punch fuel ecology sponsor inform door rate romance style foster easy";

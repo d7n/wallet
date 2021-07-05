@@ -1,1 +1,1 @@
-var mnemonic = "mistake tree scale company pact habit defy life radar where time brown";
+var mnemonic = "artefact wine melt satoshi grunt term amount sense hazard pear step hard";

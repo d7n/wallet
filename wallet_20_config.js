@@ -1,1 +1,1 @@
-var mnemonic = "dragon case stumble horse tuna cannon lesson decrease brass fitness sort eye";
+var mnemonic = "blanket increase cattle hundred balcony stick bike soon shadow coffee dad fabric";

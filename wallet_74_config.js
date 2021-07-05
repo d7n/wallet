@@ -1,1 +1,1 @@
-var mnemonic = "spell wear crime recipe ability journey combine top idea travel birth toast";
+var mnemonic = "alien rack scene perfect marine wait grunt cargo bless blade cross torch";

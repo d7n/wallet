@@ -1,1 +1,1 @@
-var mnemonic = "dress mango penalty work razor machine lazy require example oak need heart";
+var mnemonic = "artist similar prepare useful flush rebuild indicate shed purity suspect final nuclear";

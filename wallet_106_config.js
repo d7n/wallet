@@ -1,1 +1,1 @@
-var mnemonic = "crumble animal feed stairs believe enlist multiply duck reduce vacant awesome leopard";
+var mnemonic = "hobby letter force aisle pigeon blossom dirt business speak grit verb cereal";

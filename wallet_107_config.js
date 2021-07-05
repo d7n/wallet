@@ -1,1 +1,1 @@
-var mnemonic = "inherit will judge sock father diary brand tide eternal write wonder image";
+var mnemonic = "gorilla jeans fitness problem source penalty spend equip use polar drill luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna pear member lunar sheriff arrive prize coconut oil toward carbon heavy";
+var mnemonic = "month fresh leopard call toward bulk can rude industry feed toy edge";

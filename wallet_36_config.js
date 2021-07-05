@@ -1,1 +1,1 @@
-var mnemonic = "loyal canoe merry approve happy math august tongue harsh film cart butter";
+var mnemonic = "crime trend tomato vote comfort patrol shadow heart split cotton anxiety century";

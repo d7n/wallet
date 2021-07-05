@@ -1,1 +1,1 @@
-var mnemonic = "daughter mixed permit near ceiling old situate bounce crawl math into rubber";
+var mnemonic = "kid popular gate discover wait much desert coral head demand wage spot";

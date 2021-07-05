@@ -1,1 +1,1 @@
-var mnemonic = "outer forget original save tattoo action garden wagon comfort sing various knife";
+var mnemonic = "drip menu flee misery oblige ancient valve fun bar frequent near car";

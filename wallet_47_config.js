@@ -1,1 +1,1 @@
-var mnemonic = "wool antique rough pen scene ugly balance canal enact useless grace ugly";
+var mnemonic = "sword chef aerobic save observe over increase summer mail switch glory abandon";

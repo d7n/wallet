@@ -1,1 +1,1 @@
-var mnemonic = "bundle include daring reflect cloud grass fresh certain ensure vote trap when";
+var mnemonic = "total slide palm tragic nominee just picnic salad capital vicious assume blouse";

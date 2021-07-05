@@ -1,1 +1,1 @@
-var mnemonic = "unique era grass they badge royal valve office ostrich better control boss";
+var mnemonic = "promote winter busy cause prison quote box search quiz pigeon poem nephew";

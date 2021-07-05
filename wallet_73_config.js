@@ -1,1 +1,1 @@
-var mnemonic = "equip label decrease clap lunar strategy piece sign decade rice utility broom";
+var mnemonic = "census drill mobile matrix badge other helmet fantasy mushroom minor okay damage";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut plug buffalo youth slot trouble scene matter rare early vanish position";
+var mnemonic = "family vicious section erase wool humor switch school shaft engage novel naive";

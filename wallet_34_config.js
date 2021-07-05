@@ -1,1 +1,1 @@
-var mnemonic = "panda still twin dragon develop rabbit scale crater wage boss scheme stumble";
+var mnemonic = "strong clog loop lyrics cement country anxiety rotate truly junk blood diagram";

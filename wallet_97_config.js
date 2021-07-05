@@ -1,1 +1,1 @@
-var mnemonic = "pledge reduce general garden equal avoid benefit only prize remain drama alter";
+var mnemonic = "manual school case income general urge congress auction coach check fantasy praise";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel puzzle miss sport empower bonus response april sauce move brick raccoon";
+var mnemonic = "reduce wolf group hurt pudding shoe find exhibit wall wheat tray nephew";

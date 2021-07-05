@@ -1,1 +1,1 @@
-var mnemonic = "crucial busy thought spell zoo image slim shield decade anchor satisfy board";
+var mnemonic = "spider siren resemble dry wall oxygen rose relief fiscal spoil dish ocean";

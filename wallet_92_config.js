@@ -1,1 +1,1 @@
-var mnemonic = "online science stool danger latin stem warfare disagree kitchen vendor symbol enhance";
+var mnemonic = "service total flight health skull give find entry bachelor creek palace funny";

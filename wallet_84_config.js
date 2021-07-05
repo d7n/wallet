@@ -1,1 +1,1 @@
-var mnemonic = "similar patrol link village crystal congress risk neutral bitter round bubble wool";
+var mnemonic = "velvet shoulder kitten genuine lazy bunker top airport vibrant universe fresh harbor";

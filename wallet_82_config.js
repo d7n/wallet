@@ -1,1 +1,1 @@
-var mnemonic = "cube sheriff sorry chair bar vivid oven fix quiz fatal broom enroll";
+var mnemonic = "favorite tornado fitness tired melody among ethics scorpion put dog book neck";

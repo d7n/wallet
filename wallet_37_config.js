@@ -1,1 +1,1 @@
-var mnemonic = "uphold detect improve eager emerge ball ripple wrist raw spring obey quiz";
+var mnemonic = "congress crawl judge umbrella fabric occur subway slam there crew vibrant blur";

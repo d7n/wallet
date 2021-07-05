@@ -1,1 +1,1 @@
-var mnemonic = "lottery retreat february own fruit upper unfair miracle possible have define sport";
+var mnemonic = "already wreck wine orchard evolve ridge shy into clip horror firm lucky";

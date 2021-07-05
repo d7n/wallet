@@ -1,1 +1,1 @@
-var mnemonic = "pudding neglect tourist brand one awake broccoli power caught ranch horn rookie";
+var mnemonic = "burden senior olympic ancient improve canal extend ride latin aerobic tuna caution";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce tomorrow ten lumber air swear settle adult cover collect illness view";
+var mnemonic = "memory wedding shop fever knife system system wing picture figure riot combine";

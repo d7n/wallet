@@ -1,1 +1,1 @@
-var mnemonic = "syrup original owner fish hold lounge reason federal breeze crater gold color";
+var mnemonic = "case ten any right chicken ecology burst noodle theme razor race mule";

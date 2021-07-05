@@ -1,1 +1,1 @@
-var mnemonic = "bid village gravity rule huge debris focus safe laptop achieve knee match";
+var mnemonic = "bonus gorilla mask bronze ostrich venue romance useful doctor country over drum";

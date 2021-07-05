@@ -1,1 +1,1 @@
-var mnemonic = "rally stone urge family shallow main pride hour job theme labor very";
+var mnemonic = "blind subject pony notable switch bonus change embrace notice hockey brown inside";

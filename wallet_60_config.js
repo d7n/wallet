@@ -1,1 +1,1 @@
-var mnemonic = "glove olympic cluster pact orphan engage plug quick rebuild cactus suggest agree";
+var mnemonic = "ghost desert attract fantasy train mean shuffle surface question uncle claim clean";

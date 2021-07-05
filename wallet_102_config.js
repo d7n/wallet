@@ -1,1 +1,1 @@
-var mnemonic = "cross inflict blame merit magic album way concert wasp gospel riot sketch";
+var mnemonic = "guide actual impact acid leaf sunset few strong target almost aware mesh";

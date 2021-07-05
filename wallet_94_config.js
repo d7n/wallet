@@ -1,1 +1,1 @@
-var mnemonic = "onion opinion skill tornado casual tilt device engine choose pretty around until";
+var mnemonic = "code rare van huge can fix world below away toy cube fly";

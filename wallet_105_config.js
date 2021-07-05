@@ -1,1 +1,1 @@
-var mnemonic = "gap timber blast dawn multiply differ gasp remind solar bag derive few";
+var mnemonic = "gadget stove item lizard dutch garbage usage cloth enhance dance circle capable";

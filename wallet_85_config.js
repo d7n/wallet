@@ -1,1 +1,1 @@
-var mnemonic = "leisure unlock upset indicate object follow side harbor drink left taste mango";
+var mnemonic = "close tattoo phone veteran access pitch limit royal woman alarm dune ask";

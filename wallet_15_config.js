@@ -1,1 +1,1 @@
-var mnemonic = "glory mask face tribe clay dry secret divide sweet hammer survey sponsor";
+var mnemonic = "helmet label section idea abandon expire flip sure north glide people mean";

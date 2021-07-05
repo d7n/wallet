@@ -1,1 +1,1 @@
-var mnemonic = "arrange hand rice response scale shock unit blind easily junk mirror pigeon";
+var mnemonic = "bacon gold quality situate agent together people giggle scene debris very sadness";

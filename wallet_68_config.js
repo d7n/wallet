@@ -1,1 +1,1 @@
-var mnemonic = "shine cross predict disagree bring ginger liar novel ceiling aware okay rent";
+var mnemonic = "else crisp vacant alone bachelor wire tent shell swamp beauty few tiger";

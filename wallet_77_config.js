@@ -1,1 +1,1 @@
-var mnemonic = "radar mandate decorate act group film addict enough all copper regret alley";
+var mnemonic = "group spawn turn cram account march marble panic brisk evidence toward clever";

@@ -1,1 +1,1 @@
-var mnemonic = "defy gaze mother solve price security canal tuna noise pelican neck thing";
+var mnemonic = "believe segment wave oyster middle dragon enhance goddess tragic magic blossom gorilla";

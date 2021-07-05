@@ -1,1 +1,1 @@
-var mnemonic = "paddle open aim merit dog grain science sausage spend guilt latin basket";
+var mnemonic = "chimney nephew alarm box involve what december faculty auction abandon attend room";

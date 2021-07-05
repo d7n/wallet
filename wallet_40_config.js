@@ -1,1 +1,1 @@
-var mnemonic = "mixed camp portion biology salute vague uncover drive slice husband earth diamond";
+var mnemonic = "occur deliver during journey jacket anger zone mail render resist quality also";

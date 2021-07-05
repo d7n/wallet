@@ -1,1 +1,1 @@
-var mnemonic = "mimic access law blood afraid remember stem fashion reopen faith loud sight";
+var mnemonic = "indoor analyst assault sister pipe whip nurse soccer tuition green super cook";

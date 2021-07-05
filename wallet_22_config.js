@@ -1,1 +1,1 @@
-var mnemonic = "tilt loan inject goddess genius erosion vocal lizard drop annual school effort";
+var mnemonic = "bean degree prefer ceiling winner enlist ten electric pause local payment country";

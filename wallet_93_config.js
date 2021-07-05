@@ -1,1 +1,1 @@
-var mnemonic = "please other awake mechanic expect recipe drink piano fiscal produce garment member";
+var mnemonic = "churn member citizen visual equip dad enough blade never reflect armed mother";

@@ -1,1 +1,1 @@
-var mnemonic = "describe tennis address parrot chief gap grace settle retire disease story word";
+var mnemonic = "mixed layer hover solid cheese layer uncover small liberty snap town fragile";

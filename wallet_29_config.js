@@ -1,1 +1,1 @@
-var mnemonic = "answer beauty giggle soup guide avoid lamp crunch desert flavor mystery rug";
+var mnemonic = "print elite desk arrow drama purchase orchard wheel soda rubber fatal betray";

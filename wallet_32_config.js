@@ -1,1 +1,1 @@
-var mnemonic = "oyster tornado found trust upgrade roof offer hobby whale steak talent exhibit";
+var mnemonic = "behave bid potato unique guide expect boss one survey future carbon extra";

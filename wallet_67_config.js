@@ -1,1 +1,1 @@
-var mnemonic = "fine obscure occur spoon just evidence release brush today brush hidden kit";
+var mnemonic = "accident menu stick step nut parade rough unfold muffin camera gap raccoon";

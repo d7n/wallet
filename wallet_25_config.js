@@ -1,1 +1,1 @@
-var mnemonic = "cancel million payment castle record quarter world library kitten fragile retreat sword";
+var mnemonic = "setup february nurse finish present shove enemy kitchen direct group nut negative";

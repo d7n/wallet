@@ -1,1 +1,1 @@
-var mnemonic = "legal cat wise coral proof subway dynamic bunker view reject tobacco donkey";
+var mnemonic = "fee tortoise rib thing merge baby program year quote path athlete erupt";

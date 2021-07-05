@@ -1,1 +1,1 @@
-var mnemonic = "drop unaware woman secret certain scene physical size call dismiss target inner";
+var mnemonic = "congress skill razor when advance gate culture trumpet scatter approve credit nurse";

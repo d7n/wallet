@@ -1,1 +1,1 @@
-var mnemonic = "matrix session argue grief bridge decrease sense stage radar drink month merry";
+var mnemonic = "confirm similar embark aisle access blouse flag mandate easy cheap leave trouble";

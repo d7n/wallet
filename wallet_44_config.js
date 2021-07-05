@@ -1,1 +1,1 @@
-var mnemonic = "this midnight silk business near letter swarm quarter only load flame globe";
+var mnemonic = "giggle dream payment refuse milk reason winter beef disorder frozen clump athlete";

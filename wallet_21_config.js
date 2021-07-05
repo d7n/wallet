@@ -1,1 +1,1 @@
-var mnemonic = "idea kiwi vague gas weapon lava orchard illness dolphin purity earth grunt";
+var mnemonic = "stool primary protect spirit boss reject cost pause venue nephew fever undo";

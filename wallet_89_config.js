@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon equal churn object brother parade lunar type bottom clutch manage spice";
+var mnemonic = "prevent drum pond frozen morning tortoise issue loud crater tower genuine achieve";

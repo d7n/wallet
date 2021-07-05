@@ -1,1 +1,1 @@
-var mnemonic = "title hamster know mercy smile donor myself essence knock screen tumble sponsor";
+var mnemonic = "sense boat man hundred assist calm close away canal powder decline hedgehog";

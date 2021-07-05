@@ -1,1 +1,1 @@
-var mnemonic = "hobby shy table capital refuse mention poet album grunt erode pipe maximum";
+var mnemonic = "suggest snake nominee cricket gadget window able acoustic base believe food stock";

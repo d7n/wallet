@@ -1,1 +1,1 @@
-var mnemonic = "hub warrior market quarter turtle race fly fame top term destroy basic";
+var mnemonic = "fish patrol infant length amount crazy aunt practice sock penalty coach blue";

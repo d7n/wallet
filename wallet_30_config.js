@@ -1,1 +1,1 @@
-var mnemonic = "april hill aware sphere idea tone attend ride baby intact quick roof";
+var mnemonic = "release faint couple genre tail crystal smile exile agent blossom copy legal";

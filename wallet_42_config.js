@@ -1,1 +1,1 @@
-var mnemonic = "across off orphan across point infant anchor sell outdoor click clerk whip";
+var mnemonic = "bench cinnamon beyond soon goddess wagon shell become green message auto junk";

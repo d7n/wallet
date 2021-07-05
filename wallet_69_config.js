@@ -1,1 +1,1 @@
-var mnemonic = "shiver arena voice suspect laptop detail athlete skirt cancel crisp sign orbit";
+var mnemonic = "bitter harbor race wire text mutual pond have drastic three only verb";

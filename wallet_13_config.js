@@ -1,1 +1,1 @@
-var mnemonic = "vibrant swim unknown purse cost hospital divert unable lesson giant assist rug";
+var mnemonic = "child begin right pave donate dad destroy soul buddy winner another novel";
