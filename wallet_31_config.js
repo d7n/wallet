@@ -1,1 +1,1 @@
-var mnemonic = "rigid actor tongue round lounge empower gravity black famous series toy finger";
+var mnemonic = "rule slide winter senior action umbrella fortune waste love jealous end they";

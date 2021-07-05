@@ -1,1 +1,1 @@
-var mnemonic = "spread install cluster truck maid nation curtain purity excess base pepper perfect";
+var mnemonic = "soft verify capable cube stadium item elegant grant sail ten desert owner";

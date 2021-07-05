@@ -1,1 +1,1 @@
-var mnemonic = "scatter leader arm satisfy effort tone olympic police undo demise release timber";
+var mnemonic = "gasp habit pond option dish gap clarify lyrics feel scout maze thing";

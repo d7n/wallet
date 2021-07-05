@@ -1,1 +1,1 @@
-var mnemonic = "power predict inner drastic two mosquito know thumb rack runway mouse enemy";
+var mnemonic = "ready reopen among south swarm dry stereo doll zero sausage salmon list";

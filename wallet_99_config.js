@@ -1,1 +1,1 @@
-var mnemonic = "artefact act viable verify swallow change left use frost mobile fruit alley";
+var mnemonic = "always insect basket inform enter unknown surge bronze bottom erode glide cereal";

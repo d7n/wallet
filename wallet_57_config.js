@@ -1,1 +1,1 @@
-var mnemonic = "more early left output method labor lava dignity ability lift power strong";
+var mnemonic = "aisle term nice fluid follow hub unveil atom six vapor anchor slush";

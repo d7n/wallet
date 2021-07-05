@@ -1,1 +1,1 @@
-var mnemonic = "weird alien spirit theme tobacco seminar denial must scare ocean cement affair";
+var mnemonic = "harbor lake task trim forget essence subway total fan hurry mango saddle";

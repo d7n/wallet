@@ -1,1 +1,1 @@
-var mnemonic = "engage swallow blue jump nature pyramid express plunge fat palm airport plug";
+var mnemonic = "pact view gauge then neck upset affair slot siren skate dune system";

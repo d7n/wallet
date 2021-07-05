@@ -1,1 +1,1 @@
-var mnemonic = "embody limb kit air account gate unit topic finish wedding oxygen fiscal";
+var mnemonic = "unknown kind right cliff bounce rookie brother rib enlist tone mother boil";

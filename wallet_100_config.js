@@ -1,1 +1,1 @@
-var mnemonic = "kiss leisure again vanish patient engine cattle include minimum harbor trigger eagle";
+var mnemonic = "reform category express mixture apart column retreat trust gauge category walk distance";

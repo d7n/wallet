@@ -1,1 +1,1 @@
-var mnemonic = "warm unusual shock museum wink busy cover laugh soccer bag push burden";
+var mnemonic = "save talent cycle glance disagree series swim humor already entry muscle taxi";

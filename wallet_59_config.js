@@ -1,1 +1,1 @@
-var mnemonic = "rally march horn yellow turkey happy chronic ride patient truck coin debate";
+var mnemonic = "purpose much rival sketch shell marble follow toward universe hub cancel mercy";

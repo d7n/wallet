@@ -1,1 +1,1 @@
-var mnemonic = "sentence parade only glow entry unusual prefer target diary afford eyebrow armor";
+var mnemonic = "digital daring cost biology settle grocery gravity pattern know liberty ostrich palm";

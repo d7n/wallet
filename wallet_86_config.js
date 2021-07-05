@@ -1,1 +1,1 @@
-var mnemonic = "find intact ripple roof horror access iron multiply meat heavy armed surge";
+var mnemonic = "ecology mask hurt funny ignore reward hat canoe recipe harvest voice ankle";

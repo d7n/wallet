@@ -1,1 +1,1 @@
-var mnemonic = "bomb rail decide comfort gold burger dice ghost tongue general push mouse";
+var mnemonic = "enjoy switch tube inmate ability will cheap idea day pave fuel day";

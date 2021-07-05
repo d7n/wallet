@@ -1,1 +1,1 @@
-var mnemonic = "chair tent pyramid piece inch regret shallow wheat chat volume urge glimpse";
+var mnemonic = "banner unfold ready ankle mirror example hire arrow tornado grid glimpse excess";

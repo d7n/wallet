@@ -1,1 +1,1 @@
-var mnemonic = "thought thunder hamster over agree silk draw team joy loyal cushion easily";
+var mnemonic = "leisure snow icon arrest barely acoustic budget paddle dwarf trumpet ask vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "express stand blossom taxi unveil weekend edit beauty type label soccer apple";
+var mnemonic = "power chat more museum humor copper bus ocean fork police marriage fork";

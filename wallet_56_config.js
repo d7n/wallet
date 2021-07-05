@@ -1,1 +1,1 @@
-var mnemonic = "humor tunnel neck gasp shaft raven spot reduce spot into bomb spoil";
+var mnemonic = "inherit comfort wait family vintage used wire hundred morning cute rookie maximum";

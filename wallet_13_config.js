@@ -1,1 +1,1 @@
-var mnemonic = "bubble decorate motor rich melt bike life corn increase track habit wood";
+var mnemonic = "lobster real narrow random anxiety lens chat pioneer sign regular boring meat";

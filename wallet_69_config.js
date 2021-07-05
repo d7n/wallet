@@ -1,1 +1,1 @@
-var mnemonic = "friend frame assist omit unlock frame snake around select celery round egg";
+var mnemonic = "veteran moral deer indicate upset during dress huge spy uncover crack move";

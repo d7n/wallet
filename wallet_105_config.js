@@ -1,1 +1,1 @@
-var mnemonic = "bounce sunset royal soup poem series pet demand general favorite sugar speak";
+var mnemonic = "dune wet bleak silent decide grape impact define regret truth amazing dinosaur";

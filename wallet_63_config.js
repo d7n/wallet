@@ -1,1 +1,1 @@
-var mnemonic = "another ladder relief wild diesel bring trip yard jacket crumble muffin chase";
+var mnemonic = "tonight sadness idea tomato practice soldier alley chef tail appear sing glory";

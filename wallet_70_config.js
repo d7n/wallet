@@ -1,1 +1,1 @@
-var mnemonic = "risk deliver bike silly clump paper gloom gift arrow adjust champion pause";
+var mnemonic = "plunge dilemma laundry enlist mesh travel fatigue usual short discover bring demand";

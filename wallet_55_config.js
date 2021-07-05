@@ -1,1 +1,1 @@
-var mnemonic = "drastic oblige auction horse now drip pact ghost acoustic gauge bind observe";
+var mnemonic = "pioneer coach quick save pudding divert tragic nerve member blush easily little";

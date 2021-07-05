@@ -1,1 +1,1 @@
-var mnemonic = "always hope child bronze estate casino empower drip embrace near wedding smart";
+var mnemonic = "dress sing tape rigid host shaft lunch drive level demise bunker retreat";

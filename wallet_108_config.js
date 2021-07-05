@@ -1,1 +1,1 @@
-var mnemonic = "system glance company render similar evil join wrist weekend breeze dinosaur that";
+var mnemonic = "melt segment load toward people crew utility convince birth diamond rich small";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel average fresh announce level climb blade light satoshi engine volcano wheat";
+var mnemonic = "clutch ketchup party still shine auction program weather tag lyrics charge brown";

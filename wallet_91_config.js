@@ -1,1 +1,1 @@
-var mnemonic = "march primary divorce hospital across scatter gown lemon drama two pen depart";
+var mnemonic = "nuclear depend fat thing defy nominee valve suggest furnace zero want gown";

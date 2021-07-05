@@ -1,1 +1,1 @@
-var mnemonic = "rigid virus bulk stock any pepper narrow leader try end reflect black";
+var mnemonic = "leaf brand order sustain change drastic inch jealous goose lawsuit sustain shaft";

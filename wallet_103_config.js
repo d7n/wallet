@@ -1,1 +1,1 @@
-var mnemonic = "few furnace robot blanket pride shoot provide draw oxygen giggle derive engine";
+var mnemonic = "door curious romance purity wink square gain final awkward sponsor pepper genius";

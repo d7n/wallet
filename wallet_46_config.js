@@ -1,1 +1,1 @@
-var mnemonic = "six tiny betray tape relief wink climb miracle squirrel ill canoe doll";
+var mnemonic = "split video immense addict kite naive click leg castle pig cereal eternal";

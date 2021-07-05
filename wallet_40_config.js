@@ -1,1 +1,1 @@
-var mnemonic = "betray access flame gym opinion sort mass penalty wrist fade kitten bean";
+var mnemonic = "tackle moon increase napkin cabbage team pipe absurd claim sniff negative broccoli";

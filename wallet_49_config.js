@@ -1,1 +1,1 @@
-var mnemonic = "confirm tribe unfair maple rich vocal suspect brand crater blame child switch";
+var mnemonic = "practice search grid alter design glare enact rocket veteran cherry donkey tent";

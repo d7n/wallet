@@ -1,1 +1,1 @@
-var mnemonic = "lock slush east kick joke era asset faith idea window person country";
+var mnemonic = "lock advance barrel outside worry pudding canoe hood bunker wrestle hungry found";

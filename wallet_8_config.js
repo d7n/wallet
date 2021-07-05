@@ -1,1 +1,1 @@
-var mnemonic = "dress exact craft category sibling alarm twenty maximum nose involve silk crunch";
+var mnemonic = "example friend benefit eagle achieve flower polar unlock sort plastic portion elite";

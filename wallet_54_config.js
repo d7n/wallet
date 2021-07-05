@@ -1,1 +1,1 @@
-var mnemonic = "anxiety unhappy topple crumble quarter win media picture account seven exact super";
+var mnemonic = "surprise month sample remove tennis iron arrange reduce bike volcano hobby exclude";

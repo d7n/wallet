@@ -1,1 +1,1 @@
-var mnemonic = "balance owner token toe kind genius trend trip pizza fashion curtain alert";
+var mnemonic = "alley say problem claim symptom punch select inmate page april aunt melt";

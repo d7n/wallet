@@ -1,1 +1,1 @@
-var mnemonic = "auction victory universe whip lake column day talent monitor breeze shy crush";
+var mnemonic = "balcony forget pen million faculty purchase cool novel gorilla spread enemy pilot";

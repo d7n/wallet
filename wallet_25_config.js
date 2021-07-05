@@ -1,1 +1,1 @@
-var mnemonic = "unit art injury social file fantasy magnet divide syrup viable equip broken";
+var mnemonic = "blush agree split alien dad marriage ugly unlock balance health mixed nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "theme renew peasant base park inch initial nut glare blast half subject";
+var mnemonic = "gospel check truth exist device toddler silent bonus bag heart short rain";

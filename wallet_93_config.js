@@ -1,1 +1,1 @@
-var mnemonic = "square state mention develop blush know street category hammer rain awesome fix";
+var mnemonic = "unhappy damp post enlist obtain notable thank ten glance quantum rabbit hero";

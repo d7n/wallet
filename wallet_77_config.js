@@ -1,1 +1,1 @@
-var mnemonic = "great catch sound rookie child bridge mammal squirrel pretty wine casino agent";
+var mnemonic = "cruel patch ribbon display vault favorite autumn apart mail follow mixture crisp";

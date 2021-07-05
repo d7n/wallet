@@ -1,1 +1,1 @@
-var mnemonic = "lava boat then fence card tomorrow verify category exercise expose under royal";
+var mnemonic = "rabbit embark silver fish tobacco reflect system transfer ice release scene exhaust";

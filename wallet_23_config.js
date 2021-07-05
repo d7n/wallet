@@ -1,1 +1,1 @@
-var mnemonic = "slam crack under flower hotel destroy tragic prepare moral undo arrange like";
+var mnemonic = "accuse barely purchase boy three alter one energy when board must middle";

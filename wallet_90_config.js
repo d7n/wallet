@@ -1,1 +1,1 @@
-var mnemonic = "can fiscal list stock close insect outside truly fever else bright level";
+var mnemonic = "fine stereo spike total wheel dutch theory flight inside gospel animal early";

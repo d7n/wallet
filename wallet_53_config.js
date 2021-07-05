@@ -1,1 +1,1 @@
-var mnemonic = "invest pumpkin elegant case cup rude world autumn latin relief volcano cereal";
+var mnemonic = "island light luxury water service evolve funny jacket trip boss pretty rally";

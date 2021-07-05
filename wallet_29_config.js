@@ -1,1 +1,1 @@
-var mnemonic = "drift junk noodle defense truly donate thrive car dragon claim spice work";
+var mnemonic = "dilemma steak luxury miracle rather exist welcome caution enlist famous property fruit";

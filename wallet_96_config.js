@@ -1,1 +1,1 @@
-var mnemonic = "field rotate usage shoulder script spike review apple two stick often diamond";
+var mnemonic = "cube arrange lizard section grass account fish zebra frost lab emotion chimney";

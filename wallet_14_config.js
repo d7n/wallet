@@ -1,1 +1,1 @@
-var mnemonic = "hover patient recall fox hip police frown shove dumb pass garlic speak";
+var mnemonic = "office retire bonus acquire tone mixed anger baby club toddler alpha citizen";

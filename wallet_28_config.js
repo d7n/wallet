@@ -1,1 +1,1 @@
-var mnemonic = "actual install best visit weird hand wheel hard movie market scheme long";
+var mnemonic = "rail ask cancel version burden violin stereo fly average steel bomb firm";

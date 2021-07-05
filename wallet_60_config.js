@@ -1,1 +1,1 @@
-var mnemonic = "island danger curtain wedding sample flower shift erosion amused work core hip";
+var mnemonic = "nature excite diesel slogan install unfold leisure forget element view travel spin";

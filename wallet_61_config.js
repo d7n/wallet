@@ -1,1 +1,1 @@
-var mnemonic = "shock trash toast crouch fortune join exclude reject student begin sleep harvest";
+var mnemonic = "impact near brand album humor problem funny copper imitate trap this credit";

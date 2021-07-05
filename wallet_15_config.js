@@ -1,1 +1,1 @@
-var mnemonic = "must monitor crawl vehicle feel canal genuine law biology actual decide rug";
+var mnemonic = "veteran avocado run total borrow night animal photo spike wave donate ramp";

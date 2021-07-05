@@ -1,1 +1,1 @@
-var mnemonic = "pen donkey border flock swap latin hobby inner giant transfer must diesel";
+var mnemonic = "inspire robot aware person supply faith photo torch picnic mirror hand punch";

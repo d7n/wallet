@@ -1,1 +1,1 @@
-var mnemonic = "embrace police stereo rotate buzz defense hospital script key spatial dune wrestle";
+var mnemonic = "flight theory country true ivory option cake supply follow peasant hair artist";

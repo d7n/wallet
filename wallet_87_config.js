@@ -1,1 +1,1 @@
-var mnemonic = "fossil ketchup spoon bronze flight start pass fossil rough peasant huge awesome";
+var mnemonic = "hollow arrest accuse blossom illegal acoustic shoot enter glide school humor mimic";

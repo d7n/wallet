@@ -1,1 +1,1 @@
-var mnemonic = "excess genius satoshi deal economy music public cousin kidney report toddler abandon";
+var mnemonic = "between reflect tag shine left wealth medal stuff crater rigid siren pioneer";

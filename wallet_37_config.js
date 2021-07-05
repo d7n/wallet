@@ -1,1 +1,1 @@
-var mnemonic = "order replace elder apart awesome jacket black climb spin chuckle lawn income";
+var mnemonic = "impact witness still diesel blood panther stage amateur raccoon panic swap knife";

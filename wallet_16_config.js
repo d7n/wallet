@@ -1,1 +1,1 @@
-var mnemonic = "seminar talent resist pattern verify cluster wing april display noise proof future";
+var mnemonic = "ill slush beach moon frog then tilt avoid tissue shine moon useful";

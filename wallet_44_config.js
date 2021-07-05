@@ -1,1 +1,1 @@
-var mnemonic = "mercy drift plastic ribbon deny donate goose like tuna staff hidden pupil";
+var mnemonic = "metal alarm horror inhale wing clay cave head galaxy repair goddess indoor";

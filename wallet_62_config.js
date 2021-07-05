@@ -1,1 +1,1 @@
-var mnemonic = "sudden mushroom barrel bread track pilot toy fortune foot major insane diagram";
+var mnemonic = "panel music travel rent grab meadow venue mean strong catch display spirit";

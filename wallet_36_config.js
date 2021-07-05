@@ -1,1 +1,1 @@
-var mnemonic = "oven cloud time suffer size sure slide key neutral address island pioneer";
+var mnemonic = "deposit vibrant island soul month voice fringe boss copper spray approve vote";

@@ -1,1 +1,1 @@
-var mnemonic = "wait add inject zone bacon discover impact hair parrot movie trade clog";
+var mnemonic = "lecture despair solid allow protect cotton brown season verify stick tilt lake";

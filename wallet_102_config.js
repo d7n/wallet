@@ -1,1 +1,1 @@
-var mnemonic = "punch shock demand mom outdoor gallery region combine enemy cruise unfair rotate";
+var mnemonic = "dust warfare verb siren vague slush nothing praise skate correct face struggle";

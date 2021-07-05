@@ -1,1 +1,1 @@
-var mnemonic = "siege empty essence spawn wage search cheap recycle ice wet define mother";
+var mnemonic = "element potato task assault control brick scissors song hurt stereo liquid make";

@@ -1,1 +1,1 @@
-var mnemonic = "assault bonus churn total merry armor patient invest bicycle you orient diet";
+var mnemonic = "pluck spike boy noble desk picture mammal eye mercy source blast theme";

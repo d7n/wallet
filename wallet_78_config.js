@@ -1,1 +1,1 @@
-var mnemonic = "decade knock blade divorce kid maximum soon mandate draw noble quote issue";
+var mnemonic = "beauty typical night ghost trick sleep eyebrow always iron gate thunder erase";

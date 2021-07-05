@@ -1,1 +1,1 @@
-var mnemonic = "host kitchen soccer come roast palm term board truly ripple amazing oxygen";
+var mnemonic = "siren edit boil believe keen twist vendor elbow fold rubber fiscal spoil";

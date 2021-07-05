@@ -1,1 +1,1 @@
-var mnemonic = "replace hold candy arm give stock unique grit weird absent connect tag";
+var mnemonic = "border amateur supreme neutral foam pen rigid record high stand purchase bid";

@@ -1,1 +1,1 @@
-var mnemonic = "work hello wedding fine refuse admit hope check add muffin end valley";
+var mnemonic = "mosquito knock balcony guard fatal fashion finish gold runway just report sport";

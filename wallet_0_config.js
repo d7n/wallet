@@ -1,1 +1,1 @@
-var mnemonic = "chat maximum brother army trim crowd angle mind autumn actual urban olive";
+var mnemonic = "another tenant goose spice message menu regret essence best enact donor cube";

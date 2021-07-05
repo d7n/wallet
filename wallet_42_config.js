@@ -1,1 +1,1 @@
-var mnemonic = "payment wire skull differ slot remember armor fringe spare shy yard pig";
+var mnemonic = "nature never track hand review fatal castle myth stable void uncle joke";

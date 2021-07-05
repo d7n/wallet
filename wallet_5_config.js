@@ -1,1 +1,1 @@
-var mnemonic = "fossil tribe lazy general sort coin admit ahead safe sphere enjoy smile";
+var mnemonic = "music hub glow ancient chat dash tag entry small alter purity pave";

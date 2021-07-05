@@ -1,1 +1,1 @@
-var mnemonic = "vicious kit letter tired spoil wild crunch jealous party display robust garlic";
+var mnemonic = "spot urge fancy gasp ivory dune wine tunnel witness october mesh distance";

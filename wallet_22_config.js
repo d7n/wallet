@@ -1,1 +1,1 @@
-var mnemonic = "shaft gallery arrange weekend scout inmate fruit bubble before ivory truck belt";
+var mnemonic = "resource excess bring response month combine visual stick sleep medal combine damage";

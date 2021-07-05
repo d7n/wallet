@@ -1,1 +1,1 @@
-var mnemonic = "hybrid slush echo figure expect unlock hybrid develop must addict click ripple";
+var mnemonic = "rude warrior ring reflect brick dove neglect jewel ice play discover outdoor";

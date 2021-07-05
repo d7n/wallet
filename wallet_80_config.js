@@ -1,1 +1,1 @@
-var mnemonic = "panther dice edit medal case because lab guitar mix what security lesson";
+var mnemonic = "slim kick awkward medal champion neither brave swear snap dance oyster plastic";

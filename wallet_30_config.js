@@ -1,1 +1,1 @@
-var mnemonic = "manage dizzy true mutual excite spell welcome normal reward inflict flush magnet";
+var mnemonic = "debris until door case clip finger insane child buyer sorry simple fashion";

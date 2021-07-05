@@ -1,1 +1,1 @@
-var mnemonic = "forward detect castle series giggle slush nature poet safe creek adjust slam";
+var mnemonic = "size crowd tonight junior nose senior desk initial stairs mechanic detect vessel";

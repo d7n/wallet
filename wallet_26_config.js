@@ -1,1 +1,1 @@
-var mnemonic = "sadness news cradle dragon romance lend scissors bronze sure worth supreme inherit";
+var mnemonic = "ripple cereal nominee wife brick brush unaware quarter rifle plunge that tackle";

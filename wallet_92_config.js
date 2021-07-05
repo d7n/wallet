@@ -1,1 +1,1 @@
-var mnemonic = "estate stick pig huge switch enhance whale side winner edge gentle fiscal";
+var mnemonic = "suffer agent stable soldier swallow skull bone knee sorry person fortune brief";

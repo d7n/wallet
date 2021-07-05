@@ -1,1 +1,1 @@
-var mnemonic = "copy toddler satisfy mandate rack pilot hold water square anger ignore tennis";
+var mnemonic = "blossom more rural cereal earth early monitor eyebrow round merry boss aisle";

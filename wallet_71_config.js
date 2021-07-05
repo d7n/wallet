@@ -1,1 +1,1 @@
-var mnemonic = "repair floor weather burden advice couple lemon gesture shoe walnut bright fit";
+var mnemonic = "level fault idea sweet blind donate service wait ball tunnel siren summer";

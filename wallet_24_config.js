@@ -1,1 +1,1 @@
-var mnemonic = "figure corn common myself later radar ugly push acoustic increase protect trigger";
+var mnemonic = "famous cram proof mule tired attend tiger program ridge mix palm zoo";

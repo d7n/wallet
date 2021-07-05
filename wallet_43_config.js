@@ -1,1 +1,1 @@
-var mnemonic = "pledge vivid eager dismiss right angle divert penalty name fine topic famous";
+var mnemonic = "soul vault champion write rotate tool regular disagree enemy kingdom rich reveal";

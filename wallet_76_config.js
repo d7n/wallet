@@ -1,1 +1,1 @@
-var mnemonic = "crew cloth marriage bamboo jeans source only cotton quick gap cost wing";
+var mnemonic = "tool fit able adult bulk bullet pyramid purchase fun stone fortune trumpet";

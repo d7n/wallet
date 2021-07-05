@@ -1,1 +1,1 @@
-var mnemonic = "boil club start since gift draft lesson burger oval public jacket brush";
+var mnemonic = "spirit all room flower monitor oppose robot frame episode urge hover vote";
