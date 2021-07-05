@@ -1,1 +1,1 @@
-var mnemonic = "pelican behave master ladder much inject entry latin spatial local certain juice";
+var mnemonic = "same nothing eagle achieve sand price divorce best rebel space exotic absent";

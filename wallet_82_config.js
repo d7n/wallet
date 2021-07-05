@@ -1,1 +1,1 @@
-var mnemonic = "broom engine glide they flat gold novel dirt hotel dutch teach ring";
+var mnemonic = "repair chaos design jeans credit develop follow accuse icon spider minimum whale";

@@ -1,1 +1,1 @@
-var mnemonic = "grab install thing shell mountain lab dinner donor wedding flight salute spike";
+var mnemonic = "travel either diary unveil boy mistake daring real destroy raise sting purse";

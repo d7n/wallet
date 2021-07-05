@@ -1,1 +1,1 @@
-var mnemonic = "mouse cancel puzzle estate much dolphin timber estate country slot weather insane";
+var mnemonic = "lucky stone apology husband soup wrap hybrid distance because reduce joy advance";

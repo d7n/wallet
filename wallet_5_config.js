@@ -1,1 +1,1 @@
-var mnemonic = "together youth dynamic patrol coach tobacco around neglect ensure talk ticket shed";
+var mnemonic = "hollow aim gas odor wet decline ignore pulse relief fiscal grow okay";

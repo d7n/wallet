@@ -1,1 +1,1 @@
-var mnemonic = "cradle attend grace bag banana venue original pet square couch work taste";
+var mnemonic = "fly regular text flat board antique unfold music daughter unfair gentle horn";

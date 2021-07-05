@@ -1,1 +1,1 @@
-var mnemonic = "position question arrive rifle boy lab crumble ability grass bone essay lift";
+var mnemonic = "grain drama way shed media solid modify quit solid despair cruise mix";

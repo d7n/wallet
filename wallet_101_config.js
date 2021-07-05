@@ -1,1 +1,1 @@
-var mnemonic = "tilt lyrics soul snake degree weather dinosaur van figure task need oyster";
+var mnemonic = "shuffle rival pencil process nominee cycle symptom spell cage cancel lift bounce";

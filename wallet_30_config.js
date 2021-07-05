@@ -1,1 +1,1 @@
-var mnemonic = "another patch still leg come path winner sight pear polar weapon door";
+var mnemonic = "start subway obtain gown winner dragon salute sock false write lobster exile";

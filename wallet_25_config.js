@@ -1,1 +1,1 @@
-var mnemonic = "antique frozen rival bus exact velvet seat scatter mass cliff veteran bacon";
+var mnemonic = "duty gossip used glance fold bar power marble wife cross post basket";

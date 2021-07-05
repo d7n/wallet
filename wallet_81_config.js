@@ -1,1 +1,1 @@
-var mnemonic = "mention uphold trim veteran track stove reunion duty social need neck ankle";
+var mnemonic = "jacket panic thank romance mesh wall illegal salon deal apart glass despair";

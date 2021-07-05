@@ -1,1 +1,1 @@
-var mnemonic = "cactus bachelor maximum critic theme squeeze dog letter churn apology chief tomato";
+var mnemonic = "drama word fame spoil jar nominee comfort that catalog own lock atom";

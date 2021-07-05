@@ -1,1 +1,1 @@
-var mnemonic = "say wait crazy dirt aware goat pledge grain foot faculty sibling force";
+var mnemonic = "drum repair exile hope impose arrow scale garage motion grain flush hair";

@@ -1,1 +1,1 @@
-var mnemonic = "door seek farm canyon truth various develop worth pupil glory adjust lawn";
+var mnemonic = "shadow hazard seat rifle type device purpose slender hand clean enough involve";

@@ -1,1 +1,1 @@
-var mnemonic = "subject utility mixture usage swallow lawsuit diary shell glory sentence chunk hospital";
+var mnemonic = "bulb label govern ability skill hurt laundry foster quote plug pupil fun";

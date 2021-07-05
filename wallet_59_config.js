@@ -1,1 +1,1 @@
-var mnemonic = "random mad suffer buyer garment pave save hover such tuna case stay";
+var mnemonic = "bunker endorse spoil sauce jar loud grain snake crack dolphin shed silver";

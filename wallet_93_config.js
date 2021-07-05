@@ -1,1 +1,1 @@
-var mnemonic = "noise uphold body unable sail wing student race praise april pipe cup";
+var mnemonic = "home fee winner wrestle border human deputy pledge calm knee sick treat";

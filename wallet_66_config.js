@@ -1,1 +1,1 @@
-var mnemonic = "element virtual metal world remember pear dignity bean thank project mutual cattle";
+var mnemonic = "phrase evil offer grape model relax fork awkward air again ankle gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic dune story roof enable easy hamster busy select fragile section awake";
+var mnemonic = "desk allow urge identify cushion treat weather equip spray marine orchard electric";

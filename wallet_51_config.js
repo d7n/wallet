@@ -1,1 +1,1 @@
-var mnemonic = "resource hint web cycle ginger butter harbor flame crack alien minute kit";
+var mnemonic = "maximum notable crew clown rebel bubble plastic erupt mistake earn merge area";

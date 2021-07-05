@@ -1,1 +1,1 @@
-var mnemonic = "leopard common toilet spell chaos screen reward observe mixture word amazing coast";
+var mnemonic = "tragic hen believe sick chapter write insane chronic chaos inform fatal market";

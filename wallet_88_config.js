@@ -1,1 +1,1 @@
-var mnemonic = "quit fabric settle slight humor enhance morning pluck genre slide erosion hidden";
+var mnemonic = "item solar burger disagree clay shop friend escape tribe number umbrella domain";

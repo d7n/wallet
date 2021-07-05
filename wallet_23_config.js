@@ -1,1 +1,1 @@
-var mnemonic = "meadow across actor dove produce garden goddess track virtual long upset wisdom";
+var mnemonic = "cupboard blush turkey vocal fall zebra rubber say tonight issue quality bullet";

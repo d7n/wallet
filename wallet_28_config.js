@@ -1,1 +1,1 @@
-var mnemonic = "fatal hawk wolf nerve company destroy town bracket inhale slide damp club";
+var mnemonic = "island tissue smile flee mystery game quarter pool liar blue object spin";

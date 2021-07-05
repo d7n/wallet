@@ -1,1 +1,1 @@
-var mnemonic = "odor brother laugh deer final leaf weapon journey room shop abandon mad";
+var mnemonic = "dial bag cruise sand arctic gossip kidney margin scale urban town above";

@@ -1,1 +1,1 @@
-var mnemonic = "auto enforce north visual absorb divert language hedgehog candy pet plastic loop";
+var mnemonic = "provide cave bicycle south below drink stick purchase snap exclude cricket story";

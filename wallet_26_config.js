@@ -1,1 +1,1 @@
-var mnemonic = "still confirm damp frozen sister open joy crawl crystal keen lift smooth";
+var mnemonic = "effort immense easily scene music close select energy flower train atom elephant";

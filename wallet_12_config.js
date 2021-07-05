@@ -1,1 +1,1 @@
-var mnemonic = "puppy access amateur mansion orient sun now dice viable spoon bullet language";
+var mnemonic = "salad slam address vessel crush cancel liberty inmate enough text spot service";

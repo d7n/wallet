@@ -1,1 +1,1 @@
-var mnemonic = "path crisp sing summer dash quarter program build census yellow suffer way";
+var mnemonic = "reunion space foam fancy supreme canoe mule police fossil differ cloud oak";

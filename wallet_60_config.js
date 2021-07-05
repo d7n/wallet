@@ -1,1 +1,1 @@
-var mnemonic = "parent marble oak there gun recycle special garden thing bind army access";
+var mnemonic = "duck access alert bus ancient again subway robust liquid gloom mail book";

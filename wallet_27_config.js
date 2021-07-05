@@ -1,1 +1,1 @@
-var mnemonic = "toward suit actual grape join east cabbage wagon weather rebuild feature vehicle";
+var mnemonic = "face this parent walnut absent rain system spatial fresh item control excite";

@@ -1,1 +1,1 @@
-var mnemonic = "music exotic awake edge erupt woman auto dinner rate labor dog attend";
+var mnemonic = "post music quantum hotel weird trim amount close top jeans tent ice";

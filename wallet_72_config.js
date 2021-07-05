@@ -1,1 +1,1 @@
-var mnemonic = "dream census camera cluster light person dinner tissue next zero satisfy life";
+var mnemonic = "autumn knee strong type reward slot depth punch design tennis cargo broom";

@@ -1,1 +1,1 @@
-var mnemonic = "verify gospel broken stem possible decline output genre economy exhaust cheap situate";
+var mnemonic = "hunt hold pencil lawn assume search host act video sail novel mesh";

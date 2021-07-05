@@ -1,1 +1,1 @@
-var mnemonic = "child person twice gesture deny curtain have bridge foot hospital grant ridge";
+var mnemonic = "purse one decline check worry team light snack carpet timber rival between";

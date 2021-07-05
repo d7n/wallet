@@ -1,1 +1,1 @@
-var mnemonic = "family remind culture affair spoil pioneer core mule width spawn wife clump";
+var mnemonic = "stumble glance frown virus afraid extend knee eight sleep door stumble across";

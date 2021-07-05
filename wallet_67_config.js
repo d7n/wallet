@@ -1,1 +1,1 @@
-var mnemonic = "film pact depend ball depth worry attract pupil vault april soccer enforce";
+var mnemonic = "embrace dish moon glide rocket item forward such sand bottom version credit";

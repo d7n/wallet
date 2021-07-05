@@ -1,1 +1,1 @@
-var mnemonic = "minor silent key limit upper few lazy check target kangaroo truly remember";
+var mnemonic = "act crunch about push evil shift circle guard time maze slab record";

@@ -1,1 +1,1 @@
-var mnemonic = "firm daring hole paddle monster tank disagree click rural rely unfold occur";
+var mnemonic = "opinion coral hammer long dismiss dream vocal expire focus near cushion napkin";

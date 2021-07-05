@@ -1,1 +1,1 @@
-var mnemonic = "have cry into then yellow during intact decade tape fantasy sheriff proud";
+var mnemonic = "hub silk asset describe axis badge help cute start language cement occur";

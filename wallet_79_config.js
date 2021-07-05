@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow educate imitate master wood silent sword there toilet hold case grid";
+var mnemonic = "hint exhaust diesel leaf zone buzz donor rhythm drive dutch teach direct";

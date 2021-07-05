@@ -1,1 +1,1 @@
-var mnemonic = "chronic island betray arrow fault twice gesture recycle margin entry culture glare";
+var mnemonic = "wood purity vanish manage length purity maximum attract bubble another dwarf amazing";

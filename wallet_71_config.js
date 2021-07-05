@@ -1,1 +1,1 @@
-var mnemonic = "limit suffer exit news salt dentist olive coast laptop team imitate disease";
+var mnemonic = "maze range alpha trumpet cattle kiwi erode reunion actress mixed fun canoe";

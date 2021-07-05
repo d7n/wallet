@@ -1,1 +1,1 @@
-var mnemonic = "circle fade pulp hungry spoil addict wine actor all arm flight match";
+var mnemonic = "suit egg ask hurdle repair bicycle imitate concert you purity polar faith";

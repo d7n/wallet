@@ -1,1 +1,1 @@
-var mnemonic = "fresh suffer chunk amount panel liar flash feel basic lion undo lamp";
+var mnemonic = "danger brand razor food loop prize inflict give melt dad gain again";

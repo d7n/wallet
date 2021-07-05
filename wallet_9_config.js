@@ -1,1 +1,1 @@
-var mnemonic = "churn lizard chase caution winner egg engage song empty gloom time trigger";
+var mnemonic = "actual other fragile lava retreat arrive disagree choice army ahead above pilot";

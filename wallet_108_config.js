@@ -1,1 +1,1 @@
-var mnemonic = "piece demise system under universe release aisle key foot gesture attitude electric";
+var mnemonic = "obey staff crazy amused science guide now hotel hand cube confirm pulse";

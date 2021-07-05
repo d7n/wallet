@@ -1,1 +1,1 @@
-var mnemonic = "situate punch pair barely quiz option lazy broom aerobic lava phone stumble";
+var mnemonic = "when receive gas creek nature hill eternal depend cereal access draft across";

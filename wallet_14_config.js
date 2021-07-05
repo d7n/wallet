@@ -1,1 +1,1 @@
-var mnemonic = "above advice robot horse puppy tourist bean fat convince setup welcome two";
+var mnemonic = "pave vacuum suffer away fame try label small doll term crumble enact";

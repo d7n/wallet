@@ -1,1 +1,1 @@
-var mnemonic = "increase canvas train ride cave square fossil smoke biology near salt clarify";
+var mnemonic = "pencil snake pet door claim kiss gorilla old install task improve middle";

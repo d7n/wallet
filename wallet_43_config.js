@@ -1,1 +1,1 @@
-var mnemonic = "obey explain diet address ridge creek picture cactus tackle eight combine radar";
+var mnemonic = "favorite rail genre nature old floor course also collect acid palm humble";

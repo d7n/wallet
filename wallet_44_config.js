@@ -1,1 +1,1 @@
-var mnemonic = "inform cupboard vocal cousin recipe side indoor random exhaust odor bus domain";
+var mnemonic = "orchard ozone few else helmet mushroom tackle over venue broken crunch lady";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle awesome year census miracle special tray hill once will hole main";
+var mnemonic = "museum turn settle ritual knife say novel acoustic virtual ability subject foil";

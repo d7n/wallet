@@ -1,1 +1,1 @@
-var mnemonic = "bar carpet wait release slow pledge notice pledge scatter end reunion express";
+var mnemonic = "dog supply trade crime surface mail twelve alien dinosaur attend combine camp";

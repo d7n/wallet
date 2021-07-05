@@ -1,1 +1,1 @@
-var mnemonic = "rice exist toss state edit model reduce love giggle often twelve neck";
+var mnemonic = "flock proof horse one fuel naive whip novel pet cake index glare";

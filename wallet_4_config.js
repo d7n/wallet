@@ -1,1 +1,1 @@
-var mnemonic = "meat blood arrest category robot animal near grid swap marriage margin else";
+var mnemonic = "source able tape pool tennis expect multiply advice garbage unveil rich biology";

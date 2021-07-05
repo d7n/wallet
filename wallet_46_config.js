@@ -1,1 +1,1 @@
-var mnemonic = "winter crush mutual blush captain pelican fashion window retire surface notable voice";
+var mnemonic = "blind patient live tide aspect side indicate cactus hundred junk bus inquiry";

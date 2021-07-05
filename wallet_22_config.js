@@ -1,1 +1,1 @@
-var mnemonic = "during fly inch hobby apple child switch remove rural acid congress globe";
+var mnemonic = "snack flash harbor age sphere adapt cluster sibling margin rent emerge cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny oil silent purse celery toast link choose lounge hope expand refuse";
+var mnemonic = "during toe despair swear decide until govern pupil icon defy spice elevator";

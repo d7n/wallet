@@ -1,1 +1,1 @@
-var mnemonic = "trophy nation ostrich endorse prosper valve panda release voyage dinner any dune";
+var mnemonic = "brick neglect cake neutral matter vacuum swing sell slow melody prevent glance";

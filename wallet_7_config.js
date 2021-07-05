@@ -1,1 +1,1 @@
-var mnemonic = "coach gate year ring wise jealous exclude verb hotel misery noodle promote";
+var mnemonic = "cute story ask slab allow label estate rug live census dirt industry";

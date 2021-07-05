@@ -1,1 +1,1 @@
-var mnemonic = "alone help lava kit shock current wrong attitude review brand fruit ivory";
+var mnemonic = "card beach squeeze song expect inner dawn blade armed private joy skate";

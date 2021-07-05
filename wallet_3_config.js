@@ -1,1 +1,1 @@
-var mnemonic = "drama alien primary unlock crucial ancient sorry bean vessel spray attract airport";
+var mnemonic = "defy shock defy best tool buzz shrimp weird swap hill sword web";

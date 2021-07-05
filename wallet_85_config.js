@@ -1,1 +1,1 @@
-var mnemonic = "nut deliver stool client brave rocket banana chef depth main whale give";
+var mnemonic = "tail buyer frog senior slush found gate doll media couple elephant fancy";

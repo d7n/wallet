@@ -1,1 +1,1 @@
-var mnemonic = "gentle wonder elder emerge cute employ foam canal cradle culture buffalo weasel";
+var mnemonic = "disease diagram arctic strike almost clog flip vacuum master mandate heart lucky";

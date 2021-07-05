@@ -1,1 +1,1 @@
-var mnemonic = "engine pig unique loyal sustain exchange zero stomach stage crash hotel decrease";
+var mnemonic = "venture ask doctor scene right sock entire tonight erode print object census";

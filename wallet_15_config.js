@@ -1,1 +1,1 @@
-var mnemonic = "whisper property sell valve minimum aunt clap snap amount tourist media flock";
+var mnemonic = "huge shock cinnamon lift vacuum panel gym double promote frequent kiwi phrase";

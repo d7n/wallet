@@ -1,1 +1,1 @@
-var mnemonic = "library maximum carpet strategy fashion oblige april quality market gorilla treat donkey";
+var mnemonic = "fame tragic clay increase mention sunset alone valid once whale culture slim";

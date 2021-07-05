@@ -1,1 +1,1 @@
-var mnemonic = "lend supreme way now hobby snake vote farm napkin abuse what cost";
+var mnemonic = "menu tell board mountain cash bless matter sing sentence inquiry base seed";

@@ -1,1 +1,1 @@
-var mnemonic = "viable gossip tell culture sibling car broken lend vacant fox nose gold";
+var mnemonic = "rate enlist lecture giggle great section lunar sauce penalty boy write drama";

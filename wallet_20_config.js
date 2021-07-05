@@ -1,1 +1,1 @@
-var mnemonic = "juice film can lava mixed open wealth since real blue paper swap";
+var mnemonic = "tape honey help warm napkin allow lunch royal deal minimum pizza night";

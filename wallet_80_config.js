@@ -1,1 +1,1 @@
-var mnemonic = "drift whisper quality mind enforce mad vendor mom balcony travel access solid";
+var mnemonic = "bachelor tunnel holiday paddle cream they relief country sample buyer rice debris";

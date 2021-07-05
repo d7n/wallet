@@ -1,1 +1,1 @@
-var mnemonic = "swallow reunion climb bubble unveil snow breeze puzzle camp tuna immense earn";
+var mnemonic = "viable extra chalk other pact stuff target gorilla alarm planet solution arrow";

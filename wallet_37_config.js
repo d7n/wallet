@@ -1,1 +1,1 @@
-var mnemonic = "inside mirror monkey promote access bargain junior vessel road guard hover give";
+var mnemonic = "drop enable lesson prevent service absorb you kite fox craft october evolve";

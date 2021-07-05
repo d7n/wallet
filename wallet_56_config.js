@@ -1,1 +1,1 @@
-var mnemonic = "swarm camp brief power slow item drink cannon gap filter mandate when";
+var mnemonic = "copper path garbage trust faculty furnace vast flee yellow sound length similar";

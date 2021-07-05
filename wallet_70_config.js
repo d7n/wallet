@@ -1,1 +1,1 @@
-var mnemonic = "wrestle century observe demise loud brown away include magic sister cup fold";
+var mnemonic = "card vast crystal female reveal review height catalog deputy head panda give";

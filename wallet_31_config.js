@@ -1,1 +1,1 @@
-var mnemonic = "lend reform exhaust kangaroo buzz fish pyramid sibling shell bracket immune eyebrow";
+var mnemonic = "about area any spring goddess later stay ancient raise mutual lizard virus";

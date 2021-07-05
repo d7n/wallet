@@ -1,1 +1,1 @@
-var mnemonic = "pretty convince steak hub pig fee receive useless law metal tree use";
+var mnemonic = "regret client left girl cream question olive hole sense put source absurd";

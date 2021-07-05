@@ -1,1 +1,1 @@
-var mnemonic = "inquiry develop strike tourist blouse buddy wave actor wait pistol end dial";
+var mnemonic = "shoe elbow final verb quit garden whale silly swap divorce truck iron";

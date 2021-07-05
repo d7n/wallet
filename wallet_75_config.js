@@ -1,1 +1,1 @@
-var mnemonic = "teach hover banana punch foam beauty design face odor flavor shove toe";
+var mnemonic = "pear box mistake own food cattle trim hope help awkward broccoli mule";

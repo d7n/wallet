@@ -1,1 +1,1 @@
-var mnemonic = "bubble weapon friend salt taxi attitude typical zero cute sheriff capable crime";
+var mnemonic = "zoo plate put member swift job very federal symptom wait category place";

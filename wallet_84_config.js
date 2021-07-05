@@ -1,1 +1,1 @@
-var mnemonic = "good typical dose toe must loan aunt early push gasp sport banner";
+var mnemonic = "soda glove ketchup arrange stem series erode spy work claim protect mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent taxi oven design tree excess stock birth upper boat field runway";
+var mnemonic = "fringe agent depart wild idea magnet lumber alley slender until air diary";

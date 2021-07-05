@@ -1,1 +1,1 @@
-var mnemonic = "draft please clutch blush ozone ski economy card acid equal output night";
+var mnemonic = "what affair news popular limb forest glare train rug analyst grit title";

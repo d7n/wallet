@@ -1,1 +1,1 @@
-var mnemonic = "stamp wool document salute habit area prize dish joy vacuum curious connect";
+var mnemonic = "add file oyster describe corn oblige position easily notable chicken reform matter";

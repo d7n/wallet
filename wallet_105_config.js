@@ -1,1 +1,1 @@
-var mnemonic = "casino bring bulk empty argue elegant defense couch rotate online lady citizen";
+var mnemonic = "upset gather divide vast flower nest dynamic treat health tiny black endless";

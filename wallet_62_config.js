@@ -1,1 +1,1 @@
-var mnemonic = "barrel artwork young smooth east hamster fresh popular endorse flip scrub latin";
+var mnemonic = "reform process neglect mouse achieve energy have give chaos dog bright educate";
