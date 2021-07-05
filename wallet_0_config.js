@@ -1,1 +1,1 @@
-var mnemonic = "rookie neither topic alter bread wrap pair notable truly angry orange avoid";
+var mnemonic = "aunt swim tennis either virus fetch wide document midnight cup pull fragile";

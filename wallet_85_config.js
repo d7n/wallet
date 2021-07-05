@@ -1,1 +1,1 @@
-var mnemonic = "tired deer grape evil tide perfect example crash fog diary property gospel";
+var mnemonic = "reason repeat busy under uncover upper puppy weather sheriff despair immune drive";

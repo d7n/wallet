@@ -1,1 +1,1 @@
-var mnemonic = "boy track target picture undo couple expire uncover drink alien bounce zero";
+var mnemonic = "hen hunt warfare attitude wild tilt zero mesh dinosaur hollow camp belt";

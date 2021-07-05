@@ -1,1 +1,1 @@
-var mnemonic = "bundle dust vague erupt foil beyond laugh spend duck output mechanic urge";
+var mnemonic = "tiny bone insane palm grace witness under frequent square opinion purpose update";

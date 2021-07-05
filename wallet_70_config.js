@@ -1,1 +1,1 @@
-var mnemonic = "canal describe ethics crash island mind acoustic cloud maid liquid sheriff iron";
+var mnemonic = "west moment once govern brother medal logic knee melody gallery egg timber";

@@ -1,1 +1,1 @@
-var mnemonic = "speed leader famous tip fox sense pepper bean between notable old banner";
+var mnemonic = "rifle stem before bird exit luxury draw time giraffe viable caught issue";

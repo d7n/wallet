@@ -1,1 +1,1 @@
-var mnemonic = "sorry humble stairs before wash page liar supreme twist bargain melt anxiety";
+var mnemonic = "asthma woman limb occur raw chalk special bundle gown mention credit situate";

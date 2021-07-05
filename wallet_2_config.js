@@ -1,1 +1,1 @@
-var mnemonic = "wrist legal genius green stereo shove crater rescue gloom junk obtain mosquito";
+var mnemonic = "universe occur observe toast victory priority mammal fiction fresh unable resemble end";

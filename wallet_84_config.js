@@ -1,1 +1,1 @@
-var mnemonic = "say service idea hedgehog sauce leg turn include slim review junior lobster";
+var mnemonic = "adapt oak hurt forget wood alert slow fury such feature taste brave";

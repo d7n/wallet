@@ -1,1 +1,1 @@
-var mnemonic = "width valley shift burger trick gentle tourist frown symptom search wreck wool";
+var mnemonic = "valid erupt during correct curious merge symbol place kingdom vapor team game";

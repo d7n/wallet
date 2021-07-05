@@ -1,1 +1,1 @@
-var mnemonic = "baby carpet hover method upon key noodle victory three soft spirit smile";
+var mnemonic = "romance scene donor economy kick discover heavy drip board member expand since";

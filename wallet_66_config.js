@@ -1,1 +1,1 @@
-var mnemonic = "arm since dance sheriff spin husband woman smoke vehicle have drink lesson";
+var mnemonic = "any drip excuse improve law vivid wine wheel lucky label recipe only";

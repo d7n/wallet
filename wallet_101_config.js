@@ -1,1 +1,1 @@
-var mnemonic = "dust void attract trend sustain humor electric wood ivory dinner current hub";
+var mnemonic = "access bench wrist strong year quote melt hold hour glue benefit chase";

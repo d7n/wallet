@@ -1,1 +1,1 @@
-var mnemonic = "brand confirm unlock phone service enjoy pelican survey regret act smooth ankle";
+var mnemonic = "patrol dust siren admit box east cabin broccoli inform pitch congress note";

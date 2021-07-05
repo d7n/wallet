@@ -1,1 +1,1 @@
-var mnemonic = "vehicle physical update sand member guess north claw sample silly chief absorb";
+var mnemonic = "lift cup payment cloud wedding great mimic afford pear stomach rate found";

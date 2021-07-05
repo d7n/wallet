@@ -1,1 +1,1 @@
-var mnemonic = "wheel obvious museum caught spray mosquito swallow you finger cloud orbit ecology";
+var mnemonic = "oven onion admit bean network total pony treat veteran manual knee left";

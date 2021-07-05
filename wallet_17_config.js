@@ -1,1 +1,1 @@
-var mnemonic = "letter position input prepare vicious evoke tip lumber actor people able hen";
+var mnemonic = "boy organ more seven truly sing drama tape ship primary vocal attract";

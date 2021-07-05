@@ -1,1 +1,1 @@
-var mnemonic = "embark uniform style brass dune glass book peace gate aspect inner label";
+var mnemonic = "squeeze pair domain defense salon heavy kiss now emotion damp clarify first";

@@ -1,1 +1,1 @@
-var mnemonic = "december bundle labor primary spot lawsuit sunny survey harbor avoid february pudding";
+var mnemonic = "fresh alter quantum poet donate lonely donate stumble glove fade wealth method";

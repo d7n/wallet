@@ -1,1 +1,1 @@
-var mnemonic = "mind note lawsuit rapid curious erosion rural payment drift story spoon shy";
+var mnemonic = "simple daughter lab timber dress point solar sister edit video occur wheat";

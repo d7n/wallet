@@ -1,1 +1,1 @@
-var mnemonic = "bike garlic agree magnet permit myself post hockey honey avocado oblige trip";
+var mnemonic = "draft hard sunset inch lesson poverty belt magic possible almost creek plate";

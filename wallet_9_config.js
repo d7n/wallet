@@ -1,1 +1,1 @@
-var mnemonic = "mandate shell emotion dwarf kitchen flag scrub panther genre forum supply fit";
+var mnemonic = "napkin reopen bicycle vintage mercy display robust toward bus nature merry culture";

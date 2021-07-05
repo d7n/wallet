@@ -1,1 +1,1 @@
-var mnemonic = "slide grant crisp reunion analyst thunder ankle attend ethics girl flavor warm";
+var mnemonic = "recall label offer girl volcano length blade attend moon wealth finger must";

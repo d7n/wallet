@@ -1,1 +1,1 @@
-var mnemonic = "drama grief gather steel glance ecology squirrel quantum bright unknown vacuum slow";
+var mnemonic = "vapor forest swamp wrestle clog defense position oyster never about bird emotion";

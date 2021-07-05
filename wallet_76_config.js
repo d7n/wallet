@@ -1,1 +1,1 @@
-var mnemonic = "car pitch puzzle broccoli ship dizzy stage music use benefit act confirm";
+var mnemonic = "hub input wet security deny panic first below cube rifle asthma afford";

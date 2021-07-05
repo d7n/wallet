@@ -1,1 +1,1 @@
-var mnemonic = "disagree slush pool already copy almost cruise ramp patch bean country level";
+var mnemonic = "bomb key mammal body hazard modify soldier drop unlock hunt digital alien";

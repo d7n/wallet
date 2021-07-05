@@ -1,1 +1,1 @@
-var mnemonic = "mechanic lesson lava allow true absurd pattern coyote welcome cart clerk faith";
+var mnemonic = "vacuum glow easily island rice profit deliver okay retreat deliver nuclear guilt";

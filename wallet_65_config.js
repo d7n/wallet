@@ -1,1 +1,1 @@
-var mnemonic = "charge obvious trend share deal space roof favorite trumpet witness elegant alone";
+var mnemonic = "olive dizzy labor firm wait actual viable tenant problem best tissue situate";

@@ -1,1 +1,1 @@
-var mnemonic = "sail frozen bottom autumn announce dynamic whip foil marine school farm able";
+var mnemonic = "million trade mimic urge dust hover balcony suggest eye bounce during dice";

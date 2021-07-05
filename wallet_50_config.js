@@ -1,1 +1,1 @@
-var mnemonic = "enlist hobby certain human eyebrow beach dolphin sword cigar there mask entire";
+var mnemonic = "belt erupt penalty nature just day public mimic glow black notable slide";

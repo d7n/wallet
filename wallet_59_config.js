@@ -1,1 +1,1 @@
-var mnemonic = "flee lamp loop latin siege lake keep total exile riot grit gate";
+var mnemonic = "record liberty agent ecology boring alpha radar volume echo pill enable hat";

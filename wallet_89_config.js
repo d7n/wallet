@@ -1,1 +1,1 @@
-var mnemonic = "wheat forum make kiwi lunar tomorrow fantasy rescue trap moon rocket ball";
+var mnemonic = "replace resemble shield lab puzzle weather nurse spin discover motor ugly congress";

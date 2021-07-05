@@ -1,1 +1,1 @@
-var mnemonic = "ozone guilt oyster benefit eagle shell cool grain follow kind dinosaur acquire";
+var mnemonic = "brass teach know style choice scatter setup husband wheat merry knee obtain";

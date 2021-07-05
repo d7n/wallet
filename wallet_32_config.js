@@ -1,1 +1,1 @@
-var mnemonic = "during merge that muscle ball forest stock execute piano slab physical cabbage";
+var mnemonic = "concert snack alley chapter purse desk develop slide spawn potato miss crumble";

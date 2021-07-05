@@ -1,1 +1,1 @@
-var mnemonic = "lounge bright tent spider smooth champion orbit bone evoke forum track dinner";
+var mnemonic = "camp pluck boring cotton possible basic river wall scan kiwi slab fortune";

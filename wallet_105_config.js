@@ -1,1 +1,1 @@
-var mnemonic = "shock treat essay flock page crowd chef suffer twin drastic satisfy fog";
+var mnemonic = "rebel agree category vendor heavy talent table device exchange brain proof slush";

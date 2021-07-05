@@ -1,1 +1,1 @@
-var mnemonic = "siege minute valve renew unfair cup advice town chat security clay act";
+var mnemonic = "since canyon baby because harvest ordinary regular magnet romance bomb isolate travel";

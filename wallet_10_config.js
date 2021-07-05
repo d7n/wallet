@@ -1,1 +1,1 @@
-var mnemonic = "follow regret orchard twist banana notice screen tuition kidney fringe brown panel";
+var mnemonic = "behave hidden puzzle ostrich side mystery outer gloom hotel float hungry pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "pact chronic cup letter text nice velvet comfort feel please message dutch";
+var mnemonic = "cluster junior brand awful card sketch spell close foam spice basic heart";

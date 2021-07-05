@@ -1,1 +1,1 @@
-var mnemonic = "clinic rubber genuine flavor science cannon genius swallow violin item juice kitchen";
+var mnemonic = "enemy reward veteran flock bacon orchard blast real brisk transfer sudden fence";

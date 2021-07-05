@@ -1,1 +1,1 @@
-var mnemonic = "click divert poem control sustain awkward that label mystery valley famous marble";
+var mnemonic = "explain adjust next child chronic void toe time just brown advice symptom";

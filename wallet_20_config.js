@@ -1,1 +1,1 @@
-var mnemonic = "waste airport step boat balcony flame victory script review confirm spider wait";
+var mnemonic = "motion soup tank allow amount more audit orange antenna wood jeans wrong";

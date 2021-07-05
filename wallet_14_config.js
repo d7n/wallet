@@ -1,1 +1,1 @@
-var mnemonic = "public grid talent female hotel give yellow coral urban undo swarm indicate";
+var mnemonic = "animal rack nothing tobacco panther fly expire cabbage potato brother mind afraid";

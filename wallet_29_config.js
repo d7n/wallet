@@ -1,1 +1,1 @@
-var mnemonic = "level lava stool profit balance frame fantasy coyote pencil useful finger elbow";
+var mnemonic = "deliver physical more lawn pudding manage cannon where beach vault aerobic supply";

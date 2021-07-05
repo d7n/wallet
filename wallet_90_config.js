@@ -1,1 +1,1 @@
-var mnemonic = "wage drive give sunset cigar goose stove ghost skirt idea express prosper";
+var mnemonic = "vivid fork element pudding grace company render spatial success sample kite hope";

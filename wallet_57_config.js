@@ -1,1 +1,1 @@
-var mnemonic = "boat subject scissors river interest afraid abandon found leisure camera inherit scare";
+var mnemonic = "ability salute monster critic rigid vacant hen cool pair soccer price never";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse empower point grab box front build tackle grain tower proud noise";
+var mnemonic = "crew brief siege until vital donkey chaos thank speak hollow culture giant";

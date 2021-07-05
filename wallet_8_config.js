@@ -1,1 +1,1 @@
-var mnemonic = "dynamic nature keen shop popular outer patrol sketch better mouse else venue";
+var mnemonic = "surprise truck bind once steel bottom chaos yard oppose grow purse pistol";

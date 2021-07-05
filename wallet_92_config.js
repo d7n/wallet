@@ -1,1 +1,1 @@
-var mnemonic = "tray peasant orbit inner post shift tip select obvious deliver snack luxury";
+var mnemonic = "garden own rather black stay crunch clutch cruel wise law game valley";

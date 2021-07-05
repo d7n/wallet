@@ -1,1 +1,1 @@
-var mnemonic = "upgrade fall dismiss vast gloom alien blast legend stereo horror call rough";
+var mnemonic = "nest castle dragon cook laundry ability improve patrol trim saddle gift tunnel";

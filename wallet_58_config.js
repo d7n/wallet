@@ -1,1 +1,1 @@
-var mnemonic = "tornado more sight injury ketchup seminar track despair lottery repeat hour target";
+var mnemonic = "gate luggage artist foil lift right common drop own chronic gossip next";

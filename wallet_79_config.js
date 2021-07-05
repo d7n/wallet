@@ -1,1 +1,1 @@
-var mnemonic = "drastic power tail pretty ecology cable scatter install rhythm choose pluck canal";
+var mnemonic = "pave desk park ring danger there hobby leisure wage ride october lava";

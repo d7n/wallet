@@ -1,1 +1,1 @@
-var mnemonic = "grab silent addict reopen popular ozone element top caution tired minor heart";
+var mnemonic = "must absurd carbon lounge spice surprise hospital color dynamic cactus snow spatial";

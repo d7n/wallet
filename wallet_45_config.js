@@ -1,1 +1,1 @@
-var mnemonic = "album cat magic embody cruel upgrade stumble melt illness width resemble nurse";
+var mnemonic = "focus age forget wagon tourist soft typical beef all stamp stand giraffe";

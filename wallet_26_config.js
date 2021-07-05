@@ -1,1 +1,1 @@
-var mnemonic = "helmet shaft switch more trap tornado heavy outside end rhythm dynamic whisper";
+var mnemonic = "hungry hood above diet gossip sight wrap use drastic quality have unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "agent canoe misery mutual such alpha enough enlist damp element middle bunker";
+var mnemonic = "ozone neglect service choice stage paper audit hover lyrics stock lottery bring";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish rebel blade crowd enact million resemble pretty gaze tribe debate current";
+var mnemonic = "start purchase exact fruit supreme fan pottery afford walnut gown nurse bread";

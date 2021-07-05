@@ -1,1 +1,1 @@
-var mnemonic = "garbage sausage shield capital blast foot smooth welcome flat conduct nature cash";
+var mnemonic = "obvious wink bomb because soda profit festival erupt ripple february winter banner";

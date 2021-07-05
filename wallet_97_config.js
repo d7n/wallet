@@ -1,1 +1,1 @@
-var mnemonic = "series survey cabbage outside symbol reduce glad neck youth kite identify jeans";
+var mnemonic = "bid change boring there trim profit use witness gym feel gaze stick";

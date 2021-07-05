@@ -1,1 +1,1 @@
-var mnemonic = "garment purchase point tag senior long increase best grunt type shoe code";
+var mnemonic = "wave project agree tomato grab myself host switch mistake prison bright coil";

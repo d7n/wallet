@@ -1,1 +1,1 @@
-var mnemonic = "pyramid snow april boat shed bleak screen loyal salad theme dentist canal";
+var mnemonic = "earth idea erase cheese essay legend scare walk knock chimney confirm phone";

@@ -1,1 +1,1 @@
-var mnemonic = "shove because appear fault lazy announce laugh make morning pyramid strong drum";
+var mnemonic = "know grape fly fade road exile identify final evidence alarm require crack";

@@ -1,1 +1,1 @@
-var mnemonic = "column universe outdoor hand link clog faculty inmate raccoon enhance shock crisp";
+var mnemonic = "report palace write sleep chapter resist pony ranch aim square question embody";

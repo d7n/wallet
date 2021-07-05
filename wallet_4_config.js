@@ -1,1 +1,1 @@
-var mnemonic = "pony chicken surround crew friend acquire grace mind mask social doll rotate";
+var mnemonic = "person phone response delay annual stuff cake lyrics home veteran screen cruel";

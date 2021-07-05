@@ -1,1 +1,1 @@
-var mnemonic = "electric cup basket puzzle swarm long knock outer bind injury arch swear";
+var mnemonic = "fluid wonder volcano pear cute desert vibrant media stove modify chest major";

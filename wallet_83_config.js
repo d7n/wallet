@@ -1,1 +1,1 @@
-var mnemonic = "orient profit skull base able convince tuna album expand sauce payment summer";
+var mnemonic = "agent ghost hurry canyon iron stock menu exotic capital analyst edge olive";

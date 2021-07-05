@@ -1,1 +1,1 @@
-var mnemonic = "aunt athlete energy mystery gesture act typical elephant obey fashion another cabbage";
+var mnemonic = "brand budget addict desk reason canyon general legend pave inhale ball amount";

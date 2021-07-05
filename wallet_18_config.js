@@ -1,1 +1,1 @@
-var mnemonic = "group awake seven march gun tattoo luxury food conduct pistol honey beyond";
+var mnemonic = "warrior actress seed skirt snack supply brand sister apology company box setup";

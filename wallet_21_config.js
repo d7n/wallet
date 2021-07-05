@@ -1,1 +1,1 @@
-var mnemonic = "film resist card caution rich chimney wheat agent torch exchange poet question";
+var mnemonic = "ethics vicious truly stamp rural gold window spy pluck hedgehog extra once";

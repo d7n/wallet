@@ -1,1 +1,1 @@
-var mnemonic = "face version scatter fox twist cigar merit depth rack velvet multiply script";
+var mnemonic = "token address tray phrase media toilet goat rally napkin prize frame rain";

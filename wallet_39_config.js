@@ -1,1 +1,1 @@
-var mnemonic = "ancient bunker patient stove habit buyer symbol doctor vendor wrist hint stage";
+var mnemonic = "island dance wave hockey cable blast page make explain hollow spice truth";

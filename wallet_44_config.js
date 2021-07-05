@@ -1,1 +1,1 @@
-var mnemonic = "switch summer joke wife sheriff basic cook giraffe erupt romance suggest state";
+var mnemonic = "gather hollow memory peace image need buyer broom brief require chicken panel";

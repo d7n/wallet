@@ -1,1 +1,1 @@
-var mnemonic = "slot exchange layer hero inch lake hill segment scorpion large elder three";
+var mnemonic = "when sorry clip supreme oxygen tiny venue endless please crush awesome fever";

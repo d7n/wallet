@@ -1,1 +1,1 @@
-var mnemonic = "pledge romance step muffin source wet ready settle priority make giraffe comfort";
+var mnemonic = "ghost tenant seat latin tongue you tent desk window panic live skate";

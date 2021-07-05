@@ -1,1 +1,1 @@
-var mnemonic = "birth elite sudden purity web grant this shoulder immense faith they size";
+var mnemonic = "chunk antique coral display clay grunt exist toss fee inform then frost";

@@ -1,1 +1,1 @@
-var mnemonic = "enough crumble palace shop sample carpet federal enjoy tissue this abuse clay";
+var mnemonic = "risk clean hand baby armed symbol story taste account latin puzzle clean";

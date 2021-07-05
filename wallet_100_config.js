@@ -1,1 +1,1 @@
-var mnemonic = "fiction side devote decade edit supreme hockey hollow curious canal fiber link";
+var mnemonic = "rail buzz rather pupil cross lunar alter unhappy page crime employ broken";

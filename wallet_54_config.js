@@ -1,1 +1,1 @@
-var mnemonic = "battle mule casual caught mimic arrive draw smoke hard elevator skate midnight";
+var mnemonic = "wet pond diet direct buffalo airport apple police pyramid elegant hobby seven";

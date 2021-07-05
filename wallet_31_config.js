@@ -1,1 +1,1 @@
-var mnemonic = "office pony employ walk youth genuine aim harbor cloud gas web aisle";
+var mnemonic = "welcome sunset knock between connect lumber disorder rebuild swift during again interest";

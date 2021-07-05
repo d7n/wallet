@@ -1,1 +1,1 @@
-var mnemonic = "lady twist blanket loan whip fantasy material valve increase dentist side cloud";
+var mnemonic = "trigger scale tuna kick prosper beauty seminar select sustain frown number floor";

@@ -1,1 +1,1 @@
-var mnemonic = "vague disease leader lyrics swift quarter below jungle say know myself danger";
+var mnemonic = "reduce boat write embrace panic climb genuine lock together distance rubber shiver";

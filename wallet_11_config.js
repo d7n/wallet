@@ -1,1 +1,1 @@
-var mnemonic = "unveil wave leopard friend flower evolve profit wash shove fame thunder miracle";
+var mnemonic = "rose breeze once hub churn caught card blame front example cruel measure";

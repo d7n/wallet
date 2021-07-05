@@ -1,1 +1,1 @@
-var mnemonic = "bacon joy glory idea dirt three grid obey shuffle clay fetch champion";
+var mnemonic = "ecology season swap usual cereal food shallow muffin spare gentle keep nerve";

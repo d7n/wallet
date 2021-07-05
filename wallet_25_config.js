@@ -1,1 +1,1 @@
-var mnemonic = "comic chat tree marriage index boss spring scissors auction sea usual toilet";
+var mnemonic = "mother base heart embody awesome vote equip know fall review urban smile";

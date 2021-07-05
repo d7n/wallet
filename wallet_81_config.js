@@ -1,1 +1,1 @@
-var mnemonic = "food escape kiss alien aerobic loop judge become shiver gesture husband explain";
+var mnemonic = "balcony danger bacon perfect ring detect convince high bottom rare bridge copper";

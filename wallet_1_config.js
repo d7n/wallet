@@ -1,1 +1,1 @@
-var mnemonic = "royal protect duty become end quick dwarf liquid chase sing want era";
+var mnemonic = "curtain lizard hobby exile want shine satoshi market pact vibrant lend trip";
