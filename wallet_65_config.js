@@ -1,1 +1,1 @@
-var mnemonic = "much solar zero deer couch belt table pet excess egg say foot";
+var mnemonic = "depth happy tree churn finger amateur mention tiger dust assume immense fog";

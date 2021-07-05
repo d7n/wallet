@@ -1,1 +1,1 @@
-var mnemonic = "army walnut goddess smoke print unhappy wrap fine model hundred urge flag";
+var mnemonic = "kind soon fit luxury truth inspire echo all better person since chase";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion gloom panel arrive sugar venue release reason shop small guess harbor";
+var mnemonic = "bonus episode net action wealth code animal pottery fat spot orbit devote";

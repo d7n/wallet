@@ -1,1 +1,1 @@
-var mnemonic = "perfect illness odor glimpse write piece sphere clock promote day unveil select";
+var mnemonic = "witness list sketch budget defense square gain theory receive pioneer maple dirt";

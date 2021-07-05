@@ -1,1 +1,1 @@
-var mnemonic = "shrug donkey soon mail almost avoid act anchor trap interest soon dust";
+var mnemonic = "switch victory board rebuild tongue era melt exchange coin shrug guilt grit";

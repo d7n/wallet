@@ -1,1 +1,1 @@
-var mnemonic = "napkin portion emotion muffin video fiscal taxi half smoke begin toward member";
+var mnemonic = "small chunk monkey rude audit apart question pole elder scrap ripple ball";

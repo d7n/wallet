@@ -1,1 +1,1 @@
-var mnemonic = "airport opera split then flower pupil build vault parrot filter survey mechanic";
+var mnemonic = "spoil ball hip staff over crane wink lend tourist near city cushion";

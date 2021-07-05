@@ -1,1 +1,1 @@
-var mnemonic = "army category plunge extend ensure car feel tackle stage pen soul purchase";
+var mnemonic = "dove secret feel seat heart broken pull punch rapid green mad void";

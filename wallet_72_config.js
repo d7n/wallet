@@ -1,1 +1,1 @@
-var mnemonic = "foster swarm unable camera wise fire thrive express artwork decrease off hole";
+var mnemonic = "embody mandate outdoor arch utility police ramp when bargain weapon alcohol cancel";

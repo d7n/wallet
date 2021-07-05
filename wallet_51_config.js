@@ -1,1 +1,1 @@
-var mnemonic = "actress wing swim hire parrot foil despair fade gadget disease much cup";
+var mnemonic = "paddle unable valve expose olympic trip spoon census crazy start section open";

@@ -1,1 +1,1 @@
-var mnemonic = "into jelly forget prize scare grab cheese dream luggage dad thunder talk";
+var mnemonic = "define orphan divert flag clerk metal tail gain ketchup curtain puzzle bonus";

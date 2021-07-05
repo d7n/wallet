@@ -1,1 +1,1 @@
-var mnemonic = "negative fantasy atom gossip hard sorry deer aerobic hour educate clutch phone";
+var mnemonic = "spin mad drum cake chronic seminar about satoshi cherry meat gown medal";

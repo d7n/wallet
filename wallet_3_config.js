@@ -1,1 +1,1 @@
-var mnemonic = "afraid flee forward crisp piece keep wood select clerk admit salad skull";
+var mnemonic = "index turkey extend that once asset bomb style defy aware wink resemble";

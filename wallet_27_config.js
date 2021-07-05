@@ -1,1 +1,1 @@
-var mnemonic = "subject mango ball whisper social change because eternal model title reopen couple";
+var mnemonic = "reduce desert flash obscure sight grass mystery vivid glide theme burger giraffe";

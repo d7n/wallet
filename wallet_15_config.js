@@ -1,1 +1,1 @@
-var mnemonic = "coconut ranch oblige appear lift parent viable whisper stamp sphere account only";
+var mnemonic = "void web model oppose aunt flip topple debate fitness derive wash boss";

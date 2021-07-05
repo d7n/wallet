@@ -1,1 +1,1 @@
-var mnemonic = "secret ceiling please trap century element candy hurt twist chunk clog access";
+var mnemonic = "cargo brisk bottom learn solid inmate hen admit body average goose switch";

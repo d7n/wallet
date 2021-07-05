@@ -1,1 +1,1 @@
-var mnemonic = "horse poem mercy health future auto patch assault high oven federal you";
+var mnemonic = "trouble civil wet quick cram silver tree credit wet direct eight cruise";

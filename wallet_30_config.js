@@ -1,1 +1,1 @@
-var mnemonic = "ancient trash hand mention undo purpose shoot lunar trim deny little dignity";
+var mnemonic = "fade draft enemy found prosper toss balcony purchase bronze easy garden brick";

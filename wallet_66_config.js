@@ -1,1 +1,1 @@
-var mnemonic = "car misery federal bulk loud special mesh advance cluster version method monitor";
+var mnemonic = "resist salmon oxygen club clerk sudden snack promote put boat wonder regret";

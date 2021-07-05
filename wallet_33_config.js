@@ -1,1 +1,1 @@
-var mnemonic = "magic sight ethics talk rival creek deny cream lab drip vague devote";
+var mnemonic = "lyrics aisle obvious work permit hungry now wreck suspect lady reunion below";

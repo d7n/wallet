@@ -1,1 +1,1 @@
-var mnemonic = "wrist sense copy lab dash trick shove road faint sell barely clarify";
+var mnemonic = "embark prosper normal project garment man visual denial matter slush gallery census";

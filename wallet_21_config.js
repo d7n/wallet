@@ -1,1 +1,1 @@
-var mnemonic = "gift illness march useless toast theory brave sort nation wise position bulb";
+var mnemonic = "joke slam wrong bargain speak plate ridge vital large engage people street";

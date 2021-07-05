@@ -1,1 +1,1 @@
-var mnemonic = "frost clip method month sad toy access soccer vivid stadium decide spread";
+var mnemonic = "other novel shove seed resist human cruel furnace minute reduce cherry protect";

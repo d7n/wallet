@@ -1,1 +1,1 @@
-var mnemonic = "pitch sound own asset color leave health river powder sell purchase exclude";
+var mnemonic = "cigar extra cactus client minimum much theme diagram urge music organ entry";

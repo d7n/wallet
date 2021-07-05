@@ -1,1 +1,1 @@
-var mnemonic = "ensure retreat spare neutral sugar rice bar order unit reason nature near";
+var mnemonic = "win wage stage swing drum tired private salmon trap until sunset prosper";

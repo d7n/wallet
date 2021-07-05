@@ -1,1 +1,1 @@
-var mnemonic = "leader front render stuff swim wild camp spoon mass salmon tilt parent";
+var mnemonic = "across text prevent pass earth ask plate universe list erode because venue";

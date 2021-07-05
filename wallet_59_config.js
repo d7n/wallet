@@ -1,1 +1,1 @@
-var mnemonic = "ahead upgrade satisfy negative depth link file detail fee illegal permit inmate";
+var mnemonic = "check cross ready notable earn phrase inform crisp noble cup elephant enhance";

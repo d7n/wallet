@@ -1,1 +1,1 @@
-var mnemonic = "alcohol canal scrub lizard vote wife appear fiscal yellow earn must squirrel";
+var mnemonic = "inner method quantum modify gasp want impulse liberty update donate robust sword";

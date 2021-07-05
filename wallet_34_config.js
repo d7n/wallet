@@ -1,1 +1,1 @@
-var mnemonic = "better matrix canyon mercy salt hair check cost reveal author spend labor";
+var mnemonic = "despair slam catch frozen love page race piano exhaust prepare jump short";

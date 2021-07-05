@@ -1,1 +1,1 @@
-var mnemonic = "damp pole fiber rural retreat decide adult interest marriage ridge evidence warrior";
+var mnemonic = "science regular virtual burst illegal blue knee act exhibit speak brass ramp";

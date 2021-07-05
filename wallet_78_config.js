@@ -1,1 +1,1 @@
-var mnemonic = "carry broom erode talent imitate genre praise horn verify alert ensure level";
+var mnemonic = "height ticket matrix stone satisfy document air tell early pig card embrace";

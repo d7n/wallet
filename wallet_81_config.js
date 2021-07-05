@@ -1,1 +1,1 @@
-var mnemonic = "celery shed pool outdoor leopard fossil fancy fiscal owner despair route nuclear";
+var mnemonic = "chase annual security because repeat language trial task alcohol poem breeze comic";

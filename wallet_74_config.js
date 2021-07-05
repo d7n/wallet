@@ -1,1 +1,1 @@
-var mnemonic = "whip void wheel shoot bachelor gauge educate imitate dismiss push phrase aware";
+var mnemonic = "fiscal ecology drink prepare clutch message card photo inner pipe fresh winner";

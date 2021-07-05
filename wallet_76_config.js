@@ -1,1 +1,1 @@
-var mnemonic = "together wait debris shrimp shoulder sure dinner salmon tell spin token impose";
+var mnemonic = "few tissue dash coyote harsh heavy already hungry abuse canal way together";

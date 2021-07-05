@@ -1,1 +1,1 @@
-var mnemonic = "dog fog captain perfect afford alley harsh begin meat tube worry benefit";
+var mnemonic = "smoke royal month crane same cereal win together body radio display tragic";

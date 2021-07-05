@@ -1,1 +1,1 @@
-var mnemonic = "increase cabbage depart door ceiling hotel sentence poem kind unaware account engage";
+var mnemonic = "beef canoe little airport claim real unhappy predict produce elite thought screen";

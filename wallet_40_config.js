@@ -1,1 +1,1 @@
-var mnemonic = "fog ski dinosaur broom advance gown front spring citizen kite fury unique";
+var mnemonic = "code mimic cable island detail target blanket name wire science scissors diagram";

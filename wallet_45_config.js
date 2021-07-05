@@ -1,1 +1,1 @@
-var mnemonic = "plug mind catalog icon faint calm cargo wish feel zoo owner document";
+var mnemonic = "feature festival labor warrior brand pledge syrup grunt wonder blast purpose gauge";

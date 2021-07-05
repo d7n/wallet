@@ -1,1 +1,1 @@
-var mnemonic = "trick blur diary hub umbrella salmon health rate gather rib spy balance";
+var mnemonic = "garlic rigid episode cram candy access capable ready enrich salad subway legend";

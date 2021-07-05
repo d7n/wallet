@@ -1,1 +1,1 @@
-var mnemonic = "theme brisk play pear fashion kind diagram trip ill model bronze echo";
+var mnemonic = "toilet syrup level december coyote often crash sense diamond siren butter grid";

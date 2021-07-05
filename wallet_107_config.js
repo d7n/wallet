@@ -1,1 +1,1 @@
-var mnemonic = "grace nothing lady improve cliff dust humble loan width edge mouse annual";
+var mnemonic = "search candy snake collect craft situate almost soldier thought throw include plug";

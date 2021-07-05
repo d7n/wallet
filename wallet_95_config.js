@@ -1,1 +1,1 @@
-var mnemonic = "twenty wealth misery other fossil ladder genuine monkey word job hockey keen";
+var mnemonic = "infant salt raise spike okay author drama involve you cigar arrive plate";

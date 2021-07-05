@@ -1,1 +1,1 @@
-var mnemonic = "mass group genius bless soap sad run fine price buyer ocean early";
+var mnemonic = "taxi muscle volcano couch shed illness alarm food family inhale theme seek";

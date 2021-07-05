@@ -1,1 +1,1 @@
-var mnemonic = "satoshi betray describe soap outdoor kitten asset actual surround stem mule prefer";
+var mnemonic = "duck split head economy stuff cheese clean taste remind good provide gather";

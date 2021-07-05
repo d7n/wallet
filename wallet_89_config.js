@@ -1,1 +1,1 @@
-var mnemonic = "torch possible width arrow infant position wreck lawn indicate damage dash album";
+var mnemonic = "tape trend flame people frozen rely empower angle baby prosper key limb";

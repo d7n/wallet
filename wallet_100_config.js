@@ -1,1 +1,1 @@
-var mnemonic = "ready wreck frown visa gold vital planet car budget air wave elevator";
+var mnemonic = "surprise rose brass battle forest code toward choose level grace giggle shiver";

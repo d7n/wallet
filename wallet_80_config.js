@@ -1,1 +1,1 @@
-var mnemonic = "frozen scatter bamboo course provide crater round orange cat hazard guitar silent";
+var mnemonic = "lens symptom shell acoustic fit slim angle donor color oak similar collect";

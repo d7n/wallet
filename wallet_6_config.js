@@ -1,1 +1,1 @@
-var mnemonic = "diesel kick item quick improve salute path civil weather pulp mixed assume";
+var mnemonic = "spice sign employ tape affair three crime catch tenant captain stand gadget";

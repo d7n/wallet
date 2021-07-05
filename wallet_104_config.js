@@ -1,1 +1,1 @@
-var mnemonic = "grocery globe live ethics scrap staff alert shed melt execute focus style";
+var mnemonic = "symptom clutch cook call piece inform photo initial attack reflect diet truck";

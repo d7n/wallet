@@ -1,1 +1,1 @@
-var mnemonic = "syrup slender august satisfy super caught nurse title expect ball question bundle";
+var mnemonic = "square zone version entire decade again guitar boy soon gold project reflect";

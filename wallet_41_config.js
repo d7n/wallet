@@ -1,1 +1,1 @@
-var mnemonic = "teach parade short citizen scale welcome puzzle provide member access panic pipe";
+var mnemonic = "feed grunt often april weasel can candy orchard error matter palace sunny";

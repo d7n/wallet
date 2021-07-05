@@ -1,1 +1,1 @@
-var mnemonic = "museum real essay rival diagram pumpkin color habit wedding repair walnut noise";
+var mnemonic = "coin panther destroy balance team usage impulse page tortoise orbit ketchup dolphin";

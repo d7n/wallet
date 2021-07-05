@@ -1,1 +1,1 @@
-var mnemonic = "blur energy bargain negative grab destroy sauce pride february scheme decline ski";
+var mnemonic = "breeze two corn denial asset electric width tent visit wire process budget";

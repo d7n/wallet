@@ -1,1 +1,1 @@
-var mnemonic = "render ozone burst tourist explain man risk aware patch stuff select grab";
+var mnemonic = "salt dignity lunar aunt cherry cigar mutual wreck wait flash blanket pole";

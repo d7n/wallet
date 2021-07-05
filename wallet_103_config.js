@@ -1,1 +1,1 @@
-var mnemonic = "rail mountain expect office mutual maple garlic wheat jump ozone security mass";
+var mnemonic = "salute maze poem olive hundred draw cloth impulse host pact lawsuit switch";

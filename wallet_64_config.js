@@ -1,1 +1,1 @@
-var mnemonic = "carry ocean end pluck borrow correct insane weird next inch drop luggage";
+var mnemonic = "champion student trust glare flash sunny top anchor force display school man";

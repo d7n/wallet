@@ -1,1 +1,1 @@
-var mnemonic = "crush lamp total nephew survey sister island water grant decide length shine";
+var mnemonic = "strong pilot bacon worry know stick sad clean wall will divide excite";

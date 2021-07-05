@@ -1,1 +1,1 @@
-var mnemonic = "clarify habit reopen doctor auto cousin elder hood mule hire vehicle situate";
+var mnemonic = "peanut tip found fruit evidence combine stove system crisp canvas fashion laugh";

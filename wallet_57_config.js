@@ -1,1 +1,1 @@
-var mnemonic = "dose deny swamp check basic cotton image junk harsh curtain rely wise";
+var mnemonic = "wine kiss infant sense brother protect luggage mimic text hockey pyramid surround";

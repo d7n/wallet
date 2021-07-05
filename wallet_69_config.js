@@ -1,1 +1,1 @@
-var mnemonic = "interest release six danger chuckle fall purchase tomorrow find dice snack opera";
+var mnemonic = "action double moral coach script inside minor champion lion sugar lamp gesture";

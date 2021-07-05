@@ -1,1 +1,1 @@
-var mnemonic = "alter crisp huge spatial tube girl tent express soap will blind carbon";
+var mnemonic = "ocean thrive force knee dutch divide square tragic garment mouse absorb bundle";

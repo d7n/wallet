@@ -1,1 +1,1 @@
-var mnemonic = "caught kid aspect orbit party sad brother still gift silent fame broom";
+var mnemonic = "margin silk chapter lonely chunk jelly album virtual analyst protect cupboard barely";

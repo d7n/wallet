@@ -1,1 +1,1 @@
-var mnemonic = "punch moon walk clump discover cliff speak depart gaze panda bubble grow";
+var mnemonic = "upon record inquiry taxi easily soldier patch bind kitten prison people bamboo";

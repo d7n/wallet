@@ -1,1 +1,1 @@
-var mnemonic = "leaf call chase urban disorder sleep learn wrestle person hover cute bulk";
+var mnemonic = "equal way summer fan helmet squirrel symbol fortune wing spin hold main";

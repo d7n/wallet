@@ -1,1 +1,1 @@
-var mnemonic = "walk laundry crumble hole lawn flip arrest loyal guilt mutual echo refuse";
+var mnemonic = "depend shop ranch slot crop shoe vessel fashion similar snack surge like";

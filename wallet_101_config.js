@@ -1,1 +1,1 @@
-var mnemonic = "capital visual water knee gun noodle cement pepper excite paper rib simple";
+var mnemonic = "spike produce jump margin scare hello clay dirt wish cage head moment";

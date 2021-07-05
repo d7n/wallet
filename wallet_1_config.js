@@ -1,1 +1,1 @@
-var mnemonic = "race zero defense february monster grace human vague range size flavor switch";
+var mnemonic = "thing federal exile useless apple dragon frog luggage baby keep inch dove";

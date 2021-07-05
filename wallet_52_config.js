@@ -1,1 +1,1 @@
-var mnemonic = "carpet view detail sing media uncover shadow monkey vocal anxiety claim company";
+var mnemonic = "train museum exact chair rare sniff lecture strike rotate record fragile quarter";

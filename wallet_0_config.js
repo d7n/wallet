@@ -1,1 +1,1 @@
-var mnemonic = "impose adapt drastic potato nothing draft program escape tunnel flee layer quick";
+var mnemonic = "harsh noise menu inspire noble scene item jealous original wrap eternal argue";

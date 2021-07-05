@@ -1,1 +1,1 @@
-var mnemonic = "dove exact island image excess tent solid become shy roof risk wheel";
+var mnemonic = "vicious bone alien school coil street vessel describe junior prevent urge yard";

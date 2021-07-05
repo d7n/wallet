@@ -1,1 +1,1 @@
-var mnemonic = "hope rare citizen sport theme eye portion celery awkward matrix bread arm";
+var mnemonic = "card frost dash grant south gas green buffalo absorb bulb smoke artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "negative mule put affair brain camera wait friend sea buffalo better grocery";
+var mnemonic = "slot police social vast shoulder insect extra student front hobby inch slender";

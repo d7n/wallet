@@ -1,1 +1,1 @@
-var mnemonic = "animal then remove fault silk stock sphere universe original client brand vendor";
+var mnemonic = "business biology begin symptom ship odor near reunion february blue pet wonder";

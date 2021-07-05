@@ -1,1 +1,1 @@
-var mnemonic = "egg brave merry jump regret rate auto report image daring strong skin";
+var mnemonic = "interest social game phone shaft demise pencil word innocent thunder domain logic";

@@ -1,1 +1,1 @@
-var mnemonic = "brother album genius jump donkey dynamic achieve cannon behind all cloud icon";
+var mnemonic = "morning page open video aerobic ski rally alarm office view rent april";

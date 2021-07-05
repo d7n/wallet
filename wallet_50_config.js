@@ -1,1 +1,1 @@
-var mnemonic = "clump debate lens gossip cook tube shock capital piece weird thumb book";
+var mnemonic = "miracle good cause circle uniform match patrol blouse random debris script immune";

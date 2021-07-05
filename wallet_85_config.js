@@ -1,1 +1,1 @@
-var mnemonic = "normal burden evidence home shallow wish mushroom goat height gorilla wool hungry";
+var mnemonic = "barely runway fault supreme nut fold version neither net vendor wink license";

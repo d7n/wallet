@@ -1,1 +1,1 @@
-var mnemonic = "ice artwork garage warm buddy rifle vague hint rug capable image lumber";
+var mnemonic = "orient fade cook fame sunset oval infant pattern link jaguar bachelor rough";

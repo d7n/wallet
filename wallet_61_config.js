@@ -1,1 +1,1 @@
-var mnemonic = "wild panda oval imitate debate few razor athlete clay motion require gap";
+var mnemonic = "hunt reject depart toast fetch opera jelly relax syrup trouble core question";

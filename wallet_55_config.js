@@ -1,1 +1,1 @@
-var mnemonic = "drink strong exercise flavor gold strike mango sentence rebel canoe doctor cram";
+var mnemonic = "magic neglect foot rebel must biology basket bundle industry patch service fetch";

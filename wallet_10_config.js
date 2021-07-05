@@ -1,1 +1,1 @@
-var mnemonic = "text slush year mouse special citizen ceiling onion region siege program connect";
+var mnemonic = "debate fog wet crouch detail sniff always text analyst lake high grief";

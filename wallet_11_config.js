@@ -1,1 +1,1 @@
-var mnemonic = "oval tumble absent wash book aspect medal attitude first manual pony slice";
+var mnemonic = "trial scan neglect dad favorite select gesture plunge upon noble muffin prepare";

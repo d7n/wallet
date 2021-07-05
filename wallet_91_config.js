@@ -1,1 +1,1 @@
-var mnemonic = "salad police stove pretty crystal biology achieve subway inspire echo corn fat";
+var mnemonic = "win project valve athlete coil rich awake myself soup flash inch nest";

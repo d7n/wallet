@@ -1,1 +1,1 @@
-var mnemonic = "salt alert drop steel option client gold dutch dumb retire nothing rib";
+var mnemonic = "famous august return venue system chef message wet already modify slam impact";

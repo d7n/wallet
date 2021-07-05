@@ -1,1 +1,1 @@
-var mnemonic = "cannon barrel person favorite half identify pencil call spend knife cost board";
+var mnemonic = "ill zero forum first chimney across easily jump forum judge cannon develop";

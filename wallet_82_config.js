@@ -1,1 +1,1 @@
-var mnemonic = "frost spring animal slice duty artist music arrow maximum consider melody nation";
+var mnemonic = "seed sign crop drastic world parent eternal oyster nut put bus example";

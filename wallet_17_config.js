@@ -1,1 +1,1 @@
-var mnemonic = "human luxury margin front earth text beef jump congress define pioneer hire";
+var mnemonic = "tell club next add phrase enhance fit tennis glide nose empty such";

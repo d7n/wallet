@@ -1,1 +1,1 @@
-var mnemonic = "tribe social firm brush tenant that retreat valley meat unusual lock lunar";
+var mnemonic = "peasant away bacon obey laugh rule focus valid define two design planet";

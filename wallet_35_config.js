@@ -1,1 +1,1 @@
-var mnemonic = "cattle pull excess board method master scorpion symptom what luggage sniff oblige";
+var mnemonic = "profit paper pledge trash scale sketch february leisure polar solve nurse opera";

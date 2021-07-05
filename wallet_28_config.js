@@ -1,1 +1,1 @@
-var mnemonic = "funny inside eyebrow easily odor panel fall clinic since usual video canal";
+var mnemonic = "surround car orient original embody uniform over genre evidence tourist sight inmate";

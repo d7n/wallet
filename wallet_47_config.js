@@ -1,1 +1,1 @@
-var mnemonic = "used vendor nerve match coast ankle dial toy yard snap trumpet ignore";
+var mnemonic = "icon speed carry volume raise lady upon pencil morning autumn math business";

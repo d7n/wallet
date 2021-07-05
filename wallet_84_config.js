@@ -1,1 +1,1 @@
-var mnemonic = "soul same aware soldier outdoor october budget stomach actress move wrist rather";
+var mnemonic = "liquid machine nut tube romance belt angle rate coin ginger wrong horn";

@@ -1,1 +1,1 @@
-var mnemonic = "engage loop hobby try hamster around damp issue swallow access kid panther";
+var mnemonic = "educate busy surprise egg school tiger arena size double autumn gym more";

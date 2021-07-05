@@ -1,1 +1,1 @@
-var mnemonic = "country pepper icon donor proof media behave grow net jewel find account";
+var mnemonic = "column jaguar snack soul mask menu tiger skill hint sunset seven rubber";
