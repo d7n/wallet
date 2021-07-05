@@ -1,1 +1,1 @@
-var mnemonic = "category squirrel praise play hungry fly devote seminar struggle kick soldier dwarf";
+var mnemonic = "expand meadow dinosaur average drink weather blood rice pluck napkin place miracle";

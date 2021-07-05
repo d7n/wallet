@@ -1,1 +1,1 @@
-var mnemonic = "hybrid subway clarify error swim voyage yard upon brave satoshi light lesson";
+var mnemonic = "struggle essay forest gesture typical sentence doctor point stem often lazy soft";

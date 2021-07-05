@@ -1,1 +1,1 @@
-var mnemonic = "breeze lava endorse key render control convince fringe crunch defense salon play";
+var mnemonic = "skull spawn cabbage junior side author protect ring session duck unaware tongue";

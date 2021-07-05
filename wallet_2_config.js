@@ -1,1 +1,1 @@
-var mnemonic = "layer obvious alien color buzz thumb sign panda remind profit flip glow";
+var mnemonic = "when bean sauce bitter draw nominee stay season recycle skull brick tube";

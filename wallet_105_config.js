@@ -1,1 +1,1 @@
-var mnemonic = "core slot father pattern actor acquire pupil equal document acid blind misery";
+var mnemonic = "wagon speed destroy also museum slush speed asthma angle power hotel april";

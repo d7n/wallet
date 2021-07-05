@@ -1,1 +1,1 @@
-var mnemonic = "dragon evoke update vacant pepper switch blame junior borrow family possible cherry";
+var mnemonic = "scorpion loud unhappy acquire since myth enlist veteran hobby any pistol talent";

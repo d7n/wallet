@@ -1,1 +1,1 @@
-var mnemonic = "bracket baby believe brown basic legend source spray move include globe wedding";
+var mnemonic = "because warrior six hold satoshi clip stage remind two jump draw street";

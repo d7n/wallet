@@ -1,1 +1,1 @@
-var mnemonic = "decorate stereo control rule swing fluid already bicycle promote season exact salad";
+var mnemonic = "method gap brick green buyer man pilot creek daughter iron seminar crystal";

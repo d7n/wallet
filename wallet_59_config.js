@@ -1,1 +1,1 @@
-var mnemonic = "misery govern antique believe afford bone spot ceiling more sort march dilemma";
+var mnemonic = "celery siren vague river wasp bronze process recall evil action public session";

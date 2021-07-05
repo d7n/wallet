@@ -1,1 +1,1 @@
-var mnemonic = "abandon kite glove sheriff thunder reform hockey friend oven weather police depth";
+var mnemonic = "fox gap cement alarm thought gown fame vendor summer pretty vote cream";

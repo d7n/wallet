@@ -1,1 +1,1 @@
-var mnemonic = "suit gown usual wealth film same cart view ranch wing sunset ozone";
+var mnemonic = "motor alpha draft code picture hurry sure plate inquiry extra much chunk";

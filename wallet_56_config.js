@@ -1,1 +1,1 @@
-var mnemonic = "panic tragic badge drift faculty warm tooth setup donkey industry verify enough";
+var mnemonic = "claim robot thank panther lyrics winter pride oyster retire machine choice picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "divert frost mask solution say decade silver mimic kitchen return typical pill";
+var mnemonic = "prison sister army accuse wink enforce tool draw caught invite bird theme";

@@ -1,1 +1,1 @@
-var mnemonic = "congress uniform tobacco list anger guide estate afraid hood evil just other";
+var mnemonic = "brief donate identify aerobic over brush trophy jacket gloom drift wisdom range";

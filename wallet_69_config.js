@@ -1,1 +1,1 @@
-var mnemonic = "permit modify artwork trick lake elephant legal spice cross flush abstract planet";
+var mnemonic = "purpose island peace move inch silk movie garage marine submit state draft";

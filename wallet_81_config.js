@@ -1,1 +1,1 @@
-var mnemonic = "gun dune horror spy inflict main solution session various multiply tide seek";
+var mnemonic = "crew fly behind palm silly awake apple giant boil fatal usual effort";

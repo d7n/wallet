@@ -1,1 +1,1 @@
-var mnemonic = "goat snap when manual decline hedgehog exhaust return robot absent require element";
+var mnemonic = "gospel almost expire raise excite eager bridge chuckle evil fortune hotel elephant";

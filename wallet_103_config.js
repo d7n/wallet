@@ -1,1 +1,1 @@
-var mnemonic = "burst man seek material silver valley miracle chef actor junior bacon boss";
+var mnemonic = "tortoise narrow divide future attitude dolphin hip oxygen keep deny amount home";

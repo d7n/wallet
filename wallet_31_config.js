@@ -1,1 +1,1 @@
-var mnemonic = "volume team trash social topic novel lock feature area oblige still slab";
+var mnemonic = "soldier special boss today favorite fault kangaroo congress warfare panel undo hunt";

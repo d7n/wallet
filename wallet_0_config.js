@@ -1,1 +1,1 @@
-var mnemonic = "orange elite marine sunny hockey inhale spring survey habit steak crouch ecology";
+var mnemonic = "orphan pony rack harvest surround scout post input monitor bid comfort boring";

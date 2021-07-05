@@ -1,1 +1,1 @@
-var mnemonic = "visit fragile torch desk cheese will cube screen scrub main check donkey";
+var mnemonic = "resource mobile cargo trash clutch wave eager school nominee note youth license";

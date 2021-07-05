@@ -1,1 +1,1 @@
-var mnemonic = "become better orient market tape regular puzzle violin subject stable alcohol language";
+var mnemonic = "close wheat police truly trust used banana marriage live riot coin awesome";

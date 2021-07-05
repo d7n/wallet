@@ -1,1 +1,1 @@
-var mnemonic = "liberty drink rapid matrix actor sort carry cousin pond hurry future crumble";
+var mnemonic = "course reduce mistake vivid crunch book trial minor dove please trouble bullet";

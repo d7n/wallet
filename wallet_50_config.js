@@ -1,1 +1,1 @@
-var mnemonic = "update whip fantasy street educate raw home shadow struggle clerk left video";
+var mnemonic = "armor spatial evoke phrase custom original expect survey humble viable foot dismiss";

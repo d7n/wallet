@@ -1,1 +1,1 @@
-var mnemonic = "famous dash violin paper mutual height ostrich climb marine airport gold pass";
+var mnemonic = "special copy damage sort agree luggage try there penalty achieve mad budget";

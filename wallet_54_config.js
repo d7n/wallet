@@ -1,1 +1,1 @@
-var mnemonic = "vicious record goddess patrol spirit notable coral gate tail buyer boring answer";
+var mnemonic = "cycle pyramid wedding lazy invest measure vendor drill pride unit liar design";

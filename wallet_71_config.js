@@ -1,1 +1,1 @@
-var mnemonic = "garment rapid half bus rough tip kid pumpkin execute again peasant aim";
+var mnemonic = "moon river bag soda call very subject barrel box lady ensure arm";

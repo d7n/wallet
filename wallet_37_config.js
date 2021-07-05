@@ -1,1 +1,1 @@
-var mnemonic = "language car hamster double cigar good extend analyst whale frog thing affair";
+var mnemonic = "glove subway avocado input upgrade will traffic mechanic review essence tribe link";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage chapter notable napkin symptom clinic gloom upon mango addict diagram matter";
+var mnemonic = "upper purchase multiply poverty vacant crouch attract senior night crucial garbage easily";

@@ -1,1 +1,1 @@
-var mnemonic = "birth choice twice harvest exhaust suit law scan elder chicken equal balcony";
+var mnemonic = "today fly tumble wasp rough narrow hand digital rigid lobster sentence glide";

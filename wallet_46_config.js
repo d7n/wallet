@@ -1,1 +1,1 @@
-var mnemonic = "fox foot explain resource ignore blanket rack stock lunch crane pig basket";
+var mnemonic = "involve young wrist lucky walnut they ability order wisdom wage iron round";

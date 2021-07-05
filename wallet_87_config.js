@@ -1,1 +1,1 @@
-var mnemonic = "better wage pulse shiver bacon receive leisure sudden cause want wage tower";
+var mnemonic = "veteran rebuild spy spike trash dirt can hunt legal pitch method eager";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon burden someone pistol common tobacco emerge voyage venue wear sudden maid";
+var mnemonic = "vivid peanut embark alley high lunar confirm woman trip taste cruel seed";

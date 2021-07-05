@@ -1,1 +1,1 @@
-var mnemonic = "until shrug spring draft uphold merge fuel lock debris color wall fence";
+var mnemonic = "uniform outside police basket clutch all panda good outer mountain rely pause";

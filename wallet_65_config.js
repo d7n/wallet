@@ -1,1 +1,1 @@
-var mnemonic = "shield together furnace sell situate enroll kit proof dream nasty core time";
+var mnemonic = "catch royal uncle embrace force leg leader cheap rate cluster parent youth";

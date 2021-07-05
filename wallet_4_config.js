@@ -1,1 +1,1 @@
-var mnemonic = "betray trust busy turkey apple lava burden wealth renew exit exclude fiction";
+var mnemonic = "raw lumber second amateur original aspect file van spend palm dumb abuse";

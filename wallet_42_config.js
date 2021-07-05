@@ -1,1 +1,1 @@
-var mnemonic = "diet portion shadow ensure view bind worth multiply eager language asthma embody";
+var mnemonic = "ball void lizard stamp elevator share define wear rate screen pond raw";

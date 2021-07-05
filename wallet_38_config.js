@@ -1,1 +1,1 @@
-var mnemonic = "evil history improve bar picture talent lion better multiply cherry isolate art";
+var mnemonic = "head sentence demand tide table crowd milk unhappy ten favorite angry abuse";

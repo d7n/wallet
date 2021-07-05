@@ -1,1 +1,1 @@
-var mnemonic = "lava unusual dog monitor label flush slogan maple actress history scare copper";
+var mnemonic = "soda kiss object lend rain isolate mask farm live razor shed taste";

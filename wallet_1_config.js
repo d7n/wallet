@@ -1,1 +1,1 @@
-var mnemonic = "note inflict helmet usual camp remove fabric loud type step cause better";
+var mnemonic = "build cancel knee genuine fee wife breeze once ability dentist future winter";

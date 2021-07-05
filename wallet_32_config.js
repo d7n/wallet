@@ -1,1 +1,1 @@
-var mnemonic = "early excite guitar sense marble erosion body moral garbage dune metal license";
+var mnemonic = "unique lesson series play merry easily pledge frown rain village defy tomorrow";

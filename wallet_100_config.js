@@ -1,1 +1,1 @@
-var mnemonic = "floor blast involve liar notable hobby true traffic say under borrow birth";
+var mnemonic = "chicken rent addict pilot art sight alter divert enhance august royal bomb";

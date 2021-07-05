@@ -1,1 +1,1 @@
-var mnemonic = "ivory onion deer monkey easy barely apology truth large language elevator salon";
+var mnemonic = "venture link cable rough vacant elite company hobby charge zoo twin output";

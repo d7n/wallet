@@ -1,1 +1,1 @@
-var mnemonic = "alley arrow glow chapter stand celery suit weird setup expire portion bacon";
+var mnemonic = "sustain angle real federal medal pet result roast vivid hub female lawsuit";

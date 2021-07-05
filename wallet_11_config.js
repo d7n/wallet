@@ -1,1 +1,1 @@
-var mnemonic = "digital craft kidney guitar dismiss spike armed mirror second problem uncover wheat";
+var mnemonic = "anchor panda climb cable panel thank among side thought square install present";

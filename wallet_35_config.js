@@ -1,1 +1,1 @@
-var mnemonic = "approve media trouble luggage tattoo voyage lift stage globe surprise valley spoil";
+var mnemonic = "daring detail idle lab winner finish consider web love snake oil payment";

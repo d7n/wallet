@@ -1,1 +1,1 @@
-var mnemonic = "six spray canyon embark unit throw rough column hedgehog space other essence";
+var mnemonic = "cereal tuna hover depend cliff anxiety snack secret will later easy assist";

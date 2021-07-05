@@ -1,1 +1,1 @@
-var mnemonic = "surround hollow motor exchange pause fan harbor label emotion clown knife enough";
+var mnemonic = "sort foam snack pulse stock sleep enlist true badge icon diary family";

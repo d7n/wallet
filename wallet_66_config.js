@@ -1,1 +1,1 @@
-var mnemonic = "rally moral orbit shine unfair describe fault baby early oppose volcano thought";
+var mnemonic = "assume scale planet river stay slogan twist bubble happy laptop library fish";

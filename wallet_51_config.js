@@ -1,1 +1,1 @@
-var mnemonic = "wife suit salmon ski result long domain degree skin eagle design extra";
+var mnemonic = "circle bounce ten alert grit never very curious auction inside dizzy trial";

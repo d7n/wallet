@@ -1,1 +1,1 @@
-var mnemonic = "decline deputy avocado ice miracle vast evolve summer wealth riot jazz daring";
+var mnemonic = "smile delay jealous click enhance major stable wrap one fever soldier engine";

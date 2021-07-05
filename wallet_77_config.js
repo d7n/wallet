@@ -1,1 +1,1 @@
-var mnemonic = "uncle earth milk salmon bread key because large snap tent pupil blame";
+var mnemonic = "rebel position despair clinic cake rifle chapter uncover pitch horror rhythm observe";

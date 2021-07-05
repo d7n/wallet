@@ -1,1 +1,1 @@
-var mnemonic = "begin remember twin disease believe tower polar input evoke oak arm gas";
+var mnemonic = "useless candy cushion unhappy habit lion settle hill evoke sting market venue";

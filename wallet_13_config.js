@@ -1,1 +1,1 @@
-var mnemonic = "filter cable marriage toddler drip security lonely bench increase lamp fold easy";
+var mnemonic = "picnic act raven soccer cabin sauce divide scorpion cherry prepare boat walk";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak expect sniff repeat vacant agree slide fish vault soon plastic enlist";
+var mnemonic = "lava mention number arrive rural hidden remind crawl moon ship engine dice";

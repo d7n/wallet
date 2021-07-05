@@ -1,1 +1,1 @@
-var mnemonic = "tomato pen swap manage finish cover coil abuse relief alone april belt";
+var mnemonic = "august age sentence nominee sunset glance decorate primary wait embark alien crash";

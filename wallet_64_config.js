@@ -1,1 +1,1 @@
-var mnemonic = "suggest pen island opera swarm evil always dynamic champion about flush minute";
+var mnemonic = "vital tourist empty jaguar wolf cabbage admit invite much hawk crush faint";

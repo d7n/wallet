@@ -1,1 +1,1 @@
-var mnemonic = "all repeat deputy nurse divorce mirror scheme capable undo drift wonder possible";
+var mnemonic = "solve soul wet same diet glide alpha enjoy imitate ghost rhythm dance";

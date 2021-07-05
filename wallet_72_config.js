@@ -1,1 +1,1 @@
-var mnemonic = "promote legal myth insane sun boss prize exercise indoor glad express never";
+var mnemonic = "either client unknown pipe poet clean success protect twenty expand update abandon";

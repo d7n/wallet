@@ -1,1 +1,1 @@
-var mnemonic = "roof music search debris host window critic interest pioneer feature thought mouse";
+var mnemonic = "quarter million jar enrich illness rib similar grief short sustain rule install";

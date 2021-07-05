@@ -1,1 +1,1 @@
-var mnemonic = "key cluster remove raven hobby swing tray dose chuckle sight sense apple";
+var mnemonic = "divorce slice staff come magic humor churn toe donate venture flower parent";

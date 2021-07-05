@@ -1,1 +1,1 @@
-var mnemonic = "stick else skate funny monkey badge gold sphere thought satisfy plate tool";
+var mnemonic = "team borrow useless loud spin dice almost local what cycle result dial";

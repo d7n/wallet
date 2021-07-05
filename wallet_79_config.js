@@ -1,1 +1,1 @@
-var mnemonic = "spice weird feel lock include zebra frequent hobby since rebel hood require";
+var mnemonic = "grant prosper run tag maze success silly gun ramp home penalty cost";

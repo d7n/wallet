@@ -1,1 +1,1 @@
-var mnemonic = "pyramid guard observe provide end hero urban banner junk tide load scorpion";
+var mnemonic = "dash that code drive hand bicycle feed pole village intact unveil federal";

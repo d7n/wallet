@@ -1,1 +1,1 @@
-var mnemonic = "fan usage people denial renew imitate tray win minor market boring film";
+var mnemonic = "brown square spice junior wet wish flight syrup define palm sugar wall";

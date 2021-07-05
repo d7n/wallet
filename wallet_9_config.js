@@ -1,1 +1,1 @@
-var mnemonic = "blanket grain evolve stock among spare armor labor opera dentist group index";
+var mnemonic = "velvet empty spring lyrics bright side extra stove into card negative employ";

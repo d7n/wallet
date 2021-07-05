@@ -1,1 +1,1 @@
-var mnemonic = "sudden fatal twelve eager flat fantasy achieve mistake teach sample energy pave";
+var mnemonic = "runway monkey dragon lucky enable bargain small own police shoe door have";

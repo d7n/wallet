@@ -1,1 +1,1 @@
-var mnemonic = "prevent frequent sun idea walk blast street random grief horse unable veteran";
+var mnemonic = "rain rebuild obey wedding puppy key what define follow heart obscure often";

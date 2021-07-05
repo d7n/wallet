@@ -1,1 +1,1 @@
-var mnemonic = "energy sea they forward drill tomorrow march merge tube excess piano liar";
+var mnemonic = "midnight aerobic inmate accuse illegal horror riot physical athlete glance velvet avocado";

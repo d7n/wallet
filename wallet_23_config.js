@@ -1,1 +1,1 @@
-var mnemonic = "squeeze milk autumn fly wolf language advice involve fly apple main harbor";
+var mnemonic = "barely sudden cupboard humble install unaware arrive venture income vote turtle divert";

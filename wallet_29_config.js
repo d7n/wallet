@@ -1,1 +1,1 @@
-var mnemonic = "ring announce heart cream rug fix awake true original pepper engage cream";
+var mnemonic = "bean rigid rough rescue betray author math engage snow tragic future immense";

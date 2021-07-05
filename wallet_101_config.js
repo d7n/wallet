@@ -1,1 +1,1 @@
-var mnemonic = "lyrics try piano retire birth eagle silent catch start idle finger near";
+var mnemonic = "visit state drill fluid elegant jar hole tool weather drink recycle remain";

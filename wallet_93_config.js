@@ -1,1 +1,1 @@
-var mnemonic = "aspect transfer message cycle extend thrive share wheel track motor large ill";
+var mnemonic = "corn palace more science detect focus since mango unveil fog name visit";

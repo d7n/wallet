@@ -1,1 +1,1 @@
-var mnemonic = "spice betray copy gate random initial disease enlist bargain blossom figure shift";
+var mnemonic = "useless mail honey answer grit result draw cart canal rifle other own";

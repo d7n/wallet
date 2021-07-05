@@ -1,1 +1,1 @@
-var mnemonic = "wash faint infant helmet entry adult industry rate solution sample april sort";
+var mnemonic = "reduce replace limb fade enforce wheel guard head erosion lucky lamp vague";

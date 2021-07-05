@@ -1,1 +1,1 @@
-var mnemonic = "enough jaguar century surge best balcony spike also planet maze keep sing";
+var mnemonic = "waste video scorpion ask random evil seek lecture eager example dream vault";

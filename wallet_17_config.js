@@ -1,1 +1,1 @@
-var mnemonic = "aware cash forum dragon online trophy always burger until ghost sea topic";
+var mnemonic = "talent excite hill nuclear deliver prosper nut object denial rather hint praise";

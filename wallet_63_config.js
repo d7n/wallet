@@ -1,1 +1,1 @@
-var mnemonic = "scare barely dune expire rabbit busy south loud thunder hub alert seed";
+var mnemonic = "fault fruit office under chapter improve void laptop knee devote extend bring";

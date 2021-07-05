@@ -1,1 +1,1 @@
-var mnemonic = "label ostrich clay brief minute exhibit drift harvest caught vivid rule soup";
+var mnemonic = "social crush toss around bubble ensure sword eight true basket muffin margin";

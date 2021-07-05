@@ -1,1 +1,1 @@
-var mnemonic = "april wood soul cigar doll acoustic hazard copy monitor vibrant tone smile";
+var mnemonic = "alarm that position dry aware six camp pudding flock oxygen thought indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "adult satisfy almost lonely grape enable forest mail still letter honey month";
+var mnemonic = "vague awkward grape tell lobster script aerobic parent trust imitate castle doll";

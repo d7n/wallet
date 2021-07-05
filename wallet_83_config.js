@@ -1,1 +1,1 @@
-var mnemonic = "shoe next problem decade firm mistake casual fitness midnight web bunker blade";
+var mnemonic = "history image cinnamon hurdle coach mammal trophy vague winner night pepper surprise";

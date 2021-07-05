@@ -1,1 +1,1 @@
-var mnemonic = "topic diamond virus attract type doctor board erase rose option twelve marble";
+var mnemonic = "cousin release horn merit alley uniform quick unfold ethics rescue vendor pony";

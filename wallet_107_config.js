@@ -1,1 +1,1 @@
-var mnemonic = "spend involve settle rail pride tongue evolve tape caution crawl snap endless";
+var mnemonic = "banner virtual mind special hood spider deer illness year peanut aware collect";

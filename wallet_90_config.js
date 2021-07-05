@@ -1,1 +1,1 @@
-var mnemonic = "army nothing august base negative bring penalty leaf uncle elegant visit wise";
+var mnemonic = "diesel assault crazy initial path logic leader short service jazz target unique";

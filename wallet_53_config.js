@@ -1,1 +1,1 @@
-var mnemonic = "mass stereo similar toast say involve chalk era problem tackle tank sunset";
+var mnemonic = "retire swing setup dynamic page text spider version dose plate harsh cruise";

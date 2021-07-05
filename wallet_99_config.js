@@ -1,1 +1,1 @@
-var mnemonic = "ethics beach trend nothing success brand drum tiny more duty first palace";
+var mnemonic = "trade soccer sound effort green spare panel donate armed country shadow engage";

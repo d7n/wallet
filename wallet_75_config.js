@@ -1,1 +1,1 @@
-var mnemonic = "match warfare infant gasp nose slab timber verify message jump orient clown";
+var mnemonic = "control describe west short weird trade donate uphold multiply feel record mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "foot physical awkward boring lens suffer iron soccer spread orphan sense sudden";
+var mnemonic = "recipe snake fiber snap vault garlic ability clump pelican cup oak stereo";

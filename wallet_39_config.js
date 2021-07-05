@@ -1,1 +1,1 @@
-var mnemonic = "labor prevent teach scene prepare detect online narrow promote trust struggle mass";
+var mnemonic = "bridge bag position quit dad topic exist impact unfair lion happy guilt";

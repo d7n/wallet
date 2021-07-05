@@ -1,1 +1,1 @@
-var mnemonic = "response cat either craft dish fury age arch pink boost play switch";
+var mnemonic = "maple hazard test cover net minimum fix hunt mention absent dwarf away";

@@ -1,1 +1,1 @@
-var mnemonic = "topple snow goat coyote accident siege argue bunker prison joke boss piano";
+var mnemonic = "mushroom decade aerobic say identify suspect easy pencil whale join gun island";

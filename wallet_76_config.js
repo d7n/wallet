@@ -1,1 +1,1 @@
-var mnemonic = "fall brick peanut slim walk royal era teach series canvas palace worry";
+var mnemonic = "jazz card tag sunset beef square rigid best govern coyote worry metal";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur wrestle relief holiday system travel hold around cave another want picture";
+var mnemonic = "rich sun midnight athlete fire cruel blush wood gadget asthma polar spin";

@@ -1,1 +1,1 @@
-var mnemonic = "water anger letter slot alert beyond jacket foot deal nature trash chef";
+var mnemonic = "asset butter tackle among season image orient ability task ring begin knife";
