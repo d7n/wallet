@@ -1,1 +1,1 @@
-var mnemonic = "hub rival someone foster love village essay pledge melt endorse opinion advice";
+var mnemonic = "join mention approve avoid unfair toast famous good awake mail bacon tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "manage trumpet entire panda security hold hedgehog use torch ring actress friend";
+var mnemonic = "lottery digital pause night afraid bulk damage foam comfort nurse correct law";

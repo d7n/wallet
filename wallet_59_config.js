@@ -1,1 +1,1 @@
-var mnemonic = "grain oil advance post transfer chair sketch merry muscle still fatal coil";
+var mnemonic = "bullet call cycle leader monkey exile kite chase exile august afraid flame";

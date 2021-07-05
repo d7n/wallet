@@ -1,1 +1,1 @@
-var mnemonic = "execute awesome note duty ten sail common explain wreck swing valve cloud";
+var mnemonic = "enlist deposit muscle jeans kingdom space mix toast urban penalty fancy diet";

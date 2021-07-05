@@ -1,1 +1,1 @@
-var mnemonic = "shadow grass west umbrella circle output very unaware paper great come grid";
+var mnemonic = "chimney beauty inner truly eyebrow stamp input delay damage guess return wet";

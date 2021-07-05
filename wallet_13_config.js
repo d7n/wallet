@@ -1,1 +1,1 @@
-var mnemonic = "cat dutch oil special vapor business squirrel easily say derive million robust";
+var mnemonic = "neither lend say myself actual fall benefit quarter fat cousin wise helmet";

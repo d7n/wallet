@@ -1,1 +1,1 @@
-var mnemonic = "right cart scale theory hub put surround session hub rough delay winner";
+var mnemonic = "picnic nasty among victory tonight glare arrive artwork want destroy short transfer";

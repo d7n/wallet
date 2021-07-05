@@ -1,1 +1,1 @@
-var mnemonic = "mask region kid rail turtle caution calm believe head snake pig wife";
+var mnemonic = "acid violin dry tide music maximum marine session ridge famous mountain claw";

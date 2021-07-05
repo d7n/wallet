@@ -1,1 +1,1 @@
-var mnemonic = "gauge twenty brass north range pitch rack engine spy keep nominee easy";
+var mnemonic = "regret pumpkin valley exact powder tape camera forget buzz prison fancy total";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut general effort busy govern rival velvet cat notice sign dirt fee";
+var mnemonic = "medal turkey image coil dad super soul ball thank wreck lift will";

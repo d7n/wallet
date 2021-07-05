@@ -1,1 +1,1 @@
-var mnemonic = "good tortoise guitar fold evolve pulp this fade hybrid gift bachelor aim";
+var mnemonic = "fluid tenant federal wire toy hello cool cable cry jungle liar hurt";

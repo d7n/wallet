@@ -1,1 +1,1 @@
-var mnemonic = "grit feature glide burst protect helmet oxygen piece noise cabbage tragic monster";
+var mnemonic = "dune nothing judge buzz candy cross develop gather produce pyramid bitter raw";

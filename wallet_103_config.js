@@ -1,1 +1,1 @@
-var mnemonic = "enrich boat bronze magnet action oyster shop sudden timber cook base second";
+var mnemonic = "dirt ranch peanut enough nothing rough under path bulk nuclear canoe beauty";

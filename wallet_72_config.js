@@ -1,1 +1,1 @@
-var mnemonic = "burst peace person position cherry sad seek prize say episode frequent fatal";
+var mnemonic = "mouse shadow warm element melt flame bullet base barely fun hint short";

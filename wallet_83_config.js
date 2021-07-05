@@ -1,1 +1,1 @@
-var mnemonic = "escape track twin dad manual monitor range song feature fork economy pink";
+var mnemonic = "sure cram measure faith elegant network wet note breeze this depend devote";

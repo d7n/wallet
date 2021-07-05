@@ -1,1 +1,1 @@
-var mnemonic = "earn produce later float pole atom simple matter old clarify beef capital";
+var mnemonic = "chase foam decide school swamp able finish danger inform gauge kid degree";

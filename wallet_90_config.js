@@ -1,1 +1,1 @@
-var mnemonic = "law laugh two bleak grocery kiss pluck close claw floor tree hybrid";
+var mnemonic = "aware hen panel quote any youth angle term pill size suggest catalog";

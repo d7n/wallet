@@ -1,1 +1,1 @@
-var mnemonic = "object blanket inherit private motion quantum renew speed together three glare valley";
+var mnemonic = "great tray sketch puppy private cage emerge inform must analyst find certain";

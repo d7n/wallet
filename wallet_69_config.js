@@ -1,1 +1,1 @@
-var mnemonic = "program deputy wrong sentence crack cluster cotton clay six crucial advice tiny";
+var mnemonic = "antenna exact curious junior camp square elite antenna clerk check tilt uniform";

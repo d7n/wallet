@@ -1,1 +1,1 @@
-var mnemonic = "riot crumble silver produce nurse gadget above crew bonus entry social traffic";
+var mnemonic = "path spread beef couch evolve tide power spare memory winter fatigue palace";

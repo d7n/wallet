@@ -1,1 +1,1 @@
-var mnemonic = "yellow outdoor define reject cream loan subway list report dismiss ability tomato";
+var mnemonic = "vote noise distance salad fold second venue admit bird alarm stock wedding";

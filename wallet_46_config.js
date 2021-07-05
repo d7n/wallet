@@ -1,1 +1,1 @@
-var mnemonic = "rally sibling list lawn boss wool ride undo loan foot lazy mule";
+var mnemonic = "boil ridge thank trumpet save chunk review water flight post honey liar";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic ship humor diet guess symbol vague walk program someone fresh vendor";
+var mnemonic = "trap model first motion act basic over pass blind zero renew cactus";

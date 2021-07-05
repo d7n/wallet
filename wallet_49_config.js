@@ -1,1 +1,1 @@
-var mnemonic = "coffee entry chat pet innocent orange sphere dentist want seat baby unlock";
+var mnemonic = "cannon capital empower tide outer swing toast try harvest sad attitude jar";

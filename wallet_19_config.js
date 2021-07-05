@@ -1,1 +1,1 @@
-var mnemonic = "uphold bid bonus ecology foster mirror please love draft noise scatter various";
+var mnemonic = "mean gun captain earn hello vivid immune drip plunge outdoor drive tenant";

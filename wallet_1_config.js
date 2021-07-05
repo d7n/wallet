@@ -1,1 +1,1 @@
-var mnemonic = "south song hundred minute garage rack athlete wrist engage melody tiny hero";
+var mnemonic = "major camp wagon priority solve demise song silent visual valid cream fly";

@@ -1,1 +1,1 @@
-var mnemonic = "brother crush calm mechanic express yard cement caution layer list perfect question";
+var mnemonic = "doctor pass naive hotel wait truly glory soon accident actress increase symbol";

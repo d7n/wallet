@@ -1,1 +1,1 @@
-var mnemonic = "wink piece settle hero runway father federal atom south system record item";
+var mnemonic = "vicious robust puzzle engine until chicken field gauge carry chaos exotic feed";

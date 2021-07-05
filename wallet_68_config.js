@@ -1,1 +1,1 @@
-var mnemonic = "bean orphan buddy blouse hobby swallow dad math sick stick double jungle";
+var mnemonic = "cigar bread illegal water visit chest lobster trick engage coconut easy embark";

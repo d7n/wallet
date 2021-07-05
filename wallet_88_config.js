@@ -1,1 +1,1 @@
-var mnemonic = "topic dog warrior push manual verb gather ship radio pizza lesson one";
+var mnemonic = "board walk jealous stand use wealth pretty mammal prison cause bike ready";

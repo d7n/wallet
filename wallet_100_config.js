@@ -1,1 +1,1 @@
-var mnemonic = "glow nuclear page dwarf neither oxygen indicate bike junior attitude tube face";
+var mnemonic = "keen force metal easy choose crane blade guitar secret dress brown tomato";

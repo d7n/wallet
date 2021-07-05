@@ -1,1 +1,1 @@
-var mnemonic = "host trick such trust sleep oil intact noble nice shadow outdoor bundle";
+var mnemonic = "have table autumn indicate dream plate before enable fatigue cart answer regular";

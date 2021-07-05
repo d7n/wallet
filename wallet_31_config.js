@@ -1,1 +1,1 @@
-var mnemonic = "giggle sister just blast state armor neither dynamic cradle donor throw neither";
+var mnemonic = "quiz wrap volume grant text mask grunt among engage pole razor term";

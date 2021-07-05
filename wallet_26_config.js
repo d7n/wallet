@@ -1,1 +1,1 @@
-var mnemonic = "visit reject air decline design legal summer tortoise evil parent despair famous";
+var mnemonic = "left shift fabric vehicle cube stool regular current world clean skill senior";

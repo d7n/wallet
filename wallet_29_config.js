@@ -1,1 +1,1 @@
-var mnemonic = "armed eight slam transfer love strategy cable tissue loan sort month wild";
+var mnemonic = "palace hover token length battle dwarf math sure hammer draw state save";

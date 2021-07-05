@@ -1,1 +1,1 @@
-var mnemonic = "drink object assume sick poem number zoo trade chimney circle hero earn";
+var mnemonic = "trouble pitch atom hidden merit tower thought cloud usage tired flower private";

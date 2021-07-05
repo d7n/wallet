@@ -1,1 +1,1 @@
-var mnemonic = "insane split seek piano faith remove festival tone envelope boil brush pudding";
+var mnemonic = "you power retreat audit fine congress need artwork air tube poet vessel";

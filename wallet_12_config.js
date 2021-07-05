@@ -1,1 +1,1 @@
-var mnemonic = "spoil laptop novel gadget portion destroy enact decrease scan father amount screen";
+var mnemonic = "shove lobster develop twist rally tool peanut nose stay eager abstract vapor";

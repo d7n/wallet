@@ -1,1 +1,1 @@
-var mnemonic = "school toe salon divide fancy bulb regret rural sausage twelve estate obey";
+var mnemonic = "ostrich enlist egg cruise olympic uncover zoo write logic mushroom patrol visual";

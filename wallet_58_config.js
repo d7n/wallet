@@ -1,1 +1,1 @@
-var mnemonic = "escape crumble fine bulk garment width happy error dry elder film maid";
+var mnemonic = "degree carry another clarify provide write exact junior unique crunch physical gain";

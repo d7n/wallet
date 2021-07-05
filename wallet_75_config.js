@@ -1,1 +1,1 @@
-var mnemonic = "supreme fiscal glance notice later moment walnut off cotton leisure wise hybrid";
+var mnemonic = "cry brother regret domain width ivory bronze mansion hurry raw enroll swing";

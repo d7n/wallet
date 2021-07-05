@@ -1,1 +1,1 @@
-var mnemonic = "drama polar embark enact frequent banana hard dish bottom junk clean dial";
+var mnemonic = "settle suit omit timber lecture economy jar around mercy gown salon foot";

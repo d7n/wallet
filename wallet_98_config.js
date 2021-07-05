@@ -1,1 +1,1 @@
-var mnemonic = "search reason okay anger glare arch insect flag spy carry ten predict";
+var mnemonic = "avocado ranch trap junior ketchup turn you already source seed mix laugh";

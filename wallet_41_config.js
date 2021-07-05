@@ -1,1 +1,1 @@
-var mnemonic = "rookie belt board orient diagram romance waste neutral clump section abstract cable";
+var mnemonic = "matter fine whisper coconut sphere anger frequent grain various wrestle holiday asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "vote distance spatial park artwork plug velvet veteran imitate vicious minor atom";
+var mnemonic = "raven grace chest gossip fork water exist bunker aunt alpha visa sense";

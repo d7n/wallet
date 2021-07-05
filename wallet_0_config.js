@@ -1,1 +1,1 @@
-var mnemonic = "cause damp parade nasty fossil bounce female recall dice wink nation sweet";
+var mnemonic = "peanut sausage market version victory fresh grain ordinary reopen joke decorate despair";

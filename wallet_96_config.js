@@ -1,1 +1,1 @@
-var mnemonic = "fiber wing sick post century abandon chimney shine elbow first lawn borrow";
+var mnemonic = "frost actor answer market legend dizzy earn pipe pulse direct need paper";

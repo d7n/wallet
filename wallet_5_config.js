@@ -1,1 +1,1 @@
-var mnemonic = "couple doctor fork destroy range tilt call wedding spirit fix hawk drastic";
+var mnemonic = "device physical coin smoke topic people song nice achieve student topple useful";

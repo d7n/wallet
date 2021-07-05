@@ -1,1 +1,1 @@
-var mnemonic = "bless dial test reopen pumpkin job ask flame major wrestle mansion same";
+var mnemonic = "recall average forget surprise blanket mansion jaguar belt language this title brush";

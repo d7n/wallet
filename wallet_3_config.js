@@ -1,1 +1,1 @@
-var mnemonic = "merit risk write already fossil pause atom lunar sand police salt glance";
+var mnemonic = "dust pill clog vacant into traffic small rifle inherit brush enemy carbon";

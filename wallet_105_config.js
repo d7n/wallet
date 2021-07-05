@@ -1,1 +1,1 @@
-var mnemonic = "either swift zone cattle sniff answer sock tower airport trophy nasty grain";
+var mnemonic = "truly lazy know vague chicken online balance actress waste gorilla hobby dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine record auction reunion mean riot suit paddle album april provide outdoor";
+var mnemonic = "absorb puzzle join account foil laugh apology dial either pen doll palace";

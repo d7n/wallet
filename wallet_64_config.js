@@ -1,1 +1,1 @@
-var mnemonic = "help lend repair oppose robot indoor diagram quality pumpkin knock ramp penalty";
+var mnemonic = "pony mountain success dynamic lava punch social autumn corn title fashion kick";

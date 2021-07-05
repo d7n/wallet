@@ -1,1 +1,1 @@
-var mnemonic = "make place mother motion mountain toward blossom copper calm sound bird anchor";
+var mnemonic = "gift home valid input define notable margin dignity whale neither neglect sun";

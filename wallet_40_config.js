@@ -1,1 +1,1 @@
-var mnemonic = "polar lizard inner loud mass disorder bone impact yellow favorite salute very";
+var mnemonic = "exotic rack tip forest envelope inmate over sting long hybrid gas shrimp";

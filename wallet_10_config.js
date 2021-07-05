@@ -1,1 +1,1 @@
-var mnemonic = "action actor industry act spread measure regret bulk turn auction journey account";
+var mnemonic = "speed gym say laptop describe false morning reject cruise grit gun unhappy";

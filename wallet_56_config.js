@@ -1,1 +1,1 @@
-var mnemonic = "letter feed dwarf bulk town talent faculty buyer mad afraid sheriff piece";
+var mnemonic = "knife ecology decline initial wage public exchange pledge duty grow move firm";

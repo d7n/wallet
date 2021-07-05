@@ -1,1 +1,1 @@
-var mnemonic = "cupboard bench truly owner story beef width panic march wide income creek";
+var mnemonic = "cage liar climb myself title swamp flat truth armed decade announce maze";

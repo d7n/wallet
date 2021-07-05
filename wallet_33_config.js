@@ -1,1 +1,1 @@
-var mnemonic = "raccoon base shield pulp popular horror venue vast noodle elder tunnel rug";
+var mnemonic = "wealth list duck believe bunker morning hammer gun aim museum flush type";

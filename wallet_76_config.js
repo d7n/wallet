@@ -1,1 +1,1 @@
-var mnemonic = "sniff learn brain liquid ski way ocean hole electric call crash domain";
+var mnemonic = "nominee indoor fee point skirt able zoo lounge liar pumpkin glad twin";

@@ -1,1 +1,1 @@
-var mnemonic = "slow arrive absent festival creek balcony heart stand other range glory fantasy";
+var mnemonic = "artefact dragon accident sword leg solid issue earn fade fatal genuine bulk";

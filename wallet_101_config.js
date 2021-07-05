@@ -1,1 +1,1 @@
-var mnemonic = "rebuild shock produce among another alley physical entire nuclear enforce scorpion collect";
+var mnemonic = "laptop enlist choose head original hello jazz blur express enact cabbage light";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis insane cousin quote chimney wrestle produce zebra resource shed inside bunker";
+var mnemonic = "goddess siren margin chuckle labor cook point vicious combine small favorite dilemma";

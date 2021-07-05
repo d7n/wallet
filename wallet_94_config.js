@@ -1,1 +1,1 @@
-var mnemonic = "region setup trash myth example twice current dirt derive spy camera brass";
+var mnemonic = "fiscal receive royal best pill direct animal health provide honey husband secret";

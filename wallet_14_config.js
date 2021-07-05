@@ -1,1 +1,1 @@
-var mnemonic = "vapor inquiry light camp fury dove boost inject buyer wing tail rich";
+var mnemonic = "amazing soldier just table artefact burst more common path private mobile purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "swear sunny plastic useless cluster later prize hospital type marriage come creek";
+var mnemonic = "march shadow giggle between ivory danger behind sign essay spawn galaxy sphere";

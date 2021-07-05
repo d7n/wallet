@@ -1,1 +1,1 @@
-var mnemonic = "cotton original virtual position ramp hockey reason already once liquid gas urban";
+var mnemonic = "fluid lend that between bless any useful behave print rubber lucky involve";

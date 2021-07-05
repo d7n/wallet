@@ -1,1 +1,1 @@
-var mnemonic = "fade lumber dolphin obscure violin step aspect present search try orient rifle";
+var mnemonic = "country lake soon weekend height census scout vocal absurd trumpet treat never";

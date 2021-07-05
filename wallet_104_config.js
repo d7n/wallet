@@ -1,1 +1,1 @@
-var mnemonic = "betray surprise great equip stable man fee enrich couch focus dove sister";
+var mnemonic = "infant expect kidney account announce pumpkin waste orchard carpet place length sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "few tone theme artefact nasty rug fantasy enforce push twelve baby orient";
+var mnemonic = "essence congress glow foster reopen cherry round eye occur front night borrow";

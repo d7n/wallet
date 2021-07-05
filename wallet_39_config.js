@@ -1,1 +1,1 @@
-var mnemonic = "soap area regret february code hollow float basket tornado pledge tail truly";
+var mnemonic = "misery acquire either daughter quality brain slim surprise manual artefact floor maid";

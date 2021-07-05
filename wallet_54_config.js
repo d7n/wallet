@@ -1,1 +1,1 @@
-var mnemonic = "destroy airport alter defy anger exhaust couple breeze balcony march basket hip";
+var mnemonic = "naive switch season neglect shift humor monster bus tortoise old protect scare";

@@ -1,1 +1,1 @@
-var mnemonic = "market express visa dwarf cotton van daughter off wolf trim method iron";
+var mnemonic = "certain insect tape fruit drastic edit true people garden vivid gallery mammal";

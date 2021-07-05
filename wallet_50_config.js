@@ -1,1 +1,1 @@
-var mnemonic = "work act hurry property keep liar life right season flight people panda";
+var mnemonic = "crane tooth family tobacco mobile two tribe filter employ lock call simple";

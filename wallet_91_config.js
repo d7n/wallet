@@ -1,1 +1,1 @@
-var mnemonic = "spawn drink approve wash answer window tonight paddle walnut infant caught skirt";
+var mnemonic = "essence eye uncover follow engage elegant avoid dose cluster pilot nuclear bean";

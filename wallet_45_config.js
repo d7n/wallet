@@ -1,1 +1,1 @@
-var mnemonic = "resist chest example pudding bargain bunker crouch scout inspire climb release what";
+var mnemonic = "wolf noodle tribe agree car iron burst hungry song place tip satisfy";

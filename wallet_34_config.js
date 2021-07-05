@@ -1,1 +1,1 @@
-var mnemonic = "plate doctor smart snow humor youth fly note adapt mention wrap later";
+var mnemonic = "hill flock brass mixture celery state source material whip dash aerobic behave";

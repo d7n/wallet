@@ -1,1 +1,1 @@
-var mnemonic = "slogan truck story bottom neither cube iron great ill client awkward fringe";
+var mnemonic = "acid will sock away churn small donor recall coyote hobby van zoo";

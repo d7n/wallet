@@ -1,1 +1,1 @@
-var mnemonic = "quiz have setup radar author discover skate raw shaft example coil extend";
+var mnemonic = "pledge lake used bright stay come emotion increase butter century exotic marble";

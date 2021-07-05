@@ -1,1 +1,1 @@
-var mnemonic = "crane taste release unique quality oppose fence crucial aim unknown tortoise sun";
+var mnemonic = "gun soup envelope regular fine indicate rural disagree battle balance year pitch";

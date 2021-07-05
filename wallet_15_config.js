@@ -1,1 +1,1 @@
-var mnemonic = "roof inspire unfair myth bulk salad famous need parrot hollow divide roast";
+var mnemonic = "valley sell youth pass drum cushion eager frequent slender have simple grass";

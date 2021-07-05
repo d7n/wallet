@@ -1,1 +1,1 @@
-var mnemonic = "smile fluid street few height power absorb inside coconut boy stay razor";
+var mnemonic = "better way find cause notice dignity innocent mansion slot divide engine theory";

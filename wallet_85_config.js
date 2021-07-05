@@ -1,1 +1,1 @@
-var mnemonic = "joy toilet start shoot post economy black burger nut mass trouble talk";
+var mnemonic = "elite orbit under reform impose today thrive end table until giraffe rocket";

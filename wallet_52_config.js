@@ -1,1 +1,1 @@
-var mnemonic = "width balcony uniform baby lady slide spy sun cake merit mistake urge";
+var mnemonic = "offer buyer lake news exchange juice jungle shell bounce key patrol net";

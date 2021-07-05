@@ -1,1 +1,1 @@
-var mnemonic = "next night choice fire lonely mushroom earth cook giant tongue apart drop";
+var mnemonic = "almost receive romance banana roof detail bless thunder gain chaos palace way";

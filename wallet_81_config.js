@@ -1,1 +1,1 @@
-var mnemonic = "promote chat speed acid chat apart learn meadow mean struggle opinion result";
+var mnemonic = "glimpse attack jaguar clarify kitchen gather hub toilet sell child scan cliff";

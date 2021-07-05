@@ -1,1 +1,1 @@
-var mnemonic = "furnace tuition senior patrol leader female world raccoon assault prevent network skill";
+var mnemonic = "beach fiber noodle suffer runway hood acoustic chief club man front spell";

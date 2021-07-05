@@ -1,1 +1,1 @@
-var mnemonic = "picnic obtain loud drill like pulp give wreck chief planet inmate motor";
+var mnemonic = "that credit fancy execute develop august artwork ball path dentist raise secret";

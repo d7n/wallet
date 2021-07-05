@@ -1,1 +1,1 @@
-var mnemonic = "donor few coach clip apart blouse artefact cat exchange require tourist broccoli";
+var mnemonic = "access poet sauce fly angry chef fix disagree anxiety umbrella mushroom naive";

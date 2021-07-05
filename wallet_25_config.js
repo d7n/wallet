@@ -1,1 +1,1 @@
-var mnemonic = "switch avoid local around image friend shed any bid patient square mask";
+var mnemonic = "honey cancel nose bachelor donkey squirrel divide surface deny sustain income symbol";
