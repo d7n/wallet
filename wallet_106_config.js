@@ -1,1 +1,1 @@
-var mnemonic = "divide else drink logic must milk again timber resist squirrel regret family";
+var mnemonic = "siege join bubble client brush nephew detail subway reveal erode doctor soldier";

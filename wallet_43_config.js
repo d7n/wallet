@@ -1,1 +1,1 @@
-var mnemonic = "goose cage grant crack excite index win faint regular limit ranch minute";
+var mnemonic = "popular cotton slim enhance sad soap goddess opera nice panel snap donate";

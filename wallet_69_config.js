@@ -1,1 +1,1 @@
-var mnemonic = "hunt envelope enforce merit keen sadness course lion distance bachelor female grocery";
+var mnemonic = "bicycle gentle divert draft goose maid oxygen erase mail bone loud scissors";

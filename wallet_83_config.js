@@ -1,1 +1,1 @@
-var mnemonic = "excite drastic blast clown radio ritual pyramid snake drive ramp trim honey";
+var mnemonic = "false ketchup release subway bulb equal erosion barely unlock fringe build divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "sure defense festival busy easily exercise real sign tail orient mammal hen";
+var mnemonic = "cluster bunker remain legend erosion dove tiny column century forum stem course";

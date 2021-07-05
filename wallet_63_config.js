@@ -1,1 +1,1 @@
-var mnemonic = "unique talent sign grid normal analyst bomb check please saddle panic cinnamon";
+var mnemonic = "vague clap guard eager beyond toddler wear tired fee drastic cute shield";

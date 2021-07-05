@@ -1,1 +1,1 @@
-var mnemonic = "lottery income start style replace exhibit abuse glove demise issue miracle bag";
+var mnemonic = "uniform apology venture poem disorder burden negative sustain steel slab timber myself";

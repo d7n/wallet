@@ -1,1 +1,1 @@
-var mnemonic = "monkey idea custom quarter gorilla custom kingdom woman pink fork ribbon act";
+var mnemonic = "vacant oak fury deposit trap security mixture witness learn snap salad damage";

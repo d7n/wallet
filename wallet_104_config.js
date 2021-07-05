@@ -1,1 +1,1 @@
-var mnemonic = "aspect submit ready maple call parent inhale glass push shoulder reveal wage";
+var mnemonic = "brain dizzy cube steak rich neck easy gauge old ready pistol armor";

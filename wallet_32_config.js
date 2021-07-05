@@ -1,1 +1,1 @@
-var mnemonic = "sudden panther adult violin cross suit material inject time lunch force various";
+var mnemonic = "wild basic gadget leaf tray width breeze corn dirt victory ankle core";

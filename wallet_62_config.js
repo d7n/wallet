@@ -1,1 +1,1 @@
-var mnemonic = "tonight twice board crazy joy custom chronic naive effort welcome diamond warm";
+var mnemonic = "term amount thought general inner balance betray afraid fire minor inform human";

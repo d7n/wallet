@@ -1,1 +1,1 @@
-var mnemonic = "purpose fiscal oxygen scatter sniff design riot goat dog catalog miracle cancel";
+var mnemonic = "rather glass axis easily nurse runway radio party monitor evil crop ripple";

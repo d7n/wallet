@@ -1,1 +1,1 @@
-var mnemonic = "answer avoid scorpion stairs immense little snap detail patient phrase fiscal calm";
+var mnemonic = "reason unit ketchup lizard stomach limb run pottery bulb sing reduce attend";

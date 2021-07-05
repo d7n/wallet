@@ -1,1 +1,1 @@
-var mnemonic = "post unfair jazz sweet height unit wrap turkey swing move traffic glue";
+var mnemonic = "ball way permit banner useful cinnamon destroy grain please crumble cage hamster";

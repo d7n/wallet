@@ -1,1 +1,1 @@
-var mnemonic = "glory orange immense dry stumble soul deny display office flock save note";
+var mnemonic = "brick novel any unknown trade notable cat dismiss eternal chicken another wealth";

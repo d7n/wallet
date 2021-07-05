@@ -1,1 +1,1 @@
-var mnemonic = "close vacant fitness stone west define alarm twin crash used angry deliver";
+var mnemonic = "broom catch use twin soldier minor spend century skill grid dumb tilt";

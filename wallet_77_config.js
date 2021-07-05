@@ -1,1 +1,1 @@
-var mnemonic = "monitor local waste palm next wear name candy used album patient dinner";
+var mnemonic = "autumn stem insane glimpse trigger silent age will cotton surround mirror decline";

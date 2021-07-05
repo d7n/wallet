@@ -1,1 +1,1 @@
-var mnemonic = "mosquito wear inflict ready panther shove absurd scrub round program direct grape";
+var mnemonic = "better urban illegal globe snow coast gift cabin creek enhance eternal trophy";

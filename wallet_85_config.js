@@ -1,1 +1,1 @@
-var mnemonic = "shallow popular melody favorite polar grocery grit sad hotel favorite average term";
+var mnemonic = "pottery ignore menu spread strong vague merit trial fiber adapt spread minor";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise shine cool screen injury engine buddy avoid lottery action cause race";
+var mnemonic = "license boat artefact orient impulse foot lunch play sheriff timber cat replace";

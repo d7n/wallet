@@ -1,1 +1,1 @@
-var mnemonic = "gather mad lion digital infant main find logic post churn boost message";
+var mnemonic = "cruel blind organ clay crazy resemble charge joke hamster nerve people oak";

@@ -1,1 +1,1 @@
-var mnemonic = "play sibling globe furnace vague one weapon roof oven squirrel depth you";
+var mnemonic = "term super jewel test road panic traffic icon hungry thumb network venture";

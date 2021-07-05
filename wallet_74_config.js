@@ -1,1 +1,1 @@
-var mnemonic = "feature chronic second gasp grape engage section chest print entire neither help";
+var mnemonic = "bright round voyage resemble catalog december solid wonder account property stumble casino";

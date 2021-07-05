@@ -1,1 +1,1 @@
-var mnemonic = "almost rug current little aisle bring admit raccoon wine roast buzz merry";
+var mnemonic = "prison number gesture just cheese undo face route seed glass rule interest";

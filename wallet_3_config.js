@@ -1,1 +1,1 @@
-var mnemonic = "visa govern hobby review age cattle tilt kid retreat thank layer arctic";
+var mnemonic = "innocent silent flavor shaft main hospital minimum also cloth pilot loud mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "armed judge fame engage carbon ensure gun sense festival page cram gallery";
+var mnemonic = "vanish again dirt legend bounce gain used fiber engage obey margin phone";

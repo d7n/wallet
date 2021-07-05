@@ -1,1 +1,1 @@
-var mnemonic = "grocery romance pizza knock injury gym scrub mix width strong screen pulse";
+var mnemonic = "ensure dad clutch hope tonight either push expand wise ethics birth glass";

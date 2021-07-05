@@ -1,1 +1,1 @@
-var mnemonic = "dad elevator palm kitchen okay quarter destroy hood kind fly bench predict";
+var mnemonic = "brand captain cruel enter clerk woman club economy use between float abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "palm laptop actual fury flat absorb uphold cinnamon spoon group fish just";
+var mnemonic = "file swear confirm property street slender isolate sick express great nut bind";

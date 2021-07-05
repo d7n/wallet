@@ -1,1 +1,1 @@
-var mnemonic = "obey ahead essay describe foster supply future side orphan dove wall mistake";
+var mnemonic = "try guide universe often cattle typical olive forget budget maze grass spoon";

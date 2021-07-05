@@ -1,1 +1,1 @@
-var mnemonic = "winter weather hope argue hollow behind snack firm radio gown exist horse";
+var mnemonic = "often return mixed remove plate narrow legal diamond rally math view swing";

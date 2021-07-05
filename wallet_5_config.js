@@ -1,1 +1,1 @@
-var mnemonic = "used myth purchase oblige discover error venture snap husband half absorb awkward";
+var mnemonic = "delay execute kind atom vibrant box organ sort fox shiver prepare twice";

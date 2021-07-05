@@ -1,1 +1,1 @@
-var mnemonic = "olympic speed bring tuna hold earn legend vicious stand van present innocent";
+var mnemonic = "rural make wet velvet vanish any grass hover material share badge female";

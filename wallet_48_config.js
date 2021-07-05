@@ -1,1 +1,1 @@
-var mnemonic = "acquire glimpse diamond sunny always prepare avoid stage sponsor page apology next";
+var mnemonic = "away clever voyage scrub glad cradle brick ostrich source tobacco forum egg";

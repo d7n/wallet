@@ -1,1 +1,1 @@
-var mnemonic = "avoid desert flash nation like sibling own tennis display fire erosion cream";
+var mnemonic = "reward planet view receive skirt bounce stove enforce aspect digital brain pole";

@@ -1,1 +1,1 @@
-var mnemonic = "report plate luxury fiction rare loop autumn style chaos power urge venue";
+var mnemonic = "inflict muffin chuckle slab best zero junk win secret moon purchase mechanic";

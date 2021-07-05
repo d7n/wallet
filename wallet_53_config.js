@@ -1,1 +1,1 @@
-var mnemonic = "useless review gate celery script bottom pigeon hotel trial danger injury bid";
+var mnemonic = "beyond tumble reduce polar snack hint edit unfair swear viable evoke describe";

@@ -1,1 +1,1 @@
-var mnemonic = "decade omit scale duty lady such title morning cry sponsor mule balance";
+var mnemonic = "upper flavor remove cover sheriff dance ripple century athlete figure social pretty";

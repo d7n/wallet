@@ -1,1 +1,1 @@
-var mnemonic = "certain march ramp loan artist oak grow cave gadget uncover nerve stomach";
+var mnemonic = "boy dust name april pass okay educate fault jeans horror increase auction";

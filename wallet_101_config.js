@@ -1,1 +1,1 @@
-var mnemonic = "public cinnamon toss age noodle between oak west trim snack mimic clump";
+var mnemonic = "hotel local second clarify cream birth silly bread early balance short connect";

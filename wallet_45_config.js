@@ -1,1 +1,1 @@
-var mnemonic = "fashion adapt waste entry ahead say bird lend celery legend chest sugar";
+var mnemonic = "tonight pyramid nephew guide popular hidden buzz sword echo pull win vast";

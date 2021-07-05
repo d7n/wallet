@@ -1,1 +1,1 @@
-var mnemonic = "project van someone north duty private essay stone curious twin absent amount";
+var mnemonic = "wedding right rail hawk proud bachelor lesson remove elevator pencil napkin void";

@@ -1,1 +1,1 @@
-var mnemonic = "kid bubble pudding kingdom cute start permit short bus genre ice kiwi";
+var mnemonic = "live mind smoke onion face will bone edit basic hat unknown sniff";

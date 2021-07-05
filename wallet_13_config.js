@@ -1,1 +1,1 @@
-var mnemonic = "private start access sibling weird mixed baby advance rib unable kidney trash";
+var mnemonic = "nuclear board real great snake pepper honey skate chapter sphere term benefit";

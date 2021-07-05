@@ -1,1 +1,1 @@
-var mnemonic = "flag wagon powder industry duty fatal north can exist bird ladder stove";
+var mnemonic = "panel high jaguar rifle collect believe swing fitness must radar enemy cause";

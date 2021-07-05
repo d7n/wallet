@@ -1,1 +1,1 @@
-var mnemonic = "zone output bunker gloom patient crush shadow network amount forum wage peasant";
+var mnemonic = "urge skull despair cluster near jelly width special insect black attitude live";

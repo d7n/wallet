@@ -1,1 +1,1 @@
-var mnemonic = "search march chase turn hood mass orange oval tumble novel unlock live";
+var mnemonic = "utility under copy opinion spoon goose need battle keep trend joy canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "purity night beef leader damp tornado myth bomb supply giraffe sound dream";
+var mnemonic = "valley crucial music sick ask twin tumble parrot neither card song town";

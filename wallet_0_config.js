@@ -1,1 +1,1 @@
-var mnemonic = "elephant boil picture universe miracle topple then moon hockey upon hint blood";
+var mnemonic = "pond win virus wrestle limit able thing resource gossip apology marriage match";

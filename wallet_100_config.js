@@ -1,1 +1,1 @@
-var mnemonic = "inject logic alarm amount return clutch dumb diet antenna level dream left";
+var mnemonic = "blade tooth rice since body foot easy denial cliff balance wolf mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "eye fade fringe exhibit pulse purity message manage update tell vast soon";
+var mnemonic = "garden state primary bean outer pear hollow humble grace album debris shop";

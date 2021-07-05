@@ -1,1 +1,1 @@
-var mnemonic = "rescue fantasy reject car clever property primary federal amused good course draft";
+var mnemonic = "imitate person wrist sad chef suffer beauty inquiry weapon forward pluck silver";

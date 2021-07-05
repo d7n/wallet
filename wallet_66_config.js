@@ -1,1 +1,1 @@
-var mnemonic = "summer universe gauge album cruel father skull veteran myself attract daughter where";
+var mnemonic = "drip high giggle couch eight misery insane near wrist case volcano erode";

@@ -1,1 +1,1 @@
-var mnemonic = "page lobster attitude detect more border unfair slim pact oblige panic vehicle";
+var mnemonic = "width case carry dynamic girl magic teach frequent horse begin copper chunk";

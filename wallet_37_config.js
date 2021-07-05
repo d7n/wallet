@@ -1,1 +1,1 @@
-var mnemonic = "daughter industry resist erase gauge write aware exile empower pill mystery order";
+var mnemonic = "prefer chalk room exact clump urge enable material sight slush kitchen shed";

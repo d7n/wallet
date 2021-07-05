@@ -1,1 +1,1 @@
-var mnemonic = "enforce act select conduct razor prize cactus radio welcome amount suit resist";
+var mnemonic = "example tank dial end middle food debate wrong dinosaur envelope amused repeat";

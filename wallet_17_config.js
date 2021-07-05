@@ -1,1 +1,1 @@
-var mnemonic = "flee fit quick domain erosion add sun print drink loud laptop another";
+var mnemonic = "peasant sorry person reflect useful elephant rather link wealth excite cram mention";

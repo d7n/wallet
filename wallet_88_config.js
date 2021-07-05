@@ -1,1 +1,1 @@
-var mnemonic = "praise caught there egg verify empty sad strike fruit sense shy lonely";
+var mnemonic = "sleep pudding heart toward absent town employ happy warrior hip lock erupt";

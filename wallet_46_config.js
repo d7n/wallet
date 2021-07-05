@@ -1,1 +1,1 @@
-var mnemonic = "spike scrap pave appear play quarter resemble describe celery season heavy lab";
+var mnemonic = "tail nest six brush aspect impulse feel degree ill render world muffin";

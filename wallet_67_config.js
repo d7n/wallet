@@ -1,1 +1,1 @@
-var mnemonic = "arrange surround cause rare oven buddy pink please inch swallow crush world";
+var mnemonic = "liar shy genre height electric taxi length daughter purpose trap claw anchor";

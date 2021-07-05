@@ -1,1 +1,1 @@
-var mnemonic = "cake hazard trumpet oyster robust loud heart kangaroo carpet whale excess sugar";
+var mnemonic = "garlic chunk energy cereal expose window fog ranch lamp bronze furnace vague";

@@ -1,1 +1,1 @@
-var mnemonic = "brush relief capable blanket genre mesh hire someone admit correct uphold trick";
+var mnemonic = "sort license review quantum forest sponsor gap clump human vacuum metal fee";

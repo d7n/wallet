@@ -1,1 +1,1 @@
-var mnemonic = "battle embody random ritual pudding crew elephant shoot ripple airport diamond fever";
+var mnemonic = "tilt broken copper project clerk hundred census normal unique skirt angle ship";

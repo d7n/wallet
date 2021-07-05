@@ -1,1 +1,1 @@
-var mnemonic = "skill such apology unlock team biology this layer hero penalty mushroom resemble";
+var mnemonic = "eager warrior body panel surround regular profit melt swamp trash nasty stick";

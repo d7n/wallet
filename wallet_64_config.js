@@ -1,1 +1,1 @@
-var mnemonic = "renew volume add try connect window tonight brisk faculty exact slow balance";
+var mnemonic = "current device addict thing admit property reason source grass burst slush rare";

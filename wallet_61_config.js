@@ -1,1 +1,1 @@
-var mnemonic = "duty imitate nurse puzzle insect paper lawn pattern alter economy method naive";
+var mnemonic = "suggest muscle collect antenna gospel thrive angry village dynamic project cattle across";

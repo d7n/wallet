@@ -1,1 +1,1 @@
-var mnemonic = "cave taste bind noodle hollow effort gym giant school bomb defense fluid";
+var mnemonic = "possible flag attack tray guitar crop describe amount decorate enforce riot fee";

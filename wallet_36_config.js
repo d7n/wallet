@@ -1,1 +1,1 @@
-var mnemonic = "endorse scissors heavy deposit tourist bubble engine sweet click fix wisdom auction";
+var mnemonic = "pretty uphold any library proof spider salute cloud two cherry inside kite";

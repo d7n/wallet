@@ -1,1 +1,1 @@
-var mnemonic = "bargain clog paper hint misery suit lobster camp easily settle sustain damage";
+var mnemonic = "toddler problem morning illegal child cycle night safe ribbon control drip produce";

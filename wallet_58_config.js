@@ -1,1 +1,1 @@
-var mnemonic = "sketch fat buyer feed original sting album century gauge dice advance orient";
+var mnemonic = "city north fiscal actress donate speed laundry bundle grow pet alarm ranch";

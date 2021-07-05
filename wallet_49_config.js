@@ -1,1 +1,1 @@
-var mnemonic = "ghost rail dinosaur stick clerk add reveal tackle excuse blanket seed tired";
+var mnemonic = "vapor cluster piece limit clock art forward sight author stick chimney glory";

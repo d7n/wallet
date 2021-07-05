@@ -1,1 +1,1 @@
-var mnemonic = "spoon gentle shoot jelly awake receive more capable ketchup wear bid journey";
+var mnemonic = "angry exit identify play gaze where arctic balance win nasty cause consider";

@@ -1,1 +1,1 @@
-var mnemonic = "forest abandon gain scissors coral camp gloom delay empower excess ramp fog";
+var mnemonic = "kingdom behind sick mammal federal hidden bamboo nothing wear juice fitness thrive";

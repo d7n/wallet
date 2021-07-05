@@ -1,1 +1,1 @@
-var mnemonic = "adjust must pencil multiply effort baby involve dawn paddle aim today view";
+var mnemonic = "dolphin silver glance toy estate audit hundred base audit victory picnic gauge";

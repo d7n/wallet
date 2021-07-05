@@ -1,1 +1,1 @@
-var mnemonic = "stove blanket concert lake mutual dish cash obey nominee canal keen purpose";
+var mnemonic = "connect embrace rival oil salon rather region ride never range tail fold";

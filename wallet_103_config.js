@@ -1,1 +1,1 @@
-var mnemonic = "shine chapter enough south ranch yard velvet stomach human robot raccoon banana";
+var mnemonic = "victory cheap remember shock route shy absorb visit august debris payment danger";

@@ -1,1 +1,1 @@
-var mnemonic = "width exercise label stereo sting message silent truck pull hand raven odor";
+var mnemonic = "candy tuna sponsor case chase toy orange swap dirt garbage response card";

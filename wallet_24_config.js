@@ -1,1 +1,1 @@
-var mnemonic = "peasant spider desert public clip bridge visit gadget arm concert always neck";
+var mnemonic = "auto mother myth dizzy curious gift damage gate pluck share into treat";

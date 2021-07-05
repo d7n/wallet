@@ -1,1 +1,1 @@
-var mnemonic = "team fiscal pet shrimp outer clock rule kid ranch grant remove sound";
+var mnemonic = "west unusual lizard angle rice state pill remind limit opera crane frame";

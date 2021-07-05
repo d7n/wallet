@@ -1,1 +1,1 @@
-var mnemonic = "gas crawl escape female attack nation sleep eight artefact october assume remove";
+var mnemonic = "year twenty question able wedding harsh round divide divide patch health goddess";

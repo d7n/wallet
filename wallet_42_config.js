@@ -1,1 +1,1 @@
-var mnemonic = "call father wage elevator rural tackle roast width post lemon same rapid";
+var mnemonic = "note become reason scissors love era enlist away close wreck loan primary";

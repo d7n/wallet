@@ -1,1 +1,1 @@
-var mnemonic = "because present apart clog tide video settle puzzle offer tragic river toe";
+var mnemonic = "love trip sponsor over version industry stock thumb off nest expect convince";

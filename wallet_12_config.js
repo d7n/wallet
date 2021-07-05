@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow aisle model lumber science club sheriff chaos firm tray select decade";
+var mnemonic = "camera chair duck clay woman square tilt fox sight design egg atom";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch cinnamon observe south game allow insect royal level island reflect magnet";
+var mnemonic = "sketch near section lift render track board rhythm flee satoshi bundle glare";

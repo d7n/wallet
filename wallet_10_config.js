@@ -1,1 +1,1 @@
-var mnemonic = "start check worth ensure pupil gloom relief tip awkward hidden defy medal";
+var mnemonic = "orange cause patch fish brief element fame tenant custom butter life key";

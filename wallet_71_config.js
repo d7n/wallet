@@ -1,1 +1,1 @@
-var mnemonic = "dune runway auction federal output scorpion west word damage frown input vendor";
+var mnemonic = "grief woman sauce inside enhance museum hammer play film nest kit turtle";

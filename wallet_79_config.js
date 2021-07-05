@@ -1,1 +1,1 @@
-var mnemonic = "salute share whale tumble between kiwi inhale blur section shield sure oak";
+var mnemonic = "kit menu dad scorpion destroy ordinary region expose potato embark current bitter";
