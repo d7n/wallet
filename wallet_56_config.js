@@ -1,1 +1,1 @@
-var mnemonic = "love dynamic bread model elbow size track tail chalk umbrella solution alley";
+var mnemonic = "trash just antique audit grain forward fever dog valve leopard employ march";

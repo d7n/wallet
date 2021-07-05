@@ -1,1 +1,1 @@
-var mnemonic = "buzz stairs anger inflict critic brother often conduct swallow dragon purchase job";
+var mnemonic = "large ask correct suffer crumble inject front hamster foot sunny dinner pill";

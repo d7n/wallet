@@ -1,1 +1,1 @@
-var mnemonic = "pluck absurd cinnamon weekend cluster awkward ramp visa road dinosaur attack raven";
+var mnemonic = "admit escape timber normal labor gallery sure chaos present jacket physical unique";

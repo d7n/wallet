@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit evidence six fatigue ramp gossip glory clarify earn virtual filter quote";
+var mnemonic = "shine oxygen actress stick roof amateur caught enjoy leave fitness snap risk";

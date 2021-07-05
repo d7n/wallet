@@ -1,1 +1,1 @@
-var mnemonic = "rough kite month host build despair tube ranch wise replace flock above";
+var mnemonic = "excite shove spoil blind joy body piece spike olympic crumble cabbage science";

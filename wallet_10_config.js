@@ -1,1 +1,1 @@
-var mnemonic = "energy portion kit antenna guide bullet huge magic receive warrior trade stone";
+var mnemonic = "path error run exact erupt poet face this settle column metal mimic";

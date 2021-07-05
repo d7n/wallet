@@ -1,1 +1,1 @@
-var mnemonic = "lab retire version cannon target pill flight carpet never lobster orbit soon";
+var mnemonic = "brave ring choice gospel reason caught manual idea ranch hope lamp message";

@@ -1,1 +1,1 @@
-var mnemonic = "because host moon loud joy balcony flower gun found problem tomato balcony";
+var mnemonic = "scout mention civil puppy evidence quick stumble worry blouse witness rabbit increase";

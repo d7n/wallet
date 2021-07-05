@@ -1,1 +1,1 @@
-var mnemonic = "clown manage airport venue start noble ketchup wrestle moment tuition pave disagree";
+var mnemonic = "sleep remain exchange staff answer congress ticket pigeon hurry pair size employ";

@@ -1,1 +1,1 @@
-var mnemonic = "general trophy pumpkin sail tumble swing boss token twelve want puzzle soul";
+var mnemonic = "fragile duty decorate net dwarf regular budget tray embody anchor limit correct";

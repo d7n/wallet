@@ -1,1 +1,1 @@
-var mnemonic = "whisper coin midnight duck crunch dove reject inflict draft filter trap diesel";
+var mnemonic = "act door blame sheriff wave dentist escape guide damage admit story diet";

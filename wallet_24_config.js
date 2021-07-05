@@ -1,1 +1,1 @@
-var mnemonic = "carry sport term scare stomach gravity object potato absent surprise unknown chimney";
+var mnemonic = "disagree stove diary satoshi shrimp whisper harbor powder age become above agree";

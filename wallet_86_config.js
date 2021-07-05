@@ -1,1 +1,1 @@
-var mnemonic = "giggle humor immense witness labor order table shoulder enemy caution ability coyote";
+var mnemonic = "oppose domain ten march ticket file disorder object reason record grit inflict";

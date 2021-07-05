@@ -1,1 +1,1 @@
-var mnemonic = "silly pudding anchor usual heavy refuse deal fatigue detail tumble future plug";
+var mnemonic = "lunch vocal ozone balcony spoil defy ask velvet asset fancy spray split";

@@ -1,1 +1,1 @@
-var mnemonic = "more antique thing first cry share light unique skate meat network love";
+var mnemonic = "keen neglect frozen refuse believe shop cinnamon believe hunt client abuse trend";

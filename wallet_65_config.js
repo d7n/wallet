@@ -1,1 +1,1 @@
-var mnemonic = "spoon opera top evoke myself minor check spawn fiber grit illness castle";
+var mnemonic = "shoulder success impulse push ice earn prefer crane panther anger burden one";

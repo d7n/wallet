@@ -1,1 +1,1 @@
-var mnemonic = "second impose noble home tornado seminar display cave pyramid sunny rural wedding";
+var mnemonic = "double trade oval rent document code funny obscure coast bird bracket slide";

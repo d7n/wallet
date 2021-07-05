@@ -1,1 +1,1 @@
-var mnemonic = "try capital grace kitten fatigue stomach consider toilet carry spread trend tackle";
+var mnemonic = "annual caught initial plug benefit bracket notable eye this despair pulse keep";

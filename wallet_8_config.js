@@ -1,1 +1,1 @@
-var mnemonic = "regret decide pull jaguar click blade unique solid section gown repeat rice";
+var mnemonic = "maze hover dose average credit bright grief walnut find lazy matter teach";

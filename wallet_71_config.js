@@ -1,1 +1,1 @@
-var mnemonic = "uncle pill buzz time flip cotton force before bid verify joy hurt";
+var mnemonic = "where vacant sniff cousin engage small stable guitar scare always absurd ribbon";

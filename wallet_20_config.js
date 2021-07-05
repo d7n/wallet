@@ -1,1 +1,1 @@
-var mnemonic = "require century increase illegal mother sister attend volume cabbage lens slim siege";
+var mnemonic = "gaze lecture husband winner enemy escape glimpse world unusual mass desk valve";

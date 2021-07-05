@@ -1,1 +1,1 @@
-var mnemonic = "nation topic gossip praise buffalo such immune twin mother all dial pudding";
+var mnemonic = "retire wide wire nest animal clean marine demise demise siege scan recipe";

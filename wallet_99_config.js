@@ -1,1 +1,1 @@
-var mnemonic = "input accuse food suspect desert grow void ten autumn treat topic throw";
+var mnemonic = "kidney ribbon powder shed ritual wish steak build together isolate cheese dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard actual over soon garbage animal laptop easily loop ozone shrimp eight";
+var mnemonic = "illness artefact target desert impose advance absurd ugly they rule pudding cost";

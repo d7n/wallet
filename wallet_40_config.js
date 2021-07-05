@@ -1,1 +1,1 @@
-var mnemonic = "truth arrest trouble please glide unknown year awesome monkey army border toy";
+var mnemonic = "sustain hidden notable wheat viable voice movie rely raven word rather bind";

@@ -1,1 +1,1 @@
-var mnemonic = "impact frozen broccoli shell spot knee one valley erase chunk table cup";
+var mnemonic = "blossom lyrics ketchup mechanic laundry exit skirt drift figure fashion ignore column";

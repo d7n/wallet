@@ -1,1 +1,1 @@
-var mnemonic = "mother park twin what glare pink sell modify interest awful mule drama";
+var mnemonic = "trend air project blood raw thrive connect enhance settle proud proud supply";

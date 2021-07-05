@@ -1,1 +1,1 @@
-var mnemonic = "wreck come slot badge ten dinosaur attract excess canoe truck summer gym";
+var mnemonic = "relief into proud ball jeans brain sphere ticket second side antenna shell";

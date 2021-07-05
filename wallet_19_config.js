@@ -1,1 +1,1 @@
-var mnemonic = "matter join echo zone brother mean awake sauce click maid dirt sting";
+var mnemonic = "always keep crowd solar alpha section upper firm small era elevator local";

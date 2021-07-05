@@ -1,1 +1,1 @@
-var mnemonic = "control trip nasty fat loud maid globe eyebrow excite sadness lend false";
+var mnemonic = "more couple robot acoustic crouch resist minute diet lazy hold flag weasel";

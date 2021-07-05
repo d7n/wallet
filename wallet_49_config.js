@@ -1,1 +1,1 @@
-var mnemonic = "pottery ship hybrid plastic affair casino bottom topic verify caught patch palace";
+var mnemonic = "equal right sock alter business clog draw security talk tomorrow area safe";

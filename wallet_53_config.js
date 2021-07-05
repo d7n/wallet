@@ -1,1 +1,1 @@
-var mnemonic = "input drama blame auto sight hire mandate blush multiply detect else dawn";
+var mnemonic = "rival chimney session human legend winner force gown cupboard nest cheese globe";

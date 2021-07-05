@@ -1,1 +1,1 @@
-var mnemonic = "curve gesture voyage addict ship pitch amused bridge question witness large connect";
+var mnemonic = "basic blade domain exact story trophy color decrease audit deal canoe submit";

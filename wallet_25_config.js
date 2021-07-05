@@ -1,1 +1,1 @@
-var mnemonic = "govern basket coffee rail error ignore option crunch diagram acquire artwork amount";
+var mnemonic = "eagle indoor valley beauty couple hunt planet use laundry worry put life";

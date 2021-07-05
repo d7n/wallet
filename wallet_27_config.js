@@ -1,1 +1,1 @@
-var mnemonic = "attitude young waste mammal imitate moment husband improve special learn where erupt";
+var mnemonic = "involve expire crop gossip trumpet rude coconut curtain ship penalty rude math";

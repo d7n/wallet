@@ -1,1 +1,1 @@
-var mnemonic = "trial donkey march sea misery bring trash ask ice behave begin flat";
+var mnemonic = "soccer tape cheap truth slot power possible pepper render fly minute energy";

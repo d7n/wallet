@@ -1,1 +1,1 @@
-var mnemonic = "pair ring target path bench buddy holiday appear daughter tribe piece clerk";
+var mnemonic = "denial sibling gas erupt system practice repeat expect possible deliver resemble over";

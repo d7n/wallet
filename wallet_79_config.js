@@ -1,1 +1,1 @@
-var mnemonic = "tiger budget teach license knife measure champion caution fun swift oval connect";
+var mnemonic = "skill spray sad naive state supply coconut shift truly depart knife suggest";

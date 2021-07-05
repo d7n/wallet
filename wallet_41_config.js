@@ -1,1 +1,1 @@
-var mnemonic = "envelope zero input country horn miracle cheap glide day reopen riot puppy";
+var mnemonic = "entire wing series cattle fiber verify powder detect fork denial kangaroo rural";

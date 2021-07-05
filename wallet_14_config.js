@@ -1,1 +1,1 @@
-var mnemonic = "action mountain edit little only never slender betray change clay grief develop";
+var mnemonic = "broken index almost trip scan surface party regret laundry replace city install";

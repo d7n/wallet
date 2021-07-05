@@ -1,1 +1,1 @@
-var mnemonic = "session goose rug column use among vivid sport message lounge wear vendor";
+var mnemonic = "moon sing model pilot mosquito file poverty eight catch afford average obey";

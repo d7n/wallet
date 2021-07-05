@@ -1,1 +1,1 @@
-var mnemonic = "dynamic fish health pulp panic grass north hip have guitar sorry fantasy";
+var mnemonic = "priority grape panel front caution treat scout tattoo head sphere other lumber";

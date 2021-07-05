@@ -1,1 +1,1 @@
-var mnemonic = "regret boost climb village embrace cable assault trust affair walk rural primary";
+var mnemonic = "summer network access brass coil will grow hard embrace mail fat original";

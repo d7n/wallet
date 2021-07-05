@@ -1,1 +1,1 @@
-var mnemonic = "stumble clog sting shrug slogan later upgrade tip alien output oval midnight";
+var mnemonic = "nasty oil that fold deal beyond spider floor luxury song exercise example";

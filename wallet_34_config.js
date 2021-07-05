@@ -1,1 +1,1 @@
-var mnemonic = "diet invest lunar blame kidney expose skirt promote reduce copper mutual decade";
+var mnemonic = "govern torch summer spend lazy marble youth awkward come deputy script essence";

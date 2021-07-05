@@ -1,1 +1,1 @@
-var mnemonic = "truth install heavy dance shine excess vibrant empty divide hint potato ten";
+var mnemonic = "ridge endorse few topic famous good uncle era cube wash exile rude";

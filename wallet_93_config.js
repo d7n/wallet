@@ -1,1 +1,1 @@
-var mnemonic = "soldier salon uncle urban omit income blade weather tribe unveil venture pact";
+var mnemonic = "marble collect donate champion armed planet fall electric enact monitor clip office";

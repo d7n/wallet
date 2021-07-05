@@ -1,1 +1,1 @@
-var mnemonic = "clown wrestle soap crush corn enter return safe mosquito purpose table fiber";
+var mnemonic = "erosion door glow tennis expect casual quiz avoid file possible buddy midnight";

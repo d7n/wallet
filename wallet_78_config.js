@@ -1,1 +1,1 @@
-var mnemonic = "kid claim view tribe reward business fire repeat frown actual choice rhythm";
+var mnemonic = "runway search novel wet expose banner saddle bomb split winter region jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "across festival scout cancel hobby anchor regret vital width ski clarify tuna";
+var mnemonic = "yard observe sponsor blood define fun suggest index security mask uncle race";

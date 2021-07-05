@@ -1,1 +1,1 @@
-var mnemonic = "tortoise honey pattern fossil mansion various lamp float word table summer evil";
+var mnemonic = "cactus gauge stand concert firm liquid heart outside analyst sunny square open";

@@ -1,1 +1,1 @@
-var mnemonic = "slide huge version dignity search sunny tiny famous crew pluck digital ask";
+var mnemonic = "burden alpha divert arrow win slender wrap plastic essay birth club spend";

@@ -1,1 +1,1 @@
-var mnemonic = "crane waste sniff divide omit joy absurd leave mountain assist notice report";
+var mnemonic = "grant around green focus bamboo aspect flag twenty rely chair hurt doctor";

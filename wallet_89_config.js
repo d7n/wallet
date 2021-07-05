@@ -1,1 +1,1 @@
-var mnemonic = "monster domain van used place dune sniff route maple rebel chaos loyal";
+var mnemonic = "loop resource grab junk also cause erupt transfer poet road erase inquiry";

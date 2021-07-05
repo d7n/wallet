@@ -1,1 +1,1 @@
-var mnemonic = "legend fluid mountain ecology discover absent wash artefact blast weapon arrow success";
+var mnemonic = "female chalk cushion junior hazard mouse season lady fan inmate sausage kitchen";

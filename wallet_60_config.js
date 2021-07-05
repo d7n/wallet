@@ -1,1 +1,1 @@
-var mnemonic = "scorpion flat blossom thrive sick female draw retire brown relax shy clog";
+var mnemonic = "equip end trade follow balcony select joy cargo divorce trust guide boat";

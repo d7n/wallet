@@ -1,1 +1,1 @@
-var mnemonic = "lesson mass matrix thank saddle moral quit enforce stuff since film property";
+var mnemonic = "dog live glow embrace cycle nuclear suffer glue assume mirror awesome law";

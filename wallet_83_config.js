@@ -1,1 +1,1 @@
-var mnemonic = "admit car north news fence link train short nature deer trophy congress";
+var mnemonic = "doll visit live net absurd flame endorse person shrimp toss march west";

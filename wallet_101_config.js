@@ -1,1 +1,1 @@
-var mnemonic = "bottom property glimpse blur day orphan bottom device hello flee melt remove";
+var mnemonic = "extend design rival mention shock target inflict edge juice quality idle visa";

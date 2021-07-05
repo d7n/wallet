@@ -1,1 +1,1 @@
-var mnemonic = "cotton reward junk method payment stereo purity just trust donate artist exotic";
+var mnemonic = "neutral sentence inhale cancel average future omit identify south float spirit climb";

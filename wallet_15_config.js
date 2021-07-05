@@ -1,1 +1,1 @@
-var mnemonic = "flee dance clerk slam cabbage hungry swap wet divorce fix suffer hour";
+var mnemonic = "enemy clump ghost ostrich regular lottery current sound cost buzz youth fetch";

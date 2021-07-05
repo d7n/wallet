@@ -1,1 +1,1 @@
-var mnemonic = "lesson brand affair silly income cool upset tray mixture badge solid vendor";
+var mnemonic = "brass tuition inspire settle accident easily coin follow enjoy magic super flavor";

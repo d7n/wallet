@@ -1,1 +1,1 @@
-var mnemonic = "hour action west ship text bundle thumb daring case alien fatal renew";
+var mnemonic = "life sick cost behind mystery kit tube force destroy trend supply obtain";

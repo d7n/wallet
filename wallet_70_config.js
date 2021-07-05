@@ -1,1 +1,1 @@
-var mnemonic = "crowd become tongue myth priority excite satoshi ordinary forest visit curve yellow";
+var mnemonic = "alter copper punch repair poem school banner conduct kitten link useful inherit";

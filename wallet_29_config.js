@@ -1,1 +1,1 @@
-var mnemonic = "duty other estate tiny toward glimpse unit silk theme public neither detail";
+var mnemonic = "slam slab chest obvious matter load bronze party crunch entire melody across";

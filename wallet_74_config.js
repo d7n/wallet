@@ -1,1 +1,1 @@
-var mnemonic = "aspect cost such mule distance brief brisk few victory stomach fog drift";
+var mnemonic = "state cereal latin brush ready fury great ball thank timber report example";

@@ -1,1 +1,1 @@
-var mnemonic = "camp elegant quiz satisfy before market appear angry aim settle assume alter";
+var mnemonic = "clarify flight scan fence plate mule only rely obscure found horse eyebrow";

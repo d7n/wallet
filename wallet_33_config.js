@@ -1,1 +1,1 @@
-var mnemonic = "cruel ivory jungle merry mad tent circle behave shell clump verb exile";
+var mnemonic = "fancy thing tunnel gauge public grow beauty fury laundry harsh sea burden";

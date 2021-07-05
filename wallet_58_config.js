@@ -1,1 +1,1 @@
-var mnemonic = "ocean crouch wagon evidence palm earn estate hip sing soda staff spin";
+var mnemonic = "enable ski seed forest sketch find trophy mystery direct world silver amused";

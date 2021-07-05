@@ -1,1 +1,1 @@
-var mnemonic = "churn amount certain infant side asset nominee mixed admit gate modify conduct";
+var mnemonic = "style tooth pause tattoo blind hobby stadium subway message fun ticket resemble";

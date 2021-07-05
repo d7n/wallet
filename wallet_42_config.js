@@ -1,1 +1,1 @@
-var mnemonic = "distance alpha reduce obscure monster fan submit modify oil ask canal wheel";
+var mnemonic = "pave rhythm note action train fortune divorce language school ostrich choose sniff";

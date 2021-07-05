@@ -1,1 +1,1 @@
-var mnemonic = "right harbor apology divorce height exile prison enough crash ski good stone";
+var mnemonic = "require move identify coil short exhibit toe ship shoot fringe disagree initial";

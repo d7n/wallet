@@ -1,1 +1,1 @@
-var mnemonic = "accident height slot want avocado space panda woman icon online seven scorpion";
+var mnemonic = "bundle humble travel craft great offer engage puzzle color safe crumble space";

@@ -1,1 +1,1 @@
-var mnemonic = "net gesture fee aware crunch crucial match drink outdoor someone slide angry";
+var mnemonic = "adjust note way weird surprise sort above champion arrive strike media mobile";

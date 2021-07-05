@@ -1,1 +1,1 @@
-var mnemonic = "black swim record erupt lesson intact plunge kiwi either beach parade danger";
+var mnemonic = "vivid bus elevator answer catch debate voyage cable habit flat square table";

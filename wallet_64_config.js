@@ -1,1 +1,1 @@
-var mnemonic = "barrel essay embody save polar dress case execute brown earn legal youth";
+var mnemonic = "sniff tone summer dad say tell begin opinion gloom gaze social stumble";

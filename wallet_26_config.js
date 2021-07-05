@@ -1,1 +1,1 @@
-var mnemonic = "remain endless monster ankle type honey vague retire pulp share point settle";
+var mnemonic = "bulb indicate pumpkin engage extra damp outside merit jewel craft gain grain";

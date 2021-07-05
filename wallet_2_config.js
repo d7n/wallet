@@ -1,1 +1,1 @@
-var mnemonic = "expire business permit habit depth crush little drive smooth into flush ocean";
+var mnemonic = "dune travel future outside toss common often feature resource foam casino pool";

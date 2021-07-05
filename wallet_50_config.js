@@ -1,1 +1,1 @@
-var mnemonic = "buyer common loop memory stage speed damp fun kiwi dry silver rate";
+var mnemonic = "amazing debate divorce bleak scrap meat sniff enough zero patient height public";

@@ -1,1 +1,1 @@
-var mnemonic = "obey upon math gorilla vibrant human bus snack skin inch despair rack";
+var mnemonic = "bomb seed left balcony head window reward more ordinary cupboard aspect lab";

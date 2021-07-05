@@ -1,1 +1,1 @@
-var mnemonic = "fashion item page crime bulb toe drip donate biology knock also bus";
+var mnemonic = "trial option fantasy spike flock wink apart skull regret end swamp affair";

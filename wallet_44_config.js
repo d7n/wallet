@@ -1,1 +1,1 @@
-var mnemonic = "present replace heavy ancient obvious olive brother desert science pride voyage purpose";
+var mnemonic = "combine space toast twin toy tumble orbit seminar monster clown skill salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "other fine rate leaf focus ripple believe monkey aisle radio surface power";
+var mnemonic = "catalog portion city twin whip universe donkey solve dizzy confirm slice brush";

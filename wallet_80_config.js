@@ -1,1 +1,1 @@
-var mnemonic = "saddle tuition vague team sell palm proud denial orange keen pole south";
+var mnemonic = "trade fatal inch observe trim pole oyster address master story cannon actress";

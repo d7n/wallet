@@ -1,1 +1,1 @@
-var mnemonic = "panda crouch end unable stumble crawl pet lucky about crawl correct pave";
+var mnemonic = "fit dial flock ostrich meadow teach between erase icon dignity reunion penalty";

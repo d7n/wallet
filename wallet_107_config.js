@@ -1,1 +1,1 @@
-var mnemonic = "lecture nerve bonus wing present shoulder pen outdoor amazing daring mad awful";
+var mnemonic = "huge inch asset fun runway torch wreck woman beef purchase inquiry promote";
