@@ -1,1 +1,1 @@
-var mnemonic = "pair vivid train roof nothing drum trigger jelly acoustic spawn wood pepper";
+var mnemonic = "battle mule casual caught mimic arrive draw smoke hard elevator skate midnight";

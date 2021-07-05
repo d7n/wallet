@@ -1,1 +1,1 @@
-var mnemonic = "swift rude stumble club parrot reason spring into toilet grass crucial useful";
+var mnemonic = "click divert poem control sustain awkward that label mystery valley famous marble";

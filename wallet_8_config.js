@@ -1,1 +1,1 @@
-var mnemonic = "walnut walk payment sad add lucky climb fine visa wage dizzy wreck";
+var mnemonic = "dynamic nature keen shop popular outer patrol sketch better mouse else venue";

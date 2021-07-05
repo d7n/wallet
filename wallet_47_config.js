@@ -1,1 +1,1 @@
-var mnemonic = "canoe soccer nuclear company glory spend focus snack enroll clump rural aisle";
+var mnemonic = "embark uniform style brass dune glass book peace gate aspect inner label";

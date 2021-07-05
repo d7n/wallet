@@ -1,1 +1,1 @@
-var mnemonic = "melt sunny exact chef bean section define solve mountain glory increase federal";
+var mnemonic = "aunt athlete energy mystery gesture act typical elephant obey fashion another cabbage";

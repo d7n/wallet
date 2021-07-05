@@ -1,1 +1,1 @@
-var mnemonic = "also stadium neutral banner maximum magic elegant opinion bargain patient tube aerobic";
+var mnemonic = "arctic famous inform guard rain absurd trumpet fatigue rookie mushroom apple crash";

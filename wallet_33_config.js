@@ -1,1 +1,1 @@
-var mnemonic = "expose tell mistake since exercise effort pear street lake craft canal foot";
+var mnemonic = "little until absorb patient rotate depend truly afford print mask actual element";

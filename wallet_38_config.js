@@ -1,1 +1,1 @@
-var mnemonic = "lunar fruit filter true phone dog hedgehog height fine captain young govern";
+var mnemonic = "tool return sibling club horn faith sketch artwork film control quiz trick";

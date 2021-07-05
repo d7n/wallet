@@ -1,1 +1,1 @@
-var mnemonic = "blue mobile paddle cost choice sphere physical thank bind across traffic little";
+var mnemonic = "grab silent addict reopen popular ozone element top caution tired minor heart";

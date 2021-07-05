@@ -1,1 +1,1 @@
-var mnemonic = "train shaft easy tonight umbrella helmet siege hurdle vault census become appear";
+var mnemonic = "royal protect duty become end quick dwarf liquid chase sing want era";

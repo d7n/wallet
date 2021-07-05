@@ -1,1 +1,1 @@
-var mnemonic = "follow minimum only rally term swarm sugar cricket slab sorry initial arrange";
+var mnemonic = "bundle dust vague erupt foil beyond laugh spend duck output mechanic urge";

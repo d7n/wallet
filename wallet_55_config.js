@@ -1,1 +1,1 @@
-var mnemonic = "fit skull spare wet metal oven rely issue nominee slam rice soon";
+var mnemonic = "fluid volcano unknown receive culture resource lady staff shove harvest sea length";

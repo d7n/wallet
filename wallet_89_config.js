@@ -1,1 +1,1 @@
-var mnemonic = "super scrub bacon blue slam boat target fan bulk slice gasp deliver";
+var mnemonic = "wheat forum make kiwi lunar tomorrow fantasy rescue trap moon rocket ball";

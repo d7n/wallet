@@ -1,1 +1,1 @@
-var mnemonic = "strategy warrior universe boring tilt cotton impact answer blind dice curve year";
+var mnemonic = "helmet shaft switch more trap tornado heavy outside end rhythm dynamic whisper";

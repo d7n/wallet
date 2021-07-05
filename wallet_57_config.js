@@ -1,1 +1,1 @@
-var mnemonic = "swing bonus pair light wisdom van account wrong tunnel dilemma cabbage want";
+var mnemonic = "boat subject scissors river interest afraid abandon found leisure camera inherit scare";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard raccoon regret general meadow brush you lobster dream can wheel struggle";
+var mnemonic = "pony chicken surround crew friend acquire grace mind mask social doll rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "still enrich vast average uncle rabbit wife chest elite retire gossip hope";
+var mnemonic = "garment area visa excuse avoid suspect destroy lift century duty input media";

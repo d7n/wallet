@@ -1,1 +1,1 @@
-var mnemonic = "social palace actor sponsor sister tide loyal fortune addict oven oven any";
+var mnemonic = "comic chat tree marriage index boss spring scissors auction sea usual toilet";

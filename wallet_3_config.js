@@ -1,1 +1,1 @@
-var mnemonic = "social topic achieve critic city tortoise melt main head phrase glow trade";
+var mnemonic = "slide grant crisp reunion analyst thunder ankle attend ethics girl flavor warm";

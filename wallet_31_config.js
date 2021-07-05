@@ -1,1 +1,1 @@
-var mnemonic = "couple wage puppy cry junk result tattoo winter waste cube critic anger";
+var mnemonic = "office pony employ walk youth genuine aim harbor cloud gas web aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "seek width filter earn plunge unfold keen bronze stuff harsh crowd glory";
+var mnemonic = "slot exchange layer hero inch lake hill segment scorpion large elder three";

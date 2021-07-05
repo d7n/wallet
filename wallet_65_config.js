@@ -1,1 +1,1 @@
-var mnemonic = "cat time market shift mom gadget topic town electric ability firm nurse";
+var mnemonic = "charge obvious trend share deal space roof favorite trumpet witness elegant alone";

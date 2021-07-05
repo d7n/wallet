@@ -1,1 +1,1 @@
-var mnemonic = "egg catch story pilot digital debate nominee volcano ski peasant office asthma";
+var mnemonic = "vague disease leader lyrics swift quarter below jungle say know myself danger";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze already mosquito glance immense holiday acid dumb family lake refuse wrong";
+var mnemonic = "lounge bright tent spider smooth champion orbit bone evoke forum track dinner";

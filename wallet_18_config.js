@@ -1,1 +1,1 @@
-var mnemonic = "few pony inject vast couple vicious absent bullet jump ice number prevent";
+var mnemonic = "group awake seven march gun tattoo luxury food conduct pistol honey beyond";

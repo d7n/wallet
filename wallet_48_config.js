@@ -1,1 +1,1 @@
-var mnemonic = "sphere replace member genuine tourist receive baby brand uphold another broken spy";
+var mnemonic = "spray endless cute intact topic saddle square moral sleep ill pupil surprise";

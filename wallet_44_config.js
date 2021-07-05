@@ -1,1 +1,1 @@
-var mnemonic = "air undo skill weasel ocean sun unveil immune foam grocery goose whale";
+var mnemonic = "switch summer joke wife sheriff basic cook giraffe erupt romance suggest state";

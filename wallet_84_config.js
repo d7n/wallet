@@ -1,1 +1,1 @@
-var mnemonic = "zebra uniform evoke woman excess tell dream goat leave access embark hospital";
+var mnemonic = "say service idea hedgehog sauce leg turn include slim review junior lobster";

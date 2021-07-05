@@ -1,1 +1,1 @@
-var mnemonic = "horror clever normal soldier rival simple odor bundle predict height shallow spoil";
+var mnemonic = "pact chronic cup letter text nice velvet comfort feel please message dutch";

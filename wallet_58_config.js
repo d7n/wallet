@@ -1,1 +1,1 @@
-var mnemonic = "yard option imitate hidden lesson margin glory mercy tag drama bike outer";
+var mnemonic = "tornado more sight injury ketchup seminar track despair lottery repeat hour target";

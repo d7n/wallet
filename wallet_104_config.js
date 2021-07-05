@@ -1,1 +1,1 @@
-var mnemonic = "vibrant access dream suit letter laundry harsh certain only west window ten";
+var mnemonic = "bike garlic agree magnet permit myself post hockey honey avocado oblige trip";

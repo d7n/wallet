@@ -1,1 +1,1 @@
-var mnemonic = "rain skirt what glove ripple segment camera warm ancient bread loyal buzz";
+var mnemonic = "upgrade fall dismiss vast gloom alien blast legend stereo horror call rough";

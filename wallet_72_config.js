@@ -1,1 +1,1 @@
-var mnemonic = "album abandon primary dwarf duck cricket dove gloom major utility cheap vital";
+var mnemonic = "agent canoe misery mutual such alpha enough enlist damp element middle bunker";

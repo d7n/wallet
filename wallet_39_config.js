@@ -1,1 +1,1 @@
-var mnemonic = "guilt milk cash item twist response spring sketch slush summer any blast";
+var mnemonic = "ancient bunker patient stove habit buyer symbol doctor vendor wrist hint stage";

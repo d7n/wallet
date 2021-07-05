@@ -1,1 +1,1 @@
-var mnemonic = "surprise stick aerobic happy remove ready puzzle crucial hospital inmate cycle equip";
+var mnemonic = "speed leader famous tip fox sense pepper bean between notable old banner";

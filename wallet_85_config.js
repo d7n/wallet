@@ -1,1 +1,1 @@
-var mnemonic = "ugly cup person planet symptom because together fruit ice tide awkward mesh";
+var mnemonic = "tired deer grape evil tide perfect example crash fog diary property gospel";

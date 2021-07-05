@@ -1,1 +1,1 @@
-var mnemonic = "purpose among toddler daughter phone property agree tobacco hood resource never ask";
+var mnemonic = "food escape kiss alien aerobic loop judge become shiver gesture husband explain";

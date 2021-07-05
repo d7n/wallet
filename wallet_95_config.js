@@ -1,1 +1,1 @@
-var mnemonic = "science slim uniform fall stick tail hospital soup future source brown differ";
+var mnemonic = "refuse empower point grab box front build tackle grain tower proud noise";

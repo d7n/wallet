@@ -1,1 +1,1 @@
-var mnemonic = "shy token peace motor zoo border enrich retreat warfare nut roof glove";
+var mnemonic = "lady twist blanket loan whip fantasy material valve increase dentist side cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll tip wrestle among orient draw tooth fresh kangaroo blanket mad summer";
+var mnemonic = "drastic power tail pretty ecology cable scatter install rhythm choose pluck canal";

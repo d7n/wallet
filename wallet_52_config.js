@@ -1,1 +1,1 @@
-var mnemonic = "expand easy biology suit rebel blush usual pluck sword enlist pair room";
+var mnemonic = "sail frozen bottom autumn announce dynamic whip foil marine school farm able";

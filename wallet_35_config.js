@@ -1,1 +1,1 @@
-var mnemonic = "nurse jelly expand frame thought history worry pull room digital dose symptom";
+var mnemonic = "clinic rubber genuine flavor science cannon genius swallow violin item juice kitchen";

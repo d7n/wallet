@@ -1,1 +1,1 @@
-var mnemonic = "pudding execute access cage invite pulp flip alien key raw talk maid";
+var mnemonic = "face version scatter fox twist cigar merit depth rack velvet multiply script";

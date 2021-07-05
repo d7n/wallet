@@ -1,1 +1,1 @@
-var mnemonic = "shock shuffle until photo donor ship among action era hub west taxi";
+var mnemonic = "boy track target picture undo couple expire uncover drink alien bounce zero";

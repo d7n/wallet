@@ -1,1 +1,1 @@
-var mnemonic = "bracket purchase two message gift culture fiber stock anxiety answer upgrade soda";
+var mnemonic = "brand confirm unlock phone service enjoy pelican survey regret act smooth ankle";

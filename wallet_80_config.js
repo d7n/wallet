@@ -1,1 +1,1 @@
-var mnemonic = "tent symbol fetch knife sheriff trend crush beauty seat mixture wife carpet";
+var mnemonic = "laptop earn true dinner endless furnace silk apple sleep exact mouse sting";

@@ -1,1 +1,1 @@
-var mnemonic = "boat century witness cabin switch approve divert depth equip box remove effort";
+var mnemonic = "shove because appear fault lazy announce laugh make morning pyramid strong drum";

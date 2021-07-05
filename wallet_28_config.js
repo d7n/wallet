@@ -1,1 +1,1 @@
-var mnemonic = "electric cause behind dice future victory tragic music wealth excess clutch omit";
+var mnemonic = "december bundle labor primary spot lawsuit sunny survey harbor avoid february pudding";

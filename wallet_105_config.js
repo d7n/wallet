@@ -1,1 +1,1 @@
-var mnemonic = "explain shove runway nice aim pink uncover enroll clever danger dynamic amount";
+var mnemonic = "shock treat essay flock page crowd chef suffer twin drastic satisfy fog";

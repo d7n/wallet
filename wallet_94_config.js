@@ -1,1 +1,1 @@
-var mnemonic = "miracle range wash problem fabric scrap awake athlete junk note magnet angry";
+var mnemonic = "ozone guilt oyster benefit eagle shell cool grain follow kind dinosaur acquire";

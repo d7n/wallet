@@ -1,1 +1,1 @@
-var mnemonic = "salad bag resemble obtain during alley stereo crowd robust summer alpha trouble";
+var mnemonic = "dust void attract trend sustain humor electric wood ivory dinner current hub";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige betray bird purity coffee breeze invite pigeon present subway essence dog";
+var mnemonic = "orient profit skull base able convince tuna album expand sauce payment summer";

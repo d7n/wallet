@@ -1,1 +1,1 @@
-var mnemonic = "bridge census focus scissors wealth wolf vast install burger review world economy";
+var mnemonic = "wheel obvious museum caught spray mosquito swallow you finger cloud orbit ecology";

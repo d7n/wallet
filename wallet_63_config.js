@@ -1,1 +1,1 @@
-var mnemonic = "time nephew process humble market type floor rural various spice amused rule";
+var mnemonic = "disagree slush pool already copy almost cruise ramp patch bean country level";

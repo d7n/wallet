@@ -1,1 +1,1 @@
-var mnemonic = "sketch clever razor tortoise yard shine weasel shiver someone farm hole summer";
+var mnemonic = "wrist legal genius green stereo shove crater rescue gloom junk obtain mosquito";

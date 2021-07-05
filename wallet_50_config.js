@@ -1,1 +1,1 @@
-var mnemonic = "sort inflict leaf cricket narrow primary mention present violin wise logic guard";
+var mnemonic = "enlist hobby certain human eyebrow beach dolphin sword cigar there mask entire";

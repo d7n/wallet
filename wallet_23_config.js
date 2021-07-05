@@ -1,1 +1,1 @@
-var mnemonic = "regular cave chest error bind speed organ push wealth nut mail caught";
+var mnemonic = "garment purchase point tag senior long increase best grunt type shoe code";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue never amused finger increase giraffe require absurd among hockey style naive";
+var mnemonic = "town recall net weekend depart bamboo town best transfer shop knife regular";

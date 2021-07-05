@@ -1,1 +1,1 @@
-var mnemonic = "alcohol glow monkey health stay plate discover valid enroll shy slot aware";
+var mnemonic = "unveil wave leopard friend flower evolve profit wash shove fame thunder miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure soda bar pottery goat swing review noble involve barrel opinion scan";
+var mnemonic = "mechanic lesson lava allow true absurd pattern coyote welcome cart clerk faith";

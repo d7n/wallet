@@ -1,1 +1,1 @@
-var mnemonic = "country check middle hold rural shock shrug wear piece stable chuckle screen";
+var mnemonic = "column universe outdoor hand link clog faculty inmate raccoon enhance shock crisp";

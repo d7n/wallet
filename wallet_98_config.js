@@ -1,1 +1,1 @@
-var mnemonic = "task guilt solar salon inform warrior scorpion farm pen note mass interest";
+var mnemonic = "patient leisure hungry reflect wave trigger excite material vibrant become nasty unique";

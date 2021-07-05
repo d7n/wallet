@@ -1,1 +1,1 @@
-var mnemonic = "raccoon acid obvious blouse people burst capable hurt region vehicle enlist voice";
+var mnemonic = "observe beauty alert move iron present chimney almost brisk chair release limit";

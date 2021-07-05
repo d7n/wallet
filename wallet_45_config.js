@@ -1,1 +1,1 @@
-var mnemonic = "gauge legal exit sign tip hawk mail cart prepare silent helmet caught";
+var mnemonic = "album cat magic embody cruel upgrade stumble melt illness width resemble nurse";

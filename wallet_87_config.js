@@ -1,1 +1,1 @@
-var mnemonic = "local muscle twenty knife occur powder cute assault choice shoe wire dilemma";
+var mnemonic = "pledge romance step muffin source wet ready settle priority make giraffe comfort";

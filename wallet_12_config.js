@@ -1,1 +1,1 @@
-var mnemonic = "escape punch correct increase glow acid retire eye time miracle weasel have";
+var mnemonic = "midnight crisp degree acid proud theory genuine enforce rubber raise floor inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle effort faculty chunk word pattern clinic peanut model camera endless process";
+var mnemonic = "during merge that muscle ball forest stock execute piano slab physical cabbage";

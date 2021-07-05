@@ -1,1 +1,1 @@
-var mnemonic = "just lounge dry wife daring helmet crime age real museum dry drive";
+var mnemonic = "baby carpet hover method upon key noodle victory three soft spirit smile";

@@ -1,1 +1,1 @@
-var mnemonic = "where lounge fame truth labor camp girl stomach clean glad travel path";
+var mnemonic = "siege minute valve renew unfair cup advice town chat security clay act";

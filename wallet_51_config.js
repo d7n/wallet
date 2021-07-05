@@ -1,1 +1,1 @@
-var mnemonic = "lumber pattern boss envelope scatter seek gossip master lucky heavy loyal boss";
+var mnemonic = "cherry reveal become miracle survey lady man click shaft sniff person denial";

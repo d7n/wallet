@@ -1,1 +1,1 @@
-var mnemonic = "beyond arm legal dust nephew window lens enact chicken inflict spend hint";
+var mnemonic = "reason soon top primary reduce ethics shine lottery practice team tide transfer";

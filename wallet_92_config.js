@@ -1,1 +1,1 @@
-var mnemonic = "sniff exile earth burst system spin legal supply trust impulse image never";
+var mnemonic = "tray peasant orbit inner post shift tip select obvious deliver snack luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "dish butter leisure penalty swap damp hotel parent rack blind raw wise";
+var mnemonic = "rookie neither topic alter bread wrap pair notable truly angry orange avoid";

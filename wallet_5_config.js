@@ -1,1 +1,1 @@
-var mnemonic = "ahead into memory clay lab hub apology degree click seek busy crime";
+var mnemonic = "vehicle physical update sand member guess north claw sample silly chief absorb";

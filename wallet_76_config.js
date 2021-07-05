@@ -1,1 +1,1 @@
-var mnemonic = "light fault amused turtle staff edge face wreck october library vivid purchase";
+var mnemonic = "car pitch puzzle broccoli ship dizzy stage music use benefit act confirm";

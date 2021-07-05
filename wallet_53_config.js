@@ -1,1 +1,1 @@
-var mnemonic = "doctor balcony extra below rather casino census gas employ easy focus near";
+var mnemonic = "pyramid snow april boat shed bleak screen loyal salad theme dentist canal";

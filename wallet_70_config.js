@@ -1,1 +1,1 @@
-var mnemonic = "mandate daring cancel chicken excess foot maple kangaroo keep jazz laugh barrel";
+var mnemonic = "canal describe ethics crash island mind acoustic cloud maid liquid sheriff iron";

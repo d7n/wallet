@@ -1,1 +1,1 @@
-var mnemonic = "solid promote faith gloom deputy range goose indicate gold puppy tree cook";
+var mnemonic = "mind note lawsuit rapid curious erosion rural payment drift story spoon shy";

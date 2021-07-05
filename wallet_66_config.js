@@ -1,1 +1,1 @@
-var mnemonic = "universe frame minimum sauce bounce brave mad cupboard depart devote damp gap";
+var mnemonic = "arm since dance sheriff spin husband woman smoke vehicle have drink lesson";

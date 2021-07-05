@@ -1,1 +1,1 @@
-var mnemonic = "silent approve cage cricket almost tornado talk neither prevent such fresh aim";
+var mnemonic = "waste airport step boat balcony flame victory script review confirm spider wait";

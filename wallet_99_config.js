@@ -1,1 +1,1 @@
-var mnemonic = "grow enough tackle hen wrong find cup fragile urban there beef return";
+var mnemonic = "year tomorrow stomach butter cream mercy vendor float donor broom wage negative";

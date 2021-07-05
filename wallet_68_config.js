@@ -1,1 +1,1 @@
-var mnemonic = "retreat attitude final radio melody coyote smoke wish month crush affair improve";
+var mnemonic = "electric cup basket puzzle swarm long knock outer bind injury arch swear";

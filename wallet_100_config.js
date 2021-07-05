@@ -1,1 +1,1 @@
-var mnemonic = "symptom joke sister vapor boy pudding route vacuum strike fade skate blade";
+var mnemonic = "fiction side devote decade edit supreme hockey hollow curious canal fiber link";

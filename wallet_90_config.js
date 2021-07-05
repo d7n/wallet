@@ -1,1 +1,1 @@
-var mnemonic = "grunt vast off aunt drill effort river arena wedding become disorder sponsor";
+var mnemonic = "wage drive give sunset cigar goose stove ghost skirt idea express prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra help palace inject title phone ten render sleep nominee video adjust";
+var mnemonic = "fall square behind worry snake poem stock sample plug oblige rookie forest";

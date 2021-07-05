@@ -1,1 +1,1 @@
-var mnemonic = "number youth mother ship anchor almost pool outer depart unveil disagree student";
+var mnemonic = "flee lamp loop latin siege lake keep total exile riot grit gate";

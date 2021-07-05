@@ -1,1 +1,1 @@
-var mnemonic = "very chunk puzzle protect taxi swarm mobile order zoo miracle film alpha";
+var mnemonic = "wine race view car age lawsuit improve suffer moral infant lecture explain";

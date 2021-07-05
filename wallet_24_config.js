@@ -1,1 +1,1 @@
-var mnemonic = "ethics dish brisk debris mutual morning stuff top veteran shallow police security";
+var mnemonic = "drama grief gather steel glance ecology squirrel quantum bright unknown vacuum slow";
