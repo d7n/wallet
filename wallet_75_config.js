@@ -1,1 +1,1 @@
-var mnemonic = "trophy frost fringe soft person sound earn donkey october cry soldier friend";
+var mnemonic = "upset receive pupil figure waste rigid artist rabbit mind couple fiber chuckle";

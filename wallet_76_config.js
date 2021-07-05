@@ -1,1 +1,1 @@
-var mnemonic = "office lawsuit faint match cotton private educate bench blue caught combine echo";
+var mnemonic = "drastic copper tiny reduce cave elegant radar strike jeans supreme cost nest";

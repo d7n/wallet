@@ -1,1 +1,1 @@
-var mnemonic = "slide love notice loud dial expand aerobic force wealth bunker alone negative";
+var mnemonic = "flavor brush bright blouse moral walk enrich cake maximum exhaust step subway";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin infant forget asset dizzy alcohol cricket senior pulse symbol leisure any";
+var mnemonic = "memory link tell neglect squeeze season tip lend level until nurse muffin";

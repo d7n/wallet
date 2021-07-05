@@ -1,1 +1,1 @@
-var mnemonic = "gain catalog kit invest energy tobacco race earn have embrace sting transfer";
+var mnemonic = "identify trim soul clay fat sibling girl manage oval utility initial basic";

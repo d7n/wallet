@@ -1,1 +1,1 @@
-var mnemonic = "pig debate pool dawn above differ today expire radar moral lock small";
+var mnemonic = "twice stadium duty topple honey business panther inject name exchange slogan angry";

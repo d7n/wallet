@@ -1,1 +1,1 @@
-var mnemonic = "sudden volcano light palace alien host question hollow lemon rough rose poverty";
+var mnemonic = "winter dash wool occur useful convince task various wife race abandon bind";

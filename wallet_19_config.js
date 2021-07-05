@@ -1,1 +1,1 @@
-var mnemonic = "shallow knife lamp change cry account turtle parent sand produce initial unique";
+var mnemonic = "gain bulb divide power coconut pudding claim paper make garden sauce replace";

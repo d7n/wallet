@@ -1,1 +1,1 @@
-var mnemonic = "strategy canoe cheese laundry recycle advice few menu scout cream put unveil";
+var mnemonic = "gauge rotate pistol remember place master husband main rebuild sure slam strong";

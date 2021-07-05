@@ -1,1 +1,1 @@
-var mnemonic = "void pistol joy palace cousin black search clever black sunset gym double";
+var mnemonic = "salmon proof dog cart coast mail pear merge black humble throw scatter";

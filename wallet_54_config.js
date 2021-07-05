@@ -1,1 +1,1 @@
-var mnemonic = "pluck mixture spawn afford grab follow allow spatial kick gravity pony among";
+var mnemonic = "mammal now task fold debris friend garlic trouble music weekend whisper mistake";

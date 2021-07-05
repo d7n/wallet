@@ -1,1 +1,1 @@
-var mnemonic = "awesome extend scheme super budget police across foot achieve budget canoe range";
+var mnemonic = "response cricket object celery auto decline assist remove inform extend fetch shine";

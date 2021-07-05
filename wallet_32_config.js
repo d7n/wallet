@@ -1,1 +1,1 @@
-var mnemonic = "faculty stereo spring garage wagon problem lab foam parade hello nose clown";
+var mnemonic = "talk fire spin eyebrow dragon old keep season leader craft ill indicate";

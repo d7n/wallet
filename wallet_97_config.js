@@ -1,1 +1,1 @@
-var mnemonic = "give shield final churn acid minimum cherry gaze raccoon stick lift winter";
+var mnemonic = "ill pluck small flag obvious guilt scan rain cheap poverty grant column";

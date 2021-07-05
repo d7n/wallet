@@ -1,1 +1,1 @@
-var mnemonic = "time cushion shrimp catch soap tree tide doll wrist enact plunge laugh";
+var mnemonic = "silent satisfy scrub grocery dismiss reason appear cabin type manage web ignore";

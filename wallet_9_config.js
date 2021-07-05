@@ -1,1 +1,1 @@
-var mnemonic = "drip initial horror sentence lake wise noble orphan ride ocean cup piano";
+var mnemonic = "online piece also later enforce sunny hold always shy spice walk soft";

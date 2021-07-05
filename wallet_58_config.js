@@ -1,1 +1,1 @@
-var mnemonic = "entry lyrics glory still help track leg monitor barely club daring provide";
+var mnemonic = "home ramp card thank chase stage museum cycle lounge duty rubber valve";

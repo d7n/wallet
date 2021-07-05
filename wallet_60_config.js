@@ -1,1 +1,1 @@
-var mnemonic = "property stuff pond major language wreck ritual maid bag fancy unhappy emerge";
+var mnemonic = "advice spy outdoor uniform transfer purse access ivory unlock list glory message";

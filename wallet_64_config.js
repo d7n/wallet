@@ -1,1 +1,1 @@
-var mnemonic = "grape scan sniff ability tomorrow volume expose bird possible decrease random nest";
+var mnemonic = "radar local joy pass flock bike inject evoke pigeon deputy zoo million";

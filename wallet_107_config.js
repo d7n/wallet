@@ -1,1 +1,1 @@
-var mnemonic = "orient carpet purpose tray copy neck hobby skill situate tiger act what";
+var mnemonic = "oil wife rhythm enter grit saddle pattern duck dash wrap typical wine";

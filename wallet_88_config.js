@@ -1,1 +1,1 @@
-var mnemonic = "jealous parade antique solar enable recycle awkward umbrella gift away black target";
+var mnemonic = "clever elegant spot potato resource target street explain safe saddle toilet aware";

@@ -1,1 +1,1 @@
-var mnemonic = "trend slab taste reject curious unlock moral banner filter bleak tackle fancy";
+var mnemonic = "worry fall season comfort simple damp wrap amount library also upon excess";

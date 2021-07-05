@@ -1,1 +1,1 @@
-var mnemonic = "raccoon uphold rotate void arm either derive leave crack design agree ride";
+var mnemonic = "laugh van congress century lucky shoe achieve avocado like finger crisp manage";

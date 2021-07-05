@@ -1,1 +1,1 @@
-var mnemonic = "cousin entire ritual twenty shock just position brave express such purchase much";
+var mnemonic = "hedgehog boy wide man roof okay basket crystal traffic high magic whip";

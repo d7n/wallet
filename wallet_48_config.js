@@ -1,1 +1,1 @@
-var mnemonic = "gentle toast tumble gossip title wheat snake skirt certain bonus discover crouch";
+var mnemonic = "dial rapid inherit acoustic grunt sample dose away hazard easily earth among";

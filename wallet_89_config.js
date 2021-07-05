@@ -1,1 +1,1 @@
-var mnemonic = "match abstract health sunset senior fantasy keep blanket good oblige oval magnet";
+var mnemonic = "dish interest deposit reopen tragic liberty drum sugar slow magic spoil pride";

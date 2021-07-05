@@ -1,1 +1,1 @@
-var mnemonic = "misery cushion illegal ripple scorpion symptom crop uncover manage nut uphold until";
+var mnemonic = "gloom palm vanish dress fantasy blame virus next stomach vehicle vendor nut";

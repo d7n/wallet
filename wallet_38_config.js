@@ -1,1 +1,1 @@
-var mnemonic = "vibrant future alarm comfort thing phrase random original wrestle hand october about";
+var mnemonic = "uphold exile again meat extra finger bullet plastic cage measure voice home";

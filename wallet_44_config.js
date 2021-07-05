@@ -1,1 +1,1 @@
-var mnemonic = "trial mix border always fold winner small pumpkin buffalo repair region grit";
+var mnemonic = "remind penalty pledge hunt envelope smart abandon cash tornado pet breeze toy";

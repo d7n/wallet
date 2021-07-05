@@ -1,1 +1,1 @@
-var mnemonic = "skate response agree install dove helmet surge broken jelly better crater upper";
+var mnemonic = "pretty collect nerve family day order play crystal crawl catalog circle alcohol";

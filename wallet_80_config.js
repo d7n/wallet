@@ -1,1 +1,1 @@
-var mnemonic = "render note fuel runway learn bonus mango crowd tide private century swarm";
+var mnemonic = "tourist foam option clap wreck salute next circle violin item stomach outdoor";

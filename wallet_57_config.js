@@ -1,1 +1,1 @@
-var mnemonic = "junior maple tissue salon antenna bread immense movie edge stumble prosper spirit";
+var mnemonic = "jungle history city caught fancy heavy caution shoot tackle artwork oil misery";

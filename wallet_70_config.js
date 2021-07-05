@@ -1,1 +1,1 @@
-var mnemonic = "clump three normal wrap satoshi addict orchard renew kiss winter image slot";
+var mnemonic = "atom armor drama fitness police project panic senior lamp save fringe motor";

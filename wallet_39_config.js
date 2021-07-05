@@ -1,1 +1,1 @@
-var mnemonic = "mask side next close breeze tip motor traffic sphere enlist engage frequent";
+var mnemonic = "victory thing since order already cotton kite oval father modify throw tag";

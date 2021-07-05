@@ -1,1 +1,1 @@
-var mnemonic = "kiwi profit book excite crater typical manage thing already toss fat reveal";
+var mnemonic = "pistol pepper cigar remember entire claw hotel cycle online float anchor analyst";

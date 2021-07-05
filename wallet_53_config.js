@@ -1,1 +1,1 @@
-var mnemonic = "sock online thumb entire spell into lens sand hole review timber employ";
+var mnemonic = "object wisdom credit lamp fragile drama brass ritual episode guard rapid brave";

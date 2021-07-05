@@ -1,1 +1,1 @@
-var mnemonic = "little design speak cricket future afraid subway hello extend hair category defense";
+var mnemonic = "alter immense humor fashion casual bulk jaguar false wear situate fancy alter";

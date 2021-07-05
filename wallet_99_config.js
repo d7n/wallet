@@ -1,1 +1,1 @@
-var mnemonic = "initial envelope anchor section physical corn project super hobby lucky awesome ritual";
+var mnemonic = "aerobic spawn benefit before swim modify abandon phone proof pulp admit gallery";

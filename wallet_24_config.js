@@ -1,1 +1,1 @@
-var mnemonic = "fresh rough process truck front elder illegal biology rule farm jungle among";
+var mnemonic = "soldier label tribe enough spring figure galaxy hurt grace lizard novel guilt";

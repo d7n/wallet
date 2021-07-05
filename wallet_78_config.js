@@ -1,1 +1,1 @@
-var mnemonic = "ball silly either decorate solid steak expire adapt hint web glad dress";
+var mnemonic = "just penalty chronic bridge flee blade apple inch wage history energy sock";

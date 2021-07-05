@@ -1,1 +1,1 @@
-var mnemonic = "stick crunch crash aunt wool muscle surround burst victory other prevent diamond";
+var mnemonic = "define sure panther senior island convince lava leave shoot february vintage escape";

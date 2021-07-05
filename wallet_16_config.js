@@ -1,1 +1,1 @@
-var mnemonic = "comfort spawn better exercise erode hire jelly zebra together bench sauce tooth";
+var mnemonic = "solid episode forward subway wedding able film luggage update vendor silly occur";

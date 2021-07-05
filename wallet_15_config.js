@@ -1,1 +1,1 @@
-var mnemonic = "also economy three fault arch grit frequent canal raise member manage large";
+var mnemonic = "cage palace inflict dove stay enhance soon cake define silent hotel climb";

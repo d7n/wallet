@@ -1,1 +1,1 @@
-var mnemonic = "essence between dawn history drink stairs envelope embark joke skate run reflect";
+var mnemonic = "bitter civil globe chief frame swim plate fashion wash husband robot roast";

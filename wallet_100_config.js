@@ -1,1 +1,1 @@
-var mnemonic = "street tumble cliff feature calm resist carbon enable weird member metal luggage";
+var mnemonic = "trim bus club business such keep despair weird track tip despair figure";

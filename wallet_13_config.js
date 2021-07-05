@@ -1,1 +1,1 @@
-var mnemonic = "simple omit wave ozone critic patch achieve jelly flash build metal term";
+var mnemonic = "army furnace lamp oppose elevator copper cram leisure nest useful shock moment";

@@ -1,1 +1,1 @@
-var mnemonic = "material core picture drastic pen smoke life dwarf upgrade piece urban amazing";
+var mnemonic = "crime dumb govern suffer clown card sadness dinosaur cabbage wait carpet coast";

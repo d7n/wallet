@@ -1,1 +1,1 @@
-var mnemonic = "damage sea draft shed plate penalty ranch select wrist obey report wise";
+var mnemonic = "famous hello foster record brush napkin improve ensure bean abuse indoor assume";

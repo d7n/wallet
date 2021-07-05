@@ -1,1 +1,1 @@
-var mnemonic = "flat wild scissors rain armor jacket advice radio maid tornado tide include";
+var mnemonic = "feel jewel glance husband lucky now interest limb gospel assist scrap salt";

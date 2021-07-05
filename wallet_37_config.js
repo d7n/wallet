@@ -1,1 +1,1 @@
-var mnemonic = "where what spare regret abandon garage syrup eye tent charge mercy drastic";
+var mnemonic = "endorse primary heart wedding network race motion fatal stem snake turkey morning";

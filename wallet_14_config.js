@@ -1,1 +1,1 @@
-var mnemonic = "old weekend error kitten topple return bar decade kangaroo tell excuse health";
+var mnemonic = "visa leopard divide sorry unaware gospel use tunnel okay invest candy chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "trade salon depend fish invest wrist laundry region cactus hammer pull mercy";
+var mnemonic = "cost liquid hello large neck radio edit below gate draft sure bar";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock return mimic situate century alpha hand bunker pottery design web bicycle";
+var mnemonic = "horror ride access what actual barrel hand stadium future clinic unusual trigger";

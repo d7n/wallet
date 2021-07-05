@@ -1,1 +1,1 @@
-var mnemonic = "random mimic valve enforce around idle candy glory elbow crop will section";
+var mnemonic = "siege federal faith forget witness hire elephant chair finger desk habit climb";

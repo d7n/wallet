@@ -1,1 +1,1 @@
-var mnemonic = "during panther fringe rookie film cabbage tortoise bacon latin token assume describe";
+var mnemonic = "ranch trick vocal time orphan galaxy tattoo rail little type tent arrest";

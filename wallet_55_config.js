@@ -1,1 +1,1 @@
-var mnemonic = "way stage crop pigeon benefit beach local judge bamboo second frequent mail";
+var mnemonic = "valid busy blast defense jungle result soul unusual fan strategy world slender";

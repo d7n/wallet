@@ -1,1 +1,1 @@
-var mnemonic = "fiber legal embody shallow wet mention left twice vague cube tornado net";
+var mnemonic = "inject analyst tribe panic baby kiwi pair march spawn demise price right";

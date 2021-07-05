@@ -1,1 +1,1 @@
-var mnemonic = "sun prosper talk beauty fossil envelope vivid satisfy ice grain essay transfer";
+var mnemonic = "lemon satisfy palm blush stable frequent lift soldier fitness daughter soda siege";

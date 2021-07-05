@@ -1,1 +1,1 @@
-var mnemonic = "valid impose eight sample brown endorse rabbit dinner spatial cover uncle poem";
+var mnemonic = "service word enter wrist never awkward path object swamp battle castle slice";

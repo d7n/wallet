@@ -1,1 +1,1 @@
-var mnemonic = "degree merge great render stadium dolphin leg cupboard unit effort swear seed";
+var mnemonic = "biology tower brief rally total inform crew sleep express knife loan gasp";

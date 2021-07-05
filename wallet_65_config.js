@@ -1,1 +1,1 @@
-var mnemonic = "absorb become profit hire era fantasy great twist nest try favorite suggest";
+var mnemonic = "inner couple whisper tag mixture number cherry tackle trap spirit fragile coil";

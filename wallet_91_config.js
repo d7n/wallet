@@ -1,1 +1,1 @@
-var mnemonic = "estate choice seminar chat dad avoid stereo hood turkey lobster project galaxy";
+var mnemonic = "tilt matrix change canvas green turkey grow immense under boat ice ordinary";

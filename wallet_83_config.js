@@ -1,1 +1,1 @@
-var mnemonic = "upgrade daring squeeze pole script fence verb badge lumber butter pony road";
+var mnemonic = "left hold buddy joy flame flash input negative ten thunder daughter mango";

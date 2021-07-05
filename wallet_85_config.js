@@ -1,1 +1,1 @@
-var mnemonic = "awful gym voyage coin month picnic dinner flag embark check cheap system";
+var mnemonic = "chef slow start pelican split over parent ugly fly fury cabbage cement";

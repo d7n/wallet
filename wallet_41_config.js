@@ -1,1 +1,1 @@
-var mnemonic = "depend capital dinosaur end vote unit net glow truck gain horn desert";
+var mnemonic = "hockey galaxy grunt shine warrior local use mixture pistol swing hungry profit";

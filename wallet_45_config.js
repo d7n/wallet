@@ -1,1 +1,1 @@
-var mnemonic = "sail two trap above robust segment basic guilt chuckle tip slow myth";
+var mnemonic = "uphold system quick bamboo venture pact convince notable initial subject adapt team";

@@ -1,1 +1,1 @@
-var mnemonic = "polar nominee now faint famous pig harsh huge write jar soul fault";
+var mnemonic = "film fiscal squeeze casino december federal bid lonely visual ball conduct process";

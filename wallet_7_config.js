@@ -1,1 +1,1 @@
-var mnemonic = "ensure eagle mistake cruise funny slice rookie sunset six arctic shock twist";
+var mnemonic = "enact bicycle base link private garbage inside fruit receive ridge vault meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope sort company debate group current intact cross include ethics protect kid";
+var mnemonic = "know quit census misery pig chunk umbrella twice easily utility become breeze";

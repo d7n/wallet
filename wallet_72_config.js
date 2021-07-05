@@ -1,1 +1,1 @@
-var mnemonic = "either enjoy sign hawk until observe hire insect pigeon tired nothing sell";
+var mnemonic = "super orbit tumble throw survey mule script clever nest always clean improve";

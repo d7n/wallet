@@ -1,1 +1,1 @@
-var mnemonic = "inherit mimic train dilemma burst mountain lecture forum vacant idle talk wish";
+var mnemonic = "photo salmon argue access mixture year smooth hero gauge table boring please";

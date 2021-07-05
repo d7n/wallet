@@ -1,1 +1,1 @@
-var mnemonic = "favorite globe popular unique garden witness stumble amused void speed horse bus";
+var mnemonic = "patch immense cupboard expand essence volume lonely skirt mom clip fitness spoon";

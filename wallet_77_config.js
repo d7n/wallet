@@ -1,1 +1,1 @@
-var mnemonic = "snap weather various ignore skate medal very another fun outer student hospital";
+var mnemonic = "inch exercise victory clock travel lumber endorse oxygen slice element pet between";

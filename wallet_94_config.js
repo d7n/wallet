@@ -1,1 +1,1 @@
-var mnemonic = "enjoy session choose depth polar consider thunder agent farm hero state secret";
+var mnemonic = "into monster conduct improve rude broom credit duck long chaos canal calm";

@@ -1,1 +1,1 @@
-var mnemonic = "loop faith give screen warrior neither worth baby one scissors happy jungle";
+var mnemonic = "slim choice retire keep dog main claw describe green sheriff ripple category";

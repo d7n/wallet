@@ -1,1 +1,1 @@
-var mnemonic = "fire push detect dog more cotton cage prize mansion always gauge theme";
+var mnemonic = "problem install measure shield toddler bullet disorder slender pill vote essay decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "deny funny west core trash appear moon ankle sunny tube feed mixture";
+var mnemonic = "arctic leopard tribe tourist cruise bread penalty topple poverty normal bench link";

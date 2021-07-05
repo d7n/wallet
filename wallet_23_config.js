@@ -1,1 +1,1 @@
-var mnemonic = "fault similar hunt own dose bachelor street blood armor sausage injury make";
+var mnemonic = "shoe skirt sweet slide response dress quarter lunch style question cave kitten";

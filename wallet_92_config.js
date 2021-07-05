@@ -1,1 +1,1 @@
-var mnemonic = "power enact exercise age minor basic model frame cream neglect wrap style";
+var mnemonic = "inch update involve hotel glance code cherry health border rude floor planet";

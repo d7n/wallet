@@ -1,1 +1,1 @@
-var mnemonic = "series fat sugar swift little wild farm bean wonder liar boss crystal";
+var mnemonic = "artwork matrix same bonus system wave produce fall glove victory bench steel";

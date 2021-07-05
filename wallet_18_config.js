@@ -1,1 +1,1 @@
-var mnemonic = "mad rice arrive junior burden planet lava annual quote track steak spoon";
+var mnemonic = "ivory sail fever bargain reflect history once cement glance over rebel token";

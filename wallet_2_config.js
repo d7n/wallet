@@ -1,1 +1,1 @@
-var mnemonic = "minimum pulse refuse artefact flower guitar milk nature brisk junk broken neutral";
+var mnemonic = "fire farm human capital vessel gloom satoshi error pink drill snack daring";
