@@ -1,1 +1,1 @@
-var mnemonic = "bus rookie spoil unhappy voyage where glad tell before clever awesome twenty";
+var mnemonic = "sweet dose rely thing observe girl act excuse royal segment pledge core";

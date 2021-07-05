@@ -1,1 +1,1 @@
-var mnemonic = "discover way miracle morning faith hidden van damage bronze insane same dilemma";
+var mnemonic = "fragile north weapon practice dinner onion forward mercy actress fog dry cruel";

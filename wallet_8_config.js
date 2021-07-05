@@ -1,1 +1,1 @@
-var mnemonic = "course imitate combine pudding cry copper faith huge summer spatial answer reason";
+var mnemonic = "mad champion omit minimum harbor time notable leader vague define tragic police";

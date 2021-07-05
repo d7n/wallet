@@ -1,1 +1,1 @@
-var mnemonic = "cement melody birth hamster senior bid long close sauce sadness perfect forest";
+var mnemonic = "elegant human device fancy anxiety knock solar fitness cruel paddle armor clip";

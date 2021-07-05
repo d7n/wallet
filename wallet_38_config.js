@@ -1,1 +1,1 @@
-var mnemonic = "loyal soft source virtual reform version dance audit question wave despair orient";
+var mnemonic = "until science laundry cement wave prize learn critic coach dial reward topple";

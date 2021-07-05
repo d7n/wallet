@@ -1,1 +1,1 @@
-var mnemonic = "budget bonus usual wolf crouch dynamic trust result clarify spider argue capital";
+var mnemonic = "cupboard over moment cupboard head symptom word shift festival tuition history frog";

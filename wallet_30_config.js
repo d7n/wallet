@@ -1,1 +1,1 @@
-var mnemonic = "sight very sting victory unusual coast cart limit credit dance topic certain";
+var mnemonic = "nothing borrow admit zero jungle matter stay trim crumble way easily opera";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat much swing vendor book metal clog stamp response dance loan return";
+var mnemonic = "rigid kingdom win section veteran hidden wish jacket image avoid envelope easy";

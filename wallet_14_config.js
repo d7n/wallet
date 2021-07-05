@@ -1,1 +1,1 @@
-var mnemonic = "glow future same throw dune pumpkin mouse between solve wave season song";
+var mnemonic = "earn wall never feel load clog vague shadow couple earth major uncle";

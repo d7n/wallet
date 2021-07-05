@@ -1,1 +1,1 @@
-var mnemonic = "maple fee liquid meadow fluid talent spread taste sketch pepper champion color";
+var mnemonic = "random ride donate provide find setup screen chief visa whisper swing rib";

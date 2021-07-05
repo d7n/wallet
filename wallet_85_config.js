@@ -1,1 +1,1 @@
-var mnemonic = "tone accident practice jaguar arrow plate decide monitor sport glove tree legal";
+var mnemonic = "cruel crush dog alter item hint economy police deposit movie hub dove";

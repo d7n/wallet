@@ -1,1 +1,1 @@
-var mnemonic = "water object arrive panic rebel street ticket net web oyster alone abstract";
+var mnemonic = "proud milk urban forum hole flower tilt faith final room team frequent";

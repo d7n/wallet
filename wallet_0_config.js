@@ -1,1 +1,1 @@
-var mnemonic = "exclude stove velvet slush pioneer real jelly trim wheat title admit blood";
+var mnemonic = "thunder canoe spike man side table any resemble thought key develop feed";

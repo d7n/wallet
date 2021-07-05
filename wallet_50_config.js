@@ -1,1 +1,1 @@
-var mnemonic = "near prefer bread coin panther december evidence owner apology wasp notable shallow";
+var mnemonic = "give absurd breeze shadow mimic deliver sell step people human liberty genuine";

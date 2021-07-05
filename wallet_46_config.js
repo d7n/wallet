@@ -1,1 +1,1 @@
-var mnemonic = "gossip inmate fresh miracle tortoise hood cave tube merge budget lumber half";
+var mnemonic = "expire gasp office quote detail forward rubber true video lounge october clap";

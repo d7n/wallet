@@ -1,1 +1,1 @@
-var mnemonic = "mass accuse kick choose culture response dress can sketch merge wave heart";
+var mnemonic = "jazz keep wear base wear flee affair nuclear huge opinion hold coast";

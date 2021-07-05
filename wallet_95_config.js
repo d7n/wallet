@@ -1,1 +1,1 @@
-var mnemonic = "mandate foot police lecture soul rigid polar cupboard head wink dad topple";
+var mnemonic = "slim hamster express nature token donate anxiety host gauge nose grid expose";

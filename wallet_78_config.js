@@ -1,1 +1,1 @@
-var mnemonic = "weird tree winner castle brave hamster gym useless nation innocent fringe gap";
+var mnemonic = "neutral elite lift dentist layer boost test pretty jeans oblige measure remember";

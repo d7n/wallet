@@ -1,1 +1,1 @@
-var mnemonic = "flame hospital junk april desk popular artwork air labor auto winner actual";
+var mnemonic = "story aerobic elephant robust pink gaze smart sea chronic illness popular theory";

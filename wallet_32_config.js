@@ -1,1 +1,1 @@
-var mnemonic = "garment notable enter bench open urge few tuition reason tobacco top fever";
+var mnemonic = "crater eager update indoor fluid doll knock endorse adult jump vault recall";

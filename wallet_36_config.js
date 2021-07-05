@@ -1,1 +1,1 @@
-var mnemonic = "glass mercy lab pony crisp impose pull across bone tuna tackle seed";
+var mnemonic = "return same cup child labor must egg pioneer brother step fashion cash";

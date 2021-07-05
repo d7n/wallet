@@ -1,1 +1,1 @@
-var mnemonic = "entire history kidney pear tackle egg sense scene dove never game hollow";
+var mnemonic = "output much stand entry prosper imitate enough essence interest limit embody trouble";

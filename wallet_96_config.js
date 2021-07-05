@@ -1,1 +1,1 @@
-var mnemonic = "legend mention bar habit exact happy fun museum dynamic razor danger note";
+var mnemonic = "minute section dish butter rain lend drop divide liquid champion negative advice";

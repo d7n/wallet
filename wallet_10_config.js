@@ -1,1 +1,1 @@
-var mnemonic = "sword spray mansion thrive film rubber online midnight casino bone fault material";
+var mnemonic = "shock genius endorse short boy network bird second life walnut doctor peace";

@@ -1,1 +1,1 @@
-var mnemonic = "champion song dizzy blame need charge immune useless erosion finger stadium paper";
+var mnemonic = "energy paper firm fetch mimic melody bird position sibling glass prepare tool";

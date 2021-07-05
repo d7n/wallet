@@ -1,1 +1,1 @@
-var mnemonic = "state stumble eye pledge flock tunnel noble photo brain excite island neither";
+var mnemonic = "layer sunset romance budget enjoy custom elephant sudden casual nose borrow juice";

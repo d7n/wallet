@@ -1,1 +1,1 @@
-var mnemonic = "word alpha faculty game push annual open game agent voice silk gauge";
+var mnemonic = "wrap flee adjust picture maid august spoil parrot thunder purse shiver burst";

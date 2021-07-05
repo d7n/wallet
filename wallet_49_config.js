@@ -1,1 +1,1 @@
-var mnemonic = "muscle gauge cruise key reunion mechanic race cattle crush frog fine clean";
+var mnemonic = "glass chat average valid juice illegal indoor crawl weasel liar ugly dismiss";

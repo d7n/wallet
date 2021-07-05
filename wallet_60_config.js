@@ -1,1 +1,1 @@
-var mnemonic = "interest twice direct dinner million approve team duty polar balcony napkin hunt";
+var mnemonic = "drastic glance remain milk essence involve hard deny race dog hire athlete";

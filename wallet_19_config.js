@@ -1,1 +1,1 @@
-var mnemonic = "strike ignore fetch over slogan cloth false olympic tennis yard flame visual";
+var mnemonic = "soccer topple biology humor satisfy any harbor machine hair film gallery girl";

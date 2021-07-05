@@ -1,1 +1,1 @@
-var mnemonic = "hamster leopard essay illegal invite throw tree muffin chalk label loud front";
+var mnemonic = "bind quiz action cradle tuna dismiss icon still recipe hidden gesture win";

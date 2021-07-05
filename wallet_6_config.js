@@ -1,1 +1,1 @@
-var mnemonic = "invest praise prefer badge duty price draw marriage cigar under upgrade tumble";
+var mnemonic = "purchase fuel pigeon build grape nut salmon pony tragic network boy license";

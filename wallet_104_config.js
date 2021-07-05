@@ -1,1 +1,1 @@
-var mnemonic = "assist brain kiss benefit royal grief dice vast index veteran destroy mirror";
+var mnemonic = "work voice like coast enemy aim play cradle slender uniform thrive promote";

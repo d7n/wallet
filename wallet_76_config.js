@@ -1,1 +1,1 @@
-var mnemonic = "symbol lens rally ice job card entry dry liberty weekend rack meadow";
+var mnemonic = "box acquire glare witness unusual powder air annual car sense riot trend";

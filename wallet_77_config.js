@@ -1,1 +1,1 @@
-var mnemonic = "mosquito twist prepare loud toast draft term ahead bean royal host focus";
+var mnemonic = "piano choice wave stock middle kiwi this panther kingdom food rural economy";

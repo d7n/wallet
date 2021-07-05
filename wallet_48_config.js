@@ -1,1 +1,1 @@
-var mnemonic = "copper issue emerge they identify attitude giggle load cluster sudden column invite";
+var mnemonic = "dentist baby alter canoe oven moment fantasy nephew novel frozen pride taste";

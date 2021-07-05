@@ -1,1 +1,1 @@
-var mnemonic = "hurry polar organ music young bleak endless visual swing honey electric design";
+var mnemonic = "shoot upgrade circle mask tribe gossip abstract domain since ship spring just";

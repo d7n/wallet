@@ -1,1 +1,1 @@
-var mnemonic = "man drum vessel guide oval write faint quarter pause split speak scale";
+var mnemonic = "song exclude taste bone half mosquito quit aerobic much wife talk cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "board cook jaguar quality void core there elite there stay delay someone";
+var mnemonic = "swing cake rent tissue fancy scale attitude normal beach unfair lucky wash";

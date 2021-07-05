@@ -1,1 +1,1 @@
-var mnemonic = "hollow anger unaware squirrel trim chapter walnut kick ranch feed since fruit";
+var mnemonic = "multiply rally lecture special odor stuff need vendor solve miracle jelly order";

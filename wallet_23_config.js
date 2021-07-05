@@ -1,1 +1,1 @@
-var mnemonic = "alone clump fat solve health animal trade verb skull mansion fitness gloom";
+var mnemonic = "giraffe domain volcano verify marine survey noodle clump bamboo blur clump sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "claim rhythm frame coyote blame kingdom embark winner park wish fiscal inform";
+var mnemonic = "mean steak express upgrade detail become example huge foam cigar canoe two";

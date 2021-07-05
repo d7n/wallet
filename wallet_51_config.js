@@ -1,1 +1,1 @@
-var mnemonic = "boost soul glory drop burger output bench dutch lobster remind lend faith";
+var mnemonic = "submit wear rose bomb family tower when outside patch tower close cement";

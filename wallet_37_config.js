@@ -1,1 +1,1 @@
-var mnemonic = "write coffee soon between settle royal year join knee street liberty inch";
+var mnemonic = "perfect concert spare peace chat fun legend icon grow grit film hold";

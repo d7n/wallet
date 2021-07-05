@@ -1,1 +1,1 @@
-var mnemonic = "diary path labor normal era night neck area drum dentist winner balance";
+var mnemonic = "salmon purse gravity plastic movie divorce soldier voyage blouse want gown okay";

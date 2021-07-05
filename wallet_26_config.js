@@ -1,1 +1,1 @@
-var mnemonic = "demise earn squirrel motion educate mouse junior attend hat child fever cause";
+var mnemonic = "trap uniform cluster auto core object face electric basic drastic light believe";

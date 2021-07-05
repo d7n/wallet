@@ -1,1 +1,1 @@
-var mnemonic = "crunch kit dirt aerobic diesel own airport dwarf fold mean client bomb";
+var mnemonic = "sign speed fun manage author upgrade cruel absurd frequent amateur wave clap";

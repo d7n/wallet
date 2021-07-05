@@ -1,1 +1,1 @@
-var mnemonic = "nut dinosaur left prefer panic flip rural hub verify artwork love primary";
+var mnemonic = "endorse winter similar tackle name rocket gate acoustic rally regret raven burst";

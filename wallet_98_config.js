@@ -1,1 +1,1 @@
-var mnemonic = "nominee eight gossip pony ghost fancy million rough zoo bunker old eagle";
+var mnemonic = "stay wrap track depth kiwi couple asset machine whisper thunder torch dry";

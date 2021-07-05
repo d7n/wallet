@@ -1,1 +1,1 @@
-var mnemonic = "quiz little core clog fork disagree quantum deputy entire analyst essence opinion";
+var mnemonic = "what economy nature favorite develop blast bubble drive mass usual frozen nothing";

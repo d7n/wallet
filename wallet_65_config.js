@@ -1,1 +1,1 @@
-var mnemonic = "wise this frequent soon amazing pelican brief cabin load orbit damage another";
+var mnemonic = "minimum mistake dice ecology enemy wife soft shift theory tell knee seven";

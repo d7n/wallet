@@ -1,1 +1,1 @@
-var mnemonic = "fortune apart gesture sentence truck clump sample produce predict hire input spare";
+var mnemonic = "identify hurry truly suit client grid bless live very shoulder boil skill";

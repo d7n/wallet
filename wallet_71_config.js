@@ -1,1 +1,1 @@
-var mnemonic = "topic state marine work invest joke antenna feed weather trash same dilemma";
+var mnemonic = "equal nut velvet topic pride shaft weird move resemble flavor below retire";

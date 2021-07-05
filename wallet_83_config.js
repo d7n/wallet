@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur lesson raccoon nest wink that roast table announce dolphin sure surprise";
+var mnemonic = "baby woman robot fossil real battle okay believe staff today obvious only";

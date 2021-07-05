@@ -1,1 +1,1 @@
-var mnemonic = "public popular defense eyebrow thank loan mountain home object engine width clump";
+var mnemonic = "garlic fan horror side slight layer hamster barely novel spare idea tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "equip mango float brief kit abstract worry wagon nurse clay head high";
+var mnemonic = "butter north edge corn slab shed proof drum enrich embrace enemy deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore fall empty opinion post adjust noble learn minimum page hello quote";
+var mnemonic = "require chalk drill truly beef tumble nothing enrich menu brave biology inquiry";

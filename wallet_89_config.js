@@ -1,1 +1,1 @@
-var mnemonic = "swallow hill kidney satoshi success entry disease garlic useless bring guard pilot";
+var mnemonic = "spring velvet orchard abuse rather output truck radar enhance world bounce three";

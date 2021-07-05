@@ -1,1 +1,1 @@
-var mnemonic = "old blade utility zero giggle negative start matrix margin globe squeeze this";
+var mnemonic = "slot clip phone ripple kick notable tiny cancel ghost bridge stumble collect";

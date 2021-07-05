@@ -1,1 +1,1 @@
-var mnemonic = "worry chief attend body verify giraffe garlic abandon melody pitch close gadget";
+var mnemonic = "tone fuel vocal cluster possible luggage regular exile inspire person ill phrase";

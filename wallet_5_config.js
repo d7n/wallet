@@ -1,1 +1,1 @@
-var mnemonic = "mercy vault noble country abstract sun aware output asthma essay foil quote";
+var mnemonic = "pudding civil bracket loan math shift fun retreat foster divorce never cheese";

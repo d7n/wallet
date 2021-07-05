@@ -1,1 +1,1 @@
-var mnemonic = "act buffalo palace rose gym business various december orient lesson real custom";
+var mnemonic = "letter culture much name solve squeeze velvet rent rebuild enrich pony maid";

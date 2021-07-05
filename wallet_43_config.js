@@ -1,1 +1,1 @@
-var mnemonic = "turtle leave frog page bridge rather open exit elevator evoke unfair ecology";
+var mnemonic = "fortune switch spell fashion neutral calm gather assume silk salt switch health";

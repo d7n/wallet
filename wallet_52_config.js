@@ -1,1 +1,1 @@
-var mnemonic = "clog hurt glide future twice process economy immune quarter science glad knee";
+var mnemonic = "pioneer concert squeeze spoon napkin child bonus click arrow leopard clip citizen";

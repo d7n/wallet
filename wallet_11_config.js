@@ -1,1 +1,1 @@
-var mnemonic = "measure stuff fall minor whip plastic agree empower gaze tattoo ancient lizard";
+var mnemonic = "small trust system amused gather arrest private chapter entire mango slide treat";

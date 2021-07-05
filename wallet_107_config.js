@@ -1,1 +1,1 @@
-var mnemonic = "absent panda retreat industry drama wish canvas lava property title all flip";
+var mnemonic = "warm air comfort day leaf argue dinosaur glow assist moon auction awkward";

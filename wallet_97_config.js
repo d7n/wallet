@@ -1,1 +1,1 @@
-var mnemonic = "unaware brief abstract talk still coach measure gym pass yellow key that";
+var mnemonic = "endorse traffic annual kingdom brave tray cycle there come awake flower grocery";

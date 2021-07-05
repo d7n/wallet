@@ -1,1 +1,1 @@
-var mnemonic = "pencil space drastic curious ribbon camera risk taxi remain ask athlete agree";
+var mnemonic = "clip present thank student setup solid glow clog gesture oak inherit lazy";

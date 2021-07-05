@@ -1,1 +1,1 @@
-var mnemonic = "sound balance banana crane abandon alcohol scout express canal arena nurse dial";
+var mnemonic = "mean donkey trip ignore faith raw staff leave wheel case spray oil";

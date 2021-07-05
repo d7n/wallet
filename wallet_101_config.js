@@ -1,1 +1,1 @@
-var mnemonic = "major draw eight motor party patient school nature combine ring correct broken";
+var mnemonic = "panel festival vintage throw bronze neck region enact project cycle waste globe";

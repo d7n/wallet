@@ -1,1 +1,1 @@
-var mnemonic = "tent liberty lava company cushion crime pluck plate razor diamond wave coconut";
+var mnemonic = "lunar rally planet inspire man force ill buzz music initial resource base";

@@ -1,1 +1,1 @@
-var mnemonic = "same hope clutch buddy online hybrid discover kiwi penalty dune another summer";
+var mnemonic = "black afford case shock throw fatal lift middle material chair current double";

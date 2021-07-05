@@ -1,1 +1,1 @@
-var mnemonic = "rude orchard nasty innocent elevator crush cushion cargo feel movie solid detail";
+var mnemonic = "around picture fly sauce poet doctor actual leg kangaroo receive august include";

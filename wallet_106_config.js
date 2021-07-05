@@ -1,1 +1,1 @@
-var mnemonic = "tennis only oak virus journey ordinary sheriff keen piece ice direct avocado";
+var mnemonic = "flash cycle immune soup sudden embark garage chronic height run giraffe come";

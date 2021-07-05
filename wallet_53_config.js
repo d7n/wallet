@@ -1,1 +1,1 @@
-var mnemonic = "slide trip crater hole assume elephant curtain teach together final grain real";
+var mnemonic = "profit silver enjoy genuine endless tongue tone course logic enroll crime axis";

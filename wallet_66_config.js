@@ -1,1 +1,1 @@
-var mnemonic = "average section boring palace mention health apology escape rare verb sample sister";
+var mnemonic = "suggest champion music bar acoustic define kingdom income earth ask copy term";

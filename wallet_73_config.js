@@ -1,1 +1,1 @@
-var mnemonic = "clip immune define front quick tennis tail canal sing suspect project toward";
+var mnemonic = "feature wash banana inform discover explain gas flame rather fringe shoot tragic";

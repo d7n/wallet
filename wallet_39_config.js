@@ -1,1 +1,1 @@
-var mnemonic = "field search ketchup party shy grid utility inform food enter assume ticket";
+var mnemonic = "round energy buffalo plunge repeat now pistol boss senior elephant hybrid alter";

@@ -1,1 +1,1 @@
-var mnemonic = "unit black enhance defy interest stool solar trial guard fossil muffin bean";
+var mnemonic = "boss aisle later thumb lecture grant secret swallow core tissue parade fire";

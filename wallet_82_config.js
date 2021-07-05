@@ -1,1 +1,1 @@
-var mnemonic = "fiber dream piano unusual divide hundred such avocado lock screen current devote";
+var mnemonic = "inflict peace shoulder enjoy repair like lunch develop turkey degree seat inmate";

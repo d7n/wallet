@@ -1,1 +1,1 @@
-var mnemonic = "emotion tuition often error together foil mountain employ differ find shuffle dash";
+var mnemonic = "color benefit roof sphere video rug off side cloth code police sand";

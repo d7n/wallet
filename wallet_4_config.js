@@ -1,1 +1,1 @@
-var mnemonic = "broken tape proof genuine borrow speed pistol outside attend chuckle romance salad";
+var mnemonic = "hawk cactus onion sound pupil road clarify job addict salute food upset";

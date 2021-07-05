@@ -1,1 +1,1 @@
-var mnemonic = "sketch puzzle reunion powder bubble donate noodle label truck noise shell lyrics";
+var mnemonic = "family pool recipe foil trigger solid rich palm fatal dial vendor sure";

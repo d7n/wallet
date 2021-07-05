@@ -1,1 +1,1 @@
-var mnemonic = "thumb into shrimp since display exhaust mystery setup jeans repeat clay boring";
+var mnemonic = "nephew sand multiply seat moral hobby volcano bind advance nasty glove taste";

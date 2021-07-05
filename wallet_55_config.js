@@ -1,1 +1,1 @@
-var mnemonic = "worth timber filter drum embody sell assume tattoo differ alone stay rally";
+var mnemonic = "glow birth depend auto can outer grain train year matter security poverty";

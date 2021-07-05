@@ -1,1 +1,1 @@
-var mnemonic = "conduct rack page side soft isolate faint tongue act minimum coil robust";
+var mnemonic = "shiver exhaust race swim hurt option gold axis there throw pulp lunch";

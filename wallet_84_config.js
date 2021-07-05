@@ -1,1 +1,1 @@
-var mnemonic = "rebuild shine hollow harbor relax powder empty mechanic copper limb sad wash";
+var mnemonic = "plunge dune quantum practice notable guide setup sick business travel venue estate";

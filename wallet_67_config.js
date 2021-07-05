@@ -1,1 +1,1 @@
-var mnemonic = "betray burden liar pass square choice sheriff resemble proof kite jungle inflict";
+var mnemonic = "mango coconut strategy ecology shield layer artist alone kite ridge column three";
