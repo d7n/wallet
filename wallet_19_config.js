@@ -1,1 +1,1 @@
-var mnemonic = "flame broken summer novel short response torch govern rural festival brave broken";
+var mnemonic = "mosquito attend club sister kite report label clutch dose bachelor apple ability";

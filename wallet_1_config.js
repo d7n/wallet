@@ -1,1 +1,1 @@
-var mnemonic = "view gun december smooth milk reason mixed gown labor sunny vote cram";
+var mnemonic = "attitude devote struggle tiger recall deputy ostrich run spider comfort plug scale";

@@ -1,1 +1,1 @@
-var mnemonic = "subway chase hollow result deputy omit tool drama dumb hospital worth digital";
+var mnemonic = "wire math choose drum oblige radar ability strong stand strike joke public";

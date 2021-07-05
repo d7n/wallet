@@ -1,1 +1,1 @@
-var mnemonic = "kiwi tragic card genius obtain nothing obscure noble share saddle cushion culture";
+var mnemonic = "elbow useful must armor lion actor funny sea purchase again load cause";

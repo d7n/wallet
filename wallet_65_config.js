@@ -1,1 +1,1 @@
-var mnemonic = "orbit fancy kidney fat anger average nuclear soft such remain salad demand";
+var mnemonic = "chalk version rhythm ghost jacket destroy garlic source surge curve mechanic meadow";

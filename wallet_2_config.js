@@ -1,1 +1,1 @@
-var mnemonic = "salad year bird disorder glory castle cloth dust fun lucky assist poverty";
+var mnemonic = "tornado uncover friend push glare hip cram left lobster cabbage despair plate";

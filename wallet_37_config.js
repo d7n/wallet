@@ -1,1 +1,1 @@
-var mnemonic = "science step dwarf blossom prison appear grief bracket fish stuff draw indoor";
+var mnemonic = "shoe century silk citizen industry just sport improve tomorrow slab sniff follow";

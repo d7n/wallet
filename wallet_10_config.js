@@ -1,1 +1,1 @@
-var mnemonic = "tornado million once west onion lobster sell reopen frozen empty foam civil";
+var mnemonic = "man index group pluck attitude next project vapor window link fish kingdom";

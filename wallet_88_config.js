@@ -1,1 +1,1 @@
-var mnemonic = "pond whale orchard result hamster fancy camera wrist beef current moment custom";
+var mnemonic = "swift special raw few trim green boost buddy wine people oblige robot";

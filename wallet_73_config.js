@@ -1,1 +1,1 @@
-var mnemonic = "protect diagram mystery pond medal oblige hawk fabric huge digital catch race";
+var mnemonic = "town already raw carpet tree toy sample book cluster fashion measure gesture";

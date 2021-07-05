@@ -1,1 +1,1 @@
-var mnemonic = "push join ill swarm monster strategy slush wood plunge action soon utility";
+var mnemonic = "omit wreck theory primary water glory limit brave treat wrestle equip vocal";

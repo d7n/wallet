@@ -1,1 +1,1 @@
-var mnemonic = "cancel choice gas yard tunnel scorpion regular glass impact gadget potato among";
+var mnemonic = "cost fresh soon rule bitter cheese camp quarter mango umbrella squeeze neglect";

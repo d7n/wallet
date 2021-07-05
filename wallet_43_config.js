@@ -1,1 +1,1 @@
-var mnemonic = "remember renew hat weekend soon steak earth roof wheel sort proud idea";
+var mnemonic = "polar volcano hard ten heavy drive chalk club pair nothing skill father";

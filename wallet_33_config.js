@@ -1,1 +1,1 @@
-var mnemonic = "hub fiber victory program erase opera suspect point barrel demand blur chalk";
+var mnemonic = "metal output early select payment cheap fitness half raven express warrior media";

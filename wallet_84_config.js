@@ -1,1 +1,1 @@
-var mnemonic = "view prison rail reopen text release denial inflict frog extra action device";
+var mnemonic = "develop shine wing alarm guitar sadness gallery umbrella initial kingdom fuel rotate";

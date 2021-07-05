@@ -1,1 +1,1 @@
-var mnemonic = "force want cross upper room acid order melody vote exotic shoe friend";
+var mnemonic = "confirm false rival nice purse carbon unit purpose lunch more smart wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "advance boring abstract sister warfare host enrich worth increase toast next vague";
+var mnemonic = "town harbor erode nice soft appear hundred sniff east position adjust wall";

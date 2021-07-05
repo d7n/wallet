@@ -1,1 +1,1 @@
-var mnemonic = "act above begin subway inform nerve trip review cable kingdom dilemma federal";
+var mnemonic = "document corn lonely monitor sentence rich stable basic present shell fox friend";

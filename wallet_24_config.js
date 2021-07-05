@@ -1,1 +1,1 @@
-var mnemonic = "destroy attack advice aunt negative net town latin fiber shield verify music";
+var mnemonic = "client gallery essay aisle little blue bracket pact country local term evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "polar employ adapt bring chase silver thrive endless fury march reject easily";
+var mnemonic = "congress goose help bamboo manage again erosion deer walk manage stage spoon";

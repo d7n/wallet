@@ -1,1 +1,1 @@
-var mnemonic = "emotion skin parent square fee market cycle tennis insect earn episode miss";
+var mnemonic = "insect fun quality vapor pencil voyage april rural sell olympic slice bag";

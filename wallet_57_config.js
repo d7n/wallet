@@ -1,1 +1,1 @@
-var mnemonic = "divide arrow wool online glad yard loan logic file wrap reason armed";
+var mnemonic = "dynamic current sadness fish wagon sense pattern roof occur comic you submit";

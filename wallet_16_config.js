@@ -1,1 +1,1 @@
-var mnemonic = "volume ancient air flavor library priority problem subway joke else join other";
+var mnemonic = "any rally surface rival employ sing candy fun orchard tomato shy symptom";

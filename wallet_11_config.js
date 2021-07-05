@@ -1,1 +1,1 @@
-var mnemonic = "sunny often diagram gown crane swift debris mask improve reduce faith hat";
+var mnemonic = "coconut neither opinion evidence theory eight table display knife junk humor crouch";

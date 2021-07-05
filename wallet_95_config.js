@@ -1,1 +1,1 @@
-var mnemonic = "rude hire state nerve patch logic flat price again grit loyal isolate";
+var mnemonic = "rebel happy embrace tenant rubber example same balance ranch toy brother column";

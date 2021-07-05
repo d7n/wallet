@@ -1,1 +1,1 @@
-var mnemonic = "group skirt deposit ghost pet employ neck spike middle bike thrive ladder";
+var mnemonic = "regular term chaos blouse material emerge dance practice strategy trick cat husband";

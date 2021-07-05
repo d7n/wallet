@@ -1,1 +1,1 @@
-var mnemonic = "egg arch salute jump vicious bird stereo little entry tree purse dial";
+var mnemonic = "nose ensure shell cushion swear crater dog crew write nation spatial kind";

@@ -1,1 +1,1 @@
-var mnemonic = "lion spawn survey destroy field canyon island mystery inherit jewel spend sauce";
+var mnemonic = "shrimp hawk pupil nut desert payment sadness cement gorilla food twenty matter";

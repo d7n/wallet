@@ -1,1 +1,1 @@
-var mnemonic = "trash guard vast ignore connect wrap dawn labor oven horror old balance";
+var mnemonic = "waste flight hurry theme coin case voyage submit forum better right bag";

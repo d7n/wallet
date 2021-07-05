@@ -1,1 +1,1 @@
-var mnemonic = "reject gold quiz crawl near village match bring pumpkin brain diamond trick";
+var mnemonic = "radar square trust expire body onion wash expand flee innocent fuel spot";

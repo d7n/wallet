@@ -1,1 +1,1 @@
-var mnemonic = "riot situate inquiry property riot ribbon crew eternal express tuition point inside";
+var mnemonic = "thing merge high title hobby sail harsh guard lumber grant bundle ahead";

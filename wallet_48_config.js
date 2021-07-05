@@ -1,1 +1,1 @@
-var mnemonic = "poem bulb limit strategy loop excess manage gas fit toddler rose flower";
+var mnemonic = "loan such slab any monitor produce gadget sugar display pluck alone point";

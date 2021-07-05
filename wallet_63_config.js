@@ -1,1 +1,1 @@
-var mnemonic = "vessel exhaust isolate upon mammal size volume tragic fancy satoshi inch retreat";
+var mnemonic = "country pool salt inspire music design left flee neglect lottery trend maximum";

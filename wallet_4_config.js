@@ -1,1 +1,1 @@
-var mnemonic = "interest poem sing hello oxygen math swing simple flight ethics solution quit";
+var mnemonic = "lady deal predict enter sea segment romance outdoor auto nest wheel country";

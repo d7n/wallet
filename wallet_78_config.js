@@ -1,1 +1,1 @@
-var mnemonic = "brief enlist ginger fresh edge army drink suit air happy tribe addict";
+var mnemonic = "sport alert timber liquid pet average audit write buddy myth monkey hundred";

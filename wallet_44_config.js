@@ -1,1 +1,1 @@
-var mnemonic = "obvious yard match ask rhythm bar blind beyond curtain hen recycle soccer";
+var mnemonic = "clump arrange few inquiry obey market grunt tunnel wrestle vacant such cable";

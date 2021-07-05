@@ -1,1 +1,1 @@
-var mnemonic = "lake stool below orange mansion sleep rebel depth enroll away glide old";
+var mnemonic = "miss repair skull bounce fork foil agree burger parrot robot quick series";

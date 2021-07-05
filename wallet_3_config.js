@@ -1,1 +1,1 @@
-var mnemonic = "dumb actress cave slab motor return proof fury notable barely crash voice";
+var mnemonic = "cereal give card wedding maid hobby video believe balance barely stadium fee";

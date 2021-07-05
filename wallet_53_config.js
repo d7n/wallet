@@ -1,1 +1,1 @@
-var mnemonic = "choose best gorilla people gospel member height equal make tomato artefact family";
+var mnemonic = "broom wedding author palm sad police fragile replace vacant embody admit charge";

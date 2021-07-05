@@ -1,1 +1,1 @@
-var mnemonic = "normal social fresh snap clip honey crime until fatigue leg rule slab";
+var mnemonic = "opera develop surge glue wool piano slam enrich ski path island under";

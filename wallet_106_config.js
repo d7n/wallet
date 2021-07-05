@@ -1,1 +1,1 @@
-var mnemonic = "glare tunnel you carry ignore exile orient worry frog metal sea absorb";
+var mnemonic = "length jeans fence speed debate conduct vehicle wasp alone decorate faint boost";

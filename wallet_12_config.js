@@ -1,1 +1,1 @@
-var mnemonic = "hurt alarm rotate total final dry imitate absorb galaxy anger seminar student";
+var mnemonic = "hollow include wasp volume chat buzz wire chef typical need accident clarify";

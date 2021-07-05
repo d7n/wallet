@@ -1,1 +1,1 @@
-var mnemonic = "grunt metal shove beauty leg fancy ankle salt student crystal chef desk";
+var mnemonic = "pulp more drum misery rotate midnight rescue often tattoo jeans town spoil";

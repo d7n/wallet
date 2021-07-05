@@ -1,1 +1,1 @@
-var mnemonic = "figure dynamic barrel stool disorder flat retreat index jump woman gadget goat";
+var mnemonic = "program census cereal draw income prepare rely weapon feature volcano apple ball";

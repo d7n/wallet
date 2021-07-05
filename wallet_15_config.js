@@ -1,1 +1,1 @@
-var mnemonic = "quality apology exile mango video wide lazy photo number million inflict cattle";
+var mnemonic = "private gorilla cattle vital girl love tuna cotton attract blame chapter comfort";

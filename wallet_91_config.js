@@ -1,1 +1,1 @@
-var mnemonic = "picnic people sure reform great swear crazy poet surge visa evidence sibling";
+var mnemonic = "fix village judge myth honey wedding goat tenant because rate museum invest";

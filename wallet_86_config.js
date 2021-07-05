@@ -1,1 +1,1 @@
-var mnemonic = "bacon federal debris ten sell remove early loop witness boat empty team";
+var mnemonic = "ecology bullet ill play trend hair skull toy fatigue scissors diagram deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "seed crucial captain joke rebel dumb situate wide broom hen mad night";
+var mnemonic = "olympic romance leopard kiss side often actress possible gap render easily off";

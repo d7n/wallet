@@ -1,1 +1,1 @@
-var mnemonic = "mule cousin clutch obvious again assault tongue bulb kitchen right income betray";
+var mnemonic = "snow trip match weasel quantum grape genre push piece middle equal vocal";

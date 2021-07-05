@@ -1,1 +1,1 @@
-var mnemonic = "bone hole universe carpet hand swamp tattoo fantasy health pink quarter move";
+var mnemonic = "until juice anxiety drastic ecology snake excite bachelor harbor sausage easily bubble";

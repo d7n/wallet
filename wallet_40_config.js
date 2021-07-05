@@ -1,1 +1,1 @@
-var mnemonic = "submit grit around glare breeze improve eagle rally until shiver tragic noodle";
+var mnemonic = "work chapter second artwork spring dream wheel web popular cover orient prefer";

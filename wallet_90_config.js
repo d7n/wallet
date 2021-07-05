@@ -1,1 +1,1 @@
-var mnemonic = "stay leopard drum twin bubble quick salon artefact inherit lift lottery hammer";
+var mnemonic = "fashion chat over abandon anchor staff list slide april kiss super census";

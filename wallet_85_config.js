@@ -1,1 +1,1 @@
-var mnemonic = "door budget abuse beach rich unable laptop mad awkward praise casual recycle";
+var mnemonic = "hope recipe depart alcohol style virus essay analyst across fade sun first";

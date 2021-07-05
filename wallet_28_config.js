@@ -1,1 +1,1 @@
-var mnemonic = "remove pill coach double purse response concert audit glare trophy fame bracket";
+var mnemonic = "clutch zoo tomato six oil travel blind fox banner flat actor bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "animal parrot voyage issue subway alley venue hero giraffe piece alone witness";
+var mnemonic = "goat discover accuse three utility improve shift forget ocean final verify primary";

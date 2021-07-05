@@ -1,1 +1,1 @@
-var mnemonic = "kid flame elephant holiday auto gorilla produce lion lawn beef couple maximum";
+var mnemonic = "wool occur term defy whip regular error double toy liquid sea hire";

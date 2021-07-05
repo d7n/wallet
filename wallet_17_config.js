@@ -1,1 +1,1 @@
-var mnemonic = "cover decide jelly slender bounce now bullet maple hello dirt hat mechanic";
+var mnemonic = "guard media bike expose crash express tired wild wine nerve sugar front";

@@ -1,1 +1,1 @@
-var mnemonic = "page staff sense divorce vessel clutch mansion picture paddle range silk deposit";
+var mnemonic = "unable deny promote skill step romance drop change kangaroo topple sad warrior";

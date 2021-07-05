@@ -1,1 +1,1 @@
-var mnemonic = "upper gate corn arrange cabin leopard exile beyond remind tuna clutch hill";
+var mnemonic = "neglect various ghost steak power illegal bullet basic oyster hollow mobile release";

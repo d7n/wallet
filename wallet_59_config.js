@@ -1,1 +1,1 @@
-var mnemonic = "wagon sphere army cry area fold trick slab toss enact wedding praise";
+var mnemonic = "doctor guitar clinic merge pioneer verify until direct relief title action unveil";

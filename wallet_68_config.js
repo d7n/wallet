@@ -1,1 +1,1 @@
-var mnemonic = "law flash fluid copy sock country imitate wool antenna capable super coral";
+var mnemonic = "gesture shoot satisfy gym urge faint detail road accident lawsuit buyer there";

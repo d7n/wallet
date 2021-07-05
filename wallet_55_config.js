@@ -1,1 +1,1 @@
-var mnemonic = "aisle mutual holiday turn future loyal talent exhibit search pitch song cruise";
+var mnemonic = "wisdom slow frown bargain country cattle axis involve beyond orange debate sniff";

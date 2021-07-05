@@ -1,1 +1,1 @@
-var mnemonic = "area present topic syrup actual assume visual swim retreat give accident monster";
+var mnemonic = "extra report group measure lift siren life outdoor proof supreme south sell";

@@ -1,1 +1,1 @@
-var mnemonic = "august assume split number exhibit smile depend fetch deer holiday muscle mix";
+var mnemonic = "van best chest dwarf empty escape pair lake subject order genre honey";

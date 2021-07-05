@@ -1,1 +1,1 @@
-var mnemonic = "flock toy saddle web wool club shift lady draw tiny firm dream";
+var mnemonic = "whisper true scissors safe multiply brown undo february aspect twenty double innocent";

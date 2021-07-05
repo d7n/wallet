@@ -1,1 +1,1 @@
-var mnemonic = "hollow choice own phone very egg spread breeze tissue foster ride armor";
+var mnemonic = "exercise stick glide electric van infant weird win visit lawn boring kangaroo";

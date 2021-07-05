@@ -1,1 +1,1 @@
-var mnemonic = "earth manage grace bread ivory supreme credit oxygen asthma success leisure appear";
+var mnemonic = "random thing will lift rural hand enable assault obey diary raise faith";

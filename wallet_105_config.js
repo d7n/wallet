@@ -1,1 +1,1 @@
-var mnemonic = "merge wedding neck iron dawn screen mobile satoshi battle sound put gospel";
+var mnemonic = "ignore zero eight roof shove slight sibling action version race truth blur";

@@ -1,1 +1,1 @@
-var mnemonic = "learn loop seat position click broken funny manual rural edge diet yard";
+var mnemonic = "wood slab average vicious disorder fabric horse odor know patch cute meat";

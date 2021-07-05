@@ -1,1 +1,1 @@
-var mnemonic = "need rail name little armor medal mansion range february depend clay manual";
+var mnemonic = "wink dolphin insane say organ bread monitor change motion minimum mobile act";

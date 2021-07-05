@@ -1,1 +1,1 @@
-var mnemonic = "magnet person lens powder parrot focus social together enter work easily hunt";
+var mnemonic = "sibling rabbit idea asthma add banana pitch enrich awake abstract twin stove";

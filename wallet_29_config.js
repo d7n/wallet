@@ -1,1 +1,1 @@
-var mnemonic = "cycle priority index lesson sketch elephant spoon priority pencil canyon above dance";
+var mnemonic = "regular rescue verify entire write viable humble promote travel tourist advance rescue";

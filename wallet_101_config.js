@@ -1,1 +1,1 @@
-var mnemonic = "three reason problem better tomato over bridge gasp avoid boil news limb";
+var mnemonic = "attend shock barrel begin blame boy can narrow unaware clap treat lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram then salmon panther prison cattle light expose donor check chimney monkey";
+var mnemonic = "elite olive behave wife tomorrow ancient old giraffe couple glow space cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "spike lake invite inmate august section devote risk idea vivid young they";
+var mnemonic = "mention suit laugh barrel search bicycle daughter broom foster wide stadium spike";

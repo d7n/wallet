@@ -1,1 +1,1 @@
-var mnemonic = "girl budget tiger more general aim stone asset boat notable cable direct";
+var mnemonic = "undo salad solve outdoor bar other amount melt crowd cinnamon habit wise";

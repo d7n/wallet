@@ -1,1 +1,1 @@
-var mnemonic = "south ski course pattern hip phone humor right genre embrace behind tilt";
+var mnemonic = "congress book aspect quit speak cruise host broken pigeon bargain aware offer";

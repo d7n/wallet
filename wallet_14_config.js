@@ -1,1 +1,1 @@
-var mnemonic = "rich update kiwi hungry absorb sick sorry group truck display alarm front";
+var mnemonic = "museum above clinic embark rail royal fix scare armed cat sketch royal";

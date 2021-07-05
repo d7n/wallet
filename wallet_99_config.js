@@ -1,1 +1,1 @@
-var mnemonic = "wrong lounge square loud tattoo utility hollow coffee twice gift speak cheese";
+var mnemonic = "swarm toe early cereal firm hat click round female gadget core road";

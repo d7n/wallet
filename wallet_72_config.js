@@ -1,1 +1,1 @@
-var mnemonic = "alley cliff arena mouse roof defy slow shell polar vacant worth bullet";
+var mnemonic = "bachelor faith dutch media about wasp cloud ivory jungle adjust asset sunset";

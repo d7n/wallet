@@ -1,1 +1,1 @@
-var mnemonic = "divert today man grow blade family census brass sell purchase shock coast";
+var mnemonic = "orchard water spoil search funny brick rich poet alien forget bar steel";

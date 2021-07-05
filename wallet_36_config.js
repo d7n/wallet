@@ -1,1 +1,1 @@
-var mnemonic = "pepper funny artist color relief west stay term evil game zebra almost";
+var mnemonic = "winner usage core glass pumpkin gorilla token apple mixture noise kick feed";

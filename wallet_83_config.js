@@ -1,1 +1,1 @@
-var mnemonic = "process draft joy nephew sun floor destroy silver squirrel enhance guard alien";
+var mnemonic = "track saddle seminar true cloud echo sick fruit number remove screen size";

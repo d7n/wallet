@@ -1,1 +1,1 @@
-var mnemonic = "cry powder library gown sure mushroom team return same radio potato network";
+var mnemonic = "name oppose seven diet decade bounce spin group agent token mesh pluck";

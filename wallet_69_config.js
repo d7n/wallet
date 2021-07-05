@@ -1,1 +1,1 @@
-var mnemonic = "manual develop slogan apology away milk slogan devote jaguar alter mammal service";
+var mnemonic = "month agree lake flight help dial soft jar south vanish fly file";

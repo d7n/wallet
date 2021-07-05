@@ -1,1 +1,1 @@
-var mnemonic = "phrase honey erupt acid slam clay wrong invite gloom clever crazy never";
+var mnemonic = "myth cradle fitness laptop skate cradle cool muscle double enact welcome movie";

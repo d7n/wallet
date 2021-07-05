@@ -1,1 +1,1 @@
-var mnemonic = "orphan merge sleep oxygen control miracle announce puzzle can segment later surge";
+var mnemonic = "order chuckle net strike lava girl carry six tape modify roof road";

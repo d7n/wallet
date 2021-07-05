@@ -1,1 +1,1 @@
-var mnemonic = "bulb discover rose penalty source ritual suffer chapter rural vivid hospital inherit";
+var mnemonic = "tree crack subject crush reform eagle patrol dragon crop dad symptom leaf";

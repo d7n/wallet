@@ -1,1 +1,1 @@
-var mnemonic = "pistol behind thought web puzzle sing raven organ swift praise conduct short";
+var mnemonic = "head night luxury size pigeon rib winter shiver ecology mutual own rural";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage cart grid lab fitness decrease thing fee where plunge paddle voice";
+var mnemonic = "filter pull gift noble absurd item piano minimum drama erosion damage lock";

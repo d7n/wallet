@@ -1,1 +1,1 @@
-var mnemonic = "vicious across parade attract sponsor pony edge attack provide laugh lava model";
+var mnemonic = "public real help hunt text tip few front sight right prosper define";
