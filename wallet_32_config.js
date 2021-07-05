@@ -1,1 +1,1 @@
-var mnemonic = "crater eager update indoor fluid doll knock endorse adult jump vault recall";
+var mnemonic = "crowd hat plate display mean stay file crowd legend zone mind client";

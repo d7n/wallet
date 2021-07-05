@@ -1,1 +1,1 @@
-var mnemonic = "letter culture much name solve squeeze velvet rent rebuild enrich pony maid";
+var mnemonic = "muffin frost coral share vehicle chaos material cement avoid pluck armed vacuum";

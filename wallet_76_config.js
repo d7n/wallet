@@ -1,1 +1,1 @@
-var mnemonic = "box acquire glare witness unusual powder air annual car sense riot trend";
+var mnemonic = "nature involve clean comic kiwi price orphan vessel mom mother lawn mix";

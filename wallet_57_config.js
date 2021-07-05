@@ -1,1 +1,1 @@
-var mnemonic = "share fat south window also lazy dynamic beef spread run volume yellow";
+var mnemonic = "praise solar neutral guide gospel picnic expire pelican canvas unveil phone suit";

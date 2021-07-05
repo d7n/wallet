@@ -1,1 +1,1 @@
-var mnemonic = "layer sunset romance budget enjoy custom elephant sudden casual nose borrow juice";
+var mnemonic = "acquire drive mimic faith length sunset ability blade soda blue auto list";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse vessel leaf tiny real fetch boss capital matter flight clever loan";
+var mnemonic = "bonus abstract gym fresh cradle organ general intact scare border left reveal";

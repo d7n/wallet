@@ -1,1 +1,1 @@
-var mnemonic = "pioneer concert squeeze spoon napkin child bonus click arrow leopard clip citizen";
+var mnemonic = "subject portion they accuse merit jazz slide nation prefer shield reopen cement";

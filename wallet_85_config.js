@@ -1,1 +1,1 @@
-var mnemonic = "cruel crush dog alter item hint economy police deposit movie hub dove";
+var mnemonic = "reopen moral pig black leopard sense report bless gift sound together learn";

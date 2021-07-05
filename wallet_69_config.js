@@ -1,1 +1,1 @@
-var mnemonic = "shoot upgrade circle mask tribe gossip abstract domain since ship spring just";
+var mnemonic = "anger capable false kind kick real goat mule panda program purse execute";

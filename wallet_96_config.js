@@ -1,1 +1,1 @@
-var mnemonic = "minute section dish butter rain lend drop divide liquid champion negative advice";
+var mnemonic = "auto planet valve scout large prefer wish club damp file busy chimney";

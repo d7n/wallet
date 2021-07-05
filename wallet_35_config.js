@@ -1,1 +1,1 @@
-var mnemonic = "endorse winter similar tackle name rocket gate acoustic rally regret raven burst";
+var mnemonic = "zoo face anchor leisure wise sponsor struggle meat gesture expand faint grid";

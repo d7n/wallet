@@ -1,1 +1,1 @@
-var mnemonic = "shiver exhaust race swim hurt option gold axis there throw pulp lunch";
+var mnemonic = "stumble spread miss stamp mom ramp fatal polar roast because prefer wedding";

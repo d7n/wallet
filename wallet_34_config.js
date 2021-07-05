@@ -1,1 +1,1 @@
-var mnemonic = "what economy nature favorite develop blast bubble drive mass usual frozen nothing";
+var mnemonic = "brain moral law long monster grass flee original remain antique blast tank";

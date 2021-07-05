@@ -1,1 +1,1 @@
-var mnemonic = "hawk cactus onion sound pupil road clarify job addict salute food upset";
+var mnemonic = "column quit chronic confirm aerobic neglect banner identify time pen burden push";

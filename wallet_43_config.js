@@ -1,1 +1,1 @@
-var mnemonic = "fortune switch spell fashion neutral calm gather assume silk salt switch health";
+var mnemonic = "speak matter guide ensure angry decline wheel learn punch dutch double humble";

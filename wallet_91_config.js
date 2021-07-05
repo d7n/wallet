@@ -1,1 +1,1 @@
-var mnemonic = "nephew sand multiply seat moral hobby volcano bind advance nasty glove taste";
+var mnemonic = "dutch ostrich screen mind base pear large speak purchase rifle draw kangaroo";

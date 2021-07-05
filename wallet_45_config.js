@@ -1,1 +1,1 @@
-var mnemonic = "require chalk drill truly beef tumble nothing enrich menu brave biology inquiry";
+var mnemonic = "tourist night begin brave connect select wage hover host motor trade breeze";

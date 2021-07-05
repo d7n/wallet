@@ -1,1 +1,1 @@
-var mnemonic = "swing cake rent tissue fancy scale attitude normal beach unfair lucky wash";
+var mnemonic = "legal daring hat night wage popular outer chef melody dune mesh pulse";

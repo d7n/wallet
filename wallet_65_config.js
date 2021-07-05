@@ -1,1 +1,1 @@
-var mnemonic = "minimum mistake dice ecology enemy wife soft shift theory tell knee seven";
+var mnemonic = "change purpose cargo lady police number retreat green garage mimic park autumn";

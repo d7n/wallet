@@ -1,1 +1,1 @@
-var mnemonic = "small trust system amused gather arrest private chapter entire mango slide treat";
+var mnemonic = "naive fun floor left square twenty oppose acquire twenty silly chunk adapt";

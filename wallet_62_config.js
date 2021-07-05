@@ -1,1 +1,1 @@
-var mnemonic = "zoo december foster armed giraffe skull second chef local involve floor crew";
+var mnemonic = "summer around once dynamic pig pioneer critic cable asthma hamster holiday table";

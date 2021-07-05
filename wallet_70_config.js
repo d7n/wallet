@@ -1,1 +1,1 @@
-var mnemonic = "mean steak express upgrade detail become example huge foam cigar canoe two";
+var mnemonic = "forward apple shrimp dry gesture ensure ensure candy whip brave act face";

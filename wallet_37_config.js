@@ -1,1 +1,1 @@
-var mnemonic = "perfect concert spare peace chat fun legend icon grow grit film hold";
+var mnemonic = "carry net fancy frost decade identify envelope actual devote sail practice easy";

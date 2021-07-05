@@ -1,1 +1,1 @@
-var mnemonic = "shoulder comic dwarf mango obvious small bid maximum scissors engine try girl";
+var mnemonic = "ask strong more space fluid then recycle nominee ability since title vibrant";

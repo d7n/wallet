@@ -1,1 +1,1 @@
-var mnemonic = "garlic fan horror side slight layer hamster barely novel spare idea tenant";
+var mnemonic = "actual garden polar gadget reveal appear oyster equal riot swing trap daring";

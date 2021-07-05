@@ -1,1 +1,1 @@
-var mnemonic = "flash cycle immune soup sudden embark garage chronic height run giraffe come";
+var mnemonic = "panel deer slow craft sort inside boat change wagon nephew light doll";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse traffic annual kingdom brave tray cycle there come awake flower grocery";
+var mnemonic = "hat vessel sorry scene sentence can funny cruel oxygen issue drastic muscle";

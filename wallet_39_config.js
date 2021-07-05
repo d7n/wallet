@@ -1,1 +1,1 @@
-var mnemonic = "round energy buffalo plunge repeat now pistol boss senior elephant hybrid alter";
+var mnemonic = "base hover robot interest mean nut wreck bread expire deny sign thank";

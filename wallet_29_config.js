@@ -1,1 +1,1 @@
-var mnemonic = "spatial gold choice milk before shell blouse escape expect betray cinnamon husband";
+var mnemonic = "dumb dwarf segment nice pave chaos grow inform achieve flag income vehicle";

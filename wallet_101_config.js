@@ -1,1 +1,1 @@
-var mnemonic = "panel festival vintage throw bronze neck region enact project cycle waste globe";
+var mnemonic = "off frozen world outdoor measure obey mandate beach such require right fence";

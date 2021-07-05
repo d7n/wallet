@@ -1,1 +1,1 @@
-var mnemonic = "hold air virus topple damage one float sorry sail excuse rule album";
+var mnemonic = "romance purpose market balcony child key snake talent snap sentence waste blood";

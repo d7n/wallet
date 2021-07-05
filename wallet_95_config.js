@@ -1,1 +1,1 @@
-var mnemonic = "slim hamster express nature token donate anxiety host gauge nose grid expose";
+var mnemonic = "brown laptop catch battle once uncover miss dirt satoshi genre crowd erupt";

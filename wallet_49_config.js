@@ -1,1 +1,1 @@
-var mnemonic = "glass chat average valid juice illegal indoor crawl weasel liar ugly dismiss";
+var mnemonic = "snow pair monitor sell rose damage isolate hood palm exchange airport scissors";

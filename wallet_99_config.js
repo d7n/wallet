@@ -1,1 +1,1 @@
-var mnemonic = "black afford case shock throw fatal lift middle material chair current double";
+var mnemonic = "jaguar worry exact token wire vault certain bicycle group pistol soon little";

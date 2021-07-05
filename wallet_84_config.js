@@ -1,1 +1,1 @@
-var mnemonic = "plunge dune quantum practice notable guide setup sick business travel venue estate";
+var mnemonic = "issue wreck rude thank olympic minimum glide silk mutual margin sea scatter";

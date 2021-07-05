@@ -1,1 +1,1 @@
-var mnemonic = "soccer topple biology humor satisfy any harbor machine hair film gallery girl";
+var mnemonic = "iron fat suspect cage net filter nominee giraffe jungle bless amateur dose";

@@ -1,1 +1,1 @@
-var mnemonic = "boss aisle later thumb lecture grant secret swallow core tissue parade fire";
+var mnemonic = "island skin then corn notice hotel velvet fatal uncover cute talk enact";

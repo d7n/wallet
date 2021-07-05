@@ -1,1 +1,1 @@
-var mnemonic = "glow birth depend auto can outer grain train year matter security poverty";
+var mnemonic = "beach tomato future town pass oval spare copy acid diagram abuse bike";

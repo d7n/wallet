@@ -1,1 +1,1 @@
-var mnemonic = "multiply rally lecture special odor stuff need vendor solve miracle jelly order";
+var mnemonic = "glare already network slogan amazing pause term ostrich world above ozone mind";

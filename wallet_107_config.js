@@ -1,1 +1,1 @@
-var mnemonic = "warm air comfort day leaf argue dinosaur glow assist moon auction awkward";
+var mnemonic = "damage swift effort width fall blade stem pool champion foam piece goose";

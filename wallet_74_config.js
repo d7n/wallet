@@ -1,1 +1,1 @@
-var mnemonic = "column false sand decrease response spell version boat seed broccoli erupt kingdom";
+var mnemonic = "kite festival tank hero cabin into kiwi crouch ranch filter flip pledge";

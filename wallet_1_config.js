@@ -1,1 +1,1 @@
-var mnemonic = "identify hurry truly suit client grid bless live very shoulder boil skill";
+var mnemonic = "emerge announce grace hungry elbow language wrestle weird resource virtual mountain smooth";

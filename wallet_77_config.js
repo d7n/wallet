@@ -1,1 +1,1 @@
-var mnemonic = "piano choice wave stock middle kiwi this panther kingdom food rural economy";
+var mnemonic = "dance there man peasant begin illness uphold hungry alter fatigue vague page";

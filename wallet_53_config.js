@@ -1,1 +1,1 @@
-var mnemonic = "profit silver enjoy genuine endless tongue tone course logic enroll crime axis";
+var mnemonic = "power toddler multiply toward absorb gather wide impulse distance lumber grief example";

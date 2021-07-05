@@ -1,1 +1,1 @@
-var mnemonic = "clip present thank student setup solid glow clog gesture oak inherit lazy";
+var mnemonic = "license client will warm wing wise icon excuse pioneer fruit afford lobster";

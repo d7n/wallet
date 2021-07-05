@@ -1,1 +1,1 @@
-var mnemonic = "energy paper firm fetch mimic melody bird position sibling glass prepare tool";
+var mnemonic = "birth guess matrix opinion second sense code dry click opinion guess envelope";

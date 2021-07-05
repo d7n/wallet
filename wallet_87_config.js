@@ -1,1 +1,1 @@
-var mnemonic = "elegant human device fancy anxiety knock solar fitness cruel paddle armor clip";
+var mnemonic = "raise victory soccer survey setup mansion cram provide mean travel power turn";

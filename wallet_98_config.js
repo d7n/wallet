@@ -1,1 +1,1 @@
-var mnemonic = "stay wrap track depth kiwi couple asset machine whisper thunder torch dry";
+var mnemonic = "breeze fitness remember adapt brother mobile ostrich benefit dizzy bubble kingdom uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "output much stand entry prosper imitate enough essence interest limit embody trouble";
+var mnemonic = "few bottom fresh few consider tape pool transfer among ostrich eager three";

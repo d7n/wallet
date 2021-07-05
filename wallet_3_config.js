@@ -1,1 +1,1 @@
-var mnemonic = "salmon purse gravity plastic movie divorce soldier voyage blouse want gown okay";
+var mnemonic = "have sure seat brother eager casino option tray profit oval outdoor found";

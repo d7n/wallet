@@ -1,1 +1,1 @@
-var mnemonic = "gentle title entire salute meadow phrase area donor also print bulb gallery";
+var mnemonic = "slot drum romance acquire artefact hand gas question ski slush fragile beach";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer bless fruit summer pizza soap evolve once pistol imitate boil enemy";
+var mnemonic = "nephew uniform mention scrap sound salt work giggle leisure elbow rack grow";

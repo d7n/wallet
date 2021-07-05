@@ -1,1 +1,1 @@
-var mnemonic = "song exclude taste bone half mosquito quit aerobic much wife talk cruise";
+var mnemonic = "tray chair tackle gasp shove arctic letter end carry before bomb screen";

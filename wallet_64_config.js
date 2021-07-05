@@ -1,1 +1,1 @@
-var mnemonic = "bind quiz action cradle tuna dismiss icon still recipe hidden gesture win";
+var mnemonic = "hazard never ill ready happy adapt whale bundle comic cave stairs keep";

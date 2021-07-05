@@ -1,1 +1,1 @@
-var mnemonic = "drastic glance remain milk essence involve hard deny race dog hire athlete";
+var mnemonic = "relief ugly hamster august rally burst alter slim funny hat next must";

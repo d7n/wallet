@@ -1,1 +1,1 @@
-var mnemonic = "suggest champion music bar acoustic define kingdom income earth ask copy term";
+var mnemonic = "music ignore give love run ball lawsuit canyon december modify early birth";

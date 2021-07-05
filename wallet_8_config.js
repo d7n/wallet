@@ -1,1 +1,1 @@
-var mnemonic = "mad champion omit minimum harbor time notable leader vague define tragic police";
+var mnemonic = "surge length bulk buffalo assume dolphin inside promote remove old shadow resource";

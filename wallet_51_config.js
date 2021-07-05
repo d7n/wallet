@@ -1,1 +1,1 @@
-var mnemonic = "submit wear rose bomb family tower when outside patch tower close cement";
+var mnemonic = "gravity mechanic unfold battle then gold fish damp observe panel scatter release";

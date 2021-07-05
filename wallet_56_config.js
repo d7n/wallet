@@ -1,1 +1,1 @@
-var mnemonic = "butter north edge corn slab shed proof drum enrich embrace enemy deputy";
+var mnemonic = "already rule enjoy scissors garlic pioneer ladder vivid actress canvas address dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar rally planet inspire man force ill buzz music initial resource base";
+var mnemonic = "vault culture benefit property seven relax gadget furnace priority tail point habit";

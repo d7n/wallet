@@ -1,1 +1,1 @@
-var mnemonic = "purchase fuel pigeon build grape nut salmon pony tragic network boy license";
+var mnemonic = "camera heart flame robust video village tiger spend lawsuit siren choose describe";

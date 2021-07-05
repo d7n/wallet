@@ -1,1 +1,1 @@
-var mnemonic = "top easily orange base basket burden salt draw seed nasty rate shaft";
+var mnemonic = "success bright gauge moment album crane duty undo toward resist vapor father";

@@ -1,1 +1,1 @@
-var mnemonic = "around picture fly sauce poet doctor actual leg kangaroo receive august include";
+var mnemonic = "parent claw make chicken tourist proof city wide isolate cloud occur clap";

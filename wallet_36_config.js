@@ -1,1 +1,1 @@
-var mnemonic = "return same cup child labor must egg pioneer brother step fashion cash";
+var mnemonic = "cliff series annual fit section neutral eye velvet fee general cave goat";

@@ -1,1 +1,1 @@
-var mnemonic = "random ride donate provide find setup screen chief visa whisper swing rib";
+var mnemonic = "coast pioneer aerobic token this pull raise review half dash spring glue";

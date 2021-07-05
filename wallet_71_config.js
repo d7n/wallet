@@ -1,1 +1,1 @@
-var mnemonic = "equal nut velvet topic pride shaft weird move resemble flavor below retire";
+var mnemonic = "symptom hybrid blame initial accident furnace capital ripple impose flock cherry benefit";

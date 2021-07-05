@@ -1,1 +1,1 @@
-var mnemonic = "matrix salt adapt axis toddler agent dice text raw eyebrow clay coast";
+var mnemonic = "unusual inject announce arctic crucial album same describe broccoli swallow hero animal";

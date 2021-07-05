@@ -1,1 +1,1 @@
-var mnemonic = "midnight boat number famous fluid tackle tunnel level excuse oven vacant uniform";
+var mnemonic = "gauge exile dad survey type save bonus follow ramp pass mutual jealous";

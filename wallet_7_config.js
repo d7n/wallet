@@ -1,1 +1,1 @@
-var mnemonic = "car section perfect shove mandate north toast situate scissors define scan acoustic";
+var mnemonic = "client time young turtle element grant lyrics stadium shoot noodle general antique";

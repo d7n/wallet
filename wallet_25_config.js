@@ -1,1 +1,1 @@
-var mnemonic = "rifle test nation ripple win speed myth album blast school daring prepare";
+var mnemonic = "aware wolf invite owner during fit seven collect transfer visa tail cloth";

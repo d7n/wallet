@@ -1,1 +1,1 @@
-var mnemonic = "question include sock cheap jelly fly drastic champion spoon ten balance melody";
+var mnemonic = "soon name then fine seat cost average final off labor run exercise";

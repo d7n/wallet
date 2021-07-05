@@ -1,1 +1,1 @@
-var mnemonic = "neutral elite lift dentist layer boost test pretty jeans oblige measure remember";
+var mnemonic = "gain pole tilt color else return cat best april wet save satoshi";

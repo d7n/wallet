@@ -1,1 +1,1 @@
-var mnemonic = "you pond fatigue shadow steel list curtain run private sudden garment adapt";
+var mnemonic = "limit chimney keep alpha topple early tomorrow lava sudden mom ghost coil";

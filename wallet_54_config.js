@@ -1,1 +1,1 @@
-var mnemonic = "rigid kingdom win section veteran hidden wish jacket image avoid envelope easy";
+var mnemonic = "detect shock man slot toward tide genius camp roof problem bleak thrive";

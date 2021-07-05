@@ -1,1 +1,1 @@
-var mnemonic = "decrease fatal crazy retire amateur manage safe country scan allow ridge unaware";
+var mnemonic = "point firm riot transfer egg fence raw used plug resist similar kind";

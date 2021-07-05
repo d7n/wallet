@@ -1,1 +1,1 @@
-var mnemonic = "proud milk urban forum hole flower tilt faith final room team frequent";
+var mnemonic = "space toe side member voyage venue hamster almost mercy text fork switch";

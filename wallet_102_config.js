@@ -1,1 +1,1 @@
-var mnemonic = "sweet dose rely thing observe girl act excuse royal segment pledge core";
+var mnemonic = "ginger protect this dry family best option camp member manage planet toddler";

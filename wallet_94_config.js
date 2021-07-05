@@ -1,1 +1,1 @@
-var mnemonic = "cupboard over moment cupboard head symptom word shift festival tuition history frog";
+var mnemonic = "child company flush planet leave escape pattern hospital infant siren lift merry";

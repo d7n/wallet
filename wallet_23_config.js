@@ -1,1 +1,1 @@
-var mnemonic = "giraffe domain volcano verify marine survey noodle clump bamboo blur clump sunny";
+var mnemonic = "hill feed turkey rebel video bulk seat mouse estate sustain wide bless";

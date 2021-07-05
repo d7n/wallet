@@ -1,1 +1,1 @@
-var mnemonic = "spring velvet orchard abuse rather output truck radar enhance world bounce three";
+var mnemonic = "off misery truck together logic pumpkin hold cinnamon cool detail devote bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "work voice like coast enemy aim play cradle slender uniform thrive promote";
+var mnemonic = "gaze truck angle during forum thrive wood item must lesson organ super";

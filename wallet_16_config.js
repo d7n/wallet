@@ -1,1 +1,1 @@
-var mnemonic = "fragile north weapon practice dinner onion forward mercy actress fog dry cruel";
+var mnemonic = "initial dice science large rug join seed near job devote eight solution";

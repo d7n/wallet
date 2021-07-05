@@ -1,1 +1,1 @@
-var mnemonic = "inquiry rose dress chicken blast reform other choice question faith reason soccer";
+var mnemonic = "sniff process fitness chaos reduce short argue cricket neck imitate spike sheriff";

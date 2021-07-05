@@ -1,1 +1,1 @@
-var mnemonic = "until science laundry cement wave prize learn critic coach dial reward topple";
+var mnemonic = "crater enforce van few liquid fiction fit happy funny move lyrics jacket";

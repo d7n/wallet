@@ -1,1 +1,1 @@
-var mnemonic = "expire gasp office quote detail forward rubber true video lounge october clap";
+var mnemonic = "chalk give pilot unfair melt man slogan estate card crew noise change";

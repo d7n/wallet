@@ -1,1 +1,1 @@
-var mnemonic = "pudding civil bracket loan math shift fun retreat foster divorce never cheese";
+var mnemonic = "toss forest green vibrant before atom like action physical please success monster";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing borrow admit zero jungle matter stay trim crumble way easily opera";
+var mnemonic = "obscure east garment spy able sustain swear olive urban deal humor return";

@@ -1,1 +1,1 @@
-var mnemonic = "color benefit roof sphere video rug off side cloth code police sand";
+var mnemonic = "matrix square amused inner shell gasp cheap sort aunt voice badge youth";

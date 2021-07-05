@@ -1,1 +1,1 @@
-var mnemonic = "inflict peace shoulder enjoy repair like lunch develop turkey degree seat inmate";
+var mnemonic = "pause isolate notice this income arch script buffalo planet lyrics wall price";

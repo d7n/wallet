@@ -1,1 +1,1 @@
-var mnemonic = "family pool recipe foil trigger solid rich palm fatal dial vendor sure";
+var mnemonic = "escape column foam risk swim broken bomb oyster ivory spider miss parrot";

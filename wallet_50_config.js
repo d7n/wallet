@@ -1,1 +1,1 @@
-var mnemonic = "give absurd breeze shadow mimic deliver sell step people human liberty genuine";
+var mnemonic = "disagree smooth dog give neck cook mind desert oval protect mosquito demise";

@@ -1,1 +1,1 @@
-var mnemonic = "trap uniform cluster auto core object face electric basic drastic light believe";
+var mnemonic = "end width enable melt target arrive snack jaguar cotton garlic silk jacket";

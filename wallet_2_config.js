@@ -1,1 +1,1 @@
-var mnemonic = "grant rude invest phone couple iron ecology vote limb market raw autumn";
+var mnemonic = "summer owner rib fold giant hockey ticket armor measure glance cave margin";

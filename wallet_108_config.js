@@ -1,1 +1,1 @@
-var mnemonic = "mean donkey trip ignore faith raw staff leave wheel case spray oil";
+var mnemonic = "tube near dove dignity glad enable bench chaos taxi tell wait inject";

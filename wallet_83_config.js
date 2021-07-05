@@ -1,1 +1,1 @@
-var mnemonic = "baby woman robot fossil real battle okay believe staff today obvious only";
+var mnemonic = "run primary visit aisle token hello idle cake essence nation chimney answer";
