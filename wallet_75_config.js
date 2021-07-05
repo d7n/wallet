@@ -1,1 +1,1 @@
-var mnemonic = "uncover plastic discover skate enact famous hover blanket panic cross cloth burden";
+var mnemonic = "teach hover banana punch foam beauty design face odor flavor shove toe";

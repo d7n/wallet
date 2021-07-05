@@ -1,1 +1,1 @@
-var mnemonic = "trial robust grab run include fork chest fog sample summer mammal silk";
+var mnemonic = "meat blood arrest category robot animal near grid swap marriage margin else";

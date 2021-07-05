@@ -1,1 +1,1 @@
-var mnemonic = "unusual diesel ancient street prosper hollow enjoy next merry purpose myself napkin";
+var mnemonic = "music exotic awake edge erupt woman auto dinner rate labor dog attend";

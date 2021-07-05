@@ -1,1 +1,1 @@
-var mnemonic = "venture amateur flush fee swallow forest artwork eagle duck stadium hair cute";
+var mnemonic = "future lyrics nerve father hint useful dismiss tonight vault climb escape adapt";

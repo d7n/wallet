@@ -1,1 +1,1 @@
-var mnemonic = "stumble remove staff amused wall rough consider deposit track auction focus boil";
+var mnemonic = "turtle good range teach loop pear foster drastic then clown comic erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "whip when laundry mention air obey frame naive walk fox sadness sustain";
+var mnemonic = "good typical dose toe must loan aunt early push gasp sport banner";

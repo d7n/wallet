@@ -1,1 +1,1 @@
-var mnemonic = "digital win transfer dragon pioneer very minor direct brother victory also doll";
+var mnemonic = "exotic dune story roof enable easy hamster busy select fragile section awake";

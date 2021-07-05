@@ -1,1 +1,1 @@
-var mnemonic = "vacant media weapon lyrics welcome voice gain vital column bulk calm build";
+var mnemonic = "mouse cancel puzzle estate much dolphin timber estate country slot weather insane";

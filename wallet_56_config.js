@@ -1,1 +1,1 @@
-var mnemonic = "nice symbol glory emotion volume popular gown shine furnace people tissue issue";
+var mnemonic = "swarm camp brief power slow item drink cannon gap filter mandate when";

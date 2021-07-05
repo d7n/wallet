@@ -1,1 +1,1 @@
-var mnemonic = "urge flavor annual used genuine join move image awful long hover tongue";
+var mnemonic = "sunny oil silent purse celery toast link choose lounge hope expand refuse";

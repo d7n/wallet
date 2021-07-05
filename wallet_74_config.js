@@ -1,1 +1,1 @@
-var mnemonic = "swim trouble old guilt case off question weird protect have tip input";
+var mnemonic = "verify gospel broken stem possible decline output genre economy exhaust cheap situate";

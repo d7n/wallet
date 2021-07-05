@@ -1,1 +1,1 @@
-var mnemonic = "need vibrant real capital round banana sphere assault mimic such space subject";
+var mnemonic = "swallow reunion climb bubble unveil snow breeze puzzle camp tuna immense earn";

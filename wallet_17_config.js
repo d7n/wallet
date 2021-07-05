@@ -1,1 +1,1 @@
-var mnemonic = "custom timber they riot hole sunset olympic ensure focus tray defense ritual";
+var mnemonic = "sound talent option smoke else scale jazz taxi idle bronze sea describe";

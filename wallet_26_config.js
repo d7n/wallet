@@ -1,1 +1,1 @@
-var mnemonic = "ordinary track pool birth jacket cliff trust winter liberty cute record napkin";
+var mnemonic = "still confirm damp frozen sister open joy crawl crystal keen lift smooth";

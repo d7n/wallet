@@ -1,1 +1,1 @@
-var mnemonic = "topic flower visa park emerge lemon layer rabbit satoshi fun tribe slow";
+var mnemonic = "auto enforce north visual absorb divert language hedgehog candy pet plastic loop";

@@ -1,1 +1,1 @@
-var mnemonic = "service system vessel topple old subject stomach pear salon enjoy idea oak";
+var mnemonic = "noise uphold body unable sail wing student race praise april pipe cup";

@@ -1,1 +1,1 @@
-var mnemonic = "garment coffee remove guess ready radio service off quiz virus ozone sand";
+var mnemonic = "wrestle awesome year census miracle special tray hill once will hole main";

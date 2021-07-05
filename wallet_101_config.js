@@ -1,1 +1,1 @@
-var mnemonic = "rapid glance news diagram flavor planet huge horse rib horn never also";
+var mnemonic = "tilt lyrics soul snake degree weather dinosaur van figure task need oyster";

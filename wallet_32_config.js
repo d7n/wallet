@@ -1,1 +1,1 @@
-var mnemonic = "scheme teach travel drop flat disorder pulp parent state peanut rebel glow";
+var mnemonic = "pelican behave master ladder much inject entry latin spatial local certain juice";

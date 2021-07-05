@@ -1,1 +1,1 @@
-var mnemonic = "snow inside elevator media narrow ship artist panther extend august elder omit";
+var mnemonic = "child person twice gesture deny curtain have bridge foot hospital grant ridge";

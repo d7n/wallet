@@ -1,1 +1,1 @@
-var mnemonic = "earn razor unusual lobster coyote student assist resist boost all please case";
+var mnemonic = "churn lizard chase caution winner egg engage song empty gloom time trigger";

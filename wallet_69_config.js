@@ -1,1 +1,1 @@
-var mnemonic = "claim purity lawn innocent broom jewel cage wasp radio phone settle erosion";
+var mnemonic = "pretty convince steak hub pig fee receive useless law metal tree use";

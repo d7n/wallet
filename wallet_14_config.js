@@ -1,1 +1,1 @@
-var mnemonic = "mixed shoe satoshi sport clay fetch aisle reform vessel bean evolve volume";
+var mnemonic = "above advice robot horse puppy tourist bean fat convince setup welcome two";

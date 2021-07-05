@@ -1,1 +1,1 @@
-var mnemonic = "avoid undo pelican ready breeze cigar speed vacant shield awkward click year";
+var mnemonic = "dream census camera cluster light person dinner tissue next zero satisfy life";

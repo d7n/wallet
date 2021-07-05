@@ -1,1 +1,1 @@
-var mnemonic = "misery region pistol wire fork toast rocket bread wing accident beauty work";
+var mnemonic = "together youth dynamic patrol coach tobacco around neglect ensure talk ticket shed";

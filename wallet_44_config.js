@@ -1,1 +1,1 @@
-var mnemonic = "problem evoke picture ribbon next army sleep flash swing exhibit ancient nest";
+var mnemonic = "inform cupboard vocal cousin recipe side indoor random exhaust odor bus domain";

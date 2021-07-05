@@ -1,1 +1,1 @@
-var mnemonic = "wash pumpkin wealth photo coral execute unusual kid wreck visit price surface";
+var mnemonic = "draft please clutch blush ozone ski economy card acid equal output night";

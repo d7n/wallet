@@ -1,1 +1,1 @@
-var mnemonic = "zone captain okay excess orphan nominee grow reform maximum object category toward";
+var mnemonic = "odor brother laugh deer final leaf weapon journey room shop abandon mad";

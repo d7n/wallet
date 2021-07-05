@@ -1,1 +1,1 @@
-var mnemonic = "midnight act segment diamond open better tomorrow vacuum leaf teach burden reduce";
+var mnemonic = "piece demise system under universe release aisle key foot gesture attitude electric";

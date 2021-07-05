@@ -1,1 +1,1 @@
-var mnemonic = "common garage spin short aspect bright very apple regret quote awkward ivory";
+var mnemonic = "during fly inch hobby apple child switch remove rural acid congress globe";

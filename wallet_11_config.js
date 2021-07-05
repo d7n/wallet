@@ -1,1 +1,1 @@
-var mnemonic = "cigar pond buzz film shuffle jump hen era provide deer coconut attitude";
+var mnemonic = "engine pig unique loyal sustain exchange zero stomach stage crash hotel decrease";

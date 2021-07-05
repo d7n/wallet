@@ -1,1 +1,1 @@
-var mnemonic = "flavor short lonely pulse rough video unaware weekend dragon mail present upgrade";
+var mnemonic = "circle fade pulp hungry spoil addict wine actor all arm flight match";

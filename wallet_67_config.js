@@ -1,1 +1,1 @@
-var mnemonic = "cricket deny myth develop tiny pizza bulb choice shuffle palm equip valid";
+var mnemonic = "film pact depend ball depth worry attract pupil vault april soccer enforce";

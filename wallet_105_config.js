@@ -1,1 +1,1 @@
-var mnemonic = "never oven stock glue apple friend bridge orange problem near truck whip";
+var mnemonic = "casino bring bulk empty argue elegant defense couch rotate online lady citizen";

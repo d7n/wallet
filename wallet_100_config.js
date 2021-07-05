@@ -1,1 +1,1 @@
-var mnemonic = "adapt warfare celery else various tomorrow upgrade dream hazard square brass toss";
+var mnemonic = "subject utility mixture usage swallow lawsuit diary shell glory sentence chunk hospital";

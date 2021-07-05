@@ -1,1 +1,1 @@
-var mnemonic = "cake original reward powder type nominee lunch square firm remove visa wheel";
+var mnemonic = "transfer collect carpet frog ski soda image own gym season seek ahead";

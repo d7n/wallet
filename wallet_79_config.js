@@ -1,1 +1,1 @@
-var mnemonic = "help churn argue blouse volcano harbor cinnamon predict limb leg chase rookie";
+var mnemonic = "tomorrow educate imitate master wood silent sword there toilet hold case grid";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous forward ostrich walk another gallery mirror order try year finger wise";
+var mnemonic = "belt frog glimpse whip knee run light essence scatter job siren alcohol";

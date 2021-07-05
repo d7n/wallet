@@ -1,1 +1,1 @@
-var mnemonic = "dentist crawl device indicate amazing token point muffin balcony snake deputy select";
+var mnemonic = "nut deliver stool client brave rocket banana chef depth main whale give";

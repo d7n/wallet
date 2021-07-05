@@ -1,1 +1,1 @@
-var mnemonic = "wealth spell cannon piece antique scan swap will saddle chef excuse oak";
+var mnemonic = "minor silent key limit upper few lazy check target kangaroo truly remember";

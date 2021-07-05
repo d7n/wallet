@@ -1,1 +1,1 @@
-var mnemonic = "lock skirt rich spray federal cool nasty whisper team six must tip";
+var mnemonic = "lend supreme way now hobby snake vote farm napkin abuse what cost";

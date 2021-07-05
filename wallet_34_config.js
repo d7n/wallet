@@ -1,1 +1,1 @@
-var mnemonic = "mistake energy inside usual vacant charge use miss taste mixture chair round";
+var mnemonic = "viable gossip tell culture sibling car broken lend vacant fox nose gold";

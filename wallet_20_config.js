@@ -1,1 +1,1 @@
-var mnemonic = "link step unhappy glare promote palm truth deer among tooth cable vacuum";
+var mnemonic = "juice film can lava mixed open wealth since real blue paper swap";

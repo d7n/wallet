@@ -1,1 +1,1 @@
-var mnemonic = "bless staff tank rug vault river solar scan tongue guilt path stick";
+var mnemonic = "barrel artwork young smooth east hamster fresh popular endorse flip scrub latin";

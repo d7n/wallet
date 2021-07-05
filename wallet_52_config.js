@@ -1,1 +1,1 @@
-var mnemonic = "monkey click room tooth busy original risk drift father refuse giraffe intact";
+var mnemonic = "leopard common toilet spell chaos screen reward observe mixture word amazing coast";

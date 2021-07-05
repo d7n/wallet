@@ -1,1 +1,1 @@
-var mnemonic = "genius rural magnet brown wave inner barely defense capital clean cannon whisper";
+var mnemonic = "need uniform start doctor donkey prison merit olympic skin violin solar churn";

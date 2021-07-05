@@ -1,1 +1,1 @@
-var mnemonic = "timber finger tonight region inform great absorb spring scene same tongue race";
+var mnemonic = "trophy nation ostrich endorse prosper valve panda release voyage dinner any dune";

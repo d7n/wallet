@@ -1,1 +1,1 @@
-var mnemonic = "victory brush wood tank fit audit portion ski bottom machine teach degree";
+var mnemonic = "family remind culture affair spoil pioneer core mule width spawn wife clump";

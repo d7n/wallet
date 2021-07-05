@@ -1,1 +1,1 @@
-var mnemonic = "earn cherry hub off shoulder day snow duck salute mystery income virtual";
+var mnemonic = "analyst dog tenant spend hamster build any grass december meadow dinosaur infant";

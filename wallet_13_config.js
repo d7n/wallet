@@ -1,1 +1,1 @@
-var mnemonic = "master spice castle gap panther orchard little own cancel dune sock unhappy";
+var mnemonic = "soon boil alarm awful flag large guilt strategy inflict domain duck arena";

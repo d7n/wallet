@@ -1,1 +1,1 @@
-var mnemonic = "view taste present sniff east finger air adjust cannon clog believe switch";
+var mnemonic = "chronic island betray arrow fault twice gesture recycle margin entry culture glare";

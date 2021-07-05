@@ -1,1 +1,1 @@
-var mnemonic = "real neither gold side age forget base depend over vintage cause upset";
+var mnemonic = "broom engine glide they flat gold novel dirt hotel dutch teach ring";

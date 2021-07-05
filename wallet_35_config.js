@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin dynamic list sweet input group broom carbon legend turkey plastic first";
+var mnemonic = "library maximum carpet strategy fashion oblige april quality market gorilla treat donkey";

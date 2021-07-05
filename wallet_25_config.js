@@ -1,1 +1,1 @@
-var mnemonic = "shrug picnic file balcony same grab woman feed palm person possible rare";
+var mnemonic = "antique frozen rival bus exact velvet seat scatter mass cliff veteran bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "simple mutual clerk term vague hungry goat anxiety scale stereo devote fabric";
+var mnemonic = "quit fabric settle slight humor enhance morning pluck genre slide erosion hidden";

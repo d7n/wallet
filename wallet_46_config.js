@@ -1,1 +1,1 @@
-var mnemonic = "sadness coffee egg pink cave sample bronze fiscal spell regular program victory";
+var mnemonic = "winter crush mutual blush captain pelican fashion window retire surface notable voice";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix decrease reform kangaroo right elbow grain fashion main lend pact middle";
+var mnemonic = "door seek farm canyon truth various develop worth pupil glory adjust lawn";

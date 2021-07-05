@@ -1,1 +1,1 @@
-var mnemonic = "stumble spatial around canal spare capable dinner network reunion awful genius light";
+var mnemonic = "parent marble oak there gun recycle special garden thing bind army access";

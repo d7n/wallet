@@ -1,1 +1,1 @@
-var mnemonic = "paper disagree name please cancel double law curve predict floor cash lunch";
+var mnemonic = "bar carpet wait release slow pledge notice pledge scatter end reunion express";

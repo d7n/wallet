@@ -1,1 +1,1 @@
-var mnemonic = "obey galaxy dignity rail wet carpet ostrich young assault bamboo utility uncover";
+var mnemonic = "resemble fee attack space outdoor pulp address deputy lemon green begin okay";

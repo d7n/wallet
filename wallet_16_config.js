@@ -1,1 +1,1 @@
-var mnemonic = "slim hawk minor nuclear spoon club become royal board prize hip soda";
+var mnemonic = "bubble weapon friend salt taxi attitude typical zero cute sheriff capable crime";

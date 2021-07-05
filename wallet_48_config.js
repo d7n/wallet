@@ -1,1 +1,1 @@
-var mnemonic = "stand shuffle antique pepper major fee swarm truly noble admit orient gate";
+var mnemonic = "age fatigue cotton injury media display auto enter swing into garlic fragile";

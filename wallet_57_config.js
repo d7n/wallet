@@ -1,1 +1,1 @@
-var mnemonic = "brave rule surround worry scheme flavor ship civil sentence immune omit expand";
+var mnemonic = "have cry into then yellow during intact decade tape fantasy sheriff proud";

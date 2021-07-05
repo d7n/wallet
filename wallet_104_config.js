@@ -1,1 +1,1 @@
-var mnemonic = "cherry mimic very autumn review dynamic extend foil unveil exact favorite above";
+var mnemonic = "fossil avocado favorite interest drop still purpose swap floor sponsor twice fossil";

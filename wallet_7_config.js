@@ -1,1 +1,1 @@
-var mnemonic = "false grace advance kid decline weekend vote opera machine monitor soccer mule";
+var mnemonic = "coach gate year ring wise jealous exclude verb hotel misery noodle promote";

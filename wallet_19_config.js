@@ -1,1 +1,1 @@
-var mnemonic = "borrow holiday replace raccoon wish cycle crash conduct final seed zoo neither";
+var mnemonic = "rain income between wire hollow old object adjust poet search lawn student";

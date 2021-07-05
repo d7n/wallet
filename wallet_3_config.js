@@ -1,1 +1,1 @@
-var mnemonic = "exercise lunch place calm digital abstract sell today phrase rely language venue";
+var mnemonic = "drama alien primary unlock crucial ancient sorry bean vessel spray attract airport";

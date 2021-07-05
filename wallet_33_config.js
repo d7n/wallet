@@ -1,1 +1,1 @@
-var mnemonic = "judge mass scheme hole follow delay deliver pattern bulb lady twice pupil";
+var mnemonic = "situate punch pair barely quiz option lazy broom aerobic lava phone stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "token brush click globe cabbage stage uniform city bench risk shop road";
+var mnemonic = "inquiry develop strike tourist blouse buddy wave actor wait pistol end dial";

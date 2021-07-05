@@ -1,1 +1,1 @@
-var mnemonic = "space suffer wonder tone divert ridge ramp lawsuit ticket blush pear weird";
+var mnemonic = "cactus bachelor maximum critic theme squeeze dog letter churn apology chief tomato";

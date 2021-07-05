@@ -1,1 +1,1 @@
-var mnemonic = "antique corn recycle struggle clarify exhaust explain kitten prize actor muffin rely";
+var mnemonic = "limit suffer exit news salt dentist olive coast laptop team imitate disease";

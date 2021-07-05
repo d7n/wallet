@@ -1,1 +1,1 @@
-var mnemonic = "little allow ostrich box say rate spice rate clean polar elegant pretty";
+var mnemonic = "resource hint web cycle ginger butter harbor flame crack alien minute kit";

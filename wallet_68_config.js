@@ -1,1 +1,1 @@
-var mnemonic = "portion cram kingdom culture celery all more guard lecture duck exist cute";
+var mnemonic = "alone help lava kit shock current wrong attitude review brand fruit ivory";

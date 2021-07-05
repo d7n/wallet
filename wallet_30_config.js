@@ -1,1 +1,1 @@
-var mnemonic = "fabric update basket middle shuffle dwarf buzz glide column apology airport ghost";
+var mnemonic = "another patch still leg come path winner sight pear polar weapon door";

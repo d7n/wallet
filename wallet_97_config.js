@@ -1,1 +1,1 @@
-var mnemonic = "evidence satisfy heart mixed jealous dawn abstract spare velvet poet airport leave";
+var mnemonic = "cradle attend grace bag banana venue original pet square couch work taste";

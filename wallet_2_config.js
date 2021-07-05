@@ -1,1 +1,1 @@
-var mnemonic = "hold palm spring drill tunnel enact rotate until crop follow actress hen";
+var mnemonic = "firm daring hole paddle monster tank disagree click rural rely unfold occur";

@@ -1,1 +1,1 @@
-var mnemonic = "twin head trend cake shop nut must salute client album only task";
+var mnemonic = "clown abstract neglect coach bargain trade curve slight word auction attitude series";

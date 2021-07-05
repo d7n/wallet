@@ -1,1 +1,1 @@
-var mnemonic = "media comfort mirror okay library calm state physical barely under cat spatial";
+var mnemonic = "inside mirror monkey promote access bargain junior vessel road guard hover give";

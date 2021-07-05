@@ -1,1 +1,1 @@
-var mnemonic = "enhance mirror fiction figure subway jacket relief glimpse wolf ghost unable clerk";
+var mnemonic = "sauce check drop wonder blouse wise shallow dove angry vibrant trip clump";

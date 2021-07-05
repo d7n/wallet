@@ -1,1 +1,1 @@
-var mnemonic = "demise right cluster cruise figure food expire divide poverty scene twice record";
+var mnemonic = "element virtual metal world remember pear dignity bean thank project mutual cattle";

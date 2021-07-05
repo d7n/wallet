@@ -1,1 +1,1 @@
-var mnemonic = "situate morning conduct rally jump bubble aisle gorilla client opera raven cricket";
+var mnemonic = "minor insect gauge bounce dentist decade medal balcony rocket derive science trigger";

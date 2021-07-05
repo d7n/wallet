@@ -1,1 +1,1 @@
-var mnemonic = "wide feel strategy hybrid search stomach catch path apart fish lawsuit mad";
+var mnemonic = "frequent taxi oven design tree excess stock birth upper boat field runway";
