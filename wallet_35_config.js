@@ -1,1 +1,1 @@
-var mnemonic = "grocery then essence grace rate employ bid diamond negative trophy tag resemble";
+var mnemonic = "approve media trouble luggage tattoo voyage lift stage globe surprise valley spoil";

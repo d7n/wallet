@@ -1,1 +1,1 @@
-var mnemonic = "sister word upon wrap jewel local fun learn average control episode morning";
+var mnemonic = "fiscal warrior sorry napkin grow circle gasp emerge walk wait bike question";

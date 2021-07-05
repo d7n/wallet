@@ -1,1 +1,1 @@
-var mnemonic = "nose scale park nuclear leg hire decide snap little enrich dry abandon";
+var mnemonic = "adult satisfy almost lonely grape enable forest mail still letter honey month";

@@ -1,1 +1,1 @@
-var mnemonic = "clever ketchup attitude hello fatal enjoy south pill raven note domain wide";
+var mnemonic = "rally moral orbit shine unfair describe fault baby early oppose volcano thought";

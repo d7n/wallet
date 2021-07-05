@@ -1,1 +1,1 @@
-var mnemonic = "announce cancel effort length engage corn crater owner echo daughter blade ask";
+var mnemonic = "shield together furnace sell situate enroll kit proof dream nasty core time";

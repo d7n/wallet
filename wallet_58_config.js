@@ -1,1 +1,1 @@
-var mnemonic = "pupil popular inspire vivid uphold word frozen female oval injury ride antique";
+var mnemonic = "skirt spatial word arm quote expire erode sun any depth furnace negative";

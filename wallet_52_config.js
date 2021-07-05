@@ -1,1 +1,1 @@
-var mnemonic = "poem equip network such distance next abandon expect sight analyst ranch trouble";
+var mnemonic = "hybrid subway clarify error swim voyage yard upon brave satoshi light lesson";

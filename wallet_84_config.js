@@ -1,1 +1,1 @@
-var mnemonic = "hamster lottery light error middle size solve maze laundry disorder museum aware";
+var mnemonic = "copper shoe decide wedding reject sunny poem auto gold hole piece aware";

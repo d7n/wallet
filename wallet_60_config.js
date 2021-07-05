@@ -1,1 +1,1 @@
-var mnemonic = "enable marine bike dash typical advance unlock during float parade feature ceiling";
+var mnemonic = "key cluster remove raven hobby swing tray dose chuckle sight sense apple";

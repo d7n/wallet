@@ -1,1 +1,1 @@
-var mnemonic = "common sustain gauge arctic jelly punch inside habit scissors bunker lunar leader";
+var mnemonic = "fox foot explain resource ignore blanket rack stock lunch crane pig basket";

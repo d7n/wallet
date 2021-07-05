@@ -1,1 +1,1 @@
-var mnemonic = "hurry equip tower sadness unhappy need afraid purse sentence tomato electric canyon";
+var mnemonic = "water anger letter slot alert beyond jacket foot deal nature trash chef";

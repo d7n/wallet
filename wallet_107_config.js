@@ -1,1 +1,1 @@
-var mnemonic = "virtual gasp scrap basket ritual daughter season rigid steak doctor crowd exhaust";
+var mnemonic = "spend involve settle rail pride tongue evolve tape caution crawl snap endless";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual round tragic flock print trend differ casual focus episode replace cannon";
+var mnemonic = "breeze lava endorse key render control convince fringe crunch defense salon play";

@@ -1,1 +1,1 @@
-var mnemonic = "add sentence sort ivory indicate alter connect another review subway timber toward";
+var mnemonic = "congress uniform tobacco list anger guide estate afraid hood evil just other";

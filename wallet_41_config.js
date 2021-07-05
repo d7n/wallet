@@ -1,1 +1,1 @@
-var mnemonic = "purse mango group luggage purity taxi girl absent swarm wheat canoe poet";
+var mnemonic = "energy sea they forward drill tomorrow march merge tube excess piano liar";

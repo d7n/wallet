@@ -1,1 +1,1 @@
-var mnemonic = "surface bicycle bullet lend advice undo tissue must save brand unfair venture";
+var mnemonic = "heavy able you island convince gasp chat corn grocery bone ring yard";

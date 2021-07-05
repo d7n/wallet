@@ -1,1 +1,1 @@
-var mnemonic = "hungry come super knife bundle tail sea palace alarm ceiling identify earn";
+var mnemonic = "beyond normal file hospital amused lawsuit fan combine coach build cancel account";

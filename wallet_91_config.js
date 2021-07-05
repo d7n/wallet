@@ -1,1 +1,1 @@
-var mnemonic = "inmate vital lend nephew audit pudding churn glimpse exotic robust immune solid";
+var mnemonic = "decline deputy avocado ice miracle vast evolve summer wealth riot jazz daring";

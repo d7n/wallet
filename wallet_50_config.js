@@ -1,1 +1,1 @@
-var mnemonic = "require afraid brain indoor rent erosion proud genius famous farm endorse chaos";
+var mnemonic = "update whip fantasy street educate raw home shadow struggle clerk left video";

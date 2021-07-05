@@ -1,1 +1,1 @@
-var mnemonic = "day arrow outdoor imitate kind barrel hunt scissors omit manual parent ridge";
+var mnemonic = "cannon burden someone pistol common tobacco emerge voyage venue wear sudden maid";

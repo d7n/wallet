@@ -1,1 +1,1 @@
-var mnemonic = "witness place hurt baby dismiss roof know marriage bird special amount cause";
+var mnemonic = "aware cash forum dragon online trophy always burger until ghost sea topic";

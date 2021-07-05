@@ -1,1 +1,1 @@
-var mnemonic = "spike possible impulse fresh describe tenant loop cool ahead sound knock arctic";
+var mnemonic = "promote legal myth insane sun boss prize exercise indoor glad express never";

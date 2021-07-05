@@ -1,1 +1,1 @@
-var mnemonic = "double photo unusual raven giggle gospel nerve provide critic captain push attend";
+var mnemonic = "goat snap when manual decline hedgehog exhaust return robot absent require element";

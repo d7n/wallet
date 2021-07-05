@@ -1,1 +1,1 @@
-var mnemonic = "guard trap emerge bulk hurdle lesson vast palm describe sun when flame";
+var mnemonic = "filter cable marriage toddler drip security lonely bench increase lamp fold easy";

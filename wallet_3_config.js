@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur fantasy wink snack question struggle hawk issue decorate dismiss own similar";
+var mnemonic = "topic diamond virus attract type doctor board erase rose option twelve marble";

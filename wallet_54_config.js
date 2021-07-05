@@ -1,1 +1,1 @@
-var mnemonic = "grace photo curtain pond clean beef east feature figure eye cushion slogan";
+var mnemonic = "vicious record goddess patrol spirit notable coral gate tail buyer boring answer";

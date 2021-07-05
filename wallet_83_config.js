@@ -1,1 +1,1 @@
-var mnemonic = "also rescue chest strategy extra erode what olympic unlock body rich walk";
+var mnemonic = "shoe next problem decade firm mistake casual fitness midnight web bunker blade";

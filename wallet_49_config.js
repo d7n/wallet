@@ -1,1 +1,1 @@
-var mnemonic = "wisdom gap title isolate cruise urge legend street enough hurt judge food";
+var mnemonic = "wash faint infant helmet entry adult industry rate solution sample april sort";

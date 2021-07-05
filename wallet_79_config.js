@@ -1,1 +1,1 @@
-var mnemonic = "rotate air dust wrong boring idle intact half voice gorilla undo mobile";
+var mnemonic = "spice weird feel lock include zebra frequent hobby since rebel hood require";

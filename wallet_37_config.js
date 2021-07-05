@@ -1,1 +1,1 @@
-var mnemonic = "typical core index artist stage toddler plug stay sell pyramid clay wait";
+var mnemonic = "language car hamster double cigar good extend analyst whale frog thing affair";

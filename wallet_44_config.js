@@ -1,1 +1,1 @@
-var mnemonic = "festival crowd hire choose use borrow suit mirror armed man tissue sing";
+var mnemonic = "fan usage people denial renew imitate tray win minor market boring film";

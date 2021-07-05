@@ -1,1 +1,1 @@
-var mnemonic = "early text dinner knee supply desert muscle wave unhappy off reopen endless";
+var mnemonic = "betray trust busy turkey apple lava burden wealth renew exit exclude fiction";

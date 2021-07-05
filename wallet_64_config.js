@@ -1,1 +1,1 @@
-var mnemonic = "spare track razor sight road south board cricket flush acoustic bright advice";
+var mnemonic = "suggest pen island opera swarm evil always dynamic champion about flush minute";

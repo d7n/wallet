@@ -1,1 +1,1 @@
-var mnemonic = "sheriff fog illegal menu place surprise enroll rose topple wool broken accident";
+var mnemonic = "until shrug spring draft uphold merge fuel lock debris color wall fence";

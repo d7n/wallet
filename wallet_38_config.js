@@ -1,1 +1,1 @@
-var mnemonic = "trim gas bar best myth crack limb biology parrot innocent fever rude";
+var mnemonic = "evil history improve bar picture talent lion better multiply cherry isolate art";

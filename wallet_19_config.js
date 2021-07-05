@@ -1,1 +1,1 @@
-var mnemonic = "blouse pair table burden patch garden yellow spray wall post just drive";
+var mnemonic = "become better orient market tape regular puzzle violin subject stable alcohol language";

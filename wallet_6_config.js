@@ -1,1 +1,1 @@
-var mnemonic = "common seat shop abstract rhythm private distance clown music crisp fantasy join";
+var mnemonic = "six spray canyon embark unit throw rough column hedgehog space other essence";

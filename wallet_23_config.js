@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog paper kidney midnight advance symbol push exclude believe trip wealth warm";
+var mnemonic = "squeeze milk autumn fly wolf language advice involve fly apple main harbor";

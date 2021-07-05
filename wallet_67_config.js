@@ -1,1 +1,1 @@
-var mnemonic = "hobby sweet cash summer organ rescue jump pitch liquid praise torch rookie";
+var mnemonic = "major misery mammal gym about matter broccoli segment despair violin dust universe";

@@ -1,1 +1,1 @@
-var mnemonic = "leave oppose maximum monitor blade position brief park describe focus iron armed";
+var mnemonic = "noise web saddle indicate sauce wall unit artwork ring indoor long blossom";

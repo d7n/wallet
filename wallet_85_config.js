@@ -1,1 +1,1 @@
-var mnemonic = "enact erase soda guard charge filter history lucky estate cool brain setup";
+var mnemonic = "category squirrel praise play hungry fly devote seminar struggle kick soldier dwarf";

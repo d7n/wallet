@@ -1,1 +1,1 @@
-var mnemonic = "guitar army extra evidence hotel skill reflect crater mother film rather stereo";
+var mnemonic = "alarm cabbage rather faith torch turtle town globe skirt spell play spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "path example truly file long nature bus faith garlic daring opinion trick";
+var mnemonic = "famous dash violin paper mutual height ostrich climb marine airport gold pass";

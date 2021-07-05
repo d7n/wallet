@@ -1,1 +1,1 @@
-var mnemonic = "apology proud someone few inject wish lunar camp year tower bitter clump";
+var mnemonic = "uncle earth milk salmon bread key because large snap tent pupil blame";

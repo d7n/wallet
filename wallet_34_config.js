@@ -1,1 +1,1 @@
-var mnemonic = "draft you point sing frog target witness laundry mule theory evoke blast";
+var mnemonic = "enough jaguar century surge best balcony spike also planet maze keep sing";

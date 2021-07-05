@@ -1,1 +1,1 @@
-var mnemonic = "left cement toy fun beyond bulb rebel joy twenty artwork abuse crouch";
+var mnemonic = "labor prevent teach scene prepare detect online narrow promote trust struggle mass";

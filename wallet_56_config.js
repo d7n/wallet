@@ -1,1 +1,1 @@
-var mnemonic = "liar gallery metal provide excess victory romance turtle enlist ahead vital basic";
+var mnemonic = "panic tragic badge drift faculty warm tooth setup donkey industry verify enough";

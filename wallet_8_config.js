@@ -1,1 +1,1 @@
-var mnemonic = "girl solve camp cute team salon repeat grant unknown youth wine kingdom";
+var mnemonic = "dragon evoke update vacant pepper switch blame junior borrow family possible cherry";

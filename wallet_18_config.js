@@ -1,1 +1,1 @@
-var mnemonic = "clay peasant collect system drill balcony bright sustain add shine maid carpet";
+var mnemonic = "all repeat deputy nurse divorce mirror scheme capable undo drift wonder possible";

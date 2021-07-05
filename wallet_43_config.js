@@ -1,1 +1,1 @@
-var mnemonic = "agree derive swear pig outdoor boy tool trip swamp butter alter accuse";
+var mnemonic = "liberty drink rapid matrix actor sort carry cousin pond hurry future crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "token robust pull ice raven produce action aerobic empower recycle slush spread";
+var mnemonic = "suit gown usual wealth film same cart view ranch wing sunset ozone";

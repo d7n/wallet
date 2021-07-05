@@ -1,1 +1,1 @@
-var mnemonic = "dune sick inhale when limb bonus heart coral dragon life width people";
+var mnemonic = "digital craft kidney guitar dismiss spike armed mirror second problem uncover wheat";

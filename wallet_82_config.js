@@ -1,1 +1,1 @@
-var mnemonic = "shy donate ranch buyer process obscure soul general document isolate prison fly";
+var mnemonic = "dinosaur wrestle relief holiday system travel hold around cave another want picture";

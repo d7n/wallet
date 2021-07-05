@@ -1,1 +1,1 @@
-var mnemonic = "universe nice member lava arctic friend stove soft upper bone high effort";
+var mnemonic = "orange elite marine sunny hockey inhale spring survey habit steak crouch ecology";

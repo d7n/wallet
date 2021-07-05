@@ -1,1 +1,1 @@
-var mnemonic = "saddle run merit project despair dog shoot drift robust equal music crack";
+var mnemonic = "lyrics try piano retire birth eagle silent catch start idle finger near";

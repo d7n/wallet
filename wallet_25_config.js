@@ -1,1 +1,1 @@
-var mnemonic = "valley scatter bottom ripple reform frequent faith myth obey nose embody light";
+var mnemonic = "expose enough marriage exhaust shoulder acquire february analyst snake brick dove october";

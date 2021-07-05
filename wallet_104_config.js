@@ -1,1 +1,1 @@
-var mnemonic = "jeans blade winter close cross funny neutral anger feel nominee tackle major";
+var mnemonic = "pyramid guard observe provide end hero urban banner junk tide load scorpion";

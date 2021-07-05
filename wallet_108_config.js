@@ -1,1 +1,1 @@
-var mnemonic = "shuffle option noodle purse leaf thing dumb captain novel business tool mandate";
+var mnemonic = "couch birth plunge glory pride rate trust drive alarm kiwi april mountain";

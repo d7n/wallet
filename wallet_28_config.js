@@ -1,1 +1,1 @@
-var mnemonic = "wash rough random outdoor advance until put such pear fame battle skirt";
+var mnemonic = "ivory onion deer monkey easy barely apology truth large language elevator salon";

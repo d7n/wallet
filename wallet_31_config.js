@@ -1,1 +1,1 @@
-var mnemonic = "angle mad segment caution stamp health security action wild tilt hill total";
+var mnemonic = "volume team trash social topic novel lock feature area oblige still slab";

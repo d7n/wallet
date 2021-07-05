@@ -1,1 +1,1 @@
-var mnemonic = "session helmet broccoli accuse habit auction degree zero indoor defense symbol habit";
+var mnemonic = "fall brick peanut slim walk royal era teach series canvas palace worry";

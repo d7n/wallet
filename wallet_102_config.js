@@ -1,1 +1,1 @@
-var mnemonic = "rotate mother order pilot culture fabric current safe mistake bird human clown";
+var mnemonic = "abandon kite glove sheriff thunder reform hockey friend oven weather police depth";

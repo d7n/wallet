@@ -1,1 +1,1 @@
-var mnemonic = "stock evil enact head hint awesome option account hat foster manage bitter";
+var mnemonic = "spice betray copy gate random initial disease enlist bargain blossom figure shift";

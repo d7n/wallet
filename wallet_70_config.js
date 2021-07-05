@@ -1,1 +1,1 @@
-var mnemonic = "legend trend crater inch lock borrow fix ring unusual spray cabbage spike";
+var mnemonic = "tomato pen swap manage finish cover coil abuse relief alone april belt";

@@ -1,1 +1,1 @@
-var mnemonic = "slice vital burst dust maximum indicate blossom cube plastic indoor cherry nut";
+var mnemonic = "better wage pulse shiver bacon receive leisure sudden cause want wage tower";

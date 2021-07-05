@@ -1,1 +1,1 @@
-var mnemonic = "desk honey addict intact later cry novel outer shuffle minor brother range";
+var mnemonic = "misery govern antique believe afford bone spot ceiling more sort march dilemma";

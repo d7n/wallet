@@ -1,1 +1,1 @@
-var mnemonic = "august awkward goddess rude mosquito dune suffer rapid burden law wolf inhale";
+var mnemonic = "birth choice twice harvest exhaust suit law scan elder chicken equal balcony";

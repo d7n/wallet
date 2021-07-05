@@ -1,1 +1,1 @@
-var mnemonic = "survey account story cluster sugar couch expose roast pulse shoot cereal shift";
+var mnemonic = "permit modify artwork trick lake elephant legal spice cross flush abstract planet";

@@ -1,1 +1,1 @@
-var mnemonic = "winter sport token cargo genius describe hair indoor before climb lizard innocent";
+var mnemonic = "match warfare infant gasp nose slab timber verify message jump orient clown";

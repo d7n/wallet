@@ -1,1 +1,1 @@
-var mnemonic = "spy drum obey oyster rose siren begin opera reunion describe belt lamp";
+var mnemonic = "early excite guitar sense marble erosion body moral garbage dune metal license";

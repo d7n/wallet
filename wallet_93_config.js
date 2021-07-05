@@ -1,1 +1,1 @@
-var mnemonic = "tenant goddess sibling life topic elder spring sound energy sport village intact";
+var mnemonic = "aspect transfer message cycle extend thrive share wheel track motor large ill";

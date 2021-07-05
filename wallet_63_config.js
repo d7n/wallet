@@ -1,1 +1,1 @@
-var mnemonic = "rural around eagle wasp orange lend cricket scrub desk large hire able";
+var mnemonic = "scare barely dune expire rabbit busy south loud thunder hub alert seed";

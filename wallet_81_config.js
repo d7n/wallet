@@ -1,1 +1,1 @@
-var mnemonic = "modify poet inform symptom brief melody spring flat ticket hover language grief";
+var mnemonic = "gun dune horror spy inflict main solution session various multiply tide seek";

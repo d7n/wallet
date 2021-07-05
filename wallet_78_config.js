@@ -1,1 +1,1 @@
-var mnemonic = "again soft fire canyon tool drill wine fantasy vehicle provide endless always";
+var mnemonic = "lava unusual dog monitor label flush slogan maple actress history scare copper";

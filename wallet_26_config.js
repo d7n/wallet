@@ -1,1 +1,1 @@
-var mnemonic = "actress onion festival danger accident victory hockey loop weird act exclude peace";
+var mnemonic = "rich urge nature stay estate home social athlete time chicken salt cabin";

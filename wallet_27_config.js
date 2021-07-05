@@ -1,1 +1,1 @@
-var mnemonic = "decorate field myth human theory process thank upset media mammal second grape";
+var mnemonic = "label ostrich clay brief minute exhibit drift harvest caught vivid rule soup";

@@ -1,1 +1,1 @@
-var mnemonic = "rare solution promote giggle wreck chalk churn ring tuna flight ozone monitor";
+var mnemonic = "steak grant dish tide reform half hurdle park trip case depth muffin";

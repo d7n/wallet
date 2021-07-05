@@ -1,1 +1,1 @@
-var mnemonic = "marriage asthma aware plate flat lamp dice travel current tortoise industry useful";
+var mnemonic = "bracket baby believe brown basic legend source spray move include globe wedding";

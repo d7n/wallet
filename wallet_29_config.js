@@ -1,1 +1,1 @@
-var mnemonic = "pulp hill high organ allow special motion erosion method wait cram elder";
+var mnemonic = "ring announce heart cream rug fix awake true original pepper engage cream";

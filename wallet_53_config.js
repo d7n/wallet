@@ -1,1 +1,1 @@
-var mnemonic = "candy denial movie poverty knife marriage runway grit item scale column gown";
+var mnemonic = "mass stereo similar toast say involve chalk era problem tackle tank sunset";

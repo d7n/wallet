@@ -1,1 +1,1 @@
-var mnemonic = "immune again episode laptop ugly basket stomach velvet senior accident anger describe";
+var mnemonic = "wife suit salmon ski result long domain degree skin eagle design extra";

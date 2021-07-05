@@ -1,1 +1,1 @@
-var mnemonic = "ability team pumpkin trigger attitude danger nature require stuff chuckle verify hover";
+var mnemonic = "floor blast involve liar notable hobby true traffic say under borrow birth";

@@ -1,1 +1,1 @@
-var mnemonic = "melody insect ripple coast useful brass script stage approve person insect green";
+var mnemonic = "begin remember twin disease believe tower polar input evoke oak arm gas";

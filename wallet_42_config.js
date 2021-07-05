@@ -1,1 +1,1 @@
-var mnemonic = "firm junk foot yellow acid habit negative prosper category pencil lottery deer";
+var mnemonic = "diet portion shadow ensure view bind worth multiply eager language asthma embody";

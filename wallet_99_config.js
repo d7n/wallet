@@ -1,1 +1,1 @@
-var mnemonic = "cash else wonder cage undo flat top marble van dose drive estate";
+var mnemonic = "ethics beach trend nothing success brand drum tiny more duty first palace";

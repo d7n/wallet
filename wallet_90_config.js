@@ -1,1 +1,1 @@
-var mnemonic = "conduct speak gesture coral ability parade glare catch brass erupt swamp educate";
+var mnemonic = "army nothing august base negative bring penalty leaf uncle elegant visit wise";

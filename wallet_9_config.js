@@ -1,1 +1,1 @@
-var mnemonic = "board ethics until chest pledge today equip afford treat choice fix excite";
+var mnemonic = "blanket grain evolve stock among spare armor labor opera dentist group index";

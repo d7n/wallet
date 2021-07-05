@@ -1,1 +1,1 @@
-var mnemonic = "family island pill mansion coyote load cereal catch street marine lunch cheap";
+var mnemonic = "response cat either craft dish fury age arch pink boost play switch";

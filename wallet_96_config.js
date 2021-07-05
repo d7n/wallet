@@ -1,1 +1,1 @@
-var mnemonic = "later reward increase year resource cycle fuel usage grass near core cute";
+var mnemonic = "surround hollow motor exchange pause fan harbor label emotion clown knife enough";

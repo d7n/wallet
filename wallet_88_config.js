@@ -1,1 +1,1 @@
-var mnemonic = "army canoe cry neither order purity waste ship mail summer keen train";
+var mnemonic = "alley arrow glow chapter stand celery suit weird setup expire portion bacon";

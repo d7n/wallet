@@ -1,1 +1,1 @@
-var mnemonic = "fiction august sentence liar beauty rail faculty between execute remind club aim";
+var mnemonic = "april wood soul cigar doll acoustic hazard copy monitor vibrant tone smile";

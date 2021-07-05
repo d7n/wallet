@@ -1,1 +1,1 @@
-var mnemonic = "exotic street size pipe split donor matter ribbon keen suspect diamond blade";
+var mnemonic = "luggage chapter notable napkin symptom clinic gloom upon mango addict diagram matter";

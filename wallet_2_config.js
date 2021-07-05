@@ -1,1 +1,1 @@
-var mnemonic = "merit stove valve exhibit kitten link dirt draft lemon copper couple canvas";
+var mnemonic = "layer obvious alien color buzz thumb sign panda remind profit flip glow";

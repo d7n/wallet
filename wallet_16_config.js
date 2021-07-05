@@ -1,1 +1,1 @@
-var mnemonic = "palace foil decide royal cycle woman garbage scout wish lend around into";
+var mnemonic = "divert frost mask solution say decade silver mimic kitchen return typical pill";
