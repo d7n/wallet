@@ -1,1 +1,1 @@
-var mnemonic = "oval social boat hurt harbor cry grass impact cousin boring wool arrive";
+var mnemonic = "hurdle cannon begin hour profit aspect dune poverty bring faith visa canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "swift field august country cheap lazy runway ranch family all mad love";
+var mnemonic = "hold farm tackle tissue castle rib amazing cliff curtain logic merit swing";

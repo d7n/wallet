@@ -1,1 +1,1 @@
-var mnemonic = "skate daughter upset skin donor drill close skill spot enable lift abuse";
+var mnemonic = "dose way cage remind devote decline hello hour copper office cost token";

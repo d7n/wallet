@@ -1,1 +1,1 @@
-var mnemonic = "clinic object coffee harsh tomato soup valid arch head cannon they approve";
+var mnemonic = "monitor payment robust seat modify illness charge install dizzy symptom puzzle unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "pear once filter someone exhaust acquire garbage abstract stool funny erosion carry";
+var mnemonic = "book hole before able hand earth ranch zebra crisp infant joy matter";

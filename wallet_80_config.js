@@ -1,1 +1,1 @@
-var mnemonic = "chef high lesson side human mandate hammer cherry together clean laugh seat";
+var mnemonic = "expand mirror topple resemble task clever faculty female infant broken dial panic";

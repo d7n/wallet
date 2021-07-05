@@ -1,1 +1,1 @@
-var mnemonic = "ancient subway evil divide odor federal twist swarm wool unfair host trust";
+var mnemonic = "rabbit monitor danger endless crane unknown pill since thumb manage execute repair";

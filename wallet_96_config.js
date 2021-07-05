@@ -1,1 +1,1 @@
-var mnemonic = "radar almost genuine dose forget slight dog cable label harvest write steak";
+var mnemonic = "fog okay ozone mixed source squeeze clever ocean shadow oak install blur";

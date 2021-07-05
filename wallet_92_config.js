@@ -1,1 +1,1 @@
-var mnemonic = "until spawn remember medal planet jaguar erosion glow tent iron anger gather";
+var mnemonic = "pill drum globe employ price illegal thunder wood drastic kidney desk target";

@@ -1,1 +1,1 @@
-var mnemonic = "foot crowd crush cream pumpkin ignore duty forget diesel more label minor";
+var mnemonic = "begin absorb real gasp jelly current marine fancy tomato often chest eternal";

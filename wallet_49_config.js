@@ -1,1 +1,1 @@
-var mnemonic = "pluck scheme throw inform earth mixed account upset century educate skirt strike";
+var mnemonic = "lion tube midnight buffalo below kitten fitness lounge stage robot sword interest";

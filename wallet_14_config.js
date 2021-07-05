@@ -1,1 +1,1 @@
-var mnemonic = "delay unable reward possible ticket pull onion review dial ignore more common";
+var mnemonic = "sting cage wash own shine thrive bike replace boat woman strike park";

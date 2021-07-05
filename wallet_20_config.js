@@ -1,1 +1,1 @@
-var mnemonic = "chef galaxy plastic mixture promote lyrics galaxy glance island pumpkin abstract owner";
+var mnemonic = "hood indoor across taste rent denial novel claim lounge divorce want risk";

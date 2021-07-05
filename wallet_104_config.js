@@ -1,1 +1,1 @@
-var mnemonic = "enjoy famous discover laptop text estate become input physical connect drastic caution";
+var mnemonic = "stay weekend proof crucial father coach improve screen over food champion normal";

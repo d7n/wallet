@@ -1,1 +1,1 @@
-var mnemonic = "plunge vehicle mail mobile tube glad arm gorilla electric million siren nerve";
+var mnemonic = "erosion repeat rural control chaos hood economy curtain ordinary duty craft little";

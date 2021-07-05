@@ -1,1 +1,1 @@
-var mnemonic = "dizzy inch nest cage inquiry grant someone buddy hair tattoo input syrup";
+var mnemonic = "mushroom certain choice crane grape drift kiwi gorilla torch volume annual giant";

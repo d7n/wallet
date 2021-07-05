@@ -1,1 +1,1 @@
-var mnemonic = "inherit essay lounge explain popular inch busy focus home matrix garden harvest";
+var mnemonic = "impact enforce mean hand hurry kite candy clip bunker pluck dog dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "silent awful portion parade emotion concert acquire sick bronze monster canyon output";
+var mnemonic = "use finger hotel win trigger timber owner flight dial group enjoy tuna";

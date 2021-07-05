@@ -1,1 +1,1 @@
-var mnemonic = "filter cereal climb misery gorilla indoor angry economy waste elegant awful used";
+var mnemonic = "crush select civil roof olympic bind between dance blouse clarify intact antenna";

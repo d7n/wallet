@@ -1,1 +1,1 @@
-var mnemonic = "canyon pulse voice result dwarf agent obscure initial consider ranch throw word";
+var mnemonic = "sort convince rose alley impact corn speed april ask aerobic amount element";

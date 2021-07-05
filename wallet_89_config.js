@@ -1,1 +1,1 @@
-var mnemonic = "oyster illegal brisk announce tuna perfect spot absorb labor immune above verify";
+var mnemonic = "next clog solar second garbage injury viable place sausage radar ghost glue";

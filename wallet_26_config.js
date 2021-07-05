@@ -1,1 +1,1 @@
-var mnemonic = "knife race this major spend ocean consider adapt claw claw media winner";
+var mnemonic = "calm girl enroll quantum elephant knife maid person leave source tomorrow fall";

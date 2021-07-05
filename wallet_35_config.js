@@ -1,1 +1,1 @@
-var mnemonic = "helmet scene festival supreme shuffle planet uphold cluster dog farm wave reunion";
+var mnemonic = "enrich behave ticket zebra object snow learn elder entry earn heavy brief";

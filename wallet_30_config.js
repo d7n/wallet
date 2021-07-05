@@ -1,1 +1,1 @@
-var mnemonic = "walk music fork arm tomato garbage drill tribe snap cotton term ugly";
+var mnemonic = "reunion sausage huge broom often ritual earn human west season rough surprise";

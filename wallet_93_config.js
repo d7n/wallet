@@ -1,1 +1,1 @@
-var mnemonic = "jacket minor author buffalo frog loan oil monitor beauty damp inform memory";
+var mnemonic = "proof pause dry swear brisk grant motion lab system tide enhance good";

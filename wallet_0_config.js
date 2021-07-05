@@ -1,1 +1,1 @@
-var mnemonic = "eye coyote whale leg lunch parrot sadness cage slice nerve glory ancient";
+var mnemonic = "decrease stamp obey huge fresh beach again purity friend sail random furnace";

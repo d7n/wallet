@@ -1,1 +1,1 @@
-var mnemonic = "this strong voyage wash where maple print resemble square welcome absorb learn";
+var mnemonic = "false vote pill job until reunion open stone field spawn reflect finger";

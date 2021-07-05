@@ -1,1 +1,1 @@
-var mnemonic = "pistol rule vote pact column fog radar select script column basket force";
+var mnemonic = "museum until coach aerobic lift morning seek attend spike buddy arrest earth";

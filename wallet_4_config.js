@@ -1,1 +1,1 @@
-var mnemonic = "gravity vague cliff present address rough sort cradle render step mesh invest";
+var mnemonic = "warfare swim ceiling approve annual trip convince sugar decade palace congress link";

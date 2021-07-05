@@ -1,1 +1,1 @@
-var mnemonic = "tooth aim audit increase start expire lobster kangaroo require approve wash myself";
+var mnemonic = "retreat finish impulse garment weather spoil ivory tube budget poem plug drop";

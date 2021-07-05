@@ -1,1 +1,1 @@
-var mnemonic = "latin surprise apology fault cement goose sign wealth popular utility office captain";
+var mnemonic = "unusual farm giraffe century north dismiss argue tip stairs upon dish mass";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply seven punch pizza banner light share food soccer envelope indoor grain";
+var mnemonic = "basic blossom gown attend final output entire excess attend victory weekend hint";

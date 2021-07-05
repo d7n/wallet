@@ -1,1 +1,1 @@
-var mnemonic = "disorder flame book thank fault glory knock resemble price kidney space robust";
+var mnemonic = "guitar liar inquiry access trade sock remember tail tooth brisk imitate spray";

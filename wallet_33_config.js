@@ -1,1 +1,1 @@
-var mnemonic = "glide poverty permit bunker team scale matter ability badge lawn lecture slogan";
+var mnemonic = "fall pledge argue cereal bottom rigid fall track tiger glass venue problem";

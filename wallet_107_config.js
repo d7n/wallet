@@ -1,1 +1,1 @@
-var mnemonic = "any rescue ball unveil main pyramid fly glow shiver tide blue accuse";
+var mnemonic = "risk imitate maze strike secret rapid yellow staff actual exotic popular perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "senior vacant album wedding another judge maximum nerve cry junior virtual once";
+var mnemonic = "blade crazy upon pioneer legend coral fatal electric beef canyon task head";

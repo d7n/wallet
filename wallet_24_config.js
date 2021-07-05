@@ -1,1 +1,1 @@
-var mnemonic = "type place garage save electric exile forum twelve dutch tank conduct buffalo";
+var mnemonic = "cry morning buddy vote panel ill decline behind shaft hockey tower because";

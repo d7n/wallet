@@ -1,1 +1,1 @@
-var mnemonic = "pig immense display express timber visit empower speak awful ladder crash ginger";
+var mnemonic = "project nature veteran seminar survey steel find logic junior confirm pride fetch";

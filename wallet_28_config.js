@@ -1,1 +1,1 @@
-var mnemonic = "thrive never goat general ill retire talent humble wool dentist wrong spirit";
+var mnemonic = "trust conduct pizza fire digital volume short window damp fit tunnel face";

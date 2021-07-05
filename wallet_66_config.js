@@ -1,1 +1,1 @@
-var mnemonic = "cushion transfer holiday napkin brand mixed creek flower dragon fossil rhythm actress";
+var mnemonic = "settle grace reopen ask high save example trial silent impulse enjoy figure";

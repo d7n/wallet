@@ -1,1 +1,1 @@
-var mnemonic = "inhale diesel rifle wear athlete cricket patient east teach service fork another";
+var mnemonic = "hazard evil gym tail nuclear slight fly game fish pen cargo pulp";

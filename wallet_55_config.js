@@ -1,1 +1,1 @@
-var mnemonic = "indoor believe sentence decade stick athlete sense kangaroo runway comfort peanut mansion";
+var mnemonic = "donor reflect social second rescue caution entire wonder empower grace giggle sure";

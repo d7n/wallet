@@ -1,1 +1,1 @@
-var mnemonic = "spider elite source seat panda shy remember venture coffee round poet evidence";
+var mnemonic = "imitate napkin song kangaroo young very cushion into high black great grape";

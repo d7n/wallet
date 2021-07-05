@@ -1,1 +1,1 @@
-var mnemonic = "chair public cancel pyramid seminar anchor vivid asthma pear basic match hat";
+var mnemonic = "mass detail apology cigar pony switch east guess world better fun trend";

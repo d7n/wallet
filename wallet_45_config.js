@@ -1,1 +1,1 @@
-var mnemonic = "taste spin hammer bean imitate truly public rifle swarm runway bread liquid";
+var mnemonic = "clown follow oven destroy torch recall local source salon coffee chuckle soda";

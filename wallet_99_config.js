@@ -1,1 +1,1 @@
-var mnemonic = "clerk entry despair pig across any suspect village degree problem creek satisfy";
+var mnemonic = "wheel frame popular despair scout session stove canoe design spoon bid mask";

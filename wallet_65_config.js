@@ -1,1 +1,1 @@
-var mnemonic = "fly tiny beach step memory payment hedgehog fruit emerge elevator truck plunge";
+var mnemonic = "system stage hockey avoid spin fish scene now axis worth acoustic easily";

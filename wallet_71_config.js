@@ -1,1 +1,1 @@
-var mnemonic = "original age snap public term debris hawk better young foster october skate";
+var mnemonic = "picture install chuckle seed flame sphere notable dice hair enough moon hip";

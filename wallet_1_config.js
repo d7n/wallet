@@ -1,1 +1,1 @@
-var mnemonic = "ice mail call champion dose toy spring defense cage bottom romance attend";
+var mnemonic = "bridge else shallow rigid drip visit safe fork biology update brother play";

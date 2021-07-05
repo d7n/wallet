@@ -1,1 +1,1 @@
-var mnemonic = "keen stick drama license drum garbage make almost pupil play wash west";
+var mnemonic = "face celery bronze enough panel light inflict galaxy famous outside pyramid space";

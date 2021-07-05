@@ -1,1 +1,1 @@
-var mnemonic = "miracle you world parrot such original potato powder short either domain tornado";
+var mnemonic = "science floor hill minute comfort vivid mixed hero advance shoulder owner since";

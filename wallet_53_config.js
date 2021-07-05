@@ -1,1 +1,1 @@
-var mnemonic = "rare turkey method stable apple help alarm urge wedding unfold soldier waste";
+var mnemonic = "bonus ice type run small raven one diagram shed recycle coral cross";

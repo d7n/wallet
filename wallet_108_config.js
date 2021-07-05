@@ -1,1 +1,1 @@
-var mnemonic = "allow various then ocean indoor lesson walk case drop public tattoo any";
+var mnemonic = "unaware symptom print board crash push history muscle deer melt basket little";

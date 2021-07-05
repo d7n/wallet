@@ -1,1 +1,1 @@
-var mnemonic = "left cheap east pool blossom always memory enhance across silk useless interest";
+var mnemonic = "rigid unfold slam blood across borrow rent amount unique swift clip intact";

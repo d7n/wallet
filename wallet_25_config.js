@@ -1,1 +1,1 @@
-var mnemonic = "afraid intact stomach voyage alert deal labor click torch mosquito popular grab";
+var mnemonic = "refuse cactus kangaroo lake coffee horse idle what quantum update hurry puppy";

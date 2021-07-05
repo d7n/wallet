@@ -1,1 +1,1 @@
-var mnemonic = "envelope jaguar weather guitar idea anxiety october sketch whisper aim farm donate";
+var mnemonic = "smart task earth process harsh negative minute fade art rose dawn picture";

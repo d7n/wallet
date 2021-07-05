@@ -1,1 +1,1 @@
-var mnemonic = "large sense key door fog sun side math trade confirm balance crystal";
+var mnemonic = "special pull chase ugly hint alert icon wild bag viable leaf rebel";

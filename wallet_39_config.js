@@ -1,1 +1,1 @@
-var mnemonic = "pig ocean lemon bundle shoulder tail absurd increase turkey tank filter media";
+var mnemonic = "unfold wife admit slender orient canoe quiz similar muscle opinion stock basic";

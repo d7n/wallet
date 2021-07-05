@@ -1,1 +1,1 @@
-var mnemonic = "wear curve hen vital leg tube envelope kind panic choose weekend camera";
+var mnemonic = "cousin void shock hobby dial belt stock pulp forum invest dog betray";

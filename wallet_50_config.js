@@ -1,1 +1,1 @@
-var mnemonic = "suffer double put hint ice tree damage nephew remind wool glance clump";
+var mnemonic = "table abuse protect curious eyebrow type concert legend device eagle mobile unfair";

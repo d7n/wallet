@@ -1,1 +1,1 @@
-var mnemonic = "laundry bleak choose tiny trust about violin elder monkey half trip civil";
+var mnemonic = "left ability outside taxi crater crazy result future mule attract planet cost";

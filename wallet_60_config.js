@@ -1,1 +1,1 @@
-var mnemonic = "answer impulse evoke exclude shallow salt immense choose maid when orbit cliff";
+var mnemonic = "math harsh glare grant liberty tonight normal good oxygen face glide segment";

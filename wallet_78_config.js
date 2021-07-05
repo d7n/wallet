@@ -1,1 +1,1 @@
-var mnemonic = "primary price live surge lazy random dismiss smoke observe under cable polar";
+var mnemonic = "clock spoil desk leaf purchase educate crash spell negative card chest grunt";

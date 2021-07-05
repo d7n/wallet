@@ -1,1 +1,1 @@
-var mnemonic = "scissors grass mobile despair weapon cherry victory foam shy measure frequent dad";
+var mnemonic = "mandate rich dove diary orphan borrow card remember gift diet lucky script";

@@ -1,1 +1,1 @@
-var mnemonic = "together social female claim host magnet save antenna later pool agree put";
+var mnemonic = "chief assault worry first snack fame assist course original lunar surge benefit";

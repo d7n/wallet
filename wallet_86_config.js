@@ -1,1 +1,1 @@
-var mnemonic = "soccer alter public sudden grant test risk drift pair canvas slot tiny";
+var mnemonic = "insect clinic emerge brother nominee silk canoe marriage effort unit observe oval";

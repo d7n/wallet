@@ -1,1 +1,1 @@
-var mnemonic = "flock attitude stable work swing rich inhale layer nominee evidence lemon road";
+var mnemonic = "sniff kingdom canal avocado tonight term one truly history shoot when plastic";

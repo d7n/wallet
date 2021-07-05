@@ -1,1 +1,1 @@
-var mnemonic = "buzz journey system pistol scrub recipe brave rib fitness slow trap walnut";
+var mnemonic = "twelve vanish region curve glance route coin drum knife tortoise escape satoshi";

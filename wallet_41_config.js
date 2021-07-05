@@ -1,1 +1,1 @@
-var mnemonic = "pizza talent ancient voyage visit menu push popular giraffe state photo distance";
+var mnemonic = "accuse general obvious retreat hungry funny advice remove rose range brass turn";

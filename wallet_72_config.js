@@ -1,1 +1,1 @@
-var mnemonic = "athlete large slide liar father rough reduce crew funny equip better viable";
+var mnemonic = "floor relief else bonus afraid divert crystal report rescue ski jump junior";

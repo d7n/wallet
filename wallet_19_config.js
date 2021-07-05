@@ -1,1 +1,1 @@
-var mnemonic = "unhappy biology obey any nose outside spike speak borrow quit tail dynamic";
+var mnemonic = "system calm planet today weather theme faculty abstract index moon scout sorry";

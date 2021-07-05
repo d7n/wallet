@@ -1,1 +1,1 @@
-var mnemonic = "what medal pave all grass coral portion void someone source divert order";
+var mnemonic = "nerve sport monitor uphold word puzzle flush horn wedding winner romance coil";

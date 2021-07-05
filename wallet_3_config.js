@@ -1,1 +1,1 @@
-var mnemonic = "swim define divert sport elbow normal episode inform island picnic uniform text";
+var mnemonic = "guard inspire suit base heart bulk abandon love moment future tennis crash";

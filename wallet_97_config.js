@@ -1,1 +1,1 @@
-var mnemonic = "siren someone twist prepare canvas pizza chest spring mass mushroom verify twelve";
+var mnemonic = "museum throw simple stove smart novel tattoo sibling provide bonus snake human";

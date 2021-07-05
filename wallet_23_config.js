@@ -1,1 +1,1 @@
-var mnemonic = "squeeze question verify tonight horror transfer miss indicate honey imitate parent people";
+var mnemonic = "blush stove brush tuna depth clip bind warm hill school either sister";

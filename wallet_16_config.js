@@ -1,1 +1,1 @@
-var mnemonic = "lizard much point release survey umbrella fiscal nothing learn sand upset under";
+var mnemonic = "green uncover reform regret alien share pet collect laugh brass attitude undo";

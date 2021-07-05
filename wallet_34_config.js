@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow agent strategy copy range crisp citizen umbrella indicate laugh better lamp";
+var mnemonic = "assume axis shift wheat athlete cream ribbon ridge agent script mix decrease";

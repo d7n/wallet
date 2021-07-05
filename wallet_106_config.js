@@ -1,1 +1,1 @@
-var mnemonic = "tiger confirm loud dizzy live say student paddle game spatial brother animal";
+var mnemonic = "ticket keen announce garment lobster myth actress into arena spawn april gossip";

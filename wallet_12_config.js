@@ -1,1 +1,1 @@
-var mnemonic = "mimic float satisfy hamster album nose satoshi force daughter ticket crazy tennis";
+var mnemonic = "steak moment much wagon mandate bamboo worry mixture venue dawn trick avoid";

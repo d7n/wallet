@@ -1,1 +1,1 @@
-var mnemonic = "report deer neither evolve trumpet own bamboo truly stool tail announce pass";
+var mnemonic = "horn industry adult else taste reduce drastic vintage finger pull deny menu";

@@ -1,1 +1,1 @@
-var mnemonic = "account decorate depend ocean coach endorse garden copy element apology key decide";
+var mnemonic = "when caution awake spoil march humor denial goddess thing hero rocket screen";

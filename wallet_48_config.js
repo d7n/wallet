@@ -1,1 +1,1 @@
-var mnemonic = "submit wool disorder theme neutral observe lift direct note ethics tiny child";
+var mnemonic = "degree hobby spy bicycle scheme grant chapter maximum wire fragile flower void";

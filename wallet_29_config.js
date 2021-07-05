@@ -1,1 +1,1 @@
-var mnemonic = "certain foot gravity six bubble chief wolf shock sweet goose quality deposit";
+var mnemonic = "length have hip plate umbrella plate dynamic parrot someone lion license flag";

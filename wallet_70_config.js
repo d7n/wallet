@@ -1,1 +1,1 @@
-var mnemonic = "vehicle visit creek obtain push vanish loyal time wire number profit typical";
+var mnemonic = "bamboo early repair tide eternal observe surge fancy gown gentle assist syrup";

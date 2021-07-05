@@ -1,1 +1,1 @@
-var mnemonic = "fringe mention width income ladder perfect cereal plate bargain voyage federal empty";
+var mnemonic = "topple wedding sign sport cabin exclude very swamp bid damp panther endless";

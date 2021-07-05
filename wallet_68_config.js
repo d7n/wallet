@@ -1,1 +1,1 @@
-var mnemonic = "surround kidney bind long twenty salute tag volume pattern fetch soda post";
+var mnemonic = "cereal blush maze next angle basic vault globe rare volcano enable mountain";

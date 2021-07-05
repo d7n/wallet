@@ -1,1 +1,1 @@
-var mnemonic = "orphan fever melody fetch miracle outer dose describe aisle uncover book lazy";
+var mnemonic = "witness obtain invest shrug hope direct rule toddler awful panic width maple";

@@ -1,1 +1,1 @@
-var mnemonic = "moment unaware enroll around unfold gossip club ordinary cigar mind couch bundle";
+var mnemonic = "ankle bullet sunset december squirrel mammal alien globe style enable easy pen";

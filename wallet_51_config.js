@@ -1,1 +1,1 @@
-var mnemonic = "aware fiber candy power intact zone pledge acid sample sibling asset enlist";
+var mnemonic = "input label health movie people wife sadness disorder tiger tuition whale concert";

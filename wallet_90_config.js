@@ -1,1 +1,1 @@
-var mnemonic = "buddy eager order dice common salmon meat crawl shrimp record panel clinic";
+var mnemonic = "snake arctic result organ steak injury angle mixed hospital light skill service";
