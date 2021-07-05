@@ -1,1 +1,1 @@
-var mnemonic = "argue ozone lava october among must such winter focus badge gown neglect";
+var mnemonic = "simple omit wave ozone critic patch achieve jelly flash build metal term";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold coast ketchup soldier dynamic addict charge tray blossom stock evidence demise";
+var mnemonic = "match abstract health sunset senior fantasy keep blanket good oblige oval magnet";

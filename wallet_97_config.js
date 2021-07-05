@@ -1,1 +1,1 @@
-var mnemonic = "abandon radar dust call margin scare relief night opera term curtain fashion";
+var mnemonic = "give shield final churn acid minimum cherry gaze raccoon stick lift winter";

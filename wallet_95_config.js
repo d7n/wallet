@@ -1,1 +1,1 @@
-var mnemonic = "utility vote maze party fragile exist identify tobacco rule bone blush prosper";
+var mnemonic = "valid impose eight sample brown endorse rabbit dinner spatial cover uncle poem";

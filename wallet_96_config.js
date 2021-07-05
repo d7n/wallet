@@ -1,1 +1,1 @@
-var mnemonic = "educate inquiry plastic design tackle dice tip version sand photo lift maze";
+var mnemonic = "sudden volcano light palace alien host question hollow lemon rough rose poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "finish stereo comic arrange post trick atom soccer crawl transfer alone swear";
+var mnemonic = "power enact exercise age minor basic model frame cream neglect wrap style";

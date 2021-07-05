@@ -1,1 +1,1 @@
-var mnemonic = "there dutch kiwi mushroom month material put endless economy game blouse act";
+var mnemonic = "deny funny west core trash appear moon ankle sunny tube feed mixture";

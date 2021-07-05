@@ -1,1 +1,1 @@
-var mnemonic = "parent fancy balcony other truly lesson bottom muscle stadium foam club muffin";
+var mnemonic = "faculty stereo spring garage wagon problem lab foam parade hello nose clown";

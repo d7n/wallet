@@ -1,1 +1,1 @@
-var mnemonic = "mosquito prosper execute rent betray view shine crucial oyster wife oval author";
+var mnemonic = "fault similar hunt own dose bachelor street blood armor sausage injury make";

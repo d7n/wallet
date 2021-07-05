@@ -1,1 +1,1 @@
-var mnemonic = "slogan system senior okay secret announce enforce pigeon setup harsh uphold inhale";
+var mnemonic = "trend slab taste reject curious unlock moral banner filter bleak tackle fancy";

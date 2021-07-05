@@ -1,1 +1,1 @@
-var mnemonic = "educate kite good flock pride salute field rent film social inner wolf";
+var mnemonic = "mosquito broom violin used desk nest orient liquid need critic hair afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger twelve supreme wink rib home urge gallery surge weird firm taxi";
+var mnemonic = "unlock return mimic situate century alpha hand bunker pottery design web bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "trim tube lemon wrap naive buyer siege pair robot wash trade midnight";
+var mnemonic = "meadow wife tip fetch finish genuine child opinion rabbit auto wife emotion";

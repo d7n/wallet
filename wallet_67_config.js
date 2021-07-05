@@ -1,1 +1,1 @@
-var mnemonic = "noble slam daring where spoil concert kingdom guide shadow hollow ten silent";
+var mnemonic = "degree merge great render stadium dolphin leg cupboard unit effort swear seed";

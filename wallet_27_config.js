@@ -1,1 +1,1 @@
-var mnemonic = "swear target smoke simple duty panel what critic valley tumble genuine tiger";
+var mnemonic = "vessel victory duck jacket undo old express broccoli despair immune employ shoot";

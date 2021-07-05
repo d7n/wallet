@@ -1,1 +1,1 @@
-var mnemonic = "area between iron carpet dwarf become tree witness bulk frequent member mountain";
+var mnemonic = "clump three normal wrap satoshi addict orchard renew kiss winter image slot";

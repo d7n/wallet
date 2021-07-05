@@ -1,1 +1,1 @@
-var mnemonic = "original copper crew frog core eye maid envelope despair exhibit error sail";
+var mnemonic = "sail two trap above robust segment basic guilt chuckle tip slow myth";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze delay execute twin walk truly sword icon replace goose leisure tool";
+var mnemonic = "awful gym voyage coin month picnic dinner flag embark check cheap system";

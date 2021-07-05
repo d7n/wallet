@@ -1,1 +1,1 @@
-var mnemonic = "strong guitar barely when bamboo pool dial nest appear abandon aunt bone";
+var mnemonic = "old weekend error kitten topple return bar decade kangaroo tell excuse health";

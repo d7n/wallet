@@ -1,1 +1,1 @@
-var mnemonic = "away move excess lizard gloom gossip glance tomato advance excess struggle torch";
+var mnemonic = "fire push detect dog more cotton cage prize mansion always gauge theme";

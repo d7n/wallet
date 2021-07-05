@@ -1,1 +1,1 @@
-var mnemonic = "tiny nominee risk dwarf junk define taxi tell bounce radio bleak slogan";
+var mnemonic = "ensure eagle mistake cruise funny slice rookie sunset six arctic shock twist";

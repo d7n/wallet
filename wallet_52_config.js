@@ -1,1 +1,1 @@
-var mnemonic = "cook arena cushion knee arm forget payment face belt gorilla noodle dinner";
+var mnemonic = "embody into grace game lava dirt excess agent stage imitate sadness base";

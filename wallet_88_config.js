@@ -1,1 +1,1 @@
-var mnemonic = "deposit timber side maze tattoo credit ensure usage gossip bone idea update";
+var mnemonic = "jealous parade antique solar enable recycle awkward umbrella gift away black target";

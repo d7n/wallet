@@ -1,1 +1,1 @@
-var mnemonic = "hurry two choice claw sudden elbow miss large entire palm post hobby";
+var mnemonic = "damage sea draft shed plate penalty ranch select wrist obey report wise";

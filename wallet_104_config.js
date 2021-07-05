@@ -1,1 +1,1 @@
-var mnemonic = "maple gravity hold absent power upon quarter dish network column atom spider";
+var mnemonic = "series fat sugar swift little wild farm bean wonder liar boss crystal";

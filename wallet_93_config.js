@@ -1,1 +1,1 @@
-var mnemonic = "visual learn country now polar repeat ensure year palace equip advance olive";
+var mnemonic = "worth insect setup disorder bamboo illness agent meadow ozone father govern flush";

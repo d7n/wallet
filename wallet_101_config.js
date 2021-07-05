@@ -1,1 +1,1 @@
-var mnemonic = "clap abstract solar ice tape sweet glove book mango anxiety chapter girl";
+var mnemonic = "toss sign review disagree violin paddle name elite anchor possible muscle clay";

@@ -1,1 +1,1 @@
-var mnemonic = "please ensure desk basket rotate exact mad train desert solid gossip leg";
+var mnemonic = "upgrade daring squeeze pole script fence verb badge lumber butter pony road";

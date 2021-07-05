@@ -1,1 +1,1 @@
-var mnemonic = "library novel unable abandon wrong engage plastic ozone fetch flat ankle athlete";
+var mnemonic = "ball silly either decorate solid steak expire adapt hint web glad dress";

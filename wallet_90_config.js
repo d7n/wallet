@@ -1,1 +1,1 @@
-var mnemonic = "enhance fork before raise junior dress culture powder afraid emotion stage fetch";
+var mnemonic = "misery cushion illegal ripple scorpion symptom crop uncover manage nut uphold until";

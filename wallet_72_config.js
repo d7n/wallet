@@ -1,1 +1,1 @@
-var mnemonic = "expand chair mango jeans student shoulder swallow change gown boost gadget amused";
+var mnemonic = "either enjoy sign hawk until observe hire insect pigeon tired nothing sell";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum winner defy dance garbage miracle opera offer butter motion fly letter";
+var mnemonic = "expect floor addict discover trim amused speed pioneer bubble pull cushion velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "review future expose frown arch another woman become estate lend evolve kiss";
+var mnemonic = "trophy frost fringe soft person sound earn donkey october cry soldier friend";

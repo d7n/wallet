@@ -1,1 +1,1 @@
-var mnemonic = "brain force tag rate tackle film kind assume hurry style uncle cream";
+var mnemonic = "entry lyrics glory still help track leg monitor barely club daring provide";

@@ -1,1 +1,1 @@
-var mnemonic = "sing media ripple initial aisle heart cry basic parade cost sheriff pool";
+var mnemonic = "property crash alarm response response fence welcome remember horse animal news wet";

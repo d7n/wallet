@@ -1,1 +1,1 @@
-var mnemonic = "behind step trade sport sure rival slab cereal sense pride rug guess";
+var mnemonic = "junior maple tissue salon antenna bread immense movie edge stumble prosper spirit";

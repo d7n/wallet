@@ -1,1 +1,1 @@
-var mnemonic = "anchor hand polar garage vital ski load novel brother jelly code aisle";
+var mnemonic = "estate choice seminar chat dad avoid stereo hood turkey lobster project galaxy";

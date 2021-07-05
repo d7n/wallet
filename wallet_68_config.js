@@ -1,1 +1,1 @@
-var mnemonic = "either initial planet address extend puzzle chaos differ track primary north warfare";
+var mnemonic = "group stable close session clap cannon need gentle recall memory mention basket";

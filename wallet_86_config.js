@@ -1,1 +1,1 @@
-var mnemonic = "fold slight swamp cross urban match multiply scheme during broccoli quote unhappy";
+var mnemonic = "sun prosper talk beauty fossil envelope vivid satisfy ice grain essay transfer";

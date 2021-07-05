@@ -1,1 +1,1 @@
-var mnemonic = "champion skull exist antenna limit build can crack party push accuse stem";
+var mnemonic = "where what spare regret abandon garage syrup eye tent charge mercy drastic";

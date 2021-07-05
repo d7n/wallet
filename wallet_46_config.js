@@ -1,1 +1,1 @@
-var mnemonic = "capital corn rough zoo uncover juice grass hood potato sphere cup odor";
+var mnemonic = "verb pistol surge lonely trick finish prefer warm spoon moment clip leopard";

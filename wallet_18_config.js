@@ -1,1 +1,1 @@
-var mnemonic = "warm current rough canyon share genuine blade ladder muscle spend what print";
+var mnemonic = "mad rice arrive junior burden planet lava annual quote track steak spoon";

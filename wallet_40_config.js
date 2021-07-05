@@ -1,1 +1,1 @@
-var mnemonic = "rely toss betray differ pull choice atom orbit visual slide blood fault";
+var mnemonic = "pepper enact anxiety parent blossom fruit make gorilla parade sorry fever pizza";

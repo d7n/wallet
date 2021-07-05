@@ -1,1 +1,1 @@
-var mnemonic = "office camp bamboo trend property glove leopard faint vintage task saddle actress";
+var mnemonic = "depend capital dinosaur end vote unit net glow truck gain horn desert";

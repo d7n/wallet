@@ -1,1 +1,1 @@
-var mnemonic = "super one jar siege royal second square industry divorce goat prize length";
+var mnemonic = "dolphin infant forget asset dizzy alcohol cricket senior pulse symbol leisure any";

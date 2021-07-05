@@ -1,1 +1,1 @@
-var mnemonic = "zero crack typical beyond spike body harvest carry news ranch cycle maid";
+var mnemonic = "sock online thumb entire spell into lens sand hole review timber employ";

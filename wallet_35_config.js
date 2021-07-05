@@ -1,1 +1,1 @@
-var mnemonic = "this knee clump polar damage vendor blouse brave flag powder border tackle";
+var mnemonic = "weapon vivid dynamic bike hope safe gift nose grid dove guide miss";

@@ -1,1 +1,1 @@
-var mnemonic = "stone width pen must debris power wisdom orchard unique stage jacket like";
+var mnemonic = "comfort spawn better exercise erode hire jelly zebra together bench sauce tooth";

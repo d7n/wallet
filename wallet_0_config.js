@@ -1,1 +1,1 @@
-var mnemonic = "distance error civil project cannon bulb decline shove harsh rate skin fire";
+var mnemonic = "economy place awake assault attend country eager about title run drama weird";

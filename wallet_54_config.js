@@ -1,1 +1,1 @@
-var mnemonic = "cloud comic spy inhale borrow cake travel mail raccoon attract case clarify";
+var mnemonic = "pluck mixture spawn afford grab follow allow spatial kick gravity pony among";

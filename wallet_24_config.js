@@ -1,1 +1,1 @@
-var mnemonic = "ostrich balcony protect toward cave mercy off dragon boy good alcohol cram";
+var mnemonic = "fresh rough process truck front elder illegal biology rule farm jungle among";

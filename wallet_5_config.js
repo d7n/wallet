@@ -1,1 +1,1 @@
-var mnemonic = "scorpion ten chase ozone recall motor visa odor fire loop try hamster";
+var mnemonic = "loyal neck pretty brand crazy course cave people sweet shield cherry ocean";

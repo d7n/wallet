@@ -1,1 +1,1 @@
-var mnemonic = "aware soccer sunny adjust later hole define impulse inject involve mansion dynamic";
+var mnemonic = "orient carpet purpose tray copy neck hobby skill situate tiger act what";

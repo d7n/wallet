@@ -1,1 +1,1 @@
-var mnemonic = "thrive fiber harsh leopard lyrics nice hundred window gentle apology vote clever";
+var mnemonic = "minimum pulse refuse artefact flower guitar milk nature brisk junk broken neutral";

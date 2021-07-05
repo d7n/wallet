@@ -1,1 +1,1 @@
-var mnemonic = "warfare width conduct couple day sick atom review surge orange wash replace";
+var mnemonic = "shallow knife lamp change cry account turtle parent sand produce initial unique";

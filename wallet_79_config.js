@@ -1,1 +1,1 @@
-var mnemonic = "index fault side tell raccoon wash speak fat finger seminar beef liquid";
+var mnemonic = "helmet clip strike edit consider later run tribe enact similar film rent";

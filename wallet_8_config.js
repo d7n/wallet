@@ -1,1 +1,1 @@
-var mnemonic = "opinion scatter lazy cage fabric steak oval text easily belt gospel typical";
+var mnemonic = "skate response agree install dove helmet surge broken jelly better crater upper";

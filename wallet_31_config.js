@@ -1,1 +1,1 @@
-var mnemonic = "life zoo search link save name spend easily fence absorb force hope";
+var mnemonic = "trend donate blood income session shove castle elephant supreme junk despair input";

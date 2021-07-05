@@ -1,1 +1,1 @@
-var mnemonic = "fabric distance path weapon achieve crumble depend party famous stool season chapter";
+var mnemonic = "favorite globe popular unique garden witness stumble amused void speed horse bus";

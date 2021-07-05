@@ -1,1 +1,1 @@
-var mnemonic = "horse neglect divert liar employ retreat imitate attack auction hobby prefer peanut";
+var mnemonic = "enter myself move clinic maid sea effort girl cream grass swallow empower";

@@ -1,1 +1,1 @@
-var mnemonic = "evil ivory kangaroo boost shoot grow theory this pretty barrel boost include";
+var mnemonic = "cousin entire ritual twenty shock just position brave express such purchase much";

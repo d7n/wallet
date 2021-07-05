@@ -1,1 +1,1 @@
-var mnemonic = "equip sense exist plastic tennis review admit key love salad truck degree";
+var mnemonic = "stick crunch crash aunt wool muscle surround burst victory other prevent diamond";

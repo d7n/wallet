@@ -1,1 +1,1 @@
-var mnemonic = "loud tourist dream island cake onion peanut uniform inside have dirt local";
+var mnemonic = "gentle toast tumble gossip title wheat snake skirt certain bonus discover crouch";

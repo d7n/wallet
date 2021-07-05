@@ -1,1 +1,1 @@
-var mnemonic = "airport nest ethics hazard park come sleep prevent reward crime flash dash";
+var mnemonic = "pig debate pool dawn above differ today expire radar moral lock small";

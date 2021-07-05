@@ -1,1 +1,1 @@
-var mnemonic = "tuna among abuse frost more material fruit neutral volcano anchor danger chest";
+var mnemonic = "also economy three fault arch grit frequent canal raise member manage large";

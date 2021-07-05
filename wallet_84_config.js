@@ -1,1 +1,1 @@
-var mnemonic = "penalty damage swamp write one mango subject body picnic video cliff warrior";
+var mnemonic = "time cushion shrimp catch soap tree tide doll wrist enact plunge laugh";

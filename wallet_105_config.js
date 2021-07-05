@@ -1,1 +1,1 @@
-var mnemonic = "undo soup current spatial blame coil resource caught orchard permit evil genius";
+var mnemonic = "fantasy snack wash social grant object attend seven tooth intact humble ship";

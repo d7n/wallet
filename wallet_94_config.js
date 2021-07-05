@@ -1,1 +1,1 @@
-var mnemonic = "drum purchase bean ankle swift woman order truly scare weird caution frost";
+var mnemonic = "enjoy session choose depth polar consider thunder agent farm hero state secret";

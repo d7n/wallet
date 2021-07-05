@@ -1,1 +1,1 @@
-var mnemonic = "stool hawk area melt shiver reject comfort about silent tray myself work";
+var mnemonic = "paper village copper net eager word jewel depend stick south laundry soap";

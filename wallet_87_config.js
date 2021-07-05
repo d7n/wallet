@@ -1,1 +1,1 @@
-var mnemonic = "verify august beauty melody emotion control film maze onion casino assume unfair";
+var mnemonic = "during panther fringe rookie film cabbage tortoise bacon latin token assume describe";

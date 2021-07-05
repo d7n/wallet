@@ -1,1 +1,1 @@
-var mnemonic = "inquiry tag embody sauce genius magic okay marriage shoe tobacco ripple tag";
+var mnemonic = "awesome extend scheme super budget police across foot achieve budget canoe range";

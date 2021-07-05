@@ -1,1 +1,1 @@
-var mnemonic = "angle build relief image burst mail tell always power dial foster balcony";
+var mnemonic = "raccoon uphold rotate void arm either derive leave crack design agree ride";

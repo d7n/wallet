@@ -1,1 +1,1 @@
-var mnemonic = "history change tail zoo action crystal broom worry picture sand tube zone";
+var mnemonic = "polar nominee now faint famous pig harsh huge write jar soul fault";

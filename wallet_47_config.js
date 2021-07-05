@@ -1,1 +1,1 @@
-var mnemonic = "square ball vital body lamp mixed spin emotion ready olive length tip";
+var mnemonic = "gaze half fashion evoke brain stay veteran race rescue focus solid income";

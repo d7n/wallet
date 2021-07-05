@@ -1,1 +1,1 @@
-var mnemonic = "beef glad hurt tackle steel pair young muscle pepper three evidence lounge";
+var mnemonic = "loop faith give screen warrior neither worth baby one scissors happy jungle";

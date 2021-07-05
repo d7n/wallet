@@ -1,1 +1,1 @@
-var mnemonic = "cabbage term cushion cage all soup genius sponsor salad fitness bounce tray";
+var mnemonic = "envelope sort company debate group current intact cross include ethics protect kid";

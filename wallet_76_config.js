@@ -1,1 +1,1 @@
-var mnemonic = "cost clap arena hard little pioneer exclude citizen another price diamond region";
+var mnemonic = "office lawsuit faint match cotton private educate bench blue caught combine echo";

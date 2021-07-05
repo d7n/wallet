@@ -1,1 +1,1 @@
-var mnemonic = "salon load suffer decorate spike hold planet cheese then save cry rail";
+var mnemonic = "fall chronic gas canvas human upset matter jump joke note oppose viable";

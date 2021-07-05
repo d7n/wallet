@@ -1,1 +1,1 @@
-var mnemonic = "brave minimum anchor wheel adult purity hidden daring cook chat wedding sadness";
+var mnemonic = "fiber legal embody shallow wet mention left twice vague cube tornado net";

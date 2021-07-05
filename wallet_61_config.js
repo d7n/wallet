@@ -1,1 +1,1 @@
-var mnemonic = "leaf boring eye inflict lottery stuff album promote under arctic autumn refuse";
+var mnemonic = "foster wood bread devote nephew lunch fatal mom autumn exchange wisdom pool";

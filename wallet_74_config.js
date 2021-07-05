@@ -1,1 +1,1 @@
-var mnemonic = "panic click earth unlock morning fire accuse idea dentist price case category";
+var mnemonic = "void pistol joy palace cousin black search clever black sunset gym double";

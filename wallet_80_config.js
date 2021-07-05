@@ -1,1 +1,1 @@
-var mnemonic = "brisk quote broken legend tenant off write ball local able man any";
+var mnemonic = "render note fuel runway learn bonus mango crowd tide private century swarm";

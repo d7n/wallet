@@ -1,1 +1,1 @@
-var mnemonic = "door enough absent convince donkey ozone grocery judge picture very art ahead";
+var mnemonic = "material core picture drastic pen smoke life dwarf upgrade piece urban amazing";

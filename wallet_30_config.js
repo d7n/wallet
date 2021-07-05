@@ -1,1 +1,1 @@
-var mnemonic = "water gasp lucky rapid bubble arrive funny rule genre language wet solve";
+var mnemonic = "step hand swamp profit solar document impulse master harsh royal combine verify";

@@ -1,1 +1,1 @@
-var mnemonic = "stand chief address ship cannon remember luggage grace trumpet culture disease bonus";
+var mnemonic = "inherit mimic train dilemma burst mountain lecture forum vacant idle talk wish";

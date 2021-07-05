@@ -1,1 +1,1 @@
-var mnemonic = "toward thunder scout dismiss glow multiply cruel stick hand grant curious into";
+var mnemonic = "initial envelope anchor section physical corn project super hobby lucky awesome ritual";

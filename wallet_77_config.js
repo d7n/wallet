@@ -1,1 +1,1 @@
-var mnemonic = "report opinion improve famous better chef opera frozen chicken civil person radar";
+var mnemonic = "snap weather various ignore skate medal very another fun outer student hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid east away recall okay goose know fire music tent work repair";
+var mnemonic = "flat wild scissors rain armor jacket advice radio maid tornado tide include";

@@ -1,1 +1,1 @@
-var mnemonic = "wall employ broom unaware order point mad attract slight skill arrest design";
+var mnemonic = "way stage crop pigeon benefit beach local judge bamboo second frequent mail";

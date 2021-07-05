@@ -1,1 +1,1 @@
-var mnemonic = "disagree budget slight denial toast merge flame sound soon wish derive same";
+var mnemonic = "trade salon depend fish invest wrist laundry region cactus hammer pull mercy";

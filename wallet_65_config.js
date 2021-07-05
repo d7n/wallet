@@ -1,1 +1,1 @@
-var mnemonic = "index clarify one culture response exchange sound vacuum door guard joy pear";
+var mnemonic = "absorb become profit hire era fantasy great twist nest try favorite suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "shop inch unit symptom black silent innocent vivid real pencil elegant elite";
+var mnemonic = "kiwi profit book excite crater typical manage thing already toss fat reveal";

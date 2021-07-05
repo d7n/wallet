@@ -1,1 +1,1 @@
-var mnemonic = "token topic pioneer menu globe season siege room ribbon sheriff print blast";
+var mnemonic = "essence between dawn history drink stairs envelope embark joke skate run reflect";

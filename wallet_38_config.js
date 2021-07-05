@@ -1,1 +1,1 @@
-var mnemonic = "abuse observe cover fantasy peasant dream annual opinion eagle weapon fashion air";
+var mnemonic = "vibrant future alarm comfort thing phrase random original wrestle hand october about";

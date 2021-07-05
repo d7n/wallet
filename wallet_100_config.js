@@ -1,1 +1,1 @@
-var mnemonic = "rare autumn later world relief section educate pull often elder rose cool";
+var mnemonic = "street tumble cliff feature calm resist carbon enable weird member metal luggage";
