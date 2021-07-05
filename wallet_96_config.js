@@ -1,1 +1,1 @@
-var mnemonic = "fog okay ozone mixed source squeeze clever ocean shadow oak install blur";
+var mnemonic = "later reward increase year resource cycle fuel usage grass near core cute";

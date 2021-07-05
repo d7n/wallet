@@ -1,1 +1,1 @@
-var mnemonic = "math harsh glare grant liberty tonight normal good oxygen face glide segment";
+var mnemonic = "enable marine bike dash typical advance unlock during float parade feature ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "floor relief else bonus afraid divert crystal report rescue ski jump junior";
+var mnemonic = "spike possible impulse fresh describe tenant loop cool ahead sound knock arctic";

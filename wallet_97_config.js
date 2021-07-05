@@ -1,1 +1,1 @@
-var mnemonic = "museum throw simple stove smart novel tattoo sibling provide bonus snake human";
+var mnemonic = "add sentence sort ivory indicate alter connect another review subway timber toward";

@@ -1,1 +1,1 @@
-var mnemonic = "fall pledge argue cereal bottom rigid fall track tiger glass venue problem";
+var mnemonic = "ostrich debate drink soccer shallow illness paddle number letter hat earn grunt";

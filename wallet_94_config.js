@@ -1,1 +1,1 @@
-var mnemonic = "six coil rubber melt garage warfare tool camera tired before review elephant";
+var mnemonic = "nose scale park nuclear leg hire decide snap little enrich dry abandon";

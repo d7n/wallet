@@ -1,1 +1,1 @@
-var mnemonic = "crush select civil roof olympic bind between dance blouse clarify intact antenna";
+var mnemonic = "leave oppose maximum monitor blade position brief park describe focus iron armed";

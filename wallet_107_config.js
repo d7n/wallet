@@ -1,1 +1,1 @@
-var mnemonic = "risk imitate maze strike secret rapid yellow staff actual exotic popular perfect";
+var mnemonic = "virtual gasp scrap basket ritual daughter season rigid steak doctor crowd exhaust";

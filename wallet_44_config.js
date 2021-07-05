@@ -1,1 +1,1 @@
-var mnemonic = "negative firm enemy fringe atom total style mesh exchange loan gown enrich";
+var mnemonic = "festival crowd hire choose use borrow suit mirror armed man tissue sing";

@@ -1,1 +1,1 @@
-var mnemonic = "mass detail apology cigar pony switch east guess world better fun trend";
+var mnemonic = "desk honey addict intact later cry novel outer shuffle minor brother range";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge else shallow rigid drip visit safe fork biology update brother play";
+var mnemonic = "aim lawsuit cruel click system slab follow tumble blush rural kidney cement";

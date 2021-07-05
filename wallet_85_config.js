@@ -1,1 +1,1 @@
-var mnemonic = "amused cradle civil wisdom surround kidney spirit ketchup steel material multiply venue";
+var mnemonic = "enact erase soda guard charge filter history lucky estate cool brain setup";

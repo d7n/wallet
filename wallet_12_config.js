@@ -1,1 +1,1 @@
-var mnemonic = "steak moment much wagon mandate bamboo worry mixture venue dawn trick avoid";
+var mnemonic = "family island pill mansion coyote load cereal catch street marine lunch cheap";

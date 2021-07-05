@@ -1,1 +1,1 @@
-var mnemonic = "calm girl enroll quantum elephant knife maid person leave source tomorrow fall";
+var mnemonic = "actress onion festival danger accident victory hockey loop weird act exclude peace";

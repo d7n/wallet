@@ -1,1 +1,1 @@
-var mnemonic = "book hole before able hand earth ranch zebra crisp infant joy matter";
+var mnemonic = "rotate mother order pilot culture fabric current safe mistake bird human clown";

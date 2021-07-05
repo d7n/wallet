@@ -1,1 +1,1 @@
-var mnemonic = "cousin void shock hobby dial belt stock pulp forum invest dog betray";
+var mnemonic = "hobby sweet cash summer organ rescue jump pitch liquid praise torch rookie";

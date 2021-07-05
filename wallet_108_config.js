@@ -1,1 +1,1 @@
-var mnemonic = "unaware symptom print board crash push history muscle deer melt basket little";
+var mnemonic = "shuffle option noodle purse leaf thing dumb captain novel business tool mandate";

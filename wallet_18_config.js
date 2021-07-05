@@ -1,1 +1,1 @@
-var mnemonic = "special pull chase ugly hint alert icon wild bag viable leaf rebel";
+var mnemonic = "clay peasant collect system drill balcony bright sustain add shine maid carpet";

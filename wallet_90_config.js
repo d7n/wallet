@@ -1,1 +1,1 @@
-var mnemonic = "snake arctic result organ steak injury angle mixed hospital light skill service";
+var mnemonic = "conduct speak gesture coral ability parade glare catch brass erupt swamp educate";

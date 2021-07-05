@@ -1,1 +1,1 @@
-var mnemonic = "hire slice taste start pioneer cash during please crowd valley soda drip";
+var mnemonic = "poem equip network such distance next abandon expect sight analyst ranch trouble";

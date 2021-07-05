@@ -1,1 +1,1 @@
-var mnemonic = "begin absorb real gasp jelly current marine fancy tomato often chest eternal";
+var mnemonic = "double photo unusual raven giggle gospel nerve provide critic captain push attend";

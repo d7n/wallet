@@ -1,1 +1,1 @@
-var mnemonic = "author strategy omit need eternal mind coral angle sunny explain harvest rule";
+var mnemonic = "hurry equip tower sadness unhappy need afraid purse sentence tomato electric canyon";

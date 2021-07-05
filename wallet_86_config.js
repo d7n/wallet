@@ -1,1 +1,1 @@
-var mnemonic = "insect clinic emerge brother nominee silk canoe marriage effort unit observe oval";
+var mnemonic = "bless wrap shy fan hurdle trade globe okay fit melody decide spot";

@@ -1,1 +1,1 @@
-var mnemonic = "pill drum globe employ price illegal thunder wood drastic kidney desk target";
+var mnemonic = "guitar army extra evidence hotel skill reflect crater mother film rather stereo";

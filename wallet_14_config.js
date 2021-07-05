@@ -1,1 +1,1 @@
-var mnemonic = "sting cage wash own shine thrive bike replace boat woman strike park";
+var mnemonic = "token robust pull ice raven produce action aerobic empower recycle slush spread";

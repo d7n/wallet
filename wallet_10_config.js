@@ -1,1 +1,1 @@
-var mnemonic = "mandate rich dove diary orphan borrow card remember gift diet lucky script";
+var mnemonic = "fiction august sentence liar beauty rail faculty between execute remind club aim";

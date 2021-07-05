@@ -1,1 +1,1 @@
-var mnemonic = "accuse general obvious retreat hungry funny advice remove rose range brass turn";
+var mnemonic = "purse mango group luggage purity taxi girl absent swarm wheat canoe poet";

@@ -1,1 +1,1 @@
-var mnemonic = "settle grace reopen ask high save example trial silent impulse enjoy figure";
+var mnemonic = "clever ketchup attitude hello fatal enjoy south pill raven note domain wide";

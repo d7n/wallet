@@ -1,1 +1,1 @@
-var mnemonic = "combine million border huge around essay bench buzz offer prevent hen frog";
+var mnemonic = "trim gas bar best myth crack limb biology parrot innocent fever rude";

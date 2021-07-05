@@ -1,1 +1,1 @@
-var mnemonic = "input label health movie people wife sadness disorder tiger tuition whale concert";
+var mnemonic = "immune again episode laptop ugly basket stomach velvet senior accident anger describe";

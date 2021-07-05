@@ -1,1 +1,1 @@
-var mnemonic = "economy peace rain canal trip liquid fit crunch off sweet fox pull";
+var mnemonic = "grace photo curtain pond clean beef east feature figure eye cushion slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate napkin song kangaroo young very cushion into high black great grape";
+var mnemonic = "common sustain gauge arctic jelly punch inside habit scissors bunker lunar leader";

@@ -1,1 +1,1 @@
-var mnemonic = "proof pause dry swear brisk grant motion lab system tide enhance good";
+var mnemonic = "tenant goddess sibling life topic elder spring sound energy sport village intact";

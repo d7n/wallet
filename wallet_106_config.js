@@ -1,1 +1,1 @@
-var mnemonic = "ticket keen announce garment lobster myth actress into arena spawn april gossip";
+var mnemonic = "knife tooth embody item beef solve blouse coffee flower fury proud shock";

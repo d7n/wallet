@@ -1,1 +1,1 @@
-var mnemonic = "lion tube midnight buffalo below kitten fitness lounge stage robot sword interest";
+var mnemonic = "wisdom gap title isolate cruise urge legend street enough hurt judge food";

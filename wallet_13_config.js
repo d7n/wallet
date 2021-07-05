@@ -1,1 +1,1 @@
-var mnemonic = "chief assault worry first snack fame assist course original lunar surge benefit";
+var mnemonic = "guard trap emerge bulk hurdle lesson vast palm describe sun when flame";

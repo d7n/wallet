@@ -1,1 +1,1 @@
-var mnemonic = "system stage hockey avoid spin fish scene now axis worth acoustic easily";
+var mnemonic = "announce cancel effort length engage corn crater owner echo daughter blade ask";

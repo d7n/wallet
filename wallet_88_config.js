@@ -1,1 +1,1 @@
-var mnemonic = "amused enjoy tiger lonely job cement hour hammer gather exotic hybrid twin";
+var mnemonic = "army canoe cry neither order purity waste ship mail summer keen train";

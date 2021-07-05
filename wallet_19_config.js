@@ -1,1 +1,1 @@
-var mnemonic = "system calm planet today weather theme faculty abstract index moon scout sorry";
+var mnemonic = "blouse pair table burden patch garden yellow spray wall post just drive";

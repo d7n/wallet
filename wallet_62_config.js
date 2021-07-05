@@ -1,1 +1,1 @@
-var mnemonic = "face celery bronze enough panel light inflict galaxy famous outside pyramid space";
+var mnemonic = "series grant style caution cook element book secret exclude hip bamboo prize";

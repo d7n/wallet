@@ -1,1 +1,1 @@
-var mnemonic = "left ability outside taxi crater crazy result future mule attract planet cost";
+var mnemonic = "spy drum obey oyster rose siren begin opera reunion describe belt lamp";

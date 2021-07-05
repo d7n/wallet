@@ -1,1 +1,1 @@
-var mnemonic = "where promote bless abstract floor spend gate visual snake erode collect tower";
+var mnemonic = "board ethics until chest pledge today equip afford treat choice fix excite";

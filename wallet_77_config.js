@@ -1,1 +1,1 @@
-var mnemonic = "basic blossom gown attend final output entire excess attend victory weekend hint";
+var mnemonic = "apology proud someone few inject wish lunar camp year tower bitter clump";

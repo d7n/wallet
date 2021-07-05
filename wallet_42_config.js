@@ -1,1 +1,1 @@
-var mnemonic = "nerve sport monitor uphold word puzzle flush horn wedding winner romance coil";
+var mnemonic = "firm junk foot yellow acid habit negative prosper category pencil lottery deer";

@@ -1,1 +1,1 @@
-var mnemonic = "stay weekend proof crucial father coach improve screen over food champion normal";
+var mnemonic = "jeans blade winter close cross funny neutral anger feel nominee tackle major";

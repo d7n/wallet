@@ -1,1 +1,1 @@
-var mnemonic = "picture install chuckle seed flame sphere notable dice hair enough moon hip";
+var mnemonic = "address wrestle garage place combine wool shrimp afraid table message pave biology";

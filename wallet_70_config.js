@@ -1,1 +1,1 @@
-var mnemonic = "bamboo early repair tide eternal observe surge fancy gown gentle assist syrup";
+var mnemonic = "legend trend crater inch lock borrow fix ring unusual spray cabbage spike";

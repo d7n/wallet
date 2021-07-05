@@ -1,1 +1,1 @@
-var mnemonic = "mushroom certain choice crane grape drift kiwi gorilla torch volume annual giant";
+var mnemonic = "eight giraffe avocado shoulder top seat erase snake eagle ill spring captain";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold wife admit slender orient canoe quiz similar muscle opinion stock basic";
+var mnemonic = "left cement toy fun beyond bulb rebel joy twenty artwork abuse crouch";

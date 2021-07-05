@@ -1,1 +1,1 @@
-var mnemonic = "hold farm tackle tissue castle rib amazing cliff curtain logic merit swing";
+var mnemonic = "august awkward goddess rude mosquito dune suffer rapid burden law wolf inhale";

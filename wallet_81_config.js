@@ -1,1 +1,1 @@
-var mnemonic = "hover place guess swarm outdoor fly human quarter awful elevator dry adjust";
+var mnemonic = "modify poet inform symptom brief melody spring flat ticket hover language grief";

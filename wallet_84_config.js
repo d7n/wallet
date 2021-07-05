@@ -1,1 +1,1 @@
-var mnemonic = "erosion repeat rural control chaos hood economy curtain ordinary duty craft little";
+var mnemonic = "hamster lottery light error middle size solve maze laundry disorder museum aware";

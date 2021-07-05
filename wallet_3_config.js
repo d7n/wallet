@@ -1,1 +1,1 @@
-var mnemonic = "guard inspire suit base heart bulk abandon love moment future tennis crash";
+var mnemonic = "dinosaur fantasy wink snack question struggle hawk issue decorate dismiss own similar";

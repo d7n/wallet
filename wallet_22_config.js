@@ -1,1 +1,1 @@
-var mnemonic = "family market stage alpha potato wink desk echo hunt thought click chapter";
+var mnemonic = "thing survey wife gown reflect stomach connect buzz minor ancient hello leave";

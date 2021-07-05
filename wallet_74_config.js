@@ -1,1 +1,1 @@
-var mnemonic = "topple wedding sign sport cabin exclude very swamp bid damp panther endless";
+var mnemonic = "marriage asthma aware plate flat lamp dice travel current tortoise industry useful";

@@ -1,1 +1,1 @@
-var mnemonic = "wet mask habit they such other shy trumpet unusual special inner secret";
+var mnemonic = "dash island two head rough plate across abstract seed pony daring ancient";

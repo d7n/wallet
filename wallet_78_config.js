@@ -1,1 +1,1 @@
-var mnemonic = "clock spoil desk leaf purchase educate crash spell negative card chest grunt";
+var mnemonic = "again soft fire canyon tool drill wine fantasy vehicle provide endless always";

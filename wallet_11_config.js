@@ -1,1 +1,1 @@
-var mnemonic = "sing blood seven clinic luxury code predict space cereal pen village pink";
+var mnemonic = "dune sick inhale when limb bonus heart coral dragon life width people";

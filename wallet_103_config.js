@@ -1,1 +1,1 @@
-var mnemonic = "ankle bullet sunset december squirrel mammal alien globe style enable easy pen";
+var mnemonic = "sign gasp deposit decide pride panic judge dust cave script pink grunt";

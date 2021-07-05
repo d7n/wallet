@@ -1,1 +1,1 @@
-var mnemonic = "donor reflect social second rescue caution entire wonder empower grace giggle sure";
+var mnemonic = "sheriff fog illegal menu place surprise enroll rose topple wool broken accident";

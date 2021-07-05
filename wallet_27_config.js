@@ -1,1 +1,1 @@
-var mnemonic = "rigid unfold slam blood across borrow rent amount unique swift clip intact";
+var mnemonic = "decorate field myth human theory process thank upset media mammal second grape";

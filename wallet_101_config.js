@@ -1,1 +1,1 @@
-var mnemonic = "ramp hub artwork illness auto wool typical want drive north jungle resource";
+var mnemonic = "saddle run merit project despair dog shoot drift robust equal music crack";

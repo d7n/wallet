@@ -1,1 +1,1 @@
-var mnemonic = "refuse cactus kangaroo lake coffee horse idle what quantum update hurry puppy";
+var mnemonic = "valley scatter bottom ripple reform frequent faith myth obey nose embody light";

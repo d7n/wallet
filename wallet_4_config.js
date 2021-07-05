@@ -1,1 +1,1 @@
-var mnemonic = "warfare swim ceiling approve annual trip convince sugar decade palace congress link";
+var mnemonic = "early text dinner knee supply desert muscle wave unhappy off reopen endless";

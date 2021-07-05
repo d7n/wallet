@@ -1,1 +1,1 @@
-var mnemonic = "hurdle cannon begin hour profit aspect dune poverty bring faith visa canvas";
+var mnemonic = "agree derive swear pig outdoor boy tool trip swamp butter alter accuse";

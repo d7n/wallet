@@ -1,1 +1,1 @@
-var mnemonic = "sort convince rose alley impact corn speed april ask aerobic amount element";
+var mnemonic = "shy donate ranch buyer process obscure soul general document isolate prison fly";

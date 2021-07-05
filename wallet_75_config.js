@@ -1,1 +1,1 @@
-var mnemonic = "rabbit monitor danger endless crane unknown pill since thumb manage execute repair";
+var mnemonic = "winter sport token cargo genius describe hair indoor before climb lizard innocent";

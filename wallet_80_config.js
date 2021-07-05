@@ -1,1 +1,1 @@
-var mnemonic = "expand mirror topple resemble task clever faculty female infant broken dial panic";
+var mnemonic = "path example truly file long nature bus faith garlic daring opinion trick";

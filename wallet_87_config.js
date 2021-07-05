@@ -1,1 +1,1 @@
-var mnemonic = "when caution awake spoil march humor denial goddess thing hero rocket screen";
+var mnemonic = "slice vital burst dust maximum indicate blossom cube plastic indoor cherry nut";

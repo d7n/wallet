@@ -1,1 +1,1 @@
-var mnemonic = "task calm offer path purpose carry wisdom acoustic balance drive announce often";
+var mnemonic = "rural around eagle wasp orange lend cricket scrub desk large hire able";

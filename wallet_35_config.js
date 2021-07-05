@@ -1,1 +1,1 @@
-var mnemonic = "enrich behave ticket zebra object snow learn elder entry earn heavy brief";
+var mnemonic = "grocery then essence grace rate employ bid diamond negative trophy tag resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual farm giraffe century north dismiss argue tip stairs upon dish mass";
+var mnemonic = "day arrow outdoor imitate kind barrel hunt scissors omit manual parent ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion sausage huge broom often ritual earn human west season rough surprise";
+var mnemonic = "silly army tribe resemble roast deal view avoid sport village flower next";

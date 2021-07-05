@@ -1,1 +1,1 @@
-var mnemonic = "hazard stay animal arctic toward weird sail blush student real seven link";
+var mnemonic = "session helmet broccoli accuse habit auction degree zero indoor defense symbol habit";

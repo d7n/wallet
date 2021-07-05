@@ -1,1 +1,1 @@
-var mnemonic = "cry morning buddy vote panel ill decline behind shaft hockey tower because";
+var mnemonic = "alpha tree cat uncover stay ugly door brother leaf sport magnet park";

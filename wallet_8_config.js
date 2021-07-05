@@ -1,1 +1,1 @@
-var mnemonic = "monitor payment robust seat modify illness charge install dizzy symptom puzzle unlock";
+var mnemonic = "girl solve camp cute team salon repeat grant unknown youth wine kingdom";

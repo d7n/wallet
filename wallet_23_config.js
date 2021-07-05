@@ -1,1 +1,1 @@
-var mnemonic = "blush stove brush tuna depth clip bind warm hill school either sister";
+var mnemonic = "hedgehog paper kidney midnight advance symbol push exclude believe trip wealth warm";

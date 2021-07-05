@@ -1,1 +1,1 @@
-var mnemonic = "use finger hotel win trigger timber owner flight dial group enjoy tuna";
+var mnemonic = "also rescue chest strategy extra erode what olympic unlock body rich walk";

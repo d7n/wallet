@@ -1,1 +1,1 @@
-var mnemonic = "science floor hill minute comfort vivid mixed hero advance shoulder owner since";
+var mnemonic = "merit stove valve exhibit kitten link dirt draft lemon copper couple canvas";

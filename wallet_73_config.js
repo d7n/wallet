@@ -1,1 +1,1 @@
-var mnemonic = "project nature veteran seminar survey steel find logic junior confirm pride fetch";
+var mnemonic = "expose cement ribbon provide sea unhappy dolphin phrase crawl announce depend wisdom";

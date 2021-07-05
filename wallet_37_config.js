@@ -1,1 +1,1 @@
-var mnemonic = "dose way cage remind devote decline hello hour copper office cost token";
+var mnemonic = "typical core index artist stage toddler plug stay sell pyramid clay wait";

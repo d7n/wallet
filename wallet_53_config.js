@@ -1,1 +1,1 @@
-var mnemonic = "bonus ice type run small raven one diagram shed recycle coral cross";
+var mnemonic = "candy denial movie poverty knife marriage runway grit item scale column gown";

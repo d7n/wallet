@@ -1,1 +1,1 @@
-var mnemonic = "museum until coach aerobic lift morning seek attend spike buddy arrest earth";
+var mnemonic = "stock evil enact head hint awesome option account hat foster manage bitter";

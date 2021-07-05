@@ -1,1 +1,1 @@
-var mnemonic = "assume axis shift wheat athlete cream ribbon ridge agent script mix decrease";
+var mnemonic = "draft you point sing frog target witness laundry mule theory evoke blast";

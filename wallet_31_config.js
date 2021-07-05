@@ -1,1 +1,1 @@
-var mnemonic = "blade crazy upon pioneer legend coral fatal electric beef canyon task head";
+var mnemonic = "angle mad segment caution stamp health security action wild tilt hill total";

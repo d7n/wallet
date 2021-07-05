@@ -1,1 +1,1 @@
-var mnemonic = "cereal blush maze next angle basic vault globe rare volcano enable mountain";
+var mnemonic = "rare solution promote giggle wreck chalk churn ring tuna flight ozone monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease stamp obey huge fresh beach again purity friend sail random furnace";
+var mnemonic = "universe nice member lava arctic friend stove soft upper bone high effort";

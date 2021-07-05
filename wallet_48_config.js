@@ -1,1 +1,1 @@
-var mnemonic = "degree hobby spy bicycle scheme grant chapter maximum wire fragile flower void";
+var mnemonic = "cream kid steak select crush social grunt evolve few tissue buyer assault";
