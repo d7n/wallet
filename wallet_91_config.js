@@ -1,1 +1,1 @@
-var mnemonic = "gesture what bacon moon busy shoot switch huge observe acid fame menu";
+var mnemonic = "march primary divorce hospital across scatter gown lemon drama two pen depart";

@@ -1,1 +1,1 @@
-var mnemonic = "surface barrel hungry pipe message wise position disorder nose turn universe uphold";
+var mnemonic = "skill nothing name patch half book fall doll combine auction ozone afraid";

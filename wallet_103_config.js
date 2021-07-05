@@ -1,1 +1,1 @@
-var mnemonic = "innocent lawn lizard autumn more hope provide charge grief trend leisure away";
+var mnemonic = "few furnace robot blanket pride shoot provide draw oxygen giggle derive engine";

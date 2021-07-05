@@ -1,1 +1,1 @@
-var mnemonic = "marble carpet delay judge column phrase coach nephew size swear candy dog";
+var mnemonic = "access fetch develop mad miss online aerobic top claw occur tank hint";

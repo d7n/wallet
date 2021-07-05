@@ -1,1 +1,1 @@
-var mnemonic = "arrange congress suit keep century few payment burger post couch employ guilt";
+var mnemonic = "hero creek join garage crucial address neglect rice sad galaxy sight illegal";

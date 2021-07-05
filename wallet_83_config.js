@@ -1,1 +1,1 @@
-var mnemonic = "rifle smooth fatigue wreck balance save potato opera insane junk urban beauty";
+var mnemonic = "theme renew peasant base park inch initial nut glare blast half subject";

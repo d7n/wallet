@@ -1,1 +1,1 @@
-var mnemonic = "cupboard office ozone submit cheap loop suffer column raven beyond recall tuition";
+var mnemonic = "decade knock blade divorce kid maximum soon mandate draw noble quote issue";

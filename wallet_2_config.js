@@ -1,1 +1,1 @@
-var mnemonic = "taste connect pizza girl genius manual charge spatial gauge canvas piano adapt";
+var mnemonic = "sentence parade only glow entry unusual prefer target diary afford eyebrow armor";

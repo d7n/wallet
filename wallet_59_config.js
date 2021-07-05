@@ -1,1 +1,1 @@
-var mnemonic = "media maze orphan better knee cement thunder pull angry repeat myself public";
+var mnemonic = "rally march horn yellow turkey happy chronic ride patient truck coin debate";

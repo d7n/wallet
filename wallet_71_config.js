@@ -1,1 +1,1 @@
-var mnemonic = "hurry tourist soft bachelor canoe gadget stamp flame answer grab boil make";
+var mnemonic = "repair floor weather burden advice couple lemon gesture shoe walnut bright fit";

@@ -1,1 +1,1 @@
-var mnemonic = "auction reopen crack nasty quantum raw bulb toddler actual acoustic mail split";
+var mnemonic = "friend frame assist omit unlock frame snake around select celery round egg";

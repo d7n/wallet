@@ -1,1 +1,1 @@
-var mnemonic = "brick process material junk across obscure kiss word same modify endorse evidence";
+var mnemonic = "great catch sound rookie child bridge mammal squirrel pretty wine casino agent";

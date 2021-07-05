@@ -1,1 +1,1 @@
-var mnemonic = "remind fatigue royal tray bridge abstract sun expand charge slender noodle mirror";
+var mnemonic = "rigid actor tongue round lounge empower gravity black famous series toy finger";

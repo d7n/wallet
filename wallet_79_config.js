@@ -1,1 +1,1 @@
-var mnemonic = "radio bus glove together few code mention purchase pattern midnight trophy breeze";
+var mnemonic = "copy toddler satisfy mandate rack pilot hold water square anger ignore tennis";

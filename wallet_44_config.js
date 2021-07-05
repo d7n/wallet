@@ -1,1 +1,1 @@
-var mnemonic = "river horn stand salon drum destroy sauce payment divide fee swamp hire";
+var mnemonic = "mercy drift plastic ribbon deny donate goose like tuna staff hidden pupil";

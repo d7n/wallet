@@ -1,1 +1,1 @@
-var mnemonic = "source gadget cactus auction wrestle hidden choice talk airport spin skull cross";
+var mnemonic = "auction victory universe whip lake column day talent monitor breeze shy crush";

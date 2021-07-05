@@ -1,1 +1,1 @@
-var mnemonic = "expect relief piano merge dawn tuition razor slight page envelope pool amateur";
+var mnemonic = "risk deliver bike silly clump paper gloom gift arrow adjust champion pause";

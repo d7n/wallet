@@ -1,1 +1,1 @@
-var mnemonic = "bone pistol equal blouse aunt festival skate struggle spray animal jelly spike";
+var mnemonic = "engage swallow blue jump nature pyramid express plunge fat palm airport plug";

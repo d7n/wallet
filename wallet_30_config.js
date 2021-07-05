@@ -1,1 +1,1 @@
-var mnemonic = "dial phone cinnamon boat elite luxury bubble child rocket two essence harsh";
+var mnemonic = "manage dizzy true mutual excite spell welcome normal reward inflict flush magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen flag hamster venture fat sweet base oblige unit doctor jazz mom";
+var mnemonic = "kangaroo ugly disagree cattle improve offer surface forward only explain rate rack";

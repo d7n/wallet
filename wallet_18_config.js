@@ -1,1 +1,1 @@
-var mnemonic = "thumb knife payment six uncover retire phone inherit ride around name couch";
+var mnemonic = "copper science base load vocal elite fade plastic busy symptom lawn top";

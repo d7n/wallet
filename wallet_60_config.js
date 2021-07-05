@@ -1,1 +1,1 @@
-var mnemonic = "uphold swim six belt fold labor brain cloud frozen carry sketch zebra";
+var mnemonic = "island danger curtain wedding sample flower shift erosion amused work core hip";

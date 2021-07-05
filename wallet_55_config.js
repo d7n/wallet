@@ -1,1 +1,1 @@
-var mnemonic = "false later fit hood fossil theme lyrics loan practice bottom entire brisk";
+var mnemonic = "drastic oblige auction horse now drip pact ghost acoustic gauge bind observe";

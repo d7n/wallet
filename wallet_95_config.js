@@ -1,1 +1,1 @@
-var mnemonic = "antique awful fun gas envelope toy horse control afford woman insect atom";
+var mnemonic = "replace hold candy arm give stock unique grit weird absent connect tag";

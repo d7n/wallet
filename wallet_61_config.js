@@ -1,1 +1,1 @@
-var mnemonic = "mask echo dose glance subject sure online husband element element slide piano";
+var mnemonic = "shock trash toast crouch fortune join exclude reject student begin sleep harvest";

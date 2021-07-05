@@ -1,1 +1,1 @@
-var mnemonic = "hint stay engage debate awesome spy basic bag enjoy valley envelope deputy";
+var mnemonic = "thought thunder hamster over agree silk draw team joy loyal cushion easily";

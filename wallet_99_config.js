@@ -1,1 +1,1 @@
-var mnemonic = "scheme desk erosion source will light essence raccoon bottom visa ignore join";
+var mnemonic = "artefact act viable verify swallow change left use frost mobile fruit alley";

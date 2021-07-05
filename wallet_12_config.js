@@ -1,1 +1,1 @@
-var mnemonic = "capable emotion guide bread gasp bike height resist before enable peasant monkey";
+var mnemonic = "aim meadow course crew deliver song federal picture clog admit elegant odor";

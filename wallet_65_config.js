@@ -1,1 +1,1 @@
-var mnemonic = "head produce vague attack buffalo arena shock step easily review inch dizzy";
+var mnemonic = "guess town yard scorpion grape law runway syrup cheap ill gate soon";

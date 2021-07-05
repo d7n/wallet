@@ -1,1 +1,1 @@
-var mnemonic = "phone mystery girl display mom cute addict favorite thumb fly suggest object";
+var mnemonic = "agent light link season that second first consider rate strong lion satoshi";

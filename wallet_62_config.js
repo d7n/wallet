@@ -1,1 +1,1 @@
-var mnemonic = "able grass feed practice invest powder glimpse position online paddle avoid camp";
+var mnemonic = "sudden mushroom barrel bread track pilot toy fortune foot major insane diagram";

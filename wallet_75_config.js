@@ -1,1 +1,1 @@
-var mnemonic = "sponsor soldier motion liar agent match february fancy dawn market stomach setup";
+var mnemonic = "excess genius satoshi deal economy music public cousin kidney report toddler abandon";

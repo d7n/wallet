@@ -1,1 +1,1 @@
-var mnemonic = "art coconut lyrics regret zebra awake stem mirror cage blossom kitchen market";
+var mnemonic = "more early left output method labor lava dignity ability lift power strong";

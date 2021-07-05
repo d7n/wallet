@@ -1,1 +1,1 @@
-var mnemonic = "antenna decline tired brain identify good thought judge job minute index pink";
+var mnemonic = "drift junk noodle defense truly donate thrive car dragon claim spice work";

@@ -1,1 +1,1 @@
-var mnemonic = "old worth excite call valve blue rigid negative smoke borrow hobby wide";
+var mnemonic = "chat maximum brother army trim crowd angle mind autumn actual urban olive";

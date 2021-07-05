@@ -1,1 +1,1 @@
-var mnemonic = "fire game strong voyage picnic draft basic pelican arm best wealth swamp";
+var mnemonic = "figure corn common myself later radar ugly push acoustic increase protect trigger";

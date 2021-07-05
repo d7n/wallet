@@ -1,1 +1,1 @@
-var mnemonic = "wise bus man guitar loyal impact brother mechanic what belt venue true";
+var mnemonic = "always hope child bronze estate casino empower drip embrace near wedding smart";

@@ -1,1 +1,1 @@
-var mnemonic = "useful video remove dance squeeze private surprise glide wheat collect sunset lobster";
+var mnemonic = "feature admit hair ship sure head addict local siren cherry project spot";

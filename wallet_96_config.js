@@ -1,1 +1,1 @@
-var mnemonic = "useless impulse park festival invest future grass tumble diagram yellow random team";
+var mnemonic = "field rotate usage shoulder script spike review apple two stick often diamond";

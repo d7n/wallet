@@ -1,1 +1,1 @@
-var mnemonic = "gloom margin reunion illness galaxy picnic portion gossip scrub attitude clean volcano";
+var mnemonic = "order replace elder apart awesome jacket black climb spin chuckle lawn income";

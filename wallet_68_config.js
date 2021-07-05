@@ -1,1 +1,1 @@
-var mnemonic = "believe slab layer festival stick wheat cook curve head crawl divide boost";
+var mnemonic = "scatter leader arm satisfy effort tone olympic police undo demise release timber";

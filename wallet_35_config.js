@@ -1,1 +1,1 @@
-var mnemonic = "become poet protect swift spawn stock lunar seed try churn pyramid brown";
+var mnemonic = "boil club start since gift draft lesson burger oval public jacket brush";

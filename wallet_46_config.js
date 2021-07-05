@@ -1,1 +1,1 @@
-var mnemonic = "tired bullet vast fitness east hole multiply upper dizzy vacant alpha reward";
+var mnemonic = "six tiny betray tape relief wink climb miracle squirrel ill canoe doll";

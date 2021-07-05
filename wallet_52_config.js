@@ -1,1 +1,1 @@
-var mnemonic = "welcome fiscal grocery gravity razor happy expose oxygen pistol honey occur cinnamon";
+var mnemonic = "assault bonus churn total merry armor patient invest bicycle you orient diet";

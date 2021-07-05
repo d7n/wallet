@@ -1,1 +1,1 @@
-var mnemonic = "battle zone flat enable tennis ripple lonely sock forward winter response cream";
+var mnemonic = "season slender raccoon turtle garment mercy topic crumble endorse rigid school token";

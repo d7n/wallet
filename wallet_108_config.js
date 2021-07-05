@@ -1,1 +1,1 @@
-var mnemonic = "eight start wheel grow shell plunge call local art gate pig fitness";
+var mnemonic = "system glance company render similar evil join wrist weekend breeze dinosaur that";

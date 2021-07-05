@@ -1,1 +1,1 @@
-var mnemonic = "section ocean embody vehicle copper enter sight crumble hundred maximum pepper favorite";
+var mnemonic = "rigid virus bulk stock any pepper narrow leader try end reflect black";

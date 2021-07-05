@@ -1,1 +1,1 @@
-var mnemonic = "tank tell when rubber hundred minute wait uncle extend chaos damp explain";
+var mnemonic = "bomb rail decide comfort gold burger dice ghost tongue general push mouse";

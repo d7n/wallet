@@ -1,1 +1,1 @@
-var mnemonic = "gather merit month broom public pioneer poem hour walnut dentist movie cable";
+var mnemonic = "crucial urban coffee captain you boat novel vast good mushroom dawn industry";

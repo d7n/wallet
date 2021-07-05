@@ -1,1 +1,1 @@
-var mnemonic = "best virus ski axis acquire vague hill powder fit solution spin bundle";
+var mnemonic = "another ladder relief wild diesel bring trip yard jacket crumble muffin chase";

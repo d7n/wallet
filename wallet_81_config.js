@@ -1,1 +1,1 @@
-var mnemonic = "stumble deposit wage hawk later month grow age truth forum quality cycle";
+var mnemonic = "final oil coral run business express member firm satisfy shoulder agree try";

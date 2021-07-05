@@ -1,1 +1,1 @@
-var mnemonic = "ski interest song regret drill universe crash left cash cave cabin man";
+var mnemonic = "find intact ripple roof horror access iron multiply meat heavy armed surge";

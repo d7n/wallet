@@ -1,1 +1,1 @@
-var mnemonic = "basket grain machine monkey badge empty spider actress myself verb slush street";
+var mnemonic = "rebel average fresh announce level climb blade light satoshi engine volcano wheat";

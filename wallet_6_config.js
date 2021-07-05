@@ -1,1 +1,1 @@
-var mnemonic = "wool february fly elevator volume baby illness planet body chief neither reunion";
+var mnemonic = "prize analyst inner paddle energy ginger cream stone bulk version virus year";

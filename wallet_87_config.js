@@ -1,1 +1,1 @@
-var mnemonic = "hospital play prize crunch season treat injury bleak claw history meat deliver";
+var mnemonic = "fossil ketchup spoon bronze flight start pass fossil rough peasant huge awesome";

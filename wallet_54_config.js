@@ -1,1 +1,1 @@
-var mnemonic = "bundle sketch grow velvet around rice dream oil push resemble sting curtain";
+var mnemonic = "anxiety unhappy topple crumble quarter win media picture account seven exact super";

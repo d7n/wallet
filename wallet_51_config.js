@@ -1,1 +1,1 @@
-var mnemonic = "entry fringe pond artwork labor state glimpse envelope summer scrub hole lottery";
+var mnemonic = "marriage special small gate lumber shrimp extra float recipe bean famous all";

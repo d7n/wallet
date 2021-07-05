@@ -1,1 +1,1 @@
-var mnemonic = "crime taxi retreat pottery bench black until great emotion loan total recipe";
+var mnemonic = "wait add inject zone bacon discover impact hair parrot movie trade clog";

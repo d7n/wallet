@@ -1,1 +1,1 @@
-var mnemonic = "pass rapid vault lottery find limit plate treat bachelor donate cheap one";
+var mnemonic = "fit afraid tank design edit rare crime moon pave raise miracle track";

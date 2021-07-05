@@ -1,1 +1,1 @@
-var mnemonic = "wonder sea left mix stamp stairs agree motor concert syrup evoke height";
+var mnemonic = "embody limb kit air account gate unit topic finish wedding oxygen fiscal";

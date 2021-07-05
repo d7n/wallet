@@ -1,1 +1,1 @@
-var mnemonic = "alpha include valley husband crack total desert million fun famous artefact cabbage";
+var mnemonic = "lava boat then fence card tomorrow verify category exercise expose under royal";

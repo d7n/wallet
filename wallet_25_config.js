@@ -1,1 +1,1 @@
-var mnemonic = "cupboard gown modify cereal design reduce embark moment tuna host pond opera";
+var mnemonic = "unit art injury social file fantasy magnet divide syrup viable equip broken";

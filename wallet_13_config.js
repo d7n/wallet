@@ -1,1 +1,1 @@
-var mnemonic = "dynamic betray glad between balance relax burst donor awesome rescue ginger trade";
+var mnemonic = "bubble decorate motor rich melt bike life corn increase track habit wood";

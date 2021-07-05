@@ -1,1 +1,1 @@
-var mnemonic = "between decline virus view curious expire vote chest autumn quick old trend";
+var mnemonic = "host kitchen soccer come roast palm term board truly ripple amazing oxygen";

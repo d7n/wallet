@@ -1,1 +1,1 @@
-var mnemonic = "mouse right kangaroo spice law matter fuel fade survey guard phone actor";
+var mnemonic = "loud fan leader prosper below diesel fee frown license track absent knock";

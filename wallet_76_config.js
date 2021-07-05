@@ -1,1 +1,1 @@
-var mnemonic = "play pave labor fan destroy rate copper rifle ahead wheel auto screen";
+var mnemonic = "crew cloth marriage bamboo jeans source only cotton quick gap cost wing";

@@ -1,1 +1,1 @@
-var mnemonic = "cave tobacco glimpse magnet embark over claw robot clarify attitude neglect team";
+var mnemonic = "estate stick pig huge switch enhance whale side winner edge gentle fiscal";

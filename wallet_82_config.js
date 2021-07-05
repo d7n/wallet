@@ -1,1 +1,1 @@
-var mnemonic = "pledge prison amazing body charge version mistake steak witness knee harbor frown";
+var mnemonic = "spread install cluster truck maid nation curtain purity excess base pepper perfect";

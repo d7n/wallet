@@ -1,1 +1,1 @@
-var mnemonic = "teach host dilemma there grit page salmon purse early venture fog cave";
+var mnemonic = "inmate fruit stomach slot genius motion help mule boat shadow barely egg";

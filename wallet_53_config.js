@@ -1,1 +1,1 @@
-var mnemonic = "live slide skill hazard sad almost color behave come rail mirror teach";
+var mnemonic = "invest pumpkin elegant case cup rude world autumn latin relief volcano cereal";

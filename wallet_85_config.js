@@ -1,1 +1,1 @@
-var mnemonic = "winner enlist dizzy melt crouch opera orchard pet term return business dynamic";
+var mnemonic = "hybrid slush echo figure expect unlock hybrid develop must addict click ripple";

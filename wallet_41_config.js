@@ -1,1 +1,1 @@
-var mnemonic = "blush pact desert day insect select twist room cloth rain bread sting";
+var mnemonic = "express stand blossom taxi unveil weekend edit beauty type label soccer apple";

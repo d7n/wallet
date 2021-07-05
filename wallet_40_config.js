@@ -1,1 +1,1 @@
-var mnemonic = "favorite gap kind situate run rough place scissors feed jealous buffalo fun";
+var mnemonic = "betray access flame gym opinion sort mass penalty wrist fade kitten bean";

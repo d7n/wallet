@@ -1,1 +1,1 @@
-var mnemonic = "royal liberty diet win fury hint cycle box cereal appear magnet general";
+var mnemonic = "warm unusual shock museum wink busy cover laugh soccer bag push burden";

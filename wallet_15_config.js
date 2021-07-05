@@ -1,1 +1,1 @@
-var mnemonic = "print wolf clean champion brown novel divorce chef used fame hope iron";
+var mnemonic = "must monitor crawl vehicle feel canal genuine law biology actual decide rug";

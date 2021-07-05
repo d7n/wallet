@@ -1,1 +1,1 @@
-var mnemonic = "monster mandate club taxi pupil silk dizzy behave test envelope strike multiply";
+var mnemonic = "slam crack under flower hotel destroy tragic prepare moral undo arrange like";

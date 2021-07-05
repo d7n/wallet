@@ -1,1 +1,1 @@
-var mnemonic = "dream pink arrange junk celery muscle cousin property unfold identify mystery female";
+var mnemonic = "dress exact craft category sibling alarm twenty maximum nose involve silk crunch";

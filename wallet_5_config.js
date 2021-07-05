@@ -1,1 +1,1 @@
-var mnemonic = "cook own shoot happy talent long frown very neutral rocket calm stairs";
+var mnemonic = "fossil tribe lazy general sort coin admit ahead safe sphere enjoy smile";

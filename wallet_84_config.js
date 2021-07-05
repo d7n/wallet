@@ -1,1 +1,1 @@
-var mnemonic = "object answer student chair tribe sock subject split gift fade glare start";
+var mnemonic = "vicious kit letter tired spoil wild crunch jealous party display robust garlic";

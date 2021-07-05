@@ -1,1 +1,1 @@
-var mnemonic = "liar lunch table oyster noodle assist butter harsh athlete moral search decline";
+var mnemonic = "kiss leisure again vanish patient engine cattle include minimum harbor trigger eagle";

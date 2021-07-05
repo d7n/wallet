@@ -1,1 +1,1 @@
-var mnemonic = "sunny accuse upon veteran wait suspect ocean derive deny police seek twin";
+var mnemonic = "lock slush east kick joke era asset faith idea window person country";

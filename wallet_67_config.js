@@ -1,1 +1,1 @@
-var mnemonic = "game rule basket unique exhaust setup stadium dust infant door later sauce";
+var mnemonic = "chair tent pyramid piece inch regret shallow wheat chat volume urge glimpse";
