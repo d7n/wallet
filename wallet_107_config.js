@@ -1,1 +1,1 @@
-var mnemonic = "minor admit garbage long cause foam claim acid extend sting track mouse";
+var mnemonic = "device tool buffalo close mandate typical lucky imitate modify cotton absent forum";

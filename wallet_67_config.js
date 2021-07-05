@@ -1,1 +1,1 @@
-var mnemonic = "wrong before glimpse man industry wood shoulder crater garment salute program deny";
+var mnemonic = "pelican usage verb check exotic hammer problem accident portion regret timber outdoor";

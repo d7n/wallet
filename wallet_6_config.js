@@ -1,1 +1,1 @@
-var mnemonic = "youth south broccoli setup soccer few sting section pumpkin voice wash shop";
+var mnemonic = "kiss screen increase muscle alcohol suspect exile dismiss come target girl fog";

@@ -1,1 +1,1 @@
-var mnemonic = "capital stand person pause flush flock worth afford town shrimp rare vital";
+var mnemonic = "save tiny olympic defy regret wrong alcohol ticket design hockey tragic main";

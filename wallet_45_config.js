@@ -1,1 +1,1 @@
-var mnemonic = "practice giggle jazz sunset modify stone laugh glad movie champion bean garage";
+var mnemonic = "differ enact subway blood claim ramp wave evil grant wolf joy direct";

@@ -1,1 +1,1 @@
-var mnemonic = "mango broom gesture emotion again prosper right junk radar live hood submit";
+var mnemonic = "half nuclear when payment cement outer inspire believe feature demise fossil depend";

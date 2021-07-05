@@ -1,1 +1,1 @@
-var mnemonic = "favorite scrap express wasp debris pet cabbage whip father neglect basket proud";
+var mnemonic = "emerge two fork blood swear wing dance blur fancy trophy thank ribbon";

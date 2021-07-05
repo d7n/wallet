@@ -1,1 +1,1 @@
-var mnemonic = "clever catch hen boy crucial admit volcano stadium tooth neutral carry tribe";
+var mnemonic = "deposit jar equal job right clown sniff helmet envelope guilt choose fame";

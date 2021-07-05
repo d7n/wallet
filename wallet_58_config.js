@@ -1,1 +1,1 @@
-var mnemonic = "top hard wish novel conduct diagram deny guitar define infant mystery soon";
+var mnemonic = "satoshi present legal hole push pepper monkey witness only hen air day";

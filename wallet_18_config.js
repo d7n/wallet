@@ -1,1 +1,1 @@
-var mnemonic = "infant inflict steak danger midnight surge alpha canvas budget energy cloth giant";
+var mnemonic = "shoulder cute butter rabbit siren gloom broccoli network art stay business aspect";

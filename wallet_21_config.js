@@ -1,1 +1,1 @@
-var mnemonic = "marine gold suggest hunt candy sword link wrist all acid magic strong";
+var mnemonic = "client bulb grief orange extra useless noise silent indicate rule scan area";

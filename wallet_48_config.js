@@ -1,1 +1,1 @@
-var mnemonic = "cotton field invest nut one inner large solution cry myth seed price";
+var mnemonic = "leaf any canvas midnight steak buyer service below cash system ketchup expect";

@@ -1,1 +1,1 @@
-var mnemonic = "funny detail tumble kangaroo item novel total master essay sense primary argue";
+var mnemonic = "list rhythm wagon cheese step physical shuffle mule cheap stay kiwi odor";

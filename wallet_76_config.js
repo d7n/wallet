@@ -1,1 +1,1 @@
-var mnemonic = "over dwarf pottery grab review caution essay close swear leader sudden glide";
+var mnemonic = "blur season trigger north dinosaur crowd bike hamster key flush program start";

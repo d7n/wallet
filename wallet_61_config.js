@@ -1,1 +1,1 @@
-var mnemonic = "rotate physical phone pilot oppose tomorrow dog zone tobacco ring save ethics";
+var mnemonic = "walk lobster have include subway song near label nuclear orient surprise defense";

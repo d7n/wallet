@@ -1,1 +1,1 @@
-var mnemonic = "blast ankle nut ankle spy plunge found better brick snake lizard spike";
+var mnemonic = "absent crime glass grief cruise punch squeeze gown two dial bird trade";

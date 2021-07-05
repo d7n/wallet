@@ -1,1 +1,1 @@
-var mnemonic = "expire educate glass eager asset equal canal group allow forward file client";
+var mnemonic = "patient clump unique uphold merry fragile corn moral muscle embody art excuse";

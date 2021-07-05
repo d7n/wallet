@@ -1,1 +1,1 @@
-var mnemonic = "cram grape among blouse wish strike promote cactus regular moon marine street";
+var mnemonic = "subway purpose fog barrel lucky zone connect oxygen critic annual away budget";

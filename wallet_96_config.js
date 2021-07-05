@@ -1,1 +1,1 @@
-var mnemonic = "remind rookie quantum sad address excess mad early file erosion wreck ripple";
+var mnemonic = "unhappy couch matter usage syrup unique liberty flower dad render acid canoe";

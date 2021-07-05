@@ -1,1 +1,1 @@
-var mnemonic = "forest cliff interest attract clever seat bounce portion change prevent normal purpose";
+var mnemonic = "borrow advice luxury mesh exact volume sunny inner random monster letter urban";

@@ -1,1 +1,1 @@
-var mnemonic = "police ribbon you what retreat grief trigger slow noodle pioneer fury pen";
+var mnemonic = "option stick blush veteran safe author blouse false carpet middle ramp walk";

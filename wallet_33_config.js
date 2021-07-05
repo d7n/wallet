@@ -1,1 +1,1 @@
-var mnemonic = "custom sad false bid skirt later rich thing disagree person intact cream";
+var mnemonic = "club toy purchase impact table ready mouse moment purity tag review clock";

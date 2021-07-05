@@ -1,1 +1,1 @@
-var mnemonic = "lazy decrease much eye soft when acoustic salute area motor taste cry";
+var mnemonic = "siren analyst service quantum rally symbol sight rocket soul power donate bid";

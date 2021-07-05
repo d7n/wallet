@@ -1,1 +1,1 @@
-var mnemonic = "surge job hard among worth clean girl latin truth sketch bridge degree";
+var mnemonic = "mimic omit impose mix tooth ancient surround curious orbit craft blanket jaguar";

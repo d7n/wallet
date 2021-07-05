@@ -1,1 +1,1 @@
-var mnemonic = "topple palm join sadness access menu pumpkin steel display favorite portion slide";
+var mnemonic = "install extend work praise disease admit cement view vendor short amazing device";

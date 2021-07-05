@@ -1,1 +1,1 @@
-var mnemonic = "neglect diagram few crack snap near silly embark energy mother east blood";
+var mnemonic = "fire fault private asthma cute glad rule public similar amazing capital can";

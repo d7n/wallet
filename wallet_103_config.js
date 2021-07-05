@@ -1,1 +1,1 @@
-var mnemonic = "pond devote mandate what either park tape turn disorder lizard name couple";
+var mnemonic = "stay weekend pistol fashion lemon script report peanut oblige build science intact";

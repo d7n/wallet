@@ -1,1 +1,1 @@
-var mnemonic = "elbow meadow couple start fix clerk recycle special pupil genuine scheme fly";
+var mnemonic = "deposit tape address casino stable caution same wolf more abstract adjust fix";

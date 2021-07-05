@@ -1,1 +1,1 @@
-var mnemonic = "ocean surprise globe arena flash message live member property farm margin story";
+var mnemonic = "repair soup ladder physical race dismiss holiday wire matter pond empower slab";

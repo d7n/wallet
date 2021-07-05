@@ -1,1 +1,1 @@
-var mnemonic = "neither blame couch snack icon since supply hammer cook harvest lounge message";
+var mnemonic = "shove sand cash industry vibrant deliver road dance buddy truly easy school";

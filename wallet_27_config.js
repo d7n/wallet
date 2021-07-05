@@ -1,1 +1,1 @@
-var mnemonic = "legal purchase issue barrel hurdle harbor permit client sense slab bunker seat";
+var mnemonic = "goat chief rose final mammal strike gain volcano sunny certain main claim";

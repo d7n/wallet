@@ -1,1 +1,1 @@
-var mnemonic = "vault tent credit flavor you key ranch afford copper tail cattle transfer";
+var mnemonic = "exit wear core gloom yellow pupil blur attitude panic picture now exact";

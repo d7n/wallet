@@ -1,1 +1,1 @@
-var mnemonic = "now essay melody deputy ghost slab milk siren movie hen female artist";
+var mnemonic = "slow section ice evidence orient lamp add join rotate clown wine since";

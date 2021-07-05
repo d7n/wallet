@@ -1,1 +1,1 @@
-var mnemonic = "victory wreck piano chest velvet comfort cause large admit current sadness pact";
+var mnemonic = "steel lawn trash math expect drama wine decade begin avoid auto pulse";

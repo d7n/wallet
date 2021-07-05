@@ -1,1 +1,1 @@
-var mnemonic = "guess ready album dinner dish genius outside sweet combine pig monkey pupil";
+var mnemonic = "slow toe symbol fitness skirt cruel text swarm envelope mix spare bulb";

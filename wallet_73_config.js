@@ -1,1 +1,1 @@
-var mnemonic = "peasant wife badge purity kiss olive want cheap cherry oblige sniff fruit";
+var mnemonic = "identify sad monitor fresh habit abstract health that near gun skin melt";

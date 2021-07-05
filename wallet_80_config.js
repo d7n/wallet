@@ -1,1 +1,1 @@
-var mnemonic = "federal situate diagram pyramid case squeeze vote sting corn glue void erupt";
+var mnemonic = "olympic chronic pass occur addict census gym monitor mushroom almost beach disorder";

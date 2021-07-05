@@ -1,1 +1,1 @@
-var mnemonic = "print accident cash offer doctor stomach biology camp grain guide lonely agree";
+var mnemonic = "demand bleak bronze submit prison solid movie pool item shine acquire police";

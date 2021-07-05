@@ -1,1 +1,1 @@
-var mnemonic = "use clown couple verb logic drastic vocal company exit idea labor fluid";
+var mnemonic = "phrase silk trick palm day family february six sheriff ski devote leader";

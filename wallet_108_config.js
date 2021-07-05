@@ -1,1 +1,1 @@
-var mnemonic = "price surface crawl usage clay filter nurse ankle lemon theory much one";
+var mnemonic = "barely balcony near decorate sign diamond barely kangaroo scatter mechanic boss water";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn hope special just lemon sell ankle oxygen blind ivory cage brain";
+var mnemonic = "boil poem admit plunge pipe vague treat virtual innocent pledge aerobic gravity";

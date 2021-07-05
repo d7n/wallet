@@ -1,1 +1,1 @@
-var mnemonic = "bracket tag scrub choice verify mobile ask room tornado invest hello loyal";
+var mnemonic = "banner advance nose infant tank uncle broken clutch reflect detect place measure";

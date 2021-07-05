@@ -1,1 +1,1 @@
-var mnemonic = "clinic security cost churn void music snow soccer entry spirit gaze zebra";
+var mnemonic = "ill birth copy any tiny that movie word lounge rigid outdoor combine";

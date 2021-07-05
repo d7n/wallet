@@ -1,1 +1,1 @@
-var mnemonic = "virtual hollow play poet curve sister shiver news have snow oyster tornado";
+var mnemonic = "trip utility review polar trick acquire rubber real blue depend firm domain";

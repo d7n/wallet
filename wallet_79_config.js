@@ -1,1 +1,1 @@
-var mnemonic = "grit pave traffic pioneer best burger settle bleak crack essence wink snack";
+var mnemonic = "off security lunch hire village wear stage dash cook clay gravity push";

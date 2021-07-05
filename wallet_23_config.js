@@ -1,1 +1,1 @@
-var mnemonic = "brisk path old school brisk sunny repeat seek visual wire inmate above";
+var mnemonic = "spy wrist pulse erosion whisper resource suspect owner illness truly leaf primary";

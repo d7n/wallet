@@ -1,1 +1,1 @@
-var mnemonic = "decide gown sweet trim loan ugly fox glove toilet donate glide weekend";
+var mnemonic = "sad crunch crush fortune album ensure brown goose enough gospel quiz labor";

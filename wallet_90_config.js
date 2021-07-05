@@ -1,1 +1,1 @@
-var mnemonic = "crouch square pole chaos midnight student proud minimum arrive impose imitate start";
+var mnemonic = "liquid umbrella use sound camera label jeans marine ethics miss upgrade frog";

@@ -1,1 +1,1 @@
-var mnemonic = "effort creek anxiety broken agent chapter crowd weather give round prefer physical";
+var mnemonic = "solve bulk arctic food tell dune excuse pretty release flock length moment";

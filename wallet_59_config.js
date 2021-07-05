@@ -1,1 +1,1 @@
-var mnemonic = "nephew cancel marine steak lottery permit resemble explain whisper spoil trade rhythm";
+var mnemonic = "analyst veteran weather advice begin tuna cement blood system stick swallow beach";

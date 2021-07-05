@@ -1,1 +1,1 @@
-var mnemonic = "try bitter toast whale family saddle vast stove spirit extend imitate spin";
+var mnemonic = "thrive spatial flock seed tuition secret fault number peanut captain banner toe";

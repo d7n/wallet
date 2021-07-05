@@ -1,1 +1,1 @@
-var mnemonic = "attitude adjust sport oxygen fish useless baby cabin shock benefit trigger glass";
+var mnemonic = "black wrap treat lumber uphold crouch rival place night maple donkey amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot private lift economy retreat loop wash winter solar chair muscle sell";
+var mnemonic = "improve express vocal impose purity sweet penalty they fancy bunker mouse ritual";

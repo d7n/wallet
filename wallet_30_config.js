@@ -1,1 +1,1 @@
-var mnemonic = "text purchase guess already enlist top dice scale blind staff short range";
+var mnemonic = "keen cream aunt message wolf identify olive nurse immune yard shy bike";

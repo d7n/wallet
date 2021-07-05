@@ -1,1 +1,1 @@
-var mnemonic = "correct alter tornado curious undo more better cave baby unknown pause bean";
+var mnemonic = "teach soap snack top kite alter divert joke wisdom sleep horn you";

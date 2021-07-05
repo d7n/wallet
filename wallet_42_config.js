@@ -1,1 +1,1 @@
-var mnemonic = "major drop doctor wide siege negative tribe antique found chalk artwork tank";
+var mnemonic = "holiday suggest state energy waste ski relief crew purchase differ liberty property";

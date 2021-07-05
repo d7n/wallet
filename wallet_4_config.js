@@ -1,1 +1,1 @@
-var mnemonic = "tonight surge mom custom youth kitten erupt scrap stuff soft song unknown";
+var mnemonic = "output share cram rack chase equal hour outside achieve source grain derive";

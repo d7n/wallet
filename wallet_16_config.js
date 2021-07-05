@@ -1,1 +1,1 @@
-var mnemonic = "sister rebel length approve buzz used name wear road trophy siege thank";
+var mnemonic = "approve admit draft speed absurd supreme level deny hand pair error income";

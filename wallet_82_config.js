@@ -1,1 +1,1 @@
-var mnemonic = "truck bicycle payment biology juice boil improve tuna siege regular kitchen cool";
+var mnemonic = "nothing tribe light also thumb lift boring finger liberty reason multiply name";

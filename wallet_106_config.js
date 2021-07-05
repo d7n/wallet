@@ -1,1 +1,1 @@
-var mnemonic = "arrow elevator pencil whisper hill cigar shuffle nephew knife success flock rifle";
+var mnemonic = "pipe brave shoe lunch error eye bag basic cancel enable woman crash";

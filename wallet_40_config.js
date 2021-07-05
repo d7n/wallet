@@ -1,1 +1,1 @@
-var mnemonic = "despair guilt transfer absorb leg eagle decline journey van connect private veteran";
+var mnemonic = "nose burst team limit army large drift element tackle account vacuum wage";

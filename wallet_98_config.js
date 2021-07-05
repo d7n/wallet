@@ -1,1 +1,1 @@
-var mnemonic = "bubble plunge inhale ivory crash dove victory taxi stone puzzle glue abuse";
+var mnemonic = "middle silly balcony neck shock music sand banner domain swallow author hover";

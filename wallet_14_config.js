@@ -1,1 +1,1 @@
-var mnemonic = "vivid wheat ghost wedding jeans kind tell tattoo leaf sense caught occur";
+var mnemonic = "scale finger stay blue funny pupil online unlock vibrant defense spoon body";

@@ -1,1 +1,1 @@
-var mnemonic = "heart assume rebel close cherry runway mimic dry garlic betray icon arctic";
+var mnemonic = "scheme flag virus chaos gadget sure pull group analyst short memory error";

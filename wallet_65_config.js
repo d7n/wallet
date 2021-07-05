@@ -1,1 +1,1 @@
-var mnemonic = "ceiling decade walk light tragic arch plate final velvet size mistake glimpse";
+var mnemonic = "curtain million color uncover wisdom large custom autumn when entry slab cook";

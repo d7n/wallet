@@ -1,1 +1,1 @@
-var mnemonic = "invite garment dinner magnet table dish owner match nose alarm dad raw";
+var mnemonic = "result treat uncover mango manage magnet business lounge until heavy gorilla skill";

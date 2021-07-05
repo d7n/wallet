@@ -1,1 +1,1 @@
-var mnemonic = "grace nurse hawk subway wing menu claim joy fresh marine little strategy";
+var mnemonic = "custom list hour film airport topic ramp history theory essence know panel";

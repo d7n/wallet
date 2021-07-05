@@ -1,1 +1,1 @@
-var mnemonic = "miracle mention grant wash enough laptop output sunny build obey cactus oppose";
+var mnemonic = "swarm chest cram clarify dish bunker perfect elevator sound stumble drama poet";

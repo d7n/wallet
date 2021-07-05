@@ -1,1 +1,1 @@
-var mnemonic = "siren traffic april dwarf valley index design absent verify frog card method";
+var mnemonic = "sugar illegal dolphin liar grocery cross ripple web total dinner notable battle";

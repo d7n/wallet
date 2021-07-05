@@ -1,1 +1,1 @@
-var mnemonic = "barely rigid slight illegal ranch stem lens toddler doll once mixed alcohol";
+var mnemonic = "reject number inmate okay essence finish decline myth rain region second end";

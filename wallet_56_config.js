@@ -1,1 +1,1 @@
-var mnemonic = "sing length infant script derive antique teach absorb badge pool home favorite";
+var mnemonic = "secret couch stereo orbit shadow firm list pumpkin fire peasant census loud";

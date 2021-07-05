@@ -1,1 +1,1 @@
-var mnemonic = "keep used timber poet capable denial receive sing defense north luggage life";
+var mnemonic = "dizzy wrist bike assist open soft kingdom toy moment focus fury animal";

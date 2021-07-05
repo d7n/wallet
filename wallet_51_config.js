@@ -1,1 +1,1 @@
-var mnemonic = "claim liberty quarter chicken rude differ shrimp narrow school airport boss win";
+var mnemonic = "mechanic win pilot car roast truth fire buzz dream regular zero nest";

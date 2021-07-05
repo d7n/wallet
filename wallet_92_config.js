@@ -1,1 +1,1 @@
-var mnemonic = "shield source firm advice business sail above apart cement soda sting useful";
+var mnemonic = "daughter skate grab disease drink design give hole wreck concert raccoon nerve";

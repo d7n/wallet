@@ -1,1 +1,1 @@
-var mnemonic = "spawn thunder various right science divert clay hair anger genuine goddess duty";
+var mnemonic = "flat want collect symbol plunge link act orient bundle trim garlic pigeon";

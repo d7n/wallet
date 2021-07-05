@@ -1,1 +1,1 @@
-var mnemonic = "put legend nasty hurry van regular toast album narrow long guilt flee";
+var mnemonic = "ivory matrix predict mean strategy vivid cherry fog ritual retire final egg";

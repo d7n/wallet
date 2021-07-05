@@ -1,1 +1,1 @@
-var mnemonic = "genius banner miracle canoe hamster segment frog awake frequent attack dolphin main";
+var mnemonic = "mixture wing genius cave unusual add spot runway rich expand weapon van";

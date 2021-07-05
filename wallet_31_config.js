@@ -1,1 +1,1 @@
-var mnemonic = "assist any exhibit random organ visit wonder erase resemble scale bone apology";
+var mnemonic = "ordinary iron relax pact father burger album kit sea trial will neither";

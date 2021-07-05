@@ -1,1 +1,1 @@
-var mnemonic = "train cigar wise infant clutch metal elegant fold vehicle buffalo there solve";
+var mnemonic = "obscure leader scare purpose combine cloud melody assume story sauce cotton sock";

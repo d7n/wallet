@@ -1,1 +1,1 @@
-var mnemonic = "gallery profit retire fitness total video coconut pole between bar decline proof";
+var mnemonic = "sign meat cruel add certain sunset punch shove scan emotion clutch onion";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach chunk mutual syrup worth position amused electric adapt wrong iron curtain";
+var mnemonic = "crowd pistol sister unaware eye chief avoid kingdom slam kingdom edge boost";

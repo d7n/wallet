@@ -1,1 +1,1 @@
-var mnemonic = "immense dwarf mimic expect pelican work panther alcohol rabbit card chimney ticket";
+var mnemonic = "view cash tumble supreme annual throw program gentle hammer rib insane cheap";

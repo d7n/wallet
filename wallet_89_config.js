@@ -1,1 +1,1 @@
-var mnemonic = "metal canyon act gospel gorilla second pulp coin lottery feature satoshi useless";
+var mnemonic = "foil current canvas squeeze bird horse siege blood shift goat share again";

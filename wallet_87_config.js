@@ -1,1 +1,1 @@
-var mnemonic = "advice width post later name luxury private surround loan attitude item supreme";
+var mnemonic = "box element message photo dress noise rally hammer hope between corn fit";

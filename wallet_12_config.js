@@ -1,1 +1,1 @@
-var mnemonic = "sustain avocado cactus vicious prison wrong pill seed poverty answer coral invite";
+var mnemonic = "raven wise again ecology clump settle crime peace buffalo narrow latin bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "debate final best join south gospel nasty identify accuse avoid finger okay";
+var mnemonic = "caution syrup hood jazz excuse puppy portion kick jump transfer liar camp";

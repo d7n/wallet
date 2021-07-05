@@ -1,1 +1,1 @@
-var mnemonic = "rent woman security ranch paper era family gossip best evil foster caught";
+var mnemonic = "century rose cliff panic device inherit summer exclude thought wasp similar exclude";

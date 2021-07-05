@@ -1,1 +1,1 @@
-var mnemonic = "vibrant human stereo vote day jacket olive tooth cook season arrow safe";
+var mnemonic = "obvious glue dwarf wagon industry duck amused leg figure copy dutch unaware";

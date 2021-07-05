@@ -1,1 +1,1 @@
-var mnemonic = "lizard table member cheap opera access front double cannon water impose convince";
+var mnemonic = "run tornado below razor enhance burden pear close debate estate produce finish";

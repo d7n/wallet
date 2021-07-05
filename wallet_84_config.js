@@ -1,1 +1,1 @@
-var mnemonic = "where swap disagree income hope clarify typical grocery infant shuffle admit spray";
+var mnemonic = "become vendor avocado guilt design offer anxiety still width wasp knife language";

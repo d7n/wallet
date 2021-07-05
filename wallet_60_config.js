@@ -1,1 +1,1 @@
-var mnemonic = "apology siren double donate wheat pull amused limb domain need dice velvet";
+var mnemonic = "prison bid accuse stock unusual maximum online runway truck menu guess little";
