@@ -1,1 +1,1 @@
-var mnemonic = "blanket increase cattle hundred balcony stick bike soon shadow coffee dad fabric";
+var mnemonic = "day circle random ritual skin trip six rail kid puppy woman unit";

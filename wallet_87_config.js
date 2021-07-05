@@ -1,1 +1,1 @@
-var mnemonic = "card boat indicate discover frown phrase brisk never federal arch sword seven";
+var mnemonic = "sphere ride excite civil fat love beauty soft company slender mosquito enjoy";

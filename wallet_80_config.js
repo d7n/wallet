@@ -1,1 +1,1 @@
-var mnemonic = "month fresh leopard call toward bulk can rude industry feed toy edge";
+var mnemonic = "until spy use post peace gain balance type away sauce what impose";

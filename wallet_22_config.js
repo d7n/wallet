@@ -1,1 +1,1 @@
-var mnemonic = "bean degree prefer ceiling winner enlist ten electric pause local payment country";
+var mnemonic = "other canal candy grief mango law simple machine absent dad polar path";

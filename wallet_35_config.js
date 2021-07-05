@@ -1,1 +1,1 @@
-var mnemonic = "already recycle share begin together fever conduct dolphin achieve slim trend jaguar";
+var mnemonic = "relief crisp hungry road capital wild genre quick moment path dutch talk";

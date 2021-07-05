@@ -1,1 +1,1 @@
-var mnemonic = "close tattoo phone veteran access pitch limit royal woman alarm dune ask";
+var mnemonic = "pave cool scrap trophy average pencil siege view chat hobby bid fog";

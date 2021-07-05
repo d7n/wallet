@@ -1,1 +1,1 @@
-var mnemonic = "fish patrol infant length amount crazy aunt practice sock penalty coach blue";
+var mnemonic = "head brave adapt cute fluid heart portion minute they grace monster nerve";

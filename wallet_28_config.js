@@ -1,1 +1,1 @@
-var mnemonic = "heavy atom magnet deny rigid girl drink arrive invest enough little reform";
+var mnemonic = "snack security pair cliff ignore taste forest misery dice assume dolphin amount";

@@ -1,1 +1,1 @@
-var mnemonic = "service total flight health skull give find entry bachelor creek palace funny";
+var mnemonic = "cloth fancy tissue remember mimic team perfect other divide raven interest duck";

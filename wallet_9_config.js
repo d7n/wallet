@@ -1,1 +1,1 @@
-var mnemonic = "memory wedding shop fever knife system system wing picture figure riot combine";
+var mnemonic = "pizza hair topple response rule carpet thought noodle draft picnic embark essence";

@@ -1,1 +1,1 @@
-var mnemonic = "gown giraffe satisfy witness injury oppose infant future busy found live before";
+var mnemonic = "essence fluid debris tiny film wave wife fresh nephew lady sugar swamp";

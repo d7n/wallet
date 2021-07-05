@@ -1,1 +1,1 @@
-var mnemonic = "hobby letter force aisle pigeon blossom dirt business speak grit verb cereal";
+var mnemonic = "frequent shift faith live jewel fringe blue prepare fragile primary swamp inch";

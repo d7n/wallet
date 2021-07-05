@@ -1,1 +1,1 @@
-var mnemonic = "occur deliver during journey jacket anger zone mail render resist quality also";
+var mnemonic = "peace enable remove scorpion verify kid coach resist vacuum symptom tiny gather";

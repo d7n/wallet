@@ -1,1 +1,1 @@
-var mnemonic = "sing outer siege person silver gloom vault sport seed prison sing story";
+var mnemonic = "material assault business also hen nerve disorder alert infant clever clap silent";

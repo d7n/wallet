@@ -1,1 +1,1 @@
-var mnemonic = "prevent drum pond frozen morning tortoise issue loud crater tower genuine achieve";
+var mnemonic = "treat verb divorce monitor announce lunar pilot exist clip calm head online";

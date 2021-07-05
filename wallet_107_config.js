@@ -1,1 +1,1 @@
-var mnemonic = "gorilla jeans fitness problem source penalty spend equip use polar drill luxury";
+var mnemonic = "floor gap mouse object tag toilet addict junk biology warrior dust topic";

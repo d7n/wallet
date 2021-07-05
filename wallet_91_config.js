@@ -1,1 +1,1 @@
-var mnemonic = "dentist country atom rain pact float rough unhappy solve tuition glass escape";
+var mnemonic = "expose debate sing crystal uniform robot soap puzzle whisper child mountain want";

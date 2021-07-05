@@ -1,1 +1,1 @@
-var mnemonic = "raise congress bitter spike cargo champion own funny modify inquiry misery category";
+var mnemonic = "blouse tilt carbon true myself cushion nice occur culture panic glass phone";

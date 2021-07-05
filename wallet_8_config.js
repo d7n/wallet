@@ -1,1 +1,1 @@
-var mnemonic = "velvet dial float problem prevent virus burden equal shiver mom emerge palace";
+var mnemonic = "capital search useful pole gap swing valve pear cancel cruel bone honey";

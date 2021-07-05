@@ -1,1 +1,1 @@
-var mnemonic = "brother peace debris unknown weather search awake prevent tilt enjoy shallow adapt";
+var mnemonic = "march talent park crazy wood popular tooth thought future lawn fantasy carpet";

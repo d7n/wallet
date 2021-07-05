@@ -1,1 +1,1 @@
-var mnemonic = "column market example drop favorite cigar okay alcohol crunch tool such tell";
+var mnemonic = "settle slice scrap egg scout display energy middle little supply setup odor";

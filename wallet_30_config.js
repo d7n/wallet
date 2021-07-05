@@ -1,1 +1,1 @@
-var mnemonic = "release faint couple genre tail crystal smile exile agent blossom copy legal";
+var mnemonic = "artefact pause cousin double cave coyote trade stay dizzy cost twin album";

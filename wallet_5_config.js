@@ -1,1 +1,1 @@
-var mnemonic = "police push joke fever earth nurse busy trophy inside squeeze divert mobile";
+var mnemonic = "foster lucky start join can boil erode pass decade typical empty chronic";

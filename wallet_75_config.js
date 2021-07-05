@@ -1,1 +1,1 @@
-var mnemonic = "kid popular gate discover wait much desert coral head demand wage spot";
+var mnemonic = "fluid raccoon route fire legend small child orange narrow mushroom series coconut";

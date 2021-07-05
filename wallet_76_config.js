@@ -1,1 +1,1 @@
-var mnemonic = "confirm similar embark aisle access blouse flag mandate easy cheap leave trouble";
+var mnemonic = "rude clever trophy rotate apple canoe wagon legal usage link suspect august";

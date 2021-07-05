@@ -1,1 +1,1 @@
-var mnemonic = "helmet label section idea abandon expire flip sure north glide people mean";
+var mnemonic = "brave laptop match height hockey rescue ten attack resource topple double planet";

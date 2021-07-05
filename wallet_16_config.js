@@ -1,1 +1,1 @@
-var mnemonic = "drip menu flee misery oblige ancient valve fun bar frequent near car";
+var mnemonic = "icon elephant basic cycle echo scare similar police diet auto body start";

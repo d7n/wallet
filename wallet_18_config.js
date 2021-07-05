@@ -1,1 +1,1 @@
-var mnemonic = "because cliff truck able wish train gossip seed tray despair loan interest";
+var mnemonic = "violin mystery soldier deliver addict very february diamond fury dress onion album";

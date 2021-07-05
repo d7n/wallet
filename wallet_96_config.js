@@ -1,1 +1,1 @@
-var mnemonic = "change meadow clap coil truly need company front village sudden essay outer";
+var mnemonic = "stadium permit sniff catalog iron oil afford spy supreme ticket math diesel";

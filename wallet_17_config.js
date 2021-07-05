@@ -1,1 +1,1 @@
-var mnemonic = "brown around seek pudding jungle sample relief robust quantum cluster today gesture";
+var mnemonic = "parade script proud kangaroo void laugh kick manual soap cactus olive emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "fee tortoise rib thing merge baby program year quote path athlete erupt";
+var mnemonic = "novel resist will umbrella goddess arctic there muscle wild long captain assault";

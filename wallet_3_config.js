@@ -1,1 +1,1 @@
-var mnemonic = "total slide palm tragic nominee just picnic salad capital vicious assume blouse";
+var mnemonic = "base clump ribbon derive inform build weapon mother spy sunny energy length";

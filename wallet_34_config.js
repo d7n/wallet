@@ -1,1 +1,1 @@
-var mnemonic = "strong clog loop lyrics cement country anxiety rotate truly junk blood diagram";
+var mnemonic = "miss actress bar sudden sunset wave peasant scrub soon tiger guitar elegant";

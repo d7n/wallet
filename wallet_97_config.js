@@ -1,1 +1,1 @@
-var mnemonic = "manual school case income general urge congress auction coach check fantasy praise";
+var mnemonic = "stable layer spring interest source fee solve relax globe ability diet cigar";

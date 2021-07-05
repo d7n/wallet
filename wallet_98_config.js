@@ -1,1 +1,1 @@
-var mnemonic = "asthma canal differ pride figure crumble credit sing push symptom hungry lobster";
+var mnemonic = "miracle junk coin chapter cry crush about velvet tank spare tube steak";

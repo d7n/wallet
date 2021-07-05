@@ -1,1 +1,1 @@
-var mnemonic = "cabbage spray increase amazing suggest mad item tattoo domain more throw father";
+var mnemonic = "liar mystery tower school velvet total impact awesome myth canvas talk fashion";

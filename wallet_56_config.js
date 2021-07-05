@@ -1,1 +1,1 @@
-var mnemonic = "antique punch fuel ecology sponsor inform door rate romance style foster easy";
+var mnemonic = "lamp item subway prison tattoo erupt reflect legend embody bicycle task crash";

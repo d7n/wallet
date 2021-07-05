@@ -1,1 +1,1 @@
-var mnemonic = "else crisp vacant alone bachelor wire tent shell swamp beauty few tiger";
+var mnemonic = "soap keen margin cost cluster spend thumb cage mountain wool addict sunny";

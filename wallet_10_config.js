@@ -1,1 +1,1 @@
-var mnemonic = "try blade video soap drastic put attend soon this isolate camera flock";
+var mnemonic = "beyond firm language rural depart mad cabbage anxiety trim expose unfold enemy";

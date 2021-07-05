@@ -1,1 +1,1 @@
-var mnemonic = "gadget stove item lizard dutch garbage usage cloth enhance dance circle capable";
+var mnemonic = "pill genre chimney together much review behave scheme cactus grant viable talent";

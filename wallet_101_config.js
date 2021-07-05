@@ -1,1 +1,1 @@
-var mnemonic = "blush miss bulb thing noodle pull wonder glance hole tail pave cruel";
+var mnemonic = "affair fog island glad pet agree monitor smoke input excess various you";

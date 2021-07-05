@@ -1,1 +1,1 @@
-var mnemonic = "burden senior olympic ancient improve canal extend ride latin aerobic tuna caution";
+var mnemonic = "shiver visit arrow dish hurry first season blind few raccoon plastic video";

@@ -1,1 +1,1 @@
-var mnemonic = "artist similar prepare useful flush rebuild indicate shed purity suspect final nuclear";
+var mnemonic = "off vague half innocent attract funny lava wise stem amused travel swallow";

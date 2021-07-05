@@ -1,1 +1,1 @@
-var mnemonic = "absurd success south amused weasel camera solution ill domain casual coil jeans";
+var mnemonic = "valid cross sketch kit cruel craft index skirt poem must draw easy";

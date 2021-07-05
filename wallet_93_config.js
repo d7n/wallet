@@ -1,1 +1,1 @@
-var mnemonic = "churn member citizen visual equip dad enough blade never reflect armed mother";
+var mnemonic = "cat wealth prison marine purpose flag shed cupboard brush fit nephew skin";

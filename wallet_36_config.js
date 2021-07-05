@@ -1,1 +1,1 @@
-var mnemonic = "crime trend tomato vote comfort patrol shadow heart split cotton anxiety century";
+var mnemonic = "drill birth note ancient siege bonus fatigue zoo narrow shove isolate sunny";

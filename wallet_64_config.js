@@ -1,1 +1,1 @@
-var mnemonic = "promote winter busy cause prison quote box search quiz pigeon poem nephew";
+var mnemonic = "mean over pluck equal merry nice ramp draw possible core history monitor";

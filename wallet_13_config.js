@@ -1,1 +1,1 @@
-var mnemonic = "child begin right pave donate dad destroy soul buddy winner another novel";
+var mnemonic = "fancy weather require answer ginger step slot another oak oxygen catalog ghost";

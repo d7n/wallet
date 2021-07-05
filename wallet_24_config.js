@@ -1,1 +1,1 @@
-var mnemonic = "menu resource gloom upon until exclude obscure tide alarm panic tribe decline";
+var mnemonic = "novel south human cable noble charge jungle laptop exercise forward session anger";

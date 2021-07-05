@@ -1,1 +1,1 @@
-var mnemonic = "giggle dream payment refuse milk reason winter beef disorder frozen clump athlete";
+var mnemonic = "gravity broccoli essence bamboo chicken pole weird broken palace infant pumpkin depth";

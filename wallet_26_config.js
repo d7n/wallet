@@ -1,1 +1,1 @@
-var mnemonic = "ozone initial oyster ridge together royal ankle guess merit essence enforce hazard";
+var mnemonic = "board feature phrase sport frog fiscal vessel casino type expect electric coach";

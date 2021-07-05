@@ -1,1 +1,1 @@
-var mnemonic = "artefact wine melt satoshi grunt term amount sense hazard pear step hard";
+var mnemonic = "fox atom flag cannon keen busy language sand window illegal syrup holiday";

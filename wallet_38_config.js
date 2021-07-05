@@ -1,1 +1,1 @@
-var mnemonic = "suggest snake nominee cricket gadget window able acoustic base believe food stock";
+var mnemonic = "nose worth often kit helmet galaxy sweet artefact toward coast school canoe";

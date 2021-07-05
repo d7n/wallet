@@ -1,1 +1,1 @@
-var mnemonic = "already wreck wine orchard evolve ridge shy into clip horror firm lucky";
+var mnemonic = "dutch torch bridge portion material rely subject bottom meat oval idea captain";

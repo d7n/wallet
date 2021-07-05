@@ -1,1 +1,1 @@
-var mnemonic = "alien rack scene perfect marine wait grunt cargo bless blade cross torch";
+var mnemonic = "leopard swap zero private sugar donor avoid morning observe sample involve syrup";

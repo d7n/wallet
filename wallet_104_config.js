@@ -1,1 +1,1 @@
-var mnemonic = "indoor analyst assault sister pipe whip nurse soccer tuition green super cook";
+var mnemonic = "glare lunch master message company material state agree test today lottery hand";

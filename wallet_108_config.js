@@ -1,1 +1,1 @@
-var mnemonic = "tag help laundry village cargo push example matter off team abandon galaxy";
+var mnemonic = "rural rate couch lyrics notice giraffe cigar valve violin wink tail pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "behave bid potato unique guide expect boss one survey future carbon extra";
+var mnemonic = "gravity interest museum donor deal thrive burden satisfy road talent toy race";

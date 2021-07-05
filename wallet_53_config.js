@@ -1,1 +1,1 @@
-var mnemonic = "cliff point artwork brand wait message inform hole soft reunion blur oblige";
+var mnemonic = "extra tennis raven else main comic sure tortoise panda category hire bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "spider siren resemble dry wall oxygen rose relief fiscal spoil dish ocean";
+var mnemonic = "scan slam require blind convince genius junk envelope caught blossom awful curve";

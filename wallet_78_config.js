@@ -1,1 +1,1 @@
-var mnemonic = "angle twenty place differ surround fatal mercy protect bread dad quarter fashion";
+var mnemonic = "two sketch midnight found spare nuclear guitar husband total slide peace today";

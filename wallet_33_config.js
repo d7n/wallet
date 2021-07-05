@@ -1,1 +1,1 @@
-var mnemonic = "genuine grab decide couple theme cargo dry decade team uniform rookie vital";
+var mnemonic = "slush lunar throw volcano cycle harbor climb bridge uncover venture maple soup";

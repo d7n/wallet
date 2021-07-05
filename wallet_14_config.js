@@ -1,1 +1,1 @@
-var mnemonic = "clean this two emotion venture pave dinosaur impulse solid prepare resource candy";
+var mnemonic = "bargain reason kitchen busy reflect profit chicken renew deposit tenant sleep chef";

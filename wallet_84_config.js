@@ -1,1 +1,1 @@
-var mnemonic = "velvet shoulder kitten genuine lazy bunker top airport vibrant universe fresh harbor";
+var mnemonic = "smooth spray quote city coil oblige chest between bless marriage rib escape";

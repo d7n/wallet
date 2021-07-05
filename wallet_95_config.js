@@ -1,1 +1,1 @@
-var mnemonic = "bonus gorilla mask bronze ostrich venue romance useful doctor country over drum";
+var mnemonic = "donate just love phone distance depart weird inspire remember plate clean square";

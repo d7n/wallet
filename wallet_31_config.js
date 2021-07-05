@@ -1,1 +1,1 @@
-var mnemonic = "delay century cushion piece viable jaguar lucky camera elder link sing express";
+var mnemonic = "van claim language outdoor laptop wasp lonely trust resemble resist tissue popular";

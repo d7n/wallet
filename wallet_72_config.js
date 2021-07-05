@@ -1,1 +1,1 @@
-var mnemonic = "warfare judge syrup mom sight quiz solar comic super glimpse claim link";
+var mnemonic = "cancel tissue museum frame hen lake genuine lend life snake industry tackle";

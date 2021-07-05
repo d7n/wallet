@@ -1,1 +1,1 @@
-var mnemonic = "code rare van huge can fix world below away toy cube fly";
+var mnemonic = "smart pull vivid sense spy boy hockey topic weasel book rebuild green";

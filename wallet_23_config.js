@@ -1,1 +1,1 @@
-var mnemonic = "choose summer ready movie follow kidney leg nation trash news sketch protect";
+var mnemonic = "apart mercy candy decrease expect orchard barrel muscle tongue dash broken exclude";

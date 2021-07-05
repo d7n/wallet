@@ -1,1 +1,1 @@
-var mnemonic = "minute shove funny swap slush repair aware toy sausage film toe over";
+var mnemonic = "innocent oak acoustic mechanic orient upset melt master depth inquiry cluster plate";

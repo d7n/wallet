@@ -1,1 +1,1 @@
-var mnemonic = "sense boat man hundred assist calm close away canal powder decline hedgehog";
+var mnemonic = "frost can prepare disease ten decline soul length hurry drink miracle acid";

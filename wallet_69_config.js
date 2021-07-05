@@ -1,1 +1,1 @@
-var mnemonic = "bitter harbor race wire text mutual pond have drastic three only verb";
+var mnemonic = "monster inner plunge knife uncle panic decade unaware enhance inherit talk tomorrow";

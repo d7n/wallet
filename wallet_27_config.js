@@ -1,1 +1,1 @@
-var mnemonic = "case ten any right chicken ecology burst noodle theme razor race mule";
+var mnemonic = "crime refuse sad illegal alley marine feed eyebrow brother clock solve result";

@@ -1,1 +1,1 @@
-var mnemonic = "believe segment wave oyster middle dragon enhance goddess tragic magic blossom gorilla";
+var mnemonic = "anger decide erosion prepare crunch village labor cycle finger skirt have eagle";

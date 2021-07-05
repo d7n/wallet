@@ -1,1 +1,1 @@
-var mnemonic = "setup february nurse finish present shove enemy kitchen direct group nut negative";
+var mnemonic = "future luggage syrup grocery notable loop stool erosion pony assault coconut average";

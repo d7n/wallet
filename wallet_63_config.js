@@ -1,1 +1,1 @@
-var mnemonic = "romance ketchup ice club sadness conduct north dry cattle slam device kitchen";
+var mnemonic = "broken slush tortoise power excess winner add trade smart priority bread arena";

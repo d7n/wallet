@@ -1,1 +1,1 @@
-var mnemonic = "family vicious section erase wool humor switch school shaft engage novel naive";
+var mnemonic = "junk sand muscle spring address vast glimpse change cruel receive carry place";

@@ -1,1 +1,1 @@
-var mnemonic = "print elite desk arrow drama purchase orchard wheel soda rubber fatal betray";
+var mnemonic = "buyer glow avocado tribe hurry misery coast recycle under flame collect near";

@@ -1,1 +1,1 @@
-var mnemonic = "census drill mobile matrix badge other helmet fantasy mushroom minor okay damage";
+var mnemonic = "rural vapor warrior fit double ranch lake eye happy naive example obvious";

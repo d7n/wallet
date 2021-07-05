@@ -1,1 +1,1 @@
-var mnemonic = "flower sport sort modify topic call flat chief hip ivory copper tag";
+var mnemonic = "youth behave avocado chuckle short life actor monster search zone elephant enroll";

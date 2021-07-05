@@ -1,1 +1,1 @@
-var mnemonic = "sword chef aerobic save observe over increase summer mail switch glory abandon";
+var mnemonic = "spatial grab small cram tornado square office long material child input home";

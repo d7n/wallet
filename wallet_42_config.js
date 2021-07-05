@@ -1,1 +1,1 @@
-var mnemonic = "bench cinnamon beyond soon goddess wagon shell become green message auto junk";
+var mnemonic = "symbol zebra fabric merry flame adult advance pistol rare erase slim rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon gold quality situate agent together people giggle scene debris very sadness";
+var mnemonic = "violin almost kiwi hobby wrist arrive knife turtle piano ability someone lunch";

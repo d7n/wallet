@@ -1,1 +1,1 @@
-var mnemonic = "group spawn turn cram account march marble panic brisk evidence toward clever";
+var mnemonic = "wage acoustic strong cattle bunker twist climb tobacco pill fringe tray flat";

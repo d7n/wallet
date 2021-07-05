@@ -1,1 +1,1 @@
-var mnemonic = "rookie galaxy random awesome false clay fat used race salon anxiety prosper";
+var mnemonic = "rose also matrix punch object antenna smooth burst burger mixture cream anger";

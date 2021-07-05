@@ -1,1 +1,1 @@
-var mnemonic = "betray message swamp action wagon pond screen absent grape hint sauce piano";
+var mnemonic = "dirt range ketchup shadow blanket wise romance visa total sense matter mad";

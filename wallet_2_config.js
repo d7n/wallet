@@ -1,1 +1,1 @@
-var mnemonic = "congress skill razor when advance gate culture trumpet scatter approve credit nurse";
+var mnemonic = "cousin royal lunch light attend palace obtain ship subject orange pass lock";

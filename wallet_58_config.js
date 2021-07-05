@@ -1,1 +1,1 @@
-var mnemonic = "chimney nephew alarm box involve what december faculty auction abandon attend room";
+var mnemonic = "survey spring fan please agree office exercise smile snap brown sausage envelope";

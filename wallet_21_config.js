@@ -1,1 +1,1 @@
-var mnemonic = "stool primary protect spirit boss reject cost pause venue nephew fever undo";
+var mnemonic = "borrow group snow oyster pipe fatal turtle ignore magnet explain truth wash";

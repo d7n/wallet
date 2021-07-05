@@ -1,1 +1,1 @@
-var mnemonic = "announce rely delay menu what crane rubber tired favorite alien shaft certain";
+var mnemonic = "group few copper shoe path gas cause correct call fatal prize law";
