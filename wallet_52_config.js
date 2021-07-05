@@ -1,1 +1,1 @@
-var mnemonic = "million trade mimic urge dust hover balcony suggest eye bounce during dice";
+var mnemonic = "oyster damp worth whisper valid glare enhance wall junk world lumber train";

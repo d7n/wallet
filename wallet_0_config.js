@@ -1,1 +1,1 @@
-var mnemonic = "aunt swim tennis either virus fetch wide document midnight cup pull fragile";
+var mnemonic = "edge gallery arm wood drive broccoli meat lottery quit cook head jaguar";

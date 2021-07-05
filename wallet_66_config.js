@@ -1,1 +1,1 @@
-var mnemonic = "any drip excuse improve law vivid wine wheel lucky label recipe only";
+var mnemonic = "indoor across begin ready gadget muscle deny evolve property until sugar alert";

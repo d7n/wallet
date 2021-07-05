@@ -1,1 +1,1 @@
-var mnemonic = "lift cup payment cloud wedding great mimic afford pear stomach rate found";
+var mnemonic = "picnic hair awesome among put tube decade identify rifle settle roast dawn";

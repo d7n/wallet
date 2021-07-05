@@ -1,1 +1,1 @@
-var mnemonic = "mother base heart embody awesome vote equip know fall review urban smile";
+var mnemonic = "april world dirt cotton lecture lumber bring marriage spirit chicken top angry";

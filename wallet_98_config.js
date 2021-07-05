@@ -1,1 +1,1 @@
-var mnemonic = "inquiry knock film sting document impulse duck error outer topic senior fun";
+var mnemonic = "wink kiss vessel chronic direct scale bulk segment surround mechanic artwork immune";

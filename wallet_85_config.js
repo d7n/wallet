@@ -1,1 +1,1 @@
-var mnemonic = "reason repeat busy under uncover upper puppy weather sheriff despair immune drive";
+var mnemonic = "this choose blood truly say chair smooth supply light sauce trap differ";

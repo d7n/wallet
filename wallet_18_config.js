@@ -1,1 +1,1 @@
-var mnemonic = "warrior actress seed skirt snack supply brand sister apology company box setup";
+var mnemonic = "display ozone point large alien venue inmate hip journey method trouble satisfy";

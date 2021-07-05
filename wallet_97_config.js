@@ -1,1 +1,1 @@
-var mnemonic = "bid change boring there trim profit use witness gym feel gaze stick";
+var mnemonic = "peanut glow toward habit daughter rent tomorrow fault dignity never spell youth";

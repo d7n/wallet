@@ -1,1 +1,1 @@
-var mnemonic = "wood beef camera arch disease vacant armed liar card idea case end";
+var mnemonic = "fame regret picnic uphold seven mystery tone palace skull ginger theme fragile";

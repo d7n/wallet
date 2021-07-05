@@ -1,1 +1,1 @@
-var mnemonic = "bomb key mammal body hazard modify soldier drop unlock hunt digital alien";
+var mnemonic = "now supreme wife book coral manage jazz whip avoid grow style transfer";

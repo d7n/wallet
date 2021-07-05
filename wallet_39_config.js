@@ -1,1 +1,1 @@
-var mnemonic = "island dance wave hockey cable blast page make explain hollow spice truth";
+var mnemonic = "churn vacuum worth cheese else hen curtain coil melody south friend you";

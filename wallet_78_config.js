@@ -1,1 +1,1 @@
-var mnemonic = "female vessel sugar result fog work dry share glance bottom slice morning";
+var mnemonic = "wheel thunder hurdle embody hurry typical melody mansion fold girl giant scheme";

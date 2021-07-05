@@ -1,1 +1,1 @@
-var mnemonic = "vivid fork element pudding grace company render spatial success sample kite hope";
+var mnemonic = "mind boil various excess nothing that health unaware cheese genre yellow solid";

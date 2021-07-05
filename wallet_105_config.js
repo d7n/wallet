@@ -1,1 +1,1 @@
-var mnemonic = "rebel agree category vendor heavy talent table device exchange brain proof slush";
+var mnemonic = "fossil bus admit regular ticket runway train magic crucial follow illness hire";

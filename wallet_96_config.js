@@ -1,1 +1,1 @@
-var mnemonic = "simple daughter lab timber dress point solar sister edit video occur wheat";
+var mnemonic = "program radar amount siren crunch dish replace crumble program raccoon recipe smoke";

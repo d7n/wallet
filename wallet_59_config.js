@@ -1,1 +1,1 @@
-var mnemonic = "record liberty agent ecology boring alpha radar volume echo pill enable hat";
+var mnemonic = "fortune aisle weasel random cake blame expand output monster wolf increase toe";

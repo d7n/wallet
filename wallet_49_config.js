@@ -1,1 +1,1 @@
-var mnemonic = "brand budget addict desk reason canyon general legend pave inhale ball amount";
+var mnemonic = "space enter fantasy raven that skin hedgehog chef perfect horn ahead soda";

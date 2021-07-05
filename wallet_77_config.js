@@ -1,1 +1,1 @@
-var mnemonic = "token address tray phrase media toilet goat rally napkin prize frame rain";
+var mnemonic = "wheel morning bus elite wheat copy actress laptop sniff issue good hospital";

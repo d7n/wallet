@@ -1,1 +1,1 @@
-var mnemonic = "major sport bronze bracket hour race exact paper business drink canvas decrease";
+var mnemonic = "couch mandate enroll then wave area age oyster name deal rescue chase";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle stem before bird exit luxury draw time giraffe viable caught issue";
+var mnemonic = "inner payment cotton purity expect muscle labor crouch message enemy asset stock";

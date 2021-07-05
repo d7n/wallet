@@ -1,1 +1,1 @@
-var mnemonic = "rail buzz rather pupil cross lunar alter unhappy page crime employ broken";
+var mnemonic = "together invite pause reject song connect bridge own all melody pigeon ocean";

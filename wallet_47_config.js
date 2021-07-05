@@ -1,1 +1,1 @@
-var mnemonic = "squeeze pair domain defense salon heavy kiss now emotion damp clarify first";
+var mnemonic = "else survey birth bread organ become pact secret suspect foot fluid drop";

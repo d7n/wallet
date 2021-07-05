@@ -1,1 +1,1 @@
-var mnemonic = "obvious wink bomb because soda profit festival erupt ripple february winter banner";
+var mnemonic = "find wheat park demand onion avocado ensure blind target obvious cluster kid";

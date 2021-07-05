@@ -1,1 +1,1 @@
-var mnemonic = "risk clean hand baby armed symbol story taste account latin puzzle clean";
+var mnemonic = "submit coast mail lamp derive super butter ordinary depth lesson balcony thought";

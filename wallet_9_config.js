@@ -1,1 +1,1 @@
-var mnemonic = "napkin reopen bicycle vintage mercy display robust toward bus nature merry culture";
+var mnemonic = "artist whisper manage dinosaur chase still punch suggest uncover nose virtual fan";

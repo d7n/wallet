@@ -1,1 +1,1 @@
-var mnemonic = "behave hidden puzzle ostrich side mystery outer gloom hotel float hungry pencil";
+var mnemonic = "phone asset table always october dust soul vanish bunker device oxygen license";

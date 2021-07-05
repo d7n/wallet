@@ -1,1 +1,1 @@
-var mnemonic = "deliver physical more lawn pudding manage cannon where beach vault aerobic supply";
+var mnemonic = "wage case enable daring cry increase host broccoli blouse eye toast film";

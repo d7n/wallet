@@ -1,1 +1,1 @@
-var mnemonic = "maid idle this coffee inch number beauty dish panel bracket twist fortune";
+var mnemonic = "time cause chair wasp tree trade certain nuclear basic security evil armed";

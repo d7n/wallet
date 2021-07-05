@@ -1,1 +1,1 @@
-var mnemonic = "patrol dust siren admit box east cabin broccoli inform pitch congress note";
+var mnemonic = "disorder miracle suffer seminar blossom domain usual someone convince amount heavy thing";

@@ -1,1 +1,1 @@
-var mnemonic = "concert snack alley chapter purse desk develop slide spawn potato miss crumble";
+var mnemonic = "desk age super cabin hammer mad smart someone answer decide insane index";

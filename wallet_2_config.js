@@ -1,1 +1,1 @@
-var mnemonic = "universe occur observe toast victory priority mammal fiction fresh unable resemble end";
+var mnemonic = "wood liar girl tip ticket life trip debris fee evolve novel engine";

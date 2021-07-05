@@ -1,1 +1,1 @@
-var mnemonic = "cluster junior brand awful card sketch spell close foam spice basic heart";
+var mnemonic = "label clutch chase rabbit leader setup clog whale one poem simple stage";

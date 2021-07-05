@@ -1,1 +1,1 @@
-var mnemonic = "romance scene donor economy kick discover heavy drip board member expand since";
+var mnemonic = "someone iron assist orient live dinner mention hundred dream north elder retire";

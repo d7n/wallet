@@ -1,1 +1,1 @@
-var mnemonic = "oven onion admit bean network total pony treat veteran manual knee left";
+var mnemonic = "van sound cup faculty update steel extend then search spawn stove wealth";

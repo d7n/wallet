@@ -1,1 +1,1 @@
-var mnemonic = "valid erupt during correct curious merge symbol place kingdom vapor team game";
+var mnemonic = "diamond crash between fame master angle utility aerobic kind apart lab subway";

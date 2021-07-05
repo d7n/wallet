@@ -1,1 +1,1 @@
-var mnemonic = "west moment once govern brother medal logic knee melody gallery egg timber";
+var mnemonic = "close nominee usual despair dwarf behave oval pony random mouse badge learn";

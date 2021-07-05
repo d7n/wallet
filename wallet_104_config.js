@@ -1,1 +1,1 @@
-var mnemonic = "draft hard sunset inch lesson poverty belt magic possible almost creek plate";
+var mnemonic = "school toss process retire express syrup holiday industry potato work eight chief";

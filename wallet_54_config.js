@@ -1,1 +1,1 @@
-var mnemonic = "wet pond diet direct buffalo airport apple police pyramid elegant hobby seven";
+var mnemonic = "wide receive vague runway ancient mother miracle blast swing average decide chapter";

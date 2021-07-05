@@ -1,1 +1,1 @@
-var mnemonic = "motion soup tank allow amount more audit orange antenna wood jeans wrong";
+var mnemonic = "cliff mom invite vague ordinary dose table adult wealth radio holiday near";

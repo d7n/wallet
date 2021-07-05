@@ -1,1 +1,1 @@
-var mnemonic = "trigger scale tuna kick prosper beauty seminar select sustain frown number floor";
+var mnemonic = "sudden click marine leaf capable hire unhappy know joy trend dial romance";

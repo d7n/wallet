@@ -1,1 +1,1 @@
-var mnemonic = "agent ghost hurry canyon iron stock menu exotic capital analyst edge olive";
+var mnemonic = "spoon auto rice pride word ecology truly march worry detect loyal twice";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology season swap usual cereal food shallow muffin spare gentle keep nerve";
+var mnemonic = "vault above mask answer afford cook step road dumb vacuum soft chronic";

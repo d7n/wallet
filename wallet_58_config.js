@@ -1,1 +1,1 @@
-var mnemonic = "gate luggage artist foil lift right common drop own chronic gossip next";
+var mnemonic = "random poet time sport region gas picnic kiss slab almost property soda";

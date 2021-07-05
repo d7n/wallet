@@ -1,1 +1,1 @@
-var mnemonic = "hungry hood above diet gossip sight wrap use drastic quality have unveil";
+var mnemonic = "impulse dutch guess amateur story ensure absurd fat decide today tell cloud";

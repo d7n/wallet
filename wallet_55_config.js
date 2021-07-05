@@ -1,1 +1,1 @@
-var mnemonic = "actor zebra ribbon middle inject moral shrug hammer lottery early buddy supply";
+var mnemonic = "invite person side midnight you edge trash warm begin artwork move just";

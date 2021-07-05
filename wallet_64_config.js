@@ -1,1 +1,1 @@
-var mnemonic = "asthma woman limb occur raw chalk special bundle gown mention credit situate";
+var mnemonic = "deer mushroom sun crush castle across broom original seed crash loop regular";

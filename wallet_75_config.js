@@ -1,1 +1,1 @@
-var mnemonic = "vacuum glow easily island rice profit deliver okay retreat deliver nuclear guilt";
+var mnemonic = "cake pottery bone dragon capable ticket valve salmon vague typical expire object";

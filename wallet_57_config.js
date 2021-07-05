@@ -1,1 +1,1 @@
-var mnemonic = "ability salute monster critic rigid vacant hen cool pair soccer price never";
+var mnemonic = "vote edge hello loud cool country wrist woman broom true project bubble";

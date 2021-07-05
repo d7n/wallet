@@ -1,1 +1,1 @@
-var mnemonic = "rose breeze once hub churn caught card blame front example cruel measure";
+var mnemonic = "pass climb spread impose artefact exchange garbage lucky upgrade patrol involve glory";

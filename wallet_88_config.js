@@ -1,1 +1,1 @@
-var mnemonic = "since canyon baby because harvest ordinary regular magnet romance bomb isolate travel";
+var mnemonic = "bunker erase wrestle bracket rebel permit miss wise invite swamp unhappy clump";

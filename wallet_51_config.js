@@ -1,1 +1,1 @@
-var mnemonic = "either remember country hazard catalog crush neutral deputy winner kite film route";
+var mnemonic = "blood much inmate between section athlete bachelor blade stadium enforce income mirror";

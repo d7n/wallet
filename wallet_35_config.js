@@ -1,1 +1,1 @@
-var mnemonic = "enemy reward veteran flock bacon orchard blast real brisk transfer sudden fence";
+var mnemonic = "scrap arrest budget marine creek wisdom dog hockey bag tank traffic banana";

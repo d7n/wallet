@@ -1,1 +1,1 @@
-var mnemonic = "olive dizzy labor firm wait actual viable tenant problem best tissue situate";
+var mnemonic = "release actor alpha lab cherry moral casual fringe twist jacket enroll loud";

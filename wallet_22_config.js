@@ -1,1 +1,1 @@
-var mnemonic = "hen hunt warfare attitude wild tilt zero mesh dinosaur hollow camp belt";
+var mnemonic = "sort east grant mix auto short chase good license wrong search will";

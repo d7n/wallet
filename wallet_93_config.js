@@ -1,1 +1,1 @@
-var mnemonic = "excess card popular ozone replace dinosaur rapid horror pig hard hobby pole";
+var mnemonic = "indoor mechanic use topple property silver warrior stumble donate industry atom lumber";

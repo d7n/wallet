@@ -1,1 +1,1 @@
-var mnemonic = "fabric matrix jar hand hair quiz member dynamic fruit yellow bread keep";
+var mnemonic = "space topic hood profit cruel drastic harbor upon chronic excess try bitter";

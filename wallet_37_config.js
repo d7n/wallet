@@ -1,1 +1,1 @@
-var mnemonic = "thunder crack kingdom sunset pistol fold dilemma anxiety enforce drift noise already";
+var mnemonic = "news outside area tribe bunker creek law pattern nuclear sphere test frame";

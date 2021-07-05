@@ -1,1 +1,1 @@
-var mnemonic = "hub input wet security deny panic first below cube rifle asthma afford";
+var mnemonic = "neglect bright emerge merry put fine charge situate erosion move cave neck";

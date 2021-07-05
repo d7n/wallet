@@ -1,1 +1,1 @@
-var mnemonic = "access bench wrist strong year quote melt hold hour glue benefit chase";
+var mnemonic = "outer fabric demise tail snap eight ring fetch amount dinner coil river";

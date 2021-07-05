@@ -1,1 +1,1 @@
-var mnemonic = "turn spot humble tourist also exit series legend guilt firm expand left";
+var mnemonic = "dress require senior apology toe robot client shiver chaos casino marine disease";

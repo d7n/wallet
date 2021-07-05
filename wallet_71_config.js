@@ -1,1 +1,1 @@
-var mnemonic = "when sorry clip supreme oxygen tiny venue endless please crush awesome fever";
+var mnemonic = "bomb crew cry corn thought calm claim globe wall use embark deer";

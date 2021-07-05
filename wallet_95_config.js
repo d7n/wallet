@@ -1,1 +1,1 @@
-var mnemonic = "crew brief siege until vital donkey chaos thank speak hollow culture giant";
+var mnemonic = "creek mean journey salad mind middle leg wife six assault element lottery";

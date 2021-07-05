@@ -1,1 +1,1 @@
-var mnemonic = "ghost tenant seat latin tongue you tent desk window panic live skate";
+var mnemonic = "flip vital vibrant call salon virus cool top spray always moment indoor";

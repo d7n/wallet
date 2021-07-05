@@ -1,1 +1,1 @@
-var mnemonic = "start purchase exact fruit supreme fan pottery afford walnut gown nurse bread";
+var mnemonic = "breeze cupboard width certain cruel pluck crumble note potato atom year airport";

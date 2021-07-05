@@ -1,1 +1,1 @@
-var mnemonic = "nothing boil vacuum sustain puppy wet rather half arch build slam local";
+var mnemonic = "possible mesh result priority infant retire pole bargain winter victory pair inmate";

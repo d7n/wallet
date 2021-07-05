@@ -1,1 +1,1 @@
-var mnemonic = "vapor forest swamp wrestle clog defense position oyster never about bird emotion";
+var mnemonic = "logic pretty mention around color benefit innocent second elegant army way bless";

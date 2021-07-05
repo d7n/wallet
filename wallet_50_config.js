@@ -1,1 +1,1 @@
-var mnemonic = "belt erupt penalty nature just day public mimic glow black notable slide";
+var mnemonic = "dutch forget pull earn sample casino comic melt material isolate neither moment";

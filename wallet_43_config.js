@@ -1,1 +1,1 @@
-var mnemonic = "favorite neutral agent craft cup math gun monster oval present pass idea";
+var mnemonic = "extend universe region turkey beyond indicate range pizza eager stumble bounce degree";

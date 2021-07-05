@@ -1,1 +1,1 @@
-var mnemonic = "balcony danger bacon perfect ring detect convince high bottom rare bridge copper";
+var mnemonic = "critic kite shadow pole truck cause raccoon cable fruit catch memory picnic";

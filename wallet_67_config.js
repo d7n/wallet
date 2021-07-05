@@ -1,1 +1,1 @@
-var mnemonic = "tiny bone insane palm grace witness under frequent square opinion purpose update";
+var mnemonic = "garbage race ozone alone mirror client galaxy escape primary gate peanut tank";

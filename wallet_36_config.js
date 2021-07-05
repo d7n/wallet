@@ -1,1 +1,1 @@
-var mnemonic = "million region reason stuff between frozen april arctic decline family pink vacuum";
+var mnemonic = "wait actual seed fashion life edge oil loan valve lend rate rich";

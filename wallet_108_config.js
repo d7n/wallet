@@ -1,1 +1,1 @@
-var mnemonic = "know grape fly fade road exile identify final evidence alarm require crack";
+var mnemonic = "key check question old kick tragic often good piece win near battle";

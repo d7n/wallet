@@ -1,1 +1,1 @@
-var mnemonic = "gather hollow memory peace image need buyer broom brief require chicken panel";
+var mnemonic = "target suspect evil flag great proof patient prevent layer forest edit arrest";

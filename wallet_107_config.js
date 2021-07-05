@@ -1,1 +1,1 @@
-var mnemonic = "captain load property advice turtle kitten bracket border food badge bunker penalty";
+var mnemonic = "sleep rather draft wonder fatal negative heart apple autumn essay carpet top";

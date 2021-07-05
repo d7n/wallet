@@ -1,1 +1,1 @@
-var mnemonic = "focus age forget wagon tourist soft typical beef all stamp stand giraffe";
+var mnemonic = "nose envelope veteran sun night office trim shield plug menu dumb patch";

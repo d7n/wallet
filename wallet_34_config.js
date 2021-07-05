@@ -1,1 +1,1 @@
-var mnemonic = "chunk antique coral display clay grunt exist toss fee inform then frost";
+var mnemonic = "palm trumpet cook paper meat allow opinion lift correct love marriage mountain";

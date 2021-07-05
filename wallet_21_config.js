@@ -1,1 +1,1 @@
-var mnemonic = "ethics vicious truly stamp rural gold window spy pluck hedgehog extra once";
+var mnemonic = "crime deny myth armed girl adjust title clinic aware thumb define cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "pave desk park ring danger there hobby leisure wage ride october lava";
+var mnemonic = "rule junior viable traffic sunset barely sunny ocean reopen lava play polar";

@@ -1,1 +1,1 @@
-var mnemonic = "nest castle dragon cook laundry ability improve patrol trim saddle gift tunnel";
+var mnemonic = "sunny dwarf enhance glad spice depth alter empty expire eight pond labor";

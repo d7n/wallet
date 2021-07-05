@@ -1,1 +1,1 @@
-var mnemonic = "brass teach know style choice scatter setup husband wheat merry knee obtain";
+var mnemonic = "tobacco skate bench neglect pluck lumber dawn possible simple social lunar mistake";

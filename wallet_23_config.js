@@ -1,1 +1,1 @@
-var mnemonic = "wave project agree tomato grab myself host switch mistake prison bright coil";
+var mnemonic = "nuclear trophy vocal gasp boy science moon olive outer diesel local rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "boy organ more seven truly sing drama tape ship primary vocal attract";
+var mnemonic = "soul basket pink liar certain sound crawl aspect trick veteran wood hub";

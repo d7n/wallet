@@ -1,1 +1,1 @@
-var mnemonic = "garden own rather black stay crunch clutch cruel wise law game valley";
+var mnemonic = "same lady wall supply scrap chicken multiply convince melody mother long afford";

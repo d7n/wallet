@@ -1,1 +1,1 @@
-var mnemonic = "recall label offer girl volcano length blade attend moon wealth finger must";
+var mnemonic = "develop olive protect proof virtual poem stone cricket once ancient drop valid";

@@ -1,1 +1,1 @@
-var mnemonic = "replace resemble shield lab puzzle weather nurse spin discover motor ugly congress";
+var mnemonic = "lava rabbit tuna history meadow pupil unknown coffee useful move bean please";
