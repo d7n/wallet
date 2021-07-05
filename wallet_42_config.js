@@ -1,1 +1,1 @@
-var mnemonic = "depend shop ranch slot crop shoe vessel fashion similar snack surge like";
+var mnemonic = "animal parrot voyage issue subway alley venue hero giraffe piece alone witness";

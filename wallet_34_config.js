@@ -1,1 +1,1 @@
-var mnemonic = "despair slam catch frozen love page race piano exhaust prepare jump short";
+var mnemonic = "broken smile modify borrow month knife slam gentle panda poverty happy faith";

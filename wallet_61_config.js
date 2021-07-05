@@ -1,1 +1,1 @@
-var mnemonic = "hunt reject depart toast fetch opera jelly relax syrup trouble core question";
+var mnemonic = "call echo fabric into cram try resist oak mistake account eternal pipe";

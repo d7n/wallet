@@ -1,1 +1,1 @@
-var mnemonic = "spin mad drum cake chronic seminar about satoshi cherry meat gown medal";
+var mnemonic = "volume ancient air flavor library priority problem subway joke else join other";

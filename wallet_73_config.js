@@ -1,1 +1,1 @@
-var mnemonic = "bonus episode net action wealth code animal pottery fat spot orbit devote";
+var mnemonic = "protect diagram mystery pond medal oblige hawk fabric huge digital catch race";

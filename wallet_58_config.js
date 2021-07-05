@@ -1,1 +1,1 @@
-var mnemonic = "taxi muscle volcano couch shed illness alarm food family inhale theme seek";
+var mnemonic = "advance boring abstract sister warfare host enrich worth increase toast next vague";

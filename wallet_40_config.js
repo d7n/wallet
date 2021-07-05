@@ -1,1 +1,1 @@
-var mnemonic = "code mimic cable island detail target blanket name wire science scissors diagram";
+var mnemonic = "submit grit around glare breeze improve eagle rally until shiver tragic noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "profit paper pledge trash scale sketch february leisure polar solve nurse opera";
+var mnemonic = "lion spawn survey destroy field canyon island mystery inherit jewel spend sauce";

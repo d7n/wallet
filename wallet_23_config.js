@@ -1,1 +1,1 @@
-var mnemonic = "business biology begin symptom ship odor near reunion february blue pet wonder";
+var mnemonic = "push join ill swarm monster strategy slush wood plunge action soon utility";

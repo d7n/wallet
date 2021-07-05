@@ -1,1 +1,1 @@
-var mnemonic = "upon record inquiry taxi easily soldier patch bind kitten prison people bamboo";
+var mnemonic = "interest poem sing hello oxygen math swing simple flight ethics solution quit";

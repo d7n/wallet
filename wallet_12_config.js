@@ -1,1 +1,1 @@
-var mnemonic = "embark prosper normal project garment man visual denial matter slush gallery census";
+var mnemonic = "hurt alarm rotate total final dry imitate absorb galaxy anger seminar student";

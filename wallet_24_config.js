@@ -1,1 +1,1 @@
-var mnemonic = "ill zero forum first chimney across easily jump forum judge cannon develop";
+var mnemonic = "destroy attack advice aunt negative net town latin fiber shield verify music";

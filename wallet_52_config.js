@@ -1,1 +1,1 @@
-var mnemonic = "train museum exact chair rare sniff lecture strike rotate record fragile quarter";
+var mnemonic = "figure dynamic barrel stool disorder flat retreat index jump woman gadget goat";

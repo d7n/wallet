@@ -1,1 +1,1 @@
-var mnemonic = "mobile celery glow bitter cry rural infant noble apple mosquito eye enact";
+var mnemonic = "spike lake invite inmate august section devote risk idea vivid young they";

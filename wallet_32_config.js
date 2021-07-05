@@ -1,1 +1,1 @@
-var mnemonic = "define orphan divert flag clerk metal tail gain ketchup curtain puzzle bonus";
+var mnemonic = "grunt metal shove beauty leg fancy ankle salt student crystal chef desk";

@@ -1,1 +1,1 @@
-var mnemonic = "female letter bag twin six dove gravity obvious agent mule ring add";
+var mnemonic = "way connect yard write kiwi pitch desk twin nest convince return inspire";

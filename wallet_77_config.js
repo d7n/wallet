@@ -1,1 +1,1 @@
-var mnemonic = "margin silk chapter lonely chunk jelly album virtual analyst protect cupboard barely";
+var mnemonic = "act above begin subway inform nerve trip review cable kingdom dilemma federal";

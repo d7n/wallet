@@ -1,1 +1,1 @@
-var mnemonic = "ocean thrive force knee dutch divide square tragic garment mouse absorb bundle";
+var mnemonic = "pond whale orchard result hamster fancy camera wrist beef current moment custom";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom clutch cook call piece inform photo initial attack reflect diet truck";
+var mnemonic = "reject gold quiz crawl near village match bring pumpkin brain diamond trick";

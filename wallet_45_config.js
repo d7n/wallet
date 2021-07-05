@@ -1,1 +1,1 @@
-var mnemonic = "feature festival labor warrior brand pledge syrup grunt wonder blast purpose gauge";
+var mnemonic = "force want cross upper room acid order melody vote exotic shoe friend";

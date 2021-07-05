@@ -1,1 +1,1 @@
-var mnemonic = "tell club next add phrase enhance fit tennis glide nose empty such";
+var mnemonic = "cover decide jelly slender bounce now bullet maple hello dirt hat mechanic";

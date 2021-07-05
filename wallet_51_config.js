@@ -1,1 +1,1 @@
-var mnemonic = "paddle unable valve expose olympic trip spoon census crazy start section open";
+var mnemonic = "trouble tell usage nothing shiver train express woman primary hen wood drastic";

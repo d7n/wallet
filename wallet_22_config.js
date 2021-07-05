@@ -1,1 +1,1 @@
-var mnemonic = "duck split head economy stuff cheese clean taste remind good provide gather";
+var mnemonic = "security endless wasp symbol again gym gallery link trade perfect treat barrel";

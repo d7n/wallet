@@ -1,1 +1,1 @@
-var mnemonic = "height ticket matrix stone satisfy document air tell early pig card embrace";
+var mnemonic = "brief enlist ginger fresh edge army drink suit air happy tribe addict";

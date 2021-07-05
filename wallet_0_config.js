@@ -1,1 +1,1 @@
-var mnemonic = "harsh noise menu inspire noble scene item jealous original wrap eternal argue";
+var mnemonic = "upper gate corn arrange cabin leopard exile beyond remind tuna clutch hill";

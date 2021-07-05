@@ -1,1 +1,1 @@
-var mnemonic = "breeze two corn denial asset electric width tent visit wire process budget";
+var mnemonic = "bone hole universe carpet hand swamp tattoo fantasy health pink quarter move";

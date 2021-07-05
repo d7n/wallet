@@ -1,1 +1,1 @@
-var mnemonic = "when image cotton beyond poem toward make aim shift host energy symptom";
+var mnemonic = "process draft joy nephew sun floor destroy silver squirrel enhance guard alien";

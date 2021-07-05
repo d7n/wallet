@@ -1,1 +1,1 @@
-var mnemonic = "coin panther destroy balance team usage impulse page tortoise orbit ketchup dolphin";
+var mnemonic = "vessel exhaust isolate upon mammal size volume tragic fancy satoshi inch retreat";

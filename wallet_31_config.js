@@ -1,1 +1,1 @@
-var mnemonic = "salt dignity lunar aunt cherry cigar mutual wreck wait flash blanket pole";
+var mnemonic = "normal social fresh snap clip honey crime until fatigue leg rule slab";

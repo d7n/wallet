@@ -1,1 +1,1 @@
-var mnemonic = "joke slam wrong bargain speak plate ridge vital large engage people street";
+var mnemonic = "body palm fish cotton arrive input tribe when morning taxi few very";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar extra cactus client minimum much theme diagram urge music organ entry";
+var mnemonic = "science step dwarf blossom prison appear grief bracket fish stuff draw indoor";

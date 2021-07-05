@@ -1,1 +1,1 @@
-var mnemonic = "across text prevent pass earth ask plate universe list erode because venue";
+var mnemonic = "rain speed aspect bless fancy lawn run increase certain peanut asset actor";

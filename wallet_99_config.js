@@ -1,1 +1,1 @@
-var mnemonic = "equal way summer fan helmet squirrel symbol fortune wing spin hold main";
+var mnemonic = "wrong lounge square loud tattoo utility hollow coffee twice gift speak cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "win wage stage swing drum tired private salmon trap until sunset prosper";
+var mnemonic = "chat deal mistake pyramid edit science eyebrow wild subject usual twice tennis";

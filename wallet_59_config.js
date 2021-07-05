@@ -1,1 +1,1 @@
-var mnemonic = "check cross ready notable earn phrase inform crisp noble cup elephant enhance";
+var mnemonic = "wagon sphere army cry area fold trick slab toss enact wedding praise";

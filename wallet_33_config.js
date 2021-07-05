@@ -1,1 +1,1 @@
-var mnemonic = "lyrics aisle obvious work permit hungry now wreck suspect lady reunion below";
+var mnemonic = "hub fiber victory program erase opera suspect point barrel demand blur chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil ball hip staff over crane wink lend tourist near city cushion";
+var mnemonic = "vicious across parade attract sponsor pony edge attack provide laugh lava model";

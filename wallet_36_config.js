@@ -1,1 +1,1 @@
-var mnemonic = "stereo reject onion essence strategy develop present space rude luggage pool army";
+var mnemonic = "pepper funny artist color relief west stay term evil game zebra almost";

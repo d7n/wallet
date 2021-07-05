@@ -1,1 +1,1 @@
-var mnemonic = "action double moral coach script inside minor champion lion sugar lamp gesture";
+var mnemonic = "manual develop slogan apology away milk slogan devote jaguar alter mammal service";

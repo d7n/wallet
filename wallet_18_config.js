@@ -1,1 +1,1 @@
-var mnemonic = "switch victory board rebuild tongue era melt exchange coin shrug guilt grit";
+var mnemonic = "learn loop seat position click broken funny manual rural edge diet yard";

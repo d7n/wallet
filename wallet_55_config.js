@@ -1,1 +1,1 @@
-var mnemonic = "magic neglect foot rebel must biology basket bundle industry patch service fetch";
+var mnemonic = "aisle mutual holiday turn future loyal talent exhibit search pitch song cruise";

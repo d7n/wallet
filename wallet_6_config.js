@@ -1,1 +1,1 @@
-var mnemonic = "spice sign employ tape affair three crime catch tenant captain stand gadget";
+var mnemonic = "polar employ adapt bring chase silver thrive endless fury march reject easily";

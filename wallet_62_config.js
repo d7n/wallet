@@ -1,1 +1,1 @@
-var mnemonic = "card frost dash grant south gas green buffalo absorb bulb smoke artefact";
+var mnemonic = "snack tenant spend civil trim what quote purse answer sustain later strategy";

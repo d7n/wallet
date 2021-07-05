@@ -1,1 +1,1 @@
-var mnemonic = "cargo brisk bottom learn solid inmate hen admit body average goose switch";
+var mnemonic = "swing quit blossom drive column account pair welcome hidden spice cram harvest";

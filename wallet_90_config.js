@@ -1,1 +1,1 @@
-var mnemonic = "square zone version entire decade again guitar boy soon gold project reflect";
+var mnemonic = "stay leopard drum twin bubble quick salon artefact inherit lift lottery hammer";

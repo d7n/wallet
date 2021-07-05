@@ -1,1 +1,1 @@
-var mnemonic = "fiscal ecology drink prepare clutch message card photo inner pipe fresh winner";
+var mnemonic = "actress negative pepper erosion syrup good seed master weekend peasant ancient banner";

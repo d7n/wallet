@@ -1,1 +1,1 @@
-var mnemonic = "afford path plate sand frog boring novel elite giraffe token owner youth";
+var mnemonic = "riot situate inquiry property riot ribbon crew eternal express tuition point inside";

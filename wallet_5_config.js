@@ -1,1 +1,1 @@
-var mnemonic = "column jaguar snack soul mask menu tiger skill hint sunset seven rubber";
+var mnemonic = "girl budget tiger more general aim stone asset boat notable cable direct";

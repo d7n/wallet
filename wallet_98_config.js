@@ -1,1 +1,1 @@
-var mnemonic = "slot police social vast shoulder insect extra student front hobby inch slender";
+var mnemonic = "emotion skin parent square fee market cycle tennis insect earn episode miss";

@@ -1,1 +1,1 @@
-var mnemonic = "seed sign crop drastic world parent eternal oyster nut put bus example";
+var mnemonic = "page staff sense divorce vessel clutch mansion picture paddle range silk deposit";

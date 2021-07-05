@@ -1,1 +1,1 @@
-var mnemonic = "feed grunt often april weasel can candy orchard error matter palace sunny";
+var mnemonic = "kid flame elephant holiday auto gorilla produce lion lawn beef couple maximum";

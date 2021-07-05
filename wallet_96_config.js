@@ -1,1 +1,1 @@
-var mnemonic = "strong pilot bacon worry know stick sad clean wall will divide excite";
+var mnemonic = "divert today man grow blade family census brass sell purchase shock coast";

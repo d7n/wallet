@@ -1,1 +1,1 @@
-var mnemonic = "debate fog wet crouch detail sniff always text analyst lake high grief";
+var mnemonic = "tornado million once west onion lobster sell reopen frozen empty foam civil";

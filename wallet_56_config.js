@@ -1,1 +1,1 @@
-var mnemonic = "science regular virtual burst illegal blue knee act exhibit speak brass ramp";
+var mnemonic = "trash guard vast ignore connect wrap dawn labor oven horror old balance";

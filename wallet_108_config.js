@@ -1,1 +1,1 @@
-var mnemonic = "sell lens custom clap prosper easily bargain scorpion pluck hammer word balance";
+var mnemonic = "south ski course pattern hip phone humor right genre embrace behind tilt";

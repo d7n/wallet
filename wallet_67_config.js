@@ -1,1 +1,1 @@
-var mnemonic = "beef canoe little airport claim real unhappy predict produce elite thought screen";
+var mnemonic = "vintage cart grid lab fitness decrease thing fee where plunge paddle voice";

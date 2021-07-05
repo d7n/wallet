@@ -1,1 +1,1 @@
-var mnemonic = "thing federal exile useless apple dragon frog luggage baby keep inch dove";
+var mnemonic = "view gun december smooth milk reason mixed gown labor sunny vote cram";

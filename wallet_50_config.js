@@ -1,1 +1,1 @@
-var mnemonic = "miracle good cause circle uniform match patrol blouse random debris script immune";
+var mnemonic = "seed crucial captain joke rebel dumb situate wide broom hen mad night";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet syrup level december coyote often crash sense diamond siren butter grid";
+var mnemonic = "obvious yard match ask rhythm bar blind beyond curtain hen recycle soccer";

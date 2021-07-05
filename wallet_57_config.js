@@ -1,1 +1,1 @@
-var mnemonic = "wine kiss infant sense brother protect luggage mimic text hockey pyramid surround";
+var mnemonic = "divide arrow wool online glad yard loan logic file wrap reason armed";

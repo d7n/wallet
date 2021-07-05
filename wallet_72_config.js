@@ -1,1 +1,1 @@
-var mnemonic = "embody mandate outdoor arch utility police ramp when bargain weapon alcohol cancel";
+var mnemonic = "alley cliff arena mouse roof defy slow shell polar vacant worth bullet";

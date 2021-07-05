@@ -1,1 +1,1 @@
-var mnemonic = "liquid machine nut tube romance belt angle rate coin ginger wrong horn";
+var mnemonic = "view prison rail reopen text release denial inflict frog extra action device";

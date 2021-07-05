@@ -1,1 +1,1 @@
-var mnemonic = "surround car orient original embody uniform over genre evidence tourist sight inmate";
+var mnemonic = "remove pill coach double purse response concert audit glare trophy fame bracket";

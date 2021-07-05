@@ -1,1 +1,1 @@
-var mnemonic = "other novel shove seed resist human cruel furnace minute reduce cherry protect";
+var mnemonic = "egg arch salute jump vicious bird stereo little entry tree purse dial";

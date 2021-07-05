@@ -1,1 +1,1 @@
-var mnemonic = "peanut tip found fruit evidence combine stove system crisp canvas fashion laugh";
+var mnemonic = "poem bulb limit strategy loop excess manage gas fit toddler rose flower";

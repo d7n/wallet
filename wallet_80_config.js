@@ -1,1 +1,1 @@
-var mnemonic = "lens symptom shell acoustic fit slim angle donor color oak similar collect";
+var mnemonic = "pistol behind thought web puzzle sing raven organ swift praise conduct short";

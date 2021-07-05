@@ -1,1 +1,1 @@
-var mnemonic = "educate busy surprise egg school tiger arena size double autumn gym more";
+var mnemonic = "cry powder library gown sure mushroom team return same radio potato network";

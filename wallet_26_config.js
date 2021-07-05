@@ -1,1 +1,1 @@
-var mnemonic = "rain oyster peanut simple require limit trial brain between photo tank sun";
+var mnemonic = "earth manage grace bread ivory supreme credit oxygen asthma success leisure appear";

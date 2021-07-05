@@ -1,1 +1,1 @@
-var mnemonic = "morning page open video aerobic ski rally alarm office view rent april";
+var mnemonic = "strategy ramp habit weather plate faint better frequent female reveal arch safe";

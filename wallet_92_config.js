@@ -1,1 +1,1 @@
-var mnemonic = "upper vacant saddle permit convince obvious either zero dawn deputy crack security";
+var mnemonic = "group skirt deposit ghost pet employ neck spike middle bike thrive ladder";

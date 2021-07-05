@@ -1,1 +1,1 @@
-var mnemonic = "search candy snake collect craft situate almost soldier thought throw include plug";
+var mnemonic = "area present topic syrup actual assume visual swim retreat give accident monster";

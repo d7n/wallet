@@ -1,1 +1,1 @@
-var mnemonic = "run quantum fine walnut lesson bless ceiling depend walnut degree increase seat";
+var mnemonic = "magnet person lens powder parrot focus social together enter work easily hunt";

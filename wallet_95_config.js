@@ -1,1 +1,1 @@
-var mnemonic = "infant salt raise spike okay author drama involve you cigar arrive plate";
+var mnemonic = "rude hire state nerve patch logic flat price again grit loyal isolate";

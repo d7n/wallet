@@ -1,1 +1,1 @@
-var mnemonic = "bike leg hole mandate impulse please recall gloom coconut truly reunion riot";
+var mnemonic = "subway chase hollow result deputy omit tool drama dumb hospital worth digital";

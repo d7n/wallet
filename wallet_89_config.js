@@ -1,1 +1,1 @@
-var mnemonic = "tape trend flame people frozen rely empower angle baby prosper key limb";
+var mnemonic = "beauty marriage trophy helmet output hobby frog purity august dirt cigar enemy";

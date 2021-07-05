@@ -1,1 +1,1 @@
-var mnemonic = "south color illegal rate cycle father shrimp duty shop grit myself enemy";
+var mnemonic = "choose best gorilla people gospel member height equal make tomato artefact family";

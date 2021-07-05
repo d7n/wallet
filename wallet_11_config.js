@@ -1,1 +1,1 @@
-var mnemonic = "trial scan neglect dad favorite select gesture plunge upon noble muffin prepare";
+var mnemonic = "sunny often diagram gown crane swift debris mask improve reduce faith hat";

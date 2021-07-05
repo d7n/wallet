@@ -1,1 +1,1 @@
-var mnemonic = "garlic rigid episode cram candy access capable ready enrich salad subway legend";
+var mnemonic = "flock toy saddle web wool club shift lady draw tiny firm dream";

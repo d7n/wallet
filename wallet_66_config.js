@@ -1,1 +1,1 @@
-var mnemonic = "resist salmon oxygen club clerk sudden snack promote put boat wonder regret";
+var mnemonic = "lake stool below orange mansion sleep rebel depth enroll away glide old";

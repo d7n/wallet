@@ -1,1 +1,1 @@
-var mnemonic = "champion student trust glare flash sunny top anchor force display school man";
+var mnemonic = "cancel choice gas yard tunnel scorpion regular glass impact gadget potato among";

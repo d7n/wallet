@@ -1,1 +1,1 @@
-var mnemonic = "barely runway fault supreme nut fold version neither net vendor wink license";
+var mnemonic = "door budget abuse beach rich unable laptop mad awkward praise casual recycle";

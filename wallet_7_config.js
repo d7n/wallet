@@ -1,1 +1,1 @@
-var mnemonic = "false agree sketch smile debris expand disease heavy view episode insect rice";
+var mnemonic = "ancient sun void monitor because kind call grid vacuum force garment pride";

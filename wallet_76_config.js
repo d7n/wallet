@@ -1,1 +1,1 @@
-var mnemonic = "few tissue dash coyote harsh heavy already hungry abuse canal way together";
+var mnemonic = "august assume split number exhibit smile depend fetch deer holiday muscle mix";

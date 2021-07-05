@@ -1,1 +1,1 @@
-var mnemonic = "trouble civil wet quick cram silver tree credit wet direct eight cruise";
+var mnemonic = "hollow choice own phone very egg spread breeze tissue foster ride armor";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce desert flash obscure sight grass mystery vivid glide theme burger giraffe";
+var mnemonic = "mule cousin clutch obvious again assault tongue bulb kitchen right income betray";

@@ -1,1 +1,1 @@
-var mnemonic = "kind soon fit luxury truth inspire echo all better person since chase";
+var mnemonic = "salad year bird disorder glory castle cloth dust fun lucky assist poverty";

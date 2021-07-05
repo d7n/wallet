@@ -1,1 +1,1 @@
-var mnemonic = "surprise rose brass battle forest code toward choose level grace giggle shiver";
+var mnemonic = "phrase honey erupt acid slam clay wrong invite gloom clever crazy never";

@@ -1,1 +1,1 @@
-var mnemonic = "famous august return venue system chef message wet already modify slam impact";
+var mnemonic = "rich update kiwi hungry absorb sick sorry group truck display alarm front";

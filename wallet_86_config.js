@@ -1,1 +1,1 @@
-var mnemonic = "orient fade cook fame sunset oval infant pattern link jaguar bachelor rough";
+var mnemonic = "bacon federal debris ten sell remove early loop witness boat empty team";

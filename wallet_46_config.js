@@ -1,1 +1,1 @@
-var mnemonic = "smoke royal month crane same cereal win together body radio display tragic";
+var mnemonic = "orphan merge sleep oxygen control miracle announce puzzle can segment later surge";

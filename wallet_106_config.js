@@ -1,1 +1,1 @@
-var mnemonic = "interest social game phone shaft demise pencil word innocent thunder domain logic";
+var mnemonic = "glare tunnel you carry ignore exile orient worry frog metal sea absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "chase annual security because repeat language trial task alcohol poem breeze comic";
+var mnemonic = "diagram then salmon panther prison cattle light expose donor check chimney monkey";
