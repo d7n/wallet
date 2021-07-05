@@ -1,1 +1,1 @@
-var mnemonic = "victory cheap remember shock route shy absorb visit august debris payment danger";
+var mnemonic = "stadium minute unknown false hair abuse kingdom tomorrow key tonight ceiling select";

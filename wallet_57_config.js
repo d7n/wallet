@@ -1,1 +1,1 @@
-var mnemonic = "canyon secret pause hollow topple second lumber deputy oyster intact young music";
+var mnemonic = "swarm panda cushion toast wolf satoshi post business salt chest true promote";

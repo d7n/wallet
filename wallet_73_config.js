@@ -1,1 +1,1 @@
-var mnemonic = "cute orbit paddle ginger mention display spawn napkin collect bus acid stool";
+var mnemonic = "custom napkin achieve crash option combine hello digital slim sweet inquiry fun";

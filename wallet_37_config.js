@@ -1,1 +1,1 @@
-var mnemonic = "prefer chalk room exact clump urge enable material sight slush kitchen shed";
+var mnemonic = "wage tip suffer settle tiny hawk little barely sleep valley laugh charge";

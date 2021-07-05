@@ -1,1 +1,1 @@
-var mnemonic = "kit menu dad scorpion destroy ordinary region expose potato embark current bitter";
+var mnemonic = "vacant arm ability eye grunt tray venue hunt surround vapor ribbon double";

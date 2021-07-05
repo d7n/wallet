@@ -1,1 +1,1 @@
-var mnemonic = "imitate person wrist sad chef suffer beauty inquiry weapon forward pluck silver";
+var mnemonic = "room clock mind have neck fitness pony window tornado island sausage husband";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel blind organ clay crazy resemble charge joke hamster nerve people oak";
+var mnemonic = "case sad recycle mechanic trip axis girl topic front cousin input patrol";

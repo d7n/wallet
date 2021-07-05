@@ -1,1 +1,1 @@
-var mnemonic = "pond win virus wrestle limit able thing resource gossip apology marriage match";
+var mnemonic = "trumpet seed mercy click liberty find chase thank dad become control ethics";

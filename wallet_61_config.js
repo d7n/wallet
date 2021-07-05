@@ -1,1 +1,1 @@
-var mnemonic = "suggest muscle collect antenna gospel thrive angry village dynamic project cattle across";
+var mnemonic = "hawk culture kid wrist waste fruit spatial vocal tray ecology all boat";

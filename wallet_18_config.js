@@ -1,1 +1,1 @@
-var mnemonic = "reason unit ketchup lizard stomach limb run pottery bulb sing reduce attend";
+var mnemonic = "yellow situate witness argue magic comic rude decide fossil cloud city scout";

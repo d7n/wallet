@@ -1,1 +1,1 @@
-var mnemonic = "tonight pyramid nephew guide popular hidden buzz sword echo pull win vast";
+var mnemonic = "want february bid online craft walk what bread tip fold labor valid";

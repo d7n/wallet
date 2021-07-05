@@ -1,1 +1,1 @@
-var mnemonic = "bicycle gentle divert draft goose maid oxygen erase mail bone loud scissors";
+var mnemonic = "slush aisle provide juice canvas dad grid extend fade common club bachelor";

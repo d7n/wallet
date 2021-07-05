@@ -1,1 +1,1 @@
-var mnemonic = "vague clap guard eager beyond toddler wear tired fee drastic cute shield";
+var mnemonic = "garbage discover supply gorilla boat junior segment country annual type sister casino";

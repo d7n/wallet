@@ -1,1 +1,1 @@
-var mnemonic = "term amount thought general inner balance betray afraid fire minor inform human";
+var mnemonic = "drum light marble burden amused wall garage jump about pause immense carry";

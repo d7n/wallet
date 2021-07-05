@@ -1,1 +1,1 @@
-var mnemonic = "innocent silent flavor shaft main hospital minimum also cloth pilot loud mimic";
+var mnemonic = "report enact virtual forest start agree jeans approve earn energy opera vapor";

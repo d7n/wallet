@@ -1,1 +1,1 @@
-var mnemonic = "sleep pudding heart toward absent town employ happy warrior hip lock erupt";
+var mnemonic = "taste spike winner choose taste limit receive more prison soup repeat uphold";

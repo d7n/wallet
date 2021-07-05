@@ -1,1 +1,1 @@
-var mnemonic = "tail nest six brush aspect impulse feel degree ill render world muffin";
+var mnemonic = "ridge awkward frequent sting forget spy donkey hover light punch actual talk";

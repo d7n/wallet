@@ -1,1 +1,1 @@
-var mnemonic = "city north fiscal actress donate speed laundry bundle grow pet alarm ranch";
+var mnemonic = "dish thank option miracle matter kit young matter youth elevator brain dizzy";

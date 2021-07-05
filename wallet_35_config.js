@@ -1,1 +1,1 @@
-var mnemonic = "license boat artefact orient impulse foot lunch play sheriff timber cat replace";
+var mnemonic = "genius lyrics scout electric boring clean tilt peasant before photo record recall";

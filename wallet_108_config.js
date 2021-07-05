@@ -1,1 +1,1 @@
-var mnemonic = "smile view trumpet net viable private enforce wall patrol champion want equip";
+var mnemonic = "regular random swear food defense fluid chapter wolf page donkey emerge monkey";

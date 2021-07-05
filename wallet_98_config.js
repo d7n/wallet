@@ -1,1 +1,1 @@
-var mnemonic = "ensure dad clutch hope tonight either push expand wise ethics birth glass";
+var mnemonic = "turkey domain price ring crawl skull black century tourist purchase alley solution";

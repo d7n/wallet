@@ -1,1 +1,1 @@
-var mnemonic = "become warrior stereo month slot cream submit letter surge fury silly hood";
+var mnemonic = "inject snow harbor onion ordinary velvet flip provide retreat embody spell night";

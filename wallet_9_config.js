@@ -1,1 +1,1 @@
-var mnemonic = "pulse audit trust screen able horse purchase rose put salad soft video";
+var mnemonic = "tobacco butter chicken expect cactus crawl chest high amount impact sibling trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "urge skull despair cluster near jelly width special insect black attitude live";
+var mnemonic = "post embark settle abuse festival feature runway increase tree pull song crime";

@@ -1,1 +1,1 @@
-var mnemonic = "rather glass axis easily nurse runway radio party monitor evil crop ripple";
+var mnemonic = "claim rabbit diamond will rotate rhythm round property forget vacuum mobile rough";

@@ -1,1 +1,1 @@
-var mnemonic = "hire resemble relax copper behave burger pulp educate change slush waste concert";
+var mnemonic = "hen maple humor mansion sand dilemma hazard session switch uncover bargain coin";

@@ -1,1 +1,1 @@
-var mnemonic = "brand captain cruel enter clerk woman club economy use between float abstract";
+var mnemonic = "shine hat screen slender wool delay purchase iron enjoy close air work";

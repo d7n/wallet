@@ -1,1 +1,1 @@
-var mnemonic = "spend bench metal asthma wedding scheme donate tumble wash force conduct gold";
+var mnemonic = "banner twelve swim swift strategy language effort result recall awake clinic blast";

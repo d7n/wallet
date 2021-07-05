@@ -1,1 +1,1 @@
-var mnemonic = "uniform apology venture poem disorder burden negative sustain steel slab timber myself";
+var mnemonic = "hip bounce escape bargain bulb quit unveil matrix leopard similar coach solid";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery ignore menu spread strong vague merit trial fiber adapt spread minor";
+var mnemonic = "clerk update belt resource athlete stove radio any elbow coyote thunder report";

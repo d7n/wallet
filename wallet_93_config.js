@@ -1,1 +1,1 @@
-var mnemonic = "candy tuna sponsor case chase toy orange swap dirt garbage response card";
+var mnemonic = "wrestle step update leg venture custom wasp absorb mandate excuse actual bright";

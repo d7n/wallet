@@ -1,1 +1,1 @@
-var mnemonic = "nuclear board real great snake pepper honey skate chapter sphere term benefit";
+var mnemonic = "ring famous shoot exhaust hollow silent sign genius blush catch recall estate";

@@ -1,1 +1,1 @@
-var mnemonic = "rural make wet velvet vanish any grass hover material share badge female";
+var mnemonic = "loop blue disagree health either entry witness horn cupboard onion spread profit";

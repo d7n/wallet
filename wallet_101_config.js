@@ -1,1 +1,1 @@
-var mnemonic = "hotel local second clarify cream birth silly bread early balance short connect";
+var mnemonic = "scatter grab sell mail impose pink please number used media grass boss";

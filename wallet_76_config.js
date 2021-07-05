@@ -1,1 +1,1 @@
-var mnemonic = "file swear confirm property street slender isolate sick express great nut bind";
+var mnemonic = "equip uniform accuse birth slam oval evolve change satoshi hard burst original";

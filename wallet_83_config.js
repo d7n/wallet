@@ -1,1 +1,1 @@
-var mnemonic = "false ketchup release subway bulb equal erosion barely unlock fringe build divorce";
+var mnemonic = "business injury identify worth idle protect surge logic rib warm replace flag";

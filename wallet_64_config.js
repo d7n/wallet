@@ -1,1 +1,1 @@
-var mnemonic = "current device addict thing admit property reason source grass burst slush rare";
+var mnemonic = "produce myself again physical sword demise win alcohol sand guilt abandon palace";

@@ -1,1 +1,1 @@
-var mnemonic = "brain dizzy cube steak rich neck easy gauge old ready pistol armor";
+var mnemonic = "boost tell path safe coral video cloud pole wish change when segment";

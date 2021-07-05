@@ -1,1 +1,1 @@
-var mnemonic = "siege join bubble client brush nephew detail subway reveal erode doctor soldier";
+var mnemonic = "muffin cradle weekend fiction depart praise young patient multiply ethics visit shadow";

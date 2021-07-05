@@ -1,1 +1,1 @@
-var mnemonic = "garlic chunk energy cereal expose window fog ranch lamp bronze furnace vague";
+var mnemonic = "media aisle naive fall jealous leaf absorb ketchup casual pass fine brain";

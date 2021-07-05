@@ -1,1 +1,1 @@
-var mnemonic = "peasant sorry person reflect useful elephant rather link wealth excite cram mention";
+var mnemonic = "caution myself enable spread exclude way midnight stock judge leisure river grunt";

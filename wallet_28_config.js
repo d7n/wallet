@@ -1,1 +1,1 @@
-var mnemonic = "eager warrior body panel surround regular profit melt swamp trash nasty stick";
+var mnemonic = "speak twist fossil torch adult claim feature game joy fly they waste";

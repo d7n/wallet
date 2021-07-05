@@ -1,1 +1,1 @@
-var mnemonic = "pact slush boat before suspect bone undo off demise dwarf remain dutch";
+var mnemonic = "silver tuna avoid pig embody suspect clip pitch unveil song absurd miracle";

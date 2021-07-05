@@ -1,1 +1,1 @@
-var mnemonic = "liar shy genre height electric taxi length daughter purpose trap claw anchor";
+var mnemonic = "neutral fitness obvious script object weird space filter limit dismiss skirt balcony";

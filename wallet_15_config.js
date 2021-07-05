@@ -1,1 +1,1 @@
-var mnemonic = "possible deliver snake shoot list canal write unable pill boost uphold bind";
+var mnemonic = "illness protect blast debate dog logic eyebrow wash total stove nature scene";

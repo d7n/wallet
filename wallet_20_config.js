@@ -1,1 +1,1 @@
-var mnemonic = "angry exit identify play gaze where arctic balance win nasty cause consider";
+var mnemonic = "culture trap liberty fit movie book burst leg salad debate wire sunset";

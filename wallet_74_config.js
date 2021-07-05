@@ -1,1 +1,1 @@
-var mnemonic = "bright round voyage resemble catalog december solid wonder account property stumble casino";
+var mnemonic = "various silk unveil soup you obey innocent quit dove found brick rival";

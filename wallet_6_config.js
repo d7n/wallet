@@ -1,1 +1,1 @@
-var mnemonic = "connect embrace rival oil salon rather region ride never range tail fold";
+var mnemonic = "claim uniform neutral orphan gun you make fun tower horror enlist mango";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt broken copper project clerk hundred census normal unique skirt angle ship";
+var mnemonic = "finger token pepper enrich chronic universe total romance random jaguar defense raven";

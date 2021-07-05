@@ -1,1 +1,1 @@
-var mnemonic = "pull tourist position pass health advance busy pen must hope under loop";
+var mnemonic = "detect pumpkin cereal cradle bitter make innocent smoke civil exist squirrel scout";

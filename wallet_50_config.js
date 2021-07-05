@@ -1,1 +1,1 @@
-var mnemonic = "inflict muffin chuckle slab best zero junk win secret moon purchase mechanic";
+var mnemonic = "equal alert term cherry actual giggle liar shield snake sweet inside layer";

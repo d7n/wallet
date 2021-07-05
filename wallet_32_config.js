@@ -1,1 +1,1 @@
-var mnemonic = "wild basic gadget leaf tray width breeze corn dirt victory ankle core";
+var mnemonic = "draw parrot slush busy despair language box total egg wing wet power";

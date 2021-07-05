@@ -1,1 +1,1 @@
-var mnemonic = "vapor cluster piece limit clock art forward sight author stick chimney glory";
+var mnemonic = "shift wing latin panic shaft figure supreme woman night mother tourist heart";

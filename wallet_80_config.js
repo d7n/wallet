@@ -1,1 +1,1 @@
-var mnemonic = "live mind smoke onion face will bone edit basic hat unknown sniff";
+var mnemonic = "explain mask rely require viable lawn brave rural series silk agree myth";

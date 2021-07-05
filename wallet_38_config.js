@@ -1,1 +1,1 @@
-var mnemonic = "panel high jaguar rifle collect believe swing fitness must radar enemy cause";
+var mnemonic = "minor kidney wrist congress leg until junior indicate shock curve grab future";

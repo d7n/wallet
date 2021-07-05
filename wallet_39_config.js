@@ -1,1 +1,1 @@
-var mnemonic = "broom catch use twin soldier minor spend century skill grid dumb tilt";
+var mnemonic = "guard until nose valve cool pilot ten keen mule sound parade curtain";

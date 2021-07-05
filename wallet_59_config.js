@@ -1,1 +1,1 @@
-var mnemonic = "energy unhappy exclude december empower correct fish letter engine worth library daughter";
+var mnemonic = "venue ghost useless help leg meat snake arctic inside accident tornado off";

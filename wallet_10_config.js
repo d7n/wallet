@@ -1,1 +1,1 @@
-var mnemonic = "orange cause patch fish brief element fame tenant custom butter life key";
+var mnemonic = "puppy key peasant return virus measure wagon venue inquiry news wild around";

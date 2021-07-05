@@ -1,1 +1,1 @@
-var mnemonic = "west unusual lizard angle rice state pill remind limit opera crane frame";
+var mnemonic = "behind eight sample ecology music dove axis wedding volume ill surprise tip";

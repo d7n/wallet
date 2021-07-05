@@ -1,1 +1,1 @@
-var mnemonic = "delay execute kind atom vibrant box organ sort fox shiver prepare twice";
+var mnemonic = "syrup garden glide word gospel repeat key music near history mass ramp";

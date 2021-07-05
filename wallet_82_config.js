@@ -1,1 +1,1 @@
-var mnemonic = "tenant grocery east bronze accuse scene earn clap history risk field swarm";
+var mnemonic = "hockey arrest always achieve unknown renew exclude silly process middle vacuum idle";

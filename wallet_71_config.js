@@ -1,1 +1,1 @@
-var mnemonic = "grief woman sauce inside enhance museum hammer play film nest kit turtle";
+var mnemonic = "feature fossil expand bargain mention wasp lunch fiction gasp brand spirit orange";

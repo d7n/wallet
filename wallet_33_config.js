@@ -1,1 +1,1 @@
-var mnemonic = "corn steel split lottery machine sphere element receive mandate crunch fashion near";
+var mnemonic = "trouble olympic tragic gallery tourist charge giraffe cereal bounce slice bicycle olympic";

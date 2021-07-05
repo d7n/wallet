@@ -1,1 +1,1 @@
-var mnemonic = "width case carry dynamic girl magic teach frequent horse begin copper chunk";
+var mnemonic = "voyage route puzzle entire chair conduct pig enact ability vote one explain";

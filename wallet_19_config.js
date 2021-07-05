@@ -1,1 +1,1 @@
-var mnemonic = "often return mixed remove plate narrow legal diamond rally math view swing";
+var mnemonic = "giraffe mushroom risk bottom vanish setup panic head reveal hold wire cancel";

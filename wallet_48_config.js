@@ -1,1 +1,1 @@
-var mnemonic = "away clever voyage scrub glad cradle brick ostrich source tobacco forum egg";
+var mnemonic = "bread wood amused aerobic oak creek you border pepper stuff just process";

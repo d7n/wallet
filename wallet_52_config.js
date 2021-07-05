@@ -1,1 +1,1 @@
-var mnemonic = "scene universe off topic lady cousin they mercy bundle task broken sentence";
+var mnemonic = "friend noble gasp zero employ crucial insane autumn scout cost trouble orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler problem morning illegal child cycle night safe ribbon control drip produce";
+var mnemonic = "boy moment half main wagon method gossip stool drive ocean invest zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "better urban illegal globe snow coast gift cabin creek enhance eternal trophy";
+var mnemonic = "raccoon fuel evil rocket proof invest sausage believe private bronze unhappy vault";

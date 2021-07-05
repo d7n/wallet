@@ -1,1 +1,1 @@
-var mnemonic = "kingdom behind sick mammal federal hidden bamboo nothing wear juice fitness thrive";
+var mnemonic = "file ancient share laptop escape strong knock live short explain reject reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty uphold any library proof spider salute cloud two cherry inside kite";
+var mnemonic = "praise dice draft canyon ring hospital payment zebra saddle eyebrow catch mountain";

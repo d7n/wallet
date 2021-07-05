@@ -1,1 +1,1 @@
-var mnemonic = "try guide universe often cattle typical olive forget budget maze grass spoon";
+var mnemonic = "palace blood crunch city pig vote audit method hood final box obscure";

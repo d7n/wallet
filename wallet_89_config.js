@@ -1,1 +1,1 @@
-var mnemonic = "brick novel any unknown trade notable cat dismiss eternal chicken another wealth";
+var mnemonic = "clarify urban pistol renew issue steel various draw okay adult gift digital";

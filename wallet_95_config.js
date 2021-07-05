@@ -1,1 +1,1 @@
-var mnemonic = "boy dust name april pass okay educate fault jeans horror increase auction";
+var mnemonic = "mixed deal obvious cost normal patch upper crumble huge exhibit oil image";

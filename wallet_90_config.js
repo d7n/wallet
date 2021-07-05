@@ -1,1 +1,1 @@
-var mnemonic = "garlic alter tissue chronic solution wrap nest vote blast moon purchase bamboo";
+var mnemonic = "giant field letter scout grunt this token caught swap present alley please";

@@ -1,1 +1,1 @@
-var mnemonic = "sort license review quantum forest sponsor gap clump human vacuum metal fee";
+var mnemonic = "staff asset flavor caught popular year culture youth strong defy alpha rude";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish again dirt legend bounce gain used fiber engage obey margin phone";
+var mnemonic = "black library oxygen same make sunset toward save blanket hope crush pigeon";

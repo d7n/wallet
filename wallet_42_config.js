@@ -1,1 +1,1 @@
-var mnemonic = "note become reason scissors love era enlist away close wreck loan primary";
+var mnemonic = "glance wheel theme until rigid govern income arm interest audit mistake release";

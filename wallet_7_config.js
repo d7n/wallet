@@ -1,1 +1,1 @@
-var mnemonic = "possible flag attack tray guitar crop describe amount decorate enforce riot fee";
+var mnemonic = "inquiry loan journey nose arch pony judge night practice attend damp bicycle";

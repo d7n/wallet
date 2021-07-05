@@ -1,1 +1,1 @@
-var mnemonic = "utility under copy opinion spoon goose need battle keep trend joy canvas";
+var mnemonic = "theme uniform legend april employ ski apology rural fun weapon undo oval";

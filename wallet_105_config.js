@@ -1,1 +1,1 @@
-var mnemonic = "cube into liar person true art yard play peasant rural autumn menu";
+var mnemonic = "wolf recall tribe inside project card galaxy abstract fortune there often such";

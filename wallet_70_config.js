@@ -1,1 +1,1 @@
-var mnemonic = "garden state primary bean outer pear hollow humble grace album debris shop";
+var mnemonic = "crop label world session moon crawl spare tunnel apart hospital rail bundle";

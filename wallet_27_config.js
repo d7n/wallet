@@ -1,1 +1,1 @@
-var mnemonic = "bounce wolf shift run risk frog gap script unhappy phone purse accident";
+var mnemonic = "journey goddess conduct fold damp episode derive sausage grid fish wet gauge";

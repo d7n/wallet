@@ -1,1 +1,1 @@
-var mnemonic = "book odor mesh disease include frame knee guitar love knock diary voyage";
+var mnemonic = "mail toe humor bacon account intact collect file gossip sing record sail";

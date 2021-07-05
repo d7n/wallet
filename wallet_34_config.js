@@ -1,1 +1,1 @@
-var mnemonic = "vacant oak fury deposit trap security mixture witness learn snap salad damage";
+var mnemonic = "deposit pair perfect cool path bitter ten anger nut track employ peace";

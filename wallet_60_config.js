@@ -1,1 +1,1 @@
-var mnemonic = "wedding right rail hawk proud bachelor lesson remove elevator pencil napkin void";
+var mnemonic = "amused story evidence noise stumble capable gorilla receive attract horse panther myth";

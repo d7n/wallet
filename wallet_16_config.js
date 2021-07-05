@@ -1,1 +1,1 @@
-var mnemonic = "field glad thumb antique mass hat ring twice tiger ginger shift screen";
+var mnemonic = "pitch injury chimney bacon win rely sell enforce bargain salt weather fatal";

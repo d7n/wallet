@@ -1,1 +1,1 @@
-var mnemonic = "term super jewel test road panic traffic icon hungry thumb network venture";
+var mnemonic = "zoo behind mandate glow board skull drum ski always shadow skirt weather";

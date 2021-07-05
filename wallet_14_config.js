@@ -1,1 +1,1 @@
-var mnemonic = "cluster bunker remain legend erosion dove tiny column century forum stem course";
+var mnemonic = "unhappy large rose verb utility proud naive ability problem sing near glove";

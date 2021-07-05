@@ -1,1 +1,1 @@
-var mnemonic = "dolphin silver glance toy estate audit hundred base audit victory picnic gauge";
+var mnemonic = "energy soup recall month guard long office elephant farm oval gloom useless";

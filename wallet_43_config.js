@@ -1,1 +1,1 @@
-var mnemonic = "popular cotton slim enhance sad soap goddess opera nice panel snap donate";
+var mnemonic = "horse push gentle excess push whale mechanic entry key lamp bounce acid";
