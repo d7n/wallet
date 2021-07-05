@@ -1,1 +1,1 @@
-var mnemonic = "mule public legal lyrics update network today vivid regular series anchor science";
+var mnemonic = "hockey enact harvest carpet near clinic maid document club myth marine cable";

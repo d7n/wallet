@@ -1,1 +1,1 @@
-var mnemonic = "recall art say pretty teach shine soup salt reunion awful bind scatter";
+var mnemonic = "pupil better solid milk object foster unit olympic goose lottery pelican poet";

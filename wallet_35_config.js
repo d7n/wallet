@@ -1,1 +1,1 @@
-var mnemonic = "tired wild gold honey stamp tumble scissors pretty fork shoulder blast short";
+var mnemonic = "chase stable wood poem claim unfold wonder quick artwork remain orphan crucial";

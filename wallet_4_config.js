@@ -1,1 +1,1 @@
-var mnemonic = "tide gravity gun frozen chronic shop price gadget globe fine coach night";
+var mnemonic = "female lunar quality alpha spawn garlic tackle observe face taste test voice";

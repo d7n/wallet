@@ -1,1 +1,1 @@
-var mnemonic = "column addict festival demand giraffe excuse base mixed drum fox noodle print";
+var mnemonic = "kangaroo festival raw father use tackle taste check patch pilot raccoon ring";

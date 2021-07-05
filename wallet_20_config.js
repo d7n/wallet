@@ -1,1 +1,1 @@
-var mnemonic = "act trumpet supreme alcohol disease swear argue width aim wrap garlic seek";
+var mnemonic = "ghost toddler warfare tourist wedding develop remind hint company usage vivid pair";

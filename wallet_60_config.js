@@ -1,1 +1,1 @@
-var mnemonic = "exhibit puzzle install material fit security story clump mesh habit jaguar solve";
+var mnemonic = "mobile tag west arm ugly layer grunt story wife world buyer old";

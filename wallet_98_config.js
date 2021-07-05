@@ -1,1 +1,1 @@
-var mnemonic = "crash quit still kind guard under tomorrow stamp cabbage bean defy curve";
+var mnemonic = "develop ecology creek action few sort alley work lazy tired coil affair";

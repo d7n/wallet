@@ -1,1 +1,1 @@
-var mnemonic = "chalk mind fossil frog machine marine cry also pizza treat one struggle";
+var mnemonic = "deposit blue welcome general stuff grape ring young pepper episode usual leopard";

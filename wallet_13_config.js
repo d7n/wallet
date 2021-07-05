@@ -1,1 +1,1 @@
-var mnemonic = "couch broken into carpet subject victory nose demise stage draw depart bird";
+var mnemonic = "mind apart burger parrot reflect unique chuckle victory extend local else shiver";

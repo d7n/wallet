@@ -1,1 +1,1 @@
-var mnemonic = "half pull current jaguar cheap broccoli long tongue tongue coyote alpha ozone";
+var mnemonic = "pepper ramp initial bless visa solution lounge planet census abuse bachelor soon";

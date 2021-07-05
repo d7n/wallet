@@ -1,1 +1,1 @@
-var mnemonic = "eagle interest erase witness venue rubber loop side special worry erupt carbon";
+var mnemonic = "idle impact voyage change unusual swear million tuna attack soul core hero";

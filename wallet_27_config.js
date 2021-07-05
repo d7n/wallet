@@ -1,1 +1,1 @@
-var mnemonic = "february dad wasp coast foster system figure tumble gain spell lab promote";
+var mnemonic = "play swamp vintage marine version return buzz planet crater dance planet rifle";

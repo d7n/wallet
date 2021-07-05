@@ -1,1 +1,1 @@
-var mnemonic = "program hour parent purpose sponsor fever sing affair dawn exercise animal turn";
+var mnemonic = "one adapt correct blush expose change chalk web scrub sauce cereal crack";

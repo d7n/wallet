@@ -1,1 +1,1 @@
-var mnemonic = "symptom van face tonight bounce glad teach salmon song pull lottery sail";
+var mnemonic = "best trend jazz fine sad verb garage brief that wood pole vivid";

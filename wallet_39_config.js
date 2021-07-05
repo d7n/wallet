@@ -1,1 +1,1 @@
-var mnemonic = "pink horse retreat wish shift iron system beef base acoustic express zoo";
+var mnemonic = "obey wonder ladder hard sudden save label humble suffer duck twice simple";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion material start shop buyer still ring draw you find ensure steel";
+var mnemonic = "around muffin steel erupt cool echo neutral soldier vacuum soup frost you";

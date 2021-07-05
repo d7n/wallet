@@ -1,1 +1,1 @@
-var mnemonic = "text put lend ramp document alert entire give above metal embody law";
+var mnemonic = "rabbit regret scheme grain stairs library guitar huge middle bullet net club";

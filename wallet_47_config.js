@@ -1,1 +1,1 @@
-var mnemonic = "agree duck west annual walk usage input injury parade crystal echo catch";
+var mnemonic = "blame piece anger second summer plunge news spice kitchen bullet sort phrase";

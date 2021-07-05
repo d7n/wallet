@@ -1,1 +1,1 @@
-var mnemonic = "soda someone stairs dust opinion bargain under derive blue defense evolve life";
+var mnemonic = "robust stereo current top trip tackle fix milk priority various brick art";

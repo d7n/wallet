@@ -1,1 +1,1 @@
-var mnemonic = "theme onion delay rookie still lottery alarm motion danger blame among blast";
+var mnemonic = "away wealth twist parrot swift harvest tone silent street waste tenant myself";

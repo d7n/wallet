@@ -1,1 +1,1 @@
-var mnemonic = "unit pudding misery tired very toward give engine sample purse copper absurd";
+var mnemonic = "hill legal bachelor deposit brain glass clinic blood ugly basic foster kind";

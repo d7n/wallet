@@ -1,1 +1,1 @@
-var mnemonic = "recipe wealth stand settle giant citizen soldier sea rhythm size there violin";
+var mnemonic = "tunnel top wear item section finish capital toss true basket soul voice";

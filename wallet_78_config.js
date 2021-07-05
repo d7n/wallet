@@ -1,1 +1,1 @@
-var mnemonic = "food medal advice chef torch profit spatial keep base pet grow festival";
+var mnemonic = "catalog observe stage wheat gym alley slush job whip title swap check";

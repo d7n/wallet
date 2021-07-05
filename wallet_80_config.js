@@ -1,1 +1,1 @@
-var mnemonic = "mercy estate moral economy spice glimpse phone once guilt eagle appear exercise";
+var mnemonic = "motor city renew lava dash ten sunny aspect vehicle rice typical ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "basic shift twice steel shy tape dilemma grid flame brown drink disease";
+var mnemonic = "hold visual theory zero paper gesture kite blur very motor two dress";

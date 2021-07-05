@@ -1,1 +1,1 @@
-var mnemonic = "found wheat snow damp admit model fabric melt arrive trouble worth toilet";
+var mnemonic = "hour quality avoid blade bitter all crouch path print warm inhale mercy";

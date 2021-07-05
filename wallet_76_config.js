@@ -1,1 +1,1 @@
-var mnemonic = "title give human explain tribe garlic review give era boil table cheese";
+var mnemonic = "bar success original special arrow van arrest teach good garden strike cement";

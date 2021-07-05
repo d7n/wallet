@@ -1,1 +1,1 @@
-var mnemonic = "slogan clean urge squeeze mandate track tomato drive inflict cycle piece gallery";
+var mnemonic = "enroll finish echo hobby morning lonely arena steel divorce couch taxi winter";

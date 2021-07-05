@@ -1,1 +1,1 @@
-var mnemonic = "use conduct work expand excite print window make supreme end boat trip";
+var mnemonic = "cost rural amateur youth pluck keep lumber draw exact uncle blush divide";

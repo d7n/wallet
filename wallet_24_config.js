@@ -1,1 +1,1 @@
-var mnemonic = "subway bid inspire confirm defy strong indoor father harvest frog develop helmet";
+var mnemonic = "van cherry stuff alarm twenty sunset coral provide dad flat orient head";

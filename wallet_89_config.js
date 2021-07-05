@@ -1,1 +1,1 @@
-var mnemonic = "lock salt seek truth power belt room flame that square disorder page";
+var mnemonic = "ankle cute torch festival catalog column oil sting december lawsuit robot icon";

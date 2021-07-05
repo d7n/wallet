@@ -1,1 +1,1 @@
-var mnemonic = "insect ill dolphin slogan small fiscal topic whisper market ridge sunset maple";
+var mnemonic = "urban chase they retire reason crazy charge adjust input gospel total run";

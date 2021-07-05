@@ -1,1 +1,1 @@
-var mnemonic = "bomb monster build clinic viable useless face divorce water acid occur craft";
+var mnemonic = "left phone suffer occur weather dentist health dish window boy follow demand";

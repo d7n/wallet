@@ -1,1 +1,1 @@
-var mnemonic = "true used sorry side anxiety fall other custom skill stay neutral hurt";
+var mnemonic = "believe utility art convince pull noodle target silver follow genuine abstract penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "lake doctor mother similar result private sweet stock clip effort echo canoe";
+var mnemonic = "goat grunt small throw relax ship hockey spirit sword zone expand foster";

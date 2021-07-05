@@ -1,1 +1,1 @@
-var mnemonic = "scrap connect photo unhappy tooth canoe merit reunion skull forward champion trophy";
+var mnemonic = "alter fog labor eagle novel say chase shine pass snow until emotion";

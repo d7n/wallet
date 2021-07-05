@@ -1,1 +1,1 @@
-var mnemonic = "carpet federal physical deal coral cook bulb vault weasel horn drift uniform";
+var mnemonic = "nurse below arch avocado drop bomb promote coyote prepare town poverty conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "pole van pattern wage accuse smile follow hat meadow suspect oyster upper";
+var mnemonic = "alert sibling grocery truth crack interest patch glide nothing flock gap nature";

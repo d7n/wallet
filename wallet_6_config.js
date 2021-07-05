@@ -1,1 +1,1 @@
-var mnemonic = "butter vanish primary access thunder cram draw cheap odor paper chicken neck";
+var mnemonic = "stock lyrics involve essay collect meat follow super market square tuna flat";

@@ -1,1 +1,1 @@
-var mnemonic = "august napkin tunnel one comic winter reduce result final color nominee razor";
+var mnemonic = "lamp crisp equip arm squirrel close caught ten mountain link scout finish";

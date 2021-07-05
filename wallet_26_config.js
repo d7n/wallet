@@ -1,1 +1,1 @@
-var mnemonic = "symptom item zone phrase desk right noble cage minute vast heart soft";
+var mnemonic = "cruise stereo lab velvet nothing core water exhaust question diagram pony romance";

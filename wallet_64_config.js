@@ -1,1 +1,1 @@
-var mnemonic = "oak prefer error error special lava argue whip ordinary warrior slide list";
+var mnemonic = "panel kid state motor wing pig odor fog island benefit future cool";

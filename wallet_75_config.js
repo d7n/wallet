@@ -1,1 +1,1 @@
-var mnemonic = "fence master grunt patient tower year into limb athlete cook giggle pole";
+var mnemonic = "oyster squeeze equal quote cycle roast chest tumble dial dog question bubble";

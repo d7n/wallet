@@ -1,1 +1,1 @@
-var mnemonic = "valley satisfy permit tongue family firm ship tired island cycle width deliver";
+var mnemonic = "orbit image analyst tiny expect middle mosquito goose aware burden erode suffer";

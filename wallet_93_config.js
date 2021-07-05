@@ -1,1 +1,1 @@
-var mnemonic = "vintage roast random yard disease swarm twice cover misery ski luggage virtual";
+var mnemonic = "fiction logic chest exclude cattle comfort clinic exhibit talent spare tongue clay";

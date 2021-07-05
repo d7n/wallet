@@ -1,1 +1,1 @@
-var mnemonic = "depart pyramid history casual lock pass rebel bright permit student tail shuffle";
+var mnemonic = "uncover together rookie rich enrich spot coyote session chunk drum puppy frame";

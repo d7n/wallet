@@ -1,1 +1,1 @@
-var mnemonic = "remind leave fatal champion spoon private wide link orient effort saddle human";
+var mnemonic = "steel smooth open render floor people hungry cart reunion wrong gravity join";

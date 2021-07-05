@@ -1,1 +1,1 @@
-var mnemonic = "describe gown deliver copy actor belt menu recipe rabbit lens father jar";
+var mnemonic = "curious budget harsh physical knife neutral soup glimpse purchase special detail iron";

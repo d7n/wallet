@@ -1,1 +1,1 @@
-var mnemonic = "taste become sing edge throw stable net anger exotic book same grunt";
+var mnemonic = "rather repair language frown good decline minimum invest warrior flame coach arrow";

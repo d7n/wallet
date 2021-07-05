@@ -1,1 +1,1 @@
-var mnemonic = "cram ghost grit praise indicate chronic update convince hunt jelly knife bird";
+var mnemonic = "help embody because bronze lens damp fine share copper net still live";

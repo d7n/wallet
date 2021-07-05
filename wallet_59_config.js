@@ -1,1 +1,1 @@
-var mnemonic = "office ensure fence often rare elite pause smile brief various enhance dance";
+var mnemonic = "depend final embody festival focus video raw account awful eyebrow table grain";

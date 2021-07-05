@@ -1,1 +1,1 @@
-var mnemonic = "icon cement donkey under blush story addict consider youth begin caught erosion";
+var mnemonic = "place bachelor human essence pole appear town mandate trigger relax model witness";

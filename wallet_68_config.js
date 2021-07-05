@@ -1,1 +1,1 @@
-var mnemonic = "satoshi regret zoo grocery holiday switch adult oak dinner oppose diary humble";
+var mnemonic = "round liberty lunar elbow quit hen describe biology prepare acquire alarm scout";

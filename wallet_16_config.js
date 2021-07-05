@@ -1,1 +1,1 @@
-var mnemonic = "razor surface ahead mountain tone time dad image frost vocal raise fall";
+var mnemonic = "shock ketchup step hungry report siege rebuild spoon rain shock skirt dash";

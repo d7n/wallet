@@ -1,1 +1,1 @@
-var mnemonic = "hero kid theme regular clay ill input zero fit palace hire raw";
+var mnemonic = "victory okay arctic mammal stable cycle power emotion piano near nephew dragon";

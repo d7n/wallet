@@ -1,1 +1,1 @@
-var mnemonic = "company maze symbol layer dance trash prize genre bomb neither save cabin";
+var mnemonic = "chicken thrive decade aspect slender cement raw autumn aware lady danger winner";

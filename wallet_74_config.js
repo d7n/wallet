@@ -1,1 +1,1 @@
-var mnemonic = "tumble dinner despair chimney extend security wasp renew foil educate suggest allow";
+var mnemonic = "crystal trend ensure proof enter nut jar journey drama note wear arena";

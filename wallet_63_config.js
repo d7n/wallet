@@ -1,1 +1,1 @@
-var mnemonic = "plunge report beauty amazing fiscal turkey same debate lift liberty item cattle";
+var mnemonic = "ice peasant display fire citizen season attend satoshi token strike yellow kiwi";

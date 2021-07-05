@@ -1,1 +1,1 @@
-var mnemonic = "wisdom earn modify into smart roast chaos tray remind extra culture demise";
+var mnemonic = "immense enact canyon valley abandon permit walnut open lazy actual gorilla shock";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy giraffe snake pen wheel build stay come sadness equal you cabin";
+var mnemonic = "hedgehog amount asthma blue direct ozone cruel abuse clown decorate bounce repair";

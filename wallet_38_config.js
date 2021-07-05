@@ -1,1 +1,1 @@
-var mnemonic = "olympic uncle portion reform vibrant lock enhance choice tortoise exact visit lucky";
+var mnemonic = "bonus color robot design diet secret mammal capital super soul advance supply";

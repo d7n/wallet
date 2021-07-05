@@ -1,1 +1,1 @@
-var mnemonic = "come sound liquid lava open ridge clay virtual family bulb chalk funny";
+var mnemonic = "point only toast surge health fog clay lyrics traffic baby hundred way";

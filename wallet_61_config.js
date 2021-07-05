@@ -1,1 +1,1 @@
-var mnemonic = "power desk fashion hello defy magic camera bread spell ethics nest clinic";
+var mnemonic = "slender soccer night face glance cluster electric mechanic sadness intact raise renew";

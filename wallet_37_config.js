@@ -1,1 +1,1 @@
-var mnemonic = "dance harbor jazz page early flush donate dumb quick barely girl age";
+var mnemonic = "beyond term detail patch mixed oppose pelican change rather menu tiny pelican";

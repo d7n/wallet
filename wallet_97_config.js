@@ -1,1 +1,1 @@
-var mnemonic = "churn tape ribbon sustain noodle rain repeat balcony text shock quarter canvas";
+var mnemonic = "release gap mimic skate must receive dumb stage quote antenna basic parent";

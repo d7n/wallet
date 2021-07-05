@@ -1,1 +1,1 @@
-var mnemonic = "pluck liquid ginger sudden effort crash edge often employ stadium cram clarify";
+var mnemonic = "own inside okay online skirt roof early ostrich kiss rug game congress";

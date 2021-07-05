@@ -1,1 +1,1 @@
-var mnemonic = "idle found foam aspect flush kit brain boat puppy lamp fox girl";
+var mnemonic = "entire syrup toast blur edge lamp shrug exist miracle town pulp join";

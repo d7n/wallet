@@ -1,1 +1,1 @@
-var mnemonic = "toilet little search pool reunion couch will end attract chair stable endless";
+var mnemonic = "tired spawn rude powder cage stove sketch inquiry fit suffer follow pledge";

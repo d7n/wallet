@@ -1,1 +1,1 @@
-var mnemonic = "clip gravity lobster gun own fiction attack fossil dust asthma glimpse pill";
+var mnemonic = "spell travel abstract private tomato pottery festival twelve page carry solar chaos";

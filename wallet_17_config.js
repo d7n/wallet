@@ -1,1 +1,1 @@
-var mnemonic = "shell way unusual evil language slim crowd august ahead stumble fresh tackle";
+var mnemonic = "heart drink verb repair oval bitter parent day install become balance metal";

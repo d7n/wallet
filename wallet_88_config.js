@@ -1,1 +1,1 @@
-var mnemonic = "major boss stairs exist verify sport prevent cliff bunker attract together fold";
+var mnemonic = "blame camera cruel tag pumpkin under convince sustain spare receive invite head";

@@ -1,1 +1,1 @@
-var mnemonic = "music maze load vehicle broken walk lens cream lend scan forward foot";
+var mnemonic = "butter scare indicate word virus universe radio recipe motor uncle laugh limb";

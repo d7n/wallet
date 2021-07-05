@@ -1,1 +1,1 @@
-var mnemonic = "season rice inmate rabbit key crane equip glory you hazard club drink";
+var mnemonic = "oyster need pudding tank half hole that ridge link dynamic alone visual";

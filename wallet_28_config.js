@@ -1,1 +1,1 @@
-var mnemonic = "lift since breeze squeeze enroll husband guard lecture spend young student torch";
+var mnemonic = "pioneer regular leave alter egg example city thought aunt toss network wreck";

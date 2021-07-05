@@ -1,1 +1,1 @@
-var mnemonic = "safe daring member robot mercy illegal crowd meadow topic essay pull negative";
+var mnemonic = "calm end birth furnace boss enforce party carpet liberty pigeon invite oyster";

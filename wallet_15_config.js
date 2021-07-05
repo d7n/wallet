@@ -1,1 +1,1 @@
-var mnemonic = "pigeon jealous tourist input biology evoke capable before ostrich wide switch farm";
+var mnemonic = "asthma trip route spider bargain north liquid still neglect weekend evolve rival";

@@ -1,1 +1,1 @@
-var mnemonic = "melody social genius drink vast obvious nation easy tuna illness clean possible";
+var mnemonic = "edit tongue only extra plastic wait monkey oblige current ethics box tobacco";

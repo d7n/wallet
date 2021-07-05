@@ -1,1 +1,1 @@
-var mnemonic = "quality teach drum ugly inquiry field glory weapon soup poverty small chair";
+var mnemonic = "ready cannon suit purity orange pencil card churn used denial junk warrior";

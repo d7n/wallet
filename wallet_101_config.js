@@ -1,1 +1,1 @@
-var mnemonic = "slow prevent dinner mistake file input fruit grit raccoon cluster final retire";
+var mnemonic = "thunder devote poem isolate turn moral truth tip spin drive surprise warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "spice senior belt immense rural spread hurdle siege caught helmet follow kiwi";
+var mnemonic = "table flame earn return oppose legend shaft trap forest main gift desert";

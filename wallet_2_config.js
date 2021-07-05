@@ -1,1 +1,1 @@
-var mnemonic = "install initial chase rude climb improve parade garbage pig window dismiss tray";
+var mnemonic = "sketch season tilt bachelor own rare image image chair satisfy empower wash";

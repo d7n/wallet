@@ -1,1 +1,1 @@
-var mnemonic = "stadium man person combine document blast reject check critic correct already ride";
+var mnemonic = "job diet luxury idea juice permit maximum since recall dinosaur junk fly";

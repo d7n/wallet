@@ -1,1 +1,1 @@
-var mnemonic = "assist company debris because verify shoulder wreck oxygen multiply weather into area";
+var mnemonic = "loyal sick blouse execute ice photo response tobacco marble hungry middle depend";

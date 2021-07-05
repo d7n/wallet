@@ -1,1 +1,1 @@
-var mnemonic = "know grief chase argue cost visit base oxygen auction report drum add";
+var mnemonic = "action arctic consider hazard follow drama chalk three faith debris trust ethics";

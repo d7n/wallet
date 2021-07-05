@@ -1,1 +1,1 @@
-var mnemonic = "lonely skill thunder decline cost audit pretty inside pave pave useless member";
+var mnemonic = "this spatial habit december agent captain crunch alpha square advice strategy hire";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal helmet amused wisdom vapor action subway exile inject shoulder letter hard";
+var mnemonic = "buyer speak cotton brain setup only jaguar expand beyond betray salmon kiwi";

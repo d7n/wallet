@@ -1,1 +1,1 @@
-var mnemonic = "audit badge donor solid live fruit long fetch lady blame ticket unveil";
+var mnemonic = "apart mule render shed choose absorb end modify supreme execute piece rain";

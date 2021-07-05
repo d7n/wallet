@@ -1,1 +1,1 @@
-var mnemonic = "agree sugar baby ginger name elite gather must mistake spare autumn harbor";
+var mnemonic = "eye steak post anger earth rifle pill angry mix fault detect seven";

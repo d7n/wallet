@@ -1,1 +1,1 @@
-var mnemonic = "oppose income jewel album seven weird total matrix car burger spoon pause";
+var mnemonic = "veteran tortoise clip army invest elegant dress olive upon fence later air";

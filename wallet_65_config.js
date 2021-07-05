@@ -1,1 +1,1 @@
-var mnemonic = "easy copy ask slab pigeon essay fold favorite submit involve harsh cupboard";
+var mnemonic = "goat patrol bunker fever gallery learn ramp clip peace virtual remind win";

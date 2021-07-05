@@ -1,1 +1,1 @@
-var mnemonic = "glove physical hurt nice despair child dial alter chair shallow return immune";
+var mnemonic = "faculty length feel bulb better genius gas title spice approve wet wrist";
