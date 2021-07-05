@@ -1,1 +1,1 @@
-var mnemonic = "provide prize lazy warm flip poet motor girl insect aware crouch fine";
+var mnemonic = "impact poem math advance season hip dumb collect virtual still gesture rubber";

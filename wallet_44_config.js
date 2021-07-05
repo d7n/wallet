@@ -1,1 +1,1 @@
-var mnemonic = "arrow vibrant never crucial recipe hope outside arena position switch episode special";
+var mnemonic = "present replace heavy ancient obvious olive brother desert science pride voyage purpose";

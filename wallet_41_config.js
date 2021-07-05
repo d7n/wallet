@@ -1,1 +1,1 @@
-var mnemonic = "pet about hover tip spider inspire cargo treat alarm quiz ill announce";
+var mnemonic = "envelope zero input country horn miracle cheap glide day reopen riot puppy";

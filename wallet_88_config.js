@@ -1,1 +1,1 @@
-var mnemonic = "idea best woman yellow wave trigger swallow boost peace loyal exclude retreat";
+var mnemonic = "regret boost climb village embrace cable assault trust affair walk rural primary";

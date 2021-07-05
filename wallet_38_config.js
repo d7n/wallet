@@ -1,1 +1,1 @@
-var mnemonic = "narrow awful ask cigar eternal country pen divorce kitchen cruel hen blast";
+var mnemonic = "obey upon math gorilla vibrant human bus snack skin inch despair rack";

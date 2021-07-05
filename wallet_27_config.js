@@ -1,1 +1,1 @@
-var mnemonic = "happy usage foam tumble original bless rubber verb volume merit dwarf law";
+var mnemonic = "attitude young waste mammal imitate moment husband improve special learn where erupt";

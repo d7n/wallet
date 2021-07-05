@@ -1,1 +1,1 @@
-var mnemonic = "minimum alone inform ridge broccoli acoustic nature history addict own foot divert";
+var mnemonic = "lab retire version cannon target pill flight carpet never lobster orbit soon";

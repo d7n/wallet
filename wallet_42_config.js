@@ -1,1 +1,1 @@
-var mnemonic = "isolate hunt interest agree nut bargain survey dad sport wood awake dinner";
+var mnemonic = "distance alpha reduce obscure monster fan submit modify oil ask canal wheel";

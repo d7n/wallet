@@ -1,1 +1,1 @@
-var mnemonic = "path add miracle route crowd erupt local price home cigar history ecology";
+var mnemonic = "wreck come slot badge ten dinosaur attract excess canoe truck summer gym";

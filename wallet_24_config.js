@@ -1,1 +1,1 @@
-var mnemonic = "unhappy talk jeans cup remember evoke shock water panel twin play student";
+var mnemonic = "carry sport term scare stomach gravity object potato absent surprise unknown chimney";

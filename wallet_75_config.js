@@ -1,1 +1,1 @@
-var mnemonic = "auction skin glimpse cover elevator race useful often glide park hard stick";
+var mnemonic = "fashion item page crime bulb toe drip donate biology knock also bus";

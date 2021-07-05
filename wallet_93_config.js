@@ -1,1 +1,1 @@
-var mnemonic = "bus gift title sand foot hover audit narrow bomb coast dog wood";
+var mnemonic = "soldier salon uncle urban omit income blade weather tribe unveil venture pact";

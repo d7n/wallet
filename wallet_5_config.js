@@ -1,1 +1,1 @@
-var mnemonic = "mandate rather nasty assume one segment manual pause toss olympic inherit detect";
+var mnemonic = "try capital grace kitten fatigue stomach consider toilet carry spread trend tackle";

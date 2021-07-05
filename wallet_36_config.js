@@ -1,1 +1,1 @@
-var mnemonic = "saddle shoot deal bargain during pulse can assist water vault sorry funny";
+var mnemonic = "panda crouch end unable stumble crawl pet lucky about crawl correct pave";

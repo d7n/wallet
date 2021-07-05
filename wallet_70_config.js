@@ -1,1 +1,1 @@
-var mnemonic = "sketch betray area recall copper smart end bomb need receive feel machine";
+var mnemonic = "crowd become tongue myth priority excite satoshi ordinary forest visit curve yellow";

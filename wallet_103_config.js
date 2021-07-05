@@ -1,1 +1,1 @@
-var mnemonic = "october rent year collect purpose rebel wife people flash globe jungle happy";
+var mnemonic = "mother park twin what glare pink sell modify interest awful mule drama";

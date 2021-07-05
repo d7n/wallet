@@ -1,1 +1,1 @@
-var mnemonic = "appear adult crack word monster bag cream word skull inflict pond diary";
+var mnemonic = "matter join echo zone brother mean awake sauce click maid dirt sting";

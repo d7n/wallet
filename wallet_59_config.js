@@ -1,1 +1,1 @@
-var mnemonic = "maple matrix glue scene blade earth brush october dress narrow position glow";
+var mnemonic = "curve gesture voyage addict ship pitch amused bridge question witness large connect";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist fit witness merge shrug tide access goat popular help sustain envelope";
+var mnemonic = "sketch used develop link shoe endorse cheese ocean equal ethics smile wool";

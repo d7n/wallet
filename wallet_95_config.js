@@ -1,1 +1,1 @@
-var mnemonic = "govern crystal still say buddy cute rotate strategy chat ceiling dilemma add";
+var mnemonic = "paddle crawl vanish web raccoon involve ecology quit injury bike resist absorb";

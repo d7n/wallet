@@ -1,1 +1,1 @@
-var mnemonic = "rebuild entry spend gospel orange final fog sister liberty icon retreat festival";
+var mnemonic = "black swim record erupt lesson intact plunge kiwi either beach parade danger";

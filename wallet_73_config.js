@@ -1,1 +1,1 @@
-var mnemonic = "round special sniff timber online tray forest fiber enforce wealth aim elegant";
+var mnemonic = "lizard actual over soon garbage animal laptop easily loop ozone shrimp eight";

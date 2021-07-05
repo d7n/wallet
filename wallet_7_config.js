@@ -1,1 +1,1 @@
-var mnemonic = "slogan reason team giant inhale page monkey amazing judge job zoo turn";
+var mnemonic = "session goose rug column use among vivid sport message lounge wear vendor";

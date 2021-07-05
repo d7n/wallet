@@ -1,1 +1,1 @@
-var mnemonic = "cross treat economy note maple outdoor orient anger detect sausage accuse regret";
+var mnemonic = "bottom property glimpse blur day orphan bottom device hello flee melt remove";

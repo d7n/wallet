@@ -1,1 +1,1 @@
-var mnemonic = "high fit weather sunny gaze pretty tuition weird viable surge amused dutch";
+var mnemonic = "stumble clog sting shrug slogan later upgrade tip alien output oval midnight";

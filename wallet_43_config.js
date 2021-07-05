@@ -1,1 +1,1 @@
-var mnemonic = "knock mystery nose resemble lesson kangaroo town brief juice civil congress prize";
+var mnemonic = "accident height slot want avocado space panda woman icon online seven scorpion";

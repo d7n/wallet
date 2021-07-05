@@ -1,1 +1,1 @@
-var mnemonic = "depart embark grab cable razor pitch stem wing differ quality mammal outer";
+var mnemonic = "churn amount certain infant side asset nominee mixed admit gate modify conduct";

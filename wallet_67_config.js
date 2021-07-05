@@ -1,1 +1,1 @@
-var mnemonic = "any enable since across outdoor noble brain denial other humor tired mixed";
+var mnemonic = "silly pudding anchor usual heavy refuse deal fatigue detail tumble future plug";

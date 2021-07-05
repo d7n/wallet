@@ -1,1 +1,1 @@
-var mnemonic = "room concert mouse forget notice step orient lesson calm run wine parade";
+var mnemonic = "pluck absurd cinnamon weekend cluster awkward ramp visa road dinosaur attack raven";

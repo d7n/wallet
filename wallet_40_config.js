@@ -1,1 +1,1 @@
-var mnemonic = "void moon hospital twelve tag truth pen crumble dad mind heavy orphan";
+var mnemonic = "truth arrest trouble please glide unknown year awesome monkey army border toy";

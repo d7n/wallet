@@ -1,1 +1,1 @@
-var mnemonic = "drink perfect ice divorce chief also burst treat black month garage wet";
+var mnemonic = "second impose noble home tornado seminar display cave pyramid sunny rural wedding";

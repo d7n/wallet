@@ -1,1 +1,1 @@
-var mnemonic = "patch claim short jaguar target obey just dash chicken nation rich lucky";
+var mnemonic = "fiscal short like talent chat rude point entire usage lunch sound laugh";

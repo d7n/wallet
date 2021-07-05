@@ -1,1 +1,1 @@
-var mnemonic = "recall slam stage era ensure sing leisure gadget double sausage bracket park";
+var mnemonic = "hill joke useless usual rookie fence behave aisle wrestle carry tail gorilla";

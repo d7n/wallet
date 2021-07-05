@@ -1,1 +1,1 @@
-var mnemonic = "window canyon slight palace human company zoo gaze wrist soda erupt fence";
+var mnemonic = "because host moon loud joy balcony flower gun found problem tomato balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "custom denial hobby affair rude brain devote sentence feed auction script cross";
+var mnemonic = "admit car north news fence link train short nature deer trophy congress";

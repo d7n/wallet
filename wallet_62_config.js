@@ -1,1 +1,1 @@
-var mnemonic = "claim black mammal kidney open promote climb permit level answer cute record";
+var mnemonic = "net gesture fee aware crunch crucial match drink outdoor someone slide angry";

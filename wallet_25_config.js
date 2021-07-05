@@ -1,1 +1,1 @@
-var mnemonic = "chase bean ecology fish multiply exclude fat disease bitter allow private ice";
+var mnemonic = "govern basket coffee rail error ignore option crunch diagram acquire artwork amount";

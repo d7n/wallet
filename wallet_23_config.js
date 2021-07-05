@@ -1,1 +1,1 @@
-var mnemonic = "caution super earn wild high second drift switch crucial route focus vast";
+var mnemonic = "other fine rate leaf focus ripple believe monkey aisle radio surface power";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder hint dose print giraffe crucial define kid project renew churn bacon";
+var mnemonic = "float mechanic mask spy kid blush initial shop valley recycle express bring";

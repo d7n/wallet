@@ -1,1 +1,1 @@
-var mnemonic = "coast actual regret stadium fortune monkey unaware quote night tortoise element black";
+var mnemonic = "impact frozen broccoli shell spot knee one valley erase chunk table cup";

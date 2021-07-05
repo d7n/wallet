@@ -1,1 +1,1 @@
-var mnemonic = "nephew gadget flat bundle utility flush exclude industry ordinary monkey organ nest";
+var mnemonic = "across festival scout cancel hobby anchor regret vital width ski clarify tuna";

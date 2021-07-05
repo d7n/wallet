@@ -1,1 +1,1 @@
-var mnemonic = "style laundry actor eternal alone test hawk kind boost hawk similar afford";
+var mnemonic = "kid claim view tribe reward business fire repeat frown actual choice rhythm";

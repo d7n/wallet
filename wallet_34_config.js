@@ -1,1 +1,1 @@
-var mnemonic = "type river stereo verify nothing congress bus wedding arm spy near scrub";
+var mnemonic = "diet invest lunar blame kidney expose skirt promote reduce copper mutual decade";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild february fever such field object quit fee wait pond episode cream";
+var mnemonic = "undo venture cat slender exchange glare have fault artwork jaguar blind sea";

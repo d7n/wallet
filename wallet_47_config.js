@@ -1,1 +1,1 @@
-var mnemonic = "blouse certain race crew glove decline jar large clap file squeeze item";
+var mnemonic = "ribbon siren payment helmet rhythm drive network latin infant welcome brown design";

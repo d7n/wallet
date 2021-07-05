@@ -1,1 +1,1 @@
-var mnemonic = "deny enhance cart win mixed force fade crew east popular sphere like";
+var mnemonic = "crane waste sniff divide omit joy absurd leave mountain assist notice report";

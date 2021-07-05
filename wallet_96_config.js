@@ -1,1 +1,1 @@
-var mnemonic = "soul chair hurry security fiber glue pledge muscle acid bean crouch lawsuit";
+var mnemonic = "old mention follow day mobile safe pull elite spawn shrimp black cost";

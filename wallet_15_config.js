@@ -1,1 +1,1 @@
-var mnemonic = "lucky exchange denial excess search very poem ancient gasp jar awkward delay";
+var mnemonic = "flee dance clerk slam cabbage hungry swap wet divorce fix suffer hour";

@@ -1,1 +1,1 @@
-var mnemonic = "drink genius cannon today bind used cliff seven loop door glove orange";
+var mnemonic = "isolate jealous start awesome drop glue stamp need clown catalog cancel depend";

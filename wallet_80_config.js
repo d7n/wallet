@@ -1,1 +1,1 @@
-var mnemonic = "consider pelican trouble capable dust trophy captain start climb garlic hospital snack";
+var mnemonic = "saddle tuition vague team sell palm proud denial orange keen pole south";

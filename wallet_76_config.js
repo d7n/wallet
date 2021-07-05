@@ -1,1 +1,1 @@
-var mnemonic = "mimic better fashion tattoo cat calm armor lion palm iron clean bag";
+var mnemonic = "elder casual dry sick capital used lunch black exhibit need fix photo";

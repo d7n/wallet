@@ -1,1 +1,1 @@
-var mnemonic = "champion push novel silent image increase mixture that catch door cruise face";
+var mnemonic = "truth install heavy dance shine excess vibrant empty divide hint potato ten";

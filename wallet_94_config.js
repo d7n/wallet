@@ -1,1 +1,1 @@
-var mnemonic = "curtain depend accuse good ostrich color text scout abuse worry pole mercy";
+var mnemonic = "pair ring target path bench buddy holiday appear daughter tribe piece clerk";

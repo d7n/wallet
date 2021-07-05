@@ -1,1 +1,1 @@
-var mnemonic = "gospel auto stool soul recycle boat cattle decorate yard fluid ozone usual";
+var mnemonic = "clown manage airport venue start noble ketchup wrestle moment tuition pave disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs vivid mail undo pull wisdom assault train welcome cotton purpose lizard";
+var mnemonic = "input drama blame auto sight hire mandate blush multiply detect else dawn";

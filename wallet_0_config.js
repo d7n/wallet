@@ -1,1 +1,1 @@
-var mnemonic = "pupil diary gold online job key egg spike sudden never airport wrong";
+var mnemonic = "general trophy pumpkin sail tumble swing boss token twelve want puzzle soul";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow gift winner praise monkey urban spider device service middle wedding pyramid";
+var mnemonic = "energy portion kit antenna guide bullet huge magic receive warrior trade stone";

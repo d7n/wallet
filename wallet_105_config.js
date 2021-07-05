@@ -1,1 +1,1 @@
-var mnemonic = "unknown record latin sing shuffle outdoor matrix march pet exercise hair february";
+var mnemonic = "air attitude match survey hawk cheese sentence invest door true initial tortoise";

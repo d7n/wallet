@@ -1,1 +1,1 @@
-var mnemonic = "mutual resource rely hawk give thunder skirt human book trash square payment";
+var mnemonic = "pottery ship hybrid plastic affair casino bottom topic verify caught patch palace";

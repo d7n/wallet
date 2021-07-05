@@ -1,1 +1,1 @@
-var mnemonic = "test staff produce dizzy craft post chair cream shoot visit win seed";
+var mnemonic = "lesson brand affair silly income cool upset tray mixture badge solid vendor";

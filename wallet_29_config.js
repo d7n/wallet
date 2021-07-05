@@ -1,1 +1,1 @@
-var mnemonic = "scale help obvious minor comic laundry cross dumb twenty art teach lesson";
+var mnemonic = "duty other estate tiny toward glimpse unit silk theme public neither detail";

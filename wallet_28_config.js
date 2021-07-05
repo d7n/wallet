@@ -1,1 +1,1 @@
-var mnemonic = "poem example steel chair charge daughter settle amount check dizzy undo normal";
+var mnemonic = "trial donkey march sea misery bring trash ask ice behave begin flat";

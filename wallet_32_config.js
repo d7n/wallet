@@ -1,1 +1,1 @@
-var mnemonic = "pull draw detail hammer distance vicious grab man cook erode patrol tomorrow";
+var mnemonic = "right harbor apology divorce height exile prison enough crash ski good stone";

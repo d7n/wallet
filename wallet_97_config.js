@@ -1,1 +1,1 @@
-var mnemonic = "milk chicken bar tired exchange speak odor open cheese combine voyage include";
+var mnemonic = "police lock crop among usual begin ticket lion attack explain ignore advance";

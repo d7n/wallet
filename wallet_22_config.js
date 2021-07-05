@@ -1,1 +1,1 @@
-var mnemonic = "harsh lady digital silver panda mandate chimney defy night belt spray organ";
+var mnemonic = "nation topic gossip praise buffalo such immune twin mother all dial pudding";

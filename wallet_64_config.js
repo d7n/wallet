@@ -1,1 +1,1 @@
-var mnemonic = "draw check tent trick couch walnut despair property misery solar cement manage";
+var mnemonic = "barrel essay embody save polar dress case execute brown earn legal youth";

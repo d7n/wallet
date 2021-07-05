@@ -1,1 +1,1 @@
-var mnemonic = "stove omit broccoli bean timber hero rich hole gown marriage warrior trade";
+var mnemonic = "buzz stairs anger inflict critic brother often conduct swallow dragon purchase job";

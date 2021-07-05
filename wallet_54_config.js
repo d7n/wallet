@@ -1,1 +1,1 @@
-var mnemonic = "select hole stay festival sing visit nation aware poem force another lunch";
+var mnemonic = "camp elegant quiz satisfy before market appear angry aim settle assume alter";

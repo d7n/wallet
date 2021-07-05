@@ -1,1 +1,1 @@
-var mnemonic = "arrange announce reopen adapt wash refuse embrace attitude young license interest define";
+var mnemonic = "lecture nerve bonus wing present shoulder pen outdoor amazing daring mad awful";

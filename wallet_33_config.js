@@ -1,1 +1,1 @@
-var mnemonic = "number pitch ripple lizard thunder roast come merry sniff misery foster demise";
+var mnemonic = "cruel ivory jungle merry mad tent circle behave shell clump verb exile";

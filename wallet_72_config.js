@@ -1,1 +1,1 @@
-var mnemonic = "step math blanket abstract hour choice control spread exotic dwarf fork else";
+var mnemonic = "lesson mass matrix thank saddle moral quit enforce stuff since film property";

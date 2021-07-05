@@ -1,1 +1,1 @@
-var mnemonic = "squirrel ethics wash must title unusual crazy ostrich provide used cause shoulder";
+var mnemonic = "monster grow wide manual action famous head slide subject daring explain crush";

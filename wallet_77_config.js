@@ -1,1 +1,1 @@
-var mnemonic = "convince acoustic stadium spider gallery inside unique lobster easily price iron carry";
+var mnemonic = "whisper coin midnight duck crunch dove reject inflict draft filter trap diesel";

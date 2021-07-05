@@ -1,1 +1,1 @@
-var mnemonic = "benefit fancy spell road assault slam require believe hybrid together index dwarf";
+var mnemonic = "ribbon tiny witness clean pig example approve heavy expand buyer margin undo";

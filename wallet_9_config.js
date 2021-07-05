@@ -1,1 +1,1 @@
-var mnemonic = "orange inherit zone office surface other cloth rubber security absent poet tomorrow";
+var mnemonic = "fury spawn trim august waste coyote infant bomb habit mutual possible unable";

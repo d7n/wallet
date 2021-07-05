@@ -1,1 +1,1 @@
-var mnemonic = "differ roof edge siren student increase table swamp release student squirrel crop";
+var mnemonic = "cousin yard rigid dizzy again jump fiction vanish six ring almost spice";

@@ -1,1 +1,1 @@
-var mnemonic = "credit absent tunnel word fire prevent flip drama nurse kingdom pilot crunch";
+var mnemonic = "uncle pill buzz time flip cotton force before bid verify joy hurt";

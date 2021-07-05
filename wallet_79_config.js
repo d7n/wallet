@@ -1,1 +1,1 @@
-var mnemonic = "dad torch embody cause stool bundle mirror ice pact antenna omit turkey";
+var mnemonic = "tiger budget teach license knife measure champion caution fun swift oval connect";

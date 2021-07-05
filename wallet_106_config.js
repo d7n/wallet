@@ -1,1 +1,1 @@
-var mnemonic = "moon much initial execute casual chapter submit kind already bird spoil crazy";
+var mnemonic = "control trip nasty fat loud maid globe eyebrow excite sadness lend false";

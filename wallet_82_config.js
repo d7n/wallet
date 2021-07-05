@@ -1,1 +1,1 @@
-var mnemonic = "silk cable better brown fringe camp today system ketchup orphan model height";
+var mnemonic = "clown wrestle soap crush corn enter return safe mosquito purpose table fiber";

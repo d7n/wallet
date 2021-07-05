@@ -1,1 +1,1 @@
-var mnemonic = "tip column fork time reform ring manage pulp enact pyramid dress flame";
+var mnemonic = "lawsuit evidence six fatigue ramp gossip glory clarify earn virtual filter quote";

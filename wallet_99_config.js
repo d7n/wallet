@@ -1,1 +1,1 @@
-var mnemonic = "cliff shoot pool mobile stick fiscal universe try convince honey during cheap";
+var mnemonic = "input accuse food suspect desert grow void ten autumn treat topic throw";

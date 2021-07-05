@@ -1,1 +1,1 @@
-var mnemonic = "vital eager ensure wealth gain gather mansion boss output issue wedding congress";
+var mnemonic = "drama girl baby kingdom cannon street economy learn absent hand rescue expose";

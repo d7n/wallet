@@ -1,1 +1,1 @@
-var mnemonic = "hint cost review ability illegal attend change unveil sample inch treat drama";
+var mnemonic = "love dynamic bread model elbow size track tail chalk umbrella solution alley";

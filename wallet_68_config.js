@@ -1,1 +1,1 @@
-var mnemonic = "quick entry race romance case betray kit buzz choose tennis lizard dance";
+var mnemonic = "rough kite month host build despair tube ranch wise replace flock above";

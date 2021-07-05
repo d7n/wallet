@@ -1,1 +1,1 @@
-var mnemonic = "garbage fabric business pizza valley room tomorrow will this monitor shallow talk";
+var mnemonic = "action mountain edit little only never slender betray change clay grief develop";

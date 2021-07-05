@@ -1,1 +1,1 @@
-var mnemonic = "people wrist capital possible snake shock typical elbow summer clever tiny corn";
+var mnemonic = "giggle humor immense witness labor order table shoulder enemy caution ability coyote";

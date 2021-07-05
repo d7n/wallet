@@ -1,1 +1,1 @@
-var mnemonic = "potato robot unveil meadow skirt dove resemble tower rapid funny angle daring";
+var mnemonic = "buyer common loop memory stage speed damp fun kiwi dry silver rate";

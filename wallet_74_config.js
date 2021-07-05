@@ -1,1 +1,1 @@
-var mnemonic = "matter champion useful fun van tragic pistol reopen gadget wrap slam turn";
+var mnemonic = "aspect cost such mule distance brief brisk few victory stomach fog drift";

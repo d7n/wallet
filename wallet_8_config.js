@@ -1,1 +1,1 @@
-var mnemonic = "dad knife easy habit fix decline give love airport pill urban exact";
+var mnemonic = "regret decide pull jaguar click blade unique solid section gown repeat rice";
