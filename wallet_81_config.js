@@ -1,1 +1,1 @@
-var mnemonic = "social jump scale trim head cloth train catch audit jelly mansion uniform";
+var mnemonic = "board cook jaguar quality void core there elite there stay delay someone";

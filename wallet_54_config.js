@@ -1,1 +1,1 @@
-var mnemonic = "ready cannon suit purity orange pencil card churn used denial junk warrior";
+var mnemonic = "retreat much swing vendor book metal clog stamp response dance loan return";

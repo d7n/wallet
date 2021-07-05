@@ -1,1 +1,1 @@
-var mnemonic = "best trend jazz fine sad verb garage brief that wood pole vivid";
+var mnemonic = "worth timber filter drum embody sell assume tattoo differ alone stay rally";

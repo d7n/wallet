@@ -1,1 +1,1 @@
-var mnemonic = "release gap mimic skate must receive dumb stage quote antenna basic parent";
+var mnemonic = "unaware brief abstract talk still coach measure gym pass yellow key that";

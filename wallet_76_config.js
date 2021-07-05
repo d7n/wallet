@@ -1,1 +1,1 @@
-var mnemonic = "bar success original special arrow van arrest teach good garden strike cement";
+var mnemonic = "symbol lens rally ice job card entry dry liberty weekend rack meadow";

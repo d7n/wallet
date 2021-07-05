@@ -1,1 +1,1 @@
-var mnemonic = "play swamp vintage marine version return buzz planet crater dance planet rifle";
+var mnemonic = "stick gain tiny modify ski mercy tornado uniform birth unfold develop dilemma";

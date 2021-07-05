@@ -1,1 +1,1 @@
-var mnemonic = "tired spawn rude powder cage stove sketch inquiry fit suffer follow pledge";
+var mnemonic = "maple fee liquid meadow fluid talent spread taste sketch pepper champion color";

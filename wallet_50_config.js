@@ -1,1 +1,1 @@
-var mnemonic = "curious budget harsh physical knife neutral soup glimpse purchase special detail iron";
+var mnemonic = "near prefer bread coin panther december evidence owner apology wasp notable shallow";

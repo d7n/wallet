@@ -1,1 +1,1 @@
-var mnemonic = "uncover together rookie rich enrich spot coyote session chunk drum puppy frame";
+var mnemonic = "govern violin quiz skirt kit cool alert wrong flush village angle extend";

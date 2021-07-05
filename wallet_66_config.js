@@ -1,1 +1,1 @@
-var mnemonic = "never boy slice captain drink reject promote innocent large crouch total tiger";
+var mnemonic = "average section boring palace mention health apology escape rare verb sample sister";

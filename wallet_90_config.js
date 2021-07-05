@@ -1,1 +1,1 @@
-var mnemonic = "table flame earn return oppose legend shaft trap forest main gift desert";
+var mnemonic = "man drum vessel guide oval write faint quarter pause split speak scale";

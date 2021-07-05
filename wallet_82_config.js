@@ -1,1 +1,1 @@
-var mnemonic = "mixture chaos draw ghost turn slam record situate awkward first fantasy cream";
+var mnemonic = "fiber dream piano unusual divide hundred such avocado lock screen current devote";

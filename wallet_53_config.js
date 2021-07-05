@@ -1,1 +1,1 @@
-var mnemonic = "expand cabin liar metal embark general blanket reform dog best access endorse";
+var mnemonic = "slide trip crater hole assume elephant curtain teach together final grain real";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal sick blouse execute ice photo response tobacco marble hungry middle depend";
+var mnemonic = "sound balance banana crane abandon alcohol scout express canal arena nurse dial";

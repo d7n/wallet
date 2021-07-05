@@ -1,1 +1,1 @@
-var mnemonic = "spell travel abstract private tomato pottery festival twelve page carry solar chaos";
+var mnemonic = "absent panda retreat industry drama wish canvas lava property title all flip";

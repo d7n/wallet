@@ -1,1 +1,1 @@
-var mnemonic = "grace casino avocado join height minute faculty problem amateur number club orphan";
+var mnemonic = "word alpha faculty game push annual open game agent voice silk gauge";

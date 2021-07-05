@@ -1,1 +1,1 @@
-var mnemonic = "goat grunt small throw relax ship hockey spirit sword zone expand foster";
+var mnemonic = "same hope clutch buddy online hybrid discover kiwi penalty dune another summer";

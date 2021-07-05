@@ -1,1 +1,1 @@
-var mnemonic = "civil satisfy before decline owner bargain limb tribe paddle possible vote tragic";
+var mnemonic = "cement melody birth hamster senior bid long close sauce sadness perfect forest";

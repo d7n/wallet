@@ -1,1 +1,1 @@
-var mnemonic = "chicken thrive decade aspect slender cement raw autumn aware lady danger winner";
+var mnemonic = "field punch trigger grape process popular minimum trigger jaguar craft van opinion";

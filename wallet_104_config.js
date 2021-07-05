@@ -1,1 +1,1 @@
-var mnemonic = "power surround void sail upgrade sort message certain force awful umbrella visit";
+var mnemonic = "assist brain kiss benefit royal grief dice vast index veteran destroy mirror";

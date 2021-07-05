@@ -1,1 +1,1 @@
-var mnemonic = "shock ketchup step hungry report siege rebuild spoon rain shock skirt dash";
+var mnemonic = "discover way miracle morning faith hidden van damage bronze insane same dilemma";

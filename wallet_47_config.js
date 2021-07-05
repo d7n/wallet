@@ -1,1 +1,1 @@
-var mnemonic = "blame piece anger second summer plunge news spice kitchen bullet sort phrase";
+var mnemonic = "weapon rib reason unveil remain pill tragic wedding recycle rough explain soldier";

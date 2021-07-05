@@ -1,1 +1,1 @@
-var mnemonic = "range swear cool lift library shoe perfect public produce forget citizen frog";
+var mnemonic = "quiz little core clog fork disagree quantum deputy entire analyst essence opinion";

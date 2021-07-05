@@ -1,1 +1,1 @@
-var mnemonic = "obey wonder ladder hard sudden save label humble suffer duck twice simple";
+var mnemonic = "field search ketchup party shy grid utility inform food enter assume ticket";

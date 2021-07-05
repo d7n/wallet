@@ -1,1 +1,1 @@
-var mnemonic = "place bachelor human essence pole appear town mandate trigger relax model witness";
+var mnemonic = "crunch kit dirt aerobic diesel own airport dwarf fold mean client bomb";

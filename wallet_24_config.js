@@ -1,1 +1,1 @@
-var mnemonic = "van cherry stuff alarm twenty sunset coral provide dad flat orient head";
+var mnemonic = "hollow anger unaware squirrel trim chapter walnut kick ranch feed since fruit";

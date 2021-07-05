@@ -1,1 +1,1 @@
-var mnemonic = "chase stable wood poem claim unfold wonder quick artwork remain orphan crucial";
+var mnemonic = "nut dinosaur left prefer panic flip rural hub verify artwork love primary";

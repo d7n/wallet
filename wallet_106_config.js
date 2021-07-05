@@ -1,1 +1,1 @@
-var mnemonic = "edit tongue only extra plastic wait monkey oblige current ethics box tobacco";
+var mnemonic = "tennis only oak virus journey ordinary sheriff keen piece ice direct avocado";

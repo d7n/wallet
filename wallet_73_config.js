@@ -1,1 +1,1 @@
-var mnemonic = "action arctic consider hazard follow drama chalk three faith debris trust ethics";
+var mnemonic = "clip immune define front quick tennis tail canal sing suspect project toward";

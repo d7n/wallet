@@ -1,1 +1,1 @@
-var mnemonic = "bonus color robot design diet secret mammal capital super soul advance supply";
+var mnemonic = "loyal soft source virtual reform version dance audit question wave despair orient";

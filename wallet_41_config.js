@@ -1,1 +1,1 @@
-var mnemonic = "idle impact voyage change unusual swear million tuna attack soul core hero";
+var mnemonic = "worry chief attend body verify giraffe garlic abandon melody pitch close gadget";

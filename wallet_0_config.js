@@ -1,1 +1,1 @@
-var mnemonic = "lamp crisp equip arm squirrel close caught ten mountain link scout finish";
+var mnemonic = "exclude stove velvet slush pioneer real jelly trim wheat title admit blood";

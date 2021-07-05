@@ -1,1 +1,1 @@
-var mnemonic = "choose only party exchange tunnel foot agent switch unfair sentence switch found";
+var mnemonic = "dinosaur lesson raccoon nest wink that roast table announce dolphin sure surprise";

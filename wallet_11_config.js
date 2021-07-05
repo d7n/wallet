@@ -1,1 +1,1 @@
-var mnemonic = "one adapt correct blush expose change chalk web scrub sauce cereal crack";
+var mnemonic = "measure stuff fall minor whip plastic agree empower gaze tattoo ancient lizard";

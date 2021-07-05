@@ -1,1 +1,1 @@
-var mnemonic = "develop ecology creek action few sort alley work lazy tired coil affair";
+var mnemonic = "nominee eight gossip pony ghost fancy million rough zoo bunker old eagle";

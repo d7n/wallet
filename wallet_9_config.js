@@ -1,1 +1,1 @@
-var mnemonic = "believe utility art convince pull noodle target silver follow genuine abstract penalty";
+var mnemonic = "sketch puzzle reunion powder bubble donate noodle label truck noise shell lyrics";

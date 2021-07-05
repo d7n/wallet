@@ -1,1 +1,1 @@
-var mnemonic = "consider hotel trap birth fatal feature antenna artwork warfare extra pull soup";
+var mnemonic = "claim rhythm frame coyote blame kingdom embark winner park wish fiscal inform";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel top wear item section finish capital toss true basket soul voice";
+var mnemonic = "pretty fossil present close uniform swarm kidney educate mouse glimpse alley mountain";

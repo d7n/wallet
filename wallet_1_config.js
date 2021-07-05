@@ -1,1 +1,1 @@
-var mnemonic = "deposit blue welcome general stuff grape ring young pepper episode usual leopard";
+var mnemonic = "fortune apart gesture sentence truck clump sample produce predict hire input spare";

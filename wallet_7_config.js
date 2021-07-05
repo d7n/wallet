@@ -1,1 +1,1 @@
-var mnemonic = "buyer speak cotton brain setup only jaguar expand beyond betray salmon kiwi";
+var mnemonic = "act please tennis interest exist level fitness muffin narrow spin dress window";

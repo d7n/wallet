@@ -1,1 +1,1 @@
-var mnemonic = "motor city renew lava dash ten sunny aspect vehicle rice typical ecology";
+var mnemonic = "champion song dizzy blame need charge immune useless erosion finger stadium paper";

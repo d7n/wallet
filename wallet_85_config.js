@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog amount asthma blue direct ozone cruel abuse clown decorate bounce repair";
+var mnemonic = "tone accident practice jaguar arrow plate decide monitor sport glove tree legal";

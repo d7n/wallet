@@ -1,1 +1,1 @@
-var mnemonic = "this spatial habit december agent captain crunch alpha square advice strategy hire";
+var mnemonic = "equip mango float brief kit abstract worry wagon nurse clay head high";

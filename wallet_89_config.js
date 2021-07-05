@@ -1,1 +1,1 @@
-var mnemonic = "ankle cute torch festival catalog column oil sting december lawsuit robot icon";
+var mnemonic = "swallow hill kidney satoshi success entry disease garlic useless bring guard pilot";

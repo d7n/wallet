@@ -1,1 +1,1 @@
-var mnemonic = "rather repair language frown good decline minimum invest warrior flame coach arrow";
+var mnemonic = "garlic angry outer auction curious practice scatter absorb tilt raccoon tower satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction logic chest exclude cattle comfort clinic exhibit talent spare tongue clay";
+var mnemonic = "caught sound real armed black crouch vapor true debris engine put wasp";

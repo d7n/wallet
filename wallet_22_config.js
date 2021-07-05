@@ -1,1 +1,1 @@
-var mnemonic = "point only toast surge health fog clay lyrics traffic baby hundred way";
+var mnemonic = "mind gym tower fault exit horn drum chimney shove spell tunnel crazy";

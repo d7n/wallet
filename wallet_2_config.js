@@ -1,1 +1,1 @@
-var mnemonic = "sketch season tilt bachelor own rare image image chair satisfy empower wash";
+var mnemonic = "whip cause grape walk kiss actor first private oppose tourist face robot";

@@ -1,1 +1,1 @@
-var mnemonic = "calm end birth furnace boss enforce party carpet liberty pigeon invite oyster";
+var mnemonic = "clog hurt glide future twice process economy immune quarter science glad knee";

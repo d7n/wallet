@@ -1,1 +1,1 @@
-var mnemonic = "ghost toddler warfare tourist wedding develop remind hint company usage vivid pair";
+var mnemonic = "awake foam gallery cycle hidden rule foot reward group execute improve maze";

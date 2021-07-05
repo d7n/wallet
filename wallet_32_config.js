@@ -1,1 +1,1 @@
-var mnemonic = "own inside okay online skirt roof early ostrich kiss rug game congress";
+var mnemonic = "garment notable enter bench open urge few tuition reason tobacco top fever";

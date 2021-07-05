@@ -1,1 +1,1 @@
-var mnemonic = "female lunar quality alpha spawn garlic tackle observe face taste test voice";
+var mnemonic = "broken tape proof genuine borrow speed pistol outside attend chuckle romance salad";

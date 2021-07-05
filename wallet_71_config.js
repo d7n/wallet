@@ -1,1 +1,1 @@
-var mnemonic = "apart mule render shed choose absorb end modify supreme execute piece rain";
+var mnemonic = "topic state marine work invest joke antenna feed weather trash same dilemma";

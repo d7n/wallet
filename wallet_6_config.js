@@ -1,1 +1,1 @@
-var mnemonic = "stock lyrics involve essay collect meat follow super market square tuna flat";
+var mnemonic = "invest praise prefer badge duty price draw marriage cigar under upgrade tumble";

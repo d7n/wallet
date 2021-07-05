@@ -1,1 +1,1 @@
-var mnemonic = "panel kid state motor wing pig odor fog island benefit future cool";
+var mnemonic = "hamster leopard essay illegal invite throw tree muffin chalk label loud front";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran tortoise clip army invest elegant dress olive upon fence later air";
+var mnemonic = "critic drive table input silent tonight rather orange dentist rifle away rug";

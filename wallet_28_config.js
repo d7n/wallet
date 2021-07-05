@@ -1,1 +1,1 @@
-var mnemonic = "pioneer regular leave alter egg example city thought aunt toss network wreck";
+var mnemonic = "emotion tuition often error together foil mountain employ differ find shuffle dash";

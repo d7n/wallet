@@ -1,1 +1,1 @@
-var mnemonic = "hour quality avoid blade bitter all crouch path print warm inhale mercy";
+var mnemonic = "thumb into shrimp since display exhaust mystery setup jeans repeat clay boring";

@@ -1,1 +1,1 @@
-var mnemonic = "day marine bird unusual method occur salt bench jar great clutch nominee";
+var mnemonic = "gossip inmate fresh miracle tortoise hood cave tube merge budget lumber half";

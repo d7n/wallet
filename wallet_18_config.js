@@ -1,1 +1,1 @@
-var mnemonic = "alter fog labor eagle novel say chase shine pass snow until emotion";
+var mnemonic = "conduct rack page side soft isolate faint tongue act minimum coil robust";

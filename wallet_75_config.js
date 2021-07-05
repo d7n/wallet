@@ -1,1 +1,1 @@
-var mnemonic = "oyster squeeze equal quote cycle roast chest tumble dial dog question bubble";
+var mnemonic = "stem judge fame enable mirror sock milk two deny city artwork luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "away wealth twist parrot swift harvest tone silent street waste tenant myself";
+var mnemonic = "old blade utility zero giggle negative start matrix margin globe squeeze this";

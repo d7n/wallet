@@ -1,1 +1,1 @@
-var mnemonic = "robust stereo current top trip tackle fix milk priority various brick art";
+var mnemonic = "budget bonus usual wolf crouch dynamic trust result clarify spider argue capital";

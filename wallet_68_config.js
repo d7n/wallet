@@ -1,1 +1,1 @@
-var mnemonic = "round liberty lunar elbow quit hen describe biology prepare acquire alarm scout";
+var mnemonic = "public popular defense eyebrow thank loan mountain home object engine width clump";

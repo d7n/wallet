@@ -1,1 +1,1 @@
-var mnemonic = "mobile tag west arm ugly layer grunt story wife world buyer old";
+var mnemonic = "interest twice direct dinner million approve team duty polar balcony napkin hunt";

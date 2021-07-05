@@ -1,1 +1,1 @@
-var mnemonic = "mind apart burger parrot reflect unique chuckle victory extend local else shiver";
+var mnemonic = "act buffalo palace rose gym business various december orient lesson real custom";

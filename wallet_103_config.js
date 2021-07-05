@@ -1,1 +1,1 @@
-var mnemonic = "left phone suffer occur weather dentist health dish window boy follow demand";
+var mnemonic = "outer attract cement quiz weekend vote bird trim artwork bargain cliff oyster";

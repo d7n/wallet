@@ -1,1 +1,1 @@
-var mnemonic = "cruise stereo lab velvet nothing core water exhaust question diagram pony romance";
+var mnemonic = "demise earn squirrel motion educate mouse junior attend hat child fever cause";

@@ -1,1 +1,1 @@
-var mnemonic = "around muffin steel erupt cool echo neutral soldier vacuum soup frost you";
+var mnemonic = "tent liberty lava company cushion crime pluck plate razor diamond wave coconut";

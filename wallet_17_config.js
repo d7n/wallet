@@ -1,1 +1,1 @@
-var mnemonic = "heart drink verb repair oval bitter parent day install become balance metal";
+var mnemonic = "entire history kidney pear tackle egg sense scene dove never game hollow";

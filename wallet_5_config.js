@@ -1,1 +1,1 @@
-var mnemonic = "alert sibling grocery truth crack interest patch glide nothing flock gap nature";
+var mnemonic = "mercy vault noble country abstract sun aware output asthma essay foil quote";

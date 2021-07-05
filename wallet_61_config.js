@@ -1,1 +1,1 @@
-var mnemonic = "slender soccer night face glance cluster electric mechanic sadness intact raise renew";
+var mnemonic = "mass accuse kick choose culture response dress can sketch merge wave heart";

@@ -1,1 +1,1 @@
-var mnemonic = "hold visual theory zero paper gesture kite blur very motor two dress";
+var mnemonic = "course imitate combine pudding cry copper faith huge summer spatial answer reason";

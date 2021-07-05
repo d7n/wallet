@@ -1,1 +1,1 @@
-var mnemonic = "ice peasant display fire citizen season attend satoshi token strike yellow kiwi";
+var mnemonic = "certain sail figure industry park build matrix blame kid reflect lift adapt";

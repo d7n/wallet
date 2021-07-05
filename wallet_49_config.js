@@ -1,1 +1,1 @@
-var mnemonic = "cost rural amateur youth pluck keep lumber draw exact uncle blush divide";
+var mnemonic = "muscle gauge cruise key reunion mechanic race cattle crush frog fine clean";

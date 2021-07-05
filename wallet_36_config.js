@@ -1,1 +1,1 @@
-var mnemonic = "whisper remember among penalty neither clay parent welcome bronze input observe ask";
+var mnemonic = "glass mercy lab pony crisp impose pull across bone tuna tackle seed";

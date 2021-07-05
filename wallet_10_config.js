@@ -1,1 +1,1 @@
-var mnemonic = "plunge food stairs butter field brother praise trend skull foil asthma slush";
+var mnemonic = "sword spray mansion thrive film rubber online midnight casino bone fault material";

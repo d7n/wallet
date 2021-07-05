@@ -1,1 +1,1 @@
-var mnemonic = "job diet luxury idea juice permit maximum since recall dinosaur junk fly";
+var mnemonic = "water object arrive panic rebel street ticket net web oyster alone abstract";

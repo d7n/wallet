@@ -1,1 +1,1 @@
-var mnemonic = "hill legal bachelor deposit brain glass clinic blood ugly basic foster kind";
+var mnemonic = "sight very sting victory unusual coast cart limit credit dance topic certain";

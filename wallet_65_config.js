@@ -1,1 +1,1 @@
-var mnemonic = "goat patrol bunker fever gallery learn ramp clip peace virtual remind win";
+var mnemonic = "wise this frequent soon amazing pelican brief cabin load orbit damage another";

@@ -1,1 +1,1 @@
-var mnemonic = "urban chase they retire reason crazy charge adjust input gospel total run";
+var mnemonic = "unit black enhance defy interest stool solar trial guard fossil muffin bean";

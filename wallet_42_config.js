@@ -1,1 +1,1 @@
-var mnemonic = "entire syrup toast blur edge lamp shrug exist miracle town pulp join";
+var mnemonic = "pencil space drastic curious ribbon camera risk taxi remain ask athlete agree";

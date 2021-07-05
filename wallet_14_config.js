@@ -1,1 +1,1 @@
-var mnemonic = "butter scare indicate word virus universe radio recipe motor uncle laugh limb";
+var mnemonic = "glow future same throw dune pumpkin mouse between solve wave season song";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil better solid milk object foster unit olympic goose lottery pelican poet";
+var mnemonic = "mosquito twist prepare loud toast draft term ahead bean royal host focus";

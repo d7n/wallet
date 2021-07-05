@@ -1,1 +1,1 @@
-var mnemonic = "depend final embody festival focus video raw account awful eyebrow table grain";
+var mnemonic = "cute scene noodle reject aim movie govern trial wonder rescue toy cost";

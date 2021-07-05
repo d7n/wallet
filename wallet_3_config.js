@@ -1,1 +1,1 @@
-var mnemonic = "hockey enact harvest carpet near clinic maid document club myth marine cable";
+var mnemonic = "diary path labor normal era night neck area drum dentist winner balance";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster need pudding tank half hole that ridge link dynamic alone visual";
+var mnemonic = "again street hood fix chicken reopen lizard current pumpkin flash sail drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll finish echo hobby morning lonely arena steel divorce couch taxi winter";
+var mnemonic = "rude orchard nasty innocent elevator crush cushion cargo feel movie solid detail";

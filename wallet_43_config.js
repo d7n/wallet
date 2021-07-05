@@ -1,1 +1,1 @@
-var mnemonic = "nurse below arch avocado drop bomb promote coyote prepare town poverty conduct";
+var mnemonic = "turtle leave frog page bridge rather open exit elevator evoke unfair ecology";

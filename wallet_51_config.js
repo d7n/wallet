@@ -1,1 +1,1 @@
-var mnemonic = "pepper ramp initial bless visa solution lounge planet census abuse bachelor soon";
+var mnemonic = "boost soul glory drop burger output bench dutch lobster remind lend faith";
