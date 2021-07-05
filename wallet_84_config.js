@@ -1,1 +1,1 @@
-var mnemonic = "spot urge fancy gasp ivory dune wine tunnel witness october mesh distance";
+var mnemonic = "embark proud tube napkin media any bunker hat before lemon stumble smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "rude warrior ring reflect brick dove neglect jewel ice play discover outdoor";
+var mnemonic = "pink spare claw hire ridge monkey pipe lemon glow goddess grow light";

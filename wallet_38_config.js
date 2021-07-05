@@ -1,1 +1,1 @@
-var mnemonic = "ride wedding learn nothing bag nice gown matter defense public vendor play";
+var mnemonic = "ski need uncover fuel antenna call cube lens embark afraid glide manual";

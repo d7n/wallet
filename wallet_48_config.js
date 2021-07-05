@@ -1,1 +1,1 @@
-var mnemonic = "ready reopen among south swarm dry stereo doll zero sausage salmon list";
+var mnemonic = "now hole wash return cup purpose shield remember involve praise patch card";

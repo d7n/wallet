@@ -1,1 +1,1 @@
-var mnemonic = "size crowd tonight junior nose senior desk initial stairs mechanic detect vessel";
+var mnemonic = "diamond festival entry pledge young mushroom emerge early clap vessel spoil friend";

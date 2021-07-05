@@ -1,1 +1,1 @@
-var mnemonic = "power chat more museum humor copper bus ocean fork police marriage fork";
+var mnemonic = "cage account ladder husband when roast field deputy spare subject unknown correct";

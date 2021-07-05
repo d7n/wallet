@@ -1,1 +1,1 @@
-var mnemonic = "ill slush beach moon frog then tilt avoid tissue shine moon useful";
+var mnemonic = "trouble leisure mansion tornado arrive choose during remember churn return renew book";

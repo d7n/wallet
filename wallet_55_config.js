@@ -1,1 +1,1 @@
-var mnemonic = "pioneer coach quick save pudding divert tragic nerve member blush easily little";
+var mnemonic = "depend lounge festival evidence three forward decide neglect wrestle measure mimic bicycle";

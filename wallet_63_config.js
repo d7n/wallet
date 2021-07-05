@@ -1,1 +1,1 @@
-var mnemonic = "tonight sadness idea tomato practice soldier alley chef tail appear sing glory";
+var mnemonic = "dynamic uncover broom purity whale butter accuse negative sausage rather return robust";

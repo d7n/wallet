@@ -1,1 +1,1 @@
-var mnemonic = "alley say problem claim symptom punch select inmate page april aunt melt";
+var mnemonic = "reject excess beyond column start merge vote tomato cube buyer planet purpose";

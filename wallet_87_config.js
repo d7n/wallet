@@ -1,1 +1,1 @@
-var mnemonic = "hollow arrest accuse blossom illegal acoustic shoot enter glide school humor mimic";
+var mnemonic = "face artwork hundred couple naive awesome reunion left exhibit myth option tip";

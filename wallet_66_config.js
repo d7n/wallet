@@ -1,1 +1,1 @@
-var mnemonic = "mosquito knock balcony guard fatal fashion finish gold runway just report sport";
+var mnemonic = "gate pioneer target agent raise fade upset aware develop elephant lawsuit poet";

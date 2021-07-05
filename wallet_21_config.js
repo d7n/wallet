@@ -1,1 +1,1 @@
-var mnemonic = "lock advance barrel outside worry pudding canoe hood bunker wrestle hungry found";
+var mnemonic = "absurd rally welcome program voice meat nurse save dawn lucky fresh truly";

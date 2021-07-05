@@ -1,1 +1,1 @@
-var mnemonic = "second tuition clutch bless race supreme below beach hurdle trip december erupt";
+var mnemonic = "assault machine insect energy favorite voyage unable ignore test switch rough security";

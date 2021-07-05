@@ -1,1 +1,1 @@
-var mnemonic = "aisle term nice fluid follow hub unveil atom six vapor anchor slush";
+var mnemonic = "hard response mandate bulb buzz broken grain escape final core dinner require";

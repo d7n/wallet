@@ -1,1 +1,1 @@
-var mnemonic = "veteran avocado run total borrow night animal photo spike wave donate ramp";
+var mnemonic = "fame reopen home diary afford ship wise evidence raccoon march since dragon";

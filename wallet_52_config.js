@@ -1,1 +1,1 @@
-var mnemonic = "pluck spike boy noble desk picture mammal eye mercy source blast theme";
+var mnemonic = "caught similar valve other afraid coyote pair valve there sausage visa again";

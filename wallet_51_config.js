@@ -1,1 +1,1 @@
-var mnemonic = "talk craft dinner rotate skirt cause rude reduce pupil flower candy spike";
+var mnemonic = "brisk security milk lava disagree blood middle helmet bulb romance creek napkin";

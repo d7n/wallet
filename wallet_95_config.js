@@ -1,1 +1,1 @@
-var mnemonic = "border amateur supreme neutral foam pen rigid record high stand purchase bid";
+var mnemonic = "hospital apart advice connect today twist beef champion spirit voyage valley cost";

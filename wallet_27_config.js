@@ -1,1 +1,1 @@
-var mnemonic = "harbor lake task trim forget essence subway total fan hurry mango saddle";
+var mnemonic = "point shell staff grace have state innocent stumble size lens immense tenant";

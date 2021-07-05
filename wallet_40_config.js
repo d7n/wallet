@@ -1,1 +1,1 @@
-var mnemonic = "tackle moon increase napkin cabbage team pipe absurd claim sniff negative broccoli";
+var mnemonic = "dry enlist alpha crawl elephant until age paddle alpha miss spy monkey";

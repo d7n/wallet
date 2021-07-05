@@ -1,1 +1,1 @@
-var mnemonic = "spirit all room flower monitor oppose robot frame episode urge hover vote";
+var mnemonic = "hawk come small foil region pink copy jungle nice ritual cream digital";

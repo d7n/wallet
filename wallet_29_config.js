@@ -1,1 +1,1 @@
-var mnemonic = "dilemma steak luxury miracle rather exist welcome caution enlist famous property fruit";
+var mnemonic = "cheap stumble finger skull tag polar hover eternal crouch ski nurse rule";

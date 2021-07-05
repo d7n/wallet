@@ -1,1 +1,1 @@
-var mnemonic = "veteran moral deer indicate upset during dress huge spy uncover crack move";
+var mnemonic = "safe turkey more symptom marriage regret feel walk zone mean final vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit embark silver fish tobacco reflect system transfer ice release scene exhaust";
+var mnemonic = "flush crush boss audit clap layer winner vote camera obtain valid end";

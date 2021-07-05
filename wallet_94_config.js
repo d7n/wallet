@@ -1,1 +1,1 @@
-var mnemonic = "uncover disagree fatigue elder practice stomach win correct illness vague deposit around";
+var mnemonic = "salon gift surface actual actress put hip top stone frost pole opera";

@@ -1,1 +1,1 @@
-var mnemonic = "melt segment load toward people crew utility convince birth diamond rich small";
+var mnemonic = "noodle twelve method plate balcony local utility report regular cliff labor similar";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty typical night ghost trick sleep eyebrow always iron gate thunder erase";
+var mnemonic = "wreck wheat desert write object turkey rotate art decade drama tourist robust";

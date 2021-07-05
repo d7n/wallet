@@ -1,1 +1,1 @@
-var mnemonic = "gasp habit pond option dish gap clarify lyrics feel scout maze thing";
+var mnemonic = "warfare issue gym bulk arctic craft renew gallery fitness middle view flight";

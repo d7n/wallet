@@ -1,1 +1,1 @@
-var mnemonic = "lobster real narrow random anxiety lens chat pioneer sign regular boring meat";
+var mnemonic = "travel gate tumble innocent remember relax delay sell deal mosquito negative engine";

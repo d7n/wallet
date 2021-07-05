@@ -1,1 +1,1 @@
-var mnemonic = "office retire bonus acquire tone mixed anger baby club toddler alpha citizen";
+var mnemonic = "tissue balcony fancy glance soul above midnight rookie imitate cake fiber dizzy";

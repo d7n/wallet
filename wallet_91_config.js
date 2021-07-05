@@ -1,1 +1,1 @@
-var mnemonic = "nuclear depend fat thing defy nominee valve suggest furnace zero want gown";
+var mnemonic = "mind reform then any innocent outer wash consider segment success pig alone";

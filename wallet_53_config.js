@@ -1,1 +1,1 @@
-var mnemonic = "island light luxury water service evolve funny jacket trip boss pretty rally";
+var mnemonic = "radio include employ planet toward orient music faith lunar shy awesome proof";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy switch tube inmate ability will cheap idea day pave fuel day";
+var mnemonic = "cannon fragile assault like later argue clever parade rookie thank menu fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "always insect basket inform enter unknown surge bronze bottom erode glide cereal";
+var mnemonic = "roof angry skull notice mouse pilot critic buyer salmon imitate control tongue";

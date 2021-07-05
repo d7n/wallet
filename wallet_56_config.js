@@ -1,1 +1,1 @@
-var mnemonic = "inherit comfort wait family vintage used wire hundred morning cute rookie maximum";
+var mnemonic = "smart slice acid account whip aerobic crucial ordinary swear tray run guitar";

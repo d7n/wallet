@@ -1,1 +1,1 @@
-var mnemonic = "level fault idea sweet blind donate service wait ball tunnel siren summer";
+var mnemonic = "half belt attack author noise army cart cook small wild cruel host";

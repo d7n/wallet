@@ -1,1 +1,1 @@
-var mnemonic = "unknown kind right cliff bounce rookie brother rib enlist tone mother boil";
+var mnemonic = "execute nurse unit isolate forest mobile spoon draft flat reason draft equal";

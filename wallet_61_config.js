@@ -1,1 +1,1 @@
-var mnemonic = "impact near brand album humor problem funny copper imitate trap this credit";
+var mnemonic = "beyond orbit hybrid electric tell tag clip emotion ankle peasant camera churn";

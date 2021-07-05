@@ -1,1 +1,1 @@
-var mnemonic = "nature excite diesel slogan install unfold leisure forget element view travel spin";
+var mnemonic = "rate almost soldier long gadget minor actual noble bread health orange bridge";

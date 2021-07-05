@@ -1,1 +1,1 @@
-var mnemonic = "practice search grid alter design glare enact rocket veteran cherry donkey tent";
+var mnemonic = "gain shove disagree garage lava silver tongue dry sister host stadium upper";

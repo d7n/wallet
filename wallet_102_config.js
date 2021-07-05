@@ -1,1 +1,1 @@
-var mnemonic = "dust warfare verb siren vague slush nothing praise skate correct face struggle";
+var mnemonic = "mutual toilet enable magic permit rebuild fetch vacuum disagree patch industry blur";

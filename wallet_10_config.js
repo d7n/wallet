@@ -1,1 +1,1 @@
-var mnemonic = "fish deer good stay junk hundred prevent stuff tourist kitten camp aspect";
+var mnemonic = "sign legal say citizen box silk relief output pyramid jaguar swing inmate";

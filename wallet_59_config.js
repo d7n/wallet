@@ -1,1 +1,1 @@
-var mnemonic = "purpose much rival sketch shell marble follow toward universe hub cancel mercy";
+var mnemonic = "dial abuse vocal shed embark flee twin skull quick grass bacon expose";

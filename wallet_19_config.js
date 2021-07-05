@@ -1,1 +1,1 @@
-var mnemonic = "save talent cycle glance disagree series swim humor already entry muscle taxi";
+var mnemonic = "lift thumb canvas oven trophy credit piano brain second govern express maze";

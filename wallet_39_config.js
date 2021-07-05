@@ -1,1 +1,1 @@
-var mnemonic = "stumble quote excess fly pottery ceiling gentle logic marble second glimpse among";
+var mnemonic = "weapon suspect rather reduce special battle normal crystal pepper salt trash fence";

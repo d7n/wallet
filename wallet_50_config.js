@@ -1,1 +1,1 @@
-var mnemonic = "economy cave title october wife poem virus miracle goat cabbage sand giggle";
+var mnemonic = "soap pelican afford grape impulse expand kite found cycle sing shine couple";

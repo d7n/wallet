@@ -1,1 +1,1 @@
-var mnemonic = "resource excess bring response month combine visual stick sleep medal combine damage";
+var mnemonic = "miss brisk wood order face leader achieve run afraid glide obtain spread";

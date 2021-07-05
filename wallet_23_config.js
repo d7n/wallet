@@ -1,1 +1,1 @@
-var mnemonic = "accuse barely purchase boy three alter one energy when board must middle";
+var mnemonic = "fork theory improve cycle phrase poem shock pattern vicious one original penalty";

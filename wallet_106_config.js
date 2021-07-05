@@ -1,1 +1,1 @@
-var mnemonic = "survey flavor video retire eight between april impose solar pitch grab lounge";
+var mnemonic = "blanket soccer grace gloom major wink marriage bid smooth endorse tone knee";

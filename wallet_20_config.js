@@ -1,1 +1,1 @@
-var mnemonic = "hold plug quantum ten three wash amazing feature daring nurse lonely agent";
+var mnemonic = "stadium medal lazy castle rib forest have crouch endorse wire rookie evidence";

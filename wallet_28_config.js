@@ -1,1 +1,1 @@
-var mnemonic = "rail ask cancel version burden violin stereo fly average steel bomb firm";
+var mnemonic = "valid quit analyst execute brother normal like evidence forget waste gift fresh";

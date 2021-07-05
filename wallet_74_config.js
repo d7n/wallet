@@ -1,1 +1,1 @@
-var mnemonic = "blush goose green toss jelly deputy satisfy trap stumble library sadness explain";
+var mnemonic = "hair seven small worth brisk treat major public recycle cute grief cloth";

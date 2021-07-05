@@ -1,1 +1,1 @@
-var mnemonic = "anxiety explain stay liquid slush coil settle autumn minute time split grunt";
+var mnemonic = "clay liberty coin weasel burden sustain drive robust sorry rubber list country";

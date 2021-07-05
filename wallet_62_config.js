@@ -1,1 +1,1 @@
-var mnemonic = "panel music travel rent grab meadow venue mean strong catch display spirit";
+var mnemonic = "bus drop town kingdom piece cannon chief double next inch imitate manual";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise month sample remove tennis iron arrange reduce bike volcano hobby exclude";
+var mnemonic = "spoil taxi lottery struggle cram during recycle safe coconut oyster purse adjust";

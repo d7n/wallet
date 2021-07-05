@@ -1,1 +1,1 @@
-var mnemonic = "wheel month mimic segment baby angry dignity valve giraffe grape ozone brain";
+var mnemonic = "humor already volume unit ginger right shove scissors kitchen lazy sheriff hope";

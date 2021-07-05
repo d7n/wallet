@@ -1,1 +1,1 @@
-var mnemonic = "gospel check truth exist device toddler silent bonus bag heart short rain";
+var mnemonic = "yard chef angle stool knock lava unfair merge tonight puppy saddle always";

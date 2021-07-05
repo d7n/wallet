@@ -1,1 +1,1 @@
-var mnemonic = "balcony forget pen million faculty purchase cool novel gorilla spread enemy pilot";
+var mnemonic = "pencil tribe gesture regular alien final print happy junk educate story pave";

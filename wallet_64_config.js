@@ -1,1 +1,1 @@
-var mnemonic = "leisure snow icon arrest barely acoustic budget paddle dwarf trumpet ask vintage";
+var mnemonic = "admit bubble truth uphold fatigue west action ladder ask amateur crime wing";

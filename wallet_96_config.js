@@ -1,1 +1,1 @@
-var mnemonic = "cube arrange lizard section grass account fish zebra frost lab emotion chimney";
+var mnemonic = "emotion bunker spare hawk word timber confirm rain fork beach about squirrel";

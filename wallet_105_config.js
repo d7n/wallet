@@ -1,1 +1,1 @@
-var mnemonic = "dune wet bleak silent decide grape impact define regret truth amazing dinosaur";
+var mnemonic = "dice spring eyebrow crucial skull cheese still animal eternal cruise action cause";

@@ -1,1 +1,1 @@
-var mnemonic = "music hub glow ancient chat dash tag entry small alter purity pave";
+var mnemonic = "regular remember issue around nephew clog arrow include segment carpet slot tomato";

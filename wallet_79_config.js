@@ -1,1 +1,1 @@
-var mnemonic = "blossom more rural cereal earth early monitor eyebrow round merry boss aisle";
+var mnemonic = "first time yard gasp february stairs romance love write conduct mail gas";

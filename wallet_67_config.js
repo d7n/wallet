@@ -1,1 +1,1 @@
-var mnemonic = "banner unfold ready ankle mirror example hire arrow tornado grid glimpse excess";
+var mnemonic = "girl slot poverty search siege marine meat modify young trap elite bean";

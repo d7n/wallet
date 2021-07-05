@@ -1,1 +1,1 @@
-var mnemonic = "famous cram proof mule tired attend tiger program ridge mix palm zoo";
+var mnemonic = "modify initial old frog police heart control scan funny damp again car";

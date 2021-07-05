@@ -1,1 +1,1 @@
-var mnemonic = "reform category express mixture apart column retreat trust gauge category walk distance";
+var mnemonic = "soft cupboard assist pupil ketchup outside indoor lonely original mean silver toast";

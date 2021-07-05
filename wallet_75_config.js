@@ -1,1 +1,1 @@
-var mnemonic = "between reflect tag shine left wealth medal stuff crater rigid siren pioneer";
+var mnemonic = "stuff brown aunt smile exhaust damp rifle code glimpse police head deer";

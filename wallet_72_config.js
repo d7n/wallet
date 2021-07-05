@@ -1,1 +1,1 @@
-var mnemonic = "lecture despair solid allow protect cotton brown season verify stick tilt lake";
+var mnemonic = "fluid gravity swap victory cause strategy aerobic clever grid crop test thing";

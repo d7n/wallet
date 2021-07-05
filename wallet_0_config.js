@@ -1,1 +1,1 @@
-var mnemonic = "another tenant goose spice message menu regret essence best enact donor cube";
+var mnemonic = "easy ritual lawsuit receive radar early rule render flight surge give expand";

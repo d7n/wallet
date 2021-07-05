@@ -1,1 +1,1 @@
-var mnemonic = "soul vault champion write rotate tool regular disagree enemy kingdom rich reveal";
+var mnemonic = "rough raven else jelly candy grit parrot pudding cluster call idea bar";

@@ -1,1 +1,1 @@
-var mnemonic = "enough kingdom pistol current ordinary bulb sketch matter twice false half duty";
+var mnemonic = "version burden apple faculty barely level basket embrace actress visa secret pole";

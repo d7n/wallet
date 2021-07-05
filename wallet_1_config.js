@@ -1,1 +1,1 @@
-var mnemonic = "flight theory country true ivory option cake supply follow peasant hair artist";
+var mnemonic = "soda dirt tissue split husband rule spirit nephew flash audit share buffalo";

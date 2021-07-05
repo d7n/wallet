@@ -1,1 +1,1 @@
-var mnemonic = "unhappy damp post enlist obtain notable thank ten glance quantum rabbit hero";
+var mnemonic = "impulse treat feature wisdom comfort rally wrist rookie actress midnight dog polar";

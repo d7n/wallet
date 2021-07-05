@@ -1,1 +1,1 @@
-var mnemonic = "tool fit able adult bulk bullet pyramid purchase fun stone fortune trumpet";
+var mnemonic = "spy horse vault absorb music document weather vessel skull resource mean ski";

@@ -1,1 +1,1 @@
-var mnemonic = "pact view gauge then neck upset affair slot siren skate dune system";
+var mnemonic = "loyal copper season spin salon sand ketchup grow tail unaware print lesson";

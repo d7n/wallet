@@ -1,1 +1,1 @@
-var mnemonic = "impact witness still diesel blood panther stage amateur raccoon panic swap knife";
+var mnemonic = "sample mixture credit base rib deer climb call bamboo habit hamster coach";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel patch ribbon display vault favorite autumn apart mail follow mixture crisp";
+var mnemonic = "orphan slab virus believe album grocery marble enough uncle prize rack tree";

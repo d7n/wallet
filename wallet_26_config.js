@@ -1,1 +1,1 @@
-var mnemonic = "ripple cereal nominee wife brick brush unaware quarter rifle plunge that tackle";
+var mnemonic = "theory tool among brown attitude zebra add shoe fitness brave deposit modify";

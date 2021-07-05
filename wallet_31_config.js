@@ -1,1 +1,1 @@
-var mnemonic = "rule slide winter senior action umbrella fortune waste love jealous end they";
+var mnemonic = "turkey measure arrange crowd illness nephew coffee swamp joke erosion garlic enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "dress sing tape rigid host shaft lunch drive level demise bunker retreat";
+var mnemonic = "vintage vanish cycle sand shove barrel round ocean census method produce slush";

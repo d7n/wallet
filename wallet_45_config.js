@@ -1,1 +1,1 @@
-var mnemonic = "device return weapon bulk west business such wide taste thrive damp render";
+var mnemonic = "canal daring witness census awful supreme pass check jewel record organ stuff";

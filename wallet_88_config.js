@@ -1,1 +1,1 @@
-var mnemonic = "clutch ketchup party still shine auction program weather tag lyrics charge brown";
+var mnemonic = "amount whale enhance fade dilemma scare bright gain atom culture flock brain";

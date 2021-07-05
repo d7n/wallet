@@ -1,1 +1,1 @@
-var mnemonic = "door curious romance purity wink square gain final awkward sponsor pepper genius";
+var mnemonic = "bulb lend lonely decrease orchard bless call divert panther swarm vital hamster";

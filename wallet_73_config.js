@@ -1,1 +1,1 @@
-var mnemonic = "control earth lumber diary visual muffin calm heavy fruit pudding control alley";
+var mnemonic = "undo tool history beauty swallow grace across weird culture round tennis tackle";

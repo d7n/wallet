@@ -1,1 +1,1 @@
-var mnemonic = "element potato task assault control brick scissors song hurt stereo liquid make";
+var mnemonic = "invest impulse arch march wife blouse mad time gas remain waste man";

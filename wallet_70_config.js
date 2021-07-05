@@ -1,1 +1,1 @@
-var mnemonic = "plunge dilemma laundry enlist mesh travel fatigue usual short discover bring demand";
+var mnemonic = "chaos debris calm kit fix private mix labor melody curve hammer wrestle";

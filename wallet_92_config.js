@@ -1,1 +1,1 @@
-var mnemonic = "suffer agent stable soldier swallow skull bone knee sorry person fortune brief";
+var mnemonic = "sport glide nothing suit light kidney naive stem proof index cereal seed";

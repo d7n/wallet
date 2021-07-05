@@ -1,1 +1,1 @@
-var mnemonic = "blush agree split alien dad marriage ugly unlock balance health mixed nominee";
+var mnemonic = "physical hospital bean town true volcano bullet vital fabric tenant verb hello";

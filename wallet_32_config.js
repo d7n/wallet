@@ -1,1 +1,1 @@
-var mnemonic = "inspire robot aware person supply faith photo torch picnic mirror hand punch";
+var mnemonic = "put enroll fish erupt loyal method almost come agree attitude blanket empower";

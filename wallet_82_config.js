@@ -1,1 +1,1 @@
-var mnemonic = "soft verify capable cube stadium item elegant grant sail ten desert owner";
+var mnemonic = "flavor hawk buyer fix volume alley gospel resist stool absorb garlic settle";

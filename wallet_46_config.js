@@ -1,1 +1,1 @@
-var mnemonic = "split video immense addict kite naive click leg castle pig cereal eternal";
+var mnemonic = "glare vocal bind farm clown decade quit trash jaguar mixed price estate";

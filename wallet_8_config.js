@@ -1,1 +1,1 @@
-var mnemonic = "example friend benefit eagle achieve flower polar unlock sort plastic portion elite";
+var mnemonic = "melt van ice capital extend south welcome virtual already raw post book";

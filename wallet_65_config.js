@@ -1,1 +1,1 @@
-var mnemonic = "brown frown repair image collect tackle stomach mosquito height laugh talent roast";
+var mnemonic = "convince gun marine wink obscure art tide holiday topple tragic lecture cry";

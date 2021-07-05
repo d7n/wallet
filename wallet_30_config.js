@@ -1,1 +1,1 @@
-var mnemonic = "debris until door case clip finger insane child buyer sorry simple fashion";
+var mnemonic = "wing mind tuna quality bulb baby scrap wash grocery expand stick pause";
