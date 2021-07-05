@@ -1,1 +1,1 @@
-var mnemonic = "damp run pill sponsor across destroy shrimp little salon benefit pear west";
+var mnemonic = "escape track twin dad manual monitor range song feature fork economy pink";

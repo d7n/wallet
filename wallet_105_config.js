@@ -1,1 +1,1 @@
-var mnemonic = "foot police reform cube fossil ritual father effort chair rack cry gallery";
+var mnemonic = "either swift zone cattle sniff answer sock tower airport trophy nasty grain";

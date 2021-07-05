@@ -1,1 +1,1 @@
-var mnemonic = "decide price symptom cloud volcano pitch dog hundred myself base mechanic bronze";
+var mnemonic = "police cook truth whip depend claim camp hand chair despair season law";

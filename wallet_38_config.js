@@ -1,1 +1,1 @@
-var mnemonic = "miracle flight material trust neither survey fossil adapt promote ship major ill";
+var mnemonic = "version dutch town machine live increase upgrade vivid blossom lake merit local";

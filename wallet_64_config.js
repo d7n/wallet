@@ -1,1 +1,1 @@
-var mnemonic = "lawn observe mail usage fatigue kangaroo what cake wet spring elbow orphan";
+var mnemonic = "help lend repair oppose robot indoor diagram quality pumpkin knock ramp penalty";

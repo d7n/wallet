@@ -1,1 +1,1 @@
-var mnemonic = "assault flush fantasy ceiling unaware any liar broken ocean trophy term enact";
+var mnemonic = "slogan truck story bottom neither cube iron great ill client awkward fringe";

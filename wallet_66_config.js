@@ -1,1 +1,1 @@
-var mnemonic = "notable pitch boat dune clog ice tired sustain creek pulp friend nerve";
+var mnemonic = "quiz have setup radar author discover skate raw shaft example coil extend";

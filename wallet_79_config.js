@@ -1,1 +1,1 @@
-var mnemonic = "walnut venue illegal relax weird oyster trust turtle base whale amused modify";
+var mnemonic = "right cart scale theory hub put surround session hub rough delay winner";

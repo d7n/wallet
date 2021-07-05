@@ -1,1 +1,1 @@
-var mnemonic = "quality champion february victory elephant oxygen click evil mass angry exhaust always";
+var mnemonic = "exotic permit bulk settle gesture purchase essence wage segment tomorrow plunge real";

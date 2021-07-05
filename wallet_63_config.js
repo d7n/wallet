@@ -1,1 +1,1 @@
-var mnemonic = "ski enact glove blossom upon turn group panda arrange chuckle dinner fault";
+var mnemonic = "walnut general effort busy govern rival velvet cat notice sign dirt fee";

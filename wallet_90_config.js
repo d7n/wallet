@@ -1,1 +1,1 @@
-var mnemonic = "tomato glare glue coffee spot reward lesson finger turkey virtual blood kit";
+var mnemonic = "law laugh two bleak grocery kiss pluck close claw floor tree hybrid";

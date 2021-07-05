@@ -1,1 +1,1 @@
-var mnemonic = "like first pistol spike misery basket record dish arch fox market tennis";
+var mnemonic = "armed eight slam transfer love strategy cable tissue loan sort month wild";

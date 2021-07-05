@@ -1,1 +1,1 @@
-var mnemonic = "debris earth run sorry piano cargo loop notable special combine volcano tooth";
+var mnemonic = "gauge twenty brass north range pitch rack engine spy keep nominee easy";

@@ -1,1 +1,1 @@
-var mnemonic = "belt asset material absent model picnic fossil damp will spot shadow wisdom";
+var mnemonic = "slow arrive absent festival creek balcony heart stand other range glory fantasy";

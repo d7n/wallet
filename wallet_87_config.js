@@ -1,1 +1,1 @@
-var mnemonic = "mushroom shove column garment oblige below often timber dwarf add staff material";
+var mnemonic = "tennis insane cousin quote chimney wrestle produce zebra resource shed inside bunker";

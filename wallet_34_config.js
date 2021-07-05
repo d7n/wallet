@@ -1,1 +1,1 @@
-var mnemonic = "salmon jar marriage melt hobby cart rhythm thank act faculty govern oil";
+var mnemonic = "plate doctor smart snow humor youth fly note adapt mention wrap later";

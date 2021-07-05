@@ -1,1 +1,1 @@
-var mnemonic = "mutual garden moon frog vapor faint ridge waste uncle camp calm change";
+var mnemonic = "insane split seek piano faith remove festival tone envelope boil brush pudding";

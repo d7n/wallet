@@ -1,1 +1,1 @@
-var mnemonic = "clarify always stamp bomb goat adult siren expire potato cargo diesel domain";
+var mnemonic = "arctic ship humor diet guess symbol vague walk program someone fresh vendor";

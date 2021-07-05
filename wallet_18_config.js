@@ -1,1 +1,1 @@
-var mnemonic = "warfare confirm pool jar funny maze liberty boss minimum private pelican viable";
+var mnemonic = "canoe flight senior fury easily soon twelve observe torch youth liar flag";

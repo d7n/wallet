@@ -1,1 +1,1 @@
-var mnemonic = "accident crouch design this arena approve surprise dismiss thunder decade vault anger";
+var mnemonic = "wink piece settle hero runway father federal atom south system record item";

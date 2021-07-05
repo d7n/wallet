@@ -1,1 +1,1 @@
-var mnemonic = "token dizzy mixed approve believe dose chicken gate fragile repeat loud cactus";
+var mnemonic = "bless dial test reopen pumpkin job ask flame major wrestle mansion same";

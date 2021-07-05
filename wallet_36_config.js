@@ -1,1 +1,1 @@
-var mnemonic = "mango stay obey soup there saddle stay reveal setup oyster curious easy";
+var mnemonic = "boat immune portion picture ranch mansion any home find tornado nation coach";

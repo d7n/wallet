@@ -1,1 +1,1 @@
-var mnemonic = "already defense reopen boss empower correct pilot rack erosion number proof silly";
+var mnemonic = "switch fall hurt fancy group essay wonder hen solar chunk solve power";

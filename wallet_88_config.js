@@ -1,1 +1,1 @@
-var mnemonic = "subway dawn shrimp join brief dynamic plunge report alter warm another stumble";
+var mnemonic = "topic dog warrior push manual verb gather ship radio pizza lesson one";

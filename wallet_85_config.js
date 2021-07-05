@@ -1,1 +1,1 @@
-var mnemonic = "cereal walk diamond assist recipe humble example average dial radio auction apple";
+var mnemonic = "joy toilet start shoot post economy black burger nut mass trouble talk";

@@ -1,1 +1,1 @@
-var mnemonic = "web blade chunk hero label feel total various century drip organ quit";
+var mnemonic = "smile fluid street few height power absorb inside coconut boy stay razor";

@@ -1,1 +1,1 @@
-var mnemonic = "flip tragic fault ability grass subject target unlock donor whale regret right";
+var mnemonic = "letter feed dwarf bulk town talent faculty buyer mad afraid sheriff piece";

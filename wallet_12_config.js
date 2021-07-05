@@ -1,1 +1,1 @@
-var mnemonic = "march toe decade appear yard output found assault cabin acquire catalog saddle";
+var mnemonic = "spoil laptop novel gadget portion destroy enact decrease scan father amount screen";

@@ -1,1 +1,1 @@
-var mnemonic = "tone climb future inspire amazing drift face lava desert cabbage mail patient";
+var mnemonic = "bean orphan buddy blouse hobby swallow dad math sick stick double jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve casual promote castle entire ahead soap repeat night myself abuse jump";
+var mnemonic = "mean upgrade similar equal grocery various unhappy emerge dice season plunge peace";

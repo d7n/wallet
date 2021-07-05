@@ -1,1 +1,1 @@
-var mnemonic = "click day welcome multiply start clever bid fall foster embody cousin normal";
+var mnemonic = "mask region kid rail turtle caution calm believe head snake pig wife";

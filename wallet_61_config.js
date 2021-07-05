@@ -1,1 +1,1 @@
-var mnemonic = "pioneer earn antenna width ostrich swap woman uncover print spoil tank travel";
+var mnemonic = "manage trumpet entire panda security hold hedgehog use torch ring actress friend";

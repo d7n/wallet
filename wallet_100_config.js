@@ -1,1 +1,1 @@
-var mnemonic = "service neck bundle popular iron make common green journey tumble student multiply";
+var mnemonic = "glow nuclear page dwarf neither oxygen indicate bike junior attitude tube face";

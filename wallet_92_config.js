@@ -1,1 +1,1 @@
-var mnemonic = "monster tray whip crowd diamond mention style benefit cycle pilot used idle";
+var mnemonic = "hub rival someone foster love village essay pledge melt endorse opinion advice";

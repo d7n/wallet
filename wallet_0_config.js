@@ -1,1 +1,1 @@
-var mnemonic = "ring when cargo soul wreck flip large narrow tomorrow cinnamon picture vault";
+var mnemonic = "cause damp parade nasty fossil bounce female recall dice wink nation sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "sure video word menu potato across crucial post burden fit harbor innocent";
+var mnemonic = "yellow outdoor define reject cream loan subway list report dismiss ability tomato";

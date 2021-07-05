@@ -1,1 +1,1 @@
-var mnemonic = "party foil science bullet soccer lecture economy sure chef smart sand film";
+var mnemonic = "program deputy wrong sentence crack cluster cotton clay six crucial advice tiny";

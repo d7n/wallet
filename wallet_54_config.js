@@ -1,1 +1,1 @@
-var mnemonic = "bulk ask above repeat theory work record lizard ecology file simple trouble";
+var mnemonic = "destroy airport alter defy anger exhaust couple breeze balcony march basket hip";

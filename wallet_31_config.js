@@ -1,1 +1,1 @@
-var mnemonic = "pledge achieve light robot rhythm eight inmate ozone shine wreck sick high";
+var mnemonic = "giggle sister just blast state armor neither dynamic cradle donor throw neither";

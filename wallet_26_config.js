@@ -1,1 +1,1 @@
-var mnemonic = "wish junk rally hurt erosion napkin behave undo pencil junior unit attack";
+var mnemonic = "visit reject air decline design legal summer tortoise evil parent despair famous";

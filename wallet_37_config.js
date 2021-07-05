@@ -1,1 +1,1 @@
-var mnemonic = "explain lobster negative waste injury ring valid change grocery hedgehog mandate school";
+var mnemonic = "invest north lonely release rough orbit junk notice river drastic radar resist";

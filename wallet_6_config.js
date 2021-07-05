@@ -1,1 +1,1 @@
-var mnemonic = "bronze alert barely obtain have scrub ready area remove oppose staff blouse";
+var mnemonic = "shadow grass west umbrella circle output very unaware paper great come grid";

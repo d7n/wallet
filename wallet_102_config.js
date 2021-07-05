@@ -1,1 +1,1 @@
-var mnemonic = "sure plunge farm execute dinosaur network urge harvest subway grant rubber soup";
+var mnemonic = "swear sunny plastic useless cluster later prize hospital type marriage come creek";

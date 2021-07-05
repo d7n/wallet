@@ -1,1 +1,1 @@
-var mnemonic = "mobile divorce blur erode sea fork rally seek pupil anchor pond crack";
+var mnemonic = "grain oil advance post transfer chair sketch merry muscle still fatal coil";

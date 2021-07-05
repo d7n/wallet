@@ -1,1 +1,1 @@
-var mnemonic = "buyer sponsor drum town nasty there trial strategy vague width enlist vendor";
+var mnemonic = "donor few coach clip apart blouse artefact cat exchange require tourist broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "spend park embark gasp will stock enjoy keen dawn angle unable lesson";
+var mnemonic = "vote distance spatial park artwork plug velvet veteran imitate vicious minor atom";

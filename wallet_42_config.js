@@ -1,1 +1,1 @@
-var mnemonic = "spare tribe vibrant brush regular sudden water giggle pepper grocery float repeat";
+var mnemonic = "picnic obtain loud drill like pulp give wreck chief planet inmate motor";

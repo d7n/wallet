@@ -1,1 +1,1 @@
-var mnemonic = "cradle ticket dish palm enroll oven profit jeans admit stamp jump about";
+var mnemonic = "raccoon base shield pulp popular horror venue vast noodle elder tunnel rug";

@@ -1,1 +1,1 @@
-var mnemonic = "column reunion comic use taxi slim cement dash good exotic giggle gospel";
+var mnemonic = "escape crumble fine bulk garment width happy error dry elder film maid";

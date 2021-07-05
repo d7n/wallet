@@ -1,1 +1,1 @@
-var mnemonic = "ranch wolf stairs cinnamon rain finish cup surface speak you slight amused";
+var mnemonic = "object blanket inherit private motion quantum renew speed together three glare valley";

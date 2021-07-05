@@ -1,1 +1,1 @@
-var mnemonic = "sausage almost merge cluster behind evil trim gap unfair thought praise profit";
+var mnemonic = "earn produce later float pole atom simple matter old clarify beef capital";

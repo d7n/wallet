@@ -1,1 +1,1 @@
-var mnemonic = "shallow lizard category special oak tower ripple check drastic river buzz motion";
+var mnemonic = "good tortoise guitar fold evolve pulp this fade hybrid gift bachelor aim";

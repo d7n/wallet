@@ -1,1 +1,1 @@
-var mnemonic = "liquid aerobic decrease debris protect purse industry trouble nasty weird rebuild olive";
+var mnemonic = "promote chat speed acid chat apart learn meadow mean struggle opinion result";

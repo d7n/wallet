@@ -1,1 +1,1 @@
-var mnemonic = "husband select into weapon skin crush jaguar alpha vessel liberty penalty wonder";
+var mnemonic = "furnace tuition senior patrol leader female world raccoon assault prevent network skill";

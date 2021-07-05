@@ -1,1 +1,1 @@
-var mnemonic = "resource lesson emotion tool elevator morning olympic face hawk honey robot runway";
+var mnemonic = "drama polar embark enact frequent banana hard dish bottom junk clean dial";

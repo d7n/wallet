@@ -1,1 +1,1 @@
-var mnemonic = "shoulder vital snap pyramid hello gate gallery marine soft much abuse nominee";
+var mnemonic = "matrix cost island december butter fan erosion peasant debris season hazard fiscal";

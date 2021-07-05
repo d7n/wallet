@@ -1,1 +1,1 @@
-var mnemonic = "music album frozen siren baby woman hurdle force unable onion success lens";
+var mnemonic = "uphold bid bonus ecology foster mirror please love draft noise scatter various";

@@ -1,1 +1,1 @@
-var mnemonic = "alter gloom leader science depend kitten allow announce mean private virtual tomato";
+var mnemonic = "couple doctor fork destroy range tilt call wedding spirit fix hawk drastic";

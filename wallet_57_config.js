@@ -1,1 +1,1 @@
-var mnemonic = "hundred because shrimp fly will tail gorilla excuse quiz win hand extend";
+var mnemonic = "execute awesome note duty ten sail common explain wreck swing valve cloud";

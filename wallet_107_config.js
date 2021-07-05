@@ -1,1 +1,1 @@
-var mnemonic = "swamp glass motion era before couple weird refuse friend scatter floor flight";
+var mnemonic = "goose discover connect cousin make chief frown lesson burger volume argue intact";

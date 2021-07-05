@@ -1,1 +1,1 @@
-var mnemonic = "weekend dust require buffalo unveil disorder clever sad swamp casino tape cattle";
+var mnemonic = "polar lizard inner loud mass disorder bone impact yellow favorite salute very";

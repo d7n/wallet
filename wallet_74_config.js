@@ -1,1 +1,1 @@
-var mnemonic = "casual general control sure miracle ceiling glad sport rose east bid cancel";
+var mnemonic = "brother crush calm mechanic express yard cement caution layer list perfect question";

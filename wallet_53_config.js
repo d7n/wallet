@@ -1,1 +1,1 @@
-var mnemonic = "fetch awake parrot glad meadow alarm film describe joke west hour wrestle";
+var mnemonic = "traffic radio grain empower east income casino manual glad egg balance surround";

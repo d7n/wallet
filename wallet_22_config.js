@@ -1,1 +1,1 @@
-var mnemonic = "devote limit motor float crash quit taxi inherit shed immense inside message";
+var mnemonic = "make place mother motion mountain toward blossom copper calm sound bird anchor";

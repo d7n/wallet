@@ -1,1 +1,1 @@
-var mnemonic = "warfare fall ranch group genre tumble almost hood buddy screen hospital security";
+var mnemonic = "switch avoid local around image friend shed any bid patient square mask";

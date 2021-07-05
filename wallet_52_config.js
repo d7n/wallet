@@ -1,1 +1,1 @@
-var mnemonic = "jealous gun fun cat giraffe secret phrase antique load young wood document";
+var mnemonic = "width balcony uniform baby lady slide spy sun cake merit mistake urge";

@@ -1,1 +1,1 @@
-var mnemonic = "device material medal era crystal obtain october attract cousin credit lonely welcome";
+var mnemonic = "work act hurry property keep liar life right season flight people panda";

@@ -1,1 +1,1 @@
-var mnemonic = "happy action near minute expose speed vast voyage grid public like narrow";
+var mnemonic = "market express visa dwarf cotton van daughter off wolf trim method iron";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug neck inhale arrow endorse spice impulse dry mention silent degree city";
+var mnemonic = "cat dutch oil special vapor business squirrel easily say derive million robust";

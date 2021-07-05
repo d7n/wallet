@@ -1,1 +1,1 @@
-var mnemonic = "merit correct rather nut alcohol entire pipe true ahead inside inflict purchase";
+var mnemonic = "cupboard bench truly owner story beef width panic march wide income creek";

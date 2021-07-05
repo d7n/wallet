@@ -1,1 +1,1 @@
-var mnemonic = "october brush crowd predict charge fury puppy blade pretty coyote edge team";
+var mnemonic = "fade lumber dolphin obscure violin step aspect present search try orient rifle";

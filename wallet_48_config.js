@@ -1,1 +1,1 @@
-var mnemonic = "gun volume early equal region position excess install clog enough empty tiny";
+var mnemonic = "few tone theme artefact nasty rug fantasy enforce push twelve baby orient";

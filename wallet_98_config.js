@@ -1,1 +1,1 @@
-var mnemonic = "crystal save teach together shiver already inside version mask theme extend pizza";
+var mnemonic = "search reason okay anger glare arch insect flag spy carry ten predict";

@@ -1,1 +1,1 @@
-var mnemonic = "eye drink arena report notice cherry tattoo infant maple bag wet forest";
+var mnemonic = "clog black elbow together despair liberty reunion frequent pony kitchen switch engage";

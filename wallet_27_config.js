@@ -1,1 +1,1 @@
-var mnemonic = "inflict seed wage audit pretty grief when retire bless grocery basic card";
+var mnemonic = "riot crumble silver produce nurse gadget above crew bonus entry social traffic";

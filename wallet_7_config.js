@@ -1,1 +1,1 @@
-var mnemonic = "later property dash legend nest devote blanket render love baby sweet satoshi";
+var mnemonic = "broken disorder suit soap switch gain since found key practice scare rug";

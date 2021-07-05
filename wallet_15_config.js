@@ -1,1 +1,1 @@
-var mnemonic = "try weird excuse ginger exchange long agent pudding tourist climb wasp slow";
+var mnemonic = "roof inspire unfair myth bulk salad famous need parrot hollow divide roast";

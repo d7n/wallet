@@ -1,1 +1,1 @@
-var mnemonic = "spy there caught witness coach useful safe impact movie quiz song gather";
+var mnemonic = "sniff learn brain liquid ski way ocean hole electric call crash domain";

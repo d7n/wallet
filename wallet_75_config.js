@@ -1,1 +1,1 @@
-var mnemonic = "scan mixture buffalo jeans cake conduct toilet dirt combine notable erosion guilt";
+var mnemonic = "supreme fiscal glance notice later moment walnut off cotton leisure wise hybrid";

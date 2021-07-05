@@ -1,1 +1,1 @@
-var mnemonic = "situate half typical farm shop hip shuffle guilt outside type rude raccoon";
+var mnemonic = "rally sibling list lawn boss wool ride undo loan foot lazy mule";

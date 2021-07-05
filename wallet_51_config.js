@@ -1,1 +1,1 @@
-var mnemonic = "effort inquiry maze iron draft bless biology pottery figure crouch alpha seek";
+var mnemonic = "approve more alpha come nephew antique twelve neutral treat million bitter bulk";

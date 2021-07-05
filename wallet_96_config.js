@@ -1,1 +1,1 @@
-var mnemonic = "dry scrub cupboard cram because approve ice jealous hungry sunny cycle property";
+var mnemonic = "fiber wing sick post century abandon chimney shine elbow first lawn borrow";

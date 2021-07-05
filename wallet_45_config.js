@@ -1,1 +1,1 @@
-var mnemonic = "picnic type senior art message meadow tennis lift tip shove math fever";
+var mnemonic = "resist chest example pudding bargain bunker crouch scout inspire climb release what";

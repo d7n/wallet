@@ -1,1 +1,1 @@
-var mnemonic = "where right document worry rich federal vote walk divorce frost alert immense";
+var mnemonic = "school toe salon divide fancy bulb regret rural sausage twelve estate obey";

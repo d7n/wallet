@@ -1,1 +1,1 @@
-var mnemonic = "hard august crumble tell wife federal finish pudding valley spice purity actual";
+var mnemonic = "region setup trash myth example twice current dirt derive spy camera brass";

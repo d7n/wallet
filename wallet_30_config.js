@@ -1,1 +1,1 @@
-var mnemonic = "certain aisle bacon wine expand cactus review sniff melody coyote produce main";
+var mnemonic = "genuine record auction reunion mean riot suit paddle album april provide outdoor";

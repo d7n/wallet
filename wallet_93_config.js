@@ -1,1 +1,1 @@
-var mnemonic = "isolate wash orbit plate hotel cigar auction adjust envelope wage issue second";
+var mnemonic = "length canyon sustain manual raise destroy debris then census stick unveil any";

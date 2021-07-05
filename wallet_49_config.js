@@ -1,1 +1,1 @@
-var mnemonic = "wolf dad require slab load voyage kitten alpha kiwi toilet bring cattle";
+var mnemonic = "coffee entry chat pet innocent orange sphere dentist want seat baby unlock";

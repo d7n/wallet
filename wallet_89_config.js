@@ -1,1 +1,1 @@
-var mnemonic = "around stick credit knock pull doll mirror silent impact wisdom stand dove";
+var mnemonic = "cotton original virtual position ramp hockey reason already once liquid gas urban";

@@ -1,1 +1,1 @@
-var mnemonic = "remind aerobic armed energy effort unit truck expire estate harbor right true";
+var mnemonic = "crane taste release unique quality oppose fence crucial aim unknown tortoise sun";

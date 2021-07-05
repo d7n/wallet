@@ -1,1 +1,1 @@
-var mnemonic = "love soul velvet input wolf arrange lift oblige speak ability obscure sentence";
+var mnemonic = "rebuild shock produce among another alley physical entire nuclear enforce scorpion collect";

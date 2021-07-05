@@ -1,1 +1,1 @@
-var mnemonic = "appear forward gossip help unknown about vendor wrap unable diagram swap reject";
+var mnemonic = "merit risk write already fossil pause atom lunar sand police salt glance";

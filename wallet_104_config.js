@@ -1,1 +1,1 @@
-var mnemonic = "seven below report auto tape pact trust repair image ship enjoy token";
+var mnemonic = "betray surprise great equip stable man fee enrich couch focus dove sister";

@@ -1,1 +1,1 @@
-var mnemonic = "canal same economy cliff float key father final artefact rural decide rookie";
+var mnemonic = "enrich boat bronze magnet action oyster shop sudden timber cook base second";

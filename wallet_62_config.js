@@ -1,1 +1,1 @@
-var mnemonic = "rain scan foil oven pen slight wet expect victory boat current auto";
+var mnemonic = "grit feature glide burst protect helmet oxygen piece noise cabbage tragic monster";
