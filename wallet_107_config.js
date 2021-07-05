@@ -1,1 +1,1 @@
-var mnemonic = "diamond festival entry pledge young mushroom emerge early clap vessel spoil friend";
+var mnemonic = "any rescue ball unveil main pyramid fly glow shiver tide blue accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "travel gate tumble innocent remember relax delay sell deal mosquito negative engine";
+var mnemonic = "together social female claim host magnet save antenna later pool agree put";

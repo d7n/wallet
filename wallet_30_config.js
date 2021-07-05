@@ -1,1 +1,1 @@
-var mnemonic = "wing mind tuna quality bulb baby scrap wash grocery expand stick pause";
+var mnemonic = "walk music fork arm tomato garbage drill tribe snap cotton term ugly";

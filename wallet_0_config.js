@@ -1,1 +1,1 @@
-var mnemonic = "easy ritual lawsuit receive radar early rule render flight surge give expand";
+var mnemonic = "eye coyote whale leg lunch parrot sadness cage slice nerve glory ancient";

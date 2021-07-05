@@ -1,1 +1,1 @@
-var mnemonic = "bulb lend lonely decrease orchard bless call divert panther swarm vital hamster";
+var mnemonic = "moment unaware enroll around unfold gossip club ordinary cigar mind couch bundle";

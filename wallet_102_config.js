@@ -1,1 +1,1 @@
-var mnemonic = "mutual toilet enable magic permit rebuild fetch vacuum disagree patch industry blur";
+var mnemonic = "pear once filter someone exhaust acquire garbage abstract stool funny erosion carry";

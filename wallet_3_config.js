@@ -1,1 +1,1 @@
-var mnemonic = "disagree interest immune intact blossom veteran envelope antenna kingdom trade cheap office";
+var mnemonic = "swim define divert sport elbow normal episode inform island picnic uniform text";

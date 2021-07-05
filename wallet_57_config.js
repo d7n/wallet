@@ -1,1 +1,1 @@
-var mnemonic = "hard response mandate bulb buzz broken grain escape final core dinner require";
+var mnemonic = "pistol rule vote pact column fog radar select script column basket force";

@@ -1,1 +1,1 @@
-var mnemonic = "roof angry skull notice mouse pilot critic buyer salmon imitate control tongue";
+var mnemonic = "clerk entry despair pig across any suspect village degree problem creek satisfy";

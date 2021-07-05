@@ -1,1 +1,1 @@
-var mnemonic = "soap pelican afford grape impulse expand kite found cycle sing shine couple";
+var mnemonic = "suffer double put hint ice tree damage nephew remind wool glance clump";

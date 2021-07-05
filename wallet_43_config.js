@@ -1,1 +1,1 @@
-var mnemonic = "rough raven else jelly candy grit parrot pudding cluster call idea bar";
+var mnemonic = "oval social boat hurt harbor cry grass impact cousin boring wool arrive";

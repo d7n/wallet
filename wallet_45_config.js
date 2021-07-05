@@ -1,1 +1,1 @@
-var mnemonic = "canal daring witness census awful supreme pass check jewel record organ stuff";
+var mnemonic = "taste spin hammer bean imitate truly public rifle swarm runway bread liquid";

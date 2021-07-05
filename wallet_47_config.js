@@ -1,1 +1,1 @@
-var mnemonic = "grab retreat dad food slow crack captain kite hybrid deny palm neck";
+var mnemonic = "degree shy sunset swap enemy embrace sketch swift piece health few blind";

@@ -1,1 +1,1 @@
-var mnemonic = "sport glide nothing suit light kidney naive stem proof index cereal seed";
+var mnemonic = "until spawn remember medal planet jaguar erosion glow tent iron anger gather";

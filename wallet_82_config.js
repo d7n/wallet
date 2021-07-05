@@ -1,1 +1,1 @@
-var mnemonic = "flavor hawk buyer fix volume alley gospel resist stool absorb garlic settle";
+var mnemonic = "canyon pulse voice result dwarf agent obscure initial consider ranch throw word";

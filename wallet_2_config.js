@@ -1,1 +1,1 @@
-var mnemonic = "stem eight punch century coffee hedgehog burst project skill accident float fatal";
+var mnemonic = "miracle you world parrot such original potato powder short either domain tornado";

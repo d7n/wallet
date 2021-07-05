@@ -1,1 +1,1 @@
-var mnemonic = "lift thumb canvas oven trophy credit piano brain second govern express maze";
+var mnemonic = "unhappy biology obey any nose outside spike speak borrow quit tail dynamic";

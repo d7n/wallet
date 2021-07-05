@@ -1,1 +1,1 @@
-var mnemonic = "same survey square budget lock logic build daughter glance gaze spray embrace";
+var mnemonic = "mimic float satisfy hamster album nose satoshi force daughter ticket crazy tennis";

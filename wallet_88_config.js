@@ -1,1 +1,1 @@
-var mnemonic = "amount whale enhance fade dilemma scare bright gain atom culture flock brain";
+var mnemonic = "correct cluster champion camera river page dream leopard cancel route special oak";

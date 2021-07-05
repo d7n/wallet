@@ -1,1 +1,1 @@
-var mnemonic = "radio include employ planet toward orient music faith lunar shy awesome proof";
+var mnemonic = "rare turkey method stable apple help alarm urge wedding unfold soldier waste";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk security milk lava disagree blood middle helmet bulb romance creek napkin";
+var mnemonic = "aware fiber candy power intact zone pledge acid sample sibling asset enlist";

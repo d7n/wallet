@@ -1,1 +1,1 @@
-var mnemonic = "cattle idea inhale write pupil slogan tank climb used impact cargo awake";
+var mnemonic = "dish duck piano plug silver small arctic soon shrug spray album bundle";

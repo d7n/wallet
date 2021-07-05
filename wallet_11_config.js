@@ -1,1 +1,1 @@
-var mnemonic = "execute nurse unit isolate forest mobile spoon draft flat reason draft equal";
+var mnemonic = "fee glimpse crumble fatigue play similar exchange portion object visual fresh uniform";

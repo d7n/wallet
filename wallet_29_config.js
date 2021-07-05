@@ -1,1 +1,1 @@
-var mnemonic = "cheap stumble finger skull tag polar hover eternal crouch ski nurse rule";
+var mnemonic = "certain foot gravity six bubble chief wolf shock sweet goose quality deposit";

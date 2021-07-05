@@ -1,1 +1,1 @@
-var mnemonic = "half belt attack author noise army cart cook small wild cruel host";
+var mnemonic = "original age snap public term debris hawk better young foster october skate";

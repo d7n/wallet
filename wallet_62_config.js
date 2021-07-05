@@ -1,1 +1,1 @@
-var mnemonic = "bus drop town kingdom piece cannon chief double next inch imitate manual";
+var mnemonic = "keen stick drama license drum garbage make almost pupil play wash west";

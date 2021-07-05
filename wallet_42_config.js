@@ -1,1 +1,1 @@
-var mnemonic = "olive accident evil tape today feed claim globe zoo gadget tell catch";
+var mnemonic = "what medal pave all grass coral portion void someone source divert order";

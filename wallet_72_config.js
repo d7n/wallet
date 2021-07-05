@@ -1,1 +1,1 @@
-var mnemonic = "fluid gravity swap victory cause strategy aerobic clever grid crop test thing";
+var mnemonic = "athlete large slide liar father rough reduce crew funny equip better viable";

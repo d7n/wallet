@@ -1,1 +1,1 @@
-var mnemonic = "warfare issue gym bulk arctic craft renew gallery fitness middle view flight";
+var mnemonic = "surround kidney bind long twenty salute tag volume pattern fetch soda post";

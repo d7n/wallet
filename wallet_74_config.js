@@ -1,1 +1,1 @@
-var mnemonic = "hair seven small worth brisk treat major public recycle cute grief cloth";
+var mnemonic = "fringe mention width income ladder perfect cereal plate bargain voyage federal empty";

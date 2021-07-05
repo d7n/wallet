@@ -1,1 +1,1 @@
-var mnemonic = "dry enlist alpha crawl elephant until age paddle alpha miss spy monkey";
+var mnemonic = "cat stone knee eternal upper error pear penalty monster move lyrics dad";

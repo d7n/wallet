@@ -1,1 +1,1 @@
-var mnemonic = "assault machine insect energy favorite voyage unable ignore test switch rough security";
+var mnemonic = "eyebrow agent strategy copy range crisp citizen umbrella indicate laugh better lamp";

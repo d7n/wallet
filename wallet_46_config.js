@@ -1,1 +1,1 @@
-var mnemonic = "glare vocal bind farm clown decade quit trash jaguar mixed price estate";
+var mnemonic = "spider elite source seat panda shy remember venture coffee round poet evidence";

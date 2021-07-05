@@ -1,1 +1,1 @@
-var mnemonic = "melt van ice capital extend south welcome virtual already raw post book";
+var mnemonic = "clinic object coffee harsh tomato soup valid arch head cannon they approve";

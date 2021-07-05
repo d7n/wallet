@@ -1,1 +1,1 @@
-var mnemonic = "blanket soccer grace gloom major wink marriage bid smooth endorse tone knee";
+var mnemonic = "tiger confirm loud dizzy live say student paddle game spatial brother animal";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk come small foil region pink copy jungle nice ritual cream digital";
+var mnemonic = "helmet scene festival supreme shuffle planet uphold cluster dog farm wave reunion";

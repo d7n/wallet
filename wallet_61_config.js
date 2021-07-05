@@ -1,1 +1,1 @@
-var mnemonic = "beyond orbit hybrid electric tell tag clip emotion ankle peasant camera churn";
+var mnemonic = "envelope jaguar weather guitar idea anxiety october sketch whisper aim farm donate";

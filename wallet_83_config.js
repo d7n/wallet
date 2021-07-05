@@ -1,1 +1,1 @@
-var mnemonic = "yard chef angle stool knock lava unfair merge tonight puppy saddle always";
+var mnemonic = "silent awful portion parade emotion concert acquire sick bronze monster canyon output";

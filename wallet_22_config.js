@@ -1,1 +1,1 @@
-var mnemonic = "miss brisk wood order face leader achieve run afraid glide obtain spread";
+var mnemonic = "slam little another evoke live badge fame hazard tobacco artist warm frequent";

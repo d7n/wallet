@@ -1,1 +1,1 @@
-var mnemonic = "ski need uncover fuel antenna call cube lens embark afraid glide manual";
+var mnemonic = "picture honey case apple asthma doll setup there diesel mobile cactus possible";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion bunker spare hawk word timber confirm rain fork beach about squirrel";
+var mnemonic = "radar almost genuine dose forget slight dog cable label harvest write steak";

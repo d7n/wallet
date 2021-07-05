@@ -1,1 +1,1 @@
-var mnemonic = "first time yard gasp february stairs romance love write conduct mail gas";
+var mnemonic = "this strong voyage wash where maple print resemble square welcome absorb learn";

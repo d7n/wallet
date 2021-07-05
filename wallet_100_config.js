@@ -1,1 +1,1 @@
-var mnemonic = "soft cupboard assist pupil ketchup outside indoor lonely original mean silver toast";
+var mnemonic = "mercy check rapid crouch pencil select uniform favorite indicate trial hundred rate";

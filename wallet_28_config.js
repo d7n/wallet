@@ -1,1 +1,1 @@
-var mnemonic = "valid quit analyst execute brother normal like evidence forget waste gift fresh";
+var mnemonic = "thrive never goat general ill retire talent humble wool dentist wrong spirit";

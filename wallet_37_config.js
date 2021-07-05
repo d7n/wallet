@@ -1,1 +1,1 @@
-var mnemonic = "sample mixture credit base rib deer climb call bamboo habit hamster coach";
+var mnemonic = "skate daughter upset skin donor drill close skill spot enable lift abuse";

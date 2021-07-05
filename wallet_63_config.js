@@ -1,1 +1,1 @@
-var mnemonic = "dynamic uncover broom purity whale butter accuse negative sausage rather return robust";
+var mnemonic = "sleep deal misery mask agent pistol pledge view draw sight bulb replace";

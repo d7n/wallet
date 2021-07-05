@@ -1,1 +1,1 @@
-var mnemonic = "point shell staff grace have state innocent stumble size lens immense tenant";
+var mnemonic = "left cheap east pool blossom always memory enhance across silk useless interest";

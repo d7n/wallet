@@ -1,1 +1,1 @@
-var mnemonic = "gate pioneer target agent raise fade upset aware develop elephant lawsuit poet";
+var mnemonic = "cushion transfer holiday napkin brand mixed creek flower dragon fossil rhythm actress";

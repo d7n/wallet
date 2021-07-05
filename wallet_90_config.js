@@ -1,1 +1,1 @@
-var mnemonic = "mean neglect deliver industry myself caught acoustic ranch real easily make tornado";
+var mnemonic = "buddy eager order dice common salmon meat crawl shrimp record panel clinic";

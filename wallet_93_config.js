@@ -1,1 +1,1 @@
-var mnemonic = "impulse treat feature wisdom comfort rally wrist rookie actress midnight dog polar";
+var mnemonic = "jacket minor author buffalo frog loan oil monitor beauty damp inform memory";

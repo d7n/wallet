@@ -1,1 +1,1 @@
-var mnemonic = "safe turkey more symptom marriage regret feel walk zone mean final vintage";
+var mnemonic = "tooth aim audit increase start expire lobster kangaroo require approve wash myself";

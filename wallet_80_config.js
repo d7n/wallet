@@ -1,1 +1,1 @@
-var mnemonic = "game kind into teach transfer submit accident lawn object answer reject salad";
+var mnemonic = "chef high lesson side human mandate hammer cherry together clean laugh seat";

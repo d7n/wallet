@@ -1,1 +1,1 @@
-var mnemonic = "access rookie gown satisfy sun announce carpet mean narrow inquiry evoke rail";
+var mnemonic = "disorder flame book thank fault glory knock resemble price kidney space robust";

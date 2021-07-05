@@ -1,1 +1,1 @@
-var mnemonic = "stuff brown aunt smile exhaust damp rifle code glimpse police head deer";
+var mnemonic = "ancient subway evil divide odor federal twist swarm wool unfair host trust";

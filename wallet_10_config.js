@@ -1,1 +1,1 @@
-var mnemonic = "sign legal say citizen box silk relief output pyramid jaguar swing inmate";
+var mnemonic = "scissors grass mobile despair weapon cherry victory foam shy measure frequent dad";

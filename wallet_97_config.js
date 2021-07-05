@@ -1,1 +1,1 @@
-var mnemonic = "urban stool wish hospital pole movie fragile kit region damp sketch festival";
+var mnemonic = "siren someone twist prepare canvas pizza chest spring mass mushroom verify twelve";

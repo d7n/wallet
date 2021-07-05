@@ -1,1 +1,1 @@
-var mnemonic = "when two else top yellow enforce powder width nominee round need fossil";
+var mnemonic = "report deer neither evolve trumpet own bamboo truly stool tail announce pass";

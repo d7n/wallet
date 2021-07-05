@@ -1,1 +1,1 @@
-var mnemonic = "embark proud tube napkin media any bunker hat before lemon stumble smooth";
+var mnemonic = "plunge vehicle mail mobile tube glad arm gorilla electric million siren nerve";

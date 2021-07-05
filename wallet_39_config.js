@@ -1,1 +1,1 @@
-var mnemonic = "weapon suspect rather reduce special battle normal crystal pepper salt trash fence";
+var mnemonic = "pig ocean lemon bundle shoulder tail absurd increase turkey tank filter media";

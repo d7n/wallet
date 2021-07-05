@@ -1,1 +1,1 @@
-var mnemonic = "absurd rally welcome program voice meat nurse save dawn lucky fresh truly";
+var mnemonic = "filter cereal climb misery gorilla indoor angry economy waste elegant awful used";

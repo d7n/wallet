@@ -1,1 +1,1 @@
-var mnemonic = "undo tool history beauty swallow grace across weird culture round tennis tackle";
+var mnemonic = "pig immense display express timber visit empower speak awful ladder crash ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist animal become armor hub gossip match wave pelican busy liar stool";
+var mnemonic = "swift field august country cheap lazy runway ranch family all mad love";

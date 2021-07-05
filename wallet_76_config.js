@@ -1,1 +1,1 @@
-var mnemonic = "spy horse vault absorb music document weather vessel skull resource mean ski";
+var mnemonic = "assault velvet place opera senior disease behind edge aunt spring rapid spell";

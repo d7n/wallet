@@ -1,1 +1,1 @@
-var mnemonic = "turkey measure arrange crowd illness nephew coffee swamp joke erosion garlic enlist";
+var mnemonic = "senior vacant album wedding another judge maximum nerve cry junior virtual once";

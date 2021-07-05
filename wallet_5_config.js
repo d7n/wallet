@@ -1,1 +1,1 @@
-var mnemonic = "regular remember issue around nephew clog arrow include segment carpet slot tomato";
+var mnemonic = "latin surprise apology fault cement goose sign wealth popular utility office captain";

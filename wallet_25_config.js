@@ -1,1 +1,1 @@
-var mnemonic = "physical hospital bean town true volcano bullet vital fabric tenant verb hello";
+var mnemonic = "afraid intact stomach voyage alert deal labor click torch mosquito popular grab";

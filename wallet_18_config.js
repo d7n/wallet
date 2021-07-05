@@ -1,1 +1,1 @@
-var mnemonic = "clay liberty coin weasel burden sustain drive robust sorry rubber list country";
+var mnemonic = "large sense key door fog sun side math trade confirm balance crystal";

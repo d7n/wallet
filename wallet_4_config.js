@@ -1,1 +1,1 @@
-var mnemonic = "flush crush boss audit clap layer winner vote camera obtain valid end";
+var mnemonic = "gravity vague cliff present address rough sort cradle render step mesh invest";

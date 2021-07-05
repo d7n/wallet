@@ -1,1 +1,1 @@
-var mnemonic = "hospital apart advice connect today twist beef champion spirit voyage valley cost";
+var mnemonic = "inherit essay lounge explain popular inch busy focus home matrix garden harvest";

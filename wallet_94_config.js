@@ -1,1 +1,1 @@
-var mnemonic = "salon gift surface actual actress put hip top stone frost pole opera";
+var mnemonic = "recipe year found trip bridge another siege bundle wait wild casual warm";

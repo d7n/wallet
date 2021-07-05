@@ -1,1 +1,1 @@
-var mnemonic = "chaos debris calm kit fix private mix labor melody curve hammer wrestle";
+var mnemonic = "vehicle visit creek obtain push vanish loyal time wire number profit typical";

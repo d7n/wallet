@@ -1,1 +1,1 @@
-var mnemonic = "dial abuse vocal shed embark flee twin skull quick grass bacon expose";
+var mnemonic = "chair public cancel pyramid seminar anchor vivid asthma pear basic match hat";

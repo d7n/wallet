@@ -1,1 +1,1 @@
-var mnemonic = "admit bubble truth uphold fatigue west action ladder ask amateur crime wing";
+var mnemonic = "flock attitude stable work swing rich inhale layer nominee evidence lemon road";

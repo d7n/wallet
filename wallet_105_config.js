@@ -1,1 +1,1 @@
-var mnemonic = "dice spring eyebrow crucial skull cheese still animal eternal cruise action cause";
+var mnemonic = "praise guard torch pet awesome insane hip aspect annual yellow fortune velvet";

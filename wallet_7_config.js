@@ -1,1 +1,1 @@
-var mnemonic = "pencil tribe gesture regular alien final print happy junk educate story pave";
+var mnemonic = "dizzy inch nest cage inquiry grant someone buddy hair tattoo input syrup";

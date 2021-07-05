@@ -1,1 +1,1 @@
-var mnemonic = "soda dirt tissue split husband rule spirit nephew flash audit share buffalo";
+var mnemonic = "ice mail call champion dose toy spring defense cage bottom romance attend";

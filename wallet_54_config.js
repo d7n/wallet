@@ -1,1 +1,1 @@
-var mnemonic = "spoil taxi lottery struggle cram during recycle safe coconut oyster purse adjust";
+var mnemonic = "dice strategy lawn dream quantum promote north long machine cat combine era";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium medal lazy castle rib forest have crouch endorse wire rookie evidence";
+var mnemonic = "chef galaxy plastic mixture promote lyrics galaxy glance island pumpkin abstract owner";

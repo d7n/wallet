@@ -1,1 +1,1 @@
-var mnemonic = "girl slot poverty search siege marine meat modify young trap elite bean";
+var mnemonic = "wear curve hen vital leg tube envelope kind panic choose weekend camera";

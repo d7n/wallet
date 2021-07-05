@@ -1,1 +1,1 @@
-var mnemonic = "noodle twelve method plate balcony local utility report regular cliff labor similar";
+var mnemonic = "allow various then ocean indoor lesson walk case drop public tattoo any";

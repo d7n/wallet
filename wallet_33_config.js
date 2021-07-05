@@ -1,1 +1,1 @@
-var mnemonic = "loyal copper season spin salon sand ketchup grow tail unaware print lesson";
+var mnemonic = "glide poverty permit bunker team scale matter ability badge lawn lecture slogan";

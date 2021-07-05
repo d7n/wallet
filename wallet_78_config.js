@@ -1,1 +1,1 @@
-var mnemonic = "wreck wheat desert write object turkey rotate art decade drama tourist robust";
+var mnemonic = "primary price live surge lazy random dismiss smoke observe under cable polar";

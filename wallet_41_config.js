@@ -1,1 +1,1 @@
-var mnemonic = "cage account ladder husband when roast field deputy spare subject unknown correct";
+var mnemonic = "pizza talent ancient voyage visit menu push popular giraffe state photo distance";

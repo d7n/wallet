@@ -1,1 +1,1 @@
-var mnemonic = "now hole wash return cup purpose shield remember involve praise patch card";
+var mnemonic = "submit wool disorder theme neutral observe lift direct note ethics tiny child";

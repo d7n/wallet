@@ -1,1 +1,1 @@
-var mnemonic = "mind reform then any innocent outer wash consider segment success pig alone";
+var mnemonic = "inhale diesel rifle wear athlete cricket patient east teach service fork another";

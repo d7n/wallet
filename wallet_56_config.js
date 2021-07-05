@@ -1,1 +1,1 @@
-var mnemonic = "smart slice acid account whip aerobic crucial ordinary swear tray run guitar";
+var mnemonic = "dial minute shrug duty define virtual cruel salad brisk uncle unveil midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "modify initial old frog police heart control scan funny damp again car";
+var mnemonic = "type place garage save electric exile forum twelve dutch tank conduct buffalo";

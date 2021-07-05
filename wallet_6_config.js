@@ -1,1 +1,1 @@
-var mnemonic = "version burden apple faculty barely level basket embrace actress visa secret pole";
+var mnemonic = "buzz journey system pistol scrub recipe brave rib fitness slow trap walnut";

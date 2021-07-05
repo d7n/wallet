@@ -1,1 +1,1 @@
-var mnemonic = "put enroll fish erupt loyal method almost come agree attitude blanket empower";
+var mnemonic = "laundry bleak choose tiny trust about violin elder monkey half trip civil";

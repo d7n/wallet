@@ -1,1 +1,1 @@
-var mnemonic = "caught similar valve other afraid coyote pair valve there sausage visa again";
+var mnemonic = "company tobacco parent ethics six long aspect public kingdom north tissue forest";

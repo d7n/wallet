@@ -1,1 +1,1 @@
-var mnemonic = "vintage vanish cycle sand shove barrel round ocean census method produce slush";
+var mnemonic = "orphan fever melody fetch miracle outer dose describe aisle uncover book lazy";

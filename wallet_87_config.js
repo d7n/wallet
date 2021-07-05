@@ -1,1 +1,1 @@
-var mnemonic = "face artwork hundred couple naive awesome reunion left exhibit myth option tip";
+var mnemonic = "account decorate depend ocean coach endorse garden copy element apology key decide";
