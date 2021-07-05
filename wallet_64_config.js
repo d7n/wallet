@@ -1,1 +1,1 @@
-var mnemonic = "radar local joy pass flock bike inject evoke pigeon deputy zoo million";
+var mnemonic = "token brush click globe cabbage stage uniform city bench risk shop road";

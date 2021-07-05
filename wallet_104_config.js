@@ -1,1 +1,1 @@
-var mnemonic = "artwork matrix same bonus system wave produce fall glove victory bench steel";
+var mnemonic = "cherry mimic very autumn review dynamic extend foil unveil exact favorite above";

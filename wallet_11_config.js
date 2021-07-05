@@ -1,1 +1,1 @@
-var mnemonic = "act final gain setup eyebrow exclude defense shiver because air tuna choice";
+var mnemonic = "cigar pond buzz film shuffle jump hen era provide deer coconut attitude";

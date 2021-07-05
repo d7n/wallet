@@ -1,1 +1,1 @@
-var mnemonic = "series boat upper agree flag pigeon trim buddy leader fluid bar only";
+var mnemonic = "wash pumpkin wealth photo coral execute unusual kid wreck visit price surface";

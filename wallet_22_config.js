@@ -1,1 +1,1 @@
-var mnemonic = "patch immense cupboard expand essence volume lonely skirt mom clip fitness spoon";
+var mnemonic = "common garage spin short aspect bright very apple regret quote awkward ivory";

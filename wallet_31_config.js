@@ -1,1 +1,1 @@
-var mnemonic = "wish runway forward duty depend lady nuclear attend must pencil crowd motor";
+var mnemonic = "rail noise topple income rule force chief evoke blame south essay ready";

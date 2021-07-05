@@ -1,1 +1,1 @@
-var mnemonic = "cost liquid hello large neck radio edit below gate draft sure bar";
+var mnemonic = "style indoor lift media ranch boil banana service artefact orchard pulse curve";

@@ -1,1 +1,1 @@
-var mnemonic = "just penalty chronic bridge flee blade apple inch wage history energy sock";
+var mnemonic = "obey galaxy dignity rail wet carpet ostrich young assault bamboo utility uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "fire farm human capital vessel gloom satoshi error pink drill snack daring";
+var mnemonic = "hold palm spring drill tunnel enact rotate until crop follow actress hen";

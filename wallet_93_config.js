@@ -1,1 +1,1 @@
-var mnemonic = "patient human prize open recall cat merit dumb delay protect great until";
+var mnemonic = "service system vessel topple old subject stomach pear salon enjoy idea oak";

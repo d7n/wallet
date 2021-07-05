@@ -1,1 +1,1 @@
-var mnemonic = "famous hello foster record brush napkin improve ensure bean abuse indoor assume";
+var mnemonic = "jealous forward ostrich walk another gallery mirror order try year finger wise";

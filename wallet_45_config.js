@@ -1,1 +1,1 @@
-var mnemonic = "uphold system quick bamboo venture pact convince notable initial subject adapt team";
+var mnemonic = "enhance mirror fiction figure subway jacket relief glimpse wolf ghost unable clerk";

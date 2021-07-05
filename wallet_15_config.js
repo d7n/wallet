@@ -1,1 +1,1 @@
-var mnemonic = "cage palace inflict dove stay enhance soon cake define silent hotel climb";
+var mnemonic = "coach track rude salute position bracket castle grow panther horse lottery puzzle";

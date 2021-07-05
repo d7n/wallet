@@ -1,1 +1,1 @@
-var mnemonic = "twice stadium duty topple honey business panther inject name exchange slogan angry";
+var mnemonic = "mistake energy inside usual vacant charge use miss taste mixture chair round";

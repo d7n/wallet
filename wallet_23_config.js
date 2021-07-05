@@ -1,1 +1,1 @@
-var mnemonic = "shoe skirt sweet slide response dress quarter lunch style question cave kitten";
+var mnemonic = "broccoli soda nut weather monster soldier foot blossom carpet hotel pen weather";

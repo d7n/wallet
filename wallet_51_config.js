@@ -1,1 +1,1 @@
-var mnemonic = "memory link tell neglect squeeze season tip lend level until nurse muffin";
+var mnemonic = "little allow ostrich box say rate spice rate clean polar elegant pretty";

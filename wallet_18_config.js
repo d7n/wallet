@@ -1,1 +1,1 @@
-var mnemonic = "ivory sail fever bargain reflect history once cement glance over rebel token";
+var mnemonic = "hurdle story absorb daughter power used index surround fiber pilot power agree";

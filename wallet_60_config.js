@@ -1,1 +1,1 @@
-var mnemonic = "advice spy outdoor uniform transfer purse access ivory unlock list glory message";
+var mnemonic = "stumble spatial around canal spare capable dinner network reunion awful genius light";

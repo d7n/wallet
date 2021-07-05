@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit royal fossil annual wet rent valid olive that notable toward one";
+var mnemonic = "bless staff tank rug vault river solar scan tongue guilt path stick";

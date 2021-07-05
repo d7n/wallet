@@ -1,1 +1,1 @@
-var mnemonic = "slim choice retire keep dog main claw describe green sheriff ripple category";
+var mnemonic = "claim purity lawn innocent broom jewel cage wasp radio phone settle erosion";

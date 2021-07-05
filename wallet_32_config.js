@@ -1,1 +1,1 @@
-var mnemonic = "talk fire spin eyebrow dragon old keep season leader craft ill indicate";
+var mnemonic = "scheme teach travel drop flat disorder pulp parent state peanut rebel glow";

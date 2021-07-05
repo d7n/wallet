@@ -1,1 +1,1 @@
-var mnemonic = "bitter civil globe chief frame swim plate fashion wash husband robot roast";
+var mnemonic = "real neither gold side age forget base depend over vintage cause upset";

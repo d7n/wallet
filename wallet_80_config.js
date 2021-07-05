@@ -1,1 +1,1 @@
-var mnemonic = "tourist foam option clap wreck salute next circle violin item stomach outdoor";
+var mnemonic = "analyst tree baby neutral sudden wrong budget melody loop lake faith flip";

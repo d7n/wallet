@@ -1,1 +1,1 @@
-var mnemonic = "gain bulb divide power coconut pudding claim paper make garden sauce replace";
+var mnemonic = "borrow holiday replace raccoon wish cycle crash conduct final seed zoo neither";

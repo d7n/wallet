@@ -1,1 +1,1 @@
-var mnemonic = "ill pluck small flag obvious guilt scan rain cheap poverty grant column";
+var mnemonic = "evidence satisfy heart mixed jealous dawn abstract spare velvet poet airport leave";

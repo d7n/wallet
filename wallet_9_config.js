@@ -1,1 +1,1 @@
-var mnemonic = "online piece also later enforce sunny hold always shy spice walk soft";
+var mnemonic = "earn razor unusual lobster coyote student assist resist boost all please case";

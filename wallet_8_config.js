@@ -1,1 +1,1 @@
-var mnemonic = "pretty collect nerve family day order play crystal crawl catalog circle alcohol";
+var mnemonic = "detect expire flip whip motion metal actor plunge angle mansion deputy derive";

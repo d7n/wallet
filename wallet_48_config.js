@@ -1,1 +1,1 @@
-var mnemonic = "dial rapid inherit acoustic grunt sample dose away hazard easily earth among";
+var mnemonic = "stand shuffle antique pepper major fee swarm truly noble admit orient gate";

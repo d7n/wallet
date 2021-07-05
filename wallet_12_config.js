@@ -1,1 +1,1 @@
-var mnemonic = "define sure panther senior island convince lava leave shoot february vintage escape";
+var mnemonic = "know feed evolve close hobby host fish canyon grief cigar decline upgrade";

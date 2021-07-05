@@ -1,1 +1,1 @@
-var mnemonic = "flavor brush bright blouse moral walk enrich cake maximum exhaust step subway";
+var mnemonic = "error bundle ancient essay dress nut hip height nice length rural defense";

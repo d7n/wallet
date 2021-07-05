@@ -1,1 +1,1 @@
-var mnemonic = "gauge rotate pistol remember place master husband main rebuild sure slam strong";
+var mnemonic = "antique corn recycle struggle clarify exhaust explain kitten prize actor muffin rely";

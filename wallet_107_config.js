@@ -1,1 +1,1 @@
-var mnemonic = "oil wife rhythm enter grit saddle pattern duck dash wrap typical wine";
+var mnemonic = "garment coffee remove guess ready radio service off quiz virus ozone sand";

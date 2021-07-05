@@ -1,1 +1,1 @@
-var mnemonic = "home ramp card thank chase stage museum cycle lounge duty rubber valve";
+var mnemonic = "rubber coach soldier grape congress knife tube combine rabbit gift under cake";

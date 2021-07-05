@@ -1,1 +1,1 @@
-var mnemonic = "upset receive pupil figure waste rigid artist rabbit mind couple fiber chuckle";
+var mnemonic = "uncover plastic discover skate enact famous hover blanket panic cross cloth burden";

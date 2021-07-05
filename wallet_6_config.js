@@ -1,1 +1,1 @@
-var mnemonic = "identify trim soul clay fat sibling girl manage oval utility initial basic";
+var mnemonic = "view taste present sniff east finger air adjust cannon clog believe switch";

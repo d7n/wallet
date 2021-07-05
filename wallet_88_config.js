@@ -1,1 +1,1 @@
-var mnemonic = "clever elegant spot potato resource target street explain safe saddle toilet aware";
+var mnemonic = "simple mutual clerk term vague hungry goat anxiety scale stereo devote fabric";

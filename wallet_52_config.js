@@ -1,1 +1,1 @@
-var mnemonic = "main kick thank reform limb cart expose badge sorry pluck animal festival";
+var mnemonic = "monkey click room tooth busy original risk drift father refuse giraffe intact";

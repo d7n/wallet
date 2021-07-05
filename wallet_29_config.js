@@ -1,1 +1,1 @@
-var mnemonic = "worry fall season comfort simple damp wrap amount library also upon excess";
+var mnemonic = "space suffer wonder tone divert ridge ramp lawsuit ticket blush pear weird";

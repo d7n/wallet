@@ -1,1 +1,1 @@
-var mnemonic = "tone amateur envelope budget second kind venture miracle cannon bench peasant congress";
+var mnemonic = "stumble remove staff amused wall rough consider deposit track auction focus boil";

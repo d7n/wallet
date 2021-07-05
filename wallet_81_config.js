@@ -1,1 +1,1 @@
-var mnemonic = "problem install measure shield toddler bullet disorder slender pill vote essay decorate";
+var mnemonic = "shell ship stamp burst flock fly sad original green nominee easy artefact";

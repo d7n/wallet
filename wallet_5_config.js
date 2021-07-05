@@ -1,1 +1,1 @@
-var mnemonic = "mandate edit mirror another knock spread breeze cage random symbol apple egg";
+var mnemonic = "misery region pistol wire fork toast rocket bread wing accident beauty work";

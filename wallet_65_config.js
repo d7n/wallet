@@ -1,1 +1,1 @@
-var mnemonic = "inner couple whisper tag mixture number cherry tackle trap spirit fragile coil";
+var mnemonic = "lock skirt rich spray federal cool nasty whisper team six must tip";

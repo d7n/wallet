@@ -1,1 +1,1 @@
-var mnemonic = "feel jewel glance husband lucky now interest limb gospel assist scrap salt";
+var mnemonic = "timber finger tonight region inform great absorb spring scene same tongue race";

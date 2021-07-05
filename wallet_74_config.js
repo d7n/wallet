@@ -1,1 +1,1 @@
-var mnemonic = "salmon proof dog cart coast mail pear merge black humble throw scatter";
+var mnemonic = "swim trouble old guilt case off question weird protect have tip input";

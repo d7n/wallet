@@ -1,1 +1,1 @@
-var mnemonic = "siege federal faith forget witness hire elephant chair finger desk habit climb";
+var mnemonic = "link step unhappy glare promote palm truth deer among tooth cable vacuum";

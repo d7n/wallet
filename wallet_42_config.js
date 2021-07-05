@@ -1,1 +1,1 @@
-var mnemonic = "ordinary glory security machine mystery decrease black appear hunt orbit lobster thunder";
+var mnemonic = "zone captain okay excess orphan nominee grow reform maximum object category toward";

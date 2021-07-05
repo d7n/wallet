@@ -1,1 +1,1 @@
-var mnemonic = "enact bicycle base link private garbage inside fruit receive ridge vault meadow";
+var mnemonic = "false grace advance kid decline weekend vote opera machine monitor soccer mule";

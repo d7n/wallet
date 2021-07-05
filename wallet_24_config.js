@@ -1,1 +1,1 @@
-var mnemonic = "soldier label tribe enough spring figure galaxy hurt grace lizard novel guilt";
+var mnemonic = "vacant media weapon lyrics welcome voice gain vital column bulk calm build";

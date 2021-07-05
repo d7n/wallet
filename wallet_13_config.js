@@ -1,1 +1,1 @@
-var mnemonic = "army furnace lamp oppose elevator copper cram leisure nest useful shock moment";
+var mnemonic = "master spice castle gap panther orchard little own cancel dune sock unhappy";

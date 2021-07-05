@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog boy wide man roof okay basket crystal traffic high magic whip";
+var mnemonic = "demise right cluster cruise figure food expire divide poverty scene twice record";

@@ -1,1 +1,1 @@
-var mnemonic = "atom armor drama fitness police project panic senior lamp save fringe motor";
+var mnemonic = "gym spy asthma ski average nest nothing toe net recycle planet planet";

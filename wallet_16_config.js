@@ -1,1 +1,1 @@
-var mnemonic = "solid episode forward subway wedding able film luggage update vendor silly occur";
+var mnemonic = "slim hawk minor nuclear spoon club become royal board prize hip soda";

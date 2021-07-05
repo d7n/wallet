@@ -1,1 +1,1 @@
-var mnemonic = "clock barely name fiction wheel cement lounge face super umbrella trade lens";
+var mnemonic = "never oven stock glue apple friend bridge orange problem near truck whip";

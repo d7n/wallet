@@ -1,1 +1,1 @@
-var mnemonic = "tent mix limit hello jelly hire tiger strong ask noble depend figure";
+var mnemonic = "sadness coffee egg pink cave sample bronze fiscal spell regular program victory";

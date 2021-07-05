@@ -1,1 +1,1 @@
-var mnemonic = "uphold exile again meat extra finger bullet plastic cage measure voice home";
+var mnemonic = "blur pony head skull fly subway give effort helmet position cycle industry";

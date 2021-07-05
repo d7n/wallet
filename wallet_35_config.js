@@ -1,1 +1,1 @@
-var mnemonic = "media movie adjust catch left airport become artist tongue degree address census";
+var mnemonic = "pumpkin dynamic list sweet input group broom carbon legend turkey plastic first";

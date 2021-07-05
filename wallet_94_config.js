@@ -1,1 +1,1 @@
-var mnemonic = "into monster conduct improve rude broom credit duck long chaos canal calm";
+var mnemonic = "digital win transfer dragon pioneer very minor direct brother victory also doll";

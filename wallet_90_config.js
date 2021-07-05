@@ -1,1 +1,1 @@
-var mnemonic = "gloom palm vanish dress fantasy blame virus next stomach vehicle vendor nut";
+var mnemonic = "unusual diesel ancient street prosper hollow enjoy next merry purpose myself napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "photo salmon argue access mixture year smooth hero gauge table boring please";
+var mnemonic = "load dilemma donkey buzz century tobacco brisk tower hint cry acid legal";

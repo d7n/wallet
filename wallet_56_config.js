@@ -1,1 +1,1 @@
-var mnemonic = "legal pass between roof negative scale radio able movie zero raw error";
+var mnemonic = "nice symbol glory emotion volume popular gown shine furnace people tissue issue";

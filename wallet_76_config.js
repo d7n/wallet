@@ -1,1 +1,1 @@
-var mnemonic = "drastic copper tiny reduce cave elegant radar strike jeans supreme cost nest";
+var mnemonic = "wide feel strategy hybrid search stomach catch path apart fish lawsuit mad";

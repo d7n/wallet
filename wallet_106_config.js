@@ -1,1 +1,1 @@
-var mnemonic = "laugh van congress century lucky shoe achieve avocado like finger crisp manage";
+var mnemonic = "hungry mutual sock unveil oil brand when inflict melt quality estate attract";

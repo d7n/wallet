@@ -1,1 +1,1 @@
-var mnemonic = "jungle history city caught fancy heavy caution shoot tackle artwork oil misery";
+var mnemonic = "brave rule surround worry scheme flavor ship civil sentence immune omit expand";

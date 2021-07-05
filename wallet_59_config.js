@@ -1,1 +1,1 @@
-var mnemonic = "film fiscal squeeze casino december federal bid lonely visual ball conduct process";
+var mnemonic = "subject neutral chimney frozen staff treat script often sudden glue afraid travel";

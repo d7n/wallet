@@ -1,1 +1,1 @@
-var mnemonic = "victory thing since order already cotton kite oval father modify throw tag";
+var mnemonic = "swear project faint host miracle jungle warfare alcohol drive push turn need";

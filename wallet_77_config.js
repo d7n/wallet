@@ -1,1 +1,1 @@
-var mnemonic = "inch exercise victory clock travel lumber endorse oxygen slice element pet between";
+var mnemonic = "cake original reward powder type nominee lunch square firm remove visa wheel";

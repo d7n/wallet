@@ -1,1 +1,1 @@
-var mnemonic = "south arctic lesson person patrol reform girl bicycle flat solution thumb avoid";
+var mnemonic = "custom timber they riot hole sunset olympic ensure focus tray defense ritual";

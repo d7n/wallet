@@ -1,1 +1,1 @@
-var mnemonic = "know quit census misery pig chunk umbrella twice easily utility become breeze";
+var mnemonic = "earn cherry hub off shoulder day snow duck salute mystery income virtual";

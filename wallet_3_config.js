@@ -1,1 +1,1 @@
-var mnemonic = "crime dumb govern suffer clown card sadness dinosaur cabbage wait carpet coast";
+var mnemonic = "exercise lunch place calm digital abstract sell today phrase rely language venue";

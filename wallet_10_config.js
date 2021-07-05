@@ -1,1 +1,1 @@
-var mnemonic = "swear patient logic base whip tired lesson usual vintage relax genius kidney";
+var mnemonic = "salon script coconut spend siren approve powder soup bird imitate scrub magnet";

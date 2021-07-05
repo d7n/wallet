@@ -1,1 +1,1 @@
-var mnemonic = "biology tower brief rally total inform crew sleep express knife loan gasp";
+var mnemonic = "cricket deny myth develop tiny pizza bulb choice shuffle palm equip valid";

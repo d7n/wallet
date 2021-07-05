@@ -1,1 +1,1 @@
-var mnemonic = "response plug key lunar alley pepper episode marine raise prize doll tree";
+var mnemonic = "portion cram kingdom culture celery all more guard lecture duck exist cute";

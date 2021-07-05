@@ -1,1 +1,1 @@
-var mnemonic = "bottom hedgehog catch mesh shoe parent setup cigar quiz garage gown swarm";
+var mnemonic = "fatigue gadget receive butter offer awesome supply interest young panther add dance";

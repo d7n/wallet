@@ -1,1 +1,1 @@
-var mnemonic = "endorse primary heart wedding network race motion fatal stem snake turkey morning";
+var mnemonic = "media comfort mirror okay library calm state physical barely under cat spatial";

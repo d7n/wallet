@@ -1,1 +1,1 @@
-var mnemonic = "remind penalty pledge hunt envelope smart abandon cash tornado pet breeze toy";
+var mnemonic = "problem evoke picture ribbon next army sleep flash swing exhibit ancient nest";

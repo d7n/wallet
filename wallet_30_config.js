@@ -1,1 +1,1 @@
-var mnemonic = "blind across illegal legend logic peace slight smooth pigeon antique bring vital";
+var mnemonic = "fabric update basket middle shuffle dwarf buzz glide column apology airport ghost";

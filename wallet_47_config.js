@@ -1,1 +1,1 @@
-var mnemonic = "credit caught pumpkin guard acid because buyer glass please online pioneer undo";
+var mnemonic = "genius rural magnet brown wave inner barely defense capital clean cannon whisper";

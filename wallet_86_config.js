@@ -1,1 +1,1 @@
-var mnemonic = "lemon satisfy palm blush stable frequent lift soldier fitness daughter soda siege";
+var mnemonic = "flavor short lonely pulse rough video unaware weekend dragon mail present upgrade";

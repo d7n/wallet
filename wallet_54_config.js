@@ -1,1 +1,1 @@
-var mnemonic = "mammal now task fold debris friend garlic trouble music weekend whisper mistake";
+var mnemonic = "paper disagree name please cancel double law curve predict floor cash lunch";

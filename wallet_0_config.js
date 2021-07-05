@@ -1,1 +1,1 @@
-var mnemonic = "wrong age double damage quarter right fault stereo lizard fiber dance fold";
+var mnemonic = "urge flavor annual used genuine join move image awful long hover tongue";

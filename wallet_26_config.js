@@ -1,1 +1,1 @@
-var mnemonic = "bicycle convince loop atom success scan tank actress cool hurdle door piano";
+var mnemonic = "ordinary track pool birth jacket cliff trust winter liberty cute record napkin";

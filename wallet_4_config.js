@@ -1,1 +1,1 @@
-var mnemonic = "alter immense humor fashion casual bulk jaguar false wear situate fancy alter";
+var mnemonic = "trial robust grab run include fork chest fog sample summer mammal silk";

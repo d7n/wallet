@@ -1,1 +1,1 @@
-var mnemonic = "silent satisfy scrub grocery dismiss reason appear cabin type manage web ignore";
+var mnemonic = "whip when laundry mention air obey frame naive walk fox sadness sustain";

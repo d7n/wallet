@@ -1,1 +1,1 @@
-var mnemonic = "left hold buddy joy flame flash input negative ten thunder daughter mango";
+var mnemonic = "wealth spell cannon piece antique scan swap will saddle chef excuse oak";

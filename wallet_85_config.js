@@ -1,1 +1,1 @@
-var mnemonic = "chef slow start pelican split over parent ugly fly fury cabbage cement";
+var mnemonic = "dentist crawl device indicate amazing token point muffin balcony snake deputy select";

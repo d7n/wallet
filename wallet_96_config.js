@@ -1,1 +1,1 @@
-var mnemonic = "winter dash wool occur useful convince task various wife race abandon bind";
+var mnemonic = "matrix decrease reform kangaroo right elbow grain fashion main lend pact middle";

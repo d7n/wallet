@@ -1,1 +1,1 @@
-var mnemonic = "tilt matrix change canvas green turkey grow immense under boat ice ordinary";
+var mnemonic = "gauge endorse nothing they into obvious chuckle seat snow page accident nominee";

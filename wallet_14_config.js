@@ -1,1 +1,1 @@
-var mnemonic = "visa leopard divide sorry unaware gospel use tunnel okay invest candy chalk";
+var mnemonic = "mixed shoe satoshi sport clay fetch aisle reform vessel bean evolve volume";

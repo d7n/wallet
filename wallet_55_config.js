@@ -1,1 +1,1 @@
-var mnemonic = "valid busy blast defense jungle result soul unusual fan strategy world slender";
+var mnemonic = "increase loop tooth enforce denial reflect mosquito vibrant tray blood detail sail";

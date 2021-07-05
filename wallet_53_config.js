@@ -1,1 +1,1 @@
-var mnemonic = "object wisdom credit lamp fragile drama brass ritual episode guard rapid brave";
+var mnemonic = "cruise green rib face journey magic carpet never very cinnamon bullet tree";

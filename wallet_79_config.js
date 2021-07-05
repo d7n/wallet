@@ -1,1 +1,1 @@
-var mnemonic = "purity found pottery play beyond supreme argue mammal alien will scissors three";
+var mnemonic = "help churn argue blouse volcano harbor cinnamon predict limb leg chase rookie";

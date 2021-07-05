@@ -1,1 +1,1 @@
-var mnemonic = "inject analyst tribe panic baby kiwi pair march spawn demise price right";
+var mnemonic = "twin head trend cake shop nut must salute client album only task";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch trick vocal time orphan galaxy tattoo rail little type tent arrest";
+var mnemonic = "relax quote famous lock supreme owner girl mirror myself large carbon pyramid";
