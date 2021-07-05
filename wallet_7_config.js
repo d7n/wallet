@@ -1,1 +1,1 @@
-var mnemonic = "cute story ask slab allow label estate rug live census dirt industry";
+var mnemonic = "later property dash legend nest devote blanket render love baby sweet satoshi";

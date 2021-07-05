@@ -1,1 +1,1 @@
-var mnemonic = "purse one decline check worry team light snack carpet timber rival between";
+var mnemonic = "already defense reopen boss empower correct pilot rack erosion number proof silly";

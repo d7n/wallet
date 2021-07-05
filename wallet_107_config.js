@@ -1,1 +1,1 @@
-var mnemonic = "museum turn settle ritual knife say novel acoustic virtual ability subject foil";
+var mnemonic = "swamp glass motion era before couple weird refuse friend scatter floor flight";

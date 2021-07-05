@@ -1,1 +1,1 @@
-var mnemonic = "card vast crystal female reveal review height catalog deputy head panda give";
+var mnemonic = "talk scout argue area frost indicate control creek dumb split require omit";

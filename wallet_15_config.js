@@ -1,1 +1,1 @@
-var mnemonic = "huge shock cinnamon lift vacuum panel gym double promote frequent kiwi phrase";
+var mnemonic = "try weird excuse ginger exchange long agent pudding tourist climb wasp slow";

@@ -1,1 +1,1 @@
-var mnemonic = "duck access alert bus ancient again subway robust liquid gloom mail book";
+var mnemonic = "merit correct rather nut alcohol entire pipe true ahead inside inflict purchase";

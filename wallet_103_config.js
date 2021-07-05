@@ -1,1 +1,1 @@
-var mnemonic = "away utility income lake outer leopard coffee life adapt bubble peace time";
+var mnemonic = "canal same economy cliff float key father final artefact rural decide rookie";

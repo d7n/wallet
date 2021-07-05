@@ -1,1 +1,1 @@
-var mnemonic = "actual other fragile lava retreat arrive disagree choice army ahead above pilot";
+var mnemonic = "accident crouch design this arena approve surprise dismiss thunder decade vault anger";

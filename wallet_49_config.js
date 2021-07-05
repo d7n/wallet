@@ -1,1 +1,1 @@
-var mnemonic = "penalty lend night oak pill drill deliver wire actual trophy embody lady";
+var mnemonic = "wolf dad require slab load voyage kitten alpha kiwi toilet bring cattle";

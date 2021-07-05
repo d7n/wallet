@@ -1,1 +1,1 @@
-var mnemonic = "hunt hold pencil lawn assume search host act video sail novel mesh";
+var mnemonic = "casual general control sure miracle ceiling glad sport rose east bid cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "act crunch about push evil shift circle guard time maze slab record";
+var mnemonic = "damp run pill sponsor across destroy shrimp little salon benefit pear west";

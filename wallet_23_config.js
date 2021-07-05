@@ -1,1 +1,1 @@
-var mnemonic = "cupboard blush turkey vocal fall zebra rubber say tonight issue quality bullet";
+var mnemonic = "token dizzy mixed approve believe dose chicken gate fragile repeat loud cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "battle congress repeat defy there phone story sound excite perfect solution project";
+var mnemonic = "crystal save teach together shiver already inside version mask theme extend pizza";

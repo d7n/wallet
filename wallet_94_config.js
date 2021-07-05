@@ -1,1 +1,1 @@
-var mnemonic = "desk allow urge identify cushion treat weather equip spray marine orchard electric";
+var mnemonic = "hard august crumble tell wife federal finish pudding valley spice purity actual";

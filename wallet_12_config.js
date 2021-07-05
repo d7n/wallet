@@ -1,1 +1,1 @@
-var mnemonic = "salad slam address vessel crush cancel liberty inmate enough text spot service";
+var mnemonic = "march toe decade appear yard output found assault cabin acquire catalog saddle";

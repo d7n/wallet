@@ -1,1 +1,1 @@
-var mnemonic = "hint exhaust diesel leaf zone buzz donor rhythm drive dutch teach direct";
+var mnemonic = "walnut venue illegal relax weird oyster trust turtle base whale amused modify";

@@ -1,1 +1,1 @@
-var mnemonic = "during toe despair swear decide until govern pupil icon defy spice elevator";
+var mnemonic = "ring when cargo soul wreck flip large narrow tomorrow cinnamon picture vault";

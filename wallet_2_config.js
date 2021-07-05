@@ -1,1 +1,1 @@
-var mnemonic = "opinion coral hammer long dismiss dream vocal expire focus near cushion napkin";
+var mnemonic = "shoulder vital snap pyramid hello gate gallery marine soft much abuse nominee";

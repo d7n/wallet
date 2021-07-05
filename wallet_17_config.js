@@ -1,1 +1,1 @@
-var mnemonic = "track make enemy race minor chase math grit old saddle grit topple";
+var mnemonic = "debris earth run sorry piano cargo loop notable special combine volcano tooth";

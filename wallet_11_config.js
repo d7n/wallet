@@ -1,1 +1,1 @@
-var mnemonic = "venture ask doctor scene right sock entire tonight erode print object census";
+var mnemonic = "assault flush fantasy ceiling unaware any liar broken ocean trophy term enact";

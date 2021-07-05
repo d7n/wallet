@@ -1,1 +1,1 @@
-var mnemonic = "bulb label govern ability skill hurt laundry foster quote plug pupil fun";
+var mnemonic = "service neck bundle popular iron make common green journey tumble student multiply";

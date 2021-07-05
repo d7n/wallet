@@ -1,1 +1,1 @@
-var mnemonic = "zoo plate put member swift job very federal symptom wait category place";
+var mnemonic = "eye drink arena report notice cherry tattoo infant maple bag wet forest";

@@ -1,1 +1,1 @@
-var mnemonic = "lumber stool miracle unaware ignore blanket want vanish apology truck sure display";
+var mnemonic = "mushroom shove column garment oblige below often timber dwarf add staff material";

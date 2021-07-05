@@ -1,1 +1,1 @@
-var mnemonic = "grain drama way shed media solid modify quit solid despair cruise mix";
+var mnemonic = "column reunion comic use taxi slim cement dash good exotic giggle gospel";

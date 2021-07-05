@@ -1,1 +1,1 @@
-var mnemonic = "card concert cost mail junior industry purity mango raise rapid boy just";
+var mnemonic = "husband select into weapon skin crush jaguar alpha vessel liberty penalty wonder";

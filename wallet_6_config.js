@@ -1,1 +1,1 @@
-var mnemonic = "wood purity vanish manage length purity maximum attract bubble another dwarf amazing";
+var mnemonic = "bronze alert barely obtain have scrub ready area remove oppose staff blouse";

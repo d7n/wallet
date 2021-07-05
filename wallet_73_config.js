@@ -1,1 +1,1 @@
-var mnemonic = "travel either diary unveil boy mistake daring real destroy raise sting purse";
+var mnemonic = "wagon sleep rate work width together bicycle either relief defense paper palm";

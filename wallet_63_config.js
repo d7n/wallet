@@ -1,1 +1,1 @@
-var mnemonic = "december require amateur ski exist put amused issue immune thunder steak athlete";
+var mnemonic = "ski enact glove blossom upon turn group panda arrange chuckle dinner fault";

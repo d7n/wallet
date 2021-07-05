@@ -1,1 +1,1 @@
-var mnemonic = "danger brand razor food loop prize inflict give melt dad gain again";
+var mnemonic = "miracle flight material trust neither survey fossil adapt promote ship major ill";

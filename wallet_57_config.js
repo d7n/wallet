@@ -1,1 +1,1 @@
-var mnemonic = "hub silk asset describe axis badge help cute start language cement occur";
+var mnemonic = "hundred because shrimp fly will tail gorilla excuse quiz win hand extend";

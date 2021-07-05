@@ -1,1 +1,1 @@
-var mnemonic = "cargo giraffe twist seat cube soap lake novel then album case motion";
+var mnemonic = "remind aerobic armed energy effort unit truck expire estate harbor right true";

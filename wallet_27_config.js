@@ -1,1 +1,1 @@
-var mnemonic = "face this parent walnut absent rain system spatial fresh item control excite";
+var mnemonic = "inflict seed wage audit pretty grief when retire bless grocery basic card";

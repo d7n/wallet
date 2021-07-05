@@ -1,1 +1,1 @@
-var mnemonic = "inch just echo grid hawk cube roof twenty pact auction green crater";
+var mnemonic = "music album frozen siren baby woman hurdle force unable onion success lens";

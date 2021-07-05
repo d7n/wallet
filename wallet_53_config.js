@@ -1,1 +1,1 @@
-var mnemonic = "flock proof horse one fuel naive whip novel pet cake index glare";
+var mnemonic = "fetch awake parrot glad meadow alarm film describe joke west hour wrestle";

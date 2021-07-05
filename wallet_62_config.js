@@ -1,1 +1,1 @@
-var mnemonic = "reform process neglect mouse achieve energy have give chaos dog bright educate";
+var mnemonic = "rain scan foil oven pen slight wet expect victory boat current auto";

@@ -1,1 +1,1 @@
-var mnemonic = "suit egg ask hurdle repair bicycle imitate concert you purity polar faith";
+var mnemonic = "belt asset material absent model picnic fossil damp will spot shadow wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase evil offer grape model relax fork awkward air again ankle gorilla";
+var mnemonic = "notable pitch boat dune clog ice tired sustain creek pulp friend nerve";

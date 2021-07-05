@@ -1,1 +1,1 @@
-var mnemonic = "reunion space foam fancy supreme canoe mule police fossil differ cloud oak";
+var mnemonic = "desert victory express life cook letter chicken kangaroo quality manual close faculty";

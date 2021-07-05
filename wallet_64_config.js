@@ -1,1 +1,1 @@
-var mnemonic = "shoe elbow final verb quit garden whale silly swap divorce truck iron";
+var mnemonic = "lawn observe mail usage fatigue kangaroo what cake wet spring elbow orphan";

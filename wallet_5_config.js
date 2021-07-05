@@ -1,1 +1,1 @@
-var mnemonic = "hollow aim gas odor wet decline ignore pulse relief fiscal grow okay";
+var mnemonic = "alter gloom leader science depend kitten allow announce mean private virtual tomato";

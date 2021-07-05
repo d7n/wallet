@@ -1,1 +1,1 @@
-var mnemonic = "lucky stone apology husband soup wrap hybrid distance because reduce joy advance";
+var mnemonic = "saddle kit shock cart puzzle bubble sight tone invest soul fiscal little";

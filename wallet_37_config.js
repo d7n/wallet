@@ -1,1 +1,1 @@
-var mnemonic = "drop enable lesson prevent service absorb you kite fox craft october evolve";
+var mnemonic = "explain lobster negative waste injury ring valid change grocery hedgehog mandate school";

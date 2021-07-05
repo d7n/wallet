@@ -1,1 +1,1 @@
-var mnemonic = "peace pond churn welcome pelican grief swallow midnight method insane able divide";
+var mnemonic = "income put salt east height steak any level correct cart thunder thrive";

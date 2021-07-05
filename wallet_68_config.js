@@ -1,1 +1,1 @@
-var mnemonic = "card beach squeeze song expect inner dawn blade armed private joy skate";
+var mnemonic = "tone climb future inspire amazing drift face lava desert cabbage mail patient";

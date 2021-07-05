@@ -1,1 +1,1 @@
-var mnemonic = "absent tide tell laundry order wide beauty bonus brother save eight carpet";
+var mnemonic = "mango stay obey soup there saddle stay reveal setup oyster curious easy";

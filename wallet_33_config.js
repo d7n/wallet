@@ -1,1 +1,1 @@
-var mnemonic = "when receive gas creek nature hill eternal depend cereal access draft across";
+var mnemonic = "cradle ticket dish palm enroll oven profit jeans admit stamp jump about";

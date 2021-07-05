@@ -1,1 +1,1 @@
-var mnemonic = "neutral creek kite junior hockey describe shuffle barrel jacket gadget truly room";
+var mnemonic = "picnic type senior art message meadow tennis lift tip shove math fever";

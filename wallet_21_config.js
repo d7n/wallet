@@ -1,1 +1,1 @@
-var mnemonic = "brick neglect cake neutral matter vacuum swing sell slow melody prevent glance";
+var mnemonic = "ranch wolf stairs cinnamon rain finish cup surface speak you slight amused";

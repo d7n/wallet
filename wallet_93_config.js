@@ -1,1 +1,1 @@
-var mnemonic = "home fee winner wrestle border human deputy pledge calm knee sick treat";
+var mnemonic = "isolate wash orbit plate hotel cigar auction adjust envelope wage issue second";

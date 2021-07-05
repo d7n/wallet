@@ -1,1 +1,1 @@
-var mnemonic = "fringe agent depart wild idea magnet lumber alley slender until air diary";
+var mnemonic = "spy there caught witness coach useful safe impact movie quiz song gather";

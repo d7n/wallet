@@ -1,1 +1,1 @@
-var mnemonic = "same nothing eagle achieve sand price divorce best rebel space exotic absent";
+var mnemonic = "spin slim nurse debris live buzz ten match dentist sort sock fiber";

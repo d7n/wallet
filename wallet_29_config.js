@@ -1,1 +1,1 @@
-var mnemonic = "drama word fame spoil jar nominee comfort that catalog own lock atom";
+var mnemonic = "like first pistol spike misery basket record dish arch fox market tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket panic thank romance mesh wall illegal salon deal apart glass despair";
+var mnemonic = "liquid aerobic decrease debris protect purse industry trouble nasty weird rebuild olive";

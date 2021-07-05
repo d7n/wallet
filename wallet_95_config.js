@@ -1,1 +1,1 @@
-var mnemonic = "viable extra chalk other pact stuff target gorilla alarm planet solution arrow";
+var mnemonic = "grace team later idle lawsuit race song search embark hamster orange left";

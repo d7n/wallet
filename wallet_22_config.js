@@ -1,1 +1,1 @@
-var mnemonic = "snack flash harbor age sphere adapt cluster sibling margin rent emerge cabbage";
+var mnemonic = "devote limit motor float crash quit taxi inherit shed immense inside message";

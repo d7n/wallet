@@ -1,1 +1,1 @@
-var mnemonic = "bachelor tunnel holiday paddle cream they relief country sample buyer rice debris";
+var mnemonic = "ginger idle maple fault drill rigid fire twice light carbon nice health";

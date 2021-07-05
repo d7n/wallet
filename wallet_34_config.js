@@ -1,1 +1,1 @@
-var mnemonic = "rate enlist lecture giggle great section lunar sauce penalty boy write drama";
+var mnemonic = "salmon jar marriage melt hobby cart rhythm thank act faculty govern oil";

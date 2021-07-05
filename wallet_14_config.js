@@ -1,1 +1,1 @@
-var mnemonic = "pave vacuum suffer away fame try label small doll term crumble enact";
+var mnemonic = "teach prefer hedgehog joy silent language wire trigger blame skirt potato allow";

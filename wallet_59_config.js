@@ -1,1 +1,1 @@
-var mnemonic = "bunker endorse spoil sauce jar loud grain snake crack dolphin shed silver";
+var mnemonic = "mobile divorce blur erode sea fork rally seek pupil anchor pond crack";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology claim push pupil rude learn vivid sketch culture tackle estate pizza";
+var mnemonic = "warfare confirm pool jar funny maze liberty boss minimum private pelican viable";

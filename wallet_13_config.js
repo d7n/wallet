@@ -1,1 +1,1 @@
-var mnemonic = "accident over hurdle real rib stand burden legal husband render agent doll";
+var mnemonic = "shrug neck inhale arrow endorse spice impulse dry mention silent degree city";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow hazard seat rifle type device purpose slender hand clean enough involve";
+var mnemonic = "dry scrub cupboard cram because approve ice jealous hungry sunny cycle property";

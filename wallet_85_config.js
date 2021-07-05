@@ -1,1 +1,1 @@
-var mnemonic = "tail buyer frog senior slush found gate doll media couple elephant fancy";
+var mnemonic = "cereal walk diamond assist recipe humble example average dial radio auction apple";

@@ -1,1 +1,1 @@
-var mnemonic = "fame tragic clay increase mention sunset alone valid once whale culture slim";
+var mnemonic = "web blade chunk hero label feel total various century drip organ quit";

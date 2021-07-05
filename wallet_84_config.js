@@ -1,1 +1,1 @@
-var mnemonic = "soda glove ketchup arrange stem series erode spy work claim protect mesh";
+var mnemonic = "where right document worry rich federal vote walk divorce frost alert immense";

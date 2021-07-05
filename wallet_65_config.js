@@ -1,1 +1,1 @@
-var mnemonic = "menu tell board mountain cash bless matter sing sentence inquiry base seed";
+var mnemonic = "phrase chunk bundle model bridge saddle fold february chunk army liar science";

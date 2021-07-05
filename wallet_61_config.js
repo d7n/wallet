@@ -1,1 +1,1 @@
-var mnemonic = "what affair news popular limb forest glare train rug analyst grit title";
+var mnemonic = "pioneer earn antenna width ostrich swap woman uncover print spoil tank travel";

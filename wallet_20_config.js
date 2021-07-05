@@ -1,1 +1,1 @@
-var mnemonic = "tape honey help warm napkin allow lunch royal deal minimum pizza night";
+var mnemonic = "shallow lizard category special oak tower ripple check drastic river buzz motion";

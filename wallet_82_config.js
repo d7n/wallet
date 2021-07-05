@@ -1,1 +1,1 @@
-var mnemonic = "repair chaos design jeans credit develop follow accuse icon spider minimum whale";
+var mnemonic = "buyer sponsor drum town nasty there trial strategy vague width enlist vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle rival pencil process nominee cycle symptom spell cage cancel lift bounce";
+var mnemonic = "love soul velvet input wolf arrange lift oblige speak ability obscure sentence";

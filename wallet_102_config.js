@@ -1,1 +1,1 @@
-var mnemonic = "cluster protect large harvest jaguar still initial energy drama swamp immense traffic";
+var mnemonic = "sure plunge farm execute dinosaur network urge harvest subway grant rubber soup";

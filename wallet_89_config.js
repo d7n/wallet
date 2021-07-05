@@ -1,1 +1,1 @@
-var mnemonic = "disease diagram arctic strike almost clog flip vacuum master mandate heart lucky";
+var mnemonic = "around stick credit knock pull doll mirror silent impact wisdom stand dove";

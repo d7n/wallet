@@ -1,1 +1,1 @@
-var mnemonic = "accuse offer bulk allow trend degree fix strong deer angle try broken";
+var mnemonic = "sausage almost merge cluster behind evil trim gap unfair thought praise profit";

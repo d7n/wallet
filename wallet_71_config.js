@@ -1,1 +1,1 @@
-var mnemonic = "maze range alpha trumpet cattle kiwi erode reunion actress mixed fun canoe";
+var mnemonic = "clarify always stamp bomb goat adult siren expire potato cargo diesel domain";

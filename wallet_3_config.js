@@ -1,1 +1,1 @@
-var mnemonic = "defy shock defy best tool buzz shrimp weird swap hill sword web";
+var mnemonic = "appear forward gossip help unknown about vendor wrap unable diagram swap reject";

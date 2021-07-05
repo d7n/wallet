@@ -1,1 +1,1 @@
-var mnemonic = "about area any spring goddess later stay ancient raise mutual lizard virus";
+var mnemonic = "pledge achieve light robot rhythm eight inmate ozone shine wreck sick high";

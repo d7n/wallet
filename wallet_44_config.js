@@ -1,1 +1,1 @@
-var mnemonic = "orchard ozone few else helmet mushroom tackle over venue broken crunch lady";
+var mnemonic = "decide price symptom cloud volcano pitch dog hundred myself base mechanic bronze";

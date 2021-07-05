@@ -1,1 +1,1 @@
-var mnemonic = "source able tape pool tennis expect multiply advice garbage unveil rich biology";
+var mnemonic = "quality champion february victory elephant oxygen click evil mass angry exhaust always";

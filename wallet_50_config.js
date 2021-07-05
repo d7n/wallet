@@ -1,1 +1,1 @@
-var mnemonic = "stumble glance frown virus afraid extend knee eight sleep door stumble across";
+var mnemonic = "device material medal era crystal obtain october attract cousin credit lonely welcome";

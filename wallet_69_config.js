@@ -1,1 +1,1 @@
-var mnemonic = "regret client left girl cream question olive hole sense put source absurd";
+var mnemonic = "party foil science bullet soccer lecture economy sure chef smart sand film";

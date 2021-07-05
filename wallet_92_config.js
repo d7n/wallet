@@ -1,1 +1,1 @@
-var mnemonic = "notice galaxy river churn metal long ahead display modify because elevator river";
+var mnemonic = "monster tray whip crowd diamond mention style benefit cycle pilot used idle";

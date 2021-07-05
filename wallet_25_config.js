@@ -1,1 +1,1 @@
-var mnemonic = "duty gossip used glance fold bar power marble wife cross post basket";
+var mnemonic = "warfare fall ranch group genre tumble almost hood buddy screen hospital security";

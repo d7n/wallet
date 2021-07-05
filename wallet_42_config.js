@@ -1,1 +1,1 @@
-var mnemonic = "dial bag cruise sand arctic gossip kidney margin scale urban town above";
+var mnemonic = "spare tribe vibrant brush regular sudden water giggle pepper grocery float repeat";

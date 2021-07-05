@@ -1,1 +1,1 @@
-var mnemonic = "drum repair exile hope impose arrow scale garage motion grain flush hair";
+var mnemonic = "valid assume pool distance detect document raven amused artefact wash monster disease";

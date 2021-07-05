@@ -1,1 +1,1 @@
-var mnemonic = "start subway obtain gown winner dragon salute sock false write lobster exile";
+var mnemonic = "certain aisle bacon wine expand cactus review sniff melody coyote produce main";

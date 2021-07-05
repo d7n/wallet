@@ -1,1 +1,1 @@
-var mnemonic = "pencil snake pet door claim kiss gorilla old install task improve middle";
+var mnemonic = "happy action near minute expose speed vast voyage grid public like narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn knee strong type reward slot depth punch design tennis cargo broom";
+var mnemonic = "eye half feed win merry stable ghost glad runway fragile move thing";

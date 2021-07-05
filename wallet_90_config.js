@@ -1,1 +1,1 @@
-var mnemonic = "post music quantum hotel weird trim amount close top jeans tent ice";
+var mnemonic = "tomato glare glue coffee spot reward lesson finger turkey virtual blood kit";

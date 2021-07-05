@@ -1,1 +1,1 @@
-var mnemonic = "blur talk media dance defense sketch west edit floor toast split glue";
+var mnemonic = "delay riot banner syrup ride mean render floor client cricket cushion thing";
