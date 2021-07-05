@@ -1,1 +1,1 @@
-var mnemonic = "wave shove spirit then evoke orchard shuffle sea animal bomb mean first";
+var mnemonic = "cloud best retreat jazz message mistake pen sting found wasp month remain";

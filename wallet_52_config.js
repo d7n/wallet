@@ -1,1 +1,1 @@
-var mnemonic = "oxygen news wreck kangaroo ankle color polar siren gown addict accident ridge";
+var mnemonic = "fragile assume marine isolate across define outdoor frame hole reward lamp wheel";

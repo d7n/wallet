@@ -1,1 +1,1 @@
-var mnemonic = "element arctic near claim margin survey deer tomato benefit napkin flower shop";
+var mnemonic = "hub siren gadget ten quality truth above advance summer enlist figure milk";

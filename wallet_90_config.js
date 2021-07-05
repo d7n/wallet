@@ -1,1 +1,1 @@
-var mnemonic = "shoulder draft uphold submit wedding rotate grief vivid quiz athlete learn pill";
+var mnemonic = "member scan remind proud glue symptom bring town unhappy sick viable misery";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon calm road tiger attitude marble toward claim cash insect master process";
+var mnemonic = "stable flight hair ketchup harsh duck spin useless example usual away field";

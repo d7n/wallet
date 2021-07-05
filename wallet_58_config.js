@@ -1,1 +1,1 @@
-var mnemonic = "asthma save spare rival rally scan antique negative pretty unfold laugh swing";
+var mnemonic = "roof decade hidden slush apple wet fun dirt sure oil age flock";

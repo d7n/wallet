@@ -1,1 +1,1 @@
-var mnemonic = "barrel balcony tenant acoustic funny jeans guide loyal upper arrange detect exotic";
+var mnemonic = "distance hold gift tide setup zebra adult lazy super dog private endless";

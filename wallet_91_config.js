@@ -1,1 +1,1 @@
-var mnemonic = "bag gloom woman paddle antenna muffin because artist ignore vacant crater region";
+var mnemonic = "hire question yard title gentle never alarm anchor ramp army run urban";

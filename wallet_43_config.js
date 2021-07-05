@@ -1,1 +1,1 @@
-var mnemonic = "swear six decide source lounge frost fee test paper enemy unable phrase";
+var mnemonic = "kid potato stay warrior fatigue accuse season true valid option city disorder";

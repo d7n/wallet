@@ -1,1 +1,1 @@
-var mnemonic = "public embody guard logic betray slim panel donor birth view hunt adapt";
+var mnemonic = "shallow top decrease umbrella hunt enact increase book shaft tell comic merit";

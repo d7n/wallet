@@ -1,1 +1,1 @@
-var mnemonic = "slam senior else service glory envelope whale scrap grant flower excuse unaware";
+var mnemonic = "huge august identify patch chalk patch venue gaze beef piano guitar gather";

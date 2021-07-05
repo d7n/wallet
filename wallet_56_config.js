@@ -1,1 +1,1 @@
-var mnemonic = "spike nurse slush shine label corn hole soup oxygen army kingdom upon";
+var mnemonic = "garage gym shoe tennis foam emotion stairs slogan club rare style trust";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern worry crazy gossip adapt monitor spin like express early bullet install";
+var mnemonic = "suffer rescue language neutral enable amateur true acoustic toast siren firm audit";

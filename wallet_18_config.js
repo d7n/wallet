@@ -1,1 +1,1 @@
-var mnemonic = "say focus leisure recipe quit month stumble cannon focus stomach ethics clock";
+var mnemonic = "cousin dial praise jar burger time negative lion ethics title finish cattle";

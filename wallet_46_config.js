@@ -1,1 +1,1 @@
-var mnemonic = "neglect slight mercy banana peace quiz camera hockey enforce much project nature";
+var mnemonic = "reform faculty crime good argue mean owner gauge few suit flavor erosion";

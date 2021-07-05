@@ -1,1 +1,1 @@
-var mnemonic = "wagon scrap romance coffee arrange online unhappy camera fame history suffer lesson";
+var mnemonic = "huge prison garlic evoke surge horror decline abuse suit smoke harsh place";

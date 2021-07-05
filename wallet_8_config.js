@@ -1,1 +1,1 @@
-var mnemonic = "cream cradle away symbol bring deliver sponsor ribbon cook fire green cheese";
+var mnemonic = "mechanic vast novel above brand address prison drive swap globe action cause";

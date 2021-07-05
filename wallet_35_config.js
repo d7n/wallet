@@ -1,1 +1,1 @@
-var mnemonic = "curious glance afraid equip drip main dismiss nice bundle embrace task gate";
+var mnemonic = "trash gown egg suffer trim game seed genuine payment split warfare bargain";

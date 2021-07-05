@@ -1,1 +1,1 @@
-var mnemonic = "chest wrap emerge cactus job desk frequent predict flash hobby brother cry";
+var mnemonic = "october hundred guilt embrace feel punch crystal tomorrow emerge lucky holiday salon";

@@ -1,1 +1,1 @@
-var mnemonic = "horn evolve tray drive metal future cherry lecture bulb brand there toss";
+var mnemonic = "future lunch cotton april accuse arctic early account private act clever spirit";

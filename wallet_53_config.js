@@ -1,1 +1,1 @@
-var mnemonic = "tonight series picnic minimum risk ozone betray boost among shadow prosper april";
+var mnemonic = "initial crush gasp during kingdom smart indicate note few old defy brave";

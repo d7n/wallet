@@ -1,1 +1,1 @@
-var mnemonic = "rate rent mail school word dumb zoo control level wonder fade exact";
+var mnemonic = "zebra skill misery embrace trust remind employ extend wagon appear candy amused";

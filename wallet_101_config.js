@@ -1,1 +1,1 @@
-var mnemonic = "slide century kit parent vibrant method sail curtain divide mass vibrant enforce";
+var mnemonic = "involve expand behind stand seat liquid fan city version mix weasel loan";

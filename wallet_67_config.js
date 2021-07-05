@@ -1,1 +1,1 @@
-var mnemonic = "member point bronze victory field essence cactus add indoor extra join guess";
+var mnemonic = "animal galaxy taxi eternal soup worry domain surface shift entry lend tide";

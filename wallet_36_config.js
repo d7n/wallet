@@ -1,1 +1,1 @@
-var mnemonic = "shiver attack trade fever flock tooth surface focus fun scissors patient recipe";
+var mnemonic = "avoid cake visual reflect round van list slot patch math junior hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "health verb myself beach ship job yellow multiply pupil obey detect imitate";
+var mnemonic = "habit someone chunk cement sudden term trouble frog amateur goose possible biology";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil save electric man right flower glimpse pelican coach suit ostrich arctic";
+var mnemonic = "gravity fan effort subway liar receive man brick urge problem busy car";

@@ -1,1 +1,1 @@
-var mnemonic = "just split coyote census make wing place pool design lady beyond useless";
+var mnemonic = "super enemy invite vault claw make huge faint donor inmate surround mountain";

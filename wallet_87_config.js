@@ -1,1 +1,1 @@
-var mnemonic = "seat cliff wealth double public type bar shadow excess prepare praise vote";
+var mnemonic = "control beyond diamond bracket million goat modify enrich age room fault flat";

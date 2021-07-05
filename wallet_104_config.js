@@ -1,1 +1,1 @@
-var mnemonic = "rabbit garage domain dash fee bulb stuff episode area hotel picnic crazy";
+var mnemonic = "win speak pond monster antenna fatigue common trial man improve play celery";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor car mix donor nephew invest volume honey inside belt annual radio";
+var mnemonic = "rug slam cable announce infant level desk imitate suspect choose pipe magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "real cause guilt bonus sand ability zero arena under twenty mutual base";
+var mnemonic = "coil jewel festival boost space wool february indicate quarter note float arrest";

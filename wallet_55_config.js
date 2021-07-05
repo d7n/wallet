@@ -1,1 +1,1 @@
-var mnemonic = "report toe cactus upset obscure clog daring icon bargain claw royal bronze";
+var mnemonic = "tornado cotton phone absent pupil wrap that base decide canyon palace okay";

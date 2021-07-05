@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow found abstract divert october race grief genius monkey power same youth";
+var mnemonic = "permit dignity wink phone pattern ignore curious render north illegal song laundry";

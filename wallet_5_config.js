@@ -1,1 +1,1 @@
-var mnemonic = "tell multiply vacuum zoo kingdom fat twice they reflect pencil gloom toe";
+var mnemonic = "orphan girl desert guilt filter unlock method excuse high valid fancy visa";

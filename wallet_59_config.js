@@ -1,1 +1,1 @@
-var mnemonic = "gospel dust brave soda fringe few regular butter insect pudding monkey quiz";
+var mnemonic = "crowd athlete model wedding shrug prize cool remain leg strike claim burden";

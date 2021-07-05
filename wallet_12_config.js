@@ -1,1 +1,1 @@
-var mnemonic = "chuckle wreck reward donor remove click bus shoulder swift spice chaos cupboard";
+var mnemonic = "misery ancient banana outdoor turtle borrow pizza swarm mistake diagram night sauce";

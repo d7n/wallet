@@ -1,1 +1,1 @@
-var mnemonic = "night identify cross announce secret crazy talk ribbon stage empty pulse hobby";
+var mnemonic = "rocket suit person front loyal robot banner frozen soap lobster intact sight";

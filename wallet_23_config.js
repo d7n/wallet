@@ -1,1 +1,1 @@
-var mnemonic = "symbol hand north brick next worry original approve camp pause bachelor ordinary";
+var mnemonic = "hire practice dash afraid festival movie ship coast word glimpse chef love";

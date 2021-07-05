@@ -1,1 +1,1 @@
-var mnemonic = "hip clay seek gown basic bronze name inject ethics weekend ball iron";
+var mnemonic = "holiday blind glove income wash antenna blossom connect elder palm stairs float";

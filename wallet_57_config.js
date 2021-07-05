@@ -1,1 +1,1 @@
-var mnemonic = "trash twice arch torch inject south priority car divert siege hurt rose";
+var mnemonic = "social service naive rubber lecture swim tongue gorilla benefit laundry grant mirror";

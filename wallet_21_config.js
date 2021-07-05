@@ -1,1 +1,1 @@
-var mnemonic = "absorb else edge distance art hamster breeze sock ostrich jacket fat swing";
+var mnemonic = "leisure monkey pilot fancy problem elegant first expand night toward gallery travel";

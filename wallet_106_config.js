@@ -1,1 +1,1 @@
-var mnemonic = "enemy suit base ladder prepare seat own bonus category slow snack stock";
+var mnemonic = "chair autumn laundry drum time unveil muscle faint vapor card swallow install";

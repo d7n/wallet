@@ -1,1 +1,1 @@
-var mnemonic = "melody entire typical correct empty wood slender under kite learn cable saddle";
+var mnemonic = "tube segment outdoor hard reform jealous surface loud sun address tiger brown";

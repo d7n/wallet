@@ -1,1 +1,1 @@
-var mnemonic = "nose genius street ride fashion dance above cool rare divert poem enact";
+var mnemonic = "will keep attitude demand fee spot congress rack wrist butter defy school";

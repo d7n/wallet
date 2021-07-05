@@ -1,1 +1,1 @@
-var mnemonic = "key zone breeze visa finish suggest flash useful slow rough fault today";
+var mnemonic = "breeze east agree industry art year exhibit pumpkin salmon acid regret city";

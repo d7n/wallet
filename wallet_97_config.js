@@ -1,1 +1,1 @@
-var mnemonic = "airport orchard tumble pigeon palm cruise place brand way cupboard place satoshi";
+var mnemonic = "elevator monster base average end extra lecture curtain believe lion quantum lamp";

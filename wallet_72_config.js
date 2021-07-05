@@ -1,1 +1,1 @@
-var mnemonic = "shield elite share clinic rug call maple kitten final silent divert jump";
+var mnemonic = "yellow wolf scrap guilt truly enjoy dragon capable waste cliff wheat item";

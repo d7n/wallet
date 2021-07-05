@@ -1,1 +1,1 @@
-var mnemonic = "pipe angry famous mobile soap web enroll gather devote grief mirror foot";
+var mnemonic = "park normal chicken fantasy faint notable truly hero kite crazy bitter toy";

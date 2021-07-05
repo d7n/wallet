@@ -1,1 +1,1 @@
-var mnemonic = "nurse raise need joy pluck speak legal perfect home obey involve exhaust";
+var mnemonic = "attack govern convince february father dress impose member noodle electric detect science";

@@ -1,1 +1,1 @@
-var mnemonic = "message sun ready access resist venue juice auction pass before hurt reunion";
+var mnemonic = "object parrot myth fetch walk gas unhappy company noble reopen always medal";

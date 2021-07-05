@@ -1,1 +1,1 @@
-var mnemonic = "interest vessel flight extra saddle chapter sustain suffer material trigger path surge";
+var mnemonic = "tomato deny december kick pledge middle neither orbit board leisure knock other";

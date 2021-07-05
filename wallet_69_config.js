@@ -1,1 +1,1 @@
-var mnemonic = "elbow shy green glow analyst oppose rack ritual purchase usage engine meadow";
+var mnemonic = "split race rigid run gallery aware anchor ramp similar attitude harsh width";

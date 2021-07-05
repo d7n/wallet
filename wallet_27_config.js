@@ -1,1 +1,1 @@
-var mnemonic = "hundred heart liar glimpse vault prepare odor salad lake gown session stomach";
+var mnemonic = "oven shoot prepare uphold today celery forest body segment acoustic update predict";

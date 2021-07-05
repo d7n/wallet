@@ -1,1 +1,1 @@
-var mnemonic = "police mutual address volcano public proof flee adult shy depart absurd wrestle";
+var mnemonic = "wrestle begin nothing large squeeze tonight burger attitude spin tube ostrich casino";

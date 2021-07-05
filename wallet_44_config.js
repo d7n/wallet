@@ -1,1 +1,1 @@
-var mnemonic = "cricket diamond debate furnace spatial hawk damage hello cool false sleep genre";
+var mnemonic = "glare soda dish net giant air remain later moon curtain prison tourist";

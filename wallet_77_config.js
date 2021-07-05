@@ -1,1 +1,1 @@
-var mnemonic = "option between future cupboard element glue ability mystery flavor buzz trial saddle";
+var mnemonic = "tattoo material oval during okay eye excuse cloud bonus endless merge purchase";

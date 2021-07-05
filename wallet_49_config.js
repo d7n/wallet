@@ -1,1 +1,1 @@
-var mnemonic = "web bag nephew enlist key arm entry coyote bullet shoulder diagram ready";
+var mnemonic = "vintage sword pyramid gap dose impose utility region episode muffin reduce sketch";

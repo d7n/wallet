@@ -1,1 +1,1 @@
-var mnemonic = "main now shine slim match drastic mixed retreat rebel present frog scrap";
+var mnemonic = "mass cry kangaroo list bright cinnamon giraffe body chronic tuna shoot head";

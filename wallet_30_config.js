@@ -1,1 +1,1 @@
-var mnemonic = "caution nose luxury scale reward predict bone raven hobby garbage hero party";
+var mnemonic = "gossip pioneer announce hundred story lady follow tumble pioneer report coin surprise";

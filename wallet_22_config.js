@@ -1,1 +1,1 @@
-var mnemonic = "obvious surge peasant craft lazy cruise report mix naive fetch during else";
+var mnemonic = "title rocket rifle drum decrease brisk mix always mammal smooth accuse nasty";

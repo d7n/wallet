@@ -1,1 +1,1 @@
-var mnemonic = "offer dinner mouse load train chapter paper loyal holiday diary dynamic nurse";
+var mnemonic = "rich clown clump correct average exercise meadow topic green crisp same market";

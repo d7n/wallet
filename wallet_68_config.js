@@ -1,1 +1,1 @@
-var mnemonic = "return wet equal way affair walk crack foil skin resource try soul";
+var mnemonic = "umbrella razor hurt music attend raise rain debate feature frog sunny mimic";

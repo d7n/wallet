@@ -1,1 +1,1 @@
-var mnemonic = "mobile eternal chaos large thrive panic below token sun theme boat legend";
+var mnemonic = "tool edge mix flee inflict uncle jelly original display extra rude device";

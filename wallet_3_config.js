@@ -1,1 +1,1 @@
-var mnemonic = "miracle scrap aerobic language rail immune thumb auto runway wagon high pair";
+var mnemonic = "glory garden warm guilt zero trade timber cinnamon arm laundry adjust remain";

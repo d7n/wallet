@@ -1,1 +1,1 @@
-var mnemonic = "erode raccoon observe goat party valid flavor thought syrup educate flash mix";
+var mnemonic = "solid sense language renew print remember coin ranch buffalo column puppy sand";

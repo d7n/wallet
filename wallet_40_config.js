@@ -1,1 +1,1 @@
-var mnemonic = "cost barely remove shine elder fall pluck sign obscure swift tonight ecology";
+var mnemonic = "horn acid lawsuit run pony flush seminar hobby innocent sudden sad rent";

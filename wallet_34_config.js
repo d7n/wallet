@@ -1,1 +1,1 @@
-var mnemonic = "curtain mixed canal hat roast other avocado explain organ squeeze agent seed";
+var mnemonic = "resist bag detect title flush top truly accident museum obtain trouble undo";

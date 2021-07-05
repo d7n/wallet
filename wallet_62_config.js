@@ -1,1 +1,1 @@
-var mnemonic = "banner observe logic because useless noodle toast snake black silent shallow grit";
+var mnemonic = "similar fringe parrot peasant piano olympic lamp planet snake maze identify error";

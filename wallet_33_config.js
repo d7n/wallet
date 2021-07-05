@@ -1,1 +1,1 @@
-var mnemonic = "club media give lonely badge dance cave matter fever bind develop much";
+var mnemonic = "aware drastic ankle horn danger drift buddy hole bread smooth sibling engine";

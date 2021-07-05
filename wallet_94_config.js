@@ -1,1 +1,1 @@
-var mnemonic = "paddle coach spread crisp first utility trim glare tortoise host nice title";
+var mnemonic = "salmon armor lounge vapor farm kangaroo reopen deny final keep grit vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "result can cram steel broken royal best combine fog harsh because million";
+var mnemonic = "core relief excuse glass panic use crack marine cousin helmet young spare";

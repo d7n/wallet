@@ -1,1 +1,1 @@
-var mnemonic = "early diagram submit captain smile sun match seminar excuse enable remain lab";
+var mnemonic = "crazy rhythm swamp life where knee aunt slogan peasant glare trick humble";

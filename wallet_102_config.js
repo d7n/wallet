@@ -1,1 +1,1 @@
-var mnemonic = "law range act vehicle half blouse fresh general man mechanic already trigger";
+var mnemonic = "snake fortune weird cannon evoke regret must online hospital ritual easily crack";

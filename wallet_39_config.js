@@ -1,1 +1,1 @@
-var mnemonic = "junior wagon ship vapor pause obvious forward end hunt oppose unfair solve";
+var mnemonic = "catch truly wife rude fault leave frost west grow shrimp corn file";

@@ -1,1 +1,1 @@
-var mnemonic = "certain orient wheat loop ritual expect worth expect credit desert isolate record";
+var mnemonic = "truly bean avoid crime jar grape decade tomorrow bridge stereo dynamic cloud";

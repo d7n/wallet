@@ -1,1 +1,1 @@
-var mnemonic = "decline sea noise close hood nature dragon garden unlock thought negative kangaroo";
+var mnemonic = "away ride evidence find forum april aunt pond clay quote equip pistol";

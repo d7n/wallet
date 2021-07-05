@@ -1,1 +1,1 @@
-var mnemonic = "rich satoshi version caught stick holiday soap mixture december sustain exact jewel";
+var mnemonic = "loyal dice there cup bulk thunder idea weird muscle sort leader siege";

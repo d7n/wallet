@@ -1,1 +1,1 @@
-var mnemonic = "equal box month fuel digital bean rescue ride series join grace trial";
+var mnemonic = "baby hospital swarm sustain oppose whip lake young purchase online steak slogan";

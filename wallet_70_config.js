@@ -1,1 +1,1 @@
-var mnemonic = "meat mountain settle sentence item dawn oxygen hire attack sketch visit refuse";
+var mnemonic = "sustain pitch language nasty fossil inch skill worth peasant layer goddess vote";

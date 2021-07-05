@@ -1,1 +1,1 @@
-var mnemonic = "require next outer slight scatter athlete buyer sight track person distance giggle";
+var mnemonic = "owner exchange fog steak exhaust absurd picnic bacon any wing cousin control";

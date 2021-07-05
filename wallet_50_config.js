@@ -1,1 +1,1 @@
-var mnemonic = "hammer maze code art gas modify input rubber trim melody spare pulp";
+var mnemonic = "into shadow health crucial prevent large achieve obtain whisper history waste vital";

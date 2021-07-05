@@ -1,1 +1,1 @@
-var mnemonic = "girl owner neglect alert push sun write powder perfect obey fury drop";
+var mnemonic = "age broom orange announce swift sign merit hungry turtle forget core vehicle";

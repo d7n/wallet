@@ -1,1 +1,1 @@
-var mnemonic = "feature dragon morning cool stuff learn dust obey laugh route honey alter";
+var mnemonic = "joy chair level clever cruise toddler oyster shoot ice dress oil inflict";

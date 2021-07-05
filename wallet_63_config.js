@@ -1,1 +1,1 @@
-var mnemonic = "reduce stadium famous dutch dutch crouch general demand kiwi frame video miracle";
+var mnemonic = "super zero trap news steel east major alley waste endorse home palace";

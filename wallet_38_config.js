@@ -1,1 +1,1 @@
-var mnemonic = "castle depth vacant eager ring nominee great peace mouse angry kit hidden";
+var mnemonic = "little first choice tribe debris visa boring kind proud close tornado when";

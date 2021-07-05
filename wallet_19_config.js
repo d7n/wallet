@@ -1,1 +1,1 @@
-var mnemonic = "bread brother buyer pole notable modify certain music finish license warfare swift";
+var mnemonic = "dilemma mistake mouse seek text legend velvet isolate bean ability dish horse";
