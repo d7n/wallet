@@ -1,1 +1,1 @@
-var mnemonic = "cliff mom invite vague ordinary dose table adult wealth radio holiday near";
+var mnemonic = "common crop great firm crater stumble silent orient jaguar tree diary limit";

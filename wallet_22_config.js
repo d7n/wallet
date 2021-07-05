@@ -1,1 +1,1 @@
-var mnemonic = "sort east grant mix auto short chase good license wrong search will";
+var mnemonic = "squeeze wrestle dune hurt once target electric between reject remember ready twenty";

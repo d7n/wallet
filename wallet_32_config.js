@@ -1,1 +1,1 @@
-var mnemonic = "desk age super cabin hammer mad smart someone answer decide insane index";
+var mnemonic = "gaze metal venue romance outdoor turtle owner hen toss case decrease deer";

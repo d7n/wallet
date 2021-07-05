@@ -1,1 +1,1 @@
-var mnemonic = "lava rabbit tuna history meadow pupil unknown coffee useful move bean please";
+var mnemonic = "arrest spike warm group fix blood limb rug laugh jar jealous cage";

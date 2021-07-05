@@ -1,1 +1,1 @@
-var mnemonic = "long salon mansion about flight venue broken venue wedding heavy sting seminar";
+var mnemonic = "piano pledge dice endorse mirror grid poem maze reopen hat click hedgehog";

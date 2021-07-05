@@ -1,1 +1,1 @@
-var mnemonic = "space topic hood profit cruel drastic harbor upon chronic excess try bitter";
+var mnemonic = "pilot hidden collect course vacant brave absorb initial nominee patch valve pencil";

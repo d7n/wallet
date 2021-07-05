@@ -1,1 +1,1 @@
-var mnemonic = "together invite pause reject song connect bridge own all melody pigeon ocean";
+var mnemonic = "mouse melody fence brief wood lounge bottom ticket route kite wreck member";

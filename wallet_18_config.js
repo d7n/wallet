@@ -1,1 +1,1 @@
-var mnemonic = "display ozone point large alien venue inmate hip journey method trouble satisfy";
+var mnemonic = "mobile gallery elder harbor analyst choice turtle call group rocket agree neither";

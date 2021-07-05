@@ -1,1 +1,1 @@
-var mnemonic = "critic kite shadow pole truck cause raccoon cable fruit catch memory picnic";
+var mnemonic = "shallow crystal prepare near napkin boost bacon enrich reopen amazing comfort lumber";

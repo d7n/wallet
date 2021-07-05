@@ -1,1 +1,1 @@
-var mnemonic = "oyster damp worth whisper valid glare enhance wall junk world lumber train";
+var mnemonic = "clean silent science frost include caught pulse begin method amused satisfy raccoon";

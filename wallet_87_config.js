@@ -1,1 +1,1 @@
-var mnemonic = "flip vital vibrant call salon virus cool top spray always moment indoor";
+var mnemonic = "trade excess glare master scan winner velvet kiwi uncle glory novel cousin";

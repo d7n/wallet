@@ -1,1 +1,1 @@
-var mnemonic = "win spin sign this stereo quarter tide forum humble end suggest phone";
+var mnemonic = "exotic voice gate item holiday cattle vessel advance security worry flame gown";

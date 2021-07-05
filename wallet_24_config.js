@@ -1,1 +1,1 @@
-var mnemonic = "logic pretty mention around color benefit innocent second elegant army way bless";
+var mnemonic = "rhythm oyster muscle check unfair arm decorate level blame glove sun habit";

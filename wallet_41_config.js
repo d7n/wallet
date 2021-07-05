@@ -1,1 +1,1 @@
-var mnemonic = "like any index beauty turn visual basic unaware ghost bamboo run buyer";
+var mnemonic = "real allow shift drill embody steel price runway calm tongue rabbit inside";

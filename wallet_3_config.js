@@ -1,1 +1,1 @@
-var mnemonic = "develop olive protect proof virtual poem stone cricket once ancient drop valid";
+var mnemonic = "exact pulse crucial kitchen bright remember plastic excess cart yellow oven always";

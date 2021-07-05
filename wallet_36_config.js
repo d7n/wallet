@@ -1,1 +1,1 @@
-var mnemonic = "wait actual seed fashion life edge oil loan valve lend rate rich";
+var mnemonic = "injury permit what betray achieve idle second captain life rose return vehicle";

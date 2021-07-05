@@ -1,1 +1,1 @@
-var mnemonic = "cruise insect warrior foster tail swing bright surface used flag angle sing";
+var mnemonic = "visa leisure parrot tank private faith say vacant story stove shadow resource";

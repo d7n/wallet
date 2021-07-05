@@ -1,1 +1,1 @@
-var mnemonic = "this choose blood truly say chair smooth supply light sauce trap differ";
+var mnemonic = "hint edge snap digital fantasy involve fetch smile urge fever asset arrive";

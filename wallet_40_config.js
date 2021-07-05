@@ -1,1 +1,1 @@
-var mnemonic = "van sound cup faculty update steel extend then search spawn stove wealth";
+var mnemonic = "honey target unfold clock clerk mistake march begin volume real garment company";

@@ -1,1 +1,1 @@
-var mnemonic = "palm trumpet cook paper meat allow opinion lift correct love marriage mountain";
+var mnemonic = "pipe gallery trial magnet call quit under neck image sort expose invest";

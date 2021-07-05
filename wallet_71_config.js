@@ -1,1 +1,1 @@
-var mnemonic = "bomb crew cry corn thought calm claim globe wall use embark deer";
+var mnemonic = "torch onion shop drastic write trigger damp inch unusual verb palm hint";

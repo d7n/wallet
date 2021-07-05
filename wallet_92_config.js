@@ -1,1 +1,1 @@
-var mnemonic = "same lady wall supply scrap chicken multiply convince melody mother long afford";
+var mnemonic = "strike silly fruit cliff whip lift million stadium impulse slide control among";

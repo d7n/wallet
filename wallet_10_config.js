@@ -1,1 +1,1 @@
-var mnemonic = "phone asset table always october dust soul vanish bunker device oxygen license";
+var mnemonic = "sting impulse provide mutual polar dumb average survey virtual reduce gather connect";

@@ -1,1 +1,1 @@
-var mnemonic = "rule junior viable traffic sunset barely sunny ocean reopen lava play polar";
+var mnemonic = "voice debate shove antique voice hover orphan chief hundred night gun glue";

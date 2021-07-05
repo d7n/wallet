@@ -1,1 +1,1 @@
-var mnemonic = "wage case enable daring cry increase host broccoli blouse eye toast film";
+var mnemonic = "digital jungle near left wool layer ginger need art grain one army";

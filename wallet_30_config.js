@@ -1,1 +1,1 @@
-var mnemonic = "breeze cupboard width certain cruel pluck crumble note potato atom year airport";
+var mnemonic = "nasty gold pond trust snow version dove spatial walk sight crawl road";

@@ -1,1 +1,1 @@
-var mnemonic = "custom myth erosion wrestle truly help beach cart clean decline hurt hurt";
+var mnemonic = "slot unhappy advance advance garment upset valve glove color employ vast dream";

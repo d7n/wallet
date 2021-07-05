@@ -1,1 +1,1 @@
-var mnemonic = "wide receive vague runway ancient mother miracle blast swing average decide chapter";
+var mnemonic = "people one idea attract general action roof crush lunch drive slab purity";

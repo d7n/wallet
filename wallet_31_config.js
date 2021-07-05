@@ -1,1 +1,1 @@
-var mnemonic = "venue keep soda butter whip casual width private group catch usual label";
+var mnemonic = "faculty poem include fat income inject another anxiety must badge bounce park";

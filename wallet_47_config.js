@@ -1,1 +1,1 @@
-var mnemonic = "else survey birth bread organ become pact secret suspect foot fluid drop";
+var mnemonic = "open kingdom merge echo alert space suit light just pass legal survey";

@@ -1,1 +1,1 @@
-var mnemonic = "blood much inmate between section athlete bachelor blade stadium enforce income mirror";
+var mnemonic = "host state dance camp grape drastic alien cup glare canoe enjoy museum";

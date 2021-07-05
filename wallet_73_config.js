@@ -1,1 +1,1 @@
-var mnemonic = "disorder miracle suffer seminar blossom domain usual someone convince amount heavy thing";
+var mnemonic = "reject forward funny peace urge return jelly main income catch glide garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny dwarf enhance glad spice depth alter empty expire eight pond labor";
+var mnemonic = "pave beach critic fat laptop opinion economy salon update fault tragic height";

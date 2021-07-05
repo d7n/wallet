@@ -1,1 +1,1 @@
-var mnemonic = "scrap arrest budget marine creek wisdom dog hockey bag tank traffic banana";
+var mnemonic = "slot sight run degree rubber learn replace initial snake pigeon eager life";

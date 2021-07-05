@@ -1,1 +1,1 @@
-var mnemonic = "mind boil various excess nothing that health unaware cheese genre yellow solid";
+var mnemonic = "shoe blame castle stem country couch retreat day actor admit tank person";

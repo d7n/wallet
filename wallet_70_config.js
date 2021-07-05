@@ -1,1 +1,1 @@
-var mnemonic = "close nominee usual despair dwarf behave oval pony random mouse badge learn";
+var mnemonic = "blossom announce rate gym antique meadow alpha stairs rival obey category same";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor mechanic use topple property silver warrior stumble donate industry atom lumber";
+var mnemonic = "this bridge correct roof case pioneer during enhance guitar crush flee cargo";

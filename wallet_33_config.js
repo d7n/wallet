@@ -1,1 +1,1 @@
-var mnemonic = "dress require senior apology toe robot client shiver chaos casino marine disease";
+var mnemonic = "virus sleep merge become census fame tackle slide toddler air hamster clap";

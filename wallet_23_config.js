@@ -1,1 +1,1 @@
-var mnemonic = "nuclear trophy vocal gasp boy science moon olive outer diesel local rebel";
+var mnemonic = "grain napkin game sleep stone idea end produce visit toy buddy luxury";

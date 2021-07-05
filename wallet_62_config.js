@@ -1,1 +1,1 @@
-var mnemonic = "supreme field hint borrow squirrel decide regret excuse magnet lift video design";
+var mnemonic = "gun riot rebel excess right enough clip hello own media broom alter";

@@ -1,1 +1,1 @@
-var mnemonic = "crime deny myth armed girl adjust title clinic aware thumb define cloth";
+var mnemonic = "hamster trial border educate eternal symbol derive giraffe peace summer settle pulp";

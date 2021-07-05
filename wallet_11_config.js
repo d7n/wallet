@@ -1,1 +1,1 @@
-var mnemonic = "pass climb spread impose artefact exchange garbage lucky upgrade patrol involve glory";
+var mnemonic = "mouse crumble lady lab gorilla keen toilet angry coach dust quality mule";

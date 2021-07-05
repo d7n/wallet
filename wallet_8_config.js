@@ -1,1 +1,1 @@
-var mnemonic = "stay expire measure monitor used toddler custom aisle repair innocent violin wish";
+var mnemonic = "autumn tongue tobacco girl cabbage hub tissue sketch cruel marriage visual pause";

@@ -1,1 +1,1 @@
-var mnemonic = "submit coast mail lamp derive super butter ordinary depth lesson balcony thought";
+var mnemonic = "metal vicious exact inflict gadget crack speak antique steel ancient across chest";

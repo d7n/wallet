@@ -1,1 +1,1 @@
-var mnemonic = "outer fabric demise tail snap eight ring fetch amount dinner coil river";
+var mnemonic = "rich screen soul twenty sustain section slight cost help fatal seek fuel";

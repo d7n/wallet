@@ -1,1 +1,1 @@
-var mnemonic = "spoon auto rice pride word ecology truly march worry detect loyal twice";
+var mnemonic = "wine viable word phrase injury robot behave ability onion enrich march slot";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit hood question wealth visa mind same maid know rule catalog item";
+var mnemonic = "business clean fashion scare slab range nurse birth zone near permit scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "energy borrow pepper blanket brief breeze save duck auction pizza nature reject";
+var mnemonic = "ready deer goose sad enter dizzy come another hover outdoor love pencil";

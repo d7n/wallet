@@ -1,1 +1,1 @@
-var mnemonic = "april world dirt cotton lecture lumber bring marriage spirit chicken top angry";
+var mnemonic = "equal dilemma top loud gospel normal chalk vessel harbor quote affair submit";

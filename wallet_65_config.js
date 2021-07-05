@@ -1,1 +1,1 @@
-var mnemonic = "release actor alpha lab cherry moral casual fringe twist jacket enroll loud";
+var mnemonic = "curve regret there parrot inflict excuse novel spell caution barrel remember filter";

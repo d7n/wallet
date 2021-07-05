@@ -1,1 +1,1 @@
-var mnemonic = "nose envelope veteran sun night office trim shield plug menu dumb patch";
+var mnemonic = "satoshi common album staff glass loop copy wait rubber sick worth little";

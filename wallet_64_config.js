@@ -1,1 +1,1 @@
-var mnemonic = "deer mushroom sun crush castle across broom original seed crash loop regular";
+var mnemonic = "cushion tail off unfold obvious luxury blossom hedgehog wrestle this fluid cover";

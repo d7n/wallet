@@ -1,1 +1,1 @@
-var mnemonic = "fame regret picnic uphold seven mystery tone palace skull ginger theme fragile";
+var mnemonic = "yard address delay laugh exchange practice crucial energy luggage total tobacco suit";

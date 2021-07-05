@@ -1,1 +1,1 @@
-var mnemonic = "fossil bus admit regular ticket runway train magic crucial follow illness hire";
+var mnemonic = "april pattern mom dirt track book bright unveil coach slogan adjust improve";

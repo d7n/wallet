@@ -1,1 +1,1 @@
-var mnemonic = "write prison ride edit rule enact sheriff rule skin attack glory fat";
+var mnemonic = "final kiwi vendor lady dumb olympic run air ankle illegal hospital pupil";

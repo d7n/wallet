@@ -1,1 +1,1 @@
-var mnemonic = "soul basket pink liar certain sound crawl aspect trick veteran wood hub";
+var mnemonic = "stereo wet arrest climb motor wall saddle circle bracket napkin icon poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "couch mandate enroll then wave area age oyster name deal rescue chase";
+var mnemonic = "drill budget orchard vicious easy skull vacant toward mercy submit plug gloom";

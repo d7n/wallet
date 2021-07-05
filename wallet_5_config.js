@@ -1,1 +1,1 @@
-var mnemonic = "picnic hair awesome among put tube decade identify rifle settle roast dawn";
+var mnemonic = "dumb mechanic ethics quiz nest clean immense broccoli frozen pass riot easy";

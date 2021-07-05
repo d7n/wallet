@@ -1,1 +1,1 @@
-var mnemonic = "label clutch chase rabbit leader setup clog whale one poem simple stage";
+var mnemonic = "increase squeeze sad run odor inspire december wonder copy cram light general";

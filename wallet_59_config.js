@@ -1,1 +1,1 @@
-var mnemonic = "fortune aisle weasel random cake blame expand output monster wolf increase toe";
+var mnemonic = "truly own update control panic miss enforce fuel hobby range service rent";

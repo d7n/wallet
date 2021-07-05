@@ -1,1 +1,1 @@
-var mnemonic = "keep seven cliff kid pulse chat fruit chef want female blur uncle";
+var mnemonic = "gesture begin potato obvious view skate dolphin option buddy thrive use season";

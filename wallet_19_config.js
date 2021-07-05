@@ -1,1 +1,1 @@
-var mnemonic = "team smile convince party crash disease arrow rather early pilot soon debate";
+var mnemonic = "topic demand frost village song tenant sand engine assist action eye slot";

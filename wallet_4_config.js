@@ -1,1 +1,1 @@
-var mnemonic = "still share blade task civil lady ski sun talk another tag combine";
+var mnemonic = "balcony humble sword lab copy quit lend spatial artefact region rack turn";

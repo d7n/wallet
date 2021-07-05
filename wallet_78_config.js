@@ -1,1 +1,1 @@
-var mnemonic = "wheel thunder hurdle embody hurry typical melody mansion fold girl giant scheme";
+var mnemonic = "mountain orange plug cute art cruel bench jump review tornado extra menu";

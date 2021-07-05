@@ -1,1 +1,1 @@
-var mnemonic = "diamond crash between fame master angle utility aerobic kind apart lab subway";
+var mnemonic = "roof hat avoid wood estate cabin tennis hollow oppose then twin dizzy";

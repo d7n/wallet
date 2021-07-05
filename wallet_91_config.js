@@ -1,1 +1,1 @@
-var mnemonic = "learn rent garbage feed ladder universe dinner rich stem obvious lonely elegant";
+var mnemonic = "train best sunny meat code swift file jump primary bicycle hello stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "vote edge hello loud cool country wrist woman broom true project bubble";
+var mnemonic = "spirit ship autumn exact more safe luxury warrior raise mango ticket unfold";

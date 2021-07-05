@@ -1,1 +1,1 @@
-var mnemonic = "find wheat park demand onion avocado ensure blind target obvious cluster kid";
+var mnemonic = "human wing grid knee ignore author author fiction boat install horror offer";

@@ -1,1 +1,1 @@
-var mnemonic = "wink kiss vessel chronic direct scale bulk segment surround mechanic artwork immune";
+var mnemonic = "bridge unable guilt knee army cool polar divide chronic inner cycle elder";

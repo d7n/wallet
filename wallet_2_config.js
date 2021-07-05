@@ -1,1 +1,1 @@
-var mnemonic = "wood liar girl tip ticket life trip debris fee evolve novel engine";
+var mnemonic = "soap cattle cotton slim any concert require meadow shrimp predict assault imitate";

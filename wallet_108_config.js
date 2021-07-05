@@ -1,1 +1,1 @@
-var mnemonic = "key check question old kick tragic often good piece win near battle";
+var mnemonic = "miss distance twenty air rich display tide diary erase hood target swift";

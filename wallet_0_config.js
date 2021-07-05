@@ -1,1 +1,1 @@
-var mnemonic = "edge gallery arm wood drive broccoli meat lottery quit cook head jaguar";
+var mnemonic = "now jazz usual quit verb ramp tuna spike squirrel debate lift notable";

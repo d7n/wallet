@@ -1,1 +1,1 @@
-var mnemonic = "random poet time sport region gas picnic kiss slab almost property soda";
+var mnemonic = "dice sadness boy novel zoo uniform frost alien suit ordinary access duty";

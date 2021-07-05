@@ -1,1 +1,1 @@
-var mnemonic = "bunker erase wrestle bracket rebel permit miss wise invite swamp unhappy clump";
+var mnemonic = "panda bread icon south hungry squirrel palm depth crime debate drum birth";

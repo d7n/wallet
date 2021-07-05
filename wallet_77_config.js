@@ -1,1 +1,1 @@
-var mnemonic = "wheel morning bus elite wheat copy actress laptop sniff issue good hospital";
+var mnemonic = "fly donkey room spot bone cry okay point risk mixture weasel major";

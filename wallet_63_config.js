@@ -1,1 +1,1 @@
-var mnemonic = "now supreme wife book coral manage jazz whip avoid grow style transfer";
+var mnemonic = "awkward human horn extend settle crystal library panda giant screen thrive consider";

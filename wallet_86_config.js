@@ -1,1 +1,1 @@
-var mnemonic = "alone vendor rule auto minor wheat cycle dish puppy bacon acquire neutral";
+var mnemonic = "ranch margin frequent december tornado autumn capable broom charge still remove boring";

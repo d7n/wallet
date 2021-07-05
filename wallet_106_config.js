@@ -1,1 +1,1 @@
-var mnemonic = "pear fame hat arrow forward gallery vocal merge february balcony detail school";
+var mnemonic = "maximum educate immense foam dad orbit plug hollow embrace inform velvet radar";

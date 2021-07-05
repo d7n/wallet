@@ -1,1 +1,1 @@
-var mnemonic = "school toss process retire express syrup holiday industry potato work eight chief";
+var mnemonic = "foil upgrade sight ceiling outer squirrel pipe credit wife romance label ring";

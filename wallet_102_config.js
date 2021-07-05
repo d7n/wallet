@@ -1,1 +1,1 @@
-var mnemonic = "sudden click marine leaf capable hire unhappy know joy trend dial romance";
+var mnemonic = "casual dress refuse leader ship kitten vanish space loyal aspect endorse blade";

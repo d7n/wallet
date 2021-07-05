@@ -1,1 +1,1 @@
-var mnemonic = "dutch forget pull earn sample casino comic melt material isolate neither moment";
+var mnemonic = "typical below only cave tattoo crucial wear insane pair child pepper chaos";

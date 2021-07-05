@@ -1,1 +1,1 @@
-var mnemonic = "possible mesh result priority infant retire pole bargain winter victory pair inmate";
+var mnemonic = "shallow sorry zone screen cook make rose yellow correct vehicle away bulk";

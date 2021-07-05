@@ -1,1 +1,1 @@
-var mnemonic = "news outside area tribe bunker creek law pattern nuclear sphere test frame";
+var mnemonic = "minimum reward pool embark arrow fatigue net aunt island police hungry real";

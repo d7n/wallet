@@ -1,1 +1,1 @@
-var mnemonic = "churn vacuum worth cheese else hen curtain coil melody south friend you";
+var mnemonic = "essence frequent custom drink spider meadow please recipe muffin bottom suggest report";

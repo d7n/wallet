@@ -1,1 +1,1 @@
-var mnemonic = "program radar amount siren crunch dish replace crumble program raccoon recipe smoke";
+var mnemonic = "day blur style winner among present seat example diesel lobster render cement";

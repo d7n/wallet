@@ -1,1 +1,1 @@
-var mnemonic = "cake pottery bone dragon capable ticket valve salmon vague typical expire object";
+var mnemonic = "celery bless domain kingdom zone idea cable ecology ankle chimney million exit";

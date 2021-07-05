@@ -1,1 +1,1 @@
-var mnemonic = "creek mean journey salad mind middle leg wife six assault element lottery";
+var mnemonic = "advance alley consider top way music candy ginger fantasy toddler unknown deputy";

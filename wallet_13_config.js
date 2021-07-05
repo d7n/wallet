@@ -1,1 +1,1 @@
-var mnemonic = "someone iron assist orient live dinner mention hundred dream north elder retire";
+var mnemonic = "regret head volcano acquire sadness coffee excuse path common similar hotel garlic";

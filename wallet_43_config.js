@@ -1,1 +1,1 @@
-var mnemonic = "extend universe region turkey beyond indicate range pizza eager stumble bounce degree";
+var mnemonic = "effort renew gap delay waste shoulder royal nation six onion dose addict";
