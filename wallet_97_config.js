@@ -1,1 +1,1 @@
-var mnemonic = "soap helmet suit favorite area favorite benefit trap ski supreme fiction extend";
+var mnemonic = "funny turtle liberty lesson fade leader jaguar dream day bounce inch sample";

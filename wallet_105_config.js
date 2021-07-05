@@ -1,1 +1,1 @@
-var mnemonic = "census lyrics exotic riot echo normal remove bleak razor stay fire bulb";
+var mnemonic = "explain shove runway nice aim pink uncover enroll clever danger dynamic amount";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb indicate pumpkin engage extra damp outside merit jewel craft gain grain";
+var mnemonic = "strategy warrior universe boring tilt cotton impact answer blind dice curve year";

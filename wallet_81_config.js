@@ -1,1 +1,1 @@
-var mnemonic = "female chalk cushion junior hazard mouse season lady fan inmate sausage kitchen";
+var mnemonic = "purpose among toddler daughter phone property agree tobacco hood resource never ask";

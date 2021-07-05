@@ -1,1 +1,1 @@
-var mnemonic = "ball angle guilt forget wheat sort junior devote eternal they pretty famous";
+var mnemonic = "zebra help palace inject title phone ten render sleep nominee video adjust";

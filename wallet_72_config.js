@@ -1,1 +1,1 @@
-var mnemonic = "dog live glow embrace cycle nuclear suffer glue assume mirror awesome law";
+var mnemonic = "album abandon primary dwarf duck cricket dove gloom major utility cheap vital";

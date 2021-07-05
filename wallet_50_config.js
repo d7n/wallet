@@ -1,1 +1,1 @@
-var mnemonic = "amazing debate divorce bleak scrap meat sniff enough zero patient height public";
+var mnemonic = "sort inflict leaf cricket narrow primary mention present violin wise logic guard";

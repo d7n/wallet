@@ -1,1 +1,1 @@
-var mnemonic = "act door blame sheriff wave dentist escape guide damage admit story diet";
+var mnemonic = "pudding execute access cage invite pulp flip alien key raw talk maid";

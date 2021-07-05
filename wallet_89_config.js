@@ -1,1 +1,1 @@
-var mnemonic = "loop resource grab junk also cause erupt transfer poet road erase inquiry";
+var mnemonic = "super scrub bacon blue slam boat target fan bulk slice gasp deliver";

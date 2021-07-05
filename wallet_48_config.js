@@ -1,1 +1,1 @@
-var mnemonic = "burden alpha divert arrow win slender wrap plastic essay birth club spend";
+var mnemonic = "sphere replace member genuine tourist receive baby brand uphold another broken spy";

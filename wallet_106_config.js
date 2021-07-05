@@ -1,1 +1,1 @@
-var mnemonic = "more couple robot acoustic crouch resist minute diet lazy hold flag weasel";
+var mnemonic = "country check middle hold rural shock shrug wear piece stable chuckle screen";

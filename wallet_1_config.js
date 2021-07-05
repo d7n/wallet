@@ -1,1 +1,1 @@
-var mnemonic = "nature gas between toss dwarf dynamic regret east draft captain certain because";
+var mnemonic = "train shaft easy tonight umbrella helmet siege hurdle vault census become appear";

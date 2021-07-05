@@ -1,1 +1,1 @@
-var mnemonic = "vivid bus elevator answer catch debate voyage cable habit flat square table";
+var mnemonic = "nurse jelly expand frame thought history worry pull room digital dose symptom";

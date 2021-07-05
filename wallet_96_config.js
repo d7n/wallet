@@ -1,1 +1,1 @@
-var mnemonic = "silk evil check light camera pulse nose diagram elevator copy deliver upgrade";
+var mnemonic = "solid promote faith gloom deputy range goose indicate gold puppy tree cook";

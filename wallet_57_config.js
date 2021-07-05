@@ -1,1 +1,1 @@
-var mnemonic = "trumpet trend letter naive legend menu boil shock sleep exclude swamp iron";
+var mnemonic = "swing bonus pair light wisdom van account wrong tunnel dilemma cabbage want";

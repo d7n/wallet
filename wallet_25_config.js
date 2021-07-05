@@ -1,1 +1,1 @@
-var mnemonic = "eagle indoor valley beauty couple hunt planet use laundry worry put life";
+var mnemonic = "social palace actor sponsor sister tide loyal fortune addict oven oven any";

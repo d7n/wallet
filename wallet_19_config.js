@@ -1,1 +1,1 @@
-var mnemonic = "always keep crowd solar alpha section upper firm small era elevator local";
+var mnemonic = "swift rude stumble club parrot reason spring into toilet grass crucial useful";

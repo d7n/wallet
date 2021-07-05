@@ -1,1 +1,1 @@
-var mnemonic = "fever corn liar muffin stage flip cram topple artwork wolf mixture require";
+var mnemonic = "ugly cup person planet symptom because together fruit ice tide awkward mesh";

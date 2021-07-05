@@ -1,1 +1,1 @@
-var mnemonic = "annual caught initial plug benefit bracket notable eye this despair pulse keep";
+var mnemonic = "ahead into memory clay lab hub apology degree click seek busy crime";

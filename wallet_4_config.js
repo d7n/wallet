@@ -1,1 +1,1 @@
-var mnemonic = "sleep remain exchange staff answer congress ticket pigeon hurry pair size employ";
+var mnemonic = "hazard raccoon regret general meadow brush you lobster dream can wheel struggle";

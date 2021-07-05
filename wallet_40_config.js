@@ -1,1 +1,1 @@
-var mnemonic = "sustain hidden notable wheat viable voice movie rely raven word rather bind";
+var mnemonic = "bridge census focus scissors wealth wolf vast install burger review world economy";

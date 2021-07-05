@@ -1,1 +1,1 @@
-var mnemonic = "bundle humble travel craft great offer engage puzzle color safe crumble space";
+var mnemonic = "very chunk puzzle protect taxi swarm mobile order zoo miracle film alpha";

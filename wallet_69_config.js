@@ -1,1 +1,1 @@
-var mnemonic = "brass tuition inspire settle accident easily coin follow enjoy magic super flavor";
+var mnemonic = "dutch canoe denial head inhale fatigue alter boil intact extend hip bridge";

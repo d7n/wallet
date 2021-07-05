@@ -1,1 +1,1 @@
-var mnemonic = "shine oxygen actress stick roof amateur caught enjoy leave fitness snap risk";
+var mnemonic = "vote federal indoor taste push brave trust cupboard robust aerobic estate rose";

@@ -1,1 +1,1 @@
-var mnemonic = "field swear access shy sting two firm case giant pulp legend dignity";
+var mnemonic = "shy token peace motor zoo border enrich retreat warfare nut roof glove";

@@ -1,1 +1,1 @@
-var mnemonic = "style tooth pause tattoo blind hobby stadium subway message fun ticket resemble";
+var mnemonic = "exotic strike network matrix popular zoo sponsor corn repair drill super crazy";

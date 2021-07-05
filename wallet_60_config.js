@@ -1,1 +1,1 @@
-var mnemonic = "equip end trade follow balcony select joy cargo divorce trust guide boat";
+var mnemonic = "raccoon acid obvious blouse people burst capable hurt region vehicle enlist voice";

@@ -1,1 +1,1 @@
-var mnemonic = "trash just antique audit grain forward fever dog valve leopard employ march";
+var mnemonic = "early grow salmon embody cricket judge govern giant sword saddle verb harvest";

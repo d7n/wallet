@@ -1,1 +1,1 @@
-var mnemonic = "govern torch summer spend lazy marble youth awkward come deputy script essence";
+var mnemonic = "ranch valve kick cute bargain raven train spatial horror orchard elbow cute";

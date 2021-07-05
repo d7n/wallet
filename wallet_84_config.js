@@ -1,1 +1,1 @@
-var mnemonic = "ridge endorse few topic famous good uncle era cube wash exile rude";
+var mnemonic = "zebra uniform evoke woman excess tell dream goat leave access embark hospital";

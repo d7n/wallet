@@ -1,1 +1,1 @@
-var mnemonic = "double trade oval rent document code funny obscure coast bird bracket slide";
+var mnemonic = "lumber pattern boss envelope scatter seek gossip master lucky heavy loyal boss";

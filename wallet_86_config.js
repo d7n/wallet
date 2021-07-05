@@ -1,1 +1,1 @@
-var mnemonic = "oppose domain ten march ticket file disorder object reason record grit inflict";
+var mnemonic = "blue mobile paddle cost choice sphere physical thank bind across traffic little";

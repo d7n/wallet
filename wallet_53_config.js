@@ -1,1 +1,1 @@
-var mnemonic = "rival chimney session human legend winner force gown cupboard nest cheese globe";
+var mnemonic = "doctor balcony extra below rather casino census gas employ easy focus near";

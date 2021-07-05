@@ -1,1 +1,1 @@
-var mnemonic = "nasty oil that fold deal beyond spider floor luxury song exercise example";
+var mnemonic = "just lounge dry wife daring helmet crime age real museum dry drive";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi test rural senior night police false mixture pottery legal helmet unfold";
+var mnemonic = "sound shrug genius layer fresh bike dinosaur runway impulse lawn snow half";

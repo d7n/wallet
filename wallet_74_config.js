@@ -1,1 +1,1 @@
-var mnemonic = "state cereal latin brush ready fury great ball thank timber report example";
+var mnemonic = "beyond arm legal dust nephew window lens enact chicken inflict spend hint";

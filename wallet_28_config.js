@@ -1,1 +1,1 @@
-var mnemonic = "soccer tape cheap truth slot power possible pepper render fly minute energy";
+var mnemonic = "electric cause behind dice future victory tragic music wealth excess clutch omit";

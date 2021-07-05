@@ -1,1 +1,1 @@
-var mnemonic = "grant around green focus bamboo aspect flag twenty rely chair hurt doctor";
+var mnemonic = "universe frame minimum sauce bounce brave mad cupboard depart devote damp gap";

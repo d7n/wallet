@@ -1,1 +1,1 @@
-var mnemonic = "fancy thing tunnel gauge public grow beauty fury laundry harsh sea burden";
+var mnemonic = "expose tell mistake since exercise effort pear street lake craft canal foot";

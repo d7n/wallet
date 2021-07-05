@@ -1,1 +1,1 @@
-var mnemonic = "trend air project blood raw thrive connect enhance settle proud proud supply";
+var mnemonic = "surface science venue receive make inject file couch grocery second travel debate";

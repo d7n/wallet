@@ -1,1 +1,1 @@
-var mnemonic = "brave ring choice gospel reason caught manual idea ranch hope lamp message";
+var mnemonic = "alcohol glow monkey health stay plate discover valid enroll shy slot aware";

@@ -1,1 +1,1 @@
-var mnemonic = "keen neglect frozen refuse believe shop cinnamon believe hunt client abuse trend";
+var mnemonic = "gauge legal exit sign tip hawk mail cart prepare silent helmet caught";

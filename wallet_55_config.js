@@ -1,1 +1,1 @@
-var mnemonic = "chapter crane eyebrow drip worth grant bicycle lecture scene boil float frog";
+var mnemonic = "fit skull spare wet metal oven rely issue nominee slam rice soon";

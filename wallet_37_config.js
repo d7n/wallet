@@ -1,1 +1,1 @@
-var mnemonic = "card thunder clap peace humble clever update fever jeans truth hollow excite";
+var mnemonic = "spatial diagram one arctic direct all crowd review primary cram true donate";

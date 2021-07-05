@@ -1,1 +1,1 @@
-var mnemonic = "life sick cost behind mystery kit tube force destroy trend supply obtain";
+var mnemonic = "few pony inject vast couple vicious absent bullet jump ice number prevent";

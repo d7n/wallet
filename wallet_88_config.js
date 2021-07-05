@@ -1,1 +1,1 @@
-var mnemonic = "summer network access brass coil will grow hard embrace mail fat original";
+var mnemonic = "where lounge fame truth labor camp girl stomach clean glad travel path";

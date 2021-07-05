@@ -1,1 +1,1 @@
-var mnemonic = "doll visit live net absurd flame endorse person shrimp toss march west";
+var mnemonic = "oblige betray bird purity coffee breeze invite pigeon present subway essence dog";

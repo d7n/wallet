@@ -1,1 +1,1 @@
-var mnemonic = "clarify flight scan fence plate mule only rely obscure found horse eyebrow";
+var mnemonic = "pair vivid train roof nothing drum trigger jelly acoustic spawn wood pepper";

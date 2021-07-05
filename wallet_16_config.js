@@ -1,1 +1,1 @@
-var mnemonic = "scout mention civil puppy evidence quick stumble worry blouse witness rabbit increase";
+var mnemonic = "flush race lion accuse nurse combine unhappy original produce bubble elbow banner";

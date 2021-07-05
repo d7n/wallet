@@ -1,1 +1,1 @@
-var mnemonic = "sorry device afford awkward duty fine offer addict comic mass mix elder";
+var mnemonic = "light fault amused turtle staff edge face wreck october library vivid purchase";

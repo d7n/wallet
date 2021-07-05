@@ -1,1 +1,1 @@
-var mnemonic = "drift choose swarm custom party width wood scissors festival often coach glue";
+var mnemonic = "couple wage puppy cry junk result tattoo winter waste cube critic anger";

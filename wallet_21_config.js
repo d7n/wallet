@@ -1,1 +1,1 @@
-var mnemonic = "wealth live captain swear ring waste man security genuine deposit this sunset";
+var mnemonic = "speak material learn warrior behave venue violin trim palace fury bike own";

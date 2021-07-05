@@ -1,1 +1,1 @@
-var mnemonic = "extend design rival mention shock target inflict edge juice quality idle visa";
+var mnemonic = "salad bag resemble obtain during alley stereo crowd robust summer alpha trouble";

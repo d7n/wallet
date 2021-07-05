@@ -1,1 +1,1 @@
-var mnemonic = "luggage mosquito soap isolate deal asthma fence bundle cheap boring cycle symptom";
+var mnemonic = "vibrant access dream suit letter laundry harsh certain only west window ten";

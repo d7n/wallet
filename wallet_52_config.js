@@ -1,1 +1,1 @@
-var mnemonic = "admit escape timber normal labor gallery sure chaos present jacket physical unique";
+var mnemonic = "expand easy biology suit rebel blush usual pluck sword enlist pair room";

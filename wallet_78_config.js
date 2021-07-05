@@ -1,1 +1,1 @@
-var mnemonic = "runway search novel wet expose banner saddle bomb split winter region jazz";
+var mnemonic = "video sea time coral weather sad this oak latin action forest sugar";

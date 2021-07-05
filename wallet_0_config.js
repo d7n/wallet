@@ -1,1 +1,1 @@
-var mnemonic = "fragile duty decorate net dwarf regular budget tray embody anchor limit correct";
+var mnemonic = "dish butter leisure penalty swap damp hotel parent rack blind raw wise";

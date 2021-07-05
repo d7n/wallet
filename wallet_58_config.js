@@ -1,1 +1,1 @@
-var mnemonic = "enable ski seed forest sketch find trophy mystery direct world silver amused";
+var mnemonic = "yard option imitate hidden lesson margin glory mercy tag drama bike outer";

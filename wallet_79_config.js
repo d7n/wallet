@@ -1,1 +1,1 @@
-var mnemonic = "skill spray sad naive state supply coconut shift truly depart knife suggest";
+var mnemonic = "enroll tip wrestle among orient draw tooth fresh kangaroo blanket mad summer";

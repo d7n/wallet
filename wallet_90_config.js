@@ -1,1 +1,1 @@
-var mnemonic = "electric fade stove grunt morning hub master summer defy stand exchange off";
+var mnemonic = "grunt vast off aunt drill effort river arena wedding become disorder sponsor";

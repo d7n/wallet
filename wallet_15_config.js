@@ -1,1 +1,1 @@
-var mnemonic = "enemy clump ghost ostrich regular lottery current sound cost buzz youth fetch";
+var mnemonic = "rain skirt what glove ripple segment camera warm ancient bread loyal buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate rule prepare attitude develop situate item voyage toast satoshi release jar";
+var mnemonic = "science slim uniform fall stick tail hospital soup future source brown differ";

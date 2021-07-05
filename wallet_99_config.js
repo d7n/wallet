@@ -1,1 +1,1 @@
-var mnemonic = "kidney ribbon powder shed ritual wish steak build together isolate cheese dilemma";
+var mnemonic = "grow enough tackle hen wrong find cup fragile urban there beef return";

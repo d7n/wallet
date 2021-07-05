@@ -1,1 +1,1 @@
-var mnemonic = "where vacant sniff cousin engage small stable guitar scare always absurd ribbon";
+var mnemonic = "seek width filter earn plunge unfold keen bronze stuff harsh crowd glory";

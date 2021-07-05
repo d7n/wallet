@@ -1,1 +1,1 @@
-var mnemonic = "lunch vocal ozone balcony spoil defy ask velvet asset fancy spray split";
+var mnemonic = "follow minimum only rally term swarm sugar cricket slab sorry initial arrange";

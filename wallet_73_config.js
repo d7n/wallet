@@ -1,1 +1,1 @@
-var mnemonic = "illness artefact target desert impose advance absurd ugly they rule pudding cost";
+var mnemonic = "bracket purchase two message gift culture fiber stock anxiety answer upgrade soda";

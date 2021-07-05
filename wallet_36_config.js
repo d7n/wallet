@@ -1,1 +1,1 @@
-var mnemonic = "fit dial flock ostrich meadow teach between erase icon dignity reunion penalty";
+var mnemonic = "fatigue never amused finger increase giraffe require absurd among hockey style naive";

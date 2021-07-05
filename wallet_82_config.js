@@ -1,1 +1,1 @@
-var mnemonic = "erosion door glow tennis expect casual quiz avoid file possible buddy midnight";
+var mnemonic = "party shield primary still dad hat blanket awful nurse draft camera trip";

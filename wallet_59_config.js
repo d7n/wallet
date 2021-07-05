@@ -1,1 +1,1 @@
-var mnemonic = "basic blade domain exact story trophy color decrease audit deal canoe submit";
+var mnemonic = "number youth mother ship anchor almost pool outer depart unveil disagree student";

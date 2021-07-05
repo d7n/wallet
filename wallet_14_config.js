@@ -1,1 +1,1 @@
-var mnemonic = "broken index almost trip scan surface party regret laundry replace city install";
+var mnemonic = "nut illness nuclear jeans keen outer panda fatigue quiz monster volcano drastic";

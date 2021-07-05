@@ -1,1 +1,1 @@
-var mnemonic = "huge inch asset fun runway torch wreck woman beef purchase inquiry promote";
+var mnemonic = "still enrich vast average uncle rabbit wife chest elite retire gossip hope";

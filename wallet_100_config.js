@@ -1,1 +1,1 @@
-var mnemonic = "neutral sentence inhale cancel average future omit identify south float spirit climb";
+var mnemonic = "symptom joke sister vapor boy pudding route vacuum strike fade skate blade";

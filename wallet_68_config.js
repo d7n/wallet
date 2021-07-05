@@ -1,1 +1,1 @@
-var mnemonic = "excite shove spoil blind joy body piece spike olympic crumble cabbage science";
+var mnemonic = "retreat attitude final radio melody coyote smoke wish month crush affair improve";

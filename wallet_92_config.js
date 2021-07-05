@@ -1,1 +1,1 @@
-var mnemonic = "blossom lyrics ketchup mechanic laundry exit skirt drift figure fashion ignore column";
+var mnemonic = "sniff exile earth burst system spin legal supply trust impulse image never";

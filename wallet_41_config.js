@@ -1,1 +1,1 @@
-var mnemonic = "entire wing series cattle fiber verify powder detect fork denial kangaroo rural";
+var mnemonic = "repair angry burger museum delay hire crystal banner topple betray hole harbor";

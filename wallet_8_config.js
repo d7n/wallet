@@ -1,1 +1,1 @@
-var mnemonic = "maze hover dose average credit bright grief walnut find lazy matter teach";
+var mnemonic = "walnut walk payment sad add lucky climb fine visa wage dizzy wreck";

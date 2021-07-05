@@ -1,1 +1,1 @@
-var mnemonic = "require move identify coil short exhibit toe ship shoot fringe disagree initial";
+var mnemonic = "recycle effort faculty chunk word pattern clinic peanut model camera endless process";

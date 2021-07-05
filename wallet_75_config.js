@@ -1,1 +1,1 @@
-var mnemonic = "trial option fantasy spike flock wink apart skull regret end swamp affair";
+var mnemonic = "obscure soda bar pottery goat swing review noble involve barrel opinion scan";

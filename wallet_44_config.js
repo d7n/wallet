@@ -1,1 +1,1 @@
-var mnemonic = "combine space toast twin toy tumble orbit seminar monster clown skill salmon";
+var mnemonic = "air undo skill weasel ocean sun unveil immune foam grocery goose whale";

@@ -1,1 +1,1 @@
-var mnemonic = "relief into proud ball jeans brain sphere ticket second side antenna shell";
+var mnemonic = "guilt milk cash item twist response spring sketch slush summer any blast";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss letter poem major melody retreat payment raven blast deny spy grape";
+var mnemonic = "planet bullet option wage desk gospel various interest style relax prosper never";

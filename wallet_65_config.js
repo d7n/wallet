@@ -1,1 +1,1 @@
-var mnemonic = "shoulder success impulse push ice earn prefer crane panther anger burden one";
+var mnemonic = "cat time market shift mom gadget topic town electric ability firm nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "dune travel future outside toss common often feature resource foam casino pool";
+var mnemonic = "sketch clever razor tortoise yard shine weasel shiver someone farm hole summer";

@@ -1,1 +1,1 @@
-var mnemonic = "equal right sock alter business clog draw security talk tomorrow area safe";
+var mnemonic = "melt sunny exact chef bean section define solve mountain glory increase federal";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus gauge stand concert firm liquid heart outside analyst sunny square open";
+var mnemonic = "escape punch correct increase glow acid retire eye time miracle weasel have";

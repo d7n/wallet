@@ -1,1 +1,1 @@
-var mnemonic = "sniff tone summer dad say tell begin opinion gloom gaze social stumble";
+var mnemonic = "waste such coyote noodle cheap cake witness wink clown type legend thank";

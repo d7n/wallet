@@ -1,1 +1,1 @@
-var mnemonic = "large ask correct suffer crumble inject front hamster foot sunny dinner pill";
+var mnemonic = "surprise stick aerobic happy remove ready puzzle crucial hospital inmate cycle equip";

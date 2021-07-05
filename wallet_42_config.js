@@ -1,1 +1,1 @@
-var mnemonic = "pave rhythm note action train fortune divorce language school ostrich choose sniff";
+var mnemonic = "also stadium neutral banner maximum magic elegant opinion bargain patient tube aerobic";

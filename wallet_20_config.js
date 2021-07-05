@@ -1,1 +1,1 @@
-var mnemonic = "gaze lecture husband winner enemy escape glimpse world unusual mass desk valve";
+var mnemonic = "silent approve cage cricket almost tornado talk neither prevent such fresh aim";

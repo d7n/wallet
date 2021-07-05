@@ -1,1 +1,1 @@
-var mnemonic = "catalog portion city twin whip universe donkey solve dizzy confirm slice brush";
+var mnemonic = "regular cave chest error bind speed organ push wealth nut mail caught";

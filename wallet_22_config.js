@@ -1,1 +1,1 @@
-var mnemonic = "retire wide wire nest animal clean marine demise demise siege scan recipe";
+var mnemonic = "shock shuffle until photo donor ship among action era hub west taxi";

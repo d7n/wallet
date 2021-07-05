@@ -1,1 +1,1 @@
-var mnemonic = "bomb seed left balcony head window reward more ordinary cupboard aspect lab";
+var mnemonic = "lunar fruit filter true phone dog hedgehog height fine captain young govern";

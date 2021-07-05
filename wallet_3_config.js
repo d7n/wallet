@@ -1,1 +1,1 @@
-var mnemonic = "manage top afraid reveal assume march direct arrange typical cook private effort";
+var mnemonic = "social topic achieve critic city tortoise melt main head phrase glow trade";

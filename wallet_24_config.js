@@ -1,1 +1,1 @@
-var mnemonic = "disagree stove diary satoshi shrimp whisper harbor powder age become above agree";
+var mnemonic = "ethics dish brisk debris mutual morning stuff top veteran shallow police security";

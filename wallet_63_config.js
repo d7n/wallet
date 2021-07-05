@@ -1,1 +1,1 @@
-var mnemonic = "sunny mouse climb script recipe build maple develop little private alert when";
+var mnemonic = "time nephew process humble market type floor rural various spice amused rule";

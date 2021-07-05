@@ -1,1 +1,1 @@
-var mnemonic = "denial sibling gas erupt system practice repeat expect possible deliver resemble over";
+var mnemonic = "miracle range wash problem fabric scrap awake athlete junk note magnet angry";
