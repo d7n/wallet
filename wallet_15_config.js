@@ -1,1 +1,1 @@
-var mnemonic = "engage enforce video addict winner magnet frost risk wheat burger key click";
+var mnemonic = "print wolf clean champion brown novel divorce chef used fame hope iron";

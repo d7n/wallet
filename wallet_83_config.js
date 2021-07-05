@@ -1,1 +1,1 @@
-var mnemonic = "elegant canyon clump quality fee badge advice awful air until title snap";
+var mnemonic = "rifle smooth fatigue wreck balance save potato opera insane junk urban beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap lion where wagon certain wait assume income recipe script still top";
+var mnemonic = "wise bus man guitar loyal impact brother mechanic what belt venue true";

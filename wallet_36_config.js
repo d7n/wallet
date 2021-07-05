@@ -1,1 +1,1 @@
-var mnemonic = "tourist road coyote trouble gun fee priority coconut ginger digital solar tell";
+var mnemonic = "engage disorder wave fire glide oxygen harbor post tail pitch lion flight";

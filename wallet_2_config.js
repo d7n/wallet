@@ -1,1 +1,1 @@
-var mnemonic = "renew behave success ice concert cheese art kite boil wisdom grab ostrich";
+var mnemonic = "taste connect pizza girl genius manual charge spatial gauge canvas piano adapt";

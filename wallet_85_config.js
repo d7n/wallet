@@ -1,1 +1,1 @@
-var mnemonic = "web submit sleep assume mother embark arch tribe bunker occur potato spy";
+var mnemonic = "winner enlist dizzy melt crouch opera orchard pet term return business dynamic";

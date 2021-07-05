@@ -1,1 +1,1 @@
-var mnemonic = "verb boy entire assist grief toss riot void anchor theory ancient little";
+var mnemonic = "tired bullet vast fitness east hole multiply upper dizzy vacant alpha reward";

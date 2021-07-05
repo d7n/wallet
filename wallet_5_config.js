@@ -1,1 +1,1 @@
-var mnemonic = "similar donate control net push answer grief roof task poet evidence blame";
+var mnemonic = "cook own shoot happy talent long frown very neutral rocket calm stairs";

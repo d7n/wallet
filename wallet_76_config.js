@@ -1,1 +1,1 @@
-var mnemonic = "scout vehicle candy silver slice power menu recall timber choose humor useless";
+var mnemonic = "play pave labor fan destroy rate copper rifle ahead wheel auto screen";

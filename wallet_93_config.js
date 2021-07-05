@@ -1,1 +1,1 @@
-var mnemonic = "wife hawk legal width light orchard genuine pull pig chronic maple drive";
+var mnemonic = "click stamp curtain present steel then sadness under describe distance brick purchase";

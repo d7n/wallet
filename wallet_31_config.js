@@ -1,1 +1,1 @@
-var mnemonic = "earn dilemma omit edge trigger fat intact crowd session aunt notable hat";
+var mnemonic = "remind fatigue royal tray bridge abstract sun expand charge slender noodle mirror";

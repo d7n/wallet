@@ -1,1 +1,1 @@
-var mnemonic = "wonder vocal emerge opinion toss damp cycle brush clerk original current diet";
+var mnemonic = "display wrestle glory clog guilt balance glare below throw razor plunge duck";

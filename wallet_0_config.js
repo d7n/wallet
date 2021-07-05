@@ -1,1 +1,1 @@
-var mnemonic = "engage adult lamp program quit manage home visa only tuna curve gasp";
+var mnemonic = "old worth excite call valve blue rigid negative smoke borrow hobby wide";

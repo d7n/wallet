@@ -1,1 +1,1 @@
-var mnemonic = "artist bargain near know acid sample grape elder place average plastic basket";
+var mnemonic = "cave tobacco glimpse magnet embark over claw robot clarify attitude neglect team";

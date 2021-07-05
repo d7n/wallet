@@ -1,1 +1,1 @@
-var mnemonic = "concert camera giant issue ramp occur review relax menu puppy wrestle lyrics";
+var mnemonic = "sunny accuse upon veteran wait suspect ocean derive deny police seek twin";

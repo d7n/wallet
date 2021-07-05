@@ -1,1 +1,1 @@
-var mnemonic = "foot young repair session kangaroo cry success island ahead talent nest bird";
+var mnemonic = "brisk during myself frog wheel spike fragile caught pass hammer warm injury";

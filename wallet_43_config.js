@@ -1,1 +1,1 @@
-var mnemonic = "steak absurd void creek broken permit spy split canal cabin high please";
+var mnemonic = "bird remove gaze sniff resist promote menu keep math income patrol jar";

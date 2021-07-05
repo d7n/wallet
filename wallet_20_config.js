@@ -1,1 +1,1 @@
-var mnemonic = "excess crater dragon square celery claim unhappy pioneer danger banner success satisfy";
+var mnemonic = "entry vast hospital pet machine shoulder critic despair hen dust exhaust spend";

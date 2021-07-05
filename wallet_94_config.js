@@ -1,1 +1,1 @@
-var mnemonic = "hazard youth average place wisdom monitor absurd finish gentle indoor cattle earth";
+var mnemonic = "gather merit month broom public pioneer poem hour walnut dentist movie cable";

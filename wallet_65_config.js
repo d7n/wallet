@@ -1,1 +1,1 @@
-var mnemonic = "dress unhappy bean ball brick situate parent whale clog remain sphere warrior";
+var mnemonic = "head produce vague attack buffalo arena shock step easily review inch dizzy";

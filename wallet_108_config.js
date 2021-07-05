@@ -1,1 +1,1 @@
-var mnemonic = "wave amount arrive broccoli fuel grape mountain title toward click clap system";
+var mnemonic = "eight start wheel grow shell plunge call local art gate pig fitness";

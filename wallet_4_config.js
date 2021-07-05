@@ -1,1 +1,1 @@
-var mnemonic = "hood humble stock grace company mom surround wealth mule report turkey damage";
+var mnemonic = "alpha include valley husband crack total desert million fun famous artefact cabbage";

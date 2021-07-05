@@ -1,1 +1,1 @@
-var mnemonic = "code adult glass fatigue chimney brief office problem rare loyal tail wink";
+var mnemonic = "vessel december eagle fire wool turkey cement dry material life loop morning";

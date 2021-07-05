@@ -1,1 +1,1 @@
-var mnemonic = "access sniff van nature sausage carbon observe aim pig media appear baby";
+var mnemonic = "auction reopen crack nasty quantum raw bulb toddler actual acoustic mail split";

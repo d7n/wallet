@@ -1,1 +1,1 @@
-var mnemonic = "flame cart tail useless text rabbit sausage weapon bean mean tuition walnut";
+var mnemonic = "uphold swim six belt fold labor brain cloud frozen carry sketch zebra";

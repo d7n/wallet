@@ -1,1 +1,1 @@
-var mnemonic = "lend wave gold try image visit large fresh negative novel shoot music";
+var mnemonic = "gloom margin reunion illness galaxy picnic portion gossip scrub attitude clean volcano";

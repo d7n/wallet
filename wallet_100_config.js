@@ -1,1 +1,1 @@
-var mnemonic = "limit crystal cactus curve vacuum plastic used enter lawsuit join mother vapor";
+var mnemonic = "liar lunch table oyster noodle assist butter harsh athlete moral search decline";

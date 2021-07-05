@@ -1,1 +1,1 @@
-var mnemonic = "shoulder blur guilt dumb erase tone ready magnet company lesson north nose";
+var mnemonic = "scheme desk erosion source will light essence raccoon bottom visa ignore join";

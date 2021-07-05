@@ -1,1 +1,1 @@
-var mnemonic = "sick hurdle novel usage glad blast pyramid seek mushroom mountain together humor";
+var mnemonic = "river horn stand salon drum destroy sauce payment divide fee swamp hire";

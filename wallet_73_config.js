@@ -1,1 +1,1 @@
-var mnemonic = "tomato actress fatal drink veteran already pilot melt squirrel produce illegal gap";
+var mnemonic = "useful video remove dance squeeze private surprise glide wheat collect sunset lobster";

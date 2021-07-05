@@ -1,1 +1,1 @@
-var mnemonic = "leisure region short trim gasp senior shed nothing devote cinnamon decorate vivid";
+var mnemonic = "pledge prison amazing body charge version mistake steak witness knee harbor frown";

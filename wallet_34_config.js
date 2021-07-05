@@ -1,1 +1,1 @@
-var mnemonic = "globe cruise corn utility street hundred topple image spirit palace labor connect";
+var mnemonic = "include salute shrug someone spray alien assist movie amateur expect turkey pet";

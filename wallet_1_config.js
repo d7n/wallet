@@ -1,1 +1,1 @@
-var mnemonic = "dose board scorpion silent eagle cloth opinion under select matrix lab solution";
+var mnemonic = "speak trash reunion kidney broccoli logic vehicle airport chef great season inject";

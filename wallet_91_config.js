@@ -1,1 +1,1 @@
-var mnemonic = "chair amazing reopen dose program bamboo thought palm taxi trade image course";
+var mnemonic = "gesture what bacon moon busy shoot switch huge observe acid fame menu";

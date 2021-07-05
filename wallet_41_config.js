@@ -1,1 +1,1 @@
-var mnemonic = "program slight trip purpose design ensure real climb grass lift erode gossip";
+var mnemonic = "blush pact desert day insect select twist room cloth rain bread sting";

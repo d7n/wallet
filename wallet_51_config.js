@@ -1,1 +1,1 @@
-var mnemonic = "shiver gown mirror term catch front maze flight divide clinic auction silent";
+var mnemonic = "entry fringe pond artwork labor state glimpse envelope summer scrub hole lottery";

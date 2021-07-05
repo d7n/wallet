@@ -1,1 +1,1 @@
-var mnemonic = "border canyon viable unusual witness fetch expose space fever stem blame humor";
+var mnemonic = "object answer student chair tribe sock subject split gift fade glare start";

@@ -1,1 +1,1 @@
-var mnemonic = "already hen find arctic pencil humble nest unusual truth warrior feed noble";
+var mnemonic = "marble carpet delay judge column phrase coach nephew size swear candy dog";

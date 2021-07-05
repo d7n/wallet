@@ -1,1 +1,1 @@
-var mnemonic = "master feed floor cash smooth material damage peace aisle feed option actress";
+var mnemonic = "trim maid sorry physical guitar pet chimney reveal era space finger clump";

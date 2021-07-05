@@ -1,1 +1,1 @@
-var mnemonic = "judge mind disagree grab lyrics act average snack feel include erode drive";
+var mnemonic = "art coconut lyrics regret zebra awake stem mirror cage blossom kitchen market";

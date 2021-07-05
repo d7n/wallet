@@ -1,1 +1,1 @@
-var mnemonic = "stove giraffe truck universe record nothing purse tiny poem awkward wife lion";
+var mnemonic = "basic faint false parade silver ceiling cushion fitness steel target stem sign";

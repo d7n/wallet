@@ -1,1 +1,1 @@
-var mnemonic = "decrease come require guide abandon long print walk trial tornado force offer";
+var mnemonic = "arrange congress suit keep century few payment burger post couch employ guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "seven render daughter creek kind rather saddle jealous unfold foot saddle cereal";
+var mnemonic = "ski interest song regret drill universe crash left cash cave cabin man";

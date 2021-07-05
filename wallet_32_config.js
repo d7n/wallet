@@ -1,1 +1,1 @@
-var mnemonic = "artefact primary magic roof grid salmon cigar bicycle add purse wage foil";
+var mnemonic = "match note execute age dust gospel wing change sunny toss current doctor";

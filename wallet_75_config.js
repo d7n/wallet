@@ -1,1 +1,1 @@
-var mnemonic = "arch ivory upset mixture people define essence human scrub horror seat tent";
+var mnemonic = "sponsor soldier motion liar agent match february fancy dawn market stomach setup";

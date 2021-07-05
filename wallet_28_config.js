@@ -1,1 +1,1 @@
-var mnemonic = "recycle defense walnut gentle speed refuse black evidence egg dust ivory adapt";
+var mnemonic = "divert cruise cricket diary worry brown fun mom purchase volume aspect connect";

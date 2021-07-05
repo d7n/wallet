@@ -1,1 +1,1 @@
-var mnemonic = "behind plastic envelope rack fiscal bargain height settle save sorry such love";
+var mnemonic = "basket grain machine monkey badge empty spider actress myself verb slush street";

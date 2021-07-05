@@ -1,1 +1,1 @@
-var mnemonic = "stick there dish language wild grab include client mansion goat coral acquire";
+var mnemonic = "crime taxi retreat pottery bench black until great emotion loan total recipe";

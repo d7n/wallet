@@ -1,1 +1,1 @@
-var mnemonic = "fold radar help toilet pear siege coast buyer toast exotic naive scissors";
+var mnemonic = "game rule basket unique exhaust setup stadium dust infant door later sauce";

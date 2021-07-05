@@ -1,1 +1,1 @@
-var mnemonic = "foster fish device crash solve cost category citizen noodle fault list marble";
+var mnemonic = "antique awful fun gas envelope toy horse control afford woman insect atom";

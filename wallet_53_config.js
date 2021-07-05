@@ -1,1 +1,1 @@
-var mnemonic = "text asset wreck income nest response convince question off client farm bachelor";
+var mnemonic = "live slide skill hazard sad almost color behave come rail mirror teach";

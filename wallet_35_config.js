@@ -1,1 +1,1 @@
-var mnemonic = "connect blue face unit raw fog gym main coil double crawl prevent";
+var mnemonic = "become poet protect swift spawn stock lunar seed try churn pyramid brown";

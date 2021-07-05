@@ -1,1 +1,1 @@
-var mnemonic = "animal abstract meat main vague unusual result pledge alcohol brown idle armor";
+var mnemonic = "welcome fiscal grocery gravity razor happy expose oxygen pistol honey occur cinnamon";

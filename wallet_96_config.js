@@ -1,1 +1,1 @@
-var mnemonic = "remember orphan hybrid gown pretty canvas flash dumb ranch merge auction doctor";
+var mnemonic = "useless impulse park festival invest future grass tumble diagram yellow random team";

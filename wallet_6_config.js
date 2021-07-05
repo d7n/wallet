@@ -1,1 +1,1 @@
-var mnemonic = "direct abstract slow snow maximum diamond genuine box hospital pride funny remain";
+var mnemonic = "wool february fly elevator volume baby illness planet body chief neither reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber carbon neither hero acoustic biology problem achieve entry rent barely rigid";
+var mnemonic = "motor twice primary canvas tilt jeans stomach figure rice egg crouch echo";

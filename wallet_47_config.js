@@ -1,1 +1,1 @@
-var mnemonic = "online cross coast success nasty force doll pledge car lounge gate grit";
+var mnemonic = "section ocean embody vehicle copper enter sight crumble hundred maximum pepper favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity cotton avoid buffalo rate slender cave input waste smart harvest glide";
+var mnemonic = "dream pink arrange junk celery muscle cousin property unfold identify mystery female";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce limit chest cross close basic change bacon old wall monitor tube";
+var mnemonic = "thumb knife payment six uncover retire phone inherit ride around name couch";

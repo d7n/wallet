@@ -1,1 +1,1 @@
-var mnemonic = "flat bind depend mango shoe frequent record canyon morning cradle vast cloud";
+var mnemonic = "believe slab layer festival stick wheat cook curve head crawl divide boost";

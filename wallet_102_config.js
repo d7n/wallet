@@ -1,1 +1,1 @@
-var mnemonic = "fresh answer cushion famous gown garage fury frown vacant dignity family swing";
+var mnemonic = "garbage quit mouse job guard jewel elephant custom risk viable this kingdom";

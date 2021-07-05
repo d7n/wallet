@@ -1,1 +1,1 @@
-var mnemonic = "grant they ready cousin action spray moral protect potato tattoo omit pencil";
+var mnemonic = "between decline virus view curious expire vote chest autumn quick old trend";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs media ghost shallow mean december honey roof hurdle reduce road bitter";
+var mnemonic = "wrap since enter celery pledge cable radio gather twice off illness wing";

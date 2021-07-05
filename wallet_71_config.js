@@ -1,1 +1,1 @@
-var mnemonic = "lunar hen creek mass pencil vote glow engage veteran early ordinary rocket";
+var mnemonic = "hurry tourist soft bachelor canoe gadget stamp flame answer grab boil make";

@@ -1,1 +1,1 @@
-var mnemonic = "wash nephew video elder throw dismiss once token chronic electric visa whale";
+var mnemonic = "false later fit hood fossil theme lyrics loan practice bottom entire brisk";

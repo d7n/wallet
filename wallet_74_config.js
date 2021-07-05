@@ -1,1 +1,1 @@
-var mnemonic = "common appear grid transfer dignity owner cause glory screen off park cheese";
+var mnemonic = "battle zone flat enable tennis ripple lonely sock forward winter response cream";

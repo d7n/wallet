@@ -1,1 +1,1 @@
-var mnemonic = "region club cool suit joke viable keep shoe voyage battle much blast";
+var mnemonic = "frost toilet settle symbol year winter harvest earn material energy patrol alone";

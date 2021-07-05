@@ -1,1 +1,1 @@
-var mnemonic = "typical cabbage oppose network hood diet kingdom syrup hello lizard hello exhaust";
+var mnemonic = "bundle sketch grow velvet around rice dream oil push resemble sting curtain";

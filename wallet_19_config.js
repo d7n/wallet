@@ -1,1 +1,1 @@
-var mnemonic = "pony alarm buyer soul talent mass liquid upper region head marble pioneer";
+var mnemonic = "royal liberty diet win fury hint cycle box cereal appear magnet general";

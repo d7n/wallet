@@ -1,1 +1,1 @@
-var mnemonic = "misery atom wide immense circle exile occur mirror stove search express license";
+var mnemonic = "mouse right kangaroo spice law matter fuel fade survey guard phone actor";

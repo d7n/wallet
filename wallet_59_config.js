@@ -1,1 +1,1 @@
-var mnemonic = "debate tone hero shove cheese afraid renew sudden medal eight gauge ketchup";
+var mnemonic = "media maze orphan better knee cement thunder pull angry repeat myself public";

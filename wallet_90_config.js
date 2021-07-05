@@ -1,1 +1,1 @@
-var mnemonic = "vacant human roast curious prosper develop unlock lunch element blue bright anchor";
+var mnemonic = "better rookie seminar infant vibrant animal novel firm enforce carpet coyote transfer";

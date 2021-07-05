@@ -1,1 +1,1 @@
-var mnemonic = "wealth buzz suggest muffin series exit walnut aerobic squirrel protect know engine";
+var mnemonic = "surface barrel hungry pipe message wise position disorder nose turn universe uphold";

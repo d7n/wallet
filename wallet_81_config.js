@@ -1,1 +1,1 @@
-var mnemonic = "organ pink diagram raise ocean traffic gadget canoe awake act jacket liberty";
+var mnemonic = "stumble deposit wage hawk later month grow age truth forum quality cycle";

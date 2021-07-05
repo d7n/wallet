@@ -1,1 +1,1 @@
-var mnemonic = "major goose spend pumpkin grid image ozone square view kitten property sustain";
+var mnemonic = "phone mystery girl display mom cute addict favorite thumb fly suggest object";

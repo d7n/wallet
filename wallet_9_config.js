@@ -1,1 +1,1 @@
-var mnemonic = "omit fluid unhappy wage account kiwi burst wage crime blood jelly game";
+var mnemonic = "tank tell when rubber hundred minute wait uncle extend chaos damp explain";

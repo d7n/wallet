@@ -1,1 +1,1 @@
-var mnemonic = "slab inhale borrow nice finish town across excuse earth satoshi orient alter";
+var mnemonic = "favorite gap kind situate run rough place scissors feed jealous buffalo fun";

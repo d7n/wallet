@@ -1,1 +1,1 @@
-var mnemonic = "rate dwarf minute stuff clean rookie october grocery utility vague annual rebuild";
+var mnemonic = "spin quantum shed fork gaze shield pact aisle month entry behave rice";

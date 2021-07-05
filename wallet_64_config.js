@@ -1,1 +1,1 @@
-var mnemonic = "pen turkey surge process rescue fall dance moon sheriff wave panda purchase";
+var mnemonic = "hint stay engage debate awesome spy basic bag enjoy valley envelope deputy";

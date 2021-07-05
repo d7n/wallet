@@ -1,1 +1,1 @@
-var mnemonic = "upset pitch virus advance laundry enable decline interest cabbage equal discover hello";
+var mnemonic = "dynamic betray glad between balance relax burst donor awesome rescue ginger trade";

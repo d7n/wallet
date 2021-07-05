@@ -1,1 +1,1 @@
-var mnemonic = "success hub evil wide energy genuine weasel garlic flat special thing bachelor";
+var mnemonic = "best virus ski axis acquire vague hill powder fit solution spin bundle";

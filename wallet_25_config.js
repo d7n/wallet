@@ -1,1 +1,1 @@
-var mnemonic = "earn problem ankle castle decrease term defense mule nothing rain remind palace";
+var mnemonic = "cupboard gown modify cereal design reduce embark moment tuna host pond opera";

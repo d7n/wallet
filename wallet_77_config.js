@@ -1,1 +1,1 @@
-var mnemonic = "history device horn guilt pelican bring royal reveal devote key shrimp school";
+var mnemonic = "brick process material junk across obscure kiss word same modify endorse evidence";

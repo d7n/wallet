@@ -1,1 +1,1 @@
-var mnemonic = "prepare tiny muffin raise ankle sting bag amused panic laundry decide galaxy";
+var mnemonic = "dial phone cinnamon boat elite luxury bubble child rocket two essence harsh";

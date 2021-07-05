@@ -1,1 +1,1 @@
-var mnemonic = "aerobic address eternal whale task hotel order excite push source enable beauty";
+var mnemonic = "innocent lawn lizard autumn more hope provide charge grief trend leisure away";

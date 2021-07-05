@@ -1,1 +1,1 @@
-var mnemonic = "ripple mesh eyebrow grit kidney interest prepare code syrup pumpkin relax scene";
+var mnemonic = "wonder sea left mix stamp stairs agree motor concert syrup evoke height";

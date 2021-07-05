@@ -1,1 +1,1 @@
-var mnemonic = "actor diet material rent easily wine never muscle general cereal hybrid outer";
+var mnemonic = "banner reveal fun enact amount noise about laundry trash village hidden tissue";

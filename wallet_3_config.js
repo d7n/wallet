@@ -1,1 +1,1 @@
-var mnemonic = "keen offer cage wish predict decade night city gorilla fatal blue young";
+var mnemonic = "teach host dilemma there grit page salmon purse early venture fog cave";

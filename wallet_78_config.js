@@ -1,1 +1,1 @@
-var mnemonic = "avocado club expand dash riot supply option flame street between involve goose";
+var mnemonic = "cupboard office ozone submit cheap loop suffer column raven beyond recall tuition";

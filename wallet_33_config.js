@@ -1,1 +1,1 @@
-var mnemonic = "hair grow kitchen simple tip ocean artefact cinnamon moment penalty fury claw";
+var mnemonic = "bone pistol equal blouse aunt festival skate struggle spray animal jelly spike";
