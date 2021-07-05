@@ -1,1 +1,1 @@
-var mnemonic = "agree exotic match young nothing ostrich brand baby pizza cat behind raw";
+var mnemonic = "suffer seven toilet elephant agent wife mushroom rubber trip deny bargain skull";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat short derive drop spirit slice thank select weekend corn child also";
+var mnemonic = "like assume bench spin enjoy light diagram ugly flame toast elephant dose";

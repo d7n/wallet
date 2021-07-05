@@ -1,1 +1,1 @@
-var mnemonic = "lyrics school debate lazy nation symbol cotton bracket salute interest grab butter";
+var mnemonic = "lawn iron pass tower crunch coach stove saddle twin vintage divert tribe";

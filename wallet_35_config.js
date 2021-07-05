@@ -1,1 +1,1 @@
-var mnemonic = "bulb trim bean loud service suffer hood material lady dad exotic whip";
+var mnemonic = "student salmon glare hotel accident conduct shove drama toddler garbage ill awake";

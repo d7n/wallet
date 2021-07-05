@@ -1,1 +1,1 @@
-var mnemonic = "piece flash ranch issue shell lion season dog roast danger glimpse torch";
+var mnemonic = "elbow pipe traffic into category live action trash share twist bacon axis";

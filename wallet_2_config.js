@@ -1,1 +1,1 @@
-var mnemonic = "buffalo quick hood decrease giant tomato turtle shoot moment couple expand predict";
+var mnemonic = "arrive choose need exclude swamp lamp able swamp shadow flag pen slam";

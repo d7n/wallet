@@ -1,1 +1,1 @@
-var mnemonic = "rival search rice business law island taxi stay priority captain discover vivid";
+var mnemonic = "enjoy category skirt pitch pumpkin advance audit dash fiber forum phone cycle";

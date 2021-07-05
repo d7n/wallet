@@ -1,1 +1,1 @@
-var mnemonic = "boring kiwi slush pen noise asset elevator hurt stem fiscal gravity powder";
+var mnemonic = "truck salmon certain crawl kiwi glide note direct choose napkin monitor link";

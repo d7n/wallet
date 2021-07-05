@@ -1,1 +1,1 @@
-var mnemonic = "powder trial rapid festival bronze verify when better tiger electric typical come";
+var mnemonic = "cable critic sail hurry metal aisle rubber mirror analyst mixture kid holiday";

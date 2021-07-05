@@ -1,1 +1,1 @@
-var mnemonic = "beach mimic pass online move vehicle steel material apology behind dial trade";
+var mnemonic = "crouch exist advance liquid kite educate deal average mushroom lake hammer jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "lift tube gain uphold ride enforce heart excuse dad other income express";
+var mnemonic = "acoustic shell abstract square earn twin gossip curve dad dismiss visual valley";

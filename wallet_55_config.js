@@ -1,1 +1,1 @@
-var mnemonic = "artist rely neck below obscure fiction build wheat crucial still garbage loud";
+var mnemonic = "million secret soon swallow margin link city segment produce portion hawk detail";

@@ -1,1 +1,1 @@
-var mnemonic = "candy forest clay fossil bag brush subway dutch purse palm annual gold";
+var mnemonic = "caught inform buffalo hope spider spatial used rude clock fashion cinnamon distance";

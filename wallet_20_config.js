@@ -1,1 +1,1 @@
-var mnemonic = "fly appear begin crucial firm flavor ship quarter address census advice romance";
+var mnemonic = "black sting excess caution scissors canyon reward escape amused enhance clever nothing";

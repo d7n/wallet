@@ -1,1 +1,1 @@
-var mnemonic = "convince pride crucial inspire calm wait happy clarify term truck maple buddy";
+var mnemonic = "bronze galaxy march bullet will cement piano treat silent salad hope gain";

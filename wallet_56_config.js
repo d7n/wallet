@@ -1,1 +1,1 @@
-var mnemonic = "unable run right sentence repair sport forward slogan absent radio scrap original";
+var mnemonic = "brave polar dust shove name jewel limit verb opera garage start erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "save gate leave father cruel trap magic vacant blind border supply borrow";
+var mnemonic = "cigar what east lion shift worth gadget glance space onion coach spray";

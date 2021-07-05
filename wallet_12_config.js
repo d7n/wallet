@@ -1,1 +1,1 @@
-var mnemonic = "theme road mechanic pottery voice wise margin danger divide design pistol high";
+var mnemonic = "labor fatal eight ghost shift peanut census satoshi hour moment city asthma";

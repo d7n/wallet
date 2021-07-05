@@ -1,1 +1,1 @@
-var mnemonic = "raise myself depth fault bacon else enforce provide speak speak random armor";
+var mnemonic = "company strike hazard govern insect horse electric odor october chat hip own";

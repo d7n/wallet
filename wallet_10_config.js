@@ -1,1 +1,1 @@
-var mnemonic = "truth absurd legal tent when name obscure transfer kind abuse tired enrich";
+var mnemonic = "sunset bless sting move ensure afford valve antique obey maze enact core";

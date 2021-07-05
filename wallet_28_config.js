@@ -1,1 +1,1 @@
-var mnemonic = "shallow hat element stamp napkin topic attack monitor dice undo work illness";
+var mnemonic = "search siege reunion ostrich cash safe simple cart noble guilt nest cause";

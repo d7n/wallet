@@ -1,1 +1,1 @@
-var mnemonic = "mobile life travel below cinnamon inflict wise suffer glue genius chase brain";
+var mnemonic = "bronze point link quote base judge present cat struggle pill horse kind";

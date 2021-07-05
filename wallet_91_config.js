@@ -1,1 +1,1 @@
-var mnemonic = "island purity saddle define awkward hill exhibit know funny tail luxury capable";
+var mnemonic = "consider coyote web lobster popular basic test combine ketchup category veteran minute";

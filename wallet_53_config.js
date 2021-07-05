@@ -1,1 +1,1 @@
-var mnemonic = "farm lab subway mechanic call deposit hidden depart seed core cactus broccoli";
+var mnemonic = "wrestle ghost purse fitness text city bright palm regular tooth polar volume";

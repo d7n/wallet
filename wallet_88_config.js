@@ -1,1 +1,1 @@
-var mnemonic = "easily drift select sugar arrest patient inherit shiver father area long isolate";
+var mnemonic = "armed uncle woman mosquito pig play orange deposit truly scale document consider";

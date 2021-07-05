@@ -1,1 +1,1 @@
-var mnemonic = "welcome bounce silk invest trophy renew purchase engage park verb boy share";
+var mnemonic = "toe credit lady together script rotate erupt luggage secret install culture able";

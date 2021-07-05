@@ -1,1 +1,1 @@
-var mnemonic = "history wild rain text legend prevent interest shift hand faith bus peace";
+var mnemonic = "sock pottery sample cloth chef mass robust claw mass depth prosper fold";

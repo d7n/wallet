@@ -1,1 +1,1 @@
-var mnemonic = "under other oxygen giraffe write submit harbor staff width kit exhaust flat";
+var mnemonic = "adult wise vocal panic clock mad evolve output drive round door attend";

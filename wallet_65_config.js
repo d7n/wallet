@@ -1,1 +1,1 @@
-var mnemonic = "luggage time gloom easily sock memory travel virus flight inmate dawn question";
+var mnemonic = "soldier heart observe become narrow arrive little merry abandon cousin still job";

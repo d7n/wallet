@@ -1,1 +1,1 @@
-var mnemonic = "caution health moment endless sugar oak casual dance usual lady jump inherit";
+var mnemonic = "appear charge history scale brave stairs subway museum glove much fluid grape";

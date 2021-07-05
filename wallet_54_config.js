@@ -1,1 +1,1 @@
-var mnemonic = "start law drastic protect ridge early sauce market toss angry display enrich";
+var mnemonic = "dry truck paddle token expand ethics settle pond warrior vacant tape future";

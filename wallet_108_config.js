@@ -1,1 +1,1 @@
-var mnemonic = "easy laundry arctic cousin labor ring chimney broom roast approve rare soup";
+var mnemonic = "abandon garage wing door panda milk scatter bicycle begin cabin leave profit";

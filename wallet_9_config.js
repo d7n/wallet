@@ -1,1 +1,1 @@
-var mnemonic = "split island aisle dose neither churn either jealous plunge bulb west flee";
+var mnemonic = "drama lucky pig question tray artefact option trash symbol liquid gasp space";

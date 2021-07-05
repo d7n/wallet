@@ -1,1 +1,1 @@
-var mnemonic = "endless asset alert transfer stand prosper amazing endorse project zero vocal river";
+var mnemonic = "outside mixture shiver damp purchase brave cute struggle wreck worry corn mask";

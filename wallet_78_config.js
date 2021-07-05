@@ -1,1 +1,1 @@
-var mnemonic = "begin club ten cup pull pulse crash obtain bone payment blouse skull";
+var mnemonic = "daughter want pink monitor wet planet reject lonely law amused work annual";

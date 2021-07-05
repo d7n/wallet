@@ -1,1 +1,1 @@
-var mnemonic = "mix either off response neck corn salad protect interest ecology grow please";
+var mnemonic = "battle easy outer finger cool august holiday labor pact pole inject essence";

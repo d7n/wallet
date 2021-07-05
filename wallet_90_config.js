@@ -1,1 +1,1 @@
-var mnemonic = "useful stock prefer curve cabbage slide throw oxygen able bread weasel change";
+var mnemonic = "nothing language wheel collect prize average place flavor sudden message letter ancient";

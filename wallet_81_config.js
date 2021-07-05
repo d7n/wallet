@@ -1,1 +1,1 @@
-var mnemonic = "mule female tool control zebra science sunset huge predict scissors addict eight";
+var mnemonic = "virtual copper stage film claw move figure expose quarter cushion first permit";

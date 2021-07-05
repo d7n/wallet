@@ -1,1 +1,1 @@
-var mnemonic = "earn priority couple north fever identify wagon useless health body remember theory";
+var mnemonic = "bird rose soccer strategy maximum execute accident hover inside stove february attitude";

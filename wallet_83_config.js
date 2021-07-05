@@ -1,1 +1,1 @@
-var mnemonic = "siege bitter direct sick twelve casual grass prepare primary pill check omit";
+var mnemonic = "ritual employ device offer bleak upgrade sausage worry radar truly tell manual";

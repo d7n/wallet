@@ -1,1 +1,1 @@
-var mnemonic = "elbow collect gadget crazy cross attend alpha speed blind torch test test";
+var mnemonic = "outer elephant view host distance wave thought tourist jeans vast gossip century";

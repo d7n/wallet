@@ -1,1 +1,1 @@
-var mnemonic = "finish pledge wreck public pupil shoot tail mom feature arrest swarm canvas";
+var mnemonic = "today input smart paddle canal donate much lunar opinion cute private genius";

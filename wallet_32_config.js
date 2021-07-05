@@ -1,1 +1,1 @@
-var mnemonic = "click promote stage sustain much bird danger return valve beef hazard monster";
+var mnemonic = "absurd candy unit fruit inquiry spin blame one north female upgrade tool";

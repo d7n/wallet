@@ -1,1 +1,1 @@
-var mnemonic = "buddy maze cradle crew input allow manual clip involve lake faint sunny";
+var mnemonic = "aerobic turkey potato drum unlock wealth purpose comfort glare rhythm duck ethics";

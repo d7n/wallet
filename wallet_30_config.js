@@ -1,1 +1,1 @@
-var mnemonic = "senior cargo elite tree empower lift citizen render diesel black enact body";
+var mnemonic = "bottom snack wrong small corn round stand mad dragon join world razor";

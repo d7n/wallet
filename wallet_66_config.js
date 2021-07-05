@@ -1,1 +1,1 @@
-var mnemonic = "empower vocal hockey horn reject ketchup catch marble clinic offer quote eagle";
+var mnemonic = "company forest patch host woman ignore domain device above beach brain police";

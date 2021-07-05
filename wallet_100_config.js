@@ -1,1 +1,1 @@
-var mnemonic = "inject december major keep dose monitor cloud crumble stem photo kiwi exclude";
+var mnemonic = "ask sell abstract sense accuse moment panda spike rack tenant bind inspire";

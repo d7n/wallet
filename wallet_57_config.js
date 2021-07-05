@@ -1,1 +1,1 @@
-var mnemonic = "another palace expire guitar globe renew street wool silver drink access wave";
+var mnemonic = "demise dentist cactus advance fee news crumble select jelly satisfy enact catalog";

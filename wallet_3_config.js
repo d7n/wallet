@@ -1,1 +1,1 @@
-var mnemonic = "link success damage nominee awkward voice aim flag vanish south trigger funny";
+var mnemonic = "rent bean own peasant off return ankle tribe arrow must glass license";

@@ -1,1 +1,1 @@
-var mnemonic = "foster idea run drill face abandon endless unlock buyer message coconut draft";
+var mnemonic = "arrest deny quantum october bean mother payment balance old large state drop";

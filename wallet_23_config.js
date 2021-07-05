@@ -1,1 +1,1 @@
-var mnemonic = "unknown famous young feel finish effort opera actor differ upper animal adult";
+var mnemonic = "capital display dream fetch very beauty industry wasp oppose sadness tip avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "old field develop taxi aware claim stumble bone ridge father ozone mask";
+var mnemonic = "paddle skirt abstract pottery ready approve giant lawsuit plunge trade travel sudden";

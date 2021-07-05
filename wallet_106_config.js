@@ -1,1 +1,1 @@
-var mnemonic = "car desert snap face ridge pulp moon behind banner protect artwork door";
+var mnemonic = "lawsuit way library sense tonight candy reopen gadget rug sponsor allow version";

@@ -1,1 +1,1 @@
-var mnemonic = "fade uncover audit swear tell omit basic spatial weapon tissue fork brand";
+var mnemonic = "near ticket entry basic trend screen pass fever camera pepper fatal drift";

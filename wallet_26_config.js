@@ -1,1 +1,1 @@
-var mnemonic = "nerve stadium flat path kind salad dragon start surface spy current quote";
+var mnemonic = "boss raven crystal original robot expose vessel noble thumb subway filter only";

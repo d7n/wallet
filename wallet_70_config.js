@@ -1,1 +1,1 @@
-var mnemonic = "pizza ugly slush member amazing letter sleep globe output mushroom milk demise";
+var mnemonic = "law bitter business differ warrior cliff brick bomb grief super satoshi shop";

@@ -1,1 +1,1 @@
-var mnemonic = "have clever salute replace boss pretty negative random unknown drill kid weekend";
+var mnemonic = "ribbon grain believe lounge hybrid elephant wet harsh finish whale female egg";

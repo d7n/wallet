@@ -1,1 +1,1 @@
-var mnemonic = "gather club earth vicious lumber keen solar orbit degree unfair keen addict";
+var mnemonic = "skin chest blossom acid nose soft before attend trip brave skill shiver";

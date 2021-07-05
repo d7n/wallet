@@ -1,1 +1,1 @@
-var mnemonic = "umbrella mix patient jazz problem electric intact brass fade quick range wrong";
+var mnemonic = "name decline poverty young wet leave away fiber foster debris merge travel";

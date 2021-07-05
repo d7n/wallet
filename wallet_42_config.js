@@ -1,1 +1,1 @@
-var mnemonic = "often gesture custom february alert mystery early tennis broken broken orbit confirm";
+var mnemonic = "thing reform fat hurdle match cereal race fine flat where exchange solve";

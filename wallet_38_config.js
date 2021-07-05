@@ -1,1 +1,1 @@
-var mnemonic = "boost six olive mansion suit boy episode east fly humor swear address";
+var mnemonic = "latin royal above ankle shine divide under jeans luxury pluck cost excuse";

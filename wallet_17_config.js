@@ -1,1 +1,1 @@
-var mnemonic = "north dash fine need crush you unhappy garbage parrot trap future edge";
+var mnemonic = "someone chicken burden symbol capital fan hazard dilemma common assist spoon scissors";

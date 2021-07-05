@@ -1,1 +1,1 @@
-var mnemonic = "loud fish deny edge forward lawsuit brand top goat salad kind domain";
+var mnemonic = "cupboard vacant swing eternal teach rural oil cactus install myth tool travel";

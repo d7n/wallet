@@ -1,1 +1,1 @@
-var mnemonic = "bulk again envelope damp switch cook token mimic travel strategy ketchup someone";
+var mnemonic = "warfare immune mirror viable admit aspect during exclude animal double belt tomorrow";

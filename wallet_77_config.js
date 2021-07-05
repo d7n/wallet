@@ -1,1 +1,1 @@
-var mnemonic = "win hand chef assume clay change upon barrel food awesome hair brain";
+var mnemonic = "love pelican panel list grocery approve vanish private resist close human happy";

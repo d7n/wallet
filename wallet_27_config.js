@@ -1,1 +1,1 @@
-var mnemonic = "series merge organ popular diary tiger crime analyst neither hollow basic elder";
+var mnemonic = "dumb useful salute awful share output size route kiwi mistake convince goddess";

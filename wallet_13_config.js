@@ -1,1 +1,1 @@
-var mnemonic = "execute transfer man mail reason cook able perfect system lend stick decline";
+var mnemonic = "evidence version primary pudding method electric artist tank bounce beach love party";

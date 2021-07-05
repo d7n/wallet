@@ -1,1 +1,1 @@
-var mnemonic = "adult nut dynamic trash turtle document tree yellow vendor trend jelly auto";
+var mnemonic = "bench claim program robust blouse social material ignore toddler slot fat patrol";

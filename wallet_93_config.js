@@ -1,1 +1,1 @@
-var mnemonic = "exact give select anger unfold fatal luggage notable arctic warrior always mango";
+var mnemonic = "spirit tuna awful dove state smooth attract two autumn theme live hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern habit humble inside turtle edge kitten main boat slab arrest walk";
+var mnemonic = "dry object tube area erode price aerobic october assault yellow urban innocent";

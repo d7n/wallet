@@ -1,1 +1,1 @@
-var mnemonic = "trumpet sorry neglect danger volcano monkey author aware stock cup news exchange";
+var mnemonic = "portion junior service relief fault bright ocean frozen cactus film tilt humor";

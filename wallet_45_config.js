@@ -1,1 +1,1 @@
-var mnemonic = "accident gun travel rice more prepare trim syrup marine door celery gather";
+var mnemonic = "shrimp wear vacuum actress eight run wedding snow mercy grocery legal oven";

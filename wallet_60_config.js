@@ -1,1 +1,1 @@
-var mnemonic = "entry announce walk much future sister popular like eye regular soldier cave";
+var mnemonic = "pistol old true bring belt receive garden when chest evidence design attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "distance silk slab embody chair sand pepper twice nut myth weapon grace";
+var mnemonic = "critic goddess glove critic suffer unit disorder cook receive frog expire emerge";

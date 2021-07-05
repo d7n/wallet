@@ -1,1 +1,1 @@
-var mnemonic = "salmon obvious maze wagon trash hour orient solid bridge machine language minor";
+var mnemonic = "youth save moment gap grid shell body ceiling monitor topic minor boil";

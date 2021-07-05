@@ -1,1 +1,1 @@
-var mnemonic = "endless vibrant cram surge lend crime service actual three stock observe act";
+var mnemonic = "rib bench mass snow myself call across snow trap cotton slab category";

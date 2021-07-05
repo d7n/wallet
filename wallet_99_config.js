@@ -1,1 +1,1 @@
-var mnemonic = "person forum crash benefit galaxy coconut pole peasant suffer soul corn fossil";
+var mnemonic = "mansion corn essence assume tower seminar laptop obscure clutch blade episode flower";

@@ -1,1 +1,1 @@
-var mnemonic = "awful slush soldier dose entry pass noble move involve song draw enjoy";
+var mnemonic = "resemble clog urban wing crime number gasp carbon horn trouble expire ancient";

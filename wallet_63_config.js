@@ -1,1 +1,1 @@
-var mnemonic = "people message sand grant come verb elephant famous indoor coast sing cat";
+var mnemonic = "taxi uphold muffin exchange fence sustain wire cabbage ripple gorilla decide pistol";

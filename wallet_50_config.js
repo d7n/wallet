@@ -1,1 +1,1 @@
-var mnemonic = "trash toss sausage gossip blind lobster battle foam diet style coil uniform";
+var mnemonic = "basic unable drive across matter bullet own fruit sing suffer blue forward";

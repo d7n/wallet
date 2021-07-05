@@ -1,1 +1,1 @@
-var mnemonic = "give liquid kitten fame assist squirrel okay royal dilemma clown avoid urban";
+var mnemonic = "reason shock oyster edit essay kit special walnut produce mean jazz online";

@@ -1,1 +1,1 @@
-var mnemonic = "onion alien alarm spin destroy flight survey off upon broken scare stumble";
+var mnemonic = "word range couple flock razor shadow better deal there isolate legend mushroom";

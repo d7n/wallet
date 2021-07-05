@@ -1,1 +1,1 @@
-var mnemonic = "card govern cricket win enhance flight deputy aspect trick sorry wash exit";
+var mnemonic = "click key chest harsh assault wave trial soup sunset another bar upset";

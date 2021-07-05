@@ -1,1 +1,1 @@
-var mnemonic = "order pilot toss neutral into kiss medal timber unfold ceiling clean picnic";
+var mnemonic = "tree talent round strategy walnut race click industry pioneer case between code";

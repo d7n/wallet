@@ -1,1 +1,1 @@
-var mnemonic = "funny federal wrist error disagree visual keen unusual lobster venture festival spare";
+var mnemonic = "fee hockey twin little arm pave unit genre round person income monitor";

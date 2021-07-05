@@ -1,1 +1,1 @@
-var mnemonic = "duck bench trust script midnight dismiss range question north page dad remind";
+var mnemonic = "rice any success salad daring obvious junior broccoli purpose extend gas school";

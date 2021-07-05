@@ -1,1 +1,1 @@
-var mnemonic = "favorite assume eight below walnut roof crouch problem limit barrel wait win";
+var mnemonic = "there upon pitch federal hold save soft blade identify reveal public skate";

@@ -1,1 +1,1 @@
-var mnemonic = "service asthma under furnace beauty dawn denial nest spot envelope crisp target";
+var mnemonic = "badge wear wealth chat million mad frog apple three matter outer chase";

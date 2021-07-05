@@ -1,1 +1,1 @@
-var mnemonic = "wear hedgehog still cute hidden beef cabbage distance unhappy mask liar noise";
+var mnemonic = "lamp multiply carbon settle rebel ethics guide gym ocean ranch pass explain";

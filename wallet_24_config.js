@@ -1,1 +1,1 @@
-var mnemonic = "avoid hair useless peanut asset tooth rule throw metal essence swing grocery";
+var mnemonic = "code camp basic letter select clean spirit spring minimum earth spoil portion";

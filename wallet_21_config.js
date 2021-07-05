@@ -1,1 +1,1 @@
-var mnemonic = "jar time globe uncle actor ozone hen snake retire defy truly juice";
+var mnemonic = "discover essay elephant visit planet review energy inner hazard smart human wet";

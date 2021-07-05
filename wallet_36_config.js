@@ -1,1 +1,1 @@
-var mnemonic = "thrive online metal husband stumble boss lounge turtle tomorrow lesson prefer carbon";
+var mnemonic = "lens alpha ocean burger view drift grape bleak design clown whale beach";
