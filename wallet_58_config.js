@@ -1,1 +1,1 @@
-var mnemonic = "survey spring fan please agree office exercise smile snap brown sausage envelope";
+var mnemonic = "brain force tag rate tackle film kind assume hurry style uncle cream";

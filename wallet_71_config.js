@@ -1,1 +1,1 @@
-var mnemonic = "brick squeeze say traffic resist face edit sibling pioneer hedgehog tilt reopen";
+var mnemonic = "follow mad planet company clip offer purpose gospel come average monkey patient";

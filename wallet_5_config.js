@@ -1,1 +1,1 @@
-var mnemonic = "foster lucky start join can boil erode pass decade typical empty chronic";
+var mnemonic = "scorpion ten chase ozone recall motor visa odor fire loop try hamster";

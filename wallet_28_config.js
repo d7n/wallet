@@ -1,1 +1,1 @@
-var mnemonic = "snack security pair cliff ignore taste forest misery dice assume dolphin amount";
+var mnemonic = "case copy cloud asset purpose initial rack consider sight eternal nerve mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "capital search useful pole gap swing valve pear cancel cruel bone honey";
+var mnemonic = "opinion scatter lazy cage fabric steak oval text easily belt gospel typical";

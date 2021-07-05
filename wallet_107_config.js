@@ -1,1 +1,1 @@
-var mnemonic = "floor gap mouse object tag toilet addict junk biology warrior dust topic";
+var mnemonic = "aware soccer sunny adjust later hole define impulse inject involve mansion dynamic";

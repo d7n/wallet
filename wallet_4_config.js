@@ -1,1 +1,1 @@
-var mnemonic = "anger decide erosion prepare crunch village labor cycle finger skirt have eagle";
+var mnemonic = "print network bitter congress syrup polar bag else recycle emotion because salmon";

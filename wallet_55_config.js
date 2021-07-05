@@ -1,1 +1,1 @@
-var mnemonic = "material assault business also hen nerve disorder alert infant clever clap silent";
+var mnemonic = "wall employ broom unaware order point mad attract slight skill arrest design";

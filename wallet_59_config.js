@@ -1,1 +1,1 @@
-var mnemonic = "patient mobile destroy clock truck mandate creek extra arena hire region curve";
+var mnemonic = "history change tail zoo action crystal broom worry picture sand tube zone";

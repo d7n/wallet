@@ -1,1 +1,1 @@
-var mnemonic = "valid cross sketch kit cruel craft index skirt poem must draw easy";
+var mnemonic = "cabbage term cushion cage all soup genius sponsor salad fitness bounce tray";

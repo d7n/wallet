@@ -1,1 +1,1 @@
-var mnemonic = "borrow group snow oyster pipe fatal turtle ignore magnet explain truth wash";
+var mnemonic = "hybrid east away recall okay goose know fire music tent work repair";

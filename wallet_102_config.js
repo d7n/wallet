@@ -1,1 +1,1 @@
-var mnemonic = "tuition bread first weapon puzzle reflect lens endorse twice art mixed alter";
+var mnemonic = "stand chief address ship cannon remember luggage grace trumpet culture disease bonus";

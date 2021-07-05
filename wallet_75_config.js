@@ -1,1 +1,1 @@
-var mnemonic = "fluid raccoon route fire legend small child orange narrow mushroom series coconut";
+var mnemonic = "review future expose frown arch another woman become estate lend evolve kiss";

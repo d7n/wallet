@@ -1,1 +1,1 @@
-var mnemonic = "stadium permit sniff catalog iron oil afford spy supreme ticket math diesel";
+var mnemonic = "educate inquiry plastic design tackle dice tip version sand photo lift maze";

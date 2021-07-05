@@ -1,1 +1,1 @@
-var mnemonic = "buyer glow avocado tribe hurry misery coast recycle under flame collect near";
+var mnemonic = "slogan system senior okay secret announce enforce pigeon setup harsh uphold inhale";

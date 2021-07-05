@@ -1,1 +1,1 @@
-var mnemonic = "monster inner plunge knife uncle panic decade unaware enhance inherit talk tomorrow";
+var mnemonic = "beef glad hurt tackle steel pair young muscle pepper three evidence lounge";

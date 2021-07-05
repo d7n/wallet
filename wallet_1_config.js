@@ -1,1 +1,1 @@
-var mnemonic = "essence fluid debris tiny film wave wife fresh nephew lady sugar swamp";
+var mnemonic = "brave minimum anchor wheel adult purity hidden daring cook chat wedding sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "mean over pluck equal merry nice ramp draw possible core history monitor";
+var mnemonic = "later eight river town diesel insane taste machine bounce use verify solve";

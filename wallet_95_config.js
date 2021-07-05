@@ -1,1 +1,1 @@
-var mnemonic = "donate just love phone distance depart weird inspire remember plate clean square";
+var mnemonic = "utility vote maze party fragile exist identify tobacco rule bone blush prosper";

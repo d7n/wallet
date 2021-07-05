@@ -1,1 +1,1 @@
-var mnemonic = "fancy weather require answer ginger step slot another oak oxygen catalog ghost";
+var mnemonic = "argue ozone lava october among must such winter focus badge gown neglect";

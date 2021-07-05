@@ -1,1 +1,1 @@
-var mnemonic = "off vague half innocent attract funny lava wise stem amused travel swallow";
+var mnemonic = "behind step trade sport sure rival slab cereal sense pride rug guess";

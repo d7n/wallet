@@ -1,1 +1,1 @@
-var mnemonic = "treat verb divorce monitor announce lunar pilot exist clip calm head online";
+var mnemonic = "uphold coast ketchup soldier dynamic addict charge tray blossom stock evidence demise";

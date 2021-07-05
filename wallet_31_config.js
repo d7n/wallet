@@ -1,1 +1,1 @@
-var mnemonic = "van claim language outdoor laptop wasp lonely trust resemble resist tissue popular";
+var mnemonic = "life zoo search link save name spend easily fence absorb force hope";

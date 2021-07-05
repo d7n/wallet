@@ -1,1 +1,1 @@
-var mnemonic = "mushroom clip veteran soda easy invite obvious join veteran minute chunk treat";
+var mnemonic = "original copper crew frog core eye maid envelope despair exhibit error sail";

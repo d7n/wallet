@@ -1,1 +1,1 @@
-var mnemonic = "pave cool scrap trophy average pencil siege view chat hobby bid fog";
+var mnemonic = "gaze delay execute twin walk truly sword icon replace goose leisure tool";

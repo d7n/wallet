@@ -1,1 +1,1 @@
-var mnemonic = "weasel tissue rail mandate easily receive across feed state merit hood habit";
+var mnemonic = "firm position appear grunt still shop bar cube immense busy fragile erupt";

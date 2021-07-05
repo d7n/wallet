@@ -1,1 +1,1 @@
-var mnemonic = "other canal candy grief mango law simple machine absent dad polar path";
+var mnemonic = "fabric distance path weapon achieve crumble depend party famous stool season chapter";

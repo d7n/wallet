@@ -1,1 +1,1 @@
-var mnemonic = "frost can prepare disease ten decline soul length hurry drink miracle acid";
+var mnemonic = "disagree budget slight denial toast merge flame sound soon wish derive same";

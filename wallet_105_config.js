@@ -1,1 +1,1 @@
-var mnemonic = "pill genre chimney together much review behave scheme cactus grant viable talent";
+var mnemonic = "undo soup current spatial blame coil resource caught orchard permit evil genius";

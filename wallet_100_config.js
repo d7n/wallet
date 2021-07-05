@@ -1,1 +1,1 @@
-var mnemonic = "blouse tilt carbon true myself cushion nice occur culture panic glass phone";
+var mnemonic = "rare autumn later world relief section educate pull often elder rose cool";

@@ -1,1 +1,1 @@
-var mnemonic = "drill birth note ancient siege bonus fatigue zoo narrow shove isolate sunny";
+var mnemonic = "grab answer vast have smooth hospital chronic flip power length mix sibling";

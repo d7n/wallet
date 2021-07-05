@@ -1,1 +1,1 @@
-var mnemonic = "fluid improve dog combine benefit price sadness marriage hero test sail pottery";
+var mnemonic = "token topic pioneer menu globe season siege room ribbon sheriff print blast";

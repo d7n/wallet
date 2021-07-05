@@ -1,1 +1,1 @@
-var mnemonic = "rose also matrix punch object antenna smooth burst burger mixture cream anger";
+var mnemonic = "thing orient motion isolate end labor control volcano luxury youth venture level";

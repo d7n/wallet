@@ -1,1 +1,1 @@
-var mnemonic = "junk sand muscle spring address vast glimpse change cruel receive carry place";
+var mnemonic = "equip sense exist plastic tennis review admit key love salad truck degree";

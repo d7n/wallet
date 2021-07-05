@@ -1,1 +1,1 @@
-var mnemonic = "miss actress bar sudden sunset wave peasant scrub soon tiger guitar elegant";
+var mnemonic = "airport nest ethics hazard park come sleep prevent reward crime flash dash";

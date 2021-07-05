@@ -1,1 +1,1 @@
-var mnemonic = "miracle junk coin chapter cry crush about velvet tank spare tube steak";
+var mnemonic = "hurry two choice claw sudden elbow miss large entire palm post hobby";

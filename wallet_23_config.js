@@ -1,1 +1,1 @@
-var mnemonic = "apart mercy candy decrease expect orchard barrel muscle tongue dash broken exclude";
+var mnemonic = "mosquito prosper execute rent betray view shine crucial oyster wife oval author";

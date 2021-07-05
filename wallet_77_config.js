@@ -1,1 +1,1 @@
-var mnemonic = "wage acoustic strong cattle bunker twist climb tobacco pill fringe tray flat";
+var mnemonic = "report opinion improve famous better chef opera frozen chicken civil person radar";

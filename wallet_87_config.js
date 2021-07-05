@@ -1,1 +1,1 @@
-var mnemonic = "sphere ride excite civil fat love beauty soft company slender mosquito enjoy";
+var mnemonic = "verify august beauty melody emotion control film maze onion casino assume unfair";

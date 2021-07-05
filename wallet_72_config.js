@@ -1,1 +1,1 @@
-var mnemonic = "cancel tissue museum frame hen lake genuine lend life snake industry tackle";
+var mnemonic = "expand chair mango jeans student shoulder swallow change gown boost gadget amused";

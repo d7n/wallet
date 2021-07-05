@@ -1,1 +1,1 @@
-var mnemonic = "dutch torch bridge portion material rely subject bottom meat oval idea captain";
+var mnemonic = "deposit timber side maze tattoo credit ensure usage gossip bone idea update";

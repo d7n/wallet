@@ -1,1 +1,1 @@
-var mnemonic = "dirt range ketchup shadow blanket wise romance visa total sense matter mad";
+var mnemonic = "leaf boring eye inflict lottery stuff album promote under arctic autumn refuse";

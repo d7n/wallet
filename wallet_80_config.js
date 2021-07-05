@@ -1,1 +1,1 @@
-var mnemonic = "until spy use post peace gain balance type away sauce what impose";
+var mnemonic = "brisk quote broken legend tenant off write ball local able man any";

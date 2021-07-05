@@ -1,1 +1,1 @@
-var mnemonic = "group few copper shoe path gas cause correct call fatal prize law";
+var mnemonic = "evil ivory kangaroo boost shoot grow theory this pretty barrel boost include";

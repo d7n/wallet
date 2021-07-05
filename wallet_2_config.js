@@ -1,1 +1,1 @@
-var mnemonic = "cousin royal lunch light attend palace obtain ship subject orange pass lock";
+var mnemonic = "thrive fiber harsh leopard lyrics nice hundred window gentle apology vote clever";

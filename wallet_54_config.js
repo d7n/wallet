@@ -1,1 +1,1 @@
-var mnemonic = "shiver visit arrow dish hurry first season blind few raccoon plastic video";
+var mnemonic = "cloud comic spy inhale borrow cake travel mail raccoon attract case clarify";

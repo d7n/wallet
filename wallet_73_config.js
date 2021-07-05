@@ -1,1 +1,1 @@
-var mnemonic = "rural vapor warrior fit double ranch lake eye happy naive example obvious";
+var mnemonic = "shop inch unit symptom black silent innocent vivid real pencil elegant elite";

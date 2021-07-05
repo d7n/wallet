@@ -1,1 +1,1 @@
-var mnemonic = "affair fog island glad pet agree monitor smoke input excess various you";
+var mnemonic = "clap abstract solar ice tape sweet glove book mango anxiety chapter girl";

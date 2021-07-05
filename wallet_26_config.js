@@ -1,1 +1,1 @@
-var mnemonic = "board feature phrase sport frog fiscal vessel casino type expect electric coach";
+var mnemonic = "doll loud jazz amazing friend damage school observe mother fence creek perfect";

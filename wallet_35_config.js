@@ -1,1 +1,1 @@
-var mnemonic = "relief crisp hungry road capital wild genre quick moment path dutch talk";
+var mnemonic = "this knee clump polar damage vendor blouse brave flag powder border tackle";

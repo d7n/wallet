@@ -1,1 +1,1 @@
-var mnemonic = "bargain reason kitchen busy reflect profit chicken renew deposit tenant sleep chef";
+var mnemonic = "strong guitar barely when bamboo pool dial nest appear abandon aunt bone";

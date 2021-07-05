@@ -1,1 +1,1 @@
-var mnemonic = "day circle random ritual skin trip six rail kid puppy woman unit";
+var mnemonic = "crawl naive okay model expect museum couch north illegal jeans stairs butter";

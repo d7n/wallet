@@ -1,1 +1,1 @@
-var mnemonic = "nose worth often kit helmet galaxy sweet artefact toward coast school canoe";
+var mnemonic = "abuse observe cover fantasy peasant dream annual opinion eagle weapon fashion air";

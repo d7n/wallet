@@ -1,1 +1,1 @@
-var mnemonic = "obtain liar flat share coffee vivid degree canoe abandon diary inject bar";
+var mnemonic = "fold slight swamp cross urban match multiply scheme during broccoli quote unhappy";

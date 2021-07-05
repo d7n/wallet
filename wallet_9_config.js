@@ -1,1 +1,1 @@
-var mnemonic = "pizza hair topple response rule carpet thought noodle draft picnic embark essence";
+var mnemonic = "obey expose garbage gaze sing bounce ceiling laptop daughter attitude charge false";

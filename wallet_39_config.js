@@ -1,1 +1,1 @@
-var mnemonic = "scan slam require blind convince genius junk envelope caught blossom awful curve";
+var mnemonic = "tiger slot naive room lava obvious change acquire raccoon human moon scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "base clump ribbon derive inform build weapon mother spy sunny energy length";
+var mnemonic = "door enough absent convince donkey ozone grocery judge picture very art ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "rural rate couch lyrics notice giraffe cigar valve violin wink tail pupil";
+var mnemonic = "tiger twelve supreme wink rib home urge gallery surge weird firm taxi";

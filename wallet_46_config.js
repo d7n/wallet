@@ -1,1 +1,1 @@
-var mnemonic = "violin almost kiwi hobby wrist arrive knife turtle piano ability someone lunch";
+var mnemonic = "capital corn rough zoo uncover juice grass hood potato sphere cup odor";

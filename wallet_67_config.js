@@ -1,1 +1,1 @@
-var mnemonic = "ranch suit stable glad chronic wagon approve trim choice weasel weasel van";
+var mnemonic = "noble slam daring where spoil concert kingdom guide shadow hollow ten silent";

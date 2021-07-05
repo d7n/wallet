@@ -1,1 +1,1 @@
-var mnemonic = "extra tennis raven else main comic sure tortoise panda category hire bundle";
+var mnemonic = "zero crack typical beyond spike body harvest carry news ranch cycle maid";

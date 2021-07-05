@@ -1,1 +1,1 @@
-var mnemonic = "brave laptop match height hockey rescue ten attack resource topple double planet";
+var mnemonic = "tuna among abuse frost more material fruit neutral volcano anchor danger chest";

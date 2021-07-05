@@ -1,1 +1,1 @@
-var mnemonic = "artefact pause cousin double cave coyote trade stay dizzy cost twin album";
+var mnemonic = "water gasp lucky rapid bubble arrive funny rule genre language wet solve";

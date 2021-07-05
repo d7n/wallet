@@ -1,1 +1,1 @@
-var mnemonic = "soap keen margin cost cluster spend thumb cage mountain wool addict sunny";
+var mnemonic = "either initial planet address extend puzzle chaos differ track primary north warfare";

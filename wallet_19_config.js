@@ -1,1 +1,1 @@
-var mnemonic = "youth behave avocado chuckle short life actor monster search zone elephant enroll";
+var mnemonic = "warfare width conduct couple day sick atom review surge orange wash replace";

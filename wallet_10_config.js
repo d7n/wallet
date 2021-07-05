@@ -1,1 +1,1 @@
-var mnemonic = "beyond firm language rural depart mad cabbage anxiety trim expose unfold enemy";
+var mnemonic = "educate kite good flock pride salute field rent film social inner wolf";

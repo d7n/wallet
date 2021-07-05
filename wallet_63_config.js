@@ -1,1 +1,1 @@
-var mnemonic = "broken slush tortoise power excess winner add trade smart priority bread arena";
+var mnemonic = "inquiry tag embody sauce genius magic okay marriage shoe tobacco ripple tag";

@@ -1,1 +1,1 @@
-var mnemonic = "rude clever trophy rotate apple canoe wagon legal usage link suspect august";
+var mnemonic = "cost clap arena hard little pioneer exclude citizen another price diamond region";

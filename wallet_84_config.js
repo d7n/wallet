@@ -1,1 +1,1 @@
-var mnemonic = "smooth spray quote city coil oblige chest between bless marriage rib escape";
+var mnemonic = "penalty damage swamp write one mango subject body picnic video cliff warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp item subway prison tattoo erupt reflect legend embody bicycle task crash";
+var mnemonic = "horse neglect divert liar employ retreat imitate attack auction hobby prefer peanut";

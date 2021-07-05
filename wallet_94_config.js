@@ -1,1 +1,1 @@
-var mnemonic = "smart pull vivid sense spy boy hockey topic weasel book rebuild green";
+var mnemonic = "drum purchase bean ankle swift woman order truly scare weird caution frost";

@@ -1,1 +1,1 @@
-var mnemonic = "parade script proud kangaroo void laugh kick manual soap cactus olive emerge";
+var mnemonic = "sea rack body depart tower local remove regret rent spawn pride often";

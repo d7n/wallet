@@ -1,1 +1,1 @@
-var mnemonic = "settle slice scrap egg scout display energy middle little supply setup odor";
+var mnemonic = "trim tube lemon wrap naive buyer siege pair robot wash trade midnight";

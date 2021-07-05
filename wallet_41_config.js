@@ -1,1 +1,1 @@
-var mnemonic = "puzzle wood inquiry struggle search remove about patrol clutch south six luggage";
+var mnemonic = "office camp bamboo trend property glove leopard faint vintage task saddle actress";

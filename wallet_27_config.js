@@ -1,1 +1,1 @@
-var mnemonic = "crime refuse sad illegal alley marine feed eyebrow brother clock solve result";
+var mnemonic = "swear target smoke simple duty panel what critic valley tumble genuine tiger";

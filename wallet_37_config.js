@@ -1,1 +1,1 @@
-var mnemonic = "cliff keen neutral document wrist pool honey window bean trip shiver sugar";
+var mnemonic = "champion skull exist antenna limit build can crack party push accuse stem";

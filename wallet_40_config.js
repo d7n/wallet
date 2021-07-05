@@ -1,1 +1,1 @@
-var mnemonic = "peace enable remove scorpion verify kid coach resist vacuum symptom tiny gather";
+var mnemonic = "rely toss betray differ pull choice atom orbit visual slide blood fault";

@@ -1,1 +1,1 @@
-var mnemonic = "slush lunar throw volcano cycle harbor climb bridge uncover venture maple soup";
+var mnemonic = "sing media ripple initial aisle heart cry basic parade cost sheriff pool";

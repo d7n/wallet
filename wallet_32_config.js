@@ -1,1 +1,1 @@
-var mnemonic = "gravity interest museum donor deal thrive burden satisfy road talent toy race";
+var mnemonic = "parent fancy balcony other truly lesson bottom muscle stadium foam club muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial grab small cram tornado square office long material child input home";
+var mnemonic = "square ball vital body lamp mixed spin emotion ready olive length tip";

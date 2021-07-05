@@ -1,1 +1,1 @@
-var mnemonic = "snack giant pink pen time donkey patch number mix insane predict napkin";
+var mnemonic = "maximum winner defy dance garbage miracle opera offer butter motion fly letter";

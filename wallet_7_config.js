@@ -1,1 +1,1 @@
-var mnemonic = "march talent park crazy wood popular tooth thought future lawn fantasy carpet";
+var mnemonic = "tiny nominee risk dwarf junk define taxi tell bounce radio bleak slogan";

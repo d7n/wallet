@@ -1,1 +1,1 @@
-var mnemonic = "glare lunch master message company material state agree test today lottery hand";
+var mnemonic = "maple gravity hold absent power upon quarter dish network column atom spider";

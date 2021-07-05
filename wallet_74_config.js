@@ -1,1 +1,1 @@
-var mnemonic = "leopard swap zero private sugar donor avoid morning observe sample involve syrup";
+var mnemonic = "panic click earth unlock morning fire accuse idea dentist price case category";

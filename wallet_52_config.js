@@ -1,1 +1,1 @@
-var mnemonic = "novel resist will umbrella goddess arctic there muscle wild long captain assault";
+var mnemonic = "cook arena cushion knee arm forget payment face belt gorilla noodle dinner";

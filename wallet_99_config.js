@@ -1,1 +1,1 @@
-var mnemonic = "head brave adapt cute fluid heart portion minute they grace monster nerve";
+var mnemonic = "toward thunder scout dismiss glow multiply cruel stick hand grant curious into";

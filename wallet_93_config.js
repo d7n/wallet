@@ -1,1 +1,1 @@
-var mnemonic = "cat wealth prison marine purpose flag shed cupboard brush fit nephew skin";
+var mnemonic = "visual learn country now polar repeat ensure year palace equip advance olive";

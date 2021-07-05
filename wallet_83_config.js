@@ -1,1 +1,1 @@
-var mnemonic = "polar flower loan safe dirt bullet require turtle enhance curve analyst scout";
+var mnemonic = "please ensure desk basket rotate exact mad train desert solid gossip leg";

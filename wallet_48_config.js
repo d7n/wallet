@@ -1,1 +1,1 @@
-var mnemonic = "liar mystery tower school velvet total impact awesome myth canvas talk fashion";
+var mnemonic = "loud tourist dream island cake onion peanut uniform inside have dirt local";
