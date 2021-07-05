@@ -1,1 +1,1 @@
-var mnemonic = "appear fresh wear paddle total surround hollow motion people rose hotel betray";
+var mnemonic = "text asset wreck income nest response convince question off client farm bachelor";

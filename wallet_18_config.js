@@ -1,1 +1,1 @@
-var mnemonic = "shoulder cute butter rabbit siren gloom broccoli network art stay business aspect";
+var mnemonic = "reduce limit chest cross close basic change bacon old wall monitor tube";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar illegal dolphin liar grocery cross ripple web total dinner notable battle";
+var mnemonic = "sick hurdle novel usage glad blast pyramid seek mushroom mountain together humor";

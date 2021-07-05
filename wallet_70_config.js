@@ -1,1 +1,1 @@
-var mnemonic = "dizzy wrist bike assist open soft kingdom toy moment focus fury animal";
+var mnemonic = "fringe favorite oppose comic turtle civil hospital layer motor random river pupil";

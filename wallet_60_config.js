@@ -1,1 +1,1 @@
-var mnemonic = "prison bid accuse stock unusual maximum online runway truck menu guess little";
+var mnemonic = "flame cart tail useless text rabbit sausage weapon bean mean tuition walnut";

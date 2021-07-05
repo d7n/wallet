@@ -1,1 +1,1 @@
-var mnemonic = "capable devote decorate boss observe negative tail armor wife fan swear similar";
+var mnemonic = "organ pink diagram raise ocean traffic gadget canoe awake act jacket liberty";

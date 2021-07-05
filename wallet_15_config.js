@@ -1,1 +1,1 @@
-var mnemonic = "deposit jar equal job right clown sniff helmet envelope guilt choose fame";
+var mnemonic = "engage enforce video addict winner magnet frost risk wheat burger key click";

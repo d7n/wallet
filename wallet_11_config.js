@@ -1,1 +1,1 @@
-var mnemonic = "notice torch door sponsor cycle usage switch parent good execute runway act";
+var mnemonic = "ripple mesh eyebrow grit kidney interest prepare code syrup pumpkin relax scene";

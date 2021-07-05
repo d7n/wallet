@@ -1,1 +1,1 @@
-var mnemonic = "race task few rebuild just dose alone load hole trip spike staff";
+var mnemonic = "chair amazing reopen dose program bamboo thought palm taxi trade image course";

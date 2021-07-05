@@ -1,1 +1,1 @@
-var mnemonic = "raven wise again ecology clump settle crime peace buffalo narrow latin bubble";
+var mnemonic = "milk trend turkey alley flame clip civil obey axis tiny pink dust";

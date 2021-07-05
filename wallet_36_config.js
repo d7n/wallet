@@ -1,1 +1,1 @@
-var mnemonic = "reject number inmate okay essence finish decline myth rain region second end";
+var mnemonic = "tourist road coyote trouble gun fee priority coconut ginger digital solar tell";

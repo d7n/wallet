@@ -1,1 +1,1 @@
-var mnemonic = "identify sad monitor fresh habit abstract health that near gun skin melt";
+var mnemonic = "tomato actress fatal drink veteran already pilot melt squirrel produce illegal gap";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive spatial flock seed tuition secret fault number peanut captain banner toe";
+var mnemonic = "stove giraffe truck universe record nothing purse tiny poem awkward wife lion";

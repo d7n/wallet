@@ -1,1 +1,1 @@
-var mnemonic = "scale finger stay blue funny pupil online unlock vibrant defense spoon body";
+var mnemonic = "rubber carbon neither hero acoustic biology problem achieve entry rent barely rigid";

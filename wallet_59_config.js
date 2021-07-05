@@ -1,1 +1,1 @@
-var mnemonic = "analyst veteran weather advice begin tuna cement blood system stick swallow beach";
+var mnemonic = "debate tone hero shove cheese afraid renew sudden medal eight gauge ketchup";

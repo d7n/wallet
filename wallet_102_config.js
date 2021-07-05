@@ -1,1 +1,1 @@
-var mnemonic = "subway purpose fog barrel lucky zone connect oxygen critic annual away budget";
+var mnemonic = "fresh answer cushion famous gown garage fury frown vacant dignity family swing";

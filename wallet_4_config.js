@@ -1,1 +1,1 @@
-var mnemonic = "output share cram rack chase equal hour outside achieve source grain derive";
+var mnemonic = "hood humble stock grace company mom surround wealth mule report turkey damage";

@@ -1,1 +1,1 @@
-var mnemonic = "club toy purchase impact table ready mouse moment purity tag review clock";
+var mnemonic = "hair grow kitchen simple tip ocean artefact cinnamon moment penalty fury claw";

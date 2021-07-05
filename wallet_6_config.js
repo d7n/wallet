@@ -1,1 +1,1 @@
-var mnemonic = "kiss screen increase muscle alcohol suspect exile dismiss come target girl fog";
+var mnemonic = "direct abstract slow snow maximum diamond genuine box hospital pride funny remain";

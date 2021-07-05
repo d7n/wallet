@@ -1,1 +1,1 @@
-var mnemonic = "curtain million color uncover wisdom large custom autumn when entry slab cook";
+var mnemonic = "dress unhappy bean ball brick situate parent whale clog remain sphere warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid umbrella use sound camera label jeans marine ethics miss upgrade frog";
+var mnemonic = "vacant human roast curious prosper develop unlock lunch element blue bright anchor";

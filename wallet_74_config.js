@@ -1,1 +1,1 @@
-var mnemonic = "slow section ice evidence orient lamp add join rotate clown wine since";
+var mnemonic = "common appear grid transfer dignity owner cause glory screen off park cheese";

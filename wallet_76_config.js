@@ -1,1 +1,1 @@
-var mnemonic = "blur season trigger north dinosaur crowd bike hamster key flush program start";
+var mnemonic = "scout vehicle candy silver slice power menu recall timber choose humor useless";

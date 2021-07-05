@@ -1,1 +1,1 @@
-var mnemonic = "result treat uncover mango manage magnet business lounge until heavy gorilla skill";
+var mnemonic = "wash nephew video elder throw dismiss once token chronic electric visa whale";

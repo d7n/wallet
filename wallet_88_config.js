@@ -1,1 +1,1 @@
-var mnemonic = "walk guide simple metal scale convince inch elephant slogan unable romance miss";
+var mnemonic = "behind plastic envelope rack fiscal bargain height settle save sorry such love";

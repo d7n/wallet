@@ -1,1 +1,1 @@
-var mnemonic = "foil current canvas squeeze bird horse siege blood shift goat share again";
+var mnemonic = "rate dwarf minute stuff clean rookie october grocery utility vague annual rebuild";

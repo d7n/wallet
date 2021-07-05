@@ -1,1 +1,1 @@
-var mnemonic = "siren analyst service quantum rally symbol sight rocket soul power donate bid";
+var mnemonic = "dose board scorpion silent eagle cloth opinion under select matrix lab solution";

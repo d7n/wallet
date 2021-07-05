@@ -1,1 +1,1 @@
-var mnemonic = "teach soap snack top kite alter divert joke wisdom sleep horn you";
+var mnemonic = "episode arrange milk catch collect sea pyramid poverty jewel fresh food elite";

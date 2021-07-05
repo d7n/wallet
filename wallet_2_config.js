@@ -1,1 +1,1 @@
-var mnemonic = "deny afford initial just teach keep when crunch two license country receive";
+var mnemonic = "renew behave success ice concert cheese art kite boil wisdom grab ostrich";

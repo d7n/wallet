@@ -1,1 +1,1 @@
-var mnemonic = "device tool buffalo close mandate typical lucky imitate modify cotton absent forum";
+var mnemonic = "end interest boss travel tip share explain tiger maid twice rather hurdle";

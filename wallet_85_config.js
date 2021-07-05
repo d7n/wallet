@@ -1,1 +1,1 @@
-var mnemonic = "improve express vocal impose purity sweet penalty they fancy bunker mouse ritual";
+var mnemonic = "web submit sleep assume mother embark arch tribe bunker occur potato spy";

@@ -1,1 +1,1 @@
-var mnemonic = "keen cream aunt message wolf identify olive nurse immune yard shy bike";
+var mnemonic = "prepare tiny muffin raise ankle sting bag amused panic laundry decide galaxy";

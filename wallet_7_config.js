@@ -1,1 +1,1 @@
-var mnemonic = "slow toe symbol fitness skirt cruel text swarm envelope mix spare bulb";
+var mnemonic = "middle clock lab decline team curtain gift mass coconut fever copper country";

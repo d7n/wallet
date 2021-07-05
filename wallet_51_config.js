@@ -1,1 +1,1 @@
-var mnemonic = "mechanic win pilot car roast truth fire buzz dream regular zero nest";
+var mnemonic = "shiver gown mirror term catch front maze flight divide clinic auction silent";

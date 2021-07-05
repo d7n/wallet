@@ -1,1 +1,1 @@
-var mnemonic = "barely balcony near decorate sign diamond barely kangaroo scatter mechanic boss water";
+var mnemonic = "wave amount arrive broccoli fuel grape mountain title toward click clap system";

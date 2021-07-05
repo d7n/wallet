@@ -1,1 +1,1 @@
-var mnemonic = "olympic chronic pass occur addict census gym monitor mushroom almost beach disorder";
+var mnemonic = "cave soon amazing gravity torch kitten cause basket lawsuit soft torch waste";

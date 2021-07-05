@@ -1,1 +1,1 @@
-var mnemonic = "obvious glue dwarf wagon industry duck amused leg figure copy dutch unaware";
+var mnemonic = "recycle defense walnut gentle speed refuse black evidence egg dust ivory adapt";

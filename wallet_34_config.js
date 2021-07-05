@@ -1,1 +1,1 @@
-var mnemonic = "fire fault private asthma cute glad rule public similar amazing capital can";
+var mnemonic = "globe cruise corn utility street hundred topple image spirit palace labor connect";

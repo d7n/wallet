@@ -1,1 +1,1 @@
-var mnemonic = "install extend work praise disease admit cement view vendor short amazing device";
+var mnemonic = "omit fluid unhappy wage account kiwi burst wage crime blood jelly game";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit tape address casino stable caution same wolf more abstract adjust fix";
+var mnemonic = "engage adult lamp program quit manage home visa only tuna curve gasp";

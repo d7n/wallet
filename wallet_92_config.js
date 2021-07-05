@@ -1,1 +1,1 @@
-var mnemonic = "daughter skate grab disease drink design give hole wreck concert raccoon nerve";
+var mnemonic = "artist bargain near know acid sample grape elder place average plastic basket";

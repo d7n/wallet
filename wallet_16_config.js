@@ -1,1 +1,1 @@
-var mnemonic = "approve admit draft speed absurd supreme level deny hand pair error income";
+var mnemonic = "place cereal near daring grow gold hybrid whip embark mixture quarter soup";

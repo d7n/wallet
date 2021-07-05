@@ -1,1 +1,1 @@
-var mnemonic = "caution syrup hood jazz excuse puppy portion kick jump transfer liar camp";
+var mnemonic = "upset pitch virus advance laundry enable decline interest cabbage equal discover hello";

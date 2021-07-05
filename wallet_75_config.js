@@ -1,1 +1,1 @@
-var mnemonic = "black wrap treat lumber uphold crouch rival place night maple donkey amazing";
+var mnemonic = "arch ivory upset mixture people define essence human scrub horror seat tent";

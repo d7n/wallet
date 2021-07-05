@@ -1,1 +1,1 @@
-var mnemonic = "trip utility review polar trick acquire rubber real blue depend firm domain";
+var mnemonic = "escape pair matrix garbage diagram leaf possible light item coconut island float";

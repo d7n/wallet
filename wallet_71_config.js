@@ -1,1 +1,1 @@
-var mnemonic = "demand bleak bronze submit prison solid movie pool item shine acquire police";
+var mnemonic = "lunar hen creek mass pencil vote glow engage veteran early ordinary rocket";

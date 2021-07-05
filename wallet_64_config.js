@@ -1,1 +1,1 @@
-var mnemonic = "obscure leader scare purpose combine cloud melody assume story sauce cotton sock";
+var mnemonic = "pen turkey surge process rescue fall dance moon sheriff wave panda purchase";

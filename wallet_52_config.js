@@ -1,1 +1,1 @@
-var mnemonic = "baby property suffer grab broken hello pole reform bicycle spot kid sand";
+var mnemonic = "animal abstract meat main vague unusual result pledge alcohol brown idle armor";

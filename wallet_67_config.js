@@ -1,1 +1,1 @@
-var mnemonic = "pelican usage verb check exotic hammer problem accident portion regret timber outdoor";
+var mnemonic = "fold radar help toilet pear siege coast buyer toast exotic naive scissors";

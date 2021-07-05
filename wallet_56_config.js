@@ -1,1 +1,1 @@
-var mnemonic = "secret couch stereo orbit shadow firm list pumpkin fire peasant census loud";
+var mnemonic = "foot young repair session kangaroo cry success island ahead talent nest bird";

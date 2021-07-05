@@ -1,1 +1,1 @@
-var mnemonic = "crowd pistol sister unaware eye chief avoid kingdom slam kingdom edge boost";
+var mnemonic = "region club cool suit joke viable keep shoe voyage battle much blast";

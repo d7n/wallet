@@ -1,1 +1,1 @@
-var mnemonic = "walk lobster have include subway song near label nuclear orient surprise defense";
+var mnemonic = "taste theme clinic axis turn jelly unfair switch bread lava pizza shoulder";

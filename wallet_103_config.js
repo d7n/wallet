@@ -1,1 +1,1 @@
-var mnemonic = "stay weekend pistol fashion lemon script report peanut oblige build science intact";
+var mnemonic = "aerobic address eternal whale task hotel order excite push source enable beauty";

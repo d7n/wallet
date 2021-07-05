@@ -1,1 +1,1 @@
-var mnemonic = "sign meat cruel add certain sunset punch shove scan emotion clutch onion";
+var mnemonic = "before hard dog rookie room peanut type gift pony trumpet chapter street";

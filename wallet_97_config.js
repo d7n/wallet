@@ -1,1 +1,1 @@
-var mnemonic = "ivory matrix predict mean strategy vivid cherry fog ritual retire final egg";
+var mnemonic = "grant they ready cousin action spray moral protect potato tattoo omit pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "save tiny olympic defy regret wrong alcohol ticket design hockey tragic main";
+var mnemonic = "major goose spend pumpkin grid image ozone square view kitten property sustain";

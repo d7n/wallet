@@ -1,1 +1,1 @@
-var mnemonic = "mimic omit impose mix tooth ancient surround curious orbit craft blanket jaguar";
+var mnemonic = "dignity cotton avoid buffalo rate slender cave input waste smart harvest glide";

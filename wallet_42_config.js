@@ -1,1 +1,1 @@
-var mnemonic = "holiday suggest state energy waste ski relief crew purchase differ liberty property";
+var mnemonic = "tuna theory mansion sell lion obtain artist gather trick garlic elite sign";

@@ -1,1 +1,1 @@
-var mnemonic = "boil poem admit plunge pipe vague treat virtual innocent pledge aerobic gravity";
+var mnemonic = "wife hawk legal width light orchard genuine pull pig chronic maple drive";

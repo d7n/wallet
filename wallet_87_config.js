@@ -1,1 +1,1 @@
-var mnemonic = "box element message photo dress noise rally hammer hope between corn fit";
+var mnemonic = "advance history unlock heart purpose orchard rough mention harbor number sphere leave";

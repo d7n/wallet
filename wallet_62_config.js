@@ -1,1 +1,1 @@
-var mnemonic = "tower pact boat canvas eight allow shed virus liberty dynamic luxury drift";
+var mnemonic = "leg scare joy buddy enhance castle light gesture vessel mesh ten mandate";

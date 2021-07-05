@@ -1,1 +1,1 @@
-var mnemonic = "emerge two fork blood swear wing dance blur fancy trophy thank ribbon";
+var mnemonic = "stereo play naive regret duck broken renew leaf clean resist spring plunge";

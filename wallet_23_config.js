@@ -1,1 +1,1 @@
-var mnemonic = "spy wrist pulse erosion whisper resource suspect owner illness truly leaf primary";
+var mnemonic = "inherit road ball pony pulse note ahead beef bone carbon mouse shield";

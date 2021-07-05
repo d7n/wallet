@@ -1,1 +1,1 @@
-var mnemonic = "option stick blush veteran safe author blouse false carpet middle ramp walk";
+var mnemonic = "stick there dish language wild grab include client mansion goat coral acquire";

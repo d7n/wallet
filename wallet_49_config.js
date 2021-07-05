@@ -1,1 +1,1 @@
-var mnemonic = "mixture wing genius cave unusual add spot runway rich expand weapon van";
+var mnemonic = "actor diet material rent easily wine never muscle general cereal hybrid outer";

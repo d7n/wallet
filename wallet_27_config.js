@@ -1,1 +1,1 @@
-var mnemonic = "goat chief rose final mammal strike gain volcano sunny certain main claim";
+var mnemonic = "wonder vocal emerge opinion toss damp cycle brush clerk original current diet";

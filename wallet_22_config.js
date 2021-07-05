@@ -1,1 +1,1 @@
-var mnemonic = "century rose cliff panic device inherit summer exclude thought wasp similar exclude";
+var mnemonic = "stairs media ghost shallow mean december honey roof hurdle reduce road bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "flat want collect symbol plunge link act orient bundle trim garlic pigeon";
+var mnemonic = "similar donate control net push answer grief roof task poet evidence blame";

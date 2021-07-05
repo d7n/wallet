@@ -1,1 +1,1 @@
-var mnemonic = "steel lawn trash math expect drama wine decade begin avoid auto pulse";
+var mnemonic = "elegant canyon clump quality fee badge advice awful air until title snap";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding excite common curtain mean rug company repair crash capital cabin cattle";
+var mnemonic = "unable uphold deer similar remember emerge soldier faith sad blue topic amateur";

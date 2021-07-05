@@ -1,1 +1,1 @@
-var mnemonic = "damp link climb maid verify envelope trial window twin supply sugar bomb";
+var mnemonic = "pony alarm buyer soul talent mass liquid upper region head marble pioneer";

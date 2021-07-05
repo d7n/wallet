@@ -1,1 +1,1 @@
-var mnemonic = "artwork grocery gospel rifle dentist jungle recall birth box sea brisk demise";
+var mnemonic = "shoulder blur guilt dumb erase tone ready magnet company lesson north nose";

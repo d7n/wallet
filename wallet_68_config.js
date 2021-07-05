@@ -1,1 +1,1 @@
-var mnemonic = "swarm chest cram clarify dish bunker perfect elevator sound stumble drama poet";
+var mnemonic = "flat bind depend mango shoe frequent record canyon morning cradle vast cloud";

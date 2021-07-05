@@ -1,1 +1,1 @@
-var mnemonic = "list rhythm wagon cheese step physical shuffle mule cheap stay kiwi odor";
+var mnemonic = "wealth buzz suggest muffin series exit walnut aerobic squirrel protect know engine";

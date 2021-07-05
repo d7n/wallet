@@ -1,1 +1,1 @@
-var mnemonic = "pipe brave shoe lunch error eye bag basic cancel enable woman crash";
+var mnemonic = "decrease come require guide abandon long print walk trial tornado force offer";

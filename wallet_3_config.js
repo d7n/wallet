@@ -1,1 +1,1 @@
-var mnemonic = "patient clump unique uphold merry fragile corn moral muscle embody art excuse";
+var mnemonic = "keen offer cage wish predict decade night city gorilla fatal blue young";

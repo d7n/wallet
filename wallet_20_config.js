@@ -1,1 +1,1 @@
-var mnemonic = "exit wear core gloom yellow pupil blur attitude panic picture now exact";
+var mnemonic = "excess crater dragon square celery claim unhappy pioneer danger banner success satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "view cash tumble supreme annual throw program gentle hammer rib insane cheap";
+var mnemonic = "typical cabbage oppose network hood diet kingdom syrup hello lizard hello exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "absent crime glass grief cruise punch squeeze gown two dial bird trade";
+var mnemonic = "artefact primary magic roof grid salmon cigar bicycle add purse wage foil";

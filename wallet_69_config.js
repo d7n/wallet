@@ -1,1 +1,1 @@
-var mnemonic = "run tornado below razor enhance burden pear close debate estate produce finish";
+var mnemonic = "access sniff van nature sausage carbon observe aim pig media appear baby";

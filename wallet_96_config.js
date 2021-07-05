@@ -1,1 +1,1 @@
-var mnemonic = "unhappy couch matter usage syrup unique liberty flower dad render acid canoe";
+var mnemonic = "remember orphan hybrid gown pretty canvas flash dumb ranch merge auction doctor";

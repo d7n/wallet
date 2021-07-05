@@ -1,1 +1,1 @@
-var mnemonic = "custom list hour film airport topic ramp history theory essence know panel";
+var mnemonic = "connect blue face unit raw fog gym main coil double crawl prevent";

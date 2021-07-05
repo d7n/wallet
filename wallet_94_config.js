@@ -1,1 +1,1 @@
-var mnemonic = "ill birth copy any tiny that movie word lounge rigid outdoor combine";
+var mnemonic = "hazard youth average place wisdom monitor absurd finish gentle indoor cattle earth";
